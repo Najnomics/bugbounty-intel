@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 653
-- Conversations/threads: 477
+- Posts in this file: 654
+- Conversations/threads: 478
 - Oldest post captured: 2024-10-01
 - Newest post captured: 2026-11-10
 
@@ -4454,6 +4454,33 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-06-26 · Reply · @WhiteHatMage You found one or are you talking about Base?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @WhiteHatMage — 2026-06-26 18:33 UTC (2026-06-26 19:33 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2070576196228706468
+- Metrics (at fetch): bookmark 19, impression 3434, like 82, quote 0, reply 6, retweet 1
+
+> Second chain halt in two days.
+>
+> It's always difficult to assess the full impact it could have, including lost fees for projects and the chain, missed liquidations, potential bad debt in protocols, and reputational damage.
+>
+> Critical systems should aim for 24/7 uptime.
+
+
+### Post — @saxenism — 2026-06-26 19:30 UTC (2026-06-26 20:30 WAT)
+
+- URL: https://x.com/saxenism/status/2070590599741514060
+- Metrics (at fetch): bookmark 0, impression 408, like 2, quote 0, reply 1, retweet 0
+
+> @WhiteHatMage You found one or are you talking about Base?
+
+
+---
+
 ## 2026-06-26 · Post · can someone from @commonwarexyz please say hi in the replies?
 
 
@@ -7094,7 +7121,9 @@ Tags (automatic): AI-assisted hunting
 
 > With AI aggressively entering everyday lives, novel attack vectors come up every day.
 >
-> For example, if a black hat, well versed in the dark arts of web3, was behind this, I'd bet they'd be very interested in the LLM prompts of @WhiteHatMage, @0xriptide, @ControlZ_1337 etc https://t.co/3t7wu82DIY
+> For example, if a black hat, well versed in the dark arts of web3, was behind this, I'd bet they'd be very interested in the LLM prompts of @WhiteHatMage, @0xriptide, @ControlZ_1337 etc https://twitter.com/SecurityWeek/status/2009112988981076309
+
+**Links in post:** https://twitter.com/SecurityWeek/status/2009112988981076309
 
 **Quoted post (full text):**
 

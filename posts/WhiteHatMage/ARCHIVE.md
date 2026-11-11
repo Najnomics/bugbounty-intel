@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 149
-- Conversations/threads: 121
-- Oldest post captured: 2025-12-02
+- Posts in this file: 158
+- Conversations/threads: 122
+- Oldest post captured: 2025-11-29
 - Newest post captured: 2026-11-10
 
 
@@ -1035,7 +1035,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-06-26 · Post · Second chain halt in two days.
+## 2026-06-26 · Thread · Second chain halt in two days.
 
 
 Tags (automatic): Smart contract / DeFi
@@ -1051,6 +1051,30 @@ Tags (automatic): Smart contract / DeFi
 > It's always difficult to assess the full impact it could have, including lost fees for projects and the chain, missed liquidations, potential bad debt in protocols, and reputational damage.
 >
 > Critical systems should aim for 24/7 uptime.
+
+
+### Thread part 2 — @WhiteHatMage — 2026-06-26 19:36 UTC (2026-06-26 20:36 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2070591931021750703
+- Metrics (at fetch): bookmark 0, impression 334, like 6, quote 0, reply 0, retweet 0
+
+> @saxenism Just talking about Base and how bad it looks just on the reputation side -- not even counting direct losses.
+>
+> Imagine if it was a targeted attack. It could have been much worse.
+>
+> I have to say that Base has a good BBP though.
+>
+> Wondering why some chains don't even care about this.
+
+
+### Thread part 3 — @WhiteHatMage — 2026-06-26 19:42 UTC (2026-06-26 20:42 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2070593478896013388
+- Metrics (at fetch): bookmark 1, impression 664, like 6, quote 0, reply 0, retweet 0
+
+> I was referring to the Base incidents btw. I see it wasn't clear enough.
+>
+> I'm not actively hunting chain halts atm, just direct loss of assets.
 
 
 ---
@@ -1202,7 +1226,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-06-10 · Post · Was the Raydium exploit performed without access to the source code? I can't find it anywhere
+## 2026-06-10 · Thread · Was the Raydium exploit performed without access to the source code? I can't find it anywhere
 
 
 ### Post — @WhiteHatMage — 2026-06-10 19:41 UTC (2026-06-10 20:41 WAT)
@@ -1211,6 +1235,26 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 13, impression 5927, like 55, quote 0, reply 5, retweet 2
 
 > Was the Raydium exploit performed without access to the source code? I can't find it anywhere
+
+
+### Thread part 2 — @WhiteHatMage — 2026-06-10 19:44 UTC (2026-06-10 20:44 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2064795796675911833
+- Metrics (at fetch): bookmark 1, impression 1675, like 4, quote 0, reply 0, retweet 0
+
+> https://t.co/BaBMxyBalh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1494911114722697217 — 2026-06-10 15:54 UTC (2026-06-10 16:54 WAT)
+    
+    - URL: https://x.com/1494911114722697217/status/2064738005697384476
+    - Metrics (at fetch): bookmark 79, impression 149438, like 344, quote 83, reply 56, retweet 49
+    
+    > Raydium is aware of an exploit involving unauthorized removal of liquidity from its legacy AMM V3 program which was previously phased out in 2021. 
+    >
+    > No current users of Raydium are affected by this exploit or would have been able to interact with these pools through the UI since
+    
 
 
 ---
@@ -1530,7 +1574,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-05-15 · Post · Ironically bugs don't matter in bug bounties. Only exploitable paths do.
+## 2026-05-15 · Thread · Ironically bugs don't matter in bug bounties. Only exploitable paths do.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @WhiteHatMage — 2026-05-15 12:26 UTC (2026-05-15 13:26 WAT)
@@ -1539,6 +1586,34 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 21, impression 4363, like 103, quote 2, reply 8, retweet 9
 
 > Ironically bugs don't matter in bug bounties. Only exploitable paths do.
+
+
+### Thread part 2 — @WhiteHatMage — 2026-05-15 14:07 UTC (2026-05-15 15:07 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2055288892127912081
+- Metrics (at fetch): bookmark 0, impression 573, like 7, quote 0, reply 2, retweet 0
+
+> @MartinMarchev A bug requires an exploitable path to be eligible for a payment in a bounty program.
+>
+> It's in the rules. There's no actual impact if you can't prove an exploitable path.
+>
+> It doesn't mean it's not valuable. Therefore you might get a good-will payment.
+
+
+### Thread part 3 — @WhiteHatMage — 2026-05-15 14:11 UTC (2026-05-15 15:11 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2055289873615986760
+- Metrics (at fetch): bookmark 0, impression 66, like 0, quote 0, reply 0, retweet 0
+
+> @MartinMarchev Unless the program states it clearly in the impact section, like "unexpected contract, or blockchain outputs with no other direct impact".
+
+
+### Thread part 4 — @WhiteHatMage — 2026-05-15 14:35 UTC (2026-05-15 15:35 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2055296093471097045
+- Metrics (at fetch): bookmark 1, impression 484, like 5, quote 0, reply 0, retweet 0
+
+> *exploitable == reachable by external paths
 
 
 ---
@@ -2085,7 +2160,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-02-11 · Post · For all those broke people who think that they will get the next big bounty with AI: you won't.
+## 2026-02-11 · Thread · For all those broke people who think that they will get the next big bounty with AI: you won't.
 
 
 Tags (automatic): AI-assisted hunting
@@ -2102,9 +2177,22 @@ Tags (automatic): AI-assisted hunting
 >
 > It's ok to suck.
 >
-> But git gud. Learn how to prove things and validate your reports. Only then use whatever tool you like. https://t.co/MmKoh0o05y
+> But git gud. Learn how to prove things and validate your reports. Only then use whatever tool you like. https://twitter.com/IceSolst/status/2021056194761412906
+
+**Links in post:** https://twitter.com/IceSolst/status/2021056194761412906
 
 **Quoted post** 2021056194761412906: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @WhiteHatMage — 2026-02-11 21:55 UTC (2026-02-11 22:55 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2021704577863540795
+- Metrics (at fetch): bookmark 7, impression 4231, like 38, quote 1, reply 1, retweet 2
+
+> This is from some days ago [pic.x.com/XmNAHSahvO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA6JcMSWgAE4800.png — no alt text provided by author
 
 
 ---
@@ -2143,7 +2231,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-02-05 · Post · Our true hunter king @__nnez . The one with 20 Critical saves on live projects under the belt.
+## 2026-02-05 · Thread · Our true hunter king @__nnez . The one with 20 Critical saves on live projects under the belt.
+
+
+Tags (automatic): Platform: Immunefi
 
 
 ### Post — @WhiteHatMage — 2026-02-05 15:09 UTC (2026-02-05 16:09 WAT)
@@ -2153,9 +2244,36 @@ Tags (automatic): AI-assisted hunting
 
 > Our true hunter king @__nnez . The one with 20 Critical saves on live projects under the belt.
 >
-> The world is safe once again 👑 https://t.co/Z1BFspraSZ
+> The world is safe once again 👑 https://twitter.com/immunefi/status/2019372172460876090
+
+**Links in post:** https://twitter.com/immunefi/status/2019372172460876090
 
 **Quoted post** 2019372172460876090: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @WhiteHatMage — 2026-02-05 15:09 UTC (2026-02-05 16:09 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2019428273105826277
+- Metrics (at fetch): bookmark 0, impression 937, like 8, quote 0, reply 2, retweet 0
+
+> https://x.com/WhiteHatMage/status/1994820545238765958
+
+**Links in post:** https://x.com/WhiteHatMage/status/1994820545238765958
+
+**Quoted post (full text):**
+
+    #### Quoted post — @WhiteHatMage — 2025-11-29 17:27 UTC (2025-11-29 18:27 WAT)
+    
+    - URL: https://x.com/WhiteHatMage/status/1994820545238765958
+    - Metrics (at fetch): bookmark 1, impression 1437, like 11, quote 1, reply 1, retweet 0
+    
+    > @__nnez Act 3: The Return of the King
+    >
+    > Featuring @__nnez 👑 [pic.x.com/6SVSW9MmVU]
+    
+    **Media:**
+    - media `16_1994820538687000576` (details not returned by the API)
+    
 
 
 ---
@@ -2632,3 +2750,21 @@ Tags (automatic): Race condition
 > Only one person will find the exploit that drains the TVL of your project.
 >
 > You NEED to incentivize good actors ENOUGH to look at your code considering any risk factors.
+
+
+---
+
+## 2025-11-29 · Reply · @__nnez Act 3: The Return of the King
+
+
+### Post — @WhiteHatMage — 2025-11-29 17:27 UTC (2025-11-29 18:27 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1994820545238765958
+- Metrics (at fetch): bookmark 1, impression 1437, like 11, quote 1, reply 1, retweet 0
+
+> @__nnez Act 3: The Return of the King
+>
+> Featuring @__nnez 👑 [pic.x.com/6SVSW9MmVU]
+
+**Media:**
+- media `16_1994820538687000576` (details not returned by the API)

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 549
+- Posts in this file: 550
 - Conversations/threads: 495
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
@@ -1021,7 +1021,10 @@ Tags (automatic): Auth bypass, RCE
 
 ---
 
-## 2026-01-28 · Post · Currently debugging the Shazzer fuzzing network. Fixed one bug but there's more. Dev is hard.
+## 2026-01-28 · Thread · Currently debugging the Shazzer fuzzing network. Fixed one bug but there's more. Dev is hard.
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @garethheyes — 2026-01-28 20:14 UTC (2026-01-28 21:14 WAT)
@@ -1030,6 +1033,14 @@ Tags (automatic): Auth bypass, RCE
 - Metrics (at fetch): bookmark 0, impression 1424, like 8, quote 0, reply 1, retweet 0
 
 > Currently debugging the Shazzer fuzzing network. Fixed one bug but there's more. Dev is hard.
+
+
+### Thread part 2 — @garethheyes — 2026-01-28 21:24 UTC (2026-01-28 22:24 WAT)
+
+- URL: https://x.com/garethheyes/status/2016623528162836558
+- Metrics (at fetch): bookmark 0, impression 933, like 3, quote 0, reply 0, retweet 0
+
+> Think I've fixed it! Team work with Claude. The systematic debugging superpower is really useful for this
 
 
 ---

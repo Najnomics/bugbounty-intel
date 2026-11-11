@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
+- Posts in this file: 79
 - Conversations/threads: 68
 - Oldest post captured: 2023-03-14
 - Newest post captured: 2026-10-19
@@ -560,7 +560,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2026-05-13 · Post · absolutely heartbreaking.
+## 2026-05-13 · Thread · absolutely heartbreaking.
 
 
 Tags (automatic): Platform: Code4rena / Sherlock / Cantina
@@ -588,6 +588,16 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     
     > After careful consideration, we’ve made the decision to wind down @code4rena. This community has meant a great deal to everyone who has been part of building it, and sharing this news is not easy.
     
+
+
+### Thread part 2 — @deadrosesxyz — 2026-05-13 10:32 UTC (2026-05-13 11:32 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2054510026685919340
+- Metrics (at fetch): bookmark 0, impression 1477, like 38, quote 0, reply 0, retweet 0
+
+> good opportunity to thank @sockdrawermoney once again. incredible person who has changed the lives of many people. never greedy and always wanted to do things the right way.
+>
+> an absolute legend.
 
 
 ---

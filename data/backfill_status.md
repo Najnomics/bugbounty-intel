@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-11 10:45 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-11 10:48 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -28,7 +28,7 @@ Updated 2026-11-11 10:45 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @Guhu95 | 30 | 75 | 2023-08-19 |
 | @j00ru | 38 | 75 | 2011-07-12 |
 | @kevin_mizu | 40 | 75 | 2021-09-11 |
-| @deadrosesxyz | 32 | 78 | 2023-03-14 |
+| @deadrosesxyz | 32 | 79 | 2023-03-14 |
 | @_bagipro | 84 | 84 | 2020-08-16 |
 | @_blockian | 86 | 87 | 2023-03-03 |
 | @csanuragjain | 53 | 88 | 2018-11-14 |
@@ -46,8 +46,8 @@ Updated 2026-11-11 10:45 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @Assass1nmarcos | 45 | 138 | 2018-11-24 |
 | @bluethroat_labs | 146 | 146 | 2025-12-02 |
 | @0xPARC | 25 | 146 | 2021-11-11 |
-| @WhiteHatMage | 134 | 149 | 2025-12-02 |
 | @farazsth98 | 78 | 152 | 2019-09-30 |
+| @WhiteHatMage | 134 | 158 | 2025-11-29 |
 | @ma1fan | 44 | 163 | 2018-07-19 |
 | @kankodu | 57 | 166 | 2022-07-26 |
 | @zksecurityXYZ | 121 | 172 | 2023-07-02 |
@@ -66,22 +66,22 @@ Updated 2026-11-11 10:45 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @trailofbits | 65 | 255 | 2012-04-03 |
 | @pcaversaccio | 37 | 282 | 2022-06-18 |
 | @ajxchapman | 26 | 293 | 2013-03-23 |
-| @galnagli | 68 | 302 | 2020-07-24 |
+| @galnagli | 68 | 304 | 2020-07-24 |
 | @albinowax | 59 | 342 | 2011-03-08 |
 | @DevDacian | 32 | 404 | 2023-02-23 |
-| @zellic_io | 27 | 407 | 2022-01-27 |
 | @zseano | 47 | 420 | 2015-08-11 |
 | @Rhynorater | 188 | 422 | 2017-06-13 |
 | @anchabadze | 94 | 460 | 2025-02-05 |
-| @S1r1u5_ | 66 | 486 | 2017-02-26 |
-| @garethheyes | 59 | 549 | 2008-10-22 |
+| @S1r1u5_ | 66 | 487 | 2017-02-26 |
+| @zellic_io | 27 | 542 | 2022-01-27 |
+| @garethheyes | 59 | 550 | 2008-10-22 |
 | @mdp_sec | 586 | 593 | 2026-07-22 |
-| @irsdl | 35 | 595 | 2010-05-25 |
-| @saxenism | 651 | 653 | 2024-10-01 |
+| @irsdl | 35 | 596 | 2010-05-25 |
+| @saxenism | 651 | 654 | 2024-10-01 |
 | @ChainLight_io | 150 | 1081 | 2022-11-05 |
-| @NahamSec | 176 | 1163 | 2016-09-01 |
+| @NahamSec | 176 | 1164 | 2016-09-01 |
 
-Total: 5581 → 14991
+Total: 5581 → 15143
 
 ## Search cursors (pass 5, until_id paging)
 

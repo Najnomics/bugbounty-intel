@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 595
-- Conversations/threads: 518
+- Posts in this file: 596
+- Conversations/threads: 519
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
 
@@ -1073,6 +1073,22 @@ Tags (automatic): AI-assisted hunting
 > Opus 4.8 is capable in reversing, we then ask Fable 5 to find a bypass! 
 >
 > #NDay #AI #MSRC
+
+
+---
+
+## 2026-06-01 · Reply · @ryancbarnett At one point I even said there is an xss here that the regex cannot block... but still
+
+
+Tags (automatic): XSS, AI-assisted hunting
+
+
+### Post — @irsdl — 2026-06-01 20:51 UTC (2026-06-01 21:51 WAT)
+
+- URL: https://x.com/irsdl/status/2061551277231030626
+- Metrics (at fetch): bookmark 0, impression 52, like 1, quote 0, reply 1, retweet 0
+
+> @ryancbarnett At one point I even said there is an xss here that the regex cannot block... but still opus 4.5 had problems with it. I haven't tried opus 4.6 or 4.7 on it. That would be a challenge for me. I think AI without a tool can have a hard time parsing the regex properly to then find
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 407
-- Conversations/threads: 114
+- Posts in this file: 542
+- Conversations/threads: 124
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
 
@@ -5086,7 +5086,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     >
     > How did this happen?
     >
-    > Let's take a look: https://t.co/oypXYDRMEd
+    > Let's take a look: [pic.x.com/oypXYDRMEd]
     
     **Media:**
     - media `3_1552316421966888961` (details not returned by the API)
@@ -5112,7 +5112,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     >
     > We found some pretty interesting addresses out there...and you might have already interacted with some of them!
     >
-    > Here's what we found 👇 https://t.co/CAYUDkvrsx
+    > Here's what we found 👇 [pic.x.com/CAYUDkvrsx]
     
     **Media:**
     - media `3_1554861687521419264` (details not returned by the API)
@@ -5138,7 +5138,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     >
     > In this thread, we'll break down:
     > 🎯 our car's unique strategy
-    > 🎯 the vulnerabilities our car exploited https://t.co/QIhcuLbfGG
+    > 🎯 the vulnerabilities our car exploited [pic.x.com/QIhcuLbfGG]
     
     **Media:**
     - media `3_1620844487022096384` (details not returned by the API)
@@ -5164,7 +5164,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     >
     > But surprisingly, the root cause is usually NOT a coding mistake.
     >
-    > A META-ANALYSIS THREAD.👇 https://t.co/LexvldQd6y
+    > A META-ANALYSIS THREAD.👇 [pic.x.com/LexvldQd6y]
     
     **Media:**
     - media `3_1552720451398316032` (details not returned by the API)
@@ -5235,7 +5235,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     >
     > Make sure your team is aware of this little-known returndata bombing vulnerability! 🐛🐛🐛
     >
-    > 👇 A THREAD. https://t.co/50pJAlV6mm
+    > 👇 A THREAD. [pic.x.com/50pJAlV6mm]
     
     **Media:**
     - media `16_1565052075725049857` (details not returned by the API)
@@ -5415,7 +5415,10 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 ---
 
-## 2023-04-07 · Post · You’ve probably heard of Tornado Cash - an open source coin mixer - because it was blacklisted by th
+## 2023-04-07 · Thread · You’ve probably heard of Tornado Cash - an open source coin mixer - because it was blacklisted by th
+
+
+Tags (automatic): ZK
 
 
 ### Post — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
@@ -5427,6 +5430,90 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Media:**
 - media `3_1644408028366778368` (details not returned by the API)
+
+
+### Thread part 2 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408035190923265
+- Metrics (at fetch): bookmark 0, impression 2334, like 7, quote 0, reply 1, retweet 0
+
+> Before we begin, let's define what a mixer is and why someone might want to use it. In Ethereum, all transactions are transparently recorded, which means that the sender and receiver addresses are publicly visible.
+
+
+### Thread part 3 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408037720068096
+- Metrics (at fetch): bookmark 0, impression 2105, like 6, quote 0, reply 1, retweet 0
+
+> By using a mixer, however, users can conceal the source and destination of their transactions. Tornado Cash provides a reliable mixing service that builds upon cryptographic techniques (ZKP, Merkle trees, etc.), unlike suspicious alternatives found on the dark web.
+
+
+### Thread part 4 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408044208685062
+- Metrics (at fetch): bookmark 1, impression 2080, like 6, quote 0, reply 1, retweet 1
+
+> In Tornado Cash, a user deposit coins with two random numbers: k(nullifier) and r(secret). Then, the commitment C = H(k||r) is stored in a Merkle tree. https://t.co/zqt6YqCoBQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtIcZipaEAEzjZP.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408047190831105
+- Metrics (at fetch): bookmark 0, impression 1893, like 4, quote 0, reply 1, retweet 0
+
+> In simple terms, the commitment acts as a transaction record that is publicly visible. In contrast, the nullifier k and secret r act as account passwords, which are necessary for withdrawals and must be kept confidential.
+
+
+### Thread part 6 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408053150932993
+- Metrics (at fetch): bookmark 0, impression 1965, like 4, quote 0, reply 1, retweet 0
+
+> To withdraw a coin, a user must prove that their knowledge of k and r corresponds to the correct l-th leaf. ZKP allows a prover to prove that their k and r is valid by showing H(k||r) is stored in a Merkle tree without revealing k, r, and l. https://t.co/Vyh5BgYuRv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtIcaF5aYAAtOau.png — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408056091140096
+- Metrics (at fetch): bookmark 0, impression 1745, like 3, quote 0, reply 1, retweet 0
+
+> As a result, a user can withdraw a deposit without revealing which coin index is being withdrawn. Therefore, deposit and withdraw histories are recorded but cannot be linked to deposit and withdraw addresses.
+
+
+### Thread part 8 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408058628694016
+- Metrics (at fetch): bookmark 0, impression 1792, like 4, quote 0, reply 1, retweet 0
+
+> In our blog post, we dive deeper into a couple of different aspects of Tornado Cash:
+>
+> 1.  The math behind deposits and withdrawals,
+>
+> 2.  How does Groth16 - its zero-knowledge proof system - work and why is it important,
+
+
+### Thread part 9 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408061191409664
+- Metrics (at fetch): bookmark 0, impression 2189, like 1, quote 0, reply 1, retweet 0
+
+> 3.  A discussion of procedures such as trusted setup and powers-of-tau,
+>
+> 4.  Several security concerns to note (including using different hash functions, dependencies that need auditing, and user mistakes).
+
+
+### Thread part 10 — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408063775096833
+- Metrics (at fetch): bookmark 8, impression 2187, like 19, quote 0, reply 0, retweet 2
+
+> Check out our new blog post! https://t.co/qR2U7DpeCk
 
 
 ---
@@ -5469,7 +5556,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2023-03-18 · Post · Can ChatGPT audit smart contracts?
+## 2023-03-18 · Thread · Can ChatGPT audit smart contracts?
 
 
 Tags (automatic): Smart contract / DeFi, AI-assisted hunting
@@ -5488,9 +5575,78 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 - photo: https://pbs.twimg.com/media/FrdiD-MXoAEj12z.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1636889265064869888
+- Metrics (at fetch): bookmark 2, impression 3343, like 18, quote 0, reply 1, retweet 0
+
+> As a test, we created a simple, small smart contract, but one with a hidden flaw in it.
+>
+> ChatGPT was unable to find even a basic coding mistake: lack of input validation. https://t.co/rLX7jZsnro
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frdi-18XoAESy2W.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FrdjBVDWYAEacT5.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1636889266163728385
+- Metrics (at fetch): bookmark 0, impression 3041, like 13, quote 0, reply 1, retweet 0
+
+> What was the bug? Well first, let's go over the contract itself. It's a very simple vault contract that accepts user deposits in ERC20. For each deposit, it mints corresponding account "credit" tokens that can be redeemed/burned to withdraw the deposit. https://t.co/qMWU0oV3ur
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrdkLeZXgAEYCsR.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1636889267212263424
+- Metrics (at fetch): bookmark 0, impression 2557, like 11, quote 0, reply 1, retweet 0
+
+> Not counting blank lines and comments, this contract is only *31 lines long*!
+>
+> Most major protocols are complicated, clocking in at 1,000s or 10,000s of lines long. https://t.co/YliJmXoKRi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrdkkUeWwAMiQyQ.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1636889268323864577
+- Metrics (at fetch): bookmark 0, impression 2331, like 11, quote 0, reply 1, retweet 0
+
+> The bug: in `redeem`, the untrusted input `token` isn't checked. An attacker could pass in a fake token that they created. That fake token would have an underlying() of a real token, like USDC. But an attacker could mint this fake token for free. They could drain the vault. https://t.co/lWvjVPjL0Q
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrdlEMNWYAAJZB6.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1636889269334601728
+- Metrics (at fetch): bookmark 0, impression 2609, like 10, quote 0, reply 1, retweet 0
+
+> This bug is extremely surface level, and the function is only 4 lines long. ChatGPT missed it on numerous attempts.
+
+
+### Thread part 7 — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1636889270165164036
+- Metrics (at fetch): bookmark 1, impression 2514, like 14, quote 0, reply 1, retweet 0
+
+> We hope you enjoyed this thread! If you want to know more details, check out our blog post on this subject:
+> https://t.co/8B2lyyS5Ew
+
+
 ---
 
-## 2023-03-17 · Post · As a follow up to reverse-engineering the Euler attack, we dug into the protocol's economic design t
+## 2023-03-17 · Thread · As a follow up to reverse-engineering the Euler attack, we dug into the protocol's economic design t
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
@@ -5503,9 +5659,125 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 **Links in post:** https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
 
 
+### Thread part 2 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765185779339266
+- Metrics (at fetch): bookmark 0, impression 381, like 0, quote 0, reply 1, retweet 0
+
+> The fundamental question we sought to answer:
+>
+> If the attacker took on a borrow position — partially donated the backing of this position and then liquidated themselves — how could they come out with more money than they started with? https://t.co/GGhzumMX9i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frb1QonakAErf5I.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765188790812673
+- Metrics (at fetch): bookmark 0, impression 261, like 0, quote 0, reply 1, retweet 0
+
+> To answer that we must understand Euler's mechanics:
+>
+> Euler issues ETokens (interest earning tokens) to account for deposited money into the protocol and issues DTokens (Debt tokens) to account for borrowed money from the protocol.
+
+
+### Thread part 4 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765195640127488
+- Metrics (at fetch): bookmark 0, impression 283, like 0, quote 0, reply 1, retweet 0
+
+> This is relevant in the case of a liquidation event. A user who lacks the collateral to maintain their borrowing position — known as a violator — will have their collateral AND debt seized by a liquidator.
+>
+> https://t.co/1fCunrfeAT https://t.co/voZLOSGsgL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frb1RMfakAA5cWU.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765203550597122
+- Metrics (at fetch): bookmark 0, impression 233, like 0, quote 0, reply 1, retweet 0
+
+> And in order for a liquidator to want to seize someone else's debt, there must be some sort of incentive. The greater the debt, the bigger this incentive must be.
+>
+> https://t.co/5pn0WSGq15 https://t.co/SkrpO6tbbE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frb1RokacAAg8Ba.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765211670753282
+- Metrics (at fetch): bookmark 0, impression 277, like 0, quote 0, reply 1, retweet 0
+
+> Note that a high ratio of D to E tokens means that the liquidator will be taking on more debt.
+>
+> Ordinarily, the transfer of ETokens requires a liquidity check. However, this check was absent in the donateToReserves function.
+>
+> https://t.co/V9ForP2PHo https://t.co/32XbhOywPK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frb1SHeaUAA2YLR.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765218822041601
+- Metrics (at fetch): bookmark 0, impression 285, like 1, quote 0, reply 1, retweet 0
+
+> The attacker exploited precisely this absence and donated their E tokens to create the aforementioned incentive. In fact, the exact formula used to determine the liquidators profit can be seen in the image below.
+>
+> https://t.co/VseJ3ofKWH https://t.co/sgQeQC0oOd
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frb1SjlaQAAGt3v.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765222093619204
+- Metrics (at fetch): bookmark 0, impression 592, like 1, quote 0, reply 1, retweet 0
+
+> By donating their E Tokens, the position becomes unhealthier, and by extension, the liquidation discount is higher. As the conversion rate increases, the liquidator's yield becomes more fruitful.
+
+
+### Thread part 9 — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765224689860610
+- Metrics (at fetch): bookmark 0, impression 587, like 1, quote 0, reply 0, retweet 0
+
+> The outcome: A USD 100M exploit.
+>
+> Economic incentive bugs are hard. They cannot be caught by static analyzers or automated tooling and require a deep understanding of the protocol's cutomised system.
+
+
 ---
 
-## 2023-03-14 · Post · Earlier today, Euler Finance was exploited for over USD 190M. One transaction in particular yielded 
+## 2023-03-14 · Post · TL;DR: Attacker flash loans a large deposit, then liquidates themselves. End result: they end up wit
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2023-03-14 07:10 UTC (2023-03-14 08:10 WAT)
+
+- URL: https://x.com/zellic_io/status/1635538760699105280
+- Metrics (at fetch): bookmark 0, impression 2787, like 15, quote 0, reply 2, retweet 1
+
+> TL;DR: Attacker flash loans a large deposit, then liquidates themselves. End result: they end up with more money than they started.
+>
+> Our hearts go out to the victims of the hack and the Euler community. Hacks are terrible things to see.
+
+
+---
+
+## 2023-03-14 · Thread · Earlier today, Euler Finance was exploited for over USD 190M. One transaction in particular yielded 
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @zellic_io — 2023-03-14 07:09 UTC (2023-03-14 08:09 WAT)
@@ -5518,9 +5790,76 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > We've reverse engineered this transaction trace to recreate the attacker's extract exploit.
 
 
+### Thread part 2 — @zellic_io — 2023-03-14 07:09 UTC (2023-03-14 08:09 WAT)
+
+- URL: https://x.com/zellic_io/status/1635538730181341184
+- Metrics (at fetch): bookmark 0, impression 2947, like 13, quote 0, reply 1, retweet 2
+
+> The attack can be summarized as following:
+>
+> 1) The attacker takes a flash loan &amp; deposits it into Euler.
+> 2) Euler mints tokens for the deposit.
+> 3) The attacker donates these minted tokens, meaning they can be liquidated.
+> 4) The attacker liquidates themselves for profit.
+
+
+### Thread part 3 — @zellic_io — 2023-03-14 07:09 UTC (2023-03-14 08:09 WAT)
+
+- URL: https://x.com/zellic_io/status/1635538739052281856
+- Metrics (at fetch): bookmark 0, impression 2889, like 6, quote 0, reply 1, retweet 1
+
+> The core issue at hand is that the attacker liquidating themselves resulted in a profit greater than the debt. Let's see this whole process end to end in code.
+>
+> 1)  First, the attacker takes a flash loan of wstETH from Balancer. [pic.x.com/BeIywO8jzx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrKZ0ALaUAEMOWP.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2023-03-14 07:09 UTC (2023-03-14 08:09 WAT)
+
+- URL: https://x.com/zellic_io/status/1635538747239563266
+- Metrics (at fetch): bookmark 0, impression 2639, like 3, quote 0, reply 1, retweet 1
+
+> 2) The attacker then deposits this flash loan into Euler and mints corresponding tokens. These tokens are subsequently donated via the donateToReserve function.
+>
+> This puts the attacker in a position to liquidate themselves. [pic.x.com/XUH5t8cH0F]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrKZ0fIaYAELUdX.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2023-03-14 07:10 UTC (2023-03-14 08:10 WAT)
+
+- URL: https://x.com/zellic_io/status/1635538754181152769
+- Metrics (at fetch): bookmark 0, impression 2392, like 3, quote 0, reply 1, retweet 1
+
+> Here is the liquidation process, which allows the user to liquidate themselves for a corresponding collateral value greater than their the debt position. [pic.x.com/FqQIxNArWw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrKZ06WaMAA-bcx.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2023-03-14 07:10 UTC (2023-03-14 08:10 WAT)
+
+- URL: https://x.com/zellic_io/status/1635538757527928832
+- Metrics (at fetch): bookmark 7, impression 2715, like 19, quote 0, reply 3, retweet 5
+
+> The profit from such an exploit? 66,000 ETH or 110 mil USD
+>
+> Try running the full exploit yourself here: We've reproduced a full POC for the community's education!
+>
+> https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
+
+**Links in post:** https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
+
+
 ---
 
-## 2023-02-01 · Post · This weekend, we played 0xmonaco @matchbox_dao, a web3 gaming competition. We developed a highly pro
+## 2023-02-01 · Thread · This weekend, we played 0xmonaco @matchbox_dao, a web3 gaming competition. We developed a highly pro
+
+
+Tags (automatic): Race condition, Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory corruption / native
 
 
 ### Post — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
@@ -5532,10 +5871,283 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 >
 > In this thread, we'll break down:
 > 🎯 our car's unique strategy
-> 🎯 the vulnerabilities our car exploited https://t.co/QIhcuLbfGG
+> 🎯 the vulnerabilities our car exploited [pic.x.com/QIhcuLbfGG]
 
 **Media:**
 - media `3_1620844487022096384` (details not returned by the API)
+
+
+### Thread part 2 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844500359970817
+- Metrics (at fetch): bookmark 0, impression 1129, like 5, quote 0, reply 1, retweet 1
+
+> But first, what is 0xmonaco?
+>
+> 0xmonaco is a unique, on-chain game with Mario Kart-style mechanics. You write a smart contract that implements your car's strategy.
+>
+> The game was originally developed for ParadigmCTF 2022. Since then, @matchbox_dao has added many new features.
+
+
+### Thread part 3 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844502943674369
+- Metrics (at fetch): bookmark 0, impression 986, like 2, quote 0, reply 1, retweet 0
+
+> There's math, economics, and optimizoooring all involved. What's not to love about it?
+>
+> Given the on-chain nature of the game, our instincts as hackers were to (1) optimize the crap out of our strategy, and (2) find bugs.
+>
+> Let's break down our main strategy first.
+
+
+### Thread part 4 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844513370730496
+- Metrics (at fetch): bookmark 0, impression 978, like 3, quote 0, reply 2, retweet 0
+
+> 📍 HOW OUR CAR'S STRATEGY WORKED 📍
+>
+> In addition to high level strategies similar to other top competitors, a key feature of our strategy was the ability to predict the actions of our competitors turns in advance.
+>
+> We use this alpha to pick actions leading to the best outcome. [pic.x.com/eUtWLwqSqe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5lfTRaEAIn5b1.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844518110269440
+- Metrics (at fetch): bookmark 0, impression 2137, like 3, quote 0, reply 1, retweet 1
+
+> One noticable change from Paradigm 2022's 0xmonaco contract is the addition of statelessness to takeYourTurn function. The Monaco instance is provided as an argument instead of the constructor.
+>
+> This interesting feature gave us the ability to simulate moves.
+
+
+### Thread part 6 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844520685568000
+- Metrics (at fetch): bookmark 0, impression 799, like 2, quote 0, reply 1, retweet 0
+
+> Our simulator took advantage of the fact that you could call other cars' takeYourTurn functions with an arbitrary Monaco instance.
+>
+> Our constructor deployed a MonacoSimulator contract to track the actions of cars, then, to simulate, we used a try/catch call with a safe gas limit.
+
+
+### Thread part 7 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844523260907520
+- Metrics (at fetch): bookmark 0, impression 786, like 4, quote 0, reply 1, retweet 0
+
+> To prevent our car from being simulated by other teams, we:
+>
+> 🎯 ensured that the gas limit was high (&gt; 1_998_000) at the start of the takeYourTurn function
+> 🎯 consumed all of the gas at the end of our takeYourTurn to make too expensive to simulate us
+
+
+### Thread part 8 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844532341538821
+- Metrics (at fetch): bookmark 0, impression 811, like 3, quote 0, reply 1, retweet 0
+
+> One of the issues we ran into with the simulator was its high gas consumption.
+>
+> We hardcoded everything we could in the constructor where we have a high gas limit.
+>
+> Then, we implemented a series sum function to replace Monaco's for loops—which were HUGE gas-eaters. [pic.x.com/ucGT78TgCp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5lgfRaIAAttJo.jpg — alt text: "Very messy math showing the sum == our cumulative function (given some preset variables)"
+
+
+### Thread part 9 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844536275808257
+- Metrics (at fetch): bookmark 0, impression 786, like 1, quote 0, reply 1, retweet 0
+
+> 📍 SOME BUGS OUR CAR USED 📍
+>
+> Next, let's break down some of the bugs we found. We got greedy, wanting to showcase our findings. In the end, we got disqualified, but that's okay! We had it coming.
+
+
+### Thread part 10 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844544513441793
+- Metrics (at fetch): bookmark 0, impression 775, like 4, quote 0, reply 1, retweet 0
+
+> 🐛 BUG #1: Free unlimited shields.
+>
+> car.shield is incremented by 1+0 when calling buyShield(0), but the cost is 0 because getShieldCost(0) would return 0. [pic.x.com/W1BztvEfav]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5lhQMacAA7jEX.jpg — alt text: "The 1+amount allows us to set amount to 0 but still increment the car.shield. getShieldCost(0) returns 0."
+
+
+### Thread part 11 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844547780771842
+- Metrics (at fetch): bookmark 0, impression 720, like 2, quote 0, reply 1, retweet 0
+
+> 🐛 BUG #2: Double bananas cause cars that try to clear them with a shell to revert.
+>
+> Additionally, only one of the bananas is cleared when a car runs over it. The only way to clear a double-banana without hitting it is to buy a supershell.
+
+
+### Thread part 12 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844557100515328
+- Metrics (at fetch): bookmark 0, impression 725, like 3, quote 0, reply 1, retweet 0
+
+> This bug exists because buyShell pops from the bananas array without updating the len variable.
+>
+> So, bananas[len - 1] on the second iteration causes an index-out-of-bounds reversion. [pic.x.com/WcTRBQOn5Y]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5lh6oacAIrBzM.jpg — alt text: "The bananas.pop() changes the array size, but len never gets updated."
+
+
+### Thread part 13 — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844560875388929
+- Metrics (at fetch): bookmark 0, impression 826, like 2, quote 0, reply 1, retweet 0
+
+> We leveraged this to our advantage, e.g. wanting to supershell but if it's cheaper to buy two bananas, we can potentially force cars behind us to buy a supershell (and simulate to ensure they do).
+>
+> Otherwise, reversion == inaction, which is likely beneficial to us too.
+
+
+### Thread part 14 — @zellic_io — 2023-02-01 18:01 UTC (2023-02-01 19:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844801464897536
+- Metrics (at fetch): bookmark 0, impression 1030, like 11, quote 0, reply 1, retweet 0
+
+> 🐛 BUG #3 (CRITICAL): Forge HEVM cheatcodes were enabled.
+>
+> With Forge cheatcodes, contracts are all-powerful; for example, they can update storage slots or even overwrite another car's bytecode.
+>
+> You can make cars drive backwards or drive off of the track &amp; over the water! [pic.x.com/u4sJegMXy9]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 15 — @zellic_io — 2023-02-01 18:01 UTC (2023-02-01 19:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844808272216064
+- Metrics (at fetch): bookmark 0, impression 762, like 1, quote 0, reply 1, retweet 0
+
+> Our goal was to make it to the finals and showcase the final bug with an entertaining race, knowing well ahead it would DQ us. It would've made for an amazing stream.
+>
+> But we got DQ-ed even before that in semi-finals for using the free shield bug.
+
+
+### Thread part 16 — @zellic_io — 2023-02-01 18:01 UTC (2023-02-01 19:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844815574511617
+- Metrics (at fetch): bookmark 0, impression 1059, like 1, quote 0, reply 1, retweet 0
+
+> Those three bugs were what we crypto committed.
+>
+> https://x.com/zellic_io/status/1619697438775967750 [pic.x.com/nBQILBC6Qx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5lxH3aMAU-nmc.png — no alt text provided by author
+
+**Links in post:** https://x.com/zellic_io/status/1619697438775967750
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-01-29 14:02 UTC (2023-01-29 15:02 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1619697438775967750
+    - Metrics (at fetch): bookmark 0, impression 2208, like 0, quote 1, reply 0, retweet 0
+    
+    > 1a505a77e407cff25fa015088bc6f60284931efa09b4c307b1a93e508c3b83d6 https://twitter.com/matchbox_dao/status/1619643804105191424
+    
+    **Links in post:** https://twitter.com/matchbox_dao/status/1619643804105191424
+    
+    **Quoted post** 1619643804105191424: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 17 — @zellic_io — 2023-02-01 18:01 UTC (2023-02-01 19:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844818908995589
+- Metrics (at fetch): bookmark 0, impression 830, like 1, quote 0, reply 1, retweet 0
+
+> We've also open sourced our contracts here:
+>
+> https://gist.github.com/zellic-audit/84f976e3fa69b0643a83b07ae8049cf9
+
+**Links in post:** https://gist.github.com/zellic-audit/84f976e3fa69b0643a83b07ae8049cf9
+
+
+### Thread part 18 — @zellic_io — 2023-02-01 18:01 UTC (2023-02-01 19:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844821522046976
+- Metrics (at fetch): bookmark 0, impression 834, like 4, quote 0, reply 1, retweet 0
+
+> Overall, it's for the best we got disqualified. Though it would have made for an entertaining stream, we're glad @Uniswap was able to take home the win. Looking back, we could've reported the bugs. After all, that's our duty as auditooors. The game aspect got to our head.
+
+
+### Thread part 19 — @zellic_io — 2023-02-01 18:01 UTC (2023-02-01 19:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844824151867393
+- Metrics (at fetch): bookmark 0, impression 956, like 3, quote 0, reply 1, retweet 0
+
+> To end things off, congratulations to Uniswap, and a massive shoutout to @matchbox_dao for their hard work. 0xmonaco was a unique and awesome experience. It wouldn't have been possible without their continued efforts!
+>
+> Looking forward to the next iteration!
+
+
+### Thread part 20 — @zellic_io — 2023-02-01 18:01 UTC (2023-02-01 19:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844826714583041
+- Metrics (at fetch): bookmark 0, impression 1428, like 2, quote 0, reply 0, retweet 0
+
+> I hope you've found this thread helpful.
+>
+> Follow me @zellic_io for more.
+>
+> Like/Retweet the first tweet below if you can: https://twitter.com/zellic_io/status/1620844495226179586
+
+**Links in post:** https://twitter.com/zellic_io/status/1620844495226179586
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1620844495226179586
+    - Metrics (at fetch): bookmark 23, impression 32090, like 78, quote 10, reply 4, retweet 14
+    
+    > This weekend, we played 0xmonaco @matchbox_dao, a web3 gaming competition. We developed a highly profitable racing strategy by leveraging clever math and bugs. We got DQ-ed😅
+    >
+    > In this thread, we'll break down:
+    > 🎯 our car's unique strategy
+    > 🎯 the vulnerabilities our car exploited [pic.x.com/QIhcuLbfGG]
+    
+    **Media:**
+    - media `3_1620844487022096384` (details not returned by the API)
+    
+
+
+---
+
+## 2023-01-29 · Post · 1a505a77e407cff25fa015088bc6f60284931efa09b4c307b1a93e508c3b83d6 https://twitter.com/matchbox_dao/st
+
+
+### Post — @zellic_io — 2023-01-29 14:02 UTC (2023-01-29 15:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1619697438775967750
+- Metrics (at fetch): bookmark 0, impression 2208, like 0, quote 1, reply 0, retweet 0
+
+> 1a505a77e407cff25fa015088bc6f60284931efa09b4c307b1a93e508c3b83d6 https://twitter.com/matchbox_dao/status/1619643804105191424
+
+**Links in post:** https://twitter.com/matchbox_dao/status/1619643804105191424
+
+**Quoted post** 1619643804105191424: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -5840,7 +6452,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-09-01 · Post · We partnered with @Jarvis_Network to secure their Synthereum protocol 
+## 2022-09-01 · Thread · We partnered with @Jarvis_Network to secure their Synthereum protocol 
 
 
 ### Post — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
@@ -5857,9 +6469,86 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Here's what we found👇
 
 
+### Thread part 2 — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+
+- URL: https://x.com/zellic_io/status/1565406336166141952
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Finding 1:
+>
+> The lending storage manager included a function to migrate the multiple liquidity pools to a new address.
+>
+> However, the function did not migrate critical accounting information such as:
+>
+> • number of synthetic tokens
+> • collateral assets of liquidity provider [pic.x.com/b3krdICSob]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FblwwwHUUAANLHZ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fblww9hUEAATNXK.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+
+- URL: https://x.com/zellic_io/status/1565406339102154754
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Thankfully, this code was not called from anywhere else, limiting the bug's impact.
+>
+> @jarvis_network created a library for managing the pool migration, addressing the concerns of 
+>
+> 1. Migrating LP-level collateral &amp; token assets
+> 2. Migrating total pool synthetic tokens.
+
+
+### Thread part 4 — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+
+- URL: https://x.com/zellic_io/status/1565406345481711616
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Finding 2: The Uniswap module for swapping collateral into JRT didn't support passing a parameter for the slippage check.
+>
+> Calls to swaps need slippage checks, or they could be sandwich attacked by frontrunners. [pic.x.com/nsHQWdYFbl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FblwxdcUcAAUpHr.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+
+- URL: https://x.com/zellic_io/status/1565406348308652037
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> This was fixed by adding a slippage limit parameter.
+>
+> We highlighted 2 other low/informational issues found in our audit report of Jarvis.
+
+
+### Thread part 6 — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+
+- URL: https://x.com/zellic_io/status/1565406350816858112
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> During the audit, we paid special attention to the new functionality Jarvis was adding. Notably, the support for multiple LPs. We paid particular attention to logic bugs around these new features.
+>
+> We commend Jarvis for the clear code!
+
+
+### Thread part 7 — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+
+- URL: https://x.com/zellic_io/status/1565406353333424128
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> For full details on all findings, please see our report deliverable at: https://github.com/Zellic/publications/blob/master/Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf
+>
+> Want better audits? Schedule a call with us at https://www.zellic.io/contact-us.
+
+**Links in post:** https://github.com/Zellic/publications/blob/master/Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf, https://www.zellic.io/contact-us
+
+
 ---
 
-## 2022-08-31 · Post · Does your protocol rely on a Solidity try/catch statement preventing a reversion in the caller when
+## 2022-08-31 · Thread · Does your protocol rely on a Solidity try/catch statement preventing a reversion in the caller when
 
 
 Tags (automatic): Smart contract / DeFi
@@ -5874,10 +6563,87 @@ Tags (automatic): Smart contract / DeFi
 >
 > Make sure your team is aware of this little-known returndata bombing vulnerability! 🐛🐛🐛
 >
-> 👇 A THREAD. https://t.co/50pJAlV6mm
+> 👇 A THREAD. [pic.x.com/50pJAlV6mm]
 
 **Media:**
 - media `16_1565052075725049857` (details not returned by the API)
+
+
+### Thread part 2 — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1565052086525386754
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> When a vulnerable contract makes an external call to an attacker contract, the callee exploiting the returndata gas bombing vulnerability reverts with a large amount of data. This results in a reversion in the caller.
+
+
+### Thread part 3 — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1565052096864350208
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Why? Because of the large RETURNDATACOPY that runs in the caller that consumes a large amount of gas. ⛽ [pic.x.com/VPXtR6AVyj]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1565052103285821440
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Any code storing the return data of an external call to a variable is vulnerable—EVEN IF THAT VARIABLE IS NEVER AGAIN USED!
+>
+> And keep in mind, this is all implementation-defined. There's no guarantee how solc will behave in the future!
+>
+> An example: [pic.x.com/Rgl3yEFiD3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fbgul2cUsAAcqig.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1565052109321433088
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> To exploit this, a callee may revert in the following way—returning a large data buffer—thereby reverting in the caller.
+>
+> ⚠️ This isn't caught by the try-catch! [pic.x.com/Znm6uUUEB8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbgumOzVUAAgo-v.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1565052112186122240
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> How to mitigate:
+>
+> 1.) Don't store the return data if you don't need it.
+>
+> 2.) If you do need the return data, limit the RETURNDATASIZE.
+>
+> 3.) If preventing reverts is an important security property, consider using a library like ExcessivelySafecall: https://github.com/nomad-xyz/ExcessivelySafeCall
+
+**Links in post:** https://github.com/nomad-xyz/ExcessivelySafeCall
+
+
+### Thread part 7 — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1565052114849542144
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> If you enjoyed reading about returndata bombing, please:
+> • Share with your friends
+> • Follow @zellic_io
+>
+> Want help securing your protocol? Schedule a free consult with us at https://www.zellic.io/contact-us.
+
+**Links in post:** https://www.zellic.io/contact-us
 
 
 ---
@@ -6044,7 +6810,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-08-22 · Post · Aces up the sleeves of security-conscious Ethereum developers: 
+## 2022-08-22 · Thread · Aces up the sleeves of security-conscious Ethereum developers: 
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
@@ -6057,9 +6826,116 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > A thread 🧵👇
 
 
+### Thread part 2 — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831087512231936
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 2, retweet 0
+
+> 1. Test, fuzz, and debug with Foundry! 🧪
+>
+> This Rust-based development toolkit will bring you up to speed with the latest testing features for Solidity development. 
+>
+> + As a must in any contract's testing phases, mainnet forking is supported on Foundry.
+>
+> https://github.com/foundry-rs/foundry
+
+**Links in post:** https://github.com/foundry-rs/foundry
+
+
+### Thread part 3 — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831090758696960
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 2. Forking a project? 🍴 
+>
+> Investigate similar contracts via block explorers. 
+>
+> + How often has it been forked? How many times has it been audited and by whom? 
+> + Are there known hacks related to it? 
+> + Does the original protocol have an active community?
+>
+> https://etherscan.io/searchcontract
+
+**Links in post:** https://etherscan.io/searchcontract
+
+
+### Thread part 4 — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831094059577344
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 3. Using auxiliary contracts? 👽
+>
+> Research on how to properly use them.
+>
+> + As an example, front-run 🏃 attacks may arise due to Uniswap's slippage check, amountOutMin, being left = 0 when calling the swap functions.
+>
+> https://solidity-by-example.org/
+> https://samczsun.com/research/
+
+**Links in post:** https://solidity-by-example.org/, https://samczsun.com/research/
+
+
+### Thread part 5 — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831097574440960
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 4. What about design patterns? 🎨
+>
+> Keep it simple.
+>
+> + No need to reinvent the wheel; the most qualitative protocols have a really easy-to-understand structure 🏗️.
+> + Simplicity is your friend. The smaller the code size, the lower the chances of bugs 🐛 hiding in plain sight.
+
+
+### Thread part 6 — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831100787224576
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 5. IDE extensions? Sure thing!
+>
+> Probably the most helpful extension currently available. 
+>
+> This helps visualize states and function calls within the contract, and much more.
+>
+> https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
+
+**Links in post:** https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
+
+
+### Thread part 7 — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831103912022016
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 6. Finally, ask around!
+>
+> + ETH has a remarkably open and friendly community willing to answer your questions!
+> + Join the ETHSecurity Community Discord and ask away:
+>
+> https://discord.gg/BC2CuWmuDh
+
+**Links in post:** https://discord.gg/BC2CuWmuDh
+
+
+### Thread part 8 — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831107435278336
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> If you found this useful please make sure to:
+>
+> + Keep on building 🔨 , securely 🔒. 
+> + Share with your friends 
+> + Follow @zellic_io
+
+
 ---
 
-## 2022-08-08 · Post · We are proud to have helped secure the smart contracts of @AnteFinance! 🎉 
+## 2022-08-08 · Thread · We are proud to have helped secure the smart contracts of @AnteFinance! 🎉 
 
 
 Tags (automatic): Smart contract / DeFi
@@ -6080,9 +6956,158 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/FZq0QyHVEAA-Zry.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754828629508096
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 2
+
+> Ante is a way for projects to back their claims/invariants with tangible stake.
+>
+> When a claim (aka "test") fails, the stake is split between challengers of the claim. In this way, Ante acts as failure protection for DeFi.
+>
+> https://t.co/lR41XFW9Cw @AnteFinance
+
+
+### Thread part 3 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754835411652608
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> ⭐ FINDING 1: Malicious challengers could potentially FORCE tests to fail and thereby drain all tests of their stake.
+>
+> This is due to a obscure Solidity "feature" where 1/64th of txn gas remains after an out-of-gas reversion in a try/catch.
+>
+> https://t.co/uKEo86EVub https://t.co/c3eIFzLz4B
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZq0RTGUYAAMWoa.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754841975656448
+- Metrics (at fetch): bookmark 1, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> If the _checkTestNoRevert function (called by checkTest) returns false, challengers receive the payout. So, to exploit this, attackers must pick a gas limit such that:
+>
+> 💫 an out-of-gas occurs inside the external call
+> 💫 (1/64 * gas limit) is enough to store that the test failed https://t.co/LdZoI6Oyld
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZq0RsHVUAAdY7-.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754844777492480
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> To mitigate this issue, Ante plans to use special return values to distinguish between a return from the external call and a revert due to out-of-gas error in the external call.
+>
+> Note that no live pools are currently vulnerable to this.
+
+
+### Thread part 6 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754850670870528
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> ⭐ FINDING 2: An attacker could potentially drain all stake upon detecting a failed test, in a block stuffing-esque attack.
+>
+> This is due to a for-loop that iterates over every challenger. If too many challengers are registered, the loop will hit the gas limit and revert. [pic.x.com/0tkX4giPkP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZq0SNLUsAAaVuu.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754853573308416
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Exploitation scenario:
+>
+> 1️⃣ Upon detecting a test will fail, deposit a large amount as a challenger.
+> 2️⃣ Lock checkTest by registering many challengers.
+> 3️⃣ Twelve blocks later, unlock checkTest by removing challengers.
+> 4️⃣ Call checkTest to claim rewards and the 5% bounty.
+
+
+### Thread part 8 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754856060170240
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> To mitigate this issue, @AnteFinance selected a maximum number of challengers that may be registered to a pool so that checkTest cannot be locked.
+
+
+### Thread part 9 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754858538967042
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> ⭐ FINDING 3: Certain vulnerable tests could allow reentrancy in checkTest—allowing a challenger to drain the pool of funds by repeatedly claiming the 5% bounty.
+>
+> To be vulnerable, a test must both:
+>
+> 💫 fail by returning false
+> 💫 make an external call to an attacker
+
+
+### Thread part 10 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754861080727552
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> For full details on all findings, please see our report deliverable at https://github.com/Zellic/publications/blob/master/Ante%20-%20Zellic%20Audit%20Report.pdf
+
+**Links in post:** https://github.com/Zellic/publications/blob/master/Ante%20-%20Zellic%20Audit%20Report.pdf
+
+
+### Thread part 11 — @zellic_io — 2022-08-08 21:35 UTC (2022-08-08 22:35 WAT)
+
+- URL: https://x.com/zellic_io/status/1556755891117907968
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> Be sure to check out @AnteFinance's analysis of our findings:
+>
+> https://x.com/AnteFinance/status/1556753944583450624
+
+**Links in post:** https://x.com/AnteFinance/status/1556753944583450624
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1293606166262689792 — 2022-08-08 21:27 UTC (2022-08-08 22:27 WAT)
+    
+    - URL: https://x.com/1293606166262689792/status/1556753944583450624
+    - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 2, reply 1, retweet 2
+    
+    > tl;dr: funds are SAFU, but we've also done a deep dive into the audit here to provide some color to the findings and resolutions: https://medium.com/ante-finance/ante-v0-5-zellic-audit-walkthrough-859dc9c74a47
+    
+    **Links in post:** https://medium.com/ante-finance/ante-v0-5-zellic-audit-walkthrough-859dc9c74a47
+    
+
+
+### Thread part 12 — @zellic_io — 2022-08-08 21:58 UTC (2022-08-08 22:58 WAT)
+
+- URL: https://x.com/zellic_io/status/1556761881322422272
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> If you enjoyed reading about these vulnerabilities, please:
+> 👉 Share with your friends
+> 👉 Follow @Zellic_io 
+>
+> Schedule a free consult at https://zellic.io
+
+**Links in post:** https://zellic.io
+
+
 ---
 
-## 2022-08-03 · Post · Thread: How thousands of Slope wallets were hacked and how other wallets can avoid this 👇 https://t.
+## 2022-08-03 · Thread · Thread: How thousands of Slope wallets were hacked and how other wallets can avoid this 👇 https://t.
+
+
+Tags (automatic): Dependency confusion / supply chain, Mobile / Android / iOS, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
@@ -6096,9 +7121,279 @@ Tags (automatic): Smart contract / DeFi
 - media `3_1554936139844165632` (details not returned by the API)
 
 
+### Thread part 2 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936146190225408
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 1
+
+> 1/ First, the following theories are considered very unlikely and entirely rejected: 
+>
+> - issues in Solana core
+> - issues in SPL token
+> - crypto issues (e.g. weak RNGs)
+> - widespread user devices compromise
+> - supply chain (compromised libraries)
+
+
+### Thread part 3 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936148673191936
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 1
+
+> 2/ In the war room, we first hypothesized that wallets may be leaking mnemonics or private keys to Sentry.
+>
+> After further investigation with the community, this is what we found:
+
+
+### Thread part 4 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936151194025985
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 1, reply 1, retweet 2
+
+> 3/ First, let's talk about Sentry.
+>
+> Sentry is an event logging platform used for reporting errors in apps.
+>
+> If a certain event occurs in the app, a request containing the details &amp; environment is logged to the company's Sentry.
+>
+> Many companies use Sentry on websites &amp; mobile.
+
+
+### Thread part 5 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936158114553856
+- Metrics (at fetch): bookmark 24, impression 0, like 157, quote 61, reply 6, retweet 44
+
+> 4/ The Slope Wallet for iOS and Android uses Sentry for event logging.
+>
+> Any interaction in the app would trigger an event log.
+>
+> Unfortunately, Slope didn't configure Sentry to scrub sensitive info. Thus, mnemonics were leaked to Sentry
+>
+> s/o to @sniko_ for this screenshot: https://t.co/Rs7pEvVGsJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZQ-MU6VQAAHh0a.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936161566568448
+- Metrics (at fetch): bookmark 0, impression 0, like 32, quote 3, reply 3, retweet 1
+
+> 5/ However, Slope has been using Sentry for only 1 week now.
+>
+> **Hypothetically**, an attacker *with access to Sentry* could go through event logs and steal the thousands of mnemonics leaked in the past week
+>
+> Then drain thousands of wallets.
+
+
+### Thread part 7 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936164133392385
+- Metrics (at fetch): bookmark 0, impression 0, like 30, quote 0, reply 1, retweet 2
+
+> 6/ Wallets using Sentry or other analytics platforms need to be aware of what information is being logged.
+>
+> With Sentry, it's possible to scrub data you don't want to be logged. This can be done with server-side scrubbing or in the Sentry SDK.
+
+
+### Thread part 8 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936166759051266
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 1, reply 1, retweet 3
+
+> 7/ Furthermore, if sensitive data has been logged, remove it from Sentry. 
+>
+> Removing events is not enough, you must also remove the Sentry tags.
+>
+> This can be done in "Project Settings &gt; Tags" to remove any related data for a given tag.
+
+
+### Thread part 9 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936169732849666
+- Metrics (at fetch): bookmark 2, impression 0, like 21, quote 0, reply 1, retweet 4
+
+> 8/ We highly recommend reading through Sentry's documentation:
+>
+> • https://t.co/bQxkR3uzFm
+> • https://t.co/niBx7sZX4d
+
+
+### Thread part 10 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936172278718465
+- Metrics (at fetch): bookmark 0, impression 0, like 24, quote 0, reply 2, retweet 7
+
+> 9/ If you have used Slope, you should generate a new wallet and migrate your assets there. 
+>
+> The private keys previously used in Slope should be considered compromised.
+
+
+### Thread part 11 — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936174967263233
+- Metrics (at fetch): bookmark 1, impression 0, like 20, quote 0, reply 3, retweet 2
+
+> 10/ The investigation into this incident is still ongoing. 
+>
+> We have been working with other security researchers &amp; firms to identify the root cause and will continue to work closely with them to release more details. Please follow @Zellic_io for more updates.
+
+
 ---
 
-## 2022-08-03 · Post · 1/ We forked Geth to compile a list of all 23,897,838 Ethereum contract addresses—a snapshot of ever
+## 2022-08-03 · Post · Quick correction: Each zero byte *SAVES* 12 gas. Non-zero bytes cost 16 and zero-bytes cost 4. 12 ga
+
+
+### Post — @zellic_io — 2022-08-03 16:13 UTC (2022-08-03 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1554862914816905221
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 2, retweet 0
+
+> Quick correction: Each zero byte *SAVES* 12 gas. Non-zero bytes cost 16 and zero-bytes cost 4. 12 gas is the net difference saved
+
+
+---
+
+## 2022-08-03 · Post · Also cute: Numerati's address starts with 12345678910
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861733923041282
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Also cute: Numerati's address starts with 12345678910
+>
+> 0x12345678910f9de260d08f4e179103ce14cfd8eb https://t.co/OmwtUc4JtF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZP6gUTVUAATOC6.png — no alt text provided by author
+
+
+---
+
+## 2022-08-03 · Post · This is cute: 1inch's token address starts with a bunch of 1's 👌
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861727941988352
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> This is cute: 1inch's token address starts with a bunch of 1's 👌
+>
+> 0x111111111117dc0aa78b770fa6a738034120c302 https://t.co/Z8SDDNGy4d
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZP6f9wUcAEBZM4.png — no alt text provided by author
+
+
+---
+
+## 2022-08-03 · Post · Well, other than vanity, addresses with more zeros are actually *cheaper*. No, really!
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861721843425280
+- Metrics (at fetch): bookmark 2, impression 0, like 7, quote 0, reply 1, retweet 1
+
+> Well, other than vanity, addresses with more zeros are actually *cheaper*. No, really!
+>
+> Believe it or not, each zero byte makes call data cheaper.
+>
+> Gas costs are important, especially for MEVoors. Non-zero bytes cost 12 gas. Zero bytes are free!
+>
+> Source: the Ethereum Yellow Paper https://t.co/jweb0ghRWt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZP6fkSVUAEtgVa.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-03 · Post · A bit is either 1 or 0, so the likelihood of this address is 1 in 2^56. To generate an address like 
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861715396800514
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> A bit is either 1 or 0, so the likelihood of this address is 1 in 2^56. To generate an address like this, it'd take an average of 72,600,000,000,000,000 hashes.
+>
+> That's a huge number. Why would someone want such a low address?
+
+
+---
+
+## 2022-08-03 · Post · To understand its rarity, let's clarify a few properties about addresses:
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861712573997056
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> To understand its rarity, let's clarify a few properties about addresses:
+>
+> Addresses are truncated hashes of public key. They are securely pseudorandom. All parts of an address are independent from each other.
+>
+> That address has 14 leading zero hex digits = 56 leading zero bits.
+
+
+---
+
+## 2022-08-03 · Post · Addresses can be brute forced via "CREATE2"
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861710049103873
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Addresses can be brute forced via "CREATE2"
+>
+> The `CREATE2` https://t.co/S24OF9KaE3 opcode grants us the ability to infer a contract's deployment address as a function of
+>
+> • The sender's address
+>
+> • A salt, any arbitrary value
+>
+> • The to-be-deployed contract’s bytecode
+
+
+---
+
+## 2022-08-03 · Post · Here's one of the rarest contract addresses:
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861707192721408
+- Metrics (at fetch): bookmark 2, impression 0, like 6, quote 1, reply 1, retweet 0
+
+> Here's one of the rarest contract addresses:
+>
+> 0x000000000000006f6502b7f2bbac8c30a3f67e9a
+>
+> A MEV bot with 14 leading zeros. Just how rare is this? https://t.co/CDfJwE79Ff
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZP6evHVEAAcxRY.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-03 · Thread · 1/ We forked Geth to compile a list of all 23,897,838 Ethereum contract addresses—a snapshot of ever
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
@@ -6110,10 +7405,43 @@ Tags (automatic): Smart contract / DeFi
 >
 > We found some pretty interesting addresses out there...and you might have already interacted with some of them!
 >
-> Here's what we found 👇 https://t.co/CAYUDkvrsx
+> Here's what we found 👇 [pic.x.com/CAYUDkvrsx]
 
 **Media:**
 - media `3_1554861687521419264` (details not returned by the API)
+
+
+### Thread part 2 — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861694513344512
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 1, reply 2, retweet 2
+
+> Addresses are 20 bytes in size. Back of the napkin calculation:
+>
+> 24 million * 20 bytes = 480000000 bytes = .48GB
+>
+> At least half a gigabyte in the Ethereum blockchain is just occupied by contract addresses.
+>
+> (This calculation isn't 100% precise, but it's a useful estimate)
+
+
+### Thread part 3 — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861700716699650
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 1
+
+> Some uniquely cool-looking addresses we found:
+>
+> OpenSea Seaport (0x0000..)
+> 0x00000000006c3852cbef3e08e8df289169ede581
+>
+> Gnosis Safe Proxy: (0xdeadbeef...) 0xdeadbeefadf9f06945b3dfaf4f73fdecc70e1c89
+>
+> Compound Governor Bravo: (0xaaaaa...)
+> 0xaaaaaaaaaaaa8fdb04f544f4eee52939cddce378 [pic.x.com/asaV8RVQ8f]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZP6eWWVUAAIvmB.jpg — no alt text provided by author
 
 
 ---
@@ -6152,7 +7480,10 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-08-01 · Post · $10,000,000 is the highest bug bounty reward ever given.🏆
+## 2022-08-01 · Thread · $10,000,000 is the highest bug bounty reward ever given.🏆
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
@@ -6170,9 +7501,210 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227000578936832
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 1
+
+> 1/ First, let's understand what proxies are. 
+>
+> Blockchains are immutable, meaning deployed smart contract code cannot be changed. 
+>
+> Even if:
+> - Vulnerabilities are found
+> - Other bugs exist
+> - You want to ship new features
+>
+> Proxies solve this issue.
+
+
+### Thread part 3 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227009223462913
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 2/ Proxies act as a gateway between users and smart contract logic.
+>
+> The following two diagrams visualize the basics.
+>
+> 1. Users interact with the proxy contract.
+> 2. The proxy interacts with the logic contract
+>
+> The proxy contract can point to a new logic contract if needed. [pic.x.com/SvFNkFqbOi]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZG5OTzVQAAHWru.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FZG5Oe9UEAE2vhV.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227015972052992
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 3/ On Ethereum, proxies use `delegatecall` to use the code of another contract.
+>
+> Thus, the proxy contract (A) uses the code of contract B. But, any state changes modify the storage of contract A.
+>
+> The contract's data is stored in the proxy. But it can be upgraded with new code. [pic.x.com/7maNmZo4nM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZG5O1AUsAAjBZh.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227018958376960
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 4/ Thus, upgrades are trivial. 
+>
+> The address of the logic contract, stored in the proxy contract, is updated to the address of the new contract containing updates.
+>
+> But now we must consider constructors. Constructors are called during the deployment of a contract.
+
+
+### Thread part 6 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227021588287489
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 5/ Constructors hold initialization logic.
+>
+> They don't play well with proxy implementations.
+>
+> Remember how proxies use delegatecall?
+>
+> Constructors only change the storage of the contract implementing it (B), not the storage of the proxy contract (A), which is required.
+
+
+### Thread part 7 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227024226439169
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> 6/ Wormhole utilized a proxy pattern called the Universal Upgradeable Proxy Standard (UUPS). 
+>
+> To solve the constructor issue, upgradeable contracts use a function named “initialize“. 
+>
+> This is called once and is protected from being called again.
+
+
+### Thread part 8 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227026772381696
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 7/ However, in Wormhole, the safeguard to “initialize” was altered due to a previous bug update. Anyone could call it and become the owner of the UUPS implementation!
+>
+> An attacker could've frozen $1.8 BILLION in assets.
+>  
+> Let’s dive deeper.
+
+
+### Thread part 9 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227029301547008
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 8/ Wormhole is protected by a “Guardian Set”, which is a cryptographically secure way to prove identity.
+>
+> This Guardian Set shielded the contracts from unauthorized individuals trying to invoke admin functions (ex: upgrading)
+
+
+### Thread part 10 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227035366510592
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 9/ However, the “initialize” function provided a way to supply new guardians.
+>
+> Anyone could’ve provided their own guardian set, giving them complete authority over the contract. [pic.x.com/0LGKUS3np7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZG5P-xVsAA1G0p.jpg — no alt text provided by author
+
+
+### Thread part 11 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227042672992256
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 10/ Assuming an attacker-controlled the guardian set, what could they do?
+>
+> Well, they could upgrade the contract! The upgradeability, only defended by the broken guardian set, was now open for an attacker 
+>
+> In this screenshot is the exact code of the scenario [pic.x.com/dGgdcNGZoC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZG5QX3VEAAfRVz.jpg — no alt text provided by author
+
+
+### Thread part 12 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227050428346368
+- Metrics (at fetch): bookmark 1, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 11/ Now the attacker can upgrade the contract to a new implementation.
+>
+> The attacker sets the new implementation to the “Malicious” contract, which calls the “initialize” function since it gets called upon contract deployment. [pic.x.com/GTwhM6B1GX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZG5QyaUcAEOG5t.jpg — no alt text provided by author
+
+
+### Thread part 13 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227053813084160
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 12/ The delegatecall self-destructs the Malicious contract which is now the new Wormhole implementation! The proxy now forwards to a destructed contract—completely bricking it.
+
+
+### Thread part 14 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227056379981824
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 13/ Fortunately, a white hat hacker reported the bug, and no user funds were lost in the process.
+>
+> Massive respect to the Wormhole team for showing commitment to their word and paying out the hacker.
+
+
+### Thread part 15 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554227197719842818
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> If you enjoyed this thread interesting, please:
+> • Share with your friends
+> • Follow @zellic_io
+>
+> https://x.com/Zellic_io/status/1554226997542260736
+
+**Links in post:** https://x.com/Zellic_io/status/1554226997542260736
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1554226997542260736
+    - Metrics (at fetch): bookmark 5, impression 0, like 15, quote 1, reply 1, retweet 2
+    
+    > $10,000,000 is the highest bug bounty reward ever given.🏆
+    >
+    > Earlier this year, Wormhole awarded it for a critical finding. 
+    >
+    > Let's dive into a $10M vulnerability: 👇🧵 [pic.x.com/alKEGSXYEo]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
+    
+
+
 ---
 
-## 2022-07-28 · Post · Billions of dollars stolen. Of top DeFi hacks, half of the protocols exploited for nine-figures are 
+## 2022-07-28 · Thread · Billions of dollars stolen. Of top DeFi hacks, half of the protocols exploited for nine-figures are 
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
@@ -6187,18 +7719,112 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 >
 > But surprisingly, the root cause is usually NOT a coding mistake.
 >
-> A META-ANALYSIS THREAD.👇 https://t.co/LexvldQd6y
+> A META-ANALYSIS THREAD.👇 [pic.x.com/LexvldQd6y]
 
 **Media:**
 - media `3_1552720451398316032` (details not returned by the API)
 
 
+### Thread part 2 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720463616684032
+- Metrics (at fetch): bookmark 3, impression 0, like 9, quote 0, reply 2, retweet 0
+
+> 2/ These hack tend to fall under 3 main categories:
+>
+> 1️⃣ centralization risk (bad key management, phishing, weak multisig, …)
+>
+> 2️⃣ faulty design (incorrect assumptions, improper privileges, ...)
+>
+> 3️⃣ coding mistakes (bad input validation, buggy access control, …) [pic.x.com/7NHpgRv7qy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYxfB6aUcAAdpGq.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720466753626113
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 1
+
+> 3/ 80% of value stolen from bridges wasn’t due to coding mistakes, but rather from flaws in a bridge’s design. Coding mistakes are a preventable implementation detail.
+>
+> But no matter how secure an implementation is, if the underlying design is broken, it’s game over.
+>
+> 2 examples:
+
+
+### Thread part 4 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720469303799808
+- Metrics (at fetch): bookmark 1, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> 4/ DESIGN FLAW EXAMPLE: Poly Network had a specific ownership structure in its contracts which was problematic because users could call arbitrary contracts from an "owner" contract.
+>
+> https://x.com/kelvinfichter/status/1425220160814784512
+
+**Links in post:** https://x.com/kelvinfichter/status/1425220160814784512
+
+
+### Thread part 5 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720476396392448
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> 5/ CENTRALIZATION RISK EXAMPLE: In the Ronin hack, an attacker was able to obtain the private keys of enough validators to reach consensus to approve deposits/withdrawals. The validators were written securely, but the system was weak due to insufficient decentralization. [pic.x.com/xU1COkljpB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYxfCrhUcAAsk1j.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720479596662784
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 6/ Why are bridge hacks so important?
+>
+> Bridges are infrastructure. And, a bridge's TVL scales with the size of the ecosystem it underpins; projects built on top of bridges could become insolvent if bridged collateral is stolen. Thus, bridge compromises are often catastrophic.
+
+
+### Thread part 7 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720482167771137
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> 7/ Interestingly, we found zero bridge hacks that were the result of a compromised L1. This is surprising because every additional supported chain is a new point of failure.
+>
+> But current trends show that attackers are more interested in trust and centralization exploits.
+
+
+### Thread part 8 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720484734623744
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> 8/ What do these results mean for you?
+>
+> Zellic has great experience auditing cross-chain projects. If you’re building cross-chain, verifying critical trust relationships is as important as code.
+>
+> Data shows us that prioritizing this is worthwhile. Make sure your team knows it too
+
+
+### Thread part 9 — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720487335137280
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> If you found this thread interesting, please:
+> • Share with your friends
+> • Follow @zellic_io
+
+
 ---
 
-## 2022-07-27 · Post · An attacker drained $6,000,000 from Audius $AUDIO  &lt;72 hours ago.
+## 2022-07-27 · Thread · An attacker drained $6,000,000 from Audius $AUDIO  &lt;72 hours ago.
 
 
-Tags (automatic): Smart contract / DeFi
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
@@ -6212,10 +7838,245 @@ Tags (automatic): Smart contract / DeFi
 >
 > How did this happen?
 >
-> Let's take a look: https://t.co/oypXYDRMEd
+> Let's take a look: [pic.x.com/oypXYDRMEd]
 
 **Media:**
 - media `3_1552316421966888961` (details not returned by the API)
+
+
+### Thread part 2 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317417459777536
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 1/ The Audius smart contracts use a pattern called the "Proxy Upgrade Pattern".
+>
+> This means you can update the logic of a smart contract.
+>
+> Pro: users don't need to interact with new contracts.
+>
+> Con: Proxy upgrade patterns are easily misused, as proven here.
+>
+> Let's dive deeper:
+
+
+### Thread part 3 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317418927710210
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 2/ The variable defining the contract's admin address collided with 2 other variables.
+>
+> 1) "Initialized"
+>
+> and
+>
+> 2) "Initializing"
+>
+> This is a storage collision!
+>
+> Well, what's a storage collision?
+
+
+### Thread part 4 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317420668329984
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 3/ First, what’s storage? Storage is a place where variables get saved and persist on the blockchain.
+>
+> One storage slot can hold 256 bits or 32 bytes.
+>
+> The Initialized and Initializing variables were 8 bits each. 
+>
+> Thus, they both fit in the 0th storage slot.
+>
+> Let’s dig deeper:
+
+
+### Thread part 5 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317424371998722
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> 4/ Storage slot 0 contains the:
+>
+> -  Admin address
+> - `initialized` boolean
+> - `initializing` boolean
+>
+> PS: the order of variable declaration dictates the storage slots
+>
+> Audius should've put the admin address in a random storage slot instead of position 0.
+>
+> Here's where it goes wrong [pic.x.com/UiEbmSudZE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYrqRqsWYAMTUkF.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FYrqRqtX0AEKsSv.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317426431303681
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 5/ The address value now controls the boolean values of `initialized` &amp; `initializing`.
+>
+> Both were set to "True" instead of the intended False.
+>
+> This allowed ANYBODY to access guarded functions.
+>
+> FOR 2 YEARS, anybody could've exploited these contracts and stolen funds!
+>
+> Now:
+
+
+### Thread part 7 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317428146782208
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 6/ Critical functions were open to anyone, an attacker exploited the Governance &amp; Staking contracts.
+>
+> They:
+>
+> 1. Modified the governance contract’s guardian address
+> 2. Redefined voting parameters of the DAO, altering it to their favor.
+>
+> So how did the attacker exploit this?
+
+
+### Thread part 8 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317433330925570
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 7/ In this screenshot, you can see the exact transactions they performed.
+>
+> Submitting a malicious proposal and delegating 10,000,000,000,000 $AUDIO to themselves.
+>
+> https://ethtx.info/mainnet/0x3bbb15f9852c389e8d77399fe88b49b042d0f22aad4a33c979fbabc60a34b24f/
+>
+> By doing so: [pic.x.com/5Iz0ZbQVj9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYrqWHYXgAEkjSp.jpg — no alt text provided by author
+
+**Links in post:** https://ethtx.info/mainnet/0x3bbb15f9852c389e8d77399fe88b49b042d0f22aad4a33c979fbabc60a34b24f/
+
+
+### Thread part 9 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317435998511104
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 8/ The attacker held the governance power to drain the entire treasury.
+>
+> Transfer easy $6,000,000 USD to themselves:
+>
+> https://etherscan.io/tx/0x4227bca8ed4b8915c7eec0e14ad3748a88c4371d4176e716e8007249b9980dc9
+>
+> But what do you do with these stolen funds?
+
+**Links in post:** https://etherscan.io/tx/0x4227bca8ed4b8915c7eec0e14ad3748a88c4371d4176e716e8007249b9980dc9
+
+
+### Thread part 10 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317439643451393
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 9/ To conclude the attack, the attacker swapped their tokens via Uniswap for ETH.
+>
+> Then they sent it to Tornado Cash, a privacy solution commonly used to launder funds.
+>
+> Will the attacker be caught?
+>
+> Probably not. [pic.x.com/0o6ac9p4cO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYrqhNfWIAI9dO2.jpg — no alt text provided by author
+
+
+### Thread part 11 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317442101231616
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 10/ Offering a reward for returning the money in exchange for no legal action may be worth a try. 
+>
+> But many attackers simply vanish without a trace.
+>
+> Takeaway: 
+>
+> Just because a smart contract has been running smoothly for years does not mean it is bug-free.
+
+
+### Thread part 12 — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317443770662914
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 11/ In fact, critical bugs could be right in front of you!
+>
+> At Zellic, we've specialized in safeguarding blockchain projects against hacks.
+>
+> We've guarded hundreds of millions in value and we'd love to secure you too!
+
+
+### Thread part 13 — @zellic_io — 2022-07-27 15:40 UTC (2022-07-27 16:40 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317976585674753
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 12/ TLDR;
+> - Audius used a Proxy Upgrade Pattern
+> - the contract's admin address collided with 2 vars in storage slot 0
+> - The collision set the boolean vars to True.
+> - This allowed an attacker to access guarded functions
+> - The attacker then used these functions to drain $6M.
+
+
+### Thread part 14 — @zellic_io — 2022-07-27 15:40 UTC (2022-07-27 16:40 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317977982341121
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Top: 
+> https://x.com/Zellic_io/status/1552317415261962246
+
+**Links in post:** https://x.com/Zellic_io/status/1552317415261962246
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1552317415261962246
+    - Metrics (at fetch): bookmark 36, impression 0, like 98, quote 2, reply 2, retweet 18
+    
+    > An attacker drained $6,000,000 from Audius $AUDIO  &lt;72 hours ago.
+    >
+    > Yet again, smart contracts remain rekt.
+    >
+    > How did this happen?
+    >
+    > Let's take a look: [pic.x.com/oypXYDRMEd]
+    
+    **Media:**
+    - media `3_1552316421966888961` (details not returned by the API)
+    
+
+
+### Thread part 15 — @zellic_io — 2022-07-27 15:40 UTC (2022-07-27 16:40 WAT)
+
+- URL: https://x.com/zellic_io/status/1552318101127143432
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> If you found this useful please make sure to:
+> • Watch out for storage collisions
+> • Share with your friends
+> • Follow @zellic_io
 
 
 ---

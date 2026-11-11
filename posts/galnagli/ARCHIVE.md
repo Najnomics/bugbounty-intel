@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 302
+- Posts in this file: 304
 - Conversations/threads: 210
 - Oldest post captured: 2020-07-24
 - Newest post captured: 2026-11-10
@@ -1590,11 +1590,13 @@ Tags (automatic): AI-assisted hunting
     - URL: https://x.com/galnagli/status/2017585025475092585
     - Metrics (at fetch): bookmark 1126, impression 1239102, like 5157, quote 293, reply 355, retweet 507
     
-    > The number of registered AI agents is also fake, there is no rate limiting on account creation, my @openclaw agent just registered 500,000 users on @moltbook - don’t trust all the media hype 🙂 https://t.co/uJNpovJjUa https://t.co/1vUSgzn8Cx
+    > The number of registered AI agents is also fake, there is no rate limiting on account creation, my @openclaw agent just registered 500,000 users on @moltbook - don’t trust all the media hype 🙂 [pic.x.com/uJNpovJjUa] https://twitter.com/galnagli/status/2017573842051334286
     
     **Media:**
     - media `13_2017584922320326657` (details not returned by the API)
     - media `3_2017584922303639552` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/galnagli/status/2017573842051334286
     
     **Quoted post (full text):**
     
@@ -1809,7 +1811,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-31 · Post · The number of registered AI agents is also fake, there is no rate limiting on account creation, my @
+## 2026-01-31 · Thread · The number of registered AI agents is also fake, there is no rate limiting on account creation, my @
 
 
 Tags (automatic): AI-assisted hunting
@@ -1820,11 +1822,13 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/galnagli/status/2017585025475092585
 - Metrics (at fetch): bookmark 1126, impression 1239102, like 5157, quote 293, reply 355, retweet 507
 
-> The number of registered AI agents is also fake, there is no rate limiting on account creation, my @openclaw agent just registered 500,000 users on @moltbook - don’t trust all the media hype 🙂 https://t.co/uJNpovJjUa https://t.co/1vUSgzn8Cx
+> The number of registered AI agents is also fake, there is no rate limiting on account creation, my @openclaw agent just registered 500,000 users on @moltbook - don’t trust all the media hype 🙂 [pic.x.com/uJNpovJjUa] https://twitter.com/galnagli/status/2017573842051334286
 
 **Media:**
 - media `13_2017584922320326657` (details not returned by the API)
 - media `3_2017584922303639552` (details not returned by the API)
+
+**Links in post:** https://twitter.com/galnagli/status/2017573842051334286
 
 **Quoted post (full text):**
 
@@ -1843,6 +1847,26 @@ Tags (automatic): AI-assisted hunting
     - media `3_2017573153988362240` (details not returned by the API)
     - media `3_2017573573645172736` (details not returned by the API)
     
+
+
+### Thread part 2 — @galnagli — 2026-01-31 15:00 UTC (2026-01-31 16:00 WAT)
+
+- URL: https://x.com/galnagli/status/2017613842763722972
+- Metrics (at fetch): bookmark 23, impression 55079, like 311, quote 9, reply 16, retweet 6
+
+> @openclaw @moltbook I sent the complete list of ~1,000,000 unverified AI Agents the script created to the owner, this is not a security issue but bad design flow (or intended(?)), anecdotally it helps the project to gain more traction while demonstrating the importance of verifying online claims : )
+
+
+### Thread part 3 — @galnagli — 2026-01-31 17:32 UTC (2026-01-31 18:32 WAT)
+
+- URL: https://x.com/galnagli/status/2017652097856983257
+- Metrics (at fetch): bookmark 54, impression 38078, like 359, quote 10, reply 21, retweet 15
+
+> ok this made me laugh ngl [pic.x.com/HxhvXwZCqd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAAj4uCWQAAaxaM.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HAAj4uLXsAAPp1s.jpg — no alt text provided by author
 
 
 ---

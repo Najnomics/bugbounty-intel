@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 486
+- Posts in this file: 487
 - Conversations/threads: 372
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
@@ -5085,7 +5085,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2026-06-15 · Post · an interesting case study from our recent blog on why you should stop using random software given ai
+## 2026-06-15 · Thread · an interesting case study from our recent blog on why you should stop using random software given ai
 
 
 Tags (automatic): AI-assisted hunting
@@ -5100,6 +5100,14 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HK2-_2-aAAAvOO-.jpg — no alt text provided by author
+
+
+### Thread part 2 — @S1r1u5_ — 2026-06-15 13:50 UTC (2026-06-15 14:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2066518689126686981
+- Metrics (at fetch): bookmark 6, impression 856, like 6, quote 0, reply 0, retweet 0
+
+> https://t.co/2rnV9lAVyv
 
 
 ---
