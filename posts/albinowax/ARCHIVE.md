@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 79
-- Conversations/threads: 73
-- Oldest post captured: 2021-06-01
+- Posts in this file: 150
+- Conversations/threads: 144
+- Oldest post captured: 2017-03-31
 - Newest post captured: 2026-11-04
 
 
@@ -1435,6 +1435,361 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2025-04-23 · Post · I just built a custom action to let you test for race conditions with a single click! No tab groups 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2025-04-23 14:28 UTC (2025-04-23 15:28 WAT)
+
+- URL: https://x.com/albinowax/status/1915050092597489744
+- Metrics (at fetch): bookmark 173, impression 25495, like 348, quote 1, reply 8, retweet 60
+
+> I just built a custom action to let you test for race conditions with a single click! No tab groups required, and it uses the cutting edge single-packet attack under the hood. [pic.x.com/Lsd5R1cMzE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpOf4TQWkAASYcD.png — no alt text provided by author
+
+
+---
+
+## 2025-04-14 · Post · I've just released Turbo Intruder v1.54, which adds support for collaborator domains:
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2025-04-14 11:18 UTC (2025-04-14 12:18 WAT)
+
+- URL: https://x.com/albinowax/status/1911740800364392493
+- Metrics (at fetch): bookmark 24, impression 9670, like 119, quote 1, reply 2, retweet 14
+
+> I've just released Turbo Intruder v1.54, which adds support for collaborator domains:
+> api.collaborator().defaultPayloadGenerator().generatePayload()
+>
+> This should make life a little easier for anyone trying to get HTTP request smuggling reports through bug bounty triage.
+
+
+---
+
+## 2025-04-11 · Post · Just discovered an attack technique I've never seen before, using Deep Research. It's not easy but y
+
+
+### Post — @albinowax — 2025-04-11 15:03 UTC (2025-04-11 16:03 WAT)
+
+- URL: https://x.com/albinowax/status/1910710370701869564
+- Metrics (at fetch): bookmark 131, impression 25279, like 451, quote 2, reply 12, retweet 26
+
+> Just discovered an attack technique I've never seen before, using Deep Research. It's not easy but you can squeeze gold out with the right prompt! Will share once I've finished using it to hack stuff :)
+
+
+---
+
+## 2025-03-25 · Post · Detect the NextJS middleware bypass directly in Burp Suite with this BCheck from @eternalky_u 
+
+
+### Post — @albinowax — 2025-03-25 12:44 UTC (2025-03-25 13:44 WAT)
+
+- URL: https://x.com/albinowax/status/1904514849889022097
+- Metrics (at fetch): bookmark 206, impression 27271, like 381, quote 1, reply 0, retweet 85
+
+> Detect the NextJS middleware bypass directly in Burp Suite with this BCheck from @eternalky_u 
+> https://gist.github.com/fourcube/45a78b23fb317b0af3d61f0f52314370
+
+**Links in post:** https://gist.github.com/fourcube/45a78b23fb317b0af3d61f0f52314370
+
+
+---
+
+## 2025-02-12 · Post · This is a great infoleak exploit chain targeting YouTube by @brutecat. Love the use of a DoS flaw to
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @albinowax — 2025-02-12 13:12 UTC (2025-02-12 14:12 WAT)
+
+- URL: https://x.com/albinowax/status/1889663836069761245
+- Metrics (at fetch): bookmark 170, impression 18481, like 300, quote 2, reply 5, retweet 56
+
+> This is a great infoleak exploit chain targeting YouTube by @brutecat. Love the use of a DoS flaw to make the attack stealthier!
+> https://t.co/aIqLDq9T9z
+
+
+---
+
+## 2025-01-28 · Post · Nice find! If you'd like to try your hand at a similar exploit chain, check out this expert @WebSecA
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @albinowax — 2025-01-28 15:53 UTC (2025-01-28 16:53 WAT)
+
+- URL: https://x.com/albinowax/status/1884268660753326395
+- Metrics (at fetch): bookmark 103, impression 24594, like 187, quote 1, reply 3, retweet 26
+
+> Nice find! If you'd like to try your hand at a similar exploit chain, check out this expert @WebSecAcademy lab: https://t.co/30n5P8DJNS https://t.co/6H07hN29Ax
+
+**Quoted post (full text):**
+
+    #### Quoted post — @794383020958564352 — 2025-01-28 06:29 UTC (2025-01-28 07:29 WAT)
+    
+    - URL: https://x.com/794383020958564352/status/1884126528839323958
+    - Metrics (at fetch): bookmark 280, impression 39699, like 367, quote 3, reply 4, retweet 86
+    
+    > How we gained full control over 3,000 companies and all their registered branches.
+    >
+    > This took us about 3 weeks of studying the target to find about all the vulnerabilities explained. 
+    >
+    > Hope you enjoy reading!
+    > https://t.co/Gz1xlo7LJb
+    
+
+
+---
+
+## 2025-01-27 · Post · There's a certain 'harmless' quirk in a popular server that I've known about for over ten years but 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @albinowax — 2025-01-27 15:52 UTC (2025-01-27 16:52 WAT)
+
+- URL: https://x.com/albinowax/status/1883905902488825966
+- Metrics (at fetch): bookmark 16, impression 8409, like 179, quote 1, reply 9, retweet 4
+
+> There's a certain 'harmless' quirk in a popular server that I've known about for over ten years but never found or seen a viable use for. Today, I used it to complete an exploit chain! I feel like I just solved the meaning of life😂
+
+
+---
+
+## 2025-01-03 · Post · I have to disagree with this post's claim that you shouldn't report or patch "XSS vulnerabilities mi
+
+
+Tags (automatic): XSS, CSP / CSPT
+
+
+### Post — @albinowax — 2025-01-03 11:41 UTC (2025-01-03 12:41 WAT)
+
+- URL: https://x.com/albinowax/status/1875145380607963393
+- Metrics (at fetch): bookmark 58, impression 20270, like 271, quote 1, reply 9, retweet 27
+
+> I have to disagree with this post's claim that you shouldn't report or patch "XSS vulnerabilities mitigated by strict CSP". Strict CSP configurations can get bypassed and HTML injection &amp; style injection are both threats too! CSP is for defence in depth. https://twitter.com/SecureLayer7/status/1874836092807233689
+
+**Links in post:** https://twitter.com/SecureLayer7/status/1874836092807233689
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2789788790 — 2025-01-02 15:12 UTC (2025-01-02 16:12 WAT)
+    
+    - URL: https://x.com/2789788790/status/1874836092807233689
+    - Metrics (at fetch): bookmark 35, impression 25803, like 42, quote 4, reply 4, retweet 6
+    
+    > Top 2025 vulnerabilities you shouldn’t accept in a pentest report. Here is list! Looking for more such scenarios.  
+    >
+    > https://github.com/securelayer7/not-a-vuln-list
+    
+    **Links in post:** https://github.com/securelayer7/not-a-vuln-list
+    
+
+
+---
+
+## 2024-11-27 · Post · Got a CSRF attack being blocked by Content-Type validation? You might be able to bypass it with this
+
+
+### Post — @albinowax — 2024-11-27 13:31 UTC (2024-11-27 14:31 WAT)
+
+- URL: https://x.com/albinowax/status/1861764708207902749
+- Metrics (at fetch): bookmark 221, impression 27412, like 296, quote 0, reply 3, retweet 62
+
+> Got a CSRF attack being blocked by Content-Type validation? You might be able to bypass it with this quality technique. https://x.com/lukejahnke/status/1861698157887029713
+
+**Links in post:** https://x.com/lukejahnke/status/1861698157887029713
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1396317355 — 2024-11-27 09:06 UTC (2024-11-27 10:06 WAT)
+    
+    - URL: https://x.com/1396317355/status/1861698157887029713
+    - Metrics (at fetch): bookmark 191, impression 55505, like 292, quote 3, reply 5, retweet 63
+    
+    > 🧵Can you work out how to bypass this vulnerable CSRF protection? Read all about this gotcha in my latest blog post [pic.x.com/8hns5ojMou]
+    
+    **Media:**
+    - media `3_1861695396843855872` (details not returned by the API)
+    
+
+
+---
+
+## 2024-11-23 · Post · The "bug bounty hunters and content creators" starter pack is now up to 60 users! Follow this to get
+
+
+### Post — @albinowax — 2024-11-23 16:23 UTC (2024-11-23 17:23 WAT)
+
+- URL: https://x.com/albinowax/status/1860358451982954850
+- Metrics (at fetch): bookmark 24, impression 7201, like 49, quote 0, reply 0, retweet 7
+
+> The "bug bounty hunters and content creators" starter pack is now up to 60 users! Follow this to get instantly connected to the bug bounty community &amp; let me know if I've missed you off!
+> hxxps://go.bsky.app/GD7hKPX
+
+
+---
+
+## 2024-11-12 · Post · The latest Burp Suite update includes a nice quality of life tweak - you can now configure the Intru
+
+
+### Post — @albinowax — 2024-11-12 16:02 UTC (2024-11-12 17:02 WAT)
+
+- URL: https://x.com/albinowax/status/1856366933039288751
+- Metrics (at fetch): bookmark 7, impression 8621, like 62, quote 1, reply 4, retweet 2
+
+> The latest Burp Suite update includes a nice quality of life tweak - you can now configure the Intruder side-panel's default state. This means less clicks to configure&amp;launch an attack. https://t.co/4j1fo9hcLm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcMjfbpWYAA8G6Q.png — no alt text provided by author
+
+
+---
+
+## 2024-11-05 · Post · So... anyone got a CSRF bug that enables changing the victim's username? https://t.co/sbe8K3yALL
+
+
+### Post — @albinowax — 2024-11-05 09:20 UTC (2024-11-05 10:20 WAT)
+
+- URL: https://x.com/albinowax/status/1853729079448551785
+- Metrics (at fetch): bookmark 28, impression 14938, like 153, quote 2, reply 1, retweet 11
+
+> So... anyone got a CSRF bug that enables changing the victim's username? https://t.co/sbe8K3yALL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @968881477 — 2024-11-02 04:54 UTC (2024-11-02 05:54 WAT)
+    
+    - URL: https://x.com/968881477/status/1852575080989257893
+    - Metrics (at fetch): bookmark 2072, impression 748067, like 6094, quote 94, reply 62, retweet 987
+    
+    > reminder that the bcrypt hash function ignores input above a certain length! so if you do bcrypt(username || password) for some reason, a sufficiently long username will make it accept any password. to fix this you can sha256 the input first. https://t.co/UqqSFsT2kh
+    
+    **Quoted post** 1852475962715246869: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-11-02 · Post · PSA: @X has an intermittent bug where they take payment for Premium but don’t activate it. And since
+
+
+### Post — @albinowax — 2024-11-02 12:23 UTC (2024-11-02 13:23 WAT)
+
+- URL: https://x.com/albinowax/status/1852687860412944880
+- Metrics (at fetch): bookmark 8, impression 13966, like 120, quote 1, reply 12, retweet 6
+
+> PSA: @X has an intermittent bug where they take payment for Premium but don’t activate it. And since only Premium users can contact support, nobody can report it 😂
+>
+> Maybe I should find a vulnerability so I can get in touch via their bug bounty 🤔
+
+
+---
+
+## 2024-10-18 · Post · The bounty program metrics on @Hacker0x01 seem effective for identifying overwhelmed/inactive progra
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @albinowax — 2024-10-18 10:14 UTC (2024-10-18 11:14 WAT)
+
+- URL: https://x.com/albinowax/status/1847219801988497553
+- Metrics (at fetch): bookmark 12, impression 15028, like 237, quote 2, reply 21, retweet 16
+
+> The bounty program metrics on @Hacker0x01 seem effective for identifying overwhelmed/inactive programs, but not for programs that lack integrity. Maybe a metric for how frequently reporters request mediation would be valuable - what do you think? https://t.co/w0DIhQlnGl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GaKkQcpXsAEwaiN.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-25 · Post · Param Miner 1.51 is now out in the BApp store! In case you missed it, Param Miner now uses timing an
+
+
+### Post — @albinowax — 2024-09-25 13:26 UTC (2024-09-25 14:26 WAT)
+
+- URL: https://x.com/albinowax/status/1838933192398573884
+- Metrics (at fetch): bookmark 73, impression 19320, like 296, quote 1, reply 5, retweet 51
+
+> Param Miner 1.51 is now out in the BApp store! In case you missed it, Param Miner now uses timing analysis to detect hidden parameters, and help detect &amp; exploit reverse proxies.  Let me know if it finds you anything cool :) https://t.co/IzndUzDOqB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYUz2_OWUAApP4_.png — no alt text provided by author
+
+
+---
+
+## 2024-09-19 · Post · Love a good client-side exploit chain! This crazy cross-product chain targeting Google by @rebane200
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @albinowax — 2024-09-19 15:18 UTC (2024-09-19 16:18 WAT)
+
+- URL: https://x.com/albinowax/status/1836787018929516821
+- Metrics (at fetch): bookmark 213, impression 41848, like 398, quote 3, reply 1, retweet 102
+
+> Love a good client-side exploit chain! This crazy cross-product chain targeting Google by @rebane2001 is a great example of the type of exploit that gets easier the longer you spend targeting a single company 
+> https://t.co/mxhH2N7teW
+
+
+---
+
+## 2024-08-22 · Post · If you're into bug bounty hunting and looking for some new tricks, this web cache deception research
+
+
+### Post — @albinowax — 2024-08-22 11:26 UTC (2024-08-22 12:26 WAT)
+
+- URL: https://x.com/albinowax/status/1826581787180478699
+- Metrics (at fetch): bookmark 92, impression 16946, like 170, quote 0, reply 0, retweet 34
+
+> If you're into bug bounty hunting and looking for some new tricks, this web cache deception research from @tincho_508 is an absolute gold-mine
+> https://t.co/DyqGUEpPzX
+
+**Quoted post (full text):**
+
+    #### Quoted post — @307063056 — 2024-08-09 19:35 UTC (2024-08-09 20:35 WAT)
+    
+    - URL: https://x.com/307063056/status/1821993796302741781
+    - Metrics (at fetch): bookmark 152, impression 36499, like 222, quote 3, reply 3, retweet 58
+    
+    > So happy to had the chance to present for second time at #BlackHat USA!
+    >
+    > I’m already receiving a lot of messages from people using these techniques to get some nice bounties!
+    >
+    > If you want to learn more about cache exploitation, the research is available at https://t.co/A3DoIdBZ6N
+    
+
+
+---
+
+## 2024-08-10 · Post · This is a great high-level summary of my timing attack research, by @WIRED &amp; @lilyhnewman 
+
+
+### Post — @albinowax — 2024-08-10 17:48 UTC (2024-08-10 18:48 WAT)
+
+- URL: https://x.com/albinowax/status/1822329080701706507
+- Metrics (at fetch): bookmark 34, impression 6342, like 84, quote 0, reply 3, retweet 14
+
+> This is a great high-level summary of my timing attack research, by @WIRED &amp; @lilyhnewman 
+> https://t.co/26agwLdt9a
+
+
+---
+
 ## 2023-11-09 · Post · There's still a load of potential for further research and discoveries in HTTP request smuggling. Th
 
 
@@ -1454,6 +1809,184 @@ Tags (automatic): Request smuggling / desync
 
 ---
 
+## 2021-11-10 · Post · Just watched "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyon
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2021-11-10 16:19 UTC (2021-11-10 17:19 WAT)
+
+- URL: https://x.com/albinowax/status/1458469363879759872
+- Metrics (at fetch): bookmark 175, impression 0, like 590, quote 4, reply 6, retweet 220
+
+> Just watched "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond" - must-read research by @intruder_io's Daniel Thatcher 
+> https://t.co/KJTnPwGOAe
+
+
+---
+
+## 2021-11-02 · Post · Just found a bug in the beta version of this - the 'stop attack' button doesn't work 😂
+
+
+### Post — @albinowax — 2021-11-02 10:43 UTC (2021-11-02 11:43 WAT)
+
+- URL: https://x.com/albinowax/status/1455485782223986691
+- Metrics (at fetch): bookmark 3, impression 0, like 38, quote 0, reply 7, retweet 1
+
+> Just found a bug in the beta version of this - the 'stop attack' button doesn't work 😂
+> https://t.co/difkKQeUEH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @albinowax — 2021-10-27 12:39 UTC (2021-10-27 13:39 WAT)
+    
+    - URL: https://x.com/albinowax/status/1453340621075255304
+    - Metrics (at fetch): bookmark 6, impression 0, like 75, quote 1, reply 8, retweet 2
+    
+    > Anyone out there still testing for slowloris/slow-POST style vulnerabilities? Would it be useful to you if Turbo Intruder supported this?
+    
+
+
+---
+
+## 2021-10-27 · Post · Anyone out there still testing for slowloris/slow-POST style vulnerabilities? Would it be useful to 
+
+
+### Post — @albinowax — 2021-10-27 12:39 UTC (2021-10-27 13:39 WAT)
+
+- URL: https://x.com/albinowax/status/1453340621075255304
+- Metrics (at fetch): bookmark 6, impression 0, like 75, quote 1, reply 8, retweet 2
+
+> Anyone out there still testing for slowloris/slow-POST style vulnerabilities? Would it be useful to you if Turbo Intruder supported this?
+
+
+---
+
+## 2021-10-14 · Post · CVE-2021-22960 sure looks interesting - HTTP Request Smuggling on NodeJS using chunk extensions. No 
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2021-10-14 08:37 UTC (2021-10-14 09:37 WAT)
+
+- URL: https://x.com/albinowax/status/1448568550805938178
+- Metrics (at fetch): bookmark 25, impression 0, like 166, quote 0, reply 1, retweet 50
+
+> CVE-2021-22960 sure looks interesting - HTTP Request Smuggling on NodeJS using chunk extensions. No finder credited yet...
+> https://t.co/95GiQxSP24
+> https://t.co/3kvKN1meAy
+
+
+---
+
+## 2021-09-23 · Post · A patch is now available for CVE-2021-33193 - the Apache HTTP/2 request line injection vulnerability
+
+
+Tags (automatic): SSRF
+
+
+### Post — @albinowax — 2021-09-23 11:00 UTC (2021-09-23 12:00 WAT)
+
+- URL: https://x.com/albinowax/status/1440994386280648714
+- Metrics (at fetch): bookmark 13, impression 0, like 116, quote 1, reply 1, retweet 27
+
+> A patch is now available for CVE-2021-33193 - the Apache HTTP/2 request line injection vulnerability I disclosed last month! It also fixes an interesting looking SSRF... https://t.co/WQQHh41aGx
+> https://t.co/htk16msRNQ
+
+
+---
+
+## 2021-09-22 · Post · In this podcast I chat with @absoluteappsec about how I approach research, common researcher mistake
+
+
+### Post — @albinowax — 2021-09-22 09:06 UTC (2021-09-22 10:06 WAT)
+
+- URL: https://x.com/albinowax/status/1440603509636755463
+- Metrics (at fetch): bookmark 28, impression 0, like 127, quote 0, reply 0, retweet 29
+
+> In this podcast I chat with @absoluteappsec about how I approach research, common researcher mistakes, and... the somewhat-terrible reason I learned to hack in the first place &lt;/clickbait&gt;
+>
+> https://t.co/gEbR481mdc
+
+
+---
+
+## 2021-08-06 · Post · How to find a HTTP/2 playmate:
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2021-08-06 09:52 UTC (2021-08-06 10:52 WAT)
+
+- URL: https://x.com/albinowax/status/1423582806484176899
+- Metrics (at fetch): bookmark 196, impression 0, like 752, quote 5, reply 6, retweet 244
+
+> How to find a HTTP/2 playmate:
+> 1. Install Burp 2020.8 and HTTP Request Smuggler
+> 2. Configure scope &amp; browse some bug-bounty sites
+> 3. Go to proxy, hide out of scope traffic
+> 4. Ctrl+A, right click-&gt;Extensions-&gt;pick your scan
+> 5. Wait
+> https://t.co/kJWVEPcgYi https://t.co/UPkYyq4Lbs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E8GSqvzXoAINb-H.png — no alt text provided by author
+
+
+---
+
+## 2021-08-05 · Reply · @tomvangoethem Is the HackerOne vulnerability public?
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @albinowax — 2021-08-05 09:52 UTC (2021-08-05 10:52 WAT)
+
+- URL: https://x.com/albinowax/status/1423220453846528000
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> @tomvangoethem Is the HackerOne vulnerability public?
+
+
+---
+
+## 2021-07-07 · Post · When you find response header injection, you can probably do better than mere XSS or open-redir. Try
+
+
+Tags (automatic): XSS, Request smuggling / desync
+
+
+### Post — @albinowax — 2021-07-07 14:19 UTC (2021-07-07 15:19 WAT)
+
+- URL: https://x.com/albinowax/status/1412778191119396864
+- Metrics (at fetch): bookmark 97, impression 0, like 591, quote 2, reply 10, retweet 139
+
+> When you find response header injection, you can probably do better than mere XSS or open-redir. Try injecting a short Content-Length header to cause a reverse desync and exploit random live users.
+
+
+---
+
+## 2021-06-09 · Post · Analytics companies are recommending websites start proxying scripts to bypass browser privacy prote
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2021-06-09 13:02 UTC (2021-06-09 14:02 WAT)
+
+- URL: https://x.com/albinowax/status/1402612149436956672
+- Metrics (at fetch): bookmark 32, impression 0, like 141, quote 1, reply 1, retweet 36
+
+> Analytics companies are recommending websites start proxying scripts to bypass browser privacy protections. This is creating a fantastic, easily-overlooked vector for request smuggling attacks. Scan those 'static' scripts! H/T @pgl 
+> https://t.co/Otn6xeifZt
+
+
+---
+
 ## 2021-06-01 · Post · Looking for a mentor? I don't tutor, but I do lead a team dedicated to teaching web hacking to every
 
 
@@ -1465,3 +1998,753 @@ Tags (automatic): Request smuggling / desync
 > Looking for a mentor? I don't tutor, but I do lead a team dedicated to teaching web hacking to everyone for free.
 >
 > Every topic is designed by @PortSwigger hackers - @artsploit, @garethheyes, @DafyddStuttard and myself. You're in good hands. Start here: https://t.co/Ns0jC67tdJ
+
+
+---
+
+## 2021-05-17 · Post · H2C Smuggling is a seriously cool HTTP/2 attack technique. It won't directly feature in my upcoming 
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2021-05-17 15:44 UTC (2021-05-17 16:44 WAT)
+
+- URL: https://x.com/albinowax/status/1394317805336543238
+- Metrics (at fetch): bookmark 55, impression 0, like 219, quote 2, reply 0, retweet 71
+
+> H2C Smuggling is a seriously cool HTTP/2 attack technique. It won't directly feature in my upcoming presentation, but you should still check it out:
+> https://t.co/b0LjuF6ljp
+> https://t.co/g8yyIpWIGi https://t.co/cPmejCSdjp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @albinowax — 2021-05-11 20:50 UTC (2021-05-11 21:50 WAT)
+    
+    - URL: https://x.com/albinowax/status/1392220556938911745
+    - Metrics (at fetch): bookmark 48, impression 0, like 727, quote 5, reply 12, retweet 163
+    
+    > I'm thrilled to announce "HTTP/2: The Sequel is Always Worse" will premiere at @BlackHatEvents #BHUSA!
+    > https://t.co/6GP5FbFYDA
+    
+
+
+---
+
+## 2021-05-11 · Post · I'm thrilled to announce "HTTP/2: The Sequel is Always Worse" will premiere at @BlackHatEvents BHUS
+
+
+### Post — @albinowax — 2021-05-11 20:50 UTC (2021-05-11 21:50 WAT)
+
+- URL: https://x.com/albinowax/status/1392220556938911745
+- Metrics (at fetch): bookmark 48, impression 0, like 727, quote 5, reply 12, retweet 163
+
+> I'm thrilled to announce "HTTP/2: The Sequel is Always Worse" will premiere at @BlackHatEvents #BHUSA!
+> https://t.co/6GP5FbFYDA
+
+
+---
+
+## 2021-04-21 · Post · Quality RCE on Homebrew by @ryotkak, using a bug in the git_diff library!
+
+
+Tags (automatic): RCE
+
+
+### Post — @albinowax — 2021-04-21 14:52 UTC (2021-04-21 15:52 WAT)
+
+- URL: https://x.com/albinowax/status/1384882854899986433
+- Metrics (at fetch): bookmark 23, impression 0, like 241, quote 3, reply 0, retweet 97
+
+> Quality RCE on Homebrew by @ryotkak, using a bug in the git_diff library!
+> https://t.co/2iD4ZHS2ru
+
+
+---
+
+## 2021-04-08 · Post · Anyone ever identified a race condition in code but been unable to exploit it due to latency/jitter 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2021-04-08 12:40 UTC (2021-04-08 13:40 WAT)
+
+- URL: https://x.com/albinowax/status/1380138381502525440
+- Metrics (at fetch): bookmark 6, impression 0, like 95, quote 0, reply 5, retweet 11
+
+> Anyone ever identified a race condition in code but been unable to exploit it due to latency/jitter etc? Turbo Intruder supports last-byte synchronisation, and I could add more advanced techniques but I'm not sure if there's significant demand for it.
+
+
+---
+
+## 2021-03-03 · Post · Turbo Intruder supports final-byte synchronisation to help find this type of bug. You can see how to
+
+
+### Post — @albinowax — 2021-03-03 11:17 UTC (2021-03-03 12:17 WAT)
+
+- URL: https://x.com/albinowax/status/1367071658134155264
+- Metrics (at fetch): bookmark 69, impression 0, like 358, quote 3, reply 6, retweet 81
+
+> Turbo Intruder supports final-byte synchronisation to help find this type of bug. You can see how to use it here: https://t.co/QdSQ84yjQn https://t.co/YBI6mSjFkR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @867538332 — 2021-03-02 15:08 UTC (2021-03-02 16:08 WAT)
+    
+    - URL: https://x.com/867538332/status/1366767274720329729
+    - Metrics (at fetch): bookmark 220, impression 0, like 2367, quote 36, reply 72, retweet 395
+    
+    > Microsoft Account Takeover! 😊😇 Thank you very much @msftsecresponse for the bounty! 🙏🙏🙏
+    > Write up - https://t.co/9ATsxAUfeB https://t.co/pDEYv5f400
+    
+    **Media:**
+    - media `3_1366766571838791680` (details not returned by the API)
+    
+
+
+---
+
+## 2021-02-25 · Post · JSON Interoperability vulnerabilities sound like they have some serious bug-bounty potential. Nice w
+
+
+### Post — @albinowax — 2021-02-25 13:50 UTC (2021-02-25 14:50 WAT)
+
+- URL: https://x.com/albinowax/status/1364935801574985729
+- Metrics (at fetch): bookmark 112, impression 0, like 447, quote 6, reply 5, retweet 144
+
+> JSON Interoperability vulnerabilities sound like they have some serious bug-bounty potential. Nice work once again by @theBumbleSec/@bishopfox 
+> https://t.co/uHCGJAmt4f
+
+
+---
+
+## 2021-02-23 · Post · Wow, HTTP Request Smuggler is the third most popular BApp of all time! Hope you're all enjoying usin
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2021-02-23 16:20 UTC (2021-02-23 17:20 WAT)
+
+- URL: https://x.com/albinowax/status/1364248773573160960
+- Metrics (at fetch): bookmark 7, impression 0, like 99, quote 0, reply 1, retweet 15
+
+> Wow, HTTP Request Smuggler is the third most popular BApp of all time! Hope you're all enjoying using it! Anyway, a bunch of bugfixes have just landed. As ever, informative bug reports are appreciated
+> https://t.co/dUGgqbrqUc
+
+
+---
+
+## 2021-02-03 · Post · Nice work using web cache poisoning to compromise a quirky OAuth implementation... and proving that 
+
+
+Tags (automatic): XSS, OAuth
+
+
+### Post — @albinowax — 2021-02-03 09:10 UTC (2021-02-03 10:10 WAT)
+
+- URL: https://x.com/albinowax/status/1356892928367550466
+- Metrics (at fetch): bookmark 8, impression 0, like 73, quote 0, reply 1, retweet 17
+
+> Nice work using web cache poisoning to compromise a quirky OAuth implementation... and proving that stored XSS on every page is not 'medium' severity. https://t.co/XaPXDprbkH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2263083682 — 2021-02-03 03:44 UTC (2021-02-03 04:44 WAT)
+    
+    - URL: https://x.com/2263083682/status/1356810700816076800
+    - Metrics (at fetch): bookmark 80, impression 0, like 285, quote 3, reply 1, retweet 123
+    
+    > This is a exploit chain of a Web Cache Poisoning Vulnerability leading to site wide XSS , leading to a Account Takeover by attacking a logic flaw in an OAuth flow. https://t.co/0DladSYAHE
+    > Thanks to @albinowax for the research.
+    
+
+
+---
+
+## 2021-01-04 · Post · The latest Param Miner update fixes a long-standing bug that would lead to the settings menu opening
+
+
+### Post — @albinowax — 2021-01-04 10:06 UTC (2021-01-04 11:06 WAT)
+
+- URL: https://x.com/albinowax/status/1346035372191526913
+- Metrics (at fetch): bookmark 1, impression 0, like 56, quote 1, reply 4, retweet 2
+
+> The latest Param Miner update fixes a long-standing bug that would lead to the settings menu opening unexpectedly.
+
+
+---
+
+## 2020-12-17 · Post · Today's Param Miner update to v1.27 fixes a bug that may have caused poor performance on requests wi
+
+
+### Post — @albinowax — 2020-12-17 11:01 UTC (2020-12-17 12:01 WAT)
+
+- URL: https://x.com/albinowax/status/1339526112469250048
+- Metrics (at fetch): bookmark 4, impression 0, like 142, quote 1, reply 1, retweet 17
+
+> Today's Param Miner update to v1.27 fixes a bug that may have caused poor performance on requests with binary responses... and adds a convenient new guessing option from @Regala_!
+> https://t.co/wFbqgN9Xzx https://t.co/p2sT6ea9GG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Epby52IXYAA1QUS.png — no alt text provided by author
+
+
+---
+
+## 2020-12-09 · Post · @bas_van_schaik @kevin_backhouse Loved your talk, great concept and explanation of why classic bench
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2020-12-09 15:23 UTC (2020-12-09 16:23 WAT)
+
+- URL: https://x.com/albinowax/status/1336692996172083200
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @bas_van_schaik @kevin_backhouse Loved your talk, great concept and explanation of why classic benchmarking approaches are flawed. Small potential catch with using old CVEs is that some client-side vulnerabilities are no longer exploitable, eg 'data:' XSS and content-sniffing.
+
+
+---
+
+## 2020-11-12 · Post · I wonder if you can use https://t.co/MBaztcuNF6 to hijack password reset emails? Or do most mailserv
+
+
+### Post — @albinowax — 2020-11-12 20:02 UTC (2020-11-12 21:02 WAT)
+
+- URL: https://x.com/albinowax/status/1326978641083895811
+- Metrics (at fetch): bookmark 15, impression 0, like 113, quote 1, reply 3, retweet 19
+
+> I wonder if you can use https://t.co/MBaztcuNF6 to hijack password reset emails? Or do most mailservers enforce trust when sending these days? Could be a fun bug bounty...
+
+
+---
+
+## 2020-10-21 · Post · It's so frustrating when I come up with a super cunning convoluted exploit chain concept, then accid
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @albinowax — 2020-10-21 14:20 UTC (2020-10-21 15:20 WAT)
+
+- URL: https://x.com/albinowax/status/1318920004730052608
+- Metrics (at fetch): bookmark 5, impression 0, like 218, quote 0, reply 8, retweet 5
+
+> It's so frustrating when I come up with a super cunning convoluted exploit chain concept, then accidentally find a trivial solution that works better.
+
+
+---
+
+## 2020-10-01 · Post · I've designed labs so you can practice numerous HTTP Host header attacks including advanced password
+
+
+Tags (automatic): SSRF, Auth bypass
+
+
+### Post — @albinowax — 2020-10-01 15:46 UTC (2020-10-01 16:46 WAT)
+
+- URL: https://x.com/albinowax/status/1311694037708046341
+- Metrics (at fetch): bookmark 94, impression 0, like 614, quote 3, reply 11, retweet 194
+
+> I've designed labs so you can practice numerous HTTP Host header attacks including advanced password reset poisoning, host-header SSRF, and auth bypass! https://t.co/WedbodgKxY
+
+
+---
+
+## 2020-08-17 · Post · Great, now we've got 'legit' companies doing borderline illegal/gray-hat hacking for marketing purpo
+
+
+### Post — @albinowax — 2020-08-17 14:14 UTC (2020-08-17 15:14 WAT)
+
+- URL: https://x.com/albinowax/status/1295363475951288321
+- Metrics (at fetch): bookmark 5, impression 0, like 82, quote 1, reply 10, retweet 15
+
+> Great, now we've got 'legit' companies doing borderline illegal/gray-hat hacking for marketing purposes? https://archive.is/0Kt9u
+
+**Links in post:** https://archive.is/0Kt9u
+
+
+---
+
+## 2020-07-02 · Post · bugbounty protip: If you're posting a writeup that might get shared outside the bounty community, d
+
+
+### Post — @albinowax — 2020-07-02 11:42 UTC (2020-07-02 12:42 WAT)
+
+- URL: https://x.com/albinowax/status/1278655314057977857
+- Metrics (at fetch): bookmark 6, impression 0, like 335, quote 0, reply 13, retweet 26
+
+> #bugbounty protip: If you're posting a writeup that might get shared outside the bounty community, don't mention the bounty amount; it's all anyone will discuss.
+
+
+---
+
+## 2020-06-29 · Post · Several months after HTTP Desync Attacks, @webtonull noticed that Apache Traffic Server dodged my to
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2020-06-29 14:23 UTC (2020-06-29 15:23 WAT)
+
+- URL: https://x.com/albinowax/status/1277608640220930053
+- Metrics (at fetch): bookmark 42, impression 0, like 242, quote 2, reply 1, retweet 73
+
+> Several months after HTTP Desync Attacks, @webtonull noticed that Apache Traffic Server dodged my tool's detection techniques. I patched this and together we were able to exploit a bunch of new targets including https://t.co/5fMqeSswLO:
+>
+> https://t.co/uD5V7S2Weg
+
+
+---
+
+## 2020-06-25 · Post · Love it when simply putting a slide together leads to a mini research breakthrough. 
+
+
+### Post — @albinowax — 2020-06-25 15:23 UTC (2020-06-25 16:23 WAT)
+
+- URL: https://x.com/albinowax/status/1276174185522487296
+- Metrics (at fetch): bookmark 1, impression 0, like 139, quote 0, reply 4, retweet 3
+
+> Love it when simply putting a slide together leads to a mini research breakthrough. 
+>
+> If I hadn't intended to share that attack concept, I'd never 
+> have realised you can adapt it to work on vastly more targets.
+
+
+---
+
+## 2017-12-05 · Post · New web vulnerability class: 'Denial Of Service Spoofing'. It's like content spoofing but even less 
+
+
+### Post — @albinowax — 2017-12-05 12:28 UTC (2017-12-05 13:28 WAT)
+
+- URL: https://x.com/albinowax/status/938022140317700096
+- Metrics (at fetch): not returned
+
+> New web vulnerability class: 'Denial Of Service Spoofing'. It's like content spoofing but even less serious. Click the PoC if you dare: https://github.com/login?readonly=ohdear
+
+**Links in post:** https://github.com/login?readonly=ohdear
+
+
+---
+
+## 2017-11-30 · Post · Looks like @Cloudflare's 'Query String sort' feature introduced an XSS vulnerability in @Hacker0x01 
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @albinowax — 2017-11-30 10:51 UTC (2017-11-30 11:51 WAT)
+
+- URL: https://x.com/albinowax/status/936185965185560578
+- Metrics (at fetch): not returned
+
+> Looks like @Cloudflare's 'Query String sort' feature introduced an XSS vulnerability in @Hacker0x01 - great finding by Kenziy! https://hackerone.com/reports/293689
+
+**Links in post:** https://hackerone.com/reports/293689
+
+
+---
+
+## 2017-11-29 · Post · It was a pleasure to present to you fine people last night @csischester. 
+
+
+### Post — @albinowax — 2017-11-29 10:13 UTC (2017-11-29 11:13 WAT)
+
+- URL: https://x.com/albinowax/status/935814003594551296
+- Metrics (at fetch): not returned
+
+> It was a pleasure to present to you fine people last night @csischester. 
+>
+> You can find the full-length presentation and whitepaper at http://blog.portswigger.net/2017/07/cracking-lens-targeting-https-hidden.html and the final exploit replica challenge at http://hackxor.net/mission?id=4
+
+**Links in post:** http://blog.portswigger.net/2017/07/cracking-lens-targeting-https-hidden.html, http://hackxor.net/mission?id=4
+
+
+---
+
+## 2017-11-28 · Post · Yes, this is in scope for our bug bounty program :) https://x.com/Burp_Suite/status/9355231807221800
+
+
+### Post — @albinowax — 2017-11-28 15:33 UTC (2017-11-28 16:33 WAT)
+
+- URL: https://x.com/albinowax/status/935531989037473797
+- Metrics (at fetch): not returned
+
+> Yes, this is in scope for our bug bounty program :) https://x.com/Burp_Suite/status/935523180722180096
+
+**Links in post:** https://x.com/Burp_Suite/status/935523180722180096
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2216306262 — 2017-11-28 14:58 UTC (2017-11-28 15:58 WAT)
+    
+    - URL: https://x.com/2216306262/status/935523180722180096
+    - Metrics (at fetch): not returned
+    
+    > Blog post: The Daily Swig http://blog.portswigger.net/2017/11/the-daily-swig.html @DailySwig
+    
+    **Links in post:** http://blog.portswigger.net/2017/11/the-daily-swig.html
+    
+
+
+---
+
+## 2017-11-22 · Post · Here's my winning writeup for @Hacker0x01's h1-212 CTF: http://www.skeletonscribe.net/2017/11/h1-212
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @albinowax — 2017-11-22 13:22 UTC (2017-11-22 14:22 WAT)
+
+- URL: https://x.com/albinowax/status/933324753997352960
+- Metrics (at fetch): not returned
+
+> Here's my winning writeup for @Hacker0x01's h1-212 CTF: http://www.skeletonscribe.net/2017/11/h1-212-ctf-writeup.html
+
+**Links in post:** http://www.skeletonscribe.net/2017/11/h1-212-ctf-writeup.html
+
+
+---
+
+## 2017-11-01 · Post · Bug bounty protip: stop your browser snitching on your XSS findings with a proxy match/replace rule 
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2017-11-01 15:15 UTC (2017-11-01 16:15 WAT)
+
+- URL: https://x.com/albinowax/status/925743148600647680
+- Metrics (at fetch): not returned
+
+> Bug bounty protip: stop your browser snitching on your XSS findings with a proxy match/replace rule [pic.x.com/FSuD8KQEGo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DNjk3BYXUAEB8zy.jpg — no alt text provided by author
+
+
+---
+
+## 2017-10-26 · Post · ActiveScan++ can now detect blind Solr/Lucene injection leading to XXE+RCE!  (BApp store -&gt; Activ
+
+
+Tags (automatic): RCE
+
+
+### Post — @albinowax — 2017-10-26 10:54 UTC (2017-10-26 11:54 WAT)
+
+- URL: https://x.com/albinowax/status/923503020532469762
+- Metrics (at fetch): not returned
+
+> ActiveScan++ can now detect blind Solr/Lucene injection leading to XXE+RCE!  (BApp store -&gt; ActiveScan -&gt; Update)
+> https://github.com/albinowax/ActiveScanPlusPlus/blob/02756a76bd8dc5fcda4783fbd62a3e8a2f61b82d/activeScan%2B%2B.py#L379-L392
+
+**Links in post:** https://github.com/albinowax/ActiveScanPlusPlus/blob/02756a76bd8dc5fcda4783fbd62a3e8a2f61b82d/activeScan%2B%2B.py#L379-L392
+
+
+---
+
+## 2017-10-06 · Post · When Security Features Collide: http://blog.portswigger.net/2017/10/when-security-features-collide.h
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2017-10-06 14:37 UTC (2017-10-06 15:37 WAT)
+
+- URL: https://x.com/albinowax/status/916311555582685190
+- Metrics (at fetch): not returned
+
+> When Security Features Collide: http://blog.portswigger.net/2017/10/when-security-features-collide.html featuring Cloudflare, XSS Auditor, Edge, NoScript and @garethheyes
+
+**Links in post:** http://blog.portswigger.net/2017/10/when-security-features-collide.html
+
+
+---
+
+## 2017-10-05 · Post · @sirdarckcat Don't know if you already saw this, but it looks quite similar to your ideas on exploit
+
+
+### Post — @albinowax — 2017-10-05 14:26 UTC (2017-10-05 15:26 WAT)
+
+- URL: https://x.com/albinowax/status/915946257578946562
+- Metrics (at fetch): not returned
+
+> @sirdarckcat Don't know if you already saw this, but it looks quite similar to your ideas on exploit derivatives http://files.brucon.org/2017/001_Justine_Bone_The_First_Cyber_Short.pdf
+
+**Links in post:** http://files.brucon.org/2017/001_Justine_Bone_The_First_Cyber_Short.pdf
+
+
+---
+
+## 2017-09-21 · Post · An innovative attack technique exploiting company-domain trust relationships by @securinti https://m
+
+
+### Post — @albinowax — 2017-09-21 11:35 UTC (2017-09-21 12:35 WAT)
+
+- URL: https://x.com/albinowax/status/910829893579132928
+- Metrics (at fetch): not returned
+
+> An innovative attack technique exploiting company-domain trust relationships by @securinti https://medium.com/@intideceukelaire/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c
+
+**Links in post:** https://medium.com/@intideceukelaire/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c
+
+
+---
+
+## 2017-09-11 · Post · Just learnt of a  .NET Request Validation bypass from 2011! https://weblogs.asp.net/imranbaloch/secu
+
+
+### Post — @albinowax — 2017-09-11 10:41 UTC (2017-09-11 11:41 WAT)
+
+- URL: https://x.com/albinowax/status/907192272365735936
+- Metrics (at fetch): not returned
+
+> Just learnt of a  .NET Request Validation bypass from 2011! https://weblogs.asp.net/imranbaloch/security-issue-in-asp-net-mvc3-jsonvalueproviderfactory  Re-googling old questions FTW
+
+**Links in post:** https://weblogs.asp.net/imranbaloch/security-issue-in-asp-net-mvc3-jsonvalueproviderfactory
+
+
+---
+
+## 2017-08-30 · Post · Cracking the Lens: Targeting HTTP's Hidden Attack-Surface is now up, courtesy of @BSidesMCR https://
+
+
+### Post — @albinowax — 2017-08-30 10:06 UTC (2017-08-30 11:06 WAT)
+
+- URL: https://x.com/albinowax/status/902835001032626176
+- Metrics (at fetch): not returned
+
+> Cracking the Lens: Targeting HTTP's Hidden Attack-Surface is now up, courtesy of @BSidesMCR https://www.youtube.com/watch?v=1Newz_wkMvs&feature=youtu.be&a
+
+**Links in post:** https://www.youtube.com/watch?v=1Newz_wkMvs&feature=youtu.be&a
+
+
+---
+
+## 2017-08-16 · Post · A simple but critical magic value attack http://lightningsecurity.io/blog/password-not-provided/ 
+
+
+### Post — @albinowax — 2017-08-16 12:51 UTC (2017-08-16 13:51 WAT)
+
+- URL: https://x.com/albinowax/status/897802882061303808
+- Metrics (at fetch): not returned
+
+> A simple but critical magic value attack http://lightningsecurity.io/blog/password-not-provided/ 
+> Backslash Powered Scanner can detect similar keyword-based vulnerabilities
+
+**Links in post:** http://lightningsecurity.io/blog/password-not-provided/
+
+
+---
+
+## 2017-08-11 · Post · CVE-2017-7674: cache poisoning in Apache Tomcat due to CORS misconfiguration https://lists.apache.or
+
+
+### Post — @albinowax — 2017-08-11 15:05 UTC (2017-08-11 16:05 WAT)
+
+- URL: https://x.com/albinowax/status/896024762933276674
+- Metrics (at fetch): not returned
+
+> CVE-2017-7674: cache poisoning in Apache Tomcat due to CORS misconfiguration https://lists.apache.org/thread.html/22b4bb077502f847e2b9fcf00b96e81e734466ab459780ff73b60c0f@%3Cannounce.tomcat.apache.org%3E http://blog.portswigger.net/2016/10/exploiting-cors-misconfigurations-for.html
+
+**Links in post:** https://lists.apache.org/thread.html/22b4bb077502f847e2b9fcf00b96e81e734466ab459780ff73b60c0f@%3Cannounce.tomcat.apache.org%3E, http://blog.portswigger.net/2016/10/exploiting-cors-misconfigurations-for.html
+
+
+---
+
+## 2017-08-10 · Post · Simple host header attack on Google for a $10k bounty: https://sites.google.com/site/testsitehacking
+
+
+### Post — @albinowax — 2017-08-10 08:12 UTC (2017-08-10 09:12 WAT)
+
+- URL: https://x.com/albinowax/status/895558569705078784
+- Metrics (at fetch): not returned
+
+> Simple host header attack on Google for a $10k bounty: https://sites.google.com/site/testsitehacking/10k-host-header
+
+**Links in post:** https://sites.google.com/site/testsitehacking/10k-host-header
+
+
+---
+
+## 2017-07-19 · Post · I'll be presenting 'Cracking the Lens: Targeting HTTP's Hidden Attack-Surface' at 4pm, Wednesday htt
+
+
+### Post — @albinowax — 2017-07-19 09:54 UTC (2017-07-19 10:54 WAT)
+
+- URL: https://x.com/albinowax/status/887611619953561600
+- Metrics (at fetch): not returned
+
+> I'll be presenting 'Cracking the Lens: Targeting HTTP's Hidden Attack-Surface' at 4pm, Wednesday https://www.blackhat.com/us-17/briefings/schedule/#cracking-the-lens-targeting-https-hidden-attack-surface-6387 #BHUSA
+
+**Links in post:** https://www.blackhat.com/us-17/briefings/schedule/#cracking-the-lens-targeting-https-hidden-attack-surface-6387
+
+
+---
+
+## 2017-05-18 · Post · I'm thrilled Backslash Powered Scanner achieves this. But damn have I spent a lot of time struggling
+
+
+### Post — @albinowax — 2017-05-18 19:11 UTC (2017-05-18 20:11 WAT)
+
+- URL: https://x.com/albinowax/status/865283729761206274
+- Metrics (at fetch): not returned
+
+> I'm thrilled Backslash Powered Scanner achieves this. But damn have I spent a lot of time struggling to exploit high hanging fruit since. https://x.com/gord_mackay/status/865223812140355584
+
+**Links in post:** https://x.com/gord_mackay/status/865223812140355584
+
+**Quoted post (full text):**
+
+    #### Quoted post — @25676611 — 2017-05-18 15:13 UTC (2017-05-18 16:13 WAT)
+    
+    - URL: https://x.com/25676611/status/865223812140355584
+    - Metrics (at fetch): not returned
+    
+    > @albinowax Scanners are good at finding low hanging fruit - but - we deserve a scanner that finds high hanging fruit @NorthSec_io
+    
+
+
+---
+
+## 2017-05-16 · Post · The medal for my least impressive bug bounty experience has been enthusiastically seized by @Zomato 
+
+
+### Post — @albinowax — 2017-05-16 19:20 UTC (2017-05-16 20:20 WAT)
+
+- URL: https://x.com/albinowax/status/864561265603211264
+- Metrics (at fetch): not returned
+
+> The medal for my least impressive bug bounty experience has been enthusiastically seized by @Zomato http://www.skeletonscribe.net/2016/08/reviewing-bug-bounties-hackers.html#zomato 🎉
+
+**Links in post:** http://www.skeletonscribe.net/2016/08/reviewing-bug-bounties-hackers.html#zomato
+
+
+---
+
+## 2017-05-04 · Post · Simple but high quality Host header attack on latest WordPress core https://exploitbox.io/vuln/WordP
+
+
+### Post — @albinowax — 2017-05-04 08:40 UTC (2017-05-04 09:40 WAT)
+
+- URL: https://x.com/albinowax/status/860051463392952320
+- Metrics (at fetch): not returned
+
+> Simple but high quality Host header attack on latest WordPress core https://exploitbox.io/vuln/WordPress-Exploit-4-7-Unauth-Password-Reset-0day-CVE-2017-8295.html
+
+**Links in post:** https://exploitbox.io/vuln/WordPress-Exploit-4-7-Unauth-Password-Reset-0day-CVE-2017-8295.html
+
+
+---
+
+## 2017-04-24 · Post · 'Insufficient Attack Protection' and Abusing OWASP http://www.skeletonscribe.net/2017/04/abusing-owa
+
+
+### Post — @albinowax — 2017-04-24 13:34 UTC (2017-04-24 14:34 WAT)
+
+- URL: https://x.com/albinowax/status/856501597874122752
+- Metrics (at fetch): not returned
+
+> 'Insufficient Attack Protection' and Abusing OWASP http://www.skeletonscribe.net/2017/04/abusing-owasp.html
+
+**Links in post:** http://www.skeletonscribe.net/2017/04/abusing-owasp.html
+
+
+---
+
+## 2017-04-20 · Post · I think this is now the only public way to XSS text/plain responses via content-sniffing in a fully 
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2017-04-20 15:13 UTC (2017-04-20 16:13 WAT)
+
+- URL: https://x.com/albinowax/status/855077024100216832
+- Metrics (at fetch): not returned
+
+> I think this is now the only public way to XSS text/plain responses via content-sniffing in a fully patched browser: https://jankopecky.net/index.php/2017/04/18/0day-textplain-considered-harmful/
+
+**Links in post:** https://jankopecky.net/index.php/2017/04/18/0day-textplain-considered-harmful/
+
+
+---
+
+## 2017-04-19 · Post · Catch me speaking on Cracking The Lens: Targeting HTTP's Hidden Attack-Surface at @BlackHatUSA this 
+
+
+### Post — @albinowax — 2017-04-19 15:49 UTC (2017-04-19 16:49 WAT)
+
+- URL: https://x.com/albinowax/status/854723622027571202
+- Metrics (at fetch): not returned
+
+> Catch me speaking on Cracking The Lens: Targeting HTTP's Hidden Attack-Surface at @BlackHatUSA this summer! https://www.blackhat.com/us-17/briefings.html#james-kettle 🎉
+
+**Links in post:** https://www.blackhat.com/us-17/briefings.html#james-kettle
+
+
+---
+
+## 2017-04-11 · Post · "Insufficient Attack protection" aka not having a WAF is now in OWASP's 'Top 10 Most Critical WebApp
+
+
+### Post — @albinowax — 2017-04-11 09:41 UTC (2017-04-11 10:41 WAT)
+
+- URL: https://x.com/albinowax/status/851731940294225921
+- Metrics (at fetch): not returned
+
+> "Insufficient Attack protection" aka not having a WAF is now in OWASP's 'Top 10 Most Critical WebApp risks' . Hmm. https://raw.githubusercontent.com/OWASP/Top10/master/2017/OWASP%20Top%2010%20-%202017%20RC1-English.pdf
+
+**Links in post:** https://raw.githubusercontent.com/OWASP/Top10/master/2017/OWASP%20Top%2010%20-%202017%20RC1-English.pdf
+
+
+---
+
+## 2017-04-06 · Post · Finding SSRF is playing bug bounty roulette. I've had near-identical issues classified as 'low' and 
+
+
+Tags (automatic): SSRF
+
+
+### Post — @albinowax — 2017-04-06 13:19 UTC (2017-04-06 14:19 WAT)
+
+- URL: https://x.com/albinowax/status/849974774222778368
+- Metrics (at fetch): not returned
+
+> Finding SSRF is playing bug bounty roulette. I've had near-identical issues classified as 'low' and 'critical' https://x.com/disclosedh1/status/849913359902355456
+
+**Links in post:** https://x.com/disclosedh1/status/849913359902355456
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2017-04-06 09:15 UTC (2017-04-06 10:15 WAT)
+    
+    - URL: https://x.com/2481701395/status/849913359902355456
+    - Metrics (at fetch): not returned
+    
+    > Twitter disclosed a bug submitted by mindaugas: https://hackerone.com/reports/178184 - Bounty: $280 #hackerone #bugbounty [pic.x.com/ioxCIrKCw9]
+    
+    **Media:**
+    - media `3_849913357335498753` (details not returned by the API)
+    
+    **Links in post:** https://hackerone.com/reports/178184
+    
+
+
+---
+
+## 2017-03-31 · Post · \ Powered Scanner is frustratingly good at finding shady behavior I can't quite exploit. Should rele
+
+
+### Post — @albinowax — 2017-03-31 11:03 UTC (2017-03-31 12:03 WAT)
+
+- URL: https://x.com/albinowax/status/847766195847790592
+- Metrics (at fetch): not returned
+
+> \ Powered Scanner is frustratingly good at finding shady behavior I can't quite exploit. Should release a feed of them for bored researchers

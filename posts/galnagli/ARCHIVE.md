@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 120
-- Conversations/threads: 109
-- Oldest post captured: 2023-12-31
+- Posts in this file: 161
+- Conversations/threads: 150
+- Oldest post captured: 2021-02-20
 - Newest post captured: 2026-11-10
 
 
@@ -2471,3 +2471,1018 @@ Tags (automatic): Platform: Bugcrowd
     **Media:**
     - media `3_1741539456656515072` (details not returned by the API)
     
+
+
+---
+
+## 2023-11-12 · Post · AI helps greatly translating JavaScript to "Human Readable Language", here's how I found a very stra
+
+
+Tags (automatic): XSS, AI-assisted hunting
+
+
+### Post — @galnagli — 2023-11-12 16:12 UTC (2023-11-12 17:12 WAT)
+
+- URL: https://x.com/galnagli/status/1723735631182844356
+- Metrics (at fetch): bookmark 370, impression 101712, like 570, quote 4, reply 12, retweet 88
+
+> AI helps greatly translating JavaScript to "Human Readable Language", here's how I found a very straight forward DOM Based XSS in 2 minutes.
+>
+> #BugBounty https://t.co/KtKoN4kmbW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-vuY7-W0AAoIEW.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-03 · Post · Crazy Aliyun WAF Bypass:
+
+
+### Post — @galnagli — 2023-10-03 12:29 UTC (2023-10-03 13:29 WAT)
+
+- URL: https://x.com/galnagli/status/1709183962029973965
+- Metrics (at fetch): bookmark 181, impression 61135, like 469, quote 2, reply 21, retweet 82
+
+> Crazy Aliyun WAF Bypass:
+>
+> cat /etc/hosts - triggers WAF
+> tac /etc/hosts - 🧙‍♂️
+>
+> #bugbountytips #bugbounty https://t.co/FrMaBY6I0q
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7g9UMxXcAArijg.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F7g9W-yXwAAk_h4.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F7g9qeeWYAAuViF.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-27 · Post · Yesterday @Hacker0x01 had a bug that revoked everyone's "Clear" status - it only appeared to be some
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2023-09-27 10:35 UTC (2023-09-27 11:35 WAT)
+
+- URL: https://x.com/galnagli/status/1706980826154496501
+- Metrics (at fetch): bookmark 5, impression 23952, like 77, quote 2, reply 10, retweet 3
+
+> Yesterday @Hacker0x01 had a bug that revoked everyone's "Clear" status - it only appeared to be some UI issue, however, right now all of us "Clear" hackers are being booted off the hundreds of "Clear-Only" relevant programs in the platform 🤦‍♂️ #BugBounty https://t.co/sjJDaNLVLu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7Bpvn1XcAEVlFA.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F7Bp_ajWIAEQkOI.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-31 · Post · Happy to score a nice $15,000 bounty for
+
+
+Tags (automatic): RCE, Platform: HackerOne
+
+
+### Post — @galnagli — 2023-08-31 07:51 UTC (2023-08-31 08:51 WAT)
+
+- URL: https://x.com/galnagli/status/1697155235389612310
+- Metrics (at fetch): bookmark 17, impression 12441, like 202, quote 0, reply 4, retweet 10
+
+> Happy to score a nice $15,000 bounty for
+> Java Deserialization Remote Code Execution (in 2023!) with the help of our team members that guaranteed our spots for the in-person finals of @Hacker0x01's World Cup Competition.
+>
+> More to come ✈️ @Blaklis_
+> #BugBounty https://t.co/sR8Ar1i0O5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F42BQk-XcAA2VAE.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F42BhK1WIAAdBtL.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-12 · Post · Hundreds of Bug Bounty targets and probably tens of thousands "bounce" domains across the internet n
+
+
+### Post — @galnagli — 2023-07-12 20:07 UTC (2023-07-12 21:07 WAT)
+
+- URL: https://x.com/galnagli/status/1679220953224470528
+- Metrics (at fetch): bookmark 53, impression 33425, like 199, quote 0, reply 3, retweet 20
+
+> Hundreds of Bug Bounty targets and probably tens of thousands "bounce" domains across the internet now expose a ".git/config" directory to the world because of some postmark developer mistake 🙄
+>
+> (Nothing sensitive there - don't report these)
+>
+> #BugBounty https://t.co/9ANv1H49Ir
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F03KXKaXgAE-DPA.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-19 · Post · Just got awarded a $22,000 bounty and joined the exclusive 30,000 reputation club on @Hacker0x01 htt
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2023-05-19 09:48 UTC (2023-05-19 10:48 WAT)
+
+- URL: https://x.com/galnagli/status/1659496174842269696
+- Metrics (at fetch): bookmark 26, impression 55043, like 501, quote 1, reply 32, retweet 12
+
+> Just got awarded a $22,000 bounty and joined the exclusive 30,000 reputation club on @Hacker0x01 https://t.co/ToDRD925E7
+>
+> Not a bad start for the weekend!
+>
+> #BugBounty🚀😉 https://t.co/ntNA4ykBpO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fwe25PqXgAMnyHG.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fwe27abWIAABT-_.png — no alt text provided by author
+
+
+---
+
+## 2023-04-13 · Post · Less than 48 hours into @OpenAI's BugBounty program on @Bugcrowd and already claimed the 1 spot am
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2023-04-13 16:26 UTC (2023-04-13 17:26 WAT)
+
+- URL: https://x.com/galnagli/status/1646550421123522560
+- Metrics (at fetch): bookmark 90, impression 99115, like 395, quote 4, reply 10, retweet 39
+
+> Less than 48 hours into @OpenAI's #BugBounty program on @Bugcrowd and already claimed the #1 spot among 1,000+ researchers by reporting 9 valid vulnerabilities! (so-far)
+>
+> The program got itself a strong start, and thought I'd share some interesting insights Iv'e noticed:
+>
+> 1/n https://t.co/bIICHQR5fn https://t.co/rYS28yZu0r
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ftm4vLoWYAAKKju.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2023-03-24 19:10 UTC (2023-03-24 20:10 WAT)
+    
+    - URL: https://x.com/galnagli/status/1639343866313601024
+    - Metrics (at fetch): bookmark 1238, impression 711177, like 3232, quote 73, reply 82, retweet 720
+    
+    > The team at @OpenAI just fixed a critical account takeover vulnerability I reported few hours ago affecting #ChatGPT. 
+    >
+    > It was possible to takeover someone's account, view their chat history, and access their billing information without them ever realizing it.
+    >
+    > Breakdown below 👇 https://t.co/W4kXMNy6qI
+    
+    **Media:**
+    - media `7_1639341101134774283` (details not returned by the API)
+    
+
+
+---
+
+## 2023-04-13 · Post · Just wrapped up a great 1-hour conversation with @0xteknogeek and @Rhynorater about my journey as a 
+
+
+### Post — @galnagli — 2023-04-13 13:00 UTC (2023-04-13 14:00 WAT)
+
+- URL: https://x.com/galnagli/status/1646498678369136641
+- Metrics (at fetch): bookmark 42, impression 28049, like 170, quote 0, reply 3, retweet 28
+
+> Just wrapped up a great 1-hour conversation with @0xteknogeek and @Rhynorater about my journey as a Bug Bounty Hunter.
+>
+> If you're looking to learn from my experiences and get some #BugBountyTips, check out the podcast or video at: https://t.co/Xms1tMCqyB
+>
+> #BugBounty https://t.co/HSrUEf2suK https://t.co/Tz192hv8FX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtmJqXhWAAEcYTi.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1600519214519013377 — 2023-04-13 10:00 UTC (2023-04-13 11:00 WAT)
+    
+    - URL: https://x.com/1600519214519013377/status/1646453170837520386
+    - Metrics (at fetch): bookmark 33, impression 40629, like 88, quote 2, reply 0, retweet 20
+    
+    > The latest million-dollar hacker @naglinagli hopped on the pod this week to talk about his recon setup, live hacking events, ChatGPT hax, and an SSRF that achieved him "Best Bug" at a recent live hacking event.
+    >
+    > Episode 15, Critical Thinking:
+    > https://t.co/ZQECCQwllR
+    
+
+
+---
+
+## 2023-03-24 · Post · The team at @OpenAI just fixed a critical account takeover vulnerability I reported few hours ago af
+
+
+Tags (automatic): Account takeover, AI-assisted hunting
+
+
+### Post — @galnagli — 2023-03-24 19:10 UTC (2023-03-24 20:10 WAT)
+
+- URL: https://x.com/galnagli/status/1639343866313601024
+- Metrics (at fetch): bookmark 1238, impression 711177, like 3232, quote 73, reply 82, retweet 720
+
+> The team at @OpenAI just fixed a critical account takeover vulnerability I reported few hours ago affecting #ChatGPT. 
+>
+> It was possible to takeover someone's account, view their chat history, and access their billing information without them ever realizing it.
+>
+> Breakdown below 👇 https://t.co/W4kXMNy6qI
+
+**Media:**
+- media `7_1639341101134774283` (details not returned by the API)
+
+
+---
+
+## 2023-03-13 · Post · I just found a Critical Authentication Bypass on one of my target's Apache Tomcat Instance.
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @galnagli — 2023-03-13 09:13 UTC (2023-03-13 10:13 WAT)
+
+- URL: https://x.com/galnagli/status/1635207379037073409
+- Metrics (at fetch): bookmark 147, impression 40557, like 377, quote 0, reply 16, retweet 73
+
+> I just found a Critical Authentication Bypass on one of my target's Apache Tomcat Instance.
+>
+> https://t.co/36gHdftDMM -&gt; redirect https://t.co/pk4EmVzk5l (NXDOMAIN)
+>
+> https://t.co/UsiTc8VyDz -&gt; 401 Basic Auth
+>
+> https://t.co/mwycMlAGts -&gt; 200 OK
+>
+> #bugbountytips https://t.co/rEhLIHrZK9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrFrnVxX0AAQbKO.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FrFsXGRXgAIQNsb.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-06 · Post · Yay, I was awarded a $22,000 bounty for Remote Code Execution on @Hacker0x01! https://t.co/ToDRD925E
+
+
+Tags (automatic): RCE, Platform: HackerOne
+
+
+### Post — @galnagli — 2023-02-06 18:42 UTC (2023-02-06 19:42 WAT)
+
+- URL: https://x.com/galnagli/status/1622666998323847195
+- Metrics (at fetch): bookmark 69, impression 86088, like 702, quote 1, reply 34, retweet 25
+
+> Yay, I was awarded a $22,000 bounty for Remote Code Execution on @Hacker0x01! https://t.co/ToDRD925E7 #TogetherWeHitHarder #BugBounty
+
+
+---
+
+## 2023-02-03 · Post · Recently, I faced numerous challenges where I needed to bypass limited SSRF or overcome regex mitiga
+
+
+Tags (automatic): SSRF
+
+
+### Post — @galnagli — 2023-02-03 16:45 UTC (2023-02-03 17:45 WAT)
+
+- URL: https://x.com/galnagli/status/1621550362829246465
+- Metrics (at fetch): bookmark 170, impression 45000, like 256, quote 0, reply 11, retweet 60
+
+> Recently, I faced numerous challenges where I needed to bypass limited SSRF or overcome regex mitigations to increase impact and make a case for a report.
+>
+> Spinning up a server to host a redirection header is time consuming and not-so-fun to do.
+>
+> There's an easy alternative 🧵
+
+
+---
+
+## 2023-01-25 · Post · I am thrilled to announce that as of today, I have been ranked among the top 10 hackers on the all-t
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2023-01-25 09:58 UTC (2023-01-25 10:58 WAT)
+
+- URL: https://x.com/galnagli/status/1618186608351776769
+- Metrics (at fetch): bookmark 13, impression 34091, like 346, quote 0, reply 22, retweet 7
+
+> I am thrilled to announce that as of today, I have been ranked among the top 10 hackers on the all-time global leaderboard of @Hacker0x01!
+>
+> 2 years since I've scored my first bounty payout.
+>
+> #BugBounty https://t.co/LmAX6ID7mQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnTyxTQWAAEIvlz.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-20 · Post · Won the Exterminator award for the most critical bug at @Hacker0x01's H1-407 event teaming up with @
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2023-01-20 13:24 UTC (2023-01-20 14:24 WAT)
+
+- URL: https://x.com/galnagli/status/1616426340449751040
+- Metrics (at fetch): bookmark 4, impression 37757, like 312, quote 0, reply 16, retweet 8
+
+> Won the Exterminator award for the most critical bug at @Hacker0x01's H1-407 event teaming up with @spaceraccoonsec and @alxbrsn hacking #EpicGames!
+>
+> Huge Shoutout to @Rhynorater and @hacker_ for their assistance on the winning bug 🤝
+>
+> #BugBounty https://t.co/yJucYqix9K
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fm6zHiHWYAQ8yYT.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-11 · Post · I was interviewed by @Bugcrowd following my win at @indeed’s BugBash event at Las Vegas where I scoo
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2022-11-11 17:46 UTC (2022-11-11 18:46 WAT)
+
+- URL: https://x.com/galnagli/status/1591125145007329281
+- Metrics (at fetch): not returned
+
+> I was interviewed by @Bugcrowd following my win at @indeed’s BugBash event at Las Vegas where I scooped over 30,000$ ✌️
+>
+> Sharing a little bit about my background, how I got started and persistence doing #BugBounty and #AppSec. https://twitter.com/Bugcrowd/status/1591122335041454094
+
+**Links in post:** https://twitter.com/Bugcrowd/status/1591122335041454094
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Bugcrowd — 2022-11-11 17:35 UTC (2022-11-11 18:35 WAT)
+    
+    - URL: https://x.com/Bugcrowd/status/1591122335041454094
+    - Metrics (at fetch): not returned
+    
+    > The winner of #VegasBugBash2022 and recent entrepreneur, has some tips for you. 💡
+    >
+    > Read all about the #hacking journey of @naglinagli below 🧑‍💻 
+    >
+    > #BugBountyTips #OuthackThemAll #ItTakesACrowd
+    > https://www.bugcrowd.com/blog/researcher-spotlight-nagli/
+    
+    **Links in post:** https://www.bugcrowd.com/blog/researcher-spotlight-nagli/
+    
+
+
+---
+
+## 2022-10-13 · Post · We have successfully managed to replicate and confirm the public PoC for CVE-2022-40684. which grant
+
+
+### Post — @galnagli — 2022-10-13 18:13 UTC (2022-10-13 19:13 WAT)
+
+- URL: https://x.com/galnagli/status/1580622895734460416
+- Metrics (at fetch): not returned
+
+> We have successfully managed to replicate and confirm the public PoC for CVE-2022-40684. which grants SSH access without any interaction to vulnerable FortiOS instances, with CVSS score of 9.6.
+>
+> Nuclei template for scanning can be found here:
+>
+> https://github.com/NagliNagli/BountyTricks/blob/main/CVE-2022-40684.yaml
+>
+> #BugBounty [pic.x.com/nW0Vas5GLw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fe9_lFYXEAUbqLO.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fe9_8BkWYAAedbG.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/NagliNagli/BountyTricks/blob/main/CVE-2022-40684.yaml
+
+
+---
+
+## 2022-10-10 · Post · Just scooped a very nice bounty and big kudos to @elastic’s Bug Bounty Team👌🏻
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2022-10-10 19:31 UTC (2022-10-10 20:31 WAT)
+
+- URL: https://x.com/galnagli/status/1579555278823231489
+- Metrics (at fetch): not returned
+
+> Just scooped a very nice bounty and big kudos to @elastic’s Bug Bounty Team👌🏻
+>
+> Submission =&gt; Triage =&gt; Fix =&gt; Bounty in 4 days, definitely a program I’d recommend playing with at @Hacker0x01 
+>
+> #BugBounty [pic.x.com/x0E7i594wj]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Feu1JsoXEAMa9vE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Feu1JsnXEAI2QIS.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Feu1JsnXEA88krV.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-06 · Post · Yay, I was awarded a $21,300 bounty on @Hacker0x01 for Subdomain Takeover! https://hackerone.com/nag
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2022-10-06 14:00 UTC (2022-10-06 15:00 WAT)
+
+- URL: https://x.com/galnagli/status/1578022328750944260
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $21,300 bounty on @Hacker0x01 for Subdomain Takeover! https://hackerone.com/nagli #TogetherWeHitHarder #BugBounty
+
+**Links in post:** https://hackerone.com/nagli
+
+
+---
+
+## 2022-08-12 · Post · Been a blast last couple of days hacking Hardware stuff with the main man @Rhynorater and getting so
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2022-08-12 19:36 UTC (2022-08-12 20:36 WAT)
+
+- URL: https://x.com/galnagli/status/1558175663126978563
+- Metrics (at fetch): not returned
+
+> Been a blast last couple of days hacking Hardware stuff with the main man @Rhynorater and getting some real cool PoC’s flying around 📺
+>
+> Grateful for @codingo_ and the whole @Bugcrowd team with their help coordinating the findings 💯
+>
+> #VegasBugBash2022 #BugBounty [pic.x.com/N8Ww20a8Bp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZ_AfrjWIAE4Rpd.jpg — no alt text provided by author
+
+
+---
+
+## 2022-07-04 · Post · Don't look for collaboration partners, look for friends to Bug Bounty with.
+
+
+### Post — @galnagli — 2022-07-04 18:45 UTC (2022-07-04 19:45 WAT)
+
+- URL: https://x.com/galnagli/status/1544029531421478913
+- Metrics (at fetch): not returned
+
+> Don't look for collaboration partners, look for friends to Bug Bounty with.
+>
+> #BugBountyTips
+
+
+---
+
+## 2022-07-01 · Post · Had a blast hunting on @Bugcrowd during the last quarter.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2022-07-01 10:47 UTC (2022-07-01 11:47 WAT)
+
+- URL: https://x.com/galnagli/status/1542822282531315712
+- Metrics (at fetch): not returned
+
+> Had a blast hunting on @Bugcrowd during the last quarter.
+>
+> Median time of 1 hour to triage 12 of my P1's,
+> Submission Templates, Bundled payments, Great support and availability within Slack / Email.
+>
+> Happy to reach the 50 P1's milestone, Kudos to anyone involved 🙏
+>
+> #BugBounty [pic.x.com/hJYtXKfWm5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWkzS51XwAERvea.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FWkz2AgXgAA1icr.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FWk0QVfXoAA8Pdp.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FWk0fySWAAQ9qxL.jpg — no alt text provided by author
+
+
+---
+
+## 2022-06-18 · Post · And It's a wrap for H1512 - What a great event it turned out to be hacking @GitHubSecurity, scooped
+
+
+### Post — @galnagli — 2022-06-18 15:08 UTC (2022-06-18 16:08 WAT)
+
+- URL: https://x.com/galnagli/status/1538176774806421504
+- Metrics (at fetch): not returned
+
+> And It's a wrap for #H1512 - What a great event it turned out to be hacking @GitHubSecurity, scooped up 5 digits and a couple of awards such as First valid bug, Most creative bug (with @Rhynorater and @0xacb), most Duplicates (😉), Best Meme and a Show &amp; Tell to close it all. [pic.x.com/10zR8sLSoO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FVizfGkWAAArxWK.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FVizh_qWIAAeCzt.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FVizjPEWYAABGrd.jpg — no alt text provided by author
+
+
+---
+
+## 2022-06-13 · Post · During @Hacker0x01 Ambassador Worldcup We (me, @rotembar and @realgam3) found DOM Based XSS that aff
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @galnagli — 2022-06-13 16:45 UTC (2022-06-13 17:45 WAT)
+
+- URL: https://x.com/galnagli/status/1536389342498889728
+- Metrics (at fetch): not returned
+
+> During @Hacker0x01 Ambassador Worldcup We (me, @rotembar and @realgam3) found DOM Based XSS that affected 6.5m+ Elementor websites, leading to 1 click WordPress panel takeover.
+>
+> Full writeup on Rotem's blog -&gt;
+> https://rotem-bar.com/hacking-65-million-websites-greater-cve-2022-29455-elementor
+>
+> #BugBounty #BugBountyTips
+
+**Links in post:** https://rotem-bar.com/hacking-65-million-websites-greater-cve-2022-29455-elementor
+
+
+---
+
+## 2021-05-28 · Post · Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/ToDRD925E7 TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2021-05-28 16:08 UTC (2021-05-28 17:08 WAT)
+
+- URL: https://x.com/galnagli/status/1398310191578374149
+- Metrics (at fetch): bookmark 6, impression 0, like 181, quote 0, reply 14, retweet 4
+
+> Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/ToDRD925E7 #TogetherWeHitHarder
+>
+> May 25 5:15 - New scope added
+> May 25 5:27 - Report submitted
+> May 28 - Report awarded
+>
+> #BugBounty https://t.co/YeBpGP8vql
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E2fLtFsXwAEQL3a.jpg — no alt text provided by author
+
+
+---
+
+## 2021-05-02 · Post · In May, I submitted 124 vulnerabilities to 1 program on 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2021-05-02 17:25 UTC (2021-05-02 18:25 WAT)
+
+- URL: https://x.com/galnagli/status/1388907580920057858
+- Metrics (at fetch): bookmark 3, impression 0, like 164, quote 0, reply 8, retweet 4
+
+> In May, I submitted 124 vulnerabilities to 1 program on 
+> @Bugcrowd
+>  
+> Sorry @sh_timmy, appreciated!
+>
+> #BugBounty https://t.co/cAj3M5K1uV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E0ZkELiX0AET67H.jpg — no alt text provided by author
+
+
+---
+
+## 2021-05-01 · Post · Nice find from @savxiety, he managed to find the exact same scenario as my disclosure on
+
+
+### Post — @galnagli — 2021-05-01 10:58 UTC (2021-05-01 11:58 WAT)
+
+- URL: https://x.com/galnagli/status/1388447765886341122
+- Metrics (at fetch): bookmark 26, impression 0, like 109, quote 0, reply 3, retweet 23
+
+> Nice find from @savxiety, he managed to find the exact same scenario as my disclosure on
+>
+> https://t.co/WGvDr5Ufgv
+>
+> Which eventually resulted in a $$$$ bounty ✅
+>
+> #BugBounty https://t.co/x2oBxzsYWA https://t.co/WujzxytDFZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E0TByI-XIAEWCiN.jpg — no alt text provided by author
+
+**Quoted post** 1388140414369030144: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-04-28 · Post · Ever find an endpoint which will let you control the contents inside stored &lt;img src&gt; tag?
+
+
+Tags (automatic): XSS, Account takeover
+
+
+### Post — @galnagli — 2021-04-28 07:44 UTC (2021-04-28 08:44 WAT)
+
+- URL: https://x.com/galnagli/status/1387311862925123584
+- Metrics (at fetch): bookmark 83, impression 0, like 369, quote 0, reply 18, retweet 90
+
+> Ever find an endpoint which will let you control the contents inside stored &lt;img src&gt; tag?
+>
+> As XSS probably won't be possible, you can insert your burp collaborator and look for any referral leakages on the page (via the URI)
+>
+> Escalated it to 0 interaction ATO.
+>
+> #bugbountytips https://t.co/1m27XSjrJc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E0C4xgfXMAMmQ_H.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E0C4xgaXoAMBmgR.jpg — no alt text provided by author
+
+
+---
+
+## 2021-04-26 · Post · Got a nice set of swag this month,
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @galnagli — 2021-04-26 19:50 UTC (2021-04-26 20:50 WAT)
+
+- URL: https://x.com/galnagli/status/1386769656250343425
+- Metrics (at fetch): bookmark 6, impression 0, like 361, quote 0, reply 18, retweet 9
+
+> Got a nice set of swag this month,
+> Thanks
+> @SynackRedTeam @Hacker0x01 @intigriti @Bugcrowd 
+>
+> #BugBounty https://t.co/BtusaOFlcf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ez7LpLoWEAItKUL.jpg — no alt text provided by author
+
+
+---
+
+## 2021-04-26 · Post · Reported subdomain takeover (with PoC) on @Bugcrowd public program, got alert on 1:51, claimed and r
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2021-04-26 17:13 UTC (2021-04-26 18:13 WAT)
+
+- URL: https://x.com/galnagli/status/1386730059126411264
+- Metrics (at fetch): bookmark 1, impression 0, like 48, quote 1, reply 11, retweet 3
+
+> Reported subdomain takeover (with PoC) on @Bugcrowd public program, got alert on 1:51, claimed and reported on 3:06 (AWS cooldown) program marked it as dupe because they got nuclei alert of their own at 1:53 (they didn't claim the domain)
+>
+> Interested to hear the crowd's call
+
+
+---
+
+## 2021-04-21 · Post · The best Bug Bounty study is to approach programs even without finding any bugs.
+
+
+### Post — @galnagli — 2021-04-21 19:38 UTC (2021-04-21 20:38 WAT)
+
+- URL: https://x.com/galnagli/status/1384954657802530821
+- Metrics (at fetch): bookmark 19, impression 0, like 201, quote 3, reply 3, retweet 27
+
+> The best Bug Bounty study is to approach programs even without finding any bugs.
+>
+> this way your mind study scenarios and methods who are probably not vulnerable, doing so you constantly improve your workflow and become more efficient.
+>
+> Get those "flight hours" in.
+>
+> #bugbountytips
+
+
+---
+
+## 2021-04-16 · Post · 12 hours of QR period yesterday on @SynackRedTeam  
+
+
+Tags (automatic): XSS, SSRF, Account takeover
+
+
+### Post — @galnagli — 2021-04-16 10:58 UTC (2021-04-16 11:58 WAT)
+
+- URL: https://x.com/galnagli/status/1383011997017636865
+- Metrics (at fetch): bookmark 10, impression 0, like 143, quote 0, reply 5, retweet 17
+
+> 12 hours of QR period yesterday on @SynackRedTeam  
+> (2 targets)
+>
+> Mass Assignment - user to admin - ✅
+> SSRF - Only headers in response - ✅
+> Open Redirect - ✅
+> 2X HTMLI - ✅
+> 2X Stored XSS to Account Takeover - ❌
+> Referer leakage - Plain text passwords - ❓
+>
+> #BugBounty https://t.co/Ygv55dYSdT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EzFx7xAWEAITyqK.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EzFx7w3XEAkKQNk.png — no alt text provided by author
+
+
+---
+
+## 2021-04-13 · Post · XSS payload to keep on your notes:
+
+
+Tags (automatic): XSS
+
+
+### Post — @galnagli — 2021-04-13 21:25 UTC (2021-04-13 22:25 WAT)
+
+- URL: https://x.com/galnagli/status/1382082473744564226
+- Metrics (at fetch): bookmark 241, impression 0, like 719, quote 0, reply 11, retweet 296
+
+> XSS payload to keep on your notes:
+>
+> &lt;script&gt;alert(1)&lt;/script&gt; -&gt; nginx block
+>
+> "&gt;&lt;img src=x onerror=alert(1)&gt; -&gt; Wordfence block
+>
+> ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6 -&gt; successful execution
+>
+> #bugbountytips  #BugBounty https://t.co/isQCJ0n9i6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ey4kQDIWEAAQmsr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ey4kQC2XAAQJexi.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ey4kQD4XIAA9DI6.jpg — no alt text provided by author
+
+
+---
+
+## 2021-03-31 · Post · Decided to drop the new Freshdesk Subdomain TKO PoC.
+
+
+### Post — @galnagli — 2021-03-31 22:05 UTC (2021-03-31 23:05 WAT)
+
+- URL: https://x.com/galnagli/status/1377381633846767621
+- Metrics (at fetch): bookmark 48, impression 0, like 256, quote 3, reply 13, retweet 89
+
+> Decided to drop the new Freshdesk Subdomain TKO PoC.
+>
+> We can takeover any expired Freshdesk subdomain by performing response manipulation on the admin portal, as the CNAME validation is being handled only on the client side.
+>
+> https://t.co/AWBGbcMWsw
+>
+> #bugbounty #bugbountytips
+
+
+---
+
+## 2021-03-26 · Post · As part of my study about "Vulnerability Inheritance through 3rd party vendors"
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @galnagli — 2021-03-26 20:33 UTC (2021-03-26 21:33 WAT)
+
+- URL: https://x.com/galnagli/status/1375546423723315210
+- Metrics (at fetch): bookmark 49, impression 0, like 204, quote 1, reply 8, retweet 45
+
+> As part of my study about "Vulnerability Inheritance through 3rd party vendors"
+>
+> I'm disclosing 3 bugs which affected @Hacker0x01 platform.
+>
+> Reflected XSS
+> Post Based RXSS
+> Open Redirect
+>
+> https://t.co/8qMbLRulOh
+> https://t.co/TcnCMZQ4is
+> https://t.co/ekD9G5zlzf
+>
+> #bugbountytips
+
+
+---
+
+## 2021-03-26 · Post · My report on @Hacker0x01 has been disclosed, 100% logical bug which was found via the interpretation
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2021-03-26 05:26 UTC (2021-03-26 06:26 WAT)
+
+- URL: https://x.com/galnagli/status/1375318268257386499
+- Metrics (at fetch): bookmark 19, impression 0, like 162, quote 1, reply 8, retweet 28
+
+> My report on @Hacker0x01 has been disclosed, 100% logical bug which was found via the interpretation of the endpoint, the bug existed for several years.
+>
+> Soon I'll be disclosing my other 3 reports on H1 program, with a little more details :-)
+>
+> https://t.co/XqXz70oNhU
+>
+> #BugBounty https://t.co/KzZsMlnI9B
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2021-03-25 23:45 UTC (2021-03-26 00:45 WAT)
+    
+    - URL: https://x.com/2481701395/status/1375232371772030979
+    - Metrics (at fetch): bookmark 11, impression 0, like 71, quote 2, reply 2, retweet 11
+    
+    > HackerOne disclosed a bug submitted by @naglinagli: https://t.co/85rOlE3EJf - Bounty: $2,500 #hackerone #bugbounty https://t.co/5NWP172b1S
+    
+    **Media:**
+    - media `3_1375232370501124099` (details not returned by the API)
+    
+
+
+---
+
+## 2021-03-23 · Post · Ever find a phpMyAdmin login portal and default creds wont work?
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @galnagli — 2021-03-23 12:07 UTC (2021-03-23 13:07 WAT)
+
+- URL: https://x.com/galnagli/status/1374332024920608774
+- Metrics (at fetch): bookmark 306, impression 0, like 962, quote 5, reply 25, retweet 304
+
+> Ever find a phpMyAdmin login portal and default creds wont work?
+>
+> Try to access the /phpmyadmin/setup/ endpoint and you might be presented with authentication bypassed configurable admin panel.
+>
+> This got me a nice bounty on @Synack.
+>
+> Ref:
+> https://t.co/1rX05GOBby
+>
+> #bugbountytips https://t.co/P0HkDZwZsA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ExKbjEYXAAY8eAd.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/ExKbjFcWEAM3uyQ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/ExKbjE-XIAEax77.png — no alt text provided by author
+
+
+---
+
+## 2021-03-15 · Post · Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://t.co/ToDRD925E7 TogetherWeHitHarder 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2021-03-15 15:31 UTC (2021-03-15 16:31 WAT)
+
+- URL: https://x.com/galnagli/status/1371484230044237826
+- Metrics (at fetch): bookmark 3, impression 0, like 236, quote 0, reply 14, retweet 9
+
+> Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://t.co/ToDRD925E7 #TogetherWeHitHarder 
+>
+> My biggest single bounty payout and it came from @Hacker0x01's own bug bounty program, surely hard work and dedication pays off.
+>
+> #BugBounty https://t.co/5PJCcbZhr9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ewh9e5bXIAU_yez.png — no alt text provided by author
+
+
+---
+
+## 2021-03-12 · Post · When hunting for postMessage vulnerabilities,
+
+
+Tags (automatic): XSS
+
+
+### Post — @galnagli — 2021-03-12 15:42 UTC (2021-03-12 16:42 WAT)
+
+- URL: https://x.com/galnagli/status/1370399880204681222
+- Metrics (at fetch): bookmark 76, impression 0, like 153, quote 0, reply 2, retweet 40
+
+> When hunting for postMessage vulnerabilities,
+> you can score easy wins by inspecting urls transmission within the Cross-Origin traffic.
+> Simply change their schema and escalate it to a DOM XSS.
+>
+> http://target[.]com -&gt; javascript:alert(document.domain)
+>
+> #bugbountytips  #BugBounty https://t.co/bg3myCE41z
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EwSjM8mWgAIk8Wj.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EwSjM8kXIAEWDij.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EwSjM8qXIAATnqf.png — no alt text provided by author
+
+
+---
+
+## 2021-03-03 · Post · First @Bugcrowd MVP inclusion 💯
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2021-03-03 07:50 UTC (2021-03-03 08:50 WAT)
+
+- URL: https://x.com/galnagli/status/1367019499724144641
+- Metrics (at fetch): bookmark 0, impression 0, like 31, quote 0, reply 3, retweet 1
+
+> First @Bugcrowd MVP inclusion 💯
+>
+> #dedication https://t.co/trnVo19uvU
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Bugcrowd — 2021-03-03 02:00 UTC (2021-03-03 03:00 WAT)
+    
+    - URL: https://x.com/Bugcrowd/status/1366931366483533832
+    - Metrics (at fetch): bookmark 1, impression 0, like 57, quote 9, reply 2, retweet 8
+    
+    > Bugcrowd has no limit to the amount of amazing researchers, but every once in a while a researcher comes along and shows value, impact and skill above all others! 
+    >
+    > Huge shout out and congrats to all of the Q4 Bugcrowd MVPs. Did you qualify? https://t.co/rIqJTVl7c6 https://t.co/nUXBN3eRp2
+    
+    **Media:**
+    - media `3_1366931363308441603` (details not returned by the API)
+    
+
+
+---
+
+## 2021-02-25 · Post · Poisoning your Cache for 1000$ - Approach to Exploitation 
+
+
+### Post — @galnagli — 2021-02-25 15:26 UTC (2021-02-25 16:26 WAT)
+
+- URL: https://x.com/galnagli/status/1364960007285047303
+- Metrics (at fetch): bookmark 197, impression 0, like 607, quote 3, reply 14, retweet 210
+
+> Poisoning your Cache for 1000$ - Approach to Exploitation 
+>
+> New Blog Post about recent Web Cache Poisoning bug I have found on a Private Bug Bounty Program
+>
+> Going over the approach, exploitation and writing reproducible report.
+>
+> https://t.co/sPozRMeXuN
+>
+> #bugbountytips #BugBounty https://t.co/6hxk3p0fna
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EvFP3UZWQAExGTM.jpg — no alt text provided by author
+
+
+---
+
+## 2021-02-20 · Post · Found posting feature on a fairly new subdomain, runs AngualrJS 1.7.9
+
+
+Tags (automatic): XSS
+
+
+### Post — @galnagli — 2021-02-20 13:55 UTC (2021-02-20 14:55 WAT)
+
+- URL: https://x.com/galnagli/status/1363125178738368513
+- Metrics (at fetch): bookmark 76, impression 0, like 336, quote 0, reply 3, retweet 91
+
+> Found posting feature on a fairly new subdomain, runs AngualrJS 1.7.9
+>
+> {{ 7 * 7 }} -&gt; 49
+> {{constructor.constructor('alert(1)')()}} -&gt; Stored XSS
+>
+> Neither html payloads or normal XSS payloads worked, whenever you find AngularJS instance test for possible CSTI's.
+>
+> #bugbountytips https://t.co/jhvRcIojBF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EurLAjgXMAQhPm1.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EurLAjnXMAEwb2k.png — no alt text provided by author

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 102
-- Conversations/threads: 98
-- Oldest post captured: 2025-05-01
+- Posts in this file: 127
+- Conversations/threads: 123
+- Oldest post captured: 2024-08-29
 - Newest post captured: 2026-11-10
 
 
@@ -2319,3 +2319,600 @@ Tags (automatic): Smart contract / DeFi
     >
     > Back then I worked in web2 security for 3 months, lol, but primarily focused on reverse engineering.
     
+
+
+---
+
+## 2025-04-18 · Post · anons willing to make it at any cost are your competition with bug bounties
+
+
+### Post — @0xriptide — 2025-04-18 06:53 UTC (2025-04-18 07:53 WAT)
+
+- URL: https://x.com/0xriptide/status/1913123614351560931
+- Metrics (at fetch): bookmark 0, impression 1792, like 41, quote 0, reply 1, retweet 0
+
+> anons willing to make it at any cost are your competition with bug bounties
+>
+> massive respect to those that thrive in this environment
+
+
+---
+
+## 2025-04-09 · Post · Unlocking my skills section on my Immunefi profile! ImmunefiUnlocked @immunefi https://immunefi.com
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2025-04-09 05:46 UTC (2025-04-09 06:46 WAT)
+
+- URL: https://x.com/0xriptide/status/1909845237486207009
+- Metrics (at fetch): bookmark 1, impression 1348, like 21, quote 0, reply 1, retweet 0
+
+> Unlocking my skills section on my Immunefi profile! #ImmunefiUnlocked @immunefi https://immunefi.com/profile/riptide/?v=2&o=1744177501
+
+**Links in post:** https://immunefi.com/profile/riptide/?v=2&o=1744177501
+
+
+---
+
+## 2025-04-06 · Post · 🚨 Welcome Bug Hunter! 🚨
+
+
+### Post — @0xriptide — 2025-04-06 14:32 UTC (2025-04-06 15:32 WAT)
+
+- URL: https://x.com/0xriptide/status/1908890536284475782
+- Metrics (at fetch): bookmark 30, impression 17744, like 65, quote 2, reply 7, retweet 6
+
+> 🚨 Welcome Bug Hunter! 🚨
+> https://bountyhunt3rzdeclassified.substack.com/p/welcome-bug-hunter
+>
+> @bountyhunt3rz just launched a juicy substack (join the discord for a humble discount) for all the bug hunters out there (including the pros) ... 
+>
+> BOUNTYHUNT3RZ: DECLASSIFIED
+>
+> I have a unique insight into how to find bugs among
+
+**Links in post:** https://bountyhunt3rzdeclassified.substack.com/p/welcome-bug-hunter
+
+
+---
+
+## 2025-03-18 · Post · new bug hunting music
+
+
+### Post — @0xriptide — 2025-03-18 09:27 UTC (2025-03-18 10:27 WAT)
+
+- URL: https://x.com/0xriptide/status/1901928328119922957
+- Metrics (at fetch): bookmark 0, impression 768, like 1, quote 0, reply 1, retweet 0
+
+> new bug hunting music
+>
+> D5M1
+>
+> iykyk https://t.co/umSkJSDWv4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmUBqMjXcAAztRk.png — no alt text provided by author
+
+
+---
+
+## 2025-03-18 · Post · huge gap with audits is they very rarely look outside of the project
+
+
+### Post — @0xriptide — 2025-03-18 05:43 UTC (2025-03-18 06:43 WAT)
+
+- URL: https://x.com/0xriptide/status/1901872008838689270
+- Metrics (at fetch): bookmark 4, impression 2913, like 61, quote 0, reply 2, retweet 2
+
+> huge gap with audits is they very rarely look outside of the project
+>
+> always focused on "in-scope" contracts
+>
+> big advantage for bug hunters
+
+
+---
+
+## 2025-02-26 · Post · bug hunting music https://t.co/M3oqj9hEQm
+
+
+### Post — @0xriptide — 2025-02-26 18:59 UTC (2025-02-26 19:59 WAT)
+
+- URL: https://x.com/0xriptide/status/1894824733109084460
+- Metrics (at fetch): bookmark 0, impression 764, like 6, quote 0, reply 0, retweet 0
+
+> bug hunting music https://t.co/M3oqj9hEQm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1810231 — 2025-02-26 09:32 UTC (2025-02-26 10:32 WAT)
+    
+    - URL: https://x.com/1810231/status/1894681899064250790
+    - Metrics (at fetch): bookmark 2, impression 1511, like 17, quote 1, reply 2, retweet 4
+    
+    > Techno, hard trance, hardstyle, hardcore, gabber... here's all the latest happenings in the harder styles currently in a 1hr mix!! https://t.co/d9uWCfEYD0 https://t.co/XpKOLoPIH3
+    
+    **Media:**
+    - media `3_1894681867971891200` (details not returned by the API)
+    - media `3_1894681887802560512` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-23 · Post · from 4k to 140mm bounty lmao https://t.co/LtmHg0y5zc
+
+
+### Post — @0xriptide — 2025-02-23 08:20 UTC (2025-02-23 09:20 WAT)
+
+- URL: https://x.com/0xriptide/status/1893576755174113639
+- Metrics (at fetch): bookmark 1, impression 3181, like 41, quote 0, reply 4, retweet 0
+
+> from 4k to 140mm bounty lmao https://t.co/LtmHg0y5zc
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1297925400090337280 — 2025-02-22 18:52 UTC (2025-02-22 19:52 WAT)
+    
+    - URL: https://x.com/1297925400090337280/status/1893373221564510321
+    - Metrics (at fetch): bookmark 23, impression 16745, like 127, quote 9, reply 7, retweet 28
+    
+    > $1.43B heist on @Bybit_Official claims the throne on our Rekt Leaderboard.
+    >
+    > Lazarus pulled off the perfect digital sleight-of-hand, tricking multisig signers to sign away the keys to the kingdom.
+    >
+    > ByBit offers $140M bounty to catch the hackers.
+    >
+    > https://t.co/ZT1hoUNxFH https://t.co/KEUnRYncjs
+    
+    **Media:**
+    - media `3_1893373186743640064` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-17 · Post · dev:  works all week, pleased by his github commits, satisfied internally, eats his rouquefort, slee
+
+
+### Post — @0xriptide — 2025-02-17 16:21 UTC (2025-02-17 17:21 WAT)
+
+- URL: https://x.com/0xriptide/status/1891523458430800142
+- Metrics (at fetch): bookmark 18, impression 6471, like 102, quote 5, reply 5, retweet 9
+
+> dev:  works all week, pleased by his github commits, satisfied internally, eats his rouquefort, sleeps peacefully
+>
+> bounty hunter:  works all week, nothing to show for it except larger https://t.co/UOeCB5JK2e file, blows off steam by getting extremely jacked and ripped, vows to do
+
+
+---
+
+## 2025-02-16 · Post · BOOM! EP4 with the @immunefi top 50 ranked Austrian duo @blockian 💥 https://t.co/JWPyqRYlCR
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2025-02-16 06:31 UTC (2025-02-16 07:31 WAT)
+
+- URL: https://x.com/0xriptide/status/1891012601535942974
+- Metrics (at fetch): bookmark 8, impression 2616, like 38, quote 0, reply 3, retweet 2
+
+> BOOM! EP4 with the @immunefi top 50 ranked Austrian duo @blockian 💥 https://t.co/JWPyqRYlCR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1877728835216568321 — 2025-02-16 06:29 UTC (2025-02-16 07:29 WAT)
+    
+    - URL: https://x.com/1877728835216568321/status/1891012103437213961
+    - Metrics (at fetch): bookmark 18, impression 11059, like 41, quote 4, reply 2, retweet 2
+    
+    > BOUNTYHUNT3RZ Episode 4:
+    > w/ @blockian
+    >
+    > @0xriptide
+    > and
+    > @blockian (@ControlZ_1337 &amp; @pwnmansh1p)
+    >
+    > discover the unique Austrian method of hunting bugs while drinking raw milk and wearing augmented reality goggles, how the trio found a critical bug in @LayerZero_Core V1, laying low https://t.co/LQ6Ofu9i2a
+    
+    **Media:**
+    - media `7_1891010561590104064` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-13 · Post · show yourself bug hunter https://t.co/OSgQT4Crxk
+
+
+### Post — @0xriptide — 2025-02-13 18:07 UTC (2025-02-13 19:07 WAT)
+
+- URL: https://x.com/0xriptide/status/1890100548067815616
+- Metrics (at fetch): bookmark 2, impression 865, like 5, quote 0, reply 0, retweet 0
+
+> show yourself bug hunter https://t.co/OSgQT4Crxk
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1247195506331332609 — 2025-02-13 17:30 UTC (2025-02-13 18:30 WAT)
+    
+    - URL: https://x.com/1247195506331332609/status/1890091102239408544
+    - Metrics (at fetch): bookmark 18, impression 57394, like 138, quote 17, reply 12, retweet 27
+    
+    > Yesterday’s issue with the Stability Pools (“Earn”) on Liquity V2 has been confirmed.  
+    >
+    > Users are strongly advised to close their Stability Pool (“Earn”) positions in Liquity V2. To the team’s knowledge, no users have been impacted and the issue is isolated to the Stability Pool
+    
+
+
+---
+
+## 2025-01-24 · Post · bug alpha: the more user supplied args a function allows the greater the risk https://t.co/6jU4rKP1Q
+
+
+### Post — @0xriptide — 2025-01-24 13:49 UTC (2025-01-24 14:49 WAT)
+
+- URL: https://x.com/0xriptide/status/1882787888737435914
+- Metrics (at fetch): bookmark 16, impression 2675, like 35, quote 0, reply 4, retweet 2
+
+> bug alpha: the more user supplied args a function allows the greater the risk https://t.co/6jU4rKP1QP
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1278266969532203008 — 2025-01-24 03:23 UTC (2025-01-24 04:23 WAT)
+    
+    - URL: https://x.com/1278266969532203008/status/1882630151583981787
+    - Metrics (at fetch): bookmark 93, impression 45618, like 88, quote 13, reply 5, retweet 19
+    
+    > ALERT! Our system detected a series of attacks targeting the @odosprotocol protocol on #ETH #Base, resulting in ~$50k in losses. 
+    >
+    > The root cause is arbitrary call vulnerability caused by unverified user input. We notice that the attacker exploited the precompile contract (0x4) https://t.co/ESguq5rkdO
+    
+    **Media:**
+    - media `3_1882630114577641472` (details not returned by the API)
+    
+
+
+---
+
+## 2025-01-22 · Post · interesting idea @MitchellAmador 👀
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2025-01-22 13:38 UTC (2025-01-22 14:38 WAT)
+
+- URL: https://x.com/0xriptide/status/1882060227715166540
+- Metrics (at fetch): bookmark 1, impression 2205, like 10, quote 0, reply 0, retweet 3
+
+> interesting idea @MitchellAmador 👀
+>
+> would be interested to hear experiences of the first bounty hunter that goes through the process https://twitter.com/immunefi/status/1881716605572268331
+
+**Links in post:** https://twitter.com/immunefi/status/1881716605572268331
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2025-01-21 14:52 UTC (2025-01-21 15:52 WAT)
+    
+    - URL: https://x.com/immunefi/status/1881716605572268331
+    - Metrics (at fetch): bookmark 21, impression 31454, like 114, quote 10, reply 10, retweet 24
+    
+    > Introducing: Immunefi Arbitration 💪
+    >
+    > The first-ever legally binding dispute resolution system for bug bounties. 🔐
+    >
+    > Whitehats and projects now have a fair, fast, cost-efficient, and enforceable path to resolve disputes over important vulnerabilities quickly and globally.
+    >
+    > Read [pic.x.com/afHrRYAICH]
+    
+    **Media:**
+    - media `3_1881705787212345344` (details not returned by the API)
+    
+
+
+---
+
+## 2025-01-21 · Post · Hardest part of this @bountyhunt3rz podcast is getting bug hunters to get on the microphone!
+
+
+### Post — @0xriptide — 2025-01-21 13:56 UTC (2025-01-21 14:56 WAT)
+
+- URL: https://x.com/0xriptide/status/1881702370197033372
+- Metrics (at fetch): bookmark 5, impression 2888, like 56, quote 1, reply 7, retweet 2
+
+> Hardest part of this @bountyhunt3rz podcast is getting bug hunters to get on the microphone!
+>
+> Don't be shy- DM if you have some cool crits under your belt
+
+
+---
+
+## 2025-01-11 · Post · just launched a new podcast where I will be discussing all things related to bug hunting with the to
+
+
+### Post — @0xriptide — 2025-01-11 16:21 UTC (2025-01-11 17:21 WAT)
+
+- URL: https://x.com/0xriptide/status/1878115095466639819
+- Metrics (at fetch): bookmark 46, impression 9081, like 153, quote 1, reply 9, retweet 12
+
+> just launched a new podcast where I will be discussing all things related to bug hunting with the top bounty hunters in the space 
+>
+> first episode feat. the prodigy @deadrosesxyz !!
+>
+> next guest is @1_00_proof 👀
+>
+> who should we get up next? tag 'em and lmk in the comments https://twitter.com/bountyhunt3rz/status/1878113703721078891
+
+**Links in post:** https://twitter.com/bountyhunt3rz/status/1878113703721078891
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1877728835216568321 — 2025-01-11 16:16 UTC (2025-01-11 17:16 WAT)
+    
+    - URL: https://x.com/1877728835216568321/status/1878113703721078891
+    - Metrics (at fetch): bookmark 88, impression 28790, like 129, quote 8, reply 5, retweet 13
+    
+    > bountyhunt3rz: life on the blockchain: EP1
+    >
+    > @0xriptide  &amp; @deadrosesxyz discuss bug hunting including techniques, secrets and tools of the trade, integrating LLMs into your workflow, getting paid, traits of a bounty hunter, and how bulgarian teenagers are taking over the space [pic.x.com/rDBri5ugxR]
+    
+    **Media:**
+    - media `7_1878107936863428608` (details not returned by the API)
+    
+
+
+---
+
+## 2025-01-06 · Post · tier 1 audit firms miss bugs
+
+
+### Post — @0xriptide — 2025-01-06 13:18 UTC (2025-01-06 14:18 WAT)
+
+- URL: https://x.com/0xriptide/status/1876257152391938243
+- Metrics (at fetch): bookmark 3, impression 2349, like 52, quote 0, reply 3, retweet 4
+
+> tier 1 audit firms miss bugs
+>
+> make sure you get a security review post audit
+>
+> if your project gets rekt it usually stays rekt
+>
+> preventative measures are always worth it
+
+
+---
+
+## 2025-01-04 · Post · no bug bounty means no bugs 🤡 https://twitter.com/lj1nu/status/1875021257210736870
+
+
+### Post — @0xriptide — 2025-01-04 12:10 UTC (2025-01-04 13:10 WAT)
+
+- URL: https://x.com/0xriptide/status/1875515187157201127
+- Metrics (at fetch): bookmark 1, impression 1546, like 13, quote 0, reply 0, retweet 0
+
+> no bug bounty means no bugs 🤡 https://twitter.com/lj1nu/status/1875021257210736870
+
+**Links in post:** https://twitter.com/lj1nu/status/1875021257210736870
+
+**Quoted post (full text):**
+
+    #### Quoted post — @775471354170580992 — 2025-01-03 03:27 UTC (2025-01-03 04:27 WAT)
+    
+    - URL: https://x.com/775471354170580992/status/1875021257210736870
+    - Metrics (at fetch): bookmark 380, impression 320858, like 1046, quote 49, reply 64, retweet 97
+    
+    > I took a quick look at the code and found the vulnerability in @virtuals_io 
+    >
+    > They seem to have been audited, but when I contacted them, the team replied that they were not running a bug bounty. And they closed the discord channel I created to report the vulnerability. [pic.x.com/W39eP6hLIX]
+    
+    **Media:**
+    - media `3_1875008606258753536` (details not returned by the API)
+    - media `3_1875009363175436288` (details not returned by the API)
+    
+
+
+---
+
+## 2024-12-17 · Post · what would be an appropriate bounty for reporting a critical bug draining 12,000 ETH
+
+
+### Post — @0xriptide — 2024-12-17 17:06 UTC (2024-12-17 18:06 WAT)
+
+- URL: https://x.com/0xriptide/status/1869066683622769117
+- Metrics (at fetch): bookmark 2, impression 5361, like 42, quote 0, reply 32, retweet 1
+
+> what would be an appropriate bounty for reporting a critical bug draining 12,000 ETH
+
+
+---
+
+## 2024-11-30 · Post · found an issue on the hyperliquid bridge months ago
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @0xriptide — 2024-11-30 05:06 UTC (2024-11-30 06:06 WAT)
+
+- URL: https://x.com/0xriptide/status/1862724746938404869
+- Metrics (at fetch): bookmark 2, impression 3449, like 49, quote 0, reply 4, retweet 1
+
+> found an issue on the hyperliquid bridge months ago
+>
+> airdropped a bounty directly on hyperliquid
+>
+> briefly long ETH to test it out then transferred back to mainnet
+>
+> should have done my dydx airdrop low leverage long strategy
+>
+> I am now a salt enjoyer and owner of 1 HYPE token 💀
+
+
+---
+
+## 2024-11-17 · Post · stay tuned to @0xKorok
+
+
+### Post — @0xriptide — 2024-11-17 12:08 UTC (2024-11-17 13:08 WAT)
+
+- URL: https://x.com/0xriptide/status/1858119939380609261
+- Metrics (at fetch): bookmark 2, impression 1863, like 18, quote 0, reply 2, retweet 0
+
+> stay tuned to @0xKorok
+>
+> guy is cooking up solutions for bounty hunters https://t.co/Hn0O5sRM8w
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1544845931140743168 — 2024-11-15 09:38 UTC (2024-11-15 10:38 WAT)
+    
+    - URL: https://x.com/1544845931140743168/status/1857357570228506661
+    - Metrics (at fetch): bookmark 6, impression 5492, like 38, quote 2, reply 3, retweet 1
+    
+    > This morning I didn't even know of @0xKorok. 
+    >
+    > Now it's the afternoon and I just finished meeting him in person and talking to him for a couple of hours.
+    >
+    > Among other things he wants to:
+    > - fix the impartiality problems of bug bounty platforms
+    > -  extend bug bounties to be infinite
+    
+
+
+---
+
+## 2024-11-06 · Post · to clarify not interviewing ppl for a job
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2024-11-06 11:07 UTC (2024-11-06 12:07 WAT)
+
+- URL: https://x.com/0xriptide/status/1854118443299049550
+- Metrics (at fetch): bookmark 1, impression 1220, like 5, quote 0, reply 1, retweet 0
+
+> to clarify not interviewing ppl for a job
+>
+> Interested to speak with you if you are top 100 Immunefi or have found some notable bounties https://t.co/3mJRupGRAj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xriptide — 2024-11-06 07:55 UTC (2024-11-06 08:55 WAT)
+    
+    - URL: https://x.com/0xriptide/status/1854070178079801460
+    - Metrics (at fetch): bookmark 1, impression 2583, like 18, quote 1, reply 1, retweet 0
+    
+    > in bangkok at @EFDevcon next week and working on a new project
+    >
+    > if you are a whitehat and would like to join for some face-to-face (audio only) interviews DM
+    
+
+
+---
+
+## 2024-11-06 · Post · in bangkok at @EFDevcon next week and working on a new project
+
+
+### Post — @0xriptide — 2024-11-06 07:55 UTC (2024-11-06 08:55 WAT)
+
+- URL: https://x.com/0xriptide/status/1854070178079801460
+- Metrics (at fetch): bookmark 1, impression 2583, like 18, quote 1, reply 1, retweet 0
+
+> in bangkok at @EFDevcon next week and working on a new project
+>
+> if you are a whitehat and would like to join for some face-to-face (audio only) interviews DM
+
+
+---
+
+## 2024-09-27 · Post · I just found a confirmed bug on @immunefi immunefitribe https://t.co/7zNToTyWrw
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2024-09-27 16:47 UTC (2024-09-27 17:47 WAT)
+
+- URL: https://x.com/0xriptide/status/1839708340319866970
+- Metrics (at fetch): bookmark 10, impression 6783, like 133, quote 0, reply 9, retweet 5
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/7zNToTyWrw
+
+
+---
+
+## 2024-09-11 · Post · always enjoy @Ceazor7 content
+
+
+### Post — @0xriptide — 2024-09-11 11:05 UTC (2024-09-11 12:05 WAT)
+
+- URL: https://x.com/0xriptide/status/1833824279399432238
+- Metrics (at fetch): bookmark 7, impression 1489, like 7, quote 0, reply 0, retweet 1
+
+> always enjoy @Ceazor7 content
+>
+> this man takes the time to break protocol mechanics down into a vid
+>
+> suggest a follow as an investor / bug hunter https://t.co/ABVP5xyPrd
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1290239278413262848 — 2024-09-10 20:26 UTC (2024-09-10 21:26 WAT)
+    
+    - URL: https://x.com/1290239278413262848/status/1833603064374387068
+    - Metrics (at fetch): bookmark 19, impression 10249, like 51, quote 7, reply 3, retweet 6
+    
+    > Immutable andDecentralized
+    > On-Chain Yield Stablecoin $BOLD
+    > @LiquityProtocol https://t.co/bOMrZk2wdM
+    
+    **Media:**
+    - media `13_1833600089576902656` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-04 · Post · Didn’t you guys audit magpie/penpie? https://t.co/XaBxIGTwkN
+
+
+### Post — @0xriptide — 2024-09-04 07:15 UTC (2024-09-04 08:15 WAT)
+
+- URL: https://x.com/0xriptide/status/1831229503344902590
+- Metrics (at fetch): bookmark 20, impression 11425, like 54, quote 0, reply 6, retweet 0
+
+> Didn’t you guys audit magpie/penpie? https://t.co/XaBxIGTwkN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2024-09-03 20:49 UTC (2024-09-03 21:49 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1831072098669953388
+    - Metrics (at fetch): bookmark 64, impression 62122, like 176, quote 24, reply 8, retweet 59
+    
+    > Today @Penpiexyz_io was exploited, resulting in a loss of $&gt;16M, including  $7,879,029.18 wstETH, $2,517,458.57 sUSDe, $3,409,021.04 agETH, $2,226,244.80 rswETH and four other Pendle-related YT tokens.
+    >
+    > The root cause is the introduction of an evil market that was used to https://t.co/PCv8Rb7LdJ
+    
+    **Media:**
+    - media `3_1831072092931964929` (details not returned by the API)
+    
+
+
+---
+
+## 2024-08-29 · Post · will microdosing these truffles give me the bug finding alpha
+
+
+### Post — @0xriptide — 2024-08-29 05:43 UTC (2024-08-29 06:43 WAT)
+
+- URL: https://x.com/0xriptide/status/1829032208641687883
+- Metrics (at fetch): bookmark 0, impression 1731, like 10, quote 0, reply 4, retweet 0
+
+> will microdosing these truffles give me the bug finding alpha

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 95
-- Conversations/threads: 95
-- Oldest post captured: 2023-12-02
+- Posts in this file: 102
+- Conversations/threads: 102
+- Oldest post captured: 2021-03-23
 - Newest post captured: 2026-11-04
 
 
@@ -2715,3 +2715,121 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 2, impression 5174, like 20, quote 0, reply 1, retweet 2
 
 > Loving @Jhaddix's bug bounty hunter's methodology live course, learning a ton! Definitely worth the investment if you're on the fence and we're only through day 1.
+
+
+---
+
+## 2023-08-22 · Post · Haven't recorded anything in a long time, but got inspired to go through some of the Race Condition 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @infinitelogins — 2023-08-22 23:10 UTC (2023-08-23 00:10 WAT)
+
+- URL: https://x.com/infinitelogins/status/1694124987236680040
+- Metrics (at fetch): bookmark 6, impression 3040, like 21, quote 0, reply 1, retweet 7
+
+> Haven't recorded anything in a long time, but got inspired to go through some of the Race Condition labs on @PortSwigger's academy and figured I'd make some video solutions. Check it out if you're interested in learning more about this vuln class! https://t.co/JV4QFozy6l
+
+
+---
+
+## 2023-06-05 · Post · Okay this is sick. TL;DR - Feed vulnerability details, (like HackerOne Reports) to Project Discovery
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @infinitelogins — 2023-06-05 14:29 UTC (2023-06-05 15:29 WAT)
+
+- URL: https://x.com/infinitelogins/status/1665727563891867653
+- Metrics (at fetch): bookmark 0, impression 410, like 2, quote 0, reply 0, retweet 1
+
+> Okay this is sick. TL;DR - Feed vulnerability details, (like HackerOne Reports) to Project Discovery's Nuclei Cloud AI to automatically build Nuclei templates. https://t.co/RzSGAGfpv2
+
+
+---
+
+## 2023-03-13 · Post · Found my first non-pentest RCE this week. Got marked as a dupe, but hey, that's still a win yeah?
+
+
+Tags (automatic): RCE
+
+
+### Post — @infinitelogins — 2023-03-13 01:14 UTC (2023-03-13 02:14 WAT)
+
+- URL: https://x.com/infinitelogins/status/1635086815496663040
+- Metrics (at fetch): bookmark 0, impression 1247, like 16, quote 0, reply 0, retweet 1
+
+> Found my first non-pentest RCE this week. Got marked as a dupe, but hey, that's still a win yeah?
+
+
+---
+
+## 2022-08-08 · Post · The past week has been great. Met up with a ton of legends, helped put together the biggest HackerOn
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infinitelogins — 2022-08-08 23:32 UTC (2022-08-09 00:32 WAT)
+
+- URL: https://x.com/infinitelogins/status/1556785537540771840
+- Metrics (at fetch): not returned
+
+> The past week has been great. Met up with a ton of legends, helped put together the biggest HackerOne event of the year, made some $$ and some new friends. #H1702
+>
+> Time week two - DEF CON
+
+
+---
+
+## 2021-04-22 · Post · Curious how many students have been failed in the past eight months due to using LinPEAS with the au
+
+
+### Post — @infinitelogins — 2021-04-22 23:11 UTC (2021-04-23 00:11 WAT)
+
+- URL: https://x.com/infinitelogins/status/1385370664438157313
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Curious how many students have been failed in the past eight months due to using LinPEAS with the auto-exploit feature added. https://t.co/oj8lFYNGKr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2170312728 — 2021-04-22 12:19 UTC (2021-04-22 13:19 WAT)
+    
+    - URL: https://x.com/2170312728/status/1385206684109447168
+    - Metrics (at fetch): bookmark 51, impression 0, like 657, quote 36, reply 93, retweet 107
+    
+    > So folks I failed OSCP because linpeas was flagged as auto exploit. F*ck it. Cannot share more details. RIP
+    
+
+
+---
+
+## 2021-04-20 · Post · First video in a while - Part 2 to chaining XSS with CSRF is now up! https://t.co/JsQOuNuKNd
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2021-04-20 15:18 UTC (2021-04-20 16:18 WAT)
+
+- URL: https://x.com/infinitelogins/status/1384526871623127048
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 1, reply 1, retweet 1
+
+> First video in a while - Part 2 to chaining XSS with CSRF is now up! https://t.co/JsQOuNuKNd
+
+
+---
+
+## 2021-03-23 · Post · Metasploit module now available for the Exchange exploit.. Have you checked to make sure your friend
+
+
+### Post — @infinitelogins — 2021-03-23 20:44 UTC (2021-03-23 21:44 WAT)
+
+- URL: https://x.com/infinitelogins/status/1374462026114764806
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 1
+
+> Metasploit module now available for the Exchange exploit.. Have you checked to make sure your friends are patched yet? https://t.co/7RhJ3y8ncS

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 148
-- Conversations/threads: 146
-- Oldest post captured: 2016-08-02
+- Posts in this file: 174
+- Conversations/threads: 172
+- Oldest post captured: 2011-01-30
 - Newest post captured: 2026-11-06
 
 
@@ -2812,3 +2812,410 @@ Tags (automatic): OAuth
 
 > @fransrosen mine is by far "OpenSSL Key Recovery Attack on DH small subgroups"
 > #memorablebugreports
+
+
+---
+
+## 2016-07-18 · Post · got nominated for pwnie award http://pwnies.com/nominations/ in the Best Cryptographic Attack categ
+
+
+### Post — @asanso — 2016-07-18 19:14 UTC (2016-07-18 20:14 WAT)
+
+- URL: https://x.com/asanso/status/755118570527424512
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 3, reply 1, retweet 9
+
+> got nominated for #pwnie award http://pwnies.com/nominations/ in the Best Cryptographic Attack category. Thx
+
+**Links in post:** http://pwnies.com/nominations/
+
+
+---
+
+## 2016-07-04 · Post · let the attack begin... crypto
+
+
+### Post — @asanso — 2016-07-04 08:57 UTC (2016-07-04 09:57 WAT)
+
+- URL: https://x.com/asanso/status/749889908765065216
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> let the attack begin... #crypto
+
+
+---
+
+## 2016-06-30 · Post · @lyon01_david still wonder if your backdoor includes as well fishy RFC5114 style primes as per OpenS
+
+
+### Post — @asanso — 2016-06-30 08:26 UTC (2016-06-30 09:26 WAT)
+
+- URL: https://x.com/asanso/status/748432599270436867
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> @lyon01_david still wonder if your backdoor includes as well fishy RFC5114 style primes as per OpenSSL CVE-2016-0701 http://bit.ly/299TenG
+
+**Links in post:** http://bit.ly/299TenG
+
+
+---
+
+## 2016-06-20 · Post · TheDAO Hack: Basics of Bitcoin, Ethereum, and Futuristic Economies http://magneticlather.com/2016/0
+
+
+### Post — @asanso — 2016-06-20 07:44 UTC (2016-06-20 08:44 WAT)
+
+- URL: https://x.com/asanso/status/744798133863911425
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> #TheDAO Hack: Basics of Bitcoin, Ethereum, and Futuristic Economies http://magneticlather.com/2016/06/thedao-hack-basics-of-bitcoin-ethereum-and-futuristic-economies/
+
+**Links in post:** http://magneticlather.com/2016/06/thedao-hack-basics-of-bitcoin-ethereum-and-futuristic-economies/
+
+
+---
+
+## 2016-06-16 · Post · Using Pollard's lambda in a key-recovery attack on DH 
+
+
+### Post — @asanso — 2016-06-16 04:43 UTC (2016-06-16 05:43 WAT)
+
+- URL: https://x.com/asanso/status/743303061326618624
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Using Pollard's lambda in a key-recovery attack on DH 
+> http://crypto.stackexchange.com/questions/37062/using-pollards-lambda-in-a-key-recovery-attack-on-dh
+
+**Links in post:** http://crypto.stackexchange.com/questions/37062/using-pollards-lambda-in-a-key-recovery-attack-on-dh
+
+
+---
+
+## 2016-04-22 · Post · wow it seems there is the festival of great hack(er) this week :0 http://devco.re/blog/2016/04/21/h
+
+
+### Post — @asanso — 2016-04-22 09:15 UTC (2016-04-22 10:15 WAT)
+
+- URL: https://x.com/asanso/status/723440057651064836
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> wow it seems there is the festival of great #hack(er) this week :0 http://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script-eng-ver/
+>
+> https://x.com/asanso/status/723226528650256384
+
+**Links in post:** http://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script-eng-ver/, https://x.com/asanso/status/723226528650256384
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2016-04-21 19:06 UTC (2016-04-21 20:06 WAT)
+    
+    - URL: https://x.com/asanso/status/723226528650256384
+    - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+    
+    > This is real hacking for God sake http://pastebin.com/raw/0SNSvyjJ #HackingTeam
+    
+    **Links in post:** http://pastebin.com/raw/0SNSvyjJ
+    
+
+
+---
+
+## 2016-04-21 · Post · This is real hacking for God sake http://pastebin.com/raw/0SNSvyjJ HackingTeam
+
+
+### Post — @asanso — 2016-04-21 19:06 UTC (2016-04-21 20:06 WAT)
+
+- URL: https://x.com/asanso/status/723226528650256384
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> This is real hacking for God sake http://pastebin.com/raw/0SNSvyjJ #HackingTeam
+
+**Links in post:** http://pastebin.com/raw/0SNSvyjJ
+
+
+---
+
+## 2016-04-14 · Post · Google Chrome Potential leak of sensitive information to malicious extensions (CVE-2016-1658) http:
+
+
+### Post — @asanso — 2016-04-14 08:11 UTC (2016-04-14 09:11 WAT)
+
+- URL: https://x.com/asanso/status/720524827573035008
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Google #Chrome Potential leak of sensitive information to malicious extensions (CVE-2016-1658) http://intothesymmetry.blogspot.ch/2016/04/google-chrome-potential-leak-of.html #netsec
+
+**Links in post:** http://intothesymmetry.blogspot.ch/2016/04/google-chrome-potential-leak-of.html
+
+
+---
+
+## 2016-01-28 · Post · OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701) - http://intothesymmetry.blogspot.
+
+
+### Post — @asanso — 2016-01-28 18:06 UTC (2016-01-28 19:06 WAT)
+
+- URL: https://x.com/asanso/status/692770777666600965
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 12
+
+> OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701) - http://intothesymmetry.blogspot.ie/2016/01/openssl-key-recovery-attack-on-dh-small.html [pic.x.com/OQwsZYxXkM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CZ03WZmWEAAgkvp.jpg — no alt text provided by author
+
+**Links in post:** http://intothesymmetry.blogspot.ie/2016/01/openssl-key-recovery-attack-on-dh-small.html
+
+
+---
+
+## 2016-01-28 · Post · CVE-2016-0701 http://intothesymmetry.blogspot.ch/2016/01/openssl-key-recovery-attack-on-dh-small.htm
+
+
+### Post — @asanso — 2016-01-28 15:27 UTC (2016-01-28 16:27 WAT)
+
+- URL: https://x.com/asanso/status/692730748634267648
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> CVE-2016-0701 http://intothesymmetry.blogspot.ch/2016/01/openssl-key-recovery-attack-on-dh-small.html CVE-2016-0701 [pic.x.com/dq6FFrllRy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CZ0S8b4UUAADd09.jpg — no alt text provided by author
+
+**Links in post:** http://intothesymmetry.blogspot.ch/2016/01/openssl-key-recovery-attack-on-dh-small.html
+
+
+---
+
+## 2015-12-22 · Post · Small subgroup attack in Mozilla NSS  - http://intothesymmetry.blogspot.it/2015/12/small-subgroup-at
+
+
+### Post — @asanso — 2015-12-22 13:30 UTC (2015-12-22 14:30 WAT)
+
+- URL: https://x.com/asanso/status/679293019703672832
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Small subgroup attack in Mozilla NSS  - http://intothesymmetry.blogspot.it/2015/12/small-subgroup-attack-in-mozilla-nss.html
+
+**Links in post:** http://intothesymmetry.blogspot.it/2015/12/small-subgroup-attack-in-mozilla-nss.html
+
+
+---
+
+## 2015-10-01 · Post · write up of Apple Safari URI spoofing (CVE-2015-5764) - http://intothesymmetry.blogspot.ch/2015/09/a
+
+
+### Post — @asanso — 2015-10-01 07:18 UTC (2015-10-01 08:18 WAT)
+
+- URL: https://x.com/asanso/status/649483573431541760
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> write up of Apple Safari URI spoofing (CVE-2015-5764) - http://intothesymmetry.blogspot.ch/2015/09/apple-safari-uri-spoofing-cve-2015-5764.html [pic.x.com/bOARoUnm4a]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CQNt3iVWUAA4HvU.png — no alt text provided by author
+
+**Links in post:** http://intothesymmetry.blogspot.ch/2015/09/apple-safari-uri-spoofing-cve-2015-5764.html
+
+
+---
+
+## 2015-09-30 · Post · write up of Apple Safari URI spoofing (CVE-2015-5764) - http://intothesymmetry.blogspot.ch/2015/09/a
+
+
+### Post — @asanso — 2015-09-30 19:16 UTC (2015-09-30 20:16 WAT)
+
+- URL: https://x.com/asanso/status/649301889167794176
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> write up of Apple Safari URI spoofing (CVE-2015-5764) - http://intothesymmetry.blogspot.ch/2015/09/apple-safari-uri-spoofing-cve-2015-5764.html
+
+**Links in post:** http://intothesymmetry.blogspot.ch/2015/09/apple-safari-uri-spoofing-cve-2015-5764.html
+
+
+---
+
+## 2015-09-17 · Post · Apple Safari  URI spoofing CVE-2015-5764 https://support.apple.com/en-us/HT205212 (write up to follo
+
+
+### Post — @asanso — 2015-09-17 07:38 UTC (2015-09-17 08:38 WAT)
+
+- URL: https://x.com/asanso/status/644415020378521600
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Apple Safari  URI spoofing CVE-2015-5764 https://support.apple.com/en-us/HT205212 (write up to follow)
+
+**Links in post:** https://support.apple.com/en-us/HT205212
+
+
+---
+
+## 2015-08-17 · Post · writeup of Apple Safari SOP bypass CVE-2015-3753 with @visiongeist - http://intothesymmetry.blogspot
+
+
+### Post — @asanso — 2015-08-17 09:33 UTC (2015-08-17 10:33 WAT)
+
+- URL: https://x.com/asanso/status/633209925100044288
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> writeup of Apple Safari SOP bypass CVE-2015-3753 with @visiongeist - http://intothesymmetry.blogspot.it/2015/08/apple-safari-sop-bypass-cve-2015-3753.html [pic.x.com/VScFY9iExm]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CMmdEjsWwAAxaJp.png — no alt text provided by author
+
+**Links in post:** http://intothesymmetry.blogspot.it/2015/08/apple-safari-sop-bypass-cve-2015-3753.html
+
+
+---
+
+## 2015-08-13 · Post · Apple Safari SOP bypass CVE-2015-3753 with @visiongeist https://support.apple.com/en-us/HT205033
+
+
+### Post — @asanso — 2015-08-13 19:13 UTC (2015-08-13 20:13 WAT)
+
+- URL: https://x.com/asanso/status/631906393751199744
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 5
+
+> Apple Safari SOP bypass CVE-2015-3753 with @visiongeist https://support.apple.com/en-us/HT205033
+
+**Links in post:** https://support.apple.com/en-us/HT205033
+
+
+---
+
+## 2015-07-03 · Post · "The main reason I'm getting a Project Fi phone is to hack it." http://blog.erratasec.com/2015/07/so
+
+
+### Post — @asanso — 2015-07-03 06:24 UTC (2015-07-03 07:24 WAT)
+
+- URL: https://x.com/asanso/status/616855047465488385
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> "The main reason I'm getting a Project Fi phone is to hack it." http://blog.erratasec.com/2015/07/some-notes-when-ordering-googles.html#.VZYuOaYX25I @robertgraham nice reason ;P
+
+**Links in post:** http://blog.erratasec.com/2015/07/some-notes-when-ordering-googles.html#.VZYuOaYX25I
+
+
+---
+
+## 2015-03-02 · Post · @sinzone thinking about offer security bounty for @mashape ?
+
+
+### Post — @asanso — 2015-03-02 15:05 UTC (2015-03-02 16:05 WAT)
+
+- URL: https://x.com/asanso/status/572412336281128960
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @sinzone thinking about offer security bounty for @mashape ?
+
+
+---
+
+## 2014-09-22 · Post · bounty left over part 2 thanks @google http://t.co/Y25D0pP51r appsecurity
+
+
+### Post — @asanso — 2014-09-22 09:22 UTC (2014-09-22 10:22 WAT)
+
+- URL: https://x.com/asanso/status/513981552582463488
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> bounty left over part #2 thanks @google http://t.co/Y25D0pP51r #appsecurity
+
+
+---
+
+## 2014-09-22 · Post · @github  bounty for getting Firefox support for nosniff :) cool https://t.co/AaTMqYyk2A
+
+
+### Post — @asanso — 2014-09-22 08:03 UTC (2014-09-22 09:03 WAT)
+
+- URL: https://x.com/asanso/status/513961715156148224
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @github  bounty for getting Firefox support for nosniff :) cool https://t.co/AaTMqYyk2A
+
+
+---
+
+## 2014-09-05 · Post · Yet another Facebook bug bounty :) appsec http://t.co/ZLCQfOnagd
+
+
+### Post — @asanso — 2014-09-05 12:21 UTC (2014-09-05 13:21 WAT)
+
+- URL: https://x.com/asanso/status/507866113774862337
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Yet another Facebook bug bounty :) #appsec http://t.co/ZLCQfOnagd
+
+
+---
+
+## 2014-02-10 · Post · oauth bug bounty facebook google http://t.co/yO7cffoVJf
+
+
+Tags (automatic): OAuth
+
+
+### Post — @asanso — 2014-02-10 15:12 UTC (2014-02-10 16:12 WAT)
+
+- URL: https://x.com/asanso/status/432894841102422017
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> #oauth #bug #bounty #facebook #google http://t.co/yO7cffoVJf
+
+
+---
+
+## 2013-05-13 · Post · some well known OAuth attack at http://t.co/gJQzWZXw7Z
+
+
+Tags (automatic): OAuth
+
+
+### Post — @asanso — 2013-05-13 15:09 UTC (2013-05-13 16:09 WAT)
+
+- URL: https://x.com/asanso/status/333962098126241792
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> some well known #OAuth attack at http://t.co/gJQzWZXw7Z
+
+
+---
+
+## 2013-02-12 · Post · plain-text description of the 
+
+
+### Post — @asanso — 2013-02-12 12:13 UTC (2013-02-12 13:13 WAT)
+
+- URL: https://x.com/asanso/status/301302908828389376
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> plain-text description of the 
+> #LuckyThirteen #TLS attack http://t.co/uOYwac3A
+
+
+---
+
+## 2012-06-28 · Post · Heyy there, should you use Facebook Connect for your website mind the "access_token phishing" attac
+
+
+Tags (automatic): OAuth
+
+
+### Post — @asanso — 2012-06-28 14:52 UTC (2012-06-28 15:52 WAT)
+
+- URL: https://x.com/asanso/status/218356134568923136
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> Heyy there, should you use #Facebook Connect for your website mind the "access_token phishing" attack - http://t.co/1b2daj1W #OAuth
+
+
+---
+
+## 2011-01-30 · Post · Just finished a little PoC. My kind of sunday afternoon!
+
+
+### Post — @asanso — 2011-01-30 14:50 UTC (2011-01-30 15:50 WAT)
+
+- URL: https://x.com/asanso/status/31725974613655552
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Just finished a little PoC. My kind of sunday afternoon!

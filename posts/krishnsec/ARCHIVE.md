@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 173
-- Conversations/threads: 173
-- Oldest post captured: 2021-11-28
+- Posts in this file: 175
+- Conversations/threads: 175
+- Oldest post captured: 2021-08-17
 - Newest post captured: 2026-11-04
 
 
@@ -1438,7 +1438,7 @@ Tags (automatic): Platform: Bugcrowd
     #### Quoted post — @jobertabma — 2024-08-20 02:24 UTC (2024-08-20 03:24 WAT)
     
     - URL: https://x.com/jobertabma/status/1825720647814885583
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 34, impression 32015, like 265, quote 3, reply 14, retweet 17
     
     > nobody will remember:
     >
@@ -3468,3 +3468,46 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FFTUuIVVkAIWJkZ.jpg — no alt text provided by author
+
+
+---
+
+## 2021-10-24 · Post · Top 100 for P1 bugs on @Bugcrowd ❤
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2021-10-24 13:52 UTC (2021-10-24 14:52 WAT)
+
+- URL: https://x.com/krishnsec/status/1452271827338809348
+- Metrics (at fetch): bookmark 2, impression 0, like 45, quote 0, reply 10, retweet 0
+
+> Top 100 for P1 bugs on @Bugcrowd ❤
+> Next Goal - Top 50
+> #bugcrowd #P1 [pic.x.com/u4eKrBkSXp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FCeBgJfX0AU-4q4.jpg — no alt text provided by author
+
+
+---
+
+## 2021-08-17 · Post · swag
+
+
+Tags (automatic): RCE, Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2021-08-17 11:10 UTC (2021-08-17 12:10 WAT)
+
+- URL: https://x.com/krishnsec/status/1427588582991011840
+- Metrics (at fetch): bookmark 3, impression 0, like 41, quote 0, reply 4, retweet 1
+
+> #swag
+> Thank you @Kistler_Group for nice swag .
+> Reported few criticals( exchange rce &amp; admin panel access)  through @Bugcrowd 
+> #bugbounty [pic.x.com/Z2pruuiH0y]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E8_QQApVUAsZHWV.jpg — no alt text provided by author

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
-- Conversations/threads: 57
-- Oldest post captured: 2025-09-15
+- Posts in this file: 67
+- Conversations/threads: 63
+- Oldest post captured: 2025-04-17
 - Newest post captured: 2026-11-09
 
 
@@ -1324,3 +1324,148 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G03QREua8AEVG55.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-25 · Post · 💀 CT after seeing “Sep 29, 2025” on CMC:
+
+
+### Post — @Piki_eth — 2025-07-25 06:09 UTC (2025-07-25 07:09 WAT)
+
+- URL: https://x.com/Piki_eth/status/1948626602440466756
+- Metrics (at fetch): bookmark 0, impression 130, like 6, quote 0, reply 4, retweet 0
+
+> 💀 CT after seeing “Sep 29, 2025” on CMC:
+>
+> 📸: Screenshots saved
+> 🧠: “Alpha secured”
+> 🧙‍♂️: “Launch confirmed by the Oracle of CoinMarketCap”
+> 📈: “Time to go all in”
+> 🧵: 27-tweet thread by someone who never used Monad testnet
+> Meanwhile Monad devs:
+> “only one of these is correct...” [pic.x.com/E64NvRjE2b]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gwrpj_gXkAAONY7.png — no alt text provided by author
+
+
+---
+
+## 2025-07-24 · Post · 🚨BREAKING: Monad mainnet is officially confirmed! 🧵
+
+
+### Post — @Piki_eth — 2025-07-24 13:57 UTC (2025-07-24 14:57 WAT)
+
+- URL: https://x.com/Piki_eth/status/1948382074878198135
+- Metrics (at fetch): bookmark 0, impression 222, like 4, quote 1, reply 2, retweet 1
+
+> 🚨BREAKING: Monad mainnet is officially confirmed! 🧵
+>
+> ✅ CMC listing? CHECK
+> ✅ 100B MON supply? OBVIOUSLY
+> ✅ Launch date? Totally can't be edited by anyone on the internet
+> ✅ Engagement? FARMED
+> If you squint hard enough at the stars and this CoinMarketCap page… boom, alpha. [pic.x.com/jUvHoxqKNl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwoLJ6HbwAAuLJh.png — no alt text provided by author
+
+
+---
+
+## 2025-07-18 · Post · gmonad ☀️
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Piki_eth — 2025-07-18 06:29 UTC (2025-07-18 07:29 WAT)
+
+- URL: https://x.com/Piki_eth/status/1946094869245759689
+- Metrics (at fetch): bookmark 0, impression 51, like 3, quote 0, reply 0, retweet 0
+
+> gmonad ☀️
+> wen mainnet? 👀
+> until then... we build, we sip coffee, we wait 🧃
+> #Monad #WenMainnet #gm #OnchainBuilders
+> 🧵👉 https://t.co/v4n2VHfGfH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1873810196125876225 — 2025-07-14 15:34 UTC (2025-07-14 16:34 WAT)
+    
+    - URL: https://x.com/1873810196125876225/status/1944782452981158044
+    - Metrics (at fetch): bookmark 36, impression 34050, like 615, quote 27, reply 94, retweet 99
+    
+    > Mission 6: Multiplayer Apps with @multisynq
+    >
+    > Create multiplayer apps and games powered by Multisynq on Monad Testnet https://t.co/g18udjNp3g
+    
+    **Media:**
+    - media `3_1944782449797742592` (details not returned by the API)
+    
+
+
+---
+
+## 2025-06-16 · Post · 🚀 Introducing MonadLens — Your Wallet’s Story on Monad
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Piki_eth — 2025-06-16 18:22 UTC (2025-06-16 19:22 WAT)
+
+- URL: https://x.com/Piki_eth/status/1934677911400800572
+- Metrics (at fetch): bookmark 0, impression 407, like 4, quote 1, reply 0, retweet 1
+
+> 🚀 Introducing MonadLens — Your Wallet’s Story on Monad
+> 🧠 Track. Visualize. Mint.
+> A sleek new app to explore your on-chain life on the ultra-fast @monad_xyz testnet.
+>
+> Try it now: https://t.co/53CuqQY4GW🧵 Dive in:
+>
+> 1/ What is MonadLens?
+> A powerful dashboard to track and https://t.co/8vIXFWUmOD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtlagfZbAAAAeux.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GtlbJa5WcAAFFdj.png — no alt text provided by author
+
+
+---
+
+## 2025-04-30 · Post · 🚀 Introducing Monad Hub MCP: Your Ultimate Toolkit for the Monad Testnet Ecosystem! 🌐
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Piki_eth — 2025-04-30 16:06 UTC (2025-04-30 17:06 WAT)
+
+- URL: https://x.com/Piki_eth/status/1917611567446909113
+- Metrics (at fetch): bookmark 1, impression 124, like 1, quote 0, reply 0, retweet 0
+
+> 🚀 Introducing Monad Hub MCP: Your Ultimate Toolkit for the Monad Testnet Ecosystem! 🌐
+>
+> Built for developers, traders, and blockchain enthusiasts, Monad Hub is a Model Context Protocol (MCP) toolkit that simplifies interactions with the Monad testnet. With 30+ powerful tools, it
+
+
+---
+
+## 2025-04-17 · Post · 🌌🚀
+
+
+### Post — @Piki_eth — 2025-04-17 07:55 UTC (2025-04-17 08:55 WAT)
+
+- URL: https://x.com/Piki_eth/status/1912776794580693201
+- Metrics (at fetch): bookmark 1, impression 273, like 10, quote 0, reply 6, retweet 0
+
+> 🌌🚀
+> Monad Space Run is LIVE!  The first 3D game on Monad Testnet @monad_xyz  is here! Play now at https://t.co/RBqoCjX6JI, score high climb on the leaderboard, collect MONAD rewards, and claim your loot! 
+>
+>   I need your feedback!  Found a bug? Got ideas? Please share them below! https://t.co/5lA3zK9uVO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GouMTppXcAEVCmc.jpg — no alt text provided by author

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 83
-- Conversations/threads: 64
-- Oldest post captured: 2024-03-06
+- Posts in this file: 91
+- Conversations/threads: 72
+- Oldest post captured: 2022-09-10
 - Newest post captured: 2026-11-03
 
 
@@ -1467,3 +1467,142 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 3815, like 3, quote 1, reply 2, retweet 0
 
 > @ThisIsDK999 @Bugcrowd Ayyye 🤝 congratulations to us
+
+
+---
+
+## 2023-09-27 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2023-09-27 01:55 UTC (2023-09-27 02:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1706849930974044630
+- Metrics (at fetch): bookmark 3, impression 3373, like 37, quote 0, reply 3, retweet 0
+
+> Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs #TogetherWeHitHarder
+
+
+---
+
+## 2023-09-26 · Post · Yay, I was awarded a $2,000 bounty on @Hacker0x01!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2023-09-26 00:50 UTC (2023-09-26 01:50 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1706471366432784442
+- Metrics (at fetch): bookmark 4, impression 8061, like 62, quote 0, reply 2, retweet 2
+
+> Yay, I was awarded a $2,000 bounty on @Hacker0x01!
+>
+> In Collaboration with @ajxchapman ❤️‍🔥
+>
+> https://t.co/VEoNFDPrOs #TogetherWeHitHarder
+
+
+---
+
+## 2023-07-07 · Post · Yay, I was awarded a $1,084 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2023-07-07 18:07 UTC (2023-07-07 19:07 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1677378772163780608
+- Metrics (at fetch): bookmark 1, impression 5328, like 59, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $1,084 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs #TogetherWeHitHarder
+
+
+---
+
+## 2023-04-11 · Post · Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2023-04-11 15:08 UTC (2023-04-11 16:08 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1645806112283983872
+- Metrics (at fetch): bookmark 3, impression 6110, like 55, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs #TogetherWeHitHarder
+
+
+---
+
+## 2023-03-31 · Post · Yay, I was awarded a $4,000 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2023-03-31 11:25 UTC (2023-03-31 12:25 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1641763563135201280
+- Metrics (at fetch): bookmark 10, impression 10348, like 103, quote 0, reply 5, retweet 1
+
+> Yay, I was awarded a $4,000 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs #TogetherWeHitHarder
+
+
+---
+
+## 2023-02-14 · Post · Yay, I was awarded a $2,000 bounty on @Hacker0x01! https://t.co/JTmp4PpJHT TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2023-02-14 19:01 UTC (2023-02-14 20:01 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1625570840283877377
+- Metrics (at fetch): bookmark 0, impression 4226, like 35, quote 0, reply 4, retweet 0
+
+> Yay, I was awarded a $2,000 bounty on @Hacker0x01! https://t.co/JTmp4PpJHT #TogetherWeHitHarder
+
+
+---
+
+## 2022-12-22 · Post · Yay, I was awarded a $2,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2022-12-22 12:08 UTC (2022-12-22 13:08 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1605897947018719232
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $2,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2022-09-10 · Post · 🙄
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2022-09-10 09:04 UTC (2022-09-10 10:04 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1568525825422815233
+- Metrics (at fetch): not returned
+
+> 🙄
+>
+> #hackerone #NullconGoa2022 #hackeronecraze #hacking @hetroublemakr @Hacker0x01 [pic.x.com/2uVZB1KGyq]
+
+**Media:**
+- video:  — no alt text provided by author

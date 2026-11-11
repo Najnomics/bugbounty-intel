@@ -1835,7 +1835,18 @@ Tags (automatic): Platform: HackerOne
 
 **Links in post:** https://twitter.com/hackermondev/status/1844877950698537323
 
-**Quoted post** 1844877950698537323: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @934191732731842561 — 2024-10-11 23:09 UTC (2024-10-12 00:09 WAT)
+    
+    - URL: https://x.com/934191732731842561/status/1844877950698537323
+    - Metrics (at fetch): not returned
+    
+    > 1 Bug, $50K+ in bounties: how Zendesk left a backdoor in hundreds of companies #bugbountytips 
+    > https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52
+    
+    **Links in post:** https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52
+    
 
 
 ---

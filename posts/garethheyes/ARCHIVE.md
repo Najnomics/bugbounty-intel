@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 104
-- Conversations/threads: 92
-- Oldest post captured: 2025-05-20
+- Posts in this file: 136
+- Conversations/threads: 124
+- Oldest post captured: 2016-12-08
 - Newest post captured: 2026-11-09
 
 
@@ -1807,3 +1807,605 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 1, impression 1360, like 8, quote 0, reply 1, retweet 0
 
 > Fixed the parser bug in Hackvertor that was actually fun. Then hacked HackPad. 1. User visits malicious site. 2. Clicks link to open window to HackPad. 3. User switches off sandbox. 4. Malicious site changes win location hash. 5. User clicks execute. 6. XSS
+
+
+---
+
+## 2025-05-20 · Post · On my lunch today I was working on an autodecoder button for web Hackvertor. Then I noticed a major 
+
+
+### Post — @garethheyes — 2025-05-20 16:28 UTC (2025-05-20 17:28 WAT)
+
+- URL: https://x.com/garethheyes/status/1924864745623916611
+- Metrics (at fetch): bookmark 1, impression 1159, like 6, quote 0, reply 0, retweet 0
+
+> On my lunch today I was working on an autodecoder button for web Hackvertor. Then I noticed a major parser bug then I ran out of time, might fix tonight.
+
+
+---
+
+## 2025-04-26 · Post · Firefox treats multipart/x-mixed-replace like HTML. Chrome doesn’t.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-04-26 13:00 UTC (2025-04-26 14:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1916115054421831981
+- Metrics (at fetch): bookmark 76, impression 7914, like 120, quote 0, reply 1, retweet 24
+
+> Firefox treats multipart/x-mixed-replace like HTML. Chrome doesn’t.
+> That tiny difference? It can turn a "non-exploitable" XSS into a real one.
+> Abuse boundary handling, bypass filters, and make your payload land.
+>
+> https://thespanner.co.uk/making-the-unexploitable-exploitable-with-x-mixed-replace-on-firefox
+
+**Links in post:** https://thespanner.co.uk/making-the-unexploitable-exploitable-with-x-mixed-replace-on-firefox
+
+
+---
+
+## 2025-03-20 · Post · 🔥 My Black Hat talk is now live! 🎥
+
+
+Tags (automatic): RCE
+
+
+### Post — @garethheyes — 2025-03-20 12:41 UTC (2025-03-20 13:41 WAT)
+
+- URL: https://x.com/garethheyes/status/1902701921707708717
+- Metrics (at fetch): bookmark 91, impression 26772, like 135, quote 1, reply 1, retweet 32
+
+> 🔥 My Black Hat talk is now live! 🎥
+>
+> Watch how email parsing quirks turned into RCE in Joomla and critical access control bypasses across major platforms. See how these subtle flaws led to serious exploits!
+>
+> https://www.youtube.com/watch?v=Uky45wwqsO4
+
+**Links in post:** https://www.youtube.com/watch?v=Uky45wwqsO4
+
+
+---
+
+## 2025-03-18 · Post · You might have noticed that the recent SAML writeups omit some crucial details. In "SAML roulette: t
+
+
+### Post — @garethheyes — 2025-03-18 14:56 UTC (2025-03-18 15:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1902011315029234143
+- Metrics (at fetch): bookmark 106, impression 34029, like 199, quote 4, reply 4, retweet 66
+
+> You might have noticed that the recent SAML writeups omit some crucial details. In "SAML roulette: the hacker always wins", we share everything you need to know for a complete unauthenticated exploit on ruby-saml, using GitLab as a case-study.
+>
+> https://portswigger.net/research/saml-roulette-the-hacker-always-wins
+
+**Links in post:** https://portswigger.net/research/saml-roulette-the-hacker-always-wins
+
+
+---
+
+## 2025-03-12 · Post · Sit down kids I'm gonna tell you a story. CSS once had JavaScript. You could actually embed it withi
+
+
+### Post — @garethheyes — 2025-03-12 19:15 UTC (2025-03-12 20:15 WAT)
+
+- URL: https://x.com/garethheyes/status/1899902151440359719
+- Metrics (at fetch): bookmark 7, impression 3429, like 45, quote 0, reply 2, retweet 5
+
+> Sit down kids I'm gonna tell you a story. CSS once had JavaScript. You could actually embed it within the property value an equal measure of people thought this was great and horrific. Another interesting fact IE also supported "=" as a property-value separator. 🧵
+
+
+---
+
+## 2025-02-26 · Post · Burp pro tip: Triple click a long parameter value/header to select all of the value (provided there 
+
+
+### Post — @garethheyes — 2025-02-26 10:22 UTC (2025-02-26 11:22 WAT)
+
+- URL: https://x.com/garethheyes/status/1894694405069480188
+- Metrics (at fetch): bookmark 1, impression 1506, like 14, quote 0, reply 0, retweet 1
+
+> Burp pro tip: Triple click a long parameter value/header to select all of the value (provided there are no spaces) then add your Hackvertor tags 😉
+
+
+---
+
+## 2025-01-28 · Post · Discover blocklist bypasses via unicode overflows using the latest updates to ActiveScan++, Hackvert
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @garethheyes — 2025-01-28 14:00 UTC (2025-01-28 15:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1884240020112060472
+- Metrics (at fetch): bookmark 139, impression 15593, like 199, quote 2, reply 3, retweet 37
+
+> Discover blocklist bypasses via unicode overflows using the latest updates to ActiveScan++, Hackvertor &amp; Shazzer! Thanks to @ryancbarnett and @thecyberneh for sharing this technique. Writeup 👇 [pic.x.com/AnSxSyZLeb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GiYGNsjXkAA8xVq.jpg — alt text: "GET /%0D%0ASet-Cookie: foo=bar
+403 Forbidden
+
+GET /%E4%BC%8D%E4%BC%8ASet-Cookie: foo=bar
+200 OK
+Set-Cookie: foo=bar"
+
+
+---
+
+## 2025-01-16 · Post · Here's how to use the XSS fuzz type to fuzz URLs. The trick is to use a base tag to get round the sa
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-01-16 19:12 UTC (2025-01-16 20:12 WAT)
+
+- URL: https://x.com/garethheyes/status/1879969871104295243
+- Metrics (at fetch): bookmark 16, impression 1620, like 24, quote 0, reply 0, retweet 0
+
+> Here's how to use the XSS fuzz type to fuzz URLs. The trick is to use a base tag to get round the sandbox restrictions. This shows characters allowed before slashes which result in an external URL:
+>
+> https://shazzer.co.uk/vectors/678957bb3def461b907d0de8
+
+**Links in post:** https://shazzer.co.uk/vectors/678957bb3def461b907d0de8
+
+
+---
+
+## 2025-01-09 · Post · Shazzer pro tip:
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-01-09 12:36 UTC (2025-01-09 13:36 WAT)
+
+- URL: https://x.com/garethheyes/status/1877333556428431543
+- Metrics (at fetch): bookmark 12, impression 2419, like 30, quote 0, reply 2, retweet 2
+
+> Shazzer pro tip:
+> &lt;script&gt;
+> window.onerror = () =&gt; true
+> &lt;/script&gt;
+>
+> This stops exceptions being logged if you place it in the code to execute before the fuzz. Useful for XSS types. I might make this a core feature.
+
+
+---
+
+## 2025-01-08 · Post · I've forgot if I tweeted this or not but well I got asked about SVG XSS... [pic.x.com/8AZfcAwvR1]
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-01-08 11:27 UTC (2025-01-08 12:27 WAT)
+
+- URL: https://x.com/garethheyes/status/1876953751245783534
+- Metrics (at fetch): bookmark 91, impression 10640, like 169, quote 1, reply 4, retweet 22
+
+> I've forgot if I tweeted this or not but well I got asked about SVG XSS... [pic.x.com/8AZfcAwvR1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgxHdySW0AEkecd.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-24 · Post · I found you could use the ISO-2022-JP escape sequences inside JS URLs!
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-12-24 12:57 UTC (2024-12-24 13:57 WAT)
+
+- URL: https://x.com/garethheyes/status/1871540782328352965
+- Metrics (at fetch): bookmark 264, impression 55236, like 403, quote 2, reply 4, retweet 80
+
+> I found you could use the ISO-2022-JP escape sequences inside JS URLs!
+>
+> Found using this:
+> https://hackvertor.co.uk/hack-pad/5
+>
+> Poc:
+> https://portswigger-labs.net/xss/charset.php?x=%3Ca%20href=javas%1B(Jcript:alert(1)%3Etest%3C/a%3E&charset=iso-2022-jp [pic.x.com/Yg1Er9hfpA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GfkL33EXwAAWpim.jpg — no alt text provided by author
+
+**Links in post:** https://hackvertor.co.uk/hack-pad/5, https://portswigger-labs.net/xss/charset.php?x=%3Ca%20href=javas%1B(Jcript:alert(1)%3Etest%3C/a%3E&charset=iso-2022-jp
+
+
+---
+
+## 2024-12-23 · Post · Fixed a bug when using hex ranges on the unicode table. You should now to specify hex ranges without
+
+
+### Post — @garethheyes — 2024-12-23 12:19 UTC (2024-12-23 13:19 WAT)
+
+- URL: https://x.com/garethheyes/status/1871168817851736247
+- Metrics (at fetch): bookmark 2, impression 1522, like 4, quote 0, reply 0, retweet 2
+
+> Fixed a bug when using hex ranges on the unicode table. You should now to specify hex ranges without them auto converting.
+>
+> https://shazzer.co.uk/unicode-table?fromTo=0xff-0x120&highlightsFromTo=
+
+**Links in post:** https://shazzer.co.uk/unicode-table?fromTo=0xff-0x120&highlightsFromTo=
+
+
+---
+
+## 2024-12-12 · Post · Hahaha I solved the XSS challenge but I can't post it on Twitter because the URL doesn't parse. You 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-12-12 17:33 UTC (2024-12-12 18:33 WAT)
+
+- URL: https://x.com/garethheyes/status/1867261414840443233
+- Metrics (at fetch): bookmark 1, impression 959, like 10, quote 0, reply 0, retweet 0
+
+> Hahaha I solved the XSS challenge but I can't post it on Twitter because the URL doesn't parse. You can only see this amazing vector on BlueSky...
+>
+> https://t.co/sbo3BtREcX
+
+
+---
+
+## 2024-12-05 · Post · State of the art XSS using the ISO-2022-JP charset
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-12-05 16:30 UTC (2024-12-05 17:30 WAT)
+
+- URL: https://x.com/garethheyes/status/1864708902928908553
+- Metrics (at fetch): bookmark 109, impression 15001, like 207, quote 1, reply 8, retweet 39
+
+> State of the art XSS using the ISO-2022-JP charset
+>
+> https://t.co/pPq0XA9aEj https://t.co/6U5f29coOn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeDGudAWAAwD_26.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-05 · Post · Fixed the XSS inside the HackPad sandbox  =)
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-12-05 12:45 UTC (2024-12-05 13:45 WAT)
+
+- URL: https://x.com/garethheyes/status/1864652341980324185
+- Metrics (at fetch): bookmark 1, impression 1102, like 2, quote 0, reply 1, retweet 0
+
+> Fixed the XSS inside the HackPad sandbox  =)
+>
+> https://t.co/lHDFqw9AtX
+
+
+---
+
+## 2024-11-22 · Post · In case you missed it...the DEF CON video of my talk 'Splitting the Email Atom' is finally here! 🚀 L
+
+
+Tags (automatic): RCE
+
+
+### Post — @garethheyes — 2024-11-22 13:48 UTC (2024-11-22 14:48 WAT)
+
+- URL: https://x.com/garethheyes/status/1859957005756367226
+- Metrics (at fetch): bookmark 35, impression 15773, like 85, quote 0, reply 4, retweet 22
+
+> In case you missed it...the DEF CON video of my talk 'Splitting the Email Atom' is finally here! 🚀 Learn how to turn an email address into RCE on Joomla, bypass Zero Trust defences, and exploit parser discrepancies for misrouted emails.
+>
+> https://t.co/jB0vOfWEQb
+
+
+---
+
+## 2024-11-20 · Post · Struggling with WAFs that seem to block every XSS attempt? Here’s a lesser-known trick from @parrot4
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-11-20 15:00 UTC (2024-11-20 16:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1859250353839263862
+- Metrics (at fetch): bookmark 78, impression 10560, like 160, quote 0, reply 5, retweet 30
+
+> Struggling with WAFs that seem to block every XSS attempt? Here’s a lesser-known trick from @parrot409: the Chrome-only onscrollsnapchange event. We’ve just added it to our XSS cheat sheet for those hard-to-crack scenarios. https://t.co/aEjXgQjc6g
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gc1U9ABWYAACbzw.jpg — alt text: "<section onscrollsnapchange=alert(1) style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></section>"
+
+
+---
+
+## 2024-11-13 · Post · Struggling to bypass a WAF with an attribute blocklist? We've just updated the XSS cheat sheet with 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-11-13 14:56 UTC (2024-11-13 15:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1856712629676286026
+- Metrics (at fetch): bookmark 101, impression 13174, like 181, quote 0, reply 4, retweet 20
+
+> Struggling to bypass a WAF with an attribute blocklist? We've just updated the XSS cheat sheet with the obscure 'onwaiting' event from @AmirMSafari
+>
+> https://t.co/8P7MOAcGSJ https://t.co/4YXlushfDn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcRd0elWsAAVWtv.jpg — alt text: "<audio controls onwaiting=alert(1)>
+   <source src=x type=x>
+</audio>
+"
+
+
+---
+
+## 2024-11-12 · Post · "Digging for XSS Gold: Unearthing Browser Quirks with Shazzer" is now live on YouTube! Discover powe
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-11-12 14:30 UTC (2024-11-12 15:30 WAT)
+
+- URL: https://x.com/garethheyes/status/1856343695844409539
+- Metrics (at fetch): bookmark 89, impression 12966, like 145, quote 1, reply 0, retweet 39
+
+> "Digging for XSS Gold: Unearthing Browser Quirks with Shazzer" is now live on YouTube! Discover powerful techniques to hunt XSS vulnerabilities with Shazzer. Watch now and start exploring browser quirks like a pro!
+>
+> https://t.co/ekes9rncAO
+
+
+---
+
+## 2024-11-06 · Post · Exploit XSS in hidden inputs with no user-interaction, using this amazing new auto-executing vector 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-11-06 15:56 UTC (2024-11-06 16:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1854191120277733760
+- Metrics (at fetch): bookmark 155, impression 18402, like 257, quote 1, reply 2, retweet 51
+
+> Exploit XSS in hidden inputs with no user-interaction, using this amazing new auto-executing vector from @kinugawamasato! We've added this powerful trick to our XSS cheat sheet linked below👇 https://t.co/Ber3LKOM3V
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GbtniQVXoAswPkx.png — alt text: "<input type=hidden oncontentvisibilityautostatechange=alert(1) style=content-visibility:auto>"
+
+
+---
+
+## 2024-11-04 · Post · I'm embarrassed to say the Shazzer bug wasn't a race condition...I was getting incorrect results 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @garethheyes — 2024-11-04 22:26 UTC (2024-11-04 23:26 WAT)
+
+- URL: https://x.com/garethheyes/status/1853564483223839219
+- Metrics (at fetch): bookmark 1, impression 1648, like 15, quote 0, reply 0, retweet 0
+
+> I'm embarrassed to say the Shazzer bug wasn't a race condition...I was getting incorrect results 
+>
+> for:
+> log$[chr]($[i])
+>
+> But not:
+> $[chr]log($[i]) 
+>
+> The log function was being overwritten! 🤦‍♂️e.g. log=(61)
+>
+> Damn I feel stupid sometimes. At least there results will now be accurate
+
+
+---
+
+## 2024-10-30 · Post · Want to discover advanced XSS vectors like this? I'll be presenting "Digging for XSS Gold: Unearthin
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-10-30 13:19 UTC (2024-10-30 14:19 WAT)
+
+- URL: https://x.com/garethheyes/status/1851614921936552330
+- Metrics (at fetch): bookmark 73, impression 11365, like 156, quote 0, reply 4, retweet 36
+
+> Want to discover advanced XSS vectors like this? I'll be presenting "Digging for XSS Gold: Unearthing Browser Quirks with Shazzer" live online at 16:00 UTC November 7th
+>
+> https://t.co/VAc7lOzBqB https://t.co/LuXmwKQ8QD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GbJAmhEWcAAGXq8.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-23 · Post · Learn how to conceal payloads in URL credentials and abuse them for DOM XSS and DOM Clobbering.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-10-23 13:05 UTC (2024-10-23 14:05 WAT)
+
+- URL: https://x.com/garethheyes/status/1849074636195017196
+- Metrics (at fetch): bookmark 200, impression 23226, like 260, quote 2, reply 4, retweet 81
+
+> Learn how to conceal payloads in URL credentials and abuse them for DOM XSS and DOM Clobbering.
+>
+> https://t.co/JHz88sdsBr
+
+
+---
+
+## 2024-10-17 · Post · The DEF CON video of my talk 'Splitting the Email Atom' is finally here! 🚀 Watch me demonstrate how 
+
+
+Tags (automatic): RCE
+
+
+### Post — @garethheyes — 2024-10-17 12:00 UTC (2024-10-17 13:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1846883859931013332
+- Metrics (at fetch): bookmark 43, impression 9554, like 109, quote 1, reply 0, retweet 27
+
+> The DEF CON video of my talk 'Splitting the Email Atom' is finally here! 🚀 Watch me demonstrate how to turn an email address into RCE on Joomla, bypass Zero Trust defences, and exploit parser discrepancies for misrouted emails. Don’t miss it:
+>
+> https://t.co/HL0g9f7QEA
+
+
+---
+
+## 2024-10-14 · Post · The bug hunter delusion: You spend that much time on a particular target that's close to impossible 
+
+
+### Post — @garethheyes — 2024-10-14 17:38 UTC (2024-10-14 18:38 WAT)
+
+- URL: https://x.com/garethheyes/status/1845881877397184575
+- Metrics (at fetch): not returned
+
+> The bug hunter delusion: You spend that much time on a particular target that's close to impossible to exploit, that you think it's actually a CTF.
+
+
+---
+
+## 2024-10-11 · Post · You can now load XSS vectors from the XSS cheat sheet inside Hackvertor! The data is available in th
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-10-11 20:44 UTC (2024-10-11 21:44 WAT)
+
+- URL: https://x.com/garethheyes/status/1844841478998335708
+- Metrics (at fetch): not returned
+
+> You can now load XSS vectors from the XSS cheat sheet inside Hackvertor! The data is available in the API so any tag can use it:
+>
+> This loads the vectors with no interaction required and that work with the anchor tag.
+> &lt;@encode(vectors,'a',false) /&gt;
+>
+> https://hackvertor.co.uk/urls/10 [pic.x.com/lJl2Nzk3Zy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZoxCoEWkAcj_o3.jpg — no alt text provided by author
+
+**Links in post:** https://hackvertor.co.uk/urls/10
+
+
+---
+
+## 2024-10-03 · Post · I had a bug in my 314 line tag parser. It wasn't consuming the backslash when escaping one. Can you 
+
+
+### Post — @garethheyes — 2024-10-03 18:42 UTC (2024-10-03 19:42 WAT)
+
+- URL: https://x.com/garethheyes/status/1841911745033732171
+- Metrics (at fetch): not returned
+
+> I had a bug in my 314 line tag parser. It wasn't consuming the backslash when escaping one. Can you imagine writing a HTML or JavaScript parser :O
+
+
+---
+
+## 2024-09-24 · Post · Ugh. As I was doing some research I found a bug in Shazzer. I was replacing a placeholder but would 
+
+
+### Post — @garethheyes — 2024-09-24 08:17 UTC (2024-09-24 09:17 WAT)
+
+- URL: https://x.com/garethheyes/status/1838492962772119981
+- Metrics (at fetch): not returned
+
+> Ugh. As I was doing some research I found a bug in Shazzer. I was replacing a placeholder but would cause existing vectors that used String.fromCodePoint($[i]); to break. I've fixed this now. If you had a vector that used that you will have encountered false negatives. Sorry
+
+
+---
+
+## 2024-09-14 · Post · Found, hacked and fixed an interesting bug in Hackvertor. I was putting the CSRF token in the search
+
+
+### Post — @garethheyes — 2024-09-14 16:00 UTC (2024-09-14 17:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1834985571422245055
+- Metrics (at fetch): not returned
+
+> Found, hacked and fixed an interesting bug in Hackvertor. I was putting the CSRF token in the search form which leaked to the URL then I used a tag to execute JavaScript and stole the token using document.baseURI. This leaks the URL even from a sandboxed iframe.
+
+
+---
+
+## 2024-08-12 · Post · Wtf YouTube censored my video of the Joomla exploit even though the vulnerability has been patched.
+
+
+### Post — @garethheyes — 2024-08-12 05:50 UTC (2024-08-12 06:50 WAT)
+
+- URL: https://x.com/garethheyes/status/1822873247785816411
+- Metrics (at fetch): not returned
+
+> Wtf YouTube censored my video of the Joomla exploit even though the vulnerability has been patched.
+
+
+---
+
+## 2020-12-15 · Post · Fixed dark mode
+
+
+### Post — @garethheyes — 2020-12-15 15:35 UTC (2020-12-15 16:35 WAT)
+
+- URL: https://x.com/garethheyes/status/1338870339644887042
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 0, retweet 2
+
+> Fixed dark mode
+> Added substring tag
+> Added report bug/feature menu
+> Added monspaced font to input/output/hex
+> Fixed AES decryption typo/bug https://t.co/SE4VtmaOBv
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877509238934962176 — 2020-12-15 15:26 UTC (2020-12-15 16:26 WAT)
+    
+    - URL: https://x.com/877509238934962176/status/1338868023428591616
+    - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 0, retweet 0
+    
+    > Updated: Hackvertor
+    >
+    > https://t.co/d2YhY2dfs6
+    
+
+
+---
+
+## 2016-12-08 · Post · RCE in JXBrowser JavaScript/Java bridge https://t.co/fdNGbqO6Eg
+
+
+Tags (automatic): RCE, Blockchain / L1-L2 / bridge
+
+
+### Post — @garethheyes — 2016-12-08 15:20 UTC (2016-12-08 16:20 WAT)
+
+- URL: https://x.com/garethheyes/status/806881041675911169
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 0, retweet 23
+
+> RCE in JXBrowser JavaScript/Java bridge https://t.co/fdNGbqO6Eg

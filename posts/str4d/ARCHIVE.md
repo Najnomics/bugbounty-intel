@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 38
-- Conversations/threads: 38
-- Oldest post captured: 2016-11-29
+- Posts in this file: 57
+- Conversations/threads: 57
+- Oldest post captured: 2013-09-06
 - Newest post captured: 2022-11-29
 
 
@@ -802,3 +802,275 @@ Tags (automatic): ZK
 > It's #GivingTuesday! Consider donating to #I2P: https://t.co/H9O6eeQmHd
 > Or for specific ideas, create a bounty: https://t.co/cqvREtJsRU
 > ❤️
+
+
+---
+
+## 2016-07-29 · Post · Small win of the week: wrote a script to render a computation visually, and it actually helped find 
+
+
+### Post — @str4d — 2016-07-29 05:56 UTC (2016-07-29 06:56 WAT)
+
+- URL: https://x.com/str4d/status/758904031683018752
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> Small win of the week: wrote a script to render a computation visually, and it actually helped find the bug in the code!
+
+
+---
+
+## 2016-04-27 · Post · TFW when you track down an intermittent bug to an upstream library feature - and it can easily be di
+
+
+### Post — @str4d — 2016-04-27 07:11 UTC (2016-04-27 08:11 WAT)
+
+- URL: https://x.com/str4d/status/725220895170555904
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> TFW when you track down an intermittent bug to an upstream library feature - and it can easily be disabled. [pic.x.com/B5V1Zoi3Kb]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2015-10-10 · Post · I2P Android 0.9.22 is now available to download! Full of bug fixes! https://geti2p.net/en/download
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @str4d — 2015-10-10 22:23 UTC (2015-10-10 23:23 WAT)
+
+- URL: https://x.com/str4d/status/652972782733651968
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 9
+
+> #I2P Android 0.9.22 is now available to download! Full of bug fixes! https://geti2p.net/en/download#android https://f-droid.i2p.io/ https://play.google.com/store/apps/details?id=net.i2p.android
+
+**Links in post:** https://geti2p.net/en/download#android, https://f-droid.i2p.io/, https://play.google.com/store/apps/details?id=net.i2p.android
+
+
+---
+
+## 2015-10-09 · Post · And fixing that one I2P Android bug has now snowballed into working on the 0.9.22 Android release ^
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @str4d — 2015-10-09 00:15 UTC (2015-10-09 01:15 WAT)
+
+- URL: https://x.com/str4d/status/652276254750679041
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> And fixing that one #I2P Android bug has now snowballed into working on the 0.9.22 Android release ^_^;; Coming soon...
+
+
+---
+
+## 2015-10-08 · Post · TFW you know you have important work to do, but first you just have to fix that *one* bug in I2P An
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @str4d — 2015-10-08 22:46 UTC (2015-10-08 23:46 WAT)
+
+- URL: https://x.com/str4d/status/652253841015111689
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> TFW you know you have important work to do, but first you just have to fix that *one* bug in #I2P Android...
+
+
+---
+
+## 2015-09-12 · Post · I2P-Bote 0.4.1 is out, fixing the bug that's been filling up your log files :P When I2P 0.9.22 is r
+
+
+### Post — @str4d — 2015-09-12 16:25 UTC (2015-09-12 17:25 WAT)
+
+- URL: https://x.com/str4d/status/642735723985117185
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 3
+
+> #I2P-Bote 0.4.1 is out, fixing the bug that's been filling up your log files :P When I2P 0.9.22 is released, I2P-Bote will also update #Bote
+
+
+---
+
+## 2015-09-11 · Post · TFW you only want to fix "this one bug" so you can use a tool for your code downtherabbithole
+
+
+### Post — @str4d — 2015-09-11 23:19 UTC (2015-09-12 00:19 WAT)
+
+- URL: https://x.com/str4d/status/642477493237215232
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> TFW you only want to fix "this one bug" so you can use a tool for your code #downtherabbithole
+
+
+---
+
+## 2015-08-18 · Post · Well damn, there's a bug in I2P-Bote 0.3 that prevents mail fetches from working. Hunting for it no
+
+
+### Post — @str4d — 2015-08-18 22:54 UTC (2015-08-18 23:54 WAT)
+
+- URL: https://x.com/str4d/status/633773970949545984
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Well damn, there's a bug in #I2P-Bote 0.3 that prevents mail fetches from working. Hunting for it now...
+
+
+---
+
+## 2015-04-03 · Post · The new I2P Android main UI is shaping up well. But it won't be ready for the 0.9.19 release, I sti
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @str4d — 2015-04-03 09:29 UTC (2015-04-03 10:29 WAT)
+
+- URL: https://x.com/str4d/status/583924384513003520
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 4
+
+> The new #I2P Android main UI is shaping up well. But it won't be ready for the 0.9.19 release, I still need to make sure it is bug free.
+
+
+---
+
+## 2015-03-02 · Post · Murphy's law for library releases: You will discover the major bug preventing it working for anyone 
+
+
+### Post — @str4d — 2015-03-02 04:22 UTC (2015-03-02 05:22 WAT)
+
+- URL: https://x.com/str4d/status/572250688018907136
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 1
+
+> Murphy's law for library releases: You will discover the major bug preventing it working for anyone else only after pushing the release.
+
+
+---
+
+## 2015-01-09 · Post · I am trying to remember why I thought it would be a good idea to make cleaning up the I2P bug track
+
+
+### Post — @str4d — 2015-01-09 07:25 UTC (2015-01-09 08:25 WAT)
+
+- URL: https://x.com/str4d/status/553452582728138752
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 2, retweet 0
+
+> I am trying to remember why I thought it would be a good idea to make cleaning up the #I2P bug tracker one of my New Year resolutions #_#
+
+
+---
+
+## 2014-12-27 · Post · Since I can't join the other I2P devs at 31c3, I think I'll hack on some new Bote features instea
+
+
+### Post — @str4d — 2014-12-27 12:55 UTC (2014-12-27 13:55 WAT)
+
+- URL: https://x.com/str4d/status/548824532321304579
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> Since I can't join the other #I2P devs at #31c3, I think I'll hack on some new #Bote features instead.
+
+
+---
+
+## 2014-12-19 · Post · Bote 0.4: new email notifications and bug fixes! Web: https://t.co/v6t3wlfDsV F-Droid: https://t.co
+
+
+### Post — @str4d — 2014-12-19 22:14 UTC (2014-12-19 23:14 WAT)
+
+- URL: https://x.com/str4d/status/546066153572139008
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 2
+
+> #Bote 0.4: new email notifications and bug fixes! Web: https://t.co/v6t3wlfDsV F-Droid: https://t.co/xdiSWgarAL Google Play: in a few hours.
+
+
+---
+
+## 2014-12-17 · Post · Bote release delayed, I'm triaging a bug in the new email notification.
+
+
+### Post — @str4d — 2014-12-17 23:32 UTC (2014-12-18 00:32 WAT)
+
+- URL: https://x.com/str4d/status/545360903793684480
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> #Bote release delayed, I'm triaging a bug in the new email notification.
+
+
+---
+
+## 2014-10-16 · Post · Typical: I push out I2P Android 0.9.15, and about an hour later another dev finds a config bug. 0.9
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @str4d — 2014-10-16 10:23 UTC (2014-10-16 11:23 WAT)
+
+- URL: https://x.com/str4d/status/522694342750642176
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Typical: I push out #I2P Android 0.9.15, and about an hour later another dev finds a config bug. 0.9.15.1 to the rescue!
+
+
+---
+
+## 2014-10-07 · Post · "Just because exploit code works doesn’t mean it triggered the bug you expected!" MT @alexstamos: No
+
+
+### Post — @str4d — 2014-10-07 12:09 UTC (2014-10-07 13:09 WAT)
+
+- URL: https://x.com/str4d/status/519459398255923200
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> "Just because exploit code works doesn’t mean it triggered the bug you expected!" MT @alexstamos: Not Shellshock https://t.co/pYDAtiOEs2
+
+
+---
+
+## 2014-09-24 · Post · The feeling I get when I figure out a UX bug or improvement is a very satisfying one.
+
+
+### Post — @str4d — 2014-09-24 22:30 UTC (2014-09-24 23:30 WAT)
+
+- URL: https://x.com/str4d/status/514904729198288896
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> The feeling I get when I figure out a UX bug or improvement is a very satisfying one.
+
+
+---
+
+## 2014-07-07 · Post · Bote 0.2 is nearly ready.
+
+
+### Post — @str4d — 2014-07-07 02:15 UTC (2014-07-07 03:15 WAT)
+
+- URL: https://x.com/str4d/status/485970281555832833
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 3
+
+> #Bote 0.2 is nearly ready.
+>
+> * wanders off with Enchanted Hammer of Bug Quashing*
+
+
+---
+
+## 2013-09-06 · Post · Known bug: opening I2P Android peers page on devices with Honeycomb (API 11) and above will kill t
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @str4d — 2013-09-06 02:44 UTC (2013-09-06 03:44 WAT)
+
+- URL: https://x.com/str4d/status/375811788253581312
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Known bug: opening #I2P #Android peers page on devices with Honeycomb (API 11) and above will kill the app.

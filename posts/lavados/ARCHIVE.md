@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 53
-- Conversations/threads: 48
-- Oldest post captured: 2015-11-27
+- Posts in this file: 65
+- Conversations/threads: 60
+- Oldest post captured: 2014-06-13
 - Newest post captured: 2026-05-14
 
 
@@ -880,3 +880,192 @@ Tags (automatic): TEE / enclave
     
     > [New] Amplifying Side Channels Through Performance Degradation (Thomas Allan and Billy Bob Brumley and Katrina F... https://t.co/YwX3TTroGY
     
+
+
+---
+
+## 2015-11-17 · Post · Fastest&amp;stealthiest cache attack on x86:
+
+
+### Post — @lavados — 2015-11-17 08:34 UTC (2015-11-17 09:34 WAT)
+
+- URL: https://x.com/lavados/status/666534866301919232
+- Metrics (at fetch): bookmark 0, impression 0, like 30, quote 0, reply 0, retweet 27
+
+> Fastest&amp;stealthiest cache attack on x86:
+> Flush+Flush: A Stealthier Last-Level Cache Attack http://arxiv.org/abs/1511.04594 paper w/@BloodyTangerine
+
+**Links in post:** http://arxiv.org/abs/1511.04594
+
+
+---
+
+## 2015-11-16 · Post · And we have one more highly accurate cache attack coming up!
+
+
+### Post — @lavados — 2015-11-16 12:08 UTC (2015-11-16 13:08 WAT)
+
+- URL: https://x.com/lavados/status/666226290463252482
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 2, retweet 14
+
+> And we have one more highly accurate cache attack coming up!
+> We can spy on anything (taps, swipes, crypto, ...) on ARM-based smartphones!
+
+
+---
+
+## 2015-11-15 · Post · with our new super fast cache attack we can transmit a 720p webcam stream through a cache covert cha
+
+
+### Post — @lavados — 2015-11-15 09:52 UTC (2015-11-15 10:52 WAT)
+
+- URL: https://x.com/lavados/status/665829797264818176
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 2, retweet 14
+
+> with our new super fast cache attack we can transmit a 720p webcam stream through a cache covert channel to another process
+
+
+---
+
+## 2015-10-28 · Post · Interesting work on cache attack detection: "Real time detection of cache-based side-channel attacks
+
+
+### Post — @lavados — 2015-10-28 16:59 UTC (2015-10-28 17:59 WAT)
+
+- URL: https://x.com/lavados/status/659414260775329792
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 4
+
+> Interesting work on cache attack detection: "Real time detection of cache-based side-channel attacks using HPCs" http://eprint.iacr.org/2015/1034.pdf
+
+**Links in post:** http://eprint.iacr.org/2015/1034.pdf
+
+
+---
+
+## 2015-07-14 · Post · preprint of usenix paper: https://online.tugraz.at/tug_online/voe_main2.getvolltext?pCurrPk=85809
+
+
+### Post — @lavados — 2015-07-14 12:45 UTC (2015-07-14 13:45 WAT)
+
+- URL: https://x.com/lavados/status/620937216492183556
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 9
+
+> preprint of #usenix paper: https://online.tugraz.at/tug_online/voe_main2.getvolltext?pCurrPk=85809
+> automat. find+exploit cache accesses (keystrokes,encrypt.keys,...) [pic.x.com/G2h1XEWhhi]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CJ4DG5jWUAAydqN.png — no alt text provided by author
+
+**Links in post:** https://online.tugraz.at/tug_online/voe_main2.getvolltext?pCurrPk=85809
+
+
+---
+
+## 2015-07-14 · Post · preprint of ESORICS paper w/@sigttou online: https://online.tugraz.at/tug_online/voe_main2.getvollt
+
+
+### Post — @lavados — 2015-07-14 11:31 UTC (2015-07-14 12:31 WAT)
+
+- URL: https://x.com/lavados/status/620918560861327360
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 3, retweet 10
+
+> preprint of #ESORICS paper w/@sigttou online: https://online.tugraz.at/tug_online/voe_main2.getvolltext?pCurrPk=85826
+> #javascript page deduplication attack #privacy [pic.x.com/ZeSqLMbwPb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CJ3yI_yUcAAhD48.png — no alt text provided by author
+
+**Links in post:** https://online.tugraz.at/tug_online/voe_main2.getvolltext?pCurrPk=85826
+
+
+---
+
+## 2015-05-12 · Post · Why are Cache Template Attacks a problem? Because you can attack any binary online or offline withou
+
+
+### Post — @lavados — 2015-05-12 21:19 UTC (2015-05-12 22:19 WAT)
+
+- URL: https://x.com/lavados/status/598236188143673346
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Why are Cache Template Attacks a problem? Because you can attack any binary online or offline without prior knowledge.
+
+
+---
+
+## 2015-04-16 · Post · @newshtwit not the attack we discussed in osdev but it might be interesting for you https://x.com/l
+
+
+### Post — @lavados — 2015-04-16 19:18 UTC (2015-04-16 20:18 WAT)
+
+- URL: https://x.com/lavados/status/588783450360045568
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @newshtwit not the attack we discussed in #osdev but it might be interesting for you https://x.com/lavados/status/588643153252585472
+
+**Links in post:** https://x.com/lavados/status/588643153252585472
+
+**Quoted post (full text):**
+
+    #### Quoted post — @lavados — 2015-04-16 10:00 UTC (2015-04-16 11:00 WAT)
+    
+    - URL: https://x.com/lavados/status/588643153252585472
+    - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 3
+    
+    > Tomorrow @ 10:40 @ #iaik #tugraz @sigttou will present a new devastating #Javascript side-channel attack on Linux, Windows, Android, ...
+    
+
+
+---
+
+## 2015-04-16 · Post · Tomorrow @ 10:40 @ iaik tugraz @sigttou will present a new devastating Javascript side-channel at
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @lavados — 2015-04-16 10:00 UTC (2015-04-16 11:00 WAT)
+
+- URL: https://x.com/lavados/status/588643153252585472
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 3
+
+> Tomorrow @ 10:40 @ #iaik #tugraz @sigttou will present a new devastating #Javascript side-channel attack on Linux, Windows, Android, ...
+
+
+---
+
+## 2014-06-13 · Post · Hab nachher nochmal mit den SSL MITM Attack Leuten geredet. Provider/NSA/... könnten so eine MITM At
+
+
+### Post — @lavados — 2014-06-13 12:23 UTC (2014-06-13 13:23 WAT)
+
+- URL: https://x.com/lavados/status/477425985374408704
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Hab nachher nochmal mit den SSL MITM Attack Leuten geredet. Provider/NSA/... könnten so eine MITM Attack im Internet durchführen. #iaikBakk
+
+
+---
+
+## 2014-06-13 · Post · SSL MITM Attack kann jeder durchführen der im gleichen Netzwerk ist. Gängige Browser zeigen bestenfa
+
+
+### Post — @lavados — 2014-06-13 10:09 UTC (2014-06-13 11:09 WAT)
+
+- URL: https://x.com/lavados/status/477392203346878465
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> SSL MITM Attack kann jeder durchführen der im gleichen Netzwerk ist. Gängige Browser zeigen bestenfalls eine Warnung an. #iaikBakk
+
+
+---
+
+## 2014-06-13 · Post · David Schrammel &amp; Matthias Eichhaber über ihre SSL MITM Attack. Live Demo zeigt dass selbst vers
+
+
+### Post — @lavados — 2014-06-13 09:53 UTC (2014-06-13 10:53 WAT)
+
+- URL: https://x.com/lavados/status/477388174596243456
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> David Schrammel &amp; Matthias Eichhaber über ihre SSL MITM Attack. Live Demo zeigt dass selbst versierte Nutzer nichts merken würden. #iaikBakk

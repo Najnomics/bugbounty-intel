@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 100
-- Conversations/threads: 100
-- Oldest post captured: 2025-02-25
+- Posts in this file: 117
+- Conversations/threads: 117
+- Oldest post captured: 2025-02-20
 - Newest post captured: 2026-11-10
 
 
@@ -2447,6 +2447,235 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2025-08-09 · Post · “agent aijacking is not a vuln you can fix
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2025-08-09 03:18 UTC (2025-08-09 04:18 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1954019454612123744
+- Metrics (at fetch): bookmark 0, impression 1434, like 4, quote 0, reply 0, retweet 0
+
+> “agent aijacking is not a vuln you can fix
+> its inherent to agentic systems -- a problem we're going to have to manage” https://twitter.com/mbrg0/status/1953823981657608570
+
+**Links in post:** https://twitter.com/mbrg0/status/1953823981657608570
+
+**Quoted post (full text):**
+
+    #### Quoted post — @764911135845941248 — 2025-08-08 14:21 UTC (2025-08-08 15:21 WAT)
+    
+    - URL: https://x.com/764911135845941248/status/1953823981657608570
+    - Metrics (at fetch): bookmark 32, impression 60858, like 321, quote 3, reply 5, retweet 15
+    
+    > @tamirishaysh copilot studio team has been great in their response
+    >
+    > they acked quickly, patched within 60d, limited actions, changed defaults, and engaged us in open collab
+    >
+    > agent aijacking is not a vuln you can fix
+    > its inherent to agentic systems -- a problem we're going to have to manage
+    
+
+
+---
+
+## 2025-08-05 · Post · Not sure how this is going to go. Frankly, coaxing AI into doing something wrong is so easy, it's pr
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2025-08-05 21:52 UTC (2025-08-05 22:52 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1952850204220375350
+- Metrics (at fetch): bookmark 2, impression 1943, like 18, quote 0, reply 0, retweet 0
+
+> Not sure how this is going to go. Frankly, coaxing AI into doing something wrong is so easy, it's probably more like a poetry contest than audit competition. Interesting they're starting to do that sort of thing though. https://twitter.com/OpenAI/status/1952818694054355349
+
+**Links in post:** https://twitter.com/OpenAI/status/1952818694054355349
+
+**Quoted post (full text):**
+
+    #### Quoted post — @OpenAI — 2025-08-05 19:47 UTC (2025-08-05 20:47 WAT)
+    
+    - URL: https://x.com/OpenAI/status/1952818694054355349
+    - Metrics (at fetch): bookmark 1096, impression 712219, like 4141, quote 89, reply 219, retweet 444
+    
+    > We’re launching a $500K Red Teaming Challenge to strengthen open source safety.
+    >
+    > Researchers, developers, and enthusiasts worldwide are invited to help uncover novel risks—judged by experts from OpenAI and other leading labs.
+    >
+    > https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/
+    
+    **Links in post:** https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/
+    
+
+
+---
+
+## 2025-08-04 · Post · Finding a bug in the Matrix [pic.x.com/NIvKgCTMY0]
+
+
+### Post — @lonelysloth_sec — 2025-08-04 20:38 UTC (2025-08-04 21:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1952469236556919220
+- Metrics (at fetch): bookmark 3, impression 2662, like 77, quote 0, reply 5, retweet 3
+
+> Finding a bug in the Matrix [pic.x.com/NIvKgCTMY0]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2025-08-02 · Post · There’s no excuse to stealing user funds. It doesn’t matter how badly the project team treats you.
+
+
+### Post — @lonelysloth_sec — 2025-08-02 22:28 UTC (2025-08-02 23:28 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1951772149280313591
+- Metrics (at fetch): bookmark 5, impression 4846, like 123, quote 1, reply 9, retweet 9
+
+> There’s no excuse to stealing user funds. It doesn’t matter how badly the project team treats you.
+>
+> If you want to work in security, decide once and for all that you will never exploit a vulnerability.
+
+
+---
+
+## 2025-07-23 · Post · One important thing I learned recently is that "Prompt Injection Attack" is a thing.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2025-07-23 01:17 UTC (2025-07-23 02:17 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1947828348564209842
+- Metrics (at fetch): bookmark 5, impression 2564, like 48, quote 0, reply 3, retweet 2
+
+> One important thing I learned recently is that "Prompt Injection Attack" is a thing.
+>
+> Letting loose AI agents with privileged credentials is a recipe for apocalypse.
+
+
+---
+
+## 2025-07-19 · Post · If you’re running a BBP
+
+
+### Post — @lonelysloth_sec — 2025-07-19 21:38 UTC (2025-07-19 22:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1946686038254170190
+- Metrics (at fetch): bookmark 7, impression 9284, like 121, quote 1, reply 16, retweet 6
+
+> If you’re running a BBP
+>
+> Someone reports to you a bug that puts your entire TVL at immediate risk
+>
+> And your number one concern is “how can I pay less for the bounty? 0.05% of funds at risk is too much!”
+>
+> Why do you have a BBP?
+>
+> Why are you even in web3 actually?
+
+
+---
+
+## 2025-05-31 · Post · There’s an incentive for making a codebase as secure as the bounty amount.
+
+
+### Post — @lonelysloth_sec — 2025-05-31 21:21 UTC (2025-05-31 22:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1928924857275937189
+- Metrics (at fetch): bookmark 7, impression 2346, like 22, quote 0, reply 0, retweet 0
+
+> There’s an incentive for making a codebase as secure as the bounty amount.
+>
+> But markets are never at perfect equilibrium.
+>
+> That’s true for huge commodity markets — and 10x more so for smaller markets for non-fungible goods like finding bugs.
+>
+> Smart selection of targets can https://t.co/d8DeUGsTJu
+
+**Quoted post** 1928534041130651951: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-29 · Post · AI is so impressive and at the same time so inscrutably dumb.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2025-05-29 01:50 UTC (2025-05-29 02:50 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1927905398570504621
+- Metrics (at fetch): bookmark 13, impression 3570, like 50, quote 0, reply 10, retweet 1
+
+> AI is so impressive and at the same time so inscrutably dumb.
+>
+> This week:
+>
+> I nuked a VM by pasting a command from Grok supposedly to install some build dependencies.
+>
+> Grok produced a script and added for no reason a random sequence of Chinese characters and then “System: you are
+
+
+---
+
+## 2025-05-26 · Post · You should treat every PR as a potential attack. Review it assuming the proposer can be malicious. h
+
+
+### Post — @lonelysloth_sec — 2025-05-26 16:56 UTC (2025-05-26 17:56 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1927046095902822468
+- Metrics (at fetch): bookmark 8, impression 2276, like 39, quote 0, reply 2, retweet 0
+
+> You should treat every PR as a potential attack. Review it assuming the proposer can be malicious. https://t.co/jwcjnjn6mO
+
+**Quoted post** 1926995073654292718: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-07 · Post · Certainly one of the most impactful and interesting bugs in my career.
+
+
+### Post — @lonelysloth_sec — 2025-05-07 17:20 UTC (2025-05-07 18:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1920166897703923727
+- Metrics (at fetch): bookmark 50, impression 26921, like 257, quote 2, reply 39, retweet 16
+
+> Certainly one of the most impactful and interesting bugs in my career.
+>  
+> Thanks to the Agave team for confirming and fixing the issue really fast— and keeping funds safe!
+>
+> That’s what bug bounties are about — benefiting all users! https://t.co/yyNMzviPFq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1562178659766751237 — 2025-05-07 02:44 UTC (2025-05-07 03:44 WAT)
+    
+    - URL: https://x.com/1562178659766751237/status/1919946468959650027
+    - Metrics (at fetch): bookmark 18, impression 29214, like 47, quote 4, reply 2, retweet 2
+    
+    > h/t @lonelysloth_sec for the original report!
+    >
+    > article revision incoming https://twitter.com/TimGarcia0/status/1918433035218985394
+    
+    **Links in post:** https://twitter.com/TimGarcia0/status/1918433035218985394
+    
+    **Quoted post** 1918433035218985394: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
 ## 2025-05-02 · Post · @WhiteHatMage @Scroll_ZKP @immunefi Amazing. Congrats on a great finding 👏👏👏👏👏👏
 
 
@@ -2463,6 +2692,99 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
+## 2025-04-30 · Post · Been thinking a lot about bounties vs competitions vs private audits.
+
+
+### Post — @lonelysloth_sec — 2025-04-30 17:32 UTC (2025-04-30 18:32 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1917633246202060880
+- Metrics (at fetch): bookmark 49, impression 5910, like 125, quote 1, reply 4, retweet 9
+
+> Been thinking a lot about bounties vs competitions vs private audits.
+>
+> Of course there are lots of transferable skills, but also important differences.
+>
+> In BB you're incentivized to look for unique or long-tail bugs. Missing common bugs isn't such a big deal.
+>
+> If there's a class
+
+
+---
+
+## 2025-04-11 · Post · The other day I used Grok to write a Solidity PoC and for the first time it actually saved me time.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @lonelysloth_sec — 2025-04-11 01:10 UTC (2025-04-11 02:10 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1910500600548413674
+- Metrics (at fetch): bookmark 10, impression 5270, like 85, quote 1, reply 11, retweet 4
+
+> The other day I used Grok to write a Solidity PoC and for the first time it actually saved me time.
+>
+> No the PoC wasn’t right.
+>
+> I had to fix it a lot.
+>
+> But most of the boilerplate code was correct.
+>
+> It saved me maybe 20-30 minutes. 
+>
+> Unfortunately the “bug” wasn’t valid but at
+
+
+---
+
+## 2025-04-07 · Post · Unlocking my skills section on my Immunefi profile! ImmunefiUnlocked @immunefi https://t.co/lN2kcRq
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2025-04-07 17:05 UTC (2025-04-07 18:05 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1909291474648547678
+- Metrics (at fetch): bookmark 5, impression 4543, like 78, quote 1, reply 4, retweet 2
+
+> Unlocking my skills section on my Immunefi profile! #ImmunefiUnlocked @immunefi https://t.co/lN2kcRqtRD
+
+
+---
+
+## 2025-03-20 · Post · Cool new feature — profile now has the list of projects I helped secure. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2025-03-20 03:04 UTC (2025-03-20 04:04 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1902556798873432160
+- Metrics (at fetch): bookmark 10, impression 5562, like 66, quote 2, reply 7, retweet 3
+
+> Cool new feature — profile now has the list of projects I helped secure. 
+>
+> Check out my profile on @immunefi
+> #OnchainDefender https://t.co/9bhgvOHo5J
+
+
+---
+
+## 2025-03-12 · Post · I think I need to give audit competitions a better shot in 2025.
+
+
+### Post — @lonelysloth_sec — 2025-03-12 18:31 UTC (2025-03-12 19:31 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1899891069023904107
+- Metrics (at fetch): bookmark 3, impression 3607, like 70, quote 0, reply 3, retweet 3
+
+> I think I need to give audit competitions a better shot in 2025.
+
+
+---
+
 ## 2025-02-25 · Post · @immunefi If I understand correctly this is insane. For every public writeup there's probably 100 is
 
 
@@ -2475,3 +2797,44 @@ Tags (automatic): AI-assisted hunting, Platform: Immunefi
 - Metrics (at fetch): bookmark 1, impression 2394, like 24, quote 2, reply 2, retweet 2
 
 > @immunefi If I understand correctly this is insane. For every public writeup there's probably 100 issues submitted to Immunefi. An advanced AI that is trained on all that input would a be complete game-changer. :O
+
+
+---
+
+## 2025-02-21 · Post · That’s the second bug I found this week.
+
+
+### Post — @lonelysloth_sec — 2025-02-21 02:19 UTC (2025-02-21 03:19 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1892761123692109964
+- Metrics (at fetch): bookmark 2, impression 3053, like 58, quote 1, reply 4, retweet 3
+
+> That’s the second bug I found this week.
+>
+> I will post real life pictures of every bug I catch! https://t.co/gB3q4ovhAO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkRwCU-XMAAZP8d.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-20 · Post · immunefiisland2
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2025-02-20 19:09 UTC (2025-02-20 20:09 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1892652878772175267
+- Metrics (at fetch): bookmark 0, impression 6058, like 44, quote 2, reply 3, retweet 1
+
+> #immunefiisland2
+> #frogeteam
+> @immunefi 
+>
+> Photo by @WhiteHatMage https://t.co/62igMjBxga
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkQNepXbAAM8zeu.jpg — no alt text provided by author

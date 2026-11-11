@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 111
-- Conversations/threads: 110
-- Oldest post captured: 2023-12-14
+- Posts in this file: 123
+- Conversations/threads: 122
+- Oldest post captured: 2021-04-16
 - Newest post captured: 2026-11-10
 
 
@@ -1591,7 +1591,7 @@ Tags (automatic): ZK
     #### Quoted post — @1562178659766751237 — 2025-05-07 02:44 UTC (2025-05-07 03:44 WAT)
     
     - URL: https://x.com/1562178659766751237/status/1919946468959650027
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 18, impression 29214, like 47, quote 4, reply 2, retweet 2
     
     > h/t @lonelysloth_sec for the original report!
     >
@@ -2535,3 +2535,254 @@ Tags (automatic): Platform: Immunefi
 
 > erc2771 &amp; multicall Arbitrary Address Spoofing Attack PoC
 > https://t.co/w0NzJDgWOM
+
+
+---
+
+## 2023-11-10 · Post · I just received a $140K bounty reward for submitting two critical bug report on @immunefi!
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2023-11-10 11:27 UTC (2023-11-10 12:27 WAT)
+
+- URL: https://x.com/ma1fan/status/1722938903890731176
+- Metrics (at fetch): bookmark 54, impression 42528, like 429, quote 5, reply 23, retweet 24
+
+> I just received a $140K bounty reward for submitting two critical bug report on @immunefi!
+>
+> #Web3bounty https://t.co/FHPegNWo93
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-kbvYUaAAA89wL.png — no alt text provided by author
+
+
+---
+
+## 2023-11-03 · Post · I found a critical bug again,thanks the vendor, Suck a geat team, very kindlyful, and thanks @immune
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2023-11-03 06:57 UTC (2023-11-03 07:57 WAT)
+
+- URL: https://x.com/ma1fan/status/1720334246072705147
+- Metrics (at fetch): bookmark 5, impression 9084, like 55, quote 1, reply 3, retweet 3
+
+> I found a critical bug again,thanks the vendor, Suck a geat team, very kindlyful, and thanks @immunefi too , I believe I will do more achieve, let's make web3 more secure!!! https://t.co/dbaTCGmNbf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9_ZnL9acAAzTCn.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-13 · Post · I have been help 
+
+
+### Post — @ma1fan — 2023-10-13 10:14 UTC (2023-10-13 11:14 WAT)
+
+- URL: https://x.com/ma1fan/status/1712773778433089938
+- Metrics (at fetch): bookmark 0, impression 1215, like 2, quote 1, reply 0, retweet 0
+
+> I have been help 
+> @Algorand fix a array out of bound access bug in the algorand avm😃@JohnAlanWoods
+> https://t.co/L93131Rgqf
+
+
+---
+
+## 2023-06-15 · Post · Very exicted to share this research, Our team exploited the win32k vulnerability CVE-2023-29336,pls 
+
+
+### Post — @ma1fan — 2023-06-15 02:59 UTC (2023-06-15 03:59 WAT)
+
+- URL: https://x.com/ma1fan/status/1669177746835263489
+- Metrics (at fetch): bookmark 1, impression 3578, like 11, quote 0, reply 0, retweet 5
+
+> Very exicted to share this research, Our team exploited the win32k vulnerability CVE-2023-29336,pls see the details.😃 https://t.co/T27lXdKgsE
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1442376532064804865 — 2023-06-12 08:44 UTC (2023-06-12 09:44 WAT)
+    
+    - URL: https://x.com/1442376532064804865/status/1668177360976486403
+    - Metrics (at fetch): bookmark 5, impression 6716, like 26, quote 4, reply 0, retweet 8
+    
+    > ICYMI, last week, we deconstructed the patch released by #Microsoft to craft a PoC exploit on Windows Server 2016.
+    >
+    > #CVE-2023-29336 was under active exploitation and allowed threat actors to gain SYSTEM privileges.
+    >
+    > Read our full article here 👇
+    
+
+
+---
+
+## 2023-06-09 · Post · we believe web3 security is not only onchain security,
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2023-06-09 02:01 UTC (2023-06-09 03:01 WAT)
+
+- URL: https://x.com/ma1fan/status/1666988774008709121
+- Metrics (at fetch): bookmark 0, impression 1698, like 3, quote 0, reply 0, retweet 0
+
+> we believe web3 security is not only onchain security,
+> but also we should pay more attention on web2 infrastructure vulnerability,here is CVE-2023-29336 exp we released https://t.co/qDmBEZ3vn1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1442376532064804865 — 2023-06-08 15:21 UTC (2023-06-08 16:21 WAT)
+    
+    - URL: https://x.com/1442376532064804865/status/1666827840200003584
+    - Metrics (at fetch): bookmark 0, impression 5960, like 12, quote 1, reply 1, retweet 7
+    
+    > “Numen Cyber has deconstructed the patch released by #Microsoft to craft a PoC exploit for Windows Server 2016… 
+    >
+    > @numencyber distinguishes itself from typical #Web3 security companies by emphasizing the need for advanced security capabilities, specifically focusing on OS-level https://t.co/f40L6sMLZa
+    
+    **Quoted post** 1666824352934035456: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-03-02 · Post · The world's largest cybersecurity media @TheHackersNews recently acknowledged the value of the vulne
+
+
+Tags (automatic): ZK
+
+
+### Post — @ma1fan — 2023-03-02 08:16 UTC (2023-03-02 09:16 WAT)
+
+- URL: https://x.com/ma1fan/status/1631206757816242178
+- Metrics (at fetch): bookmark 1, impression 2516, like 9, quote 0, reply 1, retweet 4
+
+> The world's largest cybersecurity media @TheHackersNews recently acknowledged the value of the vulnerability discovered by  our company @numencyber and its PoC in a recent article on the high-risk vulnerabilities in the Zk framework.
+> https://t.co/MyHaE96ujR
+
+
+---
+
+## 2022-12-20 · Post · great writeup by avboy1337 https://twitter.com/avboy1337/status/1605123852362604545
+
+
+### Post — @ma1fan — 2022-12-20 09:06 UTC (2022-12-20 10:06 WAT)
+
+- URL: https://x.com/ma1fan/status/1605127424567410689
+- Metrics (at fetch): not returned
+
+> great writeup by avboy1337 https://twitter.com/avboy1337/status/1605123852362604545
+
+**Links in post:** https://twitter.com/avboy1337/status/1605123852362604545
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1001049027280977920 — 2022-12-20 08:52 UTC (2022-12-20 09:52 WAT)
+    
+    - URL: https://x.com/1001049027280977920/status/1605123852362604545
+    - Metrics (at fetch): not returned
+    
+    > https://medium.com/@numencyberlabs/using-leaking-sentinel-value-to-bypass-the-latest-chrome-v8-hardenprotect-c4ed40e3d34f
+    > Using Leaking Sentinel Value to Bypass the Latest Chrome v8 HardenProtect
+    
+    **Links in post:** https://medium.com/@numencyberlabs/using-leaking-sentinel-value-to-bypass-the-latest-chrome-v8-hardenprotect-c4ed40e3d34f
+    
+
+
+---
+
+## 2022-10-26 · Post · this is our analysis of the tcpip vulnerability cve-2022-34718 including PoC https://medium.com/@num
+
+
+### Post — @ma1fan — 2022-10-26 04:55 UTC (2022-10-26 05:55 WAT)
+
+- URL: https://x.com/ma1fan/status/1585132930611154944
+- Metrics (at fetch): not returned
+
+> this is our analysis of the tcpip vulnerability cve-2022-34718 including PoC https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf
+
+**Links in post:** https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf
+
+
+---
+
+## 2022-09-20 · Post · a lot of exploit tricks :)
+
+
+Tags (automatic): RCE
+
+
+### Post — @ma1fan — 2022-09-20 12:21 UTC (2022-09-20 13:21 WAT)
+
+- URL: https://x.com/ma1fan/status/1572199236393140231
+- Metrics (at fetch): not returned
+
+> a lot of exploit tricks :)
+>
+> https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078
+
+**Links in post:** https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078
+
+
+---
+
+## 2022-08-17 · Post · There is no V8 bug this time.  It imply  that V8 security  stronger than before.🙃 https://twitter.co
+
+
+### Post — @ma1fan — 2022-08-17 03:20 UTC (2022-08-17 04:20 WAT)
+
+- URL: https://x.com/ma1fan/status/1559741811895152641
+- Metrics (at fetch): not returned
+
+> There is no V8 bug this time.  It imply  that V8 security  stronger than before.🙃 https://twitter.com/_ChromeReleases/status/1559659654661033984
+
+**Links in post:** https://twitter.com/_ChromeReleases/status/1559659654661033984
+
+**Quoted post (full text):**
+
+    #### Quoted post — @260622894 — 2022-08-16 21:53 UTC (2022-08-16 22:53 WAT)
+    
+    - URL: https://x.com/260622894/status/1559659654661033984
+    - Metrics (at fetch): not returned
+    
+    > Google Chrome:  Stable Channel Update for Desktop http://dlvr.it/SWlRSq
+    
+    **Links in post:** http://dlvr.it/SWlRSq
+    
+
+
+---
+
+## 2021-04-23 · Post · Interesting~,another lowering bug
+
+
+### Post — @ma1fan — 2021-04-23 11:21 UTC (2021-04-23 12:21 WAT)
+
+- URL: https://x.com/ma1fan/status/1385554292157779974
+- Metrics (at fetch): bookmark 1, impression 0, like 13, quote 0, reply 1, retweet 2
+
+> Interesting~,another lowering bug
+>
+> https://t.co/Pf5ApavLcU
+
+
+---
+
+## 2021-04-16 · Post · finally I found the exploit method. :) https://t.co/rN4QHXAN0I
+
+
+### Post — @ma1fan — 2021-04-16 12:25 UTC (2021-04-16 13:25 WAT)
+
+- URL: https://x.com/ma1fan/status/1383033817489756166
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 0, retweet 2
+
+> finally I found the exploit method. :) https://t.co/rN4QHXAN0I
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EzGFxnAVkAEqtgf.png — no alt text provided by author

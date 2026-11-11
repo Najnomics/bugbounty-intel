@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 106
-- Conversations/threads: 105
-- Oldest post captured: 2018-06-28
+- Posts in this file: 107
+- Conversations/threads: 106
+- Oldest post captured: 2014-01-16
 - Newest post captured: 2026-11-07
 
 
@@ -2313,3 +2313,16 @@ Tags (automatic): ZK
 - Metrics (at fetch): not returned
 
 > From @feministPLT's circuit optimization workshop: "If you don’t have imposter syndrome about designing zk circuits in 2018, you’re probably doing something wrong."
+
+
+---
+
+## 2014-01-16 · Post · Battle Hack Tel Aviv, February 6-7 https://t.co/ACUNs2Qk2F
+
+
+### Post — @kobigurk — 2014-01-16 08:27 UTC (2014-01-16 09:27 WAT)
+
+- URL: https://x.com/kobigurk/status/423733313946148865
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Battle Hack Tel Aviv, February 6-7 https://t.co/ACUNs2Qk2F

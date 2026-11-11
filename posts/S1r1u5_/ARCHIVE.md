@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 257
-- Conversations/threads: 229
-- Oldest post captured: 2024-11-16
+- Posts in this file: 323
+- Conversations/threads: 295
+- Oldest post captured: 2020-11-10
 - Newest post captured: 2026-11-09
 
 
@@ -4876,7 +4876,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2024-11-16 17:42 UTC (2024-11-16 18:42 WAT)
     
     - URL: https://x.com/S1r1u5_/status/1857841746929172876
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 124, impression 39527, like 265, quote 1, reply 7, retweet 20
     
     > Tip, pick any electron app out there and write an exploit fo it and you will learn a lot. 
     >
@@ -4890,7 +4890,20 @@ Tags (automatic): AI-assisted hunting
     
     **Links in post:** https://twitter.com/S1r1u5_/status/1857830830397337912
     
-    **Quoted post** 1857830830397337912: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @S1r1u5_ — 2024-11-16 16:59 UTC (2024-11-16 17:59 WAT)
+        
+        - URL: https://x.com/S1r1u5_/status/1857830830397337912
+        - Metrics (at fetch): bookmark 4, impression 34766, like 63, quote 1, reply 3, retweet 1
+        
+        > Let's gooooooo!!!!!!!! Had to rewrite on Windows. 
+        >
+        > That cost me 100 hours of my life😅. https://t.co/OTqzW0k5jE
+        
+        **Media:**
+        - media `3_1857829265129222147` (details not returned by the API)
+        
     
 
 
@@ -6443,6 +6456,875 @@ Tags (automatic): XSS, RCE, Platform: HackerOne
 
 ---
 
+## 2025-05-20 · Post · At @HacktronAI, we don’t just build AI that hacks, we hack the AIs too.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-05-20 02:53 UTC (2025-05-20 03:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1924659631621820455
+- Metrics (at fetch): bookmark 29, impression 14446, like 165, quote 2, reply 5, retweet 7
+
+> At @HacktronAI, we don’t just build AI that hacks, we hack the AIs too.
+>
+> Yay, I was awarded a $10,000 bounty. [pic.x.com/VtnMKXqqLw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrXDpINbAAAzuWO.png — no alt text provided by author
+
+
+---
+
+## 2025-05-14 · Post · to be honest, I don’t have the energy to become a millionaire bug hunter.
+
+
+### Post — @S1r1u5_ — 2025-05-14 05:51 UTC (2025-05-14 06:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1922530130783502384
+- Metrics (at fetch): bookmark 14, impression 9750, like 78, quote 0, reply 6, retweet 2
+
+> to be honest, I don’t have the energy to become a millionaire bug hunter.
+>
+> pretty sure @HacktronAI’s gonna do it for me. not even joking. https://twitter.com/HacktronAI/status/1922528253895483618
+
+**Links in post:** https://twitter.com/HacktronAI/status/1922528253895483618
+
+**Quoted post (full text):**
+
+    #### Quoted post — @HacktronAI — 2025-05-14 05:43 UTC (2025-05-14 06:43 WAT)
+    
+    - URL: https://x.com/HacktronAI/status/1922528253895483618
+    - Metrics (at fetch): bookmark 38, impression 23498, like 226, quote 2, reply 5, retweet 7
+    
+    > just getting started. 
+    >
+    > just scored my first bounty — $700 on @Bugcrowd.
+    >
+    > million-dollar bug hunter AI arc loading. [pic.x.com/AMD5wyTGrg]
+    
+    **Media:**
+    - media `3_1922526830101200896` (details not returned by the API)
+    
+
+
+---
+
+## 2025-04-08 · Post · whats with bugcrowd password reset mails?
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @S1r1u5_ — 2025-04-08 08:34 UTC (2025-04-08 09:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1909525319926624653
+- Metrics (at fetch): bookmark 0, impression 2064, like 10, quote 0, reply 6, retweet 0
+
+> whats with bugcrowd password reset mails?
+
+
+---
+
+## 2025-04-07 · Post · if i find bug in this i will go look for pre seed
+
+
+### Post — @S1r1u5_ — 2025-04-07 14:54 UTC (2025-04-07 15:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1909258591145443738
+- Metrics (at fetch): bookmark 0, impression 1289, like 3, quote 0, reply 0, retweet 0
+
+> if i find bug in this i will go look for pre seed
+
+
+---
+
+## 2025-04-07 · Post · yo bug hunters watch out for vibe coding induced vulnerabilities on shopify program
+
+
+### Post — @S1r1u5_ — 2025-04-07 13:57 UTC (2025-04-07 14:57 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1909244183350845682
+- Metrics (at fetch): bookmark 11, impression 4015, like 50, quote 0, reply 4, retweet 0
+
+> yo bug hunters watch out for vibe coding induced vulnerabilities on shopify program
+
+
+---
+
+## 2025-04-06 · Post · everyone should avoid enabling auto-run in Cursor or Windsurf, as there are numerous ways attackers 
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2025-04-06 18:30 UTC (2025-04-06 19:30 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1908950462147031176
+- Metrics (at fetch): bookmark 7, impression 1864, like 3, quote 0, reply 0, retweet 0
+
+> everyone should avoid enabling auto-run in Cursor or Windsurf, as there are numerous ways attackers can perform indirect prompt injections to get RCE.
+>
+> for instance, an indirect prompt injection hosted on my website https://ctf.s1r1us.ninja/ may appear harmless, but when pasted https://twitter.com/S1r1u5_/status/1908948815492624448
+
+**Links in post:** https://ctf.s1r1us.ninja/, https://twitter.com/S1r1u5_/status/1908948815492624448
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2025-04-06 18:23 UTC (2025-04-06 19:23 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1908948815492624448
+    - Metrics (at fetch): bookmark 6, impression 5156, like 12, quote 1, reply 2, retweet 1
+    
+    > @galnagli @cursor_ai @AnthropicAI even easier,  just visit my website(https://ctf.s1r1us.ninja/) without any mcp and get pwned.
+    >
+    > https://x.com/S1r1u5_/status/1904979266586210449
+    
+    **Links in post:** https://ctf.s1r1us.ninja/, https://x.com/S1r1u5_/status/1904979266586210449
+    
+    **Quoted post** 1904979266586210449: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-04-06 · Post · @galnagli @cursor_ai @AnthropicAI even easier,  just visit my website(https://ctf.s1r1us.ninja/) wit
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @galnagli — 2025-04-06 16:07 UTC (2025-04-06 17:07 WAT)
+
+- URL: https://x.com/galnagli/status/1908914507461603574
+- Metrics (at fetch): bookmark 257, impression 46491, like 363, quote 9, reply 10, retweet 52
+
+> It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP
+>
+> Here is a POC using an external MCP server that parses GitHub repositories documentations turning into RCE.
+>
+> There are 0 AI Guardrails when asking Cursor to follow instructions coming from MCP🙃 https://t.co/OndyQFW9Bw
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Post — @S1r1u5_ — 2025-04-06 18:23 UTC (2025-04-06 19:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1908948815492624448
+- Metrics (at fetch): bookmark 6, impression 5156, like 12, quote 1, reply 2, retweet 1
+
+> @galnagli @cursor_ai @AnthropicAI even easier,  just visit my website(https://ctf.s1r1us.ninja/) without any mcp and get pwned.
+>
+> https://x.com/S1r1u5_/status/1904979266586210449
+
+**Links in post:** https://ctf.s1r1us.ninja/, https://x.com/S1r1u5_/status/1904979266586210449
+
+**Quoted post** 1904979266586210449: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-04-05 · Post · sooner or later, the google deepmind team will distill the entire chromium codebase into gemini and 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-04-05 10:58 UTC (2025-04-05 11:58 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1908474389500141859
+- Metrics (at fetch): bookmark 8, impression 3178, like 24, quote 1, reply 1, retweet 2
+
+> sooner or later, the google deepmind team will distill the entire chromium codebase into gemini and let it uncover vulnerabilities. 
+>
+> for bug in issue_tracker: 
+>        find similar bugs
+>
+> variant analysis on steroids. this is the future
+
+
+---
+
+## 2025-04-05 · Post · its a hard pill to swallow, just because i find something difficult to find doesn’t mean AI will too
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-04-05 03:24 UTC (2025-04-05 04:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1908360061149126934
+- Metrics (at fetch): bookmark 8, impression 2181, like 16, quote 0, reply 1, retweet 1
+
+> its a hard pill to swallow, just because i find something difficult to find doesn’t mean AI will too.
+>
+> i was trying to find the hardest bug I could think of and remembered FORCEDENTRY. But after some reflection, I realized… even that might not be all that hard for next models
+
+
+---
+
+## 2025-04-04 · Post · watch out; 
+
+
+### Post — @S1r1u5_ — 2025-04-04 08:23 UTC (2025-04-04 09:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1908072925208379550
+- Metrics (at fetch): bookmark 0, impression 1238, like 2, quote 0, reply 0, retweet 0
+
+> watch out; 
+>
+> i am going to shitpost my way through convince someone from frontier model providers to help me bypass rate limits or toss me some free credits.
+
+
+---
+
+## 2025-04-02 · Post · 🧵 Tracking vulnerabilities reported using http://Hacktron.AI  🧵
+
+
+Tags (automatic): SQL injection, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-04-02 20:24 UTC (2025-04-02 21:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1907529565649375444
+- Metrics (at fetch): bookmark 73, impression 13341, like 130, quote 0, reply 2, retweet 4
+
+> 🧵 Tracking vulnerabilities reported using http://Hacktron.AI  🧵
+>
+> 1. a few clean SQL injections Hacktron uncovered effortlessly [pic.x.com/36IaYo2tUq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gnjn5KMXYAI14fm.png — no alt text provided by author
+
+**Links in post:** http://Hacktron.AI
+
+
+---
+
+## 2025-03-30 · Post · anyone from @AnthropicAI, @OpenAI, or @GoogleDeepMind willing to help me bypass rate limits for test
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-03-30 13:47 UTC (2025-03-30 14:47 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1906342582147485861
+- Metrics (at fetch): bookmark 7, impression 1862, like 5, quote 0, reply 1, retweet 0
+
+> anyone from @AnthropicAI, @OpenAI, or @GoogleDeepMind willing to help me bypass rate limits for testing my benchmark? i've contacted via support but no response from months.
+>
+> highly appreciate it! 🙏
+>  https://hackbench.ai/ [pic.x.com/zVKg4RHmdz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnSwcYbbAAAbo9p.jpg — no alt text provided by author
+
+**Links in post:** https://hackbench.ai/
+
+
+---
+
+## 2025-03-19 · Post · if the brain is getting conditioned for 30-sec dopamine hits from tiktok/reels slop, good luck with 
+
+
+### Post — @S1r1u5_ — 2025-03-19 02:21 UTC (2025-03-19 03:21 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1902183704304480743
+- Metrics (at fetch): bookmark 17, impression 6515, like 136, quote 0, reply 7, retweet 8
+
+> if the brain is getting conditioned for 30-sec dopamine hits from tiktok/reels slop, good luck with vuln research. 
+>
+> won’t find a bug in 30 sec for instant gratification, it’s a long, tedious grind with no guaranteed payoff.
+
+
+---
+
+## 2025-03-18 · Post · There’s a new kind of hacking I call "vibe hacking," where you fully give in to the vibes, embrace e
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-03-18 04:43 UTC (2025-03-18 05:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1901857030488621157
+- Metrics (at fetch): bookmark 9, impression 4489, like 42, quote 0, reply 2, retweet 6
+
+> There’s a new kind of hacking I call "vibe hacking," where you fully give in to the vibes, embrace exponentials, and forget that the security even exists. 
+>
+> It’s possible because the slop from vibe coding (cursor composer, windsurf cascade, claude code) is getting too good at
+
+
+---
+
+## 2025-03-17 · Post · talk about niche. 
+
+
+### Post — @S1r1u5_ — 2025-03-17 16:13 UTC (2025-03-17 17:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1901668147532595382
+- Metrics (at fetch): bookmark 27, impression 3712, like 50, quote 0, reply 0, retweet 6
+
+> talk about niche. 
+>
+> whenever you see a crazy saml bug these days, it's most probably from ahacker1 (@ahacker1_h1 ?)
+>
+> https://workos.com/blog/samlstorm https://twitter.com/S1r1u5_/status/1851847815267582256
+
+**Links in post:** https://workos.com/blog/samlstorm, https://twitter.com/S1r1u5_/status/1851847815267582256
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2024-10-31 04:44 UTC (2024-10-31 05:44 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1851847815267582256
+    - Metrics (at fetch): bookmark 1282, impression 156835, like 1184, quote 28, reply 27, retweet 257
+    
+    > @NahamSec Pick a niche, become an expert, find bugs maybe even 0days or reverse n-days, and write blogs. Even if you don’t hit those $100k bounties, it’ll be a stepping stone toward a $100k job.  
+    >
+    > What niche? How to pick? Examples? 
+    >
+    > infosec being so vast from web3 sec to web2, mobile,
+    
+
+
+---
+
+## 2025-03-11 · Post · hot take:
+
+
+### Post — @S1r1u5_ — 2025-03-11 20:07 UTC (2025-03-11 21:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1899552773781479905
+- Metrics (at fetch): bookmark 50, impression 30317, like 245, quote 1, reply 25, retweet 18
+
+> hot take:
+>
+> the Indian security research and bug hunting community seems overly insecure. I recently collaborated with a bug bounty team, and ironically, no one was actually sharing their work, yet they called it “teamwork.” 
+>
+> this isn’t just a one-off experience; it seems to be
+
+
+---
+
+## 2025-03-11 · Post · not bad to occasionally take a tangent on things you use, dive down a rabbit hole, and walk away wit
+
+
+### Post — @S1r1u5_ — 2025-03-11 04:37 UTC (2025-03-11 05:37 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1899318745690263905
+- Metrics (at fetch): bookmark 21, impression 9579, like 112, quote 0, reply 6, retweet 5
+
+> not bad to occasionally take a tangent on things you use, dive down a rabbit hole, and walk away with a $10,000 bounty.
+>
+> great team, acknowledged and fixed the bug in under a week over e-mail. https://twitter.com/S1r1u5_/status/1897681440109969469
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1897681440109969469
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2025-03-06 16:11 UTC (2025-03-06 17:11 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1897681440109969469
+    - Metrics (at fetch): bookmark 7, impression 17372, like 104, quote 1, reply 3, retweet 3
+    
+    > ez [pic.x.com/qZ1jpFswMI] https://twitter.com/S1r1u5_/status/1897623617137230104
+    
+    **Media:**
+    - media `3_1897681410787569664` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/S1r1u5_/status/1897623617137230104
+    
+    **Quoted post** 1897623617137230104: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-03-07 · Post · north korean Lazarus is dangerously effective for not so obvious reasons.
+
+
+### Post — @S1r1u5_ — 2025-03-07 11:42 UTC (2025-03-07 12:42 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1897976260661592340
+- Metrics (at fetch): bookmark 40, impression 9487, like 150, quote 1, reply 8, retweet 14
+
+> north korean Lazarus is dangerously effective for not so obvious reasons.
+>
+> 1. security researchers hack for passion. NK hackers do it because they’re forced to. when people are forced they can build pyramids.
+>
+> 2. you burn out and take breaks. they don’t.
+>
+> 3. you think
+
+
+---
+
+## 2025-03-07 · Post · north korean Lazarus is dangerously effective for not so obvious reasons.
+
+
+### Post — @S1r1u5_ — 2025-03-07 11:40 UTC (2025-03-07 12:40 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1897975727171256823
+- Metrics (at fetch): bookmark 0, impression 67, like 2, quote 0, reply 0, retweet 0
+
+> north korean Lazarus is dangerously effective for not so obvious reasons.
+>
+> 1. security researchers hack for passion. NK hackers do it because they’re forced to. when people are faced they can build pyramids.
+>
+> 2. you burn out and take breaks. they don’t.
+>
+> 3. you think
+
+
+---
+
+## 2025-03-06 · Post · ez [pic.x.com/qZ1jpFswMI] https://twitter.com/S1r1u5_/status/1897623617137230104
+
+
+### Post — @S1r1u5_ — 2025-03-06 16:11 UTC (2025-03-06 17:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1897681440109969469
+- Metrics (at fetch): bookmark 7, impression 17372, like 104, quote 1, reply 3, retweet 3
+
+> ez [pic.x.com/qZ1jpFswMI] https://twitter.com/S1r1u5_/status/1897623617137230104
+
+**Media:**
+- media `3_1897681410787569664` (details not returned by the API)
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1897623617137230104
+
+**Quoted post** 1897623617137230104: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-28 · Post · agree with sean here, and that’s why you should start doing ctfs or reversing vulnerabilities.
+
+
+### Post — @S1r1u5_ — 2025-02-28 15:45 UTC (2025-02-28 16:45 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1895500517616566362
+- Metrics (at fetch): bookmark 115, impression 14120, like 165, quote 6, reply 5, retweet 21
+
+> agree with sean here, and that’s why you should start doing ctfs or reversing vulnerabilities.
+>
+> you open a basic binary challenge in picoctf. but you never took any courses.
+>
+> it looks completely alien. you have no clue where to start. something in you wants you to solve it, for https://twitter.com/sean_a_mcclure/status/1895213068197450169
+
+**Links in post:** https://twitter.com/sean_a_mcclure/status/1895213068197450169
+
+**Quoted post (full text):**
+
+    #### Quoted post — @245388976 — 2025-02-27 20:43 UTC (2025-02-27 21:43 WAT)
+    
+    - URL: https://x.com/245388976/status/1895213068197450169
+    - Metrics (at fetch): bookmark 6923, impression 1021829, like 8359, quote 347, reply 515, retweet 989
+    
+    > Do not start with fundamentals. This is an awful approach to learning. 
+    >
+    > Start with so-called "advanced" topics and ask questions until every term/concept is understood. 
+    >
+    > This is the correct, rigorous, scientific way to learn, because the advanced topics are embedded in larger,
+    
+
+
+---
+
+## 2025-02-05 · Post · please share some of the most creative vulnerabilities you've read or found.
+
+
+### Post — @S1r1u5_ — 2025-02-05 16:59 UTC (2025-02-05 17:59 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1887184374191563076
+- Metrics (at fetch): bookmark 276, impression 32923, like 301, quote 2, reply 13, retweet 26
+
+> please share some of the most creative vulnerabilities you've read or found.
+>
+> most bugs aren’t about creativity but just having the right knowledge + mindset, novel not because they were complex, but because no one had the full picture before.
+>
+> I'm looking for something beyond
+
+
+---
+
+## 2025-02-05 · Post · How creative is this bug?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-02-05 16:34 UTC (2025-02-05 17:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1887178083968688504
+- Metrics (at fetch): bookmark 98, impression 18332, like 163, quote 0, reply 5, retweet 12
+
+> How creative is this bug?
+>
+> https://issues.chromium.org/issues/370856871
+>
+> How did this issue go unnoticed for four years, even by top Chrome researchers? 
+>
+> Were they too focused on specific areas or types of bugs?
+>
+> Could an LLM detect this issue, or is the context too complex and vast for it to
+
+**Links in post:** https://issues.chromium.org/issues/370856871
+
+
+---
+
+## 2025-02-04 · Post · sometimes I audit code and can't tell if it is a backdoor, intern or bug
+
+
+### Post — @S1r1u5_ — 2025-02-04 09:51 UTC (2025-02-04 10:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1886714230721675661
+- Metrics (at fetch): bookmark 0, impression 1255, like 12, quote 0, reply 1, retweet 0
+
+> sometimes I audit code and can't tell if it is a backdoor, intern or bug
+
+
+---
+
+## 2025-02-02 · Post · AI alignment seems like a hard problem. imagine a Capture the Flag hacking competition where you're 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-02-02 06:36 UTC (2025-02-02 07:36 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1885940418132734249
+- Metrics (at fetch): bookmark 1, impression 2307, like 18, quote 0, reply 3, retweet 0
+
+> AI alignment seems like a hard problem. imagine a Capture the Flag hacking competition where you're rewarded for exploiting an author-intended bug to retrieve the flag.
+>
+> a lot of times, there are unintended solutions, and participants exploit them. if the goal is fixed, you can't
+
+
+---
+
+## 2025-01-25 · Post · i think the reason why india doesn't produce teams like deepseek lies in differences in motivations 
+
+
+### Post — @S1r1u5_ — 2025-01-25 10:28 UTC (2025-01-25 11:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1883099505626915192
+- Metrics (at fetch): bookmark 6, impression 2198, like 19, quote 0, reply 1, retweet 1
+
+> i think the reason why india doesn't produce teams like deepseek lies in differences in motivations and economic contexts. 
+>
+> i know people who do extraordinary things without expecting any rewards—they work on projects simply because they love them, not because of the money they
+
+
+---
+
+## 2025-01-23 · Post · PoC 👀 [pic.x.com/gnWOFaL14L] https://twitter.com/S1r1u5_/status/1882086724412772758
+
+
+### Post — @S1r1u5_ — 2025-01-23 13:57 UTC (2025-01-23 14:57 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1882427343404474668
+- Metrics (at fetch): bookmark 6, impression 1918, like 15, quote 0, reply 0, retweet 1
+
+> PoC 👀 [pic.x.com/gnWOFaL14L] https://twitter.com/S1r1u5_/status/1882086724412772758
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1882086724412772758
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2025-01-22 15:23 UTC (2025-01-22 16:23 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1882086724412772758
+    - Metrics (at fetch): bookmark 12, impression 6518, like 26, quote 1, reply 2, retweet 2
+    
+    > 🚨 CTF Challenge time! 🚨
+    >
+    > Can you steal my @AnthropicAI Claude AI data?
+    >
+    > DM me the solution. [pic.x.com/OMLHiI4b4W]
+    
+    **Media:**
+    - media `3_1882084808358068224` (details not returned by the API)
+    
+
+
+---
+
+## 2025-01-23 · Post · we got a first solver. 
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2025-01-23 11:34 UTC (2025-01-23 12:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1882391359207964919
+- Metrics (at fetch): bookmark 1, impression 948, like 9, quote 0, reply 0, retweet 1
+
+> we got a first solver. 
+>
+> this is a minor bug on claude, i submitted to h1 program but they are not responsive, so created a challenge. https://twitter.com/s1r1u5_/status/1882086724412772758
+
+**Links in post:** https://twitter.com/s1r1u5_/status/1882086724412772758
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2025-01-22 15:23 UTC (2025-01-22 16:23 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1882086724412772758
+    - Metrics (at fetch): bookmark 12, impression 6518, like 26, quote 1, reply 2, retweet 2
+    
+    > 🚨 CTF Challenge time! 🚨
+    >
+    > Can you steal my @AnthropicAI Claude AI data?
+    >
+    > DM me the solution. [pic.x.com/OMLHiI4b4W]
+    
+    **Media:**
+    - media `3_1882084808358068224` (details not returned by the API)
+    
+
+
+---
+
+## 2025-01-22 · Post · 🚨 CTF Challenge time! 🚨
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-01-22 15:23 UTC (2025-01-22 16:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1882086724412772758
+- Metrics (at fetch): bookmark 12, impression 6518, like 26, quote 1, reply 2, retweet 2
+
+> 🚨 CTF Challenge time! 🚨
+>
+> Can you steal my @AnthropicAI Claude AI data?
+>
+> DM me the solution. [pic.x.com/OMLHiI4b4W]
+
+**Media:**
+- media `3_1882084808358068224` (details not returned by the API)
+
+
+---
+
+## 2024-12-18 · Post · If you have a chance, would you sell your exploit to highest bidder or submit it to vulnerability di
+
+
+### Post — @S1r1u5_ — 2024-12-18 22:54 UTC (2024-12-18 23:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1869516684375282115
+- Metrics (at fetch): bookmark 1, impression 2022, like 5, quote 0, reply 2, retweet 0
+
+> If you have a chance, would you sell your exploit to highest bidder or submit it to vulnerability disclosure program?
+
+
+---
+
+## 2024-12-18 · Post · The comments on the Discord RCE video are full of people disappointed that we didn’t sell the exploi
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2024-12-18 20:39 UTC (2024-12-18 21:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1869482611091067204
+- Metrics (at fetch): bookmark 3, impression 8142, like 59, quote 0, reply 3, retweet 0
+
+> The comments on the Discord RCE video are full of people disappointed that we didn’t sell the exploit. 
+>
+> They are all missing the point.
+
+
+---
+
+## 2024-12-15 · Post · I also converted my notes for the root cause analysis of the bug in turbofan simplified lowering pha
+
+
+### Post — @S1r1u5_ — 2024-12-15 07:54 UTC (2024-12-15 08:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1868202853958844710
+- Metrics (at fetch): bookmark 20, impression 4011, like 62, quote 0, reply 1, retweet 3
+
+> I also converted my notes for the root cause analysis of the bug in turbofan simplified lowering phase into a blog post.
+>
+> Check it out:
+>
+> https://s1r1us.ninja/posts/v8-rca/ https://twitter.com/s1r1u5_/status/1867909908060123163
+
+**Links in post:** https://s1r1us.ninja/posts/v8-rca/, https://twitter.com/s1r1u5_/status/1867909908060123163
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2024-12-14 12:30 UTC (2024-12-14 13:30 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1867909908060123163
+    - Metrics (at fetch): bookmark 419, impression 79344, like 724, quote 6, reply 17, retweet 177
+    
+    > Imagine opening a Discord message and suddenly your computer is hacked.
+    >
+    > We discovered a bug that made this possible and earned a $5,000 bounty for it.
+    >
+    > Here's the story and a beginner-friendly deep dive into V8 exploit development.
+    >
+    > Watch: https://www.youtube.com/watch?v=R3SE4VKj678 [pic.x.com/A1LdK05YyB]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GevFiwMbsAA9Rx8.jpg — no alt text provided by author
+    
+    **Links in post:** https://www.youtube.com/watch?v=R3SE4VKj678
+    
+
+
+---
+
+## 2024-12-14 · Post · Imagine opening a Discord message and suddenly your computer is hacked.
+
+
+### Post — @S1r1u5_ — 2024-12-14 12:30 UTC (2024-12-14 13:30 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1867909908060123163
+- Metrics (at fetch): bookmark 419, impression 79344, like 724, quote 6, reply 17, retweet 177
+
+> Imagine opening a Discord message and suddenly your computer is hacked.
+>
+> We discovered a bug that made this possible and earned a $5,000 bounty for it.
+>
+> Here's the story and a beginner-friendly deep dive into V8 exploit development.
+>
+> Watch: https://www.youtube.com/watch?v=R3SE4VKj678 [pic.x.com/A1LdK05YyB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GevFiwMbsAA9Rx8.jpg — no alt text provided by author
+
+**Links in post:** https://www.youtube.com/watch?v=R3SE4VKj678
+
+
+---
+
+## 2024-12-12 · Post · trimmed to 25 mins, we are talking full v8 exploit so ig that's fine. https://t.co/hnffTk1x6l
+
+
+### Post — @S1r1u5_ — 2024-12-12 18:01 UTC (2024-12-12 19:01 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1867268555005370789
+- Metrics (at fetch): bookmark 21, impression 4696, like 79, quote 0, reply 4, retweet 0
+
+> trimmed to 25 mins, we are talking full v8 exploit so ig that's fine. https://t.co/hnffTk1x6l
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GenextibsAMkw7r.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-03 · Post · dont wanna be pedantic and pessimistic.
+
+
+### Post — @S1r1u5_ — 2024-12-03 18:44 UTC (2024-12-03 19:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1864017759308525978
+- Metrics (at fetch): bookmark 6, impression 7097, like 58, quote 1, reply 3, retweet 4
+
+> dont wanna be pedantic and pessimistic.
+>
+> but, there are 8 billion people in this world, around 0.5% do tech, and maybe 0.05% does infosec, and maybe 0.000005% will remember through your OSS tool or a disclosed bug for just a few years. and after that you are no one.
+>
+> so the point https://t.co/yr4DSdph4I
+
+**Quoted post (full text):**
+
+    #### Quoted post — @jobertabma — 2024-08-20 02:24 UTC (2024-08-20 03:24 WAT)
+    
+    - URL: https://x.com/jobertabma/status/1825720647814885583
+    - Metrics (at fetch): bookmark 34, impression 32015, like 265, quote 3, reply 14, retweet 17
+    
+    > nobody will remember:
+    >
+    > - your bounty earnings
+    > - how “busy you were”
+    > - how many hours you worked
+    >
+    > people will remember:
+    >
+    > - your @Hacker0x01 Elite poster
+    > - that one insane exploit you disclosed
+    > - the tools you open sourced
+    
+
+
+---
+
+## 2024-11-26 · Post · Oh yeah, @sudhanshur705 found a cool MXSS bug. https://t.co/9G6Ae6GSkx
+
+
+### Post — @S1r1u5_ — 2024-11-26 11:03 UTC (2024-11-26 12:03 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1861365277663121537
+- Metrics (at fetch): bookmark 3, impression 1961, like 25, quote 0, reply 0, retweet 0
+
+> Oh yeah, @sudhanshur705 found a cool MXSS bug. https://t.co/9G6Ae6GSkx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3103420267 — 2024-11-26 11:01 UTC (2024-11-26 12:01 WAT)
+    
+    - URL: https://x.com/3103420267/status/1861364550622421220
+    - Metrics (at fetch): bookmark 19, impression 10700, like 111, quote 2, reply 5, retweet 0
+    
+    > Perfect combo 🙇‍♀️🙇‍♀️ https://t.co/0mixfyNp6f https://t.co/zUhEJOJuL9
+    
+    **Media:**
+    - media `3_1861364424055095296` (details not returned by the API)
+    
+    **Quoted post** 1861363401236308262: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-11-20 · Post · How can I do ROP with a reliable offset to the libc base or libsystem_c.dylib?
+
+
+### Post — @S1r1u5_ — 2024-11-20 19:39 UTC (2024-11-20 20:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1859320722071617758
+- Metrics (at fetch): bookmark 10, impression 9733, like 11, quote 1, reply 3, retweet 0
+
+> How can I do ROP with a reliable offset to the libc base or libsystem_c.dylib?
+>
+> I am calculating the system address using the printf pointer from the GOT table, but the offset to the GOT table or the offset from printf to system seems to vary across computers with different
+
+
+---
+
+## 2024-11-17 · Post · ah i disclosed a bug on h1, thought it would be public but it seems h1 private program disclosed bug
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2024-11-17 04:44 UTC (2024-11-17 05:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1858008321984446935
+- Metrics (at fetch): bookmark 1, impression 1041, like 2, quote 0, reply 0, retweet 0
+
+> ah i disclosed a bug on h1, thought it would be public but it seems h1 private program disclosed bugs are only visible internally.
+
+
+---
+
 ## 2024-11-16 · Post · Tip, pick any electron app out there and write an exploit fo it and you will learn a lot. 
 
 
@@ -6452,7 +7334,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2024-11-16 17:42 UTC (2024-11-16 18:42 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1857841746929172876
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 124, impression 39527, like 265, quote 1, reply 7, retweet 20
 
 > Tip, pick any electron app out there and write an exploit fo it and you will learn a lot. 
 >
@@ -6466,4 +7348,668 @@ Tags (automatic): Memory corruption / native
 
 **Links in post:** https://twitter.com/S1r1u5_/status/1857830830397337912
 
-**Quoted post** 1857830830397337912: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2024-11-16 16:59 UTC (2024-11-16 17:59 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1857830830397337912
+    - Metrics (at fetch): bookmark 4, impression 34766, like 63, quote 1, reply 3, retweet 1
+    
+    > Let's gooooooo!!!!!!!! Had to rewrite on Windows. 
+    >
+    > That cost me 100 hours of my life😅. https://t.co/OTqzW0k5jE
+    
+    **Media:**
+    - media `3_1857829265129222147` (details not returned by the API)
+    
+
+
+---
+
+## 2024-11-16 · Post · Let's gooooooo!!!!!!!! Had to rewrite on Windows. 
+
+
+### Post — @S1r1u5_ — 2024-11-16 16:59 UTC (2024-11-16 17:59 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1857830830397337912
+- Metrics (at fetch): bookmark 4, impression 34766, like 63, quote 1, reply 3, retweet 1
+
+> Let's gooooooo!!!!!!!! Had to rewrite on Windows. 
+>
+> That cost me 100 hours of my life😅. https://t.co/OTqzW0k5jE
+
+**Media:**
+- media `3_1857829265129222147` (details not returned by the API)
+
+
+---
+
+## 2024-11-06 · Post · I am looking for an XSS in any of these URLs. came across something interesting while writing the sc
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-11-06 17:44 UTC (2024-11-06 18:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1854218406415016348
+- Metrics (at fetch): bookmark 11, impression 6616, like 41, quote 0, reply 7, retweet 0
+
+> I am looking for an XSS in any of these URLs. came across something interesting while writing the script for the video. https://t.co/gtGlGCl7Ft
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GbuBhDLawAAbUB5.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-31 · Post · @NahamSec Pick a niche, become an expert, find bugs maybe even 0days or reverse n-days, and write bl
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @NahamSec — 2024-10-31 02:49 UTC (2024-10-31 03:49 WAT)
+
+- URL: https://x.com/NahamSec/status/1851818696685314160
+- Metrics (at fetch): not returned
+
+> Bug bounty hunters: What’s your advice for someone who’s trying to make their first $100,000 in 2025? What should they do/learn? What should they avoid?
+
+
+### Post — @S1r1u5_ — 2024-10-31 04:44 UTC (2024-10-31 05:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1851847815267582256
+- Metrics (at fetch): bookmark 1282, impression 156835, like 1184, quote 28, reply 27, retweet 257
+
+> @NahamSec Pick a niche, become an expert, find bugs maybe even 0days or reverse n-days, and write blogs. Even if you don’t hit those $100k bounties, it’ll be a stepping stone toward a $100k job.  
+>
+> What niche? How to pick? Examples? 
+>
+> infosec being so vast from web3 sec to web2, mobile,
+
+
+---
+
+## 2024-10-21 · Post · This.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2024-10-21 07:51 UTC (2024-10-21 08:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1848270943300559353
+- Metrics (at fetch): bookmark 17, impression 5049, like 59, quote 0, reply 1, retweet 1
+
+> This.
+>
+> I really want to dive into the V8 sandbox and find a bug. I’m super confident I could pull it off if I just spent enough time hunting for interesting on-heap bytecode or digging into type confusions in pointer tables.
+>
+> The thing is, I know I could find bugs—it’s just a https://t.co/t2t3PE9323
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2024-10-21 02:57 UTC (2024-10-21 03:57 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1848196974006186384
+    - Metrics (at fetch): bookmark 184, impression 70074, like 549, quote 9, reply 23, retweet 42
+    
+    > After a really long time only focused on manual web security stuff, almost everything has started to feel like a QA checklist. There are definitely people doing novel research and dropping crazy bugs, but I think a lot of the big stepping stones require people to build really
+    
+
+
+---
+
+## 2024-10-18 · Post · working on discord video and catching up with v8 exploitation. read some cool v8 sandbox bypass blog
+
+
+### Post — @S1r1u5_ — 2024-10-18 17:25 UTC (2024-10-18 18:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1847328248663028171
+- Metrics (at fetch): bookmark 3, impression 1855, like 23, quote 0, reply 1, retweet 0
+
+> working on discord video and catching up with v8 exploitation. read some cool v8 sandbox bypass blogs, it looks so fun. constant nagging from one part of brain to spend on it for a month or so to try to find a bypass and other part saying i am too slow to catch up.
+
+
+---
+
+## 2024-10-10 · Post · Are there any other cool or complex vulnerabilities you'd want to see broken down? 
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2024-10-10 03:46 UTC (2024-10-10 04:46 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1844223069151441115
+- Metrics (at fetch): not returned
+
+> Are there any other cool or complex vulnerabilities you'd want to see broken down? 
+>
+> Thinking about making a video on the Discord RCE we found a few years back👀
+> https://blog.electrovolt.io/posts/discord-rce/
+
+**Links in post:** https://blog.electrovolt.io/posts/discord-rce/
+
+
+---
+
+## 2024-10-08 · Post · MXSS Part 2: Why Client-Side HTML Sanitization is hard
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-10-08 11:31 UTC (2024-10-08 12:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1843615093512384666
+- Metrics (at fetch): not returned
+
+> MXSS Part 2: Why Client-Side HTML Sanitization is hard
+>
+> In this video, we dive into Parser Differentials, Namespace Confusion, and the Nesting Depth Limit that led to an XSS on Google and multiple DOMPurify bypasses.
+>
+> https://youtu.be/vVwo5tW6d3w [pic.x.com/0wJHIAPuW3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZXSwBbasAEXauz.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/vVwo5tW6d3w
+
+
+---
+
+## 2024-09-30 · Post · MXSS Explained Part 1: Why Server-Side HTML Sanitizers Are Doomed to Fail with this XSS!
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-09-30 14:07 UTC (2024-09-30 15:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1840755301378916612
+- Metrics (at fetch): not returned
+
+> MXSS Explained Part 1: Why Server-Side HTML Sanitizers Are Doomed to Fail with this XSS!
+>
+> In this video, I dive into how sanitizers work, discuss the first known MXSS in IE, and showcase an MXSS vulnerability in the popular Node.js module, sanitize-html.
+>
+> https://youtu.be/aczTceXp49U [pic.x.com/t7YRQhtGsH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYusFmjaYAA9H81.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/aczTceXp49U
+
+
+---
+
+## 2024-09-10 · Post · Intro to Hacking 0x3: Bug Bounties, Client and Servers, XSS | తెలుగు
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-09-10 03:00 UTC (2024-09-10 04:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1833339624862671308
+- Metrics (at fetch): not returned
+
+> Intro to Hacking 0x3: Bug Bounties, Client and Servers, XSS | తెలుగు
+>
+> A small bug bounty story, how clients &amp; servers work, and a breakdown of XSS, its introduction, fixes, and variants!
+>
+> https://youtu.be/LRBrUzIFW_8?si=H1uo11no6hWhzCXM
+
+**Links in post:** https://youtu.be/LRBrUzIFW_8?si=H1uo11no6hWhzCXM
+
+
+---
+
+## 2024-09-09 · Post · what an incredible challenge.
+
+
+### Post — @S1r1u5_ — 2024-09-09 05:54 UTC (2024-09-09 06:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1833021050856054947
+- Metrics (at fetch): not returned
+
+> what an incredible challenge.
+>
+> Browsers are so complex and specs run so deep. 
+> like a maze, they always give bugs to the one who tries hard to seek.
+>
+> Recently, the Dompurify bypass with max nesting is an example of that. https://github.com/cure53/DOMPurify/releases?page=2
+> Just noticed the bypass was found https://twitter.com/aszx87410/status/1832343101576192485
+
+**Links in post:** https://github.com/cure53/DOMPurify/releases?page=2, https://twitter.com/aszx87410/status/1832343101576192485
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4731524647 — 2024-09-07 09:00 UTC (2024-09-07 10:00 WAT)
+    
+    - URL: https://x.com/4731524647/status/1832343101576192485
+    - Metrics (at fetch): not returned
+    
+    > there is a challenge in idekCTF 2024 called srcdoc-memos made by icesfont, it's about iframe, sandbox, CSP, navigation, session history and policy container. 
+    >
+    > I spent like a week to understand how it works lol, really complex but also interesting.
+    >
+    > https://blog.huli.tw/2024/09/07/en/idek-ctf-2024-iframe/
+    
+    **Links in post:** https://blog.huli.tw/2024/09/07/en/idek-ctf-2024-iframe/
+    
+
+
+---
+
+## 2024-09-09 · Post · what an incredible challenge.
+
+
+### Post — @S1r1u5_ — 2024-09-09 05:52 UTC (2024-09-09 06:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1833020679819518341
+- Metrics (at fetch): not returned
+
+> what an incredible challenge.
+>
+> Browsers are so complex and specs run so deep. 
+> like a maze, they always give bugs to the one who tries hard to seek.
+>
+> Recently, the Dompurify bypass with max nesting is an example of that. https://github.com/cure53/DOMPurify/releases?page=2
+> Just noticed the bypass was found https://t.co/kKC1T7skgJ
+
+**Links in post:** https://github.com/cure53/DOMPurify/releases?page=2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4731524647 — 2024-09-07 09:00 UTC (2024-09-07 10:00 WAT)
+    
+    - URL: https://x.com/4731524647/status/1832343101576192485
+    - Metrics (at fetch): not returned
+    
+    > there is a challenge in idekCTF 2024 called srcdoc-memos made by icesfont, it's about iframe, sandbox, CSP, navigation, session history and policy container. 
+    >
+    > I spent like a week to understand how it works lol, really complex but also interesting.
+    >
+    > https://blog.huli.tw/2024/09/07/en/idek-ctf-2024-iframe/
+    
+    **Links in post:** https://blog.huli.tw/2024/09/07/en/idek-ctf-2024-iframe/
+    
+
+
+---
+
+## 2024-09-07 · Post · Hehe, next XSS video's animation. [pic.x.com/7DQcCY3mXS]
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-09-07 15:08 UTC (2024-09-07 16:08 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1832435697946653070
+- Metrics (at fetch): not returned
+
+> Hehe, next XSS video's animation. [pic.x.com/7DQcCY3mXS]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-09-06 · Post · Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder G
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2024-09-06 02:51 UTC (2024-09-06 03:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1831887896040898790
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder Guys we got our lame xss got paid already
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2024-09-06 · Post · Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder G
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2024-09-06 02:09 UTC (2024-09-06 03:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1831877281704505517
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder Guys we got out lame xss got paid already
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2024-09-05 · Post · The Plan was to find an XSS, report to @Hacker0x01, and make the next video. Reported easy-to-find h
+
+
+Tags (automatic): XSS, CSP / CSPT, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2024-09-05 04:19 UTC (2024-09-05 05:19 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1831547648308080756
+- Metrics (at fetch): not returned
+
+> The Plan was to find an XSS, report to @Hacker0x01, and make the next video. Reported easy-to-find href XSS but CSP😐, will continue finding, but if not will be an introduction to CSP
+
+
+---
+
+## 2024-09-04 · Post · lol making funny animations, this for xss and sop [pic.x.com/ZpUbzdDRdj] https://twitter.com/s1r1u5_
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-09-04 08:13 UTC (2024-09-04 09:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1831244230557417732
+- Metrics (at fetch): not returned
+
+> lol making funny animations, this for xss and sop [pic.x.com/ZpUbzdDRdj] https://twitter.com/s1r1u5_/status/1830980890694164679
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+- video:  — no alt text provided by author
+
+**Links in post:** https://twitter.com/s1r1u5_/status/1830980890694164679
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2024-09-03 14:47 UTC (2024-09-03 15:47 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1830980890694164679
+    - Metrics (at fetch): not returned
+    
+    > Intro to Hacking 0x02: Same-Origin Policy | XSS 101 | Telugu | తెలుగు
+    >
+    > Discussing basics of browsers, Same-Origin Policy, SOP Bypass and XSS
+    >
+    > Added English subtitles this time.
+    > https://youtu.be/XUH3Cnu3MNM
+    
+    **Links in post:** https://youtu.be/XUH3Cnu3MNM
+    
+
+
+---
+
+## 2024-09-03 · Post · Intro to Hacking 0x02: Same-Origin Policy | XSS 101 | Telugu | తెలుగు
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-09-03 14:47 UTC (2024-09-03 15:47 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1830980890694164679
+- Metrics (at fetch): not returned
+
+> Intro to Hacking 0x02: Same-Origin Policy | XSS 101 | Telugu | తెలుగు
+>
+> Discussing basics of browsers, Same-Origin Policy, SOP Bypass and XSS
+>
+> Added English subtitles this time.
+> https://youtu.be/XUH3Cnu3MNM
+
+**Links in post:** https://youtu.be/XUH3Cnu3MNM
+
+
+---
+
+## 2024-09-01 · Post · Learned a bit of animation, video editing, photoshop to create some Infosec content in telugu. Here 
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-09-01 11:16 UTC (2024-09-01 12:16 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1830203097693769970
+- Metrics (at fetch): not returned
+
+> Learned a bit of animation, video editing, photoshop to create some Infosec content in telugu. Here is my first video, will be exploring xss in next videos.
+>
+> Intro to hacking: 0x01 Trailer |  in తెలుగు
+>
+> https://youtu.be/OYbRgPQkAtY
+>
+> btw, I didn’t forgot this below tweet. https://twitter.com/S1r1u5_/status/1741533719515787627
+
+**Links in post:** https://youtu.be/OYbRgPQkAtY, https://twitter.com/S1r1u5_/status/1741533719515787627
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2023-12-31 18:56 UTC (2023-12-31 19:56 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1741533719515787627
+    - Metrics (at fetch): not returned
+    
+    > And I feel like someone in some rural area, a guy like me is waiting for the spark to start the fire. With a sense of responsibility and gratitude for my fortunate position, I will spend more time on creating content and helping people who reach out.
+    
+
+
+---
+
+## 2024-08-26 · Post · Running thoughts:
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-08-26 16:31 UTC (2024-08-26 17:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1828108095941460380
+- Metrics (at fetch): not returned
+
+> Running thoughts:
+> Is it possible to develop an XSS-free(almost) browser? 
+>
+> I thought, SRI checks, but for the whole JS snapshot of the site. New code is being injected, but won't execute, because the hash changed.
+>
+> What can go wrong? Performance? restricts dynamic JS? What are
+
+
+---
+
+## 2024-08-20 · Post · I am unsure if I should spend $40 to test a bug on @perplexity_ai. It's a hunch, probably nothing, p
+
+
+### Post — @S1r1u5_ — 2024-08-20 09:30 UTC (2024-08-20 10:30 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1825827697123057825
+- Metrics (at fetch): not returned
+
+> I am unsure if I should spend $40 to test a bug on @perplexity_ai. It's a hunch, probably nothing, plus it's a VDP.
+
+
+---
+
+## 2023-12-31 · Post · And I feel like someone in some rural area, a guy like me is waiting for the spark to start the fire
+
+
+### Post — @S1r1u5_ — 2023-12-31 18:56 UTC (2023-12-31 19:56 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1741533719515787627
+- Metrics (at fetch): not returned
+
+> And I feel like someone in some rural area, a guy like me is waiting for the spark to start the fire. With a sense of responsibility and gratitude for my fortunate position, I will spend more time on creating content and helping people who reach out.
+
+
+---
+
+## 2020-12-31 · Post · Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I w
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2020-12-31 21:50 UTC (2020-12-31 22:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1344762866881105920
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 1, retweet 0
+
+> Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I worked along with awesome people and made friends, gave my first talk at BountyCon, top 10 in my favorite programs on HackerOne, and earned more than my goal. https://t.co/k2ognC7IcT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2020-12-31 14:39 UTC (2020-12-31 15:39 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1344654506638786562
+    - Metrics (at fetch): bookmark 0, impression 0, like 36, quote 1, reply 0, retweet 0
+    
+    > What a fantastic year(for me)!!
+    
+
+
+---
+
+## 2020-12-31 · Post · What a fantastic year(for me)!!
+
+
+### Post — @S1r1u5_ — 2020-12-31 14:39 UTC (2020-12-31 15:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1344654506638786562
+- Metrics (at fetch): bookmark 0, impression 0, like 36, quote 1, reply 0, retweet 0
+
+> What a fantastic year(for me)!!
+
+
+---
+
+## 2020-12-27 · Post · This is an awesome bug.
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-12-27 16:00 UTC (2020-12-27 17:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1343225344313024521
+- Metrics (at fetch): bookmark 2, impression 0, like 27, quote 0, reply 0, retweet 2
+
+> This is an awesome bug.
+>
+> iirc, I had made an XSS challenge similar to this and its based on a bug I found on private program. https://t.co/WMioPG6y1O https://t.co/mPhMVuTFmM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @952234523965575168 — 2020-12-27 14:15 UTC (2020-12-27 15:15 WAT)
+    
+    - URL: https://x.com/952234523965575168/status/1343198834529202176
+    - Metrics (at fetch): bookmark 67, impression 0, like 315, quote 2, reply 10, retweet 89
+    
+    > Writeup : Hijacking Google Docs Screenshot @GoogleVRP
+    >
+    > Thanks to @filedescriptor &amp; @S1r1u5_
+    > https://t.co/YldyDt7Pzm
+    
+
+
+---
+
+## 2020-12-23 · Post · Here is the detailed blog for the bug,
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2020-12-23 11:17 UTC (2020-12-23 12:17 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1341704398976606208
+- Metrics (at fetch): bookmark 76, impression 0, like 249, quote 1, reply 0, retweet 103
+
+> Here is the detailed blog for the bug,
+>
+> "Cookie Tossing to RCE on Google Cloud JupyterLab" 
+>
+> https://t.co/5fgB08vfXt
+>
+> https://t.co/woHphLU7kC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2352887570 — 2020-12-23 11:09 UTC (2020-12-23 12:09 WAT)
+    
+    - URL: https://x.com/2352887570/status/1341702530317709314
+    - Metrics (at fetch): bookmark 41, impression 0, like 243, quote 2, reply 0, retweet 70
+    
+    > Find an XSS on an out-of-scope/sandboxed domain? Check how Cookie Tossing helps demonstrate the impact in this new @0xReconless video! Featuring @S1r1u5_'s bug on Google AI Hub where he abused a hidden feature in Tornado Web Server on JupyterLab.
+    >
+    > https://t.co/eUrnFRf01n
+    
+
+
+---
+
+## 2020-12-20 · Post · hxpctf is fun, I found an XSS with interaction for hackme(hackmd).
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-12-20 15:14 UTC (2020-12-20 16:14 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1340676942643621892
+- Metrics (at fetch): bookmark 1, impression 0, like 30, quote 0, reply 0, retweet 1
+
+> hxpctf is fun, I found an XSS with interaction for hackme(hackmd).
+> Apparently, I found an issue in lightbox and it turns out to be an 0day(maybe).
+>
+> https://t.co/xXSIW97609
+
+
+---
+
+## 2020-12-07 · Post · pbctf web challenges are so good, I solved ikea-name-generator, and most of the time I spend on solv
+
+
+### Post — @S1r1u5_ — 2020-12-07 09:33 UTC (2020-12-07 10:33 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1335879974734086145
+- Metrics (at fetch): bookmark 1, impression 0, like 27, quote 0, reply 0, retweet 2
+
+> pbctf web challenges are so good, I solved ikea-name-generator, and most of the time I spend on solving simple-note(couldn't solve) which is reproducing CVE-2020-11984. https://t.co/AUJOHHNZfX https://t.co/5z7gZxxAIu
+
+**Quoted post (full text):**
+
+    #### Quoted post — @848203531521736704 — 2020-12-07 00:25 UTC (2020-12-07 01:25 WAT)
+    
+    - URL: https://x.com/848203531521736704/status/1335742085446524930
+    - Metrics (at fetch): bookmark 0, impression 0, like 70, quote 1, reply 4, retweet 6
+    
+    > We won pbctf 2020🥳
+    > The tasks are really hard and we learned a lot! Thank you @pb_ctf for hosting the amazing CTF! https://t.co/DO6zKWg9Px
+    
+    **Media:**
+    - media `3_1335741586399891456` (details not returned by the API)
+    
+
+
+---
+
+## 2020-11-10 · Post · Is MSc in Information/Cyber Security in the USA worth it? I have to spend all my hard-earned bug bou
+
+
+### Post — @S1r1u5_ — 2020-11-10 13:36 UTC (2020-11-10 14:36 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1326156666501410816
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 0, reply 4, retweet 0
+
+> Is MSc in Information/Cyber Security in the USA worth it? I have to spend all my hard-earned bug bounty money on it. Indian Appsec scene is lame and I am afraid that I can't find a role I am interested in. Please throw some light.

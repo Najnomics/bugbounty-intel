@@ -1360,7 +1360,7 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @1511770076738990082 — 2023-11-29 07:58 UTC (2023-11-29 08:58 WAT)
     
     - URL: https://x.com/1511770076738990082/status/1729771762752135463
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 25, impression 548527, like 648, quote 189, reply 79, retweet 330
     
     > Our frontend is currently compromised. Please do not interact with Velodrome for the time being. The team are investigating and will communicate more here when we have it.
     

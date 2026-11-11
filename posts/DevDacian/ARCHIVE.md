@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 210
-- Conversations/threads: 206
+- Posts in this file: 268
+- Conversations/threads: 264
 - Oldest post captured: 2023-10-09
 - Newest post captured: 2026-11-09
 
@@ -4633,6 +4633,1268 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GpnMBYIaAAAzWQH.png — no alt text provided by author
+
+
+---
+
+## 2025-04-22 · Post · An interesting thread. Not sure I agree with every point but interesting none the less.
+
+
+### Post — @DevDacian — 2025-04-22 22:19 UTC (2025-04-22 23:19 WAT)
+
+- URL: https://x.com/DevDacian/status/1914806239001026746
+- Metrics (at fetch): bookmark 15, impression 8445, like 50, quote 0, reply 2, retweet 1
+
+> An interesting thread. Not sure I agree with every point but interesting none the less.
+>
+> For audit firms, there is a real downside to having your full-time auditors compete in audit contests - when putting forward auditors for audit deals, contest platforms re-package firm https://t.co/j3en1Xq4hm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2025-04-22 20:29 UTC (2025-04-22 21:29 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1914778524956709074
+    - Metrics (at fetch): bookmark 89, impression 115446, like 280, quote 29, reply 12, retweet 55
+    
+    > How to spot misleading audit competition metrics
+    >
+    > Competitions are crowdsourced audits, where auditors compete to find bugs in a set timeframe. Last year, we acquired @code4rena which does these.
+    >
+    > We've also seen tons of misleading sales pitches. Here's what to watch out for: 🧵
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GpKnnp-WsAAoQGo.png — no alt text provided by author
+    
+
+
+---
+
+## 2025-04-21 · Post · Q) How do you use @SoloditOfficial ?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-04-21 12:21 UTC (2025-04-21 13:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1914293353619034175
+- Metrics (at fetch): bookmark 60, impression 3265, like 85, quote 1, reply 4, retweet 3
+
+> Q) How do you use @SoloditOfficial ?
+>
+> I use Solodit to either:
+> 1) study all the known permutations for a particular bug class
+> 2) get attack ideas for a protocol type I'm currently auditing
+>
+> When I wrote my Liquidation Vulnerabilities Deep Dive I used Solodit like this:
+>
+> 1⃣
+
+
+---
+
+## 2025-04-19 · Post · Web3 ways to get bug bounty:
+
+
+### Post — @DevDacian — 2025-04-19 12:17 UTC (2025-04-19 13:17 WAT)
+
+- URL: https://x.com/DevDacian/status/1913567651722571968
+- Metrics (at fetch): bookmark 18, impression 7486, like 51, quote 0, reply 9, retweet 5
+
+> Web3 ways to get bug bounty:
+>
+> 1) Hack Then Negotiate - protocols offer 10% Safe Harbor Bounty if 90% returned
+>
+> 2) Report &amp; Be At Mercy - researcher shares finding with protocol/platform &amp; is at their mercy
+>
+> Which strategy do protocols incentivize via their behavior &amp; payouts?
+
+
+---
+
+## 2025-04-19 · Post · Should the banking industry adopt as standard industry practice when a bank robber steals millions, 
+
+
+### Post — @DevDacian — 2025-04-19 03:17 UTC (2025-04-19 04:17 WAT)
+
+- URL: https://x.com/DevDacian/status/1913431804729868430
+- Metrics (at fetch): bookmark 0, impression 5960, like 16, quote 2, reply 7, retweet 0
+
+> Should the banking industry adopt as standard industry practice when a bank robber steals millions, the bank offers 10% "Safe Harbor/Bug Bounty" if the robber returns 90%?
+>
+> The bank gets most of the money back fast, but this may incentivize future robbers.
+
+
+---
+
+## 2025-04-18 · Post · 💡3 Ways @cyfrin Auditors Upskill💡
+
+
+### Post — @DevDacian — 2025-04-18 11:17 UTC (2025-04-18 12:17 WAT)
+
+- URL: https://x.com/DevDacian/status/1913190196390035954
+- Metrics (at fetch): bookmark 11, impression 2082, like 65, quote 0, reply 2, retweet 1
+
+> 💡3 Ways @cyfrin Auditors Upskill💡
+>
+> 1⃣ Work with hand-picked expert contractors on particular niche tech required for every audit
+>
+> 2⃣ Weekly 1-hour Knowledge Share where auditors show how they found their best findings
+>
+> 3⃣ 20% paid research time
+>
+> Always improving 🚀
+
+
+---
+
+## 2025-04-16 · Post · When I was only an auditor, the best part of my job was finding sweet high impact findings.
+
+
+### Post — @DevDacian — 2025-04-16 11:06 UTC (2025-04-16 12:06 WAT)
+
+- URL: https://x.com/DevDacian/status/1912462619480584603
+- Metrics (at fetch): bookmark 8, impression 3938, like 122, quote 0, reply 7, retweet 4
+
+> When I was only an auditor, the best part of my job was finding sweet high impact findings.
+>
+> As Audit Team Leader I'm still auditing, still producing sick findings, still writing stacked reports - but the best part of my job has become creating opportunities for other auditors to
+
+
+---
+
+## 2025-04-15 · Post · As Audit Team Leader I implemented a system to track &amp; analyze important audit team/individual m
+
+
+### Post — @DevDacian — 2025-04-15 11:00 UTC (2025-04-15 12:00 WAT)
+
+- URL: https://x.com/DevDacian/status/1912098591247880318
+- Metrics (at fetch): bookmark 7, impression 3467, like 61, quote 0, reply 8, retweet 2
+
+> As Audit Team Leader I implemented a system to track &amp; analyze important audit team/individual metrics.
+>
+> It shows in Q1 we lost 8.5% of our available audit days due to last-minute delays from clients not being ready on the agreed start day.
+>
+> Curious how others manage this?
+
+
+---
+
+## 2025-04-11 · Post · While I wasn't on this audit myself, I did sit in during the on-boarding call.
+
+
+### Post — @DevDacian — 2025-04-11 08:43 UTC (2025-04-11 09:43 WAT)
+
+- URL: https://x.com/DevDacian/status/1910614684002312203
+- Metrics (at fetch): bookmark 1, impression 1280, like 12, quote 0, reply 0, retweet 0
+
+> While I wasn't on this audit myself, I did sit in during the on-boarding call.
+>
+> Was very impressed with the attitude, diligence, design/architecture and security efforts implemented by the Dolomite team prior to external audit! https://twitter.com/Dolomite_io/status/1910588644769095854
+
+**Links in post:** https://twitter.com/Dolomite_io/status/1910588644769095854
+
+**Quoted post (full text):**
+
+    #### Quoted post — @990716955236749312 — 2025-04-11 07:00 UTC (2025-04-11 08:00 WAT)
+    
+    - URL: https://x.com/990716955236749312/status/1910588644769095854
+    - Metrics (at fetch): bookmark 1, impression 5889, like 57, quote 1, reply 2, retweet 8
+    
+    > Our "Proof of Liquidity Integration" audit by @cyfrin just came back.
+    >
+    > 🥂 Cheers to our dev team on the quality work.
+    >
+    > 🅱️erabundance 🅱️egins. [pic.x.com/wkPGnagb0u]
+    
+    **Media:**
+    - media `3_1910588642005049349` (details not returned by the API)
+    
+
+
+---
+
+## 2025-04-09 · Post · A very common gas bug is using the `memory` keyword and copying a huge struct from `storage` to `mem
+
+
+### Post — @DevDacian — 2025-04-09 09:10 UTC (2025-04-09 10:10 WAT)
+
+- URL: https://x.com/DevDacian/status/1909896703916089803
+- Metrics (at fetch): bookmark 28, impression 3000, like 74, quote 0, reply 2, retweet 5
+
+> A very common gas bug is using the `memory` keyword and copying a huge struct from `storage` to `memory`, then only reading one or two fields.
+>
+> Please don't do this - just use a storage reference or copy only the fields needed! #gasbad [pic.x.com/s8hWgBHM8T]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GoFQgoFagAMWOuW.png — no alt text provided by author
+
+
+---
+
+## 2025-04-08 · Post · For Eagles/contractors working with Cyfrin, I do my best to ensure you are paid either slightly befo
+
+
+### Post — @DevDacian — 2025-04-08 11:38 UTC (2025-04-08 12:38 WAT)
+
+- URL: https://x.com/DevDacian/status/1909571487297847324
+- Metrics (at fetch): bookmark 1, impression 7597, like 76, quote 1, reply 7, retweet 2
+
+> For Eagles/contractors working with Cyfrin, I do my best to ensure you are paid either slightly before audit finishes or on last working day.
+>
+> This has been the case in all but 1 audit so far. I want to make working with Cyfrin a great experience for everyone who works with us!
+
+
+---
+
+## 2025-04-04 · Post · What is your primary motivation for auditing / bug bounty etc?
+
+
+### Post — @DevDacian — 2025-04-04 08:39 UTC (2025-04-04 09:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1908077068752957657
+- Metrics (at fetch): bookmark 0, impression 1484, like 11, quote 0, reply 5, retweet 0
+
+> What is your primary motivation for auditing / bug bounty etc?
+
+
+---
+
+## 2025-04-04 · Post · We audited this cool, useful &amp; near-stateless contract which allows seamless one-txn refinancing
+
+
+### Post — @DevDacian — 2025-04-04 01:08 UTC (2025-04-04 02:08 WAT)
+
+- URL: https://x.com/DevDacian/status/1907963492768117024
+- Metrics (at fetch): bookmark 8, impression 1644, like 19, quote 0, reply 3, retweet 0
+
+> We audited this cool, useful &amp; near-stateless contract which allows seamless one-txn refinancing between Morpho, Compound &amp; Aave.
+>
+> Also wrote a fork-fuzzing test suite which they merged! As part of this I also found an interesting "leak" edge-case bug reported to Aave! Links👇 https://twitter.com/rockodefi/status/1907478321731875324
+
+**Links in post:** https://twitter.com/rockodefi/status/1907478321731875324
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1696647141937008640 — 2025-04-02 17:00 UTC (2025-04-02 18:00 WAT)
+    
+    - URL: https://x.com/1696647141937008640/status/1907478321731875324
+    - Metrics (at fetch): bookmark 4, impression 5478, like 14, quote 1, reply 0, retweet 4
+    
+    > Stuck with an interest rate you don't love but don't have the capital to repay your loan? With Rocko ReFi you can easily refinance to a new rate in seconds while keeping the borrowed funds from your original loan. Powered by @MorphoLabs flash loans, Rocko ReFi is fast, efficient, [pic.x.com/6SdtsWPR0S]
+    
+    **Media:**
+    - media `7_1907478199644094464` (details not returned by the API)
+    
+
+
+---
+
+## 2025-03-31 · Post · Q1 @cyfrin private audit clients included huge names like:
+
+
+### Post — @DevDacian — 2025-03-31 09:18 UTC (2025-03-31 10:18 WAT)
+
+- URL: https://x.com/DevDacian/status/1906637238945128452
+- Metrics (at fetch): bookmark 6, impression 4307, like 114, quote 1, reply 5, retweet 5
+
+> Q1 @cyfrin private audit clients included huge names like:
+>
+> * Metamask x2
+> * Wormhole
+> * Linea
+> * StakeDotLink x2
+> * Dolomite
+> * PancakeSwap
+> * Benqi
+> * TradFi1 AUM ~$1T
+> * TradFi2 x2 AUM 🤯
+>
+> Most of these were happy returning clients; we also did audits for many new protocols 🚀
+
+
+---
+
+## 2025-03-28 · Post · We've started getting audit quote requests for "vibe coded" AI-generated smart contracts.
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-03-28 15:09 UTC (2025-03-28 16:09 WAT)
+
+- URL: https://x.com/DevDacian/status/1905638353133047990
+- Metrics (at fetch): bookmark 5, impression 25015, like 184, quote 2, reply 12, retweet 12
+
+> We've started getting audit quote requests for "vibe coded" AI-generated smart contracts.
+>
+> I can confidently say that this trend is a positive for our industry which will keep us gainfully employed for many years to come!
+>
+> Please send us all your vibe coded contracts for audit!
+
+
+---
+
+## 2025-03-28 · Post · What is the reasonable, all-inclusive price range a client should expect to pay a top firm or platfo
+
+
+### Post — @DevDacian — 2025-03-28 09:22 UTC (2025-03-28 10:22 WAT)
+
+- URL: https://x.com/DevDacian/status/1905551176139243981
+- Metrics (at fetch): bookmark 4, impression 3300, like 10, quote 0, reply 3, retweet 1
+
+> What is the reasonable, all-inclusive price range a client should expect to pay a top firm or platform for 3 proven &amp; skilled auditors to audit 1000 nSLOC for 5 working days?
+
+
+---
+
+## 2025-03-26 · Post · With our @cyfrin Auditors and @CodeHawks Eagles, we've built an absolutely STACKED team of proven &a
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @DevDacian — 2025-03-26 12:40 UTC (2025-03-26 13:40 WAT)
+
+- URL: https://x.com/DevDacian/status/1904876129951138229
+- Metrics (at fetch): bookmark 12, impression 3238, like 95, quote 0, reply 6, retweet 5
+
+> With our @cyfrin Auditors and @CodeHawks Eagles, we've built an absolutely STACKED team of proven &amp; skilled auditors who can audit:
+>
+> * Solidity/Vyper (EVM)
+> * Rust (Solana, Near, ZK)
+> * Cosmwasm (Injective, Mantra)
+> * Move (Aptos, Sui, Movement)
+>
+> Cyfrin doing it all! 🚀
+
+
+---
+
+## 2025-03-25 · Post · Shout out to @Ubermensh3dot0 great performance on Rust/ZK audit for institutional banking client, fi
+
+
+Tags (automatic): Race condition, ZK
+
+
+### Post — @DevDacian — 2025-03-25 11:29 UTC (2025-03-25 12:29 WAT)
+
+- URL: https://x.com/DevDacian/status/1904495975629984014
+- Metrics (at fetch): bookmark 6, impression 2332, like 36, quote 1, reply 3, retweet 1
+
+> Shout out to @Ubermensh3dot0 great performance on Rust/ZK audit for institutional banking client, finding:
+>
+> * (zk) multiple compliance check bypasses due to under-constrained circuits
+> * (zk) DoS due to over-constrained circuit
+> * (rust) incorrect updates due to race condition [pic.x.com/ZNBxKn0wZe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm4fcMzaoAA_DGX.png — no alt text provided by author
+
+
+---
+
+## 2025-03-24 · Post · Wrapped up very interesting TradFi private audit for bank with ~$1T AUM; even though system was sup
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-03-24 12:02 UTC (2025-03-24 13:02 WAT)
+
+- URL: https://x.com/DevDacian/status/1904141767932338630
+- Metrics (at fetch): bookmark 2, impression 4131, like 50, quote 1, reply 2, retweet 2
+
+> Wrapped up very interesting #TradFi private audit for bank with ~$1T AUM; even though system was super locked down, @cyfrin  produced great findings providing tons of value.
+>
+> Looking forward to working with more institutional banking clients building smart contracts! 🚀 [pic.x.com/zRdLlpLDA7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmzdWYQbAAAtLZx.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GmzeOrnbUAARCof.png — no alt text provided by author
+
+
+---
+
+## 2025-03-17 · Post · 💡 The @YieldoorFi Gas Optimizoor 💡
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584167382716740
+- Metrics (at fetch): bookmark 77, impression 6723, like 101, quote 0, reply 3, retweet 10
+
+> 💡 The @YieldoorFi Gas Optimizoor 💡
+>
+> 9 Tips plus full deep dive showing how I reduced:
+> * overall gas costs by 15.43%
+> * liquidation function gas costs by 13.21% -&gt; 16.91%
+>
+> Plus how gas optimization could have netted you 2 High findings in Yieldoor's recent audit contest 👇
+
+
+---
+
+## 2025-03-13 · Post · Shout out to @giovannidisiena &amp; @Draiakoo who finished a very successful @cyfrin Uniswap V4 Hook
+
+
+### Post — @DevDacian — 2025-03-13 11:44 UTC (2025-03-13 12:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1900150862212690055
+- Metrics (at fetch): bookmark 6, impression 4506, like 82, quote 2, reply 9, retweet 5
+
+> Shout out to @giovannidisiena &amp; @Draiakoo who finished a very successful @cyfrin Uniswap V4 Hooks integration private audit with:
+>
+> 3⃣ Critical
+> 9⃣ High
+> 7⃣ Medium
+> 7⃣ Low
+> 6⃣ Info
+> 6⃣ Gas
+>
+> Report to be released when project launches. DM for amazing Uniswap V4 Hooks audits!
+
+
+---
+
+## 2025-03-10 · Post · Q) What is your approach for any codebase audit?
+
+
+### Post — @DevDacian — 2025-03-10 10:58 UTC (2025-03-10 11:58 WAT)
+
+- URL: https://x.com/DevDacian/status/1899052146668323255
+- Metrics (at fetch): bookmark 155, impression 8220, like 144, quote 3, reply 8, retweet 23
+
+> Q) What is your approach for any codebase audit?
+>
+> It isn't exactly this linear but:
+>
+> 1⃣ Pre-Audit Study: a few days before the audit reading available docs, researching similar protocols, making notes about expected protocol entities, black-box invariants and vuln types for that
+
+
+---
+
+## 2025-03-05 · Post · Q) What 10 personality traits most excel at auditing?
+
+
+### Post — @DevDacian — 2025-03-05 09:14 UTC (2025-03-05 10:14 WAT)
+
+- URL: https://x.com/DevDacian/status/1897214108254265808
+- Metrics (at fetch): bookmark 41, impression 5956, like 122, quote 1, reply 12, retweet 12
+
+> Q) What 10 personality traits most excel at auditing?
+>
+> 1⃣ independent critical thinker
+> 2⃣ no need to belong to group or follow crowd
+> 3⃣ not easily persuaded, especially by authority claims
+> 4⃣ very logical mindset
+> 5⃣ "don't trust, verify" personality
+> 6⃣ attention to small details
+
+
+---
+
+## 2025-02-27 · Post · Sad to see such rage against @pashov for giving interns real-world private audit work experience &am
+
+
+### Post — @DevDacian — 2025-02-27 08:51 UTC (2025-02-27 09:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1895034011954851907
+- Metrics (at fetch): bookmark 11, impression 15290, like 234, quote 2, reply 24, retweet 6
+
+> Sad to see such rage against @pashov for giving interns real-world private audit work experience &amp; mentoring.
+>
+> Many newbie auditors offer to work with me for free just to learn but I'm way too busy to mentor anyone individually.
+>
+> The interns should really be paying Pashov!
+
+
+---
+
+## 2025-02-24 · Post · 💡Simple yet effective Heuristic💡
+
+
+### Post — @DevDacian — 2025-02-24 10:15 UTC (2025-02-24 11:15 WAT)
+
+- URL: https://x.com/DevDacian/status/1893968033506328858
+- Metrics (at fetch): bookmark 17, impression 2194, like 54, quote 1, reply 2, retweet 2
+
+> 💡Simple yet effective Heuristic💡
+>
+> Q) What happens if the same function is called twice with identical inputs?
+>
+> One of today's private audit findings - the same module can be enabled multiple times on the same instrument, leading to registry corruption for `TRACKING` modules
+
+
+---
+
+## 2025-02-14 · Post · Greatest thing about web3 is so many games to play.
+
+
+### Post — @DevDacian — 2025-02-14 09:52 UTC (2025-02-14 10:52 WAT)
+
+- URL: https://x.com/DevDacian/status/1890338270242042083
+- Metrics (at fetch): bookmark 18, impression 4130, like 84, quote 2, reply 4, retweet 8
+
+> Greatest thing about #web3 is so many games to play.
+>
+> Bug bounty, audit contest, private audits, dev/test, MEV, biz dev, marketing, sales..
+>
+> Find your favorite game, get really good at it and be rewarded with big $ and very enjoyable life!
+>
+> Really amazing &amp; wonderful space!
+
+
+---
+
+## 2025-02-13 · Post · Shout out to @TheBlockChainer who put in valuable work helping out on a Cyfrin private audit.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-02-13 13:44 UTC (2025-02-13 14:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1890034376643371163
+- Metrics (at fetch): bookmark 2, impression 10526, like 40, quote 2, reply 1, retweet 1
+
+> Shout out to @TheBlockChainer who put in valuable work helping out on a Cyfrin private audit.
+>
+> This audit had a lot of tricky external integrations and @TheBlockChainer was a test writing machine helping us to get those integrations tested and finding some great bugs! 🫡
+
+
+---
+
+## 2025-02-12 · Post · Was staring at one big function most of the day, patiently working through thinking had to be a bug 
+
+
+### Post — @DevDacian — 2025-02-12 13:39 UTC (2025-02-12 14:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1889670549879792097
+- Metrics (at fetch): bookmark 12, impression 3082, like 93, quote 1, reply 7, retweet 2
+
+> Was staring at one big function most of the day, patiently working through thinking had to be a bug because of the complexity.
+>
+> Even re-wrote parts to simplify &amp; better understand it.
+>
+> Found a weird edge case &amp; wrote a PoC which proves it.
+>
+> Persistence paid off, feels good! https://t.co/NiY9od1zZq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gjl1BNEaIAAWry6.png — no alt text provided by author
+
+
+---
+
+## 2025-02-11 · Post · In the last 2 weeks we've had 2 clients invite us to private code repos for audit where their privat
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-02-11 09:27 UTC (2025-02-11 10:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1889244735291949531
+- Metrics (at fetch): bookmark 10, impression 3055, like 46, quote 2, reply 1, retweet 3
+
+> In the last 2 weeks we've had 2 clients invite us to private code repos for audit where their private keys to addresses containing funds were exposed.
+>
+> Last year the #1 #DeFi attack vector was Stolen Private Keys.
+>
+> How do we fix this? https://t.co/ZZHV3QaYUK
+
+**Quoted post (full text):**
+
+    #### Quoted post — @172530887 — 2024-11-11 06:08 UTC (2024-11-11 07:08 WAT)
+    
+    - URL: https://x.com/172530887/status/1855855006219690233
+    - Metrics (at fetch): bookmark 104, impression 33752, like 187, quote 19, reply 9, retweet 47
+    
+    > Top 10 DeFi Attack Vectors - 2024 (@summit_defi edition) https://t.co/dZeFjpwqCx
+    
+    **Media:**
+    - media `3_1855845513092116480` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-10 · Post · Many severe Crit/High vulns can be traced back to 1 faulty line of code.
+
+
+### Post — @DevDacian — 2025-02-10 11:00 UTC (2025-02-10 12:00 WAT)
+
+- URL: https://x.com/DevDacian/status/1888905764867277204
+- Metrics (at fetch): bookmark 54, impression 4632, like 109, quote 0, reply 6, retweet 5
+
+> Many severe Crit/High vulns can be traced back to 1 faulty line of code.
+>
+> Auditor's job is to find diamonds hidden within the giant nSLOC haystack.
+>
+> Every line which looks innocent could actually be the diamond you are searching for!
+>
+> 5 examples from my current private audit: https://t.co/5rKmNPkClm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GjaR4JhaYAA2_-_.png — no alt text provided by author
+
+
+---
+
+## 2025-02-07 · Post · Symmetry vs asymmetry is the 1 best general-purpose heuristic to learn for finding all sorts of bug
+
+
+### Post — @DevDacian — 2025-02-07 10:30 UTC (2025-02-07 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1887811041549275236
+- Metrics (at fetch): bookmark 58, impression 4068, like 102, quote 0, reply 5, retweet 8
+
+> Symmetry vs asymmetry is the #1 best general-purpose heuristic to learn for finding all sorts of bugs.
+>
+> Train your brain to find asymmetry where symmetry should exist (and vice versa) then ask "why?" and "what is the consequence?"
+>
+> High from my current private audit 👇 https://t.co/pqfUPwJFVw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GjLZ4GyakAA6QDa.png — no alt text provided by author
+
+
+---
+
+## 2025-02-05 · Post · During a private tradfi audit you find a bug that corrupts storage causing a key protocol function 
+
+
+### Post — @DevDacian — 2025-02-05 02:45 UTC (2025-02-05 03:45 WAT)
+
+- URL: https://x.com/DevDacian/status/1886969467319767051
+- Metrics (at fetch): bookmark 0, impression 1004, like 6, quote 1, reply 1, retweet 1
+
+> During a private #tradfi audit you find a bug that corrupts storage causing a key protocol function to permanently revert without any normal way to fix it.
+>
+> The contract is upgradeable though so they could upgrade out of it but it would be a huge hassle.
+>
+> What is the severity?
+
+
+---
+
+## 2025-01-31 · Post · Q) How to start making money through auditing?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-01-31 09:48 UTC (2025-01-31 10:48 WAT)
+
+- URL: https://x.com/DevDacian/status/1885263771268243804
+- Metrics (at fetch): bookmark 466, impression 23397, like 395, quote 11, reply 10, retweet 59
+
+> Q) How to start making money through auditing?
+>
+> Assuming you have built up a decent skillset, the following strategies may work:
+>
+> 1⃣ Pick a protocol niche (DAO, Perps, Dex/AMM, Lending/Borrowing, Bridges/Cross-Chain etc) then study all the past contest &amp; private reports for
+
+
+---
+
+## 2025-01-23 · Post · Just published my most epic deep dive to date:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-01-23 11:44 UTC (2025-01-23 12:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1882393856911745488
+- Metrics (at fetch): bookmark 147, impression 7283, like 193, quote 3, reply 12, retweet 20
+
+> Just published my most epic deep dive to date:
+>
+> 💡 DeFi Liquidation Vulnerabilities Bible 💡
+>
+> ✅ 37 detailed vuln types
+> ✅ heuristics to find each one
+> ✅ highest bug density
+> ✅ maximum bang for buck
+>
+> Link 👇
+
+
+---
+
+## 2025-01-21 · Post · I've become convinced that DeFi Liquidation code is the trickiest to safely implement with highest 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649033246286287
+- Metrics (at fetch): bookmark 267, impression 10057, like 244, quote 2, reply 9, retweet 21
+
+> I've become convinced that #DeFi Liquidation code is the trickiest to safely implement with highest "bug density".
+>
+> New Epic Liquidation Deep Dive coming soon with 37 vuln types - but first check these 10 niche findings that could be your next unique contest winner!
+> 👇 [pic.x.com/2kIAI0ktiz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhzvH3PbkAAf6Mm.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-16 · Post · Mismatched precision bugs occur in large smart contract protocols when different contracts modify th
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-01-16 09:26 UTC (2025-01-16 10:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1879822542061592949
+- Metrics (at fetch): bookmark 129, impression 5853, like 128, quote 1, reply 5, retweet 20
+
+> Mismatched precision bugs occur in large smart contract protocols when different contracts modify the same common storage slots using different precision.
+>
+> These bugs are usually Critical/High leading to loss of funds or denial of service. Find them using this easy guide 👇
+
+
+---
+
+## 2025-01-13 · Post · To find "No Precision Scaling" bugs:
+
+
+### Post — @DevDacian — 2025-01-13 12:17 UTC (2025-01-13 13:17 WAT)
+
+- URL: https://x.com/DevDacian/status/1878778371888615866
+- Metrics (at fetch): bookmark 93, impression 3656, like 99, quote 0, reply 3, retweet 13
+
+> To find "No Precision Scaling" bugs:
+>
+> 1) annotate each variable with its precision
+> 2) look for two variables of different precision added or subtracted together
+>
+> These bugs are often critical leading to DoS or loss of funds.
+>
+> Credit to @hansfriese for this effective technique. [pic.x.com/Ou4lXbMZQI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhLCZSFaoAAmk9e.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-07 · Post · Over the last 4 days I've given out $40,000 in private audit engagements to skilled contractors and 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @DevDacian — 2025-01-07 11:00 UTC (2025-01-07 12:00 WAT)
+
+- URL: https://x.com/DevDacian/status/1876584574827819158
+- Metrics (at fetch): bookmark 14, impression 5162, like 61, quote 1, reply 3, retweet 4
+
+> Over the last 4 days I've given out $40,000 in private audit engagements to skilled contractors and looking to do more! 🚀
+>
+> Especially looking for proven &amp; skilled Rust / Solana / Zk auditors - DM me for private audit full-time and contracting opportunities! https://twitter.com/DevDacian/status/1875166301108437215
+
+**Links in post:** https://twitter.com/DevDacian/status/1875166301108437215
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2025-01-03 13:04 UTC (2025-01-03 14:04 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1875166301108437215
+    - Metrics (at fetch): bookmark 16, impression 7971, like 85, quote 1, reply 6, retweet 4
+    
+    > A well-known &amp; skilled auditor has just been booked as a contractor for a Cyfrin private audit within 20 mins of this post by DM'ing me.
+    >
+    > DM for audits - if you are skilled and want to work with us, I'm happy to open doors! https://twitter.com/DevDacian/status/1875159408587759887
+    
+    **Links in post:** https://twitter.com/DevDacian/status/1875159408587759887
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @DevDacian — 2025-01-03 12:36 UTC (2025-01-03 13:36 WAT)
+        
+        - URL: https://x.com/DevDacian/status/1875159408587759887
+        - Metrics (at fetch): bookmark 19, impression 13793, like 248, quote 1, reply 33, retweet 11
+        
+        > Happy to announce I'll be leading @cyfrin Private Audit Team in 2025!
+        >
+        > 2024 was a huge year for Cyfrin private audits, we completed many successful private audits for huge native web3 protocols and increasingly also for major #TradFi institutions.
+        >
+        > 2025 is shaping up to be [pic.x.com/0UuqikwMc9]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/GgXmrIsacAARioN.jpg — no alt text provided by author
+        
+    
+
+
+---
+
+## 2025-01-06 · Post · Client's new contract interacts with their existing contracts.
+
+
+### Post — @DevDacian — 2025-01-06 12:50 UTC (2025-01-06 13:50 WAT)
+
+- URL: https://x.com/DevDacian/status/1876250072889053257
+- Metrics (at fetch): bookmark 1, impression 1575, like 10, quote 1, reply 4, retweet 0
+
+> Client's new contract interacts with their existing contracts.
+>
+> Existing contracts previously audited by others but not you. Client wants you to audit new contract without existing contracts in scope to save $.
+>
+> Is it safe to audit new contract without existing contracts?
+
+
+---
+
+## 2025-01-05 · Post · 💡 Auditor Portfolio Tips 💡
+
+
+### Post — @DevDacian — 2025-01-05 09:30 UTC (2025-01-05 10:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1875837280876921283
+- Metrics (at fetch): bookmark 179, impression 9451, like 166, quote 4, reply 5, retweet 23
+
+> 💡 Auditor Portfolio Tips 💡
+>
+> Over the weekend I went through 50+ DMs from auditors looking to do private audits with Cyfrin, examining portfolios and findings. Here are 8 tips for building a better auditor portfolio!
+>
+> 1⃣ Have a portfolio page! Many auditors who DM'd me had no
+
+
+---
+
+## 2025-01-03 · Post · A well-known &amp; skilled auditor has just been booked as a contractor for a Cyfrin private audit w
+
+
+### Post — @DevDacian — 2025-01-03 13:04 UTC (2025-01-03 14:04 WAT)
+
+- URL: https://x.com/DevDacian/status/1875166301108437215
+- Metrics (at fetch): bookmark 16, impression 7971, like 85, quote 1, reply 6, retweet 4
+
+> A well-known &amp; skilled auditor has just been booked as a contractor for a Cyfrin private audit within 20 mins of this post by DM'ing me.
+>
+> DM for audits - if you are skilled and want to work with us, I'm happy to open doors! https://twitter.com/DevDacian/status/1875159408587759887
+
+**Links in post:** https://twitter.com/DevDacian/status/1875159408587759887
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2025-01-03 12:36 UTC (2025-01-03 13:36 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1875159408587759887
+    - Metrics (at fetch): bookmark 19, impression 13793, like 248, quote 1, reply 33, retweet 11
+    
+    > Happy to announce I'll be leading @cyfrin Private Audit Team in 2025!
+    >
+    > 2024 was a huge year for Cyfrin private audits, we completed many successful private audits for huge native web3 protocols and increasingly also for major #TradFi institutions.
+    >
+    > 2025 is shaping up to be [pic.x.com/0UuqikwMc9]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GgXmrIsacAARioN.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2025-01-03 · Post · Happy to announce I'll be leading @cyfrin Private Audit Team in 2025!
+
+
+### Post — @DevDacian — 2025-01-03 12:36 UTC (2025-01-03 13:36 WAT)
+
+- URL: https://x.com/DevDacian/status/1875159408587759887
+- Metrics (at fetch): bookmark 19, impression 13793, like 248, quote 1, reply 33, retweet 11
+
+> Happy to announce I'll be leading @cyfrin Private Audit Team in 2025!
+>
+> 2024 was a huge year for Cyfrin private audits, we completed many successful private audits for huge native web3 protocols and increasingly also for major #TradFi institutions.
+>
+> 2025 is shaping up to be [pic.x.com/0UuqikwMc9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgXmrIsacAARioN.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-27 · Post · In team audits, do you:
+
+
+### Post — @DevDacian — 2024-12-27 09:02 UTC (2024-12-27 10:02 WAT)
+
+- URL: https://x.com/DevDacian/status/1872568831077699849
+- Metrics (at fetch): bookmark 3, impression 3843, like 28, quote 1, reply 9, retweet 2
+
+> In team audits, do you:
+>
+> 1) share findings with teammate auditors as they are found, for example by using an internal github issue tracker that every auditor has access to
+>
+> 2) wait until near/end of audit then each auditor shares what they found with their teammates
+
+
+---
+
+## 2024-12-20 · Post · 💡Max Audit ROI💡
+
+
+### Post — @DevDacian — 2024-12-20 13:34 UTC (2024-12-20 14:34 WAT)
+
+- URL: https://x.com/DevDacian/status/1870100432166760826
+- Metrics (at fetch): bookmark 33, impression 3585, like 80, quote 2, reply 2, retweet 8
+
+> 💡Max Audit ROI💡
+>
+> Focus on areas in the protocol with high Bug Density:
+>
+> 1⃣ layers upon layers of complexity
+>
+> 2⃣ code with no/little test coverage or tests which don't validate pre/post state transitions
+>
+> 3⃣ state manipulated by multiple contracts
+>
+> Limited time, max results 🚀
+
+
+---
+
+## 2024-12-16 · Post · 💡Thought experiment💡
+
+
+### Post — @DevDacian — 2024-12-16 08:46 UTC (2024-12-16 09:46 WAT)
+
+- URL: https://x.com/DevDacian/status/1868578484051907058
+- Metrics (at fetch): bookmark 0, impression 1482, like 6, quote 0, reply 4, retweet 0
+
+> 💡Thought experiment💡
+>
+> You run a cybersec firm with auditors, sales, accounting, engineering, marketing/graphics etc.
+>
+> Everyone needs to get paid, be happy, and you need to make a profit.
+>
+> What % of the audit fees do you give to the auditors to keep them &amp; everyone else happy?
+
+
+---
+
+## 2024-12-10 · Post · Wrote this stateless fuzz test today for my current private engagement &amp; found a cool "first dep
+
+
+### Post — @DevDacian — 2024-12-10 11:04 UTC (2024-12-10 12:04 WAT)
+
+- URL: https://x.com/DevDacian/status/1866438779999076802
+- Metrics (at fetch): bookmark 58, impression 4802, like 103, quote 0, reply 3, retweet 8
+
+> Wrote this stateless fuzz test today for my current private engagement &amp; found a cool "first depositor" style exploit.
+>
+> An attacker could front-run the first depositor to ensure they received 0 shares and hence couldn't redeem, losing their deposit.
+>
+> A useful vault invariant to [pic.x.com/3mLWNPzT4C]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gebqy06aUAAO2BW.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-09 · Post · Minimum pre-audit checklist:
+
+
+### Post — @DevDacian — 2024-12-09 10:58 UTC (2024-12-09 11:58 WAT)
+
+- URL: https://x.com/DevDacian/status/1866074866203730210
+- Metrics (at fetch): bookmark 30, impression 3180, like 75, quote 0, reply 5, retweet 6
+
+> Minimum pre-audit checklist:
+>
+> * core functions in working state
+> * basic passing tests exercising core functionality
+> * stable codebase with fixed commit hash for audit
+>
+> Optional extras:
+>
+> * clearly defined function and contract invariants
+> * stateless &amp; stateful fuzz tests
+> * docs
+
+
+---
+
+## 2024-11-30 · Post · This was a funny meme regarding the current drama going on about conditional contests. My *personal*
+
+
+### Post — @DevDacian — 2024-11-30 00:47 UTC (2024-11-30 01:47 WAT)
+
+- URL: https://x.com/DevDacian/status/1862659745305493836
+- Metrics (at fetch): bookmark 1, impression 2673, like 31, quote 0, reply 0, retweet 1
+
+> This was a funny meme regarding the current drama going on about conditional contests. My *personal* thoughts on this:
+>
+> * it is great that in our space businesses are willing to take risks and experiment with new products, services and business models
+>
+> * it is great that auditors https://twitter.com/CodeHawks/status/1862500920564621377
+
+**Links in post:** https://twitter.com/CodeHawks/status/1862500920564621377
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2167078213 — 2024-11-29 14:16 UTC (2024-11-29 15:16 WAT)
+    
+    - URL: https://x.com/2167078213/status/1862500920564621377
+    - Metrics (at fetch): bookmark 0, impression 12756, like 130, quote 6, reply 10, retweet 21
+    
+    > They may have a point.
+    > - anon [pic.x.com/vJ1Jd8Gz2B]
+    
+    **Media:**
+    - media `3_1862500916949106689` (details not returned by the API)
+    
+
+
+---
+
+## 2024-11-28 · Post · Finalized our second audit of @LineaBuild L2/L1 smart contracts.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2024-11-28 15:48 UTC (2024-11-28 16:48 WAT)
+
+- URL: https://x.com/DevDacian/status/1862161562326401466
+- Metrics (at fetch): bookmark 9, impression 8370, like 93, quote 3, reply 1, retweet 7
+
+> Finalized our second audit of @LineaBuild L2/L1 smart contracts.
+>
+> Very tough audit incremental update &amp; Linea team is top tier very serious about security but we were still able to deliver considerable value.
+>
+> Love working with @cyfrin auditing Tier1 protocols, links ⬇️
+
+
+---
+
+## 2024-11-27 · Post · Success story - last year they got really interested in fuzzing from my github fuzzing repo, this ye
+
+
+### Post — @DevDacian — 2024-11-27 11:24 UTC (2024-11-27 12:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1861732712392126827
+- Metrics (at fetch): bookmark 6, impression 1293, like 37, quote 0, reply 0, retweet 0
+
+> Success story - last year they got really interested in fuzzing from my github fuzzing repo, this year they have been working as a professional fuzzer at one of the top audit firms.
+>
+> Find an area you are interested in, put in regular persistent effort and become successful 🚀 https://t.co/Ros4A0AJWZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GdYy4hhbgAAScDk.png — no alt text provided by author
+
+
+---
+
+## 2024-11-26 · Post · 💡 My most concise and elegant Certora solver yet! 💡
+
+
+### Post — @DevDacian — 2024-11-26 11:21 UTC (2024-11-26 12:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1861369639441440961
+- Metrics (at fetch): bookmark 19, impression 2445, like 51, quote 0, reply 6, retweet 4
+
+> 💡 My most concise and elegant Certora solver yet! 💡
+>
+> 10 lines in Certora Verification Language (CVL) finds the same exploit as many lines of fuzzer code!
+>
+> No setup, no handlers, no fuzzer cruft!
+>
+> 🤯 Parametric rules are seriously OP 🤯 https://t.co/xyo07Ivf4z
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GdToONVaoAUFL9K.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GdTofr_aoAMhMp7.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-26 · Post · 💡 My most concise and elegant Certora solver yet! 💡
+
+
+### Post — @DevDacian — 2024-11-26 11:20 UTC (2024-11-26 12:20 WAT)
+
+- URL: https://x.com/DevDacian/status/1861369506226114884
+- Metrics (at fetch): bookmark 0, impression 38, like 1, quote 0, reply 0, retweet 0
+
+> 💡 My most concise and elegant Certora solver yet! 💡
+>
+> 10 lines in Certora Verification Language (CVL) finds the same exploit as many lines of fuzzer code!
+>
+> No setup, no handers, no fuzzer cruft!
+>
+> 🤯 Parametric rules are seriously OP 🤯 https://t.co/FlhsJMTyoG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GdToONVaoAUFL9K.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GdTofr_aoAMhMp7.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-26 · Post · This interesting protocol is having a competitive audit soon with some new unaudited code in the mix
+
+
+### Post — @DevDacian — 2024-11-26 08:49 UTC (2024-11-26 09:49 WAT)
+
+- URL: https://x.com/DevDacian/status/1861331437775151540
+- Metrics (at fetch): bookmark 3, impression 1569, like 16, quote 0, reply 1, retweet 0
+
+> This interesting protocol is having a competitive audit soon with some new unaudited code in the mix as well!
+>
+> For the code I audited, I wrote a pretty decent test suite from scratch which they committed to their repo, should be a big help for the required PoCs 😜 https://t.co/IJ8Hi3rJUS
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1788676765436825600 — 2024-11-25 17:00 UTC (2024-11-25 18:00 WAT)
+    
+    - URL: https://x.com/1788676765436825600/status/1861092572464324893
+    - Metrics (at fetch): bookmark 19, impression 79141, like 266, quote 11, reply 82, retweet 128
+    
+    > It's dangerous to go alone - take this 🪃
+    >
+    > https://t.co/299X4vKBes is now LIVE https://t.co/5BJEa9gWSw
+    
+    **Media:**
+    - media `16_1861092566164480000` (details not returned by the API)
+    
+
+
+---
+
+## 2024-11-04 · Post · This protocol recently launched and on the first big event (8 day payout) a critical bug manifested 
+
+
+### Post — @DevDacian — 2024-11-04 06:54 UTC (2024-11-04 07:54 WAT)
+
+- URL: https://x.com/DevDacian/status/1853329959122808903
+- Metrics (at fetch): bookmark 8, impression 3965, like 30, quote 0, reply 2, retweet 1
+
+> This protocol recently launched and on the first big event (8 day payout) a critical bug manifested resulting in loss of funds to stakers.
+>
+> The protocol team appears to place the blame on the two independent auditors who both missed the bug and states that in their re-launch: https://t.co/F9XHvdtFma
+
+**Quoted post** 1853213212482609585: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-10-15 · Post · 💡 KEY Auditing Heuristic: Symmetry vs Asymmetry 💡
+
+
+### Post — @DevDacian — 2024-10-15 12:34 UTC (2024-10-15 13:34 WAT)
+
+- URL: https://x.com/DevDacian/status/1846167879789826135
+- Metrics (at fetch): bookmark 49, impression 3774, like 49, quote 0, reply 2, retweet 5
+
+> 💡 KEY Auditing Heuristic: Symmetry vs Asymmetry 💡
+>
+> Look for functions that should be symmetrical doing similar checks or calling the same helper functions, then in one place something is missing or slightly different:
+>
+> https://t.co/buvVQVIZoH
+>
+> https://t.co/WUYUWspDx4
+
+
+---
+
+## 2024-10-15 · Post · 💡 KEY Auditing Heuristic: Symmetry vs Asymmetry 💡
+
+
+### Post — @DevDacian — 2024-10-15 12:34 UTC (2024-10-15 13:34 WAT)
+
+- URL: https://x.com/DevDacian/status/1846167806657941627
+- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
+
+> 💡 KEY Auditing Heuristic: Symmetry vs Asymmetry 💡
+>
+> Look for functions that should be symmetrical doing similar checks or calling the same helper functions, then in one place something is missing or slightly different:
+>
+> https://t.co/buvVQVIZoH
+>
+> https://t.co/WUYUWspDx4
+
+
+---
+
+## 2024-10-15 · Post · KEY Auditing Heuristic: Symmetry vs Asymmetry
+
+
+### Post — @DevDacian — 2024-10-15 12:32 UTC (2024-10-15 13:32 WAT)
+
+- URL: https://x.com/DevDacian/status/1846167290796298617
+- Metrics (at fetch): bookmark 1, impression 56, like 1, quote 0, reply 0, retweet 0
+
+> KEY Auditing Heuristic: Symmetry vs Asymmetry
+>
+> Look for functions that should be symmetrical doing similar checks or calling the same helper functions, then in one place something is missing or slightly different:
+>
+> https://t.co/buvVQVIZoH
+>
+> https://t.co/WUYUWspDx4
+
+
+---
+
+## 2024-08-23 · Post · Living that competitive audit life @blckhv 
+
+
+### Post — @DevDacian — 2024-08-23 13:42 UTC (2024-08-23 14:42 WAT)
+
+- URL: https://x.com/DevDacian/status/1826978432988623083
+- Metrics (at fetch): bookmark 0, impression 2024, like 18, quote 0, reply 3, retweet 0
+
+> Living that competitive audit life @blckhv 
+>
+> May the best escalation lawyer win! https://t.co/jCd6Mnu47P
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVq7EPLXwAEEayL.png — no alt text provided by author
+
+
+---
+
+## 2024-08-06 · Post · For any serious finding, if it can be PoC'd I will almost always PoC it. Why do I do this?
+
+
+### Post — @DevDacian — 2024-08-06 13:21 UTC (2024-08-06 14:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1820812484284194865
+- Metrics (at fetch): bookmark 20, impression 2494, like 56, quote 0, reply 1, retweet 3
+
+> For any serious finding, if it can be PoC'd I will almost always PoC it. Why do I do this?
+>
+> 1) this ensures that the finding is valid increasing the signal-to-noise ratio I provide to the client
+>
+> 2) creating the PoC improves my knowledge of both the codebase and the test suite https://t.co/XWzfn97TQM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1444734899395518464 — 2024-08-06 13:03 UTC (2024-08-06 14:03 WAT)
+    
+    - URL: https://x.com/1444734899395518464/status/1820807906519830727
+    - Metrics (at fetch): bookmark 1, impression 2687, like 6, quote 1, reply 0, retweet 0
+    
+    > @DevDacian One thing I noticed whenever i read your findings almost all of them have a coded PoC with it sir.
+    > Is it anything you like doing as just explaining the attack scenario suffice by other top tier audit firms.
+    > And it also does save some time indeed.
+    
 
 
 ---

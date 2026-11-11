@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 87
-- Conversations/threads: 77
+- Posts in this file: 139
+- Conversations/threads: 129
 - Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
@@ -1420,6 +1420,168 @@ Tags (automatic): SSRF
 
 ---
 
+## 2023-11-16 · Post · Got to meet @HusseiN98D for the first time in real life at BSides Ahmedabad. Before meeting in real 
+
+
+### Post — @infosec_au — 2023-11-16 11:36 UTC (2023-11-16 12:36 WAT)
+
+- URL: https://x.com/infosec_au/status/1725115588954210567
+- Metrics (at fetch): bookmark 2, impression 8408, like 83, quote 0, reply 1, retweet 0
+
+> Got to meet @HusseiN98D for the first time in real life at BSides Ahmedabad. Before meeting in real life, we both enabled each other to be extremely successful in bug bounties for 2 years via collaboration. Stoked that we crossed paths. What a great hacker.
+
+
+---
+
+## 2023-10-24 · Post · Citrixbleed: On Oct 10th, Citrix announced a security advisory for CVE-2023-4966, a sensitive inform
+
+
+### Post — @infosec_au — 2023-10-24 10:06 UTC (2023-10-24 11:06 WAT)
+
+- URL: https://x.com/infosec_au/status/1716758118628257896
+- Metrics (at fetch): bookmark 109, impression 97957, like 443, quote 7, reply 2, retweet 142
+
+> Citrixbleed: On Oct 10th, Citrix announced a security advisory for CVE-2023-4966, a sensitive information disclosure bug marked as CVSS 9.4 affecting Netscaler Gateway. The security research team at @assetnote was able to reproduce the vulnerability. Blog post here: https://t.co/8hbTF7tCzL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9MmZKCbcAAYrgw.png — no alt text provided by author
+
+
+---
+
+## 2023-10-16 · Post · Really love this WAF bypass technique documented and found by @irsdl in 2017: https://t.co/60UhDDwKh
+
+
+### Post — @infosec_au — 2023-10-16 08:30 UTC (2023-10-16 09:30 WAT)
+
+- URL: https://x.com/infosec_au/status/1713834893078355986
+- Metrics (at fetch): bookmark 265, impression 62879, like 425, quote 2, reply 8, retweet 118
+
+> Really love this WAF bypass technique documented and found by @irsdl in 2017: https://t.co/60UhDDwKh6 - still super effective today!
+
+
+---
+
+## 2023-10-01 · Post · Our team at @assetnote has published the blog post on the Progress WS_FTP RCE (CVE-2023-40044). It w
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-10-01 00:04 UTC (2023-10-01 01:04 WAT)
+
+- URL: https://x.com/infosec_au/status/1708271663182381240
+- Metrics (at fetch): bookmark 55, impression 57743, like 435, quote 3, reply 14, retweet 119
+
+> Our team at @assetnote has published the blog post on the Progress WS_FTP RCE (CVE-2023-40044). It was fun to find an RCE in the middleware layer (IIS HTTP Module), and it was also quite surprising that the exploit did not require authentication: https://t.co/W7MdGNXvLH https://t.co/CoGFp4Uf8A
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7T_3zCa8AAakQ3.png — no alt text provided by author
+
+
+---
+
+## 2023-09-28 · Post · The @assetnote team recently discovered a pre-auth RCE in Progress WS_FTP, adivsory here:
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-09-28 22:23 UTC (2023-09-28 23:23 WAT)
+
+- URL: https://x.com/infosec_au/status/1707521498091856230
+- Metrics (at fetch): bookmark 26, impression 43734, like 196, quote 3, reply 2, retweet 39
+
+> The @assetnote team recently discovered a pre-auth RCE in Progress WS_FTP, adivsory here:
+>
+> https://t.co/ZP1t4zfBZv
+>
+> We're planning on writing up this issue after 30 days since patch release, or if details of the exploit are publicly released.
+
+
+---
+
+## 2023-09-15 · Post · Won MVH at H1-813! Thanks so much to my collaborators @JonathanBouman and @zseano, and especially th
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2023-09-15 16:26 UTC (2023-09-15 17:26 WAT)
+
+- URL: https://x.com/infosec_au/status/1702720468162392278
+- Metrics (at fetch): bookmark 8, impression 53284, like 438, quote 2, reply 63, retweet 14
+
+> Won MVH at H1-813! Thanks so much to my collaborators @JonathanBouman and @zseano, and especially the PayPal and HackerOne team for this event. So many great hackers and submissions. Stoked to be a part of this. https://t.co/gF8pmiwOAZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6FHPaqaIAASf_l.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F6FHPalboAEeT5W.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-03 · Post · For the first 3-4 years that i was working in infosec, I found client side security so exciting. I s
+
+
+### Post — @infosec_au — 2023-09-03 13:11 UTC (2023-09-03 14:11 WAT)
+
+- URL: https://x.com/infosec_au/status/1698322940159557987
+- Metrics (at fetch): bookmark 176, impression 140948, like 491, quote 3, reply 23, retweet 53
+
+> For the first 3-4 years that i was working in infosec, I found client side security so exciting. I stayed on top of every new technique and studied new techniques closely. After this, I took a step back and realised that all of my work on client side security felt helpless,
+
+
+---
+
+## 2023-08-29 · Post · My colleague Adam (@hash_kitten) working as a Security Researcher at @assetnote, recently discovered
+
+
+### Post — @infosec_au — 2023-08-29 03:39 UTC (2023-08-29 04:39 WAT)
+
+- URL: https://x.com/infosec_au/status/1696366849427140783
+- Metrics (at fetch): bookmark 32, impression 16462, like 178, quote 3, reply 1, retweet 36
+
+> My colleague Adam (@hash_kitten) working as a Security Researcher at @assetnote, recently discovered a critical bug in Flarum (popular forum software) allowing us to read local files from the system. You can read his blog here: https://t.co/Q3Ex3ixGlZ https://t.co/GtsSLc54wN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4q0pKHa0AAvFMX.png — no alt text provided by author
+
+
+---
+
+## 2023-08-10 · Post · In the last post of the series, my colleague explains the process that went into re-discovering the 
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-08-10 02:43 UTC (2023-08-10 03:43 WAT)
+
+- URL: https://x.com/infosec_au/status/1689467388708937728
+- Metrics (at fetch): bookmark 34, impression 18492, like 189, quote 0, reply 2, retweet 48
+
+> In the last post of the series, my colleague explains the process that went into re-discovering the Citrix ADC / Netscaler RCE CVE-2023-3519. We also share an exploit for this vulnerability. Check out our blog if you want to learn more about the process: https://t.co/7csA4tlwA1 https://t.co/8rX2Jnmtzq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3IxlKBawAErXsc.png — no alt text provided by author
+
+
+---
+
+## 2023-08-04 · Post · I spoke with @Rhynorater and @0xteknogeek for the @ctbbpodcast about my journey in becoming a better
+
+
+### Post — @infosec_au — 2023-08-04 11:59 UTC (2023-08-04 12:59 WAT)
+
+- URL: https://x.com/infosec_au/status/1687433134663704576
+- Metrics (at fetch): bookmark 37, impression 19542, like 162, quote 1, reply 3, retweet 33
+
+> I spoke with @Rhynorater and @0xteknogeek for the @ctbbpodcast about my journey in becoming a better hacker, from recon to going deep into applications, bug bounty economics, and co-founding a business. I loved the conversation. You can check it out here: https://t.co/SnKd62VHkZ
+
+
+---
+
 ## 2023-07-28 · Post · The security research team at @assetnote found and reported a critical pre-auth RCE vulnerability to
 
 
@@ -1438,7 +1600,693 @@ Tags (automatic): RCE
 > This one was an incredibly fun discovery as there are many roads to RCE through JDBC. We've published details https://t.co/05OIVQKE84
 
 **Media:**
-- media `3_1684722290230198272` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/F2FV_zZagAAi0qN.png — no alt text provided by author
+
+
+---
+
+## 2023-07-24 · Post · Our security research team has published Part 2 of our analysis for CVE-2023-3519 (Citrix Pre-Auth R
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-07-24 11:25 UTC (2023-07-24 12:25 WAT)
+
+- URL: https://x.com/infosec_au/status/1683438211471933440
+- Metrics (at fetch): bookmark 59, impression 50362, like 297, quote 2, reply 5, retweet 99
+
+> Our security research team has published Part 2 of our analysis for CVE-2023-3519 (Citrix Pre-Auth RCE). This writeup includes the correct vulnerable endpoint that is exploitable without any special configuration:
+>
+> https://t.co/1FeabjAIgG https://t.co/dw0S8q2OAK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1zGGFKaAAAIG0r.png — no alt text provided by author
+
+
+---
+
+## 2023-07-22 · Post · the recent citrix bug is a bit weird. @noperator and team have the correct exploit. citrix silently 
+
+
+### Post — @infosec_au — 2023-07-22 12:13 UTC (2023-07-22 13:13 WAT)
+
+- URL: https://x.com/infosec_au/status/1682725427255865345
+- Metrics (at fetch): bookmark 2, impression 11313, like 62, quote 0, reply 1, retweet 5
+
+> the recent citrix bug is a bit weird. @noperator and team have the correct exploit. citrix silently patched the issue we blogged about. still proud of our team for the new original research we publish. we'll update our blog with a poc for citrix when we have it.
+
+
+---
+
+## 2023-07-22 · Post · the recent citrix bug is a bit weird. @noperator and team have the correct exploit. citrix silently 
+
+
+### Post — @infosec_au — 2023-07-22 12:10 UTC (2023-07-22 13:10 WAT)
+
+- URL: https://x.com/infosec_au/status/1682724832679690241
+- Metrics (at fetch): bookmark 0, impression 364, like 3, quote 0, reply 1, retweet 0
+
+> the recent citrix bug is a bit weird. @noperator and team have the correct exploit. citrix silently patched the issue we blogged about. still proud of our research for the new original research we publish. we'll update our blog with a poc for citrix when we have it.
+
+
+---
+
+## 2023-07-21 · Post · We've analyzed the patch diffs for CVE-2023-3519 (Citrix Pre-Auth RCE) and have published our findin
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-07-21 08:09 UTC (2023-07-21 09:09 WAT)
+
+- URL: https://x.com/infosec_au/status/1682301726144212992
+- Metrics (at fetch): bookmark 46, impression 44728, like 264, quote 3, reply 5, retweet 78
+
+> We've analyzed the patch diffs for CVE-2023-3519 (Citrix Pre-Auth RCE) and have published our findings so far on our blog post here:
+>
+> https://t.co/q9VYRkw9gS
+>
+> So far, we haven't found an endpoint where this issue is exploitable without SAML being enabled. Will update blog if we https://t.co/Z3Rr6kFSpc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1i8ULeaMAAOr3t.png — no alt text provided by author
+
+
+---
+
+## 2023-07-15 · Post · Recently came across a JSONP callback endpoint where newlines, semicolons and comments are blocked. 
+
+
+Tags (automatic): CSP / CSPT
+
+
+### Post — @infosec_au — 2023-07-15 03:03 UTC (2023-07-15 04:03 WAT)
+
+- URL: https://x.com/infosec_au/status/1680050310096764928
+- Metrics (at fetch): bookmark 18, impression 8834, like 73, quote 0, reply 2, retweet 0
+
+> Recently came across a JSONP callback endpoint where newlines, semicolons and comments are blocked. Although passing in a print(1) would result in `print(1)({"...` - this still executes the `print(1)`, so it's still a valid CSP bypass :)
+
+
+---
+
+## 2023-07-11 · Post · The security research team at @assetnote discovered a pre-authentication RCE vulnerability through a
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-07-11 01:35 UTC (2023-07-11 02:35 WAT)
+
+- URL: https://x.com/infosec_au/status/1678578779571236865
+- Metrics (at fetch): bookmark 179, impression 139835, like 779, quote 7, reply 10, retweet 277
+
+> The security research team at @assetnote discovered a pre-authentication RCE vulnerability through a cryptographic flaw in Citrix ShareFile. It's been assigned CVE-2023-24489. You can read the technical blog post here: https://t.co/02EcdlJKNi https://t.co/XCg7S8OrJl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0uCey2aEAAzU28.png — no alt text provided by author
+
+
+---
+
+## 2023-06-30 · Post · My colleague, Dylan at @assetnote discovered a pre-auth XSS in Citrix Gateway CVE-2023-24488.
+
+
+Tags (automatic): XSS
+
+
+### Post — @infosec_au — 2023-06-30 14:24 UTC (2023-06-30 15:24 WAT)
+
+- URL: https://x.com/infosec_au/status/1674786106381070342
+- Metrics (at fetch): bookmark 62, impression 33687, like 370, quote 1, reply 2, retweet 97
+
+> My colleague, Dylan at @assetnote discovered a pre-auth XSS in Citrix Gateway CVE-2023-24488.
+>
+> You can read about his work here: https://t.co/uRfoWauo4c
+>
+> This affected over 50k installations on the internet.
+
+
+---
+
+## 2023-06-14 · Post · My colleague Dylan has posted @assetnote's writeup for the MOVEit Transfer SQL injection to RCE CVE-
+
+
+Tags (automatic): SQL injection, RCE
+
+
+### Post — @infosec_au — 2023-06-14 05:34 UTC (2023-06-14 06:34 WAT)
+
+- URL: https://x.com/infosec_au/status/1668854329682583552
+- Metrics (at fetch): bookmark 38, impression 26001, like 215, quote 2, reply 5, retweet 85
+
+> My colleague Dylan has posted @assetnote's writeup for the MOVEit Transfer SQL injection to RCE CVE-2023-34362: 
+>
+> https://t.co/2D6P6TOxrK
+>
+> We had a slightly different approach to the Rapid7 writeup. We hope that our research helps with offensive and defensive security efforts.
+
+
+---
+
+## 2023-06-13 · Post · This was an excellent find: https://t.co/Ndl4trxCbq
+
+
+Tags (automatic): Auth bypass, RCE
+
+
+### Post — @infosec_au — 2023-06-13 14:00 UTC (2023-06-13 15:00 WAT)
+
+- URL: https://x.com/infosec_au/status/1668619475644727302
+- Metrics (at fetch): bookmark 69, impression 26662, like 233, quote 1, reply 3, retweet 66
+
+> This was an excellent find: https://t.co/Ndl4trxCbq
+>
+> I love the logic flaw found within the nginx rules leadigng to the auth bypass needed to get to the RCE.
+
+
+---
+
+## 2023-06-11 · Post · This research by @fransrosen needs more attention: https://t.co/SEl1adKF8q 
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-06-11 12:25 UTC (2023-06-11 13:25 WAT)
+
+- URL: https://x.com/infosec_au/status/1667870711464226816
+- Metrics (at fetch): bookmark 67, impression 17019, like 186, quote 1, reply 0, retweet 36
+
+> This research by @fransrosen needs more attention: https://t.co/SEl1adKF8q 
+>
+> If you've got arbitrary file write in a Java application, you should understand how this can lead to RCE even if the typical avenues don't get you there. Hot Jar Swapping is awesome.
+
+
+---
+
+## 2023-06-09 · Post · The @assetnote security research team was successful in reproducing the MOVEit Transfer SQLi-&gt;RCE
+
+
+Tags (automatic): SQL injection, RCE
+
+
+### Post — @infosec_au — 2023-06-09 02:56 UTC (2023-06-09 03:56 WAT)
+
+- URL: https://x.com/infosec_au/status/1667002799593521153
+- Metrics (at fetch): bookmark 57, impression 39838, like 322, quote 1, reply 6, retweet 77
+
+> The @assetnote security research team was successful in reproducing the MOVEit Transfer SQLi-&gt;RCE attack vector. We will be releasing the payload in 30 days, but we help bootstrap researchers through our most recent blog post: https://t.co/0UD1ozjHYc https://t.co/jwF4U3Bj0s
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2023-05-18 · Post · lol oracle has spent over 5 hours reading our oracle opera rce research on our blog as per analytics
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-05-18 12:17 UTC (2023-05-18 13:17 WAT)
+
+- URL: https://x.com/infosec_au/status/1659171259580825600
+- Metrics (at fetch): bookmark 3, impression 9702, like 89, quote 0, reply 2, retweet 1
+
+> lol oracle has spent over 5 hours reading our oracle opera rce research on our blog as per analytics - should have just given it a cvss of 10 and actually helped your customers patch their instances
+
+
+---
+
+## 2023-05-11 · Post · The security research team at @assetnote discovered several critical vulnerabilities in Sitecore (ag
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2023-05-11 08:52 UTC (2023-05-11 09:52 WAT)
+
+- URL: https://x.com/infosec_au/status/1656583035339575297
+- Metrics (at fetch): bookmark 83, impression 57288, like 346, quote 4, reply 6, retweet 102
+
+> The security research team at @assetnote discovered several critical vulnerabilities in Sitecore (again). Some can be exploited pre-authentication. My favourite issue abuses the Server.Execute to bypass IIS controls (auth bypass): https://t.co/1crrglUHir
+
+
+---
+
+## 2023-05-10 · Post · I love how detailed this writeup is. The auth bypass bug is great too! Nice work to the @Elttam team
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2023-05-10 03:37 UTC (2023-05-10 04:37 WAT)
+
+- URL: https://x.com/infosec_au/status/1656141412105355264
+- Metrics (at fetch): bookmark 65, impression 13117, like 138, quote 0, reply 1, retweet 31
+
+> I love how detailed this writeup is. The auth bypass bug is great too! Nice work to the @Elttam team:
+>
+> https://t.co/4wtsECvaCZ
+
+
+---
+
+## 2023-05-01 · Post · Last year, @Jhaddix, @bscarvell, @seanyeoh and I found a pre-auth RCE in Oracle Opera - CVE-2023-219
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-05-01 23:47 UTC (2023-05-02 00:47 WAT)
+
+- URL: https://x.com/infosec_au/status/1653184358185050112
+- Metrics (at fetch): bookmark 137, impression 105834, like 633, quote 9, reply 8, retweet 158
+
+> Last year, @Jhaddix, @bscarvell, @seanyeoh and I found a pre-auth RCE in Oracle Opera - CVE-2023-21932. This product holds the PII of every guest (including credit cards 😱). It's used by almost all of the big hotel/resort chains around the world. https://t.co/Gcb5xxJq7N - 1/4 https://t.co/OEi1qwygaH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvFJVjEaYAAK1Dm.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-30 · Post · Releasing a blog post later this week about an order of operations bug in an Oracle product that led
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-04-30 08:35 UTC (2023-04-30 09:35 WAT)
+
+- URL: https://x.com/infosec_au/status/1652592577689051137
+- Metrics (at fetch): bookmark 6, impression 9181, like 93, quote 1, reply 2, retweet 4
+
+> Releasing a blog post later this week about an order of operations bug in an Oracle product that led to pre authentication RCE.
+
+
+---
+
+## 2023-04-28 · Post · Being a part of both the bug bounty community and the security researcher community, I fully underst
+
+
+### Post — @infosec_au — 2023-04-28 11:48 UTC (2023-04-28 12:48 WAT)
+
+- URL: https://x.com/infosec_au/status/1651916273381670913
+- Metrics (at fetch): bookmark 31, impression 52222, like 210, quote 3, reply 11, retweet 18
+
+> Being a part of both the bug bounty community and the security researcher community, I fully understand why the security researcher community dislike the bug bounty community. You post research that has taken a decent amount of time to do, and no one cares about the analysis, https://t.co/rRlxS5u4Um
+
+**Quoted post** 1651906780283256832: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-04-27 · Post · This is the second time that I have requested a CVE from @MITREcorp where they have not filled out t
+
+
+### Post — @infosec_au — 2023-04-27 01:32 UTC (2023-04-27 02:32 WAT)
+
+- URL: https://x.com/infosec_au/status/1651398906432069632
+- Metrics (at fetch): bookmark 6, impression 12959, like 29, quote 0, reply 8, retweet 2
+
+> This is the second time that I have requested a CVE from @MITREcorp where they have not filled out the details of the CVE before assigning it to us, even though all details were provided in the initial request. Is there a better way to claim CVEs these days?
+
+
+---
+
+## 2023-04-27 · Post · At @assetnote, we discovered a reflected cross-site scripting vulnerability in cPanel that affected 
+
+
+Tags (automatic): XSS
+
+
+### Post — @infosec_au — 2023-04-27 00:45 UTC (2023-04-27 01:45 WAT)
+
+- URL: https://x.com/infosec_au/status/1651387036241395712
+- Metrics (at fetch): bookmark 85, impression 54314, like 368, quote 1, reply 4, retweet 101
+
+> At @assetnote, we discovered a reflected cross-site scripting vulnerability in cPanel that affected ~1.2M assets. You can read about our work in reverse engineering cPanel and discovering this here: https://t.co/caweyh5fsE. This has been assigned CVE-2023-29489.
+
+
+---
+
+## 2023-04-21 · Post · Check out how we found a 0day that affected a huge chunk of an attack surface. The bug is really coo
+
+
+### Post — @infosec_au — 2023-04-21 18:17 UTC (2023-04-21 19:17 WAT)
+
+- URL: https://x.com/infosec_au/status/1649477553957261314
+- Metrics (at fetch): bookmark 13, impression 6685, like 52, quote 1, reply 0, retweet 6
+
+> Check out how we found a 0day that affected a huge chunk of an attack surface. The bug is really cool as even if you're unable to write a shell, it's very likely you can modify the JavaScript running on the index page of the assets. https://t.co/E8Wj1CvKjM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2401933806 — 2023-04-20 10:48 UTC (2023-04-20 11:48 WAT)
+    
+    - URL: https://x.com/2401933806/status/1649002011944263681
+    - Metrics (at fetch): bookmark 88, impression 36869, like 251, quote 2, reply 5, retweet 53
+    
+    > Throwback to when I and @infosec_au found a 0day to hack +200 subdomains of a Bank 
+    > https://t.co/TlG6e5DINs
+    >
+    > #bugbounty https://t.co/YVLeo7a5Du
+    
+    **Media:**
+    - media `3_1649002009826148352` (details not returned by the API)
+    
+
+
+---
+
+## 2023-04-04 · Post · found xxe, auth bypass, sqli for google's bug bounty last week with the @assetnote team - hopefully 
+
+
+Tags (automatic): SQL injection, Auth bypass
+
+
+### Post — @infosec_au — 2023-04-04 11:26 UTC (2023-04-04 12:26 WAT)
+
+- URL: https://x.com/infosec_au/status/1643213536041267202
+- Metrics (at fetch): bookmark 8, impression 11386, like 140, quote 0, reply 4, retweet 4
+
+> found xxe, auth bypass, sqli for google's bug bounty last week with the @assetnote team - hopefully can write it all up soon :)
+
+
+---
+
+## 2023-04-04 · Post · hacking with others when everyone treats other well is the highlight of being in the bug bounty comm
+
+
+### Post — @infosec_au — 2023-04-04 11:26 UTC (2023-04-04 12:26 WAT)
+
+- URL: https://x.com/infosec_au/status/1643213323754942464
+- Metrics (at fetch): bookmark 1, impression 5240, like 56, quote 0, reply 1, retweet 0
+
+> hacking with others when everyone treats other well is the highlight of being in the bug bounty community. so many collaborations with people where we've been able to multiply outcomes.
+
+
+---
+
+## 2023-03-05 · Post · https://t.co/wjIqxx6jQJ this is a great writeup.
+
+
+### Post — @infosec_au — 2023-03-05 12:11 UTC (2023-03-05 13:11 WAT)
+
+- URL: https://x.com/infosec_au/status/1632353161704017920
+- Metrics (at fetch): bookmark 64, impression 16542, like 138, quote 3, reply 0, retweet 27
+
+> https://t.co/wjIqxx6jQJ this is a great writeup.
+
+
+---
+
+## 2023-02-21 · Post · I was recently featured in the American Banker for my work in bug bounties targeting financial insti
+
+
+### Post — @infosec_au — 2023-02-21 09:52 UTC (2023-02-21 10:52 WAT)
+
+- URL: https://x.com/infosec_au/status/1627969576976928768
+- Metrics (at fetch): bookmark 17, impression 9210, like 90, quote 0, reply 1, retweet 15
+
+> I was recently featured in the American Banker for my work in bug bounties targeting financial institutions. You can read about it here: 
+>
+> Article: https://t.co/eCdLRueUuj
+>
+> Bypass paywall: https://t.co/USikKdvj7F
+
+
+---
+
+## 2023-02-11 · Post · when i see people do an extraordinary job in the attack surface management space, all i have is resp
+
+
+### Post — @infosec_au — 2023-02-11 12:53 UTC (2023-02-11 13:53 WAT)
+
+- URL: https://x.com/infosec_au/status/1624391085924712449
+- Metrics (at fetch): bookmark 3, impression 11754, like 55, quote 1, reply 0, retweet 4
+
+> when i see people do an extraordinary job in the attack surface management space, all i have is respect because i know how much work it takes to succeed. the best part is, the people who are succeeding in this market, were also successful in bug bounties @smiegles and @emgeekboy
+
+
+---
+
+## 2023-02-10 · Post · when i find someone i enjoy collaborating with in bug bounties, we build a relationship that lasts a
+
+
+### Post — @infosec_au — 2023-02-10 11:53 UTC (2023-02-10 12:53 WAT)
+
+- URL: https://x.com/infosec_au/status/1624013775803416576
+- Metrics (at fetch): bookmark 3, impression 21462, like 132, quote 1, reply 2, retweet 1
+
+> when i find someone i enjoy collaborating with in bug bounties, we build a relationship that lasts a lifetime. i deeply appreciate all the people that i’ve had the chance to work with positively. although there are many people i actively avoid working with now.
+
+
+---
+
+## 2023-02-09 · Post · security research that gets publicised heavily seems so unpredictable sometimes. we will drop an exp
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-02-09 10:01 UTC (2023-02-09 11:01 WAT)
+
+- URL: https://x.com/infosec_au/status/1623623066097184773
+- Metrics (at fetch): bookmark 3, impression 20124, like 143, quote 0, reply 6, retweet 4
+
+> security research that gets publicised heavily seems so unpredictable sometimes. we will drop an exploit with thousands of servers affected to RCE but everyone is still focusing on bugs that affect a few hundred servers.
+
+
+---
+
+## 2023-02-03 · Post · Our security research team @assetnote discovered a critical pre-authentication RCE vulnerability aff
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-02-03 02:49 UTC (2023-02-03 03:49 WAT)
+
+- URL: https://x.com/infosec_au/status/1621340035252637698
+- Metrics (at fetch): bookmark 50, impression 40211, like 262, quote 1, reply 3, retweet 63
+
+> Our security research team @assetnote discovered a critical pre-authentication RCE vulnerability affecting Aspera Faspex. There are still thousands of unpatched instances on the internet. Pretty crazy bug. You can read about the finding here: https://t.co/FT8D7WeF0V
+
+
+---
+
+## 2023-02-01 · Post · Our security research team at @assetnote discovered a critical RCE vulnerability in Avaya Device Ser
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-02-01 01:05 UTC (2023-02-01 02:05 WAT)
+
+- URL: https://x.com/infosec_au/status/1620589206988021762
+- Metrics (at fetch): bookmark 70, impression 42008, like 320, quote 3, reply 16, retweet 60
+
+> Our security research team at @assetnote discovered a critical RCE vulnerability in Avaya Device Services. This vulnerability has affected our customers and has also led to over $60k of findings in bug bounties. You can read the writeup of this issue here: https://t.co/qXmof1oLML
+
+
+---
+
+## 2023-01-27 · Post · you can bypass most wafs with just slightly more domain knowledge of any system you’re hacking lol
+
+
+### Post — @infosec_au — 2023-01-27 11:16 UTC (2023-01-27 12:16 WAT)
+
+- URL: https://x.com/infosec_au/status/1618930819422371840
+- Metrics (at fetch): bookmark 57, impression 47096, like 234, quote 0, reply 10, retweet 17
+
+> you can bypass most wafs with just slightly more domain knowledge of any system you’re hacking lol
+
+
+---
+
+## 2023-01-21 · Post · found a pre-auth xss 0day today that affects over 5M hosts on the internet lol
+
+
+Tags (automatic): XSS
+
+
+### Post — @infosec_au — 2023-01-21 09:03 UTC (2023-01-21 10:03 WAT)
+
+- URL: https://x.com/infosec_au/status/1616723138351607811
+- Metrics (at fetch): bookmark 44, impression 104980, like 526, quote 2, reply 22, retweet 23
+
+> found a pre-auth xss 0day today that affects over 5M hosts on the internet lol
+
+
+---
+
+## 2022-11-26 · Post · I just published a blog post for the people that want to get into bug bounties. I hope it helps peop
+
+
+### Post — @infosec_au — 2022-11-26 09:24 UTC (2022-11-26 10:24 WAT)
+
+- URL: https://x.com/infosec_au/status/1596434677425999872
+- Metrics (at fetch): not returned
+
+> I just published a blog post for the people that want to get into bug bounties. I hope it helps people that are thinking about doing bug bounties, but haven't started yet. It explains what to expect and how to deal with common problems / situations: https://shubs.io/so-you-want-to-get-into-bug-bounties/
+
+**Links in post:** https://shubs.io/so-you-want-to-get-into-bug-bounties/
+
+
+---
+
+## 2022-09-21 · Post · My colleague @TheGrandPew discovered a pre-authentication remote command execution vulnerability in 
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2022-09-21 23:51 UTC (2022-09-22 00:51 WAT)
+
+- URL: https://x.com/infosec_au/status/1572735333690912769
+- Metrics (at fetch): not returned
+
+> My colleague @TheGrandPew discovered a pre-authentication remote command execution vulnerability in Atlassian Bitbucket. You can read his writeup here: https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/ -- this blog post goes into the root cause analysis for why this was possible.
+
+**Links in post:** https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/
+
+
+---
+
+## 2022-07-16 · Post · The fifth episode of Bug Bounty Redacted is out. It goes through second order subdomain takeovers &a
+
+
+### Post — @infosec_au — 2022-07-16 03:33 UTC (2022-07-16 04:33 WAT)
+
+- URL: https://x.com/infosec_au/status/1548148793270362112
+- Metrics (at fetch): not returned
+
+> The fifth episode of Bug Bounty Redacted is out. It goes through second order subdomain takeovers &amp; a logic bug leading to DoS. https://youtu.be/tZxHEp_baMo there's also a @PentesterLab gift code embedded in the video.
+
+**Links in post:** https://youtu.be/tZxHEp_baMo
+
+
+---
+
+## 2022-07-05 · Post · The security research team at @assetnote discovered a high risk SSRF vulnerability in Jira Server an
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2022-07-05 21:46 UTC (2022-07-05 22:46 WAT)
+
+- URL: https://x.com/infosec_au/status/1544437538399862784
+- Metrics (at fetch): not returned
+
+> The security research team at @assetnote discovered a high risk SSRF vulnerability in Jira Server and Datacenter - CVE-2022-26135. This SSRF allows attackers to make requests with any HTTP method, headers and body. You can read about it here: https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/
+
+**Links in post:** https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/
+
+
+---
+
+## 2022-07-02 · Post · when people read write ups on vulnerabilities found and then say shit like "wow that was so easy, wh
+
+
+### Post — @infosec_au — 2022-07-02 23:23 UTC (2022-07-03 00:23 WAT)
+
+- URL: https://x.com/infosec_au/status/1543374925477466113
+- Metrics (at fetch): not returned
+
+> when people read write ups on vulnerabilities found and then say shit like "wow that was so easy, what a stupid bug" and assume that everyone was stupid for not discovering it. yeah, when the answers are right in front of you, it seems easy...
+
+
+---
+
+## 2022-06-19 · Post · There is an ugly side to collaboration in bug bounties, which is often never spoken about publicly. 
+
+
+### Post — @infosec_au — 2022-06-19 00:18 UTC (2022-06-19 01:18 WAT)
+
+- URL: https://x.com/infosec_au/status/1538315140486991873
+- Metrics (at fetch): not returned
+
+> There is an ugly side to collaboration in bug bounties, which is often never spoken about publicly. It's my least favourite part of bug bounties. Keen to hear peoples thoughts. https://shubs.io/the-ugly-side-of-collaboration-in-bug-bounties/
+
+**Links in post:** https://shubs.io/the-ugly-side-of-collaboration-in-bug-bounties/
+
+
+---
+
+## 2022-06-17 · Post · We've just released the fourth episode of Bug Bounty Redacted! This episode is about a report where 
+
+
+### Post — @infosec_au — 2022-06-17 01:00 UTC (2022-06-17 02:00 WAT)
+
+- URL: https://x.com/infosec_au/status/1537601103352967168
+- Metrics (at fetch): not returned
+
+> We've just released the fourth episode of Bug Bounty Redacted! This episode is about a report where I was able to overwrite JS files via a PUT request ending up at S3 and an insecure JWT implementation. You can watch it here: https://www.youtube.com/watch?v=F7QvhHJB-ck
+
+**Links in post:** https://www.youtube.com/watch?v=F7QvhHJB-ck
+
+
+---
+
+## 2022-06-13 · Post · Our latest blog post from @assetnote on hacking Progress WhatsUp Gold by chaining vulnerabilities is
+
+
+### Post — @infosec_au — 2022-06-13 23:03 UTC (2022-06-14 00:03 WAT)
+
+- URL: https://x.com/infosec_au/status/1536484449093042176
+- Metrics (at fetch): not returned
+
+> Our latest blog post from @assetnote on hacking Progress WhatsUp Gold by chaining vulnerabilities is out. Join us on the discovery and exploitation process by reading our writeup on the issues. CVE-2022-29847 and 3 more CVEs combined to reach criticality. https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/
+
+**Links in post:** https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/
+
+
+---
+
+## 2022-06-12 · Post · do you think ephemeral (short lived) vulnerabilities should be paid out in bug bounties? when triage
+
+
+### Post — @infosec_au — 2022-06-12 10:15 UTC (2022-06-12 11:15 WAT)
+
+- URL: https://x.com/infosec_au/status/1535928724457066497
+- Metrics (at fetch): not returned
+
+> do you think ephemeral (short lived) vulnerabilities should be paid out in bug bounties? when triagers can’t reproduce because they checked too late but you have proof of exploitation.
+
+
+---
+
+## 2021-03-31 · Post · Reported a full read SSRF that affects ~20 hosts on Microsoft's attack surface yesterday. Can access
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-03-31 21:46 UTC (2021-03-31 22:46 WAT)
+
+- URL: https://x.com/infosec_au/status/1377376846803689472
+- Metrics (at fetch): bookmark 4, impression 0, like 220, quote 0, reply 6, retweet 3
+
+> Reported a full read SSRF that affects ~20 hosts on Microsoft's attack surface yesterday. Can access internal resources.
+
+
+---
+
+## 2021-03-08 · Post · If you're from AU/NZ and are interested in bug bounties, send me a DM so that I can invite you to ou
+
+
+### Post — @infosec_au — 2021-03-08 03:07 UTC (2021-03-08 04:07 WAT)
+
+- URL: https://x.com/infosec_au/status/1368760305430323201
+- Metrics (at fetch): bookmark 1, impression 0, like 113, quote 3, reply 6, retweet 9
+
+> If you're from AU/NZ and are interested in bug bounties, send me a DM so that I can invite you to our Slack channel. We're almost at 300 members. We talk a lot about web application security and exploitation on there.
 
 
 ---

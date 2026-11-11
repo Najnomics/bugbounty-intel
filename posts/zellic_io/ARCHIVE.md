@@ -753,7 +753,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 ### Post — @zellic_io — 2025-04-22 20:29 UTC (2025-04-22 21:29 WAT)
 
 - URL: https://x.com/zellic_io/status/1914778524956709074
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 89, impression 115446, like 280, quote 29, reply 12, retweet 55
 
 > How to spot misleading audit competition metrics
 >

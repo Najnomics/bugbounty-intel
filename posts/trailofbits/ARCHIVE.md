@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 184
-- Conversations/threads: 184
-- Oldest post captured: 2012-04-19
+- Posts in this file: 187
+- Conversations/threads: 187
+- Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
 
 
@@ -3086,3 +3086,48 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
 
 > Dan Guido (@dguido) and Mike Arpaia (@mikearpaia) will be presenting the Mobile Exploit Intelligence Project at #sourcebos in 5 minutes.
+
+
+---
+
+## 2012-04-03 · Post · New podcast up with Dan Guido (@dguido) covering attacker math and exploit intel. Thanks @DennisF! h
+
+
+### Post — @trailofbits — 2012-04-03 16:48 UTC (2012-04-03 17:48 WAT)
+
+- URL: https://x.com/trailofbits/status/187220157838528512
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 4
+
+> New podcast up with Dan Guido (@dguido) covering attacker math and exploit intel. Thanks @DennisF! https://threatpost.com/en_us/blogs/dan-guido-attacker-math-and-exploit-intelligence-040312
+
+**Links in post:** https://threatpost.com/en_us/blogs/dan-guido-attacker-math-and-exploit-intelligence-040312
+
+
+---
+
+## 2012-04-03 · Post · You can also catch the Mobile Exploit Intelligence Project in NYC at TechTarget InfoSec Decisions on
+
+
+### Post — @trailofbits — 2012-04-03 13:50 UTC (2012-04-03 14:50 WAT)
+
+- URL: https://x.com/trailofbits/status/187175124196265984
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> You can also catch the Mobile Exploit Intelligence Project in NYC at TechTarget InfoSec Decisions on May 15th http://infosecuritydecisions.techtarget.com/
+
+**Links in post:** http://infosecuritydecisions.techtarget.com/
+
+
+---
+
+## 2012-04-03 · Post · Dan Guido (@dguido) will be speaking about the Mobile Exploit Intelligence Project at @SOURCEConf on
+
+
+### Post — @trailofbits — 2012-04-03 13:49 UTC (2012-04-03 14:49 WAT)
+
+- URL: https://x.com/trailofbits/status/187174882516283392
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> Dan Guido (@dguido) will be speaking about the Mobile Exploit Intelligence Project at @SOURCEConf on April 19th http://www.trailofbits.com/research/#mobile-eip
+
+**Links in post:** http://www.trailofbits.com/research/#mobile-eip

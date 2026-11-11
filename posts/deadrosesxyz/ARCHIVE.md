@@ -716,7 +716,7 @@ Tags (automatic): Platform: Immunefi
     
     > bountyhunt3rz: life on the blockchain: EP1
     >
-    > @0xriptide  &amp; @deadrosesxyz discuss bug hunting including techniques, secrets and tools of the trade, integrating LLMs into your workflow, getting paid, traits of a bounty hunter, and how bulgarian teenagers are taking over the space https://t.co/rDBri5ugxR
+    > @0xriptide  &amp; @deadrosesxyz discuss bug hunting including techniques, secrets and tools of the trade, integrating LLMs into your workflow, getting paid, traits of a bounty hunter, and how bulgarian teenagers are taking over the space [pic.x.com/rDBri5ugxR]
     
     **Media:**
     - media `7_1878107936863428608` (details not returned by the API)

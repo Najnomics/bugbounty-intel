@@ -610,7 +610,25 @@ Tags (automatic): Platform: Immunefi
 >
 > Go listen to us speak to @0xriptide about bug hunting! https://t.co/z2Zi121SKw
 
-**Quoted post** 1891012103437213961: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1877728835216568321 — 2025-02-16 06:29 UTC (2025-02-16 07:29 WAT)
+    
+    - URL: https://x.com/1877728835216568321/status/1891012103437213961
+    - Metrics (at fetch): bookmark 18, impression 11059, like 41, quote 4, reply 2, retweet 2
+    
+    > BOUNTYHUNT3RZ Episode 4:
+    > w/ @blockian
+    >
+    > @0xriptide
+    > and
+    > @blockian (@ControlZ_1337 &amp; @pwnmansh1p)
+    >
+    > discover the unique Austrian method of hunting bugs while drinking raw milk and wearing augmented reality goggles, how the trio found a critical bug in @LayerZero_Core V1, laying low https://t.co/LQ6Ofu9i2a
+    
+    **Media:**
+    - media `7_1891010561590104064` (details not returned by the API)
+    
 
 
 ---
