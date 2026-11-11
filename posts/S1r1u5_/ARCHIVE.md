@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 207
-- Conversations/threads: 179
+- Posts in this file: 223
+- Conversations/threads: 195
 - Oldest post captured: 2024-11-16
 - Newest post captured: 2026-11-09
 
@@ -5258,6 +5258,337 @@ Tags (automatic): AI-assisted hunting
     
     **Links in post:** http://crbug.com/453094710
     
+
+
+---
+
+## 2026-01-29 · Post · one way to solve spamming from humans and AI is to introduce a staking mechanism. If bug hunters wan
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-01-29 04:36 UTC (2026-01-29 05:36 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2016732074133377077
+- Metrics (at fetch): bookmark 6, impression 9414, like 48, quote 2, reply 11, retweet 3
+
+> one way to solve spamming from humans and AI is to introduce a staking mechanism. If bug hunters wants to submit a vulnerability, they stake a few hundred dollars and get 5x their stake back if the vulnerability is valid.
+>
+> the same applies to git PR spamming, if anyone wants to https://t.co/pEaSSRdEvP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_zd5dFbUAcGP71.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-23 · Post · codex "hack into sam altman X account" --dangerously-bypass-approvals-and-sandbox https://t.co/KKZgm
+
+
+### Post — @S1r1u5_ — 2026-01-23 16:47 UTC (2026-01-23 17:47 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2014741866269573615
+- Metrics (at fetch): bookmark 0, impression 3416, like 11, quote 0, reply 1, retweet 0
+
+> codex "hack into sam altman X account" --dangerously-bypass-approvals-and-sandbox https://t.co/KKZgmZJAUJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1605 — 2026-01-23 16:16 UTC (2026-01-23 17:16 WAT)
+    
+    - URL: https://x.com/1605/status/2014733975755817267
+    - Metrics (at fetch): bookmark 1114, impression 2156433, like 8511, quote 391, reply 1320, retweet 649
+    
+    > We have a lot of exciting launches related to Codex coming over the next month, starting next week. We hope you will be delighted.
+    >
+    > We are going to reach the Cybersecurity High level on our preparedness framework soon. We have been getting ready for this.
+    >
+    > Cybersecurity is tricky
+    
+
+
+---
+
+## 2026-01-20 · Post · cURL closing their Hackerone bug bounty program on HackerOne for obvious reasons: death by thousand 
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2026-01-20 03:11 UTC (2026-01-20 04:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2013449185807474941
+- Metrics (at fetch): bookmark 141, impression 351788, like 575, quote 23, reply 23, retweet 49
+
+> cURL closing their Hackerone bug bounty program on HackerOne for obvious reasons: death by thousand slops, slop from both humans and AI-assisted submissions. 
+>
+> it is insane to me that companies like HackerOne are still stuck in the past. 
+>
+> why aren't cURL, other companies, and https://t.co/OX8GpYlw80
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_Ex5GOXkAA-Tea.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-19 · Post · great post. a few thoughts:
+
+
+### Post — @S1r1u5_ — 2026-01-19 04:53 UTC (2026-01-19 05:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2013112592542347382
+- Metrics (at fetch): bookmark 78, impression 11782, like 85, quote 0, reply 3, retweet 9
+
+> great post. a few thoughts:
+>
+> 1) i have always found exploit development much easier than vulnerability discovery. 
+>
+> 2) the reason being, the goal is explicit. I know the environment, I have a tight feedback loop, and from there it’s just about spending weeks, sometimes months, https://t.co/0PF1UfhAbS https://t.co/BBrSEqwarZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_AAhsrXcAAJsRz.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15429588 — 2026-01-18 21:03 UTC (2026-01-18 22:03 WAT)
+    
+    - URL: https://x.com/15429588/status/2012994225051222198
+    - Metrics (at fetch): bookmark 1130, impression 233872, like 1101, quote 34, reply 29, retweet 232
+    
+    > Blog post: On the Coming Industrialisation of Exploit Generation with LLMs https://t.co/aK4pysY1wD
+    >
+    > TL;DR: I ran an experiment with GPT-5.2 and Opus 4.5 based agents to generate exploits for a zeroday QuickJS bug. They're pretty good at it.  
+    >
+    > Code: https://t.co/47xHRObhRy
+    
+
+
+---
+
+## 2026-01-08 · Post · the security industry is a full-on circus man, it so backward. no one actually knows if their tools 
+
+
+### Post — @S1r1u5_ — 2026-01-08 13:00 UTC (2026-01-08 14:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2009248943243448788
+- Metrics (at fetch): bookmark 12, impression 3888, like 59, quote 0, reply 3, retweet 1
+
+> the security industry is a full-on circus man, it so backward. no one actually knows if their tools work, so people buy based on vibes, sales pitches, or friends in the industry. and start crying about get buried in false positives from tools that don’t work, burned out by
+
+
+---
+
+## 2026-01-08 · Post · after doing lot of reverse engineering and bug hunting into these modern ai infrastructure, my crazy
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-01-08 11:39 UTC (2026-01-08 12:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2009228433205940302
+- Metrics (at fetch): bookmark 150, impression 7603, like 135, quote 0, reply 2, retweet 9
+
+> after doing lot of reverse engineering and bug hunting into these modern ai infrastructure, my crazy belief is that i can pull off lovable or manus in a month.
+>
+> this is all u need and i am not even kidding.
+>
+> https://t.co/ODeaSjPZoU
+> https://t.co/0o7D7vhQA2
+> https://t.co/YQdKfSR1nr
+
+
+---
+
+## 2025-12-07 · Post · I think it's safe to assume Vercel WAF is stronger than before to protect against react2shell?
+
+
+### Post — @S1r1u5_ — 2025-12-07 07:11 UTC (2025-12-07 08:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1997564541169967361
+- Metrics (at fetch): bookmark 23, impression 13914, like 94, quote 0, reply 4, retweet 3
+
+> I think it's safe to assume Vercel WAF is stronger than before to protect against react2shell?
+>
+> I can see lot of pros being assembled here, apart from http parser differentials, did anyone bypass :constructor blocking? https://t.co/fPaCWB25HL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7jFv_na0AA205Z.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-06 · Post · Wow, Kudos to Vercel for trying whatever they can do to stop this attack.
+
+
+### Post — @S1r1u5_ — 2025-12-06 05:09 UTC (2025-12-06 06:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1997171434721104140
+- Metrics (at fetch): bookmark 22, impression 24052, like 98, quote 0, reply 3, retweet 5
+
+> Wow, Kudos to Vercel for trying whatever they can do to stop this attack.
+>
+> A CTF challenge of parser differentials dropped. And with a huge bounty!! CTFers do your thing! https://t.co/SeMVnt06UM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15534471 — 2025-12-06 03:54 UTC (2025-12-06 04:54 WAT)
+    
+    - URL: https://x.com/15534471/status/1997152588253614425
+    - Metrics (at fetch): bookmark 275, impression 352176, like 836, quote 25, reply 30, retweet 76
+    
+    > We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell
+    > Critical bypass: $50K
+    > https://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl
+    
+    **Media:**
+    - media `3_1997150571254763521` (details not returned by the API)
+    
+
+
+---
+
+## 2025-12-05 · Post · anyone know about goodhart’s law,  “hackerone top 1” and how they are related?
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2025-12-05 12:01 UTC (2025-12-05 13:01 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996912860115648877
+- Metrics (at fetch): bookmark 1, impression 1606, like 7, quote 0, reply 0, retweet 0
+
+> anyone know about goodhart’s law,  “hackerone top 1” and how they are related?
+
+
+---
+
+## 2025-12-05 · Post · This is too bad, maybe PoC should not have been disclosed, idk!
+
+
+### Post — @S1r1u5_ — 2025-12-05 02:55 UTC (2025-12-05 03:55 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996775368603451738
+- Metrics (at fetch): bookmark 15, impression 9938, like 68, quote 0, reply 4, retweet 1
+
+> This is too bad, maybe PoC should not have been disclosed, idk!
+>
+> You name the company coinbase, spotify, coindcx etc, it worked on one of their sub-domains!
+
+
+---
+
+## 2025-12-05 · Post · Well that now the PoC is out, Patchh!!! WaFs dont work!!!
+
+
+### Post — @S1r1u5_ — 2025-12-05 02:49 UTC (2025-12-05 03:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996773940531024186
+- Metrics (at fetch): bookmark 2, impression 7755, like 19, quote 1, reply 1, retweet 0
+
+> Well that now the PoC is out, Patchh!!! WaFs dont work!!!
+
+
+---
+
+## 2025-12-04 · Post · Lachlan Davidson just demonstrated what real deep reasoning looks like. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-12-04 14:48 UTC (2025-12-04 15:48 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996592459015762354
+- Metrics (at fetch): bookmark 24, impression 8018, like 82, quote 0, reply 0, retweet 2
+
+> Lachlan Davidson just demonstrated what real deep reasoning looks like. 
+>
+> the react2shell bug is so complex that both humans and LLMs couldn’t figure it out, and most still trying hard to.
+>
+> this is what weeks of actual expert grind produce. and it’s exactly the kind of https://t.co/pP0vupqMl8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7VQrUka0AAhJVW.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-04 · Post · Either I am dumb or missing something.
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2025-12-04 04:07 UTC (2025-12-04 05:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996431193760551247
+- Metrics (at fetch): bookmark 43, impression 23524, like 80, quote 2, reply 10, retweet 8
+
+> Either I am dumb or missing something.
+>
+> This PoC for React RCE is unrealistic. 
+>
+> https://t.co/fSqwLG5htL
+
+
+---
+
+## 2025-12-04 · Post · The React bug needs a gadget, I wonder if there is default gadget that made it 10/10.
+
+
+### Post — @S1r1u5_ — 2025-12-04 03:09 UTC (2025-12-04 04:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996416500283081055
+- Metrics (at fetch): bookmark 6, impression 5913, like 41, quote 0, reply 3, retweet 1
+
+> The React bug needs a gadget, I wonder if there is default gadget that made it 10/10.
+
+
+---
+
+## 2025-12-03 · Post · i have a decent lead if anyone is looking for good bounty and finding a vulnerability in anthropic! 
+
+
+### Post — @S1r1u5_ — 2025-12-03 03:52 UTC (2025-12-03 04:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996064929816998397
+- Metrics (at fetch): bookmark 9, impression 4292, like 29, quote 0, reply 2, retweet 0
+
+> i have a decent lead if anyone is looking for good bounty and finding a vulnerability in anthropic! https://t.co/Wt3Qg9UrCN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2025-12-03 03:50 UTC (2025-12-03 04:50 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1996064444032713039
+    - Metrics (at fetch): bookmark 4, impression 7377, like 5, quote 1, reply 1, retweet 0
+    
+    > @wtsdev Yes! same goes for https://t.co/ACtqsCUI8h, claude browser extension or any ai browser.
+    >
+    > i just remembered that i was looking for xss on *.claude.ai and we could not find one, so there is still prospect for uxss with claude extension. anyone interested should check it!
+    
+
+
+---
+
+## 2025-12-03 · Reply · @wtsdev Yes! same goes for https://t.co/ACtqsCUI8h, claude browser extension or any ai browser.
+
+
+Tags (automatic): XSS, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-12-03 03:50 UTC (2025-12-03 04:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996064444032713039
+- Metrics (at fetch): bookmark 4, impression 7377, like 5, quote 1, reply 1, retweet 0
+
+> @wtsdev Yes! same goes for https://t.co/ACtqsCUI8h, claude browser extension or any ai browser.
+>
+> i just remembered that i was looking for xss on *.claude.ai and we could not find one, so there is still prospect for uxss with claude extension. anyone interested should check it!
 
 
 ---

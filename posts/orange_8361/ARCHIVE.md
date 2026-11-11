@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 74
-- Conversations/threads: 74
-- Oldest post captured: 2020-09-12
+- Posts in this file: 87
+- Conversations/threads: 87
+- Oldest post captured: 2019-08-09
 - Newest post captured: 2026-10-29
 
 
@@ -1385,3 +1385,257 @@ Tags (automatic): RCE
 > #HITCON
 
 **Links in post:** https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html
+
+
+---
+
+## 2020-09-10 · Post · An RCE blog is scheduled and will be published soon :P
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2020-09-10 04:32 UTC (2020-09-10 05:32 WAT)
+
+- URL: https://x.com/orange_8361/status/1303914162968354816
+- Metrics (at fetch): not returned
+
+> An RCE blog is scheduled and will be published soon :P
+
+
+---
+
+## 2020-06-28 · Post · Get stuck in a security mitigation bypass and Groovy rescues me again! Let's thank Groovy all togeth
+
+
+### Post — @orange_8361 — 2020-06-28 07:43 UTC (2020-06-28 08:43 WAT)
+
+- URL: https://x.com/orange_8361/status/1277145635037171712
+- Metrics (at fetch): not returned
+
+> Get stuck in a security mitigation bypass and Groovy rescues me again! Let's thank Groovy all together T_T
+
+
+---
+
+## 2020-05-20 · Post · I saw an article about smuggling reverse-proxies leads to Client-Certificate authentication bypass o
+
+
+Tags (automatic): Auth bypass, Request smuggling / desync
+
+
+### Post — @orange_8361 — 2020-05-20 10:52 UTC (2020-05-20 11:52 WAT)
+
+- URL: https://x.com/orange_8361/status/1263059989813268480
+- Metrics (at fetch): not returned
+
+> I saw an article about smuggling reverse-proxies leads to Client-Certificate authentication bypass on Twitter last week but I forgot to save that T__T. 
+> Does anyone remember the link?
+
+
+---
+
+## 2020-01-09 · Post · The interesting part is how to convert a limited file writing into RCE :P https://twitter.com/orange
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2020-01-09 10:08 UTC (2020-01-09 11:08 WAT)
+
+- URL: https://x.com/orange_8361/status/1215213869288681473
+- Metrics (at fetch): not returned
+
+> The interesting part is how to convert a limited file writing into RCE :P https://twitter.com/orange_8361/status/1215207230514970624
+
+**Links in post:** https://twitter.com/orange_8361/status/1215207230514970624
+
+**Quoted post (full text):**
+
+    #### Quoted post — @orange_8361 — 2020-01-09 09:42 UTC (2020-01-09 10:42 WAT)
+    
+    - URL: https://x.com/orange_8361/status/1215207230514970624
+    - Metrics (at fetch): not returned
+    
+    > Have reproduced Citrix SSL VPN pre-auth RCE successfully on both local and remote. Interesting bug!
+    >
+    > https://www.tripwire.com/state-of-security/vert/citrix-netscaler-cve-2019-19781-what-you-need-to-know/
+    
+    **Links in post:** https://www.tripwire.com/state-of-security/vert/citrix-netscaler-cve-2019-19781-what-you-need-to-know/
+    
+
+
+---
+
+## 2020-01-09 · Post · Have reproduced Citrix SSL VPN pre-auth RCE successfully on both local and remote. Interesting bug!
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2020-01-09 09:42 UTC (2020-01-09 10:42 WAT)
+
+- URL: https://x.com/orange_8361/status/1215207230514970624
+- Metrics (at fetch): not returned
+
+> Have reproduced Citrix SSL VPN pre-auth RCE successfully on both local and remote. Interesting bug!
+>
+> https://www.tripwire.com/state-of-security/vert/citrix-netscaler-cve-2019-19781-what-you-need-to-know/
+
+**Links in post:** https://www.tripwire.com/state-of-security/vert/citrix-netscaler-cve-2019-19781-what-you-need-to-know/
+
+
+---
+
+## 2019-11-11 · Post · For non-native readers, this is a writeup of my DEVCORE Conference 2019 talk. Describe a misconfigur
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2019-11-11 12:33 UTC (2019-11-11 13:33 WAT)
+
+- URL: https://x.com/orange_8361/status/1193869328338153472
+- Metrics (at fetch): not returned
+
+> For non-native readers, this is a writeup of my DEVCORE Conference 2019 talk. Describe a misconfiguration that exposed a magic service on port 3097 on our country's largest ISP, and how we find RCE on that to affect more than 250,000 modems :P  https://blog.orange.tw/2019/11/HiNet-GPON-Modem-RCE.html
+
+**Links in post:** https://blog.orange.tw/2019/11/HiNet-GPON-Modem-RCE.html
+
+
+---
+
+## 2019-10-29 · Post · This is such a really interesting bug, which combined both web and binary stuff! Thanks the author n
+
+
+### Post — @orange_8361 — 2019-10-29 16:57 UTC (2019-10-29 17:57 WAT)
+
+- URL: https://x.com/orange_8361/status/1189224757817958400
+- Metrics (at fetch): not returned
+
+> This is such a really interesting bug, which combined both web and binary stuff! Thanks the author neex, @d90pwn and @ahack_ru for the bug! By the way, this seems my first time to blog a bug which is not found by me. XD
+> https://blog.orange.tw/2019/10/an-analysis-and-thought-about-recently.html
+
+**Links in post:** https://blog.orange.tw/2019/10/an-analysis-and-thought-about-recently.html
+
+
+---
+
+## 2019-10-22 · Post · Interesting bug! https://twitter.com/theBeched/status/1186667192139636740
+
+
+### Post — @orange_8361 — 2019-10-22 21:13 UTC (2019-10-22 22:13 WAT)
+
+- URL: https://x.com/orange_8361/status/1186752509911523328
+- Metrics (at fetch): not returned
+
+> Interesting bug! https://twitter.com/theBeched/status/1186667192139636740
+
+**Links in post:** https://twitter.com/theBeched/status/1186667192139636740
+
+**Quoted post (full text):**
+
+    #### Quoted post — @454870789 — 2019-10-22 15:34 UTC (2019-10-22 16:34 WAT)
+    
+    - URL: https://x.com/454870789/status/1186667192139636740
+    - Metrics (at fetch): not returned
+    
+    > Freshly patched RCE in PHP-FPM:
+    > https://bugs.php.net/bug.php?id=78599
+    > Exploit:
+    > https://github.com/neex/phuip-fpizdam
+    > Many nginx+PHP configurations vulnerable, watch out!
+    
+    **Links in post:** https://bugs.php.net/bug.php?id=78599, https://github.com/neex/phuip-fpizdam
+    
+
+
+---
+
+## 2019-10-17 · Post · Just got a real copy of "Real-World Bug Hunting" from @yaworsk! It's awesome!!! [pic.x.com/wdrau3f9D
+
+
+### Post — @orange_8361 — 2019-10-17 15:29 UTC (2019-10-17 16:29 WAT)
+
+- URL: https://x.com/orange_8361/status/1184854071959678976
+- Metrics (at fetch): not returned
+
+> Just got a real copy of "Real-World Bug Hunting" from @yaworsk! It's awesome!!! [pic.x.com/wdrau3f9Df]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EHFyTvEUwAA86eI.jpg — no alt text provided by author
+
+
+---
+
+## 2019-10-12 · Post · HITCON CTF 2019 Quals is ongoing now! @filedescriptor and I designed an XSS challenge this time and 
+
+
+Tags (automatic): XSS
+
+
+### Post — @orange_8361 — 2019-10-12 15:55 UTC (2019-10-12 16:55 WAT)
+
+- URL: https://x.com/orange_8361/status/1183048512482578433
+- Metrics (at fetch): not returned
+
+> HITCON CTF 2019 Quals is ongoing now! @filedescriptor and I designed an XSS challenge this time and there are two solutions at least, could you find that? :D 
+>
+> http://3.114.5.202/
+> https://ctf2019.hitcon.org/
+>
+> #hitcon #ctf #hitconctf
+
+**Links in post:** https://ctf2019.hitcon.org/
+
+
+---
+
+## 2019-09-06 · Post · BlueKeep exploit is out! https://blog.rapid7.com/2019/09/06/initial-metasploit-exploit-module-for-b
+
+
+### Post — @orange_8361 — 2019-09-06 17:37 UTC (2019-09-06 18:37 WAT)
+
+- URL: https://x.com/orange_8361/status/1170028319514869760
+- Metrics (at fetch): not returned
+
+> #BlueKeep exploit is out! https://blog.rapid7.com/2019/09/06/initial-metasploit-exploit-module-for-bluekeep-cve-2019-0708/
+
+**Links in post:** https://blog.rapid7.com/2019/09/06/initial-metasploit-exploit-module-for-bluekeep-cve-2019-0708/
+
+
+---
+
+## 2019-09-02 · Post · The last part of our Attacking SSL VPN series is out - The Golden Pulse Secure SSL VPN RCE Chain, wi
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2019-09-02 14:03 UTC (2019-09-02 15:03 WAT)
+
+- URL: https://x.com/orange_8361/status/1168524867550867457
+- Metrics (at fetch): not returned
+
+> The last part of our Attacking SSL VPN series is out - The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study! https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html
+> "If you have a nuclear level weapon, when is it ready for public disclosure?"
+
+**Links in post:** https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html
+
+
+---
+
+## 2019-08-09 · Post · Just drop the RCEs, slides(@BlackHatEvents will fix soon) and blog of @mehqq_ and me's BHUSA and D
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2019-08-09 21:16 UTC (2019-08-09 22:16 WAT)
+
+- URL: https://x.com/orange_8361/status/1159936450772660224
+- Metrics (at fetch): not returned
+
+> Just drop the RCEs, slides(@BlackHatEvents will fix soon) and blog of @mehqq_ and me's #BHUSA and #DEFCON talk - Infiltrating Corporate Intranet Like NSA: Pre-auth RCE on Leading SSL VPNs! Please check that and let us know if you have any questions! https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html
+
+**Links in post:** https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html

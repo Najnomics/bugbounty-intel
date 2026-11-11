@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 130
-- Conversations/threads: 129
-- Oldest post captured: 2018-07-04
+- Posts in this file: 155
+- Conversations/threads: 154
+- Oldest post captured: 2017-06-15
 - Newest post captured: 2026-11-11
 
 
@@ -2477,3 +2477,429 @@ Tags (automatic): XSS
 > https://samcurry.net/the-12000-intersection-between-clickjacking-xss-and-denial-of-service/
 
 **Links in post:** https://samcurry.net/the-12000-intersection-between-clickjacking-xss-and-denial-of-service/
+
+
+---
+
+## 2018-06-22 · Post · The IRS tax on gifted airline miles really doesn't make sense.
+
+
+### Post — @samwcyo — 2018-06-22 21:52 UTC (2018-06-22 22:52 WAT)
+
+- URL: https://x.com/samwcyo/status/1010279416059088896
+- Metrics (at fetch): not returned
+
+> The IRS tax on gifted airline miles really doesn't make sense.
+> $0.02/mile when hunting on United's bug bounty program puts you at about $500 USD for 25,000 miles. When using these miles, it'll cost you about ~25,000 miles to get from ORD to SFO. A regular ticket is about $500. 🤔
+
+
+---
+
+## 2018-05-27 · Post · CTF's are ABSOLUTELY necessary if you ever want to get into bug bounty. There's no other way you'll 
+
+
+### Post — @samwcyo — 2018-05-27 18:28 UTC (2018-05-27 19:28 WAT)
+
+- URL: https://x.com/samwcyo/status/1000805867120406533
+- Metrics (at fetch): not returned
+
+> CTF's are ABSOLUTELY necessary if you ever want to get into bug bounty. There's no other way you'll learn to pilot a drone through a web app unity game to get to a flag. Spend lots of time on them or else you will fail. [pic.x.com/49bkZqsoIb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DeOSqniV0AAfz1Q.jpg — no alt text provided by author
+
+
+---
+
+## 2018-05-15 · Post · The worst part about bug bounty is waiting for a response email then being blasted with a dozen "we'
+
+
+### Post — @samwcyo — 2018-05-15 20:16 UTC (2018-05-15 21:16 WAT)
+
+- URL: https://x.com/samwcyo/status/996484517299982337
+- Metrics (at fetch): not returned
+
+> The worst part about bug bounty is waiting for a response email then being blasted with a dozen "we're updating our privacy policy" emails.
+
+
+---
+
+## 2018-04-27 · Post · Researchers: how well did you understand web application security before spending time on bug bounty
+
+
+### Post — @samwcyo — 2018-04-27 08:41 UTC (2018-04-27 09:41 WAT)
+
+- URL: https://x.com/samwcyo/status/989786615584346112
+- Metrics (at fetch): not returned
+
+> Researchers: how well did you understand web application security before spending time on bug bounty programs?
+
+
+---
+
+## 2018-04-27 · Post · I'd like to suggest the new severity metric for bug bounty be how many people you wake up at night w
+
+
+### Post — @samwcyo — 2018-04-27 03:33 UTC (2018-04-27 04:33 WAT)
+
+- URL: https://x.com/samwcyo/status/989709161129742336
+- Metrics (at fetch): not returned
+
+> I'd like to suggest the new severity metric for bug bounty be how many people you wake up at night with your submission.
+
+
+---
+
+## 2018-02-08 · Post · @phwd Hey - is there any chance you could follow me back temporarily so we could discuss something a
+
+
+### Post — @samwcyo — 2018-02-08 05:53 UTC (2018-02-08 06:53 WAT)
+
+- URL: https://x.com/samwcyo/status/961478001614557185
+- Metrics (at fetch): not returned
+
+> @phwd Hey - is there any chance you could follow me back temporarily so we could discuss something about Facebook's bug bounty program? Thanks!
+
+
+---
+
+## 2018-01-18 · Post · An interesting regex bypass I found for URL parsing on an open source software: (1) IP decimal encod
+
+
+### Post — @samwcyo — 2018-01-18 09:58 UTC (2018-01-18 10:58 WAT)
+
+- URL: https://x.com/samwcyo/status/953929578522783744
+- Metrics (at fetch): not returned
+
+> An interesting regex bypass I found for URL parsing on an open source software: (1) IP decimal encoding of the malicious target, (2) %23, and (3) the valid/whitelisted URL. https://github.com/instructure/canvas-lms/commit/6f773df20f736388266657d5cf8534ad5924b546
+
+**Links in post:** https://github.com/instructure/canvas-lms/commit/6f773df20f736388266657d5cf8534ad5924b546
+
+
+---
+
+## 2018-01-16 · Post · It's awesome when learning management systems have bug bounty programs because you can be doing home
+
+
+### Post — @samwcyo — 2018-01-16 03:38 UTC (2018-01-16 04:38 WAT)
+
+- URL: https://x.com/samwcyo/status/953109151395336193
+- Metrics (at fetch): not returned
+
+> It's awesome when learning management systems have bug bounty programs because you can be doing homework, switch to hacking, finish your homework, write a bug report. 📚
+
+
+---
+
+## 2018-01-11 · Post · Another example of why you should always keep notes of bugs that don't pose a risk unless paired wit
+
+
+### Post — @samwcyo — 2018-01-11 20:32 UTC (2018-01-11 21:32 WAT)
+
+- URL: https://x.com/samwcyo/status/951552364070219778
+- Metrics (at fetch): not returned
+
+> Another example of why you should always keep notes of bugs that don't pose a risk unless paired with something else. Awesome find, awesome writeup. https://x.com/sxcurity/status/951527150628327425
+
+**Links in post:** https://x.com/sxcurity/status/951527150628327425
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4916110689 — 2018-01-11 18:52 UTC (2018-01-11 19:52 WAT)
+    
+    - URL: https://x.com/4916110689/status/951527150628327425
+    - Metrics (at fetch): not returned
+    
+    > ☢ Write-Up Alert: "Chaining Bugs to Steal Yahoo Contacts!" 
+    > http://www.sxcurity.pro/2018/01/11/chaining-yahoo-bugs/
+    
+    **Links in post:** http://www.sxcurity.pro/2018/01/11/chaining-yahoo-bugs/
+    
+
+
+---
+
+## 2018-01-09 · Post · Nice try, hackers! XSS is impossible on eBay and Amazon. 🕵️‍♂️ [pic.x.com/0xOTIJy27E]
+
+
+Tags (automatic): XSS
+
+
+### Post — @samwcyo — 2018-01-09 02:17 UTC (2018-01-09 03:17 WAT)
+
+- URL: https://x.com/samwcyo/status/950552099716239360
+- Metrics (at fetch): not returned
+
+> Nice try, hackers! XSS is impossible on eBay and Amazon. 🕵️‍♂️ [pic.x.com/0xOTIJy27E]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DTEJbkBVMAIsDw7.jpg — no alt text provided by author
+
+
+---
+
+## 2018-01-01 · Post · One of the best resources for anyone interested in bug bounty. https://x.com/EdOverflow/status/94787
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @samwcyo — 2018-01-01 18:11 UTC (2018-01-01 19:11 WAT)
+
+- URL: https://x.com/samwcyo/status/947893064718278658
+- Metrics (at fetch): not returned
+
+> One of the best resources for anyone interested in bug bounty. https://x.com/EdOverflow/status/947878330753257472
+
+**Links in post:** https://x.com/EdOverflow/status/947878330753257472
+
+**Quoted post (full text):**
+
+    #### Quoted post — @789158876176379904 — 2018-01-01 17:12 UTC (2018-01-01 18:12 WAT)
+    
+    - URL: https://x.com/789158876176379904/status/947878330753257472
+    - Metrics (at fetch): not returned
+    
+    > Happy New Year everyone! To start off 2018 here is a project that I have been working on for a little while: Bug Bounty Guide, a launchpad for bug bounty programs and bug bounty hunters. https://bugbountyguide.com/
+    
+    **Links in post:** https://bugbountyguide.com/
+    
+
+
+---
+
+## 2017-12-22 · Post · Bug Bounty tip: always check headers in external requests by the server. Sometimes they'll have cool
+
+
+### Post — @samwcyo — 2017-12-22 04:09 UTC (2017-12-22 05:09 WAT)
+
+- URL: https://x.com/samwcyo/status/944057275743899648
+- Metrics (at fetch): not returned
+
+> Bug Bounty tip: always check headers in external requests by the server. Sometimes they'll have cool stuff... like an authorization bearer 😊
+
+
+---
+
+## 2017-12-14 · Post · &gt; accidentally find a vulnerability in a website I use
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @samwcyo — 2017-12-14 21:16 UTC (2017-12-14 22:16 WAT)
+
+- URL: https://x.com/samwcyo/status/941416604532953089
+- Metrics (at fetch): not returned
+
+> &gt; accidentally find a vulnerability in a website I use
+> &gt; check for security@ email
+> &gt; "hey we have a bug bounty program"
+> &gt; get invite
+> &gt; dig deeper
+> &gt; find a much more impactful issue
+>
+> I earned $900 for my submission on @bugcrowd https://bugcrowd.com/zlztheog  #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/zlztheog
+
+
+---
+
+## 2017-10-24 · Post · Hackers: have you ever exploited SQL injection in a bug bounty program?
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @samwcyo — 2017-10-24 04:09 UTC (2017-10-24 05:09 WAT)
+
+- URL: https://x.com/samwcyo/status/922676514818351104
+- Metrics (at fetch): not returned
+
+> Hackers: have you ever exploited SQL injection in a bug bounty program?
+
+
+---
+
+## 2017-09-20 · Post · Yay, I was awarded a $1,750 bounty on @Hacker0x01! https://hackerone.com/zlz TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-09-20 16:59 UTC (2017-09-20 17:59 WAT)
+
+- URL: https://x.com/samwcyo/status/910549025434333184
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,750 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-09-14 · Post · Poll: what do you think of researchers publicly disclosing bounty earnings?
+
+
+### Post — @samwcyo — 2017-09-14 21:52 UTC (2017-09-14 22:52 WAT)
+
+- URL: https://x.com/samwcyo/status/908448324016934912
+- Metrics (at fetch): not returned
+
+> Poll: what do you think of researchers publicly disclosing bounty earnings?
+
+
+---
+
+## 2017-09-11 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/zlz TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-09-11 21:48 UTC (2017-09-11 22:48 WAT)
+
+- URL: https://x.com/samwcyo/status/907360110808363008
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-08-24 · Post · Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://hackerone.com/zlz TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-08-24 01:54 UTC (2017-08-24 02:54 WAT)
+
+- URL: https://x.com/samwcyo/status/900536835394293761
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-08-23 · Post · Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://hackerone.com/zlz TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-08-23 23:35 UTC (2017-08-24 00:35 WAT)
+
+- URL: https://x.com/samwcyo/status/900501795641868288
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-08-19 · Post · Just came back to an endpoint that I couldn't exploit a week ago and found a pretty decent vulnerabi
+
+
+### Post — @samwcyo — 2017-08-19 01:40 UTC (2017-08-19 02:40 WAT)
+
+- URL: https://x.com/samwcyo/status/898721212766887936
+- Metrics (at fetch): not returned
+
+> Just came back to an endpoint that I couldn't exploit a week ago and found a pretty decent vulnerability! Always revisit when unsure!
+
+
+---
+
+## 2017-08-09 · Post · Yay, I was awarded a $600 and $500 bounty on @Hacker0x01! https://hackerone.com/zlz TogetherWeHitHa
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-08-09 06:19 UTC (2017-08-09 07:19 WAT)
+
+- URL: https://x.com/samwcyo/status/895167685788565504
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $600 and $500 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-07-06 · Post · Yay, I was awarded a $4,000 bounty on @Hacker0x01! https://hackerone.com/zlz TogetherWeHitHarder (x
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-07-06 23:50 UTC (2017-07-07 00:50 WAT)
+
+- URL: https://x.com/samwcyo/status/883110865519562753
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $4,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder (x2)
+
+**Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-06-25 · Post · Permanent account takeover on Yahoo’s Small Business platform
+
+
+Tags (automatic): Account takeover, Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-06-25 20:48 UTC (2017-06-25 21:48 WAT)
+
+- URL: https://x.com/samwcyo/status/879078980615364609
+- Metrics (at fetch): not returned
+
+> Permanent account takeover on Yahoo’s Small Business platform
+> http://samcurry.net/permanent-account-takeover-on-yahoo-small-business/
+> #bugbounty #hackerone
+
+**Links in post:** http://samcurry.net/permanent-account-takeover-on-yahoo-small-business/
+
+
+---
+
+## 2017-06-17 · Post · Just submitted another critical alongside @thedawgyg. We're seriously destroying this program.
+
+
+### Post — @samwcyo — 2017-06-17 21:42 UTC (2017-06-17 22:42 WAT)
+
+- URL: https://x.com/samwcyo/status/876193347819495425
+- Metrics (at fetch): not returned
+
+> Just submitted another critical alongside @thedawgyg. We're seriously destroying this program.
+
+
+---
+
+## 2017-06-15 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/zlz TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-06-15 03:29 UTC (2017-06-15 04:29 WAT)
+
+- URL: https://x.com/samwcyo/status/875193421085978624
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/zlz

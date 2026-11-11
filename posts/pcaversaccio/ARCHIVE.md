@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 138
-- Conversations/threads: 138
-- Oldest post captured: 2023-02-10
+- Posts in this file: 159
+- Conversations/threads: 159
+- Oldest post captured: 2022-10-21
 - Newest post captured: 2026-09-03
 
 
@@ -2948,3 +2948,390 @@ Tags (automatic): Smart contract / DeFi
     >
     > We will come back with a detailed report and remedies soon.
     
+
+
+---
+
+## 2023-02-07 · Post · 1/ guys, it would be an understatement to say I'm only slightly proud. 11,813 SLOC, 359 unit tests, 
+
+
+### Post — @pcaversaccio — 2023-02-07 10:15 UTC (2023-02-07 11:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622901883248562178
+- Metrics (at fetch): bookmark 14, impression 23995, like 164, quote 0, reply 10, retweet 15
+
+> 1/ guys, it would be an understatement to say I'm only slightly proud. 11,813 SLOC, 359 unit tests, 142 fuzz tests, 24 invariant tests (overall 525 tests), and I almost got insane coding up this huge milestone for 🐍 snekmate! https://t.co/jbGPyCLXwf https://t.co/5bmBBrcvD3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoWwbOeXwAEPBrU.png — no alt text provided by author
+
+
+---
+
+## 2023-02-06 · Post · recommend adding something like that to certain tests where u fuzz addresses &amp; don't want to mes
+
+
+### Post — @pcaversaccio — 2023-02-06 13:48 UTC (2023-02-06 14:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622593006942531584
+- Metrics (at fetch): bookmark 4, impression 4494, like 19, quote 1, reply 1, retweet 1
+
+> recommend adding something like that to certain tests where u fuzz addresses &amp; don't want to mess up with the precompiles - there is even a cheat code for this called `assumeNoPrecompiles` but that one allows for `0x0` while the below snippet disallows it. https://t.co/2xYszoTaUZ https://t.co/l4ICI9jyR6 https://t.co/4f79sHhgXV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoSbI8pX0AAcR26.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @619916463 — 2023-02-06 11:32 UTC (2023-02-06 12:32 WAT)
+    
+    - URL: https://x.com/619916463/status/1622558791685242880
+    - Metrics (at fetch): bookmark 31, impression 13682, like 119, quote 1, reply 8, retweet 11
+    
+    > A common mistake I see in Foundry code bases is the incorrect use of the `vm.assume` cheatcode.
+    >
+    > `vm.assume` should be used only for narrow checks. If you don't do this, you'll bump into the "Too many global rejects" error.
+    >
+    > You should instead use the `bound` utility like this: https://t.co/vEwhqd7bAw
+    
+    **Media:**
+    - media `3_1622558365598588928` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-03 · Post · why tf am I listed here now... just because I talked about trusted setups within zk-SNARKs? https://
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-02-03 09:43 UTC (2023-02-03 10:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621444214599958529
+- Metrics (at fetch): bookmark 0, impression 1775, like 8, quote 0, reply 0, retweet 0
+
+> why tf am I listed here now... just because I talked about trusted setups within zk-SNARKs? https://t.co/YZFHFCjPGT
+
+**Quoted post** 1621437698861928449: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-02-01 · Post · Exploit tx: https://t.co/wAXkcnepsX https://t.co/fZD0YNjf71
+
+
+### Post — @pcaversaccio — 2023-02-01 22:26 UTC (2023-02-01 23:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620911436259278860
+- Metrics (at fetch): bookmark 1, impression 1110, like 3, quote 0, reply 1, retweet 0
+
+> Exploit tx: https://t.co/wAXkcnepsX https://t.co/fZD0YNjf71
+
+**Quoted post (full text):**
+
+    #### Quoted post — @963767159536209921 — 2023-02-01 22:05 UTC (2023-02-01 23:05 WAT)
+    
+    - URL: https://x.com/963767159536209921/status/1620906236924370945
+    - Metrics (at fetch): bookmark 2, impression 8761, like 12, quote 1, reply 0, retweet 6
+    
+    > BonqDAO exploited for $88 million, Allianceblock tokens stolen during the exploit https://t.co/ulBEwIqzRQ
+    
+
+
+---
+
+## 2023-02-01 · Post · one morning you wake up, drink some coffee and start analysing the Solidity source code. At one poin
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-01 08:55 UTC (2023-02-01 09:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620707341250494464
+- Metrics (at fetch): bookmark 6, impression 16985, like 66, quote 0, reply 19, retweet 1
+
+> one morning you wake up, drink some coffee and start analysing the Solidity source code. At one point u realise a weird behavior &amp; after digging into the details u realise there is a 0day bug that let's u externally access internal functions (that are usually unprotected). Wdyd?
+
+
+---
+
+## 2023-01-31 · Post · some blackhat, ... ehm I meant whitehat alpha - define invariants you want to break and ask Echidna 
+
+
+### Post — @pcaversaccio — 2023-01-31 13:41 UTC (2023-01-31 14:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620416904782561287
+- Metrics (at fetch): bookmark 4, impression 2207, like 23, quote 0, reply 0, retweet 1
+
+> some blackhat, ... ehm I meant whitehat alpha - define invariants you want to break and ask Echidna or a fuzzer to break/falsify it. The output with the counterexample you will get are the params for the attack. (ofc it's not that simple but you get the idea)
+
+
+---
+
+## 2023-01-30 · Post · There seems to be a widespread misconception that zk-SNARKs require a trusted setup (e.g. to generat
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-01-30 12:44 UTC (2023-01-30 13:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620040263711469568
+- Metrics (at fetch): bookmark 3, impression 3208, like 26, quote 1, reply 0, retweet 7
+
+> There seems to be a widespread misconception that zk-SNARKs require a trusted setup (e.g. to generate a common reference string) and zk-STARKs do not. This is _not_ true. You should check out Halo from Zcash as an example that eliminates the trusted setup. https://t.co/RSTQiB0OUT
+
+
+---
+
+## 2023-01-28 · Post · The issue that multiple precompiles return null values instead of appropriate reverts is a bug not a
+
+
+### Post — @pcaversaccio — 2023-01-28 11:22 UTC (2023-01-28 12:22 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1619294874007916544
+- Metrics (at fetch): bookmark 4, impression 9076, like 34, quote 0, reply 7, retweet 3
+
+> The issue that multiple precompiles return null values instead of appropriate reverts is a bug not a feature. Most famous example is `ecrecover` that returns zero on an error (e.g. too short signature). Null returns are footguns that must be checked in code.
+
+
+---
+
+## 2023-01-20 · Post · so @real_philogy nerd-sniped me into BLS signature aggregation - it's amazing how to get there so fa
+
+
+### Post — @pcaversaccio — 2023-01-20 13:17 UTC (2023-01-20 14:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616424603005460482
+- Metrics (at fetch): bookmark 2, impression 1010, like 2, quote 0, reply 0, retweet 1
+
+> so @real_philogy nerd-sniped me into BLS signature aggregation - it's amazing how to get there so fast after this tweet lmfao. Currently reading: https://t.co/GLyBKCCFUL. question: is there a bullet-proof way of aggregating BLS signatures that are not prone to an attack vector? https://t.co/j2n3vrGSdE https://t.co/TvK75mVhU3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fm6xI7sXEAIejw-.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-01-20 12:27 UTC (2023-01-20 13:27 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1616411988606722048
+    - Metrics (at fetch): bookmark 1, impression 4840, like 39, quote 2, reply 4, retweet 1
+    
+    > Sure, sex is cool but what if you could have account abstraction implemented where each wallet can define its supported signature types (BLS I'm coooming - yes it is meant ambiguously🙃).
+    
+
+
+---
+
+## 2023-01-20 · Post · Sure, sex is cool but what if you could have account abstraction implemented where each wallet can d
+
+
+### Post — @pcaversaccio — 2023-01-20 12:27 UTC (2023-01-20 13:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616411988606722048
+- Metrics (at fetch): bookmark 1, impression 4840, like 39, quote 2, reply 4, retweet 1
+
+> Sure, sex is cool but what if you could have account abstraction implemented where each wallet can define its supported signature types (BLS I'm coooming - yes it is meant ambiguously🙃).
+
+
+---
+
+## 2023-01-16 · Post · Another read-only reentrancy exploit. https://t.co/7tAgjZgCeL
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-01-16 09:01 UTC (2023-01-16 10:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1614910671476375552
+- Metrics (at fetch): bookmark 15, impression 9246, like 46, quote 1, reply 3, retweet 5
+
+> Another read-only reentrancy exploit. https://t.co/7tAgjZgCeL
+
+**Quoted post** 1614705804468424704: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-01-08 · Post · What's the difference between zk-SNARKs and zk-STARKs? Only wrong answers.
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-01-08 21:55 UTC (2023-01-08 22:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1612206395662688256
+- Metrics (at fetch): bookmark 5, impression 17815, like 36, quote 0, reply 32, retweet 3
+
+> What's the difference between zk-SNARKs and zk-STARKs? Only wrong answers.
+
+
+---
+
+## 2023-01-02 · Post · Important distinction: ZK-SNARKs can hold private state that someone knows. ZK-SNARKs cannot hold pr
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-01-02 15:34 UTC (2023-01-02 16:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1609936118224506882
+- Metrics (at fetch): bookmark 6, impression 9794, like 79, quote 0, reply 6, retweet 1
+
+> Important distinction: ZK-SNARKs can hold private state that someone knows. ZK-SNARKs cannot hold private state that nobody knows.
+
+
+---
+
+## 2022-12-29 · Post · I repeat: the math behind zk-proofs is still under appreciated
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2022-12-29 20:16 UTC (2022-12-29 21:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1608557482418536448
+- Metrics (at fetch): bookmark 11, impression 30664, like 244, quote 3, reply 18, retweet 11
+
+> I repeat: the math behind zk-proofs is still under appreciated
+
+
+---
+
+## 2022-12-14 · Post · In the meantime, for every reentrancy attack in my list, I now added the victim &amp; exploit contra
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-14 13:20 UTC (2022-12-14 14:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1603017175601643523
+- Metrics (at fetch): bookmark 20, impression 0, like 86, quote 0, reply 4, retweet 9
+
+> In the meantime, for every reentrancy attack in my list, I now added the victim &amp; exploit contract as well as the exploit transaction. Was a big effort but worth it! Happy analysing anon! https://t.co/3vb0kguVCG
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1461619763159961603 — 2022-12-14 12:07 UTC (2022-12-14 13:07 WAT)
+    
+    - URL: https://x.com/1461619763159961603/status/1602998705531064324
+    - Metrics (at fetch): bookmark 61, impression 0, like 165, quote 4, reply 2, retweet 25
+    
+    > Hey! This is your bimonthly reminder that reentrancy attacks are still a thing. 3 new hacks since the last reminder 👀➡️ https://t.co/mPEPTB1vBd https://t.co/72yYN1dRMy
+    
+    **Media:**
+    - media `3_1602998222410158080` (details not returned by the API)
+    
+
+
+---
+
+## 2022-12-13 · Post · so let me share an interesting scenario (not sure whether I should call it an attack):
+
+
+### Post — @pcaversaccio — 2022-12-13 15:35 UTC (2022-12-13 16:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602688558753513475
+- Metrics (at fetch): bookmark 17, impression 0, like 43, quote 0, reply 4, retweet 5
+
+> so let me share an interesting scenario (not sure whether I should call it an attack):
+> - deploy a new implementation contract including a `selfdestruct` possibility;
+> - upgrade the implementation and call in the same transaction `selfdestruct`;
+> -&gt; newImplementation == EOA https://t.co/ktgFAhRyma
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fj3jQlxXwAA3mvY.png — no alt text provided by author
+
+
+---
+
+## 2022-12-11 · Post · Who remembers... it's important to ask the right questions now and be generally critical... Not impl
+
+
+### Post — @pcaversaccio — 2022-12-11 09:45 UTC (2022-12-11 10:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601875846515638273
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Who remembers... it's important to ask the right questions now and be generally critical... Not implying anything here tho https://t.co/a0HQWuKdKI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjsBl-9XEAAewwx.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-30 · Post · 🫡a reminder that there are many bugs still out there (that one was not a critical one tho, but still
+
+
+### Post — @pcaversaccio — 2022-11-30 14:08 UTC (2022-11-30 15:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597955647727075329
+- Metrics (at fetch): bookmark 4, impression 0, like 77, quote 1, reply 2, retweet 2
+
+> 🫡a reminder that there are many bugs still out there (that one was not a critical one tho, but still important to report); you should give it a try and learn a lot by doing it :) https://t.co/y7V1iwYIgW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi0TYyNXgAE5dLp.png — no alt text provided by author
+
+
+---
+
+## 2022-11-01 · Post · I am deeply saddened by what has happened to Nikolai (@delete_shitcoin). We have lost a remarkable h
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-11-01 10:00 UTC (2022-11-01 11:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1587384134607015936
+- Metrics (at fetch): bookmark 26, impression 0, like 289, quote 4, reply 11, retweet 40
+
+> I am deeply saddened by what has happened to Nikolai (@delete_shitcoin). We have lost a remarkable human being. I last interacted with him re the first reentrancy attack ever and it was very important to him to preserve this history. That is why I am sharing this with you now. https://t.co/cXJOhg60AC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FgeEjVfWYAAHiMk.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-27 · Post · Since @0xalpharush asked for it, here we go: For every reentrancy attack in my "list of reentrancy a
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-10-27 21:14 UTC (2022-10-27 22:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1585741667025489920
+- Metrics (at fetch): bookmark 139, impression 0, like 313, quote 8, reply 12, retweet 50
+
+> Since @0xalpharush asked for it, here we go: For every reentrancy attack in my "list of reentrancy attacks to date" (https://t.co/SdU9lpu9GP) I now added the victim &amp; exploit contract as well as the exploit transaction. Was a big effort but worth it! Happy analysing anon 😎 https://t.co/vpGdHlxC7Q
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FgGuxmVWQAMBPKb.png — no alt text provided by author
+
+
+---
+
+## 2022-10-21 · Post · spaces can ruin your life - took me 4 hrs yesterday to find the bug lol... https://t.co/fmcIVrzOxO
+
+
+### Post — @pcaversaccio — 2022-10-21 07:47 UTC (2022-10-21 08:47 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1583364237824778240
+- Metrics (at fetch): bookmark 9, impression 0, like 158, quote 3, reply 21, retweet 7
+
+> spaces can ruin your life - took me 4 hrs yesterday to find the bug lol... https://t.co/fmcIVrzOxO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ffk9E0vX0AIqSh_.jpg — no alt text provided by author

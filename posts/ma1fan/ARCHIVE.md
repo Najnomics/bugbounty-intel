@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 72
-- Conversations/threads: 71
-- Oldest post captured: 2025-03-23
+- Posts in this file: 83
+- Conversations/threads: 82
+- Oldest post captured: 2025-02-21
 - Newest post captured: 2026-11-10
 
 
@@ -1633,6 +1633,60 @@ Tags (automatic): ZK
 
 ---
 
+## 2025-04-14 · Post · 很高兴能够与@Christianeth   @0xinfini 成为partner，这也是对我们安全技术能力的肯定
+
+
+### Post — @ma1fan — 2025-04-14 13:44 UTC (2025-04-14 14:44 WAT)
+
+- URL: https://x.com/ma1fan/status/1911777567558029488
+- Metrics (at fetch): bookmark 0, impression 1023, like 8, quote 0, reply 3, retweet 0
+
+> 很高兴能够与@Christianeth   @0xinfini 成为partner，这也是对我们安全技术能力的肯定
+> web3安全不仅仅是链上安全，传统web2的安全问题，一样会造成很大的经济损失，通过此次合作，我们看到了@0xinfini 团队对安全极其重视。 https://t.co/IfxRV2En72
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1462957339300925443 — 2025-04-14 10:27 UTC (2025-04-14 11:27 WAT)
+    
+    - URL: https://x.com/1462957339300925443/status/1911728051832147970
+    - Metrics (at fetch): bookmark 1, impression 12286, like 65, quote 3, reply 22, retweet 3
+    
+    > 被盗之后我们开始与更多的安全公司/社区展开长期合作，除了自己安全部门的扩充和权限管理优化外，也会在每次迭代以及定期做多家的审计和测试，后面会总结更详尽的报告。 https://t.co/oGlpiwFhMB
+    
+    **Quoted post** 1911722305358545089: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-04-14 · Post · 很高兴能够与@Christianeth   @0xinfini 成为partner，这也是对我们安全技术能力的肯定，PS: 我们团队可能是华语区web3 安全bug bounty排名领先的团队了，这也
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2025-04-14 13:38 UTC (2025-04-14 14:38 WAT)
+
+- URL: https://x.com/ma1fan/status/1911775955594691046
+- Metrics (at fetch): bookmark 0, impression 116, like 1, quote 0, reply 0, retweet 0
+
+> 很高兴能够与@Christianeth   @0xinfini 成为partner，这也是对我们安全技术能力的肯定，PS: 我们团队可能是华语区web3 安全bug bounty排名领先的团队了，这也是真正安全能力的体现。我个人现在在 @immunefi  也排名全球top https://t.co/IfxRV2En72
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1462957339300925443 — 2025-04-14 10:27 UTC (2025-04-14 11:27 WAT)
+    
+    - URL: https://x.com/1462957339300925443/status/1911728051832147970
+    - Metrics (at fetch): bookmark 1, impression 12286, like 65, quote 3, reply 22, retweet 3
+    
+    > 被盗之后我们开始与更多的安全公司/社区展开长期合作，除了自己安全部门的扩充和权限管理优化外，也会在每次迭代以及定期做多家的审计和测试，后面会总结更详尽的报告。 https://t.co/oGlpiwFhMB
+    
+    **Quoted post** 1911722305358545089: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
 ## 2025-03-23 · Post · 我们@exvulsec招人啦：
 
 
@@ -1645,3 +1699,243 @@ Tags (automatic): ZK
 > 1.招一名合约审计实习生，有move，rust审计经验的最好
 > 2.招一名应届渗透测试安全研究员
 > 欢迎DM，只招中国人
+
+
+---
+
+## 2025-03-20 · Post · Thrilled to partner with @hackenproof! At @Exvulsec, we're passionate about fortifying Web3 security
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: HackenProof
+
+
+### Post — @ma1fan — 2025-03-20 15:24 UTC (2025-03-20 16:24 WAT)
+
+- URL: https://x.com/ma1fan/status/1902742955288568266
+- Metrics (at fetch): bookmark 0, impression 932, like 8, quote 0, reply 0, retweet 0
+
+> Thrilled to partner with @hackenproof! At @Exvulsec, we're passionate about fortifying Web3 security. This collaboration will bring innovative solutions like the Dual Defense Flash Pool &amp; enhanced bug bounty programs to the forefront. Let's build a safer blockchain space https://t.co/zNr0vhg77S
+
+**Quoted post (full text):**
+
+    #### Quoted post — @HackenProof — 2025-03-20 14:00 UTC (2025-03-20 15:00 WAT)
+    
+    - URL: https://x.com/HackenProof/status/1902721803543630050
+    - Metrics (at fetch): bookmark 1, impression 2519, like 16, quote 1, reply 1, retweet 4
+    
+    > 🚀 HackenProof x @exvulsec : Strengthening Blockchain Security Together!
+    >
+    > We're joining forces with @exvulsec  to offer enhanced security solutions for blockchain projects. This partnership brings together:
+    >
+    > 🔹 Bug bounty programs &amp; crowdsourced audits for deeper security testing https://t.co/Hhp0jOJDwv
+    
+    **Media:**
+    - media `3_1902654997398978560` (details not returned by the API)
+    
+
+
+---
+
+## 2025-03-17 · Post · The first time I knew about Solana was from a bug bounty on hackerone 5 years ago, but unfortunately
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: HackerOne
+
+
+### Post — @ma1fan — 2025-03-17 16:05 UTC (2025-03-17 17:05 WAT)
+
+- URL: https://x.com/ma1fan/status/1901666218203140194
+- Metrics (at fetch): bookmark 0, impression 2104, like 17, quote 0, reply 0, retweet 1
+
+> The first time I knew about Solana was from a bug bounty on hackerone 5 years ago, but unfortunately I didn’t take @solana seriously at the time…🤣🤣🤣 https://t.co/ZURDY0Rkav https://t.co/sOStVN3FJj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmQTNkMakAIJFB-.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @951329744804392960 — 2025-03-16 14:29 UTC (2025-03-16 15:29 WAT)
+    
+    - URL: https://x.com/951329744804392960/status/1901279678620749997
+    - Metrics (at fetch): bookmark 252, impression 2284995, like 11358, quote 797, reply 2241, retweet 2485
+    
+    > Happy 5th birthday Solana fam! 🥳
+    >
+    > 408+ billion transactions.
+    > 1,300+ validators.
+    > $987+ billion volume.
+    >
+    > Thank you to all the relentless founders, devs, and nCMOs around the globe who have made Solana what it is today — 5 years in, we're just getting started 🎊 https://t.co/p89PynhjpJ
+    
+    **Media:**
+    - media `3_1901278765776519168` (details not returned by the API)
+    
+
+
+---
+
+## 2025-03-04 · Post · I have update our audit report repo readme.
+
+
+### Post — @ma1fan — 2025-03-04 09:02 UTC (2025-03-04 10:02 WAT)
+
+- URL: https://x.com/ma1fan/status/1896848718261055922
+- Metrics (at fetch): bookmark 4, impression 603, like 2, quote 0, reply 1, retweet 0
+
+> I have update our audit report repo readme.
+> add our bug bounty Portfolio. now you can track our bug boubty reward. 😃
+> https://t.co/ltpngQmhcH
+
+
+---
+
+## 2025-03-04 · Post · we have update our audit report repo readme.
+
+
+### Post — @ma1fan — 2025-03-04 09:02 UTC (2025-03-04 10:02 WAT)
+
+- URL: https://x.com/ma1fan/status/1896848654847365495
+- Metrics (at fetch): bookmark 0, impression 8, like 0, quote 0, reply 0, retweet 0
+
+> we have update our audit report repo readme.
+> add our bug bounty Portfolio. now you can track our bug boubty reward. 😃
+> https://t.co/ltpngQmhcH
+
+
+---
+
+## 2025-03-04 · Post · we have update our audit report repo readme.
+
+
+### Post — @ma1fan — 2025-03-04 09:01 UTC (2025-03-04 10:01 WAT)
+
+- URL: https://x.com/ma1fan/status/1896848580637581732
+- Metrics (at fetch): bookmark 0, impression 8, like 0, quote 0, reply 0, retweet 0
+
+> we have update our audit report repo readme.
+> add our bug bounty Portfolio. now you can track our bug boubty reward. 😃
+> https://t.co/J2rnUxQXqn
+
+
+---
+
+## 2025-03-02 · Post · `proxy+delegatecall` is web2's memory RCE in web3 field.because hacker can execute the untrusted cod
+
+
+Tags (automatic): RCE, Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2025-03-02 11:54 UTC (2025-03-02 12:54 WAT)
+
+- URL: https://x.com/ma1fan/status/1896167191634137308
+- Metrics (at fetch): bookmark 6, impression 1398, like 7, quote 1, reply 0, retweet 1
+
+> `proxy+delegatecall` is web2's memory RCE in web3 field.because hacker can execute the untrusted code directly.
+> The Ethereum Foundation and Vitalik Buterin haven’t made much progress on the security of EVM, and they are still talking about cyberpunk. It’s really a pity. https://t.co/edAzvH8JOo
+
+**Quoted post (full text):**
+
+    #### Quoted post — @410963515 — 2025-03-02 03:25 UTC (2025-03-02 04:25 WAT)
+    
+    - URL: https://x.com/410963515/status/1896039153831415940
+    - Metrics (at fetch): bookmark 81, impression 82556, like 415, quote 21, reply 23, retweet 79
+    
+    > It's not intellectually honest to claim that the Bybit hack proves the EVM is fundamentally insecure (obviously, EVM, operational, and human factors were involved). However, if asked which policy would have the biggest impact on reducing the frequency and size of crypto hacks, I https://t.co/amtb5B6eAL https://t.co/vB5dfWoJ3b
+    
+    **Media:**
+    - media `3_1896039012181344256` (details not returned by the API)
+    
+    **Quoted post** 1895924670324752434: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-02-21 · Post · 浓眉大眼的 @Bybit_Official 不舍得多花点钱在安全上，宁愿被黑客盗走1.4B+,也不愿意多给白帽子多给点bounty😂，真的不知道该说什么好 https://t.co/dDOgphzwG
+
+
+### Post — @ma1fan — 2025-02-21 18:10 UTC (2025-02-21 19:10 WAT)
+
+- URL: https://x.com/ma1fan/status/1893000469510844894
+- Metrics (at fetch): bookmark 0, impression 1478, like 2, quote 0, reply 1, retweet 0
+
+> 浓眉大眼的 @Bybit_Official 不舍得多花点钱在安全上，宁愿被黑客盗走1.4B+,也不愿意多给白帽子多给点bounty😂，真的不知道该说什么好 https://t.co/dDOgphzwGq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1686334388789735425 — 2025-02-21 17:17 UTC (2025-02-21 18:17 WAT)
+    
+    - URL: https://x.com/1686334388789735425/status/1892986922382803047
+    - Metrics (at fetch): bookmark 6, impression 8500, like 52, quote 1, reply 7, retweet 6
+    
+    > In light of the recent @Bybit_Official billionaire hack, and in case you were wondering...
+    >
+    > They offer a generous 4,000 USDT for Critical vulnerabilities! A powerful contestant against @circle’s budget bounty
+    >
+    > It seems the ticker is $BYEBIT btw https://t.co/zai0CjtnB3
+    
+    **Media:**
+    - media `3_1892984090665627648` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-21 · Post · 浓眉大眼的 @Bybit_Official 不舍得多花点钱在安全上，宁愿被黑客盗走14B+,也不愿意多给白帽子多给点bounty😂，真的不知道该说什么好 https://t.co/dDOgphzwGq
+
+
+### Post — @ma1fan — 2025-02-21 18:07 UTC (2025-02-21 19:07 WAT)
+
+- URL: https://x.com/ma1fan/status/1892999604477612271
+- Metrics (at fetch): bookmark 0, impression 92, like 1, quote 0, reply 0, retweet 0
+
+> 浓眉大眼的 @Bybit_Official 不舍得多花点钱在安全上，宁愿被黑客盗走14B+,也不愿意多给白帽子多给点bounty😂，真的不知道该说什么好 https://t.co/dDOgphzwGq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1686334388789735425 — 2025-02-21 17:17 UTC (2025-02-21 18:17 WAT)
+    
+    - URL: https://x.com/1686334388789735425/status/1892986922382803047
+    - Metrics (at fetch): bookmark 6, impression 8500, like 52, quote 1, reply 7, retweet 6
+    
+    > In light of the recent @Bybit_Official billionaire hack, and in case you were wondering...
+    >
+    > They offer a generous 4,000 USDT for Critical vulnerabilities! A powerful contestant against @circle’s budget bounty
+    >
+    > It seems the ticker is $BYEBIT btw https://t.co/zai0CjtnB3
+    
+    **Media:**
+    - media `3_1892984090665627648` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-21 · Post · Our analysis of the bitcoin LND exploit https://t.co/2lm81ZUbfb
+
+
+### Post — @ma1fan — 2025-02-21 02:18 UTC (2025-02-21 03:18 WAT)
+
+- URL: https://x.com/ma1fan/status/1892760835803521053
+- Metrics (at fetch): bookmark 1, impression 643, like 2, quote 0, reply 0, retweet 0
+
+> Our analysis of the bitcoin LND exploit https://t.co/2lm81ZUbfb
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1703447900607664128 — 2025-02-21 02:06 UTC (2025-02-21 03:06 WAT)
+    
+    - URL: https://x.com/1703447900607664128/status/1892757846410088728
+    - Metrics (at fetch): bookmark 1, impression 1983, like 6, quote 1, reply 1, retweet 1
+    
+    > BREAKING: Bitcoin Lightning Network Alert – What Really Happened?
+    > Yesterday, senior Bitcoin developer "Calle" issued an urgent warning to  node operators using outdated software (pre-LND v0.18.5 or LITD  v0.14.1).
+    > https://t.co/N6GG2yY1rp
+    >
+    > Panic spread rapidly across the #Bitcoin https://t.co/X8hdJMHONA https://t.co/9CMhjpDNco
+    
+    **Media:**
+    - media `3_1892757748716359681` (details not returned by the API)
+    
+    **Quoted post** 1892113315620368453: not readable via the API (deleted, private, or withheld).
+    

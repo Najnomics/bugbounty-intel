@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 43
-- Oldest post captured: 2025-06-05
+- Posts in this file: 68
+- Conversations/threads: 49
+- Oldest post captured: 2025-02-27
 - Newest post captured: 2026-11-03
 
 
@@ -1083,3 +1083,121 @@ Tags (automatic): Platform: HackerOne
 > CC:@ThisIsDK999
 
 **Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2025-04-11 · Post · Give it a read🗣🗣🗣 nice writeup by @ThisIsDK999 https://t.co/92YeG90D9T
+
+
+### Post — @Assass1nmarcos — 2025-04-11 07:24 UTC (2025-04-11 08:24 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1910594820243939573
+- Metrics (at fetch): bookmark 4, impression 1473, like 18, quote 0, reply 0, retweet 1
+
+> Give it a read🗣🗣🗣 nice writeup by @ThisIsDK999 https://t.co/92YeG90D9T
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ThisIsDK999 — 2025-04-11 05:40 UTC (2025-04-11 06:40 WAT)
+    
+    - URL: https://x.com/ThisIsDK999/status/1910568741861286366
+    - Metrics (at fetch): bookmark 187, impression 17735, like 298, quote 5, reply 10, retweet 63
+    
+    > Take a look at my blog w/ @Bugcrowd where I talk about RCE and one of the ways it landed me a critical payout!
+    >
+    > https://t.co/iaqONivw4H
+    
+
+
+---
+
+## 2025-03-30 · Post · Some of you make $$$ just by bug hunting. I make mine with a hacker mindset through bug hunting—ther
+
+
+### Post — @Assass1nmarcos — 2025-03-30 14:55 UTC (2025-03-30 15:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1906359732991902107
+- Metrics (at fetch): bookmark 45, impression 13354, like 117, quote 4, reply 6, retweet 7
+
+> Some of you make $$$ just by bug hunting. I make mine with a hacker mindset through bug hunting—there’s a difference. If you’re only chasing bugs without that mindset, you won’t last. Give up now and prep for a 9-5 job interview. It’s better than trying to ride two boats at once.
+
+
+---
+
+## 2025-03-24 · Post · Everywhere I go :v 
+
+
+### Post — @Assass1nmarcos — 2025-03-24 04:17 UTC (2025-03-24 05:17 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1904024830938333293
+- Metrics (at fetch): bookmark 6, impression 3417, like 72, quote 0, reply 3, retweet 0
+
+> Everywhere I go :v 
+>
+> #cve #nextjs #bugbountymemes https://t.co/XB1QuWbjCP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gmx0faDaoAA380D.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-18 · Post · Hell yeah, my automation really killing it.
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2025-03-18 14:19 UTC (2025-03-18 15:19 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1902002004219547945
+- Metrics (at fetch): bookmark 36, impression 7461, like 149, quote 0, reply 5, retweet 4
+
+> Hell yeah, my automation really killing it.
+>
+> Vulnerability: XSS  to Session Takeover
+>
+> #bugbounty #bugbountytips https://t.co/AWxLjU2i01
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmVEve_bIAAMh6L.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-01 · Post · If anybody want @Hacker0x01  swags please come at hackerone booth before it goes out...... @nullcon 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-03-01 08:48 UTC (2025-03-01 09:48 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1895757972346978589
+- Metrics (at fetch): bookmark 1, impression 2755, like 36, quote 0, reply 4, retweet 1
+
+> If anybody want @Hacker0x01  swags please come at hackerone booth before it goes out...... @nullcon https://t.co/yanbPAIZmE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gk8V0aEXwAAbLg6.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-27 · Post · When you randomly send a report to company and didn't expected the bounty, but then after 6 hours yo
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @Assass1nmarcos — 2025-02-27 16:38 UTC (2025-02-27 17:38 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1895151419453325785
+- Metrics (at fetch): bookmark 13, impression 4344, like 83, quote 0, reply 5, retweet 1
+
+> When you randomly send a report to company and didn't expected the bounty, but then after 6 hours you recieved this email🫡🤧, some of these companies are gem and understand the  damages made by security Vulnerabilities could be far worse. 
+> It was an IDOR :p #BugBounty https://t.co/o1WfHlqOM0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkzuLAhWMAAvLmT.jpg — no alt text provided by author

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 121
-- Conversations/threads: 117
-- Oldest post captured: 2023-12-27
+- Posts in this file: 138
+- Conversations/threads: 134
+- Oldest post captured: 2023-10-09
 - Newest post captured: 2026-11-09
 
 
@@ -461,7 +461,21 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Links in post:** https://twitter.com/DevDacian/status/1711360309011882321
 
-**Quoted post** 1711360309011882321: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2023-10-09 12:37 UTC (2023-10-09 13:37 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1711360309011882321
+    - Metrics (at fetch): not returned
+    
+    > October 2022 - started learning solidity as a hobby
+    >
+    > March 2023 - focusing on security &amp; began writing my "Deep Dive" series
+    >
+    > October 2023 - blessed to join @cyfrin as a full-time smart contract security researcher!
+    >
+    > 🚀A lot can change in a year if you put your mind to it🚀
+    
 
 
 ---
@@ -2597,6 +2611,402 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2025-10-16 · Post · Shout out @0ximmeas @dev_chinmayf @alexzoid amazing result on Vault &amp; Lending audit finding:
+
+
+### Post — @DevDacian — 2025-10-16 11:38 UTC (2025-10-16 12:38 WAT)
+
+- URL: https://x.com/DevDacian/status/1978787747709006050
+- Metrics (at fetch): not returned
+
+> Shout out @0ximmeas @dev_chinmayf @alexzoid amazing result on Vault &amp; Lending audit finding:
+>
+> * 4 Crit
+> * 2 High
+> * 12 Med
+> * 5 Low
+> * 9 Info, 1 Gas
+>
+> Another Audit+ where we provided formal verification alongside manual review, now very popular combo from clients @cyfrin [pic.x.com/JbuiUmD6q6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3YQtAtaIAA9-if.png — no alt text provided by author
+
+
+---
+
+## 2025-10-10 · Post · 3 yrs ago - started learning Solidity as a hobby
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-10-10 09:18 UTC (2025-10-10 10:18 WAT)
+
+- URL: https://x.com/DevDacian/status/1976578173002567805
+- Metrics (at fetch): not returned
+
+> 3 yrs ago - started learning Solidity as a hobby
+>
+> 2 yrs ago - joined Cyfrin, consistently produced great private audit output
+>
+> 10 months ago - started managing audit team, produced great business results turned audit team into efficient 💰 printer
+>
+> Now - living the dream 💪 https://twitter.com/DevDacian/status/1711360309011882321
+
+**Links in post:** https://twitter.com/DevDacian/status/1711360309011882321
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2023-10-09 12:37 UTC (2023-10-09 13:37 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1711360309011882321
+    - Metrics (at fetch): not returned
+    
+    > October 2022 - started learning solidity as a hobby
+    >
+    > March 2023 - focusing on security &amp; began writing my "Deep Dive" series
+    >
+    > October 2023 - blessed to join @cyfrin as a full-time smart contract security researcher!
+    >
+    > 🚀A lot can change in a year if you put your mind to it🚀
+    
+
+
+---
+
+## 2025-10-09 · Post · Q) When I work with Cyfrin I get paid straight away after an audit, but when working with firms X/Y/
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-10-09 02:12 UTC (2025-10-09 03:12 WAT)
+
+- URL: https://x.com/DevDacian/status/1976108386321301618
+- Metrics (at fetch): not returned
+
+> Q) When I work with Cyfrin I get paid straight away after an audit, but when working with firms X/Y/Z it takes weeks and even months to get paid. Why is that?
+>
+> Being asked this a lot over the last few months; without knowing the internals of firms X/Y/Z, there are a number of reasons why firms would delay paying their bills especially to auditors:
+>
+> 1) Earning interest / yield - by delaying payment, a firm can park that capital in an interest-earning account or a yield-generating DeFi strategy, earning yield on the $ that is owed to auditors for as long as they can delay payment.
+>
+> The firm profits at the expense of auditors who could have done the same if they had been paid promptly.
+>
+> 2) Zero Cost Financing - the firm does not have enough work and/or is not getting paid in a timely manner by their clients, and/or has poor cash flow management.
+>
+> Delaying payment to their auditors is effectively an "interest-free loan", a zero-cost financing which helps them maintain adequate cash flow to service more important business expenses.
+>
+> Since the firm is giving the auditors work there is a power imbalance here as if the auditors complain about late payment the firm may stop giving them work.
+>
+> 3) Trading while insolvent - the firm is secretly insolvent but continuing to trade (illegal in many countries) hoping that its financial position will improve.
+>
+> If the firm is unable to improve its financial position, unpaid suppliers may never be paid if the firm declares bankruptcy going into liquidation.
+>
+> Ultimately this is a free market; auditors are free to engage or not engage with any firm. If auditors don't like waiting weeks or months to get paid, then simply don't engage with such firms.
+
+
+---
+
+## 2025-10-07 · Post · Shout out @giovannidisiena @1_00_proof @alexzoid amazing work on this very tough audit for @SorellaL
+
+
+### Post — @DevDacian — 2025-10-07 10:01 UTC (2025-10-07 11:01 WAT)
+
+- URL: https://x.com/DevDacian/status/1975501829225205966
+- Metrics (at fetch): not returned
+
+> Shout out @giovannidisiena @1_00_proof @alexzoid amazing work on this very tough audit for @SorellaLabs @angstromxyz finding:
+>
+> * 1 High
+> * 4 Med
+> * 5 Low, 8 Info, 6 Gas
+>
+> This was a very tough audit where the code was written by OG dev/auditor @real_philogy; felt like a huge victory requiring a lot of great teamwork to find the 1 High!
+>
+> Great to see more elite devs/auditors choosing
+> @cyfrin to audit their own protocols!
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G2pkHbNbIAEi8ee.png — no alt text provided by author
+
+
+---
+
+## 2025-10-01 · Post · If the AI detected a vulnerability, created a valid PoC, generated the fix, re-ran the test suite Po
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-10-01 14:27 UTC (2025-10-01 15:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1973394385975791975
+- Metrics (at fetch): not returned
+
+> If the AI detected a vulnerability, created a valid PoC, generated the fix, re-ran the test suite PoC now fails but all other tests still pass (no regressions), are you brave enough to hit deploy? https://twitter.com/octane_security/status/1973382137236611295
+
+**Links in post:** https://twitter.com/octane_security/status/1973382137236611295
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1678922837996998659 — 2025-10-01 13:38 UTC (2025-10-01 14:38 WAT)
+    
+    - URL: https://x.com/1678922837996998659/status/1973382137236611295
+    - Metrics (at fetch): not returned
+    
+    > Finally, at Level 5, autonomous systems detect, validate, and recommend fixes automatically.
+    >
+    > Code changes pass tests and are ready for deployment. [pic.x.com/2mKf3lgtvW]
+    
+    **Media:**
+    - media `3_1973380397279989761` (details not returned by the API)
+    
+
+
+---
+
+## 2025-09-29 · Post · Doing my best to provide interesting private audit opportunities for our Eagles with an efficient, s
+
+
+### Post — @DevDacian — 2025-09-29 10:30 UTC (2025-09-29 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1972609800505786809
+- Metrics (at fetch): not returned
+
+> Doing my best to provide interesting private audit opportunities for our Eagles with an efficient, smooth &amp; enjoyable process. [pic.x.com/iaZqoTQDue]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1rLMh9aQAAgvP9.png — no alt text provided by author
+
+
+---
+
+## 2025-09-25 · Post · Recently an Eagle worked for 12 days on a contract audit with @cyfrin &amp; made 2 years worth of th
+
+
+### Post — @DevDacian — 2025-09-25 10:30 UTC (2025-09-25 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1971160248967889222
+- Metrics (at fetch): not returned
+
+> Recently an Eagle worked for 12 days on a contract audit with @cyfrin &amp; made 2 years worth of the average salary in their country.
+>
+> Getting good at web3sec while living in low [income/cost/tax] countries can really change your life!
+
+
+---
+
+## 2025-09-23 · Post · Five types of people I have become wary of in the web3sec community:
+
+
+### Post — @DevDacian — 2025-09-23 09:45 UTC (2025-09-23 10:45 WAT)
+
+- URL: https://x.com/DevDacian/status/1970424189300756597
+- Metrics (at fetch): not returned
+
+> Five types of people I have become wary of in the web3sec community:
+>
+> 1⃣ people who frequently publicly sling mud at others, trying to raise themselves up by putting others down. This is really low-class, limited-mindset, schoolyard-level behavior
+>
+> 2⃣ people who misrepresent their relationships with others to try and get clients, win deals etc. This is deceitful behavior to gain material advantage and larger brands need to be especially aware of this
+>
+> 3⃣ people who never say anything good about another brand, product or service, but they only say good things about their own brand and won't ever praise or recognize good work by others especially competitors
+>
+> 4⃣ people with a savior/god complex who think they are the anointed ones, the chosen protagonists, our saviors the only true heroes, and everyone else sucks in comparison to them
+>
+> 5⃣ people who when you ask them a logical question, they don't respond to the question you asked but instead launch into a personal or ad-hominem attack
+
+
+---
+
+## 2025-09-19 · Post · Shout out @Ubermensh3dot0 @0xluk3 @__Raiders @0xaudron excellent work auditing custom TradFi off-cha
+
+
+### Post — @DevDacian — 2025-09-19 10:19 UTC (2025-09-19 11:19 WAT)
+
+- URL: https://x.com/DevDacian/status/1968983304356384842
+- Metrics (at fetch): not returned
+
+> Shout out @Ubermensh3dot0 @0xluk3 @__Raiders @0xaudron excellent work auditing custom TradFi off-chain bridging services, finding:
+>
+> * 3 High
+> * 4 Medium
+> * 4 Low
+> * 6 Info
+>
+> Fantastic result for this @cyfrin off-chain bridging services audit! [pic.x.com/Tka5hvBHfK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1M7b29aIAA33Vb.png — no alt text provided by author
+
+
+---
+
+## 2025-09-18 · Post · Contract A inherits functionality from Contract B &amp; interacts with contract C.
+
+
+### Post — @DevDacian — 2025-09-18 10:50 UTC (2025-09-18 11:50 WAT)
+
+- URL: https://x.com/DevDacian/status/1968628706638971053
+- Metrics (at fetch): not returned
+
+> Contract A inherits functionality from Contract B &amp; interacts with contract C.
+>
+> The Client wants you to audit A but leave B &amp; C out of scope.
+>
+> Can you correctly audit the behavior of A without also considering B &amp; C?
+
+
+---
+
+## 2025-09-11 · Post · Traditional Finance institutions tokenizing Real-World Assets are increasingly choosing @cyfrin!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-09-11 11:51 UTC (2025-09-11 12:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1966107358100410439
+- Metrics (at fetch): not returned
+
+> Traditional Finance institutions tokenizing Real-World Assets are increasingly choosing @cyfrin!
+>
+> TradFi &amp; RWA Tokenization now our #3 biggest audit category &amp; at this pace will soon be #1!
+>
+> Very happy helping secure traditional finance's migration to blockchain 🚀 [pic.x.com/dQ8q5sftyZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0kDUjLaMAEkMYo.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-09 · Post · Shout out @giovannidisiena @0xStalin @alexzoid fantastic work on Uniswap V4 Hooks audit finding:
+
+
+### Post — @DevDacian — 2025-09-09 10:30 UTC (2025-09-09 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1965362042912780320
+- Metrics (at fetch): not returned
+
+> Shout out @giovannidisiena @0xStalin @alexzoid fantastic work on Uniswap V4 Hooks audit finding:
+> * 6 Crit
+> * 13 High
+> * 11 Med, 15 Low
+> * 29 Info, 26 Gas
+>
+> Set new all-time high for longest @cyfrin report at 123 pages!
+>
+> Client fixed everything - amazing value provided💪 [pic.x.com/vQmllcrXIF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0ZD3ZybgAEU2Yh.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-05 · Post · Shout out @0kage_eth @dev_chinmayf great work finalizing two very important audits for @MetaMask @wo
+
+
+### Post — @DevDacian — 2025-09-05 10:40 UTC (2025-09-05 11:40 WAT)
+
+- URL: https://x.com/DevDacian/status/1963915146507796883
+- Metrics (at fetch): not returned
+
+> Shout out @0kage_eth @dev_chinmayf great work finalizing two very important audits for @MetaMask @worldlibertyfi!
+>
+> This is @cyfrin 5th audit for Metamask and 1st audit for WLFI; very happy to be helping secure high impact projects! [pic.x.com/LxlOgjJh7B]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0E5u2BbkAAy_Fl.png — no alt text provided by author
+
+
+---
+
+## 2025-09-02 · Post · Shout out @0ximmeas @alexzoid @1337web3 @PeterSRWeb3 amazing result on this UniswapV4 Hooks @cyfrin 
+
+
+### Post — @DevDacian — 2025-09-02 10:21 UTC (2025-09-02 11:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1962823063260549323
+- Metrics (at fetch): not returned
+
+> Shout out @0ximmeas @alexzoid @1337web3 @PeterSRWeb3 amazing result on this UniswapV4 Hooks @cyfrin security review, finding:
+>
+> * 2 Crit
+> * 2 High
+> * 1 Med, 4 Low, 13 Info
+>
+> @licredity is a novel UniswapV4 Hooks lending protocol enabling trading on interest rates. Code & test quality was high, protocol was generally very solid & defensive; the 2 Crit & 2 High findings were the rare exceptions and are a great study on interesting & creative bugs!
+>
+> On this audit @alexzoid focused on Formal Verification (FV) while working with our manual auditors producing a nice report, an FV suite which we provided to the client as an additional deliverable, and finding one of the Crits in assembly code which was missed by the manual auditors!
+>
+> Check out the full audit report and the FV report👇
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gz1ZIWuaoAIIOEd.png — no alt text provided by author
+
+
+---
+
+## 2025-08-29 · Post · hackers find the big, you get the most expensive audit ever! https://twitter.com/shafu0x/status/1961
+
+
+### Post — @DevDacian — 2025-08-29 12:33 UTC (2025-08-29 13:33 WAT)
+
+- URL: https://x.com/DevDacian/status/1961406799107576292
+- Metrics (at fetch): not returned
+
+> hackers find the big, you get the most expensive audit ever! https://twitter.com/shafu0x/status/1961405523716079963
+
+**Links in post:** https://twitter.com/shafu0x/status/1961405523716079963
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1147774234866987014 — 2025-08-29 12:28 UTC (2025-08-29 13:28 WAT)
+    
+    - URL: https://x.com/1147774234866987014/status/1961405523716079963
+    - Metrics (at fetch): not returned
+    
+    > hackers find the bug, you get a lesson for life
+    
+
+
+---
+
+## 2025-08-28 · Post · this was in a recent Cyfrin private audit, great stuff @alexzoid ! https://twitter.com/alexzoid_eth/
+
+
+### Post — @DevDacian — 2025-08-28 14:26 UTC (2025-08-28 15:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1961073025983390133
+- Metrics (at fetch): not returned
+
+> this was in a recent Cyfrin private audit, great stuff @alexzoid ! https://twitter.com/alexzoid_eth/status/1960987430426747273
+
+**Links in post:** https://twitter.com/alexzoid_eth/status/1960987430426747273
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1671041128366235650 — 2025-08-28 08:46 UTC (2025-08-28 09:46 WAT)
+    
+    - URL: https://x.com/1671041128366235650/status/1960987430426747273
+    - Metrics (at fetch): not returned
+    
+    > In a past private engagement with auditors, my @certora Formal Verification valid state property caught a CRIT in the assembly of a complex lending protocol, missed by manual reviews. 
+    >
+    > Clear proof of FV's value in complementing fuzzing and classic audits. [pic.x.com/VvMUNMU5Et]
+    
+    **Media:**
+    - media `3_1960987398642262016` (details not returned by the API)
+    
+
+
+---
+
 ## 2023-12-27 · Post · I recently contributed an invariant fuzzing testing suite to a project's repo then got hit with this
 
 
@@ -2611,3 +3021,25 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GCVvmEia4AAPomp.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-09 · Post · October 2022 - started learning solidity as a hobby
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-10-09 12:37 UTC (2023-10-09 13:37 WAT)
+
+- URL: https://x.com/DevDacian/status/1711360309011882321
+- Metrics (at fetch): not returned
+
+> October 2022 - started learning solidity as a hobby
+>
+> March 2023 - focusing on security &amp; began writing my "Deep Dive" series
+>
+> October 2023 - blessed to join @cyfrin as a full-time smart contract security researcher!
+>
+> 🚀A lot can change in a year if you put your mind to it🚀

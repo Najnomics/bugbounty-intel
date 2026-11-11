@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 42
-- Conversations/threads: 42
-- Oldest post captured: 2023-02-14
+- Posts in this file: 46
+- Conversations/threads: 46
+- Oldest post captured: 2022-10-24
 - Newest post captured: 2026-04-17
 
 
@@ -923,3 +923,85 @@ Tags (automatic): Smart contract / DeFi
 > 📍Amsterdam https://conference.hitb.org/hitbsecconf2023ams/product/hacking-cryptography-hitb2023ams/
 
 **Links in post:** https://conference.hitb.org/hitbsecconf2023ams/product/hacking-cryptography-hitb2023ams/
+
+
+---
+
+## 2022-12-06 · Post · Neodyme's @_localo_ @0x4d5aC @r0bre are competing in pwn2own with 2 entries: 
+
+
+Tags (automatic): Path normalization, Memory corruption / native
+
+
+### Post — @Neodyme — 2022-12-06 16:44 UTC (2022-12-06 17:44 WAT)
+
+- URL: https://x.com/Neodyme/status/1600169323808571394
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 3
+
+> Neodyme's @_localo_ @0x4d5aC @r0bre are competing in #pwn2own with 2 entries: 
+>
+> In the SOHO smashup category, we will be demonstrating a Netgear Router -&gt; HP Printer exploit chain. 
+>
+> In addition, we have a second Netgear WAN exploit in our back pocket! https://t.co/MGVSaEJTGU
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2022-12-06 00:48 UTC (2022-12-06 01:48 WAT)
+    
+    - URL: https://x.com/thezdi/status/1599928723259547648
+    - Metrics (at fetch): bookmark 3, impression 0, like 63, quote 11, reply 1, retweet 8
+    
+    > After a herculean effort by the scheduling crew, the agenda for #Pwn2Own Toronto 2022 is now available. 26 contestants. 66 entries. Four days. It should be a great event. https://t.co/OT3TIr77aL
+    
+
+
+---
+
+## 2022-11-15 · Post · Many dApps need on-chain randomness. But how can you efficiently obtain true randomness in a decent
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553924875014146
+- Metrics (at fetch): bookmark 7, impression 0, like 39, quote 2, reply 4, retweet 14
+
+> Many dApps need on-chain #randomness. But how can you efficiently obtain true randomness in a decentralised, trustless system? It turns out that this is an unsolved problem. Current solutions, including Verifiable Random Functions (VRFs), have fundamental issues. 🧵👇
+
+
+---
+
+## 2022-11-12 · Post · Who **actually** controls the largest projects on solana? What's the deal with Upgrade Authorities?
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496755258040327
+- Metrics (at fetch): bookmark 80, impression 0, like 284, quote 13, reply 15, retweet 82
+
+> Who **actually** controls the largest projects on #solana? What's the deal with Upgrade Authorities? Are your funds more safu in DeFi contracts than they were on #FTX?
+>
+> Let's find out 🧵👇
+
+
+---
+
+## 2022-10-24 · Post · Check out our newest blog post on one of the critical vulnerabilities we found in Solana's validator
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2022-10-24 21:26 UTC (2022-10-24 22:26 WAT)
+
+- URL: https://x.com/Neodyme/status/1584657599722815488
+- Metrics (at fetch): bookmark 6, impression 0, like 35, quote 1, reply 2, retweet 4
+
+> Check out our newest blog post on one of the critical vulnerabilities we found in Solana's validator code. This bug allowed anyone to inflate their stake to virtually any value, disrupting consensus. It was quickly fixed after we reported it last year.
+>
+> https://t.co/08OZGdtN3F

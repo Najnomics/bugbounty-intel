@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 19
-- Conversations/threads: 19
-- Oldest post captured: 2020-02-10
+- Posts in this file: 22
+- Conversations/threads: 22
+- Oldest post captured: 2019-07-22
 - Newest post captured: 2022-11-29
 
 
@@ -436,3 +436,72 @@ Tags (automatic): ZK
 > In "things I didn't expect I'd do", I broke @github today: after adding a scheduled Action to run @RustSec's cargo-audit, https://github.com/str4d/rage/actions reliably returns a 500 server error 🙃
 
 **Links in post:** https://github.com/str4d/rage/actions
+
+
+---
+
+## 2020-01-30 · Post · Opening up my Fun Friday task to a vote:
+
+
+### Post — @str4d — 2020-01-30 21:58 UTC (2020-01-30 22:58 WAT)
+
+- URL: https://x.com/str4d/status/1223002597218562051
+- Metrics (at fetch): not returned
+
+> Opening up my Fun Friday task to a vote:
+>
+> - Write ZIP 304 specifying signmessage support for Sapling shielded addresses
+> - Move librustzcash FFI crate into zcash/zcash repo
+> - Finish deprecating zcutil/build.sh
+> - Remove OpenSSL dependency from zcashd
+>
+> What should I hack on? #Zcash
+
+
+---
+
+## 2020-01-11 · Post · The next beta release of rage is up!
+
+
+### Post — @str4d — 2020-01-11 00:45 UTC (2020-01-11 01:45 WAT)
+
+- URL: https://x.com/str4d/status/1215796769822597122
+- Metrics (at fetch): not returned
+
+> The next beta release of rage is up!
+>
+> - Bug fixes!
+> - Binaries and Debian packages for ARMv7 and ARM64!
+> - Compatibility improvements!
+>
+> Binaries and changelog are here:
+> https://github.com/str4d/rage/releases/tag/v0.2.0
+
+**Links in post:** https://github.com/str4d/rage/releases/tag/v0.2.0
+
+
+---
+
+## 2019-07-22 · Post · Bounty services are not a good fit for cryptography implementations. They self-select the lowest qua
+
+
+### Post — @str4d — 2019-07-22 07:29 UTC (2019-07-22 08:29 WAT)
+
+- URL: https://x.com/str4d/status/1153205408942759937
+- Metrics (at fetch): not returned
+
+> Bounty services are not a good fit for cryptography implementations. They self-select the lowest quality result that can be completed in the shortest time.
+>
+> Use standard protocols from maintained libraries. If you really need a custom protocol/impl, hire a cryptographic engineer. https://twitter.com/SarahJamieLewis/status/1153192720514670592
+
+**Links in post:** https://twitter.com/SarahJamieLewis/status/1153192720514670592
+
+**Quoted post (full text):**
+
+    #### Quoted post — @7758132 — 2019-07-22 06:39 UTC (2019-07-22 07:39 WAT)
+    
+    - URL: https://x.com/7758132/status/1153192720514670592
+    - Metrics (at fetch): not returned
+    
+    > Tonight I made the mistake of getting curious about the quality of cryptography implementations that are sourced from code bounty services.
+    

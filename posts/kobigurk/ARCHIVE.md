@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 101
-- Conversations/threads: 100
-- Oldest post captured: 2020-08-09
+- Posts in this file: 104
+- Conversations/threads: 103
+- Oldest post captured: 2019-05-28
 - Newest post captured: 2026-11-07
 
 
@@ -2208,3 +2208,79 @@ Tags (automatic): ZK
 > I've found 0xc7312bac89d2ef8061a84eecc9e8b524e3570eea's planet at (6719, 753)! Verify my ZK proofs at @darkforest_eth (https://zkga.me)
 
 **Links in post:** https://zkga.me
+
+
+---
+
+## 2019-10-01 · Post · Mixers have a non trivial attack surface, where Sybil attacks are one possible vector.
+
+
+### Post — @kobigurk — 2019-10-01 16:25 UTC (2019-10-01 17:25 WAT)
+
+- URL: https://x.com/kobigurk/status/1179069763848409089
+- Metrics (at fetch): not returned
+
+> Mixers have a non trivial attack surface, where Sybil attacks are one possible vector.
+> This characterizes the Sybil attack and mitigations nicely. 
+> By @badcryptobitch https://twitter.com/IACRePrint/status/1179056823250378752
+
+**Links in post:** https://twitter.com/IACRePrint/status/1179056823250378752
+
+**Quoted post (full text):**
+
+    #### Quoted post — @542808418 — 2019-10-01 15:33 UTC (2019-10-01 16:33 WAT)
+    
+    - URL: https://x.com/542808418/status/1179056823250378752
+    - Metrics (at fetch): not returned
+    
+    > [New] Short Paper: Towards Characterizing Sybil Attacks in Cryptocurrency Mixers (Mikerah Quintyne-Collins)  http://ia.cr/2019/1111
+    
+    **Links in post:** http://ia.cr/2019/1111
+    
+
+
+---
+
+## 2019-09-09 · Post · zk-STARKs are a great technology. It's definitely something I'm exploring for various use cases. As 
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2019-09-09 07:40 UTC (2019-09-09 08:40 WAT)
+
+- URL: https://x.com/kobigurk/status/1170965142391185408
+- Metrics (at fetch): not returned
+
+> zk-STARKs are a great technology. It's definitely something I'm exploring for various use cases. As shown by StarkDEX, it's feasible for some cases, especially with new methods developed by StarkWare researchers (https://link.medium.com/M4qrqqSBPZ). 1/5 https://twitter.com/hudsonjameson/status/1170825166802292742
+
+**Links in post:** https://link.medium.com/M4qrqqSBPZ, https://twitter.com/hudsonjameson/status/1170825166802292742
+
+**Quoted post (full text):**
+
+    #### Quoted post — @801236832 — 2019-09-08 22:24 UTC (2019-09-08 23:24 WAT)
+    
+    - URL: https://x.com/801236832/status/1170825166802292742
+    - Metrics (at fetch): not returned
+    
+    > @badcryptobitch @zooko @greerso @StarkWareLtd @kobigurk can maybe answer the comments from @zooko @badcryptobitch?
+    
+
+
+---
+
+## 2019-05-28 · Post · Difficult morning:
+
+
+### Post — @kobigurk — 2019-05-28 06:35 UTC (2019-05-28 07:35 WAT)
+
+- URL: https://x.com/kobigurk/status/1133260610647580672
+- Metrics (at fetch): not returned
+
+> Difficult morning:
+>
+> note: Run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+>
+> error: internal compiler error: unexpected panic
+>
+> note: the compiler unexpectedly panicked. this is a bug.

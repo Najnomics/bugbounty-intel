@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 31
-- Conversations/threads: 10
+- Posts in this file: 35
+- Conversations/threads: 14
 - Oldest post captured: 2022-05-26
 - Newest post captured: 2024-11-14
 
@@ -433,6 +433,84 @@ Tags (automatic): ZK
 > https://0xparc.org/blog/2023-spring-residency
 
 **Links in post:** https://0xparc.org/blog/2023-spring-residency
+
+
+---
+
+## 2022-10-10 · Post · We'll be hosting fifteen incredible teams from across the ZK ecosystem at the DevconVI ZK Community
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-10-10 18:07 UTC (2022-10-10 19:07 WAT)
+
+- URL: https://x.com/0xPARC/status/1579533979832942593
+- Metrics (at fetch): bookmark 3, impression 0, like 37, quote 2, reply 2, retweet 10
+
+> We'll be hosting fifteen incredible teams from across the ZK ecosystem at the #DevconVI ZK Community Hub, from Tuesday through Friday. Stop by the Community Hub area (Floor 1, left of registration area) to check out these groups! 1/
+>
+> (details in replies)
+>
+> https://t.co/OzeDTMdzJG
+
+
+---
+
+## 2022-10-10 · Post · Hey @EFDevcon attendees! We will be co-hosting a full-day Applied ZK workshop with EF @PrivacyScalin
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-10-10 17:57 UTC (2022-10-10 18:57 WAT)
+
+- URL: https://x.com/0xPARC/status/1579531593718591491
+- Metrics (at fetch): bookmark 5, impression 0, like 31, quote 1, reply 1, retweet 9
+
+> Hey @EFDevcon attendees! We will be co-hosting a full-day Applied ZK workshop with EF @PrivacyScaling on Thrusday 10/13. #DevconVI 
+>
+> Location: Main venue, Floor 2 Workshop room 1.
+>
+> Full agenda linked below - or see the rest of this thread for details! 1/
+>
+> https://t.co/MciVg58dnX
+
+
+---
+
+## 2022-10-09 · Post · 1/ [DEVCON 🇨🇴] @0xPARC is hosting two sessions on Autonomous Worlds and on-chain games at Devcon Bog
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @0xPARC — 2022-10-09 22:36 UTC (2022-10-09 23:36 WAT)
+
+- URL: https://x.com/0xPARC/status/1579239451217182720
+- Metrics (at fetch): bookmark 12, impression 0, like 72, quote 3, reply 3, retweet 13
+
+> 1/ [DEVCON 🇨🇴] @0xPARC is hosting two sessions on Autonomous Worlds and on-chain games at Devcon Bogotá this coming week, joined by @latticexyz , @d_fdao, @movingcastles_ and more. Read on to see what we have in store 🧵
+
+
+---
+
+## 2022-08-24 · Post · 1/ [New Post] zkPairing Part 2: Technical Explainer
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545147530731520
+- Metrics (at fetch): bookmark 17, impression 0, like 51, quote 0, reply 4, retweet 15
+
+> 1/ [New Post] zkPairing Part 2: Technical Explainer
+>
+> @jonathanpwang, @vvhuang_, and @theyisun explain some of the techniques and optimizations behind circom-pairing, many of which are drawn from prior work in zk-ECDSA.
+>
+> https://t.co/zvBsVxMr8V
 
 
 ---

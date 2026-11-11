@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
-- Conversations/threads: 78
-- Oldest post captured: 2023-08-18
+- Posts in this file: 85
+- Conversations/threads: 85
+- Oldest post captured: 2023-06-20
 - Newest post captured: 2026-10-31
 
 
@@ -1503,3 +1503,138 @@ Tags (automatic): Platform: Bugcrowd
 > which one is good for Bug bounty ? 
 >
 > MAC or Windows?
+
+
+---
+
+## 2023-08-14 · Post · I earned $400 for my submission on @bugcrowd https://t.co/8AEW4gjRRj ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-08-14 18:02 UTC (2023-08-14 19:02 WAT)
+
+- URL: https://x.com/RootxRavi/status/1691148329680576512
+- Metrics (at fetch): bookmark 1, impression 3096, like 36, quote 0, reply 2, retweet 3
+
+> I earned $400 for my submission on @bugcrowd https://t.co/8AEW4gjRRj #ItTakesACrowd
+
+
+---
+
+## 2023-08-11 · Post · I earned $2,000 for my submission on @bugcrowd https://t.co/8AEW4gjk1L ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-08-11 14:06 UTC (2023-08-11 15:06 WAT)
+
+- URL: https://x.com/RootxRavi/status/1690001844351762432
+- Metrics (at fetch): bookmark 1, impression 5407, like 59, quote 0, reply 14, retweet 2
+
+> I earned $2,000 for my submission on @bugcrowd https://t.co/8AEW4gjk1L #ItTakesACrowd
+
+
+---
+
+## 2023-08-09 · Post · I and @0xAyub  earned $1,000 for my submission on @bugcrowd https://t.co/8AEW4gjRRj ItTakesACrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-08-09 03:45 UTC (2023-08-09 04:45 WAT)
+
+- URL: https://x.com/RootxRavi/status/1689120599413764096
+- Metrics (at fetch): bookmark 37, impression 10506, like 141, quote 0, reply 11, retweet 12
+
+> I and @0xAyub  earned $1,000 for my submission on @bugcrowd https://t.co/8AEW4gjRRj #ItTakesACrowd #BugBounty 
+>
+> No tip is needed for subdomain takeover pretty strate forward Vulnerability 
+>
+> Template use for detection: http/takeovers/pantheon-takeover.yaml https://t.co/OEOh1yhp59
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3D1YGKaUAAV3-K.png — no alt text provided by author
+
+
+---
+
+## 2023-07-06 · Post · Found 19 + LFI on Bugcrowd Program realize that SubDomain is OOS 🥵
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-07-06 17:03 UTC (2023-07-06 18:03 WAT)
+
+- URL: https://x.com/RootxRavi/status/1677000211972096001
+- Metrics (at fetch): bookmark 37, impression 18744, like 153, quote 0, reply 8, retweet 15
+
+> Found 19 + LFI on Bugcrowd Program realize that SubDomain is OOS 🥵
+> #bugbounty #bugcrowd #testing https://t.co/HRbHmCaZWV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0XmQDuacAMMQQY.png — no alt text provided by author
+
+
+---
+
+## 2023-07-06 · Post · CVE-2022-47003 Mura CMS - Authentication Bypass
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @RootxRavi — 2023-07-06 15:20 UTC (2023-07-06 16:20 WAT)
+
+- URL: https://x.com/RootxRavi/status/1676974438225711105
+- Metrics (at fetch): bookmark 32, impression 13181, like 80, quote 1, reply 3, retweet 17
+
+> CVE-2022-47003 Mura CMS - Authentication Bypass
+>
+> Nuclei template : 
+> https://t.co/TrOYfx08HX
+>
+> #bugbountytips  #bugbountytip #Security #testing https://t.co/ZzZPFeTtMb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0XOIUzaYAAkb-b.png — no alt text provided by author
+
+
+---
+
+## 2023-07-06 · Post · Rewarded for RCE😂
+
+
+Tags (automatic): RCE
+
+
+### Post — @RootxRavi — 2023-07-06 12:24 UTC (2023-07-06 13:24 WAT)
+
+- URL: https://x.com/RootxRavi/status/1676930025692725248
+- Metrics (at fetch): bookmark 7, impression 22731, like 129, quote 2, reply 17, retweet 6
+
+> Rewarded for RCE😂
+> #BugBounty #Security https://t.co/ZNadFY8BxB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0Wm0yfagAEDVGk.jpg — no alt text provided by author
+
+
+---
+
+## 2023-06-20 · Post · I earned $600 for my submission on @bugcrowd https://t.co/8AEW4gjRRj ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-06-20 21:28 UTC (2023-06-20 22:28 WAT)
+
+- URL: https://x.com/RootxRavi/status/1671268894504542208
+- Metrics (at fetch): bookmark 2, impression 3399, like 39, quote 0, reply 6, retweet 1
+
+> I earned $600 for my submission on @bugcrowd https://t.co/8AEW4gjRRj #ItTakesACrowd

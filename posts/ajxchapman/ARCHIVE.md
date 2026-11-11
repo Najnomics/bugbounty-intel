@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 58
-- Oldest post captured: 2023-08-16
+- Posts in this file: 82
+- Conversations/threads: 69
+- Oldest post captured: 2023-06-16
 - Newest post captured: 2024-11-27
 
 
@@ -1545,9 +1545,17 @@ Tags (automatic): XSS
     > Aaaaaaaand, I found one 🎉 Now I just need to get a Chrome 107 renderer exploit working and I'm done... https://t.co/OHDW1xG5x5 https://t.co/uzaXknjhk7
     
     **Media:**
-    - media `16_1691841109108887552` (details not returned by the API)
+    - animated_gif:  — no alt text provided by author
     
-    **Quoted post** 1691527327807623168: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @ajxchapman — 2023-08-15 19:08 UTC (2023-08-15 20:08 WAT)
+        
+        - URL: https://x.com/ajxchapman/status/1691527327807623168
+        - Metrics (at fetch): bookmark 1, impression 13313, like 38, quote 1, reply 4, retweet 0
+        
+        > I once again find myself hunting for XSS in order to exploit an RCE... why do I always do this to myself? 🤦‍♂️
+        
     
 
 
@@ -1582,6 +1590,236 @@ Tags (automatic): RCE
 > Aaaaaaaand, I found one 🎉 Now I just need to get a Chrome 107 renderer exploit working and I'm done... https://t.co/OHDW1xG5x5 https://t.co/uzaXknjhk7
 
 **Media:**
-- media `16_1691841109108887552` (details not returned by the API)
+- animated_gif:  — no alt text provided by author
 
-**Quoted post** 1691527327807623168: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @ajxchapman — 2023-08-15 19:08 UTC (2023-08-15 20:08 WAT)
+    
+    - URL: https://x.com/ajxchapman/status/1691527327807623168
+    - Metrics (at fetch): bookmark 1, impression 13313, like 38, quote 1, reply 4, retweet 0
+    
+    > I once again find myself hunting for XSS in order to exploit an RCE... why do I always do this to myself? 🤦‍♂️
+    
+
+
+---
+
+## 2023-08-15 · Post · I once again find myself hunting for XSS in order to exploit an RCE... why do I always do this to my
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @ajxchapman — 2023-08-15 19:08 UTC (2023-08-15 20:08 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691527327807623168
+- Metrics (at fetch): bookmark 1, impression 13313, like 38, quote 1, reply 4, retweet 0
+
+> I once again find myself hunting for XSS in order to exploit an RCE... why do I always do this to myself? 🤦‍♂️
+
+
+---
+
+## 2023-08-14 · Post · BugBounty Automation Development Diary, day 2:
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @ajxchapman — 2023-08-14 15:05 UTC (2023-08-14 16:05 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691103677920968704
+- Metrics (at fetch): bookmark 22, impression 12723, like 57, quote 0, reply 3, retweet 1
+
+> #BugBounty Automation Development Diary, day 2:
+>
+> Today was spent writing scraping scripts for program scopes from the platforms I mostly participate in, HackerOne, Bugcrowd and Intigriti... it did not exactly go smoothly 🙃 Platform breakdown below:
+>
+> #BBADD
+
+
+---
+
+## 2023-08-14 · Post · Ahhhhhh, it's even more amazing in person! I missed H1-702 in Vegas this year, so missed the H1-Elit
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ajxchapman — 2023-08-14 12:32 UTC (2023-08-14 13:32 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691065131696889857
+- Metrics (at fetch): bookmark 0, impression 5829, like 70, quote 0, reply 2, retweet 1
+
+> Ahhhhhh, it's even more amazing in person! I missed H1-702 in Vegas this year, so missed the H1-Elite awards. @Hacker0x01 shipped this framed print to me and it is gorgeous 😍 Thanks again to all of the HackerOne team who made this happen! https://t.co/v0U5xGctnD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3fd4W6WUAABdAV.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-02 · Post · That's disappointing news from @Hacker0x01. I wish everyone affected the very best of luck finding a
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ajxchapman — 2023-08-02 16:11 UTC (2023-08-02 17:11 WAT)
+
+- URL: https://x.com/ajxchapman/status/1686771730113609731
+- Metrics (at fetch): bookmark 1, impression 13016, like 52, quote 1, reply 4, retweet 6
+
+> That's disappointing news from @Hacker0x01. I wish everyone affected the very best of luck finding alternative roles. I really hope HackerOne provides adequate support to ease any hardship faced.
+>
+> https://t.co/zSGVBcmkSs
+
+
+---
+
+## 2023-07-28 · Post · "In order to follow along in our journey to achieving pre-auth RCE, you can spin up an instance of M
+
+
+Tags (automatic): RCE
+
+
+### Post — @ajxchapman — 2023-07-28 11:28 UTC (2023-07-28 12:28 WAT)
+
+- URL: https://x.com/ajxchapman/status/1684888569029316608
+- Metrics (at fetch): bookmark 1, impression 1967, like 6, quote 0, reply 0, retweet 0
+
+> "In order to follow along in our journey to achieving pre-auth RCE, you can spin up an instance of Metabase that is vulnerable by running the following command"
+>
+> 🔥🔥🔥 https://t.co/GT3BFQvcYm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @infosec_au — 2023-07-28 00:32 UTC (2023-07-28 01:32 WAT)
+    
+    - URL: https://x.com/infosec_au/status/1684723462919933952
+    - Metrics (at fetch): bookmark 67, impression 67600, like 378, quote 6, reply 9, retweet 105
+    
+    > The security research team at @assetnote found and reported a critical pre-auth RCE vulnerability to Metabase earlier this month CVE-2023-38646:
+    >
+    > https://t.co/ivf1PwweNj
+    >
+    > This one was an incredibly fun discovery as there are many roads to RCE through JDBC. We've published details https://t.co/05OIVQKE84
+    
+    **Media:**
+    - media `3_1684722290230198272` (details not returned by the API)
+    
+
+
+---
+
+## 2023-07-11 · Post · For reference, @Shopify (~$5.6bn revenue in 2022) awards hackers up to $200k for finding Critical vu
+
+
+### Post — @ajxchapman — 2023-07-11 11:34 UTC (2023-07-11 12:34 WAT)
+
+- URL: https://x.com/ajxchapman/status/1678729481370968064
+- Metrics (at fetch): bookmark 4, impression 16786, like 74, quote 1, reply 8, retweet 4
+
+> For reference, @Shopify (~$5.6bn revenue in 2022) awards hackers up to $200k for finding Critical vulnerabilities in their infrastructure.
+>
+> As a bug hunter I know where I would prefer to spend my time. https://t.co/RMeCEcEDIF
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ajxchapman — 2023-07-11 11:26 UTC (2023-07-11 12:26 WAT)
+    
+    - URL: https://x.com/ajxchapman/status/1678727572836737026
+    - Metrics (at fetch): bookmark 7, impression 51350, like 122, quote 2, reply 16, retweet 10
+    
+    > Visa (~$30bn revenue in 2022) awards hackers less than $3k for finding Critical vulnerabilities in their infrastructure 🤦‍♂️ https://t.co/Soztbbg9gk
+    
+    **Quoted post** 1678456855364878336: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-07-11 · Post · Visa (~$30bn revenue in 2022) awards hackers less than $3k for finding Critical vulnerabilities in t
+
+
+### Post — @ajxchapman — 2023-07-11 11:26 UTC (2023-07-11 12:26 WAT)
+
+- URL: https://x.com/ajxchapman/status/1678727572836737026
+- Metrics (at fetch): bookmark 7, impression 51350, like 122, quote 2, reply 16, retweet 10
+
+> Visa (~$30bn revenue in 2022) awards hackers less than $3k for finding Critical vulnerabilities in their infrastructure 🤦‍♂️ https://t.co/Soztbbg9gk
+
+**Quoted post** 1678456855364878336: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-07-08 · Post · Pretty brazen of IssueHunt to use the @Hacker0x01 mail forwarder to try and recruit bug hunters over
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ajxchapman — 2023-07-08 15:10 UTC (2023-07-08 16:10 WAT)
+
+- URL: https://x.com/ajxchapman/status/1677696681834426368
+- Metrics (at fetch): bookmark 1, impression 12574, like 24, quote 0, reply 3, retweet 1
+
+> Pretty brazen of IssueHunt to use the @Hacker0x01 mail forwarder to try and recruit bug hunters over to their bug bounty platform 🤦
+
+
+---
+
+## 2023-07-02 · Post · I hate to admit it, but naming significant vulnerabilities actually makes them much easier to talk a
+
+
+### Post — @ajxchapman — 2023-07-02 12:46 UTC (2023-07-02 13:46 WAT)
+
+- URL: https://x.com/ajxchapman/status/1675486188059209728
+- Metrics (at fetch): bookmark 2, impression 14829, like 94, quote 1, reply 7, retweet 5
+
+> I hate to admit it, but naming significant vulnerabilities actually makes them much easier to talk and read about. Every time I see a plain CVE number on Twitter I have to look it up to even begin to understand what on earth the tweet is talking about.
+
+
+---
+
+## 2023-06-27 · Post · There have been two cases recently where I had known a potential bug existed, but investigated and t
+
+
+### Post — @ajxchapman — 2023-06-27 15:28 UTC (2023-06-27 16:28 WAT)
+
+- URL: https://x.com/ajxchapman/status/1673715052321419264
+- Metrics (at fetch): bookmark 3, impression 6716, like 21, quote 0, reply 3, retweet 0
+
+> There have been two cases recently where I had known a potential bug existed, but investigated and thought on exploitation and impact for months before reporting.
+>
+> In one case the bug was paid out as a Low, in the other it was a Duplicate of an internal issue. 1/
+>
+> #BugBountyTips
+
+
+---
+
+## 2023-06-16 · Post · Huge thanks to @GitHubSecurity and the GitHub VIP Bug Bounty program for this ridiculously amazing s
+
+
+### Post — @ajxchapman — 2023-06-16 12:24 UTC (2023-06-16 13:24 WAT)
+
+- URL: https://x.com/ajxchapman/status/1669682393391792129
+- Metrics (at fetch): bookmark 2, impression 18071, like 102, quote 2, reply 2, retweet 1
+
+> Huge thanks to @GitHubSecurity and the GitHub VIP Bug Bounty program for this ridiculously amazing swag pack 😍 (There were also some great patches, but my daughter found those straight away 🤣) https://t.co/FGTuYhzVAN https://t.co/6qphxsHfQj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FyvmU0xWAAIf-xy.jpg — alt text: "Swag pack from the GitHub VIP Bug Bounty program including a hoodie emblazoned with my handle, an Octocat figurine, a baseball cap, a Fujifilm instax mini 11 and film and a thank you card."
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1602746592 — 2023-06-12 20:12 UTC (2023-06-12 21:12 WAT)
+    
+    - URL: https://x.com/1602746592/status/1668350571378769920
+    - Metrics (at fetch): bookmark 27, impression 102424, like 144, quote 2, reply 4, retweet 33
+    
+    > Introducing @github's revamped VIP bug bounty program! Check out the perks of being a Hacktocat and how you can earn an invite: https://t.co/ZlRdl5LH7X
+    

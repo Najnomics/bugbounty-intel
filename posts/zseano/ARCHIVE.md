@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 57
-- Conversations/threads: 51
+- Posts in this file: 59
+- Conversations/threads: 53
 - Oldest post captured: 2021-03-04
 - Newest post captured: 2026-11-09
 
@@ -971,6 +971,40 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): not returned
 
 > uh... why are loads of staff leaving hackerone? what's going on?
+
+
+---
+
+## 2026-01-03 · Post · It’s time to lock in. If you’re struggling with bug bounties, spend the next few weeks finding a tar
+
+
+### Post — @zseano — 2026-01-03 11:19 UTC (2026-01-03 12:19 WAT)
+
+- URL: https://x.com/zseano/status/2007411482083135860
+- Metrics (at fetch): bookmark 229, impression 35872, like 770, quote 5, reply 37, retweet 106
+
+> It’s time to lock in. If you’re struggling with bug bounties, spend the next few weeks finding a target you personally enjoy. Bigger the scope the better! Then focus on them everyday for the entire year. Aim to hack 2-3 hours minimum a day. You’ll learn lots and find bugs. 
+>
+> GL!
+
+
+---
+
+## 2025-12-17 · Post · HackerOne milestone program complete, level 10 achieved :D https://t.co/I5HCNTMpo2
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2025-12-17 22:41 UTC (2025-12-17 23:41 WAT)
+
+- URL: https://x.com/zseano/status/2001422509179064815
+- Metrics (at fetch): bookmark 9, impression 7771, like 193, quote 0, reply 9, retweet 2
+
+> HackerOne milestone program complete, level 10 achieved :D https://t.co/I5HCNTMpo2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G8Z7Ea1XMAA2sve.png — no alt text provided by author
 
 
 ---

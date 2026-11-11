@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 60
-- Conversations/threads: 60
-- Oldest post captured: 2023-03-20
+- Posts in this file: 70
+- Conversations/threads: 70
+- Oldest post captured: 2022-08-28
 - Newest post captured: 2026-11-05
 
 
@@ -1423,3 +1423,248 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Yet 66% of audits contain at least one critical vulnerability. 
 >
 > Why blockchain security is so difficult for world-class teams:
+
+
+---
+
+## 2023-01-21 · Post · Didn’t have time to pwn our smart contracts?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-01-21 03:54 UTC (2023-01-21 04:54 WAT)
+
+- URL: https://x.com/osec_io/status/1616645287854116864
+- Metrics (at fetch): bookmark 1, impression 2698, like 10, quote 0, reply 0, retweet 3
+
+> Didn’t have time to pwn our smart contracts?
+>
+> We’re extending writeup submissions to 25th January and posting the challenge author’s writeup shortly after! There’s $200 up for grabs and $200 more if you’re a @LamportDAO sandstorm participant!
+>
+> If you have a writeup, send us a DM! https://t.co/nRsaTDdyzF
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2023-01-13 14:34 UTC (2023-01-13 15:34 WAT)
+    
+    - URL: https://x.com/osec_io/status/1613907285935521798
+    - Metrics (at fetch): bookmark 14, impression 25895, like 53, quote 6, reply 3, retweet 13
+    
+    > Introducing our first CTF challenge of 2023: The ISTM List!
+    >
+    > https://t.co/VJ45uwJ4Bi 
+    >
+    > The challenge is now live till 20th January, more info below 👇 https://t.co/DHZweNNuTC
+    
+    **Media:**
+    - media `3_1613906236122202112` (details not returned by the API)
+    
+
+
+---
+
+## 2023-01-13 · Post · Introducing our first CTF challenge of 2023: The ISTM List!
+
+
+### Post — @osec_io — 2023-01-13 14:34 UTC (2023-01-13 15:34 WAT)
+
+- URL: https://x.com/osec_io/status/1613907285935521798
+- Metrics (at fetch): bookmark 14, impression 25895, like 53, quote 6, reply 3, retweet 13
+
+> Introducing our first CTF challenge of 2023: The ISTM List!
+>
+> https://t.co/VJ45uwJ4Bi 
+>
+> The challenge is now live till 20th January, more info below 👇 https://t.co/DHZweNNuTC
+
+**Media:**
+- media `3_1613906236122202112` (details not returned by the API)
+
+
+---
+
+## 2023-01-12 · Post · While smart contract security is important, there are other simple attack vectors, like Discord, tha
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
+
+- URL: https://x.com/osec_io/status/1613458740346241024
+- Metrics (at fetch): bookmark 10, impression 14932, like 91, quote 3, reply 5, retweet 43
+
+> While smart contract security is important, there are other simple attack vectors, like Discord, that have been used to socially engineer community members for their Discord credentials and private keys.
+>
+> Let's dive into the recent attacks on #Aptos Discords 👇 1/9 https://t.co/PS0QJsO35w
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmQhAlCXwAAG-cV.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-10 · Post · As part of a routine audit, we found a critical memory corruption issue in Solana’s onchain SDK. If 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-12-10 00:23 UTC (2022-12-10 01:23 WAT)
+
+- URL: https://x.com/osec_io/status/1601371947794804737
+- Metrics (at fetch): bookmark 15, impression 0, like 131, quote 5, reply 6, retweet 37
+
+> As part of a routine audit, we found a critical memory corruption issue in Solana’s onchain SDK. If you’ve ever used account reallocation, pay close attention ⏰
+>
+> Here’s how it all happened.
+> https://t.co/FGM99NUd4J
+
+
+---
+
+## 2022-11-14 · Post · 1/ Alameda has been a long-standing, loyal security audit client of ours. We also work closely with 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-11-14 05:09 UTC (2022-11-14 06:09 WAT)
+
+- URL: https://x.com/osec_io/status/1592021917749620736
+- Metrics (at fetch): bookmark 45, impression 0, like 169, quote 4, reply 9, retweet 63
+
+> 1/ Alameda has been a long-standing, loyal security audit client of ours. We also work closely with many projects on Solana, many of which are directly or indirectly affected by FTX’s insolvency. 
+>
+> Here’s our perspective. https://t.co/gD7WtF10EP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fhf5d2AWAAcd3bl.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-12 · Post · We’re continuing to investigate the recent Mango Markets hack. 
+
+
+### Post — @osec_io — 2022-10-12 02:16 UTC (2022-10-12 03:16 WAT)
+
+- URL: https://x.com/osec_io/status/1580019583854862338
+- Metrics (at fetch): bookmark 29, impression 0, like 268, quote 12, reply 12, retweet 67
+
+> We’re continuing to investigate the recent Mango Markets hack. 
+>
+> Let’s clear up some misinformation. 🧵 https://t.co/hCtTwz1l5c
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fe1Zn24UAAAjfDA.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-11 · Reply · @mangomarkets was just drained for over $100M. 
+
+
+### Post — @osec_io — 2022-10-11 22:59 UTC (2022-10-11 23:59 WAT)
+
+- URL: https://x.com/osec_io/status/1579969927020412929
+- Metrics (at fetch): bookmark 96, impression 0, like 1677, quote 547, reply 191, retweet 558
+
+> @mangomarkets was just drained for over $100M. 
+>
+> https://t.co/SI4hccCIQx
+>
+> 🧵 https://t.co/IAKyXgN8gM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fe0tge4aYAAlhsS.png — no alt text provided by author
+
+
+---
+
+## 2022-09-26 · Post · Excited to be partnering with @multisig to secure their onchain multisig -- be sure to check out the
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-09-26 15:52 UTC (2022-09-26 16:52 WAT)
+
+- URL: https://x.com/osec_io/status/1574426732165070849
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 1, reply 1, retweet 2
+
+> Excited to be partnering with @multisig to secure their onchain multisig -- be sure to check out their latest bug bounty as well! https://t.co/MFHpp2URRV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1392527288734998536 — 2022-09-26 15:29 UTC (2022-09-26 16:29 WAT)
+    
+    - URL: https://x.com/1392527288734998536/status/1574420962841309185
+    - Metrics (at fetch): bookmark 2, impression 0, like 36, quote 4, reply 1, retweet 9
+    
+    > 1/ Given enough eyeballs, all bugs are shallow. The time has come for yet another vital step towards ensuring security of our on-chain codebase.
+    >
+    > We are excited to announce a perpetual bug bounty for Squads V3.
+    >
+    > Powered by our commitment to open source from day one. https://t.co/q58bAo50pg
+    
+    **Media:**
+    - media `3_1574420955371212801` (details not returned by the API)
+    
+
+
+---
+
+## 2022-09-20 · Post · We want to thank @stader__near for trusting us to audit their liquid staking program! Great team and
+
+
+### Post — @osec_io — 2022-09-20 20:00 UTC (2022-09-20 21:00 WAT)
+
+- URL: https://x.com/osec_io/status/1572314789061206017
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> We want to thank @stader__near for trusting us to audit their liquid staking program! Great team and great product across all ecosystems. @staderlabs https://t.co/4Sna8iIuhY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1533733672310145024 — 2022-09-20 18:46 UTC (2022-09-20 19:46 WAT)
+    
+    - URL: https://x.com/1533733672310145024/status/1572296202036842497
+    - Metrics (at fetch): bookmark 1, impression 0, like 21, quote 1, reply 3, retweet 2
+    
+    > 3⃣Auditors gave #UpgradedNearX a clean bill of health
+    >
+    > Here are their reports👇
+    > 1⃣@BlockSecTeam: https://t.co/VgkbuUw7IE
+    > 2⃣@HalbornSecurity: https://t.co/rN60NfMfOr
+    > 3⃣@osec_io: https://t.co/Aa5WTt1gC0
+    >
+    > Stake #NEAR under top-notch security &amp; get ~29% APY @ https://t.co/64ywZ431Sd https://t.co/1oAipS4Tx8
+    
+    **Media:**
+    - media `16_1572295889175322624` (details not returned by the API)
+    
+
+
+---
+
+## 2022-08-28 · Post · Closed source @Solana programs used to be safe. We’ve changed that. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-28 00:42 UTC (2022-08-28 01:42 WAT)
+
+- URL: https://x.com/osec_io/status/1563688394437169152
+- Metrics (at fetch): bookmark 235, impression 0, like 717, quote 23, reply 21, retweet 161
+
+> Closed source @Solana programs used to be safe. We’ve changed that. 
+>
+> Learn how to hack Solana programs with our open-source #BinaryNinja plugin 👇
+>
+> https://t.co/Ru3LyGOVvU https://t.co/Un4OG8dRcu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbNTVrAVQAUS7ki.jpg — no alt text provided by author

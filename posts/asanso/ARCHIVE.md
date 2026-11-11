@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 94
-- Conversations/threads: 92
-- Oldest post captured: 2020-04-16
+- Posts in this file: 103
+- Conversations/threads: 101
+- Oldest post captured: 2018-04-09
 - Newest post captured: 2026-11-06
 
 
@@ -1896,3 +1896,173 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post** 1250823774179557381: not readable via the API (deleted, private, or withheld).
     
+
+
+---
+
+## 2020-02-04 · Post · PSA: I became so lazy at bug bounty that I have vulnerabilities (and probable bounties ) but too laz
+
+
+### Post — @asanso — 2020-02-04 12:25 UTC (2020-02-04 13:25 WAT)
+
+- URL: https://x.com/asanso/status/1224670273171005442
+- Metrics (at fetch): not returned
+
+> PSA: I became so lazy at bug bounty that I have vulnerabilities (and probable bounties ) but too lazy to report [pic.x.com/FSsSOhW4XP]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2020-01-07 · Post · The Curious Case of WebCrypto Diffie-Hellman on Firefox - Small Subgroups Key Recovery Attack on DH 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @asanso — 2020-01-07 07:34 UTC (2020-01-07 08:34 WAT)
+
+- URL: https://x.com/asanso/status/1214450115777351681
+- Metrics (at fetch): not returned
+
+> The Curious Case of WebCrypto Diffie-Hellman on Firefox - Small Subgroups Key Recovery Attack on DH https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html [pic.x.com/MKMtcRpLd4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ENqX8QXWoAEeWcI.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/ENqX8QZXkAEvUza.png — no alt text provided by author
+
+**Links in post:** https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
+
+
+---
+
+## 2020-01-03 · Post · PSA: I can't attend Real World Crypto 2020 :( starting Jan 8th. Said that all should go well I will 
+
+
+### Post — @asanso — 2020-01-03 14:19 UTC (2020-01-03 15:19 WAT)
+
+- URL: https://x.com/asanso/status/1213102466759319554
+- Metrics (at fetch): not returned
+
+> PSA: I can't attend Real World Crypto 2020 :( starting Jan 8th. Said that all should go well I will publish a blog post next Tuesday as appetizer focused on some curious crypto  bug that will be fixed Jan 7th :)
+
+
+---
+
+## 2019-11-13 · Post · Stating the obvious of the day. I am on a verge to try to develop a new cryptographic attack (I am n
+
+
+### Post — @asanso — 2019-11-13 13:48 UTC (2019-11-13 14:48 WAT)
+
+- URL: https://x.com/asanso/status/1194613083924242434
+- Metrics (at fetch): not returned
+
+> Stating the obvious of the day. I am on a verge to try to develop a new cryptographic attack (I am not sure I will achieve it but yeah). Now we give for grant attacks as "small subgroup attacks" for finite fields or "invalid curve attacks" for 1/2
+
+
+---
+
+## 2019-11-08 · Post · Argh again this zk field it gets faster than what any sane person can handle sigh https://twitter.co
+
+
+Tags (automatic): ZK
+
+
+### Post — @asanso — 2019-11-08 17:18 UTC (2019-11-08 18:18 WAT)
+
+- URL: https://x.com/asanso/status/1192854026032992256
+- Metrics (at fetch): not returned
+
+> Argh again this zk field it gets faster than what any sane person can handle sigh https://twitter.com/drakefjustin/status/1192851753731010560
+
+**Links in post:** https://twitter.com/drakefjustin/status/1192851753731010560
+
+**Quoted post (full text):**
+
+    #### Quoted post — @258480276 — 2019-11-08 17:09 UTC (2019-11-08 18:09 WAT)
+    
+    - URL: https://x.com/258480276/status/1192851753731010560
+    - Metrics (at fetch): not returned
+    
+    > SLONK is a conceptually simple universal SNARK with the smallest known proof size (~0.5kB) and verification time. Concrete prover time for practical circuits still unknown but promising thanks to good constants. https://ethresear.ch/t/slonk-a-simple-universal-snark/6420
+    
+    **Links in post:** https://ethresear.ch/t/slonk-a-simple-universal-snark/6420
+    
+
+
+---
+
+## 2019-10-04 · Post · Dear bug hunter friends it would be really good to finish this week with a "Good catch!"... let's se
+
+
+### Post — @asanso — 2019-10-04 14:25 UTC (2019-10-04 15:25 WAT)
+
+- URL: https://x.com/asanso/status/1180126681371156488
+- Metrics (at fetch): not returned
+
+> Dear bug hunter friends it would be really good to finish this week with a "Good catch!"... let's see
+
+
+---
+
+## 2019-08-16 · Post · Side channel timing attacks against (EC)DSA in RSA BSAFE CVE-2019-3739/CVE-2019-3740 - Project Wyche
+
+
+### Post — @asanso — 2019-08-16 09:25 UTC (2019-08-16 10:25 WAT)
+
+- URL: https://x.com/asanso/status/1162294268804947974
+- Metrics (at fetch): not returned
+
+> Side channel timing attacks against (EC)DSA in RSA BSAFE CVE-2019-3739/CVE-2019-3740 - Project Wycheproof is the AFL for Cryptography https://blog.intothesymmetry.com/2019/08/side-channel-timing-attacks-against.html 
+> https://x.com/asanso/status/983221545312145409?s=20
+
+**Links in post:** https://blog.intothesymmetry.com/2019/08/side-channel-timing-attacks-against.html, https://x.com/asanso/status/983221545312145409?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2018-04-09 05:54 UTC (2018-04-09 06:54 WAT)
+    
+    - URL: https://x.com/asanso/status/983221545312145409
+    - Metrics (at fetch): not returned
+    
+    > Project Wycheproof (https://github.com/google/wycheproof) is the AFL (http://lcamtuf.coredump.cx/afl/) of #crypto. Thanks a lot @XorNinja  and team (notably including Bleichenbacher)  for providing such a powerful tool
+    
+    **Links in post:** https://github.com/google/wycheproof, http://lcamtuf.coredump.cx/afl/
+    
+
+
+---
+
+## 2019-06-24 · Post · Highlights from todays NutMic  http://nutmic2019.imj-prg.fr/
+
+
+### Post — @asanso — 2019-06-24 17:12 UTC (2019-06-24 18:12 WAT)
+
+- URL: https://x.com/asanso/status/1143205369562456064
+- Metrics (at fetch): not returned
+
+> Highlights from todays #NutMic  http://nutmic2019.imj-prg.fr/
+> Alain Couvreur talked about Code based cryptography followed by ECDLP attack sessions. @danboneh talked about VDF (including the isogenies VDF).Finally a session about hash based on expander graphs. Looking forward for day#2 [pic.x.com/cMgEeEBqVc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D917NVIXkAEoukm.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/D917NVeX4AAkBiZ.jpg — no alt text provided by author
+
+**Links in post:** http://nutmic2019.imj-prg.fr/
+
+
+---
+
+## 2018-04-09 · Post · Project Wycheproof (https://github.com/google/wycheproof) is the AFL (http://lcamtuf.coredump.cx/afl
+
+
+### Post — @asanso — 2018-04-09 05:54 UTC (2018-04-09 06:54 WAT)
+
+- URL: https://x.com/asanso/status/983221545312145409
+- Metrics (at fetch): not returned
+
+> Project Wycheproof (https://github.com/google/wycheproof) is the AFL (http://lcamtuf.coredump.cx/afl/) of #crypto. Thanks a lot @XorNinja  and team (notably including Bleichenbacher)  for providing such a powerful tool
+
+**Links in post:** https://github.com/google/wycheproof, http://lcamtuf.coredump.cx/afl/

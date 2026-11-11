@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 55
-- Conversations/threads: 50
-- Oldest post captured: 2026-02-07
+- Posts in this file: 57
+- Conversations/threads: 52
+- Oldest post captured: 2025-12-11
 - Newest post captured: 2026-11-10
 
 
@@ -1178,3 +1178,64 @@ Tags (automatic): AI-assisted hunting
     
     **Links in post:** https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/
     
+
+
+---
+
+## 2026-01-26 · Post · It is very very easy to get a cheap VPS and run Conduit so people can bypass the censorship:
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @irsdl — 2026-01-26 23:54 UTC (2026-01-27 00:54 WAT)
+
+- URL: https://x.com/irsdl/status/2015936503482896822
+- Metrics (at fetch): bookmark 10, impression 3529, like 23, quote 2, reply 3, retweet 3
+
+> It is very very easy to get a cheap VPS and run Conduit so people can bypass the censorship:
+>
+> https://t.co/wTo7WZ5JAA
+>
+> It is literally 1 command to run it in a docker container.
+>
+> (create your own fork if worried about the script change - review it by AI if you are worried) https://t.co/0Xy7Io4U3j
+
+**Quoted post (full text):**
+
+    #### Quoted post — @33710200 — 2026-01-26 19:33 UTC (2026-01-26 20:33 WAT)
+    
+    - URL: https://x.com/33710200/status/2015870757440549016
+    - Metrics (at fetch): bookmark 134, impression 472215, like 4431, quote 130, reply 260, retweet 703
+    
+    > In just under 2 weeks, approximately 190,000 new active users have joined Conduit.
+    > Hundreds of thousands of people are choosing the open internet, and we're just getting started...
+    >
+    > #conduit #accesstheinternet #psiphon #IranBlackout #psiphon
+    
+
+
+---
+
+## 2025-12-11 · Post · Slides for "ToolShell Patch Bypass and the AI That Might Have Seen It Coming" at @NDC_Conferences {M
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2025-12-11 18:04 UTC (2025-12-11 19:04 WAT)
+
+- URL: https://x.com/irsdl/status/1999178405573701770
+- Metrics (at fetch): bookmark 117, impression 23619, like 213, quote 1, reply 2, retweet 55
+
+> Slides for "ToolShell Patch Bypass and the AI That Might Have Seen It Coming" at @NDC_Conferences {Manchester} 2025.
+>
+> https://t.co/SDMTE43kDS
+>
+> Bonus: WAF &amp; workarounds bypass!
+> #AppSec #SharePoint #TolShell https://t.co/7UiIiaTbvN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G76BGEWXQAAQP3E.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G76BKzBXoAET25f.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G76BxXwX0AA_HM-.png — no alt text provided by author

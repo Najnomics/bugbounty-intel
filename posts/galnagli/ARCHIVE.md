@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 85
-- Conversations/threads: 74
-- Oldest post captured: 2025-06-14
+- Posts in this file: 90
+- Conversations/threads: 79
+- Oldest post captured: 2025-03-25
 - Newest post captured: 2026-11-10
 
 
@@ -1676,3 +1676,126 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GtZD-2IXsAAyiWe.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-06 · Post · It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @galnagli — 2025-04-06 16:07 UTC (2025-04-06 17:07 WAT)
+
+- URL: https://x.com/galnagli/status/1908914507461603574
+- Metrics (at fetch): bookmark 257, impression 46491, like 363, quote 9, reply 10, retweet 52
+
+> It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP
+>
+> Here is a POC using an external MCP server that parses GitHub repositories documentations turning into RCE.
+>
+> There are 0 AI Guardrails when asking Cursor to follow instructions coming from MCP🙃 https://t.co/OndyQFW9Bw
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2025-04-06 · Post · It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @galnagli — 2025-04-06 16:07 UTC (2025-04-06 17:07 WAT)
+
+- URL: https://x.com/galnagli/status/1908914367711555741
+- Metrics (at fetch): bookmark 0, impression 93, like 0, quote 0, reply 0, retweet 0
+
+> It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP
+>
+> Here is a POC using an external MCP server that parses GitHub repositories documentations turning into RCE.
+>
+> There are 0 AI Guardrails when asking Cursor to follow instructions coming from MCP. https://t.co/zOwcvIUavb
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2025-04-06 · Post · It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP 🙏
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @galnagli — 2025-04-06 16:05 UTC (2025-04-06 17:05 WAT)
+
+- URL: https://x.com/galnagli/status/1908913848360350207
+- Metrics (at fetch): bookmark 0, impression 164, like 1, quote 0, reply 0, retweet 0
+
+> It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP 🙏
+>
+> Attaching a POC with external MCP server that parses GitHub repositories documentations turning into RCE.
+>
+> When cursor to follow my malicious installation guide, there are 0 AI guardrails. https://t.co/262OeWiQUV
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2025-03-28 · Post · Recon challenge for the weekend, your mission - if you choose to accept it, is to discover a subdoma
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2025-03-28 19:02 UTC (2025-03-28 20:02 WAT)
+
+- URL: https://x.com/galnagli/status/1905697073582002449
+- Metrics (at fetch): bookmark 206, impression 42322, like 298, quote 1, reply 7, retweet 15
+
+> Recon challenge for the weekend, your mission - if you choose to accept it, is to discover a subdomain I have hosted at {}.{}.gemini.galnagli.com
+>
+> DNS Fuzzing is the way - If you succeed, it means you are capable of finding critical bugs on every company around the world. GLHF https://t.co/WaW3LNtNFD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnJlVQfb0AADEKI.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-25 · Post · The attack surface here is huge, not only public servers that directly expose their admission contro
+
+
+Tags (automatic): SSRF
+
+
+### Post — @galnagli — 2025-03-25 12:42 UTC (2025-03-25 13:42 WAT)
+
+- URL: https://x.com/galnagli/status/1904514205492895971
+- Metrics (at fetch): bookmark 78, impression 14476, like 119, quote 1, reply 2, retweet 17
+
+> The attack surface here is huge, not only public servers that directly expose their admission controller but every SSRF or network access to K8S API Server https://kubernetes.default.svc could potentially allow full Cluster Takeover - Research blog below 🔽
+>
+> #IngressNightmare https://t.co/fliEFyfkj1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @wiz_io — 2025-03-25 11:52 UTC (2025-03-25 12:52 WAT)
+    
+    - URL: https://x.com/wiz_io/status/1904501628046045477
+    - Metrics (at fetch): bookmark 76, impression 34703, like 222, quote 6, reply 6, retweet 55
+    
+    > #IngressNightmare: Wiz Research uncovers a critical vulnerability in Ingress-NGINX 🚨
+    >
+    > Wiz Research found a novel attack vector in one of Kubernetes's most fundamental projects, Ingress-NGINX, which is rated CVSS 9.8. https://t.co/N6rzffx5XY
+    
+    **Media:**
+    - media `3_1904212513069133824` (details not returned by the API)
+    

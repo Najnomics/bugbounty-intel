@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 87
-- Conversations/threads: 87
+- Posts in this file: 92
+- Conversations/threads: 92
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -2134,6 +2134,112 @@ Tags (automatic): AI-assisted hunting
 > Next I'll teach them manifestation techniques.
 >
 > "Make no mistakes" is so 2025
+
+
+---
+
+## 2026-02-28 · Post · It’s kinda cute so many of the “AI agent bug hunter” people, after starting catching bugs, claim to…
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-02-28 20:45 UTC (2026-02-28 21:45 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2027847539203182712
+- Metrics (at fetch): bookmark 7, impression 4364, like 105, quote 1, reply 9, retweet 1
+
+> It’s kinda cute so many of the “AI agent bug hunter” people, after starting catching bugs, claim to…
+>
+> have solved security!
+>
+> I have personally caught more bugs than all of them combined.
+>
+> They haven’t solved anything.
+>
+> Cmon guys if you want to sell your stuff at least come up
+
+
+---
+
+## 2026-02-25 · Post · You know how social engineering attacks are responsible for most of damage caused?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-02-25 19:53 UTC (2026-02-25 20:53 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2026747428041580692
+- Metrics (at fetch): bookmark 1, impression 1072, like 20, quote 0, reply 3, retweet 0
+
+> You know how social engineering attacks are responsible for most of damage caused?
+>
+> Now the attack surface can increase exponentially with all the agents! And you can use hidden stuff in html to social engineer an agent too!
+>
+> Black hats must be very happy.
+>
+> You thought it was
+
+
+---
+
+## 2026-02-25 · Post · What the AI-centric ship fast cycle means for web3:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-02-25 16:59 UTC (2026-02-25 17:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2026703639700488395
+- Metrics (at fetch): bookmark 4, impression 1547, like 40, quote 0, reply 0, retweet 1
+
+> What the AI-centric ship fast cycle means for web3:
+>
+> Builders spend 50k in tokens to vibecode a complex protocol with minimal human supervision,  hoping that the 10k AI audit will catch all the bugs lol.
+>
+> A few months later a black hat can afford to spend 1M on an AI audit using
+
+
+---
+
+## 2026-02-25 · Post · Just a reminder that every single file your agent reads is an attack vector with potentially cascadi
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-02-25 16:28 UTC (2026-02-25 17:28 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2026695701548138906
+- Metrics (at fetch): bookmark 3, impression 743, like 17, quote 0, reply 1, retweet 0
+
+> Just a reminder that every single file your agent reads is an attack vector with potentially cascading catastrophic consequences.
+>
+> And prompt injection is about the easiest form of attack ever. Dont even need technical knowledge to do it.
+>
+> LLMs democratized exploits.
+
+
+---
+
+## 2026-02-25 · Post · Just a reminder that every single file your agent reads is an attack vector with potentially cascadi
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-02-25 16:27 UTC (2026-02-25 17:27 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2026695585512738846
+- Metrics (at fetch): bookmark 0, impression 23, like 0, quote 0, reply 0, retweet 0
+
+> Just a reminder that every single file your agent reads is an attack vector with potentially cascading catastrophic consequences.
+>
+> And prompt injection is about the easiest form of attack ever. Dont need technical knowledge to do it.
+>
+> LLMs democratized exploits.
 
 
 ---

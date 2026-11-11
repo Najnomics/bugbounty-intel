@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 70
-- Conversations/threads: 64
+- Posts in this file: 71
+- Conversations/threads: 65
 - Oldest post captured: 2021-06-01
 - Newest post captured: 2026-11-04
 
@@ -1251,6 +1251,24 @@ Tags (automatic): Request smuggling / desync, AI-assisted hunting
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+---
+
+## 2025-10-03 · Post · Hackers are becoming  builders - by integrating AI enhancements they’re amplifying their  unique tra
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @albinowax — 2025-10-03 14:43 UTC (2025-10-03 15:43 WAT)
+
+- URL: https://x.com/albinowax/status/1974123266320314740
+- Metrics (at fetch): not returned
+
+> Hackers are becoming  builders - by integrating AI enhancements they’re amplifying their  unique tradecraft to hack deeper, faster. I'll be sharing my vision of the future of hacking in @Hacker0x01's 'Bionic Hacking' webinar on October 15! Register here: https://www.hackerone.com/events/bionic-hacking
+
+**Links in post:** https://www.hackerone.com/events/bionic-hacking
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 68
-- Conversations/threads: 56
-- Oldest post captured: 2026-02-04
+- Posts in this file: 74
+- Conversations/threads: 62
+- Oldest post captured: 2025-12-06
 - Newest post captured: 2026-11-09
 
 
@@ -1073,3 +1073,113 @@ Tags (automatic): Auth bypass, RCE
 > 🔥 Can you get RCE from an email address? Yep. In my NDC Manchester talk Splitting the email atom, I break down how RFC weirdness leads to auth bypasses, parser confusion, and full remote code execution. Watch here 👇 https://www.youtube.com/watch?v=kVPetdjHF_M
 
 **Links in post:** https://www.youtube.com/watch?v=kVPetdjHF_M
+
+
+---
+
+## 2026-01-28 · Post · Currently debugging the Shazzer fuzzing network. Fixed one bug but there's more. Dev is hard.
+
+
+### Post — @garethheyes — 2026-01-28 20:14 UTC (2026-01-28 21:14 WAT)
+
+- URL: https://x.com/garethheyes/status/2016605851637658030
+- Metrics (at fetch): bookmark 0, impression 1424, like 8, quote 0, reply 1, retweet 0
+
+> Currently debugging the Shazzer fuzzing network. Fixed one bug but there's more. Dev is hard.
+
+
+---
+
+## 2026-01-28 · Post · We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! https://t.co/M
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-01-28 13:37 UTC (2026-01-28 14:37 WAT)
+
+- URL: https://x.com/garethheyes/status/2016505833572401367
+- Metrics (at fetch): bookmark 51, impression 11090, like 120, quote 0, reply 2, retweet 12
+
+> We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! https://t.co/M1l8fCcNp6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_wN7lgXsAIx8i-.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-16 · Post · Bypass CSP in a single click using my new Custom Action, powered by @renniepak's excellent CSP bypas
+
+
+Tags (automatic): CSP / CSPT
+
+
+### Post — @garethheyes — 2025-12-16 15:31 UTC (2025-12-16 16:31 WAT)
+
+- URL: https://x.com/garethheyes/status/2000951841102946785
+- Metrics (at fetch): bookmark 154, impression 21479, like 227, quote 1, reply 4, retweet 38
+
+> Bypass CSP in a single click using my new Custom Action, powered by @renniepak's excellent CSP bypass project. https://t.co/TSeivGe4QD
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2025-12-09 · Post · Curious how AutoVader works in practice? The demo video is up. See automated client side bug hunting
+
+
+### Post — @garethheyes — 2025-12-09 12:38 UTC (2025-12-09 13:38 WAT)
+
+- URL: https://x.com/garethheyes/status/1998371677483450817
+- Metrics (at fetch): bookmark 37, impression 2827, like 60, quote 0, reply 1, retweet 11
+
+> Curious how AutoVader works in practice? The demo video is up. See automated client side bug hunting in action. 🎥 https://t.co/q2UK5Tm3UH
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2025-12-09 · Post · Meet AutoVader. It automates DOM Invader with Playwright Java and feeds results back into Burp. Fast
+
+
+### Post — @garethheyes — 2025-12-09 12:21 UTC (2025-12-09 13:21 WAT)
+
+- URL: https://x.com/garethheyes/status/1998367428561317912
+- Metrics (at fetch): bookmark 15, impression 2353, like 33, quote 0, reply 1, retweet 4
+
+> Meet AutoVader. It automates DOM Invader with Playwright Java and feeds results back into Burp. Faster client side bug hunting for everyone. 🚀
+>
+> https://t.co/ZWWX4y2IRC
+
+
+---
+
+## 2025-12-06 · Post · 50k for a WAF bypass. 😮 https://t.co/1ohcxBvEut
+
+
+### Post — @garethheyes — 2025-12-06 18:51 UTC (2025-12-06 19:51 WAT)
+
+- URL: https://x.com/garethheyes/status/1997378501880528916
+- Metrics (at fetch): bookmark 23, impression 26635, like 153, quote 0, reply 0, retweet 5
+
+> 50k for a WAF bypass. 😮 https://t.co/1ohcxBvEut
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15534471 — 2025-12-06 03:54 UTC (2025-12-06 04:54 WAT)
+    
+    - URL: https://x.com/15534471/status/1997152588253614425
+    - Metrics (at fetch): bookmark 275, impression 352176, like 836, quote 25, reply 30, retweet 76
+    
+    > We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell
+    > Critical bypass: $50K
+    > https://t.co/90NnL06Vnx https://t.co/KDgcEPmVUl
+    
+    **Media:**
+    - media `3_1997150571254763521` (details not returned by the API)
+    

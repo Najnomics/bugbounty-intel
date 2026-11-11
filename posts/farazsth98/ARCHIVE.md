@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 132
-- Conversations/threads: 113
-- Oldest post captured: 2020-09-21
+- Posts in this file: 143
+- Conversations/threads: 124
+- Oldest post captured: 2019-09-30
 - Newest post captured: 2026-11-03
 
 
@@ -2767,3 +2767,257 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 > https://secfault-security.com/blog.html
 
 **Links in post:** https://secfault-security.com/blog.html
+
+
+---
+
+## 2020-08-28 · Post · This exploit is accompanied with an amazing writeup (link in the GitHub repo) for anyone interested 
+
+
+### Post — @farazsth98 — 2020-08-28 00:03 UTC (2020-08-28 01:03 WAT)
+
+- URL: https://x.com/farazsth98/status/1299135491174850560
+- Metrics (at fetch): not returned
+
+> This exploit is accompanied with an amazing writeup (link in the GitHub repo) for anyone interested in understanding some key aspects of Spidermonkey's JIT compiler, as well as exploiting a vulnerability in it. Highly recommended and very well written! https://twitter.com/maxpl0it/status/1299068051044921347
+
+**Links in post:** https://twitter.com/maxpl0it/status/1299068051044921347
+
+**Quoted post (full text):**
+
+    #### Quoted post — @845322912773132288 — 2020-08-27 19:35 UTC (2020-08-27 20:35 WAT)
+    
+    - URL: https://x.com/845322912773132288/status/1299068051044921347
+    - Metrics (at fetch): not returned
+    
+    > Published my exploit for CVE-2019-17026 (Firefox JIT bug):
+    >
+    > https://github.com/maxpl0it/CVE-2019-17026-Exploit/
+    >
+    > No sandbox escape included but if anybody wants a challenge, chain it with CVE-2020-0674 for a neat sandbox escape on Windows!
+    
+    **Links in post:** https://github.com/maxpl0it/CVE-2019-17026-Exploit/
+    
+
+
+---
+
+## 2020-08-24 · Post · So.. Pretty much spent the entire weekend trying to solve this but could not figure out a way to lea
+
+
+### Post — @farazsth98 — 2020-08-24 00:10 UTC (2020-08-24 01:10 WAT)
+
+- URL: https://x.com/farazsth98/status/1297687717564710912
+- Metrics (at fetch): not returned
+
+> So.. Pretty much spent the entire weekend trying to solve this but could not figure out a way to leak IPC port names with just the initial leak that's provided..
+>
+> @_tsuro did you write this challenge? It was a very good concept, would love to see a writeup if possible! https://twitter.com/farazsth98/status/1297056945606520833
+
+**Links in post:** https://twitter.com/farazsth98/status/1297056945606520833
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2020-08-22 06:24 UTC (2020-08-22 07:24 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1297056945606520833
+    - Metrics (at fetch): not returned
+    
+    > Yep. [pic.x.com/AxAW8oFcwe]
+    
+    **Media:**
+    - media `3_1297056904347172864` (details not returned by the API)
+    
+
+
+---
+
+## 2020-08-22 · Post · Yep. [pic.x.com/AxAW8oFcwe]
+
+
+### Post — @farazsth98 — 2020-08-22 06:24 UTC (2020-08-22 07:24 WAT)
+
+- URL: https://x.com/farazsth98/status/1297056945606520833
+- Metrics (at fetch): not returned
+
+> Yep. [pic.x.com/AxAW8oFcwe]
+
+**Media:**
+- media `3_1297056904347172864` (details not returned by the API)
+
+
+---
+
+## 2020-06-03 · Post · My fuzzer rn....
+
+
+### Post — @farazsth98 — 2020-06-03 16:30 UTC (2020-06-03 17:30 WAT)
+
+- URL: https://x.com/farazsth98/status/1268218588474642433
+- Metrics (at fetch): not returned
+
+> My fuzzer rn....
+>
+> On the bright side, there is no way I'm allocating anything that big or extending an object that much so it might be an actual bug.
+>
+> Will have to minimize and analyse tomorrow... [pic.x.com/YJEd4d5MvY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EZmeFMkUwAE5Lp8.jpg — no alt text provided by author
+
+
+---
+
+## 2020-05-28 · Post · Does anyone know why the `value &gt;&gt;= 1; // *** 3 ***` line is important for the PoC here? Glazu
+
+
+### Post — @farazsth98 — 2020-05-28 08:34 UTC (2020-05-28 09:34 WAT)
+
+- URL: https://x.com/farazsth98/status/1265924405089062912
+- Metrics (at fetch): not returned
+
+> Does anyone know why the `value &gt;&gt;= 1; // *** 3 ***` line is important for the PoC here? Glazunov commented it but didn't explain it in the report itself. It seems to also be needed in the original bug to trigger it (http://crbug.com/1028863). https://twitter.com/BugsChromium/status/1265722444972797957
+
+**Links in post:** http://crbug.com/1028863, https://twitter.com/BugsChromium/status/1265722444972797957
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1263078831042318336 — 2020-05-27 19:12 UTC (2020-05-27 20:12 WAT)
+    
+    - URL: https://x.com/1263078831042318336/status/1265722444972797957
+    - Metrics (at fetch): not returned
+    
+    > Security: Type inference issue in Typer::Visitor::TypeInductionVariablePhi https://crbug.com/1051017
+    
+    **Links in post:** https://crbug.com/1051017
+    
+
+
+---
+
+## 2020-02-02 · Post · Just made a short blog post for @infosectcbr on how pointer compression has been implemented in V8, 
+
+
+### Post — @farazsth98 — 2020-02-02 09:29 UTC (2020-02-02 10:29 WAT)
+
+- URL: https://x.com/farazsth98/status/1223901118368894981
+- Metrics (at fetch): not returned
+
+> Just made a short blog post for @infosectcbr on how pointer compression has been implemented in V8, and what it means from the perspective of an exploit developer. 
+>
+> It's a fairly recent change that's only been mentioned in a chromium design document as far as I can see. https://twitter.com/infosectcbr/status/1223898851943149568
+
+**Links in post:** https://twitter.com/infosectcbr/status/1223898851943149568
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736011642626932739 — 2020-02-02 09:19 UTC (2020-02-02 10:19 WAT)
+    
+    - URL: https://x.com/736011642626932739/status/1223898851943149568
+    - Metrics (at fetch): not returned
+    
+    > Pointer Compression in V8 and what it means for browser exploitation by @farazsth98 https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html
+    
+    **Links in post:** https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html
+    
+
+
+---
+
+## 2019-12-13 · Post · As I've recently gotten into browser exploitation, I thought I'd solve and do a writeup for a CTF ch
+
+
+### Post — @farazsth98 — 2019-12-13 15:50 UTC (2019-12-13 16:50 WAT)
+
+- URL: https://x.com/farazsth98/status/1205515276554362885
+- Metrics (at fetch): not returned
+
+> As I've recently gotten into browser exploitation, I thought I'd solve and do a writeup for a CTF challenge from earlier this year that really doesn't have any detailed writeups.
+>
+> Hope someone finds my writeup for *CTF 2019 oob-v8 useful! DMs are open.
+>
+> https://syedfarazabrar.com/2019-12-13-starctf-oob-v8-indepth/
+
+**Links in post:** https://syedfarazabrar.com/2019-12-13-starctf-oob-v8-indepth/
+
+
+---
+
+## 2019-10-24 · Post · Just posted a detailed analysis of Balsn's exploit script for Lazyhouse from HITCON 2019.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2019-10-24 11:20 UTC (2019-10-24 12:20 WAT)
+
+- URL: https://x.com/farazsth98/status/1187327946744184832
+- Metrics (at fetch): not returned
+
+> Just posted a detailed analysis of Balsn's exploit script for Lazyhouse from HITCON 2019.
+>
+> They used an amazing technique to pivot the stack to the heap and execute a ROP chain from the heap.
+>
+> Feel free to ask me any questions regarding it!
+>
+> https://syedfarazabrar.com/2019-10-24-hitconctf-lazyhouse-balsn-exploit-analysis/
+
+**Links in post:** https://syedfarazabrar.com/2019-10-24-hitconctf-lazyhouse-balsn-exploit-analysis/
+
+
+---
+
+## 2019-10-14 · Post · HITCON CTF 2019 was my first hard level CTF where I got to solve only one "easy" challenge. Ended up
+
+
+### Post — @farazsth98 — 2019-10-14 02:12 UTC (2019-10-14 03:12 WAT)
+
+- URL: https://x.com/farazsth98/status/1183566205178675200
+- Metrics (at fetch): not returned
+
+> HITCON CTF 2019 was my first hard level CTF where I got to solve only one "easy" challenge. Ended up rank 59, and hope to learn a lot of new things from writeups!
+>
+> Here is my writeup for Trick or Treat:
+> https://syedfarazabrar.com/2019-10-14-hitconctf-2019-trick-or-treat/
+
+**Links in post:** https://syedfarazabrar.com/2019-10-14-hitconctf-2019-trick-or-treat/
+
+
+---
+
+## 2019-10-12 · Post · https://pr0cf5.github.io/ctf/2019/10/10/balsn-ctf-krazynote.html
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2019-10-12 18:12 UTC (2019-10-12 19:12 WAT)
+
+- URL: https://x.com/farazsth98/status/1183083019860529152
+- Metrics (at fetch): not returned
+
+> https://pr0cf5.github.io/ctf/2019/10/10/balsn-ctf-krazynote.html
+>
+> this is such a good writeup.. why not put it on ctftime @pr0cf51 ? I learned a lot about kernel pwn from this
+
+**Links in post:** https://pr0cf5.github.io/ctf/2019/10/10/balsn-ctf-krazynote.html
+
+
+---
+
+## 2019-09-30 · Post · Thanks to @teambi0s for hosting @bsidesdelhi CTF! There were some amazing challenges. Here is a writ
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2019-09-30 04:52 UTC (2019-09-30 05:52 WAT)
+
+- URL: https://x.com/farazsth98/status/1178533057063616513
+- Metrics (at fetch): not returned
+
+> Thanks to @teambi0s for hosting @bsidesdelhi CTF! There were some amazing challenges. Here is a writeup for the glibc 2.23 heap exploitation challenge message_saver: https://syedfarazabrar.com/2019-09-30-bsides-delhi-message-saver/
+>
+> #BSidesDelhiCTF
+
+**Links in post:** https://syedfarazabrar.com/2019-09-30-bsides-delhi-message-saver/

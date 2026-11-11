@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 85
-- Conversations/threads: 81
-- Oldest post captured: 2025-10-20
+- Posts in this file: 93
+- Conversations/threads: 89
+- Oldest post captured: 2025-08-29
 - Newest post captured: 2026-11-10
 
 
@@ -1906,3 +1906,209 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G3r9OLZXUAABqo7.jpg — no alt text provided by author
+
+
+---
+
+## 2025-10-11 · Post · http://x.com/i/article/1975488326795751424
+
+
+### Post — @0xriptide — 2025-10-11 06:30 UTC (2025-10-11 07:30 WAT)
+
+- URL: https://x.com/0xriptide/status/1976898091480502551
+- Metrics (at fetch): not returned
+
+> http://x.com/i/article/1975488326795751424
+
+**Links in post:** http://x.com/i/article/1975488326795751424
+
+
+---
+
+## 2025-10-10 · Post · We took a crack at the recent Solana contest on @code4rena with our AI audit tool and here's how it 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @0xriptide — 2025-10-10 06:36 UTC (2025-10-10 07:36 WAT)
+
+- URL: https://x.com/0xriptide/status/1976537355126194254
+- Metrics (at fetch): not returned
+
+> We took a crack at the recent Solana contest on @code4rena with our AI audit tool and here's how it went:
+>
+> 2 findings confirmed as Medium by the judge after proper debate
+>
+> We were on-track to unlock the H/M pot and win the comp as we had the most medium findings
+>
+> Findings are mysteriously downgraded to low with no explanation
+>
+> Winners are QA only with $8k paid out, protocol saves $200k
+>
+> So what happened @gf_256?
+>
+> Here's a wild guess:
+>
+> @zellic_io performed multiple audits and risks its reputation and future client business by admitting they missed 2 medium findings costing their client $200k. So the judge is overruled, findings downgraded, and then radio silent to the few hunters that found those mediums
+>
+> if the rationale is there to downgrade something or a finding is invalid, great, just be transparent about it and communicate that to the SRs. any lack of transparency results in a loss of trust in the platform as seen in the feedback in your discord
+>
+> i am not familiar with contests, but if this is par for the course with other's experiences at codearena, this is an embarrassment and deters participants from competing in future comps which then deters projects from running contests on your platform
+
+
+---
+
+## 2025-10-02 · Post · when you submit a bug so good the protocol cancels its bug bounty
+
+
+### Post — @0xriptide — 2025-10-02 07:19 UTC (2025-10-02 08:19 WAT)
+
+- URL: https://x.com/0xriptide/status/1973649030422077611
+- Metrics (at fetch): not returned
+
+> when you submit a bug so good the protocol cancels its bug bounty
+>
+> @AngleProtocol
+
+
+---
+
+## 2025-10-02 · Post · our AI tool found a recent low in the highly audited Euler EVK that was more impactful than this
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xriptide — 2025-10-02 03:50 UTC (2025-10-02 04:50 WAT)
+
+- URL: https://x.com/0xriptide/status/1973596456683708741
+- Metrics (at fetch): not returned
+
+> our AI tool found a recent low in the highly audited Euler EVK that was more impactful than this
+>
+> so humble
+>
+> we didn't even mention it
+>
+> no other AI audit tool comes close to what @0xitsgreg and I have cooked up https://twitter.com/0xKaden/status/1973554329526337610
+
+**Links in post:** https://twitter.com/0xKaden/status/1973554329526337610
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1200227965079916545 — 2025-10-02 01:03 UTC (2025-10-02 02:03 WAT)
+    
+    - URL: https://x.com/1200227965079916545/status/1973554329526337610
+    - Metrics (at fetch): not returned
+    
+    > ngl this reads like a rejected escalation
+    >
+    > sure, some funds could theoretically be stolen on a specific chain, with a specific token, an unrealistically high lendingIndex, and practically zero gas prices
+    >
+    > but come on man this is a marketing post where you're just straight up lying
+    >
+    > > "The attack could have extracted $2,400,000 from the protocol's reserves through repeated exploits"
+    >
+    > > "It's more a determination that a material % of the $2.4M could be stolen over a realistic time period before a team could reasonably react, with assumptions about future gas prices, etc."
+    >
+    > pick one
+    
+
+
+---
+
+## 2025-09-24 · Post · Audit mafia extorting your protocol?
+
+
+### Post — @0xriptide — 2025-09-24 18:25 UTC (2025-09-24 19:25 WAT)
+
+- URL: https://x.com/0xriptide/status/1970917611740578064
+- Metrics (at fetch): not returned
+
+> Audit mafia extorting your protocol?
+>
+> call 1-900-RIP-TIDE for a good time
+
+
+---
+
+## 2025-09-16 · Post · the bug is theoretical until its not
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @0xriptide — 2025-09-16 09:00 UTC (2025-09-16 10:00 WAT)
+
+- URL: https://x.com/0xriptide/status/1967876240649708016
+- Metrics (at fetch): not returned
+
+> the bug is theoretical until its not
+>
+> "will never depeg"
+> "that slashing event will never happen"
+> "can't be liquidated it's 1:1"
+> "why would an attacker do that"
+> "trusted contract"
+
+
+---
+
+## 2025-09-04 · Post · when I look at which projects to spend time hunting for bugs on I always check if they have a bounty
+
+
+### Post — @0xriptide — 2025-09-04 10:09 UTC (2025-09-04 11:09 WAT)
+
+- URL: https://x.com/0xriptide/status/1963545057815834871
+- Metrics (at fetch): not returned
+
+> when I look at which projects to spend time hunting for bugs on I always check if they have a bounty program first
+>
+> big sponsor at eth Warsaw is @redstone_defi 
+>
+> no bounty, no security contact info, just the usual "super safe just look at our audits"
+>
+> you cannot compete with @chainlink and expect to grow with this security stance
+
+
+---
+
+## 2025-08-29 · Post · easy solution w/ new revenue stream @MitchellAmador 
+
+
+### Post — @0xriptide — 2025-08-29 10:18 UTC (2025-08-29 11:18 WAT)
+
+- URL: https://x.com/0xriptide/status/1961372896191779265
+- Metrics (at fetch): not returned
+
+> easy solution w/ new revenue stream @MitchellAmador 
+>
+> $1 per bug report submitted https://twitter.com/0xTimofey/status/1961365227858956781
+
+**Links in post:** https://twitter.com/0xTimofey/status/1961365227858956781
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1628039684189200385 — 2025-08-29 09:48 UTC (2025-08-29 10:48 WAT)
+    
+    - URL: https://x.com/1628039684189200385/status/1961365227858956781
+    - Metrics (at fetch): not returned
+    
+    > Hey @LoopGhost007 . 
+    >
+    > You were not banned for submitting a “valid fund-drain critical vuln in Mountain Protocol”. You were banned for spamming projects with garbage AI slop reports. Your @MountainUSDM report was flagged as one and didn’t pose any threat. 
+    >
+    > Our detection system also confirmed that you had multiple duplicate accounts to bypass previous bans which is a direct rule violation of the platform.
+    >
+    > This wasn’t about using AI to help write in english better. This is about you abusing the platform & wasting projects time which ruins bughunting for all real whitehats.
+    >
+    > P.S. Here is how one of the projects you reported a bug to has responded. They are correct.
+    
+    **Media:**
+    - media `3_1961364833959370752` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/LoopGhost007/status/1959300354316566923
+    
+    **Quoted post** 1959300354316566923: not readable via the API (deleted, private, or withheld).
+    

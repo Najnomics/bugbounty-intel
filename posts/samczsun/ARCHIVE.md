@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 90
-- Conversations/threads: 82
-- Oldest post captured: 2020-09-30
+- Posts in this file: 92
+- Conversations/threads: 84
+- Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
 
 
@@ -1660,3 +1660,29 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > https://we.incognito.org/t/how-a-smart-contract-vulnerability-was-discovered-and-fixed/6416
 
 **Links in post:** https://we.incognito.org/t/how-a-smart-contract-vulnerability-was-discovered-and-fixed/6416
+
+
+---
+
+## 2020-06-01 · Post · I have not reviewed, and will not be reviewing, any Hegic code since my pre-v1 bug report. Please do
+
+
+### Post — @samczsun — 2020-06-01 16:21 UTC (2020-06-01 17:21 WAT)
+
+- URL: https://x.com/samczsun/status/1267491367204392961
+- Metrics (at fetch): not returned
+
+> I have not reviewed, and will not be reviewing, any Hegic code since my pre-v1 bug report. Please do not misconstrue no news as good news.
+
+
+---
+
+## 2020-03-13 · Post · So looks like I'll be joining the @trailofbits team in May... doesn't mean the bug hunting will stop
+
+
+### Post — @samczsun — 2020-03-13 00:38 UTC (2020-03-13 01:38 WAT)
+
+- URL: https://x.com/samczsun/status/1238263228691513349
+- Metrics (at fetch): not returned
+
+> So looks like I'll be joining the @trailofbits team in May... doesn't mean the bug hunting will stop though 😉

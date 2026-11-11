@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 79
-- Conversations/threads: 79
-- Oldest post captured: 2023-03-14
+- Posts in this file: 87
+- Conversations/threads: 87
+- Oldest post captured: 2022-08-25
 - Newest post captured: 2026-10-20
 
 
@@ -1863,3 +1863,167 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > Earlier today, Euler Finance was exploited for over USD 190M. One transaction in particular yielded USD 110M.
 >
 > We've reverse engineered this transaction trace to recreate the attacker's extract exploit.
+
+
+---
+
+## 2023-01-23 · Post · In 2022, Zellic completed 90+ security assessments.
+
+
+### Post — @zellic_io — 2023-01-23 18:00 UTC (2023-01-23 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1617583071481528328
+- Metrics (at fetch): bookmark 1, impression 8982, like 30, quote 4, reply 1, retweet 2
+
+> In 2022, Zellic completed 90+ security assessments.
+>
+> 🛠 93 audits
+> ⚠ 126 high impact findings
+> ❌ 42 of those 126 findings were critical
+> 🎯 51 of our 93 audits uncovered high impact issues
+>
+> Our clients innovate at a breakneck pace. They trust Zellic to keep them ahead. https://t.co/mmLvhKuLbv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fm9Qp5BXkAAuZIy.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-04 · Post · Wrapped the first audit round for @valoremxyz. The team is wonderful to work with and we are looking
+
+
+### Post — @zellic_io — 2023-01-04 20:58 UTC (2023-01-04 21:58 WAT)
+
+- URL: https://x.com/zellic_io/status/1610742369858748417
+- Metrics (at fetch): bookmark 0, impression 2904, like 11, quote 0, reply 0, retweet 4
+
+> Wrapped the first audit round for @valoremxyz. The team is wonderful to work with and we are looking forward to round two.
+>
+> Check out our report and read their updated litepaper https://t.co/egzHQCcgjg
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1508441849601703948 — 2023-01-03 00:46 UTC (2023-01-03 01:46 WAT)
+    
+    - URL: https://x.com/1508441849601703948/status/1610074975289081857
+    - Metrics (at fetch): bookmark 1, impression 3787, like 6, quote 1, reply 1, retweet 3
+    
+    > First round of audit complete: https://t.co/0lpi2lPqXe
+    
+
+
+---
+
+## 2022-12-07 · Post · We audited SPL-Token-2022 for the @SolanaFndn. It's an update for the SPL-Token program.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
+
+- URL: https://x.com/zellic_io/status/1600589022362890240
+- Metrics (at fetch): bookmark 17, impression 0, like 51, quote 2, reply 2, retweet 12
+
+> We audited SPL-Token-2022 for the @SolanaFndn. It's an update for the SPL-Token program.
+>
+> In our review, we found an inflationary bug that would've allowed infinite minting of tokens for free. The audit was pre-launch. The code was not enabled, so no funds were at risk. 👇🧵 https://t.co/v3PDJKdDKI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjZvO2iUUAAZ-M-.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-23 · Post · Approved 3 new projects on our audit coverage tracker!
+
+
+### Post — @zellic_io — 2022-11-23 00:55 UTC (2022-11-23 01:55 WAT)
+
+- URL: https://x.com/zellic_io/status/1595219425799684097
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Approved 3 new projects on our audit coverage tracker!
+> 👉 Arbor Finance
+> 👉 Liquity Finance
+> 👉 Exactly Protocol
+> You can submit yours here: https://t.co/f6o8VsvFnh
+
+
+---
+
+## 2022-11-15 · Post · Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning s
+
+
+### Post — @zellic_io — 2022-11-15 23:26 UTC (2022-11-16 00:26 WAT)
+
+- URL: https://x.com/zellic_io/status/1592660464986488836
+- Metrics (at fetch): bookmark 56, impression 0, like 126, quote 3, reply 6, retweet 24
+
+> Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning signs that were present *months ahead of time*.
+> More:👇🧵 https://t.co/61w2U3fgo5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhpAHTOX0AAd7mu.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-04 · Post · Zellic is proud to be the first audit firm backing their audit with a real stake. Incentive alignmen
+
+
+### Post — @zellic_io — 2022-11-04 01:37 UTC (2022-11-04 02:37 WAT)
+
+- URL: https://x.com/zellic_io/status/1588344731611779072
+- Metrics (at fetch): bookmark 3, impression 0, like 48, quote 7, reply 4, retweet 9
+
+> Zellic is proud to be the first audit firm backing their audit with a real stake. Incentive alignment is a HUGE industry-wide problem, and founders deserve better! Our partnership with Ante Finance is the first step toward addressing this issue:
+> 👉https://t.co/CwGDnyD1RM
+
+
+---
+
+## 2022-09-26 · Post · Congrats to our CMO @hacker_ on his $100k bounty for securing @opensea 🎉🥳 https://t.co/X7B9yUfxEs
+
+
+### Post — @zellic_io — 2022-09-26 21:56 UTC (2022-09-26 22:56 WAT)
+
+- URL: https://x.com/zellic_io/status/1574518227446685714
+- Metrics (at fetch): bookmark 6, impression 0, like 94, quote 2, reply 2, retweet 5
+
+> Congrats to our CMO @hacker_ on his $100k bounty for securing @opensea 🎉🥳 https://t.co/X7B9yUfxEs
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4916110689 — 2022-09-26 21:55 UTC (2022-09-26 22:55 WAT)
+    
+    - URL: https://x.com/4916110689/status/1574518042737790976
+    - Metrics (at fetch): bookmark 224, impression 0, like 4953, quote 58, reply 307, retweet 284
+    
+    > I'm uncomfortable tweeting stuff like this out, but...
+    >
+    > I found a critical vulnerability in @opensea this weekend and reported it through  @Hacker0x01. 
+    >
+    > They fixed the issue within 3 hours of reporting and I just got this notification👏🫢 https://t.co/od6EFA5KSb
+    
+    **Media:**
+    - media `3_1574518023775567872` (details not returned by the API)
+    
+
+
+---
+
+## 2022-08-25 · Post · We partnered with @brahmafi to secure their Protected Moonshot DegenVault.
+
+
+### Post — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832229738299393
+- Metrics (at fetch): bookmark 2, impression 0, like 15, quote 2, reply 2, retweet 4
+
+> We partnered with @brahmafi to secure their Protected Moonshot DegenVault.
+>
+> It aims to safeguard principal earning a yield on blue chip farms while boosting it and profiting from the market’s volatility by purchasing put/call options solely with the accrued yield.
+>
+> A thread 🧵👇

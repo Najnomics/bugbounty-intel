@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 52
+- Posts in this file: 66
+- Conversations/threads: 56
 - Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
@@ -998,6 +998,83 @@ Tags (automatic): SSRF
 - photo: https://pbs.twimg.com/media/GuH5p7iWcAAaYrs.jpg — no alt text provided by author
 
 **Links in post:** https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-involving-http-redirect-loops/
+
+
+---
+
+## 2025-04-02 · Post · IT support software is often exposed on the ext. internet. Auditing the code of Halo ITSM, we found 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @infosec_au — 2025-04-02 12:47 UTC (2025-04-02 13:47 WAT)
+
+- URL: https://x.com/infosec_au/status/1907414554143056328
+- Metrics (at fetch): bookmark 39, impression 6826, like 107, quote 0, reply 2, retweet 23
+
+> IT support software is often exposed on the ext. internet. Auditing the code of Halo ITSM, we found a sink that led to a critical pre-authentication SQLi. We reflect on how loose typing led to this vuln when compared to the rest of the codebase. Read more: https://t.co/dkDz56kLEn
+
+
+---
+
+## 2025-03-24 · Post · We recently looked deeper at the authentication bypass vulnerability in Next.js (CVE-2025-29927) and
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2025-03-24 08:25 UTC (2025-03-24 09:25 WAT)
+
+- URL: https://x.com/infosec_au/status/1904087123470303560
+- Metrics (at fetch): bookmark 197, impression 38949, like 404, quote 3, reply 9, retweet 119
+
+> We recently looked deeper at the authentication bypass vulnerability in Next.js (CVE-2025-29927) and discovered some intelligent and comprehensive ways to check for the vulnerability. Read more in our blog post: https://t.co/f7f6VKzEcS https://t.co/ivycO2dMrx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmytFOZbgAEBqOs.png — no alt text provided by author
+
+
+---
+
+## 2025-03-06 · Post · The security research team at @assetnote reported a critical pre-auth RCE vulnerability affecting Si
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2025-03-06 08:24 UTC (2025-03-06 09:24 WAT)
+
+- URL: https://x.com/infosec_au/status/1897563989770752199
+- Metrics (at fetch): bookmark 73, impression 17319, like 270, quote 2, reply 4, retweet 66
+
+> The security research team at @assetnote reported a critical pre-auth RCE vulnerability affecting Sitecore XP 10.4 late last year. We continue to protect our customers from 0day vulnerabilities long before patches arrive. Read the blog here: https://t.co/svCQ3jcOEU https://t.co/0upkvR67kq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlV-JY_WcAAAM5w.png — no alt text provided by author
+
+
+---
+
+## 2023-07-28 · Post · The security research team at @assetnote found and reported a critical pre-auth RCE vulnerability to
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2023-07-28 00:32 UTC (2023-07-28 01:32 WAT)
+
+- URL: https://x.com/infosec_au/status/1684723462919933952
+- Metrics (at fetch): bookmark 67, impression 67600, like 378, quote 6, reply 9, retweet 105
+
+> The security research team at @assetnote found and reported a critical pre-auth RCE vulnerability to Metabase earlier this month CVE-2023-38646:
+>
+> https://t.co/ivf1PwweNj
+>
+> This one was an incredibly fun discovery as there are many roads to RCE through JDBC. We've published details https://t.co/05OIVQKE84
+
+**Media:**
+- media `3_1684722290230198272` (details not returned by the API)
 
 
 ---

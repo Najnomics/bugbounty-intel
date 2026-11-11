@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 117
-- Conversations/threads: 117
-- Oldest post captured: 2023-02-16
+- Posts in this file: 123
+- Conversations/threads: 123
+- Oldest post captured: 2022-10-25
 - Newest post captured: 2026-11-03
 
 
@@ -2031,3 +2031,98 @@ Tags (automatic): AI-assisted hunting
 > An appsec engineer was fawning over a sudo bug, leading him to research and discovery of a separate logic bug in Linux. Bottom line: Don't use readline in your SUID applications https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
 
 **Links in post:** https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
+
+
+---
+
+## 2022-12-14 · Post · We are going to be starting in a few minutes! come by and fuzz with us 
+
+
+### Post — @trailofbits — 2022-12-14 16:58 UTC (2022-12-14 17:58 WAT)
+
+- URL: https://x.com/trailofbits/status/1603072005611339779
+- Metrics (at fetch): bookmark 1, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> We are going to be starting in a few minutes! come by and fuzz with us 
+>
+> https://t.co/OjIHpMI0K1
+> https://t.co/YvzTIFXESA https://t.co/uQwHwJmrS2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2022-12-13 17:43 UTC (2022-12-13 18:43 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1602720892076888065
+    - Metrics (at fetch): bookmark 0, impression 0, like 7, quote 1, reply 0, retweet 2
+    
+    > 24 hours from now, we'll be hosting another livestream tool workshop. If you want to join us, make sure you subscribe to our Twitch and YouTube channels for a notification on when we go live! https://t.co/Mb5BRMcDZl https://t.co/5b2kZQQw0k
+    
+
+
+---
+
+## 2022-12-13 · Post · 24 hours from now, we'll be hosting another livestream tool workshop. If you want to join us, make s
+
+
+### Post — @trailofbits — 2022-12-13 17:43 UTC (2022-12-13 18:43 WAT)
+
+- URL: https://x.com/trailofbits/status/1602720892076888065
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 1, reply 0, retweet 2
+
+> 24 hours from now, we'll be hosting another livestream tool workshop. If you want to join us, make sure you subscribe to our Twitch and YouTube channels for a notification on when we go live! https://t.co/Mb5BRMcDZl https://t.co/5b2kZQQw0k
+
+
+---
+
+## 2022-11-16 · Post · Come learn to fuzz like a pro: Live now on Twitch and YouTube! 
+
+
+### Post — @trailofbits — 2022-11-16 16:58 UTC (2022-11-16 17:58 WAT)
+
+- URL: https://x.com/trailofbits/status/1592925072117084160
+- Metrics (at fetch): bookmark 6, impression 0, like 28, quote 1, reply 0, retweet 15
+
+> Come learn to fuzz like a pro: Live now on Twitch and YouTube! 
+>
+> https://t.co/Mb5BRMdbOT
+>
+> https://t.co/IXZ5ws7Qlu
+
+
+---
+
+## 2022-11-10 · Post · During research that led to our discovery of a vuln in SQLite, we found something we call "divergent
+
+
+### Post — @trailofbits — 2022-11-10 12:31 UTC (2022-11-10 13:31 WAT)
+
+- URL: https://x.com/trailofbits/status/1590683470740656129
+- Metrics (at fetch): bookmark 45, impression 0, like 153, quote 5, reply 3, retweet 36
+
+> During research that led to our discovery of a vuln in SQLite, we found something we call "divergent representations." Once we started looking for them, we found them everywhere https://t.co/fsSbITWgGx
+
+
+---
+
+## 2022-11-04 · Post · We released a new version of Slither, which contains several bug fixes and a new tool to help diagno
+
+
+### Post — @trailofbits — 2022-11-04 16:38 UTC (2022-11-04 17:38 WAT)
+
+- URL: https://x.com/trailofbits/status/1588571489590280194
+- Metrics (at fetch): bookmark 1, impression 0, like 31, quote 0, reply 0, retweet 9
+
+> We released a new version of Slither, which contains several bug fixes and a new tool to help diagnose issues with the static analyzer. Thank you to our growing number of contributors who continually make this tool better! https://t.co/48ddumEmPD
+
+
+---
+
+## 2022-10-25 · Post · Earlier this year, one of our interns found a vulnerability that affects applications using the SQLi
+
+
+### Post — @trailofbits — 2022-10-25 11:30 UTC (2022-10-25 12:30 WAT)
+
+- URL: https://x.com/trailofbits/status/1584870065698136064
+- Metrics (at fetch): bookmark 59, impression 0, like 296, quote 8, reply 6, retweet 92
+
+> Earlier this year, one of our interns found a vulnerability that affects applications using the SQLite library API. We are publicly disclosing that vuln today. https://t.co/vDsZKqvsoi

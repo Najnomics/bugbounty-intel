@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 103
-- Conversations/threads: 103
-- Oldest post captured: 2023-09-11
+- Posts in this file: 109
+- Conversations/threads: 109
+- Oldest post captured: 2023-06-22
 - Newest post captured: 2026-11-04
 
 
@@ -2061,3 +2061,144 @@ Tags (automatic): Platform: Bugcrowd
 > - unplanned tours , spirituality , 
 > new friends , music , mcu &amp; 
 > Bike ride 🏍️
+
+
+---
+
+## 2023-07-23 · Post · it’s @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-07-23 05:47 UTC (2023-07-23 06:47 WAT)
+
+- URL: https://x.com/krishnsec/status/1682990870377943042
+- Metrics (at fetch): bookmark 25, impression 24700, like 136, quote 2, reply 5, retweet 6
+
+> it’s @Bugcrowd 
+> made $$30k + in last 30 days https://t.co/ZYskLru1zt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1115286026774179841 — 2023-07-23 05:24 UTC (2023-07-23 06:24 WAT)
+    
+    - URL: https://x.com/1115286026774179841/status/1682985081919672320
+    - Metrics (at fetch): bookmark 5, impression 31532, like 33, quote 1, reply 3, retweet 0
+    
+    > Nowadays money platform is @yeswehack 🥳🤚
+    
+
+
+---
+
+## 2023-07-20 · Post · I earned $15,000 for my submission on @bugcrowd https://t.co/6S0RplwmZ8 ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-07-20 17:03 UTC (2023-07-20 18:03 WAT)
+
+- URL: https://x.com/krishnsec/status/1682073688764739584
+- Metrics (at fetch): bookmark 43, impression 39787, like 430, quote 0, reply 48, retweet 14
+
+> I earned $15,000 for my submission on @bugcrowd https://t.co/6S0RplwmZ8 #ItTakesACrowd
+
+
+---
+
+## 2023-07-07 · Post · Another story -
+
+
+Tags (automatic): SQL injection, Auth bypass, Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-07-07 13:33 UTC (2023-07-07 14:33 WAT)
+
+- URL: https://x.com/krishnsec/status/1677309864903622659
+- Metrics (at fetch): bookmark 49, impression 32543, like 324, quote 1, reply 38, retweet 14
+
+> #Another story -
+> Crossed 800+ Rep on a single program on
+> @Bugcrowd
+> Bugs ::  
+> 14 P1s 
+> 1- geoserver -sqli
+> 7- Auth bypassess
+> 6- sqli https://t.co/wEuRPXsbkm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0cANtTWIAIAjB7.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F0cANt0WYAAA35W.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F0cANtbWcAUA7Lb.png — no alt text provided by author
+
+
+---
+
+## 2023-07-07 · Post · Crossed 1k Rep on a single program on @Bugcrowd 
+
+
+Tags (automatic): XSS, Account takeover, Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-07-07 13:17 UTC (2023-07-07 14:17 WAT)
+
+- URL: https://x.com/krishnsec/status/1677305909733736451
+- Metrics (at fetch): bookmark 64, impression 39414, like 448, quote 0, reply 48, retweet 18
+
+> Crossed 1k Rep on a single program on @Bugcrowd 
+> Bugs ::
+> 9 P1s ( 8 -admin panel bypass , 1- aws keys in source code )
+> 5 P2s ( blind xss , 2 account takeover - csrf+xss , 2 admin panel )
+> 35 P3s - Ref XSS https://t.co/v5XJCpQFIf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0b5n9XWwAEg_qZ.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F0b7XH_XwAAWl3Z.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F0b7-FuWcAMG27S.png — no alt text provided by author
+
+
+---
+
+## 2023-06-24 · Post · To beginners,
+
+
+### Post — @krishnsec — 2023-06-24 07:29 UTC (2023-06-24 08:29 WAT)
+
+- URL: https://x.com/krishnsec/status/1672507162667663360
+- Metrics (at fetch): bookmark 2, impression 11994, like 63, quote 2, reply 5, retweet 2
+
+> To beginners,
+> Please don’t dm only hi , hello , how r u 
+> &amp; most imp dont ask for bb poc and easy bounty tips in DM
+> wtf is “ can you send me poc “ 
+>
+> Shoot ur question directly- I see 98% questions which can solved by google 
+> And u wasting time in testing our google skills :)
+
+
+---
+
+## 2023-06-22 · Post · Today is bypass day :)
+
+
+Tags (automatic): XSS, Auth bypass
+
+
+### Post — @krishnsec — 2023-06-22 16:38 UTC (2023-06-22 17:38 WAT)
+
+- URL: https://x.com/krishnsec/status/1671920644236398592
+- Metrics (at fetch): bookmark 16, impression 8113, like 85, quote 1, reply 4, retweet 6
+
+> Today is bypass day :)
+> 1P1 &amp; 4 p3 
+> other side - customer was making  bugs resolved 
+> my side - ye le bypass 
+>
+> 1 P1 - Auth bypass with ‘+’ sign in @company.tld email 
+> Xss waf bypassed with @0xMstar ✌️
+> rest bypassed my old reports https://t.co/I9t86ZqbvO
+
+**Media:**
+- video:  — no alt text provided by author
