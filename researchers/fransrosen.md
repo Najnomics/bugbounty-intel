@@ -31,3 +31,15 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/fransros
 ## Writeups saved (full text)
 
 - [`writeups/fransrosen/hackernotes-ep86-xcorrelation.md`](../writeups/fransrosen/hackernotes-ep86-xcorrelation.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim posts under `posts/fransrosen/`._
+
+- **XSS-challenge solution thread (10 parts)** (`XSS via double query-param extraction`)
+  - post: https://x.com/fransrosen/status/1828503460183941420
+  - local: `posts/fransrosen/2024-08-27-1828503460183941420.md`, `writeups/fransrosen/hackernotes-ep86-xcorrelation.md`
+  - bounty: undisclosed
+- **hackernotes-ep86-xcorrelation** (`auth-bypass`)
+  - post: https://blog.criticalthinkingpodcast.io/p/hackernotes-ep86-xcorrelation-frans-rce-research-drop
+  - local: `writeups/fransrosen/hackernotes-ep86-xcorrelation.md`

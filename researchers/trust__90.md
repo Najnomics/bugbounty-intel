@@ -33,3 +33,11 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/trust__9
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/trust__90/`._
+
+- **KelpDAO 1/1 DVN incident analysis** (`Bridge / cross-chain config`)
+  - post: https://x.com/trust__90/status/2046203827305484565
+  - local: `posts/trust__90/2026-04-20-2046203827305484565.md`

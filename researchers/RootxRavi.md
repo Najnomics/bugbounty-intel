@@ -34,3 +34,12 @@ No public technical writeup for the 2026 payouts was found in this pass. His pos
 - **1 Aug 2026:** #4 on Bugcrowd India leaderboard for July. [post](https://x.com/RootxRavi/status/2083510058093326602)
 - **1 Jul 2026:** #2 on Bugcrowd India leaderboard for June, "while balancing a full-time job." [post](https://x.com/RootxRavi/status/2072261644709986608)
 - **16 Jun 2026:** Mentioned a hunting laptop setup of Burp Suite, Claude Code, Docker, browsers, and recon tools (16GB M2 Pro struggling). Tool list only — not a finding. [post](https://x.com/RootxRavi/status/2066959135414055188)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/RootxRavi/`._
+
+- **IDOR on forgot-password → mass username/email enumeration (3-digit bounty)** (`idor-bola`)
+  - post: https://x.com/RootxRavi/status/1592807918428037122
+  - local: `posts/RootxRavi/ARCHIVE.md`, `data/x_posts.jsonl`
+  - bounty: 3-digit

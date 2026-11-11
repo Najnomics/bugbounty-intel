@@ -43,3 +43,20 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/samwcyo/
 
 - [`writeups/samwcyo/forgerock-rce-vehicles.md`](../writeups/samwcyo/forgerock-rce-vehicles.md)
 - [`writeups/samwcyo/hacking-clubwpt-gold.md`](../writeups/samwcyo/hacking-clubwpt-gold.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 4 finding(s). Full verbatim posts under `posts/samwcyo/`._
+
+- **ClubWPT Gold back-office admin access** (`Access control / admin panel exposure`)
+  - post: https://x.com/samwcyo/status/1978209247876862450
+  - local: `posts/samwcyo/2025-10-14-1978209247876862450.md`, `writeups/samwcyo/forgerock-rce-vehicles.md`, `writeups/samwcyo/hacking-clubwpt-gold.md`
+- **Next.js path-parsing bug reappears in Vinext** (`Path parsing / middleware bypass`)
+  - post: https://x.com/samwcyo/status/2026888257779224594
+  - local: `posts/samwcyo/2026-02-26-2026888257779224594.md`, `writeups/samwcyo/forgerock-rce-vehicles.md`, `writeups/samwcyo/hacking-clubwpt-gold.md`
+- **forgerock-rce-vehicles** (`auth-bypass`)
+  - post: https://samcurry.net/forgerock
+  - local: `writeups/samwcyo/forgerock-rce-vehicles.md`
+- **hacking-clubwpt-gold** (`web`)
+  - post: https://samcurry.net/hacking-clubwpt-gold
+  - local: `writeups/samwcyo/hacking-clubwpt-gold.md`

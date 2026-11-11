@@ -107,3 +107,37 @@ His full retrievable original-post timeline was captured verbatim: **422 post fi
 - [`writeups/mdp_sec/prompts/phases/phase-10-self-duplicate-check.md`](../writeups/mdp_sec/prompts/phases/phase-10-self-duplicate-check.md)
 
 All 422 verbatim posts are in [`posts/mdp_sec/`](../posts/mdp_sec/).
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim posts under `posts/mdp_sec/`._
+
+- **Unauthenticated SQL injection in a public quote flow ($4,000)** (`SQL injection (write-then-read-back / second-order style) → PII + resume-token disclosure`)
+  - post: https://x.com/mdp_sec/status/2120066429223317560
+  - local: `posts/mdp_sec/2026-11-10-2120066429223317560.md`, `writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md`, `writeups/mdp_sec/mdpsec-home.md`
+  - bounty: $4,000
+- **/./ path normalisation past a login wall into an admin console** (`Auth bypass via path normalisation mismatch`)
+  - post: https://x.com/mdp_sec/status/2120338219841544604
+  - local: `posts/mdp_sec/2026-11-11-2120338219841544604.md`, `writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md`, `writeups/mdp_sec/mdpsec-home.md`
+  - bounty: undisclosed
+- **$8,000 auth bypass on HackerOne — token signature not verified** (`Auth bypass / broken JWT-style token validation`)
+  - post: https://x.com/mdp_sec/status/2118435683329310786
+  - local: `posts/mdp_sec/2026-11-05-2118435683329310786.md`, `writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md`, `writeups/mdp_sec/mdpsec-home.md`
+  - bounty: $8,000
+- **$1,200 Bugcrowd dependency confusion** (`Supply chain / dependency confusion`)
+  - post: https://x.com/mdp_sec/status/2118803107119325691
+  - local: `posts/mdp_sec/2026-11-06-2118803107119325691.md`, `writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md`, `writeups/mdp_sec/mdpsec-home.md`
+  - bounty: $1,200
+- **Two-account IDOR/BAC testing checklist** (`Methodology: access control (IDOR/BOLA)`)
+  - post: https://x.com/mdp_sec/status/2118526280379343189
+  - local: `posts/mdp_sec/2026-11-06-2118526280379343189.md`, `writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md`, `writeups/mdp_sec/mdpsec-home.md`
+- **Bugcrowd vs HackerOne duplicate handling** (`Platform process`)
+  - post: https://x.com/mdp_sec/status/2094614973146448108
+  - local: `posts/mdp_sec/2026-09-01-2094614973146448108.md`, `writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md`, `writeups/mdp_sec/mdpsec-home.md`
+- **Public OAuth client ID treated as authority — free account R/W production billing catalog ($2,500)** (`oauth`)
+  - post: https://x.com/mdp_sec/status/2095462761111388207
+  - local: `posts/mdp_sec/2026-09-03-2095462761111388207.md`
+  - bounty: $2,500
+- **Stored XSS: unauth API writes into LESS config later sunk in back-office designer** (`xss`)
+  - post: https://x.com/mdp_sec/status/2099031404252434591
+  - local: `posts/mdp_sec/2026-09-13-2099031404252434591.md`

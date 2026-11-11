@@ -93,3 +93,27 @@ He also posted that he finished top 5 in the US on HackerOne for a quarter (3 Ju
 Disclosed regularly summarizes other researchers' work. Useful pointers from the 19 Oct 2026 issue ([post](https://x.com/infinitelogins/status/2112170733228966180), [getdisclosed.com](https://getdisclosed.com)) included Paulos Yibelo's PwnEscape, a Google DevSite pickle/RCE chain by Simon Koeck ($90k), brutecat on Google GFile ($100k), SLCyberSec's AEM Cloud pre-auth RCE chain, and wunderwuzzi23's trailing-dot Copilot bypass. Those belong to the named authors; see [researchers.md](../researchers.md) watch list.
 
 On 19 Feb 2026 he also highlighted @spaceraccoon's project that watches GitHub commit diffs for vulnerability patches before CVEs are public — useful for variant hunting. [post](https://x.com/infinitelogins/status/2024484231062114553)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim posts under `posts/infinitelogins/`._
+
+- **Unauthenticated BigQuery SQLi via WAF-bypassing error-channel extraction ($4,000)** (`sqli`)
+  - post: https://x.com/infinitelogins/status/2110355630133322159
+  - local: `posts/infinitelogins/2026-10-14-2110355630133322159.md`
+  - bounty: $4,000
+- **Unauthenticated account takeover via LIKE-wildcard leak of auto-login keys ($5,000)** (`auth-bypass`)
+  - post: https://x.com/infinitelogins/status/2117981403161764138
+  - local: `posts/infinitelogins/2026-11-04-2117981403161764138.md`
+  - bounty: $5,000
+- **Free-trial → platform superadmin via mass assignment + MFA-skipping auto-login ($5,000)** (`business-logic`)
+  - post: https://x.com/infinitelogins/status/2115429533738262954
+  - local: `posts/infinitelogins/2026-10-28-2115429533738262954.md`
+  - bounty: $5,000
+- **Layered auth bypass: .json static-path skip + %23 truncate + trusted-client header ($10,000)** (`auth-bypass`)
+  - post: https://x.com/infinitelogins/status/2108181015885685018
+  - local: `posts/infinitelogins/2026-10-08-2108181015885685018.md`
+  - bounty: $10,000
+- **vulnerability-spoiler-alert-action** (`xss`)
+  - post: https://raw.githubusercontent.com/spaceraccoon/vulnerability-spoiler-alert-action/main/README.md
+  - local: `writeups/infinitelogins/vulnerability-spoiler-alert-action.md`

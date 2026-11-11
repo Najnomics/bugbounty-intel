@@ -37,3 +37,23 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/samczsun
 - [`writeups/samczsun/so-you-want-to-use-a-price-oracle.md`](../writeups/samczsun/so-you-want-to-use-a-price-oracle.md)
 - [`writeups/samczsun/taking-undercollateralized-loans-for-fun-and-for-profit.md`](../writeups/samczsun/taking-undercollateralized-loans-for-fun-and-for-profit.md)
 - [`writeups/samczsun/two-rights-might-make-a-wrong.md`](../writeups/samczsun/two-rights-might-make-a-wrong.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim posts under `posts/samczsun/`._
+
+- **Thoughts on bug bounty payouts and crypto security** (`Bug bounty economics`)
+  - post: https://x.com/samczsun/status/1998816590901756081
+  - local: `posts/samczsun/2025-12-10-1998816590901756081.md`, `writeups/samczsun/higher-bug-bounties-wont-stop-hacks.md`, `writeups/samczsun/so-you-want-to-use-a-price-oracle.md`
+- **higher-bug-bounties-wont-stop-hacks** (`path-normalization`)
+  - post: https://samczsun.com/higher-bug-bounties-wont-stop-hacks/
+  - local: `writeups/samczsun/higher-bug-bounties-wont-stop-hacks.md`
+- **so-you-want-to-use-a-price-oracle** (`smart-contract`)
+  - post: https://samczsun.com/so-you-want-to-use-a-price-oracle/
+  - local: `writeups/samczsun/so-you-want-to-use-a-price-oracle.md`
+- **taking-undercollateralized-loans-for-fun-and-for-profit** (`auth-bypass`)
+  - post: https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/
+  - local: `writeups/samczsun/taking-undercollateralized-loans-for-fun-and-for-profit.md`
+- **two-rights-might-make-a-wrong** (`web`)
+  - post: https://samczsun.com/two-rights-might-make-a-wrong/
+  - local: `writeups/samczsun/two-rights-might-make-a-wrong.md`

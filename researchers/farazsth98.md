@@ -26,3 +26,11 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/farazsth98/`._
+
+- **Cronos Gravity Bridge — two bugs that halt all or parts of the bridge** (`cross-chain-bridge`)
+  - post: https://x.com/farazsth98/status/1734373138027409840
+  - local: `posts/farazsth98/ARCHIVE.md`, `data/x_posts.jsonl`

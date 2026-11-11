@@ -42,3 +42,14 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/cmicheli
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim posts under `posts/cmichelio/`._
+
+- **Median of 11 oracle sources — how many to manipulate?** (`Oracle manipulation`)
+  - post: https://x.com/cmichelio/status/1800463263433678945
+  - local: `posts/cmichelio/2024-06-11-1800463263433678945.md`
+- **Retrain yourself after every bug** (`Methodology`)
+  - post: https://x.com/cmichelio/status/1884541645078818897
+  - local: `posts/cmichelio/2025-01-29-1884541645078818897.md`

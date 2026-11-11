@@ -41,3 +41,17 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/PwningEt
 ## Writeups saved (full text)
 
 - [`writeups/PwningEth/frontier-evm-wrapped-token-insolvency.md`](../writeups/PwningEth/frontier-evm-wrapped-token-insolvency.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim posts under `posts/PwningEth/`._
+
+- **Frontier EVM bug can force WETH-style wrapped native tokens insolvent** (`EVM implementation bug → wrapped-token depeg`)
+  - post: https://x.com/PwningEth/status/1598592820268642304
+  - local: `posts/PwningEth/2022-12-02-1598592820268642304.md`, `writeups/PwningEth/frontier-evm-wrapped-token-insolvency.md`
+- **Aurora bridge protected again** (`Bridge security`)
+  - post: https://x.com/PwningEth/status/1566381803405209601
+  - local: `posts/PwningEth/2022-09-04-1566381803405209601.md`, `writeups/PwningEth/frontier-evm-wrapped-token-insolvency.md`
+- **frontier-evm-wrapped-token-insolvency** (`web`)
+  - post: https://pwning.mirror.xyz/RFNTSouIIlHVNmTNDThUVb1obIeN5c1LAiQuN9Ve-ok
+  - local: `writeups/PwningEth/frontier-evm-wrapped-token-insolvency.md`

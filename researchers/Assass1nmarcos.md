@@ -67,3 +67,25 @@ These are evidence of ongoing activity only. Bug class, program, and method were
 ## Other notes
 
 On 8 Jul 2026 he publicly disputed a HackerOne triage that marked a claimed in-scope P1 BOLA on a large cybersecurity firm's API as informative / "subdomain takeover, out of scope." That disagreement is not independent confirmation of the bug. [Thread start](https://x.com/Assass1nmarcos/status/2074871162035986895).
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim posts under `posts/Assass1nmarcos/`._
+
+- **Unauthenticated GraphQL PII dump (limited disclosure)** (`graphql`)
+  - post: https://x.com/Assass1nmarcos/status/1942867531318120514
+  - local: `posts/Assass1nmarcos/ARCHIVE.md`, `data/x_posts.jsonl`
+- **[$5K] Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)** (`auth-bypass`)
+  - post: https://assassin-marcos.medium.com/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183
+  - local: `writeups/Assass1nmarcos/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interacti.md`
+  - bounty: $5
+- **Breaking the Barrier: Admin Panel Takeover Worth $3500** (`web`)
+  - post: https://assassin-marcos.medium.com/breaking-the-barrier-admin-panel-takeover-worth-3500-78da79089ca3
+  - local: `writeups/Assass1nmarcos/breaking-the-barrier-admin-panel-takeover-worth-3500.md`
+  - bounty: $3500
+- **admin-panel-takeover-3500** (`web`)
+  - post: https://www.bugbountydirectory.com/blogs/breaking-the-barrier-admin-panel-takeover-worth-3500
+  - local: `writeups/Assass1nmarcos/bugbountydirectory-republish-admin-panel-takeover-3500.md`
+- **Don’t underestimates the Errors They can provide good $$$ Bounty!** (`web`)
+  - post: https://assassin-marcos.medium.com/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596
+  - local: `writeups/Assass1nmarcos/dont-underestimates-the-errors-they-can-provide-good-bounty.md`

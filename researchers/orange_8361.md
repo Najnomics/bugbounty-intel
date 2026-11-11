@@ -34,3 +34,17 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/orange_8
 ## Writeups saved (full text)
 
 - [`writeups/orange_8361/2026-10-browser-full-chain.md`](../writeups/orange_8361/2026-10-browser-full-chain.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim posts under `posts/orange_8361/`._
+
+- **Logic-bugs-only full chain** (`Logic bug exploit chain`)
+  - post: https://x.com/orange_8361/status/2054906050143240399
+  - local: `posts/orange_8361/2026-05-14-2054906050143240399.md`, `writeups/orange_8361/2026-10-browser-full-chain.md`
+- **Jenkins pre-auth RCE (with Overall/Read) — chains with CVE-2018-1000861 to no-ACL RCE** (`auth-bypass`)
+  - post: https://x.com/orange_8361/status/1075492505657925632
+  - local: `posts/orange_8361/ARCHIVE.md`, `data/x_posts.jsonl`
+- **2026-10-browser-full-chain** (`web`)
+  - post: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
+  - local: `writeups/orange_8361/2026-10-browser-full-chain.md`

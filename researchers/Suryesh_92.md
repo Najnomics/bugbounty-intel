@@ -78,3 +78,18 @@ Other 2026 web claims, method undisclosed:
 - **29 Jan 2026:** Broken access control, amount `$$$`. [post](https://x.com/Suryesh_92/status/2016865602749813209)
 - **20 Jan 2026:** A bounty increased to 3500 CHF (he converted this as $4,424). [post](https://x.com/Suryesh_92/status/2013636881272184929)
 - **19 Jan 2026:** First 2026 bounty, 1500 CHF (he converted as $1,877). "Impact comes from process, not luck." [post](https://x.com/Suryesh_92/status/2013196581994946685)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim posts under `posts/Suryesh_92/`._
+
+- **Algolia API Key Exploitation leads to $1000 Bounty (P2) on Private program** (`web`)
+  - post: https://hackwithsuryesh.medium.com/algolia-api-key-exploitation-leads-to-1000-bounty-p2-on-private-program-2e147f052ff0
+  - local: `writeups/Suryesh_92/algolia-api-key-exploitation-leads-to-1000-bounty-p2-on-private-program.md`
+  - bounty: $1000
+- **How I Chained RCE Via Dependencies Confusion to LFI** (`path-normalization`)
+  - post: https://hackwithsuryesh.medium.com/how-i-chained-rce-via-dependencies-to-lfi-348315aa17e8
+  - local: `writeups/Suryesh_92/how-i-chained-rce-via-dependencies-to-lfi.md`
+- **Rxss + CSTI In Search Field Via Polygot Payload** (`xss`)
+  - post: https://hackwithsuryesh.medium.com/rxss-csti-in-search-field-via-polygot-payload-65ca1a8be8ba
+  - local: `writeups/Suryesh_92/rxss-csti-in-search-field-via-polygot-payload.md`

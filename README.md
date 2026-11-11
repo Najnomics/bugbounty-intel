@@ -126,3 +126,7 @@ For ongoing monitoring (newest posts first), these accounts currently produce th
 X search cannot cover "the whole of X" in one pass. Many elite hunters never post technical detail, only payout screenshots. Several of the most useful writeups live on Medium, personal sites, GitHub, or vendor advisories rather than on X.
 
 - Backfill coverage per account (what is complete vs still partial): [data/backfill_status.md](data/backfill_status.md)
+
+## Harness
+
+See [`harness/`](harness/) — **399** findings, 36 bug-class specs, payloads/, tools.md.

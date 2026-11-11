@@ -67,3 +67,17 @@ This is the richest **Web3 infra** source in the seed set. Several Immunefi payo
 - Earlier 2026 posts describe additional confirmed Immunefi findings (including a medium, a low they accepted, and a report the project re-opened and confirmed themselves). Root causes were not public.
 
 Their site's public scoreboard also mentions, at a high level, "Signed Execute Messages Could Authorize Attacker Code to Read Secret Network Contract State" — no full writeup was fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim posts under `posts/bluethroat_labs/`._
+
+- **bluepaper-readme** (`auth-bypass`)
+  - post: https://raw.githubusercontent.com/BluethroatLabs/BluePaper/main/README.md
+  - local: `writeups/bluethroat_labs/bluepaper-readme.md`
+- **linkedin-trusted-execution-unsafe-transport** (`tee-attestation`)
+  - post: https://www.linkedin.com/posts/bluethroat-labs_56-trusted-execution-over-an-unsafe-transport-activity-7447638926099685376-GKd6
+  - local: `writeups/bluethroat_labs/linkedin-trusted-execution-unsafe-transport.md`
+- **phala-dstack-attestation-hardening** (`tee-attestation`)
+  - post: https://phala.com/posts/dstack-security-update-attestation-pipeline-hardening
+  - local: `writeups/bluethroat_labs/phala-dstack-attestation-hardening.md`

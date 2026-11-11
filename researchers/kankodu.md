@@ -31,3 +31,16 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/kankodu/
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim posts under `posts/kankodu/`._
+
+- **EtherFi helper contract hack — three holes lined up** (`Smart contract: unsafe callback + stale approval + EIP-7702`)
+  - post: https://x.com/kankodu/status/2098377603396915590
+  - local: `posts/kankodu/2026-09-11-2098377603396915590.md`
+  - bounty: undisclosed
+- **Balancer V2 infinite balances via front-running ERC20 deployments ($250k)** (`smart-contract`)
+  - post: https://x.com/kankodu/status/1893206310105080058
+  - local: `posts/kankodu/ARCHIVE.md`, `data/x_posts.jsonl`
+  - bounty: $250,000

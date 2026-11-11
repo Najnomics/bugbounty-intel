@@ -33,3 +33,11 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/usmannk/
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/usmannk/`._
+
+- **Nibiru Chain total-funds bug** (`Chain-level critical (details in post)`)
+  - post: https://x.com/usmannk/status/2075339613045129441
+  - local: `posts/usmannk/2026-07-09-2075339613045129441.md`

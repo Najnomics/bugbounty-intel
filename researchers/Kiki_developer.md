@@ -66,3 +66,14 @@ From the GitHub README bounty table. Use as a checklist of patterns he has actua
 In Feb 2024 he published a high-level list of common contest findings and the questions he asks: reentrancy (CEI; which functions make external calls and which state they share), DoS (unbounded loops, attacker-inflated arrays, strict conditions that can be broken), `delegatecall` (who controls the target address), unchecked external calls, race conditions / ERC-20 approve races, flash-loan price manipulation, oracle edge cases, and overflow/underflow / unsafe downcasting.
 
 **Source:** [Medium, 1 Feb 2024](https://medium.com/@kiki.auditor/8-common-smart-contract-vulnerabilities-found-throughout-audit-contest-d8f19c494f7e)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim posts under `posts/Kiki_developer/`._
+
+- **8 Common Smart Contract Vulnerabilities Found Throughout Audit Contest** (`smart-contract`)
+  - post: https://medium.com/@kiki.auditor/8-common-smart-contract-vulnerabilities-found-throughout-audit-contest-d8f19c494f7e
+  - local: `writeups/Kiki_developer/8-common-smart-contract-vulnerabilities-found-throughout-audit-contest.md`
+- **bounty-013** (`smart-contract`)
+  - post: https://raw.githubusercontent.com/devNamedKiki/Audits/main/Bounties/013.md
+  - local: `writeups/Kiki_developer/bounty-013.md`

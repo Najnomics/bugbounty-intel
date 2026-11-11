@@ -33,3 +33,11 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/NahamSec
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/NahamSec/`._
+
+- **AI hackbot missed a $5,000 bounty** (`AI-assisted hunting`)
+  - post: https://x.com/NahamSec/status/2114703602505949692
+  - local: `posts/NahamSec/2026-10-26-2114703602505949692.md`

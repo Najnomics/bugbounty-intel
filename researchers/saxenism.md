@@ -33,3 +33,23 @@ See tagged posts under `posts/saxenism/` (auto keyword tags: TEE, ZK, Blockchain
 - [`writeups/saxenism/argument-xyz-riscv-good-bad.md`](../writeups/saxenism/argument-xyz-riscv-good-bad.md)
 - [`writeups/saxenism/bluethroat-docs-home.md`](../writeups/saxenism/bluethroat-docs-home.md)
 - [`writeups/saxenism/turnkey-whitepaper-foundations.md`](../writeups/saxenism/turnkey-whitepaper-foundations.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim posts under `posts/saxenism/`._
+
+- **argument-xyz-riscv-good-bad** (`zk-circuits`)
+  - post: https://argument.xyz/blog/riscv-good-bad/
+  - local: `writeups/saxenism/argument-xyz-riscv-good-bad.md`
+- **bluethroat-docs-home** (`tee-attestation`)
+  - post: https://docs.bluethroatlabs.com
+  - local: `writeups/saxenism/bluethroat-docs-home.md`
+- **dumb-ways-to-get-rekt-with-tees** (`tee-attestation`)
+  - post: https://bluethroatlabs.com/docs/dumb-ways-to-get-rekt-with-tees
+  - local: `writeups/saxenism/dumb-ways-to-get-rekt-with-tees.md`
+- **tee-security-handbook** (`tee-attestation`)
+  - post: https://tee-security-handbook.bluethroatlabs.com
+  - local: `writeups/saxenism/tee-security-handbook.md`
+- **turnkey-whitepaper-foundations** (`tee-attestation`)
+  - post: https://whitepaper.turnkey.com/foundations
+  - local: `writeups/saxenism/turnkey-whitepaper-foundations.md`

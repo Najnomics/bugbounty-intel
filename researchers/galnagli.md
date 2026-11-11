@@ -33,3 +33,24 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/galnagli
 ## Writeups saved (full text)
 
 - [`writeups/galnagli/wiz-php2shell-php-rce.md`](../writeups/galnagli/wiz-php2shell-php-rce.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim posts under `posts/galnagli/`._
+
+- **Critical PHP RCE (php2shell)** (`RCE in PHP core`)
+  - post: https://x.com/galnagli/status/2112902206152167640
+  - local: `posts/galnagli/2026-10-21-2112902206152167640.md`, `writeups/galnagli/wiz-php2shell-php-rce.md`
+- **OpenAI ChatGPT critical account takeover — view chats + billing (fixed)** (`auth-bypass`)
+  - post: https://x.com/galnagli/status/1646550421123522560
+  - local: `posts/galnagli/ARCHIVE.md`, `data/x_posts.jsonl`
+- **DoD website IDOR → account takeover (blog writeup)** (`idor-bola`)
+  - post: https://x.com/galnagli/status/1325073898401107969
+  - local: `posts/galnagli/ARCHIVE.md`, `data/x_posts.jsonl`
+- **$20,000 OAuth bug (live hacking event) — lab replica with NahamSec/HackingHub** (`oauth`)
+  - post: https://x.com/galnagli/status/1762153856127930493
+  - local: `posts/galnagli/ARCHIVE.md`, `data/x_posts.jsonl`
+  - bounty: $20,000
+- **wiz-php2shell-php-rce** (`xss`)
+  - post: https://www.wiz.io/blog/php2shell-php-rce
+  - local: `writeups/galnagli/wiz-php2shell-php-rce.md`

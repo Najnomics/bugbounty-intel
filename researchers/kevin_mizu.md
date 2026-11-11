@@ -50,3 +50,29 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/kevin_mi
 
 - [`writeups/kevin_mizu/dompurify-bypass-smil-animatetransform-safari.md`](../writeups/kevin_mizu/dompurify-bypass-smil-animatetransform-safari.md)
 - [`writeups/kevin_mizu/hackerone-report-3876430.md`](../writeups/kevin_mizu/hackerone-report-3876430.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 7 finding(s). Full verbatim posts under `posts/kevin_mizu/`._
+
+- **MariaDB: any user can change root password** (`Logic / privilege escalation`)
+  - post: https://x.com/kevin_mizu/status/2097055819447550388
+  - local: `posts/kevin_mizu/2026-09-07-2097055819447550388.md`, `writeups/kevin_mizu/dompurify-bypass-smil-animatetransform-safari.md`, `writeups/kevin_mizu/hackerone-report-3876430.md`
+- **Cloudflare /cdn-cgi/image XSS** (`XSS via CSP/caching`)
+  - post: https://x.com/kevin_mizu/status/2115448862869500312
+  - local: `posts/kevin_mizu/2026-10-28-2115448862869500312.md`, `writeups/kevin_mizu/dompurify-bypass-smil-animatetransform-safari.md`, `writeups/kevin_mizu/hackerone-report-3876430.md`
+- **DOMPurify ≤3.2.6 Safari SMIL bypass** (`Sanitizer bypass (mXSS)`)
+  - post: https://x.com/kevin_mizu/status/2089366491179122821
+  - local: `posts/kevin_mizu/2026-08-17-2089366491179122821.md`, `writeups/kevin_mizu/dompurify-bypass-smil-animatetransform-safari.md`, `writeups/kevin_mizu/hackerone-report-3876430.md`
+- **Discourse: ImageMagick JPEG race + polyglot → arbitrary file read/RCE (CVE-2026-55420); also cache-poisoning XSS (CVE-2026-55674)** (`file-upload`)
+  - post: https://x.com/kevin_mizu/status/2107783292091007306
+  - local: `posts/kevin_mizu/2026-10-07-2107783292091007306.md`
+- **DOMPurify bypass under CUSTOM_ELEMENT_HANDLING + FORBID_CONTENT (non-default)** (`xss`)
+  - post: https://x.com/kevin_mizu/status/1760341445872144520
+  - local: `posts/kevin_mizu/ARCHIVE.md`, `data/x_posts.jsonl`
+- **dompurify-bypass-smil-animatetransform-safari** (`xss`)
+  - post: https://mizu.re/post/dompurify-bypass-smil-animatetransform-safari
+  - local: `writeups/kevin_mizu/dompurify-bypass-smil-animatetransform-safari.md`
+- **HackerOne report #3876430: MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover** (`auth-bypass`)
+  - post: https://hackerone.com/reports/3876430
+  - local: `writeups/kevin_mizu/hackerone-report-3876430.md`

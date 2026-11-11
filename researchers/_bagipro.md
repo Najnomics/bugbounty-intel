@@ -40,3 +40,17 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/_bagipro
 ## Writeups saved (full text)
 
 - [`writeups/_bagipro/oversecured-samsung-vulnerabilities-readme.md`](../writeups/_bagipro/oversecured-samsung-vulnerabilities-readme.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim posts under `posts/_bagipro/`._
+
+- **Android Uri host-validation bypass** (`Mobile / URL parsing`)
+  - post: https://x.com/_bagipro/status/1951318010444005529
+  - local: `posts/_bagipro/2025-08-01-1951318010444005529.md`, `writeups/_bagipro/oversecured-samsung-vulnerabilities-readme.md`
+- **Content-provider attack via system apps** (`Mobile / IPC`)
+  - post: https://x.com/_bagipro/status/2026798826871247233
+  - local: `posts/_bagipro/2026-02-25-2026798826871247233.md`, `writeups/_bagipro/oversecured-samsung-vulnerabilities-readme.md`
+- **oversecured-samsung-vulnerabilities-readme** (`mobile`)
+  - post: https://raw.githubusercontent.com/oversecured/Samsung_Vulnerabilities/main/README.md
+  - local: `writeups/_bagipro/oversecured-samsung-vulnerabilities-readme.md`

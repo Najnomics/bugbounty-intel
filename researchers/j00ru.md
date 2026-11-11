@@ -37,3 +37,23 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/j00ru/`]
 - [`writeups/j00ru/gpz-mms-exploit-part-4.md`](../writeups/j00ru/gpz-mms-exploit-part-4.md)
 - [`writeups/j00ru/gpz-mms-exploit-part-5.md`](../writeups/j00ru/gpz-mms-exploit-part-5.md)
 - [`writeups/j00ru/gpz-windows-exploitation-tricks-trapping.md`](../writeups/j00ru/gpz-windows-exploitation-tricks-trapping.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim posts under `posts/j00ru/`._
+
+- **Samsung MMS exploit part 5: ASLR bypass → RCE** (`Memory corruption`)
+  - post: https://x.com/j00ru/status/1293600839320428545
+  - local: `posts/j00ru/2020-08-12-1293600839320428545.md`, `writeups/j00ru/gpz-mms-exploit-part-3.md`, `writeups/j00ru/gpz-mms-exploit-part-4.md`
+- **gpz-mms-exploit-part-3** (`web`)
+  - post: https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-3-constructing-primitives.html
+  - local: `writeups/j00ru/gpz-mms-exploit-part-3.md`
+- **gpz-mms-exploit-part-4** (`web`)
+  - post: https://googleprojectzero.blogspot.com/2020/08/mms-exploit-part-4-completing-aslr-oracle.html
+  - local: `writeups/j00ru/gpz-mms-exploit-part-4.md`
+- **gpz-mms-exploit-part-5** (`web`)
+  - post: https://googleprojectzero.blogspot.com/2020/08/mms-exploit-part-5-defeating-aslr-getting-rce.html
+  - local: `writeups/j00ru/gpz-mms-exploit-part-5.md`
+- **gpz-windows-exploitation-tricks-trapping** (`web`)
+  - post: https://googleprojectzero.blogspot.com/2021/01/windows-exploitation-tricks-trapping.html
+  - local: `writeups/j00ru/gpz-windows-exploitation-tricks-trapping.md`

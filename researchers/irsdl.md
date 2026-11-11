@@ -27,3 +27,17 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim posts under `posts/irsdl/`._
+
+- **CVE-2025-30406 ViewState RCE — fixed validation key across Shodan targets** (`deserialization`)
+  - post: https://x.com/irsdl/status/1911393741832679646
+  - local: `posts/irsdl/ARCHIVE.md`, `data/x_posts.jsonl`
+- **CVE-2020-0618 SSRS deserialization RCE — empty viewstate parameter required** (`deserialization`)
+  - post: https://x.com/irsdl/status/1228280144143540224
+  - local: `posts/irsdl/ARCHIVE.md`, `data/x_posts.jsonl`
+- **SharePoint Workflow protection bypass → RCE (2018)** (`deserialization`)
+  - post: https://x.com/irsdl/status/1685783702440173568
+  - local: `posts/irsdl/ARCHIVE.md`, `data/x_posts.jsonl`

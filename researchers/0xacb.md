@@ -33,3 +33,20 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/0xacb/`]
 ## Writeups saved (full text)
 
 - [`writeups/0xacb/tedivm-ai-rcession.md`](../writeups/0xacb/tedivm-ai-rcession.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 4 finding(s). Full verbatim posts under `posts/0xacb/`._
+
+- **sshole (CVE-2026-123158) reproduction** (`Auth bypass`)
+  - post: https://x.com/0xacb/status/2118387414527832065
+  - local: `posts/0xacb/2026-11-05-2118387414527832065.md`, `writeups/0xacb/tedivm-ai-rcession.md`
+- **Nginx ACL vs backend parser inconsistencies — forbidden routes become accessible** (`path-normalization`)
+  - post: https://x.com/0xacb/status/1940325041834471716
+  - local: `posts/0xacb/ARCHIVE.md`, `data/x_posts.jsonl`
+- **Grafana CVE-2025-6023 bypass → XSS and account takeover (Hack.lu 0day challenge)** (`xss`)
+  - post: https://x.com/0xacb/status/1994045652653785262
+  - local: `posts/0xacb/ARCHIVE.md`, `data/x_posts.jsonl`
+- **tedivm-ai-rcession** (`auth-bypass`)
+  - post: https://blog.tedivm.com/rants/2026/10/the-ai-rcession-has-begun/
+  - local: `writeups/0xacb/tedivm-ai-rcession.md`

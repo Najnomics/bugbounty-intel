@@ -34,3 +34,23 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/0xriptid
 
 - [`writeups/0xriptide/balancers-bountiful-merkle-orchard-mirror.md`](../writeups/0xriptide/balancers-bountiful-merkle-orchard-mirror.md)
 - [`writeups/0xriptide/hackers-in-arbitrums-inbox.md`](../writeups/0xriptide/hackers-in-arbitrums-inbox.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim posts under `posts/0xriptide/`._
+
+- **First non-Web3 disclosure found with Grego AI** (`AI-assisted hunting`)
+  - post: https://x.com/0xriptide/status/2112664130129650011
+  - local: `posts/0xriptide/2026-10-20-2112664130129650011.md`, `writeups/0xriptide/balancers-bountiful-merkle-orchard-mirror.md`, `writeups/0xriptide/hackers-in-arbitrums-inbox.md`
+- **Deri Protocol: force-liquidate healthy position and steal trader PnL (Critical)** (`smart-contract`)
+  - post: https://x.com/0xriptide/status/1768977570203136280
+  - local: `posts/0xriptide/ARCHIVE.md`, `data/x_posts.jsonl`
+- **Arbitrum Nitro — steal all incoming ETH deposits on L1→L2 bridge (Critical)** (`cross-chain-bridge`)
+  - post: https://x.com/0xriptide/status/1572051111246467074
+  - local: `posts/0xriptide/ARCHIVE.md`, `data/x_posts.jsonl`
+- **balancers-bountiful-merkle-orchard-mirror** (`web`)
+  - post: https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/NWDf5uW1Ve7-TrcPKwmM86xp8ploMSCRGC58A-NSoFY
+  - local: `writeups/0xriptide/balancers-bountiful-merkle-orchard-mirror.md`
+- **Hackers in Arbitrum’s Inbox** (`cross-chain-bridge`)
+  - post: https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2
+  - local: `writeups/0xriptide/hackers-in-arbitrums-inbox.md`

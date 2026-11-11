@@ -34,3 +34,11 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/albinowa
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/albinowax/`._
+
+- **$300k for a trusted internal header** (`Header trust / auth bypass`)
+  - post: https://x.com/albinowax/status/2117935178278371560
+  - local: `posts/albinowax/2026-11-04-2117935178278371560.md`

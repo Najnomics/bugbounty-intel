@@ -25,3 +25,29 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 7 finding(s). Full verbatim posts under `posts/ChainLight_io/`._
+
+- **zkSync Era ZK-circuit soundness bug — malicious prover could forge proofs and drain bridge (~$1.9B flowed after discovery)** (`zk-circuits`)
+  - post: https://x.com/ChainLight_io/status/1741150225291763728
+  - local: `posts/ChainLight_io/ARCHIVE.md`, `data/x_posts.jsonl`
+- **Terra $5.3M loss — known IBC-hook timeout-callback reentrancy left unpatched** (`smart-contract`)
+  - post: https://x.com/ChainLight_io/status/1820462066521837678
+  - local: `posts/ChainLight_io/ARCHIVE.md`, `data/x_posts.jsonl`
+- **Orion $645K — token liability resettable, enabling over-withdrawal** (`business-logic`)
+  - post: https://x.com/ChainLight_io/status/1797661461239808189
+  - local: `posts/ChainLight_io/ARCHIVE.md`, `data/x_posts.jsonl`
+- **zkSync Era write-query PoC — false proof → token theft (public release)** (`zk-circuits`)
+  - post: https://x.com/ChainLight_io/status/1720471129272533382
+  - local: `posts/ChainLight_io/ARCHIVE.md`, `data/x_posts.jsonl`
+- **FEG $1M — Wormhole cross-chain message logic bug, allowlist self-registration** (`cross-chain-bridge`)
+  - post: https://x.com/ChainLight_io/status/1873733920992465211
+  - local: `posts/ChainLight_io/ARCHIVE.md`, `data/x_posts.jsonl`
+- **GemPad $1.9M — reentrancy in collectFee via fake-token LP lock callback** (`smart-contract`)
+  - post: https://x.com/ChainLight_io/status/1871203222662373610
+  - local: `posts/ChainLight_io/ARCHIVE.md`, `data/x_posts.jsonl`
+- **Stars Arena second attack — classic reentrancy drained TVL** (`smart-contract`)
+  - post: https://x.com/ChainLight_io/status/1711366013198237890
+  - local: `posts/ChainLight_io/ARCHIVE.md`, `data/x_posts.jsonl`

@@ -31,3 +31,18 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/xssdocto
 ## Writeups saved (full text)
 
 - [`writeups/xssdoctor/faav-17-trillion-microsoft-records.md`](../writeups/xssdoctor/faav-17-trillion-microsoft-records.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim posts under `posts/xssdoctor/`._
+
+- **iOS OAuth client accepts any protocol in redirect_uri** (`OAuth redirect_uri validation → token theft / ATO`)
+  - post: https://x.com/xssdoctor/status/2105723370125881675
+  - local: `posts/xssdoctor/2026-10-01-2105723370125881675.md`, `writeups/xssdoctor/faav-17-trillion-microsoft-records.md`
+  - bounty: undisclosed
+- **Deterministic prompt injection via client-side feedback loops** (`llm-prompt-injection`)
+  - post: https://x.com/xssdoctor/status/2047385925819203936
+  - local: `posts/xssdoctor/ARCHIVE.md`, `data/x_posts.jsonl`
+- **faav-17-trillion-microsoft-records** (`xss`)
+  - post: https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
+  - local: `writeups/xssdoctor/faav-17-trillion-microsoft-records.md`

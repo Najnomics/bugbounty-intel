@@ -27,3 +27,11 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/Rhynorater/`._
+
+- **8 high-impact IDORs + SSRF after bypassing SSL pinning, APK hash verify, root detection** (`mobile`)
+  - post: https://x.com/Rhynorater/status/1068037889186037770
+  - local: `posts/Rhynorater/ARCHIVE.md`, `data/x_posts.jsonl`

@@ -35,3 +35,21 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/0xiczc/`
 - [`writeups/0xiczc/certik-evm-cosmos-convergence-part-2.md`](../writeups/0xiczc/certik-evm-cosmos-convergence-part-2.md)
 - [`writeups/0xiczc/evmos-advisory-GHSA-3fp5-2xwh-fxm6.md`](../writeups/0xiczc/evmos-advisory-GHSA-3fp5-2xwh-fxm6.md)
 - [`writeups/0xiczc/polygon-zkevm-node-pr-2048.md`](../writeups/0xiczc/polygon-zkevm-node-pr-2048.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 4 finding(s). Full verbatim posts under `posts/0xiczc/`._
+
+- **Polygon zkEVM: reverted non-free claim txs mark deposit counts and block L1→L2 claims (Immunefi)** (`L2 node / bridge logic (DoS, asset-migration blocking)`)
+  - post: https://x.com/0xiczc/status/1662090451493740545
+  - local: `posts/0xiczc/2023-05-26-1662090451493740545.md`, `writeups/0xiczc/certik-evm-cosmos-convergence-part-2.md`, `writeups/0xiczc/evmos-advisory-GHSA-3fp5-2xwh-fxm6.md`
+  - bounty: undisclosed
+- **certik-evm-cosmos-convergence-part-2** (`smart-contract`)
+  - post: https://certik.com/resources/blog/evm-cosmos-convergence-research-from-security-base-part-2
+  - local: `writeups/0xiczc/certik-evm-cosmos-convergence-part-2.md`
+- **evmos-advisory-GHSA-3fp5-2xwh-fxm6** (`web`)
+  - post: https://github.com/evmos/evmos/security/advisories/GHSA-3fp5-2xwh-fxm6
+  - local: `writeups/0xiczc/evmos-advisory-GHSA-3fp5-2xwh-fxm6.md`
+- **polygon-zkevm-node-pr-2048** (`zk-circuits`)
+  - post: https://github.com/0xPolygonHermez/zkevm-node/pull/2048
+  - local: `writeups/0xiczc/polygon-zkevm-node-pr-2048.md`

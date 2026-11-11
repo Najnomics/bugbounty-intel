@@ -41,3 +41,14 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/ryotkak/
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim posts under `posts/ryotkak/`._
+
+- **Ruby on Rails arbitrary code execution (fixed 7.2.3.2 / 8.0.5.1 / 8.1.3.1)** (`RCE`)
+  - post: https://x.com/ryotkak/status/2082484740494684250
+  - local: `posts/ryotkak/2026-07-29-2082484740494684250.md`
+- **Claude Code supply-chain attack** (`Supply chain`)
+  - post: https://x.com/ryotkak/status/2061434879309664575
+  - local: `posts/ryotkak/2026-06-01-2061434879309664575.md`

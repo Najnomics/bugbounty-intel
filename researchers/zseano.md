@@ -27,3 +27,14 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - [`writeups/zseano/hackerone-report-3862641.md`](../writeups/zseano/hackerone-report-3862641.md)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim posts under `posts/zseano/`._
+
+- **SSRF via localtest.me; open-redirect filter bypasses; CSRF token bypass by switching to GET** (`ssrf`)
+  - post: https://x.com/zseano/status/1261995808553132032
+  - local: `posts/zseano/ARCHIVE.md`, `data/x_posts.jsonl`
+- **HackerOne report #3862641: IDOR allows user to access report details via reference.json endpoint** (`web`)
+  - post: https://hackerone.com/reports/3862641
+  - local: `writeups/zseano/hackerone-report-3862641.md`

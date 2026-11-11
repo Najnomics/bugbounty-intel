@@ -30,3 +30,16 @@
 On 3 Sep 2026 he wrote that he had received about **$300,000** in total from bug bounties and audit contests. Not itemized.
 
 On 3 Jun 2026 he posted angry process advice about submitting criticals to Cosmos SDK-based chains and Cosmos SDK itself (alleging reports were closed because he was a new HackerOne user). That is a complaint, not a technical writeup. [post](https://x.com/al_f4lc0n/status/2062082215962366225)
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim posts under `posts/al_f4lc0n/`._
+
+- **Injective MsgBatchUpdateOrders missing subaccount ownership check — any account drain (Critical, disputed $50K)** (`smart-contract`)
+  - post: https://x.com/al_f4lc0n/status/2033110168045568434
+  - local: `posts/al_f4lc0n/2026-03-15-2033110168045568434.md`
+  - bounty: $50,000 (disputed / unpaid per researcher; max program Critical $500K)
+- **injective-any-account-ordering-report** (`auth-bypass`)
+  - post: https://raw.githubusercontent.com/injective-wall-of-shame/bug-any-account-ordering/main/report.md
+  - local: `writeups/al_f4lc0n/injective-any-account-ordering-report.md`
+  - bounty: $500

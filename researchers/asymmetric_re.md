@@ -33,3 +33,11 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/asymmetr
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/asymmetric_re/`._
+
+- **Solana governance: any validator could silently erase its delegators' dissenting votes** (`Governance program logic`)
+  - post: https://x.com/asymmetric_re/status/2112236410455597403
+  - local: `posts/asymmetric_re/2026-10-19-2112236410455597403.md`

@@ -21,3 +21,12 @@ Do not expect writeups from this X account. Watch Immunefi profile updates and a
 - **Root cause / how found / PoC:** Not disclosed in any public post or advisory found in this pass. A bystander asked Immunefi for a sanitized writeup after remediation; none was located.
 - **Takeaways:** High Immunefi consistency is possible without a public X presence. For Dorothy's workflow this file is a reminder to check official leaderboards, not only Twitter-famous hunters.
 - **Sources:** [Immunefi post](https://x.com/immunefi/status/2112203877881991543) (19 Oct 2026 16:27 WAT); [Immunefi profile](https://immunefi.com/profile/IGUARDZ/); [LinkedIn cross-post](https://www.linkedin.com/posts/immunefi_security-researcher-iguardz-just-earned-20000-activity-7517969578736631808-yrpm). The LinkedIn text said "$33,292 across 5 reports" while the X post said 6 reports — record both, do not pick a number to "fix" it.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/iguardz/`._
+
+- **linkedin-immunefi-iguardz-20000** (`smart-contract`)
+  - post: https://www.linkedin.com/posts/immunefi_security-researcher-iguardz-just-earned-20000-activity-7517969578736631808-yrpm
+  - local: `writeups/iguardz/linkedin-immunefi-iguardz-20000.md`
+  - bounty: $20,000

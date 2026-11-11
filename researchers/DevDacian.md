@@ -26,3 +26,11 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+## Key findings (mined into harness)
+
+_Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim posts under `posts/DevDacian/`._
+
+- **Rounding-down precision loss → repeated 1-wei mint leaching free tokens** (`smart-contract`)
+  - post: https://x.com/DevDacian/status/1724351803846975607
+  - local: `posts/DevDacian/ARCHIVE.md`, `data/x_posts.jsonl`

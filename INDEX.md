@@ -947,3 +947,13 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@saxenism — 2026-11-07 — A bunch of bounties just got processed and now @bluethroat_labs is #4 on the 90 days Immunefi l](posts/saxenism/2026-11-07-2118914993630630057.md)
 - [@saxenism — 2026-11-08 — Oh and btw this is BESIDES the fuckton of bugs that we have found, validated, reported and help](posts/saxenism/2026-11-08-2119310072182653174.md)
 
+## Harness layer (for the no-X hunting agent)
+
+Machine-readable + check-spec material lives under [`harness/`](harness/):
+
+- [`harness/findings.jsonl`](harness/findings.jsonl) — **399** documented findings (web BB, smart-contract, ZK, TEE, Zcash/Ethereum/Solana advisories, RustSec crypto, Solidity compiler bugs).
+- [`harness/bug-classes/`](harness/bug-classes/) — 36 class check-specs.
+- [`harness/payloads/`](harness/payloads/) — verbatim payloads per class (16 files).
+- [`harness/tools.md`](harness/tools.md) — tools researchers actually mention and how they used them.
+- [`harness/recon-methodology.md`](harness/recon-methodology.md) — phased recon (Marius prompt pack backbone).
+
