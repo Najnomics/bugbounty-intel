@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 5
-- Conversations/threads: 5
-- Oldest post captured: 2023-07-15
+- Posts in this file: 7
+- Conversations/threads: 7
+- Oldest post captured: 2023-05-23
 - Newest post captured: 2023-11-23
 
 
@@ -156,3 +156,37 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F1ECa-sXwAAwfMl.png — no alt text provided by author
+
+
+---
+
+## 2023-06-15 · Post · Do auditors check if a merkle tree is subject to a second preimage attack ? If so, how do you do it 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @nullity00 — 2023-06-15 08:20 UTC (2023-06-15 09:20 WAT)
+
+- URL: https://x.com/nullity00/status/1669258686550745092
+- Metrics (at fetch): not returned
+
+> Do auditors check if a merkle tree is subject to a second preimage attack ? If so, how do you do it ?
+>
+> @solidity_lang
+
+
+---
+
+## 2023-05-23 · Post · Got into ZK Fellowship by @yAcademyDAO 💚
+
+
+Tags (automatic): ZK
+
+
+### Post — @nullity00 — 2023-05-23 19:25 UTC (2023-05-23 20:25 WAT)
+
+- URL: https://x.com/nullity00/status/1661091074285387776
+- Metrics (at fetch): not returned
+
+> Got into ZK Fellowship by @yAcademyDAO 💚

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 26
-- Conversations/threads: 21
-- Oldest post captured: 2024-08-06
+- Posts in this file: 27
+- Conversations/threads: 22
+- Oldest post captured: 2023-04-12
 - Newest post captured: 2026-05-14
 
 
@@ -404,3 +404,19 @@ Tags (automatic): AI-assisted hunting
 
 > . @notbobbytables and I arrive in Vegas for #blackhat later today! Looking forward to our talk about the new snailload attack!
 > Hoping to meet a lot of known and new faces 😅
+
+
+---
+
+## 2023-04-12 · Post · Starting into the final season of SideChannelSecurity we discuss Rowhammer: https://www.youtube.co
+
+
+### Post — @lavados — 2023-04-12 08:41 UTC (2023-04-12 09:41 WAT)
+
+- URL: https://x.com/lavados/status/1646071115993718785
+- Metrics (at fetch): not returned
+
+> Starting into the final season of #SideChannelSecurity we discuss #Rowhammer: https://www.youtube.com/watch?v=QfC6Jg5XtqU
+> We also prepared an exercise where you actually implement a #Rowhammer attack, and use #Rowhammer then to induce and exploit bit flips in a target application.
+
+**Links in post:** https://www.youtube.com/watch?v=QfC6Jg5XtqU

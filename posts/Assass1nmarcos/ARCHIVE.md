@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 53
-- Conversations/threads: 34
-- Oldest post captured: 2025-08-06
+- Posts in this file: 62
+- Conversations/threads: 43
+- Oldest post captured: 2025-06-05
 - Newest post captured: 2026-11-03
 
 
@@ -904,3 +904,182 @@ Tags (automatic): Platform: HackerOne
 > CC: @ThisIsDK999 @Naina___Malik 
 >
 > https://t.co/VEoNFDOTYU #TogetherWeHitHarder
+
+
+---
+
+## 2025-07-16 · Post · Just got a reward for a vulnerability submitted on @yeswehack -- Cross-site Scripting (XSS) - Reflec
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2025-07-16 12:18 UTC (2025-07-16 13:18 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1945457950845219048
+- Metrics (at fetch): not returned
+
+> Just got a reward for a vulnerability submitted on @yeswehack -- Cross-site Scripting (XSS) - Reflected (CWE-79). https://yeswehack.com/hunters/assassin #YesWeRHackers [pic.x.com/QGH56kGAPT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv-nshDXYAAgrup.jpg — no alt text provided by author
+
+**Links in post:** https://yeswehack.com/hunters/assassin
+
+
+---
+
+## 2025-07-09 · Post · Yay, I was awarded a $1,008 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-07-09 15:34 UTC (2025-07-09 16:34 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1942970601380983186
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,008 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2025-07-09 · Post · Sometimes you get good bounties even without “bug-bounty”
+
+
+### Post — @Assass1nmarcos — 2025-07-09 08:44 UTC (2025-07-09 09:44 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1942867531318120514
+- Metrics (at fetch): not returned
+
+> Sometimes you get good bounties even without “bug-bounty”
+>
+> Tip: Never skip GraphQL functionalities, In my cade without even logging in to web app, I was able to Dump PII (Limited disclosure) but still without any authentication. 
+>
+> CC: @ThisIsDK999 
+>
+> #BugBounty #bugbountytips [pic.x.com/3cZ9wLSDvY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvZzuFTWgAAc8mC.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-30 · Post · Yay, I was awarded a $5,750 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-06-30 17:25 UTC (2025-06-30 18:25 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1939737039618093461
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $5,750 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder 
+>
+> CC: @ThisIsDK999  @_venom26
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2025-06-27 · Post · Thats some sick exploit by @sudhanshur705  &amp; @S1r1u5_ 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-06-27 19:57 UTC (2025-06-27 20:57 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1938688049036075135
+- Metrics (at fetch): not returned
+
+> Thats some sick exploit by @sudhanshur705  &amp; @S1r1u5_ 
+>
+> Give the read to disclosed report on H1.
+>
+> https://hackerone.com/reports/2819573
+
+**Links in post:** https://hackerone.com/reports/2819573
+
+
+---
+
+## 2025-06-09 · Post · Yay, I was awarded a $1,500 bounty on @Hacker0x01!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-06-09 15:03 UTC (2025-06-09 16:03 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1932091088837152995
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,500 bounty on @Hacker0x01!
+>
+> CC: @ThisIsDK999  @_venom26  https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2025-06-06 · Post · Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-06-06 19:38 UTC (2025-06-06 20:38 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1931073219735200135
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2025-06-06 · Post · Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-06-06 05:26 UTC (2025-06-06 06:26 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1930858795653062966
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2025-06-05 · Post · Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-06-05 20:54 UTC (2025-06-05 21:54 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1930730041295708605
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder 
+>
+> CC:@ThisIsDK999
+
+**Links in post:** https://hackerone.com/assassin_marcos

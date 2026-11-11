@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 67
-- Conversations/threads: 67
-- Oldest post captured: 2023-07-13
+- Posts in this file: 79
+- Conversations/threads: 79
+- Oldest post captured: 2023-03-14
 - Newest post captured: 2026-10-20
 
 
@@ -1624,3 +1624,242 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F07T_4paUAEdov5.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-05 · Post · The ZK landscape is always changing so it can be hard to keep up. But, before you advance you need t
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @zellic_io — 2023-07-05 16:08 UTC (2023-07-05 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1676624011240034309
+- Metrics (at fetch): not returned
+
+> The ZK landscape is always changing so it can be hard to keep up. But, before you advance you need to know the basics.
+>
+> In our newest blog, we explore 3 applications on zkSNARKs:
+>
+> ✅ zkEVMs
+> ✅ zkBridges
+> ✅ ZK programming languages
+>
+> Let's take a look at some insights below:👇🧵
+
+
+---
+
+## 2023-06-13 · Post · ERC-4626 is a new standard for tokenized vaults in DeFi.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2023-06-13 15:01 UTC (2023-06-13 16:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1668634784770437123
+- Metrics (at fetch): not returned
+
+> ERC-4626 is a new standard for tokenized vaults in DeFi.
+>
+> In this thread, we’ll dive into how ERC-4626 aims to simplify integration, encourage robust implementations, and enable more secure cross-protocol interactions much like ERC-20 did for tokens 🧵👇 [pic.x.com/VDbrC2LXwG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fygufa3aQAEpnEr.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-30 · Post · Many ZK protocols are using relatively unfamiliar hash functions instead of the widely adopted SHA-2
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2023-05-30 22:26 UTC (2023-05-30 23:26 WAT)
+
+- URL: https://x.com/zellic_io/status/1663673205448675329
+- Metrics (at fetch): not returned
+
+> Many ZK protocols are using relatively unfamiliar hash functions instead of the widely adopted SHA-2 and SHA-3, but why?
+>
+> In this thread we explain the rationale and performance behind ZK-friendly hash functions.
+>
+> Read more👇🧵: [pic.x.com/odiVciQguh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxaN9lMacAAxQ2M.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-16 · Post · A billion dollar bug:
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2023-05-16 14:18 UTC (2023-05-16 15:18 WAT)
+
+- URL: https://x.com/zellic_io/status/1658476982982803464
+- Metrics (at fetch): not returned
+
+> A billion dollar bug:
+>
+> How Zellic found and fixed a critical security vulnerability affecting all Move L1's, including Aptos, Sui, Starcoin, and 0L
+>
+> This bug violated Move's core security properties and would've broken many smart contracts, e.g. flash loans!
+>
+> Read more: 👇🧵 [pic.x.com/i9rkOJzz6e]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwQYBmkakAIJgca.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-05 · Post · 🚨 Hack alert: $DEI was exploited on Arbitrum just a few hours ago.
+
+
+### Post — @zellic_io — 2023-05-05 21:53 UTC (2023-05-05 22:53 WAT)
+
+- URL: https://x.com/zellic_io/status/1654605171333423104
+- Metrics (at fetch): not returned
+
+> 🚨 Hack alert: $DEI was exploited on Arbitrum just a few hours ago.
+>
+> It was a simple, yet hidden bug that caused a loss of $5,000,000. How many other contracts have this same problem?
+>
+> Read below: 👇🧵 [pic.x.com/hEpaQKy1kG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvZWoiUacAE3myc.png — no alt text provided by author
+
+
+---
+
+## 2023-05-02 · Post · Though the Move language is designed to make it difficult to write bugs, it is still possible — and 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2023-05-02 22:50 UTC (2023-05-02 23:50 WAT)
+
+- URL: https://x.com/zellic_io/status/1653532552383303683
+- Metrics (at fetch): not returned
+
+> Though the Move language is designed to make it difficult to write bugs, it is still possible — and smart contract bugs almost always have the potential for adverse financial impact. After many @Aptos_Network audits, here are the most common bug types we've observed: 👇🧵 [pic.x.com/6OKZqwl4hh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvKHF7QaAAA83jt.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-26 · Post · Join us today for happy hour with drinks and live music! Hosted with our partners and friends from @
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @zellic_io — 2023-04-26 15:09 UTC (2023-04-26 16:09 WAT)
+
+- URL: https://x.com/zellic_io/status/1651242086794928140
+- Metrics (at fetch): not returned
+
+> Join us today for happy hour with drinks and live music! Hosted with our partners and friends from @HorizenLabs @immunefi and @Auros_global https://www.eventbrite.com/e/consensus-dappy-hour-on-horizen-tickets-615240961277
+
+**Links in post:** https://www.eventbrite.com/e/consensus-dappy-hour-on-horizen-tickets-615240961277
+
+
+---
+
+## 2023-04-05 · Post · Want to learn deep Web3 security knowledge written by the best hackers in the world?
+
+
+### Post — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690380876206082
+- Metrics (at fetch): not returned
+
+> Want to learn deep Web3 security knowledge written by the best hackers in the world?
+>
+> Here's a Twitter thread of interesting Twitter threads the Zellic team has written! 👇🧵
+
+
+---
+
+## 2023-04-03 · Post · We’re pleased to announce that our assessment of Cega’s Ethereum smart contracts is complete.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2023-04-03 17:14 UTC (2023-04-03 18:14 WAT)
+
+- URL: https://x.com/zellic_io/status/1642938709489205259
+- Metrics (at fetch): not returned
+
+> We’re pleased to announce that our assessment of Cega’s Ethereum smart contracts is complete.
+>
+> @cega_fi is building a decentralized exotic derivatives protocol. 
+>
+> This review found no critical vulnerabilities, and any issues raised were promptly resolved. [pic.x.com/w8PJZLafqJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fszj-BxWcAATBSu.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-18 · Post · Can ChatGPT audit smart contracts?
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1636889264003612674
+- Metrics (at fetch): not returned
+
+> Can ChatGPT audit smart contracts?
+>
+> Surprise: The answer is "No". Here's why:👇🧵 [pic.x.com/DPaLKaSAOb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrdiD-MXoAEj12z.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-17 · Post · As a follow up to reverse-engineering the Euler attack, we dug into the protocol's economic design t
+
+
+### Post — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1636765177243906048
+- Metrics (at fetch): not returned
+
+> As a follow up to reverse-engineering the Euler attack, we dug into the protocol's economic design that made this vulnerability possible: https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
+
+**Links in post:** https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
+
+
+---
+
+## 2023-03-14 · Post · Earlier today, Euler Finance was exploited for over USD 190M. One transaction in particular yielded 
+
+
+### Post — @zellic_io — 2023-03-14 07:09 UTC (2023-03-14 08:09 WAT)
+
+- URL: https://x.com/zellic_io/status/1635538727530536962
+- Metrics (at fetch): not returned
+
+> Earlier today, Euler Finance was exploited for over USD 190M. One transaction in particular yielded USD 110M.
+>
+> We've reverse engineered this transaction trace to recreate the attacker's extract exploit.

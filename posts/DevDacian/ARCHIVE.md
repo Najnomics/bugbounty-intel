@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 90
-- Conversations/threads: 86
+- Posts in this file: 121
+- Conversations/threads: 117
 - Oldest post captured: 2023-12-27
 - Newest post captured: 2026-11-09
 
@@ -1762,6 +1762,660 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-02-03 · Post · 30% post-hack reward being offered to criminal blackhats if they return 70% of their stolen illicit 
+
+
+### Post — @DevDacian — 2026-02-03 16:15 UTC (2026-02-03 17:15 WAT)
+
+- URL: https://x.com/DevDacian/status/2018720114863198600
+- Metrics (at fetch): not returned
+
+> 30% post-hack reward being offered to criminal blackhats if they return 70% of their stolen illicit gains!
+>
+> Hope it works out for this protocol &amp; users can be made whole, but sucks to see blackhats being treated much better than whitehats.
+>
+> Will this be fixed in 2026? https://twitter.com/GyroStable/status/2018666720890646571
+
+**Links in post:** https://twitter.com/GyroStable/status/2018666720890646571
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1339164810630586369 — 2026-02-03 12:43 UTC (2026-02-03 13:43 WAT)
+    
+    - URL: https://x.com/1339164810630586369/status/2018666720890646571
+    - Metrics (at fetch): not returned
+    
+    > ⚠️ Message to who executed the GYD bridge security incident
+    >
+    > To 0x7DD4075A6eAe9f18309F112364f0394C2DfA8102:
+    >
+    > This is Gyroscope governance. We propose a resolution to the GYD smart contract incident. You can return 200 ETH that you hold from this incident. Gyroscope is then in a position to consider the remaining over 100 ETH as a fixed whitehat settlement credit. This generous of a settlement is possible because it gives the protocol a chance of making users whole by canceling GYD’s system surplus.
+    >
+    > If you take this offer, Gyroscope will cease investigations and consider you as a whitehat who performed an emergency recovery of funds and made users whole.
+    >
+    > It’s a win for all. You will be taking a big everlasting risk if you take all of the funds, which isn’t even that much in total. With this offer, for the same order of magnitude of reward, your risk would be reduced massively and users would be made whole.
+    >
+    > If the funds are not returned, Gyroscope will alternatively offer the same deal to the public for anyone for information that leads to prosecution and full recovery of funds. Security researchers have already found significant leads that could aid in this direction. We believe it doesn’t have to go that way though, and we believe you can be a whitehat.
+    >
+    > To accept this settlement, return 200 ETH to the Gyroscope GovernanceManager contract 0x78EcF97572c3890eD02221A611014F30219f6219 on Ethereum by 18:30 UTC on February 5th.
+    >
+    > If you would prefer to communicate in private, you can contact security@gyro.finance.
+    
+
+
+---
+
+## 2026-02-03 · Post · Q) Differences between working at audit firm vs protocol?
+
+
+### Post — @DevDacian — 2026-02-03 11:43 UTC (2026-02-03 12:43 WAT)
+
+- URL: https://x.com/DevDacian/status/2018651631647334595
+- Metrics (at fetch): not returned
+
+> Q) Differences between working at audit firm vs protocol?
+>
+> 1⃣ Variety - at an audit firm you'll be auditing a wide range of different protocols, typically going from one audit to the next. There will be repeat clients that you audit incrementally but also many different new clients.
+>
+> Working at a protocol you'll get to know that one protocol really well; you'll get to contribute to its design from a security focus, contribute test suites, formal verification specs, perform internal reviews and handle bug bounty reports.
+>
+> Larger protocols will have multiple components but ultimately there will be less variety since you'll be focusing on one protocol.
+>
+> 2⃣ Pace - at a very busy & efficient audit firm the pace can be quite hectic continuously going from one audit to another with only occasional "research" downtime.
+>
+> Working at a protocol the pace may be more relaxed doing a mix of auditing, test/FV writing, architecture/defensive recommendations, bug bounty submission reviews etc for the same client.
+>
+> 3⃣ Team - some audit firms will frequently bring in specialist contractors or at least mix up the internal teams, creating unique team selections specialized to each audit. Many auditors really like this as it has them frequently working with other different top auditors so they learn new ways of thinking, iron sharpening iron!
+>
+> Working at a protocol you'll mostly be working with the same internal team; there will occasionally be some interaction with external auditors, bug bounty hunters etc but for the most part you'll be working with the same people and many of them may be non-auditors such as devs.
+>
+> 4⃣ Comp - protocols will typically want you to take a significant portion of your comp in tokens, potentially with long lock-up / vesting periods. You should carefully consider:
+>
+> * is the protocol actually profitable, being able to sustain itself from fees or generated income? If yes this is favorable, if not this is a warning sign
+>
+> * does the protocol's token price chart look "down & to the right" - price mostly just going down over time? If yes this is a warning sign as it indicates the protocol is likely not profitable and dependent on dumping its token
+>
+> * how old is the protocol, what does the vesting period look like for the founders, VCs, early hires etc? By the time your tokens vest will they have dumped their huge bags driving the price massively down?
+>
+> * what is the protocol's current fully diluted market cap, is it really inflated for its current revenues, transaction volume etc? Can it realistically grow by 10x or more from here? Many VC-backed protocols TGE at huge valuations while not being profitable and depend on dumping their tokens, sending price and market cap "down & to the right" over time
+>
+> * does the protocol have a buy-n-burn mechanism where it uses a significant percentage of the profits generated by the protocol (if it is profitable) to consistently buy-n-burn its tokens?
+>
+> * does the protocol have an infinite mint where the protocol can continually decide to issue new tokens?
+>
+> * if you were an investor thinking about buying the token, why should the protocol's token price go "up & to the right" especially when there are likely large vesting cliffs to be unlocked by founders, early VCs etc that will be massively dumping before your tokens unlock?
+>
+> This is something I'd be really careful about, if accepting tokens as a significant portion of comp I'd heavily discount the actual value you are likely to realize from the tokens. Protocols may try to sell you on a huge dollar figure comp "package" but you need to find out what % of that is in tokens then heavily discount that component, don't believe the big number unless it is straight cash.
+>
+> 5⃣ Job Security - the reality is many protocols in the second-half of 2025 laid off tons of staff including some security-related staff.
+>
+> Many protocols are not profitable, they are dependent on VC funding and endlessly dumping their tokens to say alive. Be careful accepting a role with such a protocol because you may be out in the next round of lay-offs. Many protocols will see you as a "cost-center"  which is generally a negative light to be seen in.
+>
+> Alternatively if a protocol is profitable, is able to sustain itself from generated income and has no need to continually dump its token, then that is a much safer bet.
+>
+> In contrast busy audit firms will see you as a "profit-center" if you are efficiently producing great security output with high utilization so you are unlikely to be fired if the firm is growing and able to secure sufficient work.
+>
+> Audit firms are typically profitable businesses or they wouldn't continue to exist so you'll generally have better job security joining a top firm as long as you perform well.
+
+
+---
+
+## 2026-02-02 · Post · Permanent DoS without upgradeability is generally Critical.
+
+
+### Post — @DevDacian — 2026-02-02 14:46 UTC (2026-02-02 15:46 WAT)
+
+- URL: https://x.com/DevDacian/status/2018335338004140264
+- Metrics (at fetch): not returned
+
+> Permanent DoS without upgradeability is generally Critical.
+>
+> But with upgradeability, they can just upgrade to fix it so the only impact is Temporary DoS. What is the fair severity in this case?
+
+
+---
+
+## 2026-01-30 · Post · Shout out @Slavcheww @blckhv @BengalCatBalu amazing work on Stellar/Soroban stablecoin audit finding
+
+
+### Post — @DevDacian — 2026-01-30 13:01 UTC (2026-01-30 14:01 WAT)
+
+- URL: https://x.com/DevDacian/status/2017221663973408963
+- Metrics (at fetch): not returned
+
+> Shout out @Slavcheww @blckhv @BengalCatBalu amazing work on Stellar/Soroban stablecoin audit finding:
+>
+> * 2 Crit
+> * 5 High
+> * 3 Med
+> * 6 Low
+>
+> Sharp findings in this report but has to remain private for now! Very happy seeing @Cyfrin deliver HUGE security value to our clients🚀 [pic.x.com/ecDebL2CmF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_6bghCbUAAu0M-.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-29 · Post · This January @Cyfrin has done more private audit volume than entire Q1 2025 - insane growth!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-01-29 11:02 UTC (2026-01-29 12:02 WAT)
+
+- URL: https://x.com/DevDacian/status/2016829324108947781
+- Metrics (at fetch): not returned
+
+> This January @Cyfrin has done more private audit volume than entire Q1 2025 - insane growth!
+>
+> EVM, Solana, Move, Formal Verification, TradFi/RWA, Cross-Chain, Off-Chain, AI&lt;-&gt;Blockchain integration - we're securing it all! 🚀
+
+
+---
+
+## 2026-01-19 · Post · One of the most exciting areas to be working in is the intersection between AI Agents &amp; Blockcha
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-01-19 10:18 UTC (2026-01-19 11:18 WAT)
+
+- URL: https://x.com/DevDacian/status/2013194461203878209
+- Metrics (at fetch): not returned
+
+> One of the most exciting areas to be working in is the intersection between AI Agents &amp; Blockchains.
+>
+> Blessed to have done a private audit around this last week, would love to do more!
+
+
+---
+
+## 2026-01-13 · Post · 💡AI's Transformative Impact on Web3 Security: Predictions from Late 2026 Onwards💡
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory corruption / native, AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-01-13 12:19 UTC (2026-01-13 13:19 WAT)
+
+- URL: https://x.com/DevDacian/status/2011050364758278282
+- Metrics (at fetch): not returned
+
+> 💡AI's Transformative Impact on Web3 Security: Predictions from Late 2026 Onwards💡
+>
+> From late 2026 onwards what was once a domain dominated by human auditors poring over code will evolve into a hybrid ecosystem where AI amplifies human expertise, reduces costs, and reshapes incentives.
+>
+> 1⃣ Lowering Total Cost of Securing a Protocol
+>
+> One of the most tangible impacts of AI will be a reduction in the overall cost of securing web3 protocols. Today in early 2026 we're already seeing specialist AI agents detecting a broad spectrum of vulnerabilities. Foundational models continue to improve in reasoning and skilled researchers are layering on custom heuristics, creating specialist AIs that can find valuable bugs "at scale".
+>
+> External audits which can easily run into six figures for a comprehensive review have long been a pain point for protocols. If an initial audit uncovers too many findings protocols often face costly re-audits, delaying launches and inflating budgets. By late 2026 specialist "PR Review" agents will be commonly used during development to catch bugs early - and some specialist AI products can catch an impressive range of bugs today; this will only improve by late 2026 & onwards.
+>
+> AI will also supercharge testing methodologies, making it much easier and cost-effective for developers to commonly deliver hardened codebases featuring invariant testing and formal verification.
+>
+> The net effect? Protocols will require fewer external audits, lowering the total cost of securing a protocol.
+>
+> 2⃣ The Evolving Role of Human Auditors
+>
+> Human auditors won't disappear; instead, their work will pivot toward higher-value activities. By late 2026, a growing number of auditors will shift from manual code reviews to developing and refining heuristics for specialist AIs.
+>
+> The trend of auditors consolidating into larger firms will continue; expectations for efficiency will increase across the board. The best auditors will leverage AI to become super-human, highly-efficient bug-finding machines.
+>
+> 3⃣ Capped Auditor Remuneration in Maturing Market
+>
+> The web3 security space is maturing rapidly. In the Wild West days of 2021-2024, sky-high fees and long waiting times were justified by rampant hacks and scarce expertise. But as many skilled auditors transition into creating heuristics for Specialist AI auditors vastly improving their vulnerability detection, clients will increasingly prioritize speed & value.
+>
+> Market share will gravitate toward quality brands that consistently deliver great security output at an efficient price point, who provide great value for money. Intermediate-Senior human auditors will still be able to make a good living but the extremely expensive ones may struggle to remain consistently booked, a trend which played out especially through the first half of 2025 and will accelerate in the future.
+>
+> New & Junior auditors will struggle as the bar to achieving professional success will be raised higher & there will be more competition than ever; they will be completely replaced by Specialist AIs who will consistently perform better providing more value than them.
+>
+> 4⃣ Shorter Exploit Windows and the Elimination of Common Bugs
+>
+> AI's double-edged sword will manifest in exploit dynamics. On the dark side, blackhat AIs will exploit vulnerabilities faster than ever. A protocol launching with bugs in late 2026 could be drained in hours, not days, as blackhat AIs trawl the blockchain in real-time.
+>
+> Conversely, mass adoption of specialist AIs by developers will nearly eliminate certain bug classes. Reentrancy, integer overflows, incorrect rounding direction and access control flaws could become relics, caught routinely during the development process and not even making it to external audits let alone to live deployment.
+>
+> 5⃣ Human-AI Symbiosis
+>
+> Here's the key: Specialist AIs won't stay effective without human input. Auditors and researchers must continually update them with the latest heuristics, drawing from private/competitive audits, post-mortems of hacks and other threat data. This creates a virtuous cycle—humans teach AIs, AIs protect protocols, and the ecosystem grows more resilient providing increasingly efficient security "at scale".
+>
+> In summary, from late 2026 onwards, AI won't replace web3 security professionals but will redefine the field as a collaborative powerhouse. Roles will evolve & markets will mature - for devs, auditors, and protocols: Embrace AI now, or risk being left behind.
+
+
+---
+
+## 2026-01-12 · Post · AMAZING work @0kage_eth @Al_Qa_qa auditing super interesting cross-chain bridging protocol, finding:
+
+
+### Post — @DevDacian — 2026-01-12 10:30 UTC (2026-01-12 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/2010660528268669286
+- Metrics (at fetch): not returned
+
+> AMAZING work @0kage_eth @Al_Qa_qa auditing super interesting cross-chain bridging protocol, finding:
+>
+> * 2 Crit
+> * 14 High
+> * 21 Med
+> * 8 Low
+>
+> This was the first audit of a very ambitious protocol, lots of room to find cool bugs &amp; @cyfrin's first Chainlink CRE audit! [pic.x.com/kptLII2cKo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G-cfLh9aAAA-0M0.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-09 · Post · The ~$29M bug was missed by a "commit-hook" AI Auditor which reviews every commit/PR, showing the co
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-01-09 10:30 UTC (2026-01-09 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/2009573489829908709
+- Metrics (at fetch): not returned
+
+> The ~$29M bug was missed by a "commit-hook" AI Auditor which reviews every commit/PR, showing the continued importance of skilled human security review.
+>
+> But it could have been caught by the AI, if a human had taught it the correct heuristic!
+>
+> 👨‍🔧↔️🤖 is the future🚀 https://twitter.com/DevDacian/status/2009212357323706448
+
+**Links in post:** https://twitter.com/DevDacian/status/2009212357323706448
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2026-01-08 10:35 UTC (2026-01-08 11:35 WAT)
+    
+    - URL: https://x.com/DevDacian/status/2009212357323706448
+    - Metrics (at fetch): not returned
+    
+    > Prevented a ~$29M drain today for a major "Tier 1" client, feels good 💪
+    
+
+
+---
+
+## 2026-01-08 · Post · Prevented a ~$29M drain today for a major "Tier 1" client, feels good 💪
+
+
+### Post — @DevDacian — 2026-01-08 10:35 UTC (2026-01-08 11:35 WAT)
+
+- URL: https://x.com/DevDacian/status/2009212357323706448
+- Metrics (at fetch): not returned
+
+> Prevented a ~$29M drain today for a major "Tier 1" client, feels good 💪
+
+
+---
+
+## 2025-12-31 · Post · 1) created & managed the Eagles program to scale our audits while cross-training our full-time team 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-12-31 11:53 UTC (2025-12-31 12:53 WAT)
+
+- URL: https://x.com/DevDacian/status/2006332855648199054
+- Metrics (at fetch): not returned
+
+> 1) created & managed the Eagles program to scale our audits while cross-training our full-time team with a range of specialists hand-picked for the needs of each audit
+>
+> 2) created measurement/tracking system to objectively measure auditor relative performance & track lots of other stats related to the audit business, also to incentivize both individual achievement & team collaboration
+>
+> 3) using 2, identified two hidden inefficiencies in the audit business processes, then designed and implemented strategies to minimize them
+>
+> 4) using 1 & 2, all our full-time team members significantly increased both their speed & thoroughness, which was objectively proven by the recorded stats in 2 for each quarter
+>
+> 5) successfully branched out into Solana/Rust, Move/Sui/Aptos, web2sec/off-chain & Formal Verification audits
+>
+> 6) did all of the quotes & team selection. Used AI to vibe-code a quoting model that makes it much easier to provide sharp & accurate quotes while also frequently providing value with the quotes in the form of QA/gas optimizations. Significantly improved conversion rates
+>
+> 7) consistent marketing on twitter posting almost every business day
+>
+> 8) embraced Human-AI symbiosis, became a cyborg & massively increased work output & efficiency
+>
+> 9) ran semi-regular knowledge share sessions where teammates share findings & how they find them - has been very cool to see teammates getting findings in their subsequent audits from things learned in the knowledge share
+>
+> 10) massively ramped up auditor utilization, scaling from initially 3-4 audits in parallel to frequently 5-6 with a max of 8 audits in parallel, frequently engaging 20-30 auditors (each auditor is only on one audit at a time)
+>
+> 11) grew private audit revenue by 50% compared to 2024 in a more challenging & competitive market environment
+>
+> 12) while doing all the above, I continued personally auditing with consistently high utilization & security output - I effectively worked 2-3 jobs all year, it would literally take 2-3 people to replace me
+>
+> All up it was an amazing year. The only place I fell short was I wanted to get to a max of 10 audits in parallel but only reached 8.
+>
+> @cyfrin is now positioned as an extremely strong, highly-efficient private audit business which provides both excellent brand value & high quality security output for the client spend - very proud of our team and everything we achieved this year!
+
+**Links in post:** https://twitter.com/pashov/status/2005274271355142563
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1546814146385268737 — 2025-12-28 13:46 UTC (2025-12-28 14:46 WAT)
+    
+    - URL: https://x.com/1546814146385268737/status/2005274271355142563
+    - Metrics (at fetch): not returned
+    
+    > 2025 is 99% complete.
+    >
+    > What did you achieve in web3 security this year? [pic.x.com/hDcv9Gu1mL]
+    
+    **Media:**
+    - media `3_2005274202425729025` (details not returned by the API)
+    
+
+
+---
+
+## 2025-12-25 · Post · Shoutout @giovannidisiena @blckhv @Slavcheww @BengalCatBalu GREAT result on this stock tokenization 
+
+
+### Post — @DevDacian — 2025-12-25 11:56 UTC (2025-12-25 12:56 WAT)
+
+- URL: https://x.com/DevDacian/status/2004159211547381983
+- Metrics (at fetch): not returned
+
+> Shoutout @giovannidisiena @blckhv @Slavcheww @BengalCatBalu GREAT result on this stock tokenization audit finding:
+>
+> * 1 Crit
+> * 7 High
+> * 9 Med
+> * 22 Low
+>
+> Project was keen to launch after their previous audit by another firm found only 1 Crit, but after our audit they wisely chose to delay & re-audit with another top firm.
+>
+> Respect to all devs taking security seriously🫡
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9AznT8b0AAP1od.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-24 · Post · Actual 2025 @cyfrin private audit stats:
+
+
+### Post — @DevDacian — 2025-12-24 10:30 UTC (2025-12-24 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/2003775158683673042
+- Metrics (at fetch): not returned
+
+> Actual 2025 @cyfrin private audit stats:
+>
+> * 120 private audits
+> * 230 Crit/High
+> * 380 Med
+> * 548 Low
+> * 725 Info
+> * 350 Gas
+>
+> We also did 6 audits with Formal Verification as an additional deliverable! https://twitter.com/cyfrin/status/2003455651792511179
+
+**Links in post:** https://twitter.com/cyfrin/status/2003455651792511179
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1617698796716150784 — 2025-12-23 13:20 UTC (2025-12-23 14:20 WAT)
+    
+    - URL: https://x.com/1617698796716150784/status/2003455651792511179
+    - Metrics (at fetch): not returned
+    
+    > @CyfrinUpdraft Our security work scaled dramatically.
+    >
+    > 75+ private audits completed in 2025: 
+    > • Secured $50B in TVL 
+    > • Discovered 1,000+ vulnerabilities 
+    > • 37 critical, 82 high, 164 medium-severity issues found 
+    > • Supported protocols like Metamask, Wormhole, Ethena, Uniswap, &amp; more.
+    
+
+
+---
+
+## 2025-12-22 · Post · 💡Audit Biz Scaling Tip💡
+
+
+### Post — @DevDacian — 2025-12-22 11:40 UTC (2025-12-22 12:40 WAT)
+
+- URL: https://x.com/DevDacian/status/2003068029413023778
+- Metrics (at fetch): not returned
+
+> 💡Audit Biz Scaling Tip💡
+>
+> Much easier selling to existing clients than to new clients.
+>
+> Great way to scale: provide additional "value-add" services to your existing client base.
+>
+> But be careful that the additional services don't cannibalize your core offering!
+
+
+---
+
+## 2025-12-18 · Post · Shout out @giovannidisiena @TamayoNft @JuliusRaynaldi great result on this tough audit finding:
+
+
+### Post — @DevDacian — 2025-12-18 10:51 UTC (2025-12-18 11:51 WAT)
+
+- URL: https://x.com/DevDacian/status/2001606215324106926
+- Metrics (at fetch): not returned
+
+> Shout out @giovannidisiena @TamayoNft @JuliusRaynaldi great result on this tough audit finding:
+>
+> * 3 High
+> * 6 Medium
+> * 21 Low
+>
+> Protocol was a trading competition platform integrating with GMVv2 perps, @JuliusRaynaldi did a great job with formal verification! [pic.x.com/i8G8iXNej5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G8ciBCSakAAjB-B.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-16 · Post · Shout out @0xRajkumar @jesjupyter @ctrusonchain @alexzoid AMAZING work on Solana DEX / Perps audit f
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-12-16 10:46 UTC (2025-12-16 11:46 WAT)
+
+- URL: https://x.com/DevDacian/status/2000880083431776346
+- Metrics (at fetch): not returned
+
+> Shout out @0xRajkumar @jesjupyter @ctrusonchain @alexzoid AMAZING work on Solana DEX / Perps audit finding:
+>
+> * 20 High
+> * 37 Med
+> * 18 Low
+>
+> Large ambitious protocol with DEX/CLOB/Perps/DAO functionality, lots of attack surface very fun audit!
+>
+> @Cyfrin expanding Solana audits🚀 [pic.x.com/kQ7WP5blaW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G8SNvQHb0AAhtJK.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-10 · Post · Useful heuristic from recent Balancer hack:
+
+
+### Post — @DevDacian — 2025-12-10 10:30 UTC (2025-12-10 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1998701725944070440
+- Metrics (at fetch): not returned
+
+> Useful heuristic from recent Balancer hack:
+> * function X has one rounding direction
+> * X is called by multiple parent functions
+> * is X's rounding direction correct for all parent callers?
+>
+> Easy, effective &amp; perfect for AIs to automatically identify incorrect rounding.
+
+
+---
+
+## 2025-12-09 · Post · Recent private audit client was thinking about launching fast after an audit by another firm produce
+
+
+### Post — @DevDacian — 2025-12-09 10:30 UTC (2025-12-09 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1998339342322876858
+- Metrics (at fetch): not returned
+
+> Recent private audit client was thinking about launching fast after an audit by another firm produced only 1 Crit.
+>
+> But they postponed the launch after our on-going audit produced 6 Highs and counting!
+>
+> The last audit before mainnet should feel like it wasn't worth it.
+
+
+---
+
+## 2025-12-08 · Post · Many recent complaints by high-profile SRs about unfairness of existing bug bounty models; the space
+
+
+### Post — @DevDacian — 2025-12-08 10:30 UTC (2025-12-08 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1997976950426517707
+- Metrics (at fetch): not returned
+
+> Many recent complaints by high-profile SRs about unfairness of existing bug bounty models; the space full of copycats seems ripe for disruption.
+>
+> Perhaps 2026 will be the year a new innovative fairer model appears with improved game theory to disrupt existing incumbents? 👀
+
+
+---
+
+## 2025-12-01 · Post · Running 8 audits in parallel, busier than ever, very strong private audit demand for @cyfrin🚀
+
+
+### Post — @DevDacian — 2025-12-01 10:30 UTC (2025-12-01 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1995440238076772352
+- Metrics (at fetch): not returned
+
+> Running 8 audits in parallel, busier than ever, very strong private audit demand for @cyfrin🚀
+>
+> Close to 10 parallel audits, seemed like a dream back in January but now becoming real💪
+>
+> Consistently working with 20-30 highly-skilled auditors &amp; many wonderful clients, blessed🫰
+
+
+---
+
+## 2025-11-28 · Post · Close to end of year but still laser-focused on executing for @Cyfrin &amp; our clients.
+
+
+### Post — @DevDacian — 2025-11-28 10:30 UTC (2025-11-28 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1994353071787229216
+- Metrics (at fetch): not returned
+
+> Close to end of year but still laser-focused on executing for @Cyfrin &amp; our clients.
+>
+> This year our private audit business achieved amazing growth which seemed like a dream back in January - but we got there by relentless focused execution &amp; excellence.
+>
+> Onwards &amp; upwards 🚀
+
+
+---
+
+## 2025-11-21 · Post · 💰Fast $1M+ in 2 Weeks💰
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-11-21 10:30 UTC (2025-11-21 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1991816361014964342
+- Metrics (at fetch): not returned
+
+> 💰Fast $1M+ in 2 Weeks💰
+>
+> Week 1 - Finish free @CyfrinUpdraft Smart Contract Security Auditor career track (35 hours)
+>
+> Week 2 - Find $1M+ bug bounty. Boom - now you're a millionaire!
+>
+> What's stopping you? Why aren't you a millionaire yet?
+>
+> https://updraft.cyfrin.io/career-tracks/smart-contract-security-auditor
+
+**Links in post:** https://updraft.cyfrin.io/career-tracks/smart-contract-security-auditor
+
+
+---
+
+## 2025-11-18 · Post · Shout out @0kage_eth @AliX__40 amazing work auditing decentralized stablecoin lending protocol, find
+
+
+### Post — @DevDacian — 2025-11-18 10:30 UTC (2025-11-18 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1990729194037211380
+- Metrics (at fetch): not returned
+
+> Shout out @0kage_eth @AliX__40 amazing work auditing decentralized stablecoin lending protocol, finding:
+>
+> * 5 Crit
+> * 5 High
+> * 6 Med
+> * 4 Low
+>
+> Both auditors performed extremely well generating AMAZING findings; @cyfrin delivering TONS of value to our private audit clients! [pic.x.com/pL51heYc3o]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6AvFK-bMAIw1qR.png — no alt text provided by author
+
+
+---
+
+## 2025-11-17 · Post · Two best practices I'm frequently recommending:
+
+
+### Post — @DevDacian — 2025-11-17 10:30 UTC (2025-11-17 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1990366805475422278
+- Metrics (at fetch): not returned
+
+> Two best practices I'm frequently recommending:
+>
+> 1⃣ minimum txn amounts &amp; position sizes - prevent blackhat txns using tiny wei amounts to exploit rounding
+>
+> 2⃣ always use explicit rounding together with dev comments logically explaining why each rounding direction is correct
+
+
+---
+
+## 2025-11-14 · Post · When auditors recommend enforcing minimum position sizes, even though it's just Info/QA devs should 
+
+
+### Post — @DevDacian — 2025-11-14 10:30 UTC (2025-11-14 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1989279645133402527
+- Metrics (at fetch): not returned
+
+> When auditors recommend enforcing minimum position sizes, even though it's just Info/QA devs should strongly consider implementing.
+>
+> Why? Because hackers will weaponize tiny wei positions to exploit rounding behavior &amp; wreck your protocol. [pic.x.com/WzYwNEYhlj]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5s3UEHacAAnR4b.png — no alt text provided by author
+
+
+---
+
 ## 2025-11-05 · Post · Easy money mostly gone in auditing.
 
 
@@ -1778,6 +2432,167 @@ Tags (automatic): AI-assisted hunting
 > Many skilled auditors w/great portfolios looking for work + tons of new firms =&gt; more competitive market than ever, hence recent ambulance chasing / grave dancing.
 >
 > If you haven't made it already, consider pivoting to AI or learn plumbing.
+
+
+---
+
+## 2025-11-03 · Post · Shout out @0xStalin @zarkk01 @0xInAllHonesty amazing work on this RWA Stablecoin Staking audit findi
+
+
+### Post — @DevDacian — 2025-11-03 10:30 UTC (2025-11-03 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1985293376112210302
+- Metrics (at fetch): not returned
+
+> Shout out @0xStalin @zarkk01 @0xInAllHonesty amazing work on this RWA Stablecoin Staking audit finding:
+>
+> * 6 Crit
+> * 2 High
+> * 3 Med
+> * 4 Low
+> * 4 Info, 2 Gas
+>
+> Short 4-day audit but @cyfrin delivered a ton of value - even small scopes must be professionally audited! [pic.x.com/X1TwvFIUJ8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4zo8lxbMAAX48y.png — no alt text provided by author
+
+
+---
+
+## 2025-10-28 · Post · Comparing all our audits by protocol type, our UniswapV4 Hooks audits have the highest avg Crit/High
+
+
+### Post — @DevDacian — 2025-10-28 11:01 UTC (2025-10-28 12:01 WAT)
+
+- URL: https://x.com/DevDacian/status/1983126982100693135
+- Metrics (at fetch): not returned
+
+> Comparing all our audits by protocol type, our UniswapV4 Hooks audits have the highest avg Crit/High rate per audit at 5.11!
+>
+> Curious why? Some possible reasons include new tech, large attack surface, easy for devs to make dangerous mistakes?
+>
+> Your thoughts? [pic.x.com/BBCszHzHIE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4V6gHkasAIH5GO.png — no alt text provided by author
+
+
+---
+
+## 2025-10-27 · Post · 💡AI Auditor $0 -> $1M+💡
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-10-27 08:44 UTC (2025-10-27 09:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1982730151684170149
+- Metrics (at fetch): not returned
+
+> 💡AI Auditor $0 -> $1M+💡
+>
+> 1⃣ Train AI Auditor on historical private audits / public contests or vuln aggregators like @SoloditOfficial
+>
+> 2⃣ Run benchmark on historical contests, your AI should perform amazingly well as it was trained on that exact data
+>
+> 3⃣ Compare to static analyzers or generic AI platforms such as GPT/Claude/etc who have not been trained on that exact data
+>
+> 4⃣ Use seemingly amazing performance results to raise 💰millions💰 from VCs
+>
+> 5⃣ Use VC connections to get commit-hook deals with other companies/protocols/etc in their network
+>
+> 6⃣ Release a token promising revenue share from AI Auditor profits, decentralized governance or any other narrative to suck in retail
+>
+> 7⃣ Give token allocations to key KOLs so they shill it to retail
+>
+> 8⃣ Time token release to bull market all-time high BTC/ETH prices
+>
+> 9⃣ Exit via TGE dumping your founder/team tokens on retail and/or via OTC deals
+>
+> You are now a successfully exited founder - congrats! Setup a VC shop and run the same game many times over with whatever the next hot things are.
+
+
+---
+
+## 2025-10-23 · Post · Very smart people take risks they shouldn't.
+
+
+### Post — @DevDacian — 2025-10-23 11:22 UTC (2025-10-23 12:22 WAT)
+
+- URL: https://x.com/DevDacian/status/1981320330678587786
+- Metrics (at fetch): not returned
+
+> Very smart people take risks they shouldn't.
+>
+> But web3 has a way of humbling even the smartest as there's always someone smarter than you &amp; sometimes that person is a blackhat.
+>
+> The last audit before mainnet should feel like it wasn't worth it.
+
+
+---
+
+## 2025-10-20 · Post · Shout out @MrPotatoMagic & myself great result on this challenging cross-chain TradFi auditing findi
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-10-20 08:58 UTC (2025-10-20 09:58 WAT)
+
+- URL: https://x.com/DevDacian/status/1980196955176489257
+- Metrics (at fetch): not returned
+
+> Shout out @MrPotatoMagic & myself great result on this challenging cross-chain TradFi auditing finding:
+>
+> * 4 Med
+> * 4 Low
+> * 15 Info & 9 Gas
+>
+> This audit was quite challenging because we were auditing a TradFi protocol's Solidity integration between Wormhole & Circle CCTPv2, at a time when:
+>
+> * Wormhole's official documentation and Solidity code examples were all related to CCTPv1 integration
+> * Wormhole's publicly available off-chain code only integrated with CCTPv1
+>
+> So based on the publicly available information at the time, it was extremely difficult to verify the correctness of the proposed implementation - we couldn't see how the Solidity Wormhole <-> CCTPv2 integration should look nor the off-chain code that would process the emitted events then call the CCTPv2 API.
+>
+> We overcame these limitations by:
+> * reaching out to our contacts to get some draft unpublished integration specs
+> * simplified the client's protocol while keeping the same core integration logic, wrote some Foundry scripts to deploy & test our simplified contracts then successfully performed live end-to-end integration testing
+>
+> In the end we were able to find some nice edge-case bugs delivering good value to the client under challenging circumstances!
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3sR_JXXYAA1B1X.png — no alt text provided by author
+
+
+---
+
+## 2025-10-17 · Post · Shout out @0xStalin @TamayoNft & myself great work finalizing audit for major TradFi protocol findin
+
+
+### Post — @DevDacian — 2025-10-17 10:35 UTC (2025-10-17 11:35 WAT)
+
+- URL: https://x.com/DevDacian/status/1979134130265924040
+- Metrics (at fetch): not returned
+
+> Shout out @0xStalin @TamayoNft & myself great work finalizing audit for major TradFi protocol finding:
+>
+> * 1 Crit
+> * 9 Med
+> * 23 Low
+> * 25 Info, 20 Gas
+>
+> Although the protocol was adding new functionality (where we found the 1 Crit), they asked us to re-audit the entire codebase which had already been through multiple prior audits.
+>
+> This protocol had many components that could interact together in many different ways; we were able to catch a lot of interesting edge-case bugs that had survived through multiple prior audits, helping to significantly strengthen the resilience of the protocol!
+>
+> Additionally we provided recommendations to improve the code quality, protocol defensiveness and reduce gas costs across major protocol functions. Very happy to be doing lots of TradFi audits with
+> @cyfrin 🚀
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3dL2ruXYAE6ua8.png — no alt text provided by author
 
 
 ---

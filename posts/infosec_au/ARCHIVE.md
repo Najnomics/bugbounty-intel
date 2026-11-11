@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 56
-- Conversations/threads: 46
+- Posts in this file: 62
+- Conversations/threads: 52
 - Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
@@ -881,6 +881,123 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 103, impression 14383, like 193, quote 0, reply 3, retweet 46
 
 > My favourite finding from @SLCyberSec's Security Research team in 2025 so far is a secondary context path traversal in Omnissa Workspace One UEM (CVE-2025-25231). Really interesting bug, and fun kill chain to RCE. https://t.co/UoIVm2DazJ
+
+
+---
+
+## 2025-07-22 · Post · For our third installment of Christmas in July, the @SLCyberSec Research Team is disclosing a critic
+
+
+Tags (automatic): Auth bypass, RCE, AI-assisted hunting
+
+
+### Post — @infosec_au — 2025-07-22 07:56 UTC (2025-07-22 08:56 WAT)
+
+- URL: https://x.com/infosec_au/status/1947566524749025427
+- Metrics (at fetch): not returned
+
+> For our third installment of Christmas in July, the @SLCyberSec Research Team is disclosing a critical authentication bypass vulnerability in ETQ Reliance that leads to RCE (CVE-2025-34143). Surprisingly, all you needed was a space to bypass auth. https://slcyber.io/assetnote-security-research-center/how-we-accidentally-discovered-a-remote-code-execution-vulnerability-in-etq-reliance/
+
+**Links in post:** https://slcyber.io/assetnote-security-research-center/how-we-accidentally-discovered-a-remote-code-execution-vulnerability-in-etq-reliance/
+
+
+---
+
+## 2025-07-21 · Post · I hope everyone got some rest after @DownUnderCTF this weekend. My colleague @hash_kitten wrote up a
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @infosec_au — 2025-07-21 03:10 UTC (2025-07-21 04:10 WAT)
+
+- URL: https://x.com/infosec_au/status/1947132154456211882
+- Metrics (at fetch): not returned
+
+> I hope everyone got some rest after @DownUnderCTF this weekend. My colleague @hash_kitten wrote up a blog post on a novel technique for SQL Injection in PDO's prepared statements, required to exploit the “legendary” challenge, which only got one solve: https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/
+
+**Links in post:** https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/
+
+
+---
+
+## 2025-07-16 · Post · This month's Christmas in July release from @SLCyberSec's Security Research team is a pre-authentica
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2025-07-16 09:43 UTC (2025-07-16 10:43 WAT)
+
+- URL: https://x.com/infosec_au/status/1945419077301702821
+- Metrics (at fetch): not returned
+
+> This month's Christmas in July release from @SLCyberSec's Security Research team is a pre-authentication RCE vulnerability in Sawtooth Lighthouse Studio (CVE-2025-34300). This software is prevalent and hidden in plain sight. Read more on our blog: https://slcyber.io/assetnote-security-research-center/rce-in-the-most-popular-survey-software-youve-never-heard-of/ [pic.x.com/nut9Zz9KSX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv-ERE2WcAAbv8n.jpg — no alt text provided by author
+
+**Links in post:** https://slcyber.io/assetnote-security-research-center/rce-in-the-most-popular-survey-software-youve-never-heard-of/
+
+
+---
+
+## 2025-07-08 · Post · Whenever I audit C code, I look for benign file operations such as File.Exists(), especially if the
+
+
+### Post — @infosec_au — 2025-07-08 07:58 UTC (2025-07-08 08:58 WAT)
+
+- URL: https://x.com/infosec_au/status/1942493598823637245
+- Metrics (at fetch): not returned
+
+> Whenever I audit C# code, I look for benign file operations such as File.Exists(), especially if there's a preceding Path.Combine(). Read about how we leaked NTLM hashes pre-authentication in DotNetNuke (CVE-2025-52488) due to a perfect storm of issues. https://slcyber.io/assetnote-security-research-center/abusing-windows-net-quirks-and-unicode-normalization-to-exploit-dnn-dotnetnuke/ [pic.x.com/RomNkZTegr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvUfdNJWsAAy9tU.jpg — no alt text provided by author
+
+**Links in post:** https://slcyber.io/assetnote-security-research-center/abusing-windows-net-quirks-and-unicode-normalization-to-exploit-dnn-dotnetnuke/
+
+
+---
+
+## 2025-07-01 · Post · To kick off our Christmas and July research posts, we explain how we achieved persistent XSS on ever
+
+
+Tags (automatic): XSS
+
+
+### Post — @infosec_au — 2025-07-01 07:36 UTC (2025-07-01 08:36 WAT)
+
+- URL: https://x.com/infosec_au/status/1939951347991732247
+- Metrics (at fetch): not returned
+
+> To kick off our Christmas and July research posts, we explain how we achieved persistent XSS on every Adobe Experience Manager Cloud instance, not twice, but thrice! This is now patched across all of AEM cloud, but what an interesting attack surface! https://slcyber.io/assetnote-security-research-center/how-we-got-persistent-xss-on-every-aem-cloud-site-thrice/ [pic.x.com/GG3k7wwUAg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GuwXVzgWoAEl0qR.jpg — no alt text provided by author
+
+**Links in post:** https://slcyber.io/assetnote-security-research-center/how-we-got-persistent-xss-on-every-aem-cloud-site-thrice/
+
+
+---
+
+## 2025-06-23 · Post · How do we turn bad SSRF (blind) into good SSRF (full response)? The @assetnote Security Research tea
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2025-06-23 11:01 UTC (2025-06-23 12:01 WAT)
+
+- URL: https://x.com/infosec_au/status/1937103837334323472
+- Metrics (at fetch): not returned
+
+> How do we turn bad SSRF (blind) into good SSRF (full response)? The @assetnote Security Research team at @SLCyberSec used a novel technique involving HTTP redirect loops and incremental status codes that leaked the full HTTP resp. It may work elsewhere! https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-involving-http-redirect-loops/ [pic.x.com/uibLujD0iU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GuH5p7iWcAAaYrs.jpg — no alt text provided by author
+
+**Links in post:** https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-involving-http-redirect-loops/
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 9
-- Conversations/threads: 9
-- Oldest post captured: 2021-11-27
+- Posts in this file: 19
+- Conversations/threads: 19
+- Oldest post captured: 2020-02-10
 - Newest post captured: 2022-11-29
 
 
@@ -206,3 +206,233 @@ Tags (automatic): ZK
     **Media:**
     - media `3_1463951967089307653` (details not returned by the API)
     
+
+
+---
+
+## 2021-08-25 · Post · Academics: "We've built this neat distributed cryptographic system. Yes, it relies on SGX for securi
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @str4d — 2021-08-25 03:10 UTC (2021-08-25 04:10 WAT)
+
+- URL: https://x.com/str4d/status/1430366911422943234
+- Metrics (at fetch): not returned
+
+> Academics: "We've built this neat distributed cryptographic system. Yes, it relies on SGX for security, but don't worry, it's not like anyone's going to deploy it in a setting where the cost to attack it is vastly outweighed by the value gained." https://twitter.com/zmanian/status/1430353635997745158
+
+**Links in post:** https://twitter.com/zmanian/status/1430353635997745158
+
+**Quoted post (full text):**
+
+    #### Quoted post — @7910872 — 2021-08-25 02:17 UTC (2021-08-25 03:17 WAT)
+    
+    - URL: https://x.com/7910872/status/1430353635997745158
+    - Metrics (at fetch): not returned
+    
+    > 1 billion dollars sitting in 4 SGX nodes. It’s wild https://twitter.com/Ahnor_Block/status/1430169738680971267
+    
+    **Links in post:** https://twitter.com/Ahnor_Block/status/1430169738680971267
+    
+    **Quoted post** 1430169738680971267: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-08-18 · Post · Really interesting thread about evidence of fraudulent data in a paper! See the tweet it quotes for 
+
+
+### Post — @str4d — 2021-08-18 14:04 UTC (2021-08-18 15:04 WAT)
+
+- URL: https://x.com/str4d/status/1427994751375233034
+- Metrics (at fetch): not returned
+
+> Really interesting thread about evidence of fraudulent data in a paper! See the tweet it quotes for the data analysis.
+>
+> Why did my cryptography brain find it particularly interesting? Limitations of tweet thread format notwithstanding, let's see.
+>
+> 1/🧵 https://t.co/M0e20wyLcF
+
+**Quoted post** 1427745195832102917: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-07-27 · Post · Seven weeks of Zcash development later:
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2021-07-27 15:45 UTC (2021-07-27 16:45 WAT)
+
+- URL: https://x.com/str4d/status/1420047758203965440
+- Metrics (at fetch): not returned
+
+> Seven weeks of #Zcash development later:
+>
+> *slaps roof of circuit* this bad boy can fit so many constraints in it [pic.x.com/1naxSzRvin] https://twitter.com/str4d/status/1402591758672871432
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E7UC_RaXIAALHla.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/str4d/status/1402591758672871432
+
+**Quoted post (full text):**
+
+    #### Quoted post — @str4d — 2021-06-09 11:41 UTC (2021-06-09 12:41 WAT)
+    
+    - URL: https://x.com/str4d/status/1402591758672871432
+    - Metrics (at fetch): not returned
+    
+    > Same energy [pic.x.com/7F1NF30JiP]
+    
+    **Media:**
+    - media `3_1402591380615094273` (details not returned by the API)
+    - media `3_1402591410981851140` (details not returned by the API)
+    
+
+
+---
+
+## 2021-06-27 · Post · What do we want:
+
+
+### Post — @str4d — 2021-06-27 23:36 UTC (2021-06-28 00:36 WAT)
+
+- URL: https://x.com/str4d/status/1409294553182519301
+- Metrics (at fetch): not returned
+
+> What do we want:
+> Translations for rage!
+>
+> When do we want them:
+> Well rage uses the Fluent format which only @mozillapontoon supports online but that failed with &gt;1 project per repo so now I'm hacking fluent.syntax into the translate lib so I can hack that into @WeblateOrg to deplo
+
+
+---
+
+## 2021-06-09 · Post · Same energy [pic.x.com/7F1NF30JiP]
+
+
+### Post — @str4d — 2021-06-09 11:41 UTC (2021-06-09 12:41 WAT)
+
+- URL: https://x.com/str4d/status/1402591758672871432
+- Metrics (at fetch): not returned
+
+> Same energy [pic.x.com/7F1NF30JiP]
+
+**Media:**
+- media `3_1402591380615094273` (details not returned by the API)
+- media `3_1402591410981851140` (details not returned by the API)
+
+
+---
+
+## 2020-10-09 · Post · I finally have stable internet, and it's been a while since I last streamed, so let's do something f
+
+
+### Post — @str4d — 2020-10-09 13:21 UTC (2020-10-09 14:21 WAT)
+
+- URL: https://x.com/str4d/status/1314556704713998336
+- Metrics (at fetch): not returned
+
+> I finally have stable internet, and it's been a while since I last streamed, so let's do something fun!
+>
+> Today at 19:00 UTC I'll be speedrunning OpenXR% on gfx-hal, trying to hack VR headset support into Rust graphics rendering!
+>
+> https://www.twitch.tv/str4d
+>
+> @rustlang @rust_gamedev
+
+**Links in post:** https://www.twitch.tv/str4d
+
+
+---
+
+## 2020-06-09 · Post · This is a textbook example of why modern type-safe cryptographic APIs help to eliminate vulnerabilit
+
+
+### Post — @str4d — 2020-06-09 12:59 UTC (2020-06-09 13:59 WAT)
+
+- URL: https://x.com/str4d/status/1270339807479099392
+- Metrics (at fetch): not returned
+
+> This is a textbook example of why modern type-safe cryptographic APIs help to eliminate vulnerabilities:
+>
+> "We are able to execute this attack due to an edge-case in GPGme (GnuPG Made Easy) when it tries to verify a normal signature as if it were a detached signature." https://twitter.com/justinsteven/status/1270113960021209088
+
+**Links in post:** https://twitter.com/justinsteven/status/1270113960021209088
+
+**Quoted post (full text):**
+
+    #### Quoted post — @9906082 — 2020-06-08 22:02 UTC (2020-06-08 23:02 WAT)
+    
+    - URL: https://x.com/9906082/status/1270113960021209088
+    - Metrics (at fetch): not returned
+    
+    > An S3 bucket takeover and PGP signature bypass in fwupd (CVE-2020-10759) put me between a whooole bunch of Linux computers and their firmware updates. https://github.com/justinsteven/advisories/blob/master/2020_fwupd_dangling_s3_bucket_and_CVE-2020-10759_signature_verification_bypass.md [pic.x.com/T5nikrfZGM]
+    
+    **Media:**
+    - media `3_1270113954954481665` (details not returned by the API)
+    
+    **Links in post:** https://github.com/justinsteven/advisories/blob/master/2020_fwupd_dangling_s3_bucket_and_CVE-2020-10759_signature_verification_bypass.md
+    
+
+
+---
+
+## 2020-03-11 · Post · Welp, looks like rural NZ is going to be my office for the next patch 😬 so let's try out a working-f
+
+
+### Post — @str4d — 2020-03-11 23:32 UTC (2020-03-12 00:32 WAT)
+
+- URL: https://x.com/str4d/status/1237884064675184641
+- Metrics (at fetch): not returned
+
+> Welp, looks like rural NZ is going to be my office for the next patch 😬 so let's try out a working-from-home live stream. Time to go bump our internet data cap!
+>
+> Friday 13th, 9pm UTC 👻 I'll do #Zcash work, PR review, and maybe also hack on rage for Fun Friday. https://twitter.com/str4d/status/1236499281332162561
+
+**Links in post:** https://twitter.com/str4d/status/1236499281332162561
+
+**Quoted post (full text):**
+
+    #### Quoted post — @str4d — 2020-03-08 03:49 UTC (2020-03-08 04:49 WAT)
+    
+    - URL: https://x.com/str4d/status/1236499281332162561
+    - Metrics (at fetch): not returned
+    
+    > @FiloSottile I'd enjoy it! I've been contemplating doing that myself once I'm in the new flat and have a "real" office again.
+    
+
+
+---
+
+## 2020-03-08 · Post · @FiloSottile I'd enjoy it! I've been contemplating doing that myself once I'm in the new flat and ha
+
+
+### Post — @str4d — 2020-03-08 03:49 UTC (2020-03-08 04:49 WAT)
+
+- URL: https://x.com/str4d/status/1236499281332162561
+- Metrics (at fetch): not returned
+
+> @FiloSottile I'd enjoy it! I've been contemplating doing that myself once I'm in the new flat and have a "real" office again.
+
+
+---
+
+## 2020-02-10 · Post · In "things I didn't expect I'd do", I broke @github today: after adding a scheduled Action to run @R
+
+
+### Post — @str4d — 2020-02-10 00:28 UTC (2020-02-10 01:28 WAT)
+
+- URL: https://x.com/str4d/status/1226664278184353793
+- Metrics (at fetch): not returned
+
+> In "things I didn't expect I'd do", I broke @github today: after adding a scheduled Action to run @RustSec's cargo-audit, https://github.com/str4d/rage/actions reliably returns a 500 server error 🙃
+
+**Links in post:** https://github.com/str4d/rage/actions

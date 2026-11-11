@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 65
-- Conversations/threads: 53
-- Oldest post captured: 2026-06-29
+- Posts in this file: 68
+- Conversations/threads: 56
+- Oldest post captured: 2026-02-04
 - Newest post captured: 2026-11-09
 
 
@@ -1019,3 +1019,57 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HMAaJl-W4AAXOTk.jpg — alt text: "onerror=eval,new name"
+
+
+---
+
+## 2026-03-30 · Post · Shazzer had an interesting bug. I write to a blob URL thats sandboxed but because its a blob URL it 
+
+
+### Post — @garethheyes — 2026-03-30 20:09 UTC (2026-03-30 21:09 WAT)
+
+- URL: https://x.com/garethheyes/status/2038710338376335542
+- Metrics (at fetch): not returned
+
+> Shazzer had an interesting bug. I write to a blob URL thats sandboxed but because its a blob URL it breaks relative URLs which means vectors with them would return false negatives. The fix was: use a base tag to change the domain. This fixes vectors like:
+>
+> https://shazzer.co.uk/vectors/69c81542145f0a28b7d202be
+
+**Links in post:** https://shazzer.co.uk/vectors/69c81542145f0a28b7d202be
+
+
+---
+
+## 2026-02-10 · Post · New geolocation-based XSS vectors just landed in our XSS cheat sheet. Huge thanks to @AmirMSafari fo
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-02-10 15:02 UTC (2026-02-10 16:02 WAT)
+
+- URL: https://x.com/garethheyes/status/2021238409101013295
+- Metrics (at fetch): not returned
+
+> New geolocation-based XSS vectors just landed in our XSS cheat sheet. Huge thanks to @AmirMSafari for the great submission. See the reply for the full details and the other vectors... [pic.x.com/dbRaazFnyJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAzgerRaAAI9w5Z.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-04 · Post · 🔥 Can you get RCE from an email address? Yep. In my NDC Manchester talk Splitting the email atom, I 
+
+
+Tags (automatic): Auth bypass, RCE
+
+
+### Post — @garethheyes — 2026-02-04 16:47 UTC (2026-02-04 17:47 WAT)
+
+- URL: https://x.com/garethheyes/status/2019090464616685882
+- Metrics (at fetch): not returned
+
+> 🔥 Can you get RCE from an email address? Yep. In my NDC Manchester talk Splitting the email atom, I break down how RFC weirdness leads to auth bypasses, parser confusion, and full remote code execution. Watch here 👇 https://www.youtube.com/watch?v=kVPetdjHF_M
+
+**Links in post:** https://www.youtube.com/watch?v=kVPetdjHF_M

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 80
-- Conversations/threads: 78
-- Oldest post captured: 2021-10-07
+- Posts in this file: 94
+- Conversations/threads: 92
+- Oldest post captured: 2020-04-16
 - Newest post captured: 2026-11-06
 
 
@@ -1546,3 +1546,353 @@ Tags (automatic): OAuth
 - photo: https://pbs.twimg.com/media/FBE-eVyWEAQ8cIL.jpg — no alt text provided by author
 
 **Links in post:** https://blog.ethereum.org/2021/10/05/altair-announcement/
+
+
+---
+
+## 2021-07-10 · Post · We just revised the paper adding result of the 67 bits attack. Took 1.89 days .
+
+
+### Post — @asanso — 2021-07-10 17:48 UTC (2021-07-10 18:48 WAT)
+
+- URL: https://x.com/asanso/status/1413918174681182210
+- Metrics (at fetch): not returned
+
+> We just revised the paper adding result of the 67 bits attack. Took 1.89 days .
+> attack succeeded!!! took 163869.15s 
+> lM = 2, eM = 169,   queries = 13
+> recovered PV part  took 53727.83s
+> recovered QV part  took 55706.49s
+> recovered PV+QV part  OK took 54427.47s
+> second part took 7.36s https://twitter.com/asanso/status/1398213283702771712
+
+**Links in post:** https://twitter.com/asanso/status/1398213283702771712
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2021-05-28 09:43 UTC (2021-05-28 10:43 WAT)
+    
+    - URL: https://x.com/asanso/status/1398213283702771712
+    - Metrics (at fetch): not returned
+    
+    > "Cryptanalysis of an oblivious PRF fromsupersingular isogenies" https://eprint.iacr.org/2021/706
+    > Joint work with @andreavbasso  @merzsp @kutasp  and Christophe Petit . Poc code in https://github.com/isogenists/isogeny-OPRF [pic.x.com/wWkbaVygmb] https://twitter.com/IACR_News/status/1398211460996599808
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/E2dzG3QXMAAxUpN.png — no alt text provided by author
+    
+    **Links in post:** https://eprint.iacr.org/2021/706, https://github.com/isogenists/isogeny-OPRF, https://twitter.com/IACR_News/status/1398211460996599808
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @305520180 — 2021-05-28 09:36 UTC (2021-05-28 10:36 WAT)
+        
+        - URL: https://x.com/305520180/status/1398211460996599808
+        - Metrics (at fetch): not returned
+        
+        > #ePrint Cryptanalysis of an oblivious PRF from supersingular isogenies: A Basso, P Kutas, S Merz, C Petit, A Sanso https://ia.cr/2021/706
+        
+        **Links in post:** https://ia.cr/2021/706
+        
+    
+
+
+---
+
+## 2021-06-02 · Post · Dear bug bounty hunters do not forget the Eth2 bug bounties program https://ethereum.org/en/eth2/get
+
+
+### Post — @asanso — 2021-06-02 11:33 UTC (2021-06-02 12:33 WAT)
+
+- URL: https://x.com/asanso/status/1400052882766979082
+- Metrics (at fetch): not returned
+
+> Dear bug bounty hunters do not forget the Eth2 bug bounties program https://ethereum.org/en/eth2/get-involved/bug-bounty Looking forward some of your great submissions...
+
+**Links in post:** https://ethereum.org/en/eth2/get-involved/bug-bounty
+
+
+---
+
+## 2021-05-28 · Post · "Cryptanalysis of an oblivious PRF fromsupersingular isogenies" https://eprint.iacr.org/2021/706
+
+
+### Post — @asanso — 2021-05-28 09:43 UTC (2021-05-28 10:43 WAT)
+
+- URL: https://x.com/asanso/status/1398213283702771712
+- Metrics (at fetch): not returned
+
+> "Cryptanalysis of an oblivious PRF fromsupersingular isogenies" https://eprint.iacr.org/2021/706
+> Joint work with @andreavbasso  @merzsp @kutasp  and Christophe Petit . Poc code in https://github.com/isogenists/isogeny-OPRF [pic.x.com/wWkbaVygmb] https://twitter.com/IACR_News/status/1398211460996599808
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E2dzG3QXMAAxUpN.png — no alt text provided by author
+
+**Links in post:** https://eprint.iacr.org/2021/706, https://github.com/isogenists/isogeny-OPRF, https://twitter.com/IACR_News/status/1398211460996599808
+
+**Quoted post (full text):**
+
+    #### Quoted post — @305520180 — 2021-05-28 09:36 UTC (2021-05-28 10:36 WAT)
+    
+    - URL: https://x.com/305520180/status/1398211460996599808
+    - Metrics (at fetch): not returned
+    
+    > #ePrint Cryptanalysis of an oblivious PRF from supersingular isogenies: A Basso, P Kutas, S Merz, C Petit, A Sanso https://ia.cr/2021/706
+    
+    **Links in post:** https://ia.cr/2021/706
+    
+
+
+---
+
+## 2021-05-21 · Post · I was a semi-retired bug hunter until I have rediscovered the joy of finding vulnerabilities with th
+
+
+### Post — @asanso — 2021-05-21 07:45 UTC (2021-05-21 08:45 WAT)
+
+- URL: https://x.com/asanso/status/1395646924091498496
+- Metrics (at fetch): not returned
+
+> I was a semi-retired bug hunter until I have rediscovered the joy of finding vulnerabilities with the Eth2 bug bounties https://ethereum.org/en/eth2/get-involved/bug-bounty/#leaderboard I'll blog about some of them in the following weeks. [pic.x.com/7dNqpEMKhn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E15VRqeWYAQMTGL.jpg — no alt text provided by author
+
+**Links in post:** https://ethereum.org/en/eth2/get-involved/bug-bounty/#leaderboard
+
+
+---
+
+## 2021-01-15 · Post · Just submitted a cryptographic bug report affecting a well known product after a loooooooong hiatus.
+
+
+### Post — @asanso — 2021-01-15 10:53 UTC (2021-01-15 11:53 WAT)
+
+- URL: https://x.com/asanso/status/1350033356386426880
+- Metrics (at fetch): not returned
+
+> Just submitted a cryptographic bug report affecting a well known product after a loooooooong hiatus. [pic.x.com/sISNVAn4x9]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2021-01-06 · Post · [pqc-forum] ROUND 3 OFFICIAL COMMENT: Classic McEliece decoding failure attack [pic.x.com/Ri4XeNFTcg
+
+
+### Post — @asanso — 2021-01-06 12:36 UTC (2021-01-06 13:36 WAT)
+
+- URL: https://x.com/asanso/status/1346797868280119297
+- Metrics (at fetch): not returned
+
+> [pqc-forum] ROUND 3 OFFICIAL COMMENT: Classic McEliece decoding failure attack [pic.x.com/Ri4XeNFTcg]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2021-01-04 · Post · Here is the official response by the Rainbow's team http://precision.moscito.org/by-publ/recent/resp
+
+
+### Post — @asanso — 2021-01-04 18:13 UTC (2021-01-04 19:13 WAT)
+
+- URL: https://x.com/asanso/status/1346157855603355650
+- Metrics (at fetch): not returned
+
+> Here is the official response by the Rainbow's team http://precision.moscito.org/by-publ/recent/response-ward.pdf 
+> tl;dr @WardBeullens 's attack is correct . Said that there is no need to make any change to Rainbow parameters (@WardBeullens  I hope I understood correctly...) https://twitter.com/WardBeullens/status/1320745485490135041
+
+**Links in post:** http://precision.moscito.org/by-publ/recent/response-ward.pdf, https://twitter.com/WardBeullens/status/1320745485490135041
+
+**Quoted post (full text):**
+
+    #### Quoted post — @619169001 — 2020-10-26 15:13 UTC (2020-10-26 16:13 WAT)
+    
+    - URL: https://x.com/619169001/status/1320745485490135041
+    - Metrics (at fetch): not returned
+    
+    > Wasn't there supposed to be a pot of gold here somewhere? #NISTPQC #Rainbow https://twitter.com/IACRePrint/status/1320659868907429888
+    
+    **Links in post:** https://twitter.com/IACRePrint/status/1320659868907429888
+    
+    **Quoted post** 1320659868907429888: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2020-11-22 · Post · OH wow and I just spotted I got my 3rd nomination for Best Cryptographic Attack (but I am afraid I a
+
+
+### Post — @asanso — 2020-11-22 10:03 UTC (2020-11-22 11:03 WAT)
+
+- URL: https://x.com/asanso/status/1330451917621878788
+- Metrics (at fetch): not returned
+
+> OH wow and I just spotted I got my 3rd nomination for Best Cryptographic Attack (but I am afraid I am not going to win also this time). Raccoon Attack it deserves way more  and it is probably going to win! cc @jurajsomorovsky @ic0nz1 :) [pic.x.com/F6kDdDvuU2] https://twitter.com/asanso/status/1330447714526654467
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ena2kWEWEAMOEzy.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ena2kWFXUAIJom2.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/asanso/status/1330447714526654467
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2020-11-22 09:47 UTC (2020-11-22 10:47 WAT)
+    
+    - URL: https://x.com/asanso/status/1330447714526654467
+    - Metrics (at fetch): not returned
+    
+    > Enjoy the @PwnieAwards  2020 nominations https://pwnies.com/nominations/active/  and thanks @PwnieAwards crew to deliver this also in this painful weird year!
+    
+    **Links in post:** https://pwnies.com/nominations/active/
+    
+
+
+---
+
+## 2020-11-22 · Post · Enjoy the @PwnieAwards  2020 nominations https://pwnies.com/nominations/active/  and thanks @PwnieAw
+
+
+### Post — @asanso — 2020-11-22 09:47 UTC (2020-11-22 10:47 WAT)
+
+- URL: https://x.com/asanso/status/1330447714526654467
+- Metrics (at fetch): not returned
+
+> Enjoy the @PwnieAwards  2020 nominations https://pwnies.com/nominations/active/  and thanks @PwnieAwards crew to deliver this also in this painful weird year!
+
+**Links in post:** https://pwnies.com/nominations/active/
+
+
+---
+
+## 2020-09-10 · Post · Reminder of the day
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @asanso — 2020-09-10 08:49 UTC (2020-09-10 09:49 WAT)
+
+- URL: https://x.com/asanso/status/1303978901945888768
+- Metrics (at fetch): not returned
+
+> Reminder of the day
+>
+> Ephemeral MUST mean ephemeral in all settings:
+>
+> 1. Finite Fields Diffie Hellman ==&gt; Small subgroup attack and sons (now includinf Raccoon)
+> 2. ECDH ==&gt; Invalid curve attack and related
+> 3. isogenies SIDH ==&gt; GPST attack https://eprint.iacr.org/2016/859 https://twitter.com/jurajsomorovsky/status/1303808790194774023
+
+**Links in post:** https://eprint.iacr.org/2016/859, https://twitter.com/jurajsomorovsky/status/1303808790194774023
+
+**Quoted post (full text):**
+
+    #### Quoted post — @197931263 — 2020-09-09 21:33 UTC (2020-09-09 22:33 WAT)
+    
+    - URL: https://x.com/197931263/status/1303808790194774023
+    - Metrics (at fetch): not returned
+    
+    > It was quite common a few years ago that servers repeated their DH shares in DHE settings. But it is not common nowadays. We should all probably blame @asanso who found this cool bug in OpenSSL and forced them to set the DH key renewal to be default case: http://blog.intothesymmetry.com/2016/01/openssl-key-recovery-attack-on-dh-small.html
+    
+    **Links in post:** http://blog.intothesymmetry.com/2016/01/openssl-key-recovery-attack-on-dh-small.html
+    
+
+
+---
+
+## 2020-09-09 · Post · OpenSSL just published details about Raccoon attack https://www.openssl.org/news/secadv/20200909.t
+
+
+### Post — @asanso — 2020-09-09 12:53 UTC (2020-09-09 13:53 WAT)
+
+- URL: https://x.com/asanso/status/1303677882691137543
+- Metrics (at fetch): not returned
+
+> #OpenSSL just published details about #Raccoon attack https://www.openssl.org/news/secadv/20200909.txt great work @ic0nz1 @lambdafu  @NimrodAviram  @jurajsomorovsky !!
+
+**Links in post:** https://www.openssl.org/news/secadv/20200909.txt
+
+
+---
+
+## 2020-09-03 · Post · Apparentemente anche Immuni e' vulnerabile al "Little Thumb" attack . Cleve! cc @raistolo @g_bonfig
+
+
+### Post — @asanso — 2020-09-03 11:39 UTC (2020-09-03 12:39 WAT)
+
+- URL: https://x.com/asanso/status/1301484951062433794
+- Metrics (at fetch): not returned
+
+> Apparentemente anche #Immuni e' vulnerabile al "Little Thumb" attack . Cleve! cc @raistolo @g_bonfiglio @Pinperepette @Ivan__Visconti https://twitter.com/cryptopathe/status/1301481069255036928
+
+**Links in post:** https://twitter.com/cryptopathe/status/1301481069255036928
+
+**Quoted post (full text):**
+
+    #### Quoted post — @163513930 — 2020-09-03 11:24 UTC (2020-09-03 12:24 WAT)
+    
+    - URL: https://x.com/163513930/status/1301481069255036928
+    - Metrics (at fetch): not returned
+    
+    > (Stylish) demonstration by Martin Vuagnoux and @SVaudenay  of the feasibility of the "Little Thumb" attack against #SwissCovid and other European contact tracing apps relying on the GAEN API. https://vimeo.com/453948863 #securityIsHard
+    
+    **Links in post:** https://vimeo.com/453948863
+    
+
+
+---
+
+## 2020-06-04 · Post · Should you have a bit of time and read Italian you can read about two (mild?) issues affecting the I
+
+
+### Post — @asanso — 2020-06-04 12:40 UTC (2020-06-04 13:40 WAT)
+
+- URL: https://x.com/asanso/status/1268522955757301762
+- Metrics (at fetch): not returned
+
+> Should you have a bit of time and read Italian you can read about two (mild?) issues affecting the Italian tracing app #Immuni 
+> 1. Replay attack https://github.com/immuni-app/immuni-documentation/issues/58
+> 2. deanonimization risks https://github.com/immuni-app/immuni-documentation/issues/82
+>
+> tl;dr both of them aren't slam dunk for the app. [pic.x.com/wewlJj9M2H]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+**Links in post:** https://github.com/immuni-app/immuni-documentation/issues/58, https://github.com/immuni-app/immuni-documentation/issues/82
+
+
+---
+
+## 2020-04-16 · Post · This is a really ckever cryptographic attack. Unkuckily the math used for the attack is way too much
+
+
+### Post — @asanso — 2020-04-16 18:53 UTC (2020-04-16 19:53 WAT)
+
+- URL: https://x.com/asanso/status/1250859900990873600
+- Metrics (at fetch): not returned
+
+> This is a really ckever cryptographic attack. Unkuckily the math used for the attack is way too much over my head for me to understand https://twitter.com/FiloSottile/status/1250824770742083584
+
+**Links in post:** https://twitter.com/FiloSottile/status/1250824770742083584
+
+**Quoted post (full text):**
+
+    #### Quoted post — @51049452 — 2020-04-16 16:33 UTC (2020-04-16 17:33 WAT)
+    
+    - URL: https://x.com/51049452/status/1250824770742083584
+    - Metrics (at fetch): not returned
+    
+    > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhh https://twitter.com/tqbf/status/1250823774179557381
+    
+    **Links in post:** https://twitter.com/tqbf/status/1250823774179557381
+    
+    **Quoted post** 1250823774179557381: not readable via the API (deleted, private, or withheld).
+    

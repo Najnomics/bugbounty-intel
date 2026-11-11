@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 70
-- Conversations/threads: 66
-- Oldest post captured: 2026-02-07
+- Posts in this file: 85
+- Conversations/threads: 81
+- Oldest post captured: 2025-10-20
 - Newest post captured: 2026-11-10
 
 
@@ -1580,3 +1580,329 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
     >
     > The industry did a terrible job of overpricing security audits and it has strongly held the space back.
     
+
+
+---
+
+## 2026-01-28 · Post · lmao anyone else get those juicy alchemix comp payouts
+
+
+### Post — @0xriptide — 2026-01-28 18:22 UTC (2026-01-28 19:22 WAT)
+
+- URL: https://x.com/0xriptide/status/2016577747737321843
+- Metrics (at fetch): not returned
+
+> lmao anyone else get those juicy alchemix comp payouts
+>
+> this was for a high
+>
+> critical netted $2.14 [pic.x.com/Ew0VA51cQP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_xSrpDW8AENFpA.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-26 · Post · I pledged 1,000,000 IMU to riptide on @immunefi
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @0xriptide — 2026-01-26 14:29 UTC (2026-01-26 15:29 WAT)
+
+- URL: https://x.com/0xriptide/status/2015794151325946024
+- Metrics (at fetch): not returned
+
+> I pledged 1,000,000 IMU to riptide on @immunefi
+>
+> #OnchainDefender https://immunefi.com/s/pp/?staker=0xf91d92176255B58bB631E36973e44Cae271570A5&sr=riptide
+
+**Links in post:** https://immunefi.com/s/pp/?staker=0xf91d92176255B58bB631E36973e44Cae271570A5&sr=riptide
+
+
+---
+
+## 2026-01-23 · Post · same guy??
+
+
+### Post — @0xriptide — 2026-01-23 10:54 UTC (2026-01-23 11:54 WAT)
+
+- URL: https://x.com/0xriptide/status/2014652847254626812
+- Metrics (at fetch): not returned
+
+> same guy??
+>
+> bounty hunting masterclass 4 sale [pic.x.com/beH70psENB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_V8BtBWYAEShT3.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-21 · Post · submit report on immunefi 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2026-01-21 09:33 UTC (2026-01-21 10:33 WAT)
+
+- URL: https://x.com/0xriptide/status/2013907756344901908
+- Metrics (at fetch): not returned
+
+> submit report on immunefi 
+>
+> closed out with invalid rationale
+>
+> must wait 48hrs to "request help"
+>
+> would rather just be able to respond so the project can at least see the response and choose to reply or not
+>
+> god save my soul i do not want 6 months of "mediation" for something that could be immediately resolved
+
+
+---
+
+## 2026-01-14 · Post · good morning bug hunters
+
+
+### Post — @0xriptide — 2026-01-14 10:55 UTC (2026-01-14 11:55 WAT)
+
+- URL: https://x.com/0xriptide/status/2011391763983028383
+- Metrics (at fetch): not returned
+
+> good morning bug hunters
+>
+> second coffee initiated ☕️
+
+
+---
+
+## 2026-01-09 · Post · Incentives misaligned 
+
+
+Tags (automatic): Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @0xriptide — 2026-01-09 09:32 UTC (2026-01-09 10:32 WAT)
+
+- URL: https://x.com/0xriptide/status/2009558785090543620
+- Metrics (at fetch): not returned
+
+> Incentives misaligned 
+>
+> @immunefi @cantina https://twitter.com/0xriptide/status/2009184203276234772
+
+**Links in post:** https://twitter.com/0xriptide/status/2009184203276234772
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xriptide — 2026-01-08 08:43 UTC (2026-01-08 09:43 WAT)
+    
+    - URL: https://x.com/0xriptide/status/2009184203276234772
+    - Metrics (at fetch): not returned
+    
+    > the delays in getting paid on bug bounty platforms is getting
+    
+
+
+---
+
+## 2026-01-08 · Post · the delays in getting paid on bug bounty platforms is getting
+
+
+### Post — @0xriptide — 2026-01-08 08:43 UTC (2026-01-08 09:43 WAT)
+
+- URL: https://x.com/0xriptide/status/2009184203276234772
+- Metrics (at fetch): not returned
+
+> the delays in getting paid on bug bounty platforms is getting
+
+
+---
+
+## 2025-12-08 · Post · if you were a bug triager and were caught in the immunefi layoffs
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2025-12-08 14:37 UTC (2025-12-08 15:37 WAT)
+
+- URL: https://x.com/0xriptide/status/1998039171131425177
+- Metrics (at fetch): not returned
+
+> if you were a bug triager and were caught in the immunefi layoffs
+>
+> DM
+
+
+---
+
+## 2025-11-14 · Post · I just received 3,754 Hunt Points on @immunefi! immunefitribe https://immunefi.com/s/hh?ht=057b5024
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2025-11-14 07:34 UTC (2025-11-14 08:34 WAT)
+
+- URL: https://x.com/0xriptide/status/1989235530417291636
+- Metrics (at fetch): not returned
+
+> I just received 3,754 Hunt Points on @immunefi! #immunefitribe https://immunefi.com/s/hh?ht=057b50245eb26bea&username=riptide 
+>
+> ahhh points came back
+
+**Links in post:** https://immunefi.com/s/hh?ht=057b50245eb26bea&username=riptide
+
+
+---
+
+## 2025-11-01 · Post · "just need to quickly check this bug"
+
+
+### Post — @0xriptide — 2025-11-01 09:18 UTC (2025-11-01 10:18 WAT)
+
+- URL: https://x.com/0xriptide/status/1984550580958691689
+- Metrics (at fetch): not returned
+
+> "just need to quickly check this bug"
+>
+> 10 hrs later ...
+>
+> 💀
+
+
+---
+
+## 2025-10-31 · Post · 10mg nicotine patch
+
+
+### Post — @0xriptide — 2025-10-31 09:45 UTC (2025-10-31 10:45 WAT)
+
+- URL: https://x.com/0xriptide/status/1984194976448983295
+- Metrics (at fetch): not returned
+
+> 10mg nicotine patch
+>
+> espresso
+>
+> 24 pullups
+>
+> bug hunt time!!
+
+
+---
+
+## 2025-10-26 · Post · don't let bounty programs and "scope" tell you where to look
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @0xriptide — 2025-10-26 07:43 UTC (2025-10-26 08:43 WAT)
+
+- URL: https://x.com/0xriptide/status/1982352362329997452
+- Metrics (at fetch): not returned
+
+> don't let bounty programs and "scope" tell you where to look
+>
+> sometimes bugs may be
+>
+> under the couch cushions of the blockchain
+>
+> look at that which is overlooked
+
+
+---
+
+## 2025-10-24 · Post · absolutely. big negotiation alpha that every bug hunter should implement in this pod https://twitter
+
+
+### Post — @0xriptide — 2025-10-24 06:04 UTC (2025-10-24 07:04 WAT)
+
+- URL: https://x.com/0xriptide/status/1981602664392597537
+- Metrics (at fetch): not returned
+
+> absolutely. big negotiation alpha that every bug hunter should implement in this pod https://twitter.com/0xTimofey/status/1981336556976713864
+
+**Links in post:** https://twitter.com/0xTimofey/status/1981336556976713864
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1628039684189200385 — 2025-10-23 12:27 UTC (2025-10-23 13:27 WAT)
+    
+    - URL: https://x.com/1628039684189200385/status/1981336556976713864
+    - Metrics (at fetch): not returned
+    
+    > Dropped some alpha knowledge (at least this is what @0xriptide told me) about Audit Competitions at Immunefi 
+    >
+    > Stay tuned! https://twitter.com/bountyhunt3rz/status/1981247400355221714
+    
+    **Links in post:** https://twitter.com/bountyhunt3rz/status/1981247400355221714
+    
+    **Quoted post** 1981247400355221714: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-10-23 · Post · 👀 let's find out ... check out the latest @bountyhunt3rz for a chat with @0xTimofey regarding compet
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2025-10-23 06:28 UTC (2025-10-23 07:28 WAT)
+
+- URL: https://x.com/0xriptide/status/1981246440866218005
+- Metrics (at fetch): not returned
+
+> 👀 let's find out ... check out the latest @bountyhunt3rz for a chat with @0xTimofey regarding competitions at @immunefi https://twitter.com/MitchellAmador/status/1981139035432374613
+
+**Links in post:** https://twitter.com/MitchellAmador/status/1981139035432374613
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1347307079187525637 — 2025-10-22 23:22 UTC (2025-10-23 00:22 WAT)
+    
+    - URL: https://x.com/1347307079187525637/status/1981139035432374613
+    - Metrics (at fetch): not returned
+    
+    > Has Immunefi become the king of the audit competition hill? Sure seems like it.
+    >
+    > The secret? Win-win-win deals, all around, for projects and SRs alike. Immunefi has the highest pot payout rates in the industry.
+    >
+    > Hunt and see for yourself! [pic.x.com/qqoMXzrgeH]
+    
+    **Media:**
+    - media `3_1981138556543246336` (details not returned by the API)
+    
+
+
+---
+
+## 2025-10-20 · Post · gooood morning bug hunters!
+
+
+### Post — @0xriptide — 2025-10-20 07:25 UTC (2025-10-20 08:25 WAT)
+
+- URL: https://x.com/0xriptide/status/1980173550825734538
+- Metrics (at fetch): not returned
+
+> gooood morning bug hunters!
+>
+> 100 pushups
+>
+> cappuccino
+>
+> 25 pullups
+>
+> most cant manage this schedule [pic.x.com/SzMeH0pQgf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3r9OLZXUAABqo7.jpg — no alt text provided by author

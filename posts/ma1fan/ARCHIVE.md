@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 63
-- Conversations/threads: 62
-- Oldest post captured: 2025-08-28
+- Posts in this file: 72
+- Conversations/threads: 71
+- Oldest post captured: 2025-03-23
 - Newest post captured: 2026-11-10
 
 
@@ -1438,3 +1438,210 @@ Tags (automatic): AI-assisted hunting
         **Quoted post** 1957923231848972433: not readable via the API (deleted, private, or withheld).
         
     
+
+
+---
+
+## 2025-07-14 · Post · Lol, every bug will be found. 😂,This is like saying the sun will rise from the west. As a security r
+
+
+### Post — @ma1fan — 2025-07-14 03:38 UTC (2025-07-14 04:38 WAT)
+
+- URL: https://x.com/ma1fan/status/1944602362443878896
+- Metrics (at fetch): not returned
+
+> Lol, every bug will be found. 😂,This is like saying the sun will rise from the west. As a security researcher, I don't think anyone can guarantee that all bugs can be found, not even the top security companies. I hope to see less hype and more solid security research. [pic.x.com/ULuuBnkpZv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvychszaQAAZ7gs.png — no alt text provided by author
+
+
+---
+
+## 2025-07-01 · Post · Hey, Here is a real bug bounty joker 😂😂😂 [pic.x.com/9PhJOmHOje]
+
+
+### Post — @ma1fan — 2025-07-01 13:20 UTC (2025-07-01 14:20 WAT)
+
+- URL: https://x.com/ma1fan/status/1940037774314545462
+- Metrics (at fetch): not returned
+
+> Hey, Here is a real bug bounty joker 😂😂😂 [pic.x.com/9PhJOmHOje]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Guxl04cXYAAwwiX.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-01 · Post · Hey, Here is a  bug bounty joker 😂😂😂 [pic.x.com/ZddXRBtE5T]
+
+
+### Post — @ma1fan — 2025-07-01 13:19 UTC (2025-07-01 14:19 WAT)
+
+- URL: https://x.com/ma1fan/status/1940037510698303780
+- Metrics (at fetch): not returned
+
+> Hey, Here is a  bug bounty joker 😂😂😂 [pic.x.com/ZddXRBtE5T]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Guxl04cXYAAwwiX.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-08 · Post · Here is my analysis of @ALEXLabBTC  exploit
+
+
+### Post — @ma1fan — 2025-06-08 07:34 UTC (2025-06-08 08:34 WAT)
+
+- URL: https://x.com/ma1fan/status/1931615831072313647
+- Metrics (at fetch): not returned
+
+> Here is my analysis of @ALEXLabBTC  exploit
+> [1]
+> Hacker Address
+> `SP2VCNXGRZCBTP8E9MQ6DJPFVXRBPWBN63FE06A1M`
+> First step the hacker deploy malicious token contract  `SP2VCNXGRZCBTP8E9MQ6DJPFVXRBPWBN63FE06A1M.ssl-labubu-672d3 ` which contain a fake transfer function.
+>  The hacker will use this fake  transfer  fucntion to transder all the valuts token including abtc, sbtc, alex, susdt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gs524fPaAAAKdzw.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-07 · Post · Anyone can give me a exploit Tx?  I want to analysis this hacking incident. @StackSocial @ALEXLabBTC
+
+
+### Post — @ma1fan — 2025-06-07 10:18 UTC (2025-06-07 11:18 WAT)
+
+- URL: https://x.com/ma1fan/status/1931294600582345184
+- Metrics (at fetch): not returned
+
+> Anyone can give me a exploit Tx?  I want to analysis this hacking incident. @StackSocial @ALEXLabBTC @Stacks https://twitter.com/ALEXLabBTC/status/1930939119913542029
+
+**Links in post:** https://twitter.com/ALEXLabBTC/status/1930939119913542029
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1403698101060313090 — 2025-06-06 10:45 UTC (2025-06-06 11:45 WAT)
+    
+    - URL: https://x.com/1403698101060313090/status/1930939119913542029
+    - Metrics (at fetch): not returned
+    
+    > 🚨 Security Incident Update from ALEX 🚨
+    >
+    > We are aware of the malicious activities at ALEX.
+    > Our team is working around the clock to contain the situation and mitigate further impact.
+    >
+    > We are coordinating closely with centralized exchanges (CEXs), as part of the stolen funds have been traced to those platforms.
+    > To ensure the safety of all users, we have temporarily suspended all platform activities.
+    >
+    > A full post-mortem will be shared as soon as possible.
+    > Thank you for your patience and support.
+    
+
+
+---
+
+## 2025-06-06 · Post · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=critica
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2025-06-06 06:34 UTC (2025-06-06 07:34 WAT)
+
+- URL: https://x.com/ma1fan/status/1930875931549127039
+- Metrics (at fetch): not returned
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=1&programType=invite-only
+
+**Links in post:** https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=1&programType=invite-only
+
+
+---
+
+## 2025-05-16 · Post · After review the patch code. I found the root cause of the bug:
+
+
+Tags (automatic): ZK
+
+
+### Post — @ma1fan — 2025-05-16 08:10 UTC (2025-05-16 09:10 WAT)
+
+- URL: https://x.com/ma1fan/status/1923289818529923306
+- Metrics (at fetch): not returned
+
+> After review the patch code. I found the root cause of the bug:
+> The verifier derives `c`. Then it takes a and b from the self.ipp_proof provided by the prover. 
+> A malicious prover, knowing how c would be generated (since it only depends on prior transcript items), 
+> could potentially choose a and b (and craft the rest of ipp_proof to be consistent with these chosen `a`,`b` and the IPP challenges u_i) such that an invalid overall proof still passes the c-batched verification. 
+>
+> The a and b values were not explicitly bound in the transcript before `c` was derived for the purpose of the final batched check.
+>
+> so this allows a malicious prover to know c (by simulating the transcript) and then choose a and b (and craft the rest of the InnerProductProof to be consistent) to satisfy the verification equation, even if the original range proof statement is false. This breaks the soundness of the range proof.
+> https://github.com/anza-xyz/agave/commit/77516250030aff19abc81a1e74d848b0b6d57df7
+
+**Links in post:** https://twitter.com/trentdotsol/status/1919946468959650027, https://github.com/anza-xyz/agave/commit/77516250030aff19abc81a1e74d848b0b6d57df7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1562178659766751237 — 2025-05-07 02:44 UTC (2025-05-07 03:44 WAT)
+    
+    - URL: https://x.com/1562178659766751237/status/1919946468959650027
+    - Metrics (at fetch): not returned
+    
+    > h/t @lonelysloth_sec for the original report!
+    >
+    > article revision incoming https://twitter.com/TimGarcia0/status/1918433035218985394
+    
+    **Links in post:** https://twitter.com/TimGarcia0/status/1918433035218985394
+    
+    **Quoted post** 1918433035218985394: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-05-06 · Post · 继续求简历～快来一起玩耍，一起赚bounty！ https://twitter.com/ma1fan/status/1903721798035791978
+
+
+### Post — @ma1fan — 2025-05-06 13:45 UTC (2025-05-06 14:45 WAT)
+
+- URL: https://x.com/ma1fan/status/1919750314527432806
+- Metrics (at fetch): not returned
+
+> 继续求简历～快来一起玩耍，一起赚bounty！ https://twitter.com/ma1fan/status/1903721798035791978
+
+**Links in post:** https://twitter.com/ma1fan/status/1903721798035791978
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2025-03-23 08:13 UTC (2025-03-23 09:13 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1903721798035791978
+    - Metrics (at fetch): not returned
+    
+    > 我们@exvulsec招人啦：
+    > 1.招一名合约审计实习生，有move，rust审计经验的最好
+    > 2.招一名应届渗透测试安全研究员
+    > 欢迎DM，只招中国人
+    
+
+
+---
+
+## 2025-03-23 · Post · 我们@exvulsec招人啦：
+
+
+### Post — @ma1fan — 2025-03-23 08:13 UTC (2025-03-23 09:13 WAT)
+
+- URL: https://x.com/ma1fan/status/1903721798035791978
+- Metrics (at fetch): not returned
+
+> 我们@exvulsec招人啦：
+> 1.招一名合约审计实习生，有move，rust审计经验的最好
+> 2.招一名应届渗透测试安全研究员
+> 欢迎DM，只招中国人

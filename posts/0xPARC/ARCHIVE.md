@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 28
-- Conversations/threads: 7
+- Posts in this file: 31
+- Conversations/threads: 10
 - Oldest post captured: 2022-05-26
 - Newest post captured: 2024-11-14
 
@@ -346,6 +346,93 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/F8EqyRoXYAALw7K.png — no alt text provided by author
 
 **Links in post:** https://0xparc.org/blog/zk-hunt
+
+
+---
+
+## 2023-05-06 · Post · Autonomous Worlds await.
+
+
+### Post — @0xPARC — 2023-05-06 14:45 UTC (2023-05-06 15:45 WAT)
+
+- URL: https://x.com/0xPARC/status/1654859865028800513
+- Metrics (at fetch): not returned
+
+> Autonomous Worlds await.
+> Come hack with us on the 18th of May. https://twitter.com/ETHGlobal/status/1654614688808804352
+
+**Links in post:** https://twitter.com/ETHGlobal/status/1654614688808804352
+
+**Quoted post (full text):**
+
+    #### Quoted post — @883476092832681984 — 2023-05-05 22:30 UTC (2023-05-05 23:30 WAT)
+    
+    - URL: https://x.com/883476092832681984/status/1654614688808804352
+    - Metrics (at fetch): not returned
+    
+    > This May we invite developers &amp; game builders around the world to join us on the quest for Autonomous Worlds with @0xPARC &amp; @latticexyz.
+    >
+    > Onchain games and tooling can unleash new possibilities yet to be fathomed. Are you ready? 
+    >
+    > 🌐 Apply to hack here: https://ethglobal.com/events/autonomous [pic.x.com/j8d8IivlPc]
+    
+    **Media:**
+    - media `13_1654614542859509761` (details not returned by the API)
+    
+    **Links in post:** https://ethglobal.com/events/autonomous
+    
+
+
+---
+
+## 2023-02-02 · Post · Applications close tomorrow - apply for the ZK Spring Residency in Ho Chi Minh City! https://twitter
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2023-02-02 17:27 UTC (2023-02-02 18:27 WAT)
+
+- URL: https://x.com/0xPARC/status/1621198706736234497
+- Metrics (at fetch): not returned
+
+> Applications close tomorrow - apply for the ZK Spring Residency in Ho Chi Minh City! https://twitter.com/0xPARC/status/1618301193327108097
+
+**Links in post:** https://twitter.com/0xPARC/status/1618301193327108097
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xPARC — 2023-01-25 17:34 UTC (2023-01-25 18:34 WAT)
+    
+    - URL: https://x.com/0xPARC/status/1618301193327108097
+    - Metrics (at fetch): not returned
+    
+    > 1/ [New Post] This Spring, 0xPARC and @ethereum Foundation @PrivacyScaling team will be co-hosting the ZK Spring Residency in Ho Chi Minh City, Vietnam, from March 13th to April 7th. Details (and link to apply by Fri Feb 3) below.
+    >
+    > https://0xparc.org/blog/2023-spring-residency
+    
+    **Links in post:** https://0xparc.org/blog/2023-spring-residency
+    
+
+
+---
+
+## 2023-01-25 · Post · 1/ [New Post] This Spring, 0xPARC and @ethereum Foundation @PrivacyScaling team will be co-hosting t
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2023-01-25 17:34 UTC (2023-01-25 18:34 WAT)
+
+- URL: https://x.com/0xPARC/status/1618301193327108097
+- Metrics (at fetch): not returned
+
+> 1/ [New Post] This Spring, 0xPARC and @ethereum Foundation @PrivacyScaling team will be co-hosting the ZK Spring Residency in Ho Chi Minh City, Vietnam, from March 13th to April 7th. Details (and link to apply by Fri Feb 3) below.
+>
+> https://0xparc.org/blog/2023-spring-residency
+
+**Links in post:** https://0xparc.org/blog/2023-spring-residency
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 67
-- Conversations/threads: 67
-- Oldest post captured: 2025-07-29
+- Posts in this file: 88
+- Conversations/threads: 88
+- Oldest post captured: 2025-05-22
 - Newest post captured: 2026-11-04
 
 
@@ -1960,3 +1960,646 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 10, impression 2458, like 36, quote 0, reply 2, retweet 0
 
 > Any bug bounty hunters attending Hacker Summer Camp and interested in the Vulnerability Vibes event? I have a couple tickets to give away. Depending on interest, may need to pick somebody at random. https://t.co/AvkDd2QtdO
+
+
+---
+
+## 2025-07-26 · Post · We're less than two weeks away from @defcon, and all the hard work and hundreds of hours poured into
+
+
+### Post — @infinitelogins — 2025-07-26 18:16 UTC (2025-07-26 19:16 WAT)
+
+- URL: https://x.com/infinitelogins/status/1949171966935748643
+- Metrics (at fetch): not returned
+
+> We're less than two weeks away from @defcon, and all the hard work and hundreds of hours poured into Bug Bounty Village this year are about to be on full display. Some highlights I'm incredibly proud of:
+>
+> 50+ Distinguished Speakers
+> 35+ Sessions
+> Our Inaugural CTF
+> Hacker Hangout Happy Hour
+> Insane Swag Designs (challenge coins, electronic badges, and more)
+>
+> Huge shout-out to @yaser_s, @thejillboss, and @H1LeoW for all your help preparing for @BugBountyDEFCON this year. @Arl_rose and I truly couldn’t have done it without you.
+>
+> If you're coming to DEF CON 33, please make sure to stop by the Bug Bounty Village. Can't wait to see you all there!
+
+
+---
+
+## 2025-07-21 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): XSS, SQL injection, SSRF, IDOR / BOLA, Account takeover, Auth bypass, RCE, Race condition, Memory corruption / native, AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd, Platform: HackenProof
+
+
+### Post — @infinitelogins — 2025-07-21 14:50 UTC (2025-07-21 15:50 WAT)
+
+- URL: https://x.com/infinitelogins/status/1947308269716087190
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #BugBounty
+>
+> DEF CON 33 Badge Pre-Orders, Bug Bounty Village Agenda, HackAICon Announcement, NullCon Scholarships, Caido Acquires Shift, and more
+>
+> Highlights below 👇
+>
+> Full issue → https://getdisclosed.com
+>
+> @BugBountyDEFCON opened pre-orders for a limited edition Bug Bounty Village badge in a green variant. Pre-order online and pick up in person at the con.
+>
+> @CaidoIO acquired the Shift plugin, now free for users with payload crafting and HTTPQL support.
+>
+> @BugBountyDEFCON released the full agenda for Bug Bounty Village at DEF CON 33.
+>
+> @0xacb announced HackAICon 2025 (Sept 25, Lisbon), featuring AI, hacking challenges, talks, and networking.
+>
+> @nullcon is offering Bug Bounty Hunter Scholarships for their Berlin event (Sep 4–5). Apply by July 28.
+>
+> @hackenproof announced a new bug bounty program for No Ones App with rewards up to $5k per bug.
+>
+> @xss0r shared 6 new @Microsoft domains now eligible for the Identity Bug Bounty program.
+>
+> @yeswehack posted highlights from the live hacking event at leHACK 2025 in a recap video.
+>
+> @Hacker0x01 updates their in-platform color scheme to align better with their updated marketing site.
+>
+> PwnFox (via @BApp_Store) adds multi-session, color-coded testing in Burp Suite.
+>
+> @garethheyes announces Custom Actions to automate request rewriting and payload generation in Burp Suite.
+>
+> @fneves97 updated JXScout Pro for improved JavaScript asset navigation in VSCode.
+>
+> @adce626 launched the Bug Bounty Recon Toolkit, which generates commands for 50+ tools based on target.
+>
+> @KN0X55 introduced XSS Gym to train on real XSS payloads and scenarios.
+>
+> @alicanact60 published a Chrome extension that restores the classic HackerOne UI.
+>
+> From .git disclosure to RCE. The author details a full bug bounty chain from initial .git leak to remote code execution, with techniques and tools.
+>
+> Leaking PII in Microsoft Guest Check-In. The author (Faav) shows how exposed PII and Burp Suite let them break into Microsoft buildings.
+>
+> HackerOne report by @MrMax4o4 documents how a banned user retained API access to a deleted account, exposing weak access controls.
+>
+> @deadoverflow_  explains a race condition in Reddit’s coin API inflating coins via parallel requests.
+>
+> @medusa_0xf highlights business logic vulnerabilities that led to real payouts.
+>
+> @NahamSec shows JWT mistakes that enabled account takeover and big bounties.
+>
+> @amrelsagaei interviews @NahamSec on mindset, overcoming plateaus, and building a personal brand.
+>
+> BePractical demonstrates exploiting zip slip on file uploads to overwrite paths.
+>
+> @Magn4_ shares the story of earning his first bounty with a $100 open redirect.
+>
+> @ctbbpodcast Ep.131 features live SSRF and IDOR hacks, leaked secrets, Google’s defense strategy, and community insights.
+>
+> @cyb3r_dan shares an SQLi detection guide covering manual and automated techniques with practice labs.
+>
+> @Bugcrowd explains how to find bugs on hardened targets by chaining smaller flaws.
+>
+> @coffinxp7 publishes an advanced bug bounty recon checklist.
+>
+> @intigriti introduces GitHub dorking with search patterns to uncover vulnerabilities.
+>
+> @clintgibler highlights Check Point’s discovery of malware using prompt injection.
+>
+> @40sp3l reminds hunters not to skip targets just because they have many reports — good bugs still remain.
+>
+> @0xacb points out that Chrome’s upcoming features could open up new bypass techniques.
+>
+> @njcve_  shares success at SteelCon where an authentication bypass bug was found.
+>
+> @intigriti explains 3 exploitable and highly rewarded vulnerabilities in detail.
+>
+> @Bugcrowd offers 5 actionable tips for beginners breaking into cybersecurity.
+>
+> Full links, tools, write-ups & more → https://getdisclosed.com
+>
+> The bug bounty world, curated.
+
+**Links in post:** https://getdisclosed.com
+
+
+---
+
+## 2025-07-21 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): XSS, SQL injection, SSRF, IDOR / BOLA, Account takeover, Auth bypass, RCE, Race condition, Memory corruption / native, AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd, Platform: HackenProof
+
+
+### Post — @infinitelogins — 2025-07-21 14:29 UTC (2025-07-21 15:29 WAT)
+
+- URL: https://x.com/infinitelogins/status/1947302951154016629
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #BugBounty
+>
+> DEF CON 33 Badge Pre-Orders, Bug Bounty Village Agenda, HackAICon Announcement, NullCon Scholarships, Caido Acquires Shift, and more
+>
+> Highlights below 👇
+>
+> Full issue → https://getdisclosed.com
+>
+> ------------
+> SPOTLIGHT
+>
+> @BugBountyDEFCON opened pre-orders for a limited edition Bug Bounty Village badge in a green variant. Pre-order online and pick up in person at the con.
+>
+> @CaidoIO acquired the Shift plugin, now free for users with payload crafting and HTTPQL support.
+>
+> @BugBountyDEFCON released the full agenda for Bug Bounty Village at DEF CON 33.
+>
+> @0xacb announced HackAICon 2025 (Sept 25, Lisbon), featuring AI, hacking challenges, talks, and networking.
+>
+> ------------
+> UPDATES
+>
+> @nullcon is offering Bug Bounty Hunter Scholarships for their Berlin event (Sep 4–5). Apply by July 28.
+>
+> @hackenproof announced a new bug bounty program for No Ones App with rewards up to $5k per bug.
+>
+> @xss0r shared 6 new @Microsoft domains now eligible for the Identity Bug Bounty program.
+>
+> @yeswehack posted highlights from the live hacking event at leHACK 2025 in a recap video.
+>
+> @Hacker0x01 updates their in-platform color scheme to align better with their updated marketing site.
+>
+> ------------
+> TOOLS
+>
+> PwnFox (via @BApp_Store) adds multi-session, color-coded testing in Burp Suite.
+>
+> @garethheyes announces Custom Actions to automate request rewriting and payload generation in Burp Suite.
+>
+> @fneves97 updated JXScout Pro for improved JavaScript asset navigation in VSCode.
+>
+> @adce626 launched the Bug Bounty Recon Toolkit, which generates commands for 50+ tools based on target.
+>
+> @KN0X55 introduced XSS Gym to train on real XSS payloads and scenarios.
+>
+> @alicanact60 published a Chrome extension that restores the classic HackerOne UI.
+>
+> ------------
+> WRITE UPS
+>
+> From .git disclosure to RCE. The author details a full bug bounty chain from initial .git leak to remote code execution, with techniques and tools.
+>
+> Leaking PII in Microsoft Guest Check-In. The author (Faav) shows how exposed PII and Burp Suite let them break into Microsoft buildings.
+>
+> HackerOne report by @MrMax4o4 documents how a banned user retained API access to a deleted account, exposing weak access controls.
+>
+> ------------
+> VIDEOS
+>
+> @deadoverflow_  explains a race condition in Reddit’s coin API inflating coins via parallel requests.
+>
+> @medusa_0xf highlights business logic vulnerabilities that led to real payouts.
+>
+> @NahamSec shows JWT mistakes that enabled account takeover and big bounties.
+>
+> @amrelsagaei interviews @NahamSec on mindset, overcoming plateaus, and building a personal brand.
+>
+> BePractical demonstrates exploiting zip slip on file uploads to overwrite paths.
+>
+> @Magn4_ shares the story of earning his first bounty with a $100 open redirect.
+>
+> @ctbbpodcast Ep.131 features live SSRF and IDOR hacks, leaked secrets, Google’s defense strategy, and community insights.
+>
+> ------------
+> LEARN
+>
+> @cyb3r_dan shares an SQLi detection guide covering manual and automated techniques with practice labs.
+>
+> @Bugcrowd explains how to find bugs on hardened targets by chaining smaller flaws.
+>
+> @coffinxp7 publishes an advanced bug bounty recon checklist.
+>
+> @intigriti introduces GitHub dorking with search patterns to uncover vulnerabilities.
+>
+> @clintgibler highlights Check Point’s discovery of malware using prompt injection.
+>
+> ------------
+> TWEETS
+>
+> @40sp3l reminds hunters not to skip targets just because they have many reports — good bugs still remain.
+>
+> @0xacb points out that Chrome’s upcoming features could open up new bypass techniques.
+>
+> @njcve_  shares success at SteelCon where an authentication bypass bug was found.
+>
+> @intigriti explains 3 exploitable and highly rewarded vulnerabilities in detail.
+>
+> @Bugcrowd offers 5 actionable tips for beginners breaking into cybersecurity.
+>
+> Full links, tools, write-ups & more → https://getdisclosed.com
+>
+> The bug bounty world, curated.
+
+**Links in post:** https://getdisclosed.com
+
+
+---
+
+## 2025-07-14 · Post · This week, Disclosed. BugBounty
+
+
+### Post — @infinitelogins — 2025-07-14 03:16 UTC (2025-07-14 04:16 WAT)
+
+- URL: https://x.com/infinitelogins/status/1944596854228066808
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #BugBounty
+>
+> McDonald’s chatbot vuln, Django ORM injection stealing crypto, refresh tools &amp; writeups from , Okta &amp; Swiss Post bounties, and more.
+>
+> Highlights below 🧵
+
+
+---
+
+## 2025-07-07 · Post · tbh I didn't even want to do a CTF. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-07-07 21:53 UTC (2025-07-07 22:53 WAT)
+
+- URL: https://x.com/infinitelogins/status/1942341272091648048
+- Metrics (at fetch): not returned
+
+> tbh I didn't even want to do a CTF. 
+>
+> I felt like they have been overdone and often were not realistic to what you would see in the real world
+>
+> That’s why, when @Arl_rose and I started thinking about how to make this one special, we knew we wanted it to feel like a real-life vulnerable web app. Something similar to @owasp_juiceshop.
+>
+> And while juiceshop is cool, we wanted to be able to give it the real "bug bounty" vibe. Writing reports, getting rewarded for good write-ups, dealing with triage, maybe even getting hit with a dupe.
+>
+> As we wrote out the idea and started talking to vendors, I honestly didn’t think we could actually pull it off with the time and budget we had.
+>
+> Then we met the folks at @CTFae and we could just tell immediately that they were the right partners for this project. 
+>
+> The scope quickly grew beyond just a single vulnerable web app to an interconnected ecosystem of vulnerable infrastructure: web, APIs, even LLM assets.
+>
+> If you like bug bounty and hate CTFs, this is for you.
+>
+> If you love CTFs but don’t know about bug bounty, this is also for you.
+>
+> Seriously I am so excited for this.
+>
+> Register at http://bbv.ctf.ae
+
+**Links in post:** https://twitter.com/BugBountyDEFCON/status/1941557975128101308, http://bbv.ctf.ae
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1773496655209533440 — 2025-07-05 18:01 UTC (2025-07-05 19:01 WAT)
+    
+    - URL: https://x.com/1773496655209533440/status/1941557975128101308
+    - Metrics (at fetch): not returned
+    
+    > Big news: For the first time, Bug Bounty Village is hosting a CTF competition with our partners @CTFae! Get ready for a unique challenge at DEF CON 33. Pre-register now at https://bbv.ctf.ae
+    >
+    > Here's what makes it different: 👇
+    >
+    > #BugBounty #CTF #DEFCON [pic.x.com/C96yq2W98Y]
+    
+    **Media:**
+    - media `3_1941557971567120384` (details not returned by the API)
+    
+    **Links in post:** https://bbv.ctf.ae
+    
+
+
+---
+
+## 2025-07-07 · Post · This week, Disclosed. BugBounty 
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2025-07-07 00:04 UTC (2025-07-07 01:04 WAT)
+
+- URL: https://x.com/infinitelogins/status/1942011815283793924
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #BugBounty 
+>
+> Career insights from @zhero___  &amp; @Geluchat, @BugBountyDEFCON badge &amp; CTF announcements, new tools, XXE &amp; XSS write-ups, and more.
+>
+> Highlights below 🧵
+
+
+---
+
+## 2025-07-06 · Post · Anybody vibe code their own bug bounty dashboard? Would love to see it.
+
+
+### Post — @infinitelogins — 2025-07-06 22:07 UTC (2025-07-06 23:07 WAT)
+
+- URL: https://x.com/infinitelogins/status/1941982290684620990
+- Metrics (at fetch): not returned
+
+> Anybody vibe code their own bug bounty dashboard? Would love to see it.
+
+
+---
+
+## 2025-07-05 · Post · Once you understand bug bounty, you never see the internet the same way.
+
+
+### Post — @infinitelogins — 2025-07-05 03:02 UTC (2025-07-05 04:02 WAT)
+
+- URL: https://x.com/infinitelogins/status/1941331916294324461
+- Metrics (at fetch): not returned
+
+> Once you understand bug bounty, you never see the internet the same way.
+
+
+---
+
+## 2025-07-03 · Post · A popular AI Slack integration leaked secrets through link unfurling.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-07-03 21:38 UTC (2025-07-03 22:38 WAT)
+
+- URL: https://x.com/infinitelogins/status/1940888021374849294
+- Metrics (at fetch): not returned
+
+> A popular AI Slack integration leaked secrets through link unfurling.
+>
+> A single prompt injection exfiltrated sensitive data to an attacker-controlled server with no click required.
+>
+> Here’s how @wunderwuzzi23 explained it.
+>
+> Breakdown in thread 🧵
+
+
+---
+
+## 2025-07-01 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): XSS, AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-07-01 05:38 UTC (2025-07-01 06:38 WAT)
+
+- URL: https://x.com/infinitelogins/status/1939921416813428996
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #BugBounty
+>
+> LLMs for recon and exploits, Xbow hits #1, DEF CON speaker drops, real-world XSS, and more.
+>
+> Highlights below 🧵
+
+
+---
+
+## 2025-06-28 · Post · Regex bugs in domain-restricted signups are still out there. 
+
+
+### Post — @infinitelogins — 2025-06-28 17:57 UTC (2025-06-28 18:57 WAT)
+
+- URL: https://x.com/infinitelogins/status/1939020437050270168
+- Metrics (at fetch): not returned
+
+> Regex bugs in domain-restricted signups are still out there. 
+>
+> @yppip wrote a blog post about a recent Cognito misconfig that let attackers sign up with fake emails like user@maliciousexample.com and get full access.
+>
+> Let’s break it down. 🧵 #BugBounty
+
+
+---
+
+## 2025-06-24 · Post · This week, Disclosed. bugbounty 
+
+
+Tags (automatic): XSS, SSRF
+
+
+### Post — @infinitelogins — 2025-06-24 14:40 UTC (2025-06-24 15:40 WAT)
+
+- URL: https://x.com/infinitelogins/status/1937521334608888201
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #bugbounty 
+>
+> SSRF redirect tricks, Spaceraccoon’s book, YesWeCaido, and tools for XSS, origin IPs, and bounty tracking.
+>
+> Highlights below 🧵
+
+
+---
+
+## 2025-06-19 · Post · This week’s Disclosed. BugBounty 
+
+
+Tags (automatic): XSS, RCE, Request smuggling / desync, AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-06-19 05:15 UTC (2025-06-19 06:15 WAT)
+
+- URL: https://x.com/infinitelogins/status/1935567096320291027
+- Metrics (at fetch): not returned
+
+> This week’s Disclosed. #BugBounty 
+>
+> Beta invite for Hai, the AI security agent for hackers. RCE on Netflix. New tools for XSS, subdomain monitoring, and HTTP smuggling. Plus: SSTI, IDN homographs, and more.
+>
+> Highlights below 🧵
+
+
+---
+
+## 2025-06-10 · Post · This week, Disclosed.
+
+
+Tags (automatic): SSRF, OAuth
+
+
+### Post — @infinitelogins — 2025-06-10 17:54 UTC (2025-06-10 18:54 WAT)
+
+- URL: https://x.com/infinitelogins/status/1932496572602036228
+- Metrics (at fetch): not returned
+
+> This week, Disclosed.
+>
+> Shubs wins the LHE with Salesforce. Free NahamCon talks. Tools for fuzzing, IP whitelisting, and JWT automation. Plus: SSRF in Lichess, OAuth deep dives, and the return of leHACK.
+>
+> Full issue + links → http://getdisclosed.com
+>
+> Highlights below 🧵
+
+**Links in post:** http://getdisclosed.com
+
+
+---
+
+## 2025-06-03 · Post · This week’s Disclosed.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infinitelogins — 2025-06-03 22:23 UTC (2025-06-03 23:23 WAT)
+
+- URL: https://x.com/infinitelogins/status/1930027710837076016
+- Metrics (at fetch): not returned
+
+> This week’s Disclosed.
+>
+> What 100 HackerOne reports reveal about modern bug hunting. Meta’s exclusive bounty. Prompt injection in GitLab. And More.
+>
+> Full issue + links → http://getdisclosed.com
+>
+> Highlights below 🧵
+
+**Links in post:** http://getdisclosed.com
+
+
+---
+
+## 2025-06-01 · Post · I vibe coded and shipped an app in three days. It got hacked. Twice. Here’s what I learned.  🧵
+
+
+### Post — @infinitelogins — 2025-06-01 03:30 UTC (2025-06-01 04:30 WAT)
+
+- URL: https://x.com/infinitelogins/status/1929017755136561402
+- Metrics (at fetch): not returned
+
+> I vibe coded and shipped an app in three days. It got hacked. Twice. Here’s what I learned.  🧵
+
+
+---
+
+## 2025-05-30 · Post · Shout out to @Kr1shna4garwal and @Goofygiraffe06 for responsibly disclosing a couple of misconfigura
+
+
+### Post — @infinitelogins — 2025-05-30 04:21 UTC (2025-05-30 05:21 WAT)
+
+- URL: https://x.com/infinitelogins/status/1928305852944916658
+- Metrics (at fetch): not returned
+
+> Shout out to @Kr1shna4garwal and @Goofygiraffe06 for responsibly disclosing a couple of misconfigurations I had on https://disclosedonline.com. 
+>
+> Making software for hackers is scary, but it's pretty awesome when the bug bounty community comes together to help each other.
+
+**Links in post:** https://disclosedonline.com
+
+
+---
+
+## 2025-05-30 · Post · I've been working on something behind the scenes for the past couple of months, and I'm finally read
+
+
+### Post — @infinitelogins — 2025-05-30 01:10 UTC (2025-05-30 02:10 WAT)
+
+- URL: https://x.com/infinitelogins/status/1928257570738950182
+- Metrics (at fetch): not returned
+
+> I've been working on something behind the scenes for the past couple of months, and I'm finally ready to share it.
+>
+> Disclosed. A curated newsletter about the bug bounty world.
+> https://getdisclosed.com/subscribe
+>
+> Over the last four weeks, I've been quietly publishing weekly issues and gathering feedback from a small group of readers. Thank you all for your insights as I iterated and found my voice.
+>
+> Now that it’s public, I’d love for you to check it out and share your thoughts. The goal is to deliver high-quality weekly updates for the bug bounty and security community, covering programs, events, write-ups, and learning resources.
+>
+> Huge thanks to @rez0__ , @gr3pme, @Arl_rose, @VailSec, @Akshanshjaiswl, @Shlibness, @0xroot, and many others for your early feedback and support. 
+>
+> #BugBounty #Disclosed #Infosec
+
+**Links in post:** https://getdisclosed.com/subscribe
+
+
+---
+
+## 2025-05-30 · Post · I've been working on something behind the scenes for the past couple of months, and I'm finally read
+
+
+### Post — @infinitelogins — 2025-05-30 01:04 UTC (2025-05-30 02:04 WAT)
+
+- URL: https://x.com/infinitelogins/status/1928256255203917899
+- Metrics (at fetch): not returned
+
+> I've been working on something behind the scenes for the past couple of months, and I'm finally ready to share it.
+>
+> Disclosed. A curated newsletter about the bug bounty world.
+> https://getdisclosed.com/subscribe
+>
+> Over the last four weeks, I've been quietly publishing weekly issues and gathering feedback from a small group of readers. Thank you all for your insights as I iterated and found my voice.
+>
+> Now that it’s public, I’d love for you to check it out and share your thoughts. The goal is to deliver high-quality weekly updates for the bug bounty and security community, covering programs, events, write-ups, and learning resources.
+>
+> Huge thanks to @rez0, @gr3pme, @arl_rose, @vailsec, @akshanshjaiswl, @shlibless, @0xroot, and many others for your early feedback and support. 
+>
+> #BugBounty #Disclosed #Infosec
+
+**Links in post:** https://getdisclosed.com/subscribe
+
+
+---
+
+## 2025-05-27 · Post · Built some automation and a directory for aggregating bug bounty profiles. Adding your profile isn't
+
+
+### Post — @infinitelogins — 2025-05-27 03:43 UTC (2025-05-27 04:43 WAT)
+
+- URL: https://x.com/infinitelogins/status/1927209079136539100
+- Metrics (at fetch): not returned
+
+> Built some automation and a directory for aggregating bug bounty profiles. Adding your profile isn't open to the public yet but let me know what you think. 
+> https://www.disclosedonline.com/directory
+>
+> #bugbounty
+
+**Links in post:** https://www.disclosedonline.com/directory
+
+
+---
+
+## 2025-05-22 · Post · This one from @Rhynorater is filled with gold. It's definitely worth watching if you want to learn a
+
+
+### Post — @infinitelogins — 2025-05-22 14:14 UTC (2025-05-22 15:14 WAT)
+
+- URL: https://x.com/infinitelogins/status/1925555936904847690
+- Metrics (at fetch): not returned
+
+> This one from @Rhynorater is filled with gold. It's definitely worth watching if you want to learn a new technique for ethical hacking or bug bounty! https://twitter.com/BugBountyDEFCON/status/1925554663216070736
+
+**Links in post:** https://twitter.com/BugBountyDEFCON/status/1925554663216070736
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1773496655209533440 — 2025-05-22 14:09 UTC (2025-05-22 15:09 WAT)
+    
+    - URL: https://x.com/1773496655209533440/status/1925554663216070736
+    - Metrics (at fetch): not returned
+    
+    > 11 critical bugs. $15K–$60K bounties. Deep dives into auth bypasses, SMS XSS, config injection, protocol abuse, and more.
+    >
+    > @Rhynorater walks through his highest-impact hacks across web, IoT, mobile, and desktop.
+    >
+    > Full talk → https://youtu.be/PXqlHAoF2wc
+    >
+    > #BugBounty #DEFCON #BBV [pic.x.com/4ISoOn6EdL]
+    
+    **Media:**
+    - media `3_1925554659051069440` (details not returned by the API)
+    
+    **Links in post:** https://youtu.be/PXqlHAoF2wc
+    

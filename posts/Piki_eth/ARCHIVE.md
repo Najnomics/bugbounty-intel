@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 54
-- Conversations/threads: 50
-- Oldest post captured: 2026-05-11
+- Posts in this file: 58
+- Conversations/threads: 54
+- Oldest post captured: 2026-03-14
 - Newest post captured: 2026-11-09
 
 
@@ -1100,3 +1100,141 @@ Tags (automatic): Platform: Immunefi
 > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=high&status=confirmed&gifId=0&programType=bug-bounty
 
 **Links in post:** https://immunefi.com/s/ss/?severity=high&status=confirmed&gifId=0&programType=bug-bounty
+
+
+---
+
+## 2026-04-05 · Post · What happened to Drift doesn’t look like a normal “found a bug in the contract and drained funds” ex
+
+
+### Post — @Piki_eth — 2026-04-05 12:43 UTC (2026-04-05 13:43 WAT)
+
+- URL: https://x.com/Piki_eth/status/2040772418428674470
+- Metrics (at fetch): bookmark 0, impression 188, like 1, quote 0, reply 0, retweet 0
+
+> What happened to Drift doesn’t look like a normal “found a bug in the contract and drained funds” exploit.
+>
+> This looks way more like a long-game infiltration attack.
+>
+> The scary part?
+>
+> The attack may have started months before the exploit.
+>
+> Not with code.
+> Not with wallets.
+> Not https://t.co/Nvosuogc2K
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1395713029593989121 — 2026-04-05 02:03 UTC (2026-04-05 03:03 WAT)
+    
+    - URL: https://x.com/1395713029593989121/status/2040611161121370409
+    - Metrics (at fetch): bookmark 2404, impression 6599262, like 3644, quote 1334, reply 643, retweet 672
+    
+    > https://t.co/qYBMCup9i6
+    
+
+
+---
+
+## 2026-03-26 · Post · 💰 Bounty secured. Another one.
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Piki_eth — 2026-03-26 13:14 UTC (2026-03-26 14:14 WAT)
+
+- URL: https://x.com/Piki_eth/status/2037156186274082980
+- Metrics (at fetch): bookmark 0, impression 182, like 7, quote 0, reply 0, retweet 0
+
+> 💰 Bounty secured. Another one.
+>
+> Reported a medium severity issue → payout received ✅
+>
+> Shoutout to @code4rena &amp; @0xIntuition for the smooth process 🤝 https://t.co/50xx9YLNAk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HEVusZyawAAq--Z.png — no alt text provided by author
+
+
+---
+
+## 2026-03-18 · Post · building on Monad 
+
+
+### Post — @Piki_eth — 2026-03-18 12:51 UTC (2026-03-18 13:51 WAT)
+
+- URL: https://x.com/Piki_eth/status/2034251307150893417
+- Metrics (at fetch): not returned
+
+> building on Monad 
+>
+> we just added full Indexing API support on Monad Scope   Mainnet + Testnet  @monad
+>
+> same endpoints  
+> same docs  
+> just add: ?network=testnet @monad_dev 
+>
+> here’s what you can do 🧵 [pic.x.com/H3QZEv1PfE] https://twitter.com/Piki_eth/status/2032756598536540297
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HDsciktaoAAL3G3.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Piki_eth/status/2032756598536540297
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Piki_eth — 2026-03-14 09:51 UTC (2026-03-14 10:51 WAT)
+    
+    - URL: https://x.com/Piki_eth/status/2032756598536540297
+    - Metrics (at fetch): not returned
+    
+    > just shipped something i've been building for a while
+    >
+    > 💜Monad Scope — a dashboard for the Monad ecosystem from piki-nodes
+    >
+    > validator analytics
+    > staking
+    > network monitoring
+    > free APIs for builders
+    > https://monad-scope-piki-nodes.com/
+    >
+    > here’s what it does 🧵
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+    **Links in post:** https://monad-scope-piki-nodes.com/
+    
+
+
+---
+
+## 2026-03-14 · Post · just shipped something i've been building for a while
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Piki_eth — 2026-03-14 09:51 UTC (2026-03-14 10:51 WAT)
+
+- URL: https://x.com/Piki_eth/status/2032756598536540297
+- Metrics (at fetch): not returned
+
+> just shipped something i've been building for a while
+>
+> 💜Monad Scope — a dashboard for the Monad ecosystem from piki-nodes
+>
+> validator analytics
+> staking
+> network monitoring
+> free APIs for builders
+> https://monad-scope-piki-nodes.com/
+>
+> here’s what it does 🧵
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://monad-scope-piki-nodes.com/

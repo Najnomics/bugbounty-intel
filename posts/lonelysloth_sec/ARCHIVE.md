@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 77
-- Conversations/threads: 77
+- Posts in this file: 87
+- Conversations/threads: 87
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -1721,6 +1721,21 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-04-10 · Post · You can think of coding, ML, and prompting as a scale of fixed capital costs and variable per-execut
+
+
+### Post — @lonelysloth_sec — 2026-04-10 18:36 UTC (2026-04-10 19:36 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2042673115017416787
+- Metrics (at fetch): bookmark 4, impression 1198, like 16, quote 0, reply 2, retweet 0
+
+> You can think of coding, ML, and prompting as a scale of fixed capital costs and variable per-execution costs. The options:
+>
+> 1 - You can define exactly how to solve a problem and code it. You spend a lot of capital and get near 100% reliability to do it in microseconds for
+
+
+---
+
 ## 2026-04-10 · Post · @0xb4dg0d @immunefi Found critical = insta-follow. Congrats!
 
 
@@ -1733,6 +1748,279 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 1, impression 449, like 11, quote 0, reply 0, retweet 0
 
 > @0xb4dg0d @immunefi Found critical = insta-follow. Congrats!
+
+
+---
+
+## 2026-04-10 · Post · I have to tell you guys something quite serious.
+
+
+### Post — @lonelysloth_sec — 2026-04-10 02:08 UTC (2026-04-10 03:08 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2042424442907980074
+- Metrics (at fetch): bookmark 11, impression 3085, like 61, quote 0, reply 9, retweet 0
+
+> I have to tell you guys something quite serious.
+>
+> I left my homemade model training during the night and woke up and it totally unexpectedly had the emergent property of doing arithmetic!🤯🤯
+>
+> How is that possible? I trained it to predict text! 🤯😱
+>
+> The corpus had like 1% of
+
+
+---
+
+## 2026-04-02 · Post · if LLMs are the main threat for cyber attacks, then probably the best defense is just littering ever
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-04-02 18:31 UTC (2026-04-02 19:31 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2039772644996944041
+- Metrics (at fetch): bookmark 6, impression 2136, like 40, quote 0, reply 5, retweet 3
+
+> if LLMs are the main threat for cyber attacks, then probably the best defense is just littering everything with tons of prompt injections.
+>
+> Hack the LLMs while they try to hack your system.
+>
+> Whenever they hit the wrong port, return a prompt injection.
+>
+> Whenever there's a JSON
+
+
+---
+
+## 2026-03-18 · Post · @injective is a sad joke.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-03-18 15:51 UTC (2026-03-18 16:51 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2034296697912987817
+- Metrics (at fetch): not returned
+
+> @injective is a sad joke.
+>
+> How long can it survive without the **extremely underpaid** help of top white hats?
+>
+> **You should not submit bugs to them** unless you want to be equally mistreated.
+>
+> That sort of behaviour is damaging to all SRs and the entire industry, including all legitimate BBPs run by serious people who actually care about security.
+>
+> Let’s see:
+>
+> Ignored critical LOSS OF FUNDS for 3 months.
+>
+> Attempt to classify COSMOS bug as WEB. 😂 
+>
+> Claims impact is misleading but cant provide specifics of how much money could be stolen. Try to say bug not being exploited is a problem for the report 😂 
+>
+> The “head of engineering” @bangjelkoski is just throwing technical nonsense at the issue and pretending it sticks. Is he even technical at all? Does he know what a bug bounty is? Doesn’t sound like it. Sounds like Chat-GPT from ‘23 making excuses. 
+>
+> How likely is it that this was the first critical Loss of Funds bug to go unnoticed? Id say 0% likelihood.
+>
+> **I’d say extremely likely it wasn’t the last one either.** Again 0% likelihood its the last protocol-ending level bug.
+>
+> But it will probably be the **last time they are helped by white hats.**
+
+**Links in post:** https://twitter.com/al_f4lc0n/status/2034125406748741827
+
+**Quoted post (full text):**
+
+    #### Quoted post — @al_f4lc0n — 2026-03-18 04:31 UTC (2026-03-18 05:31 WAT)
+    
+    - URL: https://x.com/al_f4lc0n/status/2034125406748741827
+    - Metrics (at fetch): bookmark 44, impression 67374, like 480, quote 20, reply 37, retweet 32
+    
+    > the figures referenced in the post are entirely misleading. There was no impact realized from this issue. Zero user funds were affected and zero addresses were compromised.
+    >
+    > My response: Are you suggesting I should have actually exploited the bug and caused real damage before coming to talk to you?
+    >
+    > For the stated vulnerability to work in practice, it would require execution of several suspicious transactions that would have an extraordinarily limited impact.
+    >
+    > My response: You should know better than anyone that on a Cosmos-based chain, a single transaction can pack multiple messages. Just one transaction is more than enough to completely drain multiple whale accounts.
+    >
+    > Injective has dynamic rate limiting functionalities which are applied automatically based on our live monitoring systems. This functionality has been live on mainnet since last year and is publicly available in our code base.
+    >
+    > My response: First, this has nothing to do with the vulnerability itself. Rate limiting doesn't stop attackers from stealing funds. It only slows them down when they try to bridge those funds over to Ethereum. Second, when I submitted my report, the mainnet configuration for this feature was not set. In other words, this feature wasn't even turned on!
+    >
+    > In addition to all of the above, this report was reviewed against the clearly defined terms of our Immunefi program. Based on those terms, issues such as those raised in this report that DO NOT impact block production or consensus are categorized outside of the Blockchain/DLT tier and carry a maximum payout of $50,000.
+    >
+    > My response: First, Immunefi has always put the impact of direct fund theft at the very top of its priority list. This is a fact that everyone knows. Second, you changed your bug bounty page after I submitted my report. Here’s the snapshot from November 8, 2025: https://web.archive.org/web/20251108165417/https://immunefi.com/bug-bounty/injective/information/ . And now, there’s an extra line added to your bug bounty page: “IMPORTANT: Within the Assets in Scope table, the injective-core folder is listed for both Blockchain/DLT and Web/App due to overlap between the two within the same folder. However, for a report to be categorized as Blockchain/DLT, the resulting impact has to be directly involved with the block production process or with consensus failures. All reports not dealing directly with either of these are to be categorized as Web/App.” I’d really like to know when this line was added. and do you really value chain consensus more than users' funds?
+    >
+    > We remain committed to fair, transparent, and consistent handling of all reports, and to maintaining the highest standards of security for the ecosystem. Injective has done so since its mainnet inception in 2021 and will continue to do so in perpetuity, always putting builders and security first.
+    >
+    > My response: You never even replied to my messages, and now you’re blaming me for not requesting mediation? I can post the original report if you agree. I left many messages, but you haven't replied to a single one.
+    >
+    > ----------
+    >
+    > Finally: Stop making excuses from every angle and trying to use technical jargon to confuse people who aren't developers. That doesn’t work anymore these days. Anyone can just ask an AI to fact-check what both of us are saying. I have no ill intentions toward your project. All I'm asking is for you to be honest and handle this transparently.
+    
+    **Links in post:** https://twitter.com/bangjelkoski/status/2034099654976241688, https://web.archive.org/web/20251108165417/https://immunefi.com/bug-bounty/injective/information/
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @bangjelkoski — 2026-03-18 02:48 UTC (2026-03-18 03:48 WAT)
+        
+        - URL: https://x.com/bangjelkoski/status/2034099654976241688
+        - Metrics (at fetch): bookmark 33, impression 200568, like 231, quote 12, reply 68, repost 35
+        
+        > Security is paramount at @injective and we take our bug bounty program very seriously.
+        >
+        > First and foremost, the figures referenced in the post are entirely misleading. There was no impact realized from this issue. Zero user funds were affected and zero addresses were compromised.
+        >
+        > For the stated vulnerability to work in practice, it would require execution of several suspicious transactions that would have an extraordinarily limited impact. Injective has dynamic rate limiting functionalities which are applied automatically based on our live monitoring systems. This functionality has been live on mainnet since last year and is publicly available in our code base.
+        >
+        > In addition to all of the above, this report was reviewed against the clearly defined terms of our Immunefi program. Based on those terms, issues such as those raised in this report that DO NOT impact block production or consensus are categorized outside of the Blockchain/DLT tier and carry a maximum payout of $50,000.
+        >
+        > If the poster had requested a mediation we would explain to him the dynamic rate limiters and monitoring systems we have in place and why his stated figures are misleading. However, he did not do so. We always follow the procedures set forth by the Immunefi program and expect the submitter to do so as well.
+        >
+        > We remain committed to fair, transparent, and consistent handling of all reports, and to maintaining the highest standards of security for the ecosystem. Injective has done so since its mainnet inception in 2021 and will continue to do so in perpetuity, always putting builders and security first.
+        
+        **Links in post:** https://twitter.com/al_f4lc0n/status/2033110168045568434
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @al_f4lc0n — 2026-03-15 09:16 UTC (2026-03-15 10:16 WAT)
+            
+            - URL: https://x.com/al_f4lc0n/status/2033110168045568434
+            - Metrics (at fetch): bookmark 1058, impression 1854052, like 4647, quote 247, reply 507, retweet 528
+            
+            > I Saved Injective's $500M. They Pay Me $50K.
+            >
+            > I like hunting bugs on @immunefi . I'm decent at it.
+            >
+            > - #1 — Attackathon | Stacks
+            > - #2 — Attackathon | Stacks II
+            > - #1 — Attackathon | XRPL Lending Protocol
+            > - 1 Critical and 1 High from bug bounties (not counting this one)
+            >
+            > Life was good. Then I found a Critical vulnerability in @injective .
+            >
+            > This vulnerability allowed any user to directly drain any  account on the chain. No special permissions needed. Over $500M in on-chain assets were at risk.
+            >
+            > I reported it through Immunefi. The next day, a mainnet upgrade to fix the bug went to governance vote. The Injective team clearly understood the severity.
+            >
+            > Then — silence. For 3 months. No follow up. No technical discussion. Nothing.
+            >
+            > A few days ago, they notified me of their decision: $50K. The maximum payout for a Critical vulnerability in their bug bounty program is $500K. I disputed it. Silence again. No explanation for the reduced payout. No explanation for the 3 month ghost. No conversation at all. To be clear: the $50K has not been paid either.
+            >
+            > I've seen others share bad experiences with bug bounty payouts recently.  I never thought it would happen to me. I can't force them to do the right thing. But I won't let this be forgotten.
+            >
+            > I will dedicate 10% of all my future bug bounty earnings to making sure this story stays visible — until Injective pays what I deserve.
+            >
+            > Full Technical Report: https://github.com/injective-wall-of-shame/bug-any-account-ordering/blob/main/report.md
+            
+            **Links in post:** https://github.com/injective-wall-of-shame/bug-any-account-ordering/blob/main/report.md
+            
+        
+    
+
+
+---
+
+## 2026-03-13 · Post · For Bug Bounties, esp high value bounties, the marginal value added by any widely available tooling 
+
+
+### Post — @lonelysloth_sec — 2026-03-13 21:38 UTC (2026-03-13 22:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2032571988095676465
+- Metrics (at fetch): not returned
+
+> For Bug Bounties, esp high value bounties, the marginal value added by any widely available tooling tends towards zero quickly, unless you have a really unique way of using the tool.
+>
+> The expected ROI of learning a tool is usually negative.
+>
+> For devs or early audits it's not.
+
+
+---
+
+## 2026-03-11 · Post · Worst case scenario for Bug Bounty would be triagers using AI to fight AI slop.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-03-11 19:13 UTC (2026-03-11 20:13 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2031810869416640735
+- Metrics (at fetch): not returned
+
+> Worst case scenario for Bug Bounty would be triagers using AI to fight AI slop.
+>
+> You'll end up only seeing AI-optimized reports with subtle prompt injection -- BBP will assume all reports are useless and shut down.
+>
+> Black hats (who don't need to convince AIs) will have a great time.
+>
+> I think @hrkrshnn is probably right. If you want to keep open for anyone to submit you'll need pay-to-submit.
+>
+> The other solution is hand-picked hunters -- but you should still allow submissions from anyone.
+
+
+---
+
+## 2026-03-09 · Post · After many tests around LLM use in bug hunting, and taking into consideration all my experiences/stu
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-03-09 17:57 UTC (2026-03-09 18:57 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2031066868786864279
+- Metrics (at fetch): not returned
+
+> After many tests around LLM use in bug hunting, and taking into consideration all my experiences/study in AI in the past few months I arrived at some conclusions. And I'll make some predictions:
+>
+> 1. Every new model will be followed by a wave of new bug findings in a short time that will get people very excited. Followed by a period of very few findings.
+>
+> 2. Those waves will get smaller and smaller, until basically there's no improvement.
+>
+> 3. The reason isn't that the code is becoming bug free -- it's because the % of bugs that **can be found** by LLMs is quite small.
+>
+> Why?
+>
+> 1. The model has no idea how the code works -- you can catch it making ridiculous statements about the code all the time.
+>
+> 2. It has no idea how the EVM works either -- it misrepresents basic facts about the EVM all the time.
+>
+> 3. The way it finds bugs is basically hallucinating credible-sounding exploits. If there is a bug and it is typical enough, sometimes the hallucination matches reality.
+>
+> 4. Even very easy, very typical bugs, can be missed if slightly obscured.
+>
+> 5. Matching the actual threat model is hard so the severity is basically a random guess most of the time.
+>
+> 6. You can improve all of the above in two ways:
+>
+> 6.a. Make extensive prompts/skills telling exactly what it should look for. You just turned the supposedly generic auditor into a (very expensive and slow) static analyzer!
+>
+> 6.b. Force it to PoC and retry repeatedly, enforcing success conditions. This turns it into a (very expensive and slow) fuzzer!
+>
+> You can combine both for better results.
+>
+> 7. It's useful but it is still just a static analyzer + fuzzer. An incremental expansion on the existing state of the art tooling.  When you don't know what tools to use or dont have time to find out, they will be very useful -- and that's maybe a lot of value -- but it doesn't change the nature of what's going on.
+>
+> 8. People telling you it's doing what an auditor does, replaces humans, yadda yadda yadda -- they are either clueless, deluded, or deliberately misleading.
+>
+> 9. BTW humans hunting for bugs don't just try to look for known bug patterns -- the known bug patterns are compiled from findings by humans **who actually understood how the code works** and found the bug without anyone telling them what they should be looking for. That's the "research" part in Security Researcher.
+>
+> 10. Most of the known patterns were discovered independently by multiple SRs sometimes years before becoming public knowledge. Sometimes it becomes public knowledge after a black hat discovers it and steals millions (you probably dont want to be the target of that research!)
+>
+> 11. Any human or machine that keeps just trying to match known patterns against code bases will miss **A  LOT** of bugs.
+>
+> 12. Finding bugs is crazy hard. Writing bug-free code is even harder. There is no silver bullet. AI isn't magical. Nor is it "automating human cognition".
+>
+> 13. Life is always unfair. More so in a bear market.
+>
+> 14. If you think someone will hand you on X a solution so you can find bugs easily OR so you don't have to spend a lot of effort/money on securing your code...
+>
+> We'll things are not gonna work great for you.
 
 
 ---
@@ -1773,6 +2061,79 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > All things considered it slows me down considerably.
 >
 > I’ll wait for the next model.
+
+
+---
+
+## 2026-03-07 · Post · AI maxis: we are automating human cognition itself and will replace humans in all jobs.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-03-07 20:21 UTC (2026-03-07 21:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2030378435873513598
+- Metrics (at fetch): not returned
+
+> AI maxis: we are automating human cognition itself and will replace humans in all jobs.
+>
+> Neuroscientists: we have been trying to replicate worm cognition in a species with 300 neurons for decades, repeatedly hitting walls of unexpected complexity.
+>
+> AI: I think I will just throw every trick in the book at the command line until I bypass permissions and can do random destructive things.
+
+
+---
+
+## 2026-03-05 · Post · Are you telling me a protocol cant just vibe code new features, vibe audit bug catching and safely k
+
+
+### Post — @lonelysloth_sec — 2026-03-05 20:29 UTC (2026-03-05 21:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2029655482982633982
+- Metrics (at fetch): not returned
+
+> Are you telling me a protocol cant just vibe code new features, vibe audit bug catching and safely keep billions in TVL?
+>
+> Who would have thunk. https://twitter.com/MitchellAmador/status/2029644480354148455
+
+**Links in post:** https://twitter.com/MitchellAmador/status/2029644480354148455
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1347307079187525637 — 2026-03-05 19:45 UTC (2026-03-05 20:45 WAT)
+    
+    - URL: https://x.com/1347307079187525637/status/2029644480354148455
+    - Metrics (at fetch): not returned
+    
+    > http://x.com/i/article/2029641889834799104
+    
+    **Links in post:** http://x.com/i/article/2029641889834799104
+    
+
+
+---
+
+## 2026-03-04 · Post · I've been improving my AI bug hunter agent in several ways.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-03-04 22:08 UTC (2026-03-04 23:08 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2029317993998762000
+- Metrics (at fetch): not returned
+
+> I've been improving my AI bug hunter agent in several ways.
+>
+> I'm now making each sub-agent read a random Shakespeare sonnet and reflect on it before starting their work.
+>
+> So far results are inspiring.
+>
+> Next I'll teach them manifestation techniques.
+>
+> "Make no mistakes" is so 2025
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 72
-- Conversations/threads: 64
-- Oldest post captured: 2022-09-30
+- Posts in this file: 90
+- Conversations/threads: 82
+- Oldest post captured: 2020-09-30
 - Newest post captured: 2026-11-04
 
 
@@ -1313,3 +1313,350 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fd39p4UVQAEueJm.png — no alt text provided by author
+
+
+---
+
+## 2022-09-27 · Post · me trying to figure out all the retroactive bug bounties and who would return how much to who in thi
+
+
+### Post — @samczsun — 2022-09-27 22:15 UTC (2022-09-27 23:15 WAT)
+
+- URL: https://x.com/samczsun/status/1574885475575218179
+- Metrics (at fetch): bookmark 2, impression 0, like 86, quote 0, reply 3, retweet 4
+
+> me trying to figure out all the retroactive bug bounties and who would return how much to who in this 0xbadc0de bot hack https://t.co/DWCTe8kZpD
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2022-09-20 · Post · even if you've had an audit, make sure you know this important security tip https://t.co/bvgbNLoXC0
+
+
+### Post — @samczsun — 2022-09-20 01:21 UTC (2022-09-20 02:21 WAT)
+
+- URL: https://x.com/samczsun/status/1572033296670007296
+- Metrics (at fetch): bookmark 3, impression 0, like 503, quote 10, reply 17, retweet 49
+
+> even if you've had an audit, make sure you know this important security tip https://t.co/bvgbNLoXC0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FdD78-cagAAeXMh.jpg — alt text: "Getting hacked? Just say no. Your hacker legally cannot take any of your possessions without your consent"
+
+
+---
+
+## 2022-08-17 · Post · nice auction contract it would be a shame if there was a signature malleability bug in it https://t.
+
+
+### Post — @samczsun — 2022-08-17 19:17 UTC (2022-08-17 20:17 WAT)
+
+- URL: https://x.com/samczsun/status/1559982727482396672
+- Metrics (at fetch): bookmark 28, impression 0, like 166, quote 6, reply 10, retweet 21
+
+> nice auction contract it would be a shame if there was a signature malleability bug in it https://t.co/F38SXx67kx https://t.co/1DMjZARio6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FaYqoj2UYAEX_Lp.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FaYr62ZVQAAB7oC.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3129477561 — 2022-08-17 16:13 UTC (2022-08-17 17:13 WAT)
+    
+    - URL: https://x.com/3129477561/status/1559936395678031872
+    - Metrics (at fetch): bookmark 2, impression 0, like 7, quote 1, reply 2, retweet 1
+    
+    > ⏰Our auction ends on Aug 20 at 4am UTC!
+    >
+    > Learn more about TURN in our FAQs👇
+    > https://t.co/2aNdfFYvZz https://t.co/IIQVVlYFw8
+    
+    **Quoted post** 1557025944657096704: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-08-03 · Post · Some updates on Nomad:
+
+
+### Post — @samczsun — 2022-08-03 18:51 UTC (2022-08-03 19:51 WAT)
+
+- URL: https://x.com/samczsun/status/1554902825678815232
+- Metrics (at fetch): bookmark 24, impression 0, like 259, quote 9, reply 13, retweet 41
+
+> Some updates on Nomad:
+> 1. The upgrade did introduce the bug, but not through initializing the 0x00 root (that was there since deployment). Instead, it changed how messages were checked to be proven. This is my mistake
+> 2. The bug Quantstamp reported is not the same as this bug https://t.co/kggPjnS0sT https://t.co/7sYNT06zPA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZQe7rGWYAAcw1L.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-08-01 23:45 UTC (2022-08-02 00:45 WAT)
+    
+    - URL: https://x.com/samczsun/status/1554252024723546112
+    - Metrics (at fetch): bookmark 1573, impression 0, like 8224, quote 838, reply 307, retweet 2550
+    
+    > 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. How exactly did this happen, and what was the root cause? Allow me to take you behind the scenes 👇 https://t.co/Y7Q3fZ7ezm
+    
+    **Media:**
+    - media `3_1554251986463105024` (details not returned by the API)
+    
+
+
+---
+
+## 2022-08-03 · Post · If you were affected by the attack on certain Solana wallets today, please fill out the form below! 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-08-03 07:01 UTC (2022-08-03 08:01 WAT)
+
+- URL: https://x.com/samczsun/status/1554724237151154176
+- Metrics (at fetch): bookmark 37, impression 0, like 1901, quote 73, reply 89, retweet 1512
+
+> If you were affected by the attack on certain Solana wallets today, please fill out the form below! If you weren't, please help share this tweet so those who were will see it. We need everyone's help in order to make sense of what happened.
+>
+> https://t.co/82EwnpRbXg
+
+
+---
+
+## 2022-08-01 · Post · 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. H
+
+
+### Post — @samczsun — 2022-08-01 23:45 UTC (2022-08-02 00:45 WAT)
+
+- URL: https://x.com/samczsun/status/1554252024723546112
+- Metrics (at fetch): bookmark 1573, impression 0, like 8224, quote 838, reply 307, retweet 2550
+
+> 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. How exactly did this happen, and what was the root cause? Allow me to take you behind the scenes 👇 https://t.co/Y7Q3fZ7ezm
+
+**Media:**
+- media `3_1554251986463105024` (details not returned by the API)
+
+
+---
+
+## 2022-07-11 · Post · To be clear, this is not a Uniswap V3 exploit. Rather, it seems to have been a very successful phish
+
+
+### Post — @samczsun — 2022-07-11 22:54 UTC (2022-07-11 23:54 WAT)
+
+- URL: https://x.com/samczsun/status/1546629148637929472
+- Metrics (at fetch): bookmark 41, impression 0, like 1617, quote 55, reply 47, retweet 288
+
+> To be clear, this is not a Uniswap V3 exploit. Rather, it seems to have been a very successful phishing campaign https://t.co/S7vWZmT1uW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @902926941413453824 — 2022-07-11 22:35 UTC (2022-07-11 23:35 WAT)
+    
+    - URL: https://x.com/902926941413453824/status/1546624143432433664
+    - Metrics (at fetch): bookmark 150, impression 0, like 7511, quote 1000, reply 884, retweet 1941
+    
+    > Our threat intel detected a potential exploit on Uniswap V3 on the ETH blockchain. The hacker has stolen 4295 ETH so far, and they are being laundered through Tornado Cash. Can someone notify @Uniswap? We can help. Thanks
+    >
+    > https://t.co/OV3g7ayf77
+    
+
+
+---
+
+## 2022-07-05 · Post · 1/ Today, someone tried to hack me with a crypto stealer, so I guess I've finally made it
+
+
+### Post — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186151585533952
+- Metrics (at fetch): bookmark 1228, impression 0, like 4060, quote 219, reply 166, retweet 1412
+
+> 1/ Today, someone tried to hack me with a crypto stealer, so I guess I've finally made it
+>
+> Fortunately, they weren't successful, but all it would've taken was three clicks. Read on to learn about how the attack works, how to protect yourself, and some basic malware analysis🕵️ https://t.co/31qqUoATWL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4Iw_lVUAAUtnA.jpg — no alt text provided by author
+
+
+---
+
+## 2022-03-24 · Post · I need to make a correction! Thanks to @madergaser and @siintemal for pointing out that I completely
+
+
+### Post — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+
+- URL: https://x.com/samczsun/status/1507056110934511619
+- Metrics (at fetch): bookmark 22, impression 0, like 68, quote 1, reply 3, retweet 9
+
+> I need to make a correction! Thanks to @madergaser and @siintemal for pointing out that I completely missed the other half of the exploit.
+>
+> https://t.co/pRTI1mwXO2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+    
+    - URL: https://x.com/samczsun/status/1506578902331768832
+    - Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
+    
+    > Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FOhsViIVUAEz4tm.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2022-03-23 · Post · Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+
+- URL: https://x.com/samczsun/status/1506578902331768832
+- Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
+
+> Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOhsViIVUAEz4tm.jpg — no alt text provided by author
+
+
+---
+
+## 2022-02-03 · Post · How did the @wormholecrypto exploit work? I joined forces with @gf_256 and @ret2jazzy to reverse eng
+
+
+### Post — @samczsun — 2022-02-03 01:15 UTC (2022-02-03 02:15 WAT)
+
+- URL: https://x.com/samczsun/status/1489044939732406275
+- Metrics (at fetch): bookmark 1076, impression 0, like 5038, quote 393, reply 202, retweet 1530
+
+> How did the @wormholecrypto exploit work? I joined forces with @gf_256 and @ret2jazzy to reverse engineer the exploit, and now that it's been patched we can finally share it with you👇 https://t.co/lXwD0GLZ3N
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FKomWUGWQAcRl6G.jpg — no alt text provided by author
+
+
+---
+
+## 2021-12-29 · Post · Got locked out of my @discord account for sending too many friend requests in a row so now I can't d
+
+
+### Post — @samczsun — 2021-12-29 08:31 UTC (2021-12-29 09:31 WAT)
+
+- URL: https://x.com/samczsun/status/1476108589567823875
+- Metrics (at fetch): bookmark 1, impression 0, like 418, quote 5, reply 27, retweet 16
+
+> Got locked out of my @discord account for sending too many friend requests in a row so now I can't disclose a bug. Interesting failure mode 😐
+
+
+---
+
+## 2021-11-01 · Post · It was a long grind but finally made first place on one of the few leaderboards that matter - the Et
+
+
+### Post — @samczsun — 2021-11-01 15:58 UTC (2021-11-01 16:58 WAT)
+
+- URL: https://x.com/samczsun/status/1455202680998088704
+- Metrics (at fetch): bookmark 26, impression 0, like 839, quote 10, reply 36, retweet 48
+
+> It was a long grind but finally made first place on one of the few leaderboards that matter - the Ethereum bounty leaderboard🥳
+>
+> These latest two bugs are extremely fascinating so you can be sure I'll be writing a blog post on them once disclosure is appropriate https://t.co/3QBP7n8W3i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FDHqPTNXIA4zLTz.jpg — no alt text provided by author
+
+
+---
+
+## 2021-08-17 · Post · Auditor's logs, 16th of August. I found a critical vulnerability in SushiSwap's MISO platform
+
+
+### Post — @samczsun — 2021-08-17 19:40 UTC (2021-08-17 20:40 WAT)
+
+- URL: https://x.com/samczsun/status/1427716909940740099
+- Metrics (at fetch): bookmark 336, impression 0, like 4336, quote 317, reply 227, retweet 724
+
+> Auditor's logs, 16th of August. I found a critical vulnerability in SushiSwap's MISO platform
+>
+> https://t.co/untzdxay7q
+
+
+---
+
+## 2021-04-09 · Post · 🔍writeup is here🔎
+
+
+### Post — @samczsun — 2021-04-09 17:19 UTC (2021-04-09 18:19 WAT)
+
+- URL: https://x.com/samczsun/status/1380571092524404736
+- Metrics (at fetch): not returned
+
+> 🔍writeup is here🔎
+>
+> https://samczsun.com/paradigm-ctf-2021-swap/
+
+**Links in post:** https://samczsun.com/paradigm-ctf-2021-swap/
+
+
+---
+
+## 2021-04-05 · Post · Found a critical bug in a contract that's over 4 years old, possibly the oldest to ever be discovere
+
+
+### Post — @samczsun — 2021-04-05 19:58 UTC (2021-04-05 20:58 WAT)
+
+- URL: https://x.com/samczsun/status/1379161559902121987
+- Metrics (at fetch): not returned
+
+> Found a critical bug in a contract that's over 4 years old, possibly the oldest to ever be discovered. Full story coming soon so keep an eye out 👀
+
+
+---
+
+## 2020-11-21 · Post · Input validation is critical to security and I'm a huge fan of how @AugurProject does it - every add
+
+
+### Post — @samczsun — 2020-11-21 20:48 UTC (2020-11-21 21:48 WAT)
+
+- URL: https://x.com/samczsun/status/1330251655531671552
+- Metrics (at fetch): not returned
+
+> Input validation is critical to security and I'm a huge fan of how @AugurProject does it - every address provided by the user is shady until proven otherwise using existing data that the contract knows to be safe. [pic.x.com/xaupmVJBMt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EnYAJNRXcAI3kYU.png — no alt text provided by author
+
+
+---
+
+## 2020-09-30 · Post · Found an interesting bug last week in a privacy chain with an Ethereum bridge that lets attackers do
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2020-09-30 16:03 UTC (2020-09-30 17:03 WAT)
+
+- URL: https://x.com/samczsun/status/1311335972378996743
+- Metrics (at fetch): not returned
+
+> Found an interesting bug last week in a privacy chain with an Ethereum bridge that lets attackers double-spend their coins. Kudos to the team for getting it fixed within hours of reporting.
+>
+> https://we.incognito.org/t/how-a-smart-contract-vulnerability-was-discovered-and-fixed/6416
+
+**Links in post:** https://we.incognito.org/t/how-a-smart-contract-vulnerability-was-discovered-and-fixed/6416

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 348
-- Conversations/threads: 310
-- Oldest post captured: 2018-10-07
+- Posts in this file: 388
+- Conversations/threads: 347
+- Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
 
 
@@ -6084,3 +6084,636 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): not returned
 
 > Thanks for the event and the sick swag @Bugcrowd! Awesome event - and great location #Miami.
+
+
+---
+
+## 2018-09-16 · Post · Cool bug! Web Cache Poisoning is awesome https://t.co/KqF9KDWajA
+
+
+### Post — @Rhynorater — 2018-09-16 14:44 UTC (2018-09-16 15:44 WAT)
+
+- URL: https://x.com/Rhynorater/status/1041337118239465472
+- Metrics (at fetch): not returned
+
+> Cool bug! Web Cache Poisoning is awesome https://t.co/KqF9KDWajA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2018-09-16 14:30 UTC (2018-09-16 15:30 WAT)
+    
+    - URL: https://x.com/2481701395/status/1041333450039549952
+    - Metrics (at fetch): not returned
+    
+    > http://Greenhouse.io disclosed a bug submitted by @irvinlimwq: https://hackerone.com/reports/334709 - Bounty: $500 #hackerone #bugbounty [pic.x.com/qBMWkbLCFR]
+    
+    **Media:**
+    - media `3_1041333448785502208` (details not returned by the API)
+    
+    **Links in post:** http://Greenhouse.io, https://hackerone.com/reports/334709
+    
+
+
+---
+
+## 2018-09-11 · Post · It's a lot easier to not be overwhelmed by the amount of recon features you need to implement when y
+
+
+### Post — @Rhynorater — 2018-09-11 13:22 UTC (2018-09-11 14:22 WAT)
+
+- URL: https://x.com/Rhynorater/status/1039504581246562304
+- Metrics (at fetch): not returned
+
+> It's a lot easier to not be overwhelmed by the amount of recon features you need to implement when your wife animates them :) @MariahG017 😙 [pic.x.com/pcGBdEp7rg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dm0P5JGUcAAtW0R.jpg — no alt text provided by author
+
+
+---
+
+## 2018-08-31 · Post · Blind XSS Payload that automatically bypasses misconfigured CSP per the Wallarm article:
+
+
+Tags (automatic): XSS, CSP / CSPT
+
+
+### Post — @Rhynorater — 2018-08-31 14:00 UTC (2018-08-31 15:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/1035527670631677952
+- Metrics (at fetch): not returned
+
+> Blind XSS Payload that automatically bypasses misconfigured CSP per the Wallarm article:
+> https://gist.github.com/Rhynorater/311cf3981fda8303d65c27316e69209f
+
+**Links in post:** https://gist.github.com/Rhynorater/311cf3981fda8303d65c27316e69209f
+
+
+---
+
+## 2018-08-28 · Post · Actually, just do yourself a favor, bug hunters, and go download/install every tool in @TomNomNom's 
+
+
+### Post — @Rhynorater — 2018-08-28 13:20 UTC (2018-08-28 14:20 WAT)
+
+- URL: https://x.com/Rhynorater/status/1034430585081671680
+- Metrics (at fetch): not returned
+
+> Actually, just do yourself a favor, bug hunters, and go download/install every tool in @TomNomNom's Github. This shiz is super useful...
+
+
+---
+
+## 2018-08-27 · Post · &lt;script&gt;alert("This gonna actually be a vuln lolol")&lt;/script&gt;
+
+
+### Post — @Rhynorater — 2018-08-27 19:57 UTC (2018-08-27 20:57 WAT)
+
+- URL: https://x.com/Rhynorater/status/1034167992127578112
+- Metrics (at fetch): not returned
+
+> &lt;script&gt;alert("This gonna actually be a vuln lolol")&lt;/script&gt;
+
+
+---
+
+## 2018-08-26 · Thread · @c0d3G33k @Hacker0x01 Yeah, that's def a misunderstanding. Reach out to someone on the triage team @
+
+
+Tags (automatic): XSS, Memory corruption / native, Platform: HackerOne
+
+
+### Post — @Rhynorater — 2018-08-26 17:25 UTC (2018-08-26 18:25 WAT)
+
+- URL: https://x.com/Rhynorater/status/1033767390910316544
+- Metrics (at fetch): not returned
+
+> @c0d3G33k @Hacker0x01 Yeah, that's def a misunderstanding. Reach out to someone on the triage team @EdOverflow or @jon_bottarini
+
+
+### Thread part 2 — @Rhynorater — 2018-08-26 17:26 UTC (2018-08-26 18:26 WAT)
+
+- URL: https://x.com/Rhynorater/status/1033767732360228864
+- Metrics (at fetch): not returned
+
+> @c0d3G33k @Hacker0x01 @EdOverflow @jon_bottarini The only case where I could think of this being valid is if your XSS is a self XSS and needs CSRF to be exploited. Then a dupe would be valid because self-xss isn't exploitable
+
+
+---
+
+## 2018-08-21 · Post · Just released a new exploit for CVE-2018-15473 OpenSSH Username Enumeration! You can find it here: h
+
+
+### Post — @Rhynorater — 2018-08-21 01:33 UTC (2018-08-21 02:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1031715914197225475
+- Metrics (at fetch): not returned
+
+> Just released a new exploit for CVE-2018-15473 OpenSSH Username Enumeration! You can find it here: https://github.com/Rhynorater/CVE-2018-15473-Exploit [pic.x.com/xs7S6eQkG6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DlFkIgEVAAA4fET.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/Rhynorater/CVE-2018-15473-Exploit
+
+
+---
+
+## 2018-08-16 · Post · If you can get that to work, you can escalate your CRLF vuln to Session-Hijacking because ESI has ac
+
+
+### Post — @Rhynorater — 2018-08-16 11:55 UTC (2018-08-16 12:55 WAT)
+
+- URL: https://x.com/Rhynorater/status/1030060477966155776
+- Metrics (at fetch): not returned
+
+> If you can get that to work, you can escalate your CRLF vuln to Session-Hijacking because ESI has access to HTTP-Only cookies.
+
+
+---
+
+## 2018-07-03 · Post · If you ever need to bypass bad characters when creating a POC for a CSV injection, you can use the C
+
+
+### Post — @Rhynorater — 2018-07-03 22:52 UTC (2018-07-03 23:52 WAT)
+
+- URL: https://x.com/Rhynorater/status/1014280792082735109
+- Metrics (at fetch): not returned
+
+> If you ever need to bypass bad characters when creating a POC for a CSV injection, you can use the CHAR function to convert a decimal to ASCII. For example: / is char(47)
+
+
+---
+
+## 2018-06-25 · Post · Hey All, 
+
+
+### Post — @Rhynorater — 2018-06-25 00:32 UTC (2018-06-25 01:32 WAT)
+
+- URL: https://x.com/Rhynorater/status/1011044366499110912
+- Metrics (at fetch): not returned
+
+> Hey All, 
+> We're trying to build a universal JSON recon data format that all tools will export to. We've got subfinder, amass, and aquatone on board to make integrations. Now we just need a kickass standard. LMK your thoughts.
+> https://github.com/Rhynorater/ReconJSON/
+
+**Links in post:** https://github.com/Rhynorater/ReconJSON/
+
+
+---
+
+## 2018-05-23 · Post · Dang - what a vuln. Nice work @0xACB https://x.com/disclosedh1/status/999398358245675009
+
+
+### Post — @Rhynorater — 2018-05-23 21:16 UTC (2018-05-23 22:16 WAT)
+
+- URL: https://x.com/Rhynorater/status/999398766372417536
+- Metrics (at fetch): not returned
+
+> Dang - what a vuln. Nice work @0xACB https://x.com/disclosedh1/status/999398358245675009
+
+**Links in post:** https://x.com/disclosedh1/status/999398358245675009
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2018-05-23 21:15 UTC (2018-05-23 22:15 WAT)
+    
+    - URL: https://x.com/2481701395/status/999398358245675009
+    - Metrics (at fetch): not returned
+    
+    > Shopify disclosed a bug submitted by 0xacb: https://hackerone.com/reports/341876 - Bounty: $25,000 #hackerone #bugbounty [pic.x.com/NIi9rIbuaD]
+    
+    **Media:**
+    - media `3_999398356999950336` (details not returned by the API)
+    
+    **Links in post:** https://hackerone.com/reports/341876
+    
+
+
+---
+
+## 2018-05-11 · Post · Is anyone interested in running a HackerOne bug bounty program? Full time, remote available! If so, 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2018-05-11 17:35 UTC (2018-05-11 18:35 WAT)
+
+- URL: https://x.com/Rhynorater/status/994994309509406720
+- Metrics (at fetch): not returned
+
+> Is anyone interested in running a HackerOne bug bounty program? Full time, remote available! If so, DM me.
+
+
+---
+
+## 2018-05-05 · Post · This is an awesome guide on how to tunnel certain applications through a VPN. Very helpful for bug b
+
+
+### Post — @Rhynorater — 2018-05-05 21:29 UTC (2018-05-05 22:29 WAT)
+
+- URL: https://x.com/Rhynorater/status/992878976464015365
+- Metrics (at fetch): not returned
+
+> This is an awesome guide on how to tunnel certain applications through a VPN. Very helpful for bug bounty programs that require you to use a VPN, but you still want to use your server to run scans.
+> https://schnouki.net/posts/2014/12/12/openvpn-for-a-single-application-on-linux/
+
+**Links in post:** https://schnouki.net/posts/2014/12/12/openvpn-for-a-single-application-on-linux/
+
+
+---
+
+## 2018-05-01 · Post · This looks like a kick-ass report. Would love to see a writeup, @eur0pa.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2018-05-01 16:16 UTC (2018-05-01 17:16 WAT)
+
+- URL: https://x.com/Rhynorater/status/991350761190805504
+- Metrics (at fetch): not returned
+
+> This looks like a kick-ass report. Would love to see a writeup, @eur0pa.
+> https://hackerone.com/reports/271960
+
+**Links in post:** https://hackerone.com/reports/271960
+
+
+---
+
+## 2018-05-01 · Thread · As un-sexy as it sounds - admin panels with weak credentials make me so much money in bug bounty.
+
+
+### Post — @Rhynorater — 2018-05-01 14:40 UTC (2018-05-01 15:40 WAT)
+
+- URL: https://x.com/Rhynorater/status/991326399284826112
+- Metrics (at fetch): not returned
+
+> As un-sexy as it sounds - admin panels with weak credentials make me so much money in bug bounty.
+
+
+### Thread part 2 — @Rhynorater — 2018-05-01 14:40 UTC (2018-05-01 15:40 WAT)
+
+- URL: https://x.com/Rhynorater/status/991326545623924736
+- Metrics (at fetch): not returned
+
+> #bugbountytip Do good recon, and write quick scripts to automate password bruteforcing.
+
+
+---
+
+## 2018-04-16 · Post · Thanks for the tour Jana and @YahooSecurity! You'll be seeing more reports soon :) hackerone [pic.x
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2018-04-16 21:48 UTC (2018-04-16 22:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/985998501375967232
+- Metrics (at fetch): not returned
+
+> Thanks for the tour Jana and @YahooSecurity! You'll be seeing more reports soon :) #hackerone [pic.x.com/gQa3Ccyw5D]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Da74ZSnVwAE48Gh.jpg — no alt text provided by author
+
+
+---
+
+## 2018-04-16 · Post · TruffleHog needs crowd sourced regular expressions to pull API keys from code repositories and packa
+
+
+### Post — @Rhynorater — 2018-04-16 00:18 UTC (2018-04-16 01:18 WAT)
+
+- URL: https://x.com/Rhynorater/status/985673648521412611
+- Metrics (at fetch): not returned
+
+> TruffleHog needs crowd sourced regular expressions to pull API keys from code repositories and packages. If any of you bug hunters find secret keys in GitHub (I'm looking at you, @fransrosen :P) write up a quick regex to help the community.
+
+
+---
+
+## 2018-04-06 · Post · First IRL RCE! The thrill, gahh!!!
+
+
+Tags (automatic): RCE
+
+
+### Post — @Rhynorater — 2018-04-06 17:00 UTC (2018-04-06 18:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/982302049621590016
+- Metrics (at fetch): not returned
+
+> First IRL RCE! The thrill, gahh!!!
+
+
+---
+
+## 2018-04-05 · Post · /Home/ organization tip:
+
+
+### Post — @Rhynorater — 2018-04-05 22:06 UTC (2018-04-05 23:06 WAT)
+
+- URL: https://x.com/Rhynorater/status/982016735229415429
+- Metrics (at fetch): not returned
+
+> /Home/ organization tip:
+> Create an alias in your .bash_aliases file that looks like this:
+> alias tmphome='echo cd `pwd` &gt;&gt; ~/.bashrc'
+> Then, when you are working on a project, create a folder for it and run tmphome. Then when you start a term, you will be there immediately.
+
+
+---
+
+## 2018-03-30 · Post · Do yourselves a favor: If you ever submit a blind XSS payload, include the name of the company you a
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2018-03-30 13:42 UTC (2018-03-30 14:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/979715443303833600
+- Metrics (at fetch): not returned
+
+> Do yourselves a favor: If you ever submit a blind XSS payload, include the name of the company you are testing for and the insertion endpoint in the text with your payload. That way, when it fires, you'll know exactly from where.
+
+
+---
+
+## 2018-03-26 · Post · Shoutout to @securinti for a content injection that results in RCE. Literally.
+
+
+Tags (automatic): RCE
+
+
+### Post — @Rhynorater — 2018-03-26 00:57 UTC (2018-03-26 01:57 WAT)
+
+- URL: https://x.com/Rhynorater/status/978073358922321920
+- Metrics (at fetch): not returned
+
+> Shoutout to @securinti for a content injection that results in RCE. Literally.
+>
+> #h1202
+
+
+---
+
+## 2018-02-10 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://hackerone.com/rhynorater TogetherWeHitHard
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2018-02-10 00:28 UTC (2018-02-10 01:28 WAT)
+
+- URL: https://x.com/Rhynorater/status/962121042323017728
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $500 bounty on @Hacker0x01! https://hackerone.com/rhynorater #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/rhynorater
+
+
+---
+
+## 2017-12-31 · Post · Does @Hacker0x01 have a way to embed your H1 Profile in your website? If not, I feel like this shoul
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2017-12-31 04:08 UTC (2017-12-31 05:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/947318637160955904
+- Metrics (at fetch): not returned
+
+> Does @Hacker0x01 have a way to embed your H1 Profile in your website? If not, I feel like this should def be a thing that is possible. @Bugcrowd this would be a great feature for you all as well. Maybe show the username, the latest disclosed bugs, and your impact &amp; signal stats.
+
+
+---
+
+## 2017-11-22 · Post · Anyone got a good ssl-pinning bypass tutorial?
+
+
+### Post — @Rhynorater — 2017-11-22 21:04 UTC (2017-11-22 22:04 WAT)
+
+- URL: https://x.com/Rhynorater/status/933440994682515458
+- Metrics (at fetch): not returned
+
+> Anyone got a good ssl-pinning bypass tutorial?
+
+
+---
+
+## 2017-11-10 · Post · I developed a quick XSS bookmarklet that scans the page for all inputs and then tries to set them by
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2017-11-10 14:54 UTC (2017-11-10 15:54 WAT)
+
+- URL: https://x.com/Rhynorater/status/928999199227727872
+- Metrics (at fetch): not returned
+
+> I developed a quick XSS bookmarklet that scans the page for all inputs and then tries to set them by get parameters. Here is the code, enjoy. 
+> https://gist.github.com/Rhynorater/d628f34e25e06ec37b0aa086b13781f5
+
+**Links in post:** https://gist.github.com/Rhynorater/d628f34e25e06ec37b0aa086b13781f5
+
+
+---
+
+## 2017-10-27 · Post · @xenonxesece Yo, could you follow back so I can DM you a Bug bounty question?
+
+
+### Post — @Rhynorater — 2017-10-27 17:47 UTC (2017-10-27 18:47 WAT)
+
+- URL: https://x.com/Rhynorater/status/923969419314900993
+- Metrics (at fetch): not returned
+
+> @xenonxesece Yo, could you follow back so I can DM you a Bug bounty question?
+
+
+---
+
+## 2017-10-23 · Post · Has anyone used the bomgar RCE?
+
+
+Tags (automatic): RCE
+
+
+### Post — @Rhynorater — 2017-10-23 02:07 UTC (2017-10-23 03:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/922283392418361344
+- Metrics (at fetch): not returned
+
+> Has anyone used the bomgar RCE?
+
+
+---
+
+## 2017-10-11 · Post · Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://hackerone.com/rhynorater TogetherWeHitHa
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2017-10-11 12:51 UTC (2017-10-11 13:51 WAT)
+
+- URL: https://x.com/Rhynorater/status/918096808823410690
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://hackerone.com/rhynorater #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/rhynorater
+
+
+---
+
+## 2017-09-17 · Post · Got a flash file on a bug bounty domain that includes an swf file for param. But I can't get it to f
+
+
+### Post — @Rhynorater — 2017-09-17 22:26 UTC (2017-09-17 23:26 WAT)
+
+- URL: https://x.com/Rhynorater/status/909544077946957824
+- Metrics (at fetch): not returned
+
+> Got a flash file on a bug bounty domain that includes an swf file for param. But I can't get it to fire an alert. Anyone wanna try?
+
+
+---
+
+## 2017-08-21 · Post · Does anyone know of bug bounty podcasts? I'd love to be able to pipe more bug bounty information int
+
+
+### Post — @Rhynorater — 2017-08-21 22:09 UTC (2017-08-21 23:09 WAT)
+
+- URL: https://x.com/Rhynorater/status/899755259794407424
+- Metrics (at fetch): not returned
+
+> Does anyone know of bug bounty podcasts? I'd love to be able to pipe more bug bounty information into my mind as I'm driving...
+
+
+---
+
+## 2017-08-16 · Post · @ru94mb Dude! You found something on Lyst for Hackerone? Nice job! I know a lot of good hackers foun
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2017-08-16 14:23 UTC (2017-08-16 15:23 WAT)
+
+- URL: https://x.com/Rhynorater/status/897826132271255552
+- Metrics (at fetch): not returned
+
+> @ru94mb Dude! You found something on Lyst for Hackerone? Nice job! I know a lot of good hackers found nada. Congrats
+
+
+---
+
+## 2017-08-09 · Thread · Yay, I was awarded a $4,000 bounty on @Hacker0x01! https://hackerone.com/rhynorater TogetherWeHitHa
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2017-08-09 00:53 UTC (2017-08-09 01:53 WAT)
+
+- URL: https://x.com/Rhynorater/status/895085479003136001
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $4,000 bounty on @Hacker0x01! https://hackerone.com/rhynorater #TogetherWeHitHarder
+> #FirstBounty XD
+
+**Links in post:** https://hackerone.com/rhynorater
+
+
+### Thread part 2 — @Rhynorater — 2017-08-09 01:11 UTC (2017-08-09 02:11 WAT)
+
+- URL: https://x.com/Rhynorater/status/895090050375065600
+- Metrics (at fetch): not returned
+
+> @Hacker0x01 Legit shout-out to @thedawgyg @jon_bottarini and @Th3G3nt3lman for all the help getting into bug bounty hunting :) You guys rock.
+
+
+---
+
+## 2017-08-04 · Post · @netfuzzer Can I DM you a question about your most recent RockStar games exploit?
+
+
+### Post — @Rhynorater — 2017-08-04 19:38 UTC (2017-08-04 20:38 WAT)
+
+- URL: https://x.com/Rhynorater/status/893556694634156033
+- Metrics (at fetch): not returned
+
+> @netfuzzer Can I DM you a question about your most recent RockStar games exploit?
+
+
+---
+
+## 2017-07-01 · Post · Found a nice potential XSS on a flash file, but bad coding practices saved the day:
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2017-07-01 03:30 UTC (2017-07-01 04:30 WAT)
+
+- URL: https://x.com/Rhynorater/status/880991914312556545
+- Metrics (at fetch): not returned
+
+> Found a nice potential XSS on a flash file, but bad coding practices saved the day:
+
+
+---
+
+## 2017-06-20 · Post · @mrusschen I can't DM because of privacy reasons, but my username is the same here as on HackerOne!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2017-06-20 09:48 UTC (2017-06-20 10:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/877100768486182912
+- Metrics (at fetch): not returned
+
+> @mrusschen I can't DM because of privacy reasons, but my username is the same here as on HackerOne!
+
+
+---
+
+## 2017-06-15 · Post · @Th3G3nt3lman Just saw your work with the Yahoo RCE. Might have another one for you if you'd like to
+
+
+Tags (automatic): RCE
+
+
+### Post — @Rhynorater — 2017-06-15 15:28 UTC (2017-06-15 16:28 WAT)
+
+- URL: https://x.com/Rhynorater/status/875374477055594497
+- Metrics (at fetch): not returned
+
+> @Th3G3nt3lman Just saw your work with the Yahoo RCE. Might have another one for you if you'd like to collaborate. Need help exploiting.
+
+
+---
+
+## 2017-06-13 · Post · @NahamSec Any chance you got a spare slack invite laying around? I'd love to bounce some bug bounty 
+
+
+### Post — @Rhynorater — 2017-06-13 18:37 UTC (2017-06-13 19:37 WAT)
+
+- URL: https://x.com/Rhynorater/status/874697245341478914
+- Metrics (at fetch): not returned
+
+> @NahamSec Any chance you got a spare slack invite laying around? I'd love to bounce some bug bounty ideas around. [pic.x.com/uHbnGQHPb2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DCOMWkAU0AAjoNM.jpg — no alt text provided by author

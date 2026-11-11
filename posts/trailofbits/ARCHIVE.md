@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 109
-- Conversations/threads: 109
-- Oldest post captured: 2023-07-18
+- Posts in this file: 117
+- Conversations/threads: 117
+- Oldest post captured: 2023-02-16
 - Newest post captured: 2026-11-03
 
 
@@ -1882,3 +1882,152 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 1, impression 5930, like 20, quote 1, reply 1, retweet 6
 
 > How will AI affect national security? In our responses to an RFI by the White House's OTSP, we highlight a few key points 🧵: https://t.co/gcQ4n2pDim
+
+
+---
+
+## 2023-07-12 · Post · Creating earned trust in AI, two new tools, and two million pip-audit downloads: Read our July newsl
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2023-07-12 12:25 UTC (2023-07-12 13:25 WAT)
+
+- URL: https://x.com/trailofbits/status/1679104729060724736
+- Metrics (at fetch): not returned
+
+> Creating earned trust in AI, two new tools, and two million pip-audit downloads: Read our July newsletter! https://mailchi.mp/trailofbits/trail-of-bits-tribuneits-been-a-busy-july
+
+**Links in post:** https://mailchi.mp/trailofbits/trail-of-bits-tribuneits-been-a-busy-july
+
+
+---
+
+## 2023-06-16 · Post · We submitted a response to the NTIA’s RFC on AI accountability. Here's what we told them: https://bl
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2023-06-16 12:32 UTC (2023-06-16 13:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1669684291846938626
+- Metrics (at fetch): not returned
+
+> We submitted a response to the NTIA’s RFC on AI accountability. Here's what we told them: https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/
+>
+> The main themes of our recommendations include 🧵:
+
+**Links in post:** https://blog.trailofbits.com/2023/06/16/trail-of-bitss-response-to-ntia-ai-accountability-rfc/
+
+
+---
+
+## 2023-06-15 · Post · Bug-finding tools are restricted to a single IR, but bugs don't conform to this limit. Our VAST tool
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2023-06-15 11:19 UTC (2023-06-15 12:19 WAT)
+
+- URL: https://x.com/trailofbits/status/1669303520669908993
+- Metrics (at fetch): not returned
+
+> Bug-finding tools are restricted to a single IR, but bugs don't conform to this limit. Our VAST tool builds a tower of IRs to bridge the gap between low-level code analysis and higher-level logic. Bugs span the semantic gap and so should code analysis.
+>
+> https://blog.trailofbits.com/2023/06/15/finding-bugs-with-mlir-and-vast/
+
+**Links in post:** https://blog.trailofbits.com/2023/06/15/finding-bugs-with-mlir-and-vast/
+
+
+---
+
+## 2023-06-01 · Post · Our first public AI/ML audit, German funding for open-source infrastructure, and 20x faster Echidna 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2023-06-01 10:59 UTC (2023-06-01 11:59 WAT)
+
+- URL: https://x.com/trailofbits/status/1664225226358505474
+- Metrics (at fetch): not returned
+
+> Our first public AI/ML audit, German funding for open-source infrastructure, and 20x faster Echidna fuzzing. Read our spring newsletter! https://mailchi.mp/trailofbits/trail-of-bits-tribunewhats-new-this-summer
+
+**Links in post:** https://mailchi.mp/trailofbits/trail-of-bits-tribunewhats-new-this-summer
+
+
+---
+
+## 2023-05-25 · Post · We're hiring for an appsec consultant to join our assurance team. Join our team if you enjoy finding
+
+
+### Post — @trailofbits — 2023-05-25 16:45 UTC (2023-05-25 17:45 WAT)
+
+- URL: https://x.com/trailofbits/status/1661775409002819593
+- Metrics (at fetch): not returned
+
+> We're hiring for an appsec consultant to join our assurance team. Join our team if you enjoy finding bugs in complex and new attack surfaces:
+> https://buff.ly/3IGdltk
+
+**Links in post:** https://buff.ly/3IGdltk
+
+
+---
+
+## 2023-05-10 · Post · We're incredibly excited for this partnership! Our OSS engineering team has been working on securing
+
+
+### Post — @trailofbits — 2023-05-10 13:00 UTC (2023-05-10 14:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1656282942229086211
+- Metrics (at fetch): not returned
+
+> We're incredibly excited for this partnership! Our OSS engineering team has been working on securing and improving critical pieces of the ecosystem since 2019, and this collaboration with @sovtechfund is instrumental in continuing that work! https://twitter.com/sovtechfund/status/1655919455669567491
+
+**Links in post:** https://twitter.com/sovtechfund/status/1655919455669567491
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1567101650619322368 — 2023-05-09 12:55 UTC (2023-05-09 13:55 WAT)
+    
+    - URL: https://x.com/1567101650619322368/status/1655919455669567491
+    - Metrics (at fetch): not returned
+    
+    > We're excited to announce our investment to the Python ecosystem security in partnership with @trailofbits. Our support will focus on critical engineering, maintenance, and support to PyPI package repository and highly used packages, as well as
+    
+
+
+---
+
+## 2023-04-20 · Post · Staff Engineer @disconnect3d_pl noticed during an audit that a typo caused the _FORTIFY_SOURCE macro
+
+
+### Post — @trailofbits — 2023-04-20 11:05 UTC (2023-04-20 12:05 WAT)
+
+- URL: https://x.com/trailofbits/status/1649006244617650176
+- Metrics (at fetch): not returned
+
+> Staff Engineer @disconnect3d_pl noticed during an audit that a typo caused the _FORTIFY_SOURCE macro to not be enabled. We found 20 projects with similar problems and fixed them. Learn more about how to test your code against rouge coding fingers!
+>
+> https://blog.trailofbits.com/2023/04/20/typos-that-omit-security-features-and-how-to-test-for-them/
+
+**Links in post:** https://blog.trailofbits.com/2023/04/20/typos-that-omit-security-features-and-how-to-test-for-them/
+
+
+---
+
+## 2023-02-16 · Post · An appsec engineer was fawning over a sudo bug, leading him to research and discovery of a separate 
+
+
+### Post — @trailofbits — 2023-02-16 13:00 UTC (2023-02-16 14:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1626204774034198530
+- Metrics (at fetch): not returned
+
+> An appsec engineer was fawning over a sudo bug, leading him to research and discovery of a separate logic bug in Linux. Bottom line: Don't use readline in your SUID applications https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
+
+**Links in post:** https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
-- Conversations/threads: 92
-- Oldest post captured: 2021-09-28
+- Posts in this file: 101
+- Conversations/threads: 100
+- Oldest post captured: 2020-08-09
 - Newest post captured: 2026-11-07
 
 
@@ -2022,3 +2022,189 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
     
     **Links in post:** https://zeroknowledge.fm/intro-to-zk-hack/
     
+
+
+---
+
+## 2021-08-29 · Post · More zk applications needed. There are good constructions and base systems to use, which while not p
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2021-08-29 03:08 UTC (2021-08-29 04:08 WAT)
+
+- URL: https://x.com/kobigurk/status/1431815941667577862
+- Metrics (at fetch): not returned
+
+> More zk applications needed. There are good constructions and base systems to use, which while not perfect, allow to express complex and interesting logic.
+>
+> Tl;dr - more end to end zk apps! https://t.co/EQU0SHH5TC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1060338957869858816 — 2021-08-28 17:56 UTC (2021-08-28 18:56 WAT)
+    
+    - URL: https://x.com/1060338957869858816/status/1431677199518687232
+    - Metrics (at fetch): not returned
+    
+    > zk application R&amp;D is important bc the application layer of eth needs innovation at the level of *new tech*. 
+    >
+    > the next step function in eth apps won't just come from doing existing stuff better (new wallet patterns; fractionalization on tokens on yields on nfts on...) (1/2) https://twitter.com/gubsheep/status/1431513259429953537
+    
+    **Links in post:** https://twitter.com/gubsheep/status/1431513259429953537
+    
+    **Quoted post** 1431513259429953537: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-08-02 · Post · Senate on zk vs optimistic rollups https://twitter.com/DZack23/status/1422033664150548483
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @kobigurk — 2021-08-02 10:29 UTC (2021-08-02 11:29 WAT)
+
+- URL: https://x.com/kobigurk/status/1422142629207232513
+- Metrics (at fetch): not returned
+
+> Senate on zk vs optimistic rollups https://twitter.com/DZack23/status/1422033664150548483
+
+**Links in post:** https://twitter.com/DZack23/status/1422033664150548483
+
+**Quoted post (full text):**
+
+    #### Quoted post — @26327250 — 2021-08-02 03:17 UTC (2021-08-02 04:17 WAT)
+    
+    - URL: https://x.com/26327250/status/1422033664150548483
+    - Metrics (at fetch): not returned
+    
+    > I just want to hear the Senate arguing over what constitutes a proper layer 2, that would make me so happy
+    
+
+
+---
+
+## 2021-07-31 · Post · There's something oddly satisfying being able to hack a connection to an interface you weren't suppo
+
+
+### Post — @kobigurk — 2021-07-31 16:00 UTC (2021-07-31 17:00 WAT)
+
+- URL: https://x.com/kobigurk/status/1421501074607837185
+- Metrics (at fetch): not returned
+
+> There's something oddly satisfying being able to hack a connection to an interface you weren't supposed to connect to
+
+
+---
+
+## 2021-07-24 · Post · I think we all know that Loki was behind the Thorchain hack
+
+
+### Post — @kobigurk — 2021-07-24 12:26 UTC (2021-07-24 13:26 WAT)
+
+- URL: https://x.com/kobigurk/status/1418910420543447048
+- Metrics (at fetch): not returned
+
+> I think we all know that Loki was behind the Thorchain hack
+
+
+---
+
+## 2021-07-21 · Post · Combined with the optimistic architecture implemented for phase 2 by @mstrakastrak and the exquisite
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2021-07-21 14:35 UTC (2021-07-21 15:35 WAT)
+
+- URL: https://x.com/kobigurk/status/1417855787859423238
+- Metrics (at fetch): not returned
+
+> Combined with the optimistic architecture implemented for phase 2 by @mstrakastrak and the exquisite infrastructure by @YourBuddyConner, this is a major part of what makes the Plumo ceremony practical while running with a large circuit on BW6-761
+>
+> Join at https://celo.org/plumo! https://twitter.com/LeastAuthority/status/1417854915507073024
+
+**Links in post:** https://celo.org/plumo, https://twitter.com/LeastAuthority/status/1417854915507073024
+
+**Quoted post (full text):**
+
+    #### Quoted post — @403151944 — 2021-07-21 14:32 UTC (2021-07-21 15:32 WAT)
+    
+    - URL: https://x.com/403151944/status/1417854915507073024
+    - Metrics (at fetch): not returned
+    
+    > Our team has completed a #securityaudit for @cLabs of the Arithmetic Optimizations for Plumo, a #SNARK-based protocol for the @CeloOrg #blockchain. This is first in a series of three audits of the Plumo protocol. Read the full report here: https://leastauthority.com/blog/audit-of-clabs-plumo-protocol-arithmetic-optimizations/
+    
+    **Links in post:** https://leastauthority.com/blog/audit-of-clabs-plumo-protocol-arithmetic-optimizations/
+    
+
+
+---
+
+## 2021-07-08 · Post · This is a critical bug and incompatible bug fix, make sure to update! https://twitter.com/arkworks_r
+
+
+### Post — @kobigurk — 2021-07-08 06:55 UTC (2021-07-08 07:55 WAT)
+
+- URL: https://x.com/kobigurk/status/1413028913182384128
+- Metrics (at fetch): not returned
+
+> This is a critical bug and incompatible bug fix, make sure to update! https://twitter.com/arkworks_rs/status/1412886038272352256
+
+**Links in post:** https://twitter.com/arkworks_rs/status/1412886038272352256
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1303067320856670210 — 2021-07-07 21:27 UTC (2021-07-07 22:27 WAT)
+    
+    - URL: https://x.com/1303067320856670210/status/1412886038272352256
+    - Metrics (at fetch): not returned
+    
+    > arkworks users, there was a soundness bug in `mul_by_inverse` in ark-r1cs-std from v0.2.0 to v0.3.0. It is now fixed in v0.3.1. See https://github.com/arkworks-rs/r1cs-std/pull/70
+    >
+    > Please upgrade via `cargo update` if you use this method in your work.
+    
+    **Links in post:** https://github.com/arkworks-rs/r1cs-std/pull/70
+    
+
+
+---
+
+## 2021-05-06 · Post · Small hack - http://eprint.iacr.org doesn't have previews. But http://eprint.kobi.one does! Just rep
+
+
+### Post — @kobigurk — 2021-05-06 15:36 UTC (2021-05-06 16:36 WAT)
+
+- URL: https://x.com/kobigurk/status/1390329705052655616
+- Metrics (at fetch): not returned
+
+> Small hack - http://eprint.iacr.org doesn't have previews. But http://eprint.kobi.one does! Just replace the url :)
+>
+> https://eprint.iacr.org/2021/273 -&gt; https://eprint.kobi.one/2021/273
+>
+> https://eprint.kobi.one/2021/273
+
+**Links in post:** http://eprint.iacr.org, http://eprint.kobi.one, https://eprint.iacr.org/2021/273, https://eprint.kobi.one/2021/273
+
+
+---
+
+## 2020-08-09 · Post · I've found 0xc7312bac89d2ef8061a84eecc9e8b524e3570eea's planet at (6719, 753)! Verify my ZK proofs a
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2020-08-09 13:27 UTC (2020-08-09 14:27 WAT)
+
+- URL: https://x.com/kobigurk/status/1292452407566376960
+- Metrics (at fetch): not returned
+
+> I've found 0xc7312bac89d2ef8061a84eecc9e8b524e3570eea's planet at (6719, 753)! Verify my ZK proofs at @darkforest_eth (https://zkga.me)
+
+**Links in post:** https://zkga.me

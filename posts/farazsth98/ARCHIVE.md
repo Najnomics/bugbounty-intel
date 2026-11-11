@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 116
-- Conversations/threads: 97
-- Oldest post captured: 2020-11-22
+- Posts in this file: 132
+- Conversations/threads: 113
+- Oldest post captured: 2020-09-21
 - Newest post captured: 2026-11-03
 
 
@@ -2405,6 +2405,252 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
+## 2021-04-25 · Post · Pushed some notes on some hypervisor research that I've been doing recently: https://t.co/tOUjofUVY4
+
+
+### Post — @farazsth98 — 2021-04-25 20:22 UTC (2021-04-25 21:22 WAT)
+
+- URL: https://x.com/farazsth98/status/1386415338955317249
+- Metrics (at fetch): bookmark 35, impression 0, like 221, quote 1, reply 2, retweet 76
+
+> Pushed some notes on some hypervisor research that I've been doing recently: https://t.co/tOUjofUVY4.
+>
+> The template is pretty useful for quickly verifying / falsifying any assumptions you may make while auditing code (and of course, for exploit development too).
+
+
+---
+
+## 2021-04-24 · Post · Made a writeup for b64lib from S4CTF. Was a very good challenge written by @ptrYudai, very very subt
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2021-04-24 17:57 UTC (2021-04-24 18:57 WAT)
+
+- URL: https://x.com/farazsth98/status/1386016402851569666
+- Metrics (at fetch): bookmark 3, impression 0, like 42, quote 0, reply 2, retweet 12
+
+> Made a writeup for b64lib from S4CTF. Was a very good challenge written by @ptrYudai, very very subtle bug, and fortunately not a heap note :D
+>
+> Most of the credit goes to the god @RBTree_ for spotting the bug that let us leak libc
+>
+> https://t.co/1LuMjJw3TW
+
+
+---
+
+## 2021-03-07 · Post · Exploit scripts for the pwn challenges I solved can be found on my gist. I wrote a short writeup spe
+
+
+### Post — @farazsth98 — 2021-03-07 12:33 UTC (2021-03-07 13:33 WAT)
+
+- URL: https://x.com/farazsth98/status/1368540296280035329
+- Metrics (at fetch): not returned
+
+> Exploit scripts for the pwn challenges I solved can be found on my gist. I wrote a short writeup specifically for GuessFS, which can be found here: https://gist.github.com/farazsth98/fa8bf4184b084032d374090b0fe4da29 https://twitter.com/farazsth98/status/1368533459828838401
+
+**Links in post:** https://gist.github.com/farazsth98/fa8bf4184b084032d374090b0fe4da29, https://twitter.com/farazsth98/status/1368533459828838401
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2021-03-07 12:06 UTC (2021-03-07 13:06 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1368533459828838401
+    - Metrics (at fetch): not returned
+    
+    > We won somehow.. Last hour was so tense! [pic.x.com/sovpgtRQx7]
+    
+    **Media:**
+    - media `3_1368532111171276803` (details not returned by the API)
+    
+
+
+---
+
+## 2021-03-07 · Post · We won somehow.. Last hour was so tense! [pic.x.com/sovpgtRQx7]
+
+
+### Post — @farazsth98 — 2021-03-07 12:06 UTC (2021-03-07 13:06 WAT)
+
+- URL: https://x.com/farazsth98/status/1368533459828838401
+- Metrics (at fetch): not returned
+
+> We won somehow.. Last hour was so tense! [pic.x.com/sovpgtRQx7]
+
+**Media:**
+- media `3_1368532111171276803` (details not returned by the API)
+
+
+---
+
+## 2021-02-28 · Post · This CTF had a dotnet core pwn. I wrote a short writeup here: https://gist.github.com/farazsth98/349
+
+
+### Post — @farazsth98 — 2021-02-28 09:16 UTC (2021-02-28 10:16 WAT)
+
+- URL: https://x.com/farazsth98/status/1365953987241943048
+- Metrics (at fetch): not returned
+
+> This CTF had a dotnet core pwn. I wrote a short writeup here: https://gist.github.com/farazsth98/349d36d26708b9d0387676fda051be1e
+>
+> If you have any questions about it please ask me. I was too lazy to write in more detail about how to debug the binary correctly, which is probably the biggest problem :p https://twitter.com/SuperGuesser/status/1365951788306685953
+
+**Links in post:** https://gist.github.com/farazsth98/349d36d26708b9d0387676fda051be1e, https://twitter.com/SuperGuesser/status/1365951788306685953
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1298940646015684608 — 2021-02-28 09:07 UTC (2021-02-28 10:07 WAT)
+    
+    - URL: https://x.com/1298940646015684608/status/1365951788306685953
+    - Metrics (at fetch): not returned
+    
+    > We won aeroCTF 2021. Thanks for nice quality challenges 🙂🙂 [pic.x.com/iV24utjgiZ]
+    
+    **Media:**
+    - media `3_1365951622686248964` (details not returned by the API)
+    
+
+
+---
+
+## 2021-02-21 · Post · Well seems like we won Union CTF 2021 :p
+
+
+### Post — @farazsth98 — 2021-02-21 19:10 UTC (2021-02-21 20:10 WAT)
+
+- URL: https://x.com/farazsth98/status/1363566776722726912
+- Metrics (at fetch): not returned
+
+> Well seems like we won Union CTF 2021 :p
+>
+> The notepad challenge was pretty good. It showcased a C++ bug class that is very often found in real world code bases (for example, in Chrome). 
+>
+> Read my brief writeup here:
+> https://gist.github.com/farazsth98/19cc2268311e248502168b1eb52502f9 [pic.x.com/CccitCseKV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Euxb8g-UYAI3n7W.png — no alt text provided by author
+
+**Links in post:** https://gist.github.com/farazsth98/19cc2268311e248502168b1eb52502f9
+
+
+---
+
+## 2021-01-07 · Post · First blog post of 2021!
+
+
+### Post — @farazsth98 — 2021-01-07 08:15 UTC (2021-01-07 09:15 WAT)
+
+- URL: https://x.com/farazsth98/status/1347094563995885571
+- Metrics (at fetch): not returned
+
+> First blog post of 2021!
+>
+> Let's analyze CVE-2020-16040 and learn how TurboFan's Simplified Lowering Phase works in detail :D
+>
+> https://faraz.faith/2021-01-07-cve-2020-16040-analysis/
+
+**Links in post:** https://faraz.faith/2021-01-07-cve-2020-16040-analysis/
+
+
+---
+
+## 2020-12-10 · Post · Was just writing up a bug report, and while copying code over, I found another bug 😩
+
+
+### Post — @farazsth98 — 2020-12-10 06:50 UTC (2020-12-10 07:50 WAT)
+
+- URL: https://x.com/farazsth98/status/1336926276116860933
+- Metrics (at fetch): not returned
+
+> Was just writing up a bug report, and while copying code over, I found another bug 😩
+>
+> I want to finish this report... but new bug....
+
+
+---
+
+## 2020-12-08 · Post · The writeup for this is now online!
+
+
+### Post — @farazsth98 — 2020-12-08 09:38 UTC (2020-12-08 10:38 WAT)
+
+- URL: https://x.com/farazsth98/status/1336243737207296000
+- Metrics (at fetch): not returned
+
+> The writeup for this is now online!
+>
+> https://faraz.faith/2020-12-08-pbctf-pwnception/
+>
+> I cannot stress how amazing this challenge was. It was very realistic. I learned so many new things, I don't think I can list them all out in a single tweet.
+>
+> Enjoy! https://twitter.com/farazsth98/status/1335822123869196289
+
+**Links in post:** https://faraz.faith/2020-12-08-pbctf-pwnception/, https://twitter.com/farazsth98/status/1335822123869196289
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2020-12-07 05:43 UTC (2020-12-07 06:43 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1335822123869196289
+    - Metrics (at fetch): not returned
+    
+    > I will be posting a detailed writeup sometime soon for this mind blowing challenge from pbctf by @wcbowling 
+    >
+    > tl;dr pwn userland -&gt; pwn kernel -&gt; execute code in the unicorn engine emulator 🤯🤯🤯 [pic.x.com/jf7DXRtczV]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EonK6geVgAEEk6K.png — no alt text provided by author
+    
+
+
+---
+
+## 2020-12-07 · Post · I will be posting a detailed writeup sometime soon for this mind blowing challenge from pbctf by @wc
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2020-12-07 05:43 UTC (2020-12-07 06:43 WAT)
+
+- URL: https://x.com/farazsth98/status/1335822123869196289
+- Metrics (at fetch): not returned
+
+> I will be posting a detailed writeup sometime soon for this mind blowing challenge from pbctf by @wcbowling 
+>
+> tl;dr pwn userland -&gt; pwn kernel -&gt; execute code in the unicorn engine emulator 🤯🤯🤯 [pic.x.com/jf7DXRtczV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EonK6geVgAEEk6K.png — no alt text provided by author
+
+
+---
+
+## 2020-12-07 · Post · I was only able to play pbctf for a few hours this weekend, but my teammates are so good 😭 we got se
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2020-12-07 00:31 UTC (2020-12-07 01:31 WAT)
+
+- URL: https://x.com/farazsth98/status/1335743815919890435
+- Metrics (at fetch): not returned
+
+> I was only able to play pbctf for a few hours this weekend, but my teammates are so good 😭 we got second place!
+>
+> Here's a short writeup for JHeap (unintended solution, actual solution is a little more complicated): https://gist.github.com/farazsth98/24b7f8c1b23cdfb6da17dff804000dc3 [pic.x.com/hPMHRAYfDL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EomD69xVgAE0pA5.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/farazsth98/24b7f8c1b23cdfb6da17dff804000dc3
+
+
+---
+
 ## 2020-11-22 · Post · We won Dragon CTF 2020! Perfect ⚔️ Guesser is pretty strong :D
 
 
@@ -2421,3 +2667,103 @@ Tags (automatic): Platform: Immunefi
 - photo: https://pbs.twimg.com/media/EndOz1pUUAEeqX1.jpg — no alt text provided by author
 
 **Links in post:** https://faraz.faith/2020-11-23-dragonctf-bitmapmanager/
+
+
+---
+
+## 2020-11-16 · Post · GG! We won Balsn CTF this year as Super⚔️Blue 🥳🎉
+
+
+### Post — @farazsth98 — 2020-11-16 02:45 UTC (2020-11-16 03:45 WAT)
+
+- URL: https://x.com/farazsth98/status/1328167209533730817
+- Metrics (at fetch): not returned
+
+> GG! We won Balsn CTF this year as Super⚔️Blue 🥳🎉
+>
+> The pwn challenges were really hard imo. Here's my commented exploit script for Diary: https://gist.github.com/farazsth98/ec8ea2869d1e76ea4a7a3cc96fe328ff
+>
+> It's too complicated to make a writeup for this... [pic.x.com/KghPkG95GU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Em6YyUgUcAABzjz.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/farazsth98/ec8ea2869d1e76ea4a7a3cc96fe328ff
+
+
+---
+
+## 2020-10-24 · Post · Second blood! Was fun learning about SPARC
+
+
+### Post — @farazsth98 — 2020-10-24 06:06 UTC (2020-10-24 07:06 WAT)
+
+- URL: https://x.com/farazsth98/status/1319882974146392064
+- Metrics (at fetch): not returned
+
+> Second blood! Was fun learning about SPARC
+>
+> I still don't 100% know how my exploit works though 🤡 [pic.x.com/KDZ7xvESG2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ElEqT5yU0AAxtoN.jpg — no alt text provided by author
+
+
+---
+
+## 2020-10-16 · Post · There's a poc already out for BleedingTooth with no patches to mitigate it btw
+
+
+### Post — @farazsth98 — 2020-10-16 06:22 UTC (2020-10-16 07:22 WAT)
+
+- URL: https://x.com/farazsth98/status/1316987901964480512
+- Metrics (at fetch): not returned
+
+> There's a poc already out for BleedingTooth with no patches to mitigate it btw
+>
+> https://github.com/google/security-research/security/advisories/GHSA-h637-c88j-47wq
+
+**Links in post:** https://github.com/google/security-research/security/advisories/GHSA-h637-c88j-47wq
+
+
+---
+
+## 2020-10-14 · Post · It's been a long time since I actually played a CTF. SECCON CTF 2020 from last weekend had some grea
+
+
+### Post — @farazsth98 — 2020-10-14 18:52 UTC (2020-10-14 19:52 WAT)
+
+- URL: https://x.com/farazsth98/status/1316451726631661568
+- Metrics (at fetch): not returned
+
+> It's been a long time since I actually played a CTF. SECCON CTF 2020 from last weekend had some great pwn challenges.
+>
+> I solved "lazynote" (by @ptrYudai) after the CTF ended (without looking at writeups).
+>
+> Here is my writeup! Enjoy!
+>
+> https://faraz.faith/2020-10-13-FSOP-lazynote/
+
+**Links in post:** https://faraz.faith/2020-10-13-FSOP-lazynote/
+
+
+---
+
+## 2020-09-21 · Post · I was recently introduced to a great blog by @secfaultsec which contains two really good blog posts 
+
+
+Tags (automatic): Mobile / Android / iOS, Memory corruption / native
+
+
+### Post — @farazsth98 — 2020-09-21 10:44 UTC (2020-09-21 11:44 WAT)
+
+- URL: https://x.com/farazsth98/status/1307993992475279360
+- Metrics (at fetch): not returned
+
+> I was recently introduced to a great blog by @secfaultsec which contains two really good blog posts on exploiting some vulnerabilities in the FreeBSD kernel. I am currently reading through their post on writing an iOS kernel exploit.
+>
+> Very well written!
+>
+> https://secfault-security.com/blog.html
+
+**Links in post:** https://secfault-security.com/blog.html

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 57
-- Conversations/threads: 57
-- Oldest post captured: 2022-10-19
+- Posts in this file: 74
+- Conversations/threads: 74
+- Oldest post captured: 2020-09-12
 - Newest post captured: 2026-10-29
 
 
@@ -1053,3 +1053,335 @@ Tags (automatic): RCE
 > The last part of A New Attack Surface on MS Exchange - #ProxyRelay is out! Have also left some final thoughts on the Closing part. Hope you all enjoy this journey :D
 >
 > https://t.co/XOmClEtB4n
+
+
+---
+
+## 2022-08-10 · Post · My favorite bug among the vulnerabilities I presented today! 😆
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @orange_8361 — 2022-08-10 23:10 UTC (2022-08-11 00:10 WAT)
+
+- URL: https://x.com/orange_8361/status/1557504677050478594
+- Metrics (at fetch): bookmark 203, impression 0, like 2552, quote 45, reply 46, retweet 501
+
+> My favorite bug among the vulnerabilities I presented today! 😆
+>
+> The original intent was to compare the password. However, the developer copy-and-pasted the code but forgot to replace the variable name. That leads to the Authentication Bypass on IIS. https://t.co/NLDDLQNYX2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZ1dADfaUAE7ubZ.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-19 · Post · Not every research ended with RCEs, but I can promise the bugs (especially the Auth-Bypass) in my B
+
+
+### Post — @orange_8361 — 2022-05-19 08:18 UTC (2022-05-19 09:18 WAT)
+
+- URL: https://x.com/orange_8361/status/1527201896381181952
+- Metrics (at fetch): bookmark 28, impression 0, like 654, quote 4, reply 12, retweet 108
+
+> Not every research ended with RCEs, but I can promise the bugs (especially the Auth-Bypass) in my #BHUSA talk must be fun and insane! @BlackHatEvents https://t.co/J8RKCKQnEA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTG1E3AakAAveHL.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-26 · Post · Unsafe .Net Deserialization in Windows Event Viewer! This is a by-product of my research. Has confir
+
+
+### Post — @orange_8361 — 2022-04-26 15:08 UTC (2022-04-26 16:08 WAT)
+
+- URL: https://x.com/orange_8361/status/1518970259868626944
+- Metrics (at fetch): bookmark 195, impression 0, like 1598, quote 11, reply 18, retweet 528
+
+> Unsafe .Net Deserialization in Windows Event Viewer! This is a by-product of my research. Has confirmed with MSRC that this didn't cross any security boundary, but I guess it could still be another fun #LOLbas or Defender Bypass.😆 https://t.co/OP5LWSY9GN
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2021-08-27 · Post · Such a fantastic and clear write-up! I am impressed by chaining two logic (and URL-related) bugs to 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @orange_8361 — 2021-08-27 15:36 UTC (2021-08-27 16:36 WAT)
+
+- URL: https://x.com/orange_8361/status/1431279581453897732
+- Metrics (at fetch): bookmark 29, impression 0, like 192, quote 1, reply 1, retweet 38
+
+> Such a fantastic and clear write-up! I am impressed by chaining two logic (and URL-related) bugs to complete the exploit and the effort to enhance reliabilities on Windows Heap. Respect to them! https://t.co/qJ5BXv9KrO
+
+**Quoted post (full text):**
+
+    #### Quoted post — @133870619 — 2021-08-23 13:38 UTC (2021-08-23 14:38 WAT)
+    
+    - URL: https://x.com/133870619/status/1429800321405104131
+    - Metrics (at fetch): bookmark 113, impression 0, like 616, quote 12, reply 4, retweet 272
+    
+    > We have published the details of our Zoom exploit in this quite long writeup: https://t.co/ijw5RbKfX9 tl;dr: heap buffer overflow when handling key exchange messages for chat encryption.
+    
+
+
+---
+
+## 2021-08-06 · Post · A New Attack Surface on Microsoft Exchange! The series covers most of my Black Hat USA and DEFCON ta
+
+
+### Post — @orange_8361 — 2021-08-06 16:00 UTC (2021-08-06 17:00 WAT)
+
+- URL: https://x.com/orange_8361/status/1423675388471906310
+- Metrics (at fetch): bookmark 173, impression 0, like 1249, quote 10, reply 8, retweet 509
+
+> A New Attack Surface on Microsoft Exchange! The series covers most of my Black Hat USA and DEFCON talks (with slides and video inside). More articles and vulnerabilities are coming soon! 
+>
+> https://t.co/lkup5hdyz9
+
+
+---
+
+## 2021-08-05 · Post · I am honored to win the Best Server-Side Bug of @PwnieAwards 2021 again. Thanks everyone, I will kee
+
+
+### Post — @orange_8361 — 2021-08-05 01:38 UTC (2021-08-05 02:38 WAT)
+
+- URL: https://x.com/orange_8361/status/1423095944522846209
+- Metrics (at fetch): bookmark 6, impression 0, like 787, quote 2, reply 18, retweet 69
+
+> I am honored to win the Best Server-Side Bug of @PwnieAwards 2021 again. Thanks everyone, I will keep rocking and Hack the Planet!! https://t.co/kSlTeMs9Ph
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E7_RIdbVUAA_Iwz.jpg — no alt text provided by author
+
+
+---
+
+## 2021-07-30 · Post · It's an honor to get the nomination for the BHUSA @PwnieAwards Best Server-Side Bug again!!! https:
+
+
+### Post — @orange_8361 — 2021-07-30 06:34 UTC (2021-07-30 07:34 WAT)
+
+- URL: https://x.com/orange_8361/status/1420996245212917763
+- Metrics (at fetch): bookmark 4, impression 0, like 281, quote 1, reply 2, retweet 17
+
+> It's an honor to get the nomination for the #BHUSA @PwnieAwards Best Server-Side Bug again!!! https://t.co/nx4lkwm4uK
+
+
+---
+
+## 2021-07-14 · Post · It looks like Microsoft finally fixed all my Exchange vulnerabilities (including Pwn2Own bugs) !
+
+
+### Post — @orange_8361 — 2021-07-14 14:23 UTC (2021-07-14 15:23 WAT)
+
+- URL: https://x.com/orange_8361/status/1415316011335647234
+- Metrics (at fetch): bookmark 34, impression 0, like 737, quote 7, reply 10, retweet 163
+
+> It looks like Microsoft finally fixed all my Exchange vulnerabilities (including Pwn2Own bugs) !
+>
+> Here is a small spoiler - You can't imagine how amazing it is when I found Exchange still suffered from Padding Oracle Attack 😻  - https://t.co/82NxkUR3hp
+>
+> #BHUSA #DEFCON
+
+
+---
+
+## 2021-06-11 · Post · I love this kind of bug! https://t.co/iht1YIbG9n
+
+
+### Post — @orange_8361 — 2021-06-11 18:25 UTC (2021-06-11 19:25 WAT)
+
+- URL: https://x.com/orange_8361/status/1403418025454292993
+- Metrics (at fetch): bookmark 23, impression 0, like 236, quote 2, reply 2, retweet 42
+
+> I love this kind of bug! https://t.co/iht1YIbG9n
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1187929919713464320 — 2021-06-10 16:13 UTC (2021-06-10 17:13 WAT)
+    
+    - URL: https://x.com/1187929919713464320/status/1403022518529761285
+    - Metrics (at fetch): bookmark 204, impression 0, like 1302, quote 57, reply 9, retweet 568
+    
+    > Kill -9 your way to root on most modern Linux using @kevin_backhouse's latest polkit finding (CVE-2021-3560) https://t.co/sW6YS9CCPr
+    
+
+
+---
+
+## 2021-05-12 · Post · Yay, my talk is accepted by Black Hat USA!
+
+
+### Post — @orange_8361 — 2021-05-12 14:10 UTC (2021-05-12 15:10 WAT)
+
+- URL: https://x.com/orange_8361/status/1392482352970964996
+- Metrics (at fetch): bookmark 41, impression 0, like 1039, quote 7, reply 26, retweet 185
+
+> Yay, my talk is accepted by Black Hat USA!
+>
+> "... 7 vulnerabilities that consist of server-side, client-side, and crypto bugs were found via this attack surface and chained into 3 different attack scenarios: ProxyLogon, ProxyShell and ProxyOracle!" https://t.co/mKf5BHXMGS #BHUSA https://t.co/PZAAdCg5ov
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E1MOcVuVkAIXlKT.jpg — no alt text provided by author
+
+
+---
+
+## 2021-04-06 · Post · Originally, I was very depressed about the bug collision(the SSRF part in ProxyLogon exploit) with 
+
+
+Tags (automatic): SSRF
+
+
+### Post — @orange_8361 — 2021-04-06 17:01 UTC (2021-04-06 18:01 WAT)
+
+- URL: https://x.com/orange_8361/status/1379479323908792342
+- Metrics (at fetch): not returned
+
+> Originally, I was very depressed about the bug collision(the SSRF part in #ProxyLogon exploit) with bad APT groups☹️ So I decided to sit down and dig for a new one... Here it is! https://twitter.com/thezdi/status/1379467992862449664
+
+**Links in post:** https://twitter.com/thezdi/status/1379467992862449664
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2021-04-06 16:16 UTC (2021-04-06 17:16 WAT)
+    
+    - URL: https://x.com/thezdi/status/1379467992862449664
+    - Metrics (at fetch): not returned
+    
+    > Confirmed! The Devcore team used an authentication bypass and a privilege escalation to take over the #Exchange server. They win the full $200,000 and 20 Master of Pwn points. [pic.x.com/8JC20w768f]
+    
+    **Media:**
+    - media `16_1379467987346948100` (details not returned by the API)
+    
+
+
+---
+
+## 2021-03-05 · Post · I know there are lots of people waiting for the recent Microsoft Exchange pre-auth RCE on our side. 
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2021-03-05 11:30 UTC (2021-03-05 12:30 WAT)
+
+- URL: https://x.com/orange_8361/status/1367799591161135109
+- Metrics (at fetch): not returned
+
+> I know there are lots of people waiting for the recent Microsoft Exchange pre-auth RCE on our side. This is a short advisory and detailed timeline. https://proxylogon.com/
+>
+> #proxylogon
+
+**Links in post:** https://proxylogon.com/
+
+
+---
+
+## 2021-02-24 · Post · A short post to address an exploit chain I did in last year. Both slides and YouTube video are onlin
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @orange_8361 — 2021-02-24 07:03 UTC (2021-02-24 08:03 WAT)
+
+- URL: https://x.com/orange_8361/status/1364471111484731393
+- Metrics (at fetch): not returned
+
+> A short post to address an exploit chain I did in last year. Both slides and YouTube video are online now - A Journey Combining Web Hacking and Binary Exploitation in Real World! https://blog.orange.tw/2021/02/a-journey-combining-web-and-binary-exploitation.html
+
+**Links in post:** https://blog.orange.tw/2021/02/a-journey-combining-web-and-binary-exploitation.html
+
+
+---
+
+## 2021-01-05 · Post · Just report a pre-auth RCE chain to the vendor. This might be the most serious RCE I have ever repor
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2021-01-05 10:22 UTC (2021-01-05 11:22 WAT)
+
+- URL: https://x.com/orange_8361/status/1346401788811825153
+- Metrics (at fetch): not returned
+
+> Just report a pre-auth RCE chain to the vendor. This might be the most serious RCE I have ever reported! Hope there is no bug collision or duplicate😝
+
+
+---
+
+## 2020-11-30 · Post · This is a XSS challenge I made for HITCON CTF 2020. I guess the trick is not well-known and could be
+
+
+Tags (automatic): XSS
+
+
+### Post — @orange_8361 — 2020-11-30 17:11 UTC (2020-11-30 18:11 WAT)
+
+- URL: https://x.com/orange_8361/status/1333458585980813333
+- Metrics (at fetch): not returned
+
+> This is a XSS challenge I made for HITCON CTF 2020. I guess the trick is not well-known and could be another upload-to-XSS vector! The Apache by default handles `.var` extension that allows you to specify arbitrary Content-Type to bypass security headers! https://github.com/orangetw/My-CTF-Web-Challenges#oStyle
+
+**Links in post:** https://github.com/orangetw/My-CTF-Web-Challenges#oStyle
+
+
+---
+
+## 2020-11-06 · Post · BTW, this awesome bug is originally found by our Angelgod @scwuaptx https://twitter.com/thezdi/statu
+
+
+### Post — @orange_8361 — 2020-11-06 22:07 UTC (2020-11-06 23:07 WAT)
+
+- URL: https://x.com/orange_8361/status/1324835946508898304
+- Metrics (at fetch): not returned
+
+> BTW, this awesome bug is originally found by our Angelgod @scwuaptx https://twitter.com/thezdi/status/1324831345332334593
+
+**Links in post:** https://twitter.com/thezdi/status/1324831345332334593
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2020-11-06 21:49 UTC (2020-11-06 22:49 WAT)
+    
+    - URL: https://x.com/thezdi/status/1324831345332334593
+    - Metrics (at fetch): not returned
+    
+    > Confirmed! The DEVCORE team of @orange_8361, @scwuaptx and @mehqq_ used an elegant heap overflow to get code execution on the #Synology NAS during their 2nd attempt. They earn themselves $20,000 and 2 Master of Pwn points. [pic.x.com/S8JoMfZQPG]
+    
+    **Media:**
+    - media `16_1324831334527913984` (details not returned by the API)
+    
+
+
+---
+
+## 2020-09-12 · Post · How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM (slides inside) https://blog.oran
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2020-09-12 09:28 UTC (2020-09-12 10:28 WAT)
+
+- URL: https://x.com/orange_8361/status/1304713529883156481
+- Metrics (at fetch): not returned
+
+> How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM (slides inside) https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html
+>
+> #HITCON
+
+**Links in post:** https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html

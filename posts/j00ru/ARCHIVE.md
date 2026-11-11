@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 62
-- Oldest post captured: 2011-10-19
+- Posts in this file: 75
+- Conversations/threads: 66
+- Oldest post captured: 2011-07-12
 - Newest post captured: 2021-11-28
 
 
@@ -1196,3 +1196,55 @@ Tags (automatic): Memory corruption / native
 > Hack in the Box Magazine #7 on the wild, at last. See http://j00ru.vexillium.org/?p=1003. This time a "ring-0 virtual address space disclosure" article ;)
 
 **Links in post:** http://j00ru.vexillium.org/?p=1003
+
+
+---
+
+## 2011-08-03 · Post · Yet another short CSRSS bug write-up (simple 16-bit truncation): http://t.co/74BD4A3
+
+
+### Post — @j00ru — 2011-08-03 20:28 UTC (2011-08-03 21:28 WAT)
+
+- URL: https://x.com/j00ru/status/98852852922974208
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 14
+
+> Yet another short CSRSS bug write-up (simple 16-bit truncation): http://t.co/74BD4A3
+
+
+---
+
+## 2011-07-21 · Post · Posted another MS11-056 write-up: CVE-2011-1282: User-Mode NULL Pointer Dereference & co. See http:/
+
+
+### Post — @j00ru — 2011-07-21 16:33 UTC (2011-07-21 17:33 WAT)
+
+- URL: https://x.com/j00ru/status/94082503421329409
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 26
+
+> Posted another MS11-056 write-up: CVE-2011-1282: User-Mode NULL Pointer Dereference & co. See http://t.co/fEnDLB4
+
+
+---
+
+## 2011-07-14 · Reply · @aionescu @jduck1337 My point was only to show that the ROS implementation had the bug fixed, while 
+
+
+### Post — @j00ru — 2011-07-14 08:22 UTC (2011-07-14 09:22 WAT)
+
+- URL: https://x.com/j00ru/status/91422407503527936
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @aionescu @jduck1337 My point was only to show that the ROS implementation had the bug fixed, while win32 (the base of react os) didn't.
+
+
+---
+
+## 2011-07-12 · Post · MS11-056 released! See "CVE-2011-1281: A story of a Windows CSRSS Privilege Escalation vulnerability
+
+
+### Post — @j00ru — 2011-07-12 18:05 UTC (2011-07-12 19:05 WAT)
+
+- URL: https://x.com/j00ru/status/90844361222389760
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 3, retweet 44
+
+> MS11-056 released! See "CVE-2011-1281: A story of a Windows CSRSS Privilege Escalation vulnerability" http://t.co/U9qDOoH

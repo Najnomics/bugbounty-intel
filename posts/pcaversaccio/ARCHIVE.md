@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 95
-- Conversations/threads: 95
-- Oldest post captured: 2023-07-17
+- Posts in this file: 138
+- Conversations/threads: 138
+- Oldest post captured: 2023-02-10
 - Newest post captured: 2026-09-03
 
 
@@ -1924,3 +1924,1027 @@ Tags (automatic): Smart contract / DeFi
 **Media:**
 - photo: https://pbs.twimg.com/media/F1PR063WIAQ2D_S.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/F1PSFMAWAAAJpuY.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-10 · Post · (Cross-function) reentrancy strikes again:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-07-10 06:56 UTC (2023-07-10 07:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1678297137799483392
+- Metrics (at fetch): not returned
+
+> (Cross-function) reentrancy strikes again:
+> - Optimism attack: https://optimistic.etherscan.io/tx/0xca7c1a0fde444e1a68a8c2b8ae3fb76ec384d1f7ae9a50d26f8bfdd37c7a0afe
+> - Ethereum attack (got frontrun): https://etherscan.io/tx/0xefc4ac015069fdf9946997be0459db44c0491221159220be782454c32ec2d651
+>
+> Around ~$445k loss overall [pic.x.com/lfGtU5dj1W] https://twitter.com/ArcadiaFi/status/1678285634727706625
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0qA65JXwAA8LIq.jpg — no alt text provided by author
+
+**Links in post:** https://optimistic.etherscan.io/tx/0xca7c1a0fde444e1a68a8c2b8ae3fb76ec384d1f7ae9a50d26f8bfdd37c7a0afe, https://etherscan.io/tx/0xefc4ac015069fdf9946997be0459db44c0491221159220be782454c32ec2d651, https://twitter.com/ArcadiaFi/status/1678285634727706625
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1469297401231982595 — 2023-07-10 06:10 UTC (2023-07-10 07:10 WAT)
+    
+    - URL: https://x.com/1469297401231982595/status/1678285634727706625
+    - Metrics (at fetch): not returned
+    
+    > We are aware of a potential exploit in our protocol. 
+    > We have paused the contracts and are investigating the root-cause with security experts as we speak. More info will follow as it comes available.
+    
+
+
+---
+
+## 2023-07-09 · Post · I've said it numerous times and will say it again: ERC-20's `approve` function is a bug and not a fe
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-07-09 14:54 UTC (2023-07-09 15:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1678055039452020736
+- Metrics (at fetch): not returned
+
+> I've said it numerous times and will say it again: ERC-20's `approve` function is a bug and not a feature. Probably it's time for a radical new solution that consists of deprecating the ERC-20 standard. We shouldn't try to fix an already broken design &amp; instead start from scratch https://twitter.com/RevokeCash/status/1677950707104894977
+
+**Links in post:** https://twitter.com/RevokeCash/status/1677950707104894977
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1495312249833017344 — 2023-07-09 07:59 UTC (2023-07-09 08:59 WAT)
+    
+    - URL: https://x.com/1495312249833017344/status/1677950707104894977
+    - Metrics (at fetch): not returned
+    
+    > Yesterday, we received reports of people seeing unknown approval transactions in their transaction history.
+    >
+    > It turns out that this is a new scam where scammers use so-called gas tokens to steal money when victims revoke these "fake approvals". [pic.x.com/vpY2sGIv0T]
+    
+    **Media:**
+    - media `3_1677950702369505281` (details not returned by the API)
+    
+
+
+---
+
+## 2023-07-07 · Post · I think it's a good time to repeat again: multichain, not crosschain: https://old.reddit.com/r/ether
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-07-07 11:26 UTC (2023-07-07 12:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1677277847788847104
+- Metrics (at fetch): not returned
+
+> I think it's a good time to repeat again: multichain, not crosschain: https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/
+>
+> If you don't believe me, take a look at this list of bridge attacks: https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d
+>
+> Bridges are mission-critical, but we will never be able to guarantee 100% security. [pic.x.com/NBG5aREefd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0bhOZWWIAEqtYe.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F0bhPphWcAAK5qp.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F0bhq5nWwAANL1I.jpg — no alt text provided by author
+
+**Links in post:** https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/, https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d
+
+
+---
+
+## 2023-07-06 · Post · Update: It's not LayerZero related. Let's treat this as an ongoing attack. https://twitter.com/pcave
+
+
+### Post — @pcaversaccio — 2023-07-06 19:43 UTC (2023-07-06 20:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1677040577324433409
+- Metrics (at fetch): not returned
+
+> Update: It's not LayerZero related. Let's treat this as an ongoing attack. https://twitter.com/pcaversaccio/status/1677035075114868736
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1677035075114868736
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-07-06 19:21 UTC (2023-07-06 20:21 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1677035075114868736
+    - Metrics (at fetch): not returned
+    
+    > Might be related to this, but will investigate https://x.com/LayerZero_Labs/status/1676989298003021824 [pic.x.com/TQbh7nB8Vy] https://twitter.com/peckshield/status/1677031203772289030
+    
+    **Media:**
+    - media `3_1677034514265133056` (details not returned by the API)
+    
+    **Links in post:** https://x.com/LayerZero_Labs/status/1676989298003021824, https://twitter.com/peckshield/status/1677031203772289030
+    
+    **Quoted post** 1677031203772289030: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-07-06 · Post · Might be related to this, but will investigate https://x.com/LayerZero_Labs/status/16769892980030218
+
+
+### Post — @pcaversaccio — 2023-07-06 19:21 UTC (2023-07-06 20:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1677035075114868736
+- Metrics (at fetch): not returned
+
+> Might be related to this, but will investigate https://x.com/LayerZero_Labs/status/1676989298003021824 [pic.x.com/TQbh7nB8Vy] https://twitter.com/peckshield/status/1677031203772289030
+
+**Media:**
+- media `3_1677034514265133056` (details not returned by the API)
+
+**Links in post:** https://x.com/LayerZero_Labs/status/1676989298003021824, https://twitter.com/peckshield/status/1677031203772289030
+
+**Quoted post** 1677031203772289030: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-07-02 · Post · It's important to always broaden your horizons (at least for me 😁); I can recommend reading a Zcash 
+
+
+### Post — @pcaversaccio — 2023-07-02 16:53 UTC (2023-07-02 17:53 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1675548320993869827
+- Metrics (at fetch): not returned
+
+> It's important to always broaden your horizons (at least for me 😁); I can recommend reading a Zcash audit for once (it's a pretty Rusty experience 😉): https://research.nccgroup.com/2023/06/29/public-report-zcash-zebra-security-assessment/
+
+**Links in post:** https://research.nccgroup.com/2023/06/29/public-report-zcash-zebra-security-assessment/
+
+
+---
+
+## 2023-07-02 · Post · For a good overview of the attack transactions &amp; profit details, see (by BlockSec): https://docs
+
+
+### Post — @pcaversaccio — 2023-07-02 09:01 UTC (2023-07-02 10:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1675429545485189126
+- Metrics (at fetch): not returned
+
+> For a good overview of the attack transactions &amp; profit details, see (by BlockSec): https://docs.google.com/spreadsheets/d/1X5QF_ipMm8YnYj86Qvy8XXFvao3HwYgrEoOHBRBvZVM https://twitter.com/PolyNetwork2/status/1675384703149568001
+
+**Links in post:** https://docs.google.com/spreadsheets/d/1X5QF_ipMm8YnYj86Qvy8XXFvao3HwYgrEoOHBRBvZVM, https://twitter.com/PolyNetwork2/status/1675384703149568001
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1265598699796697088 — 2023-07-02 06:03 UTC (2023-07-02 07:03 WAT)
+    
+    - URL: https://x.com/1265598699796697088/status/1675384703149568001
+    - Metrics (at fetch): not returned
+    
+    > Dear users, we would like to inform you that Poly Network is temporarily suspending its services due to a recent attack. We are actively engaging with relevant parties and diligently assessing the extent of the affected assets. 【1/3】
+    
+
+
+---
+
+## 2023-07-01 · Post · You exploit an extensively audited and well-reviewed DeFi project for $200m but don't know how to de
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-07-01 12:49 UTC (2023-07-01 13:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1675124562365669376
+- Metrics (at fetch): not returned
+
+> You exploit an extensively audited and well-reviewed DeFi project for $200m but don't know how to deploy a contract 🤡. I don't believe one single word of that story. [pic.x.com/FsvAVa4UzI] https://twitter.com/coinage_media/status/1674756710265675781
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fz88ljzWIAALp1D.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/coinage_media/status/1674756710265675781
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1473043149970759680 — 2023-06-30 12:28 UTC (2023-06-30 13:28 WAT)
+    
+    - URL: https://x.com/1473043149970759680/status/1674756710265675781
+    - Metrics (at fetch): not returned
+    
+    > BREAKING: The man who stole $200 million from Euler Finance in 2023's biggest crypto hack, only to return it all, is telling his side of the story for the first time:
+    >
+    > https://www.coinage.media/s2/he-stole-200-million-he-gave-it-back-now-hes-ready-to-explain-why
+    
+    **Links in post:** https://www.coinage.media/s2/he-stole-200-million-he-gave-it-back-now-hes-ready-to-explain-why
+    
+
+
+---
+
+## 2023-07-01 · Post · Hmm, my GH Foundry fuzz test time doubled over the last 2 days, and I observed the same behaviour in
+
+
+### Post — @pcaversaccio — 2023-07-01 10:15 UTC (2023-07-01 11:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1675085794963337216
+- Metrics (at fetch): not returned
+
+> Hmm, my GH Foundry fuzz test time doubled over the last 2 days, and I observed the same behaviour in the OpenZeppelin test suite. My first debugging indicates that mostly the ERC4626 vault tests (https://github.com/a16z/erc4626-tests) trigger this time increase. Anyone knows what's going on? [pic.x.com/JgjhsLteeQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fz8ZdO_WIAItZlV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fz8ZeNIWwAEPDxI.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fz8Zf3_WcAAM0GA.png — no alt text provided by author
+
+**Links in post:** https://github.com/a16z/erc4626-tests
+
+
+---
+
+## 2023-06-29 · Post · hot take: zk tech will kill MEV one day.
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-06-29 06:33 UTC (2023-06-29 07:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1674305076372942850
+- Metrics (at fetch): not returned
+
+> hot take: zk tech will kill MEV one day.
+
+
+---
+
+## 2023-06-25 · Post · it is quite simple: `--via-ir` is a scam option that wants to waste your life time. Do not use it! F
+
+
+### Post — @pcaversaccio — 2023-06-25 09:19 UTC (2023-06-25 10:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1672897268989546496
+- Metrics (at fetch): not returned
+
+> it is quite simple: `--via-ir` is a scam option that wants to waste your life time. Do not use it! Fun fact: my tests compile well without the new pipeline; i.e. the new pipeline actually introduced a stack-too-deep bug, while it was supposed to fix this bug in the first place. [pic.x.com/U7ctPkQ1NE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FzdR-42WAAAvpxv.png — no alt text provided by author
+
+
+---
+
+## 2023-06-20 · Post · First, I'm really sorry to hear this  ❤️. Second, Astaria got a world-class team but still a vulnera
+
+
+### Post — @pcaversaccio — 2023-06-20 19:14 UTC (2023-06-20 20:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1671235030436175872
+- Metrics (at fetch): not returned
+
+> First, I'm really sorry to hear this  ❤️. Second, Astaria got a world-class team but still a vulnerability sneaked into the protocol. How can we expect less experienced teams to handle securely proxies if even pros face issues? I repeat: Upgradeability is a bug! https://twitter.com/AstariaXYZ/status/1671215491069927429
+
+**Links in post:** https://twitter.com/AstariaXYZ/status/1671215491069927429
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1487185332554682371 — 2023-06-20 17:56 UTC (2023-06-20 18:56 WAT)
+    
+    - URL: https://x.com/1487185332554682371/status/1671215491069927429
+    - Metrics (at fetch): not returned
+    
+    > **All funds and NFTs are safe and no action is required at this time.**
+    >
+    > Astaria has been placed in a paused state and no new loans can be originated. The paused state is for the protection of all assets in the protocol. We can confirm that no funds were lost.
+    
+
+
+---
+
+## 2023-06-12 · Post · this is what a reentrancy attack peak performance looks like... [pic.x.com/jtQ4glOQYl]
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-06-12 14:40 UTC (2023-06-12 15:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1668267120793198593
+- Metrics (at fetch): not returned
+
+> this is what a reentrancy attack peak performance looks like... [pic.x.com/jtQ4glOQYl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FybfW54WcAI2aqZ.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FybfZOaXoAQ1OyB.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fybfa0eXgAM1wu2.png — no alt text provided by author
+
+
+---
+
+## 2023-06-12 · Post · Another read-only reentrancy attack... you can find the attack details on my repo as usual https://g
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-06-12 10:17 UTC (2023-06-12 11:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1668200720913293313
+- Metrics (at fetch): not returned
+
+> Another read-only reentrancy attack... you can find the attack details on my repo as usual https://github.com/pcaversaccio/reentrancy-attacks/commit/fa8bcd7a1cbec462e5f1e62e392942f3fe2fd0cd https://twitter.com/BlockSecTeam/status/1668084629654638592
+
+**Links in post:** https://github.com/pcaversaccio/reentrancy-attacks/commit/fa8bcd7a1cbec462e5f1e62e392942f3fe2fd0cd, https://twitter.com/BlockSecTeam/status/1668084629654638592
+
+**Quoted post (full text):**
+
+    #### Quoted post — @BlockSecTeam — 2023-06-12 02:35 UTC (2023-06-12 03:35 WAT)
+    
+    - URL: https://x.com/BlockSecTeam/status/1668084629654638592
+    - Metrics (at fetch): not returned
+    
+    > 1/ @SturdyFinance was attacked and the loss is ~442 ETH. The root cause is due to the typical Balancer's read-only reentrancy, while the price of B-stETH-STABLE was manipulated! [pic.x.com/5l9mVfhpQN]
+    
+    **Media:**
+    - media `3_1668083419946049536` (details not returned by the API)
+    - media `3_1668084488109441030` (details not returned by the API)
+    - media `3_1668084538797596672` (details not returned by the API)
+    
+
+
+---
+
+## 2023-06-10 · Post · It's not only important to understand what signature malleability is in theory, but also what it mea
+
+
+### Post — @pcaversaccio — 2023-06-10 18:05 UTC (2023-06-10 19:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1667593797218205696
+- Metrics (at fetch): not returned
+
+> It's not only important to understand what signature malleability is in theory, but also what it means in practice. Thus, I created a repo that implements a PoC that showcases how signature malleability attacks, using compact signatures, can be executed: https://github.com/pcaversaccio/malleable-signatures
+
+**Links in post:** https://github.com/pcaversaccio/malleable-signatures
+
+
+---
+
+## 2023-06-04 · Post · 👀 zk-proofs coming to OP stack. I believe that a hybrid optimistic/zk rollup future does indeed hold
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @pcaversaccio — 2023-06-04 10:51 UTC (2023-06-04 11:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1665310225195319297
+- Metrics (at fetch): not returned
+
+> 👀 zk-proofs coming to OP stack. I believe that a hybrid optimistic/zk rollup future does indeed hold its potential. Just think of the proof system: use the zk proof as the first line of defense &amp; fall back on the optimistic proof in case of failure.
+> https://github.com/ethereum-optimism/ecosystem-contributions/issues/61 [pic.x.com/rbH5Nlay8v]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxxcctBWIAMg19i.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/ethereum-optimism/ecosystem-contributions/issues/61
+
+
+---
+
+## 2023-05-25 · Post · I think it is important to understand how contracts can morph. To this end, I have created a reposit
+
+
+### Post — @pcaversaccio — 2023-05-25 21:54 UTC (2023-05-25 22:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1661853246078476292
+- Metrics (at fetch): not returned
+
+> I think it is important to understand how contracts can morph. To this end, I have created a repository that implements a simplified PoC that shows how a contract can morph. A similar approach was used in the governance attack on Tornado Cash last week. https://github.com/pcaversaccio/tornado-cash-exploit
+
+**Links in post:** https://github.com/pcaversaccio/tornado-cash-exploit
+
+
+---
+
+## 2023-05-19 · Post · I believe an underappreciated aspect of optimistic rollups is that its security &amp; threat model i
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @pcaversaccio — 2023-05-19 09:25 UTC (2023-05-19 10:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1659490402754281473
+- Metrics (at fetch): not returned
+
+> I believe an underappreciated aspect of optimistic rollups is that its security &amp; threat model is easier to comprehend. It concerns me somehow that so few people understand the zk-math of validity proofs in-depth, even though it is more elegant in theory. Simplicity &gt; complexity.
+
+
+---
+
+## 2023-05-18 · Post · Got a long flight today. Please share some articles/posts/research papers about hardware wallet desi
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-05-18 11:41 UTC (2023-05-18 12:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1659162342930673665
+- Metrics (at fetch): not returned
+
+> Got a long flight today. Please share some articles/posts/research papers about hardware wallet designs, zk-math, Verkle trees in the context of Ethereum, or danksharding.
+
+
+---
+
+## 2023-05-12 · Post · TL; DR: Dani is explaining nicely below the so-called read-only reentrancy. A real-life attack repli
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-05-12 15:26 UTC (2023-05-12 16:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1657044633199812613
+- Metrics (at fetch): not returned
+
+> TL; DR: Dani is explaining nicely below the so-called read-only reentrancy. A real-life attack replication can be found here (h/t to @coinspect):
+> https://github.com/coinspect/learn-evm-attacks/blob/master/test/Reentrancy/CurvePoolOracle/QiReadOnlyReentrancy.attack.sol https://twitter.com/danielvf/status/1657019677544001536
+
+**Links in post:** https://github.com/coinspect/learn-evm-attacks/blob/master/test/Reentrancy/CurvePoolOracle/QiReadOnlyReentrancy.attack.sol, https://twitter.com/danielvf/status/1657019677544001536
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2023-05-12 13:47 UTC (2023-05-12 14:47 WAT)
+    
+    - URL: https://x.com/5678/status/1657019677544001536
+    - Metrics (at fetch): not returned
+    
+    > Heads up! Some Curve ETH pools have a major bug that allows an attacker to manipulate the virtual_price.
+    >
+    > This includes the largest pool on Curve.
+    >
+    > 1/5 [pic.x.com/eL7bqC6EGt]
+    
+    **Media:**
+    - media `3_1657019463466733570` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-02 · Post · One single point of failure for zk-proofs can be the low entropy of the input seeds for the PRNG, wh
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-05-02 09:27 UTC (2023-05-02 10:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1653330411777294338
+- Metrics (at fetch): not returned
+
+> One single point of failure for zk-proofs can be the low entropy of the input seeds for the PRNG, which are used to generate random numbers for the zk-proof. I think (but am not 100% sure) that it is possible to turn zero knowledge into knowledge if randomness is very poor...
+
+
+---
+
+## 2023-04-26 · Post · What many audit firms simply forget to audit are the constructor params &amp; the deployment scripts
+
+
+### Post — @pcaversaccio — 2023-04-26 21:12 UTC (2023-04-26 22:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1651333432704630784
+- Metrics (at fetch): not returned
+
+> What many audit firms simply forget to audit are the constructor params &amp; the deployment scripts. It's amazing how many times I've already seen misconfigurations w/o a mention in the report. U could have everything safe, but using a misconfig at construction can break everything!
+
+
+---
+
+## 2023-04-22 · Post · zk-ECDSA: Instead of directly verifying signatures, we can verify ECDSA signatures &amp; execute arb
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @pcaversaccio — 2023-04-22 10:34 UTC (2023-04-22 11:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1649723330658816001
+- Metrics (at fetch): not returned
+
+> zk-ECDSA: Instead of directly verifying signatures, we can verify ECDSA signatures &amp; execute arbitrary logic inside ZKPs, then verify those proofs on-chain, then execute our smart contract logic. Thus, w/o any change to Ethereum itself, we can support privacy where users want it.
+
+
+---
+
+## 2023-04-20 · Post · Serious question: if you perform a sandwich attack that involves France's shitco.., ehm sorry stable
+
+
+### Post — @pcaversaccio — 2023-04-20 15:46 UTC (2023-04-20 16:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1649077154204770308
+- Metrics (at fetch): not returned
+
+> Serious question: if you perform a sandwich attack that involves France's shitco.., ehm sorry stablecoin, is it called a baguette attack? https://twitter.com/alpeh_v/status/1649051699565449217
+
+**Links in post:** https://twitter.com/alpeh_v/status/1649051699565449217
+
+**Quoted post (full text):**
+
+    #### Quoted post — @alpeh_v — 2023-04-20 14:05 UTC (2023-04-20 15:05 WAT)
+    
+    - URL: https://x.com/alpeh_v/status/1649051699565449217
+    - Metrics (at fetch): not returned
+    
+    > I noticed something 100x funnier: THEY HAVE TO DO A BLOCKCHAIN TRANSACTION TO PROCESS YOUR APPROVALS.
+    >
+    > They coded it so they have to whitelist all users, process all user transfers, and even process your ERC20 approvals before they process your 'transferFrom' lmao [pic.x.com/0QEFXWISL8] https://twitter.com/alpeh_v/status/1649043491648081920
+    
+    **Media:**
+    - media `3_1649051051675496579` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/alpeh_v/status/1649043491648081920
+    
+    **Quoted post** 1649043491648081920: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-04-20 · Post · One possible scenario where such an event could happen on Ethereum: The Beacon Deposit Contract has 
+
+
+### Post — @pcaversaccio — 2023-04-20 09:57 UTC (2023-04-20 10:57 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1648989203366117377
+- Metrics (at fetch): not returned
+
+> One possible scenario where such an event could happen on Ethereum: The Beacon Deposit Contract has a (maybe compiler) bug that a black hat exploits and withdraws all staked ETH (at the time of this writing 18,833,884 ETH). Please share your thoughts here: https://ethresear.ch/t/could-gip-31-also-happen-on-ethereum/15317 https://twitter.com/pcaversaccio/status/1647556207349997575
+
+**Links in post:** https://ethresear.ch/t/could-gip-31-also-happen-on-ethereum/15317, https://twitter.com/pcaversaccio/status/1647556207349997575
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-04-16 11:03 UTC (2023-04-16 12:03 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1647556207349997575
+    - Metrics (at fetch): not returned
+    
+    > yesterday my attention was drawn to a crazy hard fork at Gnosis Chain, where already deployed "should-be-immutable" bytecode was overwritten with a new bytecode to fix a reentrancy issue (517 tokens were affected). -&gt; immutable code until you hard fork it!
+    > https://forum.gnosis.io/t/gip-31-should-gnosis-chain-perform-a-hardfork-to-upgrade-the-token-contract-vulnerable-to-the-reentrancy-attack/4134 [pic.x.com/4IEFsazyYJ]
+    
+    **Media:**
+    - media `3_1647552492555608065` (details not returned by the API)
+    - media `3_1647552521701826560` (details not returned by the API)
+    
+    **Links in post:** https://forum.gnosis.io/t/gip-31-should-gnosis-chain-perform-a-hardfork-to-upgrade-the-token-contract-vulnerable-to-the-reentrancy-attack/4134
+    
+
+
+---
+
+## 2023-04-18 · Post · Can we please quickly talk about the fact that EF's multisig contract is not verified (ABI is availa
+
+
+### Post — @pcaversaccio — 2023-04-18 10:31 UTC (2023-04-18 11:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1648273017623986185
+- Metrics (at fetch): not returned
+
+> Can we please quickly talk about the fact that EF's multisig contract is not verified (ABI is available), I've never seen a public audit report of it, the linked forum is broken nor archived, and only 4 signers are enough to move half a billion dollars! https://etherscan.io/address/0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae#readContract [pic.x.com/8ERh6HNsSh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ft_W8NbX0AASHxy.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ft_W9PUWAAA9WTi.png — no alt text provided by author
+
+**Links in post:** https://etherscan.io/address/0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae#readContract
+
+
+---
+
+## 2023-04-16 · Post · yesterday my attention was drawn to a crazy hard fork at Gnosis Chain, where already deployed "shoul
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-04-16 11:03 UTC (2023-04-16 12:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1647556207349997575
+- Metrics (at fetch): not returned
+
+> yesterday my attention was drawn to a crazy hard fork at Gnosis Chain, where already deployed "should-be-immutable" bytecode was overwritten with a new bytecode to fix a reentrancy issue (517 tokens were affected). -&gt; immutable code until you hard fork it!
+> https://forum.gnosis.io/t/gip-31-should-gnosis-chain-perform-a-hardfork-to-upgrade-the-token-contract-vulnerable-to-the-reentrancy-attack/4134 [pic.x.com/4IEFsazyYJ]
+
+**Media:**
+- media `3_1647552492555608065` (details not returned by the API)
+- media `3_1647552521701826560` (details not returned by the API)
+
+**Links in post:** https://forum.gnosis.io/t/gip-31-should-gnosis-chain-perform-a-hardfork-to-upgrade-the-token-contract-vulnerable-to-the-reentrancy-attack/4134
+
+
+---
+
+## 2023-04-15 · Post · 1/ Not everyone needs to understand how ZK-SNARKs work, but you should at least know the three main 
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-04-15 11:37 UTC (2023-04-15 12:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1647202375730360322
+- Metrics (at fetch): not returned
+
+> 1/ Not everyone needs to understand how ZK-SNARKs work, but you should at least know the three main properties:
+>
+> - Completeness: Assuming the statement is true &amp; the verifier and the prover are honest, the proof is accepted.
+
+
+---
+
+## 2023-04-13 · Post · A visualisation can say more than 1000 words sometimes - the full fund flow of the attack tx [pic.x.
+
+
+### Post — @pcaversaccio — 2023-04-13 08:37 UTC (2023-04-13 09:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1646432372504535040
+- Metrics (at fetch): not returned
+
+> A visualisation can say more than 1000 words sometimes - the full fund flow of the attack tx [pic.x.com/H8rAXAiiga] https://twitter.com/peckshield/status/1646411259125063686
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtlNOmNWYAEG-3V.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/peckshield/status/1646411259125063686
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2023-04-13 07:13 UTC (2023-04-13 08:13 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1646411259125063686
+    - Metrics (at fetch): not returned
+    
+    > It appears the root cause is due to the misconfigured yUSDT, which is exploited to mint huge yUSDT (1,252,660,242,212,927.5) from a small $10K USDT. The huge yUSDT is then cashed out by swapping to other stable coins. [pic.x.com/xlsc2Nlmle] https://twitter.com/peckshield/status/1646395439770640389
+    
+    **Media:**
+    - media `3_1646410749387079680` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/peckshield/status/1646395439770640389
+    
+    **Quoted post** 1646395439770640389: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-04-11 · Post · Reentrancy is a feature on the EVM level, but a bug on the language level. Anyone who believes that 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-04-11 13:51 UTC (2023-04-11 14:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1645786702475309059
+- Metrics (at fetch): not returned
+
+> Reentrancy is a feature on the EVM level, but a bug on the language level. Anyone who believes that this statement is bullshit should check out my reentrancy attack repo here: https://github.com/pcaversaccio/reentrancy-attacks, and sum up all the exploited funds. https://twitter.com/Phalcon_xyz/status/1645742620897955842
+
+**Links in post:** https://github.com/pcaversaccio/reentrancy-attacks, https://twitter.com/Phalcon_xyz/status/1645742620897955842
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1278266969532203008 — 2023-04-11 10:56 UTC (2023-04-11 11:56 WAT)
+    
+    - URL: https://x.com/1278266969532203008/status/1645742620897955842
+    - Metrics (at fetch): not returned
+    
+    > Looks like @paribus_io on Arbitrum was just attacked. Yet another example of classical reentrancy issue... 
+    >
+    > Be cautious when you try to modify the code logic forked from a well-known project.
+    >
+    > https://phalcon.xyz/tx/arbitrum/0x0e29dcf4e9b211a811caf00fc8294024867bffe4ab2819cc1625d2e9d62390af [pic.x.com/WpqhIEFaXf]
+    
+    **Media:**
+    - media `3_1645741765612261377` (details not returned by the API)
+    - media `3_1645742104738516993` (details not returned by the API)
+    - media `3_1645742253652975616` (details not returned by the API)
+    
+    **Links in post:** https://phalcon.xyz/tx/arbitrum/0x0e29dcf4e9b211a811caf00fc8294024867bffe4ab2819cc1625d2e9d62390af
+    
+
+
+---
+
+## 2023-04-09 · Post · Ok, I am gonna say it loud: ERC-20's `approve` function is a bug and not a feature. Besides horribly
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-04-09 15:20 UTC (2023-04-09 16:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1645084293989822466
+- Metrics (at fetch): not returned
+
+> Ok, I am gonna say it loud: ERC-20's `approve` function is a bug and not a feature. Besides horribly breaking the UX, it poses a serious security risk since you essentially delegate the proper risk management to a spender account. Approve does break trustlessness in bad ways imho
+
+
+---
+
+## 2023-04-05 · Post · This. If u want to excel as a security person in our industry u need to properly understand what a r
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-04-05 13:05 UTC (2023-04-05 14:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1643600819692945409
+- Metrics (at fetch): not returned
+
+> This. If u want to excel as a security person in our industry u need to properly understand what a reentrancy attack is, what mistakes have happened &amp; how to prevent them. I've built this repo to be a public good. So use it to learn from past mistakes! https://github.com/pcaversaccio/reentrancy-attacks [pic.x.com/JpC8PGPkhd] https://twitter.com/0xTodorov/status/1643351530819444737
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fs88nZLXsAMC43v.png — no alt text provided by author
+
+**Links in post:** https://github.com/pcaversaccio/reentrancy-attacks, https://twitter.com/0xTodorov/status/1643351530819444737
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1452750983340216324 — 2023-04-04 20:35 UTC (2023-04-04 21:35 WAT)
+    
+    - URL: https://x.com/1452750983340216324/status/1643351530819444737
+    - Metrics (at fetch): not returned
+    
+    > Today I started to read the articles of @pcaversaccio about Reentrancy Attacks which already happen, so far I understand that the same mistakes are often repeated, the most common one, surprisingly or not is the lack of Check-Effect-Interaction principle.
+    > Find more below:🧵
+    
+
+
+---
+
+## 2023-04-04 · Post · @sentimentxyz just got exploited on Arbitrum for around ~$500k. 
+
+
+### Post — @pcaversaccio — 2023-04-04 18:17 UTC (2023-04-04 19:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1643316965686013958
+- Metrics (at fetch): not returned
+
+> @sentimentxyz just got exploited on Arbitrum for around ~$500k. 
+> - Attack tx: https://arbiscan.io/tx/0xa9ff2b587e2741575daf893864710a5cbb44bb64ccdc487a100fa20741e0f74d
+> - Attacker address: https://arbiscan.io/address/0xdd0cdb4c3b887bc533957bc32463977e432e49c3
+
+**Links in post:** https://arbiscan.io/tx/0xa9ff2b587e2741575daf893864710a5cbb44bb64ccdc487a100fa20741e0f74d, https://arbiscan.io/address/0xdd0cdb4c3b887bc533957bc32463977e432e49c3
+
+
+---
+
+## 2023-03-29 · Post · so @high_byte used advanced zk technology, combined with a 10k qubits computer and GPT-69420 to repl
+
+
+Tags (automatic): ZK, AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-03-29 11:13 UTC (2023-03-29 12:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1641035873771741184
+- Metrics (at fetch): not returned
+
+> so @high_byte used advanced zk technology, combined with a 10k qubits computer and GPT-69420 to replace mana with gas. Spread the love for mana. 🫡
+> https://use-mana.glitch.me
+
+**Links in post:** https://use-mana.glitch.me
+
+
+---
+
+## 2023-03-13 · Post · All attack transactions from Euler Finance exploit this morning that am aware of:
+
+
+### Post — @pcaversaccio — 2023-03-13 13:00 UTC (2023-03-13 14:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635264570129551360
+- Metrics (at fetch): not returned
+
+> All attack transactions from Euler Finance exploit this morning that am aware of:
+> - https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d
+> - https://etherscan.io/tx/0x71a908be0bef6174bccc3d493becdfd28395d78898e355d451cb52f7bac38617
+> - https://etherscan.io/tx/0x62bd3d31a7b75c098ccf28bc4d4af8c4a191b4b9e451fab4232258079e8b18c4
+> - https://etherscan.io/tx/0x465a6780145f1efe3ab52f94c006065575712d2003d83d85481f3d110ed131d9
+> - https://etherscan.io/tx/0x3097830e9921e4063d334acb82f6a79374f76f0b1a8f857e89b89bc58df1f311
+> - https://etherscan.io/tx/0x47ac3527d02e6b9631c77fad1cdee7bfa77a8a7bfd4880dccbda5146ace4088f
+
+**Links in post:** https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d, https://etherscan.io/tx/0x71a908be0bef6174bccc3d493becdfd28395d78898e355d451cb52f7bac38617, https://etherscan.io/tx/0x62bd3d31a7b75c098ccf28bc4d4af8c4a191b4b9e451fab4232258079e8b18c4, https://etherscan.io/tx/0x465a6780145f1efe3ab52f94c006065575712d2003d83d85481f3d110ed131d9, https://etherscan.io/tx/0x3097830e9921e4063d334acb82f6a79374f76f0b1a8f857e89b89bc58df1f311, https://etherscan.io/tx/0x47ac3527d02e6b9631c77fad1cdee7bfa77a8a7bfd4880dccbda5146ace4088f
+
+
+---
+
+## 2023-03-09 · Post · Never a dull moment in crypto. Welcome to today's episode where you can watch a live (and ongoing) e
+
+
+### Post — @pcaversaccio — 2023-03-09 16:08 UTC (2023-03-09 17:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633862268063457280
+- Metrics (at fetch): not returned
+
+> Never a dull moment in crypto. Welcome to today's episode where you can watch a live (and ongoing) exploit on Hedera. https://twitter.com/HederaCommunity/status/1633803120328208386
+
+**Links in post:** https://twitter.com/HederaCommunity/status/1633803120328208386
+
+**Quoted post** 1633803120328208386: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-03-09 · Post · Why tf is nobody talking about this incident. There is an ongoing (most probably) private key compro
+
+
+### Post — @pcaversaccio — 2023-03-09 13:46 UTC (2023-03-09 14:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633826478382256129
+- Metrics (at fetch): not returned
+
+> Why tf is nobody talking about this incident. There is an ongoing (most probably) private key compromise attack ongoing on Algorand since February 20, 2023, for which the root cause is still unknown! There exists a preliminary report I link below tho.
+> https://d13.co/algorand-20-02-2023-thefts-preliminary-advisory-report/ https://twitter.com/AlgoFoundation/status/1633212651655274497
+
+**Links in post:** https://d13.co/algorand-20-02-2023-thefts-preliminary-advisory-report/, https://twitter.com/AlgoFoundation/status/1633212651655274497
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1090346259892838400 — 2023-03-07 21:06 UTC (2023-03-07 22:06 WAT)
+    
+    - URL: https://x.com/1090346259892838400/status/1633212651655274497
+    - Metrics (at fetch): not returned
+    
+    > 🧵1/ 
+    >
+    > This has been a truly difficult time for the Algorand community. The security breach has impacted a number of users of the MyAlgo Wallet, a third-party wallet by Rand Labs.
+    
+
+
+---
+
+## 2023-03-07 · Post · In ECDSA signing the main security risk is in how nonces are generated (simplified):
+
+
+### Post — @pcaversaccio — 2023-03-07 10:37 UTC (2023-03-07 11:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633054202057441285
+- Metrics (at fetch): not returned
+
+> In ECDSA signing the main security risk is in how nonces are generated (simplified):
+> - ECDSA nonce `k` must be sampled randomly
+> - The same nonce must never be used with two (hashed) distinct messages
+>
+> A weak PRNG can lead to a key recovery attack: https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/
+
+**Links in post:** https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/
+
+
+---
+
+## 2023-03-04 · Post · I repeat: `uint` as an alias for `uint256` is a bug, not a feature! Ok, fair enough, I added some sp
+
+
+### Post — @pcaversaccio — 2023-03-04 10:08 UTC (2023-03-04 11:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1631959889881837570
+- Metrics (at fetch): not returned
+
+> I repeat: `uint` as an alias for `uint256` is a bug, not a feature! Ok, fair enough, I added some spicy stuff in this contract (lol), but I will open an issue to remove the alias. Global aliases in the area of user-defined types and operators decrease the readability imho. [pic.x.com/UVeOgiDOVh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqXiOTVWYAEArd9.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-25 · Post · Upgradability is a bug not a feature. In that case it was exploited for the 'good', but this should 
+
+
+### Post — @pcaversaccio — 2023-02-25 08:19 UTC (2023-02-25 09:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1629395662763614208
+- Metrics (at fetch): not returned
+
+> Upgradability is a bug not a feature. In that case it was exploited for the 'good', but this should also highlight how much harm it can create. You can't achieve trustlessness if you always have to worry that a multisig upgrades its implementation contract. Full stop. https://twitter.com/CSBastiat/status/1629241395469844481
+
+**Links in post:** https://twitter.com/CSBastiat/status/1629241395469844481
+
+**Quoted post (full text):**
+
+    #### Quoted post — @247973359 — 2023-02-24 22:06 UTC (2023-02-24 23:06 WAT)
+    
+    - URL: https://x.com/247973359/status/1629241395469844481
+    - Metrics (at fetch): not returned
+    
+    > It was only a matter of time.
+    >
+    > 1) Court orders DeFi project to use multisig to steal money back from hacker
+    >
+    > 2) DeFi project says "OK!" and uses its multisig to exploit its own code
+    >
+    > 3) DeFi users are like "oh crap.. what?"
+    >
+    > What a total joke.
+    >
+    > https://blog.oasis.app/statement-regarding-the-transactions-from-the-oasis-multisig-on-21st-feb-2023/ [pic.x.com/IlBL9lxqhw]
+    
+    **Media:**
+    - media `3_1629239706683678725` (details not returned by the API)
+    
+    **Links in post:** https://blog.oasis.app/statement-regarding-the-transactions-from-the-oasis-multisig-on-21st-feb-2023/
+    
+
+
+---
+
+## 2023-02-17 · Post · "There's no excuse for an exploit, but these things happen." - are you fucking kidding me https://tw
+
+
+### Post — @pcaversaccio — 2023-02-17 15:19 UTC (2023-02-17 16:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626602329595080704
+- Metrics (at fetch): not returned
+
+> "There's no excuse for an exploit, but these things happen." - are you fucking kidding me https://twitter.com/DexibleApp/status/1626577013002670080
+
+**Links in post:** https://twitter.com/DexibleApp/status/1626577013002670080
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1339306228023963655 — 2023-02-17 13:39 UTC (2023-02-17 14:39 WAT)
+    
+    - URL: https://x.com/1339306228023963655/status/1626577013002670080
+    - Metrics (at fetch): not returned
+    
+    > There's no excuse for an exploit, but these things happen. Help us remedy the situation in our Discord where we're chatting with all affected members. Upcoming info will be posted ASAP.
+    >
+    > This is our first of many likely statements. Please ask any questions below or Discord.
+    >
+    > 5/5
+    
+
+
+---
+
+## 2023-02-15 · Post · Ok, I made it into the hall of fame of people who found a (medium severity) issue within @OpenZeppel
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @pcaversaccio — 2023-02-15 18:25 UTC (2023-02-15 19:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1625924340230328320
+- Metrics (at fetch): not returned
+
+> Ok, I made it into the hall of fame of people who found a (medium severity) issue within @OpenZeppelin contracts. To be clear it's an unreleased feature &amp; has already been patched. I'd to thank @OpenZeppelin for the swift &amp; professional comms &amp; @immunefi for the coordination. 🫡 [pic.x.com/7OQwioMiB4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpBwrFrXsAIen7d.png — no alt text provided by author
+
+
+---
+
+## 2023-02-10 · Post · Another read-only reentrancy attack... https://twitter.com/dForcenet/status/1623904209161830401
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-10 07:34 UTC (2023-02-10 08:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1623948627403063297
+- Metrics (at fetch): not returned
+
+> Another read-only reentrancy attack... https://twitter.com/dForcenet/status/1623904209161830401
+
+**Links in post:** https://twitter.com/dForcenet/status/1623904209161830401
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1080347969432432640 — 2023-02-10 04:38 UTC (2023-02-10 05:38 WAT)
+    
+    - URL: https://x.com/1080347969432432640/status/1623904209161830401
+    - Metrics (at fetch): not returned
+    
+    > wstETH/ETH Curve gauge vaults on Arbitrum &amp; Optimism were exploited a few hours ago, and we immediately paused the dForce Vaults - other parts of the protocol remain intact and user funds are SAFE with dForce Lending. 
+    >
+    > We will come back with a detailed report and remedies soon.
+    

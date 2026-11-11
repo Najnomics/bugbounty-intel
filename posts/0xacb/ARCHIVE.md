@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 196
-- Conversations/threads: 181
-- Oldest post captured: 2016-11-12
+- Posts in this file: 199
+- Conversations/threads: 184
+- Oldest post captured: 2014-01-05
 - Newest post captured: 2026-11-05
 
 
@@ -3771,7 +3771,7 @@ Tags (automatic): RCE
     #### Quoted post — @samwcyo — 2019-12-21 18:57 UTC (2019-12-21 19:57 WAT)
     
     - URL: https://x.com/samwcyo/status/1208461516674084867
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 207, impression 0, like 1267, quote 23, reply 27, retweet 467
     
     > New writeup, one of my favorite bugs 🤠 -
     >
@@ -4262,3 +4262,47 @@ Tags (automatic): RCE, Memory corruption / native
 > #bsideslisbon #bsideslisbonctf
 
 **Links in post:** https://abaptista.github.io/2016/11/12/bsides-lisbon-ctf/
+
+
+---
+
+## 2016-10-09 · Post · My writeup for hackover ctf "are_you_serialz" challenge (reverse engineering)
+
+
+### Post — @0xacb — 2016-10-09 21:45 UTC (2016-10-09 22:45 WAT)
+
+- URL: https://x.com/0xacb/status/785234637866098688
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 3
+
+> My writeup for #hackover #ctf "are_you_serialz" challenge (reverse engineering)
+> https://t.co/gG3L1pqdOG
+
+
+---
+
+## 2016-03-03 · Post · SSCTF 2016 Quals HeHeDa (Crypto 100) Writeup: https://t.co/nG7ztLgDDb
+
+
+### Post — @0xacb — 2016-03-03 21:37 UTC (2016-03-03 22:37 WAT)
+
+- URL: https://x.com/0xacb/status/705507308332326912
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> #SSCTF 2016 Quals HeHeDa (Crypto 100) Writeup: https://t.co/nG7ztLgDDb
+
+
+---
+
+## 2014-01-05 · Post · http://t.co/mE5KorMuUC
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @0xacb — 2014-01-05 16:58 UTC (2014-01-05 17:58 WAT)
+
+- URL: https://x.com/0xacb/status/419875510852665344
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> http://t.co/mE5KorMuUC
+> Forgotten router password? Just hack into the router. Amazing #security

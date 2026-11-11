@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 83
-- Conversations/threads: 72
-- Oldest post captured: 2025-08-16
+- Posts in this file: 85
+- Conversations/threads: 74
+- Oldest post captured: 2025-06-14
 - Newest post captured: 2026-11-10
 
 
@@ -1641,3 +1641,38 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
     
     **Quoted post** 1956416634173964695: not readable via the API (deleted, private, or withheld).
     
+
+
+---
+
+## 2025-07-29 · Post · I hacked a popular vibe coding platform with a simple, straight-forward logic flaw - allowing access
+
+
+### Post — @galnagli — 2025-07-29 14:52 UTC (2025-07-29 15:52 WAT)
+
+- URL: https://x.com/galnagli/status/1950207703957016967
+- Metrics (at fetch): not returned
+
+> I hacked a popular vibe coding platform with a simple, straight-forward logic flaw - allowing access to private applications . Here’s how I did it 🧵 [pic.x.com/kyXoJHKsuj]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GxCG7S6XYAA2sYh.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-14 · Post · I vibe coded an AI Agent that got its first bounty for Remote Code Execution last week. live demo be
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @galnagli — 2025-06-14 08:50 UTC (2025-06-14 09:50 WAT)
+
+- URL: https://x.com/galnagli/status/1933809269813694519
+- Metrics (at fetch): not returned
+
+> I vibe coded an AI Agent that got its first bounty for Remote Code Execution last week. live demo below 🧵 [pic.x.com/Q0adY7LLjw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtZD-2IXsAAyiWe.jpg — no alt text provided by author

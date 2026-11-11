@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 51
-- Conversations/threads: 46
-- Oldest post captured: 2026-05-19
+- Posts in this file: 55
+- Conversations/threads: 50
+- Oldest post captured: 2026-02-07
 - Newest post captured: 2026-11-10
 
 
@@ -1060,3 +1060,121 @@ Tags (automatic): XSS
 
 > Reported an important .NET Framework bug to MS but it is outside of bug bounty scope. I guess .NET Framework apps won't receive much love anymore.
 > Not sure how I feel about reporting similar issues in the future. I guess many people do keep them to themselves now.
+
+
+---
+
+## 2026-04-27 · Post · Yes AI can help you finding vulnerabilities but 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-04-27 09:34 UTC (2026-04-27 10:34 WAT)
+
+- URL: https://x.com/irsdl/status/2048697287266775312
+- Metrics (at fetch): not returned
+
+> Yes AI can help you finding vulnerabilities but 
+> PLEASE STOP REPORTING IF YOU KNOW NOTHING ABOUT SECURITY! AT LEAST ASK A BETTER MODEL TO REVERIFY!
+> Bug bounty platforms and companies are suffering and soon triage will be all AI and will reject even valid issues 🤣Taxi drivers...
+
+
+---
+
+## 2026-04-11 · Post · I believe we are still in early phase of AI. I think certain bug classes will be easy to find using 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-04-11 20:00 UTC (2026-04-11 21:00 WAT)
+
+- URL: https://x.com/irsdl/status/2043056657253409280
+- Metrics (at fetch): not returned
+
+> I believe we are still in early phase of AI. I think certain bug classes will be easy to find using AI when there is source code but might be hard in dynamic blackbox test; of course AI can be better and faster in recon but it is not limitless.
+>
+> Bugs coming from new classes or obscure sources or legacy tech or libraries remain too. AI can be used to discover those though new bug classes though.
+>
+> AI will get better to handle large code bases or at dynamic testing. Combination of sast and dast using code, implementation, build process, and threat models is something that requires building even with AI. Whoever can make this better can play the game better. Using different implementations, we can play it differently!
+>
+> Just like humans, the limit will be time and money and viewpoints for now. For sure, AI has changed our jobs.
+
+**Links in post:** https://twitter.com/PaulosYibelo/status/2041865536779239503
+
+**Quoted post (full text):**
+
+    #### Quoted post — @PaulosYibelo — 2026-04-08 13:07 UTC (2026-04-08 14:07 WAT)
+    
+    - URL: https://x.com/PaulosYibelo/status/2041865536779239503
+    - Metrics (at fetch): not returned
+    
+    > For people tweeting "cyber security is dead", are u ok? You think when everyone and everything is about to get hacked and the need for security goes through the roof, you think it's "dead" or "solved"? Bruh
+    >
+    > what it highlights is that security has always been underresourced, not over. Sure your grandma became as good as a professional attacker by simply promoting an llm and that's, granted a scary base entry. What you might not realize is the real determined researcher type attackers just got 1000x more powerful than before. You no longer need to be 20 cracked researchers to zero click RCE an iPhone, you can be one of those guys who is great at one component to be able to build a full chain yourselves. What the mainstream realm seems to not realize is the people who were in the trenches finding the vulns we always knew where there driving these bots will find more mind boggling and complex vulns than your avg hacker. Always been true, will remain true. Look at Poetic, it used particular architrcute bn different LLMs with awesome scaffolding to get Gemini to be 3x better at ARCAGI2.
+    >
+    > Hacking is not going anywhere. Hackers gonna hack. We gonna hack everything including the Mythos Preview, and other huge ais.
+    >
+    > Another important thing to raise, esp for ppl who don't spend their time looking for complex bugs in hyper secure software is, different hackers have always found very very different vulnerabilities. In bug bounty, youd often have situations where after the most talented hackers hacked a program, and being open for years, some completely new guy no one has heard of will show up and RCE the program a million ways. And this happens daily. Sometimes it's because that person knows something the rest of the world doesn't, a quirk they figured how to exploit, perhaps a behavior or a zero day (which bounty programs don't often accept), but oftentimes it has nothing to do with that other than how different that person thinks and approaches problems. Their unique life experience.
+    > People who have hacked for decade+ like me KNOW to the core of their heart vulnerabilities have ALWAYS been there in large numbers, and in large variety in every set of "secure" software known to man. We've always known it's a matter of time until we break any target, and picking from this buffet of targets to optimize for our time's ROI... Not bc we didn't think they aren't there, or that "15 year old code" would never be vulnerable. 15-20 year old code is exploited daily by hackers, just look at the Linux kernel or windows. It is not a metric of "impressive" - Bc what there always was is unique skills and minds, but not enough time to deploy said x thing into the world in mass, the illusion of being secure has existed. And tbh often pentests and red teams rarely needed new techniques or zero days.
+    > These guys who were hacking with their own quirks, who can show up to  mature programs and RCE it a new different way will use the same AI you use to find bugs but find radically different vulns than anything you will find. And there is nothing you can do about it other than cry to your bot. Remember there isn't a finite number of vulns to be found. The chances are there are infinite attack vectors, no I am not exaggerating or using hyperbolic words, it's what I truly believe after hacking for a while. So yes it isn't "solved" by any means, it means you will find ur simple "Claude find me vulns" bugs, and then someone will find something you couldn't even conceptualize, and after all that a bug bounty hunter (or their specialized agent) will show up and still hack you.
+    >
+    > The need for cyber security innovation (not just bug finding) just went through the roof, not less. Time will show I am right that even after Mythos runs on ur code 20 times, you will be surprised you still got hacked. Someone who thinks hacking away or is just going through  a list of checklist of known vulns has never met a hacker. And it shows!
+    
+
+
+---
+
+## 2026-03-23 · Post · If you want to research the Islamic Republic’s cyber army and the pro-regime people who allegedly us
+
+
+### Post — @irsdl — 2026-03-23 22:58 UTC (2026-03-23 23:58 WAT)
+
+- URL: https://x.com/irsdl/status/2036216001704915054
+- Metrics (at fetch): not returned
+
+> If you want to research the Islamic Republic’s cyber army and the pro-regime people who allegedly use special SIM cards to bypass Iran’s internet blackout, someone has put together a list of many of them here. 🔥 https://twitter.com/hhamidia/status/2036001031214014664
+
+**Links in post:** https://twitter.com/hhamidia/status/2036001031214014664
+
+**Quoted post (full text):**
+
+    #### Quoted post — @336906221 — 2026-03-23 08:44 UTC (2026-03-23 09:44 WAT)
+    
+    - URL: https://x.com/336906221/status/2036001031214014664
+    - Metrics (at fetch): not returned
+    
+    > میثم بزرگترین خدمتی که به توییتر فارسی کرده و من ازش خبر دارم تا الان، درست کردن این لیست بوده. شاهدم که سرش چقدر فحش خورد چقدر ریپورت شد چقدر اذیت شد. اما انجامش داد.
+    >
+    > https://x.com/i/lists/1992639069235695952
+    
+    **Links in post:** https://x.com/i/lists/1992639069235695952
+    
+
+
+---
+
+## 2026-02-07 · Post · Every time ransomware or APT gangs weaponize a bug, someone blames the researcher who found or rever
+
+
+### Post — @irsdl — 2026-02-07 18:21 UTC (2026-02-07 19:21 WAT)
+
+- URL: https://x.com/irsdl/status/2020201144518341034
+- Metrics (at fetch): not returned
+
+> Every time ransomware or APT gangs weaponize a bug, someone blames the researcher who found or reversed it. By that logic I’m relieved the bugs I reported on SmarterMail never got used in an attack… but also mildly offended they weren’t good enough &amp; I missed these 😂 https://twitter.com/dinosn/status/2019694674282438736
+
+**Links in post:** https://twitter.com/dinosn/status/2019694674282438736
+
+**Quoted post (full text):**
+
+    #### Quoted post — @128484298 — 2026-02-06 08:48 UTC (2026-02-06 09:48 WAT)
+    
+    - URL: https://x.com/128484298/status/2019694674282438736
+    - Metrics (at fetch): not returned
+    
+    > Critical SmarterMail Vulnerability Exploited in Ransomware Attacks https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/
+    
+    **Links in post:** https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/
+    

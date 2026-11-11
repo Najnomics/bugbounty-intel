@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 178
-- Conversations/threads: 150
-- Oldest post captured: 2026-04-15
+- Posts in this file: 207
+- Conversations/threads: 179
+- Oldest post captured: 2024-11-16
 - Newest post captured: 2026-11-09
 
 
@@ -4430,6 +4430,344 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-05-16 · Post · wait, there is one more paper from few days back called ExploitGym which has very interesting data.
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-05-16 05:56 UTC (2026-05-16 06:56 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2055527765638574454
+- Metrics (at fetch): not returned
+
+> wait, there is one more paper from few days back called ExploitGym which has very interesting data.
+>
+> on kernel tasks, gpt-5.5 + codex cli outperformed claude mythos preview + claude code: 22/193 vs 12/193, but for user and browser exploits mythos is pretty strong.
+>
+> what could be the reason for gpt-5.5 being good at kernel exploit dev?
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HIatE7ubsAAITID.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2055314585058693601
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-05-15 15:49 UTC (2026-05-15 16:49 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2055314585058693601
+    - Metrics (at fetch): not returned
+    
+    > seems twitter missed the ExploitBench paper? few observations:
+    >
+    > we finally got good data on Mythos security capabilities and it's very impressive. 
+    >
+    > Mythos got full exploit chain on 18/41 v8 n-days, while gpt 5.5 only got 1 and open source models are mostly useless. [pic.x.com/n3JSXUewUG]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIXxtyZbsAAUfZI.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-05-15 · Post · seems twitter missed the ExploitBench paper? few observations:
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-05-15 15:49 UTC (2026-05-15 16:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2055314585058693601
+- Metrics (at fetch): not returned
+
+> seems twitter missed the ExploitBench paper? few observations:
+>
+> we finally got good data on Mythos security capabilities and it's very impressive. 
+>
+> Mythos got full exploit chain on 18/41 v8 n-days, while gpt 5.5 only got 1 and open source models are mostly useless. [pic.x.com/n3JSXUewUG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HIXxtyZbsAAUfZI.jpg — no alt text provided by author
+
+
+---
+
+## 2026-05-14 · Post · security research now has this weird incentive where finding the bug is only half the game. the othe
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-05-14 16:34 UTC (2026-05-14 17:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2054963656006533517
+- Metrics (at fetch): not returned
+
+> security research now has this weird incentive where finding the bug is only half the game. the other half is packaging the story as "claude/codex found it" because that’s where all the attention is right now. model providers, with their big accounts and distribution, will push the story for you.
+>
+> it looks win-win. weirdly, the human taste, target selection, hand holding, all get compressed into "the model found it". 
+>
+> frontier model companies happily push that narrative, while the researcher slowly gets devalued.
+
+
+---
+
+## 2026-05-13 · Post · 0 chrome submissions(?), 3 firefox renderer, 1 edge, 2 safari renderer, and exchange/sharepoint each
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-05-13 20:07 UTC (2026-05-13 21:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2054654887456354313
+- Metrics (at fetch): not returned
+
+> 0 chrome submissions(?), 3 firefox renderer, 1 edge, 2 safari renderer, and exchange/sharepoint each.
+>
+> devcore still showing up with multiple submissions in the hard targets, including exchange, sharepoint, and edge, from known names.
+>
+> so why are we not seeing a huge amount of submissions? i think, either:
+>
+> 1. defense got stronger with llms, and software like chrome/firefox is fixing a ton of bugs before they ever reach pwn2own or
+>
+> 2. hacking of complex software is still bottlenecked by a small number of top-tier researchers.
+>
+> i would guess it’s the latter(?).
+>
+> there is no denying the fact that, llms are probably closing some defense gap, but i think that doesn’t mean the asymmetry moved to the defense side and making defense stronger, i still think it’s the usual attacker-favored game.
+>
+> and looking at pwn2own submissions, it seems pretty obvious to me that llms are still only as good as the operator using them.
+>
+> there are only a few people good enough to point them at hard targets properly and use them to actually accelerate research.
+>
+> cuz, if llms were actually giving everyone exploit superpowers to "anyone", you’d expect more people showing up with chrome/exchange/browser-class bugs.
+>
+> instead, what we’re seeing is still mostly people with skin in the game hitting the hard targets.
+>
+> https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2040290546577752360, https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-04-04 04:49 UTC (2026-04-04 05:49 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2040290546577752360
+    - Metrics (at fetch): not returned
+    
+    > this year's pwn2own isn't just interesting because there will be lots of entries with AI+human.
+    >
+    > it is also interesting because 
+    >
+    > a) anthropic burned a ton of tokens on firefox, basically running claude in a loop until it found something for a month, probably exhausting whatever claude can one shot.
+    >
+    > b) if someone submits full chain without much use of ai, it tells you one shotting plateaus and these models are bit like fuzzers than seasoned security reseachers.
+    >
+    > c) even if they used an llm to find the bug, this tells us scaffolding/harnesss design, prompting,  and the operator matters a lot.
+    
+
+
+---
+
+## 2026-05-13 · Post · 0 chrome submissions(?), 3 firefox renderer, 1 edge, 2 safari renderer, and exchange/sharepoint each
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-05-13 20:07 UTC (2026-05-13 21:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2054654782321947119
+- Metrics (at fetch): not returned
+
+> 0 chrome submissions(?), 3 firefox renderer, 1 edge, 2 safari renderer, and exchange/sharepoint each.
+>
+> devcore still showing up with multiple submissions in the hard targets, including exchange, sharepoint, and edge, from known names.
+>
+> so why are we not seeing a huge amount of submissions? i think, either:
+>
+> 1. defense got stronger with llms, and software like chrome/firefox is fixing a ton of bugs before they ever reach pwn2own or
+>
+> 2. hacking of complex software is still bottlenecked by a small number of top-tier researchers.
+>
+> i would guess it’s the latter(?).
+>
+> there is no denying the fact that, llms are probably closing some defense gap, but i think that doesn’t mean the asymmetry moved to the defense side and making defense stronger, i still think it’s the usual attacker-favored game.
+>
+> and looking at pwn2own submissions, it seems pretty obvious to me that llms are still only as good as the operator using them.
+>
+> there are only a few people good enough to point them at hard targets properly and use them to actually accelerate research.
+>
+> cuz, if llms were actually giving everyone exploit superpowers to "anyone", you’d expect more people showing up with chrome/exchange/browser-class bugs.
+>
+> instead, what we’re seeing is still mostly people with skin in the game hitting the hard targets.
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-04-04 04:49 UTC (2026-04-04 05:49 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2040290546577752360
+    - Metrics (at fetch): not returned
+    
+    > this year's pwn2own isn't just interesting because there will be lots of entries with AI+human.
+    >
+    > it is also interesting because 
+    >
+    > a) anthropic burned a ton of tokens on firefox, basically running claude in a loop until it found something for a month, probably exhausting whatever claude can one shot.
+    >
+    > b) if someone submits full chain without much use of ai, it tells you one shotting plateaus and these models are bit like fuzzers than seasoned security reseachers.
+    >
+    > c) even if they used an llm to find the bug, this tells us scaffolding/harnesss design, prompting,  and the operator matters a lot.
+    
+
+
+---
+
+## 2026-05-07 · Post · Next.js v16.2.5 fixes a bunch of vulnerabilities reported by @HacktronAI.
+
+
+Tags (automatic): XSS, SSRF, Path normalization, CSP / CSPT
+
+
+### Post — @S1r1u5_ — 2026-05-07 20:02 UTC (2026-05-07 21:02 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2052479205670359259
+- Metrics (at fetch): not returned
+
+> Next.js v16.2.5 fixes a bunch of vulnerabilities reported by @HacktronAI.
+>
+> Patch ASAP, especially if you’re running self-hosted Next.js that SSRF might affect you
+>
+> CVE-2026-44574: Middleware / Proxy bypass via dynamic route parameter injection
+> CVE-2026-44578: SSRF in applications using WebSocket upgrades
+> CVE-2026-44581: XSS in App Router applications using CSP nonces
+
+
+---
+
+## 2026-05-04 · Post · when react2shell hit last year, i think vercel handled it brilliantly. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-05-04 19:04 UTC (2026-05-04 20:04 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2051377444217913618
+- Metrics (at fetch): not returned
+
+> when react2shell hit last year, i think vercel handled it brilliantly. 
+>
+> to protect their users, they paid $50,000 for every bypass researchers could find. we decided to participate, and ended up earning $170,000.
+>
+> read how we did it here: https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass
+
+**Links in post:** https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass
+
+
+---
+
+## 2026-04-24 · Post · Doing some detection research, anyone have samples (or know a good source) for the malicious payload
+
+
+### Post — @S1r1u5_ — 2026-04-24 19:09 UTC (2026-04-24 20:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2047754860494549300
+- Metrics (at fetch): not returned
+
+> Doing some detection research, anyone have samples (or know a good source) for the malicious payloads from the Ultralytics (8.3.41/42/45/46), tj-actions/changed-files (CVE-2025-30066), and Nx s1ngularity incidents?
+
+
+---
+
+## 2026-04-20 · Post · as per infostealers[.]com, context[.]ai got compromised through a infostealer named lumma stealer, i
+
+
+Tags (automatic): Dependency confusion / supply chain, OAuth, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-20 04:19 UTC (2026-04-20 05:19 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2046081307764265424
+- Metrics (at fetch): not returned
+
+> as per infostealers[.]com, context[.]ai got compromised through a infostealer named lumma stealer, if it is real thats a crazy supply chain attack.
+>
+> i am speculating
+> 1. lumma lands on a context ai dev (phishing or upstream supply chain compromise).
+> 2. attacker recons users of context ai, spots a vercel employe using their app.
+> 3. pivots into that employee's google workspace, grabs the oauth client secret.
+> 4. forges tokens, dumps their drive, or possibly source or some other vercel secrets connected..
+> 5. recon the loot
+> 6. walk into some internal vercel service
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HGUiPxLaAAENmTY.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-16 · Post · this is exact reason why small models are terrible to work with, however good your scaffolding is th
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2026-04-16 18:14 UTC (2026-04-16 19:14 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2044841883218931960
+- Metrics (at fetch): not returned
+
+> this is exact reason why small models are terrible to work with, however good your scaffolding is they mostly don't work.
+>
+> even you generate findings from small model and pass it to big model for validation, would you think that would work? 
+>
+> It’s like reviewing bug bounty reports from someone new who sounds super confident in their hallucinations, the triager just ends up wasting time filtering noise. 
+>
+> and even then, you can’t really assume that throwing enough of these sloppy reporters at the problem will uncover every bug, right?
+>
+> funnily, it might’ve gotten these overconfident hallucinations from hackerone spam reports.
+
+**Links in post:** https://twitter.com/LiveOverflow/status/2044535809903153520
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3094698976 — 2026-04-15 21:58 UTC (2026-04-15 22:58 WAT)
+    
+    - URL: https://x.com/3094698976/status/2044535809903153520
+    - Metrics (at fetch): not returned
+    
+    > Meanwhile local model 🫠 [pic.x.com/OhUGHpkjap] https://twitter.com/S1r1u5_/status/2044532192421023844
+    
+    **Media:**
+    - media `3_2044535733306671106` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/S1r1u5_/status/2044532192421023844
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @S1r1u5_ — 2026-04-15 21:43 UTC (2026-04-15 22:43 WAT)
+        
+        - URL: https://x.com/S1r1u5_/status/2044532192421023844
+        - Metrics (at fetch): not returned
+        
+        > I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
+        >
+        > A week of back-and-forth pulling it out of dead ends. 2.3B tokens. $2,283 in API costs, and it popped a shell.
+        >
+        > https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit
+        
+        **Links in post:** https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit
+        
+    
+
+
+---
+
 ## 2026-04-15 · Post · I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
 
 
@@ -4448,3 +4786,503 @@ Tags (automatic): AI-assisted hunting
 > https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit
 
 **Links in post:** https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit
+
+
+---
+
+## 2026-04-15 · Post · i find it disingenuous to compare few billion parameter models to a 10 trillion parameter model, it 
+
+
+### Post — @S1r1u5_ — 2026-04-15 04:26 UTC (2026-04-15 05:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2044271165762646433
+- Metrics (at fetch): not returned
+
+> i find it disingenuous to compare few billion parameter models to a 10 trillion parameter model, it undermines what's actually coming. 
+>
+> and the argument that defense only needs discovery is fundamentally flawed. people hate semgrep precisely because it stops at discovery and drowns you in noise. 
+>
+> what defenders actually need is a high-signal report with a working exploit they can triage and fix fast. small models won't do shit. they'll give you hundreds of findings you can't prioritize, which is the same problem we already have
+
+
+---
+
+## 2026-04-11 · Post · i find this post a bit incoherent.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2026-04-11 15:23 UTC (2026-04-11 16:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2042986968578167017
+- Metrics (at fetch): not returned
+
+> i find this post a bit incoherent.
+>
+> is hacking not well incentivized? for random software, sure. but for things that matter, like browsers, operating systems, enterprise software, the incentives are great. chrome's bug bounty pays out millions. vr shops pay top dollar. disclosure programs at major companies offer good money although bit pain to go through triaging.
+>
+> and i don't follow the "make hacking legal" part. like responsible disclosure is legal and there are bug bounties or stuff like ZDI. then, which part of making hacking legal suddenly produces more people who can find browser zero days or in linux?
+>
+> i think incentives exist. i think the bottleneck is talent concentration.
+>
+> imo, there aren't enough geohotz who can pop zero days in  targets like v8 or the linux kernel. there are only a few, and even they have limits. hiring takes time, catching up with new codebases takes time, sometimes you spend months with nothing to show for it. 
+>
+> now there's a mini geohot that doesn't sleep, doesn't get tired. tokens in, maybe zero day out. so is there a cyber risk?
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HFojfyKakAE_3BT.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-09 · Post · hi @AnthropicAI, 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-09 17:43 UTC (2026-04-09 18:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2042297244955885832
+- Metrics (at fetch): not returned
+
+> hi @AnthropicAI, 
+>
+> our request to remove claude safeguards was denied. we would really appreciate a reconsider, we're not just any company. mythos access would be great too 😉
+>
+> check the thread for our work securing AI &amp; OSS products like Atlas, Antigravity, Windsurf 🧵👇 [pic.x.com/zqbmQ9NmtA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HFeqnePbQAMPKel.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-08 · Post · FYI, mythos/opus can one shot in a day what I used to take a week to write an exploit. You can proba
+
+
+### Post — @S1r1u5_ — 2026-04-08 07:07 UTC (2026-04-08 08:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2041775002790588528
+- Metrics (at fetch): not returned
+
+> FYI, mythos/opus can one shot in a day what I used to take a week to write an exploit. You can probably pwn most electron apps using opus now! https://twitter.com/S1r1u5_/status/1857841746929172876
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1857841746929172876
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2024-11-16 17:42 UTC (2024-11-16 18:42 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1857841746929172876
+    - Metrics (at fetch): not returned
+    
+    > Tip, pick any electron app out there and write an exploit fo it and you will learn a lot. 
+    >
+    > Stuff I learned while doing this
+    > - v8 inline cache
+    > - a bit of v8 new heap sandbox implementation
+    > - a bit of v8 regexp bytecode interpreter
+    > - ROP chain in MacOS ARM64(kinda complicated than x86)
+    > - ROP chain in Windows x64
+    > - using windbg, lldb, radare2, ROPgadget
+    
+    **Links in post:** https://twitter.com/S1r1u5_/status/1857830830397337912
+    
+    **Quoted post** 1857830830397337912: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-04-08 · Post · it’s not like the models we already have can’t do this. look around infosec twitter, security resear
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-08 04:52 UTC (2026-04-08 05:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2041740841568629217
+- Metrics (at fetch): not returned
+
+> it’s not like the models we already have can’t do this. look around infosec twitter, security researchers have been doing exactly this with current models.
+>
+> the hype around glasswing was crazy though. borderline fearmongering that got everyone losing their minds.
+>
+> calling it now. it’s not going to be as big a jump as opus 4 to opus 4.6. you’re all going to be disappointed when you actually get hands on it. you’re not going to be one-shotting browser-to-kernel end to end, from finding to exploitation, the way most people seem to think.
+>
+> the day claude can find a bug in v8, escape ubercage, break out of the browser sandbox, and escalate to kernel, all in one shot, that’s when we’re done. and i don’t think that’s mythos.
+
+**Links in post:** https://twitter.com/kalomaze/status/2041639260215009355
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1319397157913436163 — 2026-04-07 22:08 UTC (2026-04-07 23:08 WAT)
+    
+    - URL: https://x.com/1319397157913436163/status/2041639260215009355
+    - Metrics (at fetch): not returned
+    
+    > the claude mythos thing where it apparently found a way to get full kernel access via execution of normal javascript on an ordinary web page. dear God
+    
+
+
+---
+
+## 2026-04-07 · Post · Holy!!! 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-07 18:43 UTC (2026-04-07 19:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2041587758972666096
+- Metrics (at fetch): not returned
+
+> Holy!!! 
+>
+> if you're already using claude opus 4.6 for exploit dev, you know how capable it is. if there is no chart crime, the jump to mythos looks crazy! [pic.x.com/laiW8ZPOib]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HFUtOuTa8AEcK_C.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-05 · Post · in chess, the best game engine stockfish can beat magnus all the time, but whatever moves it makes t
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-05 19:51 UTC (2026-04-05 20:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2040880140633407979
+- Metrics (at fetch): not returned
+
+> in chess, the best game engine stockfish can beat magnus all the time, but whatever moves it makes they are not complex to understand in retrospect. 
+>
+> however in Go, the moves alphago makes are straight up incomprehensible to the best of the best Go players, the reason being go search space is astronomically huge, and we are cognitively bounded.
+>
+> So i wonder if the vulnerability space is more like Go or chess. to be a bit egoistic it seems pretty limited to me, and whatever bug any super intelligence can find i would be able to understand, cuz the underlying software isn't complex.
+>
+> but it is perfectly possible that claude 8 or 10 would produce an exploit thats like alphago's move 37 and i aint be understanding shit for like a month.
+
+
+---
+
+## 2026-04-04 · Post · this year's pwn2own isn't just interesting because there will be lots of entries with AI+human.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-04 04:49 UTC (2026-04-04 05:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2040290546577752360
+- Metrics (at fetch): not returned
+
+> this year's pwn2own isn't just interesting because there will be lots of entries with AI+human.
+>
+> it is also interesting because 
+>
+> a) anthropic burned a ton of tokens on firefox, basically running claude in a loop until it found something for a month, probably exhausting whatever claude can one shot.
+>
+> b) if someone submits full chain without much use of ai, it tells you one shotting plateaus and these models are bit like fuzzers than seasoned security reseachers.
+>
+> c) even if they used an llm to find the bug, this tells us scaffolding/harnesss design, prompting,  and the operator matters a lot.
+
+
+---
+
+## 2026-04-02 · Post · it is interesting how dario and anthropic out of all the frontier model companies make the most nois
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-02 04:22 UTC (2026-04-02 05:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2039558971137421498
+- Metrics (at fetch): not returned
+
+> it is interesting how dario and anthropic out of all the frontier model companies make the most noise about cyber espionage and ai risk but still keep claude's guardrails pretty loose.
+>
+> smart marketing move honestly. not sure if it is delibarate, they are basically setting up a narrative where if there's a 0-day it's because of claude, and security researchers are eating it up, making noise left and right with "claude did this, claude did that."  crazy pr, tbh
+>
+> meanwhile openai fumbled the whole thing by going the other way, openai models are par with opus but nerfing their model with insane guardrails that make it barely usable. too bad, there won't be blogs from security researchers that codex wrote a kernel exploit or a vim bug.
+
+
+---
+
+## 2026-03-13 · Post · a hacker uses claude to find a bug -> reports it.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-03-13 20:49 UTC (2026-03-13 21:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2032559691033989197
+- Metrics (at fetch): not returned
+
+> a hacker uses claude to find a bug -> reports it.
+>
+> the triager uses claude to validate it -> confirmed.
+>
+> the developer uses claude to verify, agrees -> patch shipped.
+>
+> and all of them did thier job except it wasn't a vulnerability, there was no job, all of them consulted one oracle to validate the information and had shared psychosis together because their source of information is one in different layers.
+>
+> now apply this everywhere, programming, governemnts, medicine, etc. different people asking the same oracle independently, and all grounding their reality to an LLM. 
+>
+> there is a good chance whole new startups are in this shared delusion spinning out of these llms, even their customers using llm to make their buying decision.
+>
+> we once built religions out of information scarcity. now it seems we have information abundance but lacking comprehension, and we’re building new kind of religions?
+
+
+---
+
+## 2026-02-27 · Post · Developing is constraint solving. Whether it’s an LLM or a human, the task is to make the requiremen
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-02-27 18:32 UTC (2026-02-27 19:32 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2027451847368421396
+- Metrics (at fetch): not returned
+
+> Developing is constraint solving. Whether it’s an LLM or a human, the task is to make the requirements work, ship the feature, pass the tests, satisfy the spec.
+>
+> Hacking on the other hand is opposite. You search for broken assumptions and forbidden states in the negative space which is vast, therefore fundamentally more inference-intensive than programming.
+>
+> Think about why Signal is considered secure. It’s not one brilliant design decision. Every layer of it has had an insane amount of adversarial attention from cryptographers, security auditors, and researchers over years, and its attack surface is relatively narrow compared to something like a web framework. That’s thousands of hours of humans thinking about the negative space of a well-scoped problem. And I’m not saying it’s unbreakable. A nasty bug can still surface when someone throws more inference at the right seam, or when a new feature introduces an interaction nobody expected.
+>
+> When something gets built in a week with AI like vinext, odds are it ships with vulnerabilities, so deploying it blindly on day one is a bad idea. It’s not that “LLM code is bad.” First versions written by humans are just as fragile. In our audits, v1 is almost always the easy target. Now, LLM speed just widens the gap.
+>
+> The partial answer is you need the same kind of AI on the other side, but aimed at the negative space. You can’t brute-force the whole state space, so you rely on heuristics that steer the search into the high-risk areas. And like most inference-heavy problems, it scales with compute, more tokens, more coverage, more bugs.
+>
+> Vibe-coding makes software easier to build. Vibe-hacking doesn’t scale the same way. The more code you ship, the more the search space grows, and you need to throw proportional inference at it. If your adversary has even slightly more resources, odds are they find what you missed.
+
+**Links in post:** https://twitter.com/HacktronAI/status/2027445846200225880
+
+**Quoted post (full text):**
+
+    #### Quoted post — @HacktronAI — 2026-02-27 18:08 UTC (2026-02-27 19:08 WAT)
+    
+    - URL: https://x.com/HacktronAI/status/2027445846200225880
+    - Metrics (at fetch): not returned
+    
+    > Cloudflare built a Next.js replacement in a week with vibe-coding.
+    >
+    > We vibe-hacked and found numerous vulnerabilities,  multiple critical and high severity.
+    >
+    > On Cloudflare Workers, one of the bugs leaks one user's session to another by default.
+    >
+    > http://hacktron.ai/blog/hacking-cloudflare-vinext
+    
+    **Links in post:** http://hacktron.ai/blog/hacking-cloudflare-vinext
+    
+
+
+---
+
+## 2026-02-14 · Post · This is a pretty straight forward Electron misconfig. No navigation handlers, chrome sandbox disable
+
+
+### Post — @S1r1u5_ — 2026-02-14 19:29 UTC (2026-02-14 20:29 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2022755037693554884
+- Metrics (at fetch): not returned
+
+> This is a pretty straight forward Electron misconfig. No navigation handlers, chrome sandbox disabled.
+>
+> So, you just need a frontend bug to navigate somewhere arbitrary, then either chain a V8 exploit or, use app specific exposed IPC, which can just record audio or the screen. [pic.x.com/zXugax4FFf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBJE5LDbwAABtHZ.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-11 · Post · throw enough shit at random software, spray and pray, vulnerabilities will fall out. but it’s not th
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2026-02-11 21:21 UTC (2026-02-11 22:21 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2021696071580496227
+- Metrics (at fetch): not returned
+
+> throw enough shit at random software, spray and pray, vulnerabilities will fall out. but it’s not that easy when the goal is to actually secure your customers. 
+>
+> same story when xbow claimed they were superior and top 1 on hackerone - if that were true they should’ve been printing money securing all the slop out there. it’s not easy to build ai security product that works.
+>
+> regarding the OP, opus 4.6 with basic tool call scaffolding vs the same opus 4.6 with purpose-built scaffolding tailored for vulnerability identification like buttercup or other aixcc final submissions, the latter will mog the basic one. aixcc finals code is open source and its a treasure trove for good ideas.
+
+**Links in post:** https://twitter.com/mattjay/status/2021615920179814753
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15040971 — 2026-02-11 16:02 UTC (2026-02-11 17:02 WAT)
+    
+    - URL: https://x.com/15040971/status/2021615920179814753
+    - Metrics (at fetch): not returned
+    
+    > I'm reaching a freak out moment with AI models and security research. Let me explain. Also have a question for you @dguido 
+    >
+    > 6 months ago, at DEFCON, I saw a competition put on by DARPA to create AI tools that could find and fix security vulnerabilities in open source libraries.
+    >
+    > They picked libraries common in critical infrastructure. @dguido and crew won millions of dollars for their tool Buttercup (https://github.com/trailofbits/buttercup) that performed really well here.
+    >
+    > Now? Opus 4.6 seems to have surpassed that capability with absolutely no special prompting or scaffolding. (https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
+    >
+    > My question - Am I under or overreacting? @dguido I'm curious where things like buttercup still stand or if we're in a whole new universe as of this month.
+    
+    **Media:**
+    - media `3_2021615406260322304` (details not returned by the API)
+    
+    **Links in post:** https://github.com/trailofbits/buttercup, https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting
+    
+
+
+---
+
+## 2026-02-11 · Post · can't tell if linear app has a browser exploit that is crashing my tab or has some memory leak in sh
+
+
+### Post — @S1r1u5_ — 2026-02-11 12:01 UTC (2026-02-11 13:01 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2021555241733550467
+- Metrics (at fetch): not returned
+
+> can't tell if linear app has a browser exploit that is crashing my tab or has some memory leak in shitty react
+
+
+---
+
+## 2026-02-09 · Post · CVE-2026-1731
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2026-02-09 20:26 UTC (2026-02-09 21:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2020957469254746237
+- Metrics (at fetch): not returned
+
+> CVE-2026-1731
+>
+> Last night @rootxharsh and I were driving around Hyderabad, looking at office buildings and checking if we could RCE any of them. Every single building had a company we could potentially pwn. [pic.x.com/qulYzwX8L3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAvgPAZaAAsUt9y.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-06 · Post · good that @rootxharsh and @HacktronAI  found the RCE, that shit is scary if it ends up in the hands 
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2026-02-06 05:10 UTC (2026-02-06 06:10 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2019639941500981702
+- Metrics (at fetch): not returned
+
+> good that @rootxharsh and @HacktronAI  found the RCE, that shit is scary if it ends up in the hands of a bad state actor.
+>
+> glad we coordinated with the team and got it patched ASAP. not naming the state, but this could’ve turned into a serious national-level issue for them.
+
+
+---
+
+## 2026-01-30 · Post · ok, @moltbook is such a cool project.
+
+
+Tags (automatic): XSS, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-01-30 20:17 UTC (2026-01-30 21:17 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2017331350769156242
+- Metrics (at fetch): not returned
+
+> ok, @moltbook is such a cool project.
+>
+> prompt injection is obviously a real issue, both fun and educational to explore.
+>
+> think Samy XSS worm, but for agents: memetic prompt injection that makes agents join cults or do malicious actions. tricky but possible! [pic.x.com/nhIzx3qoTJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_7_anXaYAAPyid.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-30 · Post · wow, this is a great bug.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-01-30 02:28 UTC (2026-01-30 03:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2017062397073379399
+- Metrics (at fetch): not returned
+
+> wow, this is a great bug.
+>
+> a good test for an llm to see if it can write the exploit after initial 4-byte control on chrome image. https://twitter.com/BugsAggregator/status/2016552062289613263
+
+**Links in post:** https://twitter.com/BugsAggregator/status/2016552062289613263
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1755158090360737793 — 2026-01-28 16:40 UTC (2026-01-28 17:40 WAT)
+    
+    - URL: https://x.com/1755158090360737793/status/2016552062289613263
+    - Metrics (at fetch): not returned
+    
+    > [453094710][reward: $250000] Out-of-bound read in the jmp table of ActiveMediaSessionController leads to sandbox escape. 
+    > http://crbug.com/453094710
+    
+    **Links in post:** http://crbug.com/453094710
+    
+
+
+---
+
+## 2024-11-16 · Post · Tip, pick any electron app out there and write an exploit fo it and you will learn a lot. 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2024-11-16 17:42 UTC (2024-11-16 18:42 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1857841746929172876
+- Metrics (at fetch): not returned
+
+> Tip, pick any electron app out there and write an exploit fo it and you will learn a lot. 
+>
+> Stuff I learned while doing this
+> - v8 inline cache
+> - a bit of v8 new heap sandbox implementation
+> - a bit of v8 regexp bytecode interpreter
+> - ROP chain in MacOS ARM64(kinda complicated than x86)
+> - ROP chain in Windows x64
+> - using windbg, lldb, radare2, ROPgadget
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1857830830397337912
+
+**Quoted post** 1857830830397337912: not readable via the API (deleted, private, or withheld).

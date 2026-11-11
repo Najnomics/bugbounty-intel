@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 47
-- Conversations/threads: 41
-- Oldest post captured: 2026-06-02
+- Posts in this file: 57
+- Conversations/threads: 51
+- Oldest post captured: 2021-03-04
 - Newest post captured: 2026-11-09
 
 
@@ -779,3 +779,210 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 > "Testing is sharpened using context from HackerOne's 12+ years of real-world vulnerability data and your prior H1 Bounty findings, so agents know where to focus"
 >
 > this doesn't sound good for us.. maybe we're reading it wrong?
+
+
+---
+
+## 2026-05-07 · Post · Would not be surprised if AI testing becomes a new Hackerone platform standard that companies opt in
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @zseano — 2026-05-07 19:31 UTC (2026-05-07 20:31 WAT)
+
+- URL: https://x.com/zseano/status/2052471306554110316
+- Metrics (at fetch): not returned
+
+> Would not be surprised if AI testing becomes a new Hackerone platform standard that companies opt in or out of 🧐 
+>
+> Get caught using AI? Bye bye bounty. 
+>
+> Interesting times ahead for the industry [pic.x.com/GnhcqFUypY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HHvXxf3XIAAmSyU.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-26 · Post · Worth a read! Very well written and some good points made.
+
+
+### Post — @zseano — 2026-04-26 22:16 UTC (2026-04-26 23:16 WAT)
+
+- URL: https://x.com/zseano/status/2048526729686241711
+- Metrics (at fetch): not returned
+
+> Worth a read! Very well written and some good points made.
+>
+> Bug bounty programs should definitely want to know about bugs affecting *their* customer data, even if they don’t own the code. 
+>
+> As the post says: it’s their brand on the page &amp; their customer data at risk. https://twitter.com/JDonSec/status/2048142715783676398
+
+**Links in post:** https://twitter.com/JDonSec/status/2048142715783676398
+
+**Quoted post (full text):**
+
+    #### Quoted post — @37441489 — 2026-04-25 20:50 UTC (2026-04-25 21:50 WAT)
+    
+    - URL: https://x.com/37441489/status/2048142715783676398
+    - Metrics (at fetch): not returned
+    
+    > Bug bounty programs are killing their own disclosure pipeline.
+    > Real vuln on http://something.org.com → CNAMEs to a vendor → program closes as N/A → bug stays open → breach happens anyway.
+    > Microsoft just reversed this. Most haven't.
+    > https://jdonsec.com/essays/its-your-vendor-its-your-customers-data/
+    
+    **Links in post:** http://something.org.com, https://jdonsec.com/essays/its-your-vendor-its-your-customers-data/
+    
+
+
+---
+
+## 2026-04-08 · Post · Sooooo what’s everyone doing when bug bounties is dead? 😅
+
+
+### Post — @zseano — 2026-04-08 10:06 UTC (2026-04-08 11:06 WAT)
+
+- URL: https://x.com/zseano/status/2041819995814989903
+- Metrics (at fetch): not returned
+
+> Sooooo what’s everyone doing when bug bounties is dead? 😅
+
+
+---
+
+## 2026-04-05 · Post · bug bounty programs don't care if you focus on them
+
+
+### Post — @zseano — 2026-04-05 19:07 UTC (2026-04-05 20:07 WAT)
+
+- URL: https://x.com/zseano/status/2040869010682560531
+- Metrics (at fetch): not returned
+
+> bug bounty programs don't care if you focus on them
+> bug bounty programs don't care if you stop focusing on them
+> you are easily replaced.
+
+
+---
+
+## 2026-04-03 · Post · All adobe hackerone submissions breached ? 😳 big if true.. https://twitter.com/IntCyberDigest/status
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2026-04-03 05:32 UTC (2026-04-03 06:32 WAT)
+
+- URL: https://x.com/zseano/status/2039939087017103699
+- Metrics (at fetch): not returned
+
+> All adobe hackerone submissions breached ? 😳 big if true.. https://twitter.com/IntCyberDigest/status/2039774692085526854
+
+**Links in post:** https://twitter.com/IntCyberDigest/status/2039774692085526854
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1831435289341894656 — 2026-04-02 18:39 UTC (2026-04-02 19:39 WAT)
+    
+    - URL: https://x.com/1831435289341894656/status/2039774692085526854
+    - Metrics (at fetch): not returned
+    
+    > 🚨‼️ BREAKING: Adobe has been breached by threat actor Mr. Raccoon, leaking 13 million support tickets with personal data, 15,000 employee records, all HackerOne submissions, internal documents and more.
+    >
+    > Mr. Raccoon gained access through an Indian BPO, first deploying a remote access tool on an employee, then phishing their manager.
+    >
+    > Mr. Raccoon told us: "They allowed you to export all tickets in one request from an agent."
+    
+    **Media:**
+    - media `3_2039751417704099840` (details not returned by the API)
+    - media `3_2039771690868129792` (details not returned by the API)
+    
+
+
+---
+
+## 2026-03-27 · Post · AI finds the bug
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zseano — 2026-03-27 21:58 UTC (2026-03-27 22:58 WAT)
+
+- URL: https://x.com/zseano/status/2037650383758151982
+- Metrics (at fetch): not returned
+
+> AI finds the bug
+> AI submits the report
+> AI reviews report &amp; validates
+> AI fixes the bug
+> AI pays bounty
+>
+> Coming to a bug bounty near you soon 🫡
+
+
+---
+
+## 2026-03-04 · Post · lol just found an old email from 2015 where i recommended hackerone adds 2fa for researchers. it too
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2026-03-04 19:24 UTC (2026-03-04 20:24 WAT)
+
+- URL: https://x.com/zseano/status/2029276779601399926
+- Metrics (at fetch): not returned
+
+> lol just found an old email from 2015 where i recommended hackerone adds 2fa for researchers. it took them 10 years to make it mandatory [pic.x.com/yqsxC2liSF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HClwM5oWMAEswOP.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HClwZsKa8AAJqJv.png — no alt text provided by author
+
+
+---
+
+## 2026-02-13 · Post · one day we will look back at bug bounty days and think “damn… we had it good”
+
+
+### Post — @zseano — 2026-02-13 21:05 UTC (2026-02-13 22:05 WAT)
+
+- URL: https://x.com/zseano/status/2022416921896063480
+- Metrics (at fetch): not returned
+
+> one day we will look back at bug bounty days and think “damn… we had it good”
+
+
+---
+
+## 2026-02-09 · Post · uh... why are loads of staff leaving hackerone? what's going on?
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2026-02-09 20:52 UTC (2026-02-09 21:52 WAT)
+
+- URL: https://x.com/zseano/status/2020964015728697625
+- Metrics (at fetch): not returned
+
+> uh... why are loads of staff leaving hackerone? what's going on?
+
+
+---
+
+## 2021-03-04 · Post · Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
+
+
+### Post — @zseano — 2021-03-04 23:18 UTC (2021-03-05 00:18 WAT)
+
+- URL: https://x.com/zseano/status/1367615417389379586
+- Metrics (at fetch): bookmark 4, impression 0, like 46, quote 1, reply 4, retweet 6
+
+> Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
+
+**Quoted post** 1367592660253302785: not readable via the API (deleted, private, or withheld).

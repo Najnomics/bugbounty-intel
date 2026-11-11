@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 65
-- Conversations/threads: 59
+- Posts in this file: 70
+- Conversations/threads: 64
 - Oldest post captured: 2021-06-01
 - Newest post captured: 2026-11-04
 
@@ -1012,7 +1012,19 @@ Tags (automatic): AI-assisted hunting
 
 > AI-pentest companies get significant marketing value from publishing findings attributed to their products. In The HTTP Terminator, I’ll include the other side - the techniques and breakthroughs that AI consistently fumbles. https://t.co/pZphBcPXsk
 
-**Quoted post** 2054963656006533517: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-05-14 16:34 UTC (2026-05-14 17:34 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2054963656006533517
+    - Metrics (at fetch): not returned
+    
+    > security research now has this weird incentive where finding the bug is only half the game. the other half is packaging the story as "claude/codex found it" because that’s where all the attention is right now. model providers, with their big accounts and distribution, will push the story for you.
+    >
+    > it looks win-win. weirdly, the human taste, target selection, hand holding, all get compressed into "the model found it". 
+    >
+    > frontier model companies happily push that narrative, while the researcher slowly gets devalued.
+    
 
 
 ---
@@ -1146,6 +1158,99 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
     
     **Links in post:** https://pentesterlab.com/blog/freshrss-bcrypt-truncation-auth-bypass
     
+
+
+---
+
+## 2026-01-02 · Post · Is your motivation to hack dwindling? Simply ask chatgpt to help you, and it'll display an encouragi
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-01-02 15:11 UTC (2026-01-02 16:11 WAT)
+
+- URL: https://x.com/albinowax/status/2007107453092270576
+- Metrics (at fetch): not returned
+
+> Is your motivation to hack dwindling? Simply ask chatgpt to help you, and it'll display an encouraging message! [pic.x.com/SKwqbiAaWM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9qtTwIXkAAPLn8.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-15 · Post · Turbo Intruder now has API docs! You can easily discover its many advanced features including
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2025-12-15 14:06 UTC (2025-12-15 15:06 WAT)
+
+- URL: https://x.com/albinowax/status/2000568228595347734
+- Metrics (at fetch): not returned
+
+> Turbo Intruder now has API docs! You can easily discover its many advanced features including
+> - pauseMarker for pause-basd desync.. or DoS
+> - wordlists.clipboard for lazy attack setup
+> - multi-host attacks
+> - 'randomPlz'
+> ...and many more! Link below -&gt; [pic.x.com/CQFfcbSuFz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G8NkFPcX0AA0iJz.png — no alt text provided by author
+
+
+---
+
+## 2025-11-11 · Post · I've just upgraded Turbo Intruder with a shiny new algorithm called HTTP Anomaly Rank, which automat
+
+
+### Post — @albinowax — 2025-11-11 14:45 UTC (2025-11-11 15:45 WAT)
+
+- URL: https://x.com/albinowax/status/1988256679595532546
+- Metrics (at fetch): not returned
+
+> I've just upgraded Turbo Intruder with a shiny new algorithm called HTTP Anomaly Rank, which automatically finds the most unusual responses in your attack! Here's a quick demo, full details in the writeup below: https://youtu.be/z92GobdN40Y
+
+**Links in post:** https://youtu.be/z92GobdN40Y
+
+
+---
+
+## 2025-10-24 · Post · Google Cloud Platform was vulnerable to a HTTP desync attack leading to "responses being misrouted b
+
+
+Tags (automatic): Request smuggling / desync, AI-assisted hunting
+
+
+### Post — @albinowax — 2025-10-24 13:07 UTC (2025-10-24 14:07 WAT)
+
+- URL: https://x.com/albinowax/status/1981709079740641510
+- Metrics (at fetch): not returned
+
+> Google Cloud Platform was vulnerable to a HTTP desync attack leading to "responses being misrouted between recipients for certain third-party models". Aka your LLM response goes to someone else. The Expect header strikes again! #http1mustdie [pic.x.com/7QqAyjSnc7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4BxuYEWoAA91F9.png — no alt text provided by author
+
+
+---
+
+## 2025-10-20 · Post · HTTP is supposed to be stateless, but sometimes... it isn't! Some servers create invisible vulnerabi
+
+
+### Post — @albinowax — 2025-10-20 12:29 UTC (2025-10-20 13:29 WAT)
+
+- URL: https://x.com/albinowax/status/1980250108336726271
+- Metrics (at fetch): not returned
+
+> HTTP is supposed to be stateless, but sometimes... it isn't! Some servers create invisible vulnerabilities by only validating the first request on each TCP/TLS connection. I've just published a Custom Action to help you detect &amp; exploit this - here's a narrated demo: [pic.x.com/cJxz1fjgLN]
+
+**Media:**
+- video:  — no alt text provided by author
 
 
 ---

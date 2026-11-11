@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 65
-- Conversations/threads: 65
-- Oldest post captured: 2024-03-10
+- Posts in this file: 78
+- Conversations/threads: 78
+- Oldest post captured: 2023-08-18
 - Newest post captured: 2026-10-31
 
 
@@ -1263,3 +1263,243 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GITaf8YWcAAznL_.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-23 · Post · @Bugcrowd  Triaged Speed 🙌🔥 [pic.x.com/wvNft7RUFM]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-02-23 12:36 UTC (2024-02-23 13:36 WAT)
+
+- URL: https://x.com/RootxRavi/status/1761007034319896914
+- Metrics (at fetch): not returned
+
+> @Bugcrowd  Triaged Speed 🙌🔥 [pic.x.com/wvNft7RUFM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GHBaZp-bwAAvXp1.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-05 · Post · Podcast On @BountyAdvice  : Bug Bounty Roast with @krishnsec and @ReebootToInit5
+
+
+### Post — @RootxRavi — 2024-02-05 17:23 UTC (2024-02-05 18:23 WAT)
+
+- URL: https://x.com/RootxRavi/status/1754556474502918293
+- Metrics (at fetch): not returned
+
+> Podcast On @BountyAdvice  : Bug Bounty Roast with @krishnsec and @ReebootToInit5
+
+
+---
+
+## 2024-01-10 · Post · just started working on @recon_sage with @aniket_c333  , a platform to automate all your recon needs
+
+
+### Post — @RootxRavi — 2024-01-10 18:49 UTC (2024-01-10 19:49 WAT)
+
+- URL: https://x.com/RootxRavi/status/1745155825184964625
+- Metrics (at fetch): not returned
+
+> just started working on @recon_sage with @aniket_c333  , a platform to automate all your recon needs 
+> join the waitlist to get notified about early access!
+>
+> [waitlist link in comment]
+> #buildinpublic #security #bugbounty [pic.x.com/WwaJYUoZAe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDgJw8VagAEOCzr.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-31 · Post · Me &amp; @krishnsec earned $$$ for IDOR submission on
+
+
+Tags (automatic): IDOR / BOLA, Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-12-31 17:20 UTC (2023-12-31 18:20 WAT)
+
+- URL: https://x.com/RootxRavi/status/1741509633783832860
+- Metrics (at fetch): not returned
+
+> Me &amp; @krishnsec earned $$$ for IDOR submission on
+> @bugcrowd #ItTakesACrowd 
+> Bug  Name: IDOR allows unauthorized access to another user's profile image on 
+>
+> https://xyz(.)com/api/v4/media/&lt;ID-1111&gt;/profileimage/
+>
+> Simply substitute "ID" with "Victim ID"
+> #BugBounty #security
+
+
+---
+
+## 2023-12-18 · Post · The bounty is on its way! 🤓 @SynackRedTeam @synack
+
+
+### Post — @RootxRavi — 2023-12-18 18:43 UTC (2023-12-18 19:43 WAT)
+
+- URL: https://x.com/RootxRavi/status/1736819616465530888
+- Metrics (at fetch): not returned
+
+> The bounty is on its way! 🤓 @SynackRedTeam @synack
+> #bugbounty #synack #Hacking [pic.x.com/rrBV8xlakG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBpsHkybsAE0r8Y.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-18 · Post · Yay, I was awarded a $$$ bounty on @Hacker0x01! https://hackerone.com/rootxravi TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @RootxRavi — 2023-12-18 15:41 UTC (2023-12-18 16:41 WAT)
+
+- URL: https://x.com/RootxRavi/status/1736773590861718010
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $$$ bounty on @Hacker0x01! https://hackerone.com/rootxravi #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/rootxravi
+
+
+---
+
+## 2023-11-10 · Post · Happy Birthday bhai ❤️❤️💯@krishnsec 
+
+
+### Post — @RootxRavi — 2023-11-10 21:34 UTC (2023-11-10 22:34 WAT)
+
+- URL: https://x.com/RootxRavi/status/1723091890428666154
+- Metrics (at fetch): bookmark 3, impression 8006, like 55, quote 0, reply 11, retweet 1
+
+> Happy Birthday bhai ❤️❤️💯@krishnsec 
+>
+> Thanks for supporting and motivating me in Bug bounty 
+>
+> #brocode #p4lover 😹 https://t.co/oFY9d1hLXr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-mm72yaQAAnL1H.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-28 · Post · Greetings, fellow hackers!
+
+
+### Post — @RootxRavi — 2023-10-28 14:44 UTC (2023-10-28 15:44 WAT)
+
+- URL: https://x.com/RootxRavi/status/1718277477213376562
+- Metrics (at fetch): bookmark 1, impression 2171, like 9, quote 0, reply 1, retweet 0
+
+> Greetings, fellow #hackers!
+> I'm looking for some exceptional #BugBounty write-ups to enhance my understanding as I prepare for my upcoming bug bounty endeavors. Please share your unique findings and insights with me.
+
+
+---
+
+## 2023-09-22 · Post · I love the program which gives bounty for P5😋
+
+
+### Post — @RootxRavi — 2023-09-22 19:06 UTC (2023-09-22 20:06 WAT)
+
+- URL: https://x.com/RootxRavi/status/1705297434732265564
+- Metrics (at fetch): bookmark 0, impression 3699, like 17, quote 0, reply 1, retweet 0
+
+> I love the program which gives bounty for P5😋
+>
+> #bugbounty
+
+
+---
+
+## 2023-09-22 · Post · 3 RCE on the VDP program 
+
+
+Tags (automatic): RCE
+
+
+### Post — @RootxRavi — 2023-09-22 12:39 UTC (2023-09-22 13:39 WAT)
+
+- URL: https://x.com/RootxRavi/status/1705200161637662945
+- Metrics (at fetch): bookmark 79, impression 25096, like 193, quote 0, reply 11, retweet 42
+
+> 3 RCE on the VDP program 
+>
+> - Found that the website  is using the Oracle WebLogic Server
+> - Nuclei template  used: CVE-2019-2729.yaml
+> - For exploitation: https://t.co/7T6LiYxLFs
+>
+> #BugBounty #bugbountytips #bugbountytip https://t.co/4u963aiY2f
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6oUivWbYAEzVQa.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F6oWCgxaQAA2su-.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-01 · Post · In August Submitted 44 vulnerabilities on @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-09-01 14:25 UTC (2023-09-01 15:25 WAT)
+
+- URL: https://x.com/RootxRavi/status/1697616746386243862
+- Metrics (at fetch): bookmark 1, impression 3290, like 33, quote 0, reply 6, retweet 0
+
+> In August Submitted 44 vulnerabilities on @Bugcrowd 
+> and rewarded $$$$ 
+>
+> #BugBounty
+
+
+---
+
+## 2023-08-20 · Post · Thank you @Bugcrowd 🤩
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-08-20 12:01 UTC (2023-08-20 13:01 WAT)
+
+- URL: https://x.com/RootxRavi/status/1693231683380941195
+- Metrics (at fetch): bookmark 5, impression 21226, like 192, quote 0, reply 28, retweet 3
+
+> Thank you @Bugcrowd 🤩
+>
+> #BugBounty #Security https://t.co/hiYJ3V3AAa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3-RO6xXcAE6UY5.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-18 · Post · which one is good for Bug bounty ? 
+
+
+### Post — @RootxRavi — 2023-08-18 14:10 UTC (2023-08-18 15:10 WAT)
+
+- URL: https://x.com/RootxRavi/status/1692539562034352575
+- Metrics (at fetch): bookmark 7, impression 18947, like 36, quote 1, reply 37, retweet 0
+
+> which one is good for Bug bounty ? 
+>
+> MAC or Windows?

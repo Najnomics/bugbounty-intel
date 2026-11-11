@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 41
-- Conversations/threads: 41
-- Oldest post captured: 2023-07-16
+- Posts in this file: 60
+- Conversations/threads: 60
+- Oldest post captured: 2023-03-20
 - Newest post captured: 2026-11-05
 
 
@@ -1002,3 +1002,424 @@ Tags (automatic): Smart contract / DeFi
 **Links in post:** https://twitter.com/cuffyCapital/status/1680529680410071044
 
 **Quoted post** 1680529680410071044: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-06-28 · Post · . @Aptos_Network just launched a novel approach to storage: Move Objects.
+
+
+### Post — @osec_io — 2023-06-28 17:11 UTC (2023-06-28 18:11 WAT)
+
+- URL: https://x.com/osec_io/status/1674103113576513537
+- Metrics (at fetch): not returned
+
+> . @Aptos_Network just launched a novel approach to storage: Move Objects.
+>
+> Working closely with both Aptos projects and the Foundation, our auditors have caught dozens of bugs before they hit mainnet.
+>
+> Here are 3 key security tips to help you launch safely 🧵
+
+
+---
+
+## 2023-06-02 · Post · A huge congratulations to our partners at @elusivprivacy! We look forward to their ongoing journey o
+
+
+Tags (automatic): ZK
+
+
+### Post — @osec_io — 2023-06-02 21:31 UTC (2023-06-02 22:31 WAT)
+
+- URL: https://x.com/osec_io/status/1664746524360978433
+- Metrics (at fetch): not returned
+
+> A huge congratulations to our partners at @elusivprivacy! We look forward to their ongoing journey of providing ZK-privacy tooling across ecosystems  🤫 https://twitter.com/Arcium/status/1664632553318359040
+
+**Links in post:** https://twitter.com/Arcium/status/1664632553318359040
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1479048649661464581 — 2023-06-02 13:58 UTC (2023-06-02 14:58 WAT)
+    
+    - URL: https://x.com/1479048649661464581/status/1664632553318359040
+    - Metrics (at fetch): not returned
+    
+    > We are excited to announce the launch of the Elusiv SDK on @solana  Mainnet! ☂️🔥
+    >
+    > This marks a new beginning for the Solana ecosystem, bringing programmable ZK-privacy to the best developers in the space.
+    >
+    > For more details, dive in here 👇 [pic.x.com/6ITGkgYYbx]
+    
+    **Media:**
+    - media `7_1664627327488196609` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-17 · Post · 🗣️ZK-Security panel moderated by @claudijd of @jump_. 
+
+
+Tags (automatic): ZK
+
+
+### Post — @osec_io — 2023-05-17 01:55 UTC (2023-05-17 02:55 WAT)
+
+- URL: https://x.com/osec_io/status/1658652433529151489
+- Metrics (at fetch): not returned
+
+> 🗣️ZK-Security panel moderated by @claudijd of @jump_. 
+>
+> Accompanied by Founder @NotDeGhost, @mpfzajac, and @evanashapiro with @MinaProtocol, all on one stage at @thepit. 🦦🕳️ [pic.x.com/Oj07erxiVh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwS3mEqXoAArGMn.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-16 · Post · Ω 🤝 🦦
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-05-16 16:00 UTC (2023-05-16 17:00 WAT)
+
+- URL: https://x.com/osec_io/status/1658502687602937856
+- Metrics (at fetch): not returned
+
+> Ω 🤝 🦦
+>
+> Olympus is building $OHM, DeFi’s decentralized reserve currency, and @osec_io keeps this vision secure.
+>
+> We’re proud to announce the completion of our @OlympusDAO audit! [pic.x.com/SJxKdCScdI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwQuHyQagAAeNZY.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-08 · Post · Security is always evolving.
+
+
+### Post — @osec_io — 2023-05-08 01:29 UTC (2023-05-08 02:29 WAT)
+
+- URL: https://x.com/osec_io/status/1655384315868622849
+- Metrics (at fetch): not returned
+
+> Security is always evolving.
+>
+> If you stop learning, you expose yourself to vulnerabilities.  Let’s explore two of the newest mitigation technique on the block: 🧵 [pic.x.com/T6DxEPRJu9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvkbQo2aEAA0qJB.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-04 · Post · Oracle attacks are responsible for over $590M in smart contract exploits.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-05-04 02:33 UTC (2023-05-04 03:33 WAT)
+
+- URL: https://x.com/osec_io/status/1653950963584229376
+- Metrics (at fetch): not returned
+
+> Oracle attacks are responsible for over $590M in smart contract exploits.
+>
+> But oracle security is largely seen as a black box.
+>
+> We’ve been busy helping protocols develop new risk mitigation techniques to keep users safe. 
+>
+> An otter’s guide to preventing oracle attacks 🧵 [pic.x.com/TEGESQMY6Z]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvQDojqakAUh2DL.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-27 · Post · Hackers stole $44.6M this month.  The best threads to understand each exploit: [pic.x.com/G7utMRlaCd
+
+
+### Post — @osec_io — 2023-04-27 16:19 UTC (2023-04-27 17:19 WAT)
+
+- URL: https://x.com/osec_io/status/1651622005588762625
+- Metrics (at fetch): not returned
+
+> Hackers stole $44.6M this month.  The best threads to understand each exploit: [pic.x.com/G7utMRlaCd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fuu9dTXWYAAeVWP.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-18 · Post · We’ve spent hundreds of hours auditing Solana protocols.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-18 21:10 UTC (2023-04-18 22:10 WAT)
+
+- URL: https://x.com/osec_io/status/1648433824009949185
+- Metrics (at fetch): not returned
+
+> We’ve spent hundreds of hours auditing Solana protocols.
+>
+> There are several unique aspects of Rust that developers should keep in mind to write secure contracts.
+>
+> An otter’s complete guide to Rust 🧵 🦦 [pic.x.com/XG3VbVtmfe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FuBp04dWYAALUMQ.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-13 · Post · .@iearnfinance was just hacked for over $10M. Here's what we know. 🧵 [pic.x.com/VHset60Yi1]
+
+
+### Post — @osec_io — 2023-04-13 07:15 UTC (2023-04-13 08:15 WAT)
+
+- URL: https://x.com/osec_io/status/1646411672175939585
+- Metrics (at fetch): not returned
+
+> .@iearnfinance was just hacked for over $10M. Here's what we know. 🧵 [pic.x.com/VHset60Yi1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ftk6ejoaQAE0u8Y.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-09 · Post · .@SushiSwap's RouteProcessor2 contract was recently hacked. Let's dive into what happened. 🧵
+
+
+### Post — @osec_io — 2023-04-09 05:53 UTC (2023-04-09 06:53 WAT)
+
+- URL: https://x.com/osec_io/status/1644941553801076738
+- Metrics (at fetch): not returned
+
+> .@SushiSwap's RouteProcessor2 contract was recently hacked. Let's dive into what happened. 🧵
+>
+> https://etherscan.io/address/0x044b75f554b886a065b9567891e45c79542d7357 [pic.x.com/6shfbY0hol]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtQBmY1X0AA0rQD.jpg — no alt text provided by author
+
+**Links in post:** https://etherscan.io/address/0x044b75f554b886a065b9567891e45c79542d7357
+
+
+---
+
+## 2023-04-07 · Post · Going live in 50 minutes! 
+
+
+Tags (automatic): ZK, AI-assisted hunting
+
+
+### Post — @osec_io — 2023-04-07 17:10 UTC (2023-04-07 18:10 WAT)
+
+- URL: https://x.com/osec_io/status/1644387061992914945
+- Metrics (at fetch): not returned
+
+> Going live in 50 minutes! 
+>
+> Join us while we chat with the teams from @switchboardxyz and @CelestiaOrg about:
+>
+> - Market conditions
+> - AI + price feeds
+> - ZK technology https://twitter.com/osec_io/status/1644061253013327872
+
+**Links in post:** https://twitter.com/osec_io/status/1644061253013327872
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2023-04-06 19:35 UTC (2023-04-06 20:35 WAT)
+    
+    - URL: https://x.com/osec_io/status/1644061253013327872
+    - Metrics (at fetch): not returned
+    
+    > 🚨Join us for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, liquidity, and the security that lies therein.🚨
+    >
+    > Excited to chat with @DoctorBlocks,  @colludingnode, @0xYankee, and @gallynaut. 
+    >
+    > See you there 🦦🕰️
+    > https://x.com/i/spaces/1OwGWwEvzaqGQ
+    
+    **Links in post:** https://x.com/i/spaces/1OwGWwEvzaqGQ
+    
+
+
+---
+
+## 2023-04-06 · Post · 🚨Join us for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, liq
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-06 19:35 UTC (2023-04-06 20:35 WAT)
+
+- URL: https://x.com/osec_io/status/1644061253013327872
+- Metrics (at fetch): not returned
+
+> 🚨Join us for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, liquidity, and the security that lies therein.🚨
+>
+> Excited to chat with @DoctorBlocks,  @colludingnode, @0xYankee, and @gallynaut. 
+>
+> See you there 🦦🕰️
+> https://x.com/i/spaces/1OwGWwEvzaqGQ
+
+**Links in post:** https://x.com/i/spaces/1OwGWwEvzaqGQ
+
+
+---
+
+## 2023-04-04 · Post · Hackers stole $214M last month. 
+
+
+### Post — @osec_io — 2023-04-04 17:40 UTC (2023-04-04 18:40 WAT)
+
+- URL: https://x.com/osec_io/status/1643307458578767894
+- Metrics (at fetch): not returned
+
+> Hackers stole $214M last month. 
+>
+> A summary of March’s seven biggest exploits 🧵: [pic.x.com/6F4hwk7oc4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fs4za7QWYA47Bev.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-03 · Post · A large MEV bot was recently hacked for almost 20M. It all happened in one block. 
+
+
+### Post — @osec_io — 2023-04-03 08:10 UTC (2023-04-03 09:10 WAT)
+
+- URL: https://x.com/osec_io/status/1642801619505913856
+- Metrics (at fetch): not returned
+
+> A large MEV bot was recently hacked for almost 20M. It all happened in one block. 
+>
+> Here's what we know 🧵 [pic.x.com/e0holhINDo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsxjzmOWcAE_toe.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-31 · Post · Cega brings you safer yields in a volatile market, @osec_io brings you safety. 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-03-31 16:05 UTC (2023-03-31 17:05 WAT)
+
+- URL: https://x.com/osec_io/status/1641834128776601601
+- Metrics (at fetch): not returned
+
+> Cega brings you safer yields in a volatile market, @osec_io brings you safety. 
+>
+> We're proud to announce the conclusion of our audit of @cega_fi's smart contracts!
+>
+> Code quality was high, no critical vulnerabilities were identified, and all recommendations were patched. [pic.x.com/vXBXDG9OFq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fsj3b22WwAMWRcp.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-31 · Post · 1/
+
+
+### Post — @osec_io — 2023-03-31 13:01 UTC (2023-03-31 14:01 WAT)
+
+- URL: https://x.com/osec_io/status/1641787836184788993
+- Metrics (at fetch): not returned
+
+> 1/
+> @BloctoApp is #BUIDLing an ecosystems for billions.
+>
+> We’re securing it.🔒💪
+>
+> 📣 Proud to announce that we have completed the audit for Blocto’s Teleport program!
+> And s/o to the team for being responsive and knowledgeable throughout the audit.
+>
+> 🧵⬇️
+> #BUIDLwithBlocto [pic.x.com/B2ItpV8RZb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsjMbLSaEAI7_zQ.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-22 · Post · Gray-hat hackers are tricky to deal with and abundant in crypto. 
+
+
+### Post — @osec_io — 2023-03-22 15:09 UTC (2023-03-22 16:09 WAT)
+
+- URL: https://x.com/osec_io/status/1638558436160946177
+- Metrics (at fetch): not returned
+
+> Gray-hat hackers are tricky to deal with and abundant in crypto. 
+>
+> Not knowing how to to deal with them can leave your protocol vulnerable to blackmail or a critical exploit. 
+>
+> How to best approach “gray-hats” 🧵: [pic.x.com/HPEjyxA3NC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fr1UNkHX0AEOCHN.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-21 · Post · We caught over $840M in critical exploits over the last 12 months. How? 
+
+
+### Post — @osec_io — 2023-03-21 14:25 UTC (2023-03-21 15:25 WAT)
+
+- URL: https://x.com/osec_io/status/1638185018336989186
+- Metrics (at fetch): not returned
+
+> We caught over $840M in critical exploits over the last 12 months. How? 
+>
+> One audit at a time. 
+> Line by line. 
+> Day by day. 
+> For 12 months.
+> 🦦
+
+
+---
+
+## 2023-03-20 · Post · We’ve audited 60+ leading protocols. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-03-20 17:32 UTC (2023-03-20 18:32 WAT)
+
+- URL: https://x.com/osec_io/status/1637869832824578050
+- Metrics (at fetch): not returned
+
+> We’ve audited 60+ leading protocols. 
+>
+> Yet 66% of audits contain at least one critical vulnerability. 
+>
+> Why blockchain security is so difficult for world-class teams:

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 35
-- Conversations/threads: 35
-- Oldest post captured: 2023-07-31
+- Posts in this file: 42
+- Conversations/threads: 42
+- Oldest post captured: 2023-02-14
 - Newest post captured: 2026-04-17
 
 
@@ -758,3 +758,168 @@ Tags (automatic): Smart contract / DeFi
 >
 > Ends Aug 3rd 12:00 CET 
 > #defcon31 #DEFCON
+
+
+---
+
+## 2023-06-16 · Post · 🔐 Learn how to "Hack Cryptography" in our intense 2-day training at @defcon this year
+
+
+### Post — @Neodyme — 2023-06-16 15:17 UTC (2023-06-16 16:17 WAT)
+
+- URL: https://x.com/Neodyme/status/1669726003864715264
+- Metrics (at fetch): not returned
+
+> 🔐 Learn how to "Hack Cryptography" in our intense 2-day training at @defcon this year
+>
+> You will learn all about common mistakes made in cryptographic implementations and how they can be broken.
+>
+> Secure  your spot today!
+>
+> 📅 August 14th - 15th
+> 📍Las Vegas
+>
+> https://training.defcon.org/products/ruben-gonzalez-hacking-cryptography
+
+**Links in post:** https://training.defcon.org/products/ruben-gonzalez-hacking-cryptography
+
+
+---
+
+## 2023-06-10 · Post · &gt; tfw you audit Solana so well, the SEC considers it "security" [pic.x.com/cRe1fwH6eV] https://tw
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-06-10 19:57 UTC (2023-06-10 20:57 WAT)
+
+- URL: https://x.com/Neodyme/status/1667622139577479168
+- Metrics (at fetch): not returned
+
+> &gt; tfw you audit Solana so well, the SEC considers it "security" [pic.x.com/cRe1fwH6eV] https://twitter.com/SolanaFndn/status/1667578529612017666
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FySU4NJWcAMTUnX.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/SolanaFndn/status/1667578529612017666
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1407411848446611459 — 2023-06-10 17:04 UTC (2023-06-10 18:04 WAT)
+    
+    - URL: https://x.com/1407411848446611459/status/1667578529612017666
+    - Metrics (at fetch): not returned
+    
+    > The Solana Foundation disagrees with the characterization of SOL as a security. We welcome the continued engagement of policymakers as constructive partners on regulation to achieve legal clarity on these issues for the thousands of entrepreneurs across the U.S. building in the digital assets space.
+    >
+    > The Solana builder community is the strongest in the industry, and continues to build exceptional projects and products. The Solana Foundation remains committed to those building for the long-haul to continue to create the best blockchain for a decentralized future.
+    
+
+
+---
+
+## 2023-06-09 · Post · Today at HackerHouseNYC, @r0bre will teach you how to kick greg out of your 5:5 multisig 👀
+
+
+### Post — @Neodyme — 2023-06-09 16:22 UTC (2023-06-09 17:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1667205466831634434
+- Metrics (at fetch): not returned
+
+> Today at #HackerHouseNYC, @r0bre will teach you how to kick greg out of your 5:5 multisig 👀
+>
+> (Every Vote Counts: How to Hack a DAO. 2pm) [pic.x.com/4HJGqOotm0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FyMaP0tXgAQQ8in.png — no alt text provided by author
+
+
+---
+
+## 2023-05-13 · Post · When CS:GO clients connected to our server, they got more than a game. We found 3 RCE vulnerabilitie
+
+
+Tags (automatic): RCE
+
+
+### Post — @Neodyme — 2023-05-13 17:21 UTC (2023-05-13 18:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1657435811409788928
+- Metrics (at fetch): not returned
+
+> When CS:GO clients connected to our server, they got more than a game. We found 3 RCE vulnerabilities to give clients an unexpected 'welcome'.
+> Ready for a deep-dive? 🎮🔧🎆
+>
+> https://neodyme.io/blog/csgo_from_zero_to_0day/ #InfoSec #CSGO #Exploit
+
+**Links in post:** https://neodyme.io/blog/csgo_from_zero_to_0day/
+
+
+---
+
+## 2023-03-10 · Post · Total Loss of Funds
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-03-10 19:24 UTC (2023-03-10 20:24 WAT)
+
+- URL: https://x.com/Neodyme/status/1634274062796050435
+- Metrics (at fetch): not returned
+
+> Total Loss of Funds
+>
+> The story of Solana's highest-severity bug -- and how we found it back in late 2020. 
+>
+> Among other things, it allowed us to: 
+> - Mint or steal any amount of any token
+> - Modify any NFT
+> - Delete liabilities in any lending protocol
+>
+> https://neodyme.io/blog/nonce-upon-a-time/
+
+**Links in post:** https://neodyme.io/blog/nonce-upon-a-time/
+
+
+---
+
+## 2023-02-23 · Post · Indirect smart contract risk doesn't get enough attention.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @Neodyme — 2023-02-23 11:44 UTC (2023-02-23 12:44 WAT)
+
+- URL: https://x.com/Neodyme/status/1628722383350800385
+- Metrics (at fetch): not returned
+
+> Indirect smart contract risk doesn't get enough attention.
+>
+> Your contract doesn't need to have a bug to be exploited.
+>
+> 🧵👇
+
+
+---
+
+## 2023-02-14 · Post · ➡️ Training: Hacking Cryptography
+
+
+### Post — @Neodyme — 2023-02-14 10:41 UTC (2023-02-14 11:41 WAT)
+
+- URL: https://x.com/Neodyme/status/1625445238407069696
+- Metrics (at fetch): not returned
+
+> ➡️ Training: Hacking Cryptography
+> Cryptography is hard and error prone.
+>
+> 🧠 Learn how to exploit cryptography and how to properly use it to defend yourself! 🧠
+>
+> Join us at @HITBSecConf for the onsite training!
+>  📅17th - 19th April
+> 📍Amsterdam https://conference.hitb.org/hitbsecconf2023ams/product/hacking-cryptography-hitb2023ams/
+
+**Links in post:** https://conference.hitb.org/hitbsecconf2023ams/product/hacking-cryptography-hitb2023ams/
