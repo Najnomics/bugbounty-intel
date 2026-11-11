@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 200
-- Conversations/threads: 188
-- Oldest post captured: 2011-03-15
+- Posts in this file: 286
+- Conversations/threads: 274
+- Oldest post captured: 2010-10-08
 - Newest post captured: 2026-11-09
 
 
@@ -2931,6 +2931,113 @@ Tags (automatic): XSS
 
 ---
 
+## 2023-01-16 · Post · Who found that Chrome had the autofocus on any tag behaviour first for the purpose of XSS payloads? 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2023-01-16 11:58 UTC (2023-01-16 12:58 WAT)
+
+- URL: https://x.com/garethheyes/status/1614955189651533824
+- Metrics (at fetch): bookmark 1, impression 6442, like 16, quote 0, reply 3, retweet 3
+
+> Who found that Chrome had the autofocus on any tag behaviour first for the purpose of XSS payloads? I found button had autofocus back in 2015 but not every tag.
+
+
+---
+
+## 2023-01-10 · Post · This technique and many more inside javascriptforhackers 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2023-01-10 17:33 UTC (2023-01-10 18:33 WAT)
+
+- URL: https://x.com/garethheyes/status/1612865325141487616
+- Metrics (at fetch): bookmark 11, impression 4875, like 24, quote 0, reply 0, retweet 5
+
+> This technique and many more inside #javascriptforhackers 
+>
+> &lt;xss style="transition:outline 1s" onwebkittransitionend=alert(1) tabindex=1 autofocus&gt;&lt;/xss&gt;
+>
+> https://t.co/zBSnLXfKSz
+
+**Quoted post (full text):**
+
+    #### Quoted post — @garethheyes — 2022-12-22 15:00 UTC (2022-12-22 16:00 WAT)
+    
+    - URL: https://x.com/garethheyes/status/1605941230306660355
+    - Metrics (at fetch): bookmark 234, impression 141065, like 657, quote 13, reply 35, retweet 190
+    
+    > Want to know how I approach research? I've written a new ebook called #javascriptforhackers. Learn about DOM hacking, DOM clobbering, prototype pollution, how to fuzz JavaScript to find new behaviours and much more!
+    >
+    > https://t.co/AY6NJ6Xs8y
+    
+
+
+---
+
+## 2022-12-22 · Post · Want to know how I approach research? I've written a new ebook called javascriptforhackers. Learn a
+
+
+### Post — @garethheyes — 2022-12-22 15:00 UTC (2022-12-22 16:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1605941230306660355
+- Metrics (at fetch): bookmark 234, impression 141065, like 657, quote 13, reply 35, retweet 190
+
+> Want to know how I approach research? I've written a new ebook called #javascriptforhackers. Learn about DOM hacking, DOM clobbering, prototype pollution, how to fuzz JavaScript to find new behaviours and much more!
+>
+> https://t.co/AY6NJ6Xs8y
+
+
+---
+
+## 2022-09-16 · Post · When DOM Invader reports a high web message vuln, this means it's already done a test with the fake 
+
+
+### Post — @garethheyes — 2022-09-16 13:54 UTC (2022-09-16 14:54 WAT)
+
+- URL: https://x.com/garethheyes/status/1570773185905463299
+- Metrics (at fetch): bookmark 9, impression 0, like 23, quote 0, reply 2, retweet 2
+
+> When DOM Invader reports a high web message vuln, this means it's already done a test with the fake origin. If you can execute JavaScript within the test window but it fails when saving a PoC this is probably an indicator that there is a origin check. A good tip is to use 1/2
+
+
+---
+
+## 2022-09-16 · Post · Just found two separate DOM XSS via web message using DOM Invader on a major brand. 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2022-09-16 12:02 UTC (2022-09-16 13:02 WAT)
+
+- URL: https://x.com/garethheyes/status/1570744903914885120
+- Metrics (at fetch): bookmark 15, impression 0, like 44, quote 0, reply 0, retweet 10
+
+> Just found two separate DOM XSS via web message using DOM Invader on a major brand. 
+>
+> https://t.co/YJE19VWxr3
+
+
+---
+
+## 2022-06-30 · Post · Haha gutted I missed this one https://t.co/xBIYZZXUCn I shouldn't have stopped testing when finding 
+
+
+### Post — @garethheyes — 2022-06-30 09:01 UTC (2022-06-30 10:01 WAT)
+
+- URL: https://x.com/garethheyes/status/1542433172721438722
+- Metrics (at fetch): bookmark 3, impression 0, like 7, quote 0, reply 0, retweet 1
+
+> Haha gutted I missed this one https://t.co/xBIYZZXUCn I shouldn't have stopped testing when finding a bug!
+
+
+---
+
 ## 2020-12-15 · Post · Fixed dark mode
 
 
@@ -3337,6 +3444,333 @@ Tags (automatic): XSS
 
 ---
 
+## 2019-05-22 · Post · A good thread on XSS/Unusual JavaScript on slackers back in the day https://web.archive.org/web/2014
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2019-05-22 11:58 UTC (2019-05-22 12:58 WAT)
+
+- URL: https://x.com/garethheyes/status/1131167417185517568
+- Metrics (at fetch): not returned
+
+> A good thread on XSS/Unusual JavaScript on slackers back in the day https://web.archive.org/web/20140308010813/http://sla.ckers.org:80/forum/read.php?2,15812,page=1
+
+**Links in post:** https://web.archive.org/web/20140308010813/http://sla.ckers.org:80/forum/read.php?2,15812,page=1
+
+
+---
+
+## 2019-05-15 · Post · I wrote up my XSS without parentheses and semi-colons research https://twitter.com/Burp_Suite/status
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2019-05-15 14:57 UTC (2019-05-15 15:57 WAT)
+
+- URL: https://x.com/garethheyes/status/1128675830702456832
+- Metrics (at fetch): not returned
+
+> I wrote up my XSS without parentheses and semi-colons research https://twitter.com/Burp_Suite/status/1128674917229240321
+
+**Links in post:** https://twitter.com/Burp_Suite/status/1128674917229240321
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2216306262 — 2019-05-15 14:54 UTC (2019-05-15 15:54 WAT)
+    
+    - URL: https://x.com/2216306262/status/1128674917229240321
+    - Metrics (at fetch): not returned
+    
+    > Blog post: XSS without parentheses and semi-colons by @garethheyes
+    >
+    > https://portswigger.net/blog/xss-without-parentheses-and-semi-colons
+    
+    **Links in post:** https://portswigger.net/blog/xss-without-parentheses-and-semi-colons
+    
+
+
+---
+
+## 2019-05-04 · Post · JQuery mobile XSS https://gist.github.com/jupenur/e5d0c6f9b58aa81860bf74e010cf1685
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2019-05-04 14:37 UTC (2019-05-04 15:37 WAT)
+
+- URL: https://x.com/garethheyes/status/1124684428528291841
+- Metrics (at fetch): not returned
+
+> JQuery mobile XSS https://gist.github.com/jupenur/e5d0c6f9b58aa81860bf74e010cf1685
+
+**Links in post:** https://gist.github.com/jupenur/e5d0c6f9b58aa81860bf74e010cf1685
+
+
+---
+
+## 2019-04-18 · Post · RCE via AngularJS sandbox escape https://blog.underdogsecurity.com/rce_in_origin_client/
+
+
+Tags (automatic): RCE
+
+
+### Post — @garethheyes — 2019-04-18 13:04 UTC (2019-04-18 14:04 WAT)
+
+- URL: https://x.com/garethheyes/status/1118862986389671936
+- Metrics (at fetch): not returned
+
+> RCE via AngularJS sandbox escape https://blog.underdogsecurity.com/rce_in_origin_client/
+
+**Links in post:** https://blog.underdogsecurity.com/rce_in_origin_client/
+
+
+---
+
+## 2019-04-12 · Post · These are awesome for learning XSS https://twitter.com/websecacademy/status/1116698920950931456
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2019-04-12 13:48 UTC (2019-04-12 14:48 WAT)
+
+- URL: https://x.com/garethheyes/status/1116699607101247489
+- Metrics (at fetch): not returned
+
+> These are awesome for learning XSS https://twitter.com/websecacademy/status/1116698920950931456
+
+**Links in post:** https://twitter.com/websecacademy/status/1116698920950931456
+
+**Quoted post (full text):**
+
+    #### Quoted post — @990945874019840000 — 2019-04-12 13:45 UTC (2019-04-12 14:45 WAT)
+    
+    - URL: https://x.com/990945874019840000/status/1116698920950931456
+    - Metrics (at fetch): not returned
+    
+    > We've added a new topic on exploiting XSS vulnerabilities, and three fun new labs involving stealing cookies, credentials, and using XSS to perform CSRF. 
+    > https://portswigger.net/web-security/cross-site-scripting/exploiting
+    
+    **Links in post:** https://portswigger.net/web-security/cross-site-scripting/exploiting
+    
+
+
+---
+
+## 2019-03-19 · Post · Fixed a bug in the payload processor where I was incorrectly applying  url encoding/decoding. Also f
+
+
+### Post — @garethheyes — 2019-03-19 11:37 UTC (2019-03-19 12:37 WAT)
+
+- URL: https://x.com/garethheyes/status/1107969229146460164
+- Metrics (at fetch): not returned
+
+> Fixed a bug in the payload processor where I was incorrectly applying  url encoding/decoding. Also fixed bug where process http message wasn't  being used for extensions. https://twitter.com/BApp_Store/status/1107968167249350656
+
+**Links in post:** https://twitter.com/BApp_Store/status/1107968167249350656
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877509238934962176 — 2019-03-19 11:32 UTC (2019-03-19 12:32 WAT)
+    
+    - URL: https://x.com/877509238934962176/status/1107968167249350656
+    - Metrics (at fetch): not returned
+    
+    > Updated: Hackvertor
+    >
+    > https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
+    
+    **Links in post:** https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
+    
+
+
+---
+
+## 2019-03-06 · Post · New features added:
+
+
+### Post — @garethheyes — 2019-03-06 14:20 UTC (2019-03-06 15:20 WAT)
+
+- URL: https://x.com/garethheyes/status/1103299322664419329
+- Metrics (at fetch): not returned
+
+> New features added:
+> Tags in extensions are now allowed (with ability to switch it off)
+> Brotli encode/decode
+> Send to Hackvertor now supports responses and they are automatically decoded
+> Fixed bug #3 reported by cfreal. Where new lines weren't padded in the urlencode_all https://twitter.com/BApp_Store/status/1103297741550247938
+
+**Links in post:** https://twitter.com/BApp_Store/status/1103297741550247938
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877509238934962176 — 2019-03-06 14:14 UTC (2019-03-06 15:14 WAT)
+    
+    - URL: https://x.com/877509238934962176/status/1103297741550247938
+    - Metrics (at fetch): not returned
+    
+    > Updated: Hackvertor
+    >
+    > https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
+    
+    **Links in post:** https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
+    
+
+
+---
+
+## 2019-01-28 · Post · IE XSS filter bypass http://challenge.hackvertor.co.uk/script.php?x=g%27;onerror=alert;throw+1//  th
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2019-01-28 09:59 UTC (2019-01-28 10:59 WAT)
+
+- URL: https://x.com/garethheyes/status/1089825180292141056
+- Metrics (at fetch): not returned
+
+> IE XSS filter bypass http://challenge.hackvertor.co.uk/script.php?x=g%27;onerror=alert;throw+1//  this was detected in the past so it appears to be a regression
+
+**Links in post:** http://challenge.hackvertor.co.uk/script.php?x=g%27;onerror=alert;throw+1//
+
+
+---
+
+## 2019-01-23 · Post · Burp dynamic analysis now shows which event you need to trigger to cause the XSS! [pic.x.com/gqAbWm7
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2019-01-23 16:03 UTC (2019-01-23 17:03 WAT)
+
+- URL: https://x.com/garethheyes/status/1088104962884800513
+- Metrics (at fetch): not returned
+
+> Burp dynamic analysis now shows which event you need to trigger to cause the XSS! [pic.x.com/gqAbWm7Tc2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dxm5kKNXcAEqeqd.jpg — no alt text provided by author
+
+
+---
+
+## 2019-01-14 · Post · New version of Hackvertor fixed a bug where payloads weren't showing in the payload processing box. 
+
+
+### Post — @garethheyes — 2019-01-14 09:59 UTC (2019-01-14 10:59 WAT)
+
+- URL: https://x.com/garethheyes/status/1084751824656257025
+- Metrics (at fetch): not returned
+
+> New version of Hackvertor fixed a bug where payloads weren't showing in the payload processing box. 
+>
+> https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
+
+**Links in post:** https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
+
+
+---
+
+## 2018-11-20 · Post · @ericlaw Hi Eric, is it an intentional security decision or a bug that window , open returns null an
+
+
+### Post — @garethheyes — 2018-11-20 13:58 UTC (2018-11-20 14:58 WAT)
+
+- URL: https://x.com/garethheyes/status/1064880715949662214
+- Metrics (at fetch): not returned
+
+> @ericlaw Hi Eric, is it an intentional security decision or a bug that window , open returns null and opener too in Edge?
+
+
+---
+
+## 2018-11-14 · Post · It's now possible to get XSS in link elements when you only control attributes and rel has been set 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2018-11-14 09:50 UTC (2018-11-14 10:50 WAT)
+
+- URL: https://x.com/garethheyes/status/1062643854501928965
+- Metrics (at fetch): not returned
+
+> It's now possible to get XSS in link elements when you only control attributes and rel has been set to canonical or alternate without stylesheet. The technique using access keys that I blogged previously https://portswigger.net/blog/xss-in-hidden-input-fields PoC: http://portswigger-labs.net/link/
+
+**Links in post:** https://portswigger.net/blog/xss-in-hidden-input-fields, http://portswigger-labs.net/link/
+
+
+---
+
+## 2018-11-09 · Post · There is a bug with my port scanner when you have ublock origin extension. If you disable the extens
+
+
+### Post — @garethheyes — 2018-11-09 17:51 UTC (2018-11-09 18:51 WAT)
+
+- URL: https://x.com/garethheyes/status/1060952961415811072
+- Metrics (at fetch): not returned
+
+> There is a bug with my port scanner when you have ublock origin extension. If you disable the extension it will work, I'll look into the problem next week. It's weird because the fallback should be to scan localhost but it does work :/
+
+
+---
+
+## 2018-10-19 · Post · Ooooo now I can detect chrome error pages, I wonder if it would work with detecting the XSS auditor.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2018-10-19 11:49 UTC (2018-10-19 12:49 WAT)
+
+- URL: https://x.com/garethheyes/status/1053251913398083584
+- Metrics (at fetch): not returned
+
+> Ooooo now I can detect chrome error pages, I wonder if it would work with detecting the XSS auditor....
+
+
+---
+
+## 2018-10-10 · Post · Heh we can now assign our XSS with higher importance then other scripts https://developer.mozilla.or
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2018-10-10 09:55 UTC (2018-10-10 10:55 WAT)
+
+- URL: https://x.com/garethheyes/status/1049961632338722816
+- Metrics (at fetch): not returned
+
+> Heh we can now assign our XSS with higher importance then other scripts https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-importance
+
+**Links in post:** https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-importance
+
+
+---
+
+## 2018-09-11 · Post · The problem with XSS Hunter is. Once you know someone's public subdomain you can frame them for any 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2018-09-11 13:12 UTC (2018-09-11 14:12 WAT)
+
+- URL: https://x.com/garethheyes/status/1039501909995008002
+- Metrics (at fetch): not returned
+
+> The problem with XSS Hunter is. Once you know someone's public subdomain you can frame them for any XSS =)
+
+
+---
+
 ## 2016-12-08 · Post · RCE in JXBrowser JavaScript/Java bridge https://t.co/fdNGbqO6Eg
 
 
@@ -3387,6 +3821,48 @@ Tags (automatic): RCE, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2016-04-25 · Post · Adapting AngularJS Payloads to Exploit Real World Applications https://t.co/NgC46eCntf
+
+
+### Post — @garethheyes — 2016-04-25 13:26 UTC (2016-04-25 14:26 WAT)
+
+- URL: https://x.com/garethheyes/status/724590315613609984
+- Metrics (at fetch): bookmark 0, impression 0, like 43, quote 0, reply 1, retweet 36
+
+> Adapting AngularJS Payloads to Exploit Real World Applications https://t.co/NgC46eCntf
+
+
+---
+
+## 2016-04-15 · Post · Edge XSS filter bypass https://t.co/2axas0p4Mc
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2016-04-15 12:30 UTC (2016-04-15 13:30 WAT)
+
+- URL: https://x.com/garethheyes/status/720952422798110720
+- Metrics (at fetch): bookmark 0, impression 0, like 43, quote 0, reply 1, retweet 30
+
+> Edge XSS filter bypass https://t.co/2axas0p4Mc
+
+
+---
+
+## 2015-09-23 · Post · Firefox bug this should work but doesn't: \u{61}lert(1)
+
+
+### Post — @garethheyes — 2015-09-23 13:33 UTC (2015-09-23 14:33 WAT)
+
+- URL: https://x.com/garethheyes/status/646678755335925761
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Firefox bug this should work but doesn't: \u{61}lert(1)
+
+
+---
+
 ## 2013-12-11 · Post · Found a cool x-domain scroll bug in IE gonna blog it tonight
 
 
@@ -3412,6 +3888,443 @@ Tags (automatic): XSS, Memory corruption / native
 - Metrics (at fetch): not returned
 
 > Found XSS in stackoverflow where do I report it?
+
+
+---
+
+## 2013-09-27 · Post · Watching issue 43394 like a lion ready to pounce and exploit http://code.google.com/p/chromium/issu
+
+
+### Post — @garethheyes — 2013-09-27 20:41 UTC (2013-09-27 21:41 WAT)
+
+- URL: https://x.com/garethheyes/status/383692905581268992
+- Metrics (at fetch): not returned
+
+> Watching issue #43394 like a lion ready to pounce and exploit http://code.google.com/p/chromium/issues/detail?id=43394
+
+**Links in post:** http://code.google.com/p/chromium/issues/detail?id=43394
+
+
+---
+
+## 2013-09-18 · Post · Writing a new book on XSS. I have some free time for a few months while I recover.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-09-18 12:35 UTC (2013-09-18 13:35 WAT)
+
+- URL: https://x.com/garethheyes/status/380309082164301825
+- Metrics (at fetch): not returned
+
+> Writing a new book on XSS. I have some free time for a few months while I recover.
+
+
+---
+
+## 2013-08-12 · Post · Working on my XSS Horror Show slides :) for allstars
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-08-12 12:22 UTC (2013-08-12 13:22 WAT)
+
+- URL: https://x.com/garethheyes/status/366897458611093505
+- Metrics (at fetch): not returned
+
+> Working on my XSS Horror Show slides :) for allstars
+
+
+---
+
+## 2013-07-26 · Post · Hey @jduck the third bug on here http://www.thespanner.co.uk/2013/07/26/hacking-firefox/ was the bug
+
+
+### Post — @garethheyes — 2013-07-26 20:35 UTC (2013-07-26 21:35 WAT)
+
+- URL: https://x.com/garethheyes/status/360861043314012161
+- Metrics (at fetch): not returned
+
+> Hey @jduck the third bug on here http://www.thespanner.co.uk/2013/07/26/hacking-firefox/ was the bug I was talking about before if you don't mind please take a look thanks
+
+**Links in post:** http://www.thespanner.co.uk/2013/07/26/hacking-firefox/
+
+
+---
+
+## 2013-06-06 · Post · XSS horror show coming to all good 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-06-06 12:34 UTC (2013-06-06 13:34 WAT)
+
+- URL: https://x.com/garethheyes/status/342620579121221632
+- Metrics (at fetch): not returned
+
+> XSS horror show coming to all good 
+> HackPra Allstars theatres. Certificate 18. (May contain loud screaming from developers)
+
+
+---
+
+## 2013-06-05 · Post · Massive fiddler pro tip: Use the syntax view header to modify http requests otherwise incorrect cont
+
+
+### Post — @garethheyes — 2013-06-05 14:39 UTC (2013-06-05 15:39 WAT)
+
+- URL: https://x.com/garethheyes/status/342289470965555201
+- Metrics (at fetch): not returned
+
+> Massive fiddler pro tip: Use the syntax view header to modify http requests otherwise incorrect content length is sent due to windoze NL
+
+
+---
+
+## 2013-05-28 · Post · Ok so I think I have stack corruption in Firefox but http://skypher.com/SkyLined/heap_spray/small_he
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @garethheyes — 2013-05-28 19:19 UTC (2013-05-28 20:19 WAT)
+
+- URL: https://x.com/garethheyes/status/339460852623212544
+- Metrics (at fetch): not returned
+
+> Ok so I think I have stack corruption in Firefox but http://skypher.com/SkyLined/heap_spray/small_heap_spray_generator.html is this intentionally adding a NULL byte to prevent DEP bypass?
+
+**Links in post:** http://skypher.com/SkyLined/heap_spray/small_heap_spray_generator.html
+
+
+---
+
+## 2013-05-21 · Post · My cool mXSS tool for testing mutation xss http://businessinfo.co.uk/labs/mxss/
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-05-21 09:19 UTC (2013-05-21 10:19 WAT)
+
+- URL: https://x.com/garethheyes/status/336773126362906624
+- Metrics (at fetch): not returned
+
+> My cool mXSS tool for testing mutation xss http://businessinfo.co.uk/labs/mxss/
+
+**Links in post:** http://businessinfo.co.uk/labs/mxss/
+
+
+---
+
+## 2013-05-01 · Post · I wonder when we will be able to exploit the overflow in String.fromCharCode on real sites: String.f
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @garethheyes — 2013-05-01 15:08 UTC (2013-05-01 16:08 WAT)
+
+- URL: https://x.com/garethheyes/status/329613370112233473
+- Metrics (at fetch): not returned
+
+> I wonder when we will be able to exploit the overflow in String.fromCharCode on real sites: String.fromCharCode(0xffff+0x3d)
+
+
+---
+
+## 2013-04-24 · Post · If that bug executed automatically it would be cool :D but as it stands it requires interaction so a
+
+
+### Post — @garethheyes — 2013-04-24 11:01 UTC (2013-04-24 12:01 WAT)
+
+- URL: https://x.com/garethheyes/status/327014335018856448
+- Metrics (at fetch): not returned
+
+> If that bug executed automatically it would be cool :D but as it stands it requires interaction so a bit lame.
+
+
+---
+
+## 2013-04-22 · Post · Interesting I wonder how common this jQuery XSS vector is:"]&lt;img src=1 onerror=alert(1)&gt;
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-04-22 20:18 UTC (2013-04-22 21:18 WAT)
+
+- URL: https://x.com/garethheyes/status/326429848983711744
+- Metrics (at fetch): not returned
+
+> Interesting I wonder how common this jQuery XSS vector is:"]&lt;img src=1 onerror=alert(1)&gt;
+
+
+---
+
+## 2013-04-04 · Post · The difficulty of building a DOM xss scanner is identifying the correct sink and source and providin
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-04-04 11:54 UTC (2013-04-04 12:54 WAT)
+
+- URL: https://x.com/garethheyes/status/319779985051234305
+- Metrics (at fetch): not returned
+
+> The difficulty of building a DOM xss scanner is identifying the correct sink and source and providing a valid stack trace. Solved that.
+
+
+---
+
+## 2013-03-22 · Post · Scratch that. My bug. Doh.
+
+
+### Post — @garethheyes — 2013-03-22 22:00 UTC (2013-03-22 23:00 WAT)
+
+- URL: https://x.com/garethheyes/status/315221517078261763
+- Metrics (at fetch): not returned
+
+> Scratch that. My bug. Doh.
+
+
+---
+
+## 2013-03-21 · Post · BTW I did not XSS modsecurity I am protecting it
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-03-21 20:20 UTC (2013-03-21 21:20 WAT)
+
+- URL: https://x.com/garethheyes/status/314833895189250048
+- Metrics (at fetch): not returned
+
+> BTW I did not XSS modsecurity I am protecting it
+
+
+---
+
+## 2013-03-12 · Post · .@ericlaw Hey eric I'm using fiddler to create a client side xss scanner and I was wonder is it poss
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-03-12 14:00 UTC (2013-03-12 15:00 WAT)
+
+- URL: https://x.com/garethheyes/status/311476834476896257
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> .@ericlaw Hey eric I'm using fiddler to create a client side xss scanner and I was wonder is it possible to detect the top window in IE?
+
+
+---
+
+## 2013-03-11 · Post · Analysis of CVE-2012-4792 http://t.co/0l0lAKgxLj //tweeting this just to fav it
+
+
+### Post — @garethheyes — 2013-03-11 14:46 UTC (2013-03-11 15:46 WAT)
+
+- URL: https://x.com/garethheyes/status/311126059112349696
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> Analysis of CVE-2012-4792 http://t.co/0l0lAKgxLj //tweeting this just to fav it
+
+
+---
+
+## 2013-03-05 · Post · Haha check out my description :D copy and paste it into a vuln site and then watch @hackvertor
+
+
+### Post — @garethheyes — 2013-03-05 11:56 UTC (2013-03-05 12:56 WAT)
+
+- URL: https://x.com/garethheyes/status/308908819398926336
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Haha check out my description :D copy and paste it into a vuln site and then watch @hackvertor
+
+
+---
+
+## 2013-03-02 · Post · Here's an exploit for MentalJS using the Chrome bug Function("/*", "*/){},alert(location),function(
+
+
+### Post — @garethheyes — 2013-03-02 16:36 UTC (2013-03-02 17:36 WAT)
+
+- URL: https://x.com/garethheyes/status/307892281652965378
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> Here's an exploit for #MentalJS using the Chrome bug Function("/*", "*/){},alert(location),function(){")
+
+
+---
+
+## 2013-03-01 · Post · Oh Chrome contains a bug that allows you to execute code via Function without actually executing. Do
+
+
+### Post — @garethheyes — 2013-03-01 19:39 UTC (2013-03-01 20:39 WAT)
+
+- URL: https://x.com/garethheyes/status/307575904903757825
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 4
+
+> Oh Chrome contains a bug that allows you to execute code via Function without actually executing. Doh. That sucks. http://t.co/PYZdUtGbK1
+
+
+---
+
+## 2013-02-19 · Post · Bypassing XSS Auditor http://t.co/NqncrZq3
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-02-19 14:13 UTC (2013-02-19 15:13 WAT)
+
+- URL: https://x.com/garethheyes/status/303869864907509761
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 3, retweet 26
+
+> Bypassing XSS Auditor http://t.co/NqncrZq3
+
+
+---
+
+## 2013-02-19 · Post · I'm thinking @0x6D6172696F didn't test XSS Auditor very long :P
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-02-19 13:30 UTC (2013-02-19 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/303859170829017089
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> I'm thinking @0x6D6172696F didn't test XSS Auditor very long :P
+
+
+---
+
+## 2013-02-19 · Post · Wondering why XSS Auditor "prevents" external iframe injections when it's easily bypased
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-02-19 09:48 UTC (2013-02-19 10:48 WAT)
+
+- URL: https://x.com/garethheyes/status/303803186563645441
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 1
+
+> Wondering why XSS Auditor "prevents" external iframe injections when it's easily bypased
+
+
+---
+
+## 2013-02-14 · Post · &lt;script src="ht&amp;Tab;t&amp;NewLine;p://businessinfo.co.uk/labs/xss/xss.js"&gt;&lt;/script&gt;
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2013-02-14 15:11 UTC (2013-02-14 16:11 WAT)
+
+- URL: https://x.com/garethheyes/status/302072654951759872
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 4
+
+> &lt;script src="ht&amp;Tab;t&amp;NewLine;p://businessinfo.co.uk/labs/xss/xss.js"&gt;&lt;/script&gt;
+
+
+---
+
+## 2013-02-06 · Post · Awesome write up of a exploit on 64 bit linux http://t.co/feKxbK9N
+
+
+### Post — @garethheyes — 2013-02-06 12:19 UTC (2013-02-06 13:19 WAT)
+
+- URL: https://x.com/garethheyes/status/299130090741198848
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 2
+
+> Awesome write up of a exploit on 64 bit linux http://t.co/feKxbK9N
+
+
+---
+
+## 2012-11-30 · Post · Hmmm I should do a post on anti-xss-tripwire where I overwrite all the functions and send random pos
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2012-11-30 11:18 UTC (2012-11-30 12:18 WAT)
+
+- URL: https://x.com/garethheyes/status/274472564854775810
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Hmmm I should do a post on anti-xss-tripwire where I overwrite all the functions and send random post data then freeze them
+
+
+---
+
+## 2012-11-30 · Post · Here's one way to bypass "xss tripwires" window.alert=function(){};Window.prototype.alert.call(windo
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2012-11-30 11:10 UTC (2012-11-30 12:10 WAT)
+
+- URL: https://x.com/garethheyes/status/274470573315350530
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Here's one way to bypass "xss tripwires" window.alert=function(){};Window.prototype.alert.call(window,1)
+
+
+---
+
+## 2012-11-07 · Post · BTW don't upgrade Opera if you want to follow the video how to exploit it on Friday
+
+
+### Post — @garethheyes — 2012-11-07 20:39 UTC (2012-11-07 21:39 WAT)
+
+- URL: https://x.com/garethheyes/status/266278759894765569
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> BTW don't upgrade Opera if you want to follow the video how to exploit it on Friday
+
+
+---
+
+## 2012-10-25 · Post · Opera bug will be fixed in the next couple of weeks then I can finally blog about it.
+
+
+### Post — @garethheyes — 2012-10-25 13:07 UTC (2012-10-25 14:07 WAT)
+
+- URL: https://x.com/garethheyes/status/261453976044716033
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Opera bug will be fixed in the next couple of weeks then I can finally blog about it.
+
+
+---
+
+## 2012-10-22 · Post · You earn 10 xss points if you are the first to xss using quasi literals.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2012-10-22 21:43 UTC (2012-10-22 22:43 WAT)
+
+- URL: https://x.com/garethheyes/status/260496659061014528
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> You earn 10 xss points if you are the first to xss using quasi literals.
 
 
 ---
@@ -3630,3 +4543,482 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
 
 > Hmmmm all xss challenges are lame
+
+
+---
+
+## 2011-03-11 · Post · Hackvertor is gonna support twitter 0Auth and XSS rays is gonna support HV integration both partiall
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-03-11 00:00 UTC (2011-03-11 01:00 WAT)
+
+- URL: https://x.com/garethheyes/status/45997426141691904
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Hackvertor is gonna support twitter 0Auth and XSS rays is gonna support HV integration both partially done but not had time to finish
+
+
+---
+
+## 2011-03-03 · Post · new XSS challenge by @masa141421356. It's too difficult to break. at least I haven't broken yet. ht
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-03-03 14:20 UTC (2011-03-03 15:20 WAT)
+
+- URL: https://x.com/garethheyes/status/43314878819213312
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> new #XSS challenge by @masa141421356. It's too difficult to break. at least I haven't broken yet. http://bit.ly/dMYhcB //I've broken it :D
+
+
+---
+
+## 2011-02-23 · Post · New phpids bypass because it's been soooo long http://bit.ly/eOCQrB
+
+
+### Post — @garethheyes — 2011-02-23 15:57 UTC (2011-02-23 16:57 WAT)
+
+- URL: https://x.com/garethheyes/status/40440095425306624
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> New phpids bypass because it's been soooo long http://bit.ly/eOCQrB
+
+
+---
+
+## 2011-02-21 · Post · Hehe http://bit.ly/fWWWYa brainfuck XSS :D
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-02-21 00:17 UTC (2011-02-21 01:17 WAT)
+
+- URL: https://x.com/garethheyes/status/39478812181790720
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> Hehe http://bit.ly/fWWWYa brainfuck XSS :D
+
+
+---
+
+## 2011-02-15 · Post · You'd have thought I'd have enumerated all XSS vectors by now, wouldn't you?
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-02-15 20:12 UTC (2011-02-15 21:12 WAT)
+
+- URL: https://x.com/garethheyes/status/37605211417755648
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> You'd have thought I'd have enumerated all XSS vectors by now, wouldn't you?
+
+
+---
+
+## 2011-02-04 · Post · is hoping this exploit works then I can do some fixes on xssrays
+
+
+### Post — @garethheyes — 2011-02-04 14:24 UTC (2011-02-04 15:24 WAT)
+
+- URL: https://x.com/garethheyes/status/33531356780695553
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> is hoping this exploit works then I can do some fixes on #xssrays
+
+
+---
+
+## 2011-02-03 · Post · Thinking about how to make my blackbox XSS reverser better
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-02-03 09:13 UTC (2011-02-03 10:13 WAT)
+
+- URL: https://x.com/garethheyes/status/33090765060055040
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Thinking about how to make my blackbox XSS reverser better
+
+
+---
+
+## 2011-01-28 · Post · Changing XSS Rays to use outerHTML for events :D That way you can regex search for injections and se
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-28 15:01 UTC (2011-01-28 16:01 WAT)
+
+- URL: https://x.com/garethheyes/status/31004059066437632
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Changing XSS Rays to use outerHTML for events :D That way you can regex search for injections and see if they're successful
+
+
+---
+
+## 2011-01-25 · Post · I added a bonus feature with the bug fix. It will now display all events of a page
+
+
+### Post — @garethheyes — 2011-01-25 23:04 UTC (2011-01-26 00:04 WAT)
+
+- URL: https://x.com/garethheyes/status/30038409938472960
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> I added a bonus feature with the bug fix. It will now display all events of a page
+
+
+---
+
+## 2011-01-25 · Post · Fixed hole in XSS Rays I hope. The design of my extension is open to this type of vuln :( mainly due
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-25 23:03 UTC (2011-01-26 00:03 WAT)
+
+- URL: https://x.com/garethheyes/status/30038021856301057
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Fixed hole in XSS Rays I hope. The design of my extension is open to this type of vuln :( mainly due to chrome's limitations.
+
+
+---
+
+## 2011-01-25 · Post · Working on fixing the hole in XSS Rays now. Can you find it?
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-25 21:06 UTC (2011-01-25 22:06 WAT)
+
+- URL: https://x.com/garethheyes/status/30008590106370049
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Working on fixing the hole in XSS Rays now. Can you find it?
+
+
+---
+
+## 2011-01-25 · Post · LOL I just hacked XSS Rays
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-25 15:03 UTC (2011-01-25 16:03 WAT)
+
+- URL: https://x.com/garethheyes/status/29917223778779137
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> LOL I just hacked XSS Rays
+
+
+---
+
+## 2011-01-24 · Post · Updated XSS Rays, made the interface nicer, added scan/reverse status and added options menu to add 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-24 17:49 UTC (2011-01-24 18:49 WAT)
+
+- URL: https://x.com/garethheyes/status/29596717439524864
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Updated XSS Rays, made the interface nicer, added scan/reverse status and added options menu to add a custom vector
+
+
+---
+
+## 2011-01-23 · Reply · @johnwilander @ben_p @securityninja those msgs are based on which apis you use. XSS Rays needs tab a
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-23 02:08 UTC (2011-01-23 03:08 WAT)
+
+- URL: https://x.com/garethheyes/status/28997453336281088
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @johnwilander @ben_p @securityninja those msgs are based on which apis you use. XSS Rays needs tab access to every site to work
+
+
+---
+
+## 2011-01-21 · Post · XSS Rays feature requests here: http://bit.ly/f7pKSr
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-21 17:37 UTC (2011-01-21 18:37 WAT)
+
+- URL: https://x.com/garethheyes/status/28506412497772546
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> XSS Rays feature requests here: http://bit.ly/f7pKSr
+
+
+---
+
+## 2011-01-21 · Post · XSS Rays extension http://bit.ly/eA7wZc I've summarized the features, maybe I'll do a video or somet
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-21 17:14 UTC (2011-01-21 18:14 WAT)
+
+- URL: https://x.com/garethheyes/status/28500608210178049
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> XSS Rays extension http://bit.ly/eA7wZc I've summarized the features, maybe I'll do a video or something if I can be bothered
+
+
+---
+
+## 2011-01-17 · Post · Multi context xss vectors ftw! Makes XSS scanners much faster :D
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-17 22:49 UTC (2011-01-17 23:49 WAT)
+
+- URL: https://x.com/garethheyes/status/27135488758382592
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Multi context xss vectors ftw! Makes XSS scanners much faster :D
+
+
+---
+
+## 2011-01-14 · Post · XSS reversing was a pain in the ass! But I think I've cracked it now xssrays
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-14 11:40 UTC (2011-01-14 12:40 WAT)
+
+- URL: https://x.com/garethheyes/status/25880024624136192
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> XSS reversing was a pain in the ass! But I think I've cracked it now #xssrays
+
+
+---
+
+## 2011-01-13 · Post · Pro tip: Debugging background scripts in chrome extensions, open chrome://extensions click script re
+
+
+### Post — @garethheyes — 2011-01-13 22:22 UTC (2011-01-13 23:22 WAT)
+
+- URL: https://x.com/garethheyes/status/25679225918857216
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Pro tip: Debugging background scripts in chrome extensions, open chrome://extensions click script required under inspect active views
+
+
+---
+
+## 2011-01-13 · Post · Nearly finished XSS filter reversing! Work out max len, allowed tags, allowed attributes, how they a
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-13 15:59 UTC (2011-01-13 16:59 WAT)
+
+- URL: https://x.com/garethheyes/status/25582700853202944
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Nearly finished XSS filter reversing! Work out max len, allowed tags, allowed attributes, how they are converted! #xssrays
+
+
+---
+
+## 2011-01-11 · Post · Working on my XSS Reverser :D it calculates the maximum length of a GET variable, displays the allow
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-11 17:10 UTC (2011-01-11 18:10 WAT)
+
+- URL: https://x.com/garethheyes/status/24875759860449280
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Working on my XSS Reverser :D it calculates the maximum length of a GET variable, displays the allowed tags. Working on attributes...
+
+
+---
+
+## 2011-01-06 · Post · You can thank my employer for setting me impossible challenges and very big sites to hack for creati
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-06 17:25 UTC (2011-01-06 18:25 WAT)
+
+- URL: https://x.com/garethheyes/status/23067624141230080
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> You can thank my employer for setting me impossible challenges and very big sites to hack for creating XSS Rays
+
+
+---
+
+## 2011-01-06 · Post · Here is a teaser of my XSS Rays extension: http://bit.ly/e4QylB http://bit.ly/fMU5ti
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-01-06 17:18 UTC (2011-01-06 18:18 WAT)
+
+- URL: https://x.com/garethheyes/status/23065818216534016
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Here is a teaser of my XSS Rays extension: http://bit.ly/e4QylB http://bit.ly/fMU5ti
+
+
+---
+
+## 2010-12-23 · Post · All I want for Christmas is a few JSReg bypass c'mon wheres my pressies? @0x6D6172696F @sirdarckcat 
+
+
+### Post — @garethheyes — 2010-12-23 10:54 UTC (2010-12-23 11:54 WAT)
+
+- URL: https://x.com/garethheyes/status/17895911627694081
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> All I want for Christmas is a few JSReg bypass c'mon wheres my pressies? @0x6D6172696F @sirdarckcat @thornmaker
+
+
+---
+
+## 2010-12-17 · Post · Pro tip: Greasemonkey doesn't support event listeners assigned directly to objects. Use addEventList
+
+
+### Post — @garethheyes — 2010-12-17 13:39 UTC (2010-12-17 14:39 WAT)
+
+- URL: https://x.com/garethheyes/status/15762908608729088
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Pro tip: Greasemonkey doesn't support event listeners assigned directly to objects. Use addEventListener instead
+
+
+---
+
+## 2010-12-17 · Post · Making a super duper greasemonkey script to help me hack a large site, XSS scanner, Object inspector
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2010-12-17 11:23 UTC (2010-12-17 12:23 WAT)
+
+- URL: https://x.com/garethheyes/status/15728885777833984
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Making a super duper greasemonkey script to help me hack a large site, XSS scanner, Object inspector, DOM injection checker :D
+
+
+---
+
+## 2010-12-08 · Post · I bet the owner of example dot com has a ton of exploit logs
+
+
+### Post — @garethheyes — 2010-12-08 09:38 UTC (2010-12-08 10:38 WAT)
+
+- URL: https://x.com/garethheyes/status/12440808829489152
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> I bet the owner of example dot com has a ton of exploit logs
+
+
+---
+
+## 2010-11-26 · Post · ok so this works in FF and IE:'i'.replace(/[\u0080-\u07FF]/gi,function(c) {alert('Weird!');}); but n
+
+
+### Post — @garethheyes — 2010-11-26 18:07 UTC (2010-11-26 19:07 WAT)
+
+- URL: https://x.com/garethheyes/status/8220212063109120
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> ok so this works in FF and IE:'i'.replace(/[\u0080-\u07FF]/gi,function(c) {alert('Weird!');}); but not other browsers. Bug I think
+
+
+---
+
+## 2010-11-23 · Post · PS3 Pro Tip: Blank screen after connecting to new TV? Prob diff output resolution. Switch off hold p
+
+
+### Post — @garethheyes — 2010-11-23 08:03 UTC (2010-11-23 09:03 WAT)
+
+- URL: https://x.com/garethheyes/status/6981241253400576
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> PS3 Pro Tip: Blank screen after connecting to new TV? Prob diff output resolution. Switch off hold power down for 6 secs till next beep
+
+
+---
+
+## 2010-11-02 · Post · Oh yeah the bypass grandmaster broke jsreg again :o four times now!? :D
+
+
+### Post — @garethheyes — 2010-11-02 13:39 UTC (2010-11-02 14:39 WAT)
+
+- URL: https://x.com/garethheyes/status/29470393215
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Oh yeah the bypass grandmaster broke jsreg again :o four times now!? :D
+
+
+---
+
+## 2010-10-12 · Post · Found a near dom xss hole in HV instead of fixing it I made a challenge http://bit.ly/bik1M8
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2010-10-12 09:37 UTC (2010-10-12 10:37 WAT)
+
+- URL: https://x.com/garethheyes/status/27123466731
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Found a near dom xss hole in HV instead of fixing it I made a challenge http://bit.ly/bik1M8
+
+
+---
+
+## 2010-10-08 · Post · LOL FF2 bug   /\d/.test("\uFF11")//true :)
+
+
+### Post — @garethheyes — 2010-10-08 21:56 UTC (2010-10-08 22:56 WAT)
+
+- URL: https://x.com/garethheyes/status/26788045742
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> LOL FF2 bug   /\d/.test("\uFF11")//true :)

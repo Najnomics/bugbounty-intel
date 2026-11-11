@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 294
-- Conversations/threads: 288
+- Posts in this file: 296
+- Conversations/threads: 290
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
 
@@ -2373,6 +2373,41 @@ Tags (automatic): Race condition
     >
     > Our efforts in this space led to the ability to control the DNS zones of the following
     
+
+
+---
+
+## 2023-03-15 · Post · I'm probably not the first to suggest this, but it feels like every bounty program wants hackers to 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @albinowax — 2023-03-15 10:30 UTC (2023-03-15 11:30 WAT)
+
+- URL: https://x.com/albinowax/status/1635951506791755776
+- Metrics (at fetch): bookmark 5, impression 24380, like 107, quote 0, reply 10, retweet 6
+
+> I'm probably not the first to suggest this, but it feels like every bounty program wants hackers to self-identify with a different custom HTTP header. Seems like a great opportunity to standardise?
+> @Hacker0x01 @Bugcrowd @intigriti
+
+
+---
+
+## 2023-03-06 · Post · Love this auth bypass via JSON Injection found by 
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @albinowax — 2023-03-06 08:37 UTC (2023-03-06 09:37 WAT)
+
+- URL: https://x.com/albinowax/status/1632661561176215552
+- Metrics (at fetch): bookmark 83, impression 21033, like 235, quote 1, reply 0, retweet 87
+
+> Love this auth bypass via JSON Injection found by 
+> @GHSecurityLab, it's such an underrated attack class. Backslash Powered Scanner can detect JSON Injection but it takes dedication to build a real exploit black-box.
+> https://t.co/52Folk1Cbe
 
 
 ---

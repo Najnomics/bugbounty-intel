@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 147
-- Conversations/threads: 146
-- Oldest post captured: 2019-03-05
+- Posts in this file: 150
+- Conversations/threads: 149
+- Oldest post captured: 2018-07-19
 - Newest post captured: 2026-11-10
 
 
@@ -3246,3 +3246,57 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 
 **Media:**
 - photo: https://pbs.twimg.com/media/D06HkLJVAAAlDgo.jpg — no alt text provided by author
+
+
+---
+
+## 2018-08-29 · Post · Thanks blockone. Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://hackerone.com/madiohead 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ma1fan — 2018-08-29 01:23 UTC (2018-08-29 02:23 WAT)
+
+- URL: https://x.com/ma1fan/status/1034612594521174016
+- Metrics (at fetch): not returned
+
+> Thanks blockone. Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://hackerone.com/madiohead #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/madiohead
+
+
+---
+
+## 2018-07-24 · Post · Yay, I was awarded a $250 bounty on @Hacker0x01! https://hackerone.com/madiohead TogetherWeHitHarde
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ma1fan — 2018-07-24 08:36 UTC (2018-07-24 09:36 WAT)
+
+- URL: https://x.com/ma1fan/status/1021675560580218880
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $250 bounty on @Hacker0x01! https://hackerone.com/madiohead #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/madiohead
+
+
+---
+
+## 2018-07-19 · Post · Yay, I was awarded a $250 bounty on @Hacker0x01! https://hackerone.com/madiohead TogetherWeHitHarde
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ma1fan — 2018-07-19 15:31 UTC (2018-07-19 16:31 WAT)
+
+- URL: https://x.com/ma1fan/status/1019967920288362496
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $250 bounty on @Hacker0x01! https://hackerone.com/madiohead #TogetherWeHitHarder  thx http://block.one
+
+**Links in post:** https://hackerone.com/madiohead, http://block.one

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 165
-- Conversations/threads: 161
+- Posts in this file: 180
+- Conversations/threads: 176
 - Oldest post captured: 2014-07-21
 - Newest post captured: 2026-11-10
 
@@ -3580,6 +3580,298 @@ Tags (automatic): Memory corruption / native
 > wait until live when stakes are higher
 >
 > wat do
+
+
+---
+
+## 2023-05-17 · Post · 1) launch bug bounty
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2023-05-17 11:33 UTC (2023-05-17 12:33 WAT)
+
+- URL: https://x.com/0xriptide/status/1658797989736091648
+- Metrics (at fetch): bookmark 12, impression 27646, like 128, quote 2, reply 20, retweet 5
+
+> 1) launch bug bounty
+> 2) get bug reports
+> 3) don't pay out
+> 4) milk it until @immunefi kicks your protocol off the platform
+>
+> protocol wins
+> hackers lose
+
+
+---
+
+## 2023-05-17 · Reply · @Level__Finance just closed my bug as out of scope so will post publicly here
+
+
+### Post — @0xriptide — 2023-05-17 05:37 UTC (2023-05-17 06:37 WAT)
+
+- URL: https://x.com/0xriptide/status/1658708383535333380
+- Metrics (at fetch): bookmark 8, impression 6814, like 46, quote 2, reply 9, retweet 6
+
+> @Level__Finance just closed my bug as out of scope so will post publicly here
+>
+> Level is a new perp exchange on BSC where you can earn trading rewards and "level up" to a higher tier after meeting certain criteria
+
+
+---
+
+## 2023-05-16 · Post · reminder that @aave bug bounty is $250k
+
+
+### Post — @0xriptide — 2023-05-16 15:14 UTC (2023-05-16 16:14 WAT)
+
+- URL: https://x.com/0xriptide/status/1658491221235617792
+- Metrics (at fetch): bookmark 1, impression 7742, like 66, quote 0, reply 5, retweet 2
+
+> reminder that @aave bug bounty is $250k
+>
+> TVL of 8 billion dollars
+>
+> they must sincerely believe it is, and always will be impenetrable
+
+
+---
+
+## 2023-04-20 · Post · dune wizards pls dm
+
+
+### Post — @0xriptide — 2023-04-20 12:01 UTC (2023-04-20 13:01 WAT)
+
+- URL: https://x.com/0xriptide/status/1649020386518921217
+- Metrics (at fetch): bookmark 0, impression 3930, like 12, quote 0, reply 5, retweet 1
+
+> dune wizards pls dm
+>
+> 0.1 ETH bounty for a query
+
+
+---
+
+## 2023-04-14 · Post · good grief-ing
+
+
+### Post — @0xriptide — 2023-04-14 07:53 UTC (2023-04-14 08:53 WAT)
+
+- URL: https://x.com/0xriptide/status/1646783618176393216
+- Metrics (at fetch): bookmark 0, impression 1381, like 5, quote 0, reply 0, retweet 0
+
+> good grief-ing
+>
+> this is a "oh u motherfucker" grief attack
+>
+> hooooobooooy lmao
+
+
+---
+
+## 2023-04-13 · Post · i probably underestimate how much bug bounty spam each project gets 🤣
+
+
+### Post — @0xriptide — 2023-04-13 12:13 UTC (2023-04-13 13:13 WAT)
+
+- URL: https://x.com/0xriptide/status/1646486750963826690
+- Metrics (at fetch): bookmark 0, impression 2504, like 30, quote 0, reply 1, retweet 1
+
+> i probably underestimate how much bug bounty spam each project gets 🤣
+>
+> need more open backchannels
+
+
+---
+
+## 2023-04-12 · Post · I keep wondering if this codebase is vulnerable to the double-entry token exploit given the permissi
+
+
+### Post — @0xriptide — 2023-04-12 13:45 UTC (2023-04-12 14:45 WAT)
+
+- URL: https://x.com/0xriptide/status/1646147645860347904
+- Metrics (at fetch): bookmark 11, impression 8524, like 28, quote 0, reply 4, retweet 0
+
+> I keep wondering if this codebase is vulnerable to the double-entry token exploit given the permissionless vaults...
+>
+> too busy to dive deep but if someone is interested might be fun to take a look https://t.co/1DnqGieSHx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1332500746206646277 — 2023-04-12 13:31 UTC (2023-04-12 14:31 WAT)
+    
+    - URL: https://x.com/1332500746206646277/status/1646143887663329281
+    - Metrics (at fetch): bookmark 1, impression 20123, like 65, quote 4, reply 6, retweet 10
+    
+    > After just two months of being live, Silo @arbitrum has officially surpassed 10m TVL!
+    >
+    > We'd like to thank our users for their support and are excited to continue collaborating with the Arbitrum builder community.
+    >
+    > https://t.co/yt2i0XfEfh
+    >
+    > #SiloTheRisk https://t.co/L7mXf8C4T0
+    
+    **Media:**
+    - media `3_1646143883817148417` (details not returned by the API)
+    
+
+
+---
+
+## 2023-04-11 · Post · lots of unverified contracts for many of the @zksync ecosystem listed projects
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xriptide — 2023-04-11 16:01 UTC (2023-04-11 17:01 WAT)
+
+- URL: https://x.com/0xriptide/status/1645819374085853187
+- Metrics (at fetch): bookmark 2, impression 3542, like 36, quote 1, reply 3, retweet 2
+
+> lots of unverified contracts for many of the @zksync ecosystem listed projects
+>
+> too degen for me given what i've seen bug hunting!
+
+
+---
+
+## 2023-04-09 · Post · Nice work keeping the bounty at an all time low @jaredgrey https://t.co/xavYtCTX3U
+
+
+### Post — @0xriptide — 2023-04-09 16:48 UTC (2023-04-09 17:48 WAT)
+
+- URL: https://x.com/0xriptide/status/1645106409594314752
+- Metrics (at fetch): bookmark 0, impression 3583, like 19, quote 0, reply 1, retweet 1
+
+> Nice work keeping the bounty at an all time low @jaredgrey https://t.co/xavYtCTX3U
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1303577160234328066 — 2023-04-09 14:03 UTC (2023-04-09 15:03 WAT)
+    
+    - URL: https://x.com/1303577160234328066/status/1645064984622407680
+    - Metrics (at fetch): bookmark 14, impression 102124, like 152, quote 12, reply 25, retweet 35
+    
+    > 🚨 Some positive news following the RouteProcessor 2 approval bug.
+    >
+    > Sushi's secured a large portion of affected funds in a whitehat security process. 
+    >
+    > 🔍 If you performed a recovery please contact security@sushi.com for next steps.
+    
+
+
+---
+
+## 2023-03-30 · Post · found a critical last week with these guys that these 3 audit firms didn't catch
+
+
+### Post — @0xriptide — 2023-03-30 05:32 UTC (2023-03-30 06:32 WAT)
+
+- URL: https://x.com/0xriptide/status/1641312463575498754
+- Metrics (at fetch): bookmark 12, impression 13603, like 95, quote 0, reply 6, retweet 5
+
+> found a critical last week with these guys that these 3 audit firms didn't catch
+>
+> always assume there are bugs to find anon or else ngmi as a solo whitehat https://t.co/Rv61cK2UO2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1501279850727821312 — 2023-03-29 19:55 UTC (2023-03-29 20:55 WAT)
+    
+    - URL: https://x.com/1501279850727821312/status/1641167227780046848
+    - Metrics (at fetch): bookmark 3, impression 46108, like 142, quote 1, reply 9, retweet 22
+    
+    > In collaboration with @immunefi, Radiant has posted bug bounties with the scope of impact covering the v2 smart contracts and front end. 
+    >
+    > While Radiant v2 has been thoroughly audited by @BlockSecTeam, @peckshield, and @zokyo_io, the DAO takes the safety &amp; security of the https://t.co/pJF8pUMkRs
+    
+    **Quoted post** 1641160428741877760: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-03-25 · Post · What's the going price for an audit?
+
+
+### Post — @0xriptide — 2023-03-25 12:24 UTC (2023-03-25 13:24 WAT)
+
+- URL: https://x.com/0xriptide/status/1639604237238956034
+- Metrics (at fetch): bookmark 30, impression 18141, like 36, quote 0, reply 10, retweet 1
+
+> What's the going price for an audit?
+
+
+---
+
+## 2023-03-23 · Reply · @RDNTCapital 
+
+
+### Post — @0xriptide — 2023-03-23 07:25 UTC (2023-03-23 08:25 WAT)
+
+- URL: https://x.com/0xriptide/status/1638804019597688832
+- Metrics (at fetch): bookmark 0, impression 152, like 1, quote 0, reply 1, retweet 0
+
+> @RDNTCapital 
+> no bug bounty posted 👀
+>
+> pls advise
+
+
+---
+
+## 2023-03-17 · Post · nice to see @arbitrum finally showing audit reports
+
+
+### Post — @0xriptide — 2023-03-17 00:29 UTC (2023-03-17 01:29 WAT)
+
+- URL: https://x.com/0xriptide/status/1636525170029629441
+- Metrics (at fetch): bookmark 1, impression 1581, like 11, quote 0, reply 0, retweet 2
+
+> nice to see @arbitrum finally showing audit reports
+>  https://t.co/K6juO2ic0L
+>
+> still no security disclosures of course
+
+
+---
+
+## 2023-03-13 · Post · sad to see @eulerfinance hit
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @0xriptide — 2023-03-13 11:22 UTC (2023-03-13 12:22 WAT)
+
+- URL: https://x.com/0xriptide/status/1635239809613717506
+- Metrics (at fetch): bookmark 9, impression 20027, like 120, quote 1, reply 11, retweet 6
+
+> sad to see @eulerfinance hit
+>
+> spent many hours looking for bugs in Euler contracts and thought the code was tight
+>
+> ~270mm in the bridge ... bounty was 1mm
+>
+> Would this have been averted if bounty was 10% or was the honeypot too juicy to pass up?
+
+
+---
+
+## 2023-03-07 · Post · finally read @0xweisss bitshifting writeup. Recommended!
+
+
+### Post — @0xriptide — 2023-03-07 06:52 UTC (2023-03-07 07:52 WAT)
+
+- URL: https://x.com/0xriptide/status/1632997559022272512
+- Metrics (at fetch): bookmark 30, impression 2813, like 48, quote 0, reply 2, retweet 4
+
+> finally read @0xweisss bitshifting writeup. Recommended!
+>
+> AHHH I'm shiftinggggggg 
+>  https://t.co/fMN141sKjz
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 213
-- Conversations/threads: 203
-- Oldest post captured: 2018-12-27
+- Posts in this file: 231
+- Conversations/threads: 221
+- Oldest post captured: 2015-07-16
 - Newest post captured: 2026-11-07
 
 
@@ -3514,3 +3514,304 @@ Tags (automatic): IDOR / BOLA, Request smuggling / desync
 - Metrics (at fetch): not returned
 
 > Where are all the bug bounty hunters at? #35c3
+
+
+---
+
+## 2018-12-21 · Post · I wish that I could say that I trust the electron famework, unfortunately I just don’t... great upda
+
+
+### Post — @infosec_au — 2018-12-21 16:48 UTC (2018-12-21 17:48 WAT)
+
+- URL: https://x.com/infosec_au/status/1076157426460635142
+- Metrics (at fetch): not returned
+
+> I wish that I could say that I trust the electron famework, unfortunately I just don’t... great updates recently, but every security related bypass released are usually simple and would take anywhere from 1-6 hours to figure out if you’re competent with JavaScript
+
+
+---
+
+## 2018-10-12 · Post · Thanks for the swag @Bugcrowd [pic.x.com/VqjANrOGv3]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @infosec_au — 2018-10-12 03:30 UTC (2018-10-12 04:30 WAT)
+
+- URL: https://x.com/infosec_au/status/1050589591944589312
+- Metrics (at fetch): not returned
+
+> Thanks for the swag @Bugcrowd [pic.x.com/VqjANrOGv3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DpRxqJqVsAA63dM.jpg — no alt text provided by author
+
+
+---
+
+## 2018-07-29 · Post · A crisis has emerged in the bug bounty leaderboard, leaving multiple high quality bounty hunters cri
+
+
+### Post — @infosec_au — 2018-07-29 10:01 UTC (2018-07-29 11:01 WAT)
+
+- URL: https://x.com/infosec_au/status/1023508763213410305
+- Metrics (at fetch): not returned
+
+> A crisis has emerged in the bug bounty leaderboard, leaving multiple high quality bounty hunters critically injured. No casualties have been reported as of yet, but we have received updates from scientists on the ground that a cure may be developed in the near future. What do?
+
+
+---
+
+## 2018-07-27 · Post · Received a list of assets from a bounty today. Had already found 90% of the assets listed. Refreshin
+
+
+### Post — @infosec_au — 2018-07-27 20:34 UTC (2018-07-27 21:34 WAT)
+
+- URL: https://x.com/infosec_au/status/1022943320559869952
+- Metrics (at fetch): not returned
+
+> Received a list of assets from a bounty today. Had already found 90% of the assets listed. Refreshing to see bounties willing to give their attack surface to hunters. Could have missed a critical in the 10% I didn’t have 🤷‍♂️
+
+
+---
+
+## 2018-05-30 · Post · Tracking time when doing bug bounties [pic.x.com/wnUQD9tK8G]
+
+
+### Post — @infosec_au — 2018-05-30 15:28 UTC (2018-05-30 16:28 WAT)
+
+- URL: https://x.com/infosec_au/status/1001847831227858945
+- Metrics (at fetch): not returned
+
+> Tracking time when doing bug bounties [pic.x.com/wnUQD9tK8G]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2018-03-24 · Post · Uber just paid out 10k for the most basic and simple bug I have ever submitted to a bug bounty. You 
+
+
+### Post — @infosec_au — 2018-03-24 05:09 UTC (2018-03-24 06:09 WAT)
+
+- URL: https://x.com/infosec_au/status/977412157913546752
+- Metrics (at fetch): not returned
+
+> Uber just paid out 10k for the most basic and simple bug I have ever submitted to a bug bounty. You don’t need to be a level 99 wizard in ROP chains in order to find critical bugs.
+
+
+---
+
+## 2017-12-24 · Post · How to NOT win bug bounties:
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2017-12-24 21:49 UTC (2017-12-24 22:49 WAT)
+
+- URL: https://x.com/infosec_au/status/945048806290321408
+- Metrics (at fetch): not returned
+
+> How to NOT win bug bounties:
+> 1. Treat the people triaging reports like shit:
+> https://hackerone.com/reports/293359#activity-2203160
+> https://hackerone.com/reports/293358#activity-2214781
+> 2. Angrily write a blog post shaming the company because you couldn't find any valid, non duplicate issues:
+> https://news.ycombinator.com/item?id=16000550
+
+**Links in post:** https://hackerone.com/reports/293359#activity-2203160, https://hackerone.com/reports/293358#activity-2214781, https://news.ycombinator.com/item?id=16000550
+
+
+---
+
+## 2017-12-22 · Post · Looking forward to writing up the bug I found with Assetnote that won Hack The World for Uber!
+
+
+### Post — @infosec_au — 2017-12-22 20:14 UTC (2017-12-22 21:14 WAT)
+
+- URL: https://x.com/infosec_au/status/944300164310814720
+- Metrics (at fetch): not returned
+
+> Looking forward to writing up the bug I found with Assetnote that won Hack The World for Uber!
+
+
+---
+
+## 2017-12-01 · Post · Pretty cool XSS bug caused by "Query String Sort" being enabled on Cloudflare: https://hackerone.com
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @infosec_au — 2017-12-01 14:08 UTC (2017-12-01 15:08 WAT)
+
+- URL: https://x.com/infosec_au/status/936597984682311680
+- Metrics (at fetch): not returned
+
+> Pretty cool XSS bug caused by "Query String Sort" being enabled on Cloudflare: https://hackerone.com/reports/293689 (@jobertabma's post mortem comment is worth reading)
+
+**Links in post:** https://hackerone.com/reports/293689
+
+
+---
+
+## 2017-05-04 · Post · Chaining bugs to get RCE, LFD and SQLi on @YahooSecurity's bug bounty. Thanks for the payout team. 
+
+
+Tags (automatic): SQL injection, RCE
+
+
+### Post — @infosec_au — 2017-05-04 00:41 UTC (2017-05-04 01:41 WAT)
+
+- URL: https://x.com/infosec_au/status/859931033784823809
+- Metrics (at fetch): not returned
+
+> Chaining bugs to get RCE, LFD and SQLi on @YahooSecurity's bug bounty. Thanks for the payout team. #assetnote [pic.x.com/Gpn5oGoHNr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C-8WfGIW0AAFVyC.jpg — no alt text provided by author
+
+
+---
+
+## 2017-04-18 · Post · Eep! $17.75k bounty on @Hacker0x01 this Tuesday. [pic.x.com/K6MBRlCIHO]
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2017-04-18 19:05 UTC (2017-04-18 20:05 WAT)
+
+- URL: https://x.com/infosec_au/status/854410660813299712
+- Metrics (at fetch): not returned
+
+> Eep! $17.75k bounty on @Hacker0x01 this Tuesday. [pic.x.com/K6MBRlCIHO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C9t5m1qUAAAdfMN.jpg — no alt text provided by author
+
+
+---
+
+## 2016-12-09 · Post · Nice to wake up to this on a Friday! I think this is the highest bounty payout I've ever received in
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2016-12-09 13:44 UTC (2016-12-09 14:44 WAT)
+
+- URL: https://x.com/infosec_au/status/807219331071295493
+- Metrics (at fetch): not returned
+
+> Nice to wake up to this on a Friday! I think this is the highest bounty payout I've ever received in a single day. @Hacker0x01 woo! [pic.x.com/wiNBu0RDcz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CzPRbu-UoAA2brc.jpg — no alt text provided by author
+
+
+---
+
+## 2016-07-29 · Post · I found 120 bugs in 120 days within bug bounties and wrote a transparent blog post about it: https:/
+
+
+### Post — @infosec_au — 2016-07-29 15:49 UTC (2016-07-29 16:49 WAT)
+
+- URL: https://x.com/infosec_au/status/759053308711403521
+- Metrics (at fetch): not returned
+
+> I found 120 bugs in 120 days within bug bounties and wrote a transparent blog post about it: https://shubs.io/high-frequency-security-bug-hunting-120-days-120-bugs/ #bugbounty
+
+**Links in post:** https://shubs.io/high-frequency-security-bug-hunting-120-days-120-bugs/
+
+
+---
+
+## 2016-07-18 · Post · If you bug bounty, check out https://xsshunter.com. It's a superior blind XSS identification tool by
+
+
+Tags (automatic): XSS
+
+
+### Post — @infosec_au — 2016-07-18 18:31 UTC (2016-07-18 19:31 WAT)
+
+- URL: https://x.com/infosec_au/status/755107630264094720
+- Metrics (at fetch): not returned
+
+> If you bug bounty, check out https://xsshunter.com. It's a superior blind XSS identification tool by @IAmMandatory [pic.x.com/3VoHPi8LD4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CnquQk0UEAAvRZ0.jpg — no alt text provided by author
+
+**Links in post:** https://xsshunter.com
+
+
+---
+
+## 2016-04-22 · Post · when they say they've patched the exploit but your original exploit vector still works [pic.x.com/Q6
+
+
+### Post — @infosec_au — 2016-04-22 06:45 UTC (2016-04-22 07:45 WAT)
+
+- URL: https://x.com/infosec_au/status/723402283682131968
+- Metrics (at fetch): not returned
+
+> when they say they've patched the exploit but your original exploit vector still works [pic.x.com/Q61XU1faE2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CgoKiwLU0AAwIzl.jpg — no alt text provided by author
+
+
+---
+
+## 2016-04-19 · Post · I've released Assetnote for the bug bounty community to assist in the monitoring of passive DNS data
+
+
+### Post — @infosec_au — 2016-04-19 01:36 UTC (2016-04-19 02:36 WAT)
+
+- URL: https://x.com/infosec_au/status/722237477377814528
+- Metrics (at fetch): not returned
+
+> I've released Assetnote for the bug bounty community to assist in the monitoring of passive DNS data - more here: https://github.com/infosec-au/assetnote
+
+**Links in post:** https://github.com/infosec-au/assetnote
+
+
+---
+
+## 2016-03-27 · Post · Introducing bug bounty dash, a dashboard for bounty hunters on @Hacker0x01 and @Bugcrowd: https://gi
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @infosec_au — 2016-03-27 19:09 UTC (2016-03-27 20:09 WAT)
+
+- URL: https://x.com/infosec_au/status/714167548275597312
+- Metrics (at fetch): not returned
+
+> Introducing bug bounty dash, a dashboard for bounty hunters on @Hacker0x01 and @Bugcrowd: https://github.com/infosec-au/bugbountydash [pic.x.com/4alqBsAOaC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cek7mZVWQAEa2m9.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/infosec-au/bugbountydash
+
+
+---
+
+## 2015-07-16 · Post · Pretty cool tricks via X-Forwarded-For headers to bypass 403 restrictions: https://shubh.am/enumerat
+
+
+### Post — @infosec_au — 2015-07-16 09:09 UTC (2015-07-16 10:09 WAT)
+
+- URL: https://x.com/infosec_au/status/621607513830469632
+- Metrics (at fetch): not returned
+
+> Pretty cool tricks via X-Forwarded-For headers to bypass 403 restrictions: https://shubh.am/enumerating-ips-in-x-forwarded-headers-to-bypass-403-restrictions/
+
+**Links in post:** https://shubh.am/enumerating-ips-in-x-forwarded-headers-to-bypass-403-restrictions/

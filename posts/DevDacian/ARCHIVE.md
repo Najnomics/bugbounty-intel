@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 329
-- Conversations/threads: 325
-- Oldest post captured: 2023-05-23
+- Posts in this file: 358
+- Conversations/threads: 354
+- Oldest post captured: 2023-03-16
 - Newest post captured: 2026-11-09
 
 
@@ -7304,3 +7304,558 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fw1_X9BacAU9c-J.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-23 · Post · Another potential easy High finding from a recent audit contest: swap exposed to unlimited slippage.
+
+
+### Post — @DevDacian — 2023-05-23 19:35 UTC (2023-05-23 20:35 WAT)
+
+- URL: https://x.com/DevDacian/status/1661093461259587586
+- Metrics (at fetch): bookmark 38, impression 7466, like 80, quote 0, reply 3, retweet 9
+
+> Another potential easy High finding from a recent audit contest: swap exposed to unlimited slippage. If you weren't able to find this vulnerability then read my Slippage Deep Dive @ https://t.co/RnSkiIL0mJ so you can spot it next time! https://t.co/lA7KJ0h8uY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fw1jZiTacAABXKX.png — no alt text provided by author
+
+
+---
+
+## 2023-05-23 · Post · Easy potential high finding in a recent audit contest. The modifier was located very close to the fu
+
+
+### Post — @DevDacian — 2023-05-23 19:14 UTC (2023-05-23 20:14 WAT)
+
+- URL: https://x.com/DevDacian/status/1661088123441537024
+- Metrics (at fetch): bookmark 10, impression 6672, like 71, quote 3, reply 11, retweet 4
+
+> Easy potential high finding in a recent audit contest. The modifier was located very close to the functions it was meant to protect, but unfortunately very close isn't enough :-) https://t.co/wqTRiHgkH0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fw1eZLQagAAkmht.png — no alt text provided by author
+
+
+---
+
+## 2023-05-21 · Post · An interesting question for all auditors to consider: what should be ultimate epistemological standa
+
+
+### Post — @DevDacian — 2023-05-21 12:15 UTC (2023-05-21 13:15 WAT)
+
+- URL: https://x.com/DevDacian/status/1660257940954320897
+- Metrics (at fetch): bookmark 2, impression 3251, like 13, quote 1, reply 3, retweet 3
+
+> An interesting question for all auditors to consider: what should be ultimate epistemological standard of truth when auditing?
+>
+> I argue it should be the absolute objective truth of the code submitted for audit.
+>
+> Food for thought; see comments @ https://t.co/k9597zLdfl
+
+
+---
+
+## 2023-05-16 · Post · See an external function taking an input address then casting it into a contract? 
+
+
+### Post — @DevDacian — 2023-05-16 21:28 UTC (2023-05-16 22:28 WAT)
+
+- URL: https://x.com/DevDacian/status/1658585246781296640
+- Metrics (at fetch): bookmark 6, impression 1452, like 25, quote 0, reply 2, retweet 1
+
+> See an external function taking an input address then casting it into a contract? 
+>
+> Consider whether you can pass the address of your own attack contract that will implement the required interface &amp; return values which pass all the checks, allowing execution to continue... https://t.co/BIu5vKKD0b
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwR5qJOakAcH-RS.png — no alt text provided by author
+
+
+---
+
+## 2023-05-15 · Post · The Lending &amp; Borrowing Deep Dive would have been especially useful to anyone who did the recent
+
+
+Tags (automatic): Smart contract / DeFi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-05-15 20:53 UTC (2023-05-15 21:53 WAT)
+
+- URL: https://x.com/DevDacian/status/1658214101162803200
+- Metrics (at fetch): bookmark 53, impression 7686, like 92, quote 0, reply 5, retweet 16
+
+> The Lending &amp; Borrowing Deep Dive would have been especially useful to anyone who did the recent Venus audit on @code4rena 
+>
+> It gets constantly shared and has become mandatory reading for developers and auditors working on Lending/Borrowing DeFi systems
+>
+> https://t.co/WldfjXCb2B
+
+
+---
+
+## 2023-05-15 · Post · Can I mentor you, can you be my student/apprentice/intern, can I help you with poc/issue?
+
+
+### Post — @DevDacian — 2023-05-15 12:16 UTC (2023-05-15 13:16 WAT)
+
+- URL: https://x.com/DevDacian/status/1658083913632464896
+- Metrics (at fetch): bookmark 0, impression 1628, like 16, quote 0, reply 1, retweet 0
+
+> Can I mentor you, can you be my student/apprentice/intern, can I help you with poc/issue?
+>
+> No. I know very little &amp; am totally unqualified to mentor you. Everything I'm learning I share freely my on deep dives which are continually updated.
+>
+> All done in my spare time as a hobby
+
+
+---
+
+## 2023-05-15 · Post · What is my strategy for PoCs in audits?
+
+
+### Post — @DevDacian — 2023-05-15 12:12 UTC (2023-05-15 13:12 WAT)
+
+- URL: https://x.com/DevDacian/status/1658082886317395968
+- Metrics (at fetch): bookmark 7, impression 1751, like 29, quote 1, reply 2, retweet 2
+
+> What is my strategy for PoCs in audits?
+>
+> Look for the closest provided test that will match. Goal is to use as much of their setup code as possible, to modify as little as possible.
+>
+> Take the closest matching test case &amp; copy it into a new test, rename &amp; modify to implement PoC
+
+
+---
+
+## 2023-05-12 · Post · 0x0 0x0Audits claims to be an AI-powered smart contract auditor, up 2428x from its day 1 mid-range
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @DevDacian — 2023-05-12 08:59 UTC (2023-05-12 09:59 WAT)
+
+- URL: https://x.com/DevDacian/status/1656947161064517633
+- Metrics (at fetch): bookmark 2, impression 3328, like 16, quote 1, reply 8, retweet 0
+
+> #0x0 #0x0Audits claims to be an AI-powered smart contract auditor, up 2428x from its day 1 mid-range price, 52m mcap. That's $2428 for every $1 invested in 107 days.
+>
+> How many smart contract audits has 0x0 performed and can we see the audit reports? The answer appears to be zero. https://t.co/KTYzAHt6Mj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv6n55DXoAIqG8S.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-11 · Post · Audit Contests have become a means to Private Audits or joining Tier-1 firm; their incentive model s
+
+
+### Post — @DevDacian — 2023-05-11 18:23 UTC (2023-05-11 19:23 WAT)
+
+- URL: https://x.com/DevDacian/status/1656726743833796608
+- Metrics (at fetch): bookmark 1, impression 3880, like 21, quote 0, reply 5, retweet 0
+
+> Audit Contests have become a means to Private Audits or joining Tier-1 firm; their incentive model sucks.
+>
+> Unique findings get rewarded well (good), but unique findings can be easily stolen in judging (bad) with no recourse.
+>
+> All the work auditor put in can be rendered worthless. https://t.co/20Wne6MxYx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1541067640264949760 — 2023-05-11 11:30 UTC (2023-05-11 12:30 WAT)
+    
+    - URL: https://x.com/1541067640264949760/status/1656622776537546752
+    - Metrics (at fetch): bookmark 0, impression 4114, like 1, quote 1, reply 0, retweet 0
+    
+    > @DevDacian Every one started from bottom in contests, better try to be a big name
+    
+
+
+---
+
+## 2023-05-11 · Post · In some ways solo auditors are more impartial than audit contest judges. Solo auditors get paid thei
+
+
+### Post — @DevDacian — 2023-05-11 10:28 UTC (2023-05-11 11:28 WAT)
+
+- URL: https://x.com/DevDacian/status/1656607273823924224
+- Metrics (at fetch): bookmark 0, impression 1198, like 12, quote 0, reply 2, retweet 1
+
+> In some ways solo auditors are more impartial than audit contest judges. Solo auditors get paid their fee to give their opinion, end of story.
+>
+> Judges can decide A==B when A!=B, stealing unique finding from one to give the extra reward to another (their friend, big name etc).
+
+
+---
+
+## 2023-05-11 · Post · Solo auditors looked down on as they judge their own work while audit contests upheld as a beacon of
+
+
+### Post — @DevDacian — 2023-05-11 09:34 UTC (2023-05-11 10:34 WAT)
+
+- URL: https://x.com/DevDacian/status/1656593495057121281
+- Metrics (at fetch): bookmark 0, impression 1202, like 19, quote 0, reply 1, retweet 1
+
+> Solo auditors looked down on as they judge their own work while audit contests upheld as a beacon of independent absolute impartial truth.
+>
+> Reality: both are subjective. Solo auditor subjectively grades their own work, audit contest judge &amp; sponsor subjectively grade others work
+
+
+---
+
+## 2023-05-11 · Post · The greatest appeal of smart contract auditing to me is that of objective truth. A==B or A!=B. 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-05-11 09:15 UTC (2023-05-11 10:15 WAT)
+
+- URL: https://x.com/DevDacian/status/1656588794265751553
+- Metrics (at fetch): bookmark 2, impression 1510, like 14, quote 0, reply 2, retweet 0
+
+> The greatest appeal of smart contract auditing to me is that of objective truth. A==B or A!=B. 
+>
+> Sadly I've realized that as far as audit contests go, the "truth" is very subjective; the judge together with the sponsor decide what the "truth" is; they can decide A==B even if A!=B
+
+
+---
+
+## 2023-05-08 · Post · Examined GMXv2 code from previous Sherlock audit &amp; applied new heuristics I've developed from my
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-05-08 10:18 UTC (2023-05-08 11:18 WAT)
+
+- URL: https://x.com/DevDacian/status/1655517618357555201
+- Metrics (at fetch): bookmark 2, impression 2089, like 28, quote 0, reply 1, retweet 2
+
+> Examined GMXv2 code from previous Sherlock audit &amp; applied new heuristics I've developed from my Deep Dive research.
+>
+> In ~1hr found a number of high &amp; medium issues that were actually found during the audit. Very rewarding to know I could have found them now - progress!
+
+
+---
+
+## 2023-05-05 · Post · Very happy to have my first confirmed unique finding in an audit competition.
+
+
+### Post — @DevDacian — 2023-05-05 22:19 UTC (2023-05-05 23:19 WAT)
+
+- URL: https://x.com/DevDacian/status/1654611744520822785
+- Metrics (at fetch): bookmark 6, impression 3062, like 31, quote 0, reply 2, retweet 1
+
+> Very happy to have my first confirmed unique finding in an audit competition.
+>
+> Judges did downgrade from high to medium - the same finding was a high last year, but is now considered a medium.
+>
+> Still very happy that my studies are bearing fruit!
+>
+> https://t.co/k9597zLdfl
+
+
+---
+
+## 2023-05-03 · Post · If I can do it, so can you!
+
+
+### Post — @DevDacian — 2023-05-03 05:56 UTC (2023-05-03 06:56 WAT)
+
+- URL: https://x.com/DevDacian/status/1653639707933413376
+- Metrics (at fetch): bookmark 6, impression 4149, like 31, quote 0, reply 0, retweet 3
+
+> If I can do it, so can you!
+>
+> Study + Audit.
+>
+> Learn &amp; Apply.
+>
+> Rinse &amp; Repeat.
+>
+> 10 hours -&gt; 100 hours -&gt; 1000 hours -&gt; Mastery https://t.co/tt96AJcN3J
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2023-05-03 05:38 UTC (2023-05-03 06:38 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1653635085147721728
+    - Metrics (at fetch): bookmark 4, impression 9516, like 38, quote 1, reply 4, retweet 1
+    
+    > Opened a new codebase to audit
+    > Navigated to first file
+    > Spotted high finding within first minute
+    > Coded simple PoC ~10 mins
+    > Submitted
+    >
+    > All that study is paying off. Feels good!
+    
+
+
+---
+
+## 2023-05-03 · Post · Opened a new codebase to audit
+
+
+### Post — @DevDacian — 2023-05-03 05:38 UTC (2023-05-03 06:38 WAT)
+
+- URL: https://x.com/DevDacian/status/1653635085147721728
+- Metrics (at fetch): bookmark 4, impression 9516, like 38, quote 1, reply 4, retweet 1
+
+> Opened a new codebase to audit
+> Navigated to first file
+> Spotted high finding within first minute
+> Coded simple PoC ~10 mins
+> Submitted
+>
+> All that study is paying off. Feels good!
+
+
+---
+
+## 2023-05-02 · Post · New EPIC Slippage Deep Dive has been released!
+
+
+### Post — @DevDacian — 2023-05-02 12:38 UTC (2023-05-02 13:38 WAT)
+
+- URL: https://x.com/DevDacian/status/1653378384850821120
+- Metrics (at fetch): bookmark 93, impression 14460, like 175, quote 4, reply 15, retweet 40
+
+> New EPIC Slippage Deep Dive has been released!
+>
+> Using @SoloditOfficial I went through every H/M Slippage audit finding &amp; systematized all major slippage vulnerability classes to help YOU!
+>
+> Slippage has been a great source of *unique* H/M findings!
+>
+> https://t.co/RnSkiIKsxb
+
+
+---
+
+## 2023-05-01 · Post · On-chain slippage calculation is a bad idea; here Quoter.quoteExactInput() itself performs a swap, m
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-05-01 11:18 UTC (2023-05-01 12:18 WAT)
+
+- URL: https://x.com/DevDacian/status/1652995822953574400
+- Metrics (at fetch): bookmark 5, impression 1345, like 24, quote 0, reply 1, retweet 1
+
+> On-chain slippage calculation is a bad idea; here Quoter.quoteExactInput() itself performs a swap, making amountOutMinimum subject to sandwich attack.
+>
+> DeFi platforms must enable users to specify slippage parameter which has been calculated off-chain. High Sherlock Derby contest https://t.co/9jQDVjIq4p
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvCePQ3aEAEuJzC.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-30 · Post · Thank you 3,000+ unique readers of my blog during April. I posted 2 Deep Dives (Precision Loss, Lend
+
+
+### Post — @DevDacian — 2023-04-30 21:47 UTC (2023-04-30 22:47 WAT)
+
+- URL: https://x.com/DevDacian/status/1652791900527796224
+- Metrics (at fetch): bookmark 1, impression 2940, like 38, quote 0, reply 5, retweet 0
+
+> Thank you 3,000+ unique readers of my blog during April. I posted 2 Deep Dives (Precision Loss, Lending/Borrowing Attacks) and 1 Bug Bounty Disclosure which were the top 3 viewed pages.
+>
+> 85% of traffic was from Twitter, top 5 countries India, USA, Nigeria, Bulgaria &amp; Germany https://t.co/gEFptWeHU4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fu_lBp6aQAAuPVj.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fu_lFlFaQAAcqRk.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fu_lKCdagAE3pqM.png — no alt text provided by author
+
+
+---
+
+## 2023-04-27 · Post · People see the bug bounty / audit contest results but they don't see the grind, hours spent studying
+
+
+### Post — @DevDacian — 2023-04-27 19:51 UTC (2023-04-27 20:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1651675549633499136
+- Metrics (at fetch): bookmark 1, impression 1497, like 16, quote 0, reply 0, retweet 2
+
+> People see the bug bounty / audit contest results but they don't see the grind, hours spent studying, reading &amp; analyzing past reports. Important to not get discouraged from lack of instant auditing success &amp; understand that success requires consistent effort over time https://t.co/Ohzr07Lkxp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @97492858 — 2023-04-27 16:46 UTC (2023-04-27 17:46 WAT)
+    
+    - URL: https://x.com/97492858/status/1651628913637081088
+    - Metrics (at fetch): bookmark 0, impression 1924, like 10, quote 1, reply 1, retweet 1
+    
+    > @HollaWaldfee100 @code4rena @sherlockdefi For sure! The instant successes are not instant successes. ~90% of their journey just isn’t documented on Twitter
+    
+
+
+---
+
+## 2023-04-24 · Post · Unexpected matching inputs vulnerability; the dev has subconsciously assumed that transfer() will be
+
+
+### Post — @DevDacian — 2023-04-24 09:12 UTC (2023-04-24 10:12 WAT)
+
+- URL: https://x.com/DevDacian/status/1650427545052131330
+- Metrics (at fetch): bookmark 23, impression 3306, like 53, quote 2, reply 2, retweet 6
+
+> Unexpected matching inputs vulnerability; the dev has subconsciously assumed that transfer() will be called with _from != _to, allowing an attacker to easily grab themselves free _amount tokens by calling transfer(attacker,attacker) from c4 TraderJoe audit https://t.co/xVvEdSkq6y https://t.co/JcaStfi5s3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fud_Fx1acAUeF3m.png — no alt text provided by author
+
+
+---
+
+## 2023-04-22 · Post · While adventuring through the glorious sun-filled land of stateful invariant fuzz testing, I may hav
+
+
+### Post — @DevDacian — 2023-04-22 13:10 UTC (2023-04-22 14:10 WAT)
+
+- URL: https://x.com/DevDacian/status/1649762630545055747
+- Metrics (at fetch): bookmark 4, impression 1262, like 12, quote 1, reply 0, retweet 0
+
+> While adventuring through the glorious sun-filled land of stateful invariant fuzz testing, I may have found a bug in Foundry. Have created an issue &amp; attached the simplest PoC to reproduce https://t.co/KbBMcmPGez
+
+
+---
+
+## 2023-04-19 · Post · Received my first bug bounty: $28,000 admin brick &amp; forced revert in a live smart contract. Comb
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-04-19 20:51 UTC (2023-04-19 21:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1648791340887736321
+- Metrics (at fetch): bookmark 64, impression 31580, like 202, quote 2, reply 20, retweet 29
+
+> Received my first bug bounty: $28,000 admin brick &amp; forced revert in a live smart contract. Combines two vulnerabilities: missing access control &amp; unchecked state transfer, leverages them into perm forced revert &amp; admin brick. Successfully mitigated. https://t.co/SJC2qutCK1
+
+
+---
+
+## 2023-04-14 · Post · Auditors should *consciously* ask themselves: What *subconscious* assumptions has the developer made
+
+
+### Post — @DevDacian — 2023-04-14 12:49 UTC (2023-04-14 13:49 WAT)
+
+- URL: https://x.com/DevDacian/status/1646858131639762944
+- Metrics (at fetch): bookmark 9, impression 2120, like 25, quote 1, reply 1, retweet 4
+
+> Auditors should *consciously* ask themselves: What *subconscious* assumptions has the developer made, leading to unhandled input vulns?
+>
+> Simplified unhandled matching inputs vulnerability from @cyfrin Beanstalk audit =&gt; broken invariant &amp; funds drain https://t.co/fRJu0p1Onl https://t.co/rrECcgz92f
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtrQHf4aAAA4l77.png — no alt text provided by author
+
+
+---
+
+## 2023-04-12 · Post · Have updated my precision loss deep-dive with simplified "Downcast Overflow" exploit from @gpersoon'
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @DevDacian — 2023-04-12 12:14 UTC (2023-04-12 13:14 WAT)
+
+- URL: https://x.com/DevDacian/status/1646124597002252291
+- Metrics (at fetch): bookmark 11, impression 2732, like 28, quote 0, reply 1, retweet 2
+
+> Have updated my precision loss deep-dive with simplified "Downcast Overflow" exploit from @gpersoon's balancer exploit. Very sneaky type of error that can result in unexpected behavior and exploitable storage state. Downcasts overflow, they don't revert!
+>
+> https://t.co/LINKt3ZaSk https://t.co/W4RW1cwK5j
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ftg1JiKaUAA4mER.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ftg1JiTacAIksU2.png — no alt text provided by author
+
+
+---
+
+## 2023-04-10 · Post · Don't care about data returned from call() ? Use low-level assembly call which doesn't automatically
+
+
+### Post — @DevDacian — 2023-04-10 09:21 UTC (2023-04-10 10:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1645356306793123851
+- Metrics (at fetch): bookmark 2, impression 683, like 10, quote 0, reply 0, retweet 0
+
+> Don't care about data returned from call() ? Use low-level assembly call which doesn't automatically copy data returned into memory. More gas-efficient &amp; prevents gas-grieving attacks.
+>
+> Just learned this neat trick from @pashov Zerem audit @ https://t.co/6IWfo11IQe https://t.co/yAz8iYIFXN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtV6Vi4akAACt9J.png — no alt text provided by author
+
+
+---
+
+## 2023-03-28 · Post · Deep Dive on Signature Replay Attacks:
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-03-28 21:22 UTC (2023-03-28 22:22 WAT)
+
+- URL: https://x.com/DevDacian/status/1640826718264131584
+- Metrics (at fetch): bookmark 14, impression 1742, like 23, quote 0, reply 1, retweet 11
+
+> Deep Dive on Signature Replay Attacks:
+>
+> - Missing Nonce Replay (reuse on same chain)
+> - Cross-Chain Replay (reuse on diff chain)
+> - Missing Parameter Exploit (change parameter to steal funds)
+>
+> Full code &amp; explanation from @code4rena high &amp; medium findings https://t.co/7qPvwEQPyX
+
+
+---
+
+## 2023-03-17 · Post · 3 days ago I learned this unchecked state vuln from @gogotheauditor. Yesterday found this exact bug 
+
+
+### Post — @DevDacian — 2023-03-17 20:40 UTC (2023-03-17 21:40 WAT)
+
+- URL: https://x.com/DevDacian/status/1636829882406825984
+- Metrics (at fetch): bookmark 8, impression 2618, like 27, quote 1, reply 3, retweet 0
+
+> 3 days ago I learned this unchecked state vuln from @gogotheauditor. Yesterday found this exact bug in a live contract with 7-figure TVL. Wrote PoC which leverages into bricking core functionality, shared PoC with devs, no response. Auditors how long before public disclosure? https://t.co/tATpqbAvLY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrcvZ4nacAAfq_1.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-16 · Post · Smart contracts are deterministic state machines that transition from one state to another; critical
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-03-16 09:23 UTC (2023-03-16 10:23 WAT)
+
+- URL: https://x.com/DevDacian/status/1636296998822490114
+- Metrics (at fetch): bookmark 8, impression 10351, like 18, quote 1, reply 0, retweet 0
+
+> Smart contracts are deterministic state machines that transition from one state to another; critical bugs found in unexpected &amp; unchecked state transitions.
+>
+> Here 2nd step of ownership transfer doesn't check if 1st step has been initiated by @gogoauditor https://t.co/gvLXGiKBdO https://t.co/aMl2nGkzJy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrVK10NaIAE8yOd.jpg — no alt text provided by author

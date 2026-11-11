@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 742
-- Conversations/threads: 383
+- Posts in this file: 817
+- Conversations/threads: 406
 - Oldest post captured: 2022-11-05
 - Newest post captured: 2025-04-21
 
@@ -1583,7 +1583,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > (7/11) https://t.co/wIRry3BDR6
 
-**Quoted post** 1702354817090531747: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-09-14 16:13 UTC (2023-09-14 17:13 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1702354817090531747
+    - Metrics (at fetch): not returned
+    
+    > 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 comprehensive risk management platform.
+    >
+    > 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus [pic.x.com/BHVJCRHnIH]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F5_xupgaMAEMUwb.jpg — no alt text provided by author
+    
 
 
 ---
@@ -12483,7 +12496,7 @@ Tags (automatic): ZK
     > 1/4 [pic.x.com/IKUj0dH0GW]
     
     **Media:**
-    - media `3_1712409374772330496` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/F8OzQO1agAAVD1S.jpg — no alt text provided by author
     
 
 
@@ -17487,7 +17500,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > 1/4 [pic.x.com/IKUj0dH0GW]
 
 **Media:**
-- media `3_1712409374772330496` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/F8OzQO1agAAVD1S.jpg — no alt text provided by author
 
 
 ### Thread part 2 — @ChainLight_io — 2023-10-12 10:06 UTC (2023-10-12 11:06 WAT)
@@ -17502,7 +17515,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > 2/4 [pic.x.com/PsCJwYmzV7]
 
 **Media:**
-- media `3_1712409391058833408` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/F8OzRLga0AASYAf.jpg — no alt text provided by author
 
 
 ### Thread part 3 — @ChainLight_io — 2023-10-12 10:06 UTC (2023-10-12 11:06 WAT)
@@ -17549,8 +17562,1737 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     > 1/4 [pic.x.com/IKUj0dH0GW]
     
     **Media:**
-    - media `3_1712409374772330496` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/F8OzQO1agAAVD1S.jpg — no alt text provided by author
     
+
+
+---
+
+## 2023-10-09 · Thread · 📰 ChainLight Weekly, the second week of October! 🌐
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @ChainLight_io — 2023-10-09 13:00 UTC (2023-10-09 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1711366006411755827
+- Metrics (at fetch): not returned
+
+> 📰 ChainLight Weekly, the second week of October! 🌐
+>
+> 👇 Check out the summary &amp; details on our thread 👀
+>
+> 1️⃣-2️⃣ Stars Arena Takes Exploits Twice
+> 3️⃣ DNS Hijacking Attack on Galxe
+> 4️⃣ http://Friend.Tech Users Suffer SIM Swap Attacks
+> 5️⃣ 3Q Web3 Hack Wrap-up [pic.x.com/bPxCb4xvPQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7_-T9NaEAAYnrb.jpg — no alt text provided by author
+
+**Links in post:** http://Friend.Tech
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-09 13:00 UTC (2023-10-09 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1711366009872097285
+- Metrics (at fetch): not returned
+
+> 1️⃣ Stars Arena Takes Exploits Twice
+>
+> Stars Arena of Avalanche takes attacks twice in a row! 🤯 The first vulnerability allowed the attacker to receive the reward from the contract when selling with no share. 🚨 High gas consumption for the attack let only $2K of AVAX be siphoned. https://twitter.com/0xlilitch/status/1709885464209973549
+
+**Links in post:** https://twitter.com/0xlilitch/status/1709885464209973549
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1517151646035234816 — 2023-10-05 10:57 UTC (2023-10-05 11:57 WAT)
+    
+    - URL: https://x.com/1517151646035234816/status/1709885464209973549
+    - Metrics (at fetch): not returned
+    
+    > @starsarenacom, you fucked up
+    >
+    > 1.1 million dollars are being drained right now because of noob devs who couldn't make a copy of http://Friend.tech that will work properly
+    >
+    > If you hold ANY SHARES in StarsArena you should sell while you still can
+    >
+    > read next⬇️ [pic.x.com/HzgXvJc8ju]
+    
+    **Media:**
+    - media `3_1709880387470503936` (details not returned by the API)
+    
+    **Links in post:** http://Friend.tech
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-09 13:00 UTC (2023-10-09 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1711366013198237890
+- Metrics (at fetch): not returned
+
+> 2️⃣ Right after the first exploit, Stars Arena experienced the second attack, which drained its whole TVL. 😱 Reentrancy, one of the classic vulnerability patterns, is pointed as the root cause of the vulnerability. The importance of sophisticated audits can't be too emphasized... https://twitter.com/TheArenaApp/status/1710540444075978846
+
+**Links in post:** https://twitter.com/TheArenaApp/status/1710540444075978846
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1655607241595056128 — 2023-10-07 06:19 UTC (2023-10-07 07:19 WAT)
+    
+    - URL: https://x.com/1655607241595056128/status/1710540444075978846
+    - Metrics (at fetch): not returned
+    
+    > There has been a major security breach with the smart contract. 
+    >
+    > We're actively checking the issue. 
+    >
+    > DO NOT deposit any funds. 
+    >
+    > Stay tuned for updates.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-09 13:00 UTC (2023-10-09 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1711366016335556782
+- Metrics (at fetch): not returned
+
+> 3️⃣ DNS Hijacking Attack on Galxe
+>
+> Galxe experiences a DNS hijacking attack, redirecting its users to phishing links! 🫨 1,120 victims with $270K losses are estimated within the attack. 🥲 Be more careful interacting with any services; camouflaged thieves are lurking everywhere. https://twitter.com/Galxe/status/1710338105939521880
+
+**Links in post:** https://twitter.com/Galxe/status/1710338105939521880
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1375235209495388161 — 2023-10-06 16:55 UTC (2023-10-06 17:55 WAT)
+    
+    - URL: https://x.com/1375235209495388161/status/1710338105939521880
+    - Metrics (at fetch): not returned
+    
+    > Dear Galxe Community,
+    >
+    > We recognize the impact that recent events have had upon our users and are quickly working to take remedial action. The Galxe security team continues to take an aggressive approach to protect your data, funds and digital assets.
+    >
+    > Steps You Should Take:
+    > ❗️Do
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-10-09 13:00 UTC (2023-10-09 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1711366019535827210
+- Metrics (at fetch): not returned
+
+> 4️⃣ http://Friend.Tech Users Suffer SIM Swap Attacks
+>
+> Users of the trending SocialFi on Base suffered SIM swap attacks, getting their deposits drained. 😵 Users should avoid using SMS-based authentication; attackers may impersonate you with your info in the wild. 🧐 https://twitter.com/zachxbt/status/1709697295464141208
+
+**Links in post:** http://Friend.Tech, https://twitter.com/zachxbt/status/1709697295464141208
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3012852462 — 2023-10-04 22:29 UTC (2023-10-04 23:29 WAT)
+    
+    - URL: https://x.com/3012852462/status/1709697295464141208
+    - Metrics (at fetch): not returned
+    
+    > The same scammer profited $385K (234 ETH) in the past 24 hours off SIM swapping four different FriendTech users. [pic.x.com/03BoBEqGax]
+    
+    **Media:**
+    - media `3_1709697290263252992` (details not returned by the API)
+    - media `3_1709697290208710656` (details not returned by the API)
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-10-09 13:00 UTC (2023-10-09 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1711366023046377601
+- Metrics (at fetch): not returned
+
+> 5️⃣ 3Q Web3 Hack Wrap-up
+>
+> A report of Immunefi reveals the crypto loss in Q3 2023! 💸 $685M of loss in total through 76 incidents, while contract vulnerabilities caused 96.7% of the incidents. Audits and on-chain monitoring could have prevented these tragedies. 🥲 https://twitter.com/Cointelegraph/status/1709283321858191472
+
+**Links in post:** https://twitter.com/Cointelegraph/status/1709283321858191472
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2023-10-03 19:04 UTC (2023-10-03 20:04 WAT)
+    
+    - URL: https://x.com/2207129125/status/1709283321858191472
+    - Metrics (at fetch): not returned
+    
+    > In Q3, Web3 projects endured a 153% year-over-year increase in exploits and fraud, according to Immunefi. https://cointelegraph.com/news/crypto-suffered-153-percent-yoy-increase-hacks-scams-q3-immunefi
+    
+    **Links in post:** https://cointelegraph.com/news/crypto-suffered-153-percent-yoy-increase-hacks-scams-q3-immunefi
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-10-09 13:00 UTC (2023-10-09 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1711366026267640169
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉 @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-10-05 · Post · 🚨 ChainLight Patch Thursday, the first week of October!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-10-05 14:03 UTC (2023-10-05 15:03 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1709932428259983869
+- Metrics (at fetch): not returned
+
+> 🚨 ChainLight Patch Thursday, the first week of October!
+>
+> In this Patch Thursday, we address vulnerabilities in an on-chain perpetual futures protocol, Perpetual Protocol. ChainLight identified multiple vulnerabilities of Perpetual Protocol in 2022. We plan to disclose them in [pic.x.com/NcHTxpMbKf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7rl2yQaEAAjAcn.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-02 · Thread · 📰 ChainLight Weekly, the first week of October! 🌐
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @ChainLight_io — 2023-10-02 13:00 UTC (2023-10-02 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1708829371946139852
+- Metrics (at fetch): not returned
+
+> 📰 ChainLight Weekly, the first week of October! 🌐
+>
+> 👇 Check out the summary &amp; details on our thread 👀
+>
+> 1️⃣ Vitalik's Post on Enshrinement
+> 2️⃣ Paradigm Files Amicus Brief in SEC's Lawsuit
+> 3️⃣ Alchemy Open-sources Rundler
+> 4️⃣ Immunefi Launches Vaults System
+> 5️⃣ Do Kwon's Confession [pic.x.com/7NboZfDonT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7b7QZzbEAA546o.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-02 13:00 UTC (2023-10-02 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1708829375079309482
+- Metrics (at fetch): not returned
+
+> 1️⃣ Vitalik's Post on Enshrinement
+>
+> Vitalik uploaded a new post about enshrining various features in Ethereum while balancing the protocol's functionality and complexity. 🧐 Read the post through the link below and share your insights about "Enshrinement" in Ethereum! 👇 https://twitter.com/VitalikButerin/status/1708095471292764297
+
+**Links in post:** https://twitter.com/VitalikButerin/status/1708095471292764297
+
+**Quoted post (full text):**
+
+    #### Quoted post — @295218901 — 2023-09-30 12:24 UTC (2023-09-30 13:24 WAT)
+    
+    - URL: https://x.com/295218901/status/1708095471292764297
+    - Metrics (at fetch): not returned
+    
+    > Should Ethereum be okay with enshrining more things in the protocol?
+    >
+    > https://vitalik.eth.limo/general/2023/09/30/enshrinement.html
+    
+    **Links in post:** https://vitalik.eth.limo/general/2023/09/30/enshrinement.html
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-02 13:00 UTC (2023-10-02 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1708829378002755779
+- Metrics (at fetch): not returned
+
+> 2️⃣ Paradigm Files Amicus Brief in SEC's Lawsuit
+>
+> 🚨 Paradigm, a Web3 investment firm, accuses the SEC of regulatory overreach in a lawsuit against Binance, raising critical questions about SEC's regulations. Stay tuned for this regulatory showdown! ⚖️ https://t.co/LWhWZh88L6
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2023-09-30 13:00 UTC (2023-09-30 14:00 WAT)
+    
+    - URL: https://x.com/2207129125/status/1708104565676032291
+    - Metrics (at fetch): not returned
+    
+    > Paradigm calls out the SEC, claiming they're using allegations not just to accuse, but to change the law—bypassing the regular rulemaking.
+    > https://cointelegraph.com/news/paradigm-accuses-sec-of-bypassing-rules-in-binance-lawsuit
+    
+    **Links in post:** https://cointelegraph.com/news/paradigm-accuses-sec-of-bypassing-rules-in-binance-lawsuit
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-02 13:00 UTC (2023-10-02 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1708829381093945447
+- Metrics (at fetch): not returned
+
+> 3️⃣ Alchemy Open-sources Rundler
+>
+> Alchemy takes a leap forward in blockchain innovation with the open-sourcing of Rundler, a high-performance Rust-based bundler for smart accounts! 🦀 🚀 Read below for more details! 👇 https://twitter.com/Alchemy/status/1707450594276081670
+
+**Links in post:** https://twitter.com/Alchemy/status/1707450594276081670
+
+**Quoted post (full text):**
+
+    #### Quoted post — @953748782394499072 — 2023-09-28 17:41 UTC (2023-09-28 18:41 WAT)
+    
+    - URL: https://x.com/953748782394499072/status/1707450594276081670
+    - Metrics (at fetch): not returned
+    
+    > 1/ 🚀 We're open sourcing Rundler!
+    >
+    > Rundler is our ERC-4337 Bundler written in Rust 🦀
+    >
+    > We think Rundler is a game-changer for accelerating the transition to smart accounts, and as of today, it's open-source (LGPL v3.0)!
+    >
+    > Let's dive into the details 👇 [pic.x.com/vZ9bJiQPt7]
+    
+    **Media:**
+    - media `3_1707450590929027076` (details not returned by the API)
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-10-02 13:00 UTC (2023-10-02 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1708829384134783003
+- Metrics (at fetch): not returned
+
+> 4️⃣ Immunefi Launches Vaults System
+>
+> Immunefi launches its new on-chain bug bounty offering system, Vaults! 🚀 Projects can securely escrow funds in a Gnosis Safe smart contract, reassuring white hat hackers. A good win-win for projects and security researchers! 🤩 https://twitter.com/immunefi/status/1706677181928054847
+
+**Links in post:** https://twitter.com/immunefi/status/1706677181928054847
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2023-09-26 14:28 UTC (2023-09-26 15:28 WAT)
+    
+    - URL: https://x.com/immunefi/status/1706677181928054847
+    - Metrics (at fetch): not returned
+    
+    > The Immunefi Vaults System v1 is now live.
+    >
+    > Projects who want to boost trust with whitehats to get more high-quality bug reports can now deposit assets into their own secure, sovereign vault.
+    >
+    > Signing up for a vault is free, easy, and quick.
+    >
+    > Let's go.
+    >
+    > https://immunefi.com/vaults?utm_source=twitter&utm_medium=post&utm_campaign=launch
+    
+    **Links in post:** https://immunefi.com/vaults?utm_source=twitter&utm_medium=post&utm_campaign=launch
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-10-02 13:00 UTC (2023-10-02 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1708829387095933253
+- Metrics (at fetch): not returned
+
+> 5️⃣ Do Kwon's Confession
+>
+> Slack chat records in SEC documents reveal the confession of Terraform Labs co-founder Do Kwon about faking trading volume! 🤯 The chat involves a discussion on manipulating transactions to attract innocent investors with a co-founder. What a scoop! 🫨 https://twitter.com/Cointelegraph/status/1707945383299895742
+
+**Links in post:** https://twitter.com/Cointelegraph/status/1707945383299895742
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2023-09-30 02:28 UTC (2023-09-30 03:28 WAT)
+    
+    - URL: https://x.com/2207129125/status/1707945383299895742
+    - Metrics (at fetch): not returned
+    
+    > The US SEC presented a Slack conversation between Terraform Labs co-founders Do Kwon and Daniel Shin discussing the manipulation of transactions to lure in investors. "I can just create fake transactions that look real," a message stated. https://cointelegraph.com/news/terraform-labs-do-kwon-slack-chat-evidence
+    
+    **Links in post:** https://cointelegraph.com/news/terraform-labs-do-kwon-slack-chat-evidence
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-10-02 13:00 UTC (2023-10-02 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1708829390031966271
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉
+> @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-09-25 · Thread · 📰 ChainLight Weekly, the fourth week of September! 🌐
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory corruption / native
+
+
+### Post — @ChainLight_io — 2023-09-25 13:00 UTC (2023-09-25 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1706292613962412539
+- Metrics (at fetch): not returned
+
+> 📰 ChainLight Weekly, the fourth week of September! 🌐
+>
+> 👇 Check out the summary &amp; details on our thread 👀
+>
+> 1️⃣ Balancer Takes Another Hit
+> 2️⃣ Mixin Network Exploited
+> 3️⃣ $LUSD of Linear Finance Attacked
+> 4️⃣ Nansen Leaks User Privacy
+> 5️⃣ NONE Suspected to Rugpull [pic.x.com/FZz1VBwaLS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F634FpmbkAALLNx.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-09-25 13:00 UTC (2023-09-25 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1706292617359843469
+- Metrics (at fetch): not returned
+
+> 1️⃣ Balancer Takes Another Hit
+>
+> Balancer, which suffered from a $900K exploit of its smart contract, takes another hit of $230K! 🤯 The BGP hijacking attack led users to be redirected to transfer their assets to the exploiter. Be careful, even when interacting with known services! https://twitter.com/Balancer/status/1704281611326357567
+
+**Links in post:** https://twitter.com/Balancer/status/1704281611326357567
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1162883382700912640 — 2023-09-19 23:49 UTC (2023-09-20 00:49 WAT)
+    
+    - URL: https://x.com/1162883382700912640/status/1704281611326357567
+    - Metrics (at fetch): not returned
+    
+    > The balancer frontend is under an attack. The issue is currently under investigation. Please do NOT interact with the balancer UI until further notice!
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-09-25 13:00 UTC (2023-09-25 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1706292620463681833
+- Metrics (at fetch): not returned
+
+> 2️⃣ Mixin Network Exploited
+>
+> Mixin Network lost about $200M through the attack on its cloud service provider! 🫨 Curiosities arise on how a decentralized blockchain network loses most of its TVL through a cloud database attack. 🕵️‍♂️ https://twitter.com/MixinKernel/status/1706139175018529139
+
+**Links in post:** https://twitter.com/MixinKernel/status/1706139175018529139
+
+**Quoted post (full text):**
+
+    #### Quoted post — @919250799984648192 — 2023-09-25 02:50 UTC (2023-09-25 03:50 WAT)
+    
+    - URL: https://x.com/919250799984648192/status/1706139175018529139
+    - Metrics (at fetch): bookmark 66, impression 710720, like 343, quote 277, reply 148, retweet 117
+    
+    > [Announcement] In the early morning of September 23, 2023 Hong Kong time, the database of Mixin Network's cloud service provider was attacked by hackers, resulting in the loss of some assets on the mainnet. We have contacted Google and blockchain security company @SlowMist_Team
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-09-25 13:00 UTC (2023-09-25 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1706292623651266919
+- Metrics (at fetch): not returned
+
+> 3️⃣ $LUSD of Linear Finance Attacked
+>
+> A stablecoin of Linear Finance takes a hit! 📉 A bug on another token, LAAVE, allowed the attacker to mint a massive amount of the token, resulting in the value of the stablecoin being zero. Read below to follow the team's response. 👇 https://twitter.com/LinearFinance/status/1705194580906238128
+
+**Links in post:** https://twitter.com/LinearFinance/status/1705194580906238128
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1288422600700436481 — 2023-09-22 12:17 UTC (2023-09-22 13:17 WAT)
+    
+    - URL: https://x.com/1288422600700436481/status/1705194580906238128
+    - Metrics (at fetch): not returned
+    
+    > 📢 Linear Finance Update 🚨
+    >
+    > After the recent exploit, we've worked diligently to find resolutions. We're now presenting 4 potential solutions to the community. It's vital for our future and we value your input.
+    >
+    > Solutions
+    > https://medium.com/linear-finance/post-exploit-options-and-opportunities-d5540e04a055
+    >
+    > Vote
+    > https://snapshot.org/#/lineardao.eth/proposal/0x6c9b2dfcd6f8edf50f961744930968257bd90ed7f69d1f2919977a1998ceabfa
+    >
+    > 🗳️
+    
+    **Links in post:** https://medium.com/linear-finance/post-exploit-options-and-opportunities-d5540e04a055, https://snapshot.org/#/lineardao.eth/proposal/0x6c9b2dfcd6f8edf50f961744930968257bd90ed7f69d1f2919977a1998ceabfa
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-09-25 13:00 UTC (2023-09-25 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1706292626620895310
+- Metrics (at fetch): not returned
+
+> 4️⃣ Nansen Leaks User Privacy
+>
+> The system of Nansen got compromised by one of its third-party vendors, leaking the info of 6.8% of its users! 😱 The leaked information includes emails, password hashes, and blockchain addresses. Follow the updates if you are one of the users. 👇 https://twitter.com/nansen_ai/status/1705137387838574904
+
+**Links in post:** https://twitter.com/nansen_ai/status/1705137387838574904
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1260559704335568896 — 2023-09-22 08:30 UTC (2023-09-22 09:30 WAT)
+    
+    - URL: https://x.com/1260559704335568896/status/1705137387838574904
+    - Metrics (at fetch): not returned
+    
+    > 🚨 Important update from us at Nansen. Please take a moment to read this. [pic.x.com/syKE0sNnC6]
+    
+    **Media:**
+    - media `3_1705137382864154624` (details not returned by the API)
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-09-25 13:00 UTC (2023-09-25 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1706292629565255883
+- Metrics (at fetch): not returned
+
+> 5️⃣ NONE Suspected to Rugpull
+>
+> NONE, a discord-based Web3 trading tool, announced the termination of service due to the "critical exploit within its infrastructure". 😵 Without being provided any information on the actual exploit, the community is suspecting potential rugpull. https://t.co/4cSJYW0lvr
+
+**Links in post:** https://t.co/4cSJYW0lvr
+
+**Quoted post** 1704334756630921237: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 7 — @ChainLight_io — 2023-09-25 13:00 UTC (2023-09-25 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1706292632811663673
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉 @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-09-21 · Post · 🚨 ChainLight Patch Thursday, the third week of September!
+
+
+### Post — @ChainLight_io — 2023-09-21 14:05 UTC (2023-09-21 15:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1704859378963407131
+- Metrics (at fetch): not returned
+
+> 🚨 ChainLight Patch Thursday, the third week of September!
+>
+> 💨 It's now running towards the final chapter. We're unveiling the last part of the series.
+>
+> In the previous article (https://link.medium.com/KiMepU5mgDb), we classified types of exchanges based on these trading models and analyzed [pic.x.com/ceeapjTxf1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6jgZliaoAA-UwV.jpg — no alt text provided by author
+
+**Links in post:** https://link.medium.com/KiMepU5mgDb
+
+
+---
+
+## 2023-09-18 · Thread · 📰 ChainLight Weekly, the third week of September! 🌐
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-09-18 13:00 UTC (2023-09-18 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1703755777864044978
+- Metrics (at fetch): not returned
+
+> 📰 ChainLight Weekly, the third week of September! 🌐
+>
+> 👇 Check out the summary &amp; details on our thread 👀
+>
+> 1️⃣ Lazarus Exploits CoinEx
+> 2️⃣ Remitano's Hot Wallet Compromised
+> 3️⃣ Banana Gun Contract Bug
+> 4️⃣ SEC's Second NFT Regulation
+> 5️⃣ Metamask Unveils Snaps [pic.x.com/upHaua1axw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6T02WZbMAA39S8.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-09-18 13:00 UTC (2023-09-18 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1703755781081043304
+- Metrics (at fetch): not returned
+
+> 1️⃣ Lazarus Exploits CoinEx
+>
+> Crypto exchange CoinEx hit by a $54M heist! 🤯 On-chain investigators suspect North Korean hacker group Lazarus behind this catastrophe. Nearly $240M in crypto has been stolen by Lazarus since June. The world's peace seems gradually festering... https://twitter.com/CoinDesk/status/1701924791731491134
+
+**Links in post:** https://twitter.com/CoinDesk/status/1701924791731491134
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1333467482 — 2023-09-13 11:44 UTC (2023-09-13 12:44 WAT)
+    
+    - URL: https://x.com/1333467482/status/1701924791731491134
+    - Metrics (at fetch): not returned
+    
+    > North Korean attackers are linked to a recent $54 million crypto exploit, according to data cited by @ZachXBT and verified by CoinDesk. By @shauryamalwa.
+    >
+    > https://trib.al/Xj6ERju
+    
+    **Links in post:** https://trib.al/Xj6ERju
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-09-18 13:00 UTC (2023-09-18 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1703755784012894244
+- Metrics (at fetch): not returned
+
+> 2️⃣ Remitano's Hot Wallet Compromised
+>
+> Another CEX Remitano faces an attack, resulting in a $2.7M loss! 🫨 Fortunately, Tether promptly froze the alleged attacker's address, saving  ~90% of the stolen asset. 😎 Read below to follow the team's response to the security incident! 👇 https://twitter.com/remitano/status/1702617066761826794
+
+**Links in post:** https://twitter.com/remitano/status/1702617066761826794
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2912733829 — 2023-09-15 09:35 UTC (2023-09-15 10:35 WAT)
+    
+    - URL: https://x.com/2912733829/status/1702617066761826794
+    - Metrics (at fetch): not returned
+    
+    > #latestupdates We understand the seriousness of this matter and we want to assure you that Remitano is actively taking steps to address all security concerns and rectify the situation.
+    >
+    > https://remitano.com/forum/ng/134684-latest-updates-on-recent-security-incident-on-remitano
+    
+    **Links in post:** https://remitano.com/forum/ng/134684-latest-updates-on-recent-security-incident-on-remitano
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-09-18 13:00 UTC (2023-09-18 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1703755786986664104
+- Metrics (at fetch): not returned
+
+> 3️⃣ Banana Gun Contract Bug
+>
+> $BANANA, a native token of an Ethereum-based Telegram bot, plummetted 99% right after its launch due to a smart contract bug! 🫨 The bug occurred due to the misimplementation of the trading fee. The importance of security audits is becoming pronounced. https://twitter.com/bananagun/status/1701322684313817459
+
+**Links in post:** https://twitter.com/bananagun/status/1701322684313817459
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1669901087531302912 — 2023-09-11 19:51 UTC (2023-09-11 20:51 WAT)
+    
+    - URL: https://x.com/1669901087531302912/status/1701322684313817459
+    - Metrics (at fetch): not returned
+    
+    > Announcement
+    > We have a bug in our contract we cannot hotfix. 
+    >
+    > Despite two audits there is a bug in the contract with our taxes, which allows people to sell their bags while having tax tokens remaining in their wallet.
+    >
+    > 1. First step is to sell the treasury wallet to drain the LP
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-09-18 13:00 UTC (2023-09-18 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1703755789960376329
+- Metrics (at fetch): not returned
+
+> 4️⃣ SEC's Second NFT Regulation
+>
+> Stoner Cats 2, an animation-based NFT project, gets charged by SEC for unregistered offerings! 👀 The main charge was highlighting the benefits of owning NFTs, similar to the previous Impact Theory case. SEC is clearly initiating NFT sanctions. 🕵️‍♂️ https://twitter.com/SECGov/status/1701997841508454617
+
+**Links in post:** https://twitter.com/SECGov/status/1701997841508454617
+
+**Quoted post (full text):**
+
+    #### Quoted post — @18481050 — 2023-09-13 16:34 UTC (2023-09-13 17:34 WAT)
+    
+    - URL: https://x.com/18481050/status/1701997841508454617
+    - Metrics (at fetch): not returned
+    
+    > Today we charged Stoner Cats 2 LLC with conducting an unregistered offering of crypto asset securities in the form of purported non-fungible tokens (NFTs) that raised approximately $8 million from investors to finance an animated web series called Stoner Cats.
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-09-18 13:00 UTC (2023-09-18 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1703755792888045760
+- Metrics (at fetch): not returned
+
+> 5️⃣ Metamask Unveils Snaps
+>
+> 🦊 Metamask launches snaps, proceeding towards its permissionless ecosystem! 🚀 Utilizing snaps built by third-party developers, users can customize and enhance the Web3 experience with Metamask! Read below to follow the details. 👇 https://twitter.com/MetaMask/status/1701585470512095636
+
+**Links in post:** https://twitter.com/MetaMask/status/1701585470512095636
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3278906401 — 2023-09-12 13:16 UTC (2023-09-12 14:16 WAT)
+    
+    - URL: https://x.com/3278906401/status/1701585470512095636
+    - Metrics (at fetch): not returned
+    
+    > Today marks a major milestone for MetaMask: we're launching MetaMask Snaps Open Beta, the first step towards our journey to create a fully permissionless ecosystem with MetaMask. 🦊
+    >
+    > Read the 🧵for everything you need to know 👇
+    >
+    > https://www.youtube.com/watch?v=mneNl4Dr8sM?utm_source=twitter&utm_medium=organicsocial&utm_campaign=2023_Sep_snaps-launch_awareness_content
+    
+    **Links in post:** https://www.youtube.com/watch?v=mneNl4Dr8sM?utm_source=twitter&utm_medium=organicsocial&utm_campaign=2023_Sep_snaps-launch_awareness_content
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-09-18 13:00 UTC (2023-09-18 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1703755795958247620
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉 @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-09-15 · Post · 🚀 Dive deep into the intricacies of the DART mission. Our comprehensive launch blog post unveils the
+
+
+### Post — @ChainLight_io — 2023-09-15 16:20 UTC (2023-09-15 17:20 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1702719031974002909
+- Metrics (at fetch): not returned
+
+> 🚀 Dive deep into the intricacies of the DART mission. Our comprehensive launch blog post unveils the journey:
+>
+> ✨ https://link.medium.com/lWjyeSjG6Cb
+>
+> ✈️ Experience the power of DART on our website: https://dart.chainlight.io
+
+**Links in post:** https://link.medium.com/lWjyeSjG6Cb, https://dart.chainlight.io
+
+
+---
+
+## 2023-09-14 · Post · 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 compr
+
+
+### Post — @ChainLight_io — 2023-09-14 16:13 UTC (2023-09-14 17:13 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1702354817090531747
+- Metrics (at fetch): not returned
+
+> 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 comprehensive risk management platform.
+>
+> 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus [pic.x.com/BHVJCRHnIH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5_xupgaMAEMUwb.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-14 · Post · 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 compr
+
+
+### Post — @ChainLight_io — 2023-09-14 15:39 UTC (2023-09-14 16:39 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1702346256524497163
+- Metrics (at fetch): not returned
+
+> 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 comprehensive risk management platform.
+>
+> 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus [pic.x.com/iBkHGxZq6c]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5_xupgaMAEMUwb.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-14 · Post · 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 compr
+
+
+### Post — @ChainLight_io — 2023-09-14 15:36 UTC (2023-09-14 16:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1702345512593330665
+- Metrics (at fetch): not returned
+
+> 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 comprehensive risk management platform.
+>
+> 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus [pic.x.com/3ViQHLLti0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5_xupgaMAEMUwb.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-11 · Thread · 📰 ChainLight Weekly, the second week of September! 🌐
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219108904411162
+- Metrics (at fetch): not returned
+
+> 📰 ChainLight Weekly, the second week of September! 🌐
+>
+> 👇 Check out the summary &amp; details on our thread 👀
+>
+> 1️⃣ Lazarus Attacks Stake
+> 2️⃣ Vitalik's X Account Hacked
+> 3️⃣ CFTC Charges US DeFi Protocols
+> 4️⃣ Vitalik Proposes Privacy Pool
+> 5️⃣ Base Faces Outage
+> 6️⃣ Alert for Discord Scam [pic.x.com/oWTYU67b0z]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5vxwzHawAANXEi.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219112092082190
+- Metrics (at fetch): not returned
+
+> 1️⃣ Lazarus Attacks Stake
+>
+> #Stake, a crypto gambling platform, got its private keys compromised, losing over $41M! 🤯 FBI identified North Korean hacker group #Lazarus as the actor for theft. 🕵️‍♂️ Centralized platforms nowadays should be prepared to become the targets of hacks. 🥲 https://twitter.com/FBI/status/1700282936338137219
+
+**Links in post:** https://twitter.com/FBI/status/1700282936338137219
+
+**Quoted post (full text):**
+
+    #### Quoted post — @17629860 — 2023-09-08 23:00 UTC (2023-09-09 00:00 WAT)
+    
+    - URL: https://x.com/17629860/status/1700282936338137219
+    - Metrics (at fetch): not returned
+    
+    > FBI Identifies Lazarus Group Cyber Actors as Responsible for Theft of $41 Million from http://Stake.com: https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom
+    
+    **Links in post:** http://Stake.com, https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219115191664767
+- Metrics (at fetch): not returned
+
+> 2️⃣ Vitalik's X Account Hacked
+>
+> The X account of the #Ethereum founder was temporarily compromised! 😰 The hacker uploaded a phishing link post, which drained over $691K from the victims. 💸 Be careful, and please be aware that any accounts, even #Vitalik's, can be hacked! https://twitter.com/Cointelegraph/status/1700688062156767279
+
+**Links in post:** https://twitter.com/Cointelegraph/status/1700688062156767279
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2023-09-10 01:50 UTC (2023-09-10 02:50 WAT)
+    
+    - URL: https://x.com/2207129125/status/1700688062156767279
+    - Metrics (at fetch): not returned
+    
+    > Ethereum co-founder Vitalik Buterin had his X (formerly Twitter) account compromised, which led to victims being lured into clicking on a malicious link promising a free NFT, ultimately resulting in their funds being stolen. https://cointelegraph.com/news/ethereum-vitalik-buterin-x-hackers-drain
+    
+    **Links in post:** https://cointelegraph.com/news/ethereum-vitalik-buterin-x-hackers-drain
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219118526222589
+- Metrics (at fetch): not returned
+
+> 3️⃣ CFTC Charges US DeFi Protocols
+>
+> Three US DeFi Protocols, Opyn, Deridex, and ZeroEx are filed for offering illegal digital asset derivatives trading! 🫨 The #CFTC's decision deems geolocation-based blocking insufficient, stirring controversy within the crypto community! https://twitter.com/CFTC/status/1699911727792693687
+
+**Links in post:** https://twitter.com/CFTC/status/1699911727792693687
+
+**Quoted post (full text):**
+
+    #### Quoted post — @234044087 — 2023-09-07 22:25 UTC (2023-09-07 23:25 WAT)
+    
+    - URL: https://x.com/234044087/status/1699911727792693687
+    - Metrics (at fetch): not returned
+    
+    > Today @CFTC issued orders against operators of three DeFi protocols for offering illegal digital asset derivatives trading. Learn more: https://www.cftc.gov/PressRoom/PressReleases/8774-23
+    
+    **Links in post:** https://www.cftc.gov/PressRoom/PressReleases/8774-23
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219121499922677
+- Metrics (at fetch): not returned
+
+> 4️⃣ Vitalik Proposes Privacy Pool
+>
+> #Vitalik Buterin explores a regulation-friendly privacy pool! 👀 Leveraging zero-knowledge proofs, users can prove they are not utilizing malicious accounts while safeguarding their identities. A new era for privacy-conscious transactions! 😎 https://twitter.com/ameensol/status/1699424914229321966
+
+**Links in post:** https://twitter.com/ameensol/status/1699424914229321966
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1646685096 — 2023-09-06 14:10 UTC (2023-09-06 15:10 WAT)
+    
+    - URL: https://x.com/1646685096/status/1699424914229321966
+    - Metrics (at fetch): not returned
+    
+    > 1/ New privacy paper with @VitalikButerin, Jacob Illum (@chainalysis), @mat_nadler, @fschaer!
+    >
+    > https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364
+    >
+    > We explored new compliance opportunities made possible by http://privacypools.com, where users can provably dissociate from illicit funds.
+    >
+    > story below 🧵👇 [pic.x.com/Tq0zYfbwlL]
+    
+    **Media:**
+    - media `3_1699424886463045633` (details not returned by the API)
+    
+    **Links in post:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364, http://privacypools.com
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219124649890159
+- Metrics (at fetch): not returned
+
+> 5️⃣ Base Faces Outage
+>
+> #Base, the #Ethereum Layer 2 network, faces its first major outage, which lasted for 45 minutes! 🚨 Luckily, the issue had been remediated with no funds at risk. The team explained the cause as "part of our internal infrastructure requiring a refresh." 🧐 https://twitter.com/base/status/1699192035553812658
+
+**Links in post:** https://twitter.com/base/status/1699192035553812658
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1628067904083181570 — 2023-09-05 22:45 UTC (2023-09-05 23:45 WAT)
+    
+    - URL: https://x.com/1628067904083181570/status/1699192035553812658
+    - Metrics (at fetch): not returned
+    
+    > Earlier today we had a delay in block production due in part to our internal infrastructure requiring a refresh. 
+    >
+    > The issue has been identified and remediated. No funds are at risk.
+    >
+    > To stay updated, check https://status.base.org/
+    
+    **Links in post:** https://status.base.org/
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219127770394886
+- Metrics (at fetch): not returned
+
+> 6️⃣ Alert for Discord Scam
+>
+> Alert for new Discord scams targeting the crypto community! Discord currently updated the hyperlink functionality, which can hide any links behind the text! 💀 Be aware, and always double-check before clicking unknown links! 🧐 https://twitter.com/PocketUniverseZ/status/1698767797432779236
+
+**Links in post:** https://twitter.com/PocketUniverseZ/status/1698767797432779236
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1544512477462818816 — 2023-09-04 18:39 UTC (2023-09-04 19:39 WAT)
+    
+    - URL: https://x.com/1544512477462818816/status/1698767797432779236
+    - Metrics (at fetch): not returned
+    
+    > Scammers can now hide links in any discord text ☠️
+    >
+    > Watch out for hidden wallet drainer links
+    > e.g. 👇 [pic.x.com/mgqG18sOF9]
+    
+    **Media:**
+    - media `3_1698766968629952512` (details not returned by the API)
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-09-11 13:00 UTC (2023-09-11 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1701219130928779693
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉 @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-09-08 · Post · 🥚Easter Egg🥚 [pic.x.com/gGFXtn1Xba] https://twitter.com/cantinaxyz/status/1698736235060011178
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @ChainLight_io — 2023-09-08 17:04 UTC (2023-09-08 18:04 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1700193455677518123
+- Metrics (at fetch): not returned
+
+> 🥚Easter Egg🥚 [pic.x.com/gGFXtn1Xba] https://twitter.com/cantinaxyz/status/1698736235060011178
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5hM0pZaMAAce31.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/cantinaxyz/status/1698736235060011178
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1622629804791955458 — 2023-09-04 16:34 UTC (2023-09-04 17:34 WAT)
+    
+    - URL: https://x.com/1622629804791955458/status/1698736235060011178
+    - Metrics (at fetch): not returned
+    
+    > Are you ready security researchers?
+    >
+    > The top 10 placements in this CTF by @cantinaxyz cofounder @hrkrshnn will receive a Cantina invite code 🪐
+    >
+    > There's also a secret easter egg inside 👀 https://twitter.com/curta_ctf/status/1698697557566689770
+    
+    **Links in post:** https://twitter.com/curta_ctf/status/1698697557566689770
+    
+    **Quoted post** 1698697557566689770: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-09-07 · Post · 🚨 ChainLight Patch Thursday, the first week of September!
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-09-07 13:05 UTC (2023-09-07 14:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1699770750235021687
+- Metrics (at fetch): not returned
+
+> 🚨 ChainLight Patch Thursday, the first week of September!
+>
+> The previous article (https://link.medium.com/nxQnH1eewCb) covered the basic concepts of options trading, the risks, and the differences between TradFi/Off-Chain and On-Chain options exchanges. DeFi has adopted various trading [pic.x.com/YfpZZdQAdR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5bH9N-akAAwkr4.jpg — no alt text provided by author
+
+**Links in post:** https://link.medium.com/nxQnH1eewCb
+
+
+---
+
+## 2023-09-04 · Thread · 3️⃣ SEC's First Enforcement on NFT
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-09-04 14:00 UTC (2023-09-04 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1698697608481607917
+- Metrics (at fetch): not returned
+
+> 3️⃣ SEC's First Enforcement on NFT
+>
+> 🚨 #SEC charges a podcast studio, Impact Theory, for unregistered securities offerings. SEC's first NFT enforcement fined Impact Theory $6.1M, with the NFTs to be destroyed. Regulatories joining the #NFT market! 🕵️‍♂️ https://twitter.com/CoinDesk/status/1698076078651150694
+
+**Links in post:** https://twitter.com/CoinDesk/status/1698076078651150694
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1333467482 — 2023-09-02 20:51 UTC (2023-09-02 21:51 WAT)
+    
+    - URL: https://x.com/1333467482/status/1698076078651150694
+    - Metrics (at fetch): not returned
+    
+    > .@SECGov took its first NFT-related enforcement action this week.
+    >
+    > But its findings don't suggest regulators consider all NFTs to be securities — limiting the potential consequences of the action. https://www.coindesk.com/policy/2023/08/28/sec-issues-first-enforcement-action-targeting-nfts/?term=organic&utm_campaign=CoinDesk&utm_content=rt%2Ceditorial&utm_medium=social&utm_source=twitter
+    
+    **Links in post:** https://www.coindesk.com/policy/2023/08/28/sec-issues-first-enforcement-action-targeting-nfts/?term=organic&utm_campaign=CoinDesk&utm_content=rt%2Ceditorial&utm_medium=social&utm_source=twitter
+    
+
+
+### Thread part 2 — @ChainLight_io — 2023-09-04 14:00 UTC (2023-09-04 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1698697611551920322
+- Metrics (at fetch): not returned
+
+> 4️⃣ Grayscale Wins Lawsuit Against SEC
+>
+> 🚀 #Grayscale Investments scores victory against #SEC in #BTC spot ETF case! Implications are huge, as big firms like BlackRock &amp; Fidelity are seeking spot BTC ETFs. A monumental step for #crypto! 📈 https://twitter.com/TheBlockCo/status/1696533774794940576
+
+**Links in post:** https://twitter.com/TheBlockCo/status/1696533774794940576
+
+**Quoted post (full text):**
+
+    #### Quoted post — @963767159536209921 — 2023-08-29 14:42 UTC (2023-08-29 15:42 WAT)
+    
+    - URL: https://x.com/963767159536209921/status/1696533774794940576
+    - Metrics (at fetch): not returned
+    
+    > Court hands Grayscale win in long-running suit against SEC https://www.theblock.co/post/246115/court-hands-grayscale-win-in-long-running-suit-against-sec?utm_source=twitter&utm_medium=social
+    
+    **Links in post:** https://www.theblock.co/post/246115/court-hands-grayscale-win-in-long-running-suit-against-sec?utm_source=twitter&utm_medium=social
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-09-04 14:00 UTC (2023-09-04 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1698697614466887959
+- Metrics (at fetch): not returned
+
+> 5️⃣ MakerDAO's Proposal for Upcoming Chain
+>
+> #MakerDAO co-founder proposes #Solana codebase for building the new project! The founder sees Solana as a promising option due to technical quality, resilience, and adaptable codebase. A completely new direction in MakerDAO's journey! 😎 https://twitter.com/RuneKek/status/1697623700013822244
+
+**Links in post:** https://twitter.com/RuneKek/status/1697623700013822244
+
+**Quoted post (full text):**
+
+    #### Quoted post — @385328034 — 2023-09-01 14:53 UTC (2023-09-01 15:53 WAT)
+    
+    - URL: https://x.com/385328034/status/1697623700013822244
+    - Metrics (at fetch): not returned
+    
+    > The last phase of Endgame is the launch of a native blockchain for Maker with the codename NewChain
+    >
+    > It will make the ecosystem more secure and efficient
+    >
+    > After some research, I believe the Solana codebase should be considered as the basis for NewChain
+    >
+    > https://forum.makerdao.com/t/explore-a-fork-of-the-solana-codebase-for-newchain/21822
+    
+    **Links in post:** https://forum.makerdao.com/t/explore-a-fork-of-the-solana-codebase-for-newchain/21822
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-09-04 14:00 UTC (2023-09-04 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1698697617381949529
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉 @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-05-11 · Thread · ✅  Check out our recent @RareSkills_io Gas-Puzzle write-up!
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-05-11 12:30 UTC (2023-05-11 13:30 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656637896668098562
+- Metrics (at fetch): not returned
+
+> ✅  Check out our recent @RareSkills_io Gas-Puzzle write-up!
+>
+> 🙏  Shout out to RareSkills and other challengers.
+>
+> 🧵 The key aspect of the optimization was reducing the code size. Here's our approach beyond what @RareSkills_io explained.
+>
+> #Solidity #CTF #GasGolfing https://twitter.com/RareSkills_io/status/1656533089198440448
+
+**Links in post:** https://twitter.com/RareSkills_io/status/1656533089198440448
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1573675534151655424 — 2023-05-11 05:34 UTC (2023-05-11 06:34 WAT)
+    
+    - URL: https://x.com/1573675534151655424/status/1656533089198440448
+    - Metrics (at fetch): not returned
+    
+    > We have reviewed 22 submissions. Here are the final scores
+    >
+    > 🥇this-is-chainlight 203,386 @chainlight_io
+    > 🥈jinukaloshaechi 215,354 @lj1nu
+    > 🥉0xevm 232,671 @RJin2018
+    >
+    > Happy to see the broad participation!
+    >
+    > Hope you learned something in this contest!
+    >
+    > Winner instructions below:
+    
+
+
+### Thread part 2 — @ChainLight_io — 2023-05-11 12:31 UTC (2023-05-11 13:31 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656638181306138625
+- Metrics (at fetch): not returned
+
+> @RareSkills_io (1/6)
+> • Separate repeated operations as internal functions.
+> • Consider the code size differences between &lt;=, &lt;, &gt;, &gt;=, and ==.
+> • Reduce the deployment cost by mining IPFS hash with zeros.
+> • Use special values instead of constants. e.g., use block.number instead of the value
+
+
+### Thread part 3 — @ChainLight_io — 2023-05-11 12:31 UTC (2023-05-11 13:31 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656638245629984769
+- Metrics (at fetch): not returned
+
+> (2/6)
+> Separate repeated operations as internal functions - Calling an external function involves storing a padded function selector to memory, which consumes at least 32 bytes. Separating the call cuts down the size of two withdraw calls to half. [pic.x.com/B9If3gs5OV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv2PrqCagAIqjuc.png — no alt text provided by author
+
+
+### Thread part 4 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656638541198430209
+- Metrics (at fetch): not returned
+
+> (3/6)
+> Consider the code size differences between &lt;=, &lt;, &gt;, &gt;=, and ==. In some cases, solidity inverts if-else branches, which may generate jumpi/iszero opcode for inequality operators. [pic.x.com/ZPXy9aB64a]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv2Pww_aYAIqMdj.png — no alt text provided by author
+
+
+### Thread part 5 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656638542775480320
+- Metrics (at fetch): not returned
+
+> (4/6)
+> Typing random things can also help! Solidity encodes its IPFS hash at the end of deployed EVM bytecode. Since it's EOA that deploys the initial contract, it sends the bytecode to nil address. When sending the calldata in Ethereum, the gas cost reduces when there are zeros. [pic.x.com/vYMiRqT6hu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv2P30IaYAIc1Lh.jpg — no alt text provided by author
+
+
+### Thread part 6 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656638544851668993
+- Metrics (at fetch): not returned
+
+> (5/6)
+> Use special values instead of constants. e.g., use block.number instead of the value 2. While `block.number` occupies 1 byte (0x43) [pic.x.com/VljMKAehnD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv2P6JGaMAAT6sp.png — no alt text provided by author
+
+
+### Thread part 7 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656638546541973504
+- Metrics (at fetch): not returned
+
+> (6/6)
+> Here's our final score. (We reduced more gases after the submission ended.) [pic.x.com/qIVY9tr4wf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv2P88GacAEWRso.png — no alt text provided by author
+
+
+---
+
+## 2023-05-11 · Post · 🔥 We crushed yet another CTF held by @RareSkills_io, a gas optimization challenge this time!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-05-11 08:00 UTC (2023-05-11 09:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656569875903696898
+- Metrics (at fetch): not returned
+
+> 🔥 We crushed yet another CTF held by @RareSkills_io, a gas optimization challenge this time!
+>
+> #ETH #Solidity https://twitter.com/RareSkills_io/status/1656533089198440448
+
+**Links in post:** https://twitter.com/RareSkills_io/status/1656533089198440448
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1573675534151655424 — 2023-05-11 05:34 UTC (2023-05-11 06:34 WAT)
+    
+    - URL: https://x.com/1573675534151655424/status/1656533089198440448
+    - Metrics (at fetch): not returned
+    
+    > We have reviewed 22 submissions. Here are the final scores
+    >
+    > 🥇this-is-chainlight 203,386 @chainlight_io
+    > 🥈jinukaloshaechi 215,354 @lj1nu
+    > 🥉0xevm 232,671 @RJin2018
+    >
+    > Happy to see the broad participation!
+    >
+    > Hope you learned something in this contest!
+    >
+    > Winner instructions below:
+    
+
+
+---
+
+## 2023-05-10 · Post · 🤔 Hey, folks! What is the return type of “array.push()” in Solidity?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-05-10 13:00 UTC (2023-05-10 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656283177152045058
+- Metrics (at fetch): not returned
+
+> 🤔 Hey, folks! What is the return type of “array.push()” in Solidity?
+>
+> ☝🏻 Choose one!
+>
+> #Solidity #ETH #Ethereum
+
+
+---
+
+## 2023-05-10 · Thread · @RareSkills_io 203764 🤪 [pic.x.com/QKL9UQ5frd]
+
+
+### Post — @ChainLight_io — 2023-05-10 11:52 UTC (2023-05-10 12:52 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656265879229960197
+- Metrics (at fetch): not returned
+
+> @RareSkills_io 203764 🤪 [pic.x.com/QKL9UQ5frd]
+
+**Media:**
+- media `3_1656265790642073600` (details not returned by the API)
+
+
+### Thread part 2 — @ChainLight_io — 2023-05-10 11:59 UTC (2023-05-10 12:59 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1656267832022409218
+- Metrics (at fetch): not returned
+
+> @RareSkills_io [pic.x.com/GsXIUUHAgu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fvw-zmAaEAAC5r_.png — no alt text provided by author
+
+
+---
+
+## 2023-05-09 · Post · 💪 https://twitter.com/Orbit_Chain/status/1652863848670728192
+
+
+### Post — @ChainLight_io — 2023-05-09 15:41 UTC (2023-05-09 16:41 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655961073592442881
+- Metrics (at fetch): not returned
+
+> 💪 https://twitter.com/Orbit_Chain/status/1652863848670728192
+
+**Links in post:** https://twitter.com/Orbit_Chain/status/1652863848670728192
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1135437024578625537 — 2023-05-01 02:33 UTC (2023-05-01 03:33 WAT)
+    
+    - URL: https://x.com/1135437024578625537/status/1652863848670728192
+    - Metrics (at fetch): not returned
+    
+    > 📢​Orbit Chain One-Pager! (May 2023)
+    >
+    > 👀​Explore the Orbit Chain at a glance
+    > -Overview, Tools/Products, Partners, Supported Blockchains, and Exchanges!
+    >
+    > ⛓️​"Connecting the Unconnected"
+    >
+    > @Orbit_Chain #OrbitBridge $ORC [pic.x.com/Zunrq7Q0jK]
+    
+    **Media:**
+    - media `3_1652863836716941313` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-09 · Thread · 0/ 🔥 Introducing ChainLight's weekly news corner, "ChainLight Weekly"
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931202715656197
+- Metrics (at fetch): not returned
+
+> 0/ 🔥 Introducing ChainLight's weekly news corner, "ChainLight Weekly"
+>
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting. From now, We want to share our small talk with you guys!
+>
+> #Weekly #News [pic.x.com/pmI0Rj0wNW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvsMpYPaIAkNnF1.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931207623008257
+- Metrics (at fetch): not returned
+
+> 1/ @Coinbase is bringing the heat! They've just announced support for up to 5x leverage on BTC &amp; ETH perpetual futures in eligible countries outside of the US.
+>
+> #Coinbase #BTC #ETH #Perpetual https://twitter.com/coinbase/status/1653385513011740672
+
+**Links in post:** https://twitter.com/coinbase/status/1653385513011740672
+
+**Quoted post (full text):**
+
+    #### Quoted post — @574032254 — 2023-05-02 13:06 UTC (2023-05-02 14:06 WAT)
+    
+    - URL: https://x.com/574032254/status/1653385513011740672
+    - Metrics (at fetch): not returned
+    
+    > Today Coinbase launched Coinbase International Exchange @CoinbaseIntExch and will begin by offering BTC &amp; ETH perpetual futures settled in USDC with up to 5x leverage to institutional clients in eligible jurisdictions outside of the U.S.
+    >
+    > https://www.coinbase.com/blog/introducing-coinbase-international-exchange
+    
+    **Links in post:** https://www.coinbase.com/blog/introducing-coinbase-international-exchange
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931210793897986
+- Metrics (at fetch): not returned
+
+> 2/ In the world of meme coins, #PEPE is making a splash. It's now listed on @Binance's Innovation Zone, @BinanceFutures with up to 20x leverage, and @BitMEX. Despite some drama with blacklisting initial buyers' addresses, PEPE is gaining traction on multiple exchanges. https://twitter.com/binance/status/1654448067255361537
+
+**Links in post:** https://twitter.com/binance/status/1654448067255361537
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877807935493033984 — 2023-05-05 11:28 UTC (2023-05-05 12:28 WAT)
+    
+    - URL: https://x.com/877807935493033984/status/1654448067255361537
+    - Metrics (at fetch): not returned
+    
+    > #Binance will list @pepecoineth $PEPE and @RealFlokiInu $FLOKI in the innovation zone.
+    >
+    > ➡️ https://www.binance.com/en/support/announcement/binance-will-list-floki-floki-and-pepe-pepe-in-the-innovation-zone-f68a3bc6eb014ed9bacf1d6c71dc1134?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial [pic.x.com/o4UTvWZkHj]
+    
+    **Media:**
+    - media `3_1654447698328551428` (details not returned by the API)
+    
+    **Links in post:** https://www.binance.com/en/support/announcement/binance-will-list-floki-floki-and-pepe-pepe-in-the-innovation-zone-f68a3bc6eb014ed9bacf1d6c71dc1134?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931213834760192
+- Metrics (at fetch): not returned
+
+> 3/ Whoops, looks like DEI got a little too spicy. There was an exploit in DEI (Algorithm stable coin) contract due to a mistake in the allowance mapping key.
+>
+> https://rekt.news/deus-dao-r3kt/
+>
+> #DEI
+
+**Links in post:** https://rekt.news/deus-dao-r3kt/
+
+
+### Thread part 5 — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931216691089408
+- Metrics (at fetch): not returned
+
+> 4/ 💸 Public mint bug hits BSC-based MELO token. According to Hexagate, the exploit resulted in $90k worth of assets lost. Stay vigilant and keep your crypto safe, folks. 🔒 #crypto #security
+>
+> #MELO https://twitter.com/hexagate_/status/1654822859288506368
+
+**Links in post:** https://twitter.com/hexagate_/status/1654822859288506368
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1544385947156058112 — 2023-05-06 12:18 UTC (2023-05-06 13:18 WAT)
+    
+    - URL: https://x.com/1544385947156058112/status/1654822859288506368
+    - Metrics (at fetch): not returned
+    
+    > Today @melotoken got exploited for $90k by utilizing a public mint bug on the MELO token -
+    >
+    > The exploit happened in the constructor of the contract - https://bscscan.com/tx/0x3f1973fe56de5ecd59a815d3b14741cf48385903b0ccfe248f7f10c2765061f7 [pic.x.com/7q4aLRKKL6]
+    
+    **Media:**
+    - media `3_1654822380747759616` (details not returned by the API)
+    
+    **Links in post:** https://bscscan.com/tx/0x3f1973fe56de5ecd59a815d3b14741cf48385903b0ccfe248f7f10c2765061f7
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931225230671874
+- Metrics (at fetch): not returned
+
+> 5/ The recent craze over BRC-20 tokens caused a backlog in the Bitcoin mempool, with transaction fees surpassing block rewards for the first time since 2017. @Binance is stepping up with higher withdrawal fees and the adoption of Lightning Network to avoid any more delays.
+>
+> #BRC [pic.x.com/RUnl1Fdt4p] https://twitter.com/binance/status/1655419624962527233
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvsMq91agAMC-2j.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/binance/status/1655419624962527233
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877807935493033984 — 2023-05-08 03:49 UTC (2023-05-08 04:49 WAT)
+    
+    - URL: https://x.com/877807935493033984/status/1655419624962527233
+    - Metrics (at fetch): not returned
+    
+    > To prevent a similar recurrence in the future, our fees have been adjusted. We will continue to monitor on-chain activity and adjust accordingly if needed.
+    >
+    > Our team has also been working on enabling BTC Lightning Network withdrawals, which will help in such situations.
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931228686794757
+- Metrics (at fetch): not returned
+
+> 6/ Solidity devs, listen up! EIP-1153 is coming with the Cancun-Deneb upgrade, bringing a new temporary opcode to reduce reentrancy attack vulnerability. Now, disabling reentrancy and improving security will be a breeze! 💪👨‍💻
+>
+> https://github.com/ethereum/solidity/issues/12996#issuecomment-1530096708
+>
+> #Solidity #Ethereum https://twitter.com/vex_0x/status/1590748480796262402
+
+**Links in post:** https://github.com/ethereum/solidity/issues/12996#issuecomment-1530096708, https://twitter.com/vex_0x/status/1590748480796262402
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1382862418708213764 — 2022-11-10 16:49 UTC (2022-11-10 17:49 WAT)
+    
+    - URL: https://x.com/1382862418708213764/status/1590748480796262402
+    - Metrics (at fetch): not returned
+    
+    > Whitenoise CTF II is live @ https://ctf.whitenoise.rs! This time, on an EIP-1153 enabled testnet.
+    >
+    > 👇 [pic.x.com/glsvf81MWf]
+    
+    **Media:**
+    - media `3_1590713179553808385` (details not returned by the API)
+    
+    **Links in post:** https://ctf.whitenoise.rs
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-05-09 13:42 UTC (2023-05-09 14:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1655931231723462656
+- Metrics (at fetch): not returned
+
+> 7/ 🫴🏻 Although today is Tuesday, We will upload ChainLight Weekly every Monday from next week onwards.
+>
+> You can catch ChainLight Weekly every Monday for the latest updates. Stay tuned for security-focused #Crypto &amp; #Web3 news! 🚀
+>
+> Follow us! 👉 @chainlight_io
+
+
+---
+
+## 2023-05-04 · Thread · 🧪 Our team has reviewed the cETH market freeze incident on @CompoundFinance and devised a more pract
+
+
+### Post — @ChainLight_io — 2023-05-04 15:53 UTC (2023-05-04 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1654152221318336512
+- Metrics (at fetch): not returned
+
+> 🧪 Our team has reviewed the cETH market freeze incident on @CompoundFinance and devised a more practical case testing method than the #IntegrationTest proposed by #CompoundFinance.
+>
+> Curious about our team's time-traveling integration test? 👇
+>
+> https://link.medium.com/Sd4Rb8TVwzb
+>
+> #cETH #ETH
+
+**Links in post:** https://link.medium.com/Sd4Rb8TVwzb
+
+
+### Thread part 2 — @ChainLight_io — 2023-05-04 15:53 UTC (2023-05-04 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1654152224027840513
+- Metrics (at fetch): not returned
+
+> 🇰🇷 저희 팀은 지난 Compound Finance의 cETH 마켓 동결 사건을 복기해보고, Compound Finance 측에서 제안했던 통합 테스트보다 더욱 실제적인 케이스 테스트 방법을 고안했습니다. 저희 팀이 고안한 시간여행 통합 테스트에 대해 궁금하시다면? 👇
+>
+> https://link.medium.com/cNbHCPRVwzb
+>
+> #Ethereum
+
+**Links in post:** https://link.medium.com/cNbHCPRVwzb
+
+
+---
+
+## 2023-05-03 · Thread · ✌🏻 Did you know "A &lt; B" is not always the same as "B &gt; A" in Solidity?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-05-03 14:00 UTC (2023-05-03 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1653761399469019137
+- Metrics (at fetch): not returned
+
+> ✌🏻 Did you know "A &lt; B" is not always the same as "B &gt; A" in Solidity?
+>
+> One of our team members (@yechan_bae) found a bug in the Solidity language. We're proud to share another piece of evidence that our team pays attention to even the smallest details!
+>
+> #Ethereum #ETH #Solidity [pic.x.com/r7jkB0I3sq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvNXOiVaEAEAAnI.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-05-03 14:00 UTC (2023-05-03 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1653761402979647490
+- Metrics (at fetch): not returned
+
+> 📌 Check out details here 👇
+>
+> https://github.com/ethereum/solidity/issues/14175
+
+**Links in post:** https://github.com/ethereum/solidity/issues/14175
+
+
+---
+
+## 2023-05-02 · Thread · 🎉 Congrats to @Blur for launching their new NFT lending feature!
+
+
+### Post — @ChainLight_io — 2023-05-02 13:03 UTC (2023-05-02 14:03 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1653384815507374082
+- Metrics (at fetch): not returned
+
+> 🎉 Congrats to @Blur for launching their new NFT lending feature!
+>
+> We audited #Blend's contract to ensure the safety for #Blur users. We found total of 9 issues, including 2 high severity issues. All of them have been addressed.
+>
+> ✅ Check out our report: https://drive.google.com/file/d/13rmzXIdy138gxPwiGNH8kk-yob4Bjzll/view [pic.x.com/NzpGhPiywz] https://twitter.com/blur_io/status/1653101805914722305
+
+**Media:**
+- media `3_1653384811661365248` (details not returned by the API)
+
+**Links in post:** https://drive.google.com/file/d/13rmzXIdy138gxPwiGNH8kk-yob4Bjzll/view, https://twitter.com/blur_io/status/1653101805914722305
+
+**Quoted post** 1653101805914722305: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ChainLight_io — 2023-05-02 13:03 UTC (2023-05-02 14:03 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1653384819546656768
+- Metrics (at fetch): not returned
+
+> 🇰🇷 @Blur의 NFT 담보 대출 기능 Blend의 출시를 축하합니다! ChainLight 팀은 Blur 이용자들의 안전을 위해 Blend의 스마트 컨트랙트를 감사했습니다. 저희는 높음(High) 취약점 2개를 포함하여, 총 9개의 보안 취약점을 발견했습니다.
+>
+> ✅ 리포트 전문 보러가기: https://drive.google.com/file/d/13rmzXIdy138gxPwiGNH8kk-yob4Bjzll/view
+>
+> #Web3
+
+**Links in post:** https://drive.google.com/file/d/13rmzXIdy138gxPwiGNH8kk-yob4Bjzll/view
+
+
+### Thread part 3 — @ChainLight_io — 2023-05-02 13:24 UTC (2023-05-02 14:24 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1653389943530721280
+- Metrics (at fetch): not returned
+
+> ✍️ Medium blog post can be read through the link below!
+>
+> EN: https://link.medium.com/Xh9OUFgqtzb
+> KO: https://link.medium.com/Fik8G5hqtzb
+
+**Links in post:** https://link.medium.com/Xh9OUFgqtzb, https://link.medium.com/Fik8G5hqtzb
 
 
 ---

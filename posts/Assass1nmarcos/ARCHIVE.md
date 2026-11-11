@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 121
-- Conversations/threads: 102
-- Oldest post captured: 2019-04-14
+- Posts in this file: 123
+- Conversations/threads: 104
+- Oldest post captured: 2018-11-24
 - Newest post captured: 2026-11-03
 
 
@@ -2202,5 +2202,38 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): not returned
 
 > Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2018-12-13 · Post · Just scored a bounty of €500 @intigriti, check my profile: https://intigriti.be/public/profile/assas
+
+
+### Post — @Assass1nmarcos — 2018-12-13 13:43 UTC (2018-12-13 14:43 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1073211927801851904
+- Metrics (at fetch): not returned
+
+> Just scored a bounty of €500 @intigriti, check my profile: https://intigriti.be/public/profile/assassin #HackWithIntigriti
+
+**Links in post:** https://intigriti.be/public/profile/assassin
+
+
+---
+
+## 2018-11-24 · Post · Yay, I was awarded a $150 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2018-11-24 05:16 UTC (2018-11-24 06:16 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1066198754443894784
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $150 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
 
 **Links in post:** https://hackerone.com/assassin_marcos

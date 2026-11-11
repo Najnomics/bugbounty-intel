@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 370
-- Conversations/threads: 342
-- Oldest post captured: 2019-06-03
+- Posts in this file: 376
+- Conversations/threads: 348
+- Oldest post captured: 2019-05-27
 - Newest post captured: 2026-11-09
 
 
@@ -8054,6 +8054,112 @@ Tags (automatic): XSS, RCE
 
 ---
 
+## 2023-01-03 · Post · Is my twitter timeline not sharing good blogs or research?
+
+
+### Post — @S1r1u5_ — 2023-01-03 05:29 UTC (2023-01-03 06:29 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1610146379258818560
+- Metrics (at fetch): bookmark 9, impression 6120, like 23, quote 1, reply 1, retweet 1
+
+> Is my twitter timeline not sharing good blogs or research?
+>
+> Uhm, can you please post an interesting research blog or bug you read last year :)
+
+
+---
+
+## 2022-09-12 · Post · Saw this on linkedin, test all the stuff this guy developed on Google(specifically XSS,SQLi :xd). 😅
+
+
+Tags (automatic): XSS, SQL injection
+
+
+### Post — @S1r1u5_ — 2022-09-12 14:55 UTC (2022-09-12 15:55 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1569338847154274306
+- Metrics (at fetch): bookmark 1, impression 0, like 27, quote 0, reply 3, retweet 3
+
+> Saw this on linkedin, test all the stuff this guy developed on Google(specifically XSS,SQLi :xd). 😅
+> JK. https://t.co/NjuaKb6HFB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcdodhNWAAAwbCc.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-16 · Post · Watch,
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2022-08-16 15:21 UTC (2022-08-16 16:21 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1559561002349633536
+- Metrics (at fetch): bookmark 44, impression 0, like 257, quote 6, reply 4, retweet 70
+
+> Watch,
+> Proof of Concept: Remote Code Execution on Element Desktop Application.
+>
+> https://t.co/C1qFFcVbaI
+>
+> This involves usage of v8 n-day exploit to bypass certain Electron Framework restrictions. https://t.co/sSWJEiKh2F
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2022-08-11 · Post · This is the first bug which started Electrovolt. Also, these are the basic bugs we found, soon will 
+
+
+### Post — @S1r1u5_ — 2022-08-11 20:23 UTC (2022-08-11 21:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1557825054783639552
+- Metrics (at fetch): bookmark 4, impression 0, like 45, quote 0, reply 1, retweet 2
+
+> This is the first bug which started Electrovolt. Also, these are the basic bugs we found, soon will be releasing next level stuff. Stay tuned. https://t.co/ibKuITxC1E
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1552906296000921601 — 2022-08-11 18:27 UTC (2022-08-11 19:27 WAT)
+    
+    - URL: https://x.com/1552906296000921601/status/1557795921219317760
+    - Metrics (at fetch): bookmark 70, impression 0, like 400, quote 4, reply 1, retweet 104
+    
+    > Remote Code Execution in Discord Desktop app
+    >
+    > https://t.co/AsDp0IUykv
+    >
+    > Bounty: $5,000 
+    >
+    > #BHUSA #DC30 #DEFCON
+    
+
+
+---
+
+## 2022-07-05 · Post · Here is a little sneak peak to our research Electrovolt⚡️ coming to BHUSA, Defcon and Nullcon
+
+
+### Post — @S1r1u5_ — 2022-07-05 03:14 UTC (2022-07-05 04:14 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1544157682155732993
+- Metrics (at fetch): bookmark 11, impression 0, like 75, quote 2, reply 0, retweet 15
+
+> Here is a little sneak peak to our research Electrovolt⚡️ coming to BHUSA, Defcon and Nullcon
+>
+> CVE-2022-29247
+> https://t.co/hWOOPVxp9d
+>
+> #bhusa #defcon #nullcon
+
+
+---
+
 ## 2020-12-31 · Post · Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I w
 
 
@@ -8945,3 +9051,23 @@ Tags (automatic): Account takeover
 > Thanks for the great challenges #fbctf #fbctf_2019
 
 **Links in post:** https://s1r1uss.blogspot.com/2019/06/facebook-ctf-2019-writeup_2.html
+
+
+---
+
+## 2019-05-27 · Post · Here is my writeup for @intigriti's 2nd XSS challenge, which is Abusing CORS for DOM based XSS.
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2019-05-27 12:10 UTC (2019-05-27 13:10 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1132982298339491846
+- Metrics (at fetch): not returned
+
+> Here is my writeup for @intigriti's 2nd XSS challenge, which is Abusing CORS for DOM based XSS.
+>
+> https://s1r1uss.blogspot.com/2019/05/intigriti-2nd-xss-challenge-writeup.html. #XSS #intigriti
+
+**Links in post:** https://s1r1uss.blogspot.com/2019/05/intigriti-2nd-xss-challenge-writeup.html
