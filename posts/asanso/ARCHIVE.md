@@ -1,0 +1,1094 @@
+# @asanso — full verbatim X archive (security-relevant posts)
+
+_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+
+- Posts in this file: 62
+- Conversations/threads: 60
+- Oldest post captured: 2024-04-19
+- Newest post captured: 2026-11-06
+
+
+---
+
+## 2026-11-06 · Post · Unsolicited advice to the AI-native generation.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @asanso — 2026-11-06 10:59 UTC (2026-11-06 11:59 WAT)
+
+- URL: https://x.com/asanso/status/2118659408062296551
+- Metrics (at fetch): bookmark 4, impression 1100, like 29, quote 1, reply 6, retweet 1
+
+> Unsolicited advice to the AI-native generation.
+> I use AI a lot. Probably more than I should. For coding, writing, thinking, exploring ideas, occasionally asking stupid questions I would be embarrassed to ask another human and, yes, writing this post :D
+> It is an extraordinary https://t.co/PPT4fcVcQI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWb5vzZWUAAYfWo.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-19 · Post · So you want to factor a ~1024 bits semiprime number. I tell you, RSA-330 is your friend. Here's why.
+
+
+### Post — @asanso — 2026-10-19 12:37 UTC (2026-10-19 13:37 WAT)
+
+- URL: https://x.com/asanso/status/2112161190633783676
+- Metrics (at fetch): bookmark 17, impression 2588, like 27, quote 0, reply 5, retweet 2
+
+> So you want to factor a ~1024 bits semiprime number. I tell you, RSA-330 is your friend. Here's why.
+>
+> Back in 1971, Daniel Shanks made a fascinating observation: sometimes factoring 2N can actually be easier than factoring N (see quoted tweet). His algorithm uses binary quadratic https://t.co/F0s2VJ2wru
+
+**Quoted post** 1275785871518601219: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-17 · Post · A possible clue to Anthropic's open question about why some viable NIST elliptic curves were skipped
+
+
+### Post — @asanso — 2026-10-17 17:37 UTC (2026-10-17 18:37 WAT)
+
+- URL: https://x.com/asanso/status/2111511837866893580
+- Metrics (at fetch): bookmark 33, impression 4923, like 95, quote 2, reply 7, retweet 7
+
+> A possible clue to Anthropic's open question about why some viable NIST elliptic curves were skipped: isogeny structure.
+>
+> I analyzed 11 skipped candidates and 8 published curves across four prime-field families, computing their Frobenius discriminants Δ = t² − 4p and counting https://t.co/QBSTlYbAlp https://t.co/ApC1jtyacU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HU2Yh3yWkAE0bfB.png — no alt text provided by author
+
+**Quoted post** 2111177417817825315: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-17 · Post · Guys, guys , let’s not forget that the secp256k1 curve “gave us” GLV optimization (because it was bu
+
+
+### Post — @asanso — 2026-10-17 11:09 UTC (2026-10-17 12:09 WAT)
+
+- URL: https://x.com/asanso/status/2111414176597913753
+- Metrics (at fetch): bookmark 2, impression 1951, like 27, quote 0, reply 8, retweet 1
+
+> Guys, guys , let’s not forget that the secp256k1 curve “gave us” GLV optimization (because it was built using CM method) https://t.co/LCBCzUKK5K
+
+**Quoted post** 2111260787033727266: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-15 · Post · 20 SIGNATURES. ONE PROOF.
+
+
+### Post — @asanso — 2026-10-15 13:35 UTC (2026-10-15 14:35 WAT)
+
+- URL: https://x.com/asanso/status/2110726152192983148
+- Metrics (at fetch): bookmark 12, impression 38895, like 167, quote 8, reply 38, retweet 25
+
+> 20 SIGNATURES. ONE PROOF.
+> Daisugi v0.3 aggregates 20 transaction signatures using LeanSPHINCS and LeanVM.
+> 20 SPHINCS signatures are verified through a single aggregate proof.
+> For EL clients, verification requires the LeanVM verifier plus the LeanSPHINCS guest program.
+> Post https://t.co/gUBZkEJLzp https://t.co/rwAmYzP6au
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUrOMJhXsAAi5fk.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HUrOMJyW8AECCpI.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2026-09-28 08:41 UTC (2026-09-28 09:41 WAT)
+    
+    - URL: https://x.com/asanso/status/2104491639251050555
+    - Metrics (at fetch): bookmark 2, impression 37965, like 24, quote 5, reply 4, retweet 5
+    
+    > AND THEN THERE WERE FRAMES.
+    > Daisugi v0.2 now supports Frame Transactions.
+    > SPHINCS signed transactions can run as native frames, with per frame execution and verification, alongside the existing ERC 4337 flow.
+    > Same post quantum signatures. New transaction model.
+    > Next: signature https://t.co/tHfa3gIiej https://t.co/yVYmD1wXqX
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HTSn_TEXsAAdezG.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HTSn_TbWAAAtm6n.png — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @asanso — 2026-09-23 18:34 UTC (2026-09-23 19:34 WAT)
+        
+        - URL: https://x.com/asanso/status/2102829025211060529
+        - Metrics (at fetch): bookmark 17, impression 69415, like 254, quote 9, reply 27, retweet 45
+        
+        > HABEMUS TESTNET — DAISUGI v0.1
+        >
+        > A post-quantum Ethereum testnet using hash-based SPHINCS signatures with non-native account abstraction.
+        >
+        > Big thanks to @riva_labs and @GiulioRebuffo.
+        >
+        > Coming next:
+        > • Frame Transactions
+        > • Signature aggregation via LeanSPHINCS
+        > Believe in https://t.co/9qO7BMdaue
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HS6_bR0XsAA-ADP.jpg — no alt text provided by author
+        - photo: https://pbs.twimg.com/media/HS6_mJNXAAAE0KF.jpg — no alt text provided by author
+        
+    
+
+
+---
+
+## 2026-10-08 · Post · Let's assume I was hired by a research lab with the explicit mission of breaking some pre-quantum cr
+
+
+### Post — @asanso — 2026-10-08 09:34 UTC (2026-10-08 10:34 WAT)
+
+- URL: https://x.com/asanso/status/2108128919387820278
+- Metrics (at fetch): bookmark 70, impression 13758, like 111, quote 2, reply 4, retweet 21
+
+> Let's assume I was hired by a research lab with the explicit mission of breaking some pre-quantum cryptography.
+>
+> Here is a list of five targets where I would direct research efforts, ranked by my very subjective estimate of difficulty, from easiest to hardest.
+>
+> 1. Factor the https://t.co/Bu1x3CnSRV
+
+**Quoted post** 2107837081313505768: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-28 · Post · AND THEN THERE WERE FRAMES.
+
+
+### Post — @asanso — 2026-09-28 08:41 UTC (2026-09-28 09:41 WAT)
+
+- URL: https://x.com/asanso/status/2104491639251050555
+- Metrics (at fetch): bookmark 2, impression 37965, like 24, quote 5, reply 4, retweet 5
+
+> AND THEN THERE WERE FRAMES.
+> Daisugi v0.2 now supports Frame Transactions.
+> SPHINCS signed transactions can run as native frames, with per frame execution and verification, alongside the existing ERC 4337 flow.
+> Same post quantum signatures. New transaction model.
+> Next: signature https://t.co/tHfa3gIiej https://t.co/yVYmD1wXqX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTSn_TEXsAAdezG.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HTSn_TbWAAAtm6n.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2026-09-23 18:34 UTC (2026-09-23 19:34 WAT)
+    
+    - URL: https://x.com/asanso/status/2102829025211060529
+    - Metrics (at fetch): bookmark 17, impression 69415, like 254, quote 9, reply 27, retweet 45
+    
+    > HABEMUS TESTNET — DAISUGI v0.1
+    >
+    > A post-quantum Ethereum testnet using hash-based SPHINCS signatures with non-native account abstraction.
+    >
+    > Big thanks to @riva_labs and @GiulioRebuffo.
+    >
+    > Coming next:
+    > • Frame Transactions
+    > • Signature aggregation via LeanSPHINCS
+    > Believe in https://t.co/9qO7BMdaue
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HS6_bR0XsAA-ADP.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HS6_mJNXAAAE0KF.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-09-28 · Post · AND THEN THERE WERE FRAMES.
+
+
+### Post — @asanso — 2026-09-28 08:41 UTC (2026-09-28 09:41 WAT)
+
+- URL: https://x.com/asanso/status/2104491568962887851
+- Metrics (at fetch): bookmark 0, impression 62, like 1, quote 0, reply 1, retweet 0
+
+> AND THEN THERE WERE FRAMES.
+> Daisugi v0.2 now supports Frame Transactions.
+> SPHINCS signed transactions can run as native frames, with per frame execution and verification, alongside the existing ERC 4337 flow.
+> Same post quantum signatures. New transaction model.
+> Next: signature https://t.co/yVYmD1wXqX
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2026-09-23 18:34 UTC (2026-09-23 19:34 WAT)
+    
+    - URL: https://x.com/asanso/status/2102829025211060529
+    - Metrics (at fetch): bookmark 17, impression 69415, like 254, quote 9, reply 27, retweet 45
+    
+    > HABEMUS TESTNET — DAISUGI v0.1
+    >
+    > A post-quantum Ethereum testnet using hash-based SPHINCS signatures with non-native account abstraction.
+    >
+    > Big thanks to @riva_labs and @GiulioRebuffo.
+    >
+    > Coming next:
+    > • Frame Transactions
+    > • Signature aggregation via LeanSPHINCS
+    > Believe in https://t.co/9qO7BMdaue
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HS6_bR0XsAA-ADP.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HS6_mJNXAAAE0KF.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-09-23 · Post · HABEMUS TESTNET — DAISUGI v0.1
+
+
+### Post — @asanso — 2026-09-23 18:34 UTC (2026-09-23 19:34 WAT)
+
+- URL: https://x.com/asanso/status/2102829025211060529
+- Metrics (at fetch): bookmark 17, impression 69415, like 254, quote 9, reply 27, retweet 45
+
+> HABEMUS TESTNET — DAISUGI v0.1
+>
+> A post-quantum Ethereum testnet using hash-based SPHINCS signatures with non-native account abstraction.
+>
+> Big thanks to @riva_labs and @GiulioRebuffo.
+>
+> Coming next:
+> • Frame Transactions
+> • Signature aggregation via LeanSPHINCS
+> Believe in https://t.co/9qO7BMdaue
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS6_bR0XsAA-ADP.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HS6_mJNXAAAE0KF.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-18 · Post · Before repeating “interpolation attack on 28 out of 31 rounds of Poseidon,” please read beyond the a
+
+
+### Post — @asanso — 2026-08-18 07:39 UTC (2026-08-18 08:39 WAT)
+
+- URL: https://x.com/asanso/status/2089618116565250470
+- Metrics (at fetch): bookmark 7, impression 6360, like 39, quote 3, reply 1, retweet 8
+
+> Before repeating “interpolation attack on 28 out of 31 rounds of Poseidon,” please read beyond the abstract. Look at which parameters are actually being attacked, then compare the claimed “partial round skipping” technique with the existing literature on partial rounds and https://t.co/M3liAJKBkD
+
+**Quoted post** 2089433698055709028: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-14 · Post · Genuine question: what actually happened to Robert Winternitz, the creator of the Winternitz hash-ba
+
+
+### Post — @asanso — 2026-08-14 11:18 UTC (2026-08-14 12:18 WAT)
+
+- URL: https://x.com/asanso/status/2088223742933471240
+- Metrics (at fetch): bookmark 8, impression 2410, like 11, quote 0, reply 2, retweet 3
+
+> Genuine question: what actually happened to Robert Winternitz, the creator of the Winternitz hash-based signature scheme? There seems to be surprisingly little information about him online. Anyone knows? https://t.co/nIeEvOgSzx
+
+**Quoted post** 2088218080048447766: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-04 · Post · published in a revamped form at CIC https://t.co/n4K3HRJA3h Nothing huge. The attack is quite limite
+
+
+### Post — @asanso — 2026-08-04 09:12 UTC (2026-08-04 10:12 WAT)
+
+- URL: https://x.com/asanso/status/2084568103585738955
+- Metrics (at fetch): bookmark 3, impression 3353, like 26, quote 0, reply 3, retweet 3
+
+> published in a revamped form at CIC https://t.co/n4K3HRJA3h Nothing huge. The attack is quite limited in scope, but it was fun to make use of some work by Dedekind dating back to 1900. https://t.co/PpzOPNJeYE https://t.co/Rz1gLkOjZZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HO3ehG2XgAAoHEr.png — no alt text provided by author
+
+**Quoted post** 1755875383025586458: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-07-24 · Post · A great new attack by @BenjWeso ! https://t.co/varu5dI64b
+
+
+### Post — @asanso — 2026-07-24 17:12 UTC (2026-07-24 18:12 WAT)
+
+- URL: https://x.com/asanso/status/2080702716527935524
+- Metrics (at fetch): bookmark 2, impression 2286, like 16, quote 0, reply 0, retweet 0
+
+> A great new attack by @BenjWeso ! https://t.co/varu5dI64b
+
+**Quoted post** 2080683597326078187: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-07-07 · Post · Great to see the Proximity Prize writeup getting more concrete.
+
+
+### Post — @asanso — 2026-07-07 14:42 UTC (2026-07-07 15:42 WAT)
+
+- URL: https://x.com/asanso/status/2074504256510398784
+- Metrics (at fetch): bookmark 3, impression 1788, like 21, quote 0, reply 0, retweet 0
+
+> Great to see the Proximity Prize writeup getting more concrete.
+>
+> Also happy to see that the current best known attack in Table 4 comes from our paper with @GiacomoFenzi, ePrint 2025/2197 🙂 https://t.co/5aZtgdsT2w
+
+**Quoted post** 2072593847960457321: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-06-01 · Reply · @MaxResnick “…we solved the pq signature problem in few days, using Falcon…” lol sure 😂On top what a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asanso — 2026-06-01 05:51 UTC (2026-06-01 06:51 WAT)
+
+- URL: https://x.com/asanso/status/2061324690136690931
+- Metrics (at fetch): bookmark 3, impression 20545, like 21, quote 0, reply 2, retweet 1
+
+> @MaxResnick “…we solved the pq signature problem in few days, using Falcon…” lol sure 😂On top what about consensus? How do you plan to replace BLS? https://t.co/f57gL2IDmO
+
+**Quoted post** 2060028327046287673: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-06-01 · Reply · @MaxResnick “…we solved the pq signature problem in few days, using Falcon…” lol sure 😂On top what a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asanso — 2026-06-01 05:51 UTC (2026-06-01 06:51 WAT)
+
+- URL: https://x.com/asanso/status/2061324636915200454
+- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
+
+> @MaxResnick “…we solved the pq signature problem in few days, using Falcon…” lol sure 😂On top what about consensus? How do you plan to replace BLS https://t.co/f57gL2IDmO
+
+**Quoted post** 2060028327046287673: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-06 · Post · https://t.co/Y7lw5ySubu
+
+
+### Post — @asanso — 2026-05-06 13:32 UTC (2026-05-06 14:32 WAT)
+
+- URL: https://x.com/asanso/status/2052018727349104995
+- Metrics (at fetch): bookmark 21, impression 11404, like 61, quote 2, reply 4, retweet 11
+
+> https://t.co/Y7lw5ySubu
+
+
+---
+
+## 2026-04-21 · Post · http://x.com/i/article/2046477884768792576
+
+
+### Post — @asanso — 2026-04-21 07:00 UTC (2026-04-21 08:00 WAT)
+
+- URL: https://x.com/asanso/status/2046484267673297051
+- Metrics (at fetch): bookmark 4, impression 2325, like 26, quote 0, reply 0, retweet 8
+
+> http://x.com/i/article/2046477884768792576
+
+**Links in post:** http://x.com/i/article/2046477884768792576
+
+
+---
+
+## 2026-04-01 · Post · Dropping a new testnet for post-quantum signatures.
+
+
+### Post — @asanso — 2026-04-01 17:03 UTC (2026-04-01 18:03 WAT)
+
+- URL: https://x.com/asanso/status/2039388191124251029
+- Metrics (at fetch): bookmark 11, impression 4066, like 60, quote 1, reply 8, retweet 13
+
+> Dropping a new testnet for post-quantum signatures.
+>
+> This one implements the PQ signature scheme we’ve been discussing so far: Falcon and an ephemeral key.
+>
+> Would love feedback from folks kicking the tires. More details soon. Kudos to @GiulioRebuffo. link👇 [pic.x.com/YLxlyRL6l5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HE1cstrbkAAdJ5t.jpg — no alt text provided by author
+
+
+---
+
+## 2026-03-23 · Post · http://x.com/i/article/2034884875447136256
+
+
+### Post — @asanso — 2026-03-23 11:12 UTC (2026-03-23 12:12 WAT)
+
+- URL: https://x.com/asanso/status/2036038435631235118
+- Metrics (at fetch): bookmark 4, impression 1719, like 25, quote 1, reply 1, retweet 2
+
+> http://x.com/i/article/2034884875447136256
+
+**Links in post:** http://x.com/i/article/2034884875447136256
+
+
+---
+
+## 2026-03-05 · Post · http://x.com/i/article/2029633522693009408
+
+
+### Post — @asanso — 2026-03-05 19:25 UTC (2026-03-05 20:25 WAT)
+
+- URL: https://x.com/asanso/status/2029639516265533700
+- Metrics (at fetch): bookmark 6, impression 2955, like 21, quote 3, reply 4, retweet 5
+
+> http://x.com/i/article/2029633522693009408
+
+**Links in post:** http://x.com/i/article/2029633522693009408
+
+
+---
+
+## 2026-02-19 · Post · http://x.com/i/article/2024532157054484480
+
+
+### Post — @asanso — 2026-02-19 17:41 UTC (2026-02-19 18:41 WAT)
+
+- URL: https://x.com/asanso/status/2024539855703728250
+- Metrics (at fetch): bookmark 10, impression 2856, like 38, quote 0, reply 1, retweet 9
+
+> http://x.com/i/article/2024532157054484480
+
+**Links in post:** http://x.com/i/article/2024532157054484480
+
+
+---
+
+## 2026-02-05 · Post · http://x.com/i/article/2019310561335373824
+
+
+### Post — @asanso — 2026-02-05 07:57 UTC (2026-02-05 08:57 WAT)
+
+- URL: https://x.com/asanso/status/2019319427859095675
+- Metrics (at fetch): bookmark 14, impression 9696, like 73, quote 8, reply 4, retweet 15
+
+> http://x.com/i/article/2019310561335373824
+
+**Links in post:** http://x.com/i/article/2019310561335373824
+
+
+---
+
+## 2026-01-28 · Post · http://x.com/i/article/2016135869388775424
+
+
+### Post — @asanso — 2026-01-28 09:10 UTC (2026-01-28 10:10 WAT)
+
+- URL: https://x.com/asanso/status/2016438704760328271
+- Metrics (at fetch): bookmark 25, impression 10037, like 69, quote 3, reply 4, retweet 13
+
+> http://x.com/i/article/2016135869388775424
+
+**Links in post:** http://x.com/i/article/2016135869388775424
+
+
+---
+
+## 2026-01-24 · Post · [ITA] Ok, parliamo di post quantum senza fuffa. ⚛️
+
+
+### Post — @asanso — 2026-01-24 10:04 UTC (2026-01-24 11:04 WAT)
+
+- URL: https://x.com/asanso/status/2015002651218391148
+- Metrics (at fetch): bookmark 4, impression 7622, like 61, quote 1, reply 7, retweet 5
+
+> [ITA] Ok, parliamo di post quantum senza fuffa. ⚛️
+>
+> PQ significa prepararsi al giorno in cui computer quantistici rendono attaccabili alcune delle primitive che oggi diamo per scontate, soprattutto firme tipo ECDSA e EdDSA. Non è “domani mattina”, ma è il classico rischio high [pic.x.com/At1j6XaWly] https://twitter.com/drakefjustin/status/2014791629408784816
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_a4PkCWsAACHmq.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/drakefjustin/status/2014791629408784816
+
+**Quoted post** 2014791629408784816: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-22 · Post · @ebarschkis Did u already look at the MOV attack and smart attack . These attacks successfully break
+
+
+### Post — @asanso — 2026-01-22 10:39 UTC (2026-01-22 11:39 WAT)
+
+- URL: https://x.com/asanso/status/2014286890145329336
+- Metrics (at fetch): bookmark 1, impression 827, like 0, quote 0, reply 1, retweet 1
+
+> @ebarschkis Did u already look at the MOV attack and smart attack . These attacks successfully break dip for special curves , respectively supersingular and anomalous
+
+
+---
+
+## 2025-11-25 · Post · Tiny Proxember snack: a 12-symbol RS code over 𝔽₁₃ with (n,k)=(12,5) and δ=1/2 already has ~50 codew
+
+
+### Post — @asanso — 2025-11-25 13:36 UTC (2025-11-25 14:36 WAT)
+
+- URL: https://x.com/asanso/status/1993312907317461292
+- Metrics (at fetch): bookmark 3, impression 3506, like 18, quote 1, reply 1, retweet 5
+
+> Tiny Proxember snack: a 12-symbol RS code over 𝔽₁₃ with (n,k)=(12,5) and δ=1/2 already has ~50 codewords in a single Hamming ball, sitting cleanly between the (1−δ)n≤k “trivial” line and the Elias capacity curve. Code to poke/extend/attack the picture 👇 [pic.x.com/DtcG7hP2jK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6mrUZ_WAAE06VO.png — no alt text provided by author
+
+
+---
+
+## 2025-11-04 · Post · Unsolicited advice to zero-knowledge system learners.
+
+
+Tags (automatic): ZK
+
+
+### Post — @asanso — 2025-11-04 13:22 UTC (2025-11-04 14:22 WAT)
+
+- URL: https://x.com/asanso/status/1985699059693195670
+- Metrics (at fetch): bookmark 192, impression 40156, like 278, quote 8, reply 25, retweet 33
+
+> Unsolicited advice to zero-knowledge system learners.
+>
+> I’m a cryptographer, not a ZK specialist, who spent years lost in the Cambrian explosion of ZK systems. Every time I sat down to learn the new cool kid, say Plonk, an even cooler kid arrived, Halo or the next thing.
+
+
+---
+
+## 2025-10-28 · Post · Just in case, I will deliver a lightning talks about this attack at EPFL Swiss Crypto day on Friday.
+
+
+### Post — @asanso — 2025-10-28 14:48 UTC (2025-10-28 15:48 WAT)
+
+- URL: https://x.com/asanso/status/1983184164829438269
+- Metrics (at fetch): bookmark 1, impression 1894, like 18, quote 0, reply 2, retweet 1
+
+> Just in case, I will deliver a lightning talks about this attack at EPFL Swiss Crypto day on Friday.  Link to the event 👇(because X ) [pic.x.com/iAO633kUOh] https://twitter.com/asanso/status/1979122458943758661
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4WvPW_WUAAYSwU.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/asanso/status/1979122458943758661
+
+**Quoted post** 1979122458943758661: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-22 · Post · Happy to share joint work with Giuseppe Vitto we presented a few weeks ago in Madrid (soon on ePrint
+
+
+### Post — @asanso — 2025-05-22 10:25 UTC (2025-05-22 11:25 WAT)
+
+- URL: https://x.com/asanso/status/1925498244710146472
+- Metrics (at fetch): bookmark 34, impression 14038, like 99, quote 6, reply 8, retweet 18
+
+> Happy to share joint work with Giuseppe Vitto we presented a few weeks ago in Madrid (soon on ePrint)! We leverage the Graeffe transform to attack Poseidon over NTT-friendly fields — and managed to break reduced-round instances 👀. Links 👇 https://t.co/lHPXPywGad
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gri-VzEWwAA-JdI.png — no alt text provided by author
+
+
+---
+
+## 2025-05-09 · Post · Just use isogenies! This was a really good (but simple) use of them to exploit a vulnerability in so
+
+
+### Post — @asanso — 2025-05-09 13:20 UTC (2025-05-09 14:20 WAT)
+
+- URL: https://x.com/asanso/status/1920831346596839611
+- Metrics (at fetch): bookmark 0, impression 616, like 2, quote 0, reply 0, retweet 0
+
+> Just use isogenies! This was a really good (but simple) use of them to exploit a vulnerability in some ECC code. https://t.co/RvDUmOsexI
+
+**Quoted post** 1920491559797100746: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-08 · Post · Quickly commenting on this: it was a quirky and fun bug in an elliptic curve implementation. The fac
+
+
+### Post — @asanso — 2025-05-08 13:59 UTC (2025-05-08 14:59 WAT)
+
+- URL: https://x.com/asanso/status/1920478731421798536
+- Metrics (at fetch): bookmark 1, impression 966, like 3, quote 1, reply 0, retweet 0
+
+> Quickly commenting on this: it was a quirky and fun bug in an elliptic curve implementation. The fact that it was actually exploitable rather than just a simple bug was surprising to me. I’ve reviewed many elliptic curve implementations over the years, and I’ve never seen this https://t.co/r9digreKwD
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2025-05-07 21:06 UTC (2025-05-07 22:06 WAT)
+    
+    - URL: https://x.com/asanso/status/1920223660582817874
+    - Metrics (at fetch): bookmark 54, impression 19514, like 86, quote 6, reply 2, retweet 18
+    
+    > The Real Slim Shady: CVE-2025-30147 - The curious case of subgroup check on Besu https://t.co/G357vUNvBj https://t.co/QBnZ50Imi1
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GqYAbDNWMAAlEu9.png — no alt text provided by author
+    
+
+
+---
+
+## 2025-05-07 · Post · The Real Slim Shady: CVE-2025-30147 - The curious case of subgroup check on Besu https://t.co/G357vU
+
+
+### Post — @asanso — 2025-05-07 21:06 UTC (2025-05-07 22:06 WAT)
+
+- URL: https://x.com/asanso/status/1920223660582817874
+- Metrics (at fetch): bookmark 54, impression 19514, like 86, quote 6, reply 2, retweet 18
+
+> The Real Slim Shady: CVE-2025-30147 - The curious case of subgroup check on Besu https://t.co/G357vUNvBj https://t.co/QBnZ50Imi1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqYAbDNWMAAlEu9.png — no alt text provided by author
+
+
+---
+
+## 2025-05-07 · Post · So Pectra is finally happening https://t.co/B0FmFqKapu and you can finally use BLS curves in the EVM
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asanso — 2025-05-07 09:39 UTC (2025-05-07 10:39 WAT)
+
+- URL: https://x.com/asanso/status/1920050793249464734
+- Metrics (at fetch): bookmark 10, impression 5643, like 78, quote 1, reply 7, retweet 8
+
+> So Pectra is finally happening https://t.co/B0FmFqKapu and you can finally use BLS curves in the EVM for pairing via https://t.co/fXs43JwDwV (no more excuse to use BN curves :p)
+
+
+---
+
+## 2025-02-06 · Post · As quantum computing advances, Ethereum, like all cryptographic systems, needs to prepare for a futu
+
+
+### Post — @asanso — 2025-02-06 08:45 UTC (2025-02-06 09:45 WAT)
+
+- URL: https://x.com/asanso/status/1887422457776054745
+- Metrics (at fetch): bookmark 5, impression 1637, like 24, quote 1, reply 2, retweet 2
+
+> As quantum computing advances, Ethereum, like all cryptographic systems, needs to prepare for a future where quantum computers could potentially break the cryptographic schemes currently used to secure transactions. To address this challenge, we explored Falcon, a lattice-based
+
+
+---
+
+## 2025-02-06 · Post · As quantum computing advances, Ethereum, like all cryptographic systems, needs to prepare for a futu
+
+
+### Post — @asanso — 2025-02-06 08:44 UTC (2025-02-06 09:44 WAT)
+
+- URL: https://x.com/asanso/status/1887422041781145607
+- Metrics (at fetch): bookmark 0, impression 39, like 2, quote 0, reply 0, retweet 0
+
+> As quantum computing advances, Ethereum, like all cryptographic systems, needs to prepare for a future where quantum computers could potentially break the cryptographic schemes currently used to secure transactions. To address this challenge, we explored Falcon, a lattice-based
+
+
+---
+
+## 2025-01-20 · Post · Falcon as an Ethereum Transaction Signature: The Good, the Bad, and the Gnarly https://ethresear.ch/
+
+
+### Post — @asanso — 2025-01-20 12:22 UTC (2025-01-20 13:22 WAT)
+
+- URL: https://x.com/asanso/status/1881316412758892610
+- Metrics (at fetch): bookmark 17, impression 3662, like 49, quote 1, reply 3, retweet 10
+
+> Falcon as an Ethereum Transaction Signature: The Good, the Bad, and the Gnarly https://ethresear.ch/t/falcon-as-an-ethereum-transaction-signature-the-good-the-bad-and-the-gnarly/21512
+
+**Links in post:** https://ethresear.ch/t/falcon-as-an-ethereum-transaction-signature-the-good-the-bad-and-the-gnarly/21512
+
+
+---
+
+## 2024-12-18 · Post · So you wanna Post-Quantum Ethereum transaction signature https://ethresear.ch/t/so-you-wanna-post-qu
+
+
+### Post — @asanso — 2024-12-18 13:47 UTC (2024-12-18 14:47 WAT)
+
+- URL: https://x.com/asanso/status/1869378855821287885
+- Metrics (at fetch): bookmark 24, impression 12906, like 142, quote 5, reply 6, retweet 25
+
+> So you wanna Post-Quantum Ethereum transaction signature https://ethresear.ch/t/so-you-wanna-post-quantum-ethereum-transaction-signature/21291
+
+**Links in post:** https://ethresear.ch/t/so-you-wanna-post-quantum-ethereum-transaction-signature/21291
+
+
+---
+
+## 2024-12-17 · Post · out of one big isogeny (e.g degree 137 for one of the lollipop curve) so do GLV would not be a gain.
+
+
+### Post — @asanso — 2024-12-17 17:32 UTC (2024-12-17 18:32 WAT)
+
+- URL: https://x.com/asanso/status/1869073226351145158
+- Metrics (at fetch): bookmark 0, impression 221, like 2, quote 0, reply 1, retweet 0
+
+> out of one big isogeny (e.g degree 137 for one of the lollipop curve) so do GLV would not be a gain. We show how this optimization remains meaningful for curves where GLV was previously thought to be inefficient. 4/N
+
+
+---
+
+## 2024-11-14 · Post · This was my room number in Bangkok. They knew I am an elliptic curve lover . ifyouknowyouknow [pic.
+
+
+### Post — @asanso — 2024-11-14 15:46 UTC (2024-11-14 16:46 WAT)
+
+- URL: https://x.com/asanso/status/1857087731744014784
+- Metrics (at fetch): bookmark 0, impression 915, like 20, quote 0, reply 2, retweet 0
+
+> This was my room number in Bangkok. They knew I am an elliptic curve lover . #ifyouknowyouknow [pic.x.com/IvINzOEiBv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcWzb1kW4AAUWEl.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-04 · Thread · amazing stuff https://eprint.iacr.org/2024/1790 "Revisiting subgroup membership testing on pairing-f
+
+
+### Post — @asanso — 2024-11-04 10:11 UTC (2024-11-04 11:11 WAT)
+
+- URL: https://x.com/asanso/status/1853379628779340193
+- Metrics (at fetch): bookmark 9, impression 3131, like 34, quote 0, reply 2, retweet 5
+
+> amazing stuff https://eprint.iacr.org/2024/1790 "Revisiting subgroup membership testing on pairing-friendly curves via the Tate pairing"
+
+**Links in post:** https://eprint.iacr.org/2024/1790
+
+
+### Thread part 2 — @asanso — 2024-11-04 12:33 UTC (2024-11-04 13:33 WAT)
+
+- URL: https://x.com/asanso/status/1853415205008523534
+- Metrics (at fetch): bookmark 0, impression 252, like 2, quote 0, reply 1, retweet 1
+
+> @rel_zeta_tech @ebfull (but this contained a subtle issue that made the result kind of invalid) and Scott later https://eprint.iacr.org/2021/1130.pdf made subgroup check faster leveraging the existing endomorphisms in the pairing based curves. These results were then further generalized by others. This method 2/3
+
+**Links in post:** https://eprint.iacr.org/2021/1130.pdf
+
+
+### Thread part 3 — @asanso — 2024-11-04 12:35 UTC (2024-11-04 13:35 WAT)
+
+- URL: https://x.com/asanso/status/1853415769511489956
+- Metrics (at fetch): bookmark 0, impression 282, like 2, quote 0, reply 1, retweet 1
+
+> @rel_zeta_tech @ebfull in https://eprint.iacr.org/2024/1790.pdf doesn't leverage scalar multiplications but Tate pairing and it's a direct consequence of the innovation brought by @DimitriKoshelev in https://eprint.iacr.org/2022/037.pdf (subgroup check for Bandersnatch/Jubjub) 3/3
+
+**Links in post:** https://eprint.iacr.org/2024/1790.pdf, https://eprint.iacr.org/2022/037.pdf
+
+
+---
+
+## 2024-09-26 · Post · there is a very straightforward countermeasure, and the attack is really specific to the 3-torsion. 
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211664387760463
+- Metrics (at fetch): bookmark 0, impression 52, like 1, quote 0, reply 1, retweet 0
+
+> there is a very straightforward countermeasure, and the attack is really specific to the 3-torsion. So, if you are still here, do not worry—the CL framework is still alive and kicking. EOF. (18/19)
+
+
+---
+
+## 2024-09-26 · Post · I was able to break the rough order assumption for some special forms of discriminants. I also used 
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211662655562234
+- Metrics (at fetch): bookmark 0, impression 42, like 1, quote 0, reply 1, retweet 0
+
+> I was able to break the rough order assumption for some special forms of discriminants. I also used some well-known heuristics, such as the famous Birch and Swinnerton-Dyer (BSD) conjecture, to reason about the assumption for generic discriminants. However, (17/19)
+
+
+---
+
+## 2024-09-26 · Post · For the record, a few weeks ago, Elkies, along with Zev Klagsbrun, broke the record by finding an el
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211661179105306
+- Metrics (at fetch): bookmark 0, impression 40, like 1, quote 0, reply 1, retweet 0
+
+> For the record, a few weeks ago, Elkies, along with Zev Klagsbrun, broke the record by finding an elliptic curve with rank 29!So, in a nutshell, using this connection to algebraic geometry, if the rank of a special Mordell curve over QQ is at least 2, (16/19)
+
+
+---
+
+## 2024-09-26 · Post · but not by me :( ) the 3-torsion in class groups to the rank of certain Mordell curves over the rati
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211659220435175
+- Metrics (at fetch): bookmark 0, impression 43, like 1, quote 0, reply 1, retweet 0
+
+> but not by me :( ) the 3-torsion in class groups to the rank of certain Mordell curves over the rationals. If you’re not familiar with what the rank of an elliptic curve is, see this beautiful thread by @MathAndCobb [https://t.co/O8Oegcb4Pj]. (15/19)
+
+
+---
+
+## 2024-09-26 · Post · I used the concept of principal cubic genus in a very specific and niche  attack on DDH in a totally
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211655592308789
+- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 1, retweet 0
+
+> I used the concept of principal cubic genus in a very specific and niche  attack on DDH in a totally non-maximal imaginary quadratic order, as  described here [https://t.co/B9eJAVqj27], but that's not  much.  Recently, (13/19)
+
+
+---
+
+## 2024-09-26 · Post · the CL framework already defends itself against this known attack. What comes after 2? Correct—3. It
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211654065664201
+- Metrics (at fetch): bookmark 0, impression 37, like 1, quote 0, reply 1, retweet 0
+
+> the CL framework already defends itself against this known attack. What comes after 2? Correct—3. It turns out we know a lot less about 3-torsion in the class group. (12/19)
+
+
+---
+
+## 2024-09-26 · Post · which is exactly what Gauss did with genus theory and was later leveraged in the beautiful attack on
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211652073377910
+- Metrics (at fetch): bookmark 0, impression 57, like 1, quote 0, reply 1, retweet 0
+
+> which is exactly what Gauss did with genus theory and was later leveraged in the beautiful attack on DDH for class group actions by Castryck et al. in 2020 [https://t.co/ju8My9K73D]. However, (11/19)
+
+**Quoted post** 1293158751281741827: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-09-26 · Post · Many years later, the two realized how to actually translate the attack for constructive use (in the
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211643714126223
+- Metrics (at fetch): bookmark 0, impression 55, like 1, quote 0, reply 1, retweet 0
+
+> Many years later, the two realized how to actually translate the attack for constructive use (in the same way that pairings with MOV and, more recently, isogenies did) and gave birth to a new branch of research using this framework—the CL framework  (6/19)
+
+
+---
+
+## 2024-09-26 · Post · You can read about it here: [https://t.co/kS05eZpXbb]. However, it was spectacularly broken by Casta
+
+
+### Post — @asanso — 2024-09-26 07:53 UTC (2024-09-26 08:53 WAT)
+
+- URL: https://x.com/asanso/status/1839211642082427126
+- Metrics (at fetch): bookmark 0, impression 45, like 1, quote 0, reply 1, retweet 0
+
+> You can read about it here: [https://t.co/kS05eZpXbb]. However, it was spectacularly broken by Castagnos and Laguillaumie in 2009 [https://t.co/XYvMGwGf9N]. (5/19)
+
+
+---
+
+## 2024-09-16 · Post · BLS signature BUT post quantum. Please help
+
+
+### Post — @asanso — 2024-09-16 08:08 UTC (2024-09-16 09:08 WAT)
+
+- URL: https://x.com/asanso/status/1835591579907604567
+- Metrics (at fetch): bookmark 7, impression 7315, like 39, quote 2, reply 7, retweet 7
+
+> BLS signature BUT post quantum. Please help
+
+
+---
+
+## 2024-08-13 · Post · "RANK OF AN ELLIPTIC CURVE AND 3-RANK OF A QUADRATIC
+
+
+### Post — @asanso — 2024-08-13 13:42 UTC (2024-08-13 14:42 WAT)
+
+- URL: https://x.com/asanso/status/1823354437538091498
+- Metrics (at fetch): bookmark 0, impression 396, like 3, quote 1, reply 1, retweet 0
+
+> "RANK OF AN ELLIPTIC CURVE AND 3-RANK OF A QUADRATIC
+> FIELD VIA THE BURGESS BOUNDS" https://t.co/krE4w6oQWH
+
+
+---
+
+## 2024-08-12 · Reply · @hashbreaker @hyperelliptic https://t.co/ykM9ZWtpFu nice one. In case you want to "complement" appen
+
+
+### Post — @asanso — 2024-08-12 18:53 UTC (2024-08-12 19:53 WAT)
+
+- URL: https://x.com/asanso/status/1823070281700941892
+- Metrics (at fetch): bookmark 0, impression 105, like 0, quote 0, reply 0, retweet 0
+
+> @hashbreaker @hyperelliptic https://t.co/ykM9ZWtpFu nice one. In case you want to "complement" appendix A here is an invalid curve attack on JWE https://t.co/HGMccQenVk (call me biased)
+
+
+---
+
+## 2024-07-26 · Post · "We are now able to run a complete key
+
+
+### Post — @asanso — 2024-07-26 09:05 UTC (2024-07-26 10:05 WAT)
+
+- URL: https://x.com/asanso/status/1816761780594520406
+- Metrics (at fetch): bookmark 1, impression 2749, like 18, quote 0, reply 3, retweet 1
+
+> "We are now able to run a complete key
+> recovery attack on SIDH when the endomorphism ring of the starting curve is
+> unknown within a few seconds on a laptop for all NIST SIKE parameters." impressive! https://t.co/yIj9nhfvsK
+
+**Quoted post** 1816360253581410408: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-06-20 · Reply · @kobigurk any kzg library deployed would work (with or without plonk)
+
+
+**Context — post being replied to:**
+
+#### Parent post — @kobigurk — 2024-06-20 09:14 UTC (2024-06-20 10:14 WAT)
+
+- URL: https://x.com/kobigurk/status/1803718088258392228
+- Metrics (at fetch): bookmark 0, impression 284, like 4, quote 0, reply 1, retweet 0
+
+> @asanso Beyond plonk deployment or including?
+
+
+### Post — @asanso — 2024-06-20 09:15 UTC (2024-06-20 10:15 WAT)
+
+- URL: https://x.com/asanso/status/1803718330236158344
+- Metrics (at fetch): bookmark 0, impression 214, like 2, quote 0, reply 0, retweet 0
+
+> @kobigurk any kzg library deployed would work (with or without plonk)
+
+
+---
+
+## 2024-06-20 · Post · Is anyone using KZG polynomial commitments in a solidity contract ? asking for a friend
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @asanso — 2024-06-20 08:37 UTC (2024-06-20 09:37 WAT)
+
+- URL: https://x.com/asanso/status/1803708785166270792
+- Metrics (at fetch): bookmark 5, impression 3156, like 13, quote 0, reply 4, retweet 1
+
+> Is anyone using KZG polynomial commitments in a solidity contract ? asking for a friend
+
+
+---
+
+## 2024-05-17 · Post · Question for the ZK-SNARK gurus (e.g. @benediktbuenz , @kobigurk , @zkproofs , @rel_zeta_tech , @nic
+
+
+Tags (automatic): ZK
+
+
+### Post — @asanso — 2024-05-17 09:27 UTC (2024-05-17 10:27 WAT)
+
+- URL: https://x.com/asanso/status/1791400204438028356
+- Metrics (at fetch): bookmark 14, impression 7050, like 23, quote 0, reply 5, retweet 3
+
+> Question for the ZK-SNARK gurus (e.g. @benediktbuenz , @kobigurk , @zkproofs , @rel_zeta_tech , @nico_mnbl , etc etc etc. Can this extra cycle be any useful in any ZK-SNARK application ? https://t.co/RFX2yPxyQT https://t.co/mCHdj6ep85
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNxUcDRWMAA9C3s.jpg — no alt text provided by author
+
+**Quoted post** 1791399061917978676: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-04-19 · Reply · @kobigurk But to be fair there different opinions about curve generations  see for example https://t
+
+
+### Post — @asanso — 2024-04-19 13:29 UTC (2024-04-19 14:29 WAT)
+
+- URL: https://x.com/asanso/status/1781314258917027861
+- Metrics (at fetch): bookmark 2, impression 92, like 1, quote 0, reply 1, retweet 0
+
+> @kobigurk But to be fair there different opinions about curve generations  see for example https://t.co/Fm8dgbfzdh
+
+
+---
+
+## 2024-04-19 · Post · @kobigurk Fixing a base field every curve having the same number of points is isogenous to the other
+
+
+### Post — @asanso — 2024-04-19 13:24 UTC (2024-04-19 14:24 WAT)
+
+- URL: https://x.com/asanso/status/1781312888314949924
+- Metrics (at fetch): bookmark 0, impression 89, like 2, quote 0, reply 1, retweet 0
+
+> @kobigurk Fixing a base field every curve having the same number of points is isogenous to the other
+
+
+---
+
+## 2024-04-19 · Reply · @kobigurk If is a prime order curve not at all
+
+
+**Context — post being replied to:**
+
+#### Parent post — @kobigurk — 2024-04-19 13:19 UTC (2024-04-19 14:19 WAT)
+
+- URL: https://x.com/kobigurk/status/1781311598356803865
+- Metrics (at fetch): bookmark 1, impression 4512, like 2, quote 1, reply 7, retweet 0
+
+> Is a choice of curve parameters or generators a form of trusted setup?
+
+
+### Post — @asanso — 2024-04-19 13:21 UTC (2024-04-19 14:21 WAT)
+
+- URL: https://x.com/asanso/status/1781312169356796273
+- Metrics (at fetch): bookmark 0, impression 158, like 2, quote 0, reply 1, retweet 0
+
+> @kobigurk If is a prime order curve not at all

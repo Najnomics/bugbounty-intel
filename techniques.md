@@ -171,3 +171,16 @@ Every item links to the verbatim post file in this repo (full text, no X access 
 - **EVM-compatible chains break Ethereum assumptions** (Frontier wrapped-native insolvency). — pwning.eth, [`writeups/PwningEth/`](writeups/PwningEth/)
 - **Old code still hides bugs** (Guhu95's 5-year-old $60k bug; Shanon on >1-year-old codebases). — [`posts/Guhu95/`](posts/Guhu95/), [`posts/Shanon40439853/`](posts/Shanon40439853/)
 - **Price-oracle manipulation and undercollateralised-loan patterns.** — samczsun, [`writeups/samczsun/`](writeups/samczsun/)
+
+---
+
+## Protocol clients & cryptography (Nov 2026)
+
+Drawn from the verbatim advisories under `projects/`.
+
+- **Enumerate every branch of special-case node logic** (free×reverted×non-free). Zcashd / lightwalletd / Polygon zkEVM-style claim and fee paths. Sources: [`projects/zcash/`](projects/zcash/), [`posts/0xiczc/`](posts/0xiczc/).
+- **P2P / block-body poisoning**: malformed NU5 bodies, auth-data body poisoning, forged checkpoint blocks that stall sync. Sources: Zebra and zcashd GHSAs under [`projects/zcash/advisories/`](projects/zcash/advisories/).
+- **Circuit soundness**: Orchard Action circuit under-constrained base (GHSA-ghc3-g8w4-whf9); use the 0xPARC ZK bug tracker classes. Sources: [`projects/zcash/advisories/ghsa-ghc3-g8w4-whf9.md`](projects/zcash/advisories/ghsa-ghc3-g8w4-whf9.md), [`projects/crypto/zk-bug-tracker-readme.md`](projects/crypto/zk-bug-tracker-readme.md).
+- **Solidity compiler version → known bugs**: map pragma to the 67-entry canonical list. Source: [`projects/ethereum/solidity-compiler-bugs.md`](projects/ethereum/solidity-compiler-bugs.md).
+- **Crypto crate advisories**: check deps against RustSec (aes-gcm nonce, dalek malleability, etc.). Source: [`projects/crypto/advisories-index.md`](projects/crypto/advisories-index.md).
+- **TEE attestation pipeline questions** (enforced TCB? TLS on collateral? stale replay? SSRF on verifier URL?): Bluethroat / saxenism. Sources: [`writeups/saxenism/dumb-ways-to-get-rekt-with-tees.md`](writeups/saxenism/dumb-ways-to-get-rekt-with-tees.md), [`harness/bug-classes/tee-attestation.md`](harness/bug-classes/tee-attestation.md).

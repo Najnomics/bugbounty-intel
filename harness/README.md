@@ -12,13 +12,20 @@ This folder turns the knowledge base into material an agent can act on to improv
 
 ## Bug-class files
 
-`auth-bypass`, `idor-bola`, `sqli`, `ssrf`, `xss`, `request-smuggling`, `cache-poisoning`, `path-normalization`, `dependency-confusion`, `oauth`, `mobile-content-providers`, `smart-contract` (access control, rounding, reentrancy, oracle, signature replay), `zk-circuits` (under-constrained/soundness), `tee-attestation`.
+`auth-bypass`, `blockchain-client`, `crypto-primitives`, `idor-bola`, `sqli`, `ssrf`, `xss`, `request-smuggling`, `cache-poisoning`, `path-normalization`, `dependency-confusion`, `oauth`, `mobile-content-providers`, `smart-contract` (access control, rounding, reentrancy, oracle, signature replay), `zk-circuits` (under-constrained/soundness), `tee-attestation`.
 
 ## How to use it
 
 1. Start with `recon-methodology.md` to shape the pipeline's phase order. The single richest source is the verbatim prompt pack under `../writeups/mdp_sec/prompts/` (an 11-phase recon→sweep→triage→validate→gate workflow with real tool invocations).
 2. For each vulnerability check, open the matching `bug-classes/<class>.md` for the detection signal, the exact payload/request pattern observed, and a pseudo-code check spec to automate.
 3. Load `findings.jsonl` as labelled examples (map target_type + bug_class → discovery_method + payload) and follow `source_files` back to the full verbatim report for context.
+
+## Protocol / crypto advisories
+
+- [`projects/zcash/`](../projects/zcash/) — 76 GHSA (zcashd, zebra, lightwalletd, frost)
+- [`projects/ethereum/`](../projects/ethereum/) — 34 GHSA + 67 Solidity compiler bugs
+- [`projects/solana/`](../projects/solana/) — OSV/RustSec (rBPF, Anchor, SPL)
+- [`projects/crypto/`](../projects/crypto/) — 76 RustSec crypto advisories + 0xPARC ZK bug tracker
 
 ## Important caveats (so the harness doesn't over-trust this)
 

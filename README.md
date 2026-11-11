@@ -28,6 +28,7 @@ This is not a complete map of X, and it is not a hall-of-fame ranking. It starts
 | [techniques.md](techniques.md) | Cross-cutting methodology and bug patterns, each tip linked to its source |
 | [sources-log.md](sources-log.md) | Every post and URL consulted, with dates |
 | [INDEX.md](INDEX.md) | Index by researcher, by bug class (auto tags), and by platform |
+| [projects/](projects/) | Protocol security advisories: [zcash](projects/zcash/) (76 GHSA), [ethereum](projects/ethereum/) (34 GHSA + 67 Solidity bugs), [solana](projects/solana/), [crypto](projects/crypto/) (76 RustSec + ZK bug tracker) |
 | [harness/](harness/) | **For a harness-building agent:** merged recon methodology, per-bug-class check specs with payloads, and a machine-readable `findings.jsonl` — all cited back to local files |
 | [posts/](posts/) | `posts/<handle>/<YYYY-MM-DD>-<postid>.md` — verbatim post + thread + quoted post + media, then an `## Analysis` section (tags, bug class, root cause, how found, takeaways pulled from the researcher file) |
 | [writeups/](writeups/) | `writeups/<researcher>/<slug>.md` — full text of linked blogs/reports, header with source URL and fetch date |

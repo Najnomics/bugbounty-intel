@@ -24,6 +24,8 @@ Compiled 11 November 2026 (Africa/Lagos). Handles link to X. "Evidence of consis
 | [@brandon_shi](https://x.com/brandon_shi) | BRDNS | Immunefi; Sherlock lead judge | Web / browser / Web3 audit | Immunefi (24 Sep 2026): $50k critical, $56k in 90 days, #19 on 90-day leaderboard. | [y4y.space](https://y4y.space) |
 | [@GuplerSaxanoid](https://x.com/GuplerSaxanoid) | GuplerSaxanoid | Immunefi | Blockchain nodes / infra; historically hand-found criticals | Bio: "multiple criticals by hand (Immunefi top 125)." Immunefi (13 Oct 2026) posted a $30k critical in a blockchain (post text was truncated after "That's their 5…"). | [immunefi.com/profile/GuplerSaxanoid](https://immunefi.com/profile/GuplerSaxanoid/) |
 
+| [@saxenism](https://x.com/saxenism) | Rahul Saxena | Immunefi (via Bluethroat); ETHSecurity | TEE, ZK, L2/protocol | Bluethroat Labs founder; ex-zkSync security; 470 verbatim posts captured | [researchers/saxenism.md](researchers/saxenism.md) |
+
 ## Added Nov 2026 (expansion: web, API, mobile, native, TEE, ZK, Web3)
 
 | Handle | Name | Platforms | Focus | Evidence of valid finds | File |

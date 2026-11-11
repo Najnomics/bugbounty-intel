@@ -1,0 +1,443 @@
+# @orange_8361 — full verbatim X archive (security-relevant posts)
+
+_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+
+- Posts in this file: 23
+- Conversations/threads: 23
+- Oldest post captured: 2024-08-30
+- Newest post captured: 2026-10-29
+
+
+---
+
+## 2026-10-29 · Post · Bonus: I've also flipped the chain and popped MS Edge from calc.exe 😆
+
+
+### Post — @orange_8361 — 2026-10-29 03:59 UTC (2026-10-29 04:59 WAT)
+
+- URL: https://x.com/orange_8361/status/2115654643141489057
+- Metrics (at fetch): bookmark 169, impression 73044, like 1003, quote 11, reply 11, retweet 157
+
+> Bonus: I've also flipped the chain and popped MS Edge from calc.exe 😆
+>
+> https://t.co/0ZgisaKl3V
+
+
+---
+
+## 2026-10-29 · Post · Just dropped a new blog post! 🔥
+
+
+### Post — @orange_8361 — 2026-10-29 03:58 UTC (2026-10-29 04:58 WAT)
+
+- URL: https://x.com/orange_8361/status/2115654457694490902
+- Metrics (at fetch): bookmark 527, impression 83464, like 1463, quote 39, reply 29, retweet 419
+
+> Just dropped a new blog post! 🔥
+>
+> https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
+
+**Links in post:** https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
+
+
+---
+
+## 2026-09-19 · Post · It’s gonna overflow! https://t.co/paGJWKwf4K
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @orange_8361 — 2026-09-19 00:08 UTC (2026-09-19 01:08 WAT)
+
+- URL: https://x.com/orange_8361/status/2101101039885910124
+- Metrics (at fetch): bookmark 23, impression 27223, like 714, quote 1, reply 9, retweet 5
+
+> It’s gonna overflow! https://t.co/paGJWKwf4K
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HSicQcvbsAAd1Pw.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-22 · Reply · @fubukiyokiyoki シーフードもとても美味しかった！
+
+
+### Post — @orange_8361 — 2026-08-22 18:26 UTC (2026-08-22 19:26 WAT)
+
+- URL: https://x.com/orange_8361/status/2091230642260549931
+- Metrics (at fetch): bookmark 0, impression 1292, like 6, quote 0, reply 1, retweet 0
+
+> @fubukiyokiyoki シーフードもとても美味しかった！
+
+
+---
+
+## 2026-08-15 · Post · My third @PwnieAwards trophy! Thanks all, and to my friends who grabbed it on stage for me! 🦄🏆 https
+
+
+### Post — @orange_8361 — 2026-08-15 16:17 UTC (2026-08-15 17:17 WAT)
+
+- URL: https://x.com/orange_8361/status/2088661243427266887
+- Metrics (at fetch): bookmark 31, impression 31815, like 621, quote 0, reply 9, retweet 40
+
+> My third @PwnieAwards trophy! Thanks all, and to my friends who grabbed it on stage for me! 🦄🏆 https://t.co/aHBmGe0oGH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPxjIwGagAAxfJh.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HPxkK_9a8AA9HLZ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HPxkLlKbEAAeqfX.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-08 · Post · Angelgod! https://t.co/NQ60gkmQZq
+
+
+### Post — @orange_8361 — 2026-08-08 06:02 UTC (2026-08-08 07:02 WAT)
+
+- URL: https://x.com/orange_8361/status/2085969982429843509
+- Metrics (at fetch): bookmark 46, impression 35396, like 207, quote 0, reply 13, retweet 8
+
+> Angelgod! https://t.co/NQ60gkmQZq
+
+**Quoted post** 2085831745157337546: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-15 · Post · And this one is human insight w/ LLM-assisted research. Took about one week to finish everything. Th
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @orange_8361 — 2026-05-15 16:51 UTC (2026-05-15 17:51 WAT)
+
+- URL: https://x.com/orange_8361/status/2055330289652539850
+- Metrics (at fetch): bookmark 202, impression 132834, like 1675, quote 22, reply 46, retweet 153
+
+> And this one is human insight w/ LLM-assisted research. Took about one week to finish everything. The AI really rescued me from a lot of tedious work
+>
+> — excluding the part where it changed the Domain Admin password, locked me out, and claimed it got RCE 🤦 https://twitter.com/thezdi/status/2055281643984683475
+
+**Links in post:** https://twitter.com/thezdi/status/2055281643984683475
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2026-05-15 13:38 UTC (2026-05-15 14:38 WAT)
+    
+    - URL: https://x.com/thezdi/status/2055281643984683475
+    - Metrics (at fetch): bookmark 145, impression 287363, like 1544, quote 60, reply 26, repost 174
+    
+    > Aaaand it's official! Orange Tsai (@orange_8361) of DEVCORE Research Team chained 3 bugs to achieve Remote Code Execution as SYSTEM on Microsoft Exchange, earning a whooping $200,000 and 20 Master of Pwn points. Full win! #Pwn2Own #P2OBerlin [pic.x.com/zIgluSn4ax]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIXTabBXAAA69th.png — no alt text provided by author
+    
+
+
+---
+
+## 2026-05-15 · Post · And this one is human insight w/ LLM-assisted research. Took about a week to finish everything. The 
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @orange_8361 — 2026-05-15 16:49 UTC (2026-05-15 17:49 WAT)
+
+- URL: https://x.com/orange_8361/status/2055329722909831504
+- Metrics (at fetch): bookmark 0, impression 669, like 14, quote 0, reply 1, retweet 0
+
+> And this one is human insight w/ LLM-assisted research. Took about a week to finish everything. The AI really rescued me from a lot of tedious work
+>
+> — excluding the part where it changed the Domain Admin password, locked me out, and claimed it got RCE 🤦 https://twitter.com/thezdi/status/2055281643984683475
+
+**Links in post:** https://twitter.com/thezdi/status/2055281643984683475
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2026-05-15 13:38 UTC (2026-05-15 14:38 WAT)
+    
+    - URL: https://x.com/thezdi/status/2055281643984683475
+    - Metrics (at fetch): bookmark 145, impression 287363, like 1544, quote 60, reply 26, repost 174
+    
+    > Aaaand it's official! Orange Tsai (@orange_8361) of DEVCORE Research Team chained 3 bugs to achieve Remote Code Execution as SYSTEM on Microsoft Exchange, earning a whooping $200,000 and 20 Master of Pwn points. Full win! #Pwn2Own #P2OBerlin [pic.x.com/zIgluSn4ax]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIXTabBXAAA69th.png — no alt text provided by author
+    
+
+
+---
+
+## 2026-05-14 · Post · That's my chain — a full chain w/ logic bugs only! No memory corruption, no AI, and of course no col
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @orange_8361 — 2026-05-14 12:45 UTC (2026-05-14 13:45 WAT)
+
+- URL: https://x.com/orange_8361/status/2054906050143240399
+- Metrics (at fetch): bookmark 366, impression 225056, like 2576, quote 41, reply 108, repost 361
+
+> That's my chain — a full chain w/ logic bugs only! No memory corruption, no AI, and of course no collisions at all 😉 https://twitter.com/thezdi/status/2054868495888777266
+
+**Links in post:** https://twitter.com/thezdi/status/2054868495888777266
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2026-05-14 10:16 UTC (2026-05-14 11:16 WAT)
+    
+    - URL: https://x.com/thezdi/status/2054868495888777266
+    - Metrics (at fetch): bookmark 157, impression 241853, like 1184, quote 24, reply 30, repost 157
+    
+    > Confirmed! Orange Tsai (@orange_8361) of DEVCORE Research Team (@d3vc0r3) chained 4 logic bugs to achieve a sandbox escape on Microsoft Edge, earning $175,000 and 17.5 Master of Pwn points. Full win! #Pwn2Own #P2OBerlin [pic.x.com/vJaIpGG4cD]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIRcAMUW8AAHGzN.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2025-10-08 · Post · Say hi to them — check out our latest research! https://t.co/VutkKaabId
+
+
+### Post — @orange_8361 — 2025-10-08 15:20 UTC (2025-10-08 16:20 WAT)
+
+- URL: https://x.com/orange_8361/status/1975944472786833749
+- Metrics (at fetch): bookmark 25, impression 27441, like 129, quote 0, reply 0, retweet 10
+
+> Say hi to them — check out our latest research! https://t.co/VutkKaabId
+
+**Quoted post** 1975876324058087922: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-10-07 · Post · Really love the style of this exploit chain! 👏 https://t.co/WpXjABqGro
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @orange_8361 — 2025-10-07 10:22 UTC (2025-10-07 11:22 WAT)
+
+- URL: https://x.com/orange_8361/status/1975506956417671410
+- Metrics (at fetch): bookmark 59, impression 31688, like 247, quote 0, reply 3, retweet 16
+
+> Really love the style of this exploit chain! 👏 https://t.co/WpXjABqGro
+
+**Quoted post** 1975255856540492241: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-08-28 · Post · 國語友善XD
+
+
+### Post — @orange_8361 — 2025-08-28 12:26 UTC (2025-08-28 13:26 WAT)
+
+- URL: https://x.com/orange_8361/status/1961042790164336984
+- Metrics (at fetch): bookmark 104, impression 24938, like 332, quote 2, reply 3, retweet 59
+
+> 國語友善XD
+>
+> https://t.co/jiDA8HWdLG
+
+
+---
+
+## 2025-08-20 · Post · Turns out my PHRACK article is live! 🔥
+
+
+### Post — @orange_8361 — 2025-08-20 07:27 UTC (2025-08-20 08:27 WAT)
+
+- URL: https://x.com/orange_8361/status/1958068417753411638
+- Metrics (at fetch): bookmark 290, impression 67923, like 901, quote 6, reply 20, repost 219
+
+> Turns out my #PHRACK article is live! 🔥
+>
+> > The Art of PHP — My CTF Journey and Untold Stories!
+>
+> Kinda a love letter to those CTF players & PHP nerds! Hope all the credit goes to the right ppl. Also huge thanks to @0xdea for not forgetting me, @guitmz for the edits, and the @Phrack crew for keeping it real! 🎉
+>
+> https://phrack.org/issues/72/5_md#article
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyxzXDCacAEtFa9.jpg — no alt text provided by author
+
+**Links in post:** https://phrack.org/issues/72/5_md#article
+
+
+---
+
+## 2025-08-19 · Reply · @steventseeley The wording of the markdown version is still the old version 😭, while the text versio
+
+
+### Post — @orange_8361 — 2025-08-19 05:04 UTC (2025-08-19 06:04 WAT)
+
+- URL: https://x.com/orange_8361/status/1957670032860934513
+- Metrics (at fetch): bookmark 0, impression 1927, like 10, quote 0, reply 1, retweet 0
+
+> @steventseeley The wording of the markdown version is still the old version 😭, while the text version is more fluent and beautiful. I think the update will be soon!
+
+
+---
+
+## 2025-08-16 · Post · yaaaaa! Long time no see! https://t.co/9dyG2zpukM
+
+
+### Post — @orange_8361 — 2025-08-16 09:39 UTC (2025-08-16 10:39 WAT)
+
+- URL: https://x.com/orange_8361/status/1956651936767431155
+- Metrics (at fetch): bookmark 4, impression 16237, like 95, quote 0, reply 0, retweet 0
+
+> yaaaaa! Long time no see! https://t.co/9dyG2zpukM
+
+**Quoted post** 1956651460013572600: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-08-12 · Reply · @sw33tLie @Arl_rose @PortSwigger @BugBountyDEFCON @d3vc0r3 Congratulations to you too!!!
+
+
+### Post — @orange_8361 — 2025-08-12 10:29 UTC (2025-08-12 11:29 WAT)
+
+- URL: https://x.com/orange_8361/status/1955215077977583865
+- Metrics (at fetch): bookmark 0, impression 702, like 4, quote 0, reply 0, retweet 0
+
+> @sw33tLie @Arl_rose @PortSwigger @BugBountyDEFCON @d3vc0r3 Congratulations to you too!!!
+
+
+---
+
+## 2025-08-10 · Post · Thanks @PortSwigger and @BugBountyDEFCON for this awesome event — and also to my @d3vc0r3 buddies fo
+
+
+### Post — @orange_8361 — 2025-08-10 23:53 UTC (2025-08-11 00:53 WAT)
+
+- URL: https://x.com/orange_8361/status/1954692661056868644
+- Metrics (at fetch): bookmark 33, impression 26553, like 468, quote 1, reply 12, retweet 33
+
+> Thanks @PortSwigger and @BugBountyDEFCON for this awesome event — and also to my @d3vc0r3 buddies for standing on stage to collect the trophy for me!
+>
+> A little follow-up article on this research is coming soon... stay tuned! 🤘 https://t.co/GJuSsdwNkK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyBzA_MXYAAVTS8.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-08 · Post · Oh mom, I am in @phrack! why2025 https://t.co/j5i1FYz2dx
+
+
+### Post — @orange_8361 — 2025-08-08 19:53 UTC (2025-08-08 20:53 WAT)
+
+- URL: https://x.com/orange_8361/status/1953907452615045568
+- Metrics (at fetch): bookmark 34, impression 25520, like 514, quote 4, reply 13, retweet 23
+
+> Oh mom, I am in @phrack! #why2025 https://t.co/j5i1FYz2dx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gx2jgb3WAAALaJ-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Gx2jgb3XIAAtZEJ.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-03 · Post · This will be one of the few OSEE trainings held in Asia. Welcome to Taiwan :)
+
+
+### Post — @orange_8361 — 2025-07-03 15:48 UTC (2025-07-03 16:48 WAT)
+
+- URL: https://x.com/orange_8361/status/1940799864654504011
+- Metrics (at fetch): bookmark 67, impression 20199, like 270, quote 0, reply 4, retweet 32
+
+> This will be one of the few OSEE trainings held in Asia. Welcome to Taiwan :)
+>
+> https://t.co/7dTQH8RR4B
+
+
+---
+
+## 2025-06-02 · Post · I don't have OSCP—instead, I have OSEE! 🎉 [pic.x.com/f8acm1Jz4C] https://twitter.com/orange_8361/sta
+
+
+### Post — @orange_8361 — 2025-06-02 13:46 UTC (2025-06-02 14:46 WAT)
+
+- URL: https://x.com/orange_8361/status/1929535084316811626
+- Metrics (at fetch): bookmark 210, impression 107533, like 1629, quote 4, reply 52, repost 60
+
+> I don't have OSCP—instead, I have OSEE! 🎉 [pic.x.com/f8acm1Jz4C] https://twitter.com/orange_8361/status/1829491975986589764
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GscTAwYagAAaK7C.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/orange_8361/status/1829491975986589764
+
+**Quoted post (full text):**
+
+    #### Quoted post — @orange_8361 — 2024-08-30 12:10 UTC (2024-08-30 13:10 WAT)
+    
+    - URL: https://x.com/orange_8361/status/1829491975986589764
+    - Metrics (at fetch): bookmark 86, impression 147007, like 916, quote 3, reply 15, repost 29
+    
+    > My first kernel exploit! Big thanks to @d3vc0r3 and @offsectraining ! 🎉 [pic.x.com/5G57Bw4A4e]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GWOpP3Za8AA6eR7.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2025-05-03 · Post · Another day, another bug of mine got listed in CISA's KEV. Why does everyone love my bugs (sigh...)?
+
+
+### Post — @orange_8361 — 2025-05-03 05:12 UTC (2025-05-03 06:12 WAT)
+
+- URL: https://x.com/orange_8361/status/1918534178481570073
+- Metrics (at fetch): bookmark 36, impression 26386, like 284, quote 1, reply 4, retweet 26
+
+> Another day, another bug of mine got listed in CISA's KEV. Why does everyone love my bugs (sigh...)?  BTW, great article by @SinSinology again! https://t.co/ADjtzUG4N6
+
+**Quoted post** 1918071292055699484: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-05 · Reply · @SinSinology @PortSwiggerRes Yay, thank you, and congratulations to your Pwn2Own champion, too! 🎉
+
+
+### Post — @orange_8361 — 2025-02-05 15:35 UTC (2025-02-05 16:35 WAT)
+
+- URL: https://x.com/orange_8361/status/1887163067097858423
+- Metrics (at fetch): bookmark 0, impression 983, like 10, quote 0, reply 1, retweet 0
+
+> @SinSinology @PortSwiggerRes Yay, thank you, and congratulations to your Pwn2Own champion, too! 🎉
+
+
+---
+
+## 2024-08-30 · Post · My first kernel exploit! Big thanks to @d3vc0r3 and @offsectraining ! 🎉 [pic.x.com/5G57Bw4A4e]
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @orange_8361 — 2024-08-30 12:10 UTC (2024-08-30 13:10 WAT)
+
+- URL: https://x.com/orange_8361/status/1829491975986589764
+- Metrics (at fetch): bookmark 86, impression 147007, like 916, quote 3, reply 15, repost 29
+
+> My first kernel exploit! Big thanks to @d3vc0r3 and @offsectraining ! 🎉 [pic.x.com/5G57Bw4A4e]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWOpP3Za8AA6eR7.jpg — no alt text provided by author

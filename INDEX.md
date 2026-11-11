@@ -2,85 +2,90 @@
 
 Generated 11 Nov 2026 (WAT). Every link points to a file inside this repo that holds **full verbatim text** — no X access needed.
 
-## Harness material
-
-- [harness/README.md](harness/README.md) — how to use the harness folder
-- [harness/recon-methodology.md](harness/recon-methodology.md) — merged recon workflow (backbone: Marius du Preez's phased prompt pack)
-- [harness/bug-classes/](harness/bug-classes/) — per-bug-class detection signals, payloads, tools, automation check specs
-- [harness/findings.jsonl](harness/findings.jsonl) — machine-readable findings
-- [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/) — Marius du Preez's full 11-phase hunting prompt pack (verbatim)
-- [writeups/mdp_sec/platform-reports.md](writeups/mdp_sec/platform-reports.md) — his HackerOne/HackenProof/Bugcrowd report metadata and counts
-
 ## By researcher
 
 | Researcher | Profile | Posts (files) | Writeups | Specialty | Platforms |
 | --- | --- | --- | --- | --- | --- |
-| 0xacb | [researchers/0xacb.md](researchers/0xacb.md) | [5](posts/0xacb/) | [1](writeups/0xacb/) | Web | HackerOne; co-founder Ethiack |
-| 0xiczc | [researchers/0xiczc.md](researchers/0xiczc.md) | [5](posts/0xiczc/) | [3](writeups/0xiczc/) | Web3 / ZK / Cosmos | Immunefi |
-| 0xriptide | [researchers/0xriptide.md](researchers/0xriptide.md) | [5](posts/0xriptide/) | [2](writeups/0xriptide/) | Web3 (also web via AI tooling) | Immunefi (bio: top-ranked whitehat); host of Bountyhunt3rz podcast |
-| 0xvivekd | [researchers/0xvivekd.md](researchers/0xvivekd.md) | [9](posts/0xvivekd/) | 0 | see profile (original set) | see profile |
-| _bagipro | [researchers/_bagipro.md](researchers/_bagipro.md) | [3](posts/_bagipro/) | [1](writeups/_bagipro/) | Mobile (Android/iOS) | Google Play Security Rewards #1 (bio); Oversecured |
-| _blockian | [researchers/_blockian.md](researchers/_blockian.md) | [5](posts/_blockian/) | 0 | Web3 | Immunefi (Elite All Star); HackenProof rank 8 |
-| ajxchapman | [researchers/ajxchapman.md](researchers/ajxchapman.md) | [5](posts/ajxchapman/) | 0 | Web | HackerOne / full-time bug bounty |
-| al_f4lc0n | [researchers/al_f4lc0n.md](researchers/al_f4lc0n.md) | [4](posts/al_f4lc0n/) | [1](writeups/al_f4lc0n/) | see profile (original set) | see profile |
-| albinowax | [researchers/albinowax.md](researchers/albinowax.md) | [5](posts/albinowax/) | 0 | Web (HTTP desync) | PortSwigger research |
-| anchabadze | [researchers/anchabadze.md](researchers/anchabadze.md) | [5](posts/anchabadze/) | 0 | Web3 audits | HackenProof |
-| Assass1nmarcos | [researchers/Assass1nmarcos.md](researchers/Assass1nmarcos.md) | [9](posts/Assass1nmarcos/) | [4](writeups/Assass1nmarcos/) | see profile (original set) | see profile |
-| asymmetric_re | [researchers/asymmetric_re.md](researchers/asymmetric_re.md) | [5](posts/asymmetric_re/) | 0 | Web3 (Solana) | Immunefi (#1 Barracuda3172 is associated per leaderboard search) |
-| bbarwik | [researchers/bbarwik.md](researchers/bbarwik.md) | [5](posts/bbarwik/) | 0 | Web3 | HackenProof (rank 3 on leaderboard) |
-| bluethroat_labs | [researchers/bluethroat_labs.md](researchers/bluethroat_labs.md) | [5](posts/bluethroat_labs/) | [3](writeups/bluethroat_labs/) | see profile (original set) | see profile |
-| ChainLight_io | [researchers/ChainLight_io.md](researchers/ChainLight_io.md) | [3](posts/ChainLight_io/) | 0 | Web3 / ZK | Audit firm; DEF CON winners |
-| cmichelio | [researchers/cmichelio.md](researchers/cmichelio.md) | [5](posts/cmichelio/) | 0 | Web3 audits | Spearbit / Cantina (bio); historically top Code4rena warden |
-| deadrosesxyz | [researchers/deadrosesxyz.md](researchers/deadrosesxyz.md) | [3](posts/deadrosesxyz/) | 0 | Web3 audits | Contests |
-| DevDacian | [researchers/DevDacian.md](researchers/DevDacian.md) | [4](posts/DevDacian/) | 0 | Web3 audits | Cyfrin |
-| farazsth98 | [researchers/farazsth98.md](researchers/farazsth98.md) | [4](posts/farazsth98/) | 0 | Native (kernel, browser) | Zellic |
-| fransrosen | [researchers/fransrosen.md](researchers/fransrosen.md) | [3](posts/fransrosen/) | [1](writeups/fransrosen/) | Web (XSS, OAuth, postMessage) | HackerOne (4x MVH per post) |
-| galnagli | [researchers/galnagli.md](researchers/galnagli.md) | [5](posts/galnagli/) | [1](writeups/galnagli/) | Web / AI pentesting | HackerOne, Bugcrowd ($3M+ per bio); Wiz Research |
-| garethheyes | [researchers/garethheyes.md](researchers/garethheyes.md) | [4](posts/garethheyes/) | [3](writeups/garethheyes/) | Web (XSS) | PortSwigger research |
-| Guhu95 | [researchers/Guhu95.md](researchers/Guhu95.md) | [5](posts/Guhu95/) | 0 | Web3 | Immunefi ($60k bug per post), contests |
+| 0xacb | [researchers/0xacb.md](researchers/0xacb.md) | [6](posts/0xacb/) | [1](writeups/0xacb/) | Web | HackerOne; co-founder Ethiack |
+| 0xiczc | [researchers/0xiczc.md](researchers/0xiczc.md) | [9](posts/0xiczc/) | [3](writeups/0xiczc/) | Web3 / ZK / Cosmos | Immunefi |
+| 0xPARC | — | [1](posts/0xPARC/) | 0 | see profile (original set) | see profile |
+| 0xriptide | [researchers/0xriptide.md](researchers/0xriptide.md) | [6](posts/0xriptide/) | [2](writeups/0xriptide/) | Web3 (also web via AI tooling) | Immunefi (bio: top-ranked whitehat); host of Bountyhunt3rz podcast |
+| 0xteddav | — | [1](posts/0xteddav/) | 0 | see profile (original set) | see profile |
+| 0xvivekd | [researchers/0xvivekd.md](researchers/0xvivekd.md) | [10](posts/0xvivekd/) | 0 | see profile (original set) | see profile |
+| _bagipro | [researchers/_bagipro.md](researchers/_bagipro.md) | [15](posts/_bagipro/) | [1](writeups/_bagipro/) | Mobile (Android/iOS) | Google Play Security Rewards #1 (bio); Oversecured |
+| _blockian | [researchers/_blockian.md](researchers/_blockian.md) | [6](posts/_blockian/) | 0 | Web3 | Immunefi (Elite All Star); HackenProof rank 8 |
+| ajxchapman | [researchers/ajxchapman.md](researchers/ajxchapman.md) | [6](posts/ajxchapman/) | 0 | Web | HackerOne / full-time bug bounty |
+| al_f4lc0n | [researchers/al_f4lc0n.md](researchers/al_f4lc0n.md) | [5](posts/al_f4lc0n/) | [1](writeups/al_f4lc0n/) | see profile (original set) | see profile |
+| albinowax | [researchers/albinowax.md](researchers/albinowax.md) | [44](posts/albinowax/) | 0 | Web (HTTP desync) | PortSwigger research |
+| anchabadze | [researchers/anchabadze.md](researchers/anchabadze.md) | [6](posts/anchabadze/) | 0 | Web3 audits | HackenProof |
+| asanso | — | [1](posts/asanso/) | 0 | see profile (original set) | see profile |
+| Assass1nmarcos | [researchers/Assass1nmarcos.md](researchers/Assass1nmarcos.md) | [10](posts/Assass1nmarcos/) | [4](writeups/Assass1nmarcos/) | see profile (original set) | see profile |
+| asymmetric_re | [researchers/asymmetric_re.md](researchers/asymmetric_re.md) | [6](posts/asymmetric_re/) | 0 | Web3 (Solana) | Immunefi (#1 Barracuda3172 is associated per leaderboard search) |
+| bbarwik | [researchers/bbarwik.md](researchers/bbarwik.md) | [6](posts/bbarwik/) | 0 | Web3 | HackenProof (rank 3 on leaderboard) |
+| bluethroat_labs | [researchers/bluethroat_labs.md](researchers/bluethroat_labs.md) | [6](posts/bluethroat_labs/) | [3](writeups/bluethroat_labs/) | see profile (original set) | see profile |
+| brandon_shi | [researchers/brandon_shi.md](researchers/brandon_shi.md) | [1](posts/brandon_shi/) | 0 | see profile (original set) | see profile |
+| ChainLight_io | [researchers/ChainLight_io.md](researchers/ChainLight_io.md) | [4](posts/ChainLight_io/) | 0 | Web3 / ZK | Audit firm; DEF CON winners |
+| cmichelio | [researchers/cmichelio.md](researchers/cmichelio.md) | [6](posts/cmichelio/) | 0 | Web3 audits | Spearbit / Cantina (bio); historically top Code4rena warden |
+| csanuragjain | [researchers/csanuragjain.md](researchers/csanuragjain.md) | [1](posts/csanuragjain/) | 0 | see profile (original set) | see profile |
+| deadrosesxyz | [researchers/deadrosesxyz.md](researchers/deadrosesxyz.md) | [4](posts/deadrosesxyz/) | 0 | Web3 audits | Contests |
+| DevDacian | [researchers/DevDacian.md](researchers/DevDacian.md) | [5](posts/DevDacian/) | 0 | Web3 audits | Cyfrin |
+| farazsth98 | [researchers/farazsth98.md](researchers/farazsth98.md) | [5](posts/farazsth98/) | 0 | Native (kernel, browser) | Zellic |
+| fransrosen | [researchers/fransrosen.md](researchers/fransrosen.md) | [24](posts/fransrosen/) | [1](writeups/fransrosen/) | Web (XSS, OAuth, postMessage) | HackerOne (4x MVH per post) |
+| galnagli | [researchers/galnagli.md](researchers/galnagli.md) | [16](posts/galnagli/) | [1](writeups/galnagli/) | Web / AI pentesting | HackerOne, Bugcrowd ($3M+ per bio); Wiz Research |
+| garethheyes | [researchers/garethheyes.md](researchers/garethheyes.md) | [30](posts/garethheyes/) | [3](writeups/garethheyes/) | Web (XSS) | PortSwigger research |
+| Guhu95 | [researchers/Guhu95.md](researchers/Guhu95.md) | [6](posts/Guhu95/) | 0 | Web3 | Immunefi ($60k bug per post), contests |
+| GuplerSaxanoid | [researchers/GuplerSaxanoid.md](researchers/GuplerSaxanoid.md) | [1](posts/GuplerSaxanoid/) | 0 | see profile (original set) | see profile |
 | iguardz | [researchers/iguardz.md](researchers/iguardz.md) | 0 | [1](writeups/iguardz/) | see profile (original set) | see profile |
 | immunefi | — | [9](posts/immunefi/) | 0 | see profile (original set) | see profile |
-| infinitelogins | [researchers/infinitelogins.md](researchers/infinitelogins.md) | [12](posts/infinitelogins/) | [1](writeups/infinitelogins/) | see profile (original set) | see profile |
-| infosec_au | [researchers/infosec_au.md](researchers/infosec_au.md) | [5](posts/infosec_au/) | [3](writeups/infosec_au/) | Web / pre-auth RCE | Independent / Assetnote |
-| irsdl | [researchers/irsdl.md](researchers/irsdl.md) | [5](posts/irsdl/) | 0 | Web | Independent |
-| j00ru | [researchers/j00ru.md](researchers/j00ru.md) | [5](posts/j00ru/) | [4](writeups/j00ru/) | Native / Windows / Android | Google Project Zero |
-| jovanbulck | [researchers/jovanbulck.md](researchers/jovanbulck.md) | [5](posts/jovanbulck/) | 0 | TEE (Intel SGX) | Academic research (KU Leuven) |
-| kankodu | [researchers/kankodu.md](researchers/kankodu.md) | [3](posts/kankodu/) | 0 | Web3 | Independent |
-| KeiZo_Zo | [researchers/KeiZo_Zo.md](researchers/KeiZo_Zo.md) | [1](posts/KeiZo_Zo/) | 0 | see profile (original set) | see profile |
-| keterka | [researchers/keterka.md](researchers/keterka.md) | [5](posts/keterka/) | 0 | Web3 audits | HackenProof (Top-18 all-time per bio), Code4rena |
-| kevin_mizu | [researchers/kevin_mizu.md](researchers/kevin_mizu.md) | [5](posts/kevin_mizu/) | [2](writeups/kevin_mizu/) | Web (XSS, DOMPurify, logic) | HackerOne (Best Hacker at an LHE, per post); Assetnote/SLCyberSec |
-| Kiki_developer | [researchers/Kiki_developer.md](researchers/Kiki_developer.md) | [4](posts/Kiki_developer/) | [5](writeups/Kiki_developer/) | see profile (original set) | see profile |
-| krishnsec | [researchers/krishnsec.md](researchers/krishnsec.md) | [12](posts/krishnsec/) | 0 | see profile (original set) | see profile |
-| lonelysloth_sec | [researchers/lonelysloth_sec.md](researchers/lonelysloth_sec.md) | [3](posts/lonelysloth_sec/) | 0 | see profile (original set) | see profile |
-| ma1fan | [researchers/ma1fan.md](researchers/ma1fan.md) | [5](posts/ma1fan/) | 0 | Web3 | Immunefi (All Star per bio) |
-| mdp_sec **(Marius du Preez)** | [researchers/mdp_sec.md](researchers/mdp_sec.md) | [422](posts/mdp_sec/) | [6](writeups/mdp_sec/) | Web / API | HackerOne (mdpsec / marius_dp), Bugcrowd (marius_dp), HackenProof (MDPSEC) |
-| NahamSec | [researchers/NahamSec.md](researchers/NahamSec.md) | [5](posts/NahamSec/) | 0 | Web / AI hackbots | HackerOne (ex-employee), Bugcrowd |
-| naresh_1337 | [researchers/naresh_1337.md](researchers/naresh_1337.md) | [6](posts/naresh_1337/) | 0 | see profile (original set) | see profile |
-| orange_8361 | [researchers/orange_8361.md](researchers/orange_8361.md) | [5](posts/orange_8361/) | [1](writeups/orange_8361/) | Web / Pwn2Own | Pwn2Own (DEVCORE); historic MSRC/Exchange findings |
-| Piki_eth | [researchers/Piki_eth.md](researchers/Piki_eth.md) | [10](posts/Piki_eth/) | 0 | see profile (original set) | see profile |
-| PwningEth | [researchers/PwningEth.md](researchers/PwningEth.md) | [4](posts/PwningEth/) | [1](writeups/PwningEth/) | Web3 / EVM / bridges | Immunefi (Hall of Fame; leaderboard lists ~$8M across 8 reports) |
-| Rhynorater | [researchers/Rhynorater.md](researchers/Rhynorater.md) | [5](posts/Rhynorater/) | 0 | Web | HackerOne (4x LHE MVH, bio), Bugcrowd |
-| RootxRavi | [researchers/RootxRavi.md](researchers/RootxRavi.md) | [10](posts/RootxRavi/) | 0 | see profile (original set) | see profile |
-| ryotkak | [researchers/ryotkak.md](researchers/ryotkak.md) | [4](posts/ryotkak/) | 0 | Web / supply chain | GMO Flatt Security; Pwn2Own entrant |
-| S1r1u5_ | [researchers/S1r1u5_.md](researchers/S1r1u5_.md) | [4](posts/S1r1u5_/) | 0 | Web / browser | HackerOne; co-founder HacktronAI |
-| samczsun | [researchers/samczsun.md](researchers/samczsun.md) | [5](posts/samczsun/) | [4](writeups/samczsun/) | Web3 / smart contracts | Independent; founder of SEAL (Security Alliance) — industry incident response |
-| samwcyo | [researchers/samwcyo.md](researchers/samwcyo.md) | [5](posts/samwcyo/) | [2](writeups/samwcyo/) | Web / API / automotive | HackerOne and private disclosures (Sam Curry) |
-| Shanon40439853 | [researchers/Shanon40439853.md](researchers/Shanon40439853.md) | [5](posts/Shanon40439853/) | 0 | Web3 | Immunefi ($1m Balancer critical; leaderboard GothicShanon ~$4.18M) |
-| Suryesh_92 | [researchers/Suryesh_92.md](researchers/Suryesh_92.md) | [11](posts/Suryesh_92/) | [3](writeups/Suryesh_92/) | see profile (original set) | see profile |
-| SuyashS91823422 | [researchers/SuyashS91823422.md](researchers/SuyashS91823422.md) | [7](posts/SuyashS91823422/) | 0 | see profile (original set) | see profile |
-| Swartz068 | [researchers/Swartz068.md](researchers/Swartz068.md) | [12](posts/Swartz068/) | 0 | see profile (original set) | see profile |
-| trust__90 | [researchers/trust__90.md](researchers/trust__90.md) | [5](posts/trust__90/) | 0 | Web3 audits | Code4rena / Immunefi / Sherlock VIP (bio); founder Trust Security |
-| usmannk | [researchers/usmannk.md](researchers/usmannk.md) | [5](posts/usmannk/) | 0 | Web3 / chains | Independent disclosures; security at Plasma (bio) |
-| WhiteHatMage | [researchers/WhiteHatMage.md](researchers/WhiteHatMage.md) | [5](posts/WhiteHatMage/) | 0 | Web3 | Immunefi |
-| xssdoctor | [researchers/xssdoctor.md](researchers/xssdoctor.md) | [3](posts/xssdoctor/) | [1](writeups/xssdoctor/) | Web / OAuth | HackerOne |
-| zksecurityXYZ | [researchers/zksecurityXYZ.md](researchers/zksecurityXYZ.md) | [5](posts/zksecurityXYZ/) | 0 | ZK / cryptography | Audit firm |
-| zseano | [researchers/zseano.md](researchers/zseano.md) | [5](posts/zseano/) | [1](writeups/zseano/) | Web | HackerOne (ex full-time Amazon hacker per bio) |
+| infinitelogins | [researchers/infinitelogins.md](researchers/infinitelogins.md) | [13](posts/infinitelogins/) | [1](writeups/infinitelogins/) | see profile (original set) | see profile |
+| infosec_au | [researchers/infosec_au.md](researchers/infosec_au.md) | [26](posts/infosec_au/) | [3](writeups/infosec_au/) | Web / pre-auth RCE | Independent / Assetnote |
+| irsdl | [researchers/irsdl.md](researchers/irsdl.md) | [20](posts/irsdl/) | 0 | Web | Independent |
+| j00ru | [researchers/j00ru.md](researchers/j00ru.md) | [14](posts/j00ru/) | [4](writeups/j00ru/) | Native / Windows / Android | Google Project Zero |
+| jovanbulck | [researchers/jovanbulck.md](researchers/jovanbulck.md) | [22](posts/jovanbulck/) | 0 | TEE (Intel SGX) | Academic research (KU Leuven) |
+| kankodu | [researchers/kankodu.md](researchers/kankodu.md) | [4](posts/kankodu/) | 0 | Web3 | Independent |
+| KeiZo_Zo | [researchers/KeiZo_Zo.md](researchers/KeiZo_Zo.md) | [2](posts/KeiZo_Zo/) | 0 | see profile (original set) | see profile |
+| keterka | [researchers/keterka.md](researchers/keterka.md) | [6](posts/keterka/) | 0 | Web3 audits | HackenProof (Top-18 all-time per bio), Code4rena |
+| kevin_mizu | [researchers/kevin_mizu.md](researchers/kevin_mizu.md) | [15](posts/kevin_mizu/) | [2](writeups/kevin_mizu/) | Web (XSS, DOMPurify, logic) | HackerOne (Best Hacker at an LHE, per post); Assetnote/SLCyberSec |
+| Kiki_developer | [researchers/Kiki_developer.md](researchers/Kiki_developer.md) | [5](posts/Kiki_developer/) | [5](writeups/Kiki_developer/) | see profile (original set) | see profile |
+| kobigurk | — | [1](posts/kobigurk/) | 0 | see profile (original set) | see profile |
+| krishnsec | [researchers/krishnsec.md](researchers/krishnsec.md) | [13](posts/krishnsec/) | 0 | see profile (original set) | see profile |
+| lavados | — | [1](posts/lavados/) | 0 | see profile (original set) | see profile |
+| lonelysloth_sec | [researchers/lonelysloth_sec.md](researchers/lonelysloth_sec.md) | [28](posts/lonelysloth_sec/) | 0 | see profile (original set) | see profile |
+| ma1fan | [researchers/ma1fan.md](researchers/ma1fan.md) | [6](posts/ma1fan/) | 0 | Web3 | Immunefi (All Star per bio) |
+| mdp_sec **(Marius du Preez)** | [researchers/mdp_sec.md](researchers/mdp_sec.md) | [423](posts/mdp_sec/) | [6](writeups/mdp_sec/) | Web / API | HackerOne (mdpsec / marius_dp), Bugcrowd (marius_dp), HackenProof (MDPSEC) |
+| NahamSec | [researchers/NahamSec.md](researchers/NahamSec.md) | [6](posts/NahamSec/) | 0 | Web / AI hackbots | HackerOne (ex-employee), Bugcrowd |
+| naresh_1337 | [researchers/naresh_1337.md](researchers/naresh_1337.md) | [7](posts/naresh_1337/) | 0 | see profile (original set) | see profile |
+| Neodyme | — | [1](posts/Neodyme/) | 0 | see profile (original set) | see profile |
+| orange_8361 | [researchers/orange_8361.md](researchers/orange_8361.md) | [24](posts/orange_8361/) | [1](writeups/orange_8361/) | Web / Pwn2Own | Pwn2Own (DEVCORE); historic MSRC/Exchange findings |
+| osec_io | — | [1](posts/osec_io/) | 0 | see profile (original set) | see profile |
+| pcaversaccio | — | [1](posts/pcaversaccio/) | 0 | see profile (original set) | see profile |
+| Piki_eth | [researchers/Piki_eth.md](researchers/Piki_eth.md) | [11](posts/Piki_eth/) | 0 | see profile (original set) | see profile |
+| PwningEth | [researchers/PwningEth.md](researchers/PwningEth.md) | [5](posts/PwningEth/) | [1](writeups/PwningEth/) | Web3 / EVM / bridges | Immunefi (Hall of Fame; leaderboard lists ~$8M across 8 reports) |
+| Rhynorater | [researchers/Rhynorater.md](researchers/Rhynorater.md) | [6](posts/Rhynorater/) | 0 | Web | HackerOne (4x LHE MVH, bio), Bugcrowd |
+| RootxRavi | [researchers/RootxRavi.md](researchers/RootxRavi.md) | [11](posts/RootxRavi/) | 0 | see profile (original set) | see profile |
+| ryotkak | [researchers/ryotkak.md](researchers/ryotkak.md) | [5](posts/ryotkak/) | 0 | Web / supply chain | GMO Flatt Security; Pwn2Own entrant |
+| S1r1u5_ | [researchers/S1r1u5_.md](researchers/S1r1u5_.md) | [5](posts/S1r1u5_/) | 0 | Web / browser | HackerOne; co-founder HacktronAI |
+| samczsun | [researchers/samczsun.md](researchers/samczsun.md) | [25](posts/samczsun/) | [4](writeups/samczsun/) | Web3 / smart contracts | Independent; founder of SEAL (Security Alliance) — industry incident response |
+| samwcyo | [researchers/samwcyo.md](researchers/samwcyo.md) | [12](posts/samwcyo/) | [2](writeups/samwcyo/) | Web / API / automotive | HackerOne and private disclosures (Sam Curry) |
+| saxenism | [researchers/saxenism.md](researchers/saxenism.md) | [471](posts/saxenism/) | [5](writeups/saxenism/) | TEE / ZK / protocol | Immunefi (via Bluethroat Labs); ETHSecurity |
+| Shanon40439853 | [researchers/Shanon40439853.md](researchers/Shanon40439853.md) | [6](posts/Shanon40439853/) | 0 | Web3 | Immunefi ($1m Balancer critical; leaderboard GothicShanon ~$4.18M) |
+| Suryesh_92 | [researchers/Suryesh_92.md](researchers/Suryesh_92.md) | [12](posts/Suryesh_92/) | [3](writeups/Suryesh_92/) | see profile (original set) | see profile |
+| SuyashS91823422 | [researchers/SuyashS91823422.md](researchers/SuyashS91823422.md) | [8](posts/SuyashS91823422/) | 0 | see profile (original set) | see profile |
+| Swartz068 | [researchers/Swartz068.md](researchers/Swartz068.md) | [13](posts/Swartz068/) | 0 | see profile (original set) | see profile |
+| trailofbits | — | [1](posts/trailofbits/) | 0 | see profile (original set) | see profile |
+| trust__90 | [researchers/trust__90.md](researchers/trust__90.md) | [6](posts/trust__90/) | 0 | Web3 audits | Code4rena / Immunefi / Sherlock VIP (bio); founder Trust Security |
+| usmannk | [researchers/usmannk.md](researchers/usmannk.md) | [6](posts/usmannk/) | 0 | Web3 / chains | Independent disclosures; security at Plasma (bio) |
+| WhiteHatMage | [researchers/WhiteHatMage.md](researchers/WhiteHatMage.md) | [6](posts/WhiteHatMage/) | 0 | Web3 | Immunefi |
+| xssdoctor | [researchers/xssdoctor.md](researchers/xssdoctor.md) | [4](posts/xssdoctor/) | [1](writeups/xssdoctor/) | Web / OAuth | HackerOne |
+| zellic_io | — | [1](posts/zellic_io/) | 0 | see profile (original set) | see profile |
+| zksecurityXYZ | [researchers/zksecurityXYZ.md](researchers/zksecurityXYZ.md) | [15](posts/zksecurityXYZ/) | 0 | ZK / cryptography | Audit firm |
+| zseano | [researchers/zseano.md](researchers/zseano.md) | [22](posts/zseano/) | [1](writeups/zseano/) | Web | HackerOne (ex full-time Amazon hacker per bio) |
 
 ## By bug class
 
 Tags are automatic keyword matches on the post text (false positives possible); read the post file to confirm.
 
-### AI-assisted hunting (133)
+### AI-assisted hunting (248)
 
 - [@0xacb — 2026-11-02 — This @bishopfox tool is next level! 🚀](posts/0xacb/2026-11-02-2117156243588497749.md)
 - [@0xacb — 2026-11-03 — I was reading a blog on the "AI RCEssion" today, and it captures what happened during Octo](posts/0xacb/2026-11-03-2117647871285584365.md)
@@ -106,9 +111,27 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@Swartz068 — 2026-10-16 — @1111whiteGkep @Bugcrowd Target matter bro , I always choose wild card domain program](posts/Swartz068/2026-10-16-2110996965148266599.md)
 - [@WhiteHatMage — 2026-10-13 — The AI kids doing reverse engineering and game mashups actually capture the hacker curiosi](posts/WhiteHatMage/2026-10-13-2110098233624064497.md)
 - [@WhiteHatMage — 2026-10-13 — Quick thoughts on the events I missed over the past two months:](posts/WhiteHatMage/2026-10-13-2110119559600517319.md)
+- [@_bagipro — 2026-04-22 — We launched Android DAST. And the first problem we hit is that login flows block everything.](posts/_bagipro/2026-04-22-2046911820452216842.md)
+- [@_bagipro — 2026-07-21 — On July 28, I'll host a live webinar introducing Oversecured 2.0](posts/_bagipro/2026-07-21-2079551614327644307.md)
+- [@_bagipro — 2026-09-16 — On September 24, I’m hosting a free webinar with a special guest from Vimeo where we will discu](posts/_bagipro/2026-09-16-2100241972661280995.md)
+- [@_bagipro — 2026-11-03 — This Thursday, Nov 5, I'm doing a live security workshop. I'll hack a real production mobile ap](posts/_bagipro/2026-11-03-2117598779406795232.md)
 - [@_blockian — 2025-12-30 — I think this might be the largest bounty so far for an AI-assisted finding.](posts/_blockian/2025-12-30-2005973018858721499.md)
 - [@_blockian — 2026-07-13 — Confession time:](posts/_blockian/2026-07-13-2076742583468835023.md)
 - [@al_f4lc0n — 2026-03-18 — the figures referenced in the post are entirely misleading. There was no impact realized f](posts/al_f4lc0n/2026-03-18-2034125406748741827.md)
+- [@albinowax — 2026-04-28 — I just did an interview with @SecWeekly, with teasers for my upcoming #BHUSA presentation "Can](posts/albinowax/2026-04-28-2049137259559936504.md)
+- [@albinowax — 2026-05-14 — AI-pentest companies get significant marketing value from publishing findings attributed to th](posts/albinowax/2026-05-14-2054980130762531104.md)
+- [@albinowax — 2026-05-27 — While researching "Can AI do novel research? Meet the HTTP Terminator" I logged the discovery ](posts/albinowax/2026-05-27-2059654722097697125.md)
+- [@albinowax — 2026-06-09 — Woo, I can confirm "Can AI Do Novel Security Research? Meet the HTTP Terminator" is coming to ](posts/albinowax/2026-06-09-2064357763510161664.md)
+- [@albinowax — 2026-07-28 — Next week I'll present "Can AI Do Novel Security Research? Meet the HTTP Terminator" at #defco](posts/albinowax/2026-07-28-2082115108436574214.md)
+- [@albinowax — 2026-07-30 — In "Can AI Do Novel Security Research?" I'll share:](posts/albinowax/2026-07-30-2082840835675025805.md)
+- [@albinowax — 2026-08-05 — The whitepaper is live! Read "Can AI Do Novel Security Research? Meet the HTTP Terminator" her](posts/albinowax/2026-08-05-2085086940185960770.md)
+- [@albinowax — 2026-08-07 — 90 minutes till "Can AI do novel security research? Meet the HTTP Terminator" kicks off at #DE](posts/albinowax/2026-08-07-2085780973090668604.md)
+- [@albinowax — 2026-08-24 — Next month I'll present my latest research live at @SEC_T_org in Stockholm, Sweden! This will ](posts/albinowax/2026-08-24-2091831632592605359.md)
+- [@albinowax — 2026-09-09 — Just about to land in Stockholm for @SEC_T_org! Can't wait to meet you all - you can catch the](posts/albinowax/2026-09-09-2097632959855522199.md)
+- [@albinowax — 2026-09-15 — The HTTP Terminator will be back! I'll be presenting at @OffensiveAIcon with a streamlined AI-](posts/albinowax/2026-09-15-2099855663740412095.md)
+- [@albinowax — 2026-09-22 — My latest presentation has landed on YouTube, courtesy of @SEC_T_org! Can AI do novel security](posts/albinowax/2026-09-22-2102414569163416047.md)
+- [@albinowax — 2026-09-29 — It's a year since I started to build the HTTP Terminator and AI models have come a long way, b](posts/albinowax/2026-09-29-2104924480384483460.md)
+- [@albinowax — 2026-10-04 — I recently spotted something sneaky &amp; unexpected about how AI approaches original hacking ](posts/albinowax/2026-10-04-2106852747157098898.md)
 - [@anchabadze — 2026-10-27 — 🎯 Day 549 of my #RoadToWeb3SecurityJobChallenge](posts/anchabadze/2026-10-27-2115200664594776559.md)
 - [@anchabadze — 2026-10-29 — 🎯 Day 551 of my #RoadToWeb3SecurityJobChallenge](posts/anchabadze/2026-10-29-2115946842257310068.md)
 - [@anchabadze — 2026-11-03 — 🎯 Day 555 of my #RoadToWeb3SecurityJobChallenge](posts/anchabadze/2026-11-03-2117421009079067074.md)
@@ -122,22 +145,44 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@deadrosesxyz — 2026-08-12 — a few months ago i argued that security researchers would be some of the last people to ge](posts/deadrosesxyz/2026-08-12-2087462866207043943.md)
 - [@farazsth98 — 2026-10-24 — It's crazy to think there was a time where analyzing a bugfix and writing a full exploit o](posts/farazsth98/2026-10-24-2114044534078533946.md)
 - [@galnagli — 2026-09-24 — Today we're launching Scan for Good in partnership with @GoogleDeepMind.](posts/galnagli/2026-09-24-2103111505860497685.md)
+- [@galnagli — 2026-10-20 — NASA had a flaw that could have allowed threat actors unauthorized access to their Mission AI H](posts/galnagli/2026-10-20-2112572671682617413.md)
 - [@galnagli — 2026-10-22 — It took 17 minutes to turn the Gitlab RCE to a working HEAP exploit using Gemini 4 Argon a](posts/galnagli/2026-10-22-2113185093871095893.md)
+- [@galnagli — 2026-10-22 — CVEs are nice, but organization are way more vulnerable to misconfigurations - chasing CVEs is ](posts/galnagli/2026-10-22-2113356015983030710.md)
+- [@galnagli — 2026-10-31 — I'm really enjoying Gemini 4 Carbon, I always find myself asking it how it figures out its way ](posts/galnagli/2026-10-31-2116479102442234094.md)
 - [@galnagli — 2026-11-10 — Gemini 4 Carbon is now publicly available - It's the world SOTA model on ExploitGym and pe](posts/galnagli/2026-11-10-2120191027525067042.md)
+- [@garethheyes — 2026-10-29 — What if your agent could fuzz browsers using your templates?](posts/garethheyes/2026-10-29-2115891012648554659.md)
 - [@immunefi — 2026-09-21 — Security researcher @0xvivekd has earned over $323k in the past 90 days across 16 paid rep](posts/immunefi/2026-09-21-2102010814442181024.md)
 - [@infinitelogins — 2026-02-23 — Researchers at @HacktronAI found a bug in Google’s Antigravity IDE browser extension that](posts/infinitelogins/2026-02-23-2025934052759367834.md)
 - [@infinitelogins — 2026-04-13 — Been a minute.](posts/infinitelogins/2026-04-13-2043552103076094169.md)
 - [@infinitelogins — 2026-10-19 — PwnEscape escapes KVM in Vercel's $1M sandbox, @opencode's big week ends in a breach, @Ha](posts/infinitelogins/2026-10-19-2112170733228966180.md)
 - [@infinitelogins — 2026-10-28 — I found a critical privilege escalation that took a brand new free trial account all the ](posts/infinitelogins/2026-10-28-2115429533738262954.md)
 - [@infinitelogins — 2026-10-30 — If you're doing bug bounty, you should be storing your recon data in an actual database i](posts/infinitelogins/2026-10-30-2116236446147240443.md)
+- [@infosec_au — 2026-06-12 —](posts/infosec_au/2026-06-12-2065233739710697756.md)
+- [@infosec_au — 2026-09-26 — one of my engineers reached out to me about how they  struggled to find satisfaction in their](posts/infosec_au/2026-09-26-2103649540104745079.md)
+- [@irsdl — 2026-10-14 — A friend is trying to report a valid security vulnerability to @Meta (which I've reviewed), but th](posts/irsdl/2026-10-14-2110372713529500029.md)
+- [@irsdl — 2026-10-16 — Please don't give this to a robot, at least don't give it a weapon… or don't give it AI...](posts/irsdl/2026-10-16-2111029764383465570.md)
+- [@irsdl — 2026-10-21 — Do you want your security finding or post to be overlooked? Then release it this week 😂](posts/irsdl/2026-10-21-2112859406182355007.md)
+- [@irsdl — 2026-10-22 — Great video from @LiveOverflow 👏](posts/irsdl/2026-10-22-2113195840328094077.md)
+- [@irsdl — 2026-10-22 — As promised, I've got your back! 💪 All the latest research is already in. 🚀](posts/irsdl/2026-10-22-2113236874449854969.md)
+- [@irsdl — 2026-10-31 — AI did this when I was doing treat or tricking with my kid 😂 This is a nice surprise!](posts/irsdl/2026-10-31-2116668313518342257.md)
 - [@irsdl — 2026-11-03 — 371 articles and counting in 2026! 🚀](posts/irsdl/2026-11-03-2117689463291977773.md)
 - [@irsdl — 2026-11-04 — This feels like AI did all the research while the researcher was away, then published ever](posts/irsdl/2026-11-04-2118039406674076081.md)
+- [@irsdl — 2026-11-10 — This is how my local llm model works!](posts/irsdl/2026-11-10-2120207393640398987.md)
+- [@jovanbulck — 2023-08-10 — Registration still open for the 2nd Summer School on Security and Privacy in the Age of AI to](posts/jovanbulck/2023-08-10-1689436782314819584.md)
 - [@keterka — 2026-04-27 — Security researchers: which AI tools impressed you the most lately? What should I test nex](posts/keterka/2026-04-27-2048580338759155952.md)
 - [@keterka — 2026-05-27 — Results are in for @monetrix_xyz  on @code4rena.](posts/keterka/2026-05-27-2059434905482740185.md)
+- [@kevin_mizu — 2026-04-08 — I'm happy to release the first version of my DOMLogger++ plugin for @CaidoIO! 🔎](posts/kevin_mizu/2026-04-08-2041896181744161159.md)
 - [@krishnsec — 2026-08-15 — @Rishurana2867 the difference is that finding one bug isn’t the whole skill. someone with](posts/krishnsec/2026-08-15-2088675304198078711.md)
 - [@krishnsec — 2026-11-01 — P1 - AI Application Security &gt; Model Extraction &gt; API Query-Based Model Reconstructi](posts/krishnsec/2026-11-01-2116965015777628269.md)
 - [@lonelysloth_sec — 2026-03-08 — I was starting to get hopeful about using Claude in some capacity in my work.](posts/lonelysloth_sec/2026-03-08-2030545303607329178.md)
 - [@lonelysloth_sec — 2026-06-05 — My take on the Zcash bug.](posts/lonelysloth_sec/2026-06-05-2062916729676648907.md)
+- [@lonelysloth_sec — 2026-10-19 — Very similar experience.](posts/lonelysloth_sec/2026-10-19-2112289622843949366.md)
+- [@lonelysloth_sec — 2026-10-23 — Says someone who never worked finding bugs.](posts/lonelysloth_sec/2026-10-23-2113674779043783132.md)
+- [@lonelysloth_sec — 2026-10-23 — I have been saying for almost a year that capital intensive AI bug bounty hunting is a d](posts/lonelysloth_sec/2026-10-23-2113729242035085740.md)
+- [@lonelysloth_sec — 2026-10-23 — So apparently what Altman means by “doing crazy hardware stuff beyond what we understand](posts/lonelysloth_sec/2026-10-23-2113736764158542073.md)
+- [@lonelysloth_sec — 2026-10-27 — So AI refuted ETH. Boring.](posts/lonelysloth_sec/2026-10-27-2115166191669096689.md)
+- [@lonelysloth_sec — 2026-11-04 — Im declaring that my dog is officially smarter than all of the world’s brightest human a](posts/lonelysloth_sec/2026-11-04-2118000301563404601.md)
+- [@lonelysloth_sec — 2026-11-10 — For some reason my timeline is now full of speculation about a billionaire CEO’s love li](posts/lonelysloth_sec/2026-11-10-2119983204564427000.md)
 - [@mdp_sec — 2026-07-22 — Just cancelled 2× Claude Max 20 accounts and rotated straight to 2 new SuperGrok Heavy instead](posts/mdp_sec/2026-07-22-2080070852088054104.md)
 - [@mdp_sec — 2026-07-23 — Here is what your money actually buys in tokens.](posts/mdp_sec/2026-07-23-2080128823706689956.md)
 - [@mdp_sec — 2026-08-06 — People keep asking me for the prompt behind my AI bug bounty system.](posts/mdp_sec/2026-08-06-2085187655101530370.md)
@@ -206,15 +251,90 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@orange_8361 — 2026-05-14 — That's my chain — a full chain w/ logic bugs only! No memory corruption, no AI, and of cou](posts/orange_8361/2026-05-14-2054906050143240399.md)
 - [@orange_8361 — 2026-05-15 — And this one is human insight w/ LLM-assisted research. Took about one week to finish ever](posts/orange_8361/2026-05-15-2055330289652539850.md)
 - [@ryotkak — 2026-06-01 — Claude Codeに対してサプライチェーン攻撃を行うことが可能だった脆弱性についての記事を公開しました！ https://twitter.com/flatt_security/](posts/ryotkak/2026-06-01-2061434879309664575.md)
+- [@samczsun — 2026-02-05 — on one hand the crypto dream feels dead but on the other hand weve finally figured out how to s](posts/samczsun/2026-02-05-2019551027457097765.md)
 - [@samwcyo — 2026-03-19 — Asked Claude to root my Xiaomi 17 Pro Max. Did not go well. [pic.x.com/HSCrRo2sqK]](posts/samwcyo/2026-03-19-2034495676533612643.md)
 - [@samwcyo — 2026-08-18 — For anyone using LLMs to do security research, bug bounty, red teaming, etc, we made a Dis](posts/samwcyo/2026-08-18-2089536974444982714.md)
 - [@samwcyo — 2026-10-18 — I’d be willing to pay $100 per report for priority triage with automated dupe checking and](posts/samwcyo/2026-10-18-2111805910448529757.md)
+- [@samwcyo — 2026-11-11 — I've got a feeling that a lot of security consultants who are being told not to use LLMs on pent](posts/samwcyo/2026-11-11-2120395487237075210.md)
+- [@saxenism — 2024-11-29 — I bribed the AI](posts/saxenism/2024-11-29-1862497236980310323.md)
+- [@saxenism — 2024-12-12 — Yap early, yap only, yap often.](posts/saxenism/2024-12-12-1867083327746023648.md)
+- [@saxenism — 2024-12-21 — The currently existing AI models, at least the publicly available ones, have a serious limitati](posts/saxenism/2024-12-21-1870299724504326271.md)
+- [@saxenism — 2024-12-30 — If you're a guy in your 20s:](posts/saxenism/2024-12-30-1873789962233229512.md)
+- [@saxenism — 2025-02-14 — In this AI era, you better be pretty good at what you do... whether it is development or securi](posts/saxenism/2025-02-14-1890267472357667005.md)
+- [@saxenism — 2025-03-18 — &gt; Structured context and context hints](posts/saxenism/2025-03-18-1901913524617855047.md)
+- [@saxenism — 2025-07-09 — Been using the publicly accessible LLMs for a while and my strongest realisation is that:](posts/saxenism/2025-07-09-1942873393692340343.md)
+- [@saxenism — 2025-08-13 — Perhaps the greatest benefit I've had from using LLMs is the rapid prototyping of my heuristics](posts/saxenism/2025-08-13-1955588400628801807.md)
+- [@saxenism — 2025-08-17 — Let this be your final call.](posts/saxenism/2025-08-17-1957048373225115902.md)
+- [@saxenism — 2025-08-22 — A rather elaborate hack/drain attempt on me](posts/saxenism/2025-08-22-1958796012115640471.md)
+- [@saxenism — 2025-08-29 — Fucking Hell. I kinda understand now why judging and triaging sucks for everyone involved.](posts/saxenism/2025-08-29-1961348543173755177.md)
+- [@saxenism — 2025-08-29 — a good thing would be to use an LLM that has not been trained for excessive politeness, yk, RLH](posts/saxenism/2025-08-29-1961349603996873197.md)
+- [@saxenism — 2025-10-31 — So, Sam just launched Aardvark which is OpenAI’s agentic security researcher.](posts/saxenism/2025-10-31-1984144303195877454.md)
+- [@saxenism — 2025-12-02 — Frens who’ve built or worked on static analysers, shower your wisdom on me](posts/saxenism/2025-12-02-1995894227000262968.md)
+- [@saxenism — 2025-12-12 — This is 100% a specialised LLM at work.](posts/saxenism/2025-12-12-1999317684287340738.md)
+- [@saxenism — 2025-12-13 — How exactly am I supposed to make "specialised LLM agents"?](posts/saxenism/2025-12-13-1999677754951049283.md)
+- [@saxenism — 2025-12-18 — Yooooo, this is incredibly fun!!](posts/saxenism/2025-12-18-2001613448631980322.md)
+- [@saxenism — 2025-12-31 — 10/10 advice for protocol development teams.](posts/saxenism/2025-12-31-2006278815706906732.md)
+- [@saxenism — 2026-01-10 — How well you use LLMs in your workflow as a dev & auditor is directly proportional to your abil](posts/saxenism/2026-01-10-2009962510913536462.md)
+- [@saxenism — 2026-01-15 — AN ARTIST.](posts/saxenism/2026-01-15-2011821124615798836.md)
+- [@saxenism — 2026-01-18 — Claude Code + Claude Skills &gt;&gt; Security Agents.](posts/saxenism/2026-01-18-2012877350468518060.md)
+- [@saxenism — 2026-01-18 — Sooo many writeups on how best to use Claude for development work... wen writeup for using Clau](posts/saxenism/2026-01-18-2012878209226822082.md)
+- [@saxenism — 2026-01-20 — Top-down learning for me, ALWAYS.](posts/saxenism/2026-01-20-2013594786469712183.md)
+- [@saxenism — 2026-02-09 — With new AI frontier models being launched literally every week, protocols have an increased ch](posts/saxenism/2026-02-09-2020806738887495887.md)
+- [@saxenism — 2026-02-09 — Yes.](posts/saxenism/2026-02-09-2020828400051757297.md)
+- [@saxenism — 2026-02-17 — With AI aggressively entering everyday lives, novel attack vectors come up every day.](posts/saxenism/2026-02-17-2023754001305760019.md)
+- [@saxenism — 2026-03-05 — The last few months at Bluethroat have been intense.](posts/saxenism/2026-03-05-2029562576326311980.md)
+- [@saxenism — 2026-03-06 — The much-talked-about "security-mindset" is different for every security researcher doing sophi](posts/saxenism/2026-03-06-2029884965199163718.md)
+- [@saxenism — 2026-03-12 — If you're leveraging AI agressively enough in your technical workflows, you'll find yourself re](posts/saxenism/2026-03-12-2032116949845754067.md)
+- [@saxenism — 2026-03-13 — Reviewed the biggest TEE protocols in Web3 earlier this year.](posts/saxenism/2026-03-13-2032358750846144694.md)
+- [@saxenism — 2026-03-18 — I do not believe in generic AI security tooling.](posts/saxenism/2026-03-18-2034198942385336442.md)
+- [@saxenism — 2026-03-19 — Can someone help me w/ the said coupons?](posts/saxenism/2026-03-19-2034595139700871314.md)
+- [@saxenism — 2026-03-24 — Extremely bullish on AI in (web3) security.](posts/saxenism/2026-03-24-2036446969200255093.md)
+- [@saxenism — 2026-04-03 — With LLMs aggressively getting integrated into our workflows, the written word holds more weigh](posts/saxenism/2026-04-03-2040014988585357755.md)
+- [@saxenism — 2026-04-08 — Attackers are getting smarter, faster, and cheaper.](posts/saxenism/2026-04-08-2041890307814342940.md)
+- [@saxenism — 2026-04-09 — The most satisfying use case of AI for me has been turning my cursed internal bug-hunting heuri](posts/saxenism/2026-04-09-2042384058366509423.md)
+- [@saxenism — 2026-04-17 — Well, I have been using AI rigorously for the past few months. Almost daily.](posts/saxenism/2026-04-17-2045119506293588044.md)
+- [@saxenism — 2026-04-27 — Funny, but I don't think this is what the future is gonna look like.](posts/saxenism/2026-04-27-2048735945961398731.md)
+- [@saxenism — 2026-04-28 — In the era of AI, clear thinkers will absolutely melt faces.](posts/saxenism/2026-04-28-2049095534863098076.md)
+- [@saxenism — 2026-04-29 — So, like... the NK threat actors are working w/ self hosted LLMs??](posts/saxenism/2026-04-29-2049356784218087657.md)
+- [@saxenism — 2026-04-29 — The scary part is not “AI wrote bad Solidity” or that AI created old-school access control bugs](posts/saxenism/2026-04-29-2049401347414323288.md)
+- [@saxenism — 2026-04-29 — 1) The sharper framing isn’t “Sui protocols are uniquely careless.”](posts/saxenism/2026-04-29-2049495518376866086.md)
+- [@saxenism — 2026-05-02 — Hot take: Do not try to run 10 different agents in parallel. Stick with 1 to 2 agents and reall](posts/saxenism/2026-05-02-2050692729622118621.md)
+- [@saxenism — 2026-05-13 — If this is not the peak bear signal, I don't know what is.](posts/saxenism/2026-05-13-2054508841136472069.md)
+- [@saxenism — 2026-05-20 — The amount of malware-infested repos floating around Web3 right now is genuinely insane.](posts/saxenism/2026-05-20-2057106189587243181.md)
+- [@saxenism — 2026-05-28 — This truly is one of THE most brutal times for teams building in Web3.](posts/saxenism/2026-05-28-2060042698032296244.md)
+- [@saxenism — 2026-06-09 — A gentle re-framing for your "AI-assisted blackhats":](posts/saxenism/2026-06-09-2064264210486620404.md)
+- [@saxenism — 2026-06-17 — Tested the `codebase-memory-mcp` today with two of my specialist security agents:](posts/saxenism/2026-06-17-2067126654452027521.md)
+- [@saxenism — 2026-06-17 — Words are just that, words.](posts/saxenism/2026-06-17-2067177511138558422.md)
+- [@saxenism — 2026-06-24 — Recently I've started to get deeper into AI.](posts/saxenism/2026-06-24-2069674104328990852.md)
+- [@saxenism — 2026-06-30 — I used to HATE those "auditing mindset" videos circa '23.](posts/saxenism/2026-06-30-2071892345927450709.md)
+- [@saxenism — 2026-07-11 — I have this really really strong inkling that if I simply went back to my old working style of ](posts/saxenism/2026-07-11-2075865356468691223.md)
+- [@saxenism — 2026-07-13 — One massively underrated personal AI use case I’ve stumbled upon: connecting 2 seemingly unrela](posts/saxenism/2026-07-13-2076624680417444105.md)
+- [@saxenism — 2026-07-22 — You asked for receipts, you got it.](posts/saxenism/2026-07-22-2079962866921480607.md)
+- [@saxenism — 2026-07-27 — My For You is getting insufferable again.](posts/saxenism/2026-07-27-2081632296155976064.md)
+- [@saxenism — 2026-07-30 — Here's the current reality of the web3 landscape:](posts/saxenism/2026-07-30-2082771949529567668.md)
+- [@saxenism — 2026-08-23 — This is a world where blackhats are running wild with their built-for-the-kill SOTA LLMs and ha](posts/saxenism/2026-08-23-2091451966757187586.md)
+- [@saxenism — 2026-08-23 — For fellow bug hunters who are leveraging the shit out of LLMs in the process, what is the best](posts/saxenism/2026-08-23-2091514485265838499.md)
+- [@saxenism — 2026-08-25 — Ok so I am a security engineer and I got into it 6 months into my first proper job.](posts/saxenism/2026-08-25-2092152128982683682.md)
+- [@saxenism — 2026-09-11 — 1/3 We think BlueSkills is difficult to fool. Prove us wrong.](posts/saxenism/2026-09-11-2098352916612407695.md)
+- [@saxenism — 2026-09-21 — These LLMs have gotten so stupidly good that just leaking a generalised title of the finding is](posts/saxenism/2026-09-21-2102039983112757477.md)
+- [@saxenism — 2026-10-02 — I will be participating in @paradigm Frontiers '26 in SF, Oct 12-14.](posts/saxenism/2026-10-02-2105995003055296775.md)
+- [@saxenism — 2026-10-02 — Things you discover when you and your hunting agents are locked in.](posts/saxenism/2026-10-02-2106039567673651479.md)
+- [@saxenism — 2026-10-09 — Looks like Eclipse is transitioning to training offensive LLMs on actual web3 findings/data XD](posts/saxenism/2026-10-09-2108370713082249563.md)
+- [@saxenism — 2026-10-19 — deepseek-ai/DeepSeek-V4.1-Flash has been pretty average for me so far.](posts/saxenism/2026-10-19-2112313843376693538.md)
+- [@saxenism — 2026-10-21 — Accepted finding #5 from the @Zcash campaign :)](posts/saxenism/2026-10-21-2112713764999250220.md)
+- [@saxenism — 2026-10-23 — COPY-PASTE PROMPT BELOW: patch your systems and audit who can access them.](posts/saxenism/2026-10-23-2113509059903320412.md)
+- [@saxenism — 2026-11-05 — About to give a detailed presentation on how companies can defend themselves in the AI era, in ](posts/saxenism/2026-11-05-2118203579697861082.md)
 - [@trust__90 — 2026-04-20 — CT focusing on the low-hanging fruit takes -](posts/trust__90/2026-04-20-2046203827305484565.md)
 - [@trust__90 — 2026-04-29 — The ironic thing is that this will sound to many like old people come across when irration](posts/trust__90/2026-04-29-2049528623489781939.md)
 - [@trust__90 — 2026-05-13 — We all need to take a moment and give our appreciation to the pioneers of decentralized se](posts/trust__90/2026-05-13-2054502639207961066.md)
 - [@trust__90 — 2026-10-14 — Anthropic continues to abstract away any notion of hands-on control over their codebase.](posts/trust__90/2026-10-14-2110335614998462608.md)
+- [@zksecurityXYZ — 2026-10-14 — are other companies really interviewing candidates using AI avatars?](posts/zksecurityXYZ/2026-10-14-2110500746567520470.md)
 - [@zksecurityXYZ — 2026-10-25 — New https://zk.golf challenge ⛳️ Google ID Token Claims Extraction.](posts/zksecurityXYZ/2026-10-25-2114284396450893976.md)
+- [@zseano — 2026-01-31 — AI is moving fast I can’t keep up 😂 everyday something new is being released. We are living in wi](posts/zseano/2026-01-31-2017538347204259978.md)
+- [@zseano — 2026-08-20 — Wondering if the GTA6 leaks are real or if they’re AI generated 😅 never know these days…](posts/zseano/2026-08-20-2090414817563607512.md)
+- [@zseano — 2026-10-01 — AI hackbots go BRRRRR ? (maybe? who knows). But damn some programs are being overwhelmed haha rep](posts/zseano/2026-10-01-2105764085141037123.md)
 - [@zseano — 2026-10-08 — Did a bit of hacking past few days and I still prefer manual hacking over relying on AI. E](posts/zseano/2026-10-08-2108274552480444661.md)
+- [@zseano — 2026-10-18 — non hacking post, but did anyone here ever do Halo2 Superbouncing? then Halo3 came out and the bo](posts/zseano/2026-10-18-2111728419431936384.md)
 
 ### Account takeover (3)
 
@@ -230,9 +350,11 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@mdp_sec — 2026-11-05 — $8,000 for an auth bypass](posts/mdp_sec/2026-11-05-2118435683329310786.md)
 - [@mdp_sec — 2026-11-11 — one /./ in the path walked me straight past a login wall into an admin console](posts/mdp_sec/2026-11-11-2120338219841544604.md)
 
-### Blockchain / L1-L2 / bridge (22)
+### Blockchain / L1-L2 / bridge (49)
 
+- [@0xiczc — 2023-01-06 — I have a fun blockchain challenge ready for everyone to try out! #realworldctf](posts/0xiczc/2023-01-06-1611472273181151232.md)
 - [@0xiczc — 2023-05-26 — 1/ Recently, I discovered a vulnerability in the  @0xPolygon zkEVM and earned my first L2](posts/0xiczc/2023-05-26-1662090451493740545.md)
+- [@0xiczc — 2024-01-26 — Congrats to Blue Water! And a warm welcome to all to try out this blockchain challenge I prepared](posts/0xiczc/2024-01-26-1750915452141007134.md)
 - [@0xiczc — 2025-10-04 — Thanks @CertiK for the great write-up on the vulnerability I found in Cosmos EVM-compatibl](posts/0xiczc/2025-10-04-1974521372597723619.md)
 - [@0xriptide — 2026-10-08 — A note to those building on chain in 2026:](posts/0xriptide/2026-10-08-2107985669410947229.md)
 - [@ChainLight_io — 2025-03-24 — Which rug pulls, exploits, and security breaches happened this week?](posts/ChainLight_io/2025-03-24-1904184855891771421.md)
@@ -252,7 +374,32 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@immunefi — 2026-11-04 — This security researcher earned $33,000 for a high-severity bug in a blockchain’s core inf](posts/immunefi/2026-11-04-2117965345550172382.md)
 - [@lonelysloth_sec — 2026-06-05 — My take on the Zcash bug.](posts/lonelysloth_sec/2026-06-05-2062916729676648907.md)
 - [@samczsun — 2025-11-22 — i love etherscan but unless im misunderstanding something, they have essentially paywalled](posts/samczsun/2025-11-22-1992296916491915403.md)
+- [@saxenism — 2024-12-13 — Same.](posts/saxenism/2024-12-13-1867571600234803463.md)
+- [@saxenism — 2025-01-15 — While Linus's Law ("given enough eyeballs, all bugs are shallow") helped scale Linux, the block](posts/saxenism/2025-01-15-1879380630112464998.md)
+- [@saxenism — 2025-01-23 — Finally Ethereum is onto what ZKsync had already been doing.](posts/saxenism/2025-01-23-1882267577730424973.md)
+- [@saxenism — 2025-03-19 — Fantastic list and I hope it does come to fruition.](posts/saxenism/2025-03-19-1902330211007443320.md)
+- [@saxenism — 2025-04-25 — Can someone point me towards a well put-together argument explaining this "value leakage from L](posts/saxenism/2025-04-25-1915650732671328613.md)
+- [@saxenism — 2025-08-08 — What's the CoW swap equivalent fall in Solana?](posts/saxenism/2025-08-08-1953680322832289916.md)
+- [@saxenism — 2025-09-30 — Gm Chat!](posts/saxenism/2025-09-30-1972961286729470288.md)
+- [@saxenism — 2025-10-23 — TEEs are truly fascinating.](posts/saxenism/2025-10-23-1981230974999630198.md)
+- [@saxenism — 2025-11-10 — I downright disagree with your statement that "TEEs are useless" &amp; I assume that this is ju](posts/saxenism/2025-11-10-1987931403582140482.md)
+- [@saxenism — 2026-04-23 — Honoured to be selected as an ETHSecurity Badge holder.](posts/saxenism/2026-04-23-2047248003497693600.md)
+- [@saxenism — 2026-04-28 — In the era of AI, clear thinkers will absolutely melt faces.](posts/saxenism/2026-04-28-2049095534863098076.md)
+- [@saxenism — 2026-04-28 — This is the exact shift that every protocol needs to make to survive in web3.](posts/saxenism/2026-04-28-2049136710169272562.md)
+- [@saxenism — 2026-04-29 — 1) The sharper framing isn’t “Sui protocols are uniquely careless.”](posts/saxenism/2026-04-29-2049495518376866086.md)
+- [@saxenism — 2026-06-23 — "Just a .pem in a public repo" is the trigger for sure, just not the bug.](posts/saxenism/2026-06-23-2069405688397447285.md)
+- [@saxenism — 2026-10-16 — I have been hearing @Zcash is THE thing in web3 now.](posts/saxenism/2026-10-16-2111134534549086330.md)
+- [@saxenism — 2026-10-17 — Somewhere in the @Zcash ecosystem, something just got more secure.](posts/saxenism/2026-10-17-2111558018311880938.md)
+- [@saxenism — 2026-10-18 — Accepted finding #3.](posts/saxenism/2026-10-18-2111915973330808856.md)
+- [@saxenism — 2026-10-19 — Accepted finding #4 (High).](posts/saxenism/2026-10-19-2112209735986577759.md)
+- [@saxenism — 2026-10-21 — Accepted finding #5 from the @Zcash campaign :)](posts/saxenism/2026-10-21-2112713764999250220.md)
+- [@saxenism — 2026-10-21 — Several private security reports I filed across the Zcash ecosystem are awaiting review.](posts/saxenism/2026-10-21-2112982713963852188.md)
+- [@saxenism — 2026-10-22 — One of our @Zcash advisories has just been published.](posts/saxenism/2026-10-22-2113303290654216476.md)
+- [@saxenism — 2026-11-04 — Attended @drakefjustin session at @safe's event and someone brought up ZCash.](posts/saxenism/2026-11-04-2117974338385437111.md)
+- [@saxenism — 2026-11-06 — Accepted finding #6 (High) from the @Zcash campaign.](posts/saxenism/2026-11-06-2118554252570427494.md)
+- [@saxenism — 2026-11-09 — Accepted finding #7 (Moderate) from the @ZCash campaign.](posts/saxenism/2026-11-09-2119670604177834285.md)
 - [@trust__90 — 2026-04-20 — CT focusing on the low-hanging fruit takes -](posts/trust__90/2026-04-20-2046203827305484565.md)
+- [@zksecurityXYZ — 2026-10-05 — Who verifies the formal verification?](posts/zksecurityXYZ/2026-10-05-2107169364202189182.md)
 - [@zksecurityXYZ — 2026-11-03 — evm.asm, our collaboration with EF on an e2e verified EVM implementation for zkVMs, now ha](posts/zksecurityXYZ/2026-11-03-2117550503060185134.md)
 
 ### CSP / CSPT (1)
@@ -270,7 +417,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@Assass1nmarcos — 2026-07-08 — Hello @Hacker0x01,](posts/Assass1nmarcos/2026-07-08-2074871162035986895.md)
 - [@Swartz068 — 2026-08-24 — 2 x Duplicate on @Bugcrowd](posts/Swartz068/2026-08-24-2091854507970081180.md)
 
-### Memory corruption / native (20)
+### Memory corruption / native (23)
 
 - [@Guhu95 — 2025-07-17 — There are just two types of bugs:](posts/Guhu95/2025-07-17-1945640502025752709.md)
 - [@S1r1u5_ — 2026-11-02 — apart from ip options potentially being dropped in transit, kernel text leaks taking time,](posts/S1r1u5_/2026-11-02-2117097902774640858.md)
@@ -280,6 +427,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@farazsth98 — 2026-10-28 — Don't worry @orange_8361, there are still people reading blog posts and articles from star](posts/farazsth98/2026-10-28-2115464807042465864.md)
 - [@galnagli — 2026-10-22 — It took 17 minutes to turn the Gitlab RCE to a working HEAP exploit using Gemini 4 Argon a](posts/galnagli/2026-10-22-2113185093871095893.md)
 - [@infosec_au — 2026-05-10 — Reported another cPanel critical pre-authentication vuln. Our research dates back to early](posts/infosec_au/2026-05-10-2053414439635054961.md)
+- [@irsdl — 2026-10-22 — Great video from @LiveOverflow 👏](posts/irsdl/2026-10-22-2113195840328094077.md)
 - [@j00ru — 2020-07-28 — Trying hard to keep up the weekly cadence of the MMS series. Today we're finally moving to](posts/j00ru/2020-07-28-1288200298390081536.md)
 - [@j00ru — 2020-08-04 — This week's episode: MMS Exploit Part 4: MMS Primer, Completing the ASLR Oracle](posts/j00ru/2020-08-04-1290678374487162881.md)
 - [@j00ru — 2020-08-12 — The final part 5 of my Samsung MMS exploit blog series is out 🎉 It covers bypassing Androi](posts/j00ru/2020-08-12-1293600839320428545.md)
@@ -291,13 +439,21 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@mdp_sec — 2026-10-26 — lines up with BB Arena](posts/mdp_sec/2026-10-26-2114825143046521124.md)
 - [@mdp_sec — 2026-11-04 — heaps of sunscreen, multiple days back to back 80km offshore and my soft IT skin still lost. hid](posts/mdp_sec/2026-11-04-2118073295358808429.md)
 - [@mdp_sec — 2026-11-11 — HuntDeck is live in demo mode 🎯](posts/mdp_sec/2026-11-11-2120371004916805916.md)
+- [@orange_8361 — 2024-08-30 — My first kernel exploit! Big thanks to @d3vc0r3 and @offsectraining ! 🎉](posts/orange_8361/2024-08-30-1829491975986589764.md)
+- [@orange_8361 — 2026-09-19 — It’s gonna overflow!](posts/orange_8361/2026-09-19-2101101039885910124.md)
 - [@ryotkak — 2026-05-08 — Does anyone have a direct contact at @thezdi? I've been trying to register my Pwn2Own entr](posts/ryotkak/2026-05-08-2052881664909660521.md)
 
-### Mobile / Android / iOS (9)
+### Mobile / Android / iOS (15)
 
+- [@_bagipro — 2024-03-21 — Android bug hunters, your chance to get rewards from Google](posts/_bagipro/2024-03-21-1770899301171941595.md)
+- [@_bagipro — 2024-07-30 — We have updated scan reports for all Google phone apps and additionally included reports for We](posts/_bagipro/2024-07-30-1818236331388252588.md)
 - [@_bagipro — 2025-08-01 — New Android host validation bypass technique!](posts/_bagipro/2025-08-01-1951318010444005529.md)
+- [@_bagipro — 2025-08-28 — We’re hiring a Mobile App Security Expert!](posts/_bagipro/2025-08-28-1961055207476867529.md)
 - [@_bagipro — 2026-02-25 — An attack on Android content providers that researchers might overlook](posts/_bagipro/2026-02-25-2026798826871247233.md)
+- [@_bagipro — 2026-04-22 — We launched Android DAST. And the first problem we hit is that login flows block everything.](posts/_bagipro/2026-04-22-2046911820452216842.md)
+- [@_bagipro — 2026-05-27 — [1/3] It's common to get a ParcelFileDescriptor pointing to a directory through an Android Cont](posts/_bagipro/2026-05-27-2059779421876232588.md)
 - [@farazsth98 — 2026-01-10 — Just wanted to share a few things I learned that prevents this exploit from working out-of](posts/farazsth98/2026-01-10-2009932971692962216.md)
+- [@j00ru — 2020-07-13 — In July, there is a lot going on for the security of Android image decoding, so I recommend instal](posts/j00ru/2020-07-13-1282681407832125441.md)
 - [@j00ru — 2020-07-28 — Trying hard to keep up the weekly cadence of the MMS series. Today we're finally moving to](posts/j00ru/2020-07-28-1288200298390081536.md)
 - [@j00ru — 2020-08-12 — The final part 5 of my Samsung MMS exploit blog series is out 🎉 It covers bypassing Androi](posts/j00ru/2020-08-12-1293600839320428545.md)
 - [@mdp_sec — 2026-09-12 — My AI agents run on a Linux server in another country.](posts/mdp_sec/2026-09-12-2098923749156458655.md)
@@ -319,7 +475,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@mdp_sec — 2026-11-11 — one /./ in the path walked me straight past a login wall into an admin console](posts/mdp_sec/2026-11-11-2120338219841544604.md)
 - [@samwcyo — 2026-02-26 — Two years ago, I reported an improper path parsing vulnerability in Next.js. Today, they r](posts/samwcyo/2026-02-26-2026888257779224594.md)
 
-### RCE (16)
+### RCE (22)
 
 - [@Suryesh_92 — 2026-06-22 — Just got my first Remote Code Execution report accepted. Found RCE directly in thick clien](posts/Suryesh_92/2026-06-22-2069043943640301896.md)
 - [@Suryesh_92 — 2026-06-30 — Another Bounty 😉](posts/Suryesh_92/2026-06-30-2071781463767580756.md)
@@ -333,10 +489,16 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@infinitelogins — 2026-02-23 — Researchers at @HacktronAI found a bug in Google’s Antigravity IDE browser extension that](posts/infinitelogins/2026-02-23-2025934052759367834.md)
 - [@infinitelogins — 2026-10-19 — PwnEscape escapes KVM in Vercel's $1M sandbox, @opencode's big week ends in a breach, @Ha](posts/infinitelogins/2026-10-19-2112170733228966180.md)
 - [@infosec_au — 2025-12-05 — Pushed a new update to https://github.com/assetnote/react2shell-scanner -- it now scans fo](posts/infosec_au/2025-12-05-1996737719356297595.md)
+- [@infosec_au — 2026-06-25 — i always find that the more obscure the industry and niche is, the more vulnerable the softwa](posts/infosec_au/2026-06-25-2070108885529378882.md)
+- [@infosec_au — 2026-07-14 — Our research team at @SLCyberSec discovered a pre-auth RCE in ServiceNow by bypassing their s](posts/infosec_au/2026-07-14-2076989533850362149.md)
+- [@infosec_au — 2026-07-18 — Note on WordPress pre-auth RCE (CVE-2026-63030). There are SQLi poc's out there, but RCE PoC ](posts/infosec_au/2026-07-18-2078334919307374599.md)
+- [@infosec_au — 2026-09-09 — A few months ago, @SLCyberSec's research team took a look at Goja. It's a JavaScript engine t](posts/infosec_au/2026-09-09-2097644154465788209.md)
+- [@j00ru — 2020-05-06 — Today I'm happy to release new research I've been working on for a while: 0-click RCE via MMS in a](posts/j00ru/2020-05-06-1258066559765004295.md)
 - [@j00ru — 2020-07-28 — Trying hard to keep up the weekly cadence of the MMS series. Today we're finally moving to](posts/j00ru/2020-07-28-1288200298390081536.md)
 - [@j00ru — 2020-08-12 — The final part 5 of my Samsung MMS exploit blog series is out 🎉 It covers bypassing Androi](posts/j00ru/2020-08-12-1293600839320428545.md)
 - [@kevin_mizu — 2026-10-07 — I'm happy that my first article as part of the @SLCyberSec research team is finally out! 😁](posts/kevin_mizu/2026-10-07-2107783292091007306.md)
 - [@orange_8361 — 2026-05-15 — And this one is human insight w/ LLM-assisted research. Took about one week to finish ever](posts/orange_8361/2026-05-15-2055330289652539850.md)
+- [@samwcyo — 2026-11-07 — Had some time off of work and was finally able to release a few blog posts: the first is about a](posts/samwcyo/2026-11-07-2119030320171266117.md)
 
 ### Race condition (4)
 
@@ -350,10 +512,12 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@albinowax — 2026-10-01 — SMTP smuggling is back! Dot-stuffing is a great find, awesome work! https://twitter.com/ti](posts/albinowax/2026-10-01-2105615340088762638.md)
 - [@albinowax — 2026-10-13 — I've started a new research project for Black Hat USA 2027 and I'm pleased to announce it](posts/albinowax/2026-10-13-2110004455244505511.md)
 
-### SQL injection (4)
+### SQL injection (6)
 
 - [@infinitelogins — 2026-05-09 — after escalating for hours today.. finally found my first bug bounty SQLi!! super excited](posts/infinitelogins/2026-05-09-2053257780895920586.md)
 - [@infinitelogins — 2026-10-14 — I found a critical unauthenticated SQL injection that earned a $4,000 bounty. The WAF blo](posts/infinitelogins/2026-10-14-2110355630133322159.md)
+- [@infosec_au — 2026-05-21 — We recently analyzed Drupal's security advisory (SA-CORE-2026-004 &amp; CVE-2026-9082). This ](posts/infosec_au/2026-05-21-2057484346093887921.md)
+- [@infosec_au — 2026-07-18 — Note on WordPress pre-auth RCE (CVE-2026-63030). There are SQLi poc's out there, but RCE PoC ](posts/infosec_au/2026-07-18-2078334919307374599.md)
 - [@mdp_sec — 2026-11-10 — i found an unauthed sql injection that let me pull customer pii and resume tokens off a public q](posts/mdp_sec/2026-11-10-2120066429223317560.md)
 - [@ryotkak — 2026-07-17 — 【注意】WordPress本体において、未認証で任意コード実行に繋がる脆弱性が修正されています。](posts/ryotkak/2026-07-17-2078257717983236594.md)
 
@@ -362,7 +526,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@NahamSec — 2026-11-02 — Someone found SSRF in MCP servers from Google and others. So I rebuilt the bug in a lab an](posts/NahamSec/2026-11-02-2117255416367517800.md)
 - [@Piki_eth — 2026-10-26 — Found an SSRF vulnerability using FREE DeepSeek 😂🔥](posts/Piki_eth/2026-10-26-2114761602025304105.md)
 
-### Smart contract / DeFi (19)
+### Smart contract / DeFi (39)
 
 - [@ChainLight_io — 2025-03-31 — Which rug pulls, exploits, and security breaches happened this week?](posts/ChainLight_io/2025-03-31-1906729496440709516.md)
 - [@Guhu95 — 2025-06-23 — Stared at the code so hard that a 5 year old bug crawled out.](posts/Guhu95/2025-06-23-1937016161847402638.md)
@@ -382,31 +546,152 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@lonelysloth_sec — 2026-03-08 — I was starting to get hopeful about using Claude in some capacity in my work.](posts/lonelysloth_sec/2026-03-08-2030545303607329178.md)
 - [@ma1fan — 2026-10-19 — Lol. Reported a smart contract compiler bug I assessed as Critical. Waited a month. The te](posts/ma1fan/2026-10-19-2112203544350880105.md)
 - [@naresh_1337 — 2026-10-26 — 8 criticals, 2 highs, and still just getting started. 🔥](posts/naresh_1337/2026-10-26-2114804871002194359.md)
+- [@saxenism — 2025-03-18 — Can't wait to take apart your vibe-coded smart contracts.](posts/saxenism/2025-03-18-1901959250441863561.md)
+- [@saxenism — 2025-08-15 — All the Solidity auditors I know live a pretty straightforward life. Find bugs, get paid, log o](posts/saxenism/2025-08-15-1956418610785923159.md)
+- [@saxenism — 2025-09-08 — Yeah, being a security researcher who can report smart contract bugs is cool](posts/saxenism/2025-09-08-1964933563138396345.md)
+- [@saxenism — 2025-09-09 — Centralisation Risks.](posts/saxenism/2025-09-09-1965373469589377343.md)
+- [@saxenism — 2025-10-11 — I remember writing a handy guide to handle oracle integrations in DeFi protocols and after toda](posts/saxenism/2025-10-11-1977025691393855714.md)
+- [@saxenism — 2025-10-13 — I have audited DeFi protocols.](posts/saxenism/2025-10-13-1977693643881279717.md)
+- [@saxenism — 2025-10-24 — This is just sad, and it makes me angry.](posts/saxenism/2025-10-24-1981646862269513949.md)
+- [@saxenism — 2025-11-04 — Given the recent devastating @Balancer hack, I wanted to re-share something I wrote some time b](posts/saxenism/2025-11-04-1985612718318240076.md)
+- [@saxenism — 2025-11-06 — This is a very relevant podcast around what our industry needs right now.](posts/saxenism/2025-11-06-1986312719675556162.md)
+- [@saxenism — 2025-11-25 — Just wrapped an insane @EFDevconnect week in BA. I met a LOT of sharp people, and this time, a ](posts/saxenism/2025-11-25-1993323171915665895.md)
+- [@saxenism — 2025-12-02 — Yoooooo!!!](posts/saxenism/2025-12-02-1995810425640829399.md)
+- [@saxenism — 2026-02-09 — Good one, Paul!](posts/saxenism/2026-02-09-2020838088868495536.md)
+- [@saxenism — 2026-02-09 — This is a take I strongly align with, because it clearly identifies why security is such a big ](posts/saxenism/2026-02-09-2020858473161031764.md)
+- [@saxenism — 2026-03-11 — I spent 2 years on the ZKSync internal security team.](posts/saxenism/2026-03-11-2031696386388054029.md)
+- [@saxenism — 2026-04-08 — Bullish on projects led by security-first founders.](posts/saxenism/2026-04-08-2041884341589123091.md)
+- [@saxenism — 2026-04-27 — Another day, another hack.](posts/saxenism/2026-04-27-2048725225995681964.md)
+- [@saxenism — 2026-04-28 — This is the exact shift that every protocol needs to make to survive in web3.](posts/saxenism/2026-04-28-2049136710169272562.md)
+- [@saxenism — 2026-04-29 — The scary part is not “AI wrote bad Solidity” or that AI created old-school access control bugs](posts/saxenism/2026-04-29-2049401347414323288.md)
+- [@saxenism — 2026-04-29 — Never a dull day in web3 🍿🍿](posts/saxenism/2026-04-29-2049554286527524892.md)
+- [@saxenism — 2026-05-29 — I disagree with this statement, yet I understand why someone would say that.](posts/saxenism/2026-05-29-2060237102403702990.md)
 - [@trust__90 — 2026-04-20 — CT focusing on the low-hanging fruit takes -](posts/trust__90/2026-04-20-2046203827305484565.md)
 
-### TEE / enclave (5)
+### TEE / enclave (64)
 
 - [@asymmetric_re — 2026-07-09 — Anchor's release pipeline just got a major security upgrade.](posts/asymmetric_re/2026-07-09-2075265472107556875.md)
+- [@jovanbulck — 2020-11-18 — Don't miss @FritzAlder presenting our latest work "Faulty Point Unit: ABI Poisoning Attacks o](posts/jovanbulck/2020-11-18-1329018922520219648.md)
+- [@jovanbulck — 2020-12-03 — Happy we'll be organizing the 2nd ed. of a dedicated Hardware-Aided Trusted Computing Devroom](posts/jovanbulck/2020-12-03-1334531084973985801.md)
 - [@jovanbulck — 2021-02-05 — Join us tomorrow for the 2nd open-source trusted computing devroom at #FOSDEM2021! Impress](posts/jovanbulck/2021-02-05-1357704326475579393.md)
 - [@jovanbulck — 2021-12-06 — A viable free and open-source ecosystem will be instrumental to the success of emerging TE](posts/jovanbulck/2021-12-06-1467855660616454145.md)
+- [@jovanbulck — 2022-02-04 — Reminder: join us tomorrow Saturday Feb 5 from 10:00 am UTC+1 for a full day of talks on the ](posts/jovanbulck/2022-02-04-1489603659352653832.md)
+- [@jovanbulck — 2022-03-21 — Our #SysTEX22 opinion article: ABI sanitization in #IntelSGX runtimes is non-trivial and erro](posts/jovanbulck/2022-03-21-1505934847960924163.md)
 - [@jovanbulck — 2023-11-26 — The future of #ConfidentialComputing is open source or is not! 🚀 Embrace the movement and](posts/jovanbulck/2023-11-26-1728777246226145386.md)
 - [@jovanbulck — 2024-03-12 — Working in the area of trusted execution? Consider submitting your work (in progress), res](posts/jovanbulck/2024-03-12-1767608194220581358.md)
+- [@saxenism — 2024-11-22 — And the TEE-fication of the world has started.](posts/saxenism/2024-11-22-1859897748620976548.md)
+- [@saxenism — 2025-10-19 — I'm out here living in the streets of TEE security 24x7 now and it's so fun to see that the sam](posts/saxenism/2025-10-19-1979889414982815969.md)
+- [@saxenism — 2025-10-21 — Is it just the TEE folks that are obsessed with acronyms or is it true for all hardware guys?](posts/saxenism/2025-10-21-1980531198880543062.md)
+- [@saxenism — 2025-10-21 — It is absolutely wild to think that the automotive industry (yes, cars, honk honk cars) literal](posts/saxenism/2025-10-21-1980607414383812697.md)
+- [@saxenism — 2025-10-22 — I've been pretty deep in TEE security research lately, and I came across this really fascinatin](posts/saxenism/2025-10-22-1980940485322813441.md)
+- [@saxenism — 2025-10-23 — TEEs are truly fascinating.](posts/saxenism/2025-10-23-1981230974999630198.md)
+- [@saxenism — 2025-10-27 — I am working on a comprehensive document around TEE security, which is a crystallisation of:](posts/saxenism/2025-10-27-1982697048018481438.md)
+- [@saxenism — 2025-10-27 — If you are pretty deep in the TEE weeds or know someone who's a TEE chad, please hit me up.](posts/saxenism/2025-10-27-1982712368028393806.md)
+- [@saxenism — 2025-10-29 — The recent  exploit brings to light the extremely nuanced and in general, hard nature of hardwa](posts/saxenism/2025-10-29-1983450406333370828.md)
+- [@saxenism — 2025-10-29 — The stakes are getting higher.](posts/saxenism/2025-10-29-1983475396239667350.md)
+- [@saxenism — 2025-11-06 — For the next TEE exploit research project, let's get Ethan Hunt onboard to make things a little](posts/saxenism/2025-11-06-1986468282875203883.md)
+- [@saxenism — 2025-11-07 — Just to be very clear, I am not associated with this token or whatever this is, in any way, sha](posts/saxenism/2025-11-07-1986757151935844613.md)
+- [@saxenism — 2025-11-13 — Draft for the "TEE Security Doc" has been sent out to folks who expressed interest yesterday.](posts/saxenism/2025-11-13-1989031021493514557.md)
+- [@saxenism — 2025-11-16 — The TEE security handbook is live now.](posts/saxenism/2025-11-16-1990004582781776169.md)
+- [@saxenism — 2025-11-17 — Probably cause dStack was reviewed in detail in the TEE Security Handbook 👀](posts/saxenism/2025-11-17-1990286956698411485.md)
+- [@saxenism — 2025-11-17 — We released the TEE Security Handbook yesterday, and we already have the next update XD.](posts/saxenism/2025-11-17-1990559763470426559.md)
+- [@saxenism — 2025-11-25 — Just wrapped an insane @EFDevconnect week in BA. I met a LOT of sharp people, and this time, a ](posts/saxenism/2025-11-25-1993323171915665895.md)
+- [@saxenism — 2025-11-27 — The next update to the TEE Security Handbook is live.](posts/saxenism/2025-11-27-1993877018530709908.md)
+- [@saxenism — 2025-12-02 — Yoooooo!!!](posts/saxenism/2025-12-02-1995810425640829399.md)
+- [@saxenism — 2025-12-02 — Excuse me wtf… the TEE Security Handbook is already popping up inside real audits?](posts/saxenism/2025-12-02-1995868306213859600.md)
+- [@saxenism — 2025-12-03 — You can absolutely get started with building on TEEs with a few clicks (AWS Nitro enclaves or s](posts/saxenism/2025-12-03-1996201500289515687.md)
+- [@saxenism — 2025-12-06 — JORAN HONIG just gave a shoutout to the TEE Security Handbook.](posts/saxenism/2025-12-06-1997199723502227719.md)
+- [@saxenism — 2025-12-10 — It's so fascinating to see when I am introducing TEEs to my web3 frens.](posts/saxenism/2025-12-10-1998596334174220742.md)
+- [@saxenism — 2025-12-11 — Building the TEE Security Handbook has been one of the most rewarding things I've done.](posts/saxenism/2025-12-11-1999148671393513589.md)
+- [@saxenism — 2025-12-12 — A critical systemic risk that I see missing from TEE-heavy protocol architectures is: fallbacks](posts/saxenism/2025-12-12-1999355134451810809.md)
+- [@saxenism — 2025-12-13 — I think this depends heavily on how TEEs are used.](posts/saxenism/2025-12-13-1999738517942067332.md)
+- [@saxenism — 2025-12-13 — Again, designing around availability for TEE-based protocols is a MUST.](posts/saxenism/2025-12-13-1999872692170990022.md)
+- [@saxenism — 2025-12-16 — The top players in the space are already leveraging the TEE Security Handbook and you still don](posts/saxenism/2025-12-16-2000784093542498351.md)
+- [@saxenism — 2025-12-16 — So... I have made a decision.](posts/saxenism/2025-12-16-2000952055523934580.md)
+- [@saxenism — 2025-12-20 — This is a pretty cool attempt by @MarlinProtocol  to address the availability concerns in any T](posts/saxenism/2025-12-20-2002311606752215253.md)
+- [@saxenism — 2025-12-26 — Shoutout to @phoenixfrozen86 and @sha2nk_ for helping us improve the TEE Security Handbook.](posts/saxenism/2025-12-26-2004450666505556225.md)
+- [@saxenism — 2025-12-31 — 10/10 advice for protocol development teams.](posts/saxenism/2025-12-31-2006278815706906732.md)
+- [@saxenism — 2026-01-05 — At this point, I am basically codifying my approach to hunt down bugs in a TEE-powered protocol](posts/saxenism/2026-01-05-2008174074720391484.md)
+- [@saxenism — 2026-01-09 — Please. If you're building TEE protocols, DO NOT discount microarchitectural side-channel explo](posts/saxenism/2026-01-09-2009518067144171826.md)
+- [@saxenism — 2026-01-15 — might just fuck around and start bringing to you byte-sized educational TEE content that makes ](posts/saxenism/2026-01-15-2011816214235111766.md)
+- [@saxenism — 2026-01-17 — Always wanted to get into TEEs but somehow never got to it?](posts/saxenism/2026-01-17-2012508901028069397.md)
+- [@saxenism — 2026-01-19 — 1. If you're building with SGX, DO NOT let your "software mode" become a production footgun.](posts/saxenism/2026-01-19-2013146724269953380.md)
+- [@saxenism — 2026-01-19 — Intel removed itself as the bottleneck in online verification paths when it started moving away](posts/saxenism/2026-01-19-2013186167974572348.md)
+- [@saxenism — 2026-01-19 — With the sheer plethora of things that can (and do) go wrong when building TEE protocols, defen](posts/saxenism/2026-01-19-2013265943900647766.md)
+- [@saxenism — 2026-01-20 — Let me get into the weeds here.](posts/saxenism/2026-01-20-2013567106416287821.md)
+- [@saxenism — 2026-02-12 — Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly ](posts/saxenism/2026-02-12-2021943382155899351.md)
+- [@saxenism — 2026-03-13 — Reviewed the biggest TEE protocols in Web3 earlier this year.](posts/saxenism/2026-03-13-2032358750846144694.md)
+- [@saxenism — 2026-03-18 — I do not believe in generic AI security tooling.](posts/saxenism/2026-03-18-2034198942385336442.md)
+- [@saxenism — 2026-04-08 — Attackers are getting smarter, faster, and cheaper.](posts/saxenism/2026-04-08-2041890307814342940.md)
+- [@saxenism — 2026-05-08 — Quick personal update:](posts/saxenism/2026-05-08-2052661168595243488.md)
+- [@saxenism — 2026-06-17 — Tested the `codebase-memory-mcp` today with two of my specialist security agents:](posts/saxenism/2026-06-17-2067126654452027521.md)
+- [@saxenism — 2026-06-23 — "Just a .pem in a public repo" is the trigger for sure, just not the bug.](posts/saxenism/2026-06-23-2069405688397447285.md)
+- [@saxenism — 2026-06-23 — This question is pretty revealing, actually. It kinda validates the DEBUG/allowlist path.](posts/saxenism/2026-06-23-2069428511082004930.md)
+- [@saxenism — 2026-08-05 — Brought to you by Bluethroat Labs!!](posts/saxenism/2026-08-05-2084983497228472669.md)
+- [@saxenism — 2026-08-21 — Subliminal work.](posts/saxenism/2026-08-21-2090613761094946980.md)
+- [@saxenism — 2026-10-06 — I am hiring a full-time, paid TEE security research intern at @bluethroat_labs.](posts/saxenism/2026-10-06-2107493319873798649.md)
+- [@saxenism — 2026-10-12 — Gm everyone!!](posts/saxenism/2026-10-12-2109724464804164050.md)
+- [@saxenism — 2026-10-14 — I started working on @bluethroat_labs with a special focus on TEEs bc of my personal TEE bull t](posts/saxenism/2026-10-14-2110449694971470215.md)
+- [@saxenism — 2026-10-14 — I don’t know what exactly Venice and Turnkey offers in the inference side of things, but from m](posts/saxenism/2026-10-14-2110515192669102236.md)
+- [@saxenism — 2026-10-23 — We are still accepting applications for the TEE Security internship at @bluethroat_labs.](posts/saxenism/2026-10-23-2113466402560692369.md)
 
-### XSS (5)
+### XSS (16)
 
 - [@Suryesh_92 — 2026-01-24 — 2nd Bounty in 2026 🥳🥳🎉🎉🤑](posts/Suryesh_92/2026-01-24-2014855434696597734.md)
+- [@fransrosen — 2023-12-08 — Here's an XSS-challenge taken from real life. Can you make it alert() on my origin? Send me y](posts/fransrosen/2023-12-08-1733004108448059677.md)
+- [@fransrosen — 2023-12-15 — In the 🧵 below is the solution for the XSS-challenge I posted last Friday.](posts/fransrosen/2023-12-15-1735585892130005195.md)
+- [@fransrosen — 2024-08-21 — I found a bug and made a XSS-challenge out of it:](posts/fransrosen/2024-08-21-1826303938888695892.md)
 - [@fransrosen — 2024-08-27 — Here's the solution for the XSS-challenge from last week.](posts/fransrosen/2024-08-27-1828503460183941420.md)
+- [@garethheyes — 2026-09-28 — Stuck inside a &lt;meta&gt; and angle brackets blocked?](posts/garethheyes/2026-09-28-2104571830950609102.md)
+- [@garethheyes — 2026-09-30 — Chrome added a &lt;camera&gt; tag.](posts/garethheyes/2026-09-30-2105289062487855361.md)
+- [@garethheyes — 2026-10-01 — Chrome's new &lt;microphone&gt; tag has something to say:](posts/garethheyes/2026-10-01-2105651444762481000.md)
+- [@garethheyes — 2026-10-06 — Another XSS vector for our cheat sheet, this time using &lt;usermedia&gt;](posts/garethheyes/2026-10-06-2107463389039689908.md)
+- [@garethheyes — 2026-10-13 — Safari wanted a decryption key. @AmirMSafari gave it alert(1).](posts/garethheyes/2026-10-13-2109999115841220737.md)
+- [@garethheyes — 2026-10-19 — Six consuming tags. One Safari trick: &lt;select&gt;.](posts/garethheyes/2026-10-19-2112174430696722645.md)
 - [@garethheyes — 2026-10-27 — XSS from a response header 🤯](posts/garethheyes/2026-10-27-2115088588874650054.md)
 - [@infinitelogins — 2026-10-19 — PwnEscape escapes KVM in Vercel's $1M sandbox, @opencode's big week ends in a breach, @Ha](posts/infinitelogins/2026-10-19-2112170733228966180.md)
+- [@infosec_au — 2026-05-22 — Adam (@hash_kitten) posted the solution for the XSS challenge he made earlier in the week on ](posts/infosec_au/2026-05-22-2057714139091579022.md)
+- [@kevin_mizu — 2026-07-21 — Chrome keeps adding fun features!](posts/kevin_mizu/2026-07-21-2079553635470430622.md)
 - [@kevin_mizu — 2026-10-28 — With @hash_kitten, we've been looking into Cloudflare's /cdn-cgi/image endpoint and manage](posts/kevin_mizu/2026-10-28-2115448862869500312.md)
 
-### ZK (10)
+### ZK (41)
 
 - [@0xiczc — 2023-02-14 — I'm delighted to have participated in the Audit Contest on  @secure3io! And thanks for the](posts/0xiczc/2023-02-14-1625325970269048832.md)
 - [@0xiczc — 2023-05-26 — 1/ Recently, I discovered a vulnerability in the  @0xPolygon zkEVM and earned my first L2](posts/0xiczc/2023-05-26-1662090451493740545.md)
 - [@ChainLight_io — 2025-04-21 — Which rug pulls, exploits, and security breaches happened this week?](posts/ChainLight_io/2025-04-21-1914325760921489673.md)
 - [@Suryesh_92 — 2026-01-19 — Yay, I rewarded 1500 CHF ===  $1877 🤑🤑🤩🤩🔥🥳🥳🥳](posts/Suryesh_92/2026-01-19-2013196581994946685.md)
 - [@lonelysloth_sec — 2026-06-05 — My take on the Zcash bug.](posts/lonelysloth_sec/2026-06-05-2062916729676648907.md)
+- [@saxenism — 2024-11-12 — Say it one more time!!](posts/saxenism/2024-11-12-1856381181723550120.md)
+- [@saxenism — 2024-11-12 — Meeting a lot of people especially security researchers that want to get deeper into the trench](posts/saxenism/2024-11-12-1856406690796822859.md)
+- [@saxenism — 2024-11-13 — Custom handmade merch from @cryptobuilder_ made the entire PlonkcafÉ worth it for me!!!](posts/saxenism/2024-11-13-1856663449256014033.md)
+- [@saxenism — 2024-11-14 — From my understanding of the current crypto landscape, atleast two innovations from our industr](posts/saxenism/2024-11-14-1857009806059483357.md)
+- [@saxenism — 2024-11-18 — This is an 8x -&gt; 56x improvement.](posts/saxenism/2024-11-18-1858465176124883427.md)
+- [@saxenism — 2024-11-19 — Clocked a CRAZY REALISATION about ZkVMs.](posts/saxenism/2024-11-19-1858795693663764568.md)
+- [@saxenism — 2024-11-21 — Just a friendly reminder to all my security frens that the 500k USD UNCONDITIONAL pot from @zks](posts/saxenism/2024-11-21-1859639846773588087.md)
+- [@saxenism — 2024-11-22 — Yesterday I had someone ask, what excites me about ZKsync.](posts/saxenism/2024-11-22-1860029810908758444.md)
+- [@saxenism — 2024-11-22 — Be a Chad like @giovannidisiena &amp; follow in his footsteps!](posts/saxenism/2024-11-22-1860059201655144505.md)
+- [@saxenism — 2024-11-29 — Even a 5-year-old, but thoroughly written blog with no fluff and just the right amount of abstr](posts/saxenism/2024-11-29-1862427834394059203.md)
+- [@saxenism — 2024-12-13 — Same.](posts/saxenism/2024-12-13-1867571600234803463.md)
+- [@saxenism — 2024-12-16 — Not a top signal.](posts/saxenism/2024-12-16-1868664881546670214.md)
+- [@saxenism — 2024-12-19 — Not a top signal.](posts/saxenism/2024-12-19-1869840092325654824.md)
+- [@saxenism — 2025-01-23 — Finally Ethereum is onto what ZKsync had already been doing.](posts/saxenism/2025-01-23-1882267577730424973.md)
+- [@saxenism — 2025-03-21 — So, why should you be bullish on @zksync](posts/saxenism/2025-03-21-1902986611564089800.md)
+- [@saxenism — 2025-08-14 — ===Leaving Matter Labs / ZKSync===](posts/saxenism/2025-08-14-1955944994025390288.md)
+- [@saxenism — 2025-08-21 — This is some seriously cool stuff.](posts/saxenism/2025-08-21-1958511052867404006.md)
+- [@saxenism — 2025-08-22 — A rather elaborate hack/drain attempt on me](posts/saxenism/2025-08-22-1958796012115640471.md)
+- [@saxenism — 2025-10-13 — I'm a firm believer in Zipf’s Law of Least Effort.](posts/saxenism/2025-10-13-1977737681778946484.md)
+- [@saxenism — 2025-11-12 — This dinner is definitely going to be a banger.](posts/saxenism/2025-11-12-1988601398054015282.md)
+- [@saxenism — 2026-01-20 — Let me get into the weeds here.](posts/saxenism/2026-01-20-2013567106416287821.md)
+- [@saxenism — 2026-01-20 — Top-down learning for me, ALWAYS.](posts/saxenism/2026-01-20-2013594786469712183.md)
+- [@saxenism — 2026-01-29 — This cat got some serious zk and growth chops!!](posts/saxenism/2026-01-29-2016801638334226795.md)
+- [@saxenism — 2026-03-11 — I spent 2 years on the ZKSync internal security team.](posts/saxenism/2026-03-11-2031696386388054029.md)
+- [@saxenism — 2026-04-27 — Another day, another hack.](posts/saxenism/2026-04-27-2048725225995681964.md)
+- [@saxenism — 2026-04-28 — In the era of AI, clear thinkers will absolutely melt faces.](posts/saxenism/2026-04-28-2049095534863098076.md)
+- [@saxenism — 2026-06-23 — "Just a .pem in a public repo" is the trigger for sure, just not the bug.](posts/saxenism/2026-06-23-2069405688397447285.md)
+- [@saxenism — 2026-06-23 — This question is pretty revealing, actually. It kinda validates the DEBUG/allowlist path.](posts/saxenism/2026-06-23-2069428511082004930.md)
+- [@saxenism — 2026-06-24 — Recently I've started to get deeper into AI.](posts/saxenism/2026-06-24-2069674104328990852.md)
+- [@saxenism — 2026-09-10 — That's a fun way to teach people about under constrained soundness bugs in zk circuits.](posts/saxenism/2026-09-10-2098041491939848235.md)
+- [@zksecurityXYZ — 2026-10-11 — zknews now has tags, including supply chain security :)](posts/zksecurityXYZ/2026-10-11-2109314817500827950.md)
 - [@zksecurityXYZ — 2026-10-16 — We're proud to announce the release of zkao version 3, the most powerful zkao update we've](posts/zksecurityXYZ/2026-10-16-2110927385868571017.md)
 - [@zksecurityXYZ — 2026-10-21 — we packed the last zk podcast with zksecurity folks! mathias, giorgio, nico, and kobi talk](posts/zksecurityXYZ/2026-10-21-2112911877403758680.md)
 - [@zksecurityXYZ — 2026-10-25 — New https://zk.golf challenge ⛳️ Google ID Token Claims Extraction.](posts/zksecurityXYZ/2026-10-25-2114284396450893976.md)
@@ -419,7 +704,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 
 - **HackerOne:** [mdp_sec](researchers/mdp_sec.md), [samwcyo](researchers/samwcyo.md), [NahamSec](researchers/NahamSec.md), [fransrosen](researchers/fransrosen.md), [Rhynorater](researchers/Rhynorater.md), [zseano](researchers/zseano.md), [galnagli](researchers/galnagli.md), [xssdoctor](researchers/xssdoctor.md), [S1r1u5_](researchers/S1r1u5_.md), [kevin_mizu](researchers/kevin_mizu.md), [ajxchapman](researchers/ajxchapman.md), [0xacb](researchers/0xacb.md)
 - **Bugcrowd:** [mdp_sec](researchers/mdp_sec.md), [NahamSec](researchers/NahamSec.md), [Rhynorater](researchers/Rhynorater.md), [galnagli](researchers/galnagli.md)
-- **Immunefi:** [PwningEth](researchers/PwningEth.md), [0xriptide](researchers/0xriptide.md), [trust__90](researchers/trust__90.md), [asymmetric_re](researchers/asymmetric_re.md), [WhiteHatMage](researchers/WhiteHatMage.md), [_blockian](researchers/_blockian.md), [ma1fan](researchers/ma1fan.md), [Guhu95](researchers/Guhu95.md), [0xiczc](researchers/0xiczc.md), [Shanon40439853](researchers/Shanon40439853.md)
+- **Immunefi:** [PwningEth](researchers/PwningEth.md), [0xriptide](researchers/0xriptide.md), [trust__90](researchers/trust__90.md), [asymmetric_re](researchers/asymmetric_re.md), [WhiteHatMage](researchers/WhiteHatMage.md), [_blockian](researchers/_blockian.md), [ma1fan](researchers/ma1fan.md), [Guhu95](researchers/Guhu95.md), [0xiczc](researchers/0xiczc.md), [Shanon40439853](researchers/Shanon40439853.md), [saxenism](researchers/saxenism.md)
 - **HackenProof:** [mdp_sec](researchers/mdp_sec.md), [bbarwik](researchers/bbarwik.md), [keterka](researchers/keterka.md), [anchabadze](researchers/anchabadze.md), [_blockian](researchers/_blockian.md)
 - **Code4rena:** [trust__90](researchers/trust__90.md), [cmichelio](researchers/cmichelio.md), [keterka](researchers/keterka.md)
 - **Sherlock:** [trust__90](researchers/trust__90.md)
@@ -431,7 +716,7 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 
 ### Posts mentioning a platform
 
-#### Platform: Bugcrowd (78)
+#### Platform: Bugcrowd (79)
 
 - [@Assass1nmarcos — 2026-10-02 — I earned $8,000 for my submission on @bugcrowd #ItTakesACrowd](posts/Assass1nmarcos/2026-10-02-2106068361662922971.md)
 - [@NahamSec — 2026-11-04 — Launched my hackbot at a new target on Bugcrowd at 11:09 and by 11:32 it had its first wor](posts/NahamSec/2026-11-04-2118067189576286345.md)
@@ -463,6 +748,7 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@Swartz068 — 2026-11-02 — Bug Bounty Tip: Easy P3/P2](posts/Swartz068/2026-11-02-2117202589918114241.md)
 - [@Swartz068 — 2026-11-02 — I earned $100 for my submission on @bugcrowd #ItTakesACrowd](posts/Swartz068/2026-11-02-2117294264254435641.md)
 - [@Swartz068 — 2026-11-04 — Bug Bounty Tip #2: Old JS Secrets 🔍](posts/Swartz068/2026-11-04-2117931096726016043.md)
+- [@infosec_au — 2026-06-12 —](posts/infosec_au/2026-06-12-2065233739710697756.md)
 - [@krishnsec — 2026-08-13 — Made it into the Top 15 All-Time on @Bugcrowd](posts/krishnsec/2026-08-13-2087905595471139144.md)
 - [@krishnsec — 2026-08-18 — Crossed 18K reputation on @Bugcrowd ✅](posts/krishnsec/2026-08-18-2089703314653089816.md)
 - [@krishnsec — 2026-09-16 — Top 3 P1 Warrior globally on @Bugcrowd ✅](posts/krishnsec/2026-09-16-2100141425983881443.md)
@@ -522,7 +808,7 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@keterka — 2026-04-27 — Security researchers: which AI tools impressed you the most lately? What should I test nex](posts/keterka/2026-04-27-2048580338759155952.md)
 - [@keterka — 2026-05-27 — Results are in for @monetrix_xyz  on @code4rena.](posts/keterka/2026-05-27-2059434905482740185.md)
 
-#### Platform: HackenProof (15)
+#### Platform: HackenProof (17)
 
 - [@Piki_eth — 2026-08-28 — My local Qwen ran for 5 hours auditing a crypto project and found a strong DoS vulnerabili](posts/Piki_eth/2026-08-28-2093217981732171978.md)
 - [@Piki_eth — 2026-09-01 — The best notification: “has been paid.” 💰](posts/Piki_eth/2026-09-01-2094790419410567631.md)
@@ -539,8 +825,10 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@keterka — 2026-10-30 — Finally, a win 🥇](posts/keterka/2026-10-30-2115961607679254802.md)
 - [@keterka — 2026-10-30 — Hacker of the Week again 🔥](posts/keterka/2026-10-30-2116207308753547406.md)
 - [@mdp_sec — 2026-07-29 — It's been very interesting working on @HackenProof](posts/mdp_sec/2026-07-29-2082542340225536300.md)
+- [@saxenism — 2026-03-19 — Can someone help me w/ the said coupons?](posts/saxenism/2026-03-19-2034595139700871314.md)
+- [@saxenism — 2026-10-17 — yo! is @HackenProof down?](posts/saxenism/2026-10-17-2111553272570089975.md)
 
-#### Platform: HackerOne (61)
+#### Platform: HackerOne (64)
 
 - [@Assass1nmarcos — 2026-03-30 — Yay, I was awarded a $5,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos](posts/Assass1nmarcos/2026-03-30-2038648576335884461.md)
 - [@Assass1nmarcos — 2026-07-08 — Hello @Hacker0x01,](posts/Assass1nmarcos/2026-07-08-2074871162035986895.md)
@@ -569,10 +857,12 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@Swartz068 — 2026-10-31 — P3 to P2 on @Bugcrowd .](posts/Swartz068/2026-10-31-2116525685305139421.md)
 - [@Swartz068 — 2026-11-02 — Bug Bounty Tip: Easy P3/P2](posts/Swartz068/2026-11-02-2117202589918114241.md)
 - [@al_f4lc0n — 2026-06-03 — 3 tips for Bug Bounty Hunters:](posts/al_f4lc0n/2026-06-03-2062082215962366225.md)
+- [@fransrosen — 2024-05-03 — If you ever wanted a video about live hacking including @JonathanBouman smashing a sign sayin](posts/fransrosen/2024-05-03-1786270442795241566.md)
 - [@fransrosen — 2024-09-24 — I just won my 4th MVH at @Hacker0x01 H1-0131 in Scotland! 🤯 So sad I could not attend in p](posts/fransrosen/2024-09-24-1838679292189848033.md)
 - [@infinitelogins — 2026-04-13 — Been a minute.](posts/infinitelogins/2026-04-13-2043552103076094169.md)
 - [@infinitelogins — 2026-07-03 — For the first time in my life, I finished in the top 5 in the US on H1 for a quarter. Bug](posts/infinitelogins/2026-07-03-2073099379712671799.md)
 - [@infinitelogins — 2026-10-19 — PwnEscape escapes KVM in Vercel's $1M sandbox, @opencode's big week ends in a breach, @Ha](posts/infinitelogins/2026-10-19-2112170733228966180.md)
+- [@infosec_au — 2026-06-12 —](posts/infosec_au/2026-06-12-2065233739710697756.md)
 - [@kevin_mizu — 2026-07-09 — It was a really fun event! Thanks to @Hacker0x01 and Salesforce for the invitation!](posts/kevin_mizu/2026-07-09-2075234997246496822.md)
 - [@kevin_mizu — 2026-09-07 — A logical bug that I've reported to MariaDB has just been disclosed! 🎉](posts/kevin_mizu/2026-09-07-2097055819447550388.md)
 - [@mdp_sec — 2026-07-31 — Gotta keep score.](posts/mdp_sec/2026-07-31-2083112167575015881.md)
@@ -600,11 +890,12 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@mdp_sec — 2026-10-19 — this goes straight back into tokens :)](posts/mdp_sec/2026-10-19-2112130274310099094.md)
 - [@mdp_sec — 2026-10-30 — 13 payout emails tagged broken access control paid me $12,206](posts/mdp_sec/2026-10-30-2116080162349465978.md)
 - [@mdp_sec — 2026-11-05 — $8,000 for an auth bypass](posts/mdp_sec/2026-11-05-2118435683329310786.md)
+- [@zseano — 2026-06-02 — can we get more context on this @Hacker0x01 @senorarroz ? :D](posts/zseano/2026-06-02-2061898249439515121.md)
 - [@zseano — 2026-10-01 — some data if you're curious on active *PUBLIC* programs on hackerone :) some insight into](posts/zseano/2026-10-01-2105766060398162315.md)
 - [@zseano — 2026-10-04 — Damn how does h1 have bugs like this 🫠](posts/zseano/2026-10-04-2106711601223180342.md)
 - [@zseano — 2026-10-28 — Expedia Group Program has gone from $21k bounties paid to $250k in just 2 months. Seems pe](posts/zseano/2026-10-28-2115577340273066390.md)
 
-#### Platform: Immunefi (43)
+#### Platform: Immunefi (49)
 
 - [@0xiczc — 2023-05-26 — 1/ Recently, I discovered a vulnerability in the  @0xPolygon zkEVM and earned my first L2](posts/0xiczc/2023-05-26-1662090451493740545.md)
 - [@0xvivekd — 2026-03-17 — I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severi](posts/0xvivekd/2026-03-17-2033863076022522192.md)
@@ -649,4 +940,10 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@naresh_1337 — 2026-10-21 — Another finding, another milestone. The hunt continues......](posts/naresh_1337/2026-10-21-2112901217278214612.md)
 - [@naresh_1337 — 2026-10-26 — 8 criticals, 2 highs, and still just getting started. 🔥](posts/naresh_1337/2026-10-26-2114804871002194359.md)
 - [@samwcyo — 2026-10-18 — I’d be willing to pay $100 per report for priority triage with automated dupe checking and](posts/samwcyo/2026-10-18-2111805910448529757.md)
+- [@saxenism — 2026-07-17 — Now Immunefi tells you exactly how long ago the original report was filed in case your report i](posts/saxenism/2026-07-17-2077976177676112161.md)
+- [@saxenism — 2026-08-13 — People whose primary definition of a bug bounty platform is @immunefi seriously have no idea ho](posts/saxenism/2026-08-13-2087756149605150865.md)
+- [@saxenism — 2026-10-14 — Thank you @immunefi for sponsoring my SF visit :)](posts/saxenism/2026-10-14-2110421403757679016.md)
+- [@saxenism — 2026-10-15 — Thanks for upgrading my stay in SF @immunefi](posts/saxenism/2026-10-15-2110856315858014334.md)
+- [@saxenism — 2026-11-07 — A bunch of bounties just got processed and now @bluethroat_labs is #4 on the 90 days Immunefi l](posts/saxenism/2026-11-07-2118914993630630057.md)
+- [@saxenism — 2026-11-08 — Oh and btw this is BESIDES the fuckton of bugs that we have found, validated, reported and help](posts/saxenism/2026-11-08-2119310072182653174.md)
 

@@ -1,0 +1,817 @@
+# @Swartz068 — full verbatim X archive (security-relevant posts)
+
+_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+
+- Posts in this file: 44
+- Conversations/threads: 36
+- Oldest post captured: 2024-12-30
+- Newest post captured: 2026-11-09
+
+
+---
+
+## 2026-11-09 · Post · Never Ignore 404 Subdomains! 🔍
+
+
+Tags (automatic): XSS, SQL injection
+
+
+### Post — @Swartz068 — 2026-11-09 10:37 UTC (2026-11-09 11:37 WAT)
+
+- URL: https://x.com/Swartz068/status/2119741257019003208
+- Metrics (at fetch): bookmark 46, impression 1525, like 46, quote 0, reply 0, retweet 5
+
+> Never Ignore 404 Subdomains! 🔍
+>
+> A 404 response doesn't mean it's useless.
+>
+> 1. Find 404 subdomains.
+>
+> 2. Try Google Dork: site:https://404-subdomain.com
+>
+> 3. Look for exposed parameters, API endpoints &amp; login pages.
+>
+> 4. Test for XSS, SQLi &amp; other vulnerabilities.
+>
+> #bugbountytip #vuln
+
+**Links in post:** https://404-subdomain.com
+
+
+---
+
+## 2026-11-06 · Post · Got invited to a private program and reported a sensitive API key in a public JS file. It was marked
+
+
+### Post — @Swartz068 — 2026-11-06 10:56 UTC (2026-11-06 11:56 WAT)
+
+- URL: https://x.com/Swartz068/status/2118658727083704598
+- Metrics (at fetch): bookmark 26, impression 2364, like 53, quote 0, reply 0, retweet 1
+
+> Got invited to a private program and reported a sensitive API key in a public JS file. It was marked duplicate, so I waited for resolved.
+>
+> Later, I reported the same exposure through an old JS file on Wayback Machine.
+>
+> Final result: P3 Informational, 10 points. [pic.x.com/AjE3GyA8Kq] https://twitter.com/Swartz068/status/2117931096726016043
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWb84Aaa4AA6e0C.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Swartz068/status/2117931096726016043
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Swartz068 — 2026-11-04 10:44 UTC (2026-11-04 11:44 WAT)
+    
+    - URL: https://x.com/Swartz068/status/2117931096726016043
+    - Metrics (at fetch): bookmark 71, impression 4566, like 74, quote 1, reply 2, retweet 1
+    
+    > Bug Bounty Tip #2: Old JS Secrets 🔍
+    >
+    > 1. Collect historical URLs from Wayback Machine.
+    > 2. Find JS files like config.js, env.js, app.js.
+    > 3. Check snapshots from different years (2021, 2022, 2024, 2025). Some may contain secrets, others may not.
+    >
+    > #bugcrowd #bugbountytip #Bounty
+    
+
+
+---
+
+## 2026-11-04 · Reply · @atomicbyte_ sometimes developer do mistakes they remove file but key still works. Best security pra
+
+
+### Post — @Swartz068 — 2026-11-04 11:57 UTC (2026-11-04 12:57 WAT)
+
+- URL: https://x.com/Swartz068/status/2117949398202376373
+- Metrics (at fetch): bookmark 0, impression 228, like 1, quote 0, reply 0, retweet 0
+
+> @atomicbyte_ sometimes developer do mistakes they remove file but key still works. Best security practices is revoke key,token etc.
+
+
+---
+
+## 2026-11-04 · Thread · Bug Bounty Tip 2: Old JS Secrets 🔍
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-04 10:44 UTC (2026-11-04 11:44 WAT)
+
+- URL: https://x.com/Swartz068/status/2117931096726016043
+- Metrics (at fetch): bookmark 71, impression 4566, like 74, quote 1, reply 2, retweet 1
+
+> Bug Bounty Tip #2: Old JS Secrets 🔍
+>
+> 1. Collect historical URLs from Wayback Machine.
+> 2. Find JS files like config.js, env.js, app.js.
+> 3. Check snapshots from different years (2021, 2022, 2024, 2025). Some may contain secrets, others may not.
+>
+> #bugcrowd #bugbountytip #Bounty
+
+
+### Thread part 2 — @Swartz068 — 2026-11-04 10:47 UTC (2026-11-04 11:47 WAT)
+
+- URL: https://x.com/Swartz068/status/2117931646481813858
+- Metrics (at fetch): bookmark 0, impression 398, like 3, quote 0, reply 0, retweet 0
+
+> Root Cause: Developers remove old JS files but fail to revoke exposed secrets, API keys, and tokens. This is poor security practice.
+
+
+---
+
+## 2026-11-02 · Post · I earned $100 for my submission on @bugcrowd ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-02 16:34 UTC (2026-11-02 17:34 WAT)
+
+- URL: https://x.com/Swartz068/status/2117294264254435641
+- Metrics (at fetch): bookmark 1, impression 651, like 17, quote 0, reply 1, retweet 0
+
+> I earned $100 for my submission on @bugcrowd #ItTakesACrowd
+
+
+---
+
+## 2026-11-02 · Post · Bug Bounty Tip: Easy P3/P2
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-02 10:30 UTC (2026-11-02 11:30 WAT)
+
+- URL: https://x.com/Swartz068/status/2117202589918114241
+- Metrics (at fetch): bookmark 316, impression 10536, like 290, quote 0, reply 8, retweet 29
+
+> Bug Bounty Tip: Easy P3/P2
+>
+> 1. Fetch Wayback URLs → save to urls.txt.
+> 2. Find JWTs: cat urls.txt | grep -Ei 'eyJ'
+> 3. Decode them on https://jwt.io.
+> 4. Check for exposed email, name, user ID, roles, or other PII.
+>
+> #bugcrowd #bugbountytip #hackerone #bounty
+
+**Links in post:** https://jwt.io
+
+
+---
+
+## 2026-10-31 · Post · P3 to P2 on @Bugcrowd .
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-10-31 13:40 UTC (2026-10-31 14:40 WAT)
+
+- URL: https://x.com/Swartz068/status/2116525685305139421
+- Metrics (at fetch): bookmark 1, impression 2061, like 50, quote 0, reply 1, retweet 0
+
+> P3 to P2 on @Bugcrowd .
+>
+> #bugcrowd #p2 #hackerone #bugbountytips #bugbounty [pic.x.com/hAdQ9OIbnu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HV9o4weaAAEKtvF.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-20 · Post · Meta’s Bug Bounty Program has been one of the worst in my experience regarding response time and tra
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-10-20 17:07 UTC (2026-10-20 18:07 WAT)
+
+- URL: https://x.com/Swartz068/status/2112591482884628659
+- Metrics (at fetch): bookmark 1, impression 1614, like 12, quote 0, reply 3, retweet 0
+
+> Meta’s Bug Bounty Program has been one of the worst in my experience regarding response time and transparency. One of my reports has been pending for 6+ months with no final response, only pre-triage.
+>
+> #meta #instagram #facebook  #bug #vulnerability #bugcrowd @metabugbounty [pic.x.com/TrBajwMXcn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVFuwMfbcAApuQd.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-15 · Thread · 11 reports triaged on the same target on @Bugcrowd.
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-10-15 13:42 UTC (2026-10-15 14:42 WAT)
+
+- URL: https://x.com/Swartz068/status/2110728116180226209
+- Metrics (at fetch): bookmark 6, impression 4017, like 51, quote 0, reply 4, retweet 2
+
+> 11 reports triaged on the same target on @Bugcrowd.
+>
+> Gyan du: Dear hackers, be loyal to your target. Loyalty always pays off when you invest your time in the right targets and the right people.
+>
+> #bugcrowd #hackerone #BugBountyTips #cybersecurity #hacking #bounty [pic.x.com/86jS4nMW5A]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUrQBwhaUAAASLT.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Swartz068 — 2026-10-15 13:54 UTC (2026-10-15 14:54 WAT)
+
+- URL: https://x.com/Swartz068/status/2110731122317639687
+- Metrics (at fetch): bookmark 0, impression 129, like 1, quote 0, reply 1, retweet 0
+
+> @Damtap12 @Bugcrowd Bro some reports are taken 2-5 days but few are taken more than 1 months for Traiged.
+
+
+### Thread part 3 — @Swartz068 — 2026-10-15 14:15 UTC (2026-10-15 15:15 WAT)
+
+- URL: https://x.com/Swartz068/status/2110736355903013266
+- Metrics (at fetch): bookmark 0, impression 57, like 0, quote 0, reply 0, retweet 0
+
+> @Damtap12 @Bugcrowd Check you dm
+
+
+### Thread part 4 — @Swartz068 — 2026-10-15 16:34 UTC (2026-10-15 17:34 WAT)
+
+- URL: https://x.com/Swartz068/status/2110771221965283799
+- Metrics (at fetch): bookmark 0, impression 102, like 0, quote 0, reply 0, retweet 0
+
+> @Edx103 @Bugcrowd yeah most of bugcrowd 's triager are really very good  but few are very.....very bad without any reason  they closed reports Not applicable.
+
+
+### Thread part 5 — @Swartz068 — 2026-10-15 17:27 UTC (2026-10-15 18:27 WAT)
+
+- URL: https://x.com/Swartz068/status/2110784539757015170
+- Metrics (at fetch): bookmark 0, impression 64, like 1, quote 0, reply 1, repost 0
+
+> @EliotGeo @Bugcrowd $0 , in Era of Ai &amp; automation I focusing on manual testing &amp; reading-studing new attacks.
+
+
+### Thread part 6 — @Swartz068 — 2026-10-16 07:31 UTC (2026-10-16 08:31 WAT)
+
+- URL: https://x.com/Swartz068/status/2110996965148266599
+- Metrics (at fetch): bookmark 0, impression 49, like 0, quote 0, reply 0, repost 0
+
+> @1111whiteGkep @Bugcrowd Target matter bro , I always choose wild card domain program
+
+
+---
+
+## 2026-10-08 · Post · 10 reports triaged on a single program on @Bugcrowd. Now targeting 25 valid reports on this program.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-10-08 21:23 UTC (2026-10-08 22:23 WAT)
+
+- URL: https://x.com/Swartz068/status/2108307317322379620
+- Metrics (at fetch): bookmark 8, impression 3516, like 46, quote 0, reply 3, retweet 0
+
+> 10 reports triaged on a single program on @Bugcrowd. Now targeting 25 valid reports on this program. 15 more to go! 🚀
+>
+> #Bugcrowd #BugBounty #Triaged #Vulnerability #CyberSecurity #BugBountyTips [pic.x.com/2dN7DdXuSk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUI2U_XawAAV3k0.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-29 · Thread · 3 reports Triaged today. Currently my 10 reports Successfully Triaged by Bugcrowd ASE Team. 9 report
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-09-29 11:17 UTC (2026-09-29 12:17 WAT)
+
+- URL: https://x.com/Swartz068/status/2104893407655305597
+- Metrics (at fetch): bookmark 7, impression 2289, like 67, quote 0, reply 4, retweet 0
+
+> 3 reports Triaged today. Currently my 10 reports Successfully Triaged by Bugcrowd ASE Team. 9 reports Triaged on single Program out of 10  Triaged reports. [pic.x.com/kTE7B5mu3B]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTYVZTpa8AAbMdT.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Swartz068 — 2026-10-05 16:22 UTC (2026-10-05 17:22 WAT)
+
+- URL: https://x.com/Swartz068/status/2107144501672513968
+- Metrics (at fetch): bookmark 0, impression 79, like 0, quote 0, reply 1, retweet 0
+
+> @Damtap12 Worstest time response of bugcrowd now.
+
+
+---
+
+## 2026-09-26 · Post · @tech_Shreya_200 LoL 😆 achieved Hall of Fame in govt organizations is very easy you have only good k
+
+
+### Post — @Swartz068 — 2026-09-26 21:12 UTC (2026-09-26 22:12 WAT)
+
+- URL: https://x.com/Swartz068/status/2103955846980091915
+- Metrics (at fetch): bookmark 0, impression 58, like 1, quote 0, reply 1, retweet 0
+
+> @tech_Shreya_200 LoL 😆 achieved Hall of Fame in govt organizations is very easy you have only good knowledge of vulnerability &amp; it's impact. I am also 11th grade student. I have received multiple Hall of Fame in govt . Organization &amp; Companies .I also earned multiple payouts from bug bounty.
+
+
+---
+
+## 2026-09-24 · Post · @lostsec_ @__nav1n_ Lol 😆 I found 2 bug standford university within 15 minutes 😅. If you have  good 
+
+
+### Post — @Swartz068 — 2026-09-24 21:34 UTC (2026-09-24 22:34 WAT)
+
+- URL: https://x.com/Swartz068/status/2103236715263787373
+- Metrics (at fetch): bookmark 1, impression 81, like 1, quote 0, reply 0, retweet 0
+
+> @lostsec_ @__nav1n_ Lol 😆 I found 2 bug standford university within 15 minutes 😅. If you have  good knowledge &amp; understanding of vulnerability, finding vulnerability in vdp program &amp; govt. Organization is not very Hard task .
+
+
+---
+
+## 2026-09-10 · Thread · One more Triaged on @Bugcrowd 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-09-10 15:48 UTC (2026-09-10 16:48 WAT)
+
+- URL: https://x.com/Swartz068/status/2098076274497626251
+- Metrics (at fetch): bookmark 1, impression 1023, like 25, quote 0, reply 3, retweet 0
+
+> One more Triaged on @Bugcrowd 
+>
+> #Bugcrowd #bountytips #cyber #hackerone #securityresearcher #secured [pic.x.com/D24KT5nn3Z]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HR3dPmdaEAANavk.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Swartz068 — 2026-09-10 21:00 UTC (2026-09-10 22:00 WAT)
+
+- URL: https://x.com/Swartz068/status/2098154597810577501
+- Metrics (at fetch): bookmark 0, impression 62, like 1, quote 0, reply 0, retweet 0
+
+> @Hunt3rboy0x01 @Bugcrowd 😊
+
+
+---
+
+## 2026-08-24 · Post · 2 x Duplicate on @Bugcrowd
+
+
+Tags (automatic): IDOR / BOLA, Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-24 11:45 UTC (2026-08-24 12:45 WAT)
+
+- URL: https://x.com/Swartz068/status/2091854507970081180
+- Metrics (at fetch): bookmark 5, impression 1328, like 39, quote 0, reply 3, retweet 0
+
+> 2 x Duplicate on @Bugcrowd
+>
+> #bugcrowd #bounty #bugbountytips 
+> #hackerone #idor [pic.x.com/Q6aJv7SEM4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQfCldxbUAAle8G.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-18 · Post · 2P4 Triaged on @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-18 12:51 UTC (2026-08-18 13:51 WAT)
+
+- URL: https://x.com/Swartz068/status/2089696717293924676
+- Metrics (at fetch): bookmark 2, impression 2006, like 45, quote 0, reply 3, retweet 0
+
+> 2P4 Triaged on @Bugcrowd 
+> #bug #bugcrowd #BugBounty #CyberSecurity #bugbountytips https://t.co/SrVujuHIWs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQAYFYya4AA7SdF.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ 3909 isn’t my destination. It’s just a c
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 15:02 UTC (2026-08-13 16:02 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917621702516893
+- Metrics (at fetch): bookmark 0, impression 229, like 2, quote 0, reply 0, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ #3909 isn’t my destination. It’s just a checkpoint.
+>
+> I’m still an 11th-class student.
+> Still learning.
+> Still making mistakes.
+> Still hunting.
+> Still building.
+>
+> Born in India. 🇮🇳
+> Learning from the world. 🌎
+> Building for the future. 🔐
+>
+> This is only the beginning.
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I don't want recognition simply because I
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 15:01 UTC (2026-08-13 16:01 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917481663033619
+- Metrics (at fetch): bookmark 0, impression 552, like 2, quote 1, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I don't want recognition simply because I’m young.
+>
+> I don't want recognition simply because I’m Indian.
+>
+> I want my work to become the reason people remember me.
+>
+> I want to build.
+> I want to secure.
+> I want to create.
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe one day I’ll work for a global cybe
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 15:01 UTC (2026-08-13 16:01 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917371629752503
+- Metrics (at fetch): bookmark 0, impression 234, like 1, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe one day I’ll work for a global cybersecurity company or contribute to protecting systems used by millions around the world.
+>
+> And if someone proudly says:
+>
+> “He was born in India.” 🇮🇳
+>
+> I’ll remember exactly where my journey began.
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe someday Indian media will notice my
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 15:00 UTC (2026-08-13 16:00 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917164925702205
+- Metrics (at fetch): bookmark 0, impression 245, like 1, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe someday Indian media will notice my journey.
+>
+> Maybe someday someone will ask how an 11th-class student started learning cybersecurity and turned that curiosity into something meaningful.
+>
+> Until then, I’ll let my work speak for me.
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ But sometimes, quietly, I ask myself:
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 14:59 UTC (2026-08-13 15:59 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917002174423423
+- Metrics (at fetch): bookmark 0, impression 247, like 1, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ But sometimes, quietly, I ask myself:
+>
+> “When will someone tell our story too?”
+>
+> There are young researchers working late into the night with nothing but a laptop, curiosity, and a dream.
+>
+> No cameras. No headlines. Just purpose.
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve seen other Gen-Z students receive re
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 14:59 UTC (2026-08-13 15:59 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916884486504835
+- Metrics (at fetch): bookmark 0, impression 282, like 2, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve seen other Gen-Z students receive recognition after discovering vulnerabilities in platforms like IIT Kanpur, CBSE and NEET.
+>
+> I’m genuinely happy for them.
+>
+> Their stories inspire me because they show that young people can create real impact.
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’m grateful to have received Hall of Fam
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 14:58 UTC (2026-08-13 15:58 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916754328809485
+- Metrics (at fetch): bookmark 0, impression 278, like 2, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’m grateful to have received Hall of Fame recognition from Linktree, Zola, NASA, Kohl’s, Bugcrowd and others. 🏆
+>
+> As an 11th-class student, these moments mean more than a badge on a profile.
+>
+> They remind me that age doesn't define impact.
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve reported vulnerabilities across vari
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 14:57 UTC (2026-08-13 15:57 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916563294998634
+- Metrics (at fetch): bookmark 0, impression 303, like 4, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve reported vulnerabilities across various organizations—not because I wanted fame, but because I genuinely love understanding technology and helping make it safer.
+>
+> For me, finding a vulnerability is not the finish line. Getting it fixed is. 🔐
+
+
+---
+
+## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Behind those points are countless nights 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 14:57 UTC (2026-08-13 15:57 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916482063974788
+- Metrics (at fetch): bookmark 0, impression 322, like 4, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Behind those points are countless nights of learning cybersecurity, testing, failing, facing duplicates and rejected reports, learning from mistakes, and trying again.
+>
+> Every failure taught me something. Every success gave me another reason to continue.
+
+
+---
+
+## 2026-08-13 · Post · I’m an 11th-class student from India 🇮🇳
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-08-13 14:56 UTC (2026-08-13 15:56 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916206489792531
+- Metrics (at fetch): bookmark 10, impression 5843, like 75, quote 0, reply 11, retweet 0
+
+> I’m an 11th-class student from India 🇮🇳
+>
+> Today, my Bugcrowd profile stands at #3909 with 82 all-time points.
+>
+> To others, it may be just a rank.
+> To me, it represents a journey that is only beginning. 
+>
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ https://t.co/MIMKGyhPsp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPnEcZCbMAAsECb.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-15 · Post · Only 5 hours late reported and lost $12000. It is really hurt 😞 @coffinxp7 @Bugcrowd https://t.co/IN
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-08-15 08:59 UTC (2025-08-15 09:59 WAT)
+
+- URL: https://x.com/Swartz068/status/1956279627531297237
+- Metrics (at fetch): bookmark 32, impression 12675, like 193, quote 0, reply 14, retweet 0
+
+> Only 5 hours late reported and lost $12000. It is really hurt 😞 @coffinxp7 @Bugcrowd https://t.co/INI6HiT57T
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyYZ9CeWkAIpHsY.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-24 · Post · I earned $150 for my submission on @bugcrowd https://bugcrowd.com/rajcyber068 ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-05-24 16:30 UTC (2025-05-24 17:30 WAT)
+
+- URL: https://x.com/Swartz068/status/1926314948730212394
+- Metrics (at fetch): bookmark 2, impression 2063, like 61, quote 0, reply 0, retweet 1
+
+> I earned $150 for my submission on @bugcrowd https://bugcrowd.com/rajcyber068 #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rajcyber068
+
+
+---
+
+## 2025-05-23 · Post · I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rajcyber068 ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-05-23 08:27 UTC (2025-05-23 09:27 WAT)
+
+- URL: https://x.com/Swartz068/status/1925830838215713120
+- Metrics (at fetch): bookmark 0, impression 1490, like 49, quote 0, reply 0, retweet 1
+
+> I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rajcyber068 #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rajcyber068
+
+
+---
+
+## 2025-05-22 · Post · Bugcrowd vulnerability CyberSecurity bounty 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-05-22 13:24 UTC (2025-05-22 14:24 WAT)
+
+- URL: https://x.com/Swartz068/status/1925543233980944733
+- Metrics (at fetch): bookmark 6, impression 3216, like 72, quote 0, reply 3, retweet 2
+
+> #Bugcrowd #vulnerability #CyberSecurity #bounty 
+> Another two Triaged on Bugcrowd. 
+> Thanks @coffinxp7 [pic.x.com/ZFAuhBCTGR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrjnXK4XAAE0Wy_.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-09 · Post · Thanks @Bugcrowd @BugcrowdSupport [pic.x.com/WYDzxgivya]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-05-09 02:25 UTC (2025-05-09 03:25 WAT)
+
+- URL: https://x.com/Swartz068/status/1920666284674486780
+- Metrics (at fetch): bookmark 3, impression 2017, like 70, quote 0, reply 0, retweet 2
+
+> Thanks @Bugcrowd @BugcrowdSupport [pic.x.com/WYDzxgivya]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqeTzRWWgAA1P1g.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-01 · Post · 2nd bounty $$$ Thanks Bugcrowd and coffinxp7 @Bugcrowd [pic.x.com/c166073suk]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-05-01 05:48 UTC (2025-05-01 06:48 WAT)
+
+- URL: https://x.com/Swartz068/status/1917818356075241711
+- Metrics (at fetch): bookmark 10, impression 4161, like 123, quote 0, reply 3, retweet 3
+
+> 2nd bounty $$$ Thanks #Bugcrowd and #coffinxp7 @Bugcrowd [pic.x.com/c166073suk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gp11oAAW0AAJ3fq.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-28 · Post · My First bounty.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-04-28 17:49 UTC (2025-04-28 18:49 WAT)
+
+- URL: https://x.com/Swartz068/status/1916912622118600882
+- Metrics (at fetch): bookmark 39, impression 12054, like 338, quote 0, reply 18, retweet 11
+
+> My First bounty.
+> Thanks you @coffinxp7 @Bugcrowd [pic.x.com/mP8WpRQVTC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gpo93TnXwAAzFy8.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-18 · Post · 1st P1 in nasa-vdp on Bugcrowd P1 Bugcrowd CyberSecurity Bughunting hacking https://t.co/Hg69Mv
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-04-18 12:32 UTC (2025-04-18 13:32 WAT)
+
+- URL: https://x.com/Swartz068/status/1913208921524732280
+- Metrics (at fetch): bookmark 5, impression 3844, like 70, quote 0, reply 3, retweet 0
+
+> 1st P1 in nasa-vdp on Bugcrowd #P1 #Bugcrowd #CyberSecurity #Bughunting #hacking https://t.co/Hg69Mvr4Oj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Go0VX9pXIAAOP59.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-24 · Post · My First finding CSRF vulnerability 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2025-03-24 14:17 UTC (2025-03-24 15:17 WAT)
+
+- URL: https://x.com/Swartz068/status/1904175824930246856
+- Metrics (at fetch): bookmark 10, impression 3447, like 76, quote 0, reply 1, retweet 0
+
+> My First finding CSRF vulnerability 
+> #bugcrowd #hackerone #hacking #cybersecurity #bugbountytips #Swartz068 #Swartz068 https://t.co/myYgIF8UqF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gmz90EfacAAY9YX.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-30 · Post · My First critical vulnerability. https://t.co/qT9m03lETA
+
+
+### Post — @Swartz068 — 2024-12-30 04:04 UTC (2024-12-30 05:04 WAT)
+
+- URL: https://x.com/Swartz068/status/1873580825364861096
+- Metrics (at fetch): bookmark 21, impression 10134, like 212, quote 1, reply 11, retweet 2
+
+> My First critical vulnerability. https://t.co/qT9m03lETA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgBL0pBbwAAekO3.jpg — no alt text provided by author

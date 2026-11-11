@@ -1,0 +1,421 @@
+# @Kiki_developer — full verbatim X archive (security-relevant posts)
+
+_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+
+- Posts in this file: 27
+- Conversations/threads: 21
+- Oldest post captured: 2025-12-02
+- Newest post captured: 2026-10-19
+
+
+---
+
+## 2026-10-19 · Post · 👀 https://twitter.com/CybaSecurity/status/2112167771505365029
+
+
+### Post — @Kiki_developer — 2026-10-19 18:38 UTC (2026-10-19 19:38 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2112252098205397450
+- Metrics (at fetch): bookmark 1, impression 283, like 4, quote 0, reply 0, retweet 0
+
+> 👀 https://twitter.com/CybaSecurity/status/2112167771505365029
+
+**Links in post:** https://twitter.com/CybaSecurity/status/2112167771505365029
+
+**Quoted post** 2112167771505365029: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-01 · Post · @dannygfromnyc @windhustler Canes undefeated
+
+
+### Post — @Kiki_developer — 2026-10-01 14:21 UTC (2026-10-01 15:21 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2105664281366913503
+- Metrics (at fetch): bookmark 0, impression 31, like 0, quote 0, reply 0, retweet 0
+
+> @dannygfromnyc @windhustler Canes undefeated
+
+
+---
+
+## 2026-08-19 · Post · @devtooligan Congrats! Been great seeing all the success come your way!
+
+
+### Post — @Kiki_developer — 2026-08-19 17:54 UTC (2026-08-19 18:54 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2090135405480026574
+- Metrics (at fetch): bookmark 0, impression 103, like 3, quote 0, reply 1, retweet 0
+
+> @devtooligan Congrats! Been great seeing all the success come your way!
+
+
+---
+
+## 2026-06-30 · Post · @0xcuriousapple I’m sure it wasn’t an easy choice, the guys at Guardians are truly some of the best 
+
+
+### Post — @Kiki_developer — 2026-06-30 19:41 UTC (2026-06-30 20:41 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2072042779421946289
+- Metrics (at fetch): bookmark 0, impression 247, like 2, quote 0, reply 0, retweet 0
+
+> @0xcuriousapple I’m sure it wasn’t an easy choice, the guys at Guardians are truly some of the best to work with 
+>
+> Best of luck in what’s next I’m excited to see what you build!
+
+
+---
+
+## 2026-06-27 · Post · @abarbatei Was just looking for something like this. Looking forward to giving it a read!
+
+
+### Post — @Kiki_developer — 2026-06-27 17:02 UTC (2026-06-27 18:02 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2070915661606653999
+- Metrics (at fetch): bookmark 0, impression 303, like 3, quote 0, reply 1, retweet 0
+
+> @abarbatei Was just looking for something like this. Looking forward to giving it a read!
+
+
+---
+
+## 2026-05-13 · Post · Truly trailblazers. C4 created a path where there wasn’t one and a global community for so many of u
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Kiki_developer — 2026-05-13 13:55 UTC (2026-05-13 14:55 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2054561268170956974
+- Metrics (at fetch): bookmark 1, impression 733, like 16, quote 0, reply 1, retweet 1
+
+> Truly trailblazers. C4 created a path where there wasn’t one and a global community for so many of us to actually make a career in this space. 
+>
+> Change is apart of life but It’s sad nonetheless to see C4 come to an end.
+>
+> Thank you C4 🙏 https://twitter.com/code4rena/status/2054492081876324458
+
+**Links in post:** https://twitter.com/code4rena/status/2054492081876324458
+
+**Quoted post** 2054492081876324458: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-03-11 · Reply · @CybaSecurity @abarbatei Looking forward to reading the report! 👀
+
+
+### Post — @Kiki_developer — 2026-03-11 19:44 UTC (2026-03-11 20:44 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2031818562093064576
+- Metrics (at fetch): bookmark 0, impression 170, like 4, quote 0, reply 0, retweet 0
+
+> @CybaSecurity @abarbatei Looking forward to reading the report! 👀
+
+
+---
+
+## 2026-03-04 · Post · GregoAi is getting better and better https://twitter.com/therealgregoAI/status/2029144265800970664
+
+
+### Post — @Kiki_developer — 2026-03-04 15:49 UTC (2026-03-04 16:49 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2029222800725295287
+- Metrics (at fetch): bookmark 0, impression 634, like 6, quote 0, reply 0, retweet 0
+
+> GregoAi is getting better and better https://twitter.com/therealgregoAI/status/2029144265800970664
+
+**Links in post:** https://twitter.com/therealgregoAI/status/2029144265800970664
+
+**Quoted post** 2029144265800970664: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-02-17 · Post · @0xSorryNotSorry Woohoo 🎉
+
+
+### Post — @Kiki_developer — 2026-02-17 18:23 UTC (2026-02-17 19:23 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2023825584003133691
+- Metrics (at fetch): bookmark 0, impression 94, like 1, quote 0, reply 0, retweet 0
+
+> @0xSorryNotSorry Woohoo 🎉
+
+
+---
+
+## 2026-02-13 · Post · @abarbatei Gold indeed! Thanks for sharing these
+
+
+### Post — @Kiki_developer — 2026-02-13 21:10 UTC (2026-02-13 22:10 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2022418225011789839
+- Metrics (at fetch): bookmark 0, impression 114, like 1, quote 0, reply 1, retweet 0
+
+> @abarbatei Gold indeed! Thanks for sharing these
+
+
+---
+
+## 2026-02-13 · Post · @0xSorryNotSorry @spenserhuang I literally read it differently thinking it was a name
+
+
+### Post — @Kiki_developer — 2026-02-13 21:09 UTC (2026-02-13 22:09 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2022417925874094186
+- Metrics (at fetch): bookmark 0, impression 27, like 1, quote 0, reply 0, retweet 0
+
+> @0xSorryNotSorry @spenserhuang I literally read it differently thinking it was a name
+
+
+---
+
+## 2026-02-09 · Post · If you deployed or are deploying on @megaeth dm me
+
+
+### Post — @Kiki_developer — 2026-02-09 18:22 UTC (2026-02-09 19:22 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2020926404934967429
+- Metrics (at fetch): bookmark 1, impression 947, like 8, quote 0, reply 1, retweet 1
+
+> If you deployed or are deploying on @megaeth dm me
+
+
+---
+
+## 2026-02-06 · Thread · Seeing all of the blockchain/dlt bounty awards posted makes me think two things. 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @Kiki_developer — 2026-02-06 21:05 UTC (2026-02-06 22:05 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2019880082496766365
+- Metrics (at fetch): bookmark 9, impression 2166, like 29, quote 0, reply 3, retweet 0
+
+> Seeing all of the blockchain/dlt bounty awards posted makes me think two things. 
+>
+> 1. I really should expand beyond smart contract level security
+>
+> 2. How have there not been more blockchain level hacks?
+
+
+### Thread part 2 — @Kiki_developer — 2026-02-09 07:04 UTC (2026-02-09 08:04 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2020755717893054791
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, retweet 0
+
+> @cicada_HQ Great points, appreciate the insight!
+
+
+---
+
+## 2026-02-07 · Post · @kamensec I was planning on making this same poll haha
+
+
+### Post — @Kiki_developer — 2026-02-07 06:19 UTC (2026-02-07 07:19 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2020019664806699484
+- Metrics (at fetch): bookmark 0, impression 226, like 1, quote 0, reply 0, retweet 0
+
+> @kamensec I was planning on making this same poll haha
+
+
+---
+
+## 2026-02-05 · Post · Maybe I’m out of the loop but what’s wrong with an unpaid internship? And how many better options ar
+
+
+### Post — @Kiki_developer — 2026-02-05 04:28 UTC (2026-02-05 05:28 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2019266817634816223
+- Metrics (at fetch): bookmark 3, impression 2546, like 35, quote 1, reply 6, retweet 0
+
+> Maybe I’m out of the loop but what’s wrong with an unpaid internship? And how many better options are there?
+>
+> - Contest are scarce and I don’t see that trend changing. 
+> - bounties can be a headache for those that are successful let alone people that are just starting out.  
+> - Contracting gigs without a network or portfolio are few and far between. 
+>
+> Obviously if you can make any of the above three work then it’s a no brainer go do that. 
+>
+> But if I started my career in 2026 instead of 2022 I would strongly consider an internship. The value of working through the entire lifecycle of an audit, learning from experienced auditors, building up a portfolio isn’t worthless. It’s actually pretty valuable
+
+
+---
+
+## 2026-02-03 · Post · Excited to see a great friend and an amazing auditor start his own firm! Truly @abarbatei is one of 
+
+
+### Post — @Kiki_developer — 2026-02-03 17:38 UTC (2026-02-03 18:38 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2018740911296204850
+- Metrics (at fetch): bookmark 0, impression 964, like 12, quote 0, reply 1, retweet 0
+
+> Excited to see a great friend and an amazing auditor start his own firm! Truly @abarbatei is one of the most thorough auditors I’ve worked with! https://twitter.com/CybaSecurity/status/2018736389878173979
+
+**Links in post:** https://twitter.com/CybaSecurity/status/2018736389878173979
+
+**Quoted post** 2018736389878173979: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-30 · Thread · This was the best bounty experience I’ve ever had. 
+
+
+### Post — @Kiki_developer — 2026-01-30 18:54 UTC (2026-01-30 19:54 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2017310553140826310
+- Metrics (at fetch): bookmark 2, impression 6104, like 48, quote 0, reply 6, retweet 4
+
+> This was the best bounty experience I’ve ever had. 
+>
+> Not only were they quick to fix the issue and had no issue offering a very fair resolution
+>
+> But they were ultra responsive. Sending consistent updates on where they were at on their end and proactive in resolving any bottlenecks!
+>
+> The complete opposite of some other protocols I’ve dealt with where at best resolving your report is not a priority, and at worst they are actively trying to get out of resolving the report. 
+>
+> The ones that make security a priority like the one here I’ll 100% come back to their bounty program again and again and again
+
+**Links in post:** https://twitter.com/Kiki_developer/status/2016898778209669412
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Kiki_developer — 2026-01-29 15:38 UTC (2026-01-29 16:38 WAT)
+    
+    - URL: https://x.com/Kiki_developer/status/2016898778209669412
+    - Metrics (at fetch): bookmark 4, impression 7264, like 43, quote 1, reply 2, retweet 0
+    
+    > I just found a bug and got paid on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=medium&status=paid&gifId=2&programType=bug-bounty
+    
+    **Links in post:** https://immunefi.com/s/ss/?severity=medium&status=paid&gifId=2&programType=bug-bounty
+    
+
+
+### Thread part 2 — @Kiki_developer — 2026-01-31 05:35 UTC (2026-01-31 06:35 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2017471842534232513
+- Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 0, retweet 0
+
+> @veritas_web3 💪
+
+
+### Thread part 3 — @Kiki_developer — 2026-01-31 05:37 UTC (2026-01-31 06:37 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2017472293765800443
+- Metrics (at fetch): bookmark 0, impression 102, like 1, quote 0, reply 0, retweet 0
+
+> @abarbatei @0xMackenzieM Hmm that’s a good question I try and air on the side of caution and just not name names regardless of good or bad. But you are right this would definitely be on the “good” side of publicity for them
+
+
+### Thread part 4 — @Kiki_developer — 2026-01-31 05:38 UTC (2026-01-31 06:38 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2017472477165945231
+- Metrics (at fetch): bookmark 0, impression 51, like 1, quote 0, reply 0, repost 0
+
+> @mylifechangefa1 Just a medium. Not the best payout ever but best experience 😄
+
+
+---
+
+## 2026-01-29 · Thread · I just found a bug and got paid on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=medi
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2026-01-29 15:38 UTC (2026-01-29 16:38 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2016898778209669412
+- Metrics (at fetch): bookmark 4, impression 7264, like 43, quote 1, reply 2, retweet 0
+
+> I just found a bug and got paid on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=medium&status=paid&gifId=2&programType=bug-bounty
+
+**Links in post:** https://immunefi.com/s/ss/?severity=medium&status=paid&gifId=2&programType=bug-bounty
+
+
+### Thread part 2 — @Kiki_developer — 2026-01-30 03:02 UTC (2026-01-30 04:02 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2017070993265844325
+- Metrics (at fetch): bookmark 0, impression 273, like 1, quote 0, reply 1, retweet 0
+
+> @mylifechangefa1 @immunefi 🤷‍♂️
+
+
+---
+
+## 2026-01-29 · Thread · An extra incentive would be great, tbh even just keeping track of all the old assets would be benefi
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @WhiteHatMage — 2026-01-29 16:48 UTC (2026-01-29 17:48 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2016916379367035002
+- Metrics (at fetch): bookmark 1, impression 1579, like 30, quote 0, reply 3, retweet 0
+
+> Here's what you can do to secure your old assets:  Add a bonus on top of the expected bounty reward for them. 
+>
+> In your token, or vested payments, or anything of value that incentivizes good actors to check those assets.
+>
+> You only pay for real issues.
+
+
+### Post — @Kiki_developer — 2026-01-29 17:24 UTC (2026-01-29 18:24 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2016925457271361718
+- Metrics (at fetch): bookmark 0, impression 211, like 5, quote 0, reply 1, retweet 0
+
+> An extra incentive would be great, tbh even just keeping track of all the old assets would be beneficial for some protocols. 
+>
+> I remember on one bounty a protocol forgot that they gave an old contract privileged access to one of their functions which allowed anyone to bypass their cooldown restrictions. 
+>
+> It was left vulnerable for a couple years I believe. But honestly it wasn’t a complex bug, if the protocol kept track of all their old assets it would have been found quickly. I only stumbled on it because I was digging into what calls the “owner” made.
+
+
+### Thread part 2 — @Kiki_developer — 2026-01-30 03:02 UTC (2026-01-30 04:02 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2017070773366935675
+- Metrics (at fetch): bookmark 0, impression 14, like 3, quote 0, reply 0, retweet 0
+
+> @veritas_web3 @WhiteHatMage Thankfully the protocol had pretty low tvl !
+
+
+---
+
+## 2026-01-28 · Post · Ironically, I reported this identical bug to a different protocol and with zero pushback, it was res
+
+
+### Post — @Kiki_developer — 2026-01-28 15:14 UTC (2026-01-28 16:14 WAT)
+
+- URL: https://x.com/Kiki_developer/status/2016530202659111141
+- Metrics (at fetch): bookmark 0, impression 429, like 8, quote 0, reply 0, retweet 0
+
+> Ironically, I reported this identical bug to a different protocol and with zero pushback, it was resolved, fixed, and paid out as a high.
+>
+> Well... not the case here. But you can't win 'em all I suppose. And regardless, even the losses make good comics! https://t.co/Tln8gWQ1P9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_uHA7JbsAAaq99.png — no alt text provided by author
+
+
+---
+
+## 2025-12-02 · Post · Some doubt they’ll ever find another bounty. Others doubt if they’ll ever get another auditing gig
+
+
+### Post — @Kiki_developer — 2025-12-02 17:49 UTC (2025-12-02 18:49 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1995913280846790682
+- Metrics (at fetch): bookmark 2, impression 38772, like 18, quote 0, reply 5, retweet 1
+
+> Some doubt they’ll ever find another bounty. Others doubt if they’ll ever get another auditing gig
+>
+> Nobody…  has ever doubted, if there will be more drama on CT https://t.co/aVqojWEjHb

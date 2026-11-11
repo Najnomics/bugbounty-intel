@@ -324,3 +324,12 @@ Full HTTP requests, wildcard payloads, WAF-bypass SQL, XSS polyglots, Algolia cu
 - Any Marius du Preez report with full disclosed detail (0 disclosed on HackerOne and HackenProof; Bugcrowd gated). His per-report detail exists only in his own X posts.
 - His X posts from 2026-03-24 to 2026-07-21 (before the timeline API's reach limit).
 - Bugcrowd per-researcher disclosures (authenticated hacker portal).
+
+## Nov 2026 — saxenism + protocol advisories + backfill
+
+- **@saxenism**: 27 timeline pages via `get_users_posts` (exclude replies/retweets); 470 original-post files, 2024-10-01 → 2026-11-10. Timeline API floor (next_token null). Linked writeups: dumb-ways-to-get-rekt-with-tees, TEE handbook, Argument.xyz RISC-V, Bluethroat docs, Turnkey whitepaper. Reveries SPA yielded no article bodies.
+- **Zcash GHSA**: zcash/zcash (9), ZcashFoundation/zebra (52+1), zcash/lightwalletd (13), ZcashFoundation/frost (1) → 76 advisories under `projects/zcash/`. SECURITY.md from zcashd and zebra.
+- **Ethereum GHSA**: ethereum/go-ethereum (17+9 global), sigp/lighthouse (8) → 34 under `projects/ethereum/`. Canonical Solidity `bugs.json` (67). SECURITY.md from geth and solidity.
+- **Solana**: Anza/solana-labs GHSA returned 0 published; OSV crates.io + RustSec → 9 advisories (solana_rbpf, anchor-lang, spl-token-swap). Agave SECURITY.md saved.
+- **Crypto**: 76 RustSec crypto-crate advisories (openssl mirrors omitted) + 0xPARC zk-bug-tracker README under `projects/crypto/`.
+- **Backfill (partial)**: first/second timeline pages for fransrosen, albinowax, garethheyes, kevin_mizu, infosec_au, samwcyo, orange_8361, samczsun, jovanbulck, lonelysloth_sec, 0xiczc, zksecurityXYZ, _bagipro, j00ru, zseano, irsdl, galnagli — new posts merged into existing `posts/<handle>/` folders. Many accounts still thin (see report).
