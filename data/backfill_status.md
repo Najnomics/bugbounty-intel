@@ -12,20 +12,20 @@ Generated 2026-11-11. Counts are posts in `posts/<handle>/ARCHIVE.md` (verbatim,
 | @0xteddav | 19 | 24 | 2023-10-05 |
 | @KeiZo_Zo | 24 | 24 | 2022-09-26 |
 | @Shanon40439853 | 24 | 24 | 2023-07-24 |
-| @zellic_io | 22 | 24 | 2023-12-05 |
+| @zellic_io | 22 | 27 | 2023-12-05 |
 | @0xPARC | 25 | 25 | 2024-11-12 |
-| @krishnsec | 24 | 25 | 2026-08-05 |
+| @krishnsec | 24 | 26 | 2026-08-04 |
 | @lavados | 25 | 25 | 2025-01-20 |
 | @ajxchapman | 26 | 26 | 2024-10-28 |
 | @RootxRavi | 27 | 27 | 2026-05-07 |
 | @Guhu95 | 26 | 30 | 2025-05-01 |
-| @deadrosesxyz | 29 | 30 | 2026-02-02 |
-| @samwcyo | 30 | 30 | 2025-10-14 |
+| @deadrosesxyz | 29 | 32 | 2025-07-09 |
+| @samwcyo | 30 | 31 | 2025-06-04 |
 | @jovanbulck | 25 | 31 | 2020-11-18 |
 | @DevDacian | 28 | 32 | 2026-09-27 |
 | @bbarwik | 32 | 32 | 2018-09-22 |
 | @infinitelogins | 25 | 33 | 2026-01-13 |
-| @irsdl | 25 | 34 | 2026-10-14 |
+| @irsdl | 25 | 35 | 2026-10-07 |
 | @0xvivekd | 34 | 35 | 2026-03-02 |
 | @pcaversaccio | 26 | 37 | 2024-12-24 |
 | @j00ru | 25 | 38 | 2020-05-06 |
@@ -41,7 +41,7 @@ Generated 2026-11-11. Counts are posts in `posts/<handle>/ARCHIVE.md` (verbatim,
 | @0xriptide | 48 | 48 | 2026-07-08 |
 | @usmannk | 47 | 48 | 2025-10-13 |
 | @Piki_eth | 35 | 49 | 2026-08-21 |
-| @S1r1u5_ | 49 | 50 | 2026-10-26 |
+| @S1r1u5_ | 49 | 66 | 2026-09-30 |
 | @lonelysloth_sec | 11 | 50 | 2025-02-25 |
 | @infosec_au | 50 | 51 | 2025-12-04 |
 | @PwningEth | 53 | 53 | 2022-06-18 |
@@ -65,15 +65,15 @@ Generated 2026-11-11. Counts are posts in `posts/<handle>/ARCHIVE.md` (verbatim,
 | @Suryesh_92 | 34 | 99 | 2024-06-07 |
 | @0xacb | 86 | 109 | 2026-01-14 |
 | @zksecurityXYZ | 100 | 121 | 2026-01-26 |
-| @ChainLight_io | 25 | 125 | 2024-12-09 |
-| @xssdoctor | 29 | 131 | 2025-02-20 |
+| @ChainLight_io | 25 | 150 | 2024-10-14 |
+| @xssdoctor | 29 | 156 | 2024-04-04 |
 | @WhiteHatMage | 114 | 134 | 2025-12-02 |
-| @ryotkak | 26 | 136 | 2021-12-12 |
+| @ryotkak | 26 | 161 | 2021-10-20 |
 | @asymmetric_re | 122 | 137 | 2024-01-29 |
 | @bluethroat_labs | 146 | 146 | 2025-12-02 |
-| @NahamSec | 50 | 151 | 2025-03-18 |
-| @cmichelio | 50 | 156 | 2018-10-28 |
-| @Rhynorater | 50 | 163 | 2023-09-06 |
+| @NahamSec | 50 | 176 | 2025-01-17 |
+| @cmichelio | 50 | 181 | 2017-07-01 |
+| @Rhynorater | 50 | 188 | 2023-08-25 |
 | @mdp_sec | 109 | 586 | 2026-07-22 |
 | @saxenism | 309 | 651 | 2024-10-01 |
 
@@ -106,3 +106,22 @@ Each cursor is a security-keyword (or unfiltered, for small accounts) full-archi
 | xss | xssdoctor | 113 | 2025-02-20 | OPEN |
 | asy | asymmetric_re (pre-2024-08) | 7 | 2024-01-29 | DONE |
 | g8o | kevin_mizu SuyashS91823422 j00ru Suryesh_92 (pre-2025-02-12) | 75 | 2024-05-11 | OPEN |
+
+## Resume pass 2026-11-11 (late morning)
+
+New cursors (queries stored in /workspace/raw/x2state.json `query` field):
+
+| Cursor | Posts fetched | Oldest reached | State |
+|---|---|---|---|
+| nah | 137 | 2025-01-17 | OPEN |
+| rhy | 148 | 2023-08-25 | OPEN |
+| cmi | 146 | 2017-07-01 | OPEN |
+| chl | 150 | 2024-10-14 | OPEN |
+| ryo | 147 | 2021-10-20 | OPEN |
+| xss | 138 | 2024-04-04 | OPEN |
+| t1 | 23 | 2026-08-04 | OPEN |
+| t2 | 22 | 2025-05-09 | OPEN |
+| t3 | 23 | 2026-01-20 | OPEN |
+| u1 | 24 | 2026-09-30 | OPEN |
+
+t1 = GuplerSaxanoid, krishnsec, ajxchapman, RootxRavi · t2 = deadrosesxyz, samwcyo, Guhu95 · t3 = nullity00, Neodyme, osec_io, 0xteddav, zellic_io, lavados, 0xPARC · u1 = S1r1u5_, zseano, irsdl, garethheyes (posts before 2026-10-20).

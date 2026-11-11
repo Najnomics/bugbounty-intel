@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 24
-- Conversations/threads: 24
+- Posts in this file: 27
+- Conversations/threads: 27
 - Oldest post captured: 2023-12-05
 - Newest post captured: 2026-10-20
 
@@ -118,6 +118,26 @@ Tags (automatic): Memory corruption / native
 
 ---
 
+## 2026-08-27 · Post · One permissionless call and your deposit is… miner fees?
+
+
+### Post — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019547016233268
+- Metrics (at fetch): bookmark 18, impression 4840, like 38, quote 1, reply 2, retweet 6
+
+> One permissionless call and your deposit is… miner fees?
+>
+> Legacy P2PKH signatures, trusting user calldata, and a signer with no context of what it’s signing.
+>
+> Here’s how 64 missing bits allowed @RelayProtocol’s permissionless `sweep()` to drain Bitcoin funds to fees. 🧵 [pic.x.com/8n9fteBJan]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvXxayaAAAtMIj.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-07-03 · Post · You "win" http://zk.golf – ZKSecurity’s FV contest – by writing the most optimized formally verified
 
 
@@ -166,6 +186,51 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HK3rvH8bsAAVKnj.jpg — no alt text provided by author
+
+
+---
+
+## 2026-05-15 · Post · Microsoft Edge's Enhanced Security Mode was designed to be the ultimate defense when browsing unfami
+
+
+### Post — @zellic_io — 2026-05-15 20:45 UTC (2026-05-15 21:45 WAT)
+
+- URL: https://x.com/zellic_io/status/2055389182131093949
+- Metrics (at fetch): bookmark 60, impression 21466, like 163, quote 1, reply 4, retweet 12
+
+> Microsoft Edge's Enhanced Security Mode was designed to be the ultimate defense when browsing unfamiliar websites.
+>
+> Zellic researchers @eternalsakura13 and R1nd0 found 23 RCEs in it.
+>
+> Their target? DrumBrake, Microsoft's WebAssembly interpreter.
+>
+> The irony? This security feature https://twitter.com/offensive_con/status/2055337476072317314
+
+**Links in post:** https://twitter.com/offensive_con/status/2055337476072317314
+
+**Quoted post** 2055337476072317314: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-04-30 · Post · The core utilities that run every Linux system have been rewritten in Rust. We audited them.
+
+
+### Post — @zellic_io — 2026-04-30 15:47 UTC (2026-04-30 16:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2049878418037362886
+- Metrics (at fetch): bookmark 44, impression 77211, like 171, quote 4, reply 3, retweet 20
+
+> The core utilities that run every Linux system have been rewritten in Rust. We audited them.
+>
+> Before shipping uutils coreutils with Ubuntu 26.04, @Canonical commissioned Zellic for an external security audit.
+>
+> Two rounds, fixes contributed directly upstream.
+>
+> Full report below. [pic.x.com/Yso8y852Vo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HHKhWDRaIAAX4zd.jpg — no alt text provided by author
 
 
 ---

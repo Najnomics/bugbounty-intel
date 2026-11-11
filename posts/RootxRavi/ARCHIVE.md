@@ -137,7 +137,7 @@ Tags (automatic): Platform: Bugcrowd
 #### Parent post — @krishnsec — 2026-08-13 14:14 UTC (2026-08-13 15:14 WAT)
 
 - URL: https://x.com/krishnsec/status/2087905595471139144
-- Metrics (at fetch): bookmark 7, impression 5750, like 218, quote 1, reply 15, repost 2
+- Metrics (at fetch): bookmark 7, impression 5750, like 218, quote 1, reply 15, retweet 2
 
 > Made it into the Top 15 All-Time on @Bugcrowd 
 > Grateful for every opportunity, every program, triager, and everyone who's been part of the journey. Onwards and upwards. 🚀 [pic.x.com/iJmrNLXIBH]
@@ -329,13 +329,15 @@ Tags (automatic): Platform: Bugcrowd
 
 > Finally made it into the Top 100 on Bugcrowd. 🎉
 >
-> https://t.co/GMCu6j6QAo
+> https://bugcrowd.com/h/RootxRavi
 >
 > Thousands of hours of manual testing, late nights, continuous learning, and persistence led to this milestone. Every duplicate, every informative 
-> finding, and every valid report was part of the journey. A https://t.co/YEItFSke6s
+> finding, and every valid report was part of the journey. A [pic.x.com/YEItFSke6s]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HO9hJGQb0AATRik.png — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/h/RootxRavi
 
 
 ---

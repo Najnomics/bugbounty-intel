@@ -101,7 +101,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2026-07-09 17:02 UTC (2026-07-09 18:02 WAT)
 
 - URL: https://x.com/osec_io/status/2075264272419143984
-- Metrics (at fetch): bookmark 13, impression 14718, like 45, quote 5, reply 7, retweet 6
+- Metrics (at fetch): bookmark 13, impression 14719, like 45, quote 5, reply 7, retweet 6
 
 > http://x.com/i/article/2074567551846354944
 
@@ -231,7 +231,7 @@ Tags (automatic): RCE
 > Full writeup coming next week. [pic.x.com/NxUISFpY6Y]
 
 **Media:**
-- video: https://pbs.twimg.com/amplify_video_thumb/2036484451312738305/img/7MySyxh6MmFAvonb.jpg — no alt text provided by author
+- video:  — no alt text provided by author
 
 
 ---
@@ -254,7 +254,7 @@ Tags (automatic): Memory corruption / native
 > Writeup coming next week. [pic.x.com/NxO5nUoVGk]
 
 **Media:**
-- video: https://pbs.twimg.com/amplify_video_thumb/2029637204490997760/img/zd7UgxmA1fEz61mC.jpg — no alt text provided by author
+- video:  — no alt text provided by author
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 131
-- Conversations/threads: 97
-- Oldest post captured: 2025-02-20
+- Posts in this file: 156
+- Conversations/threads: 122
+- Oldest post captured: 2024-04-04
 - Newest post captured: 2026-11-05
 
 
@@ -1822,3 +1822,367 @@ Tags (automatic): XSS, Race condition
 >         var cookieInHash = hashInUrl.substring(1);
 >         var decodeStr = decodeURIComponent(cookieInHash);
 >         if(decodeStr) {
+
+
+---
+
+## 2025-01-18 · Post · This is the correct answer. We discontinued the milrinone and the patient got better.
+
+
+### Post — @xssdoctor — 2025-01-18 17:11 UTC (2025-01-18 18:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880664203008344095
+- Metrics (at fetch): bookmark 0, impression 1379, like 5, quote 0, reply 1, retweet 0
+
+> This is the correct answer. We discontinued the milrinone and the patient got better.
+>
+> The whole world is about to change
+
+
+---
+
+## 2025-01-18 · Post · This is the answer given by o1 pro 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2025-01-18 17:10 UTC (2025-01-18 18:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880664074066776132
+- Metrics (at fetch): bookmark 0, impression 1586, like 0, quote 0, reply 1, retweet 0
+
+> This is the answer given by o1 pro 
+>
+> A useful way to think about “next steps” in a post‐AVR patient on multiple vasoactive agents is to look at whether (1) you still need inotropic support, and (2) you have adequate perfusion pressure (i.e. MAP ≥ 65 mm Hg) at a safe afterload
+
+
+---
+
+## 2025-01-18 · Post · I knew the next step. However this is not an easy case. A cardiology fellow would know what to do, b
+
+
+### Post — @xssdoctor — 2025-01-18 17:08 UTC (2025-01-18 18:08 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880663495370490322
+- Metrics (at fetch): bookmark 0, impression 305, like 1, quote 0, reply 1, retweet 0
+
+> I knew the next step. However this is not an easy case. A cardiology fellow would know what to do, but an internal medicine resident probably wouldn’t
+
+
+---
+
+## 2025-01-18 · Post · The patient was a 61yo male post-op day 0 from a redo-aortic valve replacement. He left the OR on le
+
+
+### Post — @xssdoctor — 2025-01-18 17:06 UTC (2025-01-18 18:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880663095015842008
+- Metrics (at fetch): bookmark 0, impression 310, like 1, quote 0, reply 1, retweet 0
+
+> The patient was a 61yo male post-op day 0 from a redo-aortic valve replacement. He left the OR on levofed, epinephrine and milrinone. He was hypotensive with PA pressures of 24/11. Central venous oxygen saturation was 76%. Hemoglobin was 9. Arterial saturation was 95%
+
+
+---
+
+## 2025-01-18 · Post · Recently I fed a real (anonymized) patient case to ChatGPT o1 pro. It was a very complex case which 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2025-01-18 17:04 UTC (2025-01-18 18:04 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880662542298796366
+- Metrics (at fetch): bookmark 2, impression 3045, like 16, quote 0, reply 1, retweet 3
+
+> Recently I fed a real (anonymized) patient case to ChatGPT o1 pro. It was a very complex case which involved advanced hemodynamics and management of a patient with shock following a valve replacement… (a thread)
+
+
+---
+
+## 2024-10-10 · Post · Yay, I was awarded a $6,000 bounty on @Hacker0x01! https://t.co/uDPAQipOHx TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2024-10-10 16:58 UTC (2024-10-10 17:58 WAT)
+
+- URL: https://x.com/xssdoctor/status/1844422306023792803
+- Metrics (at fetch): bookmark 27, impression 11262, like 177, quote 0, reply 9, retweet 10
+
+> Yay, I was awarded a $6,000 bounty on @Hacker0x01! https://t.co/uDPAQipOHx #TogetherWeHitHarder
+
+
+---
+
+## 2024-09-24 · Post · I’m going to subscribe to. @MKBHD’s app just because everyone is being such a dick about it
+
+
+### Post — @xssdoctor — 2024-09-24 23:17 UTC (2024-09-25 00:17 WAT)
+
+- URL: https://x.com/xssdoctor/status/1838719434631815491
+- Metrics (at fetch): bookmark 0, impression 1515, like 4, quote 0, reply 0, retweet 0
+
+> I’m going to subscribe to. @MKBHD’s app just because everyone is being such a dick about it
+
+
+---
+
+## 2024-09-22 · Reply · @runwayml is incredible https://t.co/4MHgD258Fz
+
+
+### Post — @xssdoctor — 2024-09-22 23:38 UTC (2024-09-23 00:38 WAT)
+
+- URL: https://x.com/xssdoctor/status/1837999960081498343
+- Metrics (at fetch): bookmark 0, impression 79, like 1, quote 0, reply 0, retweet 0
+
+> @runwayml is incredible https://t.co/4MHgD258Fz
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1837999880368697344/pu/img/shqkyNCEPyQ3VF7o.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-06 · Post · Just finished day 1 of Red, Blue, Purple AI with @Jhaddix. Incredible! Even better the second time. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2024-09-06 00:19 UTC (2024-09-06 01:19 WAT)
+
+- URL: https://x.com/xssdoctor/status/1831849714654031948
+- Metrics (at fetch): bookmark 3, impression 4109, like 24, quote 1, reply 1, retweet 3
+
+> Just finished day 1 of Red, Blue, Purple AI with @Jhaddix. Incredible! Even better the second time. I recommend it to anyone interested in hacking, AI or just listening to interesting, smart people
+
+
+---
+
+## 2024-08-30 · Post · Yay, I was awarded a $2,237 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2024-08-30 23:36 UTC (2024-08-31 00:36 WAT)
+
+- URL: https://x.com/xssdoctor/status/1829664565979734442
+- Metrics (at fetch): bookmark 10, impression 4646, like 77, quote 0, reply 2, retweet 2
+
+> Yay, I was awarded a $2,237 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ #TogetherWeHitHarder
+
+
+---
+
+## 2024-08-14 · Post · Grok 2.0 beta got the sheep problem right! https://t.co/TM6oj7iR7H
+
+
+### Post — @xssdoctor — 2024-08-14 18:06 UTC (2024-08-14 19:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1823783217197146334
+- Metrics (at fetch): bookmark 0, impression 1464, like 4, quote 0, reply 1, retweet 0
+
+> Grok 2.0 beta got the sheep problem right! https://t.co/TM6oj7iR7H
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GU9hK1mXsAEI3dx.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-26 · Post · Just finished @DanielMiessler’s Augmented V2 course. Really exceptional. We’re approaching human 3.0
+
+
+### Post — @xssdoctor — 2024-07-26 22:47 UTC (2024-07-26 23:47 WAT)
+
+- URL: https://x.com/xssdoctor/status/1816968736097599872
+- Metrics (at fetch): bookmark 3, impression 1609, like 12, quote 0, reply 0, retweet 2
+
+> Just finished @DanielMiessler’s Augmented V2 course. Really exceptional. We’re approaching human 3.0
+
+
+---
+
+## 2024-06-23 · Post · So am I going to stick with neovim? Probably! It’s just so much fun. Also if it’s good enough for @s
+
+
+### Post — @xssdoctor — 2024-06-23 23:50 UTC (2024-06-24 00:50 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805025786572763344
+- Metrics (at fetch): bookmark 0, impression 1168, like 1, quote 0, reply 0, retweet 0
+
+> So am I going to stick with neovim? Probably! It’s just so much fun. Also if it’s good enough for @sudobunni it’s good enough for me
+
+
+---
+
+## 2024-06-23 · Post · 5) after all of the above (and this may be controversial) it’s not actually better than vscode. Vsco
+
+
+### Post — @xssdoctor — 2024-06-23 23:49 UTC (2024-06-24 00:49 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805025515297976513
+- Metrics (at fetch): bookmark 0, impression 1262, like 0, quote 0, reply 1, retweet 0
+
+> 5) after all of the above (and this may be controversial) it’s not actually better than vscode. Vscode is great! So is neovim! Code however you want and however makes you the happiest.
+
+
+---
+
+## 2024-06-23 · Post · 4) when you do figure it out, it’s just as easy and fast as vscode
+
+
+### Post — @xssdoctor — 2024-06-23 23:48 UTC (2024-06-24 00:48 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805025083296997467
+- Metrics (at fetch): bookmark 0, impression 161, like 0, quote 0, reply 1, retweet 0
+
+> 4) when you do figure it out, it’s just as easy and fast as vscode
+
+
+---
+
+## 2024-06-23 · Post · 3) it takes about a day to learn, even if you know how to use vim. Also there is no perfect tutorial
+
+
+### Post — @xssdoctor — 2024-06-23 23:47 UTC (2024-06-24 00:47 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805024948911513949
+- Metrics (at fetch): bookmark 1, impression 174, like 0, quote 0, reply 1, retweet 0
+
+> 3) it takes about a day to learn, even if you know how to use vim. Also there is no perfect tutorial. You basically have to start using it and then figure out each use case. How do you autocomplete? How do you open a new pane? How do you go to definition?
+
+
+---
+
+## 2024-06-23 · Post · 2) it’s lightning fast and MUCH less resource intensive
+
+
+### Post — @xssdoctor — 2024-06-23 23:45 UTC (2024-06-24 00:45 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805024309103960250
+- Metrics (at fetch): bookmark 0, impression 146, like 0, quote 0, reply 1, retweet 0
+
+> 2) it’s lightning fast and MUCH less resource intensive
+
+
+---
+
+## 2024-06-23 · Post · 1) neovim is a lot more fun than vscode. There is no question about it. It’s a pleasure to code in t
+
+
+### Post — @xssdoctor — 2024-06-23 23:44 UTC (2024-06-24 00:44 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805024092002603347
+- Metrics (at fetch): bookmark 0, impression 163, like 1, quote 0, reply 1, retweet 0
+
+> 1) neovim is a lot more fun than vscode. There is no question about it. It’s a pleasure to code in the terminal
+
+
+---
+
+## 2024-06-23 · Post · I’ve been watching a lot of @sudobunni videos lately to improve my go skills. She uses neovim, so I 
+
+
+### Post — @xssdoctor — 2024-06-23 23:42 UTC (2024-06-24 00:42 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805023726049566791
+- Metrics (at fetch): bookmark 4, impression 2474, like 12, quote 0, reply 1, retweet 0
+
+> I’ve been watching a lot of @sudobunni videos lately to improve my go skills. She uses neovim, so I decided to give it a try. I have a lot of thoughts…
+
+
+---
+
+## 2024-05-31 · Post · The second day of @Jhaddix red, blue, purple AI course is even better than the first! It’s an absolu
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2024-05-31 18:04 UTC (2024-05-31 19:04 WAT)
+
+- URL: https://x.com/xssdoctor/status/1796603780424990813
+- Metrics (at fetch): bookmark 0, impression 4154, like 12, quote 0, reply 0, retweet 1
+
+> The second day of @Jhaddix red, blue, purple AI course is even better than the first! It’s an absolute must for people interested in AI, security or just a fun time with cool people
+
+
+---
+
+## 2024-05-30 · Reply · @Jhaddix red, blue, purple AI class is 🔥.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2024-05-30 18:10 UTC (2024-05-30 19:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1796242694575915173
+- Metrics (at fetch): bookmark 1, impression 3287, like 11, quote 0, reply 0, retweet 2
+
+> @Jhaddix red, blue, purple AI class is 🔥.
+
+
+---
+
+## 2024-05-20 · Post · Yay, I was awarded a $750 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2024-05-20 16:47 UTC (2024-05-20 17:47 WAT)
+
+- URL: https://x.com/xssdoctor/status/1792598056925364526
+- Metrics (at fetch): bookmark 3, impression 3019, like 49, quote 0, reply 2, retweet 1
+
+> Yay, I was awarded a $750 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ #TogetherWeHitHarder
+
+
+---
+
+## 2024-05-18 · Post · When it comes to GraphQL recon, JavaScript is the next best thing to introspection. I made a tool (i
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2024-05-18 15:21 UTC (2024-05-18 16:21 WAT)
+
+- URL: https://x.com/xssdoctor/status/1791851692650037315
+- Metrics (at fetch): bookmark 254, impression 18667, like 245, quote 0, reply 5, retweet 62
+
+> When it comes to GraphQL recon, JavaScript is the next best thing to introspection. I made a tool (in go) which finds all graphql queries in js files (or folders) and uses ChatGPT to build the queries for you! https://t.co/r7SGzSh4O0
+
+
+---
+
+## 2024-05-16 · Post · Great writeup about breaking through in bug bounty by @un1tycyb3r. A must read for hunters trying to
+
+
+### Post — @xssdoctor — 2024-05-16 16:12 UTC (2024-05-16 17:12 WAT)
+
+- URL: https://x.com/xssdoctor/status/1791139595981037594
+- Metrics (at fetch): bookmark 25, impression 2511, like 27, quote 1, reply 0, retweet 4
+
+> Great writeup about breaking through in bug bounty by @un1tycyb3r. A must read for hunters trying to get to the next level. https://t.co/b4kNtrmbeC
+
+
+---
+
+## 2024-04-04 · Post · for all of you auditory learners out there, I made a small script which uses openai tts-1 to quickly
+
+
+### Post — @xssdoctor — 2024-04-04 14:06 UTC (2024-04-04 15:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1775887588949164509
+- Metrics (at fetch): bookmark 4, impression 1106, like 7, quote 0, reply 2, retweet 0
+
+> for all of you auditory learners out there, I made a small script which uses openai tts-1 to quickly turn any pdf (of any size) into an mp3 file. Enjoy!
+>
+> https://t.co/a71uAhtelW

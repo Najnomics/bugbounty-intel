@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 163
-- Conversations/threads: 151
-- Oldest post captured: 2023-09-06
+- Posts in this file: 188
+- Conversations/threads: 159
+- Oldest post captured: 2023-08-25
 - Newest post captured: 2026-11-10
 
 
@@ -1581,7 +1581,15 @@ Tags (automatic): XSS, SSRF, RCE
 
 **Links in post:** https://twitter.com/NahamSec/status/1884080012170780719
 
-**Quoted post** 1884080012170780719: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2025-01-28 03:24 UTC (2025-01-28 04:24 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1884080012170780719
+    - Metrics (at fetch): bookmark 4, impression 28590, like 214, quote 1, reply 26, retweet 2
+    
+    > I love seeing comments on social media where they call me a marketer who’s not really doing bug bounties as a source of income. Who’s gonna tell them? 😂🤣
+    
 
 
 ---
@@ -2754,13 +2762,42 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2023-09-06 · Thread · After ramping up my hacking and completing the aforementioned bugs, I'd expect my bugs per month to 
+## 2023-09-06 · Thread · All my current bug bounty knowledge is gone. 
 
 
-Tags (automatic): Platform: HackerOne
+Tags (automatic): XSS, SSRF, Platform: HackerOne
 
 
 ### Post — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699395452481769867
+- Metrics (at fetch): bookmark 4777, impression 565287, like 3954, quote 94, reply 92, retweet 1060
+
+> All my current bug bounty knowledge is gone. 
+>
+> Here's how I get it back and make $100k in the first year:
+>
+> First, I've got to learn the basics. For this, I will make sure I understand at a high level how the components I'm working with function. 
+>
+> I'll need to understand... [pic.x.com/p8hotMkQnU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5V3KE8WoAAZBoH.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699395458785820801
+- Metrics (at fetch): bookmark 48, impression 42206, like 180, quote 1, reply 2, retweet 11
+
+> I'd expect to find 1-5 bugs per month at an average of $750 per bug. So pulling roughly $2,250/month after month 2. 
+>
+> After completing all of the above bug types, I'd switch my allocation to 40% hacking 60% learning. 
+>
+> I'd then switch my focus to learning XSS, CSRF, and SSRF.
+
+
+### Thread part 3 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
 
 - URL: https://x.com/Rhynorater/status/1699395461251993791
 - Metrics (at fetch): bookmark 29, impression 36314, like 143, quote 0, reply 1, retweet 7
@@ -2768,7 +2805,7 @@ Tags (automatic): Platform: HackerOne
 > After ramping up my hacking and completing the aforementioned bugs, I'd expect my bugs per month to increase to around 7 at $750 per bug, putting me at $5,250 with the 40/60 split mentioned above. That's roughly 80 hours over the month. Or one bug every 10 or so hours.
 
 
-### Thread part 2 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+### Thread part 4 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
 
 - URL: https://x.com/Rhynorater/status/1699395464565498232
 - Metrics (at fetch): bookmark 22, impression 29866, like 106, quote 0, reply 1, retweet 5
@@ -2778,7 +2815,7 @@ Tags (automatic): Platform: HackerOne
 > This will put me at ~ 9k a month starting from month 6. Having earned 15.5k already this year.
 
 
-### Thread part 3 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+### Thread part 5 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
 
 - URL: https://x.com/Rhynorater/status/1699395468285895120
 - Metrics (at fetch): bookmark 20, impression 26316, like 102, quote 0, reply 1, retweet 5
@@ -2791,7 +2828,7 @@ Tags (automatic): Platform: HackerOne
 > In reality, that number would likely be closer to $90,000 because of dupes and bounty flux.
 
 
-### Thread part 4 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+### Thread part 6 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
 
 - URL: https://x.com/Rhynorater/status/1699395470705959276
 - Metrics (at fetch): bookmark 21, impression 26570, like 118, quote 0, reply 1, retweet 3
@@ -2799,3 +2836,350 @@ Tags (automatic): Platform: HackerOne
 > These stats are based on my personal experience of learning bug bounty, the stats on my H1 performance tab, and my estimation of time spent scaled to full-time. 
 >
 > I currently spend about 90/10 hacking/learning ratio. Maybe even higher on the learning now with @ctbbpodcast prep.
+
+
+---
+
+## 2023-09-02 · Thread · Just popped another crazy XSS. Check this one out 👀
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @Rhynorater — 2023-09-02 19:44 UTC (2023-09-02 20:44 WAT)
+
+- URL: https://x.com/Rhynorater/status/1698059391700701424
+- Metrics (at fetch): bookmark 140, impression 45952, like 228, quote 0, reply 8, retweet 39
+
+> Just popped another crazy XSS. Check this one out 👀
+>
+> So a CRLF was passed to me by a podcast listener. The CRLF was in the path, so it couldn't contain a /.
+>
+> We could do response splitting, but couldnt change the content-type to text/html because we couldn't use a /.
+>
+> So we...
+
+
+### Thread part 2 — @Rhynorater — 2023-09-02 19:44 UTC (2023-09-02 20:44 WAT)
+
+- URL: https://x.com/Rhynorater/status/1698059394087342180
+- Metrics (at fetch): bookmark 0, impression 2957, like 11, quote 0, reply 1, retweet 1
+
+> With the content-type header removed, we attempted to abuse some content-type sniffing to get the XSS. The problem is that "X-Content-Type-Options: nosniff" was present.
+>
+> We tried to remove this with the same trick, but the header wasn't removed, the new header was simply added.
+
+
+### Thread part 3 — @Rhynorater — 2023-09-02 19:44 UTC (2023-09-02 20:44 WAT)
+
+- URL: https://x.com/Rhynorater/status/1698059395257581583
+- Metrics (at fetch): bookmark 2, impression 3422, like 15, quote 1, reply 2, retweet 1
+
+> In the end, we were able to pop the XSS by appending another "X-Content-Type-Options" header with an invalid valid (test) which caused Chrome to ignore the header altogether🤨?!?!
+>
+> Then, for some reason, &lt;img&gt; wasn't triggering the sniffing, so we had to start the exploit with:
+
+
+### Thread part 4 — @Rhynorater — 2023-09-02 19:44 UTC (2023-09-02 20:44 WAT)
+
+- URL: https://x.com/Rhynorater/status/1698059397551767969
+- Metrics (at fetch): bookmark 9, impression 3293, like 27, quote 0, reply 1, retweet 2
+
+> Takeaways:
+> * Always fuzz when stuck on an exploit. Then examine the results very carefully. Without fuzzing, I wouldn't have found the %20 trick. 
+> * Apparently the "X-Content-Type-Options" header is very fussy. 
+> * Content sniffing is weird. Start with &lt;h1&gt; just to be sure.
+
+
+---
+
+## 2023-09-02 · Post · Y'all going crazy over this redir chain haha. 
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2023-09-02 14:50 UTC (2023-09-02 15:50 WAT)
+
+- URL: https://x.com/Rhynorater/status/1697985431214661744
+- Metrics (at fetch): bookmark 27, impression 18761, like 47, quote 0, reply 3, retweet 2
+
+> Y'all going crazy over this redir chain haha. 
+>
+> There was a great write-up where someone utilized this in conjunction with a client-side path traversal on Google to get XSS. 
+>
+> I thought it was @filedescriptor, but I can't find the write up anywhere. 
+>
+> X, do your thing! https://t.co/kLbovTZwZT
+
+**Quoted post** 1697357773690818844: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-08-30 · Thread · I am always surprised when people don't know this trick to make writing XSS exploits suuuuper simple
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2023-08-30 14:02 UTC (2023-08-30 15:02 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696886085035401556
+- Metrics (at fetch): bookmark 104, impression 9289, like 129, quote 0, reply 1, retweet 20
+
+> I am always surprised when people don't know this trick to make writing XSS exploits suuuuper simple:
+>
+> You can reach through iframes in same-origin contexts and do things like click buttons and fill in input forms via JS:
+
+
+### Thread part 2 — @Rhynorater — 2023-08-30 14:02 UTC (2023-08-30 15:02 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696886087497425220
+- Metrics (at fetch): bookmark 22, impression 2503, like 43, quote 0, reply 4, retweet 4
+
+> j = document.querySelector("#iframe")
+> j.contentDocument.querySelector("#input").value="data"
+> j.contentDocument.querySelector("#button").click()
+>
+> This makes writing XSS exploits suuuuper simple. No need to send custom fetch requests or whatever.
+
+
+---
+
+## 2023-08-30 · Post · Exploited a tricky XSS yesterday:
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2023-08-30 12:30 UTC (2023-08-30 13:30 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696862832841916679
+- Metrics (at fetch): bookmark 148, impression 101528, like 301, quote 7, reply 7, retweet 56
+
+> Exploited a tricky XSS yesterday:
+>
+> The context was in JS:  x("x", "INJECTION");
+>
+> I didn't have access to the ), `, or ' chars.
+>
+> My solution made use of the fact that any func in JS can take any number of parameters. 
+>
+> function x(a,b){}...
+>
+> x("a", "b", location="javascript:...");
+
+
+---
+
+## 2023-08-29 · Thread · You've heard of SSRF.
+
+
+Tags (automatic): SSRF, IDOR / BOLA
+
+
+### Post — @Rhynorater — 2023-08-29 14:08 UTC (2023-08-29 15:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696525218091774146
+- Metrics (at fetch): bookmark 493, impression 98760, like 579, quote 4, reply 4, retweet 185
+
+> You've heard of SSRF.
+> You've heard of IDOR.
+> But have you heard of SSRDOR?
+> 😅 Me neither. But Secondary Context bugs are pretty much the combo of the two.
+>
+> *Rolls up sleeves* Allow me to explain... [pic.x.com/mjibFTFl6e]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4tDu85a4AEx5nP.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2023-08-29 14:08 UTC (2023-08-29 15:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696525228812419583
+- Metrics (at fetch): bookmark 1, impression 3369, like 11, quote 0, reply 1, retweet 1
+
+> Now, you might have noticed that our input ended up in the path of an HTTP request to the backend internal server. Feels SSRF-y, right? Right. If you could hit a redir or pollute the host on that internal server, you'd have an SSRF.
+
+
+### Thread part 3 — @Rhynorater — 2023-08-29 14:08 UTC (2023-08-29 15:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696525234193694964
+- Metrics (at fetch): bookmark 6, impression 3244, like 20, quote 0, reply 1, retweet 2
+
+> /api/usermngr/111..%2f..%2fusers%3f/email
+> -&gt;
+> https://usermanagement.internal/user/111/../../users?/email
+>
+> To leak all users. Or...
+>
+> /api/usermngr/111%2f..%2f112/email
+> -&gt;
+> https://usermanagement.internal/user/111/../112/email
+>
+> For the IDOR.
+
+
+### Thread part 4 — @Rhynorater — 2023-08-29 14:08 UTC (2023-08-29 15:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696525235959615518
+- Metrics (at fetch): bookmark 2, impression 3096, like 15, quote 0, reply 1, retweet 0
+
+> TIP: When you can't find a way to leak the backend URL, you can tell if you've traversed past the root by the fact that it will return a 400 HTTP Status code. 
+> For example:
+>
+> host[.]com/test/../../ = 400.
+
+
+### Thread part 5 — @Rhynorater — 2023-08-29 14:08 UTC (2023-08-29 15:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696525237775716765
+- Metrics (at fetch): bookmark 34, impression 5439, like 47, quote 0, reply 1, retweet 12
+
+> If you wanna see a crazy real-life example of this, checkout the bug Sam and I found on Starbucks:
+> https://samcurry.net/hacking-starbucks/
+
+**Links in post:** https://samcurry.net/hacking-starbucks/
+
+
+---
+
+## 2023-08-29 · Post · @0xLupin @avlidienbrunn somefuncWith2Params("x", "INJECTION", window.location.href="blahblah")
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @Rhynorater — 2023-08-29 13:41 UTC (2023-08-29 14:41 WAT)
+
+- URL: https://x.com/Rhynorater/status/1696518511278141793
+- Metrics (at fetch): bookmark 1, impression 607, like 1, quote 0, reply 1, retweet 0
+
+> @0xLupin @avlidienbrunn somefuncWith2Params("x", "INJECTION", window.location.href="blahblah")
+>
+> I didn't think, however, to use window[.]name to smuggle the payload, so I had some other problems to overcome.
+
+
+---
+
+## 2023-08-26 · Thread · Ever wondered how people pop arbitrary account takeover vulns? I'll braindump some for ya. Here's wh
+
+
+Tags (automatic): XSS, Account takeover
+
+
+### Post — @Rhynorater — 2023-08-26 12:53 UTC (2023-08-26 13:53 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695419201152749920
+- Metrics (at fetch): bookmark 409, impression 69171, like 624, quote 5, reply 17, retweet 134
+
+> Ever wondered how people pop arbitrary account takeover vulns? I'll braindump some for ya. Here's what I got: [pic.x.com/ccGJ2IAMjS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4dWx44WEAAnutM.png — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2023-08-26 12:53 UTC (2023-08-26 13:53 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695419203967140238
+- Metrics (at fetch): bookmark 0, impression 3285, like 14, quote 0, reply 1, retweet 0
+
+> * Predictable/flawed password reset token
+> This can occur when the password reset token is the hash of a timestamp or of some other guessable entity. Also, if there is a host header injection in the password reset token URL.
+
+
+### Thread part 3 — @Rhynorater — 2023-08-26 12:53 UTC (2023-08-26 13:53 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695419205711954049
+- Metrics (at fetch): bookmark 2, impression 3184, like 16, quote 0, reply 1, retweet 0
+
+> * Endpoint which leaks API auth token for other users
+> We saw this in the latest @samwcyo writeup on points[.]com. Nasty, and it happens fairly often.
+>
+> * Bad JWT signing secret
+> Also saw this in @samwcyo's points[.]com writeup. Easy W here with @iangcarroll 's cookie monster tool.
+
+
+### Thread part 4 — @Rhynorater — 2023-08-26 12:53 UTC (2023-08-26 13:53 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695419209545564195
+- Metrics (at fetch): bookmark 0, impression 2676, like 8, quote 0, reply 1, retweet 0
+
+> * Bad OTP process -&gt; password reset
+> Can you use your phone number to reset someone else's account? Can you brute the PIN? Can you bypass the rate limits?
+
+
+### Thread part 5 — @Rhynorater — 2023-08-26 12:53 UTC (2023-08-26 13:53 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695419211223335063
+- Metrics (at fetch): bookmark 1, impression 2761, like 9, quote 0, reply 1, retweet 0
+
+> * Targeted Stored XSS on Dashboard Page + Session token leak
+> Can you land a stored XSS on the first page after login and leak the session token? That's pretty much arbitrary ATO.
+
+
+### Thread part 6 — @Rhynorater — 2023-08-26 12:54 UTC (2023-08-26 13:54 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695419544037138929
+- Metrics (at fetch): bookmark 1, impression 2603, like 10, quote 0, reply 1, retweet 1
+
+> * Priv Esc + Application Logic
+> Does the application have a natural admin role? Can you escalate to that role and use it to takeover others' accounts?
+>
+> *  Insecure Admin Functionality
+> Are there bad access controls on super admin functionality? Get in those JS files and find them!
+
+
+### Thread part 7 — @Rhynorater — 2023-08-26 12:55 UTC (2023-08-26 13:55 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695419773998231847
+- Metrics (at fetch): bookmark 1, impression 2139, like 5, quote 0, reply 1, retweet 0
+
+> * Alternative logins
+> Another takeaway from @samwcyo's points[.]com writeup - see if you can find places where something besides a password is used for authentication, then you've got a great chance at pivoting that session into a full session on the app.
+
+
+### Thread part 8 — @Rhynorater — 2023-08-26 12:57 UTC (2023-08-26 13:57 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695420089837736272
+- Metrics (at fetch): bookmark 1, impression 3472, like 10, quote 0, reply 1, retweet 0
+
+> @samwcyo @0xacb Aaand that's all I can come up with! Lmk if I missed any. 
+>
+> Drop a follow for more bug bounty brain dumps!
+> https://x.com/Rhynorater/status/1695419201152749920?t=L1rH8FrBgsZyrtjASFJkMQ&s=19
+
+**Links in post:** https://x.com/Rhynorater/status/1695419201152749920?t=L1rH8FrBgsZyrtjASFJkMQ&s=19
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Rhynorater — 2023-08-26 12:53 UTC (2023-08-26 13:53 WAT)
+    
+    - URL: https://x.com/Rhynorater/status/1695419201152749920
+    - Metrics (at fetch): bookmark 409, impression 69171, like 624, quote 5, reply 17, retweet 134
+    
+    > Ever wondered how people pop arbitrary account takeover vulns? I'll braindump some for ya. Here's what I got: [pic.x.com/ccGJ2IAMjS]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F4dWx44WEAAnutM.png — no alt text provided by author
+    
+
+
+---
+
+## 2023-08-25 · Post · Not the most impactful bug, but felt pretty badass to bypass the auth screen without any crazy trick
+
+
+### Post — @Rhynorater — 2023-08-25 11:31 UTC (2023-08-25 12:31 WAT)
+
+- URL: https://x.com/Rhynorater/status/1695036067672420763
+- Metrics (at fetch): bookmark 0, impression 4243, like 12, quote 0, reply 2, retweet 0
+
+> Not the most impactful bug, but felt pretty badass to bypass the auth screen without any crazy tricks or tools. A fun one for sure. 
+>
+> https://x.com/Rhynorater/status/1695035356016501029?t=W3GKNLFNt8HAV9xTTtHTlg&s=19
+
+**Links in post:** https://x.com/Rhynorater/status/1695035356016501029?t=W3GKNLFNt8HAV9xTTtHTlg&s=19
+
+**Quoted post** 1695035356016501029: not readable via the API (deleted, private, or withheld).

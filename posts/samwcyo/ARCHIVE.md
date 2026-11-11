@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 30
-- Conversations/threads: 29
-- Oldest post captured: 2025-10-14
+- Posts in this file: 31
+- Conversations/threads: 30
+- Oldest post captured: 2025-06-04
 - Newest post captured: 2026-11-11
 
 
@@ -92,9 +92,11 @@ Tags (automatic): RCE
 ### Post — @samwcyo — 2026-11-07 11:32 UTC (2026-11-07 12:32 WAT)
 
 - URL: https://x.com/samwcyo/status/2119030320171266117
-- Metrics (at fetch): bookmark 118, impression 11051, like 271, quote 4, reply 15, retweet 58
+- Metrics (at fetch): bookmark 118, impression 11052, like 271, quote 4, reply 15, retweet 58
 
-> Had some time off of work and was finally able to release a few blog posts: the first is about an RCE on ForgeRock that allowed us (@infosec_au) to remotely send vehicle commands for two automakers using only a customer's name, email, or phone number: https://t.co/XYlWdoAZdk
+> Had some time off of work and was finally able to release a few blog posts: the first is about an RCE on ForgeRock that allowed us (@infosec_au) to remotely send vehicle commands for two automakers using only a customer's name, email, or phone number: https://samcurry.net/forgerock
+
+**Links in post:** https://samcurry.net/forgerock
 
 
 ---
@@ -120,7 +122,7 @@ Tags (automatic): RCE
 - URL: https://x.com/samwcyo/status/2118908015848169891
 - Metrics (at fetch): bookmark 25, impression 9582, like 118, quote 0, reply 12, retweet 1
 
-> It's really cool that you can tick "Paid bug-bounty program running at least 12 months" to prove an organization's security maturity for @AnthropicAI's Red Team Access CVP. As long as they are checking response metrics and stuff, it's probably a better metric than the other two. https://t.co/3Yc3SlG3hg
+> It's really cool that you can tick "Paid bug-bounty program running at least 12 months" to prove an organization's security maturity for @AnthropicAI's Red Team Access CVP. As long as they are checking response metrics and stuff, it's probably a better metric than the other two. [pic.x.com/3Yc3SlG3hg]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HWfefTXXYAAct-H.png — no alt text provided by author
@@ -476,7 +478,7 @@ Tags (automatic): Path normalization
 ### Post — @samwcyo — 2025-10-14 21:20 UTC (2025-10-14 22:20 WAT)
 
 - URL: https://x.com/samwcyo/status/1978209247876862450
-- Metrics (at fetch): bookmark 184, impression 35928, like 389, quote 1, reply 21, repost 94
+- Metrics (at fetch): bookmark 184, impression 35929, like 389, quote 1, reply 21, retweet 94
 
 > Earlier this year, @infosec_au and I discovered multiple vulnerabilities that allowed us to access the back office admin panel of ClubWPT Gold (the World Poker Tour's website) where we could manage customer data, KYC, and more.
 >
@@ -484,3 +486,20 @@ Tags (automatic): Path normalization
 > https://samcurry.net/hacking-clubwpt-gold
 
 **Links in post:** https://samcurry.net/hacking-clubwpt-gold
+
+
+---
+
+## 2025-06-04 · Post · Huge fan of gadgets like this for pulling info via companies like AWS, Azure, and Cloudflare. Many o
+
+
+### Post — @samwcyo — 2025-06-04 21:05 UTC (2025-06-04 22:05 WAT)
+
+- URL: https://x.com/samwcyo/status/1930370357912883420
+- Metrics (at fetch): bookmark 24, impression 7550, like 47, quote 0, reply 1, retweet 2
+
+> Huge fan of gadgets like this for pulling info via companies like AWS, Azure, and Cloudflare. Many of these findings aren't serious enough to qualify for bug bounties, but you can 100% use them in the real world for fun recon projects or whatever. Really cool work from @nyxgeek! https://twitter.com/nyxgeek/status/1929678408847442094
+
+**Links in post:** https://twitter.com/nyxgeek/status/1929678408847442094
+
+**Quoted post** 1929678408847442094: not readable via the API (deleted, private, or withheld).

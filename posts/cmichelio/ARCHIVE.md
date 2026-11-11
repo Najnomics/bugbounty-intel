@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 156
-- Conversations/threads: 132
-- Oldest post captured: 2018-10-28
+- Posts in this file: 181
+- Conversations/threads: 157
+- Oldest post captured: 2017-07-01
 - Newest post captured: 2026-11-10
 
 
@@ -2498,3 +2498,426 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/DqmCwWUXcAA1MJs.png — no alt text provided by author
 
 **Links in post:** https://learneos.one
+
+
+---
+
+## 2018-10-26 · Post · CSS Tip: overscroll-behavior: contain; locks the scrolling to an element. Useful for Modals/Dialogs
+
+
+### Post — @cmichelio — 2018-10-26 13:29 UTC (2018-10-26 14:29 WAT)
+
+- URL: https://x.com/cmichelio/status/1055813592698761216
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> #CSS Tip: overscroll-behavior: contain; locks the scrolling to an element. Useful for Modals/Dialogs to not scroll the page when scrolling in the element
+
+
+---
+
+## 2018-10-19 · Post · Meaning, it's easy to write a bot that reads the current seed value predicts the block time and thus
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @cmichelio — 2018-10-19 21:12 UTC (2018-10-19 22:12 WAT)
+
+- URL: https://x.com/cmichelio/status/1053393501067591681
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Meaning, it's easy to write a bot that reads the current seed value predicts the block time and thus the randomness used in the contract. 🍀With that, you can know what cards you and the AI would be dealt. This would give you a near 100% win chance if that's your thing
+
+
+---
+
+## 2018-10-09 · Post · Penultimate C++ tutorial for EOS developers. Multi-index containers. Important for storing your dat
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2018-10-09 20:10 UTC (2018-10-09 21:10 WAT)
+
+- URL: https://x.com/cmichelio/status/1049753880861511680
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Penultimate C++ tutorial for #EOS developers. Multi-index containers. Important for storing your data in a smart contract! https://cmichel.io/cpp-guide-for-eos-development-multi-index/
+
+**Links in post:** https://cmichel.io/cpp-guide-for-eos-development-multi-index/
+
+
+---
+
+## 2018-10-04 · Post · After 5 hours I finally migrated my blog https://cmichel.io to @gatsbyjs v2 https://github.com/MrTop
+
+
+### Post — @cmichelio — 2018-10-04 14:56 UTC (2018-10-04 15:56 WAT)
+
+- URL: https://x.com/cmichelio/status/1047863035879149568
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> After 5 hours I finally migrated my blog https://cmichel.io to @gatsbyjs v2 https://github.com/MrToph/cmichelio/pull/4/ 😓 Dev mode does start up faster now though. 🙆‍♂️Let me know if you find any broken functionality. #gatsbyjs
+
+**Links in post:** https://cmichel.io, https://github.com/MrToph/cmichelio/pull/4/
+
+
+---
+
+## 2018-10-02 · Post · September 2018 Progress Report - Blogging, Side Projects, Mobile apps https://cmichel.io/progress-re
+
+
+### Post — @cmichelio — 2018-10-02 22:24 UTC (2018-10-02 23:24 WAT)
+
+- URL: https://x.com/cmichelio/status/1047250925855887363
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> September 2018 Progress Report - Blogging, Side Projects, Mobile apps https://cmichel.io/progress-report-september-2018/ #incomereport #reactNative
+
+**Links in post:** https://cmichel.io/progress-report-september-2018/
+
+
+---
+
+## 2018-09-03 · Post · August 2018 Progress Report - Blogging + Side Business with mobile apps https://cmichel.io/progress-
+
+
+### Post — @cmichelio — 2018-09-03 22:24 UTC (2018-09-03 23:24 WAT)
+
+- URL: https://x.com/cmichelio/status/1036741826076659712
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> August 2018 Progress Report - Blogging + Side Business with mobile apps https://cmichel.io/progress-report-august-2018/ #incomereport #reactNative
+
+**Links in post:** https://cmichel.io/progress-report-august-2018/
+
+
+---
+
+## 2018-08-21 · Post · “http://EOSpark.com launches EOS contract source code verification” by EOSpark Admin https://medium.
+
+
+### Post — @cmichelio — 2018-08-21 18:01 UTC (2018-08-21 19:01 WAT)
+
+- URL: https://x.com/cmichelio/status/1031964446292418560
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 2
+
+> “http://EOSpark.com launches EOS contract source code verification” by EOSpark Admin https://medium.com/@white_59505/eospark-com-launches-eos-contract-source-code-verification-c56a6667f424
+
+**Links in post:** http://EOSpark.com, https://medium.com/@white_59505/eospark-com-launches-eos-contract-source-code-verification-c56a6667f424
+
+
+---
+
+## 2018-08-03 · Post · July 2018 Progress Report - Blogging + Side Business with mobile and blockchain apps https://cmichel
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2018-08-03 16:40 UTC (2018-08-03 17:40 WAT)
+
+- URL: https://x.com/cmichelio/status/1025421210170130436
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> July 2018 Progress Report - Blogging + Side Business with mobile and blockchain apps https://cmichel.io/progress-report-july-2018/ #incomereport #reactNative #cryptocurrency [pic.x.com/EcBZlHnpMO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DjsHJSoXgAMyPT_.jpg — no alt text provided by author
+
+**Links in post:** https://cmichel.io/progress-report-july-2018/
+
+
+---
+
+## 2018-07-08 · Post · 🐛 Came across this bug in V8's Exponentiation Operator ** yesterday and investigated a bit. 🐛 https:
+
+
+### Post — @cmichelio — 2018-07-08 18:34 UTC (2018-07-08 19:34 WAT)
+
+- URL: https://x.com/cmichelio/status/1016027853769539586
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 4
+
+> 🐛 Came across this bug in V8's Exponentiation Operator ** yesterday and investigated a bit. 🐛 https://cmichel.io/bugs-in-exponentiation-operator/
+> #NodeJS #javascript #V8J [pic.x.com/ov9Cflo4ig]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DhmnzBQX0AEhGd9.png — no alt text provided by author
+
+**Links in post:** https://cmichel.io/bugs-in-exponentiation-operator/
+
+
+---
+
+## 2018-07-02 · Post · June 2018 Progress Report - Blogging + Side Business with reactNative Apps https://cmichel.io/progr
+
+
+### Post — @cmichelio — 2018-07-02 20:12 UTC (2018-07-02 21:12 WAT)
+
+- URL: https://x.com/cmichelio/status/1013878128236748800
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> June 2018 Progress Report - Blogging + Side Business with #reactNative Apps https://cmichel.io/progress-report-june-2018/ #incomereport [pic.x.com/3dp9DBbuRK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DhIEwUAX0AEIEOD.jpg — no alt text provided by author
+
+**Links in post:** https://cmichel.io/progress-report-june-2018/
+
+
+---
+
+## 2018-06-02 · Post · May 2018 Progress Report - Blogging + Side Business with reactNative Apps https://cmichel.io/progre
+
+
+### Post — @cmichelio — 2018-06-02 10:44 UTC (2018-06-02 11:44 WAT)
+
+- URL: https://x.com/cmichelio/status/1002863542603788289
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> May 2018 Progress Report - Blogging + Side Business with #reactNative Apps https://cmichel.io/progress-report-may-2018/ #incomereport [pic.x.com/l0JYAwGap7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Deri3pzW0Ac4XVK.jpg — no alt text provided by author
+
+**Links in post:** https://cmichel.io/progress-report-may-2018/
+
+
+---
+
+## 2018-05-02 · Post · April 2018 Progress Report - Side Business with reactNative Apps https://cmichel.io/progress-report
+
+
+### Post — @cmichelio — 2018-05-02 21:26 UTC (2018-05-02 22:26 WAT)
+
+- URL: https://x.com/cmichelio/status/991790988594241538
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> April 2018 Progress Report - Side Business with #reactNative Apps https://cmichel.io/progress-report-april-2018/ #incomereport [pic.x.com/aTse4rbmAb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DcOMmZuWsAAqUHk.jpg — no alt text provided by author
+
+**Links in post:** https://cmichel.io/progress-report-april-2018/
+
+
+---
+
+## 2018-04-02 · Post · March 2018 Progress Report - Side Business with reactNative Apps https://cmichel.io/progress-report
+
+
+### Post — @cmichelio — 2018-04-02 15:27 UTC (2018-04-02 16:27 WAT)
+
+- URL: https://x.com/cmichelio/status/980828963734945792
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 2
+
+> March 2018 Progress Report - Side Business with #reactNative Apps https://cmichel.io/progress-report-march-2018/ #incomereport
+
+**Links in post:** https://cmichel.io/progress-report-march-2018/
+
+
+---
+
+## 2018-03-01 · Post · February 2018 Income Report - Side Business with reactNative Apps https://cmichel.io/progress-repor
+
+
+### Post — @cmichelio — 2018-03-01 21:56 UTC (2018-03-01 22:56 WAT)
+
+- URL: https://x.com/cmichelio/status/969330611717582848
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> February 2018 Income Report - Side Business with #reactNative Apps https://cmichel.io/progress-report-february-2018/ #incomereport [pic.x.com/C0XcqZWiHf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DXPBByrXUAAv0YF.jpg — no alt text provided by author
+
+**Links in post:** https://cmichel.io/progress-report-february-2018/
+
+
+---
+
+## 2018-02-01 · Post · January 2018 Income Report - Side Business with reactNative Apps https://cmichel.io/progress-report
+
+
+### Post — @cmichelio — 2018-02-01 22:02 UTC (2018-02-01 23:02 WAT)
+
+- URL: https://x.com/cmichelio/status/959185209915793409
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> January 2018 Income Report - Side Business with #reactNative Apps https://cmichel.io/progress-report-january-2018/  #incomereport
+
+**Links in post:** https://cmichel.io/progress-report-january-2018/
+
+
+---
+
+## 2018-01-24 · Post · My favorite quotes from @davidgerard Attack of the 50 ft blockchain https://cmichel.io/book-review-a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2018-01-24 22:25 UTC (2018-01-24 23:25 WAT)
+
+- URL: https://x.com/cmichelio/status/956291793750036481
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 3
+
+> My favorite quotes from @davidgerard Attack of the 50 ft blockchain https://cmichel.io/book-review-attack-of-the-50-ft-blockchain/ #cryptocurrencies #cryptocurreny #bitcoin
+
+**Links in post:** https://cmichel.io/book-review-attack-of-the-50-ft-blockchain/
+
+
+---
+
+## 2018-01-02 · Post · December 2017 Income Report - Side Business with reactNative Apps http://crwd.fr/2A052lY incomerep
+
+
+### Post — @cmichelio — 2018-01-02 07:22 UTC (2018-01-02 08:22 WAT)
+
+- URL: https://x.com/cmichelio/status/948092021486571520
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> December 2017 Income Report - Side Business with #reactNative Apps http://crwd.fr/2A052lY #incomereport
+
+**Links in post:** http://crwd.fr/2A052lY
+
+
+---
+
+## 2017-12-12 · Post · This cryptokitty-like solidity lesson is quite fun :) https://share.cryptozombies.io/course/share/cm
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2017-12-12 22:59 UTC (2017-12-12 23:59 WAT)
+
+- URL: https://x.com/cmichelio/status/940717731153940480
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> This cryptokitty-like solidity lesson is quite fun :) https://share.cryptozombies.io/course/share/cmichel
+
+**Links in post:** https://share.cryptozombies.io/course/share/cmichel
+
+
+---
+
+## 2017-12-03 · Post · November Income Report - Side Business with reactNative Android Apps http://crwd.fr/2AQ1hom  inco
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-12-03 08:21 UTC (2017-12-03 09:21 WAT)
+
+- URL: https://x.com/cmichelio/status/937235256062763008
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> November Income Report - Side Business with #reactNative #Android Apps http://crwd.fr/2AQ1hom  #incomereport
+
+**Links in post:** http://crwd.fr/2AQ1hom
+
+
+---
+
+## 2017-11-02 · Post · October Income Report - Side Business with reactNative Android Apps http://crwd.fr/2z4Hosb  incom
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-11-02 08:07 UTC (2017-11-02 09:07 WAT)
+
+- URL: https://x.com/cmichelio/status/925997701963173888
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> October Income Report - Side Business with #reactNative #Android Apps http://crwd.fr/2z4Hosb  #incomereport
+
+**Links in post:** http://crwd.fr/2z4Hosb
+
+
+---
+
+## 2017-10-04 · Post · September Progress Report - Income with reactNative Android Apps http://crwd.fr/2xWcMI0 incomerep
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-10-04 07:25 UTC (2017-10-04 08:25 WAT)
+
+- URL: https://x.com/cmichelio/status/915477888480182272
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> September Progress Report - Income with #reactNative #Android Apps http://crwd.fr/2xWcMI0 #incomereport
+
+**Links in post:** http://crwd.fr/2xWcMI0
+
+
+---
+
+## 2017-09-24 · Post · Automating parts of my monthly blog post writing using headless chrome in nodejs http://crwd.fr/2xs
+
+
+### Post — @cmichelio — 2017-09-24 21:05 UTC (2017-09-24 22:05 WAT)
+
+- URL: https://x.com/cmichelio/status/912060357874737153
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 3
+
+> Automating parts of my monthly blog post writing using headless chrome in #nodejs http://crwd.fr/2xsMBXO #node #javascript
+
+**Links in post:** http://crwd.fr/2xsMBXO
+
+
+---
+
+## 2017-09-02 · Post · August Progress Report - Income with reactNative Android Apps http://crwd.fr/2eOCXXh  incomerepor
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-09-02 18:27 UTC (2017-09-02 19:27 WAT)
+
+- URL: https://x.com/cmichelio/status/904048097638182913
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> August Progress Report - Income with #reactNative #Android Apps http://crwd.fr/2eOCXXh  #incomereport
+
+**Links in post:** http://crwd.fr/2eOCXXh
+
+
+---
+
+## 2017-08-03 · Post · July Progress Report - Income with reactNative Android Apps - 110 Euro http://crwd.fr/2v0g1Lr  in
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-08-03 10:12 UTC (2017-08-03 11:12 WAT)
+
+- URL: https://x.com/cmichelio/status/893051860944388096
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> July Progress Report - Income with #reactNative #Android Apps - 110 Euro http://crwd.fr/2v0g1Lr  #incomereport #solopreneur
+
+**Links in post:** http://crwd.fr/2v0g1Lr
+
+
+---
+
+## 2017-07-01 · Post · June Progress Report - Income with reactNative Android Apps - NEW RECORD http://crwd.fr/2srZvpC i
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-07-01 19:12 UTC (2017-07-01 20:12 WAT)
+
+- URL: https://x.com/cmichelio/status/881228953654104065
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> June Progress Report - Income with #reactNative #Android Apps - NEW RECORD http://crwd.fr/2srZvpC #incomereport #solopreneur
+
+**Links in post:** http://crwd.fr/2srZvpC

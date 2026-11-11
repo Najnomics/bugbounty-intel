@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 34
-- Conversations/threads: 29
-- Oldest post captured: 2026-10-14
+- Posts in this file: 35
+- Conversations/threads: 30
+- Oldest post captured: 2026-10-07
 - Newest post captured: 2026-11-10
 
 
@@ -643,3 +643,22 @@ Tags (automatic): AI-assisted hunting
 > A friend is trying to report a valid security vulnerability to @Meta (which I've reviewed), but the AI triager keeps closing it for incorrect reasons.
 >
 > Could someone from Meta's security team reach out to me by any chance?
+
+
+---
+
+## 2026-10-07 · Post · The @intigriti process has been one of the worst experiences I’ve had receiving a bug bounty payout 
+
+
+### Post — @irsdl — 2026-10-07 11:27 UTC (2026-10-07 12:27 WAT)
+
+- URL: https://x.com/irsdl/status/2107795044564382020
+- Metrics (at fetch): bookmark 6, impression 4297, like 36, quote 0, reply 9, retweet 0
+
+> The @intigriti process has been one of the worst experiences I’ve had receiving a bug bounty payout for a report submitted to @msftsecresponse.
+>
+> It’s incredibly slow, unclear, and vague throughout.
+>
+> If I have a choice in the future, I’ll avoid using it.
+>
+> Not sure if other bb

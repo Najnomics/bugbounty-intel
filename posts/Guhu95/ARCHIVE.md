@@ -823,7 +823,7 @@ Tags (automatic): Smart contract / DeFi
 >
 > Yes it's annoying, but you know what's more annoying? Error-prone ugly spaghetti code with too many variables used in the same scope.
 >
-> Humans barely handle 4 items in https://t.co/0yrF9cVPE2
+> Humans barely handle 4 items in [pic.x.com/0yrF9cVPE2]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GqfV4O2WgAAEct9.jpg — no alt text provided by author

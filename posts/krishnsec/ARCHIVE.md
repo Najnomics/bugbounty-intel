@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 25
-- Oldest post captured: 2026-08-05
+- Posts in this file: 26
+- Conversations/threads: 26
+- Oldest post captured: 2026-08-04
 - Newest post captured: 2026-11-04
 
 
@@ -36,7 +36,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-11-02 · Post · A box full of @Bugcrowd swag✌️ https://t.co/lyQtkdCAzI
+## 2026-11-02 · Post · A box full of @Bugcrowd swag✌️ [pic.x.com/lyQtkdCAzI]
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -47,7 +47,7 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/krishnsec/status/2117223322031374344
 - Metrics (at fetch): bookmark 14, impression 5178, like 240, quote 0, reply 12, retweet 0
 
-> A box full of @Bugcrowd swag✌️ https://t.co/lyQtkdCAzI
+> A box full of @Bugcrowd swag✌️ [pic.x.com/lyQtkdCAzI]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HWHjYrBakAAVPi3.jpg — no alt text provided by author
@@ -225,7 +225,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-09-21 12:07 UTC (2026-09-21 13:07 WAT)
 
 - URL: https://x.com/krishnsec/status/2102006855241482637
-- Metrics (at fetch): bookmark 2, impression 4411, like 105, quote 0, reply 11, repost 0
+- Metrics (at fetch): bookmark 2, impression 4411, like 105, quote 0, reply 11, retweet 0
 
 > Crossed 19K reputation on @Bugcrowd ✅
 
@@ -241,7 +241,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-09-17 06:58 UTC (2026-09-17 07:58 WAT)
 
 - URL: https://x.com/krishnsec/status/2100479403478417659
-- Metrics (at fetch): bookmark 17, impression 6632, like 218, quote 0, reply 8, repost 1
+- Metrics (at fetch): bookmark 17, impression 6632, like 218, quote 0, reply 8, retweet 1
 
 > August on @Bugcrowd 🏆
 > Secured #1 on the leaderboard - wasn’t even chasing the spot. some old pending bugs finally got resolved. #bugbounty [pic.x.com/WMI0Zvfq6I]
@@ -293,7 +293,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-09-16 08:35 UTC (2026-09-16 09:35 WAT)
 
 - URL: https://x.com/krishnsec/status/2100141425983881443
-- Metrics (at fetch): bookmark 20, impression 7234, like 212, quote 0, reply 12, repost 2
+- Metrics (at fetch): bookmark 20, impression 7234, like 212, quote 0, reply 12, retweet 2
 
 > Top 3 P1 Warrior globally on @Bugcrowd ✅
 > no shortcuts- lot of late nights, broken apps and valid reports. #bugbounty 
@@ -342,7 +342,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-08-18 13:17 UTC (2026-08-18 14:17 WAT)
 
 - URL: https://x.com/krishnsec/status/2089703314653089816
-- Metrics (at fetch): bookmark 5, impression 3830, like 111, quote 0, reply 6, repost 0
+- Metrics (at fetch): bookmark 5, impression 3830, like 111, quote 0, reply 6, retweet 0
 
 > Crossed 18K reputation on @Bugcrowd ✅
 
@@ -422,7 +422,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-08-13 14:14 UTC (2026-08-13 15:14 WAT)
 
 - URL: https://x.com/krishnsec/status/2087905595471139144
-- Metrics (at fetch): bookmark 7, impression 5750, like 218, quote 1, reply 15, repost 2
+- Metrics (at fetch): bookmark 7, impression 5750, like 218, quote 1, reply 15, retweet 2
 
 > Made it into the Top 15 All-Time on @Bugcrowd 
 > Grateful for every opportunity, every program, triager, and everyone who's been part of the journey. Onwards and upwards. 🚀 [pic.x.com/iJmrNLXIBH]
@@ -485,3 +485,16 @@ Tags (automatic): Platform: Bugcrowd
 > @RootxRavi @Bugcrowd big thanks to myself ❌ krishnsec ✅ anyways
 > Congratulations keep digging hard 
 > way to top 25 &gt;&gt;&gt;&gt;
+
+
+---
+
+## 2026-08-04 · Post · Just got 2 P1 duped by 30 seconds 👀
+
+
+### Post — @krishnsec — 2026-08-04 16:54 UTC (2026-08-04 17:54 WAT)
+
+- URL: https://x.com/krishnsec/status/2084684441088405579
+- Metrics (at fetch): bookmark 4, impression 5830, like 86, quote 0, reply 12, retweet 1
+
+> Just got 2 P1 duped by 30 seconds 👀

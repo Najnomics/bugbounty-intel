@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 30
-- Conversations/threads: 26
-- Oldest post captured: 2026-02-02
+- Posts in this file: 32
+- Conversations/threads: 28
+- Oldest post captured: 2025-07-09
 - Newest post captured: 2026-10-19
 
 
@@ -620,3 +620,44 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > in the past few months i hadn't really put a lot of time and effort into it. Yields were dry, protocol fees are low % and it simply didn't make financial sense to pour a lot of time and effort into it.
 >
 > that pause made one thing clear - Yieldoor had
+
+
+---
+
+## 2025-12-02 · Post · im so excited to announce that this bounty was found using my own fine-tuned AI tool!
+
+
+Tags (automatic): AI-assisted hunting, Platform: Immunefi
+
+
+### Post — @deadrosesxyz — 2025-12-02 16:28 UTC (2025-12-02 17:28 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1995892777926709658
+- Metrics (at fetch): bookmark 134, impression 40408, like 688, quote 2, reply 49, retweet 17
+
+> im so excited to announce that this bounty was found using my own fine-tuned AI tool!
+>
+> i only had to first understand the codebase, get a very good lead for the exploit, feed all of this to the AI, explain my entire thought process of the attack and the AI found it 🙏 https://twitter.com/immunefi/status/1995853415017255281
+
+**Links in post:** https://twitter.com/immunefi/status/1995853415017255281
+
+**Quoted post** 1995853415017255281: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-07-09 · Post · they had a $5m bug bounty program btw
+
+
+### Post — @deadrosesxyz — 2025-07-09 14:25 UTC (2025-07-09 15:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1942953139411288322
+- Metrics (at fetch): bookmark 68, impression 49079, like 311, quote 4, reply 17, retweet 20
+
+> they had a $5m bug bounty program btw
+>
+> crazy that apparently it still didn’t receive enough attention from SRs https://twitter.com/peckshield/status/1942947860645134450
+
+**Links in post:** https://twitter.com/peckshield/status/1942947860645134450
+
+**Quoted post** 1942947860645134450: not readable via the API (deleted, private, or withheld).

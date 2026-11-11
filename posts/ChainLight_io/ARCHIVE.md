@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 125
-- Conversations/threads: 45
-- Oldest post captured: 2024-12-09
+- Posts in this file: 150
+- Conversations/threads: 70
+- Oldest post captured: 2024-10-14
 - Newest post captured: 2025-04-21
 
 
@@ -2357,3 +2357,523 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > (9/9)
 
 **Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-12-02 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590723083514118
+- Metrics (at fetch): bookmark 0, impression 268, like 1, quote 0, reply 1, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
+> 👉 Join Discord: https://t.co/JLtmTXIXXr
+>
+> (10/10)
+
+
+---
+
+## 2024-12-02 · Post · 7️⃣ @DMM_Bitcoin Plans Liquidation
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590710920069238
+- Metrics (at fetch): bookmark 0, impression 487, like 1, quote 0, reply 1, retweet 0
+
+> 7️⃣ @DMM_Bitcoin Plans Liquidation
+>
+> • DMM Bitcoin, a Japanese CEX, suffered a $320M hot wallet exploit in May 2024 due to a private key leak.
+> • According to on-chain investigator @zachxbt, the exploited assets are laundered through online marketplace Huione Guarantee.
+>
+> (9/10) https://t.co/YfHoz7AuZn
+
+**Quoted post** 1863445008151425099: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-02 · Post · 6️⃣ @agentsdotfun Mistakenly Locks $500K Presale Fund
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590698509103163
+- Metrics (at fetch): bookmark 0, impression 185, like 0, quote 0, reply 1, retweet 0
+
+> 6️⃣ @agentsdotfun Mistakenly Locks $500K Presale Fund
+>
+> • The presale contract was designed to convert its raised ETH into USDC with a hard-coded 3% slippage.
+> • This slippage requires at least $16M USDC in the pool, but no such pool exists on Base to support this.
+>
+> (8/10) https://t.co/xU6J7vrs4H
+
+**Quoted post** 1862010988582637718: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-02 · Post · 5️⃣ @GiftoMetaverse's GFT Token Allegedly Minted
+
+
+### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590686207164877
+- Metrics (at fetch): bookmark 0, impression 392, like 0, quote 0, reply 1, retweet 0
+
+> 5️⃣ @GiftoMetaverse's GFT Token Allegedly Minted
+>
+> • $8.6M worth of $GFT was allegedly minted after Binance announced the token's delisting on Dec 10, 2024.
+> • While the Gifto team stated they were investigating the incident, no updates have been provided since.
+>
+> (7/10) https://t.co/GwKesnooSQ
+
+**Quoted post** 1861978997376069918: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-02 · Post · 4️⃣ @pumpdotscience Suffers Private Key Leakage
+
+
+### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590674047840280
+- Metrics (at fetch): bookmark 0, impression 149, like 0, quote 0, reply 1, retweet 0
+
+> 4️⃣ @pumpdotscience Suffers Private Key Leakage
+>
+> • A project wallet was exploited after its private key was exposed in a GitHub repository.
+> • Initially, the keypair was intended for testing purposes but was later mistakenly used as a funds wallet.
+>
+> (6/10) https://t.co/xXrPdkw3xJ
+
+**Quoted post** 1861080069021827114: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-02 · Post · 3️⃣ DCF Token Loses $428K
+
+
+### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590661792170232
+- Metrics (at fetch): bookmark 0, impression 192, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ DCF Token Loses $428K
+>
+> • When transferred to its LP pool, the DCF token required 5% of the amount to be swapped as USDT and added to the DCT-USDT pool.
+> • Exploiting this swap, the attacker used a flash loan to manipulate the pool and drain USDT.
+>
+> (5/10) https://t.co/aj17uGwyLZ
+
+**Quoted post** 1860679864598319119: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-02 · Post · 2️⃣ @Clipper_DEX Loses $500K
+
+
+### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590649553211453
+- Metrics (at fetch): bookmark 0, impression 104, like 0, quote 0, reply 1, retweet 0
+
+> 2️⃣ @Clipper_DEX Loses $500K
+>
+> • After losing 6% of its TVL on Optimism and Base, Clipper team paused its operation on all chains.
+> • While the team claims no private key leakages, @shoucccc suggests an API vulnerability due to the victim contract's reliance on an API.
+>
+> (4/10) https://t.co/tmzwIlrVN6
+
+**Quoted post** 1863263893470003460: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-02 · Post · 1️⃣ @XTexchange Loses $1.7M
+
+
+### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590637351911555
+- Metrics (at fetch): bookmark 0, impression 125, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ @XTexchange Loses $1.7M
+>
+> • XT[.]com, a Dubai-based CEX, suspended withdrawals after the hot wallet exploit.
+> • Exploited assets are transferred to an EOA, `0xB43fFc4ea7c66C469c12d1BA3aAeB58420208F83`.
+>
+> (3/10) https://t.co/MRGXnZV0X5
+
+**Quoted post** 1862072439154569282: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-02 · Post · Table of Contents:
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590625410769308
+- Metrics (at fetch): bookmark 0, impression 187, like 1, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ XT Exchange Loses $1.7M
+> 2️⃣ Clipper DEX Loses $500K
+> 3️⃣ DCF Token Loses $428K
+> 4️⃣ Pump[.]Science Suffers Private Key Leakage
+> 5️⃣ Gifto's GFT Token Allegedly Minted
+> 6️⃣ Agents[.]fun Mistakenly Locks $500K Presale Fund
+> 7️⃣ DMM Bitcoin Plans Liquidation
+>
+> (2/10)
+
+
+---
+
+## 2024-12-02 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590611858898965
+- Metrics (at fetch): bookmark 2, impression 1081, like 10, quote 0, reply 1, retweet 2
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/10) https://t.co/0JjDE7lsVA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GdzNx5GacAAcKIg.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-25 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-11-25 14:00 UTC (2024-11-25 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1861047263533171077
+- Metrics (at fetch): bookmark 1, impression 265, like 1, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
+> 👉 Join Discord: https://t.co/JLtmTXIXXr
+>
+> (6/6)
+
+
+---
+
+## 2024-11-25 · Post · 3️⃣ Issues with @MorphL2 Rollup Contract
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-11-25 14:00 UTC (2024-11-25 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1861047251294093460
+- Metrics (at fetch): bookmark 1, impression 380, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ Issues with @MorphL2 Rollup Contract
+>
+> • Concerns arose about MorphL2's `importGenesisBatch` function being admin-modifiable.
+> • Morph team stated it is due to the faulty state at the initial deployment, claiming this to be fixed with another update under audit.
+>
+> (5/6) https://t.co/wKDfHfCJDp
+
+**Quoted post** 1859156478483218718: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-11-25 · Post · 2️⃣ @SuiNetwork Suffers a 2.5-hour Outage
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-11-25 14:00 UTC (2024-11-25 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1861047239134818675
+- Metrics (at fetch): bookmark 0, impression 112, like 0, quote 0, reply 1, retweet 0
+
+> 2️⃣ @SuiNetwork Suffers a 2.5-hour Outage
+>
+> • The root cause was a bug in the assertion mechanism that mishandled transactions with 0 execution cost.
+> • A recent update to Sui's congestion control mechanism triggered this edge case, causing validators to crash.
+>
+> (4/6) https://t.co/S5FdNJGcC4
+
+**Quoted post** 1859705664362381559: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-11-25 · Post · 1️⃣ @polterfinance Loses $8.7M
+
+
+### Post — @ChainLight_io — 2024-11-25 14:00 UTC (2024-11-25 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1861047226975629689
+- Metrics (at fetch): bookmark 0, impression 150, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ @polterfinance Loses $8.7M
+>
+> • Multiple bugs were combined in the exploit.
+> • $BOO's price relied on two Uniswap pools, and the Chainlink adapter contract, which should buffer drastic price changes, was misimplemented.
+> • Exploited assets were moved to Tornado Cash.
+>
+> (3/6) https://t.co/9jMkJhtSmm
+
+**Quoted post** 1846634050100039881: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-11-25 · Post · Table of Contents:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-11-25 14:00 UTC (2024-11-25 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1861047215227310402
+- Metrics (at fetch): bookmark 0, impression 121, like 1, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ Polter Finance Loses $8.7M
+> 2️⃣ Sui Suffers a 2.5-Hour Outage
+> 3️⃣ Issues Around MorphL2 Rollup Contract
+>
+> (2/6)
+
+
+---
+
+## 2024-11-25 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-11-25 14:00 UTC (2024-11-25 15:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1861047203420332142
+- Metrics (at fetch): bookmark 2, impression 771, like 7, quote 0, reply 1, retweet 1
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/6)
+
+
+---
+
+## 2024-10-21 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397453105496439
+- Metrics (at fetch): bookmark 1, impression 355, like 3, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: https://t.co/C4miHX17Xa
+> 👉 Join Discord: https://t.co/ASkiq3Gdte
+>
+> (6/6)
+
+
+---
+
+## 2024-10-21 · Post · 3️⃣ @tapioca_dao Loses $4.7M
+
+
+### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397440107282564
+- Metrics (at fetch): bookmark 1, impression 609, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ @tapioca_dao Loses $4.7M
+>
+> • A social engineering attack led to the team losing control of the token vesting contract, resulting in the loss of 590 ETH and 2.8M USDC.
+> • The team has proposed a $1M bounty.
+>
+> (5/6) https://t.co/EAHISNpbtk
+
+**Quoted post** 1847330264139145361: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-10-21 · Post · 2️⃣ @ArticSolana Rugpulls $21.8M
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397427365065092
+- Metrics (at fetch): bookmark 0, impression 1403, like 1, quote 0, reply 2, retweet 0
+
+> 2️⃣ @ArticSolana Rugpulls $21.8M
+>
+> • $ARTIC, a memecoin project by @ibx_exchange on @OrderlyNetwork, rugpulled 160K SOL from its presale.
+> • The project claimed a refund of 95K SOL, but instead of returning it to users, the funds were transferred to team wallets.
+>
+> (4/6) https://t.co/iDzLLgbtSJ
+
+**Quoted post** 1847157024393429416: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-10-21 · Post · 1️⃣ @RDNTCapital Loses $51M
+
+
+### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397414731858187
+- Metrics (at fetch): bookmark 0, impression 202, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ @RDNTCapital Loses $51M
+>
+> • Due to malware injection attacks on core contributors, Radiant Capital's 3-out-of-11 multisig wallet was compromised.
+> • The team claims the transaction calldata displayed on the Safe wallet frontend differed from the actual data.
+>
+> (3/6) https://t.co/9jMkJhtkwO
+
+**Quoted post** 1846634050100039881: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-10-21 · Post · Table of Contents:
+
+
+### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397402388005096
+- Metrics (at fetch): bookmark 0, impression 136, like 0, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ Radiant Capital Loses $51M
+> 2️⃣ IBXtrade Rugpulls $21.8M
+> 3️⃣ Tapioca DAO Loses $2.7M
+>
+> (2/6)
+
+
+---
+
+## 2024-10-21 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397389041668569
+- Metrics (at fetch): bookmark 2, impression 751, like 4, quote 0, reply 1, retweet 1
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/6) https://t.co/t6vGNb5Pgj
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/1848397376584626176/img/VhqfUeaVBTbBrc1M.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-14 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-10-14 15:50 UTC (2024-10-14 16:50 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1845854579193475222
+- Metrics (at fetch): bookmark 0, impression 261, like 0, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
+> 👉 Join Discord: https://t.co/JLtmTXIXXr
+>
+> (5/5)
+
+
+---
+
+## 2024-10-14 · Post · 2️⃣ Morpho User Loses $230K
+
+
+### Post — @ChainLight_io — 2024-10-14 15:49 UTC (2024-10-14 16:49 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1845854556179349554
+- Metrics (at fetch): bookmark 2, impression 485, like 0, quote 0, reply 1, retweet 0
+
+> 2️⃣ Morpho User Loses $230K
+>
+> • A Morpho market deployer lost $230K due to a misconfiguration of $PAXG's scaling factor.
+> • While $PAXG has 18 decimals, unlike $USDC's 6, the deployer set the same scaling factor for both, making $PAXG's price 10^12 times more expensive.
+>
+> (4/5) https://t.co/15c4JWNJcg
+
+**Quoted post** 1845515843787960661: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-10-14 · Post · 1️⃣ P719 Loses $328K
+
+
+### Post — @ChainLight_io — 2024-10-14 15:49 UTC (2024-10-14 16:49 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1845854533173604654
+- Metrics (at fetch): bookmark 0, impression 111, like 1, quote 0, reply 1, retweet 0
+
+> 1️⃣ P719 Loses $328K
+>
+> • P719, a staking project on BSC, misimplemented its token trade function.
+> • As token buy did not mint when msg.value was larger than threshold, while sell always burnt tokens, the exploiter manipulated price by buying and selling multiple times.
+>
+> (3/6) https://t.co/f6W1VkUGEF
+
+**Quoted post** 1844821291263803877: not readable via the API (deleted, private, or withheld).

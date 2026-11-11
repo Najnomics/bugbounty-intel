@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 22
-- Oldest post captured: 2026-10-26
+- Posts in this file: 66
+- Conversations/threads: 38
+- Oldest post captured: 2026-09-30
 - Newest post captured: 2026-11-09
 
 
@@ -770,3 +770,295 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - media `3_2114770913791221760` (details not returned by the API)
+
+
+---
+
+## 2026-10-18 · Post · not sure if it’s hardening patch but seems the attacker were targeting inference apis from cloudflar
+
+
+### Post — @S1r1u5_ — 2026-10-18 12:28 UTC (2026-10-18 13:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2111796444659384640
+- Metrics (at fetch): bookmark 21, impression 6693, like 65, quote 0, reply 0, retweet 2
+
+> not sure if it’s hardening patch but seems the attacker were targeting inference apis from cloudflare workers to bypass ip restrictions. 
+>
+> i am just speculating but if labs are involved then it seems they got lot of api keys?
+>
+> im still not sure how they got users private provider https://t.co/mKSZiQb5u5
+
+**Quoted post** 2111790511409258796: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-18 · Post · some guesses on the opencode hack
+
+
+### Post — @S1r1u5_ — 2026-10-18 05:40 UTC (2026-10-18 06:40 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2111693869834498422
+- Metrics (at fetch): bookmark 11, impression 6060, like 67, quote 0, reply 13, retweet 2
+
+> some guesses on the opencode hack
+>
+> 1. service account plaintext console keys of legacy users were leaked somehow
+>
+> 2. another possibility is a cross tenant authorization bug in recent migration, where one account could access another  connections?
+
+
+---
+
+## 2026-10-18 · Post · curl main source code has under 300k lines of code(?), yet seems very bug dense. 
+
+
+### Post — @S1r1u5_ — 2026-10-18 03:10 UTC (2026-10-18 04:10 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2111656177029488867
+- Metrics (at fetch): bookmark 62, impression 144403, like 614, quote 5, reply 29, retweet 4
+
+> curl main source code has under 300k lines of code(?), yet seems very bug dense. 
+>
+> any reason’s why https://t.co/AME38c75vj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HU4bAlXasAAE_l9.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-17 · Post · i don't think this favors defenders for now. there are just so many latent bugs out there that the a
+
+
+### Post — @S1r1u5_ — 2026-10-17 02:16 UTC (2026-10-17 03:16 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2111280060598731043
+- Metrics (at fetch): bookmark 33, impression 10125, like 61, quote 4, reply 5, retweet 2
+
+> i don't think this favors defenders for now. there are just so many latent bugs out there that the asymmetry is heavily skewed towards attackers. you can pop pretty much any company in a few days. it's not even that hard anymore, and you can do irreparable damage in that time.
+>
+> i https://t.co/WbeIKgqzzF
+
+**Quoted post** 2111222808567275616: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-12 · Post · it is pretty concerning that a lot of level headed people are moving the discussion away from model 
+
+
+### Post — @S1r1u5_ — 2026-10-12 20:37 UTC (2026-10-12 21:37 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2109745222569849130
+- Metrics (at fetch): bookmark 15, impression 8954, like 79, quote 4, reply 6, retweet 8
+
+> it is pretty concerning that a lot of level headed people are moving the discussion away from model capabilities and dismissing the hugging face incident as just human error and silly sandbox misconfigurations, instead of taking it as a warning shot.
+>
+> this is a dangerous https://t.co/8nJ1kP9suX
+
+**Quoted post** 2109387365307544012: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-11 · Post · imagine a machine that can exploit software and people better than anyone alive, and gets better eve
+
+
+### Post — @S1r1u5_ — 2026-10-11 00:36 UTC (2026-10-11 01:36 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2109080657209250248
+- Metrics (at fetch): bookmark 41, impression 8051, like 81, quote 1, reply 4, retweet 8
+
+> imagine a machine that can exploit software and people better than anyone alive, and gets better every release.
+>
+> this is such a weird world, so many implications, some random thoughts:
+>
+> 1. mathematicians want their proofs to be understood to progress the field, this doesnt apply
+
+
+---
+
+## 2026-10-10 · Post · one of the annoying parts of building an ai based vulnerability scanner is that there is no free lun
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-10-10 03:21 UTC (2026-10-10 04:21 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2108759733721235680
+- Metrics (at fetch): bookmark 139, impression 15142, like 353, quote 1, reply 30, retweet 15
+
+> one of the annoying parts of building an ai based vulnerability scanner is that there is no free lunch. you get completely different results depending on how you approach the problem.
+>
+> 1. you can throw an absurd number of tokens at gpt sol, and it will still miss a bug that opus
+
+
+---
+
+## 2026-10-08 · Post · meh, every exploit ai finds is still within the convex hull, wake me up when it solves the halting p
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-10-08 08:24 UTC (2026-10-08 09:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2108111242607149419
+- Metrics (at fetch): bookmark 13, impression 6006, like 113, quote 2, reply 5, retweet 2
+
+> meh, every exploit ai finds is still within the convex hull, wake me up when it solves the halting problem.
+
+
+---
+
+## 2026-10-07 · Post · this model is going to be an absolute menace for exploit development. https://t.co/9OYDT1cuLc
+
+
+### Post — @S1r1u5_ — 2026-10-07 02:28 UTC (2026-10-07 03:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2107659195751481527
+- Metrics (at fetch): bookmark 29, impression 14870, like 158, quote 1, reply 5, retweet 1
+
+> this model is going to be an absolute menace for exploit development. https://t.co/9OYDT1cuLc
+
+**Quoted post** 2107596713791767021: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-04 · Post · a developer cant comprehend the full system they’re building. as things get added, it grows beyond t
+
+
+### Post — @S1r1u5_ — 2026-10-04 03:22 UTC (2026-10-04 04:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2106585837039227040
+- Metrics (at fetch): bookmark 17, impression 5052, like 107, quote 3, reply 7, retweet 7
+
+> a developer cant comprehend the full system they’re building. as things get added, it grows beyond their comprehension and mental model. this complexity is fine as long as the system works. 
+>
+> the same complexity also makes exploitation a scarce expertise. a few people can put in
+
+
+---
+
+## 2026-10-03 · Post · fwiw, firecracker/kvm-style microVMs are everywhere, frontier labs use too
+
+
+### Post — @S1r1u5_ — 2026-10-03 16:46 UTC (2026-10-03 17:46 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2106425708801302642
+- Metrics (at fetch): bookmark 106, impression 21229, like 307, quote 1, reply 9, retweet 25
+
+> fwiw, firecracker/kvm-style microVMs are everywhere, frontier labs use too
+>
+> but only google with kvmctf, and vercel with sanbox challenge, which afaik actually put incentivies for researchers to break their production sandboxes.
+>
+> this 0day is obviously extremely valuable outside https://t.co/uWrhr1VYY8
+
+**Quoted post** 2106398882410434776: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-03 · Post · fwiw, firecracker/kvm-style microVMs are everywhere, frontier labs use too
+
+
+### Post — @S1r1u5_ — 2026-10-03 16:39 UTC (2026-10-03 17:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2106423888217289100
+- Metrics (at fetch): bookmark 1, impression 497, like 3, quote 0, reply 0, retweet 0
+
+> fwiw, firecracker/kvm-style microVMs are everywhere, frontier labs use too
+>
+> but only google with kvmctf, and vercel with sanbox challenge, which afaik actually put incentivies for researchers to break their production sandboxes.
+>
+> this 0day is obviously extremely valuable outside https://t.co/uWrhr1Vr8A
+
+**Quoted post** 2106398882410434776: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-03 · Post · fwiw, firecraxker/kbm-style microVMs are everywhere,  frontier labs too
+
+
+### Post — @S1r1u5_ — 2026-10-03 16:38 UTC (2026-10-03 17:38 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2106423535631507861
+- Metrics (at fetch): bookmark 0, impression 354, like 1, quote 0, reply 0, retweet 0
+
+> fwiw, firecraxker/kbm-style microVMs are everywhere,  frontier labs too
+>
+> but only google with kvmctf, and vercel afaik actually put incentivies for researchers to break their production sandbox boundary.
+>
+> thus 0day is obviously extremely valuable outside these programs. but most https://t.co/uWrhr1Vr8A
+
+**Quoted post** 2106398882410434776: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-03 · Post · this is quiet bad!! the blast raidus of the bug is huge. https://t.co/AWQV684TPM
+
+
+### Post — @S1r1u5_ — 2026-10-03 15:41 UTC (2026-10-03 16:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2106409377628647442
+- Metrics (at fetch): bookmark 36, impression 19281, like 184, quote 0, reply 2, retweet 11
+
+> this is quiet bad!! the blast raidus of the bug is huge. https://t.co/AWQV684TPM
+
+**Quoted post** 2106402024804020657: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-02 · Post · they are a lot, but isn't most of them quiet useless?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-10-02 14:32 UTC (2026-10-02 15:32 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2106029524060410230
+- Metrics (at fetch): bookmark 6, impression 4493, like 39, quote 0, reply 4, retweet 0
+
+> they are a lot, but isn't most of them quiet useless?
+>
+> is it a tactic to dos with many cves so that interesting ones are not easily identifiable by llms, you need to spend more tokens find a lpe worthy bug if you have these many cves https://t.co/M0PIX7HJ3w
+
+**Quoted post** 2105240703383027897: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-30 · Post · this is an incredibly impactful bug! would've been a massive supply chain vulnerability if someone e
+
+
+Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2026-09-30 15:42 UTC (2026-09-30 16:42 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2105322479556386911
+- Metrics (at fetch): bookmark 92, impression 34270, like 468, quote 1, reply 12, retweet 10
+
+> this is an incredibly impactful bug! would've been a massive supply chain vulnerability if someone exploited it.
+>
+> the triager on hackerone for almost 2 months didn't understand what the bug is and blocked it from reaching vercel. https://t.co/B1tTzxik7j
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2052867933513097218 — 2026-09-30 15:19 UTC (2026-09-30 16:19 WAT)
+    
+    - URL: https://x.com/2052867933513097218/status/2105316601268736155
+    - Metrics (at fetch): bookmark 309, impression 274508, like 1403, quote 15, reply 56, repost 40
+    
+    > First Tweet, first Bounty, 2026 is going great :)) [pic.x.com/gwOtejjOmH]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HTeV8LbWEAEs0y3.jpg — no alt text provided by author
+    
