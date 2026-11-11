@@ -1,6 +1,7 @@
-# Payloads — supply
+# Payloads — dependency confusion
 
 _Verbatim payload / request patterns extracted from findings in this repo. Nothing invented._
+
 
 ## 1. $1,200 Bugcrowd dependency confusion
 - Researcher: @mdp_sec

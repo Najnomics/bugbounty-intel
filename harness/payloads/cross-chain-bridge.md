@@ -1,6 +1,7 @@
-# Payloads — l2
+# Payloads — cross chain bridge
 
 _Verbatim payload / request patterns extracted from findings in this repo. Nothing invented._
+
 
 ## 1. Polygon zkEVM: reverted non-free claim txs mark deposit counts and block L1→L2 claims (Immunefi)
 - Researcher: @0xiczc
