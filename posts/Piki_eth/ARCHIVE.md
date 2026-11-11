@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 67
-- Conversations/threads: 63
-- Oldest post captured: 2025-04-17
+- Posts in this file: 71
+- Conversations/threads: 67
+- Oldest post captured: 2024-09-21
 - Newest post captured: 2026-11-09
 
 
@@ -1469,3 +1469,95 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GouMTppXcAEVCmc.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-07 · Post · Introducing @3BerasCapital_
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516083366085060
+- Metrics (at fetch): bookmark 0, impression 108, like 2, quote 0, reply 1, retweet 0
+
+> Introducing @3BerasCapital_
+>
+> 🧵 What is Three Beras Capital (3BC)?
+> Three Beras Capital (3BC) is an innovative DAO pushing the boundaries of blockchain by combining AI-driven storytelling, NFT technology, and decentralized governance.
+> It’s not just an investment DAO—it’s a
+
+
+---
+
+## 2024-09-30 · Post · 🚀Sonic Airdrop
+
+
+### Post — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840670923906806087
+- Metrics (at fetch): bookmark 0, impression 249, like 4, quote 1, reply 2, retweet 2
+
+> 🚀Sonic Airdrop
+>
+> Don’t miss out on the hype around @0xSonicLabs—everyone’s talking about it!
+>
+> 💵Raised: $10M
+> 🎁Confirmed 190M $S airdrop 
+> 💰Cost: $0
+>
+> Follow 🧵👇 https://t.co/aDPS31BuZs
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-09-28 · Post · Why I Just Bought a QBX NFT for 0.5 ETH 🧵
+
+
+### Post — @Piki_eth — 2024-09-28 12:58 UTC (2024-09-28 13:58 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840013238026543191
+- Metrics (at fetch): bookmark 0, impression 957, like 17, quote 0, reply 5, retweet 5
+
+> Why I Just Bought a QBX NFT for 0.5 ETH 🧵
+> @qiibeefdn 
+>
+> 🛒 Just bought a QBX NFT for 0.5 ETH!   
+>  QBX airdrop💰 and upcoming rewards.🎁
+>
+> follow the 🧵 To learn more 
+> ✅About QBX
+> ✅Airdrop &amp; Rewards
+> ✅Tokenomics  
+> ✅Price prediction https://t.co/oXQOqmJtEi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYkKSHtXcAAHgqE.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-21 · Post · 🚀Ora node setup @OraProtocol 
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @Piki_eth — 2024-09-21 08:58 UTC (2024-09-21 09:58 WAT)
+
+- URL: https://x.com/Piki_eth/status/1837416019796938791
+- Metrics (at fetch): bookmark 0, impression 114, like 0, quote 0, reply 2, retweet 0
+
+> 🚀Ora node setup @OraProtocol 
+>
+> Ora Protocol: Powering Smart Contracts with Decentralized AI Oracles! 🧠💻
+>
+> 🌟 Funding: Raised $20M from top investors like Polychain &amp; Hashkey.
+> 🤝 Partnerships: Collaborating with giants like Optimism, Arbitrum, and Base.
+> 🎯 Ready to set up your

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 98
-- Conversations/threads: 89
-- Oldest post captured: 2016-08-02
+- Posts in this file: 153
+- Conversations/threads: 144
+- Oldest post captured: 2013-03-27
 - Newest post captured: 2026-10-24
 
 
@@ -573,7 +573,9 @@ Tags (automatic): XSS
 
 > In the 🧵 below is the solution for the XSS-challenge I posted last Friday.
 >
-> Thanks to all that tried it and to the ones that solved it, great job! https://t.co/Wi6qFsTpyT
+> Thanks to all that tried it and to the ones that solved it, great job! https://twitter.com/fransrosen/status/1733004108448059677
+
+**Links in post:** https://twitter.com/fransrosen/status/1733004108448059677
 
 **Quoted post (full text):**
 
@@ -584,7 +586,9 @@ Tags (automatic): XSS
     
     > Here's an XSS-challenge taken from real life. Can you make it alert() on my origin? Send me your solution in DM. I will post a hint in this thread after the weekend. #xss #bugbounty
     >
-    > https://t.co/8ZItPkrzhs
+    > https://fransrosen.com/xss-chall-01-repl.html
+    
+    **Links in post:** https://fransrosen.com/xss-chall-01-repl.html
     
 
 
@@ -785,7 +789,9 @@ Tags (automatic): XSS
 
 > Here's an XSS-challenge taken from real life. Can you make it alert() on my origin? Send me your solution in DM. I will post a hint in this thread after the weekend. #xss #bugbounty
 >
-> https://t.co/8ZItPkrzhs
+> https://fransrosen.com/xss-chall-01-repl.html
+
+**Links in post:** https://fransrosen.com/xss-chall-01-repl.html
 
 
 ---
@@ -832,7 +838,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2023-10-26 · Post · What was the best reply you ever got from a program on a bug report? This one is up there: https://t
+## 2023-10-26 · Post · What was the best reply you ever got from a program on a bug report? This one is up there: [pic.x.co
 
 
 ### Post — @fransrosen — 2023-10-26 15:53 UTC (2023-10-26 16:53 WAT)
@@ -840,7 +846,7 @@ Tags (automatic): XSS
 - URL: https://x.com/fransrosen/status/1717570157294338101
 - Metrics (at fetch): bookmark 26, impression 66085, like 299, quote 2, reply 34, retweet 14
 
-> What was the best reply you ever got from a program on a bug report? This one is up there: https://t.co/64E7258WDi
+> What was the best reply you ever got from a program on a bug report? This one is up there: [pic.x.com/64E7258WDi]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F9YI9DdWAAAxm1I.jpg — no alt text provided by author
@@ -902,6 +908,116 @@ Tags (automatic): XSS
 > Three time MVH. Feels good, not gonna lie. https://t.co/9c41bZUJ1W
 
 **Quoted post** 1689135689579843584: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-05-09 · Post · Great bug chain! Also thanks for the shoutout! :) https://t.co/3Dg8luE8AM
+
+
+### Post — @fransrosen — 2023-05-09 08:36 UTC (2023-05-09 09:36 WAT)
+
+- URL: https://x.com/fransrosen/status/1655854318052933632
+- Metrics (at fetch): not returned
+
+> Great bug chain! Also thanks for the shoutout! :) https://t.co/3Dg8luE8AM
+
+**Links in post:** https://t.co/3Dg8luE8AM
+
+**Quoted post** 1654537589129461761: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-12-17 · Post · Here's my talk for the RCE on Apple I found using hot jar swapping 
+
+
+Tags (automatic): RCE
+
+
+### Post — @fransrosen — 2022-12-17 09:32 UTC (2022-12-17 10:32 WAT)
+
+- URL: https://x.com/fransrosen/status/1604046775706423297
+- Metrics (at fetch): not returned
+
+> Here's my talk for the RCE on Apple I found using hot jar swapping 
+> https://youtu.be/A-O-irpqUWQ
+> And here's the demo code you can play with to test the flow I abused: https://github.com/fransr/hot-jar-swapping-urlclassloader [pic.x.com/ZGZ2LIaACv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkK4CnIXkAEIqLI.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/A-O-irpqUWQ, https://github.com/fransr/hot-jar-swapping-urlclassloader
+
+
+---
+
+## 2022-10-15 · Post · Ten years ago today I sent my first bug bounty report. It was to PayPal. Fascinating to see some thi
+
+
+### Post — @fransrosen — 2022-10-15 07:49 UTC (2022-10-15 08:49 WAT)
+
+- URL: https://x.com/fransrosen/status/1581190461217071104
+- Metrics (at fetch): not returned
+
+> Ten years ago today I sent my first bug bounty report. It was to PayPal. Fascinating to see some things are very different now from then, but some things are still exactly like they were. [pic.x.com/gYMzbVvNOb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfGEV-NXwAA9YXF.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-02 · Post · I was finally able to disclose one of the examples from my last blog post https://labs.detectify.com
+
+
+Tags (automatic): OAuth
+
+
+### Post — @fransrosen — 2022-08-02 16:05 UTC (2022-08-02 17:05 WAT)
+
+- URL: https://x.com/fransrosen/status/1554498536909201408
+- Metrics (at fetch): not returned
+
+> I was finally able to disclose one of the examples from my last blog post https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/ 
+> Here's the PoC-movie from the report to Reddit: [pic.x.com/0BmofpLCPo] https://twitter.com/disclosedh1/status/1554486030081970177
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, https://twitter.com/disclosedh1/status/1554486030081970177
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2022-08-02 15:15 UTC (2022-08-02 16:15 WAT)
+    
+    - URL: https://x.com/2481701395/status/1554486030081970177
+    - Metrics (at fetch): not returned
+    
+    > Reddit disclosed a bug submitted by fransrosen: https://hackerone.com/reports/1567186 - Bounty: $10,000 #hackerone #bugbounty [pic.x.com/hFiOHkqEke]
+    
+    **Media:**
+    - media `3_1554486029276553223` (details not returned by the API)
+    
+    **Links in post:** https://hackerone.com/reports/1567186
+    
+
+
+---
+
+## 2022-06-03 · Post · Join our team and work with the bug bounty community at Detectify:
+
+
+### Post — @fransrosen — 2022-06-03 15:01 UTC (2022-06-03 16:01 WAT)
+
+- URL: https://x.com/fransrosen/status/1532739218790825986
+- Metrics (at fetch): not returned
+
+> Join our team and work with the bug bounty community at Detectify:
+> https://detectify.com/career/stockholm/job-form/?gh_jid=4941381003
+> Remote or on-location in Stockholm/Boston ♥️
+
+**Links in post:** https://detectify.com/career/stockholm/job-form/?gh_jid=4941381003
 
 
 ---
@@ -1681,3 +1797,764 @@ Tags (automatic): XSS
 - Metrics (at fetch): not returned
 
 > "Game time! Exploitable Self XSS through Clickjacking Game" #memorablebugreports
+
+
+---
+
+## 2016-08-02 · Post · "SWF signature bypass creating CSRF/API-token leakage due to URL-combination/Flash Content Type Snif
+
+
+### Post — @fransrosen — 2016-08-02 07:56 UTC (2016-08-02 08:56 WAT)
+
+- URL: https://x.com/fransrosen/status/760383754888212480
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> "SWF signature bypass creating CSRF/API-token leakage due to URL-combination/Flash Content Type Sniffing" #memorablebugreports
+
+
+---
+
+## 2016-08-02 · Post · "Reflected XSS using Reverse Clickjacking in ajax URL, traversal to JSONP-endpoint bypassing XSS Aud
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-08-02 07:54 UTC (2016-08-02 08:54 WAT)
+
+- URL: https://x.com/fransrosen/status/760383193006612480
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 2
+
+> "Reflected XSS using Reverse Clickjacking in ajax URL, traversal to JSONP-endpoint bypassing XSS Audit" #memorablebugreports
+
+
+---
+
+## 2016-08-02 · Post · "Copy &amp; Paste XSS using non-sanitized JSONP endpoint with SOME/Reverse Clickjacking" memorableb
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-08-02 07:53 UTC (2016-08-02 08:53 WAT)
+
+- URL: https://x.com/fransrosen/status/760383111704215553
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 1
+
+> "Copy &amp; Paste XSS using non-sanitized JSONP endpoint with SOME/Reverse Clickjacking" #memorablebugreports
+
+
+---
+
+## 2016-07-23 · Post · ?x=&lt;img+src=x+onerror=`ö`-alert(1)&gt;
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-07-23 02:47 UTC (2016-07-23 03:47 WAT)
+
+- URL: https://x.com/fransrosen/status/756682061126270976
+- Metrics (at fetch): bookmark 2, impression 0, like 84, quote 0, reply 4, retweet 37
+
+> ?x=&lt;img+src=x+onerror=`ö`-alert(1)&gt;
+>
+> &lt;?=json_encode($_GET['x'])?&gt;
+> #chrome #xss #bypass
+
+
+---
+
+## 2016-06-30 · Post · Play Framework JavaScript Router XSS https://t.co/KxfwOPuuX0
+
+
+Tags (automatic): XSS, Path normalization
+
+
+### Post — @fransrosen — 2016-06-30 16:11 UTC (2016-06-30 17:11 WAT)
+
+- URL: https://x.com/fransrosen/status/748549523874713600
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 2, reply 1, retweet 5
+
+> Play Framework JavaScript Router XSS https://t.co/KxfwOPuuX0
+
+
+---
+
+## 2016-06-21 · Post · My slides from @securityfest are now online! "The Secret Life of a Bug Bounty Hunter"
+
+
+### Post — @fransrosen — 2016-06-21 20:48 UTC (2016-06-21 21:48 WAT)
+
+- URL: https://x.com/fransrosen/status/745357690524827648
+- Metrics (at fetch): bookmark 7, impression 0, like 139, quote 2, reply 4, retweet 65
+
+> My slides from @securityfest are now online! "The Secret Life of a Bug Bounty Hunter"
+> https://t.co/5IJIFRlMYv
+
+
+---
+
+## 2016-06-01 · Post · My talk for tomorrow's @securityfest is a mashup of CSP bypasses, bug bounty methodologies, "free" m
+
+
+Tags (automatic): CSP / CSPT
+
+
+### Post — @fransrosen — 2016-06-01 14:21 UTC (2016-06-01 15:21 WAT)
+
+- URL: https://x.com/fransrosen/status/738012572801208320
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 2, retweet 1
+
+> My talk for tomorrow's @securityfest is a mashup of CSP bypasses, bug bounty methodologies, "free" money and GIFs. https://t.co/RsZaul3T25
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2016-05-17 · Post · A great list of some awesome bug bounty writeups: https://t.co/Cbs92yezj2
+
+
+### Post — @fransrosen — 2016-05-17 08:57 UTC (2016-05-17 09:57 WAT)
+
+- URL: https://x.com/fransrosen/status/732495186538811392
+- Metrics (at fetch): bookmark 2, impression 0, like 54, quote 0, reply 1, retweet 24
+
+> A great list of some awesome bug bounty writeups: https://t.co/Cbs92yezj2
+
+
+---
+
+## 2016-05-06 · Post · Can't we just create a globetrotter bug bounty team and join forces together? Imagine the stuff we w
+
+
+### Post — @fransrosen — 2016-05-06 22:11 UTC (2016-05-06 23:11 WAT)
+
+- URL: https://x.com/fransrosen/status/728708672138907648
+- Metrics (at fetch): bookmark 0, impression 0, like 44, quote 0, reply 5, retweet 9
+
+> Can't we just create a globetrotter bug bounty team and join forces together? Imagine the stuff we would find.
+
+
+---
+
+## 2016-04-19 · Post · Here's a fun bug I found! https://t.co/rbnGx0V12p
+
+
+### Post — @fransrosen — 2016-04-19 22:53 UTC (2016-04-19 23:53 WAT)
+
+- URL: https://x.com/fransrosen/status/722558743926468608
+- Metrics (at fetch): bookmark 0, impression 0, like 31, quote 0, reply 1, retweet 16
+
+> Here's a fun bug I found! https://t.co/rbnGx0V12p
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Bugcrowd — 2016-04-19 20:17 UTC (2016-04-19 21:17 WAT)
+    
+    - URL: https://x.com/Bugcrowd/status/722519545567698945
+    - Metrics (at fetch): bookmark 0, impression 0, like 51, quote 0, reply 2, retweet 41
+    
+    > [Guest Blog] @fransrosen on how he used a Braun Shaver to bypass XSS audit &amp; WAF https://t.co/w8amEM2ovb @detectify https://t.co/hycnY2N8UC
+    
+    **Media:**
+    - media `3_722519545005662208` (details not returned by the API)
+    
+
+
+---
+
+## 2016-04-18 · Post · Another Google XSS, this time on https://t.co/ZtFZBSYnv3. *Obama's Elf*. https://t.co/ZSRERaEbRf
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-04-18 17:32 UTC (2016-04-18 18:32 WAT)
+
+- URL: https://x.com/fransrosen/status/722115488428331008
+- Metrics (at fetch): bookmark 0, impression 0, like 42, quote 0, reply 3, retweet 6
+
+> Another Google XSS, this time on https://t.co/ZtFZBSYnv3. *Obama's Elf*. https://t.co/ZSRERaEbRf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CgV4NW3UsAI6hwi.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/CgV4NZ4UEAAqsWb.jpg — no alt text provided by author
+
+
+---
+
+## 2016-04-15 · Post · Automation in Bug Bounties is a real thing. It works extremely well if you're doing it right. https:
+
+
+### Post — @fransrosen — 2016-04-15 17:35 UTC (2016-04-15 18:35 WAT)
+
+- URL: https://x.com/fransrosen/status/721029268952784896
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 1
+
+> Automation in Bug Bounties is a real thing. It works extremely well if you're doing it right. https://t.co/arly4co827
+
+
+---
+
+## 2016-04-13 · Post · Seriously, I found this Google XSS tonight by accident from a payload I planted in 2013. Step up the
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2016-04-13 22:52 UTC (2016-04-13 23:52 WAT)
+
+- URL: https://x.com/fransrosen/status/720384222469337088
+- Metrics (at fetch): bookmark 0, impression 0, like 76, quote 0, reply 11, retweet 9
+
+> Seriously, I found this Google XSS tonight by accident from a payload I planted in 2013. Step up the game @sasi2103! https://t.co/STNqBVBtW3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cf9RoeQWwAA2jHu.jpg — no alt text provided by author
+
+
+---
+
+## 2016-03-26 · Post · the @prezi bug bounty leaderboard is updated. thanks a lot guys/girls! https://t.co/Z7wxwoEiPg
+
+
+### Post — @fransrosen — 2016-03-26 18:51 UTC (2016-03-26 19:51 WAT)
+
+- URL: https://x.com/fransrosen/status/713800650086330368
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 4, retweet 2
+
+> the @prezi bug bounty leaderboard is updated. thanks a lot guys/girls! https://t.co/Z7wxwoEiPg
+
+
+---
+
+## 2016-03-18 · Post · Will talk around bug bounties in general and some specific findings of mine at Ericsson Globe today 
+
+
+### Post — @fransrosen — 2016-03-18 11:53 UTC (2016-03-18 12:53 WAT)
+
+- URL: https://x.com/fransrosen/status/710796239546220544
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 0, reply 2, retweet 1
+
+> Will talk around bug bounties in general and some specific findings of mine at Ericsson Globe today at Dustin Expo 2.30pm. Will be recorded!
+
+
+---
+
+## 2016-02-23 · Post · Will speak about doing bug bounties from an iPhone – in Thailand. Tomorrow at 'Säkerhetsdagen' in St
+
+
+### Post — @fransrosen — 2016-02-23 21:04 UTC (2016-02-23 22:04 WAT)
+
+- URL: https://x.com/fransrosen/status/702237687038787585
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 3, retweet 1
+
+> Will speak about doing bug bounties from an iPhone – in Thailand. Tomorrow at 'Säkerhetsdagen' in Stockholm.
+
+
+---
+
+## 2016-02-10 · Post · "instead attacker uses Unicode symbols whose code point fold into CRs/LFs, attacker can bypass Node.
+
+
+### Post — @fransrosen — 2016-02-10 16:41 UTC (2016-02-10 17:41 WAT)
+
+- URL: https://x.com/fransrosen/status/697460432840323072
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 0, retweet 4
+
+> "instead attacker uses Unicode symbols whose code point fold into CRs/LFs, attacker can bypass Node.js’s protection" https://t.co/1A61vEyJey
+
+
+---
+
+## 2015-12-18 · Post · The real question is: Why did it take ~4 days for FB to triage/fix an RCE? When also multiple ppl re
+
+
+Tags (automatic): RCE
+
+
+### Post — @fransrosen — 2015-12-18 12:34 UTC (2015-12-18 13:34 WAT)
+
+- URL: https://x.com/fransrosen/status/677829162913112064
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 1, retweet 4
+
+> The real question is: Why did it take ~4 days for FB to triage/fix an RCE? When also multiple ppl reported it?
+
+
+---
+
+## 2015-12-18 · Post · The Bug Bounty Problem: Perspectives 
+
+
+### Post — @fransrosen — 2015-12-18 00:51 UTC (2015-12-18 01:51 WAT)
+
+- URL: https://x.com/fransrosen/status/677652250706247680
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 7
+
+> The Bug Bounty Problem: Perspectives 
+> by Justin Calmus CSO @Zenefits https://t.co/EiloyMMcme
+
+
+---
+
+## 2015-11-20 · Post · My first bug bounty report ever was on the 15th of Oct 2012 – XSS on https://t.co/qa3HqufqK1. @Bugcr
+
+
+Tags (automatic): XSS, Platform: Bugcrowd
+
+
+### Post — @fransrosen — 2015-11-20 21:26 UTC (2015-11-20 22:26 WAT)
+
+- URL: https://x.com/fransrosen/status/667816326577065984
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 2, retweet 7
+
+> My first bug bounty report ever was on the 15th of Oct 2012 – XSS on https://t.co/qa3HqufqK1. @Bugcrowd &lt;3 #bugcrowd3yrs
+
+
+---
+
+## 2015-11-19 · Post · Such a great writeup on @observer about the absence of privacy w/ Chrome extensions by @BradyDale ht
+
+
+### Post — @fransrosen — 2015-11-19 16:45 UTC (2015-11-19 17:45 WAT)
+
+- URL: https://x.com/fransrosen/status/667383201560702976
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 2
+
+> Such a great writeup on @observer about the absence of privacy w/ Chrome extensions by @BradyDale https://t.co/6AVmNVyY2n
+
+
+---
+
+## 2015-11-10 · Post · Got a CVE from @mozsec, CVE-2015-7195. More info at https://t.co/R48A3nEaVY
+
+
+### Post — @fransrosen — 2015-11-10 20:43 UTC (2015-11-10 21:43 WAT)
+
+- URL: https://x.com/fransrosen/status/664181557985431552
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 1
+
+> Got a CVE from @mozsec, CVE-2015-7195. More info at https://t.co/R48A3nEaVY
+
+
+---
+
+## 2015-10-02 · Post · HN thread for the Patreon Hack post from Detectify Labs: https://t.co/ztbUt8u6G1 please upvote and/o
+
+
+### Post — @fransrosen — 2015-10-02 13:33 UTC (2015-10-02 14:33 WAT)
+
+- URL: https://x.com/fransrosen/status/649940281589149696
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 3
+
+> HN thread for the Patreon Hack post from Detectify Labs: https://t.co/ztbUt8u6G1 please upvote and/or discuss!
+
+
+---
+
+## 2015-07-13 · Post · The solutions to the Twins of Ten XSS Challenge are out! http://t.co/oG22OETvyk Congrats @martinlaak
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-07-13 22:36 UTC (2015-07-13 23:36 WAT)
+
+- URL: https://x.com/fransrosen/status/620723394921664512
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 3, retweet 13
+
+> The solutions to the Twins of Ten XSS Challenge are out! http://t.co/oG22OETvyk Congrats @martinlaak, @bugch3ck and @aboul3la !
+
+
+---
+
+## 2015-06-30 · Post · And @martinlaak sent me a 35 char XSS audit bypass for twinsoften XSS challenge, awesome work! Will
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-06-30 17:11 UTC (2015-06-30 18:11 WAT)
+
+- URL: https://x.com/fransrosen/status/615930757882605568
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 2
+
+> And @martinlaak sent me a 35 char XSS audit bypass for #twinsoften XSS challenge, awesome work! Will do a writeup shortly.
+
+
+---
+
+## 2015-06-16 · Post · Ha! @bugch3ck just did a 32char XSS for FF :D twinsoften
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-06-16 19:25 UTC (2015-06-16 20:25 WAT)
+
+- URL: https://x.com/fransrosen/status/610890956913508352
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Ha! @bugch3ck just did a 32char XSS for FF :D #twinsoften
+
+
+---
+
+## 2015-06-16 · Post · Also @killr0x33d did a 34 chars FF version, and a 40 chars XSS audit bypass twinsofthen
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-06-16 10:42 UTC (2015-06-16 11:42 WAT)
+
+- URL: https://x.com/fransrosen/status/610759425494786048
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Also @killr0x33d did a 34 chars FF version, and a 40 chars XSS audit bypass #twinsofthen
+
+
+---
+
+## 2015-06-16 · Post · I've received a few 40-chars solutions. There are shorter ones.. xss twinsoften
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-06-16 09:17 UTC (2015-06-16 10:17 WAT)
+
+- URL: https://x.com/fransrosen/status/610738078706216962
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> I've received a few 40-chars solutions. There are shorter ones.. #xss #twinsoften
+
+
+---
+
+## 2015-06-15 · Post · A funny Chrome bug I found was published publicly: https://t.co/oY87Y9abZl Trailing dot allowed, was
+
+
+### Post — @fransrosen — 2015-06-15 22:00 UTC (2015-06-15 23:00 WAT)
+
+- URL: https://x.com/fransrosen/status/610567639224745984
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 4, retweet 14
+
+> A funny Chrome bug I found was published publicly: https://t.co/oY87Y9abZl Trailing dot allowed, was great for S3-takeovers. #bugbounty
+
+
+---
+
+## 2015-06-15 · Post · Had a fun time with an XSS in the wild. Did a small challenge out of it: Twins of Ten – http://t.co/
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-06-15 20:48 UTC (2015-06-15 21:48 WAT)
+
+- URL: https://x.com/fransrosen/status/610549555264929792
+- Metrics (at fetch): bookmark 1, impression 0, like 29, quote 0, reply 2, retweet 14
+
+> Had a fun time with an XSS in the wild. Did a small challenge out of it: Twins of Ten – http://t.co/LAXLg6qDSy #xss #challenge
+
+
+---
+
+## 2015-06-06 · Post · Some Google findings from earlier this year: Google XSS turkey http://t.co/PWYZ07T336 cc @sirdarckca
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-06-06 14:42 UTC (2015-06-06 15:42 WAT)
+
+- URL: https://x.com/fransrosen/status/607195863308509184
+- Metrics (at fetch): bookmark 0, impression 0, like 49, quote 0, reply 2, retweet 40
+
+> Some Google findings from earlier this year: Google XSS turkey http://t.co/PWYZ07T336 cc @sirdarckcat
+
+
+---
+
+## 2015-05-28 · Post · Building an XSS polyglot through SWF and CSP http://t.co/2dG0Ic4RYq
+
+
+Tags (automatic): XSS, CSP / CSPT
+
+
+### Post — @fransrosen — 2015-05-28 07:20 UTC (2015-05-28 08:20 WAT)
+
+- URL: https://x.com/fransrosen/status/603823113768402944
+- Metrics (at fetch): bookmark 1, impression 0, like 81, quote 0, reply 7, retweet 64
+
+> Building an XSS polyglot through SWF and CSP http://t.co/2dG0Ic4RYq
+
+
+---
+
+## 2015-04-28 · Post · a fun IRL scenario XSS-PoC:
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-04-28 10:36 UTC (2015-04-28 11:36 WAT)
+
+- URL: https://x.com/fransrosen/status/593000919442300928
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 1, retweet 3
+
+> a fun IRL scenario XSS-PoC:
+> &lt;script &lt;a href=""&gt;atob&lt;/a&gt;/,alert(document.domain)&lt;/script &lt;/td&gt;
+
+
+---
+
+## 2015-03-31 · Post · Next level of beg bounty – impersonation. Beware. http://t.co/SaGNy1B9B7
+
+
+### Post — @fransrosen — 2015-03-31 22:04 UTC (2015-03-31 23:04 WAT)
+
+- URL: https://x.com/fransrosen/status/583027096445939713
+- Metrics (at fetch): bookmark 0, impression 0, like 144, quote 1, reply 22, retweet 42
+
+> Next level of beg bounty – impersonation. Beware. http://t.co/SaGNy1B9B7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CBdUC5VWUAE3FaQ.jpg — no alt text provided by author
+
+
+---
+
+## 2015-03-20 · Post · Shorter version of the @avlidienbrunn Angular bypass:
+
+
+### Post — @fransrosen — 2015-03-20 01:28 UTC (2015-03-20 02:28 WAT)
+
+- URL: https://x.com/fransrosen/status/578729732763729920
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 1, retweet 3
+
+> Shorter version of the @avlidienbrunn Angular bypass:
+> {{x=toString.constructor;x.prototype.toString=x.call;["","alert(1)"].sort(x)}}
+
+
+---
+
+## 2015-02-01 · Post · XSS on http://t.co/zxdLgvKl04, that's not happening everyday.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2015-02-01 09:55 UTC (2015-02-01 10:55 WAT)
+
+- URL: https://x.com/fransrosen/status/561825281087143936
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 2, retweet 0
+
+> XSS on http://t.co/zxdLgvKl04, that's not happening everyday.
+
+
+---
+
+## 2015-01-12 · Post · "This bounty starts in about 1 year" well, I'm waiting then.
+
+
+### Post — @fransrosen — 2015-01-12 23:23 UTC (2015-01-13 00:23 WAT)
+
+- URL: https://x.com/fransrosen/status/554780827494936577
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> "This bounty starts in about 1 year" well, I'm waiting then.
+
+
+---
+
+## 2014-11-10 · Post · what's so elegant about subdomain takeover is that the POC sort of patches the issue. also, no dupes
+
+
+### Post — @fransrosen — 2014-11-10 08:34 UTC (2014-11-10 09:34 WAT)
+
+- URL: https://x.com/fransrosen/status/531726515424485376
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 2, retweet 0
+
+> what's so elegant about subdomain takeover is that the POC sort of patches the issue. also, no dupes.
+
+
+---
+
+## 2014-10-21 · Post · Pretty bad as in more than 18 Responsible Disclosure/Bug Bounty sites affected. Imagine how many els
+
+
+### Post — @fransrosen — 2014-10-21 16:24 UTC (2014-10-21 17:24 WAT)
+
+- URL: https://x.com/fransrosen/status/524597194209628163
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 5, retweet 1
+
+> Pretty bad as in more than 18 Responsible Disclosure/Bug Bounty sites affected. Imagine how many else that are vulnerable.
+
+
+---
+
+## 2014-10-13 · Post · ohnoez, the old "send mail offline, then go online a few hours later &amp; blame internetz"-date hac
+
+
+### Post — @fransrosen — 2014-10-13 15:14 UTC (2014-10-13 16:14 WAT)
+
+- URL: https://x.com/fransrosen/status/521680279686352896
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> ohnoez, the old "send mail offline, then go online a few hours later &amp; blame internetz"-date hack doesn't work anymore :,(
+
+
+---
+
+## 2014-09-24 · Post · ftp is also vuln, sortof.
+
+
+### Post — @fransrosen — 2014-09-24 20:25 UTC (2014-09-24 21:25 WAT)
+
+- URL: https://x.com/fransrosen/status/514873230931542017
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> ftp is also vuln, sortof.
+
+
+---
+
+## 2014-09-24 · Post · CVE-2014-6271, where's the cool name and logo? waiting for it.
+
+
+### Post — @fransrosen — 2014-09-24 19:27 UTC (2014-09-24 20:27 WAT)
+
+- URL: https://x.com/fransrosen/status/514858720799784961
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> CVE-2014-6271, where's the cool name and logo? waiting for it.
+
+
+---
+
+## 2014-06-03 · Post · "Click here and press enter". URL validators won't help you filter this XSS.
+
+
+Tags (automatic): XSS, Blockchain / L1-L2 / bridge
+
+
+### Post — @fransrosen — 2014-06-03 16:13 UTC (2014-06-03 17:13 WAT)
+
+- URL: https://x.com/fransrosen/status/473860142283632641
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> "Click here and press enter". URL validators won't help you filter this XSS.
+
+
+---
+
+## 2014-04-24 · Post · CodeIgniter is unfortunately a good example why blacklisting of XSS payloads does not work.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2014-04-24 14:54 UTC (2014-04-24 15:54 WAT)
+
+- URL: https://x.com/fransrosen/status/459344730946830336
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> CodeIgniter is unfortunately a good example why blacklisting of XSS payloads does not work.
+
+
+---
+
+## 2013-10-31 · Post · Top 10 Reporter on Yahoos Bug Bounty. Nice. http://t.co/nPmSbacAGP
+
+
+### Post — @fransrosen — 2013-10-31 18:56 UTC (2013-10-31 19:56 WAT)
+
+- URL: https://x.com/fransrosen/status/395987716057595904
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 1
+
+> Top 10 Reporter on Yahoos Bug Bounty. Nice. http://t.co/nPmSbacAGP
+
+
+---
+
+## 2013-09-20 · Post · Another iOS7 Lock Screen bypass – Control Center turned off http://t.co/jIug5G0zNA
+
+
+### Post — @fransrosen — 2013-09-20 17:17 UTC (2013-09-20 18:17 WAT)
+
+- URL: https://x.com/fransrosen/status/381104909510131712
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 1
+
+> Another iOS7 Lock Screen bypass – Control Center turned off http://t.co/jIug5G0zNA
+
+
+---
+
+## 2013-09-20 · Post · iOS 7 lock screen bypass write-up http://t.co/PCRig0Opvz via @detectify
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @fransrosen — 2013-09-20 14:09 UTC (2013-09-20 15:09 WAT)
+
+- URL: https://x.com/fransrosen/status/381057436255141888
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 2
+
+> iOS 7 lock screen bypass write-up http://t.co/PCRig0Opvz via @detectify
+
+
+---
+
+## 2013-03-29 · Post · Mega is working quite fast on all levels. Mega Bug Bounty payment received. http://t.co/oHG5vrpNWL
+
+
+### Post — @fransrosen — 2013-03-29 04:02 UTC (2013-03-29 05:02 WAT)
+
+- URL: https://x.com/fransrosen/status/317486834928189440
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Mega is working quite fast on all levels. Mega Bug Bounty payment received. http://t.co/oHG5vrpNWL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BGfwmCECAAAgMTc.png — no alt text provided by author
+
+
+---
+
+## 2013-03-28 · Post · Aaand another XSS on Mega, and another bounty. Super fast again, 22min! Thanks @KimDotcom! http://t.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-03-28 23:32 UTC (2013-03-29 00:32 WAT)
+
+- URL: https://x.com/fransrosen/status/317418984351887361
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 0
+
+> Aaand another XSS on Mega, and another bounty. Super fast again, 22min! Thanks @KimDotcom! http://t.co/LVYYvRWlfv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BGey4m_CcAABbCY.jpg — no alt text provided by author
+
+
+---
+
+## 2013-03-27 · Post · Here's the Bug Bounty cake. @detectify @Barracuda cc @peterjaric http://t.co/C2p19uN0Bj
+
+
+### Post — @fransrosen — 2013-03-27 14:51 UTC (2013-03-27 15:51 WAT)
+
+- URL: https://x.com/fransrosen/status/316925379493388288
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 0
+
+> Here's the Bug Bounty cake. @detectify @Barracuda cc @peterjaric http://t.co/C2p19uN0Bj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BGXx9BmCYAIHA4Q.jpg — no alt text provided by author

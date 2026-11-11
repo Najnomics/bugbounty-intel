@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 268
-- Conversations/threads: 264
+- Posts in this file: 294
+- Conversations/threads: 290
 - Oldest post captured: 2023-10-09
 - Newest post captured: 2026-11-09
 
@@ -5895,6 +5895,574 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     > Is it anything you like doing as just explaining the attack scenario suffice by other top tier audit firms.
     > And it also does save some time indeed.
     
+
+
+---
+
+## 2024-08-06 · Post · Niche techniques to get interesting audit findings and provide additional value-add for your private
+
+
+### Post — @DevDacian — 2024-08-06 12:07 UTC (2024-08-06 13:07 WAT)
+
+- URL: https://x.com/DevDacian/status/1820793858739015940
+- Metrics (at fetch): bookmark 92, impression 6018, like 84, quote 2, reply 9, retweet 6
+
+> Niche techniques to get interesting audit findings and provide additional value-add for your private audit clients:
+>
+> 1) refactor functions to simplify them; your goal is to remove anything that isn't required - redundant variables, checks etc.
+>
+> With all the cruft removed you can
+
+
+---
+
+## 2024-08-01 · Post · The $1.25M "biggest audit contest of all time" actually distributed around $400K or 32% of the total
+
+
+### Post — @DevDacian — 2024-08-01 01:51 UTC (2024-08-01 02:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1818826953555861902
+- Metrics (at fetch): bookmark 3, impression 4471, like 27, quote 1, reply 1, retweet 0
+
+> The $1.25M "biggest audit contest of all time" actually distributed around $400K or 32% of the total prize pool.
+>
+> That said the top 17 auditors all made &gt; $10K which is a pretty good result compared to many contests.
+
+
+---
+
+## 2024-07-18 · Post · For auditors doing the Zaros audit looking to quickly understand Perpetuals, these are some notes I 
+
+
+### Post — @DevDacian — 2024-07-18 01:45 UTC (2024-07-18 02:45 WAT)
+
+- URL: https://x.com/DevDacian/status/1813751882315350418
+- Metrics (at fetch): bookmark 193, impression 8935, like 177, quote 2, reply 10, retweet 19
+
+> For auditors doing the Zaros audit looking to quickly understand Perpetuals, these are some notes I made on how Perpetuals protocols generally work with concise definitions of the most important concepts. https://t.co/vSkKJhYVSe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSu9ZjvacAI91ER.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GSu9Z47aQAAQPxG.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GSu9aYHbcAA0tPS.png — no alt text provided by author
+
+
+---
+
+## 2024-07-17 · Post · Zaros Part 1 60K audit contest starts in ~3hrs; I was the Lead Auditor for Cyfrin's private audit be
+
+
+### Post — @DevDacian — 2024-07-17 08:44 UTC (2024-07-17 09:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1813495076829700264
+- Metrics (at fetch): bookmark 14, impression 8028, like 73, quote 0, reply 7, retweet 8
+
+> Zaros Part 1 60K audit contest starts in ~3hrs; I was the Lead Auditor for Cyfrin's private audit before the contest.
+>
+> Parts of the codebase have changed significantly during mitigation review and they added at least 2 new features (signed off-chain orders &amp; referrals) so there https://t.co/ktZOsw9X33
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1543325033199816704 — 2024-07-15 14:03 UTC (2024-07-15 15:03 WAT)
+    
+    - URL: https://x.com/1543325033199816704/status/1812850503476486604
+    - Metrics (at fetch): bookmark 3, impression 9549, like 28, quote 1, reply 3, retweet 4
+    
+    > Want to win a share of the $60,000 USDC prize pool? 🐉
+    >
+    > You have the chance to do so by competing in our latest audit on @CodeHawks!
+    >
+    > Sign up to secure our perps engine: https://t.co/xotjBPU333
+    >
+    > Start date: July 17th (Wednesday) https://t.co/nlXo0vCmTG
+    
+    **Media:**
+    - media `3_1812850498661392384` (details not returned by the API)
+    
+
+
+---
+
+## 2024-07-15 · Post · It looks like every week there is one or more new audit firm started by solo researchers. This is cl
+
+
+### Post — @DevDacian — 2024-07-15 11:04 UTC (2024-07-15 12:04 WAT)
+
+- URL: https://x.com/DevDacian/status/1812805452239122708
+- Metrics (at fetch): bookmark 25, impression 13062, like 137, quote 2, reply 17, retweet 9
+
+> It looks like every week there is one or more new audit firm started by solo researchers. This is classic bull market behavior in any industry; as the wave of fortune comes by, many attempt to hop on and ride it.
+>
+> Some end up doing really well but when the wave inevitably crashes
+
+
+---
+
+## 2024-07-09 · Post · Audit Contest Platforms be like:
+
+
+### Post — @DevDacian — 2024-07-09 07:33 UTC (2024-07-09 08:33 WAT)
+
+- URL: https://x.com/DevDacian/status/1810578036829639101
+- Metrics (at fetch): bookmark 1, impression 6402, like 63, quote 1, reply 3, retweet 2
+
+> Audit Contest Platforms be like:
+>
+> "The biggest audit contest ever!!!111 (*)(**)"
+>
+> Fine print:
+>
+> (*) - likely prize pool reduction makes it not the biggest ever distributed
+> (**) - restricted issue validity criteria increases likelihood of prize pool reduction
+
+
+---
+
+## 2024-07-01 · Post · New EPIC Zero Knowledge Circuit Deep Dive:
+
+
+Tags (automatic): ZK
+
+
+### Post — @DevDacian — 2024-07-01 11:22 UTC (2024-07-01 12:22 WAT)
+
+- URL: https://x.com/DevDacian/status/1807736600870506911
+- Metrics (at fetch): bookmark 52, impression 2975, like 78, quote 1, reply 1, retweet 5
+
+> New EPIC Zero Knowledge Circuit Deep Dive:
+>
+> "Exploiting Under-Constrained ZK Circuits"
+>
+> Create then exploit your own vulnerable #ZK Circuits using Circom to learn:
+>
+> * two important ZK Circuit attack vectors
+> * how to fix the vulns and prevent the attacks
+>
+> https://t.co/Z2gvsGXM8T
+
+
+---
+
+## 2024-06-26 · Post · This zkproof circuit allows a Prover to prove that a number is not a prime number, without revealin
+
+
+Tags (automatic): ZK
+
+
+### Post — @DevDacian — 2024-06-26 12:01 UTC (2024-06-26 13:01 WAT)
+
+- URL: https://x.com/DevDacian/status/1805934442952978816
+- Metrics (at fetch): bookmark 26, impression 3602, like 37, quote 0, reply 4, retweet 3
+
+> This #zkproof circuit allows a Prover to prove that a number is not a prime number, without revealing the two factors it used to do this by calling the circuit with example inputs (3, 7, 21).
+>
+> It contains a Critical vulnerability. Can you figure out what it is? Think about it https://t.co/3KAxru9cKW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQ_1dWJawAAbDdl.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GQ_3MMWaoAAaCEk.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GQ_3WNQbcAAId0G.png — no alt text provided by author
+
+
+---
+
+## 2024-06-20 · Post · Finishing up this absolutely stacked audit report after leading a 3 week Private Audit engagement @c
+
+
+### Post — @DevDacian — 2024-06-20 13:24 UTC (2024-06-20 14:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1803780968953819326
+- Metrics (at fetch): bookmark 1, impression 2759, like 60, quote 0, reply 8, retweet 0
+
+> Finishing up this absolutely stacked audit report after leading a 3 week Private Audit engagement @cyfrin 
+>
+> Loving life helping to secure top protocols while working with top teams who value and appreciate security 🚀 https://t.co/5DQ9HAymN7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQhPC6XaIAAVhG-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GQhPDWUboAA8DLG.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GQhPYZrbIAApmuG.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GQhPc0faQAAxspZ.png — no alt text provided by author
+
+
+---
+
+## 2024-06-06 · Post · Some interesting observations.
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2024-06-06 13:09 UTC (2024-06-06 14:09 WAT)
+
+- URL: https://x.com/DevDacian/status/1798703639281938901
+- Metrics (at fetch): bookmark 5, impression 4186, like 21, quote 0, reply 4, retweet 1
+
+> Some interesting observations.
+>
+> I've tried before to find and read @cantinaxyz audit reports when writing my deep dives but wasn't able to find them publicly available.
+>
+> Is @cantinaxyz intentionally not releasing any of their findings? That would be sad for the space in general. https://t.co/VFu8w258SS
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1357162894798909441 — 2024-06-06 09:08 UTC (2024-06-06 10:08 WAT)
+    
+    - URL: https://x.com/1357162894798909441/status/1798643063172313554
+    - Metrics (at fetch): bookmark 39, impression 24388, like 94, quote 8, reply 6, retweet 8
+    
+    > @TheWavexyz @0xMackenzieM @0xnirlin @jack__sanford I’d prefer not to spend any energy debating this as I see no merit in it and the extremely narrow audience can make up their own minds, but I can fast forward it.
+    >
+    > I can point to evidence that LSW alters competition incentives without even  guaranteeing meaningful participation;
+    
+
+
+---
+
+## 2024-04-26 · Post · The downsides of the contest model no-one tells you about is: 
+
+
+### Post — @DevDacian — 2024-04-26 00:22 UTC (2024-04-26 01:22 WAT)
+
+- URL: https://x.com/DevDacian/status/1783652851648250128
+- Metrics (at fetch): bookmark 45, impression 26940, like 129, quote 10, reply 23, retweet 17
+
+> The downsides of the contest model no-one tells you about is: 
+>
+> * countless hours of back-and-forth arguing with strangers over the Internet trying defend the uniqueness and validity of your findings, while also attacking the uniqueness and validity of others' findings since https://t.co/WzXxa8Xrls
+
+**Quoted post (full text):**
+
+    #### Quoted post — @TrustSecAudits — 2024-04-25 17:38 UTC (2024-04-25 18:38 WAT)
+    
+    - URL: https://x.com/TrustSecAudits/status/1783551207799193965
+    - Metrics (at fetch): bookmark 50, impression 39614, like 88, quote 4, reply 9, retweet 5
+    
+    > Over the past week, @sherlockdefi and the @Optimism team made what I believe is an erroneous re-scoping of the security contest rules. The direct consequence is invalidation of ~90% of the unique bugs submitted and re-shaping the payout. Long-term, this threatens to be a
+    
+
+
+---
+
+## 2024-04-25 · Post · Q&amp;A for questions I'm getting about the Cyfrin open positions (thank you for the interest!)
+
+
+### Post — @DevDacian — 2024-04-25 12:53 UTC (2024-04-25 13:53 WAT)
+
+- URL: https://x.com/DevDacian/status/1783479568487395540
+- Metrics (at fetch): not returned
+
+> Q&amp;A for questions I'm getting about the Cyfrin open positions (thank you for the interest!)
+>
+> Q) Will Cyfrin hire juniors/interns?
+>  
+> A) I don't decide these things but my personal understanding is this is unlikely in the short-term.
+>
+> For juniors/interns Cyfrin provides
+
+
+---
+
+## 2024-04-25 · Post · Q&amp;A for questions I'm getting about the Cyfrin open positions (thank you for the interest!)
+
+
+### Post — @DevDacian — 2024-04-25 12:48 UTC (2024-04-25 13:48 WAT)
+
+- URL: https://x.com/DevDacian/status/1783478141719323059
+- Metrics (at fetch): not returned
+
+> Q&amp;A for questions I'm getting about the Cyfrin open positions (thank you for the interest!)
+>
+> Q) Will Cyfrin hire juniors/interns?
+>  
+> A) I don't decide these things but my personal understanding is this is unlikely in the short-term.
+>
+> For juniors/interns Cyfrin provides
+
+
+---
+
+## 2024-04-19 · Post · New Deep Dive is OUT!
+
+
+### Post — @DevDacian — 2024-04-19 08:03 UTC (2024-04-19 09:03 WAT)
+
+- URL: https://x.com/DevDacian/status/1781232185477107854
+- Metrics (at fetch): not returned
+
+> New Deep Dive is OUT!
+>
+> * Concentrated Liquidity Manager Vulnerabilities, Invariants &amp; Heuristics *
+>
+> Featuring a "Highly Profitable Trading Strategy" critical finding with full exploit code!
+>
+> https://dacian.me/concentrated-liquidity-manager-vulnerabilities
+
+**Links in post:** https://dacian.me/concentrated-liquidity-manager-vulnerabilities
+
+
+---
+
+## 2024-04-07 · Post · 🥉won $18,274.25 with 1 unique medium: incompatibility with fee-on-transfer &amp; rebasing tokens.
+
+
+### Post — @DevDacian — 2024-04-07 02:47 UTC (2024-04-07 03:47 WAT)
+
+- URL: https://x.com/DevDacian/status/1776804057073816040
+- Metrics (at fetch): not returned
+
+> 🥉won $18,274.25 with 1 unique medium: incompatibility with fee-on-transfer &amp; rebasing tokens.
+>
+> Very basic finding normally with tons of duplicates but with audit demand so high there are less eyes on every contest.
+>
+> Great time for auditors - if you want it, go get it! https://twitter.com/CodeHawks/status/1776694081235603476
+
+**Links in post:** https://twitter.com/CodeHawks/status/1776694081235603476
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2167078213 — 2024-04-06 19:30 UTC (2024-04-06 20:30 WAT)
+    
+    - URL: https://x.com/2167078213/status/1776694081235603476
+    - Metrics (at fetch): not returned
+    
+    > Awards have been announced for the Beanstalk Part 1 contest🤝
+    >
+    > Top 5:
+    > 🥇 @HolyDevoti0n  - $24,148.11
+    > 🥈 @golanger85 -  $21,798.57
+    > 🥉 @0xInAllHonesty -  $18,274.25
+    > 🏅 @0xbeastboy -  $11,825.65
+    > 🏅 @ZealynxSecurity -  $8,223.41
+    >
+    > (1/2)
+    
+
+
+---
+
+## 2024-03-31 · Post · If you were to start again today, what is your roadmap to become a successful full-time smart contra
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2024-03-31 00:50 UTC (2024-03-31 01:50 WAT)
+
+- URL: https://x.com/DevDacian/status/1774237742286954569
+- Metrics (at fetch): not returned
+
+> If you were to start again today, what is your roadmap to become a successful full-time smart contract auditor?
+>
+> 1⃣ Do the courses @CyfrinUpdraft
+>
+> 2⃣ Apply what you learn by practicing on First Flights and contests @CodeHawks
+>
+> 3⃣ Share what you are learning openly via tweets and
+
+
+---
+
+## 2024-03-27 · Post · "Highly Profitable Trading Strategy" discovered in our current private audit @cyfrin [pic.x.com/vs3G
+
+
+### Post — @DevDacian — 2024-03-27 11:25 UTC (2024-03-27 12:25 WAT)
+
+- URL: https://x.com/DevDacian/status/1772947962378817868
+- Metrics (at fetch): not returned
+
+> "Highly Profitable Trading Strategy" discovered in our current private audit @cyfrin [pic.x.com/vs3GXTkHt3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJrGqCVbgAA64a2.png — no alt text provided by author
+
+
+---
+
+## 2024-02-15 · Post · 💡 4 Uses For Fuzz Testing 💡
+
+
+### Post — @DevDacian — 2024-02-15 09:59 UTC (2024-02-15 10:59 WAT)
+
+- URL: https://x.com/DevDacian/status/1758068540756881845
+- Metrics (at fetch): not returned
+
+> 💡 4 Uses For Fuzz Testing 💡
+>
+> 1⃣ Finding Optimal Exploit Inputs
+> - functions can have a vulnerability which requires specific inputs to trigger
+> - statelezz fuzzing is useful for optimizing those inputs, for example finding the smallest value required to still trigger the exploit
+
+
+---
+
+## 2024-02-04 · Post · Q: How do you understand a codebase then how do you go from understanding to finding bugs?
+
+
+### Post — @DevDacian — 2024-02-04 13:07 UTC (2024-02-04 14:07 WAT)
+
+- URL: https://x.com/DevDacian/status/1754129562261446679
+- Metrics (at fetch): not returned
+
+> Q: How do you understand a codebase then how do you go from understanding to finding bugs?
+>
+> A: Firstly before approaching the code I have done a bit of research looking at the project's website/twitter &amp; reading high-level documentation. While reading their docs I'm making notes
+
+
+---
+
+## 2024-02-01 · Post · tl;dr - Kyber restricted swap fuzz test inputs to price moves &lt; 5%
+
+
+### Post — @DevDacian — 2024-02-01 14:10 UTC (2024-02-01 15:10 WAT)
+
+- URL: https://x.com/DevDacian/status/1753058300847902943
+- Metrics (at fetch): not returned
+
+> tl;dr - Kyber restricted swap fuzz test inputs to price moves &lt; 5%
+>
+> Using Kyber's own fuzz testing suite for price moves &gt; 5% broke an invariant in 1 minute which would have indicated something was seriously wrong and may have helped prevent their epic hack https://twitter.com/alphaK3Y/status/1753037999150113139
+
+**Links in post:** https://twitter.com/alphaK3Y/status/1753037999150113139
+
+**Quoted post (full text):**
+
+    #### Quoted post — @867373132495159296 — 2024-02-01 12:50 UTC (2024-02-01 13:50 WAT)
+    
+    - URL: https://x.com/867373132495159296/status/1753037999150113139
+    - Metrics (at fetch): not returned
+    
+    > I uncovered the root cause around the Kyber exploit.
+    >
+    > I wanted to know how they missed the $46 million bug.
+    >
+    > Here's what I found: [pic.x.com/o1HBxeFjVH]
+    
+    **Media:**
+    - media `3_1753037995509477376` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-17 · Post · 💡Easy Stateless Fuzz &amp; Symbolic Test💡
+
+
+### Post — @DevDacian — 2024-01-17 10:24 UTC (2024-01-17 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1747565664506909178
+- Metrics (at fetch): not returned
+
+> 💡Easy Stateless Fuzz &amp; Symbolic Test💡
+>
+> Foundry + Halmos =&gt; use the same test contract for both stateless fuzz &amp; symbolic tests.
+>
+> Here is an example from my current private audit where I'm using Halmos to verify a hashing algo produces unique results for the possible input set: [pic.x.com/Z1DJ2eheT5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GECYfK6acAA8Hgh.png — no alt text provided by author
+
+
+---
+
+## 2024-01-15 · Post · When it comes to smart contracts "minor changes", especially hastily done last-minute before the aud
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2024-01-15 14:17 UTC (2024-01-15 15:17 WAT)
+
+- URL: https://x.com/DevDacian/status/1746899482263101866
+- Metrics (at fetch): not returned
+
+> When it comes to smart contracts "minor changes", especially hastily done last-minute before the audit, are a great source of vulnerabilities!
+>
+> When developers ask if they can quickly squeeze one more patch in before freezing the audit code, my answer is always a resounding YES! https://twitter.com/CharlesWangP/status/1746896434434097645
+
+**Links in post:** https://twitter.com/CharlesWangP/status/1746896434434097645
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1376152818004951041 — 2024-01-15 14:05 UTC (2024-01-15 15:05 WAT)
+    
+    - URL: https://x.com/1376152818004951041/status/1746896434434097645
+    - Metrics (at fetch): not returned
+    
+    > When it comes so smart contracts, there is nothing such as a 
+    >
+    > „minor change“
+    >
+    > Everything needs to be validated with utmost importance and there is absolutely no space for any discussion with regards to that topic.
+    
+
+
+---
+
+## 2024-01-08 · Post · This voting contract was recently launched LIVE on mainnet as part of a DAO in a hyped DeFi ecosyste
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2024-01-08 23:32 UTC (2024-01-09 00:32 WAT)
+
+- URL: https://x.com/DevDacian/status/1744502411572715798
+- Metrics (at fetch): not returned
+
+> This voting contract was recently launched LIVE on mainnet as part of a DAO in a hyped DeFi ecosystem.
+>
+> It contains a critical "Voting With Same Tokens Multiple Times" vulnerability ( https://dacian.me/dao-governance-defi-attacks#heading-voting-with-same-tokens-multiple-times ) which was completely missed by a notorious rubber-stamp audit firm out [pic.x.com/3YWF1ipJPV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDW1ZoLbQAA-1tL.jpg — no alt text provided by author
+
+**Links in post:** https://dacian.me/dao-governance-defi-attacks#heading-voting-with-same-tokens-multiple-times
+
+
+---
+
+## 2024-01-02 · Post · 💵 Ways To Make $ In Crypto/Web3 ~ 2024 Edition 💵
+
+
+### Post — @DevDacian — 2024-01-02 01:50 UTC (2024-01-02 02:50 WAT)
+
+- URL: https://x.com/DevDacian/status/1742000414692966545
+- Metrics (at fetch): not returned
+
+> 💵 Ways To Make $ In Crypto/Web3 ~ 2024 Edition 💵
+>
+> 1) Hard Rug Pull - you create a new token and market it effectively. The token has a liquidity pool against eth and it has admin keys that let you drain the eth from the liquidity pool. Once enough suckers have bought you pull
+
+
+---
+
+## 2024-01-02 · Post · 💵Ways To Make $ In Crypto/Web3 ~ 2024 Edition💵
+
+
+### Post — @DevDacian — 2024-01-02 01:49 UTC (2024-01-02 02:49 WAT)
+
+- URL: https://x.com/DevDacian/status/1742000184157200819
+- Metrics (at fetch): not returned
+
+> 💵Ways To Make $ In Crypto/Web3 ~ 2024 Edition💵
+>
+> 1) Hard Rug Pull - you create a new token and market it effectively. The token has a liquidity pool against eth and it has admin keys that let you drain the eth from the liquidity pool. Once enough suckers have bought you pull the
+
+
+---
+
+## 2024-01-02 · Post · Ways To Make $ In Crypto/Web3 ~ 2024 Edition
+
+
+### Post — @DevDacian — 2024-01-02 01:36 UTC (2024-01-02 02:36 WAT)
+
+- URL: https://x.com/DevDacian/status/1741996965985169880
+- Metrics (at fetch): not returned
+
+> Ways To Make $ In Crypto/Web3 ~ 2024 Edition
+>
+> 1) Hard Rug Pull - you create a new token and market it effectively. The token has a liquidity pool against eth and it has admin keys that let you drain the eth from the liquidity pool. Once enough suckers have bought you pull the
 
 
 ---

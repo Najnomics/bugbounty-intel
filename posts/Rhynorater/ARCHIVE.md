@@ -5249,7 +5249,7 @@ Tags (automatic): SSRF
     #### Quoted post — @infosec_au — 2021-01-14 20:33 UTC (2021-01-14 21:33 WAT)
     
     - URL: https://x.com/infosec_au/status/1349817057873850368
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 208, impression 0, like 746, quote 18, reply 14, retweet 341
     
     > Recently @Rhynorater sparked a discussion about exploiting blind SSRFs. At @assetnote, we've collected some information together and have created a Glossary of Blind SSRF Chains which can be found here: https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/ - we hope people can use it as a reference!
     

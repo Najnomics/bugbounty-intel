@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 123
-- Conversations/threads: 122
+- Posts in this file: 126
+- Conversations/threads: 125
 - Oldest post captured: 2021-04-16
 - Newest post captured: 2026-11-10
 
@@ -2755,6 +2755,54 @@ Tags (automatic): RCE
     
     **Links in post:** http://dlvr.it/SWlRSq
     
+
+
+---
+
+## 2022-03-24 · Post · another  IC type confusion bug :O
+
+
+### Post — @ma1fan — 2022-03-24 06:16 UTC (2022-03-24 07:16 WAT)
+
+- URL: https://x.com/ma1fan/status/1506877511334084608
+- Metrics (at fetch): not returned
+
+> another  IC type confusion bug :O
+> https://chromium-review.googlesource.com/c/v8/v8/+/3545172
+
+**Links in post:** https://chromium-review.googlesource.com/c/v8/v8/+/3545172
+
+
+---
+
+## 2022-03-15 · Post · this bug can be exploited 🧐
+
+
+### Post — @ma1fan — 2022-03-15 01:56 UTC (2022-03-15 02:56 WAT)
+
+- URL: https://x.com/ma1fan/status/1503550710805413894
+- Metrics (at fetch): not returned
+
+> this bug can be exploited 🧐
+> https://github.com/v8/v8/commit/71a9fcc950f1b8efb27543961745ab0262cda7c4
+
+**Links in post:** https://github.com/v8/v8/commit/71a9fcc950f1b8efb27543961745ab0262cda7c4
+
+
+---
+
+## 2022-02-22 · Post · new optimization, new bug 
+
+
+### Post — @ma1fan — 2022-02-22 13:32 UTC (2022-02-22 14:32 WAT)
+
+- URL: https://x.com/ma1fan/status/1496115681162821641
+- Metrics (at fetch): not returned
+
+> new optimization, new bug 
+> https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit#
+
+**Links in post:** https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit#
 
 
 ---

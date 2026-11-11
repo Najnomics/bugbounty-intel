@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 117
-- Conversations/threads: 117
-- Oldest post captured: 2025-02-20
+- Posts in this file: 134
+- Conversations/threads: 134
+- Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-10
 
 
@@ -2838,3 +2838,323 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkQNepXbAAM8zeu.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-29 · Post · Nobody: what is the most time you ever spent on a vuln/PoC?
+
+
+### Post — @lonelysloth_sec — 2025-01-29 00:10 UTC (2025-01-29 01:10 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1884393601251303881
+- Metrics (at fetch): bookmark 14, impression 9697, like 84, quote 1, reply 5, retweet 3
+
+> Nobody: what is the most time you ever spent on a vuln/PoC?
+>
+> Me: a couple years.
+>
+> Just realized there’s a fix to an issue I’m still trying to bypass two years later. Spent a whole week on it earlier in January. 
+>
+> I’m never sure if being stubborn is a super power or a weakness.
+
+
+---
+
+## 2025-01-11 · Post · Amazing Avata 2 drone I got for winning @immunefi Island S1!
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2025-01-11 20:25 UTC (2025-01-11 21:25 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1878176513998438806
+- Metrics (at fetch): bookmark 3, impression 5468, like 75, quote 2, reply 8, retweet 5
+
+> Amazing Avata 2 drone I got for winning @immunefi Island S1!
+>
+> Thanks @OddlySpecivik!!! https://t.co/LzW4dC5jpv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhCfZQSaIAANmOc.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GhCfZQSawAAuGVA.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-26 · Post · 2024 achievements on @immunefi https://t.co/LQxw9IBWbm
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2024-12-26 22:10 UTC (2024-12-26 23:10 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1872404564135309536
+- Metrics (at fetch): bookmark 32, impression 12251, like 256, quote 2, reply 24, retweet 6
+
+> 2024 achievements on @immunefi https://t.co/LQxw9IBWbm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gfwd_Y1bEAAlpTL.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-19 · Post · Digging a bit deeper in the @immunefi  leaderboard, found the honour of **most criticals paid** seem
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2024-12-19 20:08 UTC (2024-12-19 21:08 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1869837234318512587
+- Metrics (at fetch): bookmark 1, impression 1572, like 28, quote 0, reply 2, retweet 1
+
+> Digging a bit deeper in the @immunefi  leaderboard, found the honour of **most criticals paid** seems to go to @UGWST_COM with 32 criticals!
+>
+> Absolutely amazing! Way to go!
+
+
+---
+
+## 2024-12-18 · Post · Back to 1 in number of paid bounties on @immunefi leaderboard at 57
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2024-12-18 23:59 UTC (2024-12-19 00:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1869532992437354643
+- Metrics (at fetch): bookmark 9, impression 8465, like 178, quote 0, reply 14, retweet 7
+
+> Back to #1 in number of paid bounties on @immunefi leaderboard at 57
+>
+> . #5 in total $ paid.
+>
+> Lots of smart people raising the bar for staying in the top 10.
+>
+> 2023 was the year I made the most money.
+> 2024 was the year I found the most crits — pretty crazy.
+>
+> Feels good :)
+
+
+---
+
+## 2024-07-29 · Post · Check out my profile on @immunefi
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2024-07-29 15:40 UTC (2024-07-29 16:40 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1817948298290069869
+- Metrics (at fetch): bookmark 8, impression 6619, like 113, quote 1, reply 12, retweet 5
+
+> Check out my profile on @immunefi
+> #OnchainDefender https://t.co/WHyy90Tr7d
+
+
+---
+
+## 2024-07-17 · Post · My hand is hurting bc of so much clicking “refresh” in the hope to get news on my reports.
+
+
+### Post — @lonelysloth_sec — 2024-07-17 21:51 UTC (2024-07-17 22:51 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1813693060490096801
+- Metrics (at fetch): bookmark 3, impression 2899, like 51, quote 1, reply 5, retweet 1
+
+> My hand is hurting bc of so much clicking “refresh” in the hope to get news on my reports.
+>
+> I thought the best medicine for bug report anxiety was to find another bug and submit another report.
+>
+> Now I am waiting for 5 reports and 5x as anxious.
+
+
+---
+
+## 2024-07-05 · Post · Most high paying bugs are relatively simple.
+
+
+### Post — @lonelysloth_sec — 2024-07-05 16:59 UTC (2024-07-05 17:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1809270852107780109
+- Metrics (at fetch): bookmark 76, impression 14317, like 179, quote 2, reply 10, retweet 24
+
+> Most high paying bugs are relatively simple.
+>
+> Sometimes it’s not even hidden.
+>
+> The highest paid bounty I ever got was for a bug almost identical to one the same project had disclosed several months before — and also similar to one that had been exploited recently
+
+
+---
+
+## 2024-07-01 · Post · How seriously does @MakerDAO take security?
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887141680341025
+- Metrics (at fetch): bookmark 53, impression 9767, like 72, quote 2, reply 1, retweet 8
+
+> How seriously does @MakerDAO take security?
+>
+> 🧵1/7 In light of the upcoming @MakerDAO audit on @SherlockDefi, I want to reveal a critical vulnerability I discovered back in 2019. This issue had severe implications for the MakerDAO system. Let’s dive into what happened. 👇
+
+
+---
+
+## 2024-06-22 · Post · A submitted bug that hasn’t been resolved exists in a superposition of quantum states: it’s both clo
+
+
+### Post — @lonelysloth_sec — 2024-06-22 00:46 UTC (2024-06-22 01:46 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1804315099768983909
+- Metrics (at fetch): bookmark 3, impression 1928, like 36, quote 0, reply 2, retweet 1
+
+> A submitted bug that hasn’t been resolved exists in a superposition of quantum states: it’s both closed as invalid and paid at the same time.
+>
+> Until the quantum states collapse with a resolution the bug hunter lives in two parallel universes at the same time.
+>
+> True story.
+
+
+---
+
+## 2024-06-01 · Post · Sometimes you find an issue and instantly realizes it would be a max bounty critical, then start thi
+
+
+### Post — @lonelysloth_sec — 2024-06-01 02:52 UTC (2024-06-01 03:52 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1796736617589465301
+- Metrics (at fetch): bookmark 11, impression 8031, like 138, quote 1, reply 13, retweet 9
+
+> Sometimes you find an issue and instantly realizes it would be a max bounty critical, then start thinking of all the nice things you could buy with the money.
+>
+> Then you look again and realize you misread the code.
+>
+> There wasn’t any bug.
+>
+> That’s when you know you should rest a bit
+
+
+---
+
+## 2024-03-15 · Post · It always amazes me all those people with exactly one paid report and 1M+ in bounties.
+
+
+### Post — @lonelysloth_sec — 2024-03-15 16:14 UTC (2024-03-15 17:14 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1768672068751728760
+- Metrics (at fetch): bookmark 10, impression 3621, like 55, quote 0, reply 8, retweet 0
+
+> It always amazes me all those people with exactly one paid report and 1M+ in bounties.
+>
+> I’ve been at this for some time now, going to 43 confirmed reports, 20 criticals, a few “anyone can steal TVL at any time” bugs.
+>
+> Never had a 1M bounty.
+>
+> The elusive 1M bug is my white whale.
+
+
+---
+
+## 2024-03-06 · Post · Not long ago I was the whitehat with most paid bug reports on Immunefi’s leaderboard.
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2024-03-06 06:02 UTC (2024-03-06 07:02 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1765256498740138096
+- Metrics (at fetch): bookmark 7, impression 3406, like 47, quote 1, reply 5, retweet 0
+
+> Not long ago I was the whitehat with most paid bug reports on Immunefi’s leaderboard.
+>
+> Now, at 39 paid reports, I’m *exactly* tied with several people.
+>
+> I’m glad to see other people getting paid for multiple reports but that’s some weird coincidence.
+
+
+---
+
+## 2024-02-27 · Post · To be a bug hunter the number one thing you need is unwavering faith in people’s capacity to make mi
+
+
+### Post — @lonelysloth_sec — 2024-02-27 06:23 UTC (2024-02-27 07:23 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1762362894145245534
+- Metrics (at fetch): bookmark 20, impression 4053, like 91, quote 2, reply 2, retweet 9
+
+> To be a bug hunter the number one thing you need is unwavering faith in people’s capacity to make mistakes.
+>
+> You don’t have to be the smartest person or the most knowledgeable.
+>
+> Just rest assured even the smartest people make mistakes that you can find.
+
+
+---
+
+## 2024-01-20 · Post · For some reason Friday nights seem to be the most productive time to work for me.
+
+
+### Post — @lonelysloth_sec — 2024-01-20 07:06 UTC (2024-01-20 08:06 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1748602904016007666
+- Metrics (at fetch): bookmark 0, impression 1589, like 17, quote 0, reply 3, retweet 0
+
+> For some reason Friday nights seem to be the most productive time to work for me.
+> I think I just don’t want to let another week end without finding a new bug.
+> People who get a critical bug in their code reported on a Friday night might not like it as much though.
+
+
+---
+
+## 2023-12-21 · Post · Been trying to learn about AI, in particular reading about researchers hacking large models with vec
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2023-12-21 03:50 UTC (2023-12-21 04:50 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1737681960837796119
+- Metrics (at fetch): bookmark 5, impression 1059, like 18, quote 0, reply 0, retweet 0
+
+> Been trying to learn about AI, in particular reading about researchers hacking large models with vectors embedded in the training sets.
+>
+> There are promising theoretical results for that sort of attack.
+>
+> Maybe a couple years from now we’ll see AI bug bounties. Who knows.
+
+
+---
+
+## 2023-12-17 · Post · This was my best year yet in bug bounties. Feeling thankful and hoping that next year is even better
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2023-12-17 02:13 UTC (2023-12-17 03:13 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1736207999776260560
+- Metrics (at fetch): bookmark 40, impression 35916, like 253, quote 8, reply 21, retweet 16
+
+> This was my best year yet in bug bounties. Feeling thankful and hoping that next year is even better. Thanks
+> @immunefi @OddlySpecivik @0xMackenzieM 
+>  #ImmunefiWrapped https://t.co/0kUVirjrSi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBg_ioWaUAAoisc.jpg — no alt text provided by author

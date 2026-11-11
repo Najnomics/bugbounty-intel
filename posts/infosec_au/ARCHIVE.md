@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 139
-- Conversations/threads: 129
-- Oldest post captured: 2021-01-14
+- Posts in this file: 173
+- Conversations/threads: 163
+- Oldest post captured: 2020-10-17
 - Newest post captured: 2026-11-07
 
 
@@ -2262,6 +2262,386 @@ Tags (automatic): SSRF
 
 ---
 
+## 2022-06-11 · Post · You can bypass Akamai WAF's XXE filters by HTML encoding the SYSTEM entity within a payload like thi
+
+
+### Post — @infosec_au — 2022-06-11 07:07 UTC (2022-06-11 08:07 WAT)
+
+- URL: https://x.com/infosec_au/status/1535518959684157441
+- Metrics (at fetch): not returned
+
+> You can bypass Akamai WAF's XXE filters by HTML encoding the SYSTEM entity within a payload like this: 
+>
+> &lt;!DOCTYPE foo [&lt;!ENTITY % a "&amp;#x3c;&amp;#x21; ... omitted ...
+>
+> neat trick! used this today.
+
+
+---
+
+## 2022-05-28 · Post · Jordan (@vitalemonntea) and I spent some time understanding CVE-2022-22972 (VMWare Workspace One Acc
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2022-05-28 10:15 UTC (2022-05-28 11:15 WAT)
+
+- URL: https://x.com/infosec_au/status/1530492876102066176
+- Metrics (at fetch): not returned
+
+> Jordan (@vitalemonntea) and I spent some time understanding CVE-2022-22972 (VMWare Workspace One Access Auth Bypass) as we were very curious about the root cause. If you're interested in understanding this vulnerability, check out our blog.
+> https://blog.assetnote.io/2022/05/27/understanding-cve-2022-22972-vmware-workspace-one-access/
+
+**Links in post:** https://blog.assetnote.io/2022/05/27/understanding-cve-2022-22972-vmware-workspace-one-access/
+
+
+---
+
+## 2022-05-27 · Post · these last few years i’ve felt like we are seeing greater iteration in application security. i’m sur
+
+
+### Post — @infosec_au — 2022-05-27 09:16 UTC (2022-05-27 10:16 WAT)
+
+- URL: https://x.com/infosec_au/status/1530115699057696768
+- Metrics (at fetch): not returned
+
+> these last few years i’ve felt like we are seeing greater iteration in application security. i’m surrounded by people specifically in the source code review and bug bounty space that are innovating, learning and  adapting constantly
+
+
+---
+
+## 2022-05-17 · Post · Releasing the third episode of Bug Bounty Redacted today. It's about some reports about hacking a sw
+
+
+Tags (automatic): XSS, SQL injection
+
+
+### Post — @infosec_au — 2022-05-17 23:28 UTC (2022-05-18 00:28 WAT)
+
+- URL: https://x.com/infosec_au/status/1526706201483825152
+- Metrics (at fetch): not returned
+
+> Releasing the third episode of Bug Bounty Redacted today. It's about some reports about hacking a swagger API &amp; finding XSS, SQLi, WAF Bypass in a regional web application - https://youtu.be/vaA6Sj7huWg
+
+**Links in post:** https://youtu.be/vaA6Sj7huWg
+
+
+---
+
+## 2022-05-07 · Post · how am I so successful at bug bounties? it's really easy bro. I wake up at 4am every day and solve s
+
+
+### Post — @infosec_au — 2022-05-07 06:13 UTC (2022-05-07 07:13 WAT)
+
+- URL: https://x.com/infosec_au/status/1522821983150686208
+- Metrics (at fetch): not returned
+
+> how am I so successful at bug bounties? it's really easy bro. I wake up at 4am every day and solve some linear algebra problems to get my mind going. after this i go for my daily half-marathon run. you know what they say, healthy body healthy mind. 1/3 #bugbountytips
+
+
+---
+
+## 2022-05-06 · Post · damn, theres so many people that are mad that we report 0days to multiple bug bounty programs, but s
+
+
+### Post — @infosec_au — 2022-05-06 14:08 UTC (2022-05-06 15:08 WAT)
+
+- URL: https://x.com/infosec_au/status/1522579028192161792
+- Metrics (at fetch): not returned
+
+> damn, theres so many people that are mad that we report 0days to multiple bug bounty programs, but still are kept in the dark by vendors when critical vulnerabilities are reported. also like, i find it funny that ya'll are having opinions on bugs / research that you didn't do lol
+
+
+---
+
+## 2022-04-23 · Post · just because an exploit payload looks simple doesn’t mean it didn’t take a bajillion hours of source
+
+
+### Post — @infosec_au — 2022-04-23 10:19 UTC (2022-04-23 11:19 WAT)
+
+- URL: https://x.com/infosec_au/status/1517810405166379008
+- Metrics (at fetch): not returned
+
+> just because an exploit payload looks simple doesn’t mean it didn’t take a bajillion hours of source code auditing to find
+
+
+---
+
+## 2022-04-14 · Post · My colleague wrote a blog post on the WatchGuard Pre-Auth RCE - CVE-2022-26318
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2022-04-14 21:48 UTC (2022-04-14 22:48 WAT)
+
+- URL: https://x.com/infosec_au/status/1514722362327179264
+- Metrics (at fetch): not returned
+
+> My colleague wrote a blog post on the WatchGuard Pre-Auth RCE - CVE-2022-26318
+>
+> Goes into detail about the reverse engineering process and Includes a more reliable PoC at the end of the blog that doesn't require an external callback.
+>
+> https://blog.assetnote.io/2022/04/13/watchguard-firebox-rce/
+
+**Links in post:** https://blog.assetnote.io/2022/04/13/watchguard-firebox-rce/
+
+
+---
+
+## 2022-04-13 · Post · The second episode of Bug Bounty Redacted is out now! https://youtu.be/kcSc5jL-FdU
+
+
+### Post — @infosec_au — 2022-04-13 01:06 UTC (2022-04-13 02:06 WAT)
+
+- URL: https://x.com/infosec_au/status/1514047348162588672
+- Metrics (at fetch): not returned
+
+> The second episode of Bug Bounty Redacted is out now! https://youtu.be/kcSc5jL-FdU
+>
+> This episode covers third party subdomain takeovers and exposed administration panels.
+>
+> There's also a free @PentesterLab 1-month subscription code in the video. I wonder who will find it first?
+
+**Links in post:** https://youtu.be/kcSc5jL-FdU
+
+
+---
+
+## 2022-03-28 · Post · everyone's going crazy over this will smith incident but the real news today was the broken watchgua
+
+
+### Post — @infosec_au — 2022-03-28 07:36 UTC (2022-03-28 08:36 WAT)
+
+- URL: https://x.com/infosec_au/status/1508347369338773507
+- Metrics (at fetch): not returned
+
+> everyone's going crazy over this will smith incident but the real news today was the broken watchguard exploit that dropped
+
+
+---
+
+## 2022-03-15 · Post · I've released the first episode of Bug Bounty Redacted today (Exposed Redis &amp; HAProxy):
+
+
+### Post — @infosec_au — 2022-03-15 00:42 UTC (2022-03-15 01:42 WAT)
+
+- URL: https://x.com/infosec_au/status/1503532059712966656
+- Metrics (at fetch): not returned
+
+> I've released the first episode of Bug Bounty Redacted today (Exposed Redis &amp; HAProxy):
+>
+> https://www.youtube.com/watch?v=mWNaGn8xwoc
+>
+> This series walks you through real bug bounty reports that were rewarded, and explains the discovery process, and reporting process in detail.
+>
+> New episodes Monthly!
+
+**Links in post:** https://www.youtube.com/watch?v=mWNaGn8xwoc
+
+
+---
+
+## 2022-03-11 · Post · was just doing some source code auditing and found a really stupid auth bypass. setting a cookie cal
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2022-03-11 07:16 UTC (2022-03-11 08:16 WAT)
+
+- URL: https://x.com/infosec_au/status/1502181647000559616
+- Metrics (at fetch): not returned
+
+> was just doing some source code auditing and found a really stupid auth bypass. setting a cookie called LoginTime to 111111 bypassed auth because they do a date diff &gt; 360 evaluation and if that evaluates to true you’re authenticated…
+
+
+---
+
+## 2022-02-24 · Post · Last month, at @assetnote, we discovered a logic flaw in Dynamicweb (enterprise ecommerce solution) 
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2022-02-24 01:12 UTC (2022-02-24 02:12 WAT)
+
+- URL: https://x.com/infosec_au/status/1496654248519811074
+- Metrics (at fetch): not returned
+
+> Last month, at @assetnote, we discovered a logic flaw in Dynamicweb (enterprise ecommerce solution) - CVE-2022-25369. The vulnerability existed in the codebase since 2018! This logic flaw leads to RCE. You can read about our discovery here:
+> https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/
+
+**Links in post:** https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/
+
+
+---
+
+## 2022-01-29 · Post · I will be releasing a number of videos that go through my bug bounty reports in a redacted manner. I
+
+
+### Post — @infosec_au — 2022-01-29 09:25 UTC (2022-01-29 10:25 WAT)
+
+- URL: https://x.com/infosec_au/status/1487356095861452802
+- Metrics (at fetch): not returned
+
+> I will be releasing a number of videos that go through my bug bounty reports in a redacted manner. I believe in transparency, and the videos are going to shine an honest light into what I have reported. It’s mostly aimed at beginners, but the reports get complex over time.
+
+
+---
+
+## 2022-01-26 · Post · We're looking for a DevOps engineer to work with us at @assetnote to help us manage and build the in
+
+
+### Post — @infosec_au — 2022-01-26 22:03 UTC (2022-01-26 23:03 WAT)
+
+- URL: https://x.com/infosec_au/status/1486459724635971590
+- Metrics (at fetch): not returned
+
+> We're looking for a DevOps engineer to work with us at @assetnote to help us manage and build the infrastructure that performs recon and security analysis across millions of assets. Check out the role and please apply! https://apply.workable.com/assetnote/j/0E09D3BEE4/
+
+**Links in post:** https://apply.workable.com/assetnote/j/0E09D3BEE4/
+
+
+---
+
+## 2022-01-25 · Post · Our team took apart Solarwinds Web Help Desk to discover some serious issues (hardcoded credentials,
+
+
+### Post — @infosec_au — 2022-01-25 09:21 UTC (2022-01-25 10:21 WAT)
+
+- URL: https://x.com/infosec_au/status/1485905694926991368
+- Metrics (at fetch): not returned
+
+> Our team took apart Solarwinds Web Help Desk to discover some serious issues (hardcoded credentials, arbitrary HQL evaluation) - CVE-2021-35232 - we explain the discovery and exploitation process in our blog post:
+> https://blog.assetnote.io/2022/01/23/solarwinds-webhelpdesk-hsql-eval-harcoded-creds/
+
+**Links in post:** https://blog.assetnote.io/2022/01/23/solarwinds-webhelpdesk-hsql-eval-harcoded-creds/
+
+
+---
+
+## 2022-01-18 · Post · A few months ago, we discovered a post-auth SSRF in VMWare Workspace One Access - CVE-2021-22056 - w
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2022-01-18 02:46 UTC (2022-01-18 03:46 WAT)
+
+- URL: https://x.com/infosec_au/status/1483269616785063936
+- Metrics (at fetch): not returned
+
+> A few months ago, we discovered a post-auth SSRF in VMWare Workspace One Access - CVE-2021-22056 - which allowed you to steal an admin JWT via CSRF or request arbitrary URLs. Check out our blog post!  https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/
+
+**Links in post:** https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/
+
+
+---
+
+## 2022-01-14 · Post · If you find critical bugs in third-party vendors for a bug bounty program (they don't own the infras
+
+
+### Post — @infosec_au — 2022-01-14 21:40 UTC (2022-01-14 22:40 WAT)
+
+- URL: https://x.com/infosec_au/status/1482105445552893952
+- Metrics (at fetch): not returned
+
+> If you find critical bugs in third-party vendors for a bug bounty program (they don't own the infrastructure), should the bug bounty program pay out for these bugs?
+
+
+---
+
+## 2022-01-05 · Post · Last week, with @devec0, I found a preauth RCE on a video encoder device where we  could ultimately 
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2022-01-05 10:52 UTC (2022-01-05 11:52 WAT)
+
+- URL: https://x.com/infosec_au/status/1478680779295051776
+- Metrics (at fetch): not returned
+
+> Last week, with @devec0, I found a preauth RCE on a video encoder device where we  could ultimately hijack live streams. We immediately thought of the Max Headroom signal intrusion incident. Had to open up ghidra for this one, but no regrets.
+
+
+---
+
+## 2021-12-28 · Post · How do you turn a "bad" SSRF into a "good" SSRF? 
+
+
+Tags (automatic): SSRF, RCE, Memory corruption / native
+
+
+### Post — @infosec_au — 2021-12-28 21:19 UTC (2021-12-28 22:19 WAT)
+
+- URL: https://x.com/infosec_au/status/1475939436831514624
+- Metrics (at fetch): not returned
+
+> How do you turn a "bad" SSRF into a "good" SSRF? 
+>
+> In the post, we detail a multitude of SSRF vulnerabilities, a failed XXE exploit chain and a post-auth RCE affecting Websphere Portal.
+>
+> https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/
+
+**Links in post:** https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/
+
+
+---
+
+## 2021-12-26 · Post · Damn. This is really cool. Achieving RCE via LFI using Nginx as a way to upload a temporary file, ev
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2021-12-26 22:41 UTC (2021-12-26 23:41 WAT)
+
+- URL: https://x.com/infosec_au/status/1475235352973492227
+- Metrics (at fetch): not returned
+
+> Damn. This is really cool. Achieving RCE via LFI using Nginx as a way to upload a temporary file, even when PHP is hardened so other techniques will fail -  https://bierbaumer.net/security/php-lfi-with-nginx-assistance/
+
+**Links in post:** https://bierbaumer.net/security/php-lfi-with-nginx-assistance/
+
+
+---
+
+## 2021-12-17 · Post · (@devec0, @hpy_downunder and I) found a pre-authentication super SSRF in VMWare Workspace One UEM (A
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-12-17 05:41 UTC (2021-12-17 06:41 WAT)
+
+- URL: https://x.com/infosec_au/status/1471717132396158976
+- Metrics (at fetch): not returned
+
+> (@devec0, @hpy_downunder and I) found a pre-authentication super SSRF in VMWare Workspace One UEM (AirWatch). Lets you send arbitrary HTTP requests with any HTTP method / headers / body. It was really fun collaborating on this issue, make sure you patch! https://www.vmware.com/security/advisories/VMSA-2021-0029.html
+
+**Links in post:** https://www.vmware.com/security/advisories/VMSA-2021-0029.html
+
+
+---
+
+## 2021-04-09 · Post · Check out our blog post on Context Aware Content Discovery https://blog.assetnote.io/2021/04/05/cont
+
+
+### Post — @infosec_au — 2021-04-09 07:33 UTC (2021-04-09 08:33 WAT)
+
+- URL: https://x.com/infosec_au/status/1380423581494964226
+- Metrics (at fetch): not returned
+
+> Check out our blog post on Context Aware Content Discovery https://blog.assetnote.io/2021/04/05/contextual-content-discovery/ - we drop a tool (Kiterunner - https://github.com/assetnote/kiterunner) and some datasets. Hope you can find more endpoints through our work!
+
+**Links in post:** https://blog.assetnote.io/2021/04/05/contextual-content-discovery/, https://github.com/assetnote/kiterunner
+
+
+---
+
 ## 2021-03-31 · Post · Reported a full read SSRF that affects ~20 hosts on Microsoft's attack surface yesterday. Can access
 
 
@@ -2300,8 +2680,209 @@ Tags (automatic): SSRF
 ### Post — @infosec_au — 2021-01-14 20:33 UTC (2021-01-14 21:33 WAT)
 
 - URL: https://x.com/infosec_au/status/1349817057873850368
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 208, impression 0, like 746, quote 18, reply 14, retweet 341
 
 > Recently @Rhynorater sparked a discussion about exploiting blind SSRFs. At @assetnote, we've collected some information together and have created a Glossary of Blind SSRF Chains which can be found here: https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/ - we hope people can use it as a reference!
 
 **Links in post:** https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+
+
+---
+
+## 2020-12-31 · Post · Going to link to this https://t.co/B7WCKhBUvf any time someone asks me what XXE is and how to exploi
+
+
+### Post — @infosec_au — 2020-12-31 04:58 UTC (2020-12-31 05:58 WAT)
+
+- URL: https://x.com/infosec_au/status/1344508325703008256
+- Metrics (at fetch): bookmark 165, impression 0, like 407, quote 1, reply 6, retweet 176
+
+> Going to link to this https://t.co/B7WCKhBUvf any time someone asks me what XXE is and how to exploit it. This is a great resource. It’s missing a section on how to abuse local DTDs and side channel leaks, but still great for beginners.
+
+
+---
+
+## 2020-12-30 · Post · Found a Cross-Site Websocket Hijacking bug that lets me read directory listings for any folder. This
+
+
+### Post — @infosec_au — 2020-12-30 04:12 UTC (2020-12-30 05:12 WAT)
+
+- URL: https://x.com/infosec_au/status/1344134296408215553
+- Metrics (at fetch): bookmark 10, impression 0, like 137, quote 0, reply 2, retweet 9
+
+> Found a Cross-Site Websocket Hijacking bug that lets me read directory listings for any folder. This was an application I installed which happened to be running a Node.js daemon on localhost and communicating via WebSockets. Always be suspicious of apps that run on localhost.
+
+
+---
+
+## 2020-12-24 · Post · Tonight, I have been scouring through a large airlines network through an XXE in an IIS server, whic
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2020-12-24 10:15 UTC (2020-12-24 11:15 WAT)
+
+- URL: https://x.com/infosec_au/status/1342051223554289665
+- Metrics (at fetch): bookmark 28, impression 0, like 297, quote 0, reply 11, retweet 13
+
+> Tonight, I have been scouring through a large airlines network through an XXE in an IIS server, which leverages local DTDs and a side channel leak to achieve SSRF with response. I've just found an Elasticsearch server. This is one of my favourite hacks of 2020.
+
+
+---
+
+## 2020-12-20 · Post · Why I love hacking IIS servers:
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2020-12-20 22:23 UTC (2020-12-20 23:23 WAT)
+
+- URL: https://x.com/infosec_au/status/1340785029899698181
+- Metrics (at fetch): not returned
+
+> Why I love hacking IIS servers:
+> - Case insensitive, amazing for content discovery
+> - IIS Shortname
+> - VIEWSTATE deserialization RCE gadget
+> - Web.config upload tricks
+> - Debug mode w/ detailed stack traces and full path
+> - Debugging scripts often deployed (ELMAH, Trace)
+> - Telerik RCE
+
+
+---
+
+## 2020-11-13 · Post · Great writeup chaining two bugs for a critical outcome: 
+
+
+Tags (automatic): XSS, Request smuggling / desync
+
+
+### Post — @infosec_au — 2020-11-13 20:58 UTC (2020-11-13 21:58 WAT)
+
+- URL: https://x.com/infosec_au/status/1327355303059365888
+- Metrics (at fetch): not returned
+
+> Great writeup chaining two bugs for a critical outcome: 
+> https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/
+
+**Links in post:** https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/
+
+
+---
+
+## 2020-11-13 · Post · Amazing! @seanyeoh takes 1 on the HackerOne leaderboard for AU (all time). Rank 1 and 2 on the le
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2020-11-13 00:02 UTC (2020-11-13 01:02 WAT)
+
+- URL: https://x.com/infosec_au/status/1327039072288735233
+- Metrics (at fetch): not returned
+
+> Amazing! @seanyeoh takes #1 on the HackerOne leaderboard for AU (all time). Rank #1 and #2 on the leaderboard work at @assetnote. We're hiring &amp; growing. Check out our careers at https://assetnote.io/careers [pic.x.com/1NQ47Xa6NW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EmqWaqGVcAArmAo.jpg — no alt text provided by author
+
+**Links in post:** https://assetnote.io/careers
+
+
+---
+
+## 2020-11-12 · Post · Ranked 1 this month in the AU leaderboard on HackerOne. Surrounded by respected peers @wcbowling an
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2020-11-12 21:31 UTC (2020-11-12 22:31 WAT)
+
+- URL: https://x.com/infosec_au/status/1327001155679838208
+- Metrics (at fetch): not returned
+
+> Ranked #1 this month in the AU leaderboard on HackerOne. Surrounded by respected peers @wcbowling and @sml555_ [pic.x.com/w4QZvaa1Ml]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Emp0LPzVgAA6cX8.jpg — no alt text provided by author
+
+
+---
+
+## 2020-10-30 · Post · It's no secret that bug bounty hunting can be inconsistent. For a month, I found basically nothing. 
+
+
+### Post — @infosec_au — 2020-10-30 09:02 UTC (2020-10-30 10:02 WAT)
+
+- URL: https://x.com/infosec_au/status/1322101576698195969
+- Metrics (at fetch): not returned
+
+> It's no secret that bug bounty hunting can be inconsistent. For a month, I found basically nothing. I felt like the worst hacker in the world. Keep on doing what you're doing and fight the imposter syndrome! [pic.x.com/2SLGkuz5HK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ElkMF60VoAI1P7Q.png — no alt text provided by author
+
+
+---
+
+## 2020-10-28 · Post · A recent one shot GET request WebLogic RCE analysed and reverse engineered by Jang: https://testbnul
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2020-10-28 21:20 UTC (2020-10-28 22:20 WAT)
+
+- URL: https://x.com/infosec_au/status/1321562579135705089
+- Metrics (at fetch): not returned
+
+> A recent one shot GET request WebLogic RCE analysed and reverse engineered by Jang: https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf - worth a read. Also hilarious gif included in the blog post. [pic.x.com/LGOd67VHU2]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+**Links in post:** https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf
+
+
+---
+
+## 2020-10-22 · Post · I really enjoyed working with this bug bounty program! https://twitter.com/emil_no/status/1318880956
+
+
+### Post — @infosec_au — 2020-10-22 08:11 UTC (2020-10-22 09:11 WAT)
+
+- URL: https://x.com/infosec_au/status/1319189589702029312
+- Metrics (at fetch): not returned
+
+> I really enjoyed working with this bug bounty program! https://twitter.com/emil_no/status/1318880956569223171
+
+**Links in post:** https://twitter.com/emil_no/status/1318880956569223171
+
+**Quoted post (full text):**
+
+    #### Quoted post — @91578530 — 2020-10-21 11:44 UTC (2020-10-21 12:44 WAT)
+    
+    - URL: https://x.com/91578530/status/1318880956569223171
+    - Metrics (at fetch): not returned
+    
+    > I just published "One year with a private bug bounty program" https://link.medium.com/7cUJFG7nLab @FINN_tech @Hacker0x01 @FINN_no
+    
+    **Links in post:** https://link.medium.com/7cUJFG7nLab
+    
+
+
+---
+
+## 2020-10-17 · Post · Is there anyone from AU/NZ who's interested in bug bounties and would like to join our Slack channel
+
+
+### Post — @infosec_au — 2020-10-17 09:41 UTC (2020-10-17 10:41 WAT)
+
+- URL: https://x.com/infosec_au/status/1317400371741020161
+- Metrics (at fetch): not returned
+
+> Is there anyone from AU/NZ who's interested in bug bounties and would like to join our Slack channel? Send me a DM!

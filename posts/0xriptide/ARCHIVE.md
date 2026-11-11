@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 127
-- Conversations/threads: 123
-- Oldest post captured: 2024-08-29
+- Posts in this file: 143
+- Conversations/threads: 139
+- Oldest post captured: 2014-07-21
 - Newest post captured: 2026-11-10
 
 
@@ -2916,3 +2916,289 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 0, impression 1731, like 10, quote 0, reply 4, retweet 0
 
 > will microdosing these truffles give me the bug finding alpha
+
+
+---
+
+## 2024-08-01 · Post · bug hunters- need your input
+
+
+### Post — @0xriptide — 2024-08-01 09:45 UTC (2024-08-01 10:45 WAT)
+
+- URL: https://x.com/0xriptide/status/1818946240995877136
+- Metrics (at fetch): bookmark 4, impression 3100, like 21, quote 0, reply 6, retweet 1
+
+> bug hunters- need your input
+>
+> i have a lot of personal notes that contain leads that may indeed lead to a live bug ... or may lead to nowhere
+>
+> i don't have the time to look at everything so I just make notes as I go and hopefully get back to it
+>
+> would you pay for these leads?
+
+
+---
+
+## 2024-07-18 · Post · live bug
+
+
+### Post — @0xriptide — 2024-07-18 13:22 UTC (2024-07-18 14:22 WAT)
+
+- URL: https://x.com/0xriptide/status/1813927260476596498
+- Metrics (at fetch): bookmark 1, impression 5752, like 20, quote 0, reply 14, retweet 1
+
+> live bug
+>
+> 1) users have mistakenly sent ETH to a contract (~0.1ETH)
+>
+> 2) there is a way to spend that ETH to benefit the caller
+>
+> 3) there is a check that requires the caller to send ETH, but we can bypass it and use the ETH in the contract instead
+>
+> how do you classify it?
+
+
+---
+
+## 2024-05-31 · Post · time to find a seven figure bug
+
+
+### Post — @0xriptide — 2024-05-31 07:02 UTC (2024-05-31 08:02 WAT)
+
+- URL: https://x.com/0xriptide/status/1796437159152619911
+- Metrics (at fetch): bookmark 4, impression 6393, like 101, quote 1, reply 16, retweet 3
+
+> time to find a seven figure bug
+>
+> gm
+
+
+---
+
+## 2024-05-10 · Post · Auditors follow the rules
+
+
+### Post — @0xriptide — 2024-05-10 14:24 UTC (2024-05-10 15:24 WAT)
+
+- URL: https://x.com/0xriptide/status/1788938104369299533
+- Metrics (at fetch): bookmark 11, impression 7791, like 60, quote 1, reply 5, retweet 3
+
+> Auditors follow the rules
+>
+> Hackers break them 
+>
+> Slots open this summer for Post Audit Security Reviews
+>
+> I look for what your auditor missed 👀
+>
+> highs/crits only
+>
+> DM when ready to deploy/have just deployed
+
+
+---
+
+## 2024-05-05 · Post · we like the great bug finding tools
+
+
+### Post — @0xriptide — 2024-05-05 16:52 UTC (2024-05-05 17:52 WAT)
+
+- URL: https://x.com/0xriptide/status/1787163472645570916
+- Metrics (at fetch): bookmark 11, impression 5944, like 22, quote 0, reply 4, retweet 0
+
+> we like the great bug finding tools
+>
+> see if we can get anyone to step up and take my spot
+>
+> @zachobront @pashov https://t.co/au8LZXAT3V
+
+**Quoted post** 1787108194063647181: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-04-18 · Post · cooking up another live juicy bug uwhehe [pic.x.com/NzWxCIrTwo]
+
+
+### Post — @0xriptide — 2024-04-18 18:58 UTC (2024-04-18 19:58 WAT)
+
+- URL: https://x.com/0xriptide/status/1781034499490369557
+- Metrics (at fetch): not returned
+
+> cooking up another live juicy bug uwhehe [pic.x.com/NzWxCIrTwo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLeBS7UWEAASSwd.png — no alt text provided by author
+
+
+---
+
+## 2024-04-14 · Post · wonder if they checked address aliasing attack vectors on @optimism and @arbitrum https://twitter.co
+
+
+### Post — @0xriptide — 2024-04-14 08:34 UTC (2024-04-14 09:34 WAT)
+
+- URL: https://x.com/0xriptide/status/1779428075781980651
+- Metrics (at fetch): not returned
+
+> wonder if they checked address aliasing attack vectors on @optimism and @arbitrum https://twitter.com/dedaub/status/1779296095547306415
+
+**Links in post:** https://twitter.com/dedaub/status/1779296095547306415
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1346525072811585537 — 2024-04-13 23:50 UTC (2024-04-14 00:50 WAT)
+    
+    - URL: https://x.com/1346525072811585537/status/1779296095547306415
+    - Metrics (at fetch): not returned
+    
+    > The Dedaub team, in a study for the EF in 2021, identified an exhaustive list of contracts that were  easier to exploit with **EIP-3074**
+    >
+    > Included in the list where development contracts in Compound, 1inch &amp; SushiSwap
+    >
+    > Nowadays, this is much less of a concern
+    >
+    > Let's see why ⬇️ [pic.x.com/oyUmlUW16w]
+    
+    **Media:**
+    - media `3_1779290566880083969` (details not returned by the API)
+    
+
+
+---
+
+## 2024-03-16 · Post · Sharing my bug writeup on a recent critical vulnerability I found on @DeriProtocol that allows at at
+
+
+Tags (automatic): Smart contract / DeFi, Platform: Immunefi
+
+
+### Post — @0xriptide — 2024-03-16 12:28 UTC (2024-03-16 13:28 WAT)
+
+- URL: https://x.com/0xriptide/status/1768977570203136280
+- Metrics (at fetch): not returned
+
+> Sharing my bug writeup on a recent critical vulnerability I found on @DeriProtocol that allows at attacker to force liquidate a healthy position and steal a trader's PnL
+>  
+> https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/HVfC1Q3ZnOhMpMir1dDMW_e0aXDkcOKsUf30dNbAumA
+>
+> @immunefi
+
+**Links in post:** https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/HVfC1Q3ZnOhMpMir1dDMW_e0aXDkcOKsUf30dNbAumA
+
+
+---
+
+## 2024-03-11 · Post · since I haven't done one in a while- would anyone be interested in a write-up on a recent live criti
+
+
+### Post — @0xriptide — 2024-03-11 09:08 UTC (2024-03-11 10:08 WAT)
+
+- URL: https://x.com/0xriptide/status/1767115385827111268
+- Metrics (at fetch): not returned
+
+> since I haven't done one in a while- would anyone be interested in a write-up on a recent live critical i found in @DeriProtocol 
+>
+> kind of an interesting sig replay exploit
+
+
+---
+
+## 2024-03-10 · Post · anyone have the scoop on that @aave bug from a few months ago yet?
+
+
+### Post — @0xriptide — 2024-03-10 08:47 UTC (2024-03-10 09:47 WAT)
+
+- URL: https://x.com/0xriptide/status/1766747801889718531
+- Metrics (at fetch): not returned
+
+> anyone have the scoop on that @aave bug from a few months ago yet?
+
+
+---
+
+## 2024-02-27 · Post · always a rush finding a bug live on-chain
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @0xriptide — 2024-02-27 09:24 UTC (2024-02-27 10:24 WAT)
+
+- URL: https://x.com/0xriptide/status/1762408404570542152
+- Metrics (at fetch): not returned
+
+> always a rush finding a bug live on-chain
+>
+> also very satisfying spending the next hours or days running sims trying to maximize damage
+
+
+---
+
+## 2024-02-06 · Post · make an extra $1,000-$5,000/mo
+
+
+### Post — @0xriptide — 2024-02-06 05:53 UTC (2024-02-06 06:53 WAT)
+
+- URL: https://x.com/0xriptide/status/1754745057112904174
+- Metrics (at fetch): not returned
+
+> make an extra $1,000-$5,000/mo
+>
+> create a one click working cloud instance for audit contests that are a pain in the ass to set up (e.g. blast)
+>
+> sell instance to auditors for $100/pop
+>
+> don't believe me? look at the discord to see how many hours are wasted just getting set up
+
+
+---
+
+## 2024-01-29 · Post · what kind of vuln is it if anyone can relock your rewards for you instead of allowing you to claim?
+
+
+### Post — @0xriptide — 2024-01-29 08:44 UTC (2024-01-29 09:44 WAT)
+
+- URL: https://x.com/0xriptide/status/1751889141845873092
+- Metrics (at fetch): not returned
+
+> what kind of vuln is it if anyone can relock your rewards for you instead of allowing you to claim?
+
+
+---
+
+## 2014-11-18 · Post · "@Techworm_in: Hackers encrypted the entire City of Detroit DataBase &amp; demanded ransom of 2000 b
+
+
+### Post — @0xriptide — 2014-11-18 23:47 UTC (2014-11-19 00:47 WAT)
+
+- URL: https://x.com/0xriptide/status/534855528833646593
+- Metrics (at fetch): not returned
+
+> "@Techworm_in: Hackers encrypted the entire City of Detroit DataBase &amp; demanded ransom of 2000 bitcoins ($803,500)" hack the Gibson!!
+
+
+---
+
+## 2014-09-16 · Post · Always makes me cringe when a site sends me my password in cleartext instead of resetting it. U r pr
+
+
+### Post — @0xriptide — 2014-09-16 14:42 UTC (2014-09-16 15:42 WAT)
+
+- URL: https://x.com/0xriptide/status/511887730637565952
+- Metrics (at fetch): not returned
+
+> Always makes me cringe when a site sends me my password in cleartext instead of resetting it. U r practically begging someone 2 hack your DB
+
+
+---
+
+## 2014-07-21 · Post · @_bitshares just read daniel's writeup in latest issue of yBitcoin. Interesting idea. We should talk
+
+
+### Post — @0xriptide — 2014-07-21 15:14 UTC (2014-07-21 16:14 WAT)
+
+- URL: https://x.com/0xriptide/status/491239691090661378
+- Metrics (at fetch): not returned
+
+> @_bitshares just read daniel's writeup in latest issue of yBitcoin. Interesting idea. We should talk.

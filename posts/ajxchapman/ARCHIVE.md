@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 198
-- Conversations/threads: 185
-- Oldest post captured: 2019-01-19
+- Posts in this file: 210
+- Conversations/threads: 197
+- Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
 
 
@@ -3999,3 +3999,186 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
 
 > Going to spend the rest of the day writing up reports, tuning in to @Bugcrowd #levelup0x03 and enjoying a nice cold 🍺
+
+
+---
+
+## 2019-01-15 · Post · Today I start a new journey as a full time BugBounty hunter. @ajxchapman on @Hacker0x01, @Bugcrowd 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @ajxchapman — 2019-01-15 20:40 UTC (2019-01-15 21:40 WAT)
+
+- URL: https://x.com/ajxchapman/status/1085275549562490881
+- Metrics (at fetch): bookmark 0, impression 0, like 44, quote 0, reply 4, retweet 0
+
+> Today I start a new journey as a full time #BugBounty hunter. @ajxchapman on @Hacker0x01, @Bugcrowd and @intigriti, missing any others? DMs are open for discussions / condolences
+
+
+---
+
+## 2018-06-16 · Post · Finally been able to (ab)use browser automatic file download behaviour in a client side exploit chai
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ajxchapman — 2018-06-16 22:04 UTC (2018-06-16 23:04 WAT)
+
+- URL: https://x.com/ajxchapman/status/1008107991424491520
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Finally been able to (ab)use browser automatic file download behaviour in a client side exploit chain. Very easy way to drop an arbitrary file to a somewhat known location. I really don't know who ever thought that was a good idea
+> ¯\_(ツ)_/¯
+
+
+---
+
+## 2018-03-25 · Post · I'm work on an arbitrary file write as System vulnerability in a Windows 10 app. Easy enough to expl
+
+
+### Post — @ajxchapman — 2018-03-25 07:17 UTC (2018-03-25 08:17 WAT)
+
+- URL: https://x.com/ajxchapman/status/977806693454278657
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 2
+
+> I'm work on an arbitrary file write as System vulnerability in a Windows 10 app. Easy enough to exploit for code exec eventually, but can't work out an insta-exec to demonstrate in a PoC. Anyone got any bright ideas?
+
+
+---
+
+## 2018-03-19 · Post · Another one off the BugBounty check list:
+
+
+Tags (automatic): SQL injection, SSRF
+
+
+### Post — @ajxchapman — 2018-03-19 22:48 UTC (2018-03-19 23:48 WAT)
+
+- URL: https://x.com/ajxchapman/status/975866507585605632
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Another one off the #BugBounty check list:
+> ✔️ SSRF to AWS metadata
+>
+> Still to go:
+> ⭕ SQL injection
+> ⭕ Domain takeover
+> ⭕ Template injection
+> And many more
+
+
+---
+
+## 2017-10-11 · Post · Security issues identified in 2007: XSS, SQLi, RCE, ...
+
+
+Tags (automatic): XSS, SQL injection, RCE
+
+
+### Post — @ajxchapman — 2017-10-11 14:32 UTC (2017-10-11 15:32 WAT)
+
+- URL: https://x.com/ajxchapman/status/918122126661603328
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Security issues identified in 2007: XSS, SQLi, RCE, ...
+> Security issues identified in 2017: XSS, SQLi, RCE, ...
+> Nothing quite like progress!
+
+
+---
+
+## 2017-08-16 · Post · Finding a potential critical bug - 30 minutes
+
+
+### Post — @ajxchapman — 2017-08-16 13:58 UTC (2017-08-16 14:58 WAT)
+
+- URL: https://x.com/ajxchapman/status/897819905952796673
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 1, reply 1, retweet 2
+
+> Finding a potential critical bug - 30 minutes
+> Setting up a test environment to safely test exploitation - 8 hours
+> 😑
+
+
+---
+
+## 2017-08-02 · Post · Turning an IoT device into a covert bug with physical access, or attaching a covert bug to an IoT de
+
+
+### Post — @ajxchapman — 2017-08-02 12:07 UTC (2017-08-02 13:07 WAT)
+
+- URL: https://x.com/ajxchapman/status/892718427290337281
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 5
+
+> Turning an IoT device into a covert bug with physical access, or attaching a covert bug to an IoT device with physical access  ¯\_(ツ)_/¯
+
+
+---
+
+## 2017-02-11 · Post · A productive morning submitting bug reports 😑
+
+
+### Post — @ajxchapman — 2017-02-11 13:15 UTC (2017-02-11 14:15 WAT)
+
+- URL: https://x.com/ajxchapman/status/830404964203765760
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> A productive morning submitting bug reports 😑
+
+
+---
+
+## 2014-04-14 · Post · Anyone know if unauthenticated ear wiggling would qualify for a CVE?
+
+
+### Post — @ajxchapman — 2014-04-14 15:46 UTC (2014-04-14 16:46 WAT)
+
+- URL: https://x.com/ajxchapman/status/455733785519460352
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Anyone know if unauthenticated ear wiggling would qualify for a CVE?
+
+
+---
+
+## 2013-09-18 · Post · Chrome and Firefox sharing vulnerable Windows libraries. Two browser bugs for the price of one: CVE-
+
+
+### Post — @ajxchapman — 2013-09-18 16:57 UTC (2013-09-18 17:57 WAT)
+
+- URL: https://x.com/ajxchapman/status/380375000164749312
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 2
+
+> Chrome and Firefox sharing vulnerable Windows libraries. Two browser bugs for the price of one: CVE-2013-2901 &amp; CVE-2013-1721
+
+
+---
+
+## 2013-04-10 · Reply · @exploitexercise Fusion level03 boom! Two stage ROP exploit with info disclosure and alternate ROP s
+
+
+### Post — @ajxchapman — 2013-04-10 20:14 UTC (2013-04-10 21:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/322080100080308224
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @exploitexercise Fusion level03 boom! Two stage ROP exploit with info disclosure and alternate ROP stack. Much fun was had with this one :-D
+
+
+---
+
+## 2013-03-23 · Post · CVE-2013-1659: Potential RCE in the ESXi NFC protocol addressed by VMware http://t.co/xfLWGVYdIZ
+
+
+Tags (automatic): RCE
+
+
+### Post — @ajxchapman — 2013-03-23 18:00 UTC (2013-03-23 19:00 WAT)
+
+- URL: https://x.com/ajxchapman/status/315523413340979200
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 3
+
+> CVE-2013-1659: Potential RCE in the ESXi NFC protocol addressed by VMware http://t.co/xfLWGVYdIZ

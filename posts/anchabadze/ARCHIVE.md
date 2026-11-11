@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 453
-- Conversations/threads: 453
-- Oldest post captured: 2025-02-07
+- Posts in this file: 454
+- Conversations/threads: 454
+- Oldest post captured: 2025-02-05
 - Newest post captured: 2026-11-11
 
 
@@ -90208,3 +90208,21 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GjNs36OWwAAa0dY.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-05 · Post · The audit report for @lambodotwin on @code4rena came out. While reading it, I found an H vulnerabili
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-02-05 16:24 UTC (2025-02-05 17:24 WAT)
+
+- URL: https://x.com/anchabadze/status/1887175554077454351
+- Metrics (at fetch): bookmark 0, impression 270, like 0, quote 0, reply 0, retweet 0
+
+> The audit report for @lambodotwin on @code4rena came out. While reading it, I found an H vulnerability that I had discovered but decided not to submit. I don't even remember why.
+>
+> Conclusion: always submit all bugs, even if you have doubts.

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 323
-- Conversations/threads: 295
-- Oldest post captured: 2020-11-10
+- Posts in this file: 338
+- Conversations/threads: 310
+- Oldest post captured: 2020-05-27
 - Newest post captured: 2026-11-09
 
 
@@ -7841,6 +7841,150 @@ Tags (automatic): XSS
 
 ---
 
+## 2024-08-06 · Post · interesting .
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-08-06 18:36 UTC (2024-08-06 19:36 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1820891811596136511
+- Metrics (at fetch): bookmark 10, impression 2659, like 13, quote 0, reply 0, retweet 0
+
+> interesting .
+>
+> But, I would be very impressed if it can solve twitter xss challenges.
+>
+> For instance, if it can solve 10 basic challenges of https://t.co/bmEdkBQeQJ by @filedescriptor, it’s definitely impressive. https://t.co/z9fSRC79ME
+
+**Quoted post (full text):**
+
+    #### Quoted post — @6224962 — 2024-08-05 14:08 UTC (2024-08-05 15:08 WAT)
+    
+    - URL: https://x.com/6224962/status/1820461949806875002
+    - Metrics (at fetch): bookmark 219, impression 261581, like 386, quote 45, reply 28, retweet 64
+    
+    > XBOW is the world’s first fully automated web pentester.
+    >
+    > It previously scored an unprecedented 75% on renowned web pentesting benchmarks from @PentesterLab and @PortSwigger. 
+    >
+    > So we decided to give it a harder challenge: competing against humans. https://t.co/tdczNqTuph
+    
+    **Media:**
+    - media `7_1820451501061353472` (details not returned by the API)
+    
+
+
+---
+
+## 2024-07-28 · Post · No, it doesn’t matter where you store the JWT or session once there is an XSS.
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2024-07-28 11:41 UTC (2024-07-28 12:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1817525909416501703
+- Metrics (at fetch): bookmark 3, impression 6184, like 24, quote 0, reply 2, retweet 0
+
+> No, it doesn’t matter where you store the JWT or session once there is an XSS.
+>
+> Since, I am a browser security professional, let me decode it for you. https://t.co/rk1MLIdqwW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1599733568292651008 — 2024-07-27 20:55 UTC (2024-07-27 21:55 WAT)
+    
+    - URL: https://x.com/1599733568292651008/status/1817302868111896833
+    - Metrics (at fetch): bookmark 1835, impression 1128695, like 5385, quote 94, reply 348, retweet 316
+    
+    > DO NOT STORE JWTS IN LOCAL STORAGE. 
+    >
+    > DO NOT STORE JWTS IN LOCAL STORAGE. 
+    >
+    > DO NOT STORE JWTS IN LOCAL STORAGE. 
+    >
+    > DO NOT STORE JWTS IN LOCAL STORAGE. 
+    >
+    > DO NOT STORE JWTS IN LOCAL STORAGE.
+    
+
+
+---
+
+## 2024-05-20 · Post · I guess opening a PDF might lead to RCE in VSCode, opening a malicious PDF and it can run code via t
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @S1r1u5_ — 2024-05-20 15:35 UTC (2024-05-20 16:35 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1792579816677331008
+- Metrics (at fetch): bookmark 9, impression 4603, like 27, quote 0, reply 1, retweet 0
+
+> I guess opening a PDF might lead to RCE in VSCode, opening a malicious PDF and it can run code via top.require with XSS👀 https://t.co/c3BrLlsqpV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1311317124 — 2024-05-20 10:30 UTC (2024-05-20 11:30 WAT)
+    
+    - URL: https://x.com/1311317124/status/1792503111317119185
+    - Metrics (at fetch): bookmark 282, impression 80007, like 698, quote 5, reply 7, retweet 220
+    
+    > Just released the write-up for CVE-2024-4367, a bug I found recently in PDF.js (and hence in Firefox), resulting in arbitrary JavaScript execution when opening a malicious PDF.
+    > https://t.co/sex6fR0xHS
+    
+
+
+---
+
+## 2024-02-16 · Post · another cool bug from @rootxharsh and @iamnoooob https://twitter.com/rootxharsh/status/1349975687872
+
+
+### Post — @S1r1u5_ — 2024-02-16 02:47 UTC (2024-02-16 03:47 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1758322252100120806
+- Metrics (at fetch): not returned
+
+> another cool bug from @rootxharsh and @iamnoooob https://twitter.com/rootxharsh/status/1349975687872974848
+
+**Links in post:** https://twitter.com/rootxharsh/status/1349975687872974848
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3177957894 — 2021-01-15 07:04 UTC (2021-01-15 08:04 WAT)
+    
+    - URL: https://x.com/3177957894/status/1349975687872974848
+    - Metrics (at fetch): not returned
+    
+    > Here’s our Apple RCE writeup! https://twitter.com/iamnoooob/status/1349975449934454785
+    
+    **Links in post:** https://twitter.com/iamnoooob/status/1349975449934454785
+    
+    **Quoted post** 1349975449934454785: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-01-29 · Post · Do you know what is very interesting in the "Top 10 web hacking techniques of 2023" nominations?
+
+
+### Post — @S1r1u5_ — 2024-01-29 04:25 UTC (2024-01-29 05:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1751823738411319564
+- Metrics (at fetch): not returned
+
+> Do you know what is very interesting in the "Top 10 web hacking techniques of 2023" nominations?
+>
+> Three interesting vulnerabilities are traced back to unclear Microsoft Documentation. One bug even allowed the manipulation of Bing search results! lol
+
+
+---
+
 ## 2023-12-31 · Post · And I feel like someone in some rural area, a guy like me is waiting for the spark to start the fire
 
 
@@ -8013,3 +8157,204 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 1, impression 0, like 23, quote 0, reply 4, retweet 0
 
 > Is MSc in Information/Cyber Security in the USA worth it? I have to spend all my hard-earned bug bounty money on it. Indian Appsec scene is lame and I am afraid that I can't find a role I am interested in. Please throw some light.
+
+
+---
+
+## 2020-11-03 · Post · New XSS Challenge, Can you pop alert(1337)?
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-11-03 17:57 UTC (2020-11-03 18:57 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1323685651078766594
+- Metrics (at fetch): bookmark 10, impression 0, like 76, quote 1, reply 2, retweet 21
+
+> New XSS Challenge, Can you pop alert(1337)?
+>
+> #xss #javascript  
+>
+> https://t.co/zvmizyEj2T
+
+
+---
+
+## 2020-10-06 · Post · I try put __proto___ it gives bug. https://t.co/EiqEMkITHr
+
+
+### Post — @S1r1u5_ — 2020-10-06 12:33 UTC (2020-10-06 13:33 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1313457246806794241
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 0, reply 4, retweet 0
+
+> I try put __proto___ it gives bug. https://t.co/EiqEMkITHr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3094698976 — 2020-10-05 16:40 UTC (2020-10-05 17:40 WAT)
+    
+    - URL: https://x.com/3094698976/status/1313157161007054854
+    - Metrics (at fetch): bookmark 2, impression 0, like 394, quote 3, reply 15, retweet 36
+    
+    > I try put ' it gives bug
+    > #bugbountytip
+    
+
+
+---
+
+## 2020-08-26 · Post · Google CTF "ALL" The Little Things challenge write-up for both intended and unintended solution. 
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-08-26 15:35 UTC (2020-08-26 16:35 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1298645148918669312
+- Metrics (at fetch): bookmark 14, impression 0, like 87, quote 2, reply 4, retweet 29
+
+> Google CTF "ALL" The Little Things challenge write-up for both intended and unintended solution. 
+>
+> The unintended solution involves prototype pollution.
+>
+> Intended involves abusing document.all property.
+>
+> Thanks, @terjanq for an awesome challenge.
+> https://t.co/i4m0GXgdLr #xss #js
+
+
+---
+
+## 2020-08-26 · Post · Here is the solution to my recent CTF. We abuse improper reference to an iframe to send postMessage 
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-08-26 14:31 UTC (2020-08-26 15:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1298629048961130496
+- Metrics (at fetch): bookmark 7, impression 0, like 34, quote 0, reply 2, retweet 6
+
+> Here is the solution to my recent CTF. We abuse improper reference to an iframe to send postMessage with a secret to the malicious origin instead of the origin parent intended to send. 
+>
+> https://t.co/N9tpLgpSua
+> #bugbountytip  #javascript #xss ? https://t.co/wg6nScxtus
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EgWn0nzUYAgAk2Y.jpg — no alt text provided by author
+
+
+---
+
+## 2020-08-19 · Post · I created a new easy XSS-ish challenge. Try to steal the secret.
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-08-19 06:50 UTC (2020-08-19 07:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1295976433869758464
+- Metrics (at fetch): bookmark 10, impression 0, like 64, quote 1, reply 9, retweet 14
+
+> I created a new easy XSS-ish challenge. Try to steal the secret.
+>
+> https://t.co/1x0JSO1sL0
+>
+> DM me if you found the solution.
+>
+> Good Luck.
+
+
+---
+
+## 2020-08-17 · Post · It took me a day to create PoC for a bug.
+
+
+### Post — @S1r1u5_ — 2020-08-17 18:28 UTC (2020-08-17 19:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1295427315577454592
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 2, retweet 0
+
+> It took me a day to create PoC for a bug.
+
+
+---
+
+## 2020-08-04 · Post · Trying to bypass one more waf, where =, `, (, ) blocked, not sure if I am able to break it.
+
+
+### Post — @S1r1u5_ — 2020-08-04 13:26 UTC (2020-08-04 14:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1290640294409572354
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> Trying to bypass one more waf, where =, `, (, ) blocked, not sure if I am able to break it.
+
+
+---
+
+## 2020-07-22 · Post · $250 for a XSS challenge is really cool, but I am late to the party, 10 people already solved it. [p
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-07-22 01:26 UTC (2020-07-22 02:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1285747892460769281
+- Metrics (at fetch): not returned
+
+> $250 for a XSS challenge is really cool, but I am late to the party, 10 people already solved it. [pic.x.com/kCELfBVYyG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EdfkXFtU4AAsY8n.png — no alt text provided by author
+
+
+---
+
+## 2020-06-19 · Post · Here is my @Hacker0x01 h12006 CTF writeup, I tried by best for the write-up. :/
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2020-06-19 03:44 UTC (2020-06-19 04:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1273823866918297605
+- Metrics (at fetch): not returned
+
+> Here is my @Hacker0x01 #h12006 CTF writeup, I tried by best for the write-up. :/
+>
+> https://blog.s1r1us.ninja/CTF/h1-2006-ctf-123asdafasdhashda
+
+**Links in post:** https://blog.s1r1us.ninja/CTF/h1-2006-ctf-123asdafasdhashda
+
+
+---
+
+## 2020-05-27 · Post · New write-up
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-05-27 18:45 UTC (2020-05-27 19:45 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1265715765451186178
+- Metrics (at fetch): not returned
+
+> New write-up
+>
+> The Tangled Browsers: Beyond XSS (Part 1)
+>
+> https://blog.s1r1us.ninja/CTF/tangled_browsers [pic.x.com/4kIAvAUMwE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EZC5me3U4AADOXd.png — no alt text provided by author
+
+**Links in post:** https://blog.s1r1us.ninja/CTF/tangled_browsers

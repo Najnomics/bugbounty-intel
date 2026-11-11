@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 136
-- Conversations/threads: 124
-- Oldest post captured: 2016-12-08
+- Posts in this file: 155
+- Conversations/threads: 143
+- Oldest post captured: 2016-09-09
 - Newest post captured: 2026-11-09
 
 
@@ -2368,6 +2368,244 @@ Tags (automatic): XSS
 
 ---
 
+## 2024-07-04 · Post · You can use baseURI to conceal XSS payloads! Every HTML tag has the baseURI property. Base allows yo
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-07-04 13:00 UTC (2024-07-04 14:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1808848236318445593
+- Metrics (at fetch): bookmark 156, impression 20419, like 216, quote 1, reply 6, retweet 55
+
+> You can use baseURI to conceal XSS payloads! Every HTML tag has the baseURI property. Base allows you to change the baseURI. https://t.co/xjvBnzvbao
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRowFQ5WcAAn4xb.jpg — alt text: "<base href=x:alert(1) onfocus=eval(baseURI) 
+  tabindex=1 style=display:block autofocus>"
+
+
+---
+
+## 2024-07-03 · Post · This is going to be a really common bug. https://t.co/1qXCBUzET7
+
+
+### Post — @garethheyes — 2024-07-03 09:18 UTC (2024-07-03 10:18 WAT)
+
+- URL: https://x.com/garethheyes/status/1808430153220972562
+- Metrics (at fetch): bookmark 43, impression 7609, like 65, quote 0, reply 1, retweet 5
+
+> This is going to be a really common bug. https://t.co/1qXCBUzET7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14511703 — 2024-07-02 20:53 UTC (2024-07-02 21:53 WAT)
+    
+    - URL: https://x.com/14511703/status/1808242573775196627
+    - Metrics (at fetch): bookmark 216, impression 43734, like 287, quote 3, reply 1, retweet 92
+    
+    > After months of work (and bugs), @maxenceschmitt has finally released his fabulous research. Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery or #CSPT2CSRF. 
+    >
+    > Full paper here: https://t.co/vXjkZBq35Q
+    >
+    > Summary in https://t.co/aOQfr6qD8s https://t.co/VpkDGRGmtq
+    
+    **Media:**
+    - media `3_1808242311870242816` (details not returned by the API)
+    
+
+
+---
+
+## 2024-06-29 · Post · When XSS fuzzing with images in Shazzer I wait for page load to determine if the fuzz is complete. T
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-06-29 15:16 UTC (2024-06-29 16:16 WAT)
+
+- URL: https://x.com/garethheyes/status/1807070555796885890
+- Metrics (at fetch): bookmark 2, impression 2079, like 11, quote 0, reply 1, retweet 0
+
+> When XSS fuzzing with images in Shazzer I wait for page load to determine if the fuzz is complete. The problem with that is often the all the images haven't executed their onerror event yet. What should I do?
+
+
+---
+
+## 2024-06-26 · Post · Check out this fresh take on HTML entities from @therceman! Their research revealed how entities can
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-06-26 13:00 UTC (2024-06-26 14:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1805949130868662343
+- Metrics (at fetch): bookmark 76, impression 13673, like 127, quote 1, reply 11, retweet 31
+
+> Check out this fresh take on HTML entities from @therceman! Their research revealed how entities can morph into ASCII characters, uncovering new XSS vectors when decoded server-side.
+>
+> You can find even more variations with Shazzer:
+> https://t.co/2v8cYdL88p https://t.co/hNcBrvWag0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1183468046851231744 — 2024-06-20 05:49 UTC (2024-06-20 06:49 WAT)
+    
+    - URL: https://x.com/1183468046851231744/status/1803666353892585642
+    - Metrics (at fetch): bookmark 233, impression 39692, like 265, quote 4, reply 3, retweet 68
+    
+    > Bug Bounty Tip
+    >
+    > XSS WAF Bypass by multi-char HTML entities
+    >
+    > &amp;fjlig; translates to fj
+    > &amp;nvgt; translates to &gt; + [?]
+    > &amp;nvlt; translates to &lt; + [?]
+    >
+    > [?] - Unicode symbol https://t.co/RKNR6gnqL4
+    
+    **Media:**
+    - media `3_1803666286716559360` (details not returned by the API)
+    
+
+
+---
+
+## 2024-06-17 · Post · I'm excited to announce that I'll be presenting "Splitting the email atom: exploiting parsers to byp
+
+
+### Post — @garethheyes — 2024-06-17 13:04 UTC (2024-06-17 14:04 WAT)
+
+- URL: https://x.com/garethheyes/status/1802688708879028263
+- Metrics (at fetch): bookmark 9, impression 16206, like 129, quote 0, reply 3, retweet 19
+
+> I'm excited to announce that I'll be presenting "Splitting the email atom: exploiting parsers to bypass access controls" at @defcon. Hope to see you there! #DEFCON32 https://t.co/v3UFES3hLs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQRtvYSWgAEex8r.jpg — alt text: "Websites often parse users' email addresses to identify their organisation. Unfortunately, parsing emails is far from straightforward thanks to a collection of ancient RFCs that everyone knows are crazy. You can probably see where this is going...
+
+In this session, I'll introduce techniques for crafting RFC-compliant email addresses that bypass virtually all defences leading to broken assumptions, parser discrepancies and emails being routed to wildly unexpected destinations. I'll show you how to exploit multiple applications and libraries to spoof email domains, access internal systems protected by 'Zero Trust', and bypass employee-only registration barriers.
+
+Then I'll introduce another class of attack - harmless-looking input transformed into malicious payloads by unwitting libraries, leading to yet more misrouted emails, and blind CSS injection on a well-known target.
+
+I'll leave you with a full methodology and toolkit to identify and exploit your own targets."
+
+
+---
+
+## 2024-06-11 · Post · We've released a new version of our XSS cheat sheet with some new exotic events from the community.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-06-11 14:58 UTC (2024-06-11 15:58 WAT)
+
+- URL: https://x.com/garethheyes/status/1800543227529068711
+- Metrics (at fetch): bookmark 126, impression 49163, like 243, quote 7, reply 12, retweet 45
+
+> We've released a new version of our XSS cheat sheet with some new exotic events from the community.
+>
+> https://t.co/qPysTq89y3 https://t.co/Tg0NC6WaUh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPzQDkkXwAAMKRA.png — no alt text provided by author
+
+
+---
+
+## 2024-05-29 · Post · I'm delighted to announce that I'll be presenting: "Splitting the email atom: exploiting parsers to 
+
+
+### Post — @garethheyes — 2024-05-29 12:00 UTC (2024-05-29 13:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1795787298220494942
+- Metrics (at fetch): bookmark 29, impression 19718, like 179, quote 4, reply 11, retweet 23
+
+> I'm delighted to announce that I'll be presenting: "Splitting the email atom: exploiting parsers to bypass access controls" at Blackhat USA #BHUSA @BlackHatEvents
+>
+> Check out the abstract for more details:
+> https://t.co/uwRMxHfzfm
+
+
+---
+
+## 2024-04-10 · Post · There appears to be some arbitrary limit of scripts when rendered in Chrome. It's the only plausible
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-04-10 18:06 UTC (2024-04-10 19:06 WAT)
+
+- URL: https://x.com/garethheyes/status/1778122414238449952
+- Metrics (at fetch): not returned
+
+> There appears to be some arbitrary limit of scripts when rendered in Chrome. It's the only plausible explanation for the other bug I'm looking into. Users seem to like &lt;script&gt; in the XSS vectors. If I give people the option to exec script after page load that could be better.
+
+
+---
+
+## 2024-04-10 · Post · Another Shazzer bug fix, the JS fuzzer was badly broken (probably I was tired) fixed thanks to @_0x9
+
+
+### Post — @garethheyes — 2024-04-10 18:02 UTC (2024-04-10 19:02 WAT)
+
+- URL: https://x.com/garethheyes/status/1778121327414526348
+- Metrics (at fetch): not returned
+
+> Another Shazzer bug fix, the JS fuzzer was badly broken (probably I was tired) fixed thanks to @_0x999 for reporting
+
+
+---
+
+## 2024-04-10 · Post · Fixed the following Shazzer bugs on my lunch
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2024-04-10 12:24 UTC (2024-04-10 13:24 WAT)
+
+- URL: https://x.com/garethheyes/status/1778036388014784612
+- Metrics (at fetch): not returned
+
+> Fixed the following Shazzer bugs on my lunch
+> - Data2 was using Data1 when creating vectors
+> - XSS loop wasn't enumerating correctly
+> - Combinations of data wasn't being enumerated correctly when setting the same data name
+
+
+---
+
+## 2024-01-19 · Post · Great tip from @lukejahnke.Make background requests using single variables and strings!
+
+
+### Post — @garethheyes — 2024-01-19 08:42 UTC (2024-01-19 09:42 WAT)
+
+- URL: https://x.com/garethheyes/status/1748264634841280649
+- Metrics (at fetch): not returned
+
+> Great tip from @lukejahnke.Make background requests using single variables and strings!
+> &lt;style&gt;
+> div:has(input[value^="a"]) {
+>   --a:"/a";
+> }
+> div:has(input[value^="b"]) {
+>   --a:"/b";
+> }
+> div{
+>    background-image: image-set(var(--a));
+> }
+> &lt;/style&gt;
+> &lt;div&gt;&lt;input type=hidden value=abc&gt;&lt;/div&gt;
+
+
+---
+
 ## 2020-12-15 · Post · Fixed dark mode
 
 
@@ -2397,6 +2635,151 @@ Tags (automatic): XSS
 
 ---
 
+## 2020-11-09 · Post · Can you hear that? That is the sound of hundreds of lame tab nabbing bug bounty reports being destro
+
+
+### Post — @garethheyes — 2020-11-09 09:18 UTC (2020-11-09 10:18 WAT)
+
+- URL: https://x.com/garethheyes/status/1325729533794848769
+- Metrics (at fetch): bookmark 0, impression 0, like 54, quote 1, reply 0, retweet 5
+
+> Can you hear that? That is the sound of hundreds of lame tab nabbing bug bounty reports being destroyed. Nice work! https://t.co/znnRDHWuMW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @63163 — 2020-11-09 06:58 UTC (2020-11-09 07:58 WAT)
+    
+    - URL: https://x.com/63163/status/1325694207546318851
+    - Metrics (at fetch): bookmark 53, impression 0, like 454, quote 26, reply 10, retweet 147
+    
+    > Thanks to @ericlaw, Chrome 88+ will match Safari and Firefox's behavior of treating `target=_blank` links as `noopener` by default (https://t.co/FArdcRjFme).
+    >
+    > (If you need to maintain that relationship for some reason, you can opt-into it with `rel=opener`.) https://t.co/ol0gBhJ0Uj
+    
+    **Quoted post** 1234055782896979968: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2020-10-27 · Post · So you could use XSS to extract data from IM/SMS messages :D https://t.co/dACi2kbg1v
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2020-10-27 10:56 UTC (2020-10-27 11:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1321043059413524481
+- Metrics (at fetch): bookmark 14, impression 0, like 115, quote 2, reply 3, retweet 23
+
+> So you could use XSS to extract data from IM/SMS messages :D https://t.co/dACi2kbg1v
+
+**Quoted post (full text):**
+
+    #### Quoted post — @18118070 — 2020-10-26 12:17 UTC (2020-10-26 13:17 WAT)
+    
+    - URL: https://x.com/18118070/status/1320700982943223808
+    - Metrics (at fetch): bookmark 773, impression 0, like 4539, quote 237, reply 38, retweet 1001
+    
+    > #HTML/#UX tip for today:
+    >
+    > Setting `autocomplete="one-time-code"` will allow your user to fill the input field with the auth code they've just received - without the need to manually copy it from a message. https://t.co/AzK6YorX45
+    
+    **Media:**
+    - media `7_1320700268284096512` (details not returned by the API)
+    
+
+
+---
+
+## 2020-08-13 · Post · x Fixed bug in custom tags when right clicking
+
+
+### Post — @garethheyes — 2020-08-13 14:36 UTC (2020-08-13 15:36 WAT)
+
+- URL: https://x.com/garethheyes/status/1293919271043698688
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 1, retweet 1
+
+> x Fixed bug in custom tags when right clicking
+> + Used monospace font
+> + Import/Export custom tags
+> + Caught JSON parse errors
+> + Allowed Hackvertor variables inside JavaScript/Python tags
+> + Made Hackvertor variables clearer
+>
+> Get it while it's 🔥 https://t.co/ib0lU3goG1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877509238934962176 — 2020-08-13 14:33 UTC (2020-08-13 15:33 WAT)
+    
+    - URL: https://x.com/877509238934962176/status/1293918682645594114
+    - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 2, retweet 1
+    
+    > Updated: Hackvertor
+    >
+    > https://t.co/d2YhY1VE3w
+    
+
+
+---
+
+## 2020-08-12 · Post · Working on Hackvertor! Fixed JTextareas to use a monospace font, fixed stupid bug where you had to r
+
+
+### Post — @garethheyes — 2020-08-12 18:49 UTC (2020-08-12 19:49 WAT)
+
+- URL: https://x.com/garethheyes/status/1293620517405065219
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Working on Hackvertor! Fixed JTextareas to use a monospace font, fixed stupid bug where you had to reload HV to see your custom tags in the repeater etc. Let's see what else I can get done :)
+
+
+---
+
+## 2020-07-23 · Post · x Fixed bug where JavaScript/Python tags disappeared
+
+
+### Post — @garethheyes — 2020-07-23 14:37 UTC (2020-07-23 15:37 WAT)
+
+- URL: https://x.com/garethheyes/status/1286309477294264325
+- Metrics (at fetch): bookmark 1, impression 0, like 15, quote 0, reply 1, retweet 2
+
+> x Fixed bug where JavaScript/Python tags disappeared
+> + Added the ability to edit tags
+> + Added Hackvertor menu in intruder https://t.co/6pugSOVKIR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877509238934962176 — 2020-07-23 14:28 UTC (2020-07-23 15:28 WAT)
+    
+    - URL: https://x.com/877509238934962176/status/1286307104463233030
+    - Metrics (at fetch): bookmark 1, impression 0, like 0, quote 1, reply 0, retweet 1
+    
+    > Updated: Hackvertor
+    >
+    > https://t.co/d2YhY2dfs6
+    
+
+
+---
+
+## 2020-07-02 · Post · This lab https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-develop
+
+
+### Post — @garethheyes — 2020-07-02 15:23 UTC (2020-07-02 16:23 WAT)
+
+- URL: https://x.com/garethheyes/status/1278710822659899392
+- Metrics (at fetch): not returned
+
+> This lab https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-developing-a-custom-gadget-chain-for-java-deserialization is an ideal example of where you can use Hackvertor variables to make it easier to exploit a target.
+
+**Links in post:** https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-developing-a-custom-gadget-chain-for-java-deserialization
+
+
+---
+
 ## 2016-12-08 · Post · RCE in JXBrowser JavaScript/Java bridge https://t.co/fdNGbqO6Eg
 
 
@@ -2409,3 +2792,37 @@ Tags (automatic): RCE, Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 0, retweet 23
 
 > RCE in JXBrowser JavaScript/Java bridge https://t.co/fdNGbqO6Eg
+
+
+---
+
+## 2016-09-09 · Post · @marijnjh acorn parser bug:-
+
+
+### Post — @garethheyes — 2016-09-09 12:10 UTC (2016-09-09 13:10 WAT)
+
+- URL: https://x.com/garethheyes/status/774218413438799872
+- Metrics (at fetch): not returned
+
+> @marijnjh acorn parser bug:-
+> 0123.
+> in/alert(1)/i
+>
+> Parsed as a regex when it should be a divide
+
+
+---
+
+## 2016-09-09 · Post · @mhswende acorn parser bug:-
+
+
+### Post — @garethheyes — 2016-09-09 12:05 UTC (2016-09-09 13:05 WAT)
+
+- URL: https://x.com/garethheyes/status/774217195643629568
+- Metrics (at fetch): not returned
+
+> @mhswende acorn parser bug:-
+> 0123.
+> in/alert(1)/i
+>
+> Parsed as a regex when it should be a divide

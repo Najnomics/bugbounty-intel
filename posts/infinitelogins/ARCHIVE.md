@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 102
-- Conversations/threads: 102
-- Oldest post captured: 2021-03-23
+- Posts in this file: 113
+- Conversations/threads: 113
+- Oldest post captured: 2021-01-12
 - Newest post captured: 2026-11-04
 
 
@@ -2785,6 +2785,96 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
+## 2022-03-25 · Post · My first week at HackerOne was awesome! I can't wait to start getting to meet those who are already 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infinitelogins — 2022-03-25 03:56 UTC (2022-03-25 04:56 WAT)
+
+- URL: https://x.com/infinitelogins/status/1507204660569862144
+- Metrics (at fetch): not returned
+
+> My first week at HackerOne was awesome! I can't wait to start getting to meet those who are already a part of their Pentest Community and help it grow.
+
+
+---
+
+## 2022-03-08 · Post · I am super excited to announce that I’ve accepted an offer with @Hacker0x01 as their new Technical C
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infinitelogins — 2022-03-08 15:28 UTC (2022-03-08 16:28 WAT)
+
+- URL: https://x.com/infinitelogins/status/1501218194844884992
+- Metrics (at fetch): not returned
+
+> I am super excited to announce that I’ve accepted an offer with @Hacker0x01 as their new Technical Community Manager of Pentest Assessments! I truly can’t wait to be a part of that team. #HackerOne #TogetherWeHitHarder #Community
+
+
+---
+
+## 2022-01-29 · Post · Found HTML Injection and looking to demonstrate impact? Try chaining with SSRF by injecting an ifram
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infinitelogins — 2022-01-29 20:25 UTC (2022-01-29 21:25 WAT)
+
+- URL: https://x.com/infinitelogins/status/1487522184557957133
+- Metrics (at fetch): not returned
+
+> Found HTML Injection and looking to demonstrate impact? Try chaining with SSRF by injecting an iframe.
+>
+> &lt;iframe src=file:///etc/passwd&gt;&lt;/iframe&gt;
+>
+> @faizannehal1 has a great write-up explaining more at https://faizannehal.medium.com/
+>
+> #bugbountytips #bugbounty #webapp #pentesting
+
+**Links in post:** https://faizannehal.medium.com/
+
+
+---
+
+## 2021-12-10 · Post · Log4Shell (CVE-2021-44228) hashes for vulnerable log4j versions
+
+
+### Post — @infinitelogins — 2021-12-10 21:30 UTC (2021-12-10 22:30 WAT)
+
+- URL: https://x.com/infinitelogins/status/1469419367515316227
+- Metrics (at fetch): not returned
+
+> #Log4Shell (CVE-2021-44228) hashes for vulnerable #log4j versions
+> https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes
+
+**Links in post:** https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes
+
+
+---
+
+## 2021-12-02 · Post · Cool bugbounty read on CVE-2021-39303 regarding a Jamf SSRF https://blog.assetnote.io/2021/11/30/j
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infinitelogins — 2021-12-02 21:34 UTC (2021-12-02 22:34 WAT)
+
+- URL: https://x.com/infinitelogins/status/1466521080667914244
+- Metrics (at fetch): not returned
+
+> Cool #bugbounty read on CVE-2021-39303 regarding a #Jamf SSRF https://blog.assetnote.io/2021/11/30/jamf-ssrf/
+
+**Links in post:** https://blog.assetnote.io/2021/11/30/jamf-ssrf/
+
+
+---
+
 ## 2021-04-22 · Post · Curious how many students have been failed in the past eight months due to using LinPEAS with the au
 
 
@@ -2833,3 +2923,109 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 1
 
 > Metasploit module now available for the Exchange exploit.. Have you checked to make sure your friends are patched yet? https://t.co/7RhJ3y8ncS
+
+
+---
+
+## 2021-02-17 · Post · I head the pleasure of speaking with @codingo_ the other day. Interview is now up on my channel! We 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @infinitelogins — 2021-02-17 16:56 UTC (2021-02-17 17:56 WAT)
+
+- URL: https://x.com/infinitelogins/status/1362083552917999616
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 0, retweet 0
+
+> I head the pleasure of speaking with @codingo_ the other day. Interview is now up on my channel! We discussed working at #BugCrowd, creating #Infosec content on #YouTube, and general career advice for getting in the field. https://t.co/o6sMvzC7DH
+
+
+---
+
+## 2021-02-09 · Post · New video out, this time stealing session cookies using Reflected XSS. https://t.co/awHaE8Da7t
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2021-02-09 19:08 UTC (2021-02-09 20:08 WAT)
+
+- URL: https://x.com/infinitelogins/status/1359217728091922432
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> New video out, this time stealing session cookies using Reflected #XSS. https://t.co/awHaE8Da7t
+
+
+---
+
+## 2021-01-30 · Post · Friendly reminder - CVE-2021-3156 https://t.co/ftnm8AXoDW
+
+
+### Post — @infinitelogins — 2021-01-30 19:35 UTC (2021-01-30 20:35 WAT)
+
+- URL: https://x.com/infinitelogins/status/1355600481326796800
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Friendly reminder - CVE-2021-3156 https://t.co/ftnm8AXoDW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1288824691 — 2021-01-30 19:25 UTC (2021-01-30 20:25 WAT)
+    
+    - URL: https://x.com/1288824691/status/1355597996247945220
+    - Metrics (at fetch): bookmark 0, impression 0, like 7, quote 1, reply 0, retweet 0
+    
+    > Have you updated your sudo today?
+    
+
+
+---
+
+## 2021-01-28 · Post · I always recommend @thecybermentor's content, but this video in particular about Blind XSS is incred
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2021-01-28 14:02 UTC (2021-01-28 15:02 WAT)
+
+- URL: https://x.com/infinitelogins/status/1354791953208991748
+- Metrics (at fetch): bookmark 9, impression 0, like 49, quote 0, reply 1, retweet 7
+
+> I always recommend @thecybermentor's content, but this video in particular about Blind XSS is incredible. This is an attack vector that I never knew about and is extremely underrated. Thank you for sharing this Heath! https://t.co/D21YJwlDyh
+
+
+---
+
+## 2021-01-26 · Post · New video out showing how easy it is to steal session cookies with XSS https://t.co/0S5bdwJ5Uf
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2021-01-26 15:59 UTC (2021-01-26 16:59 WAT)
+
+- URL: https://x.com/infinitelogins/status/1354096647257481217
+- Metrics (at fetch): bookmark 1, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> New video out showing how easy it is to steal session cookies with #XSS https://t.co/0S5bdwJ5Uf
+
+
+---
+
+## 2021-01-12 · Post · Anybody know how to inject a XSS payload when the WAF blocks requests containing letters immediatel
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2021-01-12 15:03 UTC (2021-01-12 16:03 WAT)
+
+- URL: https://x.com/infinitelogins/status/1349009156758532104
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Anybody know how to inject a #XSS payload when the WAF blocks requests containing letters immediately after the left angle bracket "&lt;"   ???
+>
+> Blocked:   &lt;script&gt; or &lt;x  ...
+> Allowed:   &lt; script&gt; or &lt;1script&gt; ...
