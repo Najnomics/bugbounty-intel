@@ -238,3 +238,73 @@ Posts cited in researcher files were drawn from those result sets (and from `get
 ## Intentionally not copied into the knowledge base
 
 Full HTTP requests, wildcard payloads, WAF-bypass SQL, XSS polyglots, Algolia curl command sequences, and npm `preinstall` proof-of-concept scripts that appeared in public writeups. Those remain in the source URLs above.
+
+
+## Nov 2026 expansion — verbatim capture pass
+
+- X reads: `get_posts_by_ids` (full note_tweet text), `get_users_posts` (timelines, time-windowed for old threads), `search_posts_all` (conversation threads, ~30-day index), `get_users_by_usernames`. All read-only; nothing posted, liked, followed or DM'd.
+- 326 post files (583 posts incl. thread replies) under `posts/`; 51 writeups under `writeups/`.
+- Medium article pages returned 403; full text was taken from the author's Medium RSS feed (`content:encoded`). HackerOne disclosed reports were read from `https://hackerone.com/reports/<id>.json`.
+
+### Writeups saved
+
+| File | Source line from header |
+| --- | --- |
+| `writeups/0xacb/tedivm-ai-rcession.md` | Source URL:** https://blog.tedivm.com/rants/2026/10/the-ai-rcession-has-begun/ |
+| `writeups/0xiczc/certik-evm-cosmos-convergence-part-2.md` | Source URL:** https://certik.com/resources/blog/evm-cosmos-convergence-research-from-security-base-part-2 |
+| `writeups/0xiczc/evmos-advisory-GHSA-3fp5-2xwh-fxm6.md` | Source URL:** https://github.com/evmos/evmos/security/advisories/GHSA-3fp5-2xwh-fxm6 |
+| `writeups/0xiczc/polygon-zkevm-node-pr-2048.md` | Source URL:** https://github.com/0xPolygonHermez/zkevm-node/pull/2048 |
+| `writeups/0xriptide/balancers-bountiful-merkle-orchard-mirror.md` | Source URL:** https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/NWDf5uW1Ve7-TrcPKwmM86xp8ploMSCRGC58A-NSoFY |
+| `writeups/0xriptide/hackers-in-arbitrums-inbox.md` | Source URL:** https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2 |
+| `writeups/Assass1nmarcos/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interacti.md` | Source URL:** https://assassin-marcos.medium.com/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183 |
+| `writeups/Assass1nmarcos/breaking-the-barrier-admin-panel-takeover-worth-3500.md` | Source URL:** https://assassin-marcos.medium.com/breaking-the-barrier-admin-panel-takeover-worth-3500-78da79089ca3 |
+| `writeups/Assass1nmarcos/bugbountydirectory-republish-admin-panel-takeover-3500.md` | Source URL:** https://www.bugbountydirectory.com/blogs/breaking-the-barrier-admin-panel-takeover-worth-3500 |
+| `writeups/Assass1nmarcos/dont-underestimates-the-errors-they-can-provide-good-bounty.md` | Source URL:** https://assassin-marcos.medium.com/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596 |
+| `writeups/Kiki_developer/8-common-smart-contract-vulnerabilities-found-throughout-audit-contest.md` | Source URL:** https://medium.com/@kiki.auditor/8-common-smart-contract-vulnerabilities-found-throughout-audit-contest-d8f19c494f7e |
+| `writeups/Kiki_developer/bounty-013.md` | Source URL:** https://raw.githubusercontent.com/devNamedKiki/Audits/main/Bounties/013.md |
+| `writeups/Kiki_developer/bounty-016.md` | Source URL:** https://raw.githubusercontent.com/devNamedKiki/Audits/main/Bounties/016.md |
+| `writeups/Kiki_developer/bounty-017.md` | Source URL:** https://raw.githubusercontent.com/devNamedKiki/Audits/main/Bounties/017.md |
+| `writeups/Kiki_developer/bounty-018.md` | Source URL:** https://raw.githubusercontent.com/devNamedKiki/Audits/main/Bounties/018.md |
+| `writeups/PwningEth/frontier-evm-wrapped-token-insolvency.md` | Source URL:** https://pwning.mirror.xyz/RFNTSouIIlHVNmTNDThUVb1obIeN5c1LAiQuN9Ve-ok |
+| `writeups/Suryesh_92/algolia-api-key-exploitation-leads-to-1000-bounty-p2-on-private-program.md` | Source URL:** https://hackwithsuryesh.medium.com/algolia-api-key-exploitation-leads-to-1000-bounty-p2-on-private-program-2e147f052ff0 |
+| `writeups/Suryesh_92/how-i-chained-rce-via-dependencies-to-lfi.md` | Source URL:** https://hackwithsuryesh.medium.com/how-i-chained-rce-via-dependencies-to-lfi-348315aa17e8 |
+| `writeups/Suryesh_92/rxss-csti-in-search-field-via-polygot-payload.md` | Source URL:** https://hackwithsuryesh.medium.com/rxss-csti-in-search-field-via-polygot-payload-65ca1a8be8ba |
+| `writeups/_bagipro/oversecured-samsung-vulnerabilities-readme.md` | Source URL:** https://raw.githubusercontent.com/oversecured/Samsung_Vulnerabilities/main/README.md |
+| `writeups/al_f4lc0n/injective-any-account-ordering-report.md` | Source URL:** https://raw.githubusercontent.com/injective-wall-of-shame/bug-any-account-ordering/main/report.md |
+| `writeups/bluethroat_labs/bluepaper-readme.md` | Source URL:** https://raw.githubusercontent.com/BluethroatLabs/BluePaper/main/README.md |
+| `writeups/bluethroat_labs/linkedin-trusted-execution-unsafe-transport.md` | Source URL:** https://www.linkedin.com/posts/bluethroat-labs_56-trusted-execution-over-an-unsafe-transport-activity-7447638926099685376-GKd6 |
+| `writeups/bluethroat_labs/phala-dstack-attestation-hardening.md` | Source URL:** https://phala.com/posts/dstack-security-update-attestation-pipeline-hardening |
+| `writeups/fransrosen/hackernotes-ep86-xcorrelation.md` | Source URL:** https://blog.criticalthinkingpodcast.io/p/hackernotes-ep86-xcorrelation-frans-rce-research-drop |
+| `writeups/galnagli/wiz-php2shell-php-rce.md` | Source URL:** https://www.wiz.io/blog/php2shell-php-rce |
+| `writeups/garethheyes/frag-readme.md` | Source URL:** https://raw.githubusercontent.com/hackvertor/frag/main/README.md |
+| `writeups/garethheyes/ikaes-strings-without-parentheses.md` | Source URL:** https://blog.ikaes.de/generating-strings-without-parentheses-in-javascript/ |
+| `writeups/garethheyes/portswigger-scalable-vector-grief.md` | Source URL:** https://portswigger.net/research/scalable-vector-grief |
+| `writeups/iguardz/linkedin-immunefi-iguardz-20000.md` | Source URL:** https://www.linkedin.com/posts/immunefi_security-researcher-iguardz-just-earned-20000-activity-7517969578736631808-yrpm |
+| `writeups/infinitelogins/vulnerability-spoiler-alert-action.md` | Source URL:** https://raw.githubusercontent.com/spaceraccoon/vulnerability-spoiler-alert-action/main/README.md |
+| `writeups/infosec_au/frontier-class-vulnerabilities.md` | Source URL:** https://shubs.io/frontier-class-vulnerabilities-it-gets-worse-before-it-maybe-gets-better/ |
+| `writeups/infosec_au/react2shell-scanner-readme.md` | Source URL:** https://raw.githubusercontent.com/assetnote/react2shell-scanner/master/README.md |
+| `writeups/infosec_au/unlocking-any-car.md` | Source URL:** https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ |
+| `writeups/j00ru/gpz-mms-exploit-part-3.md` | Source URL:** https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-3-constructing-primitives.html |
+| `writeups/j00ru/gpz-mms-exploit-part-4.md` | Source URL:** https://googleprojectzero.blogspot.com/2020/08/mms-exploit-part-4-completing-aslr-oracle.html |
+| `writeups/j00ru/gpz-mms-exploit-part-5.md` | Source URL:** https://googleprojectzero.blogspot.com/2020/08/mms-exploit-part-5-defeating-aslr-getting-rce.html |
+| `writeups/j00ru/gpz-windows-exploitation-tricks-trapping.md` | Source URL:** https://googleprojectzero.blogspot.com/2021/01/windows-exploitation-tricks-trapping.html |
+| `writeups/kevin_mizu/dompurify-bypass-smil-animatetransform-safari.md` | Source URL:** https://mizu.re/post/dompurify-bypass-smil-animatetransform-safari |
+| `writeups/kevin_mizu/hackerone-report-3876430.md` | Source URL:** https://hackerone.com/reports/3876430 |
+| `writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md` | Source URL:** https://raw.githubusercontent.com/mdpsec/bug-bounty-hunting-prompts/main/README.md |
+| `writeups/mdp_sec/mdpsec-home.md` | Source URL:** https://mdpsec.com/ |
+| `writeups/orange_8361/2026-10-browser-full-chain.md` | Source URL:** https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/ |
+| `writeups/samczsun/higher-bug-bounties-wont-stop-hacks.md` | Source URL:** https://samczsun.com/higher-bug-bounties-wont-stop-hacks/ |
+| `writeups/samczsun/so-you-want-to-use-a-price-oracle.md` | Source URL:** https://samczsun.com/so-you-want-to-use-a-price-oracle/ |
+| `writeups/samczsun/taking-undercollateralized-loans-for-fun-and-for-profit.md` | Source URL:** https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/ |
+| `writeups/samczsun/two-rights-might-make-a-wrong.md` | Source URL:** https://samczsun.com/two-rights-might-make-a-wrong/ |
+| `writeups/samwcyo/forgerock-rce-vehicles.md` | Source URL:** https://samcurry.net/forgerock |
+| `writeups/samwcyo/hacking-clubwpt-gold.md` | Source URL:** https://samcurry.net/hacking-clubwpt-gold |
+| `writeups/xssdoctor/faav-17-trillion-microsoft-records.md` | Source URL:** https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records |
+| `writeups/zseano/hackerone-report-3862641.md` | Source URL:** https://hackerone.com/reports/3862641 |
+
+### Could not fetch
+
+- Phrack 72 "The Art of PHP" (Orange Tsai) — page is JS-rendered; no text extracted.
+- hacktron.ai Antigravity blog post — 404.
+- Some old X threads are partial because the search index only covers ~30 days: `_bagipro` Android content-provider thread (3 of 4 parts), ChainLight weekly summaries (partial), zkSecurity challenge thread (as available). Timelines with time windows recovered the full Frans Rosén 10-part thread and the first `_bagipro` Uri thread.
+- Dropped candidates (no technical posts returned): renniepak, bytes032, 0xleastwood, 0xalpharush, steventseeley, lavados, 0xPARC (event/announcement posts only).

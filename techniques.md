@@ -136,3 +136,38 @@ Source: [Phala, 10 Feb 2026](https://phala.com/posts/dstack-security-update-atte
 - A triaged report is not a paid bug (Piki, Swartz, Suyash posts).
 - If two of your reports share a payload, expect a duplicate (Suryesh XSS).
 - Some programs under-pay or stall; record the process, but do not treat a public dispute as proof of a bug (Assass1nmarcos vs a BOLA triage; f4lc0n vs Injective).
+
+---
+
+## Added Nov 2026 — techniques from the expanded researcher set
+
+Every item links to the verbatim post file in this repo (full text, no X access needed).
+
+### Web / API
+- **Write-then-read-back SQLi in "save and resume later" flows.** A public quote endpoint concatenated a JSON field into SQL; staging a record and reading it back returned DB-evaluated columns, incl. resume tokens. Treat any field that is written and later echoed as an oracle. — Marius du Preez, [`posts/mdp_sec/2026-11-10-2120066429223317560.md`](posts/mdp_sec/2026-11-10-2120066429223317560.md)
+- **Gate vs router path disagreement.** Auth matched the exact path; router normalised afterwards, so `/admin/./` bypassed login. Retry 403/login-redirect paths with `/./`, `//`, trailing dots, `%2e`. — [`posts/mdp_sec/2026-11-11-2120338219841544604.md`](posts/mdp_sec/2026-11-11-2120338219841544604.md)
+- **Check token signatures are actually verified** ($8,000 H1 auth bypass). — [`posts/mdp_sec/2026-11-05-2118435683329310786.md`](posts/mdp_sec/2026-11-05-2118435683329310786.md)
+- **Dependency confusion**: unclaimed internal package names ($1,200 Bugcrowd). — [`posts/mdp_sec/2026-11-06-2118803107119325691.md`](posts/mdp_sec/2026-11-06-2118803107119325691.md)
+- **Two-account access-control loop incl. revoke step.** — [`posts/mdp_sec/2026-11-06-2118526280379343189.md`](posts/mdp_sec/2026-11-06-2118526280379343189.md)
+- **Differential query-param extraction + regex char-class bug** (`[?|&]` treats `|` literally) → validation sees one value, `location.href` gets another → XSS. — Frans Rosén, [`posts/fransrosen/2024-08-27-1828503460183941420.md`](posts/fransrosen/2024-08-27-1828503460183941420.md)
+- **Enumerate every OAuth client_id**; a mobile client allowed any protocol in redirect_uri → malicious app steals login. — xssdoctor, [`posts/xssdoctor/2026-10-01-2105723370125881675.md`](posts/xssdoctor/2026-10-01-2105723370125881675.md)
+- **Trusted internal headers accepted from outside** ($300k); brute-force hidden headers (Param Miner). — James Kettle, [`posts/albinowax/`](posts/albinowax/)
+- **Response-header XSS in Firefox**: XSLT from a `data:` URL in a `Link` header; **CSS-only token exfiltration** (Frag). — Gareth Heyes, [`posts/garethheyes/`](posts/garethheyes/), [`writeups/garethheyes/`](writeups/garethheyes/)
+- **Sanitizer bypass via browser-specific parsing** (DOMPurify ≤3.2.6 Safari SMIL), **DB logic privilege escalation** (MariaDB GRANT PROXY), **Cloudflare /cdn-cgi/image XSS**. — Kévin Mizu, [`posts/kevin_mizu/`](posts/kevin_mizu/), [`writeups/kevin_mizu/`](writeups/kevin_mizu/)
+- **Connected-car and gaming back-office APIs.** — Sam Curry & Shubs, [`writeups/samwcyo/`](writeups/samwcyo/), [`writeups/infosec_au/`](writeups/infosec_au/)
+
+### Mobile
+- **Android Uri host-validation bypass** and **content-provider access via system apps**; 140 Samsung preinstalled-app bugs. — Sergey Toshin, [`posts/_bagipro/`](posts/_bagipro/), [`writeups/_bagipro/`](writeups/_bagipro/)
+
+### Native / thick client
+- **Zero-click MMS image-codec exploitation and ASLR oracle** (Samsung Qmage series). — j00ru, [`writeups/j00ru/`](writeups/j00ru/)
+
+### Web3 / blockchain / ZK
+- **Enumerate all branch combinations in special-case node logic.** Polygon zkEVM: non-free reverted claim txs were pooled and marked deposit counts used → DoS + blocked L1→L2 claims. — iczc, [`posts/0xiczc/2023-05-26-1662090451493740545.md`](posts/0xiczc/2023-05-26-1662090451493740545.md)
+- **Precompile-induced state inconsistency on Cosmos EVM chains; Evmos arbitrary mint.** — iczc, [`writeups/0xiczc/`](writeups/0xiczc/)
+- **Holes that line up**: unchecked callback return + stale approval + EIP-7702. — kankodu, [`posts/kankodu/2026-09-11-2098377603396915590.md`](posts/kankodu/2026-09-11-2098377603396915590.md)
+- **Median oracles**: model the real price spread; 6/11 is the naïve bound. — cmichel, [`posts/cmichelio/2024-06-11-1800463263433678945.md`](posts/cmichelio/2024-06-11-1800463263433678945.md)
+- **Governance vote accounting** (Solana validator erasing delegators' votes). — Asymmetric Research, [`posts/asymmetric_re/2026-10-19-2112236410455597403.md`](posts/asymmetric_re/2026-10-19-2112236410455597403.md)
+- **EVM-compatible chains break Ethereum assumptions** (Frontier wrapped-native insolvency). — pwning.eth, [`writeups/PwningEth/`](writeups/PwningEth/)
+- **Old code still hides bugs** (Guhu95's 5-year-old $60k bug; Shanon on >1-year-old codebases). — [`posts/Guhu95/`](posts/Guhu95/), [`posts/Shanon40439853/`](posts/Shanon40439853/)
+- **Price-oracle manipulation and undercollateralised-loan patterns.** — samczsun, [`writeups/samczsun/`](writeups/samczsun/)
