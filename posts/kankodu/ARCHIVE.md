@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 82
-- Conversations/threads: 68
+- Posts in this file: 142
+- Conversations/threads: 79
 - Oldest post captured: 2022-07-26
 - Newest post captured: 2026-11-08
 
@@ -954,7 +954,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-03-26 · Post · How to drain an entire lending protocol when a new asset is accepted as collateral 🧵
+## 2025-03-26 · Thread · How to drain an entire lending protocol when a new asset is accepted as collateral 🧵
+
+
+Tags (automatic): Platform: Immunefi
 
 
 ### Post — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
@@ -968,6 +971,133 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gm9I-FZa4AA48BW.png — no alt text provided by author
+
+
+### Thread part 2 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821413745487874
+- Metrics (at fetch): bookmark 12, impression 5488, like 22, quote 1, reply 1, retweet 0
+
+> I reported this issue in @vesuxyz through @immunefi bug bounty program and was classified as High.
+>
+> Take a look at here to see how the team fixed it: https://t.co/KblcXvRs85
+>
+> This fix has been audited. You can take a look at the audit report here: https://t.co/VjY2tIWmL6
+
+
+### Thread part 3 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821425808331025
+- Metrics (at fetch): bookmark 0, impression 1438, like 3, quote 0, reply 1, retweet 0
+
+> @vesuxyz is a lending protocol developed in Cairo. It can deploy multiple pools, each being its own lending market with various collateral-debt asset pairs. The max ltv for a pair determines if collateral can be used to borrow debt assets.
+
+
+### Thread part 4 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821437837566158
+- Metrics (at fetch): bookmark 0, impression 1512, like 3, quote 1, reply 1, retweet 0
+
+> This enables various lending market configurations. The Genesis pool, currently the only pool with significant TVL, is set up like a traditional lending market with rehypothecation.
+>
+> By completing three steps, we can deplete this pool when a new asset is added. How?
+
+
+### Thread part 5 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821454811914344
+- Metrics (at fetch): bookmark 1, impression 1411, like 3, quote 0, reply 2, retweet 0
+
+> Step 1. Mint a tiny amount of shares and donate to reserves making the shares valuable enough to borrow all the protocol's assets.
+>
+> - The problem is when the total shares is zero, the protocol mints 1000 shares to a dead address. https://t.co/YcQtrdpzBZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm9JBLTacAAlizr.jpg — alt text: "https://github.com/vesuxyz/vesu-v1/blob/85e5552f4a8d4ed036240723375fe38f92625a2c/src/singleton.cairo#L609-L622"
+
+
+### Thread part 6 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821467294162994
+- Metrics (at fetch): bookmark 0, impression 1216, like 3, quote 0, reply 1, retweet 0
+
+> This check makes the vault share inflation attack very expensive and not worth it. What if there were a way to circumvent this check?
+>
+> If we really look for it, we can find it.
+
+
+### Thread part 7 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821484671164478
+- Metrics (at fetch): bookmark 0, impression 1182, like 3, quote 0, reply 1, retweet 0
+
+> When lenders earn interest, the protocol takes a cut as protocol fees. The protocol mints collateral shares equivalent to the fee amount, increasing total shares directly without minting shares to a dead address. https://t.co/MvUar2V5X5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm9JC6VbYAU65Ac.jpg — alt text: "https://github.com/vesuxyz/vesu-v1/blob/85e5552f4a8d4ed036240723375fe38f92625a2c/src/singleton.cairo#L578-L593"
+
+
+### Thread part 8 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821496968863762
+- Metrics (at fetch): bookmark 0, impression 1040, like 4, quote 0, reply 2, retweet 0
+
+> An attacker can donate to the reserves when the total shares is zero and borrow from the donated tokens long enough for &lt;500 wei of fee shares to be minted to the protocol.
+
+
+### Thread part 9 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821508956152097
+- Metrics (at fetch): bookmark 0, impression 997, like 3, quote 0, reply 1, retweet 0
+
+> Now that the total shares is non-zero, the attacker can then mint &lt;500 wei of shares and donate a large amount to the reserves, This makes this tiny shares worth a lot.
+>
+> Step 2. Legally borrow all the protocol's assets against your tiny but highly valuable collateral shares.
+
+
+### Thread part 10 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821520792506615
+- Metrics (at fetch): bookmark 1, impression 953, like 3, quote 0, reply 1, retweet 0
+
+> Step 3. Retrieve the donated amount without repaying the borrowed assets in Step 2.
+>
+> This is crucial. Otherwise, it’s not really an attack. Attacker needs to be creative and find a loophole in the protocol to accomplish this.
+
+
+### Thread part 11 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821537305469250
+- Metrics (at fetch): bookmark 0, impression 980, like 6, quote 0, reply 1, retweet 0
+
+> The attacker can exploit the protocol's mechanism that resets the total supply to zero when it is less than or equal to 1000 wei during withdrawal. This mechanism, intended to reset the share/assets ratio but it can be weaponized to retrieve the donated amount. https://t.co/LBIHrU6Oxj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm9JF_PbYAIdlC2.jpg — alt text: "https://github.com/vesuxyz/vesu-v1/blob/85e5552f4a8d4ed036240723375fe38f92625a2c/src/common.cairo#L402-L406"
+
+
+### Thread part 12 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821549498327233
+- Metrics (at fetch): bookmark 0, impression 891, like 4, quote 0, reply 1, retweet 0
+
+> The attacker starts using a seperate account now. Using this new account they can deposit and withdraw 1 wei to trigger this logic. Since the total shares is &lt; 1000 wei (&lt;500 wei to the protocol as fee shares + &lt;500 wei minted by the attacker), the total supply will reset to zero
+
+
+### Thread part 13 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821561372356623
+- Metrics (at fetch): bookmark 0, impression 1602, like 7, quote 0, reply 1, retweet 0
+
+> The attacker then simply mints a small amount of shares. This time, the attacker doesn't care that 1000 wei are being sent to zero. They will mint enough shares such that 1000 wei becomes insignificant compared to the shares minted at a 1:1 ratio.
+
+
+### Thread part 14 — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821573284225458
+- Metrics (at fetch): bookmark 0, impression 1506, like 9, quote 0, reply 1, retweet 0
+
+> This small amount of shares will be worth a large amount of tokens since there are no other the attacker is the only holder of all existing shares. This way, attacker can recover all of their donated amounts to complete the attack without repaying all of funds taken in Step 2 !!!
 
 
 ---
@@ -1092,7 +1222,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 ---
 
-## 2024-05-30 · Post · I found an interesting bug in a lending market where an invariant check, made for the safety of the 
+## 2024-05-30 · Thread · I found an interesting bug in a lending market where an invariant check, made for the safety of the 
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
@@ -1105,9 +1238,65 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 > A small thread ⬇️🧵
 
 
+### Thread part 2 — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
+
+- URL: https://x.com/kankodu/status/1796122811360055305
+- Metrics (at fetch): bookmark 2, impression 1723, like 4, quote 0, reply 1, retweet 0
+
+> The bug was in @InterlayHQ , which has a lending market similar to Compound. We know that making the exchange rate very high by donating tokens results in the next user receiving zero tokens due to rounding error. https://t.co/5a3kbtlIRt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GO0bIstWMAMj8VS.png — alt text: "Interlay lending market"
+
+
+### Thread part 3 — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
+
+- URL: https://x.com/kankodu/status/1796122818867822666
+- Metrics (at fetch): bookmark 2, impression 1742, like 2, quote 0, reply 1, retweet 0
+
+> Interlay introduced a check to ensure that the exchange rate should start at 0.02 and shouldn't exceed 1. An exchange rate of 1 is very high if everything operates as usual. https://t.co/Qe6ng95ujo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GO0bz97XEAAGIaW.jpg — no alt text provided by author
+
+
+### Thread part 4 — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
+
+- URL: https://x.com/kankodu/status/1796122821510234565
+- Metrics (at fetch): bookmark 1, impression 1730, like 3, quote 0, reply 1, retweet 0
+
+> For example, given current lending rates, it would take at least ~3 centuries for a USDT exchange rate to start from 0.02 and reach 1 due to normal interest accrual. This means this check does solve a problem, but an attacker can exploit it to create another issue.
+
+
+### Thread part 5 — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
+
+- URL: https://x.com/kankodu/status/1796122823737376990
+- Metrics (at fetch): bookmark 2, impression 2160, like 6, quote 0, reply 1, retweet 0
+
+> When the market is empty, an attacker can supply 1 wei of underlying tokens (in exchange for 50 loan tokens because the initial exchange rate is 0.02) and transfer 48 wei of underlying tokens directly to the loan token address.
+
+
+### Thread part 6 — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
+
+- URL: https://x.com/kankodu/status/1796122826002337884
+- Metrics (at fetch): bookmark 1, impression 1846, like 1, quote 0, reply 1, retweet 0
+
+> This results in the exchange rate being very close to 1 but not equal to 1 (49/50 = 0.98). Everything works correctly until, after ~six months, the exchange rate exceeds 1.
+
+
+### Thread part 7 — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
+
+- URL: https://x.com/kankodu/status/1796122828212765153
+- Metrics (at fetch): bookmark 2, impression 1796, like 8, quote 0, reply 1, retweet 0
+
+> At that point, everything gets frozen as the exchange rate is calculated before every operation (lend, borrow, repay, liquidate), and the invariant check fails.
+>
+> The takeaway is to ensure that the solution to a bug doesn't inadvertently introduce new bugs.
+
+
 ---
 
-## 2024-03-22 · Post · Here's a 🧵 about a bug pattern I've used to get paid across 5 bug reports totaling $150k. This very 
+## 2024-03-22 · Thread · Here's a 🧵 about a bug pattern I've used to get paid across 5 bug reports totaling $150k. This very 
 
 
 ### Post — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
@@ -1119,6 +1308,78 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GJSriZAacAEMNEu.png — no alt text provided by author
+
+
+### Thread part 2 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229229210038637
+- Metrics (at fetch): bookmark 1, impression 2696, like 7, quote 0, reply 1, retweet 0
+
+> It's because when some interest has accrued, totalAssets would be greater than totalSupply, and when the protocol calculates how many assets to return to the user, it will undercalculate by 1 wei due to a rounding error.
+
+
+### Thread part 3 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229232649367965
+- Metrics (at fetch): bookmark 5, impression 3202, like 7, quote 0, reply 1, retweet 0
+
+> assetsToBeWithdrawn = (shares * totalAssets) / totalSupply = (totalSupply -1 ) * totalAssets / totalSupply.
+
+
+### Thread part 4 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229235891564726
+- Metrics (at fetch): bookmark 2, impression 1974, like 4, quote 0, reply 1, retweet 0
+
+> As totalAssets is greater than totalSupply, the numerator would be just a few weis less than the (totalAsset - 1) multiple of totalSupply, and that means due to rounding down, the answer would be (totalAssets - 2), leaving 2 wei of totalAssets and 1 wei of totalSupply.
+
+
+### Thread part 5 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229239402197187
+- Metrics (at fetch): bookmark 9, impression 3781, like 8, quote 0, reply 1, retweet 0
+
+> This is how the initial condition can be achieved to carry out the inflation of share price. Such inflation opens up various attack vectors, particularly in lending protocols. See how it was done in wise lending here: https://twitter.com/danielvf/status/1746303616778981402
+
+**Links in post:** https://twitter.com/danielvf/status/1746303616778981402
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2024-01-13 22:50 UTC (2024-01-13 23:50 WAT)
+    
+    - URL: https://x.com/5678/status/1746303616778981402
+    - Metrics (at fetch): bookmark 583, impression 109809, like 607, quote 24, reply 22, retweet 103
+    
+    > Yesterday's complete hack of Wise Lending was far more complex than reported. Very worth examining.
+    >
+    > The protocol had added explicit defenses against this style of attack, which the attack then either bypassed or used against the protocol.    🧵 1/21 [pic.x.com/n8mtQGVcvP]
+    
+    **Media:**
+    - media `3_1746303300801003521` (details not returned by the API)
+    
+
+
+### Thread part 6 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229243189653884
+- Metrics (at fetch): bookmark 19, impression 3316, like 20, quote 0, reply 0, retweet 0
+
+> There are some protocols that use shares calculation for calculating interest owed from the user. By exploiting the rounding being done in protocol's favor in similar manner, see how the hacker was able to get away with $6M dollars from MIM protocol. https://twitter.com/kankodu/status/1752581744803680680
+
+**Links in post:** https://twitter.com/kankodu/status/1752581744803680680
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+    
+    - URL: https://x.com/kankodu/status/1752581744803680680
+    - Metrics (at fetch): bookmark 412, impression 77833, like 462, quote 12, reply 13, retweet 92
+    
+    > A 🧵 on how yesterday's @MIM_Spell attack worked. The protocol did everything right. They rounded in the protocol's favour whenever they should but one additional function, meant to only reduce the user's funds, ended up enabling the attack. How? [pic.x.com/61bHWJlhZT]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GFJrzsnbkAAaBMy.png — no alt text provided by author
+    
 
 
 ---
@@ -1153,7 +1414,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 ---
 
-## 2024-01-31 · Post · A 🧵 on how yesterday's @MIM_Spell attack worked. The protocol did everything right. They rounded in 
+## 2024-01-31 · Thread · A 🧵 on how yesterday's @MIM_Spell attack worked. The protocol did everything right. They rounded in 
 
 
 ### Post — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
@@ -1161,10 +1422,168 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 - URL: https://x.com/kankodu/status/1752581744803680680
 - Metrics (at fetch): bookmark 412, impression 77833, like 462, quote 12, reply 13, retweet 92
 
-> A 🧵 on how yesterday's @MIM_Spell attack worked. The protocol did everything right. They rounded in the protocol's favour whenever they should but one additional function, meant to only reduce the user's funds, ended up enabling the attack. How? https://t.co/61bHWJlhZT
+> A 🧵 on how yesterday's @MIM_Spell attack worked. The protocol did everything right. They rounded in the protocol's favour whenever they should but one additional function, meant to only reduce the user's funds, ended up enabling the attack. How? [pic.x.com/61bHWJlhZT]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GFJrzsnbkAAaBMy.png — no alt text provided by author
+
+
+### Thread part 2 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581748758815030
+- Metrics (at fetch): bookmark 1, impression 6917, like 9, quote 0, reply 1, retweet 0
+
+> The protocol used shares mechanism to calculate the current debt of a user. Note: In the codebase, borrow shares are referred to as base/part and borrow assets amounts are referred to as elastic/amount.
+
+
+### Thread part 3 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581752206557683
+- Metrics (at fetch): bookmark 1, impression 6402, like 8, quote 0, reply 1, retweet 0
+
+> When a user borrows certain funds, they get minted borrow shares based on the current totalBorrowAssets and totalBorrowShares ratio.  As interest is owed from the user, totalBorrowAssets increases without totalBorrowShares increasing and in turn it increases...
+
+
+### Thread part 4 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581755415281835
+- Metrics (at fetch): bookmark 1, impression 6011, like 9, quote 0, reply 1, retweet 0
+
+> ...the proportional amount that the user has to repay as well.  The culprit function was the repayForAll function. This allowed anyone to repay everyone's debt.  To accomplish this, the protocol reduced totalBorrowAssets without totalBorrowShares in repayForAll function.
+
+
+### Thread part 5 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581764021948430
+- Metrics (at fetch): bookmark 1, impression 5761, like 9, quote 0, reply 1, retweet 1
+
+> The attacker borrowed funds using a fllashloan and use the repayForAll function first. [pic.x.com/425c7Q8IX4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFJr0z3awAAAruT.jpg — no alt text provided by author
+
+
+### Thread part 6 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581768383955446
+- Metrics (at fetch): bookmark 1, impression 5862, like 9, quote 0, reply 1, retweet 0
+
+> The attacker couldn't repay all of the amount as there was a check that totalBorrowAssets needed to be greater than 1000 ether.  Regardless, the attacker repaid as much as they could, which reduced totalBorrowAssets such that totalBorrowAssets:totalBorrowShares was ~ 1:26.
+
+
+### Thread part 7 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581778140012657
+- Metrics (at fetch): bookmark 1, impression 4769, like 6, quote 0, reply 2, retweet 0
+
+> Now, the attacker repaid all the existing loans for all the borrowers.
+>
+> For the last remaining borrower, the user repaid all but 100 wei of shares.
+>
+> At that point, totalBorrowedAssets were 100, and totalBorrowShares were 3. [pic.x.com/iqofiUwkVd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFJr1kaasAEn6PL.jpg — no alt text provided by author
+
+
+### Thread part 8 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581782393045255
+- Metrics (at fetch): bookmark 2, impression 4442, like 8, quote 0, reply 3, retweet 0
+
+> The attacker repaid 1 wei of share 3 times, which meant totalAssets reduced to 0, and totalBorrowShares were 97. Now the attacker started borrowing 1 wei from their account.  At this point, TotalBorrowAssets is 1, and totalBorrowShares is 98.
+
+
+### Thread part 9 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581791402373577
+- Metrics (at fetch): bookmark 0, impression 4327, like 9, quote 0, reply 1, retweet 0
+
+> Attacker put up a very low amount of collateral (100 wei) and in a loop, started borrowing 1 wei of assets and repaying 1 wei of borrow shares. [pic.x.com/JG25bDpHlT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFJr2WAbMAA6JkN.jpg — no alt text provided by author
+
+
+### Thread part 10 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581795948957948
+- Metrics (at fetch): bookmark 0, impression 3988, like 9, quote 0, reply 1, retweet 0
+
+> Since totalBorrowShares are greater than totalBorrowAssets, borrowing 1 wei of assets minted a lot of borrow shares.
+
+
+### Thread part 11 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581799090512125
+- Metrics (at fetch): bookmark 0, impression 3946, like 8, quote 0, reply 1, retweet 0
+
+> However, since the protocol rounds up in its favour, when the attacker repaid 1 wei of borrow share, even though it is worth near 0, the protocol makes the attacker repay 1 wei of assets.
+
+
+### Thread part 12 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581802324263305
+- Metrics (at fetch): bookmark 0, impression 3871, like 9, quote 0, reply 1, retweet 0
+
+> So at the end of this loop, totalBorrowAssets stays at 1, but totalBorrowShares increase exponentially.
+>
+> The attacker made totalBorrowShares go up to infinity while keeping totalBorrowAssets at 1.
+
+
+### Thread part 13 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581805646229675
+- Metrics (at fetch): bookmark 1, impression 3774, like 9, quote 0, reply 1, retweet 0
+
+> Now, they repaid 1 wei of share to make the totalBorrowAssets go to zero, and totalBorrowShares are still at infinity. Now, the attacker borrowed all of the funds in the protocol for collateral worth almost nothing using another account, and the protocol let it.
+
+
+### Thread part 14 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581812608770182
+- Metrics (at fetch): bookmark 1, impression 3910, like 12, quote 0, reply 1, retweet 0
+
+> Why?
+>
+> The attacker borrowed all of their funds, but the borrow shares that they got minted were at the ratio of 1:1. [pic.x.com/ajphmFzU7Q]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFJr3slaoAAY7s9.jpg — no alt text provided by author
+
+
+### Thread part 15 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581816169754735
+- Metrics (at fetch): bookmark 0, impression 3709, like 5, quote 0, reply 1, retweet 0
+
+> Because in the borrow function when assets get converted in borrow shares, if totalBorrowAssets are zero, borrow shares minted are equal to the asset amount.  So, the attacker borrowed a finite amount (all of the available borrowable amount), and they got finite borrow shares.
+
+
+### Thread part 16 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581819445469535
+- Metrics (at fetch): bookmark 0, impression 3758, like 9, quote 0, reply 1, retweet 0
+
+> Remember, at this point, totalBorrowShares are still infinite.  So when the protocol checks the health of this attacker account, they convert borrow shares into borrow amount to see how much they have borrowed.
+
+
+### Thread part 17 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581822662553793
+- Metrics (at fetch): bookmark 0, impression 4365, like 10, quote 0, reply 1, retweet 0
+
+> This comes out to almost nothing as the shares that this attacker account has are nothing compared to shares that the other attacker account has.  The protocol thinks that the other account, which has infinite borrow shares, has borrowed almost all the funds and not this account.
+
+
+### Thread part 18 — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581825837625617
+- Metrics (at fetch): bookmark 19, impression 7057, like 51, quote 2, reply 1, retweet 1
+
+> And the health check passes.
+>
+> Fix: For lending protocols that use shares calculation to calculate owed interest, make sure there is no way to reduce totalBorrowShares less than totalBorrowAssets.
 
 
 ---
@@ -1193,7 +1612,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
     
     > Yesterday's complete hack of Wise Lending was far more complex than reported. Very worth examining.
     >
-    > The protocol had added explicit defenses against this style of attack, which the attack then either bypassed or used against the protocol.    🧵 1/21 https://t.co/n8mtQGVcvP
+    > The protocol had added explicit defenses against this style of attack, which the attack then either bypassed or used against the protocol.    🧵 1/21 [pic.x.com/n8mtQGVcvP]
     
     **Media:**
     - media `3_1746303300801003521` (details not returned by the API)
@@ -1222,7 +1641,10 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-09-05 · Post · How I Unknowingly Caused the $200M Euler Hack 🧵👇
+## 2023-09-05 · Thread · How I Unknowingly Caused the $200M Euler Hack 🧵👇
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
@@ -1236,6 +1658,234 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F5QI3wRb0AAltZL.png — no alt text provided by author
+
+
+### Thread part 2 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992720637997305
+- Metrics (at fetch): bookmark 0, impression 6361, like 10, quote 1, reply 1, retweet 0
+
+> In July '22, I reported the 'first deposit bug' in Euler, a permissionless lending protocol. Lenders deposit `x` underlying tokens and get `x / exchange rate` ETokens. The exchange rate is calculated as the current underlying balance divided by the total EToken supply.
+
+
+### Thread part 3 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992723209171356
+- Metrics (at fetch): bookmark 0, impression 6169, like 12, quote 0, reply 1, retweet 0
+
+> An attacker can exploit this system by minting 1 wei of ETokens, then sending `x` tokens to artificially inflate the exchange rate. This causes the first lender to get (x/x+1 =) 0 ETokens due to rounding, allowing the attacker to withdraw all tokens.
+
+
+### Thread part 4 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992725797028064
+- Metrics (at fetch): bookmark 1, impression 5906, like 14, quote 0, reply 1, retweet 1
+
+> Euler paid me $50k for submitting this bug. Here's the fix that they went with:
+> In Euler, reserves (fees that governance collects) are denominated in ETokens. The protocol was modified so that all new ETokens are initialised with a total supply and reserve of 1 million wei.
+
+
+### Thread part 5 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992732998619464
+- Metrics (at fetch): bookmark 0, impression 5686, like 14, quote 2, reply 1, retweet 1
+
+> This results in first lender contributing a minor amount of tokens to reserves. This fix is effective as long as there is a check to make sure governance can't withdraw the last 1 million wei. The solution mirrors Uniswap V2's approach, making the attack economically infeasible. https://t.co/fBTV9NgkmC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5QI4lCbAAAPYra.jpg — no alt text provided by author
+
+
+### Thread part 6 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992736152715320
+- Metrics (at fetch): bookmark 1, impression 5222, like 8, quote 0, reply 1, retweet 0
+
+> The fix is effective for future ETokens. For existing ones, two scenarios exist.
+> Case I: For tokens with reserves greater than 1 million wei already, no extra steps are needed. Governance can't access the last 1 million wei, ensuring the total supply remains above zero.
+
+
+### Thread part 7 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992738770035170
+- Metrics (at fetch): bookmark 1, impression 8719, like 11, quote 1, reply 1, retweet 0
+
+> The $200M hack exploited a function meant to address the second case: existing ETokens with reserves under 1 million wei. A `donateToReserves` function was added and audited, and the team used it to increase reserves above 1 million wei for such ETokens.
+
+
+### Thread part 8 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992741617996114
+- Metrics (at fetch): bookmark 18, impression 6220, like 22, quote 0, reply 1, retweet 4
+
+> The patch fixed the first deposit bug for all ETokens but inadvertently enabled a larger $200M hack. Watch this video by @Jun1on to see how the attacker exploited the `donateToReserves` function and Euler's unique liquidation mechanism to commit the theft.
+> https://t.co/5J469M6hCe
+
+
+### Thread part 9 — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992744298119281
+- Metrics (at fetch): bookmark 1, impression 5304, like 21, quote 0, reply 1, retweet 2
+
+> An innocent-looking function, designed only to reduce a user's funds, ended up compromising the entire protocol. This serves as an expensive lesson to treat even small bug fixes with the same level of importance as major updates like v2.
+
+
+---
+
+## 2023-07-29 · Post · For this bug to be exploitable, many things needed to come together: a yield-generating vault share 
+
+
+### Post — @kankodu — 2023-07-29 16:06 UTC (2023-07-29 17:06 WAT)
+
+- URL: https://x.com/kankodu/status/1685320793025294338
+- Metrics (at fetch): bookmark 0, impression 2833, like 8, quote 0, reply 2, retweet 0
+
+> For this bug to be exploitable, many things needed to come together: a yield-generating vault share token that is accepted as collateral in a protocol offering flash loan functionality, with the attacker having control over all the vault share tokens outside of the protocol.
+
+
+---
+
+## 2023-07-29 · Post · Interestingly, I discovered that @daejunpark had already brought up a similar attack issue in OpenZe
+
+
+### Post — @kankodu — 2023-07-29 16:06 UTC (2023-07-29 17:06 WAT)
+
+- URL: https://x.com/kankodu/status/1685320790127026176
+- Metrics (at fetch): bookmark 9, impression 2300, like 10, quote 0, reply 2, retweet 0
+
+> Interestingly, I discovered that @daejunpark had already brought up a similar attack issue in OpenZeppelin's ERC4626 implementation: https://t.co/x1JYR7LISy.
+>
+> It would be intriguing to learn their thought process for arriving at this bug pattern.
+
+
+---
+
+## 2023-07-29 · Post · The AAVE team rewarded $20k for responsible disclosure.
+
+
+### Post — @kankodu — 2023-07-29 16:06 UTC (2023-07-29 17:06 WAT)
+
+- URL: https://x.com/kankodu/status/1685320787384037376
+- Metrics (at fetch): bookmark 3, impression 1928, like 12, quote 0, reply 1, retweet 1
+
+> The AAVE team rewarded $20k for responsible disclosure.
+>
+> You can check out the details here: https://t.co/QeedgCU2Ks
+>
+> Check out the original bug report here: https://t.co/Zc7GO9ssVR.
+
+
+---
+
+## 2023-07-29 · Post · However, by resetting the share price, an attacker can recover the donated tokens. After significant
+
+
+### Post — @kankodu — 2023-07-29 16:06 UTC (2023-07-29 17:06 WAT)
+
+- URL: https://x.com/kankodu/status/1685320784758325248
+- Metrics (at fetch): bookmark 0, impression 1971, like 6, quote 0, reply 1, retweet 0
+
+> However, by resetting the share price, an attacker can recover the donated tokens. After significant research, I found AAVE V2 accepted GUniUSDCUSDT as collateral, susceptible to such manipulation. The funds at risk amounted to $2.83M, but the exploit likelihood was low.
+
+
+---
+
+## 2023-07-29 · Post · Donating underlying tokens to the vault address can inflate the price, but nobody would do that beca
+
+
+### Post — @kankodu — 2023-07-29 16:06 UTC (2023-07-29 17:06 WAT)
+
+- URL: https://x.com/kankodu/status/1685320782103384064
+- Metrics (at fetch): bookmark 0, impression 1968, like 6, quote 0, reply 1, retweet 0
+
+> Donating underlying tokens to the vault address can inflate the price, but nobody would do that because the donated tokens are automatically distributed among the vault share token holders, and the attacker never gets them back.
+
+
+---
+
+## 2023-07-29 · Post · Usually, this type of vault share token price is calculated on-chain with the underlying token price
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @kankodu — 2023-07-29 16:06 UTC (2023-07-29 17:06 WAT)
+
+- URL: https://x.com/kankodu/status/1685320779574190080
+- Metrics (at fetch): bookmark 0, impression 1998, like 5, quote 0, reply 1, retweet 0
+
+> Usually, this type of vault share token price is calculated on-chain with the underlying token price sourced from off-chain oracles.
+
+
+---
+
+## 2023-07-29 · Post · I assumed that this was as far as this bug pattern would go. I was wrong, yet again. I started ponde
+
+
+### Post — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320776822427648
+- Metrics (at fetch): bookmark 0, impression 2055, like 6, quote 0, reply 1, retweet 0
+
+> I assumed that this was as far as this bug pattern would go. I was wrong, yet again. I started pondering what would happen if such vault tokens were accepted as collateral.
+
+
+---
+
+## 2023-07-29 · Post · This wasn't a bug in the Balancer's flashloan functionality since they couldn't account for this in 
+
+
+### Post — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320774054518784
+- Metrics (at fetch): bookmark 0, impression 2112, like 7, quote 0, reply 1, retweet 0
+
+> This wasn't a bug in the Balancer's flashloan functionality since they couldn't account for this in their code. Balancer conducted an exhaustive search and found five other vulnerable tokens with around $10k at risk. They kindly rewarded me with $1k for finding it.
+
+
+---
+
+## 2023-07-29 · Post · I realised that numerous other tokens within the https://t.co/72MwK3Xhl3 ecosystem were at risk. Ins
+
+
+### Post — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320771353366528
+- Metrics (at fetch): bookmark 3, impression 2204, like 8, quote 0, reply 1, retweet 0
+
+> I realised that numerous other tokens within the https://t.co/72MwK3Xhl3 ecosystem were at risk. Instead of reporting each individually, I submitted the pattern to Balancer, requesting them to address it.
+
+
+---
+
+## 2023-07-29 · Post · I decided to submit anyway, and the team agreed to pay me a minimum of what a critical bug is reward
+
+
+### Post — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320768392163328
+- Metrics (at fetch): bookmark 0, impression 2378, like 9, quote 0, reply 1, retweet 0
+
+> I decided to submit anyway, and the team agreed to pay me a minimum of what a critical bug is rewarded, $12.5k. https://t.co/cpWpSHmXTe
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2023-07-29 · Post · By merely exploring Etherscan without any automation, I discovered a token with 100% of its total su
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320754521600000
+- Metrics (at fetch): bookmark 0, impression 2476, like 7, quote 0, reply 1, retweet 0
+
+> By merely exploring Etherscan without any automation, I discovered a token with 100% of its total supply in Balancer. A quick POC ensured that the attack functioned as expected. It was in https://t.co/YXNMpZav14's v2, not covered by their ImmuneFi bug bounty program at that time.
 
 
 ---

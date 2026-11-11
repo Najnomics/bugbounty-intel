@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 179
-- Conversations/threads: 172
+- Posts in this file: 180
+- Conversations/threads: 173
 - Oldest post captured: 2011-01-30
 - Newest post captured: 2026-11-06
 
@@ -1054,6 +1054,22 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): bookmark 0, impression 214, like 2, quote 0, reply 0, retweet 0
 
 > @kobigurk any kzg library deployed would work (with or without plonk)
+
+
+---
+
+## 2024-05-17 · Post · @zkproofs @benediktbuenz @kobigurk @rel_zeta_tech @nico_mnbl cool. Just in case you find this in htt
+
+
+Tags (automatic): ZK
+
+
+### Post — @asanso — 2024-05-17 10:36 UTC (2024-05-17 11:36 WAT)
+
+- URL: https://x.com/asanso/status/1791417500933959700
+- Metrics (at fetch): bookmark 0, impression 437, like 0, quote 0, reply 1, retweet 1
+
+> @zkproofs @benediktbuenz @kobigurk @rel_zeta_tech @nico_mnbl cool. Just in case you find this in https://t.co/GBzZ3pPPcu - BLS12-380
 
 
 ---

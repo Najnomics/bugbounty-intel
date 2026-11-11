@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 227
+- Posts in this file: 301
 - Conversations/threads: 103
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
@@ -2711,7 +2711,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-10-08 · Post · Zellic is proud to announce Masamune, search for smart contract bugs, reports, bounties, attack vect
+## 2024-10-08 · Thread · Zellic is proud to announce Masamune, search for smart contract bugs, reports, bounties, attack vect
 
 
 Tags (automatic): Smart contract / DeFi
@@ -2726,12 +2726,92 @@ Tags (automatic): Smart contract / DeFi
 >
 > Masamune is a curated index of audit reports, bug fixes, and technical documentation of numerous protocols.
 >
-> Try it here: https://t.co/haQJxTVUgz
+> Try it here: https://masamune.app/
 >
-> Learn more 🧵👇 https://t.co/Dh5fNyCFjd
+> Learn more 🧵👇 [pic.x.com/Dh5fNyCFjd]
 
 **Media:**
 - animated_gif:  — no alt text provided by author
+
+**Links in post:** https://masamune.app/
+
+
+### Thread part 2 — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713095736406499
+- Metrics (at fetch): bookmark 0, impression 502, like 4, quote 0, reply 1, retweet 0
+
+> Why did we create Masamune? Curating relevant security information is challenging, especially with the overwhelming amount of available data.
+>
+> So, we wanted to make extracting insights easy for all, regardless of the level of security expertise.
+
+
+### Thread part 3 — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713097896432076
+- Metrics (at fetch): bookmark 0, impression 402, like 4, quote 0, reply 1, retweet 0
+
+> There are currently two versions of Masamune: V1 and V2 (more versions are in development).
+>
+> V1 relies on plain regex rules, which match the inputted keyword against the entire collection of data sources. With V1, you’ll get all the results that contain the specific keywords you queried.
+>
+> V2 is a regex search embedded using OpenAI’s embedding, handled via FAISS. With V2, you’ll receive the meaning behind your query, results that are contextually related, and the nuance that plain regex searches would miss.
+
+
+### Thread part 4 — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713099968483695
+- Metrics (at fetch): bookmark 0, impression 341, like 4, quote 0, reply 1, retweet 0
+
+> So, how does Masamune work? Masamune is optimized to provide the most valuable results with minimal querying effort, making it effective for modeling the initial stages of the problem you’re trying to solve.
+>
+> Let’s look at an example.
+
+
+### Thread part 5 — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713102392766605
+- Metrics (at fetch): bookmark 0, impression 366, like 4, quote 0, reply 1, retweet 0
+
+> Imagine you are developing a protocol that integrates with Uniswap. Using V1, your query would simply be “uniswap”.
+>
+> Masamune will list all the results that match “uniswap”, either based on their title or the body text. But these results require further details, as our search targeted a broad topic.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZYuh8PWEAATtMF.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713106423480615
+- Metrics (at fetch): bookmark 0, impression 327, like 4, quote 0, reply 1, retweet 0
+
+> Masamune V2 allows for a more context-aware search, which widens the scope of the results.
+>
+> This way, even if you can’t leverage the precision of V1, the additional flexibility of V2 attracts results that would have previously been missed by the same query. [pic.x.com/orqNyDUl1n]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZYuj59XYAA5dC5.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713109762158780
+- Metrics (at fetch): bookmark 2, impression 806, like 7, quote 0, reply 1, retweet 0
+
+> For a deeper look at Masamune, including an in-depth example and link to the open-source code, check out the full announcement on our blog: https://www.zellic.io/blog/masamune-tool
+
+**Links in post:** https://www.zellic.io/blog/masamune-tool
+
+
+### Thread part 8 — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713111527960877
+- Metrics (at fetch): bookmark 1, impression 747, like 5, quote 0, reply 0, retweet 0
+
+> Also, check out the October edition of the Zellic Security Roundup where we cover the chain-halting vulnerability we found in NEAR and the latest news in Web3 security: https://newsletter.zellic.io/p/zellic-security-roundup-october-24
+
+**Links in post:** https://newsletter.zellic.io/p/zellic-security-roundup-october-24
 
 
 ---
@@ -2808,7 +2888,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-09-26 · Post · In December of 2023, Zellic's @farazsth98 found a bug in NEAR's blockchain node. We worked with the 
+## 2024-09-26 · Thread · In December of 2023, Zellic's @farazsth98 found a bug in NEAR's blockchain node. We worked with the 
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -2827,6 +2907,204 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GYagdVlaoAALsy9.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337474478477672
+- Metrics (at fetch): bookmark 0, impression 561, like 2, quote 0, reply 1, retweet 0
+
+> This was a DoS bug in the P2P networking layer of the NEAR node.
+>
+> A malicious node on the network could send a bad handshake message to any other node on the network that would instantly render the receiving node offline.
+
+
+### Thread part 3 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337476928000134
+- Metrics (at fetch): bookmark 0, impression 486, like 2, quote 0, reply 1, retweet 0
+
+> When a NEAR node connects to the network, it uses a pre-existing node to bootstrap its own state.
+>
+> Importantly, a node can choose to connect to as many peer nodes as it wants to during bootstrapping. A handshake method is used to establish these connections over TCP: [pic.x.com/qUMrQcGaIR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYaZfr3aMAASgRZ.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337480795095312
+- Metrics (at fetch): bookmark 0, impression 409, like 1, quote 0, reply 1, retweet 0
+
+> A handshake message structure contains a few fields. The `sender_peer_id` and `owned_account` fields are relevant to us here.
+>
+> While `sender_peer_id` identifies the sending peer, `owned_account` contains a signed payload that is used to prove that the sender owns this public key. [pic.x.com/vnA4FpWLeZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYaZjvPaQAA6G04.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337485832515974
+- Metrics (at fetch): bookmark 0, impression 376, like 1, quote 0, reply 1, retweet 0
+
+> In the previous screenshot, the owned account's `payload` is a vector, meaning it can have an arbitrary size.
+>
+> The signature-verification function supports two signature schemes, ED25519 and SECP256K1. [pic.x.com/msqCmvwr0C]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYaZpNZbEAA0Wbi.png — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337489573793943
+- Metrics (at fetch): bookmark 0, impression 385, like 1, quote 0, reply 1, retweet 0
+
+> Importantly, NEAR only supports ED25519 for the network layer. Without applying any patches to the node, it is impossible to generate and use SECP256K1 keys as a peer.
+>
+> However, it is possible to generate your own SECP256K1 keys manually and load them to be used: [pic.x.com/NFLB79MkdA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYaZtLpagAAr1AC.png — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337493109641621
+- Metrics (at fetch): bookmark 0, impression 371, like 1, quote 0, reply 1, retweet 0
+
+> The signature-verification function uses the Rust `secp256k1` crate for signature verification.
+>
+> In the screenshot below, `data` is the owned account's `payload`. To verify the signature, this payload must be converted to a `Message` type that the crate understands. [pic.x.com/nBGTG3mnMJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYaZxRmagAA8mJG.png — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337496997429295
+- Metrics (at fetch): bookmark 0, impression 386, like 1, quote 0, reply 1, retweet 0
+
+> Notably, the owned account's payload has not been length-checked anywhere. A peer node can insert any amount of data into the payload and pass it on with the handshake message.
+>
+> Looking at the `secp256k1::Message::from_slice()` function, it ends up returning an error if the argument passed in is not a 32-byte slice.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYaZ1ydaAAAKAk8.png — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337501321990326
+- Metrics (at fetch): bookmark 0, impression 348, like 2, quote 0, reply 1, retweet 0
+
+> Looking back at the signature-verification function, it calls `.expect()` on the result of the `from_slice()` function.
+>
+> In Rust, the `.expect()` function triggers a panic if it is called on an `Error` value. Panics lead to the program instantly halting, which affects liveness. [pic.x.com/uxkB3BNpnr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYaZ6Q8bYAAXTl2.png — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337504090239358
+- Metrics (at fetch): bookmark 0, impression 309, like 1, quote 0, reply 1, retweet 0
+
+> The P2P networking layer of the NEAR node does not implement a panic handler, which would otherwise allow gracefully handling a panic.
+>
+> Without a panic handler, the signature-verification function will panic and crash the node if the owned account payload is not a 32-byte slice.
+
+
+### Thread part 11 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337505931526601
+- Metrics (at fetch): bookmark 0, impression 317, like 1, quote 0, reply 1, retweet 0
+
+> So, to exploit this bug, an attacker would need to do the following:
+>
+> - Set up a node that uses SECP256K1 keys.
+> - Craft an owned account payload that is not 32-bytes in size.
+>
+> Introducing such a node to the network would crash any other nodes that receive the crafted payload.
+
+
+### Thread part 12 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337507680637052
+- Metrics (at fetch): bookmark 0, impression 291, like 1, quote 0, reply 1, retweet 0
+
+> How hard is it to patch the node in order to craft the owned account's payload? As it turned out, not hard at all, because it was not necessary to do that.
+>
+> An attacker could simply modify the peer-node key-generation functions to generate SECP256K1 keys instead.
+
+
+### Thread part 13 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337509576495534
+- Metrics (at fetch): bookmark 0, impression 288, like 1, quote 0, reply 1, retweet 0
+
+> If a peer node uses SECP256K1 keys to connect to other nodes, the owned account payload is always more than 32 bytes in size.
+>
+> Additionally, an attacker can acquire the addresses of all nodes on the network through reconnaissance (for example, with a legitimate node).
+
+
+### Thread part 14 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337511342207090
+- Metrics (at fetch): bookmark 0, impression 282, like 1, quote 0, reply 1, retweet 0
+
+> With access to the addresses of every node on the network, the attacker can configure their malicious node to connect to every node on the network during the bootstrapping phase.
+>
+> Now, when the malicious node goes online, it will send out the bad handshake message to every node.
+
+
+### Thread part 15 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337513179312476
+- Metrics (at fetch): bookmark 0, impression 267, like 1, quote 0, reply 1, retweet 0
+
+> The bad handshake message will trigger the panic and crash every receiving node on the network. This will halt the chain.
+>
+> While the malicious node stays online, other nodes cannot come back online, as they will instantly receive the handshake of death and crash repeatedly.
+
+
+### Thread part 16 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337515217723730
+- Metrics (at fetch): bookmark 0, impression 360, like 1, quote 0, reply 1, retweet 0
+
+> The attacker can also bypass IP blacklist rules by setting up and rotating malicious nodes across hundreds of IP addresses.
+>
+> Validator nodes would have a very difficult time blacklisting all the IP addresses in order to come back online.
+
+
+### Thread part 17 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337517382054248
+- Metrics (at fetch): bookmark 2, impression 897, like 7, quote 0, reply 1, retweet 0
+
+> NEAR classified this as a high-severity bug. A bounty of $150,000 USD was issued.
+>
+> For more technical details, the disclosure timeline, and a proof-of-concept exploit, check out the blog post: https://www.zellic.io/blog/near-protocol-bug/
+
+**Links in post:** https://www.zellic.io/blog/near-protocol-bug/
+
+
+### Thread part 18 — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337519319777602
+- Metrics (at fetch): bookmark 0, impression 732, like 4, quote 0, reply 0, retweet 0
+
+> We want to give a big thanks to the NEAR team for being responsive and quick with the bug fix.
+>
+> If you are interested in our firm and how we can help protect your project, please visit our site to learn more: https://www.zellic.io/.
+
+**Links in post:** https://www.zellic.io/
 
 
 ---
@@ -2854,10 +3132,10 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-08-22 · Post · We're proud to announce that we've acquired @code4rena!
+## 2024-08-22 · Thread · We're proud to announce that we've acquired @code4rena!
 
 
-Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / Cantina
 
 
 ### Post — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
@@ -2871,15 +3149,207 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 >
 > We acquired Code4rena for one simple reason: because it enables us to do better audits for our clients.
 >
-> Here's how. 🧵👇 https://t.co/qrcsXKJ3if
+> Here's how. 🧵👇
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GVj6karXYAEJdLm.png — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621636000579697
+- Metrics (at fetch): bookmark 1, impression 3298, like 12, quote 0, reply 1, retweet 0
+
+> Here's a typical codebase. There's some abstract program state space, and within it there's some critical components / invariants / etc. that must be absolutely correct.
+>
+> For example:
+> 🔒 A DeFi app or a bridge: funds can't be stolen
+> 🔒 A L1 chain: the chain can't be halted [pic.x.com/pipIaoUyvV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVkC8asWUAATWTK.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621638953099604
+- Metrics (at fetch): bookmark 0, impression 2663, like 13, quote 0, reply 1, retweet 0
+
+> Zellic's audits, like all consultative audits, are time-boxed. And at Zellic, our priority is you not getting hacked.
+>
+> We try to cover as much as we can of course. But the majority of our time is spent on these critical areas to make sure they're safe. So you don't get hacked.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVkFTLQWMAAt8oY.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621641490649363
+- Metrics (at fetch): bookmark 0, impression 2387, like 18, quote 0, reply 1, retweet 0
+
+> Meanwhile, Code4rena's competitive audits are bound by the prize pool.
+>
+> Rather than a handful of gigachads, you get an entire community of independent auditors who will pick your code apart until it’s clean to the bone.
+>
+> Whatever it is, they will find it and report it.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVkGXz4X0AAP8Hl.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621644242342141
+- Metrics (at fetch): bookmark 1, impression 3118, like 14, quote 0, reply 1, retweet 0
+
+> And that’s not to say that a Code4rena competition isn’t going to catch deep bugs. They do.
+>
+> "Dark horses" (previously unknown auditors who absolutely crush it) appear all the time in competitions, outperforming even well-known auditors.
+>
+> https://x.com/code4rena/status/1823110076653248715
+
+**Links in post:** https://x.com/code4rena/status/1823110076653248715
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1358831196747235328 — 2024-08-12 21:31 UTC (2024-08-12 22:31 WAT)
+    
+    - URL: https://x.com/1358831196747235328/status/1823110076653248715
+    - Metrics (at fetch): bookmark 3, impression 11794, like 10, quote 2, reply 1, retweet 0
+    
+    > Not one but TWO Dark Horse competitors jumped to the top of the competition leaderboard with solo findings
+    >
+    > 🥇 RadiantLabs is the FIRST Dark Horse champion, taking first place (haxatron, @3DOCsec, and @0xEV_om)
+    >
+    > They found a unique medium-severity issue, in addition to 3 highs and 3 mediums that were also found by other researchers
+    >
+    > And there's more... (2/8)
+    
+    **Media:**
+    - media `3_1823096559602630656` (details not returned by the API)
+    
+
+
+### Thread part 6 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621646691860529
+- Metrics (at fetch): bookmark 1, impression 4810, like 17, quote 0, reply 2, retweet 2
+
+> These two kinds of audits—consultative and competitive—naturally  and perfectly complement each other.
+>
+> It's a killer 1-2 combo. The Zellic audit ensures the most important stuff is thoroughly looked at. Then, the Code4rena competition puts as many eyes on the code as possible. [pic.x.com/j0NzvRv4mf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVkHzbFWYAAVGOl.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621649673707608
+- Metrics (at fetch): bookmark 0, impression 1964, like 13, quote 0, reply 1, retweet 0
+
+> And it's not just about the coverage.
+>
+> Take the threat models, audit notes, overall guidance made by the Zellic auditors, and use that to direct Wardens in the competition. Have Zellic guide the process.
+>
+> Audits+ are more powerful and more efficient than any two separate reviews.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVkIUiWWgAE9-iS.png — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621654828736868
+- Metrics (at fetch): bookmark 0, impression 2047, like 10, quote 0, reply 1, retweet 0
+
+> Here's another way to look at it.
+>
+> Consultative audits and competitive audits were already natural neighbors in the security lifecycle.
+>
+> They're great solutions for projects done with development, and eager to ship.
+>
+> They want additional assurance on their mission-critical code. [pic.x.com/kTV2srjg2M]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVkJ_8tWwAE7Lgo.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621657932595640
+- Metrics (at fetch): bookmark 1, impression 2041, like 12, quote 0, reply 1, retweet 0
+
+> Vertically integrating the two solutions is more efficient, and delivers better quality results for clients. That's it. [pic.x.com/xmfBCAqun8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVkKMZEXkAAVhe-.jpg — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621660469825765
+- Metrics (at fetch): bookmark 0, impression 3528, like 18, quote 2, reply 2, retweet 1
+
+> Lastly, why Code4rena?
+>
+> Code4rena is the OG competitive audits platform. They invented and made the concept a reality.
+>
+> Today, they're the leader in competitive audits with the largest collection of security researchers.
+>
+> Most importantly, Code4rena and Zellic share the same core values. Top-notch security, no gimmicks, no BS.
+>
+> We're not here to raise a huge round. We're here to keep you secure.
+>
+> Zellic ❤️ Code4rena.
+
+
+### Thread part 11 — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621662550524130
+- Metrics (at fetch): bookmark 1, impression 2486, like 17, quote 0, reply 1, retweet 0
+
+> We look forward to delivering not just audits, but Audits+ to you in the future.
+>
+> If you're interested in more, check out the full announcement on our blog:
+>
+> https://zellic.io/blog/why-code4rena/
+>
+> See you in the Arena!
+
+**Links in post:** https://zellic.io/blog/why-code4rena/
+
+
+### Thread part 12 — @zellic_io — 2024-08-22 14:39 UTC (2024-08-22 15:39 WAT)
+
+- URL: https://x.com/zellic_io/status/1826630215260668313
+- Metrics (at fetch): bookmark 0, impression 2279, like 8, quote 0, reply 2, retweet 0
+
+> Check out Code4rena's thread as well: https://x.com/code4rena/status/1826623238094684274
+
+**Links in post:** https://x.com/code4rena/status/1826623238094684274
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1358831196747235328 — 2024-08-22 14:11 UTC (2024-08-22 15:11 WAT)
+    
+    - URL: https://x.com/1358831196747235328/status/1826623238094684274
+    - Metrics (at fetch): bookmark 12, impression 51226, like 104, quote 20, reply 4, retweet 10
+    
+    > We’re excited to announce that Code4rena and Zellic are joining forces ⚡️
+    >
+    > Why? 
+    >
+    > Our mission has always been to bring the highest security outcomes to Web3
+    >
+    > Combining consultative + competitive audits is the next level 👇 (1/12)
+    
+
+
 ---
 
-## 2024-06-06 · Post · In this Zellic Security Roundup, we explain how a Cosmos SDK review and POC led to the discovery of 
+## 2024-06-06 · Thread · In this Zellic Security Roundup, we explain how a Cosmos SDK review and POC led to the discovery of 
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -2896,6 +3366,107 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GPaxXzGa0AAFvCc.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2024-06-06 21:01 UTC (2024-06-06 22:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822662153875786
+- Metrics (at fetch): bookmark 0, impression 99, like 0, quote 0, reply 1, retweet 0
+
+> Sei chains, by default, have a limit of seven undelegations at a time per validator-delegator pair.
+>
+> In order to support unbonding requests from many users, the contract bundles unbonding requests together and submits them in batches.
+
+
+### Thread part 3 — @zellic_io — 2024-06-06 21:01 UTC (2024-06-06 22:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822663806472453
+- Metrics (at fetch): bookmark 0, impression 88, like 0, quote 0, reply 1, retweet 0
+
+> If the reconcile function is called in the same block as the token distribution, it would be executed before the token distribution and `utoken_actual` would be less than `utoken_expected`. Thus, the `utoken_to_deduct` amount would be deducted from the batches to be reconciled. https://t.co/h8luDLLjjA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPaxnC9aIAEfQ29.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2024-06-06 21:01 UTC (2024-06-06 22:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822665911963734
+- Metrics (at fetch): bookmark 0, impression 86, like 0, quote 0, reply 1, retweet 0
+
+> While there is a time check in the reconcile function which filters out the batches with `current_time` &gt; `b.est_unbond_end_time` to be reconciled, the token distribution could still happen in the same block due to rounding (precision of time is seconds in CosmWasm, while it is https://t.co/gr7rucLWfe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPayQp1bcAAd_v5.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2024-06-06 21:01 UTC (2024-06-06 22:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822668298571865
+- Metrics (at fetch): bookmark 0, impression 84, like 0, quote 0, reply 1, retweet 0
+
+> Assuming that a batch is submitted at epoch timestamp 1000.8, the value of `est_unbond_end_time` stored in the CosmWasm contract would be 1000 + 21 days (1814400) = 1815400, and reconcile could be called a second after that, which is 1815401. 
+>
+> But as per the Go code, the exact https://t.co/yH7oiidYTi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPax8-IawAA1xU6.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2024-06-06 21:01 UTC (2024-06-06 22:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822669988794750
+- Metrics (at fetch): bookmark 0, impression 55, like 0, quote 0, reply 1, retweet 0
+
+> Let’s assume two blocks, B1 at time 1815400.7 and the next block B2 at time 1815401.1. At block B1, neither reconcile could be called as the value of `current_time` will be 1815400 and `est_unbond_end_time` is 1815400, nor will the token distribution happen as 1815400.7 is less
+
+
+### Thread part 7 — @zellic_io — 2024-06-06 21:02 UTC (2024-06-06 22:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822671373009326
+- Metrics (at fetch): bookmark 0, impression 55, like 0, quote 0, reply 1, retweet 0
+
+> At the next block B2, the time will be 1815401.1; at this time, reconcile could be called as `current_time` &gt; `b.est_unbond_end_time` would be true, and token distribution will happen in the endblocker.
+
+
+### Thread part 8 — @zellic_io — 2024-06-06 21:02 UTC (2024-06-06 22:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822672614518969
+- Metrics (at fetch): bookmark 0, impression 54, like 0, quote 0, reply 1, retweet 0
+
+> In this reconcile call, as the tokens have not been distributed yet, the contract would assume that this is due to slashing and thus deduct those Sei from the batches.
+
+
+### Thread part 9 — @zellic_io — 2024-06-06 21:02 UTC (2024-06-06 22:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822673834991643
+- Metrics (at fetch): bookmark 0, impression 52, like 0, quote 0, reply 1, retweet 0
+
+> The sole purpose of reviewing the Cosmos SDK code was to check if there is a way to call reconcile before the token transfer happens as it would lead to tokens stuck in the contract.
+
+
+### Thread part 10 — @zellic_io — 2024-06-06 21:02 UTC (2024-06-06 22:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822675051372672
+- Metrics (at fetch): bookmark 0, impression 121, like 0, quote 0, reply 1, retweet 0
+
+> After reviewing the Cosmos SDK implementation and writing a POC, we were able to confirm that it was indeed possible to call reconcile before the token transfer, leading to a possible attack scenario.
+
+
+### Thread part 11 — @zellic_io — 2024-06-06 21:02 UTC (2024-06-06 22:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822676313907263
+- Metrics (at fetch): bookmark 0, impression 595, like 0, quote 0, reply 1, retweet 0
+
+> To fix this issue, we recommended adding a few seconds of delay in the reconcile call so it could not be called in the same block as the token distribution. This fix was quickly implemented by the team.
+
+
+### Thread part 12 — @zellic_io — 2024-06-06 21:02 UTC (2024-06-06 22:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822677672763795
+- Metrics (at fetch): bookmark 0, impression 606, like 1, quote 0, reply 0, retweet 1
+
+> For a deeper look into this finding, along with our writing and recent news, check out the May edition of the Zellic Security Roundup: https://t.co/nX07E1fIm9
 
 
 ---
@@ -2941,7 +3512,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-04-01 · Post · Ever wondered why multiparty computation (MPC) protocol wallets are considered the most secure of al
+## 2024-04-01 · Thread · Ever wondered why multiparty computation (MPC) protocol wallets are considered the most secure of al
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 
 ### Post — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
@@ -2957,10 +3531,174 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > 2. MPC wallet functions
 > 3. Vulnerabilities
 >
-> Let’s take a look at these functions below👇🧵 https://t.co/qygVDZZRID
+> Let’s take a look at these functions below👇🧵 [pic.x.com/qygVDZZRID]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GKF49B8awAArQZM.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835410851840420
+- Metrics (at fetch): bookmark 0, impression 326, like 2, quote 0, reply 1, retweet 0
+
+> Before jumping into how wallets work, what even is MPC?
+>
+> MPC allows groups of individuals to share information and collaborate on computations with each other without revealing any of the individuals’ private data. Check out our blog on MPC from scratch: https://x.com/gf_256/status/1755077432875307173
+
+**Links in post:** https://x.com/gf_256/status/1755077432875307173
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1126385176467124224 — 2024-02-07 03:54 UTC (2024-02-07 04:54 WAT)
+    
+    - URL: https://x.com/1126385176467124224/status/1755077432875307173
+    - Metrics (at fetch): bookmark 1806, impression 319793, like 1859, quote 26, reply 21, retweet 209
+    
+    > In 2008, the Danish government used cutting-edge cryptography to auction 25,000 tons of beets.
+    >
+    > The auction was needed to set the price of sugar beets. However, the farmers didn't want to show their hand. Rather than hire expensive consultants, they used MPC to implement this private auction.
+    >
+    > But what's MPC, and how does it work? Let's build a MPC implementation from scratch. Here's how:
+    
+    **Media:**
+    - media `16_1755077097876242432` (details not returned by the API)
+    
+
+
+### Thread part 3 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835413146112152
+- Metrics (at fetch): bookmark 0, impression 234, like 1, quote 0, reply 1, retweet 0
+
+> Imagine a classroom of students trying to figure out who got the lowest score on a test without disclosing their individual grades.
+>
+> MPC allows the evaluation of a function (like finding the lowest grade) without exposing sensitive info. [pic.x.com/eoMtgFkImd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF5LT5aAAAFkql.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835416023339367
+- Metrics (at fetch): bookmark 0, impression 240, like 1, quote 0, reply 1, retweet 0
+
+> Wallets that use Shamir Secret Sharing have the downside of having the public key fully reconstructed at one point creating a single point of failure. For multisig wallets, a smart contract and thus consensus (a blockchain) is needed.
+>
+> Enter MPC wallets. Unlike the wallets above, MPC wallets create signatures that can be verified just like normal ECDSA signatures, without a trusted party or reconstructing the full private key!
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF5TGHbEAAzxc6.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835417927536767
+- Metrics (at fetch): bookmark 0, impression 236, like 1, quote 0, reply 1, retweet 0
+
+> Although many MPC wallets claim to use MPC, most of them today just use threshold signatures with multiple parties instead of the full capabilities of general-purpose MPC.
+>
+> An MPC wallet today consists of three main steps: key generation, signing, and verification. [pic.x.com/SyPYgtimn0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF5WjObkAA52_5.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835419945038013
+- Metrics (at fetch): bookmark 0, impression 246, like 1, quote 0, reply 1, retweet 0
+
+> 1. Key generation 🔐
+>
+> Each party will receive a piece of the private key to store in their MPC wallet. A threshold version of ECDSA creates these key shares, and ZK proofs ensure the validity of the key generation process. [pic.x.com/A4QZHaaZXz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF5dkKbAAAbhJ_.png — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835421882851428
+- Metrics (at fetch): bookmark 0, impression 229, like 1, quote 0, reply 1, retweet 0
+
+> 2. Signing ✍️
+>
+> When someone in the MPC party of n individuals wants to conduct a transaction, a small number of those n individuals will collaboratively create a signature. Using a multiparty variant of ECDSA, signatures will be created as a collective without revealing each individual's key share.
+
+
+### Thread part 8 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835423359209715
+- Metrics (at fetch): bookmark 0, impression 247, like 1, quote 0, reply 1, retweet 0
+
+> 3. Verification ✅
+>
+> For ECDSA, as long as the signature and the message are published, anyone with the public values can verify the validity of the signature. In both the normal and two-party ECDSA protocol, the verification algorithm is the same. [pic.x.com/4VmPIEM4xC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF5hsFbQAA_Dfi.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835425557041371
+- Metrics (at fetch): bookmark 0, impression 244, like 1, quote 0, reply 1, retweet 0
+
+> Be wary though! In April 2023, the “BitForge” vulnerability was discovered that exploited the Paillier key during the signing process of threshold ECDSA, compromising a lot of popular MPC wallets. With an unchecked modulus, attackers could comprise a wallet in as little as 16 signatures.
+
+
+### Thread part 10 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835427373130097
+- Metrics (at fetch): bookmark 1, impression 393, like 2, quote 0, reply 1, retweet 0
+
+> Using small primes and a vulnerable modulus N, shares of the private key, x, can be recovered via CRT. [pic.x.com/0FUDYGyWjL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF5sH8bgAAnVUO.jpg — no alt text provided by author
+
+
+### Thread part 11 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835429193466227
+- Metrics (at fetch): bookmark 1, impression 381, like 2, quote 0, reply 1, retweet 0
+
+> Other than BitForge, MPC wallets have stayed pretty safe from attacks. However, non-MPC wallets with threshold signatures that utilize the Shamir Secret Sharing Scheme (SSSS) have had worse vulnerabilities.
+
+
+### Thread part 12 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835430653104284
+- Metrics (at fetch): bookmark 0, impression 505, like 0, quote 0, reply 1, retweet 0
+
+> In Bitcoin Armory in 2017, the wallet accidentally hashed each of the coefficients in the secret polynomial which allowed an attacker to only need to attack 1 share to recover the entire polynomial. 
+>
+> This implementation was completely broken. Code below: [pic.x.com/siMhG0JZpz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF5wKWbEAALVsh.jpg — no alt text provided by author
+
+
+### Thread part 13 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835432213319968
+- Metrics (at fetch): bookmark 0, impression 479, like 1, quote 0, reply 1, retweet 0
+
+> However, any incorrect protocol implementation can lead to vulnerabilities. Overall, MPC wallets are currently the best way to keep your valuable crypto safe.
+>
+> While MPC wallets offer robust security, no system is foolproof. It’s best to stay alert on new and improved hacks.
+
+
+### Thread part 14 — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835433563918432
+- Metrics (at fetch): bookmark 0, impression 594, like 3, quote 0, reply 0, retweet 2
+
+> If you want to jump into a primer on MPC wallets, check out our full blog post, “How do MPC Wallets Work?” https://www.zellic.io/blog/mpc-wallet-primer
+
+**Links in post:** https://www.zellic.io/blog/mpc-wallet-primer
 
 
 ---
@@ -3189,10 +3927,10 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-12-05 · Post · The dangers of integer truncation:
+## 2023-12-05 · Thread · The dangers of integer truncation:
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 
 ### Post — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
@@ -3210,6 +3948,189 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GAno6_kaUAAlzfC.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171640887533860
+- Metrics (at fetch): bookmark 0, impression 2280, like 9, quote 0, reply 1, retweet 0
+
+> @farazsth98 and @wcbowling decided to take a look at Astar-EVM as a part of Astar's Immunefi program.
+>
+> They started with the precompiles, exposing native ERC-20 token functionality for users.
+>
+> A critical vulnerability laid hidden there for ~1.5 years.
+
+
+### Thread part 3 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171644314243392
+- Metrics (at fetch): bookmark 1, impression 2199, like 7, quote 0, reply 1, retweet 0
+
+> Blockchains can be written in any language. For example, Ethereum nodes are written in Golang or Rust. The Astar L1 is written in Rust using Substrate.
+>
+> When the blockchain code wants to interact with deployed smart contracts within the chain, they do so through precompiles.
+
+
+### Thread part 4 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171647665557664
+- Metrics (at fetch): bookmark 0, impression 2019, like 7, quote 0, reply 1, retweet 0
+
+> Precompiles can be thought of as smart contracts written in the chain's original language (Golang or Rust, in this case). They are deployed just like smart contracts at specific addresses.
+>
+> The difference is — when a precompile is called, it executes blockchain code directly.
+
+
+### Thread part 5 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171655617864087
+- Metrics (at fetch): bookmark 0, impression 1974, like 9, quote 0, reply 1, retweet 0
+
+> Substrate-based chains like Astar are written in Rust, which limits numbers to a maximum of 128 bits. This leads to token balances being stored as a `u128`.
+>
+> The EVM, however, supports numbers up to 256 bits. [pic.x.com/MkW60ZRx07]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAno8LKaAAAxeTi.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171659388539208
+- Metrics (at fetch): bookmark 0, impression 1809, like 7, quote 0, reply 1, retweet 0
+
+> This means that Substrate-based chains that support EVM smart contracts must be wary of integer truncation when handling values from the EVM.
+>
+> If not, an attacker can trick smart contracts into thinking a balance transfer was successful, when no such transfer ever occurred!
+
+
+### Thread part 7 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171667156476016
+- Metrics (at fetch): bookmark 0, impression 1716, like 8, quote 0, reply 1, retweet 0
+
+> In this case, the assets-erc20 precompile enabled users to use ERC-20 tokens that were implemented directly within Substrate, rather than in a smart contract.
+>
+> This means that users can call `precompile.transferFrom(...)` to transfer these tokens to other addresses. [pic.x.com/QF4fobrQpv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAno82BbAAAPyJC.png — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171677268861303
+- Metrics (at fetch): bookmark 0, impression 1637, like 6, quote 0, reply 1, retweet 0
+
+> However, the precompiled code used a variable of type `Balance` to store the amount of tokens being transferred. This is a type alias for a `u128` in Rust.
+>
+> On the other hand, the interface used in the EVM allowed the `amount` to be a `uint256`! [pic.x.com/2QqDvV0xfX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAno9TkbQAANDWN.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GAno9e9boAAFfxT.png — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171685653307872
+- Metrics (at fetch): bookmark 0, impression 2916, like 7, quote 1, reply 1, retweet 0
+
+> This meant a transfer of `type(uint128).max + 1` tokens from the EVM would be truncated down to a 0 in the precompile.
+>
+> What ends up happening is this:
+>
+> - Zero tokens are transferred in the precompile.
+> - In the EVM, `type(uint128).max + 1` tokens are transferred successfully! [pic.x.com/ngpnlTrnyF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAno95naYAAkVxb.jpg — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171689491054592
+- Metrics (at fetch): bookmark 0, impression 1539, like 6, quote 0, reply 1, retweet 0
+
+> Now the question is — what sort of smart contracts would call `transferFrom()` on behalf of the user and then trust the successful transfer?
+>
+> Liquidity pools. Their swap functionality takes token A from the user and transfers out an equivalent amount of token B.
+
+
+### Thread part 11 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171692871766289
+- Metrics (at fetch): bookmark 0, impression 1495, like 6, quote 0, reply 1, retweet 0
+
+> There was only one problem. Most liquidity pools fork off of Uniswap or PancakeSwap. In both cases, there are before-swap and after-swap balance checks to ensure the constant product formula X * Y = K still holds.
+>
+> Those pools would be protected from this type of an attack.
+
+
+### Thread part 12 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171700022997455
+- Metrics (at fetch): bookmark 0, impression 1644, like 4, quote 0, reply 1, retweet 0
+
+> Still, we found a few pools that could be exploited using this attack. The largest one was a Kagla Finance pool containing precompiled USDT tokens and 3KGL tokens.
+>
+> To demonstrate the attack, we wrote a proof of concept that drained 3KGL tokens from the pool with zero investment. [pic.x.com/NLQs2IlLVU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAno-xWaEAAqHt2.png — no alt text provided by author
+
+
+### Thread part 13 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171704905130220
+- Metrics (at fetch): bookmark 0, impression 2912, like 14, quote 1, reply 1, retweet 0
+
+> After a bit more research, we concluded that up to $400,000 USD was at risk of being stolen if this vulnerability were exploited.
+>
+> Astar Network paid the minimum bounty of $50,000 for a critical severity vulnerability, much more than 10% of the funds at risk.
+
+
+### Thread part 14 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171708264751267
+- Metrics (at fetch): bookmark 0, impression 1284, like 7, quote 0, reply 1, retweet 0
+
+> We also investigated other chains for the same bug. In our investigation, we found that @ParallelFi was also affected by this vulnerability.
+>
+> Fortunately, their EVM chain's native ERC20 had low adoption, so no funds were at risk. Nonetheless, we reported it to them as well.
+
+
+### Thread part 15 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171711658041783
+- Metrics (at fetch): bookmark 2, impression 1717, like 13, quote 0, reply 1, retweet 0
+
+> For more details about the bug, the exploit proof-of-concept scripts, and the disclosure timeline, check out our full blog post: https://www.zellic.io/blog/finding-a-critical-vulnerability-in-astar/
+
+**Links in post:** https://www.zellic.io/blog/finding-a-critical-vulnerability-in-astar/
+
+
+### Thread part 16 — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1732171715063754901
+- Metrics (at fetch): bookmark 0, impression 1993, like 8, quote 0, reply 0, retweet 0
+
+> Liked reading this thread? Check out more content from us here! https://twitter.com/1460408721306099716/status/1643690380876206082
+
+**Links in post:** https://twitter.com/1460408721306099716/status/1643690380876206082
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1643690380876206082
+    - Metrics (at fetch): bookmark 543, impression 176430, like 435, quote 3, reply 27, retweet 145
+    
+    > Want to learn deep Web3 security knowledge written by the best hackers in the world?
+    >
+    > Here's a Twitter thread of interesting Twitter threads the Zellic team has written! 👇🧵
+    
 
 
 ---
@@ -3615,7 +4536,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 ### Post — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
 
 - URL: https://x.com/zellic_io/status/1643690380876206082
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 543, impression 176430, like 435, quote 3, reply 27, retweet 145
 
 > Want to learn deep Web3 security knowledge written by the best hackers in the world?
 >

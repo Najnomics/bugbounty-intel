@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 228
+- Posts in this file: 238
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -1859,7 +1859,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2024-06-11 · Post · We’ve developed a new ML model attack technique, Sleepy Pickle, that exploits weaknesses in Pickle f
+## 2024-06-11 · Thread · We’ve developed a new ML model attack technique, Sleepy Pickle, that exploits weaknesses in Pickle f
 
 
 ### Post — @trailofbits — 2024-06-11 13:01 UTC (2024-06-11 14:01 WAT)
@@ -1869,6 +1869,14 @@ Tags (automatic): AI-assisted hunting
 
 > We’ve developed a new ML model attack technique, Sleepy Pickle, that exploits weaknesses in Pickle files used to distribute ML models. Learn how this attack can compromise ML models / their users and how you can reduce your risk. 
 > https://t.co/3BG7eDiNq4
+
+
+### Thread part 2 — @trailofbits — 2024-06-11 13:01 UTC (2024-06-11 14:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1800513568376308095
+- Metrics (at fetch): bookmark 0, impression 1187, like 3, quote 0, reply 0, retweet 0
+
+> Stay tuned later today for Sticky Pickle, a variant of Sleepy Pickle that incorporates a self-replicating mechanism, enabling long-lasting presence on compromised systems while evading detection.
 
 
 ---
@@ -1899,7 +1907,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2024-05-17 · Post · Advanced expertise in ZK circuits. 
+## 2024-05-17 · Thread · Advanced expertise in ZK circuits. 
 
 
 Tags (automatic): ZK
@@ -1920,6 +1928,14 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/GNyF0BUWMAIx5SA.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GNyF0TTWsAATjBV.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GNyF0lxWsAAliHt.jpg — no alt text provided by author
+
+
+### Thread part 2 — @trailofbits — 2024-05-17 13:01 UTC (2024-05-17 14:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1791453896130347227
+- Metrics (at fetch): bookmark 0, impression 979, like 1, quote 0, reply 0, retweet 0
+
+> @Scroll_ZKP Our team has the practical and theoretical experience to help you build your ZK system securely. Contact us to learn more! https://t.co/eo8sF63bwc
 
 
 ---
@@ -1953,7 +1969,10 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-03-25 · Post · Presenting our paper "Weak Fiat-Shamir Attacks on Modern Proof Systems," a collaboration with @Quang
+## 2024-03-25 · Thread · Presenting our paper "Weak Fiat-Shamir Attacks on Modern Proof Systems," a collaboration with @Quang
+
+
+Tags (automatic): ZK
 
 
 ### Post — @trailofbits — 2024-03-25 15:16 UTC (2024-03-25 16:16 WAT)
@@ -1961,11 +1980,49 @@ Tags (automatic): ZK
 - URL: https://x.com/trailofbits/status/1772281304316600658
 - Metrics (at fetch): bookmark 9, impression 6166, like 36, quote 1, reply 1, retweet 13
 
-> Presenting our paper "Weak Fiat-Shamir Attacks on Modern Proof Systems," a collaboration with @QuangVDao &amp; @pag_crypto from @CarnegieMellon, @RealWorldCrypto this Wednesday. Let's look at some critical vulnerabilities that we found as part of that research https://t.co/Fo845kbRgj https://t.co/B6VYBjLot2
+> Presenting our paper "Weak Fiat-Shamir Attacks on Modern Proof Systems," a collaboration with @QuangVDao & @pag_crypto from @CarnegieMellon, @RealWorldCrypto this Wednesday. Let's look at some critical vulnerabilities that we found as part of that research https://eprint.iacr.org/2023/691
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GJhoBrSbsAAKotg.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GJhoU11aAAAjuHn.jpg — no alt text provided by author
+
+**Links in post:** https://eprint.iacr.org/2023/691
+
+
+### Thread part 2 — @trailofbits — 2024-03-25 15:16 UTC (2024-03-25 16:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1772281306623201523
+- Metrics (at fetch): bookmark 1, impression 831, like 1, quote 0, reply 1, retweet 0
+
+> We found one such critical Fiat-Shamir vulnerability in a live system with millions of dollars at risk: incognito chain. They use the ZKP system Bulletproofs, which had a mistake in its original version that specified an insecure Fiat-Shamir transformation.https://blog.trailofbits.com/2023/08/02/a-mistake-in-the-bulletproofs-paper-could-have-led-to-the-theft-of-millions-of-dollars/
+
+**Links in post:** https://blog.trailofbits.com/2023/08/02/a-mistake-in-the-bulletproofs-paper-could-have-led-to-the-theft-of-millions-of-dollars/
+
+
+### Thread part 3 — @trailofbits — 2024-03-25 15:16 UTC (2024-03-25 16:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1772281308330209700
+- Metrics (at fetch): bookmark 0, impression 786, like 1, quote 0, reply 1, retweet 0
+
+> While still in the testnet phase, we found a critical vulnerability affecting Dusk Network’s Plonk implementation that uses ZKPs to achieve confidential transactions. This vulnerability could be exploited to mint yourself free money.
+
+
+### Thread part 4 — @trailofbits — 2024-03-25 15:16 UTC (2024-03-25 16:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1772281310381539680
+- Metrics (at fetch): bookmark 0, impression 993, like 2, quote 1, reply 1, retweet 0
+
+> We found a critical vulnerability affecting the Plonk implementation of SnarkJS, the underlying ZKP implementation that powers Circom. When the vulnerability was discovered, Circom supported only the Groth16 backend in SnarkJS, not Plonk, making Circom apps immune to the attack.
+
+
+### Thread part 5 — @trailofbits — 2024-03-25 15:16 UTC (2024-03-25 16:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1772281312159949271
+- Metrics (at fetch): bookmark 0, impression 934, like 1, quote 0, reply 0, retweet 0
+
+> If you would like help designing or troubleshooting these kinds of systems, schedule an office hours session with our cryptography team where you can receive free technical help, no strings attached. https://share.hsforms.com/1gcBB5lwtRzaAV1D-PEV7oAdffjk
+
+**Links in post:** https://share.hsforms.com/1gcBB5lwtRzaAV1D-PEV7oAdffjk
 
 
 ---
@@ -2037,7 +2094,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-01-29 · Post · Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their p
+## 2024-01-29 · Thread · Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their p
 
 
 ### Post — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
@@ -2051,6 +2108,14 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/GFC92kUbsAAvuiO.png — no alt text provided by author
 
 **Links in post:** https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews
+
+
+### Thread part 2 — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
+
+- URL: https://x.com/trailofbits/status/1752109825864176096
+- Metrics (at fetch): bookmark 0, impression 4203, like 20, quote 0, reply 4, retweet 1
+
+> LFG is also claiming to have worked with @osec_io. Can anyone from @osec_io chime in?
 
 
 ---
@@ -2314,7 +2379,10 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-08-31 · Post · The @OpenSSF's Security Software Repositories WG has been instrumental in improving package index se
+## 2023-08-31 · Thread · The @OpenSSF's Security Software Repositories WG has been instrumental in improving package index se
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @trailofbits — 2023-08-31 16:01 UTC (2023-08-31 17:01 WAT)
@@ -2325,6 +2393,32 @@ Tags (automatic): RCE
 > The @OpenSSF's Security Software Repositories WG has been instrumental in improving package index security, and we've been honored to help them build many of their key initiatives!
 >
 > Read their post here https://t.co/OKUiTk3zsa, and read on for our specific contributions 🧵:
+
+
+### Thread part 2 — @trailofbits — 2023-08-31 16:01 UTC (2023-08-31 17:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1697278332474171409
+- Metrics (at fetch): bookmark 0, impression 64, like 1, quote 0, reply 1, retweet 0
+
+> In April, we helped PyPI develop Trusted Publishing, a new, more secure way to publish packages from CI platforms to package indices! It's now being used to secure hundreds of critical PyPI packages, and enrollment is growing.
+>
+> Learn more on our blog: https://t.co/vpYawnsUsr
+
+
+### Thread part 3 — @trailofbits — 2023-08-31 16:01 UTC (2023-08-31 17:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1697278334038679578
+- Metrics (at fetch): bookmark 0, impression 826, like 1, quote 0, reply 1, retweet 0
+
+> Coming up next: we've been working with the OpenSSF on a proposal to add build provenance to Homebrew, the dominant package manager for macOS.
+
+
+### Thread part 4 — @trailofbits — 2023-08-31 16:01 UTC (2023-08-31 17:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1697278335686967773
+- Metrics (at fetch): bookmark 0, impression 836, like 1, quote 0, reply 0, retweet 0
+
+> Build provenance will give millions of Homebrew users increased confidence in the integrity of Homebrew's software distributions, with knock-on benefits for countless software packages developed primarily on macOS! Check out the proposal here: https://t.co/No2cBtGIjo
 
 
 ---

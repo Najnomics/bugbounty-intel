@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 454
-- Conversations/threads: 370
+- Posts in this file: 462
+- Conversations/threads: 371
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
 
@@ -7658,7 +7658,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-03-11 · Post · not bad to occasionally take a tangent on things you use, dive down a rabbit hole, and walk away wit
+## 2025-03-11 · Thread · not bad to occasionally take a tangent on things you use, dive down a rabbit hole, and walk away wit
 
 
 ### Post — @S1r1u5_ — 2025-03-11 04:37 UTC (2025-03-11 05:37 WAT)
@@ -7688,6 +7688,14 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post** 1897623617137230104: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @S1r1u5_ — 2025-03-11 05:00 UTC (2025-03-11 06:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1899324498522083437
+- Metrics (at fetch): bookmark 1, impression 1339, like 25, quote 0, reply 1, retweet 0
+
+> an interesting bug, not so complicated. will make a video on this, after 90-days.  thanks to @sudhanshur705 for reminding of a technique i forgot.
 
 
 ---
@@ -7839,10 +7847,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-02-02 · Post · AI alignment seems like a hard problem. imagine a Capture the Flag hacking competition where you're 
+## 2025-02-02 · Thread · AI alignment seems like a hard problem. imagine a Capture the Flag hacking competition where you're 
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): XSS, AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2025-02-02 06:36 UTC (2025-02-02 07:36 WAT)
@@ -7852,7 +7860,74 @@ Tags (automatic): AI-assisted hunting
 
 > AI alignment seems like a hard problem. imagine a Capture the Flag hacking competition where you're rewarded for exploiting an author-intended bug to retrieve the flag.
 >
-> a lot of times, there are unintended solutions, and participants exploit them. if the goal is fixed, you can't
+> a lot of times, there are unintended solutions, and participants exploit them. if the goal is fixed, you can't expect people to solve it only the way you intended. 
+>
+> similarly, AI won’t be empathetic or reflect, if it's tuned to achieve a specific goal, and it might just kill you to get there.
+
+
+### Thread part 2 — @S1r1u5_ — 2025-02-02 06:54 UTC (2025-02-02 07:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1885944848278245589
+- Metrics (at fetch): bookmark 0, impression 512, like 2, quote 0, reply 1, retweet 0
+
+> i've observed this behavior in action. i gave my basic agent a few CTF challenges with the prompt something like:
+>
+> """
+> You are an XSS CTF-solving agent. Your goal is to identify the bug in the page and execute an alert("win"). You have the following tools that you can use
+>
+> navigate_to(page): Use it to navigate to the page
+> click_on(element): Click on a specific element
+> input_in(data, element): paste in the form
+> eval_js_in_page(JS): console access for testing
+> """
+>
+> interestingly, when pass@k drops, it happens with harder challenges. instead of solving them, the agent starts abusing eval_js_in_page("alert('win')") to get the reward.
+
+
+### Thread part 3 — @S1r1u5_ — 2025-02-02 06:54 UTC (2025-02-02 07:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1885944973134332040
+- Metrics (at fetch): bookmark 1, impression 594, like 3, quote 0, reply 1, retweet 0
+
+> more examples:
+> https://x.com/nicowaisman/status/1885019497808920777
+
+**Links in post:** https://x.com/nicowaisman/status/1885019497808920777
+
+
+### Thread part 4 — @S1r1u5_ — 2025-02-02 06:56 UTC (2025-02-02 07:56 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1885945383362388095
+- Metrics (at fetch): bookmark 0, impression 1272, like 2, quote 0, reply 1, retweet 0
+
+> https://x.com/max_a_schwarzer/status/1834280954443321694
+
+**Links in post:** https://x.com/max_a_schwarzer/status/1834280954443321694
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1270443103912996864 — 2024-09-12 17:20 UTC (2024-09-12 18:20 WAT)
+    
+    - URL: https://x.com/1270443103912996864/status/1834280954443321694
+    - Metrics (at fetch): bookmark 176, impression 426588, like 407, quote 58, reply 15, retweet 59
+    
+    > The system card (https://openai.com/index/openai-o1-system-card/) nicely showcases o1's best moments -- my favorite was when the model was asked to solve a CTF challenge, realized that the target environment was down, and then broke out of its host VM to restart it and find the flag. [pic.x.com/QEadUoJyjf]
+    
+    **Media:**
+    - media `3_1834280723802718212` (details not returned by the API)
+    
+    **Links in post:** https://openai.com/index/openai-o1-system-card/
+    
+
+
+### Thread part 5 — @S1r1u5_ — 2025-02-02 07:05 UTC (2025-02-02 08:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1885947522583232724
+- Metrics (at fetch): bookmark 0, impression 746, like 2, quote 0, reply 0, retweet 0
+
+> let me know if you’ve seen similar security cases.
+>
+> bottom line: if we ever reach a post-AGI world, alignment will be a spectacle to watch.
 
 
 ---
@@ -8309,7 +8384,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2024-10-18 · Post · working on discord video and catching up with v8 exploitation. read some cool v8 sandbox bypass blog
+## 2024-10-18 · Thread · working on discord video and catching up with v8 exploitation. read some cool v8 sandbox bypass blog
 
 
 ### Post — @S1r1u5_ — 2024-10-18 17:25 UTC (2024-10-18 18:25 WAT)
@@ -8318,6 +8393,22 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 3, impression 1855, like 23, quote 0, reply 1, retweet 0
 
 > working on discord video and catching up with v8 exploitation. read some cool v8 sandbox bypass blogs, it looks so fun. constant nagging from one part of brain to spend on it for a month or so to try to find a bypass and other part saying i am too slow to catch up.
+
+
+### Thread part 2 — @S1r1u5_ — 2024-10-19 12:40 UTC (2024-10-19 13:40 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1847618762616574332
+- Metrics (at fetch): bookmark 1, impression 1413, like 1, quote 1, reply 0, retweet 0
+
+> why? its crashing on mac silicon
+>
+> I am using build flags from google ctf.
+> https://github.com/google/google-ctf/blob/1c279181f1586cb2ceb97153ff399c37a0cfb44b/2023/quals/sandbox-v8box/challenge/args.gn [pic.x.com/cfJkuFjTef]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GaQPQe8bMAAlf9s.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/google/google-ctf/blob/1c279181f1586cb2ceb97153ff399c37a0cfb44b/2023/quals/sandbox-v8box/challenge/args.gn
 
 
 ---
@@ -8727,7 +8818,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-07-28 · Post · No, it doesn’t matter where you store the JWT or session once there is an XSS.
+## 2024-07-28 · Thread · No, it doesn’t matter where you store the JWT or session once there is an XSS.
 
 
 Tags (automatic): XSS
@@ -8759,6 +8850,68 @@ Tags (automatic): XSS
     >
     > DO NOT STORE JWTS IN LOCAL STORAGE.
     
+
+
+### Thread part 2 — @S1r1u5_ — 2024-07-28 11:46 UTC (2024-07-28 12:46 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1817527089353949195
+- Metrics (at fetch): bookmark 0, impression 1639, like 1, quote 0, reply 0, retweet 0
+
+> jk 😅
+>
+> but seriously, with cookies cors and csrf should be taken care of. https://twitter.com/taviso/status/1814762302337654829
+
+**Links in post:** https://twitter.com/taviso/status/1814762302337654829
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14453232 — 2024-07-20 20:40 UTC (2024-07-20 21:40 WAT)
+    
+    - URL: https://x.com/14453232/status/1814762302337654829
+    - Metrics (at fetch): bookmark 5123, impression 3277786, like 15080, quote 495, reply 241, retweet 2982
+    
+    > This strange tweet got &gt;25k retweets. The author sounds confident, and he uses lots of hex and jargon. There are red flags though... like what's up with the DEI stuff, and who says "stack trace dump"? Let's take a closer look... 🧵1/n [pic.x.com/Lt4VfCs15s]
+    
+    **Media:**
+    - media `3_1814747668536844288` (details not returned by the API)
+    
+
+
+---
+
+## 2024-05-23 · Reply · @kevin_mizu wow, thats some top challenge and thanks for the writeup
+
+
+**Context — post being replied to:**
+
+#### Parent post — @kevin_mizu — 2024-05-23 15:28 UTC (2024-05-23 16:28 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1793665227202175483
+- Metrics (at fetch): bookmark 33, impression 11642, like 90, quote 0, reply 2, retweet 24
+
+> I think it's time for a solution ⏰
+>
+> TL;DR
+> - Eventlet normalizes - to _ in header keys.
+> - The Fetch spec blocks Transfer-Encoding but not Transfer_Encoding.
+> - Bypass tracking policy on Firefox using open().
+>
+> Detailed writeup 👇
+> https://mizu.re/post/twitter-eventlet-csd
+>
+> 1/2 https://twitter.com/kevin_mizu/status/1790035413685391775
+
+**Links in post:** https://mizu.re/post/twitter-eventlet-csd, https://twitter.com/kevin_mizu/status/1790035413685391775
+
+**Quoted post** 1790035413685391775: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @S1r1u5_ — 2024-05-23 17:50 UTC (2024-05-23 18:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1793701109456097757
+- Metrics (at fetch): bookmark 0, impression 473, like 3, quote 0, reply 1, retweet 0
+
+> @kevin_mizu wow, thats some top challenge and thanks for the writeup
 
 
 ---

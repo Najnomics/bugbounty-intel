@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 231
+- Posts in this file: 232
 - Conversations/threads: 202
 - Oldest post captured: 2016-07-31
 - Newest post captured: 2026-11-10
@@ -945,7 +945,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2024-03-27 · Post · I'm starting my own project hiring all these North Korean hackers for token allocation, just waste t
+## 2024-03-27 · Thread · I'm starting my own project hiring all these North Korean hackers for token allocation, just waste t
 
 
 ### Post — @cmichelio — 2024-03-27 05:42 UTC (2024-03-27 06:42 WAT)
@@ -953,9 +953,21 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 - URL: https://x.com/cmichelio/status/1772861727886983475
 - Metrics (at fetch): bookmark 8, impression 15947, like 113, quote 1, reply 6, retweet 3
 
-> I'm starting my own project hiring all these North Korean hackers for token allocation, just waste their time, never deploy anything, and try to get access to their machines and counter-hack them. https://t.co/u0NpwaD3xc
+> I'm starting my own project hiring all these North Korean hackers for token allocation, just waste their time, never deploy anything, and try to get access to their machines and counter-hack them. https://twitter.com/0xCygaar/status/1772853982777503853
+
+**Links in post:** https://twitter.com/0xCygaar/status/1772853982777503853
 
 **Quoted post** 1772853982777503853: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @cmichelio — 2024-03-27 06:33 UTC (2024-03-27 07:33 WAT)
+
+- URL: https://x.com/cmichelio/status/1772874589095530758
+- Metrics (at fetch): bookmark 1, impression 3310, like 10, quote 0, reply 4, retweet 0
+
+> Doesn't look like a NK dev anymore. Why would they return it if they were. https://x.com/_munchables_/status/1772859898897777016
+
+**Links in post:** https://x.com/_munchables_/status/1772859898897777016
 
 
 ---

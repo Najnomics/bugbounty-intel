@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 98
-- Conversations/threads: 96
+- Posts in this file: 99
+- Conversations/threads: 97
 - Oldest post captured: 2022-10-11
 - Newest post captured: 2026-10-31
 
@@ -1384,6 +1384,47 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F-mm72yaQAAnL1H.jpg — no alt text provided by author
+
+
+---
+
+## 2023-11-06 · Reply · @krishnsec I even started with p4’s  and even got lots bounty for cache control issue
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @krishnsec — 2023-11-06 09:56 UTC (2023-11-06 10:56 WAT)
+
+- URL: https://x.com/krishnsec/status/1721466467911135690
+- Metrics (at fetch): bookmark 17, impression 57305, like 109, quote 1, reply 20, retweet 11
+
+> This is a valid P4 in bugcrowd VRT
+> No cache control for sensitive pages
+> It's not always about P1/P2 ,
+> There is no issue with reporting valid P4's 
+> ..
+> I guess there is no such hunter in the BB community who never reported P4 issues in his journey .
+> https://t.co/vQuKlbQz5p
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3094698976 — 2023-11-04 09:27 UTC (2023-11-04 10:27 WAT)
+    
+    - URL: https://x.com/3094698976/status/1720734431659376995
+    - Metrics (at fetch): bookmark 82, impression 202953, like 489, quote 7, reply 24, retweet 23
+    
+    > Do not report this! Stop making up fake issues... https://t.co/tAcarXd7M9
+    
+    **Quoted post** 1720314810686943680: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Post — @RootxRavi — 2023-11-06 09:57 UTC (2023-11-06 10:57 WAT)
+
+- URL: https://x.com/RootxRavi/status/1721466803237556520
+- Metrics (at fetch): bookmark 1, impression 3419, like 14, quote 0, reply 2, retweet 0
+
+> @krishnsec I even started with p4’s  and even got lots bounty for cache control issue
 
 
 ---

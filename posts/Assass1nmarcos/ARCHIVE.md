@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 123
+- Posts in this file: 132
 - Conversations/threads: 103
 - Oldest post captured: 2018-11-24
 - Newest post captured: 2026-11-03
@@ -1104,7 +1104,10 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-03-30 · Post · Some of you make $$$ just by bug hunting. I make mine with a hacker mindset through bug hunting—ther
+## 2025-03-30 · Thread · Some of you make $$$ just by bug hunting. I make mine with a hacker mindset through bug hunting—ther
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @Assass1nmarcos — 2025-03-30 14:55 UTC (2025-03-30 15:55 WAT)
@@ -1113,6 +1116,52 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 45, impression 13354, like 117, quote 4, reply 6, retweet 7
 
 > Some of you make $$$ just by bug hunting. I make mine with a hacker mindset through bug hunting—there’s a difference. If you’re only chasing bugs without that mindset, you won’t last. Give up now and prep for a 9-5 job interview. It’s better than trying to ride two boats at once.
+
+
+### Thread part 2 — @Assass1nmarcos — 2025-03-30 14:55 UTC (2025-03-30 15:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1906359735130984532
+- Metrics (at fetch): bookmark 0, impression 1563, like 17, quote 0, reply 1, retweet 1
+
+> Those so-called 'bug bounty courses' ( most of them are scams) might get you a lucky payout at first. You’ll think you’re a hacker—nah, you’re just a script kiddie. That’ll dry up quick, and I’ll see you in a 9-5 gig in 2-3 years. I’ve been in bug bounties for 9-10 years,
+
+
+### Thread part 3 — @Assass1nmarcos — 2025-03-30 14:55 UTC (2025-03-30 15:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1906359739392405993
+- Metrics (at fetch): bookmark 1, impression 1241, like 16, quote 0, reply 2, retweet 1
+
+> Now doing private pentests, not just hunting bugs. I’ve got clients worldwide. My curiosity and hacker mindset keep me going. This is a reality check for newbies and script kiddies.If you jumped into bug bounties after seeing $$$$ screenshots, bought a courseand started hunting-
+
+
+### Thread part 4 — @Assass1nmarcos — 2025-03-30 14:55 UTC (2025-03-30 15:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1906359743603421233
+- Metrics (at fetch): bookmark 0, impression 1137, like 9, quote 1, reply 1, retweet 1
+
+> -quit it, bro. If you’re not curious or eager to figure out how stuff works, you’ll burn out  and exhaust fast without passion. 
+>
+> Also now
+> You all know there’s a new competitor AI out there now—it won’t beat human brains, but it’ll outdo script kiddies for sure.
+
+
+### Thread part 5 — @Assass1nmarcos — 2025-03-30 14:55 UTC (2025-03-30 15:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1906359747785183530
+- Metrics (at fetch): bookmark 0, impression 1263, like 7, quote 0, reply 1, retweet 0
+
+> Either way, same ending: I’ll find you in a 9-5 job later. Some 9-5s are good, with companies that care about work-life balance, but you won’t land those without real skills. And you’ll never get there with a bug bounty course from some XYZ. Bitter reality."
+
+
+### Thread part 6 — @Assass1nmarcos — 2025-03-30 14:55 UTC (2025-03-30 15:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1906359751631380840
+- Metrics (at fetch): bookmark 1, impression 1354, like 19, quote 0, reply 2, retweet 1
+
+> So it's better to sharpen you skills and be passionate about it if you are into bug hunting, be ready for exhaustion but with a comeback mindset.
+> Don't be S-kiddie via buying a course and finding open redirect then write "I hacked N@#A (everyone knows what I wrote).
+>
+> Peace Out ✌️
 
 
 ---
@@ -1276,7 +1325,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-08-13 · Post · "Unveiled a critical admin panel vulnerability, securing a $3,500 bounty! 🛡️ Explore the full breakd
+## 2024-08-13 · Thread · "Unveiled a critical admin panel vulnerability, securing a $3,500 bounty! 🛡️ Explore the full breakd
 
 
 ### Post — @Assass1nmarcos — 2024-08-13 17:54 UTC (2024-08-13 18:54 WAT)
@@ -1285,10 +1334,20 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 187, impression 34382, like 296, quote 4, reply 11, retweet 46
 
 > "Unveiled a critical admin panel vulnerability, securing a $3,500 bounty! 🛡️ Explore the full breakdown in my latest blog : 
-> https://t.co/7ToAknxKBr
+> https://medium.com/@noob.assassin/breaking-the-barrier-admin-panel-takeover-worth-3500-78da79089ca3
 >
 > CC: @_rajesh_ranjan_
 >  #CyberSecurity #BugBounty #EthicalHacking #WebSecurity #Infosec #VulnerabilityResearch
+
+**Links in post:** https://medium.com/@noob.assassin/breaking-the-barrier-admin-panel-takeover-worth-3500-78da79089ca3
+
+
+### Thread part 2 — @Assass1nmarcos — 2024-08-13 17:58 UTC (2024-08-13 18:58 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1823418897459970203
+- Metrics (at fetch): bookmark 0, impression 957, like 4, quote 0, reply 0, retweet 0
+
+> @HarshDRanjan1 @ADITYASHENDE17 @ThisIsDK999 @roohaa_n @errorsec_
 
 
 ---
@@ -1327,7 +1386,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-04-05 · Post · Before DM someone and saying  I am intrested in bug bounty &amp; want to find bug and start in bug b
+## 2024-04-05 · Thread · Before DM someone and saying  I am intrested in bug bounty &amp; want to find bug and start in bug b
 
 
 ### Post — @Assass1nmarcos — 2024-04-05 05:34 UTC (2024-04-05 06:34 WAT)
@@ -1337,6 +1396,32 @@ Tags (automatic): XSS
 
 > Before DM someone and saying  I am intrested in bug bounty &amp; want to find bug and start in bug bounty. Bruh that's not how things work,
 > there are many great hackers/mentors published there blogs for getting start in Bug bounties and their research for community.
+
+
+### Thread part 2 — @Assass1nmarcos — 2024-04-05 05:34 UTC (2024-04-05 06:34 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1776121240803332513
+- Metrics (at fetch): bookmark 0, impression 217, like 1, quote 0, reply 1, retweet 0
+
+> There are plenty of resources available publicly on internet for clearing basics.
+> If you are really intrested in bug bounty your curiosity is the only thing can help you in basic " How the heck this thing works?"
+> So my dear Beginners before sliding into dm ...
+
+
+### Thread part 3 — @Assass1nmarcos — 2024-04-05 05:34 UTC (2024-04-05 06:34 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1776121244037058935
+- Metrics (at fetch): bookmark 0, impression 389, like 1, quote 0, reply 1, retweet 0
+
+> ...for already available public resources please google that thing (the best mentor). Ands still if you can't found the resource you can DM anyone for help. But first try yourself :). If you can't able to find publicly available solution for your issue. BUG BOUNTY ISN'T FOR YOU
+
+
+### Thread part 4 — @Assass1nmarcos — 2024-04-05 05:34 UTC (2024-04-05 06:34 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1776121247652553191
+- Metrics (at fetch): bookmark 0, impression 338, like 1, quote 0, reply 0, retweet 0
+
+> #BugBounty
 
 
 ---

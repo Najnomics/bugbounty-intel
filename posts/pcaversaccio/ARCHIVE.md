@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 213
-- Conversations/threads: 202
+- Posts in this file: 216
+- Conversations/threads: 204
 - Oldest post captured: 2022-06-18
 - Newest post captured: 2026-09-03
 
@@ -1833,6 +1833,19 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
+## 2023-09-01 · Post · @zohaib__29 Well it can create additional complexity without understanding what you actually deploy 
+
+
+### Post — @pcaversaccio — 2023-09-01 11:39 UTC (2023-09-01 12:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1697574929674162347
+- Metrics (at fetch): bookmark 0, impression 241, like 3, quote 0, reply 1, retweet 0
+
+> @zohaib__29 Well it can create additional complexity without understanding what you actually deploy if you don't go down the inheritance line. Also, understanding the C3 linearisation isn't that easy (in most cases, you won't need to bother tho).
+
+
+---
+
 ## 2023-09-01 · Post · Security must be the number one priority in any smart contract developer's mindset. Thus, fuzz, inva
 
 
@@ -1868,7 +1881,23 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-08-25 · Post · So Solidity doesn't consider it a bug that when using external linked libraries, the compiler doesn'
+## 2023-08-25 · Post · @hrkrshnn @banteg External libraries should be actually encouraged to be reused by others as much as
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-08-25 10:29 UTC (2023-08-25 11:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1695020675675599200
+- Metrics (at fetch): bookmark 0, impression 325, like 3, quote 0, reply 2, retweet 0
+
+> @hrkrshnn @banteg External libraries should be actually encouraged to be reused by others as much as possible in order to reduce any on-chain bloat imo. On-chain reusability is a nice feature to have, and we don't know if there will be gas changes in the future that provide enough incentives.
+
+
+---
+
+## 2023-08-25 · Thread · So Solidity doesn't consider it a bug that when using external linked libraries, the compiler doesn'
 
 
 Tags (automatic): Smart contract / DeFi
@@ -1883,6 +1912,14 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F4XPkVzWEAAXEFV.jpg — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2023-08-25 08:24 UTC (2023-08-25 09:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1694989066704429380
+- Metrics (at fetch): bookmark 0, impression 820, like 4, quote 0, reply 0, retweet 0
+
+> We should optimise for interoperability and language agnosticism and not start implementing additional friction on a language level. This needs a broader discussion, IMHO. https://t.co/PAITL5b7q7
 
 
 ---

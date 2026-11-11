@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 91
+- Posts in this file: 93
 - Conversations/threads: 82
 - Oldest post captured: 2023-01-26
 - Newest post captured: 2026-10-19
@@ -617,7 +617,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-01-31 · Post · Recently I had the privilege of conducting a private audit with @ambitfinance
+## 2025-01-31 · Thread · Recently I had the privilege of conducting a private audit with @ambitfinance
 
 
 ### Post — @Kiki_developer — 2025-01-31 14:43 UTC (2025-01-31 15:43 WAT)
@@ -633,6 +633,16 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GimiAd0bYAIrTgx.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Kiki_developer — 2025-01-31 14:43 UTC (2025-01-31 15:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1885338169606103447
+- Metrics (at fetch): bookmark 2, impression 266, like 2, quote 0, reply 0, retweet 0
+
+> https://github.com/devNamedKiki/Audits/blob/main/Engagements/Ambit_Finance_Final_Report.pdf
+
+**Links in post:** https://github.com/devNamedKiki/Audits/blob/main/Engagements/Ambit_Finance_Final_Report.pdf
 
 
 ---
@@ -699,7 +709,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2024-07-18 · Post · I wonder how many valid findings have never made it to the sponsor of a contest because it was poorl
+## 2024-07-18 · Thread · I wonder how many valid findings have never made it to the sponsor of a contest because it was poorl
 
 
 ### Post — @Kiki_developer — 2024-07-18 18:14 UTC (2024-07-18 19:14 WAT)
@@ -710,6 +720,14 @@ Tags (automatic): Platform: Immunefi
 > I wonder how many valid findings have never made it to the sponsor of a contest because it was poorly written?
 >
 > Maybe a new bug hunting strat? 🤔
+
+
+### Thread part 2 — @Kiki_developer — 2024-07-18 18:14 UTC (2024-07-18 19:14 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1814000716866097434
+- Metrics (at fetch): bookmark 0, impression 212, like 0, quote 0, reply 0, retweet 0
+
+> Granted, there would be A LOT of junk to sift through 😂
 
 
 ---

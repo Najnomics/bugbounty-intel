@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 68
+- Posts in this file: 72
 - Conversations/threads: 63
 - Oldest post captured: 2023-08-19
 - Newest post captured: 2026-03-12
@@ -1195,6 +1195,105 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
+## 2024-07-04 · Thread · [High] Conditional contest pots are bad and stupid. 
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
+
+- URL: https://x.com/Guhu95/status/1808855240449667162
+- Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+
+> [High] Conditional contest pots are bad and stupid. 
+>
+> Problem is that skilled participation is low because of low EV.
+>
+> ## POC - Euler at @cantinaxyz
+>
+> 1. A lot of prior audits, with few findings. Even 50% of no new high means the contest EV is now 670K instead of 1.15M. But wait.. https://t.co/y927YpIo3s
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    
+    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
+    
+    > Welcome... to the new largest competition in history with @eulerfinance!
+    >
+    > 💰 $1,250,000 USDC
+    > 🗓️ May 20th - June 17th
+    > 📍 @cantinaxyz 
+    >
+    > Invite only. Don't have one? Details below: [pic.x.com/M1MtDE7XKj]
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GJM-xJIXEAAKrdp.jpg — no alt text provided by author
+    
+
+
+### Thread part 2 — @Guhu95 — 2024-07-04 23:46 UTC (2024-07-05 00:46 WAT)
+
+- URL: https://x.com/Guhu95/status/1809010913951002914
+- Metrics (at fetch): bookmark 2, impression 1569, like 5, quote 2, reply 3, retweet 0
+
+> > Projects want to maximize upside while minimizing risk
+>
+> I agree that project want to minimize risk for money. The problem is that this model is doing the opposite.
+>
+> The value for an audit is not in the bugs FOUND, but it's in the bugs NOT MISSED. Since no one knows how many there are initially, you cannot know how many SHOULD be found.
+>
+> The only thing a project can pay for is for people to LOOK long and hard. In trad audits it's via reputation based, in contest it's pot based. The higher the pot, the more skilled effort you get competing for it. 
+>
+> A simple way to think about potential improvements:
+>
+> You want winnie to hunt? There's just one winnie - so you gotta outbid everyone and everything else for his time - really simple. You didn't outbid? Winnie's bug may still be there. Rekt.
+>
+> What's worse, is that the better the codebase, the more a conditional pot reduces the effective pot! For good codebases, the model works the WORST. 
+>
+> > I'm not convinced either way that a $500k flat pot outperforms a $1mil
+>
+> Very good chance the project pays 1M but get's way less than 500K worth of value anyway. The very opposite of what they want. 
+>
+> > 0. Reliable judging. The eternal issue.
+>
+> Not gonna happen soon. Judging needs to become MUCH more expensive, independent, and standardized for it to be credibly neutral and reliable.
+>
+> > if only Low/Med are found the pot should still be ~50% of the max pot.
+>
+> That's an improvement. But the reason that works better is the same reason a flat pot will work even better. But it could be a step that helps projects adapt to the right way of thinking.
+>
+> > we frame conditional pots as a way to INCREASE your rewards, not a way to minimize them
+>
+> It matters little how YOU frame it, what matters is how the best-paid SRs perceive them. If they perceive them as low EV - they do something else instead and the bugs remain there for the blackhats to find (when TVL - their EV - is high enough).
+
+
+### Thread part 3 — @Guhu95 — 2024-07-30 23:18 UTC (2024-07-31 00:18 WAT)
+
+- URL: https://x.com/Guhu95/status/1818425938969083985
+- Metrics (at fetch): bookmark 0, impression 291, like 0, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec @0xMackenzieM @cantinaxyz You can sell due diligence info to investment funds, in exchange for locked compensation conditional on no crits.
+
+
+### Thread part 4 — @Guhu95 — 2024-07-31 03:25 UTC (2024-07-31 04:25 WAT)
+
+- URL: https://x.com/Guhu95/status/1818488251730264145
+- Metrics (at fetch): bookmark 0, impression 136, like 0, quote 0, reply 0, retweet 0
+
+> @lonelysloth_sec @0xMackenzieM @cantinaxyz I mean it's a service you (or other bug hunters) could offer.
+>
+> It's basically p2p prediction market: 
+>
+> - the LP (funds, investors, community) trust your bet on your reputation in exchange for their money. 
+>
+> - you exchange your privileged information for their money.
+
+
+---
+
 ## 2024-07-16 · Post · What technical work pays best in crypto? Maker's budget's take:
 
 
@@ -1234,48 +1333,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2024-07-04 · Post · [High] Conditional contest pots are bad and stupid. 
-
-
-Tags (automatic): Platform: Code4rena / Sherlock / Cantina
-
-
-### Post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
-
-- URL: https://x.com/Guhu95/status/1808855240449667162
-- Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
-
-> [High] Conditional contest pots are bad and stupid. 
->
-> Problem is that skilled participation is low because of low EV.
->
-> ## POC - Euler at @cantinaxyz
->
-> 1. A lot of prior audits, with few findings. Even 50% of no new high means the contest EV is now 670K instead of 1.15M. But wait.. https://t.co/y927YpIo3s
-
-**Quoted post (full text):**
-
-    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
-    
-    - URL: https://x.com/1622629804791955458/status/1770828360471507068
-    - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
-    
-    > Welcome... to the new largest competition in history with @eulerfinance!
-    >
-    > 💰 $1,250,000 USDC
-    > 🗓️ May 20th - June 17th
-    > 📍 @cantinaxyz 
-    >
-    > Invite only. Don't have one? Details below: [pic.x.com/M1MtDE7XKj]
-    
-    **Media:**
-    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GJM-xJIXEAAKrdp.jpg — no alt text provided by author
-    
-
-
----
-
-## 2024-06-07 · Post · Security platforms as chains (a 💩-post):
+## 2024-06-07 · Thread · Security platforms as chains (a 💩-post):
 
 
 Tags (automatic): Platform: Code4rena / Sherlock / Cantina
@@ -1306,6 +1364,17 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     >
     > I can point to evidence that LSW alters competition incentives without even  guaranteeing meaningful participation;
     
+
+
+### Thread part 2 — @Guhu95 — 2024-06-07 03:51 UTC (2024-06-07 04:51 WAT)
+
+- URL: https://x.com/Guhu95/status/1798925767273009249
+- Metrics (at fetch): bookmark 0, impression 874, like 13, quote 0, reply 0, retweet 0
+
+> @code4rena @sherlockdefi Points being:
+> - it's all the same trade-offs everywhere
+> - everyone has a lot to improve
+> - arguing about it is fun, and important, and what we do for a living
 
 
 ---

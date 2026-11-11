@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 64
+- Posts in this file: 66
 - Conversations/threads: 58
 - Oldest post captured: 2021-09-11
 - Newest post captured: 2026-10-28
@@ -875,11 +875,13 @@ Tags (automatic): RCE
 >
 > The bug itself wasn't complex, but since finding an RCE in an HTML parser isn’t very common, I'm quite happy with this one :D
 >
-> https://t.co/zszjkgYZrb https://t.co/Szx64N2stR
+> https://github.com/capricorn86/happy-dom/security/advisories/GHSA-96g7-g7g9-jxw8 [pic.x.com/Szx64N2stR]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gbumbh1WAAc_QZb.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/Gbumdf8WUB0M30m.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/capricorn86/happy-dom/security/advisories/GHSA-96g7-g7g9-jxw8
 
 
 ---
@@ -954,7 +956,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-05-23 · Post · I think it's time for a solution ⏰
+## 2024-05-23 · Thread · I think it's time for a solution ⏰
 
 
 ### Post — @kevin_mizu — 2024-05-23 15:28 UTC (2024-05-23 16:28 WAT)
@@ -977,6 +979,35 @@ Tags (automatic): XSS
 **Links in post:** https://mizu.re/post/twitter-eventlet-csd, https://twitter.com/kevin_mizu/status/1790035413685391775
 
 **Quoted post** 1790035413685391775: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @kevin_mizu — 2024-05-23 15:29 UTC (2024-05-23 16:29 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1793665584955351294
+- Metrics (at fetch): bookmark 0, impression 950, like 3, quote 0, reply 1, retweet 0
+
+> Again, congratz to all the solvers 🔥
+>
+> - @Alex_ctf_ 🏆
+> - @Satoooon1024 🥈
+> - @hulitw and @BrunoModificato 🥉
+> - @BitK_
+> - @frevadiscor89
+> - @parrot409
+> - @ldionmarcil
+> - @taramtrampam
+>
+> 2/2
+
+
+### Thread part 3 — @kevin_mizu — 2024-05-23 18:11 UTC (2024-05-23 19:11 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1793706425824252220
+- Metrics (at fetch): bookmark 0, impression 283, like 3, quote 0, reply 0, retweet 0
+
+> @S1r1u5_ Thanks 🙏
+>
+> I'll try to come up with more challenges in the upcoming month :p
 
 
 ---

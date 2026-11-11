@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 149
-- Conversations/threads: 134
+- Posts in this file: 161
+- Conversations/threads: 135
 - Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-10
 
@@ -2995,7 +2995,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-01-29 · Post · Nobody: what is the most time you ever spent on a vuln/PoC?
+## 2025-01-29 · Thread · Nobody: what is the most time you ever spent on a vuln/PoC?
 
 
 ### Post — @lonelysloth_sec — 2025-01-29 00:10 UTC (2025-01-29 01:10 WAT)
@@ -3010,6 +3010,26 @@ Tags (automatic): Platform: Immunefi
 > Just realized there’s a fix to an issue I’m still trying to bypass two years later. Spent a whole week on it earlier in January. 
 >
 > I’m never sure if being stubborn is a super power or a weakness.
+
+
+### Thread part 2 — @lonelysloth_sec — 2025-01-29 00:12 UTC (2025-01-29 01:12 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1884394226143879463
+- Metrics (at fetch): bookmark 1, impression 1312, like 20, quote 0, reply 3, retweet 1
+
+> Early ‘23 I submitted a bug, and project deployed various mitigations that defeated my original PoC.
+>
+> I’m pretty sure they can all be bypassed — but I’ve been trying for  two years without success.
+>
+> Sometimes I wake up in the middle of the night and start having ideas about it.
+
+
+### Thread part 3 — @lonelysloth_sec — 2025-01-29 00:16 UTC (2025-01-29 01:16 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1884395138073649237
+- Metrics (at fetch): bookmark 1, impression 1082, like 14, quote 0, reply 3, retweet 0
+
+> Yes. I know I have issues.
 
 
 ---
@@ -3098,6 +3118,105 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
+## 2024-07-30 · Thread · @Guhu95 @0xMackenzieM @cantinaxyz This
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
+
+- URL: https://x.com/Guhu95/status/1808855240449667162
+- Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+
+> [High] Conditional contest pots are bad and stupid. 
+>
+> Problem is that skilled participation is low because of low EV.
+>
+> ## POC - Euler at @cantinaxyz
+>
+> 1. A lot of prior audits, with few findings. Even 50% of no new high means the contest EV is now 670K instead of 1.15M. But wait.. https://t.co/y927YpIo3s
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    
+    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
+    
+    > Welcome... to the new largest competition in history with @eulerfinance!
+    >
+    > 💰 $1,250,000 USDC
+    > 🗓️ May 20th - June 17th
+    > 📍 @cantinaxyz 
+    >
+    > Invite only. Don't have one? Details below: [pic.x.com/M1MtDE7XKj]
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GJM-xJIXEAAKrdp.jpg — no alt text provided by author
+    
+
+
+### Post — @lonelysloth_sec — 2024-07-30 16:10 UTC (2024-07-30 17:10 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1818318308552417689
+- Metrics (at fetch): bookmark 1, impression 1244, like 4, quote 2, reply 1, retweet 0
+
+> @Guhu95 @0xMackenzieM @cantinaxyz This
+>
+> “The value for an audit is not in the bugs FOUND, but it's in the bugs NOT MISSED. Since no one knows how many there are initially, you cannot know how many SHOULD be found.”
+
+
+### Thread part 2 — @lonelysloth_sec — 2024-07-30 16:13 UTC (2024-07-30 17:13 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1818319024440463647
+- Metrics (at fetch): bookmark 1, impression 755, like 13, quote 0, reply 2, retweet 0
+
+> @Guhu95 @0xMackenzieM @cantinaxyz Recently I spent several weeks in a BBP throughly reviewing a gigantic code base that implemented something incredibly hard.
+>
+> Zero bugs found. Zero reports submitted.
+>
+> Nobody saw all my hard work. Project might be thinking nobody cares.
+>
+> I make no money for all my effort.
+
+
+### Thread part 3 — @lonelysloth_sec — 2024-07-30 16:16 UTC (2024-07-30 17:16 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1818319720812278176
+- Metrics (at fetch): bookmark 0, impression 7910, like 15, quote 2, reply 5, retweet 0
+
+> @Guhu95 @0xMackenzieM @cantinaxyz Yes. That’s part of the game I signed up for.
+>
+> But I keep wondering if some of that value could be captured — rewarding srs for their time, and providing info for projects.
+>
+> What if I could bet *my* money nobody will find a critical in the next X months?
+
+
+### Thread part 4 — @lonelysloth_sec — 2024-07-30 16:28 UTC (2024-07-30 17:28 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1818322746230943960
+- Metrics (at fetch): bookmark 0, impression 214, like 2, quote 0, reply 1, retweet 0
+
+> @thisvishalsingh @Guhu95 @0xMackenzieM @cantinaxyz When people find bugs afterwards I try very hard not to be upset and fail lol
+>
+> It happens. But likelihood of criticals being found is lower in projects I looked at. Not zero, but somewhat lower.
+>
+> That is invisible value, not captured or measured.
+
+
+### Thread part 5 — @lonelysloth_sec — 2024-07-31 02:07 UTC (2024-07-31 03:07 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1818468557841391682
+- Metrics (at fetch): bookmark 0, impression 277, like 0, quote 0, reply 1, retweet 0
+
+> @Guhu95 @0xMackenzieM @cantinaxyz You mean that’s a thing already, or is it something you believe could be negotiated?
+
+
+---
+
 ## 2024-07-29 · Post · Check out my profile on @immunefi
 
 
@@ -3132,7 +3251,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 ---
 
-## 2024-07-05 · Post · Most high paying bugs are relatively simple.
+## 2024-07-05 · Thread · Most high paying bugs are relatively simple.
+
+
+Tags (automatic): Smart contract / DeFi, ZK
 
 
 ### Post — @lonelysloth_sec — 2024-07-05 16:59 UTC (2024-07-05 17:59 WAT)
@@ -3145,6 +3267,74 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 > Sometimes it’s not even hidden.
 >
 > The highest paid bounty I ever got was for a bug almost identical to one the same project had disclosed several months before — and also similar to one that had been exploited recently
+
+
+### Thread part 2 — @lonelysloth_sec — 2024-07-05 17:03 UTC (2024-07-05 18:03 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1809271835273711863
+- Metrics (at fetch): bookmark 7, impression 1263, like 19, quote 0, reply 1, retweet 1
+
+> It was basically just sending tokens before calling the contract.
+>
+> On the other hand the most complex Solidity bug I ever found was paid half the amount.
+>
+> It involved 3 reentrancies in two contracts, flash loans, and resetting a vault share
+>
+> Unfortunately I can’t disclose either
+
+
+### Thread part 3 — @lonelysloth_sec — 2024-07-05 17:14 UTC (2024-07-05 18:14 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1809274588918137082
+- Metrics (at fetch): bookmark 7, impression 1839, like 22, quote 0, reply 2, retweet 0
+
+> A recent ZK bug that involved both circuit constraints AND elliptic curve bilinear grouping algebra, basically making me learn every detail about PLONK to exploit it — got me just 10% of the bounty for the lame copy n paste Solidity bug.
+
+
+### Thread part 4 — @lonelysloth_sec — 2024-07-05 17:16 UTC (2024-07-05 18:16 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1809275161226670437
+- Metrics (at fetch): bookmark 12, impression 2235, like 53, quote 0, reply 3, retweet 3
+
+> Im not telling you to stop studying the hard stuff.
+>
+> Just never tell yourself “oh they would never make such a basic mistake”
+>
+> Yes they would.
+>
+> They did already.
+>
+> And they will do the exactly same thing again.
+
+
+### Thread part 5 — @lonelysloth_sec — 2024-07-05 17:46 UTC (2024-07-05 18:46 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1809282743341089271
+- Metrics (at fetch): bookmark 0, impression 412, like 10, quote 0, reply 1, retweet 1
+
+> @ProofOf_Podcast For sure the likelihood decreases with more investment but it still happens.
+>
+> Often the “silly” bugs just go hide in more obscure places.
+>
+> Just a couple months ago Sei paid 2M bc you could just “send” a negative amount of tokens to someone
+>
+> Bugs like that have been around forever
+
+
+### Thread part 6 — @lonelysloth_sec — 2024-07-05 18:48 UTC (2024-07-05 19:48 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1809298217793933605
+- Metrics (at fetch): bookmark 3, impression 367, like 12, quote 0, reply 1, retweet 0
+
+> @ProofOf_Podcast That’s not to say it’s easy to find the “easy” bugs.
+>
+> It takes some luck.
+>
+> But luck is just a matter of trying more times.
+>
+> If you work hard enough long enough your chances of getting lucky approach 100%.
+>
+> That works for pretty much anything.
 
 
 ---

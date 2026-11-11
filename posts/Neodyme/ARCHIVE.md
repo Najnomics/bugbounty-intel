@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
+- Posts in this file: 62
 - Conversations/threads: 49
 - Oldest post captured: 2021-12-03
 - Newest post captured: 2026-04-17
@@ -579,7 +579,7 @@ Tags (automatic): Path normalization
 
 ---
 
-## 2024-05-14 · Post · In collaboration with @cirosec, we've identified several privilege escalation vulnerabilities in mul
+## 2024-05-14 · Thread · In collaboration with @cirosec, we've identified several privilege escalation vulnerabilities in mul
 
 
 ### Post — @Neodyme — 2024-05-14 13:16 UTC (2024-05-14 14:16 WAT)
@@ -592,6 +592,22 @@ Tags (automatic): Path normalization
 > Our secret? A novel attack surface: COM hijacking 🔥
 >
 > 1/2
+
+
+### Thread part 2 — @Neodyme — 2024-05-14 13:16 UTC (2024-05-14 14:16 WAT)
+
+- URL: https://x.com/Neodyme/status/1790370532908511690
+- Metrics (at fetch): bookmark 0, impression 689, like 9, quote 0, reply 3, retweet 2
+
+> So far, the following CVEs have been published and promptly addressed by the vendors:
+>
+> - CVE-2023-6154 (BitDefender)
+> - CVE-2024-24912 (CheckPoint)
+> - CVE-2023-7241 (Webroot)
+>
+> Curious? Stay tuned for our conference talks (tba) and in-depth technical blogposts!
+>
+> 2/2
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 176
+- Posts in this file: 178
 - Conversations/threads: 176
 - Oldest post captured: 2021-08-17
 - Newest post captured: 2026-11-04
@@ -1945,7 +1945,7 @@ Tags (automatic): SQL injection
 
 ---
 
-## 2023-11-06 · Post · This is a valid P4 in bugcrowd VRT
+## 2023-11-06 · Thread · This is a valid P4 in bugcrowd VRT
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -1975,6 +1975,22 @@ Tags (automatic): Platform: Bugcrowd
     
     **Quoted post** 1720314810686943680: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @krishnsec — 2023-11-06 10:04 UTC (2023-11-06 11:04 WAT)
+
+- URL: https://x.com/krishnsec/status/1721468482317894107
+- Metrics (at fetch): bookmark 0, impression 431, like 2, quote 0, reply 0, retweet 0
+
+> @RootxRavi 😂
+
+
+### Thread part 3 — @krishnsec — 2023-11-06 10:08 UTC (2023-11-06 11:08 WAT)
+
+- URL: https://x.com/krishnsec/status/1721469504738255250
+- Metrics (at fetch): bookmark 0, impression 227, like 0, quote 0, reply 0, retweet 0
+
+> @RootxRavi @3ncryptSaan 😂
 
 
 ---

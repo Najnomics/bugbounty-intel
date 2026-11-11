@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 79
+- Posts in this file: 87
 - Conversations/threads: 49
 - Oldest post captured: 2018-11-14
 - Newest post captured: 2026-09-16
@@ -791,7 +791,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2024-12-04 · Post · Sharing one of the program which has helped me with winning in Immunefi :)
+## 2024-12-04 · Thread · Sharing one of the program which has helped me with winning in Immunefi :)
 
 
 Tags (automatic): Platform: Immunefi
@@ -804,12 +804,22 @@ Tags (automatic): Platform: Immunefi
 
 > Sharing one of the program which has helped me with winning in Immunefi :)
 >
-> https://t.co/MxoojiZh92
+> https://github.com/csanuragjain/ImmunefiBugFinder
 > Search keywords over 15887 contracts in few seconds for 16 chains
 >
 > Find all Immunefi contracts having same some/bug keyword
 >
 > #bugbounty #web3 #Immunefi
+
+**Links in post:** https://github.com/csanuragjain/ImmunefiBugFinder
+
+
+### Thread part 2 — @csanuragjain — 2024-12-04 09:30 UTC (2024-12-04 10:30 WAT)
+
+- URL: https://x.com/csanuragjain/status/1864240857680859148
+- Metrics (at fetch): bookmark 2, impression 571, like 4, quote 0, reply 0, retweet 0
+
+> Main usage is if you find bug in contract A and want to find all other contracts having same bug (using some keyword)
 
 
 ---
@@ -866,7 +876,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-12-11 · Post · If you are starting with bug bounty platforms like @immunefi , no doubt, you can definitely make lif
+## 2023-12-11 · Thread · If you are starting with bug bounty platforms like @immunefi , no doubt, you can definitely make lif
 
 
 Tags (automatic): Platform: Immunefi
@@ -885,9 +895,33 @@ Tags (automatic): Platform: Immunefi
 > (1/3)
 
 
+### Thread part 2 — @csanuragjain — 2023-12-11 08:09 UTC (2023-12-11 09:09 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734123159878508633
+- Metrics (at fetch): bookmark 10, impression 1252, like 12, quote 0, reply 1, retweet 1
+
+> @immunefi 2. You should always have backup for 4-6 months and have patience. There were several months when I got nothing. 
+>
+> 3. Read reports from immunefi medium https://immunefi.medium.com/ to learn new attack vectors. @0xMackenzieM  can correct me if there are other resources as well
+> (2/3)
+
+**Links in post:** https://immunefi.medium.com/
+
+
+### Thread part 3 — @csanuragjain — 2023-12-11 08:09 UTC (2023-12-11 09:09 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734123244389634357
+- Metrics (at fetch): bookmark 3, impression 1081, like 14, quote 0, reply 0, retweet 0
+
+> @immunefi @0xMackenzieM 4. Your report could get duplicated by say few minutes. Don't get upset, there will be a time when opposite also happens :)
+>
+> 5. Try picking up projects which were updated recently. You can use filters in immunefi website or use bbp-updates channel in discord
+> (3/3)
+
+
 ---
 
-## 2023-12-11 · Post · I think an Auditor's role should be divided in 4 parts:
+## 2023-12-11 · Thread · I think an Auditor's role should be divided in 4 parts:
 
 
 ### Post — @csanuragjain — 2023-12-11 07:17 UTC (2023-12-11 08:17 WAT)
@@ -904,6 +938,65 @@ Tags (automatic): Platform: Immunefi
 >
 > #bugbounty #web3 
 > (1/1)
+
+
+### Thread part 2 — @csanuragjain — 2023-12-11 07:17 UTC (2023-12-11 08:17 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734110258723696646
+- Metrics (at fetch): bookmark 0, impression 214, like 3, quote 0, reply 1, retweet 0
+
+> Documentation Reader:
+> This user will ensure to read all documentation of the project before contest starts.
+> Note down any special conditions/features in the documentation
+> Post that this user will explain everything to rest 3 roles
+>
+> (2/6)
+
+
+### Thread part 3 — @csanuragjain — 2023-12-11 07:18 UTC (2023-12-11 08:18 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734110323940991456
+- Metrics (at fetch): bookmark 0, impression 189, like 2, quote 0, reply 1, retweet 0
+
+> Bug Hunter:
+> This user will be responsible for finding issues within the contract
+> Whenever found, POC creator user will be summoned to create POC for same and confirm/deny finding
+> This way Bug Hunter will only spend time finding issues
+>
+> (3/6)
+
+
+### Thread part 4 — @csanuragjain — 2023-12-11 07:18 UTC (2023-12-11 08:18 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734110393318899727
+- Metrics (at fetch): bookmark 0, impression 184, like 2, quote 0, reply 1, retweet 0
+
+> POC Creator:
+> This user aim is to write POC on the issues obtained from Bug Hunter
+>
+> (4/6)
+
+
+### Thread part 5 — @csanuragjain — 2023-12-11 07:18 UTC (2023-12-11 08:18 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734110441096278431
+- Metrics (at fetch): bookmark 0, impression 394, like 1, quote 0, reply 1, retweet 0
+
+> Report Writer:
+> Whenever a finding is confirmed, Report Writer user will start editing it in the report.
+> So final report delivery becomes fast
+>
+> (5/6)
+
+
+### Thread part 6 — @csanuragjain — 2023-12-11 07:18 UTC (2023-12-11 08:18 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734110483232198875
+- Metrics (at fetch): bookmark 0, impression 416, like 0, quote 0, reply 1, retweet 0
+
+> What are your views?
+>
+> (6/6)
 
 
 ---

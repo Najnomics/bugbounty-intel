@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 454
+- Posts in this file: 460
 - Conversations/threads: 454
 - Oldest post captured: 2025-02-05
 - Newest post captured: 2026-11-11
@@ -90171,7 +90171,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2025-03-20 · Post · An example of how you learn when participating in public contests and then analyzing the vulnerabili
+## 2025-03-20 · Thread · An example of how you learn when participating in public contests and then analyzing the vulnerabili
 
 
 ### Post — @anchabadze — 2025-03-20 09:41 UTC (2025-03-20 10:41 WAT)
@@ -90181,6 +90181,62 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 > An example of how you learn when participating in public contests and then analyzing the vulnerabilities you missed. 
 > 1/7🧵
+
+
+### Thread part 2 — @anchabadze — 2025-03-20 09:41 UTC (2025-03-20 10:41 WAT)
+
+- URL: https://x.com/anchabadze/status/1902656756796313696
+- Metrics (at fetch): bookmark 0, impression 46, like 1, quote 0, reply 1, retweet 0
+
+> A few months ago, I participated in an audit of a protocol that interacted with Uniswap V3. One of the HIGH vulnerabilities I missed was that the developer hardcoded one of the tokens as token1 when determining the swap direction.
+> 2/7🧵
+
+
+### Thread part 3 — @anchabadze — 2025-03-20 09:41 UTC (2025-03-20 10:41 WAT)
+
+- URL: https://x.com/anchabadze/status/1902656759010881541
+- Metrics (at fetch): bookmark 0, impression 41, like 1, quote 0, reply 1, retweet 0
+
+> This should not be done because token0 and token1 in Uniswap V3 are determined based on the lexicographical order of token addresses, meaning you can never know in advance which token will be token0 and which will be token1.
+> 3/7🧵
+
+
+### Thread part 4 — @anchabadze — 2025-03-20 09:41 UTC (2025-03-20 10:41 WAT)
+
+- URL: https://x.com/anchabadze/status/1902656761279979910
+- Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 1, retweet 0
+
+> Hardcoding token0/token1 can lead to incorrect direction determination and potential financial losses.
+> 4/7🧵
+
+
+### Thread part 5 — @anchabadze — 2025-03-20 09:41 UTC (2025-03-20 10:41 WAT)
+
+- URL: https://x.com/anchabadze/status/1902656763406512501
+- Metrics (at fetch): bookmark 0, impression 37, like 3, quote 0, reply 1, retweet 0
+
+> A few weeks ago, I was auditing another protocol that interacted with Balancer V3. The developers had hardcoded token0 and token1. I initially thought I had found a HIGH vulnerability, but I decided to check how token0 and token1 are determined in Balancer V3.
+> 5/7🧵
+
+
+### Thread part 6 — @anchabadze — 2025-03-20 09:41 UTC (2025-03-20 10:41 WAT)
+
+- URL: https://x.com/anchabadze/status/1902656765516304595
+- Metrics (at fetch): bookmark 0, impression 287, like 3, quote 0, reply 1, retweet 0
+
+> It turns out that in Balancer V3, token0, token1 (and other tokens, since Balancer V3 pools can contain more than two tokens) are determined at the moment the pool is created. Not only can they be hardcoded, but they must be hardcoded when working with Balancer V3.
+> 6/7🧵
+
+
+### Thread part 7 — @anchabadze — 2025-03-20 09:41 UTC (2025-03-20 10:41 WAT)
+
+- URL: https://x.com/anchabadze/status/1902656767693029578
+- Metrics (at fetch): bookmark 0, impression 269, like 3, quote 0, reply 1, retweet 0
+
+> Yes, I didn’t find a HIGH vulnerability, but this is exactly how you learn and progress as a security researcher. Always study the final reports of the audits you participate in.
+>
+> Good luck!
+> 7/7🧵
 
 
 ---

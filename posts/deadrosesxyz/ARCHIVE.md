@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 72
+- Posts in this file: 78
 - Conversations/threads: 68
 - Oldest post captured: 2023-03-14
 - Newest post captured: 2026-10-19
@@ -850,7 +850,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2024-01-31 · Post · 🧵Understanding Voting Escrows
+## 2024-01-31 · Thread · 🧵Understanding Voting Escrows
 
 
 ### Post — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
@@ -862,10 +862,118 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 >
 > Voting Escrows are probably one of my favourite contracts and oddly enough there's almost always multiple issues within them.
 >
-> What exactly are they? To put it simply - users lock some of their funds for a period of time. They in return receive a https://t.co/UHEUM2OBxZ
+> What exactly are they? To put it simply - users lock some of their funds for a period of time. They in return receive a balance proportional to both the deposited amount and the lock's duration.
+>
+> In fact, a user's balance at any time can be derived from the following formula: 
+>
+> (amountLocked / MAX_TIME ) * (lockEndTime - block.timestamp)
+>
+> it's that simple. However, in order to fully understand the codebase, we need to understand every single bit of it.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GFKIeT8W0AE8jln.png — no alt text provided by author
+
+
+### Thread part 2 — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1752639257527591362
+- Metrics (at fetch): bookmark 8, impression 3450, like 17, quote 0, reply 4, retweet 0
+
+> Something which seems hard to understand is the introduction of bias and slope. So what exactly are they? 
+>
+> slope is the rate per second at which a user's balance decreases. It should always be equal to:
+>
+> amountLocked / MAX_TIME
+>
+> bias is simply the user's balance at a given point. In fact, the formula I gave you earlier was the formula to calculate bias: 
+>
+> (amountLocked / MAX_TIME) * (lockEndTime - block.timestamp)
+>
+> which can be simplified to: 
+>
+> slope * (lockEndTime - block.timestamp)
+>
+> ok, but how can we derive this information from the Point struct we save? well, as long as the user has a point in the past, we can always derive their balance from the following formula:
+>
+> point.bias - point.slope * (block.timestamp - point.ts)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFKKfwDXsAABgbw.png — no alt text provided by author
+
+
+### Thread part 3 — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1752639259826143260
+- Metrics (at fetch): bookmark 7, impression 3362, like 9, quote 0, reply 2, retweet 0
+
+> so far so good.
+>
+> But here comes the tricky part - we need to track the total supply. Given that all users will have different lock durations, end times and slopes, this becomes a bit of a challenge.
+>
+> So here's the elegant solution:
+>
+> - The contract allows lock ends to be only on the exact timestamp a week ends (timestamp % 604800 == 0)
+> - Upon a user creating a lock, the contract adds their bias and slope to the global variables.
+> - Then it adds the user's slope to a mapping slopeChanges(uint256 timestamp => int256 slopeChange)
+> - Any time a week's end is crossed, it applies all the necessary slope changes (decreases the global slope)
+>
+> By doing all of the above, the contract makes sure that at all times the sum of all user balance equals exactly the total supply.
+>
+> Note: the point formula mentioned earlier, works properly to derive user balance, but it should not be used to calculate the totalSupply as it does not take into account slope changes. In order to calculate the totalSupply, we need a special function which takes into account slope changes.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFKZCDeWkAArjAE.jpg — no alt text provided by author
+
+
+### Thread part 4 — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1752639262317551689
+- Metrics (at fetch): bookmark 1, impression 2579, like 6, quote 0, reply 1, retweet 0
+
+> but what happens if a user deposits more funds or maybe extends their lock?
+>
+> well, as likely you've already guessed - new slope and bias are calculated and added to the global variables. The new slope change is also added to the mapping. 
+>
+> Old values are then simply removed/ deleted.
+
+
+### Thread part 5 — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1752639264121110900
+- Metrics (at fetch): bookmark 1, impression 2809, like 7, quote 0, reply 1, retweet 0
+
+> and that's it. We've got all the basic functionalities covered.
+>
+> you might think there isn't much room for error? well, if the code's left like that you'd be right. Most issues actually come from one of the two following reasons: 
+>
+> - adding more complex functionalities on top of these basic ones
+> - devs poorly integrating with the system as they don't fully understand it.
+
+
+### Thread part 6 — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1752639265903698374
+- Metrics (at fetch): bookmark 16, impression 7874, like 28, quote 1, reply 2, retweet 1
+
+> What could be some functionalities which often introduce more bugs? Well, to name a few: 
+>
+>  - introducing lock ownership via ERC721
+>  - allowing 'permanent' locks
+>  - allowing users to split/ merge their locks
+>  - allowing early lock withdraws
+>  - allowing delegations 
+>
+> if the protocol you're auditing is implementing any such complex logic, most likely bugs are also introduced.
+
+
+### Thread part 7 — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1752639267673657696
+- Metrics (at fetch): bookmark 6, impression 6892, like 32, quote 1, reply 1, retweet 1
+
+> during the past few months, I've found multiple vulnerabilities in live Voting Escrow projects, all resulting from poor integration with the system.
+>
+> I'll soon write a thread containing the most popular bugs when it comes down to codebases integrating with a Voting Escrow ✌️
 
 
 ---
