@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 166
-- Conversations/threads: 159
-- Oldest post captured: 2016-07-29
+- Posts in this file: 252
+- Conversations/threads: 245
+- Oldest post captured: 2016-05-10
 - Newest post captured: 2026-11-09
 
 
@@ -1523,6 +1523,109 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2023-11-17 · Post · it’s approaching the end of the year  so bug bounty programs will begin to slow down. Delayed respon
+
+
+### Post — @zseano — 2023-11-17 13:19 UTC (2023-11-17 14:19 WAT)
+
+- URL: https://x.com/zseano/status/1725503976160772532
+- Metrics (at fetch): not returned
+
+> it’s approaching the end of the year  so bug bounty programs will begin to slow down. Delayed responses, delayed payouts, no new scope etc. 
+>
+> have some patience over the next 2 months and stay sane 🫡
+
+
+---
+
+## 2023-09-18 · Post · Is it just me who hears “hackerone 2 twitch” 😂 who’s testing on twitch 🙈 https://twitter.com/JakeSuc
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2023-09-18 19:47 UTC (2023-09-18 20:47 WAT)
+
+- URL: https://x.com/zseano/status/1703858389258740204
+- Metrics (at fetch): not returned
+
+> Is it just me who hears “hackerone 2 twitch” 😂 who’s testing on twitch 🙈 https://twitter.com/JakeSucky/status/1703793123116388443
+
+**Links in post:** https://twitter.com/JakeSucky/status/1703793123116388443
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2537825904 — 2023-09-18 15:28 UTC (2023-09-18 16:28 WAT)
+    
+    - URL: https://x.com/2537825904/status/1703793123116388443
+    - Metrics (at fetch): not returned
+    
+    > A mysterious donor is going around and trolling Twitch streamers with millions of dollars in donations [pic.x.com/VFpDXXWsQI]
+    
+    **Media:**
+    - media `7_1703792923492663296` (details not returned by the API)
+    
+
+
+---
+
+## 2023-08-09 · Post · Over $2million paid out in total at H1702 :D well done everyone, it was an amazing event! 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2023-08-09 12:57 UTC (2023-08-09 13:57 WAT)
+
+- URL: https://x.com/zseano/status/1689259653249556480
+- Metrics (at fetch): not returned
+
+> Over $2million paid out in total at #H1702 :D well done everyone, it was an amazing event! 
+>
+> Am I going to take a break? Probably not, i'm addicted to finding bugs ._.
+>
+> bug bounties = life changing. thx again @Hacker0x01 for hosting these events. HACKERS &lt;3 HACKERONE [pic.x.com/8w9XkTLsit]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3FzgRnWcAAtuso.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-08 · Post · Proud mentor moment!! I met @pdstat almost a year ago and I could see from triaging his reports that
+
+
+### Post — @zseano — 2023-08-08 20:54 UTC (2023-08-08 21:54 WAT)
+
+- URL: https://x.com/zseano/status/1689017372001132544
+- Metrics (at fetch): not returned
+
+> Proud mentor moment!! I met @pdstat almost a year ago and I could see from triaging his reports that he was talented with his approach. His hard work has paid off with a $13,000 bounty! So happy for you! &lt;3
+>
+> Proof that anything is possible if you put your mind to it :-) [pic.x.com/DD1VvxJowQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3CWcxGWMAEprY1.png — no alt text provided by author
+
+
+---
+
+## 2023-05-11 · Post · Can’t wait til I can leave community notes on fake bug bounty tips 🙈🙈 [pic.x.com/uW38vwg2qm]
+
+
+### Post — @zseano — 2023-05-11 11:33 UTC (2023-05-11 12:33 WAT)
+
+- URL: https://x.com/zseano/status/1656623469679738882
+- Metrics (at fetch): not returned
+
+> Can’t wait til I can leave community notes on fake bug bounty tips 🙈🙈 [pic.x.com/uW38vwg2qm]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv2CQ0KWwAIO2wY.jpg — no alt text provided by author
+
+
+---
+
 ## 2021-03-04 · Post · Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
 
 
@@ -2096,6 +2199,202 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EXgu64BWoAMuUf_.png — no alt text provided by author
+
+
+---
+
+## 2020-05-05 · Post · Fantastic read on ssrf from @d0nutptr , bookmark this and really absorb the info provided. (And ofc 
+
+
+Tags (automatic): SSRF
+
+
+### Post — @zseano — 2020-05-05 14:57 UTC (2020-05-05 15:57 WAT)
+
+- URL: https://x.com/zseano/status/1257685768316891137
+- Metrics (at fetch): bookmark 63, impression 0, like 155, quote 2, reply 1, retweet 42
+
+> Fantastic read on ssrf from @d0nutptr , bookmark this and really absorb the info provided. (And ofc follow the legend if you don’t already!) https://t.co/JmSDWSSCJG
+
+
+---
+
+## 2020-05-04 · Post · I love that everyone's hot on the recon game, ya'll leaving the main web app fresh for me to poke at
+
+
+### Post — @zseano — 2020-05-04 14:28 UTC (2020-05-04 15:28 WAT)
+
+- URL: https://x.com/zseano/status/1257316268429869066
+- Metrics (at fetch): bookmark 2, impression 0, like 174, quote 0, reply 18, retweet 6
+
+> I love that everyone's hot on the recon game, ya'll leaving the main web app fresh for me to poke at ;) keep scanning for them subdomains please:P
+
+
+---
+
+## 2020-05-03 · Post · drives me insane when a site doesn't work properly.. console errors, JS functions missing.. yet they
+
+
+### Post — @zseano — 2020-05-03 14:02 UTC (2020-05-03 15:02 WAT)
+
+- URL: https://x.com/zseano/status/1256947268311232514
+- Metrics (at fetch): bookmark 0, impression 0, like 138, quote 0, reply 5, retweet 5
+
+> drives me insane when a site doesn't work properly.. console errors, JS functions missing.. yet they're asking me to try find bugs. Entire site is a bug .. lol
+
+
+---
+
+## 2020-04-14 · Post · So close yet so far with a bug.. maybe it’s not a bug &amp; im overthinking it... maybe I’m closer t
+
+
+### Post — @zseano — 2020-04-14 20:38 UTC (2020-04-14 21:38 WAT)
+
+- URL: https://x.com/zseano/status/1250161421599551488
+- Metrics (at fetch): bookmark 0, impression 0, like 46, quote 0, reply 2, retweet 0
+
+> So close yet so far with a bug.. maybe it’s not a bug &amp; im overthinking it... maybe I’m closer than I think. All I know is I’ve spent too long on this today that when I look at it nothing makes sense now 😂
+
+
+---
+
+## 2020-04-06 · Post · For the newcomers: don’t forget it’s not all about Hackerone &amp; Bugcrowd! @intigriti and @yesweha
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @zseano — 2020-04-06 12:37 UTC (2020-04-06 13:37 WAT)
+
+- URL: https://x.com/zseano/status/1247141457326231552
+- Metrics (at fetch): bookmark 18, impression 0, like 202, quote 0, reply 15, retweet 19
+
+> For the newcomers: don’t forget it’s not all about Hackerone &amp; Bugcrowd! @intigriti and @yeswehack have some awesome programs on them as well 😘
+
+
+---
+
+## 2020-04-05 · Post · An old gem from years ago for the new comers: If you have self XSS and thinking 'what can i do?', he
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2020-04-05 13:11 UTC (2020-04-05 14:11 WAT)
+
+- URL: https://x.com/zseano/status/1246787551526031362
+- Metrics (at fetch): bookmark 54, impression 0, like 195, quote 1, reply 2, retweet 56
+
+> An old gem from years ago for the new comers: If you have self XSS and thinking 'what can i do?', here is a brilliant writeup from @fin1te on how he turned self xss into good xss on Uber :)
+>
+> https://t.co/ngvML404XF
+
+
+---
+
+## 2020-04-04 · Post · Here is the old bug I just referenced on my talk that I disclosed that allowed me to bypass verifica
+
+
+### Post — @zseano — 2020-04-04 19:47 UTC (2020-04-04 20:47 WAT)
+
+- URL: https://x.com/zseano/status/1246524827827163137
+- Metrics (at fetch): bookmark 69, impression 0, like 276, quote 3, reply 2, retweet 78
+
+> Here is the old bug I just referenced on my talk that I disclosed that allowed me to bypass verification on a bug bounty program
+>
+> https://t.co/JXe5tl1zZY
+>
+> @ngalongc also just found similar on Shopify and got a VERY nice bounty ;)
+
+
+---
+
+## 2020-03-10 · Post · Why are companies not pro-active with our bug reports :(  I reported a bug to modify anyone's accoun
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @zseano — 2020-03-10 11:41 UTC (2020-03-10 12:41 WAT)
+
+- URL: https://x.com/zseano/status/1237342717379858434
+- Metrics (at fetch): bookmark 3, impression 0, like 49, quote 0, reply 6, retweet 1
+
+> Why are companies not pro-active with our bug reports :(  I reported a bug to modify anyone's account info via IDOR (integer value). It was fixed this morning but there is another request with SAME param to delete account info.. vuln to same IDOR. Sighhhhhhh
+
+
+---
+
+## 2020-03-09 · Post · 'The unexpected Google wide domain check bypass' by @xdavidhu: https://t.co/ZX75HEx6Jl - Fantastic w
+
+
+### Post — @zseano — 2020-03-09 16:30 UTC (2020-03-09 17:30 WAT)
+
+- URL: https://x.com/zseano/status/1237053203163877377
+- Metrics (at fetch): bookmark 45, impression 0, like 195, quote 2, reply 2, retweet 57
+
+> 'The unexpected Google wide domain check bypass' by @xdavidhu: https://t.co/ZX75HEx6Jl - Fantastic writeup and proof that reading .js files pays off :D
+
+
+---
+
+## 2020-03-03 · Post · messing with some functionality for IDOR for past 2 days and I just noticed info is actually leaked 
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @zseano — 2020-03-03 17:19 UTC (2020-03-03 18:19 WAT)
+
+- URL: https://x.com/zseano/status/1234891135195238401
+- Metrics (at fetch): bookmark 2, impression 0, like 24, quote 0, reply 2, retweet 1
+
+> messing with some functionality for IDOR for past 2 days and I just noticed info is actually leaked on mobile app (shows 'null' on desktop). No idea how i managed to do this, can't repo no matter how hard i try -.- been thru all my old requests, nothing working. argh https://t.co/A7quKROw2A
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2020-02-05 · Post · things are awfully quiet over on @Bugcrowd, last invite was almost 4months ago on October 9th :/
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2020-02-05 12:02 UTC (2020-02-05 13:02 WAT)
+
+- URL: https://x.com/zseano/status/1225027021681590272
+- Metrics (at fetch): not returned
+
+> things are awfully quiet over on @Bugcrowd, last invite was almost 4months ago on October 9th :/
+
+
+---
+
+## 2020-01-26 · Post · GET /example?param=test .. nothing interesting happened, not vuln to XSS. (&lt;&gt; " was filtered) 
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2020-01-26 17:37 UTC (2020-01-26 18:37 WAT)
+
+- URL: https://x.com/zseano/status/1221487298950455299
+- Metrics (at fetch): not returned
+
+> GET /example?param=test .. nothing interesting happened, not vuln to XSS. (&lt;&gt; " was filtered) 
+>
+> but if I change it to POST it's reflected as value=\"test\" 
+>
+> POST /example#xss
+> param=test+onfocus='alert(0)'id='xss'
+>
+> ..and I can haz XSS bypassing their 'filter' [pic.x.com/RjRzccus5J]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EPOYOTLXsAAtccr.png — no alt text provided by author
 
 
 ---
@@ -3067,3 +3366,1130 @@ Tags (automatic): XSS
     **Media:**
     - media `3_759088244013268993` (details not returned by the API)
     
+
+
+---
+
+## 2016-07-29 · Post · Who decides bounty amount on managed @Bugcrowd programs? I asked @samhouston but no reply :(
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-07-29 16:55 UTC (2016-07-29 17:55 WAT)
+
+- URL: https://x.com/zseano/status/759069778141118464
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Who decides bounty amount on managed @Bugcrowd programs? I asked @samhouston but no reply :(
+
+
+---
+
+## 2016-07-27 · Post · Bounty program taking months to pay? @caseyjohnellis sums it up ;) https://t.co/CX0KlwOPTv
+
+
+### Post — @zseano — 2016-07-27 23:41 UTC (2016-07-28 00:41 WAT)
+
+- URL: https://x.com/zseano/status/758447323080957952
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> Bounty program taking months to pay? @caseyjohnellis sums it up ;) https://t.co/CX0KlwOPTv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CoaLwGKXgAEijxF.jpg — no alt text provided by author
+
+
+---
+
+## 2016-07-26 · Post · Nice 10+ bugs marked to unresolved on Bugcrowd today :D now we just await $bounty.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-07-26 21:43 UTC (2016-07-26 22:43 WAT)
+
+- URL: https://x.com/zseano/status/758055202306097152
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> Nice 10+ bugs marked to unresolved on Bugcrowd today :D now we just await $bounty.
+
+
+---
+
+## 2016-07-25 · Post · Kinda cool seeing dupes go towards priv invites on bugcrowd.  https://t.co/OZs1nyQ45b
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-07-25 19:54 UTC (2016-07-25 20:54 WAT)
+
+- URL: https://x.com/zseano/status/757665460611584000
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> Kinda cool seeing dupes go towards priv invites on bugcrowd.  https://t.co/OZs1nyQ45b
+
+**Quoted post (full text):**
+
+    #### Quoted post — @12681982 — 2016-07-25 17:19 UTC (2016-07-25 18:19 WAT)
+    
+    - URL: https://x.com/12681982/status/757626419912450048
+    - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 0, retweet 0
+    
+    > @phwd @Bugcrowd If it's any consolation, finding good valid (but dupe) bugs still shows us you've got skills. Helps w/private invites.
+    
+
+
+---
+
+## 2016-07-25 · Post · CSRF bypass? Yah. Stored persisent XSS? Yah. Target: One of the top AV companies. Bounty: no :(
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-07-25 15:53 UTC (2016-07-25 16:53 WAT)
+
+- URL: https://x.com/zseano/status/757604813366591489
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> CSRF bypass? Yah. Stored persisent XSS? Yah. Target: One of the top AV companies. Bounty: no :(
+
+
+---
+
+## 2016-07-23 · Post · This bypass is genius. Amazing work @brutelogic as always!  https://t.co/NfDrMrPpGM
+
+
+### Post — @zseano — 2016-07-23 01:58 UTC (2016-07-23 02:58 WAT)
+
+- URL: https://x.com/zseano/status/756669839394082816
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 1
+
+> This bypass is genius. Amazing work @brutelogic as always!  https://t.co/NfDrMrPpGM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @BRuteLogic — 2016-07-22 22:38 UTC (2016-07-22 23:38 WAT)
+    
+    - URL: https://x.com/BRuteLogic/status/756619494441836548
+    - Metrics (at fetch): bookmark 0, impression 0, like 15, quote 1, reply 0, retweet 7
+    
+    > Another cool #XSS Chrome Bypass tweeted now in @brutalsecrets. If you are a follower, check it out. If not check https://t.co/wnfmw4a7ue
+    
+
+
+---
+
+## 2016-07-22 · Post · Show a company your passion for hacking by writing a really good PoC for them to test out. Happy hac
+
+
+### Post — @zseano — 2016-07-22 00:11 UTC (2016-07-22 01:11 WAT)
+
+- URL: https://x.com/zseano/status/756280378193801216
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 2
+
+> Show a company your passion for hacking by writing a really good PoC for them to test out. Happy hacking followers.. get dem bugs!
+
+
+---
+
+## 2016-07-22 · Post · Be a good bug hunter: Patience (ok to ask for updates after ~1month imo if not resolved), respect, H
+
+
+### Post — @zseano — 2016-07-22 00:10 UTC (2016-07-22 01:10 WAT)
+
+- URL: https://x.com/zseano/status/756280161272758272
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 2
+
+> Be a good bug hunter: Patience (ok to ask for updates after ~1month imo if not resolved), respect, HQ reports.. and make that bug critical!
+
+
+---
+
+## 2016-07-19 · Post · Panic over... I bypassed their patch and I can now finish my PoC before letting them know I bypased 
+
+
+### Post — @zseano — 2016-07-19 11:29 UTC (2016-07-19 12:29 WAT)
+
+- URL: https://x.com/zseano/status/755364004315430913
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Panic over... I bypassed their patch and I can now finish my PoC before letting them know I bypased it. :D
+
+
+---
+
+## 2016-07-19 · Post · Still got 90% of the report written.. just wanted to finish it off by chaining another bug to make i
+
+
+### Post — @zseano — 2016-07-19 11:17 UTC (2016-07-19 12:17 WAT)
+
+- URL: https://x.com/zseano/status/755360931820015616
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Still got 90% of the report written.. just wanted to finish it off by chaining another bug to make it perfect. /cries
+
+
+---
+
+## 2016-07-19 · Post · Guess my XSS on CC page got flagged as payment page got taken down over night. I need to finish my P
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-07-19 11:17 UTC (2016-07-19 12:17 WAT)
+
+- URL: https://x.com/zseano/status/755360786856443904
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Guess my XSS on CC page got flagged as payment page got taken down over night. I need to finish my PoC :( knew I shouldn't of slept..
+
+
+---
+
+## 2016-07-18 · Post · Just finished writing up a report for stealing CC data with XSS. @brutelogic will be happy to see XS
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-07-18 15:38 UTC (2016-07-18 16:38 WAT)
+
+- URL: https://x.com/zseano/status/755064279343198209
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 2, retweet 1
+
+> Just finished writing up a report for stealing CC data with XSS. @brutelogic will be happy to see XSS being used for more than just alert ;)
+
+
+---
+
+## 2016-07-13 · Post · Bounty guys: what's the worst thing you hate about bounty programs? Please RT to get range of result
+
+
+### Post — @zseano — 2016-07-13 01:14 UTC (2016-07-13 02:14 WAT)
+
+- URL: https://x.com/zseano/status/753034790618730496
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 2
+
+> Bounty guys: what's the worst thing you hate about bounty programs? Please RT to get range of results!
+
+
+---
+
+## 2016-07-12 · Post · I see too many people testing with &lt;script&gt; before &lt;h2&gt; - script is usually filtered.. &
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-07-12 19:48 UTC (2016-07-12 20:48 WAT)
+
+- URL: https://x.com/zseano/status/752952675663220737
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 2, retweet 1
+
+> I see too many people testing with &lt;script&gt; before &lt;h2&gt; - script is usually filtered.. &lt;h2&gt; confirms if you can inject "some" type of xss.
+
+
+---
+
+## 2016-07-07 · Post · DMed company on twitter -&gt; SecurityTeam reaches out to me -&gt; Bugs reported -&gt; bugs fixed wi
+
+
+### Post — @zseano — 2016-07-07 16:31 UTC (2016-07-07 17:31 WAT)
+
+- URL: https://x.com/zseano/status/751091158856720384
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> DMed company on twitter -&gt; SecurityTeam reaches out to me -&gt; Bugs reported -&gt; bugs fixed within 1hour. Sadly no bounty but yay none the less
+
+
+---
+
+## 2016-07-02 · Post · God damn advertise you welcome security reports instead of hiding behind @Hacker0x01 private bounty.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2016-07-02 12:59 UTC (2016-07-02 13:59 WAT)
+
+- URL: https://x.com/zseano/status/749226108298690560
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 3
+
+> God damn advertise you welcome security reports instead of hiding behind @Hacker0x01 private bounty....
+
+
+---
+
+## 2016-07-01 · Post · If you work on a bug together always split the bounty. Friendship and knowledge over money.
+
+
+### Post — @zseano — 2016-07-01 15:29 UTC (2016-07-01 16:29 WAT)
+
+- URL: https://x.com/zseano/status/748901433123241984
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 1, retweet 11
+
+> If you work on a bug together always split the bounty. Friendship and knowledge over money.
+
+
+---
+
+## 2016-07-01 · Post · .@CCBillBIZ noticed you use to have a bounty (https://t.co/6RQLB36cRw). what happened to it?
+
+
+### Post — @zseano — 2016-07-01 15:20 UTC (2016-07-01 16:20 WAT)
+
+- URL: https://x.com/zseano/status/748899013009764357
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> .@CCBillBIZ noticed you use to have a bounty (https://t.co/6RQLB36cRw). what happened to it?
+
+
+---
+
+## 2016-07-01 · Post · .@CCBillBIZ xss. Can you DM me? Quite concerned there is XSS on a cc processing site.. :( https://t.
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-07-01 15:15 UTC (2016-07-01 16:15 WAT)
+
+- URL: https://x.com/zseano/status/748897930044727296
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> .@CCBillBIZ xss. Can you DM me? Quite concerned there is XSS on a cc processing site.. :( https://t.co/1E0M1I0PwC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CmSesMAXYAAUveD.jpg — no alt text provided by author
+
+
+---
+
+## 2016-06-30 · Post · Want to make a cool PoC? Use cakeslice for your input based XSS (for things like oninput=). Make exa
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-06-30 17:13 UTC (2016-06-30 18:13 WAT)
+
+- URL: https://x.com/zseano/status/748565016446668800
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Want to make a cool PoC? Use cakeslice for your input based XSS (for things like oninput=). Make example saying "Please type xxx below".
+
+
+---
+
+## 2016-06-30 · Post · .@CloudFlare WAF is wayyyy too easy to bypass there's literally no point even using it lol
+
+
+### Post — @zseano — 2016-06-30 16:40 UTC (2016-06-30 17:40 WAT)
+
+- URL: https://x.com/zseano/status/748556914892677120
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> .@CloudFlare WAF is wayyyy too easy to bypass there's literally no point even using it lol
+
+
+---
+
+## 2016-06-30 · Post · Literally amazing work by @APT1337. Write up coming soon for stealing passes on a out-of-scope bount
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2016-06-30 14:45 UTC (2016-06-30 15:45 WAT)
+
+- URL: https://x.com/zseano/status/748527832226217985
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 1
+
+> Literally amazing work by @APT1337. Write up coming soon for stealing passes on a out-of-scope bounty on @Hacker0x01 shame its out of scope
+
+
+---
+
+## 2016-06-30 · Post · No researcher wants to submit a bug and wait 10months++ just to get $100 lmfao
+
+
+### Post — @zseano — 2016-06-30 10:45 UTC (2016-06-30 11:45 WAT)
+
+- URL: https://x.com/zseano/status/748467466863546368
+- Metrics (at fetch): not returned
+
+> No researcher wants to submit a bug and wait 10months++ just to get $100 lmfao
+
+
+---
+
+## 2016-06-25 · Post · Crazy how you find one vuln third party service, quick google dork and you find ~20k vuln sites. Pat
+
+
+### Post — @zseano — 2016-06-25 19:07 UTC (2016-06-25 20:07 WAT)
+
+- URL: https://x.com/zseano/status/746781891131482112
+- Metrics (at fetch): not returned
+
+> Crazy how you find one vuln third party service, quick google dork and you find ~20k vuln sites. Patch is available, why does no-one update?
+
+
+---
+
+## 2016-06-24 · Post · I'll wait until Monday (to not ruin their weekend). Usually don't get bounty but ima ask them to don
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2016-06-24 22:12 UTC (2016-06-24 23:12 WAT)
+
+- URL: https://x.com/zseano/status/746466046270398465
+- Metrics (at fetch): not returned
+
+> I'll wait until Monday (to not ruin their weekend). Usually don't get bounty but ima ask them to donate $ to @Hacker0x01 if poss
+
+
+---
+
+## 2016-06-24 · Post · Can't thank @Hacker0x01 enough for disclosed reports. XSS fixed 2mnth ago. Saw a report that helped 
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @zseano — 2016-06-24 22:10 UTC (2016-06-24 23:10 WAT)
+
+- URL: https://x.com/zseano/status/746465654295912448
+- Metrics (at fetch): not returned
+
+> Can't thank @Hacker0x01 enough for disclosed reports. XSS fixed 2mnth ago. Saw a report that helped me bypass filter [pic.x.com/YZGTurt6AC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Clv6QdrWYAA0Fgz.jpg — no alt text provided by author
+
+
+---
+
+## 2016-06-24 · Post · Turns out the bug me and @APT1337 found today affects a third party site owned by Facebook. Thanks S
+
+
+### Post — @zseano — 2016-06-24 01:35 UTC (2016-06-24 02:35 WAT)
+
+- URL: https://x.com/zseano/status/746154778435194881
+- Metrics (at fetch): not returned
+
+> Turns out the bug me and @APT1337 found today affects a third party site owned by Facebook. Thanks Shodan :)
+
+
+---
+
+## 2016-06-23 · Post · If more companies could join @Hacker0x01/@Bugcrowd or atleast have a security@ email the internet wo
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-06-23 14:07 UTC (2016-06-23 15:07 WAT)
+
+- URL: https://x.com/zseano/status/745981640095182848
+- Metrics (at fetch): not returned
+
+> If more companies could join @Hacker0x01/@Bugcrowd or atleast have a security@ email the internet would be a better place.
+
+
+---
+
+## 2016-06-23 · Post · Site i'm testing blocked the use of "//lol.com" for a vuln. Using /\http://lol.com bypassed their fi
+
+
+### Post — @zseano — 2016-06-23 12:59 UTC (2016-06-23 13:59 WAT)
+
+- URL: https://x.com/zseano/status/745964411488174080
+- Metrics (at fetch): not returned
+
+> Site i'm testing blocked the use of "//lol.com" for a vuln. Using /\http://lol.com bypassed their filter and iframe got rendered
+
+**Links in post:** http://lol.com
+
+
+---
+
+## 2016-06-23 · Post · 8 bugs today on @Bugcrowd priv bounty (with another 7 already triaged). Awaiting payments/triage/upd
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-06-23 01:02 UTC (2016-06-23 02:02 WAT)
+
+- URL: https://x.com/zseano/status/745784000325750784
+- Metrics (at fetch): not returned
+
+> 8 bugs today on @Bugcrowd priv bounty (with another 7 already triaged). Awaiting payments/triage/updates for ~30 on @Hacker0x01. #bugbounty
+
+
+---
+
+## 2016-06-23 · Post · Just submitted this as a PoC... not trollin' honest. [pic.x.com/0yp8icSrfy]
+
+
+### Post — @zseano — 2016-06-23 00:56 UTC (2016-06-23 01:56 WAT)
+
+- URL: https://x.com/zseano/status/745782640624697344
+- Metrics (at fetch): not returned
+
+> Just submitted this as a PoC... not trollin' honest. [pic.x.com/0yp8icSrfy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ClmNTwCXEAAp9fr.jpg — no alt text provided by author
+
+
+---
+
+## 2016-06-22 · Post · 18 xss from just robots.txt, subdomain recon and google dorking. Mapped out their site pretty nicely
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-06-22 13:11 UTC (2016-06-22 14:11 WAT)
+
+- URL: https://x.com/zseano/status/745605162379640833
+- Metrics (at fetch): not returned
+
+> 18 xss from just robots.txt, subdomain recon and google dorking. Mapped out their site pretty nicely.. now the fun hacking begins :)
+
+
+---
+
+## 2016-06-22 · Post · @DarkieDuck if people are interested I may write a post about how I got 4 companies to open a bounty
+
+
+### Post — @zseano — 2016-06-22 12:09 UTC (2016-06-22 13:09 WAT)
+
+- URL: https://x.com/zseano/status/745589521429962752
+- Metrics (at fetch): not returned
+
+> @DarkieDuck if people are interested I may write a post about how I got 4 companies to open a bounty purely for me &amp; how to approach them
+
+
+---
+
+## 2016-06-21 · Post · Don't forget robots.txt usually have some interesting shit in it. 3 xss from just robots.txt. kthx
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-06-21 14:21 UTC (2016-06-21 15:21 WAT)
+
+- URL: https://x.com/zseano/status/745260405161852929
+- Metrics (at fetch): not returned
+
+> Don't forget robots.txt usually have some interesting shit in it. 3 xss from just robots.txt. kthx
+
+
+---
+
+## 2016-06-20 · Post · Just testing waters with a priv bounty on @Bugcrowd. Fingers crossed it turns out to be a good bount
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-06-20 23:27 UTC (2016-06-21 00:27 WAT)
+
+- URL: https://x.com/zseano/status/745035363257847809
+- Metrics (at fetch): not returned
+
+> Just testing waters with a priv bounty on @Bugcrowd. Fingers crossed it turns out to be a good bounty! 2 1/2wks work [pic.x.com/ZYpNQa0DsD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Clblb_-XIAAdZR3.jpg — no alt text provided by author
+
+
+---
+
+## 2016-06-18 · Post · Just to remind myself that I found a vuln affecting github (+ more inc banks) which allows me to sen
+
+
+### Post — @zseano — 2016-06-18 17:50 UTC (2016-06-18 18:50 WAT)
+
+- URL: https://x.com/zseano/status/744225843371773952
+- Metrics (at fetch): not returned
+
+> Just to remind myself that I found a vuln affecting github (+ more inc banks) which allows me to send phishin emails https://x.com/zseano/status/740204621436727296
+
+**Links in post:** https://x.com/zseano/status/740204621436727296
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zseano — 2016-06-07 15:31 UTC (2016-06-07 16:31 WAT)
+    
+    - URL: https://x.com/zseano/status/740204621436727296
+    - Metrics (at fetch): not returned
+    
+    > Interesting I can send emails from support@github.com and gets inboxed. Looks real enough right? :p [pic.x.com/nolKjg40UC]
+    
+    **Media:**
+    - media `3_740204616688754688` (details not returned by the API)
+    
+
+
+---
+
+## 2016-06-18 · Post · Does @github ever reply to their bounty@github.com email? Sent over a concern 10 days ago and heard 
+
+
+### Post — @zseano — 2016-06-18 17:49 UTC (2016-06-18 18:49 WAT)
+
+- URL: https://x.com/zseano/status/744225433827287040
+- Metrics (at fetch): not returned
+
+> Does @github ever reply to their bounty@github.com email? Sent over a concern 10 days ago and heard nothing :(
+
+
+---
+
+## 2016-06-17 · Post · Wouldn't be where I am if it wasn't for @Hacker0x01 and @Bugcrowd. I think I speak on behalf of all 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-06-17 21:26 UTC (2016-06-17 22:26 WAT)
+
+- URL: https://x.com/zseano/status/743917647419572224
+- Metrics (at fetch): not returned
+
+> Wouldn't be where I am if it wasn't for @Hacker0x01 and @Bugcrowd. I think I speak on behalf of all researchers: THANK YOU.
+
+
+---
+
+## 2016-06-16 · Post · - "Vuln is fixed, can you verify?"
+
+
+### Post — @zseano — 2016-06-16 17:58 UTC (2016-06-16 18:58 WAT)
+
+- URL: https://x.com/zseano/status/743502922336575488
+- Metrics (at fetch): not returned
+
+> - "Vuln is fixed, can you verify?"
+> -&gt; breaks 'fix' in 5mins.
+
+
+---
+
+## 2016-06-15 · Post · Bounty reward from @Bugcrowd, happy days :D just @Hacker0x01 left to find a vuln on :p
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-06-15 17:03 UTC (2016-06-15 18:03 WAT)
+
+- URL: https://x.com/zseano/status/743126738255876096
+- Metrics (at fetch): not returned
+
+> Bounty reward from @Bugcrowd, happy days :D just @Hacker0x01 left to find a vuln on :p
+
+
+---
+
+## 2016-06-11 · Post · 3 XSS, 1 interesting SWF file and 1 potential RCE (needs work). Not bad for an hour of hacking befor
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @zseano — 2016-06-11 01:29 UTC (2016-06-11 02:29 WAT)
+
+- URL: https://x.com/zseano/status/741442288119910405
+- Metrics (at fetch): not returned
+
+> 3 XSS, 1 interesting SWF file and 1 potential RCE (needs work). Not bad for an hour of hacking before bed
+
+
+---
+
+## 2016-06-09 · Post · Rarely use @Bugcrowd but managed to get 8 bugs triaged in past 7days. Not much I know, but let's see
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-06-09 18:30 UTC (2016-06-09 19:30 WAT)
+
+- URL: https://x.com/zseano/status/740974478214189058
+- Metrics (at fetch): not returned
+
+> Rarely use @Bugcrowd but managed to get 8 bugs triaged in past 7days. Not much I know, but let's see how this pans out!
+
+
+---
+
+## 2016-06-09 · Post · I keep a log of every vuln I report. Just hit 350 reported vulns in past 6months [pic.x.com/sbHXaNy0
+
+
+### Post — @zseano — 2016-06-09 17:43 UTC (2016-06-09 18:43 WAT)
+
+- URL: https://x.com/zseano/status/740962552146976769
+- Metrics (at fetch): not returned
+
+> I keep a log of every vuln I report. Just hit 350 reported vulns in past 6months [pic.x.com/sbHXaNy0dv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CkhtguHWkAAhJdV.jpg — no alt text provided by author
+
+
+---
+
+## 2016-06-09 · Post · See XSS on burp. Visit URL, no xss. *scratch head*. Realize Referer: has to include certain paramete
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-06-09 14:00 UTC (2016-06-09 15:00 WAT)
+
+- URL: https://x.com/zseano/status/740906441532379136
+- Metrics (at fetch): not returned
+
+> See XSS on burp. Visit URL, no xss. *scratch head*. Realize Referer: has to include certain parameter.. doesn't check actual domain. Pwnt.
+
+
+---
+
+## 2016-06-08 · Post · thinking you have xss then seeing content-type: text/plain. doh.
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-06-08 14:43 UTC (2016-06-08 15:43 WAT)
+
+- URL: https://x.com/zseano/status/740554848391815169
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> thinking you have xss then seeing content-type: text/plain. doh.
+
+
+---
+
+## 2016-06-07 · Post · Interesting I can send emails from support@github.com and gets inboxed. Looks real enough right? :p 
+
+
+### Post — @zseano — 2016-06-07 15:31 UTC (2016-06-07 16:31 WAT)
+
+- URL: https://x.com/zseano/status/740204621436727296
+- Metrics (at fetch): not returned
+
+> Interesting I can send emails from support@github.com and gets inboxed. Looks real enough right? :p [pic.x.com/nolKjg40UC]
+
+**Media:**
+- media `3_740204616688754688` (details not returned by the API)
+
+
+---
+
+## 2016-06-03 · Post · Cheers @Bugcrowd for emailing me fashion stuff.... https://t.co/sOSt2hQCBB
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2016-06-03 22:45 UTC (2016-06-03 23:45 WAT)
+
+- URL: https://x.com/zseano/status/738864220272533504
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> Cheers @Bugcrowd for emailing me fashion stuff.... https://t.co/sOSt2hQCBB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CkD5FAoW0AAb307.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-26 · Post · 3 xss, 1 open url redir + misconfigured fb oauth -&gt; harvest emails. 1 Blind SQL, CSRF bypass for 
+
+
+Tags (automatic): XSS, OAuth
+
+
+### Post — @zseano — 2016-05-26 14:41 UTC (2016-05-26 15:41 WAT)
+
+- URL: https://x.com/zseano/status/735843423807283205
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> 3 xss, 1 open url redir + misconfigured fb oauth -&gt; harvest emails. 1 Blind SQL, CSRF bypass for acct takeover (+more).
+
+
+---
+
+## 2016-05-25 · Post · lol I have XSS on most top 1000 alexa sites but most are either priv bounty or no security@ email. P
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-25 14:36 UTC (2016-05-25 15:36 WAT)
+
+- URL: https://x.com/zseano/status/735479750072881157
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> lol I have XSS on most top 1000 alexa sites but most are either priv bounty or no security@ email. Priv bounty with no contact = fu.
+
+
+---
+
+## 2016-05-23 · Post · Another XSS reported and fixed that affected couple hundred sites (mainly crm systems) storing sensi
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-23 22:45 UTC (2016-05-23 23:45 WAT)
+
+- URL: https://x.com/zseano/status/734877963817242628
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Another XSS reported and fixed that affected couple hundred sites (mainly crm systems) storing sensitive cust user data.
+
+
+---
+
+## 2016-05-22 · Post · Email is parsed in &lt; &gt; tags. Change email to script src and look what you get. xss https://t.
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-22 23:55 UTC (2016-05-23 00:55 WAT)
+
+- URL: https://x.com/zseano/status/734533230838337537
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Email is parsed in &lt; &gt; tags. Change email to script src and look what you get. #xss https://t.co/vqx1ZxRbA3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CjGWFLOWYAAvO8e.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-20 · Post · Going to release both my XSS findings which affect a lot of sites later today to help other research
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-20 15:56 UTC (2016-05-20 16:56 WAT)
+
+- URL: https://x.com/zseano/status/733687757957148672
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 1
+
+> Going to release both my XSS findings which affect a lot of sites later today to help other researchers. No point being greedy.
+
+
+---
+
+## 2016-05-20 · Post · .@RuneScape @Jagex interested in runescape xss? :p https://t.co/5pB4IDaZ7P
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-20 15:47 UTC (2016-05-20 16:47 WAT)
+
+- URL: https://x.com/zseano/status/733685485973975041
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> .@RuneScape @Jagex interested in runescape xss? :p https://t.co/5pB4IDaZ7P
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci6TD6aW0AAm_tQ.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-20 · Post · .@symantec XSS. Can you DM me? https://t.co/HHv9fe9D37
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-20 15:19 UTC (2016-05-20 16:19 WAT)
+
+- URL: https://x.com/zseano/status/733678480097972225
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> .@symantec XSS. Can you DM me? https://t.co/HHv9fe9D37
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci6MsIXWEAAy2ls.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-20 · Post · .@CNET xss, got a contact? https://t.co/aa09QGzwy9
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-20 15:16 UTC (2016-05-20 16:16 WAT)
+
+- URL: https://x.com/zseano/status/733677701890998272
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> .@CNET xss, got a contact? https://t.co/aa09QGzwy9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci6L-1XWkAMClv1.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-20 · Post · .@DeviantArt XSS. Got a contact to report it to? (Also over 1000 sites affected by this, another xss
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-20 15:09 UTC (2016-05-20 16:09 WAT)
+
+- URL: https://x.com/zseano/status/733676016527376386
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> .@DeviantArt XSS. Got a contact to report it to? (Also over 1000 sites affected by this, another xss 0day lol) https://t.co/TZt2kG9sSU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci6KcvKXAAIezHX.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-19 · Post · So only @ToysRUs, @CalvinKlein and @IBM haven't replied to my XSS reports. No surprise there
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-19 23:22 UTC (2016-05-20 00:22 WAT)
+
+- URL: https://x.com/zseano/status/733437592755175424
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> So only @ToysRUs, @CalvinKlein and @IBM haven't replied to my XSS reports. No surprise there
+
+
+---
+
+## 2016-05-19 · Post · .@GoDaddy rewarded for XSS already. Quickest bounty i've ever got. https://t.co/xQIaDJH2w4
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-19 16:29 UTC (2016-05-19 17:29 WAT)
+
+- URL: https://x.com/zseano/status/733333713430405120
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> .@GoDaddy rewarded for XSS already. Quickest bounty i've ever got. https://t.co/xQIaDJH2w4
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2016-05-19 · Post · .@ToysRUs XSS. Hit me up with a contact (and can I get free lego? lolol jkin) https://t.co/ula1yFICZ
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-19 15:26 UTC (2016-05-19 16:26 WAT)
+
+- URL: https://x.com/zseano/status/733317950367793152
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> .@ToysRUs XSS. Hit me up with a contact (and can I get free lego? lolol jkin) https://t.co/ula1yFICZ1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci1EyidXAAABCnD.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-19 · Post · .@CalvinKlein can I get some free boxers for finding this XSS? D: https://t.co/3qsJIGdaER
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-19 15:20 UTC (2016-05-19 16:20 WAT)
+
+- URL: https://x.com/zseano/status/733316492951969793
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> .@CalvinKlein can I get some free boxers for finding this XSS? D: https://t.co/3qsJIGdaER
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci1DdtaWEAAVGTO.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-19 · Post · .@SouthwestAir XSS. Got a contact to report it to? https://t.co/waTkeY2t0a
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-19 14:26 UTC (2016-05-19 15:26 WAT)
+
+- URL: https://x.com/zseano/status/733302747819331589
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> .@SouthwestAir XSS. Got a contact to report it to? https://t.co/waTkeY2t0a
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci029oyXEAApNJv.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-19 · Post · .@IBM XSS. Who to report to? (: https://t.co/97GOteHF9i
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-19 14:21 UTC (2016-05-19 15:21 WAT)
+
+- URL: https://x.com/zseano/status/733301649238818817
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> .@IBM XSS. Who to report to? (: https://t.co/97GOteHF9i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci019sXWkAAQ6-X.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-19 · Post · .@GoDaddy XSS. They got a bounty anyone know? https://t.co/SgQ3WwbTs7
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-19 14:03 UTC (2016-05-19 15:03 WAT)
+
+- URL: https://x.com/zseano/status/733296995155247105
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 0
+
+> .@GoDaddy XSS. They got a bounty anyone know? https://t.co/SgQ3WwbTs7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci0xux_WEAAWmqi.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-17 · Post · The only real problem I have with bug bounties is sometimes waiting 2months+ to get paid for your wo
+
+
+### Post — @zseano — 2016-05-17 14:26 UTC (2016-05-17 15:26 WAT)
+
+- URL: https://x.com/zseano/status/732577978144686080
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> The only real problem I have with bug bounties is sometimes waiting 2months+ to get paid for your work.
+
+
+---
+
+## 2016-05-13 · Post · That's another stab at facebook bug bounty.. fingerscrossed
+
+
+### Post — @zseano — 2016-05-13 19:13 UTC (2016-05-13 20:13 WAT)
+
+- URL: https://x.com/zseano/status/731200797208383489
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> That's another stab at facebook bug bounty.. #fingerscrossed
+
+
+---
+
+## 2016-05-12 · Post · Then you can drop blind xss everywhere and keep a log of everything in a nice looking dashboard
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-12 22:23 UTC (2016-05-12 23:23 WAT)
+
+- URL: https://x.com/zseano/status/730886222080581633
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Then you can drop blind xss everywhere and keep a log of everything in a nice looking dashboard
+
+
+---
+
+## 2016-05-12 · Post · 8 XSS, 4 CSRF (2 critical for account takeover), and 3 open url redirs. Sadly no SQL/RCE for today :
+
+
+Tags (automatic): XSS, Account takeover, RCE
+
+
+### Post — @zseano — 2016-05-12 00:45 UTC (2016-05-12 01:45 WAT)
+
+- URL: https://x.com/zseano/status/730559366798147584
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 1
+
+> 8 XSS, 4 CSRF (2 critical for account takeover), and 3 open url redirs. Sadly no SQL/RCE for today :(
+
+
+---
+
+## 2016-05-10 · Post · Just setup a quick easy portal to track blind xss. Submitting a hidden iframe with all my payloads..
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-10 15:31 UTC (2016-05-10 16:31 WAT)
+
+- URL: https://x.com/zseano/status/730057799124852737
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Just setup a quick easy portal to track blind xss. Submitting a hidden iframe with all my payloads... cmon baby, show me some blind xss!
+
+
+---
+
+## 2016-05-10 · Post · Since I saw that @GoDaddy blind XSS, i'm just mass injecting xss everywhere and hoping for a trigger
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2016-05-10 12:09 UTC (2016-05-10 13:09 WAT)
+
+- URL: https://x.com/zseano/status/730006881645821952
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 5
+
+> Since I saw that @GoDaddy blind XSS, i'm just mass injecting xss everywhere and hoping for a trigger one day.. #fingerscrossed

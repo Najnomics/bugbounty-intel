@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 94
-- Conversations/threads: 75
-- Oldest post captured: 2020-10-21
+- Posts in this file: 121
+- Conversations/threads: 102
+- Oldest post captured: 2019-04-14
 - Newest post captured: 2026-11-03
 
 
@@ -1655,6 +1655,24 @@ Tags (automatic): XSS
 
 ---
 
+## 2021-08-16 · Post · Yay, I was awarded a $5,000 bounty on @Hacker0x01!
+
+
+Tags (automatic): Account takeover, Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2021-08-16 17:58 UTC (2021-08-16 18:58 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1427328825503862788
+- Metrics (at fetch): bookmark 13, impression 0, like 352, quote 0, reply 18, retweet 14
+
+> Yay, I was awarded a $5,000 bounty on @Hacker0x01!
+> Bug: Account Takeover via just username
+>   #TogetherWeHitHarder
+
+
+---
+
 ## 2020-10-21 · Post · Dropping it soon ⁦@sechunt3r⁩ ⁦@Tabnexa⁩ ⁦@ADITYASHENDE17⁩ bugbountytip writeup achievementunlock
 
 
@@ -1670,3 +1688,519 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Ek2VvBBU0AANLwf.jpg — no alt text provided by author
+
+
+---
+
+## 2020-09-24 · Post · Once more🥰 When google took h1 program bounty table too seriously (looks being competitive)😂 and rew
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2020-09-24 16:54 UTC (2020-09-24 17:54 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1309174458121322497
+- Metrics (at fetch): bookmark 3, impression 0, like 87, quote 0, reply 12, retweet 3
+
+> Once more🥰 When google took h1 program bounty table too seriously (looks being competitive)😂 and reward me according to that. Reward from 500&gt;1500 just via sending references. @ADITYASHENDE17 @sechunt3r #BugBounty #BugBountyTip #hof #h1 #PenetrationTesting https://t.co/2nCluqx87b
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EisfOUmXsAI6mc1.jpg — no alt text provided by author
+
+
+---
+
+## 2020-09-18 · Post · Ok so got my first 5 digit bounty from Google 😍 bugbounty infosec Pentesting hof motivation htt
+
+
+### Post — @Assass1nmarcos — 2020-09-18 02:45 UTC (2020-09-18 03:45 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1306786438223192065
+- Metrics (at fetch): bookmark 21, impression 0, like 746, quote 6, reply 47, retweet 42
+
+> Ok so got my first 5 digit bounty from Google 😍 #bugbounty #infosec #Pentesting #hof #motivation https://t.co/GhIXDHIJu3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EiKjVWbXcAEc_Cb.jpg — no alt text provided by author
+
+
+---
+
+## 2020-09-10 · Post · Need Writeup?🤔🤔😬 https://t.co/3tADRy19xw
+
+
+### Post — @Assass1nmarcos — 2020-09-10 18:26 UTC (2020-09-10 19:26 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1304124171169837056
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 4, retweet 1
+
+> Need Writeup?🤔🤔😬 https://t.co/3tADRy19xw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Assass1nmarcos — 2020-09-10 16:03 UTC (2020-09-10 17:03 WAT)
+    
+    - URL: https://x.com/Assass1nmarcos/status/1304088018786033667
+    - Metrics (at fetch): bookmark 0, impression 0, like 42, quote 3, reply 1, retweet 7
+    
+    > Upcoming CVE from Adobe❤️ Dropping writeup soon while get approval from Vendor
+    >
+    >  #bugbountytip #bugbounty #CyberSec #infosec #CVE #bb #0day #cybersecurity #vulnerability https://t.co/k46JWz8QRB
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EhkNIjsXgAIbckM.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2020-09-10 · Post · Upcoming CVE from Adobe❤️ Dropping writeup soon while get approval from Vendor
+
+
+### Post — @Assass1nmarcos — 2020-09-10 16:03 UTC (2020-09-10 17:03 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1304088018786033667
+- Metrics (at fetch): bookmark 0, impression 0, like 42, quote 3, reply 1, retweet 7
+
+> Upcoming CVE from Adobe❤️ Dropping writeup soon while get approval from Vendor
+>
+>  #bugbountytip #bugbounty #CyberSec #infosec #CVE #bb #0day #cybersecurity #vulnerability https://t.co/k46JWz8QRB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EhkNIjsXgAIbckM.jpg — no alt text provided by author
+
+
+---
+
+## 2020-08-24 · Post · Old But Gold :p For Poc Open the thread https://t.co/PXQfhw0b6H
+
+
+### Post — @Assass1nmarcos — 2020-08-24 05:41 UTC (2020-08-24 06:41 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1297771074550022144
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Old But Gold :p For Poc Open the thread https://t.co/PXQfhw0b6H
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Assass1nmarcos — 2019-11-24 09:26 UTC (2019-11-24 10:26 WAT)
+    
+    - URL: https://x.com/Assass1nmarcos/status/1198533434148147203
+    - Metrics (at fetch): bookmark 7, impression 0, like 30, quote 2, reply 5, retweet 9
+    
+    > Here is the POC.  Of Idor which cause  recent data breach in Oneplus Webapp. reported by me to Oneplus sec. Team
+    >
+    > PS: enjhoi the moojik
+    >
+    > https://youtu.be/VTMKkPDdFGg
+    >
+    > #bugbounty #breach #Oneplus #infosec
+    
+    **Links in post:** https://youtu.be/VTMKkPDdFGg
+    
+
+
+---
+
+## 2020-06-04 · Post · Yay, I was awarded a $1,125 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2020-06-04 17:00 UTC (2020-06-04 18:00 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1268588509041836033
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,125 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2020-03-27 · Post · https://medium.com/@prial261/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2020-03-27 19:19 UTC (2020-03-27 20:19 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1243618668707106816
+- Metrics (at fetch): not returned
+
+> https://medium.com/@prial261/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229
+>
+> Credits: @prial261
+>
+> #xss
+> #bugbountytips 
+> #infosec 
+> #hacking
+> #writeup
+
+**Links in post:** https://medium.com/@prial261/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229
+
+
+---
+
+## 2020-01-01 · Post · https://strynx.org/imagemagick-rce/
+
+
+Tags (automatic): RCE
+
+
+### Post — @Assass1nmarcos — 2020-01-01 17:18 UTC (2020-01-01 18:18 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1212422945584271361
+- Metrics (at fetch): not returned
+
+> https://strynx.org/imagemagick-rce/
+>
+>  Credits: @D0rkerDevil 
+>
+> Awesome find😎
+>
+> #BugBounty #bugbountytips #infosec #RCE #hacker
+
+**Links in post:** https://strynx.org/imagemagick-rce/
+
+
+---
+
+## 2019-12-31 · Post · Private sites for bug bounty hunting.
+
+
+### Post — @Assass1nmarcos — 2019-12-31 11:53 UTC (2019-12-31 12:53 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1211978685638557697
+- Metrics (at fetch): not returned
+
+> Private sites for bug bounty hunting.
+>
+> http://Klarna.com
+> http://Prepaid2cash.com
+> http://Winscp.net
+> http://Shapesecurity.com
+> http://Apsis.com
+>
+> Inbox me for security mail of these domains
+>
+> Happy hunting
+>
+> #bugbountytips #bugbounty  #infosec  #swags
+
+**Links in post:** http://Klarna.com, http://Prepaid2cash.com, http://Winscp.net, http://Shapesecurity.com, http://Apsis.com
+
+
+---
+
+## 2019-12-11 · Post · Hey folks, one more poc of IDOR which i found on oneplus( leads to user prsonal identification docum
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @Assass1nmarcos — 2019-12-11 06:18 UTC (2019-12-11 07:18 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1204646676595527681
+- Metrics (at fetch): not returned
+
+> Hey folks, one more poc of IDOR which i found on oneplus( leads to user prsonal identification document like adhaar card,bank passbook,voter card, driving license and more.
+>
+> https://youtu.be/V6DQwXmRDko
+
+**Links in post:** https://youtu.be/V6DQwXmRDko
+
+
+---
+
+## 2019-11-26 · Post · Yay, I was awarded a $200 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-11-26 14:45 UTC (2019-11-26 15:45 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1199338347686051842
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $200 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-11-26 · Post · Yay, I was awarded a $200 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-11-26 14:44 UTC (2019-11-26 15:44 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1199338265909714947
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $200 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-11-26 · Post · Yay, I was awarded a $150 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-11-26 03:01 UTC (2019-11-26 04:01 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1199161258840182785
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $150 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-11-26 · Post · Yay, I was awarded a $250 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-11-26 03:01 UTC (2019-11-26 04:01 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1199161205488640000
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $250 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-11-24 · Post · Here is the POC.  Of Idor which cause  recent data breach in Oneplus Webapp. reported by me to Onepl
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @Assass1nmarcos — 2019-11-24 09:26 UTC (2019-11-24 10:26 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1198533434148147203
+- Metrics (at fetch): bookmark 7, impression 0, like 30, quote 2, reply 5, retweet 9
+
+> Here is the POC.  Of Idor which cause  recent data breach in Oneplus Webapp. reported by me to Oneplus sec. Team
+>
+> PS: enjhoi the moojik
+>
+> https://youtu.be/VTMKkPDdFGg
+>
+> #bugbounty #breach #Oneplus #infosec
+
+**Links in post:** https://youtu.be/VTMKkPDdFGg
+
+
+---
+
+## 2019-08-20 · Post · I earned $200 for my submission on @bugcrowd https://bugcrowd.com/aditya_assassin ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2019-08-20 12:16 UTC (2019-08-20 13:16 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1163786821488091136
+- Metrics (at fetch): not returned
+
+> I earned $200 for my submission on @bugcrowd https://bugcrowd.com/aditya_assassin #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/aditya_assassin
+
+
+---
+
+## 2019-08-13 · Post · I earned $100 for my submission on @bugcrowd https://bugcrowd.com/aditya_assassin ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2019-08-13 14:45 UTC (2019-08-13 15:45 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1161287707601047552
+- Metrics (at fetch): not returned
+
+> I earned $100 for my submission on @bugcrowd https://bugcrowd.com/aditya_assassin #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/aditya_assassin
+
+
+---
+
+## 2019-08-01 · Post · I earned $500 for my submission on @bugcrowd https://bugcrowd.com/aditya_assassin ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2019-08-01 01:18 UTC (2019-08-01 02:18 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1156735966532362241
+- Metrics (at fetch): not returned
+
+> I earned $500 for my submission on @bugcrowd https://bugcrowd.com/aditya_assassin #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/aditya_assassin
+
+
+---
+
+## 2019-07-23 · Post · Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-07-23 18:36 UTC (2019-07-23 19:36 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1153735691534127104
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-07-23 · Post · Yay, I was awarded a $450 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-07-23 18:36 UTC (2019-07-23 19:36 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1153735662593425408
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $450 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-07-23 · Post · When a company whom have 480 MILLION USD turnover and gives you this for stored XSS bug 😂😂🤣🤣🤣 :3 :3 
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2019-07-23 14:51 UTC (2019-07-23 15:51 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1153679075300429824
+- Metrics (at fetch): not returned
+
+> When a company whom have 480 MILLION USD turnover and gives you this for stored XSS bug 😂😂🤣🤣🤣 :3 :3 ..
+> #bugbounty #Paytm #paytmbugbounty
+> @vijayshekhar @Paytm  @paytm [pic.x.com/gk9IJeRUCM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EAKw_9oU8AEtAj-.jpg — no alt text provided by author
+
+
+---
+
+## 2019-07-15 · Post · @SafeHats hey safehats there is in a private bug bounty program i reported 2 high severity  bugs aft
+
+
+### Post — @Assass1nmarcos — 2019-07-15 10:40 UTC (2019-07-15 11:40 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1150716649290420225
+- Metrics (at fetch): not returned
+
+> @SafeHats hey safehats there is in a private bug bounty program i reported 2 high severity  bugs after triage a month ago i didn't received any further notification/update about the process. Why so slow?
+
+
+---
+
+## 2019-06-07 · Post · I just published Don’t underestimates the Errors They can provide good $$$ Bounty! https://link.medi
+
+
+### Post — @Assass1nmarcos — 2019-06-07 14:15 UTC (2019-06-07 15:15 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1137000214269636608
+- Metrics (at fetch): not returned
+
+> I just published Don’t underestimates the Errors They can provide good $$$ Bounty! https://link.medium.com/1seCEwgnkX
+
+**Links in post:** https://link.medium.com/1seCEwgnkX
+
+
+---
+
+## 2019-06-07 · Post · Yay, I was awarded a $450 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-06-07 12:29 UTC (2019-06-07 13:29 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1136973546851188742
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $450 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-06-07 · Post · Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-06-07 07:58 UTC (2019-06-07 08:58 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1136905314962329600
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2019-04-14 · Post · Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWeHi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2019-04-14 03:45 UTC (2019-04-14 04:45 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1117272579897724930
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/assassin_marcos

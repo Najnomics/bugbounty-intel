@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 654
-- Conversations/threads: 361
-- Oldest post captured: 2023-10-12
+- Posts in this file: 742
+- Conversations/threads: 383
+- Oldest post captured: 2022-11-05
 - Newest post captured: 2025-04-21
 
 
@@ -4299,7 +4299,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
     > https://link.medium.com/mF0HiHDToEb
     
     **Media:**
-    - media `13_1720109253342703616` (details not returned by the API)
+    - video:  — no alt text provided by author
     
     **Links in post:** https://link.medium.com/mF0HiHDToEb
     
@@ -11285,7 +11285,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, Platform: Code4rena / Sherloc
     > We hope this publication facilitates other security researchers to explore new frontiers, push boundaries, and share their findings with the community to foster collective growth of the Web3 space.
     
     **Media:**
-    - media `13_1720471073135919104` (details not returned by the API)
+    - video:  — no alt text provided by author
     
     **Links in post:** https://github.com/chainlight-io/zksync-era-write-query-poc/
     
@@ -12394,7 +12394,7 @@ Tags (automatic): ZK
     > We hope this publication facilitates other security researchers to explore new frontiers, push boundaries, and share their findings with the community to foster collective growth of the Web3 space.
     
     **Media:**
-    - media `13_1720471073135919104` (details not returned by the API)
+    - video:  — no alt text provided by author
     
     **Links in post:** https://github.com/chainlight-io/zksync-era-write-query-poc/
     
@@ -12445,7 +12445,7 @@ Tags (automatic): ZK
     > https://link.medium.com/mF0HiHDToEb
     
     **Media:**
-    - media `13_1720109253342703616` (details not returned by the API)
+    - video:  — no alt text provided by author
     
     **Links in post:** https://link.medium.com/mF0HiHDToEb
     
@@ -12480,7 +12480,7 @@ Tags (automatic): ZK
     >
     > After winning the @defcon CTF for two consecutive years, the @paradigm CTF, and the @dragonflyvc CTF, ChainLight had the honor of being invited to the Blue House and conversing with South Korea's President Yoon Suk Yeol.
     >
-    > 1/4 https://t.co/IKUj0dH0GW
+    > 1/4 [pic.x.com/IKUj0dH0GW]
     
     **Media:**
     - media `3_1712409374772330496` (details not returned by the API)
@@ -14139,7 +14139,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     > https://link.medium.com/mF0HiHDToEb
     
     **Media:**
-    - media `13_1720109253342703616` (details not returned by the API)
+    - video:  — no alt text provided by author
     
     **Links in post:** https://link.medium.com/mF0HiHDToEb
     
@@ -14903,7 +14903,7 @@ Tags (automatic): ZK
     > https://link.medium.com/mF0HiHDToEb
     
     **Media:**
-    - media `13_1720109253342703616` (details not returned by the API)
+    - video:  — no alt text provided by author
     
     **Links in post:** https://link.medium.com/mF0HiHDToEb
     
@@ -15658,7 +15658,312 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
-## 2023-11-03 · Post · Exploiting ZK-EVM.
+## 2023-11-06 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558175470727207
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/9) [pic.x.com/xFAkPE5XDR]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558179216310632
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ UniBots Loses $560K
+> 2️⃣ Onyx Protocol Loses $2.1M
+> 3️⃣ Aave Pauses Pools Due to a Reported Bug
+> 4️⃣ Microsoft-Apps-Registered Scam App Drains $588K
+> 5️⃣ Lazarus's macOS Malware Targets CEX Engineers
+> 6️⃣ SBF Found Guilty For All 7 Counts
+>
+> (2/9)
+
+
+### Thread part 3 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558181900693527
+- Metrics (at fetch): not returned
+
+> 1️⃣ UniBots Loses $560K
+>
+> • The unverified router contract of @TeamUnibot was compromised, resulting in a loss of $560K.
+> • The attack vector and patterns seem to be identical to last week's exploit on @MaestroBots.
+> • The team announced a remediation plan.
+>
+> (3/9) https://twitter.com/TeamUnibot/status/1720156911147045219
+
+**Links in post:** https://twitter.com/TeamUnibot/status/1720156911147045219
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1658686037177290753 — 2023-11-02 19:12 UTC (2023-11-02 20:12 WAT)
+    
+    - URL: https://x.com/1658686037177290753/status/1720156911147045219
+    - Metrics (at fetch): not returned
+    
+    > Unibot Update 🦄🤖
+    >
+    > The token approval exploit we suffered on Oct 31 has been fully addressed and trading with Unibot is back to normal. As stated previously, the issue was solely related to trades made against a newly deployed router contract that was vulnerable to attack. The
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558184803111085
+- Metrics (at fetch): not returned
+
+> 2️⃣ Onyx Protocol Loses $2.1M
+>
+> • @OnyxProtocol, a Compound V2 fork, faces the same risk as other forked protocols.
+> • Without an initial deposit during pool deployment, the token price can be inflated.
+> • @HundredFinance and @MidasCapitalxyz had suffered the same issue.
+>
+> (4/9) https://twitter.com/al_onyxprotocol/status/1719698066020733063
+
+**Links in post:** https://twitter.com/al_onyxprotocol/status/1719698066020733063
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1647505895352410113 — 2023-11-01 12:49 UTC (2023-11-01 13:49 WAT)
+    
+    - URL: https://x.com/1647505895352410113/status/1719698066020733063
+    - Metrics (at fetch): not returned
+    
+    > The @OnyxProtocol experienced an exploit: https://etherscan.io/tx/0xf7c21600452939a81b599017ee24ee0dfd92aaaccd0a55d02819a7658a6ef635. Fund loss is 1,163.53 ETH ~$2.1mln.
+    > We are aware of the situation, closed the vulnerability, and working on the consequences with our partners.
+    
+    **Links in post:** https://etherscan.io/tx/0xf7c21600452939a81b599017ee24ee0dfd92aaaccd0a55d02819a7658a6ef635
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558187953009087
+- Metrics (at fetch): not returned
+
+> 3️⃣ Aave Pauses Pools Due to a Reported Bug
+>
+> • @aave has temporarily paused its pools due to a reported issue with a specific feature.
+> • The team assures that no funds are at risk in the market.
+> • Aave users and those utilizing forks should monitor this issue closely.
+>
+> (5/9) https://twitter.com/aave/status/1720868368331219100
+
+**Links in post:** https://twitter.com/aave/status/1720868368331219100
+
+**Quoted post (full text):**
+
+    #### Quoted post — @867100084248469505 — 2023-11-04 18:19 UTC (2023-11-04 19:19 WAT)
+    
+    - URL: https://x.com/867100084248469505/status/1720868368331219100
+    - Metrics (at fetch): not returned
+    
+    > Today we received a report of an issue on a certain feature of the Aave Protocol. After validation by community developers, the guardian has taken the following temporary prevention measure (no funds are at risk):
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558191199408468
+- Metrics (at fetch): not returned
+
+> 4️⃣ Microsoft-Apps-Registered Scam App Drains $588K
+>
+> • An app disguised as the @Ledger User Interface, Ledger Live, was fraudulently registered on the official Microsoft App Store.
+> • This app managed to drain $768K from unsuspecting users.
+>
+> (6/9) https://twitter.com/zachxbt/status/1720961400313373127
+
+**Links in post:** https://twitter.com/zachxbt/status/1720961400313373127
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3012852462 — 2023-11-05 00:29 UTC (2023-11-05 01:29 WAT)
+    
+    - URL: https://x.com/3012852462/status/1720961400313373127
+    - Metrics (at fetch): not returned
+    
+    > Community Alert: There is currently a fake @Ledger Live app on the official @Microsoft App Store which was resulted in 16.8+ BTC ($588K) stolen
+    >
+    > Scammer address
+    > bc1qg05gw43elzqxqnll8vs8x47ukkhudwyncxy64q [pic.x.com/rOZ0ZWRWbn]
+    
+    **Media:**
+    - media `3_1720961396760842240` (details not returned by the API)
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558194546458935
+- Metrics (at fetch): not returned
+
+> 5️⃣ Lazarus's macOS Malware Targets CEX Engineers
+>
+> • Lazarus, a North Korean hacker group, is currently targeting crypto exchange engineers using macOS malware.
+> • Victims were tricked into downloading malware disguised as a Discord arbitrage bot.
+>
+> (7/9) https://twitter.com/TheHackersNews/status/1719641244421280016
+
+**Links in post:** https://twitter.com/TheHackersNews/status/1719641244421280016
+
+**Quoted post (full text):**
+
+    #### Quoted post — @209811713 — 2023-11-01 09:03 UTC (2023-11-01 10:03 WAT)
+    
+    - URL: https://x.com/209811713/status/1719641244421280016
+    - Metrics (at fetch): not returned
+    
+    > 🚨 ALERT:  State-sponsored North Korean hackers are using a sneaky #macOS malware called KANDYKORN to target crypto engineers via Discord.
+    >
+    > Learn more: https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html
+    >
+    > #cybersecurity #informationsecurity
+    
+    **Links in post:** https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558197746725093
+- Metrics (at fetch): not returned
+
+> 6️⃣ @SBF_FTX Found Guilty For All 7 Counts
+>
+> 1) What
+>
+> (8/9) https://twitter.com/crypto/status/1720235150246617214
+
+**Links in post:** https://twitter.com/crypto/status/1720235150246617214
+
+**Quoted post (full text):**
+
+    #### Quoted post — @928759224599040001 — 2023-11-03 00:23 UTC (2023-11-03 01:23 WAT)
+    
+    - URL: https://x.com/928759224599040001/status/1720235150246617214
+    - Metrics (at fetch): not returned
+    
+    > Sam Bankman-Fried was found guilty of a massive fraud that led to the collapse of FTX https://trib.al/EACnyhu
+    
+    **Links in post:** https://trib.al/EACnyhu
+    
+
+
+### Thread part 9 — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1721558200514929066
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> If you found this thread helpful, please give it a like and a repost.
+>
+> To stay up-to-date with the latest reports, research, and insights from our award-winning security researchers, subscribe to our newsletter👇
+> https://mailchi.mp/chainlight/newsletter
+>
+> (9/9) https://twitter.com/ChainLight_io/status/1721558175470727207
+
+**Links in post:** https://mailchi.mp/chainlight/newsletter, https://twitter.com/ChainLight_io/status/1721558175470727207
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-11-06 16:00 UTC (2023-11-06 17:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1721558175470727207
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly summary to stay in the loop 🧵👇
+    >
+    > (1/9) [pic.x.com/xFAkPE5XDR]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2023-11-04 · Thread · Securing rollups.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @ChainLight_io — 2023-11-04 16:58 UTC (2023-11-04 17:58 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1720848041069179109
+- Metrics (at fetch): not returned
+
+> Securing rollups.
+>
+> Since our discovery of the ZK soundness bug on @zkSync Era on September 15th, nearly $2B has passed through the bridge.
+>
+> This critical bug was quickly patched by zkSync, despite being exploitable only if an attacker (1) compromised zkSync Era's backend and (2) [pic.x.com/JGn2b8V90u]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-11-04 16:58 UTC (2023-11-04 17:58 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1720848044818907434
+- Metrics (at fetch): not returned
+
+> As this exploit is the first bounty claimed for a ZK-circuit bug on zkSync Era, we have released our code and a full PoC to the public:
+>
+> https://x.com/ChainLight_io/status/1720471129272533382?s=20
+
+**Links in post:** https://x.com/ChainLight_io/status/1720471129272533382?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-11-03 16:00 UTC (2023-11-03 17:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1720471129272533382
+    - Metrics (at fetch): bookmark 87, impression 32850, like 197, quote 8, reply 8, retweet 36
+    
+    > Exploiting ZK-EVM.
+    >
+    > After discovering a @zkSync Era bug on September 15th, we intentionally produced a false "proof" to battle-test our findings.
+    >
+    > Spending 100 GPU hours on A100s to generate the exploit, we turned a ZK soundness bug into a full token-stealing exploit.
+    >
+    > As this exploit is the first bounty claimed for a ZK-circuit bug on zkSync Era, we are now releasing our code and a full PoC to the public👇
+    >
+    > https://github.com/chainlight-io/zksync-era-write-query-poc/
+    >
+    > We hope this publication facilitates other security researchers to explore new frontiers, push boundaries, and share their findings with the community to foster collective growth of the Web3 space.
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+    **Links in post:** https://github.com/chainlight-io/zksync-era-write-query-poc/
+    
+
+
+---
+
+## 2023-11-03 · Thread · Exploiting ZK-EVM.
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge, ZK
@@ -15682,14 +15987,53 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 > We hope this publication facilitates other security researchers to explore new frontiers, push boundaries, and share their findings with the community to foster collective growth of the Web3 space.
 
 **Media:**
-- media `13_1720471073135919104` (details not returned by the API)
+- video:  — no alt text provided by author
 
 **Links in post:** https://github.com/chainlight-io/zksync-era-write-query-poc/
 
 
+### Thread part 2 — @ChainLight_io — 2023-11-03 16:00 UTC (2023-11-03 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1720471132216983908
+- Metrics (at fetch): not returned
+
+> For the full story and technical analysis behind saving $1.9B: https://twitter.com/chainlight_io/status/1720109308015485194
+
+**Links in post:** https://twitter.com/chainlight_io/status/1720109308015485194
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-11-02 16:03 UTC (2023-11-02 17:03 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1720109308015485194
+    - Metrics (at fetch): bookmark 61, impression 65703, like 311, quote 16, reply 22, retweet 49
+    
+    > Saving $1.9B.
+    >
+    > On September 15th, we discovered and reported a critical bug in @zkSync Era's ZK-Circuits that could have drained all the tokens passing through the bridge.
+    >
+    > This bug allows a malicious prover to produce "proofs" for invalidly executed blocks, which the verifier smart contracts on L1 would have blindly accepted. Since our bug discovery, $1.9B has passed through the bridge.
+    >
+    > Despite the vast security layers of zkSync Era in place today making it challenging for anybody except @The_Matter_Labs to pull off the exploit, Matter Labs quickly reacted to the report and deployed a fix for the issue.
+    >
+    > For disclosing a critical issue, they proactively awarded us with 50K USDC. This is the first bounty claimed for a ZK-circuit bug on zkSync Era.
+    >
+    > A big thank you to The Matter Labs and zkSync for quickly reacting to the issue, communicating with us thoroughly, and making this space safer than yesterday.
+    >
+    > For a technical analysis, head over to our blog for a deep dive👇
+    >
+    > https://link.medium.com/mF0HiHDToEb
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+    **Links in post:** https://link.medium.com/mF0HiHDToEb
+    
+
+
 ---
 
-## 2023-11-02 · Post · Saving $1.9B.
+## 2023-11-02 · Thread · Saving $1.9B.
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
@@ -15717,14 +16061,1418 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 > https://link.medium.com/mF0HiHDToEb
 
 **Media:**
-- media `13_1720109253342703616` (details not returned by the API)
+- video:  — no alt text provided by author
 
 **Links in post:** https://link.medium.com/mF0HiHDToEb
 
 
+### Thread part 2 — @ChainLight_io — 2023-11-02 16:03 UTC (2023-11-02 17:03 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1720109311601598486
+- Metrics (at fetch): not returned
+
+> Patch Thursday is a weekly report that introduces and analyzes vulnerabilities discovered and reported by ChainLight’s security researchers.
+>
+> Subscribe to our newsletter to receive research and reports directly from our award-winning experts👇
+>
+> https://mailchi.mp/chainlight/newsletter
+
+**Links in post:** https://mailchi.mp/chainlight/newsletter
+
+
 ---
 
-## 2023-10-12 · Post · Hello, Mr. President.
+## 2023-11-01 · Thread · Introducing unwrap_let.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746201850167626
+- Metrics (at fetch): not returned
+
+> Introducing unwrap_let.
+> Pattern matching on Rust simplified.
+>
+> @RustLang is one of the most popular Web3 programming languages being used on Solana, Near, Aptos, and Sui.
+>
+> (1/8) [pic.x.com/5S3v0SNjXh]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746205704704289
+- Metrics (at fetch): not returned
+
+> One of the most loved features of Rust is Pattern Matching.
+>
+> Pattern matching is a process of deconstructing complex data structures and logic into smaller, more manageable patterns.
+>
+> This approach greatly reduces code complexity, resulting in enhanced readability.
+>
+> (2/8)
+
+
+### Thread part 3 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746208313516414
+- Metrics (at fetch): not returned
+
+> Although Rust already offers a variety of built-in tools (let-else, if-let, match, etc.) for developers to work with patterns, it is lacking an essential feature:
+>
+> matching a value against the expected pattern in one line of code.
+>
+> (3/8)
+
+
+### Thread part 4 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746210943348774
+- Metrics (at fetch): not returned
+
+> So, we built our own.
+>
+> And today, we are releasing it as open source.
+>
+> https://github.com/chainlight-io/unwrap_let
+>
+> (4/8)
+
+**Links in post:** https://github.com/chainlight-io/unwrap_let
+
+
+### Thread part 5 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746220678340738
+- Metrics (at fetch): not returned
+
+> Here's a direct comparison between not using unwrap_let and using unwrap_let.
+>
+> (5/8) [pic.x.com/TeYj5j79ff]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F93EEjIa4AAVitC.jpg — no alt text provided by author
+
+
+### Thread part 6 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746223790576075
+- Metrics (at fetch): not returned
+
+> The idea of unwrap_let originated from building a static analysis engine for smart contracts.
+>
+> In static analysis, it's often the case that a value always matches a specific pattern in certain code; however, Rust forces devs to define behavior for all possible scenarios.
+>
+> (6/8)
+
+
+### Thread part 7 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746226508448070
+- Metrics (at fetch): not returned
+
+> unwrap_let simplifies the process of deconstructing patterns into their expected internal data.
+>
+> It is similar to the let-else syntax, but without the necessity of writing an else block.
+>
+> (7/8)
+
+
+### Thread part 8 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746229402517979
+- Metrics (at fetch): not returned
+
+> After using this crate, our team observed a significant enhancement in code readability.
+>
+> Our goal is to extend this positive experience to a wider audience by open-sourcing it. We encourage you to try out the macro and provide us with your valuable feedback.
+>
+> (8/8)
+
+
+### Thread part 9 — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719746232078471389
+- Metrics (at fetch): not returned
+
+> I hope you've found this thread helpful.
+>
+> Follow us @ChainLight_io to receive the latest research, reports, and insights from award-winning experts.
+>
+> Like/Repost the quote below if you can: https://twitter.com/ChainLight_io/status/1719746201850167626
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1719746201850167626
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-11-01 16:00 UTC (2023-11-01 17:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1719746201850167626
+    - Metrics (at fetch): not returned
+    
+    > Introducing unwrap_let.
+    > Pattern matching on Rust simplified.
+    >
+    > @RustLang is one of the most popular Web3 programming languages being used on Solana, Near, Aptos, and Sui.
+    >
+    > (1/8) [pic.x.com/5S3v0SNjXh]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2023-10-31 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383810230702492
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly recap to stay in the loop 🧵👇
+>
+> (1/10) [pic.x.com/Ij1oghuqIg]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383813841899655
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ MaestroBots Loses 280 ETH
+> 2️⃣ Astrid Finance Loses $228K
+> 3️⃣ Safereum Rugs $1.3M
+> 4️⃣ Quillswap on Scroll Suspected of Rugpull
+> 5️⃣ Password Manager Hack Leads To $4.4M Drain
+> 6️⃣ Conflicts Between LayerZero and Interchain Protocols
+> 7️⃣ SEAL Drill Unveiled
+>
+> (2/10)
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383816505286686
+- Metrics (at fetch): not returned
+
+> 1️⃣ MaestroBots Loses 280 ETH
+>
+> • The router contract of @MaestroBots was compromised, resulting in a loss of 280 ETH.
+> • The vulnerability allowed the attacker to transfer user assets arbitrarily.
+> • The team has updated the contract and refunded the users.
+>
+> (3/10) https://twitter.com/MaestroBots/status/1716969767804747820
+
+**Links in post:** https://twitter.com/MaestroBots/status/1716969767804747820
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1433763300878307330 — 2023-10-25 00:07 UTC (2023-10-25 01:07 WAT)
+    
+    - URL: https://x.com/1433763300878307330/status/1716969767804747820
+    - Metrics (at fetch): not returned
+    
+    > We regret to inform our users that the Maestro Router was compromised tonight. We have swiftly taken action and revoked all the router's functionalities.
+    >
+    > For those who were affected, full refunds will be issued out. For those who were not affected, your tokens are fully safe
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383819474891112
+- Metrics (at fetch): not returned
+
+> 2️⃣ Astrid Finance Loses $228K
+>
+> • @AstridFinance is a restaking protocol on Ethereum.
+> • The withdraw() function did not verify the token address to withdraw.
+> • The attacker drained $228K from the contract by creating fake tokens to claim restaked tokens.
+>
+> (4/10) https://twitter.com/AstridFinance/status/1718236380009230406
+
+**Links in post:** https://twitter.com/AstridFinance/status/1718236380009230406
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1692001718568091648 — 2023-10-28 12:00 UTC (2023-10-28 13:00 WAT)
+    
+    - URL: https://x.com/1692001718568091648/status/1718236380009230406
+    - Metrics (at fetch): not returned
+    
+    > Unfortunately our smart contract was exploited due to a fix recommended by our auditor.
+    >
+    > We have paused the contract.
+    >
+    > We have taken a snapshot of all holders and will offer full refund and make everyone whole. Please wait as our team work out the refund process.
+    >
+    > We truly
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383822507360695
+- Metrics (at fetch): not returned
+
+> 3️⃣ Safereum Rugs $1.3M
+>
+> • Safereum developers unlocked and dumped $SAFEREUM, worth more than $1.2M.
+> • They delete the official X account.
+> • The price of $SAFEREUM plummeted by more than 95% after the dump.
+>
+> (5/10) https://twitter.com/zachxbt/status/1716559951907152255
+
+**Links in post:** https://twitter.com/zachxbt/status/1716559951907152255
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3012852462 — 2023-10-23 20:59 UTC (2023-10-23 21:59 WAT)
+    
+    - URL: https://x.com/3012852462/status/1716559951907152255
+    - Metrics (at fetch): not returned
+    
+    > It seems the influencer ProTheDoge is back at it promoting scams as an official partner of the project. 
+    >
+    > This time it was Safereum which just rug pulled with 730+ ETH ($1.2M).
+    >
+    > 0x67c8423a7709aDB8ED31c04DcbB0C161637b807F [pic.x.com/o5qi9rmC3e]
+    
+    **Media:**
+    - media `3_1716559948157513728` (details not returned by the API)
+    - media `3_1716559948140724224` (details not returned by the API)
+    - media `3_1716559948157468672` (details not returned by the API)
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383825455960064
+- Metrics (at fetch): not returned
+
+> 4️⃣ Quillswap on Scroll Suspected of Rugpull
+>
+> • TVL of @QuillSwap, a DEX on @Scroll_ZKP, dropped from $110K to $9.7K
+> • Massive liquidity of the native token $QUILL was withdrawn and dumped, plummeting the price by about 91%.
+> • The team claims it is not a rug.
+>
+> (6/10) https://twitter.com/QuillSwap/status/1717001262087225728
+
+**Links in post:** https://twitter.com/QuillSwap/status/1717001262087225728
+
+**Quoted post** 1717001262087225728: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 7 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383828580729183
+- Metrics (at fetch): not returned
+
+> 5️⃣ Password Manager Hack Leads To $4.4M Drain
+>
+> • @ZachXBT claims that the previous hack of the password manager, LastPass, is related to the $4.4M drain from wallets.
+> • The cloud storage of LastPass was compromised in Dec 2022, but the team claims user data is safe.
+>
+> (7/10) https://twitter.com/zachxbt/status/1717901088521687330
+
+**Links in post:** https://twitter.com/zachxbt/status/1717901088521687330
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3012852462 — 2023-10-27 13:48 UTC (2023-10-27 14:48 WAT)
+    
+    - URL: https://x.com/3012852462/status/1717901088521687330
+    - Metrics (at fetch): not returned
+    
+    > Just on October 25, 2023 alone another ~$4.4M was drained from 25+ victims as a result of the LastPass hack. 
+    >
+    > Cannot stress this enough, if you believe you may have ever stored your seed phrase or keys in LastPass migrate your crypto assets immediately. [pic.x.com/26HsxrlnCb]
+    
+    **Media:**
+    - media `3_1717901084201517056` (details not returned by the API)
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383831479013789
+- Metrics (at fetch): not returned
+
+> 6️⃣ Conflicts Between LayerZero and Interchain Protocols
+>
+> • @LayerZero's new update allows wstETH to be freely bridged to other blockchains.
+> • Interchain protocols announce a unified call that this may break the system of Lido DAO without @LidoFinance's official support.
+>
+> (8/10) https://twitter.com/ConnextNetwork/status/1717953446475620379
+
+**Links in post:** https://twitter.com/ConnextNetwork/status/1717953446475620379
+
+**Quoted post (full text):**
+
+    #### Quoted post — @872256542443134976 — 2023-10-27 17:16 UTC (2023-10-27 18:16 WAT)
+    
+    - URL: https://x.com/872256542443134976/status/1717953446475620379
+    - Metrics (at fetch): not returned
+    
+    > Today, we're announcing a unified call for 
+    > Open Bridge Standards
+    > alongside @AcrossProtocol @CelerNetwork @ChainSafeth @buildwithsygma @lifiprotocol @SocketDotTech @routerprotocol and @hashialliance [pic.x.com/D4CLw2lBD1]
+    
+    **Media:**
+    - media `3_1717953017557794816` (details not returned by the API)
+    
+
+
+### Thread part 9 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383834595405827
+- Metrics (at fetch): not returned
+
+> 7️⃣ SEAL Drills Unveiled
+>
+> • @samczsun, a security researcher at @paradigm, and @isaacpatka unveils SEAL Drills.
+> • SEAL Drills helps protocols conduct stress tests by performing simulated attacks against them.
+> • @ChainLight_io is one of the Seal 911 members.
+>
+> (9/10) https://twitter.com/samczsun/status/1717243519243636755
+
+**Links in post:** https://twitter.com/samczsun/status/1717243519243636755
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-10-25 18:15 UTC (2023-10-25 19:15 WAT)
+    
+    - URL: https://x.com/samczsun/status/1717243519243636755
+    - Metrics (at fetch): not returned
+    
+    > In a war room, every second counts. But without having been in one, how could you know what to expect or how to respond? Blog posts and tweet threads can only take you so far. Today, I'm excited to announce a new option: SEAL Drills. [pic.x.com/eKJjoUZ1jG]
+    
+    **Media:**
+    - media `3_1717239840193105925` (details not returned by the API)
+    
+
+
+### Thread part 10 — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719383837455872341
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> Please comment below if there's anything we missed or should look into.
+>
+> To stay up-to-date with the latest reports on rug pulls, exploits, and security breaches every week for free:
+>
+> 👉 Follow us at @ChainLight_io
+>
+> (10/10) https://twitter.com/ChainLight_io/status/1719383810230702492
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1719383810230702492
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-10-31 16:00 UTC (2023-10-31 17:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1719383810230702492
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly recap to stay in the loop 🧵👇
+    >
+    > (1/10) [pic.x.com/Ij1oghuqIg]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+### Thread part 11 — @ChainLight_io — 2023-10-31 16:41 UTC (2023-10-31 17:41 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719394072115466751
+- Metrics (at fetch): not returned
+
+> 🔄 Update on @MaestroBots exploit
+>
+> • The exploited Router 2 is now safe
+> • Maestro team refunds 610 ETH to the users
+>
+> https://x.com/maestrobots/status/1717143778668994648?s=46&t=FbTRon_yC1JFSXnXctpNig
+
+**Links in post:** https://x.com/maestrobots/status/1717143778668994648?s=46&t=FbTRon_yC1JFSXnXctpNig
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1433763300878307330 — 2023-10-25 11:39 UTC (2023-10-25 12:39 WAT)
+    
+    - URL: https://x.com/1433763300878307330/status/1717143778668994648
+    - Metrics (at fetch): not returned
+    
+    > Telegram trading bot Maestro refunds users 610 ETH after router exploit:
+    >
+    > https://cointelegraph.com/news/telegram-maestro-bot-610-ether-refund
+    >
+    > #MaestroBots #DeFi #Crypto #Cryptocurrencies #TradingCrypto
+    
+    **Links in post:** https://cointelegraph.com/news/telegram-maestro-bot-610-ether-refund
+    
+
+
+---
+
+## 2023-10-30 · Thread · Cracking the @paradigm_ctf in 33 hours.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-10-30 16:06 UTC (2023-10-30 17:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719023084576166233
+- Metrics (at fetch): not returned
+
+> Cracking the @paradigm_ctf in 33 hours.
+>
+> We were able to solve all challenges 15 hours earlier than the closing time, making us the first team to complete the CTF.
+>
+> (1/5) [pic.x.com/uI1LSAjan5]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-30 16:06 UTC (2023-10-30 17:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719023088007041397
+- Metrics (at fetch): not returned
+
+> 12 Jeopardy, 3 KOTH, and 2 authored challenges. Every line of code, tweet, and Discord message was a memorable experience that allowed us to reflect, learn, and grow.
+>
+> (2/5)
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-30 16:06 UTC (2023-10-30 17:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719023090699755651
+- Metrics (at fetch): not returned
+
+> A big thank you to @paradigm and all the participants for collectively celebrating one of the most awaited events of the year.
+>
+> We are looking forward to making an unforgettable memory again next year.
+>
+> (3/5)
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-30 16:06 UTC (2023-10-30 17:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719023093426065881
+- Metrics (at fetch): not returned
+
+> Celebrating the end of the grand party, we are releasing the 2023 @paradigm_ctf write-up on our repo that many have been DMing us for.
+> https://github.com/chainlight-io/publications/tree/main/ctf-writeups/paradigm2023
+>
+> (4/5)
+
+**Links in post:** https://github.com/chainlight-io/publications/tree/main/ctf-writeups/paradigm2023
+
+
+### Thread part 5 — @ChainLight_io — 2023-10-30 16:06 UTC (2023-10-30 17:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1719023096190124197
+- Metrics (at fetch): not returned
+
+> We hope you find our write-up helpful and have enjoyed solving the "Suspicious Charity" and "Enterprise Blockchain" challenges authored by us.
+>
+> Good game,
+> see you next year🫡
+>
+> (5/5) https://twitter.com/ChainLight_io/status/1719023084576166233
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1719023084576166233
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-10-30 16:06 UTC (2023-10-30 17:06 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1719023084576166233
+    - Metrics (at fetch): not returned
+    
+    > Cracking the @paradigm_ctf in 33 hours.
+    >
+    > We were able to solve all challenges 15 hours earlier than the closing time, making us the first team to complete the CTF.
+    >
+    > (1/5) [pic.x.com/uI1LSAjan5]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2023-10-28 · Post · Your palms are sweaty, hands are shaking, and your mind is blanking.
+
+
+### Post — @ChainLight_io — 2023-10-28 17:41 UTC (2023-10-28 18:41 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1718322004817015187
+- Metrics (at fetch): not returned
+
+> Your palms are sweaty, hands are shaking, and your mind is blanking.
+>
+> There, you've let your protocol to be hacked without a flinch.
+>
+> Without being prepared to handle a war against your protocol, without finding comfort in the most stressful situations, your protocol becomes https://twitter.com/samczsun/status/1717243519243636755
+
+**Links in post:** https://twitter.com/samczsun/status/1717243519243636755
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-10-25 18:15 UTC (2023-10-25 19:15 WAT)
+    
+    - URL: https://x.com/samczsun/status/1717243519243636755
+    - Metrics (at fetch): not returned
+    
+    > In a war room, every second counts. But without having been in one, how could you know what to expect or how to respond? Blog posts and tweet threads can only take you so far. Today, I'm excited to announce a new option: SEAL Drills. [pic.x.com/eKJjoUZ1jG]
+    
+    **Media:**
+    - media `3_1717239840193105925` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-27 · Post · 10 Puzzles. 1 Winner.
+
+
+### Post — @ChainLight_io — 2023-10-27 16:06 UTC (2023-10-27 17:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1717935700107227237
+- Metrics (at fetch): not returned
+
+> 10 Puzzles. 1 Winner.
+>
+> We had the honor of authoring puzzles for the @Curta_ctf Cup.
+>
+> Solving these puzzles involves techniques that we not only use every day to secure our clients' products but also believe all security experts and engineers should master. The puzzles' https://twitter.com/curta_ctf/status/1717583616694198351
+
+**Links in post:** https://twitter.com/curta_ctf/status/1717583616694198351
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1604186457165406210 — 2023-10-26 16:47 UTC (2023-10-26 17:47 WAT)
+    
+    - URL: https://x.com/1604186457165406210/status/1717583616694198351
+    - Metrics (at fetch): not returned
+    
+    > Curta Cup 🏆
+    >
+    > November 18th.
+    >
+    > Application link dropping soon. [pic.x.com/Pi1iJwhT9m]
+    
+    **Media:**
+    - media `7_1717578300359380992` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-24 · Post · We are thrilled to announce that we have won QuillCTF Dubai 2023.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-10-24 16:00 UTC (2023-10-24 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716847167472910545
+- Metrics (at fetch): not returned
+
+> We are thrilled to announce that we have won QuillCTF Dubai 2023.
+>
+> A big thank you to @Quill_Academy for organizing this contest and providing entertaining challenges.
+>
+> ChainLight will continue to explore effective blockchain technologies and push the boundaries of Web3 security. [pic.x.com/IGI83fR5sx]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2023-10-23 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484793473646592
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly recap to stay in the loop 🧵👇
+>
+> 1/10 [pic.x.com/87KE2BVLaI]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484797214937353
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ Cointelegraph's fake news liquidates $100M
+> 2️⃣ Reddit mods dump $MOON
+> 3️⃣ Hope Lend Exploited
+> 4️⃣ Coinsph loses 12M $XRP
+> 5️⃣ Lightning Network detects a critical vulnerability
+> 6️⃣ Fantom Wallet Exploited
+> 7️⃣ Hacker uses EtherHiding to hijack WordPress site
+>
+> 2/10
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484800151007609
+- Metrics (at fetch): not returned
+
+> 1️⃣ @Cointelegraph's Fake News Liquidates $100M in 1 Hour
+>
+> • Cointelegraph posts the BTC spot ETF approval news.
+> • The market drastically surges but dumps after @BlackRock's denial of the news.
+> • Fake news liquidates ≈ $100M in 1 hour.
+>
+> 3/10 https://twitter.com/Cointelegraph/status/1714033577308930372
+
+**Links in post:** https://twitter.com/Cointelegraph/status/1714033577308930372
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2023-10-16 21:40 UTC (2023-10-16 22:40 WAT)
+    
+    - URL: https://x.com/2207129125/status/1714033577308930372
+    - Metrics (at fetch): not returned
+    
+    > Dear community, we hold ourselves to high journalistic standards and consider it important to address the mistakes we make with full transparency. Here is what happened today regarding the tweet about the BlackRock Bitcoin ETF: https://cointelegraph.com/news/clarification-sharing-false-spot-bitcoin-etf-news
+    
+    **Links in post:** https://cointelegraph.com/news/clarification-sharing-false-spot-bitcoin-etf-news
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484803133079668
+- Metrics (at fetch): not returned
+
+> 2️⃣ @Reddit Mods Dump $MOON
+>
+> • Reddit moderators dump $MOON, the native token of Reddit's r/CryptoCurrency community.
+> • The dump happened an hour before the announcement of the Community Point service shutdown.
+> • $Moon price drops by 85%.
+>
+> 4/10 https://twitter.com/theblockupdates/status/1714351197597946108
+
+**Links in post:** https://twitter.com/theblockupdates/status/1714351197597946108
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1691485239409881093 — 2023-10-17 18:42 UTC (2023-10-17 19:42 WAT)
+    
+    - URL: https://x.com/1691485239409881093/status/1714351197597946108
+    - Metrics (at fetch): not returned
+    
+    > *REDDIT WINDING DOWN BLOCKCHAIN-BASED COMMUNITY POINTS: TECHCRUNCH - THE BLOCK PRO
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484806543093840
+- Metrics (at fetch): not returned
+
+> 3️⃣ Hope Lend Hacker Extracts 524 ETH
+>
+> • Hope Lend (@Hope_money_), a lending protocol, takes a hit of ≈ 528 ETH.
+> • The attacker splits exploit transactions into two and lets a Lido validator frontrun one of them.
+> • TVL of Hope drops to 0.
+> • The attacker profits 524 ETH.
+>
+> 5/10 https://twitter.com/Hope_money_/status/1714692934719992075
+
+**Links in post:** https://twitter.com/Hope_money_/status/1714692934719992075
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1609545829886595075 — 2023-10-18 17:20 UTC (2023-10-18 18:20 WAT)
+    
+    - URL: https://x.com/1609545829886595075/status/1714692934719992075
+    - Metrics (at fetch): not returned
+    
+    > On October 18, 2023, at 11:48:59 AM +UTC, the HopeLend protocol fell victim to a hacker attack. It is important to note that the hacker did not profit from this attack.
+    >
+    > The attack resulted in a loss of approximately 528 ETH, out of which 263.91 ETH were bribed by the frontrunner
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484809860829340
+- Metrics (at fetch): not returned
+
+> 4️⃣ CEX @Coinsph Loses 12M $XRP
+>
+> • Coinsph is one of the most prominent crypto exchanges in the Philippines with 16M active users.
+> • The attacker drains and transfers 12.2 million XRP to various crypto platforms in 30 minutes.
+>
+> 6/10 https://twitter.com/cryptania_co/status/1715550592582771074
+
+**Links in post:** https://twitter.com/cryptania_co/status/1715550592582771074
+
+**Quoted post** 1715550592582771074: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 7 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484812842897429
+- Metrics (at fetch): not returned
+
+> 5️⃣ A Critical Vulnerability Found In Lightning Network
+>
+> • Lightning Network's (@BTC_LN) previous developer releases a report about the critical vulnerability in the protocol.
+> • The new class of replacement cycling attack drains the middleman routing payments.
+>
+> 7/10 https://twitter.com/Cointelegraph/status/1715884453866737832
+
+**Links in post:** https://twitter.com/Cointelegraph/status/1715884453866737832
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2023-10-22 00:15 UTC (2023-10-22 01:15 WAT)
+    
+    - URL: https://x.com/2207129125/status/1715884453866737832
+    - Metrics (at fetch): not returned
+    
+    > Bitcoin core developer Antoine Riard has stepped back from Lightning Network's development due to security challenges. 
+    > https://cointelegraph.com/news/bitcoin-core-developer-antoine-riard-steps-back-lightning-network-dilemma
+    
+    **Links in post:** https://cointelegraph.com/news/bitcoin-core-developer-antoine-riard-steps-back-lightning-network-dilemma
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484816366182448
+- Metrics (at fetch): not returned
+
+> 6️⃣ @FantomFDN Hot Wallets Exploited
+>
+> • The hot wallets of Fantom Foundation have been drained.
+> • An admin in the Fantom Telegram claims that this was due to a zero-day exploit in the Chrome browser.
+> • The hacker drains ≈ $7M, but Fantom claims $550K.
+>
+> 8/10 https://twitter.com/FantomFDN/status/1714337765502992798
+
+**Links in post:** https://twitter.com/FantomFDN/status/1714337765502992798
+
+**Quoted post (full text):**
+
+    #### Quoted post — @977020204071792641 — 2023-10-17 17:49 UTC (2023-10-17 18:49 WAT)
+    
+    - URL: https://x.com/977020204071792641/status/1714337765502992798
+    - Metrics (at fetch): not returned
+    
+    > [pic.x.com/gShkT3C9XV]
+    
+    **Media:**
+    - media `3_1714337672070643712` (details not returned by the API)
+    
+
+
+### Thread part 9 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484819671269586
+- Metrics (at fetch): not returned
+
+> 7️⃣ Hacker Uses EtherHiding to Hijack WordPress Sites
+>
+> • Hackers use BSC contracts for anonymized Web2 attacks.
+> • @WordPress sites hijacked by the attacker's fetched payloads hidden in BSC smart contracts.
+> • Misled users downloaded malware disguised as a browser update.
+>
+> 9/10 https://twitter.com/Dinosn/status/1713869636154822847
+
+**Links in post:** https://twitter.com/Dinosn/status/1713869636154822847
+
+**Quoted post (full text):**
+
+    #### Quoted post — @128484298 — 2023-10-16 10:48 UTC (2023-10-16 11:48 WAT)
+    
+    - URL: https://x.com/128484298/status/1713869636154822847
+    - Metrics (at fetch): not returned
+    
+    > “EtherHiding” — Hiding Web2 Malicious Code in Web3 Smart Contracts https://www.reddit.com/r/netsec/comments/1791sxu/etherhiding_hiding_web2_malicious_code_in_web3/
+    
+    **Links in post:** https://www.reddit.com/r/netsec/comments/1791sxu/etherhiding_hiding_web2_malicious_code_in_web3/
+    
+
+
+### Thread part 10 — @ChainLight_io — 2023-10-23 16:00 UTC (2023-10-23 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716484823043494253
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> Please comment below if there's anything we missed or should look into.
+>
+> To stay up-to-date with the latest reports on rug pulls, exploits, and security breaches every week for free:
+>
+> 👉 Follow us at @ChainLight_io
+>
+> 10/10
+
+
+---
+
+## 2023-10-23 · Thread · We were the first to solve the "Magic of Solidity" challenge in the @Quill_Academy CTF.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-10-23 08:11 UTC (2023-10-23 09:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716366616420913596
+- Metrics (at fetch): not returned
+
+> We were the first to solve the "Magic of Solidity" challenge in the @Quill_Academy CTF.
+>
+> And we woke up to a magic wand waiting for us in front of our office.
+>
+> A big thank you to @lj1nu for this generous gift. It will be proudly displayed alongside our collection of CTF trophies. [pic.x.com/Q1OtM4ARKq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9HCVDdaYAAO7pk.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-23 08:11 UTC (2023-10-23 09:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1716366640290672860
+- Metrics (at fetch): not returned
+
+> @Quill_Academy @lj1nu New challenge: Find a bug in this picture. [pic.x.com/EOlpsgOyFi]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9HCWY1bwAA7S0n.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-20 · Thread · Helping partners thrive without fear.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-10-20 18:00 UTC (2023-10-20 19:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1715427786041819371
+- Metrics (at fetch): not returned
+
+> Helping partners thrive without fear.
+>
+> As a security advisor of Ozys (@Orbit_Chain), we are thrilled to announce that Ozys has acquired the ISMS certification, the most advanced certification for information security management systems in South Korea.
+>
+> (1/5) [pic.x.com/VrR3VVv7V1]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-20 18:00 UTC (2023-10-20 19:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1715427789539807624
+- Metrics (at fetch): not returned
+
+> Through our combined efforts, we have passed all 80 certification criteria and 234 detailed inspection items.
+>
+> Now, Ozys has become the first company in South Korea to receive ISMS certification specifically related to smart contract development.
+>
+> (2/5)
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-20 18:00 UTC (2023-10-20 19:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1715427792287052041
+- Metrics (at fetch): not returned
+
+> Although it is not mandatory for Ozys to obtain ISMS, they have chosen to do so to ensure a safe service environment for the users.
+>
+> This safety-first and user-oriented mindset is something that we truly admire and something that we believe Web3 should proactively seek.
+>
+> (3/5)
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-20 18:00 UTC (2023-10-20 19:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1715427795021729972
+- Metrics (at fetch): not returned
+
+> It has been a great journey to help Ozys acquire the ISMS certification, and it is always our honor to watch our partners thrive.
+>
+> ChainLight will continue to push boundaries to make Web3 a safer place.
+>
+> (4/5)
+
+
+### Thread part 5 — @ChainLight_io — 2023-10-20 18:00 UTC (2023-10-20 19:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1715427797710364819
+- Metrics (at fetch): not returned
+
+> Established in 2016, ChainLight's award-winning experts provide tailored security solutions to fortify your smart contract and help you thrive on the blockchain.
+>
+> If you would like to receive the latest research and updates from us:
+> 👉 Follow @ChainLight_io
+>
+> (5/5) https://twitter.com/ChainLight_io/status/1715427786041819371
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1715427786041819371
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-10-20 18:00 UTC (2023-10-20 19:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1715427786041819371
+    - Metrics (at fetch): not returned
+    
+    > Helping partners thrive without fear.
+    >
+    > As a security advisor of Ozys (@Orbit_Chain), we are thrilled to announce that Ozys has acquired the ISMS certification, the most advanced certification for information security management systems in South Korea.
+    >
+    > (1/5) [pic.x.com/VrR3VVv7V1]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2023-10-19 · Post · This vulnerability in the @perpprotocol could have potentially led to involuntary cancellation of th
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-10-19 15:08 UTC (2023-10-19 16:08 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1715022155367506183
+- Metrics (at fetch): not returned
+
+> This vulnerability in the @perpprotocol could have potentially led to involuntary cancellation of the user's open positions.
+>
+> On July 22nd, we identified and reported a vulnerability in their contract that could have allowed an attacker to manipulate the victim's liquidation [pic.x.com/OC1TxOtAY0]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2023-10-17 · Post · Dear @github, we have discovered a bug.
+
+
+### Post — @ChainLight_io — 2023-10-17 15:00 UTC (2023-10-17 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1714295315367625117
+- Metrics (at fetch): not returned
+
+> Dear @github, we have discovered a bug.
+>
+> The comment function on the new file is completely disabled when there is a "typechange," replacing one file with another file type (e.g., symlink).
+>
+> We believe the following has happened:
+> 1. The typechange results in two distinct entries [pic.x.com/nQGmkPGjBm]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2023-10-16 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932935995302334
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly recap to stay in the loop 🧵👇
+>
+> 1/9 [pic.x.com/4WzXauuyms]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F8kc647agAABSdg.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932939640365107
+- Metrics (at fetch): not returned
+
+> Table Of Contents:
+>
+> 1️⃣-2️⃣ Stablecoin $USDR Depegs
+> 3️⃣ Platypus Finance Exploited
+> 4️⃣ Rug Pulls on BSC
+> 5️⃣ 3Commas Allows Unauthorized Trades
+> 6️⃣ An MEV Bot Front-runs a 6-Figure Exploit
+>
+> 2/9
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932942295380309
+- Metrics (at fetch): not returned
+
+> 1️⃣ Stablecoin $USDR Depegs (1/2)
+>
+> Two @0xPolygonLabs stablecoins suffer major losses.
+> • @tangibleDAO's $USDR crashes to $0.52 due to a 130K $USDR sell-off
+> • This panic selling was triggered by the instant redemption of the entire liquid $DAI from the project's treasury.
+>
+> 3/9 https://twitter.com/tangibleDAO/status/1712218741398966774
+
+**Links in post:** https://twitter.com/tangibleDAO/status/1712218741398966774
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1451655951782580227 — 2023-10-11 21:28 UTC (2023-10-11 22:28 WAT)
+    
+    - URL: https://x.com/1451655951782580227/status/1712218741398966774
+    - Metrics (at fetch): not returned
+    
+    > An update on $USDR
+    >
+    > Over a short period of time, all of the liquid $DAI from the $USDR treasury was redeemed.
+    >
+    > This lead to an accelerated drawdown in the market cap.
+    >
+    > Combined with the lack of DAI for redemptions, panic selling ensued, causing a depeg.
+    >
+    > We’re working on
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932945097134502
+- Metrics (at fetch): not returned
+
+> 2️⃣ Stablecoin $USDR Depegs (2/2)
+>
+> • @tangibleDAO relies primarily on rental income from its real estate
+> • A significant portion of $USDR's backing, consisting of $DAI and $TNGBL, posed instability.
+> • Tangible presents an action plan to address this issue.
+>
+> 4/9 https://twitter.com/tangibleDAO/status/1712250414618562725
+
+**Links in post:** https://twitter.com/tangibleDAO/status/1712250414618562725
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1451655951782580227 — 2023-10-11 23:34 UTC (2023-10-12 00:34 WAT)
+    
+    - URL: https://x.com/1451655951782580227/status/1712250414618562725
+    - Metrics (at fetch): not returned
+    
+    > As we’ve all seen, USDR has suffered a serious depeg.
+    >
+    > Over a short period of time, all of the liquid DAI from the treasury was redeemed.
+    >
+    > This led to an accelerated drawdown in the market cap.
+    >
+    > Combined with the lack of DAI for redemptions, and liquidation timeline on real [pic.x.com/1sgRPfpIT0]
+    
+    **Media:**
+    - media `3_1712245908476436480` (details not returned by the API)
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932948058390561
+- Metrics (at fetch): not returned
+
+> 3️⃣ Platypus Finance Exploited
+>
+> • @Platypusdefi, a DeFi protocol on @Avax, experienced a $2.2M exploit, marking the project's third attack.
+> • The attacker manipulated the token swap rate using a vulnerability in the smart contract.
+> • The team addresses the issue &amp; plans.
+>
+> 5/9 https://twitter.com/StableJack_xyz/status/1713108636594287076
+
+**Links in post:** https://twitter.com/StableJack_xyz/status/1713108636594287076
+
+**Quoted post** 1713108636594287076: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 6 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932951279603835
+- Metrics (at fetch): not returned
+
+> 4️⃣ Rugpulls on BSC
+>
+> • Lucky Star Currency (@AstrAstrol75591) and $FSL token, based on BSC, rugs and drains $2.8M.
+> • LSC withdrew $1.1M from a two-week-old contract.
+> • $FSL dumped pre-minted tokens worth $1.68M in less than 24 hours after its launch.
+>
+> 6/9 https://twitter.com/RektHQ/status/1712236556847641002
+
+**Links in post:** https://twitter.com/RektHQ/status/1712236556847641002
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1297925400090337280 — 2023-10-11 22:39 UTC (2023-10-11 23:39 WAT)
+    
+    - URL: https://x.com/1297925400090337280/status/1712236556847641002
+    - Metrics (at fetch): not returned
+    
+    > As @SBF_FTX 's trial occupies the crypto hivemind's attention, it's business as usual on @BNBCHAIN.
+    >
+    > $2.79M has been rugged already this week between two projects: @AstrAstrol75591 and FSL token.
+    >
+    > Who’s still apeing into this stuff?
+    >
+    > https://rekt.news/LSC-FSL-rekt/ [pic.x.com/lE85f6I8Zn]
+    
+    **Media:**
+    - media `3_1712236395375349760` (details not returned by the API)
+    
+    **Links in post:** https://rekt.news/LSC-FSL-rekt/
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932954316198024
+- Metrics (at fetch): not returned
+
+> 5️⃣ 3Commas Allows Unauthorized Trades
+>
+> • @3commas_io is faces security challenges with compromised user accounts, resulting in unauthorized trades.
+> • The same issue occurred previously due to API key leaks.
+>
+> 7/9 https://twitter.com/3commas_io/status/1711009607496130808
+
+**Links in post:** https://twitter.com/3commas_io/status/1711009607496130808
+
+**Quoted post (full text):**
+
+    #### Quoted post — @956912092644347904 — 2023-10-08 13:24 UTC (2023-10-08 14:24 WAT)
+    
+    - URL: https://x.com/956912092644347904/status/1711009607496130808
+    - Metrics (at fetch): not returned
+    
+    > Notice of Incident.  We've identified a security incident that has come to our attention concerning the security of 3Commas accounts. 📚Learn more and stay secure: 
+    > Read our Blog Post: https://loom.ly/jYd7ltI [pic.x.com/MRJ40D29pj]
+    
+    **Media:**
+    - media `3_1711009592111448065` (details not returned by the API)
+    
+    **Links in post:** https://loom.ly/jYd7ltI
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932957529121206
+- Metrics (at fetch): not returned
+
+> 6️⃣ An MEV Bot Frontruns a 6-Figure Exploit
+>
+> • @Wise_Token, an Ethereum-based lending protocol, faces an attempt of a $118K exploit.
+> • The MEV bot c0ffee.eth frontruns the attacker's transaction.
+> • The protocol rewards c0ffee.eth with 1 ETH.
+>
+> 8/9 https://twitter.com/peckshield/status/1712941596361331096
+
+**Links in post:** https://twitter.com/peckshield/status/1712941596361331096
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2023-10-13 21:21 UTC (2023-10-13 22:21 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1712941596361331096
+    - Metrics (at fetch): not returned
+    
+    > #PeckShieldAlert The known @c0ffeebabe.eth MEV bot frontran an exploiting tx with 93.4 ETH ($146.9k) bribe and its own income of 75.79 ETH ($118K) was fully returned to @Wise_Token, which then rewarded the bot 1 ETH.
+    >
+    > Successful frontrun tx: https://etherscan.io/tx/0x7ac4a98599596adbf12fffa2bd23e2a2d2ac7e8989b6ea043fcc412a29126555
+    > Failed [pic.x.com/sBowtOYQjF]
+    
+    **Media:**
+    - media `3_1712938518035722240` (details not returned by the API)
+    - media `3_1712939134887845888` (details not returned by the API)
+    
+    **Links in post:** https://etherscan.io/tx/0x7ac4a98599596adbf12fffa2bd23e2a2d2ac7e8989b6ea043fcc412a29126555
+    
+
+
+### Thread part 9 — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713932961018740873
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> Please comment below if there's anything we missed or should look into.
+>
+> To stay up-to-date with the latest reports on rug pulls, exploits, and security breaches every week for free:
+>
+> 👉 Follow us at @ChainLight_io
+>
+> 9/9 https://twitter.com/ChainLight_io/status/1713932935995302334
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1713932935995302334
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-10-16 15:00 UTC (2023-10-16 16:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1713932935995302334
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly recap to stay in the loop 🧵👇
+    >
+    > 1/9 [pic.x.com/4WzXauuyms]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F8kc647agAABSdg.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-10-14 · Post · You can go faster alone but further together.
+
+
+### Post — @ChainLight_io — 2023-10-14 08:11 UTC (2023-10-14 09:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1713105273706189282
+- Metrics (at fetch): not returned
+
+> You can go faster alone but further together.
+>
+> ChainLight believes that consistent research in exploits and prevention methods is the core foundation of a cybersecurity firm, especially in a fast-paced industry like Web3.
+>
+> We release our research every week for free to assist https://twitter.com/AdityaK0010/status/1713053362743337275
+
+**Links in post:** https://twitter.com/AdityaK0010/status/1713053362743337275
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1522909236627390467 — 2023-10-14 04:45 UTC (2023-10-14 05:45 WAT)
+    
+    - URL: https://x.com/1522909236627390467/status/1713053362743337275
+    - Metrics (at fetch): not returned
+    
+    > Great write up by @ChainLight_io team on the Liquidation Fee Vulnerability , they found in Perpetual Protocol.
+    > https://medium.com/chainlight/retrospecting-liquidation-fee-vulnerability-in-perpetual-protocol-c914cadd575a
+    
+    **Links in post:** https://medium.com/chainlight/retrospecting-liquidation-fee-vulnerability-in-perpetual-protocol-c914cadd575a
+    
+
+
+---
+
+## 2023-10-13 · Post · We're thrilled to announce that ChainLight is the two-time champion of @RareSkills_io's Gas Contest.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-10-13 15:22 UTC (2023-10-13 16:22 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1712851304794689733
+- Metrics (at fetch): not returned
+
+> We're thrilled to announce that ChainLight is the two-time champion of @RareSkills_io's Gas Contest.
+>
+> Thank you RareSkills, for organizing this contest and highlighting the importance of gas optimization, a persistent and fundamental concern on the blockchain.
+>
+> See you next year. [pic.x.com/rV0hH7datw] https://twitter.com/RareSkills_io/status/1712838269497737646
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://twitter.com/RareSkills_io/status/1712838269497737646
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1573675534151655424 — 2023-10-13 14:30 UTC (2023-10-13 15:30 WAT)
+    
+    - URL: https://x.com/1573675534151655424/status/1712838269497737646
+    - Metrics (at fetch): not returned
+    
+    > Top 5 winners for the first gas contest:
+    >
+    > 🥇@ChainLight_io 
+    > 🥈@lj1nu 
+    > 🥉Unknown address
+    > (4) nanoproxy.eth
+    > (5) zumzoom.eth
+    >
+    > Prizes will be directly distributed to the addresses that signed the submissions.
+    >
+    > Thanks everyone for participating! More to come!
+    
+
+
+---
+
+## 2023-10-12 · Thread · Hello, Mr. President.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @ChainLight_io — 2023-10-12 10:06 UTC (2023-10-12 11:06 WAT)
@@ -15736,7 +17484,349 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 >
 > After winning the @defcon CTF for two consecutive years, the @paradigm CTF, and the @dragonflyvc CTF, ChainLight had the honor of being invited to the Blue House and conversing with South Korea's President Yoon Suk Yeol.
 >
-> 1/4 https://t.co/IKUj0dH0GW
+> 1/4 [pic.x.com/IKUj0dH0GW]
 
 **Media:**
 - media `3_1712409374772330496` (details not returned by the API)
+
+
+### Thread part 2 — @ChainLight_io — 2023-10-12 10:06 UTC (2023-10-12 11:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1712409400592515237
+- Metrics (at fetch): not returned
+
+> The event was organized to encourage the efforts of young white-hat hackers and to listen to various voices from the field of cybersecurity.
+>
+> ChainLight was the sole team specializing in Web3 among numerous skilled cybersecurity experts from diverse sectors.
+>
+> 2/4 [pic.x.com/PsCJwYmzV7]
+
+**Media:**
+- media `3_1712409391058833408` (details not returned by the API)
+
+
+### Thread part 3 — @ChainLight_io — 2023-10-12 10:06 UTC (2023-10-12 11:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1712409411803902301
+- Metrics (at fetch): not returned
+
+> We sincerely appreciate South Korea's invitation and efforts in communicating with and encouraging cybersecurity experts.
+>
+> ChainLight will continue to explore new and effective blockchain security technologies, share our research, and make Web3 a safer place.
+>
+> 3/4 [pic.x.com/umGL8PGKDa]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F8OzR-jbMAArCH-.jpg — no alt text provided by author
+
+
+### Thread part 4 — @ChainLight_io — 2023-10-12 10:06 UTC (2023-10-12 11:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1712409415608070531
+- Metrics (at fetch): not returned
+
+> Established in 2016, ChainLight's award-winning experts provide tailored security solutions to fortify your smart contract and help you thrive on the blockchain.
+>
+> If you would like to receive the newest research and updates from the us:
+>
+> 👉 Follow @ChainLight_io
+>
+> 4/4 https://twitter.com/ChainLight_io/status/1712409388441600398
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1712409388441600398
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-10-12 10:06 UTC (2023-10-12 11:06 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1712409388441600398
+    - Metrics (at fetch): bookmark 17, impression 64150, like 228, quote 5, reply 8, retweet 24
+    
+    > Hello, Mr. President.
+    >
+    > After winning the @defcon CTF for two consecutive years, the @paradigm CTF, and the @dragonflyvc CTF, ChainLight had the honor of being invited to the Blue House and conversing with South Korea's President Yoon Suk Yeol.
+    >
+    > 1/4 [pic.x.com/IKUj0dH0GW]
+    
+    **Media:**
+    - media `3_1712409374772330496` (details not returned by the API)
+    
+
+
+---
+
+## 2022-12-15 · Thread · ChainLight team's analysis on this attack 🧵
+
+
+### Post — @ChainLight_io — 2022-12-15 06:56 UTC (2022-12-15 07:56 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1603282848311480320
+- Metrics (at fetch): not returned
+
+> ChainLight team's analysis on this attack 🧵
+> TL;DR - The attacker had stolen FPR and FPR/BSC-USD LP token from four victim contracts that have public setAdmin()
+> https://x.com/peckshield/status/1603226968706936832
+
+**Links in post:** https://x.com/peckshield/status/1603226968706936832
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2022-12-15 03:14 UTC (2022-12-15 04:14 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1603226968706936832
+    - Metrics (at fetch): not returned
+    
+    > FPR Token on BSC is exploited  (w/ ～$29k) https://bscscan.com/tx/0x1f8e814029a073c52a8668e6ff5bb3264445a8b29886cc9e3ca8ed5f89ccacd3
+    > $FRP has dropped -95%, ~101 $BNB already into Tornado Cash [pic.x.com/vaRG5tdGk2]
+    
+    **Media:**
+    - media `3_1603226922368266242` (details not returned by the API)
+    - media `3_1603226950063230977` (details not returned by the API)
+    
+    **Links in post:** https://bscscan.com/tx/0x1f8e814029a073c52a8668e6ff5bb3264445a8b29886cc9e3ca8ed5f89ccacd3
+    
+
+
+### Thread part 2 — @ChainLight_io — 2022-12-15 06:56 UTC (2022-12-15 07:56 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1603282856377126913
+- Metrics (at fetch): not returned
+
+> These four are the attack transactions. The largest hack was the first one; the victim contract (0x81c566...) lost all of its FPR (~$26k) because its setAdmin() does not check the previous owner and allow anyone to update the admin.
+> https://bscscan.com/address/0x81c5664be54d89E725ef155F14cf34e6213297B7 [pic.x.com/DDbfUJkXQw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkABQjBUcAElpTU.png — alt text: "1.
+TX: 0xec1b969e1435a1449dd5179404c54b5c60e49f15a1bf6bf8922e8d2978102f4a (Dec-14-2022 06:28:37 PM +UTC)
+Victim Contract: 0x81c5664be54d89E725ef155F14cf34e6213297B7 ($26,274 worth of FPR)
+
+2.
+TX 0x1b66170220287bd90f72a97368f8dea2420a24c9585e9f39bf236af6d2a7dde6 (Dec-14-2022 06:29:16 PM +UTC)
+Victim Contract: 0xe2f0a9b60858f436e1f74d8cdbe03625b9bcc532 ($984 worth of FPR)
+
+3.
+TX 0x43da4322052b045f442cdfc03bcccc797d3bba467beda501222c35d8fd0ebd81 (Dec-14-2022 06:29:40 PM +UTC)
+Victim Contract: 0x39eb555f5f7afd11224ca10e406dba05b4e21bd3 ($312 worth of FPR)
+
+4.
+TX 0x1f8e814029a073c52a8668e6ff5bb3264445a8b29886cc9e3ca8ed5f89ccacd3 (Dec-14-2022 08:06:22 PM +UTC)
+Victim Contract: 0xba5b235cddaac2595bce6bab79274f57fb82bf27 ($2,278 worth of BSC-USD-FPR 2 LP)"
+
+**Links in post:** https://bscscan.com/address/0x81c5664be54d89E725ef155F14cf34e6213297B7
+
+
+### Thread part 3 — @ChainLight_io — 2022-12-15 06:56 UTC (2022-12-15 07:56 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1603282859573116928
+- Metrics (at fetch): not returned
+
+> The other three contracts also had the same vulnerability, allowing any address to change the admin with setAdmin(). This bug caused unauthorized transfers of FPR and LP token balances stored in the victim contracts.
+
+
+### Thread part 4 — @ChainLight_io — 2022-12-15 06:56 UTC (2022-12-15 07:56 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1603282862077190144
+- Metrics (at fetch): not returned
+
+> The four victim contracts were all deployed by the same authority (0x2d71adecb7a4f75f7fb21816a980cac307d276d9) during 12/08/2022 to 12/14/2022.
+> https://bscscan.com/address/0x2d71adecb7a4f75f7fb21816a980cac307d276d9BSC-USD
+
+**Links in post:** https://bscscan.com/address/0x2d71adecb7a4f75f7fb21816a980cac307d276d9BSC-USD
+
+
+---
+
+## 2022-12-06 · Thread · @immunefi The library and interfaces are very implicit, but if you are web3 native, you can see that
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ChainLight_io — 2022-12-06 13:57 UTC (2022-12-06 14:57 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1600127221255241728
+- Metrics (at fetch): not returned
+
+> @immunefi The library and interfaces are very implicit, but if you are web3 native, you can see that this code is from AAVE-v2.
+> The bug is that the code does not check the return value of `transferUnderlyingTo`.
+
+
+### Thread part 2 — @ChainLight_io — 2022-12-06 13:57 UTC (2022-12-06 14:57 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1600127269510356992
+- Metrics (at fetch): not returned
+
+> @immunefi When the attacker passes the `receiverAddress` with an EOA address, the victim EOA will lose as much as the premium.
+> The contract should ensure that the recipient's address is not an EOA.
+>
+> fix commit: https://github.com/aave/protocol-v2/commit/273070fada1a7d91631f1f3c63f61b41dbee3139#diff-cab65f8400c5b156ae43670d710bae1d6412910a180b5f4f9ce343e3af2cd55f
+
+**Links in post:** https://github.com/aave/protocol-v2/commit/273070fada1a7d91631f1f3c63f61b41dbee3139#diff-cab65f8400c5b156ae43670d710bae1d6412910a180b5f4f9ce343e3af2cd55f
+
+
+### Thread part 3 — @ChainLight_io — 2022-12-06 14:01 UTC (2022-12-06 15:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1600128214902673413
+- Metrics (at fetch): not returned
+
+> @immunefi + The contract MUST check the return value of external calls.
+>
+> If the contract only checks the recipient's address, whether an EOA or not, the contracts with a fallback function are vulnerable.
+
+
+### Thread part 4 — @ChainLight_io — 2022-12-06 14:07 UTC (2022-12-06 15:07 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1600129926623277056
+- Metrics (at fetch): not returned
+
+> @immunefi Ooops ‼️
+> `transferUnderlyingTo` should be `executeOperation`*
+
+
+---
+
+## 2022-12-02 · Post · The vulnerable contract was deployed 2 hours ago; private key is compromised?
+
+
+### Post — @ChainLight_io — 2022-12-02 02:53 UTC (2022-12-02 03:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1598510659251367936
+- Metrics (at fetch): not returned
+
+> The vulnerable contract was deployed 2 hours ago; private key is compromised?
+> https://www.bscscan.com/tx/0xb2cb9e5311610c48aeed89e44549542362692808257f706accdc75f051ac7303 https://twitter.com/peckshield/status/1598508401755144196
+
+**Links in post:** https://www.bscscan.com/tx/0xb2cb9e5311610c48aeed89e44549542362692808257f706accdc75f051ac7303, https://twitter.com/peckshield/status/1598508401755144196
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2022-12-02 02:44 UTC (2022-12-02 03:44 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1598508401755144196
+    - Metrics (at fetch): not returned
+    
+    > Our analysis shows the $aBNBc token contract has an unlimited mint bug. Specifically, while mint()  is protected with onlyMinter modifier, there is another function (w/ 0x3b3a5522 func. signature) that completely bypasses the caller verification to have arbitrary mint !!! [pic.x.com/caRgasNNHq] https://twitter.com/PeckShieldAlert/status/1598491115887661056
+    
+    **Media:**
+    - media `3_1598507670826262532` (details not returned by the API)
+    - media `3_1598508160821624835` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/PeckShieldAlert/status/1598491115887661056
+    
+    **Quoted post** 1598491115887661056: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-12-02 · Thread · Hey @circle, you should block this address: 0xf3a465c9fa6663ff50794c698f600faa4b05c777 on Ethereum /
+
+
+### Post — @ChainLight_io — 2022-12-02 02:04 UTC (2022-12-02 03:04 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1598498190793531394
+- Metrics (at fetch): not returned
+
+> Hey @circle, you should block this address: 0xf3a465c9fa6663ff50794c698f600faa4b05c777 on Ethereum / Polygon network. [pic.x.com/gqs0MQrBRC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi8BIB2aEAAiYr_.png — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2022-12-02 02:04 UTC (2022-12-02 03:04 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1598498396129865728
+- Metrics (at fetch): not returned
+
+> This address is related to the recent @ankr @ankrstaking  exploit. 👉https://bscscan.com/address/0xf3a465c9fa6663ff50794c698f600faa4b05c777
+
+**Links in post:** https://bscscan.com/address/0xf3a465c9fa6663ff50794c698f600faa4b05c777
+
+
+---
+
+## 2022-12-01 · Thread · We (ChainLight of Theori) are thrilled to announce the release of the TON bridge. ChainLight
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2022-12-01 10:46 UTC (2022-12-01 11:46 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1598267323726454784
+- Metrics (at fetch): not returned
+
+> We (ChainLight of Theori) are thrilled to announce the release of the TON bridge. ChainLight
+> audited TON-bridge in the last 3Q. All threats have been resolved now. - web3 without fear https://twitter.com/Orbit_Chain/status/1598234303036813313
+
+**Links in post:** https://twitter.com/Orbit_Chain/status/1598234303036813313
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1135437024578625537 — 2022-12-01 08:35 UTC (2022-12-01 09:35 WAT)
+    
+    - URL: https://x.com/1135437024578625537/status/1598234303036813313
+    - Metrics (at fetch): not returned
+    
+    > 📢We support TON blockchain
+    >
+    > We're excited to announce that @ton_blockchain
+    >  is now supported on Orbit Bridge
+    >
+    > TON is a fully decentralized layer-1 blockchain designed by Telegram to onboard billions of users.
+    >
+    > ➡️Learn More: https://link.medium.com/uQwIRDdPovb
+    >
+    > @Orbit_Chain #OrbitBridge #TON [pic.x.com/TvSvGMtyyd]
+    
+    **Media:**
+    - media `3_1598234276821991426` (details not returned by the API)
+    
+    **Links in post:** https://link.medium.com/uQwIRDdPovb
+    
+
+
+### Thread part 2 — @ChainLight_io — 2022-12-01 10:46 UTC (2022-12-01 11:46 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1598267407654526977
+- Metrics (at fetch): not returned
+
+> During this audit, we found a critical vulnerability on the TON chain (not from the bridge), which can lead to double spending. A post-mortem will be out soon.
+> STAY TUNED!
+
+
+---
+
+## 2022-11-05 · Post · One of our researchers is 1Eth in the leaderboard! 🎉 https://twitter.com/immunefi/status/15884898849
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ChainLight_io — 2022-11-05 11:49 UTC (2022-11-05 12:49 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1588861091278651392
+- Metrics (at fetch): not returned
+
+> One of our researchers is 1Eth in the leaderboard! 🎉 https://twitter.com/immunefi/status/1588489884939223042
+
+**Links in post:** https://twitter.com/immunefi/status/1588489884939223042
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2022-11-04 11:14 UTC (2022-11-04 12:14 WAT)
+    
+    - URL: https://x.com/immunefi/status/1588489884939223042
+    - Metrics (at fetch): not returned
+    
+    > We’re proud to release the Immunefi Whitehat Leaderboard showing the top 20 whitehats in web3! 
+    >
+    > Whitehats who earn their spot through genius and hard work are eligible for further rewards, exclusive merch, paid trips, speaking opportunities, and more. 
+    >
+    > https://immunefi.com/leaderboard [pic.x.com/rU7SdURzZz]
+    
+    **Media:**
+    - media `3_1588487166916714496` (details not returned by the API)
+    
+    **Links in post:** https://immunefi.com/leaderboard
+    

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 294
-- Conversations/threads: 290
-- Oldest post captured: 2023-10-09
+- Posts in this file: 329
+- Conversations/threads: 325
+- Oldest post captured: 2023-05-23
 - Newest post captured: 2026-11-09
 
 
@@ -6467,13 +6467,61 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2024-01-02 · Post · Ways To Make $ In Crypto/Web3 ~ 2024 Edition
+
+
+### Post — @DevDacian — 2024-01-02 01:30 UTC (2024-01-02 02:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1741995248921055452
+- Metrics (at fetch): bookmark 0, impression 91, like 1, quote 0, reply 0, retweet 0
+
+> Ways To Make $ In Crypto/Web3 ~ 2024 Edition
+>
+> 1) Hard Rug Pull - you create a new token and market it effectively. The token has a liquidity pool against eth and it has admin keys that let you drain the eth from the liquidity pool. Once enough suckers have bought you pull the
+
+
+---
+
+## 2024-01-02 · Post · Ways To Make $ In Crypto/Web3 ~ 2024 Edition
+
+
+### Post — @DevDacian — 2024-01-02 01:24 UTC (2024-01-02 02:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1741993786652438598
+- Metrics (at fetch): bookmark 0, impression 90, like 0, quote 0, reply 0, retweet 0
+
+> Ways To Make $ In Crypto/Web3 ~ 2024 Edition
+>
+> 1) Hard Rug Pull - you create a new token and market it effectively. The token has a liquidity pool against eth and it has admin keys that let you drain the eth from the liquidity pool. Once enough suckers have bought you pull the
+
+
+---
+
+## 2024-01-01 · Post · 2023 ~ a year of change
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2024-01-01 05:25 UTC (2024-01-01 06:25 WAT)
+
+- URL: https://x.com/DevDacian/status/1741691990348337467
+- Metrics (at fetch): bookmark 17, impression 6419, like 66, quote 0, reply 7, retweet 3
+
+> 2023 ~ a year of change
+>
+> March - started researching smart contract auditing as a hobby, openly sharing my learning here and in the "Deep Dive" series on https://t.co/K7DKysLnRz. Got some early success with a nice bug bounty + a few decent contest findings but time was very
+
+
+---
+
 ## 2023-12-27 · Post · I recently contributed an invariant fuzzing testing suite to a project's repo then got hit with this
 
 
 ### Post — @DevDacian — 2023-12-27 08:08 UTC (2023-12-27 09:08 WAT)
 
 - URL: https://x.com/DevDacian/status/1739921080201187721
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 13252, like 39, quote 1, reply 7, retweet 0
 
 > I recently contributed an invariant fuzzing testing suite to a project's repo then got hit with this telegram spam from an audit firm.
 >
@@ -6481,6 +6529,323 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GCVvmEia4AAPomp.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-15 · Post · I wrote this First Flights Challenge!
+
+
+### Post — @DevDacian — 2023-12-15 00:27 UTC (2023-12-15 01:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1735456542705734005
+- Metrics (at fetch): bookmark 3, impression 2837, like 30, quote 0, reply 5, retweet 0
+
+> I wrote this First Flights Challenge!
+>
+> The challenge should only contain 1 High bug, the idea is to get rid of all the low-hanging fruit so you can focus on finding the interesting and more valuable bug.
+>
+> The contract is a simplified version of a real-world contract! https://t.co/4wnH35ZziJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2167078213 — 2023-12-14 16:07 UTC (2023-12-14 17:07 WAT)
+    
+    - URL: https://x.com/2167078213/status/1735330714210451788
+    - Metrics (at fetch): bookmark 1, impression 5528, like 41, quote 2, reply 2, retweet 3
+    
+    > Announcing First Flight #6: Voting Booth
+    >
+    > nSLOC:  80
+    > Start date: December 15, 2023 Noon UTC
+    > Duration: 7 Days
+    >
+    > Get real auditing experience!
+    >
+    > Check it out! 👇
+    >
+    > (1/2) https://t.co/clRhQlQn5P
+    
+    **Media:**
+    - media `3_1735330652008943616` (details not returned by the API)
+    
+
+
+---
+
+## 2023-12-14 · Post · Great feedback from another private audit client @cyfrin!
+
+
+### Post — @DevDacian — 2023-12-14 14:57 UTC (2023-12-14 15:57 WAT)
+
+- URL: https://x.com/DevDacian/status/1735313141402382661
+- Metrics (at fetch): bookmark 1, impression 3840, like 44, quote 0, reply 5, retweet 3
+
+> Great feedback from another private audit client @cyfrin!
+>
+> The primary contract was only 900 lines but we were able to find 2 Critical, 3 Highs, and help the client refactor the contract making it simpler and more efficient.
+>
+> Read the audit @ https://t.co/86KBrZ2I5d https://t.co/lIMTlGTqqF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBURPrJbQAAKal2.png — no alt text provided by author
+
+
+---
+
+## 2023-12-05 · Post · Foundry vs Echidna - "Unstoppable" Damn Vuln DeFi Invariant Challenge.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-12-05 15:51 UTC (2023-12-05 16:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1732065261195526515
+- Metrics (at fetch): bookmark 66, impression 16968, like 100, quote 3, reply 7, retweet 10
+
+> Foundry vs Echidna - "Unstoppable" Damn Vuln DeFi Invariant Challenge.
+>
+> * Unguided mode
+> * 2 invariants - 1 generic (hard to break), 1 specific (should be easier)
+>
+> Echidna breaks both. Foundry sometimes breaks the easier one. Foundry can break both with a lot of extra guidance. https://t.co/Rdo8R6Nusz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAmHyhHboAAJmNu.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GAmHy6BbMAAx-ts.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-05 · Post · Foundry vs Echidna stateful fuzzing the same contract under private audit.
+
+
+### Post — @DevDacian — 2023-12-05 04:58 UTC (2023-12-05 05:58 WAT)
+
+- URL: https://x.com/DevDacian/status/1731900735686685094
+- Metrics (at fetch): bookmark 54, impression 17942, like 130, quote 1, reply 13, retweet 10
+
+> Foundry vs Echidna stateful fuzzing the same contract under private audit.
+>
+> Both break the invariant finding a permissionless Critical exploit but Echidna produces an optimized txn set making it easy to understand + produce PoC for the Client.
+>
+> Echidna &gt; Foundry, gg @trailofbits https://t.co/LbKDXjHAnI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAjxBCjasAAs9LC.jpg — no alt text provided by author
+
+
+---
+
+## 2023-11-28 · Post · Gas optimization: refactor bulk operations to only update storage once. Simplified code from a real-
+
+
+### Post — @DevDacian — 2023-11-28 05:09 UTC (2023-11-28 06:09 WAT)
+
+- URL: https://x.com/DevDacian/status/1729366960704721191
+- Metrics (at fetch): bookmark 3, impression 1680, like 11, quote 0, reply 0, retweet 0
+
+> Gas optimization: refactor bulk operations to only update storage once. Simplified code from a real-world project currently under private audit! https://t.co/yraBlq8bRP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F__x6e8agAAj5RR.png — no alt text provided by author
+
+
+---
+
+## 2023-11-14 · Post · Current private audit is 1 contract ~900 lines. On the first day I found:
+
+
+### Post — @DevDacian — 2023-11-14 23:24 UTC (2023-11-15 00:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1724568985847603436
+- Metrics (at fetch): bookmark 7, impression 13310, like 78, quote 1, reply 6, retweet 2
+
+> Current private audit is 1 contract ~900 lines. On the first day I found:
+>
+> * 2 Crits
+> * 2 High
+> * 1 Med
+> * 1 Low
+> * 8 Gas + useful refactorings to simplify complexity 
+>
+> Lots of attack paths and vulnerabilities can be present even in smaller contracts. After the first day I presented
+
+
+---
+
+## 2023-11-14 · Post · Part of the raft finance exploit involved repeatedly minting 1 wei.
+
+
+### Post — @DevDacian — 2023-11-14 09:01 UTC (2023-11-14 10:01 WAT)
+
+- URL: https://x.com/DevDacian/status/1724351803846975607
+- Metrics (at fetch): bookmark 40, impression 8887, like 48, quote 1, reply 4, retweet 5
+
+> Part of the raft finance exploit involved repeatedly minting 1 wei.
+>
+> I found a similar exploit (https://t.co/aq1AKlcJ0n) where I was able to repeatedly mint 1 wei to leach free tokens due to a rounding down to zero precision loss in the share  calculation.
+>
+> Also worked in inverse https://t.co/J4ARFn8U99
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2023-11-14 08:30 UTC (2023-11-14 09:30 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1724344137065886183
+    - Metrics (at fetch): bookmark 74, impression 51130, like 153, quote 6, reply 2, retweet 22
+    
+    > The @raft_fi issue is complex and we're actively investigating it. We've offered to help their team however we can. Here's some of what we know so far:
+    
+
+
+---
+
+## 2023-11-10 · Post · EPIC New "DAO Governance DeFi Attacks" Deep Dive is OUT!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-11-10 14:55 UTC (2023-11-10 15:55 WAT)
+
+- URL: https://x.com/DevDacian/status/1722991415997915153
+- Metrics (at fetch): bookmark 74, impression 12532, like 101, quote 3, reply 12, retweet 15
+
+> EPIC New "DAO Governance DeFi Attacks" Deep Dive is OUT!
+>
+> Using @SoloditOfficial I read every single DAO &amp; voting finding in the history of audit contests to absolutely smash my first private audit @cyfrin, and now I've distilled all that knowledge to help YOU build more
+
+
+---
+
+## 2023-11-10 · Post · Great feedback from our happy client in my first private audit @cyfrin
+
+
+### Post — @DevDacian — 2023-11-10 14:09 UTC (2023-11-10 15:09 WAT)
+
+- URL: https://x.com/DevDacian/status/1722979912569536877
+- Metrics (at fetch): bookmark 0, impression 2219, like 39, quote 0, reply 0, retweet 1
+
+> Great feedback from our happy client in my first private audit @cyfrin
+>
+> Found very creative exploits in a complicated protocol built by some very smart developers &amp; produced PoCs for every finding where it was suitable.
+>
+> Stacked report plus New EPIC Deep Dive SOON! https://t.co/iBIXMUnDBD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-lARgtbEAApQi5.png — no alt text provided by author
+
+
+---
+
+## 2023-11-08 · Post · Heuristics I'm using to find sick critical smart contract exploits:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-11-08 01:08 UTC (2023-11-08 02:08 WAT)
+
+- URL: https://x.com/DevDacian/status/1722058475445109234
+- Metrics (at fetch): bookmark 59, impression 4679, like 63, quote 0, reply 2, retweet 6
+
+> Heuristics I'm using to find sick critical smart contract exploits:
+>
+> 1) do many small operations result in the same effect as one large operation?
+>
+> 2) does "total" (stored in its own storage location) equal the sum of all individual user values (stored in a mapping) at all times?
+
+
+---
+
+## 2023-10-30 · Post · 1) Spending a lot of time and mental energy to understand the protocol very well
+
+
+### Post — @DevDacian — 2023-10-30 08:39 UTC (2023-10-30 09:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1718910519355351208
+- Metrics (at fetch): bookmark 21, impression 5207, like 33, quote 3, reply 2, retweet 4
+
+> 1) Spending a lot of time and mental energy to understand the protocol very well
+>
+> 2) Developing a creative attacker mindset, learning to challenge the code &amp; developer assumptions
+>
+> 3) Finding unexpected/unchecked state transitions, ways to use system components in sequences the https://t.co/89SRWLkaz3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1361216513114468354 — 2023-10-30 08:31 UTC (2023-10-30 09:31 WAT)
+    
+    - URL: https://x.com/1361216513114468354/status/1718908564604063952
+    - Metrics (at fetch): bookmark 0, impression 4706, like 1, quote 1, reply 0, retweet 0
+    
+    > @DevDacian @cyfrin Great work Dacian, what's the key of this kind of result.
+    
+
+
+---
+
+## 2023-10-30 · Post · Draft of our latest audit report @cyfrin going out to the client. Feeling blessed to have worked har
+
+
+### Post — @DevDacian — 2023-10-30 08:27 UTC (2023-10-30 09:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1718907565739057501
+- Metrics (at fetch): bookmark 3, impression 2563, like 27, quote 0, reply 3, retweet 2
+
+> Draft of our latest audit report @cyfrin going out to the client. Feeling blessed to have worked hard to help improve the security of this ambitious project!
+>
+> Our stacked report is full of PoCs; a great learning tool for aspiring auditors on how to go from code to exploit👀 https://t.co/kOfLpB5kSp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9rHVIjbYAAs5SC.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F9rHVa0aEAA1jMq.png — no alt text provided by author
+
+
+---
+
+## 2023-10-27 · Post · big complex code = lots of room for attack vectors.
+
+
+### Post — @DevDacian — 2023-10-27 04:25 UTC (2023-10-27 05:25 WAT)
+
+- URL: https://x.com/DevDacian/status/1717759363484672004
+- Metrics (at fetch): bookmark 4, impression 2785, like 29, quote 2, reply 1, retweet 4
+
+> big complex code = lots of room for attack vectors.
+>
+> but small simple code = likely edge cases haven't been correctly handled -&gt; room for creative attack vectors.
+>
+> Case in point: one of the sick critical findings in our current audit started by exploiting "&lt;" instead of "&lt;=" https://t.co/ZMQA2gLmiL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @250367524 — 2023-10-26 23:02 UTC (2023-10-27 00:02 WAT)
+    
+    - URL: https://x.com/250367524/status/1717678139478839533
+    - Metrics (at fetch): bookmark 0, impression 4848, like 24, quote 2, reply 5, retweet 0
+    
+    > the less code a codebase has, the less bugs can exist
+    
+
+
+---
+
+## 2023-10-19 · Post · My first audit @cyfrin thrown into the deep end on a project with 100% test coverage &amp; 2 prev au
+
+
+### Post — @DevDacian — 2023-10-19 11:07 UTC (2023-10-19 12:07 WAT)
+
+- URL: https://x.com/DevDacian/status/1714961404216901881
+- Metrics (at fetch): bookmark 5, impression 7060, like 105, quote 0, reply 11, retweet 5
+
+> My first audit @cyfrin thrown into the deep end on a project with 100% test coverage &amp; 2 prev audits.
+>
+> So far I've found 2 absolutely SICK criticals + many H/M &amp; my teammate also has a bunch of findings.
+>
+> Looking forward to sharing this STACKED report full of SICK exploits!
 
 
 ---
@@ -6503,3 +6868,439 @@ Tags (automatic): Smart contract / DeFi
 > October 2023 - blessed to join @cyfrin as a full-time smart contract security researcher!
 >
 > 🚀A lot can change in a year if you put your mind to it🚀
+
+
+---
+
+## 2023-10-02 · Post · If a project has ~100% test coverage, auditors should check whether the test suite also includes tes
+
+
+### Post — @DevDacian — 2023-10-02 05:01 UTC (2023-10-02 06:01 WAT)
+
+- URL: https://x.com/DevDacian/status/1708708746334249363
+- Metrics (at fetch): bookmark 5, impression 1398, like 16, quote 0, reply 1, retweet 1
+
+> If a project has ~100% test coverage, auditors should check whether the test suite also includes tests using tokens with different precision types?
+>
+> If the test suite only uses tokens with 18 decimal precision then critical findings will likely exist for non-standard tokens.
+
+
+---
+
+## 2023-09-18 · Post · Only 1 high finding in @CodeHawks @sparkn_io contest:
+
+
+### Post — @DevDacian — 2023-09-18 00:04 UTC (2023-09-18 01:04 WAT)
+
+- URL: https://x.com/DevDacian/status/1703560599110811760
+- Metrics (at fetch): bookmark 9, impression 2977, like 41, quote 0, reply 0, retweet 2
+
+> Only 1 high finding in @CodeHawks @sparkn_io contest:
+>
+> Missing parameter in signature digest allows any attacker to replay same signature against different implementation (reward pool)
+>
+> My submission used Sparkn to model Sparkn's CodeHawks audit contest!
+>
+> https://t.co/7pWYMcgzOx https://t.co/z7WUVyEsO9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6RCSgWbYAAsQJ2.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-24 · Post · Benefits of PoC:
+
+
+### Post — @DevDacian — 2023-08-24 12:32 UTC (2023-08-24 13:32 WAT)
+
+- URL: https://x.com/DevDacian/status/1694689019626754151
+- Metrics (at fetch): bookmark 9, impression 5774, like 29, quote 3, reply 3, retweet 1
+
+> Benefits of PoC:
+>
+> 1) Finding out your idea didn't actually work,
+>
+> 2) Learning more about how the system works implementing the PoC leading to better subsequent findings,
+>
+> 3) Proving the exploit to the judge/client,
+>
+> 4) PoC easily added to project's automated test suite
+>
+> ❤️ PoC ❤️ https://t.co/SwL4r4ZaEr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14488050 — 2023-08-24 08:44 UTC (2023-08-24 09:44 WAT)
+    
+    - URL: https://x.com/14488050/status/1694631718697799864
+    - Metrics (at fetch): bookmark 6, impression 9566, like 33, quote 4, reply 13, retweet 0
+    
+    > I honestly think that any med/high/crit finding must have a PoC to showcase it to be accepted in any contest or report.
+    >
+    > There are exceptions (if the outcome is really, really obvious) but in general, I think that you (security researcher) should always invest some of your time
+    
+
+
+---
+
+## 2023-08-14 · Post · Really cool finding from @CodeHawks Stablecoin contest:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-08-14 20:59 UTC (2023-08-14 21:59 WAT)
+
+- URL: https://x.com/DevDacian/status/1691192908597334018
+- Metrics (at fetch): bookmark 8, impression 3663, like 32, quote 0, reply 2, retweet 1
+
+> Really cool finding from @CodeHawks Stablecoin contest:
+>
+> * mismatched precision scaling issue for tokens with less than 18 decimal places,
+>
+> * resulted in wrong fiat_value&lt;-&gt;token_amount calculations,
+>
+> * weaponized the vuln to steal user collateral during liquidation.
+>
+> Fantastic! https://t.co/h8T7BObUzi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1519875568170381312 — 2023-08-14 17:00 UTC (2023-08-14 18:00 WAT)
+    
+    - URL: https://x.com/1519875568170381312/status/1691132694099382291
+    - Metrics (at fetch): bookmark 50, impression 12039, like 97, quote 3, reply 8, retweet 10
+    
+    > This submission for the @CodeHawks contest is of exceptional quality.
+    >
+    > https://t.co/zyusUGpJH3
+    
+
+
+---
+
+## 2023-08-07 · Post · Beedle @CodeHawks finished. Focused on:
+
+
+### Post — @DevDacian — 2023-08-07 04:24 UTC (2023-08-07 05:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1688405713301983232
+- Metrics (at fetch): bookmark 4, impression 3459, like 48, quote 0, reply 7, retweet 1
+
+> Beedle @CodeHawks finished. Focused on:
+>
+> * adopting attacker mindset &amp; developing attack paths for every system actor,
+>
+> * hunting sequences of function calls &amp; inputs which system didn't expect that a bad actor could leverage,
+>
+> * clear &amp; concise PoCs for every such attack path https://t.co/36iyZ9Jz48
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F25rRkpagAApM9B.png — no alt text provided by author
+
+
+---
+
+## 2023-07-18 · Post · Found one more critical issue in this project that is due to deploy any moment now!
+
+
+### Post — @DevDacian — 2023-07-18 10:21 UTC (2023-07-18 11:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1681247870450806785
+- Metrics (at fetch): bookmark 25, impression 7910, like 67, quote 0, reply 6, retweet 5
+
+> Found one more critical issue in this project that is due to deploy any moment now!
+>
+> Missing _disableInitializers() when using UUPS Proxy, especially bad as it allows an attacker to re-initialize the implementation contract &amp; steal ownership.
+>
+> But has green tick so good to go! https://t.co/dy3tUayXo8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1T97QlaEAAjWq_.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-18 · Post · This code was audited by a well-known firm &amp; both of these issues were missed.
+
+
+### Post — @DevDacian — 2023-07-18 08:54 UTC (2023-07-18 09:54 WAT)
+
+- URL: https://x.com/DevDacian/status/1681225942797262848
+- Metrics (at fetch): bookmark 67, impression 50623, like 160, quote 3, reply 18, retweet 12
+
+> This code was audited by a well-known firm &amp; both of these issues were missed.
+>
+> The project is due to launch in a few hours.
+>
+> 23-page audit report says "Contract is safe to deploy" with big green tick.
+>
+> What do you think? https://t.co/FyCzmbcxNV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1TovY6aUAA1GfP.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-09 · Post · Niche critical finding ⬇️
+
+
+### Post — @DevDacian — 2023-07-09 23:14 UTC (2023-07-10 00:14 WAT)
+
+- URL: https://x.com/DevDacian/status/1678180849429225473
+- Metrics (at fetch): bookmark 23, impression 4413, like 46, quote 0, reply 0, retweet 1
+
+> Niche critical finding ⬇️
+>
+> When requesting randomness via $LINK, REQUEST_CONFIRMATIONS &gt; depth of common block re-orgs that occur on the target chain(s) the contract is to be deployed on, as block re-orgs change returned randomness!
+>
+> By @pashov https://t.co/KVIVupTt9p https://t.co/6ICAhCMz5w
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0oXroHagAEKED5.png — no alt text provided by author
+
+
+---
+
+## 2023-07-02 · Post · Q: Your results are amazing, how did you start?!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-07-02 00:13 UTC (2023-07-02 01:13 WAT)
+
+- URL: https://x.com/DevDacian/status/1675296709767835650
+- Metrics (at fetch): bookmark 62, impression 11346, like 83, quote 0, reply 6, retweet 4
+
+> Q: Your results are amazing, how did you start?!
+>
+> A: Learning Solidity Oct 2022 https://t.co/izOJjqby55 &amp; https://t.co/9zTSJ9vlLA
+>
+> Jan/Feb 2023 did some CTFs, mainly ethernaut &amp; damn vuln defi.
+>
+> March started audit contests.
+>
+> All done in my spare time; I run a real-world business
+
+
+---
+
+## 2023-07-01 · Post · March, April &amp; May = $29,500 USD from 1x bug bounty &amp; 2x audit contests (placed 19 &amp; 1
+
+
+### Post — @DevDacian — 2023-07-01 13:18 UTC (2023-07-01 14:18 WAT)
+
+- URL: https://x.com/DevDacian/status/1675131867668926465
+- Metrics (at fetch): bookmark 3, impression 4723, like 44, quote 0, reply 2, retweet 0
+
+> March, April &amp; May = $29,500 USD from 1x bug bounty &amp; 2x audit contests (placed #19 &amp; #15).
+>
+> June = holidaying overseas. Remaining goals for 2023:
+>
+> 1) Top #10 in audit contest
+> 2) Top #5 in audit contest
+> 3) #1 in audit contest
+> 4) Join a top firm &amp; do this full-time with a top team https://t.co/77SxjnlSPT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1358831196747235328 — 2023-07-01 12:59 UTC (2023-07-01 13:59 WAT)
+    
+    - URL: https://x.com/1358831196747235328/status/1675126861402103811
+    - Metrics (at fetch): bookmark 1, impression 8963, like 29, quote 2, reply 3, retweet 0
+    
+    > We’ve officially made it through more than half of 2023. What have you accomplished so far? What goals do you have on the horizon? 🐺
+    
+
+
+---
+
+## 2023-06-30 · Post · For private/firm audits, still valuable to learn all the valid attacks &amp; vulns that are now excl
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-06-30 01:57 UTC (2023-06-30 02:57 WAT)
+
+- URL: https://x.com/DevDacian/status/1674597946061656065
+- Metrics (at fetch): bookmark 2, impression 1869, like 24, quote 0, reply 2, retweet 2
+
+> For private/firm audits, still valuable to learn all the valid attacks &amp; vulns that are now excluded from rewards in audit contests.
+>
+> Think how embarrassing it would be if you did a private/firm audit &amp; missed a ton of valid issues just cause Sherlock doesn't reward them anymore!
+
+
+---
+
+## 2023-06-30 · Post · I submitted this vuln to Sherlock's Perennial contest &amp; was excluded with: "Not a valid high/med
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-06-30 01:48 UTC (2023-06-30 02:48 WAT)
+
+- URL: https://x.com/DevDacian/status/1674595626955452416
+- Metrics (at fetch): bookmark 3, impression 2514, like 20, quote 0, reply 2, retweet 0
+
+> I submitted this vuln to Sherlock's Perennial contest &amp; was excluded with: "Not a valid high/med in Sherlock".
+>
+> FYI, there are many valid attacks &amp; issues which were H/Ms in 2021/2022 but are now worthless in audit contests.
+>
+> Still valuable for private audits &amp; working at a firm. https://t.co/YIavijpwcj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1278715995864080385 — 2023-06-30 01:40 UTC (2023-06-30 02:40 WAT)
+    
+    - URL: https://x.com/1278715995864080385/status/1674593710946893825
+    - Metrics (at fetch): bookmark 19, impression 5259, like 30, quote 2, reply 1, retweet 4
+    
+    > Recommended reading: ERC20 API: Attack on Approve/TransferFrom Methods.
+    >
+    > EIP-20 token's approve() function vulnerability: approved spenders can exceed limits through front-running attacks with transferFrom(). 
+    >
+    > https://t.co/UvWVFANVds
+    
+
+
+---
+
+## 2023-06-27 · Post · Precision Loss Medium Finding - Buy price &amp; trade fees should round up.
+
+
+### Post — @DevDacian — 2023-06-27 02:47 UTC (2023-06-27 03:47 WAT)
+
+- URL: https://x.com/DevDacian/status/1673523361635532803
+- Metrics (at fetch): bookmark 12, impression 1613, like 33, quote 0, reply 0, retweet 1
+
+> Precision Loss Medium Finding - Buy price &amp; trade fees should round up.
+>
+> Rounding should always be in favor of the protocol to prevent leaking value from the system to traders.
+>
+> Credit @cyfrin SudoSwap audit
+>
+> https://t.co/Z1AErihQ4H https://t.co/UXPVweNxMB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FzmImoqXoAEz2f-.png — no alt text provided by author
+
+
+---
+
+## 2023-06-24 · Post · FYI auditors: in recent GMX Update &amp; USSD @sherlockdefi audit contests, precision loss has been 
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-06-24 03:13 UTC (2023-06-24 04:13 WAT)
+
+- URL: https://x.com/DevDacian/status/1672442900528103426
+- Metrics (at fetch): bookmark 4, impression 2309, like 18, quote 0, reply 2, retweet 0
+
+> FYI auditors: in recent GMX Update &amp; USSD @sherlockdefi audit contests, precision loss has been judged as low &amp; excluded from rewards.
+>
+> For H/M, need to demonstrate significant precision loss with significant impact on protocol functionality and/or system/user asset value
+
+
+---
+
+## 2023-06-18 · Post · Many contests would have been well served doing a private audit first to remove many commonly-found 
+
+
+### Post — @DevDacian — 2023-06-18 07:51 UTC (2023-06-18 08:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1670338340934287360
+- Metrics (at fetch): bookmark 0, impression 3246, like 16, quote 1, reply 4, retweet 1
+
+> Many contests would have been well served doing a private audit first to remove many commonly-found issues.
+>
+> This forces contest auditors to work harder &amp; dig deeper into the protocol, as there should be no low-hanging fruit left.
+>
+> Private audits &amp; contests can be symbiotic. https://t.co/t10z1OgiYB
+
+**Quoted post (full text):**
+
+    #### Quoted post — @878722023970787329 — 2023-06-18 04:05 UTC (2023-06-18 05:05 WAT)
+    
+    - URL: https://x.com/878722023970787329/status/1670281593972203522
+    - Metrics (at fetch): bookmark 3, impression 7516, like 36, quote 1, reply 4, retweet 2
+    
+    > Unpopular opinion: private audits are neither a reliable career path nor the best choice for protocols. 
+    >
+    > Despite what CT says, only the top 1% should be doing it. 
+    >
+    > If you're not finding 80% of issues, you shouldn't do it. If you can afford it, you should host a contest.
+    
+
+
+---
+
+## 2023-06-15 · Post · First @code4rena contest payout:  placed 15/102, $1008.23.
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-06-15 04:49 UTC (2023-06-15 05:49 WAT)
+
+- URL: https://x.com/DevDacian/status/1669205560464654336
+- Metrics (at fetch): bookmark 6, impression 4394, like 85, quote 0, reply 10, retweet 2
+
+> First @code4rena contest payout:  placed 15/102, $1008.23.
+>
+> Very encouraging to have 2 top-20 finishes (#19 TellerV2 &amp; #15 Venus Isolated Pools) in my first audit contest payouts on sherlock &amp; c4 respectively.
+>
+> Next goal is a top 10 finish! https://t.co/8qNUQroLWh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fyo0HJPaEAEReb8.png — no alt text provided by author
+
+
+---
+
+## 2023-05-26 · Post · Found &amp; reported an interesting live vulnerability in a smart contract that is part of a wagerin
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2023-05-26 09:17 UTC (2023-05-26 10:17 WAT)
+
+- URL: https://x.com/DevDacian/status/1662025077783957504
+- Metrics (at fetch): bookmark 2, impression 5415, like 58, quote 0, reply 8, retweet 0
+
+> Found &amp; reported an interesting live vulnerability in a smart contract that is part of a wagering/betting platform.
+>
+> Team responded very quickly, handled it very professionally, sent me this lovely message &amp; gave me a bug bounty!
+>
+> I ❤️ helping ❤️ to secure this space! https://t.co/4JpuMm5Jlh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxCxzeNagAE2GUl.png — no alt text provided by author
+
+
+---
+
+## 2023-05-23 · Post · 0x0 "AI Smart Contract Auditor" with no audit reports up over 2300x from day1 mid-price, being acti
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @DevDacian — 2023-05-23 21:40 UTC (2023-05-23 22:40 WAT)
+
+- URL: https://x.com/DevDacian/status/1661125056100204544
+- Metrics (at fetch): bookmark 0, impression 1193, like 6, quote 0, reply 0, retweet 0
+
+> #0x0 "AI Smart Contract Auditor" with no audit reports up over 2300x from day1 mid-price, being actively distributed (dumped).
+>
+> Sign: 2 biggest all-time volume days had no forward price progress; when buyers showed up, big sellers started to dump on them - danger! Whales exiting. https://t.co/WPg12uoXGK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fw1_X9BacAU9c-J.jpg — no alt text provided by author

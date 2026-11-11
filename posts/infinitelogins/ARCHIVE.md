@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 113
-- Conversations/threads: 113
-- Oldest post captured: 2021-01-12
+- Posts in this file: 122
+- Conversations/threads: 122
+- Oldest post captured: 2020-01-17
 - Newest post captured: 2026-11-04
 
 
@@ -2875,6 +2875,82 @@ Tags (automatic): SSRF
 
 ---
 
+## 2021-08-24 · Post · Quick video showing the Razer local privilege escalation bug that @j0nh4t found. https://t.co/0uMXe
+
+
+### Post — @infinitelogins — 2021-08-24 23:52 UTC (2021-08-25 00:52 WAT)
+
+- URL: https://x.com/infinitelogins/status/1430317095691034627
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 2
+
+> Quick video showing the #Razer local privilege escalation bug that @j0nh4t found. https://t.co/0uMXe54EfD #cybersecurity #infosec
+
+
+---
+
+## 2021-08-17 · Post · Everybody hopping on the CVE hunt.. I have FOMO, might have to join in.
+
+
+### Post — @infinitelogins — 2021-08-17 13:29 UTC (2021-08-17 14:29 WAT)
+
+- URL: https://x.com/infinitelogins/status/1427623562106400771
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Everybody hopping on the CVE hunt.. I have FOMO, might have to join in.
+
+
+---
+
+## 2021-07-21 · Post · Made a video inspired by @GossiTheDog's public exploit code for HiveNightmare, a new Local Privilege
+
+
+### Post — @infinitelogins — 2021-07-21 02:00 UTC (2021-07-21 03:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/1417665809783017473
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 0, reply 0, retweet 7
+
+> Made a video inspired by @GossiTheDog's public exploit code for HiveNightmare, a new Local Privilege Escalation vulnerability in Windows. #Infosec #HiveNightmare  #Windows
+> https://t.co/KHxQSdsBR4
+
+
+---
+
+## 2021-07-05 · Post · As promised, here is part two of abusing PrintNightmare. This video shows using a public exploit to
+
+
+Tags (automatic): RCE
+
+
+### Post — @infinitelogins — 2021-07-05 21:03 UTC (2021-07-05 22:03 WAT)
+
+- URL: https://x.com/infinitelogins/status/1412155244436344849
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 3
+
+> As promised, here is part two of abusing #PrintNightmare. This video shows using a public exploit to dump hashes from a Domain Controller via Remote Code Execution. https://t.co/GVGJSQiA1f
+>
+> #infosec #Windows
+
+
+---
+
+## 2021-07-05 · Post · New video showing how to abuse PrintNightmare PoCs for Local Privilege Escalation. https://t.co/CUm
+
+
+Tags (automatic): RCE
+
+
+### Post — @infinitelogins — 2021-07-05 19:37 UTC (2021-07-05 20:37 WAT)
+
+- URL: https://x.com/infinitelogins/status/1412133567769944064
+- Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 1, retweet 7
+
+> New video showing how to abuse #PrintNightmare PoCs for Local Privilege Escalation. https://t.co/CUm8eB4JlM
+>
+> A 2nd video will be out later today showing another PoC used for Remote Code Execution against a Domain Controller.  #Infosec #CVE
+
+
+---
+
 ## 2021-04-22 · Post · Curious how many students have been failed in the past eight months due to using LinPEAS with the au
 
 
@@ -3029,3 +3105,70 @@ Tags (automatic): XSS
 >
 > Blocked:   &lt;script&gt; or &lt;x  ...
 > Allowed:   &lt; script&gt; or &lt;1script&gt; ...
+
+
+---
+
+## 2020-09-15 · Post · Abusing CVE-2020-1472 (ZeroLogon) https://t.co/uLuKMKGion
+
+
+### Post — @infinitelogins — 2020-09-15 23:51 UTC (2020-09-16 00:51 WAT)
+
+- URL: https://x.com/infinitelogins/status/1306017955789012992
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Abusing CVE-2020-1472 (ZeroLogon) https://t.co/uLuKMKGion
+
+
+---
+
+## 2020-07-31 · Post · Bypassing XSS Defenses Part 1: Finding Allowed Tags and Attributes using BurpSuite Intruder. 
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2020-07-31 22:25 UTC (2020-07-31 23:25 WAT)
+
+- URL: https://x.com/infinitelogins/status/1289326284028354561
+- Metrics (at fetch): not returned
+
+> Bypassing #XSS Defenses Part 1: Finding Allowed Tags and Attributes using #BurpSuite Intruder. 
+>
+> https://infinitelogins.com/2020/07/31/bypassing-xss-defenses-finding-allowed-tags-and-attributes/
+>
+> #WebApplications #OWASPTop10 #WebApp
+
+**Links in post:** https://infinitelogins.com/2020/07/31/bypassing-xss-defenses-finding-allowed-tags-and-attributes/
+
+
+---
+
+## 2020-07-03 · Post · Are you responsible for securing WebApplications? These are some bypass techniques attackers are us
+
+
+### Post — @infinitelogins — 2020-07-03 05:39 UTC (2020-07-03 06:39 WAT)
+
+- URL: https://x.com/infinitelogins/status/1278926270223564801
+- Metrics (at fetch): not returned
+
+> Are you responsible for securing #WebApplications? These are some bypass techniques attackers are using for #CrossSiteRequestForgery (CSRF).
+>
+> https://infinitelogins.com/2020/07/02/exploiting-cross-site-request-forgery-csrf-bypassing-defenses/
+
+**Links in post:** https://infinitelogins.com/2020/07/02/exploiting-cross-site-request-forgery-csrf-bypassing-defenses/
+
+
+---
+
+## 2020-01-17 · Post · Patching CVE-2020-0601 | Windows CryptoAPI Spoofing Vulnerability http://infinitelogins.com/2020/01/
+
+
+### Post — @infinitelogins — 2020-01-17 21:03 UTC (2020-01-17 22:03 WAT)
+
+- URL: https://x.com/infinitelogins/status/1218277734318780417
+- Metrics (at fetch): not returned
+
+> Patching CVE-2020-0601 | Windows CryptoAPI Spoofing Vulnerability http://infinitelogins.com/2020/01/17/cve-2020-0601-windows-cryptoapi-spoofing-vulnerability/
+
+**Links in post:** http://infinitelogins.com/2020/01/17/cve-2020-0601-windows-cryptoapi-spoofing-vulnerability/

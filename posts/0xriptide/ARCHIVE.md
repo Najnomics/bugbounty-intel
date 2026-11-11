@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 143
-- Conversations/threads: 139
+- Posts in this file: 165
+- Conversations/threads: 161
 - Oldest post captured: 2014-07-21
 - Newest post captured: 2026-11-10
 
@@ -3163,6 +3163,423 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): not returned
 
 > what kind of vuln is it if anyone can relock your rewards for you instead of allowing you to claim?
+
+
+---
+
+## 2023-12-14 · Post · someone wiping slots again 👀 ... quite similar to my arb exploit https://t.co/lOIJGl86FG
+
+
+### Post — @0xriptide — 2023-12-14 11:03 UTC (2023-12-14 12:03 WAT)
+
+- URL: https://x.com/0xriptide/status/1735254075611009199
+- Metrics (at fetch): bookmark 2, impression 3063, like 10, quote 0, reply 1, retweet 2
+
+> someone wiping slots again 👀 ... quite similar to my arb exploit https://t.co/lOIJGl86FG
+
+**Quoted post (full text):**
+
+    #### Quoted post — @BlockSecTeam — 2023-12-14 07:19 UTC (2023-12-14 08:19 WAT)
+    
+    - URL: https://x.com/BlockSecTeam/status/1735197818883588574
+    - Metrics (at fetch): bookmark 18, impression 16808, like 50, quote 2, reply 2, retweet 13
+    
+    > Yesterday, our system detected an attack on the @hypr_network's OP Stack Bridge. We promptly reached out to their team to share our findings. As always, we are glad to help:)
+    >
+    > Now that the team has taken actions and disclosed it publicly, we'd like to provide some insight into https://t.co/QOJbPYlYJF https://t.co/XvzkgogIsz
+    
+    **Media:**
+    - media `3_1735191720994779136` (details not returned by the API)
+    
+    **Quoted post** 1735169665234772195: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-11-21 · Post · where is the @aave bug writeup 👀
+
+
+### Post — @0xriptide — 2023-11-21 08:29 UTC (2023-11-21 09:29 WAT)
+
+- URL: https://x.com/0xriptide/status/1726880544972243036
+- Metrics (at fetch): bookmark 0, impression 5451, like 42, quote 0, reply 3, retweet 0
+
+> where is the @aave bug writeup 👀
+
+
+---
+
+## 2023-11-05 · Post · if there was a critical in aave there are undiscovered criticals everywhere
+
+
+### Post — @0xriptide — 2023-11-05 08:36 UTC (2023-11-05 09:36 WAT)
+
+- URL: https://x.com/0xriptide/status/1721084031293354268
+- Metrics (at fetch): bookmark 5, impression 7007, like 87, quote 0, reply 4, retweet 10
+
+> if there was a critical in aave there are undiscovered criticals everywhere
+>
+> just got to put the time in anon
+
+
+---
+
+## 2023-11-04 · Post · one audit and you are live?
+
+
+### Post — @0xriptide — 2023-11-04 12:06 UTC (2023-11-04 13:06 WAT)
+
+- URL: https://x.com/0xriptide/status/1720774617160122522
+- Metrics (at fetch): bookmark 0, impression 5578, like 38, quote 1, reply 5, retweet 0
+
+> one audit and you are live?
+>
+> ngmi
+
+
+---
+
+## 2023-11-02 · Post · one missed bug and your project is toast 
+
+
+### Post — @0xriptide — 2023-11-02 08:37 UTC (2023-11-02 09:37 WAT)
+
+- URL: https://x.com/0xriptide/status/1719997233154740475
+- Metrics (at fetch): bookmark 6, impression 4893, like 50, quote 0, reply 4, retweet 4
+
+> one missed bug and your project is toast 
+>
+> keep the following framework in mind:
+>
+> 1) think like a hacker when writing tests
+> 2) restrict and sanitize user input
+> 3) have your code peer-reviewed
+> 4) private audit
+> 5) audit competition
+> 6) multiple private audits
+> 7) audit, simulate and
+
+
+---
+
+## 2023-10-21 · Post · downside of hiring a faceless audit company is you have no idea if you get staffed with a chad or no
+
+
+### Post — @0xriptide — 2023-10-21 14:14 UTC (2023-10-21 15:14 WAT)
+
+- URL: https://x.com/0xriptide/status/1715733350877438181
+- Metrics (at fetch): bookmark 3, impression 3827, like 31, quote 0, reply 4, retweet 3
+
+> downside of hiring a faceless audit company is you have no idea if you get staffed with a chad or not
+>
+> private chad audit is guaranteed level of quality
+>
+> few devs seem to understand
+
+
+---
+
+## 2023-10-21 · Post · my test suite unearthing a critical is an actual napkin this morning
+
+
+### Post — @0xriptide — 2023-10-21 08:45 UTC (2023-10-21 09:45 WAT)
+
+- URL: https://x.com/0xriptide/status/1715650603647434835
+- Metrics (at fetch): bookmark 0, impression 2172, like 26, quote 0, reply 1, retweet 0
+
+> my test suite unearthing a critical is an actual napkin this morning
+>
+> cafe flex
+
+
+---
+
+## 2023-10-13 · Post · so early that you can still find deployed contacts with functions that should be permissioned but ar
+
+
+### Post — @0xriptide — 2023-10-13 12:05 UTC (2023-10-13 13:05 WAT)
+
+- URL: https://x.com/0xriptide/status/1712801768210305051
+- Metrics (at fetch): bookmark 1, impression 2855, like 31, quote 0, reply 1, retweet 1
+
+> so early that you can still find deployed contacts with functions that should be permissioned but are missing the modifier
+>
+> your audit should qualify for a refund 
+>
+> L
+
+
+---
+
+## 2023-10-07 · Post · the first exploit is pretty wild and requires a deep understanding of threshold to pull that off htt
+
+
+### Post — @0xriptide — 2023-10-07 18:51 UTC (2023-10-07 19:51 WAT)
+
+- URL: https://x.com/0xriptide/status/1710729521375133778
+- Metrics (at fetch): bookmark 8, impression 6624, like 39, quote 0, reply 0, retweet 8
+
+> the first exploit is pretty wild and requires a deep understanding of threshold to pull that off https://t.co/r2ANwewjZq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1410369935952551937 — 2023-10-07 17:43 UTC (2023-10-07 18:43 WAT)
+    
+    - URL: https://x.com/1410369935952551937/status/1710712578316402974
+    - Metrics (at fetch): bookmark 13, impression 17677, like 60, quote 4, reply 6, retweet 3
+    
+    > Two bugs were exposed in tBTC this week. Neither put user funds at risk. 
+    >
+    > A retrospective from @mhluongo is now available on the Threshold blog. https://t.co/gaIY4mJLJu
+    
+
+
+---
+
+## 2023-10-06 · Post · audit firms with no highs or criticals adding findings because they 'could have tax effects'
+
+
+### Post — @0xriptide — 2023-10-06 07:56 UTC (2023-10-06 08:56 WAT)
+
+- URL: https://x.com/0xriptide/status/1710202418187706806
+- Metrics (at fetch): bookmark 1, impression 3433, like 23, quote 0, reply 2, retweet 0
+
+> audit firms with no highs or criticals adding findings because they 'could have tax effects'
+>
+> L
+
+
+---
+
+## 2023-10-03 · Post · not a bad idea ...
+
+
+### Post — @0xriptide — 2023-10-03 10:25 UTC (2023-10-03 11:25 WAT)
+
+- URL: https://x.com/0xriptide/status/1709152690691826031
+- Metrics (at fetch): bookmark 2, impression 4488, like 24, quote 0, reply 2, retweet 1
+
+> not a bad idea ...
+>
+> I state up front that I focus on high/critical bugs only
+>
+> keeps the focus where it matters https://t.co/h0Jt3gEatj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1546814146385268737 — 2023-09-27 11:00 UTC (2023-09-27 12:00 WAT)
+    
+    - URL: https://x.com/1546814146385268737/status/1706987151823397202
+    - Metrics (at fetch): bookmark 87, impression 30743, like 240, quote 4, reply 15, retweet 45
+    
+    > A BIG inefficiency is currently present in almost all smart contract security audits, wasting precious time and money of protocols and auditors
+    >
+    > Have you read reports where there are multiple pages of Informational severity issues or gas optimisations like "use ++i instead of
+    
+
+
+---
+
+## 2023-09-19 · Post · as gas gets cheaper on L2s more attack vectors present themselves
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @0xriptide — 2023-09-19 08:32 UTC (2023-09-19 09:32 WAT)
+
+- URL: https://x.com/0xriptide/status/1704050732180148577
+- Metrics (at fetch): bookmark 2, impression 4850, like 41, quote 1, reply 0, retweet 4
+
+> as gas gets cheaper on L2s more attack vectors present themselves
+>
+> hope you know what you are doing when deploying on different chains
+
+
+---
+
+## 2023-09-19 · Post · I see a lot of devs talking about test coverage
+
+
+### Post — @0xriptide — 2023-09-19 08:30 UTC (2023-09-19 09:30 WAT)
+
+- URL: https://x.com/0xriptide/status/1704050242830672008
+- Metrics (at fetch): bookmark 6, impression 4042, like 45, quote 2, reply 2, retweet 4
+
+> I see a lot of devs talking about test coverage
+>
+> almost 100% of the time the tests do not cover all relevant scenarios
+>
+> good spot for hackers to think creatively about whatif problems and save time coding a PoC by just modifying existing tests
+
+
+---
+
+## 2023-09-15 · Post · curve bug bounty still at $250k after the recent exploit
+
+
+### Post — @0xriptide — 2023-09-15 09:31 UTC (2023-09-15 10:31 WAT)
+
+- URL: https://x.com/0xriptide/status/1702616228508963206
+- Metrics (at fetch): bookmark 0, impression 3856, like 24, quote 0, reply 3, retweet 0
+
+> curve bug bounty still at $250k after the recent exploit
+>
+> ???
+
+
+---
+
+## 2023-09-03 · Post · playing critical clean up for big audit firms lately 💀
+
+
+### Post — @0xriptide — 2023-09-03 12:12 UTC (2023-09-03 13:12 WAT)
+
+- URL: https://x.com/0xriptide/status/1698307991697518916
+- Metrics (at fetch): bookmark 2, impression 6887, like 51, quote 1, reply 4, retweet 0
+
+> playing critical clean up for big audit firms lately 💀
+>
+> no one finds everything ...
+
+
+---
+
+## 2023-08-23 · Post · Great to see another hack averted by a whitehat 
+
+
+### Post — @0xriptide — 2023-08-23 08:10 UTC (2023-08-23 09:10 WAT)
+
+- URL: https://x.com/0xriptide/status/1694260931201511765
+- Metrics (at fetch): bookmark 1, impression 5908, like 58, quote 0, reply 0, retweet 4
+
+> Great to see another hack averted by a whitehat 
+>
+> And look at the quick full disclosure - top notch. Balancer is a great team to work with on bounties. https://t.co/l9T17YRSSg
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1162883382700912640 — 2023-08-22 15:52 UTC (2023-08-22 16:52 WAT)
+    
+    - URL: https://x.com/1162883382700912640/status/1694014645378724280
+    - Metrics (at fetch): bookmark 89, impression 1366797, like 1217, quote 489, reply 120, retweet 713
+    
+    > Balancer has received a critical vulnerability report affecting a number of V2 Pools.
+    >
+    > Emergency mitigation procedures have been executed to secure a majority of TVL, but some funds remain at risk.
+    >
+    > Users are advised to withdraw affected LPs immediately.
+    >
+    > https://t.co/PDzX32gqeS https://t.co/F1f649Wz3L
+    
+    **Media:**
+    - media `3_1694014641054404608` (details not returned by the API)
+    
+
+
+---
+
+## 2023-08-12 · Post · when i see privileged addresses as vanity addresses I always wonder if they are susceptible to the p
+
+
+### Post — @0xriptide — 2023-08-12 10:43 UTC (2023-08-12 11:43 WAT)
+
+- URL: https://x.com/0xriptide/status/1690312928040210432
+- Metrics (at fetch): bookmark 2, impression 2953, like 17, quote 0, reply 5, retweet 0
+
+> when i see privileged addresses as vanity addresses I always wonder if they are susceptible to the profanity bug - but have no tool set to check these
+>
+> ideas?
+
+
+---
+
+## 2023-08-12 · Post · Important note if you decide to replicate a gnosis safe across chains using createProxyWithNonce:
+
+
+### Post — @0xriptide — 2023-08-12 03:52 UTC (2023-08-12 04:52 WAT)
+
+- URL: https://x.com/0xriptide/status/1690209696739635200
+- Metrics (at fetch): bookmark 8, impression 6305, like 32, quote 0, reply 2, retweet 5
+
+> Important note if you decide to replicate a gnosis safe across chains using createProxyWithNonce:
+>
+> Safes prior to v1.30 have a bug using a static domain separator. This allows signature replay to occur on the new safe for the entire transaction history.
+>
+> Unpredictable results 👀 https://t.co/0ubvtO0rJW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1618718709966675972 — 2023-08-11 15:58 UTC (2023-08-11 16:58 WAT)
+    
+    - URL: https://x.com/1618718709966675972/status/1690030014459162624
+    - Metrics (at fetch): bookmark 0, impression 6922, like 5, quote 1, reply 0, retweet 1
+    
+    > @trent_vanepps @safe One chain, one safe, history is not shared so you would have to rotate the signer on each chain!
+    
+
+
+---
+
+## 2023-07-13 · Post · goerli bounty contract for @ArkhamIntel @ 0xa3869171c865b8C7d9252B71579bec25Bce05D48
+
+
+### Post — @0xriptide — 2023-07-13 20:44 UTC (2023-07-13 21:44 WAT)
+
+- URL: https://x.com/0xriptide/status/1679592784238444545
+- Metrics (at fetch): bookmark 0, impression 963, like 2, quote 0, reply 1, retweet 0
+
+> goerli bounty contract for @ArkhamIntel @ 0xa3869171c865b8C7d9252B71579bec25Bce05D48
+
+
+---
+
+## 2023-07-07 · Post · u r crazy if you touched anyswap/multichain after the first hack ages ago
+
+
+### Post — @0xriptide — 2023-07-07 10:19 UTC (2023-07-07 11:19 WAT)
+
+- URL: https://x.com/0xriptide/status/1677261155142623238
+- Metrics (at fetch): bookmark 0, impression 2922, like 24, quote 0, reply 4, retweet 0
+
+> u r crazy if you touched anyswap/multichain after the first hack ages ago
+>
+> gl
+
+
+---
+
+## 2023-06-08 · Post · if you fork a chain and run a an exploit simulation through a public RPC ... could the RPC operator 
+
+
+### Post — @0xriptide — 2023-06-08 10:29 UTC (2023-06-08 11:29 WAT)
+
+- URL: https://x.com/0xriptide/status/1666754341464600576
+- Metrics (at fetch): bookmark 18, impression 16169, like 59, quote 0, reply 20, retweet 3
+
+> if you fork a chain and run a an exploit simulation through a public RPC ... could the RPC operator hypothetically reconstruct your tx and then steal the exploit?
+>
+> usually I bug test on a private RPC so not exactly sure I understand what data is at risk
+
+
+---
+
+## 2023-05-25 · Post · certain functionality will be enabled shortly in a popular protocol which opens up a critical vulner
+
+
+### Post — @0xriptide — 2023-05-25 10:52 UTC (2023-05-25 11:52 WAT)
+
+- URL: https://x.com/0xriptide/status/1661686671556112384
+- Metrics (at fetch): bookmark 4, impression 35627, like 25, quote 9, reply 28, retweet 4
+
+> certain functionality will be enabled shortly in a popular protocol which opens up a critical vulnerability
+>
+> report now and team will prob try to dispute severity since bug is not live
+>
+> wait until live when stakes are higher
+>
+> wat do
 
 
 ---

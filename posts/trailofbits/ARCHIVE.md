@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 187
+- Posts in this file: 188
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -1779,10 +1779,18 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-11-14 · Post · Scope varied, but here is the full list of external eyes on Raft's codebase:
+## 2023-11-14 · Thread · The @raft_fi issue is complex and we're actively investigating it. We've offered to help their team 
 
 
 ### Post — @trailofbits — 2023-11-14 08:30 UTC (2023-11-14 09:30 WAT)
+
+- URL: https://x.com/trailofbits/status/1724344137065886183
+- Metrics (at fetch): bookmark 74, impression 51130, like 153, quote 6, reply 2, retweet 22
+
+> The @raft_fi issue is complex and we're actively investigating it. We've offered to help their team however we can. Here's some of what we know so far:
+
+
+### Thread part 2 — @trailofbits — 2023-11-14 08:30 UTC (2023-11-14 09:30 WAT)
 
 - URL: https://x.com/trailofbits/status/1724344149283868983
 - Metrics (at fetch): not returned

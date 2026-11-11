@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
-- Conversations/threads: 85
+- Posts in this file: 94
+- Conversations/threads: 86
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
 
@@ -1099,6 +1099,22 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GAN52E-b0AAalx1.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-25 · Post · In a war room, every second counts. But without having been in one, how could you know what to expec
+
+
+### Post — @samczsun — 2023-10-25 18:15 UTC (2023-10-25 19:15 WAT)
+
+- URL: https://x.com/samczsun/status/1717243519243636755
+- Metrics (at fetch): not returned
+
+> In a war room, every second counts. But without having been in one, how could you know what to expect or how to respond? Blog posts and tweet threads can only take you so far. Today, I'm excited to announce a new option: SEAL Drills. [pic.x.com/eKJjoUZ1jG]
+
+**Media:**
+- media `3_1717239840193105925` (details not returned by the API)
 
 
 ---

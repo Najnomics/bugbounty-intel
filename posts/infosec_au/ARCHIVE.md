@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 173
-- Conversations/threads: 163
-- Oldest post captured: 2020-10-17
+- Posts in this file: 213
+- Conversations/threads: 203
+- Oldest post captured: 2018-12-27
 - Newest post captured: 2026-11-07
 
 
@@ -1449,7 +1449,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2023-10-16 · Post · Really love this WAF bypass technique documented and found by @irsdl in 2017: https://t.co/60UhDDwKh
+## 2023-10-16 · Post · Really love this WAF bypass technique documented and found by @irsdl in 2017: https://soroush.me/dow
 
 
 ### Post — @infosec_au — 2023-10-16 08:30 UTC (2023-10-16 09:30 WAT)
@@ -1457,7 +1457,9 @@ Tags (automatic): SSRF
 - URL: https://x.com/infosec_au/status/1713834893078355986
 - Metrics (at fetch): bookmark 265, impression 62879, like 425, quote 2, reply 8, retweet 118
 
-> Really love this WAF bypass technique documented and found by @irsdl in 2017: https://t.co/60UhDDwKh6 - still super effective today!
+> Really love this WAF bypass technique documented and found by @irsdl in 2017: https://soroush.me/downloadable/request-encoding-to-bypass-web-application-firewalls.pdf - still super effective today!
+
+**Links in post:** https://soroush.me/downloadable/request-encoding-to-bypass-web-application-firewalls.pdf
 
 
 ---
@@ -1764,6 +1766,23 @@ Tags (automatic): Auth bypass, RCE
 > This was an excellent find: https://t.co/Ndl4trxCbq
 >
 > I love the logic flaw found within the nginx rules leadigng to the auth bypass needed to get to the RCE.
+
+
+---
+
+## 2023-06-13 · Post · For a few months, @samwcyo, @bbuerhaus, @rhyselsmore and I focused on hacking EPP servers / ccTLD zo
+
+
+### Post — @infosec_au — 2023-06-13 04:16 UTC (2023-06-13 05:16 WAT)
+
+- URL: https://x.com/infosec_au/status/1668472363401515008
+- Metrics (at fetch): bookmark 187, impression 157506, like 664, quote 21, reply 15, retweet 234
+
+> For a few months, @samwcyo, @bbuerhaus, @rhyselsmore and I focused on hacking EPP servers / ccTLD zones.
+>
+> We're disclosing our work today on the hackcompute blog: https://t.co/9ycLkH9sqp
+>
+> Our efforts in this space led to the ability to control the DNS zones of the following
 
 
 ---
@@ -2627,6 +2646,331 @@ Tags (automatic): SSRF
 
 ---
 
+## 2021-11-30 · Post · The Assetnote security research team discovered a full-read SSRF vulnerability in Jamf Pro (post-aut
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-11-30 22:13 UTC (2021-11-30 23:13 WAT)
+
+- URL: https://x.com/infosec_au/status/1465806290995740672
+- Metrics (at fetch): bookmark 46, impression 0, like 270, quote 1, reply 5, retweet 85
+
+> The Assetnote security research team discovered a full-read SSRF vulnerability in Jamf Pro (post-authentication) a few months ago. https://t.co/mOaKcJHVUe (CVE-2021-39303 &amp; CVE-2021-40809). Tracing sinks to sources is always a valid strategy.
+
+
+---
+
+## 2021-11-19 · Post · Hey @nnwakelam thanks for the suggestion around the mod_proxy SSRF. We've updated the glossary to co
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-11-19 21:36 UTC (2021-11-19 22:36 WAT)
+
+- URL: https://x.com/infosec_au/status/1461810541148741637
+- Metrics (at fetch): bookmark 17, impression 0, like 132, quote 0, reply 1, retweet 26
+
+> Hey @nnwakelam thanks for the suggestion around the mod_proxy SSRF. We've updated the glossary to contain the Apache mod_proxy SSRF PoC, affected versions and reference blog post: https://t.co/su4gpZpPuk
+>
+> Happy to maintain this resource for the community.
+
+
+---
+
+## 2021-11-03 · Post · We've published a blog post on how the security research team at @assetnote discovered a pre-authent
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2021-11-03 08:39 UTC (2021-11-03 09:39 WAT)
+
+- URL: https://x.com/infosec_au/status/1455816906691125254
+- Metrics (at fetch): bookmark 69, impression 0, like 423, quote 3, reply 10, retweet 160
+
+> We've published a blog post on how the security research team at @assetnote discovered a pre-authentication RCE vulnerability in Sitecore:
+>
+> https://t.co/XsXocJeLnj
+>
+> If you're running Sitecore, please read the remediation details and patch ASAP.
+
+
+---
+
+## 2021-11-01 · Post · Does anyone know how to get a CVE issued for closed source software that's faster than MITREs reques
+
+
+### Post — @infosec_au — 2021-11-01 03:24 UTC (2021-11-01 04:24 WAT)
+
+- URL: https://x.com/infosec_au/status/1455012777454497794
+- Metrics (at fetch): bookmark 2, impression 0, like 53, quote 1, reply 10, retweet 4
+
+> Does anyone know how to get a CVE issued for closed source software that's faster than MITREs request form? I've been waiting for a month and no response. Struggling to get CVEs issued.
+
+
+---
+
+## 2021-10-31 · Post · man, @iangcarroll is on a roll. within a days time he’s implemented a highly effective tool at detec
+
+
+### Post — @infosec_au — 2021-10-31 08:11 UTC (2021-10-31 09:11 WAT)
+
+- URL: https://x.com/infosec_au/status/1454722680339320839
+- Metrics (at fetch): bookmark 9, impression 0, like 90, quote 0, reply 3, retweet 1
+
+> man, @iangcarroll is on a roll. within a days time he’s implemented a highly effective tool at detecting a whole bug class affecting a number of web frameworks single handedly.
+
+
+---
+
+## 2021-10-29 · Post · just found the most stupid auth bypass 0day of 2021 with @iangcarroll
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2021-10-29 09:21 UTC (2021-10-29 10:21 WAT)
+
+- URL: https://x.com/infosec_au/status/1454015496064421892
+- Metrics (at fetch): bookmark 4, impression 0, like 135, quote 1, reply 1, retweet 2
+
+> just found the most stupid auth bypass 0day of 2021 with @iangcarroll
+
+
+---
+
+## 2021-09-29 · Post · I'm giving a talk at Jamf's conference (JNUC) about "Avoiding blindspots securing your infrastructur
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-09-29 22:39 UTC (2021-09-29 23:39 WAT)
+
+- URL: https://x.com/infosec_au/status/1443344659426603008
+- Metrics (at fetch): bookmark 6, impression 0, like 87, quote 1, reply 2, retweet 10
+
+> I'm giving a talk at Jamf's conference (JNUC) about "Avoiding blindspots securing your infrastructure" on October 22nd 10:30AM Pacific Time. I discuss an SSRF vulnerability that I discovered in Jamf's product -  https://t.co/wkDQK7bYVe https://t.co/izenaaq4lx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FAfKIB2VcAUWAEW.jpg — no alt text provided by author
+
+
+---
+
+## 2021-09-21 · Post · Amazing writeup on finding a vulnerability through .NET reversing, enjoyed reading about the breakpo
+
+
+### Post — @infosec_au — 2021-09-21 09:02 UTC (2021-09-21 10:02 WAT)
+
+- URL: https://x.com/infosec_au/status/1440239966840233996
+- Metrics (at fetch): bookmark 119, impression 0, like 433, quote 1, reply 2, retweet 143
+
+> Amazing writeup on finding a vulnerability through .NET reversing, enjoyed reading about the breakpoints that were set and how they logically owned Citrix ShareFile through a third party dependency  https://t.co/2MusGNSz60
+
+
+---
+
+## 2021-09-21 · Post · Every time I exploit an insecure deserialization vulnerability I feel like i'm standing on the shoul
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2021-09-21 02:59 UTC (2021-09-21 03:59 WAT)
+
+- URL: https://x.com/infosec_au/status/1440148604455292940
+- Metrics (at fetch): bookmark 5, impression 0, like 177, quote 0, reply 4, retweet 4
+
+> Every time I exploit an insecure deserialization vulnerability I feel like i'm standing on the shoulders of giants who have painstakingly created complex RCE gadgets
+
+
+---
+
+## 2021-09-17 · Post · My colleague @seanyeoh and I are presenting at @Hacker0x01's hacktivitycon2021 on Hacking on Bug Bo
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2021-09-17 05:53 UTC (2021-09-17 06:53 WAT)
+
+- URL: https://x.com/infosec_au/status/1438742898128740356
+- Metrics (at fetch): bookmark 1, impression 0, like 100, quote 0, reply 0, retweet 10
+
+> My colleague @seanyeoh and I are presenting at @Hacker0x01's #hacktivitycon2021 on Hacking on Bug Bounties for Five Years - sign up at https://t.co/O28Ied6UH7 to watch us present on September 18th 2:40PM PDT. https://t.co/ZAapoNaBQu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E_dwvf9UUAgCkoe.jpg — no alt text provided by author
+
+
+---
+
+## 2021-09-05 · Post · Updated the Blind SSRF Glossary for a list of payloads that call back to an SSRF canary for the Conf
+
+
+Tags (automatic): SSRF, RCE
+
+
+### Post — @infosec_au — 2021-09-05 01:33 UTC (2021-09-05 02:33 WAT)
+
+- URL: https://x.com/infosec_au/status/1434328794861432834
+- Metrics (at fetch): bookmark 88, impression 0, like 372, quote 1, reply 2, retweet 133
+
+> Updated the Blind SSRF Glossary for a list of payloads that call back to an SSRF canary for the Confluence OGNL injection RCE thanks to the excellent writeup from @iamnoooob and @rootxharsh  https://t.co/B3V0PXKNM1
+
+
+---
+
+## 2021-08-25 · Post · A local file inclusion vuln means it executes the contents it includes, like PHP's include() functio
+
+
+### Post — @infosec_au — 2021-08-25 23:26 UTC (2021-08-26 00:26 WAT)
+
+- URL: https://x.com/infosec_au/status/1430673014878662658
+- Metrics (at fetch): bookmark 26, impression 0, like 227, quote 2, reply 11, retweet 29
+
+> A local file inclusion vuln means it executes the contents it includes, like PHP's include() function
+>
+> A local file disclosure vuln discloses the contents of the local file
+>
+> Reconsider your definition of local file inclusion if the vulnerability discloses files not executes them
+
+
+---
+
+## 2021-08-03 · Post · Detect if it's a Windows or Linux system through a single command after achieving RCE:
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2021-08-03 10:01 UTC (2021-08-03 11:01 WAT)
+
+- URL: https://x.com/infosec_au/status/1422497909107351553
+- Metrics (at fetch): bookmark 98, impression 0, like 520, quote 0, reply 17, retweet 94
+
+> Detect if it's a Windows or Linux system through a single command after achieving RCE:
+>
+> echo windowste^st linuxte$st
+>
+> Windows will print: windowstest linuxte$st
+> Linux will print: windowste^st linuxtest
+
+
+---
+
+## 2021-07-26 · Post · Nice pre-auth RCE via Java object deserialization: https://t.co/F5yXxb1Qy0
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2021-07-26 23:25 UTC (2021-07-27 00:25 WAT)
+
+- URL: https://x.com/infosec_au/status/1419801186098581537
+- Metrics (at fetch): bookmark 75, impression 0, like 319, quote 1, reply 3, retweet 120
+
+> Nice pre-auth RCE via Java object deserialization: https://t.co/F5yXxb1Qy0
+
+
+---
+
+## 2021-07-21 · Post · I've written up a few thoughts I have on the bug bounty triage process as a hacker: https://t.co/IHt
+
+
+### Post — @infosec_au — 2021-07-21 00:43 UTC (2021-07-21 01:43 WAT)
+
+- URL: https://x.com/infosec_au/status/1417646439434317829
+- Metrics (at fetch): bookmark 26, impression 0, like 178, quote 3, reply 4, retweet 37
+
+> I've written up a few thoughts I have on the bug bounty triage process as a hacker: https://t.co/IHtQQz6FOW
+>
+> I hope that this is useful for hackers and triagers as I try and clear up misconceptions and reinforce what the ideal experience should be when a report is triaged.
+
+
+---
+
+## 2021-07-19 · Post · As I've been reporting more bugs on HackerOne, the triage experiences have been disappointing as a h
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2021-07-19 10:51 UTC (2021-07-19 11:51 WAT)
+
+- URL: https://x.com/infosec_au/status/1417074651071537159
+- Metrics (at fetch): bookmark 9, impression 0, like 265, quote 7, reply 21, retweet 37
+
+> As I've been reporting more bugs on HackerOne, the triage experiences have been disappointing as a hacker. As a triager, you have a responsibility to represent the hacker as well. This comes with great power to act in good faith and fairly assess vulnerabilities or pass them on.
+
+
+---
+
+## 2021-06-20 · Post · What does "second order SSRF" mean to you?
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-06-20 23:07 UTC (2021-06-21 00:07 WAT)
+
+- URL: https://x.com/infosec_au/status/1406750474783518721
+- Metrics (at fetch): bookmark 5, impression 0, like 16, quote 0, reply 3, retweet 5
+
+> What does "second order SSRF" mean to you?
+
+
+---
+
+## 2021-06-14 · Post · If you have a blind SSRF that can only read images (but for some reason can't read ICO files), try a
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-06-14 04:57 UTC (2021-06-14 05:57 WAT)
+
+- URL: https://x.com/infosec_au/status/1404302038964457472
+- Metrics (at fetch): bookmark 60, impression 0, like 223, quote 0, reply 3, retweet 52
+
+> If you have a blind SSRF that can only read images (but for some reason can't read ICO files), try and find Confluence running on the internal network and request /images/icons/linkext7.gif to prove that you can access internal resources
+
+
+---
+
+## 2021-06-14 · Post · mood: spamming the "Poll now" button on Burp Collaborator thinking the blind SSRF canary will actual
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-06-14 04:44 UTC (2021-06-14 05:44 WAT)
+
+- URL: https://x.com/infosec_au/status/1404298739896913925
+- Metrics (at fetch): bookmark 0, impression 0, like 41, quote 0, reply 2, retweet 2
+
+> mood: spamming the "Poll now" button on Burp Collaborator thinking the blind SSRF canary will actually pull through
+
+
+---
+
+## 2021-06-14 · Post · Bittersweet watching critical vulnerabilities you've found get patched in near real-time. Some of th
+
+
+### Post — @infosec_au — 2021-06-14 04:05 UTC (2021-06-14 05:05 WAT)
+
+- URL: https://x.com/infosec_au/status/1404288895097864192
+- Metrics (at fetch): bookmark 1, impression 0, like 61, quote 0, reply 2, retweet 3
+
+> Bittersweet watching critical vulnerabilities you've found get patched in near real-time. Some of these companies with bug bounties have gotten a lot better at managing their exposure. It took 4 days to find a critical, and they patched it while I was still exploiting.
+
+
+---
+
 ## 2021-04-09 · Post · Check out our blog post on Context Aware Content Discovery https://blog.assetnote.io/2021/04/05/cont
 
 
@@ -2886,3 +3230,287 @@ Tags (automatic): RCE
 - Metrics (at fetch): not returned
 
 > Is there anyone from AU/NZ who's interested in bug bounties and would like to join our Slack channel? Send me a DM!
+
+
+---
+
+## 2020-10-08 · Post · https://t.co/BOiXLnB1th - this is one of the most comprehensive writeups I have seen from the bug bo
+
+
+### Post — @infosec_au — 2020-10-08 11:35 UTC (2020-10-08 12:35 WAT)
+
+- URL: https://x.com/infosec_au/status/1314167526436216832
+- Metrics (at fetch): bookmark 69, impression 0, like 348, quote 6, reply 5, retweet 100
+
+> https://t.co/BOiXLnB1th - this is one of the most comprehensive writeups I have seen from the bug bounty community, awesome work by a whole crew of people hacking on apple - lots of takeaways, worth reading thoroughly
+
+
+---
+
+## 2020-10-03 · Post · Just got RCE on a target that we've been working on for a few days. Persistence is everything! Multi
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2020-10-03 01:43 UTC (2020-10-03 02:43 WAT)
+
+- URL: https://x.com/infosec_au/status/1312206501486850048
+- Metrics (at fetch): bookmark 7, impression 0, like 291, quote 1, reply 10, retweet 17
+
+> Just got RCE on a target that we've been working on for a few days. Persistence is everything! Multiple points where we could have given up but we didn't!
+
+
+---
+
+## 2020-09-28 · Post · A program I participate in often started giving out zone files, and I’ve had to really reflect on my
+
+
+### Post — @infosec_au — 2020-09-28 20:43 UTC (2020-09-28 21:43 WAT)
+
+- URL: https://x.com/infosec_au/status/1310681625752031232
+- Metrics (at fetch): bookmark 4, impression 0, like 43, quote 0, reply 2, retweet 0
+
+> A program I participate in often started giving out zone files, and I’ve had to really reflect on my methodology because of how even a playing field it is now. Saving lots of hours on recon per week, and hackers are beating me to bugs I would usually be first at
+
+
+---
+
+## 2020-09-25 · Reply · @wcbowling the email button on your website doesn't work, but I was wondering if you would be keen t
+
+
+### Post — @infosec_au — 2020-09-25 08:09 UTC (2020-09-25 09:09 WAT)
+
+- URL: https://x.com/infosec_au/status/1309404541637390336
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @wcbowling the email button on your website doesn't work, but I was wondering if you would be keen to join our bug bounty slack for people in australia/nz. let me know and I'll shoot you through a link (somehow)
+
+
+---
+
+## 2020-09-17 · Post · I wrote a post on @assetnote's blog about hacking in bug bounties for the last four years. This shou
+
+
+### Post — @infosec_au — 2020-09-17 01:27 UTC (2020-09-17 02:27 WAT)
+
+- URL: https://x.com/infosec_au/status/1306404481303638016
+- Metrics (at fetch): bookmark 215, impression 0, like 760, quote 22, reply 12, retweet 309
+
+> I wrote a post on @assetnote's blog about hacking in bug bounties for the last four years. This should give you a good idea on what I've been reporting and how I find bugs and incorporate them back into our platform.
+>
+> https://t.co/BhL4DiQlaB
+
+
+---
+
+## 2020-09-16 · Post · An entertaining yet highly informative writeup from @mangopdf - https://t.co/lUlFP89oQY
+
+
+### Post — @infosec_au — 2020-09-16 01:38 UTC (2020-09-16 02:38 WAT)
+
+- URL: https://x.com/infosec_au/status/1306044711421972480
+- Metrics (at fetch): bookmark 21, impression 0, like 53, quote 0, reply 1, retweet 10
+
+> An entertaining yet highly informative writeup from @mangopdf - https://t.co/lUlFP89oQY
+
+
+---
+
+## 2020-09-13 · Post · If you're an Australian or Kiwi and are interested/participate in bug bounties, please message me fo
+
+
+### Post — @infosec_au — 2020-09-13 08:54 UTC (2020-09-13 09:54 WAT)
+
+- URL: https://x.com/infosec_au/status/1305067261732900864
+- Metrics (at fetch): bookmark 4, impression 0, like 113, quote 0, reply 18, retweet 16
+
+> If you're an Australian or Kiwi and are interested/participate in bug bounties, please message me for an invite to our Slack channel
+
+
+---
+
+## 2020-09-11 · Post · There are so many people going through personal trauma and you may never know that is the case. Be b
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infosec_au — 2020-09-11 20:36 UTC (2020-09-11 21:36 WAT)
+
+- URL: https://x.com/infosec_au/status/1304519285922869248
+- Metrics (at fetch): bookmark 3, impression 0, like 119, quote 0, reply 5, retweet 6
+
+> There are so many people going through personal trauma and you may never know that is the case. Be better to people by default. @codecancare is good at this, and provides some inspiration for anyone looking. Rank 1 on HackerOne yet friendly to everyone.
+
+
+---
+
+## 2020-09-10 · Post · I'm not as motivated to find bugs in Facebook after @fin1te and @BonJarber left. Where's the fun in 
+
+
+### Post — @infosec_au — 2020-09-10 11:40 UTC (2020-09-10 12:40 WAT)
+
+- URL: https://x.com/infosec_au/status/1304022041595490308
+- Metrics (at fetch): bookmark 1, impression 0, like 44, quote 0, reply 3, retweet 1
+
+> I'm not as motivated to find bugs in Facebook after @fin1te and @BonJarber left. Where's the fun in finding a bug in Facebook, if I can't see Jack or Jon's reaction to it? This is probably why I tried so hard at BountyCon the last two years.
+
+
+---
+
+## 2020-09-06 · Post · I've recently started making videos to share all of the things I have learnt doing bug bounties over
+
+
+### Post — @infosec_au — 2020-09-06 22:35 UTC (2020-09-06 23:35 WAT)
+
+- URL: https://x.com/infosec_au/status/1302737130687361024
+- Metrics (at fetch): bookmark 177, impression 0, like 665, quote 14, reply 11, retweet 201
+
+> I've recently started making videos to share all of the things I have learnt doing bug bounties over the years. I promise I wont hold back, and I plan to bring more transparency to bug bounty successes. Please share, like and subscribe! https://t.co/eZJP9F6VhY
+
+
+---
+
+## 2020-07-04 · Post · @eur0pa_ and his team takes first kill in the bounty community for CVE-2020-5902 https://twitter.com
+
+
+### Post — @infosec_au — 2020-07-04 15:28 UTC (2020-07-04 16:28 WAT)
+
+- URL: https://x.com/infosec_au/status/1279437042292649984
+- Metrics (at fetch): not returned
+
+> @eur0pa_ and his team takes first kill in the bounty community for CVE-2020-5902 https://twitter.com/eur0pa_/status/1279425068616110085
+
+**Links in post:** https://twitter.com/eur0pa_/status/1279425068616110085
+
+**Quoted post** 1279425068616110085: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2020-07-04 · Post · Anyone else reversing CVE-2020-5902 this weekend?
+
+
+### Post — @infosec_au — 2020-07-04 05:51 UTC (2020-07-04 06:51 WAT)
+
+- URL: https://x.com/infosec_au/status/1279291606441447424
+- Metrics (at fetch): not returned
+
+> Anyone else reversing CVE-2020-5902 this weekend?
+
+
+---
+
+## 2020-07-02 · Post · I wonder how many hackers are disgruntled that they have to read the SAML spec again for CVE-2020-20
+
+
+### Post — @infosec_au — 2020-07-02 10:09 UTC (2020-07-02 11:09 WAT)
+
+- URL: https://x.com/infosec_au/status/1278631900836319233
+- Metrics (at fetch): not returned
+
+> I wonder how many hackers are disgruntled that they have to read the SAML spec again for CVE-2020-2021
+
+
+---
+
+## 2020-06-21 · Post · @samwcyo and @Rhynorater have done it again with this recent critical vulnerability in Starbucks all
+
+
+### Post — @infosec_au — 2020-06-21 00:32 UTC (2020-06-21 01:32 WAT)
+
+- URL: https://x.com/infosec_au/status/1274500349332602881
+- Metrics (at fetch): not returned
+
+> @samwcyo and @Rhynorater have done it again with this recent critical vulnerability in Starbucks allowing access to 100M customer records. Excellent bug. https://samcurry.net/hacking-starbucks/
+
+**Links in post:** https://samcurry.net/hacking-starbucks/
+
+
+---
+
+## 2020-02-02 · Post · This month I learnt how to analyse the JavaScript of a React Native application while bounty hunting
+
+
+### Post — @infosec_au — 2020-02-02 09:28 UTC (2020-02-02 10:28 WAT)
+
+- URL: https://x.com/infosec_au/status/1223900898889355264
+- Metrics (at fetch): not returned
+
+> This month I learnt how to analyse the JavaScript of a React Native application while bounty hunting. I wanted to share what I found out with everyone else. 
+>
+> https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native/
+
+**Links in post:** https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native/
+
+
+---
+
+## 2019-12-07 · Post · HTTP Request Smuggling + IDOR by @_hipotermia_ https://hipotermia.pw/bb/http-desync-idor
+
+
+Tags (automatic): IDOR / BOLA, Request smuggling / desync
+
+
+### Post — @infosec_au — 2019-12-07 09:23 UTC (2019-12-07 10:23 WAT)
+
+- URL: https://x.com/infosec_au/status/1203243559429668868
+- Metrics (at fetch): not returned
+
+> HTTP Request Smuggling + IDOR by @_hipotermia_ https://hipotermia.pw/bb/http-desync-idor
+
+**Links in post:** https://hipotermia.pw/bb/http-desync-idor
+
+
+---
+
+## 2019-03-22 · Post · Do we have to start PGP encrypting PoCs in bug bounty reports so that they aren't taken by the oppor
+
+
+### Post — @infosec_au — 2019-03-22 02:45 UTC (2019-03-22 03:45 WAT)
+
+- URL: https://x.com/infosec_au/status/1108922735801954306
+- Metrics (at fetch): not returned
+
+> Do we have to start PGP encrypting PoCs in bug bounty reports so that they aren't taken by the opportunistic over looker and used elsewhere? How do we report software stack related vulnerabilities that are widespread across bounties, without the bugs getting stolen? :(
+
+
+---
+
+## 2019-03-19 · Post · Something @avlidienbrunn and I worked on some time ago.  Fun bug. https://twitter.com/assetnote/stat
+
+
+### Post — @infosec_au — 2019-03-19 00:56 UTC (2019-03-19 01:56 WAT)
+
+- URL: https://x.com/infosec_au/status/1107807962242781185
+- Metrics (at fetch): not returned
+
+> Something @avlidienbrunn and I worked on some time ago.  Fun bug. https://twitter.com/assetnote/status/1107807521014595584
+
+**Links in post:** https://twitter.com/assetnote/status/1107807521014595584
+
+**Quoted post (full text):**
+
+    #### Quoted post — @884385805514526720 — 2019-03-19 00:54 UTC (2019-03-19 01:54 WAT)
+    
+    - URL: https://x.com/884385805514526720/status/1107807521014595584
+    - Metrics (at fetch): not returned
+    
+    > Discovering a zero day and getting code execution on Mozilla's AWS Network https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/
+    
+    **Links in post:** https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/
+    
+
+
+---
+
+## 2018-12-27 · Post · Where are all the bug bounty hunters at? 35c3
+
+
+### Post — @infosec_au — 2018-12-27 14:32 UTC (2018-12-27 15:32 WAT)
+
+- URL: https://x.com/infosec_au/status/1078297494541471744
+- Metrics (at fetch): not returned
+
+> Where are all the bug bounty hunters at? #35c3

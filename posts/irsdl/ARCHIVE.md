@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 163
-- Conversations/threads: 158
-- Oldest post captured: 2016-08-12
+- Posts in this file: 264
+- Conversations/threads: 259
+- Oldest post captured: 2011-05-16
 - Newest post captured: 2026-11-10
 
 
@@ -2958,6 +2958,1125 @@ Tags (automatic): XSS
 
 ---
 
+## 2023-11-26 · Post · Day 2 of @Jhaddix's course finished. I definitely recommend it to anyone who wants to know what is h
+
+
+### Post — @irsdl — 2023-11-26 20:33 UTC (2023-11-26 21:33 WAT)
+
+- URL: https://x.com/irsdl/status/1728874761512456501
+- Metrics (at fetch): not returned
+
+> Day 2 of @Jhaddix's course finished. I definitely recommend it to anyone who wants to know what is happening in the bb world &amp; recon these days.
+> What I loved the most was that he shared what he personally had in his set-up like used commands &amp; args, file lists, type of cloud [pic.x.com/WOCdeWq6jf] https://twitter.com/irsdl/status/1728506329067561223
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F_4xH7jWQAAcKCS.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/irsdl/status/1728506329067561223
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2023-11-25 20:09 UTC (2023-11-25 21:09 WAT)
+    
+    - URL: https://x.com/irsdl/status/1728506329067561223
+    - Metrics (at fetch): not returned
+    
+    > So far so good 🤩 so much stuff I need to go through!
+    > Thanks to @Jhaddix [pic.x.com/WCKrCGBKp6] https://twitter.com/irsdl/status/1727851380210065510
+    
+    **Media:**
+    - media `3_1728505995419123712` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/irsdl/status/1727851380210065510
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2023-11-24 00:47 UTC (2023-11-24 01:47 WAT)
+        
+        - URL: https://x.com/irsdl/status/1727851380210065510
+        - Metrics (at fetch): not returned
+        
+        > I am excited to attend this course now! 🤩
+        > This might be just what I need for large targets to learn how to optimize/organize/automate the recon, how to feed the test flame with constant flow of fresh recon data!
+        > I am also interested to see how others may approach targets 😊 https://twitter.com/Jhaddix/status/1724096197240008965
+        
+        **Links in post:** https://twitter.com/Jhaddix/status/1724096197240008965
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @21445961 — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
+            
+            - URL: https://x.com/21445961/status/1724096197240008965
+            - Metrics (at fetch): not returned
+            
+            > Ok fam. I’m giving away TWO free tickets to my course which takes place in two/three weeks. 
+            >
+            > All you have to do to win is like, retweet this tweet, and reply with “http://tbhmlive.com!”
+            >
+            > I’ll pick winners next week! 
+            >
+            > If you haven’t seen my course, check out the link!
+            
+            **Links in post:** http://tbhmlive.com
+            
+        
+    
+
+
+---
+
+## 2023-11-25 · Post · So far so good 🤩 so much stuff I need to go through!
+
+
+### Post — @irsdl — 2023-11-25 20:09 UTC (2023-11-25 21:09 WAT)
+
+- URL: https://x.com/irsdl/status/1728506329067561223
+- Metrics (at fetch): not returned
+
+> So far so good 🤩 so much stuff I need to go through!
+> Thanks to @Jhaddix [pic.x.com/WCKrCGBKp6] https://twitter.com/irsdl/status/1727851380210065510
+
+**Media:**
+- media `3_1728505995419123712` (details not returned by the API)
+
+**Links in post:** https://twitter.com/irsdl/status/1727851380210065510
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2023-11-24 00:47 UTC (2023-11-24 01:47 WAT)
+    
+    - URL: https://x.com/irsdl/status/1727851380210065510
+    - Metrics (at fetch): not returned
+    
+    > I am excited to attend this course now! 🤩
+    > This might be just what I need for large targets to learn how to optimize/organize/automate the recon, how to feed the test flame with constant flow of fresh recon data!
+    > I am also interested to see how others may approach targets 😊 https://twitter.com/Jhaddix/status/1724096197240008965
+    
+    **Links in post:** https://twitter.com/Jhaddix/status/1724096197240008965
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @21445961 — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
+        
+        - URL: https://x.com/21445961/status/1724096197240008965
+        - Metrics (at fetch): not returned
+        
+        > Ok fam. I’m giving away TWO free tickets to my course which takes place in two/three weeks. 
+        >
+        > All you have to do to win is like, retweet this tweet, and reply with “http://tbhmlive.com!”
+        >
+        > I’ll pick winners next week! 
+        >
+        > If you haven’t seen my course, check out the link!
+        
+        **Links in post:** http://tbhmlive.com
+        
+    
+
+
+---
+
+## 2023-11-24 · Post · I am excited to attend this course now! 🤩
+
+
+### Post — @irsdl — 2023-11-24 00:47 UTC (2023-11-24 01:47 WAT)
+
+- URL: https://x.com/irsdl/status/1727851380210065510
+- Metrics (at fetch): not returned
+
+> I am excited to attend this course now! 🤩
+> This might be just what I need for large targets to learn how to optimize/organize/automate the recon, how to feed the test flame with constant flow of fresh recon data!
+> I am also interested to see how others may approach targets 😊 https://twitter.com/Jhaddix/status/1724096197240008965
+
+**Links in post:** https://twitter.com/Jhaddix/status/1724096197240008965
+
+**Quoted post (full text):**
+
+    #### Quoted post — @21445961 — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
+    
+    - URL: https://x.com/21445961/status/1724096197240008965
+    - Metrics (at fetch): not returned
+    
+    > Ok fam. I’m giving away TWO free tickets to my course which takes place in two/three weeks. 
+    >
+    > All you have to do to win is like, retweet this tweet, and reply with “http://tbhmlive.com!”
+    >
+    > I’ll pick winners next week! 
+    >
+    > If you haven’t seen my course, check out the link!
+    
+    **Links in post:** http://tbhmlive.com
+    
+
+
+---
+
+## 2023-11-15 · Post · The new Cookieless variant (CVE-2023-36560) has been added to https://soroush.me/blog/2023/08/cookie
+
+
+### Post — @irsdl — 2023-11-15 09:56 UTC (2023-11-15 10:56 WAT)
+
+- URL: https://x.com/irsdl/status/1724727974711218205
+- Metrics (at fetch): not returned
+
+> The new Cookieless variant (CVE-2023-36560) has been added to https://soroush.me/blog/2023/08/cookieless-duodrop-iis-auth-bypass-app-pool-privesc-in-asp-net-framework-cve-2023-36899/
+>
+> @mwulftange 😇 [pic.x.com/siM36IcZGx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-92sXkXEAEUfpr.png — no alt text provided by author
+
+**Links in post:** https://soroush.me/blog/2023/08/cookieless-duodrop-iis-auth-bypass-app-pool-privesc-in-asp-net-framework-cve-2023-36899/
+
+
+---
+
+## 2023-11-15 · Post · CVE-2023-36558 "An unauthenticated attacker could bypass validations on Blazor Server forms": https:
+
+
+### Post — @irsdl — 2023-11-15 08:29 UTC (2023-11-15 09:29 WAT)
+
+- URL: https://x.com/irsdl/status/1724706088329638243
+- Metrics (at fetch): not returned
+
+> CVE-2023-36558 "An unauthenticated attacker could bypass validations on Blazor Server forms": https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558
+>
+> Reported by @blowdart 😊 Not sure we are going to see any post from him though 😱
+
+**Links in post:** https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36558
+
+
+---
+
+## 2023-11-12 · Post · Here is my BCheck contribution to bypass some Proxies/WAFs by adding a suffix to a blocked path:
+
+
+### Post — @irsdl — 2023-11-12 20:30 UTC (2023-11-12 21:30 WAT)
+
+- URL: https://x.com/irsdl/status/1723800351214596372
+- Metrics (at fetch): not returned
+
+> Here is my BCheck contribution to bypass some Proxies/WAFs by adding a suffix to a blocked path:
+> https://github.com/irsdl/BChecks/blob/main/other/bypass/PathSuffix_WAF_Proxy.bcheck
+> I have sent a PR to its main repo too.
+> The limits atm are:
+> - It cannot be applied to each path segment separaelty (BChecks limit)
+> - If path ends with /, rule https://twitter.com/irsdl/status/1723797123597013201
+
+**Links in post:** https://github.com/irsdl/BChecks/blob/main/other/bypass/PathSuffix_WAF_Proxy.bcheck, https://twitter.com/irsdl/status/1723797123597013201
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2023-11-12 20:17 UTC (2023-11-12 21:17 WAT)
+    
+    - URL: https://x.com/irsdl/status/1723797123597013201
+    - Metrics (at fetch): not returned
+    
+    > This was a CTF challenge to get to the source then the flag. After I got the source (you can do it in the first few minutes if you are familiar with CTFs and APIs), I tried to get the flag but it didn’t work… for me the problem was not Burp Suite HTTP2 bug [pic.x.com/trjFQXcAsf] https://twitter.com/voorivex/status/1722271656931148209
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F-wkrVYXgAAZ2A-.png — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/voorivex/status/1722271656931148209
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1131670735854940172 — 2023-11-08 15:15 UTC (2023-11-08 16:15 WAT)
+        
+        - URL: https://x.com/1131670735854940172/status/1722271656931148209
+        - Metrics (at fetch): not returned
+        
+        > پیکار قبلی خیلی فیدبک خوب داشتم (تو هایلایت هست)، یکی دیگه طراحی کردم، بر اساس Real Attack طراحی شده. چقدر روی Reverse Proxyها کار کردیم؟ چقدر مقالات رو می‌خونیم و بروز هستیم؟ سعی کردم اینا رو به چالش بکشم. بین نفراتی که حل کنن = قرعه‌کشی و جایزه کتاب، گو گو گو 🔫 [pic.x.com/tUdNB3aoCj]
+        
+        **Media:**
+        - media `3_1722269481823858688` (details not returned by the API)
+        
+    
+
+
+---
+
+## 2023-11-12 · Post · This was a CTF challenge to get to the source then the flag. After I got the source (you can do it i
+
+
+### Post — @irsdl — 2023-11-12 20:17 UTC (2023-11-12 21:17 WAT)
+
+- URL: https://x.com/irsdl/status/1723797123597013201
+- Metrics (at fetch): not returned
+
+> This was a CTF challenge to get to the source then the flag. After I got the source (you can do it in the first few minutes if you are familiar with CTFs and APIs), I tried to get the flag but it didn’t work… for me the problem was not Burp Suite HTTP2 bug [pic.x.com/trjFQXcAsf] https://twitter.com/voorivex/status/1722271656931148209
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-wkrVYXgAAZ2A-.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/voorivex/status/1722271656931148209
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1131670735854940172 — 2023-11-08 15:15 UTC (2023-11-08 16:15 WAT)
+    
+    - URL: https://x.com/1131670735854940172/status/1722271656931148209
+    - Metrics (at fetch): not returned
+    
+    > پیکار قبلی خیلی فیدبک خوب داشتم (تو هایلایت هست)، یکی دیگه طراحی کردم، بر اساس Real Attack طراحی شده. چقدر روی Reverse Proxyها کار کردیم؟ چقدر مقالات رو می‌خونیم و بروز هستیم؟ سعی کردم اینا رو به چالش بکشم. بین نفراتی که حل کنن = قرعه‌کشی و جایزه کتاب، گو گو گو 🔫 [pic.x.com/tUdNB3aoCj]
+    
+    **Media:**
+    - media `3_1722269481823858688` (details not returned by the API)
+    
+
+
+---
+
+## 2023-11-10 · Post · There is an existing bug in BurpSuite HTTP/2 which converts un-encoded values between 80-FF to "?" 
+
+
+### Post — @irsdl — 2023-11-10 18:35 UTC (2023-11-10 19:35 WAT)
+
+- URL: https://x.com/irsdl/status/1723046800381088222
+- Metrics (at fetch): not returned
+
+> There is an existing bug in #BurpSuite HTTP/2 which converts un-encoded values between 80-FF to "?" in header part. If you are testing with raw characters, use HTTP/1.1 in repeater &amp; turn off HTTP/2 in Settings&gt;Network&gt;HTTP&gt;HTTP/2
+> @PortSwigger [pic.x.com/laXczaQy2F]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-l9mhTWIAASjUu.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F-l908yWMAAjN2C.png — no alt text provided by author
+
+
+---
+
+## 2023-10-22 · Post · I have rewritten my BurpSuite extension using Montoya and I am calling it `Request Charset Encoder`
+
+
+Tags (automatic): RCE, Request smuggling / desync
+
+
+### Post — @irsdl — 2023-10-22 22:29 UTC (2023-10-22 23:29 WAT)
+
+- URL: https://x.com/irsdl/status/1716220214210166836
+- Metrics (at fetch): not returned
+
+> I have rewritten my #BurpSuite extension using Montoya and I am calling it `Request Charset Encoder` now (RCE 🤣?). This is not public as I am still testing it but at least it does exactly what https://github.com/nccgroup/BurpSuiteHTTPSmuggler used to do! [pic.x.com/Dppzla9His] https://twitter.com/infosec_au/status/1713834893078355986
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9E8rMxWgAEqnHc.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/nccgroup/BurpSuiteHTTPSmuggler, https://twitter.com/infosec_au/status/1713834893078355986
+
+**Quoted post (full text):**
+
+    #### Quoted post — @infosec_au — 2023-10-16 08:30 UTC (2023-10-16 09:30 WAT)
+    
+    - URL: https://x.com/infosec_au/status/1713834893078355986
+    - Metrics (at fetch): bookmark 265, impression 62879, like 425, quote 2, reply 8, retweet 118
+    
+    > Really love this WAF bypass technique documented and found by @irsdl in 2017: https://soroush.me/downloadable/request-encoding-to-bypass-web-application-firewalls.pdf - still super effective today!
+    
+    **Links in post:** https://soroush.me/downloadable/request-encoding-to-bypass-web-application-firewalls.pdf
+    
+
+
+---
+
+## 2023-10-18 · Post · This happened to me only once in Windows when using the jar file directly. Perhaps email them if you
+
+
+### Post — @irsdl — 2023-10-18 10:24 UTC (2023-10-18 11:24 WAT)
+
+- URL: https://x.com/irsdl/status/1714588376509096286
+- Metrics (at fetch): not returned
+
+> This happened to me only once in Windows when using the jar file directly. Perhaps email them if you can recreate this issue reliably. 
+> One possible solution: https://x.com/steventseeley/status/1714513845639934147?s=20
+> On another note, @steventseeley is going to exploit Java there 😱😱😱 https://twitter.com/steventseeley/status/1714506469700460691
+
+**Links in post:** https://x.com/steventseeley/status/1714513845639934147?s=20, https://twitter.com/steventseeley/status/1714506469700460691
+
+**Quoted post (full text):**
+
+    #### Quoted post — @steventseeley — 2023-10-18 04:59 UTC (2023-10-18 05:59 WAT)
+    
+    - URL: https://x.com/steventseeley/status/1714506469700460691
+    - Metrics (at fetch): not returned
+    
+    > Latest Burp Suite by @PortSwigger looks like this under Ubuntu :/ [pic.x.com/uEVLsbUyLf]
+    
+    **Media:**
+    - media `3_1714506450326933504` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-17 · Post · BugBountyDiary day X?
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @irsdl — 2023-10-17 08:47 UTC (2023-10-17 09:47 WAT)
+
+- URL: https://x.com/irsdl/status/1714201340572815554
+- Metrics (at fetch): not returned
+
+> #BugBountyDiary day X?
+> It's been almost a full month since I have joined @SynackRedTeam. Like any other platforms, it has its ups and downs but overall it has been a much better experience than in H1 and BC for me until this point. The payout is lower but the quick support I get
+
+
+---
+
+## 2023-10-05 · Post · Bug bounty wasn't always there, but the creativity was 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2023-10-05 20:40 UTC (2023-10-05 21:40 WAT)
+
+- URL: https://x.com/irsdl/status/1710032214530895884
+- Metrics (at fetch): not returned
+
+> Bug bounty wasn't always there, but the creativity was 
+> http://xssed.org/pagerank 
+> #MemoryLane #BugBounty #XSS
+
+**Links in post:** http://xssed.org/pagerank
+
+
+---
+
+## 2023-10-02 · Post · This is a strange bug in burpsuite autorize when changing burp from light to dark. Does anyone else
+
+
+### Post — @irsdl — 2023-10-02 23:08 UTC (2023-10-03 00:08 WAT)
+
+- URL: https://x.com/irsdl/status/1708982366922838241
+- Metrics (at fetch): not returned
+
+> This is a strange bug in burpsuite #autorize when changing burp from light to dark. Does anyone else have this problem?
+>
+> https://github.com/Quitten/Autorize/issues/115
+>
+> I secretly wish autorize could be rewritten in Java using Montoya.
+
+**Links in post:** https://github.com/Quitten/Autorize/issues/115
+
+
+---
+
+## 2023-09-13 · Post · There is this website in @Hacker0x01 which does not expire users' sessions (after 10 days). 
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @irsdl — 2023-09-13 21:51 UTC (2023-09-13 22:51 WAT)
+
+- URL: https://x.com/irsdl/status/1702077512644211075
+- Metrics (at fetch): not returned
+
+> There is this website in @Hacker0x01 which does not expire users' sessions (after 10 days). 
+> I'm a legitimate user of them too, so I reported it to make them more secure. 
+> The triage team closed it as INFO due to lack of impact. I had a stored XSS there too with which I can read
+
+
+---
+
+## 2023-09-06 · Post · In bug bounty platforms at the moment, are all triagers definitely human or can the bugs be triaged 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2023-09-06 21:01 UTC (2023-09-06 22:01 WAT)
+
+- URL: https://x.com/irsdl/status/1699528194271952896
+- Metrics (at fetch): not returned
+
+> In bug bounty platforms at the moment, are all triagers definitely human or can the bugs be triaged by an AI using human names? #BugBounty #Triage
+
+
+---
+
+## 2023-09-01 · Post · Some of these posts about "how I earned $ from this bug" has this negative vibe of "so long losers, 
+
+
+### Post — @irsdl — 2023-09-01 08:17 UTC (2023-09-01 09:17 WAT)
+
+- URL: https://x.com/irsdl/status/1697524153098608989
+- Metrics (at fetch): not returned
+
+> Some of these posts about "how I earned $ from this bug" has this negative vibe of "so long losers, I'm better than you" which is not wrong in a way😅 but what hurts more is when it's a clickbait😭 and stop making fun of that! or use #joke🙈 #bugbountytip [pic.x.com/zf2zHlmyr0]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2023-08-24 · Post · R7: We do not want publicity that @Ford has a public bug bounty programme! 😤
+
+
+### Post — @irsdl — 2023-08-24 13:17 UTC (2023-08-24 14:17 WAT)
+
+- URL: https://x.com/irsdl/status/1694700525306974405
+- Metrics (at fetch): not returned
+
+> R7: We do not want publicity that @Ford has a public bug bounty programme! 😤
+>
+> Result: That makes them less secure @rapid7! 
+> But then thanks to R7, they got so much more publicity now, and can become even safer 🥹 
+>
+> Ben: wow, so much more views, $$$$
+>
+> All won except R7! https://twitter.com/nahamsec/status/1694388639994675568
+
+**Links in post:** https://twitter.com/nahamsec/status/1694388639994675568
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2023-08-23 16:38 UTC (2023-08-23 17:38 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1694388639994675568
+    - Metrics (at fetch): not returned
+    
+    > Rapid7 asking me to remove an educational content from YouTube over the fact that used them as an example for publicly accessible swagger file. [pic.x.com/qkOcixlLny]
+    
+    **Media:**
+    - media `3_1694388633841594368` (details not returned by the API)
+    
+
+
+---
+
+## 2023-08-24 · Post · I thought @albinowax's new tool to exploit race condition issues can make the web flow faster and pe
+
+
+Tags (automatic): Race condition
+
+
+### Post — @irsdl — 2023-08-24 10:05 UTC (2023-08-24 11:05 WAT)
+
+- URL: https://x.com/irsdl/status/1694652065283207349
+- Metrics (at fetch): not returned
+
+> I thought @albinowax's new tool to exploit race condition issues can make the web flow faster and perhaps we can use it in a VPN like v2ray, but I was wrong!
+>
+> A tip from James:
+> &gt; Although requests are handled closer together, total send/receive might take even longer!🛎️
+> 🙏
+
+
+---
+
+## 2023-08-08 · Post · Cookieless DuoDrop: IIS Auth Bypass &amp; App Pool Privesc in ASP .NET Framework (CVE-2023-36899)
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @irsdl — 2023-08-08 18:16 UTC (2023-08-08 19:16 WAT)
+
+- URL: https://x.com/irsdl/status/1688977538834399238
+- Metrics (at fetch): not returned
+
+> Cookieless DuoDrop: IIS Auth Bypass &amp; App Pool Privesc in ASP .NET Framework (CVE-2023-36899)
+>
+> https://soroush.me/blog/2023/08/cookieless-duodrop-iis-auth-bypass-app-pool-privesc-in-asp-net-framework-cve-2023-36899/
+>
+> #Appsec #bugbountytips [pic.x.com/pKapUpshIR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3Bz0UsXcAAg1xj.png — no alt text provided by author
+
+**Links in post:** https://soroush.me/blog/2023/08/cookieless-duodrop-iis-auth-bypass-app-pool-privesc-in-asp-net-framework-cve-2023-36899/
+
+
+---
+
+## 2023-08-08 · Post · MSRC patch Tuesday is out https://msrc.microsoft.com/update-guide/releaseNote/2023-Aug - seems Excha
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2023-08-08 17:31 UTC (2023-08-08 18:31 WAT)
+
+- URL: https://x.com/irsdl/status/1688966067735957512
+- Metrics (at fetch): not returned
+
+> MSRC patch Tuesday is out https://msrc.microsoft.com/update-guide/releaseNote/2023-Aug - seems Exchange has some RCE too! 😎 
+> going to publish the details of CVE-2023-36899 tonight :)
+
+**Links in post:** https://msrc.microsoft.com/update-guide/releaseNote/2023-Aug
+
+
+---
+
+## 2023-08-03 · Post · XSS, CSRF, ACL, Dir Traversal, File Upload, Open Redirect, XXE without full file read (it is a java 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2023-08-03 22:55 UTC (2023-08-03 23:55 WAT)
+
+- URL: https://x.com/irsdl/status/1687235853729325057
+- Metrics (at fetch): not returned
+
+> XSS, CSRF, ACL, Dir Traversal, File Upload, Open Redirect, XXE without full file read (it is a java app!), are OoS 🧐🧐
+> #bugbountylife
+> I just realized this and I am going to look somewhere else without reporting the reflected XSS by bypassing their external and internal WAF... [pic.x.com/W6TODFF4gc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2pCqHMWMAEe5ab.png — no alt text provided by author
+
+
+---
+
+## 2023-08-01 · Post · The next blog post is about accessing other collections in a special MongoDB NOSQL Injection or an A
+
+
+Tags (automatic): SQL injection, Auth bypass
+
+
+### Post — @irsdl — 2023-08-01 13:54 UTC (2023-08-01 14:54 WAT)
+
+- URL: https://x.com/irsdl/status/1686374911747788800
+- Metrics (at fetch): not returned
+
+> The next blog post is about accessing other collections in a special MongoDB NOSQL Injection or an ASP .NET vulnerability that may cause IIS auth bypass and app pool confusion (if patched in August)... 
+> Stay tuned advert advert wink wink 😱🌶️
+> https://soroush.me/
+
+**Links in post:** https://soroush.me/
+
+
+---
+
+## 2023-08-01 · Post · My latest blog post is out:
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2023-08-01 13:11 UTC (2023-08-01 14:11 WAT)
+
+- URL: https://x.com/irsdl/status/1686363933060235264
+- Metrics (at fetch): not returned
+
+> My latest blog post is out:
+> Anchor Tag XSS Exploitation in Firefox with Target="_blank"
+> https://soroush.me/blog/2023/08/anchor-tag-xss-exploitation-in-firefox-with-target_blank/
+>
+> We could use Middle-Mouse-Click or  SHIFT/CTRL/ALT+CLICK in Chrome, now a similar approach for Firefox to access `document.cookie`!
+>
+> #AppSec #bugbountytips 🛎️
+
+**Links in post:** https://soroush.me/blog/2023/08/anchor-tag-xss-exploitation-in-firefox-with-target_blank/
+
+
+---
+
+## 2023-07-30 · Post · Back in 2018, I found a RCE in SharePoint by finding an interesting bypass in the Workflow; here you
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2023-07-30 22:45 UTC (2023-07-30 23:45 WAT)
+
+- URL: https://x.com/irsdl/status/1685783702440173568
+- Metrics (at fetch): not returned
+
+> Back in 2018, I found a RCE in SharePoint by finding an interesting bypass in the Workflow; here you can read the full story:
+> https://soroush.me/blog/2018/12/story-of-two-published-rces-in-sharepoint-workflows/
+> The PDF version of the vuln: https://soroush.me/downloadable/bypassing_workflows_protection_mechanisms_remote_code_execution_on_sharepoint.pdf?1
+> This story involves @MSwannMSFT 😎
+> #BugBounty #AppSec [pic.x.com/hZKiYjEDdo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2UX6sAWEAEVyP0.png — alt text: "The disabled part of the workflow was not checked to ensure it does not contain C# code!"
+
+**Links in post:** https://soroush.me/blog/2018/12/story-of-two-published-rces-in-sharepoint-workflows/, https://soroush.me/downloadable/bypassing_workflows_protection_mechanisms_remote_code_execution_on_sharepoint.pdf?1
+
+
+---
+
+## 2023-07-28 · Post · Discovered a unique case back in 2017 where .NET Request Validation could be bypassed, letting me pe
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2023-07-28 18:59 UTC (2023-07-28 19:59 WAT)
+
+- URL: https://x.com/irsdl/status/1685002125103837185
+- Metrics (at fetch): not returned
+
+> Discovered a unique case back in 2017 where .NET Request Validation could be bypassed, letting me perform stored-XSS via the Content-Type header. Find the detailed post here - now updated with a handy PDF version:
+> https://soroush.me/blog/2018/02/rare-asp-net-request-validation-bypass-using-request-encoding/
+>
+> #AppSec #bugbountytips 🤌
+
+**Links in post:** https://soroush.me/blog/2018/02/rare-asp-net-request-validation-bypass-using-request-encoding/
+
+
+---
+
+## 2023-06-23 · Post · 1/ Last month, I dived into a bug bounty, taking on the challenge of bypassing a Web Application Fir
+
+
+### Post — @irsdl — 2023-06-23 20:58 UTC (2023-06-23 21:58 WAT)
+
+- URL: https://x.com/irsdl/status/1672348385246846977
+- Metrics (at fetch): not returned
+
+> 1/ Last month, I dived into a bug bounty, taking on the challenge of bypassing a Web Application Firewall (WAF) for XML External Entity (XXE) injection. Buckle up, here's the story! #Tip #BugBounty #AppSec 🧵 https://twitter.com/irsdl/status/1668913208776704003
+
+**Links in post:** https://twitter.com/irsdl/status/1668913208776704003
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2023-06-14 09:28 UTC (2023-06-14 10:28 WAT)
+    
+    - URL: https://x.com/irsdl/status/1668913208776704003
+    - Metrics (at fetch): not returned
+    
+    > #BugBountyDiray `BugCrowd` - `a private programme`
+    > 🌠It was the day 1 with the bug bounty hat on: I still have no proper automation in-place but I will sort it out when I have the energy probably in the next 6 months or when I realise I missing out a lot!
+    >
+    > 😱 My account got [pic.x.com/jDUtH7w1PV]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FykiAV2WwAILTbv.png — no alt text provided by author
+    
+
+
+---
+
+## 2023-06-14 · Post · BugBountyDiray `BugCrowd` - `a private programme`
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @irsdl — 2023-06-14 09:28 UTC (2023-06-14 10:28 WAT)
+
+- URL: https://x.com/irsdl/status/1668913208776704003
+- Metrics (at fetch): not returned
+
+> #BugBountyDiray `BugCrowd` - `a private programme`
+> 🌠It was the day 1 with the bug bounty hat on: I still have no proper automation in-place but I will sort it out when I have the energy probably in the next 6 months or when I realise I missing out a lot!
+>
+> 😱 My account got [pic.x.com/jDUtH7w1PV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FykiAV2WwAILTbv.png — no alt text provided by author
+
+
+---
+
+## 2023-05-20 · Post · Well this bug has given me $10k from @msftsecresponse 🥳 I am happier a bit now 🤓 (only one of them g
+
+
+### Post — @irsdl — 2023-05-20 12:37 UTC (2023-05-20 13:37 WAT)
+
+- URL: https://x.com/irsdl/status/1659901226308304897
+- Metrics (at fetch): not returned
+
+> Well this bug has given me $10k from @msftsecresponse 🥳 I am happier a bit now 🤓 (only one of them got bounty as the same code change can stop them both)
+> And @blowdart knows it all! Follow him 🙂 https://twitter.com/irsdl/status/1643313347243171840
+
+**Links in post:** https://twitter.com/irsdl/status/1643313347243171840
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2023-04-04 18:03 UTC (2023-04-04 19:03 WAT)
+    
+    - URL: https://x.com/irsdl/status/1643313347243171840
+    - Metrics (at fetch): not returned
+    
+    > I wanted to tweet more tips but something led to another &amp; now I have reported two issues to MS one for abusing the IIS Application Pools and one for bypassing authentication on restricted folders in IIS 🔥 Hopefully they will patch it soon so it can be presented at @Steel_Con! [pic.x.com/KP3cTsgP1i] https://twitter.com/irsdl/status/1643180113930993664
+    
+    **Media:**
+    - media `3_1643311899654643713` (details not returned by the API)
+    - media `3_1643312520520691713` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/irsdl/status/1643180113930993664
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2023-04-04 09:14 UTC (2023-04-04 10:14 WAT)
+        
+        - URL: https://x.com/irsdl/status/1643180113930993664
+        - Metrics (at fetch): not returned
+        
+        > #IIS #Shortname scanner tip:
+        > If you are using Powershell and are going to use ADS to inside the restricted /bin/ folder, remember to escape the $ sign:
+        > bin::`$INDEX_ALLOCATION
+        >
+        > Going to submit a talk for @Steel_Con to include some useful tricks like this + some new things [pic.x.com/Do1MZLGrrP]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/Fs2_e1fXwAAcFuV.png — no alt text provided by author
+        
+    
+
+
+---
+
+## 2023-05-16 · Post · Asking bug bounty hunters:
+
+
+### Post — @irsdl — 2023-05-16 10:21 UTC (2023-05-16 11:21 WAT)
+
+- URL: https://x.com/irsdl/status/1658417310372098052
+- Metrics (at fetch): not returned
+
+> Asking bug bounty hunters:
+>
+> Do you report “IIS Short File Name Disclosure” on its own without disclosing a sensitive file?
+>
+> If yes, please comment if you have ever got a reward for it when you couldn’t find any sensitive files.
+> #bugbounty #bughunter
+
+
+---
+
+## 2023-05-13 · Post · I did a few hours of bug bounty for a few nights last week to get a feel.
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @irsdl — 2023-05-13 09:41 UTC (2023-05-13 10:41 WAT)
+
+- URL: https://x.com/irsdl/status/1657320256946274306
+- Metrics (at fetch): not returned
+
+> I did a few hours of bug bounty for a few nights last week to get a feel.
+> I chose a couple of different programmes in h1 and bugcrowd to also get a feel of these platforms differences.
+> Surprisingly both programmes were using Akamai WAF so direct automation was out, however,
+
+
+---
+
+## 2023-05-13 · Post · I did a few hours of bug bounty for a few nights last week to get a feel.
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @irsdl — 2023-05-13 09:38 UTC (2023-05-13 10:38 WAT)
+
+- URL: https://x.com/irsdl/status/1657319484791693313
+- Metrics (at fetch): not returned
+
+> I did a few hours of bug bounty for a few nights last week to get a feel.
+> I chose a couple of different programmes in h1 and bugcrowd to also get a feel of these platforms differences.
+> Surprisingly both programmes were using Akamai WAF so direct automation was out, however,
+
+
+---
+
+## 2023-05-10 · Post · Shall we start asking Red Teamers to publish their methods and their bypass techniques?
+
+
+### Post — @irsdl — 2023-05-10 16:16 UTC (2023-05-10 17:16 WAT)
+
+- URL: https://x.com/irsdl/status/1656332324152147990
+- Metrics (at fetch): not returned
+
+> Shall we start asking Red Teamers to publish their methods and their bypass techniques?
+> **assuming you are saying no not possible**
+> WAF and firewall bypasses are the same! [pic.x.com/7Z3VXTV2cB]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2023-05-08 · Post · Is this quite common in bug bounty programmes to have their WAF on with no testing environment and b
+
+
+### Post — @irsdl — 2023-05-08 00:29 UTC (2023-05-08 01:29 WAT)
+
+- URL: https://x.com/irsdl/status/1655369352202399745
+- Metrics (at fetch): not returned
+
+> Is this quite common in bug bounty programmes to have their WAF on with no testing environment and block scanners' IPs even if they are platform VPNs?
+> I was just looking at a programme and had all that! The platform's VPN cannot even see the site (it's been blocked already).
+
+
+---
+
+## 2023-05-04 · Post · To bug bounty hunters, where do you store your recon data and your test data in general like nmap sc
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @irsdl — 2023-05-04 12:20 UTC (2023-05-04 13:20 WAT)
+
+- URL: https://x.com/irsdl/status/1654098683086925852
+- Metrics (at fetch): not returned
+
+> To bug bounty hunters, where do you store your recon data and your test data in general like nmap scans or all http requests and their responses? 
+> Only splunk comes to my mind to search them fast but that’s not cheap.
+
+
+---
+
+## 2023-05-03 · Post · I want to start bug bounty as a serious task very soon and I hope it is worth it, any great suggesti
+
+
+### Post — @irsdl — 2023-05-03 18:51 UTC (2023-05-03 19:51 WAT)
+
+- URL: https://x.com/irsdl/status/1653834565490712584
+- Metrics (at fetch): not returned
+
+> I want to start bug bounty as a serious task very soon and I hope it is worth it, any great suggestions or pointers for an experienced web tester?
+> Also if you are a vendor and like my work, please invite me to your prv programme! 
+> I am accepting all invites now 🥹
+
+
+---
+
+## 2023-04-28 · Post · I like to use `Delicious` instead of `Malicious` in the security reports today. What can go wrong? 😇
+
+
+### Post — @irsdl — 2023-04-28 08:27 UTC (2023-04-28 09:27 WAT)
+
+- URL: https://x.com/irsdl/status/1651865739152838657
+- Metrics (at fetch): not returned
+
+> I like to use `Delicious` instead of `Malicious` in the security reports today. What can go wrong? 😇
+> ```
+> Attackers must entice users to visit a delicious HTML page in order to exploit them.
+> ```
+> Sweet
+
+
+---
+
+## 2023-04-27 · Post · I was searching a vuln when I saw https://www.sonarsource.com/blog/wordpress-core-unauthenticated-bl
+
+
+Tags (automatic): SSRF
+
+
+### Post — @irsdl — 2023-04-27 00:01 UTC (2023-04-27 01:01 WAT)
+
+- URL: https://x.com/irsdl/status/1651375993532174336
+- Metrics (at fetch): not returned
+
+> I was searching a vuln when I saw https://www.sonarsource.com/blog/wordpress-core-unauthenticated-blind-ssrf/ by @Sonar_Research 
+> Which reminds me of the same issue reported 5 years ago and mine was a dup too. Never got access to the DNS rebinding report though. [pic.x.com/5ts1x7ffIG] https://twitter.com/irsdl/status/1651204637314146309
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FurcnhqXsAAToij.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FurdUg2WcAIVOl-.jpg — no alt text provided by author
+
+**Links in post:** https://www.sonarsource.com/blog/wordpress-core-unauthenticated-blind-ssrf/, https://twitter.com/irsdl/status/1651204637314146309
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2023-04-26 12:40 UTC (2023-04-26 13:40 WAT)
+    
+    - URL: https://x.com/irsdl/status/1651204637314146309
+    - Metrics (at fetch): not returned
+    
+    > And these 0s can come in handy! Here is just one example of some bypasses for PHP's gethostbyname() https://onlinephp.io/c/f9855
+    > This was a bypass in @WordPress which led to SSRF because of https://developer.wordpress.org/reference/functions/wp_http_validate_url/ (reported 5 years ago!) [pic.x.com/4C1Ig9CDmm] https://twitter.com/bug_bounty_tips/status/1651196936630726656
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FupB1BmWcAIlWQt.png — no alt text provided by author
+    
+    **Links in post:** https://onlinephp.io/c/f9855, https://developer.wordpress.org/reference/functions/wp_http_validate_url/, https://twitter.com/bug_bounty_tips/status/1651196936630726656
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1633765402332241925 — 2023-04-26 12:10 UTC (2023-04-26 13:10 WAT)
+        
+        - URL: https://x.com/1633765402332241925/status/1651196936630726656
+        - Metrics (at fetch): not returned
+        
+        > This is your weekly reminder that you can use any arbitrary amount of 0️⃣'s in an IP address to bypass SSRF blacklists. Thanks for the #BugBountyTip, @naategh_! 👌 [pic.x.com/YtJz6ts3m3]
+        
+        **Media:**
+        - media `3_1651196935125053440` (details not returned by the API)
+        
+    
+
+
+---
+
+## 2023-04-26 · Post · And these 0s can come in handy! Here is just one example of some bypasses for PHP's gethostbyname() 
+
+
+Tags (automatic): SSRF
+
+
+### Post — @irsdl — 2023-04-26 12:40 UTC (2023-04-26 13:40 WAT)
+
+- URL: https://x.com/irsdl/status/1651204637314146309
+- Metrics (at fetch): not returned
+
+> And these 0s can come in handy! Here is just one example of some bypasses for PHP's gethostbyname() https://onlinephp.io/c/f9855
+> This was a bypass in @WordPress which led to SSRF because of https://developer.wordpress.org/reference/functions/wp_http_validate_url/ (reported 5 years ago!) [pic.x.com/4C1Ig9CDmm] https://twitter.com/bug_bounty_tips/status/1651196936630726656
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FupB1BmWcAIlWQt.png — no alt text provided by author
+
+**Links in post:** https://onlinephp.io/c/f9855, https://developer.wordpress.org/reference/functions/wp_http_validate_url/, https://twitter.com/bug_bounty_tips/status/1651196936630726656
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1633765402332241925 — 2023-04-26 12:10 UTC (2023-04-26 13:10 WAT)
+    
+    - URL: https://x.com/1633765402332241925/status/1651196936630726656
+    - Metrics (at fetch): not returned
+    
+    > This is your weekly reminder that you can use any arbitrary amount of 0️⃣'s in an IP address to bypass SSRF blacklists. Thanks for the #BugBountyTip, @naategh_! 👌 [pic.x.com/YtJz6ts3m3]
+    
+    **Media:**
+    - media `3_1651196935125053440` (details not returned by the API)
+    
+
+
+---
+
+## 2023-04-25 · Post · This is coming from a great &amp; active bug bounty hunter so we should all look at it carefully. Th
+
+
+### Post — @irsdl — 2023-04-25 09:09 UTC (2023-04-25 10:09 WAT)
+
+- URL: https://x.com/irsdl/status/1650789220003315714
+- Metrics (at fetch): not returned
+
+> This is coming from a great &amp; active bug bounty hunter so we should all look at it carefully. There are some valid points there especially about the job security, benefits, looking after veterans to not degrade them after a pause for example, &amp; mental health. https://twitter.com/HusseiN98D/status/1650762211030188032
+
+**Links in post:** https://twitter.com/HusseiN98D/status/1650762211030188032
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2401933806 — 2023-04-25 07:22 UTC (2023-04-25 08:22 WAT)
+    
+    - URL: https://x.com/2401933806/status/1650762211030188032
+    - Metrics (at fetch): not returned
+    
+    > I think bug bounty platforms will see a huge decrease of excellent hackers in the next years.
+    
+
+
+---
+
+## 2023-04-11 · Post · What's the best free Windows screen recording tool these days? I need to provide a PoC for a UI bug 
+
+
+### Post — @irsdl — 2023-04-11 12:23 UTC (2023-04-11 13:23 WAT)
+
+- URL: https://x.com/irsdl/status/1645764384214450176
+- Metrics (at fetch): not returned
+
+> What's the best free Windows screen recording tool these days? I need to provide a PoC for a UI bug to its vendor.
+> I used to use screen2gif in the past but I am looking for something better that can also compress the files elegantly :)
+
+
+---
+
+## 2023-04-04 · Post · I wanted to tweet more tips but something led to another &amp; now I have reported two issues to MS 
+
+
+### Post — @irsdl — 2023-04-04 18:03 UTC (2023-04-04 19:03 WAT)
+
+- URL: https://x.com/irsdl/status/1643313347243171840
+- Metrics (at fetch): not returned
+
+> I wanted to tweet more tips but something led to another &amp; now I have reported two issues to MS one for abusing the IIS Application Pools and one for bypassing authentication on restricted folders in IIS 🔥 Hopefully they will patch it soon so it can be presented at @Steel_Con! [pic.x.com/KP3cTsgP1i] https://twitter.com/irsdl/status/1643180113930993664
+
+**Media:**
+- media `3_1643311899654643713` (details not returned by the API)
+- media `3_1643312520520691713` (details not returned by the API)
+
+**Links in post:** https://twitter.com/irsdl/status/1643180113930993664
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2023-04-04 09:14 UTC (2023-04-04 10:14 WAT)
+    
+    - URL: https://x.com/irsdl/status/1643180113930993664
+    - Metrics (at fetch): not returned
+    
+    > #IIS #Shortname scanner tip:
+    > If you are using Powershell and are going to use ADS to inside the restricted /bin/ folder, remember to escape the $ sign:
+    > bin::`$INDEX_ALLOCATION
+    >
+    > Going to submit a talk for @Steel_Con to include some useful tricks like this + some new things [pic.x.com/Do1MZLGrrP]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Fs2_e1fXwAAcFuV.png — no alt text provided by author
+    
+
+
+---
+
+## 2023-04-04 · Post · IIS Shortname scanner tip:
+
+
+### Post — @irsdl — 2023-04-04 09:14 UTC (2023-04-04 10:14 WAT)
+
+- URL: https://x.com/irsdl/status/1643180113930993664
+- Metrics (at fetch): not returned
+
+> #IIS #Shortname scanner tip:
+> If you are using Powershell and are going to use ADS to inside the restricted /bin/ folder, remember to escape the $ sign:
+> bin::`$INDEX_ALLOCATION
+>
+> Going to submit a talk for @Steel_Con to include some useful tricks like this + some new things [pic.x.com/Do1MZLGrrP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fs2_e1fXwAAcFuV.png — no alt text provided by author
+
+
+---
+
+## 2023-03-30 · Post · Is there any bug bounty for security issues on IIS? What if it is not high/critical? @msftsecurity @
+
+
+### Post — @irsdl — 2023-03-30 23:47 UTC (2023-03-31 00:47 WAT)
+
+- URL: https://x.com/irsdl/status/1641587906945925120
+- Metrics (at fetch): not returned
+
+> Is there any bug bounty for security issues on IIS? What if it is not high/critical? @msftsecurity @msftsecresponse
+
+
+---
+
+## 2023-03-27 · Post · ASPNET web form tip when bypassing certain WAF rules using COOKIELESS:
+
+
+### Post — @irsdl — 2023-03-27 16:27 UTC (2023-03-27 17:27 WAT)
+
+- URL: https://x.com/irsdl/status/1640390106312835072
+- Metrics (at fetch): not returned
+
+> #ASPNET web form tip when bypassing certain WAF rules using #COOKIELESS:
+>
+> ✔️WAF blocks `/admin/main.aspx`
+> ✔️WAF uses canonicalization &amp; not case sensitive
+>
+> Possible bypasses:
+> 🍪/admin/(S(X))/main.aspx
+> 🍪/admin/Foobar/(S(X))/../(S(X))/main.aspx
+> 🍪/(S(X))/admin/(S(X))/main.aspx
+
+
+---
+
 ## 2020-12-27 · Post · Bug hunters are not researchers
 
 
@@ -3626,6 +4745,469 @@ Tags (automatic): RCE
 
 ---
 
+## 2020-04-04 · Post · If people starts saving their photos or Burp project files in an insecure cloud storage the same thi
+
+
+### Post — @irsdl — 2020-04-04 16:39 UTC (2020-04-04 17:39 WAT)
+
+- URL: https://x.com/irsdl/status/1246477453998141442
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> If people starts saving their photos or Burp project files in an insecure cloud storage the same thing can happen! The new funny class of vuln: predictable file names when saving locally... security via obscurity matters in 2020 I guess as always ;) https://t.co/WnfEOiMsBV
+
+**Quoted post** 1246293114253385728: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2020-04-03 · Post · Another major PR for ysoserial .net has been submitted from: https://t.co/iCliOrham8 - @MDSecLabs wi
+
+
+### Post — @irsdl — 2020-04-03 23:44 UTC (2020-04-04 00:44 WAT)
+
+- URL: https://x.com/irsdl/status/1246222148261339136
+- Metrics (at fetch): bookmark 4, impression 0, like 76, quote 0, reply 0, retweet 17
+
+> Another major PR for ysoserial .net has been submitted from: https://t.co/iCliOrham8 - @MDSecLabs will release a blog post  soon explaining interesting things that can now be achieved! Example: ViewState exploit from URL is a thing as all formatters support minimization now!
+
+
+---
+
+## 2020-03-29 · Post · X: can you bypass the online queue in x shop?
+
+
+### Post — @irsdl — 2020-03-29 00:12 UTC (2020-03-29 01:12 WAT)
+
+- URL: https://x.com/irsdl/status/1244054691455086592
+- Metrics (at fetch): bookmark 1, impression 0, like 36, quote 1, reply 2, retweet 3
+
+> X: can you bypass the online queue in x shop?
+>
+> O: yes, easily using burp suite, they are all vulnerable as implemented with minimal testing
+>
+> X: could you please buy this without going through the queue?
+>
+> O: no, I’m ethical
+>
+> X: you are somehow useless
+>
+> O: I’ve heard it a lot 🤣
+
+
+---
+
+## 2020-03-09 · Post · And another PR with a new gadget and minor bug fixes ;) out of the oven: https://t.co/iCliOrham8 htt
+
+
+### Post — @irsdl — 2020-03-09 00:43 UTC (2020-03-09 01:43 WAT)
+
+- URL: https://x.com/irsdl/status/1236814795489370113
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> And another PR with a new gadget and minor bug fixes ;) out of the oven: https://t.co/iCliOrham8 https://t.co/dAMbMEvaFY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2020-03-06 02:08 UTC (2020-03-06 03:08 WAT)
+    
+    - URL: https://x.com/irsdl/status/1235749137355649024
+    - Metrics (at fetch): bookmark 4, impression 0, like 19, quote 1, reply 0, retweet 7
+    
+    > I just had another major update for https://t.co/pBsUXTpwO8: https://t.co/iCliOryLdG - PR is in and waiting for its master @pwntester! Hopefully we will see it soon on the main repo.   
+    > Thanks to @MDSecLabs research :)
+    
+
+
+---
+
+## 2020-03-06 · Post · I just had another major update for https://t.co/pBsUXTpwO8: https://t.co/iCliOryLdG - PR is in and 
+
+
+### Post — @irsdl — 2020-03-06 02:08 UTC (2020-03-06 03:08 WAT)
+
+- URL: https://x.com/irsdl/status/1235749137355649024
+- Metrics (at fetch): bookmark 4, impression 0, like 19, quote 1, reply 0, retweet 7
+
+> I just had another major update for https://t.co/pBsUXTpwO8: https://t.co/iCliOryLdG - PR is in and waiting for its master @pwntester! Hopefully we will see it soon on the main repo.   
+> Thanks to @MDSecLabs research :)
+
+
+---
+
+## 2020-03-02 · Post · This blog post should be useful for those who also know how SharePoint works: https://t.co/UDbGhul5e
+
+
+### Post — @irsdl — 2020-03-02 10:37 UTC (2020-03-02 11:37 WAT)
+
+- URL: https://x.com/irsdl/status/1234427636270739457
+- Metrics (at fetch): bookmark 9, impression 0, like 74, quote 0, reply 1, retweet 40
+
+> This blog post should be useful for those who also know how SharePoint works: https://t.co/UDbGhul5eZ - I've shown how code injection can aid to bypass some misconfigs in .NET + some thoughts for actual bypasses if you've research time! @MDSecLabs #appsec #sharepoint #bounty https://t.co/y3hWLRFLka
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2020-02-20 21:19 UTC (2020-02-20 22:19 WAT)
+    
+    - URL: https://x.com/irsdl/status/1230602804630298624
+    - Metrics (at fetch): bookmark 1, impression 0, like 6, quote 1, reply 2, retweet 1
+    
+    > I have had this question of why we cannot get a shell when we can create #ASPX files in our #SharePoint directory. I thought it is a well-known thing, but do you know why? (I like to see if it can be a blog worthy topic in 2020) 🍻
+    
+
+
+---
+
+## 2020-02-27 · Post · Exploit https://github.com/Ridter/cve-2020-0688/blob/master/cve-2020-0688.py so easy 😱😰 this looks r
+
+
+### Post — @irsdl — 2020-02-27 16:55 UTC (2020-02-27 17:55 WAT)
+
+- URL: https://x.com/irsdl/status/1233073061194280961
+- Metrics (at fetch): not returned
+
+> Exploit https://github.com/Ridter/cve-2020-0688/blob/master/cve-2020-0688.py so easy 😱😰 this looks really really bad https://twitter.com/NVISO_Labs/status/1232997983655993346
+
+**Links in post:** https://github.com/Ridter/cve-2020-0688/blob/master/cve-2020-0688.py, https://twitter.com/NVISO_Labs/status/1232997983655993346
+
+**Quoted post (full text):**
+
+    #### Quoted post — @779224617315598336 — 2020-02-27 11:56 UTC (2020-02-27 12:56 WAT)
+    
+    - URL: https://x.com/779224617315598336/status/1232997983655993346
+    - Metrics (at fetch): not returned
+    
+    > This morning, PoC code to abuse CVE-2020-0688 (Microsoft Exchange Validation Key Remote Code Execution Vulnerability) was released. In case you haven't done so, it's time to patch, patch, patch! https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0688
+    >
+    > Our sigma rule to detect this: https://github.com/NVISO-BE/sigma-public/blob/web_exchange_cve_2020_0688_exploit/rules/web/web_exchange_cve_2020_0688_exploit.yml
+    
+    **Links in post:** https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0688, https://github.com/NVISO-BE/sigma-public/blob/web_exchange_cve_2020_0688_exploit/rules/web/web_exchange_cve_2020_0688_exploit.yml
+    
+
+
+---
+
+## 2020-02-20 · Post · I have had this question of why we cannot get a shell when we can create ASPX files in our SharePo
+
+
+### Post — @irsdl — 2020-02-20 21:19 UTC (2020-02-20 22:19 WAT)
+
+- URL: https://x.com/irsdl/status/1230602804630298624
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 1, reply 2, retweet 1
+
+> I have had this question of why we cannot get a shell when we can create #ASPX files in our #SharePoint directory. I thought it is a well-known thing, but do you know why? (I like to see if it can be a blog worthy topic in 2020) 🍻
+
+
+---
+
+## 2020-02-14 · Post · I think the trickies bit for this was to figure out that an empty viewstate parameter is needed in t
+
+
+### Post — @irsdl — 2020-02-14 11:29 UTC (2020-02-14 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1228280144143540224
+- Metrics (at fetch): not returned
+
+> I think the trickies bit for this was to figure out that an empty viewstate parameter is needed in the request for the exploit to work! #appsec #aspnet #patchtuesday https://twitter.com/MDSecLabs/status/1228265830670118914
+
+**Links in post:** https://twitter.com/MDSecLabs/status/1228265830670118914
+
+**Quoted post (full text):**
+
+    #### Quoted post — @334002593 — 2020-02-14 10:32 UTC (2020-02-14 11:32 WAT)
+    
+    - URL: https://x.com/334002593/status/1228265830670118914
+    - Metrics (at fetch): not returned
+    
+    > Another patch Tuesday and another RCE from @irsdl... check out our blog on exploiting CVE-2020-0618, deserialisation in SQL Reporting Services https://www.mdsec.co.uk/2020/02/cve-2020-0618-rce-in-sql-server-reporting-services-ssrs/ [pic.x.com/kcfJ0arX4B]
+    
+    **Media:**
+    - media `16_1228265821132263424` (details not returned by the API)
+    
+    **Links in post:** https://www.mdsec.co.uk/2020/02/cve-2020-0618-rce-in-sql-server-reporting-services-ssrs/
+    
+
+
+---
+
+## 2020-02-11 · Post · CVE-2020-0618: Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability - if you 
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2020-02-11 19:55 UTC (2020-02-11 20:55 WAT)
+
+- URL: https://x.com/irsdl/status/1227320193745068032
+- Metrics (at fetch): not returned
+
+> CVE-2020-0618: Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability - if you use SSRS patch now not even tomorrow! It is a simple unauth rce!
+
+
+---
+
+## 2020-01-18 · Post · This was me this year after submitting self assessment :( this is the reason most people in the UK d
+
+
+### Post — @irsdl — 2020-01-18 00:04 UTC (2020-01-18 01:04 WAT)
+
+- URL: https://x.com/irsdl/status/1218323342849204225
+- Metrics (at fetch): not returned
+
+> This was me this year after submitting self assessment :( this is the reason most people in the UK don’t like to do bug bounty! For a senior sec consultant, It is 40% tax in the UK + 20% if you go between 100-125k as you lose personal allowance!then 45% after 150k https://twitter.com/pepe_fgm/status/1217981174737301504
+
+**Links in post:** https://twitter.com/pepe_fgm/status/1217981174737301504
+
+**Quoted post (full text):**
+
+    #### Quoted post — @897058816226844672 — 2020-01-17 01:25 UTC (2020-01-17 02:25 WAT)
+    
+    - URL: https://x.com/897058816226844672/status/1217981174737301504
+    - Metrics (at fetch): not returned
+    
+    > Get used to it kid 😂  [x.com/theydeadinside…]
+    
+
+
+---
+
+## 2020-01-17 · Post · With thanks to @n0x08 , I have more details about  CVE-2020-0646! Now that's the most interesting on
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2020-01-17 22:51 UTC (2020-01-17 23:51 WAT)
+
+- URL: https://x.com/irsdl/status/1218304963971035136
+- Metrics (at fetch): not returned
+
+> With thanks to @n0x08 , I have more details about  CVE-2020-0646! Now that's the most interesting one; this one allowed RCE via Workflows again similar to https://www.nccgroup.trust/uk/our-research/technical-advisory-bypassing-workflows-protection-mechanisms-remote-code-execution-on-sharepoint/ and https://www.nccgroup.trust/uk/our-research/technical-advisory-bypassing-microsoft-xoml-workflows-protection-mechanisms-using-deserialisation-of-untrusted-data/ but using another technique 🤓 https://twitter.com/irsdl/status/1217872754676043782
+
+**Links in post:** https://www.nccgroup.trust/uk/our-research/technical-advisory-bypassing-workflows-protection-mechanisms-remote-code-execution-on-sharepoint/, https://www.nccgroup.trust/uk/our-research/technical-advisory-bypassing-microsoft-xoml-workflows-protection-mechanisms-using-deserialisation-of-untrusted-data/, https://twitter.com/irsdl/status/1217872754676043782
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2020-01-16 18:14 UTC (2020-01-16 19:14 WAT)
+    
+    - URL: https://x.com/irsdl/status/1217872754676043782
+    - Metrics (at fetch): not returned
+    
+    > So my Jan 2020 .NET patches were not as scary as they looked:
+    > CVE-2020-0606:  Code Execution using Malicious Annotation Files for Sticky Notes in WPF apps
+    >
+    > CVE-2020-0605: Dangerous deserialization in handling XPS files in .NET Framework
+    >
+    > CVE-2020-0646 -&gt; I have no idea atm😂
+    
+
+
+---
+
+## 2020-01-16 · Post · So my Jan 2020 .NET patches were not as scary as they looked:
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2020-01-16 18:14 UTC (2020-01-16 19:14 WAT)
+
+- URL: https://x.com/irsdl/status/1217872754676043782
+- Metrics (at fetch): not returned
+
+> So my Jan 2020 .NET patches were not as scary as they looked:
+> CVE-2020-0606:  Code Execution using Malicious Annotation Files for Sticky Notes in WPF apps
+>
+> CVE-2020-0605: Dangerous deserialization in handling XPS files in .NET Framework
+>
+> CVE-2020-0646 -&gt; I have no idea atm😂
+
+
+---
+
+## 2020-01-07 · Post · CVEs are for vulns not for finders or fixers... Soo CVEs are good for tracking only. Do you know any
+
+
+### Post — @irsdl — 2020-01-07 12:24 UTC (2020-01-07 13:24 WAT)
+
+- URL: https://x.com/irsdl/status/1214523302200463360
+- Metrics (at fetch): not returned
+
+> CVEs are for vulns not for finders or fixers... Soo CVEs are good for tracking only. Do you know any CVE that have names in it? I am just curious - I might be wrong!
+
+
+---
+
+## 2020-01-06 · Post · This 👇 infosec cve end of the debate! [pic.x.com/WndTKCu9tU]
+
+
+### Post — @irsdl — 2020-01-06 21:24 UTC (2020-01-06 22:24 WAT)
+
+- URL: https://x.com/irsdl/status/1214296647234129926
+- Metrics (at fetch): not returned
+
+> This 👇 #infosec #cve end of the debate! [pic.x.com/WndTKCu9tU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ENoMXI1XUAEu6xS.jpg — no alt text provided by author
+
+
+---
+
+## 2019-11-16 · Post · The potential simple xss issue in wp reported by me that was fixed recently. https://twitter.com/dis
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2019-11-16 22:26 UTC (2019-11-16 23:26 WAT)
+
+- URL: https://x.com/irsdl/status/1195830485571833856
+- Metrics (at fetch): not returned
+
+> The potential simple xss issue in wp reported by me that was fixed recently. https://twitter.com/disclosedh1/status/1195805052629372928
+
+**Links in post:** https://twitter.com/disclosedh1/status/1195805052629372928
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2019-11-16 20:45 UTC (2019-11-16 21:45 WAT)
+    
+    - URL: https://x.com/2481701395/status/1195805052629372928
+    - Metrics (at fetch): not returned
+    
+    > WordPress disclosed a bug submitted by @irsdl: https://hackerone.com/reports/339483 - Bounty: $350 #hackerone #bugbounty [pic.x.com/pIv3NiOh43]
+    
+    **Media:**
+    - media `3_1195805051375239169` (details not returned by the API)
+    
+    **Links in post:** https://hackerone.com/reports/339483
+    
+
+
+---
+
+## 2019-11-08 · Post · This is very good and hard to automate (as result might not be obvious if it has the same status cod
+
+
+### Post — @irsdl — 2019-11-08 11:24 UTC (2019-11-08 12:24 WAT)
+
+- URL: https://x.com/irsdl/status/1192764800742416384
+- Metrics (at fetch): not returned
+
+> This is very good and hard to automate (as result might not be obvious if it has the same status code or similar size). Changing HTTP verbs to bypass access controls or some other restrictions are not new but they have been overlooked. IMHO smarter automation is needed ;) https://t.co/PZeFFnHqsP
+
+**Quoted post** 1191715980189327362: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2019-11-03 · Post · I sometimes think the easiest way to resolve some of the dispute in H1 for closed cases is to disclo
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @irsdl — 2019-11-03 10:48 UTC (2019-11-03 11:48 WAT)
+
+- URL: https://x.com/irsdl/status/1190943778821066752
+- Metrics (at fetch): not returned
+
+> I sometimes think the easiest way to resolve some of the dispute in H1 for closed cases is to disclose them publicly and forget about the bounty. As the H1 platform doesn't allow this, is there any easy way of doing this to disclose the whole thread by providing a link?
+
+
+---
+
+## 2019-08-20 · Post · After web.config and .resx/.resources, who is ready for a funky new file type to get rce upon compil
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2019-08-20 08:35 UTC (2019-08-20 09:35 WAT)
+
+- URL: https://x.com/irsdl/status/1163731169093005312
+- Metrics (at fetch): not returned
+
+> After web.config and .resx/.resources, who is ready for a funky new file type to get rce upon compile?? A blog post will soon follow @NCCGroupInfosec @m4tt_lewis #deserialization #rocks
+
+
+---
+
+## 2019-08-14 · Post · I feel being very lucky! :) I got an unexpected bounty despite reporting an issue in another product
+
+
+### Post — @irsdl — 2019-08-14 22:06 UTC (2019-08-14 23:06 WAT)
+
+- URL: https://x.com/irsdl/status/1161761080336691205
+- Metrics (at fetch): not returned
+
+> I feel being very lucky! :) I got an unexpected bounty despite reporting an issue in another product that did not have a bounty. It turned out that it had affected something that had bounty and I did not know :)
+
+
+---
+
+## 2019-08-07 · Post · I am preparing a long blog post for “Uploading web.config for fun and profit 2”. I hope all the late
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2019-08-07 08:04 UTC (2019-08-07 09:04 WAT)
+
+- URL: https://x.com/irsdl/status/1159012330916724736
+- Metrics (at fetch): not returned
+
+> I am preparing a long blog post for “Uploading web.config for fun and profit 2”. I hope all the late nights+ weekends+holidays that I’ve sacrificed on this is really worth it. It is not perfect though as you need to know the path for a .net rce... more to come soon #research
+
+
+---
+
+## 2019-08-01 · Post · I like the fact that this still works like a charm as PoC when I need it: https://github.com/nccgrou
+
+
+### Post — @irsdl — 2019-08-01 16:26 UTC (2019-08-01 17:26 WAT)
+
+- URL: https://x.com/irsdl/status/1156964410985984000
+- Metrics (at fetch): not returned
+
+> I like the fact that this still works like a charm as PoC when I need it: https://github.com/nccgroup/CrossSiteContentHijacking/ This can make testers life a lot easier but so many don't know it even exists #pentest #bugbounty
+
+**Links in post:** https://github.com/nccgroup/CrossSiteContentHijacking/
+
+
+---
+
+## 2019-07-09 · Post · IIS Application vs. Folder Detection During Blackbox Testing:
+
+
+### Post — @irsdl — 2019-07-09 23:27 UTC (2019-07-10 00:27 WAT)
+
+- URL: https://x.com/irsdl/status/1148735384064528384
+- Metrics (at fetch): not returned
+
+> IIS Application vs. Folder Detection During Blackbox Testing:
+> https://soroush.secproject.com/blog/2019/07/iis-application-vs-folder-detection-during-blackbox-testing/ #appsec #pentesting #aspnet #tip
+
+**Links in post:** https://soroush.secproject.com/blog/2019/07/iis-application-vs-folder-detection-during-blackbox-testing/
+
+
+---
+
+## 2019-06-05 · Post · http://YSoSerial.Net has a new SharePoint plugin to generate payloads for CVE-2019-0604 and CVE-2018
+
+
+### Post — @irsdl — 2019-06-05 12:56 UTC (2019-06-05 13:56 WAT)
+
+- URL: https://x.com/irsdl/status/1136255569168404480
+- Metrics (at fetch): not returned
+
+> http://YSoSerial.Net has a new SharePoint plugin to generate payloads for CVE-2019-0604 and CVE-2018-8421
+
+**Links in post:** http://YSoSerial.Net
+
+
+---
+
 ## 2018-07-09 · Post · As some people couldn't quite solve the CTF (https://x.com/irsdl/status/1014792734492766210) using t
 
 
@@ -3905,3 +5487,519 @@ Tags (automatic): XSS, SQL injection
 - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 3
 
 > I am wondering those who all share how much money they got from bug bounty pay their tax 😂 good source for tax companies is your blog 😄
+
+
+---
+
+## 2016-07-27 · Post · @0x6D6172696F is there any bypass without sandbox/xss auditors for this anti-clickjacking JS: try { 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2016-07-27 14:34 UTC (2016-07-27 15:34 WAT)
+
+- URL: https://x.com/irsdl/status/758309544183422976
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @0x6D6172696F is there any bypass without sandbox/xss auditors for this anti-clickjacking JS: try { top.document.domain } catch {/*blah*/} ?
+
+
+---
+
+## 2016-07-15 · Post · XSS in XML - exploitation demo to run an external JS in full DOM: https://t.co/42gqNp51zb
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2016-07-15 12:15 UTC (2016-07-15 13:15 WAT)
+
+- URL: https://x.com/irsdl/status/753925964179136512
+- Metrics (at fetch): bookmark 0, impression 0, like 68, quote 1, reply 1, retweet 40
+
+> XSS in XML - exploitation demo to run an external JS in full DOM: https://t.co/42gqNp51zb
+
+
+---
+
+## 2016-07-05 · Post · This is an actual good example of bypassing sop using a browser bug/feature and Flash canonical  ht
+
+
+### Post — @irsdl — 2016-07-05 22:52 UTC (2016-07-05 23:52 WAT)
+
+- URL: https://x.com/irsdl/status/750462392866312197
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 1
+
+> This is an actual good example of bypassing sop using a browser bug/feature and Flash #canonical  https://t.co/LESd2Zo2jg
+
+
+---
+
+## 2016-06-24 · Post · I guess it is a good time to earn money in $ from bug bounty! brexit bugbounty &amp; we need UK ba
+
+
+### Post — @irsdl — 2016-06-24 10:06 UTC (2016-06-24 11:06 WAT)
+
+- URL: https://x.com/irsdl/status/746283434914553856
+- Metrics (at fetch): not returned
+
+> I guess it is a good time to earn money in $ from bug bounty! #brexit #bugbounty &amp; we need UK based bug bounty programs to pay in £ now ;)
+
+
+---
+
+## 2016-06-14 · Post · Although I have seen many similar things, this one is very neat all in one place: https://blog.gosec
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2016-06-14 14:11 UTC (2016-06-14 15:11 WAT)
+
+- URL: https://x.com/irsdl/status/742721069900005376
+- Metrics (at fetch): not returned
+
+> Although I have seen many similar things, this one is very neat all in one place: https://blog.gosecure.ca/2016/03/22/xss-for-asp-net-developers/ #XSS #ASPNET
+
+**Links in post:** https://blog.gosecure.ca/2016/03/22/xss-for-asp-net-developers/
+
+
+---
+
+## 2016-06-13 · Post · Cross-Site Content Hijacking PoC project has been updated to support CORS as well :) https://github.
+
+
+### Post — @irsdl — 2016-06-13 22:28 UTC (2016-06-13 23:28 WAT)
+
+- URL: https://x.com/irsdl/status/742483842997596161
+- Metrics (at fetch): not returned
+
+> Cross-Site Content Hijacking PoC project has been updated to support CORS as well :) https://github.com/nccgroup/CrossSiteContentHijacking #XSCH
+
+**Links in post:** https://github.com/nccgroup/CrossSiteContentHijacking
+
+
+---
+
+## 2016-05-12 · Post · XSS via POST is outside of the scope! Sexy GET is our favourite babe! https://t.co/ppwxylW43o https:
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2016-05-12 13:42 UTC (2016-05-12 14:42 WAT)
+
+- URL: https://x.com/irsdl/status/730754963392090114
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> XSS via POST is outside of the scope! Sexy GET is our favourite babe! https://t.co/ppwxylW43o https://t.co/y6tYeFvMUv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CiQpxBrWEAI_tFh.jpg — no alt text provided by author
+
+
+---
+
+## 2013-12-04 · Post · Yahoo does not pay for 3rd party app issues such as XSS even if they r hosted in *.yahoo.com - note
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-12-04 23:56 UTC (2013-12-05 00:56 WAT)
+
+- URL: https://x.com/irsdl/status/408384425827639297
+- Metrics (at fetch): not returned
+
+> Yahoo does not pay for 3rd party app issues such as XSS even if they r hosted in *.yahoo.com - #notetoself #bugbounty #yahoo
+
+
+---
+
+## 2013-11-07 · Post · I would suggest everyone to use the latest version of BurpSuite (1.5.18) if u don't want to miss a 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-11-07 22:34 UTC (2013-11-07 23:34 WAT)
+
+- URL: https://x.com/irsdl/status/398579184923992064
+- Metrics (at fetch): not returned
+
+> I would suggest everyone to use the latest version of #BurpSuite (1.5.18) if u don't want to miss a few xss vulns... ;)
+
+
+---
+
+## 2013-11-01 · Post · Hey everybody, please join me to build a Moustache army, sign up for Movember here pls: http://uk.m
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @irsdl — 2013-11-01 18:56 UTC (2013-11-01 19:56 WAT)
+
+- URL: https://x.com/irsdl/status/396350127700328448
+- Metrics (at fetch): not returned
+
+> Hey everybody, please join me to build a Moustache army, sign up for #Movember here pls: http://uk.movember.com/team/1335589 - @bugcrowd or donate now :)
+
+**Links in post:** http://uk.movember.com/team/1335589
+
+
+---
+
+## 2013-10-29 · Post · I have put a script tag in my domain 1st line of address and now so many whois websites are popping 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-29 20:41 UTC (2013-10-29 21:41 WAT)
+
+- URL: https://x.com/irsdl/status/395289340869222400
+- Metrics (at fetch): not returned
+
+> I have put a script tag in my domain 1st line of address and now so many whois websites are popping up alert(1) !!! #XSS #WhoIsDomain
+
+
+---
+
+## 2013-10-29 · Post · @bugcrowd I was wondering if you want to join &amp; encourage AppSec guys to also join Movember to 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @irsdl — 2013-10-29 20:29 UTC (2013-10-29 21:29 WAT)
+
+- URL: https://x.com/irsdl/status/395286170092847104
+- Metrics (at fetch): not returned
+
+> @bugcrowd I was wondering if you want to join &amp; encourage AppSec guys to also join #Movember to grab money for charity? :) #AppSecMoustache!
+
+
+---
+
+## 2013-10-27 · Post · A few days to see how Yahoo! will pay the bug bounty hunters! I hope they pay fairly and accurately 
+
+
+### Post — @irsdl — 2013-10-27 19:20 UTC (2013-10-27 20:20 WAT)
+
+- URL: https://x.com/irsdl/status/394544045852082176
+- Metrics (at fetch): not returned
+
+> A few days to see how Yahoo! will pay the bug bounty hunters! I hope they pay fairly and accurately ;) #Yahoo #BugBounty
+
+
+---
+
+## 2013-10-22 · Post · Does anybody know if we have any attack defined for Copy a full website from an Iframe and paste it 
+
+
+### Post — @irsdl — 2013-10-22 18:27 UTC (2013-10-22 19:27 WAT)
+
+- URL: https://x.com/irsdl/status/392718920076890113
+- Metrics (at fetch): not returned
+
+> Does anybody know if we have any attack defined for Copy a full website from an Iframe and paste it to another? any exploit? PoC? paper?
+
+
+---
+
+## 2013-10-20 · Post · Yahoo bug bounty program – LFI reported and patched! http://soroush.secproject.com/blog/2013/10/yaho
+
+
+### Post — @irsdl — 2013-10-20 22:05 UTC (2013-10-20 23:05 WAT)
+
+- URL: https://x.com/irsdl/status/392048971922673664
+- Metrics (at fetch): not returned
+
+> Yahoo bug bounty program – LFI reported and patched! http://soroush.secproject.com/blog/2013/10/yahoo-bug-bounty-program-lfi-reported-and-patched/ #Yahoo #BugBounty
+
+**Links in post:** http://soroush.secproject.com/blog/2013/10/yahoo-bug-bounty-program-lfi-reported-and-patched/
+
+
+---
+
+## 2013-10-20 · Post · who is up for Movember this year? It has already been tested by bugcrowd and now it is time to joi
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @irsdl — 2013-10-20 14:20 UTC (2013-10-20 15:20 WAT)
+
+- URL: https://x.com/irsdl/status/391931857752698880
+- Metrics (at fetch): not returned
+
+> who is up for #Movember this year? It has already been tested by #bugcrowd and now it is time to join the #charity to help more! #moustache
+
+
+---
+
+## 2013-10-20 · Post · @bugcrowd Could you please add rating and reviews to bug bounty programs list? we need to know which
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @irsdl — 2013-10-20 13:26 UTC (2013-10-20 14:26 WAT)
+
+- URL: https://x.com/irsdl/status/391918429273214976
+- Metrics (at fetch): not returned
+
+> @bugcrowd Could you please add rating and reviews to bug bounty programs list? we need to know which ones will really respond &amp; pay :)
+
+
+---
+
+## 2013-10-20 · Post · So far ATT bug bounty was the worst for me! No response+no patch after 1 year+ broken submit form+p
+
+
+### Post — @irsdl — 2013-10-20 12:20 UTC (2013-10-20 13:20 WAT)
+
+- URL: https://x.com/irsdl/status/391901738162081792
+- Metrics (at fetch): not returned
+
+> So far #ATT bug bounty was the worst for me! No response+no patch after 1 year+ broken submit form+patch without any bounty --&gt; Ridiculous!
+
+
+---
+
+## 2013-10-17 · Post · I found an interesting tip for Yahoo bug hunters: if a page has an XSS with HTTP Status 30X (redirec
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-17 22:45 UTC (2013-10-17 23:45 WAT)
+
+- URL: https://x.com/irsdl/status/390971828912398336
+- Metrics (at fetch): not returned
+
+> I found an interesting tip for Yahoo bug hunters: if a page has an XSS with HTTP Status 30X (redirection), %0d%0a may lead to Status 200!
+
+
+---
+
+## 2013-10-15 · Post · Catch-up on Flash XSS exploitation Part 2 – “navigateToURL” and “jar:” protocol! http://soroush.secp
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-15 23:24 UTC (2013-10-16 00:24 WAT)
+
+- URL: https://x.com/irsdl/status/390256986777874432
+- Metrics (at fetch): not returned
+
+> Catch-up on Flash XSS exploitation Part 2 – “navigateToURL” and “jar:” protocol! http://soroush.secproject.com/blog/2013/10/catch-up-on-flash-xss-exploitation-part-2-navigatetourl-and-jar-protocol/ #Flash #XSS #jarProtocol #bypass
+
+**Links in post:** http://soroush.secproject.com/blog/2013/10/catch-up-on-flash-xss-exploitation-part-2-navigatetourl-and-jar-protocol/
+
+
+---
+
+## 2013-10-15 · Post · JWPlayer6 had a good move to foil XSS: it does not use flashvars and it gets them from JS now! wont
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-15 22:26 UTC (2013-10-15 23:26 WAT)
+
+- URL: https://x.com/irsdl/status/390242192755011584
+- Metrics (at fetch): not returned
+
+> #JWPlayer6 had a good move to foil XSS: it does not use flashvars and it gets them from JS now! wont work if u open swf file directly...ummm
+
+
+---
+
+## 2013-10-14 · Post · This is interesting now! While I am writing part 2 of Catchaup on Flash XSS exploitation I have foun
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-14 19:38 UTC (2013-10-14 20:38 WAT)
+
+- URL: https://x.com/irsdl/status/389837523200913408
+- Metrics (at fetch): not returned
+
+> This is interesting now! While I am writing part 2 of Catchaup on Flash XSS exploitation I have found a crash in IE10! :/:)
+
+
+---
+
+## 2013-10-13 · Post · I am writing the Flash XSS exploitation part 2... now I am going to reveal a 0day in Flash &amp; IE!
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-13 22:42 UTC (2013-10-13 23:42 WAT)
+
+- URL: https://x.com/irsdl/status/389521648040169472
+- Metrics (at fetch): not returned
+
+> I am writing the Flash XSS exploitation part 2... now I am going to reveal a 0day in Flash &amp; IE! (not a critical one though :P)
+
+
+---
+
+## 2013-10-12 · Post · Will Yahoo! bug bounty program pay as good as Google? http://roy-castillo.blogspot.co.uk/2013/10/goo
+
+
+Tags (automatic): XSS, Mobile / Android / iOS
+
+
+### Post — @irsdl — 2013-10-12 12:33 UTC (2013-10-12 13:33 WAT)
+
+- URL: https://x.com/irsdl/status/389005894303756288
+- Metrics (at fetch): not returned
+
+> Will Yahoo! bug bounty program pay as good as Google? http://roy-castillo.blogspot.co.uk/2013/10/google-mail-hacking-stored-xss-in-gmail_11.html #Google #IOS #XSS 5000$ #BugBounty
+
+**Links in post:** http://roy-castillo.blogspot.co.uk/2013/10/google-mail-hacking-stored-xss-in-gmail_11.html
+
+
+---
+
+## 2013-10-07 · Post · Catch-up on Flash XSS exploitation – bypassing the guardians! – Part 1 http://soroush.secproject.com
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-07 20:15 UTC (2013-10-07 21:15 WAT)
+
+- URL: https://x.com/irsdl/status/387310159980007424
+- Metrics (at fetch): not returned
+
+> Catch-up on Flash XSS exploitation – bypassing the guardians! – Part 1 http://soroush.secproject.com/blog/2013/10/catch-up-on-flash-xss-exploitation-bypassing-the-guardians-part-1/ Please RT if u like it!
+
+**Links in post:** http://soroush.secproject.com/blog/2013/10/catch-up-on-flash-xss-exploitation-bypassing-the-guardians-part-1/
+
+
+---
+
+## 2013-10-06 · Post · I finished http://escape.alf.nu/ XSS challenges and I've learnt a few new things. Recommended if u 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-10-06 01:12 UTC (2013-10-06 02:12 WAT)
+
+- URL: https://x.com/irsdl/status/386660237043699712
+- Metrics (at fetch): not returned
+
+> I finished http://escape.alf.nu/ #XSS challenges and I've learnt a few new things. Recommended if u r interested in XSS.
+
+**Links in post:** http://escape.alf.nu/
+
+
+---
+
+## 2013-10-04 · Post · Does Yahoo! really pay for the bug bounties now? how much is an LFI? how much is a SQL Injection? a
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @irsdl — 2013-10-04 22:20 UTC (2013-10-04 23:20 WAT)
+
+- URL: https://x.com/irsdl/status/386254567492448256
+- Metrics (at fetch): not returned
+
+> Does #Yahoo! really pay for the bug bounties now? how much is an LFI? how much is a SQL Injection? anybody knows?
+
+
+---
+
+## 2013-09-29 · Post · I explain my question: I can open C drive files in an iFrame. What can I do now to exploit a victim?
+
+
+### Post — @irsdl — 2013-09-29 22:11 UTC (2013-09-29 23:11 WAT)
+
+- URL: https://x.com/irsdl/status/384440232931635200
+- Metrics (at fetch): not returned
+
+> I explain my question: I can open C drive files in an iFrame. What can I do now to exploit a victim? why is this dangerous?
+
+
+---
+
+## 2013-09-29 · Post · I had reported a few XSS issues to AT&amp;T in June 2012! No proper response - 1 is still unptached 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2013-09-29 15:32 UTC (2013-09-29 16:32 WAT)
+
+- URL: https://x.com/irsdl/status/384339915950944256
+- Metrics (at fetch): not returned
+
+> I had reported a few XSS issues to AT&amp;T in June 2012! No proper response - 1 is still unptached for sure! #att #xss shall I go 4 Xssed com?
+
+
+---
+
+## 2013-09-28 · Post · Simple Security Tip: window.location = window.location.pathname can cause Open-Redirect issue!  http
+
+
+### Post — @irsdl — 2013-09-28 09:40 UTC (2013-09-28 10:40 WAT)
+
+- URL: https://x.com/irsdl/status/383888931541897216
+- Metrics (at fetch): not returned
+
+> Simple Security Tip: window.location = window.location.pathname can cause Open-Redirect issue!  http://soroush.secproject.com/blog/2013/09/simple-security-tip-window-location-window-location-pathname-can-cause-open-redirect-issue/ #OpenRedirect #Hijack
+
+**Links in post:** http://soroush.secproject.com/blog/2013/09/simple-security-tip-window-location-window-location-pathname-can-cause-open-redirect-issue/
+
+
+---
+
+## 2011-05-27 · Post · Security Paranoia, and Reality! : http://isc.sans.edu/diary/Managing+CVE-0/ :D
+
+
+### Post — @irsdl — 2011-05-27 19:01 UTC (2011-05-27 20:01 WAT)
+
+- URL: https://x.com/irsdl/status/74188587683430401
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Security Paranoia, and Reality! : http://isc.sans.edu/diary/Managing+CVE-0/ :D
+
+
+---
+
+## 2011-05-24 · Post · As a PoC for a XSS, I'd bypassed all of the latest protections (IE,Chrome,NoScript,...) but NoScript
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2011-05-24 23:16 UTC (2011-05-25 00:16 WAT)
+
+- URL: https://x.com/irsdl/status/73165489995653120
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> As a PoC for a XSS, I'd bypassed all of the latest protections (IE,Chrome,NoScript,...) but NoScript will be patched soon :-(+) Try again/:)
+
+
+---
+
+## 2011-05-16 · Post · Every security bug that Mozilla and Google patch -without your report- is money that you are losing!
+
+
+### Post — @irsdl — 2011-05-16 21:21 UTC (2011-05-16 22:21 WAT)
+
+- URL: https://x.com/irsdl/status/70237420569894912
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Every security bug that Mozilla and Google patch -without your report- is money that you are losing!!! [#BUG_BOUNTY_PROGRAM] :P

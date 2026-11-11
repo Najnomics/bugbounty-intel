@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 723
-- Conversations/threads: 696
+- Posts in this file: 804
+- Conversations/threads: 777
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
@@ -5856,6 +5856,22 @@ Tags (automatic): XSS
 
 ---
 
+## 2023-08-23 · Post · Rapid7 asking me to remove an educational content from YouTube over the fact that used them as an ex
+
+
+### Post — @NahamSec — 2023-08-23 16:38 UTC (2023-08-23 17:38 WAT)
+
+- URL: https://x.com/NahamSec/status/1694388639994675568
+- Metrics (at fetch): not returned
+
+> Rapid7 asking me to remove an educational content from YouTube over the fact that used them as an example for publicly accessible swagger file. [pic.x.com/qkOcixlLny]
+
+**Media:**
+- media `3_1694388633841594368` (details not returned by the API)
+
+
+---
+
 ## 2023-08-21 · Post · Some of my favorite photos from the Live Hacking event with @Intel's Project Circuit Breaker and the
 
 
@@ -11241,6 +11257,1135 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2020-12-30 · Post · Wow! The 'Resources for Beginner Bug Bounty Hunters' GitHub repository has over 5,000 stars now. The
+
+
+### Post — @NahamSec — 2020-12-30 18:08 UTC (2020-12-30 19:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1344344698551353345
+- Metrics (at fetch): bookmark 72, impression 0, like 364, quote 1, reply 7, retweet 66
+
+> Wow! The 'Resources for Beginner Bug Bounty Hunters' GitHub repository has over 5,000 stars now. There'll be a new update going live sometimes next month :) 
+>
+> https://t.co/AkG6IihgCN
+
+
+---
+
+## 2020-12-23 · Post · .@optionalctf is one of the most impressive people, I have had the chance to meet and interview on L
+
+
+### Post — @NahamSec — 2020-12-23 18:54 UTC (2020-12-23 19:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1341819378669477888
+- Metrics (at fetch): bookmark 8, impression 0, like 47, quote 1, reply 0, retweet 5
+
+> .@optionalctf is one of the most impressive people, I have had the chance to meet and interview on Live Recon. Check out this interview where we talked about #infosec certificates like OSCP, #bugbounty vs CTF, hacking resources and how to get started! 
+>
+> https://t.co/QcYTIM7VmV
+
+
+---
+
+## 2020-12-18 · Post · Excited to have ⁦@Farah_Hawaa⁩ join me this Sunday on Live Recon to talk about her but bounty experi
+
+
+### Post — @NahamSec — 2020-12-18 18:14 UTC (2020-12-18 19:14 WAT)
+
+- URL: https://x.com/NahamSec/status/1339997357404897280
+- Metrics (at fetch): bookmark 4, impression 0, like 242, quote 2, reply 8, retweet 10
+
+> Excited to have ⁦@Farah_Hawaa⁩ join me this Sunday on Live Recon to talk about her but bounty experience, creating content, and how she got started in hacking! 
+>
+> https://t.co/zR0azHNvet 
+> Sunday | 11:00 AM PT https://t.co/Kwvo73l0Up
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EpigfmYUUAA1d6d.jpg — no alt text provided by author
+
+
+---
+
+## 2020-12-17 · Post · Company with bug bounty program I happen to use: Would you like to provide some feedback for the rea
+
+
+### Post — @NahamSec — 2020-12-17 23:02 UTC (2020-12-18 00:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1339707480935256065
+- Metrics (at fetch): bookmark 18, impression 0, like 300, quote 3, reply 6, retweet 30
+
+> Company with bug bounty program I happen to use: Would you like to provide some feedback for the reason behind canceling your subscription? 
+> me: Yes "&gt;&lt;script src=https://t.co/9lyGeqf1E7&gt;&lt;/script&gt;
+
+
+---
+
+## 2020-12-17 · Post · Remember when we were looking at that 'amp' API on Apple during Live Recon?  Viewers were trying to 
+
+
+### Post — @NahamSec — 2020-12-17 03:51 UTC (2020-12-17 04:51 WAT)
+
+- URL: https://x.com/NahamSec/status/1339417899748839425
+- Metrics (at fetch): bookmark 2, impression 0, like 132, quote 0, reply 4, retweet 7
+
+> Remember when we were looking at that 'amp' API on Apple during Live Recon?  Viewers were trying to help me figure out what it did and we had _no clue_ what it did or was used for... Well, I just figured it out and I may (a big maybe) have a vuln on it. 🤔
+
+
+---
+
+## 2020-12-16 · Post · Hackers - You can see your year in review on HackerOne now! 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2020-12-16 17:00 UTC (2020-12-16 18:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1339253961967116289
+- Metrics (at fetch): bookmark 1, impression 0, like 92, quote 1, reply 1, retweet 7
+
+> Hackers - You can see your year in review on HackerOne now! 
+> Check out my 2020 Year In Review on @Hacker0x01: https://t.co/Bfdnzf3Ugd! #TogetherWeHitHarder https://t.co/5Dha4q2fDs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EpUbB8ZUYAYkjy_.jpg — no alt text provided by author
+
+
+---
+
+## 2020-12-16 · Post · A few weeks ago @stokfredrik took over my stream for Live Recon and interviewed me. We talked about 
+
+
+### Post — @NahamSec — 2020-12-16 12:00 UTC (2020-12-16 13:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1339178465044492290
+- Metrics (at fetch): bookmark 7, impression 0, like 87, quote 1, reply 5, retweet 9
+
+> A few weeks ago @stokfredrik took over my stream for Live Recon and interviewed me. We talked about bug bounties, getting a degree or certificate, playing CTFs, learning how to hack and more! 
+>
+> https://t.co/97N1gBWPQu https://t.co/BiWdhx8YQm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EpVT9yfUUAsmd-L.jpg — no alt text provided by author
+
+
+---
+
+## 2020-12-15 · Post · A few months ago, I hosted a bug bounty seminar with @TheParanoids but I never released the video. B
+
+
+### Post — @NahamSec — 2020-12-15 19:51 UTC (2020-12-15 20:51 WAT)
+
+- URL: https://x.com/NahamSec/status/1338934632952123395
+- Metrics (at fetch): bookmark 18, impression 0, like 94, quote 0, reply 0, retweet 11
+
+> A few months ago, I hosted a bug bounty seminar with @TheParanoids but I never released the video. Besides the usual how to get started, how to pick a target &amp; covering some vulns, there's also a great interview at the end. I highly recommend watching it! https://t.co/73JpZaHnBQ
+
+
+---
+
+## 2020-12-14 · Post · Working on Resources for Beginner Bug Bounty Hunters live on Twitch. https://t.co/zR0azHNvet!
+
+
+### Post — @NahamSec — 2020-12-14 19:38 UTC (2020-12-14 20:38 WAT)
+
+- URL: https://x.com/NahamSec/status/1338568977077846016
+- Metrics (at fetch): bookmark 4, impression 0, like 62, quote 0, reply 0, retweet 4
+
+> Working on Resources for Beginner Bug Bounty Hunters live on Twitch. https://t.co/zR0azHNvet!
+
+
+---
+
+## 2020-12-11 · Post · Im so excited to finally have @bbuerhaus as a guest on Live Recon! Not only he’s a great friend but 
+
+
+### Post — @NahamSec — 2020-12-11 15:42 UTC (2020-12-11 16:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1337422556924502017
+- Metrics (at fetch): bookmark 2, impression 0, like 144, quote 5, reply 8, retweet 12
+
+> Im so excited to finally have @bbuerhaus as a guest on Live Recon! Not only he’s a great friend but he’s also one of the most talented hackers I’ve ever had the pleasure to meet and work with. I cannot wait to interview him!
+>
+> https://t.co/zR0azHNvet
+> Sunday | 11:00 AM PT https://t.co/Uovw42knLu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Eo96udwVQAUN8K-.jpg — no alt text provided by author
+
+
+---
+
+## 2020-12-09 · Post · Check out @gynvael's interview from when he was a Live Recon guest a few weeks ago. He's a mountain 
+
+
+### Post — @NahamSec — 2020-12-09 19:02 UTC (2020-12-09 20:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1336748033304719360
+- Metrics (at fetch): bookmark 12, impression 0, like 75, quote 1, reply 1, retweet 12
+
+> Check out @gynvael's interview from when he was a Live Recon guest a few weeks ago. He's a mountain of knowledge! If you are looking to get into infosec, hacking or bug bounties, I highly recommend watching this interview! 
+>
+> https://t.co/wXMhOGCf9Z https://t.co/Z7TXRMWD6L
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Eo0VIeqUcAA4o2K.jpg — no alt text provided by author
+
+
+---
+
+## 2020-12-07 · Post · Updating the Resources for Beginner Bug Bounty Hunters repo on GitHub and hopefully replacing it wit
+
+
+### Post — @NahamSec — 2020-12-07 18:26 UTC (2020-12-07 19:26 WAT)
+
+- URL: https://x.com/NahamSec/status/1336014290944282624
+- Metrics (at fetch): bookmark 17, impression 0, like 133, quote 0, reply 4, retweet 16
+
+> Updating the Resources for Beginner Bug Bounty Hunters repo on GitHub and hopefully replacing it with the ultimate bug bounty guide during today's stream! LFG! 
+>
+> https://t.co/zR0azHNvet
+
+
+---
+
+## 2020-12-06 · Post · Going live now to do some recon on Apple🤔before @optionalctf joins me for an interview! https://t.co
+
+
+### Post — @NahamSec — 2020-12-06 19:03 UTC (2020-12-06 20:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1335661218351104000
+- Metrics (at fetch): bookmark 1, impression 0, like 41, quote 1, reply 1, retweet 2
+
+> Going live now to do some recon on Apple🤔before @optionalctf joins me for an interview! https://t.co/IgxMC4XhPi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2020-12-05 18:22 UTC (2020-12-05 19:22 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1335288341030346752
+    - Metrics (at fetch): bookmark 0, impression 0, like 81, quote 2, reply 2, retweet 5
+    
+    > My next guest, @optionalctf is a brilliant hacker, CTF player and even used to kick my butt in @tryhackme’s King of the Hill. I’m really excited to hear about his background during tomorrow’s Live Recon stream! 
+    >
+    > Tomorrow | 11:00 AM PDT
+    > https://t.co/zR0azHNvet https://t.co/a3FUDjCy4S
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EoflqzsUwAAN_LN.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2020-12-05 · Post · My next guest, @optionalctf is a brilliant hacker, CTF player and even used to kick my butt in @tryh
+
+
+### Post — @NahamSec — 2020-12-05 18:22 UTC (2020-12-05 19:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1335288341030346752
+- Metrics (at fetch): bookmark 0, impression 0, like 81, quote 2, reply 2, retweet 5
+
+> My next guest, @optionalctf is a brilliant hacker, CTF player and even used to kick my butt in @tryhackme’s King of the Hill. I’m really excited to hear about his background during tomorrow’s Live Recon stream! 
+>
+> Tomorrow | 11:00 AM PDT
+> https://t.co/zR0azHNvet https://t.co/a3FUDjCy4S
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EoflqzsUwAAN_LN.jpg — no alt text provided by author
+
+
+---
+
+## 2020-11-27 · Post · About a month ago @bbuerhaus, @samwcyo, @erbbysam, @_StaticFlow_ and I hacked @Apple and made $500,0
+
+
+### Post — @NahamSec — 2020-11-27 14:45 UTC (2020-11-27 15:45 WAT)
+
+- URL: https://x.com/NahamSec/status/1332334614111809550
+- Metrics (at fetch): bookmark 30, impression 0, like 311, quote 3, reply 14, retweet 45
+
+> About a month ago @bbuerhaus, @samwcyo, @erbbysam, @_StaticFlow_ and I hacked @Apple and made $500,000 in bounties. I had the chance to interview everyone during my live Recon Stream, where we talked about our process! 
+>
+> Watch the entire interview here: 
+> https://t.co/zTef6dUYVM https://t.co/lMRr7qGV4z
+
+**Media:**
+- photo: https://pbs.twimg.com/media/En0PHsEUUAASDbf.jpg — no alt text provided by author
+
+
+---
+
+## 2020-11-25 · Post · Ironically I'm being called 'anti semitic' by the guy that attacked me for being Iranian and called 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2020-11-25 21:01 UTC (2020-11-25 22:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1331704589037387776
+- Metrics (at fetch): bookmark 1, impression 0, like 53, quote 0, reply 3, retweet 0
+
+> Ironically I'm being called 'anti semitic' by the guy that attacked me for being Iranian and called me and my HackerOne coworkers 'f**s' all over Twitter. 
+>
+> Don't do drugs kids.
+
+
+---
+
+## 2020-11-25 · Post · Look who'a back with more hateful comments. I wish you were as persistent with hacking as you are wi
+
+
+### Post — @NahamSec — 2020-11-25 20:58 UTC (2020-11-25 21:58 WAT)
+
+- URL: https://x.com/NahamSec/status/1331703798914457602
+- Metrics (at fetch): bookmark 2, impression 0, like 108, quote 0, reply 16, retweet 1
+
+> Look who'a back with more hateful comments. I wish you were as persistent with hacking as you are with your hatred for me... maybe you'd find some bugs? 🤷🏽‍♂️ https://t.co/Nvf78nUVjJ
+
+**Media:**
+- media `3_1331703511315144704` (details not returned by the API)
+
+
+---
+
+## 2020-11-25 · Post · Ever wondered what Practical Attacks Using HTTP Request Smuggling look like? Check out's talk at Na
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @NahamSec — 2020-11-25 12:20 UTC (2020-11-25 13:20 WAT)
+
+- URL: https://x.com/NahamSec/status/1331573348409643012
+- Metrics (at fetch): bookmark 49, impression 0, like 211, quote 2, reply 2, retweet 48
+
+> Ever wondered what Practical Attacks Using HTTP Request Smuggling look like? Check out's talk at #NahamCon2020 where he shares some of his desync recon, scripts, and examples! 
+>
+> https://t.co/z87ryNLo4V
+
+
+---
+
+## 2020-11-24 · Post · And of course, it goes without saying, I'm grateful for bug bounties being a thing to help me have a
+
+
+### Post — @NahamSec — 2020-11-24 18:22 UTC (2020-11-24 19:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1331302117852606464
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 0, reply 2, retweet 1
+
+> And of course, it goes without saying, I'm grateful for bug bounties being a thing to help me have a good life/career and meeting a ton of great friends/colleauges like @d0nutptr, @smiegles, @adamtlangley, @ITSecurityguard, @prashles, Jenn, @sgtcardigan, Sarah, @Arl_rose, &amp;more!
+
+
+---
+
+## 2020-11-24 · Post · @NingWangSB - For pushing me and help me understand how to work with a fast growing business in my e
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2020-11-24 18:18 UTC (2020-11-24 19:18 WAT)
+
+- URL: https://x.com/NahamSec/status/1331301086661992448
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 2, retweet 0
+
+> @NingWangSB - For pushing me and help me understand how to work with a fast growing business in my early days at @Hacker0x01 
+> @jcran - For helping me in the early days of my bug bounty and community involvement at Bugcrowd
+
+
+---
+
+## 2020-11-24 · Post · @jobertabma -  For always being a friend and someone to go to for help/advice and also taking a chan
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2020-11-24 18:16 UTC (2020-11-24 19:16 WAT)
+
+- URL: https://x.com/NahamSec/status/1331300681278390274
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 3, retweet 0
+
+> @jobertabma -  For always being a friend and someone to go to for help/advice and also taking a chance on me with my @Hacker0x01 gig
+> @luketucker - For being a great friend, mentor, boss, and also pushing me to do my best both personally and professionally
+
+
+---
+
+## 2020-11-24 · Post · I know we don't need thanksgiving day in order to be thankful for everyone in our lives. But with th
+
+
+### Post — @NahamSec — 2020-11-24 18:13 UTC (2020-11-24 19:13 WAT)
+
+- URL: https://x.com/NahamSec/status/1331299836302278656
+- Metrics (at fetch): bookmark 3, impression 0, like 103, quote 1, reply 8, retweet 4
+
+> I know we don't need thanksgiving day in order to be thankful for everyone in our lives. But with thanksgiving coming up, I wanna hear who (mentors, friends, colleagues) or what (job, health, bounties) you are thankful for! I'll start (1/n)
+
+
+---
+
+## 2020-11-22 · Post · That was such a fun interview. A big shout out to @stokfredrik, thank you so much for hosting this w
+
+
+### Post — @NahamSec — 2020-11-22 22:06 UTC (2020-11-22 23:06 WAT)
+
+- URL: https://x.com/NahamSec/status/1330633707074461698
+- Metrics (at fetch): bookmark 3, impression 0, like 128, quote 0, reply 3, retweet 5
+
+> That was such a fun interview. A big shout out to @stokfredrik, thank you so much for hosting this week’s episode of Live Recon! 
+>
+> I also just noticed I hit 20,000 followers on Twitch. Thank you all for watching me struggle and be bad at hacking every week! 😂 I appreciate you!
+
+
+---
+
+## 2020-11-21 · Post · I still think bug bounties pay way more than a gig with an hourly/fixed rate and will always be some
+
+
+### Post — @NahamSec — 2020-11-21 19:30 UTC (2020-11-21 20:30 WAT)
+
+- URL: https://x.com/NahamSec/status/1330232174847684620
+- Metrics (at fetch): bookmark 1, impression 0, like 81, quote 0, reply 3, retweet 1
+
+> I still think bug bounties pay way more than a gig with an hourly/fixed rate and will always be something I’ll go back to.. but this is the first time I’ve hacked since dealing with my anxiety and depression in July and holy shit it feels great.
+
+
+---
+
+## 2020-11-21 · Post · I’ve been focusing more on Pentesting gigs more and I’m not gonna lie, it’s been nice spending my fr
+
+
+### Post — @NahamSec — 2020-11-21 19:29 UTC (2020-11-21 20:29 WAT)
+
+- URL: https://x.com/NahamSec/status/1330231945419255809
+- Metrics (at fetch): bookmark 1, impression 0, like 140, quote 2, reply 6, retweet 4
+
+> I’ve been focusing more on Pentesting gigs more and I’m not gonna lie, it’s been nice spending my free time and just purely hack something without thinking about compensation/bounty.
+
+
+---
+
+## 2020-11-20 · Post · Here's the VOD from my interview with @BitK_, where we talked about getting into CTF/hacking, bug bo
+
+
+### Post — @NahamSec — 2020-11-20 13:55 UTC (2020-11-20 14:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1329785316325036033
+- Metrics (at fetch): bookmark 4, impression 0, like 43, quote 1, reply 0, retweet 10
+
+> Here's the VOD from my interview with @BitK_, where we talked about getting into CTF/hacking, bug bounties, the hacker mentality, @FlatNetworkOrg's CTFNote tool, and he even gave us a demo of the recent Google final CTF and how they solved some of it
+>
+> https://t.co/k5cDowS8L5 https://t.co/70rV88IFTZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EnPsrdJVgAE4uGr.jpg — no alt text provided by author
+
+
+---
+
+## 2020-11-19 · Post · Doing things a bit different this Sunday. A ton of my viewers have been telling me to answer the sam
+
+
+### Post — @NahamSec — 2020-11-19 20:11 UTC (2020-11-19 21:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1329517760058048512
+- Metrics (at fetch): bookmark 4, impression 0, like 183, quote 4, reply 8, retweet 17
+
+> Doing things a bit different this Sunday. A ton of my viewers have been telling me to answer the same questions I ask my Live Recon guests. So what better way to do it, other than bringing my buddy ⁦@stokfredrik⁩ to interview me and to have some fun on the stream together! https://t.co/NHaLMyr8Z6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EnNlWwLUwAAV6Kk.jpg — no alt text provided by author
+
+
+---
+
+## 2020-11-16 · Post · I highly recommend these labs to any new hacker that's looking into web hacking and bug bounty! http
+
+
+### Post — @NahamSec — 2020-11-16 17:32 UTC (2020-11-16 18:32 WAT)
+
+- URL: https://x.com/NahamSec/status/1328390401946914816
+- Metrics (at fetch): bookmark 23, impression 0, like 198, quote 1, reply 0, retweet 20
+
+> I highly recommend these labs to any new hacker that's looking into web hacking and bug bounty! https://t.co/2jDrDc1Dlj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @990945874019840000 — 2020-11-16 17:00 UTC (2020-11-16 18:00 WAT)
+    
+    - URL: https://x.com/990945874019840000/status/1328382351391547392
+    - Metrics (at fetch): bookmark 17, impression 0, like 150, quote 1, reply 2, retweet 7
+    
+    > We spotted @NahamSec solving our Information Disclosure labs on his Twitch channel last week - great work! Put a link in the comments with your latest streams and write-ups, we'd love to share your academy successes 🥳 
+    >
+    > #websecurityacademy
+    
+
+
+---
+
+## 2020-11-15 · Post · Hacking and doing recon on Twitch for a bit until @gynvael joins me in about an hour! http://Twitch.
+
+
+### Post — @NahamSec — 2020-11-15 19:09 UTC (2020-11-15 20:09 WAT)
+
+- URL: https://x.com/NahamSec/status/1328052474838540288
+- Metrics (at fetch): not returned
+
+> Hacking and doing recon on Twitch for a bit until @gynvael joins me in about an hour! http://Twitch.tv/NahamSec https://twitter.com/NahamSec/status/1327684927492558848
+
+**Links in post:** http://Twitch.tv/NahamSec, https://twitter.com/NahamSec/status/1327684927492558848
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2020-11-14 18:48 UTC (2020-11-14 19:48 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1327684927492558848
+    - Metrics (at fetch): not returned
+    
+    > My next guest for Live Recon is @gynvael, another CTF players, whose name has came up a few times during my previous interviews. He is currently the lead player for @DragonSectorCTF and also has some good insight on the recent Google CTF!
+    >
+    > http://Twitch.tv/NahamSec [pic.x.com/mzKh2X0qPE]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EmziZ4PVEAE2qyN.jpg — no alt text provided by author
+    
+    **Links in post:** http://Twitch.tv/NahamSec
+    
+
+
+---
+
+## 2020-11-14 · Post · My next guest for Live Recon is @gynvael, another CTF players, whose name has came up a few times du
+
+
+### Post — @NahamSec — 2020-11-14 18:48 UTC (2020-11-14 19:48 WAT)
+
+- URL: https://x.com/NahamSec/status/1327684927492558848
+- Metrics (at fetch): not returned
+
+> My next guest for Live Recon is @gynvael, another CTF players, whose name has came up a few times during my previous interviews. He is currently the lead player for @DragonSectorCTF and also has some good insight on the recent Google CTF!
+>
+> http://Twitch.tv/NahamSec [pic.x.com/mzKh2X0qPE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EmziZ4PVEAE2qyN.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-11-08 · Post · A little behind this morning but going live in the next 15. Maybe the chat picks the target and we c
+
+
+### Post — @NahamSec — 2020-11-08 19:01 UTC (2020-11-08 20:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1325513669413756928
+- Metrics (at fetch): not returned
+
+> A little behind this morning but going live in the next 15. Maybe the chat picks the target and we can do some passive recon before @bbuerhaus, @samwcyo, @erbbysam and @_StaticFlow_ join me. https://twitter.com/NahamSec/status/1324066634235932672
+
+**Links in post:** https://twitter.com/NahamSec/status/1324066634235932672
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2020-11-04 19:11 UTC (2020-11-04 20:11 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1324066634235932672
+    - Metrics (at fetch): not returned
+    
+    > I'm doing something a bit different for this week's Live Recon stream by bringing @bbuerhaus, @samwcyo, @erbbysam, AND @_StaticFlow_ to talk about our recent research we did on Apple's bug bounty program! 
+    >
+    > Sunday | 11:00 AM PT
+    > http://Twitch.tv/NahamSec [pic.x.com/sN89m6Lv5e]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/El_uwnQUcAATSkz.jpg — no alt text provided by author
+    
+    **Links in post:** http://Twitch.tv/NahamSec
+    
+
+
+---
+
+## 2020-11-06 · Post · I finally got the chance to interview one of my oldest friends  I've met through hacking and bug bou
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2020-11-06 14:56 UTC (2020-11-06 15:56 WAT)
+
+- URL: https://x.com/NahamSec/status/1324727237518663680
+- Metrics (at fetch): not returned
+
+> I finally got the chance to interview one of my oldest friends  I've met through hacking and bug bounties, @ITSecurityguard where we talked about hacking, automation, our Apple XXE, recon, joining @Hacker0x01, and more! Definitely a fun one to watch! 
+>
+> https://youtu.be/gQ9dFoa9vlo [pic.x.com/zgzI2F6aNq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EmHuGAHVkAABgHY.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/gQ9dFoa9vlo
+
+
+---
+
+## 2020-11-04 · Post · I'm doing something a bit different for this week's Live Recon stream by bringing @bbuerhaus, @samwc
+
+
+### Post — @NahamSec — 2020-11-04 19:11 UTC (2020-11-04 20:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1324066634235932672
+- Metrics (at fetch): not returned
+
+> I'm doing something a bit different for this week's Live Recon stream by bringing @bbuerhaus, @samwcyo, @erbbysam, AND @_StaticFlow_ to talk about our recent research we did on Apple's bug bounty program! 
+>
+> Sunday | 11:00 AM PT
+> http://Twitch.tv/NahamSec [pic.x.com/sN89m6Lv5e]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/El_uwnQUcAATSkz.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-11-03 · Post · Check out the video from my closing keynote at @ekoparty's @bugbounty_space where I talked about my 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2020-11-03 15:55 UTC (2020-11-03 16:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1323654921628037122
+- Metrics (at fetch): not returned
+
+> Check out the video from my closing keynote at @ekoparty's @bugbounty_space where I talked about my journey as an immigrant kid, getting into hacking/bug bounties, and how I got my job at @Hacker0x01! 
+>
+> Full video: https://youtu.be/jnS687-5rqM [pic.x.com/lrqyKfKGoh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/El4QazYU0AIcfsn.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/jnS687-5rqM
+
+
+---
+
+## 2020-10-31 · Post · I have another awesome CTF player and bug bounty hunter joining me this Sunday on my Live Recon show
+
+
+### Post — @NahamSec — 2020-10-31 15:00 UTC (2020-10-31 16:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1322553917411069953
+- Metrics (at fetch): not returned
+
+> I have another awesome CTF player and bug bounty hunter joining me this Sunday on my Live Recon show! Come ask @BitK_ about his experience, recon, hacking and more this Sunday at 11:00AM PT. 
+>
+> http://Twitch.tv/NahamSec [pic.x.com/mpH3e2Kx4m]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Elm6KZIVoAAZ3Pg.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-10-30 · Post · Check out my interview with @honoki, currently 2 on the @intigriti platform, where we talked about 
+
+
+### Post — @NahamSec — 2020-10-30 14:00 UTC (2020-10-30 15:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1322176433125425153
+- Metrics (at fetch): not returned
+
+> Check out my interview with @honoki, currently #2 on the @intigriti platform, where we talked about how he got started in hacking, full time bug hunting, CTFs, certificates, and more!
+>
+> Check out the full interview here: https://youtu.be/f2mligEBU-A [pic.x.com/K9zlLkiIVS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EljhgQDVoAEq9cR.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/f2mligEBU-A
+
+
+---
+
+## 2020-10-27 · Post · The Bug Hunter's Methodology v4.0 - Recon Edition by @Jhaddix at NahamCon2020 is still one of my fa
+
+
+### Post — @NahamSec — 2020-10-27 17:47 UTC (2020-10-27 18:47 WAT)
+
+- URL: https://x.com/NahamSec/status/1321146600866025472
+- Metrics (at fetch): not returned
+
+> The Bug Hunter's Methodology v4.0 - Recon Edition by @Jhaddix at #NahamCon2020 is still one of my favorite presentations of all time! If you are new to bug bounty and recon, you should definitely check it out! 
+>
+> https://www.youtube.com/watch?v=p4JgIu1mceI&feature=youtu.be
+
+**Links in post:** https://www.youtube.com/watch?v=p4JgIu1mceI&feature=youtu.be
+
+
+---
+
+## 2020-10-23 · Post · Check out my interview with @MattiBijnens where we talked about full time bug hunting, learning web 
+
+
+### Post — @NahamSec — 2020-10-23 17:12 UTC (2020-10-23 18:12 WAT)
+
+- URL: https://x.com/NahamSec/status/1319688147769290752
+- Metrics (at fetch): not returned
+
+> Check out my interview with @MattiBijnens where we talked about full time bug hunting, learning web app hacking, his journey to become a top hacker on @intigriti, recon and more!
+>
+> Watch the interview here: https://youtu.be/06IfiglWb2w [pic.x.com/s9v7cqrEl0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ElB5R-1UwAM7oQ5.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/06IfiglWb2w
+
+
+---
+
+## 2020-10-22 · Post · I'm excited to have @_johnhammond as a guest on Live Recon this Sunday to talk about playing and des
+
+
+### Post — @NahamSec — 2020-10-22 18:11 UTC (2020-10-22 19:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1319340492602093572
+- Metrics (at fetch): not returned
+
+> I'm excited to have @_johnhammond as a guest on Live Recon this Sunday to talk about playing and designging CTFs, creating hacking content, @tryhackme's KoTH, and more!  
+>
+> Sunday 11:00 AM PT
+> http://Twitch.tv/NahamSec [pic.x.com/YGjgOEc4s5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ek8wh_yUwAA1v-N.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-10-19 · Post · I find XSS vulns that could be picked up by scanners 😆 https://twitter.com/jeremycom/status/13173894
+
+
+Tags (automatic): XSS
+
+
+### Post — @NahamSec — 2020-10-19 20:16 UTC (2020-10-19 21:16 WAT)
+
+- URL: https://x.com/NahamSec/status/1318284967885950976
+- Metrics (at fetch): not returned
+
+> I find XSS vulns that could be picked up by scanners 😆 https://twitter.com/jeremycom/status/1317389475610128384
+
+**Links in post:** https://twitter.com/jeremycom/status/1317389475610128384
+
+**Quoted post (full text):**
+
+    #### Quoted post — @80443432 — 2020-10-17 08:58 UTC (2020-10-17 09:58 WAT)
+    
+    - URL: https://x.com/80443432/status/1317389475610128384
+    - Metrics (at fetch): not returned
+    
+    > Poorly explain what you do for a living.
+    
+
+
+---
+
+## 2020-10-17 · Post · Check out my interview with @InsiderPhD, where we talked about her background, how she got started w
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2020-10-17 10:03 UTC (2020-10-17 11:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1317405744367534080
+- Metrics (at fetch): not returned
+
+> Check out my interview with @InsiderPhD, where we talked about her background, how she got started with bug bounties, @Hacker0x01's live hacking events, how to pick a target and creating content for hackers! 
+>
+> Watch the full interview here: https://youtu.be/MAM58AVdYEU [pic.x.com/gsOVG83DmK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EkhLXLlUcAIxMPp.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/MAM58AVdYEU
+
+
+---
+
+## 2020-10-16 · Post · I’m excited for this week’s Live Recon guest, @ITSecurityguard. Patrik and I go way back and we have
+
+
+### Post — @NahamSec — 2020-10-16 17:26 UTC (2020-10-16 18:26 WAT)
+
+- URL: https://x.com/NahamSec/status/1317154853521518593
+- Metrics (at fetch): not returned
+
+> I’m excited for this week’s Live Recon guest, @ITSecurityguard. Patrik and I go way back and we have done a ton of collaboration together both as hackers and coworkers since 2014!! 
+>
+> 11:00 AM PDT
+> http://Twitch.tv/NahamSec [pic.x.com/9V2fU3pBzY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ekd5W8GU0AAUYHP.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-10-10 · Post · If you missed @Masonhck3571's interview from a few weeks ago when he joined me on Live Recon, I high
+
+
+### Post — @NahamSec — 2020-10-10 16:56 UTC (2020-10-10 17:56 WAT)
+
+- URL: https://x.com/NahamSec/status/1314972963817496578
+- Metrics (at fetch): not returned
+
+> If you missed @Masonhck3571's interview from a few weeks ago when he joined me on Live Recon, I highly recommend watching it! Not only he's super humble and disciplined, but he also had a TON of good tips to share!  
+>
+> Check out his interview:  https://youtu.be/PEV9LRJdL78 [pic.x.com/pg6CMhJyXQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EjylPZQUcAE8_Ct.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/PEV9LRJdL78
+
+
+---
+
+## 2020-10-10 · Post · I lost my voice this weekend and I’m ready to be roasted by chat during Live Recon.... go easy on me
+
+
+### Post — @NahamSec — 2020-10-10 04:39 UTC (2020-10-10 05:39 WAT)
+
+- URL: https://x.com/NahamSec/status/1314787535189540865
+- Metrics (at fetch): not returned
+
+> I lost my voice this weekend and I’m ready to be roasted by chat during Live Recon.... go easy on me 😂😆
+
+
+---
+
+## 2020-10-09 · Post · I have another awesome and  talented guest joining me for Live Recon this Sunday! @honoki is current
+
+
+### Post — @NahamSec — 2020-10-09 14:51 UTC (2020-10-09 15:51 WAT)
+
+- URL: https://x.com/NahamSec/status/1314579118676152321
+- Metrics (at fetch): not returned
+
+> I have another awesome and  talented guest joining me for Live Recon this Sunday! @honoki is currently sitting at #2 on @intigriti! I'm excited to pick his brain on how he got started and to hear his story about climbing up the Intigriti leaderboard! http://Twitch.tv/NahamSec [pic.x.com/ATd6RF9rni]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EjykHFZUYAEW81L.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-10-02 · Post · My next Live Recon guest was just on @intigriti's leaderboard as a top hacker and rumor has it that 
+
+
+### Post — @NahamSec — 2020-10-02 17:21 UTC (2020-10-02 18:21 WAT)
+
+- URL: https://x.com/NahamSec/status/1312080156580737031
+- Metrics (at fetch): not returned
+
+> My next Live Recon guest was just on @intigriti's leaderboard as a top hacker and rumor has it that he just bought a Tesla from his bug bounty earnings! 
+>
+> So come hang out and ask @MattiBijnens all your questions about bug bounty, hacking, recon and how to get started! [pic.x.com/bbqGdYopLg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EjVxd-wUYAEauhx.jpg — no alt text provided by author
+
+
+---
+
+## 2020-09-29 · Post · I know it's a bit late, but I finally got around to uploading my interview with @codecancare (todayi
+
+
+### Post — @NahamSec — 2020-09-29 17:01 UTC (2020-09-29 18:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1310987955859849218
+- Metrics (at fetch): not returned
+
+> I know it's a bit late, but I finally got around to uploading my interview with @codecancare (todayisnew) where we talked about bug bounties, meditation, automation, tooling and making $1M in Bounties! 
+>
+> Full interview: https://youtu.be/PZIvYmj_Rls
+
+**Links in post:** https://youtu.be/PZIvYmj_Rls
+
+
+---
+
+## 2020-09-26 · Post · Blog - I have just completed this room! Check it out:  https://tryhackme.com/room/blog tryhackme c
+
+
+### Post — @NahamSec — 2020-09-26 20:22 UTC (2020-09-26 21:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1309951569505386496
+- Metrics (at fetch): not returned
+
+> Blog - I have just completed this room! Check it out:  https://tryhackme.com/room/blog #tryhackme #cve 2019-8943 #wordpress #blog #web #wpscan #linux #security #cutter #reverse engineering #binary exploitation #blog via @tryhackme
+
+**Links in post:** https://tryhackme.com/room/blog
+
+
+---
+
+## 2020-09-25 · Post · I'm back with another awesome guest this Sunday: @InsiderPhD! I plan on picking Katie's brain on how
+
+
+### Post — @NahamSec — 2020-09-25 14:26 UTC (2020-09-25 15:26 WAT)
+
+- URL: https://x.com/NahamSec/status/1309499397202477058
+- Metrics (at fetch): not returned
+
+> I'm back with another awesome guest this Sunday: @InsiderPhD! I plan on picking Katie's brain on how she got started in infosec, her bug bounty journey, and how/why she makes content for hackers! 
+>
+> If you have any questions for @InsiderPhD, drop them under this tweet! [pic.x.com/mZEepDR3rW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Eiudd0rU4AADMum.jpg — no alt text provided by author
+
+
+---
+
+## 2020-09-18 · Post · I'm back to streaming this Sunday and I'm excited to have @Masonhck3571 as a guest to ask him about 
+
+
+### Post — @NahamSec — 2020-09-18 18:00 UTC (2020-09-18 19:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1307016537769943042
+- Metrics (at fetch): not returned
+
+> I'm back to streaming this Sunday and I'm excited to have @Masonhck3571 as a guest to ask him about his 
+> background, his hacking experience, and what he has learned within his first year of being involved with bug bounties!
+>
+> SUNDAY | 11:00 AM PDT 
+> http://Twitch.tv/NahamSec [pic.x.com/H5NQ1DaDZg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EiLOmG0UwAAQS7d.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-09-14 · Post · I'm working on a talk/video and I'd love to find some folks that are either 1. full time bug hunters
+
+
+### Post — @NahamSec — 2020-09-14 18:58 UTC (2020-09-14 19:58 WAT)
+
+- URL: https://x.com/NahamSec/status/1305581591125659648
+- Metrics (at fetch): not returned
+
+> I'm working on a talk/video and I'd love to find some folks that are either 1. full time bug hunters 2. have gotten a job due to their bug hunting experience.
+>
+> If you don't want to publicly comment under this tweet, DMs are open!
+
+
+---
+
+## 2020-09-11 · Post · We are looking for a Solutions Architect at @Hacker0x01! This role helps our customers with their bu
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2020-09-11 17:31 UTC (2020-09-11 18:31 WAT)
+
+- URL: https://x.com/NahamSec/status/1304472762245767173
+- Metrics (at fetch): not returned
+
+> We are looking for a Solutions Architect at @Hacker0x01! This role helps our customers with their bug bounty program while working with an awesome team and a great company culture! https://jobs.lever.co/hackerone/78281726-985a-463c-abf7-06f7cb68d80f?lever-via=sBYf9YPLx4
+
+**Links in post:** https://jobs.lever.co/hackerone/78281726-985a-463c-abf7-06f7cb68d80f?lever-via=sBYf9YPLx4
+
+
+---
+
+## 2020-09-02 · Post · Going live with @TheParanoids in a little less than 2 hours to talk about hacking and bug bounties! 
+
+
+### Post — @NahamSec — 2020-09-02 16:36 UTC (2020-09-02 17:36 WAT)
+
+- URL: https://x.com/NahamSec/status/1301197273821396994
+- Metrics (at fetch): not returned
+
+> Going live with @TheParanoids in a little less than 2 hours to talk about hacking and bug bounties! http://Twitch.tv/NahamSec [pic.x.com/jfZOcRjUqy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Eg7H6cXU4AA3xIM.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2020-09-01 · Post · Excited to partner with @TheParanoids to host an intro to bug bounties! This is 100% free, so make t
+
+
+### Post — @NahamSec — 2020-09-01 16:29 UTC (2020-09-01 17:29 WAT)
+
+- URL: https://x.com/NahamSec/status/1300833123597316096
+- Metrics (at fetch): bookmark 11, impression 0, like 99, quote 1, reply 2, retweet 11
+
+> Excited to partner with @TheParanoids to host an intro to bug bounties! This is 100% free, so make to signup using the link below! https://t.co/SyUMNuZk6N
+
+**Quoted post (full text):**
+
+    #### Quoted post — @541143164 — 2020-08-24 15:08 UTC (2020-08-24 16:08 WAT)
+    
+    - URL: https://x.com/541143164/status/1297913672833015809
+    - Metrics (at fetch): bookmark 38, impression 0, like 198, quote 7, reply 2, retweet 60
+    
+    > Join us for a Bug Bounty seminar 9/2 @ 2pm EST w/ @nahamsec. Featuring an overview of Bug Bounty programs, a tutorial on getting started, and real success stories from those who have used this to join the cybersecurity community. Register here: https://t.co/zxIUELcFOh
+    
+
+
+---
+
+## 2020-08-13 · Post · Check out my latest Live Recon interview with @Alyssa_Herrera_
+
+
+### Post — @NahamSec — 2020-08-13 18:11 UTC (2020-08-13 19:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1293973342089666567
+- Metrics (at fetch): bookmark 6, impression 0, like 91, quote 0, reply 4, retweet 11
+
+> Check out my latest Live Recon interview with @Alyssa_Herrera_
+> where we talked about getting into hacking, Alyssa's Pulse Secure research, her experience hacking United States @DeptofDefense and more! 
+>
+> https://t.co/aPsBoOv2Ry https://t.co/Y3cGAGsXJW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EfT6iM8UcAAUB5b.jpg — no alt text provided by author
+
+
+---
+
+## 2020-08-10 · Post · Nax - I have just completed this room! Check it out:  https://t.co/jH7WCROYao tryhackme rce CVE-2
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2020-08-10 19:58 UTC (2020-08-10 20:58 WAT)
+
+- URL: https://x.com/NahamSec/status/1292913219632132097
+- Metrics (at fetch): bookmark 5, impression 0, like 60, quote 1, reply 3, retweet 8
+
+> Nax - I have just completed this room! Check it out:  https://t.co/jH7WCROYao #tryhackme #rce #CVE-2019-15949 #DM's Esoteric Programming #nagios #weekly challenge #nax via @tryhackme 
+>
+> f*ck this room, but not really.
+
+
+---
+
+## 2020-08-08 · Post · Back with LiveRecon tomorrow at 11:00 AM PDT with @Alyssa_Herrera_ to learn more about Alyssa and t
+
+
+### Post — @NahamSec — 2020-08-08 17:54 UTC (2020-08-08 18:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1292157203294482433
+- Metrics (at fetch): bookmark 8, impression 0, like 142, quote 3, reply 4, retweet 29
+
+> Back with #LiveRecon tomorrow at 11:00 AM PDT with @Alyssa_Herrera_ to learn more about Alyssa and to talk to her about her experience with the DoD bug bounty program, recon, hacking, bug bounty, and more!
+>
+> I may also show how I use https://t.co/CDWntF2PyH before Alyssa joins!;) https://t.co/CmfJEgRHff
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ee6ppcWU8AA1jJm.jpg — no alt text provided by author
+
+
+---
+
+## 2020-08-07 · Post · @manas_hunter @jub0bs @ArjunaShishya @SaketSourav14 @Bugcrowd Put good content out and it gets atten
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2020-08-07 17:02 UTC (2020-08-07 18:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1291781669284753408
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> @manas_hunter @jub0bs @ArjunaShishya @SaketSourav14 @Bugcrowd Put good content out and it gets attention. You don't like it, stfu and move on. Don't ruin her day or reputation because of your bullshit issues.
+
+
+---
+
+## 2020-08-07 · Reply · @manas_hunter @jub0bs @ArjunaShishya @SaketSourav14 @Bugcrowd WTF are you talking about? STOK, AshF0
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2020-08-07 17:01 UTC (2020-08-07 18:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1291781525806002176
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> @manas_hunter @jub0bs @ArjunaShishya @SaketSourav14 @Bugcrowd WTF are you talking about? STOK, AshF0x, TCM, myself, tomnomnom, zseano, jhaddix are all dudes and all of our videos get this much attention. 
+>
+> Maybe you got triggered because of how much a woman got attention. You don't like what Bugcrowd did, then don't support or read it.
+
+
+---
+
+## 2020-08-01 · Post · .@stokfredrik talking about his journey and workflow in bug bounties at hacktivitycon2020! https://
+
+
+### Post — @NahamSec — 2020-08-01 17:31 UTC (2020-08-01 18:31 WAT)
+
+- URL: https://x.com/NahamSec/status/1289614824016498690
+- Metrics (at fetch): bookmark 4, impression 0, like 63, quote 1, reply 0, retweet 4
+
+> .@stokfredrik talking about his journey and workflow in bug bounties at #hacktivitycon2020! https://t.co/h1RweWtCbu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EeWh02TUwAEN_18.png — no alt text provided by author
+
+
+---
+
+## 2020-08-01 · Post · bUg BoUnTY != sECUriTy rEsEarCH https://t.co/P17TJiPdMr
+
+
+### Post — @NahamSec — 2020-08-01 17:11 UTC (2020-08-01 18:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1289609625264746500
+- Metrics (at fetch): bookmark 1, impression 0, like 64, quote 1, reply 6, retweet 3
+
+> bUg BoUnTY != sECUriTy rEsEarCH https://t.co/P17TJiPdMr
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
 ## 2020-08-01 · Post · Check out @Rhynorater's blog post on CVE-2020-13379: Unauthenticated SSRF in Grafana!  
 
 
@@ -11250,7 +12395,7 @@ Tags (automatic): SSRF
 ### Post — @NahamSec — 2020-08-01 17:08 UTC (2020-08-01 18:08 WAT)
 
 - URL: https://x.com/NahamSec/status/1289608885444042752
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 136, impression 0, like 599, quote 8, reply 9, retweet 227
 
 > Check out @Rhynorater's blog post on CVE-2020-13379: Unauthenticated SSRF in Grafana!  
 >
@@ -11264,6 +12409,307 @@ Tags (automatic): SSRF
 - photo: https://pbs.twimg.com/media/EeWcNSBUwAAJh69.png — no alt text provided by author
 
 **Links in post:** https://rhynorater.github.io/CVE-2020-13379-Write-Up, http://redirect.rhynorater.com
+
+
+---
+
+## 2020-08-01 · Post · CVE-2020-13379 - Grafana SSRF POC and analysis incoming at hacktivitycon2020 by @Rhynorater https:/
+
+
+Tags (automatic): SSRF
+
+
+### Post — @NahamSec — 2020-08-01 16:53 UTC (2020-08-01 17:53 WAT)
+
+- URL: https://x.com/NahamSec/status/1289605174189674496
+- Metrics (at fetch): bookmark 9, impression 0, like 93, quote 1, reply 1, retweet 13
+
+> CVE-2020-13379 - Grafana SSRF POC and analysis incoming at #hacktivitycon2020 by @Rhynorater https://t.co/ZMILjlrhT2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EeWZDvuVoAEVcSA.png — no alt text provided by author
+
+
+---
+
+## 2020-07-31 · Post · Most of my recon methodology in one slide :P Slides from  @Jhaddix's talk at hacktivitycon2020 http
+
+
+### Post — @NahamSec — 2020-07-31 18:01 UTC (2020-07-31 19:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1289259830402637824
+- Metrics (at fetch): bookmark 45, impression 0, like 200, quote 0, reply 1, retweet 38
+
+> Most of my recon methodology in one slide :P Slides from  @Jhaddix's talk at #hacktivitycon2020 https://t.co/qMUMcddSe3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EeRe5JJU0AAcCoX.png — no alt text provided by author
+
+
+---
+
+## 2020-07-31 · Post · The Bug Hunter's Methodology v4: Recon Edition by @Jhaddix is coming up next. Who's ready for TBHMv4
+
+
+### Post — @NahamSec — 2020-07-31 17:22 UTC (2020-07-31 18:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1289250032848314368
+- Metrics (at fetch): bookmark 9, impression 0, like 255, quote 1, reply 6, retweet 20
+
+> The Bug Hunter's Methodology v4: Recon Edition by @Jhaddix is coming up next. Who's ready for TBHMv4? 🙋🏽‍♂️🙋🏽‍♂️🙋🏽‍♂️
+
+
+---
+
+## 2020-07-24 · Post · Hosting a bug Bounty AMA in 10 mins on Twitch. Come ask me all your bug bounty related questions! ht
+
+
+### Post — @NahamSec — 2020-07-24 18:49 UTC (2020-07-24 19:49 WAT)
+
+- URL: https://x.com/NahamSec/status/1286735386018906112
+- Metrics (at fetch): bookmark 1, impression 0, like 48, quote 0, reply 1, retweet 2
+
+> Hosting a bug Bounty AMA in 10 mins on Twitch. Come ask me all your bug bounty related questions! https://t.co/J7ZpQDZfiv
+
+
+---
+
+## 2020-07-24 · Post · My buddy @Masonhck3571 has been hacking on bug bounties for almost a year and he's been CRUSHING IT.
+
+
+### Post — @NahamSec — 2020-07-24 16:38 UTC (2020-07-24 17:38 WAT)
+
+- URL: https://x.com/NahamSec/status/1286702369388953601
+- Metrics (at fetch): bookmark 9, impression 0, like 189, quote 3, reply 9, retweet 26
+
+> My buddy @Masonhck3571 has been hacking on bug bounties for almost a year and he's been CRUSHING IT. Lucky for me, he's coming on the Live Recon stream this Sunday to tell me about his background, how he got started, and his methodology! 
+>
+> 11:00AM PDT! 
+> https://t.co/zR0azHNvet https://t.co/bgdq2OskoZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EdtI2VtUEAAWWT7.png — no alt text provided by author
+
+
+---
+
+## 2020-07-23 · Post · Check out my interview with @hacker_  from my last Live Recon stream. We talked about hacking, bug b
+
+
+### Post — @NahamSec — 2020-07-23 20:00 UTC (2020-07-23 21:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1286390629430251520
+- Metrics (at fetch): bookmark 7, impression 0, like 71, quote 1, reply 5, retweet 10
+
+> Check out my interview with @hacker_  from my last Live Recon stream. We talked about hacking, bug bounties, reversing CVEs, automation, recon and gau (getallurls)!
+>
+> Full interview:  https://t.co/uGRpGmMQ5a https://t.co/Tb3NecPaYY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Edlt4_7UwAQC1XD.png — no alt text provided by author
+
+
+---
+
+## 2020-07-23 · Post · @d0nutptr @thedawgyg @IanColdwater @Infosec_Taylor I don't answer similar DMs, because I've created 
+
+
+### Post — @NahamSec — 2020-07-23 18:18 UTC (2020-07-23 19:18 WAT)
+
+- URL: https://x.com/NahamSec/status/1286364969039089669
+- Metrics (at fetch): bookmark 3, impression 0, like 28, quote 0, reply 2, retweet 5
+
+> @d0nutptr @thedawgyg @IanColdwater @Infosec_Taylor I don't answer similar DMs, because I've created an ENTIRE repo for people to get into web hacking, but yet people message me and ask me for "beginner resources for bug bounty" https://t.co/pZk3X9IqMb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EdoWHr_VAAA0Zqz.png — no alt text provided by author
+
+
+---
+
+## 2020-07-23 · Reply · @d0nutptr @thedawgyg @IanColdwater @Infosec_Taylor Seems like a self promotion IMO. There's a differ
+
+
+### Post — @NahamSec — 2020-07-23 18:16 UTC (2020-07-23 19:16 WAT)
+
+- URL: https://x.com/NahamSec/status/1286364685889974273
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> @d0nutptr @thedawgyg @IanColdwater @Infosec_Taylor Seems like a self promotion IMO. There's a difference between asking for resources vs asking someone for step by step guides to do something you've spend years on.
+
+
+---
+
+## 2020-07-18 · Post · I'm excited to have @hacker_ (cdl), the author of gau (getallurls) on Live Recon tomorrow to talk ab
+
+
+### Post — @NahamSec — 2020-07-18 17:28 UTC (2020-07-18 18:28 WAT)
+
+- URL: https://x.com/NahamSec/status/1284540554865340417
+- Metrics (at fetch): bookmark 9, impression 0, like 152, quote 2, reply 1, retweet 19
+
+> I'm excited to have @hacker_ (cdl), the author of gau (getallurls) on Live Recon tomorrow to talk about hacking, bug bounties, creating tools, reversing for CVEs and more! 
+>
+> 11:00 AM PDT 
+> https://t.co/zR0azHNvet https://t.co/bXnfDxe9fM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EdOaysQUMAEKuhZ.png — no alt text provided by author
+
+
+---
+
+## 2020-07-16 · Post · Check out @filedescriptor's interview from last Sunday's "Live Recon" stream on Twitch where we talk
+
+
+### Post — @NahamSec — 2020-07-16 18:30 UTC (2020-07-16 19:30 WAT)
+
+- URL: https://x.com/NahamSec/status/1283831263464431619
+- Metrics (at fetch): bookmark 11, impression 0, like 138, quote 0, reply 1, retweet 19
+
+> Check out @filedescriptor's interview from last Sunday's "Live Recon" stream on Twitch where we talked about hacking, bug bounties, learning JS, @0xReconless, and hacking Twitter! 
+>
+> https://t.co/BMXeVVGwJk https://t.co/MMcgbT5pHz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EdD_1YRVAAAlIyW.png — no alt text provided by author
+
+
+---
+
+## 2020-07-14 · Post · Does anyone have a security related contact at Digital Ocean? (no it's not bug bounty/hacking relate
+
+
+### Post — @NahamSec — 2020-07-14 19:45 UTC (2020-07-14 20:45 WAT)
+
+- URL: https://x.com/NahamSec/status/1283125548097536000
+- Metrics (at fetch): bookmark 0, impression 0, like 49, quote 0, reply 3, retweet 5
+
+> Does anyone have a security related contact at Digital Ocean? (no it's not bug bounty/hacking related)
+
+
+---
+
+## 2020-07-11 · Post · @coffeetocode I was recently in this situation and I would've been happy with a full bounty for one 
+
+
+### Post — @NahamSec — 2020-07-11 02:27 UTC (2020-07-11 03:27 WAT)
+
+- URL: https://x.com/NahamSec/status/1281777142980726784
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @coffeetocode I was recently in this situation and I would've been happy with a full bounty for one asset and a percentage for the remaining identified hosts. (30-50%)
+>
+> I even identified more after the initial discovery and unfortunately after they had patched the bug.
+
+
+---
+
+## 2020-07-10 · Post · I'm not a FF person really, but a few people have asked me for some of my favorite bug bounty relat
+
+
+### Post — @NahamSec — 2020-07-10 21:20 UTC (2020-07-10 22:20 WAT)
+
+- URL: https://x.com/NahamSec/status/1281699963735400449
+- Metrics (at fetch): bookmark 36, impression 0, like 186, quote 0, reply 11, retweet 23
+
+> I'm not a #FF person really, but a few people have asked me for some of my favorite bug bounty related people I follow: @bbuerhaus, @d0nutptr, @samwcyo, @stokfredrik, @TomNomNom, @jobertabma, @hakluke, @codingo_, @Jhaddix, @zseano, @securinti, @ITSecurityguard, @defparam (1/2)
+
+
+---
+
+## 2020-07-10 · Post · My next guest isn't really too big on recon, but @filedescriptor is an absolute BEAST when it comes 
+
+
+### Post — @NahamSec — 2020-07-10 18:36 UTC (2020-07-10 19:36 WAT)
+
+- URL: https://x.com/NahamSec/status/1281658606664839168
+- Metrics (at fetch): bookmark 10, impression 0, like 248, quote 3, reply 9, retweet 35
+
+> My next guest isn't really too big on recon, but @filedescriptor is an absolute BEAST when it comes down to ripping apart a web application and I've been fortunate enough to collaborate with him to see him live in action! 
+>
+> Send in your questions under this tweet! ⤵️ https://t.co/PPhx3HTFbH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EcldP6sUwAA9bPt.png — no alt text provided by author
+
+
+---
+
+## 2020-07-10 · Post · Reported 12 SSRFs to an organization, they fixed an AMI so they only paid for one and doubled the bo
+
+
+### Post — @NahamSec — 2020-07-10 17:31 UTC (2020-07-10 18:31 WAT)
+
+- URL: https://x.com/NahamSec/status/1281642301878460416
+- Metrics (at fetch): bookmark 2, impression 0, like 279, quote 0, reply 16, retweet 7
+
+> Reported 12 SSRFs to an organization, they fixed an AMI so they only paid for one and doubled the bounty as a bonus. Pretty disappointing but 🤷🏼‍♂️
+
+
+---
+
+## 2020-07-09 · Post · Check out my interview with @hakluke where we talked about content creation, getting started in bug 
+
+
+### Post — @NahamSec — 2020-07-09 17:29 UTC (2020-07-09 18:29 WAT)
+
+- URL: https://x.com/NahamSec/status/1281279199064424449
+- Metrics (at fetch): bookmark 0, impression 0, like 81, quote 2, reply 2, retweet 17
+
+> Check out my interview with @hakluke where we talked about content creation, getting started in bug bounties, pentest, pentest vs bug bounties, and more! 
+>
+> https://t.co/k8CiKWCRmu https://t.co/IDRwxxjztc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EcgDbrGUEAAZvKg.jpg — no alt text provided by author
+
+
+---
+
+## 2020-07-07 · Post · I'm excited to share my latest project with @d0nutptr: Behind The Bounty gives you an inside look at
+
+
+### Post — @NahamSec — 2020-07-07 18:42 UTC (2020-07-07 19:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1280572828488593409
+- Metrics (at fetch): bookmark 36, impression 0, like 345, quote 3, reply 9, retweet 74
+
+> I'm excited to share my latest project with @d0nutptr: Behind The Bounty gives you an inside look at the community &amp; people that make bug bounties happen. Check out our first episode with @jeff_foley of the @owaspamass project!
+>
+> https://t.co/nTS3IPfLYr
+> https://t.co/IwnOcC7U9y https://t.co/dwweNMAt6m
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EcWBLbzU4AAlvTF.png — no alt text provided by author
+
+
+---
+
+## 2020-07-05 · Post · @mdisec @orange_8361 for whatever your end goal/reasoning is. As bug bounty hunter it's almost the s
+
+
+### Post — @NahamSec — 2020-07-05 22:50 UTC (2020-07-05 23:50 WAT)
+
+- URL: https://x.com/NahamSec/status/1279910442547044353
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 1
+
+> @mdisec @orange_8361 for whatever your end goal/reasoning is. As bug bounty hunter it's almost the same thing, except the end goal here is $$$ and the first to do it.
+
+
+---
+
+## 2020-07-05 · Post · @mdisec @orange_8361 Bug bounties aren't any different than any other forms of hacking. As a hacker,
+
+
+### Post — @NahamSec — 2020-07-05 22:49 UTC (2020-07-05 23:49 WAT)
+
+- URL: https://x.com/NahamSec/status/1279910291334025216
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 1
+
+> @mdisec @orange_8361 Bug bounties aren't any different than any other forms of hacking. As a hacker, you always want to know the latest exploits. As a malicious hacker (I'd assume) you'd want to know the same thing: How do I exploit this in mass. 
+>
+> Obviously as a malicious hacker, you want access
 
 
 ---

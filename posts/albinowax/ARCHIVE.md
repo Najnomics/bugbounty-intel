@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 258
-- Conversations/threads: 252
-- Oldest post captured: 2014-05-23
+- Posts in this file: 294
+- Conversations/threads: 288
+- Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
 
 
@@ -2031,6 +2031,24 @@ Tags (automatic): XSS
 
 ---
 
+## 2023-11-24 · Post · Have you ever found something you *knew* was exploitable, but had to give up because you couldn't pr
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2023-11-24 14:39 UTC (2023-11-24 15:39 WAT)
+
+- URL: https://x.com/albinowax/status/1728060841902108797
+- Metrics (at fetch): bookmark 21, impression 43721, like 142, quote 2, reply 39, retweet 12
+
+> Have you ever found something you *knew* was exploitable, but had to give up because you couldn't prove it? What bug class was it?*
+>
+> *excluding request smuggling
+
+
+---
+
 ## 2023-11-09 · Post · There's still a load of potential for further research and discoveries in HTTP request smuggling. Th
 
 
@@ -2046,6 +2064,315 @@ Tags (automatic): Request smuggling / desync
 > https://blog.malicious.group/from-akamai-to-f5-to-ntlm/
 
 **Links in post:** https://blog.malicious.group/from-akamai-to-f5-to-ntlm/
+
+
+---
+
+## 2023-10-19 · Post · To anyone reporting formula injection, I'd suggest focusing on doing data exfiltration via DNS, as t
+
+
+Tags (automatic): RCE
+
+
+### Post — @albinowax — 2023-10-19 19:18 UTC (2023-10-19 20:18 WAT)
+
+- URL: https://x.com/albinowax/status/1715084995692261806
+- Metrics (at fetch): bookmark 41, impression 27823, like 137, quote 0, reply 3, retweet 20
+
+> To anyone reporting formula injection, I'd suggest focusing on doing data exfiltration via DNS, as this can happen with no user interaction in Excel. I kinda regret sharing the RCE approach because it side-tracked how people approach this vulnerability class. https://t.co/9P0Gpj4rtP
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1149823779431997442 — 2023-10-19 18:14 UTC (2023-10-19 19:14 WAT)
+    
+    - URL: https://x.com/1149823779431997442/status/1715068898549047559
+    - Metrics (at fetch): bookmark 33, impression 48397, like 90, quote 1, reply 5, retweet 17
+    
+    > Answering my web #AppSec interview question from the other day!
+    >
+    > Question 55: What is formula injection and how might it be exploited?
+    >
+    > Formula injection, also known as "CSV Injection" occurs when an attacker can insert Excel-like formula (e.g. =1+1) into an application's CSV
+    
+
+
+---
+
+## 2023-10-19 · Post · Yesterday I published research into adapting the single-packet attack to target other protocols.
+
+
+### Post — @albinowax — 2023-10-19 14:02 UTC (2023-10-19 15:02 WAT)
+
+- URL: https://x.com/albinowax/status/1715005414645846459
+- Metrics (at fetch): bookmark 21, impression 18383, like 85, quote 0, reply 2, retweet 12
+
+> Yesterday I published research into adapting the single-packet attack to target other protocols.
+>
+> Today, Apache 2.4.58 was released with support for bootstrapping WebSockets via HTTP/2 🎉 https://t.co/6Jw7CUjAus
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1177545689460592640 — 2023-10-18 12:59 UTC (2023-10-18 13:59 WAT)
+    
+    - URL: https://x.com/1177545689460592640/status/1714627366545146306
+    - Metrics (at fetch): bookmark 35, impression 39665, like 115, quote 2, reply 1, retweet 33
+    
+    > We've just published our findings on applying the single-packet attack to other popular network protocols. If you're looking for race conditions or research ideas, you'll find some leads here:
+    >
+    > https://t.co/14Pyfj5Bvq
+    
+
+
+---
+
+## 2023-10-06 · Post · Can't speak for everyone but it makes me quite uncomfortable when people send me sensitive info in c
+
+
+### Post — @albinowax — 2023-10-06 10:14 UTC (2023-10-06 11:14 WAT)
+
+- URL: https://x.com/albinowax/status/1710237151797878840
+- Metrics (at fetch): bookmark 1, impression 13881, like 103, quote 0, reply 0, retweet 3
+
+> Can't speak for everyone but it makes me quite uncomfortable when people send me sensitive info in collaboration requests before I've agreed to help. If their bug gets leaked/duped/patched I don't want them blaming me.
+>
+> In the words of @schneierblog, "data is a toxic asset"
+
+
+---
+
+## 2023-09-29 · Post · The inevitable has finally happened - someone's used a technique I published to hack a website I mad
+
+
+### Post — @albinowax — 2023-09-29 12:20 UTC (2023-09-29 13:20 WAT)
+
+- URL: https://x.com/albinowax/status/1707732002483368118
+- Metrics (at fetch): bookmark 81, impression 56513, like 382, quote 2, reply 7, retweet 27
+
+> The inevitable has finally happened - someone's used a technique I published to hack a website I made. 
+>
+> 0x999 used the single-packet attack to get double points on a hackxor mission and top the leaderboard, then thoughtfully notified me 😂
+>
+> https://t.co/fNdFdAKbU1
+
+
+---
+
+## 2023-09-12 · Post · I'm pleased to announce the @nullcon edition of Smashing the State Machine will feature new content 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2023-09-12 10:55 UTC (2023-09-12 11:55 WAT)
+
+- URL: https://x.com/albinowax/status/1701550178635813001
+- Metrics (at fetch): bookmark 21, impression 15581, like 116, quote 1, reply 4, retweet 14
+
+> I'm pleased to announce the @nullcon edition of Smashing the State Machine will feature new content on adventures in race-condition automation, and applying the single-packet attack to other protocols!
+> https://t.co/buJnvsRtLE
+
+
+---
+
+## 2023-09-12 · Post · I'm pleased to announce the @nullcon edition of Smashing the State Machine will feature all-new cont
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2023-09-12 10:53 UTC (2023-09-12 11:53 WAT)
+
+- URL: https://x.com/albinowax/status/1701549607728152578
+- Metrics (at fetch): bookmark 0, impression 412, like 2, quote 0, reply 0, retweet 0
+
+> I'm pleased to announce the @nullcon edition of Smashing the State Machine will feature all-new content on adventures in race-condition automation, and applying the single-packet attack to other protocols!
+> https://t.co/buJnvsRtLE
+
+
+---
+
+## 2023-09-05 · Post · When probing for race conditions, don't worry about accidentally using too many requests for a singl
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2023-09-05 09:16 UTC (2023-09-05 10:16 WAT)
+
+- URL: https://x.com/albinowax/status/1698988515252380011
+- Metrics (at fetch): bookmark 12, impression 12383, like 72, quote 0, reply 3, retweet 9
+
+> When probing for race conditions, don't worry about accidentally using too many requests for a single-packet attack. Most requests will still go in a single packet, and the last few will arrive in a second packet shortly later which is usually harmless.
+
+
+---
+
+## 2023-08-15 · Post · To verify the single-packet attack is working for you:
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2023-08-15 13:39 UTC (2023-08-15 14:39 WAT)
+
+- URL: https://x.com/albinowax/status/1691444517017354240
+- Metrics (at fetch): bookmark 65, impression 25416, like 233, quote 0, reply 6, retweet 37
+
+> To verify the single-packet attack is working for you:
+> - Load examples/benchmark-h2-race.py
+> - Hit attack, then verify ‘Best/Median’ are 0/1 via  Extensions&gt;Turbo Intruder&gt;Output
+> - This shows a typical execution spread of 1ms when sending groups of 20 requests to Ireland https://t.co/itCe3yHTyF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3k3xvubkAEHohk.png — no alt text provided by author
+
+
+---
+
+## 2023-08-13 · Post · Just been shown an awesome race attack  by @itscachemoney on Shopify for $15k back in 2017! This is 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2023-08-13 17:34 UTC (2023-08-13 18:34 WAT)
+
+- URL: https://x.com/albinowax/status/1690778867513135104
+- Metrics (at fetch): bookmark 107, impression 23947, like 304, quote 0, reply 4, retweet 47
+
+> Just been shown an awesome race attack  by @itscachemoney on Shopify for $15k back in 2017! This is the same attack concept described in my Gitlab multi-endpoint example. You can practise on this lab:
+> https://t.co/6PjRjNwmDs
+> https://t.co/hzeRTlfosf
+> https://t.co/jShyUnLQTC
+
+
+---
+
+## 2023-08-10 · Reply · @JosipFranjkovic thanks for the inspiring writeup! That was an awesome find
+
+
+### Post — @albinowax — 2023-08-10 16:01 UTC (2023-08-10 17:01 WAT)
+
+- URL: https://x.com/albinowax/status/1689668231844302849
+- Metrics (at fetch): bookmark 2, impression 1651, like 7, quote 0, reply 1, retweet 0
+
+> @JosipFranjkovic thanks for the inspiring writeup! That was an awesome find
+
+
+---
+
+## 2023-08-03 · Post · While researching Cracking the Lens, I noticed some reverse proxies validate that the host-header an
+
+
+### Post — @albinowax — 2023-08-03 14:15 UTC (2023-08-03 15:15 WAT)
+
+- URL: https://x.com/albinowax/status/1687104996113014784
+- Metrics (at fetch): bookmark 33, impression 23026, like 114, quote 1, reply 2, retweet 17
+
+> While researching Cracking the Lens, I noticed some reverse proxies validate that the host-header and SNI field match, so you need to update both for a succesful attack. Burp Scanner has always done this but it's now possible manually in Repeater too:
+> https://t.co/qtRVxz1IKm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1303342222650355712 — 2023-07-31 12:23 UTC (2023-07-31 13:23 WAT)
+    
+    - URL: https://x.com/1303342222650355712/status/1685989473161547776
+    - Metrics (at fetch): bookmark 56, impression 47049, like 152, quote 1, reply 1, retweet 22
+    
+    > If you're playing with advanced #SSRF attacks involving SNI, you can now do it from Repeater (since v2023.8 Early Adopter) 🤩 https://t.co/HPoGqAahVW
+    
+    **Media:**
+    - media `3_1685989180705214464` (details not returned by the API)
+    
+
+
+---
+
+## 2023-07-20 · Post · "I can easily attribute over $250,000 worth of bounties to this class of attack" - @bugbountyhq
+
+
+### Post — @albinowax — 2023-07-20 13:15 UTC (2023-07-20 14:15 WAT)
+
+- URL: https://x.com/albinowax/status/1682016268994465792
+- Metrics (at fetch): bookmark 336, impression 60588, like 523, quote 4, reply 8, retweet 111
+
+> "I can easily attribute over $250,000 worth of bounties to this class of attack" - @bugbountyhq
+>
+> A hacking technique can seem blindingly obvious, and still be massively overlooked. Still love this post from 2016.
+>
+> https://t.co/AXZPraiOxl
+
+
+---
+
+## 2023-07-19 · Post · Catch the DEFCON31 edition of Smashing the State Machine at 09:00 on the 12th.  Alongside all-new a
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2023-07-19 15:32 UTC (2023-07-19 16:32 WAT)
+
+- URL: https://x.com/albinowax/status/1681688479359459328
+- Metrics (at fetch): bookmark 2, impression 10555, like 59, quote 0, reply 2, retweet 13
+
+> Catch the #DEFCON31 edition of Smashing the State Machine at 09:00 on the 12th.  Alongside all-new attack techniques, it'll feature a live demo of a remote race-condition exploit using conference WiFi - what could possibly go wrong? Hope to see you there!
+> https://t.co/uxMpJEGjpT
+
+
+---
+
+## 2023-06-29 · Post · We've just published a new @WebSecAcademy topic on GraphQL! Learn how to abuse introspection, discov
+
+
+### Post — @albinowax — 2023-06-29 14:11 UTC (2023-06-29 15:11 WAT)
+
+- URL: https://x.com/albinowax/status/1674420203365732352
+- Metrics (at fetch): bookmark 90, impression 51261, like 477, quote 9, reply 10, retweet 118
+
+> We've just published a new @WebSecAcademy topic on GraphQL! Learn how to abuse introspection, discover hidden data, bypass rate-limits, and trigger CSRF with this popular API technology.
+> https://t.co/V6cw1eePAT
+
+
+---
+
+## 2023-06-22 · Post · Turbo Intruder 1.32 has been released, fixing a nasty deadlock which was triggered by having the 'JW
+
+
+### Post — @albinowax — 2023-06-22 13:36 UTC (2023-06-22 14:36 WAT)
+
+- URL: https://x.com/albinowax/status/1671874690233831427
+- Metrics (at fetch): bookmark 3, impression 8822, like 70, quote 0, reply 3, retweet 5
+
+> Turbo Intruder 1.32 has been released, fixing a nasty deadlock which was triggered by having the 'JWT Editor' extension loaded, then running an attack on a request containing a JWT. Thanks to @0xTib3rius and HsinTsao for reporting!
+> https://t.co/tbQlEO9isU
+
+
+---
+
+## 2023-06-13 · Post · I love this writeup. It's crazy how much of the internet is held together by ancient tech that remai
+
+
+### Post — @albinowax — 2023-06-13 07:36 UTC (2023-06-13 08:36 WAT)
+
+- URL: https://x.com/albinowax/status/1668522813878161408
+- Metrics (at fetch): bookmark 22, impression 37166, like 166, quote 0, reply 3, retweet 23
+
+> I love this writeup. It's crazy how much of the internet is held together by ancient tech that remains 'secure' because nobody looks at it, or realises it even exists. https://t.co/KO5bi4bROM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @infosec_au — 2023-06-13 04:16 UTC (2023-06-13 05:16 WAT)
+    
+    - URL: https://x.com/infosec_au/status/1668472363401515008
+    - Metrics (at fetch): bookmark 187, impression 157506, like 664, quote 21, reply 15, retweet 234
+    
+    > For a few months, @samwcyo, @bbuerhaus, @rhyselsmore and I focused on hacking EPP servers / ccTLD zones.
+    >
+    > We're disclosing our work today on the hackcompute blog: https://t.co/9ycLkH9sqp
+    >
+    > Our efforts in this space led to the ability to control the DNS zones of the following
+    
 
 
 ---
@@ -4584,3 +4911,289 @@ Tags (automatic): RCE
 - Metrics (at fetch): not returned
 
 > Typo3 is vulnerable by default, which means it trumps Joomla for the single most severe host header attack I'm aware of...
+
+
+---
+
+## 2014-05-23 · Post · Just confirmed the Typo3 host header vulnerability allows unauthenticated persistent XSS on the home
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2014-05-23 17:09 UTC (2014-05-23 18:09 WAT)
+
+- URL: https://x.com/albinowax/status/469887979373481984
+- Metrics (at fetch): not returned
+
+> Just confirmed the Typo3 host header vulnerability allows unauthenticated persistent XSS on the homepage: http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2014-001/
+
+**Links in post:** http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2014-001/
+
+
+---
+
+## 2014-03-20 · Post · Awesome 'reverse clickjacking' attack technique exploiting callbacks: https://plus.google.com/+Aleks
+
+
+### Post — @albinowax — 2014-03-20 19:01 UTC (2014-03-20 20:01 WAT)
+
+- URL: https://x.com/albinowax/status/446723272194138113
+- Metrics (at fetch): not returned
+
+> Awesome 'reverse clickjacking' attack technique exploiting callbacks: https://plus.google.com/+AleksandrDobkin-Google/posts/JMwA7Y3RYzV?cfem=1
+
+**Links in post:** https://plus.google.com/+AleksandrDobkin-Google/posts/JMwA7Y3RYzV?cfem=1
+
+
+---
+
+## 2014-01-29 · Post · Kloxo security issue: "How we figured out: Bank of America did not appreciate the DOS attack from ou
+
+
+### Post — @albinowax — 2014-01-29 20:28 UTC (2014-01-29 21:28 WAT)
+
+- URL: https://x.com/albinowax/status/428625812175077376
+- Metrics (at fetch): not returned
+
+> Kloxo security issue: "How we figured out: Bank of America did not appreciate the DOS attack from our mainframes :-O" http://www.webhostingtalk.com/showthread.php?p=8996984
+
+**Links in post:** http://www.webhostingtalk.com/showthread.php?p=8996984
+
+
+---
+
+## 2013-05-06 · Post · I can passively detect which applications are vulnerable to host-header attacks by looking at the bu
+
+
+### Post — @albinowax — 2013-05-06 16:52 UTC (2013-05-06 17:52 WAT)
+
+- URL: https://x.com/albinowax/status/331451484522831873
+- Metrics (at fetch): not returned
+
+> I can passively detect which applications are vulnerable to host-header attacks by looking at the bug-tracker referers hitting my site :)
+
+
+---
+
+## 2013-04-24 · Post · Joomla Core persistent XSS: http://developer.joomla.org/security/81-20130403-core-xss-vulnerability.
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2013-04-24 17:13 UTC (2013-04-24 18:13 WAT)
+
+- URL: https://x.com/albinowax/status/327108101939531776
+- Metrics (at fetch): not returned
+
+> Joomla Core persistent XSS: http://developer.joomla.org/security/81-20130403-core-xss-vulnerability.html Find out what 'in some circumstances' means in one week! (Please patch before then)
+
+**Links in post:** http://developer.joomla.org/security/81-20130403-core-xss-vulnerability.html
+
+
+---
+
+## 2012-12-11 · Post · Mozilla's vulnerability bounty program has worked out well for Django https://www.djangoproject.com/
+
+
+### Post — @albinowax — 2012-12-11 17:40 UTC (2012-12-11 18:40 WAT)
+
+- URL: https://x.com/albinowax/status/278554759315746816
+- Metrics (at fetch): not returned
+
+> Mozilla's vulnerability bounty program has worked out well for Django https://www.djangoproject.com/weblog/2012/dec/10/security/
+
+**Links in post:** https://www.djangoproject.com/weblog/2012/dec/10/security/
+
+
+---
+
+## 2012-10-18 · Post · Writeup in one month when certain other parties fix associated vulnerabilities.
+
+
+### Post — @albinowax — 2012-10-18 07:25 UTC (2012-10-18 08:25 WAT)
+
+- URL: https://x.com/albinowax/status/258831172740734976
+- Metrics (at fetch): not returned
+
+> Writeup in one month when certain other parties fix associated vulnerabilities.
+
+
+---
+
+## 2012-10-15 · Post · An update to hackxor is out. It fixes one rather nasty bug in hub71 reported by @rrmostert http://ha
+
+
+### Post — @albinowax — 2012-10-15 07:03 UTC (2012-10-15 08:03 WAT)
+
+- URL: https://x.com/albinowax/status/257738338096791553
+- Metrics (at fetch): not returned
+
+> An update to hackxor is out. It fixes one rather nasty bug in hub71 reported by @rrmostert http://hackxor.sourceforge.net
+
+**Links in post:** http://hackxor.sourceforge.net
+
+
+---
+
+## 2012-05-31 · Post · The poc on that page doesn't work, here's one that detects Firebug: http://albinowax.users.sourcefor
+
+
+### Post — @albinowax — 2012-05-31 14:08 UTC (2012-05-31 15:08 WAT)
+
+- URL: https://x.com/albinowax/status/208198151117611008
+- Metrics (at fetch): not returned
+
+> The poc on that page doesn't work, here's one that detects Firebug: http://albinowax.users.sourceforge.net/scriptlessAddonDetect.html 
+> If only that technique worked on Chrome.
+
+**Links in post:** http://albinowax.users.sourceforge.net/scriptlessAddonDetect.html
+
+
+---
+
+## 2012-04-26 · Post · Bug bounty hunters weigh in on Google's vulnerability reporting program http://www.infoworld.com/t/h
+
+
+### Post — @albinowax — 2012-04-26 09:17 UTC (2012-04-26 10:17 WAT)
+
+- URL: https://x.com/albinowax/status/195441546718490624
+- Metrics (at fetch): not returned
+
+> Bug bounty hunters weigh in on Google's vulnerability reporting program http://www.infoworld.com/t/hacking/bug-bounty-hunters-weigh-in-googles-vulnerability-reporting-program-191710 &lt;- has some very insightful comments ;)
+
+**Links in post:** http://www.infoworld.com/t/hacking/bug-bounty-hunters-weigh-in-googles-vulnerability-reporting-program-191710
+
+
+---
+
+## 2012-04-18 · Post · X-Frame-Options: SAMEORIGIN validates window.top not window.parent; bad news for sites that iframe u
+
+
+### Post — @albinowax — 2012-04-18 22:55 UTC (2012-04-18 23:55 WAT)
+
+- URL: https://x.com/albinowax/status/192748159880019968
+- Metrics (at fetch): not returned
+
+> X-Frame-Options: SAMEORIGIN validates window.top not window.parent; bad news for sites that iframe untrusted content. Full post&poc soon.
+
+
+---
+
+## 2012-02-24 · Post · Woo my first CVE;
+
+
+### Post — @albinowax — 2012-02-24 23:02 UTC (2012-02-25 00:02 WAT)
+
+- URL: https://x.com/albinowax/status/173180984441831424
+- Metrics (at fetch): not returned
+
+> Woo my first CVE;
+> http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=2012-0448
+> //I wrote something about this general technique, just waiting on some more patches.
+
+**Links in post:** http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=2012-0448
+
+
+---
+
+## 2012-02-16 · Post · Is everyone familiar with the X-Frame-Options: SAMEORIGIN partial bypass/gotcha for sites that ifram
+
+
+### Post — @albinowax — 2012-02-16 19:57 UTC (2012-02-16 20:57 WAT)
+
+- URL: https://x.com/albinowax/status/170235477616635904
+- Metrics (at fetch): not returned
+
+> Is everyone familiar with the X-Frame-Options: SAMEORIGIN partial bypass/gotcha for sites that iframe untrusted content? @kkotowicz
+
+
+---
+
+## 2011-08-23 · Post · Beware of hackxor2, soon to feature websites that attack you back :)
+
+
+### Post — @albinowax — 2011-08-23 22:08 UTC (2011-08-23 23:08 WAT)
+
+- URL: https://x.com/albinowax/status/106125633834336256
+- Metrics (at fetch): not returned
+
+> Beware of hackxor2, soon to feature websites that attack you back :)
+
+
+---
+
+## 2011-07-07 · Post · @garethheyes Does .defineProperty based json hijacking still work in Chrome? I can't make a working 
+
+
+### Post — @albinowax — 2011-07-07 15:06 UTC (2011-07-07 16:06 WAT)
+
+- URL: https://x.com/albinowax/status/88987201924382720
+- Metrics (at fetch): not returned
+
+> @garethheyes Does .defineProperty based json hijacking still work in Chrome? I can't make a working poc but that's probably just me failing.
+
+
+---
+
+## 2011-05-28 · Post · JS-less XSS: Using HTML Injection to hijack accounts without JavaScript http://bit.ly/lLTShI
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2011-05-28 00:43 UTC (2011-05-28 01:43 WAT)
+
+- URL: https://x.com/albinowax/status/74274501038325760
+- Metrics (at fetch): not returned
+
+> JS-less XSS: Using HTML Injection to hijack accounts without JavaScript http://bit.ly/lLTShI
+
+
+---
+
+## 2011-05-17 · Post · Slightly improved XSS-phishing w/HTML5 http://bit.ly/iipYTm
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2011-05-17 17:55 UTC (2011-05-17 18:55 WAT)
+
+- URL: https://x.com/albinowax/status/70547974488469504
+- Metrics (at fetch): not returned
+
+> Slightly improved XSS-phishing w/HTML5 http://bit.ly/iipYTm
+
+
+---
+
+## 2011-05-11 · Post · Hope someone find this useful: Simulating targets for XSS/CSRF attacks in hacking games  http://bit.
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2011-05-11 14:47 UTC (2011-05-11 15:47 WAT)
+
+- URL: https://x.com/albinowax/status/68326323600359426
+- Metrics (at fetch): not returned
+
+> Hope someone find this useful: Simulating targets for XSS/CSRF attacks in hacking games  http://bit.ly/iJ94SU
+
+
+---
+
+## 2011-03-08 · Post · The Google vulns that got me in the HoF weren't anything exciting; 1x reflected XSS, 1x persistent f
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2011-03-08 19:44 UTC (2011-03-08 20:44 WAT)
+
+- URL: https://x.com/albinowax/status/45208238723039232
+- Metrics (at fetch): not returned
+
+> The Google vulns that got me in the HoF weren't anything exciting; 1x reflected XSS, 1x persistent flash XSS, 2x CSRF with null tokens.

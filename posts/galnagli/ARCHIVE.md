@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 211
-- Conversations/threads: 200
-- Oldest post captured: 2020-10-10
+- Posts in this file: 235
+- Conversations/threads: 224
+- Oldest post captured: 2020-07-24
 - Newest post captured: 2026-11-10
 
 
@@ -3417,6 +3417,256 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
+## 2021-11-20 · Post · There are more than 17k publicly accessible Metabase instances on shodan and few BB programs that we
+
+
+### Post — @galnagli — 2021-11-20 10:55 UTC (2021-11-20 11:55 WAT)
+
+- URL: https://x.com/galnagli/status/1462011691005321222
+- Metrics (at fetch): bookmark 81, impression 0, like 440, quote 2, reply 8, retweet 104
+
+> There are more than 17k publicly accessible Metabase instances on shodan and few BB programs that were affected as well, the fix is super easy for 
+> CVE-2021-41277 and the impact is CRITICAL, so I'd advise patching quickly  : )
+>
+> #bugbounty https://t.co/FPQTir4bE2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FEoboeZXwAIArm6.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FEoboeOWUAQFg64.png — no alt text provided by author
+
+
+---
+
+## 2021-10-15 · Post · Happy to score a nice bounty with @thedawgyg
+
+
+### Post — @galnagli — 2021-10-15 17:59 UTC (2021-10-15 18:59 WAT)
+
+- URL: https://x.com/galnagli/status/1449072552672890883
+- Metrics (at fetch): bookmark 1, impression 0, like 140, quote 0, reply 2, retweet 1
+
+> Happy to score a nice bounty with @thedawgyg
+>
+> #BugBounty https://t.co/D9OIvrGdmT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FBwjc95XMAQGxJq.jpg — no alt text provided by author
+
+
+---
+
+## 2021-10-07 · Post · Expand your attack surface by grabbing SSL certificates from ip addresses, match these with your Bug
+
+
+### Post — @galnagli — 2021-10-07 07:10 UTC (2021-10-07 08:10 WAT)
+
+- URL: https://x.com/galnagli/status/1446010048556195843
+- Metrics (at fetch): bookmark 168, impression 0, like 367, quote 0, reply 5, retweet 150
+
+> Expand your attack surface by grabbing SSL certificates from ip addresses, match these with your Bug Bounty targets.
+>
+> I'd recommend running this technique on cloud providers such as AWS/Azure/GCP ranges
+>
+> using https://t.co/uvvFVrKTXC
+>
+> cero [CIDR] (cero 0.0.0.0/0)
+>
+> #bugbountytips
+
+
+---
+
+## 2021-10-02 · Post · Top 100 @Bugcrowd 🚀 https://t.co/omFYnLCtPK
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2021-10-02 12:53 UTC (2021-10-02 13:53 WAT)
+
+- URL: https://x.com/galnagli/status/1444284498213056512
+- Metrics (at fetch): bookmark 1, impression 0, like 105, quote 0, reply 3, retweet 0
+
+> Top 100 @Bugcrowd 🚀 https://t.co/omFYnLCtPK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FAshETAWYAM_SdJ.jpg — no alt text provided by author
+
+
+---
+
+## 2021-09-01 · Reply · @iamnoooob and @rootxharsh are super generous and played this one really well for companies, reversi
+
+
+### Post — @galnagli — 2021-09-01 05:42 UTC (2021-09-01 06:42 WAT)
+
+- URL: https://x.com/galnagli/status/1432941841717006347
+- Metrics (at fetch): bookmark 3, impression 0, like 50, quote 1, reply 0, retweet 5
+
+> @iamnoooob and @rootxharsh are super generous and played this one really well for companies, reversing the patch in ~week since disclosure, publishing first notice with PoC 3 days ago, reporting it to ~50 BBP programs and getting the full writeup out asap before ransom party. https://t.co/WqCgERIoYf
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2897791291 — 2021-08-31 22:36 UTC (2021-08-31 23:36 WAT)
+    
+    - URL: https://x.com/2897791291/status/1432834821907042305
+    - Metrics (at fetch): bookmark 175, impression 0, like 1076, quote 16, reply 20, retweet 437
+    
+    > Here's our writeup of CVE-2021-26084 Confluence RCE now that it's out in public. Although, there are still a few mysteries to be solved. cc: @rootxharsh 
+    >
+    > https://t.co/XWuTvpUFyY https://t.co/Uiqbi0REpu
+    
+    **Media:**
+    - media `3_1432834533070712832` (details not returned by the API)
+    
+
+
+---
+
+## 2021-08-25 · Post · Happy to sneak into the Top 10 on the 90 days leaderboard at @Hacker0x01, 0 VDP reputation involved 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2021-08-25 08:27 UTC (2021-08-25 09:27 WAT)
+
+- URL: https://x.com/galnagli/status/1430446764709056516
+- Metrics (at fetch): bookmark 8, impression 0, like 247, quote 0, reply 25, retweet 4
+
+> Happy to sneak into the Top 10 on the 90 days leaderboard at @Hacker0x01, 0 VDP reputation involved - result of hard work and many invested hours.
+>
+> Today marks exactly 11 month since my first bounty.
+>
+> #BugBounty https://t.co/myhVkjlsFy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E9n3GrhXMAE3awC.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E9n3klcXEAwKPt2.png — no alt text provided by author
+
+
+---
+
+## 2021-08-24 · Post · It's recommended to often check JS files on Bounty targets to see wether they support Source Mapping
+
+
+### Post — @galnagli — 2021-08-24 19:14 UTC (2021-08-24 20:14 WAT)
+
+- URL: https://x.com/galnagli/status/1430247220226531328
+- Metrics (at fetch): bookmark 58, impression 0, like 141, quote 1, reply 3, retweet 41
+
+> It's recommended to often check JS files on Bounty targets to see wether they support Source Mapping, simply by navigating to Dev Console -&gt; Sources -&gt; Page or by inspecting the files.
+> it displays the entire page JS mapping as a tree and makes Client side bugs hunting easier. https://t.co/iepKUFNp1X
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E9lB9OIXEAUkCQs.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E9lCQBpWEAICWTY.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E9lCGRTXIAoaAom.png — no alt text provided by author
+
+
+---
+
+## 2021-07-23 · Post · There is lately huge "blind following" to a certain BB personal, it will lead beginners to a wrong p
+
+
+### Post — @galnagli — 2021-07-23 20:27 UTC (2021-07-23 21:27 WAT)
+
+- URL: https://x.com/galnagli/status/1418669081549578244
+- Metrics (at fetch): bookmark 79, impression 0, like 257, quote 3, reply 16, retweet 63
+
+> There is lately huge "blind following" to a certain BB personal, it will lead beginners to a wrong path when they opt to start doing Bug Bounties.
+> I made the same mistakes and luckily I surrounded myself with great list of BB hunters, I'll create a nice thread of genuine people.
+
+
+---
+
+## 2021-07-17 · Post · Decided to create "BountyTricks" a repo with private modules and bounty related tricks I'll add from
+
+
+Tags (automatic): SSRF
+
+
+### Post — @galnagli — 2021-07-17 12:17 UTC (2021-07-17 13:17 WAT)
+
+- URL: https://x.com/galnagli/status/1416371407894745089
+- Metrics (at fetch): bookmark 201, impression 0, like 581, quote 1, reply 9, retweet 222
+
+> Decided to create "BountyTricks" a repo with private modules and bounty related tricks I'll add from time to time, starting with fresh nuclei SSRF module which takes endpoints as input and check's if they are vulnerable to SSRF - in scale
+>
+> https://t.co/HudBCDBoqj
+>
+> #bugbountytips
+
+
+---
+
+## 2021-06-28 · Post · Ever stumble upon S3 object listing on a bucket within a bounty target?
+
+
+Tags (automatic): XSS
+
+
+### Post — @galnagli — 2021-06-28 06:26 UTC (2021-06-28 07:26 WAT)
+
+- URL: https://x.com/galnagli/status/1409397897955794945
+- Metrics (at fetch): bookmark 33, impression 0, like 155, quote 1, reply 3, retweet 24
+
+> Ever stumble upon S3 object listing on a bucket within a bounty target?
+>
+> look for HTML files, those tend to be old marketing pages which assisted me several times finding Reflected and DOM XSS's on targets.
+>
+> #bugbountytips https://t.co/26RpNIoVGe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E48uhofXwAEcH6_.jpg — no alt text provided by author
+
+
+---
+
+## 2021-06-08 · Post · Leveled up to 0x03! via @SynackRedTeam 
+
+
+### Post — @galnagli — 2021-06-08 09:04 UTC (2021-06-08 10:04 WAT)
+
+- URL: https://x.com/galnagli/status/1402189712513814532
+- Metrics (at fetch): bookmark 4, impression 0, like 202, quote 1, reply 23, retweet 15
+
+> Leveled up to 0x03! via @SynackRedTeam 
+>
+> If any of my followers is interested in joining Synack and possess reputable bounty hunting profile on other platforms, don't hesitate to reach me on DM with your details.
+>
+> #BugBounty https://t.co/hnxMy423r0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E3WTmWgXwAEBC1S.jpg — no alt text provided by author
+
+
+---
+
+## 2021-06-01 · Post · In May, I submitted 56 vulnerabilities to 27 programs on @Hacker0x01. TogetherWeHitHarder https://t
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @galnagli — 2021-06-01 04:58 UTC (2021-06-01 05:58 WAT)
+
+- URL: https://x.com/galnagli/status/1399591080480411649
+- Metrics (at fetch): bookmark 8, impression 0, like 299, quote 1, reply 32, retweet 18
+
+> In May, I submitted 56 vulnerabilities to 27 programs on @Hacker0x01. #TogetherWeHitHarder https://t.co/IaSg7fU3RP 
+>
+> And, I submitted 260 vulnerabilities to 8 programs on @Bugcrowd 
+>
+> #BugBounty https://t.co/V1onOe2fiZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E2xYXmcWUAIq9Ck.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E2xYif3WUAI8rz9.png — no alt text provided by author
+
+
+---
+
 ## 2021-05-28 · Post · Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/ToDRD925E7 TogetherWeHitHarder
 
 
@@ -4597,3 +4847,244 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Ej-kA2aWoAAp_tx.jpg — no alt text provided by author
+
+
+---
+
+## 2020-10-09 · Post · I was awarded 150$ bounty from private program.
+
+
+### Post — @galnagli — 2020-10-09 13:08 UTC (2020-10-09 14:08 WAT)
+
+- URL: https://x.com/galnagli/status/1314553207490842625
+- Metrics (at fetch): bookmark 1, impression 0, like 37, quote 0, reply 7, retweet 2
+
+> I was awarded 150$ bounty from private program.
+>
+> Found outdated Grafana instance vulnerable to CVE-2019-15043, Denial-of-service vulnerability in the Grafana snapshots API
+> #bugbounty #infosec https://t.co/wXpPT1dp4O
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ej47ALUXYAEsyI7.jpg — no alt text provided by author
+
+
+---
+
+## 2020-10-08 · Post · Yay, I was awarded a $50 bounty on 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2020-10-08 10:00 UTC (2020-10-08 11:00 WAT)
+
+- URL: https://x.com/galnagli/status/1314143734573993989
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $50 bounty on 
+> @Hacker0x01
+> https://t.co/ToDRD925E7 #TogetherWeHitHarder 
+>
+> Bug: Broken link Hijacking
+
+
+---
+
+## 2020-10-07 · Post · I was awarded 1630 ILS (~500$) bounty from private program.
+
+
+### Post — @galnagli — 2020-10-07 14:53 UTC (2020-10-07 15:53 WAT)
+
+- URL: https://x.com/galnagli/status/1313855052768071687
+- Metrics (at fetch): bookmark 0, impression 0, like 51, quote 0, reply 5, retweet 0
+
+> I was awarded 1630 ILS (~500$) bounty from private program.
+>
+> Subdomain takeover on misconfigured shopify instance
+>
+> #bugbounty #infosec #bugbountytips https://t.co/aRjz4tYg1F
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EjvAI4PXcAMK5yU.png — no alt text provided by author
+
+
+---
+
+## 2020-09-30 · Post · VDP life :-)
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2020-09-30 10:25 UTC (2020-09-30 11:25 WAT)
+
+- URL: https://x.com/galnagli/status/1311250722521067525
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> VDP life :-)
+> #togetherwehitharder #hackerone https://t.co/mt8NJdCSwJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EjJ_QTGXgAAd438.png — no alt text provided by author
+
+
+---
+
+## 2020-09-29 · Post · IDOR to Account Takeover on https://████/index.html https://t.co/1KeCHjoZdB 
+
+
+Tags (automatic): IDOR / BOLA, Account takeover
+
+
+### Post — @galnagli — 2020-09-29 21:00 UTC (2020-09-29 22:00 WAT)
+
+- URL: https://x.com/galnagli/status/1311048137340006400
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> IDOR to Account Takeover on https://████/index.html https://t.co/1KeCHjoZdB 
+> Vulnerable id parameter on the post request allowed me to change password to any account for my choice.
+> #bugbountytips #BugBounty
+
+
+---
+
+## 2020-09-29 · Post · Yay, I was awarded a $150 bounty on @Hacker0x01! https://t.co/ToDRD925E7 TogetherWeHitHarder 
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @galnagli — 2020-09-29 07:28 UTC (2020-09-29 08:28 WAT)
+
+- URL: https://x.com/galnagli/status/1310843894670786560
+- Metrics (at fetch): bookmark 7, impression 0, like 56, quote 1, reply 2, retweet 0
+
+> Yay, I was awarded a $150 bounty on @Hacker0x01! https://t.co/ToDRD925E7 #TogetherWeHitHarder 
+>
+> My first bounty, after a long month of studying hard and exploring, found a Self Stored XSS on a private program which i managed to trigger with CSRF.
+> patience = success
+> #bugbountytips
+
+
+---
+
+## 2020-09-28 · Post · Awarded BBC Hall of Fame for exposing a Private RSA Key on /actuator/env path which could lead to RC
+
+
+Tags (automatic): RCE
+
+
+### Post — @galnagli — 2020-09-28 09:02 UTC (2020-09-28 10:02 WAT)
+
+- URL: https://x.com/galnagli/status/1310505222826057728
+- Metrics (at fetch): bookmark 3, impression 0, like 6, quote 0, reply 1, retweet 1
+
+> Awarded BBC Hall of Fame for exposing a Private RSA Key on /actuator/env path which could lead to RCE.
+>
+> BBC Resolved the report within 12 hours, and decided to award me with limited edition bug finder T-shirt.
+>
+> #BugBounty https://t.co/rfQ4isxfGt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ei_ZieGXcAAx8at.jpg — no alt text provided by author
+
+
+---
+
+## 2020-09-22 · Post · First Subdomain Takeover :-) 😎
+
+
+### Post — @galnagli — 2020-09-22 15:19 UTC (2020-09-22 16:19 WAT)
+
+- URL: https://x.com/galnagli/status/1308425787545194496
+- Metrics (at fetch): bookmark 8, impression 0, like 20, quote 0, reply 2, retweet 1
+
+> First Subdomain Takeover :-) 😎
+> As for a bounty tip, when taking over AWS unclaimed bucket, make sure you register it on the correct region, otherwise you'd have to wait a long hour to reclaim the bucket, potentially losing it.
+> #bugbountytips https://t.co/TvSDU7S45X
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Eih2HBvXsAAIJ6F.jpg — no alt text provided by author
+
+
+---
+
+## 2020-09-07 · Post · Asus Hall of Fame for
+
+
+Tags (automatic): XSS
+
+
+### Post — @galnagli — 2020-09-07 03:37 UTC (2020-09-07 04:37 WAT)
+
+- URL: https://x.com/galnagli/status/1302813239525486595
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 1, reply 1, retweet 3
+
+> Asus Hall of Fame for
+> CVE-2020-4038 - Reflected XSS through graphql playground. https://t.co/RcxXIeQz6Y
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EhSFu3OWkAUmvsB.jpg — no alt text provided by author
+
+
+---
+
+## 2020-08-15 · Post · After a weekend of 4 dupes, finally a triage, sadly tho on VDP.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2020-08-15 18:53 UTC (2020-08-15 19:53 WAT)
+
+- URL: https://x.com/galnagli/status/1294708845823045632
+- Metrics (at fetch): not returned
+
+> After a weekend of 4 dupes, finally a triage, sadly tho on VDP.
+> going slowly but surely 🙌
+> #bugbounty #hackerone #TogtherWeHitHarder [pic.x.com/Cv1fmcm5un]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Efe61DLWkAAc-VQ.jpg — no alt text provided by author
+
+
+---
+
+## 2020-08-04 · Post · https://www.exploit-db.com/ghdb/6460
+
+
+Tags (automatic): RCE
+
+
+### Post — @galnagli — 2020-08-04 18:31 UTC (2020-08-04 19:31 WAT)
+
+- URL: https://x.com/galnagli/status/1290717046800617479
+- Metrics (at fetch): not returned
+
+> https://www.exploit-db.com/ghdb/6460
+> First dork accepted on GHDB - Finding WpDiscuz instances which may be vulnerable to Unauth RCE.
+> PoC Out on the 11th of august as per the dork.
+> Assemble your list of vuln targets and wait :-)
+> #bugbountytips #BugBounty
+
+**Links in post:** https://www.exploit-db.com/ghdb/6460
+
+
+---
+
+## 2020-07-24 · Post · Google dork for CVE-2020-3452 
+
+
+### Post — @galnagli — 2020-07-24 21:18 UTC (2020-07-24 22:18 WAT)
+
+- URL: https://x.com/galnagli/status/1286772741648113664
+- Metrics (at fetch): not returned
+
+> Google dork for CVE-2020-3452 
+> 'inurl:logon.html "CSCOE"' 
+> (It will find exposed Cisco SSL-VPN domains, not 100% of them are vulnerable, but most of them.)
+> After reaching a login page, try one of @aboul3la POC's
+> #bugbountytips [pic.x.com/GDXV3oZDwA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EduI-EwXkAAXn90.png — no alt text provided by author

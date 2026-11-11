@@ -1259,7 +1259,7 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @DevDacian — 2023-12-27 08:08 UTC (2023-12-27 09:08 WAT)
     
     - URL: https://x.com/DevDacian/status/1739921080201187721
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 8, impression 13252, like 39, quote 1, reply 7, retweet 0
     
     > I recently contributed an invariant fuzzing testing suite to a project's repo then got hit with this telegram spam from an audit firm.
     >

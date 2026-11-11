@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 153
-- Conversations/threads: 144
-- Oldest post captured: 2013-03-27
+- Posts in this file: 174
+- Conversations/threads: 165
+- Oldest post captured: 2011-06-29
 - Newest post captured: 2026-10-24
 
 
@@ -2558,3 +2558,345 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/BGXx9BmCYAIHA4Q.jpg — no alt text provided by author
+
+
+---
+
+## 2013-03-27 · Post · It's Bug Bounty cake day! Today: @Barracuda ! @detectify
+
+
+### Post — @fransrosen — 2013-03-27 14:16 UTC (2013-03-27 15:16 WAT)
+
+- URL: https://x.com/fransrosen/status/316916531663622145
+- Metrics (at fetch): not returned
+
+> It's Bug Bounty cake day! Today: @Barracuda ! @detectify
+
+
+---
+
+## 2013-03-22 · Post · Bug Bounty Program for @meraki, fast fixes, fast payout. Amounts could be discussed but overall a go
+
+
+### Post — @fransrosen — 2013-03-22 07:57 UTC (2013-03-22 08:57 WAT)
+
+- URL: https://x.com/fransrosen/status/315009423678504960
+- Metrics (at fetch): not returned
+
+> Bug Bounty Program for @meraki, fast fixes, fast payout. Amounts could be discussed but overall a good experience.
+
+
+---
+
+## 2013-03-13 · Post · Initial Payment received for another Stored XSS on PayPal. bugbounty [pic.x.com/QkO0kQjMUZ]
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-03-13 06:19 UTC (2013-03-13 07:19 WAT)
+
+- URL: https://x.com/fransrosen/status/311723078969356288
+- Metrics (at fetch): not returned
+
+> Initial Payment received for another Stored XSS on PayPal. #bugbounty [pic.x.com/QkO0kQjMUZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BFN2fR6CcAAoqrM.jpg — no alt text provided by author
+
+
+---
+
+## 2013-03-10 · Post · I've changed impression of Yandex Bug Bounty Program. Got the money but took long time also paid out
+
+
+### Post — @fransrosen — 2013-03-10 10:56 UTC (2013-03-10 11:56 WAT)
+
+- URL: https://x.com/fransrosen/status/310705647048089600
+- Metrics (at fetch): not returned
+
+> I've changed impression of Yandex Bug Bounty Program. Got the money but took long time also paid out for duplicate due to long wait.
+
+
+---
+
+## 2013-02-14 · Post · How I got the Bug Bounty for http://Mega.co.nz XSS http://blog.detectify.com/post/43100050401/how-i-
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-02-14 23:12 UTC (2013-02-15 00:12 WAT)
+
+- URL: https://x.com/fransrosen/status/302193736891392000
+- Metrics (at fetch): not returned
+
+> How I got the Bug Bounty for http://Mega.co.nz XSS http://blog.detectify.com/post/43100050401/how-i-got-the-bug-bounty-for-mega-co-nz-xss
+
+**Links in post:** http://Mega.co.nz, http://blog.detectify.com/post/43100050401/how-i-got-the-bug-bounty-for-mega-co-nz-xss
+
+
+---
+
+## 2013-02-11 · Post · Another Facebook Bug Bounty received even though the issue remains. Will report more as soon as it i
+
+
+### Post — @fransrosen — 2013-02-11 23:56 UTC (2013-02-12 00:56 WAT)
+
+- URL: https://x.com/fransrosen/status/301117429252255744
+- Metrics (at fetch): not returned
+
+> Another Facebook Bug Bounty received even though the issue remains. Will report more as soon as it is fixed. [pic.x.com/YiiEKCl4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BC3ItN7CcAEnx_M.png — no alt text provided by author
+
+
+---
+
+## 2013-02-10 · Post · Just got interviewed by @AdamCrouchley for the Mega XSS. Stay tuned.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-02-10 19:37 UTC (2013-02-10 20:37 WAT)
+
+- URL: https://x.com/fransrosen/status/300690091402223616
+- Metrics (at fetch): not returned
+
+> Just got interviewed by @AdamCrouchley for the Mega XSS. Stay tuned.
+
+
+---
+
+## 2013-02-09 · Post · http://Mega.co.nz XSS fixed in 35min. Bug Bounty Program on speed with an awesome reply to my report
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-02-09 22:12 UTC (2013-02-09 23:12 WAT)
+
+- URL: https://x.com/fransrosen/status/300366642242781184
+- Metrics (at fetch): not returned
+
+> http://Mega.co.nz XSS fixed in 35min. Bug Bounty Program on speed with an awesome reply to my report: [pic.x.com/tcKe5ob0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BCsd3qWCAAAY4Y0.png — no alt text provided by author
+
+**Links in post:** http://Mega.co.nz
+
+
+---
+
+## 2013-02-09 · Post · And the XSS is gone. http://Mega.co.nz was the fastest one ever in fixing an issue. Amazed.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-02-09 21:54 UTC (2013-02-09 22:54 WAT)
+
+- URL: https://x.com/fransrosen/status/300362059516899329
+- Metrics (at fetch): not returned
+
+> And the XSS is gone. http://Mega.co.nz was the fastest one ever in fixing an issue. Amazed.
+
+**Links in post:** http://Mega.co.nz
+
+
+---
+
+## 2013-02-09 · Post · Just reported an XSS on http://mega.co.nz. bugbounty
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-02-09 21:17 UTC (2013-02-09 22:17 WAT)
+
+- URL: https://x.com/fransrosen/status/300352737743364096
+- Metrics (at fetch): not returned
+
+> Just reported an XSS on http://mega.co.nz. #bugbounty
+
+**Links in post:** http://mega.co.nz
+
+
+---
+
+## 2013-01-22 · Post · me and @avlide at http://seclists.org/oss-sec/2013/q1/166, CVE-2013-0201 and CVE-2013-0203. ownClou
+
+
+### Post — @fransrosen — 2013-01-22 16:19 UTC (2013-01-22 17:19 WAT)
+
+- URL: https://x.com/fransrosen/status/293754839035441153
+- Metrics (at fetch): not returned
+
+> me and @avlide at http://seclists.org/oss-sec/2013/q1/166, CVE-2013-0201 and CVE-2013-0203. #ownCloud
+
+**Links in post:** http://seclists.org/oss-sec/2013/q1/166
+
+
+---
+
+## 2013-01-21 · Post · Initial Paypal Bug Bounty payment for Stored XSS report. Still not fixed. [pic.x.com/viFMV44p]
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-01-21 14:28 UTC (2013-01-21 15:28 WAT)
+
+- URL: https://x.com/fransrosen/status/293364551980834816
+- Metrics (at fetch): not returned
+
+> Initial Paypal Bug Bounty payment for Stored XSS report. Still not fixed. [pic.x.com/viFMV44p]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BBI9gXcCYAAFi3p.png — no alt text provided by author
+
+
+---
+
+## 2013-01-19 · Post · facebook ie6 xss fixed. coming up.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-01-19 00:58 UTC (2013-01-19 01:58 WAT)
+
+- URL: https://x.com/fransrosen/status/292435712085733376
+- Metrics (at fetch): not returned
+
+> facebook ie6 xss fixed. coming up.
+
+
+---
+
+## 2013-01-18 · Post · Stored XSS found on http://google.com. Needed five days to cache. Interesting, interesting.
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-01-18 22:55 UTC (2013-01-18 23:55 WAT)
+
+- URL: https://x.com/fransrosen/status/292404981255008256
+- Metrics (at fetch): not returned
+
+> Stored XSS found on http://google.com. Needed five days to cache. Interesting, interesting.
+
+**Links in post:** http://google.com
+
+
+---
+
+## 2013-01-01 · Post · The article on EHN about the Facebook Bounty resulted in other sites getting XSS:ed due to the filen
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-01-01 09:45 UTC (2013-01-01 10:45 WAT)
+
+- URL: https://x.com/fransrosen/status/286045467211620352
+- Metrics (at fetch): not returned
+
+> The article on EHN about the Facebook Bounty resulted in other sites getting XSS:ed due to the filename-injection. #oops
+
+
+---
+
+## 2013-01-01 · Post · “@EHackerNews: Stored XSS vulnerability in Facebook
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2013-01-01 09:09 UTC (2013-01-01 10:09 WAT)
+
+- URL: https://x.com/fransrosen/status/286036530403885057
+- Metrics (at fetch): not returned
+
+> “@EHackerNews: Stored #XSS #vulnerability in Facebook
+> http://www.ehackingnews.com/2013/01/stored-xss-vulnerability-in-facebook.html
+> #security #infosec @rafaybaloch @vigneshkumarmr”
+
+**Links in post:** http://www.ehackingnews.com/2013/01/stored-xss-vulnerability-in-facebook.html
+
+
+---
+
+## 2012-12-30 · Post · How I got a $3,500 USD Facebook Bug Bounty http://blog.detectify.com/post/39209711597/how-i-got-a-3-
+
+
+### Post — @fransrosen — 2012-12-30 11:31 UTC (2012-12-30 12:31 WAT)
+
+- URL: https://x.com/fransrosen/status/285347464465248257
+- Metrics (at fetch): not returned
+
+> How I got a $3,500 USD Facebook Bug Bounty http://blog.detectify.com/post/39209711597/how-i-got-a-3-500-usd-facebook-bug-bounty
+
+**Links in post:** http://blog.detectify.com/post/39209711597/how-i-got-a-3-500-usd-facebook-bug-bounty
+
+
+---
+
+## 2012-12-29 · Post · Facebook Stored XSS blog post is coming up!
+
+
+Tags (automatic): XSS
+
+
+### Post — @fransrosen — 2012-12-29 23:39 UTC (2012-12-30 00:39 WAT)
+
+- URL: https://x.com/fransrosen/status/285168142051856384
+- Metrics (at fetch): not returned
+
+> Facebook Stored XSS blog post is coming up!
+
+
+---
+
+## 2012-12-29 · Post · My Facebook find resulted in a Bug Bounty Payout! Nice beginning of the weekend. yeeaaah [pic.x.com
+
+
+### Post — @fransrosen — 2012-12-29 01:31 UTC (2012-12-29 02:31 WAT)
+
+- URL: https://x.com/fransrosen/status/284833927703715841
+- Metrics (at fetch): not returned
+
+> My Facebook find resulted in a Bug Bounty Payout! Nice beginning of the weekend. #yeeaaah [pic.x.com/Fkb2uy4h]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/A_Pu8rlCYAAkrsj.jpg — no alt text provided by author
+
+
+---
+
+## 2011-09-23 · Post · @Spotify bug in latest version regarding search, try "crosby & nash better days", no results. but tr
+
+
+### Post — @fransrosen — 2011-09-23 14:11 UTC (2011-09-23 15:11 WAT)
+
+- URL: https://x.com/fransrosen/status/117239754952675328
+- Metrics (at fetch): not returned
+
+> @Spotify bug in latest version regarding search, try "crosby & nash better days", no results. but try "better days" and you'll find it...
+
+
+---
+
+## 2011-06-29 · Post · App updates: "bug fixes and better performance" = we added advertising.
+
+
+### Post — @fransrosen — 2011-06-29 22:09 UTC (2011-06-29 23:09 WAT)
+
+- URL: https://x.com/fransrosen/status/86194689644048384
+- Metrics (at fetch): not returned
+
+> App updates: "bug fixes and better performance" = we added advertising.

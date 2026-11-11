@@ -5328,7 +5328,7 @@ Tags (automatic): Platform: HackerOne
     #### Quoted post — @NahamSec — 2020-08-01 17:08 UTC (2020-08-01 18:08 WAT)
     
     - URL: https://x.com/NahamSec/status/1289608885444042752
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 136, impression 0, like 599, quote 8, reply 9, retweet 227
     
     > Check out @Rhynorater's blog post on CVE-2020-13379: Unauthenticated SSRF in Grafana!  
     >

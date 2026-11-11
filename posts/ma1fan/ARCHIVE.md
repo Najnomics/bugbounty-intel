@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 126
-- Conversations/threads: 125
-- Oldest post captured: 2021-04-16
+- Posts in this file: 147
+- Conversations/threads: 146
+- Oldest post captured: 2019-03-05
 - Newest post captured: 2026-11-10
 
 
@@ -2807,6 +2807,173 @@ Tags (automatic): RCE
 
 ---
 
+## 2021-11-05 · Post · Sorry everyone. For some reason I private this PoC  temporary . https://t.co/QguxZsNRvg
+
+
+### Post — @ma1fan — 2021-11-05 08:38 UTC (2021-11-05 09:38 WAT)
+
+- URL: https://x.com/ma1fan/status/1456541344827121665
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> Sorry everyone. For some reason I private this PoC  temporary . https://t.co/QguxZsNRvg
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2021-11-05 03:15 UTC (2021-11-05 04:15 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1456460081793544206
+    - Metrics (at fetch): bookmark 25, impression 0, like 286, quote 3, reply 10, retweet 91
+    
+    > Here is the #TianfuCup 2021 chrome v8 bug CVE-2021-38001 poc write by myself , Enjoy it :)
+    > https://t.co/Hjapc3wOJY
+    
+
+
+---
+
+## 2021-11-05 · Post · Here is the TianfuCup 2021 chrome v8 bug CVE-2021-38001 poc write by myself , Enjoy it :)
+
+
+### Post — @ma1fan — 2021-11-05 03:15 UTC (2021-11-05 04:15 WAT)
+
+- URL: https://x.com/ma1fan/status/1456460081793544206
+- Metrics (at fetch): bookmark 25, impression 0, like 286, quote 3, reply 10, retweet 91
+
+> Here is the #TianfuCup 2021 chrome v8 bug CVE-2021-38001 poc write by myself , Enjoy it :)
+> https://t.co/Hjapc3wOJY
+
+
+---
+
+## 2021-10-27 · Post · I will release the Tianfucup 2021 v8 bug PoC and details before the end of  2021, Pls hold on 😀 htt
+
+
+### Post — @ma1fan — 2021-10-27 06:49 UTC (2021-10-27 07:49 WAT)
+
+- URL: https://x.com/ma1fan/status/1453252592105054214
+- Metrics (at fetch): bookmark 5, impression 0, like 206, quote 0, reply 2, retweet 34
+
+> I will release the #Tianfucup 2021 v8 bug PoC and details before the end of  2021, Pls hold on 😀 https://t.co/yetb1Xf4CJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FCr9PAKX0Ac3mKR.png — no alt text provided by author
+
+
+---
+
+## 2021-10-18 · Post · Another Super IC bug which can be exploited....
+
+
+### Post — @ma1fan — 2021-10-18 16:42 UTC (2021-10-18 17:42 WAT)
+
+- URL: https://x.com/ma1fan/status/1450140205495689216
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 3
+
+> Another Super IC bug which can be exploited....
+>
+> https://t.co/DkBxPMC2wf
+
+
+---
+
+## 2021-09-28 · Post · great writeup https://t.co/6bvHxi4Giz
+
+
+### Post — @ma1fan — 2021-09-28 07:04 UTC (2021-09-28 08:04 WAT)
+
+- URL: https://x.com/ma1fan/status/1442746927825649667
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> great writeup https://t.co/6bvHxi4Giz
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1187929919713464320 — 2021-09-27 15:49 UTC (2021-09-27 16:49 WAT)
+    
+    - URL: https://x.com/1187929919713464320/status/1442516736117547010
+    - Metrics (at fetch): bookmark 29, impression 0, like 196, quote 4, reply 2, retweet 76
+    
+    > Curious how the recently patched Chrome 0days (CVE-2021-30632, CVE-2021-30633) affected you? @mmolgtm explores the fascinating intricacies of exploiting optimized property access based type confusions in Chrome's v8 JIT https://t.co/evmPTWTcE5 https://t.co/IkSNmjw5BI
+    
+    **Media:**
+    - media `3_1442516733466660869` (details not returned by the API)
+    
+
+
+---
+
+## 2021-09-14 · Post · use this poc can trigger the CVE-2021-30632  code path
+
+
+### Post — @ma1fan — 2021-09-14 10:59 UTC (2021-09-14 11:59 WAT)
+
+- URL: https://x.com/ma1fan/status/1437732799117611014
+- Metrics (at fetch): bookmark 11, impression 0, like 93, quote 1, reply 2, retweet 12
+
+> use this poc can trigger the CVE-2021-30632  code path
+> ------------
+> var a;
+> function foo() {
+>     a = new Uint32Array(100);
+> }
+> %PrepareFunctionForOptimization(foo);
+> foo();
+> foo();
+> a["xxx"] =1;
+> delete a["xxx"];
+> %OptimizeFunctionOnNextCall(foo);
+> foo();
+
+
+---
+
+## 2021-08-27 · Post · Exploiting the Promise.allsettled bug in V8 from 360 Alpha Team
+
+
+### Post — @ma1fan — 2021-08-27 09:11 UTC (2021-08-27 10:11 WAT)
+
+- URL: https://x.com/ma1fan/status/1431182639713509376
+- Metrics (at fetch): bookmark 6, impression 0, like 85, quote 1, reply 1, retweet 25
+
+> Exploiting the Promise.allsettled bug in V8 from 360 Alpha Team
+>
+> https://t.co/RWAaKz1MF9
+
+
+---
+
+## 2021-07-01 · Post · newest useless v8  bug, with --turboprop
+
+
+### Post — @ma1fan — 2021-07-01 12:20 UTC (2021-07-01 13:20 WAT)
+
+- URL: https://x.com/ma1fan/status/1410574123395215362
+- Metrics (at fetch): bookmark 2, impression 0, like 12, quote 0, reply 2, retweet 2
+
+> newest useless v8  bug, with --turboprop
+> function foo() {for (var  i in "aaaaaaaaaaaaaaa") {isNaN.prototype = 13.37;var j = isNaN.prototype;
+>  const a = false |j ; let c = 0 - a;    const d = c++;
+> for (let e = 0; e&lt;100000; e= e + d) {    }}}%OptimizeFunctionOnNextCall(main);foo();
+
+
+---
+
+## 2021-06-09 · Post · find a v8 0day, But I don't know how to exploit it 😅. https://t.co/SyMuDV15cm
+
+
+### Post — @ma1fan — 2021-06-09 05:56 UTC (2021-06-09 06:56 WAT)
+
+- URL: https://x.com/ma1fan/status/1402504948621856771
+- Metrics (at fetch): bookmark 2, impression 0, like 24, quote 0, reply 5, retweet 2
+
+> find a v8 0day, But I don't know how to exploit it 😅. https://t.co/SyMuDV15cm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E3aym0WUcAASQdO.jpg — no alt text provided by author
+
+
+---
+
 ## 2021-04-23 · Post · Interesting~,another lowering bug
 
 
@@ -2834,3 +3001,248 @@ Tags (automatic): RCE
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EzGFxnAVkAEqtgf.png — no alt text provided by author
+
+
+---
+
+## 2020-08-14 · Post · After 1 week I find a linux kernel vulnerability.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ma1fan — 2020-08-14 08:38 UTC (2020-08-14 09:38 WAT)
+
+- URL: https://x.com/ma1fan/status/1294191704887529472
+- Metrics (at fetch): not returned
+
+> After 1 week I find a linux kernel vulnerability.
+> I will release the details after the bug being fixed 😀
+
+
+---
+
+## 2020-06-08 · Post · CVE-2017-13253: Buffer overflow in Android DRM services https://blog.zimperium.com/cve-2017-13253-bu
+
+
+Tags (automatic): Mobile / Android / iOS, Memory corruption / native
+
+
+### Post — @ma1fan — 2020-06-08 03:11 UTC (2020-06-08 04:11 WAT)
+
+- URL: https://x.com/ma1fan/status/1269829304268931073
+- Metrics (at fetch): not returned
+
+> CVE-2017-13253: Buffer overflow in Android DRM services https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/#.Xt2sSaPDCSk.twitter
+
+**Links in post:** https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/#.Xt2sSaPDCSk.twitter
+
+
+---
+
+## 2020-05-24 · Post · 现在貌似都流行用poc sha1发帖了。。。😃
+
+
+### Post — @ma1fan — 2020-05-24 02:26 UTC (2020-05-24 03:26 WAT)
+
+- URL: https://x.com/ma1fan/status/1264382272607629313
+- Metrics (at fetch): not returned
+
+> 现在貌似都流行用poc sha1发帖了。。。😃
+
+
+---
+
+## 2020-01-30 · Post · this is a xnu kernel info leak bug  poc ,the bug which I found one year ago.
+
+
+Tags (automatic): Mobile / Android / iOS, Memory corruption / native
+
+
+### Post — @ma1fan — 2020-01-30 07:11 UTC (2020-01-30 08:11 WAT)
+
+- URL: https://x.com/ma1fan/status/1222779316892655616
+- Metrics (at fetch): not returned
+
+> this is a xnu kernel info leak bug  poc ,the bug which I found one year ago.
+> I  tested  on 10.14.5 and iOS 13.2
+> it seems patched recently
+>  I don't  know the CVE id.
+>
+> https://github.com/maldiohead/xnu_ifname_kernel_infoleak
+
+**Links in post:** https://github.com/maldiohead/xnu_ifname_kernel_infoleak
+
+
+---
+
+## 2020-01-28 · Post · LOL. Apple patched a  kernel info leak  bug which I found in 2019
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ma1fan — 2020-01-28 11:27 UTC (2020-01-28 12:27 WAT)
+
+- URL: https://x.com/ma1fan/status/1222118975301046274
+- Metrics (at fetch): not returned
+
+> LOL. Apple patched a  kernel info leak  bug which I found in 2019
+
+
+---
+
+## 2019-11-14 · Post · I found a useless vmware workstation UAF bug:
+
+
+### Post — @ma1fan — 2019-11-14 03:07 UTC (2019-11-14 04:07 WAT)
+
+- URL: https://x.com/ma1fan/status/1194814098887675904
+- Metrics (at fetch): not returned
+
+> I found a useless vmware workstation UAF bug:
+> poc:
+> int main()
+> {_wfsopen(L"1.txt", L"w", _SH_SECURE);getchar();
+> }
+> 1.create 1.txt 
+> 2.complie the poc and then put the poc executable with the same directory 
+> http://3.click the poc
+> 4. drag and drop the 1.txt to guest os
+
+**Links in post:** http://3.click
+
+
+---
+
+## 2019-07-12 · Post · It's werid , ALF driver leaked the object address to userspace  directly.
+
+
+### Post — @ma1fan — 2019-07-12 03:26 UTC (2019-07-12 04:26 WAT)
+
+- URL: https://x.com/ma1fan/status/1149520280861040640
+- Metrics (at fetch): not returned
+
+> It's werid , ALF driver leaked the object address to userspace  directly.
+> I don't know why.
+> This is my poc
+> https://github.com/maldiohead/CVE-2019-8627 [pic.x.com/yrEddNXJ8n]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D_PqT53UYAE2Cq7.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/maldiohead/CVE-2019-8627
+
+
+---
+
+## 2019-07-11 · Post · very good writeup!
+
+
+### Post — @ma1fan — 2019-07-11 04:03 UTC (2019-07-11 05:03 WAT)
+
+- URL: https://x.com/ma1fan/status/1149167248029802496
+- Metrics (at fetch): not returned
+
+> very good writeup!
+> https://secfault-security.com/blog/FreeBSD-SA-1902.fd.html
+
+**Links in post:** https://secfault-security.com/blog/FreeBSD-SA-1902.fd.html
+
+
+---
+
+## 2019-05-17 · Post · here is the poc  CVE-2019-6207,kernel heap info leak ,
+
+
+Tags (automatic): Mobile / Android / iOS, Memory corruption / native
+
+
+### Post — @ma1fan — 2019-05-17 06:43 UTC (2019-05-17 07:43 WAT)
+
+- URL: https://x.com/ma1fan/status/1129276351402299392
+- Metrics (at fetch): not returned
+
+> here is the poc  CVE-2019-6207,kernel heap info leak ,
+>  which can trigger in macOS &amp;&amp; iOS sandbox, I will update more details about the vulnerability,enjoy it!
+> https://github.com/maldiohead/CVE-2019-6207 https://twitter.com/ma1fan/status/1110393339340189696
+
+**Links in post:** https://github.com/maldiohead/CVE-2019-6207, https://twitter.com/ma1fan/status/1110393339340189696
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2019-03-26 04:09 UTC (2019-03-26 05:09 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1110393339340189696
+    - Metrics (at fetch): not returned
+    
+    > I will release the Poc and writeup for CVE-2019-8540 ,CVE-2019-6207
+    > which found by myself.😜 [pic.x.com/VzNScon0Z1]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/D2joV9RUkAAzCNR.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2019-05-17 · Post · here is the poc of  CVE-2019-8540
+
+
+### Post — @ma1fan — 2019-05-17 04:28 UTC (2019-05-17 05:28 WAT)
+
+- URL: https://x.com/ma1fan/status/1129242356908056576
+- Metrics (at fetch): not returned
+
+> here is the poc of  CVE-2019-8540
+> https://github.com/maldiohead/CVE-2019-8540 https://twitter.com/ma1fan/status/1110393339340189696
+
+**Links in post:** https://github.com/maldiohead/CVE-2019-8540, https://twitter.com/ma1fan/status/1110393339340189696
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2019-03-26 04:09 UTC (2019-03-26 05:09 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1110393339340189696
+    - Metrics (at fetch): not returned
+    
+    > I will release the Poc and writeup for CVE-2019-8540 ,CVE-2019-6207
+    > which found by myself.😜 [pic.x.com/VzNScon0Z1]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/D2joV9RUkAAzCNR.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2019-03-26 · Post · I will release the Poc and writeup for CVE-2019-8540 ,CVE-2019-6207
+
+
+### Post — @ma1fan — 2019-03-26 04:09 UTC (2019-03-26 05:09 WAT)
+
+- URL: https://x.com/ma1fan/status/1110393339340189696
+- Metrics (at fetch): not returned
+
+> I will release the Poc and writeup for CVE-2019-8540 ,CVE-2019-6207
+> which found by myself.😜 [pic.x.com/VzNScon0Z1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D2joV9RUkAAzCNR.jpg — no alt text provided by author
+
+
+---
+
+## 2019-03-05 · Post · Found by myself,the below poc can crash WindowServer,which tested on macOS 10.14.3
+
+
+### Post — @ma1fan — 2019-03-05 16:27 UTC (2019-03-05 17:27 WAT)
+
+- URL: https://x.com/ma1fan/status/1102968916211523584
+- Metrics (at fetch): not returned
+
+> Found by myself,the below poc can crash WindowServer,which tested on macOS 10.14.3
+> #macOS vulnerability [pic.x.com/orGBVIL3FS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D06HkLJVAAAlDgo.jpg — no alt text provided by author
