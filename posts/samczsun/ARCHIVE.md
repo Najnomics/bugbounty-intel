@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 96
+- Posts in this file: 132
 - Conversations/threads: 87
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
@@ -1219,7 +1219,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2023-04-03 · Post · Block 16964664: A user managed to drain five MEV bots by exploiting a bug in mev-boost-relay.
+## 2023-04-03 · Thread · Block 16964664: A user managed to drain five MEV bots by exploiting a bug in mev-boost-relay.
+
+
+Tags (automatic): Race condition, Blockchain / L1-L2 / bridge
 
 
 ### Post — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
@@ -1236,6 +1239,133 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FsyHs7aaUAEabY1.png — no alt text provided by author
+
+
+### Thread part 2 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848558436220933
+- Metrics (at fetch): bookmark 15, impression 34978, like 125, quote 1, reply 1, retweet 10
+
+> One of the core ideas behind Proposer-Builder Separation is that proposers cannot be allowed to see the contents of the block they're signing until they've signed the block. Proposers must trust mev-boost to return the most profitable header to them. https://t.co/6GYJlUwFIX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyJvjRacAErR07.png — no alt text provided by author
+
+
+### Thread part 3 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848560306864132
+- Metrics (at fetch): bookmark 2, impression 28869, like 85, quote 0, reply 2, retweet 4
+
+> Theoretically, this makes it extremely hard for a malicious proposer to deconstruct bundles, as they would have to
+> 1) double sign for a single slot, which is slashable
+> 2) win the race against the relay to submit the block to the network, which is highly unlikely
+
+
+### Thread part 4 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848561691004928
+- Metrics (at fetch): bookmark 2, impression 29334, like 81, quote 0, reply 1, retweet 3
+
+> However, a little under 12 hours ago, a malicious validator managed to win the race anyways. This is the block they used to do it. Notice anything strange? https://t.co/XDJ1Sm3XkR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyKzeFagAI2_f7.png — no alt text provided by author
+
+
+### Thread part 5 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848564165644292
+- Metrics (at fetch): bookmark 0, impression 26276, like 74, quote 1, reply 1, retweet 3
+
+> The relay certainly didn't like it. https://t.co/MH1nLKZbZV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyK_vYaMAIokjn.png — no alt text provided by author
+
+
+### Thread part 6 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848566103408640
+- Metrics (at fetch): bookmark 5, impression 27286, like 84, quote 1, reply 3, retweet 5
+
+> It turns out that mev-boost-relay will return all the transactions as long as the producer signed the block correctly. The assumption is that the signed block will then be broadcasted to the network, meaning the validator would have to race the relay in order to send a new block. https://t.co/FmV5zZ1KFg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyM4G0agAU7fJU.png — no alt text provided by author
+
+
+### Thread part 7 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848567781105664
+- Metrics (at fetch): bookmark 1, impression 28911, like 105, quote 4, reply 2, retweet 6
+
+> Unfortunately, if the signed block was invalid, then it would never be accepted by the network, so there would be no race at all. By setting both the parent root and the state root to zero, that's exactly what the malicious validator did. https://t.co/2eDLPaTgQN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyM82JaYAQWpRy.png — no alt text provided by author
+
+
+### Thread part 8 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848569488187392
+- Metrics (at fetch): bookmark 3, impression 26712, like 108, quote 1, reply 4, retweet 5
+
+> Because the relay was never able to broadcast the block, it was a simple matter of taking the revealed transactions, deconstructing the bundles, and claiming the liquidity from the MEV bots unlucky enough to be included in the block. https://t.co/Hm2DToAxDy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyNN4GaEAA0Ruz.png — no alt text provided by author
+
+
+### Thread part 9 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848571170119680
+- Metrics (at fetch): bookmark 6, impression 32249, like 131, quote 6, reply 6, retweet 6
+
+> The patch itself is as simple as the vulnerability is. Now, mev-boost-relay will refuse to return the transactions if the block was not successfully sent to the network. Then, just for good measure, it delays the response by a second too. https://t.co/GnVyEEdUtc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyOsLBaAAEOfwW.png — no alt text provided by author
+
+
+### Thread part 10 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848572738789376
+- Metrics (at fetch): bookmark 2, impression 31496, like 111, quote 2, reply 3, retweet 5
+
+> The community is working to fully roll out the patch to all relays, and will be publishing a complete postmortem shortly. I'll drop a link to it in this thread when it's out.
+
+
+### Thread part 11 — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848574089338882
+- Metrics (at fetch): bookmark 11, impression 70582, like 179, quote 1, reply 3, retweet 7
+
+> Thanks to:
+> - @punk3155 and @bbbb for flagging this
+> - @drakefjustin for spearheading the warroom
+> - @metachris and @mmrosum for authoring the patch
+> - @mikeneuder, @hasufl, @alphamonad, and so many others for jumping on to triage and resolve this issue
+
+
+### Thread part 12 — @samczsun — 2023-04-05 00:15 UTC (2023-04-05 01:15 WAT)
+
+- URL: https://x.com/samczsun/status/1643406970119131138
+- Metrics (at fetch): bookmark 2, impression 18715, like 33, quote 0, reply 1, retweet 1
+
+> Here's the postmortem
+>
+> https://t.co/GQW3n98rtJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @934205226743103493 — 2023-04-04 23:53 UTC (2023-04-05 00:53 WAT)
+    
+    - URL: https://x.com/934205226743103493/status/1643401549635366913
+    - Metrics (at fetch): bookmark 83, impression 115469, like 240, quote 14, reply 7, retweet 81
+    
+    > A post mortem on the mev-boost relay vulnerability yesterday and a brief discussion on a related timing issue: https://t.co/955l21s4K5
+    
 
 
 ---
@@ -1265,7 +1395,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-02-01 · Post · It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw
+## 2023-02-01 · Thread · It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw
 
 
 ### Post — @samczsun — 2023-02-01 22:54 UTC (2023-02-01 23:54 WAT)
@@ -1273,11 +1403,32 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/samczsun/status/1620918455468982272
 - Metrics (at fetch): bookmark 42, impression 117023, like 375, quote 11, reply 26, retweet 56
 
-> It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw 1 ALBT = 5 billion MATIC now" and Bonq said "ok" https://t.co/WwdYAn9EL4
+> It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw 1 ALBT = 5 billion MATIC now" and Bonq said "ok" [pic.x.com/WwdYAn9EL4]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fn6oGkNXoAIQGTW.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/Fn6ofgHXkAMxiGK.jpg — no alt text provided by author
+
+
+### Thread part 2 — @samczsun — 2023-02-01 22:54 UTC (2023-02-01 23:54 WAT)
+
+- URL: https://x.com/samczsun/status/1620918529624272897
+- Metrics (at fetch): bookmark 6, impression 12533, like 23, quote 0, reply 0, retweet 4
+
+> See for yourself: https://tx.eth.samczsun.com/polygon/0x31957ecc43774d19f54d9968e95c69c882468b46860f921668f2c55fadd51b19
+
+**Links in post:** https://tx.eth.samczsun.com/polygon/0x31957ecc43774d19f54d9968e95c69c882468b46860f921668f2c55fadd51b19
+
+
+### Thread part 3 — @samczsun — 2023-02-01 23:01 UTC (2023-02-02 00:01 WAT)
+
+- URL: https://x.com/samczsun/status/1620920249255333888
+- Metrics (at fetch): bookmark 0, impression 18142, like 144, quote 0, reply 2, retweet 6
+
+> the hacker really said [pic.x.com/2isrl6byMn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn6qO94X0AYNxzC.png — no alt text provided by author
 
 
 ---
@@ -1341,7 +1492,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2022-10-07 · Post · this happens after literally every major hack and someone will inevitably think that just because so
+## 2022-10-07 · Thread · this happens after literally every major hack and someone will inevitably think that just because so
 
 
 ### Post — @samczsun — 2022-10-07 03:51 UTC (2022-10-07 04:51 WAT)
@@ -1349,7 +1500,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/samczsun/status/1578231427463716864
 - Metrics (at fetch): bookmark 32, impression 0, like 333, quote 2, reply 12, retweet 25
 
-> this happens after literally every major hack and someone will inevitably think that just because some random person set a variable called "deployer" to the hacker's address that must mean the hacker was the deployer but no it's just some random grifter https://t.co/06AZsyQpit
+> this happens after literally every major hack and someone will inevitably think that just because some random person set a variable called "deployer" to the hacker's address that must mean the hacker was the deployer but no it's just some random grifter https://twitter.com/lorem___/status/1578206162494685185
+
+**Links in post:** https://twitter.com/lorem___/status/1578206162494685185
 
 **Quoted post (full text):**
 
@@ -1360,6 +1513,14 @@ Tags (automatic): AI-assisted hunting
     
     > 1/ I saw some shadowy-super-coder supervillian tactics on ETH mainnet after the $600 million BNB hack. A few minutes after the initial hack, the hacker created a BNBHACKERINU token and rugged it two hours later
     
+
+
+### Thread part 2 — @samczsun — 2022-10-07 03:51 UTC (2022-10-07 04:51 WAT)
+
+- URL: https://x.com/samczsun/status/1578231612713553920
+- Metrics (at fetch): bookmark 1, impression 0, like 129, quote 0, reply 2, retweet 1
+
+> its ok though trm labs fell for it last time
 
 
 ---
@@ -1534,7 +1695,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-07-05 · Post · 1/ Today, someone tried to hack me with a crypto stealer, so I guess I've finally made it
+## 2022-07-05 · Thread · 1/ Today, someone tried to hack me with a crypto stealer, so I guess I've finally made it
 
 
 ### Post — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
@@ -1544,10 +1705,289 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > 1/ Today, someone tried to hack me with a crypto stealer, so I guess I've finally made it
 >
-> Fortunately, they weren't successful, but all it would've taken was three clicks. Read on to learn about how the attack works, how to protect yourself, and some basic malware analysis🕵️ https://t.co/31qqUoATWL
+> Fortunately, they weren't successful, but all it would've taken was three clicks. Read on to learn about how the attack works, how to protect yourself, and some basic malware analysis🕵️ [pic.x.com/31qqUoATWL]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FW4Iw_lVUAAUtnA.jpg — no alt text provided by author
+
+
+### Thread part 2 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186152692813824
+- Metrics (at fetch): bookmark 13, impression 0, like 254, quote 9, reply 28, retweet 13
+
+> 2/ The first step is to create an urgent and compelling hook. When placed under pressure, even trained security professionals might act instinctively instead of rationally. This DM does both.
+>
+> If you clicked the link, then you're only two clicks away from being pwned [pic.x.com/0BSe5Tao4o]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW33L_hVQAE9YAt.png — no alt text provided by author
+
+
+### Thread part 3 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186153800085504
+- Metrics (at fetch): bookmark 0, impression 0, like 196, quote 2, reply 6, retweet 8
+
+> 3/ Clicking the link automatically downloads this file to your computer. Once again, this is compelling - who is cryptogeng.eth, and what exactly does the statement claim?
+>
+> If you open the download, then you're one click away from being pwned [pic.x.com/4eo8ozCoZu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW37cmKVsAAUMOn.png — no alt text provided by author
+
+
+### Thread part 4 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186154898956290
+- Metrics (at fetch): bookmark 5, impression 0, like 218, quote 6, reply 9, retweet 15
+
+> 4/ There are two files in the archive. If you have file extensions enabled, then you'll see the first as a URL. If you don't, then you'll see the second as a PDF. Both of these are malicious, and opening either of them would give the attacker full access to your tokens [pic.x.com/PWM7wC0dKP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW38OhPUsAE6POa.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FW38hKqUYAAiPOT.png — no alt text provided by author
+
+
+### Thread part 5 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186155993669632
+- Metrics (at fetch): bookmark 3, impression 0, like 227, quote 1, reply 6, retweet 9
+
+> 5/ So how do you protect yourself? Well, the first step is to recognize when a message looks suspicious. In this case, the phrasing in the DM was very clunky, and it came from an untrusted source. However, you can't always rely on this, since it's trivial to hire a proofreader
+
+
+### Thread part 6 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186156950073347
+- Metrics (at fetch): bookmark 2, impression 0, like 216, quote 0, reply 2, retweet 10
+
+> 6/ The next step is to take a moment to gather your thoughts if you're in an urgent situation. If you're communicating async, you have all the time in the world to respond. If you're on a phone call, ask them to wait. There's almost nothing so urgent that they can't wait 30s
+
+
+### Thread part 7 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186157977595904
+- Metrics (at fetch): bookmark 7, impression 0, like 262, quote 1, reply 1, retweet 12
+
+> 7/ Don't let curiosity get the better of you. It might be tempting to snoop around, but threat actors know this and they'll exploit it. This is also why you should never plug in USBs that you find laying around, or open files named "2021-12-payroll.xlsx". Curiosity killed the cat
+
+
+### Thread part 8 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186159030419457
+- Metrics (at fetch): bookmark 0, impression 0, like 196, quote 1, reply 2, retweet 12
+
+> 8/ Finally, if someone wants you to download and run a program, you should almost always double check if it's legitimate. Once you run a program, it has full access to your computer, so make sure you trust and verify who the program is coming from
+
+
+### Thread part 9 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186160183779328
+- Metrics (at fetch): bookmark 11, impression 0, like 185, quote 3, reply 4, retweet 13
+
+> 9/ Now on to the basic malware analysis. How did I know that this is a crypto stealer without getting hacked? The first step was to pick a sandbox. I chose Docker because I figured some Windows malware probably wouldn't have a Linux container escape if I accidentally ran it [pic.x.com/pKRK6iZdch]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4CVBwVEAIE7-W.png — no alt text provided by author
+
+
+### Thread part 10 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186161362374656
+- Metrics (at fetch): bookmark 1, impression 0, like 145, quote 0, reply 6, retweet 7
+
+> 10/ It turns out the files are chonky [pic.x.com/gf9csPD9aX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4CX5sUYAMC-0E.png — no alt text provided by author
+
+
+### Thread part 11 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186162511630336
+- Metrics (at fetch): bookmark 4, impression 0, like 148, quote 0, reply 3, retweet 7
+
+> 11/ I ran `strings` on the binary to see if anything interesting popped up and it crashed trying to render this seemingly infinite stream of Y [pic.x.com/0dXHzEjmgc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4CF0rVsAEOaiS.png — no alt text provided by author
+
+
+### Thread part 12 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186163962863616
+- Metrics (at fetch): bookmark 3, impression 0, like 134, quote 0, reply 1, retweet 9
+
+> 12/ At this point I figured that the binary itself was obfuscated and the Y garbage was embedded in the program, and I contemplated whether I actually cared enough to continue. However, @gf_256 suggested just checking if the files were right-padded [pic.x.com/hD05IlAu2C]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4C2FHUEAA4Z4L.png — no alt text provided by author
+
+
+### Thread part 13 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186165426696192
+- Metrics (at fetch): bookmark 1, impression 0, like 123, quote 0, reply 1, retweet 8
+
+> 13/ So now I just had to trim off the trailing Y spam [pic.x.com/aDPV7rPnhR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4DxPRUEAAdF-i.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FW4D3OEUEAACSI-.png — no alt text provided by author
+
+
+### Thread part 14 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186166731161600
+- Metrics (at fetch): bookmark 5, impression 0, like 127, quote 0, reply 1, retweet 6
+
+> 14/ At this point, I had two binaries that I could've opened in IDA or Binary Ninja or any other reverse engineering tool. However, no point working harder if I could work smarter [pic.x.com/mxEEclZ3d2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4EFOWUsAA3nCK.png — no alt text provided by author
+
+
+### Thread part 15 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186168408829952
+- Metrics (at fetch): bookmark 49, impression 0, like 211, quote 1, reply 5, retweet 14
+
+> 15/ I dumped both files into @HybridAnalysis and let it run. Sure enough, both files came back malicious [pic.x.com/LDGaLF7swU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4EbZ8UUAA97hy.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FW4Edb1UEAAYXVc.png — no alt text provided by author
+
+
+### Thread part 16 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186169813975040
+- Metrics (at fetch): bookmark 18, impression 0, like 224, quote 5, reply 13, retweet 15
+
+> 16/ Specifically, both files try to:
+> a) steal your wallet data directly
+> b) steal your wallet data from browser extensions
+> c) steal your Discord session token [pic.x.com/UULcTX1Vad]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FW4EmxJUsAAlk2Q.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FW4ExnsVUAATxYu.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FW4E1WRUcAETrEM.png — no alt text provided by author
+
+
+### Thread part 17 — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
+
+- URL: https://x.com/samczsun/status/1544186170971545602
+- Metrics (at fetch): bookmark 17, impression 0, like 570, quote 5, reply 44, retweet 50
+
+> 17/ So there you have it. All it takes is three clicks for a crypto stealer to get your wallets and session tokens, so make sure you watch for red flags in grammar, don't panic when facing an urgent situation, temper your curiosity, and never run software that you don't trust
+
+
+---
+
+## 2022-03-23 · Thread · Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+
+- URL: https://x.com/samczsun/status/1506578902331768832
+- Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
+
+> Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOhsViIVUAEz4tm.jpg — no alt text provided by author
+
+
+### Thread part 2 — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+
+- URL: https://x.com/samczsun/status/1506578904764583940
+- Metrics (at fetch): bookmark 1, impression 0, like 89, quote 1, reply 2, retweet 2
+
+> In order to mint new CASH, you need to deposit some collateral. This cross-program invocation (CPI) will transfer tokens from your account to the protocol's account, but only if the two accounts hold the same type of token. Otherwise, the token program will reject the transfer. https://t.co/r198sYAUHs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOhsw-BVsAElCJc.png — no alt text provided by author
+
+
+### Thread part 3 — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+
+- URL: https://x.com/samczsun/status/1506578906534404101
+- Metrics (at fetch): bookmark 0, impression 0, like 68, quote 1, reply 1, retweet 4
+
+> Here, the protocol validates that the crate_collateral_tokens account hold the right type of token by comparing it with the collateral account. It also verifies the collateral account shares the same token type as the saber_swap.arrow account. https://t.co/L9mnNFifhS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOhs-ddVUAUHkj3.png — no alt text provided by author
+
+
+### Thread part 4 — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+
+- URL: https://x.com/samczsun/status/1506578908207935492
+- Metrics (at fetch): bookmark 4, impression 0, like 92, quote 7, reply 5, retweet 9
+
+> Unfortunately, the mint field on the arrow account is never validated. https://t.co/OSY5ZaGFJY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOhuqLjUYAAU8K2.png — no alt text provided by author
+
+
+### Thread part 5 — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+
+- URL: https://x.com/samczsun/status/1506578909478875136
+- Metrics (at fetch): bookmark 1, impression 0, like 83, quote 1, reply 2, retweet 4
+
+> This means that ultimately, all of this validation is meaningless because there's no trusted root. The attacker just created fake accounts all the way down and then chained it all the way back up until they finally made a fake crate_collateral_tokens account. https://t.co/6OhK0s2jQa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOhuLCFVQAAo70j.jpg — no alt text provided by author
+
+
+### Thread part 6 — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+
+- URL: https://x.com/samczsun/status/1506578911420846085
+- Metrics (at fetch): bookmark 8, impression 0, like 220, quote 2, reply 10, retweet 13
+
+> tl;dr because Cashio didn't establish a root of trust for all of the accounts it used, an attacker was able to steal approximately $50M by forging a chain of fake accounts
+
+
+### Thread part 7 — @samczsun — 2022-03-24 18:08 UTC (2022-03-24 19:08 WAT)
+
+- URL: https://x.com/samczsun/status/1507056753443164171
+- Metrics (at fetch): bookmark 1, impression 0, like 22, quote 0, reply 1, retweet 2
+
+> Turns out this thread is incomplete - here's part two!
+>
+> https://t.co/DJnPDRS3An
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+    
+    - URL: https://x.com/samczsun/status/1507056110934511619
+    - Metrics (at fetch): bookmark 22, impression 0, like 68, quote 1, reply 3, retweet 9
+    
+    > I need to make a correction! Thanks to @madergaser and @siintemal for pointing out that I completely missed the other half of the exploit.
+    >
+    > https://t.co/pRTI1mwXO2
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+        
+        - URL: https://x.com/samczsun/status/1506578902331768832
+        - Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
+        
+        > Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/FOhsViIVUAEz4tm.jpg — no alt text provided by author
+        
+    
 
 
 ---
@@ -1576,25 +2016,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     **Media:**
     - photo: https://pbs.twimg.com/media/FOhsViIVUAEz4tm.jpg — no alt text provided by author
     
-
-
----
-
-## 2022-03-23 · Post · Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
-
-- URL: https://x.com/samczsun/status/1506578902331768832
-- Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
-
-> Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
-
-**Media:**
-- photo: https://pbs.twimg.com/media/FOhsViIVUAEz4tm.jpg — no alt text provided by author
 
 
 ---

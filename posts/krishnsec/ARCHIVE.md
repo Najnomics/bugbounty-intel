@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 178
+- Posts in this file: 180
 - Conversations/threads: 176
 - Oldest post captured: 2021-08-17
 - Newest post captured: 2026-11-04
@@ -1977,7 +1977,15 @@ Tags (automatic): Platform: Bugcrowd
     
 
 
-### Thread part 2 — @krishnsec — 2023-11-06 10:04 UTC (2023-11-06 11:04 WAT)
+### Thread part 2 — @krishnsec — 2023-11-06 09:59 UTC (2023-11-06 10:59 WAT)
+
+- URL: https://x.com/krishnsec/status/1721467285297156193
+- Metrics (at fetch): bookmark 1, impression 5491, like 13, quote 0, reply 3, retweet 0
+
+> keep up the good work @dirtycoder0124 ✌️
+
+
+### Thread part 3 — @krishnsec — 2023-11-06 10:04 UTC (2023-11-06 11:04 WAT)
 
 - URL: https://x.com/krishnsec/status/1721468482317894107
 - Metrics (at fetch): bookmark 0, impression 431, like 2, quote 0, reply 0, retweet 0
@@ -1985,7 +1993,7 @@ Tags (automatic): Platform: Bugcrowd
 > @RootxRavi 😂
 
 
-### Thread part 3 — @krishnsec — 2023-11-06 10:08 UTC (2023-11-06 11:08 WAT)
+### Thread part 4 — @krishnsec — 2023-11-06 10:08 UTC (2023-11-06 11:08 WAT)
 
 - URL: https://x.com/krishnsec/status/1721469504738255250
 - Metrics (at fetch): bookmark 0, impression 227, like 0, quote 0, reply 0, retweet 0
@@ -2202,7 +2210,7 @@ Tags (automatic): XSS, Account takeover, Platform: Bugcrowd
 
 ---
 
-## 2023-06-24 · Post · To beginners,
+## 2023-06-24 · Thread · To beginners,
 
 
 ### Post — @krishnsec — 2023-06-24 07:29 UTC (2023-06-24 08:29 WAT)
@@ -2217,6 +2225,14 @@ Tags (automatic): XSS, Account takeover, Platform: Bugcrowd
 >
 > Shoot ur question directly- I see 98% questions which can solved by google 
 > And u wasting time in testing our google skills :)
+
+
+### Thread part 2 — @krishnsec — 2023-06-24 07:29 UTC (2023-06-24 08:29 WAT)
+
+- URL: https://x.com/krishnsec/status/1672507222461673473
+- Metrics (at fetch): bookmark 1, impression 4319, like 4, quote 2, reply 2, retweet 0
+
+> @ReebootToInit5 @bug_vs_me
 
 
 ---

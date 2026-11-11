@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 56
-- Conversations/threads: 35
+- Posts in this file: 99
+- Conversations/threads: 61
 - Oldest post captured: 2021-11-11
 - Newest post captured: 2024-11-14
 
@@ -479,7 +479,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-10-09 · Post · 1/ [DEVCON 🇨🇴] @0xPARC is hosting two sessions on Autonomous Worlds and on-chain games at Devcon Bog
+## 2022-10-09 · Thread · 1/ [DEVCON 🇨🇴] @0xPARC is hosting two sessions on Autonomous Worlds and on-chain games at Devcon Bog
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -493,12 +493,51 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > 1/ [DEVCON 🇨🇴] @0xPARC is hosting two sessions on Autonomous Worlds and on-chain games at Devcon Bogotá this coming week, joined by @latticexyz , @d_fdao, @movingcastles_ and more. Read on to see what we have in store 🧵
 
 
+### Thread part 2 — @0xPARC — 2022-10-09 22:36 UTC (2022-10-09 23:36 WAT)
+
+- URL: https://x.com/0xPARC/status/1579239455055302656
+- Metrics (at fetch): bookmark 4, impression 0, like 25, quote 3, reply 1, retweet 1
+
+> 2/ AW Arcade: running on Wednesday Oct 12th from 4pm to 7pm Colombia time. Participants will be able to try their hands on two new Autonomous World projects built by @latticexyz using MUD: an on-chain 3D voxel world and a real-time strategy game. 
+> info: https://0xparc.notion.site/Autonomous-Worlds-Arcade-602eb2b16e3f455397cfbb218b0b7843 [pic.x.com/Y1Jwz1pq2q]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeqU3xaWAAAUsF9.jpg — no alt text provided by author
+
+**Links in post:** https://0xparc.notion.site/Autonomous-Worlds-Arcade-602eb2b16e3f455397cfbb218b0b7843
+
+
+### Thread part 3 — @0xPARC — 2022-10-09 22:36 UTC (2022-10-09 23:36 WAT)
+
+- URL: https://x.com/0xPARC/status/1579239460889571328
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 0, reply 2, retweet 1
+
+> 3/ AW SLS: running on Fri Oct 14th from 10am to 3:30pm. Join us for sessions including a panel with @kevinjho_, @justinglibert, @_alvarius and @gubsheep on the technical frontiers of AWs and rollups, lighting talks, demos, and and introduction to MUD
+> info: https://0xparc.notion.site/Autonomous-Worlds-SLS-612ff18a99f54594806776971b5a8ec6 [pic.x.com/nCtNn0kfTI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeqVSbCWYAAFGMR.jpg — no alt text provided by author
+
+**Links in post:** https://0xparc.notion.site/Autonomous-Worlds-SLS-612ff18a99f54594806776971b5a8ec6
+
+
+### Thread part 4 — @0xPARC — 2022-10-09 22:36 UTC (2022-10-09 23:36 WAT)
+
+- URL: https://x.com/0xPARC/status/1579239464047894533
+- Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 0, retweet 2
+
+> END/ PSA @d_fdao and @darkforest_eth are co-hosting “A night in the Dark Forest” on Tuesday Oct 11th from 4.30pm to 8pm local time. This is a DF community meetup, with talks and panels from players and devs, as well as a new DF gamenmode by dfdao.
+> info: https://cha0sg0d.notion.site/A-Night-in-the-Dark-Forest-Info-c513e699034f4f81ae1c6f1322aa3860
+
+**Links in post:** https://cha0sg0d.notion.site/A-Night-in-the-Dark-Forest-Info-c513e699034f4f81ae1c6f1322aa3860
+
+
 ---
 
-## 2022-08-24 · Post · 1/ [New Post] zkPairing Part 2: Technical Explainer
+## 2022-08-24 · Thread · 1/ [New Post] zkPairing Part 2: Technical Explainer
 
 
-Tags (automatic): ZK
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 
 ### Post — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
@@ -510,7 +549,81 @@ Tags (automatic): ZK
 >
 > @jonathanpwang, @vvhuang_, and @theyisun explain some of the techniques and optimizations behind circom-pairing, many of which are drawn from prior work in zk-ECDSA.
 >
-> https://t.co/zvBsVxMr8V
+> https://0xparc.org/blog/zk-pairing-2
+
+**Links in post:** https://0xparc.org/blog/zk-pairing-2
+
+
+### Thread part 2 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545149455921152
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> 2/ Our starting point is an implementation of "non-native" or "wrong" field arithmetic based on the one in zk-ECDSA which allows us to simulate operations on the prime fields of BLS12-381 and BN254 in Circom.
+>
+> https://github.com/0xPARC/circom-ecdsa
+
+**Links in post:** https://github.com/0xPARC/circom-ecdsa
+
+
+### Thread part 3 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545150936567813
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 3/ To define pairings, we generalize these finite field implementations to *field extensions*, since we must consider elliptic curve groups over these more complicated mathematical objects.  We also implement elliptic curve arithmetic over these field extensions.
+
+
+### Thread part 4 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545152245215233
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 4/ Computing the Tate and optimal Ate pairings divides into 2 steps.  The first, the Miller loop, involves multiplying field extension elements given by "line functions" on the curve.  We use optimizations from non-ZK implementations such as twisting and denominator reduction.
+
+
+### Thread part 5 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545153717387264
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 5/ The second step, final exponentiation, involves taking a field extension element to a 4317-bit exponent.  This is too large for the standard square-and-multiply algorithm to handle.  We instead use optimizations based on the Frobenius operator and cyclotomic compression.
+
+
+### Thread part 6 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545155617370114
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 6/ To put everything together to implement a BLS signature check, we check a pairing equality by using a glued Miller loop and implement the complicated hashing to curve algorithm for BLS12-381 inside our SNARK to reduce on-chain gas cost.
+
+
+### Thread part 7 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545157940989953
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 1
+
+> 7/ Most of these optimizations are adaptations of techniques from the "standard" cryptography literature to our more unusual circuit context, and it was interesting to evaluate their impact in our new cost model.  We have documented them in our repo.
+>
+> https://github.com/yi-sun/circom-pairing/blob/master/docs/README.md
+
+**Links in post:** https://github.com/yi-sun/circom-pairing/blob/master/docs/README.md
+
+
+### Thread part 8 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545159383818241
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> 8/ With the help of @nibnalin, we were also able to modify these circuits for pairings on the BN254 curve. This has opened up a path for recursive Groth16 verification, which will be discussed in future posts.
+
+
+### Thread part 9 — @0xPARC — 2022-08-24 20:59 UTC (2022-08-24 21:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1562545160709234688
+- Metrics (at fetch): bookmark 1, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> 9/ This project was built as a part of the 0xPARC ZK ID Working Group, with additional support from the @0xZKxZK Gitcoin grant. The team is also extremely grateful to @jbaylina, the creator of circom/snarkjs, for help and insights on how to effectively build large circuits.
 
 
 ---
@@ -695,7 +808,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-04-20 · Post · The agenda for this weekend's Applied ZK Workshop at @EFDevconnect is now available online. Featurin
+## 2022-04-20 · Thread · The agenda for this weekend's Applied ZK Workshop at @EFDevconnect is now available online. Featurin
 
 
 Tags (automatic): ZK
@@ -708,7 +821,23 @@ Tags (automatic): ZK
 
 > The agenda for this weekend's Applied ZK Workshop at @EFDevconnect is now available online. Featuring demos, presentations, and workshops on circuit primitives, proof-of-concept applications, tooling and infra, circuit verification, and more. (1/2)
 >
-> https://t.co/UAoVGFRs9j
+> https://zkworkshop.info/agenda
+
+**Links in post:** https://zkworkshop.info/agenda
+
+
+### Thread part 2 — @0xPARC — 2022-04-20 16:55 UTC (2022-04-20 17:55 WAT)
+
+- URL: https://x.com/0xPARC/status/1516822773083119618
+- Metrics (at fetch): bookmark 2, impression 0, like 19, quote 1, reply 0, retweet 4
+
+> For those who aren't able to attend in-person, morning sessions will be streamed and recorded at the link below.
+>
+> Thanks to our co-hosts from Ethereum @PrivacyScaling @EFDevconnect teams for making this event possible! (2/2)
+>
+> https://streameth.tv/event/applied-zk
+
+**Links in post:** https://streameth.tv/event/applied-zk
 
 
 ---
@@ -725,6 +854,22 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 3, retweet 1
 
 > We've sent responses to everyone who applied to attend the Applied ZK Showcase at @EFDevconnect. If you haven't received a response from us or someone from EF @PrivacyScaling, please check your spam folder!
+
+
+---
+
+## 2022-03-21 · Post · Areas of focus include ZK app design patterns, identity primitives, tooling and infra, and auditing 
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-03-21 01:28 UTC (2022-03-21 02:28 WAT)
+
+- URL: https://x.com/0xPARC/status/1505718066633908225
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Areas of focus include ZK app design patterns, identity primitives, tooling and infra, and auditing and verification for ZK apps. The event will feature talks, demos, workshops, and breakout groups led by ecosystem teams. (3/n)
 
 
 ---
@@ -881,6 +1026,386 @@ Tags (automatic): ZK
 
 ---
 
+## 2022-02-15 · Post · Kudos to @0xB07DAD for pointing out the flaw within hours of the team's post. Updated versions of St
+
+
+### Post — @0xPARC — 2022-02-15 21:58 UTC (2022-02-15 22:58 WAT)
+
+- URL: https://x.com/0xPARC/status/1493706418444288003
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Kudos to @0xB07DAD for pointing out the flaw within hours of the team's post. Updated versions of StealthDrop, as well as a practical demonstration of the exploit, are coming soon! (24/24)
+
+
+---
+
+## 2022-02-15 · Post · All of this highlights the value and importance of building in public. Opening up work to public ins
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:58 UTC (2022-02-15 22:58 WAT)
+
+- URL: https://x.com/0xPARC/status/1493706387154776069
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 1
+
+> All of this highlights the value and importance of building in public. Opening up work to public inspection helps the community rapidly iterate on zk app design patterns and builds trust in the long run. (23/n)
+
+
+---
+
+## 2022-02-15 · Post · (This means that someone could modify a StealthDrop airdrop to @darkforest_eth players to be claimab
+
+
+### Post — @0xPARC — 2022-02-15 21:58 UTC (2022-02-15 22:58 WAT)
+
+- URL: https://x.com/0xPARC/status/1493706339415121921
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> (This means that someone could modify a StealthDrop airdrop to @darkforest_eth players to be claimable efficiently in a Dark Forest plugin! If anyone is interested, we'd be happy to provide guidance here...) (22/n)
+
+
+---
+
+## 2022-02-15 · Post · As an aside, private keys used for burner wallets (as in @darkforest_eth) can probably be used direc
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:58 UTC (2022-02-15 22:58 WAT)
+
+- URL: https://x.com/0xPARC/status/1493706302308208643
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 1
+
+> As an aside, private keys used for burner wallets (as in @darkforest_eth) can probably be used directly in ZK proofs without substantially weakening the security model--Dark Forest clients are already running ZK proofs in an environment where burner keys are accessible. (21/n)
+
+
+---
+
+## 2022-02-15 · Post · Hard, but potentially doable! As hinted at in the StealthDrop README, some teams are exploring this 
+
+
+### Post — @0xPARC — 2022-02-15 21:58 UTC (2022-02-15 22:58 WAT)
+
+- URL: https://x.com/0xPARC/status/1493706242950324228
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Hard, but potentially doable! As hinted at in the StealthDrop README, some teams are exploring this right now. (20/n)
+>
+> https://t.co/uwGlv6kFoN
+
+
+---
+
+## 2022-02-15 · Post · This also means that proving can likely happen in browser, rather than requiring the user to spin up
+
+
+### Post — @0xPARC — 2022-02-15 21:58 UTC (2022-02-15 22:58 WAT)
+
+- URL: https://x.com/0xPARC/status/1493706202588528643
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> This also means that proving can likely happen in browser, rather than requiring the user to spin up a proving server (or relying on StealthDrop's open-source proving server). (19/n)
+
+
+---
+
+## 2022-02-15 · Post · Advantages: having access to the private key means that StealthDrop can use the much smaller PrivToP
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:57 UTC (2022-02-15 22:57 WAT)
+
+- URL: https://x.com/0xPARC/status/1493706144749174789
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Advantages: having access to the private key means that StealthDrop can use the much smaller PrivToPub ZK circuit, which proves that you have a private key corresponding to an ETH address. This circuit is ~20x smaller than ECDSAVerify (18/n).
+>
+> https://t.co/BDgR1bzCP7
+
+
+---
+
+## 2022-02-15 · Post · Challenges: security-wise, ZK proving that accesses private keys should ideally run "inside" the ext
+
+
+Tags (automatic): ZK, TEE / enclave
+
+
+### Post — @0xPARC — 2022-02-15 21:56 UTC (2022-02-15 22:56 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705915257733128
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 2, retweet 0
+
+> Challenges: security-wise, ZK proving that accesses private keys should ideally run "inside" the extension enclave of most browser wallets. We need to figure out how to use ZKP browser-friendly libraries like snarkjs inside i.e. MetaMask snaps. (17/n)
+>
+> https://t.co/RmJdlS5RVC
+
+
+---
+
+## 2022-02-15 · Post · StealthDrop initially chose to generate ZK proofs on signatures so that they wouldn't have to intera
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:56 UTC (2022-02-15 22:56 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705879753052164
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> StealthDrop initially chose to generate ZK proofs on signatures so that they wouldn't have to interact with private keys directly. Enabling ZK proof generation securely on private keys comes with additional challenges, but also some major advantages. (16/n)
+
+
+---
+
+## 2022-02-15 · Post · What's the fix? We'd like the nullifier to be a deterministic function of the skey--for example, usi
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:56 UTC (2022-02-15 22:56 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705830499291144
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> What's the fix? We'd like the nullifier to be a deterministic function of the skey--for example, using Hash("Claim", skey) as a nullifier. In order to do so, the user's client must be able to generate a ZK proof on the user's private key directly. (15/n)
+
+
+---
+
+## 2022-02-15 · Post · @0xB07DAD demonstrates some code for a proof-of-concept of the exploit here. (14/n)
+
+
+### Post — @0xPARC — 2022-02-15 21:56 UTC (2022-02-15 22:56 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705791626428421
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @0xB07DAD demonstrates some code for a proof-of-concept of the exploit here. (14/n)
+>
+> https://t.co/j2DISGgPGh
+
+
+---
+
+## 2022-02-15 · Post · A malicious claimer could use their raw private key to generate alternate signatures, producing mult
+
+
+### Post — @0xPARC — 2022-02-15 21:56 UTC (2022-02-15 22:56 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705750916608013
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> A malicious claimer could use their raw private key to generate alternate signatures, producing multiple nullifiers for the same claim. This means that a malicious claimer could withdraw the same airdrop claim multiple times! (13/n)
+
+
+---
+
+## 2022-02-15 · Post · So while signature generation is usually implemented in a deterministic fashion, signature verificat
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:56 UTC (2022-02-15 22:56 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705715961282560
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> So while signature generation is usually implemented in a deterministic fashion, signature verification can't enforce this. There are multiple nullifiers that will pass the ZK checks attempting to constrain Hash(ECDSASig("Claim", skey)). (12/n)
+
+
+---
+
+## 2022-02-15 · Post · The standard for this behavior is called "deterministic ECDSA," but "deterministic" specifically ref
+
+
+### Post — @0xPARC — 2022-02-15 21:55 UTC (2022-02-15 22:55 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705617269309440
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> The standard for this behavior is called "deterministic ECDSA," but "deterministic" specifically refers to signature generation, not verification. (12/n)
+>
+> https://t.co/k5YQcb9GBY
+
+
+---
+
+## 2022-02-15 · Post · However, the confusion came from the fact that most signature-generation algorithms implemented in p
+
+
+### Post — @0xPARC — 2022-02-15 21:55 UTC (2022-02-15 22:55 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705571345866758
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 2, retweet 0
+
+> However, the confusion came from the fact that most signature-generation algorithms implemented in practice will *generate* signature deterministically, to prevent randomness issues. When you sign the same message twice with MetaMask, you get the same signature. (11/n)
+
+
+---
+
+## 2022-02-15 · Post · The problem is that ECDSA is not a "deterministic" signature algorithm. One could hypothetically gen
+
+
+### Post — @0xPARC — 2022-02-15 21:55 UTC (2022-02-15 22:55 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705519336464385
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> The problem is that ECDSA is not a "deterministic" signature algorithm. One could hypothetically generate multiple different signatures for the same message and private key, all of which would be valid. (10/n)
+
+
+---
+
+## 2022-02-15 · Post · The ostensible goal of this nullifier function is to produce a unique ID corresponding to each priva
+
+
+### Post — @0xPARC — 2022-02-15 21:54 UTC (2022-02-15 22:54 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705177165144069
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> The ostensible goal of this nullifier function is to produce a unique ID corresponding to each private key in the airdrop claim set. For those who are familiar with ECDSA - can you see the issue? (spoilers in the next tweet) (9/n)
+
+
+---
+
+## 2022-02-15 · Post · To dig a little deeper, a secret value `sig` (assumed to equal ECDSASig("Claim", skey)) is proved (i
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:54 UTC (2022-02-15 22:54 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705175948836868
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> To dig a little deeper, a secret value `sig` (assumed to equal ECDSASig("Claim", skey)) is proved (in ZK) to be such that the ECDSAVerify(sig) algorithm accepts. (8/n)
+>
+> https://t.co/QEBRTWdIAJ
+
+
+---
+
+## 2022-02-15 · Post · To avoid handling private keys in an untrusted environment, StealthDrop performs ID proofs using mes
+
+
+### Post — @0xPARC — 2022-02-15 21:53 UTC (2022-02-15 22:53 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705030888833033
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 1, reply 1, retweet 0
+
+> To avoid handling private keys in an untrusted environment, StealthDrop performs ID proofs using message signatures, rather than private keys (skeys). It attempts to define its nullifier function as nullifier = Hash(sig), where sig = ECDSASig("Claim", skey). (7/n) https://t.co/k8s6uF2Q87
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FLq0yxQWUAY8OP0.jpg — no alt text provided by author
+
+
+---
+
+## 2022-02-15 · Post · Requiring and recording nullifiers from users who are claiming an airdrop or a TornadoCash deposit a
+
+
+### Post — @0xPARC — 2022-02-15 21:53 UTC (2022-02-15 22:53 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705027457896452
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Requiring and recording nullifiers from users who are claiming an airdrop or a TornadoCash deposit allows you to prevent double-claims. If you see the same nullifier twice, you know that someone is trying to double-claim an entry (though you won't know which one). (6/n)
+
+
+---
+
+## 2022-02-15 · Post · Nullifiers have these three properties:
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:53 UTC (2022-02-15 22:53 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705026316951555
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Nullifiers have these three properties:
+> (1) It is impossible to figure out *which* entry a particular nullifier ID corresponds to.
+> (2) it is possible to ZK prove that a nullifier corresponds to some entry in the set.
+> (3) For each entry, a unique nullifier can be computed.
+>
+> (5/n)
+
+
+---
+
+## 2022-02-15 · Post · Now, onto the vulnerability. StealthDrop, like @TornadoCash and Semaphore, records user "nullifiers"
+
+
+### Post — @0xPARC — 2022-02-15 21:53 UTC (2022-02-15 22:53 WAT)
+
+- URL: https://x.com/0xPARC/status/1493705025385906179
+- Metrics (at fetch): bookmark 4, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> Now, onto the vulnerability. StealthDrop, like @TornadoCash and Semaphore, records user "nullifiers" to prevent double-spends. You can think of a nullifier as a unique ID generated for for each entry in the anonymity set. (4/n)
+
+
+---
+
+## 2022-02-15 · Post · these demonstrations are NOT appropriate for use in production-grade code. For more ZK applications 
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:52 UTC (2022-02-15 22:52 WAT)
+
+- URL: https://x.com/0xPARC/status/1493704741171482624
+- Metrics (at fetch): bookmark 2, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> these demonstrations are NOT appropriate for use in production-grade code. For more ZK applications to become production-ready, we'll need to build an ecosystem of auditors, reviewers, and verification tools. (3/n)
+>
+> https://t.co/dq3LEnevWS
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+    
+    - URL: https://x.com/0xPARC/status/1490895571032625152
+    - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 1, retweet 0
+    
+    > More work is needed in order to make circom-ECDSA ready for production-grade usage. We'll discuss these in more depth in a future post.
+    >
+    > Here are three directions for further work: (7/n)
+    
+
+
+---
+
+## 2022-02-15 · Post · First, to repeat - community projects like this are *highly experimental* and *not suited for produc
+
+
+### Post — @0xPARC — 2022-02-15 21:52 UTC (2022-02-15 22:52 WAT)
+
+- URL: https://x.com/0xPARC/status/1493704682669322242
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> First, to repeat - community projects like this are *highly experimental* and *not suited for production-grade use* (yet!). We share community projects and encourage teams to open-source these projects for feedback and for educational value, but... (2/n)
+>
+> https://t.co/ugfDrFNlVH
+
+**Quoted post** 1493364782015123462: not readable via the API (deleted, private, or withheld).
+
+
+---
+
 ## 2022-02-15 · Post · Earlier today, @0xB07DAD pointed out a flaw in the current StealthDrop system that allows users to d
 
 
@@ -915,6 +1440,21 @@ Tags (automatic): ZK
 > (post in README of github repo)
 >
 > https://t.co/RtbrMAGMF8
+
+
+---
+
+## 2022-02-08 · Post · More work is needed in order to make circom-ECDSA ready for production-grade usage. We'll discuss th
+
+
+### Post — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895571032625152
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 1, retweet 0
+
+> More work is needed in order to make circom-ECDSA ready for production-grade usage. We'll discuss these in more depth in a future post.
+>
+> Here are three directions for further work: (7/n)
 
 
 ---
@@ -994,7 +1534,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2021-11-11 · Post · (1/n) 0xPARC: Applied ZK Learning Group
+## 2021-11-11 · Thread · (1/n) 0xPARC: Applied ZK Learning Group
 
 
 Tags (automatic): ZK
@@ -1009,4 +1549,54 @@ Tags (automatic): ZK
 >
 > Developers from Ethereum Foundation and 0xPARC are facilitating a small "applied ZK learning group" for engineers interested in learning about zero-knowledge cryptography and its applications. 
 >
-> Apply by Fri Nov 19 https://t.co/ylkYnKlocq
+> Apply by Fri Nov 19 https://airtable.com/shrViKjgmJZIrvVuo
+
+**Links in post:** https://airtable.com/shrViKjgmJZIrvVuo
+
+
+### Thread part 2 — @0xPARC — 2021-11-11 21:23 UTC (2021-11-11 22:23 WAT)
+
+- URL: https://x.com/0xPARC/status/1458908386557263872
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 1
+
+> We'll run virtual speaker sessions and workshops, and help you build a ZK crypto project, from November 22 - December 22. No prior crypto experience is required, but a strong engineering background and familiarity with topics in basic discrete mathematics is recommended. (2/n)
+
+
+### Thread part 3 — @0xPARC — 2021-11-11 21:24 UTC (2021-11-11 22:24 WAT)
+
+- URL: https://x.com/0xPARC/status/1458908424792522774
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 1
+
+> You'll spend ~10-15hr/wk reading, interacting with ZK crypto systems, and eventually building a ZK crypto project of your choosing, aided by mentors and speakers from the 0xPARC community and Ethereum Foundation. (3/n)
+
+
+### Thread part 4 — @0xPARC — 2021-11-11 21:24 UTC (2021-11-11 22:24 WAT)
+
+- URL: https://x.com/0xPARC/status/1458908509756538899
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 1
+
+> The purpose of this program is to help you learn to build with ZK crypto. This program is meant to be something in between "class about applied crypto", "talk series", and "reading and building with ZK crypto in a self-driven way with guidance." (4/n)
+
+
+### Thread part 5 — @0xPARC — 2021-11-11 21:24 UTC (2021-11-11 22:24 WAT)
+
+- URL: https://x.com/0xPARC/status/1458908604543614981
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 1, retweet 1
+
+> If you're interested, fill out the above-linked form by Friday, November 19th. The program is free; learn more about topics and program content at the link below. (5/n)
+>
+> https://0xparc.org/blog/zk-learning-group
+
+**Links in post:** https://0xparc.org/blog/zk-learning-group
+
+
+### Thread part 6 — @0xPARC — 2021-11-11 21:26 UTC (2021-11-11 22:26 WAT)
+
+- URL: https://x.com/0xPARC/status/1458908989069017103
+- Metrics (at fetch): bookmark 3, impression 0, like 12, quote 0, reply 0, retweet 2
+
+> For a sample of program content, check out the notion document below. (6/6)
+>
+> https://0xparc.notion.site/ZK-Learning-Group-Topics-f53933eecc2f41438c6c2bdd5b42ee2d
+
+**Links in post:** https://0xparc.notion.site/ZK-Learning-Group-Topics-f53933eecc2f41438c6c2bdd5b42ee2d

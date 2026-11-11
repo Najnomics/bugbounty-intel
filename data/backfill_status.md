@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-11 10:26 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-11 10:29 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -13,75 +13,75 @@ Updated 2026-11-11 10:26 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @KeiZo_Zo | 24 | 24 | 2022-09-26 |
 | @Shanon40439853 | 24 | 24 | 2023-07-24 |
 | @bbarwik | 32 | 32 | 2018-09-22 |
-| @0xteddav | 24 | 36 | 2022-06-24 |
 | @0xvivekd | 35 | 37 | 2025-11-11 |
+| @0xteddav | 24 | 41 | 2022-06-24 |
 | @jovanbulck | 31 | 43 | 2018-04-16 |
 | @Swartz068 | 44 | 44 | 2024-12-30 |
 | @0xiczc | 45 | 45 | 2017-05-31 |
 | @PwningEth | 53 | 53 | 2022-06-18 |
-| @0xPARC | 25 | 56 | 2021-11-11 |
-| @str4d | – | 57 | 2013-09-06 |
 | @usmannk | 48 | 58 | 2023-08-16 |
 | @keterka | 59 | 59 | 2025-10-25 |
-| @Neodyme | 16 | 62 | 2021-12-03 |
+| @str4d | – | 59 | 2013-09-06 |
 | @lavados | 25 | 65 | 2014-06-13 |
-| @kevin_mizu | 40 | 66 | 2021-09-11 |
 | @brandon_shi | 68 | 68 | 2021-06-04 |
+| @kevin_mizu | 40 | 69 | 2021-09-11 |
 | @naresh_1337 | 69 | 69 | 2026-05-22 |
-| @Guhu95 | 30 | 72 | 2023-08-19 |
+| @Guhu95 | 30 | 73 | 2023-08-19 |
 | @j00ru | 38 | 75 | 2011-07-12 |
 | @deadrosesxyz | 32 | 78 | 2023-03-14 |
 | @_bagipro | 84 | 84 | 2020-08-16 |
 | @_blockian | 86 | 86 | 2023-03-03 |
 | @csanuragjain | 53 | 87 | 2018-11-14 |
 | @Piki_eth | 49 | 91 | 2024-09-21 |
-| @Kiki_developer | 44 | 93 | 2023-01-26 |
-| @samczsun | 53 | 96 | 2020-03-13 |
-| @RootxRavi | 27 | 99 | 2022-10-11 |
+| @Neodyme | 16 | 96 | 2021-12-03 |
+| @0xPARC | 25 | 99 | 2021-11-11 |
+| @RootxRavi | 27 | 101 | 2022-10-11 |
+| @Kiki_developer | 44 | 105 | 2023-01-26 |
 | @Suryesh_92 | 99 | 105 | 2024-05-10 |
-| @osec_io | 22 | 105 | 2022-03-23 |
+| @osec_io | 22 | 118 | 2022-03-23 |
 | @SuyashS91823422 | 82 | 120 | 2021-10-06 |
 | @kobigurk | 45 | 121 | 2014-01-16 |
 | @orange_8361 | 45 | 124 | 2016-04-21 |
 | @infinitelogins | 33 | 125 | 2020-01-17 |
-| @Assass1nmarcos | 45 | 132 | 2018-11-24 |
+| @samczsun | 53 | 132 | 2020-03-13 |
+| @Assass1nmarcos | 45 | 134 | 2018-11-24 |
 | @asymmetric_re | 137 | 137 | 2024-01-29 |
 | @WhiteHatMage | 134 | 142 | 2025-12-02 |
-| @kankodu | 57 | 142 | 2022-07-26 |
 | @bluethroat_labs | 146 | 146 | 2025-12-02 |
 | @farazsth98 | 78 | 147 | 2019-09-30 |
 | @ma1fan | 44 | 152 | 2018-07-19 |
-| @lonelysloth_sec | 50 | 161 | 2023-12-17 |
+| @kankodu | 57 | 166 | 2022-07-26 |
 | @zksecurityXYZ | 121 | 171 | 2023-07-02 |
 | @fransrosen | 57 | 174 | 2011-06-29 |
 | @xssdoctor | 156 | 174 | 2023-07-10 |
-| @krishnsec | 26 | 178 | 2021-08-17 |
-| @asanso | 67 | 180 | 2011-01-30 |
+| @lonelysloth_sec | 50 | 175 | 2023-12-17 |
+| @krishnsec | 26 | 180 | 2021-08-17 |
+| @asanso | 67 | 181 | 2011-01-30 |
 | @samwcyo | 31 | 198 | 2017-02-12 |
 | @ryotkak | 161 | 199 | 2019-05-29 |
 | @0xacb | 109 | 206 | 2014-01-05 |
-| @0xriptide | 48 | 210 | 2014-07-21 |
-| @pcaversaccio | 37 | 216 | 2022-06-18 |
-| @cmichelio | 181 | 232 | 2016-07-31 |
-| @trailofbits | 65 | 238 | 2012-04-03 |
-| @infosec_au | 51 | 239 | 2015-07-16 |
-| @ajxchapman | 26 | 244 | 2013-03-23 |
-| @zellic_io | 27 | 301 | 2022-01-27 |
+| @0xriptide | 48 | 211 | 2014-07-21 |
+| @pcaversaccio | 37 | 233 | 2022-06-18 |
+| @cmichelio | 181 | 238 | 2016-07-31 |
+| @infosec_au | 51 | 240 | 2015-07-16 |
+| @trailofbits | 65 | 243 | 2012-04-03 |
+| @ajxchapman | 26 | 247 | 2013-03-23 |
 | @galnagli | 68 | 302 | 2020-07-24 |
 | @albinowax | 59 | 329 | 2011-03-08 |
-| @zseano | 47 | 388 | 2015-08-11 |
-| @DevDacian | 32 | 403 | 2023-02-23 |
-| @Rhynorater | 188 | 411 | 2017-06-13 |
+| @zellic_io | 27 | 353 | 2022-01-27 |
+| @zseano | 47 | 391 | 2015-08-11 |
+| @DevDacian | 32 | 404 | 2023-02-23 |
+| @Rhynorater | 188 | 412 | 2017-06-13 |
 | @anchabadze | 94 | 460 | 2025-02-05 |
 | @S1r1u5_ | 66 | 462 | 2017-02-26 |
-| @garethheyes | 59 | 531 | 2008-10-22 |
+| @garethheyes | 59 | 532 | 2008-10-22 |
 | @irsdl | 35 | 570 | 2010-05-25 |
 | @mdp_sec | 586 | 589 | 2026-07-22 |
 | @saxenism | 651 | 652 | 2024-10-01 |
 | @ChainLight_io | 150 | 1081 | 2022-11-05 |
-| @NahamSec | 176 | 1106 | 2016-09-01 |
+| @NahamSec | 176 | 1110 | 2016-09-01 |
 
-Total: 5581 → 14100
+Total: 5581 → 14389
 
 ## Search cursors (pass 5, until_id paging)
 

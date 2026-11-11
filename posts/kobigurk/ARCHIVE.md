@@ -1605,7 +1605,9 @@ Tags (automatic): ZK
     > Disappointing disclosure post. It does not explain:
     > - The bug.
     > - Its impact (that every single transaction on Secret Network v1, past and future, can be decrypted if the bug was exploited).
-    > - Reasons for belief that it was not exploited. https://t.co/zw2xpiPSmG
+    > - Reasons for belief that it was not exploited. https://twitter.com/SecretNetwork/status/1597636628369268737
+    
+    **Links in post:** https://twitter.com/SecretNetwork/status/1597636628369268737
     
     **Quoted post (full text):**
     

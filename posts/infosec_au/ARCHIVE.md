@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 239
+- Posts in this file: 240
 - Conversations/threads: 222
 - Oldest post captured: 2015-07-16
 - Newest post captured: 2026-11-07
@@ -2842,7 +2842,10 @@ Tags (automatic): SSRF
 
 ---
 
-## 2021-09-21 · Post · Amazing writeup on finding a vulnerability through .NET reversing, enjoyed reading about the breakpo
+## 2021-09-21 · Thread · Amazing writeup on finding a vulnerability through .NET reversing, enjoyed reading about the breakpo
+
+
+Tags (automatic): RCE
 
 
 ### Post — @infosec_au — 2021-09-21 09:02 UTC (2021-09-21 10:02 WAT)
@@ -2850,7 +2853,17 @@ Tags (automatic): SSRF
 - URL: https://x.com/infosec_au/status/1440239966840233996
 - Metrics (at fetch): bookmark 119, impression 0, like 433, quote 1, reply 2, retweet 143
 
-> Amazing writeup on finding a vulnerability through .NET reversing, enjoyed reading about the breakpoints that were set and how they logically owned Citrix ShareFile through a third party dependency  https://t.co/2MusGNSz60
+> Amazing writeup on finding a vulnerability through .NET reversing, enjoyed reading about the breakpoints that were set and how they logically owned Citrix ShareFile through a third party dependency  https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html
+
+**Links in post:** https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html
+
+
+### Thread part 2 — @infosec_au — 2021-09-21 09:05 UTC (2021-09-21 10:05 WAT)
+
+- URL: https://x.com/infosec_au/status/1440240772683472910
+- Metrics (at fetch): bookmark 2, impression 0, like 24, quote 0, reply 0, retweet 1
+
+> Often the trickiest part is tracing a vulnerability from source to sink, this article explains how they were able to do that and exactly what breakpoints they set in the process. I bet setting up this software was probably just as difficult as finding the vulnerability though lol
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 49
+- Posts in this file: 96
+- Conversations/threads: 51
 - Oldest post captured: 2021-12-03
 - Newest post captured: 2026-04-17
 
@@ -612,7 +612,7 @@ Tags (automatic): Path normalization
 
 ---
 
-## 2024-03-15 · Post · An innovation in LST swapping, a new smart contract framework and a state corruption bug:
+## 2024-03-15 · Thread · An innovation in LST swapping, a new smart contract framework and a state corruption bug:
 
 
 Tags (automatic): Smart contract / DeFi
@@ -628,9 +628,148 @@ Tags (automatic): Smart contract / DeFi
 > Join us for a deeper look into our recent pre-launch audit of @sanctumso's new Infinity protocol. And into why multiple audits are important 👇
 
 
+### Thread part 2 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776642116116614
+- Metrics (at fetch): bookmark 0, impression 703, like 1, quote 0, reply 1, retweet 0
+
+> @sanctumso has recently launched their new Infinity protocol. Basically, it's a big swap pool with various Liquid Staking Tokens (such as mSOL, jitoSOL, laineSOL,...). Each LST is priced exactly to the value you could unstake it for.
+>
+> The program is written in Sanctum's new IDL-first framework, **Ideally**
+
+
+### Thread part 3 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776644800495805
+- Metrics (at fetch): bookmark 0, impression 571, like 1, quote 0, reply 1, retweet 0
+
+> It uses a modular multi-program structure. A main controller program calls different programs to determine LST prices and calculate fees. They can be switched out to change the fee structure, or to add new LSTs. [pic.x.com/M8KAm1cD3C]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIvzh-OW8AAqI8v.png — no alt text provided by author
+
+
+### Thread part 4 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776647690293655
+- Metrics (at fetch): bookmark 0, impression 508, like 1, quote 0, reply 1, retweet 0
+
+> Our audit was the third audit of all programs before the launch. The code quality was excellent, and it was obvious that the sanctum developers had been extremely diligent. Despite that, we were able to find one high-severity vulnerability that others missed... [pic.x.com/tRINiUoAt8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIvznekWoAEcH63.png — no alt text provided by author
+
+
+### Thread part 5 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776649770709224
+- Metrics (at fetch): bookmark 0, impression 494, like 1, quote 0, reply 1, retweet 0
+
+> The main contract of the protocol holds all funds, with one token account per supported LST. It tracks the exact sum of the SOL value of all of these holdings in order to know how to price the protocol's LP token.
+
+
+### Thread part 6 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776651523903727
+- Metrics (at fetch): bookmark 0, impression 487, like 1, quote 0, reply 1, retweet 0
+
+> In order to track this sum, the protocol has a PDA that stores a list of each supported LST, including the total value of the protocol's holdings in the LST. 
+> One of the invariants that must be maintained is that no LST appears twice in this list.
+
+
+### Thread part 7 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776653818188113
+- Metrics (at fetch): bookmark 0, impression 642, like 1, quote 0, reply 1, retweet 0
+
+> We found a way this invariant could be violated, and the protocol drained as a result. 
+> The bug was in an admin-only instruction to remove support for an LST by deleting the entry from the LST list. It was implemented incorrectly, leading to accidental exploitable state corruption.
+
+
+### Thread part 8 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776656682881061
+- Metrics (at fetch): bookmark 0, impression 312, like 2, quote 0, reply 1, retweet 0
+
+> The LST removal instruction removes an entry from the LST list by copying all entries after it one position to the left and dropping the last entry. Below is the relevant code. Can you spot the bug? [pic.x.com/Z4fr0VtCCH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIvz1ZOXUAEe_SB.png — no alt text provided by author
+
+
+### Thread part 9 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776659749019968
+- Metrics (at fetch): bookmark 0, impression 245, like 2, quote 0, reply 1, retweet 0
+
+> The bug is simple: The destination of the pointer copy is incorrect. The instruction simply copies the entries to the front of the list, instead of one to the left. The bug was likely missed by others due to confusion with the variable names. [pic.x.com/Mv8i1JG2rz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIvz54oWgAAzkC_.jpg — no alt text provided by author
+
+
+### Thread part 10 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776662613643388
+- Metrics (at fetch): bookmark 0, impression 221, like 0, quote 0, reply 1, retweet 0
+
+> Hence, if the remove LST instruction were ever used, instead of removing the entry, it would have overwritten entries at the start of the list with copies of later entries. This violates the invariant, and messes up tracking of the total value of protocol holdings.
+
+
+### Thread part 11 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776664907939925
+- Metrics (at fetch): bookmark 0, impression 203, like 1, quote 0, reply 1, retweet 0
+
+> An attacker could have easily exploited this to repeatedly mess with the total value tracking and drain the protocol: A clear loss-of-funds bug. However, since it must be (accidentally) triggered by the admin, we assigned it high instead of critical severity.
+
+
+### Thread part 12 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776666665423215
+- Metrics (at fetch): bookmark 0, impression 213, like 2, quote 0, reply 1, retweet 0
+
+> Want to read about our assessment of the overall security, our discussion of the protocol’s economic security and the authority structure, and much more? The audit report is now available at https://learn.sanctum.so/docs/security.
+
+**Links in post:** https://learn.sanctum.so/docs/security
+
+
+### Thread part 13 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776668800270815
+- Metrics (at fetch): bookmark 0, impression 661, like 2, quote 0, reply 1, retweet 0
+
+> State corruption vulnerabilities are one of the most dangerous classes of bugs. Just last August, @cypher_protocol was exploited due to a state corruption bug in their margin account system. Read our thread here: https://x.com/Neodyme/status/1690066210417967105
+
+**Links in post:** https://x.com/Neodyme/status/1690066210417967105
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+    
+    - URL: https://x.com/Neodyme/status/1690066210417967105
+    - Metrics (at fetch): bookmark 22, impression 18108, like 77, quote 5, reply 1, retweet 24
+    
+    > Cypher protocol was exploited for over $1 million. But how?
+    >
+    > Here’s the main idea for what the attacker did, and why it worked 👇🏻 [pic.x.com/CqFjz6k2fW]
+    
+    **Media:**
+    - media `3_1690064166357467137` (details not returned by the API)
+    
+
+
+### Thread part 14 — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776671123898531
+- Metrics (at fetch): bookmark 0, impression 434, like 5, quote 0, reply 0, retweet 0
+
+> We’re happy to have caught the bug before @sanctumso’s Infinity launch and will continue to help secure the ecosystem through audits, reviews, and educational threads like these. Follow us for more.
+
+
 ---
 
-## 2024-03-13 · Post · Ever wonder what happens when you let the world's best auditors loose on a program written by Solana
+## 2024-03-13 · Thread · Ever wonder what happens when you let the world's best auditors loose on a program written by Solana
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -643,10 +782,49 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > Ever wonder what happens when you let the world's best auditors loose on a program written by Solana OGs? 
 >
-> Our audit report for @sanctumso's Infinity protocol is now public. ♾ https://t.co/a74CpwDCEL
+> Our audit report for @sanctumso's Infinity protocol is now public. ♾ [pic.x.com/a74CpwDCEL]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GIlWBRsXwAAuTXZ.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Neodyme — 2024-03-13 22:21 UTC (2024-03-13 23:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1768039765339693282
+- Metrics (at fetch): bookmark 0, impression 307, like 2, quote 0, reply 1, retweet 0
+
+> We did a full and comprehensive audit of all Infinity programs during January, making the protocol even more secure 🤝
+
+
+### Thread part 3 — @Neodyme — 2024-03-13 22:21 UTC (2024-03-13 23:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1768039766992261627
+- Metrics (at fetch): bookmark 0, impression 335, like 1, quote 0, reply 1, retweet 0
+
+> What is Infinity? 
+> Basically, a big pool of various Liquid Staking Tokens (such as mSOL, bSOL, jitoSOL, laineSOL,...). 
+> Each LST is priced exactly to its on-chain value and they can be swapped with minimal fees. 
+> No slippage, no orderbook spread.
+
+
+### Thread part 4 — @Neodyme — 2024-03-13 22:21 UTC (2024-03-13 23:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1768039768808444142
+- Metrics (at fetch): bookmark 0, impression 302, like 1, quote 0, reply 2, retweet 0
+
+> The protocol is written in Sanctum's new IDL-first framework called Ideally and uses a modular multi-program structure. This makes it easy to add support for new LSTs in the future.
+
+
+### Thread part 5 — @Neodyme — 2024-03-13 22:21 UTC (2024-03-13 23:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1768039770595226023
+- Metrics (at fetch): bookmark 1, impression 275, like 2, quote 0, reply 1, retweet 0
+
+> This report dives deep into the inner workings of the Infinity protocol. 
+> We examined program security, economic design, the authority structure, and many other aspects. 
+> Read it here: https://learn.sanctum.so/docs/security
+
+**Links in post:** https://learn.sanctum.so/docs/security
 
 
 ---
@@ -837,6 +1015,24 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F81oAFzW0AA9rh0.png — no alt text provided by author
+
+
+---
+
+## 2023-08-11 · Post · Cypher protocol was exploited for over $1 million. But how?
+
+
+### Post — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066210417967105
+- Metrics (at fetch): bookmark 22, impression 18108, like 77, quote 5, reply 1, retweet 24
+
+> Cypher protocol was exploited for over $1 million. But how?
+>
+> Here’s the main idea for what the attacker did, and why it worked 👇🏻 [pic.x.com/CqFjz6k2fW]
+
+**Media:**
+- media `3_1690064166357467137` (details not returned by the API)
 
 
 ---
@@ -1098,7 +1294,7 @@ Tags (automatic): Path normalization, Memory corruption / native
 
 ---
 
-## 2022-11-15 · Post · Many dApps need on-chain randomness. But how can you efficiently obtain true randomness in a decent
+## 2022-11-15 · Thread · Many dApps need on-chain randomness. But how can you efficiently obtain true randomness in a decent
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1112,9 +1308,84 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Many dApps need on-chain #randomness. But how can you efficiently obtain true randomness in a decentralised, trustless system? It turns out that this is an unsolved problem. Current solutions, including Verifiable Random Functions (VRFs), have fundamental issues. 🧵👇
 
 
+### Thread part 2 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553927450378240
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 2, retweet 0
+
+> As a result of this, most on-chain gambling or casino contracts are either vulnerable or centralised. In our latest blog post, we explore one of the most promising ways to solve this: Verifiable Delay Functions. (Warning: Maths)
+> https://blog.neodyme.io/posts/secure-randomness-part-2/
+>
+> Here's a quick summary:
+
+**Links in post:** https://blog.neodyme.io/posts/secure-randomness-part-2/
+
+
+### Thread part 3 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553929987878913
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> What are Verifiable Delay Functions (VDFs)? Put simply, they're functions whose evaluation involves a large number of sequential steps, but whose result can be verified very quickly.
+
+
+### Thread part 4 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553932613632000
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> How does this help for producing on-chain randomness? Well, one of the fundamental problems for crowdsourcing randomness on-chain is that anyone submitting inputs knows the inputs that were submitted before them.
+
+
+### Thread part 5 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553935310450688
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> As a result, the last participant to submit their input has a large degree of control over the output. For details on this, see our first blog post of this series: https://blog.neodyme.io/posts/secure-randomness-part-1/
+
+**Links in post:** https://blog.neodyme.io/posts/secure-randomness-part-1/
+
+
+### Thread part 6 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553938313613313
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> VDFs prevent this.
+> Their output is hard to predict &amp; slow to compute, but easy to verify.
+> We can use their output as a seed for our random output.
+>
+> By only allowing user input before the output of the VDF is known, participants cannot predict how their input changes the output.
+
+
+### Thread part 7 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553940855402496
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> However, it's not clear whether a true VDF exists. In our blog post, we examine one of the best candidates, and also discuss what's needed to implement it on-chain.
+
+
+### Thread part 8 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553943355166721
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> We think on-chain randomness is one of the most important problems in the blockchain space, which is why it's so surprising that most current solutions are fundamentally lacking. By publishing this blog post, we hope to contribute to solving this.
+
+
+### Thread part 9 — @Neodyme — 2022-11-15 16:23 UTC (2022-11-15 17:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1592553945989144576
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 1
+
+> Big thanks to @BenjWeso and @bramcohen for answering our questions on this one!
+
+
 ---
 
-## 2022-11-12 · Post · Who **actually** controls the largest projects on solana? What's the deal with Upgrade Authorities?
+## 2022-11-12 · Thread · Who **actually** controls the largest projects on solana? What's the deal with Upgrade Authorities?
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
@@ -1128,6 +1399,53 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Who **actually** controls the largest projects on #solana? What's the deal with Upgrade Authorities? Are your funds more safu in DeFi contracts than they were on #FTX?
 >
 > Let's find out 🧵👇
+
+
+### Thread part 2 — @Neodyme — 2022-11-12 18:23 UTC (2022-11-12 19:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496810643668992
+- Metrics (at fetch): bookmark 1, impression 0, like 26, quote 0, reply 2, retweet 0
+
+> We gave a talk at #Breakpoint @SolanaConf about this topic last week. Follow us to get notified once it's online!
+
+
+### Thread part 3 — @Neodyme — 2022-11-14 18:58 UTC (2022-11-14 19:58 WAT)
+
+- URL: https://x.com/Neodyme/status/1592230496636833793
+- Metrics (at fetch): bookmark 2, impression 0, like 2, quote 1, reply 0, retweet 0
+
+> @SolanaConf UPDATE: The talk is now online! https://x.com/Neodyme/status/1592230224682397697
+
+**Links in post:** https://x.com/Neodyme/status/1592230224682397697
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Neodyme — 2022-11-14 18:57 UTC (2022-11-14 19:57 WAT)
+    
+    - URL: https://x.com/Neodyme/status/1592230224682397697
+    - Metrics (at fetch): bookmark 3, impression 0, like 5, quote 2, reply 1, retweet 0
+    
+    > The video of our talk on upgrade authorities is now up: https://www.youtube.com/watch?v=zaDdEeZXvtw&t=5575s
+    > 🎥 🍿
+    
+    **Links in post:** https://www.youtube.com/watch?v=zaDdEeZXvtw&t=5575s
+    
+
+
+---
+
+## 2022-11-14 · Post · The video of our talk on upgrade authorities is now up: https://www.youtube.com/watch?v=zaDdEeZXvtw&
+
+
+### Post — @Neodyme — 2022-11-14 18:57 UTC (2022-11-14 19:57 WAT)
+
+- URL: https://x.com/Neodyme/status/1592230224682397697
+- Metrics (at fetch): bookmark 3, impression 0, like 5, quote 2, reply 1, retweet 0
+
+> The video of our talk on upgrade authorities is now up: https://www.youtube.com/watch?v=zaDdEeZXvtw&t=5575s
+> 🎥 🍿
+
+**Links in post:** https://www.youtube.com/watch?v=zaDdEeZXvtw&t=5575s
 
 
 ---
@@ -1167,10 +1485,10 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-04-04 · Post · We believe every software project should clearly communicate its bug bounty policies and how to get 
+## 2022-04-04 · Thread · We believe every software project should clearly communicate its bug bounty policies and how to get 
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @Neodyme — 2022-04-04 11:23 UTC (2022-04-04 12:23 WAT)
@@ -1182,9 +1500,27 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > https://t.co/1aBxqEY0Yo
 
 
+### Thread part 2 — @Neodyme — 2022-04-04 11:23 UTC (2022-04-04 12:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1510941152366714883
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> This data helps researchers to get in touch with you, even if they only have your program id. 
+> We recently had trouble finding contact information for multiple smart contracts. This project has been born out of that very real frustration.
+
+
+### Thread part 3 — @Neodyme — 2022-04-04 11:23 UTC (2022-04-04 12:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1510941155466354688
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 0
+
+> Check out https://t.co/jTcoRHas8S for an example.
+> We've also provided you with bounty policies templates in our repository to make it as easy as possible to get going.
+
+
 ---
 
-## 2021-12-03 · Post · We recently discovered a critical bug in the token-lending contract of the solana-program-library (S
+## 2021-12-03 · Thread · We recently discovered a critical bug in the token-lending contract of the solana-program-library (S
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1196,3 +1532,29 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 99, impression 0, like 683, quote 58, reply 35, retweet 140
 
 > We recently discovered a critical bug in the token-lending contract of the solana-program-library (SPL). This blog post details our journey from discovery, through exploitation and coordinated disclosure, and finally the fix.
+
+
+### Thread part 2 — @Neodyme — 2021-12-03 21:41 UTC (2021-12-03 22:41 WAT)
+
+- URL: https://x.com/Neodyme/status/1466885444285698060
+- Metrics (at fetch): bookmark 0, impression 0, like 90, quote 7, reply 2, retweet 3
+
+> The total TVL at risk was about 2.600.000.000 USD. Some of that value is lent out, and some other low-value coins are not economically viable to steal, but the potential profit was easily in the hundreds of millions.
+
+
+### Thread part 3 — @Neodyme — 2021-12-03 21:41 UTC (2021-12-03 22:41 WAT)
+
+- URL: https://x.com/Neodyme/status/1466885445225263115
+- Metrics (at fetch): bookmark 1, impression 0, like 90, quote 2, reply 2, retweet 3
+
+> The bug was fixed, and dapps updated promptly to close the vulnerability. We believe the most secure code is open-source, and as auditors we believe one of the best ways to write better code is to understand vulnerabilities.
+
+
+### Thread part 4 — @Neodyme — 2021-12-03 21:41 UTC (2021-12-03 22:41 WAT)
+
+- URL: https://x.com/Neodyme/status/1466885446277943299
+- Metrics (at fetch): bookmark 35, impression 0, like 177, quote 8, reply 6, retweet 26
+
+> As such, we’ve written up a dive into how this vulnerability could have been exploited, and how we found it: https://blog.neodyme.io/posts/lending_disclosure
+
+**Links in post:** https://blog.neodyme.io/posts/lending_disclosure

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 66
+- Posts in this file: 69
 - Conversations/threads: 58
 - Oldest post captured: 2021-09-11
 - Newest post captured: 2026-10-28
@@ -817,7 +817,7 @@ Tags (automatic): CSP / CSPT
 
 ---
 
-## 2025-02-10 · Post · I'm very happy to finally share the second part of my DOMPurify security research 🔥
+## 2025-02-10 · Thread · I'm very happy to finally share the second part of my DOMPurify security research 🔥
 
 
 ### Post — @kevin_mizu — 2025-02-10 17:53 UTC (2025-02-10 18:53 WAT)
@@ -835,9 +835,19 @@ Tags (automatic): CSP / CSPT
 > 1/2
 
 
+### Thread part 2 — @kevin_mizu — 2025-02-10 17:53 UTC (2025-02-10 18:53 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1889009909896995247
+- Metrics (at fetch): bookmark 2, impression 2408, like 21, quote 0, reply 0, retweet 1
+
+> I would like to thank @cure53berlin, @IcesFont, @Geluchat, @_Worty, @PikuHaku, @monkehack, and @Rhynorater (I hope I'm not missing anyone) for reviewing this article 🙏
+>
+> 2/2
+
+
 ---
 
-## 2025-02-07 · Post · Thanks to the recent @PortSwigger top 10, I finally found the motivation to finish writing the 2nd a
+## 2025-02-07 · Thread · Thanks to the recent @PortSwigger top 10, I finally found the motivation to finish writing the 2nd a
 
 
 ### Post — @kevin_mizu — 2025-02-07 16:32 UTC (2025-02-07 17:32 WAT)
@@ -856,6 +866,22 @@ Tags (automatic): CSP / CSPT
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GjMsl0bXYAATdsI.jpg — no alt text provided by author
+
+
+### Thread part 2 — @kevin_mizu — 2025-02-07 16:32 UTC (2025-02-07 17:32 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1887902201881780684
+- Metrics (at fetch): bookmark 1, impression 1039, like 9, quote 0, reply 0, retweet 0
+
+> This is probably not the most realistic challenge, but I find the tricks behind it quite interesting!
+>
+> Rules 📜
+> - You should only use the provided endpoint.
+> - The solution must not involve user interaction.
+>
+> If you find the solution, please send me a DM 📩
+>
+> 2/2
 
 
 ---
@@ -1012,7 +1038,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-05-11 · Post · Really proud of those bypass/mXSS variations. They involve some cool second-order DOM Clobbering and
+## 2024-05-11 · Thread · Really proud of those bypass/mXSS variations. They involve some cool second-order DOM Clobbering and
 
 
 ### Post — @kevin_mizu — 2024-05-11 11:27 UTC (2024-05-11 12:27 WAT)
@@ -1027,6 +1053,18 @@ Tags (automatic): XSS
 **Links in post:** https://twitter.com/cure53berlin/status/1789242798417281358
 
 **Quoted post** 1789242798417281358: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @kevin_mizu — 2024-05-11 11:28 UTC (2024-05-11 12:28 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1789256347743137963
+- Metrics (at fetch): bookmark 2, impression 10255, like 24, quote 3, reply 4, retweet 0
+
+> It was fun looking for bugs with @ryotkak, @hash_kitten, @joaxcar, @TheGrandPew and @IcesFont 😁
+>
+> As always, thanks to @cure53berlin for the reactivity 🙏
+>
+> 2/2
 
 
 ---

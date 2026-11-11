@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 216
+- Posts in this file: 233
 - Conversations/threads: 204
 - Oldest post captured: 2022-06-18
 - Newest post captured: 2026-09-03
@@ -1813,7 +1813,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2023-09-08 · Post · So there is a 0-day, zero-click vulnerability for the latest version of iOS (16.6). Just by receivin
+## 2023-09-08 · Thread · So there is a 0-day, zero-click vulnerability for the latest version of iOS (16.6). Just by receivin
 
 
 Tags (automatic): Mobile / Android / iOS
@@ -1829,6 +1829,17 @@ Tags (automatic): Mobile / Android / iOS
 **Media:**
 - photo: https://pbs.twimg.com/media/F5gPq_FWwAA1dPR.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/F5gQJPIW0AAg8lR.jpg — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2023-09-08 13:06 UTC (2023-09-08 14:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1700133474470953159
+- Metrics (at fetch): bookmark 1, impression 1214, like 1, quote 0, reply 1, retweet 0
+
+> Some references:
+> - https://t.co/hR2XmPQ2OM
+> - https://t.co/7I243Z2E0D
+> - https://t.co/RnWOkzNVYd
 
 
 ---
@@ -3104,7 +3115,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2023-02-07 · Post · 1/ guys, it would be an understatement to say I'm only slightly proud. 11,813 SLOC, 359 unit tests, 
+## 2023-02-07 · Thread · 1/ guys, it would be an understatement to say I'm only slightly proud. 11,813 SLOC, 359 unit tests, 
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @pcaversaccio — 2023-02-07 10:15 UTC (2023-02-07 11:15 WAT)
@@ -3116,6 +3130,51 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FoWwbOeXwAEPBrU.png — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2023-02-07 10:15 UTC (2023-02-07 11:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622901886641635329
+- Metrics (at fetch): bookmark 0, impression 942, like 6, quote 0, reply 1, retweet 1
+
+> 2/ It was not an easy feat, +6,261 SLOC have been added and −1,367 SLOC removed (as part of a refactoring). I'm grateful @riksucks who co-authored the fuzz tests for `CreateAddress` and `Create2Address`🙏🏽. FYI, I'm using the latest "unreleased" forge invariant features.
+
+
+### Thread part 3 — @pcaversaccio — 2023-02-07 10:15 UTC (2023-02-07 11:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622901888822771712
+- Metrics (at fetch): bookmark 0, impression 852, like 8, quote 0, reply 1, retweet 0
+
+> 3/ What I try to achieve with 🐍 snekmate is to help easily onboard engineers to the world of Vyper. What is important to emphasise is that I do not optimise for coverage, but optimise for well-designed tests. Security is priority number one, not gas efficiency! So what is next?
+
+
+### Thread part 4 — @pcaversaccio — 2023-02-07 10:15 UTC (2023-02-07 11:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622901890592698371
+- Metrics (at fetch): bookmark 3, impression 1061, like 8, quote 0, reply 1, retweet 1
+
+> 4/ Before I will release version `0.0.1`, I will implement my version of ERC-4626. I encourage anyone that is interested, to look into my code and help me build the foundations for Vyper-based smart contracts. The contribution guidelines are found here: https://github.com/pcaversaccio/snekmate/blob/main/CONTRIBUTING.md
+
+**Links in post:** https://github.com/pcaversaccio/snekmate/blob/main/CONTRIBUTING.md
+
+
+### Thread part 5 — @pcaversaccio — 2023-02-07 10:15 UTC (2023-02-07 11:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622901892547223553
+- Metrics (at fetch): bookmark 0, impression 944, like 10, quote 0, reply 0, retweet 1
+
+> 5/ Last but not least I want to thank all the contributors so far: @jtriley_eth, @JAGsPOSTs, @0xYamen, @mattsse_, @big_tech_sux, @riksucks. You're all badass! [pic.x.com/HhgrOi2ziq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoWzD4nWcAA6DJr.jpg — no alt text provided by author
+
+
+### Thread part 6 — @pcaversaccio — 2023-02-07 11:10 UTC (2023-02-07 12:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622915682689069058
+- Metrics (at fetch): bookmark 0, impression 42, like 1, quote 0, reply 1, retweet 0
+
+> @gjaldon Also, much of the inline assembly done in Solidity should be actually the compiler's job.
 
 
 ---
@@ -3239,7 +3298,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2023-01-28 · Post · The issue that multiple precompiles return null values instead of appropriate reverts is a bug not a
+## 2023-01-28 · Thread · The issue that multiple precompiles return null values instead of appropriate reverts is a bug not a
 
 
 ### Post — @pcaversaccio — 2023-01-28 11:22 UTC (2023-01-28 12:22 WAT)
@@ -3248,6 +3307,14 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 4, impression 9076, like 34, quote 0, reply 7, retweet 3
 
 > The issue that multiple precompiles return null values instead of appropriate reverts is a bug not a feature. Most famous example is `ecrecover` that returns zero on an error (e.g. too short signature). Null returns are footguns that must be checked in code.
+
+
+### Thread part 2 — @pcaversaccio — 2023-01-28 14:23 UTC (2023-01-28 15:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1619340475009474561
+- Metrics (at fetch): bookmark 0, impression 31, like 1, quote 0, reply 1, retweet 0
+
+> @reimao42 @jtriley_eth That's the name of the footgun itself
 
 
 ---
@@ -3956,7 +4023,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-08-02 · Post · ooops that looks ugly @Reaper_Farm. I think that's the first exploit of an  ERC-4626 vault (please c
+## 2022-08-02 · Thread · ooops that looks ugly @Reaper_Farm. I think that's the first exploit of an  ERC-4626 vault (please c
 
 
 ### Post — @pcaversaccio — 2022-08-02 13:01 UTC (2022-08-02 14:01 WAT)
@@ -3972,6 +4039,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FZKFBhhX0AMmlJw.jpg — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2022-08-02 13:01 UTC (2022-08-02 14:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554452415713353730
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> On the positive side, 10% of user funds were saved by white-hatting the contracts.
 
 
 ---
@@ -4185,16 +4260,18 @@ Tags (automatic): Smart contract / DeFi
     - Metrics (at fetch): bookmark 375, impression 0, like 810, quote 10, reply 32, retweet 176
     
     > As part of my effort to prevent reentrancy attacks at the (Solidity) language level, I compiled a list of known reentrancy attacks. I'm pretty sure this list is incomplete - so anyone who is aware of another reentrancy attack, please comment on the issue:
-    > https://t.co/qChwQg918F https://t.co/WlfMaBAYom
+    > https://github.com/ethereum/solidity/issues/12996#issuecomment-1187381059 [pic.x.com/WlfMaBAYom]
     
     **Media:**
     - photo: https://pbs.twimg.com/media/FX84YyKXwAAWD-2.png — no alt text provided by author
+    
+    **Links in post:** https://github.com/ethereum/solidity/issues/12996#issuecomment-1187381059
     
 
 
 ---
 
-## 2022-07-18 · Post · As part of my effort to prevent reentrancy attacks at the (Solidity) language level, I compiled a li
+## 2022-07-18 · Thread · As part of my effort to prevent reentrancy attacks at the (Solidity) language level, I compiled a li
 
 
 Tags (automatic): Smart contract / DeFi
@@ -4206,10 +4283,80 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): bookmark 375, impression 0, like 810, quote 10, reply 32, retweet 176
 
 > As part of my effort to prevent reentrancy attacks at the (Solidity) language level, I compiled a list of known reentrancy attacks. I'm pretty sure this list is incomplete - so anyone who is aware of another reentrancy attack, please comment on the issue:
-> https://t.co/qChwQg918F https://t.co/WlfMaBAYom
+> https://github.com/ethereum/solidity/issues/12996#issuecomment-1187381059 [pic.x.com/WlfMaBAYom]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FX84YyKXwAAWD-2.png — no alt text provided by author
+
+**Links in post:** https://github.com/ethereum/solidity/issues/12996#issuecomment-1187381059
+
+
+### Thread part 2 — @pcaversaccio — 2022-07-18 13:20 UTC (2022-07-18 14:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549021333408849922
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 2, retweet 0
+
+> Tagging some folks in the following who could help or RT so we can complete the list: @BlockSecTeam @peckshield @HalbornSecurity @chain_security @trailofbits @CertiK @banteg @samczsun @Mudit__Gupta
+
+
+### Thread part 3 — @pcaversaccio — 2022-07-18 17:54 UTC (2022-07-18 18:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549090285002571777
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @0xHarrisL Great idea 💡
+
+
+### Thread part 4 — @pcaversaccio — 2022-07-18 22:04 UTC (2022-07-18 23:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549153251941093376
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> @delete_shitcoin can you share a link to the analysis (if possible)?
+
+
+### Thread part 5 — @pcaversaccio — 2022-07-18 22:05 UTC (2022-07-18 23:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549153466353958914
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> @delete_shitcoin happy to include it if there is somewhere sort of quick analysis what exactly happened
+
+
+### Thread part 6 — @pcaversaccio — 2022-07-19 05:46 UTC (2022-07-19 06:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549269498372526086
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> @0xHarrisL https://github.com/pcaversaccio/reentrancy-attacks
+
+**Links in post:** https://github.com/pcaversaccio/reentrancy-attacks
+
+
+### Thread part 7 — @pcaversaccio — 2022-07-19 05:49 UTC (2022-07-19 06:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549270280001970176
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @a_permenev It should be a real exploit
+
+
+### Thread part 8 — @pcaversaccio — 2022-07-19 06:06 UTC (2022-07-19 07:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549274555922907138
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @a_permenev Can also be a white hat exploit
+
+
+### Thread part 9 — @pcaversaccio — 2022-07-19 06:44 UTC (2022-07-19 07:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549283913775865856
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> @0xArbiter @0xHarrisL I use it always as part of my CI: https://github.com/pcaversaccio/create2deployer/blob/main/.github/workflows/test-contracts.yml#L41
+
+**Links in post:** https://github.com/pcaversaccio/create2deployer/blob/main/.github/workflows/test-contracts.yml#L41
 
 
 ---
@@ -4287,7 +4434,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-06-20 · Post · Ok some serious tweet: Hertzbleed is a new family of side-channel attacks which may allow attackers 
+## 2022-06-20 · Thread · Ok some serious tweet: Hertzbleed is a new family of side-channel attacks which may allow attackers 
 
 
 ### Post — @pcaversaccio — 2022-06-20 15:39 UTC (2022-06-20 16:39 WAT)
@@ -4295,7 +4442,17 @@ Tags (automatic): ZK
 - URL: https://x.com/pcaversaccio/status/1538909377578651649
 - Metrics (at fetch): bookmark 1, impression 0, like 8, quote 1, reply 1, retweet 0
 
-> Ok some serious tweet: Hertzbleed is a new family of side-channel attacks which may allow attackers to extract cryptographic keys from remote servers. Hertzbleed is tracked under CVE-2022-23823 &amp; CVE-2022-24436 in the CVE system. Intel &amp; AMD are affected. https://t.co/0NWkUAazQq
+> Ok some serious tweet: Hertzbleed is a new family of side-channel attacks which may allow attackers to extract cryptographic keys from remote servers. Hertzbleed is tracked under CVE-2022-23823 &amp; CVE-2022-24436 in the CVE system. Intel &amp; AMD are affected. https://www.hertzbleed.com/
+
+**Links in post:** https://www.hertzbleed.com/
+
+
+### Thread part 2 — @pcaversaccio — 2022-06-20 15:39 UTC (2022-06-20 16:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1538909379591917577
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> I don't want to spread misinformation here, but under certain circumstances, some multisigs are at risk! @Mudit__Gupta maybe it would be good to analyse which of the multisigs could be potentially affected - because if we don't do it Lazarus Group will do it for sure...
 
 
 ---

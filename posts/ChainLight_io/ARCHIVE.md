@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
-- Conversations/threads: 328
+- Conversations/threads: 326
 - Oldest post captured: 2022-11-05
 - Newest post captured: 2025-04-21
 
@@ -24096,38 +24096,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-02-28 · Post · Our team has experience in EVM &amp; CosmWasm and can perform thorough smart contract audits. Check 
+## 2023-02-28 · Thread · ⚔️ Cross-chain lending platforms must ensure the value of assets on other chains. Oracles are essent
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
-
-
-### Post — @ChainLight_io — 2023-02-28 13:00 UTC (2023-02-28 14:00 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1630553540656791553
-- Metrics (at fetch): bookmark 0, impression 328, like 3, quote 0, reply 0, retweet 0
-
-> Our team has experience in EVM &amp; CosmWasm and can perform thorough smart contract audits. Check out our thread and contact us for audit services! 👀
->
-> ✨ Visit our website! 👉 https://t.co/GkmAcCPZ5A https://t.co/d7c1Zz71Gk
-
-**Quoted post (full text):**
-
-    #### Quoted post — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
-    
-    - URL: https://x.com/ChainLight_io/status/1629090480930816005
-    - Metrics (at fetch): bookmark 0, impression 899, like 5, quote 1, reply 1, retweet 0
-    
-    > 3/ ☄️ We are listed on the @Ethereum Foundation's Leaderboard for finding vulnerabilities in Ethereum, the world's largest smart contract-enabled blockchain. Juno Im, who is the lead researcher on our team, is on the leaderboard. #Ethereum #BugBounty https://t.co/z2ddjQ1VwZ
-    
-
-
----
-
-## 2023-02-28 · Post · ⚔️ Cross-chain lending platforms must ensure the value of assets on other chains. Oracles are essent
-
-
-Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @ChainLight_io — 2023-02-28 13:00 UTC (2023-02-28 14:00 WAT)
@@ -24137,7 +24109,9 @@ Tags (automatic): Smart contract / DeFi
 
 > ⚔️ Cross-chain lending platforms must ensure the value of assets on other chains. Oracles are essential for proper value transfer.
 >
-> Will ERC-20 assets be added? An additional smart contract audit may be needed. @KAVA_CHAIN @hard_protocol #KAVA #smartcontract #Web3 https://t.co/rwqG3KxT3Q
+> Will ERC-20 assets be added? An additional smart contract audit may be needed. @KAVA_CHAIN @hard_protocol #KAVA #smartcontract #Web3 https://twitter.com/hard_protocol/status/1630365209079476226
+
+**Links in post:** https://twitter.com/hard_protocol/status/1630365209079476226
 
 **Quoted post (full text):**
 
@@ -24154,30 +24128,33 @@ Tags (automatic): Smart contract / DeFi
     
 
 
----
+### Thread part 2 — @ChainLight_io — 2023-02-28 13:00 UTC (2023-02-28 14:00 WAT)
 
-## 2023-02-27 · Post · 👏 Meet our Web3 security champions! We've dominated Web2/Web3 CTFs and mastered bug bounties. We bui
+- URL: https://x.com/ChainLight_io/status/1630553540656791553
+- Metrics (at fetch): bookmark 0, impression 328, like 3, quote 0, reply 0, retweet 0
 
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @ChainLight_io — 2023-02-27 08:04 UTC (2023-02-27 09:04 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1630116686115270656
-- Metrics (at fetch): bookmark 0, impression 282, like 6, quote 0, reply 0, retweet 0
-
-> 👏 Meet our Web3 security champions! We've dominated Web2/Web3 CTFs and mastered bug bounties. We build on our foundational knowledge of EVM &amp; CosmWasm to protect multi-billion-dollor assets. BUIDL on BASE. We can help you!
+> Our team has experience in EVM &amp; CosmWasm and can perform thorough smart contract audits. Check out our thread and contact us for audit services! 👀
 >
-> Unleash our secret weapons 👉 https://t.co/TIeO7UMWoS https://t.co/mSSgp1JK0Y
+> ✨ Visit our website! 👉 http://chainlight.io https://twitter.com/ChainLight_io/status/1629090480930816005
 
-**Media:**
-- photo: https://pbs.twimg.com/media/Fp9We3RaMAAun3b.jpg — no alt text provided by author
+**Links in post:** http://chainlight.io, https://twitter.com/ChainLight_io/status/1629090480930816005
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1629090480930816005
+    - Metrics (at fetch): bookmark 0, impression 899, like 5, quote 1, reply 1, retweet 0
+    
+    > 3/ ☄️ We are listed on the @Ethereum Foundation's Leaderboard for finding vulnerabilities in Ethereum, the world's largest smart contract-enabled blockchain. Juno Im, who is the lead researcher on our team, is on the leaderboard. #Ethereum #BugBounty https://ethereum.org/en/bug-bounty/#leaderboard
+    
+    **Links in post:** https://ethereum.org/en/bug-bounty/#leaderboard
+    
 
 
 ---
 
-## 2023-02-27 · Post · 🚀 Congratulations to @Coinbase on entering Ethereum L2! We believe all services entering the BASE ec
+## 2023-02-27 · Thread · 🚀 Congratulations to @Coinbase on entering Ethereum L2! We believe all services entering the BASE ec
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
@@ -24188,7 +24165,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 - URL: https://x.com/ChainLight_io/status/1630116674644107264
 - Metrics (at fetch): bookmark 0, impression 811, like 9, quote 0, reply 1, retweet 0
 
-> 🚀 Congratulations to @Coinbase on entering Ethereum L2! We believe all services entering the BASE ecosystem should undergo a trusted smart contract audit. Can we help you achieve your secret master plan? 👀 #Ethereum #smartcontracts #BASE @BuildOnBase https://t.co/5ewYUxJvkD
+> 🚀 Congratulations to @Coinbase on entering Ethereum L2! We believe all services entering the BASE ecosystem should undergo a trusted smart contract audit. Can we help you achieve your secret master plan? 👀 #Ethereum #smartcontracts #BASE @BuildOnBase https://twitter.com/base/status/1629225746731237388
+
+**Links in post:** https://twitter.com/base/status/1629225746731237388
 
 **Quoted post (full text):**
 
@@ -24206,6 +24185,21 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     **Media:**
     - media `7_1629199863559643136` (details not returned by the API)
     
+
+
+### Thread part 2 — @ChainLight_io — 2023-02-27 08:04 UTC (2023-02-27 09:04 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1630116686115270656
+- Metrics (at fetch): bookmark 0, impression 282, like 6, quote 0, reply 0, retweet 0
+
+> 👏 Meet our Web3 security champions! We've dominated Web2/Web3 CTFs and mastered bug bounties. We build on our foundational knowledge of EVM &amp; CosmWasm to protect multi-billion-dollor assets. BUIDL on BASE. We can help you!
+>
+> Unleash our secret weapons 👉 https://chainlight.io/ [pic.x.com/mSSgp1JK0Y]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fp9We3RaMAAun3b.jpg — no alt text provided by author
+
+**Links in post:** https://chainlight.io/
 
 
 ---
@@ -24244,7 +24238,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 - URL: https://x.com/ChainLight_io/status/1629090480930816005
 - Metrics (at fetch): bookmark 0, impression 899, like 5, quote 1, reply 1, retweet 0
 
-> 3/ ☄️ We are listed on the @Ethereum Foundation's Leaderboard for finding vulnerabilities in Ethereum, the world's largest smart contract-enabled blockchain. Juno Im, who is the lead researcher on our team, is on the leaderboard. #Ethereum #BugBounty https://t.co/z2ddjQ1VwZ
+> 3/ ☄️ We are listed on the @Ethereum Foundation's Leaderboard for finding vulnerabilities in Ethereum, the world's largest smart contract-enabled blockchain. Juno Im, who is the lead researcher on our team, is on the leaderboard. #Ethereum #BugBounty https://ethereum.org/en/bug-bounty/#leaderboard
+
+**Links in post:** https://ethereum.org/en/bug-bounty/#leaderboard
 
 
 ### Thread part 3 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)

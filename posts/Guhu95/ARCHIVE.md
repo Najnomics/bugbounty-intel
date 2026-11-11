@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 72
+- Posts in this file: 73
 - Conversations/threads: 63
 - Oldest post captured: 2023-08-19
 - Newest post captured: 2026-03-12
@@ -1234,7 +1234,23 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     
 
 
-### Thread part 2 — @Guhu95 — 2024-07-04 23:46 UTC (2024-07-05 00:46 WAT)
+### Thread part 2 — @Guhu95 — 2024-07-04 13:35 UTC (2024-07-04 14:35 WAT)
+
+- URL: https://x.com/Guhu95/status/1808857211034349794
+- Metrics (at fetch): bookmark 0, impression 2084, like 3, quote 0, reply 0, retweet 0
+
+> @cantinaxyz My follow up on this note @0xMackenzieM 
+>
+> BTW I think "gradual conditional" like with Fuel, is somewhat better by "smoothing" the EV. 
+>
+> But it's not the Chad way, and has many of the same issues as the "binary" conditional.
+>
+> https://x.com/0xMackenzieM/status/1798795067714314268
+
+**Links in post:** https://x.com/0xMackenzieM/status/1798795067714314268
+
+
+### Thread part 3 — @Guhu95 — 2024-07-04 23:46 UTC (2024-07-05 00:46 WAT)
 
 - URL: https://x.com/Guhu95/status/1809010913951002914
 - Metrics (at fetch): bookmark 2, impression 1569, like 5, quote 2, reply 3, retweet 0
@@ -1270,7 +1286,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > It matters little how YOU frame it, what matters is how the best-paid SRs perceive them. If they perceive them as low EV - they do something else instead and the bugs remain there for the blackhats to find (when TVL - their EV - is high enough).
 
 
-### Thread part 3 — @Guhu95 — 2024-07-30 23:18 UTC (2024-07-31 00:18 WAT)
+### Thread part 4 — @Guhu95 — 2024-07-30 23:18 UTC (2024-07-31 00:18 WAT)
 
 - URL: https://x.com/Guhu95/status/1818425938969083985
 - Metrics (at fetch): bookmark 0, impression 291, like 0, quote 0, reply 1, retweet 0
@@ -1278,7 +1294,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > @lonelysloth_sec @0xMackenzieM @cantinaxyz You can sell due diligence info to investment funds, in exchange for locked compensation conditional on no crits.
 
 
-### Thread part 4 — @Guhu95 — 2024-07-31 03:25 UTC (2024-07-31 04:25 WAT)
+### Thread part 5 — @Guhu95 — 2024-07-31 03:25 UTC (2024-07-31 04:25 WAT)
 
 - URL: https://x.com/Guhu95/status/1818488251730264145
 - Metrics (at fetch): bookmark 0, impression 136, like 0, quote 0, reply 0, retweet 0

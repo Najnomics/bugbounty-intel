@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 232
-- Conversations/threads: 202
+- Posts in this file: 238
+- Conversations/threads: 198
 - Oldest post captured: 2016-07-31
 - Newest post captured: 2026-11-10
 
@@ -1072,6 +1072,14 @@ Tags (automatic): Smart contract / DeFi
 > 2/3
 
 
+### Thread part 3 — @cmichelio — 2023-05-21 02:23 UTC (2023-05-21 03:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1660108946605228032
+- Metrics (at fetch): bookmark 1, impression 3695, like 22, quote 0, reply 1, retweet 1
+
+> Governance proposals are imo one of the few cases where better tooling would still be very helpful 3/3
+
+
 ---
 
 ## 2023-04-26 · Thread · Even if auditors point out trust assumptions, the project party will just acknowledge these issues, 
@@ -1243,6 +1251,27 @@ Tags (automatic): Smart contract / DeFi
 
 
 ### Thread part 5 — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1620041814203064320
+- Metrics (at fetch): bookmark 0, impression 3591, like 27, quote 0, reply 1, retweet 0
+
+> cheat sheets are especially useful for protocols that you review often and that are bad at naming like @MakerDAO and @AaveAave. as an example, here's an excerpt from my aave-v2 cheat sheet that I can always come back to 5/7
+
+
+### Thread part 6 — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1620041816992256000
+- Metrics (at fetch): bookmark 1, impression 5116, like 26, quote 0, reply 1, retweet 0
+
+> terminology:
+> - "asset" is just the underlying token
+> - "liquidityIndex" and "getNormalizedIncome" is the rebasing index, defaults to 1e27 (bad naming because two names for the same thing)
+> - the difference between LTV (loan-to-value) and LT (liquidation threshold). LT &gt; LTV
+>
+> 6/7
+
+
+### Thread part 7 — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
 
 - URL: https://x.com/cmichelio/status/1620041820167368704
 - Metrics (at fetch): bookmark 2, impression 4336, like 26, quote 0, reply 1, retweet 0
@@ -1632,62 +1661,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2021-10-05 · Post · The exploit transactions were spotted quickly by some community members but I don't know how big the
-
-
-### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
-
-- URL: https://x.com/cmichelio/status/1445190700681900032
-- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
-
-> The exploit transactions were spotted quickly by some community members but I don't know how big the actual damage was and how many fake NFTs were bought.
-
-
----
-
-## 2021-10-05 · Post · The bug has been fixed by always performing all creator checks if the update_authority is not the si
-
-
-### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
-
-- URL: https://x.com/cmichelio/status/1445190698857291780
-- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 1
-
-> The bug has been fixed by always performing all creator checks if the update_authority is not the signer https://t.co/280ss7b51n https://t.co/xicyQFtC2c
-
-**Media:**
-- photo: https://pbs.twimg.com/media/FA5WorRWQAEbpnA.png — no alt text provided by author
-
-
----
-
-## 2021-10-05 · Post · The exploit allowed verifying an arbitrary creator. When creating or updating metadata, a new list o
-
-
-### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
-
-- URL: https://x.com/cmichelio/status/1445190692851097604
-- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
-
-> The exploit allowed verifying an arbitrary creator. When creating or updating metadata, a new list of creators can be specified. The code checks that no new verified creators are added. However, this check was skipped if the creator is the update_authority.
-
-
----
-
-## 2021-10-05 · Post · Thus an additional verification step is required to verify an NFT is part of a collection: Each crea
-
-
-### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
-
-- URL: https://x.com/cmichelio/status/1445190691295047681
-- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
-
-> Thus an additional verification step is required to verify an NFT is part of a collection: Each creator must sign the metadata by calling the SignMetadata instruction on the contract. This sets the `verified` boolean to true. https://t.co/zr4r73afJ1
-
-
----
-
-## 2021-10-05 · Post · There was a bug in solana's NFT metadata contract that allowed spoofing NFTs. These NFTs appeared a
+## 2021-10-05 · Thread · There was a bug in solana's NFT metadata contract that allowed spoofing NFTs. These NFTs appeared a
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1702,14 +1676,71 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > A thread 🧵
 >
-> https://t.co/xLk3iEfR2X
+> https://x.com/redacted_j/status/1445080744771076111
+
+**Links in post:** https://x.com/redacted_j/status/1445080744771076111
 
 **Quoted post** 1445080744771076111: not readable via the API (deleted, private, or withheld).
 
 
+### Thread part 2 — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190689738924037
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Some background on how marketplaces verify that NFTs are part of a collection: Each NFT has an associated @metaplex metadata account storing the creators among other fields (like traits). However, anyone can just create a new NFT using the same metadata with the same creators.
+
+
+### Thread part 3 — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190691295047681
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Thus an additional verification step is required to verify an NFT is part of a collection: Each creator must sign the metadata by calling the SignMetadata instruction on the contract. This sets the `verified` boolean to true. https://github.com/metaplex-foundation/metaplex/blob/59873ada6492b0d617b15085add1ae6fb649f135/rust/token-metadata/program/src/instruction.rs#L147-L150
+
+**Links in post:** https://github.com/metaplex-foundation/metaplex/blob/59873ada6492b0d617b15085add1ae6fb649f135/rust/token-metadata/program/src/instruction.rs#L147-L150
+
+
+### Thread part 4 — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190692851097604
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> The exploit allowed verifying an arbitrary creator. When creating or updating metadata, a new list of creators can be specified. The code checks that no new verified creators are added. However, this check was skipped if the creator is the update_authority.
+
+
+### Thread part 5 — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190694369439745
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> The idea is that if a creator is also the signer of the transaction then this is obviously valid verification and they shouldn't need to send a second sign_metadata instruction. The issue is that update_authority does not always have to be the signer (as in CreateMetadataAccount)
+
+
+### Thread part 6 — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190698857291780
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 1
+
+> The bug has been fixed by always performing all creator checks if the update_authority is not the signer https://github.com/metaplex-foundation/metaplex/pull/609/files#diff-9ce78f66b22b4ea380366871e7c46916373a75a8b10569e9a301ba0119819faaR87 [pic.x.com/xicyQFtC2c]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FA5WorRWQAEbpnA.png — no alt text provided by author
+
+**Links in post:** https://github.com/metaplex-foundation/metaplex/pull/609/files#diff-9ce78f66b22b4ea380366871e7c46916373a75a8b10569e9a301ba0119819faaR87
+
+
+### Thread part 7 — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190700681900032
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> The exploit transactions were spotted quickly by some community members but I don't know how big the actual damage was and how many fake NFTs were bought.
+
+
 ---
 
-## 2021-09-29 · Post · This @solana escrow contract tutorial by @paulxpaulxpaulx is imo the best and most comprehensible tu
+## 2021-09-29 · Thread · This @solana escrow contract tutorial by @paulxpaulxpaulx is imo the best and most comprehensible tu
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1726,6 +1757,18 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > 1/2
 
 **Links in post:** https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
+
+
+### Thread part 2 — @cmichelio — 2021-09-29 21:53 UTC (2021-09-29 22:53 WAT)
+
+- URL: https://x.com/cmichelio/status/1443333177896996869
+- Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 0, retweet 1
+
+> The only thing missing is an example of how to actually test the code. So I spent some time trying to figure out how Solana integration tests work and implemented them in this repo if anyone's interested https://github.com/MrToph/solana-paulx-escrow/blob/master/tests/integration.rs
+>
+> 2/2
+
+**Links in post:** https://github.com/MrToph/solana-paulx-escrow/blob/master/tests/integration.rs
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 105
-- Conversations/threads: 85
+- Posts in this file: 118
+- Conversations/threads: 89
 - Oldest post captured: 2022-03-23
 - Newest post captured: 2026-11-05
 
@@ -2153,7 +2153,74 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2022-04-16 · Post · 1/ In our recent audit report on @JetProtocol’s governance program, we listed 13 findings and 4 vuln
+## 2022-04-16 · Post · 9/ Hence, code should always round amounts against the user, and this rounding can be implemented by
+
+
+### Post — @osec_io — 2022-04-16 16:55 UTC (2022-04-16 17:55 WAT)
+
+- URL: https://x.com/osec_io/status/1515373332782190594
+- Metrics (at fetch): bookmark 2, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> 9/ Hence, code should always round amounts against the user, and this rounding can be implemented by passing in the intended rounding direction into the conversion function. https://t.co/YFxNEaEuxQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQewALZUcAAGg06.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-16 · Post · 8/ Rounding errors can be very serious issues on Solana due to cheap transaction costs and the abili
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
+
+
+### Post — @osec_io — 2022-04-16 16:55 UTC (2022-04-16 17:55 WAT)
+
+- URL: https://x.com/osec_io/status/1515373314817998856
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> 8/ Rounding errors can be very serious issues on Solana due to cheap transaction costs and the ability to back together multiple instructions per transaction.
+
+
+---
+
+## 2022-04-16 · Post · 7/ With this, we wrote up a full POC against on-chain program. https://t.co/GdICEkCCvC
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-04-16 16:55 UTC (2022-04-16 17:55 WAT)
+
+- URL: https://x.com/osec_io/status/1515373312355934209
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 7/ With this, we wrote up a full POC against on-chain program. https://t.co/GdICEkCCvC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQev_MFUcAICQ2L.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-16 · Post · 6/ After imposing reasonable limits on token/share transfer amounts, we threw together a quick test 
+
+
+### Post — @osec_io — 2022-04-16 16:55 UTC (2022-04-16 17:55 WAT)
+
+- URL: https://x.com/osec_io/status/1515373296937672706
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 6/ After imposing reasonable limits on token/share transfer amounts, we threw together a quick test script in Javascript. The script worked! We were able to extract the entire stake pool, at relatively low cost to the attacker (around 50% token efficiency). https://t.co/doYbiJI8NH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQev-D2VUAAov80.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-16 · Thread · 1/ In our recent audit report on @JetProtocol’s governance program, we listed 13 findings and 4 vuln
 
 
 ### Post — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)
@@ -2169,9 +2236,51 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/FQesi8bVsAQWaiB.jpg — no alt text provided by author
 
 
+### Thread part 2 — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)
+
+- URL: https://x.com/osec_io/status/1515372875716341762
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 2, retweet 0
+
+> 2/ In Jet’s original conversion code between tokens and shares, all rounding was done via floor division. This meant that the correctness of the code depended on floor division to not be in favor of the user.
+
+
+### Thread part 3 — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)
+
+- URL: https://x.com/osec_io/status/1515372881655476226
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> 3/ Unfortunately, due to how conversions were done, this was not the case. Users who were supposed to pay 2.5 tokens only had to pay 2. In other words, they could pay up to one less token than they should. Could a pool of staked tokens be extracted through this rounding error? https://t.co/LFJnrtFFJu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQetBvXVEAMooYB.jpg — no alt text provided by author
+
+
+### Thread part 4 — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)
+
+- URL: https://x.com/osec_io/status/1515372884775956480
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 4/ In order to determine the severity of this vulnerability, we needed to make sure that this rounding bug was repeatedly exploitable. In other words, there are no “end” states where the token and share amounts collapse to.
+
+
+### Thread part 5 — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)
+
+- URL: https://x.com/osec_io/status/1515372886952980498
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 5/ Before writing a full POC in rust, we laid out our assumptions. The basic operations a user can do to influence the state are: 
+>
+> 1. Adding stake (shares &amp; tokens) to the pool
+> 2. Removing stake by unbonding and withdrawing 
+> 3. Sending tokens directly to the vault stake account.
+
+
 ---
 
-## 2022-04-14 · Post · As @JetProtocol's governance module goes live, we’re excited to open-source our audit report! 
+## 2022-04-14 · Thread · As @JetProtocol's governance module goes live, we’re excited to open-source our audit report! 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @osec_io — 2022-04-14 15:53 UTC (2022-04-14 16:53 WAT)
@@ -2203,6 +2312,78 @@ Tags (automatic): Smart contract / DeFi
     > 🛩️ Vote (soon!)
     >
     > https://t.co/pApeHRvfz9
+    
+
+
+### Thread part 2 — @osec_io — 2022-04-14 15:53 UTC (2022-04-14 16:53 WAT)
+
+- URL: https://x.com/osec_io/status/1514632933130207236
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> 2/ Conversion Rate Abuse:
+>
+> Jet’s original design involved a dynamic conversion rate between shares and tokens. However, unbonded shares were not counted in the conversion. An unprivileged user could manipulate the exchange rate by depositing &amp; unbonding large amounts of tokens! https://t.co/sTfEG82MvD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQUM_NfVsAIj6Ea.jpg — no alt text provided by author
+
+
+### Thread part 3 — @osec_io — 2022-04-14 15:53 UTC (2022-04-14 16:53 WAT)
+
+- URL: https://x.com/osec_io/status/1514632938427539459
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> 3/ To fix this, we worked with the Jet team to revamp the conversions into two separate pools. Unbonding stake transfers the shares directly, mitigating any conversion manipulation vulnerabilities! https://t.co/iSTRI8fgv5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQUNRQyVkAI4qv8.png — no alt text provided by author
+
+
+### Thread part 4 — @osec_io — 2022-04-14 15:53 UTC (2022-04-14 16:53 WAT)
+
+- URL: https://x.com/osec_io/status/1514632943527874562
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 4/ Conversion Rounding error:
+>
+> When writing Solana smart contract programs, it’s critical to always round against the user. Jet’s original conversions used Rust’s default division, which always floored the conversions. https://t.co/9QpuaARGvq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQUNZwcVsAA6qx7.png — no alt text provided by author
+
+
+### Thread part 5 — @osec_io — 2022-04-14 15:53 UTC (2022-04-14 16:53 WAT)
+
+- URL: https://x.com/osec_io/status/1514632948477153286
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 5/ To fix this, we worked with the Jet team to introduce rounding directions into the codebase. This way, the code will always properly round amounts against the user. https://t.co/E1LoonLQSM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQUNnhrVsAQm9Er.png — no alt text provided by author
+
+
+### Thread part 6 — @osec_io — 2022-04-14 15:53 UTC (2022-04-14 16:53 WAT)
+
+- URL: https://x.com/osec_io/status/1514632950767267840
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> 6/ To learn more, check out the full audit report:
+>
+> https://t.co/hW3J4oJVMi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1384245094295822336 — 2022-04-13 22:47 UTC (2022-04-13 23:47 WAT)
+    
+    - URL: https://x.com/1384245094295822336/status/1514374669364699146
+    - Metrics (at fetch): bookmark 1, impression 0, like 10, quote 1, reply 1, retweet 0
+    
+    > 🔐Security — Audit Report  
+    >
+    > The Jet Govern App Audit Report by Ottersec @osec_io
+    >
+    > https://t.co/NqKHIjn5bU
     
 
 

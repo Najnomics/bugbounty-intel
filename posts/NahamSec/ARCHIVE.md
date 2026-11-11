@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1106
-- Conversations/threads: 986
+- Posts in this file: 1110
+- Conversations/threads: 987
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
@@ -8344,7 +8344,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2022-05-29 · Post · There will not be an interview on today’s Live Recon stream but i wanna hack some stuff. Who should 
+## 2022-05-29 · Thread · There will not be an interview on today’s Live Recon stream but i wanna hack some stuff. Who should 
 
 
 ### Post — @NahamSec — 2022-05-29 17:30 UTC (2022-05-29 18:30 WAT)
@@ -8357,6 +8357,14 @@ Tags (automatic): XSS
 > Going live in an hour. 
 >
 > https://t.co/zR0azHNvet
+
+
+### Thread part 2 — @NahamSec — 2022-05-29 18:19 UTC (2022-05-29 19:19 WAT)
+
+- URL: https://x.com/NahamSec/status/1530977019386744832
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 0, reply 2, retweet 0
+
+> Pushing this back by 30 minutes so I can get breakfast and coffee.
 
 
 ---
@@ -8943,6 +8951,22 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FPWZmsXXEAcUAAp.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-01 · Post · @samwcyo These big crypto hacks aren’t always done due to a vulnerability in a smart contract but in
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2022-04-01 15:27 UTC (2022-04-01 16:27 WAT)
+
+- URL: https://x.com/NahamSec/status/1509915359880663052
+- Metrics (at fetch): bookmark 1, impression 0, like 28, quote 0, reply 4, retweet 0
+
+> @samwcyo These big crypto hacks aren’t always done due to a vulnerability in a smart contract but instead in a lot of cases it’s done via a web vulnerability
 
 
 ---
@@ -9617,7 +9641,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-10-26 · Post · As promised, you can now register for my bug bounty course on @Udemy for free using the code "LLS202
+## 2021-10-26 · Thread · As promised, you can now register for my bug bounty course on @Udemy for free using the code "LLS202
 
 
 ### Post — @NahamSec — 2021-10-26 16:53 UTC (2021-10-26 17:53 WAT)
@@ -9625,7 +9649,19 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1453042108160364545
 - Metrics (at fetch): bookmark 33, impression 0, like 497, quote 8, reply 44, retweet 112
 
-> As promised, you can now register for my bug bounty course on @Udemy for free using the code "LLS2021". Code expires in ONE hour. https://t.co/n6TGPqOCTa
+> As promised, you can now register for my bug bounty course on @Udemy for free using the code "LLS2021". Code expires in ONE hour. https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=LLS2021
+
+**Links in post:** https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=LLS2021
+
+
+### Thread part 2 — @NahamSec — 2021-10-26 19:02 UTC (2021-10-26 20:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1453074562329952259
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 2, retweet 2
+
+> @udemy I left the code active for an extra hour, but it should no longer work. You can purchase it now for $12.99 using this link: https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=OCTOBER1299
+
+**Links in post:** https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=OCTOBER1299
 
 
 ---
@@ -9713,7 +9749,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
-## 2021-09-18 · Post · .@seanyeoh and @infosec_au casually going from recon, source code review to be able to dox 1000s of 
+## 2021-09-18 · Thread · .@seanyeoh and @infosec_au casually going from recon, source code review to be able to dox 1000s of 
 
 
 ### Post — @NahamSec — 2021-09-18 22:12 UTC (2021-09-18 23:12 WAT)
@@ -9725,6 +9761,14 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/E_maqbVVQAAFIrQ.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2021-09-18 22:13 UTC (2021-09-18 23:13 WAT)
+
+- URL: https://x.com/NahamSec/status/1439351849358802949
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 0
+
+> @seanyeoh @infosec_au "Full Illegal" - @seanyeoh
 
 
 ---

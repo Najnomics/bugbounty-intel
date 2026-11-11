@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 531
+- Posts in this file: 532
 - Conversations/threads: 490
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
@@ -3074,7 +3074,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2022-09-16 · Post · When DOM Invader reports a high web message vuln, this means it's already done a test with the fake 
+## 2022-09-16 · Thread · When DOM Invader reports a high web message vuln, this means it's already done a test with the fake 
 
 
 ### Post — @garethheyes — 2022-09-16 13:54 UTC (2022-09-16 14:54 WAT)
@@ -3083,6 +3083,17 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 9, impression 0, like 23, quote 0, reply 2, retweet 2
 
 > When DOM Invader reports a high web message vuln, this means it's already done a test with the fake origin. If you can execute JavaScript within the test window but it fails when saving a PoC this is probably an indicator that there is a origin check. A good tip is to use 1/2
+
+
+### Thread part 2 — @garethheyes — 2022-09-16 13:54 UTC (2022-09-16 14:54 WAT)
+
+- URL: https://x.com/garethheyes/status/1570773188656910341
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 0
+
+> the debugger statement if you have JS exec and click through the call stack until you see the code for the origin check. Look for stuff like:
+> /^https:\/\/example.com/.test(origin)
+>
+> A wildcard DNS is your friend here since you can use https:// example .com .fake example .com 2/2
 
 
 ---

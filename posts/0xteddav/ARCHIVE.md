@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 36
+- Posts in this file: 41
 - Conversations/threads: 24
 - Oldest post captured: 2022-06-24
 - Newest post captured: 2025-06-17
@@ -281,7 +281,9 @@ Tags (automatic): ZK
     
     > I merged my first PR in Halo2!! 🥳
     > ok... it's nothing too crazy, I added like 3 lines of code 😅 but i'm excited! A few months ago I knew nothing about ZK and now I feel confident I could start contributing to ZK libs/projects
-    > https://t.co/jymAGGxuLZ
+    > https://github.com/privacy-scaling-explorations/halo2/pull/352
+    
+    **Links in post:** https://github.com/privacy-scaling-explorations/halo2/pull/352
     
 
 
@@ -368,7 +370,10 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-02-28 · Post · 🧵 Want to understand how Reed-Solomon codes keep your data safe? These powerful error-correcting cod
+## 2025-02-28 · Thread · 🧵 Want to understand how Reed-Solomon codes keep your data safe? These powerful error-correcting cod
+
+
+Tags (automatic): ZK
 
 
 ### Post — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
@@ -380,6 +385,52 @@ Tags (automatic): ZK
 > https://blog.electisec.tech/reed-solomon
 
 **Links in post:** https://blog.electisec.tech/reed-solomon
+
+
+### Thread part 2 — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
+
+- URL: https://x.com/0xteddav/status/1895471833757171859
+- Metrics (at fetch): bookmark 0, impression 108, like 3, quote 0, reply 1, retweet 0
+
+> At their core, RS codes encode data as polynomials over a finite field. A codeword consists of message symbols + parity symbols, allowing errors to be detected &amp; corrected. Example: RS(7,3) means 3 data symbols + 4 parity symbols
+
+
+### Thread part 3 — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
+
+- URL: https://x.com/0xteddav/status/1895471836479307907
+- Metrics (at fetch): bookmark 0, impression 89, like 2, quote 0, reply 1, retweet 0
+
+> Error correction works by leveraging polynomial interpolation. If some symbols get corrupted, we can still reconstruct the original data, as long as the number of errors is within the correction limit
+
+
+### Thread part 4 — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
+
+- URL: https://x.com/0xteddav/status/1895471841906758046
+- Metrics (at fetch): bookmark 0, impression 109, like 1, quote 0, reply 1, retweet 0
+
+> RS codes also play a key role in STARKs! Their structure helps efficiently verify polynomial commitments and detect tampering in proof systems. Error correction concepts naturally align with ZK’s need for data integrity
+
+
+### Thread part 5 — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
+
+- URL: https://x.com/0xteddav/status/1895471989550424495
+- Metrics (at fetch): bookmark 0, impression 135, like 1, quote 0, reply 0, retweet 0
+
+> Reed-Solomon codes power everything from QR codes to ZK proofs! 🚀 Learn how they correct errors and enable secure communication in my latest article. 👇
+> https://t.co/dHpqmM6tuY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
+    
+    - URL: https://x.com/0xteddav/status/1895471831622336741
+    - Metrics (at fetch): bookmark 5, impression 3496, like 21, quote 4, reply 1, retweet 6
+    
+    > 🧵 Want to understand how Reed-Solomon codes keep your data safe? These powerful error-correcting codes are used in QR codes, DVDs, digital communications, and obviously... in zero-knowledge proofs! Let’s break it down ⬇️
+    > https://blog.electisec.tech/reed-solomon
+    
+    **Links in post:** https://blog.electisec.tech/reed-solomon
+    
 
 
 ---
@@ -417,7 +468,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-06-18 · Post · I merged my first PR in Halo2!! 🥳
+## 2024-06-18 · Thread · I merged my first PR in Halo2!! 🥳
 
 
 Tags (automatic): ZK
@@ -430,7 +481,18 @@ Tags (automatic): ZK
 
 > I merged my first PR in Halo2!! 🥳
 > ok... it's nothing too crazy, I added like 3 lines of code 😅 but i'm excited! A few months ago I knew nothing about ZK and now I feel confident I could start contributing to ZK libs/projects
-> https://t.co/jymAGGxuLZ
+> https://github.com/privacy-scaling-explorations/halo2/pull/352
+
+**Links in post:** https://github.com/privacy-scaling-explorations/halo2/pull/352
+
+
+### Thread part 2 — @0xteddav — 2024-06-18 15:51 UTC (2024-06-18 16:51 WAT)
+
+- URL: https://x.com/0xteddav/status/1803093193984033101
+- Metrics (at fetch): bookmark 0, impression 68, like 0, quote 0, reply 0, retweet 0
+
+> easy explanation: this PR adds the ability to modify your proof and check if the verification would still pass. It's a good way to test if your constraints are correctly set. There is some work left, but it's a good start
+> thanks @adria0 and Eduard for the help!
 
 
 ---

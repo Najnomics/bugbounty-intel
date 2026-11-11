@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 244
+- Posts in this file: 247
 - Conversations/threads: 198
 - Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
@@ -2593,7 +2593,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2021-10-01 · Post · How many of these were BugBounty hunters? I know a couple of bug hunters who could have easily made
+## 2021-10-01 · Thread · How many of these were BugBounty hunters? I know a couple of bug hunters who could have easily made
 
 
 ### Post — @ajxchapman — 2021-10-01 22:22 UTC (2021-10-01 23:22 WAT)
@@ -2618,9 +2618,17 @@ Tags (automatic): Memory corruption / native
     
 
 
+### Thread part 2 — @ajxchapman — 2021-10-01 22:23 UTC (2021-10-01 23:23 WAT)
+
+- URL: https://x.com/ajxchapman/status/1444065360513273861
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Especially in our sales tactics... 🤦‍♂️
+
+
 ---
 
-## 2021-09-26 · Post · This is why being able to write a technically accurate, easy to reproduce and unbiased bug report is
+## 2021-09-26 · Thread · This is why being able to write a technically accurate, easy to reproduce and unbiased bug report is
 
 
 Tags (automatic): Memory corruption / native
@@ -2650,6 +2658,14 @@ Tags (automatic): Memory corruption / native
     **Media:**
     - media `3_1441930771321835523` (details not returned by the API)
     
+
+
+### Thread part 2 — @ajxchapman — 2021-09-26 10:38 UTC (2021-09-26 11:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1442076150419836932
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> @YoSignals @jonathandata1 @LiveOverflow Unfortunately there are a small number of people with large followings who either work in bad faith, don't have the understanding of the processes, or are just plain wrong, who like to shout on Twitter. This hurts everything about the #BugBounty sector, especially bug hunters
 
 
 ---
@@ -2731,7 +2747,10 @@ Tags (automatic): Race condition
 
 ---
 
-## 2021-08-04 · Post · Bug hunters, make notes on the techniques you learn and publish them on a personal blog. I just came
+## 2021-08-04 · Thread · Bug hunters, make notes on the techniques you learn and publish them on a personal blog. I just came
+
+
+Tags (automatic): Platform: HackerOne
 
 
 ### Post — @ajxchapman — 2021-08-04 09:33 UTC (2021-08-04 10:33 WAT)
@@ -2740,6 +2759,17 @@ Tags (automatic): Race condition
 - Metrics (at fetch): bookmark 25, impression 0, like 250, quote 3, reply 8, retweet 28
 
 > Bug hunters, make notes on the techniques you learn and publish them on a personal blog. I just came across one of my old blog posts when Googling how to perform a specific attack, completely forgetting that I'd done it before (yes, I'm getting old) #BugBountyTips
+
+
+### Thread part 2 — @ajxchapman — 2021-08-04 09:33 UTC (2021-08-04 10:33 WAT)
+
+- URL: https://x.com/ajxchapman/status/1422853304074313728
+- Metrics (at fetch): bookmark 20, impression 0, like 43, quote 0, reply 1, retweet 8
+
+> This was the post that came up, for those interested:
+> https://ajxchapman.github.io/bugbounty/2019/03/26/h1-702-ctf-2019.html
+
+**Links in post:** https://ajxchapman.github.io/bugbounty/2019/03/26/h1-702-ctf-2019.html
 
 
 ---

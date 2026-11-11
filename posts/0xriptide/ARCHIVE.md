@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 210
+- Posts in this file: 211
 - Conversations/threads: 206
 - Oldest post captured: 2014-07-21
 - Newest post captured: 2026-11-10
@@ -4031,7 +4031,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-02-01 · Post · whitehat anons - submit your bad bug bounty experiences to the Wall of Shame below
+## 2023-02-01 · Thread · whitehat anons - submit your bad bug bounty experiences to the Wall of Shame below
 
 
 ### Post — @0xriptide — 2023-02-01 23:42 UTC (2023-02-02 00:42 WAT)
@@ -4044,7 +4044,19 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > let's provide transparency to users/investors so they can better evaluate the risk of investing capital with protocols that do not prioritize security 
 >
 > h/t @bbwallofshame 
-> https://t.co/I18f6UKLOh
+> https://bug-bounty-wall-of-shame.github.io/
+
+**Links in post:** https://bug-bounty-wall-of-shame.github.io/
+
+
+### Thread part 2 — @0xriptide — 2023-02-01 23:44 UTC (2023-02-02 00:44 WAT)
+
+- URL: https://x.com/0xriptide/status/1620931128696897537
+- Metrics (at fetch): bookmark 1, impression 2381, like 15, quote 0, reply 2, retweet 0
+
+> @arbitrum gets the first spot 💀
+>
+> who's next?
 
 
 ---

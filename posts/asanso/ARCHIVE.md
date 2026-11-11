@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 180
+- Posts in this file: 181
 - Conversations/threads: 173
 - Oldest post captured: 2011-01-30
 - Newest post captured: 2026-11-06
@@ -1447,7 +1447,7 @@ Tags (automatic): OAuth
 
 ---
 
-## 2022-08-04 · Post · Still on the verge of trying to understand the nit and grit of Castryck-Decru attack but IMHO the SI
+## 2022-08-04 · Thread · Still on the verge of trying to understand the nit and grit of Castryck-Decru attack but IMHO the SI
 
 
 ### Post — @asanso — 2022-08-04 08:55 UTC (2022-08-04 09:55 WAT)
@@ -1455,10 +1455,18 @@ Tags (automatic): OAuth
 - URL: https://x.com/asanso/status/1555115155800969217
 - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 1, retweet 0
 
-> Still on the verge of trying to understand the nit and grit of Castryck-Decru attack but IMHO the SIKE team might have some hard time repairing SIKE. Let's assume they find a way to generate a random supersingular 1/2 https://t.co/BLsNQy16de
+> Still on the verge of trying to understand the nit and grit of Castryck-Decru attack but IMHO the SIKE team might have some hard time repairing SIKE. Let's assume they find a way to generate a random supersingular 1/2 [pic.x.com/BLsNQy16de]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FZTf_w0WIAAyJ2c.png — no alt text provided by author
+
+
+### Thread part 2 — @asanso — 2022-08-04 08:55 UTC (2022-08-04 09:55 WAT)
+
+- URL: https://x.com/asanso/status/1555115158674067458
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> elliptic curve without revealing the endomorphismring (and we know that is a really tough problem to nail down).There is still the problem of smooth c=2^a -3^b but yeah this might not be a concern due the low likelihood.The problem here is to guarantee the exclusion of the leeway
 
 
 ---

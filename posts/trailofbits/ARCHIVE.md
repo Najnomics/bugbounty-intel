@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 238
+- Posts in this file: 243
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -1956,7 +1956,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-04-30 · Post · Developing invariants with Curvance. Over 9 weeks, we wrote and tested 216 invariants, uncovering 13
+## 2024-04-30 · Thread · Developing invariants with Curvance. Over 9 weeks, we wrote and tested 216 invariants, uncovering 13
 
 
 ### Post — @trailofbits — 2024-04-30 13:39 UTC (2024-04-30 14:39 WAT)
@@ -1965,6 +1965,14 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 29, impression 12413, like 61, quote 4, reply 1, retweet 15
 
 > Developing invariants with Curvance. Over 9 weeks, we wrote and tested 216 invariants, uncovering 13 critical findings while pushing the limits of our tools. https://t.co/rCCEe12fbx
+
+
+### Thread part 2 — @trailofbits — 2024-04-30 13:39 UTC (2024-04-30 14:39 WAT)
+
+- URL: https://x.com/trailofbits/status/1785302840971284689
+- Metrics (at fetch): bookmark 1, impression 1392, like 10, quote 0, reply 0, retweet 3
+
+> The Curvance engagement pushed our tools like Echidna, Medusa, and CloudExec to their limits, leading to significant enhancements. From improved trace printing to corpus preservation, our tools evolved to meet the project's challenges. https://t.co/rIVNasA7QR
 
 
 ---
@@ -2455,7 +2463,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-07-18 · Post · How will AI affect national security? In our responses to an RFI by the White House's OTSP, we highl
+## 2023-07-18 · Thread · How will AI affect national security? In our responses to an RFI by the White House's OTSP, we highl
 
 
 Tags (automatic): AI-assisted hunting
@@ -2467,6 +2475,39 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 1, impression 5930, like 20, quote 1, reply 1, retweet 6
 
 > How will AI affect national security? In our responses to an RFI by the White House's OTSP, we highlight a few key points 🧵: https://t.co/gcQ4n2pDim
+
+
+### Thread part 2 — @trailofbits — 2023-07-18 19:57 UTC (2023-07-18 20:57 WAT)
+
+- URL: https://x.com/trailofbits/status/1681392697104388096
+- Metrics (at fetch): bookmark 0, impression 452, like 1, quote 0, reply 1, retweet 0
+
+> To reduce the systemic risks AI-based systems may introduce, we need to construct precise, verifiable claims about AI and hold developers accountable to them. https://t.co/1wPfgVnQJC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1WAtHsXgAAuuMn.png — no alt text provided by author
+
+
+### Thread part 3 — @trailofbits — 2023-07-18 19:57 UTC (2023-07-18 20:57 WAT)
+
+- URL: https://x.com/trailofbits/status/1681392698836516885
+- Metrics (at fetch): bookmark 1, impression 1441, like 4, quote 0, reply 1, retweet 0
+
+> When identifying security risks or developing code, AI should complement, not replace, human methods. AI is poorly suited to perform these tasks alone. https://t.co/mufj0zvNI4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1WA7dYWYAAgqG9.jpg — no alt text provided by author
+
+
+### Thread part 4 — @trailofbits — 2023-07-18 19:57 UTC (2023-07-18 20:57 WAT)
+
+- URL: https://x.com/trailofbits/status/1681392700778479620
+- Metrics (at fetch): bookmark 0, impression 1294, like 1, quote 0, reply 0, retweet 0
+
+> AI presents a systemic risk to existing defenses. AI can make it far easier to perform attacks, write or customize exploits, and craft phishing messages. https://t.co/l7VxffEL3d
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1WBnZuWAAwDHHi.jpg — no alt text provided by author
 
 
 ---
@@ -2907,7 +2948,7 @@ Tags (automatic): Race condition, Smart contract / DeFi
 
 ---
 
-## 2021-12-21 · Post · We found critical flaws in common TSS libraries, a cryptographic protocol for distributed key genera
+## 2021-12-21 · Thread · We found critical flaws in common TSS libraries, a cryptographic protocol for distributed key genera
 
 
 Tags (automatic): ZK
@@ -2918,7 +2959,19 @@ Tags (automatic): ZK
 - URL: https://x.com/trailofbits/status/1473291464264269826
 - Metrics (at fetch): bookmark 34, impression 0, like 178, quote 13, reply 6, retweet 56
 
-> We found critical flaws in common TSS libraries, a cryptographic protocol for distributed key generation and signing. We’ve released https://t.co/jJMhKTaSVW to help secure the rapidly advancing field of ZKPs, TSS, and similar schemes. https://t.co/OQ4NfyU60K
+> We found critical flaws in common TSS libraries, a cryptographic protocol for distributed key generation and signing. We’ve released https://ZKDocs.com to help secure the rapidly advancing field of ZKPs, TSS, and similar schemes. https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/
+
+**Links in post:** https://ZKDocs.com, https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/
+
+
+### Thread part 2 — @trailofbits — 2021-12-21 14:13 UTC (2021-12-21 15:13 WAT)
+
+- URL: https://x.com/trailofbits/status/1473295626792230912
+- Metrics (at fetch): bookmark 5, impression 0, like 33, quote 2, reply 1, retweet 5
+
+> Todays vulnerability release helps describe threshold signature schemes (TSS) and verifiable secret sharing (VSS) for new readers. Fun fact, aside from academic pubs about them, there is virtually no guidance for implementing them securely! (Until ZKDocs). https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/
+
+**Links in post:** https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/
 
 
 ---

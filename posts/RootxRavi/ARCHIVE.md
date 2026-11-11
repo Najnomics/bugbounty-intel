@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 99
+- Posts in this file: 101
 - Conversations/threads: 97
 - Oldest post captured: 2022-10-11
 - Newest post captured: 2026-10-31
@@ -1870,7 +1870,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2022-11-16 · Post · Rewarded 3-digit Bounty for IDOR leads to Mass Username / Email Enumeration 
+## 2022-11-16 · Thread · Rewarded 3-digit Bounty for IDOR leads to Mass Username / Email Enumeration 
 
 
 Tags (automatic): IDOR / BOLA
@@ -1885,8 +1885,34 @@ Tags (automatic): IDOR / BOLA
 >
 > 1: I was testing the Forgot password page  ( it was Developer Account ) 
 > 2: I got the password reset link in an email like this 
-> ( https://t.co/adPG3Hzgeq ) 
+> ( https://developer.target.com/user/reset/1110/1234567890sdsdsdjkhsdkjskjdsjd ) 
 >
+> #bugbountytips #bugbounty #security
+
+**Links in post:** https://developer.target.com/user/reset/1110/1234567890sdsdsdjkhsdkjskjdsjd
+
+
+### Thread part 2 — @RootxRavi — 2022-11-16 09:12 UTC (2022-11-16 10:12 WAT)
+
+- URL: https://x.com/RootxRavi/status/1592807925763911680
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 1, retweet 2
+
+> 3: Now Observed the URL UserID ( 1110 ) was passing in the URL  
+> 4: Now if you change this UserID to a Different one it was showing the Username/mail of another user
+> 5: Now the thing website was blocking after 15 continuous requests 
+> #bugbountytips #bugbounty #security [pic.x.com/0VSZdCzW5q]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhrJLXCVUAA66z4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FhrJPOuVUAE4LZ-.jpg — no alt text provided by author
+
+
+### Thread part 3 — @RootxRavi — 2022-11-16 09:12 UTC (2022-11-16 10:12 WAT)
+
+- URL: https://x.com/RootxRavi/status/1592807930793201666
+- Metrics (at fetch): bookmark 5, impression 0, like 18, quote 0, reply 0, retweet 5
+
+> 6: Bypassed the Rate limit mechanism using  the Nullbyte &amp; IP Rotate burp Extension
 > #bugbountytips #bugbounty #security
 
 

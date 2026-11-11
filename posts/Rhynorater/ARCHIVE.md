@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 411
+- Posts in this file: 412
 - Conversations/threads: 321
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
@@ -5172,6 +5172,14 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 4, retweet 0
 
 > @Hacker0x01 @Bugcrowd what are your thoughts on this? As a bug bounty hunter, I would love to see some sort of flag on a program's policy page that indicates whether or not they will pay for zero/one day vulns. I know this can be found in the policy from time to time, but 3/4
+
+
+### Thread part 4 — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
+
+- URL: https://x.com/Rhynorater/status/1469474789245190144
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 5, retweet 0
+
+> this is not an automatable solution. As a financially motivated researcher, I'm incentivized to send these all in. But as someone that doesn't wanna be an annoyance to the teams, I don't wanna be the guy sending in 57 reports saying "bountyplz" if I'm not adding value.
 
 
 ---

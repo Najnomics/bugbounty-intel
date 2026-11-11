@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 142
-- Conversations/threads: 79
+- Posts in this file: 166
+- Conversations/threads: 80
 - Oldest post captured: 2022-07-26
 - Newest post captured: 2026-11-08
 
@@ -1130,7 +1130,42 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-02-22 · Post · Two years ago, I discovered a critical vulnerability in Balancer V2 that allowed attackers to create
+## 2025-02-22 · Post · ... an attacker deposits a infinite amount of non-existent ERC20. The Vault’s safeTransferFrom succe
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @kankodu — 2025-02-22 07:48 UTC (2025-02-22 08:48 WAT)
+
+- URL: https://x.com/kankodu/status/1893206329411424442
+- Metrics (at fetch): bookmark 2, impression 1995, like 13, quote 0, reply 1, retweet 0
+
+> ... an attacker deposits a infinite amount of non-existent ERC20. The Vault’s safeTransferFrom succeeds (no code existence check), and increases attacker's internal balancer by infinity. Once the ERC20 is actually deployed and real users deposit, the attacker drains the funds.
+
+
+---
+
+## 2025-02-22 · Post · I examined common ERC20 helper libraries. Solmate's safeTransferFrom function didn't verify if the E
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @kankodu — 2025-02-22 07:48 UTC (2025-02-22 08:48 WAT)
+
+- URL: https://x.com/kankodu/status/1893206323350630661
+- Metrics (at fetch): bookmark 2, impression 1611, like 11, quote 0, reply 1, retweet 0
+
+> I examined common ERC20 helper libraries. Solmate's safeTransferFrom function didn't verify if the ERC20 address had code (at the time), posing potential risks. In contrast, OpenZeppelin's SafeERC20 included this crucial check, ensuring safety from such issues. https://t.co/ktP2vF7zn9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkYBQ4LXMAAMfWD.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-22 · Thread · Two years ago, I discovered a critical vulnerability in Balancer V2 that allowed attackers to create
 
 
 Tags (automatic): Smart contract / DeFi
@@ -1147,6 +1182,19 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkYAHuAWQAEgu5J.png — no alt text provided by author
+
+
+### Thread part 2 — @kankodu — 2025-02-22 07:48 UTC (2025-02-22 08:48 WAT)
+
+- URL: https://x.com/kankodu/status/1893206315104641521
+- Metrics (at fetch): bookmark 5, impression 1973, like 15, quote 0, reply 1, retweet 0
+
+> My journey began with a simple question: What happens when `call` is made to an address without code? While Solidity adds a check that causes failure if the address lacks code, low level call returns success. 
+>
+> This can cause problem with helper libraries we use to pull funds. https://t.co/0KKsy2xZom
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkYBFQhaIAArpHq.jpg — no alt text provided by author
 
 
 ---
@@ -1299,12 +1347,15 @@ Tags (automatic): Smart contract / DeFi
 ## 2024-03-22 · Thread · Here's a 🧵 about a bug pattern I've used to get paid across 5 bug reports totaling $150k. This very 
 
 
+Tags (automatic): Smart contract / DeFi
+
+
 ### Post — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
 
 - URL: https://x.com/kankodu/status/1771229163942474096
 - Metrics (at fetch): bookmark 492, impression 40312, like 278, quote 8, reply 9, retweet 45
 
-> Here's a 🧵 about a bug pattern I've used to get paid across 5 bug reports totaling $150k. This very bug pattern has been the culprit behind significant hacks, leading to losses of $464k in Wise lending and a staggering $6M in MIM (the protocols I missed 😅) https://t.co/1bPtYzgXbd
+> Here's a 🧵 about a bug pattern I've used to get paid across 5 bug reports totaling $150k. This very bug pattern has been the culprit behind significant hacks, leading to losses of $464k in Wise lending and a staggering $6M in MIM (the protocols I missed 😅) [pic.x.com/1bPtYzgXbd]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GJSriZAacAEMNEu.png — no alt text provided by author
@@ -1312,13 +1363,135 @@ Tags (automatic): Smart contract / DeFi
 
 ### Thread part 2 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
 
+- URL: https://x.com/kankodu/status/1771229168233259312
+- Metrics (at fetch): bookmark 1, impression 3501, like 13, quote 0, reply 1, retweet 0
+
+> Let's take a simple lending protocol that has a share-based calculation. The lenders are expected to deposit an underlying asset to the protocol, and in turn, they get minted shares based on the current totalAssets and totalSupply (of shares) ratio.
+
+
+### Thread part 3 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229171622244829
+- Metrics (at fetch): bookmark 1, impression 3350, like 9, quote 0, reply 1, retweet 0
+
+> As interest accrues in the protocol, the value of a share in underlying terms increases, and this mechanism allows the protocol to distribute the interest proportionally to every lender without looping over all the existing lenders.
+
+
+### Thread part 4 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229174998659202
+- Metrics (at fetch): bookmark 2, impression 3278, like 6, quote 0, reply 1, retweet 0
+
+> When a user deposits some amount in the protocol, the shares they get minted are given by the formula shareToBeMinted = (amount * totalSupply) / totalAssets. Here, the division that happens, solidity rounds down by default.
+
+
+### Thread part 5 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229178433794055
+- Metrics (at fetch): bookmark 1, impression 3127, like 7, quote 0, reply 1, retweet 0
+
+> That means that if totalAssets are greater than the (amount * totalSupply), then the shareToBeMinted is zero.
+
+
+### Thread part 6 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229181608882303
+- Metrics (at fetch): bookmark 0, impression 3052, like 8, quote 0, reply 1, retweet 0
+
+> Now, if totalAssets is being read by using the current balance of the lending contract, then an attacker can mint 1 share when totalSupply is 0, donate a large amount of underlying tokens directly to the protocol to inflate the price of 1 wei of share to a large amount.
+
+
+### Thread part 7 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229184926577154
+- Metrics (at fetch): bookmark 2, impression 3218, like 7, quote 1, reply 2, retweet 0
+
+> How would the attack inflate the price even if totalAssets were being tracked internally? The answer is that if 1 wei can be donated, then why not a million ethers.
+>
+> Let's take an initial condition of totalSupply = 1 and totalAssets = 2.
+
+
+### Thread part 8 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229188290408457
+- Metrics (at fetch): bookmark 1, impression 2965, like 5, quote 0, reply 1, retweet 0
+
+> We will talk about how to achieve this initial condition later. For now, if a user deposits 1 wei of assets, then the shares minted to them would be (amount * totalSupply )/ totalAssets = 1 * 1 / 2 = 0.5 = 0 (due to rounding down)
+
+
+### Thread part 9 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229199136878856
+- Metrics (at fetch): bookmark 1, impression 3071, like 5, quote 0, reply 1, retweet 0
+
+> Now the totalAssets would have been increased to 2+1 = 3, and totalSupply stays at 1+0= 1. See below table to see what happens if a user continues to deposit an amount = totalAssets -1 in a loop. [pic.x.com/sC7qIZY0F0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJSrkWZacAAB9ox.jpg — no alt text provided by author
+
+
+### Thread part 10 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229203100496037
+- Metrics (at fetch): bookmark 0, impression 2887, like 4, quote 0, reply 1, retweet 0
+
+> Every time, the user gets minted amount * totalSupply / totalAssets = (totalAssets - 1) * 1 / totalAssets = 0 shares, and totalAssets almost double.
+
+
+### Thread part 11 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229211216543992
+- Metrics (at fetch): bookmark 0, impression 2972, like 6, quote 0, reply 1, retweet 0
+
+> With every loop, totalAssets increase exponentially following the function 2^(iteration count + 1). See below to visualize it. With only 75 loops, it increases to more than 10k ether. [pic.x.com/dhm5ylCdd8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJSrlHjacAAfqO1.png — no alt text provided by author
+
+
+### Thread part 12 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229214978765011
+- Metrics (at fetch): bookmark 1, impression 3017, like 6, quote 0, reply 1, retweet 0
+
+> Using this, the attacker can inflate the price of a share even if total assets are being tracked internally.
+>
+> Now, how to achieve the initial condition mentioned earlier?
+
+
+### Thread part 13 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229218606837979
+- Metrics (at fetch): bookmark 1, impression 2770, like 7, quote 1, reply 1, retweet 0
+
+> Let's say we want to achieve the initial condition of totalSupply = 1 and totalAssets = 2 for a lending protocol. When totalSupply is zero, we can take the below steps.
+
+
+### Thread part 14 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229222163697878
+- Metrics (at fetch): bookmark 1, impression 2838, like 6, quote 0, reply 3, retweet 0
+
+> Deposit some assets and borrow those assets by putting up some collateral. At this point, there will be no rounding error because totalSupply would be equal to totalAssets. After a block passes when at least 1 wei has been accumulated, rounding errors would be introduced.
+
+
+### Thread part 15 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229225879761204
+- Metrics (at fetch): bookmark 0, impression 2682, like 4, quote 0, reply 1, retweet 0
+
+> Now, if you repay all of the assets and redeem all but 1 wei of shares, the totalSupply will be 1 and totalAssets = 2.
+
+
+### Thread part 16 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
 - URL: https://x.com/kankodu/status/1771229229210038637
 - Metrics (at fetch): bookmark 1, impression 2696, like 7, quote 0, reply 1, retweet 0
 
 > It's because when some interest has accrued, totalAssets would be greater than totalSupply, and when the protocol calculates how many assets to return to the user, it will undercalculate by 1 wei due to a rounding error.
 
 
-### Thread part 3 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+### Thread part 17 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
 
 - URL: https://x.com/kankodu/status/1771229232649367965
 - Metrics (at fetch): bookmark 5, impression 3202, like 7, quote 0, reply 1, retweet 0
@@ -1326,7 +1499,7 @@ Tags (automatic): Smart contract / DeFi
 > assetsToBeWithdrawn = (shares * totalAssets) / totalSupply = (totalSupply -1 ) * totalAssets / totalSupply.
 
 
-### Thread part 4 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+### Thread part 18 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
 
 - URL: https://x.com/kankodu/status/1771229235891564726
 - Metrics (at fetch): bookmark 2, impression 1974, like 4, quote 0, reply 1, retweet 0
@@ -1334,7 +1507,7 @@ Tags (automatic): Smart contract / DeFi
 > As totalAssets is greater than totalSupply, the numerator would be just a few weis less than the (totalAsset - 1) multiple of totalSupply, and that means due to rounding down, the answer would be (totalAssets - 2), leaving 2 wei of totalAssets and 1 wei of totalSupply.
 
 
-### Thread part 5 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+### Thread part 19 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
 
 - URL: https://x.com/kankodu/status/1771229239402197187
 - Metrics (at fetch): bookmark 9, impression 3781, like 8, quote 0, reply 1, retweet 0
@@ -1359,7 +1532,7 @@ Tags (automatic): Smart contract / DeFi
     
 
 
-### Thread part 6 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+### Thread part 20 — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
 
 - URL: https://x.com/kankodu/status/1771229243189653884
 - Metrics (at fetch): bookmark 19, impression 3316, like 20, quote 0, reply 0, retweet 0
@@ -1874,23 +2047,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-07-29 · Post · By merely exploring Etherscan without any automation, I discovered a token with 100% of its total su
+## 2023-07-29 · Thread · A bug that was supposed to be only a good thought experiment inadvertently ended up making me $33.5k
 
 
-Tags (automatic): Platform: Immunefi
-
-
-### Post — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
-
-- URL: https://x.com/kankodu/status/1685320754521600000
-- Metrics (at fetch): bookmark 0, impression 2476, like 7, quote 0, reply 1, retweet 0
-
-> By merely exploring Etherscan without any automation, I discovered a token with 100% of its total supply in Balancer. A quick POC ensured that the attack functioned as expected. It was in https://t.co/YXNMpZav14's v2, not covered by their ImmuneFi bug bounty program at that time.
-
-
----
-
-## 2023-07-29 · Post · A bug that was supposed to be only a good thought experiment inadvertently ended up making me $33.5k
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 
 ### Post — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
@@ -1900,6 +2060,76 @@ Tags (automatic): Platform: Immunefi
 
 > A bug that was supposed to be only a good thought experiment inadvertently ended up making me $33.5k.
 > Here are the details 🧵:
+
+
+### Thread part 2 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320727464206336
+- Metrics (at fetch): bookmark 3, impression 4354, like 21, quote 0, reply 2, retweet 1
+
+> Consider an ERC4626-like vault. When its total supply is zero, the vault's share-to-underlying token ratio is 1:1. As the vault generates yield, the value of a share increases. https://t.co/eEns5ZGAeZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2N2RINbwAA8Q9N.jpg — no alt text provided by author
+
+
+### Thread part 3 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320730521538560
+- Metrics (at fetch): bookmark 0, impression 4231, like 7, quote 0, reply 1, retweet 0
+
+> Let's contemplate what would transpire if all vault share tokens were in a protocol that offers flash loans. Flashloan providers don't care what you do with the tokens as long as you return the same amount of tokens at the end of the transaction.
+
+
+### Thread part 4 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320733315256320
+- Metrics (at fetch): bookmark 0, impression 3698, like 8, quote 0, reply 1, retweet 0
+
+> If an attacker flash loans all the vault share tokens, withdraws them for underlying tokens, and then mints them again to repay the flash loan, they stand to profit. How?!
+
+
+### Thread part 5 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320735978590210
+- Metrics (at fetch): bookmark 0, impression 3337, like 7, quote 0, reply 1, retweet 0
+
+> Suppose the current vault share to underlying token ratio is 2:3. When the attacker burns all of the vault share tokens for the underlying tokens, the total supply, as per the ERC4626 vault, is now zero. That means the ratio is now reset to 1:1.
+
+
+### Thread part 6 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320745898102784
+- Metrics (at fetch): bookmark 0, impression 3733, like 7, quote 1, reply 1, retweet 0
+
+> When the attacker mints share tokens to repay the flashloan, they have to spend fewer underlying tokens to mint the same amount of share tokens. This results in the attacker profiting (current share price - 1) * total underlying balance`. https://t.co/UEbkXGeTud
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2N2SDca4AAl8L0.jpg — no alt text provided by author
+
+
+### Thread part 7 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320749249429504
+- Metrics (at fetch): bookmark 0, impression 2639, like 7, quote 0, reply 1, retweet 0
+
+> I thought of this pattern a while ago. I thought, "Yeah, it's a good thought experiment and maybe I will design a CTF around it," but there were too many conditions that need to come together to make the bug exploitable in practice. I was wrong.
+
+
+### Thread part 8 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320751879241729
+- Metrics (at fetch): bookmark 0, impression 2522, like 5, quote 0, reply 1, retweet 0
+
+> In the end of March, I decided to take a look on-chain. I focused on Balancer as it is a singleton contract that has flashloan functionality and, unlike Uniswap, it has pools that support selling yield-generating tokens efficiently.
+
+
+### Thread part 9 — @kankodu — 2023-07-29 16:05 UTC (2023-07-29 17:05 WAT)
+
+- URL: https://x.com/kankodu/status/1685320754521600000
+- Metrics (at fetch): bookmark 0, impression 2476, like 7, quote 0, reply 1, retweet 0
+
+> By merely exploring Etherscan without any automation, I discovered a token with 100% of its total supply in Balancer. A quick POC ensured that the attack functioned as expected. It was in https://t.co/YXNMpZav14's v2, not covered by their ImmuneFi bug bounty program at that time.
 
 
 ---

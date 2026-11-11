@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 161
+- Posts in this file: 175
 - Conversations/threads: 135
 - Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-10
@@ -3339,10 +3339,10 @@ Tags (automatic): Smart contract / DeFi, ZK
 
 ---
 
-## 2024-07-01 · Post · How seriously does @MakerDAO take security?
+## 2024-07-01 · Thread · How seriously does @MakerDAO take security?
 
 
-Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+Tags (automatic): Smart contract / DeFi, Platform: Code4rena / Sherlock / Cantina
 
 
 ### Post — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
@@ -3353,6 +3353,77 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > How seriously does @MakerDAO take security?
 >
 > 🧵1/7 In light of the upcoming @MakerDAO audit on @SherlockDefi, I want to reveal a critical vulnerability I discovered back in 2019. This issue had severe implications for the MakerDAO system. Let’s dive into what happened. 👇
+
+
+### Thread part 2 — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887142842257880
+- Metrics (at fetch): bookmark 0, impression 768, like 3, quote 0, reply 1, retweet 0
+
+> 🧵2/7 Steal ALL collateral during liquidation by exploiting a lack of validation in flip.kick
+>
+> The flip contract is a key part of the MCD system, that auctions collateral for DAI. But there was a major flaw that allowed exploiting the flip.kick method during liquidation (end). 💥
+
+
+### Thread part 3 — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887144016663022
+- Metrics (at fetch): bookmark 1, impression 754, like 4, quote 0, reply 1, retweet 0
+
+> 🧵3/7 The flip.kick method should have been a secure way to start auctions, but it had a critical vulnerability. It lacked proper validation and access control, allowing anyone to create a fake auction with a bid value of their choosing. 🏴‍☠️
+
+
+### Thread part 4 — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887145203650791
+- Metrics (at fetch): bookmark 0, impression 693, like 4, quote 0, reply 1, retweet 0
+
+> 🧵4/7 Here’s how the attack works:
+> 1️⃣ Fake auction: An attacker could call flip.kick with an arbitrarily large bid.
+> 2️⃣ Free DAI: attacker can then call end.skip to get free DAI.
+> 3️⃣ Steal collateral: Finally, attacker can convert this DAI into all collateral in the end contract💰
+
+
+### Thread part 5 — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887146440970617
+- Metrics (at fetch): bookmark 0, impression 636, like 3, quote 0, reply 1, retweet 0
+
+> 🧵5/7 The impact? This vulnerability allowed an attacker to steal ALL the collateral from the MCD system during liquidation (end), potentially within a single transaction. The cost to execute this attack was almost zero—just gas fees. 🚨
+
+
+### Thread part 6 — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887147611087028
+- Metrics (at fetch): bookmark 1, impression 657, like 3, quote 0, reply 1, retweet 0
+
+> 🧵6/7 How was it fixed? 🛠️
+>
+> The issue was addressed in this PR, which made the kick method authenticated. By requiring authorization for auction creation, the attack vector was closed. 🔒
+>
+> https://github.com/makerdao/dss/pull/67
+
+**Links in post:** https://github.com/makerdao/dss/pull/67
+
+
+### Thread part 7 — @lonelysloth_sec — 2024-07-01 21:20 UTC (2024-07-01 22:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887148915609888
+- Metrics (at fetch): bookmark 0, impression 1167, like 3, quote 0, reply 1, retweet 0
+
+> 🧵7/7
+>
+> It's important to note that this issue was responsibly disclosed to the developers. Since it was found before the contracts were deployed, no user funds were at risk. This highlights how serious the MakerDAO team are regarding the security of their protocol and users.
+
+
+### Thread part 8 — @lonelysloth_sec — 2024-07-01 21:21 UTC (2024-07-01 22:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1807887150081532098
+- Metrics (at fetch): bookmark 1, impression 1206, like 7, quote 1, reply 0, retweet 0
+
+> PS: while of course I can’t guarantee any project will evaluate a specific bug report fairly — based on my great experience submitting multiple bugs to them back in 2019, I’m betting the MakerDAO team will be even more competent now. 
+>
+> In the end that’s what matters to us hunters
 
 
 ---
@@ -3393,7 +3464,10 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2024-03-15 · Post · It always amazes me all those people with exactly one paid report and 1M+ in bounties.
+## 2024-03-15 · Thread · It always amazes me all those people with exactly one paid report and 1M+ in bounties.
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @lonelysloth_sec — 2024-03-15 16:14 UTC (2024-03-15 17:14 WAT)
@@ -3408,6 +3482,45 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > Never had a 1M bounty.
 >
 > The elusive 1M bug is my white whale.
+
+
+### Thread part 2 — @lonelysloth_sec — 2024-03-15 16:18 UTC (2024-03-15 17:18 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1768673017826357630
+- Metrics (at fetch): bookmark 1, impression 833, like 7, quote 0, reply 1, retweet 0
+
+> Maybe I’ll ask ChatGPT to write a children’s book: “The Lonely Sloth and the White Whale Bug”
+
+
+### Thread part 3 — @lonelysloth_sec — 2024-03-15 16:25 UTC (2024-03-15 17:25 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1768674989296025833
+- Metrics (at fetch): bookmark 1, impression 800, like 3, quote 0, reply 1, retweet 0
+
+> ”Feeling disheartened once again, Sammy decided to take a break and visit the ocean. As he sat on the sandy beach, watching the waves roll in, he noticed a peculiar creature approaching him – a friendly White Whale Bug!”
+>
+> True story
+>
+> ChatGPT nailed it again.
+
+
+### Thread part 4 — @lonelysloth_sec — 2024-03-15 19:49 UTC (2024-03-15 20:49 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1768726124492902759
+- Metrics (at fetch): bookmark 0, impression 3721, like 8, quote 1, reply 1, retweet 0
+
+> @0xDetermination Hopefully not. But I have a theory it’s devs that stumble on the vulnerability during their usual work.
+>
+> If they were actually trying to actively find bugs they probably would have more reports before hitting 1M. Or maybe they’re just really lucky
+
+
+### Thread part 5 — @lonelysloth_sec — 2024-03-19 05:18 UTC (2024-03-19 06:18 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1769956601354727498
+- Metrics (at fetch): bookmark 1, impression 429, like 3, quote 0, reply 1, retweet 0
+
+> @0xDetermination I should clarify I don’t mean anything malicious. Someone is developing a protocol that interacts closely with a second protocol. They learn a lot about the second protocol, end up finding a critical vulnerability. Report it, boom, 1M dollars.
+> Might never do it again.
 
 
 ---
@@ -3484,7 +3597,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-12-17 · Post · This was my best year yet in bug bounties. Feeling thankful and hoping that next year is even better
+## 2023-12-17 · Thread · This was my best year yet in bug bounties. Feeling thankful and hoping that next year is even better
 
 
 Tags (automatic): Platform: Immunefi
@@ -3501,3 +3614,33 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GBg_ioWaUAAoisc.jpg — no alt text provided by author
+
+
+### Thread part 2 — @lonelysloth_sec — 2023-12-20 02:57 UTC (2023-12-20 03:57 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1737306145545666590
+- Metrics (at fetch): bookmark 4, impression 310, like 4, quote 0, reply 1, retweet 0
+
+> @az_scep @immunefi @OddlySpecivik @0xMackenzieM There are well-known types of vulnerabilities, and for these reading lots of bug disclosures will get you a good idea of how to find.
+>
+> But there’s always the odd bugs that don’t fit easily in existing categories or are variations of existing ones.
+
+
+### Thread part 3 — @lonelysloth_sec — 2023-12-20 03:00 UTC (2023-12-20 04:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1737306879595004202
+- Metrics (at fetch): bookmark 6, impression 240, like 6, quote 0, reply 1, retweet 0
+
+> @az_scep @immunefi @OddlySpecivik @0xMackenzieM My general method is pretty simple. I look at pieces of code that look important, try to understand what assumptions it makes, then check if the assumptions are invalid in any scenarios.
+>
+> If there’s anything in the code I don’t understand I keep reading code and docs until I do.
+
+
+### Thread part 4 — @lonelysloth_sec — 2023-12-20 03:02 UTC (2023-12-20 04:02 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1737307531612201365
+- Metrics (at fetch): bookmark 4, impression 227, like 9, quote 0, reply 0, retweet 0
+
+> @az_scep @immunefi @OddlySpecivik @0xMackenzieM The most interesting things tend to happen when you studied a codebase so much you can kinda run scenarios in your head.
+>
+> For a big project it can take weeks to get to that point.

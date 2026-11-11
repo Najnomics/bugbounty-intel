@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 57
+- Posts in this file: 59
 - Conversations/threads: 57
 - Oldest post captured: 2013-09-06
 - Newest post captured: 2022-11-29
@@ -10,7 +10,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2022-11-29 · Post · Disappointing disclosure post. It does not explain:
+## 2022-11-29 · Thread · Disappointing disclosure post. It does not explain:
 
 
 ### Post — @str4d — 2022-11-29 23:29 UTC (2022-11-30 00:29 WAT)
@@ -21,7 +21,9 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 > Disappointing disclosure post. It does not explain:
 > - The bug.
 > - Its impact (that every single transaction on Secret Network v1, past and future, can be decrypted if the bug was exploited).
-> - Reasons for belief that it was not exploited. https://t.co/zw2xpiPSmG
+> - Reasons for belief that it was not exploited. https://twitter.com/SecretNetwork/status/1597636628369268737
+
+**Links in post:** https://twitter.com/SecretNetwork/status/1597636628369268737
 
 **Quoted post (full text):**
 
@@ -34,6 +36,31 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
     >
     > Please read our full disclosure on the Secret Blog: https://t.co/HeCqQVshuy
     
+
+
+### Thread part 2 — @str4d — 2022-11-29 23:29 UTC (2022-11-30 00:29 WAT)
+
+- URL: https://x.com/str4d/status/1597734451387125761
+- Metrics (at fetch): bookmark 1, impression 0, like 37, quote 1, reply 1, retweet 5
+
+> Compare this to the ECC blog post about the 2019 Zcash counterfeiting bug in Sprout:
+> - In-depth explanation of the bug.
+> - Reasons why ECC believed it had not been exploited.
+> - States how it is possible to monitor if someone exploited the bug.
+>
+> https://electriccoin.co/blog/zcash-counterfeiting-vulnerability-successfully-remediated/#counterfeiting-vulnerability-details
+
+**Links in post:** https://electriccoin.co/blog/zcash-counterfeiting-vulnerability-successfully-remediated/#counterfeiting-vulnerability-details
+
+
+### Thread part 3 — @str4d — 2022-11-29 23:29 UTC (2022-11-30 00:29 WAT)
+
+- URL: https://x.com/str4d/status/1597734453790416896
+- Metrics (at fetch): bookmark 0, impression 0, like 35, quote 0, reply 2, retweet 6
+
+> This is also why I prefer designs that start from maximal privacy. Financial systems are inherently social; loss-of-funds or supply-inflation events can be painful, but social remediation is possible (e.g. Eth DAO bug-fork).
+>
+> Privacy disclosures can't be fixed with a code patch.
 
 
 ---

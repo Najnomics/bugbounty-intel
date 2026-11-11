@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 403
+- Posts in this file: 404
 - Conversations/threads: 356
 - Oldest post captured: 2023-02-23
 - Newest post captured: 2026-11-09
@@ -8362,7 +8362,10 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2023-03-17 · Post · 3 days ago I learned this unchecked state vuln from @gogotheauditor. Yesterday found this exact bug 
+## 2023-03-17 · Thread · 3 days ago I learned this unchecked state vuln from @gogotheauditor. Yesterday found this exact bug 
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @DevDacian — 2023-03-17 20:40 UTC (2023-03-17 21:40 WAT)
@@ -8370,10 +8373,18 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 - URL: https://x.com/DevDacian/status/1636829882406825984
 - Metrics (at fetch): bookmark 8, impression 2618, like 27, quote 1, reply 3, retweet 0
 
-> 3 days ago I learned this unchecked state vuln from @gogotheauditor. Yesterday found this exact bug in a live contract with 7-figure TVL. Wrote PoC which leverages into bricking core functionality, shared PoC with devs, no response. Auditors how long before public disclosure? https://t.co/tATpqbAvLY
+> 3 days ago I learned this unchecked state vuln from @gogotheauditor. Yesterday found this exact bug in a live contract with 7-figure TVL. Wrote PoC which leverages into bricking core functionality, shared PoC with devs, no response. Auditors how long before public disclosure? [pic.x.com/tATpqbAvLY]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FrcvZ4nacAAfq_1.jpg — no alt text provided by author
+
+
+### Thread part 2 — @DevDacian — 2023-03-17 20:45 UTC (2023-03-17 21:45 WAT)
+
+- URL: https://x.com/DevDacian/status/1636831019776249856
+- Metrics (at fetch): bookmark 0, impression 686, like 3, quote 0, reply 4, retweet 0
+
+> thoughts/advice? @trust__90 @pashov @bytes032 @0xriptide @PatrickAlphaC @gjaldon @hansfriese @solidityauditor @0xreentrant @tinchoabbate @cmichelio
 
 
 ---

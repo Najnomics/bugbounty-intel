@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 388
+- Posts in this file: 391
 - Conversations/threads: 370
 - Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
@@ -2365,10 +2365,10 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-02-19 · Post · Is this the biggest bounty ever on @Hacker0x01?! Check this thread to learn how they were rewarded $
+## 2022-02-19 · Thread · Is this the biggest bounty ever on @Hacker0x01?! Check this thread to learn how they were rewarded $
 
 
-Tags (automatic): Platform: HackerOne
+Tags (automatic): Smart contract / DeFi, Platform: HackerOne
 
 
 ### Post — @zseano — 2022-02-19 14:30 UTC (2022-02-19 15:30 WAT)
@@ -2379,6 +2379,14 @@ Tags (automatic): Platform: HackerOne
 > Is this the biggest bounty ever on @Hacker0x01?! Check this thread to learn how they were rewarded $250,000 for submitting a serious issue to Coinbase. Hats off to you @Tree_of_Alpha 👏 https://t.co/8gDAVOVs0g
 
 **Quoted post** 1495014902582362112: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @zseano — 2022-02-19 14:32 UTC (2022-02-19 15:32 WAT)
+
+- URL: https://x.com/zseano/status/1495043657740783617
+- Metrics (at fetch): bookmark 0, impression 0, like 48, quote 0, reply 3, retweet 1
+
+> No smart contract hacking needed as far as I can tell, just good ole messing with api calls 👀
 
 
 ---
@@ -2545,7 +2553,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-12-23 · Post · no better time to start bug bounties, lots of programs, lots of ways to learn (videos, writeups, tra
+## 2021-12-23 · Thread · no better time to start bug bounties, lots of programs, lots of ways to learn (videos, writeups, tra
 
 
 ### Post — @zseano — 2021-12-23 00:23 UTC (2021-12-23 01:23 WAT)
@@ -2553,7 +2561,9 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/zseano/status/1473811505418276865
 - Metrics (at fetch): bookmark 20, impression 0, like 158, quote 1, reply 10, retweet 21
 
-> no better time to start bug bounties, lots of programs, lots of ways to learn (videos, writeups, training etc), easy accessibility (start instantly). set a goal for 2022 and go hard for 12 months :) we got paid just under $10k (combined) from a public program. bugs are out there! https://t.co/VmxEI7Wn2G
+> no better time to start bug bounties, lots of programs, lots of ways to learn (videos, writeups, training etc), easy accessibility (start instantly). set a goal for 2022 and go hard for 12 months :) we got paid just under $10k (combined) from a public program. bugs are out there! https://twitter.com/zseano/status/1468589335901618176
+
+**Links in post:** https://twitter.com/zseano/status/1468589335901618176
 
 **Quoted post (full text):**
 
@@ -2564,6 +2574,14 @@ Tags (automatic): Platform: HackerOne
     
     > 7 days on 1 public program on @Hacker0x01 for "21 days of Haxmas" and already 5k+ paid out! We're running into some dead ends now though so time to switch it up and find a new target. Public programs have more bugs than you think, it isn't all about privates :)
     
+
+
+### Thread part 2 — @zseano — 2021-12-23 00:30 UTC (2021-12-23 01:30 WAT)
+
+- URL: https://x.com/zseano/status/1473813297472458753
+- Metrics (at fetch): bookmark 0, impression 0, like 34, quote 0, reply 0, retweet 1
+
+> we did burn out a bit and struggled to find another good public program to dive into but overall it was great fun and some nice findings! :) I will get our haxmas experience written up soon to hopefully help show you it's possible for you to replicate this :-) &lt;3
 
 
 ---
@@ -2667,7 +2685,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2021-11-08 · Post · helping people earn bounties and get jobs. :-) Been training members on @BugBountyHunt3r for a year 
+## 2021-11-08 · Thread · helping people earn bounties and get jobs. :-) Been training members on @BugBountyHunt3r for a year 
 
 
 ### Post — @zseano — 2021-11-08 13:04 UTC (2021-11-08 14:04 WAT)
@@ -2675,12 +2693,23 @@ Tags (automatic): XSS
 - URL: https://x.com/zseano/status/1457695536417476611
 - Metrics (at fetch): bookmark 12, impression 0, like 252, quote 0, reply 11, retweet 12
 
-> helping people earn bounties and get jobs. :-) Been training members on @BugBountyHunt3r for a year now and it's going really well. Still lots to do! Keen to get my own vuln disclosure/bug bounty platform finished. https://t.co/T2Bl4OMlP1
+> helping people earn bounties and get jobs. :-) Been training members on @BugBountyHunt3r for a year now and it's going really well. Still lots to do! Keen to get my own vuln disclosure/bug bounty platform finished. [pic.x.com/T2Bl4OMlP1]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FDq_2FmWUAYKotQ.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/FDrAY8ZXIAUAX_Q.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/FDrFKO6XoAAQr_1.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zseano — 2021-11-08 23:33 UTC (2021-11-09 00:33 WAT)
+
+- URL: https://x.com/zseano/status/1457853936992497666
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 0, reply 0, retweet 0
+
+> :-) [pic.x.com/1SDx3OF8h5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FDtWVtaXMAMDN-K.jpg — no alt text provided by author
 
 
 ---

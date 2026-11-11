@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
+- Posts in this file: 105
 - Conversations/threads: 82
 - Oldest post captured: 2023-01-26
 - Newest post captured: 2026-10-19
@@ -1060,7 +1060,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-09-14 · Post · Promise I won’t post about every bounty I get, but this is a for sure a milestone for me 😁
+## 2023-09-14 · Thread · Promise I won’t post about every bounty I get, but this is a for sure a milestone for me 😁
 
 
 ### Post — @Kiki_developer — 2023-09-14 15:29 UTC (2023-09-14 16:29 WAT)
@@ -1077,6 +1077,39 @@ Tags (automatic): Platform: Immunefi
 > Near risk free trading 
 >
 >  🧵 https://t.co/DZgu1jPxDu
+
+**Media:**
+- media `3_1702343781289537536` (details not returned by the API)
+
+
+### Thread part 2 — @Kiki_developer — 2023-09-14 15:29 UTC (2023-09-14 16:29 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1702343789438796284
+- Metrics (at fetch): bookmark 0, impression 278, like 1, quote 0, reply 1, retweet 0
+
+> So it all started when I was asked to participate in an audit of a type of protocol that I’ve never worked on before. 
+>
+> I had about two weeks to get ready for the audit and I wanted to make sure I could contribute. And what better way to learn then to go bounty hunting?
+
+
+### Thread part 3 — @Kiki_developer — 2023-09-14 15:29 UTC (2023-09-14 16:29 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1702343792437661791
+- Metrics (at fetch): bookmark 0, impression 527, like 2, quote 0, reply 1, retweet 0
+
+> First I went to immunifi hoping to find something there. Unfortunately the type of protocol was pretty niche so no luck 😞
+>
+> Next I went onto defillama and searched for protocols similar to the one I was going to audit. Eventually I found one and to my surprise they had a bounty!
+
+
+### Thread part 4 — @Kiki_developer — 2023-09-14 15:29 UTC (2023-09-14 16:29 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1702343795486994597
+- Metrics (at fetch): bookmark 0, impression 518, like 6, quote 0, reply 2, retweet 0
+
+> ~1 week later 3 bugs were found and submitted. 2 of the bugs were relatively creative and a Immunifi mediator would of been nice lol. But at the end of the day it worked out. 
+>
+> Looking forward to sharing the report and POC once everything is resolved!
 
 
 ---
@@ -1106,7 +1139,10 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-09-08 · Post · Another bounty confirmed and paid! Although this one got bumped from a critical to an informational 
+## 2023-09-08 · Thread · Another bounty confirmed and paid! Although this one got bumped from a critical to an informational 
+
+
+Tags (automatic): Platform: Immunefi
 
 
 ### Post — @Kiki_developer — 2023-09-08 00:21 UTC (2023-09-08 01:21 WAT)
@@ -1115,6 +1151,17 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 2, impression 3166, like 31, quote 1, reply 7, retweet 0
 
 > Another bounty confirmed and paid! Although this one got bumped from a critical to an informational due to a scoping technicality. But at the end of the day the impact was real and now users funds are a lot safer then they were before! That’s a win for me 😄 https://t.co/xXJiBj1r2n
+
+**Media:**
+- media `3_1699941077132943360` (details not returned by the API)
+
+
+### Thread part 2 — @Kiki_developer — 2023-09-08 00:21 UTC (2023-09-08 01:21 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1699941083466313848
+- Metrics (at fetch): bookmark 0, impression 556, like 1, quote 0, reply 1, retweet 1
+
+> As always big thanks to the mediators at @immunefi and especially @0xMackenzieM! This took a long time to resolve but you were all were extremely helpful every step of the way 🙏
 
 
 ---
@@ -1277,7 +1324,10 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-06-03 · Post · I enjoy reading the talks had about potential EIP's. Today I am reading more about EIP-998 the discu
+## 2023-06-03 · Thread · I enjoy reading the talks had about potential EIP's. Today I am reading more about EIP-998 the discu
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @Kiki_developer — 2023-06-03 22:58 UTC (2023-06-03 23:58 WAT)
@@ -1288,6 +1338,34 @@ Tags (automatic): Platform: Immunefi
 > I enjoy reading the talks had about potential EIP's. Today I am reading more about EIP-998 the discussions started in 2018 and has continued into 2023 which is pretty crazy!
 >
 > erc-998 is an extension of erc-721 that allows fro composable NFT's, here's what ive noticed so far  🧵
+
+
+### Thread part 2 — @Kiki_developer — 2023-06-03 22:58 UTC (2023-06-03 23:58 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1665130872176271360
+- Metrics (at fetch): bookmark 0, impression 84, like 1, quote 0, reply 1, retweet 0
+
+> The first thing I noticed was that the ERC is still in draft. So there is not a finalized version out there for projects yet. However, I have seen projects implement composable NFT's before with this standard. 
+>
+> An unfinished EIP used in protocols? Sounds like a dream for bugs 😄
+
+
+### Thread part 3 — @Kiki_developer — 2023-06-03 22:58 UTC (2023-06-03 23:58 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1665130875313623040
+- Metrics (at fetch): bookmark 0, impression 144, like 1, quote 0, reply 1, retweet 0
+
+> Ive also noticed that there are some really smart people in those threads! The level of understanding of the evm that they have is deep and I think there contributions might be going a little unnoticed
+
+
+### Thread part 4 — @Kiki_developer — 2023-06-03 22:58 UTC (2023-06-03 23:58 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1665130877905702912
+- Metrics (at fetch): bookmark 0, impression 126, like 2, quote 0, reply 0, retweet 0
+
+> Overall im surprised it is still in draft. But this just means that the discussion will hopefully continue! For those interested in reading up on it
+>
+> https://t.co/YS2UmwKs97
 
 
 ---
@@ -1323,7 +1401,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-06-01 · Post · Unpopular opinion: Lows can be as useful as crits. And here’s why.. 🧵
+## 2023-06-01 · Thread · Unpopular opinion: Lows can be as useful as crits. And here’s why.. 🧵
 
 
 ### Post — @Kiki_developer — 2023-06-01 13:43 UTC (2023-06-01 14:43 WAT)
@@ -1334,6 +1412,49 @@ Tags (automatic): Platform: Immunefi
 > Unpopular opinion: Lows can be as useful as crits. And here’s why.. 🧵
 >
 > On my last audit there was some weird implementation where when the owner attempted to withdraw all the fees in the contract the amount would be determined by a variable
+
+
+### Thread part 2 — @Kiki_developer — 2023-06-01 13:43 UTC (2023-06-01 14:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1664266373584003073
+- Metrics (at fetch): bookmark 0, impression 123, like 0, quote 0, reply 1, retweet 0
+
+> The variable would increase every time fees were sent to the contract. Looking at this I immediately knew that If I could get the variable to be greater than the actual balance all funds would be locked forever.
+
+
+### Thread part 3 — @Kiki_developer — 2023-06-01 13:43 UTC (2023-06-01 14:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1664266375848931328
+- Metrics (at fetch): bookmark 0, impression 101, like 0, quote 0, reply 1, retweet 0
+
+> So at this point I knew the state I wanted to reach and if I did it would have been a crit. But I also knew that if they just withdrew the actual entire balance and ditched the variable it would have fixed this issue.
+
+
+### Thread part 4 — @Kiki_developer — 2023-06-01 13:43 UTC (2023-06-01 14:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1664266377744748546
+- Metrics (at fetch): bookmark 0, impression 101, like 0, quote 0, reply 1, retweet 0
+
+> There wasn’t a clear path to reach the state I wanted, so I had two options:
+> 1. spend a large chunk of my auditing time trying to upgrade this from low to crit
+>
+> 2. Mark it as a low and give them the fix that would neutralize the entire issue
+
+
+### Thread part 5 — @Kiki_developer — 2023-06-01 13:43 UTC (2023-06-01 14:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1664266379749642241
+- Metrics (at fetch): bookmark 0, impression 174, like 2, quote 0, reply 1, retweet 0
+
+> I chose option 2. And the reason being is because my job is to make my clients protocol as secure as possible. Option 2 netted the same security and gave me extra time do dig into other areas of the protocol. Which paid off because I was able to find a crit somewhere else.
+
+
+### Thread part 6 — @Kiki_developer — 2023-06-01 13:43 UTC (2023-06-01 14:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1664266382211690498
+- Metrics (at fetch): bookmark 0, impression 163, like 1, quote 0, reply 0, retweet 0
+
+> This is a big value added that private audits can have. The priority is truly on the security of the protocol nothing else. 🤝
 
 
 ---

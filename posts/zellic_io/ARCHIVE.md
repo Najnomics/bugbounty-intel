@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 301
+- Posts in this file: 353
 - Conversations/threads: 103
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
@@ -2903,7 +2903,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > Exploiting this bug would crash every node on the NEAR network.
 >
-> Read on for all the details: https://t.co/v7WLDIeShn
+> Read on for all the details: [pic.x.com/v7WLDIeShn]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GYagdVlaoAALsy9.png — no alt text provided by author
@@ -3109,10 +3109,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-09-06 · Post · Version 0.11.0 of gnark was just released, which fixes two vulnerabilities in the Groth16 backend re
+## 2024-09-06 · Thread · Version 0.11.0 of gnark was just released, which fixes two vulnerabilities in the Groth16 backend re
 
 
-Tags (automatic): ZK
+Tags (automatic): ZK, Platform: Code4rena / Sherlock / Cantina
 
 
 ### Post — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
@@ -3124,10 +3124,225 @@ Tags (automatic): ZK
 >
 > These affect the soundness and ZK property of generated proofs.
 >
-> Read on for more details and how to check if you're vulnerable. https://t.co/7LbYoQlWd3
+> Read on for more details and how to check if you're vulnerable. [pic.x.com/7LbYoQlWd3]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GW08B8XXcAAZdjF.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188413837193302
+- Metrics (at fetch): bookmark 0, impression 579, like 2, quote 0, reply 2, retweet 0
+
+> Both issues involve gnark’s extension of standard Groth16 with commitments. 
+>
+> The first issue (CVE-2024-45040) impacts the zero-knowledge property of the proofs, with it being possible to recover committed private witnesses by brute-forcing all possibilities. [pic.x.com/D8PmHG8pOT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08M0oa8AAd9pv.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188416378990940
+- Metrics (at fetch): bookmark 0, impression 389, like 1, quote 0, reply 1, retweet 0
+
+> Projects may be vulnerable if the search space of possible values that the circuit variables committed to in one commitment is small enough that an attacker might try all of them. 
+>
+> We will explain this in more detail later in this thread.
+
+
+### Thread part 4 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188418023157989
+- Metrics (at fetch): bookmark 0, impression 402, like 1, quote 0, reply 1, retweet 0
+
+> The second issue (CVE-2024-45039) impacts soundness. However, only circuits that use more than one commitment are vulnerable.
+>
+> While many circuits may use commitments via the standard library’s range checks, only a single joint commitment is produced by all range checks. [pic.x.com/ZSRPWcwBtr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08RCfbIAAw82x.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188420955005072
+- Metrics (at fetch): bookmark 0, impression 351, like 1, quote 0, reply 1, retweet 0
+
+> You can check how many commitments your proof includes by checking the length of the `CommitmentKeys` field of the proving key. 
+>
+> If it is zero or one, the circuit is not impacted by CVE-2024-45039. [pic.x.com/8e8muUBZvG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08VifWYAAMuCF.png — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188423857434663
+- Metrics (at fetch): bookmark 0, impression 282, like 1, quote 0, reply 1, retweet 0
+
+> Let us get to the details. 
+>
+> What gnark’s Groth16 extension allows is committing to a list of circuit variables. This adds an additional elliptic curve point to the proof, and a hash of this point is added as an extra public input. [pic.x.com/6WMLlDuNU5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08aTUa8AAUmev.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188426613092715
+- Metrics (at fetch): bookmark 0, impression 249, like 1, quote 0, reply 1, retweet 0
+
+> This allows circuits to use random challenges depending on a list of circuit variables without needing to calculate a hash in circuit, making Schwartz–Zippel-style identity testing more efficient. [pic.x.com/BdMr7pnurp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08efAa8AIoJi-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GW08fTca8AEYGUY.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188428576026816
+- Metrics (at fetch): bookmark 0, impression 218, like 1, quote 0, reply 1, retweet 0
+
+> While a circuit writer can use commitments directly, for most projects the direct impact of gnark’s support of such commitments will be the standard library’s more efficient lookups and range checks that are made possible by this extension.
+
+
+### Thread part 9 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188429897203997
+- Metrics (at fetch): bookmark 0, impression 210, like 1, quote 0, reply 1, retweet 0
+
+> Up to gnark 0.10.0, the commitment point corresponding to circuit variables a_1, …, a_n was of the form D = a_1⋅L_1 + … + a_n⋅L_n, with no blinding term. The elliptic curve points L_i are part of the proving key.
+
+
+### Thread part 10 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188431872700462
+- Metrics (at fetch): bookmark 0, impression 237, like 2, quote 0, reply 1, retweet 0
+
+> Thus, an attacker with access only to the proof and proving key could verify whether a guess (a’_1, …, a’_n) for the values of the circuit variables is correct by checking whether D = a’_1⋅L_1 + … + a’_n⋅L_n. [pic.x.com/YozZmLrZAV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08nTnWcAAChnI.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GW08oENbcAAqqwV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GW08o2YXEAESFrI.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GW08pwuW0AA-e0k.jpg — no alt text provided by author
+
+
+### Thread part 11 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188434125074542
+- Metrics (at fetch): bookmark 0, impression 205, like 1, quote 0, reply 1, retweet 0
+
+> This explains the zero-knowledge issue. 
+>
+> Let us now move on to the soundness issue, which only appears when more than one commitment is used.
+
+
+### Thread part 12 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188436092227960
+- Metrics (at fetch): bookmark 0, impression 216, like 1, quote 0, reply 1, retweet 0
+
+> The Groth16 pairing check carried out by the verifier, modified for use of commitments D_1, …, D_k, only depends on a sum of all commitment points plus terms depending on the public inputs to the circuit. [pic.x.com/TyMSBy7ISP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08tPYbUAAv7P6.png — no alt text provided by author
+
+
+### Thread part 13 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188438654939451
+- Metrics (at fetch): bookmark 0, impression 210, like 2, quote 0, reply 1, retweet 0
+
+> Without any additional checks, this would allow a malicious prover to modify a proof to one with arbitrary public inputs of their choice, by changing the commitment points accordingly so that the sum is still the original, correct one. [pic.x.com/V5YIpQPRbk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08v_bboAA22uf.png — no alt text provided by author
+
+
+### Thread part 14 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188441200824659
+- Metrics (at fetch): bookmark 0, impression 198, like 1, quote 0, reply 1, retweet 0
+
+> This can be prevented as follows. If a commitment D is supposed to be calculated as a linear combination of L_1 and L_2, for example, then the prover should prove knowledge of a_1 and a_2 such that D = a_1⋅L_1 + a_2⋅L_2. [pic.x.com/Ljgep14cDP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08yywX0AAbnUB.png — no alt text provided by author
+
+
+### Thread part 15 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188444484796795
+- Metrics (at fetch): bookmark 0, impression 187, like 1, quote 0, reply 1, retweet 0
+
+> Up to version 0.10.0, gnark included such proofs of knowledge but batched in a way that they only showed that the commitments were obtained as a linear combination of not just the points that should be used for that commitment but also those used for all other commitments. [pic.x.com/P33cmSk615]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW087piawAA32p5.png — no alt text provided by author
+
+
+### Thread part 16 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188447303594459
+- Metrics (at fetch): bookmark 0, impression 185, like 2, quote 0, reply 1, retweet 0
+
+> This prevents the fungibility of public inputs with the commitment points. However, commitment points are still fungible with each other. 
+>
+> For example, if there are two commitments, a malicious prover may always use zero for the first commitment point. [pic.x.com/rYggRgZggV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08-xmaMAAbY-x.png — no alt text provided by author
+
+
+### Thread part 17 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188450503848306
+- Metrics (at fetch): bookmark 0, impression 186, like 1, quote 0, reply 1, retweet 0
+
+> In practice, this means a malicious prover can make all but one challenge point coming from commitments a constant that does not depend on assignments, breaking the soundness of most use cases of challenge points (such as Schwartz–Zippel–style identity testing). [pic.x.com/A3p4ARCofM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW09BehXQAE0Xmc.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GW09CW6XYAE4-vR.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GW09DBkW0AAazYK.jpg — no alt text provided by author
+
+
+### Thread part 18 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188452831691039
+- Metrics (at fetch): bookmark 0, impression 293, like 1, quote 0, reply 1, retweet 0
+
+> This requires at least two commitments, however, so circuits that use at most one commitment are not vulnerable to this. [pic.x.com/XJecK3gTIi]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW09E7WbYAAEdcA.png — no alt text provided by author
+
+
+### Thread part 19 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188454723318207
+- Metrics (at fetch): bookmark 2, impression 874, like 4, quote 0, reply 1, retweet 1
+
+> For an in-depth explanation of Groth16, gnark’s extension with commitments, and the two issues we reported, check out our blog post: https://www.zellic.io/blog/gnark-bug-groth16-commitments
+
+**Links in post:** https://www.zellic.io/blog/gnark-bug-groth16-commitments
+
+
+### Thread part 20 — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188456111632449
+- Metrics (at fetch): bookmark 0, impression 771, like 2, quote 0, reply 0, retweet 0
+
+> Also, check out the August edition of the Zellic Security Roundup where we cover our recent acquisition of Code4rena and the latest news in Web3 security: https://newsletter.zellic.io/p/zellic-security-roundup-august-24
+
+**Links in post:** https://newsletter.zellic.io/p/zellic-security-roundup-august-24
 
 
 ---
@@ -3471,7 +3686,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-04-19 · Post · SECURITY ADVISORY
+## 2024-04-19 · Thread · SECURITY ADVISORY
 
 
 ### Post — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
@@ -3489,6 +3704,124 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GLi99M_awAEksYI.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389558300438979
+- Metrics (at fetch): bookmark 0, impression 521, like 1, quote 0, reply 1, retweet 0
+
+> First, it’s important to note that the first issue was not in the previous version and was discovered in a fork of Gains Network that we inspected. 
+>
+> Though the second issue was in a previous version of Gains Network, it does not affect their latest contracts (funds are safe).
+
+
+### Thread part 3 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389560100093998
+- Metrics (at fetch): bookmark 0, impression 532, like 1, quote 0, reply 1, retweet 0
+
+> Before diving into the details of the issues, let’s go over the basics.
+>
+> Leverage-trading platforms like Gains allow users to use a smaller amount of initial funds to gain exposure to a larger trade position in an underlying asset.
+>
+> Users can also set stop loss and take profit,
+
+
+### Thread part 4 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389561731613019
+- Metrics (at fetch): bookmark 0, impression 472, like 0, quote 0, reply 1, retweet 0
+
+> A trader could open a trade with the following parameters, and trades are of the following types: `MARKET`, `REVERSAL`, and `MOMENTUM`. https://t.co/i0P4LIUtnp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLi-HeDaEAA5rWL.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389563841405365
+- Metrics (at fetch): bookmark 0, impression 465, like 0, quote 0, reply 1, retweet 0
+
+> After the trade is opened, the value of `openPrice` is updated to the price of the token at the time of opening the trade. 
+>
+> Take a look at the below code to see if you can find something suspicious if the trade opened was a buy(long) order: https://t.co/MWKTnQlxqY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLi-LXgakAAczEZ.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389566118957563
+- Metrics (at fetch): bookmark 0, impression 484, like 0, quote 0, reply 2, retweet 0
+
+> While it is not quite obvious, there is an interesting question to ask here: What if `https://t.co/8qpzO2t9LW` (or `currentPrice`) could be set greater than `openPrice`? 🤔 This is where we come across our first issue.
+>
+> Our initial assumption was that it wouldn’t be possible to
+
+
+### Thread part 7 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389567813464432
+- Metrics (at fetch): bookmark 0, impression 429, like 0, quote 0, reply 1, retweet 0
+
+> Let's look at the same image once again and see if we can find another issue there. 
+>
+> (🔎 Hint: Take a look at the `int` cast) https://t.co/mpHXuJdvLM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLi-TP0bcAAXzXb.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389569994407942
+- Metrics (at fetch): bookmark 0, impression 391, like 1, quote 0, reply 1, retweet 0
+
+> Let’s review the exact line of code that leads to the vulnerability: https://t.co/tugvm2JSEL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLi-WJLaQAArgek.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389572339019966
+- Metrics (at fetch): bookmark 0, impression 403, like 0, quote 0, reply 1, retweet 0
+
+> If the value of `currentPrice` is under the control of an attacker, then using a very large value in place of `currentPrice` could make it negative when casted to an `int`. In this case, if `buy` is false, the value of `diff` could be manipulated, leading to profit similar to the https://t.co/oZyUM2Qf3t
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLi-a5Da4AA0NX6.png — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389574545219752
+- Metrics (at fetch): bookmark 0, impression 430, like 1, quote 0, reply 1, retweet 0
+
+> While the value of `https://t.co/8qpzO2t9LW` is verified not to be such a large value, the value of `https://t.co/PtEwYoPavo` is directly set in the store using the code shown below. This could again lead to 900% profit for a trade, no matter the price of the token after the https://t.co/vNBivQvc6Y
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLi-fiaawAAf1wt.jpg — no alt text provided by author
+
+
+### Thread part 11 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389577099661440
+- Metrics (at fetch): bookmark 0, impression 1057, like 1, quote 0, reply 1, retweet 0
+
+> Although we’ve reached out to all the teams we could find that are using the vulnerable version of Gains, there may still be teams using the vulnerable version. If you're building on Gains and believe you're at risk from either of the issues, reach us at https://t.co/Bz1FYC8MMt.
+
+
+### Thread part 12 — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389578546630821
+- Metrics (at fetch): bookmark 1, impression 918, like 3, quote 0, reply 0, retweet 0
+
+> To learn all the technical details behind these bugs, check out our full blog post here: https://t.co/uoTtW4e21B
 
 
 ---
@@ -4667,10 +5000,10 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 ---
 
-## 2022-12-07 · Post · We audited SPL-Token-2022 for the @SolanaFndn. It's an update for the SPL-Token program.
+## 2022-12-07 · Thread · We audited SPL-Token-2022 for the @SolanaFndn. It's an update for the SPL-Token program.
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 
 ### Post — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
@@ -4680,10 +5013,69 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > We audited SPL-Token-2022 for the @SolanaFndn. It's an update for the SPL-Token program.
 >
-> In our review, we found an inflationary bug that would've allowed infinite minting of tokens for free. The audit was pre-launch. The code was not enabled, so no funds were at risk. 👇🧵 https://t.co/v3PDJKdDKI
+> In our review, we found an inflationary bug that would've allowed infinite minting of tokens for free. The audit was pre-launch. The code was not enabled, so no funds were at risk. 👇🧵 [pic.x.com/v3PDJKdDKI]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FjZvO2iUUAAZ-M-.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
+
+- URL: https://x.com/zellic_io/status/1600589029170216960
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> The bug was in the Zero-Knowledge confidential token transfer functionality.
+>
+> A ZK transfer has two steps: proof verification, and the actual transfer. The first instruction verifies the signature using a built-in precompile. A second instruction executes the transfer. [pic.x.com/Ki3glqkS7Y]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjZvPLiUoAIYzmy.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
+
+- URL: https://x.com/zellic_io/status/1600589035419750400
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> Critically, the second instruction (the transfer) must check the first instruction (the proof verification) also exists. The problem is that the source balance (new_source_ciphertext) isn't verified after a transfer executes.
+>
+> Can you think of the exploit? [pic.x.com/8qSkyRD1ms]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjZvPk0VsAAPmtv.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
+
+- URL: https://x.com/zellic_io/status/1600589042080366592
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> An attacker could reuse one verification instruction for MULTIPLE transfer instructions in a tx. They can all reference the same ZK proof!
+>
+> In other words, they could send money multiple times, underflowing the sender's balance. That effectively mints tokens out of thin air! [pic.x.com/k4V5sl2CbG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjZvP84VIAE7ITJ.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
+
+- URL: https://x.com/zellic_io/status/1600589045289013248
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> Solana Foundation quickly patched this bug and were extremely proactive. Kudos to the Solana Foundation for their excellent security posture and commitment to their users' safety. Pre-launch audits are the best because they find bugs while no funds are at risk!
+
+
+### Thread part 6 — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
+
+- URL: https://x.com/zellic_io/status/1600589047746830336
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 1
+
+> We hope you enjoyed this thread on confidential transfers. Confidential transfers are new and exciting technology, but critical to get right the first time.
+>
+> Lastly, for more in-depth Web3 security research, check out our blog! https://zellic.io/blog
+
+**Links in post:** https://zellic.io/blog
 
 
 ---
@@ -4705,7 +5097,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-11-15 · Post · Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning s
+## 2022-11-15 · Thread · Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning s
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2022-11-15 23:26 UTC (2022-11-16 00:26 WAT)
@@ -4714,10 +5109,93 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 56, impression 0, like 126, quote 3, reply 6, retweet 24
 
 > Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning signs that were present *months ahead of time*.
-> More:👇🧵 https://t.co/61w2U3fgo5
+> More:👇🧵 [pic.x.com/61w2U3fgo5]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FhpAHTOX0AAd7mu.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2022-11-15 23:27 UTC (2022-11-16 00:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1592660467990003713
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> The hack exploited a vulnerability in the process() and acceptableRoot() functions. What's interesting, though, is that the critical bug in these two functions was introduced *after* the audit! https://x.com/zellic_io/status/1554296742031437824
+
+**Links in post:** https://x.com/zellic_io/status/1554296742031437824
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1554296742031437824
+    - Metrics (at fetch): bookmark 2, impression 0, like 12, quote 1, reply 1, retweet 0
+    
+    > 3/ Looking at process(), this function is responsible for executing cross-chain messages. This function's security is absolutely critical. It is the linchpin of the entire bridge. Every message ends up here.
+    >
+    > It must ensure that only valid messages are executed, and only once. [pic.x.com/7cvI98HtBc]
+    
+    **Media:**
+    - media `3_1554296737589706752` (details not returned by the API)
+    
+
+
+### Thread part 3 — @zellic_io — 2022-11-15 23:27 UTC (2022-11-16 00:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1592660472222081025
+- Metrics (at fetch): bookmark 1, impression 0, like 11, quote 0, reply 2, retweet 2
+
+> Unaudited code is a major source of smart contract hacks. Of the top 20 hacks on the Rekt leaderboard, 15 are unaudited (counting Nomad).
+>
+> It's clear unaudited code is prone to getting rekt. But how did no one notice the unaudited changes to Nomad's *security-critical* functions? [pic.x.com/ZXLHpeQyJT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhpBlUlXkAIyBYd.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2022-11-15 23:27 UTC (2022-11-16 00:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1592660477502717952
+- Metrics (at fetch): bookmark 2, impression 0, like 9, quote 0, reply 3, retweet 5
+
+> We developed a tool to track audit coverage. We analyzed some of the top DeFi protocols to see how much of their code is actually audited.
+>
+> For Nomad, our tool highlights the unaudited contracts: [pic.x.com/3iVB5XYAEq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhpCqBcXoAIxJRs.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-11-15 23:27 UTC (2022-11-16 00:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1592660482741399552
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> It even shows the code diff between the audited and unaudited (on-chain) versions of the exploited functions. Here's process(), which is supposed to block invalid messages from the bridge. Major unaudited changes! [pic.x.com/zAnBNZaTRl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhpDAj6XoAUmsmj.png — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2022-11-15 23:27 UTC (2022-11-16 00:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1592660485669031936
+- Metrics (at fetch): bookmark 10, impression 0, like 16, quote 3, reply 1, retweet 4
+
+> We've released this tracker publicly for the community to use. We're also accepting submissions for additional protocols (and audits) to add to the tracker. You can find more info, and a link to the app in our blog post. Looking forward to your feedback!
+> https://www.zellic.io/blog/audit-drift
+
+**Links in post:** https://www.zellic.io/blog/audit-drift
+
+
+### Thread part 7 — @zellic_io — 2022-11-16 15:03 UTC (2022-11-16 16:03 WAT)
+
+- URL: https://x.com/zellic_io/status/1592896070060691457
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Link to the app: https://app.zellic.io
+
+**Links in post:** https://app.zellic.io
 
 
 ---
@@ -4766,7 +5244,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-08-25 · Post · We partnered with @brahmafi to secure their Protected Moonshot DegenVault.
+## 2022-08-25 · Thread · We partnered with @brahmafi to secure their Protected Moonshot DegenVault.
 
 
 ### Post — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
@@ -4779,6 +5257,126 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > It aims to safeguard principal earning a yield on blue chip farms while boosting it and profiting from the market’s volatility by purchasing put/call options solely with the accrued yield.
 >
 > A thread 🧵👇
+
+
+### Thread part 2 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832232376459265
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Brahma manages interactions and risk with multiple chains, dApps, and instruments in a fully transparent and composable way, so you can earn yield, hedge, and deploy capital in an efficient manner.
+
+
+### Thread part 3 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832240014286849
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> We unearthed multiple issues, here's a thread of the most important of them: [pic.x.com/9aYR2hWcwi]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbBLo0NVEAI8_dC.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832246515544066
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Finding 1: Deposits can be potentially front-run and stolen. 
+>
+> Calculating the number of shares to be emitted upon a deposit could be altered, should the vault funds be artificially inflated. [pic.x.com/TTtSAc1pNa]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbBLpM_UUAEEZu9.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832249434779649
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Imagine the following scenario: 
+>
+> 1. A malicious actor deposits X wantTokens and receives X LP tokens. 
+>
+> 2. The victim tries to deposit Y wantTokens. 
+>
+> 3. The malicious actor front-runs the victim's transaction and transfers X * (Y - 1) + 1 wantTokens to the contract...
+
+
+### Thread part 6 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832252194549762
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 4. Despite the victim's transaction being executed, an amount of 0 shares are emitted. 
+>
+> The malicious actor could now leech off the victim's just-deposited wantTokens by redeeming over-valued shares. 
+>
+> This issue was addressed by the Brahma team, so depositors' funds are SAFU.
+
+
+### Thread part 7 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832258947436544
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Finding 2: Unwanted deposits and withdrawals can be triggered on behalf of another user.
+>
+> By default (batcherOnlyDeposit = true), only the Batcher contract can deposit and withdraw funds on behalf of the receiver... [pic.x.com/Bndy7ft7yO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbBLp5qUUAEh9U3.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832262047023106
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Should it be the case that batcherOnlyDeposit is set to false, however, anyone could issue a deposit or withdraw call on behalf of other users:
+>
+> a. In the case of the deposit function, this would lead to unwanted spending of wantTokens.
+
+
+### Thread part 9 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832264605491209
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> b. In the withdraw function, this implies an unnecessary burn of LP tokens. 
+>
+> These actions would not, however, lead to a loss of funds, since the Brahma team made sure that all the funds are still traced to their original depositor.
+
+
+### Thread part 10 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832267143102469
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> For full details on all findings, please see our report deliverable at https://github.com/Zellic/publications/blob/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf.
+>
+> We commend Brahma for documenting and structuring their code neatly. Their responsiveness and proactiveness throughout the assessment highlight their professionalism.
+
+**Links in post:** https://github.com/Zellic/publications/blob/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
+
+
+### Thread part 11 — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1562832269865144327
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> If you enjoyed reading about these vulnerabilities, please: 
+>
+> • Share with your friends 
+> • Follow @zellic_io
+>
+> Need an audit? Shoot us a DM or message us through our contact form. We'd love to chat!
+>
+> https://www.zellic.io/contact-us
+
+**Links in post:** https://www.zellic.io/contact-us
 
 
 ---
@@ -4821,10 +5419,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2022-08-02 · Post · 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this ha
+## 2022-08-02 · Thread · 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this ha
 
 
-Tags (automatic): Smart contract / DeFi
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
@@ -4838,6 +5436,19 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FZH4oxiUsAMKARU.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
+
+- URL: https://x.com/zellic_io/status/1554296742031437824
+- Metrics (at fetch): bookmark 2, impression 0, like 12, quote 1, reply 1, retweet 0
+
+> 3/ Looking at process(), this function is responsible for executing cross-chain messages. This function's security is absolutely critical. It is the linchpin of the entire bridge. Every message ends up here.
+>
+> It must ensure that only valid messages are executed, and only once. [pic.x.com/7cvI98HtBc]
+
+**Media:**
+- media `3_1554296737589706752` (details not returned by the API)
 
 
 ---
