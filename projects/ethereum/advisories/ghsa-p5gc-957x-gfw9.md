@@ -1,0 +1,28 @@
+# GHSA-p5gc-957x-gfw9: Go Ethereum LES protocol implementation vulnerable to Denial of Service
+
+| Field | Value |
+| --- | --- |
+| Source | GitHub global Advisory DB (affects go-ethereum) |
+| GHSA | GHSA-p5gc-957x-gfw9 |
+| CVE | CVE-2018-12018 |
+| Severity | high |
+| Published | 2022-05-14T03:01:31Z |
+| Advisory URL | https://github.com/advisories/GHSA-p5gc-957x-gfw9 |
+
+## Description (verbatim)
+
+The GetBlockHeadersMsg handler in the LES protocol implementation in Go Ethereum (aka geth) before 1.8.11 may lead to an access violation because of an integer signedness error for the array index, which allows attackers to launch a Denial of Service attack by sending a packet with a -1 query.Skip value. The vulnerable remote node would be crashed by such an attack immediately, aka the EPoD (Ethereum Packet of Death) issue.
+
+### Specific Go Packages Affected
+github.com/ethereum/go-ethereum/les
+
+## References
+
+- https://nvd.nist.gov/vuln/detail/CVE-2018-12018
+- https://github.com/ethereum/go-ethereum/pull/16891
+- https://github.com/ethereum/go-ethereum/commit/a5237a27eaf81946a3edb4fafe13ed6359d119e4
+- https://github.com/ethereum/go-ethereum/releases/tag/v1.8.11
+- https://pkg.go.dev/vuln/GO-2021-0075
+- https://peckshield.com/2018/06/27/EPoD
+- https://web.archive.org/web/20180628022133/https://peckshield.com/2018/06/27/EPoD
+- https://github.com/advisories/GHSA-p5gc-957x-gfw9
