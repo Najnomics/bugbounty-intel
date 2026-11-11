@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 487
-- Conversations/threads: 471
+- Posts in this file: 513
+- Conversations/threads: 494
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
@@ -8318,6 +8318,418 @@ Tags (automatic): XSS
 > Going live in an hour. 
 >
 > https://t.co/zR0azHNvet
+
+
+---
+
+## 2022-05-28 · Post · The timing for this video couldn't have been any better with @Yassineaboukir just winning @Hacker0x0
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2022-05-28 10:22 UTC (2022-05-28 11:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1530494590632853506
+- Metrics (at fetch): not returned
+
+> The timing for this video couldn't have been any better with @Yassineaboukir just winning @Hacker0x01's #h1303!
+>
+> Check out me and @Jhaddix's interview with @Yassineaboukir, where he talks about his recon flow, bug bounty, mental health and more!
+>
+> https://youtu.be/FU1fWMwGMuY
+
+**Links in post:** https://youtu.be/FU1fWMwGMuY
+
+
+---
+
+## 2022-05-27 · Post · Good morning and I hope you all have a good day, except for whoever submitted my bug first and cause
+
+
+### Post — @NahamSec — 2022-05-27 16:11 UTC (2022-05-27 17:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1530220123889422336
+- Metrics (at fetch): not returned
+
+> Good morning and I hope you all have a good day, except for whoever submitted my bug first and caused it to be a duplicate.
+
+
+---
+
+## 2022-05-26 · Post · Not going to host an interview this week to hack a little bit. It's been too long. What company shou
+
+
+### Post — @NahamSec — 2022-05-26 19:15 UTC (2022-05-26 20:15 WAT)
+
+- URL: https://x.com/NahamSec/status/1529904075583549440
+- Metrics (at fetch): not returned
+
+> Not going to host an interview this week to hack a little bit. It's been too long. What company should we hack on during this week's Live Recon stream?
+
+
+---
+
+## 2022-05-26 · Post · Check out @codingo_'s talk from NahamCon2022: "Recon Fundamentals by Example". 
+
+
+### Post — @NahamSec — 2022-05-26 08:01 UTC (2022-05-26 09:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1529734331073105920
+- Metrics (at fetch): not returned
+
+> Check out @codingo_'s talk from #NahamCon2022: "Recon Fundamentals by Example". 
+>
+> I LOVED @codingo_'s intro and how he started his talk. Very creative!
+>
+> https://youtu.be/WU1sg9aih5k
+
+**Links in post:** https://youtu.be/WU1sg9aih5k
+
+
+---
+
+## 2022-05-16 · Post · I have started a new series of "under 10 minutes". For the first episode, I tried to explain the new
+
+
+### Post — @NahamSec — 2022-05-16 13:31 UTC (2022-05-16 14:31 WAT)
+
+- URL: https://x.com/NahamSec/status/1526193499707543553
+- Metrics (at fetch): not returned
+
+> I have started a new series of "under 10 minutes". For the first episode, I tried to explain the new @owasp top 10 in under 10 minutes and failed! So here's OWASP Top ten in like... 15 minutes. 
+>
+> https://www.youtube.com/watch?v=3Zxuhwct9uk
+>
+> What should I do for the next video? Recon? Bug Bounty? [pic.x.com/zjAO0Ghm8U]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FS2qmZNVUAMasus.jpg — no alt text provided by author
+
+**Links in post:** https://www.youtube.com/watch?v=3Zxuhwct9uk
+
+
+---
+
+## 2022-05-14 · Post · I still have a ton of sponsor stuff from NahamCon to giveaway. Maybe I should give some of them out 
+
+
+### Post — @NahamSec — 2022-05-14 23:02 UTC (2022-05-15 00:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1525612455652536320
+- Metrics (at fetch): not returned
+
+> I still have a ton of sponsor stuff from NahamCon to giveaway. Maybe I should give some of them out tomorrow during the Live Recon stream?
+
+
+---
+
+## 2022-05-13 · Post · I think it’s appropriate to do a @PentesterLab giveaway, since @snyff is coming on the Live Recon sh
+
+
+### Post — @NahamSec — 2022-05-13 16:43 UTC (2022-05-13 17:43 WAT)
+
+- URL: https://x.com/NahamSec/status/1525154727255805953
+- Metrics (at fetch): not returned
+
+> I think it’s appropriate to do a @PentesterLab giveaway, since @snyff is coming on the Live Recon show this Sunday to hangout with me and @Jhaddix. 
+>
+> I have three subscriptions to giveaway. Drop a reply and tag a friend and enter to win!
+
+
+---
+
+## 2022-05-13 · Post · This week’s Live Recon guest is @snyff! Can’t wait to hear his story on his journey as a hacker and 
+
+
+### Post — @NahamSec — 2022-05-13 13:47 UTC (2022-05-13 14:47 WAT)
+
+- URL: https://x.com/NahamSec/status/1525110390518079488
+- Metrics (at fetch): not returned
+
+> This week’s Live Recon guest is @snyff! Can’t wait to hear his story on his journey as a hacker and how @PentesterLab was created! [pic.x.com/Z21FeISVd2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FSpHsr_XEAILLoy.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-12 · Post · yo @Hacker0x01 @Bugcrowd @intigriti @Hak5 - Hear me out. Can one of you make a snack travel bag simi
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2022-05-12 17:27 UTC (2022-05-12 18:27 WAT)
+
+- URL: https://x.com/NahamSec/status/1524803404291260420
+- Metrics (at fetch): not returned
+
+> yo @Hacker0x01 @Bugcrowd @intigriti @Hak5 - Hear me out. Can one of you make a snack travel bag similar to the cable management one? I'd rock it on any trip. Can we also call it the Snak5 bag?
+
+
+---
+
+## 2022-05-11 · Post · What kinda bounty table is this... dafuq? [pic.x.com/DyeWmBuGXL]
+
+
+### Post — @NahamSec — 2022-05-11 17:18 UTC (2022-05-11 18:18 WAT)
+
+- URL: https://x.com/NahamSec/status/1524438760213020672
+- Metrics (at fetch): not returned
+
+> What kinda bounty table is this... dafuq? [pic.x.com/DyeWmBuGXL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FSfk8RPVcAELBeA.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-10 · Post · Did you miss NahamCon2022? Check out "The Bug Hunter’s Methodology: Application Analysis v1" by our
+
+
+### Post — @NahamSec — 2022-05-10 17:24 UTC (2022-05-10 18:24 WAT)
+
+- URL: https://x.com/NahamSec/status/1524077845256974336
+- Metrics (at fetch): not returned
+
+> Did you miss #NahamCon2022? Check out "The Bug Hunter’s Methodology: Application Analysis v1" by our keynote speaker, @Jhaddix! This is a presentation about a collection of recon tips and tricks for security testers and bug hunters!  
+>
+> https://youtu.be/HmDY7w8AbR4
+
+**Links in post:** https://youtu.be/HmDY7w8AbR4
+
+
+---
+
+## 2022-05-07 · Post · Tomorrow’s guest for Live Recon is @seclilc. If you ever wanted to get some good advice on scoring y
+
+
+### Post — @NahamSec — 2022-05-07 09:35 UTC (2022-05-07 10:35 WAT)
+
+- URL: https://x.com/NahamSec/status/1522872783264358400
+- Metrics (at fetch): not returned
+
+> Tomorrow’s guest for Live Recon is @seclilc. If you ever wanted to get some good advice on scoring your first infosec job, then this is your chance. Hosted by @Jhaddix and @stokfredrik! [pic.x.com/BUFfG4Xt0i]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FSJUro3UcAAMnYU.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-04 · Post · NahamCon did a number on my mental health, so if I’m not responding to your DMs or tweets it’s becau
+
+
+### Post — @NahamSec — 2022-05-04 18:13 UTC (2022-05-04 19:13 WAT)
+
+- URL: https://x.com/NahamSec/status/1521915997388632064
+- Metrics (at fetch): not returned
+
+> NahamCon did a number on my mental health, so if I’m not responding to your DMs or tweets it’s becauseI’m taking some time off of Twitter and Instagram. Will schedule some content to come out in the next few days, including the next live recon guest! Until then ✌🏽
+
+
+---
+
+## 2022-04-30 · Post · .@codingo_  is currently walking us through “Recon Fundamentals” live at NahamCon2022 before @infos
+
+
+### Post — @NahamSec — 2022-04-30 22:45 UTC (2022-04-30 23:45 WAT)
+
+- URL: https://x.com/NahamSec/status/1520534824540569600
+- Metrics (at fetch): not returned
+
+> .@codingo_  is currently walking us through “Recon Fundamentals” live at #NahamCon2022 before @infosec_au takes the stage to talk about “Finding 0days in Enterprise Web Applications”. 
+>
+> http://Twitch.tv/NahamSec
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2022-04-30 · Post · In a little under an hour @zseano will be going live to talk about finding an XSS on @Apple in a col
+
+
+Tags (automatic): XSS
+
+
+### Post — @NahamSec — 2022-04-30 21:04 UTC (2022-04-30 22:04 WAT)
+
+- URL: https://x.com/NahamSec/status/1520509537135910913
+- Metrics (at fetch): not returned
+
+> In a little under an hour @zseano will be going live to talk about finding an XSS on @Apple in a collaboration with some of the hackers on @BugBountyHunt3r! [pic.x.com/HuIeoJCkuL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRnvNSdVgAEwMEK.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-30 · Post · If you are looking to purchase my "Intro to Bug Bounty Hunting and Web Application Hacking" course o
+
+
+### Post — @NahamSec — 2022-04-30 19:39 UTC (2022-04-30 20:39 WAT)
+
+- URL: https://x.com/NahamSec/status/1520487903868071936
+- Metrics (at fetch): not returned
+
+> If you are looking to purchase my "Intro to Bug Bounty Hunting and Web Application Hacking" course on @udemy, you're in luck! I've dropped the price to $9.99 using "NahamCon2022". More info 👉🏼 http://bugbounty.nahamsec.training [pic.x.com/8q3PxTebeJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRjLPr_UYAEoidX.jpg — no alt text provided by author
+
+**Links in post:** http://bugbounty.nahamsec.training
+
+
+---
+
+## 2022-04-30 · Post · Live now at NahamCon2022 - @Jhaddix  with Bug Hunter's Methodology: Application Analysis v1. 
+
+
+### Post — @NahamSec — 2022-04-30 16:37 UTC (2022-04-30 17:37 WAT)
+
+- URL: https://x.com/NahamSec/status/1520442244200759296
+- Metrics (at fetch): not returned
+
+> Live now at #NahamCon2022 - @Jhaddix  with Bug Hunter's Methodology: Application Analysis v1. 
+>
+> http://Twitch.tv/NahamSec [pic.x.com/lBc9ZhwFyF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRmyA2LVEAAJDjk.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2022-04-30 · Post · NahamCon2022 is live as our keynote speaker, @Jhaddix presents "The Bug Hunter's Methodology: Appli
+
+
+### Post — @NahamSec — 2022-04-30 16:00 UTC (2022-04-30 17:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1520432796212375552
+- Metrics (at fetch): not returned
+
+> #NahamCon2022 is live as our keynote speaker, @Jhaddix presents "The Bug Hunter's Methodology: Application Analysis v1". [pic.x.com/qGWjXuo2Rg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRjKEysUUAA8DX-.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-30 · Post · We are going live in exactly ONE hour! Hosted by @stokfredrik with some amazing talks for some of th
+
+
+### Post — @NahamSec — 2022-04-30 15:00 UTC (2022-04-30 16:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1520417691919687682
+- Metrics (at fetch): not returned
+
+> We are going live in exactly ONE hour! Hosted by @stokfredrik with some amazing talks for some of the worlds top hackers and bug bounty hunters! 
+>
+> http://Twitch.tv/NahamSec [pic.x.com/AywbU2eO1W]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRjKMoAUcAM3LMP.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2022-04-29 · Thread · Thank you to our platinum sponsors: @hackthebox_eu, @TheParanoids, @zeropointsecltd,@AWS_Security, @
+
+
+Tags (automatic): Mobile / Android / iOS, Platform: HackerOne, Platform: Bugcrowd, Platform: Immunefi
+
+
+### Post — @NahamSec — 2022-04-29 18:55 UTC (2022-04-29 19:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1520114569355546624
+- Metrics (at fetch): not returned
+
+> Thank you to our platinum sponsors: @hackthebox_eu, @TheParanoids, @zeropointsecltd,@AWS_Security, @intel, @hadriansecurity and @Android
+
+
+### Thread part 2 — @NahamSec — 2022-04-29 18:56 UTC (2022-04-29 19:56 WAT)
+
+- URL: https://x.com/NahamSec/status/1520114844032139265
+- Metrics (at fetch): not returned
+
+> @hackthebox_eu @TheParanoids @zeropointsecltd @AWS_Security @intel @hadriansecurity @Android Our amazing gold sponsors: @Hacker0x01, @Bugcrowd, @intigriti, @offsectraining, @snyksec and @trufflesec
+
+
+### Thread part 3 — @NahamSec — 2022-04-29 18:57 UTC (2022-04-29 19:57 WAT)
+
+- URL: https://x.com/NahamSec/status/1520114992694980608
+- Metrics (at fetch): not returned
+
+> @hackthebox_eu @TheParanoids @zeropointsecltd @AWS_Security @intel @hadriansecurity @Android @Hacker0x01 @Bugcrowd @intigriti @offsectraining @snyksec @trufflesec Silver sponsors: @assetnote, @PureVPNcom, @yeswehack
+
+
+### Thread part 4 — @NahamSec — 2022-04-29 18:58 UTC (2022-04-29 19:58 WAT)
+
+- URL: https://x.com/NahamSec/status/1520115408447021056
+- Metrics (at fetch): not returned
+
+> @hackthebox_eu @TheParanoids @zeropointsecltd @AWS_Security @intel @hadriansecurity @Android @Hacker0x01 @Bugcrowd @intigriti @offsectraining @snyksec @trufflesec @assetnote @PureVPNcom @yeswehack And our bronze sponsors: @PentesterLab, @NetworkChuck, @haksecio, @immunefi!
+
+
+---
+
+## 2022-04-28 · Post · Wow! One of the nahamcon2022 sponsors, @TheParanoids are doing a promotion for their bug bounty pro
+
+
+### Post — @NahamSec — 2022-04-28 18:09 UTC (2022-04-28 19:09 WAT)
+
+- URL: https://x.com/NahamSec/status/1519740634784886784
+- Metrics (at fetch): not returned
+
+> Wow! One of the #nahamcon2022 sponsors, @TheParanoids are doing a promotion for their bug bounty program, where you can earn up to a 200% bonus for your reports with a $150,000 bounty pool! More information here: https://www.yahooinc.com/paranoids/elite-announcement/
+
+**Links in post:** https://www.yahooinc.com/paranoids/elite-announcement/
+
+
+---
+
+## 2022-04-23 · Post · This week's Live Recon is hosted by @stokfredrik and myself! We'll be interviewing @Alh4zr3d to lear
+
+
+### Post — @NahamSec — 2022-04-23 15:43 UTC (2022-04-23 16:43 WAT)
+
+- URL: https://x.com/NahamSec/status/1517891797367738368
+- Metrics (at fetch): not returned
+
+> This week's Live Recon is hosted by @stokfredrik and myself! We'll be interviewing @Alh4zr3d to learn more about his hacking journey, content creation and get to know him a bit more! 
+>
+> Tomorrow | 11:30 AM PT  | http://Twitch.tv/NahamSec [pic.x.com/BZ84AW7BEd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQ-Z96SVcAAoWua.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2022-04-19 · Post · Has XSS always been under A1 on OWASP? Or am I reading this wrong?
+
+
+Tags (automatic): XSS
+
+
+### Post — @NahamSec — 2022-04-19 21:58 UTC (2022-04-19 22:58 WAT)
+
+- URL: https://x.com/NahamSec/status/1516536770329923585
+- Metrics (at fetch): not returned
+
+> Has XSS always been under A1 on OWASP? Or am I reading this wrong?
 
 
 ---

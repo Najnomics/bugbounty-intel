@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 92
-- Conversations/threads: 79
-- Oldest post captured: 2022-08-31
+- Posts in this file: 98
+- Conversations/threads: 85
+- Oldest post captured: 2021-11-01
 - Newest post captured: 2024-11-27
 
 
@@ -2070,3 +2070,105 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 0, retweet 0
 
 > Trying to exploit a piece of software so old that most of the references I can find to potential vulnerabilities are suffering from bitrot 😒
+
+
+---
+
+## 2022-07-11 · Post · Really interesting opinion here, and as someone who champions BugBounty I can't say I entirely disa
+
+
+### Post — @ajxchapman — 2022-07-11 19:38 UTC (2022-07-11 20:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546579579422359553
+- Metrics (at fetch): bookmark 1, impression 0, like 22, quote 1, reply 1, retweet 2
+
+> Really interesting opinion here, and as someone who champions #BugBounty I can't say I entirely disagree. I don't believe bug bounty is predatory, but there is definitely a common misconception that bug bounty is a road to quick riches with little to no effort. https://t.co/b3vhtty6iH
+
+**Quoted post** 1546259292029743104: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-07-07 · Post · There is a common fallacy in BugBounty that bug hunters have to work *against* triage teams to get 
+
+
+### Post — @ajxchapman — 2022-07-07 12:48 UTC (2022-07-07 13:48 WAT)
+
+- URL: https://x.com/ajxchapman/status/1545027081402302464
+- Metrics (at fetch): bookmark 6, impression 0, like 114, quote 3, reply 13, retweet 10
+
+> There is a common fallacy in #BugBounty that bug hunters have to work *against* triage teams to get bugs accepted. As soon as you realize you are working *with* the triage team, I assure you, your bugs will get triaged a lot easier with less stress on both sides. #BugBountyTips
+
+
+---
+
+## 2022-04-25 · Post · CVEs are essentially useless these days for vulnerability researchers trying to find details on a bu
+
+
+### Post — @ajxchapman — 2022-04-25 16:15 UTC (2022-04-25 17:15 WAT)
+
+- URL: https://x.com/ajxchapman/status/1518624726909923328
+- Metrics (at fetch): bookmark 5, impression 0, like 136, quote 1, reply 7, retweet 5
+
+> CVEs are essentially useless these days for vulnerability researchers trying to find details on a bug. *Any* search for a CVE will throw up dozens of CVE aggregators, all circular linking to each other, with no actual information... so many vendors adding value :facepalm:
+
+
+---
+
+## 2022-01-18 · Post · Another deeply insightful 🧵 from the legendary @luketucker If you haven't already, you need to check
+
+
+### Post — @ajxchapman — 2022-01-18 08:43 UTC (2022-01-18 09:43 WAT)
+
+- URL: https://x.com/ajxchapman/status/1483359255990349833
+- Metrics (at fetch): bookmark 2, impression 0, like 4, quote 0, reply 1, retweet 1
+
+> Another deeply insightful 🧵 from the legendary @luketucker If you haven't already, you need to check out his weekly newsletter, it's 🔥 https://t.co/B8lZytvFIZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @193200930 — 2022-01-17 21:52 UTC (2022-01-17 22:52 WAT)
+    
+    - URL: https://x.com/193200930/status/1483195667006705664
+    - Metrics (at fetch): bookmark 434, impression 0, like 574, quote 6, reply 3, retweet 172
+    
+    > There's lots of great content out there to learn how to hack. Here's a breakdown of the various offensive hacking education platforms and a list of some of the best content creators on YouTube. 🧵
+    
+
+
+---
+
+## 2021-12-27 · Post · I'm always in two minds about this. This data (assuming it's accurate), from multiple sources can he
+
+
+### Post — @ajxchapman — 2021-12-27 16:56 UTC (2021-12-27 17:56 WAT)
+
+- URL: https://x.com/ajxchapman/status/1475510814253670404
+- Metrics (at fetch): bookmark 4, impression 0, like 15, quote 0, reply 2, retweet 0
+
+> I'm always in two minds about this. This data (assuming it's accurate), from multiple sources can help others make informed choices on whether Bug Bounties are viable as an income source. I do however dislike the gloating and money == success side of these tweets. https://t.co/3fSN4WGbxJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @128484298 — 2021-12-27 13:36 UTC (2021-12-27 14:36 WAT)
+    
+    - URL: https://x.com/128484298/status/1475460520698384386
+    - Metrics (at fetch): bookmark 16, impression 0, like 1337, quote 27, reply 42, retweet 211
+    
+    > Stop adding your yearly bug bounty sum, if you want to inspire people show them how you did it, not how much you gain from it.  Stay humble.
+    
+
+
+---
+
+## 2021-11-01 · Post · The @gitlab BugBounty program is genuinely one of the best bug bounty programs out there. High payo
+
+
+### Post — @ajxchapman — 2021-11-01 13:28 UTC (2021-11-01 14:28 WAT)
+
+- URL: https://x.com/ajxchapman/status/1455164791694270474
+- Metrics (at fetch): bookmark 2, impression 0, like 26, quote 0, reply 1, retweet 4
+
+> The @gitlab #BugBounty program is genuinely one of the best bug bounty programs out there. High payouts, predictable payment times, a great security team and an open source product. What's not to love? Get involved in this competition for a chance at some amazing GitLab swag too! https://t.co/p06ZaopiiJ
+
+**Quoted post** 1455155210582626315: not readable via the API (deleted, private, or withheld).

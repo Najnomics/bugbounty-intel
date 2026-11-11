@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
-- Conversations/threads: 93
-- Oldest post captured: 2024-07-09
+- Posts in this file: 95
+- Conversations/threads: 95
+- Oldest post captured: 2023-12-02
 - Newest post captured: 2026-11-04
 
 
@@ -2686,3 +2686,32 @@ Tags (automatic): Platform: HackerOne
     **Media:**
     - media `3_1810718987346747392` (details not returned by the API)
     
+
+
+---
+
+## 2024-04-15 · Post · I'm super excited and proud to announce I’ll be running the official Bug Bounty Village at @DEFCON a
+
+
+### Post — @infinitelogins — 2024-04-15 18:32 UTC (2024-04-15 19:32 WAT)
+
+- URL: https://x.com/infinitelogins/status/1779940770990223589
+- Metrics (at fetch): bookmark 0, impression 5780, like 42, quote 3, reply 2, retweet 12
+
+> I'm super excited and proud to announce I’ll be running the official Bug Bounty Village at @DEFCON alongside @arl_rose for the first time! Follow @BugBountyDefcon for updates and join us in shaping the future of Bug bounty. Please help us with a RT #BugBountyVillage #DEFCON https://t.co/XVyJQUyVNR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLOeqd8akAAhBJt.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-02 · Post · Loving @Jhaddix's bug bounty hunter's methodology live course, learning a ton! Definitely worth the 
+
+
+### Post — @infinitelogins — 2023-12-02 23:12 UTC (2023-12-03 00:12 WAT)
+
+- URL: https://x.com/infinitelogins/status/1731088933487001992
+- Metrics (at fetch): bookmark 2, impression 5174, like 20, quote 0, reply 1, retweet 2
+
+> Loving @Jhaddix's bug bounty hunter's methodology live course, learning a ton! Definitely worth the investment if you're on the fence and we're only through day 1.

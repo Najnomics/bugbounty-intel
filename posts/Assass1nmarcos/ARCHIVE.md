@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 74
-- Conversations/threads: 55
-- Oldest post captured: 2024-04-18
+- Posts in this file: 83
+- Conversations/threads: 64
+- Oldest post captured: 2024-03-06
 - Newest post captured: 2026-11-03
 
 
@@ -1313,3 +1313,157 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 3, impression 4449, like 64, quote 0, reply 9, retweet 0
 
 > Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs #TogetherWeHitHarder
+
+
+---
+
+## 2024-04-06 · Post · Excellent chaining of XSS, Great Wrirteup
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2024-04-06 18:35 UTC (2024-04-06 19:35 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1776680132285243660
+- Metrics (at fetch): bookmark 20, impression 1689, like 34, quote 0, reply 0, retweet 8
+
+> Excellent chaining of XSS, Great Wrirteup
+>
+> https://t.co/bTkjZouy3l
+
+
+---
+
+## 2024-04-05 · Post · Before DM someone and saying  I am intrested in bug bounty &amp; want to find bug and start in bug b
+
+
+### Post — @Assass1nmarcos — 2024-04-05 05:34 UTC (2024-04-05 06:34 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1776121238970302770
+- Metrics (at fetch): bookmark 2, impression 1585, like 10, quote 0, reply 3, retweet 0
+
+> Before DM someone and saying  I am intrested in bug bounty &amp; want to find bug and start in bug bounty. Bruh that's not how things work,
+> there are many great hackers/mentors published there blogs for getting start in Bug bounties and their research for community.
+
+
+---
+
+## 2024-03-27 · Post · https://t.co/ARJVUSHEUx
+
+
+### Post — @Assass1nmarcos — 2024-03-27 05:51 UTC (2024-03-27 06:51 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1772863873227391128
+- Metrics (at fetch): bookmark 18, impression 5034, like 53, quote 0, reply 1, retweet 12
+
+> https://t.co/ARJVUSHEUx
+>
+> POC for Adobe Coldfusion Arbitrary File Read
+
+
+---
+
+## 2024-03-21 · Post · So here is the payload, you can use it in any field if site using Cloudflare. It's better for Blind 
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2024-03-21 07:58 UTC (2024-03-21 08:58 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1770721732317376519
+- Metrics (at fetch): bookmark 61, impression 5746, like 53, quote 0, reply 2, retweet 17
+
+> So here is the payload, you can use it in any field if site using Cloudflare. It's better for Blind XSS Testing on Cloudflare Sites.  (It will work if there is no custom rule set to block this payload)
+>
+> See the Thread Below 👇
+>
+> #BugBounty #bugbountytips #cloudflarebypass
+
+
+---
+
+## 2024-03-20 · Post · Want Blind XSS payloads for Cloudflare bypass ?
+
+
+Tags (automatic): XSS
+
+
+### Post — @Assass1nmarcos — 2024-03-20 02:19 UTC (2024-03-20 03:19 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1770273903774138644
+- Metrics (at fetch): bookmark 3, impression 4426, like 11, quote 0, reply 6, retweet 1
+
+> Want Blind XSS payloads for Cloudflare bypass ?
+
+
+---
+
+## 2024-03-12 · Post · Yay, I was awarded a $250 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2024-03-12 16:00 UTC (2024-03-12 17:00 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1767581461774025023
+- Metrics (at fetch): bookmark 1, impression 1294, like 36, quote 0, reply 3, retweet 0
+
+> Yay, I was awarded a $250 bounty on @Hacker0x01! https://t.co/VEoNFDPrOs #TogetherWeHitHarder
+
+
+---
+
+## 2024-03-12 · Post · I earned $500 for my submission on @bugcrowd  (After long time,  submission on bugcrowd program) 🌚ht
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2024-03-12 00:54 UTC (2024-03-12 01:54 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1767353410192564228
+- Metrics (at fetch): bookmark 2, impression 2224, like 44, quote 0, reply 2, retweet 1
+
+> I earned $500 for my submission on @bugcrowd  (After long time,  submission on bugcrowd program) 🌚https://t.co/Sxlvg2o52Y #ItTakesACrowd
+
+
+---
+
+## 2024-03-06 · Post · Wanna writeup for this one? https://t.co/gj9tWvXYNh
+
+
+### Post — @Assass1nmarcos — 2024-03-06 05:23 UTC (2024-03-06 06:23 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1765246740956156349
+- Metrics (at fetch): bookmark 0, impression 3182, like 14, quote 0, reply 10, retweet 1
+
+> Wanna writeup for this one? https://t.co/gj9tWvXYNh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Assass1nmarcos — 2024-03-06 05:22 UTC (2024-03-06 06:22 WAT)
+    
+    - URL: https://x.com/Assass1nmarcos/status/1765246515696795692
+    - Metrics (at fetch): bookmark 0, impression 3815, like 3, quote 1, reply 2, retweet 0
+    
+    > @ThisIsDK999 @Bugcrowd Ayyye 🤝 congratulations to us
+    
+
+
+---
+
+## 2024-03-06 · Reply · @ThisIsDK999 @Bugcrowd Ayyye 🤝 congratulations to us
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2024-03-06 05:22 UTC (2024-03-06 06:22 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1765246515696795692
+- Metrics (at fetch): bookmark 0, impression 3815, like 3, quote 1, reply 2, retweet 0
+
+> @ThisIsDK999 @Bugcrowd Ayyye 🤝 congratulations to us

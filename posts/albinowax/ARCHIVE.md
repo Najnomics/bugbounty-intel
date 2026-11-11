@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
-- Conversations/threads: 72
+- Posts in this file: 79
+- Conversations/threads: 73
 - Oldest post captured: 2021-06-01
 - Newest post captured: 2026-11-04
 
@@ -1408,6 +1408,29 @@ Tags (automatic): AI-assisted hunting
 > - Enhanced single-packet attack
 > - Custom Actions
 > - Numerous QoL wins like "hide boring headers"
+
+
+---
+
+## 2025-05-07 · Post · Cookie parsing is an absolute disaster - tune in to this talk to find out how to exploit it! https:/
+
+
+### Post — @albinowax — 2025-05-07 14:25 UTC (2025-05-07 15:25 WAT)
+
+- URL: https://x.com/albinowax/status/1920122740863852730
+- Metrics (at fetch): bookmark 31, impression 6435, like 80, quote 1, reply 0, retweet 4
+
+> Cookie parsing is an absolute disaster - tune in to this talk to find out how to exploit it! https://t.co/wRfR7ZTaNJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1151719984910995457 — 2025-05-07 13:48 UTC (2025-05-07 14:48 WAT)
+    
+    - URL: https://x.com/1151719984910995457/status/1920113392758530525
+    - Metrics (at fetch): bookmark 80, impression 17099, like 171, quote 2, reply 2, retweet 27
+    
+    > I'm thrilled to announce my talk "Cookie Chaos: Exploiting Parser Discrepancies" at @Steel_Con! Catch it live in Sheffield, or later on YoutTube. Check out the full abstract here: https://t.co/kzESaj7mcm
+    
 
 
 ---

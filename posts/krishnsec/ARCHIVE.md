@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 154
-- Conversations/threads: 154
-- Oldest post captured: 2022-08-30
+- Posts in this file: 173
+- Conversations/threads: 173
+- Oldest post captured: 2021-11-28
 - Newest post captured: 2026-11-04
 
 
@@ -3069,3 +3069,402 @@ Tags (automatic): Platform: Bugcrowd
 **Media:**
 - photo: https://pbs.twimg.com/media/FbZN3jsVQAEI2HM.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/FbZN5OMUYAIgYLH.png — no alt text provided by author
+
+
+---
+
+## 2022-08-27 · Post · saturday  hunt bugcrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-08-27 08:03 UTC (2022-08-27 09:03 WAT)
+
+- URL: https://x.com/krishnsec/status/1563437055556071431
+- Metrics (at fetch): bookmark 16, impression 0, like 168, quote 0, reply 3, retweet 7
+
+> #saturday  hunt #bugcrowd
+> customer said "we will accept only P1-P2 "
+>
+> Me : challenge accepted 
+> Going to enjoy my weekend now :) https://t.co/x2plhMiJP4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbJxt1jacAEKAjI.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-20 · Post · bugbountytips  
+
+
+Tags (automatic): XSS
+
+
+### Post — @krishnsec — 2022-08-20 06:55 UTC (2022-08-20 07:55 WAT)
+
+- URL: https://x.com/krishnsec/status/1560883302407421952
+- Metrics (at fetch): bookmark 34, impression 0, like 90, quote 0, reply 0, retweet 11
+
+> #bugbountytips  
+> GET request in file= param ,  keep your burp logger on  or  check burp history after crawling all endpoints in browser . 
+> Then test all interesting parameters one by one . 
+> This scenario can be used to find xss and other bugs too 
+> https://t.co/RDVPI7Vh7F
+
+
+---
+
+## 2022-08-13 · Post · He is right, I found 4 x log4j rce today, reported only one till now .
+
+
+Tags (automatic): RCE
+
+
+### Post — @krishnsec — 2022-08-13 06:48 UTC (2022-08-13 07:48 WAT)
+
+- URL: https://x.com/krishnsec/status/1558344700863492096
+- Metrics (at fetch): bookmark 5, impression 0, like 32, quote 0, reply 2, retweet 6
+
+> He is right, I found 4 x log4j rce today, reported only one till now .
+> https://t.co/UIjPwQSyV2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3299121407 — 2022-08-12 08:47 UTC (2022-08-12 09:47 WAT)
+    
+    - URL: https://x.com/3299121407/status/1558012218951729152
+    - Metrics (at fetch): bookmark 3, impression 0, like 51, quote 1, reply 0, retweet 5
+    
+    > Quick!! Hack some bugbounty targets and get some bounties while most of the top hackers are enjoying @defcon !!
+    >
+    > Greetings from someone stuck in the rain in Finland!
+    
+
+
+---
+
+## 2022-08-06 · Post · Top 50 p1-warrior @Bugcrowd ✅ https://t.co/a5hEsOWzkN
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-08-06 04:53 UTC (2022-08-06 05:53 WAT)
+
+- URL: https://x.com/krishnsec/status/1555778950982291456
+- Metrics (at fetch): bookmark 2, impression 0, like 78, quote 0, reply 0, retweet 1
+
+> Top 50 p1-warrior @Bugcrowd ✅ https://t.co/a5hEsOWzkN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZc8pD7UIAEk8zl.png — no alt text provided by author
+
+
+---
+
+## 2022-08-05 · Post · Bug bounty is a slow process to be a millionaire , yeah we can but it will take a good amount of eff
+
+
+### Post — @krishnsec — 2022-08-05 07:12 UTC (2022-08-05 08:12 WAT)
+
+- URL: https://x.com/krishnsec/status/1555451691448688641
+- Metrics (at fetch): bookmark 22, impression 0, like 134, quote 1, reply 3, retweet 7
+
+> Bug bounty is a slow process to be a millionaire , yeah we can but it will take a good amount of effort and time for sure . And , it sucks specially when you don't know how to automate boring stuff ..
+
+
+---
+
+## 2022-07-24 · Post · 3000 reputation ✅ @Bugcrowd https://t.co/zZFKltQqSz
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-07-24 08:50 UTC (2022-07-24 09:50 WAT)
+
+- URL: https://x.com/krishnsec/status/1551127792720531456
+- Metrics (at fetch): bookmark 3, impression 0, like 136, quote 1, reply 0, retweet 0
+
+> 3000 reputation ✅ @Bugcrowd https://t.co/zZFKltQqSz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYa2gWaUIAApJHa.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-27 · Post · 2500 rep ✅ @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-05-27 04:00 UTC (2022-05-27 05:00 WAT)
+
+- URL: https://x.com/krishnsec/status/1530036174550536192
+- Metrics (at fetch): bookmark 2, impression 0, like 103, quote 0, reply 0, retweet 1
+
+> 2500 rep ✅ @Bugcrowd 
+> https://t.co/1oyj9FOati https://t.co/PN314BLKX1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTvHyZKUcAAAj9r.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-16 · Post · .MVP Q4 @Bugcrowd ❤️✌️ https://t.co/eM08u1uiYF
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-05-16 08:54 UTC (2022-05-16 09:54 WAT)
+
+- URL: https://x.com/krishnsec/status/1526123992196993024
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 0, reply 0, retweet 0
+
+> .#MVP Q4 @Bugcrowd ❤️✌️ https://t.co/eM08u1uiYF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FS3hrNpaUAAf4Is.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-14 · Post · why I found MVP mail in spam section ?? I guess I missed Q2 2021 mail in spam 😑 because I fulfilled
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-05-14 04:31 UTC (2022-05-14 05:31 WAT)
+
+- URL: https://x.com/krishnsec/status/1525332830032916481
+- Metrics (at fetch): bookmark 0, impression 0, like 39, quote 0, reply 2, retweet 0
+
+> why I found #MVP mail in spam section ?? I guess I missed Q2 2021 mail in spam 😑 because I fulfilled all requirements of Q2 also but haven't received in inbox .
+> Btw thank you @Bugcrowd ❣️ https://t.co/tave793PGv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FSsSH8SaQAEdcq-.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-30 · Post · I started hunting on h1 last night ✌️
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @krishnsec — 2022-04-30 10:56 UTC (2022-04-30 11:56 WAT)
+
+- URL: https://x.com/krishnsec/status/1520356339536465927
+- Metrics (at fetch): bookmark 60, impression 0, like 363, quote 3, reply 1, retweet 40
+
+> I started hunting on h1 last night ✌️
+> Found critical in 10 mins of recon 
+>
+> Username = admin@company.tld
+> Pass = admin123
+> #bugbountytips #bugbounty https://t.co/lurgpUzuGT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRlkCHyaQAAmwD4.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-25 · Post · Beginner recon bugbountytips bugbounty 
+
+
+### Post — @krishnsec — 2022-04-25 09:06 UTC (2022-04-25 10:06 WAT)
+
+- URL: https://x.com/krishnsec/status/1518516841710505985
+- Metrics (at fetch): bookmark 757, impression 0, like 1022, quote 10, reply 1, retweet 361
+
+> #Beginner #recon #bugbountytips #bugbounty 
+> 1-Choose a wildscope and enumerate subs using subfinder +amass+ assetfinder + knockpy 
+> 2- Now run httpx and pic intresting subdomains only
+> 3- Specially php aspx html asp and old looking websites 
+> 4- Now fuzz interesting subs with ffuf
+
+
+---
+
+## 2022-02-21 · Post · I reported 5 critical authentication bypass bugs to @Bose @BoseService rvdp program ,
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @krishnsec — 2022-02-21 05:15 UTC (2022-02-21 06:15 WAT)
+
+- URL: https://x.com/krishnsec/status/1495628219202293770
+- Metrics (at fetch): bookmark 5, impression 0, like 56, quote 1, reply 1, retweet 2
+
+> I reported 5 critical authentication bypass bugs to @Bose @BoseService rvdp program ,
+> But no positive response till now , it's been 3 months 
+> I'll not recommend this program 🙌
+> #bugbounty #infosec
+
+
+---
+
+## 2022-02-12 · Post · Tips to look for log4j with @Burp_Suite  - bugbountytips log4j RCE bugbounty 
+
+
+Tags (automatic): RCE
+
+
+### Post — @krishnsec — 2022-02-12 09:19 UTC (2022-02-12 10:19 WAT)
+
+- URL: https://x.com/krishnsec/status/1492428083273486337
+- Metrics (at fetch): bookmark 314, impression 0, like 679, quote 2, reply 17, retweet 316
+
+> Tips to look for log4j with @Burp_Suite  - #bugbountytips #log4j #RCE #bugbounty 
+> 1- You can use wappalyzer to check whether application is using java or not 
+> https://t.co/FMDS8jovCP
+> 2- Like this see attached pic 1 , web app is using java 
+> 3- Now open your burp &gt; checkout https://t.co/sJsQWC8bW7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FLYmxk1VkAEA24w.png — no alt text provided by author
+
+
+---
+
+## 2022-01-19 · Post · Thank you for swag @Bugcrowd ❤️
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-01-19 12:25 UTC (2022-01-19 13:25 WAT)
+
+- URL: https://x.com/krishnsec/status/1483777632571330561
+- Metrics (at fetch): bookmark 2, impression 0, like 112, quote 0, reply 4, retweet 2
+
+> Thank you for swag @Bugcrowd ❤️
+> But still waiting for my 25 P1 swag ;)
+> #bugbounty https://t.co/QG6KnJwegl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FJdv4NkaIAAa1jX.jpg — no alt text provided by author
+
+
+---
+
+## 2022-01-11 · Post · Easy P1 bugbountytips bugbountytip bugbounty 
+
+
+### Post — @krishnsec — 2022-01-11 12:00 UTC (2022-01-11 13:00 WAT)
+
+- URL: https://x.com/krishnsec/status/1480872200982839297
+- Metrics (at fetch): bookmark 200, impression 0, like 714, quote 1, reply 27, retweet 191
+
+> #Easy #P1 #bugbountytips #bugbountytip #bugbounty 
+> Bug- Admin Panel Access
+> Steps
+> 1- Visit login panel
+> 2- Enter username= admin and random password
+> 3- click login &amp; capture in burp
+> 4- Do intercept 
+> 5- Update {"status":"0"} to
+> {"status":"1","user_type":"admin"}
+> 6- Admin console :) https://t.co/VmM48F5SeB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FI0daraVIAEtzM4.jpg — no alt text provided by author
+
+
+---
+
+## 2022-01-01 · Post · My goals for 2022
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-01-01 13:24 UTC (2022-01-01 14:24 WAT)
+
+- URL: https://x.com/krishnsec/status/1477269502790307843
+- Metrics (at fetch): bookmark 12, impression 0, like 190, quote 1, reply 14, retweet 4
+
+> My goals for 2022
+>
+> 1) Only cert - @Bugcrowd CPT
+> 2) 10X Bounties than last year
+> 3) Hack more rdp's 
+> 4) Collaboration with few awesome hackers
+> 5) Do Charity
+> 6) Gift a bike or car to myself
+> 7) Daily 1hr for health .
+> 8) Will share more bugbounty tips :)
+>
+> #bugbounty #infosec #hacking
+
+
+---
+
+## 2021-12-23 · Post · Thank you @4non_Hunter for this cool @Bugcrowd  swag 🙌 🔥
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2021-12-23 10:20 UTC (2021-12-23 11:20 WAT)
+
+- URL: https://x.com/krishnsec/status/1473961733404258304
+- Metrics (at fetch): bookmark 1, impression 0, like 42, quote 0, reply 1, retweet 2
+
+> Thank you @4non_Hunter for this cool @Bugcrowd  swag 🙌 🔥
+> @bsidesahmedabad https://t.co/kMut3xjB64
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FHSQWZGVEAAgtGW.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FHSQXwYVkAEi_5O.jpg — no alt text provided by author
+
+
+---
+
+## 2021-12-11 · Post · log4j log4jRCE
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2021-12-11 13:25 UTC (2021-12-11 14:25 WAT)
+
+- URL: https://x.com/krishnsec/status/1469659482514804739
+- Metrics (at fetch): bookmark 6, impression 0, like 68, quote 0, reply 2, retweet 0
+
+> #log4j #log4jRCE
+>  I tried my first and last 🤞🥲
+> Just for test purpose @Bugcrowd https://t.co/RjXpqWGimM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FGVHgZAVEAUFhmM.jpg — no alt text provided by author
+
+
+---
+
+## 2021-11-28 · Post · I completed 1 yr as @Bugcrowd researcher , Thank you bugcrowd ❤️ for making me feel worthy ;) https:
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2021-11-28 18:47 UTC (2021-11-28 19:47 WAT)
+
+- URL: https://x.com/krishnsec/status/1465029682328313861
+- Metrics (at fetch): bookmark 4, impression 0, like 81, quote 0, reply 7, retweet 3
+
+> I completed 1 yr as @Bugcrowd researcher , Thank you bugcrowd ❤️ for making me feel worthy ;) https://t.co/rq4hkkpK0L
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FFTUuIVVkAIWJkZ.jpg — no alt text provided by author

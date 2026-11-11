@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 109
-- Conversations/threads: 108
-- Oldest post captured: 2024-04-23
+- Posts in this file: 111
+- Conversations/threads: 110
+- Oldest post captured: 2023-12-14
 - Newest post captured: 2026-11-10
 
 
@@ -2491,3 +2491,47 @@ Tags (automatic): Platform: Immunefi
     >
     > The remaining funds remain protected in Zest Protocol smart contracts which the attacker no longer has access to.
     
+
+
+---
+
+## 2024-02-22 · Post · Thanks @immunefi  for nice writeup!. also  thanks @Stacks. pls follow my company @EXVULSEC , we will
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-02-22 07:49 UTC (2024-02-22 08:49 WAT)
+
+- URL: https://x.com/ma1fan/status/1760572451543773571
+- Metrics (at fetch): bookmark 3, impression 3092, like 16, quote 0, reply 1, retweet 3
+
+> Thanks @immunefi  for nice writeup!. also  thanks @Stacks. pls follow my company @EXVULSEC , we will release more interesting bugs and security incidents https://t.co/EbFBi2YOQr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2024-02-22 07:23 UTC (2024-02-22 08:23 WAT)
+    
+    - URL: https://x.com/immunefi/status/1760565946463449464
+    - Metrics (at fetch): bookmark 17, impression 10760, like 36, quote 2, reply 1, retweet 4
+    
+    > New Bugfix Review! 👾🔧✨
+    >
+    > @StacksOrg fixed this bug back in November last year, rewarding whitehat @ma1fan with a $76,011 bounty!
+    >
+    > https://t.co/iOmSeJMGJD
+    
+
+
+---
+
+## 2023-12-14 · Post · erc2771 &amp; multicall Arbitrary Address Spoofing Attack PoC
+
+
+### Post — @ma1fan — 2023-12-14 12:29 UTC (2023-12-14 13:29 WAT)
+
+- URL: https://x.com/ma1fan/status/1735275699869810722
+- Metrics (at fetch): bookmark 4, impression 4815, like 12, quote 0, reply 1, retweet 5
+
+> erc2771 &amp; multicall Arbitrary Address Spoofing Attack PoC
+> https://t.co/w0NzJDgWOM

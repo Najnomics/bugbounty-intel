@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 159
-- Conversations/threads: 159
-- Oldest post captured: 2018-01-26
+- Posts in this file: 184
+- Conversations/threads: 184
+- Oldest post captured: 2012-04-19
 - Newest post captured: 2026-11-03
 
 
@@ -2724,3 +2724,365 @@ Tags (automatic): Smart contract / DeFi
     
     > "Tokyo-based cryptocurrency exchange Coincheck has confirmed that it has suffered what appears to be the biggest hack in history of the technology" 58 billion yen, or $533 million https://t.co/wi3OfqKN8G
     
+
+
+---
+
+## 2018-01-17 · Post · Working on an audit for the @RSKsmart blockchain platform was one of the most fun projects we had la
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2018-01-17 18:22 UTC (2018-01-17 19:22 WAT)
+
+- URL: https://x.com/trailofbits/status/953693965164871683
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 1, reply 1, retweet 7
+
+> Working on an audit for the @RSKsmart blockchain platform was one of the most fun projects we had last quarter. See the results from that work on their blog! https://t.co/ss7GaEpwoF
+
+**Quoted post (full text):**
+
+    #### Quoted post — @16845633 — 2018-01-17 15:20 UTC (2018-01-17 16:20 WAT)
+    
+    - URL: https://x.com/16845633/status/953648290062618625
+    - Metrics (at fetch): bookmark 0, impression 0, like 17, quote 1, reply 0, retweet 6
+    
+    > audit of RSKj (Bitcoin sidechain with EVM smart contracts) by @trailofbits @paddyucl @socrates1024  #BugBounty hints maybe? https://t.co/cMBvP3vAIp https://t.co/2efUnD2fPX
+    
+    **Quoted post** 953645634422231040: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2018-01-03 · Post · Today's Project Zero Intel bug built on work by our @Calaquendi44 https://t.co/gY4BWLriAH https://t.
+
+
+### Post — @trailofbits — 2018-01-03 23:49 UTC (2018-01-04 00:49 WAT)
+
+- URL: https://x.com/trailofbits/status/948702867740921856
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 5
+
+> Today's Project Zero Intel bug built on work by our @Calaquendi44 https://t.co/gY4BWLriAH https://t.co/S2lJSSVV6s
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DSp13_AWkAIui_0.jpg — no alt text provided by author
+
+
+---
+
+## 2017-11-07 · Post · Our @Calaquendi44 will be speaking tonight at Capital (sic) Hack in DC tonight on Hardware Side Chan
+
+
+### Post — @trailofbits — 2017-11-07 17:06 UTC (2017-11-07 18:06 WAT)
+
+- URL: https://x.com/trailofbits/status/927945478582521856
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Our @Calaquendi44 will be speaking tonight at Capital (sic) Hack in DC tonight on Hardware Side Channels. Come out and say hi!
+
+
+---
+
+## 2017-11-02 · Post · Are you at DevCon3 and interested in Ethereum security talks? Check out "Automatic Bug Finding for 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2017-11-02 18:19 UTC (2017-11-02 19:19 WAT)
+
+- URL: https://x.com/trailofbits/status/926151770614661121
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
+
+> Are you at #DevCon3 and interested in Ethereum security talks? Check out "Automatic Bug Finding for the Blockchain"https://t.co/kxXKUpRzvD
+
+
+---
+
+## 2017-09-22 · Post · The SEC EDGAR hack simply reflects the status quo of our digital security. https://t.co/1RV9sKowjO
+
+
+### Post — @trailofbits — 2017-09-22 20:36 UTC (2017-09-22 21:36 WAT)
+
+- URL: https://x.com/trailofbits/status/911328269978537985
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> The SEC EDGAR hack simply reflects the status quo of our digital security. https://t.co/1RV9sKowjO
+
+
+---
+
+## 2017-05-09 · Post · Take a whirlwind tour of next-level static analyses for bug hunting with @Calaquendi44 in this @Infi
+
+
+### Post — @trailofbits — 2017-05-09 19:55 UTC (2017-05-09 20:55 WAT)
+
+- URL: https://x.com/trailofbits/status/862033253565431811
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 0, retweet 15
+
+> Take a whirlwind tour of next-level static analyses for bug hunting with @Calaquendi44 in this @InfiltrateCon video https://t.co/rxyvq4CPrv
+
+
+---
+
+## 2016-11-25 · Post · Hi students! Bored this weekend? Claim bounties on Algo:
+
+
+### Post — @trailofbits — 2016-11-25 20:35 UTC (2016-11-25 21:35 WAT)
+
+- URL: https://x.com/trailofbits/status/802249356183216128
+- Metrics (at fetch): bookmark 0, impression 0, like 29, quote 0, reply 2, retweet 24
+
+> Hi students! Bored this weekend? Claim bounties on Algo:
+> $500: ChromeOS support
+> $250: Win10 support
+> $250: go-audit
+> https://t.co/JK7WC08UBW
+
+
+---
+
+## 2016-11-01 · Post · We're offering a $500 bounty for ChromeOS support in Algo. Help us close this ticket: https://t.co/F
+
+
+### Post — @trailofbits — 2016-11-01 15:37 UTC (2016-11-01 16:37 WAT)
+
+- URL: https://x.com/trailofbits/status/793477180869251073
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 14
+
+> We're offering a $500 bounty for ChromeOS support in Algo. Help us close this ticket: https://t.co/FgMe6mVE0k
+
+
+---
+
+## 2016-10-04 · Post · Mozilla paid us to audit zlib with the 400lb hacking robot in our basement. What it found will shock
+
+
+### Post — @trailofbits — 2016-10-04 11:51 UTC (2016-10-04 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/783273422893649921
+- Metrics (at fetch): bookmark 0, impression 0, like 83, quote 9, reply 4, retweet 48
+
+> Mozilla paid us to audit zlib with the 400lb hacking robot in our basement. What it found will shock you! https://t.co/3m9lOwKzrv
+
+
+---
+
+## 2016-06-03 · Post · How to instantly exploit 2000 binaries with Binary Ninja https://t.co/GO2G61rTaE https://t.co/z64erJ
+
+
+### Post — @trailofbits — 2016-06-03 16:14 UTC (2016-06-03 17:14 WAT)
+
+- URL: https://x.com/trailofbits/status/738765867001909248
+- Metrics (at fetch): bookmark 1, impression 0, like 278, quote 0, reply 1, retweet 188
+
+> How to instantly exploit 2000 binaries with Binary Ninja https://t.co/GO2G61rTaE https://t.co/z64erJvfo5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CkCfo4OUgAAnJSL.jpg — no alt text provided by author
+
+
+---
+
+## 2016-05-05 · Post · The DBIR’s ‘Forest’ of Exploit Signatures https://t.co/7pTtYALwII https://t.co/rdEQB8Cgcq
+
+
+### Post — @trailofbits — 2016-05-05 20:56 UTC (2016-05-05 21:56 WAT)
+
+- URL: https://x.com/trailofbits/status/728327464884146176
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 0, retweet 35
+
+> The DBIR’s ‘Forest’ of Exploit Signatures https://t.co/7pTtYALwII https://t.co/rdEQB8Cgcq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ChuJ-B4U4AA5heE.jpg — no alt text provided by author
+
+
+---
+
+## 2016-04-01 · Post · We're launching a new bug bounty for hacker handles. See the details here: https://t.co/qPQkVJybTm h
+
+
+### Post — @trailofbits — 2016-04-01 11:51 UTC (2016-04-01 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/715869114699374592
+- Metrics (at fetch): bookmark 0, impression 0, like 24, quote 0, reply 3, retweet 12
+
+> We're launching a new bug bounty for hacker handles. See the details here: https://t.co/qPQkVJybTm https://t.co/OYoGemGSkk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ce9HKmIUMAAeTkA.jpg — no alt text provided by author
+
+
+---
+
+## 2014-10-06 · Post · JPMorgan attack shows hackers gaining upper hand in cyberwars http://t.co/zEkBft6IsP via @learmonth
+
+
+### Post — @trailofbits — 2014-10-06 16:16 UTC (2014-10-06 17:16 WAT)
+
+- URL: https://x.com/trailofbits/status/519159184466513920
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 3
+
+> JPMorgan attack shows hackers gaining upper hand in cyberwars http://t.co/zEkBft6IsP via @learmonth
+
+
+---
+
+## 2014-09-25 · Post · New 'Bash' software bug may pose bigger threat than 'Heartbleed' http://t.co/5CzMKo60tG via @reuters
+
+
+### Post — @trailofbits — 2014-09-25 17:34 UTC (2014-09-25 18:34 WAT)
+
+- URL: https://x.com/trailofbits/status/515192597782863872
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> New 'Bash' software bug may pose bigger threat than 'Heartbleed' http://t.co/5CzMKo60tG via @reuters
+
+
+---
+
+## 2014-04-18 · Post · TOB's Andrew Ruef talks about the Heartbleed bug on @WPBF25News http://t.co/GnujaUI26V
+
+
+### Post — @trailofbits — 2014-04-18 02:07 UTC (2014-04-18 03:07 WAT)
+
+- URL: https://x.com/trailofbits/status/456977202668896256
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 1
+
+> TOB's Andrew Ruef talks about the Heartbleed bug on @WPBF25News http://t.co/GnujaUI26V
+
+
+---
+
+## 2014-03-25 · Post · We helped @RANDCorporation understand in-the-wild exploit use for: “Markets for Cybercrime Tools and
+
+
+### Post — @trailofbits — 2014-03-25 16:45 UTC (2014-03-25 17:45 WAT)
+
+- URL: https://x.com/trailofbits/status/448500988056698880
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
+
+> We helped @RANDCorporation understand in-the-wild exploit use for: “Markets for Cybercrime Tools and Data” http://t.co/dZHPLtwJxu
+
+
+---
+
+## 2013-06-06 · Post · All 30 attendees of our Ruby security workshop solved the first YAML exploit lab. Great success! htt
+
+
+### Post — @trailofbits — 2013-06-06 16:48 UTC (2013-06-06 17:48 WAT)
+
+- URL: https://x.com/trailofbits/status/342684331107569664
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> All 30 attendees of our Ruby security workshop solved the first YAML exploit lab. Great success! http://t.co/mXDB5mo08B
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BMF1lWICUAEYgTc.jpg — no alt text provided by author
+
+
+---
+
+## 2013-05-20 · Post · In case it’s not clear, we spent more time on our Elderwood report than they spent creating their la
+
+
+### Post — @trailofbits — 2013-05-20 15:55 UTC (2013-05-20 16:55 WAT)
+
+- URL: https://x.com/trailofbits/status/336510599792046080
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
+
+> In case it’s not clear, we spent more time on our Elderwood report than they spent creating their last attack http://t.co/zt45N1UZOr
+
+
+---
+
+## 2013-05-20 · Post · We continue our blow-by-blow of an Elderwood attack campaign with a new blog today: http://t.co/zt45
+
+
+### Post — @trailofbits — 2013-05-20 15:39 UTC (2013-05-20 16:39 WAT)
+
+- URL: https://x.com/trailofbits/status/336506407983669249
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 4
+
+> We continue our blow-by-blow of an Elderwood attack campaign with a new blog today: http://t.co/zt45N1UZOr
+
+
+---
+
+## 2013-05-15 · Post · We're delaying our next post on Elderwood so we can do more detailed testing of their exploit code. 
+
+
+### Post — @trailofbits — 2013-05-15 13:37 UTC (2013-05-15 14:37 WAT)
+
+- URL: https://x.com/trailofbits/status/334663938174238720
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> We're delaying our next post on Elderwood so we can do more detailed testing of their exploit code. Expect it on Friday!
+
+
+---
+
+## 2013-05-13 · Post · Elderwood and the Department of Labor Hack (1 of 5) http://t.co/1p5LSBf150
+
+
+### Post — @trailofbits — 2013-05-13 16:33 UTC (2013-05-13 17:33 WAT)
+
+- URL: https://x.com/trailofbits/status/333983401315024897
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 10
+
+> Elderwood and the Department of Labor Hack (1 of 5) http://t.co/1p5LSBf150
+
+
+---
+
+## 2012-12-12 · Post · Have a training budget at work? Learn to find and exploit modern bugs from the best! http://t.co/CZ7
+
+
+### Post — @trailofbits — 2012-12-12 22:30 UTC (2012-12-12 23:30 WAT)
+
+- URL: https://x.com/trailofbits/status/278990195955732480
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
+
+> Have a training budget at work? Learn to find and exploit modern bugs from the best! http://t.co/CZ7rmQIN
+
+
+---
+
+## 2012-07-16 · Post · Web exploit kit developers have demonstrated minor but largely insignificant advances in skill since
+
+
+### Post — @trailofbits — 2012-07-16 22:17 UTC (2012-07-16 23:17 WAT)
+
+- URL: https://x.com/trailofbits/status/224991156507906048
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 4
+
+> Web exploit kit developers have demonstrated minor but largely insignificant advances in skill since last year: http://t.co/6UaGrzPf
+
+
+---
+
+## 2012-04-20 · Post · We have posted slides for the Mobile Exploit Intelligence Project: http://t.co/IVkR8aO7 (cc @mikearp
+
+
+### Post — @trailofbits — 2012-04-20 02:16 UTC (2012-04-20 03:16 WAT)
+
+- URL: https://x.com/trailofbits/status/193161119802724353
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 0, retweet 20
+
+> We have posted slides for the Mobile Exploit Intelligence Project: http://t.co/IVkR8aO7 (cc @mikearpaia) Reddit thread: http://t.co/NfIoDM1B
+
+
+---
+
+## 2012-04-19 · Post · Dan Guido (@dguido) and Mike Arpaia (@mikearpaia) will be presenting the Mobile Exploit Intelligence
+
+
+### Post — @trailofbits — 2012-04-19 17:26 UTC (2012-04-19 18:26 WAT)
+
+- URL: https://x.com/trailofbits/status/193027764880814081
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> Dan Guido (@dguido) and Mike Arpaia (@mikearpaia) will be presenting the Mobile Exploit Intelligence Project at #sourcebos in 5 minutes.

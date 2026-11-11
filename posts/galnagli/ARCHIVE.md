@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 113
-- Conversations/threads: 102
-- Oldest post captured: 2024-04-25
+- Posts in this file: 120
+- Conversations/threads: 109
+- Oldest post captured: 2023-12-31
 - Newest post captured: 2026-11-10
 
 
@@ -2314,3 +2314,160 @@ Tags (automatic): Platform: HackerOne
 **Media:**
 - photo: https://pbs.twimg.com/media/GMDDDBOXcAA9pln.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GMDCY_oXEAEFnW1.png — no alt text provided by author
+
+
+---
+
+## 2024-04-16 · Post · The damage of VDP programs and their Incentivization is far greater than giving some hunters "points
+
+
+### Post — @galnagli — 2024-04-16 10:00 UTC (2024-04-16 11:00 WAT)
+
+- URL: https://x.com/galnagli/status/1780174392003031515
+- Metrics (at fetch): bookmark 175, impression 191272, like 703, quote 39, reply 60, retweet 154
+
+> The damage of VDP programs and their Incentivization is far greater than giving some hunters "points" for farming none-bugs that they can later boast on their CV's, I believe it might actually ruin Bug Bounty platforms in the near future, Let's explore the facts 📜
+>
+> So VDP's, as https://t.co/sngxIgZ44l
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLRmpamWoAAR-RP.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GLRnEztW8AA7uFU.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GLRnh64X0AAQewG.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GLRosu7WoAEstdj.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-15 · Post · Classic, just got scammed by @trondao bug bounty program, they leaked their production (https://t.co
+
+
+### Post — @galnagli — 2024-04-15 13:04 UTC (2024-04-15 14:04 WAT)
+
+- URL: https://x.com/galnagli/status/1779858324042785208
+- Metrics (at fetch): bookmark 69, impression 54571, like 336, quote 2, reply 27, retweet 23
+
+> Classic, just got scammed by @trondao bug bounty program, they leaked their production (https://t.co/Vfj7tYODn1) AWS Keys, had access to their secrets, team has fixed in an hour and marked Informative - saying there is no risk. https://t.co/xzMVwDhOuW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLNTjBiXYAEFm9j.png — no alt text provided by author
+
+
+---
+
+## 2024-03-14 · Post · Excited to finally cross the 40,000 reputation points mark on @HackerOne with 2x $5,000 bounties for
+
+
+Tags (automatic): RCE, Platform: HackerOne
+
+
+### Post — @galnagli — 2024-03-14 20:18 UTC (2024-03-14 21:18 WAT)
+
+- URL: https://x.com/galnagli/status/1768371253612511283
+- Metrics (at fetch): bookmark 26, impression 17448, like 276, quote 1, reply 12, retweet 8
+
+> Excited to finally cross the 40,000 reputation points mark on @HackerOne with 2x $5,000 bounties for RCE's, this time it was directly streamlined from https://t.co/B3ho4sTwFC, grateful to see the hard work paying off!  
+>
+> #BugBounty https://t.co/fYBi4xJlK4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIqEPCzXAAAoKGn.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-26 · Post · Curious about how a $20,000 OAuth bug I discovered at a Live Hacking Event last year looks like? Tod
+
+
+Tags (automatic): OAuth
+
+
+### Post — @galnagli — 2024-02-26 16:33 UTC (2024-02-26 17:33 WAT)
+
+- URL: https://x.com/galnagli/status/1762153856127930493
+- Metrics (at fetch): bookmark 223, impression 32256, like 475, quote 0, reply 5, retweet 112
+
+> Curious about how a $20,000 OAuth bug I discovered at a Live Hacking Event last year looks like? Today you can dive into an exact replica and see for yourself!
+>
+> I've collaborated with @NahamSec &amp; @hackinghub_io to create walkthrough video + demo lab 🧪
+> https://t.co/LDtAFc6djX
+
+
+---
+
+## 2024-02-20 · Post · Yay, I was awarded $5,000 bounty on @Hacker0x01 with @Rhynorater for PHP Type Juggling!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2024-02-20 17:22 UTC (2024-02-20 18:22 WAT)
+
+- URL: https://x.com/galnagli/status/1759991977607671813
+- Metrics (at fetch): bookmark 72, impression 37458, like 384, quote 1, reply 12, retweet 12
+
+> Yay, I was awarded $5,000 bounty on @Hacker0x01 with @Rhynorater for PHP Type Juggling!
+>
+> #BugBounty https://t.co/ksoIANJTkk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGy_LEKWYAAY0Mp.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GGy_IT2XoAAJ5R-.png — no alt text provided by author
+
+
+---
+
+## 2024-02-09 · Post · Had a blast this week hacking on @Bugcrowd's @TMobile BugBash, we have scooped $80,000 bounty over o
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2024-02-09 01:25 UTC (2024-02-09 02:25 WAT)
+
+- URL: https://x.com/galnagli/status/1755764864646324291
+- Metrics (at fetch): bookmark 13, impression 18436, like 213, quote 0, reply 6, retweet 9
+
+> Had a blast this week hacking on @Bugcrowd's @TMobile BugBash, we have scooped $80,000 bounty over one submission, crazy web &amp; mobile findings and even an Apple Vision Pro Show &amp; Tell.
+>
+> Kudos to the folks @samwcyo @iangcarroll @d0nutptr and everyone who helped running the event! https://t.co/OHQDBuxTOW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GF25nl7boAA6vJv.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GF26f-jbMAAwCy8.png — no alt text provided by author
+
+
+---
+
+## 2023-12-31 · Post · Apart from BugBounty, professionally, this year has been a tremendous one as entrepreneur for https
+
+
+### Post — @galnagli — 2023-12-31 19:33 UTC (2023-12-31 20:33 WAT)
+
+- URL: https://x.com/galnagli/status/1741543131735023914
+- Metrics (at fetch): bookmark 18, impression 22947, like 96, quote 0, reply 3, retweet 4
+
+> Apart from #BugBounty, professionally, this year has been a tremendous one as entrepreneur for https://t.co/B3ho4sTwFC's Bootstrapped Attack Surface Platform.
+>
+> * 0 -&gt; Double Digits Paying Customers
+>
+> * 0 -&gt; 💰💰💰💰💰💰 6 Digits Revenue
+>
+> * Traveled across 17 countries ( 🇺🇸 🇦🇪 🇬🇧 https://t.co/aZjTzaZm5O
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1519951042322092032 — 2023-12-31 19:21 UTC (2023-12-31 20:21 WAT)
+    
+    - URL: https://x.com/1519951042322092032/status/1741540139371843998
+    - Metrics (at fetch): bookmark 0, impression 24431, like 6, quote 1, reply 0, retweet 0
+    
+    > We want to thank our clients for choosing our platform and being 💯 collaborators on the joint journey in protecting your externally facing assets.
+    >
+    > 2023 as been full of extraordinary findings and platform enhancements, and eager to see what's coming in 2024.
+    >
+    > Happy New Year! https://t.co/N26FnCkPy5
+    
+    **Media:**
+    - media `3_1741539456656515072` (details not returned by the API)
+    

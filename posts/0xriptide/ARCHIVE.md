@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 99
-- Conversations/threads: 95
-- Oldest post captured: 2025-05-28
+- Posts in this file: 102
+- Conversations/threads: 98
+- Oldest post captured: 2025-05-01
 - Newest post captured: 2026-11-10
 
 
@@ -2260,4 +2260,62 @@ Tags (automatic): Platform: Immunefi
     > https://blocksec.com/phalcon/security
     
     **Links in post:** https://app.blocksec.com/explorer/tx/eth/0x585d8be6a0b07ca2f94cfa1d7542f1a62b0d3af5fab7823cbcf69fb243f271f8, https://blocksec.com/phalcon/security
+    
+
+
+---
+
+## 2025-05-19 · Reply · @0xngmi ser what about adding stats for bug bounties?
+
+
+### Post — @0xriptide — 2025-05-19 16:07 UTC (2025-05-19 17:07 WAT)
+
+- URL: https://x.com/0xriptide/status/1924497162475372989
+- Metrics (at fetch): bookmark 0, impression 258, like 3, quote 0, reply 0, retweet 1
+
+> @0xngmi ser what about adding stats for bug bounties?
+
+
+---
+
+## 2025-05-19 · Post · i focus my time on bounty hunting and don't take the time needed to research defi opportunities anym
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @0xriptide — 2025-05-19 06:13 UTC (2025-05-19 07:13 WAT)
+
+- URL: https://x.com/0xriptide/status/1924347644601606381
+- Metrics (at fetch): bookmark 19, impression 3868, like 50, quote 1, reply 2, retweet 3
+
+> i focus my time on bounty hunting and don't take the time needed to research defi opportunities anymore
+>
+> recommend DeFi Education substack to fill the gap by @NightOwlCapital  and @BowTiedIguana
+
+
+---
+
+## 2025-05-01 · Post · master @gegul_  was scheduled to come on @bountyhunt3rz today but caught a real life bug
+
+
+### Post — @0xriptide — 2025-05-01 04:59 UTC (2025-05-01 05:59 WAT)
+
+- URL: https://x.com/0xriptide/status/1917805981733446112
+- Metrics (at fetch): bookmark 3, impression 2291, like 24, quote 0, reply 2, retweet 1
+
+> master @gegul_  was scheduled to come on @bountyhunt3rz today but caught a real life bug
+>
+> I have prescribed high dosages of dolsot bibimbap to help him recover quickly https://t.co/Q4UccWpgkb
+
+**Quoted post (full text):**
+
+    #### Quoted post — @885385623812530177 — 2025-04-25 14:24 UTC (2025-04-25 15:24 WAT)
+    
+    - URL: https://x.com/885385623812530177/status/1915773858004763034
+    - Metrics (at fetch): bookmark 257, impression 42748, like 407, quote 8, reply 47, retweet 44
+    
+    > 🧵 A bit of story how I got into web3 security and earned around $3M in bounties
+    >
+    > Back then I worked in web2 security for 3 months, lol, but primarily focused on reverse engineering.
     

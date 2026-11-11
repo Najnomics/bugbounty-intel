@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 66
-- Conversations/threads: 60
+- Posts in this file: 69
+- Conversations/threads: 63
 - Oldest post captured: 2021-03-04
 - Newest post captured: 2026-11-09
 
@@ -1143,6 +1143,51 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GwiptpWW0AEfYca.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-08 · Post · bug bounty industry is so fucking good these days… so many programs, good payouts, wide scopes. We a
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zseano — 2025-07-08 07:28 UTC (2025-07-08 08:28 WAT)
+
+- URL: https://x.com/zseano/status/1942485880955928661
+- Metrics (at fetch): bookmark 151, impression 34881, like 736, quote 4, reply 25, retweet 47
+
+> bug bounty industry is so fucking good these days… so many programs, good payouts, wide scopes. We are truly blessed 😇 get stuck in, there are bugs out there, and lots of them ! (And no AI isn’t close to replacing us, it’s helping us more than ever)
+
+
+---
+
+## 2025-06-10 · Post · h1_analyst_malenia is the best analyst on hackerone, they're sooo good at handling reports (at least
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2025-06-10 19:09 UTC (2025-06-10 20:09 WAT)
+
+- URL: https://x.com/zseano/status/1932515360642904464
+- Metrics (at fetch): bookmark 19, impression 25578, like 288, quote 2, reply 22, retweet 5
+
+> h1_analyst_malenia is the best analyst on hackerone, they're sooo good at handling reports (at least in my experience!). mad respect to them, legend :)
+
+
+---
+
+## 2025-06-01 · Post · This is really cool from @infinitelogins , I think he's onto something with creating a "central hub 
+
+
+### Post — @zseano — 2025-06-01 19:16 UTC (2025-06-01 20:16 WAT)
+
+- URL: https://x.com/zseano/status/1929255783276896437
+- Metrics (at fetch): bookmark 78, impression 9207, like 193, quote 0, reply 2, retweet 16
+
+> This is really cool from @infinitelogins , I think he's onto something with creating a "central hub point" for bug bounty hunters and show casing their profiles in one place. Kudos to him for creating this!! excited to see where it goes :) https://t.co/WIlLZynziT
 
 
 ---

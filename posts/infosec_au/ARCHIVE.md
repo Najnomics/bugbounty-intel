@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 81
-- Conversations/threads: 71
+- Posts in this file: 87
+- Conversations/threads: 77
 - Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
@@ -1316,6 +1316,106 @@ Tags (automatic): SSRF
     
     > Full @rapid7 analysis of PAN-OS CVE-2024-3400 now available from @stephenfewer and our stellar new research teammate @ChairNectar! Spoiler: It's a two-vuln exploit chain. https://t.co/KT2Xd7vyE5
     
+
+
+---
+
+## 2024-03-15 · Post · At @assetnote, our security research team has worked tirelessly to build capabilities to exploit CVE
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2024-03-15 21:00 UTC (2024-03-15 22:00 WAT)
+
+- URL: https://x.com/infosec_au/status/1768743977564393950
+- Metrics (at fetch): bookmark 80, impression 25578, like 305, quote 0, reply 1, retweet 90
+
+> At @assetnote, our security research team has worked tirelessly to build capabilities to exploit CVE-2024-21762, a pre-auth RCE vulnerability in FortiGate SSLVPN. 150k+ instances of this on the internet. Dylan explained his journey in our blog: https://t.co/O2CFlqAbWP
+
+
+---
+
+## 2024-03-13 · Post · Our security research team at @assetnote discovered CVE-2023-5914 &amp; CVE-2023-6184 in Citrix Stor
+
+
+### Post — @infosec_au — 2024-03-13 23:33 UTC (2024-03-14 00:33 WAT)
+
+- URL: https://x.com/infosec_au/status/1768057812431880390
+- Metrics (at fetch): bookmark 32, impression 11551, like 173, quote 0, reply 2, retweet 29
+
+> Our security research team at @assetnote discovered CVE-2023-5914 &amp; CVE-2023-6184 in Citrix StoreFront and Citrix Session Recording.
+>
+> Customers of Assetnote's ASM responded rapidly to these vulnerabilities as they were the first to know.
+>
+> Blog: https://t.co/C6Q05SVGEG
+
+
+---
+
+## 2024-02-03 · Post · The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of w
+
+
+Tags (automatic): SSRF, Auth bypass, RCE
+
+
+### Post — @infosec_au — 2024-02-03 06:25 UTC (2024-02-03 07:25 WAT)
+
+- URL: https://x.com/infosec_au/status/1753666094546780326
+- Metrics (at fetch): bookmark 113, impression 32830, like 346, quote 2, reply 3, retweet 83
+
+> The SSRF/auth bypass affecting Ivanti Pulse Connect Secure (CVE-2024-21893), is a great example of what can be achieved with a fully blind SSRF vulnerability (RCE).
+>  
+> Read the @assetnote blog here which includes a  reliable payload and generation steps: https://t.co/cOYpmbWHrS
+
+
+---
+
+## 2024-01-29 · Post · just calculated today that i've been hacking on uber's bug bounty program for around 8 years lol. wh
+
+
+### Post — @infosec_au — 2024-01-29 09:58 UTC (2024-01-29 10:58 WAT)
+
+- URL: https://x.com/infosec_au/status/1751907699288396066
+- Metrics (at fetch): bookmark 7, impression 8712, like 122, quote 0, reply 8, retweet 0
+
+> just calculated today that i've been hacking on uber's bug bounty program for around 8 years lol. what a wild journey. keeping up with the way they develop apps blackbox has been such a challenging and rewarding journey. still one of the best public bug bounty programs ever.
+
+
+---
+
+## 2024-01-19 · Post · At @assetnote, we focused on building a comprehensive set of exploits for the recent Ivanti Pulse Co
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2024-01-19 00:03 UTC (2024-01-19 01:03 WAT)
+
+- URL: https://x.com/infosec_au/status/1748133949485019467
+- Metrics (at fetch): bookmark 55, impression 26822, like 258, quote 2, reply 3, retweet 71
+
+> At @assetnote, we focused on building a comprehensive set of exploits for the recent Ivanti Pulse Connect Secure vulnerabilities (CVE-2023-46805 &amp; CVE-2024-21887. We found an additional auth bypass payload that works on older versions of the software: https://t.co/4BHwNDFN3V https://t.co/nLgknkeOdm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEKejCNboAAu5m4.png — no alt text provided by author
+
+
+---
+
+## 2023-12-17 · Post · Over 400 stars on Surf (https://t.co/MOuK57I46z) - thank you so much for the support!
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2023-12-17 12:31 UTC (2023-12-17 13:31 WAT)
+
+- URL: https://x.com/infosec_au/status/1736363391487545367
+- Metrics (at fetch): bookmark 137, impression 19815, like 312, quote 0, reply 1, retweet 45
+
+> Over 400 stars on Surf (https://t.co/MOuK57I46z) - thank you so much for the support!
+> I find that this tool leads to critical SSRF discoveries, despite its simplicity. I hope everyone has a happy holidays. I can't wait to release even more tooling and research in 2024.
 
 
 ---

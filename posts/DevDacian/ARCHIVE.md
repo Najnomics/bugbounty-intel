@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 200
-- Conversations/threads: 196
+- Posts in this file: 210
+- Conversations/threads: 206
 - Oldest post captured: 2023-10-09
 - Newest post captured: 2026-11-09
 
@@ -4432,6 +4432,207 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > 6⃣ Gas optimization - in seeking to understand the role of every single variable in the protocol, we frequently find variables that are redundant, identical storage reads. Sometimes in seeking to understand a function we'll re-write it to simplify it which also results in a more efficient implementation that goes into the report
 >
 > Our ultimate goal in every audit is to do everything possible to maximize value to the client; to leave no stone unturned, no path unexplored, doing our best every time for every client!
+
+
+---
+
+## 2025-05-19 · Post · Lost a deal where I assembled the perfectly suited "Auditor Dream Team" for client's niche, but they
+
+
+### Post — @DevDacian — 2025-05-19 23:26 UTC (2025-05-20 00:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1924607677134770490
+- Metrics (at fetch): bookmark 0, impression 3279, like 56, quote 0, reply 7, retweet 0
+
+> Lost a deal where I assembled the perfectly suited "Auditor Dream Team" for client's niche, but they chose a big brand name with sub-par audit team for unrelated reasons.
+>
+> Really hate losing such deals because client ends up with crap audit that isn't suited to their needs.
+
+
+---
+
+## 2025-05-19 · Post · Simplest &amp; best investment to increase external audit efficiency?
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @DevDacian — 2025-05-19 10:30 UTC (2025-05-19 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1924412215542546804
+- Metrics (at fetch): bookmark 5, impression 1043, like 23, quote 0, reply 0, retweet 2
+
+> Simplest &amp; best investment to increase external audit efficiency?
+>
+> Have a Foundry test suite which:
+> 1⃣correctly sets up &amp; configures protocol
+> 2⃣basic working tests of all major functionality
+>
+> It is much cheaper &amp; efficient to do this "in house".
+
+
+---
+
+## 2025-05-14 · Post · aspiring bounty huntooor / auditooor life
+
+
+### Post — @DevDacian — 2025-05-14 10:30 UTC (2025-05-14 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1922600275048562952
+- Metrics (at fetch): bookmark 6, impression 2663, like 78, quote 0, reply 5, retweet 7
+
+> aspiring bounty huntooor / auditooor life
+>
+> how many started but never made it because they gave up before reaching the diamonds?
+>
+> sometimes the reward is actually very near, but seems so far away - just keep grinding! https://t.co/u9dLMFPeqD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqzIzj4WsAAvKn2.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-13 · Post · Signed 6 audit deals last week, signing more this week - blessed to have top protocols choosing @cyf
+
+
+### Post — @DevDacian — 2025-05-13 10:30 UTC (2025-05-13 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1922237886583206152
+- Metrics (at fetch): bookmark 2, impression 1966, like 72, quote 0, reply 4, retweet 0
+
+> Signed 6 audit deals last week, signing more this week - blessed to have top protocols choosing @cyfrin
+>
+> Now running 5 simultaneous audits &amp; 4 next week, while doing quotes for many future deals in the pipeline and my own audit as well.
+>
+> Very busy but life is great! 🚀 https://t.co/iU3D4cHahu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqzLEOuX0AE1QVE.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-12 · Post · Thoughts on bounty hunter life in light of this finding.
+
+
+### Post — @DevDacian — 2025-05-12 10:54 UTC (2025-05-12 11:54 WAT)
+
+- URL: https://x.com/DevDacian/status/1921881549609500984
+- Metrics (at fetch): bookmark 52, impression 18987, like 160, quote 5, reply 12, retweet 12
+
+> Thoughts on bounty hunter life in light of this finding.
+>
+> To find this mainnet critical, 2 auditors spent 5 weeks doing nothing but auditing Bunni until in the 5th week they found a beautiful exploit which could drain user funds.
+>
+> This was psychologically "easy" because the https://t.co/d2sTQtQiSM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1492412477904023557 — 2025-05-03 01:30 UTC (2025-05-03 02:30 WAT)
+    
+    - URL: https://x.com/1492412477904023557/status/1918478221416513711
+    - Metrics (at fetch): bookmark 94, impression 24826, like 92, quote 5, reply 3, retweet 12
+    
+    > The Bunni team has made a write-up of the exploit discovered by @cyfrin that could've led to the theft of user funds.
+    >
+    > In the write-up we describe in detail what the issue was and how we addressed it.
+    >
+    > https://t.co/7aZLozzV7X
+    
+
+
+---
+
+## 2025-05-06 · Post · Q) As a protocol founder, the price of audits seems very expensive. If you were in my position, what
+
+
+### Post — @DevDacian — 2025-05-06 11:00 UTC (2025-05-06 12:00 WAT)
+
+- URL: https://x.com/DevDacian/status/1919708727608738252
+- Metrics (at fetch): bookmark 12, impression 2393, like 70, quote 0, reply 5, retweet 4
+
+> Q) As a protocol founder, the price of audits seems very expensive. If you were in my position, what would you do to get the best value for money?
+>
+> Firstly the basics; making sure I did as much in-house as possible. High unit test coverage, defined contract/protocol invariants https://t.co/sx9VJZnczH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqQg-YhaIAA-Cx_.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-02 · Post · Finalized a small but very interesting audit for @cryptoartcom - they are pairing NFTs with physical
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-05-02 12:24 UTC (2025-05-02 13:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1918280514827633032
+- Metrics (at fetch): bookmark 3, impression 1653, like 23, quote 0, reply 3, retweet 2
+
+> Finalized a small but very interesting audit for @cryptoartcom - they are pairing NFTs with physical artworks and bringing the "provenance" of an artwork on-chain.
+>
+> The on-chain component was relatively simple and well thought-out, it was really challenging to find anything https://t.co/X95vukaxy1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gp8ZitgawAMxngu.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-30 · Post · audit contestooor life https://t.co/S0CFz14vdb
+
+
+### Post — @DevDacian — 2025-04-30 23:06 UTC (2025-05-01 00:06 WAT)
+
+- URL: https://x.com/DevDacian/status/1917717203862053337
+- Metrics (at fetch): bookmark 2, impression 7272, like 138, quote 3, reply 10, retweet 7
+
+> audit contestooor life https://t.co/S0CFz14vdb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gp0ZexVaAAAw1Rz.png — no alt text provided by author
+
+
+---
+
+## 2025-04-30 · Post · Shout out @0kage_eth @Ubermensh3dot0 great work on very tough audit for chads @Dolomite_io!
+
+
+### Post — @DevDacian — 2025-04-30 11:27 UTC (2025-04-30 12:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1917541360313458901
+- Metrics (at fetch): bookmark 7, impression 9369, like 51, quote 3, reply 3, retweet 4
+
+> Shout out @0kage_eth @Ubermensh3dot0 great work on very tough audit for chads @Dolomite_io!
+>
+> Dolomite put *heavy* security work before audit with extremely thoughtful security-conscious design, specified invariants &amp; tons of tests. These chads really did an amazing job before for https://t.co/qiboZ5ouoI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gpx4qlLaYAMqyO4.png — no alt text provided by author
+
+
+---
+
+## 2025-04-28 · Post · Shout out @0ximmeas @TamayoNft fantastic work on @cyfrin YieldFi CCIP private audit!
+
+
+### Post — @DevDacian — 2025-04-28 09:33 UTC (2025-04-28 10:33 WAT)
+
+- URL: https://x.com/DevDacian/status/1916787881924088153
+- Metrics (at fetch): bookmark 16, impression 2507, like 63, quote 0, reply 5, retweet 4
+
+> Shout out @0ximmeas @TamayoNft fantastic work on @cyfrin YieldFi CCIP private audit!
+>
+> YieldFi added CCIP to their existing LayerZero; we found 2 Crits &amp; 4 Lows related to their CCIP integration plus a bunch of other findings mostly related to ERC4626🚀
+>
+> Report👇 https://t.co/PPJVS0cL0P
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpnMBYIaAAAzWQH.png — no alt text provided by author
 
 
 ---
