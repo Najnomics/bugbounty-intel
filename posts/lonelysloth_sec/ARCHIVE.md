@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 175
+- Posts in this file: 178
 - Conversations/threads: 135
 - Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-10
@@ -2731,7 +2731,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-05-26 · Post · You should treat every PR as a potential attack. Review it assuming the proposer can be malicious. h
+## 2025-05-26 · Thread · You should treat every PR as a potential attack. Review it assuming the proposer can be malicious. h
+
+
+Tags (automatic): Dependency confusion / supply chain
 
 
 ### Post — @lonelysloth_sec — 2025-05-26 16:56 UTC (2025-05-26 17:56 WAT)
@@ -2741,7 +2744,19 @@ Tags (automatic): AI-assisted hunting
 
 > You should treat every PR as a potential attack. Review it assuming the proposer can be malicious. https://t.co/jwcjnjn6mO
 
+**Links in post:** https://t.co/jwcjnjn6mO
+
 **Quoted post** 1926995073654292718: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @lonelysloth_sec — 2025-05-26 17:00 UTC (2025-05-26 18:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1927047125939982517
+- Metrics (at fetch): bookmark 4, impression 970, like 9, quote 0, reply 1, retweet 0
+
+> This is true for any OSS project, a smart blackhat can add obfuscated malicious code to a little known library to reach something down the supply chain.
+>
+> Even proprietary code can be a victim if the stakes are high enough. Can you be sure none of your devs has been bribed/blackmailed?
 
 
 ---
@@ -2972,7 +2987,7 @@ Tags (automatic): AI-assisted hunting, Platform: Immunefi
 
 ---
 
-## 2025-02-20 · Post · immunefiisland2
+## 2025-02-20 · Thread · immunefiisland2
 
 
 Tags (automatic): Platform: Immunefi
@@ -2991,6 +3006,14 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkQNepXbAAM8zeu.jpg — no alt text provided by author
+
+
+### Thread part 2 — @lonelysloth_sec — 2025-02-20 19:15 UTC (2025-02-20 20:15 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1892654205740949662
+- Metrics (at fetch): bookmark 0, impression 511, like 5, quote 0, reply 0, retweet 0
+
+> Real life photo of myself catching a critical while wearing the official FrogeTeam jersey.
 
 
 ---
@@ -3056,7 +3079,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2024-12-26 · Post · 2024 achievements on @immunefi https://t.co/LQxw9IBWbm
+## 2024-12-26 · Thread · 2024 achievements on @immunefi [pic.x.com/LQxw9IBWbm]
 
 
 Tags (automatic): Platform: Immunefi
@@ -3067,10 +3090,18 @@ Tags (automatic): Platform: Immunefi
 - URL: https://x.com/lonelysloth_sec/status/1872404564135309536
 - Metrics (at fetch): bookmark 32, impression 12251, like 256, quote 2, reply 24, retweet 6
 
-> 2024 achievements on @immunefi https://t.co/LQxw9IBWbm
+> 2024 achievements on @immunefi [pic.x.com/LQxw9IBWbm]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gfwd_Y1bEAAlpTL.jpg — no alt text provided by author
+
+
+### Thread part 2 — @lonelysloth_sec — 2024-12-26 22:10 UTC (2024-12-26 23:10 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1872404724823330978
+- Metrics (at fetch): bookmark 1, impression 1405, like 14, quote 0, reply 1, retweet 0
+
+> Number of reports seems to be all time rather than for ‘24
 
 
 ---

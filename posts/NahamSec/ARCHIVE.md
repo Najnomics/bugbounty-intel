@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1140
-- Conversations/threads: 986
+- Posts in this file: 1150
+- Conversations/threads: 988
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
@@ -548,6 +548,45 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HVHEziFasAAKUg2.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-20 · Post · @0xd0m7 @Hacker0x01 past year vs all time. It means ABSOLUTELY nothing apparently. https://t.co/5ei3
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2026-10-20 01:48 UTC (2026-10-20 02:48 WAT)
+
+- URL: https://x.com/NahamSec/status/2112360248640225590
+- Metrics (at fetch): bookmark 0, impression 1093, like 8, quote 0, reply 3, retweet 0
+
+> @0xd0m7 @Hacker0x01 past year vs all time. It means ABSOLUTELY nothing apparently. https://t.co/5ei3qNpAr6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVCcXJJbwAAka48.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HVCca17aQAAs9HR.png — no alt text provided by author
+
+
+---
+
+## 2026-10-20 · Reply · @0xd0m7 I am literally being told to be careful on a program I just had a SSRF 24 hours ago and it w
+
+
+Tags (automatic): SSRF, Platform: HackerOne
+
+
+### Post — @NahamSec — 2026-10-20 01:47 UTC (2026-10-20 02:47 WAT)
+
+- URL: https://x.com/NahamSec/status/2112360106553925991
+- Metrics (at fetch): bookmark 0, impression 1550, like 10, quote 0, reply 3, retweet 0
+
+> @0xd0m7 I am literally being told to be careful on a program I just had a SSRF 24 hours ago and it was  triaged as 9.7. I'm not submitting any of my lower severity bugs to them  because of this exact issue. All because I took a year off of hacking on @Hacker0x01 🤷🏽‍♂️ https://t.co/80bvwDIDrX
+
+**Media:**
+- media `3_2112359852240678912` (details not returned by the API)
 
 
 ---
@@ -1890,7 +1929,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-09-03 · Post · Here are a few reasons why you suck at bug bounty hunting.. and what to do about it 🤷🏽‍♂️  https://y
+## 2025-09-03 · Thread · Here are a few reasons why you suck at bug bounty hunting.. and what to do about it 🤷🏽‍♂️  https://y
 
 
 ### Post — @NahamSec — 2025-09-03 12:45 UTC (2025-09-03 13:45 WAT)
@@ -1904,6 +1943,14 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/Gz5VJptboAA9h2W.jpg — no alt text provided by author
 
 **Links in post:** https://youtu.be/NH4VCau_5xI
+
+
+### Thread part 2 — @NahamSec — 2025-09-03 16:59 UTC (2025-09-03 17:59 WAT)
+
+- URL: https://x.com/NahamSec/status/1963285712817852485
+- Metrics (at fetch): bookmark 4, impression 3292, like 11, quote 0, reply 2, retweet 0
+
+> Starting to miss @plmaltais
 
 
 ---
@@ -2727,7 +2774,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-02-17 · Post · Give Me 13 Minutes and 2025 Will Be Your Best Bug Bounty Year
+## 2025-02-17 · Thread · Give Me 13 Minutes and 2025 Will Be Your Best Bug Bounty Year
 
 
 ### Post — @NahamSec — 2025-02-17 13:55 UTC (2025-02-17 14:55 WAT)
@@ -2743,6 +2790,14 @@ Tags (automatic): Platform: HackerOne
 - photo: https://pbs.twimg.com/media/Gj9mG5cbMAAdQAZ.jpg — no alt text provided by author
 
 **Links in post:** https://youtu.be/PER6Nvr6ij8
+
+
+### Thread part 2 — @NahamSec — 2025-02-17 17:43 UTC (2025-02-17 18:43 WAT)
+
+- URL: https://x.com/NahamSec/status/1891544106603512048
+- Metrics (at fetch): bookmark 3, impression 3221, like 15, quote 0, reply 0, retweet 0
+
+> This is by far one of my favorite videos I have ever created!
 
 
 ---
@@ -2780,7 +2835,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-02-11 · Post · This is fun. Asked for a POC for an XXE and got this: [pic.x.com/ZWyZM2xxX0]
+## 2025-02-11 · Thread · This is fun. Asked for a POC for an XXE and got this: [pic.x.com/ZWyZM2xxX0]
 
 
 ### Post — @NahamSec — 2025-02-11 23:06 UTC (2025-02-12 00:06 WAT)
@@ -2792,6 +2847,28 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GjitevvasAAS8wT.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2025-02-11 23:06 UTC (2025-02-12 00:06 WAT)
+
+- URL: https://x.com/NahamSec/status/1889450971585216562
+- Metrics (at fetch): bookmark 0, impression 4236, like 19, quote 0, reply 1, retweet 0
+
+> [pic.x.com/wl3JOory3Q]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gjito9oaMAAkdjt.jpg — no alt text provided by author
+
+
+### Thread part 3 — @NahamSec — 2025-02-11 23:06 UTC (2025-02-12 00:06 WAT)
+
+- URL: https://x.com/NahamSec/status/1889451009984098534
+- Metrics (at fetch): bookmark 0, impression 4141, like 11, quote 0, reply 2, retweet 0
+
+> [pic.x.com/1qacu2ymri]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---
@@ -3054,7 +3131,7 @@ Tags (automatic): XSS, SSRF
 
 ---
 
-## 2025-01-24 · Post · Just filed an RCE on a Google core asset 😏 let’s see if this will go as good my report with Facebook
+## 2025-01-24 · Thread · Just filed an RCE on a Google core asset 😏 let’s see if this will go as good my report with Facebook
 
 
 Tags (automatic): RCE
@@ -3066,6 +3143,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 31, impression 30050, like 582, quote 1, reply 31, retweet 12
 
 > Just filed an RCE on a Google core asset 😏 let’s see if this will go as good my report with Facebook.
+
+
+### Thread part 2 — @NahamSec — 2025-01-24 18:08 UTC (2025-01-24 19:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1882853076312490125
+- Metrics (at fetch): bookmark 0, impression 4860, like 69, quote 0, reply 3, retweet 0
+
+> Got a "Nice catch" - LFGGGGG
 
 
 ---
@@ -3342,7 +3427,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-12-22 · Post · Reported a RCE on a platform 50 days ago. 38 days later it gets finally looked at triaged and the ba
+## 2024-12-22 · Thread · Reported a RCE on a platform 50 days ago. 38 days later it gets finally looked at triaged and the ba
 
 
 Tags (automatic): RCE
@@ -3355,6 +3440,14 @@ Tags (automatic): RCE
 
 > Reported a RCE on a platform 50 days ago. 38 days later it gets finally looked at triaged and the backend was updated during those 30+
 > days and my report was closed as informative.  What should be the outcome here?
+
+
+### Thread part 2 — @NahamSec — 2024-12-22 06:21 UTC (2024-12-22 07:21 WAT)
+
+- URL: https://x.com/NahamSec/status/1870716344003657827
+- Metrics (at fetch): bookmark 0, impression 6550, like 8, quote 0, reply 0, retweet 0
+
+> Looked at by triage team*
 
 
 ---
@@ -3600,7 +3693,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2024-11-07 · Post · Took the week off to enjoy a little staycation and not have any daily routines or calls. Just doing 
+## 2024-11-07 · Thread · Took the week off to enjoy a little staycation and not have any daily routines or calls. Just doing 
 
 
 ### Post — @NahamSec — 2024-11-07 17:57 UTC (2024-11-07 18:57 WAT)
@@ -3609,6 +3702,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 0, impression 6422, like 84, quote 0, reply 2, retweet 2
 
 > Took the week off to enjoy a little staycation and not have any daily routines or calls. Just doing things that bring me joy. It’s been nice bouncing in between Warzone and bug bounties.
+
+
+### Thread part 2 — @NahamSec — 2024-11-07 18:03 UTC (2024-11-07 19:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1854585465778872808
+- Metrics (at fetch): bookmark 0, impression 2988, like 13, quote 0, reply 1, retweet 0
+
+> So far I have gotten 3 warzone Ws and reported 6 RCEs (one dupe). Gotta get those numbers up though.
 
 
 ---
@@ -4668,7 +4769,7 @@ Tags (automatic): SQL injection
 
 ---
 
-## 2024-05-24 · Post · Live now at NahamCon2024 with @brumens2 talking about his methodology to bypass WAFs! https://t.co/
+## 2024-05-24 · Thread · Live now at NahamCon2024 with @brumens2 talking about his methodology to bypass WAFs! http://Youtub
 
 
 ### Post — @NahamSec — 2024-05-24 19:11 UTC (2024-05-24 20:11 WAT)
@@ -4676,10 +4777,20 @@ Tags (automatic): SQL injection
 - URL: https://x.com/NahamSec/status/1794083707995000913
 - Metrics (at fetch): bookmark 18, impression 13834, like 72, quote 1, reply 4, retweet 6
 
-> Live now at #NahamCon2024 with @brumens2 talking about his methodology to bypass WAFs! https://t.co/9SJHtI5tKn https://t.co/tGnog3lyQR
+> Live now at #NahamCon2024 with @brumens2 talking about his methodology to bypass WAFs! http://Youtube.com/NahamSec [pic.x.com/tGnog3lyQR]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GOXdeRAacAIO3yP.jpg — no alt text provided by author
+
+**Links in post:** http://Youtube.com/NahamSec
+
+
+### Thread part 2 — @NahamSec — 2024-05-24 19:13 UTC (2024-05-24 20:13 WAT)
+
+- URL: https://x.com/NahamSec/status/1794084437891699140
+- Metrics (at fetch): bookmark 1, impression 2623, like 17, quote 0, reply 2, retweet 1
+
+> @Brumens2 Very very impressed with Alex's presentation skills and his approach/explanation to bypassing WAFs!
 
 
 ---

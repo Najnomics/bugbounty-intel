@@ -21,7 +21,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/samwcyo/status/2120395487237075210
 - Metrics (at fetch): bookmark 8, impression 3301, like 46, quote 0, reply 7, retweet 0
 
-> I've got a feeling that a lot of security consultants who are being told not to use LLMs on pentests are, in fact, using LLMs on pentests https://t.co/U2QB7kTrIr
+> I've got a feeling that a lot of security consultants who are being told not to use LLMs on pentests are, in fact, using LLMs on pentests https://twitter.com/HackingLZ/status/2120275402744627391
+
+**Links in post:** https://twitter.com/HackingLZ/status/2120275402744627391
 
 **Quoted post** 2120275402744627391: not readable via the API (deleted, private, or withheld).
 

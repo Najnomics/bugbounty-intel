@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 247
+- Posts in this file: 250
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -1364,7 +1364,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2025-04-24 · Post · MCP Vulnerability: AI systems can be manipulated to silently leak your entire conversation history t
+## 2025-04-24 · Thread · MCP Vulnerability: AI systems can be manipulated to silently leak your entire conversation history t
 
 
 Tags (automatic): AI-assisted hunting
@@ -1381,9 +1381,17 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/GpT7UuAWgAEdeRe.jpg — no alt text provided by author
 
 
+### Thread part 2 — @trailofbits — 2025-04-24 15:52 UTC (2025-04-24 16:52 WAT)
+
+- URL: https://x.com/trailofbits/status/1915433668220510236
+- Metrics (at fetch): bookmark 8, impression 2014, like 21, quote 0, reply 1, retweet 5
+
+> Why is this attack better than noisy shell exploits? It's stealthy, can persist long-term, and attackers can customize triggers for high-value targets—looking for account numbers at banks, AWS keys at tech firms, or classified government codes. https://t.co/9EdNHRaEP7
+
+
 ---
 
-## 2025-04-18 · Post · Coming to PyCA Cryptography—a new Rust-powered ASN.1 API that reduces parser differentials while giv
+## 2025-04-18 · Thread · Coming to PyCA Cryptography—a new Rust-powered ASN.1 API that reduces parser differentials while giv
 
 
 ### Post — @trailofbits — 2025-04-18 13:20 UTC (2025-04-18 14:20 WAT)
@@ -1395,6 +1403,15 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Go0gVhOXQAAxEg7.jpg — no alt text provided by author
+
+
+### Thread part 2 — @trailofbits — 2025-04-18 13:20 UTC (2025-04-18 14:20 WAT)
+
+- URL: https://x.com/trailofbits/status/1913221124969902389
+- Metrics (at fetch): bookmark 1, impression 1105, like 6, quote 0, reply 0, retweet 1
+
+> Why does Python need this? Most devs aren't working with ASN.1 daily, but many need custom encoding beyond standard X.509. Think extracting DER-encoded values from X.509 certs like sigstore custom extensions
+> https://t.co/44WHvzhMD9
 
 
 ---
@@ -1940,7 +1957,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-05-16 · Post · Our contributions to the LLVM project have improved AddressSanitizer's (ASan) bug detection capabili
+## 2024-05-16 · Thread · Our contributions to the LLVM project have improved AddressSanitizer's (ASan) bug detection capabili
 
 
 ### Post — @trailofbits — 2024-05-16 13:05 UTC (2024-05-16 14:05 WAT)
@@ -1948,10 +1965,22 @@ Tags (automatic): ZK
 - URL: https://x.com/trailofbits/status/1791092495067070588
 - Metrics (at fetch): bookmark 13, impression 9197, like 44, quote 4, reply 1, retweet 10
 
-> Our contributions to the LLVM project have improved AddressSanitizer's (ASan) bug detection capabilities. Bootstrap ASan to better protect codebases against memory issues.  https://t.co/7w0STB87m8 https://t.co/pmJFu2mxv6
+> Our contributions to the LLVM project have improved AddressSanitizer's (ASan) bug detection capabilities. Bootstrap ASan to better protect codebases against memory issues.  https://buff.ly/44Gm3BP [pic.x.com/pmJFu2mxv6]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GNs9IcwWMAA0C1u.jpg — no alt text provided by author
+
+**Links in post:** https://buff.ly/44Gm3BP
+
+
+### Thread part 2 — @trailofbits — 2024-05-16 13:05 UTC (2024-05-16 14:05 WAT)
+
+- URL: https://x.com/trailofbits/status/1791092496757375328
+- Metrics (at fetch): bookmark 0, impression 1185, like 1, quote 0, reply 0, retweet 0
+
+> If you need help with ASan annotations, fuzzing, or anything related to LLVM, contact us! We are happy to help tailor sanitizers or other LLVM tools to your specific needs. http://www.trailofbits.com/contact
+
+**Links in post:** http://www.trailofbits.com/contact
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 152
+- Posts in this file: 157
 - Conversations/threads: 148
 - Oldest post captured: 2018-07-19
 - Newest post captured: 2026-11-10
@@ -1350,7 +1350,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-08-28 · Post · so crazy! 🤣🤣🤣I just found a v8 bug by llm inspired by this https://t.co/J23m9hfZBX https://t.co/PLpG
+## 2025-08-28 · Thread · so crazy! 🤣🤣🤣I just found a v8 bug by llm inspired by this https://t.co/J23m9hfZBX https://t.co/PLpG
 
 
 Tags (automatic): AI-assisted hunting
@@ -1385,6 +1385,27 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post** 1957923231848972433: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @ma1fan — 2025-08-28 12:33 UTC (2025-08-28 13:33 WAT)
+
+- URL: https://x.com/ma1fan/status/1961044378882908621
+- Metrics (at fetch): bookmark 0, impression 1281, like 7, quote 0, reply 1, retweet 0
+
+> I submited the bug, wating for the confirm!
+
+
+### Thread part 3 — @ma1fan — 2025-08-29 05:43 UTC (2025-08-29 06:43 WAT)
+
+- URL: https://x.com/ma1fan/status/1961303630138503407
+- Metrics (at fetch): bookmark 1, impression 1174, like 10, quote 0, reply 3, retweet 0
+
+> good news:  the bug confirmed
+> bad news:  the bug duplicated
+> 😂😂😂 https://t.co/L4nANY47cW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GzfzHHnbYAAshu4.jpg — no alt text provided by author
 
 
 ---
@@ -1769,7 +1790,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: HackerOne
 
 ---
 
-## 2025-03-04 · Post · I have update our audit report repo readme.
+## 2025-03-04 · Thread · I have update our audit report repo readme.
 
 
 ### Post — @ma1fan — 2025-03-04 09:02 UTC (2025-03-04 10:02 WAT)
@@ -1780,6 +1801,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: HackerOne
 > I have update our audit report repo readme.
 > add our bug bounty Portfolio. now you can track our bug boubty reward. 😃
 > https://t.co/ltpngQmhcH
+
+
+### Thread part 2 — @ma1fan — 2025-03-04 09:03 UTC (2025-03-04 10:03 WAT)
+
+- URL: https://x.com/ma1fan/status/1896849021274386868
+- Metrics (at fetch): bookmark 1, impression 438, like 0, quote 0, reply 0, retweet 0
+
+> and also some bug bounty writeup! https://t.co/Nt7dRdJu3s
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlL2D5jaMAAf5vi.jpg — no alt text provided by author
 
 
 ---
@@ -1972,6 +2004,43 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
+## 2024-12-03 · Thread · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=critica
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
+
+- URL: https://x.com/ma1fan/status/1863779168850481451
+- Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
+
+**Links in post:** https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
+
+
+### Thread part 2 — @ma1fan — 2024-12-03 06:16 UTC (2024-12-03 07:16 WAT)
+
+- URL: https://x.com/ma1fan/status/1863829734020497882
+- Metrics (at fetch): bookmark 0, impression 348, like 2, quote 0, reply 0, retweet 0
+
+> @0xriptide @immunefi yes, another one!
+
+
+### Thread part 3 — @ma1fan — 2024-12-04 05:12 UTC (2024-12-04 06:12 WAT)
+
+- URL: https://x.com/ma1fan/status/1864175916877836551
+- Metrics (at fetch): bookmark 0, impression 646, like 9, quote 0, reply 0, retweet 0
+
+> more is coming!🫡 [pic.x.com/FUUN64t7tp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gd7iBV-awAAhZfI.png — no alt text provided by author
+
+
+---
+
 ## 2024-12-03 · Post · hello @immunefi ,here,here 😆,this is the new critical bug
 
 
@@ -2027,7 +2096,9 @@ Tags (automatic): Memory corruption / native
     - URL: https://x.com/ma1fan/status/1863779168850481451
     - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
     
-    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
+    
+    **Links in post:** https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
     
 
 
@@ -2054,7 +2125,9 @@ Tags (automatic): Memory corruption / native
     - URL: https://x.com/ma1fan/status/1863779168850481451
     - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
     
-    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
+    
+    **Links in post:** https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
     
 
 
@@ -2081,7 +2154,9 @@ Tags (automatic): Memory corruption / native
     - URL: https://x.com/ma1fan/status/1863779168850481451
     - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
     
-    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
+    
+    **Links in post:** https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
     
 
 
@@ -2110,7 +2185,9 @@ Tags (automatic): Memory corruption / native
     - URL: https://x.com/ma1fan/status/1863779168850481451
     - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
     
-    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
+    
+    **Links in post:** https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
     
 
 
@@ -2139,24 +2216,10 @@ Tags (automatic): Memory corruption / native
     - URL: https://x.com/ma1fan/status/1863779168850481451
     - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
     
-    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
     
-
-
----
-
-## 2024-12-03 · Post · I just found a confirmed bug on @immunefi immunefitribe https://t.co/cHVPYscCmv
-
-
-Tags (automatic): Platform: Immunefi
-
-
-### Post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
-
-- URL: https://x.com/ma1fan/status/1863779168850481451
-- Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
-
-> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    **Links in post:** https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=3
+    
 
 
 ---

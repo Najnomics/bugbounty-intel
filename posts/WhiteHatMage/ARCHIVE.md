@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 142
-- Conversations/threads: 120
+- Posts in this file: 148
+- Conversations/threads: 121
 - Oldest post captured: 2025-12-02
 - Newest post captured: 2026-11-10
 
@@ -338,7 +338,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-10-21 · Post · We're down to 50-60% of the web3 bounty programs that existed a year ago.
+## 2026-10-21 · Thread · We're down to 50-60% of the web3 bounty programs that existed a year ago.
 
 
 ### Post — @WhiteHatMage — 2026-10-21 18:28 UTC (2026-10-21 19:28 WAT)
@@ -347,6 +347,14 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 9, impression 4264, like 110, quote 1, reply 9, retweet 4
 
 > We're down to 50-60% of the web3 bounty programs that existed a year ago.
+
+
+### Thread part 2 — @WhiteHatMage — 2026-10-21 19:30 UTC (2026-10-21 20:30 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2112989815360847985
+- Metrics (at fetch): bookmark 2, impression 434, like 6, quote 0, reply 0, retweet 0
+
+> @saxenism Oh yeah. I forgot to mention that many of the remaining projects also slashed their rewards 💀
 
 
 ---
@@ -2179,7 +2187,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-15 · Post · It keeps amazing me how every AI tool is getting millions in bounties, and when I check the last 90-
+## 2026-01-15 · Thread · It keeps amazing me how every AI tool is getting millions in bounties, and when I check the last 90-
 
 
 Tags (automatic): AI-assisted hunting
@@ -2194,6 +2202,34 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G-uHBS2bQAQ06aP.jpg — no alt text provided by author
+
+
+### Thread part 2 — @WhiteHatMage — 2026-01-15 17:43 UTC (2026-01-15 18:43 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2011856849549856870
+- Metrics (at fetch): bookmark 0, impression 1225, like 12, quote 0, reply 1, retweet 0
+
+> To be fair the Blockian guys posted that they've been using AI lol
+
+
+### Thread part 3 — @WhiteHatMage — 2026-01-15 17:44 UTC (2026-01-15 18:44 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2011857095436464450
+- Metrics (at fetch): bookmark 0, impression 1231, like 11, quote 0, reply 1, retweet 0
+
+> We should buy their tool. Sad they don't sell it
+
+
+### Thread part 4 — @WhiteHatMage — 2026-01-16 16:41 UTC (2026-01-16 17:41 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2012203633165713475
+- Metrics (at fetch): bookmark 0, impression 534, like 2, quote 0, reply 0, retweet 0
+
+> ib4 the future leaderboards will be different for sure.
+>
+> I still expect some silly quote about how bad this aged, because it could be good for marketing.
+>
+> But this is the current state of the leaderboard, after months of reading the same stories from multiple people.
 
 
 ---
@@ -2315,7 +2351,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-12-19 · Post · Would you recommend web3 security as a career path in 2026 for a friend?
+## 2025-12-19 · Thread · Would you recommend web3 security as a career path in 2026 for a friend?
 
 
 ### Post — @WhiteHatMage — 2025-12-19 12:38 UTC (2025-12-19 13:38 WAT)
@@ -2324,6 +2360,27 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 2, impression 4215, like 34, quote 1, reply 16, retweet 0
 
 > Would you recommend web3 security as a career path in 2026 for a friend?
+
+
+### Thread part 2 — @WhiteHatMage — 2025-12-19 12:41 UTC (2025-12-19 13:41 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2001996361080729746
+- Metrics (at fetch): bookmark 0, impression 975, like 5, quote 0, reply 0, retweet 0
+
+> Just a vibe check
+
+
+---
+
+## 2025-12-16 · Post · @0xpessimist At least I didn't write the report like last time. I'm getting better lol. I feel you b
+
+
+### Post — @WhiteHatMage — 2025-12-16 18:46 UTC (2025-12-16 19:46 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2001000954607632557
+- Metrics (at fetch): bookmark 0, impression 400, like 7, quote 0, reply 2, retweet 0
+
+> @0xpessimist At least I didn't write the report like last time. I'm getting better lol. I feel you bro.
 
 
 ---

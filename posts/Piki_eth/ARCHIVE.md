@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 91
+- Posts in this file: 92
 - Conversations/threads: 66
 - Oldest post captured: 2024-09-21
 - Newest post captured: 2026-11-09
@@ -1841,10 +1841,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-09-21 · Post · 🚀Ora node setup @OraProtocol 
+## 2024-09-21 · Thread · 🚀Ora node setup @OraProtocol 
 
 
-Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 
 ### Post — @Piki_eth — 2024-09-21 08:58 UTC (2024-09-21 09:58 WAT)
@@ -1856,6 +1856,30 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 >
 > Ora Protocol: Powering Smart Contracts with Decentralized AI Oracles! 🧠💻
 >
-> 🌟 Funding: Raised $20M from top investors like Polychain &amp; Hashkey.
+> 🌟 Funding: Raised $20M from top investors like Polychain & Hashkey.
 > 🤝 Partnerships: Collaborating with giants like Optimism, Arbitrum, and Base.
-> 🎯 Ready to set up your
+> 🎯 Ready to set up your Tora Node? Follow these simple steps:
+>
+> 🔧 Hardware Requirements:
+>
+> RAM: 8 GB minimum
+>
+> CPU: 1 Core
+> Disk: 20-40 GB SSD
+>
+> 🧵👇 follow the guide below
+
+
+### Thread part 2 — @Piki_eth — 2024-09-21 09:19 UTC (2024-09-21 10:19 WAT)
+
+- URL: https://x.com/Piki_eth/status/1837421371082817938
+- Metrics (at fetch): bookmark 0, impression 51, like 1, quote 0, reply 1, retweet 0
+
+> 📦 Step-by-step guide available at https://github.com/zaki9501/Ora-node/tree/main
+>
+> 🚨You can Stake ETH & Earn Points! Use my referral code PQJWM6 for extra points! 
+> Check your points on the dashboard: Ora Protocol Dashboard.  https://www.ora.io/app/tasks/dashboard
+>
+> #OraProtocol #Blockchain #DecentralizedAI #SmartContracts #ToraNode #Crypto #Web3 #DeFi #Polychain #Hashkey #Ethereum #Sepolia #Mainnet #Docker #NodeSetup #TechInnovation #CryptoCommunity
+
+**Links in post:** https://github.com/zaki9501/Ora-node/tree/main, https://www.ora.io/app/tasks/dashboard

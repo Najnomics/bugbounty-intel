@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 41
-- Conversations/threads: 24
+- Posts in this file: 48
+- Conversations/threads: 23
 - Oldest post captured: 2022-06-24
 - Newest post captured: 2025-06-17
 
@@ -351,7 +351,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-03-17 · Post · Want to learn about STARKs? The STARK by Hand tutorial by @Paul_Gafni and @RiscZero is an amazing re
+## 2025-03-17 · Thread · Want to learn about STARKs? The STARK by Hand tutorial by @Paul_Gafni and @RiscZero is an amazing re
 
 
 Tags (automatic): ZK
@@ -366,6 +366,16 @@ Tags (automatic): ZK
 > https://github.com/teddav/stark_by_hand/blob/main/stark_by_hand.sage
 
 **Links in post:** https://github.com/teddav/stark_by_hand/blob/main/stark_by_hand.sage
+
+
+### Thread part 2 — @0xteddav — 2025-03-17 09:47 UTC (2025-03-17 10:47 WAT)
+
+- URL: https://x.com/0xteddav/status/1901571158211772757
+- Metrics (at fetch): bookmark 4, impression 594, like 6, quote 1, reply 0, retweet 0
+
+> It's is a must-read if you want to understand STARKs from first principles:
+> 🔗 https://t.co/FvxCohsYBn
+> Try it out and let me know what you think! 🚀 #ZeroKnowledge #STARKs
 
 
 ---
@@ -435,7 +445,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-02-13 · Post · You’ve heard about Binius by @IrreducibleHW but all this talk about “small fields”, “field extension
+## 2025-02-13 · Thread · You’ve heard about Binius by @IrreducibleHW but all this talk about “small fields”, “field extension
 
 
 Tags (automatic): ZK
@@ -447,6 +457,84 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 21, impression 7582, like 58, quote 5, reply 1, retweet 19
 
 > You’ve heard about Binius by @IrreducibleHW but all this talk about “small fields”, “field extensions” and “binary fields” makes no sense? Let me break it down and explain how these concepts accelerate zk-SNARKs 🚀
+
+
+### Thread part 2 — @0xteddav — 2025-02-13 16:23 UTC (2025-02-13 17:23 WAT)
+
+- URL: https://x.com/0xteddav/status/1890074255397986420
+- Metrics (at fetch): bookmark 0, impression 408, like 6, quote 0, reply 1, retweet 0
+
+> In cryptography, we often work with finite fields like 𝔽ₚ (integers mod p). In zero-knowledge proofs (ZK), we noticed that we can generate proofs faster if p is ~small: “small fields”. If we push this idea to the extreme, we end up in binary fields 𝔽₂ - just 0s and 1s 🔥
+
+
+### Thread part 3 — @0xteddav — 2025-02-13 16:23 UTC (2025-02-13 17:23 WAT)
+
+- URL: https://x.com/0xteddav/status/1890074257675416034
+- Metrics (at fetch): bookmark 0, impression 421, like 5, quote 0, reply 1, retweet 0
+
+> Since 𝔽₂ is tiny, we extend it into larger structured fields: “field extensions”. Choosing the right extensions keeps arithmetic fast, making zk proofs way more efficient. BINIUS is built on precisely designed field extensions to speed up SNARKs. ⚡
+
+
+### Thread part 4 — @0xteddav — 2025-02-13 16:23 UTC (2025-02-13 17:23 WAT)
+
+- URL: https://x.com/0xteddav/status/1890074259785212014
+- Metrics (at fetch): bookmark 13, impression 7343, like 22, quote 1, reply 1, retweet 0
+
+> Even if math isn’t your thing, I wrote this so that even a ZK newbie can follow along. Check out the article to get a better intuition! You’ll thank me later. 😏
+> https://blog.electisec.tech/binius-1-extension-fields
+
+**Links in post:** https://blog.electisec.tech/binius-1-extension-fields
+
+
+### Thread part 5 — @0xteddav — 2025-02-13 16:29 UTC (2025-02-13 17:29 WAT)
+
+- URL: https://x.com/0xteddav/status/1890075815184093617
+- Metrics (at fetch): bookmark 2, impression 700, like 6, quote 0, reply 1, retweet 0
+
+> If @hhh69251498 or @VitalikButerin's math left you confused, this article will make everything click! Give it a read, and you'll be speaking ZK fluently in no time! 🧠
+> https://x.com/hhh69251498/status/1784887300230443503
+
+**Links in post:** https://x.com/hhh69251498/status/1784887300230443503
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1475870679421820931 — 2024-04-29 10:07 UTC (2024-04-29 11:07 WAT)
+    
+    - URL: https://x.com/1475870679421820931/status/1784887300230443503
+    - Metrics (at fetch): bookmark 74, impression 421972, like 147, quote 9, reply 17, retweet 23
+    
+    > explain new math from binius [pic.x.com/Nmp6B254OW] https://twitter.com/VitalikButerin/status/1784608223040790655
+    
+    **Media:**
+    - media `3_1784887183419027456` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/VitalikButerin/status/1784608223040790655
+    
+    **Quoted post** 1784608223040790655: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 6 — @0xteddav — 2025-02-13 16:35 UTC (2025-02-13 17:35 WAT)
+
+- URL: https://x.com/0xteddav/status/1890077282922070022
+- Metrics (at fetch): bookmark 6, impression 1385, like 5, quote 1, reply 1, retweet 1
+
+> 🚀 TL;DR: Small fields + smart extensions = faster ZK proofs.
+> If you're into cryptography, SNARKs, or just wanna understand what all the hype is about, check out this thread! 👇🔥
+> And the article: https://blog.electisec.tech/binius-1-extension-fields
+> https://x.com/0xteddav/status/1890074253451743280
+
+**Links in post:** https://blog.electisec.tech/binius-1-extension-fields, https://x.com/0xteddav/status/1890074253451743280
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xteddav — 2025-02-13 16:23 UTC (2025-02-13 17:23 WAT)
+    
+    - URL: https://x.com/0xteddav/status/1890074253451743280
+    - Metrics (at fetch): bookmark 21, impression 7582, like 58, quote 5, reply 1, retweet 19
+    
+    > You’ve heard about Binius by @IrreducibleHW but all this talk about “small fields”, “field extensions” and “binary fields” makes no sense? Let me break it down and explain how these concepts accelerate zk-SNARKs 🚀
+    
 
 
 ---
@@ -497,21 +585,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-06-10 · Post · Ideas for improvement: @zemse_ made a great halo2-utils repo (go check it out!). I’m thinking of ste
-
-
-### Post — @0xteddav — 2024-06-10 13:37 UTC (2024-06-10 14:37 WAT)
-
-- URL: https://x.com/0xteddav/status/1800160466981036306
-- Metrics (at fetch): bookmark 2, impression 440, like 8, quote 0, reply 2, retweet 1
-
-> Ideas for improvement: @zemse_ made a great halo2-utils repo (go check it out!). I’m thinking of stealing some of his ideas (if he’s ok with that) to make halo2-starter better 😊
-> https://t.co/oewyo69wPS
-
-
----
-
-## 2024-06-10 · Post · You want to build a new ZK app? I made a simple Halo2 (@zcash @PrivacyScaling) template to get you s
+## 2024-06-10 · Thread · You want to build a new ZK app? I made a simple Halo2 (@zcash @PrivacyScaling) template to get you s
 
 
 Tags (automatic): ZK
@@ -523,7 +597,29 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 34, impression 3196, like 51, quote 0, reply 3, retweet 6
 
 > You want to build a new ZK app? I made a simple Halo2 (@zcash @PrivacyScaling) template to get you started. Just clone the repo, and follow the readme!
-> https://t.co/mBeVZxYmvp
+> https://github.com/teddav/halo2-starter
+
+**Links in post:** https://github.com/teddav/halo2-starter
+
+
+### Thread part 2 — @0xteddav — 2024-06-10 13:37 UTC (2024-06-10 14:37 WAT)
+
+- URL: https://x.com/0xteddav/status/1800160464883880393
+- Metrics (at fetch): bookmark 0, impression 192, like 6, quote 0, reply 1, retweet 0
+
+> I’d love to get feedback so I can improve it, so lmk what you think!
+> Thanks @nullity00 and @yAcademyDAO for the help!
+
+
+### Thread part 3 — @0xteddav — 2024-06-10 13:37 UTC (2024-06-10 14:37 WAT)
+
+- URL: https://x.com/0xteddav/status/1800160466981036306
+- Metrics (at fetch): bookmark 2, impression 440, like 8, quote 0, reply 2, retweet 1
+
+> Ideas for improvement: @zemse_ made a great halo2-utils repo (go check it out!). I’m thinking of stealing some of his ideas (if he’s ok with that) to make halo2-starter better 😊
+> https://github.com/zemse/halo2-utils
+
+**Links in post:** https://github.com/zemse/halo2-utils
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 412
+- Posts in this file: 416
 - Conversations/threads: 321
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
@@ -1425,7 +1425,7 @@ Tags (automatic): IDOR / BOLA, RCE
 
 ---
 
-## 2025-05-26 · Post · I love bug bounty data like this. So insightful, especially from rising star in the community like @
+## 2025-05-26 · Thread · I love bug bounty data like this. So insightful, especially from rising star in the community like @
 
 
 Tags (automatic): Platform: HackerOne
@@ -1441,6 +1441,17 @@ Tags (automatic): Platform: HackerOne
 > https://evanconnelly.com/post/my-first-100-hackerone-reports/
 
 **Links in post:** https://evanconnelly.com/post/my-first-100-hackerone-reports/
+
+
+### Thread part 2 — @Rhynorater — 2025-05-26 14:12 UTC (2025-05-26 15:12 WAT)
+
+- URL: https://x.com/Rhynorater/status/1927005047059108195
+- Metrics (at fetch): bookmark 2, impression 2065, like 23, quote 0, reply 1, retweet 0
+
+> @evanconnelly 🥹🥹🥹 [pic.x.com/hI3qOXIq7l]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gr4Y4D-XAAAQuyo.png — no alt text provided by author
 
 
 ---
@@ -1528,7 +1539,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-02-27 · Post · Just a periodic PSA: we're running an application-only full-time hunters' guild over here in the Cri
+## 2025-02-27 · Thread · Just a periodic PSA: we're running an application-only full-time hunters' guild over here in the Cri
 
 
 ### Post — @Rhynorater — 2025-02-27 22:00 UTC (2025-02-27 23:00 WAT)
@@ -1541,9 +1552,25 @@ Tags (automatic): Platform: HackerOne
 > If you're a full-time hunter or a part-time hunter earning a full-time salary, then please apply if you're looking for a community to help you grow!
 
 
+### Thread part 2 — @Rhynorater — 2025-02-27 22:00 UTC (2025-02-27 23:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/1895232604389175313
+- Metrics (at fetch): bookmark 3, impression 1485, like 10, quote 0, reply 0, retweet 0
+
+> https://t.co/fsN4pnd884
+
+
+### Thread part 3 — @Rhynorater — 2025-02-28 01:19 UTC (2025-02-28 02:19 WAT)
+
+- URL: https://x.com/Rhynorater/status/1895282558147141968
+- Metrics (at fetch): bookmark 0, impression 453, like 3, quote 0, reply 0, retweet 0
+
+> @xssdoctor You got this!
+
+
 ---
 
-## 2025-02-23 · Post · I swear there was someone who made a font ligature-based CSS Injection exfil tool, but I can't find 
+## 2025-02-23 · Thread · I swear there was someone who made a font ligature-based CSS Injection exfil tool, but I can't find 
 
 
 ### Post — @Rhynorater — 2025-02-23 21:46 UTC (2025-02-23 22:46 WAT)
@@ -1552,6 +1579,31 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 28, impression 4995, like 55, quote 0, reply 1, retweet 0
 
 > I swear there was someone who made a font ligature-based CSS Injection exfil tool, but I can't find it anywhere. Anyone bookmark it?
+
+
+### Thread part 2 — @Rhynorater — 2025-02-23 21:48 UTC (2025-02-23 22:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1893779884515680436
+- Metrics (at fetch): bookmark 8, impression 2718, like 17, quote 0, reply 0, retweet 0
+
+> JK found it, ignore me.
+>
+> https://t.co/Yi6V0fJNH4
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Rhynorater — 2024-07-27 00:38 UTC (2024-07-27 01:38 WAT)
+    
+    - URL: https://x.com/Rhynorater/status/1816996526566363173
+    - Metrics (at fetch): bookmark 119, impression 10609, like 171, quote 1, reply 2, retweet 22
+    
+    > Last week I was kinda tripping on the pod over this CSS Injection technique using font ligatures to leak innerText of HTML tags.
+    >
+    > @sys0wn94918 hit me up with some more refined code - you can embed the selectors in the URL and just do an @ import to leak:
+    > https://github.com/sys0wn/css-scrollbar-attack
+    
+    **Links in post:** https://github.com/sys0wn/css-scrollbar-attack
+    
 
 
 ---

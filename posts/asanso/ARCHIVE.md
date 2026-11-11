@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 181
+- Posts in this file: 185
 - Conversations/threads: 173
 - Oldest post captured: 2011-01-30
 - Newest post captured: 2026-11-06
@@ -595,7 +595,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-11-25 · Post · Tiny Proxember snack: a 12-symbol RS code over 𝔽₁₃ with (n,k)=(12,5) and δ=1/2 already has ~50 codew
+## 2025-11-25 · Thread · Tiny Proxember snack: a 12-symbol RS code over 𝔽₁₃ with (n,k)=(12,5) and δ=1/2 already has ~50 codew
 
 
 ### Post — @asanso — 2025-11-25 13:36 UTC (2025-11-25 14:36 WAT)
@@ -607,6 +607,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G6mrUZ_WAAE06VO.png — no alt text provided by author
+
+
+### Thread part 2 — @asanso — 2025-11-25 13:36 UTC (2025-11-25 14:36 WAT)
+
+- URL: https://x.com/asanso/status/1993312936300102061
+- Metrics (at fetch): bookmark 1, impression 287, like 6, quote 0, reply 0, retweet 1
+
+> https://ethresear.ch/t/when-lists-go-super-saiyan-a-numerical-example-above-the-elias-bound/23533
+
+**Links in post:** https://ethresear.ch/t/when-lists-go-super-saiyan-a-numerical-example-above-the-elias-bound/23533
 
 
 ---
@@ -629,7 +639,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-10-28 · Post · Just in case, I will deliver a lightning talks about this attack at EPFL Swiss Crypto day on Friday.
+## 2025-10-28 · Thread · Just in case, I will deliver a lightning talks about this attack at EPFL Swiss Crypto day on Friday.
 
 
 ### Post — @asanso — 2025-10-28 14:48 UTC (2025-10-28 15:48 WAT)
@@ -647,9 +657,17 @@ Tags (automatic): ZK
 **Quoted post** 1979122458943758661: not readable via the API (deleted, private, or withheld).
 
 
+### Thread part 2 — @asanso — 2025-10-28 14:48 UTC (2025-10-28 15:48 WAT)
+
+- URL: https://x.com/asanso/status/1983184213626270196
+- Metrics (at fetch): bookmark 0, impression 209, like 3, quote 0, reply 0, retweet 0
+
+> https://t.co/QHGxQFNVn1
+
+
 ---
 
-## 2025-05-22 · Post · Happy to share joint work with Giuseppe Vitto we presented a few weeks ago in Madrid (soon on ePrint
+## 2025-05-22 · Thread · Happy to share joint work with Giuseppe Vitto we presented a few weeks ago in Madrid (soon on ePrint
 
 
 ### Post — @asanso — 2025-05-22 10:25 UTC (2025-05-22 11:25 WAT)
@@ -657,10 +675,32 @@ Tags (automatic): ZK
 - URL: https://x.com/asanso/status/1925498244710146472
 - Metrics (at fetch): bookmark 34, impression 14038, like 99, quote 6, reply 8, retweet 18
 
-> Happy to share joint work with Giuseppe Vitto we presented a few weeks ago in Madrid (soon on ePrint)! We leverage the Graeffe transform to attack Poseidon over NTT-friendly fields — and managed to break reduced-round instances 👀. Links 👇 https://t.co/lHPXPywGad
+> Happy to share joint work with Giuseppe Vitto we presented a few weeks ago in Madrid (soon on ePrint)! We leverage the Graeffe transform to attack Poseidon over NTT-friendly fields — and managed to break reduced-round instances 👀. Links 👇 [pic.x.com/lHPXPywGad]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gri-VzEWwAA-JdI.png — no alt text provided by author
+
+
+### Thread part 2 — @asanso — 2025-05-22 10:26 UTC (2025-05-22 11:26 WAT)
+
+- URL: https://x.com/asanso/status/1925498544779034766
+- Metrics (at fetch): bookmark 2, impression 839, like 5, quote 0, reply 1, retweet 0
+
+> Paper: https://www.intothesymmetry.com/graeffe.pdf
+> Slides 1: https://drive.google.com/file/d/1pFS2G8xkIlRFUQdLK5-GQso1CEkqHbv4/view
+> Slides 2: https://drive.google.com/file/d/1HoPXjQ2lSywBUXq50N3JYdNfyUiTLpHQ/view
+
+**Links in post:** https://www.intothesymmetry.com/graeffe.pdf, https://drive.google.com/file/d/1pFS2G8xkIlRFUQdLK5-GQso1CEkqHbv4/view, https://drive.google.com/file/d/1HoPXjQ2lSywBUXq50N3JYdNfyUiTLpHQ/view
+
+
+### Thread part 3 — @asanso — 2025-05-27 08:48 UTC (2025-05-27 09:48 WAT)
+
+- URL: https://x.com/asanso/status/1927285835356831957
+- Metrics (at fetch): bookmark 0, impression 270, like 2, quote 0, reply 0, retweet 0
+
+> and the eprint https://eprint.iacr.org/2025/937.pdf
+
+**Links in post:** https://eprint.iacr.org/2025/937.pdf
 
 
 ---

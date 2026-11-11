@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 238
-- Conversations/threads: 198
+- Posts in this file: 239
+- Conversations/threads: 197
 - Oldest post captured: 2016-07-31
 - Newest post captured: 2026-11-10
 
@@ -654,20 +654,7 @@ Tags (automatic): Path normalization, AI-assisted hunting
 
 ---
 
-## 2025-01-07 · Post · @J4X_Security it will get stuck at the PoC requirements though 😁
-
-
-### Post — @cmichelio — 2025-01-07 15:26 UTC (2025-01-07 16:26 WAT)
-
-- URL: https://x.com/cmichelio/status/1876651678549864888
-- Metrics (at fetch): bookmark 0, impression 381, like 4, quote 0, reply 1, retweet 0
-
-> @J4X_Security it will get stuck at the PoC requirements though 😁
-
-
----
-
-## 2025-01-07 · Post · will we see AI agents participating in security contests in 2025?
+## 2025-01-07 · Thread · will we see AI agents participating in security contests in 2025?
 
 
 Tags (automatic): AI-assisted hunting
@@ -679,6 +666,22 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 5, impression 15639, like 37, quote 3, reply 19, retweet 3
 
 > will we see AI agents participating in security contests in 2025?
+
+
+### Thread part 2 — @cmichelio — 2025-01-07 15:24 UTC (2025-01-07 16:24 WAT)
+
+- URL: https://x.com/cmichelio/status/1876651167973081095
+- Metrics (at fetch): bookmark 3, impression 949, like 8, quote 0, reply 3, retweet 0
+
+> @J4X_Security I'm 50/50, if o3 is really already solving FrontierMath problems, why can't it also find real bugs. Most of the bugs are logic bugs anyway, so I think there's enough general programming / bug training data?
+
+
+### Thread part 3 — @cmichelio — 2025-01-07 15:26 UTC (2025-01-07 16:26 WAT)
+
+- URL: https://x.com/cmichelio/status/1876651678549864888
+- Metrics (at fetch): bookmark 0, impression 381, like 4, quote 0, reply 1, retweet 0
+
+> @J4X_Security it will get stuck at the PoC requirements though 😁
 
 
 ---

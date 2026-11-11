@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 101
-- Conversations/threads: 97
+- Posts in this file: 105
+- Conversations/threads: 99
 - Oldest post captured: 2022-10-11
 - Newest post captured: 2026-10-31
 
@@ -682,7 +682,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2024-12-19 · Post · Under 200 ✅ @Bugcrowd https://t.co/1PKTS0TGW0
+## 2024-12-19 · Thread · Under 200 ✅ @Bugcrowd [pic.x.com/1PKTS0TGW0]
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -693,10 +693,21 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1869748988351848494
 - Metrics (at fetch): bookmark 1, impression 3984, like 94, quote 1, reply 11, retweet 0
 
-> Under 200 ✅ @Bugcrowd https://t.co/1PKTS0TGW0
+> Under 200 ✅ @Bugcrowd [pic.x.com/1PKTS0TGW0]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GfKujcwaMAA0xLd.png — no alt text provided by author
+
+
+### Thread part 2 — @RootxRavi — 2024-12-20 09:47 UTC (2024-12-20 10:47 WAT)
+
+- URL: https://x.com/RootxRavi/status/1870043306685804855
+- Metrics (at fetch): bookmark 0, impression 499, like 3, quote 0, reply 1, retweet 0
+
+> @krishnsec @Bugcrowd main top 10 main tha phir break liye comeback nahi hua 
+> 🤣
+>
+> main tera bhai phir se comeback karega
 
 
 ---
@@ -736,7 +747,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2024-11-06 · Post · I earned $10,000 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+## 2024-11-06 · Thread · I earned $10,000 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -747,7 +758,20 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1853997240198509047
 - Metrics (at fetch): bookmark 25, impression 13448, like 222, quote 0, reply 39, retweet 3
 
-> I earned $10,000 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+> I earned $10,000 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+### Thread part 2 — @RootxRavi — 2024-11-06 05:15 UTC (2024-11-06 06:15 WAT)
+
+- URL: https://x.com/RootxRavi/status/1854029767537803382
+- Metrics (at fetch): bookmark 0, impression 823, like 1, quote 0, reply 0, retweet 0
+
+> @krishnsec @Bugcrowd [pic.x.com/PKwZXcbRnZ]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---
@@ -1850,6 +1874,58 @@ Tags (automatic): Platform: Bugcrowd
 > 7- More bike trips with friends 🏍️
 >
 > #BugBounty
+
+
+---
+
+## 2022-12-29 · Reply · @krishnsec Home for family 🏡
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @krishnsec — 2022-12-29 14:58 UTC (2022-12-29 15:58 WAT)
+
+- URL: https://x.com/krishnsec/status/1608477498345656320
+- Metrics (at fetch): bookmark 2, impression 17006, like 39, quote 0, reply 13, retweet 2
+
+> what is the trending # for 2023 bounty goals ?
+
+
+### Post — @RootxRavi — 2022-12-29 16:26 UTC (2022-12-29 17:26 WAT)
+
+- URL: https://x.com/RootxRavi/status/1608499793172787202
+- Metrics (at fetch): bookmark 0, impression 631, like 3, quote 0, reply 1, retweet 0
+
+> @krishnsec Home for family 🏡
+
+
+---
+
+## 2022-12-15 · Reply · @krishnsec @Bugcrowd congratulations 😎
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @krishnsec — 2022-12-15 20:31 UTC (2022-12-15 21:31 WAT)
+
+- URL: https://x.com/krishnsec/status/1603487895200755712
+- Metrics (at fetch): bookmark 2, impression 10759, like 104, quote 0, reply 6, retweet 3
+
+> MVP again ❤️‍🔥 @Bugcrowd [pic.x.com/jGZS3laD8J]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkC7vMdagAAGIWi.jpg — no alt text provided by author
+
+
+### Post — @RootxRavi — 2022-12-15 20:43 UTC (2022-12-15 21:43 WAT)
+
+- URL: https://x.com/RootxRavi/status/1603491002366713857
+- Metrics (at fetch): bookmark 0, impression 397, like 1, quote 0, reply 1, retweet 0
+
+> @krishnsec @Bugcrowd congratulations 😎
 
 
 ---

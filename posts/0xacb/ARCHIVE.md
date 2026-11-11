@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 206
+- Posts in this file: 207
 - Conversations/threads: 180
 - Oldest post captured: 2014-01-05
 - Newest post captured: 2026-11-05
@@ -2104,7 +2104,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-14 · Post · A critical Supabase JWT bug by @BourAbdelhadi
+## 2026-01-14 · Thread · A critical Supabase JWT bug by @BourAbdelhadi
 
 
 ### Post — @0xacb — 2026-01-14 10:34 UTC (2026-01-14 11:34 WAT)
@@ -2120,6 +2120,15 @@ Tags (automatic): AI-assisted hunting
 > https://github.com/repplus/rep/
 
 **Links in post:** https://github.com/repplus/rep/
+
+
+### Thread part 2 — @0xacb — 2026-01-14 10:34 UTC (2026-01-14 11:34 WAT)
+
+- URL: https://x.com/0xacb/status/2011386407776883061
+- Metrics (at fetch): bookmark 35, impression 2557, like 35, quote 0, reply 0, retweet 14
+
+> @BourAbdelhadi Write-up
+> https://t.co/H5UBjMDp2S
 
 
 ---

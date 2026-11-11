@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 652
-- Conversations/threads: 476
+- Posts in this file: 653
+- Conversations/threads: 477
 - Oldest post captured: 2024-10-01
 - Newest post captured: 2026-11-10
 
@@ -1182,6 +1182,32 @@ Tags (automatic): TEE / enclave
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HVP1iLdasAAIP8k.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-21 · Reply · @WhiteHatMage My favourite BBP on Immunefi slashed their High severity payouts by more than 1/3rd
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — post being replied to:**
+
+#### Parent post — @WhiteHatMage — 2026-10-21 18:28 UTC (2026-10-21 19:28 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2112974240396034384
+- Metrics (at fetch): bookmark 9, impression 4264, like 110, quote 1, reply 9, retweet 4
+
+> We're down to 50-60% of the web3 bounty programs that existed a year ago.
+
+
+### Post — @saxenism — 2026-10-21 19:22 UTC (2026-10-21 20:22 WAT)
+
+- URL: https://x.com/saxenism/status/2112987894428434908
+- Metrics (at fetch): bookmark 1, impression 472, like 3, quote 0, reply 1, retweet 0
+
+> @WhiteHatMage My favourite BBP on Immunefi slashed their High severity payouts by more than 1/3rd
 
 
 ---

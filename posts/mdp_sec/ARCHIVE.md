@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 589
-- Conversations/threads: 454
+- Posts in this file: 590
+- Conversations/threads: 455
 - Oldest post captured: 2026-07-22
 - Newest post captured: 2026-11-11
 
@@ -307,7 +307,9 @@ Tags (automatic): Memory corruption / native, Platform: HackerOne, Platform: Bug
 - URL: https://x.com/samwcyo/status/2120395487237075210
 - Metrics (at fetch): bookmark 8, impression 3301, like 46, quote 0, reply 7, retweet 0
 
-> I've got a feeling that a lot of security consultants who are being told not to use LLMs on pentests are, in fact, using LLMs on pentests https://t.co/U2QB7kTrIr
+> I've got a feeling that a lot of security consultants who are being told not to use LLMs on pentests are, in fact, using LLMs on pentests https://twitter.com/HackingLZ/status/2120275402744627391
+
+**Links in post:** https://twitter.com/HackingLZ/status/2120275402744627391
 
 **Quoted post** 2120275402744627391: not readable via the API (deleted, private, or withheld).
 
@@ -6647,6 +6649,35 @@ Tags (automatic): Platform: Bugcrowd
 > Duplicate of what mate? The one you fixed?
 >
 > Enjoy the $$$
+
+
+---
+
+## 2026-10-05 · Reply · @krishnsec @Bugcrowd smashing it again legend, keep going boss
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @krishnsec — 2026-10-05 05:46 UTC (2026-10-05 06:46 WAT)
+
+- URL: https://x.com/krishnsec/status/2106984299560124675
+- Metrics (at fetch): bookmark 9, impression 10812, like 229, quote 2, reply 15, retweet 2
+
+> September wrapped up with another #1 on the @Bugcrowd leaderboard &gt;&gt; [pic.x.com/XiO1x2rdJu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HT2CVv0a4AAt5Hk.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-10-05 05:47 UTC (2026-10-05 06:47 WAT)
+
+- URL: https://x.com/mdp_sec/status/2106984726519291927
+- Metrics (at fetch): bookmark 0, impression 506, like 5, quote 0, reply 1, retweet 0
+
+> @krishnsec @Bugcrowd smashing it again legend, keep going boss
 
 
 ---

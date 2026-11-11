@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 582
-- Conversations/threads: 516
+- Posts in this file: 584
+- Conversations/threads: 517
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
 
@@ -1268,6 +1268,19 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-01-30 · Reply · @Kaveh_Perski یکی از سرورهای من اولش کار میکرد ولی بعدا آی پی ها از ایران دیگه بهش نمیومدند و یعنی ب
+
+
+### Post — @irsdl — 2026-01-30 00:14 UTC (2026-01-30 01:14 WAT)
+
+- URL: https://x.com/irsdl/status/2017028493385630179
+- Metrics (at fetch): bookmark 0, impression 47, like 1, quote 0, reply 1, retweet 0
+
+> @Kaveh_Perski یکی از سرورهای من اولش کار میکرد ولی بعدا آی پی ها از ایران دیگه بهش نمیومدند و یعنی بلاک شده بود. اگر سرورها تازه ساخته شدند، بهشون یه ده ساعتی وقت بده به نظرم.
+
+
+---
+
 ## 2026-01-26 · Post · It is very very easy to get a cheap VPS and run Conduit so people can bypass the censorship:
 
 
@@ -1985,8 +1998,12 @@ Tags (automatic): Auth bypass, RCE
         - URL: https://x.com/irsdl/status/1946850548046524533
         - Metrics (at fetch): bookmark 37, impression 18579, like 96, quote 2, reply 2, retweet 16
         
-        > Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://t.co/rPvyELJWWP means that there must be a new deserialisation gadget now?
-        > According to MS a file is being created and according to @watchtowrcyber machinekey is https://t.co/Ntehat9V4Y
+        > Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/ means that there must be a new deserialisation gadget now?
+        > According to MS a file is being created and according to @watchtowrcyber machinekey is being read for further exploitation which will be similar to some gadgets we had seen in the past (dataset again?)
+        > Here is also another informative link:
+        > https://research.eye.security/sharepoint-under-siege/
+        
+        **Links in post:** https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/, https://twitter.com/irsdl/status/1946166765316161634, https://research.eye.security/sharepoint-under-siege/
         
         **Quoted post (full text):**
         
@@ -2088,8 +2105,12 @@ Tags (automatic): Auth bypass
     - URL: https://x.com/irsdl/status/1946850548046524533
     - Metrics (at fetch): bookmark 37, impression 18579, like 96, quote 2, reply 2, retweet 16
     
-    > Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://t.co/rPvyELJWWP means that there must be a new deserialisation gadget now?
-    > According to MS a file is being created and according to @watchtowrcyber machinekey is https://t.co/Ntehat9V4Y
+    > Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/ means that there must be a new deserialisation gadget now?
+    > According to MS a file is being created and according to @watchtowrcyber machinekey is being read for further exploitation which will be similar to some gadgets we had seen in the past (dataset again?)
+    > Here is also another informative link:
+    > https://research.eye.security/sharepoint-under-siege/
+    
+    **Links in post:** https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/, https://twitter.com/irsdl/status/1946166765316161634, https://research.eye.security/sharepoint-under-siege/
     
     **Quoted post (full text):**
     
@@ -2144,7 +2165,7 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2025-07-20 · Post · Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the chec
+## 2025-07-20 · Thread · Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the chec
 
 
 ### Post — @irsdl — 2025-07-20 08:31 UTC (2025-07-20 09:31 WAT)
@@ -2152,8 +2173,12 @@ Tags (automatic): Auth bypass
 - URL: https://x.com/irsdl/status/1946850548046524533
 - Metrics (at fetch): bookmark 37, impression 18579, like 96, quote 2, reply 2, retweet 16
 
-> Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://t.co/rPvyELJWWP means that there must be a new deserialisation gadget now?
-> According to MS a file is being created and according to @watchtowrcyber machinekey is https://t.co/Ntehat9V4Y
+> Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/ means that there must be a new deserialisation gadget now?
+> According to MS a file is being created and according to @watchtowrcyber machinekey is being read for further exploitation which will be similar to some gadgets we had seen in the past (dataset again?)
+> Here is also another informative link:
+> https://research.eye.security/sharepoint-under-siege/
+
+**Links in post:** https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/, https://twitter.com/irsdl/status/1946166765316161634, https://research.eye.security/sharepoint-under-siege/
 
 **Quoted post (full text):**
 
@@ -2203,6 +2228,15 @@ Tags (automatic): Auth bypass
         - photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
         
     
+
+
+### Thread part 2 — @irsdl — 2025-07-20 08:36 UTC (2025-07-20 09:36 WAT)
+
+- URL: https://x.com/irsdl/status/1946851799308103784
+- Metrics (at fetch): bookmark 1, impression 2620, like 11, quote 1, reply 0, retweet 2
+
+> #sharepoint under attack...
+> The workarounds to enable AV solutions won't resolve the issue. If there is a deserialisation, @msftsecresponse should tell us what to add the web.config to exclude it at least temporarily. Will that hint others on what the exploit is? Yes but more people probably now have the exploit using their honeypots anyway.
 
 
 ---

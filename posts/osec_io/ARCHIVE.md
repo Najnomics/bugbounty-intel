@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 128
+- Posts in this file: 129
 - Conversations/threads: 89
 - Oldest post captured: 2022-03-23
 - Newest post captured: 2026-11-05
@@ -874,7 +874,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-05-16 · Post · Coming to @consensus2024?  We're hosting a poolside mansion brunch and tea party for the girls with 
+## 2024-05-16 · Thread · Coming to @consensus2024?  We're hosting a poolside mansion brunch and tea party for the girls with 
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -892,7 +892,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > 📅 Wednesday, May 29th
 > ⏰ 12pm to 4pm
 > 📍 ATX
-> https://t.co/GtNx77SMtL
+> https://lu.ma/poolsideaustin
+
+**Links in post:** https://lu.ma/poolsideaustin
+
+
+### Thread part 2 — @osec_io — 2024-05-16 14:28 UTC (2024-05-16 15:28 WAT)
+
+- URL: https://x.com/osec_io/status/1791113457351143935
+- Metrics (at fetch): bookmark 0, impression 814, like 1, quote 0, reply 0, retweet 0
+
+> DM us here or @bonecondor if you want to come!
 
 
 ---

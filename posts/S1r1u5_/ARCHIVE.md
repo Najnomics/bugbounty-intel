@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 463
+- Posts in this file: 466
 - Conversations/threads: 371
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
@@ -5912,7 +5912,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 
 ---
 
-## 2026-01-08 · Post · the security industry is a full-on circus man, it so backward. no one actually knows if their tools 
+## 2026-01-08 · Thread · the security industry is a full-on circus man, it so backward. no one actually knows if their tools 
 
 
 ### Post — @S1r1u5_ — 2026-01-08 13:00 UTC (2026-01-08 14:00 WAT)
@@ -5921,6 +5921,14 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 - Metrics (at fetch): bookmark 12, impression 3888, like 59, quote 0, reply 3, retweet 1
 
 > the security industry is a full-on circus man, it so backward. no one actually knows if their tools work, so people buy based on vibes, sales pitches, or friends in the industry. and start crying about get buried in false positives from tools that don’t work, burned out by
+
+
+### Thread part 2 — @S1r1u5_ — 2026-01-08 17:08 UTC (2026-01-08 18:08 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2009311135976313272
+- Metrics (at fetch): bookmark 2, impression 1038, like 10, quote 0, reply 0, retweet 0
+
+> none of this won't happen.i think in general it’s a flawed market. there are basically no incentives to keep something secure. if you spend time and money on secure defaults, tools that are not outcome based and nothing bad happens later, there’s no result you can point to. the
 
 
 ---
@@ -6070,10 +6078,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-12-04 · Post · Either I am dumb or missing something.
+## 2025-12-04 · Thread · Either I am dumb or missing something.
 
 
-Tags (automatic): RCE
+Tags (automatic): RCE, AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2025-12-04 04:07 UTC (2025-12-04 05:07 WAT)
@@ -6085,7 +6093,30 @@ Tags (automatic): RCE
 >
 > This PoC for React RCE is unrealistic. 
 >
-> https://t.co/fSqwLG5htL
+> https://github.com/ejpir/CVE-2025-55182-poc
+
+**Links in post:** https://github.com/ejpir/CVE-2025-55182-poc
+
+
+### Thread part 2 — @S1r1u5_ — 2025-12-04 04:17 UTC (2025-12-04 05:17 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1996433739673407929
+- Metrics (at fetch): bookmark 2, impression 3403, like 19, quote 0, reply 0, retweet 1
+
+> this is a  case of author + LLM reward hacking each other into hallucinations.
+>
+> they manually adds this to the manifest:
+>
+> 'fs': { id: 'fs', name: 'readFileSync' }
+> 'vm': { id: 'vm', name: 'runInThisContext' }
+> 'child_process': { id: 'child_process', name: 'execSync' }
+>
+> This is equivalent to writing:
+>
+> 'use server';
+> export const exec = child_process.execSync;
+>
+> With or without the fix, this is RCE. That's not a bug, that's stupid code.
 
 
 ---
@@ -7303,7 +7334,7 @@ Tags (automatic): XSS, SQL injection, AI-assisted hunting
 
 ---
 
-## 2025-04-08 · Post · whats with bugcrowd password reset mails?
+## 2025-04-08 · Thread · whats with bugcrowd password reset mails?
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -7315,6 +7346,16 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 2064, like 10, quote 0, reply 6, retweet 0
 
 > whats with bugcrowd password reset mails?
+
+
+### Thread part 2 — @S1r1u5_ — 2025-04-08 09:05 UTC (2025-04-08 10:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1909533104986894383
+- Metrics (at fetch): bookmark 0, impression 761, like 4, quote 0, reply 0, retweet 0
+
+> https://www.bugcrowd.com/blog/bugcrowd-security-update-password-reset-and-mfa-requirement/
+
+**Links in post:** https://www.bugcrowd.com/blog/bugcrowd-security-update-password-reset-and-mfa-requirement/
 
 
 ---

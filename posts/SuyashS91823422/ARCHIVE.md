@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 120
+- Posts in this file: 121
 - Conversations/threads: 104
 - Oldest post captured: 2021-10-06
 - Newest post captured: 2026-11-11
@@ -1025,6 +1025,30 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2025-02-22 · Thread · 2 add templates/processed/config.ini to your wordlist you can end up getting a CRITICAL😎 bugbounty
+
+
+### Post — @SuyashS91823422 — 2025-02-22 17:54 UTC (2025-02-22 18:54 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1893358667124109492
+- Metrics (at fetch): bookmark 156, impression 13734, like 203, quote 1, reply 4, retweet 34
+
+> #2 add templates/processed/config.ini to your wordlist you can end up getting a CRITICAL😎 #bugbountytips #bugbounty [pic.x.com/OqNZIqpGV5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkaPjOYWkAAL6js.png — no alt text provided by author
+
+
+### Thread part 2 — @SuyashS91823422 — 2025-03-19 05:27 UTC (2025-03-19 06:27 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1902230318591176871
+- Metrics (at fetch): bookmark 0, impression 693, like 1, quote 0, reply 0, retweet 0
+
+> @grok can you make nuclei templates for this
+
+
+---
+
 ## 2025-03-10 · Post · When you hack small  company for fun and time pass, but they turn around and say "nice work" here's 
 
 
@@ -1039,22 +1063,6 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GlqvP7ObEAAruti.jpg — no alt text provided by author
-
-
----
-
-## 2025-02-22 · Post · 2 add templates/processed/config.ini to your wordlist you can end up getting a CRITICAL😎 bugbounty
-
-
-### Post — @SuyashS91823422 — 2025-02-22 17:54 UTC (2025-02-22 18:54 WAT)
-
-- URL: https://x.com/SuyashS91823422/status/1893358667124109492
-- Metrics (at fetch): bookmark 156, impression 13734, like 203, quote 1, reply 4, retweet 34
-
-> #2 add templates/processed/config.ini to your wordlist you can end up getting a CRITICAL😎 #bugbountytips #bugbounty [pic.x.com/OqNZIqpGV5]
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GkaPjOYWkAAL6js.png — no alt text provided by author
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 238
+- Posts in this file: 250
 - Conversations/threads: 206
 - Oldest post captured: 2022-06-18
 - Newest post captured: 2026-09-03
@@ -341,7 +341,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-12-25 · Post · I repeat: hot wallets are a security bug
+## 2025-12-25 · Thread · I repeat: hot wallets are a security bug
 
 
 ### Post — @pcaversaccio — 2025-12-25 21:43 UTC (2025-12-25 22:43 WAT)
@@ -350,6 +350,24 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 7, impression 21933, like 189, quote 9, reply 16, retweet 17
 
 > I repeat: hot wallets are a security bug
+
+
+### Thread part 2 — @pcaversaccio — 2025-12-25 21:44 UTC (2025-12-25 22:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2004307281551544734
+- Metrics (at fetch): bookmark 2, impression 5366, like 18, quote 0, reply 1, retweet 2
+
+> https://t.co/AhBgQlsOBB
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2025-08-27 11:16 UTC (2025-08-27 12:16 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1960662737693946337
+    - Metrics (at fetch): bookmark 43, impression 48496, like 269, quote 12, reply 44, retweet 32
+    
+    > hot wallets are a (security) bug; cold hardware wallets are a (security) feature. It might be a controversial take (or maybe not lol) but the reality is most people simply can't securely manage a hot wallet. Computers are constantly being infostealer-compromised, people save pks
+    
 
 
 ---
@@ -713,7 +731,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-12-08 · Post · An update on this retarded take: yesterday skiddies (again) decided to fake Coinbase support and dra
+## 2024-12-08 · Thread · An update on this retarded take: yesterday skiddies (again) decided to fake Coinbase support and dra
 
 
 ### Post — @pcaversaccio — 2024-12-08 11:36 UTC (2024-12-08 12:36 WAT)
@@ -737,6 +755,46 @@ Tags (automatic): ZK
     > PSA: Don't use a VPN to access Coinbase. 
     >
     > Attackers always use VPN's, so our risk models take that as a negative sign even if you're legitimately using your own account.
+    
+
+
+### Thread part 2 — @pcaversaccio — 2024-12-08 11:36 UTC (2024-12-08 12:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1865722087182053629
+- Metrics (at fetch): bookmark 0, impression 1846, like 1, quote 0, reply 1, retweet 0
+
+> https://t.co/AssIifmAYA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @19748227 — 2024-12-08 03:14 UTC (2024-12-08 04:14 WAT)
+    
+    - URL: https://x.com/19748227/status/1865595774073221205
+    - Metrics (at fetch): bookmark 21, impression 32243, like 303, quote 1, reply 12, retweet 22
+    
+    > so coinbase blocked like 100 OG’s accounts this week and told y’all not to use a vpn and then failed to stop the same fucking skiddies from doing the same thing they do every single saturday night lollllllllllllll
+    
+
+
+### Thread part 3 — @pcaversaccio — 2024-12-08 11:36 UTC (2024-12-08 12:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1865722089501557049
+- Metrics (at fetch): bookmark 0, impression 1771, like 0, quote 0, reply 0, retweet 0
+
+> https://t.co/hu2tEm52Om
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1270109352582623234 — 2024-12-08 04:04 UTC (2024-12-08 05:04 WAT)
+    
+    - URL: https://x.com/1270109352582623234/status/1865608414040031253
+    - Metrics (at fetch): bookmark 0, impression 3111, like 3, quote 1, reply 1, retweet 0
+    
+    > @tayvano_ when they called me, I acted like I was clueless &amp; said, “never heard of cronbase”. then hung up.
+    >
+    > odd thing was, I then logged in &amp; saw 2 support tickets had just been opened for my account.
+    >
+    > so they must have posed as me, opened support ticket, then made the call to my phone.
     
 
 
@@ -3319,6 +3377,59 @@ Tags (automatic): ZK
 
 ---
 
+## 2023-01-20 · Thread · Sure, sex is cool but what if you could have account abstraction implemented where each wallet can d
+
+
+### Post — @pcaversaccio — 2023-01-20 12:27 UTC (2023-01-20 13:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616411988606722048
+- Metrics (at fetch): bookmark 1, impression 4840, like 39, quote 2, reply 4, retweet 1
+
+> Sure, sex is cool but what if you could have account abstraction implemented where each wallet can define its supported signature types (BLS I'm coooming - yes it is meant ambiguously🙃).
+
+
+### Thread part 2 — @pcaversaccio — 2023-01-20 13:02 UTC (2023-01-20 14:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616420877054124033
+- Metrics (at fetch): bookmark 0, impression 86, like 0, quote 0, reply 1, retweet 0
+
+> @real_philogy [pic.x.com/OtwSILJXjR]
+
+**Media:**
+- media `3_1616420871203078146` (details not returned by the API)
+
+
+### Thread part 3 — @pcaversaccio — 2023-01-20 13:03 UTC (2023-01-20 14:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616421248191401985
+- Metrics (at fetch): bookmark 0, impression 121, like 1, quote 0, reply 1, retweet 0
+
+> @real_philogy However, it seems the aggregation like that is insecure by itself due to a rogue public-key attack possibility.
+
+
+### Thread part 4 — @pcaversaccio — 2023-01-21 10:30 UTC (2023-01-21 11:30 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616744978100674561
+- Metrics (at fetch): bookmark 0, impression 71, like 1, quote 1, reply 2, retweet 0
+
+> @0xhagen @real_philogy @_patrickogrady Thx will check. A couple of resources I recommend reading since I got nerd-sniped yesterday
+> - https://crypto.stanford.edu/~dabo/pubs/papers/BLSmultisig.html
+> - https://eth2book.info/bellatrix/part2/building_blocks/signatures/
+> - https://eth2book.info/bellatrix/part3/containers/dependencies/#depositmessage
+
+**Links in post:** https://crypto.stanford.edu/~dabo/pubs/papers/BLSmultisig.html, https://eth2book.info/bellatrix/part2/building_blocks/signatures/, https://eth2book.info/bellatrix/part3/containers/dependencies/#depositmessage
+
+
+### Thread part 5 — @pcaversaccio — 2023-01-21 10:30 UTC (2023-01-21 11:30 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616745165816795137
+- Metrics (at fetch): bookmark 0, impression 31, like 1, quote 0, reply 0, retweet 0
+
+> @0xhagen @real_philogy @_patrickogrady 2 of them are directly related to Ethereum so you get a better understanding how BLS signatures are actually used with Ethereum.
+
+
+---
+
 ## 2023-01-20 · Post · so @real_philogy nerd-sniped me into BLS signature aggregation - it's amazing how to get there so fa
 
 
@@ -3341,19 +3452,6 @@ Tags (automatic): ZK
     
     > Sure, sex is cool but what if you could have account abstraction implemented where each wallet can define its supported signature types (BLS I'm coooming - yes it is meant ambiguously🙃).
     
-
-
----
-
-## 2023-01-20 · Post · Sure, sex is cool but what if you could have account abstraction implemented where each wallet can d
-
-
-### Post — @pcaversaccio — 2023-01-20 12:27 UTC (2023-01-20 13:27 WAT)
-
-- URL: https://x.com/pcaversaccio/status/1616411988606722048
-- Metrics (at fetch): bookmark 1, impression 4840, like 39, quote 2, reply 4, retweet 1
-
-> Sure, sex is cool but what if you could have account abstraction implemented where each wallet can define its supported signature types (BLS I'm coooming - yes it is meant ambiguously🙃).
 
 
 ---
@@ -3392,7 +3490,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2023-01-02 · Post · Important distinction: ZK-SNARKs can hold private state that someone knows. ZK-SNARKs cannot hold pr
+## 2023-01-02 · Thread · Important distinction: ZK-SNARKs can hold private state that someone knows. ZK-SNARKs cannot hold pr
 
 
 Tags (automatic): ZK
@@ -3404,6 +3502,26 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 6, impression 9794, like 79, quote 0, reply 6, retweet 1
 
 > Important distinction: ZK-SNARKs can hold private state that someone knows. ZK-SNARKs cannot hold private state that nobody knows.
+
+
+### Thread part 2 — @pcaversaccio — 2023-01-02 17:09 UTC (2023-01-02 18:09 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1609959993549414401
+- Metrics (at fetch): bookmark 14, impression 502, like 11, quote 0, reply 1, retweet 0
+
+> @0xCygaar Start from here https://vitalik.ca/general/2021/01/26/snarks.html
+
+**Links in post:** https://vitalik.ca/general/2021/01/26/snarks.html
+
+
+### Thread part 3 — @pcaversaccio — 2023-01-02 17:10 UTC (2023-01-02 18:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1609960405006270464
+- Metrics (at fetch): bookmark 3, impression 285, like 2, quote 0, reply 0, retweet 0
+
+> @0xCygaar Thereafter follow the resources in there (there are further good but rather technical blogs by Vitalik): https://vitalik.ca/categories/cryptography.html
+
+**Links in post:** https://vitalik.ca/categories/cryptography.html
 
 
 ---
@@ -3453,7 +3571,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2022-12-13 · Post · so let me share an interesting scenario (not sure whether I should call it an attack):
+## 2022-12-13 · Thread · so let me share an interesting scenario (not sure whether I should call it an attack):
 
 
 ### Post — @pcaversaccio — 2022-12-13 15:35 UTC (2022-12-13 16:35 WAT)
@@ -3464,10 +3582,38 @@ Tags (automatic): Smart contract / DeFi
 > so let me share an interesting scenario (not sure whether I should call it an attack):
 > - deploy a new implementation contract including a `selfdestruct` possibility;
 > - upgrade the implementation and call in the same transaction `selfdestruct`;
-> -&gt; newImplementation == EOA https://t.co/ktgFAhRyma
+> -&gt; newImplementation == EOA [pic.x.com/ktgFAhRyma]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fj3jQlxXwAA3mvY.png — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2022-12-13 15:35 UTC (2022-12-13 16:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602688562037678081
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> so why is this possible?
+> 1. the method `isContract` relies on `extcodesize`.
+> 2. `selfdestruct` will delete the code at the end of the current transaction (that's why you can interact with a selfdestructed contract within the same tx)
+
+
+### Thread part 3 — @pcaversaccio — 2022-12-13 17:36 UTC (2022-12-13 18:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602719192943415332
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> @prapandey031 well, you can have two calls:
+> 1. call the upgrade via proxy
+> 2. directly call the implementation (w/o the usage of a proxy) and selfdestruct it. In that case `this` is the implementation contract
+
+
+### Thread part 4 — @pcaversaccio — 2022-12-13 17:38 UTC (2022-12-13 18:38 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602719595999203328
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @prapandey031 to execute this you could build a simple forwarder contract that does these two calls in one tx for instance.
 
 
 ---

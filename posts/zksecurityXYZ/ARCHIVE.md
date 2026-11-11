@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 171
+- Posts in this file: 172
 - Conversations/threads: 97
 - Oldest post captured: 2023-07-02
 - Newest post captured: 2026-11-05
@@ -2499,7 +2499,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
-## 2025-02-19 · Post · Another great step in our collaboration with Aleo! We found a 0day in November last year and worked 
+## 2025-02-19 · Thread · Another great step in our collaboration with Aleo! We found a 0day in November last year and worked 
 
 
 ### Post — @zksecurityXYZ — 2025-02-19 14:49 UTC (2025-02-19 15:49 WAT)
@@ -2511,6 +2511,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkKH7DUWQAAmS4u.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2025-02-19 14:49 UTC (2025-02-19 15:49 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1892224904818213012
+- Metrics (at fetch): bookmark 2, impression 361, like 4, quote 0, reply 0, retweet 0
+
+> Read the story here https://t.co/7nMDEQXQHB
 
 
 ---

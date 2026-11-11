@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 73
+- Posts in this file: 74
 - Conversations/threads: 63
 - Oldest post captured: 2023-08-19
 - Newest post captured: 2026-03-12
@@ -1034,7 +1034,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2024-10-22 · Post · Main root cause to fix is not 3 signers IMO.
+## 2024-10-22 · Thread · Main root cause to fix is not 3 signers IMO.
 
 
 ### Post — @Guhu95 — 2024-10-22 03:18 UTC (2024-10-22 04:18 WAT)
@@ -1064,6 +1064,20 @@ Tags (automatic): Platform: Immunefi
     **Media:**
     - media `3_1847023472100208640` (details not returned by the API)
     
+
+
+### Thread part 2 — @Guhu95 — 2024-10-22 12:24 UTC (2024-10-22 13:24 WAT)
+
+- URL: https://x.com/Guhu95/status/1848701900948181005
+- Metrics (at fetch): bookmark 0, impression 82, like 0, quote 0, reply 0, retweet 0
+
+> I think step 4 is both hard and unlikely. 
+>
+> If one of the non-compromised signers added a sig to the non-evil nonce, now the evil-nonce is behind. But hijacking an exec can only be done when both nonces are ready to execute. So the attackers (or their now very smart malware) have to sit there, watch the safe, and wait for these conditions.
+>
+> The malware (or the attacker's bot controlling it) needs to not only upload and download sigs (as nonces advance), talk to the RPC (to check nonces), talk to Safe API (to check on non-evil sigs progress). It's a full on bridging protocol at this point.
+>
+> Also, the malware needs to trick the executor to sign an evil 712 - which doesn't show in Safe UI, then have them sign the good 712, and send it to Safe API, and only then wait for them to exec.
 
 
 ---

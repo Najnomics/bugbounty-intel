@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 126
+- Posts in this file: 127
 - Conversations/threads: 122
 - Oldest post captured: 2020-01-17
 - Newest post captured: 2026-11-04
@@ -1471,7 +1471,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-23 · Post · Burp Suite traffic can be fed directly to an LLM for passive analysis using the MCP protocol. In thi
+## 2026-01-23 · Thread · Burp Suite traffic can be fed directly to an LLM for passive analysis using the MCP protocol. In thi
 
 
 Tags (automatic): AI-assisted hunting
@@ -1483,6 +1483,14 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 359, impression 17530, like 361, quote 2, reply 8, retweet 64
 
 > Burp Suite traffic can be fed directly to an LLM for passive analysis using the MCP protocol. In this article by @Six2dez1, the researcher outlines a setup that connects Burp's MCP Server to Codex CLI through a local reverse proxy to bypass header and origin restrictions,
+
+
+### Thread part 2 — @infinitelogins — 2026-01-24 23:39 UTC (2026-01-25 00:39 WAT)
+
+- URL: https://x.com/infinitelogins/status/2015207755590795353
+- Metrics (at fetch): bookmark 0, impression 364, like 1, quote 0, reply 0, retweet 0
+
+> @Six2dez1 By the way, I feature more content like this on my newsletter https://t.co/P2Zjyh57Bs
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 147
+- Posts in this file: 149
 - Conversations/threads: 123
 - Oldest post captured: 2019-09-30
 - Newest post captured: 2026-11-03
@@ -921,7 +921,7 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 
 ---
 
-## 2025-12-05 · Post · Well... Wonder if this is just the React / next.js RCE making it's way around the internet now..
+## 2025-12-05 · Thread · Well... Wonder if this is just the React / next.js RCE making it's way around the internet now..
 
 
 Tags (automatic): RCE
@@ -934,15 +934,23 @@ Tags (automatic): RCE
 
 > Well... Wonder if this is just the React / next.js RCE making it's way around the internet now..
 >
-> Cloudflare is also down💀 https://t.co/smGFwNVEli
+> Cloudflare is also down💀 [pic.x.com/smGFwNVEli]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G7ZNhKgbYAAoMSp.png — no alt text provided by author
 
 
+### Thread part 2 — @farazsth98 — 2025-12-05 09:14 UTC (2025-12-05 10:14 WAT)
+
+- URL: https://x.com/farazsth98/status/1996870910499045534
+- Metrics (at fetch): bookmark 0, impression 876, like 1, quote 0, reply 0, retweet 0
+
+> Everything seems to be back up now, let's hope that was the end of that
+
+
 ---
 
-## 2025-11-28 · Post · Wrote a quick blog post on how certain Linux kernel race windows can be extended using `/dev/shm` an
+## 2025-11-28 · Thread · Wrote a quick blog post on how certain Linux kernel race windows can be extended using `/dev/shm` an
 
 
 Tags (automatic): Race condition, Memory corruption / native
@@ -957,10 +965,20 @@ Tags (automatic): Race condition, Memory corruption / native
 >
 > Obvious disclaimer - I did not discover this technique. I'm only documenting it🙏
 >
-> Link in the reply tweet! https://t.co/dPYcD7PeiU
+> Link in the reply tweet! [pic.x.com/dPYcD7PeiU]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G63GaN2bkAQRXD1.jpg — no alt text provided by author
+
+
+### Thread part 2 — @farazsth98 — 2025-11-28 18:10 UTC (2025-11-28 19:10 WAT)
+
+- URL: https://x.com/farazsth98/status/1994469008549044251
+- Metrics (at fetch): bookmark 16, impression 4720, like 36, quote 0, reply 0, retweet 7
+
+> https://faith2dxy.xyz/2025-11-28/extending_race_window_fallocate/
+
+**Links in post:** https://faith2dxy.xyz/2025-11-28/extending_race_window_fallocate/
 
 
 ---

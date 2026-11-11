@@ -467,7 +467,7 @@ Tags (automatic): AI-assisted hunting, Platform: Bugcrowd
 
 ---
 
-## 2026-10-05 · Post · I earned $10,000 for my submission on @bugcrowd ItTakesACrowd https://t.co/pCYGWBf87O
+## 2026-10-05 · Post · I earned $10,000 for my submission on @bugcrowd ItTakesACrowd [pic.x.com/pCYGWBf87O]
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -478,7 +478,7 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/Assass1nmarcos/status/2107238126318137797
 - Metrics (at fetch): bookmark 73, impression 12282, like 350, quote 1, reply 18, retweet 11
 
-> I earned $10,000 for my submission on @bugcrowd #ItTakesACrowd https://t.co/pCYGWBf87O
+> I earned $10,000 for my submission on @bugcrowd #ItTakesACrowd [pic.x.com/pCYGWBf87O]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HT5p5PlawAAEqO-.jpg — no alt text provided by author
@@ -603,7 +603,7 @@ Tags (automatic): Platform: Bugcrowd
 > I earned $20,000 for my submission on @bugcrowd
 >  #ItTakesACrowd
 >
-> Thanks @ThisIsDK999   @_rajesh_ranjan_ https://t.co/8j8pERwcH8
+> Thanks @ThisIsDK999   @_rajesh_ranjan_ [pic.x.com/8j8pERwcH8]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HS2Jl6_bwAA3Uhi.jpg — no alt text provided by author
@@ -627,7 +627,7 @@ Tags (automatic): Platform: Bugcrowd
 >  #ItTakesACrowd
 >
 > Thanks to @ThisIsDK999
->   &amp; @_rajesh_ranjan_ https://t.co/I874KXV5bL
+>   &amp; @_rajesh_ranjan_ [pic.x.com/I874KXV5bL]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HSv7QYkb0AAEzoq.jpg — no alt text provided by author

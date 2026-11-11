@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 105
-- Conversations/threads: 93
+- Posts in this file: 110
+- Conversations/threads: 91
 - Oldest post captured: 2024-05-10
 - Newest post captured: 2026-11-04
 
@@ -872,7 +872,7 @@ Tags (automatic): Platform: HackenProof
 
 ---
 
-## 2025-03-05 · Post · Wtf 😂😂🤣🤣🤣 going on @Bugcrowd . Report disclosed without resolved 😅😅.
+## 2025-03-05 · Thread · Wtf 😂😂🤣🤣🤣 going on @Bugcrowd . Report disclosed without resolved 😅😅.
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -889,6 +889,28 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GlQThWfXsAA622F.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Suryesh_92 — 2025-03-05 05:59 UTC (2025-03-05 06:59 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1897164930677350643
+- Metrics (at fetch): bookmark 0, impression 1275, like 4, quote 0, reply 2, retweet 0
+
+> 😂😂😂 https://t.co/QpVZ8ZzHPX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlQVcxrXQAECUQj.jpg — no alt text provided by author
+
+
+### Thread part 3 — @Suryesh_92 — 2025-03-05 05:59 UTC (2025-03-05 06:59 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1897165023921013222
+- Metrics (at fetch): bookmark 0, impression 1200, like 4, quote 0, reply 1, retweet 0
+
+> LoL 🤣🤣😅 https://t.co/bO4HxC8Cy1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlQViQPWAAAkeSp.jpg — no alt text provided by author
 
 
 ---
@@ -1146,7 +1168,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-12-07 · Post · who can help me to exploit/bypass this??
+## 2024-12-07 · Thread · who can help me to exploit/bypass this??
 
 
 ### Post — @Suryesh_92 — 2024-12-07 10:59 UTC (2024-12-07 11:59 WAT)
@@ -1162,6 +1184,25 @@ Tags (automatic): Platform: HackerOne
 - photo: https://pbs.twimg.com/media/GeMNYhpXAAAL6CG.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GeMNZy6WcAAao8T.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GeMODHwXUAAEPtX.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Suryesh_92 — 2024-12-07 11:53 UTC (2024-12-07 12:53 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1865363950214283419
+- Metrics (at fetch): bookmark 16, impression 3275, like 11, quote 0, reply 6, retweet 2
+
+> Vulnerable https://t.co/apMr7CFTAY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeMan1yXgAAFlyN.jpg — no alt text provided by author
+
+
+### Thread part 3 — @Suryesh_92 — 2024-12-07 11:54 UTC (2024-12-07 12:54 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1865364140925010086
+- Metrics (at fetch): bookmark 0, impression 3001, like 3, quote 0, reply 1, retweet 0
+
+> @GodfatherOrwa @ynsmroztas
 
 
 ---
@@ -1597,33 +1638,7 @@ Tags (automatic): XSS, Platform: HackerOne
 
 ---
 
-## 2024-09-27 · Post · @Mr_mars_hacker But on other platforms there is no feature or they are not adding in report , agar d
-
-
-### Post — @Suryesh_92 — 2024-09-27 14:31 UTC (2024-09-27 15:31 WAT)
-
-- URL: https://x.com/Suryesh_92/status/1839674287545847838
-- Metrics (at fetch): bookmark 0, impression 122, like 0, quote 0, reply 1, retweet 0
-
-> @Mr_mars_hacker But on other platforms there is no feature or they are not adding in report , agar duplicate jati h to
-
-
----
-
-## 2024-09-27 · Post · @Mr_mars_hacker Fast response, fast remediation,&amp; if duplicate then you can see original report
-
-
-### Post — @Suryesh_92 — 2024-09-27 14:30 UTC (2024-09-27 15:30 WAT)
-
-- URL: https://x.com/Suryesh_92/status/1839674028140704032
-- Metrics (at fetch): bookmark 0, impression 127, like 1, quote 0, reply 2, retweet 0
-
-> @Mr_mars_hacker Fast response, fast remediation,&amp; if duplicate then you can see original report
-
-
----
-
-## 2024-09-27 · Post · Receive 1st private invitation 🤩🤩🔥🔥 bugbounty invitation hackerone https://t.co/rv3AcWI2cm
+## 2024-09-27 · Thread · Receive 1st private invitation 🤩🤩🔥🔥 bugbounty invitation hackerone https://t.co/rv3AcWI2cm
 
 
 Tags (automatic): Platform: HackerOne
@@ -1638,6 +1653,30 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GYfTTn6XcAAL9KH.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Suryesh_92 — 2024-09-27 14:30 UTC (2024-09-27 15:30 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1839673883202306524
+- Metrics (at fetch): bookmark 2, impression 172, like 2, quote 0, reply 1, retweet 0
+
+> @Mr_mars_hacker Standoff 365
+
+
+### Thread part 3 — @Suryesh_92 — 2024-09-27 14:30 UTC (2024-09-27 15:30 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1839674028140704032
+- Metrics (at fetch): bookmark 0, impression 127, like 1, quote 0, reply 2, retweet 0
+
+> @Mr_mars_hacker Fast response, fast remediation,&amp; if duplicate then you can see original report
+
+
+### Thread part 4 — @Suryesh_92 — 2024-09-27 14:31 UTC (2024-09-27 15:31 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1839674287545847838
+- Metrics (at fetch): bookmark 0, impression 122, like 0, quote 0, reply 1, retweet 0
+
+> @Mr_mars_hacker But on other platforms there is no feature or they are not adding in report , agar duplicate jati h to
 
 
 ---
