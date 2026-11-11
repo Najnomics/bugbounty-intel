@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 33
-- Conversations/threads: 33
+- Posts in this file: 34
+- Conversations/threads: 34
 - Oldest post captured: 2026-01-13
 - Newest post captured: 2026-11-04
 
@@ -1016,6 +1016,26 @@ Tags (automatic): Account takeover, RCE, OAuth, CSP / CSPT, AI-assisted hunting,
 > That's not all. Full links, writeups & more → http://getdisclosed.com
 >
 > The bug bounty world, curated.
+
+**Links in post:** http://getdisclosed.com
+
+
+---
+
+## 2026-04-20 · Post · Vercel gets hacked, HackerOne and Google both crown new MVHs, New Opus launch + leak, and more.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infinitelogins — 2026-04-20 00:04 UTC (2026-04-20 01:04 WAT)
+
+- URL: https://x.com/infinitelogins/status/2046017140814422136
+- Metrics (at fetch): not returned
+
+> Vercel gets hacked, HackerOne and Google both crown new MVHs, New Opus launch + leak, and more.
+>
+> This is a teaser for tomorrow's drop. Subscribe at http://getdisclosed.com to get the drop first.
 
 **Links in post:** http://getdisclosed.com
 

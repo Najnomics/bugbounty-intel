@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 68
-- Conversations/threads: 57
-- Oldest post captured: 2026-05-16
+- Posts in this file: 71
+- Conversations/threads: 60
+- Oldest post captured: 2026-01-07
 - Newest post captured: 2026-11-10
 
 
@@ -1326,3 +1326,60 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HIc_2toWYAAG9Jw.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-08 · Post · We should stop treating "how long the bug existed in the code" as a measure of impressiveness. Code 
+
+
+### Post — @galnagli — 2026-04-08 11:36 UTC (2026-04-08 12:36 WAT)
+
+- URL: https://x.com/galnagli/status/2041842720176586775
+- Metrics (at fetch): not returned
+
+> We should stop treating "how long the bug existed in the code" as a measure of impressiveness. Code pushed days ago that gives an attacker complete access from the outside will always be more relevant than a 15-year-old flaw that's "barely exploitable" in the real world.
+
+
+---
+
+## 2026-03-13 · Post · RentAHuman -- the platform where "AI Agents" hire real humans for physical tasks -  leaked its entir
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-03-13 18:16 UTC (2026-03-13 19:16 WAT)
+
+- URL: https://x.com/galnagli/status/2032521269724233785
+- Metrics (at fetch): not returned
+
+> RentAHuman -- the platform where "AI Agents" hire real humans for physical tasks -  leaked its entire user database.
+>
+> 187,714 personal emails (at the time), all it took was few minutes, some tokens and one Claude Code command.
+>
+> Here's how my AI attacker found it 🧵 [pic.x.com/o8JTo0KcNL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HDTzpK0WMAAbQls.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-07 · Post · 🤡 CVE-2026-21877 - 10.0 CVSS for AUTHENTICATED Remote code execution in @n8n_io, what a joke.... 
+
+
+Tags (automatic): RCE
+
+
+### Post — @galnagli — 2026-01-07 08:44 UTC (2026-01-07 09:44 WAT)
+
+- URL: https://x.com/galnagli/status/2008821918334357598
+- Metrics (at fetch): not returned
+
+> 🤡 CVE-2026-21877 - 10.0 CVSS for AUTHENTICATED Remote code execution in @n8n_io, what a joke.... 
+>
+> This is the reason there are so many real risks to be found because of stupid scoring frameworks and compliance requirements
+
+**Media:**
+- media `3_2008821372949069824` (details not returned by the API)

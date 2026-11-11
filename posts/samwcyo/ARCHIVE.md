@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 31
-- Conversations/threads: 30
-- Oldest post captured: 2025-06-04
+- Posts in this file: 42
+- Conversations/threads: 41
+- Oldest post captured: 2023-12-18
 - Newest post captured: 2026-11-11
 
 
@@ -503,3 +503,234 @@ Tags (automatic): Path normalization
 **Links in post:** https://twitter.com/nyxgeek/status/1929678408847442094
 
 **Quoted post** 1929678408847442094: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-03-22 · Post · I’ve been getting a lot of weird messages from people like this asking to hack both Chinese and Amer
+
+
+### Post — @samwcyo — 2025-03-22 02:59 UTC (2025-03-22 03:59 WAT)
+
+- URL: https://x.com/samwcyo/status/1903280424719151182
+- Metrics (at fetch): bookmark 10, impression 16298, like 60, quote 0, reply 3, retweet 5
+
+> I’ve been getting a lot of weird messages from people like this asking to hack both Chinese and American companies. They have offered to send thousands of dollars in advance to prove they are legit. I haven’t really looked into it too much but none of it ever makes sense. https://t.co/gvIOr67CZf https://t.co/4uOqRDpKtF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmnPblrakAAEiMI.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GmnPblvaEAA_xrX.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GmnPblIWgAAv5PN.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GmnPblHXwAApzyH.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @31218035 — 2025-03-21 11:16 UTC (2025-03-21 12:16 WAT)
+    
+    - URL: https://x.com/31218035/status/1903042940127084788
+    - Metrics (at fetch): bookmark 28, impression 44243, like 239, quote 10, reply 29, retweet 15
+    
+    > anyone looking for a questionable side hustle? 😂 https://t.co/SEnr6OZnY5
+    
+    **Media:**
+    - media `3_1903042935261630464` (details not returned by the API)
+    
+
+
+---
+
+## 2024-10-21 · Post · After a really long time only focused on manual web security stuff, almost everything has started to
+
+
+### Post — @samwcyo — 2024-10-21 02:57 UTC (2024-10-21 03:57 WAT)
+
+- URL: https://x.com/samwcyo/status/1848196974006186384
+- Metrics (at fetch): bookmark 184, impression 70074, like 549, quote 9, reply 23, retweet 42
+
+> After a really long time only focused on manual web security stuff, almost everything has started to feel like a QA checklist. There are definitely people doing novel research and dropping crazy bugs, but I think a lot of the big stepping stones require people to build really
+
+
+---
+
+## 2024-09-26 · Post · New writeup from @_specters_ and I: we're finally allowed to disclose a vulnerability reported to Ki
+
+
+### Post — @samwcyo — 2024-09-26 13:32 UTC (2024-09-26 14:32 WAT)
+
+- URL: https://x.com/samwcyo/status/1839297112066109671
+- Metrics (at fetch): bookmark 1243, impression 345162, like 3502, quote 132, reply 84, retweet 955
+
+> New writeup from @_specters_ and I: we're finally allowed to disclose a vulnerability reported to Kia which would've allowed an attacker to remotely control almost all vehicles made after 2013 using only the license plate.
+>
+> Full disclosure:
+> https://t.co/e2EwvUMgqw https://t.co/yMk4ihliFT
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-06-03 · Post · New writeup:
+
+
+### Post — @samwcyo — 2024-06-03 05:27 UTC (2024-06-03 06:27 WAT)
+
+- URL: https://x.com/samwcyo/status/1797500342814507070
+- Metrics (at fetch): bookmark 428, impression 126573, like 1199, quote 30, reply 45, retweet 373
+
+> New writeup:
+>
+> "Hacking Millions of Modems (and Investigating Who Hacked My Modem)"
+>
+> https://t.co/VZbWEIF5I8
+>
+> Thanks for reading! Huge thanks to @blastbots, @bbuerhaus, @infosec_au, @d0nutptr, @iangcarroll, and everyone who reviewed the post beforehand.
+
+
+---
+
+## 2024-05-31 · Post · Many people I know are reporting publicly disclosed credentials (that were all posted to public Tele
+
+
+### Post — @samwcyo — 2024-05-31 23:21 UTC (2024-06-01 00:21 WAT)
+
+- URL: https://x.com/samwcyo/status/1796683500210278834
+- Metrics (at fetch): bookmark 10, impression 16328, like 62, quote 0, reply 8, retweet 2
+
+> Many people I know are reporting publicly disclosed credentials (that were all posted to public Telegram channels) to bug bounty programs, but there really doesn't seem to be any standards for how programs should handle these submissions.
+>
+> I think that paying for credentials is
+
+
+---
+
+## 2024-03-17 · Post · Huge thanks to @davidbombal for covering the past car hacking research from @_specters_ @bbuerhaus @
+
+
+### Post — @samwcyo — 2024-03-17 23:45 UTC (2024-03-18 00:45 WAT)
+
+- URL: https://x.com/samwcyo/status/1769510359428108773
+- Metrics (at fetch): bookmark 39, impression 28478, like 217, quote 0, reply 5, retweet 33
+
+> Huge thanks to @davidbombal for covering the past car hacking research from @_specters_ @bbuerhaus @xEHLE_ @iangcarroll @sshell_ @infosec_au and I. David and his team put in a ton of effort to research this and asked some great questions. More than happy to share the fun stories. https://t.co/Yvo5KBuVoa
+
+**Quoted post (full text):**
+
+    #### Quoted post — @56191110 — 2024-03-17 15:02 UTC (2024-03-17 16:02 WAT)
+    
+    - URL: https://x.com/56191110/status/1769378868052304115
+    - Metrics (at fetch): bookmark 116, impression 76258, like 396, quote 8, reply 6, retweet 72
+    
+    > Hackers remotely hack cars! Ferrari, Tesla, Porsche, BMW, Ford, Kia and so many more 😱
+    >
+    > YouTube video: https://t.co/u1SEI0M8aJ
+    >
+    > #car #cars #ferrari #tesla #porsche #bmw #ford #kia #mercedes #hyundai #hack #hacker #hacking #cybersecurity #infosec @samwcyo https://t.co/yKcWDYmvVP
+    
+    **Media:**
+    - media `3_1769378704210223104` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-30 · Post · Faking a security audit is definitely interesting. I wonder if it'd be worth it to build some audit 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samwcyo — 2024-01-30 00:15 UTC (2024-01-30 01:15 WAT)
+
+- URL: https://x.com/samwcyo/status/1752123362128838752
+- Metrics (at fetch): bookmark 3, impression 10317, like 25, quote 0, reply 2, retweet 1
+
+> Faking a security audit is definitely interesting. I wonder if it'd be worth it to build some audit validator service. Has this publicly happened in the past before? https://t.co/yeR8GW6dUW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1752109824282910869
+    - Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
+    
+    > Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://t.co/Rdqy3LvKSR https://t.co/c2sT5xM1T1
+    
+    **Media:**
+    - media `3_1752109000207085568` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-26 · Post · “Rook to XSS: How I hacked chess[.]com with a rookie exploit”
+
+
+Tags (automatic): XSS
+
+
+### Post — @samwcyo — 2024-01-26 20:14 UTC (2024-01-26 21:14 WAT)
+
+- URL: https://x.com/samwcyo/status/1750975592529379815
+- Metrics (at fetch): bookmark 200, impression 36009, like 437, quote 1, reply 8, retweet 114
+
+> “Rook to XSS: How I hacked chess[.]com with a rookie exploit”
+> https://t.co/Gnur3tc8M5
+>
+> Really great read! If you’ve never looked, https://t.co/G45QH58TNi has a great off-platform bug bounty program via security@chess.com
+
+
+---
+
+## 2023-12-24 · Post · This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all t
+
+
+### Post — @samwcyo — 2023-12-24 18:34 UTC (2023-12-24 19:34 WAT)
+
+- URL: https://x.com/samwcyo/status/1738991457627717913
+- Metrics (at fetch): bookmark 493, impression 202716, like 1348, quote 9, reply 25, retweet 229
+
+> This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all things, a base64 encoded Harry Potter quote on an internal iCloud account debug and administration page. This is the first time I'm sharing this, as more than 90 days have passed https://t.co/BNauDq7w01 https://t.co/CBc8QC5y3i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GCIZnZzWMAAeg8K.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GCIenfGWsAA_RVm.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GCIhdj9W4AEpWJ0.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GCIhuaCWAAAhZm0.jpg — no alt text provided by author
+
+**Quoted post** 1738526619940118841: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-12-24 · Post · This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all t
+
+
+### Post — @samwcyo — 2023-12-24 18:33 UTC (2023-12-24 19:33 WAT)
+
+- URL: https://x.com/samwcyo/status/1738991258888999265
+- Metrics (at fetch): bookmark 1, impression 9398, like 0, quote 1, reply 0, retweet 0
+
+> This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all things, a base64 encoded Harry Potter quote on an internal iCloud account debug and administration page. This is the first time I'm sharing this, as more than 90 days have passed https://t.co/3hHNvVJfxN https://t.co/CBc8QC5y3i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GCIZnZzWMAAeg8K.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GCIenfGWsAA_RVm.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GCIhdj9W4AEpWJ0.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GCIhuaCWAAAhZm0.jpg — no alt text provided by author
+
+**Quoted post** 1738526619940118841: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-12-18 · Post · Do you think cybersecurity companies are receptive to public disclosure for vulnerabilities in their
+
+
+### Post — @samwcyo — 2023-12-18 17:34 UTC (2023-12-18 18:34 WAT)
+
+- URL: https://x.com/samwcyo/status/1736802184963272940
+- Metrics (at fetch): bookmark 3, impression 12324, like 56, quote 0, reply 10, retweet 5
+
+> Do you think cybersecurity companies are receptive to public disclosure for vulnerabilities in their own products? For how large these companies are and how complicated their attack surface is, I don’t see many shared findings. It often feels like they’re left out of the picture.

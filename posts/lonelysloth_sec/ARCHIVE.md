@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 50
+- Posts in this file: 54
+- Conversations/threads: 54
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -780,6 +780,108 @@ Tags (automatic): AI-assisted hunting
 > I always had an interest in hacking hardware and at some point planned to do some research on their device, which might be easier than a Ledger for example. 
 >
 > Also I
+
+
+---
+
+## 2026-07-31 · Post · Im not a business guy but it’s hard for me to understand why people that just got 2.5M bounty using 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-07-31 23:44 UTC (2026-08-01 00:44 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2083338157031063956
+- Metrics (at fetch): not returned
+
+> Im not a business guy but it’s hard for me to understand why people that just got 2.5M bounty using AI (assuming it’s true) and think they found the secret sauce to find all bugs would need to raise more money and dilute their equity.
+>
+> Why not just keep getting more bounties to fund development?
+
+
+---
+
+## 2026-07-24 · Post · I used to think one of the barriers to entry in bug bounties was the ability or willingness to go lo
+
+
+### Post — @lonelysloth_sec — 2026-07-24 00:58 UTC (2026-07-24 01:58 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2080457602811777076
+- Metrics (at fetch): not returned
+
+> I used to think one of the barriers to entry in bug bounties was the ability or willingness to go long stretches of time without being paid.
+>
+> But now we see so many people willing to go very long stretches of time burning money on tokens hunting for bugs, not getting paid, and when by any chance they get paid doubling down and burning money even faster.
+>
+> I guess I have to thank Anthropic and OpenAI for making that obvious.
+
+
+---
+
+## 2026-07-22 · Post · If you were running a fuzzer in your servers, running millions of random variations of exploit attem
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-07-22 02:49 UTC (2026-07-22 03:49 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2079760818984648878
+- Metrics (at fetch): not returned
+
+> If you were running a fuzzer in your servers, running millions of random variations of exploit attempts, thought it was isolated from the internet, and instead it hit someone’s production services and caused serious damage — there’s a good chance you’d be prosecuted for federal crimes.
+>
+> Good luck with the defence it was your scripts fault.
+>
+> But apparently if you are a corporation with “AI” in the name then it’s just proof AGI is around the corner or something.
+>
+> The real news here is that OpenAI messed up.
+>
+> Big time.
+
+**Links in post:** https://twitter.com/sama/status/2079661132302995790
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1605 — 2026-07-21 20:13 UTC (2026-07-21 21:13 WAT)
+    
+    - URL: https://x.com/1605/status/2079661132302995790
+    - Metrics (at fetch): not returned
+    
+    > we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.
+    >
+    > https://openai.com/index/hugging-face-model-evaluation-security-incident/
+    
+    **Links in post:** https://openai.com/index/hugging-face-model-evaluation-security-incident/
+    
+
+
+---
+
+## 2026-07-10 · Post · My guess is they will receive tons of valid reports, but will not pay any based on subtlety of the w
+
+
+### Post — @lonelysloth_sec — 2026-07-10 21:56 UTC (2026-07-10 22:56 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2075700610712977771
+- Metrics (at fetch): not returned
+
+> My guess is they will receive tons of valid reports, but will not pay any based on subtlety of the word "universally".
+>
+> Also 50k is a bounty for ants when you're dealing with stuff supposedly that dangerous. https://twitter.com/Polymarket/status/2075650511001522356
+
+**Links in post:** https://twitter.com/Polymarket/status/2075650511001522356
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1261335549215989760 — 2026-07-10 18:37 UTC (2026-07-10 19:37 WAT)
+    
+    - URL: https://x.com/1261335549215989760/status/2075650511001522356
+    - Metrics (at fetch): not returned
+    
+    > BREAKING: OpenAI launches a $50,000 bounty for anyone who can universally jailbreak GPT-5.6’s biosafety protections.
+    
 
 
 ---

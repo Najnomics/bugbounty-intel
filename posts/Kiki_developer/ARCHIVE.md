@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 44
-- Conversations/threads: 35
-- Oldest post captured: 2024-07-20
+- Posts in this file: 53
+- Conversations/threads: 44
+- Oldest post captured: 2024-03-22
 - Newest post captured: 2026-10-19
 
 
@@ -695,3 +695,192 @@ Tags (automatic): Platform: Immunefi
 > Yesterday web3 security lost its greatest resource 😔
 >
 >  iykyk
+
+
+---
+
+## 2024-07-18 · Post · I wonder how many valid findings have never made it to the sponsor of a contest because it was poorl
+
+
+### Post — @Kiki_developer — 2024-07-18 18:14 UTC (2024-07-18 19:14 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1814000715591037309
+- Metrics (at fetch): bookmark 0, impression 1061, like 8, quote 0, reply 1, retweet 0
+
+> I wonder how many valid findings have never made it to the sponsor of a contest because it was poorly written?
+>
+> Maybe a new bug hunting strat? 🤔
+
+
+---
+
+## 2024-07-11 · Post · Easily my favorite project to audit such a well designed protocol and a great team overall 🙏 https:/
+
+
+### Post — @Kiki_developer — 2024-07-11 17:06 UTC (2024-07-11 18:06 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1811447099877441979
+- Metrics (at fetch): bookmark 0, impression 585, like 5, quote 0, reply 0, retweet 0
+
+> Easily my favorite project to audit such a well designed protocol and a great team overall 🙏 https://t.co/bov5QvwAXt
+
+**Quoted post** 1811242713544814625: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-07-10 · Post · Protocol opts to go for firm audit first then solo audit
+
+
+### Post — @Kiki_developer — 2024-07-10 14:44 UTC (2024-07-10 15:44 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1811048734870098348
+- Metrics (at fetch): bookmark 0, impression 1096, like 13, quote 0, reply 1, retweet 0
+
+> Protocol opts to go for firm audit first then solo audit
+> Small scope creep makes cost become 130% of quote
+> Protocol has no budget for solo audit 
+> Solo auditor is curious of firm quality and opens repo
+> Solo auditor finds missed crit in 8 minutes…
+>  
+> Lesson:
+> Marketing != Security
+
+
+---
+
+## 2024-06-26 · Post · Amount paid from doing an audit:  X dollars
+
+
+### Post — @Kiki_developer — 2024-06-26 17:57 UTC (2024-06-26 18:57 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1806023972687155459
+- Metrics (at fetch): bookmark 1, impression 1586, like 26, quote 0, reply 1, retweet 0
+
+> Amount paid from doing an audit:  X dollars
+>
+> Amount paid form doing a bug bounty: X * Y dollars
+>
+> A devs response to your cool finding: 
+>
+> Priceless 😄 https://t.co/G6T8u8ud11
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRBJO0mbsAAmka7.png — no alt text provided by author
+
+
+---
+
+## 2024-06-22 · Post · Really really enjoyed this audit! We were able to uncover some really interesting findings
+
+
+### Post — @Kiki_developer — 2024-06-22 22:00 UTC (2024-06-22 23:00 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1804635578803355709
+- Metrics (at fetch): bookmark 0, impression 529, like 8, quote 0, reply 1, retweet 0
+
+> Really really enjoyed this audit! We were able to uncover some really interesting findings
+>
+> And best of all we got to deep dive into all the new features @GMX_IO has been working on 🤓 https://t.co/ht1tHWWdyZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1500257706799677443 — 2024-06-22 21:29 UTC (2024-06-22 22:29 WAT)
+    
+    - URL: https://x.com/1500257706799677443/status/1804627775044857943
+    - Metrics (at fetch): bookmark 17, impression 474506, like 264, quote 5, reply 6, retweet 28
+    
+    > Guardian is pleased to release our full security analysis of @GMX_IO's V2.1 system updates including:
+    >
+    > • Shifting between GM markets
+    > • Auto-cancel orders
+    > • Atomic withdrawals
+    > • New oracle providers
+    > • New kink borrowing model
+    >
+    > And much more! See all 3 audit reports below👇 https://t.co/DYsqVPik71
+    
+    **Media:**
+    - media `7_1804627724126035968` (details not returned by the API)
+    
+
+
+---
+
+## 2024-06-18 · Post · There are tier 1 auditing firms, then there are tier 1 mediation teams. Thank you @immunefi  🙏 https
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2024-06-18 18:12 UTC (2024-06-18 19:12 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1803128601040265515
+- Metrics (at fetch): bookmark 13, impression 13915, like 178, quote 1, reply 16, retweet 10
+
+> There are tier 1 auditing firms, then there are tier 1 mediation teams. Thank you @immunefi  🙏 https://t.co/3r6dwEmGtl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQX_LyRaIAAJyxb.png — no alt text provided by author
+
+
+---
+
+## 2024-04-06 · Post · Not sure if this is a hot take or general consensus? But I’d much rather find just 1 crit in an audi
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Kiki_developer — 2024-04-06 05:04 UTC (2024-04-06 06:04 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1776476082063192120
+- Metrics (at fetch): bookmark 0, impression 1240, like 2, quote 0, reply 5, retweet 0
+
+> Not sure if this is a hot take or general consensus? But I’d much rather find just 1 crit in an audit instead of many
+
+
+---
+
+## 2024-03-28 · Post · 2 bounties + 1 audit added to the portfolio!
+
+
+### Post — @Kiki_developer — 2024-03-28 17:33 UTC (2024-03-28 18:33 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1773403163791626348
+- Metrics (at fetch): bookmark 12, impression 7002, like 24, quote 1, reply 1, retweet 0
+
+> 2 bounties + 1 audit added to the portfolio!
+>
+> Had a couple other bounties I considered adding but they weren't all that interesting lol
+>
+> Still have 2 more audits that I should be able to add soon™️
+> https://t.co/FmnlKyIvO5
+
+
+---
+
+## 2024-03-22 · Post · Great write up!  The fixing a bug  and lowballing the whitehat gave me some ptsd 😅 https://t.co/Cy8I
+
+
+### Post — @Kiki_developer — 2024-03-22 19:36 UTC (2024-03-22 20:36 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1771259774836854848
+- Metrics (at fetch): bookmark 1, impression 645, like 3, quote 0, reply 1, retweet 0
+
+> Great write up!  The fixing a bug  and lowballing the whitehat gave me some ptsd 😅 https://t.co/Cy8IuRNi8w
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1497970815341637643 — 2024-03-22 17:00 UTC (2024-03-22 18:00 WAT)
+    
+    - URL: https://x.com/1497970815341637643/status/1771220313205825917
+    - Metrics (at fetch): bookmark 128, impression 92126, like 379, quote 14, reply 42, retweet 63
+    
+    > In November, I submitted a critical bug to Cronos (@cronosapp) which they downplayed and have since been kicked off Immunefi. Here's some info about the bug and an example of how projects can simply not pay a fair amount.
+    >
+    > Report: https://t.co/bzmLkhigbe
+    >
+    > tl;dr: 
+    > - It's a
+    

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 181
-- Conversations/threads: 157
-- Oldest post captured: 2017-07-01
+- Posts in this file: 231
+- Conversations/threads: 207
+- Oldest post captured: 2016-07-31
 - Newest post captured: 2026-11-10
 
 
@@ -2921,3 +2921,767 @@ Tags (automatic): Mobile / Android / iOS
 > June Progress Report - Income with #reactNative #Android Apps - NEW RECORD http://crwd.fr/2srZvpC #incomereport #solopreneur
 
 **Links in post:** http://crwd.fr/2srZvpC
+
+
+---
+
+## 2017-06-08 · Post · Belated April Progress Report - Income with reactNative Android Apps https://t.co/0q542njvd3 inco
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-06-08 19:12 UTC (2017-06-08 20:12 WAT)
+
+- URL: https://x.com/cmichelio/status/872894014965641216
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Belated April Progress Report - Income with #reactNative #Android Apps https://t.co/0q542njvd3 #incomereport #solopreneur
+
+
+---
+
+## 2017-05-16 · Post · reactNative Countdown and Percentage Circles https://t.co/x0oVzygWos javascript es6 react https:
+
+
+### Post — @cmichelio — 2017-05-16 08:24 UTC (2017-05-16 09:24 WAT)
+
+- URL: https://x.com/cmichelio/status/864396027108970496
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 5, retweet 10
+
+> #reactNative Countdown and Percentage Circles https://t.co/x0oVzygWos #javascript #es6 #react https://t.co/etYjAXHdML
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2017-05-01 · Post · March Progress Report - Income with reactNative Android Apps https://t.co/wEqdeb8cSj incomereport
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-05-01 20:24 UTC (2017-05-01 21:24 WAT)
+
+- URL: https://x.com/cmichelio/status/859141391733207042
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> March Progress Report - Income with #reactNative #Android Apps https://t.co/wEqdeb8cSj #incomereport #solopreneur
+
+
+---
+
+## 2017-04-01 · Post · March Progress Report - Income with reactNative Android Apps https://t.co/22bVMYivKm incomereport
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-04-01 21:19 UTC (2017-04-01 22:19 WAT)
+
+- URL: https://x.com/cmichelio/status/848283602555162624
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> March Progress Report - Income with #reactNative #Android Apps https://t.co/22bVMYivKm #incomereport #solopreneur
+
+
+---
+
+## 2017-03-31 · Post · Getting Song Lyrics in Nodejs https://t.co/PIc8e7Mw7d javascript js
+
+
+### Post — @cmichelio — 2017-03-31 10:09 UTC (2017-03-31 11:09 WAT)
+
+- URL: https://x.com/cmichelio/status/847752587558273025
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 3
+
+> Getting Song Lyrics in #Nodejs https://t.co/PIc8e7Mw7d #javascript #js
+
+
+---
+
+## 2017-03-09 · Post · Dynamic chaining of javascript promises https://t.co/HczahoBbwe https://t.co/xQYZS1OSNW
+
+
+### Post — @cmichelio — 2017-03-09 07:22 UTC (2017-03-09 08:22 WAT)
+
+- URL: https://x.com/cmichelio/status/839738044190162944
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Dynamic chaining of #javascript promises https://t.co/HczahoBbwe https://t.co/xQYZS1OSNW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C6dZTLyWYAAJpKk.jpg — no alt text provided by author
+
+
+---
+
+## 2017-03-03 · Post · February Progress Report - Income with reactNative Android Apps https://t.co/tAzU7IeYRc incomerep
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-03-03 10:19 UTC (2017-03-03 11:19 WAT)
+
+- URL: https://x.com/cmichelio/status/837608249541165057
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> February Progress Report - Income with #reactNative #Android Apps https://t.co/tAzU7IeYRc #incomereport #solopreneur
+
+
+---
+
+## 2017-03-02 · Post · Percentage support for width, height and some other props in reactNative 0.42 🔥 https://t.co/wZFede
+
+
+### Post — @cmichelio — 2017-03-02 13:00 UTC (2017-03-02 14:00 WAT)
+
+- URL: https://x.com/cmichelio/status/837286450248962048
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> Percentage support for width, height and some other props in #reactNative 0.42 🔥 https://t.co/wZFedeGbjk
+
+
+---
+
+## 2017-02-21 · Post · Storing reactNative app data in Google Drive https://t.co/SLyFFfdhH6 es6 javascript
+
+
+### Post — @cmichelio — 2017-02-21 18:25 UTC (2017-02-21 19:25 WAT)
+
+- URL: https://x.com/cmichelio/status/834106721765359617
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 2
+
+> Storing #reactNative app data in Google Drive https://t.co/SLyFFfdhH6 #es6 #javascript
+
+
+---
+
+## 2017-02-15 · Post · Twitter's Redux Store = basic normalization https://t.co/mVvp7C82m7
+
+
+### Post — @cmichelio — 2017-02-15 19:28 UTC (2017-02-15 20:28 WAT)
+
+- URL: https://x.com/cmichelio/status/831948221450743809
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Twitter's #Redux Store = basic normalization https://t.co/mVvp7C82m7
+
+
+---
+
+## 2017-02-07 · Post · Just found out there's a void keyword in javascript https://t.co/iEgQQ06fCr js es6 es2015
+
+
+### Post — @cmichelio — 2017-02-07 18:23 UTC (2017-02-07 19:23 WAT)
+
+- URL: https://x.com/cmichelio/status/829032740108587010
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> Just found out there's a void keyword in #javascript https://t.co/iEgQQ06fCr #js #es6 #es2015
+
+
+---
+
+## 2017-02-01 · Post · January Progress Report - Income with reactNative Android Apps https://t.co/EjrVs8YWfa It's going 
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-02-01 20:08 UTC (2017-02-01 21:08 WAT)
+
+- URL: https://x.com/cmichelio/status/826884854188998661
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 3
+
+> January Progress Report - Income with #reactNative #Android Apps https://t.co/EjrVs8YWfa It's going somewhere! #incomereport #solopreneur
+
+
+---
+
+## 2017-01-26 · Post · Best way to use D3js with React https://t.co/beEBPPEW86 javascript es6
+
+
+### Post — @cmichelio — 2017-01-26 19:14 UTC (2017-01-26 20:14 WAT)
+
+- URL: https://x.com/cmichelio/status/824696927078019073
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> Best way to use #D3js with #React https://t.co/beEBPPEW86 #javascript #es6
+
+
+---
+
+## 2017-01-05 · Post · December Progress Report - Second month income with reactNative android apps http://https://t.co/U
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2017-01-05 10:09 UTC (2017-01-05 11:09 WAT)
+
+- URL: https://x.com/cmichelio/status/816949623252254720
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> December Progress Report - Second month income with #reactNative #android apps http://https://t.co/U2Bg8XkwkL #incomereport
+
+
+---
+
+## 2016-12-27 · Post · How async/await is transpiled to ES5 https://t.co/6QsQbHGGxA javascript js es6 es7
+
+
+### Post — @cmichelio — 2016-12-27 18:16 UTC (2016-12-27 19:16 WAT)
+
+- URL: https://x.com/cmichelio/status/813810711084355584
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> How async/await is transpiled to ES5 https://t.co/6QsQbHGGxA #javascript #js #es6 #es7
+
+
+---
+
+## 2016-12-17 · Post · Released my new reactNative app https://t.co/ppHtpUyb0C react js android
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2016-12-17 23:09 UTC (2016-12-18 00:09 WAT)
+
+- URL: https://x.com/cmichelio/status/810260542933843968
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 3, retweet 5
+
+> Released my new #reactNative app https://t.co/ppHtpUyb0C #react #js #android
+
+
+---
+
+## 2016-12-17 · Post · Get your daily Motivation each morning with this Alarm Clock android app https://t.co/HLp1h1vigi 
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2016-12-17 21:15 UTC (2016-12-17 22:15 WAT)
+
+- URL: https://x.com/cmichelio/status/810231871137255425
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Get your daily #Motivation each morning with this Alarm Clock #android app https://t.co/HLp1h1vigi #inspiration #entrepreneur #getmotivated https://t.co/P07YJmNRla
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cz6Fl4eUoAA8L0n.jpg — no alt text provided by author
+
+
+---
+
+## 2016-12-12 · Post · Structuring and Globalizing Redux Selectors https://t.co/xMVZHguU8a js es6 react https://t.co/C0
+
+
+### Post — @cmichelio — 2016-12-12 20:17 UTC (2016-12-12 21:17 WAT)
+
+- URL: https://x.com/cmichelio/status/808405335815897088
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Structuring and Globalizing #Redux Selectors https://t.co/xMVZHguU8a #js #es6 #react https://t.co/C0zppPgthN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CzgIXhrWEAAi8Pe.png — no alt text provided by author
+
+
+---
+
+## 2016-12-07 · Post · How to use custom initialProps launch arguments in reactNative https://t.co/TnIjmHeB1O es6 javasc
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2016-12-07 20:04 UTC (2016-12-07 21:04 WAT)
+
+- URL: https://x.com/cmichelio/status/806590111957848064
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> How to use custom initialProps launch arguments in #reactNative https://t.co/TnIjmHeB1O #es6 #javascript #android
+
+
+---
+
+## 2016-12-03 · Post · November Progress Report - First  month income with reactNative android apps https://t.co/rkWBwaVv
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2016-12-03 18:24 UTC (2016-12-03 19:24 WAT)
+
+- URL: https://x.com/cmichelio/status/805115393048268800
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 1
+
+> November Progress Report - First  month income with #reactNative #android apps https://t.co/rkWBwaVvU4 #incomereport https://t.co/2Z05HBMxce
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CyxYLoAUUAAnhCs.jpg — no alt text provided by author
+
+
+---
+
+## 2016-11-28 · Post · How to create a ReactNative Android library for people with no Android background (+boilerplate) h
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2016-11-28 20:13 UTC (2016-11-28 21:13 WAT)
+
+- URL: https://x.com/cmichelio/status/803330882899767296
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> How to create a #ReactNative #Android library for people with no Android background (+boilerplate) https://t.co/zhXbZNXvpW
+
+
+---
+
+## 2016-11-25 · Post · Wrote something on unexpected css margins https://t.co/QzmLlX7be7
+
+
+### Post — @cmichelio — 2016-11-25 10:27 UTC (2016-11-25 11:27 WAT)
+
+- URL: https://x.com/cmichelio/status/802096247700156416
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Wrote something on unexpected #css margins https://t.co/QzmLlX7be7
+
+
+---
+
+## 2016-11-18 · Post · Using React in Markdown posts https://t.co/NCrD80ZPGF phenomic
+
+
+### Post — @cmichelio — 2016-11-18 10:28 UTC (2016-11-18 11:28 WAT)
+
+- URL: https://x.com/cmichelio/status/799559783036686338
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 2
+
+> Using #React in #Markdown posts https://t.co/NCrD80ZPGF #phenomic
+
+
+---
+
+## 2016-11-14 · Post · Blog migration from WordPress to static site generator (phenomic) is finished https://t.co/tAiKWGF
+
+
+### Post — @cmichelio — 2016-11-14 07:17 UTC (2016-11-14 08:17 WAT)
+
+- URL: https://x.com/cmichelio/status/798062175130501121
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 3, retweet 3
+
+> Blog migration from #WordPress to static site generator (#phenomic) is finished https://t.co/tAiKWGF70E
+
+
+---
+
+## 2016-11-08 · Post · Rebuilding my WordPress blog from scratch with a static site generator so I can use react &amp; m
+
+
+### Post — @cmichelio — 2016-11-08 10:11 UTC (2016-11-08 11:11 WAT)
+
+- URL: https://x.com/cmichelio/status/795931642955255808
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 3
+
+> Rebuilding my #WordPress blog from scratch with a static site generator so I can use #react &amp; #markdown https://t.co/p0LKRMiirK #reactjs
+
+
+---
+
+## 2016-11-01 · Post · Publishing a reactNative App on android https://t.co/qP6FjPj5Ul
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2016-11-01 17:23 UTC (2016-11-01 18:23 WAT)
+
+- URL: https://x.com/cmichelio/status/793503624752226304
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 4
+
+> Publishing a #reactNative App on #android https://t.co/qP6FjPj5Ul
+
+
+---
+
+## 2016-10-30 · Post · What I learned from creating my first reactNative app https://t.co/TI5HYo3eJg react es6 javascri
+
+
+### Post — @cmichelio — 2016-10-30 07:20 UTC (2016-10-30 08:20 WAT)
+
+- URL: https://x.com/cmichelio/status/792627109378359296
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 6
+
+> What I learned from creating my first #reactNative app https://t.co/TI5HYo3eJg #react #es6 #javascript #appdev https://t.co/IGBuFvla2j
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cv_6J2jWcAEuMZE.jpg — no alt text provided by author
+
+
+---
+
+## 2016-10-29 · Post · There is a really nice workout app for PHUL now in
+
+
+### Post — @cmichelio — 2016-10-29 11:52 UTC (2016-10-29 12:52 WAT)
+
+- URL: https://x.com/cmichelio/status/792333357464059905
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> There is a really nice #workout app for #PHUL now in
+> #stronglifts5x5 style
+>  https://t.co/Sy1hbsBmvp #fitness #gym #fit #bodybuilding #muscle https://t.co/TtT15rAXPD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cv7u8LtXgAAuXIf.jpg — no alt text provided by author
+
+
+---
+
+## 2016-10-22 · Post · Creating Charts in reactNative with d3js https://t.co/wNHl2CWcQk react es6 javascript https://t
+
+
+### Post — @cmichelio — 2016-10-22 10:28 UTC (2016-10-22 11:28 WAT)
+
+- URL: https://x.com/cmichelio/status/789775321751060480
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
+
+> Creating Charts in #reactNative with #d3js https://t.co/wNHl2CWcQk #react #es6 #javascript https://t.co/umurdUiL2e
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CvXYeASWgAA5c-2.jpg — no alt text provided by author
+
+
+---
+
+## 2016-10-17 · Post · How to get the size of a reactNative View at runtime https://t.co/O8Uog1GgpV react es6 javascrip
+
+
+### Post — @cmichelio — 2016-10-17 18:23 UTC (2016-10-17 19:23 WAT)
+
+- URL: https://x.com/cmichelio/status/788082919260782592
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> How to get the size of a #reactNative View at runtime https://t.co/O8Uog1GgpV #react #es6 #javascript https://t.co/MbW4BPfYis
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cu_VPOlWYAAW2ie.jpg — no alt text provided by author
+
+
+---
+
+## 2016-10-16 · Post · If you are looking for good colors for your visualization, this is really nice https://t.co/mgCvZYed
+
+
+### Post — @cmichelio — 2016-10-16 14:34 UTC (2016-10-16 15:34 WAT)
+
+- URL: https://x.com/cmichelio/status/787662895488335872
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> If you are looking for good colors for your visualization, this is really nice https://t.co/mgCvZYedvj #d3js
+
+
+---
+
+## 2016-10-14 · Post · I love reading actual startup execution posts instead of the generic advice à la "bring value to peo
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @cmichelio — 2016-10-14 10:11 UTC (2016-10-14 11:11 WAT)
+
+- URL: https://x.com/cmichelio/status/786872129098743808
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> I love reading actual startup execution posts instead of the generic advice à la "bring value to people" blah, blah #noshitsherlock https://t.co/veDT6grMc0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1577241403 — 2016-10-10 15:01 UTC (2016-10-10 16:01 WAT)
+    
+    - URL: https://x.com/1577241403/status/785495376786710528
+    - Metrics (at fetch): bookmark 0, impression 0, like 71, quote 2, reply 8, retweet 17
+    
+    > ✨ I present everything I know about bootstrapping side projects into profitable startups ✨ 📽👉 https://t.co/pWyw4qZpQv  / @GrowthTribe https://t.co/PmbLWG2v0S
+    
+    **Media:**
+    - media `3_785495361854910464` (details not returned by the API)
+    
+
+
+---
+
+## 2016-10-13 · Post · Redux Performance Optimizations for connect/mapStateToProps https://t.co/T2iF8zCold react reactNa
+
+
+### Post — @cmichelio — 2016-10-13 18:02 UTC (2016-10-13 19:02 WAT)
+
+- URL: https://x.com/cmichelio/status/786628070170034176
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> #Redux Performance Optimizations for connect/mapStateToProps https://t.co/T2iF8zCold #react #reactNative #javascript #es6
+
+
+---
+
+## 2016-10-08 · Post · Why you should only use Redux connect on top-level components https://t.co/0DZr6fTHPE React javas
+
+
+### Post — @cmichelio — 2016-10-08 18:30 UTC (2016-10-08 19:30 WAT)
+
+- URL: https://x.com/cmichelio/status/784823185472716800
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Why you should only use #Redux connect on top-level components https://t.co/0DZr6fTHPE #React #javascript #es6
+
+
+---
+
+## 2016-10-06 · Post · Is there a better way to modify a deeply located leaf in the redux state tree? https://t.co/O5F2cRV
+
+
+### Post — @cmichelio — 2016-10-06 10:45 UTC (2016-10-06 11:45 WAT)
+
+- URL: https://x.com/cmichelio/status/783981393785257984
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Is there a better way to modify a deeply located leaf in the #redux state tree? https://t.co/O5F2cRVnNG #javascript #react #reactjs
+
+
+---
+
+## 2016-09-28 · Post · Styling DatePickerAndroid in React Native https://t.co/Zq9jkp4ki4
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @cmichelio — 2016-09-28 17:38 UTC (2016-09-28 18:38 WAT)
+
+- URL: https://x.com/cmichelio/status/781186443288809472
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Styling DatePickerAndroid in React Native https://t.co/Zq9jkp4ki4
+
+
+---
+
+## 2016-09-24 · Post · How to do a Popup-Menu in reactNative https://t.co/v2qsOgwlLv Not sure why it's not mentioned in th
+
+
+### Post — @cmichelio — 2016-09-24 15:15 UTC (2016-09-24 16:15 WAT)
+
+- URL: https://x.com/cmichelio/status/779700851535388672
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> How to do a Popup-Menu in #reactNative https://t.co/v2qsOgwlLv Not sure why it's not mentioned in the documentation #reactjs #javascript https://t.co/tYyS4Ifn2e
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2016-09-18 · Post · More of a math puzzle this week, solutions animated with d3js https://t.co/moZSEO8jwa dataviz S
+
+
+### Post — @cmichelio — 2016-09-18 19:29 UTC (2016-09-18 20:29 WAT)
+
+- URL: https://x.com/cmichelio/status/777590304505532417
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> More of a #math #puzzle this week, solutions animated with #d3js https://t.co/moZSEO8jwa #dataviz #SVG https://t.co/WVMSvH3dcJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CsqOO7cWgAQ6SiC.jpg — no alt text provided by author
+
+
+---
+
+## 2016-09-14 · Post · Debugging in javascript and blind by all the console.logs? Created a npm logger with colored class
+
+
+### Post — @cmichelio — 2016-09-14 15:52 UTC (2016-09-14 16:52 WAT)
+
+- URL: https://x.com/cmichelio/status/776086238411489281
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Debugging in #javascript and blind by all the console.logs? Created a #npm logger with colored class/func names https://t.co/1C2ncecuuE #es6
+
+
+---
+
+## 2016-09-11 · Post · Reels are uncountable - math proofs visualized in d3js https://t.co/YheLBI9hlC svg dataviz https
+
+
+### Post — @cmichelio — 2016-09-11 12:52 UTC (2016-09-11 13:52 WAT)
+
+- URL: https://x.com/cmichelio/status/774953660610666496
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Reels are uncountable - #math proofs visualized in #d3js https://t.co/YheLBI9hlC #svg #dataviz https://t.co/vld94HV2dp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CsEwCwBWYAEcdr9.jpg — no alt text provided by author
+
+
+---
+
+## 2016-09-09 · Post · No proxies in reactNative :( https://t.co/GMjjJF4dTz
+
+
+### Post — @cmichelio — 2016-09-09 15:22 UTC (2016-09-09 16:22 WAT)
+
+- URL: https://x.com/cmichelio/status/774266613768065024
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> No proxies in #reactNative :( https://t.co/GMjjJF4dTz
+
+
+---
+
+## 2016-09-07 · Post · Enumerating a Grid in Spiral Order https://t.co/lDElhQtt4u math maths
+
+
+### Post — @cmichelio — 2016-09-07 18:10 UTC (2016-09-07 19:10 WAT)
+
+- URL: https://x.com/cmichelio/status/773584314567098369
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Enumerating a Grid in Spiral Order https://t.co/lDElhQtt4u #math #maths
+
+
+---
+
+## 2016-09-04 · Post · Cantor's proof that the rationals are countable visualized with d3js https://t.co/XqpJMQ3Sbt math 
+
+
+### Post — @cmichelio — 2016-09-04 21:28 UTC (2016-09-04 22:28 WAT)
+
+- URL: https://x.com/cmichelio/status/772547026550657024
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> Cantor's proof that the rationals are countable visualized with #d3js https://t.co/XqpJMQ3Sbt #math https://t.co/gYGkhUA7xF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CrijS7jXYAEZUJO.jpg — no alt text provided by author
+
+
+---
+
+## 2016-08-31 · Post · Using ES6 Proxies to implement redux Actions the correct way https://t.co/QDQp5FyCZh react
+
+
+### Post — @cmichelio — 2016-08-31 20:58 UTC (2016-08-31 21:58 WAT)
+
+- URL: https://x.com/cmichelio/status/771089896316559360
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Using ES6 Proxies to implement #redux Actions the correct way https://t.co/QDQp5FyCZh #react
+
+
+---
+
+## 2016-08-29 · Post · Sierpinski Triangle drawn by L-System https://t.co/cwckRIEQGj fractal art gif math https://t.co/
+
+
+### Post — @cmichelio — 2016-08-29 18:38 UTC (2016-08-29 19:38 WAT)
+
+- URL: https://x.com/cmichelio/status/770329761650466816
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Sierpinski Triangle drawn by L-System https://t.co/cwckRIEQGj #fractal #art #gif #math https://t.co/RDklH2cubG
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2016-08-28 · Post · Build your own Fractal with my newest d3js project https://t.co/cwckRIEQGj math svg dataviz htt
+
+
+### Post — @cmichelio — 2016-08-28 16:19 UTC (2016-08-28 17:19 WAT)
+
+- URL: https://x.com/cmichelio/status/769932365296758784
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Build your own #Fractal with my newest #d3js project https://t.co/cwckRIEQGj #math #svg #dataviz https://t.co/zueCuY5buN
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2016-08-21 · Post · Following last week's Hilbert Curve, today a d3js animated Peano Cruve https://t.co/7hJup9JAiv mat
+
+
+### Post — @cmichelio — 2016-08-21 17:20 UTC (2016-08-21 18:20 WAT)
+
+- URL: https://x.com/cmichelio/status/767410973984583680
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Following last week's Hilbert Curve, today a #d3js animated Peano Cruve https://t.co/7hJup9JAiv #math #svg #dataviz https://t.co/YJPOV3UJYd
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CqZj9XxWIAEmBv1.jpg — no alt text provided by author
+
+
+---
+
+## 2016-08-14 · Post · Did a little animation for the Hilbert Curve in d3js https://t.co/sY5SwUxdID math svg dataviz ht
+
+
+### Post — @cmichelio — 2016-08-14 17:07 UTC (2016-08-14 18:07 WAT)
+
+- URL: https://x.com/cmichelio/status/764871097326206977
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Did a little animation for the Hilbert Curve in #d3js https://t.co/sY5SwUxdID #math #svg #dataviz https://t.co/8nX0Zyx59L
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cp1eLuQWEAALJp2.jpg — no alt text provided by author
+
+
+---
+
+## 2016-08-07 · Post · Created a cool animation in d3js to play around w/ Pythagorean Tilings https://t.co/gTEMef8cnn mat
+
+
+### Post — @cmichelio — 2016-08-07 16:29 UTC (2016-08-07 17:29 WAT)
+
+- URL: https://x.com/cmichelio/status/762324692241965057
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> Created a cool animation in #d3js to play around w/ Pythagorean Tilings https://t.co/gTEMef8cnn #math #svg #dataviz https://t.co/Fin6yBoPKv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CpRR9bFWIAQiybO.jpg — no alt text provided by author
+
+
+---
+
+## 2016-07-31 · Post · A math proof drawn with d3js for the sum of cubes https://t.co/0W59ryXqk3 dataviz svg https://t.
+
+
+### Post — @cmichelio — 2016-07-31 15:11 UTC (2016-07-31 16:11 WAT)
+
+- URL: https://x.com/cmichelio/status/759768576274333696
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> A #math proof drawn with #d3js for the sum of cubes https://t.co/0W59ryXqk3 #dataviz #svg https://t.co/h7djJUmRJ7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Cos9a9RXgAAsHDa.jpg — no alt text provided by author

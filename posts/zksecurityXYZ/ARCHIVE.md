@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 121
-- Conversations/threads: 101
-- Oldest post captured: 2026-01-26
+- Posts in this file: 137
+- Conversations/threads: 117
+- Oldest post captured: 2023-07-02
 - Newest post captured: 2026-11-05
 
 
@@ -2091,3 +2091,312 @@ Tags (automatic): ZK, AI-assisted hunting
 > Github: https://github.com/zksecurity/simple-rbr-fri
 
 **Links in post:** https://github.com/zksecurity/simple-rbr-fri
+
+
+---
+
+## 2025-11-17 · Post · grab an audit https://t.co/isGBmzLiLR
+
+
+### Post — @zksecurityXYZ — 2025-11-17 18:15 UTC (2025-11-17 19:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1990483988918775943
+- Metrics (at fetch): bookmark 0, impression 777, like 4, quote 0, reply 0, retweet 1
+
+> grab an audit https://t.co/isGBmzLiLR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5-W5ZdXIAAk6-u.jpg — no alt text provided by author
+
+
+---
+
+## 2025-10-14 · Post · if you're reading this, it most likely is because you're interested in zero-knowledge proofs, crypto
+
+
+### Post — @zksecurityXYZ — 2025-10-14 22:30 UTC (2025-10-14 23:30 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1978226931435700512
+- Metrics (at fetch): bookmark 12, impression 4837, like 118, quote 0, reply 7, retweet 2
+
+> if you're reading this, it most likely is because you're interested in zero-knowledge proofs, cryptography, security, and even might need an audit (or know someone who does) in that space!
+
+
+---
+
+## 2025-07-22 · Post · We reported this bug to a number of projects (including semaphore) after finding it with our interna
+
+
+Tags (automatic): ZK, AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2025-07-22 12:55 UTC (2025-07-22 13:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1947641591327236590
+- Metrics (at fetch): bookmark 15, impression 5682, like 49, quote 1, reply 2, retweet 11
+
+> We reported this bug to a number of projects (including semaphore) after finding it with our internal AI tooling (SnarkSentinel). The bug would have allowed proving that arbitrary leaves were part of a Merkle tree! Read more about how SnarkSentinel helps us find bugs 👇🏼 https://t.co/DJT56TbG4p
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1409820375706394628 — 2025-07-21 21:23 UTC (2025-07-21 22:23 WAT)
+    
+    - URL: https://x.com/1409820375706394628/status/1947407025694249302
+    - Metrics (at fetch): bookmark 25, impression 18110, like 117, quote 8, reply 10, retweet 22
+    
+    > Public Announcement: 
+    >
+    > 🚨 A bug was found in the BinaryMerkleRoot circuit in ZK-Kit. It allowed invalid Merkle tree leaves to generate valid ZK proofs.  
+    >
+    > This has been fixed in v2.0.0 of BinaryMerkleRoot.  
+    >
+    > @SemaphoreDevs v4, which relies on this circuit, is being updated
+    
+
+
+---
+
+## 2025-07-11 · Post · 🧵 Over the last few months, we’ve published a range of blog posts exploring the technical challenges
+
+
+Tags (automatic): ZK, AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693366861893967
+- Metrics (at fetch): bookmark 11, impression 2128, like 33, quote 0, reply 2, retweet 7
+
+> 🧵 Over the last few months, we’ve published a range of blog posts exploring the technical challenges and ideas shaping zero-knowledge proofs, cryptography, and security. This thread rounds up the latest, from finding bugs using AI to post-quantum SNARKs 👇
+
+
+---
+
+## 2025-07-09 · Post · We recently discovered a subtle but important soundness issue in Halo2, which we’ve named the query 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-07-09 19:18 UTC (2025-07-09 20:18 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943027043366564147
+- Metrics (at fetch): bookmark 16, impression 4980, like 55, quote 1, reply 2, retweet 14
+
+> We recently discovered a subtle but important soundness issue in Halo2, which we’ve named the query collision bug. It affects certain edge-case circuits and was present in widely used versions, including the main Zcash implementation and PSE’s fork. 👇🏼 https://t.co/MBI58L7lRW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvcEsUFWsAAc_zq.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-03 · Post · Bug Hunt: Zero-Knowledge, Full-Paranoia, and the AI That Stares Back
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2025-07-03 18:03 UTC (2025-07-03 19:03 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1940833682375532586
+- Metrics (at fetch): bookmark 14, impression 5871, like 33, quote 1, reply 0, retweet 11
+
+> Bug Hunt: Zero-Knowledge, Full-Paranoia, and the AI That Stares Back
+> https://t.co/Bimbis4q6J https://t.co/I1Znz9dONb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gu8519rWUAEnNlC.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-26 · Post · Uncovering the Phantom Challenge Soundness Bug in Solana's ZK ElGamal Proof Program
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @zksecurityXYZ — 2025-06-26 16:25 UTC (2025-06-26 17:25 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1938272525852807287
+- Metrics (at fetch): bookmark 13, impression 3931, like 42, quote 3, reply 1, retweet 10
+
+> Uncovering the Phantom Challenge Soundness Bug in Solana's ZK ElGamal Proof Program
+> https://t.co/pO3X1hp0XA https://t.co/4NxMSu4uks
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GuYgZZJWsAAB9rF.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-01 · Post · Optimizing Barrett Reduction: Tighter Bounds Eliminate Redundant Subtractions.
+
+
+### Post — @zksecurityXYZ — 2025-05-01 18:14 UTC (2025-05-01 19:14 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1918006056602546201
+- Metrics (at fetch): bookmark 8, impression 4261, like 28, quote 2, reply 0, retweet 5
+
+> Optimizing Barrett Reduction: Tighter Bounds Eliminate Redundant Subtractions.
+>
+> Read more on how we helped optimize P-256 as a side effect of our latest audit. https://t.co/8UV7Fj872n https://t.co/GoJafLt1hs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gp4fBUYXYAAUGsv.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-25 · Post · check our collab' with archetype on the latest theoretical (or practical?) attack on Fiat-Shamir and
+
+
+### Post — @zksecurityXYZ — 2025-02-25 19:02 UTC (2025-02-25 20:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1894462928083960209
+- Metrics (at fetch): bookmark 4, impression 1082, like 9, quote 0, reply 0, retweet 6
+
+> check our collab' with archetype on the latest theoretical (or practical?) attack on Fiat-Shamir and GKR https://t.co/CQOQfTol4Q
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1457801460666744835 — 2025-02-25 16:21 UTC (2025-02-25 17:21 WAT)
+    
+    - URL: https://x.com/1457801460666744835/status/1894422368908357783
+    - Metrics (at fetch): bookmark 21, impression 6052, like 20, quote 3, reply 1, retweet 8
+    
+    > For Session 03 of Proof is in the Pudding, @cryptodavidw breaks down a recent paper on Fiat-Shamir, GKR, and how to prove false statements (paper linked below)
+    >
+    > Timestamps:
+    > 0:00 Intro
+    > 2:50 Fiat-Shamir
+    > 4:47 Interpolation
+    > 8:40 Sumcheck
+    > 20:57 GKR
+    > 35:53 The Attack
+    > 49:29 Conclusion https://t.co/b6yZFcNtMY
+    
+    **Media:**
+    - media `13_1894412702576975872` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-19 · Post · Another great step in our collaboration with Aleo! We found a 0day in November last year and worked 
+
+
+### Post — @zksecurityXYZ — 2025-02-19 14:49 UTC (2025-02-19 15:49 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1892224903174070290
+- Metrics (at fetch): bookmark 14, impression 6259, like 46, quote 3, reply 4, retweet 10
+
+> Another great step in our collaboration with Aleo! We found a 0day in November last year and worked hand in hand to ensure it was fixed before any exploit could happen. Link 👇 https://t.co/TM4fo2ZNtt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkKH7DUWQAAmS4u.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-03 · Post · what do you think what the zk bug of the year 2024?
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-03 17:26 UTC (2025-02-03 18:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1886466379559088261
+- Metrics (at fetch): bookmark 0, impression 600, like 1, quote 0, reply 1, retweet 0
+
+> what do you think what the zk bug of the year 2024?
+
+
+---
+
+## 2024-11-18 · Post · we got tired of people asking us if we could audit halo2, now we wrote the damn book on writing halo
+
+
+### Post — @zksecurityXYZ — 2024-11-18 08:43 UTC (2024-11-18 09:43 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1858430860975829455
+- Metrics (at fetch): bookmark 26, impression 7633, like 63, quote 2, reply 1, retweet 6
+
+> we got tired of people asking us if we could audit halo2, now we wrote the damn book on writing halo2! https://t.co/7FI1jwlnRY
+
+
+---
+
+## 2024-10-07 · Post · What? You can read some of our audit reports on https://t.co/2Y6pT8Bm6d ? Wow! I did not know that! 
+
+
+### Post — @zksecurityXYZ — 2024-10-07 12:47 UTC (2024-10-07 13:47 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1843271898597315015
+- Metrics (at fetch): bookmark 4, impression 614, like 4, quote 0, reply 0, retweet 0
+
+> What? You can read some of our audit reports on https://t.co/2Y6pT8Bm6d ? Wow! I did not know that! (or did I?)
+
+
+---
+
+## 2023-10-09 · Post · We just audited Silent Protocol's smart contracts and circuits in two audit phases that spanned seve
+
+
+Tags (automatic): Smart contract / DeFi, ZK
+
+
+### Post — @zksecurityXYZ — 2023-10-09 15:45 UTC (2023-10-09 16:45 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1711407579359072555
+- Metrics (at fetch): bookmark 2, impression 6586, like 22, quote 1, reply 0, retweet 5
+
+> We just audited Silent Protocol's smart contracts and circuits in two audit phases that spanned several months. The public reports will be published soon. These audits were important steps towards ensuring the security of the project. We're excited to see the launch! https://t.co/zCVUGRVW2X
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1482740529494630403 — 2023-10-09 14:53 UTC (2023-10-09 15:53 WAT)
+    
+    - URL: https://x.com/1482740529494630403/status/1711394339329548383
+    - Metrics (at fetch): bookmark 1, impression 21693, like 42, quote 2, reply 10, retweet 19
+    
+    > Silent x @zksecurityXYZ https://t.co/dpdxnBuRv5
+    
+    **Media:**
+    - media `3_1711393313604173824` (details not returned by the API)
+    
+
+
+---
+
+## 2023-08-24 · Post · Public report of Penumbra circuits audit https://t.co/vV0NGNsdQg
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-08-24 18:50 UTC (2023-08-24 19:50 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1694784202968027170
+- Metrics (at fetch): bookmark 18, impression 19798, like 75, quote 4, reply 3, retweet 10
+
+> Public report of Penumbra circuits audit https://t.co/vV0NGNsdQg
+
+
+---
+
+## 2023-07-02 · Post · The zero-knowledge attack of the year might just have happened, or how Nova got broken 
+
+
+### Post — @zksecurityXYZ — 2023-07-02 19:28 UTC (2023-07-02 20:28 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1675587380982730753
+- Metrics (at fetch): bookmark 194, impression 135182, like 422, quote 24, reply 7, retweet 88
+
+> The zero-knowledge attack of the year might just have happened, or how Nova got broken 
+> https://t.co/9i2HX9z0Or https://t.co/Xp6DzfrLPg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0Dh0BFakAEeQBa.jpg — no alt text provided by author

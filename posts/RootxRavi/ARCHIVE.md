@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 27
-- Conversations/threads: 27
-- Oldest post captured: 2026-05-07
+- Posts in this file: 30
+- Conversations/threads: 30
+- Oldest post captured: 2025-04-09
 - Newest post captured: 2026-10-31
 
 
@@ -348,6 +348,19 @@ Tags (automatic): Platform: Bugcrowd
 Tags (automatic): Platform: Bugcrowd
 
 
+**Context — post being replied to:**
+
+#### Parent post — @krishnsec — 2026-08-04 13:28 UTC (2026-08-04 14:28 WAT)
+
+- URL: https://x.com/krishnsec/status/2084632582151602681
+- Metrics (at fetch): bookmark 5, impression 6162, like 215, quote 0, reply 13, retweet 3
+
+> Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HO4aSFabkAAyez5.jpg — no alt text provided by author
+
+
 ### Post — @RootxRavi — 2026-08-04 13:37 UTC (2026-08-04 14:37 WAT)
 
 - URL: https://x.com/RootxRavi/status/2084634922493641126
@@ -381,6 +394,19 @@ Tags (automatic): Platform: Bugcrowd
 
 
 Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @krishnsec — 2026-07-08 13:59 UTC (2026-07-08 14:59 WAT)
+
+- URL: https://x.com/krishnsec/status/2074855923466797181
+- Metrics (at fetch): bookmark 4, impression 5456, like 174, quote 0, reply 11, retweet 0
+
+> Crossed 16K reputation on @Bugcrowd ✅ https://t.co/3cuHEMc2CJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMtedqSacAAYAUS.jpg — no alt text provided by author
 
 
 ### Post — @RootxRavi — 2026-07-08 14:57 UTC (2026-07-08 15:57 WAT)
@@ -451,6 +477,19 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
 
 
 Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @krishnsec — 2026-06-07 11:04 UTC (2026-06-07 12:04 WAT)
+
+- URL: https://x.com/krishnsec/status/2063577840692629691
+- Metrics (at fetch): bookmark 9, impression 8872, like 270, quote 0, reply 14, retweet 0
+
+> Crossed 15K reputation on @Bugcrowd ✅ https://t.co/ACGVGvEcL1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKNNGxCawAABWUp.jpg — no alt text provided by author
 
 
 ### Post — @RootxRavi — 2026-06-07 11:09 UTC (2026-06-07 12:09 WAT)
@@ -525,3 +564,74 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 10, impression 3499, like 128, quote 0, reply 4, retweet 0
 
 > I earned $4,100 for my submission on @bugcrowd #ItTakesACrowd
+
+
+---
+
+## 2025-06-28 · Post · I earned $4,354 for my submissions on
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2025-06-28 16:30 UTC (2025-06-28 17:30 WAT)
+
+- URL: https://x.com/RootxRavi/status/1938998526605709547
+- Metrics (at fetch): not returned
+
+> I earned $4,354 for my submissions on
+> @bugcrowd
+> https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2025-04-17 · Post · I earned $2500 + $800 for my submission on 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2025-04-17 11:04 UTC (2025-04-17 12:04 WAT)
+
+- URL: https://x.com/RootxRavi/status/1912824409972506946
+- Metrics (at fetch): not returned
+
+> I earned $2500 + $800 for my submission on 
+> @Bugcrowd  https://bugcrowd.com/RootxRavi
+>
+> #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/RootxRavi
+
+
+---
+
+## 2025-04-09 · Post · Here are a few tips that helped me (and others) when starting out on platforms like @Hacker0x01 and 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2025-04-09 09:54 UTC (2025-04-09 10:54 WAT)
+
+- URL: https://x.com/RootxRavi/status/1909907730250313875
+- Metrics (at fetch): not returned
+
+> Here are a few tips that helped me (and others) when starting out on platforms like @Hacker0x01 and @Bugcrowd :
+>
+> Start with public programs that offer clear scopes and don’t have a lot of duplicates. Read their policy thoroughly.
+>
+> Focus on low-hanging bugs like IDORs, authentication issues, or misconfigurations   they’re common and great for learning.
+>
+> Take time to understand recon  finding hidden endpoints or subdomains is gold.
+>
+> Read disclosed reports; they’re a goldmine for learning real-world attack patterns.
+>
+> Document everything you do  it helps with reporting and learning.
+>
+> Be patient! It takes time to get your first valid report, but every step teaches you something valuable.
+>
+> #bugbountytips #security #bugcrowd

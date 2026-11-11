@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 82
-- Conversations/threads: 69
-- Oldest post captured: 2024-06-02
+- Posts in this file: 93
+- Conversations/threads: 80
+- Oldest post captured: 2023-08-08
 - Newest post captured: 2026-11-11
 
 
@@ -1416,3 +1416,224 @@ Tags (automatic): SQL injection
 - Metrics (at fetch): bookmark 0, impression 69, like 0, quote 0, reply 0, retweet 0
 
 > @ManasH4rsh please dm me bhaiya wants your  help in SQL injection.
+
+
+---
+
+## 2024-04-30 · Post · I earned $500 for my submission on
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-04-30 14:40 UTC (2024-04-30 15:40 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1785318208838471724
+- Metrics (at fetch): not returned
+
+> I earned $500 for my submission on
+> Thanks @RootxRavi for all your help and support 🫂
+>  @bugcrowd https://bugcrowd.com/suyash_technorat #ItTakesACrowd
+> #BugBounty #bugcrowd [pic.x.com/dVO2HfgA7t]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMa5cfGaoAAq2zt.jpg — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/suyash_technorat
+
+
+---
+
+## 2024-03-18 · Post · Small bounties Motivates me to hack more.
+
+
+Tags (automatic): Auth bypass, OAuth
+
+
+### Post — @SuyashS91823422 — 2024-03-18 06:52 UTC (2024-03-18 07:52 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1769617846366269627
+- Metrics (at fetch): not returned
+
+> Small bounties Motivates me to hack more.
+> Happy to Secure 😎🔐
+> Bug type- P1 Oauth bypass leads Portal access
+> Tip- try to find 3 level domains more 
+> #bugbountytips #BugBounty #bugbounty #CyberSec [pic.x.com/u4zq7MhI5e]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GI7yDYbbQAAVZnH.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-17 · Post · It feels amazing when you find valid bug in Public program😎😎
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-03-17 15:51 UTC (2024-03-17 16:51 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1769391098450104502
+- Metrics (at fetch): not returned
+
+> It feels amazing when you find valid bug in Public program😎😎
+> Bug type- P3 Information Disclosure
+> Tip- Try to find more and more 3 level subdomains. @Bugcrowd
+> #BugBounty #bugbounty #bugbountytips [pic.x.com/hoKuRbryx8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GI4j0rNXoAAsW-L.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GI4j0vBW0AA9GM9.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-13 · Post · Hello @Cloudbet I have found a critical vulnerability in your web application may I know any updates
+
+
+### Post — @SuyashS91823422 — 2024-03-13 06:42 UTC (2024-03-13 07:42 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1767803403227279859
+- Metrics (at fetch): not returned
+
+> Hello @Cloudbet I have found a critical vulnerability in your web application may I know any updates on that please waiting for so long..
+
+
+---
+
+## 2024-01-30 · Post · It hurts when P1 gets duplicated 💔
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-01-30 14:18 UTC (2024-01-30 15:18 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1752335426239725614
+- Metrics (at fetch): not returned
+
+> It hurts when P1 gets duplicated 💔
+> Happy to secure 😎😎
+> #bugcrowd #bugbountytip #bugbounty [pic.x.com/RLjtsbgGiE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFGLyIGasAAs2ZZ.jpg — no alt text provided by author
+
+
+---
+
+## 2024-01-26 · Post · Happy to secure 😎😎
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-01-26 14:40 UTC (2024-01-26 15:40 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1750891419966087181
+- Metrics (at fetch): not returned
+
+> Happy to secure 😎😎
+> One more Accepted on bugcrowd
+> Many more to come 💪
+> Tip- Fuzz on old looking subdomains 
+> #BugBounty #infosecurity 
+> #bugbountytip [pic.x.com/3zxAjYtjLK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GExqcrpa4AAwurI.jpg — no alt text provided by author
+
+
+---
+
+## 2024-01-25 · Post · Happy to secure @CocaCola 😎😎
+
+
+### Post — @SuyashS91823422 — 2024-01-25 03:27 UTC (2024-01-25 04:27 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1750359715023143411
+- Metrics (at fetch): not returned
+
+> Happy to secure @CocaCola 😎😎
+> Bug: Information Disclosure
+> Thanks for your tips @krishnsec 
+> #bugbountytip #bugbounty #HackWithIntigriti [pic.x.com/CpAQKz7pCR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEqG4aSbUAAHraL.jpg — no alt text provided by author
+
+
+---
+
+## 2024-01-06 · Post · Hello @bug_vs_me need help in bypassing cloudflare xss [pic.x.com/kFUsiYxnSb]
+
+
+Tags (automatic): XSS
+
+
+### Post — @SuyashS91823422 — 2024-01-06 15:12 UTC (2024-01-06 16:12 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1743651690128036245
+- Metrics (at fetch): not returned
+
+> Hello @bug_vs_me need help in bypassing cloudflare xss [pic.x.com/kFUsiYxnSb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDKx9o8a4AAJ0bf.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-24 · Post · Hello @nav1n0x @GodfatherOrwa @3ncryptSaan @krishnsec 
+
+
+### Post — @SuyashS91823422 — 2023-12-24 06:38 UTC (2023-12-24 07:38 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1738811457343734153
+- Metrics (at fetch): not returned
+
+> Hello @nav1n0x @GodfatherOrwa @3ncryptSaan @krishnsec 
+> When I do crawl and audit in burpsuite scanner my burpsuite get's crashed all the time .
+> May I know any solution for this issues please ☺️
+> Happy hunting 😎
+
+
+---
+
+## 2023-11-17 · Post · Happy bounty 💲💲 Happy to secure
+
+
+### Post — @SuyashS91823422 — 2023-11-17 11:47 UTC (2023-11-17 12:47 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1725480816514646096
+- Metrics (at fetch): not returned
+
+> Happy bounty 💲💲 Happy to secure
+> @3ncryptSaan @GodfatherOrwa @krishnsec @theXSSrat 
+> Tip- Use Paramspider to get parameters
+> #infosecurity 
+> #bugbountytip [pic.x.com/7noM2OYABU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F_Ijp6TacAA5YXE.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-08 · Post · Happy to Secure 😎 With Happy Bounty 😎🤑💰📈
+
+
+### Post — @SuyashS91823422 — 2023-08-08 12:32 UTC (2023-08-08 13:32 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1688891025534951424
+- Metrics (at fetch): not returned
+
+> Happy to Secure 😎 With Happy Bounty 😎🤑💰📈
+> Bug- Log4j
+> @3ncryptSaan @ADITYASHENDE17 
+> @GodfatherOrwa @theXSSrat @NahamSec @IamRenganathan [pic.x.com/wi408Y56nv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3AlbzuagAA81sV.jpg — no alt text provided by author

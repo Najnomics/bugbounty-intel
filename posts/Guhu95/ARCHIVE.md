@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 30
-- Conversations/threads: 27
-- Oldest post captured: 2025-05-01
+- Posts in this file: 54
+- Conversations/threads: 51
+- Oldest post captured: 2024-01-18
 - Newest post captured: 2026-03-12
 
 
@@ -145,7 +145,22 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     
     **Links in post:** https://twitter.com/Guhu95/status/1904360201597387131
     
-    **Quoted post** 1904360201597387131: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @Guhu95 — 2025-03-25 02:30 UTC (2025-03-25 03:30 WAT)
+        
+        - URL: https://x.com/Guhu95/status/1904360201597387131
+        - Metrics (at fetch): bookmark 7, impression 11285, like 47, quote 2, reply 5, retweet 0
+        
+        > Some Pectra contest thoughts:
+        >
+        > The Good:
+        > - Client diversity is an ETH superpower. Always liked it, but now 10x more.
+        > - Testing sophistication is unbelievable. Beyond each client's tests, and the testnets, there are independent external tests (in python), a tool to run devnets https://t.co/Vyw5DtmBCS
+        
+        **Media:**
+        - animated_gif:  — no alt text provided by author
+        
     
 
 
@@ -228,7 +243,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Links in post:** https://twitter.com/Guhu95/status/1904360201597387131
 
-**Quoted post** 1904360201597387131: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @Guhu95 — 2025-03-25 02:30 UTC (2025-03-25 03:30 WAT)
+    
+    - URL: https://x.com/Guhu95/status/1904360201597387131
+    - Metrics (at fetch): bookmark 7, impression 11285, like 47, quote 2, reply 5, retweet 0
+    
+    > Some Pectra contest thoughts:
+    >
+    > The Good:
+    > - Client diversity is an ETH superpower. Always liked it, but now 10x more.
+    > - Testing sophistication is unbelievable. Beyond each client's tests, and the testnets, there are independent external tests (in python), a tool to run devnets https://t.co/Vyw5DtmBCS
+    
+    **Media:**
+    - animated_gif:  — no alt text provided by author
+    
 
 
 ---
@@ -865,4 +895,829 @@ Tags (automatic): Smart contract / DeFi
 > - https://t.co/7LjPpRdsqh
 
 **Media:**
-- animated_gif: https://pbs.twimg.com/tweet_video_thumb/Gp15l6lawAA4EJF.jpg — no alt text provided by author
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2025-03-25 · Post · Some Pectra contest thoughts:
+
+
+### Post — @Guhu95 — 2025-03-25 02:30 UTC (2025-03-25 03:30 WAT)
+
+- URL: https://x.com/Guhu95/status/1904360201597387131
+- Metrics (at fetch): bookmark 7, impression 11285, like 47, quote 2, reply 5, retweet 0
+
+> Some Pectra contest thoughts:
+>
+> The Good:
+> - Client diversity is an ETH superpower. Always liked it, but now 10x more.
+> - Testing sophistication is unbelievable. Beyond each client's tests, and the testnets, there are independent external tests (in python), a tool to run devnets https://t.co/Vyw5DtmBCS
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2024-12-01 · Post · Whoa. @immunefi showing the way!
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2024-12-01 01:48 UTC (2024-12-01 02:48 WAT)
+
+- URL: https://x.com/Guhu95/status/1863037506910146579
+- Metrics (at fetch): bookmark 0, impression 4770, like 49, quote 2, reply 1, retweet 3
+
+> Whoa. @immunefi showing the way!
+>
+> 🏆 Record broken: first platform to advertize pot ranges for conditionals.
+>
+> Because good marketing fosters trust, and not just FOMO. https://t.co/37m3hWTKvO https://t.co/yVPuvcdDQ8
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2024-11-29 20:35 UTC (2024-11-29 21:35 WAT)
+    
+    - URL: https://x.com/immunefi/status/1862596294986092595
+    - Metrics (at fetch): bookmark 5, impression 6755, like 37, quote 2, reply 2, retweet 7
+    
+    > 💰 $1.81 Million in rewards available - Where will you be hunting?
+    > (🔗 scope details &amp; links below) https://t.co/aFC8pTfjti
+    
+    **Media:**
+    - media `3_1862593556256292866` (details not returned by the API)
+    
+
+
+---
+
+## 2024-11-28 · Post · How conditionals are going. An update. 
+
+
+### Post — @Guhu95 — 2024-11-28 06:33 UTC (2024-11-28 07:33 WAT)
+
+- URL: https://x.com/Guhu95/status/1862021970256379908
+- Metrics (at fetch): bookmark 55, impression 39586, like 236, quote 15, reply 20, retweet 21
+
+> How conditionals are going. An update. 
+>
+> This is mostly a warning for future participants. Know what to expect, and adjust your EV calc. Below are several case studies and "records".
+>
+> ### 1. Uniswap
+> - Hyped up as largest ever contest of 2.35M, paid only 12% of the hype (300k)
+> - https://t.co/ugZ57P9Tqn https://t.co/sWMMYBjkU0
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
+    
+    - URL: https://x.com/Guhu95/status/1808855240449667162
+    - Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+    
+    > [High] Conditional contest pots are bad and stupid. 
+    >
+    > Problem is that skilled participation is low because of low EV.
+    >
+    > ## POC - Euler at @cantinaxyz
+    >
+    > 1. A lot of prior audits, with few findings. Even 50% of no new high means the contest EV is now 670K instead of 1.15M. But wait.. https://t.co/y927YpIo3s
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+        
+        - URL: https://x.com/1622629804791955458/status/1770828360471507068
+        - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
+        
+        > Welcome... to the new largest competition in history with @eulerfinance!
+        >
+        > 💰 $1,250,000 USDC
+        > 🗓️ May 20th - June 17th
+        > 📍 @cantinaxyz 
+        >
+        > Invite only. Don't have one? Details below: [pic.x.com/M1MtDE7XKj]
+        
+        **Media:**
+        - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GJM-xJIXEAAKrdp.jpg — no alt text provided by author
+        
+    
+
+
+---
+
+## 2024-11-13 · Post · I propose that anyone should be able to retract their report from @immunefi in exchange for forfeiti
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2024-11-13 00:02 UTC (2024-11-13 01:02 WAT)
+
+- URL: https://x.com/Guhu95/status/1856487726402658369
+- Metrics (at fetch): bookmark 4, impression 5576, like 56, quote 1, reply 4, retweet 1
+
+> I propose that anyone should be able to retract their report from @immunefi in exchange for forfeiting their proposed bounty. 
+>
+> It makes 0 sense for the industry or Immunefi that someone (and his intellectual property) can be "hushed" forever by a "closed report". 
+>
+> If you force https://t.co/qia4ZIth9T
+
+**Quoted post (full text):**
+
+    #### Quoted post — @610701963 — 2024-11-12 15:22 UTC (2024-11-12 16:22 WAT)
+    
+    - URL: https://x.com/610701963/status/1856356982766063847
+    - Metrics (at fetch): bookmark 57, impression 47845, like 287, quote 6, reply 21, retweet 50
+    
+    > Recently the bounty team at TrustSec found another critical leading to live unauthenticated theft of funds. Due to what we consider malicious behavior of the project and especially of @immunefi , not only did the project get away without paying the bounty, but due to a dirty
+    
+
+
+---
+
+## 2024-10-22 · Post · Main root cause to fix is not 3 signers IMO.
+
+
+### Post — @Guhu95 — 2024-10-22 03:18 UTC (2024-10-22 04:18 WAT)
+
+- URL: https://x.com/Guhu95/status/1848564637337588056
+- Metrics (at fetch): bookmark 4, impression 3208, like 6, quote 0, reply 4, retweet 0
+
+> Main root cause to fix is not 3 signers IMO.
+>
+> It is instead Safe's default design of allowing anyone to call execTransaction.
+>
+> This is why attackers could collect sigs undetected for maybe weeks, and then submitted them all at once only when they had enough.
+>
+> Yes, 3 signers is https://t.co/vbxBMJt9D4
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2024-10-17 21:15 UTC (2024-10-17 22:15 WAT)
+    
+    - URL: https://x.com/5678/status/1847023591117795708
+    - Metrics (at fetch): bookmark 714, impression 764458, like 1304, quote 179, reply 97, retweet 289
+    
+    > Yesterday's sophisticated 50 million Radiant Capital hack happened after attacker's trojaned the computers of multiple team members.
+    >
+    > Team members saw and verified good multisig data on screens, but their hardware wallets signed evil data. 1/7 https://t.co/zE7Hk0zN22
+    
+    **Media:**
+    - media `3_1847023472100208640` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-06 · Post · Audits for Uni V4 published: https://t.co/W5jQL5CH70 :
+
+
+### Post — @Guhu95 — 2024-09-06 06:37 UTC (2024-09-06 07:37 WAT)
+
+- URL: https://x.com/Guhu95/status/1831944784203935970
+- Metrics (at fetch): bookmark 19, impression 4262, like 30, quote 0, reply 1, retweet 1
+
+> Audits for Uni V4 published: https://t.co/W5jQL5CH70 :
+>
+> - ABDK with a lot of nice assembly findings and this slapper from a clearly unimpressed auditor: "Such technic looks like a dirty hack." 
+>
+> - OZ with a neat Critical for some weird chains.
+>
+> - Formal verification found one https://t.co/uu0LomC1n1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1622629804791955458 — 2024-08-22 14:01 UTC (2024-08-22 15:01 WAT)
+    
+    - URL: https://x.com/1622629804791955458/status/1826620693657858173
+    - Metrics (at fetch): bookmark 9, impression 57744, like 57, quote 9, reply 7, retweet 9
+    
+    > ATTENTION: ​Calling all Security Researchers 🪐
+    >
+    > Cantina, @Uniswap, and @UniswapFND will be hosting a HackerHouse for the massive $2.35M Uniswap v4 competition on @cantinaxyz.
+    >
+    > Full access to Uniswap's team. All meals provided. No costs. Just show up.
+    >
+    > Seats Limited. RSVP Below: https://t.co/hWiqDlSr0v
+    
+    **Media:**
+    - media `3_1826620688905764869` (details not returned by the API)
+    
+
+
+---
+
+## 2024-08-26 · Post · Say NO to EOF. It is a shit-tornado that will cripple ETH and the EVM ecosystem.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @Guhu95 — 2024-08-26 02:01 UTC (2024-08-26 03:01 WAT)
+
+- URL: https://x.com/Guhu95/status/1827889143386460488
+- Metrics (at fetch): bookmark 5, impression 1627, like 10, quote 1, reply 2, retweet 0
+
+> Say NO to EOF. It is a shit-tornado that will cripple ETH and the EVM ecosystem.
+>
+> Short version
+> - Look at this hideous monstrosity https://t.co/FyNzdsy4tk! Imagine having to develop and audit on that minefield.
+> - Who the F thinks that having two EVMs on the same chain is a good https://t.co/LlMqzEkD3H
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2024-08-08 · Post · An alternative model to contests. For contest platforms @sockdrawermoney @cantinaxyz @0xMackenzieM @
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Guhu95 — 2024-08-08 01:56 UTC (2024-08-08 02:56 WAT)
+
+- URL: https://x.com/Guhu95/status/1821364761252040903
+- Metrics (at fetch): bookmark 8, impression 5033, like 9, quote 0, reply 4, retweet 2
+
+> An alternative model to contests. For contest platforms @sockdrawermoney @cantinaxyz @0xMackenzieM @sherlockdefi 
+>
+> Problems with contests: Some bad for projects due to low participation. Some bad for SRs due to over crowding. Projects and SRs are worried and unhappy. Judging is https://t.co/dI0k6wSlG0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736235680603492352 — 2024-07-30 12:53 UTC (2024-07-30 13:53 WAT)
+    
+    - URL: https://x.com/736235680603492352/status/1818268760257474985
+    - Metrics (at fetch): bookmark 22, impression 17639, like 70, quote 4, reply 18, retweet 6
+    
+    > I'm currently facing one of our biggest dilemma yet (bcoz in startups, treasury &gt;&gt; all problems).
+    >
+    > Context: There'll be a competitive audit in 2024 (yet to be announced) for @KakarotZkEvm 's core EVM implementation.
+    > We're extremely ambitious in wanting to prove all EVM execution, https://t.co/OLLbvXiAfN
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
+        
+        - URL: https://x.com/Guhu95/status/1808855240449667162
+        - Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+        
+        > [High] Conditional contest pots are bad and stupid. 
+        >
+        > Problem is that skilled participation is low because of low EV.
+        >
+        > ## POC - Euler at @cantinaxyz
+        >
+        > 1. A lot of prior audits, with few findings. Even 50% of no new high means the contest EV is now 670K instead of 1.15M. But wait.. https://t.co/y927YpIo3s
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+            
+            - URL: https://x.com/1622629804791955458/status/1770828360471507068
+            - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
+            
+            > Welcome... to the new largest competition in history with @eulerfinance!
+            >
+            > 💰 $1,250,000 USDC
+            > 🗓️ May 20th - June 17th
+            > 📍 @cantinaxyz 
+            >
+            > Invite only. Don't have one? Details below: [pic.x.com/M1MtDE7XKj]
+            
+            **Media:**
+            - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GJM-xJIXEAAKrdp.jpg — no alt text provided by author
+            
+        
+    
+
+
+---
+
+## 2024-07-16 · Post · What technical work pays best in crypto? Maker's budget's take:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @Guhu95 — 2024-07-16 00:22 UTC (2024-07-16 01:22 WAT)
+
+- URL: https://x.com/Guhu95/status/1813006165510660611
+- Metrics (at fetch): bookmark 10, impression 6405, like 34, quote 0, reply 2, retweet 1
+
+> What technical work pays best in crypto? Maker's budget's take:
+>
+> 1. Protocol dev: 9M
+>
+> 2. Front-end dev: 5M
+>
+> 3. Audits: 1.7M
+>
+> 4. Bug bounty: 90K 😬
+>
+> But also .. AI: 740K 🙈 https://t.co/kjOkm75HEf
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1373304198448709632 — 2024-07-15 19:54 UTC (2024-07-15 20:54 WAT)
+    
+    - URL: https://x.com/1373304198448709632/status/1812938853835313461
+    - Metrics (at fetch): bookmark 56, impression 32115, like 208, quote 3, reply 21, retweet 11
+    
+    > breakdown of the 41m costs maker spent in operations over the last year https://t.co/3r2ggZvoQJ
+    
+    **Media:**
+    - media `3_1812938545931120641` (details not returned by the API)
+    
+
+
+---
+
+## 2024-07-04 · Post · [High] Conditional contest pots are bad and stupid. 
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
+
+- URL: https://x.com/Guhu95/status/1808855240449667162
+- Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+
+> [High] Conditional contest pots are bad and stupid. 
+>
+> Problem is that skilled participation is low because of low EV.
+>
+> ## POC - Euler at @cantinaxyz
+>
+> 1. A lot of prior audits, with few findings. Even 50% of no new high means the contest EV is now 670K instead of 1.15M. But wait.. https://t.co/y927YpIo3s
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    
+    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
+    
+    > Welcome... to the new largest competition in history with @eulerfinance!
+    >
+    > 💰 $1,250,000 USDC
+    > 🗓️ May 20th - June 17th
+    > 📍 @cantinaxyz 
+    >
+    > Invite only. Don't have one? Details below: [pic.x.com/M1MtDE7XKj]
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GJM-xJIXEAAKrdp.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2024-06-07 · Post · Security platforms as chains (a 💩-post):
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Guhu95 — 2024-06-07 03:03 UTC (2024-06-07 04:03 WAT)
+
+- URL: https://x.com/Guhu95/status/1798913703540396406
+- Metrics (at fetch): bookmark 11, impression 6226, like 50, quote 1, reply 3, retweet 1
+
+> Security platforms as chains (a 💩-post):
+>
+> @code4rena  = ETH: the benchmark, forked a lot, early mover advantage, idealistic and open, congested, complex, dark forest, just hums along generating huge value.
+>
+> @sherlockdefi  = BSC: an old fork, pretty centralized, too many hacks to https://t.co/KIec4eUMXa https://t.co/SKPjAsMQW7
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1357162894798909441 — 2024-06-06 09:08 UTC (2024-06-06 10:08 WAT)
+    
+    - URL: https://x.com/1357162894798909441/status/1798643063172313554
+    - Metrics (at fetch): bookmark 39, impression 24388, like 94, quote 8, reply 6, retweet 8
+    
+    > @TheWavexyz @0xMackenzieM @0xnirlin @jack__sanford I’d prefer not to spend any energy debating this as I see no merit in it and the extremely narrow audience can make up their own minds, but I can fast forward it.
+    >
+    > I can point to evidence that LSW alters competition incentives without even  guaranteeing meaningful participation;
+    
+
+
+---
+
+## 2024-06-06 · Post · Some takeaways from the Blast contest: 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @Guhu95 — 2024-06-06 02:06 UTC (2024-06-06 03:06 WAT)
+
+- URL: https://x.com/Guhu95/status/1798537026620510717
+- Metrics (at fetch): bookmark 37, impression 7825, like 86, quote 2, reply 12, retweet 1
+
+> Some takeaways from the Blast contest: 
+>
+> 1. "No edge" is ok. Had no prior edge in: Geth, Bedrock, Lido, Maker, or even contests in general. 
+>
+> 2. Large scope is ok. Scope was 4.5K solidity, 1.5K go - too much for 3 weeks. Somehow managed to go through it, though it didn't seem https://t.co/mptx6ufxZ7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Guhu95 — 2024-06-05 05:44 UTC (2024-06-05 06:44 WAT)
+    
+    - URL: https://x.com/Guhu95/status/1798229348719431805
+    - Metrics (at fetch): bookmark 4, impression 13249, like 67, quote 2, reply 6, retweet 0
+    
+    > Very happy to rank 2nd in such a huge contest. Have learned a ton, and will share some takeaways later.
+    >
+    > Thanks @Blast_L2  and @cantinaxyz  for taking audit contests to a new level 🙌 https://t.co/sCvN4gYwLs https://t.co/z14KPZ9PET
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GPSWL4TakAAbuH_.jpg — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1622629804791955458 — 2024-06-04 23:32 UTC (2024-06-05 00:32 WAT)
+        
+        - URL: https://x.com/1622629804791955458/status/1798135858048233802
+        - Metrics (at fetch): bookmark 13, impression 56669, like 110, quote 13, reply 7, retweet 9
+        
+        > It's official. 🚀🪐
+        >
+        > The results are in for our massive $1.2M @Blast_l2 security competition:
+        >
+        > Here are your top 3 ranked researchers:
+        > 🥇 @zachobront: $201,484.57
+        > 🥈 @Guhu95: $119,941.96
+        > 🥉 @tinchoabbate  &amp; @saucecri ( @theredguild ): $74,729.62
+        >
+        > Amazing work. Leaderboard below: https://t.co/xgcTHm5vQq
+        
+        **Media:**
+        - media `3_1798135847650570240` (details not returned by the API)
+        
+    
+
+
+---
+
+## 2024-06-05 · Post · Very happy to rank 2nd in such a huge contest. Have learned a ton, and will share some takeaways lat
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Guhu95 — 2024-06-05 05:44 UTC (2024-06-05 06:44 WAT)
+
+- URL: https://x.com/Guhu95/status/1798229348719431805
+- Metrics (at fetch): bookmark 4, impression 13249, like 67, quote 2, reply 6, retweet 0
+
+> Very happy to rank 2nd in such a huge contest. Have learned a ton, and will share some takeaways later.
+>
+> Thanks @Blast_L2  and @cantinaxyz  for taking audit contests to a new level 🙌 https://t.co/sCvN4gYwLs https://t.co/z14KPZ9PET
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPSWL4TakAAbuH_.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1622629804791955458 — 2024-06-04 23:32 UTC (2024-06-05 00:32 WAT)
+    
+    - URL: https://x.com/1622629804791955458/status/1798135858048233802
+    - Metrics (at fetch): bookmark 13, impression 56669, like 110, quote 13, reply 7, retweet 9
+    
+    > It's official. 🚀🪐
+    >
+    > The results are in for our massive $1.2M @Blast_l2 security competition:
+    >
+    > Here are your top 3 ranked researchers:
+    > 🥇 @zachobront: $201,484.57
+    > 🥈 @Guhu95: $119,941.96
+    > 🥉 @tinchoabbate  &amp; @saucecri ( @theredguild ): $74,729.62
+    >
+    > Amazing work. Leaderboard below: https://t.co/xgcTHm5vQq
+    
+    **Media:**
+    - media `3_1798135847650570240` (details not returned by the API)
+    
+
+
+---
+
+## 2024-04-27 · Post · Sometimes EIP &gt; POC when validating bugs.
+
+
+### Post — @Guhu95 — 2024-04-27 00:32 UTC (2024-04-27 01:32 WAT)
+
+- URL: https://x.com/Guhu95/status/1784017738526314718
+- Metrics (at fetch): bookmark 13, impression 1350, like 8, quote 0, reply 0, retweet 1
+
+> Sometimes EIP &gt; POC when validating bugs.
+>
+> With create/create2 forge will not check creation (EIP-3860) or runtime (EIP-170) code size limits. This can make an invalid bug seem valid.
+>
+> TL;DR of the limits: EIP-170 - the constructor will revert for runtime code &gt; 24576 bytes, and https://t.co/CmiLPFBZFr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1496567813737091075 — 2024-04-26 21:44 UTC (2024-04-26 22:44 WAT)
+    
+    - URL: https://x.com/1496567813737091075/status/1783975395735523423
+    - Metrics (at fetch): bookmark 3, impression 5297, like 47, quote 0, reply 5, retweet 2
+    
+    > Snippet from LibClone.
+    >
+    > Designed for long term safety. Our plans are measured in centuries.
+    >
+    > Yes, we have the spurious dragon limit today, but what if some le-wild researcher makes a graphene breakthrough and it becomes feasible to remove the spurious dragon limit? https://t.co/1WbfBr9FFN
+    
+    **Media:**
+    - media `3_1783974895048900608` (details not returned by the API)
+    
+
+
+---
+
+## 2024-04-03 · Post · This bug and writeup are a thing of beauty. https://t.co/xHXVhzTU0V
+
+
+### Post — @Guhu95 — 2024-04-03 22:56 UTC (2024-04-03 23:56 WAT)
+
+- URL: https://x.com/Guhu95/status/1775658788043071663
+- Metrics (at fetch): bookmark 1, impression 930, like 5, quote 0, reply 0, retweet 1
+
+> This bug and writeup are a thing of beauty. https://t.co/xHXVhzTU0V
+
+**Quoted post (full text):**
+
+    #### Quoted post — @933421614217220096 — 2024-04-03 14:39 UTC (2024-04-03 15:39 WAT)
+    
+    - URL: https://x.com/933421614217220096/status/1775533657505300922
+    - Metrics (at fetch): bookmark 40, impression 28887, like 122, quote 12, reply 2, retweet 14
+    
+    > Prior to the Dencun upgrade, we disclosed a bug to the @ethereum Foundation that could remotely crash Ethereum mainnet geth clients over RPC through eth_call. All major RPC providers were affected, incl. @infura_io, @AlchemyPlatform, @ankr, @QuickNode, and others👇
+    
+
+
+---
+
+## 2024-03-11 · Post · Raft exploit is a recent example of a info/low that turned out to be a critical. 
+
+
+### Post — @Guhu95 — 2024-03-11 04:44 UTC (2024-03-11 05:44 WAT)
+
+- URL: https://x.com/Guhu95/status/1767048930242789459
+- Metrics (at fetch): bookmark 2, impression 1026, like 3, quote 1, reply 0, retweet 0
+
+> Raft exploit is a recent example of a info/low that turned out to be a critical. 
+>
+> An audit (contest or not) should try to find all bugs.
+>
+> https://t.co/TvHDyOIii5 https://t.co/4qKpPHFY3r
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1357162894798909441 — 2024-03-10 11:17 UTC (2024-03-10 12:17 WAT)
+    
+    - URL: https://x.com/1357162894798909441/status/1766785348552790054
+    - Metrics (at fetch): bookmark 9, impression 15507, like 62, quote 4, reply 2, retweet 5
+    
+    > This is 100% why @code4rena didn’t drop lows even after competitors created marketing narrative that they only focus on serious issues.
+    >
+    > Not allowing low-severity issues in a competitive audit is a convenience to the platform, NOT an improvement of security outcomes for customers https://t.co/KIDNkIptiG
+    
+    **Quoted post** 1766744640865116512: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-03-07 · Post · Apparently, for 2023 I ended up at 22. Would have no idea without this upgrade, thanks @immunefi!
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2024-03-07 03:49 UTC (2024-03-07 04:49 WAT)
+
+- URL: https://x.com/Guhu95/status/1765585507952844815
+- Metrics (at fetch): bookmark 3, impression 7915, like 40, quote 0, reply 0, retweet 3
+
+> Apparently, for 2023 I ended up at #22. Would have no idea without this upgrade, thanks @immunefi!
+>
+> This is great for whitehats, shows both history and recent work, and is much more motivating. https://t.co/StMHKWIxUB https://t.co/XwRlMXssWO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GICbwWnbsAA-t-g.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2024-03-06 17:27 UTC (2024-03-06 18:27 WAT)
+    
+    - URL: https://x.com/immunefi/status/1765428971674402860
+    - Metrics (at fetch): bookmark 2, impression 19001, like 34, quote 6, reply 1, retweet 6
+    
+    > The Immunefi Leaderboard has just been UPGRADED.
+    >
+    > - You can now see ranks by all-time, year, and the last 90 days.
+    >
+    > - We’ve also expanded the leaderboard from top 50 to top 100.
+    >
+    > Check out where you rank on the list and put it in your Twitter bio!
+    >
+    > https://t.co/p0Y2YFegA1 https://t.co/aVuaJieA42
+    
+    **Media:**
+    - media `3_1765416770842525696` (details not returned by the API)
+    
+
+
+---
+
+## 2024-03-01 · Post · I think this actually breaks native ETH restaking. 
+
+
+### Post — @Guhu95 — 2024-03-01 02:03 UTC (2024-03-01 03:03 WAT)
+
+- URL: https://x.com/Guhu95/status/1763384425101115899
+- Metrics (at fetch): bookmark 1, impression 681, like 1, quote 0, reply 1, retweet 0
+
+> I think this actually breaks native ETH restaking. 
+>
+> Slashing on voluntary withdrawal can be postponed indefinitely, so:
+> - The AVS can't get the ETH unlike with LSTs.
+> - The staker keeps earning fees, MEV, and staking rewards (not slashed), so is incentivised to not withdraw!
+> - https://t.co/LVpOBIi2Km
+
+**Quoted post (full text):**
+
+    #### Quoted post — @334346969 — 2024-02-29 17:07 UTC (2024-02-29 18:07 WAT)
+    
+    - URL: https://x.com/334346969/status/1763249568135688640
+    - Metrics (at fetch): bookmark 2, impression 5838, like 22, quote 1, reply 1, retweet 0
+    
+    > So, the slashing doesn't "really" happen until I withdraw from the CL. And even then the ETH isn't really slashed it's just locked in the eigenpod. But none of that matters. It is *effectively* slashed as soon as the eigenpod gets the message about the slashing offence.
+    
+
+
+---
+
+## 2024-02-24 · Post · Bug hunting quest types:
+
+
+### Post — @Guhu95 — 2024-02-24 06:10 UTC (2024-02-24 07:10 WAT)
+
+- URL: https://x.com/Guhu95/status/1761272386379546876
+- Metrics (at fetch): bookmark 13, impression 3516, like 40, quote 1, reply 1, retweet 3
+
+> Bug hunting quest types:
+>
+> Audits: Work. All about discipline, duty, thoroughness.
+>
+> Contests: Play. Carefree, quirky sub-games, cleverness.
+>
+> Bounties: Adventure. Big stakes, no promises, here be dragons. https://t.co/jxj1jyTLyZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GHFL4gubMAA787V.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-24 · Post · Bug hunting quest types:
+
+
+### Post — @Guhu95 — 2024-02-24 05:51 UTC (2024-02-24 06:51 WAT)
+
+- URL: https://x.com/Guhu95/status/1761267683214143877
+- Metrics (at fetch): bookmark 1, impression 41, like 1, quote 0, reply 0, retweet 0
+
+> Bug hunting quest types:
+>
+> Audits: Work. All about discipline, duty, thoroughness.
+>
+> Contests: Play. Carefree, quirky sub-games, cleverness.
+>
+> Bounties: Adventure. Big stakes, no promises, here be dragons.
+
+
+---
+
+## 2024-02-24 · Post · Bug hunting quest types:
+
+
+### Post — @Guhu95 — 2024-02-24 05:48 UTC (2024-02-24 06:48 WAT)
+
+- URL: https://x.com/Guhu95/status/1761266955250811306
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
+
+> Bug hunting quest types:
+>
+> Audits: Work. All about discipline, duty, thoroughness.
+>
+> Contests: Play. Carefree, quirky sub-games, cleverness.
+>
+> Bounties: Adventure. Big stakes and no promises, here be dragons.
+
+
+---
+
+## 2024-01-18 · Post · Love it how the winners in this marketing fight between two firms are only bounty hunters and solo a
+
+
+### Post — @Guhu95 — 2024-01-18 23:50 UTC (2024-01-19 00:50 WAT)
+
+- URL: https://x.com/Guhu95/status/1748130734550978601
+- Metrics (at fetch): bookmark 1, impression 826, like 5, quote 0, reply 0, retweet 0
+
+> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors https://t.co/7iLJDNXmxM https://t.co/NeTVdbn0dw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEKY3Kha8AAthi9.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3235769978 — 2024-01-18 22:07 UTC (2024-01-18 23:07 WAT)
+    
+    - URL: https://x.com/3235769978/status/1748104880269488547
+    - Metrics (at fetch): bookmark 9, impression 15103, like 44, quote 5, reply 2, retweet 6
+    
+    > Short answer - we will not, this is not even a bug bounty report. 
+    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t https://t.co/MM2f0xlhFN
+    
+    **Quoted post** 1748069220301095073: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-01-18 · Post · Love it how the winners in this marketing fight between two firms are only bounty hunters and solo a
+
+
+### Post — @Guhu95 — 2024-01-18 23:48 UTC (2024-01-19 00:48 WAT)
+
+- URL: https://x.com/Guhu95/status/1748130289652797909
+- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, retweet 0
+
+> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors who do 0 marketing https://t.co/Nov0TA8BDp https://t.co/NeTVdbn0dw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEKY3Kha8AAthi9.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3235769978 — 2024-01-18 22:07 UTC (2024-01-18 23:07 WAT)
+    
+    - URL: https://x.com/3235769978/status/1748104880269488547
+    - Metrics (at fetch): bookmark 9, impression 15103, like 44, quote 5, reply 2, retweet 6
+    
+    > Short answer - we will not, this is not even a bug bounty report. 
+    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t https://t.co/MM2f0xlhFN
+    
+    **Quoted post** 1748069220301095073: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-01-18 · Post · Love it how the winners in this marketing fight between two firms are only bounty hunters and solo a
+
+
+### Post — @Guhu95 — 2024-01-18 23:43 UTC (2024-01-19 00:43 WAT)
+
+- URL: https://x.com/Guhu95/status/1748128983978553385
+- Metrics (at fetch): bookmark 0, impression 16, like 1, quote 0, reply 0, retweet 0
+
+> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors https://t.co/eC8y4hxgxX https://t.co/NeTVdbn0dw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEKY3Kha8AAthi9.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3235769978 — 2024-01-18 22:07 UTC (2024-01-18 23:07 WAT)
+    
+    - URL: https://x.com/3235769978/status/1748104880269488547
+    - Metrics (at fetch): bookmark 9, impression 15103, like 44, quote 5, reply 2, retweet 6
+    
+    > Short answer - we will not, this is not even a bug bounty report. 
+    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t https://t.co/MM2f0xlhFN
+    
+    **Quoted post** 1748069220301095073: not readable via the API (deleted, private, or withheld).
+    

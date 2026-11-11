@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 32
-- Conversations/threads: 28
-- Oldest post captured: 2026-09-27
+- Posts in this file: 47
+- Conversations/threads: 43
+- Oldest post captured: 2026-07-30
 - Newest post captured: 2026-11-09
 
 
@@ -567,3 +567,290 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HTNrLWTbIAAWl56.png — no alt text provided by author
+
+
+---
+
+## 2026-09-25 · Post · Q3 new record quarter @cyfrin, blew past prev Q1 record while Q2 was close.
+
+
+### Post — @DevDacian — 2026-09-25 11:45 UTC (2026-09-25 12:45 WAT)
+
+- URL: https://x.com/DevDacian/status/2103450906335527089
+- Metrics (at fetch): not returned
+
+> Q3 new record quarter @cyfrin, blew past prev Q1 record while Q2 was close.
+>
+> Q4 already Oct heavily booked plus decent Nov bookings, new record incoming.
+>
+> Private audit demand VERY strong during this bear market year, hardest we've ever worked to help keep our clients safe 🙏
+
+
+---
+
+## 2026-09-23 · Post · Drove tooling dev all day using Opus 5.5 High, VERY IMPRESSED.
+
+
+### Post — @DevDacian — 2026-09-23 12:44 UTC (2026-09-23 13:44 WAT)
+
+- URL: https://x.com/DevDacian/status/2102740911260352685
+- Metrics (at fetch): not returned
+
+> Drove tooling dev all day using Opus 5.5 High, VERY IMPRESSED.
+>
+> Clean bug fixes, concise output, no over-architecture or over-complexity, good reasoning through some difficult problems.
+>
+> Very good model - exact opposite of Opus 5 in every positive way 🫡
+
+
+---
+
+## 2026-09-20 · Post · ClosedAI develops an AI then commands it to hack into a computer system which it is legally authoriz
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-09-20 11:13 UTC (2026-09-20 12:13 WAT)
+
+- URL: https://x.com/DevDacian/status/2101630717776244951
+- Metrics (at fetch): not returned
+
+> ClosedAI develops an AI then commands it to hack into a computer system which it is legally authorized to hack.
+>
+> The AI mistakenly hacks into other third-party systems which it is not authorized to hack.
+>
+> Should ClosedAI be criminally prosecuted for computer crimes?
+
+
+---
+
+## 2026-09-17 · Post · During this year's bear market @cyfrin grew our full-time SR team from 5-&gt;8 and revenue by 30%+ c
+
+
+### Post — @DevDacian — 2026-09-17 12:01 UTC (2026-09-17 13:01 WAT)
+
+- URL: https://x.com/DevDacian/status/2100555632105632162
+- Metrics (at fetch): not returned
+
+> During this year's bear market @cyfrin grew our full-time SR team from 5-&gt;8 and revenue by 30%+ compared to last year.
+>
+> Engaging 20+ auditors most weeks combining full-time &amp; Eagles, we'll likely need to hire more full-time SRs next year.
+>
+> Private audit business is BOOMING 🚀
+
+
+---
+
+## 2026-09-16 · Post · Tooling Dev: sol-5.6 &gt; fable-5.1 &gt; opus-5
+
+
+### Post — @DevDacian — 2026-09-16 11:46 UTC (2026-09-16 12:46 WAT)
+
+- URL: https://x.com/DevDacian/status/2100189605270302752
+- Metrics (at fetch): not returned
+
+> Tooling Dev: sol-5.6 &gt; fable-5.1 &gt; opus-5
+>
+> Issue Writing: sol-5.6 &gt; glm-5.3-flash &gt; opus-5
+>
+> Bug Hunting (1v1): opus-5 &gt; sol-5.6 &gt; glm-5.3-flash
+>
+> Bug Hunting (p4p): glm-5.3-flash &gt; opus-5 &gt; sol-5.6
+>
+> All using High effort.
+
+
+---
+
+## 2026-09-15 · Post · glm-5.3-flash &gt; deepseek-v4.1-flash
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2026-09-15 10:30 UTC (2026-09-15 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/2099807942518112453
+- Metrics (at fetch): not returned
+
+> glm-5.3-flash &gt; deepseek-v4.1-flash
+>
+> deepseek-v4.1-flash was bench-maxxed; lots of hype but unimpressive performance in real-world usage for our particular use-case.
+>
+> glm-5.3-flash still #1 p4p champ at smart contract bug hunting 🫡
+>
+> Looking forward to glm-5.5 🚀
+
+
+---
+
+## 2026-09-14 · Post · This week @cyfrin running 9 private audits in parallel engaging 24 top auditors!
+
+
+### Post — @DevDacian — 2026-09-14 10:30 UTC (2026-09-14 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/2099445553708871964
+- Metrics (at fetch): not returned
+
+> This week @cyfrin running 9 private audits in parallel engaging 24 top auditors!
+>
+> Finishing Q3 very strong with new record best-ever private audit revenue quarter!
+>
+> 2025 Q3,Q4 &amp; 2026 Q1,Q3 all new best-ever record quarters for private audit revenue - AMAZING GROWTH! 🚀
+
+
+---
+
+## 2026-08-28 · Post · Love getting great feedback like this from our client after long 8-week audit!
+
+
+### Post — @DevDacian — 2026-08-28 11:48 UTC (2026-08-28 12:48 WAT)
+
+- URL: https://x.com/DevDacian/status/2093304814130376709
+- Metrics (at fetch): not returned
+
+> Love getting great feedback like this from our client after long 8-week audit!
+>
+> @cyfrin auditors grinding hard all year doing our best to help secure web3 in the face of almost daily hacks, very proud of our team &amp; the hard work they continue to put in! [pic.x.com/t3IZY2nCwQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQzpGKrboAAWDZ1.png — no alt text provided by author
+
+
+---
+
+## 2026-08-22 · Post · You're a smart contract protocol dev wanting to run proprietary AI audit scans before expensive priv
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-08-22 10:19 UTC (2026-08-22 11:19 WAT)
+
+- URL: https://x.com/DevDacian/status/2091108053219475603
+- Metrics (at fetch): not returned
+
+> You're a smart contract protocol dev wanting to run proprietary AI audit scans before expensive private audit costing $20,000 -&gt; $150,000.
+>
+> What is a reasonable price to pay for one run with an AI scanner that generally delivers good value with low false-positives?
+
+
+---
+
+## 2026-08-20 · Post · Do you think Critical/High severity private audit findings are legit if a serious protocol simply ac
+
+
+### Post — @DevDacian — 2026-08-20 12:23 UTC (2026-08-20 13:23 WAT)
+
+- URL: https://x.com/DevDacian/status/2090414455125594346
+- Metrics (at fetch): not returned
+
+> Do you think Critical/High severity private audit findings are legit if a serious protocol simply acknowledges them ?
+
+
+---
+
+## 2026-08-17 · Post · Extremely impressed with cost : performance ratio of DeepSeek V4 Pro 0813 on complex audit workflows
+
+
+### Post — @DevDacian — 2026-08-17 13:00 UTC (2026-08-17 14:00 WAT)
+
+- URL: https://x.com/DevDacian/status/2089336487867515019
+- Metrics (at fetch): not returned
+
+> Extremely impressed with cost : performance ratio of DeepSeek V4 Pro 0813 on complex audit workflows 🚀
+
+
+---
+
+## 2026-08-12 · Post · Shout out @0ximmeas @BengalCatBalu @0x3b33 AMAZING work on this prediction market audit finding:
+
+
+### Post — @DevDacian — 2026-08-12 14:18 UTC (2026-08-12 15:18 WAT)
+
+- URL: https://x.com/DevDacian/status/2087544157007118530
+- Metrics (at fetch): not returned
+
+> Shout out @0ximmeas @BengalCatBalu @0x3b33 AMAZING work on this prediction market audit finding:
+>
+> * 7 High
+> * 18 Med
+> * 50 Low
+> * 44 Info, 6 Gas
+>
+> Prediction markets have been a hot 2026 trend, @cyfrin doing our best to help secure them 🫡 [pic.x.com/goXNXi8420]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPhyAk9bMAAbkNk.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-10 · Post · Wow @cyfrin has finalized 20 Formal Verification (FV) private audit engagements with avg 4 Crit/High
+
+
+### Post — @DevDacian — 2026-08-10 11:29 UTC (2026-08-10 12:29 WAT)
+
+- URL: https://x.com/DevDacian/status/2086776995791479100
+- Metrics (at fetch): not returned
+
+> Wow @cyfrin has finalized 20 Formal Verification (FV) private audit engagements with avg 4 Crit/High per engagement!
+>
+> FV very valuable for proving valuable properties and finding weird unexpected edge-case bugs!
+>
+> See our FV audits at https://github.com/cyfrin/cyfrin-audit-reports#formal-verification [pic.x.com/WyJguer7Bd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPW4LdybUAAW1Qt.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/cyfrin/cyfrin-audit-reports#formal-verification
+
+
+---
+
+## 2026-08-07 · Post · Wrapped up 4-week TradFi audit, 282 page report. Lots of interesting bugs resulting in:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2026-08-07 11:29 UTC (2026-08-07 12:29 WAT)
+
+- URL: https://x.com/DevDacian/status/2085689712715702717
+- Metrics (at fetch): not returned
+
+> Wrapped up 4-week TradFi audit, 282 page report. Lots of interesting bugs resulting in:
+> * many compliance rule bypasses
+> * incorrect NAV/position/fee calc
+> * accounting errors
+> * weird edge-case calendar/time behavior
+> * cross-chain stale sync
+> * privilege escalation
+>
+> The core of the protocol was very locked down, investor funds are safu. But there was lots of additional complexity for business/compliance reasons so with a bit of creative thinking we were able to find ways to trigger all sorts of invalid states & undesired behavior.
+>
+> @cyfrin always doing our best to keep TradFi safu on-chain 🫡
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPHWlExa8AAWQ1r.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-30 · Post · Opus 5 = undisputed KING of over-engineering &amp; over-architecting.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-07-30 10:13 UTC (2026-07-30 11:13 WAT)
+
+- URL: https://x.com/DevDacian/status/2082771453624434833
+- Metrics (at fetch): not returned
+
+> Opus 5 = undisputed KING of over-engineering &amp; over-architecting.
+>
+> Frequently takes small bug fix &amp; creates insanely complicated "solution" which dwarfs small bug it claims to fix.
+>
+> Opus 5's purpose is to max burn your tokens increasing @claudeai revenue prior to IPO.

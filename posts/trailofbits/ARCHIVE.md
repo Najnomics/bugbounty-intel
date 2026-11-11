@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 65
-- Conversations/threads: 65
-- Oldest post captured: 2025-01-23
+- Posts in this file: 78
+- Conversations/threads: 78
+- Oldest post captured: 2024-01-29
 - Newest post captured: 2026-11-03
 
 
@@ -1157,3 +1157,217 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 5230, like 54, quote 1, reply 4, retweet 2
 
 > Our team submitted 750+ pull requests to improve 80+ open-source projects in 2024. These contributions strengthen critical security infrastructure, from foundational cryptography libraries to package managers that security engineers rely on daily.
+
+
+---
+
+## 2024-12-19 · Post · Who examines package manager security? We do, as highlighted on @SecWeekly (ASW 311), discussing ou
+
+
+### Post — @trailofbits — 2024-12-19 18:35 UTC (2024-12-19 19:35 WAT)
+
+- URL: https://x.com/trailofbits/status/1869813763928666224
+- Metrics (at fetch): bookmark 1, impression 2264, like 5, quote 0, reply 1, retweet 0
+
+> Who examines package manager security? We do, as highlighted on @SecWeekly (ASW #311), discussing our audit of the Ruby central package manager, https://t.co/Bi3VCZiBR0
+> https://t.co/CApLST5TXe https://t.co/TVjKdW6qTq
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-11-19 · Post · Fall Tribune: We uncovered security pitfalls in AWS Nitro Enclaves, published our audit of @HuggingF
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @trailofbits — 2024-11-19 11:59 UTC (2024-11-19 12:59 WAT)
+
+- URL: https://x.com/trailofbits/status/1858842656576594050
+- Metrics (at fetch): bookmark 6, impression 10956, like 25, quote 1, reply 0, retweet 4
+
+> Fall Tribune: We uncovered security pitfalls in AWS Nitro Enclaves, published our audit of @HuggingFace's Gradio library, and expanded our Testing Handbook with cryptographic testing guidance.https://t.co/B9nKyQXsc5
+
+
+---
+
+## 2024-10-31 · Post · ToB's @arturcygan found code execution and DoS bugs after just a few hours of fuzzing ZBar, an open-
+
+
+Tags (automatic): RCE
+
+
+### Post — @trailofbits — 2024-10-31 15:52 UTC (2024-10-31 16:52 WAT)
+
+- URL: https://x.com/trailofbits/status/1852015840008233440
+- Metrics (at fetch): bookmark 26, impression 6563, like 71, quote 0, reply 1, retweet 18
+
+> ToB's @arturcygan found code execution and DoS bugs after just a few hours of fuzzing ZBar, an open-source library for reading barcodes.
+> tl;dr basic fuzz testing can reveal serious bugs - even in widely used software. https://t.co/fbwBhAJSLT
+
+
+---
+
+## 2024-10-10 · Post · We audited Gradio 5, @HuggingFace's ML GUI framework. Beyond bug-finding, we advised on SDLC enhance
+
+
+### Post — @trailofbits — 2024-10-10 16:22 UTC (2024-10-10 17:22 WAT)
+
+- URL: https://x.com/trailofbits/status/1844413248021356792
+- Metrics (at fetch): bookmark 8, impression 19231, like 31, quote 2, reply 1, retweet 6
+
+> We audited Gradio 5, @HuggingFace's ML GUI framework. Beyond bug-finding, we advised on SDLC enhancements: security testing integration, fuzz testing implementation, and deployment streamlining for improved security. https://t.co/517KHSflj3
+
+
+---
+
+## 2024-09-17 · Post · At DEF CON, @trailofbits Principal Security Engineer @MichaelBrownUC discussed with @ISMG_News how A
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2024-09-17 13:47 UTC (2024-09-17 14:47 WAT)
+
+- URL: https://x.com/trailofbits/status/1836039382941217034
+- Metrics (at fetch): bookmark 3, impression 1641, like 7, quote 0, reply 0, retweet 3
+
+> At DEF CON, @trailofbits Principal Security Engineer @MichaelBrownUC discussed with @ISMG_News how AI/ML is revolutionizing cybersecurity. They covered four critical areas transforming the field, from surpassing traditional analysis to @DARPA's AI Cyber Challenge. https://t.co/4cV0E6nddM
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-09-10 · Post · Learn how to equip your C++ code with ASan annotations to catch more bugs. We also contributed to LL
+
+
+### Post — @trailofbits — 2024-09-10 14:16 UTC (2024-09-10 15:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1833509969930719246
+- Metrics (at fetch): bookmark 19, impression 12665, like 57, quote 3, reply 0, retweet 9
+
+> Learn how to equip your C++ code with ASan annotations to catch more bugs. We also contributed to LLVM, including annotations to std::string and std::deque, custom allocators, and bug fixes in libc++. https://t.co/QFpWOH4TVq https://t.co/eSdMdskbOm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXHpq-DXEAAMIai.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GXHprLIWEAAhN3y.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-10 · Post · Learn how to equip your C++ code with ASan annotations to catch more bugs. We also contributed to AS
+
+
+### Post — @trailofbits — 2024-09-10 13:51 UTC (2024-09-10 14:51 WAT)
+
+- URL: https://x.com/trailofbits/status/1833503454460830192
+- Metrics (at fetch): bookmark 2, impression 777, like 3, quote 0, reply 0, retweet 0
+
+> Learn how to equip your C++ code with ASan annotations to catch more bugs. We also contributed to ASan in GCC and LLVM, including annotations to std::string and std::deque, custom allocators, and bug fixes in libc++. https://t.co/QFpWOH4m5S https://t.co/7e8dyOk1Se
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXHpq-DXEAAMIai.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GXHprLIWEAAhN3y.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-10 · Post · We released the results of our Ask Astro AI audit! 🎉 Plus, watch our Burp webinar ft. @albinowax and
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2024-09-10 11:08 UTC (2024-09-10 12:08 WAT)
+
+- URL: https://x.com/trailofbits/status/1833462427066724601
+- Metrics (at fetch): bookmark 10, impression 7576, like 16, quote 0, reply 4, retweet 2
+
+> We released the results of our Ask Astro AI audit! 🎉 Plus, watch our Burp webinar ft. @albinowax and read about even more PQC in this month's newsletter. Dive in now: https://t.co/Mr4qKMnegg https://t.co/oOg4fzR6ZD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXHEXFNWAAAet_S.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-30 · Post · Homebrew, the missing package manager for macOS, produces the binaries that millions of users downlo
+
+
+### Post — @trailofbits — 2024-07-30 13:03 UTC (2024-07-30 14:03 WAT)
+
+- URL: https://x.com/trailofbits/status/1818271079355261371
+- Metrics (at fetch): bookmark 10, impression 5117, like 45, quote 1, reply 1, retweet 14
+
+> Homebrew, the missing package manager for macOS, produces the binaries that millions of users download daily. 
+> 👉 Read about our audit of Homebrew’s CI/CD pipeline and brew. 
+> https://t.co/QOOrdo3qJk https://t.co/Z97S4pEsAH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTvL6PPWgAALnGe.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-11 · Post · The hack behind your "sold out" ticket: we confirmed that scalpers reverse-engineered @Ticketmaster'
+
+
+### Post — @trailofbits — 2024-07-11 17:19 UTC (2024-07-11 18:19 WAT)
+
+- URL: https://x.com/trailofbits/status/1811450172884549891
+- Metrics (at fetch): bookmark 2, impression 2510, like 15, quote 0, reply 0, retweet 3
+
+> The hack behind your "sold out" ticket: we confirmed that scalpers reverse-engineered @Ticketmaster's rotating barcodes to transfer their "untransferable" tickets. More from @404mediaco:
+> https://t.co/OfZSLsjET2
+
+
+---
+
+## 2024-07-05 · Post · For our second open-source AI security audit, we reviewed the Ask Astro chatbot, which supports the 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2024-07-05 14:03 UTC (2024-07-05 15:03 WAT)
+
+- URL: https://x.com/trailofbits/status/1809226711315210731
+- Metrics (at fetch): bookmark 10, impression 5489, like 30, quote 2, reply 1, retweet 6
+
+> For our second open-source AI security audit, we reviewed the Ask Astro chatbot, which supports the Astronomer orchestration tool for Apache Airflow. The 4 issues we identified could lead to output poisoning, inaccurate document ingestion, and DoS. https://t.co/WKiDcgtfSP
+
+
+---
+
+## 2024-07-02 · Post · Async-unsafe signal handlers are at the core of the recent regreSSHion vulnerability (CVE-2024-6387)
+
+
+### Post — @trailofbits — 2024-07-02 21:36 UTC (2024-07-02 22:36 WAT)
+
+- URL: https://x.com/trailofbits/status/1808253409386287259
+- Metrics (at fetch): bookmark 39, impression 11832, like 122, quote 2, reply 1, retweet 29
+
+> Async-unsafe signal handlers are at the core of the recent regreSSHion vulnerability (CVE-2024-6387). We published a new CodeQL query that searches for this often overlooked class of bugs.
+>
+> https://t.co/4vEmP7wqrw
+
+
+---
+
+## 2024-01-29 · Post · Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their p
+
+
+### Post — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
+
+- URL: https://x.com/trailofbits/status/1752109824282910869
+- Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
+
+> Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://t.co/Rdqy3LvKSR https://t.co/c2sT5xM1T1
+
+**Media:**
+- media `3_1752109000207085568` (details not returned by the API)

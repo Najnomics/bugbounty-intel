@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 44
-- Conversations/threads: 43
-- Oldest post captured: 2026-05-21
+- Posts in this file: 52
+- Conversations/threads: 51
+- Oldest post captured: 2026-02-21
 - Newest post captured: 2026-11-10
 
 
@@ -875,3 +875,205 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/HI0AF7mXMAEUalC.jpg — no alt text provided by author
 
 **Quoted post** 2057085190565224699: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-04-22 · Post · I reported a critical vulnerability to a top-tier crypto exchange—an exploit that could allow an att
+
+
+### Post — @ma1fan — 2026-04-22 11:14 UTC (2026-04-22 12:14 WAT)
+
+- URL: https://x.com/ma1fan/status/2046910621279822157
+- Metrics (at fetch): not returned
+
+> I reported a critical vulnerability to a top-tier crypto exchange—an exploit that could allow an attacker to crack and steal wallet private keys within minutes. By all industry standards, this was a severe, high-impact bug. Yet, they initially offered me a measly $4,000 bounty.
+>
+> I refused to accept it and pushed back hard. After a prolonged back-and-forth, they spent ages escalating it to their leadership. Following endless rounds of "approvals," they finally added a whopping $1,000 to the offer, bringing the grand total to $5,000. I am honestly "moved to tears" by their generosity, considering an exploit of this magnitude is easily worth at least $50,000.
+>
+> Seriously, my advice is to avoid participating in Bug Bounty programs run by certain Chinese teams. It seems they would much rather risk getting drained for tens or hundreds of millions of dollars by actual hackers than pay a white hat a single extra cent for protecting them.
+
+
+---
+
+## 2026-04-22 · Post · 给某个头部交易所报告漏洞，其中一个漏洞可以导致钱包私钥分分钟被破解盗取，本来算是很严重漏洞，刚开始给我4k bounty我没接受，跟他们掰扯了很久，最后他们花了很长时间向他们领导汇报，经过层层审批最后
+
+
+### Post — @ma1fan — 2026-04-22 11:13 UTC (2026-04-22 12:13 WAT)
+
+- URL: https://x.com/ma1fan/status/2046910327942676594
+- Metrics (at fetch): not returned
+
+> 给某个头部交易所报告漏洞，其中一个漏洞可以导致钱包私钥分分钟被破解盗取，本来算是很严重漏洞，刚开始给我4k bounty我没接受，跟他们掰扯了很久，最后他们花了很长时间向他们领导汇报，经过层层审批最后给我加了整整1k，总共给了5k，我特么真的感激涕零，本来这个漏洞至少价值50k。真的，中国人搞的bug bounty最好都不要参与，因为他们宁愿被黑客盗走几千万几亿美金也不愿意给白帽子多给一分钱的。真是被恶心到了。
+
+
+---
+
+## 2026-04-09 · Post · Check out this article: HB Token Exploit Analysis: ~$193K Lost to AMM Reserve Manipulation via Rewar
+
+
+### Post — @ma1fan — 2026-04-09 08:27 UTC (2026-04-09 09:27 WAT)
+
+- URL: https://x.com/ma1fan/status/2042157438795968600
+- Metrics (at fetch): not returned
+
+> Check out this article: HB Token Exploit Analysis: ~$193K Lost to AMM Reserve Manipulation via Reward Path https://exvul.com/blog/hb-token-exploit-analysis
+
+**Links in post:** https://exvul.com/blog/hb-token-exploit-analysis
+
+
+---
+
+## 2026-03-25 · Post · This bug can lead to attacker get the users privatekey no need password,which is a very critical bug
+
+
+### Post — @ma1fan — 2026-03-25 03:41 UTC (2026-03-25 04:41 WAT)
+
+- URL: https://x.com/ma1fan/status/2036649612065505310
+- Metrics (at fetch): not returned
+
+> This bug can lead to attacker get the users privatekey no need password,which is a very critical bugs, 
+> read this writeup, you can found the bug details. https://twitter.com/exvulsec/status/2036648031727292501
+
+**Links in post:** https://twitter.com/exvulsec/status/2036648031727292501
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1703447900607664128 — 2026-03-25 03:35 UTC (2026-03-25 04:35 WAT)
+    
+    - URL: https://x.com/1703447900607664128/status/2036648031727292501
+    - Metrics (at fetch): not returned
+    
+    > Check out this article: One Line, All Funds: How a Static IV Turned Nightly Wallet's Encryption Into a Two-Time Pad https://exvul.com/blog/nightly-wallet-static-iv-two-time-pad
+    
+    **Links in post:** https://exvul.com/blog/nightly-wallet-static-iv-two-time-pad
+    
+
+
+---
+
+## 2026-03-23 · Post · 🧵 BCE Token Attack — Insider Job? Here's what I found 👇
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2026-03-23 09:49 UTC (2026-03-23 10:49 WAT)
+
+- URL: https://x.com/ma1fan/status/2036017540066050309
+- Metrics (at fetch): not returned
+
+> 🧵 #BCE Token Attack — Insider Job? Here's what I found 👇
+> 1/ The attacker deployed a TEST attack contract 3 days BEFORE the BCE token even existed on-chain.
+>
+> Test contract: 0xaF4B612FAa0CA5A16E02762b35da31709A55aCaD
+>
+> How did they know about BCE before it was deployed? 🤔
+>
+> After the BCE token was deployed but before it launched, the attacker deployed the FINAL attack contract:
+> https://bscscan.com/tx/0xb4d91e1b1e98c015de6ddcb6a65d7842cb27ae614d8c08278eea50c3b86f25c2
+> the attack deployed at time:Mar-22-2026 10:52:19 AM +UTC
+> the BCE lanuchtime is 2026-03-23 13:59:13
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HEFirxsbMAAWKtd.jpg — no alt text provided by author
+
+**Links in post:** https://bscscan.com/tx/0xb4d91e1b1e98c015de6ddcb6a65d7842cb27ae614d8c08278eea50c3b86f25c2
+
+
+---
+
+## 2026-03-03 · Post · Our team's latest finding in the Anchor framework — the most widely used Solana development framewor
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2026-03-03 03:52 UTC (2026-03-03 04:52 WAT)
+
+- URL: https://x.com/ma1fan/status/2028679995514892458
+- Metrics (at fetch): not returned
+
+> Our team's latest finding in the Anchor framework — the most widely used Solana development framework.
+> @solana 
+> We discovered that a single-byte custom discriminator can silently disable the entire event system, with zero warnings across the entire toolchain. This bug has existed since v0.31.0 and went undetected until our audit.
+
+**Links in post:** https://twitter.com/exvulsec/status/2028679330533089425
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1703447900607664128 — 2026-03-03 03:50 UTC (2026-03-03 04:50 WAT)
+    
+    - URL: https://x.com/1703447900607664128/status/2028679330533089425
+    - Metrics (at fetch): not returned
+    
+    > 🚨NEW:  We  found a previously unknown bug in Anchor Framework (v0.31.0+)
+    >
+    > A single-byte custom discriminator can silently kill the entire event system. discriminator = [] captures ALL instructions.
+    >
+    > Zero warnings from compiler, IDL, or runtime.
+    >
+    > Writeup + PoC: 
+    >
+    > https://exvul.com/blog/anchor-one-byte-discriminator-event-dispatch
+    
+    **Links in post:** https://exvul.com/blog/anchor-one-byte-discriminator-event-dispatch
+    
+
+
+---
+
+## 2026-03-03 · Post · Our team's latest finding in the Anchor framework — the most widely used Solana development framewor
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2026-03-03 03:52 UTC (2026-03-03 04:52 WAT)
+
+- URL: https://x.com/ma1fan/status/2028679932881330375
+- Metrics (at fetch): not returned
+
+> Our team's latest finding in the Anchor framework — the most widely used Solana development framework.
+>
+> We discovered that a single-byte custom discriminator can silently disable the entire event system, with zero warnings across the entire toolchain. This bug has existed since v0.31.0 and went undetected until our audit.
+
+**Links in post:** https://twitter.com/exvulsec/status/2028679330533089425
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1703447900607664128 — 2026-03-03 03:50 UTC (2026-03-03 04:50 WAT)
+    
+    - URL: https://x.com/1703447900607664128/status/2028679330533089425
+    - Metrics (at fetch): not returned
+    
+    > 🚨NEW:  We  found a previously unknown bug in Anchor Framework (v0.31.0+)
+    >
+    > A single-byte custom discriminator can silently kill the entire event system. discriminator = [] captures ALL instructions.
+    >
+    > Zero warnings from compiler, IDL, or runtime.
+    >
+    > Writeup + PoC: 
+    >
+    > https://exvul.com/blog/anchor-one-byte-discriminator-event-dispatch
+    
+    **Links in post:** https://exvul.com/blog/anchor-one-byte-discriminator-event-dispatch
+    
+
+
+---
+
+## 2026-02-21 · Post · AI write code -&gt; AI  found bug-&gt; AI fix bug. All the money flow to AI company.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @ma1fan — 2026-02-21 04:31 UTC (2026-02-21 05:31 WAT)
+
+- URL: https://x.com/ma1fan/status/2025065910407721067
+- Metrics (at fetch): not returned
+
+> AI write code -&gt; AI  found bug-&gt; AI fix bug. All the money flow to AI company.
+> but why should human paid for the bug  AI  writed?
+> I think  AI company should  paid  for the security incident in the future  and fixed the bug free😀

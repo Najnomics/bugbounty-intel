@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 32
-- Conversations/threads: 28
-- Oldest post captured: 2025-07-09
+- Posts in this file: 45
+- Conversations/threads: 41
+- Oldest post captured: 2023-12-16
 - Newest post captured: 2026-10-19
 
 
@@ -661,3 +661,326 @@ Tags (automatic): AI-assisted hunting, Platform: Immunefi
 **Links in post:** https://twitter.com/peckshield/status/1942947860645134450
 
 **Quoted post** 1942947860645134450: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-01 · Post · really heated situation, though most people seem to be completely missing the point 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @deadrosesxyz — 2025-05-01 08:28 UTC (2025-05-01 09:28 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1917858747461885970
+- Metrics (at fetch): bookmark 19, impression 12294, like 104, quote 0, reply 12, retweet 0
+
+> really heated situation, though most people seem to be completely missing the point 
+>
+> realistically it doesn't matter neither what Pavel says, nor what Scroll says. both parties can claim whatever they want, there's only one opinion that matters - @immunefi. When you hunt on https://t.co/4pyOjYwB46
+
+**Quoted post (full text):**
+
+    #### Quoted post — @825070349490479105 — 2025-04-30 07:35 UTC (2025-04-30 08:35 WAT)
+    
+    - URL: https://x.com/825070349490479105/status/1917483039195816213
+    - Metrics (at fetch): bookmark 191, impression 166084, like 645, quote 33, reply 49, retweet 92
+    
+    > On Feb 17 2025 I reported a critical vulnerability to @Scroll_ZKP. $100m+ in TVL was at risk for more than 2 months.
+    >
+    > Anyone could force Scroll L2 into an indefinite re-org, halting the chain so that no user transactions would be included in blocks and the chain would not move
+    
+
+
+---
+
+## 2025-01-11 · Post · thanks so much to @0xriptide  for having me as his first guest
+
+
+### Post — @deadrosesxyz — 2025-01-11 18:12 UTC (2025-01-11 19:12 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1878142890888561147
+- Metrics (at fetch): bookmark 43, impression 10339, like 122, quote 0, reply 10, retweet 2
+
+> thanks so much to @0xriptide  for having me as his first guest
+>
+> we had a really nice talk, highly recommend all bounty hunters listen to it 👀 https://t.co/jtnTTpbFWX
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1877728835216568321 — 2025-01-11 16:16 UTC (2025-01-11 17:16 WAT)
+    
+    - URL: https://x.com/1877728835216568321/status/1878113703721078891
+    - Metrics (at fetch): bookmark 88, impression 28790, like 129, quote 8, reply 5, retweet 13
+    
+    > bountyhunt3rz: life on the blockchain: EP1
+    >
+    > @0xriptide  &amp; @deadrosesxyz discuss bug hunting including techniques, secrets and tools of the trade, integrating LLMs into your workflow, getting paid, traits of a bounty hunter, and how bulgarian teenagers are taking over the space https://t.co/rDBri5ugxR
+    
+    **Media:**
+    - media `7_1878107936863428608` (details not returned by the API)
+    
+
+
+---
+
+## 2025-01-11 · Post · &gt; hunt some bug bounties for the first time in months 
+
+
+### Post — @deadrosesxyz — 2025-01-11 12:37 UTC (2025-01-11 13:37 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1878058706560008647
+- Metrics (at fetch): bookmark 29, impression 42571, like 218, quote 1, reply 8, retweet 2
+
+> &gt; hunt some bug bounties for the first time in months 
+> &gt; find a nice crit 
+> &gt; spend all afternoon writing a PoC 
+> &gt; submit it to protocol
+> &gt; feelsgoodman.jpg 
+>
+> &gt; protocol is actually already aware of the issue and the fix is waiting in timelock. https://t.co/shL5dMsCuy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhAza5vX0AA96n_.png — no alt text provided by author
+
+
+---
+
+## 2024-12-22 · Post · proud to announce that the $1m mark was successfully crossed (and the year's not finished yet!) 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @deadrosesxyz — 2024-12-22 18:25 UTC (2024-12-22 19:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1870898432543469775
+- Metrics (at fetch): bookmark 546, impression 153133, like 1397, quote 14, reply 153, retweet 69
+
+> proud to announce that the $1m mark was successfully crossed (and the year's not finished yet!) 
+>
+> a rough breakdown of the income sources:
+> - Contests ~$500k
+> - Spearbit ~$265k
+> - Solo audits ~$240k
+> - Immunefi ~40k
+>
+> current total is ~$1.05m, expecting a few more contest results, so https://t.co/aCaLVZGqAr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @deadrosesxyz — 2023-12-31 16:10 UTC (2023-12-31 17:10 WAT)
+    
+    - URL: https://x.com/deadrosesxyz/status/1741492063756009777
+    - Metrics (at fetch): bookmark 69, impression 209224, like 602, quote 9, reply 35, retweet 47
+    
+    > only 2 goals for 2024:
+    >
+    >   - make $1,000,000
+    >   - work out regularly
+    
+
+
+---
+
+## 2024-12-06 · Post · it's an honor to be working alongside such great minds.
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @deadrosesxyz — 2024-12-06 13:59 UTC (2024-12-06 14:59 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1865033366095204520
+- Metrics (at fetch): bookmark 16, impression 20108, like 175, quote 0, reply 11, retweet 6
+
+> it's an honor to be working alongside such great minds.
+>
+> Sherlock is the hands-down best platform when it comes to competitions and I 100% recommend it to any protocol out there. It has the brightest talent and being on the top of the leaderboard there is the hardest achievement https://t.co/EjCileuy71
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1364431083824062464 — 2024-12-06 13:04 UTC (2024-12-06 14:04 WAT)
+    
+    - URL: https://x.com/1364431083824062464/status/1865019364505743743
+    - Metrics (at fetch): bookmark 7, impression 28251, like 154, quote 4, reply 7, retweet 4
+    
+    > Introducing @deadrosesxyz, the next founding security researcher at @blackthornxyz.
+    >
+    > Deadrosesxyz started as a bug bounty hunter, garnering attention for high-profile finds in projects like @VelodromeFi, Chronos, @arkham, LEVEL, @muxprotocol, and @ExtraFi_io. 
+    >
+    > Since then https://t.co/ZlAE5u5DQx
+    
+    **Media:**
+    - media `3_1865014444138303488` (details not returned by the API)
+    
+
+
+---
+
+## 2024-02-06 · Post · since I was hired to audit the EVC, I'm adding additional $5k from my pocket if anyone manages to fi
+
+
+### Post — @deadrosesxyz — 2024-02-06 16:17 UTC (2024-02-06 17:17 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1754902089539502378
+- Metrics (at fetch): bookmark 27, impression 25558, like 138, quote 6, reply 9, retweet 4
+
+> since I was hired to audit the EVC, I'm adding additional $5k from my pocket if anyone manages to find a crit in it 
+>
+> let's see how this turns out 👀 https://t.co/KgJxXmNJiV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1295028541139177482 — 2024-02-06 15:00 UTC (2024-02-06 16:00 WAT)
+    
+    - URL: https://x.com/1295028541139177482/status/1754882657018687875
+    - Metrics (at fetch): bookmark 24, impression 32350, like 37, quote 2, reply 0, retweet 1
+    
+    > Reminder 👋
+    >
+    > We've got a $100k bug bounty on the EVC.
+    >
+    > Calling all devs to join us in strengthening the EVC and making it even more robust.
+    >
+    > https://t.co/YQ5KRi48ur
+    
+
+
+---
+
+## 2024-01-31 · Post · 🧵Understanding Voting Escrows
+
+
+### Post — @deadrosesxyz — 2024-01-31 10:25 UTC (2024-01-31 11:25 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1752639255090798947
+- Metrics (at fetch): bookmark 366, impression 28917, like 269, quote 4, reply 13, retweet 37
+
+> 🧵Understanding Voting Escrows
+>
+> Voting Escrows are probably one of my favourite contracts and oddly enough there's almost always multiple issues within them.
+>
+> What exactly are they? To put it simply - users lock some of their funds for a period of time. They in return receive a https://t.co/UHEUM2OBxZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFKIeT8W0AE8jln.png — no alt text provided by author
+
+
+---
+
+## 2024-01-20 · Post · These are the stats I managed to achieve in less than 3 months on Immunefi. 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @deadrosesxyz — 2024-01-20 12:32 UTC (2024-01-20 13:32 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1748684942845051288
+- Metrics (at fetch): bookmark 22, impression 14625, like 180, quote 0, reply 11, retweet 5
+
+> These are the stats I managed to achieve in less than 3 months on Immunefi. 
+>
+> Haven't really been bug hunting for over a month now as I've been busy with private engagements.
+>
+> planning to make a return to bounties next month and reach top 50 👀 https://t.co/s7T0cdESMh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GESSuK3XMAAGm7y.png — no alt text provided by author
+
+
+---
+
+## 2024-01-11 · Post · last month I had the amazing opportunity to audit Euler's new product alongside @GeorgeHNTR 
+
+
+### Post — @deadrosesxyz — 2024-01-11 13:40 UTC (2024-01-11 14:40 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1745440522733494590
+- Metrics (at fetch): bookmark 4, impression 13902, like 60, quote 1, reply 3, retweet 1
+
+> last month I had the amazing opportunity to audit Euler's new product alongside @GeorgeHNTR 
+>
+> looking forward to it being widely-used 👀 https://t.co/0YxyDsBAJd
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1295028541139177482 — 2024-01-11 13:13 UTC (2024-01-11 14:13 WAT)
+    
+    - URL: https://x.com/1295028541139177482/status/1745433647078134029
+    - Metrics (at fetch): bookmark 91, impression 107944, like 325, quote 27, reply 15, retweet 60
+    
+    > 1/ The first building block of Euler v2 is here.
+    >
+    > Introducing the Ethereum Vault Connector - a powerful primitive that enables anyone and everyone to build products and credit-based protocols.
+    >
+    > Let's dive into the details: https://t.co/VSEp7FYjTC
+    
+    **Media:**
+    - media `7_1745433570821455872` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-08 · Post · seeing a protocol which I've audited hold over $25M in value simply feels amazing. 
+
+
+### Post — @deadrosesxyz — 2024-01-08 18:04 UTC (2024-01-08 19:04 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1744419945650249846
+- Metrics (at fetch): bookmark 4, impression 9947, like 117, quote 1, reply 5, retweet 1
+
+> seeing a protocol which I've audited hold over $25M in value simply feels amazing. 
+>
+> especially when I know I caught a critical in it ✌️
+
+
+---
+
+## 2023-12-31 · Post · only 2 goals for 2024:
+
+
+### Post — @deadrosesxyz — 2023-12-31 16:10 UTC (2023-12-31 17:10 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1741492063756009777
+- Metrics (at fetch): bookmark 69, impression 209224, like 602, quote 9, reply 35, retweet 47
+
+> only 2 goals for 2024:
+>
+>   - make $1,000,000
+>   - work out regularly
+
+
+---
+
+## 2023-12-16 · Post · Everything I've learned about auditing in 2023
+
+
+### Post — @deadrosesxyz — 2023-12-16 18:34 UTC (2023-12-16 19:34 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1736092459799609846
+- Metrics (at fetch): bookmark 342, impression 37581, like 476, quote 8, reply 25, retweet 75
+
+> Everything I've learned about auditing in 2023
+>
+>  - Do what everyone does, get what everyone gets.
+> I seriously can't emphasize this enough. If you're reading and learning from the same sources as everyone else, you basically can't beat the rest. If you want to be an outstanding
+
+
+---
+
+## 2023-12-16 · Post · Everything I've learned about auditing in 2023
+
+
+### Post — @deadrosesxyz — 2023-12-16 18:34 UTC (2023-12-16 19:34 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/1736092337976045866
+- Metrics (at fetch): bookmark 0, impression 60, like 0, quote 0, reply 0, retweet 0
+
+> Everything I've learned about auditing in 2023
+>
+>  - Do what everyone does, get what everyone gets.
+> I seriously can't emphasize this enough. If you're reading and learning from the same sources as everyone else, you basically can't beat the rest. If you want to be an outstanding

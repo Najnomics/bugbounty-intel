@@ -33,6 +33,41 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 
+**Context — conversation root by another account:**
+
+#### Root post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
+
+- URL: https://x.com/Guhu95/status/1808855240449667162
+- Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+
+> [High] Conditional contest pots are bad and stupid. 
+>
+> Problem is that skilled participation is low because of low EV.
+>
+> ## POC - Euler at @cantinaxyz
+>
+> 1. A lot of prior audits, with few findings. Even 50% of no new high means the contest EV is now 670K instead of 1.15M. But wait.. https://t.co/y927YpIo3s
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    
+    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
+    
+    > Welcome... to the new largest competition in history with @eulerfinance!
+    >
+    > 💰 $1,250,000 USDC
+    > 🗓️ May 20th - June 17th
+    > 📍 @cantinaxyz 
+    >
+    > Invite only. Don't have one? Details below: [pic.x.com/M1MtDE7XKj]
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GJM-xJIXEAAKrdp.jpg — no alt text provided by author
+    
+
+
 ### Post — @Shanon40439853 — 2024-07-05 08:43 UTC (2024-07-05 09:43 WAT)
 
 - URL: https://x.com/Shanon40439853/status/1809146030761607573

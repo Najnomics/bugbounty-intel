@@ -127,7 +127,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Links in post:** https://twitter.com/OpenZeppelin/status/1766109683402592509
 
-**Quoted post** 1766109683402592509: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @765981595383857152 — 2024-03-08 14:32 UTC (2024-03-08 15:32 WAT)
+    
+    - URL: https://x.com/765981595383857152/status/1766109683402592509
+    - Metrics (at fetch): bookmark 184, impression 54690, like 192, quote 9, reply 3, retweet 74
+    
+    > The Top 10 Blockchain Hacking Techniques 2nd Edition is out.
+    >
+    > The industry’s compilation of the 10 most novel, interesting, and unexpected smart contract hacks and bugs. 
+    >
+    > From the governance hack of Tornado Cash using metamorphic contracts, to the billion-dollar exploit https://t.co/FPzoiKK20G
+    
+    **Media:**
+    - media `3_1766109677832564736` (details not returned by the API)
+    
 
 
 ---

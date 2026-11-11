@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 67
-- Conversations/threads: 65
-- Oldest post captured: 2023-10-26
+- Posts in this file: 72
+- Conversations/threads: 70
+- Oldest post captured: 2023-05-03
 - Newest post captured: 2026-11-06
 
 
@@ -1199,3 +1199,184 @@ Tags (automatic): OAuth
 - photo: https://pbs.twimg.com/media/F9XwQdMXEAAm3U1.png — no alt text provided by author
 
 **Links in post:** https://github.com/asanso/bls-s/blob/main/paper.pdf
+
+
+---
+
+## 2023-07-28 · Post · On  a roll lol. Implemented SIDH gamma1 attack using the @luca_defeo  et al reduction in https://git
+
+
+### Post — @asanso — 2023-07-28 09:38 UTC (2023-07-28 10:38 WAT)
+
+- URL: https://x.com/asanso/status/1684860752463540225
+- Metrics (at fetch): not returned
+
+> On  a roll lol. Implemented SIDH gamma1 attack using the @luca_defeo  et al reduction in https://github.com/asanso/sidh/blob/master/direct-attack-gamma-sidh.sage [pic.x.com/Xix1iqLIDE] https://twitter.com/asanso/status/1683755821413412865
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2HT0jnW0AA6s0g.png — no alt text provided by author
+
+**Links in post:** https://github.com/asanso/sidh/blob/master/direct-attack-gamma-sidh.sage, https://twitter.com/asanso/status/1683755821413412865
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2023-07-25 08:27 UTC (2023-07-25 09:27 WAT)
+    
+    - URL: https://x.com/asanso/status/1683755821413412865
+    - Metrics (at fetch): not returned
+    
+    > Do not be intimidated by the first lines of utility code. This is the relevant part https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb [pic.x.com/5a91GBvyb6] https://twitter.com/asanso/status/1683445973584936963
+    
+    **Media:**
+    - media `3_1683755785170427904` (details not returned by the API)
+    
+    **Links in post:** https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb, https://twitter.com/asanso/status/1683445973584936963
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @asanso — 2023-07-24 11:56 UTC (2023-07-24 12:56 WAT)
+        
+        - URL: https://x.com/asanso/status/1683445973584936963
+        - Metrics (at fetch): not returned
+        
+        > In case you still want to learn the @MainoLuciano @chloelono @yx7__ @isogenies  @BenjWeso 's attack (the simple version Algorithm 1) I have just created https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb .This doesn't generalize like https://github.com/Breaking-SIDH/direct-attack (Algorithm 2) but is simpler to understand(IMHO) [pic.x.com/z4IrGqA8CJ] https://twitter.com/asanso/status/1679770385942716416
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/F1zMBDZWcAAclGl.png — no alt text provided by author
+        
+        **Links in post:** https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb, https://github.com/Breaking-SIDH/direct-attack, https://twitter.com/asanso/status/1679770385942716416
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @asanso — 2023-07-14 08:30 UTC (2023-07-14 09:30 WAT)
+            
+            - URL: https://x.com/asanso/status/1679770385942716416
+            - Metrics (at fetch): not returned
+            
+            > Random Friday thought: We are almost reaching the one-year mark since  SIDH's death. Isogenyland has been quite a ride ever since. I don't  think any other field in cryptography has been as exciting in the past  year. Enjoy the ride. [pic.x.com/tMtZ84hghd]
+            
+            **Media:**
+            - media `3_1679770228874412032` (details not returned by the API)
+            
+        
+    
+
+
+---
+
+## 2023-07-25 · Post · Do not be intimidated by the first lines of utility code. This is the relevant part https://github.c
+
+
+### Post — @asanso — 2023-07-25 08:27 UTC (2023-07-25 09:27 WAT)
+
+- URL: https://x.com/asanso/status/1683755821413412865
+- Metrics (at fetch): not returned
+
+> Do not be intimidated by the first lines of utility code. This is the relevant part https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb [pic.x.com/5a91GBvyb6] https://twitter.com/asanso/status/1683445973584936963
+
+**Media:**
+- media `3_1683755785170427904` (details not returned by the API)
+
+**Links in post:** https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb, https://twitter.com/asanso/status/1683445973584936963
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2023-07-24 11:56 UTC (2023-07-24 12:56 WAT)
+    
+    - URL: https://x.com/asanso/status/1683445973584936963
+    - Metrics (at fetch): not returned
+    
+    > In case you still want to learn the @MainoLuciano @chloelono @yx7__ @isogenies  @BenjWeso 's attack (the simple version Algorithm 1) I have just created https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb .This doesn't generalize like https://github.com/Breaking-SIDH/direct-attack (Algorithm 2) but is simpler to understand(IMHO) [pic.x.com/z4IrGqA8CJ] https://twitter.com/asanso/status/1679770385942716416
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F1zMBDZWcAAclGl.png — no alt text provided by author
+    
+    **Links in post:** https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb, https://github.com/Breaking-SIDH/direct-attack, https://twitter.com/asanso/status/1679770385942716416
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @asanso — 2023-07-14 08:30 UTC (2023-07-14 09:30 WAT)
+        
+        - URL: https://x.com/asanso/status/1679770385942716416
+        - Metrics (at fetch): not returned
+        
+        > Random Friday thought: We are almost reaching the one-year mark since  SIDH's death. Isogenyland has been quite a ride ever since. I don't  think any other field in cryptography has been as exciting in the past  year. Enjoy the ride. [pic.x.com/tMtZ84hghd]
+        
+        **Media:**
+        - media `3_1679770228874412032` (details not returned by the API)
+        
+    
+
+
+---
+
+## 2023-07-24 · Post · In case you still want to learn the @MainoLuciano @chloelono @yx7__ @isogenies  @BenjWeso 's attack 
+
+
+### Post — @asanso — 2023-07-24 11:56 UTC (2023-07-24 12:56 WAT)
+
+- URL: https://x.com/asanso/status/1683445973584936963
+- Metrics (at fetch): not returned
+
+> In case you still want to learn the @MainoLuciano @chloelono @yx7__ @isogenies  @BenjWeso 's attack (the simple version Algorithm 1) I have just created https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb .This doesn't generalize like https://github.com/Breaking-SIDH/direct-attack (Algorithm 2) but is simpler to understand(IMHO) [pic.x.com/z4IrGqA8CJ] https://twitter.com/asanso/status/1679770385942716416
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1zMBDZWcAAclGl.png — no alt text provided by author
+
+**Links in post:** https://github.com/asanso/sidh/blob/master/direct-attack-sidh.ipynb, https://github.com/Breaking-SIDH/direct-attack, https://twitter.com/asanso/status/1679770385942716416
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2023-07-14 08:30 UTC (2023-07-14 09:30 WAT)
+    
+    - URL: https://x.com/asanso/status/1679770385942716416
+    - Metrics (at fetch): not returned
+    
+    > Random Friday thought: We are almost reaching the one-year mark since  SIDH's death. Isogenyland has been quite a ride ever since. I don't  think any other field in cryptography has been as exciting in the past  year. Enjoy the ride. [pic.x.com/tMtZ84hghd]
+    
+    **Media:**
+    - media `3_1679770228874412032` (details not returned by the API)
+    
+
+
+---
+
+## 2023-07-14 · Post · Random Friday thought: We are almost reaching the one-year mark since  SIDH's death. Isogenyland has
+
+
+### Post — @asanso — 2023-07-14 08:30 UTC (2023-07-14 09:30 WAT)
+
+- URL: https://x.com/asanso/status/1679770385942716416
+- Metrics (at fetch): not returned
+
+> Random Friday thought: We are almost reaching the one-year mark since  SIDH's death. Isogenyland has been quite a ride ever since. I don't  think any other field in cryptography has been as exciting in the past  year. Enjoy the ride. [pic.x.com/tMtZ84hghd]
+
+**Media:**
+- media `3_1679770228874412032` (details not returned by the API)
+
+
+---
+
+## 2023-05-03 · Post · Where a 50k bounty is fleshed out https://twitter.com/fredriksvantes/status/1653797991541514240
+
+
+### Post — @asanso — 2023-05-03 19:06 UTC (2023-05-03 20:06 WAT)
+
+- URL: https://x.com/asanso/status/1653838540642328602
+- Metrics (at fetch): not returned
+
+> Where a 50k bounty is fleshed out https://twitter.com/fredriksvantes/status/1653797991541514240
+
+**Links in post:** https://twitter.com/fredriksvantes/status/1653797991541514240
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1396924402219069443 — 2023-05-03 16:25 UTC (2023-05-03 17:25 WAT)
+    
+    - URL: https://x.com/1396924402219069443/status/1653797991541514240
+    - Metrics (at fetch): not returned
+    
+    > "Secured #5: Public Vulnerability Disclosures Update" is now live at https://blog.ethereum.org/2023/05/03/secured-5-disclosures-update ! This marks the second public disclosure of vulnerabilities received through the Ethereum Foundation's Bug Bounty Program.
+    
+    **Links in post:** https://blog.ethereum.org/2023/05/03/secured-5-disclosures-update
+    

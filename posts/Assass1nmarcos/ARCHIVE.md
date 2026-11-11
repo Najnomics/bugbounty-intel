@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 45
-- Conversations/threads: 26
+- Posts in this file: 46
+- Conversations/threads: 27
 - Oldest post captured: 2026-03-30
 - Newest post captured: 2026-11-03
 
@@ -723,6 +723,27 @@ Tags (automatic): IDOR / BOLA, Platform: HackerOne
 > Hello @Hacker0x01,
 >
 >  I never reached out to HackerOne like this @jobertabma , But now i need to as I would like you know that I reported a P1 BOLA on an API of one of biggest cyber security Firm on inscope asset and a triager came and mark it informative and wrote….
+
+
+---
+
+## 2026-04-20 · Post · Sharing a tool I built — portwave 🔥
+
+
+### Post — @Assass1nmarcos — 2026-04-20 17:17 UTC (2026-04-20 18:17 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2046277154753990858
+- Metrics (at fetch): not returned
+
+> Sharing a tool I built — portwave 🔥
+>
+> IP-focused port scanner in async Rust with a built-in httpx + nuclei recon pipeline. Smart IPv6 scanning. Scan-diff. Self-update.
+>
+> Single binary · MIT · Linux/macOS/Windows
+>
+> http://github.com/assassin-marcos/portwave
+
+**Links in post:** http://github.com/assassin-marcos/portwave
 
 
 ---

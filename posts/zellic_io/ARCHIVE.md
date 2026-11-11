@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 27
-- Conversations/threads: 27
+- Posts in this file: 36
+- Conversations/threads: 36
 - Oldest post captured: 2023-12-05
 - Newest post captured: 2026-10-20
 
@@ -357,7 +357,17 @@ Tags (automatic): XSS, Account takeover
 
 **Links in post:** https://twitter.com/samm0uda/status/2011439232083210309
 
-**Quoted post** 2011439232083210309: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @789591129696133120 — 2026-01-14 14:04 UTC (2026-01-14 15:04 WAT)
+    
+    - URL: https://x.com/789591129696133120/status/2011439232083210309
+    - Metrics (at fetch): bookmark 736, impression 215057, like 1323, quote 18, reply 38, retweet 225
+    
+    > $312,500 worth of stored/reflected XSS vulnerabilities in Meta’s Conversions API Gateway allowed Javascript code to run on any Facebook domain and millions of third-party websites. The flaw enabled zero-click Facebook account takeover and more:
+    >
+    > https://t.co/7gWpR4LQ8x
+    
 
 
 ---
@@ -382,7 +392,19 @@ Tags (automatic): Memory corruption / native
 
 **Links in post:** https://twitter.com/wiz_io/status/1999487651276272116
 
-**Quoted post** 1999487651276272116: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @wiz_io — 2025-12-12 14:32 UTC (2025-12-12 15:32 WAT)
+    
+    - URL: https://x.com/wiz_io/status/1999487651276272116
+    - Metrics (at fetch): bookmark 10, impression 32246, like 65, quote 1, reply 2, retweet 2
+    
+    > Team CCC (@u1f383 &amp; @farazsth98):
+    > Team CCC dropped a Linux Kernel 0-day vulnerability that won them 3rd place (tied) and $40,000. Clean exploit, big win, and stronger Linux security. https://t.co/ylB9Du4pdC
+    
+    **Media:**
+    - media `3_1999484047605579777` (details not returned by the API)
+    
 
 
 ---
@@ -455,6 +477,29 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2025-07-15 · Post · ZK protocols use special hash functions that are algebraically simple.
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154856614027689
+- Metrics (at fetch): bookmark 43, impression 8042, like 73, quote 2, reply 5, retweet 9
+
+> ZK protocols use special hash functions that are algebraically simple.
+>
+> But if our proof system supported lookup tables, could we do better?
+>
+> Introducing Polocolo: a new ZK-friendly hash function for PlonKup, co-authored by Zellic Cryptographer @baaaaaarkingdog. https://t.co/hviZfw3W7p
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv6PsyhbIAAV_Bj.jpg — no alt text provided by author
+
+
+---
+
 ## 2025-06-18 · Post · BLS signatures are everywhere, from Ethereum’s consensus to EigenLayer. But it’s easy to use them wr
 
 
@@ -472,6 +517,46 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GtvR0ENXMAQa8Hc.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-17 · Post · We're proud to announce that Code4rena contests will be free (no fees), starting today!
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @zellic_io — 2025-06-17 15:07 UTC (2025-06-17 16:07 WAT)
+
+- URL: https://x.com/zellic_io/status/1934991352514687351
+- Metrics (at fetch): bookmark 26, impression 21815, like 224, quote 1, reply 19, retweet 22
+
+> We're proud to announce that Code4rena contests will be free (no fees), starting today!
+>
+> We acquired Code4rena to deliver better security for our clients. Now we want everyone to have that.
+>
+> Audit contest platforms should exist to serve the ecosystem, not to extract from it. https://t.co/Vla6RRWbcV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1358831196747235328 — 2025-06-17 15:03 UTC (2025-06-17 16:03 WAT)
+    
+    - URL: https://x.com/1358831196747235328/status/1934990384566018249
+    - Metrics (at fetch): bookmark 92, impression 209199, like 754, quote 47, reply 98, retweet 120
+    
+    > Code4rena will run audit contests for free, as public goods.
+    >
+    > 100% of funds from sponsors will go directly to auditors and judges. We won't take any cut.
+    >
+    > Why?
+    >
+    > 1. Competitions are commodities.
+    > They're CRUD apps. Why should builders pay premium for a website just to submit bugs? https://t.co/EwIkF1cpEx
+    
+    **Media:**
+    - media `3_1934990060266627073` (details not returned by the API)
+    
 
 
 ---
@@ -538,6 +623,25 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2025-05-21 · Post · Every ecosystem has footguns that developers stumble into, leading to security issues.
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281821480427975
+- Metrics (at fetch): bookmark 56, impression 5709, like 57, quote 1, reply 4, retweet 5
+
+> Every ecosystem has footguns that developers stumble into, leading to security issues.
+>
+> That’s why we release security primers: guides that cover the key considerations and nuances for a stack.
+>
+> With 10+ guides released, we wanted to put them all in one spot.
+>
+> Check them out:🧵
+
+
+---
+
 ## 2025-05-19 · Post · Zellic is proud to be running a validator for @saharaai! 
 
 
@@ -555,7 +659,44 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 >
 > We look forward to deepening our commitment to Sahara by supporting their efforts towards an AI-driven future. https://t.co/RV4ppf4U1g
 
-**Quoted post** 1924465527503937646: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1416402399384662021 — 2025-05-19 14:01 UTC (2025-05-19 15:01 WAT)
+    
+    - URL: https://x.com/1416402399384662021/status/1924465527503937646
+    - Metrics (at fetch): bookmark 601, impression 1597886, like 6580, quote 5468, reply 3103, retweet 3292
+    
+    > 🔥The SIWA Public Testnet is now live!
+    >
+    > SIWA is our public testnet for decentralized AI development and the first real step toward an AI-driven future that’s open, equitable, and accessible to all. 
+    >
+    > Here’s what that means 🧵👇 https://t.co/8JRP958eMf
+    
+    **Media:**
+    - media `13_1924450865995456512` (details not returned by the API)
+    
+
+
+---
+
+## 2025-05-15 · Post · We retrieved every contract on Ethereum.
+
+
+### Post — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073678612267247
+- Metrics (at fetch): bookmark 325, impression 70131, like 503, quote 20, reply 21, retweet 61
+
+> We retrieved every contract on Ethereum.
+>
+> Along the way, we found the exact date when 16,000 unique contracts were deployed (the most in one day), the EOA with the most deployed contracts (2.9M), and much more.
+>
+> This is how we did it.🧵
+>
+> (Spoiler: It’s 69,788,231 contracts!) https://t.co/o5bSfY8wJS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrANBfOaAAMDW8-.jpg — no alt text provided by author
 
 
 ---
@@ -580,6 +721,78 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2025-04-30 · Post · How many security considerations are there for non-EVM chains? There's a TON.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2025-04-30 18:15 UTC (2025-04-30 19:15 WAT)
+
+- URL: https://x.com/zellic_io/status/1917643874937495843
+- Metrics (at fetch): not returned
+
+> How many security considerations are there for non-EVM chains? There's a TON.
+>
+> Developed by Telegram, @ton_blockchain has a very unique approach to both execution and state.
+>
+> In this thread, we'll dive into some security considerations unique to TON. ⬇️ 🧵 [pic.x.com/XZWdcY2iPn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpzWy_UbQAAmUw1.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-22 · Post · How to spot misleading audit competition metrics
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @zellic_io — 2025-04-22 20:29 UTC (2025-04-22 21:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1914778524956709074
+- Metrics (at fetch): not returned
+
+> How to spot misleading audit competition metrics
+>
+> Competitions are crowdsourced audits, where auditors compete to find bugs in a set timeframe. Last year, we acquired @code4rena which does these.
+>
+> We've also seen tons of misleading sales pitches. Here's what to watch out for: 🧵
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKnnp-WsAAoQGo.png — no alt text provided by author
+
+
+---
+
+## 2025-03-13 · Post · With the rise of AI agents, we expect new bugs, but we’ve instead found old bugs in disguise.
+
+
+Tags (automatic): SSRF, AI-assisted hunting
+
+
+### Post — @zellic_io — 2025-03-13 18:25 UTC (2025-03-13 19:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1900251843206537492
+- Metrics (at fetch): not returned
+
+> With the rise of AI agents, we expect new bugs, but we’ve instead found old bugs in disguise.
+>
+> Let’s look at two old-school bugs we found while looking at elizaOS:
+>
+> • An SSRF allowing internal services to be accessed 
+> • An LFI allowing host files to be read
+>
+> Let’s dive in 🧵 [pic.x.com/XdCGL62Yg9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gl8Ib-lWgAEockX.png — no alt text provided by author
+
+
+---
+
 ## 2025-02-12 · Post · We're proud to share that Zellic Security Researcher @fcremo helped discover an issue in the Cairo V
 
 
@@ -593,7 +806,7 @@ Tags (automatic): ZK
 
 > We're proud to share that Zellic Security Researcher @fcremo helped discover an issue in the Cairo VM during a recent audit of @Starknet OS.
 >
-> This bug has been fixed as an immediate patch to Starknet's current version 0.13.3. https://t.co/mAIC6HAfo5
+> This bug has been fixed as an immediate patch to Starknet's current version 0.13.3. [pic.x.com/mAIC6HAfo5]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GjmoxFLXQAAPSIq.png — no alt text provided by author
@@ -614,10 +827,55 @@ Tags (automatic): ZK
 
 > The Zellic cryptography team finished first place in the second and third puzzles in the latest @__zkhack__   competition, ZK Hack V, while just missing a top-three placement on the first puzzle.
 >
-> For a look into the three puzzles and their solutions, check out our blog below. https://t.co/YwdTzzVj1G
+> For a look into the three puzzles and their solutions, check out our blog below.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GiepajlWAAAzE6w.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-10 · Post · Zellic proudly announces the EVM trackooor, a modular tool for monitoring arbitrary actions on chain
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2025-01-10 16:39 UTC (2025-01-10 17:39 WAT)
+
+- URL: https://x.com/zellic_io/status/1877757164661715447
+- Metrics (at fetch): not returned
+
+> Zellic proudly announces the EVM trackooor, a modular tool for monitoring arbitrary actions on chain.
+>
+> With the amount of data that blockchains contain, it’s difficult to query and process anything that isn’t indexed event fields. 
+>
+> This is why we built EVM trackooor 🧵👇 [pic.x.com/pkL7fZb3H1]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2024-12-11 · Post · What happens when Random() isn’t random?
+
+
+### Post — @zellic_io — 2024-12-11 17:47 UTC (2024-12-11 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/1866902590765826220
+- Metrics (at fetch): not returned
+
+> What happens when Random() isn’t random?
+>
+> Here’s how popular projects, including Proton Wallet and the Dart SDK were all affected by the same underlying weakness we uncovered in the Dart/Flutter ecosystem.
+>
+> All issues found were responsibly disclosed with the vendors.
+>
+> Let’s go 🧵👇
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---

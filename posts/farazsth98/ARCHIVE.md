@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
-- Conversations/threads: 59
+- Posts in this file: 90
+- Conversations/threads: 71
 - Oldest post captured: 2020-11-22
 - Newest post captured: 2026-11-03
 
@@ -1460,6 +1460,360 @@ Tags (automatic): Memory corruption / native
 > https://t.co/rVdKDThTj3 https://t.co/3fmGlWaeSh
 
 **Quoted post** 1744981499533983995: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-06-19 · Post · This just in: 
+
+
+### Post — @farazsth98 — 2024-06-19 17:23 UTC (2024-06-19 18:23 WAT)
+
+- URL: https://x.com/farazsth98/status/1803478618288562363
+- Metrics (at fetch): bookmark 5, impression 7136, like 23, quote 0, reply 6, retweet 1
+
+> This just in: 
+>
+> - CertiK employees exploit a vulnerability to steal $3m
+> - Sit on it for a few days
+> - Quickly realize that @zachxbt will be on their ass in no time if they don't report this
+>
+> And now CertiK is covering for them??? https://t.co/4nrNzdJBG7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @993673575230996480 — 2024-06-19 15:30 UTC (2024-06-19 16:30 WAT)
+    
+    - URL: https://x.com/993673575230996480/status/1803450205389402215
+    - Metrics (at fetch): bookmark 467, impression 1144997, like 2291, quote 404, reply 908, retweet 810
+    
+    > CertiK recently identified a series of critical vulnerabilities in @krakenfx exchange which could potentially lead to hundreds of millions of dollars in losses.
+    >
+    > Starting from a finding in @krakenfx's deposit system where it may fail to differentiate between different internal https://t.co/JZkMXj2ZCD
+    
+    **Media:**
+    - media `3_1803446286667980801` (details not returned by the API)
+    
+
+
+---
+
+## 2024-03-25 · Post · Sad to say I've ran into this BS "we have a system monitoring for malicious activity that would catc
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @farazsth98 — 2024-03-25 06:02 UTC (2024-03-25 07:02 WAT)
+
+- URL: https://x.com/farazsth98/status/1772141872804233647
+- Metrics (at fetch): bookmark 0, impression 3243, like 17, quote 0, reply 3, retweet 0
+
+> Sad to say I've ran into this BS "we have a system monitoring for malicious activity that would catch an exploit for this issue and prevent damage" more than once. Of course the projects can never prove it, even though they need every validator to run such a monitoring system. https://t.co/w0nCORbrrw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1497970815341637643 — 2024-03-22 17:00 UTC (2024-03-22 18:00 WAT)
+    
+    - URL: https://x.com/1497970815341637643/status/1771220313205825917
+    - Metrics (at fetch): bookmark 128, impression 92126, like 379, quote 14, reply 42, retweet 63
+    
+    > In November, I submitted a critical bug to Cronos (@cronosapp) which they downplayed and have since been kicked off Immunefi. Here's some info about the bug and an example of how projects can simply not pay a fair amount.
+    >
+    > Report: https://t.co/bzmLkhigbe
+    >
+    > tl;dr: 
+    > - It's a
+    
+
+
+---
+
+## 2024-03-12 · Post · I keep finding OOB read vulnerabilities in VirtualBox😭
+
+
+### Post — @farazsth98 — 2024-03-12 12:47 UTC (2024-03-12 13:47 WAT)
+
+- URL: https://x.com/farazsth98/status/1767532988726968782
+- Metrics (at fetch): bookmark 10, impression 6958, like 101, quote 0, reply 2, retweet 4
+
+> I keep finding OOB read vulnerabilities in VirtualBox😭
+>
+> This one I'm pretty sure leads to an info leak, but it's difficult, and a nice OOB write would be much easier to use for an info leak + exploit anyway.
+>
+> I just want one exploitable bug😭give me some OOB writes or UAFs😭 https://t.co/fMjaPrNSKh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIeGByXaAAAUUed.png — no alt text provided by author
+
+
+---
+
+## 2024-03-07 · Post · Since I had some trouble getting VirtualBox built + a debugging setup, I ended up documenting it. ht
+
+
+### Post — @farazsth98 — 2024-03-07 10:58 UTC (2024-03-07 11:58 WAT)
+
+- URL: https://x.com/farazsth98/status/1765693381295157323
+- Metrics (at fetch): bookmark 51, impression 12149, like 112, quote 0, reply 0, retweet 27
+
+> Since I had some trouble getting VirtualBox built + a debugging setup, I ended up documenting it. https://t.co/33QjxhrEAO
+>
+> Was about time I dusted off this repo😅I wrote about QEMU research years ago and that was definitely useful to me for VirtualBox.
+>
+> I hope it's helpful! https://t.co/zjVKdFW0rw https://t.co/Fb8UGSm6oQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIEAQDGb0AAtPaH.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2024-03-06 21:54 UTC (2024-03-06 22:54 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1765496164973965478
+    - Metrics (at fetch): bookmark 9, impression 45789, like 116, quote 1, reply 2, retweet 3
+    
+    > First day back from holiday: confirmed 0day in VirtualBox.
+    >
+    > Or so I thought... the bug is basically useless and not exploitable at all.🙃
+    >
+    > Was inspired by @theflow0's recent VirtualBox vulnerabilities. I'm determined to find and exploit a VirtualBox 0day now😩
+    >
+    > More soon🤞 https://t.co/lyJgeCRdqL https://t.co/mnb7qCqdsU
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GIBLV_mbQAAsOBO.png — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @farazsth98 — 2024-02-22 21:39 UTC (2024-02-22 22:39 WAT)
+        
+        - URL: https://x.com/farazsth98/status/1760781418853204143
+        - Metrics (at fetch): bookmark 0, impression 36872, like 30, quote 1, reply 2, retweet 0
+        
+        > Going on holiday for 2 weeks, flight is later today, and of course I find a potential vulnerability right now...
+        >
+        > It's not web3 so it can wait the 2 weeks, but can my brain handle the wait? 😩😩😩
+        
+    
+
+
+---
+
+## 2024-03-06 · Post · First day back from holiday: confirmed 0day in VirtualBox.
+
+
+### Post — @farazsth98 — 2024-03-06 21:54 UTC (2024-03-06 22:54 WAT)
+
+- URL: https://x.com/farazsth98/status/1765496164973965478
+- Metrics (at fetch): bookmark 9, impression 45789, like 116, quote 1, reply 2, retweet 3
+
+> First day back from holiday: confirmed 0day in VirtualBox.
+>
+> Or so I thought... the bug is basically useless and not exploitable at all.🙃
+>
+> Was inspired by @theflow0's recent VirtualBox vulnerabilities. I'm determined to find and exploit a VirtualBox 0day now😩
+>
+> More soon🤞 https://t.co/lyJgeCRdqL https://t.co/mnb7qCqdsU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIBLV_mbQAAsOBO.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2024-02-22 21:39 UTC (2024-02-22 22:39 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1760781418853204143
+    - Metrics (at fetch): bookmark 0, impression 36872, like 30, quote 1, reply 2, retweet 0
+    
+    > Going on holiday for 2 weeks, flight is later today, and of course I find a potential vulnerability right now...
+    >
+    > It's not web3 so it can wait the 2 weeks, but can my brain handle the wait? 😩😩😩
+    
+
+
+---
+
+## 2024-02-22 · Post · Going on holiday for 2 weeks, flight is later today, and of course I find a potential vulnerability 
+
+
+### Post — @farazsth98 — 2024-02-22 21:39 UTC (2024-02-22 22:39 WAT)
+
+- URL: https://x.com/farazsth98/status/1760781418853204143
+- Metrics (at fetch): bookmark 0, impression 36872, like 30, quote 1, reply 2, retweet 0
+
+> Going on holiday for 2 weeks, flight is later today, and of course I find a potential vulnerability right now...
+>
+> It's not web3 so it can wait the 2 weeks, but can my brain handle the wait? 😩😩😩
+
+
+---
+
+## 2024-02-14 · Post · Was just reading through some old (ish?) Project Zero blog posts and came across this paragraph wher
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2024-02-14 20:41 UTC (2024-02-14 21:41 WAT)
+
+- URL: https://x.com/farazsth98/status/1757867559045763405
+- Metrics (at fetch): bookmark 21, impression 12119, like 100, quote 2, reply 2, retweet 11
+
+> Was just reading through some old (ish?) Project Zero blog posts and came across this paragraph where Jann Horn explains how he found a gigabrain critical bug in the Linux kernel while trying to explain how a bugfix worked.
+>
+> Vulnerability research is truly an art.. https://t.co/Q1S1FDeJr5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGUzOqHbYAA2h3t.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-14 · Post · Oops, correction - Barracuda3172 is Assymetric. Immunefi leaderboards links their name to the Assyme
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2024-02-14 07:22 UTC (2024-02-14 08:22 WAT)
+
+- URL: https://x.com/farazsth98/status/1757666625552359610
+- Metrics (at fetch): bookmark 0, impression 2095, like 12, quote 0, reply 1, retweet 0
+
+> Oops, correction - Barracuda3172 is Assymetric. Immunefi leaderboards links their name to the Assymetric twitter.
+>
+> That's crazy 😅 https://t.co/NBo6OsBf1r
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2024-02-14 06:43 UTC (2024-02-14 07:43 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1757656850819162434
+    - Metrics (at fetch): bookmark 7, impression 6225, like 13, quote 1, reply 4, retweet 2
+    
+    > Well now we know where one of those recent "whitehat just came in and snatched up $1 million in their very first report" came from @immunefi :P https://t.co/8EKn8uJWWV
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @212962007 — 2024-02-13 17:20 UTC (2024-02-13 18:20 WAT)
+        
+        - URL: https://x.com/212962007/status/1757454744581222548
+        - Metrics (at fetch): bookmark 15, impression 18457, like 82, quote 3, reply 3, retweet 15
+        
+        > First post on the Asymmetric Research blog. A critical bug in Polygon's Heimdall validator that put over $2B of crypto assets at risk. https://t.co/fg3HyCpYkm
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @asymmetric_re — 2024-02-13 17:18 UTC (2024-02-13 18:18 WAT)
+            
+            - URL: https://x.com/asymmetric_re/status/1757454172658556952
+            - Metrics (at fetch): bookmark 49, impression 25177, like 112, quote 10, reply 4, retweet 23
+            
+            > New blog post: Ethereum Log Confusion in Polygon's Heimdall. A critical vulnerability in Polygon PoS that could have allowed a rogue validator to take over the Heimdall consensus layer, putting over $2B of crypto assets in the PoS bridge at risk. https://www.asymmetric.re/blog/polygon-log-confusion
+            
+            **Links in post:** https://www.asymmetric.re/blog/polygon-log-confusion
+            
+        
+    
+
+
+---
+
+## 2024-02-14 · Post · Well now we know where one of those recent "whitehat just came in and snatched up $1 million in thei
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2024-02-14 06:43 UTC (2024-02-14 07:43 WAT)
+
+- URL: https://x.com/farazsth98/status/1757656850819162434
+- Metrics (at fetch): bookmark 7, impression 6225, like 13, quote 1, reply 4, retweet 2
+
+> Well now we know where one of those recent "whitehat just came in and snatched up $1 million in their very first report" came from @immunefi :P https://t.co/8EKn8uJWWV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @212962007 — 2024-02-13 17:20 UTC (2024-02-13 18:20 WAT)
+    
+    - URL: https://x.com/212962007/status/1757454744581222548
+    - Metrics (at fetch): bookmark 15, impression 18457, like 82, quote 3, reply 3, retweet 15
+    
+    > First post on the Asymmetric Research blog. A critical bug in Polygon's Heimdall validator that put over $2B of crypto assets at risk. https://t.co/fg3HyCpYkm
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @asymmetric_re — 2024-02-13 17:18 UTC (2024-02-13 18:18 WAT)
+        
+        - URL: https://x.com/asymmetric_re/status/1757454172658556952
+        - Metrics (at fetch): bookmark 49, impression 25177, like 112, quote 10, reply 4, retweet 23
+        
+        > New blog post: Ethereum Log Confusion in Polygon's Heimdall. A critical vulnerability in Polygon PoS that could have allowed a rogue validator to take over the Heimdall consensus layer, putting over $2B of crypto assets in the PoS bridge at risk. https://www.asymmetric.re/blog/polygon-log-confusion
+        
+        **Links in post:** https://www.asymmetric.re/blog/polygon-log-confusion
+        
+    
+
+
+---
+
+## 2024-02-13 · Post · Shitcoin devs be like "Can you audit my token pls? It's gonna be the next biggest token, 1 bil marke
+
+
+### Post — @farazsth98 — 2024-02-13 17:19 UTC (2024-02-13 18:19 WAT)
+
+- URL: https://x.com/farazsth98/status/1757454493086887972
+- Metrics (at fetch): bookmark 2, impression 3266, like 38, quote 1, reply 2, retweet 1
+
+> Shitcoin devs be like "Can you audit my token pls? It's gonna be the next biggest token, 1 bil market cap for sure!!!!"
+>
+> The code: https://t.co/yF3twAoWNF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGO5Lf9bsAMjZEk.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-06 · Post · Thanks @immunefi ! Looks very comfy 🙏
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2024-02-06 08:19 UTC (2024-02-06 09:19 WAT)
+
+- URL: https://x.com/farazsth98/status/1754781898361221583
+- Metrics (at fetch): bookmark 1, impression 6149, like 43, quote 1, reply 4, retweet 0
+
+> Thanks @immunefi ! Looks very comfy 🙏
+>
+> Thankfully the Australian winter is in a few months, will be able to wear this out and about soon 😄 https://t.co/MTSUm23MxF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFo81jkbkAABSSf.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-03 · Post · I was this close 🥲
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2024-02-03 08:07 UTC (2024-02-03 09:07 WAT)
+
+- URL: https://x.com/farazsth98/status/1753691609907245311
+- Metrics (at fetch): bookmark 1, impression 3282, like 41, quote 0, reply 6, retweet 0
+
+> I was this close 🥲
+>
+> Alright, now how to find the time to grind out some Immunefi.... https://t.co/pto9BbCWEo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFZdGRcbwAAuQzv.png — no alt text provided by author
 
 
 ---

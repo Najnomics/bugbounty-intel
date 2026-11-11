@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 35
-- Conversations/threads: 19
-- Oldest post captured: 2026-03-02
+- Posts in this file: 37
+- Conversations/threads: 21
+- Oldest post captured: 2025-11-11
 - Newest post captured: 2026-10-12
 
 
@@ -472,3 +472,35 @@ Tags (automatic): Platform: Immunefi
 **Links in post:** https://twitter.com/ivan_alexandur/status/2028255795335528895
 
 **Quoted post** 2028255795335528895: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-13 · Post · I just received 550 Hunt Points on @immunefi! immunefitribe https://t.co/xgWOrtottM
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xvivekd — 2025-11-13 17:06 UTC (2025-11-13 18:06 WAT)
+
+- URL: https://x.com/0xvivekd/status/1989017003517178241
+- Metrics (at fetch): bookmark 1, impression 2704, like 19, quote 0, reply 1, retweet 1
+
+> I just received 550 Hunt Points on @immunefi! #immunefitribe https://t.co/xgWOrtottM
+
+
+---
+
+## 2025-11-11 · Post · I just found a confirmed bug on @immunefi immunefitribe https://t.co/bXr16TKhvz
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xvivekd — 2025-11-11 10:51 UTC (2025-11-11 11:51 WAT)
+
+- URL: https://x.com/0xvivekd/status/1988197968122699889
+- Metrics (at fetch): bookmark 1, impression 1667, like 5, quote 1, reply 0, retweet 1
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/bXr16TKhvz

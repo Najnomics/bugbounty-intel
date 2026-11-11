@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 156
-- Conversations/threads: 122
-- Oldest post captured: 2024-04-04
+- Posts in this file: 174
+- Conversations/threads: 140
+- Oldest post captured: 2023-07-10
 - Newest post captured: 2026-11-05
 
 
@@ -2186,3 +2186,268 @@ Tags (automatic): AI-assisted hunting
 > for all of you auditory learners out there, I made a small script which uses openai tts-1 to quickly turn any pdf (of any size) into an mp3 file. Enjoy!
 >
 > https://t.co/a71uAhtelW
+
+
+---
+
+## 2024-03-22 · Post · My own little javascript deobfuscation research. Enjoy!
+
+
+### Post — @xssdoctor — 2024-03-22 17:37 UTC (2024-03-22 18:37 WAT)
+
+- URL: https://x.com/xssdoctor/status/1771229720325029929
+- Metrics (at fetch): bookmark 217, impression 30247, like 228, quote 4, reply 2, retweet 67
+
+> My own little javascript deobfuscation research. Enjoy!
+>
+> https://t.co/xbtVhhewEE
+
+
+---
+
+## 2024-03-07 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2024-03-07 14:57 UTC (2024-03-07 15:57 WAT)
+
+- URL: https://x.com/xssdoctor/status/1765753668026990778
+- Metrics (at fetch): bookmark 1, impression 3196, like 34, quote 0, reply 2, retweet 1
+
+> Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ #TogetherWeHitHarder
+
+
+---
+
+## 2024-03-04 · Post · Yay, I was awarded a $250 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2024-03-04 21:32 UTC (2024-03-04 22:32 WAT)
+
+- URL: https://x.com/xssdoctor/status/1764765959619834035
+- Metrics (at fetch): bookmark 2, impression 2887, like 37, quote 0, reply 2, retweet 1
+
+> Yay, I was awarded a $250 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ #TogetherWeHitHarder
+
+
+---
+
+## 2024-03-03 · Post · Watching @Jhaddix bug bounty course for the fourth time. Honestly there is nothing like it. It’s an 
+
+
+### Post — @xssdoctor — 2024-03-03 23:31 UTC (2024-03-04 00:31 WAT)
+
+- URL: https://x.com/xssdoctor/status/1764433333746893157
+- Metrics (at fetch): bookmark 4, impression 5135, like 27, quote 0, reply 1, retweet 2
+
+> Watching @Jhaddix bug bounty course for the fourth time. Honestly there is nothing like it. It’s an absolute must for anybody that’s into bug bounty novice to expert
+
+
+---
+
+## 2023-12-07 · Post · Yay, I was awarded a $750 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2023-12-07 20:07 UTC (2023-12-07 21:07 WAT)
+
+- URL: https://x.com/xssdoctor/status/1732854368792150284
+- Metrics (at fetch): bookmark 0, impression 1137, like 9, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $750 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ #TogetherWeHitHarder
+
+
+---
+
+## 2023-11-25 · Reply · @Jhaddix bug bounty methodology course is even better the second time
+
+
+### Post — @xssdoctor — 2023-11-25 20:30 UTC (2023-11-25 21:30 WAT)
+
+- URL: https://x.com/xssdoctor/status/1728511585495224597
+- Metrics (at fetch): bookmark 0, impression 4836, like 20, quote 0, reply 2, retweet 1
+
+> @Jhaddix bug bounty methodology course is even better the second time
+
+
+---
+
+## 2023-11-08 · Post · Taking a small break from bug hunting to play with gpt4-turbo. Thinking this may be the silver bulle
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2023-11-08 16:01 UTC (2023-11-08 17:01 WAT)
+
+- URL: https://x.com/xssdoctor/status/1722283239878869360
+- Metrics (at fetch): bookmark 0, impression 1028, like 3, quote 0, reply 0, retweet 0
+
+> Taking a small break from bug hunting to play with gpt4-turbo. Thinking this may be the silver bullet for js analysis.
+
+
+---
+
+## 2023-10-28 · Post · Finally, I realized that I could write JavaScript that would submit the form automatically, so that 
+
+
+Tags (automatic): XSS
+
+
+### Post — @xssdoctor — 2023-10-28 11:14 UTC (2023-10-28 12:14 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718224620099141761
+- Metrics (at fetch): bookmark 0, impression 584, like 1, quote 0, reply 1, retweet 0
+
+> Finally, I realized that I could write JavaScript that would submit the form automatically, so that the buyer could not confirm his purchase. It would automatically be confirmed, even if the amount was wrong. Xss-&gt; csrf. I submitted as a p1
+
+
+---
+
+## 2023-10-28 · Post · But I wanted more impact. I went to the api docs and I found that merchantdescription was a json par
+
+
+### Post — @xssdoctor — 2023-10-28 11:12 UTC (2023-10-28 12:12 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718224312744722625
+- Metrics (at fetch): bookmark 0, impression 115, like 0, quote 0, reply 1, retweet 0
+
+> But I wanted more impact. I went to the api docs and I found that merchantdescription was a json parameter in the api. I sent another payment with my alert payload, and when I visited the page it fired again! Now I was getting somewhere.
+
+
+---
+
+## 2023-10-28 · Post · But nothing worked. Finally I looked at the JavaScript of the final page https://t.co/9sckeZyKbK and
+
+
+Tags (automatic): XSS
+
+
+### Post — @xssdoctor — 2023-10-28 11:11 UTC (2023-10-28 12:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718223979306008949
+- Metrics (at fetch): bookmark 8, impression 2036, like 16, quote 0, reply 1, retweet 0
+
+> But nothing worked. Finally I looked at the JavaScript of the final page https://t.co/9sckeZyKbK and found that there was a parameter called merchantdesc which was vulnerable to reflected xss. I tried https://t.co/xM5yuRszzv&lt;script&gt;alert()&lt;/script&gt; and it fired!!!
+
+
+---
+
+## 2023-10-28 · Post · The merchant api accepted json input. There were many fields like name, credit card number, ip, call
+
+
+Tags (automatic): XSS
+
+
+### Post — @xssdoctor — 2023-10-28 11:08 UTC (2023-10-28 12:08 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718223289359663598
+- Metrics (at fetch): bookmark 1, impression 1847, like 3, quote 0, reply 2, retweet 0
+
+> The merchant api accepted json input. There were many fields like name, credit card number, ip, callbackurl, etc. many of these endpoints would end up as get parameters in the final redirect page for the buyer https://t.co/9sckeZyKbK. I tried to put xss payloads everywhere…
+
+
+---
+
+## 2023-10-28 · Post · That the buyer would visit like https://t.co/dyrT5jTkF4]. The url would then redirect to a second ur
+
+
+### Post — @xssdoctor — 2023-10-28 11:06 UTC (2023-10-28 12:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718222822349127776
+- Metrics (at fetch): bookmark 1, impression 1804, like 6, quote 0, reply 1, retweet 0
+
+> That the buyer would visit like https://t.co/dyrT5jTkF4]. The url would then redirect to a second url like https://t.co/NgG9GdfZvg. The buyer would confirm his/her purchase by clicking a submit button
+
+
+---
+
+## 2023-10-28 · Post · I found a pretty cool XSS chain last night. I’ll tell you how:
+
+
+Tags (automatic): XSS
+
+
+### Post — @xssdoctor — 2023-10-28 11:05 UTC (2023-10-28 12:05 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718222367854313585
+- Metrics (at fetch): bookmark 71, impression 28187, like 81, quote 1, reply 1, retweet 12
+
+> I found a pretty cool XSS chain last night. I’ll tell you how:
+>
+> The target was a payment api. The normal flow of the payment api was that the customer would make a payment. The merchant would then submit an api request to the target. The api would return a url…
+
+
+---
+
+## 2023-10-24 · Post · Yay, I was awarded a $350 bounty on @Hacker0x01! https://t.co/uDPAQipOHx TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2023-10-24 17:26 UTC (2023-10-24 18:26 WAT)
+
+- URL: https://x.com/xssdoctor/status/1716868843283624123
+- Metrics (at fetch): bookmark 0, impression 476, like 3, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $350 bounty on @Hacker0x01! https://t.co/uDPAQipOHx #TogetherWeHitHarder
+
+
+---
+
+## 2023-10-21 · Post · For those interested in recon, enumeration, fingerprinting, in depth-analysis on a target, Just foun
+
+
+### Post — @xssdoctor — 2023-10-21 13:28 UTC (2023-10-21 14:28 WAT)
+
+- URL: https://x.com/xssdoctor/status/1715721707401400423
+- Metrics (at fetch): bookmark 5, impression 690, like 13, quote 0, reply 0, retweet 0
+
+> For those interested in recon, enumeration, fingerprinting, in depth-analysis on a target, Just found this incredible YouTube channel. https://t.co/yWz9mRKOvI
+
+
+---
+
+## 2023-07-16 · Post · Spent all last weekend watching @Jhaddix bug bounty methodology course. I loved it so much I did it 
+
+
+### Post — @xssdoctor — 2023-07-16 23:52 UTC (2023-07-17 00:52 WAT)
+
+- URL: https://x.com/xssdoctor/status/1680727255490654211
+- Metrics (at fetch): bookmark 0, impression 4218, like 15, quote 0, reply 1, retweet 1
+
+> Spent all last weekend watching @Jhaddix bug bounty methodology course. I loved it so much I did it again this weekend. Really exceptional.
+
+
+---
+
+## 2023-07-12 · Post · "🚀 Today's goals: learn some JavaScript, enumerate a GraphQL endpoint for a bounty in working on, an
+
+
+### Post — @xssdoctor — 2023-07-12 18:40 UTC (2023-07-12 19:40 WAT)
+
+- URL: https://x.com/xssdoctor/status/1679199170333233152
+- Metrics (at fetch): bookmark 1, impression 559, like 4, quote 0, reply 0, retweet 0
+
+> "🚀 Today's goals: learn some JavaScript, enumerate a GraphQL endpoint for a bounty in working on, and work out for an hour. I like to start out strong and then be pleasantly disappointed #BugBounty
+
+
+---
+
+## 2023-07-10 · Post · Today I’m Exploring WAF bypass techniques! What i’m trying: 1️⃣ Identify the cloud architecture 🌩️ 2
+
+
+### Post — @xssdoctor — 2023-07-10 15:57 UTC (2023-07-10 16:57 WAT)
+
+- URL: https://x.com/xssdoctor/status/1678433299356680192
+- Metrics (at fetch): bookmark 2, impression 592, like 3, quote 0, reply 1, retweet 1
+
+> Today I’m Exploring WAF bypass techniques! What i’m trying: 1️⃣ Identify the cloud architecture 🌩️ 2️⃣ Scan the IP space with RustScan for 80,443 🛡️ 3️⃣ Perform virtual host enumeration using HTTPX 🕸️ 4️⃣ Grepping response strings🕵️‍♂️ Let me know your thoughts #BugBounty

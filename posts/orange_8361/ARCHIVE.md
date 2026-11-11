@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 45
-- Conversations/threads: 45
-- Oldest post captured: 2024-08-09
+- Posts in this file: 50
+- Conversations/threads: 50
+- Oldest post captured: 2024-04-09
 - Newest post captured: 2026-10-29
 
 
@@ -860,3 +860,86 @@ Tags (automatic): XSS, RCE
 > ⚡ Escaping from DocumentRoot to System Root
 > ⚡ Bypassing built-in ACL/Auth with just a '?'
 > ⚡ Turning XSS into RCE with legacy code from 1996
+
+
+---
+
+## 2024-06-07 · Post · PHP just fixed one of my RCE vulnerabilities, which affects XAMPP by default. Check to see if you ar
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-06-07 03:26 UTC (2024-06-07 04:26 WAT)
+
+- URL: https://x.com/orange_8361/status/1798919363376066781
+- Metrics (at fetch): bookmark 305, impression 136026, like 1203, quote 26, reply 12, retweet 338
+
+> PHP just fixed one of my RCE vulnerabilities, which affects XAMPP by default. Check to see if you are affected and update now! 🔥
+> https://t.co/EQdzNTihOm
+
+
+---
+
+## 2024-06-07 · Post · PHP just fixed one of my RCE vulnerabilities, which affects XAMPP by default.  Check to see if you a
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-06-07 03:25 UTC (2024-06-07 04:25 WAT)
+
+- URL: https://x.com/orange_8361/status/1798919266869366864
+- Metrics (at fetch): bookmark 0, impression 253, like 4, quote 0, reply 0, retweet 1
+
+> PHP just fixed one of my RCE vulnerabilities, which affects XAMPP by default.  Check to see if you are affected and update now! 🔥
+> https://t.co/EQdzNTihOm
+
+
+---
+
+## 2024-06-07 · Post · PHP just fixed one of my RCE vulnerabilities, which affects XAMPP by default.  Check to see if you a
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-06-07 03:25 UTC (2024-06-07 04:25 WAT)
+
+- URL: https://x.com/orange_8361/status/1798919221914812810
+- Metrics (at fetch): bookmark 0, impression 610, like 3, quote 0, reply 0, retweet 1
+
+> PHP just fixed one of my RCE vulnerabilities, which affects XAMPP by default.  Check to see if you are affected and update now! 🔥
+> &gt; https://t.co/EQdzNTihOm
+
+
+---
+
+## 2024-05-24 · Post · Thanks @BlackHatEvents for the BHUSA acceptance! It's pure web hacking research this time! 🔥
+
+
+### Post — @orange_8361 — 2024-05-24 15:00 UTC (2024-05-24 16:00 WAT)
+
+- URL: https://x.com/orange_8361/status/1794020631186706613
+- Metrics (at fetch): bookmark 43, impression 101597, like 470, quote 6, reply 20, retweet 53
+
+> Thanks @BlackHatEvents for the #BHUSA acceptance! It's pure web hacking research this time! 🔥
+>
+> However, I'm still not sure if I can enter the US or not. In advance, I reapplied for the VISA and had the interview in March. Two months have passed, and my case is still under https://t.co/yCYkrKjqrj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GOWaEMIboAArP8T.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-09 · Post · Just submitted my ✨ new research to Black Hat USA BHUSA, and it's all about Web Security this time!
+
+
+### Post — @orange_8361 — 2024-04-09 15:14 UTC (2024-04-09 16:14 WAT)
+
+- URL: https://x.com/orange_8361/status/1777716736474956280
+- Metrics (at fetch): bookmark 28, impression 45458, like 594, quote 5, reply 20, retweet 29
+
+> Just submitted my ✨ new research to Black Hat USA #BHUSA, and it's all about Web Security this time! Hoping the US will approve my VISA this year, giving me the chance to back to the stage again! :/
+> @BlackHatEvents

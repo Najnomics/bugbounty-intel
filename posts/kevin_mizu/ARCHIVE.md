@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 40
-- Conversations/threads: 38
-- Oldest post captured: 2024-05-11
+- Posts in this file: 54
+- Conversations/threads: 52
+- Oldest post captured: 2023-06-08
 - Newest post captured: 2026-10-28
 
 
@@ -960,3 +960,416 @@ Tags (automatic): XSS
 **Links in post:** https://twitter.com/cure53berlin/status/1789242798417281358
 
 **Quoted post** 1789242798417281358: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-04-26 · Post · I've finally finished my writeups for FCSC2024, which covered:
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @kevin_mizu — 2024-04-26 16:01 UTC (2024-04-26 17:01 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1783889269372654064
+- Metrics (at fetch): not returned
+
+> I've finally finished my writeups for #FCSC2024, which covered:
+>
+> - Nginx X-Accel-Redirect file read
+> - Werkzeug error-based request smuggling
+> - HTTP/1.1 and HTTP/0.9 browser confusion
+> - Connection: close bypass via Expect: 100-continue
+> - ...
+>
+> Link 👇
+>
+> https://mizu.re/tag/FCSC2024
+>
+> 1/2
+
+**Links in post:** https://mizu.re/tag/FCSC2024
+
+
+---
+
+## 2024-04-10 · Post · If you are doing bug bounty you should definitely check out @Icare1337's research on LibreOffice 🔥 h
+
+
+### Post — @kevin_mizu — 2024-04-10 07:37 UTC (2024-04-10 08:37 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1777964155934253254
+- Metrics (at fetch): not returned
+
+> If you are doing bug bounty you should definitely check out @Icare1337's research on LibreOffice 🔥 https://twitter.com/Icare1337/status/1777956864501670003
+
+**Links in post:** https://twitter.com/Icare1337/status/1777956864501670003
+
+**Quoted post (full text):**
+
+    #### Quoted post — @72546363 — 2024-04-10 07:08 UTC (2024-04-10 08:08 WAT)
+    
+    - URL: https://x.com/72546363/status/1777956864501670003
+    - Metrics (at fetch): not returned
+    
+    > https://github.com/Icare1337/LibreOffice_Tips_Bug_Bounty
+    > #BugBounty #bugbountytips  #libreoffice
+    
+    **Links in post:** https://github.com/Icare1337/LibreOffice_Tips_Bug_Bounty
+    
+
+
+---
+
+## 2024-02-21 · Post · Recently, I discovered a DOMPurify bypass in the case of CUSTOM_ELEMENT_HANDLING and FORBID_CONTENT 
+
+
+### Post — @kevin_mizu — 2024-02-21 16:31 UTC (2024-02-21 17:31 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1760341445872144520
+- Metrics (at fetch): not returned
+
+> Recently, I discovered a DOMPurify bypass in the case of CUSTOM_ELEMENT_HANDLING and FORBID_CONTENT options usage ⏭️
+>
+> This issue isn't a big deal as it doesn't involve a default configuration bypass. However, I thought it was interesting to document it 👇
+>
+> https://mizu.re/post/playing-with-dompurify-ce-handling
+
+**Links in post:** https://mizu.re/post/playing-with-dompurify-ce-handling
+
+
+---
+
+## 2024-01-26 · Post · Challenge time is now over ⏰
+
+
+Tags (automatic): XSS
+
+
+### Post — @kevin_mizu — 2024-01-26 16:35 UTC (2024-01-26 17:35 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1750920355173351923
+- Metrics (at fetch): not returned
+
+> Challenge time is now over ⏰
+>
+> TL;DR
+> - HTML injection
+> - Axios DOM Based CSPP
+> - Axios CSPP response overwrite gadget
+> - jQuery DOM Clobbering + CSPP selector overwrite gadgets
+> - Setting src attr to "javascript:" for each HTML node ➝ XSS
+>
+> Detailed writeup 👇
+> https://mizu.re/post/intigriti-january-2024-xss-challenge https://twitter.com/kevin_mizu/status/1747566277244387636
+
+**Links in post:** https://mizu.re/post/intigriti-january-2024-xss-challenge, https://twitter.com/kevin_mizu/status/1747566277244387636
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kevin_mizu — 2024-01-17 10:27 UTC (2024-01-17 11:27 WAT)
+    
+    - URL: https://x.com/kevin_mizu/status/1747566277244387636
+    - Metrics (at fetch): not returned
+    
+    > GG to all the solvers! However, no one solved it in the intended way :p
+    >
+    > Before giving my solution, I'm extending the challenge for another week with a fixed version!
+    >
+    > If you find the solution, please send me a DM 📮
+    >
+    > The challenge is accessible here 👇
+    > http://mizu.re:3000/ https://twitter.com/intigriti/status/1747292757125693764
+    
+    **Links in post:** http://mizu.re:3000/, https://twitter.com/intigriti/status/1747292757125693764
+    
+    **Quoted post** 1747292757125693764: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-01-17 · Post · GG to all the solvers! However, no one solved it in the intended way :p
+
+
+### Post — @kevin_mizu — 2024-01-17 10:27 UTC (2024-01-17 11:27 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1747566277244387636
+- Metrics (at fetch): not returned
+
+> GG to all the solvers! However, no one solved it in the intended way :p
+>
+> Before giving my solution, I'm extending the challenge for another week with a fixed version!
+>
+> If you find the solution, please send me a DM 📮
+>
+> The challenge is accessible here 👇
+> http://mizu.re:3000/ https://twitter.com/intigriti/status/1747292757125693764
+
+**Links in post:** http://mizu.re:3000/, https://twitter.com/intigriti/status/1747292757125693764
+
+**Quoted post** 1747292757125693764: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-12-21 · Post · In September, I looked into mlflow, and found several critical vulnerabilities 😁
+
+
+### Post — @kevin_mizu — 2023-12-21 16:18 UTC (2023-12-21 17:18 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1737870103985996207
+- Metrics (at fetch): not returned
+
+> In September, I looked into mlflow, and found several critical vulnerabilities 😁
+>
+> Most of these reports are now patched and publicly available here: https://huntr.com/users/kevin-mizu
+>
+> My favorite one involves a fully controlled file write via a custom rogue FTP 👇https://huntr.com/bounties/029a3824-cee3-4cf1-b260-7138aa539b85/
+
+**Links in post:** https://huntr.com/users/kevin-mizu, https://huntr.com/bounties/029a3824-cee3-4cf1-b260-7138aa539b85/
+
+
+---
+
+## 2023-12-16 · Post · I think it's time for a solution ⏰
+
+
+Tags (automatic): XSS
+
+
+### Post — @kevin_mizu — 2023-12-16 11:24 UTC (2023-12-16 12:24 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1735984327274688630
+- Metrics (at fetch): not returned
+
+> I think it's time for a solution ⏰
+>
+> To solve this challenge, you had to abuse the DOMPurify namespace misconfiguration to trigger an XSS this way 👇
+>
+> Solution link: https://challenges.mizu.re/xss_02.html?html=a%3Cstyle%3E%3C!--%3C/style%3E%3Ca%20id=%22--!%3E%3Cimg%20src=x%20onerror=alert()%3E%22%3E
+>
+> 1/6 [pic.x.com/crztnomjq6] https://twitter.com/kevin_mizu/status/1733086824518787473
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBd0i-wbsAACgA3.jpg — no alt text provided by author
+
+**Links in post:** https://challenges.mizu.re/xss_02.html?html=a%3Cstyle%3E%3C!--%3C/style%3E%3Ca%20id=%22--!%3E%3Cimg%20src=x%20onerror=alert()%3E%22%3E, https://twitter.com/kevin_mizu/status/1733086824518787473
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kevin_mizu — 2023-12-08 11:31 UTC (2023-12-08 12:31 WAT)
+    
+    - URL: https://x.com/kevin_mizu/status/1733086824518787473
+    - Metrics (at fetch): not returned
+    
+    > Small XSS Challenge Time 🚩
+    >
+    > Rules 📜
+    > - You should only use the provided endpoint.
+    > - The solution must not involve user interaction.
+    >
+    > If you find the solution, please do not send it in the comments; send me a DM instead 📩
+    >
+    > Challenge link 👇
+    > https://challenges.mizu.re/xss_02.html [pic.x.com/68HPqR7pOG]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GA0pSELbkAAvskD.jpg — no alt text provided by author
+    
+    **Links in post:** https://challenges.mizu.re/xss_02.html
+    
+
+
+---
+
+## 2023-12-08 · Post · Small XSS Challenge Time 🚩
+
+
+Tags (automatic): XSS
+
+
+### Post — @kevin_mizu — 2023-12-08 11:31 UTC (2023-12-08 12:31 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1733086824518787473
+- Metrics (at fetch): not returned
+
+> Small XSS Challenge Time 🚩
+>
+> Rules 📜
+> - You should only use the provided endpoint.
+> - The solution must not involve user interaction.
+>
+> If you find the solution, please do not send it in the comments; send me a DM instead 📩
+>
+> Challenge link 👇
+> https://challenges.mizu.re/xss_02.html [pic.x.com/68HPqR7pOG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GA0pSELbkAAvskD.jpg — no alt text provided by author
+
+**Links in post:** https://challenges.mizu.re/xss_02.html
+
+
+---
+
+## 2023-11-19 · Post · For the @GrehackConf 2023 CTF, I made 2 hard web challenges 🚩
+
+
+Tags (automatic): RCE
+
+
+### Post — @kevin_mizu — 2023-11-19 11:10 UTC (2023-11-19 12:10 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1726196358489727069
+- Metrics (at fetch): not returned
+
+> For the @GrehackConf 2023 #CTF, I made 2 hard #web challenges 🚩
+>
+> They were about:
+> [1] Python class pollution to RCE on Flask application
+> [2] HTTPOnly cookie leak due to Werkzeug improper Cookie parsing
+>
+> Detailed writeups 👇
+> [1] https://mizu.re/post/insecure-session-storage
+> [2] https://mizu.re/post/another-html-renderer
+
+**Links in post:** https://mizu.re/post/insecure-session-storage, https://mizu.re/post/another-html-renderer
+
+
+---
+
+## 2023-11-13 · Post · Challenge time is now over, I hope you've liked it! 😁
+
+
+Tags (automatic): XSS
+
+
+### Post — @kevin_mizu — 2023-11-13 14:27 UTC (2023-11-13 15:27 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1724071543159046278
+- Metrics (at fetch): not returned
+
+> Challenge time is now over, I hope you've liked it! 😁
+>
+> TL;DR
+> - mXSS via client-side / server-side confusion
+> - auto download to store the payload on file://
+> - puppeteer bot without SOP ➝ devtools (CDP)
+> - open file:// ➝ leak the flag
+>
+> Detailed writeup 👇
+> https://mizu.re/post/intigriti-october-2023-xss-challenge https://twitter.com/intigriti/status/1724066913561493834
+
+**Links in post:** https://mizu.re/post/intigriti-october-2023-xss-challenge, https://twitter.com/intigriti/status/1724066913561493834
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736615159653924864 — 2023-11-13 14:09 UTC (2023-11-13 15:09 WAT)
+    
+    - URL: https://x.com/736615159653924864/status/1724066913561493834
+    - Metrics (at fetch): not returned
+    
+    > 📚 Can't get enough of this challenge? Here's the official writeup by @kevin_mizu 💜
+    >
+    > https://mizu.re/post/intigriti-october-2023-xss-challenge
+    
+    **Links in post:** https://mizu.re/post/intigriti-october-2023-xss-challenge
+    
+
+
+---
+
+## 2023-09-01 · Post · I wasn't knowing what to do yesterday night so, I decided to create an XSS challenge 🚩
+
+
+Tags (automatic): XSS
+
+
+### Post — @kevin_mizu — 2023-09-01 15:02 UTC (2023-09-01 16:02 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1697625861543923906
+- Metrics (at fetch): not returned
+
+> I wasn't knowing what to do yesterday night so, I decided to create an XSS challenge 🚩
+>
+> There is nothing to win, I made it just for fun! If you want to try it out, click on the link below 👇
+>
+> https://mizu.re/challenges/xss_1/index.html
+>
+> The final goal it to pop an alert without any interaction 🔥 [pic.x.com/1dVA3qn8Yk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F48tqfUWMAApKf_.jpg — no alt text provided by author
+
+**Links in post:** https://mizu.re/challenges/xss_1/index.html
+
+
+---
+
+## 2023-07-27 · Post · My vulnerability reports on http://draw.io are now available! ⚠️
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @kevin_mizu — 2023-07-27 15:43 UTC (2023-07-27 16:43 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1684590428954173440
+- Metrics (at fetch): not returned
+
+> My vulnerability reports on http://draw.io are now available! ⚠️
+>
+> If you use the desktop version, think about updating it! More information bellow 👇
+>
+> - RCE: https://shorturl.at/ahlKM
+> - XSS to RCE: https://shorturl.at/yAFJ9
+> - XSS: https://shorturl.at/rwBFR
+
+**Links in post:** http://draw.io, https://shorturl.at/ahlKM, https://shorturl.at/yAFJ9, https://shorturl.at/rwBFR
+
+
+---
+
+## 2023-07-04 · Post · Recently, I've started to search for full chains XSS to RCE on http://draw.io desktop application. W
+
+
+Tags (automatic): XSS, RCE, CSP / CSPT
+
+
+### Post — @kevin_mizu — 2023-07-04 15:22 UTC (2023-07-04 16:22 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1676250162908282882
+- Metrics (at fetch): not returned
+
+> Recently, I've started to search for full chains XSS to RCE on http://draw.io desktop application. With this objective in mind, I came up with an interesting concept of CSP script-src self bypass for local electron apps on Linux! ⏭️
+>
+> Link below 👇
+> https://mizu.re/post/linux-local-electron-application-script-src-self-bypass
+
+**Links in post:** http://draw.io, https://mizu.re/post/linux-local-electron-application-script-src-self-bypass
+
+
+---
+
+## 2023-06-08 · Post · I'm glad to finally present my research about "Abusing Client-Side Desync on Werkzeug" at @sstic 202
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @kevin_mizu — 2023-06-08 15:16 UTC (2023-06-08 16:16 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1666826474727391236
+- Metrics (at fetch): not returned
+
+> I'm glad to finally present my research about "Abusing Client-Side Desync on Werkzeug" at @sstic 2023 📜
+>
+> Research paper is available here: https://mizu.re/post/abusing-client-side-desync-on-werkzeug 
+> Slides are available here: https://slides.com/kevin-mizu/sstic-2023-abusing-client-side-desync-on-werkzeug-cve-2022-29361 [pic.x.com/lutDYt5vSF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FyHB1vKWAAAEZoJ.jpg — no alt text provided by author
+
+**Links in post:** https://mizu.re/post/abusing-client-side-desync-on-werkzeug, https://slides.com/kevin-mizu/sstic-2023-abusing-client-side-desync-on-werkzeug-cve-2022-29361

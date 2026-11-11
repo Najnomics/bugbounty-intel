@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 53
+- Posts in this file: 60
+- Conversations/threads: 54
 - Oldest post captured: 2026-04-28
 - Newest post captured: 2026-11-04
 
@@ -445,7 +445,9 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 59, impression 8028, like 94, quote 1, reply 3, retweet 19
 
 > My latest presentation has landed on YouTube, courtesy of @SEC_T_org! Can AI do novel security research? You know it.
-> https://t.co/ybTJLZVk1N
+> https://www.youtube.com/watch?v=jCFZFDHnZrQ
+
+**Links in post:** https://www.youtube.com/watch?v=jCFZFDHnZrQ
 
 
 ---
@@ -461,7 +463,7 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/albinowax/status/2099855663740412095
 - Metrics (at fetch): bookmark 9, impression 4812, like 66, quote 0, reply 7, retweet 3
 
-> The HTTP Terminator will be back! I'll be presenting at @OffensiveAIcon with a streamlined AI-focused version of the original presentation, plus fresh research focused on achieving an autonomous discovery cascade. https://t.co/rVEmpkjwq7
+> The HTTP Terminator will be back! I'll be presenting at @OffensiveAIcon with a streamlined AI-focused version of the original presentation, plus fresh research focused on achieving an autonomous discovery cascade. [pic.x.com/rVEmpkjwq7]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HSQttH_XcAAQkgh.jpg — no alt text provided by author
@@ -509,7 +511,7 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/albinowax/status/2097632959855522199
 - Metrics (at fetch): bookmark 3, impression 4445, like 39, quote 0, reply 1, retweet 10
 
-> Just about to land in Stockholm for @SEC_T_org! Can't wait to meet you all - you can catch the final public delivery of "Can AI Do Novel Security Research? Meet the HTTP Terminator" at 11:15 tomorrow! Do say hi - I'm very happy to chat research, AI, Burp, lifting... also I have https://t.co/RGb4u2JLRw
+> Just about to land in Stockholm for @SEC_T_org! Can't wait to meet you all - you can catch the final public delivery of "Can AI Do Novel Security Research? Meet the HTTP Terminator" at 11:15 tomorrow! Do say hi - I'm very happy to chat research, AI, Burp, lifting... also I have stickers.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HRxJ45UXYAA97Ve.jpg — no alt text provided by author
@@ -525,9 +527,82 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/albinowax/status/2095127888425099644
 - Metrics (at fetch): bookmark 59, impression 16174, like 106, quote 0, reply 1, retweet 7
 
-> This looks genuinely cool! I've never done heavy research into recon (except accidentally via timing attacks), since it wasn't a viable standalone research target. This project may change that! https://t.co/2RBiS2cUt1
+> This looks genuinely cool! I've never done heavy research into recon (except accidentally via timing attacks), since it wasn't a viable standalone research target. This project may change that! https://twitter.com/intigriti/status/2094713628851065308
 
-**Quoted post** 2094713628851065308: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/intigriti/status/2094713628851065308
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736615159653924864 — 2026-09-01 09:07 UTC (2026-09-01 10:07 WAT)
+    
+    - URL: https://x.com/736615159653924864/status/2094713628851065308
+    - Metrics (at fetch): not returned
+    
+    > Big news from Intigriti! 🎉 
+    >
+    > We're incredibly proud to introduce CrowdRecon! 
+    >
+    > CrowdRecon brings crowd-led context to the moments before and between vulnerability reports. It helps customers quickly identify where attention is needed across exposure, scope, coverage, investigation, and follow-up, while giving researchers exciting new ways to collaborate, contribute, and earn the recognition their valuable recon work deserves. 
+    >
+    > We can't wait for you to see it in action! 🚀 
+    >
+    > 📖 Check out our blog below for the latest information. 
+    > 🙋 Register for the public beta today (via the blog below). 
+    > 💬 And tell us how reconnaissance can benefit you! 
+    >
+    > https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon
+    >  
+    > #Intigriti #CrowdRecon #Reconnaissance #AttackSurfaceManagement #CrowdsourcedSecurity
+    
+    **Media:**
+    - media `3_2094713626523320320` (details not returned by the API)
+    
+    **Links in post:** https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon
+    
+
+
+---
+
+## 2026-09-02 · Post · This looks genuinely cool! I've never done heavy research into recon (except accidentally via timing
+
+
+### Post — @albinowax — 2026-09-02 12:30 UTC (2026-09-02 13:30 WAT)
+
+- URL: https://x.com/albinowax/status/2095127155789226270
+- Metrics (at fetch): not returned
+
+> This looks genuinely cool! I've never done heavy research into recon (except accidentally via timing attacks), and I think this project makes recon a viable standalone research target https://twitter.com/intigriti/status/2094713628851065308
+
+**Links in post:** https://twitter.com/intigriti/status/2094713628851065308
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736615159653924864 — 2026-09-01 09:07 UTC (2026-09-01 10:07 WAT)
+    
+    - URL: https://x.com/736615159653924864/status/2094713628851065308
+    - Metrics (at fetch): not returned
+    
+    > Big news from Intigriti! 🎉 
+    >
+    > We're incredibly proud to introduce CrowdRecon! 
+    >
+    > CrowdRecon brings crowd-led context to the moments before and between vulnerability reports. It helps customers quickly identify where attention is needed across exposure, scope, coverage, investigation, and follow-up, while giving researchers exciting new ways to collaborate, contribute, and earn the recognition their valuable recon work deserves. 
+    >
+    > We can't wait for you to see it in action! 🚀 
+    >
+    > 📖 Check out our blog below for the latest information. 
+    > 🙋 Register for the public beta today (via the blog below). 
+    > 💬 And tell us how reconnaissance can benefit you! 
+    >
+    > https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon
+    >  
+    > #Intigriti #CrowdRecon #Reconnaissance #AttackSurfaceManagement #CrowdsourcedSecurity
+    
+    **Media:**
+    - media `3_2094713626523320320` (details not returned by the API)
+    
+    **Links in post:** https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon
+    
 
 
 ---
@@ -543,7 +618,7 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/albinowax/status/2091831632592605359
 - Metrics (at fetch): bookmark 15, impression 7793, like 113, quote 0, reply 4, retweet 10
 
-> Next month I'll present my latest research live at @SEC_T_org in Stockholm, Sweden! This will be the final live edition of "Can AI Do Novel Security Research? Meet the HTTP Terminator". It's also my first time attending SEC-T, can't wait to meet you all! https://t.co/97DcEcV5np
+> Next month I'll present my latest research live at @SEC_T_org in Stockholm, Sweden! This will be the final live edition of "Can AI Do Novel Security Research? Meet the HTTP Terminator". It's also my first time attending SEC-T, can't wait to meet you all! [pic.x.com/97DcEcV5np]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HQeJIQlXMAEmmpk.jpg — no alt text provided by author
@@ -622,7 +697,9 @@ Tags (automatic): AI-assisted hunting
 > 90 minutes till "Can AI do novel security research? Meet the HTTP Terminator" kicks off at #DEFCON main stage 3!  
 >
 > Watch the live-stream here at 1200 PDT
-> https://t.co/R5XqPjIiz7
+> https://www.youtube.com/watch?v=9go8jFHP4iA
+
+**Links in post:** https://www.youtube.com/watch?v=9go8jFHP4iA
 
 
 ---
@@ -639,7 +716,9 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 333, impression 26719, like 490, quote 5, reply 5, retweet 145
 
 > The whitepaper is live! Read "Can AI Do Novel Security Research? Meet the HTTP Terminator" here -&gt;
-> https://t.co/4BP8cXSr4e
+> https://portswigger.net/research/http-terminator
+
+**Links in post:** https://portswigger.net/research/http-terminator
 
 
 ---
@@ -692,7 +771,7 @@ Tags (automatic): Request smuggling / desync, AI-assisted hunting
 > - Extensive insight into what makes security research work
 > - Many many novel desync goodies
 >
-> I'll also publish major updates to https://t.co/9mcXILElcS
+> I'll also publish major updates to Turbo Intruder, Param Miner and HTTP Request Smuggler. Plus the full source of the HTTP Terminator itself.  Choose your own adventure :)
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HOe8jmLW8AAAr0S.jpg — no alt text provided by author

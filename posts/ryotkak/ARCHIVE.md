@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 161
-- Conversations/threads: 141
-- Oldest post captured: 2021-10-20
+- Posts in this file: 199
+- Conversations/threads: 170
+- Oldest post captured: 2019-05-29
 - Newest post captured: 2026-07-30
 
 
@@ -1994,7 +1994,15 @@ Tags (automatic): Platform: HackerOne
 - photo: https://pbs.twimg.com/media/FL719D9aIAELIAc.jpg — alt text: "MERCARI BUG HUNTERパーカー"
 - photo: https://pbs.twimg.com/media/FL71QfFaAAEHXVc.jpg — alt text: "MERCARI BUG HUNTER Tシャツ"
 
-**Quoted post** 1438343415087788036: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2021-09-16 03:26 UTC (2021-09-16 04:26 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1438343415087788036
+    - Metrics (at fetch): not returned
+    
+    > バグバウンティで記念品として貰えるTシャツ、貰えるのは嬉しいんだけどハンガーが足りなくなるのでハンガーも一緒に送って欲しくなってきた
+    
 
 
 ---
@@ -2618,3 +2626,652 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
 
 > よくわからないことを昨日の夜やっていました
+
+
+---
+
+## 2021-10-20 · Post · Minecraft speedrun Any% ACE (Arbitrary Code Execution) 00:00:37.130 https://youtu.be/1SE_fDXvTZ8 @Yo
+
+
+Tags (automatic): RCE
+
+
+### Post — @ryotkak — 2021-10-20 10:07 UTC (2021-10-20 11:07 WAT)
+
+- URL: https://x.com/ryotkak/status/1450765590604312584
+- Metrics (at fetch): not returned
+
+> Minecraft speedrun Any% ACE (Arbitrary Code Execution) 00:00:37.130 https://youtu.be/1SE_fDXvTZ8 @YouTubeより
+
+**Links in post:** https://youtu.be/1SE_fDXvTZ8
+
+
+---
+
+## 2021-10-19 · Post · これ、多分情報出してなかったと思うんですが、実は高校生です
+
+
+### Post — @ryotkak — 2021-10-19 04:15 UTC (2021-10-19 05:15 WAT)
+
+- URL: https://x.com/ryotkak/status/1450314661790838785
+- Metrics (at fetch): not returned
+
+> これ、多分情報出してなかったと思うんですが、実は高校生です
+
+
+---
+
+## 2021-10-06 · Post · CODE BLUE、ちょっとだけ出ます (初めてのインタビューだったのでレビューはお手柔らかにお願いします...)
+
+
+### Post — @ryotkak — 2021-10-06 05:52 UTC (2021-10-06 06:52 WAT)
+
+- URL: https://x.com/ryotkak/status/1445628001689817090
+- Metrics (at fetch): not returned
+
+> CODE BLUE、ちょっとだけ出ます (初めてのインタビューだったのでレビューはお手柔らかにお願いします...)
+
+
+---
+
+## 2021-09-16 · Post · バグバウンティで記念品として貰えるTシャツ、貰えるのは嬉しいんだけどハンガーが足りなくなるのでハンガーも一緒に送って欲しくなってきた
+
+
+### Post — @ryotkak — 2021-09-16 03:26 UTC (2021-09-16 04:26 WAT)
+
+- URL: https://x.com/ryotkak/status/1438343415087788036
+- Metrics (at fetch): not returned
+
+> バグバウンティで記念品として貰えるTシャツ、貰えるのは嬉しいんだけどハンガーが足りなくなるのでハンガーも一緒に送って欲しくなってきた
+
+
+---
+
+## 2021-09-10 · Post · Hello from OAuth2.0!
+
+
+Tags (automatic): OAuth
+
+
+### Post — @ryotkak — 2021-09-10 04:12 UTC (2021-09-10 05:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1436180741432307726
+- Metrics (at fetch): not returned
+
+> Hello from OAuth2.0!
+
+
+---
+
+## 2021-09-10 · Post · 読み/書き/DMとかいう大雑把すぎる権限管理からようやく抜け出せる
+
+
+### Post — @ryotkak — 2021-09-10 03:59 UTC (2021-09-10 04:59 WAT)
+
+- URL: https://x.com/ryotkak/status/1436177417077284868
+- Metrics (at fetch): not returned
+
+> 読み/書き/DMとかいう大雑把すぎる権限管理からようやく抜け出せる
+
+
+---
+
+## 2021-08-08 · Post · I published an article about a vulnerability in Definitely Typed that could be used to compromise th
+
+
+### Post — @ryotkak — 2021-08-08 00:02 UTC (2021-08-08 01:02 WAT)
+
+- URL: https://x.com/ryotkak/status/1424159111394959363
+- Metrics (at fetch): not returned
+
+> I published an article about a vulnerability in Definitely Typed that could be used to compromise the TypeScript ecosystem, potentially affecting many projects such as VSCode, Angular, or TypeScript itself.
+> https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages-en/
+
+**Links in post:** https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages-en/
+
+
+---
+
+## 2021-01-05 · Thread · Twitterのフリートにあった脆弱性の話です
+
+
+### Post — @ryotkak — 2021-01-05 00:24 UTC (2021-01-05 01:24 WAT)
+
+- URL: https://x.com/ryotkak/status/1346251211817713664
+- Metrics (at fetch): not returned
+
+> Twitterのフリートにあった脆弱性の話です
+> https://blog.ryotak.me/post/twitter-privesc/
+
+**Links in post:** https://blog.ryotak.me/post/twitter-privesc/
+
+
+### Thread part 2 — @ryotkak — 2021-01-12 12:50 UTC (2021-01-12 13:50 WAT)
+
+- URL: https://x.com/ryotkak/status/1348975587088482307
+- Metrics (at fetch): not returned
+
+> VSCodeのGitHubリポジトリに対して第三者が書き込み権限を奪えてしまった脆弱性の話です
+> https://blog.ryotak.me/post/vscode-write-access/
+
+**Links in post:** https://blog.ryotak.me/post/vscode-write-access/
+
+
+### Thread part 3 — @ryotkak — 2021-02-25 03:33 UTC (2021-02-25 04:33 WAT)
+
+- URL: https://x.com/ryotkak/status/1364780442121949184
+- Metrics (at fetch): not returned
+
+> GitHub Actionsにおけるサプライチェーン攻撃を通したリポジトリ侵害の影響範囲とその軽減策についてです
+> https://blog.ryotak.me/post/github-actions-supplychain/
+
+**Links in post:** https://blog.ryotak.me/post/github-actions-supplychain/
+
+
+### Thread part 4 — @ryotkak — 2021-04-21 11:11 UTC (2021-04-21 12:11 WAT)
+
+- URL: https://x.com/ryotkak/status/1384827136368775169
+- Metrics (at fetch): not returned
+
+> HomebrewのCaskリポジトリを侵害し、Homebrewを利用しているユーザーのコンピューター上で任意のコードを実行できた脆弱性の話です。
+> 公式インシデント報告: https://brew.sh/2021/04/21/security-incident-disclosure/
+> Blog (English): https://blog.ryotak.me/post/homebrew-security-incident-en/
+> ブログ (日本語): https://blog.ryotak.me/post/homebrew-security-incident/
+
+**Links in post:** https://brew.sh/2021/04/21/security-incident-disclosure/, https://blog.ryotak.me/post/homebrew-security-incident-en/, https://blog.ryotak.me/post/homebrew-security-incident/
+
+
+### Thread part 5 — @ryotkak — 2021-07-16 00:00 UTC (2021-07-16 01:00 WAT)
+
+- URL: https://x.com/ryotkak/status/1415823497398345731
+- Metrics (at fetch): not returned
+
+> cdnjsにおける任意コード実行が可能な脆弱性により、インターネット上のウェブサイトの12.7%を改ざんできた話です。
+> https://blog.ryotak.me/post/cdnjs-remote-code-execution/
+
+**Links in post:** https://blog.ryotak.me/post/cdnjs-remote-code-execution/
+
+
+### Thread part 6 — @ryotkak — 2021-07-30 12:00 UTC (2021-07-30 13:00 WAT)
+
+- URL: https://x.com/ryotkak/status/1421078156060938241
+- Metrics (at fetch): not returned
+
+> PyPI(Pythonのパッケージレジストリ)における潜在的な任意コード実行により、Pythonのエコシステムを侵害することができた脆弱性の話です。
+>
+> https://blog.ryotak.me/post/pypi-potential-remote-code-execution/
+
+**Links in post:** https://blog.ryotak.me/post/pypi-potential-remote-code-execution/
+
+
+### Thread part 7 — @ryotkak — 2021-08-08 00:02 UTC (2021-08-08 01:02 WAT)
+
+- URL: https://x.com/ryotkak/status/1424158990758342656
+- Metrics (at fetch): not returned
+
+> TypeScriptのエコシステムを侵害し、VSCodeやAngular、TypeScript本体などを含む多数のプロジェクトに影響を及ぼすことが出来たDefinitely Typedの脆弱性の話です。
+> https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages/
+
+**Links in post:** https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages/
+
+
+---
+
+## 2021-08-04 · Post · MSRC 2021 Most Valuable Security Researcherの一人に選ばれました https://twitter.com/msftsecresponse/status/142
+
+
+### Post — @ryotkak — 2021-08-04 23:56 UTC (2021-08-05 00:56 WAT)
+
+- URL: https://x.com/ryotkak/status/1423070349848039426
+- Metrics (at fetch): not returned
+
+> MSRC 2021 Most Valuable Security Researcherの一人に選ばれました https://twitter.com/msftsecresponse/status/1422958166258569218
+
+**Links in post:** https://twitter.com/msftsecresponse/status/1422958166258569218
+
+**Quoted post (full text):**
+
+    #### Quoted post — @116285769 — 2021-08-04 16:30 UTC (2021-08-04 17:30 WAT)
+    
+    - URL: https://x.com/116285769/status/1422958166258569218
+    - Metrics (at fetch): not returned
+    
+    > Congratulations to our MSRC 2021 Most Valuable Security Researchers! Thank you to all the researchers who have helped secure our customers. Check out our blog for the full list: https://msrc-blog.microsoft.com/2021/08/04/congratulations-to-the-msrc-2021-most-valuable-security-researchers/
+    
+    **Links in post:** https://msrc-blog.microsoft.com/2021/08/04/congratulations-to-the-msrc-2021-most-valuable-security-researchers/
+    
+
+
+---
+
+## 2021-07-30 · Post · I published an article about a potential remote code execution in PyPI (Python's Package Registry) t
+
+
+Tags (automatic): RCE
+
+
+### Post — @ryotkak — 2021-07-30 12:00 UTC (2021-07-30 13:00 WAT)
+
+- URL: https://x.com/ryotkak/status/1421078179226087428
+- Metrics (at fetch): not returned
+
+> I published an article about a potential remote code execution in PyPI (Python's Package Registry) that could allow an attacker to compromise the ecosystem of Python.
+>
+> https://blog.ryotak.me/post/pypi-potential-remote-code-execution-en/
+
+**Links in post:** https://blog.ryotak.me/post/pypi-potential-remote-code-execution-en/
+
+
+---
+
+## 2021-07-21 · Thread · この脆弱性(CVE-2021-35054)に関して、色々と誤解を生みそうなので訂正しておくと、攻撃を成立させるにはサーバーが"online-mode=false"で実行されており、かつBungeeCo
+
+
+### Post — @ryotkak — 2021-07-21 13:37 UTC (2021-07-21 14:37 WAT)
+
+- URL: https://x.com/ryotkak/status/1417841274464313348
+- Metrics (at fetch): not returned
+
+> この脆弱性(CVE-2021-35054)に関して、色々と誤解を生みそうなので訂正しておくと、攻撃を成立させるにはサーバーが"online-mode=false"で実行されており、かつBungeeCord等のプロキシ等でセッションの有効性を確認していない等の条件を満たす必要があります。 https://twitter.com/madonomori/status/1417780096593661954
+
+**Links in post:** https://twitter.com/madonomori/status/1417780096593661954
+
+**Quoted post (full text):**
+
+    #### Quoted post — @45548519 — 2021-07-21 09:34 UTC (2021-07-21 10:34 WAT)
+    
+    - URL: https://x.com/45548519/status/1417780096593661954
+    - Metrics (at fetch): not returned
+    
+    > 「Minecraft」のJava版にディレクトリトラバーサルの脆弱性 ～JVNが注意喚起／正式版では未修正。「Spigot」「Minecraft Forge」の最新版で回避可能 https://forest.watch.impress.co.jp/docs/news/1339792.html [pic.x.com/EzEhuXOYoV]
+    
+    **Media:**
+    - media `3_1417780090717442051` (details not returned by the API)
+    
+    **Links in post:** https://forest.watch.impress.co.jp/docs/news/1339792.html
+    
+
+
+### Thread part 2 — @ryotkak — 2021-07-21 13:40 UTC (2021-07-21 14:40 WAT)
+
+- URL: https://x.com/ryotkak/status/1417841934807101442
+- Metrics (at fetch): not returned
+
+> 現状一番詳しく情報がまとまってるのは僕が個人的に運用しているアドバイザリ公開用のサイト
+> https://vuln.ryotak.me/advisories/55
+> (微熱があるので文章が少しおかしいのは許してください...)
+
+**Links in post:** https://vuln.ryotak.me/advisories/55
+
+
+---
+
+## 2021-07-16 · Post · I published an article about remote code execution in cdnjs that could allow tampering of 12.7% of a
+
+
+Tags (automatic): RCE
+
+
+### Post — @ryotkak — 2021-07-16 00:00 UTC (2021-07-16 01:00 WAT)
+
+- URL: https://x.com/ryotkak/status/1415823546870165505
+- Metrics (at fetch): not returned
+
+> I published an article about remote code execution in cdnjs that could allow tampering of 12.7% of all websites on the internet.
+> https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+
+**Links in post:** https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+
+
+---
+
+## 2021-05-24 · Post · Terrariaの脆弱性報告しました(？) https://t.co/hNzSSqMKN7
+
+
+### Post — @ryotkak — 2021-05-24 23:47 UTC (2021-05-25 00:47 WAT)
+
+- URL: https://x.com/ryotkak/status/1396976226355474433
+- Metrics (at fetch): not returned
+
+> Terrariaの脆弱性報告しました(？) https://t.co/hNzSSqMKN7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @CVEnew — 2021-05-24 13:45 UTC (2021-05-24 14:45 WAT)
+    
+    - URL: https://x.com/CVEnew/status/1396824669991448585
+    - Metrics (at fetch): not returned
+    
+    > CVE-2021-32075 Re-Logic Terraria before 1.4.2.3 performs Insecure Deserialization. https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32075
+    
+    **Links in post:** https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32075
+    
+
+
+---
+
+## 2021-05-11 · Post · Microsoftに報告してたVSCodeのRCEが更に2個修正されてた
+
+
+### Post — @ryotkak — 2021-05-11 23:43 UTC (2021-05-12 00:43 WAT)
+
+- URL: https://x.com/ryotkak/status/1392264023618379779
+- Metrics (at fetch): not returned
+
+> Microsoftに報告してたVSCodeのRCEが更に2個修正されてた
+> CVE-2021-31211
+> CVE-2021-31214
+
+
+---
+
+## 2021-04-29 · Post · Git for CygwinのCloneした時に刺さる任意コード実行です。
+
+
+### Post — @ryotkak — 2021-04-29 23:07 UTC (2021-04-30 00:07 WAT)
+
+- URL: https://x.com/ryotkak/status/1387906383056568320
+- Metrics (at fetch): not returned
+
+> Git for CygwinのCloneした時に刺さる任意コード実行です。
+> アップストリーム(git/git)には修正が入っていないのでCygwin上でgitのセルフビルドをするのはやめたほうがいいです。 https://twitter.com/CVEnew/status/1387885772506861569
+
+**Links in post:** https://twitter.com/CVEnew/status/1387885772506861569
+
+**Quoted post (full text):**
+
+    #### Quoted post — @CVEnew — 2021-04-29 21:45 UTC (2021-04-29 22:45 WAT)
+    
+    - URL: https://x.com/CVEnew/status/1387885772506861569
+    - Metrics (at fetch): not returned
+    
+    > CVE-2021-29468 Cygwin Git is a patch set for the git command line tool for the cygwin environment. A specially crafted repository that contains symbolic links as well as files with backslash characters in the file name may cause just-checked out code to... https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29468
+    
+    **Links in post:** https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29468
+    
+
+
+---
+
+## 2021-04-21 · Post · ここ数日間Homebrewの他にもう一個インシデント対応してたからめちゃくちゃ忙しかった...
+
+
+### Post — @ryotkak — 2021-04-21 11:53 UTC (2021-04-21 12:53 WAT)
+
+- URL: https://x.com/ryotkak/status/1384837760561913856
+- Metrics (at fetch): not returned
+
+> ここ数日間Homebrewの他にもう一個インシデント対応してたからめちゃくちゃ忙しかった...
+
+
+---
+
+## 2021-04-21 · Post · I wrote an article about a recent security incident on Homebrew which allowed me to execute arbitrar
+
+
+### Post — @ryotkak — 2021-04-21 11:11 UTC (2021-04-21 12:11 WAT)
+
+- URL: https://x.com/ryotkak/status/1384827217876750338
+- Metrics (at fetch): not returned
+
+> I wrote an article about a recent security incident on Homebrew which allowed me to execute arbitrary codes on the users' machine. https://twitter.com/ryotkak/status/1384827136368775169
+
+**Links in post:** https://twitter.com/ryotkak/status/1384827136368775169
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2021-04-21 11:11 UTC (2021-04-21 12:11 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1384827136368775169
+    - Metrics (at fetch): not returned
+    
+    > HomebrewのCaskリポジトリを侵害し、Homebrewを利用しているユーザーのコンピューター上で任意のコードを実行できた脆弱性の話です。
+    > 公式インシデント報告: https://brew.sh/2021/04/21/security-incident-disclosure/
+    > Blog (English): https://blog.ryotak.me/post/homebrew-security-incident-en/
+    > ブログ (日本語): https://blog.ryotak.me/post/homebrew-security-incident/
+    
+    **Links in post:** https://brew.sh/2021/04/21/security-incident-disclosure/, https://blog.ryotak.me/post/homebrew-security-incident-en/, https://blog.ryotak.me/post/homebrew-security-incident/
+    
+
+
+---
+
+## 2021-04-16 · Post · Microsoftの2021年第1四半期リーダーボード、トップ10入りしてた
+
+
+### Post — @ryotkak — 2021-04-16 08:45 UTC (2021-04-16 09:45 WAT)
+
+- URL: https://x.com/ryotkak/status/1382978481034723329
+- Metrics (at fetch): not returned
+
+> Microsoftの2021年第1四半期リーダーボード、トップ10入りしてた
+> https://msrc-blog.microsoft.com/2021/04/15/congratulating-our-top-msrc-2021-q1-security-researchers/
+
+**Links in post:** https://msrc-blog.microsoft.com/2021/04/15/congratulating-our-top-msrc-2021-q1-security-researchers/
+
+
+---
+
+## 2021-04-14 · Post · VSCode 1.55.2、変更点が全部僕が報告した脆弱性を修正するためのもので、ちょっと嬉しくなった
+
+
+### Post — @ryotkak — 2021-04-14 00:21 UTC (2021-04-14 01:21 WAT)
+
+- URL: https://x.com/ryotkak/status/1382126825011236869
+- Metrics (at fetch): not returned
+
+> VSCode 1.55.2、変更点が全部僕が報告した脆弱性を修正するためのもので、ちょっと嬉しくなった
+
+
+---
+
+## 2021-04-14 · Thread · 今日開示されたやつ、VSCodeのRCEが5個だった
+
+
+### Post — @ryotkak — 2021-04-14 00:11 UTC (2021-04-14 01:11 WAT)
+
+- URL: https://x.com/ryotkak/status/1382124429350608897
+- Metrics (at fetch): not returned
+
+> 今日開示されたやつ、VSCodeのRCEが5個だった
+> 1. CVE-2021-28477
+> 2. CVE-2021-28457
+> 3. CVE-2021-28475
+> 4. CVE-2021-28473
+> 5. CVE-2021-28469
+
+
+### Thread part 2 — @ryotkak — 2021-04-14 00:12 UTC (2021-04-14 01:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1382124565862633473
+- Metrics (at fetch): not returned
+
+> ついでにVSCodeの拡張機能のRCEも2個報告してた
+> 1. CVE-2021-28470
+> 2. CVE-2021-28471
+
+
+---
+
+## 2021-03-18 · Post · QiitaにXSS報告しました https://twitter.com/CVEnew/status/1372590038324813833
+
+
+### Post — @ryotkak — 2021-03-18 23:55 UTC (2021-03-19 00:55 WAT)
+
+- URL: https://x.com/ryotkak/status/1372698286373576704
+- Metrics (at fetch): not returned
+
+> QiitaにXSS報告しました https://twitter.com/CVEnew/status/1372590038324813833
+
+**Links in post:** https://twitter.com/CVEnew/status/1372590038324813833
+
+**Quoted post (full text):**
+
+    #### Quoted post — @CVEnew — 2021-03-18 16:45 UTC (2021-03-18 17:45 WAT)
+    
+    - URL: https://x.com/CVEnew/status/1372590038324813833
+    - Metrics (at fetch): not returned
+    
+    > CVE-2021-28796 Increments Qiita::Markdown before 0.33.0 allows XSS in transformers. https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-28796
+    
+    **Links in post:** https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-28796
+    
+
+
+---
+
+## 2021-03-16 · Post · MarkdownからGoogle Slidesに変換するやつ、Googleが作ってくれてるの知らなかった
+
+
+### Post — @ryotkak — 2021-03-16 13:50 UTC (2021-03-16 14:50 WAT)
+
+- URL: https://x.com/ryotkak/status/1371821248175435779
+- Metrics (at fetch): not returned
+
+> MarkdownからGoogle Slidesに変換するやつ、Googleが作ってくれてるの知らなかった
+> https://github.com/googleworkspace/md2googleslides
+
+**Links in post:** https://github.com/googleworkspace/md2googleslides
+
+
+---
+
+## 2021-02-27 · Post · メルカリに脆弱性報告して色々もらった
+
+
+### Post — @ryotkak — 2021-02-27 05:18 UTC (2021-02-27 06:18 WAT)
+
+- URL: https://x.com/ryotkak/status/1365531806330544129
+- Metrics (at fetch): not returned
+
+> メルカリに脆弱性報告して色々もらった
+> https://about.mercari.com/security/vulnerability/ [pic.x.com/7xdebsbZ9e]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EvNX6etVgAQ6jTw.jpg — no alt text provided by author
+
+**Links in post:** https://about.mercari.com/security/vulnerability/
+
+
+---
+
+## 2021-01-20 · Thread · 報告してたGoの脆弱性が修正されてました。
+
+
+### Post — @ryotkak — 2021-01-20 01:11 UTC (2021-01-20 02:11 WAT)
+
+- URL: https://x.com/ryotkak/status/1351698751098818560
+- Metrics (at fetch): not returned
+
+> 報告してたGoの脆弱性が修正されてました。
+> CVE-2020-27955の概要読んで絶対Go自体も影響受けるなと思ってコード読んでる時に見つけたやつです。 https://twitter.com/golang/status/1351673649850421249
+
+**Links in post:** https://twitter.com/golang/status/1351673649850421249
+
+**Quoted post (full text):**
+
+    #### Quoted post — @113419064 — 2021-01-19 23:31 UTC (2021-01-20 00:31 WAT)
+    
+    - URL: https://x.com/113419064/status/1351673649850421249
+    - Metrics (at fetch): not returned
+    
+    > Go 1.15.7 and 1.14.14 have been released!
+    >
+    > A security fix for cmd/go (CVE-2021-3115),
+    > and crypto/elliptic (CVE-2021-3114)
+    >
+    > Announcement: https://groups.google.com/g/golang-announce/c/mperVMGa98w
+    >
+    > Download: https://golang.org/dl/#go1.15.7
+    >
+    > #golang
+    
+    **Links in post:** https://groups.google.com/g/golang-announce/c/mperVMGa98w, https://golang.org/dl/#go1.15.7
+    
+
+
+### Thread part 2 — @ryotkak — 2021-01-20 01:26 UTC (2021-01-20 02:26 WAT)
+
+- URL: https://x.com/ryotkak/status/1351702516610654212
+- Metrics (at fetch): not returned
+
+> ちなみになんですが、明示的にドキュメントに書かれていないだけで同じような実行可能ファイルの検索をする言語は結構あります
+
+
+---
+
+## 2021-01-14 · Post · 公開されてました。Git LFSのRCEです:
+
+
+### Post — @ryotkak — 2021-01-14 10:58 UTC (2021-01-14 11:58 WAT)
+
+- URL: https://x.com/ryotkak/status/1349672283325964291
+- Metrics (at fetch): not returned
+
+> 公開されてました。Git LFSのRCEです:
+> https://github.com/git-lfs/git-lfs/security/advisories/GHSA-cx3w-xqmc-84g5
+
+**Links in post:** https://github.com/git-lfs/git-lfs/security/advisories/GHSA-cx3w-xqmc-84g5
+
+
+---
+
+## 2020-10-09 · Post · 書きました
+
+
+### Post — @ryotkak — 2020-10-09 09:17 UTC (2020-10-09 10:17 WAT)
+
+- URL: https://x.com/ryotkak/status/1314495176665038849
+- Metrics (at fetch): not returned
+
+> 書きました
+> https://blog.ryotak.me/post/twitter-list-chain/
+
+**Links in post:** https://blog.ryotak.me/post/twitter-list-chain/
+
+
+---
+
+## 2019-12-10 · Post · 報告してたやつ
+
+
+### Post — @ryotkak — 2019-12-10 05:04 UTC (2019-12-10 06:04 WAT)
+
+- URL: https://x.com/ryotkak/status/1204265665290391553
+- Metrics (at fetch): not returned
+
+> 報告してたやつ
+> Kinza におけるクロスサイトスクリプティングの脆弱性
+> https://jvn.jp/jp/JVN63047298/
+
+**Links in post:** https://jvn.jp/jp/JVN63047298/
+
+
+---
+
+## 2019-11-30 · Post · .@V_Melville さんにアイコンを描いていただきました！ありがとうございます！
+
+
+### Post — @ryotkak — 2019-11-30 00:56 UTC (2019-11-30 01:56 WAT)
+
+- URL: https://x.com/ryotkak/status/1200579220717502464
+- Metrics (at fetch): not returned
+
+> .@V_Melville さんにアイコンを描いていただきました！ありがとうございます！
+> #新しいプロフィール画像 [pic.x.com/8DJGKHH5z3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EKlQb2-U8AAKt0w.jpg — no alt text provided by author
+
+
+---
+
+## 2019-05-29 · Post · CVE取得した
+
+
+### Post — @ryotkak — 2019-05-29 00:49 UTC (2019-05-29 01:49 WAT)
+
+- URL: https://x.com/ryotkak/status/1133535728468578304
+- Metrics (at fetch): not returned
+
+> CVE取得した

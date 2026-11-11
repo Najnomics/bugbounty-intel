@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 49
-- Conversations/threads: 45
-- Oldest post captured: 2026-08-21
+- Posts in this file: 53
+- Conversations/threads: 49
+- Oldest post captured: 2026-07-06
 - Newest post captured: 2026-11-09
 
 
@@ -1004,3 +1004,81 @@ Tags (automatic): SSRF, Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HQQ0ecYbIAA92So.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-15 · Post · 1inch woke up and chose violence. 💀 Seven bug bounty programs in one day.
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Piki_eth — 2026-07-15 12:09 UTC (2026-07-15 13:09 WAT)
+
+- URL: https://x.com/Piki_eth/status/2077364837513097499
+- Metrics (at fetch): not returned
+
+> 1inch woke up and chose violence. 💀 Seven bug bounty programs in one day.
+>
+> on @immunefi [pic.x.com/vFs54hvkFV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNRH7A-aMAAye81.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-13 · Post · Found a Critical theft-of-funds vulnerability, but missed the bounty by 14 hours. It happens. Back t
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Piki_eth — 2026-07-13 06:07 UTC (2026-07-13 07:07 WAT)
+
+- URL: https://x.com/Piki_eth/status/2076549112598819102
+- Metrics (at fetch): not returned
+
+> Found a Critical theft-of-funds vulnerability, but missed the bounty by 14 hours. It happens. Back to auditing—there's always another bug to find.
+>
+> #bugbounty #immunefi [pic.x.com/DQOQuyMpPJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNFiRfXbMAAwR0A.png — no alt text provided by author
+
+
+---
+
+## 2026-07-09 · Post · I just received 210 Hunt Points on @immunefi! immunefitribe https://immunefi.com/s/hh?ht=0ce2f96ef1
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Piki_eth — 2026-07-09 12:24 UTC (2026-07-09 13:24 WAT)
+
+- URL: https://x.com/Piki_eth/status/2075194423114428495
+- Metrics (at fetch): not returned
+
+> I just received 210 Hunt Points on @immunefi! #immunefitribe https://immunefi.com/s/hh?ht=0ce2f96ef11ed4c4&username=Piki&points=210
+
+**Links in post:** https://immunefi.com/s/hh?ht=0ce2f96ef11ed4c4&username=Piki&points=210
+
+
+---
+
+## 2026-07-06 · Post · I just found a bug and got paid on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=low&
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Piki_eth — 2026-07-06 10:03 UTC (2026-07-06 11:03 WAT)
+
+- URL: https://x.com/Piki_eth/status/2074071730268909627
+- Metrics (at fetch): not returned
+
+> I just found a bug and got paid on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=low&status=paid&gifId=2&programType=bug-bounty
+
+**Links in post:** https://immunefi.com/s/ss/?severity=low&status=paid&gifId=2&programType=bug-bounty

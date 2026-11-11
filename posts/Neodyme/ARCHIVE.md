@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 16
-- Conversations/threads: 16
-- Oldest post captured: 2025-01-15
+- Posts in this file: 19
+- Conversations/threads: 19
+- Oldest post captured: 2024-11-21
 - Newest post captured: 2026-04-17
 
 
@@ -184,6 +184,23 @@ Tags (automatic): Path normalization
 
 ---
 
+## 2025-08-20 · Post · We've concluded our audit of P-Token, Solana's new token program build with Pinocchio. It promises i
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2025-08-20 18:26 UTC (2025-08-20 19:26 WAT)
+
+- URL: https://x.com/Neodyme/status/1958234163376717904
+- Metrics (at fetch): bookmark 13, impression 46027, like 141, quote 18, reply 14, retweet 23
+
+> We've concluded our audit of P-Token, Solana's new token program build with Pinocchio. It promises impressive savings in Compute Unit (CU) usage. 
+> But what exactly does this mean in practice? We've investigated 👇️
+
+
+---
+
 ## 2025-07-25 · Post · We reported a vulnerability in Parallels Client via @thezdi last year. 
 
 
@@ -252,7 +269,9 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 >
 > We found an HTML-to-PDF API allowing file reads and SSRF - then chained it into remote code execution via a Chromium 62 WebView exploit.
 >
-> 👉 Read the full write-up here: https://t.co/Qa5Beuuncr
+> 👉 Read the full write-up here: https://neodyme.io/en/blog/html_renderer_to_rce/
+
+**Links in post:** https://neodyme.io/en/blog/html_renderer_to_rce/
 
 
 ---
@@ -270,7 +289,9 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 > 🗑️ Webroot Endpoint Protect (CVE-2023-7241) – SYSTEM via arbitrary file deletion
 > 📥 Checkpoint Harmony (CVE-2024-24912) – SYSTEM via a file download primitive
 >
-> Read more: https://t.co/rDNGUg89Lc
+> Read more: https://neodyme.io/en/blog/com_hijacking_3/
+
+**Links in post:** https://neodyme.io/en/blog/com_hijacking_3/
 
 
 ---
@@ -285,7 +306,24 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 
 > 🔎Part 2 of our COM hijacking series is live!
 > This time, we discuss a vulnerability in AVG Internet Security, where we bypass an allow-list, disable self-protection, and exploit an update mechanism to escalate privileges to SYSTEM 🚀💻
-> https://t.co/rnyx9gLhAb
+> https://neodyme.io/en/blog/com_hijacking_2/
+
+**Links in post:** https://neodyme.io/en/blog/com_hijacking_2/
+
+
+---
+
+## 2025-01-17 · Post · Your laptop was stolen. It’s running Windows 11, fully up-to-date, device encryption (BitLocker) and
+
+
+### Post — @Neodyme — 2025-01-17 14:00 UTC (2025-01-17 15:00 WAT)
+
+- URL: https://x.com/Neodyme/status/1880253893680197795
+- Metrics (at fetch): not returned
+
+> Your laptop was stolen. It’s running Windows 11, fully up-to-date, device encryption (BitLocker) and Secure Boot enabled. Your data is safe, right? Think again! This software-only attack grabs your encryption key. Following up on our #38C3 talk: https://neodyme.io/blog/bitlocker_screwed_without_a_screwdriver/
+
+**Links in post:** https://neodyme.io/blog/bitlocker_screwed_without_a_screwdriver/
 
 
 ---
@@ -299,4 +337,23 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 - Metrics (at fetch): bookmark 28, impression 15712, like 71, quote 3, reply 1, retweet 22
 
 > Following our #38c3 talk about exploiting security software for privilege escalation, we're excited to kick off a new blog series! 🎊 
-> Check out our first blog post on our journey to 💥 exploit five reputable security products to gain privileges via COM hijacking:
+> Check out our first blog post on our journey to 💥 exploit five reputable security products to gain privileges via COM hijacking: https://neodyme.io/blog/com_hijacking_1/
+
+**Links in post:** https://neodyme.io/blog/com_hijacking_1/
+
+
+---
+
+## 2024-11-21 · Post · 💥When security software itself becomes a target! 💥
+
+
+### Post — @Neodyme — 2024-11-21 16:56 UTC (2024-11-21 17:56 WAT)
+
+- URL: https://x.com/Neodyme/status/1859641975030546679
+- Metrics (at fetch): not returned
+
+> 💥When security software itself becomes a target! 💥
+> Learn how we've uncovered critical vulnerabilities in Wazuh, turning a powerful security tool into an unexpected attack vector. 
+> 👉 Read more about the findings: https://neodyme.io/en/blog/wazuh_rce/
+
+**Links in post:** https://neodyme.io/en/blog/wazuh_rce/

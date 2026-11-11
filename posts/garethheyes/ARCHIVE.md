@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 48
-- Oldest post captured: 2026-09-16
+- Posts in this file: 62
+- Conversations/threads: 51
+- Oldest post captured: 2026-08-26
 - Newest post captured: 2026-11-09
 
 
@@ -923,3 +923,52 @@ Tags (automatic): AI-assisted hunting
 > Did a small post about mutating Safari a behaviour that Shazzer found.
 >
 > https://t.co/obIPZuB4jK
+
+
+---
+
+## 2026-09-15 · Post · I built a new home for my book, JavaScript for Hackers.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-09-15 14:30 UTC (2026-09-15 15:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2099868340109934816
+- Metrics (at fetch): not returned
+
+> I built a new home for my book, JavaScript for Hackers.
+>
+> Every payload on the page is real. Click one and it pops in your browser.
+>
+> Then learn to build your own: parenthesis-free calls, non-alpha JS from just !+[]{}, DOM clobbering, SOP bypasses, the latest XSS. 1/4 [pic.x.com/lpPJpgL1sm]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2026-08-28 · Post · I don't know why the Fermi Paradox is such a big deal. Clearly Quantum Physics is a particle jammer 
+
+
+### Post — @garethheyes — 2026-08-28 16:59 UTC (2026-08-28 17:59 WAT)
+
+- URL: https://x.com/garethheyes/status/2093382884434268199
+- Metrics (at fetch): not returned
+
+> I don't know why the Fermi Paradox is such a big deal. Clearly Quantum Physics is a particle jammer invented by aliens to prevent instantaneous communication. Pilot wave theory FTW! We just need to find evidence of sub-quantum particles to bypass the jammer 😀
+
+
+---
+
+## 2026-08-26 · Post · Fixed another collision bug. If you opened the doors you could walk through walls.
+
+
+### Post — @garethheyes — 2026-08-26 20:20 UTC (2026-08-26 21:20 WAT)
+
+- URL: https://x.com/garethheyes/status/2092708789313015899
+- Metrics (at fetch): not returned
+
+> Fixed another collision bug. If you opened the doors you could walk through walls.

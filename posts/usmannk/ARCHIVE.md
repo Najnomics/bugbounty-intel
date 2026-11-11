@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 48
-- Conversations/threads: 48
-- Oldest post captured: 2025-10-13
+- Posts in this file: 50
+- Conversations/threads: 50
+- Oldest post captured: 2025-09-22
 - Newest post captured: 2026-11-05
 
 
@@ -827,3 +827,54 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G3HtFSDbYAIQwNS.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-25 · Post · what a strat, plausible deniability for any bug found https://twitter.com/0xlykt/status/197111497430
+
+
+### Post — @usmannk — 2025-09-25 16:47 UTC (2025-09-25 17:47 WAT)
+
+- URL: https://x.com/usmannk/status/1971255355159216340
+- Metrics (at fetch): not returned
+
+> what a strat, plausible deniability for any bug found https://twitter.com/0xlykt/status/1971114974304141435
+
+**Links in post:** https://twitter.com/0xlykt/status/1971114974304141435
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1517524203519430656 — 2025-09-25 07:30 UTC (2025-09-25 08:30 WAT)
+    
+    - URL: https://x.com/1517524203519430656/status/1971114974304141435
+    - Metrics (at fetch): not returned
+    
+    > Hyperliquid core team so goated that they intentionally left bugs on testnet so more people could claim bug bounties [pic.x.com/zCscPj5hxt]
+    
+    **Media:**
+    - media `3_1971114970940362752` (details not returned by the API)
+    
+
+
+---
+
+## 2025-09-22 · Post · "native token" -&gt; @immunefi blockchain coming in hot?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @usmannk — 2025-09-22 16:11 UTC (2025-09-22 17:11 WAT)
+
+- URL: https://x.com/usmannk/status/1970158989003645067
+- Metrics (at fetch): not returned
+
+> "native token" -&gt; @immunefi blockchain coming in hot?
+>
+> https://www.immunefi.foundation/ [pic.x.com/VNpHkdsZrR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1dpKDebgAEsrGY.jpg — no alt text provided by author
+
+**Links in post:** https://www.immunefi.foundation/

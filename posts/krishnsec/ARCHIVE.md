@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 26
-- Conversations/threads: 26
-- Oldest post captured: 2026-08-04
+- Posts in this file: 66
+- Conversations/threads: 66
+- Oldest post captured: 2025-06-19
 - Newest post captured: 2026-11-04
 
 
@@ -498,3 +498,746 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 4, impression 5830, like 86, quote 0, reply 12, retweet 1
 
 > Just got 2 P1 duped by 30 seconds 👀
+
+
+---
+
+## 2026-08-04 · Post · Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-08-04 13:28 UTC (2026-08-04 14:28 WAT)
+
+- URL: https://x.com/krishnsec/status/2084632582151602681
+- Metrics (at fetch): bookmark 5, impression 6162, like 215, quote 0, reply 13, retweet 3
+
+> Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HO4aSFabkAAyez5.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-01 · Post · when bounty+feedback both are gr8 ❤️ https://t.co/w8hgRxhMOo
+
+
+### Post — @krishnsec — 2026-08-01 04:42 UTC (2026-08-01 05:42 WAT)
+
+- URL: https://x.com/krishnsec/status/2083413153971614168
+- Metrics (at fetch): bookmark 3, impression 6289, like 108, quote 0, reply 4, retweet 0
+
+> when bounty+feedback both are gr8 ❤️ https://t.co/w8hgRxhMOo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOnFGiqaYAArpQS.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HOnFGitakAABWJ5.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HOnFGiMbkAApuZV.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-08 · Post · Crossed 16K reputation on @Bugcrowd ✅ https://t.co/3cuHEMc2CJ
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-07-08 13:59 UTC (2026-07-08 14:59 WAT)
+
+- URL: https://x.com/krishnsec/status/2074855923466797181
+- Metrics (at fetch): bookmark 4, impression 5456, like 174, quote 0, reply 11, retweet 0
+
+> Crossed 16K reputation on @Bugcrowd ✅ https://t.co/3cuHEMc2CJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMtedqSacAAYAUS.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-01 · Post · In June, I ranked 1 on @Bugcrowd leaderboard. I also crossed 299 P1s in total . Dropped multiple P1
+
+
+Tags (automatic): Auth bypass, Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-07-01 09:33 UTC (2026-07-01 10:33 WAT)
+
+- URL: https://x.com/krishnsec/status/2072252256519606325
+- Metrics (at fetch): bookmark 33, impression 9689, like 299, quote 0, reply 20, retweet 2
+
+> In June, I ranked #1 on @Bugcrowd leaderboard. I also crossed 299 P1s in total . Dropped multiple P1-P3 this month alone &gt; mostly auth bypasses + bac issues https://t.co/SyiLrARILV 
+> Thanks to bugcrowd and triage team ❤️ https://t.co/7I8xUuklPI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMIeGZGbcAAnGwg.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-29 · Post · Looking for some high-paying wildcard programs on @intigriti  👀
+
+
+### Post — @krishnsec — 2026-06-29 10:08 UTC (2026-06-29 11:08 WAT)
+
+- URL: https://x.com/krishnsec/status/2071536313170530792
+- Metrics (at fetch): bookmark 18, impression 8216, like 65, quote 0, reply 7, retweet 0
+
+> Looking for some high-paying wildcard programs on @intigriti  👀
+> If you know any programs with a huge attack surface and solid bounty payouts, drop your recommendations below 👇
+
+
+---
+
+## 2026-06-25 · Post · Bug bounty has become so tough for beginners that even having access to the most advanced frontier A
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @krishnsec — 2026-06-25 09:58 UTC (2026-06-25 10:58 WAT)
+
+- URL: https://x.com/krishnsec/status/2070084177899229397
+- Metrics (at fetch): bookmark 67, impression 23106, like 266, quote 0, reply 15, retweet 10
+
+> Bug bounty has become so tough for beginners that even having access to the most advanced frontier AI models isn’t enough. they might make a few thousand dollars by running LLMs on random bug bounty programs, but in the long run, most will struggle. As bb platforms and the
+
+
+---
+
+## 2026-06-23 · Post · ● All-time Top 5 P1 warrior at @Bugcrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-06-23 13:34 UTC (2026-06-23 14:34 WAT)
+
+- URL: https://x.com/krishnsec/status/2069413788722606133
+- Metrics (at fetch): bookmark 7, impression 6725, like 146, quote 0, reply 10, retweet 0
+
+> ● All-time Top #5 P1 warrior at @Bugcrowd
+> https://t.co/rYLFEhDBNX https://t.co/vBVuy8O8Bt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLgIz4ZboAAaJI_.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-16 · Post · I love auth bypass bugs 🐞
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @krishnsec — 2026-06-16 06:11 UTC (2026-06-16 07:11 WAT)
+
+- URL: https://x.com/krishnsec/status/2066765544829915557
+- Metrics (at fetch): bookmark 22, impression 6743, like 137, quote 1, reply 5, retweet 0
+
+> I love auth bypass bugs 🐞
+
+
+---
+
+## 2026-06-07 · Post · Crossed 15K reputation on @Bugcrowd ✅ https://t.co/ACGVGvEcL1
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-06-07 11:04 UTC (2026-06-07 12:04 WAT)
+
+- URL: https://x.com/krishnsec/status/2063577840692629691
+- Metrics (at fetch): bookmark 9, impression 8872, like 270, quote 0, reply 14, retweet 0
+
+> Crossed 15K reputation on @Bugcrowd ✅ https://t.co/ACGVGvEcL1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKNNGxCawAABWUp.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-07 · Post · so what tricks are hackers using these days to bypass Akamai ? Come on share the secret sauce 🌚 bug
+
+
+### Post — @krishnsec — 2026-06-07 10:15 UTC (2026-06-07 11:15 WAT)
+
+- URL: https://x.com/krishnsec/status/2063565395819434132
+- Metrics (at fetch): bookmark 42, impression 10713, like 84, quote 0, reply 4, retweet 3
+
+> so what tricks are hackers using these days to bypass Akamai ? Come on share the secret sauce 🌚 #bugbounty
+
+
+---
+
+## 2026-05-28 · Post · I’m krishnsec and I hunt every kind of bug
+
+
+### Post — @krishnsec — 2026-05-28 07:59 UTC (2026-05-28 08:59 WAT)
+
+- URL: https://x.com/krishnsec/status/2059907360806879585
+- Metrics (at fetch): bookmark 6, impression 6354, like 70, quote 0, reply 8, retweet 1
+
+> I’m krishnsec and I hunt every kind of bug
+
+
+---
+
+## 2026-05-27 · Post · AI isn’t the biggest threat to bug bounties but broken triage at scale is 💯 &gt;&gt;&gt;&gt; https:/
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @krishnsec — 2026-05-27 16:33 UTC (2026-05-27 17:33 WAT)
+
+- URL: https://x.com/krishnsec/status/2059674276555620503
+- Metrics (at fetch): bookmark 4, impression 3369, like 35, quote 0, reply 1, retweet 1
+
+> AI isn’t the biggest threat to bug bounties but broken triage at scale is 💯 &gt;&gt;&gt;&gt; https://t.co/RIcXX1R2nF
+
+**Quoted post (full text):**
+
+    #### Quoted post — @883005552309276672 — 2026-05-27 15:34 UTC (2026-05-27 16:34 WAT)
+    
+    - URL: https://x.com/883005552309276672/status/2059659583086575915
+    - Metrics (at fetch): bookmark 30, impression 17515, like 272, quote 4, reply 19, retweet 19
+    
+    > AI will kill bug bounties NOT because it’s better than human hunters.
+    >
+    > It’ll kill them because platforms are failing at handing triage queues and unable to distinguish legit bugs from AI Slops.
+    
+
+
+---
+
+## 2026-05-15 · Post · Idk whether AI have power to kill bug bounty, but these kinds of scenarios are definitely killing bu
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @krishnsec — 2026-05-15 08:27 UTC (2026-05-15 09:27 WAT)
+
+- URL: https://x.com/krishnsec/status/2055203403102609462
+- Metrics (at fetch): bookmark 11, impression 4454, like 61, quote 0, reply 6, retweet 0
+
+> Idk whether AI have power to kill bug bounty, but these kinds of scenarios are definitely killing bug hunting 💯 https://t.co/xI2KXQKdH9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @krishnsec — 2026-05-14 07:42 UTC (2026-05-14 08:42 WAT)
+    
+    - URL: https://x.com/krishnsec/status/2054829771952189471
+    - Metrics (at fetch): bookmark 27, impression 13789, like 185, quote 1, reply 17, retweet 7
+    
+    > I dropped 5x RCEs in a single report, it got triaged, then after 16 days the customer patched everything and  rewarded it as P3?
+    > So a potential $10k–15k critical report suddenly became a $500 payout in one comment - this severity decision genuinely makes no sense .
+    >
+    > These kinds
+    
+
+
+---
+
+## 2026-05-14 · Post · another program, another P1 with video poc marked N/A 👏 
+
+
+### Post — @krishnsec — 2026-05-14 14:14 UTC (2026-05-14 15:14 WAT)
+
+- URL: https://x.com/krishnsec/status/2054928236027826396
+- Metrics (at fetch): bookmark 11, impression 4454, like 76, quote 1, reply 5, retweet 1
+
+> another program, another P1 with video poc marked N/A 👏 
+> ofcourse, if you check the bug late, it’ll already be patched  .
+
+
+---
+
+## 2026-05-14 · Post · I dropped 5x RCEs in a single report, it got triaged, then after 16 days the customer patched everyt
+
+
+### Post — @krishnsec — 2026-05-14 07:42 UTC (2026-05-14 08:42 WAT)
+
+- URL: https://x.com/krishnsec/status/2054829771952189471
+- Metrics (at fetch): bookmark 27, impression 13789, like 185, quote 1, reply 17, retweet 7
+
+> I dropped 5x RCEs in a single report, it got triaged, then after 16 days the customer patched everything and  rewarded it as P3?
+> So a potential $10k–15k critical report suddenly became a $500 payout in one comment - this severity decision genuinely makes no sense .
+>
+> These kinds
+
+
+---
+
+## 2026-05-14 · Post · I dropped 5x RCEs in a single report, it got triaged, then after 16 days the customer patched everyt
+
+
+### Post — @krishnsec — 2026-05-14 07:42 UTC (2026-05-14 08:42 WAT)
+
+- URL: https://x.com/krishnsec/status/2054829722325164059
+- Metrics (at fetch): bookmark 0, impression 33, like 0, quote 0, reply 0, retweet 0
+
+> I dropped 5x RCEs in a single report, it got triaged, then after 16 days the customer patched everything and  rewarded it as P3?
+> So a potential $10k–15k critical report suddenly became a $500 payout in one comment - this severity decision genuinely makes no sense .
+> These kinds of
+
+
+---
+
+## 2026-05-14 · Post · I dropped 5x RCEs in a single report, it got triaged, then after 16 days the customer patched everyt
+
+
+### Post — @krishnsec — 2026-05-14 07:42 UTC (2026-05-14 08:42 WAT)
+
+- URL: https://x.com/krishnsec/status/2054829614762262841
+- Metrics (at fetch): bookmark 0, impression 31, like 0, quote 0, reply 0, retweet 0
+
+> I dropped 5x RCEs in a single report, it got triaged, then after 16 days the customer patched everything and  rewarded it as P3?
+> So a potential $10k–15k critical report suddenly became a $500 payout in one comment - this severity decision genuinely makes no sense .
+>
+> These kinds
+
+
+---
+
+## 2026-05-01 · Post · In April, I ranked 1 on both the P1 &amp; P2 @Bugcrowd  leaderboard. I also crossed 250+ accepted P
+
+
+Tags (automatic): SQL injection, Auth bypass, RCE, Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-05-01 05:46 UTC (2026-05-01 06:46 WAT)
+
+- URL: https://x.com/krishnsec/status/2050089486948958642
+- Metrics (at fetch): bookmark 25, impression 6611, like 235, quote 0, reply 9, retweet 3
+
+> In April, I ranked #1 on both the P1 &amp; P2 @Bugcrowd  leaderboard. I also crossed 250+ accepted P1s in total .
+> Dropped multiple P1s this month alone = mainly auth bypass, RCE, and SQLi.
+> https://t.co/ClAM2opTIC
+> Thanks to Bugcrowd &amp; the triage team for their support. https://t.co/umWDdf6GCm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HHNhEYAaoAA0P8J.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-17 · Post · RIP to all the paid XSS testing tools 🪦
+
+
+Tags (automatic): XSS
+
+
+### Post — @krishnsec — 2026-04-17 07:08 UTC (2026-04-17 08:08 WAT)
+
+- URL: https://x.com/krishnsec/status/2045036729309249800
+- Metrics (at fetch): not returned
+
+> RIP to all the paid XSS testing tools 🪦
+> #bugbounty
+
+
+---
+
+## 2026-04-16 · Post · I found a high severity bug on Intigriti about a week ago, but couldn’t report it due to submission 
+
+
+### Post — @krishnsec — 2026-04-16 13:59 UTC (2026-04-16 14:59 WAT)
+
+- URL: https://x.com/krishnsec/status/2044777638687072265
+- Metrics (at fetch): not returned
+
+> I found a high severity bug on Intigriti about a week ago, but couldn’t report it due to submission restrictions. 
+> now restriction is gone and I completely forgot what was the bug :(
+
+
+---
+
+## 2026-04-09 · Post · Last month ranked 1 on the @Bugcrowd leaderboard in 🇮🇳 [pic.x.com/Tm0fwW1Zrs]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-04-09 09:04 UTC (2026-04-09 10:04 WAT)
+
+- URL: https://x.com/krishnsec/status/2042166798729252947
+- Metrics (at fetch): not returned
+
+> Last month ranked #1 on the @Bugcrowd leaderboard in 🇮🇳 [pic.x.com/Tm0fwW1Zrs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HFc74HFbsAAohZw.jpg — no alt text provided by author
+
+
+---
+
+## 2026-03-30 · Post · ● All-time Top 10 P1 warrior at @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-03-30 06:02 UTC (2026-03-30 07:02 WAT)
+
+- URL: https://x.com/krishnsec/status/2038497048073490458
+- Metrics (at fetch): not returned
+
+> ● All-time Top #10 P1 warrior at @Bugcrowd 
+> https://bugcrowd.com/achievements/leaderboards/p1-warrior [pic.x.com/nAgh6kiEb5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HEow-JjaYAApi3K.jpg — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/achievements/leaderboards/p1-warrior
+
+
+---
+
+## 2026-03-03 · Post · Crossed 13k reputation on @Bugcrowd ✅
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-03-03 04:58 UTC (2026-03-03 05:58 WAT)
+
+- URL: https://x.com/krishnsec/status/2028696497873986013
+- Metrics (at fetch): not returned
+
+> Crossed 13k reputation on @Bugcrowd ✅
+
+
+---
+
+## 2026-02-19 · Post · First time, I trusted burp AI and watched ~10,000 credits vanish while trying to exploit cmdi , got 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @krishnsec — 2026-02-19 10:47 UTC (2026-02-19 11:47 WAT)
+
+- URL: https://x.com/krishnsec/status/2024435611084738985
+- Metrics (at fetch): not returned
+
+> First time, I trusted burp AI and watched ~10,000 credits vanish while trying to exploit cmdi , got 0 results .
+> but later spent 3 mins writing my own payload and popped it `uid=0(root) gid=0(root) groups=0(root)`
+> Conclusion: Burp is elite, but AI is still an intern.
+> #bugbounty [pic.x.com/5Ry8GHfUhw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBg74jXaEAAf33R.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HBg74gzbsAA5e1H.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-05 · Post · Just got a reward for a critical vulnerability submitted on @yeswehack -- SQL Injection (CWE-89). ht
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @krishnsec — 2026-02-05 15:52 UTC (2026-02-05 16:52 WAT)
+
+- URL: https://x.com/krishnsec/status/2019439105105605069
+- Metrics (at fetch): not returned
+
+> Just got a reward for a critical vulnerability submitted on @yeswehack -- SQL Injection (CWE-89). https://yeswehack.com/hunters/krishnsec #YesWeRHackers
+
+**Links in post:** https://yeswehack.com/hunters/krishnsec
+
+
+---
+
+## 2026-02-04 · Post · noticed a continuous decline in active bug hunters on X over the past 2–3 years &gt;
+
+
+### Post — @krishnsec — 2026-02-04 13:32 UTC (2026-02-04 14:32 WAT)
+
+- URL: https://x.com/krishnsec/status/2019041330195058715
+- Metrics (at fetch): not returned
+
+> noticed a continuous decline in active bug hunters on X over the past 2–3 years &gt;
+
+
+---
+
+## 2025-12-31 · Post · bug bounty year 2025 = 608 bugs 
+
+
+### Post — @krishnsec — 2025-12-31 13:56 UTC (2025-12-31 14:56 WAT)
+
+- URL: https://x.com/krishnsec/status/2006363826753802512
+- Metrics (at fetch): not returned
+
+> bug bounty year #2025 = 608 bugs 
+> see u in 2026 
+> /.exit [pic.x.com/u6RBgiDLWs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9gJQ0IakAAJunQ.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-16 · Post · Leading 1 in India on @Bugcrowd leaderboard and Top 3 globally this month 🏆 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2025-12-16 09:25 UTC (2025-12-16 10:25 WAT)
+
+- URL: https://x.com/krishnsec/status/2000859834254770667
+- Metrics (at fetch): not returned
+
+> Leading #1 in India on @Bugcrowd leaderboard and Top 3 globally this month 🏆 
+> https://bugcrowd.com/leaderboard/p1top4/IN/this-month
+> #bugbounty [pic.x.com/WUPqHPtIcA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G8R7aBXbgAAwHVT.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G8R7aBga4AUR6IL.jpg — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/leaderboard/p1top4/IN/this-month
+
+
+---
+
+## 2025-12-09 · Post · weird times - I’m teaching a triager the basics of self vs. non-self XSS and clarifying why this isn
+
+
+Tags (automatic): XSS
+
+
+### Post — @krishnsec — 2025-12-09 06:12 UTC (2025-12-09 07:12 WAT)
+
+- URL: https://x.com/krishnsec/status/1998274586346246544
+- Metrics (at fetch): not returned
+
+> weird times - I’m teaching a triager the basics of self vs. non-self XSS and clarifying why this isn’t a self-XSS.
+> what's going on in #bugbounty industry 😅
+
+
+---
+
+## 2025-12-04 · Post · Just when you forget about it, @Hacker0x01 surprises you with a bounty.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @krishnsec — 2025-12-04 09:53 UTC (2025-12-04 10:53 WAT)
+
+- URL: https://x.com/krishnsec/status/1996518185923911965
+- Metrics (at fetch): not returned
+
+> Just when you forget about it, @Hacker0x01 surprises you with a bounty.
+
+
+---
+
+## 2025-11-06 · Post · My team one P1 ( me ,@0xMstar &amp; @MrSharmaX ) won the Bugcrowd  Hacker Showdown 2025, finishing i
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2025-11-06 06:18 UTC (2025-11-06 07:18 WAT)
+
+- URL: https://x.com/krishnsec/status/1986317161770697098
+- Metrics (at fetch): not returned
+
+> My team one P1 ( me ,@0xMstar &amp; @MrSharmaX ) won the Bugcrowd  Hacker Showdown 2025, finishing in a tie with the Black Hat Cartel 💪🎯 https://twitter.com/bugcrowd/status/1986140452936990958
+
+**Links in post:** https://twitter.com/bugcrowd/status/1986140452936990958
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Bugcrowd — 2025-11-05 18:35 UTC (2025-11-05 19:35 WAT)
+    
+    - URL: https://x.com/Bugcrowd/status/1986140452936990958
+    - Metrics (at fetch): not returned
+    
+    > The Crowd always finds a way to surprise us 😈
+    >
+    > After weeks of fierce competition, the crown is being shared between 𝑻𝒉𝒆 𝑩𝒍𝒂𝒄𝒌 𝑯𝒂𝒕 𝑪𝒂𝒓𝒕𝒆𝒍 and 𝑶𝒏𝒆 𝑷1, co-champions of this year’s Hacker Showdown: Mind Cathedral.
+    >
+    > 🫱🏆🫲
+    >
+    > Collaboration came through BIG this year. That’s what makes the Bugcrowd community the best there is! 💥🧡
+    
+    **Media:**
+    - media `3_1986140431860498432` (details not returned by the API)
+    
+
+
+---
+
+## 2025-11-05 · Post · I earned $8 for my submission on @bugcrowd https://bugcrowd.com/krishnsec ItTakesACrowd [pic.x.com/
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2025-11-05 04:39 UTC (2025-11-05 05:39 WAT)
+
+- URL: https://x.com/krishnsec/status/1985930006607118580
+- Metrics (at fetch): not returned
+
+> I earned $8 for my submission on @bugcrowd https://bugcrowd.com/krishnsec #ItTakesACrowd [pic.x.com/SKDjd4YKqf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G49w0BjX0AAr8xT.jpg — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/krishnsec
+
+
+---
+
+## 2025-11-03 · Post · Just dropped a critical RCE - with a little help from AI :)
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @krishnsec — 2025-11-03 10:01 UTC (2025-11-03 11:01 WAT)
+
+- URL: https://x.com/krishnsec/status/1985286163909706203
+- Metrics (at fetch): not returned
+
+> Just dropped a critical RCE - with a little help from AI :)
+> #HackedWithGPT
+
+
+---
+
+## 2025-10-15 · Post · Crossed 12k reputation on @Bugcrowd✅
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2025-10-15 15:00 UTC (2025-10-15 16:00 WAT)
+
+- URL: https://x.com/krishnsec/status/1978475990532919776
+- Metrics (at fetch): not returned
+
+> Crossed 12k reputation on @Bugcrowd✅
+
+
+---
+
+## 2025-08-07 · Post · Just saw , I’ve made it to the all-time 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2025-08-07 10:09 UTC (2025-08-07 11:09 WAT)
+
+- URL: https://x.com/krishnsec/status/1953398071032721884
+- Metrics (at fetch): not returned
+
+> Just saw , I’ve made it to the all-time 
+> Top 5 P1/P2 hackers in 🇮🇳 on @Bugcrowd from #paidprograms 
+> https://bugcrowd.com/leaderboard/p1p2/IN/all-time [pic.x.com/NnfNqKHZDr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GxvdMFUWcAADy-T.jpg — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/leaderboard/p1p2/IN/all-time
+
+
+---
+
+## 2025-07-22 · Post · . @grok do you think AI will eventually take over cybersecurity jobs in the future? Could it replace
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @krishnsec — 2025-07-22 08:43 UTC (2025-07-22 09:43 WAT)
+
+- URL: https://x.com/krishnsec/status/1947578305131253794
+- Metrics (at fetch): not returned
+
+> . @grok do you think AI will eventually take over cybersecurity jobs in the future? Could it replace bug bounty hunters like us? What’s your perspective on this in a real-world scenario?
+
+
+---
+
+## 2025-07-16 · Post · Just got a reward for a critical vulnerability submitted on @yeswehack -- SQL Injection (CWE-89). ht
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @krishnsec — 2025-07-16 06:26 UTC (2025-07-16 07:26 WAT)
+
+- URL: https://x.com/krishnsec/status/1945369532585165308
+- Metrics (at fetch): not returned
+
+> Just got a reward for a critical vulnerability submitted on @yeswehack -- SQL Injection (CWE-89). https://yeswehack.com/hunters/krishnsec #YesWeRHackers
+
+**Links in post:** https://yeswehack.com/hunters/krishnsec
+
+
+---
+
+## 2025-07-09 · Post · comment good domain monitoring services for BugBounty recon 👇
+
+
+### Post — @krishnsec — 2025-07-09 05:11 UTC (2025-07-09 06:11 WAT)
+
+- URL: https://x.com/krishnsec/status/1942813832897855973
+- Metrics (at fetch): not returned
+
+> comment good domain monitoring services for #BugBounty recon 👇
+
+
+---
+
+## 2025-06-26 · Post · What happened to the @Bugcrowd MVP program? 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2025-06-26 10:03 UTC (2025-06-26 11:03 WAT)
+
+- URL: https://x.com/krishnsec/status/1938176196149194799
+- Metrics (at fetch): not returned
+
+> What happened to the @Bugcrowd MVP program? 
+> Haven’t seen any tweets or emails in a long time 👀
+
+
+---
+
+## 2025-06-19 · Post · I earned $1,500 for my submission on @bugcrowd https://bugcrowd.com/krishnsec ItTakesACrowd [pic.x.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2025-06-19 09:59 UTC (2025-06-19 10:59 WAT)
+
+- URL: https://x.com/krishnsec/status/1935638537052754192
+- Metrics (at fetch): not returned
+
+> I earned $1,500 for my submission on @bugcrowd https://bugcrowd.com/krishnsec #ItTakesACrowd [pic.x.com/12CspizvuD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtzE_LTWsAAqe0b.jpg — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/krishnsec

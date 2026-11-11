@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 176
-- Conversations/threads: 173
-- Oldest post captured: 2025-01-17
+- Posts in this file: 259
+- Conversations/threads: 251
+- Oldest post captured: 2024-06-19
 - Newest post captured: 2026-11-10
 
 
@@ -3124,3 +3124,1357 @@ Tags (automatic): XSS
 > Another one of our members just got paid for a Blind XSS while hacking on  this month's target: @netflix 💪🏽The discord is free and we don't charge for any of the recon, data, or stream sessions we host! 👉🏼 https://shorturl.at/vhGp8
 
 **Links in post:** https://shorturl.at/vhGp8
+
+
+---
+
+## 2025-01-15 · Post · One of our members just dropped an RCE 🔥 https://t.co/eIY8B6FNcn
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2025-01-15 18:29 UTC (2025-01-15 19:29 WAT)
+
+- URL: https://x.com/NahamSec/status/1879596853848862970
+- Metrics (at fetch): bookmark 17, impression 14563, like 179, quote 0, reply 2, retweet 7
+
+> One of our members just dropped an RCE 🔥 https://t.co/eIY8B6FNcn
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2025-01-10 17:03 UTC (2025-01-10 18:03 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1877763284654236043
+    - Metrics (at fetch): bookmark 30, impression 33706, like 248, quote 5, reply 8, retweet 13
+    
+    > See y’all in 2 hours! 🫶 https://t.co/0Sr8nFB5xb
+    
+    **Media:**
+    - media `3_1877763279616892929` (details not returned by the API)
+    
+
+
+---
+
+## 2025-01-10 · Post · See y’all in 2 hours! 🫶 https://t.co/0Sr8nFB5xb
+
+
+### Post — @NahamSec — 2025-01-10 17:03 UTC (2025-01-10 18:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1877763284654236043
+- Metrics (at fetch): bookmark 30, impression 33706, like 248, quote 5, reply 8, retweet 13
+
+> See y’all in 2 hours! 🫶 https://t.co/0Sr8nFB5xb
+
+**Media:**
+- media `3_1877763279616892929` (details not returned by the API)
+
+
+---
+
+## 2025-01-10 · Post · I have been bug bounty hunting on @Hacker0x01 for over 10 years. Time flies when you’re popping shel
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2025-01-10 17:02 UTC (2025-01-10 18:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1877763067645407729
+- Metrics (at fetch): bookmark 16, impression 13239, like 336, quote 1, reply 11, retweet 4
+
+> I have been bug bounty hunting on @Hacker0x01 for over 10 years. Time flies when you’re popping shells 😛 https://t.co/G7qI6MvBzz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gg8nKkZXgAMdZQo.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-10 · Post · I have been but bounty hunting on @Hacker0x01 for over 10 years. Time flies when you’re popping shel
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2025-01-10 17:01 UTC (2025-01-10 18:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1877762636458463623
+- Metrics (at fetch): bookmark 0, impression 465, like 8, quote 0, reply 2, retweet 0
+
+> I have been but bounty hunting on @Hacker0x01 for over 10 years. Time flies when you’re popping shells 😛 https://t.co/wyAgb7ekrz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gg8nKkZXgAMdZQo.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-10 · Post · I said accidentally because I pointed it to one of my domains to test something and it had an exploi
+
+
+### Post — @NahamSec — 2025-01-10 07:03 UTC (2025-01-10 08:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1877612094809407824
+- Metrics (at fetch): bookmark 0, impression 5040, like 33, quote 0, reply 2, retweet 0
+
+> I said accidentally because I pointed it to one of my domains to test something and it had an exploit on it that fired off. The TV is pretty old but makes me think if newer TVs are still vulnerable
+
+
+---
+
+## 2025-01-09 · Post · I accidentally exploited my LG TV and can read arbitrary files from it 🤣 Does @LGUS even have a bug 
+
+
+### Post — @NahamSec — 2025-01-09 05:55 UTC (2025-01-09 06:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1877232743517421731
+- Metrics (at fetch): bookmark 44, impression 51185, like 486, quote 1, reply 33, retweet 10
+
+> I accidentally exploited my LG TV and can read arbitrary files from it 🤣 Does @LGUS even have a bug bounty program?
+
+
+---
+
+## 2025-01-08 · Post · 🎯 New Monthly Target Announced!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2025-01-08 19:35 UTC (2025-01-08 20:35 WAT)
+
+- URL: https://x.com/NahamSec/status/1877076754788983280
+- Metrics (at fetch): bookmark 35, impression 14735, like 238, quote 0, reply 9, retweet 37
+
+> 🎯 New Monthly Target Announced!
+>
+> Join us as we explore @Netflix's bug bounty program on @Hacker0x01 with weekly live streams! 
+>
+> 🔍 First Stream: This Friday! (January 10) on discord only)
+> 💻 Join Discord: https://t.co/rdnq2mj3kI https://t.co/Fh4TfFcUE4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ggy3LsyaEAA53oJ.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-08 · Post · 🎯 New Monthly Target Announced!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2025-01-08 19:35 UTC (2025-01-08 20:35 WAT)
+
+- URL: https://x.com/NahamSec/status/1877076644403281924
+- Metrics (at fetch): bookmark 0, impression 251, like 1, quote 0, reply 0, retweet 0
+
+> 🎯 New Monthly Target Announced!
+>
+> Join us as we explore @Netflix's bug bounty program on @Hacker0x01 with weekly live streams! 
+>
+> 🔍 First Live Training Stream: Friday Jan 10 (Discord only)
+> 💻 Join Discord: https://t.co/rdnq2mj3kI https://t.co/j7gV7Ynbuh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ggy3LsyaEAA53oJ.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-30 · Post · @Meta For everyone asking - it was a server-side vulnerability on https://t.co/llHZceINbN  :)
+
+
+### Post — @NahamSec — 2024-12-30 18:24 UTC (2024-12-30 19:24 WAT)
+
+- URL: https://x.com/NahamSec/status/1873797320275550490
+- Metrics (at fetch): bookmark 41, impression 104718, like 1368, quote 3, reply 32, retweet 11
+
+> @Meta For everyone asking - it was a server-side vulnerability on https://t.co/llHZceINbN  :)
+
+
+---
+
+## 2024-12-30 · Post · I'm honestly still in disbelief... grateful to receive a $100k bounty from @meta. Feels surreal. Sha
+
+
+### Post — @NahamSec — 2024-12-30 17:11 UTC (2024-12-30 18:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1873779040693231680
+- Metrics (at fetch): bookmark 1566, impression 1068335, like 11884, quote 90, reply 537, retweet 429
+
+> I'm honestly still in disbelief... grateful to receive a $100k bounty from @meta. Feels surreal. Sharing this to show that with time and dedication, it's possible. This was my first and only submission to Facebook - something I've been chasing for a decade! 🙏 Big thank you to https://t.co/hH9fIDYtay
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgBUoUBWgAADdnS.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-22 · Post · Reported a RCE on a platform 50 days ago. 38 days later it gets finally looked at triaged and the ba
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2024-12-22 06:19 UTC (2024-12-22 07:19 WAT)
+
+- URL: https://x.com/NahamSec/status/1870715810492359062
+- Metrics (at fetch): bookmark 6, impression 15803, like 66, quote 1, reply 15, retweet 2
+
+> Reported a RCE on a platform 50 days ago. 38 days later it gets finally looked at triaged and the backend was updated during those 30+
+> days and my report was closed as informative.  What should be the outcome here?
+
+
+---
+
+## 2024-12-22 · Post · Guess the exact number of my total submissions (including dupes, n/a, and. informative) on HackerOne
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2024-12-22 06:01 UTC (2024-12-22 07:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1870711178953204176
+- Metrics (at fetch): bookmark 34, impression 29260, like 190, quote 1, reply 182, retweet 11
+
+> Guess the exact number of my total submissions (including dupes, n/a, and. informative) on HackerOne and I’ll send you a  bug bounty starter kit: Shodan, Caido, and my course for free.
+
+
+---
+
+## 2024-12-18 · Post · @AuAnarchy Ok I did a no mouse or keyboard thing on a device :P I think that counts? ;)  It was stil
+
+
+### Post — @NahamSec — 2024-12-18 01:13 UTC (2024-12-18 02:13 WAT)
+
+- URL: https://x.com/NahamSec/status/1869189140904055167
+- Metrics (at fetch): bookmark 0, impression 54, like 0, quote 0, reply 0, retweet 0
+
+> @AuAnarchy Ok I did a no mouse or keyboard thing on a device :P I think that counts? ;)  It was still a web vuln and not in a web app either
+
+
+---
+
+## 2024-12-17 · Post · Aiming to publish 12 blog posts in 2025 💫 Writer's block is real though - feels like I'm learning to
+
+
+### Post — @NahamSec — 2024-12-17 17:30 UTC (2024-12-17 18:30 WAT)
+
+- URL: https://x.com/NahamSec/status/1869072674825351638
+- Metrics (at fetch): bookmark 6, impression 10650, like 140, quote 0, reply 8, retweet 4
+
+> Aiming to publish 12 blog posts in 2025 💫 Writer's block is real though - feels like I'm learning to ride a bike all over again! Anyone got tips for getting back into writing?
+
+
+---
+
+## 2024-12-17 · Post · 👀How to Write Great Bug Bounty &amp; Pentest Report (Proof of Concepts)
+
+
+### Post — @NahamSec — 2024-12-17 13:55 UTC (2024-12-17 14:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1869018460832838122
+- Metrics (at fetch): bookmark 65, impression 10449, like 231, quote 1, reply 3, retweet 24
+
+> 👀How to Write Great Bug Bounty &amp; Pentest Report (Proof of Concepts)
+>
+> 👉🏼https://t.co/Syb1WfpbLD https://t.co/Pr0R0lG0tP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ge-dhJjbUAEfwV-.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-15 · Post · .@CyberNews did a short documentary on bug bounties and it’s 🔥!! 
+
+
+### Post — @NahamSec — 2024-12-15 18:11 UTC (2024-12-15 19:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1868358203614146613
+- Metrics (at fetch): bookmark 64, impression 15215, like 226, quote 1, reply 3, retweet 35
+
+> .@CyberNews did a short documentary on bug bounties and it’s 🔥!! 
+>
+> https://t.co/QelkGPegJl
+
+
+---
+
+## 2024-12-12 · Post · 🦅 Proud to share my 2024 HackerOne journey! 89 vulnerabilities reported, including 18 critical find
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2024-12-12 20:44 UTC (2024-12-12 21:44 WAT)
+
+- URL: https://x.com/NahamSec/status/1867309449309827265
+- Metrics (at fetch): bookmark 9, impression 6829, like 145, quote 0, reply 3, retweet 2
+
+> 🦅 Proud to share my 2024 #HackerOne journey! 89 vulnerabilities reported, including 18 critical findings! Huge thanks to @Hacker0x01 for providing an amazing platform for security researchers. Here's to more bug hunting in 2025! 🔍 https://t.co/tRU9FAd1gK #respectthefounders https://t.co/guj0VhHWRz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Geka7N7aEAAa0nD.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-11 · Post · 👀Very excited to join @hacker0x01's Sydney Bug Bounty meet up with @an1msh_ and @infosec_au! 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2024-12-11 20:00 UTC (2024-12-11 21:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1866935991195611222
+- Metrics (at fetch): bookmark 2, impression 6136, like 88, quote 1, reply 4, retweet 4
+
+> 👀Very excited to join @hacker0x01's Sydney Bug Bounty meet up with @an1msh_ and @infosec_au! 
+>
+> If you are in the area, come hang out with us! 👇 https://t.co/eEWE4S3Ayo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Geg4W7_aoAAF9xc.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-06 · Post · Bug bounty wrapped. Do you want to see more? https://t.co/RUxlfbdJ48
+
+
+### Post — @NahamSec — 2024-12-06 07:09 UTC (2024-12-06 08:09 WAT)
+
+- URL: https://x.com/NahamSec/status/1864930099533164934
+- Metrics (at fetch): bookmark 4, impression 11208, like 201, quote 0, reply 10, retweet 13
+
+> Bug bounty wrapped. Do you want to see more? https://t.co/RUxlfbdJ48
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeGQB1uakAEG6_l.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-21 · Post · You can go back in time with one 0day/exploit. What year are you going back to &amp; CVE/technique a
+
+
+### Post — @NahamSec — 2024-11-21 05:03 UTC (2024-11-21 06:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1859462494085153039
+- Metrics (at fetch): bookmark 3, impression 9455, like 60, quote 0, reply 3, retweet 1
+
+> You can go back in time with one 0day/exploit. What year are you going back to &amp; CVE/technique are you taking?" 🕰️🐛
+
+
+---
+
+## 2024-11-21 · Post · Nothing beats the feeling of going through your old XSS payloads on one of your old bug bounty progr
+
+
+Tags (automatic): XSS
+
+
+### Post — @NahamSec — 2024-11-21 04:37 UTC (2024-11-21 05:37 WAT)
+
+- URL: https://x.com/NahamSec/status/1859456056470233183
+- Metrics (at fetch): bookmark 6, impression 7640, like 85, quote 0, reply 2, retweet 2
+
+> Nothing beats the feeling of going through your old XSS payloads on one of your old bug bounty programs and seeing them pop randomly. Probably a dupe though?
+
+
+---
+
+## 2024-11-18 · Post · 5 Lessons That Made Me $1M in Bug Bounty Since 2022
+
+
+### Post — @NahamSec — 2024-11-18 13:50 UTC (2024-11-18 14:50 WAT)
+
+- URL: https://x.com/NahamSec/status/1858507954296902120
+- Metrics (at fetch): bookmark 55, impression 11970, like 242, quote 2, reply 4, retweet 21
+
+> 5 Lessons That Made Me $1M in Bug Bounty Since 2022
+>
+> 👀Watch the full video here 👉🏼 https://t.co/hMmOE2tATA https://t.co/0Pj0n3c3RT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcpDfgWXsAA9gX0.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-15 · Post · $1000 is a low hanging bug on most bug bounty programs. You can find 2x$500 bounties easy. I'm hacki
+
+
+### Post — @NahamSec — 2024-11-15 04:06 UTC (2024-11-15 05:06 WAT)
+
+- URL: https://x.com/NahamSec/status/1857273903078392007
+- Metrics (at fetch): bookmark 10, impression 6507, like 74, quote 0, reply 6, retweet 1
+
+> $1000 is a low hanging bug on most bug bounty programs. You can find 2x$500 bounties easy. I'm hacking on a few public programs right now that don't pay more than $5000 for a critical finding and have still managed to make more than that in a few days
+
+
+---
+
+## 2024-11-15 · Post · Skill issue imo. You are lying to yourself and making up excuses instead of hacking and putting in t
+
+
+### Post — @NahamSec — 2024-11-15 04:04 UTC (2024-11-15 05:04 WAT)
+
+- URL: https://x.com/NahamSec/status/1857273504619479286
+- Metrics (at fetch): bookmark 2, impression 6144, like 69, quote 0, reply 2, retweet 1
+
+> Skill issue imo. You are lying to yourself and making up excuses instead of hacking and putting in the effort.
+
+
+---
+
+## 2024-11-15 · Post · "I don't think this video is sincere because earning 1000 a month... that's nothing more than a pure
+
+
+### Post — @NahamSec — 2024-11-15 04:04 UTC (2024-11-15 05:04 WAT)
+
+- URL: https://x.com/NahamSec/status/1857273388042977590
+- Metrics (at fetch): bookmark 42, impression 23297, like 212, quote 1, reply 17, retweet 5
+
+> "I don't think this video is sincere because earning 1000 a month... that's nothing more than a pure lie... stop deceiving people... that's ugly... be honest" 
+>
+> I love seeing these types of YT comments. People really think it's a lie that you can make $1000/month with bug bounty.
+
+
+---
+
+## 2024-11-14 · Post · Currently sitting on an RCE and have no clue where it came from. 🥲
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2024-11-14 22:47 UTC (2024-11-14 23:47 WAT)
+
+- URL: https://x.com/NahamSec/status/1857193596975538543
+- Metrics (at fetch): bookmark 5, impression 9330, like 109, quote 0, reply 5, retweet 0
+
+> Currently sitting on an RCE and have no clue where it came from. 🥲
+
+
+---
+
+## 2024-11-07 · Post · Took the week off to enjoy a little staycation and not have any daily routines or calls. Just doing 
+
+
+### Post — @NahamSec — 2024-11-07 17:57 UTC (2024-11-07 18:57 WAT)
+
+- URL: https://x.com/NahamSec/status/1854583961848365358
+- Metrics (at fetch): bookmark 0, impression 6422, like 84, quote 0, reply 2, retweet 2
+
+> Took the week off to enjoy a little staycation and not have any daily routines or calls. Just doing things that bring me joy. It’s been nice bouncing in between Warzone and bug bounties.
+
+
+---
+
+## 2024-11-06 · Post · I'm doing some research around Electron apps. If you happen to be hacking on any desktop apps runnin
+
+
+### Post — @NahamSec — 2024-11-06 16:45 UTC (2024-11-06 17:45 WAT)
+
+- URL: https://x.com/NahamSec/status/1854203464743534716
+- Metrics (at fetch): not returned
+
+> I'm doing some research around Electron apps. If you happen to be hacking on any desktop apps running on Electron and have an HTMLi (or something similar) can we chat?
+
+
+---
+
+## 2024-11-03 · Post · Reported an RCE to Meta this weekend and have received an initial “good find”. This is my first ever
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2024-11-03 20:47 UTC (2024-11-03 21:47 WAT)
+
+- URL: https://x.com/NahamSec/status/1853177134111678756
+- Metrics (at fetch): not returned
+
+> Reported an RCE to Meta this weekend and have received an initial “good find”. This is my first ever submission to them. I’m so excited to see if what they say 😬
+
+
+---
+
+## 2024-10-31 · Post · Bug bounty hunters: What’s your advice for someone who’s trying to make their first $100,000 in 2025
+
+
+### Post — @NahamSec — 2024-10-31 02:49 UTC (2024-10-31 03:49 WAT)
+
+- URL: https://x.com/NahamSec/status/1851818696685314160
+- Metrics (at fetch): not returned
+
+> Bug bounty hunters: What’s your advice for someone who’s trying to make their first $100,000 in 2025? What should they do/learn? What should they avoid?
+
+
+---
+
+## 2024-10-24 · Post · Someone explain to me why the f is CVE-2022-40083 marked as critical? It's an open redirect... no?
+
+
+### Post — @NahamSec — 2024-10-24 02:01 UTC (2024-10-24 03:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1849269954194858158
+- Metrics (at fetch): not returned
+
+> Someone explain to me why the f is CVE-2022-40083 marked as critical? It's an open redirect... no?
+
+
+---
+
+## 2024-10-22 · Post · @AuAnarchy yeah, idk about that, chief.
+
+
+### Post — @NahamSec — 2024-10-22 01:54 UTC (2024-10-22 02:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1848543450414960811
+- Metrics (at fetch): bookmark 0, impression 879, like 3, quote 0, reply 2, retweet 0
+
+> @AuAnarchy yeah, idk about that, chief.
+
+
+---
+
+## 2024-10-21 · Post · Is this the best and fastest recon framework? 
+
+
+### Post — @NahamSec — 2024-10-21 13:00 UTC (2024-10-21 14:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1848348518374601204
+- Metrics (at fetch): not returned
+
+> Is this the best and fastest recon framework? 
+> 🎥👉🏼https://youtu.be/GOwq95QMv_g [pic.x.com/pGhvVKrgkw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GaYusNhXoAA1a2N.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/GOwq95QMv_g
+
+
+---
+
+## 2024-10-08 · Post · I have pushed 3 massive updates to my course since July to include more labs/videos on SSRF, RCE, AT
+
+
+Tags (automatic): SSRF, Account takeover, RCE
+
+
+### Post — @NahamSec — 2024-10-08 17:58 UTC (2024-10-08 18:58 WAT)
+
+- URL: https://x.com/NahamSec/status/1843712667221143897
+- Metrics (at fetch): not returned
+
+> I have pushed 3 massive updates to my course since July to include more labs/videos on SSRF, RCE, ATO, 403/401 Bypasses,  and more! 🧑🏽‍💻
+>
+> 👀 I'll give away two free vouchers to two people who retweet and reply with 'RCE' under this post! 
+>
+> ℹ️ More info  👉🏼 http://bugbounty.nahamsec.training
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZYug1daAAAgO-U.jpg — no alt text provided by author
+
+**Links in post:** http://bugbounty.nahamsec.training
+
+
+---
+
+## 2024-10-07 · Post · Over the summer @0xacb and I received a 💸$30,000 bounty for a simple time based command execution on
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2024-10-07 13:00 UTC (2024-10-07 14:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1843275090940547141
+- Metrics (at fetch): not returned
+
+> Over the summer @0xacb and I received a 💸$30,000 bounty for a simple time based command execution on a @Hacker0x01 program! 
+>
+> Watch the video here 👉🏼https://youtu.be/Mt32ZHP4790
+> Free practice lab 👉🏼 https://shorturl.at/1QATs [pic.x.com/lbnMoO8c3Q]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZQg0XpXsAACSZe.png — no alt text provided by author
+
+**Links in post:** https://youtu.be/Mt32ZHP4790, https://shorturl.at/1QATs
+
+
+---
+
+## 2024-09-30 · Post · ZIp Slip vulnerabilities can be super fun. In this video I talk about Zip Slip, how to create a POC,
+
+
+### Post — @NahamSec — 2024-09-30 13:00 UTC (2024-09-30 14:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1840738376246567197
+- Metrics (at fetch): not returned
+
+> ZIp Slip vulnerabilities can be super fun. In this video I talk about Zip Slip, how to create a POC, and how to exploit it!
+>
+> 👉🏼 https://youtu.be/4sKlbMiGWAw [pic.x.com/x5dXZv8vqf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYtd_40XYAAQgJ7.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/4sKlbMiGWAw
+
+
+---
+
+## 2024-09-15 · Post · I been hacking for 14 hours today... 14 hours later I exploit 1/2 bugs I have been working on and fi
+
+
+### Post — @NahamSec — 2024-09-15 10:53 UTC (2024-09-15 11:53 WAT)
+
+- URL: https://x.com/NahamSec/status/1835270593194639631
+- Metrics (at fetch): not returned
+
+> I been hacking for 14 hours today... 14 hours later I exploit 1/2 bugs I have been working on and find out the 2nd is a dupe. You win some and lose some! #h10131
+
+
+---
+
+## 2024-09-08 · Post · I’m always going to stand up for two groups of people bug hunters and infosec content creators 🤷🏽‍♂️
+
+
+### Post — @NahamSec — 2024-09-08 08:08 UTC (2024-09-08 09:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1832692561443745995
+- Metrics (at fetch): not returned
+
+> I’m always going to stand up for two groups of people bug hunters and infosec content creators 🤷🏽‍♂️
+
+
+---
+
+## 2024-08-26 · Post · Just released a brand new and free module on @hackinghub_io on SQL Injection with @BuildHackSecure! 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @NahamSec — 2024-08-26 11:56 UTC (2024-08-26 12:56 WAT)
+
+- URL: https://x.com/NahamSec/status/1828038846522552352
+- Metrics (at fetch): not returned
+
+> Just released a brand new and free module on @hackinghub_io on SQL Injection with @BuildHackSecure! 
+>
+> Check out the video walkthrough 👉🏼 https://youtu.be/EZXvxpbFqvg [pic.x.com/8iiiXnO8hl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GV5_oK-WsAAaryR.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/EZXvxpbFqvg
+
+
+---
+
+## 2024-08-25 · Thread · @bishal0x01 It’s all business. When I hack for money I’m doing nothing different than a business. If
+
+
+### Post — @NahamSec — 2024-08-25 15:48 UTC (2024-08-25 16:48 WAT)
+
+- URL: https://x.com/NahamSec/status/1827734711407411438
+- Metrics (at fetch): not returned
+
+> @bishal0x01 It’s all business. When I hack for money I’m doing nothing different than a business. If I’m hacking for fun then it’s the hobbyist in me enjoying it. But lot of my hacking is goal based. If I hit a certain threshold I dont worry about it as much and focus on other things.
+
+
+### Thread part 2 — @NahamSec — 2024-08-25 15:48 UTC (2024-08-25 16:48 WAT)
+
+- URL: https://x.com/NahamSec/status/1827734923140112824
+- Metrics (at fetch): not returned
+
+> @bishal0x01 I also break my week into blocks. Hacking. Content. Meetings. Etc. I only do meetings 2 days of week, batched with content. Other days are hacking including pentest and bounty. Fridays are free day to do what I enjoy what will help further my goals.
+
+
+### Thread part 3 — @NahamSec — 2024-08-25 20:38 UTC (2024-08-25 21:38 WAT)
+
+- URL: https://x.com/NahamSec/status/1827807865375248834
+- Metrics (at fetch): not returned
+
+> @kittoh_ the more and more I have hacked, the more and more I realize none of them are "well-tested". The live hacking events are a good proof for this. It just becomes about finding a good part of the app (anchor) to dig into. 
+>
+> I think consistency and patience play a big role.
+
+
+### Thread part 4 — @NahamSec — 2024-08-25 20:39 UTC (2024-08-25 21:39 WAT)
+
+- URL: https://x.com/NahamSec/status/1827807991384391884
+- Metrics (at fetch): not returned
+
+> @kittoh_ I think a lot of times, it becomes more "research" based.  Where I spend a lot of time digging into a specific technology, stack, or backend system. I hope this helps.
+
+
+---
+
+## 2024-08-25 · Thread · @DevRawa0143 @Uthangowest That’s not correct. In most cases a reflected XSS will be taken as a mediu
+
+
+Tags (automatic): XSS, Account takeover
+
+
+### Post — @NahamSec — 2024-08-25 15:31 UTC (2024-08-25 16:31 WAT)
+
+- URL: https://x.com/NahamSec/status/1827730504382095427
+- Metrics (at fetch): not returned
+
+> @DevRawa0143 @Uthangowest That’s not correct. In most cases a reflected XSS will be taken as a medium vs a stored XSS is taken at medium to high depending on user privileges and the threat model of the app. In most cases companies accept an alert and understand the impact. However, you should always try
+
+
+### Thread part 2 — @NahamSec — 2024-08-25 15:32 UTC (2024-08-25 16:32 WAT)
+
+- URL: https://x.com/NahamSec/status/1827730718245659016
+- Metrics (at fetch): not returned
+
+> @DevRawa0143 @Uthangowest And escalate your XSS to show maximum impact to get a higher bounty. If you’re one of the course students then check out the newly added account takeover section of the course.
+
+
+---
+
+## 2024-08-19 · Post · Releasing some of the course update today: 1.5 hour of interactive SQLi  by @BuildHackSecure. You ca
+
+
+Tags (automatic): SQL injection, SSRF, Account takeover, RCE
+
+
+### Post — @NahamSec — 2024-08-19 18:44 UTC (2024-08-19 19:44 WAT)
+
+- URL: https://x.com/NahamSec/status/1825604663477203240
+- Metrics (at fetch): not returned
+
+> Releasing some of the course update today: 1.5 hour of interactive SQLi  by @BuildHackSecure. You can get early access to this module for 50% with the code INTERACTIVESQL. 👉🏼 http://bugbounty.nahamsec.training. 
+>
+> What update do you want to see next? ATO, RCE, Authentication, or SSRF? [pic.x.com/zipubxpXrZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVXEbJmaMAE5A1_.jpg — no alt text provided by author
+
+**Links in post:** http://bugbounty.nahamsec.training
+
+
+---
+
+## 2024-08-13 · Post · Created a discount code for the Bug Bounty Village at DEFCON this year, but wanted to share it befor
+
+
+### Post — @NahamSec — 2024-08-13 17:40 UTC (2024-08-13 18:40 WAT)
+
+- URL: https://x.com/NahamSec/status/1823414289576943693
+- Metrics (at fetch): not returned
+
+> Created a discount code for the Bug Bounty Village at DEFCON this year, but wanted to share it before it expires!  Use DEFCON32 to get the course at $32! Drop a reply with a topic suggestion for our upcoming update for a chance to win a free code. http://bugbounty.nahamsec.training [pic.x.com/CBPDM6Mr9S]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GU4RYHKa4AQQ9kA.jpg — no alt text provided by author
+
+**Links in post:** http://bugbounty.nahamsec.training
+
+
+---
+
+## 2024-08-11 · Post · We are bug bounty hunters ⁦ ⁦@securinti⁩, ⁦@Rhynorater⁩, ⁦@Arl_rose⁩, ⁦@Jhaddix⁩, ⁦@stokfredrik⁩ [pi
+
+
+### Post — @NahamSec — 2024-08-11 18:53 UTC (2024-08-11 19:53 WAT)
+
+- URL: https://x.com/NahamSec/status/1822708043710419283
+- Metrics (at fetch): not returned
+
+> We are bug bounty hunters ⁦ ⁦@securinti⁩, ⁦@Rhynorater⁩, ⁦@Arl_rose⁩, ⁦@Jhaddix⁩, ⁦@stokfredrik⁩ [pic.x.com/5nXPDtrGrn]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-08-10 · Post · Heading to the Recon Village at DEFCON. If you’re in the area, come by and say hello!
+
+
+### Post — @NahamSec — 2024-08-10 23:18 UTC (2024-08-11 00:18 WAT)
+
+- URL: https://x.com/NahamSec/status/1822412357324448113
+- Metrics (at fetch): not returned
+
+> Heading to the Recon Village at DEFCON. If you’re in the area, come by and say hello!
+
+
+---
+
+## 2024-08-06 · Post · First day of being in Vegas is a wrap. I got paid, drunk, had a great dinner with the homies, and hu
+
+
+### Post — @NahamSec — 2024-08-06 08:50 UTC (2024-08-06 09:50 WAT)
+
+- URL: https://x.com/NahamSec/status/1820744175819915581
+- Metrics (at fetch): not returned
+
+> First day of being in Vegas is a wrap. I got paid, drunk, had a great dinner with the homies, and hung out with some of the smartest people in the bug bounty community. This is what the hacker summer camp is about. 💪🏼 
+>
+> Can’t wait for day 2 and to wrap up #h1702!
+
+
+---
+
+## 2024-08-04 · Post · I’ll have a bunch of the bounty plz stickers with me in Vegas. I also have a few shirts for defcon t
+
+
+### Post — @NahamSec — 2024-08-04 21:54 UTC (2024-08-04 22:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1820216889542578589
+- Metrics (at fetch): not returned
+
+> I’ll have a bunch of the bounty plz stickers with me in Vegas. I also have a few shirts for defcon that say bountyplz. If you see me with a duffle bag. Ask for one and you may get one. :) [pic.x.com/JCVocR8qmZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUK1m7lXoAAbOCi.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-02 · Post · Just finished my slides for my Bug Bounty Village workshops: 
+
+
+Tags (automatic): SSRF, Account takeover
+
+
+### Post — @NahamSec — 2024-08-02 21:22 UTC (2024-08-02 22:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1819483875678310695
+- Metrics (at fetch): not returned
+
+> Just finished my slides for my Bug Bounty Village workshops: 
+>
+> - Account Takeover 
+> - SSRF 
+>
+> So proud of these labs and slides! Cannot wait to present these
+
+
+---
+
+## 2024-08-01 · Post · Only at h1702 you'll get duped on a RCE 🥴
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2024-08-01 23:18 UTC (2024-08-02 00:18 WAT)
+
+- URL: https://x.com/NahamSec/status/1819150844245491908
+- Metrics (at fetch): not returned
+
+> Only at #h1702 you'll get duped on a RCE 🥴
+
+
+---
+
+## 2024-07-30 · Thread · 😱 📷 $500,000!This has to be the largest bounty on @hacker0x01! [pic.x.com/a2WpBLTR2U]
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2024-07-30 23:42 UTC (2024-07-31 00:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1818431913407005133
+- Metrics (at fetch): not returned
+
+> 😱 📷 $500,000!This has to be the largest bounty on @hacker0x01! [pic.x.com/a2WpBLTR2U]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTxeK8obwAAuaS3.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2024-07-30 23:42 UTC (2024-07-31 00:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1818431993140723825
+- Metrics (at fetch): not returned
+
+> @Hacker0x01 before y'all reply with "write up please": NOT MY BUG
+
+
+---
+
+## 2024-07-29 · Post · Celebrating 28,000 enrolled students in my Bug Bounty course and doing a sale until the end of the w
+
+
+### Post — @NahamSec — 2024-07-29 17:24 UTC (2024-07-29 18:24 WAT)
+
+- URL: https://x.com/NahamSec/status/1817974370779931122
+- Metrics (at fetch): not returned
+
+> Celebrating 28,000 enrolled students in my Bug Bounty course and doing a sale until the end of the week for $28! Signup 👉🏼 http://app.hackinghub.io using the code "TWENTY8K" [pic.x.com/j3XkFVhSnz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTq94DlaQAM2UV-.jpg — no alt text provided by author
+
+**Links in post:** http://app.hackinghub.io
+
+
+---
+
+## 2024-07-29 · Post · I ran nuclei default templates on all of my private bug bounty programs. Here are the results!
+
+
+### Post — @NahamSec — 2024-07-29 13:00 UTC (2024-07-29 14:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1817907938373308588
+- Metrics (at fetch): bookmark 130, impression 20802, like 290, quote 0, reply 5, retweet 28
+
+> I ran nuclei default templates on all of my private bug bounty programs. Here are the results!
+>
+> 👀👉🏼 https://t.co/wLqqZX1UQM https://t.co/fklLhCWw44
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GToLiQIbEAAt-m-.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-24 · Post · This is only @hacker0x01 programs. Should I also do Bugcrowd, Intigriti and YesWeHack programs next?
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2024-07-24 18:22 UTC (2024-07-24 19:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1816177145242440123
+- Metrics (at fetch): bookmark 0, impression 2314, like 28, quote 0, reply 4, retweet 1
+
+> This is only @hacker0x01 programs. Should I also do Bugcrowd, Intigriti and YesWeHack programs next?
+
+
+---
+
+## 2024-07-24 · Post · Thanks to Lemma I'm about to scanning roughly about ~400 unique domains (75,000+ subdomains). Will y
+
+
+### Post — @NahamSec — 2024-07-24 18:21 UTC (2024-07-24 19:21 WAT)
+
+- URL: https://x.com/NahamSec/status/1816176963029287121
+- Metrics (at fetch): bookmark 32, impression 18445, like 246, quote 1, reply 28, retweet 7
+
+> Thanks to Lemma I'm about to scanning roughly about ~400 unique domains (75,000+ subdomains). Will you be guys be interested in seeing the results in a video? 👀
+
+
+---
+
+## 2024-07-24 · Post · Should I host another live recon stream on Friday? 🤔
+
+
+### Post — @NahamSec — 2024-07-24 17:30 UTC (2024-07-24 18:30 WAT)
+
+- URL: https://x.com/NahamSec/status/1816164114995216417
+- Metrics (at fetch): bookmark 6, impression 8471, like 131, quote 1, reply 20, retweet 0
+
+> Should I host another live recon stream on Friday? 🤔
+
+
+---
+
+## 2024-07-22 · Post · This is The Fastest Recon Tool... and I LOVE IT! 
+
+
+### Post — @NahamSec — 2024-07-22 12:56 UTC (2024-07-22 13:56 WAT)
+
+- URL: https://x.com/NahamSec/status/1815370208313561373
+- Metrics (at fetch): bookmark 171, impression 26681, like 302, quote 0, reply 9, retweet 43
+
+> This is The Fastest Recon Tool... and I LOVE IT! 
+> https://t.co/vz1oLU41F0 https://t.co/Z2J331KYPY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTEH_JtbsAEvQbi.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-18 · Post · Recon stream tomorrow? 🤔
+
+
+### Post — @NahamSec — 2024-07-18 15:39 UTC (2024-07-18 16:39 WAT)
+
+- URL: https://x.com/NahamSec/status/1813961816340595093
+- Metrics (at fetch): bookmark 3, impression 15497, like 167, quote 1, reply 18, retweet 4
+
+> Recon stream tomorrow? 🤔
+
+
+---
+
+## 2024-07-15 · Post · Excited to see this in action at the bug bounty village! https://t.co/HvrA35WMih
+
+
+### Post — @NahamSec — 2024-07-15 21:59 UTC (2024-07-15 22:59 WAT)
+
+- URL: https://x.com/NahamSec/status/1812970235055775801
+- Metrics (at fetch): bookmark 10, impression 6205, like 42, quote 0, reply 1, retweet 2
+
+> Excited to see this in action at the bug bounty village! https://t.co/HvrA35WMih
+
+**Quoted post (full text):**
+
+    #### Quoted post — @6224962 — 2024-07-15 19:57 UTC (2024-07-15 20:57 WAT)
+    
+    - URL: https://x.com/6224962/status/1812939569735868916
+    - Metrics (at fetch): bookmark 17, impression 24978, like 40, quote 7, reply 1, retweet 5
+    
+    > Real vulnerabilities don’t come with hints—so we asked XBOW to solve this task without giving it even a description of the benchmark. It performed just as well, finding exploiting an GraphQL-based IDOR vulnerability entirely autonomously: https://t.co/OqMxRdESQX https://t.co/1BX0xm4j4J
+    
+    **Media:**
+    - media `3_1812939567152156672` (details not returned by the API)
+    
+
+
+---
+
+## 2024-07-10 · Post · I love bug bounties. I’m on vacation and on a train traveling, kinda bored, pulled up my phone to ju
+
+
+### Post — @NahamSec — 2024-07-10 11:13 UTC (2024-07-10 12:13 WAT)
+
+- URL: https://x.com/NahamSec/status/1810995804212990309
+- Metrics (at fetch): bookmark 32, impression 27027, like 371, quote 3, reply 10, retweet 9
+
+> I love bug bounties. I’m on vacation and on a train traveling, kinda bored, pulled up my phone to just look at this app (that happens to have a program). 30ish mins later and found a medium/high vulnerability 😏
+
+
+---
+
+## 2024-07-09 · Post · Live Recon: Hacking With @stokfredrik 
+
+
+### Post — @NahamSec — 2024-07-09 13:00 UTC (2024-07-09 14:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1810660175050650103
+- Metrics (at fetch): bookmark 12, impression 12031, like 114, quote 1, reply 7, retweet 9
+
+> Live Recon: Hacking With @stokfredrik 
+> 👀👉🏼https://t.co/WfQZG0rT0M
+>
+> Who should be my next guest on the Live Recon stream? https://t.co/WpbtAT5iO0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GR41eyPXQAArYES.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-08 · Post · Live Recon: Hacking @Tinder's Bug Bounty Program (with @Rhynorater). 👀👉🏼 https://t.co/xOc51TJxiU
+
+
+### Post — @NahamSec — 2024-07-08 13:00 UTC (2024-07-08 14:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1810297784626557108
+- Metrics (at fetch): bookmark 29, impression 8495, like 146, quote 0, reply 5, retweet 21
+
+> Live Recon: Hacking @Tinder's Bug Bounty Program (with @Rhynorater). 👀👉🏼 https://t.co/xOc51TJxiU
+>
+> Who should be our next Live Recon target? 🎯 https://t.co/1ZDd0FXiIb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GR4xFtnWkAALOh_.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-07 · Post · Live Recon: Hacking Dell's Bug Bounty Program. 
+
+
+### Post — @NahamSec — 2024-07-07 16:01 UTC (2024-07-07 17:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1809980947149832608
+- Metrics (at fetch): bookmark 29, impression 14638, like 222, quote 2, reply 13, retweet 6
+
+> Live Recon: Hacking Dell's Bug Bounty Program. 
+> 👀👉🏼 https://t.co/GzbnGhizyL
+> Should I continue the live recon series? 🤔 https://t.co/bW0oI74ysH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GR41tjfWMAAq4ww.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-01 · Post · Going live again today but this time @Rhynorater is joining me on the stream to talk about his appro
+
+
+### Post — @NahamSec — 2024-07-01 14:49 UTC (2024-07-01 15:49 WAT)
+
+- URL: https://x.com/NahamSec/status/1807788500302864397
+- Metrics (at fetch): bookmark 2, impression 5133, like 47, quote 0, reply 1, retweet 3
+
+> Going live again today but this time @Rhynorater is joining me on the stream to talk about his approach to recon! Let's get it 👉🏼 https://t.co/KsUC6wGYW6 https://t.co/PJDhCcu1dr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRX26fqawAASq_u.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-01 · Post · I SCANNED EVERY BUG BOUNTY PROGRAM... for you! 
+
+
+### Post — @NahamSec — 2024-07-01 13:00 UTC (2024-07-01 14:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1807761071433822505
+- Metrics (at fetch): bookmark 65, impression 12987, like 218, quote 2, reply 7, retweet 36
+
+> I SCANNED EVERY BUG BOUNTY PROGRAM... for you! 
+>
+> Watch 👉🏼 https://t.co/wFAZmCjoXq
+>
+> Shoutout to @trick3st for partnering with me to make this data free and accessible for bug bounty hunters! https://t.co/1pREBWILE0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRX1FsBbMAAU646.png — no alt text provided by author
+
+
+---
+
+## 2024-06-28 · Post · We shall see how things will go during the bounty phase though.
+
+
+### Post — @NahamSec — 2024-06-28 04:08 UTC (2024-06-28 05:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1806540256981942754
+- Metrics (at fetch): bookmark 1, impression 3719, like 28, quote 0, reply 1, retweet 0
+
+> We shall see how things will go during the bounty phase though.
+
+
+---
+
+## 2024-06-28 · Post · Unfortunately, my former employer was not the better experience 🥲 had to fight to get it to barely q
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2024-06-28 04:08 UTC (2024-06-28 05:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1806540108755255793
+- Metrics (at fetch): bookmark 0, impression 3984, like 33, quote 0, reply 2, retweet 0
+
+> Unfortunately, my former employer was not the better experience 🥲 had to fight to get it to barely qualify for a high while Bugcrowd understood and set severity appropriately.
+
+
+---
+
+## 2024-06-28 · Post · I have reported a series of two identical vulnerabilities to both @Bugcrowd and @Hacker0x01, gotta s
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2024-06-28 04:07 UTC (2024-06-28 05:07 WAT)
+
+- URL: https://x.com/NahamSec/status/1806539844891635720
+- Metrics (at fetch): bookmark 6, impression 9722, like 112, quote 0, reply 3, retweet 5
+
+> I have reported a series of two identical vulnerabilities to both @Bugcrowd and @Hacker0x01, gotta say one did way better than the other with how they handled the severity and triage.
+
+
+---
+
+## 2024-06-26 · Post · @hugopicanzo @Bugcrowd I can't disclose any information about it just yet, because it's still being 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2024-06-26 18:11 UTC (2024-06-26 19:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1806027525002588357
+- Metrics (at fetch): bookmark 0, impression 532, like 7, quote 0, reply 1, retweet 0
+
+> @hugopicanzo @Bugcrowd I can't disclose any information about it just yet, because it's still being fixed, but maybe I'll make a follow up video on it.
+
+
+---
+
+## 2024-06-26 · Post · 📢 The OG Live Hacking &amp; Recon streams are coming back! Starting this Sunday with 3 days of back 
+
+
+### Post — @NahamSec — 2024-06-26 17:03 UTC (2024-06-26 18:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1806010377005945191
+- Metrics (at fetch): bookmark 15, impression 12040, like 164, quote 1, reply 18, retweet 14
+
+> 📢 The OG Live Hacking &amp; Recon streams are coming back! Starting this Sunday with 3 days of back to back hacking. 
+>
+> Drop your targets in the reply and let's get to hacking! 🫡 https://t.co/lnTMcng3yg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRA8reNaIAI4beA.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-26 · Post · Submitted my first bug to the FIS program on @bugcrowd. Currently marked as a p1 too! 🤔 Found the as
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2024-06-26 16:49 UTC (2024-06-26 17:49 WAT)
+
+- URL: https://x.com/NahamSec/status/1806006903534985371
+- Metrics (at fetch): bookmark 51, impression 15681, like 252, quote 2, reply 12, retweet 12
+
+> Submitted my first bug to the FIS program on @bugcrowd. Currently marked as a p1 too! 🤔 Found the asset by combining the same stuff I talked about in today and Monday’s video. 🤷🏽‍♂️
+>
+> Most of you watch my videos but aren’t listening to what I say and just complain instead.
+
+
+---
+
+## 2024-06-26 · Post · Submitted my first bug to the FIS program. Currently marked as a p1 too! 🤔 Found the asset by combin
+
+
+### Post — @NahamSec — 2024-06-26 16:48 UTC (2024-06-26 17:48 WAT)
+
+- URL: https://x.com/NahamSec/status/1806006726208135520
+- Metrics (at fetch): bookmark 1, impression 275, like 4, quote 0, reply 0, retweet 0
+
+> Submitted my first bug to the FIS program. Currently marked as a p1 too! 🤔 Found the asset by combining the same stuff I talked about in today and Monday’s video. 🤷🏽‍♂️
+>
+> Most of you watch my videos but aren’t listening to what I say and just complain instead.
+
+
+---
+
+## 2024-06-26 · Post · I'm going back to making some recon content starting with finding root/apex domains for programs lik
+
+
+### Post — @NahamSec — 2024-06-26 13:15 UTC (2024-06-26 14:15 WAT)
+
+- URL: https://x.com/NahamSec/status/1805952905314439477
+- Metrics (at fetch): bookmark 41, impression 9372, like 186, quote 1, reply 9, retweet 14
+
+> I'm going back to making some recon content starting with finding root/apex domains for programs like FIS while leveraging both OSINT and premium tools. Should I make an in depth videos on how to build on this data? Let me know in the comments!
+>
+> 👀👉🏼 https://t.co/ohedFF1h9L https://t.co/WahewtMzTE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQ9zrFtbwAQgMu-.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-24 · Post · I have been fuzzing an API for the last 3 hours just to guess a valid username to showcase an unauth
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @NahamSec — 2024-06-24 22:54 UTC (2024-06-24 23:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1805374037256028217
+- Metrics (at fetch): bookmark 84, impression 28040, like 178, quote 0, reply 20, retweet 3
+
+> I have been fuzzing an API for the last 3 hours just to guess a valid username to showcase an unauthenticated leak of PII for the POC. 
+>
+> Had access to actuator (with heapdump) but it was useless. Any guesses how I found a username?
+
+
+---
+
+## 2024-06-24 · Post · After months of work, I have finally updated my Bug Bounty course with a massive focus on hands-on l
+
+
+### Post — @NahamSec — 2024-06-24 14:33 UTC (2024-06-24 15:33 WAT)
+
+- URL: https://x.com/NahamSec/status/1805247829839077480
+- Metrics (at fetch): bookmark 121, impression 89502, like 471, quote 7, reply 117, retweet 151
+
+> After months of work, I have finally updated my Bug Bounty course with a massive focus on hands-on labs through @hackinghub_io!
+>
+> More info here 👉🏼 https://t.co/yhUhrKRYYw
+> Use code UPDATE50OFF to get 50% off!
+>
+> I also have some free codes! RT/Reply for a chance to win! https://t.co/drge8UEypz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQ2HUTNaIAExdPh.png — no alt text provided by author
+
+
+---
+
+## 2024-06-19 · Post · HackerOne's Ambassador World Cup has been such an eye opener to see some of the newer hackers find v
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2024-06-19 17:07 UTC (2024-06-19 18:07 WAT)
+
+- URL: https://x.com/NahamSec/status/1803474747369595388
+- Metrics (at fetch): bookmark 5, impression 4396, like 50, quote 0, reply 1, retweet 1
+
+> HackerOne's Ambassador World Cup has been such an eye opener to see some of the newer hackers find vulnerabilities in applications/companies that have been running a bug bounty program for 3-4 years now.
+
+
+---
+
+## 2024-06-19 · Post · Maybe you should stop looking for shortcuts by running the same 5 tools or  same 500 templates as ev
+
+
+### Post — @NahamSec — 2024-06-19 17:06 UTC (2024-06-19 18:06 WAT)
+
+- URL: https://x.com/NahamSec/status/1803474392229539840
+- Metrics (at fetch): bookmark 3, impression 6527, like 71, quote 2, reply 1, retweet 3
+
+> Maybe you should stop looking for shortcuts by running the same 5 tools or  same 500 templates as everyone else? Instead go back to the basics and learn how to look for web vulnerabilities.
+
+
+---
+
+## 2024-06-19 · Post · Every time someone comment and says "you can't make money from bug bounty" I want to respond with "s
+
+
+### Post — @NahamSec — 2024-06-19 17:05 UTC (2024-06-19 18:05 WAT)
+
+- URL: https://x.com/NahamSec/status/1803474152420155875
+- Metrics (at fetch): bookmark 40, impression 31276, like 329, quote 0, reply 20, retweet 9
+
+> Every time someone comment and says "you can't make money from bug bounty" I want to respond with "sounds like a skill issue" but I feel super bad.
+
+
+---
+
+## 2024-06-19 · Post · Currently in the top 5 for @Hacker0x01's Ambassador World Cup! 🫡Didn't really expect to find much, b
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2024-06-19 13:01 UTC (2024-06-19 14:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1803412667148738837
+- Metrics (at fetch): bookmark 2, impression 9579, like 161, quote 0, reply 8, retweet 1
+
+> Currently in the top 5 for @Hacker0x01's Ambassador World Cup! 🫡Didn't really expect to find much, but happy I got to contribute a little bit. 
+>
+> Also shout out to @ajxchapman being #3 with a single bounty 😱 https://t.co/ObQx9Zaxqm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQZPdBHbIAAwOIf.jpg — no alt text provided by author

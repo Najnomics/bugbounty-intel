@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 37
-- Conversations/threads: 37
-- Oldest post captured: 2024-12-24
+- Posts in this file: 50
+- Conversations/threads: 50
+- Oldest post captured: 2024-07-10
 - Newest post captured: 2026-09-03
 
 
@@ -645,3 +645,256 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/GfjpIfrXgAAfzCq.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GfjpJkmXoAAy702.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GfjpLWdWUAA26n0.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-08 · Post · An update on this retarded take: yesterday skiddies (again) decided to fake Coinbase support and dra
+
+
+### Post — @pcaversaccio — 2024-12-08 11:36 UTC (2024-12-08 12:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1865722083637887154
+- Metrics (at fetch): bookmark 7, impression 6680, like 40, quote 1, reply 6, retweet 2
+
+> An update on this retarded take: yesterday skiddies (again) decided to fake Coinbase support and drained multiple accounts. But sure, disallowing VPN will save you. CB is fucking clown show at this moment. https://t.co/CvsFSv6aib https://t.co/3z23Ew2yrV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeRdBivXcAAQKJh.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GeRdM-9XMAAB7FR.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @7769022 — 2024-12-02 21:07 UTC (2024-12-02 22:07 WAT)
+    
+    - URL: https://x.com/7769022/status/1863691538661883925
+    - Metrics (at fetch): bookmark 655, impression 1272679, like 3346, quote 524, reply 875, retweet 191
+    
+    > PSA: Don't use a VPN to access Coinbase. 
+    >
+    > Attackers always use VPN's, so our risk models take that as a negative sign even if you're legitimately using your own account.
+    
+
+
+---
+
+## 2024-12-06 · Post · Can people please stop fucking getting rekt by interacting with malicious websites?? Like seriously,
+
+
+### Post — @pcaversaccio — 2024-12-06 15:59 UTC (2024-12-06 16:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1865063475787239898
+- Metrics (at fetch): bookmark 10, impression 8722, like 84, quote 1, reply 9, retweet 6
+
+> Can people please stop fucking getting rekt by interacting with malicious websites?? Like seriously, since 5 days we get non-stop draining victim tickets in SEAL 911. Look I will be totally frank: all of your security products help shit to prevent people getting drained. It's
+
+
+---
+
+## 2024-12-03 · Post · Phished credentials led to an evil supply chain attack here. Currently drained around ~160k "only". 
+
+
+Tags (automatic): Dependency confusion / supply chain
+
+
+### Post — @pcaversaccio — 2024-12-03 21:29 UTC (2024-12-03 22:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1864059398856785965
+- Metrics (at fetch): bookmark 4, impression 4468, like 39, quote 1, reply 5, retweet 3
+
+> Phished credentials led to an evil supply chain attack here. Currently drained around ~160k "only". Please review your products and upgrade if needed. https://t.co/5QpPHxYuRv
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1562178659766751237 — 2024-12-03 21:05 UTC (2024-12-03 22:05 WAT)
+    
+    - URL: https://x.com/1562178659766751237/status/1864053347461771321
+    - Metrics (at fetch): bookmark 458, impression 2299484, like 1947, quote 433, reply 281, retweet 713
+    
+    > anyone using @solana/web3.js, versions 1.95.6 and 1.95.7 are compromised with a secret stealer leaking private keys. if you or your product are using these versions, upgrade to 1.95.8 (1.95.5 is unaffected)
+    >
+    > if you run a service that can blacklist addresses, do your thing with
+    
+
+
+---
+
+## 2024-10-28 · Post · Look, over a year ago, we knew we fucked up. A vulnerability in older Vyper compiler versions hit se
+
+
+### Post — @pcaversaccio — 2024-10-28 15:41 UTC (2024-10-28 16:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1850925822925996394
+- Metrics (at fetch): bookmark 13, impression 61167, like 193, quote 4, reply 9, retweet 26
+
+> Look, over a year ago, we knew we fucked up. A vulnerability in older Vyper compiler versions hit several Curve Finance liquidity pools hard. Did we back down? Fucking no. We own that shit and are hell-bent on ensuring it never happens again. Since then, the compiler team has https://t.co/QhMKJeoHIN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1193198356123795456 — 2024-10-28 15:16 UTC (2024-10-28 16:16 WAT)
+    
+    - URL: https://x.com/1193198356123795456/status/1850919610280710316
+    - Metrics (at fetch): bookmark 7, impression 26156, like 71, quote 3, reply 1, retweet 19
+    
+    > want to learn about what's been going on with vyper's security initiatives for the past year? check out our inaugural blog post 👇
+    >
+    > https://t.co/RjkhdN7BQ6
+    >
+    > PS look ma, new blog just dropped 😍
+    
+
+
+---
+
+## 2024-10-06 · Post · We're fucking drowning in SEAL 911 tickets every damn day, with people getting drained left and righ
+
+
+### Post — @pcaversaccio — 2024-10-06 09:31 UTC (2024-10-06 10:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1842860274014917115
+- Metrics (at fetch): bookmark 62, impression 73223, like 440, quote 24, reply 37, retweet 54
+
+> We're fucking drowning in SEAL 911 tickets every damn day, with people getting drained left and right. It's brutal, and the reality is we're nowhere near fixing this. The harsh truth? Most of these tickets are coming from basic web2 issues—phishing, malware, the usual bullshit.
+
+
+---
+
+## 2024-09-28 · Post · Pretty wild timeline on the latest high severity bug in Bitcoin Core. ~5.5 years from reporting the 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2024-09-28 17:24 UTC (2024-09-28 18:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1840080083538624785
+- Metrics (at fetch): bookmark 17, impression 21040, like 77, quote 4, reply 6, retweet 11
+
+> Pretty wild timeline on the latest high severity bug in Bitcoin Core. ~5.5 years from reporting the issue to public disclosure. If you check now the user agents via https://t.co/TYhKqWbfID, you can see that almost ~17% of the running nodes are still at risk. The major patch was https://t.co/8kxkkVOIks
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYlDk6FXIAEYk-F.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GYlGm5ZWQAAC-wf.png — no alt text provided by author
+
+
+---
+
+## 2024-09-18 · Post · Some historical piece on Ethereum &lt;&gt; Reentrancy. In August _2014_ (2 years (!) before the DAO 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2024-09-18 10:02 UTC (2024-09-18 11:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1836345155764236788
+- Metrics (at fetch): bookmark 9, impression 4715, like 62, quote 1, reply 6, retweet 5
+
+> Some historical piece on Ethereum &lt;&gt; Reentrancy. In August _2014_ (2 years (!) before the DAO reentrancy hack) Andrew Miller (aka @socrates1024) warned Vitalik &amp; Gavin on the danger of reentrant contracts. But at least Gav seemed blind to the fact that this could become a serious https://t.co/8mxWdRky2w
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXv_K3SXkAAHYqa.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GXv_L1kWAAAY6EM.png — no alt text provided by author
+
+
+---
+
+## 2024-09-18 · Post · Some historical piece on Ethereum &lt;&gt; Reentrancy. In August _2014_ (2 years (!) before the DAO 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2024-09-18 09:58 UTC (2024-09-18 10:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1836344020802351330
+- Metrics (at fetch): bookmark 0, impression 285, like 1, quote 0, reply 0, retweet 0
+
+> Some historical piece on Ethereum &lt;&gt; Reentrancy. In August _2014_ (2 years (!) before the DAO reentrancy hack) Andrew Miller (aka @socrates1024) warned Vitalik &amp; Gavin on the danger or reentrant contracts. But at least Gav seemed blind to the fact that this could become a serious https://t.co/FKh2Nqi7jS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXv_K3SXkAAHYqa.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GXv_L1kWAAAY6EM.png — no alt text provided by author
+
+
+---
+
+## 2024-09-06 · Post · I'm super happy as it has been in the works for some months already, and now we can finally announce
+
+
+### Post — @pcaversaccio — 2024-09-06 08:11 UTC (2024-09-06 09:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1831968493580804387
+- Metrics (at fetch): bookmark 21, impression 61335, like 347, quote 8, reply 18, retweet 42
+
+> I'm super happy as it has been in the works for some months already, and now we can finally announce that Vyper is officially part of the EF bounty program! At Vyper, security is our top priority—so don't fear the snake 🐍, bounty hunters, embrace it. Your skills are about to be https://t.co/UvoOtIS8cZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWx1PzEW0AEVjJy.png — no alt text provided by author
+
+
+---
+
+## 2024-08-30 · Post · How about something healthy instead @hrkrshnn 🙃? There is no reason Cantina should promote destroyin
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @pcaversaccio — 2024-08-30 22:05 UTC (2024-08-30 23:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1829641581043085590
+- Metrics (at fetch): bookmark 1, impression 6462, like 31, quote 0, reply 3, retweet 0
+
+> How about something healthy instead @hrkrshnn 🙃? There is no reason Cantina should promote destroying your body with shit food. Treat auditors like sports professionals; only the best nutrition is good enough. https://t.co/NaBEoW1nOc
+
+**Quoted post** 1829306162690302060: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-07-22 · Post · The following analogy, though not flawless, serves well to underscore the critical importance of cli
+
+
+### Post — @pcaversaccio — 2024-07-22 12:46 UTC (2024-07-22 13:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1815367939656196297
+- Metrics (at fetch): bookmark 0, impression 4793, like 35, quote 2, reply 7, retweet 3
+
+> The following analogy, though not flawless, serves well to underscore the critical importance of client diversity: Consider the CrowdStrike incident from last week, which brought down millions of mission-critical digital infrastructures (due to reading in a bad data file and
+
+
+---
+
+## 2024-07-16 · Post · Lifi Finance getting drained while we speak (almost ~10m so far). Looks like a router approval explo
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @pcaversaccio — 2024-07-16 12:34 UTC (2024-07-16 13:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1813190405556506900
+- Metrics (at fetch): bookmark 60, impression 198844, like 403, quote 54, reply 46, retweet 119
+
+> Lifi Finance getting drained while we speak (almost ~10m so far). Looks like a router approval exploit (to be confirmed).
+> https://t.co/iO8P27mPyX
+
+
+---
+
+## 2024-07-10 · Post · Over two years ago, I opened an issue in the Solidity repo to disable reentrancy by default. I pushe
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2024-07-10 17:23 UTC (2024-07-10 18:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1811088827789774969
+- Metrics (at fetch): bookmark 29, impression 32962, like 207, quote 5, reply 22, retweet 26
+
+> Over two years ago, I opened an issue in the Solidity repo to disable reentrancy by default. I pushed. I tried my best to keep the issue alive. And what did the Solidity team do? Absolutely nothing. They haven't interacted for over a year. Instead, they're obsessed with shipping https://t.co/Gaw5dN4s6E
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSJGv5_XEAAmG0y.jpg — no alt text provided by author

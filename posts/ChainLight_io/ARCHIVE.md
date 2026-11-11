@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 150
-- Conversations/threads: 70
-- Oldest post captured: 2024-10-14
+- Posts in this file: 228
+- Conversations/threads: 109
+- Oldest post captured: 2023-11-02
 - Newest post captured: 2025-04-21
 
 
@@ -1592,7 +1592,28 @@ Tags (automatic): ZK, Platform: Code4rena / Sherlock / Cantina
 >
 > (6/11) https://t.co/nZsNa7fx7T
 
-**Quoted post** 1815783286217769162: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-07-23 16:17 UTC (2024-07-23 17:17 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1815783286217769162
+    - Metrics (at fetch): not returned
+    
+    > Saving Akash from Unauthorized Access
+    >
+    > In May 2024, we discovered and reported a critical bug in @akashnet that allowed an attacker to impersonate a deployment owner on the network, granting unauthorized access to execute commands, access logs, and other sensitive information.
+    >
+    > The vulnerability was in the authentication process used to verify ownership of instances on the Akash Network. This process relied solely on the common name and serial number in the TLS certificates, rather than the certificate fingerprints.
+    >
+    > If executed properly, an attacker could bypass the 'requireOwner' check and execute arbitrary commands on deployment instance, as well as access logs and other sensitive information.
+    >
+    > For discovering this critical bug, Akash Network proactively awarded us $20k worth of AKT tokens.
+    >
+    > A big thank you to @Official_Upbit, the leading Korean CEX, for providing great support in communicating with Akash Network, and to the Akash team for quickly reacting to the issue and making this space safer than before.
+    
+    **Media:**
+    - media `7_1815776421165617152` (details not returned by the API)
+    
 
 
 ---
@@ -1636,7 +1657,20 @@ Tags (automatic): ZK
 >
 > (4/11) https://t.co/BPsz2BuByV
 
-**Quoted post** 1837136988283228599: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-09-20 14:29 UTC (2024-09-20 15:29 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1837136988283228599
+    - Metrics (at fetch): bookmark 0, impression 8154, like 49, quote 3, reply 7, retweet 2
+    
+    > We are thrilled to announce that ChainLight has joined @zksync's Security Council.
+    >
+    > As one of the three bodies in the ZKsync governance system, the Security Council will serve as the first line of support for escalated security issues, respond to critical security threats, and perform technical due diligence.
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
 
 
 ---
@@ -1681,7 +1715,26 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > (2/11) https://t.co/QvIM4iWn0Y
 
-**Quoted post** 1824081470304186795: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1824081470304186795
+    - Metrics (at fetch): not returned
+    
+    > We did it again.
+    >
+    > We are thrilled to announce that ChainLight has won @defcon 32, the Olympics of CTF.
+    >
+    > This marks our 8th victory and the first time any team has won 3 consecutive years in the DEF CON history.
+    >
+    > 🧵For those new to ChainLight, here’s a little thread about us: [pic.x.com/VebJyBhIbr]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GVBwa0LbsAAH_0d.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/GVBwbGCakAEAdY0.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/GVBwbb5bsAAFjIy.jpg — no alt text provided by author
+    
 
 
 ---
@@ -2877,3 +2930,1935 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > (3/6) https://t.co/f6W1VkUGEF
 
 **Quoted post** 1844821291263803877: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-10-14 · Post · Table of Contents:
+
+
+### Post — @ChainLight_io — 2024-10-14 15:49 UTC (2024-10-14 16:49 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1845854510536900889
+- Metrics (at fetch): bookmark 0, impression 67, like 0, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ P719 Loses $328K
+> 2️⃣ Morpho User Loses $230K
+>
+> (2/5)
+
+
+---
+
+## 2024-10-14 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-10-14 15:49 UTC (2024-10-14 16:49 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1845854486897824094
+- Metrics (at fetch): bookmark 2, impression 530, like 5, quote 0, reply 1, retweet 1
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/5) https://t.co/koDUZx8XSO
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-10-07 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354931178451345
+- Metrics (at fetch): bookmark 0, impression 329, like 0, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
+> 👉 Join Discord: https://t.co/JLtmTXIXXr
+>
+> (6/6)
+
+
+---
+
+## 2024-10-07 · Post · 3️⃣ @HyperliquidX Bridge Faces 3-Hour Outage
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354908109717512
+- Metrics (at fetch): bookmark 1, impression 551, like 1, quote 0, reply 1, retweet 0
+
+> 3️⃣ @HyperliquidX Bridge Faces 3-Hour Outage
+>
+> • L1 perpetual DEX HyperLiquid experienced a 3-hour outage on its bridge.
+> • The issue was communicated via HyperLiquid's Discord, but no technical details have been released.
+>
+> (5/6) https://t.co/pwEqLR5HK6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZTphPXasAIXL_Z.png — no alt text provided by author
+
+
+---
+
+## 2024-10-07 · Post · 2️⃣ Issues Around @PikeFinance TGE
+
+
+### Post — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354879798194233
+- Metrics (at fetch): bookmark 1, impression 185, like 1, quote 0, reply 1, retweet 0
+
+> 2️⃣ Issues Around @PikeFinance TGE
+>
+> • Pike Finance, who raised $6.4M in its token presale, launched with only $8k liquidity.
+> • The project suffered two exploits in a single week in April: one due to a logic bug and another caused by a storage collision from a patch.
+>
+> (4/6) https://t.co/Lf8lUdIFG5
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1181107194923630592 — 2024-10-01 12:58 UTC (2024-10-01 13:58 WAT)
+    
+    - URL: https://x.com/1181107194923630592/status/1841100321675788519
+    - Metrics (at fetch): bookmark 2, impression 5345, like 41, quote 3, reply 8, retweet 10
+    
+    > What happened to the $6.4 million pre-sale fund raised by @PikeFinance!
+    >
+    > Back in March 2024, Pike finance raised $6.4 million by the public, but they added only $8k in liquidity to their recent token launch What happened to the remaining million dollers?
+    > - Founder @terrycflam https://t.co/MXF9xNZMaM
+    
+    **Media:**
+    - media `3_1841093730528354306` (details not returned by the API)
+    
+
+
+---
+
+## 2024-10-07 · Post · 1️⃣ @eigencloud Investor Loses $5.5M
+
+
+### Post — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354856863740376
+- Metrics (at fetch): bookmark 0, impression 171, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ @eigencloud Investor Loses $5.5M
+>
+> • An EigenLayer investor's custody-related email was compromised, leading to the alleged circulation of 1.65M $EIGEN.
+> • The community is questioning why the vestings were stored in an EOA instead of multisig wallets or contracts.
+>
+> (3/6) https://t.co/DZu5CXWC9g
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1542947918709080065 — 2024-10-04 18:19 UTC (2024-10-04 19:19 WAT)
+    
+    - URL: https://x.com/1542947918709080065/status/1842268416083653038
+    - Metrics (at fetch): bookmark 82, impression 1309658, like 642, quote 449, reply 0, retweet 60
+    
+    > Community Update
+    >
+    > We are investigating unapproved selling activity associated with this wallet: (https://t.co/Pp9KoTfACp).
+    >
+    > We will share our findings with the community as soon as possible.
+    
+
+
+---
+
+## 2024-10-07 · Post · Table of Contents:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-10-07 18:16 UTC (2024-10-07 19:16 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354833967050819
+- Metrics (at fetch): bookmark 0, impression 272, like 0, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ EigenLayer Investor Loses $5.5M
+> 2️⃣ Issues Around Pike Finance TGE
+> 3️⃣ HyperLiquid Bridge Bridge Faces 3-Hour Outage
+>
+> (2/6)
+
+
+---
+
+## 2024-10-07 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-10-07 18:16 UTC (2024-10-07 19:16 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354810617344458
+- Metrics (at fetch): bookmark 1, impression 795, like 6, quote 0, reply 1, retweet 2
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/6) https://t.co/l17fUIma6f
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-10-07 · Post · Just keeping them here for future reference.
+
+
+### Post — @ChainLight_io — 2024-10-07 05:55 UTC (2024-10-07 06:55 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843168356788265194
+- Metrics (at fetch): bookmark 2, impression 1671, like 9, quote 0, reply 2, retweet 0
+
+> Just keeping them here for future reference.
+>
+> 0846cdb19685cff82fb11a57c283cb09bc88284d0cf9af15f45a3135289bf0e6
+> f23926aacaea16da65e5458958e28c9ced70f5070fd9691b374d7656b948d12f
+
+
+---
+
+## 2024-09-30 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-09-30 16:24 UTC (2024-09-30 17:24 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789831192051917
+- Metrics (at fetch): bookmark 0, impression 310, like 0, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
+> 👉 Join Discord: https://t.co/JLtmTXIXXr
+>
+> (8/8)
+
+
+---
+
+## 2024-09-30 · Post · 5️⃣ @zilliqa Chain Halts Twice
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-09-30 16:24 UTC (2024-09-30 17:24 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789808098222286
+- Metrics (at fetch): bookmark 0, impression 416, like 0, quote 0, reply 1, retweet 0
+
+> 5️⃣ @zilliqa Chain Halts Twice
+>
+> • Zilliqa experienced network outages on Sep 27 and 29.
+> • The team states the network is back online for validators, with a "permanent fix" in progress for public use.
+>
+> (7/8) https://t.co/cYGS3NLhc6
+
+**Quoted post (full text):**
+
+    #### Quoted post — @872984298973941764 — 2024-09-29 17:42 UTC (2024-09-29 18:42 WAT)
+    
+    - URL: https://x.com/872984298973941764/status/1840447094232096810
+    - Metrics (at fetch): bookmark 1, impression 13108, like 200, quote 5, reply 13, retweet 38
+    
+    > Dear Community,
+    >
+    > The network is now back online for validators, and a permanent fix is being implemented for public use.
+    >
+    > We appreciate your patience, and will keep you updated.
+    
+
+
+---
+
+## 2024-09-30 · Post · 4️⃣ @Bankroll_Ltd Loses $230K
+
+
+### Post — @ChainLight_io — 2024-09-30 16:24 UTC (2024-09-30 17:24 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789784886968458
+- Metrics (at fetch): bookmark 0, impression 185, like 1, quote 0, reply 1, retweet 0
+
+> 4️⃣ @Bankroll_Ltd Loses $230K
+>
+> • The Bankroll token sale contract includes a `buyFor` function that allows users to buy tokens on behalf of others.
+> • If a user calls `buyFor` with the victim contract as input, anyone can arbitrarily increase the share amount value.
+>
+> (6/8) https://t.co/VnBJLHYRT1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1668050036414881796 — 2024-09-23 18:04 UTC (2024-09-23 19:04 WAT)
+    
+    - URL: https://x.com/1668050036414881796/status/1838278370338983981
+    - Metrics (at fetch): bookmark 0, impression 5350, like 9, quote 1, reply 1, retweet 4
+    
+    > Bankroll Network Hit by $230K Exploit
+    >
+    > Bankroll Network, a DeFi protocol, was hacked on September 22, resulting in the loss of $230,000. According to blockchain security platform @TenArmor, the attacker exploited a vulnerability in the protocol, initiating multiple transfers of https://t.co/VB41tgiSDD
+    
+    **Media:**
+    - media `3_1838278318635773952` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-30 · Post · 3️⃣ ReHold CTO Rugpulls $700K
+
+
+### Post — @ChainLight_io — 2024-09-30 16:24 UTC (2024-09-30 17:24 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789761918902395
+- Metrics (at fetch): bookmark 0, impression 147, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ ReHold CTO Rugpulls $700K
+>
+> • @rehold_io claims their private keys were compromised by their CTO.
+> • With no updates following the announcement, the community suspects a potential rugpull.
+>
+> (5/8) https://t.co/cLH489ZLxC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1586316973687934976 — 2024-09-25 22:32 UTC (2024-09-25 23:32 WAT)
+    
+    - URL: https://x.com/1586316973687934976/status/1839070595289329814
+    - Metrics (at fetch): bookmark 13, impression 57288, like 90, quote 57, reply 0, retweet 28
+    
+    > Important Security Alert!
+    >
+    > We regret to inform you that the private keys have been compromised by Michael Semin, CTO of ReHold.
+    > He currently has control over users' funds and the company’s servers.
+    >
+    > Michael is attempting a hostile takeover of the company by threatening our CEO,
+    
+
+
+---
+
+## 2024-09-30 · Post · 2️⃣ @Bedrock_DeFi Suffers $1.7M Loss
+
+
+### Post — @ChainLight_io — 2024-09-30 16:24 UTC (2024-09-30 17:24 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789738829307943
+- Metrics (at fetch): bookmark 0, impression 91, like 0, quote 0, reply 1, retweet 0
+
+> 2️⃣ @Bedrock_DeFi Suffers $1.7M Loss
+>
+> • Bedrock, a multi-chain liquidity restaking project, was exploited due to a critical vulnerability that minted a BTC-pegged token with the same amount of ETH instead of BTC.
+> • The team claims user funds are not affected.
+>
+> (4/8) https://t.co/UP2pfCPiDs
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1656587853781172225 — 2024-09-27 01:39 UTC (2024-09-27 02:39 WAT)
+    
+    - URL: https://x.com/1656587853781172225/status/1839479965685100780
+    - Metrics (at fetch): bookmark 23, impression 138230, like 181, quote 61, reply 17, retweet 33
+    
+    > ⚠️Important Announcement from the Bedrock Team
+    >
+    > We want to inform you that the Bedrock team is aware of a security exploit involving uniBTC. The issue has been handled and funds are SAFU.
+    >
+    > We want to reassure everyone that the underlying wrapped BTCs and BTCs in reserves are
+    
+
+
+---
+
+## 2024-09-30 · Post · 1️⃣ @OnyxProtocol Loses $3.8M in Hack
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2024-09-30 16:24 UTC (2024-09-30 17:24 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789715630616885
+- Metrics (at fetch): bookmark 1, impression 105, like 1, quote 0, reply 1, retweet 0
+
+> 1️⃣ @OnyxProtocol Loses $3.8M in Hack
+>
+> • Onyx Protocol suffered its second hack due to the known bug on CompoundV2 forks.
+> • Due to the precision loss leading to read-only reentrancy, $VUSD was drained from the protocol and temporarily depegged.
+>
+> (3/8) https://t.co/OPIPUJb1a2
+
+**Quoted post** 1839444120060023167: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-09-30 · Post · Table of Contents:
+
+
+### Post — @ChainLight_io — 2024-09-30 16:23 UTC (2024-09-30 17:23 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789692700320168
+- Metrics (at fetch): bookmark 0, impression 105, like 0, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ Onyx Protocol Loses $3.8M
+> 2️⃣ Bedrock Suffers $1.7M Loss
+> 3️⃣ ReHold CTO Rugpulls $700K
+> 4️⃣ Bankroll Network Loses $230K
+> 5️⃣ Zilliqa Chain Halts Twice
+>
+> (2/8)
+
+
+---
+
+## 2024-09-30 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-09-30 16:23 UTC (2024-09-30 17:23 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1840789669455503534
+- Metrics (at fetch): bookmark 2, impression 700, like 5, quote 0, reply 1, retweet 1
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/8) https://t.co/X56x8JKncZ
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-09-23 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-09-23 15:54 UTC (2024-09-23 16:54 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1838245438572650511
+- Metrics (at fetch): bookmark 0, impression 275, like 1, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
+> 👉 Join Discord: https://t.co/JLtmTXIXXr
+>
+> (7/7)
+
+
+---
+
+## 2024-09-23 · Post · 4️⃣ WXETA Token Loses $65K
+
+
+### Post — @ChainLight_io — 2024-09-23 15:53 UTC (2024-09-23 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1838245415503954077
+- Metrics (at fetch): bookmark 1, impression 408, like 1, quote 0, reply 1, retweet 0
+
+> 4️⃣ WXETA Token Loses $65K
+>
+> • A critical vulnerability existed because the initialize function didn't set `initialized` to true.
+> • This allowed the exploiter to re-initiate the token contract and drain the entire balance at any time.
+>
+> (6/7) https://t.co/XYaYiH2WOi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1803681930325663745 — 2024-09-16 01:43 UTC (2024-09-16 02:43 WAT)
+    
+    - URL: https://x.com/1803681930325663745/status/1835494807495659645
+    - Metrics (at fetch): bookmark 1, impression 1397, like 1, quote 1, reply 0, retweet 0
+    
+    > TenArmor Security Alert
+    >
+    > Our system has detected that the #WXETA token on Ethereum/BSC was attacked, resulting in a loss of $110k so far. 
+    >
+    > The root cause is simple logical bug: dev forgot to set s.initialized to 1 in initialize() func!
+    >
+    > Attack tx: https://t.co/rmxU4DBz0Y https://t.co/ONt56f1HG4
+    
+    **Media:**
+    - media `3_1835493108530003968` (details not returned by the API)
+    - media `3_1835493199059750913` (details not returned by the API)
+    - media `3_1835494218359504896` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-23 · Post · 3️⃣ @bananagun Suffers a Frontend Exploit
+
+
+### Post — @ChainLight_io — 2024-09-23 15:53 UTC (2024-09-23 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1838245392523436127
+- Metrics (at fetch): bookmark 0, impression 142, like 1, quote 0, reply 1, retweet 0
+
+> 3️⃣ @bananagun Suffers a Frontend Exploit
+>
+> • BananaGun, a token sniping bot, was exploited due to a frontend vulnerability, allowing unauthorized transfers of user assets.
+> • The team claims that fewer than 10 users were affected, with total losses around $1.9M.
+>
+> (5/7) https://t.co/TDRVjN6102
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1669901087531302912 — 2024-09-19 15:27 UTC (2024-09-19 16:27 WAT)
+    
+    - URL: https://x.com/1669901087531302912/status/1836789190953963606
+    - Metrics (at fetch): bookmark 20, impression 89639, like 420, quote 33, reply 76, retweet 59
+    
+    > UPDATE ON BOT SITUATION
+    >
+    > Today, some users of Banana Gun experienced unauthorized transfers from their wallets. Promptly after the first incident, we immediately switched off the bot and began diligently checking our back-end. 
+    >
+    > We have confirmed that our back-end is not
+    
+
+
+---
+
+## 2024-09-23 · Post · 2️⃣ @DeltaPrimeDefi Loses $6M
+
+
+### Post — @ChainLight_io — 2024-09-23 15:53 UTC (2024-09-23 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1838245369366626693
+- Metrics (at fetch): bookmark 0, impression 100, like 1, quote 0, reply 1, retweet 0
+
+> 2️⃣ @DeltaPrimeDefi Loses $6M
+>
+> • With exploited private keys, the exploiter could set the admin account to himself and upgrade the contract through a proxy, draining the entire contract balance.
+> • Over 90% of the exploited assets were laundered through Tornado Cash.
+>
+> (4/7) https://t.co/a6WvXz06Wy
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1465397176587145230 — 2024-09-16 08:55 UTC (2024-09-16 09:55 WAT)
+    
+    - URL: https://x.com/1465397176587145230/status/1835603279369125893
+    - Metrics (at fetch): bookmark 14, impression 54353, like 114, quote 28, reply 33, retweet 30
+    
+    > DeltaPrime Blue exploited, this is the current status:
+    >
+    > At 6:14 AM CET DeltaPrime Blue (Arbitrum) was attacked and drained for $5.98M. This was due to a compromised private key, the source of which is currently under investigation. 
+    >
+    > DeltaPrime Red (Avalanche) is not vulnerable
+    
+
+
+---
+
+## 2024-09-23 · Post · 1️⃣ @BingXOfficial Suffers $44M Hot Wallet Drainage
+
+
+### Post — @ChainLight_io — 2024-09-23 15:53 UTC (2024-09-23 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1838245346390225140
+- Metrics (at fetch): bookmark 0, impression 112, like 1, quote 0, reply 1, retweet 0
+
+> 1️⃣ @BingXOfficial Suffers $44M Hot Wallet Drainage
+>
+> • An exploit in the BingX system allowed abnormal access, leading to the hot wallet drainage.
+> • The BingX team promised full compensation to affected users via their treasury, claiming the total loss is manageable.
+>
+> (3/7) https://t.co/sm39kCTZO5
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1730477570691641344 — 2024-09-20 01:30 UTC (2024-09-20 02:30 WAT)
+    
+    - URL: https://x.com/1730477570691641344/status/1836940851873992845
+    - Metrics (at fetch): bookmark 39, impression 318892, like 406, quote 102, reply 93, retweet 90
+    
+    > @BingXOfficial At around 4am 20 Sep Singapore time, our technical team detected abnormal network access, suspecting a hacker attack on BingX's hot wallet. We immediately started our emergency plan, including the urgent transfer of assets and withdraw suspension. There has been minor asset loss,
+    
+
+
+---
+
+## 2024-09-23 · Post · Table of Contents:
+
+
+### Post — @ChainLight_io — 2024-09-23 15:53 UTC (2024-09-23 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1838245323418067069
+- Metrics (at fetch): bookmark 0, impression 135, like 1, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ BingX Suffers $44M Hot Wallet Drainage
+> 2️⃣ DeltaPrime Loses $6M
+> 3️⃣ BananaGun Suffers a Frontend Exploit
+> 4️⃣ WXETA Token Loses $65K
+>
+> (2/7)
+
+
+---
+
+## 2024-09-23 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-09-23 15:53 UTC (2024-09-23 16:53 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1838245300106109101
+- Metrics (at fetch): bookmark 1, impression 882, like 10, quote 0, reply 1, retweet 1
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/7) https://t.co/X9LvscJqPx
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-09-20 · Post · Join us today with @zksync and security council members to learn more: https://t.co/NxLfx6AT8k
+
+
+Tags (automatic): ZK
+
+
+### Post — @ChainLight_io — 2024-09-20 14:29 UTC (2024-09-20 15:29 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1837137011641340254
+- Metrics (at fetch): bookmark 0, impression 507, like 2, quote 0, reply 0, retweet 0
+
+> Join us today with @zksync and security council members to learn more: https://t.co/NxLfx6AT8k
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463851728403640326 — 2024-09-19 23:09 UTC (2024-09-20 00:09 WAT)
+    
+    - URL: https://x.com/1463851728403640326/status/1836905471774437648
+    - Metrics (at fetch): bookmark 0, impression 24100, like 118, quote 3, reply 6, retweet 22
+    
+    > Celebrate @zksync’s Security Council and security in general with @OpenZeppelin  @SpearbitDAO @ChainLight_io @alpeh_v and more!!
+    >
+    > Join us Sept 20th at 16:30 UTC
+    > https://t.co/SwU1XIMVtH
+    
+
+
+---
+
+## 2024-09-20 · Post · We are thrilled to announce that ChainLight has joined @zksync's Security Council.
+
+
+Tags (automatic): ZK
+
+
+### Post — @ChainLight_io — 2024-09-20 14:29 UTC (2024-09-20 15:29 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1837136988283228599
+- Metrics (at fetch): bookmark 0, impression 8154, like 49, quote 3, reply 7, retweet 2
+
+> We are thrilled to announce that ChainLight has joined @zksync's Security Council.
+>
+> As one of the three bodies in the ZKsync governance system, the Security Council will serve as the first line of support for escalated security issues, respond to critical security threats, and perform technical due diligence.
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-09-11 · Post · ChainLight is coming to @token2049!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2024-09-11 08:03 UTC (2024-09-11 09:03 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833778381948948571
+- Metrics (at fetch): not returned
+
+> ChainLight is coming to @token2049!
+>
+> Visit Booth M119 to connect with our award-winning security researchers to discuss:
+> → Identifying vulnerabilities in your smart contract
+> → Token regulation &amp; compliance
+> → Security researcher mentorship [pic.x.com/Prmoy435F3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXLjdZ_aoAAz5jm.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-09 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-09-09 14:18 UTC (2024-09-09 15:18 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833147865008640192
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/7) [pic.x.com/aPkDumd45g]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-09-09 14:18 UTC (2024-09-09 15:18 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833147888345776384
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ Penpie Loses $27M
+> 2️⃣ Pythia Loses $53K
+> 3️⃣ DAI Deployer Address on L2 Got Compromised
+> 4️⃣ Optimism Stalls for 19 Minutes
+>
+> (2/7)
+
+
+### Thread part 3 — @ChainLight_io — 2024-09-09 14:18 UTC (2024-09-09 15:18 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833147911158534641
+- Metrics (at fetch): not returned
+
+> 1️⃣ @Penpiexyz_io Loses $27M
+>
+> • Penpie, a yield farming protocol on top of Pendle Finance got compromised due to the lack of validation on farming pool registration.
+> • Combined with reentrancy, the exploiter registered malicious pool and drained staking rewards.
+>
+> (3/7) https://twitter.com/Penpiexyz_io/status/1831058385330118831
+
+**Links in post:** https://twitter.com/Penpiexyz_io/status/1831058385330118831
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1652749213652987905 — 2024-09-03 19:55 UTC (2024-09-03 20:55 WAT)
+    
+    - URL: https://x.com/1652749213652987905/status/1831058385330118831
+    - Metrics (at fetch): not returned
+    
+    > Alert: Penpie has encountered a security compromise.
+    >
+    > We have paused all deposits and withdrawals. Our team is working tirelessly to address it. Your patience and support are invaluable during this time.
+    >
+    > Stay tuned for further updates.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-09-09 14:18 UTC (2024-09-09 15:18 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833147934260805764
+- Metrics (at fetch): not returned
+
+> 2️⃣ Pythia loses $53K
+>
+> • Pythia, an algorithmic stablecoin project on Ethereum, was exploited due to a vulnerability in its staking contract.
+> • The attacker used a reentrancy vulnerability in the `claimReward()` function to drain and transfer 21 ETH to Tornado Cash.
+>
+> (4/7) https://twitter.com/QuillAudits_AI/status/1830976830607892649
+
+**Links in post:** https://twitter.com/QuillAudits_AI/status/1830976830607892649
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1091285940939571200 — 2024-09-03 14:31 UTC (2024-09-03 15:31 WAT)
+    
+    - URL: https://x.com/1091285940939571200/status/1830976830607892649
+    - Metrics (at fetch): not returned
+    
+    > 1/ 🚨 Security Alert! 🚨
+    >
+    > Quills, our security team has discovered an vulnerability in  Pythia Staking Contract  lead to an exploit of 21 ETH (~$53K). 
+    >
+    > The attacker (0xd861e6F1760d014D6EE6428cF7F7d732563c74c0) made use of this deployed attack contract (0x542533536e314180E1B9f00b2c046f6282eb3647) to carry out the exploit.
+    
+    **Media:**
+    - media `3_1830976798378860546` (details not returned by the API)
+    
+
+
+### Thread part 5 — @ChainLight_io — 2024-09-09 14:18 UTC (2024-09-09 15:18 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833147957920850003
+- Metrics (at fetch): not returned
+
+> 3️⃣ DAI deployer address on L2 compromised
+>
+> • Due to a flaw in the Profanity, Ethereum vanity address tool, L2 DAI deployer addresses are compromised.
+> • All L2s except Arbitrum and Optimism are affected. The exploiter has already deployed honeypot DAI on Polygon and Base.
+>
+> (5/7) https://twitter.com/godsflaw/status/1830986263098466561
+
+**Links in post:** https://twitter.com/godsflaw/status/1830986263098466561
+
+**Quoted post (full text):**
+
+    #### Quoted post — @24843248 — 2024-09-03 15:08 UTC (2024-09-03 16:08 WAT)
+    
+    - URL: https://x.com/24843248/status/1830986263098466561
+    - Metrics (at fetch): not returned
+    
+    > 🚨 DAI Security PSA for wallet providers, block explorers, and users. The L2 DAI deployer (0x075da589886BA445d7c7e81c472059dE7AE65250) for the DAI vanity address (0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1) has been compromised. (1/7)
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-09-09 14:18 UTC (2024-09-09 15:18 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833147980939211144
+- Metrics (at fetch): not returned
+
+> 4️⃣ @Optimism Stalls for 19 Minutes
+>
+> • On Sep 4, Optimism suffered 19 min. network stall due to the unstable head sync on Ethereum.
+> • Source: https://status.optimism.io/cm0mqh72p002t1e0wu6h27icq
+>
+> (6/7)
+
+**Links in post:** https://status.optimism.io/cm0mqh72p002t1e0wu6h27icq
+
+
+### Thread part 7 — @ChainLight_io — 2024-09-09 14:18 UTC (2024-09-09 15:18 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1833148003865268671
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (7/7)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-09-03 · Post · With the implementation of the "Virtual Asset User Protection Act" by the South Korean government on
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2024-09-03 08:39 UTC (2024-09-03 09:39 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830888444681502882
+- Metrics (at fetch): not returned
+
+> With the implementation of the "Virtual Asset User Protection Act" by the South Korean government on July 18th, we believe that the core pillars of token and smart contract safety are the 4Cs:
+>
+> circulation supply, code privilege, code security, and credibility.
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-09-03 · Post · Audits have not guaranteed safety; hacks still happen.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2024-09-03 02:04 UTC (2024-09-03 03:04 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830789034261573793
+- Metrics (at fetch): not returned
+
+> Audits have not guaranteed safety; hacks still happen.
+>
+> Join @brian_pak as we explore the crucial role of smart contract audits in institutional adoption, today at 3 PM KST on @kbwofficial's panel. [pic.x.com/eF1Os2Jyf1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWhE7BLaoAAP6vH.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-02 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @ChainLight_io — 2024-09-02 18:10 UTC (2024-09-02 19:10 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830669740735635821
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/7) [pic.x.com/S4Z0RyLcBH]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-09-02 18:10 UTC (2024-09-02 19:10 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830669764483821684
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ Aave Loses $56K Due to Arbitrary Call Vulnerability
+> 2️⃣ TON Fails Stress Test and Stalls
+> 3️⃣ Critical Vulnerability in Circle's CCTP Identified and Patched
+> 4️⃣ Critical Vulnerability in zkSync Compiler Identified and Patched
+>
+> (2/7)
+
+
+### Thread part 3 — @ChainLight_io — 2024-09-02 18:11 UTC (2024-09-02 19:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830669787279827448
+- Metrics (at fetch): not returned
+
+> 1️⃣ @aave Loses $56K Due to Arbitrary Call Vulnerability
+>
+> • A periphery contract of Aave, which lacked calldata validation, allowed an arbitrary call exploit and lost $56K.
+> • Aave claims that no user funds are affected.
+>
+> (3/7) https://twitter.com/bgdlabs/status/1828736554262470792
+
+**Links in post:** https://twitter.com/bgdlabs/status/1828736554262470792
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1498303808836935681 — 2024-08-28 10:09 UTC (2024-08-28 11:09 WAT)
+    
+    - URL: https://x.com/1498303808836935681/status/1828736554262470792
+    - Metrics (at fetch): not returned
+    
+    > Today, a series of transactions across different networks were detected showing what it looked like an exploit on some Aave peripheral contracts (not part of the Aave Protocol itself).
+    >
+    > Before any further detailed report, we would like to clarify the following for transparency with the Aave and DeFi ecosystem:
+    > - The smart contracts involved in said transactions are peripheral contracts, used from our understanding only on the http://app.aave.com user interface. No core smart contract of Aave involving all pool dynamics is affected, or has any relation with these transactions.
+    > - The smart contracts affected interact exclusively with the user using it, and with the contract itself. That means that any potential exploiter should never be able to affect any other users.
+    > - The assets seemly extracted are result of what usually is denominated as “dust” on swaps, small leftovers left on the contract after a successful exchange. The contract has slippage protections, but full dust cleanup from itself is not a feature, and dust has been accumulated after a long period of time and numerous transactions. No funds were extracted from any user in these transactions, and all users funds are totally safe in what relates to Aave.
+    > - http://app.aave.com operates with exact approvals (permit with expiry when available) when interacting with these contracts. That means there is no vector related with “infinite approvals” possible, in addition to the previous point of one user not being able to affect anyhow another. For precaution, the maintainer of http://app.aave.com (Aave Labs) has temporarily disabled those features and any other of similar nature while we finish the research.
+    >
+    > As previously commented, a more detailed report will follow later on the Aave governance forum.
+    
+    **Links in post:** http://app.aave.com
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-09-02 18:11 UTC (2024-09-02 19:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830669810524688644
+- Metrics (at fetch): not returned
+
+> 2️⃣ @ton_blockchain Fails Stress Test and Stalls
+>
+> • The massive transactions from the $DOG airdrop caused the TON network to suffer a stress test and stall for 7 hours.
+> • The peak TPS reached about 280, far below 55,000 TPS the team claimed was theoretically possible.
+>
+> (4/7) https://twitter.com/moo9000/status/1828115904225243302
+
+**Links in post:** https://twitter.com/moo9000/status/1828115904225243302
+
+**Quoted post (full text):**
+
+    #### Quoted post — @50703014 — 2024-08-26 17:02 UTC (2024-08-26 18:02 WAT)
+    
+    - URL: https://x.com/50703014/status/1828115904225243302
+    - Metrics (at fetch): not returned
+    
+    > Looks like @ton_blockchain failed stress test, as infrastructure crashes in DOGS airdrop.
+    >
+    > Only max of 280 TPS (transactions per second) reached. This is far less than earlier claimed theoretical 55,000 TPS. [pic.x.com/mMTELqRnMM] https://twitter.com/WuBlockchain/status/1828066872753107338
+    
+    **Media:**
+    - media `3_1828115901591195648` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/WuBlockchain/status/1828066872753107338
+    
+    **Quoted post** 1828066872753107338: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 5 — @ChainLight_io — 2024-09-02 18:11 UTC (2024-09-02 19:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830669833744326904
+- Metrics (at fetch): not returned
+
+> 3️⃣ Critical Vulnerability in @circle CCTP Identified and Patched
+>
+> • @evonide of Asymmetric Research reported a critical bug in CCTP on Cosmos.
+> • The lack of message sender verification in CCTP module allowed for the minting of invalid tokens, potentially up to ~35M USDC.
+>
+> (5/7) https://twitter.com/evonide/status/1828424380348801393
+
+**Links in post:** https://twitter.com/evonide/status/1828424380348801393
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2561813820 — 2024-08-27 13:28 UTC (2024-08-27 14:28 WAT)
+    
+    - URL: https://x.com/2561813820/status/1828424380348801393
+    - Metrics (at fetch): not returned
+    
+    > Found a critical vulnerability in Circle's USDC Cross-Chain Transfer Protocol allowing to mint USDC on Cosmos https://www.asymmetric.re/blog/circles-cctp-noble-mint-bug
+    
+    **Links in post:** https://www.asymmetric.re/blog/circles-cctp-noble-mint-bug
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-09-02 18:11 UTC (2024-09-02 19:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830669857249009684
+- Metrics (at fetch): not returned
+
+> 4️⃣ Critical vulnerability in @zksync compiler identified and quickly patched
+>
+> • A bug in the LLVM framework led to the generation of incorrect bytecodes under a specific optimization pattern.
+> • The issue was discovered during testing of the Aave v3 deployment on zkSync.
+>
+> (6/7) https://twitter.com/zkSyncDevs/status/1829110498471621003
+
+**Links in post:** https://twitter.com/zkSyncDevs/status/1829110498471621003
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463851728403640326 — 2024-08-29 10:55 UTC (2024-08-29 11:55 WAT)
+    
+    - URL: https://x.com/1463851728403640326/status/1829110498471621003
+    - Metrics (at fetch): not returned
+    
+    > http://x.com/i/article/1829094759178350592
+    
+    **Links in post:** http://x.com/i/article/1829094759178350592
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-09-02 18:11 UTC (2024-09-02 19:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1830669880812806550
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (7/7)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-08-21 · Thread · A 10-Year Summary of Bitcoin Scaling Solutions
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-08-21 14:41 UTC (2024-08-21 15:41 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1826268385723711556
+- Metrics (at fetch): not returned
+
+> A 10-Year Summary of Bitcoin Scaling Solutions
+>
+> Today, we are publicly releasing our internal report on the security analysis of the Bitcoin L2 project architecture.
+>
+> Currently, over 80 Bitcoin L2 projects have emerged. However, there is a notable absence of a comprehensive report on the architectural risks of these projects.
+>
+> Starting with the Lightning Network, our research includes case studies on OG L2s, such as @Stacks and @rootstock_io, as well as recent rollups and sidechains like @MerlinLayer2, @bouncebit, @BitlayerLabs, @BSquaredNetwork, and @citrea_xyz.
+>
+> Our research also covers recent efforts to advance the functionality and scalability of the Bitcoin network.
+>
+> View the full report below:
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-08-21 14:41 UTC (2024-08-21 15:41 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1826268410239647853
+- Metrics (at fetch): not returned
+
+> View the full report:
+> https://blog.chainlight.io/3d8eb08055e8
+
+**Links in post:** https://blog.chainlight.io/3d8eb08055e8
+
+
+---
+
+## 2024-08-19 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-08-19 16:51 UTC (2024-08-19 17:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1825576262649393302
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/6) [pic.x.com/kuh2aCVCve]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-08-19 16:51 UTC (2024-08-19 17:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1825576285751619842
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ Vow Loses $1.2M
+> 2️⃣ iVest DAO Loses $172K
+> 3️⃣ Optimism Reverts to Permissioned Fraud Proof
+>
+> (2/6)
+
+
+### Thread part 3 — @ChainLight_io — 2024-08-19 16:51 UTC (2024-08-19 17:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1825576308413551065
+- Metrics (at fetch): not returned
+
+> 1️⃣ @Vowcurrency loses $1.2M
+>
+> • The exchange rate of $VOW to $vUSD was changed from 5 to 100, enabling a bot to buy $VOW from Uniswap and gain 2 billion $vUSD.
+> • The team states it was an error during testing of their new lending contract.
+>
+> (3/6) https://twitter.com/Vowcurrency/status/1824224265551393116
+
+**Links in post:** https://twitter.com/Vowcurrency/status/1824224265551393116
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1161769867399315456 — 2024-08-15 23:18 UTC (2024-08-16 00:18 WAT)
+    
+    - URL: https://x.com/1161769867399315456/status/1824224265551393116
+    - Metrics (at fetch): not returned
+    
+    > Update. 
+    >
+    > Dear Community,
+    >
+    > The Verifiers opened their bridge to BSC in the middle of the day. Naturally the influx of additional v$ that were locked in the bridge arrived on BSC, were sold, and dropped the market again. 
+    >
+    > Since then, the market has begun to recover and there’s nothing major left to dump on the market left anywhere. 
+    >
+    > Another forty million vouchers were burned from supply by VSR in the last 24 hours as intended.
+    >
+    > We expect markets to respond positively as VSR does its job and brings down excess voucher supply.
+    >
+    > The entire ecosystem goes on chain in September and Vow UP is still on track.
+    >
+    > Much to look forward to. 
+    >
+    > IMPORTANT 
+    >
+    > Remain vigilant. Crypto is highly volatile. In the good times everyone is excited but in times of fear, scammers will try to offer you false hope. Do not click anything that offers you tokens. Do not send anyone tokens if they promise you to return more tokens than you sent and don’t not share any private information. There is no one involved with VOW who will ever ask you for your private keys. If anyone does - it’s a scam. Remember on telegram and CMC and on socials the bad guys are participating in discussions posing as community members. Double verify everything. 
+    >
+    > VOW to change the world.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-08-19 16:51 UTC (2024-08-19 17:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1825576331247235469
+- Metrics (at fetch): not returned
+
+> 2️⃣ Official_iVest Loses $172K
+>
+> • The root cause was the misimplemented donation function, which burned more token of the source address than intended, crashing the exchange rate of the token.
+>
+> (4/6) https://t.co/CPcckfyrPp
+
+**Links in post:** https://t.co/CPcckfyrPp
+
+**Quoted post** 1822870201698050064: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 5 — @ChainLight_io — 2024-08-19 16:51 UTC (2024-08-19 17:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1825576354269847658
+- Metrics (at fetch): not returned
+
+> 3️⃣ @Optimism Reverts to Permissioned Fraud Proof
+>
+> • OP Labs proposed a hard fork upgrade to fix bugs in its permissionless fraud proof system discovered through competitive audits.
+> • The upgrade also includes a fallback to the permissioned fraud proof.
+>
+> (5/6) https://twitter.com/Optimism/status/1824560736657670314
+
+**Links in post:** https://twitter.com/Optimism/status/1824560736657670314
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1044836083530452992 — 2024-08-16 21:35 UTC (2024-08-16 22:35 WAT)
+    
+    - URL: https://x.com/1044836083530452992/status/1824560736657670314
+    - Metrics (at fetch): not returned
+    
+    > Today, @OPLabsPBC posted an upgrade proposal detailing findings from a recent series of community-driven audits on the Fault Proof System, including the plan to fix the bugs identified as part of the audits.
+    >
+    > https://gov.optimism.io/t/upgrade-proposal-10-granite-network-upgrade/8733
+    
+    **Links in post:** https://gov.optimism.io/t/upgrade-proposal-10-granite-network-upgrade/8733
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-08-19 16:51 UTC (2024-08-19 17:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1825576377237778696
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (6/6)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-08-15 · Thread · We did it again.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081470304186795
+- Metrics (at fetch): not returned
+
+> We did it again.
+>
+> We are thrilled to announce that ChainLight has won @defcon 32, the Olympics of CTF.
+>
+> This marks our 8th victory and the first time any team has won 3 consecutive years in the DEF CON history.
+>
+> 🧵For those new to ChainLight, here’s a little thread about us: [pic.x.com/VebJyBhIbr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVBwa0LbsAAH_0d.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GVBwbGCakAEAdY0.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GVBwbb5bsAAFjIy.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081504710144456
+- Metrics (at fetch): not returned
+
+> We are a blockchain cybersecurity firm founded in 2016, specializing in:
+>
+> A. Smart contract audits
+> B. Token regulation and compliance [pic.x.com/ZB86GtxLJL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVBwdWTagAAo1NB.jpg — no alt text provided by author
+
+
+### Thread part 3 — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081536490278927
+- Metrics (at fetch): not returned
+
+> A. Uncompromised Security
+>
+> Our clients range from Web2 to Web3 domains, including industry giants like Upbit, zkSync, Blur, Blast, Mocaverse, Biconomy, DARPA, Google, Microsoft, Hyundai, and many others.
+>
+> Our mission is to deliver the best security experiences to the best teams. [pic.x.com/uxdST1pUm3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVBwfS2bMAAzIfV.jpg — no alt text provided by author
+
+
+### Thread part 4 — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081559982617058
+- Metrics (at fetch): not returned
+
+> A. We Find Bugs That Others Miss
+>
+> In the rapidly evolving Web3 landscape, we often explore the codebase of many projects to eliminate technical debt, even if they are not our clients.
+>
+> Often, we discover and report critical bugs in code that has already undergone multiple audits. https://twitter.com/ChainLight_io/status/1720109308015485194
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1720109308015485194
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-11-02 16:03 UTC (2023-11-02 17:03 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1720109308015485194
+    - Metrics (at fetch): not returned
+    
+    > Saving $1.9B.
+    >
+    > On September 15th, we discovered and reported a critical bug in @zkSync Era's ZK-Circuits that could have drained all the tokens passing through the bridge.
+    >
+    > This bug allows a malicious prover to produce "proofs" for invalidly executed blocks, which the verifier smart contracts on L1 would have blindly accepted. Since our bug discovery, $1.9B has passed through the bridge.
+    >
+    > Despite the vast security layers of zkSync Era in place today making it challenging for anybody except @The_Matter_Labs to pull off the exploit, Matter Labs quickly reacted to the report and deployed a fix for the issue.
+    >
+    > For disclosing a critical issue, they proactively awarded us with 50K USDC. This is the first bounty claimed for a ZK-circuit bug on zkSync Era.
+    >
+    > A big thank you to The Matter Labs and zkSync for quickly reacting to the issue, communicating with us thoroughly, and making this space safer than yesterday.
+    >
+    > For a technical analysis, head over to our blog for a deep dive👇
+    >
+    > https://link.medium.com/mF0HiHDToEb
+    
+    **Media:**
+    - media `13_1720109253342703616` (details not returned by the API)
+    
+    **Links in post:** https://link.medium.com/mF0HiHDToEb
+    
+
+
+### Thread part 5 — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081593079902220
+- Metrics (at fetch): not returned
+
+> B. Token Regulation and Compliance
+>
+> We collaborate with leading South Korean exchanges to offer DART, a comprehensive platform that examines all aspects of token security, including circulation supply, code privileges, code security, [REDACTED], and [REDACTED]. [pic.x.com/JUkM7yun1n]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVBwicRa4AApPmL.jpg — no alt text provided by author
+
+
+### Thread part 6 — @ChainLight_io — 2024-08-15 13:52 UTC (2024-08-15 14:52 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081626718261569
+- Metrics (at fetch): not returned
+
+> B. Token Risk Detection Engine
+>
+> Leveraging our white-hat and on-chain investigation expertise, we have developed token risk detection engines integrated into DART.
+>
+> DART has successfully identified critical vulnerabilities in tokens listed on major CEXs.
+>
+> Details coming soon. [pic.x.com/4PfWtuJ1aw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVBwkbDboAANQrV.jpg — no alt text provided by author
+
+
+### Thread part 7 — @ChainLight_io — 2024-08-15 13:52 UTC (2024-08-15 14:52 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081650554401153
+- Metrics (at fetch): not returned
+
+> Proven Track Record
+>
+> This year, we received a presidential award after years of collaboration with @DARPA, the Korean government, and various law enforcement agencies.
+>
+> We will continue to use our expertise in Web3 to benefit society and enhance cybersecurity as a whole. https://twitter.com/ChainLight_io/status/1782851187064336888
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1782851187064336888
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-04-23 19:17 UTC (2024-04-23 20:17 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1782851187064336888
+    - Metrics (at fetch): not returned
+    
+    > We are thrilled to announce that ChainLight and our CEO, @brian_pak, have been awarded the Presidential Commendation for their contributions to Information and Communications Technology in South Korea.
+    >
+    > After years of collaboration with DARPA and the South Korean governments, winning numerous CTFs (hacking competitions), and partnering with innovative teams across Web2 and Web3, we are honored to receive this prestigious recognition from South Korea.
+    >
+    > Thank you, President Yoon Suk Yeol.
+    
+    **Media:**
+    - media `3_1782849214042763266` (details not returned by the API)
+    - media `3_1782849214030270464` (details not returned by the API)
+    - media `3_1782849214051151876` (details not returned by the API)
+    
+
+
+### Thread part 8 — @ChainLight_io — 2024-08-15 13:52 UTC (2024-08-15 14:52 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1824081673665061328
+- Metrics (at fetch): not returned
+
+> Access the World's Top White-Hat Hackers
+>
+> Since our founding in 2016, we've battle-trained with top white-hat hackers through CTFs and won multiple awards. In 2023 alone, we participated in 18 CTFs and secured 15 victories.
+>
+> View our award history:
+> https://www.notion.so/chainlight/ChainLight-Award-History-a885f74b68f848928f147d278efe86ea
+
+**Links in post:** https://www.notion.so/chainlight/ChainLight-Award-History-a885f74b68f848928f147d278efe86ea
+
+
+---
+
+## 2024-08-12 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-08-12 15:15 UTC (2024-08-12 16:15 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1823015369625534807
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/6) [pic.x.com/RYWLcibGG0]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-08-12 15:15 UTC (2024-08-12 16:15 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1823015392782217446
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ - 2️⃣ $12M Exploit on Ronin Bridge
+> 3️⃣ Nexera Loses $1.5M
+> 4️⃣ Canto Experiences Network Outage
+>
+> (2/6)
+
+
+### Thread part 3 — @ChainLight_io — 2024-08-12 15:15 UTC (2024-08-12 16:15 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1823015415599317051
+- Metrics (at fetch): not returned
+
+> 1️⃣ $12M Exploit on @Ronin_Network Bridge (1/2)
+>
+> • After the contract upgrade, one of the two initialize functions was not executed, leaving _totalOperateWeight at zero.
+> • This allowed the exploiter's malicious attempts to withdraw the bridge's funds.
+>
+> (3/7) https://twitter.com/Ronin_Network/status/1820804772917588339
+
+**Links in post:** https://twitter.com/Ronin_Network/status/1820804772917588339
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1481272552009969664 — 2024-08-06 12:51 UTC (2024-08-06 13:51 WAT)
+    
+    - URL: https://x.com/1481272552009969664/status/1820804772917588339
+    - Metrics (at fetch): not returned
+    
+    > Earlier today, we were notified by white-hats about a potential exploit on the Ronin bridge. After verifying the reports, the bridge was paused approximately 40 minutes after the first on-chain action was spotted.
+    >
+    > The actors withdrew ~4K ETH and 2M USDC, valued at ~$12M, which is the maximum amount of ETH and USDC that can be withdrawn from the bridge for one single transaction withdrawal. The bridge limit serves as a critical safeguard to increase the security of large fund withdrawals, and it effectively prevented further damage in this exploit. More on bridge limits https://docs.roninchain.com/apps/ronin-bridge/withdrawal-limits.
+    >
+    > Today’s bridge upgrade, after being deployed through the governance process, introduced an issue leading the bridge to misinterpret the required bridge operators vote threshold to withdraw funds.
+    >
+    > We are working on a solution for the root cause. The bridge update will undergo intensive audits, before being voted on by the bridge operators for deployment.
+    >
+    > We are currently negotiating with the actors, who appear to be acting as white-hats and have responded in good faith. Regardless of the result of the negotiations, all user funds are safe and any shortfalls will be re-deposited into the bridge when it opens up.
+    >
+    > A post-mortem will be shared next week  where we will through the technical details and our planned measures to prevent similar occurrences in the future.
+    >
+    > Appreciate all your support and patience.
+    >
+    > The Ronin Network team.
+    
+    **Links in post:** https://docs.roninchain.com/apps/ronin-bridge/withdrawal-limits
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-08-12 15:15 UTC (2024-08-12 16:15 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1823015438667874375
+- Metrics (at fetch): not returned
+
+> 2️⃣ $12M exploit on @Ronin_Network bridge (2/2)
+>
+> • Due to an MEV bot that front-ran all exploit attempts and the bridge's daily withdrawal limit, the exploited assets were capped at 4,000 ETH and returned to the team.
+>
+> (4/7) https://twitter.com/Ronin_Network/status/1820846361945792751
+
+**Links in post:** https://twitter.com/Ronin_Network/status/1820846361945792751
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1481272552009969664 — 2024-08-06 15:36 UTC (2024-08-06 16:36 WAT)
+    
+    - URL: https://x.com/1481272552009969664/status/1820846361945792751
+    - Metrics (at fetch): not returned
+    
+    > Update:
+    >
+    > The ETH (~$10 M) has been returned and we expect that the USDC will be returned later today. We thank the white hats for their vigilance and integrity. The Bug Bounty Program will reward the white hats with a 500 K bounty. 
+    >
+    > The bridge will undergo an audit before it is reopened. We will provide updates as we make progress on this audit.
+    >
+    > We aim to shift operation of the bridge away from the current structure. We will be working with the Ronin validators to onboard a new solution and will provide updates on this as the work progresses.
+    >
+    > We thank the Ronin community and our allies for their support today.
+    >
+    > If you’d like to know what’s been happening on Ronin recently (aside from this), we recommend going through our mid-year review: 
+    >
+    > https://roninchain.com/blog/posts/ronin-h1-2024-dev-update
+    
+    **Links in post:** https://roninchain.com/blog/posts/ronin-h1-2024-dev-update
+    
+
+
+### Thread part 5 — @ChainLight_io — 2024-08-12 15:15 UTC (2024-08-12 16:15 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1823015461858230368
+- Metrics (at fetch): not returned
+
+> 3️⃣ @Nexera_Official loses $1.5M
+>
+> • The server managing credentials for Nexera's smart contracts was compromised by malware.
+> • The exploiter gained unauthorized access to the staking contracts on Ethereum and sold one-third of the exploited $NXRA.
+>
+> (5/7) https://twitter.com/Nexera_Official/status/1821079381831512315
+
+**Links in post:** https://twitter.com/Nexera_Official/status/1821079381831512315
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1003718268484489216 — 2024-08-07 07:02 UTC (2024-08-07 08:02 WAT)
+    
+    - URL: https://x.com/1003718268484489216/status/1821079381831512315
+    - Metrics (at fetch): not returned
+    
+    > Announcement
+    >
+    > The team is investigating an exploit involving smart contracts containing NXRA tokens.
+    >
+    > While we are still finalizing our findings, there are already a couple of things that we can share:
+    > 1️⃣ The $NXRA token contract has already been paused. Trading is halted on decentralized exchanges, and we are working with centralized exchanges to halt trading.
+    > 2️⃣Everyone is advised to stop trading.
+    >
+    > We continue to investigate the exploit now and will come back here ASAP with follow-up steps.
+    >
+    > Thank you for your understanding and patience while we sort this out with the utmost priority.
+    >
+    > $NXRA
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-08-12 15:15 UTC (2024-08-12 16:15 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1823015484989817055
+- Metrics (at fetch): not returned
+
+> 4️⃣ @CantoPublic Experiences Network Outage
+>
+> • Canto Network, a DeFi layer 1 blockchain, has been experiencing a network outage for over 36 hours due to a consensus bug.
+> • An upgrade is planned for Aug. 12 at 12:00 UTC to resolve the issue.
+>
+> (6/7) https://twitter.com/CantoPublic/status/1822733054689026460
+
+**Links in post:** https://twitter.com/CantoPublic/status/1822733054689026460
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1521630706861940737 — 2024-08-11 20:33 UTC (2024-08-11 21:33 WAT)
+    
+    - URL: https://x.com/1521630706861940737/status/1822733054689026460
+    - Metrics (at fetch): not returned
+    
+    > Canto chain is currently experiencing an issue with consensus that has caused the chain to halt.
+    >
+    > An upgrade to address this issue will be carried out on Monday, August 12 UTC 12:00.
+    >
+    > All funds are safe. Once the chain resumes, users will be able to access all activities as usual.
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-08-12 15:15 UTC (2024-08-12 16:15 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1823015508054327565
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (7/7)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-08-05 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462019772072263
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/8) [pic.x.com/vhmnFr9lSw]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462043574706455
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ Terra Loses $5.3M
+> 2️⃣ Convergence Finance Loses $210K
+> 3️⃣ - 4️⃣ Controversial Shutdown of ZKX
+> 5️⃣ $KUJI Plummets as Foundation's Positions Get Liquidated
+>
+> (2/8)
+
+
+### Thread part 3 — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462066521837678
+- Metrics (at fetch): not returned
+
+> 1️⃣ @terra_money loses $5.3M
+>
+> • The root cause was a known reentrancy in the timeout callback on IBC hook.
+> • Cosmos patched this bug in April, but Terra did not include the patch in its upgrade.
+> • The exploit involved 60M $ASTRO, causing its price to crash over 60%.
+>
+> (3/8) https://twitter.com/terra_money/status/1819032544274194885
+
+**Links in post:** https://twitter.com/terra_money/status/1819032544274194885
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1022028994772910086 — 2024-08-01 15:28 UTC (2024-08-01 16:28 WAT)
+    
+    - URL: https://x.com/1022028994772910086/status/1819032544274194885
+    - Metrics (at fetch): not returned
+    
+    > Yesterday, the Terra blockchain was the target of a malicious attack exploiting a Cosmos chain vulnerability, resulting in the unauthorized withdrawal of approximately $4 million worth of assets.
+    >
+    > When alerted to the presence of the vulnerability yesterday morning, we immediately coordinated with validators to halt the chain, and then pushed out a software upgrade to patch the vulnerability.
+    >
+    > We have also taken action to blacklist the exploiter’s wallet on Terra.
+    >
+    > We will share a more detailed breakdown of events when we have conclusively established the facts of the incident.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462089674358877
+- Metrics (at fetch): not returned
+
+> 2️⃣ @Convergence_fi loses $210K
+>
+> • The root cause was lack of input validation in the function that mints $CVG for eligible stakers, which allowed a malicious contract as its input.
+> • This vulnerability allowed the exploiter to claim rewards for all staked tokens.
+>
+> (4/8) https://twitter.com/Tangent_fi/status/1819175051583017479
+
+**Links in post:** https://twitter.com/Tangent_fi/status/1819175051583017479
+
+**Quoted post** 1819175051583017479: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 5 — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462112940110034
+- Metrics (at fetch): not returned
+
+> 3️⃣ Controversial Shutdown of @zkxprotocol (1/2)
+>
+> • ZKX founder @0xEduard announced suspending project development due to low user engagement and economic pressure.
+> • The community suspected a soft rug, since the team announced raising $7.6M just weeks ago with its TGE.
+>
+> (5/8) https://t.co/lr41c23MeT
+
+**Links in post:** https://t.co/lr41c23MeT
+
+**Quoted post** 1818206251089551810: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 6 — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462136096944590
+- Metrics (at fetch): not returned
+
+> 4️⃣ Controversial Shutdown of @zkxprotocol (2/2)
+>
+> • Following statements of VCs including @HashKey_Capital and @ambergroup_io raised more questions about the team's operation.
+> • @0xEduard recently published another statement with explanations for some community concerns.
+>
+> (6/8) https://twitter.com/ambergroup_io/status/1819756271823884715
+
+**Links in post:** https://twitter.com/ambergroup_io/status/1819756271823884715
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1006743460483756032 — 2024-08-03 15:24 UTC (2024-08-03 16:24 WAT)
+    
+    - URL: https://x.com/1006743460483756032/status/1819756271823884715
+    - Metrics (at fetch): not returned
+    
+    > In light of recent developments with ZKX, while we honor our contractual confidential obligations with our clients including ZKX, we’d like to share our perspective and necessary information as an investor and market maker to promote transparency and support the community. We believe in putting our clients and their communities first and we aim to offer insights that can benefit future projects and industry participants.
+    >
+    > As one of the market makers engaged by ZKX for their TGE, we were provided a loan of 2 million ZKX tokens to facilitate liquidity on the launch date, June 19 under standard loan option agreement with no extra fees charged. Our market-making strategy aims to ensure consistent liquidity while maintaining a market-neutral position over the long term, which we firmly believe is the most beneficial approach in the long run to the projects, their communities, and other market participants.
+    >
+    > Due to a lack of organic buying interest upon launch and our commitment to provide consistent liquidity, we have been net buying ZKX tokens since the listing, even as prices declined. This approach aligns with our commitment to support projects and their communities, ensuring stable market conditions, even potentially at our own expense.
+    >
+    > On June 24, the ZKX team requested the return of 1 million ZKX tokens to bolster community confidence by reducing circulation. We agreed, considering the long-term benefit to the project and its community, reducing our token loan to 1 million tokens.
+    >
+    > The last update we received was on July 30, when the project announced the cessation of operations. This decision was made without prior communication, highlighting the importance of transparency in our industry. It sets a concerning precedent and impacts investors, service providers, and, most importantly, the community. While we acknowledge the risks involved in entrepreneurship, we believe transparency and accountability are fundamental to our industry and each project’s ultimate success.
+    >
+    > For full transparency, we have net accumulated 2 million ZKX tokens since launch, bringing our total holdings to 3 million ZKX tokens (1 million token loan + 2 million net accumulated from the open market due to liquidity provision). As one of the industry's leading market makers, our goal is to support our clients and their communities over the long term, across various market cycles. We are committed to providing consistent liquidity and upholding transparency as a core value, even during challenging times.
+    >
+    > We believe that clear communication and transparency are essential for fostering trust and collaboration within the crypto community. We hope that these principles will guide future projects and that the ZKX team will take the necessary actions and accountability to bring more transparency and address the situation constructively.
+    
+    **Links in post:** https://twitter.com/HashKey_Capital/status/1819225266721579313
+    
+    **Quoted post** 1819225266721579313: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462159450734746
+- Metrics (at fetch): not returned
+
+> 5️⃣ $KUJI Plummets as Foundation's Positions Get Liquidated
+>
+> • @TeamKujira mistakenly had its leveraged positions liquidated, which were set for the DEX liquidity of the Kujira ecosystem.
+> • Due to the liquidation cascade, the $KUJI price plummeted about 50%.
+>
+> (7/8) https://twitter.com/RujiraNetwork/status/1819013564906053829
+
+**Links in post:** https://twitter.com/RujiraNetwork/status/1819013564906053829
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1423685983841705985 — 2024-08-01 14:13 UTC (2024-08-01 15:13 WAT)
+    
+    - URL: https://x.com/1423685983841705985/status/1819013564906053829
+    - Metrics (at fetch): not returned
+    
+    > GM all. We’d like to address the current events.
+    >
+    > As a team we thought the best use of a portion of ops funds would be to leverage and deploy across the ecosystem in order to bootstrap liquidity and activity. We genuinely felt like this was the correct course of action at the time. This unfortunately coincided with a series of events over the last few months, including exploits, socially engineered attacks and fallouts within the ecosystem. This is in no way shifting blame, but important to note as it at least gives a fuller picture. 
+    >
+    > We worked hard to keep these positions safe, but the rate of selling made it impossible. Although this was by design by a select few, we of course take full responsibility for the position getting to this point, and we are truly sorry that it’s affected price.
+    >
+    > In terms of what is happening now. The team positions are at risk and this is causing 👇
+    >
+    > A: Panic & further selling. Some have also mentioned certain ‘influencers’ saying it’s a “rug” on Twitter, which is not at all true, but again just adds fuel to the fire. 
+    >
+    > B: The team positions are requiring more bids in order to fire off even partial liquidations at the moment. So although the potential for some bad debt is there, this hasn’t actually happened yet. Please keep reading for proposed solutions.
+    >
+    > An important note at this stage is to mention that there are still 14 million KUJI safe and sound in the treasury. Some people are trying to cause panic by saying the entire treasury is at risk, but that’s not the case at all. 
+    >
+    > We are committed to building a fair, transparent and sustainable DeFi ecosystem.
+    >
+    > The events of today have demonstrated that we must be more transparent and more accountable in the way that the Kujira Treasury is managed, and how the core Kujira Protocols are operated.
+    >
+    > We will shortly be posting a proposal to create the Kujira Operational DAO. This DAO will take ownership of the Kujira Treasury and core protocols, with an initial mandate to safely reduce debt. We will do this with Fuzion’s Bonds product, allowing us to offer the community discounted $KUJI, with a range of maturities and vesting schedules to minimise long-term price impact.
+    >
+    > This DAO will also assume control of the configuration of the core Kujira Protocols. Combined with upcoming admin dashboards, this will create transparency over how these protocols run, and allow the community to propose changes that will be voted on by members of the DAO.
+    >
+    > Lastly, we propose that the Community Pool is migrated to the Operational DAO. This will allow a longer and more considered voting period for grant requests, as opposed to the regular 48 hours. Over time, the Foundation staking positions will also be transferred to the DAO, providing a sustainable source of revenue into the future.
+    >
+    > We’re actively looking for motivated and talented individuals to join the DAO. If you think you know one, please recommend them.
+    >
+    > As a team we remain committed to the future of Kujira, and over the next months will deliver the roadmap for BOW v2, USK v2, GHOST v2 and Perps. With the new Operational DAO at the helm of managing and operating these protocol upgrades, we’re more optimistic than ever about the future of Kujira.
+    
+    **Media:**
+    - media `3_1819013508501004288` (details not returned by the API)
+    
+
+
+### Thread part 8 — @ChainLight_io — 2024-08-05 14:09 UTC (2024-08-05 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1820462182653677685
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> If you found the thread helpful, please give it a like.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (8/8)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-07-23 · Thread · Saving Akash from Unauthorized Access
+
+
+### Post — @ChainLight_io — 2024-07-23 16:17 UTC (2024-07-23 17:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1815783286217769162
+- Metrics (at fetch): not returned
+
+> Saving Akash from Unauthorized Access
+>
+> In May 2024, we discovered and reported a critical bug in @akashnet that allowed an attacker to impersonate a deployment owner on the network, granting unauthorized access to execute commands, access logs, and other sensitive information.
+>
+> The vulnerability was in the authentication process used to verify ownership of instances on the Akash Network. This process relied solely on the common name and serial number in the TLS certificates, rather than the certificate fingerprints.
+>
+> If executed properly, an attacker could bypass the 'requireOwner' check and execute arbitrary commands on deployment instance, as well as access logs and other sensitive information.
+>
+> For discovering this critical bug, Akash Network proactively awarded us $20k worth of AKT tokens.
+>
+> A big thank you to @Official_Upbit, the leading Korean CEX, for providing great support in communicating with Akash Network, and to the Akash team for quickly reacting to the issue and making this space safer than before.
+
+**Media:**
+- media `7_1815776421165617152` (details not returned by the API)
+
+
+### Thread part 2 — @ChainLight_io — 2024-08-02 04:28 UTC (2024-08-02 05:28 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1819228688220934218
+- Metrics (at fetch): not returned
+
+> View full report: https://medium.com/chainlight/patch-thursday-finding-a-critical-vulnerability-in-akash-network-d9c728c2606b
+
+**Links in post:** https://medium.com/chainlight/patch-thursday-finding-a-critical-vulnerability-in-akash-network-d9c728c2606b
+
+
+---
+
+## 2024-04-23 · Post · We are thrilled to announce that ChainLight and our CEO, @brian_pak, have been awarded the President
+
+
+### Post — @ChainLight_io — 2024-04-23 19:17 UTC (2024-04-23 20:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1782851187064336888
+- Metrics (at fetch): not returned
+
+> We are thrilled to announce that ChainLight and our CEO, @brian_pak, have been awarded the Presidential Commendation for their contributions to Information and Communications Technology in South Korea.
+>
+> After years of collaboration with DARPA and the South Korean governments, winning numerous CTFs (hacking competitions), and partnering with innovative teams across Web2 and Web3, we are honored to receive this prestigious recognition from South Korea.
+>
+> Thank you, President Yoon Suk Yeol.
+
+**Media:**
+- media `3_1782849214042763266` (details not returned by the API)
+- media `3_1782849214030270464` (details not returned by the API)
+- media `3_1782849214051151876` (details not returned by the API)
+
+
+---
+
+## 2023-11-02 · Post · Saving $1.9B.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @ChainLight_io — 2023-11-02 16:03 UTC (2023-11-02 17:03 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1720109308015485194
+- Metrics (at fetch): not returned
+
+> Saving $1.9B.
+>
+> On September 15th, we discovered and reported a critical bug in @zkSync Era's ZK-Circuits that could have drained all the tokens passing through the bridge.
+>
+> This bug allows a malicious prover to produce "proofs" for invalidly executed blocks, which the verifier smart contracts on L1 would have blindly accepted. Since our bug discovery, $1.9B has passed through the bridge.
+>
+> Despite the vast security layers of zkSync Era in place today making it challenging for anybody except @The_Matter_Labs to pull off the exploit, Matter Labs quickly reacted to the report and deployed a fix for the issue.
+>
+> For disclosing a critical issue, they proactively awarded us with 50K USDC. This is the first bounty claimed for a ZK-circuit bug on zkSync Era.
+>
+> A big thank you to The Matter Labs and zkSync for quickly reacting to the issue, communicating with us thoroughly, and making this space safer than yesterday.
+>
+> For a technical analysis, head over to our blog for a deep dive👇
+>
+> https://link.medium.com/mF0HiHDToEb
+
+**Media:**
+- media `13_1720109253342703616` (details not returned by the API)
+
+**Links in post:** https://link.medium.com/mF0HiHDToEb

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 35
-- Conversations/threads: 30
-- Oldest post captured: 2026-10-07
+- Posts in this file: 36
+- Conversations/threads: 31
+- Oldest post captured: 2026-09-23
 - Newest post captured: 2026-11-10
 
 
@@ -662,3 +662,29 @@ Tags (automatic): AI-assisted hunting
 > If I have a choice in the future, I’ll avoid using it.
 >
 > Not sure if other bb
+
+
+---
+
+## 2026-09-23 · Post · YSoNet v2026.9.1 is out!
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-09-23 20:58 UTC (2026-09-23 21:58 WAT)
+
+- URL: https://x.com/irsdl/status/2102865280628146195
+- Metrics (at fetch): not returned
+
+> YSoNet v2026.9.1 is out!
+> 📚 Expanded Markdown/PDF research archive
+> 🤖 Bundled AI-agent skill
+> 🛠️ Shell completion improvements and serialization fixes
+>
+> For .NET deserialization researchers:
+> https://ysonet.com
+>
+> #YSoNet #AppSec
+
+**Links in post:** https://ysonet.com

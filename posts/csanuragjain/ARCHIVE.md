@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 53
-- Conversations/threads: 34
-- Oldest post captured: 2025-05-07
+- Posts in this file: 63
+- Conversations/threads: 44
+- Oldest post captured: 2023-08-23
 - Newest post captured: 2026-09-16
 
 
@@ -792,3 +792,195 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GqWlfbZawAAFMhd.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-21 · Post · It would be awesome to have another search filter to know projects which paid recently in @immunefi 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2025-04-21 09:15 UTC (2025-04-21 10:15 WAT)
+
+- URL: https://x.com/csanuragjain/status/1914246485807677733
+- Metrics (at fetch): bookmark 4, impression 1379, like 20, quote 0, reply 3, retweet 0
+
+> It would be awesome to have another search filter to know projects which paid recently in @immunefi (no need to disclose amount). Could help a lot in choosing targets :D
+
+
+---
+
+## 2025-04-19 · Post · Over the past one month, I’ve encountered two duplicate bug reports in @immunefi . While that can be
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2025-04-19 04:08 UTC (2025-04-19 05:08 WAT)
+
+- URL: https://x.com/csanuragjain/status/1913444566612812153
+- Metrics (at fetch): bookmark 1, impression 1835, like 21, quote 0, reply 1, retweet 0
+
+> Over the past one month, I’ve encountered two duplicate bug reports in @immunefi . While that can be a bit frustrating, the encouraging and appreciative responses from the product team have been incredibly motivating and made me want to keep looking 
+> (1/2)
+
+
+---
+
+## 2024-12-30 · Post · How can you achieve Permanent freezing of funds if protocol downgrades severity stating contract upg
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2024-12-30 04:34 UTC (2024-12-30 05:34 WAT)
+
+- URL: https://x.com/csanuragjain/status/1873588352739594362
+- Metrics (at fetch): bookmark 3, impression 2671, like 17, quote 0, reply 2, retweet 1
+
+> How can you achieve Permanent freezing of funds if protocol downgrades severity stating contract upgrade as a fix ?🤔 
+> #bugbounty #immunefi
+
+
+---
+
+## 2024-12-04 · Post · Sharing one of the program which has helped me with winning in Immunefi :)
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2024-12-04 09:06 UTC (2024-12-04 10:06 WAT)
+
+- URL: https://x.com/csanuragjain/status/1864234794520822109
+- Metrics (at fetch): bookmark 118, impression 4026, like 82, quote 2, reply 5, retweet 8
+
+> Sharing one of the program which has helped me with winning in Immunefi :)
+>
+> https://t.co/MxoojiZh92
+> Search keywords over 15887 contracts in few seconds for 16 chains
+>
+> Find all Immunefi contracts having same some/bug keyword
+>
+> #bugbounty #web3 #Immunefi
+
+
+---
+
+## 2024-07-24 · Post · It would be really great, if immunefi can grant access to the duplicate report in case report is ma
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2024-07-24 03:10 UTC (2024-07-24 04:10 WAT)
+
+- URL: https://x.com/csanuragjain/status/1815947601843278208
+- Metrics (at fetch): bookmark 0, impression 2094, like 23, quote 0, reply 4, retweet 1
+
+> It would be really great, if #immunefi can grant access to the duplicate report in case report is marked with Duplicate status.
+
+
+---
+
+## 2024-02-16 · Post · Feb has been crazy. 1M contest in @cantinaxyz is about to complete, and we already have @immunefi co
+
+
+Tags (automatic): Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @csanuragjain — 2024-02-16 14:38 UTC (2024-02-16 15:38 WAT)
+
+- URL: https://x.com/csanuragjain/status/1758501007208731073
+- Metrics (at fetch): bookmark 0, impression 2801, like 25, quote 0, reply 4, retweet 0
+
+> Feb has been crazy. 1M contest in @cantinaxyz is about to complete, and we already have @immunefi coming up with a new 200k Boost contest 🥳 🎉
+
+
+---
+
+## 2023-12-15 · Post · Need to really work on the accuracy part, but overall, a good year 😊 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2023-12-15 08:46 UTC (2023-12-15 09:46 WAT)
+
+- URL: https://x.com/csanuragjain/status/1735582204993130722
+- Metrics (at fetch): bookmark 8, impression 8123, like 94, quote 1, reply 2, retweet 2
+
+> Need to really work on the accuracy part, but overall, a good year 😊 
+> @immunefi #bugbounty https://t.co/Nnu01ngSjw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBYG0RPWIAAU38O.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-11 · Post · If you are starting with bug bounty platforms like @immunefi , no doubt, you can definitely make lif
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2023-12-11 08:08 UTC (2023-12-11 09:08 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734122961567633628
+- Metrics (at fetch): bookmark 46, impression 9291, like 101, quote 1, reply 5, retweet 13
+
+> If you are starting with bug bounty platforms like @immunefi , no doubt, you can definitely make life changing money.
+>
+> But always remember:
+>
+> 1. Not everyone is making 100k$ or more. Don't get upset when you see such tweets, instead learn from there attack vectors 
+> (1/3)
+
+
+---
+
+## 2023-12-11 · Post · I think an Auditor's role should be divided in 4 parts:
+
+
+### Post — @csanuragjain — 2023-12-11 07:17 UTC (2023-12-11 08:17 WAT)
+
+- URL: https://x.com/csanuragjain/status/1734110193238045033
+- Metrics (at fetch): bookmark 18, impression 3824, like 56, quote 0, reply 4, retweet 3
+
+> I think an Auditor's role should be divided in 4 parts:
+>
+> 1. Documentation Reader
+> 2. Bug Hunter
+> 3. POC Creator
+> 4. Report Writer
+>
+> #bugbounty #web3 
+> (1/1)
+
+
+---
+
+## 2023-08-23 · Reply · @immunefi 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2023-08-23 09:57 UTC (2023-08-23 10:57 WAT)
+
+- URL: https://x.com/csanuragjain/status/1694287674566160578
+- Metrics (at fetch): bookmark 17, impression 5274, like 48, quote 5, reply 10, retweet 5
+
+> @immunefi 
+> I am sharing the recent 5 immunefi projects which paid and acted in good faith for my submissions. 
+>
+> If others can also share, we can have a list of many good faith projects
+>
+> 1. Radiant
+> 2. Push Protocol
+> 3. Stader for BNB
+> 4. Oasys
+> 5. Eco

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 45
-- Conversations/threads: 44
-- Oldest post captured: 2023-09-21
+- Posts in this file: 66
+- Conversations/threads: 65
+- Oldest post captured: 2023-05-04
 - Newest post captured: 2026-11-07
 
 
@@ -807,3 +807,457 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F6ilYcbXkAAMA-x.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-20 · Post · Immerse yourself in zk goodness 
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-09-20 09:03 UTC (2023-09-20 10:03 WAT)
+
+- URL: https://x.com/kobigurk/status/1704420973317943459
+- Metrics (at fetch): not returned
+
+> Immerse yourself in zk goodness 
+>
+> https://www.youtube.com/watch?v=9VigkMeh-og
+
+**Links in post:** https://www.youtube.com/watch?v=9VigkMeh-og
+
+
+---
+
+## 2023-09-12 · Post · we were in the arena trying stuff today and implemented efficient add and mul operations on the M31 
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-09-12 16:03 UTC (2023-09-12 17:03 WAT)
+
+- URL: https://x.com/kobigurk/status/1701627608843059420
+- Metrics (at fetch): not returned
+
+> we were in the arena trying stuff today and implemented efficient add and mul operations on the M31 field (2^31 - 1) in CUDA to learn about GPU programming during @Ingo_zk's ZK-GPU Masterclass
+>
+> https://github.com/ingonyama-zk/cuda-field-expts/
+>
+> @Karthik_Inb, Shani, @Ido_Atlas, @robik, @PapiniShahar
+
+**Links in post:** https://github.com/ingonyama-zk/cuda-field-expts/
+
+
+---
+
+## 2023-09-11 · Post · Attending @Ingo_zk’s zk GPU masterclass made me remember there are many more meanings to L2
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @kobigurk — 2023-09-11 11:11 UTC (2023-09-11 12:11 WAT)
+
+- URL: https://x.com/kobigurk/status/1701191700335509867
+- Metrics (at fetch): not returned
+
+> Attending @Ingo_zk’s zk GPU masterclass made me remember there are many more meanings to L2
+
+
+---
+
+## 2023-09-05 · Post · 0.1 eth bounty to whoever does it https://twitter.com/kobigurk/status/1698769011029266696
+
+
+### Post — @kobigurk — 2023-09-05 20:31 UTC (2023-09-05 21:31 WAT)
+
+- URL: https://x.com/kobigurk/status/1699158350951580088
+- Metrics (at fetch): not returned
+
+> 0.1 eth bounty to whoever does it https://twitter.com/kobigurk/status/1698769011029266696
+
+**Links in post:** https://twitter.com/kobigurk/status/1698769011029266696
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kobigurk — 2023-09-04 18:44 UTC (2023-09-04 19:44 WAT)
+    
+    - URL: https://x.com/kobigurk/status/1698769011029266696
+    - Metrics (at fetch): not returned
+    
+    > [pic.x.com/d5DoRPjN3u] https://twitter.com/kobigurk/status/1698664272476229821
+    
+    **Media:**
+    - media `3_1698768989780856832` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/kobigurk/status/1698664272476229821
+    
+    **Quoted post** 1698664272476229821: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-09-04 · Post · [pic.x.com/d5DoRPjN3u] https://twitter.com/kobigurk/status/1698664272476229821
+
+
+### Post — @kobigurk — 2023-09-04 18:44 UTC (2023-09-04 19:44 WAT)
+
+- URL: https://x.com/kobigurk/status/1698769011029266696
+- Metrics (at fetch): not returned
+
+> [pic.x.com/d5DoRPjN3u] https://twitter.com/kobigurk/status/1698664272476229821
+
+**Media:**
+- media `3_1698768989780856832` (details not returned by the API)
+
+**Links in post:** https://twitter.com/kobigurk/status/1698664272476229821
+
+**Quoted post** 1698664272476229821: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-09-02 · Post · ZK is the right term because in hebrew it means “zeh kuhveel” which means “it’s acceptable”
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-09-02 08:13 UTC (2023-09-02 09:13 WAT)
+
+- URL: https://x.com/kobigurk/status/1697885366940832225
+- Metrics (at fetch): not returned
+
+> ZK is the right term because in hebrew it means “zeh kuhveel” which means “it’s acceptable”
+
+
+---
+
+## 2023-09-02 · Post · Didn’t initially realize the significance of such a bug https://rustsec.org/advisories/RUSTSEC-2022-
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-09-02 04:18 UTC (2023-09-02 05:18 WAT)
+
+- URL: https://x.com/kobigurk/status/1697826377829920803
+- Metrics (at fetch): not returned
+
+> Didn’t initially realize the significance of such a bug https://rustsec.org/advisories/RUSTSEC-2022-0093
+>
+> But thinking now (even if not directly applicable because of different curves), you have in private payment systems like zcash and penumbra exactly this situation - the public key is blinded in the circuit, and then you have two public keys with a relation between them, and so you’ll get the same nonce for different messages in a way that you can extract the secret key
+>
+> In a real situation you shouldn’t know the blinding factor, so this needs to be combined with another vulnerability
+>
+> I wonder what’s the practical fix. The obvious one is adding the same inputs to both deterministic nonces and messages, but maybe a more abstract and less fragile one is changing the definition of the message that goes into the deterministic nonce to be the one after hashing with w/e we wanted?
+
+**Links in post:** https://rustsec.org/advisories/RUSTSEC-2022-0093
+
+
+---
+
+## 2023-08-12 · Post · zk rollups is the right term since it stands for zero knavery rollups
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @kobigurk — 2023-08-12 10:06 UTC (2023-08-12 11:06 WAT)
+
+- URL: https://x.com/kobigurk/status/1690303711799894016
+- Metrics (at fetch): not returned
+
+> zk rollups is the right term since it stands for zero knavery rollups
+
+
+---
+
+## 2023-08-10 · Post · In blockchains we used to measure TPS (transactions per second)
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @kobigurk — 2023-08-10 17:24 UTC (2023-08-10 18:24 WAT)
+
+- URL: https://x.com/kobigurk/status/1689689310667444224
+- Metrics (at fetch): not returned
+
+> In blockchains we used to measure TPS (transactions per second)
+>
+> In zk we measure LAPS (lookup arguments per second)
+
+
+---
+
+## 2023-07-31 · Post · Biggest risks to Ethereum:
+
+
+Tags (automatic): Smart contract / DeFi, ZK
+
+
+### Post — @kobigurk — 2023-07-31 16:19 UTC (2023-07-31 17:19 WAT)
+
+- URL: https://x.com/kobigurk/status/1686049040453058573
+- Metrics (at fetch): not returned
+
+> Biggest risks to Ethereum:
+> * reentrancy issues
+> * community arguing on whether ZK is good terminology
+
+
+---
+
+## 2023-07-19 · Post · For some of us, every day is zk day 😊
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-07-19 11:10 UTC (2023-07-19 12:10 WAT)
+
+- URL: https://x.com/kobigurk/status/1681622651545047041
+- Metrics (at fetch): not returned
+
+> For some of us, every day is zk day 😊
+
+
+---
+
+## 2023-07-18 · Post · zk + gpu in a browser - will be important for zkml and other cases
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-07-18 02:14 UTC (2023-07-18 03:14 WAT)
+
+- URL: https://x.com/kobigurk/status/1681125146919071746
+- Metrics (at fetch): not returned
+
+> zk + gpu in a browser - will be important for zkml and other cases
+>
+> make it happen! https://twitter.com/weijie_eth/status/1680964079349911556
+
+**Links in post:** https://twitter.com/weijie_eth/status/1680964079349911556
+
+**Quoted post (full text):**
+
+    #### Quoted post — @958604960899321856 — 2023-07-17 15:34 UTC (2023-07-17 16:34 WAT)
+    
+    - URL: https://x.com/958604960899321856/status/1680964079349911556
+    - Metrics (at fetch): not returned
+    
+    > Participating in @augmenthack this Tuesday and Wednesday, and looking for a project? Read on!
+    
+
+
+---
+
+## 2023-07-18 · Post · zk + gpu in a browser
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-07-18 01:46 UTC (2023-07-18 02:46 WAT)
+
+- URL: https://x.com/kobigurk/status/1681118256675815424
+- Metrics (at fetch): not returned
+
+> zk + gpu in a browser
+>
+> make it happen! https://twitter.com/weijie_eth/status/1680964079349911556
+
+**Links in post:** https://twitter.com/weijie_eth/status/1680964079349911556
+
+**Quoted post (full text):**
+
+    #### Quoted post — @958604960899321856 — 2023-07-17 15:34 UTC (2023-07-17 16:34 WAT)
+    
+    - URL: https://x.com/958604960899321856/status/1680964079349911556
+    - Metrics (at fetch): not returned
+    
+    > Participating in @augmenthack this Tuesday and Wednesday, and looking for a project? Read on!
+    
+
+
+---
+
+## 2023-07-14 · Post · Memes to accompany @SuccinctJT’s post
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-07-14 20:07 UTC (2023-07-14 21:07 WAT)
+
+- URL: https://x.com/kobigurk/status/1679945779367096326
+- Metrics (at fetch): not returned
+
+> Memes to accompany @SuccinctJT’s post
+>
+> https://a16zcrypto.com/posts/article/17-misconceptions-about-snarks/
+>
+> #1 Using “ZK” to mean “succinct”
+>
+> 1/4 [pic.x.com/KuyagRBBYI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1Bdx9ZWAAIIUrO.jpg — no alt text provided by author
+
+**Links in post:** https://a16zcrypto.com/posts/article/17-misconceptions-about-snarks/
+
+
+---
+
+## 2023-06-19 · Post · Give me a prover fast enough and a data structure on which to anchor it, and I shall zk the world.
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-06-19 04:31 UTC (2023-06-19 05:31 WAT)
+
+- URL: https://x.com/kobigurk/status/1670650371469987841
+- Metrics (at fetch): not returned
+
+> Give me a prover fast enough and a data structure on which to anchor it, and I shall zk the world.
+
+
+---
+
+## 2023-05-15 · Post · imagine if every answer you got on stack overflow would be prefixed with "not technological advice" 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @kobigurk — 2023-05-15 09:08 UTC (2023-05-15 10:08 WAT)
+
+- URL: https://x.com/kobigurk/status/1658036583801446402
+- Metrics (at fetch): not returned
+
+> imagine if every answer you got on stack overflow would be prefixed with "not technological advice" or "IANAC" (I am not a CTO)
+
+
+---
+
+## 2023-05-12 · Post · One thing to remember about zk — soundness problems can be mitigated through upgrades, but privacy p
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-05-12 04:06 UTC (2023-05-12 05:06 WAT)
+
+- URL: https://x.com/kobigurk/status/1656873470884454401
+- Metrics (at fetch): not returned
+
+> One thing to remember about zk — soundness problems can be mitigated through upgrades, but privacy problems can’t. If you don’t get it right at deployment time and info is leaked, you can’t go back to fix it
+
+
+---
+
+## 2023-05-11 · Post · we might be talking about zk security https://twitter.com/Ingo_zk/status/1656645811994755072
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-05-11 13:36 UTC (2023-05-11 14:36 WAT)
+
+- URL: https://x.com/kobigurk/status/1656654528928944128
+- Metrics (at fetch): not returned
+
+> we might be talking about zk security https://twitter.com/Ingo_zk/status/1656645811994755072
+
+**Links in post:** https://twitter.com/Ingo_zk/status/1656645811994755072
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1549020536197480448 — 2023-05-11 13:01 UTC (2023-05-11 14:01 WAT)
+    
+    - URL: https://x.com/1549020536197480448/status/1656645811994755072
+    - Metrics (at fetch): not returned
+    
+    > 🎙️Twitter Space happening soon - 2pm GMT today🎙️
+    >
+    > With an awesome lineup of speakers from:
+    >
+    > @AleoHQ 
+    > @__geometry__ 
+    > @ClassLambda 
+    > @Ingo_zk 
+    >
+    > 🔥Questions for anyone?
+    >
+    > DM us here or at Hi@ingonyama.com and we'll ask them on the space! https://t.co/IkqVGqbMix
+    
+    **Quoted post** 1656260488945098752: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-05-08 · Post · on semacaulk insertions
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-05-08 19:32 UTC (2023-05-08 20:32 WAT)
+
+- URL: https://x.com/kobigurk/status/1655656910300016640
+- Metrics (at fetch): not returned
+
+> on semacaulk insertions
+>
+> reminder — semacaulk uses kzg commitments to store inserted elements, and caulk+ to later blindly open them to use in a zk membership proof protocol
+>
+> read more here on the @__geometry__ notebook: https://geometry.xyz/notebook/geometry-presents-semacaulk-a-gas-efficient-zero-knowledge-set-membership-protocol
+>
+> now…
+>
+> 1/13
+
+**Links in post:** https://geometry.xyz/notebook/geometry-presents-semacaulk-a-gas-efficient-zero-knowledge-set-membership-protocol
+
+
+---
+
+## 2023-05-04 · Post · Maybe an obvious observation, but zkml is not special in its zk-ness — it’s just a function you run 
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-05-04 16:01 UTC (2023-05-04 17:01 WAT)
+
+- URL: https://x.com/kobigurk/status/1654154235984969736
+- Metrics (at fetch): not returned
+
+> Maybe an obvious observation, but zkml is not special in its zk-ness — it’s just a function you run in zk. So deciding on the secret or verifiable part of it translates directly of how you decided before — you want to hide the function? Great.
+>
+> 1/2
+
+
+---
+
+## 2023-05-04 · Post · If your zk recruiting email doesn’t include a snark to verify, what are you even doing
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-05-04 08:14 UTC (2023-05-04 09:14 WAT)
+
+- URL: https://x.com/kobigurk/status/1654036646424109058
+- Metrics (at fetch): not returned
+
+> If your zk recruiting email doesn’t include a snark to verify, what are you even doing

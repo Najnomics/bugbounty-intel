@@ -1253,7 +1253,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > Proud to help host the new Anchor bounty program with the @SolanaFndn. Focused on strengthening Anchor and supporting a more secure Solana ecosystem. https://t.co/ln1GZ7U8qv
 
-**Quoted post** 1979204100400038113: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1407411848446611459 — 2025-10-17 15:13 UTC (2025-10-17 16:13 WAT)
+    
+    - URL: https://x.com/1407411848446611459/status/1979204100400038113
+    - Metrics (at fetch): bookmark 51, impression 109890, like 288, quote 12, reply 54, retweet 50
+    
+    > We've launched a new security bounty program for Anchor, offering rewards of up to $100k for vulnerabilities that affect production code.
+    >
+    > If you think you’ve found an issue, we want to hear from you. Details on scope and eligibility below ↓ https://t.co/qUFPrMSekk
+    
+    **Media:**
+    - media `3_1979203918031708160` (details not returned by the API)
+    
 
 
 ---

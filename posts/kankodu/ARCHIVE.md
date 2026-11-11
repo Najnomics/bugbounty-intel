@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 57
-- Conversations/threads: 57
+- Posts in this file: 71
+- Conversations/threads: 71
 - Oldest post captured: 2023-07-29
 - Newest post captured: 2026-11-08
 
@@ -1020,6 +1020,292 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GxlhBoIXgAAuN7S.png — no alt text provided by author
+
+
+---
+
+## 2025-03-26 · Post · How to drain an entire lending protocol when a new asset is accepted as collateral 🧵
+
+
+### Post — @kankodu — 2025-03-26 09:03 UTC (2025-03-26 10:03 WAT)
+
+- URL: https://x.com/kankodu/status/1904821401510699389
+- Metrics (at fetch): bookmark 182, impression 14812, like 175, quote 3, reply 6, retweet 13
+
+> How to drain an entire lending protocol when a new asset is accepted as collateral 🧵
+>
+> And no, it’s not just another Compound fork. https://t.co/1ALDCjseh0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm9I-FZa4AA48BW.png — no alt text provided by author
+
+
+---
+
+## 2025-03-08 · Post · Had a great time talking to @0xriptide about all things bug hunting! Give it a listen: https://t.co/
+
+
+### Post — @kankodu — 2025-03-08 15:52 UTC (2025-03-08 16:52 WAT)
+
+- URL: https://x.com/kankodu/status/1898401342860750933
+- Metrics (at fetch): bookmark 7, impression 3429, like 29, quote 0, reply 0, retweet 1
+
+> Had a great time talking to @0xriptide about all things bug hunting! Give it a listen: https://t.co/UWH3KUDEoh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1877728835216568321 — 2025-03-08 14:35 UTC (2025-03-08 15:35 WAT)
+    
+    - URL: https://x.com/1877728835216568321/status/1898381975477469334
+    - Metrics (at fetch): bookmark 13, impression 6621, like 53, quote 2, reply 4, retweet 4
+    
+    > BOUNTYHUNT3RZ Episode 6: w/ @kankodu 
+    >
+    > @0xriptide &amp; @kankodu discuss his bug hunting techniques to keep him in the top #20 of the immunefi leaderboard, a deep dive on his recent $250k Balancer bug writeup that he kept under wraps for 2 years, bounty negotiations and how to shoot https://t.co/RtdCylPS69
+    
+    **Media:**
+    - media `7_1898380897306460160` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-22 · Post · Two years ago, I discovered a critical vulnerability in Balancer V2 that allowed attackers to create
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @kankodu — 2025-02-22 07:48 UTC (2025-02-22 08:48 WAT)
+
+- URL: https://x.com/kankodu/status/1893206310105080058
+- Metrics (at fetch): bookmark 273, impression 21014, like 386, quote 3, reply 8, retweet 35
+
+> Two years ago, I discovered a critical vulnerability in Balancer V2 that allowed attackers to create infinite token balances by front-running ERC20 deployments.
+>
+> This bug earned me a $250k reward and was recently disclosed publicly: https://t.co/Xysko69K6s
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkYAHuAWQAEgu5J.png — no alt text provided by author
+
+
+---
+
+## 2024-12-28 · Post · Another good year on @immunefi https://t.co/LFMliy3rjj
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @kankodu — 2024-12-28 14:47 UTC (2024-12-28 15:47 WAT)
+
+- URL: https://x.com/kankodu/status/1873017953790378233
+- Metrics (at fetch): bookmark 14, impression 6288, like 151, quote 0, reply 4, retweet 5
+
+> Another good year on @immunefi https://t.co/LFMliy3rjj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gf5LZXBWcAAmZZ7.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-20 · Post · A whitehat finds a bug in a permissioned DEX where attackers can transact before an asset is listed 
+
+
+### Post — @kankodu — 2024-10-20 08:22 UTC (2024-10-20 09:22 WAT)
+
+- URL: https://x.com/kankodu/status/1847916295666225575
+- Metrics (at fetch): bookmark 4, impression 2993, like 10, quote 1, reply 2, retweet 0
+
+> A whitehat finds a bug in a permissioned DEX where attackers can transact before an asset is listed to gain infinite internal balance and later withdraw it for real assets from LPs. 
+>
+> Current TVL: $100M
+> An asset got $10M of deposits in the first 20 days.
+>
+> What’s the right payout?
+
+
+---
+
+## 2024-10-17 · Post · A whitehat finds a way to empty the entire lending protocol ($10 million at risk) when a new asset i
+
+
+### Post — @kankodu — 2024-10-17 19:48 UTC (2024-10-17 20:48 WAT)
+
+- URL: https://x.com/kankodu/status/1847001695919714360
+- Metrics (at fetch): bookmark 7, impression 6753, like 18, quote 1, reply 7, retweet 1
+
+> A whitehat finds a way to empty the entire lending protocol ($10 million at risk) when a new asset is accepted as collateral.
+>
+> How much should this bug disclosure be paid?
+
+
+---
+
+## 2024-07-29 · Post · Check out my profile on @immunefi
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @kankodu — 2024-07-29 15:58 UTC (2024-07-29 16:58 WAT)
+
+- URL: https://x.com/kankodu/status/1817952969276457276
+- Metrics (at fetch): bookmark 5, impression 5717, like 68, quote 1, reply 5, retweet 2
+
+> Check out my profile on @immunefi
+> #OnchainDefender 
+>
+> https://t.co/HYRy89gJ0S
+
+
+---
+
+## 2024-05-30 · Post · I found an interesting bug in a lending market where an invariant check, made for the safety of the 
+
+
+### Post — @kankodu — 2024-05-30 10:13 UTC (2024-05-30 11:13 WAT)
+
+- URL: https://x.com/kankodu/status/1796122807773904959
+- Metrics (at fetch): bookmark 92, impression 8801, like 97, quote 0, reply 3, retweet 10
+
+> I found an interesting bug in a lending market where an invariant check, made for the safety of the protocol, could have been used against it to permanently freeze the funds in the protocol.
+>
+> A small thread ⬇️🧵
+
+
+---
+
+## 2024-03-22 · Post · Here's a 🧵 about a bug pattern I've used to get paid across 5 bug reports totaling $150k. This very 
+
+
+### Post — @kankodu — 2024-03-22 17:35 UTC (2024-03-22 18:35 WAT)
+
+- URL: https://x.com/kankodu/status/1771229163942474096
+- Metrics (at fetch): bookmark 492, impression 40312, like 278, quote 8, reply 9, retweet 45
+
+> Here's a 🧵 about a bug pattern I've used to get paid across 5 bug reports totaling $150k. This very bug pattern has been the culprit behind significant hacks, leading to losses of $464k in Wise lending and a staggering $6M in MIM (the protocols I missed 😅) https://t.co/1bPtYzgXbd
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJSriZAacAEMNEu.png — no alt text provided by author
+
+
+---
+
+## 2024-03-09 · Post · Two of the bug patterns that I discovered got a mention in this. Feeling grateful to be included in 
+
+
+### Post — @kankodu — 2024-03-09 12:13 UTC (2024-03-09 13:13 WAT)
+
+- URL: https://x.com/kankodu/status/1766437092169597070
+- Metrics (at fetch): bookmark 20, impression 5032, like 57, quote 0, reply 0, retweet 1
+
+> Two of the bug patterns that I discovered got a mention in this. Feeling grateful to be included in the list, even if it's at the very end of it. https://t.co/LugP8WUjQq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @765981595383857152 — 2024-03-08 14:32 UTC (2024-03-08 15:32 WAT)
+    
+    - URL: https://x.com/765981595383857152/status/1766109683402592509
+    - Metrics (at fetch): bookmark 184, impression 54690, like 192, quote 9, reply 3, retweet 74
+    
+    > The Top 10 Blockchain Hacking Techniques 2nd Edition is out.
+    >
+    > The industry’s compilation of the 10 most novel, interesting, and unexpected smart contract hacks and bugs. 
+    >
+    > From the governance hack of Tornado Cash using metamorphic contracts, to the billion-dollar exploit https://t.co/FPzoiKK20G
+    
+    **Media:**
+    - media `3_1766109677832564736` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-31 · Post · A 🧵 on how yesterday's @MIM_Spell attack worked. The protocol did everything right. They rounded in 
+
+
+### Post — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+
+- URL: https://x.com/kankodu/status/1752581744803680680
+- Metrics (at fetch): bookmark 412, impression 77833, like 462, quote 12, reply 13, retweet 92
+
+> A 🧵 on how yesterday's @MIM_Spell attack worked. The protocol did everything right. They rounded in the protocol's favour whenever they should but one additional function, meant to only reduce the user's funds, ended up enabling the attack. How? https://t.co/61bHWJlhZT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFJrzsnbkAAaBMy.png — no alt text provided by author
+
+
+---
+
+## 2024-01-14 · Post · Usually, there are three recommended ways to prevent the vault inflation attack:
+
+
+### Post — @kankodu — 2024-01-14 07:50 UTC (2024-01-14 08:50 WAT)
+
+- URL: https://x.com/kankodu/status/1746439595053789217
+- Metrics (at fetch): bookmark 27, impression 3779, like 30, quote 0, reply 2, retweet 2
+
+> Usually, there are three recommended ways to prevent the vault inflation attack:
+> 1. Internal Balance accounting
+> 2. Maintain some minimum total supply
+> 3. Virtual shares calculation
+>
+> We now know the first one doesn't work https://t.co/9k2AZUXQKR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2024-01-13 22:50 UTC (2024-01-13 23:50 WAT)
+    
+    - URL: https://x.com/5678/status/1746303616778981402
+    - Metrics (at fetch): bookmark 583, impression 109809, like 607, quote 24, reply 22, retweet 103
+    
+    > Yesterday's complete hack of Wise Lending was far more complex than reported. Very worth examining.
+    >
+    > The protocol had added explicit defenses against this style of attack, which the attack then either bypassed or used against the protocol.    🧵 1/21 https://t.co/n8mtQGVcvP
+    
+    **Media:**
+    - media `3_1746303300801003521` (details not returned by the API)
+    
+
+
+---
+
+## 2023-12-13 · Post · it was a gud year on @immunefi 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @kankodu — 2023-12-13 15:45 UTC (2023-12-13 16:45 WAT)
+
+- URL: https://x.com/kankodu/status/1734962657248350432
+- Metrics (at fetch): bookmark 10, impression 12228, like 145, quote 3, reply 5, retweet 10
+
+> it was a gud year on @immunefi 
+> #ImmunefiWrapped https://t.co/1N4zwnPSoz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBPSdnkacAA7RDT.jpg — alt text: "Kankodu ImmuneFi Wrapped"
+
+
+---
+
+## 2023-09-05 · Post · How I Unknowingly Caused the $200M Euler Hack 🧵👇
+
+
+### Post — @kankodu — 2023-09-05 09:33 UTC (2023-09-05 10:33 WAT)
+
+- URL: https://x.com/kankodu/status/1698992717089604064
+- Metrics (at fetch): bookmark 240, impression 126137, like 418, quote 18, reply 18, retweet 78
+
+> How I Unknowingly Caused the $200M Euler Hack 🧵👇
+>
+> TL;DR: The fix for a bug that I reported ended up introducing a function responsible for the hack! https://t.co/qpNlGbVt7H
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5QI3wRb0AAltZL.png — no alt text provided by author
 
 
 ---

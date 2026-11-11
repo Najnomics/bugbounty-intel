@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 24
-- Conversations/threads: 19
+- Posts in this file: 28
+- Conversations/threads: 22
 - Oldest post captured: 2023-10-05
 - Newest post captured: 2025-06-17
 
@@ -67,6 +67,61 @@ Tags (automatic): ZK
 
 ---
 
+## 2025-05-28 · Post · 🧮 New post! Sum-Check: The Backbone of ZK Proofs
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2025-05-28 10:23 UTC (2025-05-28 11:23 WAT)
+
+- URL: https://x.com/0xteddav/status/1927672034068205805
+- Metrics (at fetch): bookmark 50, impression 6181, like 82, quote 5, reply 3, retweet 9
+
+> 🧮 New post! Sum-Check: The Backbone of ZK Proofs
+> How can you convince someone that a huge sum is correct… without them recomputing it?
+> I wrote a beginner-friendly walkthrough of this elegant protocol that powers many ZK systems.
+> Check it out 👇
+> https://t.co/qNmIHnvFVl
+
+
+---
+
+## 2025-05-07 · Post · ZK 🤝 MPC = 🔥 https://t.co/0o1JQs9uEN
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2025-05-07 10:46 UTC (2025-05-07 11:46 WAT)
+
+- URL: https://x.com/0xteddav/status/1920067696193835033
+- Metrics (at fetch): bookmark 1, impression 254, like 6, quote 0, reply 0, retweet 0
+
+> ZK 🤝 MPC = 🔥 https://t.co/0o1JQs9uEN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2879944129 — 2025-05-07 10:29 UTC (2025-05-07 11:29 WAT)
+    
+    - URL: https://x.com/2879944129/status/1920063464317358552
+    - Metrics (at fetch): bookmark 1, impression 1168, like 19, quote 1, reply 1, retweet 3
+    
+    > Imagine putting your entire dating life on a public blockchain.
+    > Your kinks. Your dry spells. Your failed dates.
+    > Visible literally to millions of people.
+    >
+    > No one’s doing that. Ever.
+    >
+    > That’s why Co-Match by @0xteddav  is such a powerful example of what confidential compute actually https://t.co/XQAV8DbrOs
+    
+    **Media:**
+    - media `3_1920059741213999104` (details not returned by the API)
+    
+
+
+---
+
 ## 2025-05-07 · Post · 💡 The idea is simple:
 
 
@@ -82,6 +137,27 @@ Tags (automatic): ZK
 > You enter your preferences. They're encrypted and sent to MPC servers.
 > Some cryptographic magic (thanks @TACEO_IO) checks for mutual matches.
 > If a match is found, a ZK proof is generated (shoutout @NoirLang), and only then do you both find out.
+
+
+---
+
+## 2025-05-07 · Post · Just launched a private dating app 🍑 unlike any other!
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2025-05-07 07:12 UTC (2025-05-07 08:12 WAT)
+
+- URL: https://x.com/0xteddav/status/1920013742609232081
+- Metrics (at fetch): bookmark 42, impression 19854, like 136, quote 18, reply 17, retweet 11
+
+> Just launched a private dating app 🍑 unlike any other!
+> No profiles. No swipes. No public data.
+> 🔒 Built with @NoirLang + @TACEO_IO ’s coSNARKS.
+> ⚠️ Might be a bit slow, ping me if it is and I’ll bump the server.
+> https://t.co/TrlcZUAyWG
+> 🧵 Here's how it works:
 
 
 ---
@@ -201,13 +277,26 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-04-09 · Thread · To make this possible, I built http://tdd.nr, a @NoirLang  library for verifying 2D-Doc signatures i
+## 2025-04-09 · Thread · 🚀 Tired of oversharing personal data just to rent an apartment?
 
 
 Tags (automatic): ZK
 
 
 ### Post — @0xteddav — 2025-04-09 05:00 UTC (2025-04-09 06:00 WAT)
+
+- URL: https://x.com/0xteddav/status/1909833737753317622
+- Metrics (at fetch): not returned
+
+> 🚀 Tired of oversharing personal data just to rent an apartment?
+> Meet zkTenant, a @NoirLang  -powered app that lets you prove your income &amp; French citizenship without revealing sensitive info.
+> https://zk-tenant.vercel.app/
+> 🧵
+
+**Links in post:** https://zk-tenant.vercel.app/
+
+
+### Thread part 2 — @0xteddav — 2025-04-09 05:00 UTC (2025-04-09 06:00 WAT)
 
 - URL: https://x.com/0xteddav/status/1909833740940886314
 - Metrics (at fetch): bookmark 0, impression 366, like 12, quote 0, reply 1, retweet 0
@@ -220,7 +309,7 @@ Tags (automatic): ZK
 **Links in post:** http://tdd.nr, https://github.com/teddav/tdd.nr
 
 
-### Thread part 2 — @0xteddav — 2025-04-09 05:00 UTC (2025-04-09 06:00 WAT)
+### Thread part 3 — @0xteddav — 2025-04-09 05:00 UTC (2025-04-09 06:00 WAT)
 
 - URL: https://x.com/0xteddav/status/1909833744753570178
 - Metrics (at fetch): bookmark 1, impression 281, like 8, quote 0, reply 1, retweet 0
@@ -235,7 +324,7 @@ Tags (automatic): ZK
 **Quoted post** 1904848038453010608: not readable via the API (deleted, private, or withheld).
 
 
-### Thread part 3 — @0xteddav — 2025-04-09 05:00 UTC (2025-04-09 06:00 WAT)
+### Thread part 4 — @0xteddav — 2025-04-09 05:00 UTC (2025-04-09 06:00 WAT)
 
 - URL: https://x.com/0xteddav/status/1909833746871615620
 - Metrics (at fetch): bookmark 0, impression 317, like 10, quote 0, reply 1, retweet 0
