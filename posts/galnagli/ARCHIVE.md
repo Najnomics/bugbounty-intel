@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 298
+- Posts in this file: 302
 - Conversations/threads: 210
 - Oldest post captured: 2020-07-24
 - Newest post captured: 2026-11-10
@@ -2761,7 +2761,7 @@ Tags (automatic): Account takeover
 
 ---
 
-## 2024-12-09 · Post · Today marks the 3-year anniversary of the Log4Shell PoC going public 🧑‍🎄
+## 2024-12-09 · Thread · Today marks the 3-year anniversary of the Log4Shell PoC going public 🧑‍🎄
 
 
 ### Post — @galnagli — 2024-12-09 07:55 UTC (2024-12-09 08:55 WAT)
@@ -2773,10 +2773,21 @@ Tags (automatic): Account takeover
 >
 > I still remember going to sleep on the 9th with a PoC I couldn’t reproduce, only to wake up the next morning to all hell breaking loose and hundreds of RCEs everywhere.
 >
-> Would love to hear your stories! 💸 https://t.co/sQ3rtdmoeR
+> Would love to hear your stories! 💸 [pic.x.com/sQ3rtdmoeR]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GeVzjFxXwAEQOr5.jpg — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2024-12-09 08:15 UTC (2024-12-09 09:15 WAT)
+
+- URL: https://x.com/galnagli/status/1866033935773220897
+- Metrics (at fetch): bookmark 8, impression 4952, like 59, quote 0, reply 0, retweet 1
+
+> The most recent one I found on #bugbounty program was around a year ago with $10,000 bounty! [pic.x.com/SpGMTsiYCr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeV76uJWkAAZGfL.jpg — no alt text provided by author
 
 
 ---
@@ -3134,7 +3145,10 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-04-15 · Post · Classic, just got scammed by @trondao bug bounty program, they leaked their production (https://t.co
+## 2024-04-15 · Thread · Classic, just got scammed by @trondao bug bounty program, they leaked their production (http://trons
+
+
+Tags (automatic): Platform: HackerOne
 
 
 ### Post — @galnagli — 2024-04-15 13:04 UTC (2024-04-15 14:04 WAT)
@@ -3142,10 +3156,44 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/galnagli/status/1779858324042785208
 - Metrics (at fetch): bookmark 69, impression 54571, like 336, quote 2, reply 27, retweet 23
 
-> Classic, just got scammed by @trondao bug bounty program, they leaked their production (https://t.co/Vfj7tYODn1) AWS Keys, had access to their secrets, team has fixed in an hour and marked Informative - saying there is no risk. https://t.co/xzMVwDhOuW
+> Classic, just got scammed by @trondao bug bounty program, they leaked their production (http://tronscan.org) AWS Keys, had access to their secrets, team has fixed in an hour and marked Informative - saying there is no risk. [pic.x.com/xzMVwDhOuW]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GLNTjBiXYAEFm9j.png — no alt text provided by author
+
+**Links in post:** http://tronscan.org
+
+
+### Thread part 2 — @galnagli — 2024-04-15 13:06 UTC (2024-04-15 14:06 WAT)
+
+- URL: https://x.com/galnagli/status/1779858810531701205
+- Metrics (at fetch): bookmark 5, impression 7316, like 59, quote 0, reply 1, retweet 1
+
+> @trondao Team said it was "Public API" and doesn't possess any issues, so I publish here the details as "there is no risk" I wouldn't engage with shady programs and surprised platforms allow them to operate under their brand. [pic.x.com/C937wARmI9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLNTzH-WgAAngLN.png — no alt text provided by author
+
+
+### Thread part 3 — @galnagli — 2024-04-15 13:07 UTC (2024-04-15 14:07 WAT)
+
+- URL: https://x.com/galnagli/status/1779859130737361187
+- Metrics (at fetch): bookmark 2, impression 11242, like 41, quote 0, reply 1, retweet 1
+
+> @trondao Posting this as reference to why I'm publishing it, unmanaged program, "not in scope", "no risk" (but was fixed) hence should be okay to be public, do your due diligence when dealing with TRON : ) [pic.x.com/8fkMAKINIM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLNUPTwXQAAT9N-.png — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2024-04-15 13:27 UTC (2024-04-15 14:27 WAT)
+
+- URL: https://x.com/galnagli/status/1779864070696448006
+- Metrics (at fetch): bookmark 1, impression 9706, like 29, quote 0, reply 0, retweet 1
+
+> @trondao BTW when I say "Scammed" I don't mean to not getting a bounty or w/e just by their claim that there was no bug here at all while fixing and rotating the keys in minutes. their policy -https://test.tron.network/findBug points to narrower sketchy H1 program they operate.
+
+**Links in post:** https://test.tron.network/findBug
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 360
+- Posts in this file: 402
 - Conversations/threads: 356
 - Oldest post captured: 2023-02-23
 - Newest post captured: 2026-11-09
@@ -3163,7 +3163,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-08-07 · Post · When quoting codebases for private audit I always look through the entire repo searching for anythin
+## 2025-08-07 · Thread · When quoting codebases for private audit I always look through the entire repo searching for anythin
 
 
 ### Post — @DevDacian — 2025-08-07 11:05 UTC (2025-08-07 12:05 WAT)
@@ -3174,6 +3174,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > When quoting codebases for private audit I always look through the entire repo searching for anything malicious and leaked private keys - just found another leaked private key now in a client's repo.
 >
 > Do you find leaked private keys in repos submitted for private audit?
+
+
+### Thread part 2 — @DevDacian — 2025-08-07 11:08 UTC (2025-08-07 12:08 WAT)
+
+- URL: https://x.com/DevDacian/status/1953412877366534297
+- Metrics (at fetch): bookmark 4, impression 533, like 5, quote 0, reply 0, retweet 0
+
+> devs please check out these resources by @CyfrinUpdraft @PatrickAlphaC on good practices that can help prevent private key leaks:
+>
+> * https://www.youtube.com/watch?v=VQe7cIpaE54
+>
+> * https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/private-key-safety
+
+**Links in post:** https://www.youtube.com/watch?v=VQe7cIpaE54, https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/private-key-safety
 
 
 ---
@@ -3278,7 +3292,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-07-23 · Post · Shout out @giovannidisiena @Draiakoo for amazing work on @cyfrin first ever UniswapV4 Hooks audit fr
+## 2025-07-23 · Thread · Shout out @giovannidisiena @Draiakoo for amazing work on @cyfrin first ever UniswapV4 Hooks audit fr
 
 
 ### Post — @DevDacian — 2025-07-23 12:28 UTC (2025-07-23 13:28 WAT)
@@ -3293,10 +3307,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > * 7 Medium, 7 Low
 > * 6 Info, 6 Gas
 >
-> This was a stacked audit https://t.co/QJy5mcm5Ko
+> This was a stacked audit report with some great findings related to Uniswap V4 Hooks that has been kept private until now!
+>
+> Looking back 6 months later, this was the first of many stacked UniV4 Hook audits done by @cyfrin!
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GwitAWLaQAAIOyb.jpg — no alt text provided by author
+
+
+### Thread part 2 — @DevDacian — 2025-07-23 12:28 UTC (2025-07-23 13:28 WAT)
+
+- URL: https://x.com/DevDacian/status/1947997351840522567
+- Metrics (at fetch): bookmark 6, impression 513, like 11, quote 0, reply 0, retweet 0
+
+> Read the full report here: https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-03-12-cyfrin-paladin-valkyrie-v2.0.pdf
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-03-12-cyfrin-paladin-valkyrie-v2.0.pdf
 
 
 ---
@@ -3386,7 +3412,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-07-16 · Post · Shout out @giovannidisiena @0xStalin for brilliant work on very tough audit of @vii_finance coded by
+## 2025-07-16 · Thread · Shout out @giovannidisiena @0xStalin for brilliant work on very tough audit of @vii_finance coded by
 
 
 Tags (automatic): Smart contract / DeFi
@@ -3400,13 +3426,25 @@ Tags (automatic): Smart contract / DeFi
 > Shout out @giovannidisiena @0xStalin for brilliant work on very tough audit of @vii_finance coded by elite bug bounty hunter @kankodu, finding:
 >
 > * 1 Critical - liquidation DoS
-> * 2 High - theft of fees &amp; value extraction
-> * 2 Med, 3 Low &amp; 2 Info
+> * 2 High - theft of fees & value extraction
+> * 2 Med, 3 Low & 2 Info
 >
-> @vii_finance is a very interesting https://t.co/0FqphTFqYc
+> @vii_finance is a very interesting protocol allowing UniV3/V4 LPs to be used as collateral in @eulerfinance vaults!
+>
+> Truly an honor for such a chad bounty hunter such as @kankodu to choose @cyfrin to audit his own code!
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gv9teW9XcAAB8vh.png — no alt text provided by author
+
+
+### Thread part 2 — @DevDacian — 2025-07-16 11:01 UTC (2025-07-16 12:01 WAT)
+
+- URL: https://x.com/DevDacian/status/1945438521638236171
+- Metrics (at fetch): bookmark 6, impression 951, like 11, quote 0, reply 0, retweet 0
+
+> @giovannidisiena @0xStalin @vii_finance @kankodu Read the full report! https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf
 
 
 ---
@@ -3538,7 +3576,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-07-08 · Post · Shout out @0xStalin &amp; myself for amazing result on the finalized security audit of @RemoraUS fin
+## 2025-07-08 · Thread · Shout out @0xStalin & myself for amazing result on the finalized security audit of @RemoraUS finding
+
+
+Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @DevDacian — 2025-07-08 10:30 UTC (2025-07-08 11:30 WAT)
@@ -3546,7 +3587,7 @@ Tags (automatic): Smart contract / DeFi
 - URL: https://x.com/DevDacian/status/1942531607643971587
 - Metrics (at fetch): bookmark 10, impression 6891, like 72, quote 3, reply 6, retweet 8
 
-> Shout out @0xStalin &amp; myself for amazing result on the finalized security audit of @RemoraUS finding:
+> Shout out @0xStalin & myself for amazing result on the finalized security audit of @RemoraUS finding:
 >
 > * 3 Critical
 > * 3 High
@@ -3554,16 +3595,30 @@ Tags (automatic): Smart contract / DeFi
 > * 13 Low
 > * 9 Info, 12 Gas
 >
-> @RemoraUS is an innovative RWA protocol enabling real-estate developers to tokenize and sell fractional shares of https://t.co/GiOzMFm3mo
+> @RemoraUS is an innovative RWA protocol enabling real-estate developers to tokenize and sell fractional shares of physical properties; investors can earn a share of passive rental income receiving regular yield payouts without the headache & burden of traditional landlord responsibility!
+>
+> Our findings include a great mix of solidity "gotchas" & business logic edge-cases; as part of the audit we also developed our own targeted fuzz testing suite which the protocol team merged!
+>
+> Huge shout out to @RemoraUS for fixing virtually everything @cyfrin found - great example of a protocol who takes security seriously!
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GvT_FjnbwAA4KzP.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GvT_FkWXEAAmaZS.png — no alt text provided by author
 
 
+### Thread part 2 — @DevDacian — 2025-07-08 10:34 UTC (2025-07-08 11:34 WAT)
+
+- URL: https://x.com/DevDacian/status/1942532643947700491
+- Metrics (at fetch): bookmark 8, impression 751, like 12, quote 0, reply 0, retweet 0
+
+> @0xStalin @RemoraUS Read the full report here: https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf
+
+
 ---
 
-## 2025-07-07 · Post · Shout out @0kage_eth @Ubermensh3dot0 @1337web3 @PeterSRWeb3 for amazing work on the finalized securi
+## 2025-07-07 · Thread · Shout out @0kage_eth @Ubermensh3dot0 @1337web3 @PeterSRWeb3 for amazing work on the finalized securi
 
 
 ### Post — @DevDacian — 2025-07-07 10:30 UTC (2025-07-07 11:30 WAT)
@@ -3579,11 +3634,21 @@ Tags (automatic): Smart contract / DeFi
 > * 13 Low
 > * 1 Info, 6 Gas
 >
-> @SuzakuNetwork is a large &amp; ambitious "Decentralization Hub for L1s" protocol who https://t.co/lmdz8P4qmz
+> @SuzakuNetwork is a large & ambitious "Decentralization Hub for L1s" protocol who is very serious about security having engaged @cyfrin for a thorough 3 week audit then fixed virtually everything we found - their commitment to security should be applauded!
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GvPnqk5aAAAcpG6.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GvPnqlAa8AAwn6n.png — no alt text provided by author
+
+
+### Thread part 2 — @DevDacian — 2025-07-07 10:40 UTC (2025-07-07 11:40 WAT)
+
+- URL: https://x.com/DevDacian/status/1942171795605565448
+- Metrics (at fetch): bookmark 3, impression 737, like 7, quote 0, reply 0, retweet 0
+
+> @0kage_eth @Ubermensh3dot0 @1337web3 @PeterSRWeb3 @SuzakuNetwork Read the full report here! https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-07-cyfrin-suzaku-core-v2.0.pdf
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-07-cyfrin-suzaku-core-v2.0.pdf
 
 
 ---
@@ -4599,7 +4664,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-04-30 · Post · Shout out @0kage_eth @Ubermensh3dot0 great work on very tough audit for chads @Dolomite_io!
+## 2025-04-30 · Thread · Shout out @0kage_eth @Ubermensh3dot0 great work on very tough audit for chads @Dolomite_io!
 
 
 ### Post — @DevDacian — 2025-04-30 11:27 UTC (2025-04-30 12:27 WAT)
@@ -4609,15 +4674,31 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > Shout out @0kage_eth @Ubermensh3dot0 great work on very tough audit for chads @Dolomite_io!
 >
-> Dolomite put *heavy* security work before audit with extremely thoughtful security-conscious design, specified invariants &amp; tons of tests. These chads really did an amazing job before for https://t.co/qiboZ5ouoI
+> Dolomite put *heavy* security work before audit with extremely thoughtful security-conscious design, specified invariants & tons of tests. These chads really did an amazing job before for seeking external audit, going above & beyond what most teams do!
+>
+> We extended the audit for an extra week at no extra cost to give ourselves more time to understand this complex protocol and all its dependencies. This ended up being a great move as we ended up finding an awesome High in that final week!
+>
+> @cyfrin always prioritizes the best outcome for clients even if it that means less short-term profits for us, our focus is always on delivering our best for every client every time!
+>
+> Read the full report👇
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gpx4qlLaYAMqyO4.png — no alt text provided by author
 
 
+### Thread part 2 — @DevDacian — 2025-04-30 11:27 UTC (2025-04-30 12:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1917541363312386531
+- Metrics (at fetch): bookmark 2, impression 450, like 4, quote 0, reply 0, retweet 0
+
+> Read the full audit report here: https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-04-24-cyfrin-dolomite-POLVaults-v2.0.pdf
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-04-24-cyfrin-dolomite-POLVaults-v2.0.pdf
+
+
 ---
 
-## 2025-04-28 · Post · Shout out @0ximmeas @TamayoNft fantastic work on @cyfrin YieldFi CCIP private audit!
+## 2025-04-28 · Thread · Shout out @0ximmeas @TamayoNft fantastic work on @cyfrin YieldFi CCIP private audit!
 
 
 ### Post — @DevDacian — 2025-04-28 09:33 UTC (2025-04-28 10:33 WAT)
@@ -4629,10 +4710,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > YieldFi added CCIP to their existing LayerZero; we found 2 Crits &amp; 4 Lows related to their CCIP integration plus a bunch of other findings mostly related to ERC4626🚀
 >
-> Report👇 https://t.co/PPJVS0cL0P
+> Report👇 [pic.x.com/PPJVS0cL0P]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GpnMBYIaAAAzWQH.png — no alt text provided by author
+
+
+### Thread part 2 — @DevDacian — 2025-04-28 09:33 UTC (2025-04-28 10:33 WAT)
+
+- URL: https://x.com/DevDacian/status/1916787884499284419
+- Metrics (at fetch): bookmark 3, impression 365, like 5, quote 0, reply 0, retweet 0
+
+> Read the full report here: https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-04-24-cyfrin-yieldfi-v2.0.pdf
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-04-24-cyfrin-yieldfi-v2.0.pdf
 
 
 ---
@@ -4832,7 +4923,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-04-08 · Post · For Eagles/contractors working with Cyfrin, I do my best to ensure you are paid either slightly befo
+## 2025-04-08 · Thread · For Eagles/contractors working with Cyfrin, I do my best to ensure you are paid either slightly befo
 
 
 ### Post — @DevDacian — 2025-04-08 11:38 UTC (2025-04-08 12:38 WAT)
@@ -4843,6 +4934,14 @@ Tags (automatic): Smart contract / DeFi
 > For Eagles/contractors working with Cyfrin, I do my best to ensure you are paid either slightly before audit finishes or on last working day.
 >
 > This has been the case in all but 1 audit so far. I want to make working with Cyfrin a great experience for everyone who works with us!
+
+
+### Thread part 2 — @DevDacian — 2025-04-08 12:24 UTC (2025-04-08 13:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1909583203125674221
+- Metrics (at fetch): bookmark 0, impression 856, like 8, quote 0, reply 2, retweet 0
+
+> This is for private audits btw; I'm not involved in CodeHawks payments!
 
 
 ---
@@ -4860,7 +4959,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-04-04 · Post · We audited this cool, useful &amp; near-stateless contract which allows seamless one-txn refinancing
+## 2025-04-04 · Thread · We audited this cool, useful &amp; near-stateless contract which allows seamless one-txn refinancing
 
 
 ### Post — @DevDacian — 2025-04-04 01:08 UTC (2025-04-04 02:08 WAT)
@@ -4886,6 +4985,18 @@ Tags (automatic): Smart contract / DeFi
     **Media:**
     - media `7_1907478199644094464` (details not returned by the API)
     
+
+
+### Thread part 2 — @DevDacian — 2025-04-04 01:08 UTC (2025-04-04 02:08 WAT)
+
+- URL: https://x.com/DevDacian/status/1907963494970134759
+- Metrics (at fetch): bookmark 1, impression 371, like 3, quote 0, reply 0, retweet 1
+
+> Audit report: https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-03-28-cyfrin-rocko-refinance-v2.0.pdf
+>
+> Aave Leak bug: https://gist.github.com/devdacian/def15d445464bf2fa1b7d1b0b122ea33
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-03-28-cyfrin-rocko-refinance-v2.0.pdf, https://gist.github.com/devdacian/def15d445464bf2fa1b7d1b0b122ea33
 
 
 ---
@@ -5016,7 +5127,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-03-17 · Post · 💡 The @YieldoorFi Gas Optimizoor 💡
+## 2025-03-17 · Thread · 💡 The @YieldoorFi Gas Optimizoor 💡
 
 
 Tags (automatic): Smart contract / DeFi
@@ -5034,6 +5145,143 @@ Tags (automatic): Smart contract / DeFi
 > * liquidation function gas costs by 13.21% -&gt; 16.91%
 >
 > Plus how gas optimization could have netted you 2 High findings in Yieldoor's recent audit contest 👇
+
+
+### Thread part 2 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584169425342696
+- Metrics (at fetch): bookmark 1, impression 559, like 8, quote 0, reply 1, retweet 0
+
+> 1⃣ Measuring Gas Costs
+>
+> Foundry has at least 3 in-built ways to measure gas costs:
+>
+> 1) reports via `forge test --gas-report`
+> 2) snapshots via `forge snapshot`
+> 3) gas section snapshots via cheatcodes to measure gas costs of arbitrary code segments inside unit tests 👇
+
+
+### Thread part 3 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584172663337167
+- Metrics (at fetch): bookmark 0, impression 533, like 5, quote 0, reply 1, retweet 0
+
+> 2⃣ Cache Identical In-Function Storage Reads
+>
+> Reading identical values multiple times from storage is expensive!
+>
+> Look inside functions for identical storage reads then simply cache them once and read from the cache to get a nice gas cost reduction!👇 [pic.x.com/gsd8L8y6ny]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmPBWbGboAAW0bz.jpg — no alt text provided by author
+
+
+### Thread part 4 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584176106889672
+- Metrics (at fetch): bookmark 0, impression 476, like 4, quote 0, reply 1, retweet 0
+
+> 3⃣ Bypass Stack Too Deep
+>
+> Having trouble caching inside a local variable within a function due to "stack too deep" errors?
+>
+> Define a struct to hold the cached fields and a function to retrieve them 👇 [pic.x.com/DoPvsNSiav]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmPAmmIacAARBoZ.jpg — no alt text provided by author
+
+
+### Thread part 5 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584179571343844
+- Metrics (at fetch): bookmark 1, impression 444, like 3, quote 0, reply 1, retweet 0
+
+> 4⃣ Hidden Identical Storage Reads In Modifiers
+>
+> When optimizing a function, check the storage reads the function does compared to the storage reads done by its modifiers.
+>
+> Often you'll find modifiers which perform lots of unnecessary identical storage reads! 👇 [pic.x.com/x18CaVhTlL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmPB3gkaEAAqQZC.jpg — no alt text provided by author
+
+
+### Thread part 6 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584182742228997
+- Metrics (at fetch): bookmark 1, impression 410, like 3, quote 0, reply 1, retweet 0
+
+> 5⃣ Hidden Identical Storage Reads In Child Functions
+>
+> Take a look at the child functions your main functions calls; are they reading the same storage slots again?
+>
+> Look especially for child functions taking ids (which have already been loaded) as input parameters! 👇 [pic.x.com/5p4OmNbDtr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmPCkJJaMAAoV90.png — no alt text provided by author
+
+
+### Thread part 7 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584185988612308
+- Metrics (at fetch): bookmark 0, impression 415, like 3, quote 0, reply 1, retweet 0
+
+> 6⃣ Copy All, Use Few
+>
+> Look for code which copies a struct from storage -&gt; memory, but only uses a small number of that struct's storage slots resulting in multiple unnecessary storage reads! 👇 [pic.x.com/onCPzeFtme]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmPDTDtaIAAjuli.png — no alt text provided by author
+
+
+### Thread part 8 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584189553861103
+- Metrics (at fetch): bookmark 0, impression 407, like 3, quote 0, reply 1, retweet 0
+
+> 7⃣ Fail Fast Prior To Storage Reads
+>
+> Fail fast by checking input-related error conditions first - only start reading storage once all input validation (which doesn't need storage data) has successfully passed! 👇 [pic.x.com/0dMGGPvXiK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmPD6C8aAAA9OGm.jpg — no alt text provided by author
+
+
+### Thread part 9 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584192447852805
+- Metrics (at fetch): bookmark 0, impression 467, like 5, quote 0, reply 2, retweet 0
+
+> 8⃣ High #1 - Use Immutable When Only Set In Constructor
+>
+> For non-upgradeable contracts, slots only set in constructor should be declared `immutable`.
+>
+> Using this optimization you'd have found `Leverager::feeRecipient` was never set so fees either lost or liquidation reverts depending on token behavior! 👇
+
+
+### Thread part 10 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584196281540903
+- Metrics (at fetch): bookmark 1, impression 803, like 6, quote 0, reply 1, retweet 0
+
+> 9⃣ High #2 - Incorrect Storage Slot Read
+>
+> Looking for identical storage slot reads, you'd have noticed `collectFees` was incorrectly re-reading `mainPosition.tickUpper` likely due to a copy + paste error! 👇 [pic.x.com/hnK2sdEQgZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmPE__pbIAEbnff.jpg — no alt text provided by author
+
+
+### Thread part 11 — @DevDacian — 2025-03-17 10:39 UTC (2025-03-17 11:39 WAT)
+
+- URL: https://x.com/DevDacian/status/1901584198525407395
+- Metrics (at fetch): bookmark 9, impression 688, like 9, quote 0, reply 0, retweet 0
+
+> 🔟 Read the entire article to learn the step-by-step mental process for optimizing core protocol functions which I used to reduce overall gas costs by 15.43%!
+>
+> https://dacian.me/the-yieldoor-gas-optimizoor
+
+**Links in post:** https://dacian.me/the-yieldoor-gas-optimizoor
 
 
 ---
@@ -5190,7 +5438,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-02-11 · Post · In the last 2 weeks we've had 2 clients invite us to private code repos for audit where their privat
+## 2025-02-11 · Thread · In the last 2 weeks we've had 2 clients invite us to private code repos for audit where their privat
 
 
 Tags (automatic): Smart contract / DeFi
@@ -5219,6 +5467,14 @@ Tags (automatic): Smart contract / DeFi
     **Media:**
     - media `3_1855845513092116480` (details not returned by the API)
     
+
+
+### Thread part 2 — @DevDacian — 2025-02-11 09:27 UTC (2025-02-11 10:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1889244737569476899
+- Metrics (at fetch): bookmark 1, impression 513, like 5, quote 0, reply 0, retweet 1
+
+> Here is a free lesson by @PatrickAlphaC on @CyfrinUpdraft for how to safely store private keys: https://t.co/l1JBzq5Iia
 
 
 ---
@@ -5302,7 +5558,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-01-23 · Post · Just published my most epic deep dive to date:
+## 2025-01-23 · Thread · Just published my most epic deep dive to date:
 
 
 Tags (automatic): Smart contract / DeFi
@@ -5325,9 +5581,17 @@ Tags (automatic): Smart contract / DeFi
 > Link 👇
 
 
+### Thread part 2 — @DevDacian — 2025-01-23 11:44 UTC (2025-01-23 12:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1882393890789155300
+- Metrics (at fetch): bookmark 50, impression 2162, like 43, quote 0, reply 1, retweet 12
+
+> https://t.co/jLSHbfuk7D
+
+
 ---
 
-## 2025-01-21 · Post · I've become convinced that DeFi Liquidation code is the trickiest to safely implement with highest 
+## 2025-01-21 · Thread · I've become convinced that DeFi Liquidation code is the trickiest to safely implement with highest 
 
 
 Tags (automatic): Smart contract / DeFi
@@ -5347,9 +5611,144 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/GhzvH3PbkAAf6Mm.jpg — no alt text provided by author
 
 
+### Thread part 2 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649035872022612
+- Metrics (at fetch): bookmark 3, impression 642, like 8, quote 0, reply 1, retweet 0
+
+> 1/ Profitable User Withdraws Collateral Removing Liquidation Incentive
+>
+> In leveraged trading protocols, user pnl is counted when determining total collateral value.
+>
+> With large +ve pnl, user may be able to withdraw all or most of their deposited collateral.
+>
+> If market
+
+
+### Thread part 3 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649038040433144
+- Metrics (at fetch): bookmark 1, impression 607, like 6, quote 0, reply 2, retweet 0
+
+> 2/ No Mechanism To Handle Bad Debt
+>
+> If a liquidatable position becomes insolvent where collateral_value &lt; borrow_value, many protocols may not account for this state and the liquidation transaction may actually revert!
+>
+> Check if the protocol has an insurance fund or debt
+
+
+### Thread part 4 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649040473133266
+- Metrics (at fetch): bookmark 0, impression 488, like 3, quote 0, reply 1, retweet 0
+
+> 3/ Partial Liquidation Bypasses Bad Debt Accounting
+>
+> If the protocol has a mechanism to handle bad debt, is this only triggered when a position is fully liquidated?
+>
+> If so partial liquidators can bypass bad debt accounting allowing bad debt to build up in the protocol!
+> 👇
+
+
+### Thread part 5 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649042792575376
+- Metrics (at fetch): bookmark 0, impression 443, like 2, quote 0, reply 1, retweet 0
+
+> 4/ No Partial Liquidation Prevents Whale Liquidation
+>
+> If the protocol doesn't implement partial liquidations, it may be impossible to fully liquidate large whale positions.
+>
+> Flash loans can work but only if the loan size does not exceed current market liquidity which isn't
+
+
+### Thread part 6 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649045044969768
+- Metrics (at fetch): bookmark 0, impression 413, like 2, quote 0, reply 1, retweet 0
+
+> 5/ Liquidation Denial Of Service
+>
+> Liquidation can unexpectedly revert for many reasons including:
+> - out of gas from many small positions
+> - front-run by user being liquidated
+> - malicious onERC721Received callback
+> - bad debt greater than insurance fund
+> - insufficient funds due to
+
+
+### Thread part 7 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649047506952415
+- Metrics (at fetch): bookmark 0, impression 368, like 2, quote 0, reply 1, retweet 0
+
+> 6/ Failure To Prioritize Liquidation Reward
+>
+> During liquidation there are many different numerical amounts being calculated such as liquidation rewards, protocol fees, bad debt, user refunds etc.
+>
+> If the position is insolvent there may not be enough funds to pay everyone their
+
+
+### Thread part 8 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649049927073858
+- Metrics (at fetch): bookmark 0, impression 340, like 2, quote 0, reply 1, retweet 0
+
+> 7/ Positive PNL, Yield &amp; Rewards Lost When Account Liquidated
+>
+> An account can accumulate positive PNL, yield and other rewards. All of these need to be accounted for prior to liquidation otherwise they will be lost!
+> 👇
+
+
+### Thread part 9 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649051978154090
+- Metrics (at fetch): bookmark 0, impression 344, like 3, quote 0, reply 1, retweet 0
+
+> 8/ Liquidation Leaves Borrower With Lower Health Score
+>
+> Liquidation should always leave the borrower healthier. Health score implementations can be as simple as:
+> * collateral_value / borrow_value (collateral : debt ratio)
+> * collateral_value * loan_to_value_ratio / borrow_value
+
+
+### Thread part 10 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649054352130199
+- Metrics (at fetch): bookmark 0, impression 383, like 3, quote 0, reply 1, retweet 0
+
+> 9/ Cascading Liquidations
+>
+> In multi-collateral protocols, can the liquidator choose which collateral to liquidate?
+>
+> If so the liquidator could choose to liquidate the more stable, higher loan-to-value collateral first, leaving the borrower with a less stable collateral basket
+
+
+### Thread part 11 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649056877064298
+- Metrics (at fetch): bookmark 1, impression 615, like 3, quote 0, reply 1, retweet 0
+
+> 10/ Borrower Replacement Results In Incorrect Repayment Attribution
+>
+> Some protocols allow users to "buy" liquidatable positions, transferring those positions from an unhealthy user to a healthier user with more collateral.
+>
+> But what happens if the original borrower attempts to
+
+
+### Thread part 12 — @DevDacian — 2025-01-21 10:24 UTC (2025-01-21 11:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1881649058915467282
+- Metrics (at fetch): bookmark 0, impression 570, like 3, quote 0, reply 0, retweet 0
+
+> Check out the table of contents picture in the first post and let me know if you think I missed any liquidation vuln categories!
+>
+> Keep an eye out for the Epic Liquidation Vulnerabilities Deep Dive published later this week!
+
+
 ---
 
-## 2025-01-16 · Post · Mismatched precision bugs occur in large smart contract protocols when different contracts modify th
+## 2025-01-16 · Thread · Mismatched precision bugs occur in large smart contract protocols when different contracts modify th
 
 
 Tags (automatic): Smart contract / DeFi
@@ -5365,9 +5764,78 @@ Tags (automatic): Smart contract / DeFi
 > These bugs are usually Critical/High leading to loss of funds or denial of service. Find them using this easy guide 👇
 
 
+### Thread part 2 — @DevDacian — 2025-01-16 09:26 UTC (2025-01-16 10:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1879822543961620986
+- Metrics (at fetch): bookmark 4, impression 440, like 7, quote 0, reply 1, retweet 0
+
+> 1) Install ripgrep (https://t.co/XUmNniHlBq) to perform recursive greps
+>
+> On OSX this is as easy as `brew install rg`
+
+
+### Thread part 3 — @DevDacian — 2025-01-16 09:26 UTC (2025-01-16 10:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1879822547044462837
+- Metrics (at fetch): bookmark 2, impression 486, like 6, quote 0, reply 1, retweet 0
+
+> 2) Use ripgrep to search the source directory for every line of code that modifies a particular storage slot.
+>
+> In this example we find every place where `depositedUsdc` is modified:
+>
+> $ rg "depositedUsdc" https://t.co/hheRAwfAYM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhZ1TVUagAAie2g.jpg — no alt text provided by author
+
+
+### Thread part 4 — @DevDacian — 2025-01-16 09:26 UTC (2025-01-16 10:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1879822550475448458
+- Metrics (at fetch): bookmark 0, impression 413, like 6, quote 0, reply 1, retweet 0
+
+> 3) In every place where `depositedUsdc` is modified, use `audit` tags to trace the decimal precision for the variables used to modify it.
+>
+> For example `CreditDelegationBranch` modifies it using 6 decimals: https://t.co/Eu3kepGK9X
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhZ2lF2bsAAkePq.png — no alt text provided by author
+
+
+### Thread part 5 — @DevDacian — 2025-01-16 09:26 UTC (2025-01-16 10:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1879822554367730064
+- Metrics (at fetch): bookmark 1, impression 447, like 6, quote 0, reply 1, retweet 0
+
+> 4) Continue examining every contract and function where `depositedUsdc` is modified to see if any use a different precision.
+>
+> In this case `Vault` was modifying it using 18 decimals: https://t.co/YqSRfSecbh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhZ3bXIaEAA1Cmj.png — no alt text provided by author
+
+
+### Thread part 6 — @DevDacian — 2025-01-16 09:26 UTC (2025-01-16 10:26 WAT)
+
+- URL: https://x.com/DevDacian/status/1879822556812988880
+- Metrics (at fetch): bookmark 2, impression 829, like 9, quote 0, reply 1, retweet 0
+
+> 5) We just found a critical vulnerability which corrupts the `depositedUsdc` storage slot causing the protocol to lose track of the amount of USDC deposited!
+>
+> Repeat for every storage slot tracking value especially those which can be affected by tokens foreign to the protocol.
+
+
+### Thread part 7 — @DevDacian — 2025-01-16 10:01 UTC (2025-01-16 11:01 WAT)
+
+- URL: https://x.com/DevDacian/status/1879831398212845585
+- Metrics (at fetch): bookmark 8, impression 700, like 12, quote 0, reply 0, retweet 0
+
+> 6) Learn more about mismatched precision scaling vulnerabilities @ https://t.co/xnNUWPXJGH
+
+
 ---
 
-## 2025-01-13 · Post · To find "No Precision Scaling" bugs:
+## 2025-01-13 · Thread · To find "No Precision Scaling" bugs:
 
 
 ### Post — @DevDacian — 2025-01-13 12:17 UTC (2025-01-13 13:17 WAT)
@@ -5386,6 +5854,14 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GhLCZSFaoAAmk9e.jpg — no alt text provided by author
+
+
+### Thread part 2 — @DevDacian — 2025-01-13 12:22 UTC (2025-01-13 13:22 WAT)
+
+- URL: https://x.com/DevDacian/status/1878779694625267729
+- Metrics (at fetch): bookmark 12, impression 908, like 15, quote 0, reply 0, retweet 3
+
+> @hansfriese Learn more about "No Precision Scaling" bugs @ https://t.co/Yx0TG5sS5f
 
 
 ---
@@ -5529,7 +6005,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
-## 2024-12-27 · Post · In team audits, do you:
+## 2024-12-27 · Thread · In team audits, do you:
 
 
 ### Post — @DevDacian — 2024-12-27 09:02 UTC (2024-12-27 10:02 WAT)
@@ -5542,6 +6018,18 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 > 1) share findings with teammate auditors as they are found, for example by using an internal github issue tracker that every auditor has access to
 >
 > 2) wait until near/end of audit then each auditor shares what they found with their teammates
+
+
+### Thread part 2 — @DevDacian — 2024-12-27 09:07 UTC (2024-12-27 10:07 WAT)
+
+- URL: https://x.com/DevDacian/status/1872570075552808988
+- Metrics (at fetch): bookmark 1, impression 1314, like 13, quote 1, reply 3, retweet 0
+
+> I prefer that auditors immediately share findings with their teammates as:
+>
+> 1) this can give teammates inspiration for other findings during the audit, maximizing the number of findings for the client
+>
+> 2) other teammates can think of ways to escalate the finding or combine it
 
 
 ---
@@ -5664,7 +6152,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
-## 2024-11-28 · Post · Finalized our second audit of @LineaBuild L2/L1 smart contracts.
+## 2024-11-28 · Thread · Finalized our second audit of @LineaBuild L2/L1 smart contracts.
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
@@ -5680,6 +6168,18 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Very tough audit incremental update &amp; Linea team is top tier very serious about security but we were still able to deliver considerable value.
 >
 > Love working with @cyfrin auditing Tier1 protocols, links ⬇️
+
+
+### Thread part 2 — @DevDacian — 2024-11-28 15:51 UTC (2024-11-28 16:51 WAT)
+
+- URL: https://x.com/DevDacian/status/1862162306467340592
+- Metrics (at fetch): bookmark 3, impression 845, like 9, quote 0, reply 1, retweet 0
+
+> @LineaBuild @cyfrin Our first entire audit of Linea L1/L2 smart contracts: https://t.co/cgfc17mW1D
+>
+> Incremental Update audit: https://t.co/GNvBX1kzl6
+>
+> It is truly a pleasure working together with top tier teams who take security seriously!
 
 
 ---
@@ -5931,7 +6431,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-07-18 · Post · For auditors doing the Zaros audit looking to quickly understand Perpetuals, these are some notes I 
+## 2024-07-18 · Thread · For auditors doing the Zaros audit looking to quickly understand Perpetuals, these are some notes I 
 
 
 ### Post — @DevDacian — 2024-07-18 01:45 UTC (2024-07-18 02:45 WAT)
@@ -5945,6 +6445,24 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/GSu9ZjvacAI91ER.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GSu9Z47aQAAQPxG.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GSu9aYHbcAA0tPS.png — no alt text provided by author
+
+
+### Thread part 2 — @DevDacian — 2024-07-18 01:48 UTC (2024-07-18 02:48 WAT)
+
+- URL: https://x.com/DevDacian/status/1813752772376060136
+- Metrics (at fetch): bookmark 17, impression 1495, like 10, quote 0, reply 2, retweet 0
+
+> The links in the Resources section are:
+>
+> https://t.co/tE39ME6449
+>
+> https://t.co/WGITRHwuGW
+>
+> https://t.co/X5cZyjxqla
+>
+> https://t.co/1qFYbH4wSA
+>
+> https://t.co/nrBz8EVDgs
 
 
 ---

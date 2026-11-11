@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 121
-- Conversations/threads: 121
+- Posts in this file: 124
+- Conversations/threads: 122
 - Oldest post captured: 2016-04-21
 - Newest post captured: 2026-10-29
 
@@ -1078,7 +1078,7 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2022-05-19 · Post · Not every research ended with RCEs, but I can promise the bugs (especially the Auth-Bypass) in my B
+## 2022-05-19 · Thread · Not every research ended with RCEs, but I can promise the bugs (especially the Auth-Bypass) in my B
 
 
 ### Post — @orange_8361 — 2022-05-19 08:18 UTC (2022-05-19 09:18 WAT)
@@ -1090,6 +1090,14 @@ Tags (automatic): Auth bypass
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FTG1E3AakAAveHL.jpg — no alt text provided by author
+
+
+### Thread part 2 — @orange_8361 — 2022-05-19 08:18 UTC (2022-05-19 09:18 WAT)
+
+- URL: https://x.com/orange_8361/status/1527201998181113856
+- Metrics (at fetch): bookmark 0, impression 0, like 94, quote 1, reply 2, retweet 2
+
+> @BlackHatEvents Oh, my IIS research is ongoing, so there are still chances.😉
 
 
 ---
@@ -1801,7 +1809,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2019-02-22 · Post · Some tips to make the exploit more reliable!
+## 2019-02-22 · Thread · Some tips to make the exploit more reliable!
 
 
 ### Post — @orange_8361 — 2019-02-22 06:31 UTC (2019-02-22 07:31 WAT)
@@ -1826,6 +1834,14 @@ Tags (automatic): XSS
     >
     > https://t.co/fqk8I7RWuO
     
+
+
+### Thread part 2 — @orange_8361 — 2019-02-22 09:01 UTC (2019-02-22 10:01 WAT)
+
+- URL: https://x.com/orange_8361/status/1098870327793205248
+- Metrics (at fetch): bookmark 0, impression 0, like 31, quote 0, reply 2, retweet 2
+
+> I have exploited some Jenkins in my company's Red Team service today, the success rate is 4 of the 6 XD
 
 
 ---
@@ -2002,6 +2018,19 @@ Tags (automatic): RCE
 
 > Bloody GhostScript RCE day...XD
 > https://t.co/iS6BkGCtr4
+
+
+---
+
+## 2018-08-10 · Reply · @steventseeley But now we can "partial execute" the `request.getParamter`, it's good. but the bad pa
+
+
+### Post — @orange_8361 — 2018-08-10 23:49 UTC (2018-08-11 00:49 WAT)
+
+- URL: https://x.com/orange_8361/status/1028065839424000000
+- Metrics (at fetch): bookmark 1, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @steventseeley But now we can "partial execute" the `request.getParamter`, it's good. but the bad part is, if you execute via `actionMethod`. Seam will evaluate the request as EL again(if the returned EL looks like an EL)
 
 
 ---

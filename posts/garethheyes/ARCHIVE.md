@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 515
+- Posts in this file: 531
 - Conversations/threads: 490
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
@@ -1407,7 +1407,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-07-24 · Post · Is your target leaking CSP violations left and right? Mikhail Khramenkov reveals how to hijack the o
+## 2025-07-24 · Thread · Is your target leaking CSP violations left and right? Mikhail Khramenkov reveals how to hijack the o
 
 
 Tags (automatic): XSS, CSP / CSPT
@@ -1424,6 +1424,23 @@ Tags (automatic): XSS, CSP / CSPT
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GwoNGt4WgAAu__S.jpg — alt text: "<input style=x type="hidden" onsecuritypolicyviolation="alert(1)">"
+
+
+### Thread part 2 — @garethheyes — 2025-07-24 14:25 UTC (2025-07-24 15:25 WAT)
+
+- URL: https://x.com/garethheyes/status/1948388994749780422
+- Metrics (at fetch): bookmark 0, impression 512, like 1, quote 0, reply 0, retweet 0
+
+> https://t.co/i70yLujxei
+
+
+### Thread part 3 — @garethheyes — 2025-07-24 14:27 UTC (2025-07-24 15:27 WAT)
+
+- URL: https://x.com/garethheyes/status/1948389475911921992
+- Metrics (at fetch): bookmark 0, impression 1286, like 3, quote 0, reply 1, retweet 0
+
+> Poc:
+> https://t.co/1NTnVrQaTg
 
 
 ---
@@ -1469,7 +1486,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-06-09 · Post · Epic Firefox XSS vectors by @kinugawamasato. Now available on our XSS cheat sheet including variants
+## 2025-06-09 · Thread · Epic Firefox XSS vectors by @kinugawamasato. Now available on our XSS cheat sheet including variants
 
 
 Tags (automatic): XSS
@@ -1491,6 +1508,14 @@ Tags (automatic): XSS
 alert(1)" codebase=javascript://>
 <embed src="#!
 alert(1)" codebase=javascript:>"
+
+
+### Thread part 2 — @garethheyes — 2025-06-09 13:25 UTC (2025-06-09 14:25 WAT)
+
+- URL: https://x.com/garethheyes/status/1932066643837964790
+- Metrics (at fetch): bookmark 0, impression 1114, like 1, quote 0, reply 0, retweet 0
+
+> https://t.co/nNgilGFbMN
 
 
 ---
@@ -1537,7 +1562,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-06-03 · Post · This vector adds an onerror handler with eval, rewrites all ReferenceError names, then triggers an e
+## 2025-06-03 · Thread · This vector adds an onerror handler with eval, rewrites all ReferenceError names, then triggers an e
 
 
 Tags (automatic): XSS
@@ -1555,6 +1580,14 @@ Tags (automatic): XSS
 **Media:**
 - photo: https://pbs.twimg.com/media/GshU617WkAA9NV0.jpg — alt text: "<img/src/onerror=window.onerror=eval;ReferenceError.prototype.name=';alert\x281\x29;var\x20Uncaught//';z>
 "
+
+
+### Thread part 2 — @garethheyes — 2025-06-03 13:06 UTC (2025-06-03 14:06 WAT)
+
+- URL: https://x.com/garethheyes/status/1929887506297753899
+- Metrics (at fetch): bookmark 2, impression 1012, like 3, quote 0, reply 0, retweet 1
+
+> https://t.co/tbKyateGJn
 
 
 ---
@@ -1620,7 +1653,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-05-29 · Post · Crafty JavaScript-context XSS vector using ondevicemotion, setTimeout, and URIError spoofing to trig
+## 2025-05-29 · Thread · Crafty JavaScript-context XSS vector using ondevicemotion, setTimeout, and URIError spoofing to trig
 
 
 Tags (automatic): XSS
@@ -1639,6 +1672,14 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/GsHooiUXIAAydeI.jpg — alt text: "ondevicemotion=setTimeout;
 Event.prototype.toString=URIError.prototype.toString;
 Event.prototype.message='alert\x281\x29'"
+
+
+### Thread part 2 — @garethheyes — 2025-05-29 13:49 UTC (2025-05-29 14:49 WAT)
+
+- URL: https://x.com/garethheyes/status/1928086339943023007
+- Metrics (at fetch): bookmark 1, impression 1063, like 4, quote 0, reply 0, retweet 0
+
+> https://t.co/VLNXLREE8h
 
 
 ---
@@ -1680,7 +1721,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-05-27 · Post · Firefox now opens the door to URL-based XSS payload smuggling too. Yep, even more ways to sneak past
+## 2025-05-27 · Thread · Firefox now opens the door to URL-based XSS payload smuggling too. Yep, even more ways to sneak past
 
 
 Tags (automatic): XSS, Request smuggling / desync
@@ -1705,9 +1746,17 @@ Tags (automatic): XSS, Request smuggling / desync
 "
 
 
+### Thread part 2 — @garethheyes — 2025-05-27 13:54 UTC (2025-05-27 14:54 WAT)
+
+- URL: https://x.com/garethheyes/status/1927362881458250000
+- Metrics (at fetch): bookmark 2, impression 1120, like 5, quote 0, reply 0, retweet 0
+
+> https://t.co/mYWUUv4YBd
+
+
 ---
 
-## 2025-05-22 · Post · URL-based XSS payload smuggling yup, it’s a thing. You can sneak payloads past filters in unexpected
+## 2025-05-22 · Thread · URL-based XSS payload smuggling yup, it’s a thing. You can sneak payloads past filters in unexpected
 
 
 Tags (automatic): XSS, Request smuggling / desync
@@ -1728,9 +1777,17 @@ Tags (automatic): XSS, Request smuggling / desync
 <body onload="throw onerror=eval,'/*'+location">"
 
 
+### Thread part 2 — @garethheyes — 2025-05-22 13:59 UTC (2025-05-22 14:59 WAT)
+
+- URL: https://x.com/garethheyes/status/1925552141587890317
+- Metrics (at fetch): bookmark 3, impression 982, like 6, quote 0, reply 0, retweet 0
+
+> https://t.co/JPMVPkYc6b
+
+
 ---
 
-## 2025-05-20 · Post · Fixed the parser bug in Hackvertor that was actually fun. Then hacked HackPad. 1. User visits malici
+## 2025-05-20 · Thread · Fixed the parser bug in Hackvertor that was actually fun. Then hacked HackPad. 1. User visits malici
 
 
 Tags (automatic): XSS
@@ -1742,6 +1799,24 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 1, impression 1360, like 8, quote 0, reply 1, retweet 0
 
 > Fixed the parser bug in Hackvertor that was actually fun. Then hacked HackPad. 1. User visits malicious site. 2. Clicks link to open window to HackPad. 3. User switches off sandbox. 4. Malicious site changes win location hash. 5. User clicks execute. 6. XSS
+
+
+### Thread part 2 — @garethheyes — 2025-05-20 21:06 UTC (2025-05-20 22:06 WAT)
+
+- URL: https://x.com/garethheyes/status/1924934769902563736
+- Metrics (at fetch): bookmark 4, impression 1064, like 2, quote 0, reply 1, retweet 0
+
+> PoC a bit far fetched but was fun to find:
+>
+> https://t.co/rWr1WhP4KD
+
+
+### Thread part 3 — @garethheyes — 2025-05-20 21:15 UTC (2025-05-20 22:15 WAT)
+
+- URL: https://x.com/garethheyes/status/1924937047719981283
+- Metrics (at fetch): bookmark 0, impression 972, like 2, quote 0, reply 0, retweet 0
+
+> The fixed was to ignore the hash if the sandbox is disabled.
 
 
 ---
@@ -1820,7 +1895,10 @@ Tags (automatic): RCE
 
 ---
 
-## 2025-03-12 · Post · Sit down kids I'm gonna tell you a story. CSS once had JavaScript. You could actually embed it withi
+## 2025-03-12 · Thread · Sit down kids I'm gonna tell you a story. CSS once had JavaScript. You could actually embed it withi
+
+
+Tags (automatic): XSS
 
 
 ### Post — @garethheyes — 2025-03-12 19:15 UTC (2025-03-12 20:15 WAT)
@@ -1829,6 +1907,24 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 7, impression 3429, like 45, quote 0, reply 2, retweet 5
 
 > Sit down kids I'm gonna tell you a story. CSS once had JavaScript. You could actually embed it within the property value an equal measure of people thought this was great and horrific. Another interesting fact IE also supported "=" as a property-value separator. 🧵
+
+
+### Thread part 2 — @garethheyes — 2025-03-12 19:15 UTC (2025-03-12 20:15 WAT)
+
+- URL: https://x.com/garethheyes/status/1899902153403109795
+- Metrics (at fetch): bookmark 0, impression 991, like 8, quote 0, reply 1, retweet 0
+
+> I also invented a technique called RPO that could hijack relative stylesheets and execute JavaScript. This means you could use a single forward slash in the URL to turn a relative stylesheet to embed the current page as CSS. What people don't realise is...
+
+
+### Thread part 3 — @garethheyes — 2025-03-12 19:15 UTC (2025-03-12 20:15 WAT)
+
+- URL: https://x.com/garethheyes/status/1899902155634475444
+- Metrics (at fetch): bookmark 4, impression 1172, like 16, quote 0, reply 1, retweet 1
+
+> I actually discovered RPO many years before I blogged it. So IE was still in widespread use at the time :D. Anyway I hope you enjoyed story time. I'll leave you with an XSS vector that used to work in IE:
+>
+> &lt;div style=xss=expression(alert(1))&gt;&lt;/div&gt;
 
 
 ---
@@ -1846,7 +1942,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2025-01-28 · Post · Discover blocklist bypasses via unicode overflows using the latest updates to ActiveScan++, Hackvert
+## 2025-01-28 · Thread · Discover blocklist bypasses via unicode overflows using the latest updates to ActiveScan++, Hackvert
 
 
 Tags (automatic): Memory corruption / native
@@ -1866,6 +1962,14 @@ Tags (automatic): Memory corruption / native
 GET /%E4%BC%8D%E4%BC%8ASet-Cookie: foo=bar
 200 OK
 Set-Cookie: foo=bar"
+
+
+### Thread part 2 — @garethheyes — 2025-01-28 14:00 UTC (2025-01-28 15:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1884240022532153521
+- Metrics (at fetch): bookmark 20, impression 1654, like 19, quote 0, reply 0, retweet 4
+
+> https://t.co/QLLVrH27AZ
 
 
 ---
@@ -2049,7 +2153,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2024-11-20 · Post · Struggling with WAFs that seem to block every XSS attempt? Here’s a lesser-known trick from @parrot4
+## 2024-11-20 · Thread · Struggling with WAFs that seem to block every XSS attempt? Here’s a lesser-known trick from @parrot4
 
 
 Tags (automatic): XSS
@@ -2064,6 +2168,15 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gc1U9ABWYAACbzw.jpg — alt text: "<section onscrollsnapchange=alert(1) style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></section>"
+
+
+### Thread part 2 — @garethheyes — 2024-11-20 15:08 UTC (2024-11-20 16:08 WAT)
+
+- URL: https://x.com/garethheyes/status/1859252381520650605
+- Metrics (at fetch): bookmark 0, impression 1134, like 2, quote 0, reply 0, retweet 0
+
+> You can test the vector out for yourself on our cheat sheet:
+> https://t.co/GTimKClrqU
 
 
 ---
@@ -2110,7 +2223,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-11-06 · Post · Exploit XSS in hidden inputs with no user-interaction, using this amazing new auto-executing vector 
+## 2024-11-06 · Thread · Exploit XSS in hidden inputs with no user-interaction, using this amazing new auto-executing vector 
 
 
 Tags (automatic): XSS
@@ -2125,6 +2238,15 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GbtniQVXoAswPkx.png — alt text: "<input type=hidden oncontentvisibilityautostatechange=alert(1) style=content-visibility:auto>"
+
+
+### Thread part 2 — @garethheyes — 2024-11-06 15:56 UTC (2024-11-06 16:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1854191122488131914
+- Metrics (at fetch): bookmark 10, impression 6523, like 18, quote 1, reply 0, retweet 6
+
+> This technique works in Google Chrome. Find the vector and full details here:
+> https://t.co/jEwvGBZVao
 
 
 ---
@@ -2303,7 +2425,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-07-04 · Post · You can use baseURI to conceal XSS payloads! Every HTML tag has the baseURI property. Base allows yo
+## 2024-07-04 · Thread · You can use baseURI to conceal XSS payloads! Every HTML tag has the baseURI property. Base allows yo
 
 
 Tags (automatic): XSS
@@ -2319,6 +2441,29 @@ Tags (automatic): XSS
 **Media:**
 - photo: https://pbs.twimg.com/media/GRowFQ5WcAAn4xb.jpg — alt text: "<base href=x:alert(1) onfocus=eval(baseURI) 
   tabindex=1 style=display:block autofocus>"
+
+
+### Thread part 2 — @garethheyes — 2024-07-04 13:19 UTC (2024-07-04 14:19 WAT)
+
+- URL: https://x.com/garethheyes/status/1808853106928586974
+- Metrics (at fetch): bookmark 17, impression 11583, like 40, quote 1, reply 2, retweet 4
+
+> Here's another way:
+>
+> https://t.co/IA11y3qduD https://t.co/bT20NBtJjE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRpWQ-LWIAEUSQP.jpg — no alt text provided by author
+
+
+### Thread part 3 — @garethheyes — 2024-07-04 13:41 UTC (2024-07-04 14:41 WAT)
+
+- URL: https://x.com/garethheyes/status/1808858550560592035
+- Metrics (at fetch): bookmark 5, impression 6959, like 16, quote 1, reply 0, retweet 3
+
+> You also might not know that document.URL does not always equal location. It contains the credentials whereas location does not:
+>
+> https://t.co/I81wkG8k55
 
 
 ---

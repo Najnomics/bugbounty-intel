@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 395
+- Posts in this file: 399
 - Conversations/threads: 321
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
@@ -2352,7 +2352,7 @@ Tags (automatic): OAuth
 
 ---
 
-## 2024-04-24 · Post · Alrighty, lemme clarify some thoughts surrounding this VDP thing. 
+## 2024-04-24 · Thread · Alrighty, lemme clarify some thoughts surrounding this VDP thing. 
 
 
 ### Post — @Rhynorater — 2024-04-24 14:40 UTC (2024-04-24 15:40 WAT)
@@ -2367,6 +2367,14 @@ Tags (automatic): OAuth
 > I think they should be gamified in a separate way than bug bounty. 
 >
 > I think companies that can clearly afford to do a bug
+
+
+### Thread part 2 — @Rhynorater — 2024-04-24 14:42 UTC (2024-04-24 15:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1783144541555482734
+- Metrics (at fetch): bookmark 0, impression 2310, like 23, quote 0, reply 0, retweet 1
+
+> In an ideal world, I'd like to see governments make BBPs mandatory for companies with a certain threshold of users that they are putting at risk.
 
 
 ---
@@ -2420,7 +2428,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2024-04-10 · Post · Under-rated bug bounty tip: get locked in. 
+## 2024-04-10 · Thread · Under-rated bug bounty tip: get locked in. 
 
 
 ### Post — @Rhynorater — 2024-04-10 13:09 UTC (2024-04-10 14:09 WAT)
@@ -2433,6 +2441,18 @@ Tags (automatic): IDOR / BOLA
 > When I'm locked in on a target, I...
 > * Read documentation when waiting in line, when on the toilet, when eating
 > * Listen to videos on the target while washing dishes, driving, exercising
+
+
+### Thread part 2 — @Rhynorater — 2024-04-10 13:09 UTC (2024-04-10 14:09 WAT)
+
+- URL: https://x.com/Rhynorater/status/1778047612785967297
+- Metrics (at fetch): bookmark 3, impression 2109, like 39, quote 0, reply 1, retweet 0
+
+> * Attack vector ideate while trying to sleep, sitting in the hot tub (when I can't hack anymore), showering
+>
+> And I do all of this, not because I'm super hardcore, but because I love it and it's the default. Getting locked in feels great. 
+>
+> Anyway, back to the docs ^_^ ✌🏻
 
 
 ---
@@ -2717,10 +2737,10 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2023-11-09 · Post · Somebody asked me recently if you can exploit an XSS scenario like this:
+## 2023-11-09 · Thread · Somebody asked me recently if you can exploit an XSS scenario like this:
 
 
-Tags (automatic): XSS
+Tags (automatic): XSS, Memory corruption / native
 
 
 ### Post — @Rhynorater — 2023-11-09 15:23 UTC (2023-11-09 16:23 WAT)
@@ -2737,9 +2757,18 @@ Tags (automatic): XSS
 > I tried everything I could think of to abuse error handling and hoisting
 
 
+### Thread part 2 — @Rhynorater — 2023-11-09 15:41 UTC (2023-11-09 16:41 WAT)
+
+- URL: https://x.com/Rhynorater/status/1722640577668215036
+- Metrics (at fetch): bookmark 0, impression 6155, like 3, quote 0, reply 1, retweet 0
+
+> @avlidienbrunn @joaxcar @jub0bs @LiveOverflow @garethheyes 
+> Any thoughts here?
+
+
 ---
 
-## 2023-11-08 · Post · "How do you find high and critical impact vulns?"
+## 2023-11-08 · Thread · "How do you find high and critical impact vulns?"
 
 
 ### Post — @Rhynorater — 2023-11-08 21:32 UTC (2023-11-08 22:32 WAT)
@@ -2752,6 +2781,18 @@ Tags (automatic): XSS
 > Pretty much the number 1 question I get about bug bounty. 
 >
 > Here is the answer: you start thinking bigger. You start trying high/crit impact attack vectors. You start looking at things like auth, URL parsing, account creation...
+
+
+### Thread part 2 — @Rhynorater — 2023-11-08 21:32 UTC (2023-11-08 22:32 WAT)
+
+- URL: https://x.com/Rhynorater/status/1722366472893129124
+- Metrics (at fetch): bookmark 3, impression 2133, like 33, quote 0, reply 1, retweet 0
+
+> file uploads, cloud data storage, etc.
+>
+> If you're spending your time using Match-And-Replace looking for privilege escalations, you'll find some Highs, but you'll rarely get a CVSS 10. 
+>
+> If you wanna see that bright red, you gotta dig in and go after the hard stuff.
 
 
 ---

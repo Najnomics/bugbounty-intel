@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 446
+- Posts in this file: 454
 - Conversations/threads: 370
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
@@ -7253,6 +7253,56 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2025-04-02 · Thread · 🧵 Tracking vulnerabilities reported using http://Hacktron.AI  🧵
+
+
+Tags (automatic): XSS, SQL injection, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-04-02 20:24 UTC (2025-04-02 21:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1907529565649375444
+- Metrics (at fetch): bookmark 73, impression 13341, like 130, quote 0, reply 2, retweet 4
+
+> 🧵 Tracking vulnerabilities reported using http://Hacktron.AI  🧵
+>
+> 1. a few clean SQL injections Hacktron uncovered effortlessly [pic.x.com/36IaYo2tUq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gnjn5KMXYAI14fm.png — no alt text provided by author
+
+**Links in post:** http://Hacktron.AI
+
+
+### Thread part 2 — @S1r1u5_ — 2025-04-02 20:24 UTC (2025-04-02 21:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1907529572268073323
+- Metrics (at fetch): bookmark 2, impression 2229, like 11, quote 0, reply 1, retweet 0
+
+> 2. a simple postMessage-based XSS. exploitation turned out to be tricky, so it didn’t succeed [pic.x.com/yoqC9dusnz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gnjn74DWIAAjkaI.jpg — no alt text provided by author
+
+
+### Thread part 3 — @S1r1u5_ — 2025-04-09 07:00 UTC (2025-04-09 08:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1909863892446072959
+- Metrics (at fetch): bookmark 0, impression 1344, like 2, quote 0, reply 1, retweet 0
+
+> 3. An Unauthenticated Arbitrary Deserialization (0-day?)
+
+
+### Thread part 4 — @S1r1u5_ — 2025-04-12 07:03 UTC (2025-04-12 08:03 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1910951984540103076
+- Metrics (at fetch): bookmark 0, impression 785, like 3, quote 0, reply 0, retweet 0
+
+> 4. A decent XSS in a big OSS software
+
+
+---
+
 ## 2025-04-08 · Post · whats with bugcrowd password reset mails?
 
 
@@ -7367,10 +7417,10 @@ Tags (automatic): RCE
 
 ---
 
-## 2025-04-05 · Post · sooner or later, the google deepmind team will distill the entire chromium codebase into gemini and 
+## 2025-04-05 · Thread · sooner or later, the google deepmind team will distill the entire chromium codebase into gemini and 
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2025-04-05 10:58 UTC (2025-04-05 11:58 WAT)
@@ -7384,6 +7434,26 @@ Tags (automatic): AI-assisted hunting
 >        find similar bugs
 >
 > variant analysis on steroids. this is the future
+
+
+### Thread part 2 — @S1r1u5_ — 2025-04-05 12:39 UTC (2025-04-05 13:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1908499661251633178
+- Metrics (at fetch): bookmark 0, impression 311, like 2, quote 0, reply 1, retweet 0
+
+> @ndevtk @WeizmanGal do you consider they are good enough if they can solve https://github.com/ElectrovoltSec/HackBench 100%?
+
+**Links in post:** https://github.com/ElectrovoltSec/HackBench
+
+
+### Thread part 3 — @S1r1u5_ — 2025-04-05 12:41 UTC (2025-04-05 13:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1908500153750659476
+- Metrics (at fetch): bookmark 0, impression 396, like 1, quote 0, reply 1, retweet 0
+
+> @ndevtk @WeizmanGal i created most of the challenges as intern level but some turned out to be complex than that. 
+>
+> and i think cheap intern that can already solve all of them can be considered fine
 
 
 ---
@@ -7417,29 +7487,6 @@ Tags (automatic): AI-assisted hunting
 > watch out; 
 >
 > i am going to shitpost my way through convince someone from frontier model providers to help me bypass rate limits or toss me some free credits.
-
-
----
-
-## 2025-04-02 · Post · 🧵 Tracking vulnerabilities reported using http://Hacktron.AI  🧵
-
-
-Tags (automatic): SQL injection, AI-assisted hunting
-
-
-### Post — @S1r1u5_ — 2025-04-02 20:24 UTC (2025-04-02 21:24 WAT)
-
-- URL: https://x.com/S1r1u5_/status/1907529565649375444
-- Metrics (at fetch): bookmark 73, impression 13341, like 130, quote 0, reply 2, retweet 4
-
-> 🧵 Tracking vulnerabilities reported using http://Hacktron.AI  🧵
->
-> 1. a few clean SQL injections Hacktron uncovered effortlessly [pic.x.com/36IaYo2tUq]
-
-**Media:**
-- photo: https://pbs.twimg.com/media/Gnjn5KMXYAI14fm.png — no alt text provided by author
-
-**Links in post:** http://Hacktron.AI
 
 
 ---
@@ -7483,7 +7530,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-03-18 · Post · There’s a new kind of hacking I call "vibe hacking," where you fully give in to the vibes, embrace e
+## 2025-03-18 · Thread · There’s a new kind of hacking I call "vibe hacking," where you fully give in to the vibes, embrace e
 
 
 Tags (automatic): AI-assisted hunting
@@ -7496,7 +7543,53 @@ Tags (automatic): AI-assisted hunting
 
 > There’s a new kind of hacking I call "vibe hacking," where you fully give in to the vibes, embrace exponentials, and forget that the security even exists. 
 >
-> It’s possible because the slop from vibe coding (cursor composer, windsurf cascade, claude code) is getting too good at
+> It’s possible because the slop from vibe coding (cursor composer, windsurf cascade, claude code) is getting too good at leaving holes.
+>
+> Also, I just broadcast payloads like a pure script kiddie, so I barely even bother understanding the code because the bug’s just there, winking at me. 
+>
+> I do the dumbest things like "admin:admin" because I’m too lazy to find technical bugs. I stumble into API keys like flashing in a red-light district, I don’t even need to hunt for a complicated bug anymore. 
+>
+> I’m not even trying, URLs shout “here’s the good stuff” like /admin’s my VIP pass. It’s all vibes, no brain, I blast scripts, spray payloads, and watch the chaos, because vibe coding’s slop makes it too easy.
+
+
+### Thread part 2 — @S1r1u5_ — 2025-03-18 04:44 UTC (2025-03-18 05:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1901857311624511664
+- Metrics (at fetch): bookmark 0, impression 1064, like 1, quote 0, reply 1, retweet 0
+
+> https://x.com/leojr94_/status/1901560276488511759
+
+**Links in post:** https://x.com/leojr94_/status/1901560276488511759
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1214719784883048449 — 2025-03-17 09:04 UTC (2025-03-17 10:04 WAT)
+    
+    - URL: https://x.com/1214719784883048449/status/1901560276488511759
+    - Metrics (at fetch): bookmark 3698, impression 2293188, like 5997, quote 704, reply 600, retweet 302
+    
+    > guys, i'm under attack
+    >
+    > ever since I started to share how I built my SaaS using Cursor
+    >
+    > random thing are happening, maxed out usage on api keys, people bypassing the subscription, creating random shit on db
+    >
+    > as you know, I'm not technical so this is taking me longer that usual to figure out
+    >
+    > for now, I will stop sharing what I do publicly on X
+    >
+    > there are just some weird ppl out there
+    
+
+
+### Thread part 3 — @S1r1u5_ — 2025-03-18 04:45 UTC (2025-03-18 05:45 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1901857371384877447
+- Metrics (at fetch): bookmark 0, impression 952, like 1, quote 0, reply 0, retweet 0
+
+> https://x.com/levelsio/status/1896210668648612089
+
+**Links in post:** https://x.com/levelsio/status/1896210668648612089
 
 
 ---
@@ -7534,7 +7627,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-03-11 · Post · hot take:
+## 2025-03-11 · Thread · hot take:
 
 
 ### Post — @S1r1u5_ — 2025-03-11 20:07 UTC (2025-03-11 21:07 WAT)
@@ -7546,7 +7639,21 @@ Tags (automatic): AI-assisted hunting
 >
 > the Indian security research and bug hunting community seems overly insecure. I recently collaborated with a bug bounty team, and ironically, no one was actually sharing their work, yet they called it “teamwork.” 
 >
-> this isn’t just a one-off experience; it seems to be
+> this isn’t just a one-off experience; it seems to be the norm.
+>
+> Y’ALL should really read Prisoner’s Dilemma.
+
+
+### Thread part 2 — @S1r1u5_ — 2025-03-12 06:34 UTC (2025-03-12 07:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1899710481402937693
+- Metrics (at fetch): bookmark 10, impression 6963, like 82, quote 1, reply 4, retweet 2
+
+> this isn’t about sharing secrets with some random guy on the internet. It’s about working together but being afraid that your collaborator will steal your bug and spray it, take your exploit recipe or security research, or force you to split the bounty. you do this even with three of your good friends, because you don’t trust them (i've particularly experienced this with Indians).
+>
+> but honestly, it’s simple. you trust someone, share your work. If they steal it, cut them off. If not, they share their cool stuff too, and you both grow together. the internet is too vast for you to hoard your so-called secrets like they’re something special. 
+>
+> how tf do you think i did cool research with cool people across the world(rarely it's with us Indians) on prototype pollution or electronjs? this is the recipe.
 
 
 ---

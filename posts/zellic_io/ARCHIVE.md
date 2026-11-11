@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 146
-- Conversations/threads: 95
+- Posts in this file: 195
+- Conversations/threads: 104
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
 
@@ -1120,7 +1120,7 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 >
 > We'll be releasing it for free.
 >
-> V12 finds Crits in Zellic audits, High/Mediums in Cantina, and a bug in Pendle. [pic.x.com/iIQBknXmKx]
+> V12 finds Crits in Zellic audits, High/Mediums in Cantina, and a bug in Pendle.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G1rk0KRWYAA1dm3.jpg — no alt text provided by author
@@ -1128,16 +1128,81 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 
 ### Thread part 2 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
+- URL: https://x.com/zellic_io/status/1971228716065001773
+- Metrics (at fetch): bookmark 1, impression 8301, like 30, quote 1, reply 1, retweet 0
+
+> First, why build V12?
+>
+> 1. LLMs now outperform mediocre audit firms.
+> Bad auditors (1) suck and miss obvious bugs, (2) introduce delays, (3) cost $10,000 for small reviews.
+>
+> 2. 70% of highs/crits are simple coding mistakes.
+> LLMs excel at finding these surface-level bugs.
+>
+> Thus... [pic.x.com/QOVhbDSmsp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1rgab5XkAAdjtg.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228719550447892
+- Metrics (at fetch): bookmark 0, impression 6577, like 20, quote 0, reply 1, retweet 0
+
+> Our goal was to build an AI tool that outperforms the worst auditors at finding simple but important bugs.
+>
+> How did we do? V12 finds bugs that audit firms missed:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1rwgOmWUAAZhyU.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228723388256277
+- Metrics (at fetch): bookmark 1, impression 5487, like 14, quote 0, reply 2, retweet 0
+
+> In competitions, historically human researchers submit mostly the same bugs as V12 finds:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1ryRyCW4AAk6vJ.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228727280566515
+- Metrics (at fetch): bookmark 0, impression 4975, like 12, quote 0, reply 1, retweet 0
+
+> V12 discovers Highs and Mediums in public, live competitions:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1rxentWAAAaZjy.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228731055464634
+- Metrics (at fetch): bookmark 0, impression 4724, like 10, quote 0, reply 2, retweet 0
+
+> V12 finds bugs that, had they been found, would have avoided millions of dollars in hacks:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1rxrnNXoAAXBrD.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
 - URL: https://x.com/zellic_io/status/1971228735270682866
 - Metrics (at fetch): bookmark 0, impression 4611, like 10, quote 0, reply 2, retweet 0
 
 > V12's report-writing quality is comparable to top humans:
 
 **Media:**
-- media `3_1971153788716118017` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/G1rx7V4W8AEAZL3.jpg — no alt text provided by author
 
 
-### Thread part 3 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+### Thread part 8 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
 - URL: https://x.com/zellic_io/status/1971228739150512546
 - Metrics (at fetch): bookmark 1, impression 4466, like 12, quote 0, reply 1, retweet 0
@@ -1148,7 +1213,7 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 - photo: https://pbs.twimg.com/media/G1rzmp3XcAA8DLa.jpg — no alt text provided by author
 
 
-### Thread part 4 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+### Thread part 9 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
 - URL: https://x.com/zellic_io/status/1971228743042781355
 - Metrics (at fetch): bookmark 1, impression 4367, like 19, quote 0, reply 2, retweet 0
@@ -1159,7 +1224,7 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 - photo: https://pbs.twimg.com/media/G1r0IqOXkAAIxV_.jpg — no alt text provided by author
 
 
-### Thread part 5 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+### Thread part 10 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
 - URL: https://x.com/zellic_io/status/1971228747211866293
 - Metrics (at fetch): bookmark 0, impression 4267, like 14, quote 0, reply 1, retweet 0
@@ -1172,7 +1237,7 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 - photo: https://pbs.twimg.com/media/G1rzuvaWEAAaPyI.jpg — no alt text provided by author
 
 
-### Thread part 6 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+### Thread part 11 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
 - URL: https://x.com/zellic_io/status/1971228750747676915
 - Metrics (at fetch): bookmark 1, impression 4205, like 18, quote 0, reply 1, retweet 0
@@ -1185,7 +1250,7 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 - photo: https://pbs.twimg.com/media/G1snR8jaAAcDPtf.jpg — no alt text provided by author
 
 
-### Thread part 7 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+### Thread part 12 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
 - URL: https://x.com/zellic_io/status/1971228753826283967
 - Metrics (at fetch): bookmark 1, impression 4717, like 34, quote 0, reply 2, retweet 1
@@ -1198,7 +1263,7 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 > - A GitHub action for CI/CD integration
 
 
-### Thread part 8 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+### Thread part 13 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
 - URL: https://x.com/zellic_io/status/1971228755483033914
 - Metrics (at fetch): bookmark 26, impression 4690, like 41, quote 1, reply 1, retweet 0
@@ -1255,7 +1320,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-07-15 · Post · ZK protocols use special hash functions that are algebraically simple.
+## 2025-07-15 · Thread · ZK protocols use special hash functions that are algebraically simple.
 
 
 Tags (automatic): ZK
@@ -1270,18 +1335,119 @@ Tags (automatic): ZK
 >
 > But if our proof system supported lookup tables, could we do better?
 >
-> Introducing Polocolo: a new ZK-friendly hash function for PlonKup, co-authored by Zellic Cryptographer @baaaaaarkingdog. https://t.co/hviZfw3W7p
+> Introducing Polocolo: a new ZK-friendly hash function for PlonKup, co-authored by Zellic Cryptographer @baaaaaarkingdog.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gv6PsyhbIAAV_Bj.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154859629486419
+- Metrics (at fetch): bookmark 2, impression 306, like 2, quote 0, reply 1, retweet 0
+
+> We’ve covered ZK-friendly hash functions and algebraic attacks against them in previous posts, so if you need a refresher, check out “ZK-Friendly Hash Functions” and “Algebraic Attacks on ZK-Friendly Hash Functions” on our Research page: https://www.zellic.io
+
+**Links in post:** https://www.zellic.io
+
+
+### Thread part 3 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154862054039729
+- Metrics (at fetch): bookmark 0, impression 296, like 2, quote 0, reply 1, retweet 0
+
+> In ZK-friendly hash functions, the functions are algebraically simple for efficiency.
+>
+> So an attack against a ZK-friendly hash function focuses on the constrained-input constrained-output (CICO) problem, as solving the system of equations is usually the most effective attack against ZK-friendly hash functions.
+>
+> Although designers carefully choose their structures and parameters with these attack vectors in mind, it’s still common for ZK-friendly hash functions to be attacked.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv6P26rWsAANkIv.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154864931332215
+- Metrics (at fetch): bookmark 0, impression 269, like 2, quote 0, reply 1, retweet 0
+
+> If the ZK proof system only allows addition and multiplicative gates, operations that cannot be represented algebraically simply require a large number of constraints.
+>
+> But if the ZK proof system supports lookup gates, the required number of gates is dramatically reduced.
+>
+> So the main advantage of using lookup gates in ZK-friendly hash functions is that they are not expressed in a simple algebraic way, which can provide resistance to algebraic attacks.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv6P7FpaEAA--pY.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154867389194489
+- Metrics (at fetch): bookmark 0, impression 225, like 2, quote 0, reply 1, retweet 0
+
+> Reinforced Concrete is the first lookup-based ZK-friendly hash function, which consists of Bricks, Concrete, and Bars layers (this is where lookup tables are used).
+>
+> However, a key drawback is the high cost of evaluating the Bars layer in a ZK setting. Out of the 15 layers in Reinforced Concrete, only one is the Bars layer.
+>
+> It’s desirable and natural to iterate a simple layer over multiple rounds as reducing the cost of the Bars layer and iterating it over multiple rounds may enhance security and allow a trade-off between efficiency and security.
+>
+> This motivates Polocolo’s design.
+
+
+### Thread part 6 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154869851251160
+- Metrics (at fetch): bookmark 0, impression 224, like 2, quote 0, reply 1, retweet 0
+
+> To address the high cost in the Bars layer, an alternative approach was proposed, dubbed the power residue method.
+>
+> Polocolo is a lookup-based ZK-friendly hash function with a different design rationale.
+>
+> The name Polocolo derives from power residue for lower cost table lookup.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv6QHW4a4AMRT_h.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154872388804959
+- Metrics (at fetch): bookmark 0, impression 170, like 1, quote 0, reply 1, retweet 0
+
+> The power residue method efficiently applies lookup tables to Fp elements for a large prime: p(≈2^256).
+>
+> The S-box built using the power residue method is of a high degree that requires only 14 PLONK gates, which is significantly fewer than the 94 gates required for the Bar function from Reinforced Concrete.
+>
+> Using this S-box, we propose Polocolo, a new lookup-based ZK-friendly hash function.
+
+
+### Thread part 8 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154873861005441
+- Metrics (at fetch): bookmark 0, impression 802, like 2, quote 0, reply 1, retweet 0
+
+> Polocolo was designed by Zellic Cryptographer @baaaaaarkingdog, a member of the KAIST CryptLab, along with fellow researchers from the same lab.
+>
+> In Part 2, we’ll introduce the detailed specifications and cryptanalysis of Polocolo, along with a performance comparison with other ZK-friendly hash functions.
+
+
+### Thread part 9 — @zellic_io — 2025-07-15 16:13 UTC (2025-07-15 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1945154875622367600
+- Metrics (at fetch): bookmark 1, impression 781, like 6, quote 0, reply 0, retweet 0
+
+> For a detailed look at PLONK, PlonKup, and the design motivation behind Polocolo, check out the full blog post below: https://www.zellic.io/blog/introducing-polocolo
+
+**Links in post:** https://www.zellic.io/blog/introducing-polocolo
+
+
 ---
 
-## 2025-06-18 · Post · BLS signatures are everywhere, from Ethereum’s consensus to EigenLayer. But it’s easy to use them wr
+## 2025-06-18 · Thread · BLS signatures are everywhere, from Ethereum’s consensus to EigenLayer. But it’s easy to use them wr
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
@@ -1297,9 +1463,207 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/GtvR0ENXMAQa8Hc.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373805222039724
+- Metrics (at fetch): bookmark 2, impression 1899, like 9, quote 0, reply 1, retweet 0
+
+> But first, what are BLS signatures?
+>
+> BLS signatures are a cryptographic primitive used for signing messages, like ECDSA.
+>
+> Here’s how the math works. It’s built on top of elliptic curve pairings.
+>
+> But what makes them so special? Why use these fancy pairings? https://t.co/wwcYnqEvrb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvR2zxaQAIbSAy.png — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373808170582251
+- Metrics (at fetch): bookmark 1, impression 1619, like 12, quote 0, reply 1, retweet 0
+
+> BLS’s killer feature: signature aggregation. 
+>
+> You can combine many BLS signatures into a single signature. This lets you transmit and check N signatures all at once, more space and time efficient! And on-chain, optimizations are hugely important for gas savings. https://t.co/c1lD2AiOcW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvR789XgAE7OJn.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373811182092511
+- Metrics (at fetch): bookmark 1, impression 1493, like 7, quote 0, reply 1, retweet 0
+
+> For an in-depth look into how BLS signatures work, along with the process of building aggregation and multi-signatures, check out the full blog post linked at the end of this thread!
+>
+> Now, let’s see how BLS signatures can go wrong, and how EigenLayer uses them (properly, avoiding
+
+
+### Thread part 5 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373813245677823
+- Metrics (at fetch): bookmark 0, impression 1439, like 7, quote 0, reply 1, retweet 0
+
+> EigenLayer is a restaking layer for Ethereum. In EigenLayer AVSes, validators sign the results of their validation computations. 
+>
+> The aggregator collects all these signatures and pushes them on chain. The aggregated signatures are verified on-chain. https://t.co/xWKuf9klyb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSAE-WoAARLab.png — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373815711940906
+- Metrics (at fetch): bookmark 0, impression 1254, like 4, quote 0, reply 1, retweet 0
+
+> The task contains the block number when the task was created and a threshold indicating the percentage of operator validation, which is necessary to validate the task.
+>
+> The operators that opted into the AVS can get those tasks to compute the task answer and then the operator can send the answer with their BLS signature of the task to the aggregator.
+>
+> As soon as the threshold of identical answers is reached, the aggregator merges all the BLS signatures into a unique aggregate signature and sends it back to the AVS contract.
+>
+> The contract verifies that the signature is correct and opens a challenging period when a challenger can give proof that the validation was incorrect, and if so, the misbehaving operators are slashed.
+
+
+### Thread part 7 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373817813295349
+- Metrics (at fetch): bookmark 0, impression 1240, like 5, quote 0, reply 1, retweet 0
+
+> In the contract, the verification happens in the `trySignatureAndApkVerification` function: [pic.x.com/4f7tw46TyP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSEPzXgAAClmR.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373821143597382
+- Metrics (at fetch): bookmark 2, impression 1237, like 7, quote 0, reply 1, retweet 0
+
+> However, multi-signatures, if used incorrectly, come with a serious issue called rogue-key attacks.
+>
+> Let’s say an honest user has a public key, `pk_0`. An attacker who has previously seen `pk_0` can choose their public key as pk_1 = sk_1⋅G_1—pk_0.
+>
+> The attacker would not know the private key associated with the public key. However, the multi-signature verification would give the following:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSKQcXgAUv_ED.png — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373824222236889
+- Metrics (at fetch): bookmark 0, impression 1077, like 5, quote 0, reply 1, retweet 0
+
+> Only `sk_1` is needed to sign a message resulting in a valid multi-signature, even though the first user may not have signed it.
+>
+> This is easily generalized to any number `r` of honest users by choosing the rogue key, being: [pic.x.com/sxSfTuzDDk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSMj7bwAAjfc2.png — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373826629800187
+- Metrics (at fetch): bookmark 0, impression 990, like 6, quote 0, reply 1, retweet 0
+
+> This is a dangerous threat since, in our previous AVS example, a malicious aggregator that would have previously registered a rogue key could send aggregate signatures not signed by the validators but still be accepted by the contract.
+>
+> This would lead to validators being slashed even if they did not misbehave.
+
+
+### Thread part 11 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373828907221181
+- Metrics (at fetch): bookmark 0, impression 1014, like 6, quote 0, reply 1, retweet 0
+
+> So, to prevent a rogue-key attack, the common method is to request users to prove they know the private key matches their public key, known as proof of possession.
+>
+> Thus, in the first registration step, the user is requested to register their public key together with proof of possession π such that:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSaQqXgAMwMmA.png — no alt text provided by author
+
+
+### Thread part 12 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373831188930611
+- Metrics (at fetch): bookmark 0, impression 889, like 4, quote 0, reply 1, retweet 0
+
+> Basically, the user is requested to sign their public key or any other identification message. In AVS, the message is the operator address.
+>
+> In the EigenLayer contract, the proof of possession is verified by the `registerBLSPublicKey` function: [pic.x.com/ep5YeDHutd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSdSQaQAAPy8A.jpg — no alt text provided by author
+
+
+### Thread part 13 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373834477302056
+- Metrics (at fetch): bookmark 0, impression 786, like 4, quote 0, reply 1, retweet 0
+
+> The function `pubkeyRegistrationMessageHash` is used to hash the custom domain separator `PUBKEY_REGISTRATION_TYPEHASH` and the operator address. [pic.x.com/7fpKpkwjSH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSg6UacAAJ6E-.jpg — no alt text provided by author
+
+
+### Thread part 14 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373837484659020
+- Metrics (at fetch): bookmark 0, impression 764, like 4, quote 0, reply 1, retweet 0
+
+> After registration, the public key is added to the contract. We can verify its value by calling the `getRegisteredPubkey` function.
+>
+> Here is an example of a BLS public key registered for EigenDA AVS: [pic.x.com/ds1wiagbuB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtvSjNeXgAEjch9.jpg — no alt text provided by author
+
+
+### Thread part 15 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373840202481749
+- Metrics (at fetch): bookmark 0, impression 739, like 5, quote 0, reply 1, retweet 0
+
+> Proof of possession is basically a BLS signature. However, it is also not advisable to use multi-signatures during the proof-of-possession step, for example, to register multiple public keys for a single participant.
+>
+> If so, the participant would achieve a splitting-zero attack. In this case, the participant could register keys that would cancel out when summed together and could bypass the proof of possession.
+
+
+### Thread part 16 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373841993535702
+- Metrics (at fetch): bookmark 0, impression 1302, like 5, quote 0, reply 1, retweet 0
+
+> We’ve seen that BLS multi-signatures offer a significant optimization opportunity.
+>
+> EigenLayer’s implementation demonstrates the power of BLS signatures and also highlights the complexities involved in their practical deployment. However, multi-signatures introduce security risks such as rogue-key attacks, which necessitate safeguards like proof of possession.
+>
+> But with the Pectra upgrade supporting BLS12-381, we may see further implementation and improvements in Solidity, and thus we hope this post helps to avoid known implementation bugs and vulnerabilities.
+
+
+### Thread part 17 — @zellic_io — 2025-06-18 16:27 UTC (2025-06-18 17:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1935373843352404116
+- Metrics (at fetch): bookmark 10, impression 1484, like 20, quote 0, reply 1, retweet 4
+
+> For a deeper dive into BLS signatures, building aggregation, and multi-signatures, check out our recently published blog post below: https://www.zellic.io/blog/bls-signature-versatility/
+
+**Links in post:** https://www.zellic.io/blog/bls-signature-versatility/
+
+
 ---
 
-## 2025-06-17 · Post · We're proud to announce that Code4rena contests will be free (no fees), starting today!
+## 2025-06-17 · Thread · We're proud to announce that Code4rena contests will be free (no fees), starting today!
 
 
 Tags (automatic): Platform: Code4rena / Sherlock / Cantina
@@ -1337,6 +1701,30 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     
 
 
+### Thread part 2 — @zellic_io — 2025-06-17 15:21 UTC (2025-06-17 16:21 WAT)
+
+- URL: https://x.com/zellic_io/status/1934994698101465221
+- Metrics (at fetch): bookmark 0, impression 1408, like 7, quote 0, reply 0, retweet 0
+
+> Oh and: we weren't kidding about Zellic clients doing audit competitions
+>
+> https://t.co/mewkf6cH00
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1530530365 — 2025-06-16 20:21 UTC (2025-06-16 21:21 WAT)
+    
+    - URL: https://x.com/1530530365/status/1934707986926325790
+    - Metrics (at fetch): bookmark 13, impression 60138, like 593, quote 3, reply 24, retweet 78
+    
+    > The competitive audit for a new version of Chainlink Rewards, featuring a $200K prize pool, has just begun on @code4rena and will run for 30 days.
+    >
+    > Chainlink Rewards is a community engagement and rewards program designed to incentivize active participation in the Chainlink https://t.co/Cjp7V5TaVw
+    
+    **Quoted post** 1934702526047375377: not readable via the API (deleted, private, or withheld).
+    
+
+
 ---
 
 ## 2025-06-13 · Post · We are incredibly proud to be a contributor to the @injective ecosystem!
@@ -1359,7 +1747,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-05-27 · Post · We are proud to be a participating validator for the new @Injective Validator Rebate Campaign!
+## 2025-05-27 · Thread · We are proud to be a participating validator for the new @Injective Validator Rebate Campaign!
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1377,9 +1765,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Quoted post** 1927380093711606208: not readable via the API (deleted, private, or withheld).
 
 
+### Thread part 2 — @zellic_io — 2025-05-27 16:15 UTC (2025-05-27 17:15 WAT)
+
+- URL: https://x.com/zellic_io/status/1927398150819447113
+- Metrics (at fetch): bookmark 0, impression 501, like 2, quote 0, reply 1, retweet 0
+
+> Delegate to Zellic's @Injective validator from the Injective Staking Hub: https://t.co/rTWapSl6Jx
+
+
+### Thread part 3 — @zellic_io — 2025-05-27 16:15 UTC (2025-05-27 17:15 WAT)
+
+- URL: https://x.com/zellic_io/status/1927398154204266865
+- Metrics (at fetch): bookmark 0, impression 499, like 2, quote 0, reply 0, retweet 0
+
+> Delegate to Zellic's @Injective validator from the @mintscanio staking interface: https://t.co/jI1lslNkVo
+
+
 ---
 
-## 2025-05-23 · Post · Last month, @chrisling_dev introduced WHLUSDC, a Hyperliquid-native stablecoin.
+## 2025-05-23 · Thread · Last month, @chrisling_dev introduced WHLUSDC, a Hyperliquid-native stablecoin.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
@@ -1397,6 +1804,237 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GrmzTXNWEAASJGC.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940820303044725
+- Metrics (at fetch): bookmark 1, impression 1034, like 6, quote 0, reply 1, retweet 0
+
+> HyperEVM is an EVM-compatible execution environment on the Hyperliquid blockchain, with experimental support for precompiles that interact with HyperCore, Hyperliquid's native state.
+>
+> HLUSDC is an ERC20 token intended to be backed by HyperCore spot USDC. 
+>
+> HLUSDC is minted
+
+
+### Thread part 3 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940823012626526
+- Metrics (at fetch): bookmark 1, impression 959, like 4, quote 0, reply 1, retweet 0
+
+> To mint HLUSDC normally:
+>
+> • A user instantiates an HLUSDCIssuer,
+> • Sends it spot USDC corresponding to the amount of HLUSDC they want to mint,
+> • Calls the issuer's `initiateMintRequest` method with the amount to mint (which sends the spot USDC to the HLUSDC contract as
+
+
+### Thread part 4 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940824879050992
+- Metrics (at fetch): bookmark 1, impression 872, like 5, quote 0, reply 1, retweet 0
+
+> The issuer contract doesn't directly observe if the transfer of the collateral in `initiateMintRequest` succeeds, it infers it from the difference in its balance at the beginning of the EVM block when `initiateMintRequest` occurs relative to its balance at the beginning of the
+
+
+### Thread part 5 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940826640621633
+- Metrics (at fetch): bookmark 1, impression 817, like 4, quote 0, reply 1, retweet 0
+
+> This leads to two issues:
+>
+> 1. A minor griefing issue where if another user donates spot USDC to the minting user's issuer after `initiateMintRequest`, a smaller amount of HLUSDC is minted than expected by `completeMint` (though the donated amount is under the minting user's
+
+
+### Thread part 6 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940828570063242
+- Metrics (at fetch): bookmark 0, impression 754, like 3, quote 0, reply 1, retweet 0
+
+> The steps for the arbitrary mint exploit are as follows:
+>
+> 1. A user creates an issuer account with `HLUSDCIssuerFactory.createIssuerAccount`, and funds it with `sendSpot`.
+>
+> 2. The user calls `HLUSDCIssuer.withdrawSpot(0, amount-1)` in the same transaction as, but prior to
+
+
+### Thread part 7 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940830792990821
+- Metrics (at fetch): bookmark 1, impression 674, like 2, quote 0, reply 1, retweet 0
+
+> A contract that executes these steps is: https://t.co/vxSwkELTHE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrmzzWfW4AAqt6v.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940835381600755
+- Metrics (at fetch): bookmark 0, impression 1112, like 3, quote 0, reply 1, retweet 0
+
+> As of the time of writing, the HLUSDC contract as well as the precompiles for querying HyperCore balance and queueing HyperCore spot transfers are only present on Hyperliquid's testnet, not mainnet.
+
+
+### Thread part 9 — @zellic_io — 2025-05-23 15:44 UTC (2025-05-23 16:44 WAT)
+
+- URL: https://x.com/zellic_io/status/1925940837000560744
+- Metrics (at fetch): bookmark 0, impression 1047, like 4, quote 0, reply 0, retweet 0
+
+> For more Zellic research and writing, including a look into how we were able to retrieve every single contract ever deployed on Ethereum, check out our blog here: https://t.co/CGve4MMjnN
+
+
+---
+
+## 2025-05-21 · Post · Collateralized debt positions (CDPs) and lending protocols are at the core of DeFi.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281840644116480
+- Metrics (at fetch): bookmark 3, impression 976, like 2, quote 0, reply 1, retweet 0
+
+> Collateralized debt positions (CDPs) and lending protocols are at the core of DeFi.
+>
+> For tips on how not to create a DeFi CDP/lending protocol, including common bugs in both components, check out our blog here: https://t.co/JryZlAk2RQ
+
+
+---
+
+## 2025-05-21 · Post · After many ZK audits, we’ve identified general tips and important questions to answer when auditing 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281839071277168
+- Metrics (at fetch): bookmark 0, impression 234, like 1, quote 0, reply 1, retweet 0
+
+> After many ZK audits, we’ve identified general tips and important questions to answer when auditing ZK applications.
+>
+> For a look into Zellic’s ZK audit process and techniques to employ when examining ZK circuits, check out this blog: https://t.co/GOuRtpVBTo
+
+
+---
+
+## 2025-05-21 · Post · Sometimes the security of MPC wallets can be compromised when used incorrectly.
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281836365992340
+- Metrics (at fetch): bookmark 1, impression 238, like 1, quote 0, reply 1, retweet 0
+
+> Sometimes the security of MPC wallets can be compromised when used incorrectly.
+>
+> In this guide, we look into the components of MPC wallets and real-world examples of how MPC wallets can be exploited: https://t.co/GlHxpD0pmw
+
+
+---
+
+## 2025-05-21 · Post · ERC-4626 is a standard for tokenized vaults.
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281834453410077
+- Metrics (at fetch): bookmark 1, impression 226, like 2, quote 0, reply 1, retweet 0
+
+> ERC-4626 is a standard for tokenized vaults.
+>
+> ERC-4626 speeds up the building of cross-protocol integrations, but there are always trade-offs; in this blog post, we cover the potential security pitfalls under ERC-4626: https://t.co/dRJ23frke5
+
+
+---
+
+## 2025-05-21 · Post · Cairo 1.0 is a Rust-inspired language designed to allow anyone to create STARK-provable smart contra
+
+
+Tags (automatic): Smart contract / DeFi, ZK
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281832851173864
+- Metrics (at fetch): bookmark 0, impression 247, like 1, quote 0, reply 1, retweet 0
+
+> Cairo 1.0 is a Rust-inspired language designed to allow anyone to create STARK-provable smart contracts.
+>
+> Check out our guide for a brief look at Cairo 1.0, Starknet, and the security considerations when writing contracts in Cairo: https://t.co/jrAWTSlRjU
+
+
+---
+
+## 2025-05-21 · Post · The Cosmos SDK provides a framework to easily create application-specific chains that can communicat
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281831227990137
+- Metrics (at fetch): bookmark 0, impression 267, like 1, quote 0, reply 1, retweet 0
+
+> The Cosmos SDK provides a framework to easily create application-specific chains that can communicate with other chains via the IBC protocol.
+>
+> Here’s a developer’s guide to building secure applications on Cosmos: https://t.co/73rCSs7aeT
+
+
+---
+
+## 2025-05-21 · Post · And after many Move audits, we’ve noticed patterns of bugs emerging.
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281829718040683
+- Metrics (at fetch): bookmark 1, impression 276, like 2, quote 0, reply 1, retweet 0
+
+> And after many Move audits, we’ve noticed patterns of bugs emerging.
+>
+> Here are the top 10 most common bugs that we have found when auditing Move contracts: https://t.co/CJgpyQGQFO
+
+
+---
+
+## 2025-05-21 · Post · Sui has some important differences compared to Aptos that developers should know, especially for sec
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281828136788396
+- Metrics (at fetch): bookmark 0, impression 315, like 3, quote 0, reply 1, retweet 0
+
+> Sui has some important differences compared to Aptos that developers should know, especially for secure smart contract development.
+>
+> Read up on the security pitfalls of the Move language in Sui compared to Aptos: https://t.co/VQ1RM6E8KN
+
+
+---
+
+## 2025-05-21 · Post · Two teams (Aptos and Sui) comprise the majority of the Move ecosystem today.
+
+
+### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281826576421308
+- Metrics (at fetch): bookmark 2, impression 334, like 3, quote 0, reply 1, retweet 0
+
+> Two teams (Aptos and Sui) comprise the majority of the Move ecosystem today.
+>
+> Here we explore the security pitfalls of the Aptos Move language: https://t.co/KLv6jJk4Gw
 
 
 ---

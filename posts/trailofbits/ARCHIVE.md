@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 221
+- Posts in this file: 228
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -1528,7 +1528,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native, AI-as
 
 ---
 
-## 2025-01-23 · Post · Our team submitted 750+ pull requests to improve 80+ open-source projects in 2024. These contributio
+## 2025-01-23 · Thread · Our team submitted 750+ pull requests to improve 80+ open-source projects in 2024. These contributio
+
+
+Tags (automatic): Memory corruption / native
 
 
 ### Post — @trailofbits — 2025-01-23 14:11 UTC (2025-01-23 15:11 WAT)
@@ -1539,9 +1542,27 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native, AI-as
 > Our team submitted 750+ pull requests to improve 80+ open-source projects in 2024. These contributions strengthen critical security infrastructure, from foundational cryptography libraries to package managers that security engineers rely on daily.
 
 
+### Thread part 2 — @trailofbits — 2025-01-23 14:28 UTC (2025-01-23 15:28 WAT)
+
+- URL: https://x.com/trailofbits/status/1882435239647363371
+- Metrics (at fetch): bookmark 1, impression 1050, like 10, quote 0, reply 0, retweet 1
+
+> Key contributions include:
+>  • LLVM gained container overflow detection
+>  • pwndbg has an LLDB port and other new features 
+> • hevm supports Cancun opcodes
+> • we implemented NIST-standardized PQC signature schemes in Rust and Go.
+> https://blog.trailofbits.com/2025/01/23/celebrating-our-2024-open-source-contributions/?utm_content=322648478&utm_medium=social&utm_source=linkedin&hss_channel=lcp-912286
+
+**Links in post:** https://blog.trailofbits.com/2025/01/23/celebrating-our-2024-open-source-contributions/?utm_content=322648478&utm_medium=social&utm_source=linkedin&hss_channel=lcp-912286
+
+
 ---
 
-## 2024-12-19 · Post · Who examines package manager security? We do, as highlighted on @SecWeekly (ASW 311), discussing ou
+## 2024-12-19 · Thread · Who examines package manager security? We do, as highlighted on @SecWeekly (ASW 311), discussing ou
+
+
+Tags (automatic): Dependency confusion / supply chain, TEE / enclave
 
 
 ### Post — @trailofbits — 2024-12-19 18:35 UTC (2024-12-19 19:35 WAT)
@@ -1549,11 +1570,27 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native, AI-as
 - URL: https://x.com/trailofbits/status/1869813763928666224
 - Metrics (at fetch): bookmark 1, impression 2264, like 5, quote 0, reply 1, retweet 0
 
-> Who examines package manager security? We do, as highlighted on @SecWeekly (ASW #311), discussing our audit of the Ruby central package manager, https://t.co/Bi3VCZiBR0
-> https://t.co/CApLST5TXe https://t.co/TVjKdW6qTq
+> Who examines package manager security? We do, as highlighted on @SecWeekly (ASW #311), discussing our audit of the Ruby central package manager, http://RubyGems.org
+> https://youtu.be/6ocFzjANthg?t=1799 [pic.x.com/TVjKdW6qTq]
 
 **Media:**
 - video:  — no alt text provided by author
+
+**Links in post:** http://RubyGems.org, https://youtu.be/6ocFzjANthg?t=1799
+
+
+### Thread part 2 — @trailofbits — 2024-12-20 15:59 UTC (2024-12-20 16:59 WAT)
+
+- URL: https://x.com/trailofbits/status/1870137003746177218
+- Metrics (at fetch): bookmark 2, impression 1438, like 4, quote 0, reply 0, retweet 1
+
+> We are advancing packaging security across the Ruby and Python ecosystems:
+> • RubyGems: https://blog.trailofbits.com/2024/12/11/auditing-the-ruby-ecosystems-central-package-repository/
+> • Trusted publishing in PyPI: https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/
+> • Replacing PGP signatures with attestations: https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/
+> • Software supply chain: https://blog.trailofbits.com/2024/10/01/securing-the-software-supply-chain-with-the-slsa-framework/
+
+**Links in post:** https://blog.trailofbits.com/2024/12/11/auditing-the-ruby-ecosystems-central-package-repository/, https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/, https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/, https://blog.trailofbits.com/2024/10/01/securing-the-software-supply-chain-with-the-slsa-framework/
 
 
 ---
@@ -1574,7 +1611,7 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2024-10-31 · Post · ToB's @arturcygan found code execution and DoS bugs after just a few hours of fuzzing ZBar, an open-
+## 2024-10-31 · Thread · ToB's @arturcygan found code execution and DoS bugs after just a few hours of fuzzing ZBar, an open-
 
 
 Tags (automatic): RCE
@@ -1586,12 +1623,30 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 26, impression 6563, like 71, quote 0, reply 1, retweet 18
 
 > ToB's @arturcygan found code execution and DoS bugs after just a few hours of fuzzing ZBar, an open-source library for reading barcodes.
-> tl;dr basic fuzz testing can reveal serious bugs - even in widely used software. https://t.co/fbwBhAJSLT
+> tl;dr basic fuzz testing can reveal serious bugs - even in widely used software. https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/
+
+**Links in post:** https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/
+
+
+### Thread part 2 — @trailofbits — 2024-10-31 15:52 UTC (2024-10-31 16:52 WAT)
+
+- URL: https://x.com/trailofbits/status/1852015841384055158
+- Metrics (at fetch): bookmark 2, impression 1056, like 6, quote 0, reply 0, retweet 3
+
+> @arturcygan Takeaways for security teams:
+> - Don't assume popular code has been fuzzed 
+> - Start with simple fuzzing harnesses 
+> - Build with sanitizers enabled - they catch issues early
+> - Limit attack surface by disabling unnecessary features
+> - Focus on code that processes untrusted input
 
 
 ---
 
-## 2024-10-10 · Post · We audited Gradio 5, @HuggingFace's ML GUI framework. Beyond bug-finding, we advised on SDLC enhance
+## 2024-10-10 · Thread · We audited Gradio 5, @HuggingFace's ML GUI framework. Beyond bug-finding, we advised on SDLC enhance
+
+
+Tags (automatic): SSRF, RCE
 
 
 ### Post — @trailofbits — 2024-10-10 16:22 UTC (2024-10-10 17:22 WAT)
@@ -1599,7 +1654,45 @@ Tags (automatic): RCE
 - URL: https://x.com/trailofbits/status/1844413248021356792
 - Metrics (at fetch): bookmark 8, impression 19231, like 31, quote 2, reply 1, retweet 6
 
-> We audited Gradio 5, @HuggingFace's ML GUI framework. Beyond bug-finding, we advised on SDLC enhancements: security testing integration, fuzz testing implementation, and deployment streamlining for improved security. https://t.co/517KHSflj3
+> We audited Gradio 5, @HuggingFace's ML GUI framework. Beyond bug-finding, we advised on SDLC enhancements: security testing integration, fuzz testing implementation, and deployment streamlining for improved security. https://blog.trailofbits.com/2024/10/10/auditing-gradio-5-hugging-faces-ml-gui-framework/
+
+**Links in post:** https://blog.trailofbits.com/2024/10/10/auditing-gradio-5-hugging-faces-ml-gui-framework/
+
+
+### Thread part 2 — @trailofbits — 2024-10-10 16:22 UTC (2024-10-10 17:22 WAT)
+
+- URL: https://x.com/trailofbits/status/1844413249199939670
+- Metrics (at fetch): bookmark 1, impression 1466, like 3, quote 0, reply 1, retweet 2
+
+> @huggingface Gradio enables ML engineers to create interactive web demos for models with minimal code. It's widely used, powering popular projects like Stable-diffusion-webui and text-generation-webui. 
+> https://huggingface.co/blog/gradio-5-security [pic.x.com/8XLhTFacpG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZisEvjXUBAvs2A.jpg — no alt text provided by author
+
+**Links in post:** https://huggingface.co/blog/gradio-5-security
+
+
+### Thread part 3 — @trailofbits — 2024-10-10 16:22 UTC (2024-10-10 17:22 WAT)
+
+- URL: https://x.com/trailofbits/status/1844413251389452789
+- Metrics (at fetch): bookmark 0, impression 2250, like 5, quote 0, reply 1, retweet 2
+
+> Our audit uncovered 8 high-severity issues, including an RCE vulnerability on the Gradio API Server, SSRF in server configurations, and arbitrary file leaks. The Gradio team fixed all reported issues in the latest release (Gradio 5), strengthening security across all deployment scenarios.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZisEv_WsAo75B0.jpg — no alt text provided by author
+
+
+### Thread part 4 — @trailofbits — 2024-10-10 16:22 UTC (2024-10-10 17:22 WAT)
+
+- URL: https://x.com/trailofbits/status/1844413253146828864
+- Metrics (at fetch): bookmark 3, impression 2259, like 6, quote 0, reply 0, retweet 1
+
+> @huggingface For a detailed analysis of our findings and the security enhancements implemented in Gradio 5, read our full report: 
+> https://github.com/trailofbits/publications/blob/master/reviews/2024-10-huggingface-gradio-securityreview.pdf
+
+**Links in post:** https://github.com/trailofbits/publications/blob/master/reviews/2024-10-huggingface-gradio-securityreview.pdf
 
 
 ---
@@ -1724,7 +1817,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2024-07-02 · Post · Async-unsafe signal handlers are at the core of the recent regreSSHion vulnerability (CVE-2024-6387)
+## 2024-07-02 · Thread · Async-unsafe signal handlers are at the core of the recent regreSSHion vulnerability (CVE-2024-6387)
 
 
 ### Post — @trailofbits — 2024-07-02 21:36 UTC (2024-07-02 22:36 WAT)
@@ -1735,6 +1828,16 @@ Tags (automatic): AI-assisted hunting
 > Async-unsafe signal handlers are at the core of the recent regreSSHion vulnerability (CVE-2024-6387). We published a new CodeQL query that searches for this often overlooked class of bugs.
 >
 > https://t.co/4vEmP7wqrw
+
+
+### Thread part 2 — @trailofbits — 2024-07-02 21:36 UTC (2024-07-02 22:36 WAT)
+
+- URL: https://x.com/trailofbits/status/1808253411906728214
+- Metrics (at fetch): bookmark 2, impression 1494, like 5, quote 0, reply 0, retweet 0
+
+> Install and run our CodeQL query packs to search your codebase for this insecure pattern. https://appsec.guide/docs/static-analysis/codeql/installation/#installing-new-query-packs
+
+**Links in post:** https://appsec.guide/docs/static-analysis/codeql/installation/#installing-new-query-packs
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 314
+- Posts in this file: 329
 - Conversations/threads: 303
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
@@ -1844,7 +1844,9 @@ Tags (automatic): Memory corruption / native
     > I'm thrilled to announce "Listen to the whispers: web timing attacks that actually work" will premiere at Black Hat USA!  
     >
     > After nine months of running bulk timing attacks on  thousands of live sites, I've got a lot to share :D #BHUSA @BlackHatEvents 
-    > https://t.co/YsrfM0SUm7
+    > https://www.blackhat.com/us-24/briefings/schedule/index.html#listen-to-the-whispers-web-timing-attacks-that-actually-work-38297
+    
+    **Links in post:** https://www.blackhat.com/us-24/briefings/schedule/index.html#listen-to-the-whispers-web-timing-attacks-that-actually-work-38297
     
 
 
@@ -1876,7 +1878,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2024-07-10 · Post · This time-based ORM leak attack on Prisma by @elttam  is a beautiful example of abusing framework fe
+## 2024-07-10 · Thread · This time-based ORM leak attack on Prisma by @elttam  is a beautiful example of abusing framework fe
 
 
 ### Post — @albinowax — 2024-07-10 12:16 UTC (2024-07-10 13:16 WAT)
@@ -1885,7 +1887,21 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 59, impression 11678, like 147, quote 0, reply 2, retweet 26
 
 > This time-based ORM leak attack on Prisma by @elttam  is a beautiful example of abusing framework features to make timing attacks that work in the wild
-> https://t.co/OU9WFaE5w1
+> https://www.elttam.com/blog/plorming-your-primsa-orm/
+
+**Links in post:** https://www.elttam.com/blog/plorming-your-primsa-orm/
+
+
+### Thread part 2 — @albinowax — 2024-07-10 12:19 UTC (2024-07-10 13:19 WAT)
+
+- URL: https://x.com/albinowax/status/1811012431067447605
+- Metrics (at fetch): bookmark 4, impression 3046, like 24, quote 0, reply 2, retweet 3
+
+> @elttam In "Listen to the Whispers: Web Timing Attacks that Actually Work" I'll briefly touch on this concept then take a completely different approach  :)
+>
+> https://portswigger.net/research/talks?talkId=24
+
+**Links in post:** https://portswigger.net/research/talks?talkId=24
 
 
 ---
@@ -1931,7 +1947,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2024-05-23 · Post · I'm thrilled to announce "Listen to the whispers: web timing attacks that actually work" will premie
+## 2024-05-23 · Thread · I'm thrilled to announce "Listen to the whispers: web timing attacks that actually work" will premie
 
 
 ### Post — @albinowax — 2024-05-23 12:22 UTC (2024-05-23 13:22 WAT)
@@ -1942,7 +1958,20 @@ Tags (automatic): Memory corruption / native
 > I'm thrilled to announce "Listen to the whispers: web timing attacks that actually work" will premiere at Black Hat USA!  
 >
 > After nine months of running bulk timing attacks on  thousands of live sites, I've got a lot to share :D #BHUSA @BlackHatEvents 
-> https://t.co/YsrfM0SUm7
+> https://www.blackhat.com/us-24/briefings/schedule/index.html#listen-to-the-whispers-web-timing-attacks-that-actually-work-38297
+
+**Links in post:** https://www.blackhat.com/us-24/briefings/schedule/index.html#listen-to-the-whispers-web-timing-attacks-that-actually-work-38297
+
+
+### Thread part 2 — @albinowax — 2024-05-28 15:26 UTC (2024-05-28 16:26 WAT)
+
+- URL: https://x.com/albinowax/status/1795476628224508358
+- Metrics (at fetch): bookmark 16, impression 7158, like 90, quote 1, reply 1, retweet 8
+
+> 12 years ago, I reported my first ever timing attack - an XS-leak to steal Firefox 0-days from Bugzilla. It was quite a learning experience, and in retrospect I can see some clues that should have made me realise how endemic timing side-channels are
+> https://youtu.be/skbKjO8ahCI?t=480
+
+**Links in post:** https://youtu.be/skbKjO8ahCI?t=480
 
 
 ---
@@ -2075,10 +2104,10 @@ Tags (automatic): Request smuggling / desync
 
 ---
 
-## 2023-10-19 · Post · To anyone reporting formula injection, I'd suggest focusing on doing data exfiltration via DNS, as t
+## 2023-10-19 · Thread · To anyone reporting formula injection, I'd suggest focusing on doing data exfiltration via DNS, as t
 
 
-Tags (automatic): RCE
+Tags (automatic): XSS, RCE
 
 
 ### Post — @albinowax — 2023-10-19 19:18 UTC (2023-10-19 20:18 WAT)
@@ -2101,6 +2130,32 @@ Tags (automatic): RCE
     >
     > Formula injection, also known as "CSV Injection" occurs when an attacker can insert Excel-like formula (e.g. =1+1) into an application's CSV
     
+
+
+### Thread part 2 — @albinowax — 2023-10-19 20:13 UTC (2023-10-19 21:13 WAT)
+
+- URL: https://x.com/albinowax/status/1715098903685513635
+- Metrics (at fetch): bookmark 0, impression 650, like 1, quote 0, reply 2, retweet 0
+
+> @milesrichardson You can extract content from other cells in the subdomain
+
+
+### Thread part 3 — @albinowax — 2023-10-19 20:15 UTC (2023-10-19 21:15 WAT)
+
+- URL: https://x.com/albinowax/status/1715099271651815451
+- Metrics (at fetch): bookmark 8, impression 348, like 8, quote 0, reply 0, retweet 1
+
+> @milesrichardson I shared the payload in this presentation iirc https://m.youtube.com/watch?v=skbKjO8ahCI
+
+**Links in post:** https://m.youtube.com/watch?v=skbKjO8ahCI
+
+
+### Thread part 4 — @albinowax — 2023-10-20 07:37 UTC (2023-10-20 08:37 WAT)
+
+- URL: https://x.com/albinowax/status/1715271044766765387
+- Metrics (at fetch): bookmark 0, impression 841, like 7, quote 0, reply 0, retweet 0
+
+> @0xTib3rius More similar to CSS injection than XSS really! I think the only major difference is that it's not a browser doing the rendering. At this point, having browsers render XLSX/CSV inline is about the only thing that would save the bug class 😂
 
 
 ---
@@ -2147,7 +2202,10 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-09-29 · Post · The inevitable has finally happened - someone's used a technique I published to hack a website I mad
+## 2023-09-29 · Thread · The inevitable has finally happened - someone's used a technique I published to hack a website I mad
+
+
+Tags (automatic): Race condition
 
 
 ### Post — @albinowax — 2023-09-29 12:20 UTC (2023-09-29 13:20 WAT)
@@ -2159,7 +2217,17 @@ Tags (automatic): RCE
 >
 > 0x999 used the single-packet attack to get double points on a hackxor mission and top the leaderboard, then thoughtfully notified me 😂
 >
-> https://t.co/fNdFdAKbU1
+> https://hackxor.net/leaderboard
+
+**Links in post:** https://hackxor.net/leaderboard
+
+
+### Thread part 2 — @albinowax — 2023-09-29 12:22 UTC (2023-09-29 13:22 WAT)
+
+- URL: https://x.com/albinowax/status/1707732547633922398
+- Metrics (at fetch): bookmark 0, impression 6664, like 41, quote 0, reply 2, retweet 0
+
+> Hackxor's leaderboard is stored on a super fast in-memory Redis database located on the same machine, so at least it's a great advert for how the single-packet attack makes tiny race windows exploitable!
 
 
 ---
@@ -2236,10 +2304,10 @@ Tags (automatic): Race condition
 
 ---
 
-## 2023-08-13 · Post · Just been shown an awesome race attack  by @itscachemoney on Shopify for $15k back in 2017! This is 
+## 2023-08-13 · Thread · Just been shown an awesome race attack  by @itscachemoney on Shopify for $15k back in 2017! This is 
 
 
-Tags (automatic): Race condition
+Tags (automatic): Race condition, Platform: HackerOne
 
 
 ### Post — @albinowax — 2023-08-13 17:34 UTC (2023-08-13 18:34 WAT)
@@ -2248,9 +2316,21 @@ Tags (automatic): Race condition
 - Metrics (at fetch): bookmark 107, impression 23947, like 304, quote 0, reply 4, retweet 47
 
 > Just been shown an awesome race attack  by @itscachemoney on Shopify for $15k back in 2017! This is the same attack concept described in my Gitlab multi-endpoint example. You can practise on this lab:
-> https://t.co/6PjRjNwmDs
-> https://t.co/hzeRTlfosf
-> https://t.co/jShyUnLQTC
+> https://portswigger.net/research/smashing-the-state-machine#multi-endpoint
+> https://portswigger.net/web-security/race-conditions#multi-endpoint-race-conditions
+> https://hackerone.com/reports/300305
+
+**Links in post:** https://portswigger.net/research/smashing-the-state-machine#multi-endpoint, https://portswigger.net/web-security/race-conditions#multi-endpoint-race-conditions, https://hackerone.com/reports/300305
+
+
+### Thread part 2 — @albinowax — 2023-08-13 17:44 UTC (2023-08-13 18:44 WAT)
+
+- URL: https://x.com/albinowax/status/1690781333562507264
+- Metrics (at fetch): bookmark 8, impression 4495, like 35, quote 0, reply 0, retweet 3
+
+> If you want to practise lining up race windows on different endpoints, you can also use this lab but beware it's pretty difficult! https://portswigger.net/web-security/race-conditions/lab-race-conditions-partial-construction
+
+**Links in post:** https://portswigger.net/web-security/race-conditions/lab-race-conditions-partial-construction
 
 
 ---
@@ -2295,7 +2375,7 @@ Tags (automatic): Race condition
 
 ---
 
-## 2023-07-20 · Post · "I can easily attribute over $250,000 worth of bounties to this class of attack" - @bugbountyhq
+## 2023-07-20 · Thread · "I can easily attribute over $250,000 worth of bounties to this class of attack" - @bugbountyhq
 
 
 ### Post — @albinowax — 2023-07-20 13:15 UTC (2023-07-20 14:15 WAT)
@@ -2307,7 +2387,20 @@ Tags (automatic): Race condition
 >
 > A hacking technique can seem blindingly obvious, and still be massively overlooked. Still love this post from 2016.
 >
-> https://t.co/AXZPraiOxl
+> https://web.archive.org/web/20160907083447/https://www.bugbountyhq.com/front/latestnews/dWRWR0thQ2ZWOFN5cTE1cXQrSFZmUT09/
+
+**Links in post:** https://web.archive.org/web/20160907083447/https://www.bugbountyhq.com/front/latestnews/dWRWR0thQ2ZWOFN5cTE1cXQrSFZmUT09/
+
+
+### Thread part 2 — @albinowax — 2023-07-20 13:20 UTC (2023-07-20 14:20 WAT)
+
+- URL: https://x.com/albinowax/status/1682017705514205184
+- Metrics (at fetch): bookmark 26, impression 7409, like 64, quote 0, reply 0, retweet 9
+
+> @BugBountyHQ This post was part of the inspiration behind Param Miner - there's some pretty complex logic dedicated to RTRI that kicks off sometimes. I still think there's potential for deeper automation there.
+> https://github.com/PortSwigger/param-miner
+
+**Links in post:** https://github.com/PortSwigger/param-miner
 
 
 ---
@@ -2384,7 +2477,7 @@ Tags (automatic): Race condition
 
 ---
 
-## 2023-03-15 · Post · I'm probably not the first to suggest this, but it feels like every bounty program wants hackers to 
+## 2023-03-15 · Thread · I'm probably not the first to suggest this, but it feels like every bounty program wants hackers to 
 
 
 Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
@@ -2397,6 +2490,14 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 > I'm probably not the first to suggest this, but it feels like every bounty program wants hackers to self-identify with a different custom HTTP header. Seems like a great opportunity to standardise?
 > @Hacker0x01 @Bugcrowd @intigriti
+
+
+### Thread part 2 — @albinowax — 2023-03-15 10:34 UTC (2023-03-15 11:34 WAT)
+
+- URL: https://x.com/albinowax/status/1635952488682487813
+- Metrics (at fetch): bookmark 0, impression 5927, like 17, quote 1, reply 0, retweet 0
+
+> @Hacker0x01 @Bugcrowd @intigriti It'd provide a foundation for doing actual verification to stop malicious hackers from impersonating people too, if that becomes an issue.
 
 
 ---
@@ -2415,6 +2516,75 @@ Tags (automatic): Auth bypass
 > Love this auth bypass via JSON Injection found by 
 > @GHSecurityLab, it's such an underrated attack class. Backslash Powered Scanner can detect JSON Injection but it takes dedication to build a real exploit black-box.
 > https://t.co/52Folk1Cbe
+
+
+---
+
+## 2023-02-10 · Thread · Looks like Truffle Security has been digging through hackers' XSS Hunter data. Trusting a free servi
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2023-02-10 10:19 UTC (2023-02-10 11:19 WAT)
+
+- URL: https://x.com/albinowax/status/1623990046100430848
+- Metrics (at fetch): bookmark 33, impression 49817, like 198, quote 4, reply 6, retweet 46
+
+> Looks like Truffle Security has been digging through hackers' XSS Hunter data. Trusting a free service with your data works most of the time, but not every time.
+> https://portswigger.net/daily-swig/new-xss-hunter-host-truffle-security-faces-privacy-backlash
+
+**Links in post:** https://portswigger.net/daily-swig/new-xss-hunter-host-truffle-security-faces-privacy-backlash
+
+
+### Thread part 2 — @albinowax — 2023-02-10 10:23 UTC (2023-02-10 11:23 WAT)
+
+- URL: https://x.com/albinowax/status/1623990955081707520
+- Metrics (at fetch): bookmark 0, impression 4421, like 12, quote 0, reply 1, retweet 1
+
+> The glib solution is to self-host everything, but you still have to trust your hosting provider. When deciding host vs trust, look at the service's architecture - what data are you handing them? How useful will they find it? What's their business model?
+
+
+### Thread part 3 — @albinowax — 2023-02-10 10:29 UTC (2023-02-10 11:29 WAT)
+
+- URL: https://x.com/albinowax/status/1623992574372376582
+- Metrics (at fetch): bookmark 0, impression 7653, like 31, quote 0, reply 3, retweet 1
+
+> I don't want to use this for marketing but if I don't mention Burp Collaborator, someone else will. So, when designing collaborator, we tried to minimise how much useful data the server has access to. I'd still recommend self-hosting because:
+> https://portswigger.net/burp/documentation/collaborator#security-of-collaborator-data
+
+**Links in post:** https://portswigger.net/burp/documentation/collaborator#security-of-collaborator-data
+
+
+### Thread part 4 — @albinowax — 2023-02-10 10:31 UTC (2023-02-10 11:31 WAT)
+
+- URL: https://x.com/albinowax/status/1623993063176536064
+- Metrics (at fetch): bookmark 3, impression 10402, like 16, quote 1, reply 5, retweet 3
+
+> The public collaborator domain has a tendency to land on WAF blocklists. Also, if you accidentally redirect all traffic from a major website to your own collaborator, you can drop nginx on there and redirect them back again...
+
+
+### Thread part 5 — @albinowax — 2023-02-22 14:00 UTC (2023-02-22 15:00 WAT)
+
+- URL: https://x.com/albinowax/status/1628394382482087936
+- Metrics (at fetch): bookmark 0, impression 7988, like 31, quote 0, reply 0, retweet 2
+
+> Truffle Security's XSS Hunter now supports e2e encryption via PGP  - solid response by @trufflesec. Note that you need to provide your public key to enable it.
+> https://x.com/trufflesec/status/1628076850659606534
+
+**Links in post:** https://x.com/trufflesec/status/1628076850659606534
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1081974201781694464 — 2023-02-21 16:59 UTC (2023-02-21 17:59 WAT)
+    
+    - URL: https://x.com/1081974201781694464/status/1628076850659606534
+    - Metrics (at fetch): bookmark 19, impression 33450, like 86, quote 4, reply 4, retweet 22
+    
+    > Truffle Security's XSSHunter fork now optionally supports e2e encryption https://youtu.be/BBcZcoIZ1Jc
+    
+    **Links in post:** https://youtu.be/BBcZcoIZ1Jc
+    
 
 
 ---
@@ -2457,23 +2627,6 @@ Tags (automatic): Auth bypass
     >
     > #BugBounty #bugbountytips #Pentesting #cybersecurite #infosec ATO
     
-
-
----
-
-## 2023-02-10 · Post · Looks like Truffle Security has been digging through hackers' XSS Hunter data. Trusting a free servi
-
-
-Tags (automatic): XSS
-
-
-### Post — @albinowax — 2023-02-10 10:19 UTC (2023-02-10 11:19 WAT)
-
-- URL: https://x.com/albinowax/status/1623990046100430848
-- Metrics (at fetch): bookmark 33, impression 49817, like 198, quote 4, reply 6, retweet 46
-
-> Looks like Truffle Security has been digging through hackers' XSS Hunter data. Trusting a free service with your data works most of the time, but not every time.
-> https://t.co/YOGNR5ahHu
 
 
 ---
@@ -2852,7 +3005,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2021-08-06 · Post · How to find a HTTP/2 playmate:
+## 2021-08-06 · Thread · How to find a HTTP/2 playmate:
 
 
 Tags (automatic): Request smuggling / desync
@@ -2869,10 +3022,20 @@ Tags (automatic): Request smuggling / desync
 > 3. Go to proxy, hide out of scope traffic
 > 4. Ctrl+A, right click-&gt;Extensions-&gt;pick your scan
 > 5. Wait
-> https://t.co/kJWVEPcgYi https://t.co/UPkYyq4Lbs
+> https://portswigger.net/research/http2 [pic.x.com/UPkYyq4Lbs]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/E8GSqvzXoAINb-H.png — no alt text provided by author
+
+**Links in post:** https://portswigger.net/research/http2
+
+
+### Thread part 2 — @albinowax — 2021-08-06 09:57 UTC (2021-08-06 10:57 WAT)
+
+- URL: https://x.com/albinowax/status/1423583904561238023
+- Metrics (at fetch): bookmark 8, impression 0, like 46, quote 0, reply 0, retweet 3
+
+> This works with the Community edition too - output just appears in the Extensions tab instead. Personally I drive Chrome using puppeteer to automate step 2. If you want to reduce your chance of dupes, try tweaking a few scan settings.
 
 
 ---
@@ -2893,7 +3056,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-07-07 · Post · When you find response header injection, you can probably do better than mere XSS or open-redir. Try
+## 2021-07-07 · Thread · When you find response header injection, you can probably do better than mere XSS or open-redir. Try
 
 
 Tags (automatic): XSS, Request smuggling / desync
@@ -2905,6 +3068,14 @@ Tags (automatic): XSS, Request smuggling / desync
 - Metrics (at fetch): bookmark 97, impression 0, like 591, quote 2, reply 10, retweet 139
 
 > When you find response header injection, you can probably do better than mere XSS or open-redir. Try injecting a short Content-Length header to cause a reverse desync and exploit random live users.
+
+
+### Thread part 2 — @albinowax — 2021-07-07 14:21 UTC (2021-07-07 15:21 WAT)
+
+- URL: https://x.com/albinowax/status/1412778711557025792
+- Metrics (at fetch): bookmark 3, impression 0, like 128, quote 0, reply 2, retweet 2
+
+> I've never seen a modern public report using this technique on a real target, but I'm 95% sure it's possible. Maybe we need a @WebSecAcademy lab for it.
 
 
 ---

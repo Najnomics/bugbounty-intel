@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1095
-- Conversations/threads: 985
+- Posts in this file: 1102
+- Conversations/threads: 986
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
@@ -2688,7 +2688,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2025-03-04 · Post · We've just launched our FREE NahamSec Recon Bot on Discord. Now you can access my data for all the t
+## 2025-03-04 · Thread · We've just launched our FREE NahamSec Recon Bot on Discord. Now you can access my data for all the t
 
 
 ### Post — @NahamSec — 2025-03-04 20:06 UTC (2025-03-04 21:06 WAT)
@@ -2697,6 +2697,16 @@ Tags (automatic): IDOR / BOLA
 - Metrics (at fetch): bookmark 91, impression 20980, like 353, quote 0, reply 3, retweet 37
 
 > We've just launched our FREE NahamSec Recon Bot on Discord. Now you can access my data for all the targets we hack. It's 100% free - just join our server! Check the reply for the Discord link.
+
+
+### Thread part 2 — @NahamSec — 2025-03-04 20:06 UTC (2025-03-04 21:06 WAT)
+
+- URL: https://x.com/NahamSec/status/1897015901809238517
+- Metrics (at fetch): bookmark 10, impression 4362, like 25, quote 0, reply 1, retweet 1
+
+> https://discord.com/servers/nahamsec-598608711186907146
+
+**Links in post:** https://discord.com/servers/nahamsec-598608711186907146
 
 
 ---
@@ -2809,28 +2819,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-02-07 · Thread · The tweet yesterday wasn't to say the @GoogleVRP isn't a good one - their bug bounty team is one of 
-
-
-### Post — @NahamSec — 2025-02-07 18:02 UTC (2025-02-07 19:02 WAT)
-
-- URL: https://x.com/NahamSec/status/1887925038378316096
-- Metrics (at fetch): bookmark 3, impression 14459, like 162, quote 1, reply 4, retweet 3
-
-> The tweet yesterday wasn't to say the @GoogleVRP isn't a good one - their bug bounty team is one of the best out there. They take their time to investigate and escalate issues for hackers. My frustration was with the lack of communication
-
-
-### Thread part 2 — @NahamSec — 2025-02-07 18:03 UTC (2025-02-07 19:03 WAT)
-
-- URL: https://x.com/NahamSec/status/1887925039426945123
-- Metrics (at fetch): bookmark 1, impression 12885, like 40, quote 1, reply 5, retweet 0
-
-> and the fact that they didn't initially care to write a response. While I don't agree with their decision, I do know that it's all part of the game. You win some and lose some! Not every report you send it is going to get paid.
-
-
----
-
-## 2025-02-06 · Post · No bounty from @google for getting an RCE on http://google.com. I know there were some requirements 
+## 2025-02-06 · Thread · No bounty from @google for getting an RCE on http://google.com. I know there were some requirements 
 
 
 Tags (automatic): RCE
@@ -2849,6 +2838,55 @@ Tags (automatic): RCE
 - photo: https://pbs.twimg.com/media/GjIguGVbMAAHHe0.jpg — no alt text provided by author
 
 **Links in post:** http://google.com
+
+
+### Thread part 2 — @NahamSec — 2025-02-06 21:34 UTC (2025-02-06 22:34 WAT)
+
+- URL: https://x.com/NahamSec/status/1887615961093832803
+- Metrics (at fetch): bookmark 1, impression 13591, like 179, quote 0, reply 4, retweet 2
+
+> @Google Well... I was looking for a reason to take a break from hacking. Looks like I was just given one.
+
+
+### Thread part 3 — @NahamSec — 2025-02-07 18:03 UTC (2025-02-07 19:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1887925087258689711
+- Metrics (at fetch): bookmark 0, impression 9204, like 10, quote 0, reply 0, retweet 1
+
+> @Google https://x.com/NahamSec/status/1887925039426945123
+
+**Links in post:** https://x.com/NahamSec/status/1887925039426945123
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2025-02-07 18:03 UTC (2025-02-07 19:03 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1887925039426945123
+    - Metrics (at fetch): bookmark 1, impression 12885, like 40, quote 1, reply 5, retweet 0
+    
+    > and the fact that they didn't initially care to write a response. While I don't agree with their decision, I do know that it's all part of the game. You win some and lose some! Not every report you send it is going to get paid.
+    
+
+
+---
+
+## 2025-02-07 · Thread · The tweet yesterday wasn't to say the @GoogleVRP isn't a good one - their bug bounty team is one of 
+
+
+### Post — @NahamSec — 2025-02-07 18:02 UTC (2025-02-07 19:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1887925038378316096
+- Metrics (at fetch): bookmark 3, impression 14459, like 162, quote 1, reply 4, retweet 3
+
+> The tweet yesterday wasn't to say the @GoogleVRP isn't a good one - their bug bounty team is one of the best out there. They take their time to investigate and escalate issues for hackers. My frustration was with the lack of communication
+
+
+### Thread part 2 — @NahamSec — 2025-02-07 18:03 UTC (2025-02-07 19:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1887925039426945123
+- Metrics (at fetch): bookmark 1, impression 12885, like 40, quote 1, reply 5, retweet 0
+
+> and the fact that they didn't initially care to write a response. While I don't agree with their decision, I do know that it's all part of the game. You win some and lose some! Not every report you send it is going to get paid.
 
 
 ---
@@ -2962,7 +3000,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2025-01-28 · Post · I love seeing comments on social media where they call me a marketer who’s not really doing bug boun
+## 2025-01-28 · Thread · I love seeing comments on social media where they call me a marketer who’s not really doing bug boun
 
 
 ### Post — @NahamSec — 2025-01-28 03:24 UTC (2025-01-28 04:24 WAT)
@@ -2971,6 +3009,22 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 4, impression 28590, like 214, quote 1, reply 26, retweet 2
 
 > I love seeing comments on social media where they call me a marketer who’s not really doing bug bounties as a source of income. Who’s gonna tell them? 😂🤣
+
+
+### Thread part 2 — @NahamSec — 2025-01-28 04:39 UTC (2025-01-28 05:39 WAT)
+
+- URL: https://x.com/NahamSec/status/1884099002385551579
+- Metrics (at fetch): bookmark 0, impression 730, like 6, quote 0, reply 2, retweet 0
+
+> Still not making close to 20%. Each video takes 8-10,l hours of work that I could spend hacking. I enjoy the process and I enjoy helping people. I did it at conferences in the past, then free twitch streams, and now YouTube. I make money from it via sponsorship but not nearly what I could make through bounties. I do it because I enjoy making an impact  and it’s fulfilling.
+
+
+### Thread part 3 — @NahamSec — 2025-01-28 04:40 UTC (2025-01-28 05:40 WAT)
+
+- URL: https://x.com/NahamSec/status/1884099177136992554
+- Metrics (at fetch): bookmark 1, impression 1987, like 14, quote 0, reply 2, retweet 0
+
+> @fwrnr @Rhynorater And if you think that’s why I get invited to LHEs then you should see why other content creators with a similar following aren’t always getting invited. I’ve been around too long to earn my way through “clout”.
 
 
 ---
@@ -3305,7 +3359,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2024-12-22 · Post · Guess the exact number of my total submissions (including dupes, n/a, and. informative) on HackerOne
+## 2024-12-22 · Thread · Guess the exact number of my total submissions (including dupes, n/a, and. informative) on HackerOne
 
 
 Tags (automatic): Platform: HackerOne
@@ -3317,6 +3371,14 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 34, impression 29260, like 190, quote 1, reply 182, retweet 11
 
 > Guess the exact number of my total submissions (including dupes, n/a, and. informative) on HackerOne and I’ll send you a  bug bounty starter kit: Shodan, Caido, and my course for free.
+
+
+### Thread part 2 — @NahamSec — 2024-12-22 06:01 UTC (2024-12-22 07:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1870711218291564924
+- Metrics (at fetch): bookmark 0, impression 7175, like 18, quote 0, reply 5, retweet 1
+
+> Obviously you have to get it right!
 
 
 ---
@@ -4248,6 +4310,22 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 532, like 7, quote 0, reply 1, retweet 0
 
 > @hugopicanzo @Bugcrowd I can't disclose any information about it just yet, because it's still being fixed, but maybe I'll make a follow up video on it.
+
+
+---
+
+## 2024-06-26 · Post · @hugopicanzo @Bugcrowd Looking for niche domains and assets under them combined with paying attentio
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2024-06-26 18:11 UTC (2024-06-26 19:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1806027417091514801
+- Metrics (at fetch): bookmark 0, impression 1208, like 10, quote 0, reply 2, retweet 0
+
+> @hugopicanzo @Bugcrowd Looking for niche domains and assets under them combined with paying attention to small details and behaviors.
 
 
 ---

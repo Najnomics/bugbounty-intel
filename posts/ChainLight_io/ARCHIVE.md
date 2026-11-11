@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
-- Conversations/threads: 331
+- Conversations/threads: 328
 - Oldest post captured: 2022-11-05
 - Newest post captured: 2025-04-21
 
@@ -1443,13 +1443,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
-## 2024-12-31 · Thread · 1. CTF
+## 2024-12-31 · Thread · As 2024 draws to a close, let's look back at everything we've accomplished this year.
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hunting, Platform: Code4rena / Sherlock / Cantina
 
 
 ### Post — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1874095564624978284
+- Metrics (at fetch): bookmark 3, impression 2692, like 11, quote 1, reply 2, retweet 3
+
+> As 2024 draws to a close, let's look back at everything we've accomplished this year.
+>
+> From CTF victories to numerous bug discoveries, here's a look back at our accomplishments this year👇
+>
+> (1/11) [pic.x.com/Tb5gRx2Dbf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgIf-_LaMAAn_HQ.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095576763252741
 - Metrics (at fetch): bookmark 0, impression 213, like 1, quote 0, reply 1, retweet 0
@@ -1460,14 +1475,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > We remain committed to honing our skills through battle tests in high-pressure scenarios.
 >
-> (2/11) https://t.co/QvIM4iWn0Y
+> (2/11) https://twitter.com/1567176804712222721/status/1824081470304186795
+
+**Links in post:** https://twitter.com/1567176804712222721/status/1824081470304186795
 
 **Quoted post (full text):**
 
     #### Quoted post — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
     
     - URL: https://x.com/ChainLight_io/status/1824081470304186795
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 21, impression 1402835, like 184, quote 1, reply 24, retweet 14
     
     > We did it again.
     >
@@ -1484,7 +1501,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     
 
 
-### Thread part 2 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+### Thread part 3 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095588696076753
 - Metrics (at fetch): bookmark 0, impression 225, like 2, quote 0, reply 1, retweet 0
@@ -1495,12 +1512,30 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > Hope more teams attend next year!
 >
-> (3/11) https://t.co/PvxxPkIUn5
+> (3/11) https://twitter.com/junorouse/status/1847112895055962201
 
-**Quoted post** 1847112895055962201: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/junorouse/status/1847112895055962201
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1119511010262405120 — 2024-10-18 03:10 UTC (2024-10-18 04:10 WAT)
+    
+    - URL: https://x.com/1119511010262405120/status/1847112895055962201
+    - Metrics (at fetch): bookmark 4, impression 10440, like 36, quote 4, reply 0, retweet 5
+    
+    > Register to win 2BTC: https://ctf.scan.sx/
+    > We/@ChainLight_io will be hosting a 2BTC sized CTF prequal tmrw.
+    > It will focus on tracing the onchain data and analyzing its correlation, as well as the codes  and behaviors.
+    > It will start on Oct 19 00:00 for 24 hours. The final will be held in November, Seoul.
+    
+    **Media:**
+    - media `3_1847112820120604672` (details not returned by the API)
+    
+    **Links in post:** https://ctf.scan.sx/
+    
 
 
-### Thread part 3 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+### Thread part 4 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095600712774054
 - Metrics (at fetch): bookmark 0, impression 189, like 1, quote 0, reply 1, retweet 0
@@ -1509,7 +1544,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > This year, we have joined @zksync's Security Council. This was an accomplishment after the identification of critical vulnerabilities from the ZK circuit and winnings of competitive audits.
 >
-> (4/11) https://t.co/BPsz2BuByV
+> (4/11) https://twitter.com/ChainLight_io/status/1837136988283228599
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1837136988283228599
 
 **Quoted post (full text):**
 
@@ -1527,7 +1564,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     
 
 
-### Thread part 4 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+### Thread part 5 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095612712640585
 - Metrics (at fetch): bookmark 0, impression 220, like 2, quote 0, reply 2, retweet 0
@@ -1536,14 +1573,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > This year, we conducted audits with prominent clients, including: @zksync, @Moca_Network, @injective, @blast, @kroma_network, @AlchemyPlatform,  @hyperlane, @SynapseProtocol, @biconomy, @UnitasProtocol and ...  ***[REDACTED]***.
 >
-> (5/11) https://t.co/CMlHFKhocd
+> (5/11) https://twitter.com/ChainLight_io/status/1811008643904720919
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1811008643904720919
 
 **Quoted post (full text):**
 
     #### Quoted post — @ChainLight_io — 2024-07-10 12:04 UTC (2024-07-10 13:04 WAT)
     
     - URL: https://x.com/ChainLight_io/status/1811008643904720919
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 2, impression 20649, like 128, quote 4, reply 12, retweet 24
     
     > We are thrilled to announce the successful completion of @Moca_Network's audit.
     >
@@ -1557,7 +1596,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     
 
 
-### Thread part 5 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+### Thread part 6 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095624909623624
 - Metrics (at fetch): bookmark 0, impression 157, like 1, quote 0, reply 1, retweet 0
@@ -1566,14 +1605,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > This year, we discovered and reported a critical vulnerability on @akashnet and were awarded $157K from @code4rena's zkSync Era audit contest. There are many other achievements we can't say here - signed an NDA 🤓.
 >
-> (6/11) https://t.co/nZsNa7fx7T
+> (6/11) https://twitter.com/ChainLight_io/status/1815783286217769162
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1815783286217769162
 
 **Quoted post (full text):**
 
     #### Quoted post — @ChainLight_io — 2024-07-23 16:17 UTC (2024-07-23 17:17 WAT)
     
     - URL: https://x.com/ChainLight_io/status/1815783286217769162
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 4, impression 21338, like 66, quote 6, reply 4, retweet 7
     
     > Saving Akash from Unauthorized Access
     >
@@ -1592,7 +1633,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     
 
 
-### Thread part 6 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+### Thread part 7 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095636938957017
 - Metrics (at fetch): bookmark 0, impression 409, like 1, quote 1, reply 1, retweet 0
@@ -1601,25 +1642,37 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > We have been operating &amp; developing DART, a digital asset risk tracker, targeting CEX security. With cutting-edge static analysis and on-chain data analysis, DART detects latent risks from contracts and abnormal changes of circulating supply.
 >
-> (7/11) https://t.co/wIRry3BDR6
+> (7/11) https://twitter.com/ChainLight_io/status/1702354817090531747
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1702354817090531747
 
 **Quoted post (full text):**
 
     #### Quoted post — @ChainLight_io — 2023-09-14 16:13 UTC (2023-09-14 17:13 WAT)
     
     - URL: https://x.com/ChainLight_io/status/1702354817090531747
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1, impression 3533, like 16, quote 2, reply 0, retweet 3
     
     > 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 comprehensive risk management platform.
     >
-    > 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus [pic.x.com/BHVJCRHnIH]
+    > 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus solely on innovation. Supporting their success, we aim to guarantee the safety of everyone looking to venture into the new territories.
+    >
+    > Starting with our smart contract security auditing service, we are now taking a step further by introducing the Web3 comprehensive risk management platform, DART.
+    >
+    > Today, ChainLight has launched DART - a comprehensive security platform aimed at protecting users, exchanges, and project builders from the various vulnerabilities and threats that plague the Web3 landscape.
+    >
+    > Try accessing DART right now through the link below. 👇
+    >
+    > http://dart.chainlight.io
     
     **Media:**
     - photo: https://pbs.twimg.com/media/F5_xupgaMAEMUwb.jpg — no alt text provided by author
     
+    **Links in post:** http://dart.chainlight.io
+    
 
 
-### Thread part 7 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+### Thread part 8 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095649064731096
 - Metrics (at fetch): bookmark 0, impression 202, like 1, quote 0, reply 1, retweet 0
@@ -1628,12 +1681,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > You might not know that we won the first place at the AIxCC preliminary round, hosted by @DARPA. Only seven teams advanced, each securing a $2 million prize just for the preliminary round.
 >
-> (8/11) https://t.co/0zmRl9MFMc
+> (8/11) https://twitter.com/tylerni7/status/1838633781986759022
 
-**Quoted post** 1838633781986759022: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/tylerni7/status/1838633781986759022
+
+**Quoted post (full text):**
+
+    #### Quoted post — @17049813 — 2024-09-24 17:37 UTC (2024-09-24 18:37 WAT)
+    
+    - URL: https://x.com/17049813/status/1838633781986759022
+    - Metrics (at fetch): bookmark 14, impression 6920, like 60, quote 1, reply 0, retweet 18
+    
+    > Released a blog about our @theori_io AIxCC experience! https://medium.com/@sa-blog/winning-the-aixcc-qualification-round-7263d1cde9c8
+    >
+    > @tjbecker and I were hoping to have more info about other challenges, but they aren't released, so some of the information is a bit limited.
+    >
+    > Still, hope folks can enjoy reading it!
+    
+    **Links in post:** https://medium.com/@sa-blog/winning-the-aixcc-qualification-round-7263d1cde9c8
+    
 
 
-### Thread part 8 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
+### Thread part 9 — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095660968099938
 - Metrics (at fetch): bookmark 0, impression 279, like 1, quote 0, reply 1, retweet 0
@@ -1650,14 +1719,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 > • TEE + Web3
 >
 > If interested, read the articles here:
-> https://t.co/v71hsQ9wHK
+> https://blog.chainlight.io/
 >
-> (9/11) https://t.co/ZZylCdzq5K
+> (9/11) https://twitter.com/1524338670391730176/status/1854525697408242113
 
-**Quoted post** 1854525697408242113: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://blog.chainlight.io/, https://twitter.com/1524338670391730176/status/1854525697408242113
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1524338670391730176 — 2024-11-07 14:05 UTC (2024-11-07 15:05 WAT)
+    
+    - URL: https://x.com/1524338670391730176/status/1854525697408242113
+    - Metrics (at fetch): bookmark 11, impression 3099, like 34, quote 1, reply 4, retweet 6
+    
+    > Today I published a report about upcoming L1 chains, including @monad_xyz, @berachain, @initia, and @StoryProtocol. The report covers various aspects, including their ecosystem, technology, and my opinion on their architecture from a security perspective.
+    >
+    > https://medium.com/chainlight/d29bf6a298e4
+    
+    **Links in post:** https://medium.com/chainlight/d29bf6a298e4
+    
 
 
-### Thread part 9 — @ChainLight_io — 2024-12-31 14:10 UTC (2024-12-31 15:10 WAT)
+### Thread part 10 — @ChainLight_io — 2024-12-31 14:10 UTC (2024-12-31 15:10 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095673844654596
 - Metrics (at fetch): bookmark 0, impression 685, like 1, quote 0, reply 1, retweet 0
@@ -1666,14 +1749,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 >
 > Going beyond just security audits, we have been operating a training program for the ecosystem. This year, we completed the graduation of the first cohort of Upside Academy, a 4-month program for blockchain security talents.
 >
-> (10/11) https://t.co/sVmCY645AZ
+> (10/11) https://twitter.com/ChainLight_io/status/1810657861565116752
+
+**Links in post:** https://twitter.com/ChainLight_io/status/1810657861565116752
 
 **Quoted post (full text):**
 
     #### Quoted post — @ChainLight_io — 2024-07-09 12:50 UTC (2024-07-09 13:50 WAT)
     
     - URL: https://x.com/ChainLight_io/status/1810657861565116752
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 2, impression 4534, like 28, quote 2, reply 1, retweet 3
     
     > We are thrilled to partner with @Official_Upbit to launch UPSide Academy, a blockchain cybersecurity talent development program.
     >
@@ -1684,7 +1769,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     
 
 
-### Thread part 10 — @ChainLight_io — 2024-12-31 14:10 UTC (2024-12-31 15:10 WAT)
+### Thread part 11 — @ChainLight_io — 2024-12-31 14:10 UTC (2024-12-31 15:10 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1874095685811003594
 - Metrics (at fetch): bookmark 0, impression 523, like 2, quote 0, reply 0, retweet 0
@@ -1696,26 +1781,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 > You have been the guiding light throughout our adventures!
 >
 > (11/11)
-
-
----
-
-## 2024-12-31 · Post · As 2024 draws to a close, let's look back at everything we've accomplished this year.
-
-
-### Post — @ChainLight_io — 2024-12-31 14:09 UTC (2024-12-31 15:09 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1874095564624978284
-- Metrics (at fetch): bookmark 3, impression 2692, like 11, quote 1, reply 2, retweet 3
-
-> As 2024 draws to a close, let's look back at everything we've accomplished this year.
->
-> From CTF victories to numerous bug discoveries, here's a look back at our accomplishments this year👇
->
-> (1/11) https://t.co/Tb5gRx2Dbf
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GgIf-_LaMAAn_HQ.jpg — no alt text provided by author
 
 
 ---
@@ -2307,7 +2372,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Links in post:** https://twitter.com/TheBlockCo/status/1863445008151425099
 
-**Quoted post** 1863445008151425099: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @963767159536209921 — 2024-12-02 04:48 UTC (2024-12-02 05:48 WAT)
+    
+    - URL: https://x.com/963767159536209921/status/1863445008151425099
+    - Metrics (at fetch): bookmark 1, impression 16141, like 37, quote 2, reply 4, retweet 13
+    
+    > Japanese exchange DMM Bitcoin to shut down, transfer assets to SBI Group unit after $300 million hack https://www.theblock.co/post/328890/japanese-exchange-dmm-bitcoin-to-shut-down-transfer-assets-to-sbi-group-unit-after-300-million-hack?utm_source=twitter&utm_medium=social
+    
+    **Links in post:** https://www.theblock.co/post/328890/japanese-exchange-dmm-bitcoin-to-shut-down-transfer-assets-to-sbi-group-unit-after-300-million-hack?utm_source=twitter&utm_medium=social
+    
 
 
 ### Thread part 9 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
@@ -2329,78 +2404,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-12-02 · Thread · 5️⃣ @GiftoMetaverse's GFT Token Allegedly Minted
-
-
-Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
-
-
-### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1863590686207164877
-- Metrics (at fetch): bookmark 0, impression 392, like 0, quote 0, reply 1, retweet 0
-
-> 5️⃣ @GiftoMetaverse's GFT Token Allegedly Minted
->
-> • $8.6M worth of $GFT was allegedly minted after Binance announced the token's delisting on Dec 10, 2024.
-> • While the Gifto team stated they were investigating the incident, no updates have been provided since.
->
-> (7/10) https://t.co/GwKesnooSQ
-
-**Quoted post** 1861978997376069918: not readable via the API (deleted, private, or withheld).
-
-
-### Thread part 2 — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1863590698509103163
-- Metrics (at fetch): bookmark 0, impression 185, like 0, quote 0, reply 1, retweet 0
-
-> 6️⃣ @agentsdotfun Mistakenly Locks $500K Presale Fund
->
-> • The presale contract was designed to convert its raised ETH into USDC with a hard-coded 3% slippage.
-> • This slippage requires at least $16M USDC in the pool, but no such pool exists on Base to support this.
->
-> (8/10) https://t.co/xU6J7vrs4H
-
-**Quoted post** 1862010988582637718: not readable via the API (deleted, private, or withheld).
-
-
-### Thread part 3 — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1863590710920069238
-- Metrics (at fetch): bookmark 0, impression 487, like 1, quote 0, reply 1, retweet 0
-
-> 7️⃣ @DMM_Bitcoin Plans Liquidation
->
-> • DMM Bitcoin, a Japanese CEX, suffered a $320M hot wallet exploit in May 2024 due to a private key leak.
-> • According to on-chain investigator @zachxbt, the exploited assets are laundered through online marketplace Huione Guarantee.
->
-> (9/10) https://t.co/YfHoz7AuZn
-
-**Quoted post** 1863445008151425099: not readable via the API (deleted, private, or withheld).
-
-
-### Thread part 4 — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1863590723083514118
-- Metrics (at fetch): bookmark 0, impression 268, like 1, quote 0, reply 1, retweet 0
-
-> Thank you for reading.
->
-> To stay up-to-date with the latest report and research from our award-winning security researchers:
->
-> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
-> 👉 Join Discord: https://t.co/JLtmTXIXXr
->
-> (10/10)
-
-
----
-
 ## 2024-12-02 · Thread · Which rug pulls, exploits, and security breaches happened this week?
 
 
-Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 
 ### Post — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
@@ -2412,7 +2419,7 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 >
 > Read this 2-minute weekly summary to stay in the loop 🧵👇
 >
-> (1/10) https://t.co/0JjDE7lsVA
+> (1/10) [pic.x.com/0JjDE7lsVA]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GdzNx5GacAAcKIg.jpg — no alt text provided by author
@@ -2446,9 +2453,37 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > • XT[.]com, a Dubai-based CEX, suspended withdrawals after the hot wallet exploit.
 > • Exploited assets are transferred to an EOA, `0xB43fFc4ea7c66C469c12d1BA3aAeB58420208F83`.
 >
-> (3/10) https://t.co/MRGXnZV0X5
+> (3/10) https://twitter.com/XTexchange/status/1862072439154569282
 
-**Quoted post** 1862072439154569282: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/XTexchange/status/1862072439154569282
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1041953252424601602 — 2024-11-28 09:53 UTC (2024-11-28 10:53 WAT)
+    
+    - URL: https://x.com/1041953252424601602/status/1862072439154569282
+    - Metrics (at fetch): bookmark 3, impression 28796, like 59, quote 18, reply 24, retweet 8
+    
+    > 🚨 XT Statement on Abnormal Transfer of Platform Wallet Assets 🚨
+    >
+    > Today, XT detected an abnormal transfer from our platform wallet. Rest assured, this will not affect our users. 💪
+    >
+    > 🔒 We always maintain reserves 1.5x greater than user assets to ensure maximum security. 
+    >
+    > Our team is investigating, and we remain committed to protecting your assets. In mid-December, we’ll launch the Merkel Tree Asset Proof System for even greater transparency. 🛡️
+    >
+    > Thank you for your ongoing trust and support! 🙏
+    >
+    > Details ⤵️
+    > https://xtsupport.zendesk.com/hc/en-us/articles/40528847749657
+    >
+    > #XTExchange #UserFirst
+    
+    **Media:**
+    - media `3_1862071957635969024` (details not returned by the API)
+    
+    **Links in post:** https://xtsupport.zendesk.com/hc/en-us/articles/40528847749657
+    
 
 
 ### Thread part 4 — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
@@ -2461,9 +2496,29 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > • After losing 6% of its TVL on Optimism and Base, Clipper team paused its operation on all chains.
 > • While the team claims no private key leakages, @shoucccc suggests an API vulnerability due to the victim contract's reliance on an API.
 >
-> (4/10) https://t.co/tmzwIlrVN6
+> (4/10) https://twitter.com/Clipper_DEX/status/1863263893470003460
 
-**Quoted post** 1863263893470003460: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/Clipper_DEX/status/1863263893470003460
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1398285533965606912 — 2024-12-01 16:48 UTC (2024-12-01 17:48 WAT)
+    
+    - URL: https://x.com/1398285533965606912/status/1863263893470003460
+    - Metrics (at fetch): bookmark 2, impression 5707, like 25, quote 5, reply 5, retweet 9
+    
+    > Statement on Clipper Security Incident Dec 1, 2024
+    >
+    > This morning at 4am UTC Clipper’s pools on Optimism and Base were exploited for ~$450,000, roughly 6% of Clipper’s TVL. The attacker attempted to exploit other chains but was unable to do so. As a result, no other chains or pools were impacted. The exploit is no longer ongoing.
+    >
+    > Clipper has paused swaps and deposits on all chains until the investigation is completed. Withdrawals are still available, because Clipper is noncustodial and can never prevent you from withdrawing. However, any withdrawals must be in the mix of all assets in the pool. The ability to withdraw in the form of just one token (a bundled swap + deposit/withdrawal transaction) is disabled, because that seems to have been the exploited feature.
+    >
+    > There have been third-party claims suggesting a private key leak; however, we can confirm that this is not the case and is inconsistent with the design and security architecture of Clipper.
+    >
+    > In addition to the investigation, an effort has begun to trace funds to attempt recovery. If you are the exploiter and are willing to speak, please reach out directly.
+    >
+    > Clipper is committed to transparency and will provide further updates to the community as more information becomes available.
+    
 
 
 ### Thread part 5 — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
@@ -2476,9 +2531,32 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > • When transferred to its LP pool, the DCF token required 5% of the amount to be swapped as USDT and added to the DCT-USDT pool.
 > • Exploiting this swap, the attacker used a flash loan to manipulate the pool and drain USDT.
 >
-> (5/10) https://t.co/aj17uGwyLZ
+> (5/10) https://twitter.com/TenArmorAlert/status/1860679864598319119
 
-**Quoted post** 1860679864598319119: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/TenArmorAlert/status/1860679864598319119
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1803681930325663745 — 2024-11-24 13:40 UTC (2024-11-24 14:40 WAT)
+    
+    - URL: https://x.com/1803681930325663745/status/1860679864598319119
+    - Metrics (at fetch): bookmark 4, impression 2344, like 6, quote 2, reply 1, retweet 0
+    
+    > 🚨TenArmor Security Alert🚨
+    >
+    > Our system has detected a suspicious attack involving #DCF on #BSC, resulting in an approximately loss of $442K. 
+    >
+    > This is not the first time DCF has fallen victim to an attack!
+    >
+    > Attack transaction: https://bscscan.com/tx/0xb375932951c271606360b6bf4287d080c5601f4f59452b0484ea6c856defd6fd
+    >
+    > #TenArmorAlert [pic.x.com/KufZ8ZlEqw]
+    
+    **Media:**
+    - media `3_1860679859070291968` (details not returned by the API)
+    
+    **Links in post:** https://bscscan.com/tx/0xb375932951c271606360b6bf4287d080c5601f4f59452b0484ea6c856defd6fd
+    
 
 
 ### Thread part 6 — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
@@ -2491,9 +2569,173 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > • A project wallet was exploited after its private key was exposed in a GitHub repository.
 > • Initially, the keypair was intended for testing purposes but was later mistakenly used as a funds wallet.
 >
-> (6/10) https://t.co/xXrPdkw3xJ
+> (6/10) https://twitter.com/pumpdotscience/status/1861080069021827114
 
-**Quoted post** 1861080069021827114: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/pumpdotscience/status/1861080069021827114
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1833183120126095360 — 2024-11-25 16:10 UTC (2024-11-25 17:10 WAT)
+    
+    - URL: https://x.com/1833183120126095360/status/1861080069021827114
+    - Metrics (at fetch): bookmark 27, impression 104810, like 182, quote 27, reply 118, retweet 22
+    
+    > The T5j2UBTvLYPCwDP5MVkSALN7fwuLFDL9jUXJNjjb8sc wallet was exploited today from on oversight in our github repository. The exploiter was able to find the keypair in the source code of our website
+    >
+    > This keypair has been in our github for testing purposes from the start and was considered as non-important by our developer team, @builderzdotdev
+    >
+    > There was an oversight realizing this wallet address was marked on http://pump.fun as the off-chain token-creator of URO and RIF
+    >
+    > This oversight was made because the on-chain history show that BLDRZQiqt4ESPz12L9mt4XTBjeEfjoBopGPDMA36KtuZ was the first wallet to buy both URO and RIF and is therefore considered the token-deployer on all other trading apps
+    
+    **Links in post:** http://pump.fun
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-12-02 14:26 UTC (2024-12-02 15:26 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590686207164877
+- Metrics (at fetch): bookmark 0, impression 392, like 0, quote 0, reply 1, retweet 0
+
+> 5️⃣ @GiftoMetaverse's GFT Token Allegedly Minted
+>
+> • $8.6M worth of $GFT was allegedly minted after Binance announced the token's delisting on Dec 10, 2024.
+> • While the Gifto team stated they were investigating the incident, no updates have been provided since.
+>
+> (7/10) https://twitter.com/zachxbt/status/1861978997376069918
+
+**Links in post:** https://twitter.com/zachxbt/status/1861978997376069918
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3012852462 — 2024-11-28 03:42 UTC (2024-11-28 04:42 WAT)
+    
+    - URL: https://x.com/3012852462/status/1861978997376069918
+    - Metrics (at fetch): bookmark 240, impression 758801, like 2851, quote 108, reply 405, retweet 364
+    
+    > It was announced that Binance would delist GFT on Nov 26, 2024. 
+    >
+    > A few hours ago the Gifto team minted another 1.2B GFT on BSC which more than doubled the total supply. 
+    >
+    > GFT was then deposited to Kucoin, MEXC HTX, Bitget, Binance, OKX, & Gate. 
+    >
+    > Binance
+    > 0x98002aFd16071A0dBF8d7608a856DDC405aE7095
+    > 0xDf8C303C718d0cF5E37E3F9DD2aA39fa99E41eC9
+    > 0xEdD38846607aEDbEAE0E1b750Fa2511a7Abc48c3
+    > 0x7c38405AFEFb08471B789354Cc06932F4287a02E
+    > 0x8070a9Df33B01df8c2fF16E61DB76EAe9CD25e58
+    >
+    > MEXC
+    > 0xCcb9596571e1e0E1D1404e20336e901c8afe74D0
+    > 0x8F851D927148dB55ce9C33Dd5118442C9fb42D55
+    > 0x5796081800bDc4569711b066269647e6140E5fC8
+    >
+    > Kucoin
+    > 0xa21a763d5c21ac7B00D484dBEe47BB62C1CC72BB
+    > 0x1324F70A4e86F2973A3612185fc360De9f6F6f6B
+    >
+    > Bitget
+    > 0x2EFf9A076af7597F5c8F9D83020Fe33fA92B0d55
+    > 0x7FC718e1eeedAD8FA2d0BeE94a4876fEc97fB48b
+    > 0x6eDDA96C55CD2a190aBE9b7076dA7d533686aD21
+    >
+    > HTX
+    > 0xD8E5702Cc7E3f79428839E40473bE6202Be46f42
+    > 0x8193Bd71962c3DaE6e438A17CE704a4f7Ee00662
+    > 0xBF59B1fd19952B7CBE79DEcD04B515591A5F3aa2
+    > 0x2Bac7e365C1D218c5A1f78F1a0bAE23774FC2733
+    >
+    > OKX
+    > 0x772b1f6C4dE857F08cF3DE266576f265D5d5b494
+    >
+    > Gate
+    > 0x2Eb6de18f875322773E2fA8CD1996C57fBf16148
+    
+    **Media:**
+    - media `3_1861978988790329344` (details not returned by the API)
+    - media `3_1861978988790321152` (details not returned by the API)
+    
+
+
+### Thread part 8 — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590698509103163
+- Metrics (at fetch): bookmark 0, impression 185, like 0, quote 0, reply 1, retweet 0
+
+> 6️⃣ @agentsdotfun Mistakenly Locks $500K Presale Fund
+>
+> • The presale contract was designed to convert its raised ETH into USDC with a hard-coded 3% slippage.
+> • This slippage requires at least $16M USDC in the pool, but no such pool exists on Base to support this.
+>
+> (8/10) https://twitter.com/ManaMoonNFT/status/1862010988582637718
+
+**Links in post:** https://twitter.com/ManaMoonNFT/status/1862010988582637718
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1480526705672564738 — 2024-11-28 05:49 UTC (2024-11-28 06:49 WAT)
+    
+    - URL: https://x.com/1480526705672564738/status/1862010988582637718
+    - Metrics (at fetch): bookmark 65, impression 171511, like 165, quote 49, reply 30, retweet 38
+    
+    > Alright so we might have just had a $slerf moment, but on Base.
+    >
+    > tl;dr: 500k of presaler funds for $AGNT are basically burned forever/trapped in the contract created by @agentsdotfun which is the @autonolas team's project.
+    >
+    > Let me explain what happened [pic.x.com/AFGRa1pCGS] https://twitter.com/hsgeth/status/1861995519490289708
+    
+    **Media:**
+    - media `3_1862003905694998528` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/hsgeth/status/1861995519490289708
+    
+    **Quoted post** 1861995519490289708: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 9 — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590710920069238
+- Metrics (at fetch): bookmark 0, impression 487, like 1, quote 0, reply 1, retweet 0
+
+> 7️⃣ @DMM_Bitcoin Plans Liquidation
+>
+> • DMM Bitcoin, a Japanese CEX, suffered a $320M hot wallet exploit in May 2024 due to a private key leak.
+> • According to on-chain investigator @zachxbt, the exploited assets are laundered through online marketplace Huione Guarantee.
+>
+> (9/10) https://twitter.com/TheBlockCo/status/1863445008151425099
+
+**Links in post:** https://twitter.com/TheBlockCo/status/1863445008151425099
+
+**Quoted post (full text):**
+
+    #### Quoted post — @963767159536209921 — 2024-12-02 04:48 UTC (2024-12-02 05:48 WAT)
+    
+    - URL: https://x.com/963767159536209921/status/1863445008151425099
+    - Metrics (at fetch): bookmark 1, impression 16141, like 37, quote 2, reply 4, retweet 13
+    
+    > Japanese exchange DMM Bitcoin to shut down, transfer assets to SBI Group unit after $300 million hack https://www.theblock.co/post/328890/japanese-exchange-dmm-bitcoin-to-shut-down-transfer-assets-to-sbi-group-unit-after-300-million-hack?utm_source=twitter&utm_medium=social
+    
+    **Links in post:** https://www.theblock.co/post/328890/japanese-exchange-dmm-bitcoin-to-shut-down-transfer-assets-to-sbi-group-unit-after-300-million-hack?utm_source=twitter&utm_medium=social
+    
+
+
+### Thread part 10 — @ChainLight_io — 2024-12-02 14:27 UTC (2024-12-02 15:27 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1863590723083514118
+- Metrics (at fetch): bookmark 0, impression 268, like 1, quote 0, reply 1, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (10/10)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
 
 
 ---
@@ -2543,7 +2785,15 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > (3/6) https://t.co/9jMkJhtSmm
 
-**Quoted post** 1846634050100039881: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1501279850727821312 — 2024-10-16 19:27 UTC (2024-10-16 20:27 WAT)
+    
+    - URL: https://x.com/1501279850727821312/status/1846634050100039881
+    - Metrics (at fetch): bookmark 27, impression 416030, like 255, quote 65, reply 0, retweet 57
+    
+    > We are aware of an issue with the Radiant Lending markets on Binance Chain and Arbitrum. We are working with SEAL911, Hypernative, ZeroShadow &amp; Chainalysis and will provide an update as soon as possible. Markets on Base and Mainnet are paused until further notice.
+    
 
 
 ### Thread part 4 — @ChainLight_io — 2024-11-25 14:00 UTC (2024-11-25 15:00 WAT)
@@ -2593,60 +2843,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-10-21 · Thread · 2️⃣ @ArticSolana Rugpulls $21.8M
+## 2024-10-21 · Thread · Which rug pulls, exploits, and security breaches happened this week?
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1848397427365065092
-- Metrics (at fetch): bookmark 0, impression 1403, like 1, quote 0, reply 2, retweet 0
-
-> 2️⃣ @ArticSolana Rugpulls $21.8M
->
-> • $ARTIC, a memecoin project by @ibx_exchange on @OrderlyNetwork, rugpulled 160K SOL from its presale.
-> • The project claimed a refund of 95K SOL, but instead of returning it to users, the funds were transferred to team wallets.
->
-> (4/6) https://t.co/iDzLLgbtSJ
-
-**Quoted post** 1847157024393429416: not readable via the API (deleted, private, or withheld).
-
-
-### Thread part 2 — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1848397440107282564
-- Metrics (at fetch): bookmark 1, impression 609, like 0, quote 0, reply 1, retweet 0
-
-> 3️⃣ @tapioca_dao Loses $4.7M
->
-> • A social engineering attack led to the team losing control of the token vesting contract, resulting in the loss of 590 ETH and 2.8M USDC.
-> • The team has proposed a $1M bounty.
->
-> (5/6) https://t.co/EAHISNpbtk
-
-**Quoted post** 1847330264139145361: not readable via the API (deleted, private, or withheld).
-
-
-### Thread part 3 — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1848397453105496439
-- Metrics (at fetch): bookmark 1, impression 355, like 3, quote 0, reply 0, retweet 0
-
-> Thank you for reading.
->
-> To stay up-to-date with the latest report and research from our award-winning security researchers:
->
-> 👉 Subscribe Newsletter: https://t.co/C4miHX17Xa
-> 👉 Join Discord: https://t.co/ASkiq3Gdte
->
-> (6/6)
-
-
----
-
-## 2024-10-21 · Thread · Which rug pulls, exploits, and security breaches happened this week?
 
 
 ### Post — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
@@ -2658,7 +2858,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > Read this 2-minute weekly summary to stay in the loop 🧵👇
 >
-> (1/6) https://t.co/t6vGNb5Pgj
+> (1/6) [pic.x.com/t6vGNb5Pgj]
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/1848397376584626176/img/VhqfUeaVBTbBrc1M.jpg — no alt text provided by author
@@ -2688,9 +2888,70 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • Due to malware injection attacks on core contributors, Radiant Capital's 3-out-of-11 multisig wallet was compromised.
 > • The team claims the transaction calldata displayed on the Safe wallet frontend differed from the actual data.
 >
-> (3/6) https://t.co/9jMkJhtkwO
+> (3/6) https://twitter.com/RDNTCapital/status/1846634050100039881
 
-**Quoted post** 1846634050100039881: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/RDNTCapital/status/1846634050100039881
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1501279850727821312 — 2024-10-16 19:27 UTC (2024-10-16 20:27 WAT)
+    
+    - URL: https://x.com/1501279850727821312/status/1846634050100039881
+    - Metrics (at fetch): bookmark 27, impression 416030, like 255, quote 65, reply 0, retweet 57
+    
+    > We are aware of an issue with the Radiant Lending markets on Binance Chain and Arbitrum. We are working with SEAL911, Hypernative, ZeroShadow &amp; Chainalysis and will provide an update as soon as possible. Markets on Base and Mainnet are paused until further notice.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397427365065092
+- Metrics (at fetch): bookmark 0, impression 1403, like 1, quote 0, reply 2, retweet 0
+
+> 2️⃣ @ArticSolana Rugpulls $21.8M
+>
+> • $ARTIC, a memecoin project by @ibx_exchange on @OrderlyNetwork, rugpulled 160K SOL from its presale.
+> • The project claimed a refund of 95K SOL, but instead of returning it to users, the funds were transferred to team wallets.
+>
+> (4/6) https://t.co/iDzLLgbtSJ
+
+**Links in post:** https://t.co/iDzLLgbtSJ
+
+**Quoted post** 1847157024393429416: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 5 — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397440107282564
+- Metrics (at fetch): bookmark 1, impression 609, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ @tapioca_dao Loses $4.7M
+>
+> • A social engineering attack led to the team losing control of the token vesting contract, resulting in the loss of 590 ETH and 2.8M USDC.
+> • The team has proposed a $1M bounty.
+>
+> (5/6) https://twitter.com/alto_money/status/1847330264139145361
+
+**Links in post:** https://twitter.com/alto_money/status/1847330264139145361
+
+**Quoted post** 1847330264139145361: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 6 — @ChainLight_io — 2024-10-21 16:14 UTC (2024-10-21 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1848397453105496439
+- Metrics (at fetch): bookmark 1, impression 355, like 3, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (6/6)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
 
 
 ---
@@ -2773,74 +3034,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-10-07 · Thread · 2️⃣ Issues Around @PikeFinance TGE
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1843354879798194233
-- Metrics (at fetch): bookmark 1, impression 185, like 1, quote 0, reply 1, retweet 0
-
-> 2️⃣ Issues Around @PikeFinance TGE
->
-> • Pike Finance, who raised $6.4M in its token presale, launched with only $8k liquidity.
-> • The project suffered two exploits in a single week in April: one due to a logic bug and another caused by a storage collision from a patch.
->
-> (4/6) https://t.co/Lf8lUdIFG5
-
-**Quoted post (full text):**
-
-    #### Quoted post — @1181107194923630592 — 2024-10-01 12:58 UTC (2024-10-01 13:58 WAT)
-    
-    - URL: https://x.com/1181107194923630592/status/1841100321675788519
-    - Metrics (at fetch): bookmark 2, impression 5345, like 41, quote 3, reply 8, retweet 10
-    
-    > What happened to the $6.4 million pre-sale fund raised by @PikeFinance!
-    >
-    > Back in March 2024, Pike finance raised $6.4 million by the public, but they added only $8k in liquidity to their recent token launch What happened to the remaining million dollers?
-    > - Founder @terrycflam https://t.co/MXF9xNZMaM
-    
-    **Media:**
-    - media `3_1841093730528354306` (details not returned by the API)
-    
-
-
-### Thread part 2 — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1843354908109717512
-- Metrics (at fetch): bookmark 1, impression 551, like 1, quote 0, reply 1, retweet 0
-
-> 3️⃣ @HyperliquidX Bridge Faces 3-Hour Outage
->
-> • L1 perpetual DEX HyperLiquid experienced a 3-hour outage on its bridge.
-> • The issue was communicated via HyperLiquid's Discord, but no technical details have been released.
->
-> (5/6) https://t.co/pwEqLR5HK6
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GZTphPXasAIXL_Z.png — no alt text provided by author
-
-
-### Thread part 3 — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1843354931178451345
-- Metrics (at fetch): bookmark 0, impression 329, like 0, quote 0, reply 0, retweet 0
-
-> Thank you for reading.
->
-> To stay up-to-date with the latest report and research from our award-winning security researchers:
->
-> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
-> 👉 Join Discord: https://t.co/JLtmTXIXXr
->
-> (6/6)
-
-
----
-
 ## 2024-10-07 · Thread · Which rug pulls, exploits, and security breaches happened this week?
 
 
@@ -2901,6 +3094,76 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     >
     > We will share our findings with the community as soon as possible.
     
+
+
+### Thread part 4 — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354931178451345
+- Metrics (at fetch): bookmark 0, impression 329, like 0, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (6/6)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-10-07 · Thread · 2️⃣ Issues Around @PikeFinance TGE
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354879798194233
+- Metrics (at fetch): bookmark 1, impression 185, like 1, quote 0, reply 1, retweet 0
+
+> 2️⃣ Issues Around @PikeFinance TGE
+>
+> • Pike Finance, who raised $6.4M in its token presale, launched with only $8k liquidity.
+> • The project suffered two exploits in a single week in April: one due to a logic bug and another caused by a storage collision from a patch.
+>
+> (4/6) https://t.co/Lf8lUdIFG5
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1181107194923630592 — 2024-10-01 12:58 UTC (2024-10-01 13:58 WAT)
+    
+    - URL: https://x.com/1181107194923630592/status/1841100321675788519
+    - Metrics (at fetch): bookmark 2, impression 5345, like 41, quote 3, reply 8, retweet 10
+    
+    > What happened to the $6.4 million pre-sale fund raised by @PikeFinance!
+    >
+    > Back in March 2024, Pike finance raised $6.4 million by the public, but they added only $8k in liquidity to their recent token launch What happened to the remaining million dollers?
+    > - Founder @terrycflam https://t.co/MXF9xNZMaM
+    
+    **Media:**
+    - media `3_1841093730528354306` (details not returned by the API)
+    
+
+
+### Thread part 2 — @ChainLight_io — 2024-10-07 18:17 UTC (2024-10-07 19:17 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1843354908109717512
+- Metrics (at fetch): bookmark 1, impression 551, like 1, quote 0, reply 1, retweet 0
+
+> 3️⃣ @HyperliquidX Bridge Faces 3-Hour Outage
+>
+> • L1 perpetual DEX HyperLiquid experienced a 3-hour outage on its bridge.
+> • The issue was communicated via HyperLiquid's Discord, but no technical details have been released.
+>
+> (5/6) [pic.x.com/pwEqLR5HK6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZTphPXasAIXL_Z.png — no alt text provided by author
 
 
 ---
@@ -3893,7 +4156,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 ### Post — @ChainLight_io — 2024-08-15 13:51 UTC (2024-08-15 14:51 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1824081470304186795
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 21, impression 1402835, like 184, quote 1, reply 24, retweet 14
 
 > We did it again.
 >
@@ -4484,7 +4747,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 ### Post — @ChainLight_io — 2024-07-23 16:17 UTC (2024-07-23 17:17 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1815783286217769162
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 21338, like 66, quote 6, reply 4, retweet 7
 
 > Saving Akash from Unauthorized Access
 >
@@ -5111,7 +5374,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @ChainLight_io — 2024-07-10 12:04 UTC (2024-07-10 13:04 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1811008643904720919
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 20649, like 128, quote 4, reply 12, retweet 24
 
 > We are thrilled to announce the successful completion of @Moca_Network's audit.
 >
@@ -5147,7 +5410,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @ChainLight_io — 2024-07-09 12:50 UTC (2024-07-09 13:50 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810657861565116752
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 4534, like 28, quote 2, reply 1, retweet 3
 
 > We are thrilled to partner with @Official_Upbit to launch UPSide Academy, a blockchain cybersecurity talent development program.
 >
@@ -17280,17 +17543,30 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ## 2023-09-14 · Post · 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 compr
 
 
+Tags (automatic): Smart contract / DeFi
+
+
 ### Post — @ChainLight_io — 2023-09-14 16:13 UTC (2023-09-14 17:13 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1702354817090531747
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 3533, like 16, quote 2, reply 0, retweet 3
 
 > 🎉 Today, We're thrilled to announce that we launched Digital Asset Risk Tracker (DART), a Web3 comprehensive risk management platform.
 >
-> 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus [pic.x.com/BHVJCRHnIH]
+> 💪 ChainLight assists the Web3 pioneers in their success. We proactively identify and remove obstacles afront, enabling the builders to focus solely on innovation. Supporting their success, we aim to guarantee the safety of everyone looking to venture into the new territories.
+>
+> Starting with our smart contract security auditing service, we are now taking a step further by introducing the Web3 comprehensive risk management platform, DART.
+>
+> Today, ChainLight has launched DART - a comprehensive security platform aimed at protecting users, exchanges, and project builders from the various vulnerabilities and threats that plague the Web3 landscape.
+>
+> Try accessing DART right now through the link below. 👇
+>
+> http://dart.chainlight.io
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F5_xupgaMAEMUwb.jpg — no alt text provided by author
+
+**Links in post:** http://dart.chainlight.io
 
 
 ---

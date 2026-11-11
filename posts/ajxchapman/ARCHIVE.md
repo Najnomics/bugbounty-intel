@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 210
-- Conversations/threads: 197
+- Posts in this file: 238
+- Conversations/threads: 198
 - Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
 
@@ -604,7 +604,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-10-28 · Post · 2024 YTD BugBounty stats update, Week 43: 
+## 2024-10-28 · Thread · 2024 YTD BugBounty stats update, Week 43: 
 
 
 ### Post — @ajxchapman — 2024-10-28 20:15 UTC (2024-10-28 21:15 WAT)
@@ -625,6 +625,22 @@ Tags (automatic): Platform: HackerOne
 **Links in post:** https://twitter.com/ajxchapman/status/1848807727121727917
 
 **Quoted post** 1848807727121727917: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ajxchapman — 2024-10-28 20:15 UTC (2024-10-28 21:15 WAT)
+
+- URL: https://x.com/ajxchapman/status/1850994917176148267
+- Metrics (at fetch): bookmark 0, impression 1255, like 5, quote 0, reply 0, retweet 0
+
+> 💵 average bounty change from Week 42: 🔼
+>
+> 💵🎯 October: Met 🎉
+> 💵🎯 2024: Met 🔥🔥🔥
+> 💵🎯 2024 stretch: Not met 
+>
+> 🧑‍💻 34 Collabs
+> 🪲 48 Programs
+> ⏰ 60 Days oldest unpaid report
 
 
 ---
@@ -671,7 +687,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-10-09 · Post · It's good to see this platform response to a problematic bug hunter's public tantrum. If we want Bu
+## 2024-10-09 · Thread · It's good to see this platform response to a problematic bug hunter's public tantrum. If we want Bu
 
 
 ### Post — @ajxchapman — 2024-10-09 19:14 UTC (2024-10-09 20:14 WAT)
@@ -679,7 +695,9 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/ajxchapman/status/1844094073000558617
 - Metrics (at fetch): bookmark 5, impression 10452, like 73, quote 0, reply 6, retweet 3
 
-> It's good to see this platform response to a problematic bug hunter's public tantrum. If we want #BugBounty to be taken seriously, and endure, we need to raise our collective level of professionalism. OPs actions are a perfect example of how not to do it. https://t.co/pTGHmaszad
+> It's good to see this platform response to a problematic bug hunter's public tantrum. If we want #BugBounty to be taken seriously, and endure, we need to raise our collective level of professionalism. OPs actions are a perfect example of how not to do it. https://twitter.com/codingo_/status/1844086562226884750
+
+**Links in post:** https://twitter.com/codingo_/status/1844086562226884750
 
 **Quoted post (full text):**
 
@@ -692,6 +710,14 @@ Tags (automatic): Platform: HackerOne
     
     **Quoted post** 1843639780556583122: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @ajxchapman — 2024-10-09 19:14 UTC (2024-10-09 20:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1844094075382923641
+- Metrics (at fetch): bookmark 0, impression 1466, like 12, quote 0, reply 1, retweet 0
+
+> Before anyone tries to gotcha this, yes there are bad programs and some hunters will have bad experiences with good programs. The best thing we can do with our energy is to move on to better programs, rather than trying to fight programs and platform when we feel slighted.
 
 
 ---
@@ -721,7 +747,9 @@ Tags (automatic): Platform: HackerOne
     > ⚪ 3 Informational
     > 🔴 7 OOS
     >
-    > I'm tracking this data manually at the moment (and have a banging head cold) and feel like I've missed some reports 🤔 https://t.co/xAM3ZJbdSH
+    > I'm tracking this data manually at the moment (and have a banging head cold) and feel like I've missed some reports 🤔 https://twitter.com/ajxchapman/status/1840801361601896519
+    
+    **Links in post:** https://twitter.com/ajxchapman/status/1840801361601896519
     
     **Quoted post** 1840801361601896519: not readable via the API (deleted, private, or withheld).
     
@@ -729,7 +757,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-10-08 · Post · 2024 YTD BugBounty stats update, Week 40: 
+## 2024-10-08 · Thread · 2024 YTD BugBounty stats update, Week 40: 
 
 
 ### Post — @ajxchapman — 2024-10-08 08:24 UTC (2024-10-08 09:24 WAT)
@@ -745,9 +773,25 @@ Tags (automatic): Platform: HackerOne
 > ⚪ 3 Informational
 > 🔴 7 OOS
 >
-> I'm tracking this data manually at the moment (and have a banging head cold) and feel like I've missed some reports 🤔 https://t.co/xAM3ZJbdSH
+> I'm tracking this data manually at the moment (and have a banging head cold) and feel like I've missed some reports 🤔 https://twitter.com/ajxchapman/status/1840801361601896519
+
+**Links in post:** https://twitter.com/ajxchapman/status/1840801361601896519
 
 **Quoted post** 1840801361601896519: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ajxchapman — 2024-10-08 08:24 UTC (2024-10-08 09:24 WAT)
+
+- URL: https://x.com/ajxchapman/status/1843568104984412533
+- Metrics (at fetch): bookmark 0, impression 983, like 5, quote 0, reply 0, retweet 0
+
+> 💵 average change from Week 39: 🔽
+>
+> 💵🎯 October: Not met
+> 💵🎯 2024: Met 🔥🔥🔥 
+>
+> 🧑‍💻 31 Collabs
+> 🪲 45 Programs
 
 
 ---
@@ -1492,7 +1536,7 @@ Tags (automatic): XSS, RCE, Platform: HackerOne
 
 ---
 
-## 2023-09-04 · Post · The past week I completely failed to port a Chrome sandbox escape exploit for CVE-2021-30633 to Chro
+## 2023-09-04 · Thread · The past week I completely failed to port a Chrome sandbox escape exploit for CVE-2021-30633 to Chro
 
 
 ### Post — @ajxchapman — 2023-09-04 13:19 UTC (2023-09-04 14:19 WAT)
@@ -1501,6 +1545,26 @@ Tags (automatic): XSS, RCE, Platform: HackerOne
 - Metrics (at fetch): bookmark 4, impression 5969, like 34, quote 0, reply 3, retweet 0
 
 > The past week I completely failed to port a Chrome sandbox escape exploit for CVE-2021-30633 to Chrome 90. And by completely, I mean _completely_. This is not something I've attempted before, and I have learned so much in the process.... but man, do I feel like a failure 😆
+
+
+### Thread part 2 — @ajxchapman — 2023-09-04 13:19 UTC (2023-09-04 14:19 WAT)
+
+- URL: https://x.com/ajxchapman/status/1698687205235965965
+- Metrics (at fetch): bookmark 0, impression 813, like 8, quote 1, reply 1, retweet 0
+
+> I post this as I think it's important to highlight when we fail as well as when we succeed. It's not all $$$ all the time in #BugBounty, despite what many people present publicly.
+>
+> Our failures are as important as our successes, as long as we learn something along the way.
+
+
+### Thread part 3 — @ajxchapman — 2023-09-04 13:19 UTC (2023-09-04 14:19 WAT)
+
+- URL: https://x.com/ajxchapman/status/1698687206842380519
+- Metrics (at fetch): bookmark 0, impression 717, like 6, quote 0, reply 0, retweet 0
+
+> In this case I learned more in one week than in the past 6 months, frustratingly and painstakingly working through the quagmire of public knowledge in this niche.
+>
+> I have ideas on how to progress, but for now I need a break... my brain feels like a bag of tired, angry squirrels.
 
 
 ---
@@ -1561,10 +1625,10 @@ Tags (automatic): XSS
 
 ---
 
-## 2023-08-17 · Post · I earned $200 and a passive aggressive response for a 0-day RCE BugBounty report 🤦
+## 2023-08-17 · Thread · I earned $200 and a passive aggressive response for a 0-day RCE BugBounty report 🤦
 
 
-Tags (automatic): RCE
+Tags (automatic): RCE, Blockchain / L1-L2 / bridge, Platform: HackerOne, Platform: Bugcrowd
 
 
 ### Post — @ajxchapman — 2023-08-17 13:14 UTC (2023-08-17 14:14 WAT)
@@ -1575,6 +1639,74 @@ Tags (automatic): RCE
 > I earned $200 and a passive aggressive response for a 0-day RCE #BugBounty report 🤦
 >
 > Bad call from the program IMO. I won't be rushing to hack on them again in the future, which is a shame as I previously enjoyed their program.
+
+
+### Thread part 2 — @ajxchapman — 2023-08-17 13:14 UTC (2023-08-17 14:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692162922372280402
+- Metrics (at fetch): bookmark 0, impression 1683, like 8, quote 0, reply 1, retweet 0
+
+> The program in question was using 3rd party software with a history of vulnerabilities. I demonstrated a bypass of an old vulnerability fix in the software resulting in RCE within one of their Kubernetes clusters.
+
+
+### Thread part 3 — @ajxchapman — 2023-08-17 13:14 UTC (2023-08-17 14:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692162923831935427
+- Metrics (at fetch): bookmark 0, impression 1690, like 8, quote 0, reply 1, retweet 0
+
+> In the report I outlined the impact, and a fix they could implement right away to mitigate this issue, and any future issues which might be found in the affected software.
+
+
+### Thread part 4 — @ajxchapman — 2023-08-17 13:14 UTC (2023-08-17 14:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692162925287399664
+- Metrics (at fetch): bookmark 0, impression 6706, like 11, quote 1, reply 2, retweet 0
+
+> 6 months later I am awarded $200 and told the program is "not a vulnerability broker and providing rewards for zero day vulnerabilities in another company's product is not something we consider acceptable" 👀
+
+
+### Thread part 5 — @ajxchapman — 2023-08-17 13:14 UTC (2023-08-17 14:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692162926667350476
+- Metrics (at fetch): bookmark 0, impression 1736, like 11, quote 0, reply 2, retweet 0
+
+> I don't know if this is a "lost in translation" comment, but I find this sort of response in bad taste. It has  unfortunately burned away good will and relationship I previously had with the program.
+>
+> I would much prefer a $0 reward and a pat on the back, than $200 and a "lesson"
+
+
+### Thread part 6 — @ajxchapman — 2023-08-17 13:14 UTC (2023-08-17 14:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692162928038858866
+- Metrics (at fetch): bookmark 0, impression 7945, like 11, quote 2, reply 2, retweet 0
+
+> Not paying for 0-days is a valid #BugBounty program choice, however this needs to be clearly specified on the program policy page.
+>
+> (Since my submission, the program's policy has been updated to reflect that 0-days in 3rd party software are out of scope.)
+
+
+### Thread part 7 — @ajxchapman — 2023-08-17 13:14 UTC (2023-08-17 14:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692162929498407284
+- Metrics (at fetch): bookmark 0, impression 2279, like 13, quote 0, reply 3, retweet 0
+
+> On to the next program, where with any luck my reports will be gladly received.
+
+
+### Thread part 8 — @ajxchapman — 2023-08-18 08:54 UTC (2023-08-18 09:54 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692459974943711355
+- Metrics (at fetch): bookmark 0, impression 336, like 0, quote 0, reply 1, retweet 0
+
+> @GlennPegden Actually it was a Bugcrowd program, but I've not reached out to them since the report was awarded. I did have a H1 Hacker Success Manager reach out to me to check if it was on their platform within an hour of posting though. They are definitely getting a lot better on that front.
+
+
+### Thread part 9 — @ajxchapman — 2023-08-18 08:55 UTC (2023-08-18 09:55 WAT)
+
+- URL: https://x.com/ajxchapman/status/1692460112793813032
+- Metrics (at fetch): bookmark 0, impression 194, like 0, quote 0, reply 2, retweet 0
+
+> @GlennPegden The point I was trying (perhaps clumsily) to make was less about the money, more how quickly bridges can be burned. There are a _lot_ of programs bug hunters can work on, it doesn't take much to put a us off a program and move on to the next one.
 
 
 ---
@@ -1621,7 +1753,7 @@ Tags (automatic): XSS, RCE
 
 ---
 
-## 2023-08-14 · Post · BugBounty Automation Development Diary, day 2:
+## 2023-08-14 · Thread · BugBounty Automation Development Diary, day 2:
 
 
 Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
@@ -1639,9 +1771,80 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 > #BBADD
 
 
+### Thread part 2 — @ajxchapman — 2023-08-14 15:05 UTC (2023-08-14 16:05 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691103679594590208
+- Metrics (at fetch): bookmark 1, impression 1095, like 2, quote 0, reply 1, retweet 0
+
+> @Hacker0x01
+> ✅ Official hacker API
+> ✅ Token auth
+> ✅ Machine parsable in scope assets
+> ✅ Machine parsable out of scope assets
+> ❌ Free text rules of engagement (req/s, header tags, etc.), if any at all
+
+
+### Thread part 3 — @ajxchapman — 2023-08-14 15:05 UTC (2023-08-14 16:05 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691103681070960641
+- Metrics (at fetch): bookmark 0, impression 726, like 2, quote 0, reply 1, retweet 0
+
+> @Bugcrowd
+> ❌ No official hacker API, have to rely on internal API
+> ❌ Time limited user session auth
+> ✅ Machine parsable in scope assets
+> ✅ Machine parsable out of scope assets
+> ❌ Free text rules of engagement (req/s, header tags, etc.), if any at all
+
+
+### Thread part 4 — @ajxchapman — 2023-08-14 15:05 UTC (2023-08-14 16:05 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691103682660540416
+- Metrics (at fetch): bookmark 0, impression 726, like 2, quote 0, reply 1, retweet 0
+
+> @intigriti
+> ❌ No official hacker API, have to rely on internal API
+> ❌ Time limited user token auth
+> ✅ Machine parsable in scope assets
+> ❌ Free text out of scope assets
+> ✅ Machine parsable rules of engagement (req/s, header tags, etc.)
+
+
+### Thread part 5 — @ajxchapman — 2023-08-14 15:05 UTC (2023-08-14 16:05 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691103684153815040
+- Metrics (at fetch): bookmark 0, impression 1063, like 1, quote 0, reply 2, retweet 0
+
+> (There is a good chance I've missed something during this assessment, so please feel free to send corrections if you spot any mistakes!)
+
+
+### Thread part 6 — @ajxchapman — 2023-08-14 15:05 UTC (2023-08-14 16:05 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691103685861158912
+- Metrics (at fetch): bookmark 0, impression 1449, like 1, quote 0, reply 1, retweet 0
+
+> For those following along, #BBADD day 1 can be found here:
+>
+> https://x.com/ajxchapman/status/1690370404001382400?s=20
+
+**Links in post:** https://x.com/ajxchapman/status/1690370404001382400?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ajxchapman — 2023-08-12 14:31 UTC (2023-08-12 15:31 WAT)
+    
+    - URL: https://x.com/ajxchapman/status/1690370404001382400
+    - Metrics (at fetch): bookmark 16, impression 11775, like 39, quote 1, reply 6, retweet 0
+    
+    > #BugBounty Automation Development Diary, day 1. I have spent far too long thinking about Scope, and how to quickly determine if a domain is in or out of scope based on platform scope definitions. Happy with where I've got to, but I'm sure I'll revisit again in the future.
+    >
+    > #BBADD
+    
+
+
 ---
 
-## 2023-08-14 · Post · Ahhhhhh, it's even more amazing in person! I missed H1-702 in Vegas this year, so missed the H1-Elit
+## 2023-08-14 · Thread · Ahhhhhh, it's even more amazing in person! I missed H1-702 in Vegas this year, so missed the H1-Elit
 
 
 Tags (automatic): Platform: HackerOne
@@ -1652,10 +1855,33 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/ajxchapman/status/1691065131696889857
 - Metrics (at fetch): bookmark 0, impression 5829, like 70, quote 0, reply 2, retweet 1
 
-> Ahhhhhh, it's even more amazing in person! I missed H1-702 in Vegas this year, so missed the H1-Elite awards. @Hacker0x01 shipped this framed print to me and it is gorgeous 😍 Thanks again to all of the HackerOne team who made this happen! https://t.co/v0U5xGctnD
+> Ahhhhhh, it's even more amazing in person! I missed H1-702 in Vegas this year, so missed the H1-Elite awards. @Hacker0x01 shipped this framed print to me and it is gorgeous 😍 Thanks again to all of the HackerOne team who made this happen! [pic.x.com/v0U5xGctnD]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F3fd4W6WUAABdAV.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ajxchapman — 2023-08-14 12:34 UTC (2023-08-14 13:34 WAT)
+
+- URL: https://x.com/ajxchapman/status/1691065699924398080
+- Metrics (at fetch): bookmark 0, impression 604, like 1, quote 0, reply 0, retweet 0
+
+> Obligatory weird photo angle as the glass is quite shiny and I haven't tidied my office since my daughter decided to empty all of the drawers out on to the floor 😆
+
+
+---
+
+## 2023-08-12 · Post · BugBounty Automation Development Diary, day 1. I have spent far too long thinking about Scope, and 
+
+
+### Post — @ajxchapman — 2023-08-12 14:31 UTC (2023-08-12 15:31 WAT)
+
+- URL: https://x.com/ajxchapman/status/1690370404001382400
+- Metrics (at fetch): bookmark 16, impression 11775, like 39, quote 1, reply 6, retweet 0
+
+> #BugBounty Automation Development Diary, day 1. I have spent far too long thinking about Scope, and how to quickly determine if a domain is in or out of scope based on platform scope definitions. Happy with where I've got to, but I'm sure I'll revisit again in the future.
+>
+> #BBADD
 
 
 ---
@@ -1713,7 +1939,30 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-07-11 · Post · For reference, @Shopify (~$5.6bn revenue in 2022) awards hackers up to $200k for finding Critical vu
+## 2023-07-11 · Thread · Visa (~$30bn revenue in 2022) awards hackers less than $3k for finding Critical vulnerabilities in t
+
+
+### Post — @ajxchapman — 2023-07-11 11:26 UTC (2023-07-11 12:26 WAT)
+
+- URL: https://x.com/ajxchapman/status/1678727572836737026
+- Metrics (at fetch): bookmark 7, impression 51350, like 122, quote 2, reply 16, retweet 10
+
+> Visa (~$30bn revenue in 2022) awards hackers less than $3k for finding Critical vulnerabilities in their infrastructure 🤦‍♂️ https://t.co/Soztbbg9gk
+
+**Quoted post** 1678456855364878336: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ajxchapman — 2023-07-11 16:39 UTC (2023-07-11 17:39 WAT)
+
+- URL: https://x.com/ajxchapman/status/1678806322324684801
+- Metrics (at fetch): bookmark 0, impression 63, like 0, quote 0, reply 0, retweet 0
+
+> @DanaEpp I believe in this industry, and want programs to succeed. There is a good chance a program like this won't be seen as successful, so could be terminated, or the security team may be unable to justify future buy-in. That is a bad outcome on all sides!
+
+
+---
+
+## 2023-07-11 · Thread · For reference, @Shopify (~$5.6bn revenue in 2022) awards hackers up to $200k for finding Critical vu
 
 
 ### Post — @ajxchapman — 2023-07-11 11:34 UTC (2023-07-11 12:34 WAT)
@@ -1738,19 +1987,18 @@ Tags (automatic): RCE
     
 
 
----
+### Thread part 2 — @ajxchapman — 2023-07-11 12:30 UTC (2023-07-11 13:30 WAT)
 
-## 2023-07-11 · Post · Visa (~$30bn revenue in 2022) awards hackers less than $3k for finding Critical vulnerabilities in t
+- URL: https://x.com/ajxchapman/status/1678743617224036355
+- Metrics (at fetch): bookmark 0, impression 102, like 1, quote 0, reply 1, retweet 0
 
-
-### Post — @ajxchapman — 2023-07-11 11:26 UTC (2023-07-11 12:26 WAT)
-
-- URL: https://x.com/ajxchapman/status/1678727572836737026
-- Metrics (at fetch): bookmark 7, impression 51350, like 122, quote 2, reply 16, retweet 10
-
-> Visa (~$30bn revenue in 2022) awards hackers less than $3k for finding Critical vulnerabilities in their infrastructure 🤦‍♂️ https://t.co/Soztbbg9gk
-
-**Quoted post** 1678456855364878336: not readable via the API (deleted, private, or withheld).
+> @quentynblog @Shopify IMO a successful bounty program needs one or more of:
+> * Higher than media bounty payouts
+> * An interesting scope that no other program can offer
+> * Brand association that makes hackers want to spend time on them
+> * Some other unique pull factor
+>
+> This Visa program has none of those.
 
 
 ---
@@ -1784,7 +2032,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2023-06-27 · Post · There have been two cases recently where I had known a potential bug existed, but investigated and t
+## 2023-06-27 · Thread · There have been two cases recently where I had known a potential bug existed, but investigated and t
 
 
 ### Post — @ajxchapman — 2023-06-27 15:28 UTC (2023-06-27 16:28 WAT)
@@ -1797,6 +2045,26 @@ Tags (automatic): Platform: HackerOne
 > In one case the bug was paid out as a Low, in the other it was a Duplicate of an internal issue. 1/
 >
 > #BugBountyTips
+
+
+### Thread part 2 — @ajxchapman — 2023-06-27 15:28 UTC (2023-06-27 16:28 WAT)
+
+- URL: https://x.com/ajxchapman/status/1673715054238212100
+- Metrics (at fetch): bookmark 0, impression 1123, like 9, quote 0, reply 1, retweet 0
+
+> In both of these cases, the time and mental energy spent on these issues was huge. Whenever I had a spare moment I would be considering how to exploit the issue, or how to increase the impact. 
+>
+> Needless to say, the Return On Investment of these bugs was next to nothing 😢 2/
+
+
+### Thread part 3 — @ajxchapman — 2023-06-27 15:29 UTC (2023-06-27 16:29 WAT)
+
+- URL: https://x.com/ajxchapman/status/1673715056729546754
+- Metrics (at fetch): bookmark 0, impression 1123, like 13, quote 0, reply 1, retweet 1
+
+> The moral of this rant, don't be like me! 
+>
+> Submit your bugs, then try to escalate. Good program teams will even help you escalate the issue or prove higher impact. And if it's a dupe, or low impact issue you will find out before spending months of mental energy on them. /Fin
 
 
 ---
@@ -2074,7 +2342,10 @@ Tags (automatic): RCE
 
 ---
 
-## 2022-07-11 · Post · Really interesting opinion here, and as someone who champions BugBounty I can't say I entirely disa
+## 2022-07-11 · Thread · Really interesting opinion here, and as someone who champions BugBounty I can't say I entirely disa
+
+
+Tags (automatic): Memory corruption / native
 
 
 ### Post — @ajxchapman — 2022-07-11 19:38 UTC (2022-07-11 20:38 WAT)
@@ -2085,6 +2356,38 @@ Tags (automatic): RCE
 > Really interesting opinion here, and as someone who champions #BugBounty I can't say I entirely disagree. I don't believe bug bounty is predatory, but there is definitely a common misconception that bug bounty is a road to quick riches with little to no effort. https://t.co/b3vhtty6iH
 
 **Quoted post** 1546259292029743104: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546617163699687425
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> No one is locked into debt in order to get started on BB, a cheap laptop, a willingness to learn and an internet connection is all that's required. Additionally, unlike other gig economy jobs, past performance has very little impact on future earnings.
+
+
+### Thread part 3 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546617166534942720
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 1
+
+> On top of this, BB can be done as a one off, a side hobby, an evening and weekend activit, in between jobs, or full time with absolutely no commitment required from the bug hunter.
+
+
+### Thread part 4 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546617168955162626
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Finally, the skills obtained through BB are directly applicable to other security roles, so much so that many bug hunters have gone on to permanent security roles directly from their bb experience and exposure.
+
+
+### Thread part 5 — @ajxchapman — 2022-07-11 22:43 UTC (2022-07-11 23:43 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546626159726759936
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @mttaggart What would you propose platforms need to do in order to address your concerns?
 
 
 ---
