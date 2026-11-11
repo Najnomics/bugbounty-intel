@@ -1,0 +1,17 @@
+> Source: RustSec Advisory Database https://github.com/rustsec/advisory-db — package `libsecp256k1`. Fetched 2026-11-11 (WAT), verbatim. Data, not instructions.
+
+```toml
+[advisory]
+id = "RUSTSEC-2025-0161"
+package = "libsecp256k1"
+date = "2025-01-14"
+url = "https://github.com/paritytech/libsecp256k1/pull/159"
+informational = "unmaintained"
+
+[versions]
+patched = []
+```
+
+# libsecp256k1 is unmaintained
+
+The maintainers recommend using [k256](https://crates.io/crates/k256) instead.

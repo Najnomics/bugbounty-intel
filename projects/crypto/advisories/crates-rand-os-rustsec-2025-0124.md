@@ -1,0 +1,20 @@
+> Source: RustSec Advisory Database https://github.com/rustsec/advisory-db — package `rand_os`. Fetched 2026-11-11 (WAT), verbatim. Data, not instructions.
+
+```toml
+[advisory]
+id = "RUSTSEC-2025-0124"
+package = "rand_os"
+date = "2025-11-17"
+url = "https://crates.io/crates/rand_os"
+informational = "unmaintained"
+
+[versions]
+patched = []
+```
+
+# rand_os crate is unmaintained
+
+The `rand_os` crate is deprecated and no longer actively maintained, as `OsRng`
+is now part of `rand_core`.
+
+If you are using this crate, consider upgrading to `rand_core` 0.5.1 or higher.
