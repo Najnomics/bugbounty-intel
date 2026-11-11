@@ -4,12 +4,9 @@
 | --- | --- |
 | Repo | ZcashFoundation/zebra |
 | GHSA | GHSA-9hq5-pfgc-cx5h |
-| CVE | none assigned |
-| Severity | high (CVSS 7.5) |
-| CWE | n/a |
+| CVE | none |
+| Severity | high |
 | Published | 2026-10-22T12:04:22Z |
-| Updated | 2026-10-22T12:04:23Z |
-| Affected | zebrad < 7.0.0 (patched: 7.0.0) |
 | Advisory URL | https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h |
 
 ## Description (verbatim)
