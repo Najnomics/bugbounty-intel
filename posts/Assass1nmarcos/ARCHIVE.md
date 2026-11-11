@@ -701,6 +701,11 @@ Tags (automatic): IDOR / BOLA
 
 > ….It’s a subdomain takeover which is OOS in policy? Really which kind of fraud is this ? By BOLA I have all endpoints in control so marking it subdomain takeover just to avoid rewarding a bounty ? Please see the HAI summary &amp; the triager response.(screenshots) https://t.co/rayqZOSBTT
 
+**Media:**
+- photo: https://pbs.twimg.com/media/HMtsVUDaYAA_uqr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HMtsVUKaoAE5kfL.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HMtsVUIbYAEB9uC.jpg — no alt text provided by author
+
 
 ---
 
@@ -713,7 +718,7 @@ Tags (automatic): IDOR / BOLA, Platform: HackerOne
 ### Post — @Assass1nmarcos — 2026-07-08 15:00 UTC (2026-07-08 16:00 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2074871162035986895
-- Metrics (at fetch): bookmark 11, impression 15064, like 75, quote 0, reply 5, repost 1
+- Metrics (at fetch): bookmark 11, impression 15064, like 75, quote 0, reply 5, retweet 1
 
 > Hello @Hacker0x01,
 >

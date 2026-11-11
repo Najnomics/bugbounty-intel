@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 75
-- Conversations/threads: 56
+- Posts in this file: 78
+- Conversations/threads: 59
 - Oldest post captured: 2020-11-22
 - Newest post captured: 2026-11-03
 
@@ -1413,6 +1413,53 @@ Tags (automatic): Memory corruption / native
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G2Gp8m1bMAEpVzR.png — no alt text provided by author
+
+
+---
+
+## 2024-11-22 · Post · @S1r1u5_ The only downside with this is that sometimes, the bottom 12 bits of the leaked pointer can
+
+
+### Post — @farazsth98 — 2024-11-22 11:11 UTC (2024-11-22 12:11 WAT)
+
+- URL: https://x.com/farazsth98/status/1859917498931630400
+- Metrics (at fetch): bookmark 0, impression 186, like 0, quote 0, reply 1, retweet 0
+
+> @S1r1u5_ The only downside with this is that sometimes, the bottom 12 bits of the leaked pointer can be the same across multiple versions of libc. In this case, you can have the exploit prompt you which offset option to pick, so if one doesn't work, you can try others. Something like that
+
+
+---
+
+## 2024-10-03 · Post · Ah I completely forgot about this until just now, but ZDI accepted one of my two VirtualBox OOB read
+
+
+### Post — @farazsth98 — 2024-10-03 23:18 UTC (2024-10-04 00:18 WAT)
+
+- URL: https://x.com/farazsth98/status/1841981271159013753
+- Metrics (at fetch): bookmark 11, impression 4235, like 44, quote 0, reply 1, retweet 0
+
+> Ah I completely forgot about this until just now, but ZDI accepted one of my two VirtualBox OOB read bug submissions.
+>
+> Sadly I lost interest after not being able to set breakpoints correctly for debugging. They'd always just get ignored for some reason...
+>
+> https://t.co/nIbFgGTyXg
+
+
+---
+
+## 2024-08-16 · Post · Writeup coming soon ✅
+
+
+### Post — @farazsth98 — 2024-08-16 19:19 UTC (2024-08-16 20:19 WAT)
+
+- URL: https://x.com/farazsth98/status/1824526540258021381
+- Metrics (at fetch): bookmark 12, impression 5658, like 68, quote 0, reply 2, retweet 5
+
+> Writeup coming soon ✅
+>
+> https://t.co/rVdKDThTj3 https://t.co/3fmGlWaeSh
+
+**Quoted post** 1744981499533983995: not readable via the API (deleted, private, or withheld).
 
 
 ---

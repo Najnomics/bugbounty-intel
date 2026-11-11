@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 106
-- Conversations/threads: 88
-- Oldest post captured: 2025-04-07
+- Posts in this file: 131
+- Conversations/threads: 97
+- Oldest post captured: 2025-02-20
 - Newest post captured: 2026-11-05
 
 
@@ -1513,15 +1513,312 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-04-07 · Post · @HackingNotes @Mokusou4 this works because the cookie was NOT httponly. We now have the auth cookie 
+## 2025-04-07 · Thread · I've been working on a very cool xss chain today with @HackingNotes (a thread)
 
 
-Tags (automatic): Account takeover
+Tags (automatic): XSS, Account takeover, OAuth
 
 
-### Post — @xssdoctor — 2025-04-07 17:10 UTC (2025-04-07 18:10 WAT)
+### Post — @xssdoctor — 2025-04-07 17:01 UTC (2025-04-07 18:01 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909290537754280111
+- Metrics (at fetch): bookmark 49, impression 8863, like 82, quote 0, reply 2, retweet 9
+
+> I've been working on a very cool xss chain today with @HackingNotes (a thread)
+
+
+### Thread part 2 — @xssdoctor — 2025-04-07 17:02 UTC (2025-04-07 18:02 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909290715177242955
+- Metrics (at fetch): bookmark 2, impression 606, like 2, quote 0, reply 1, retweet 0
+
+> @HackingNotes So http://target.com has a self-xss, but it requires a LOT of user interaction (3-4 clicks). This would be exploitable if chained with clickjacking
+
+**Links in post:** http://target.com
+
+
+### Thread part 3 — @xssdoctor — 2025-04-07 17:03 UTC (2025-04-07 18:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909290969486229804
+- Metrics (at fetch): bookmark 1, impression 586, like 2, quote 0, reply 1, retweet 0
+
+> @HackingNotes most of the pages are not frameable, but we find one that is http://target.com/frameable page. HOWEVER, when you frame the page, you lose all cookies and the framed page is logged out and redirects to /login
+
+**Links in post:** http://target.com/frameable
+
+
+### Thread part 4 — @xssdoctor — 2025-04-07 17:04 UTC (2025-04-07 18:04 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909291197304029455
+- Metrics (at fetch): bookmark 0, impression 582, like 2, quote 0, reply 1, retweet 0
+
+> @HackingNotes HOWEVER. the parent pages are STILL logged into the attacker account. this is actually a fantastic scenario. If we can get xss on this frame, we can achieve xss on the parent (victim) page
+
+
+### Thread part 5 — @xssdoctor — 2025-04-07 17:05 UTC (2025-04-07 18:05 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909291520773026130
+- Metrics (at fetch): bookmark 1, impression 528, like 2, quote 0, reply 1, retweet 0
+
+> @HackingNotes While there were a number of login csrf's for this target, none were frameable. we COULD however, log in to our accounts in the frame using a third party oauth provider. if we could get the victim to click the "login with [redacted]" the frame would be logged in as the attacker
+
+
+### Thread part 6 — @xssdoctor — 2025-04-07 17:06 UTC (2025-04-07 18:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909291676038029455
+- Metrics (at fetch): bookmark 2, impression 488, like 3, quote 0, reply 1, retweet 0
+
+> @HackingNotes So using some help from our boy @Mokusou4, we found a login csrf for the oauth provider
+
+
+### Thread part 7 — @xssdoctor — 2025-04-07 17:07 UTC (2025-04-07 18:07 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909291998776836411
+- Metrics (at fetch): bookmark 2, impression 508, like 3, quote 0, reply 1, retweet 0
+
+> @HackingNotes @Mokusou4 So here is the attack scenario. attacker page 1 has a script which has http://window.name = "booya". then upon button click, it opens up attacker page 2 THEN redirects itself to the oauth login csrf. Then page 2 does http://window.open("victim page", "booya").
+
+**Links in post:** http://window.name, http://window.open
+
+
+### Thread part 8 — @xssdoctor — 2025-04-07 17:08 UTC (2025-04-07 18:08 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909292287072621001
+- Metrics (at fetch): bookmark 1, impression 471, like 3, quote 0, reply 1, retweet 0
+
+> @HackingNotes @Mokusou4 THIS will open that FIRST page to our victim page, and allows us to access it through window.opener. Now on attacker page 2. we frame "https://target.com/frameablepage" and use clickjacking to have the victim click the oauth button
+
+**Links in post:** https://target.com/frameablepage
+
+
+### Thread part 9 — @xssdoctor — 2025-04-07 17:09 UTC (2025-04-07 18:09 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909292562931740928
+- Metrics (at fetch): bookmark 2, impression 1447, like 6, quote 0, reply 2, retweet 0
+
+> @HackingNotes @Mokusou4 now the frame is logged in as the attacker. Now we do some more clickjacking to trigger the xss. The xss payload is &lt;img src=x onerror="alert('window.parent.opener.document.cookie')"&gt;
+
+
+### Thread part 10 — @xssdoctor — 2025-04-07 17:10 UTC (2025-04-07 18:10 WAT)
 
 - URL: https://x.com/xssdoctor/status/1909292697396916475
 - Metrics (at fetch): bookmark 0, impression 1248, like 5, quote 0, reply 0, retweet 0
 
 > @HackingNotes @Mokusou4 this works because the cookie was NOT httponly. We now have the auth cookie to the victim's account and have ATO
+
+
+---
+
+## 2025-03-21 · Post · Yay, I was awarded a $1,700 bounty on @Hacker0x01! https://hackerone.com/xssdoctor TogetherWeHitHar
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-03-21 12:38 UTC (2025-03-21 13:38 WAT)
+
+- URL: https://x.com/xssdoctor/status/1903063696374411456
+- Metrics (at fetch): bookmark 13, impression 7658, like 132, quote 1, reply 4, retweet 7
+
+> Yay, I was awarded a $1,700 bounty on @Hacker0x01! https://hackerone.com/xssdoctor #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/xssdoctor
+
+
+---
+
+## 2025-03-13 · Post · Here’s a cool trick: if you are trying to to bypass an origin check using a null origin but the targ
+
+
+### Post — @xssdoctor — 2025-03-13 16:02 UTC (2025-03-13 17:02 WAT)
+
+- URL: https://x.com/xssdoctor/status/1900215882669793589
+- Metrics (at fetch): bookmark 86, impression 9115, like 124, quote 0, reply 6, retweet 10
+
+> Here’s a cool trick: if you are trying to to bypass an origin check using a null origin but the target is not frameable, you can open the page from within a null origin frame that YOU control and the popup will also be null origin
+
+
+---
+
+## 2025-03-03 · Post · One day after @Jhaddix attacking AI class I got a cool prompt injection on a target. This is honestl
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2025-03-03 00:52 UTC (2025-03-03 01:52 WAT)
+
+- URL: https://x.com/xssdoctor/status/1896362959544459586
+- Metrics (at fetch): bookmark 6, impression 6246, like 53, quote 1, reply 1, retweet 2
+
+> One day after @Jhaddix attacking AI class I got a cool prompt injection on a target. This is honestly a must for AI enthusiasts and bug bounty hunters
+
+
+---
+
+## 2025-02-28 · Post · The first day of @Jhaddix red blue purple AI was FANTASTIC! Can’t wait for day 2
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2025-02-28 01:30 UTC (2025-02-28 02:30 WAT)
+
+- URL: https://x.com/xssdoctor/status/1895285380049760436
+- Metrics (at fetch): bookmark 0, impression 1949, like 10, quote 0, reply 1, retweet 1
+
+> The first day of @Jhaddix red blue purple AI was FANTASTIC! Can’t wait for day 2
+
+
+---
+
+## 2025-02-27 · Post · Yay, I was awarded a $3,750 bounty on @Hacker0x01! https://hackerone.com/xssdoctor TogetherWeHitHar
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-02-27 17:51 UTC (2025-02-27 18:51 WAT)
+
+- URL: https://x.com/xssdoctor/status/1895169837426467290
+- Metrics (at fetch): bookmark 13, impression 5450, like 134, quote 0, reply 2, retweet 4
+
+> Yay, I was awarded a $3,750 bounty on @Hacker0x01! https://hackerone.com/xssdoctor #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/xssdoctor
+
+
+---
+
+## 2025-02-27 · Post · Yay, I was awarded a $6,000 bounty on @Hacker0x01! https://hackerone.com/xssdoctor TogetherWeHitHar
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-02-27 17:50 UTC (2025-02-27 18:50 WAT)
+
+- URL: https://x.com/xssdoctor/status/1895169731885253027
+- Metrics (at fetch): bookmark 23, impression 7292, like 184, quote 0, reply 3, retweet 3
+
+> Yay, I was awarded a $6,000 bounty on @Hacker0x01! https://hackerone.com/xssdoctor #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/xssdoctor
+
+
+---
+
+## 2025-02-24 · Post · So excited for @Jhaddix new course! I’ve been sleeping on prompt injection for too long. 
+
+
+### Post — @xssdoctor — 2025-02-24 00:17 UTC (2025-02-24 01:17 WAT)
+
+- URL: https://x.com/xssdoctor/status/1893817530122117366
+- Metrics (at fetch): bookmark 20, impression 5409, like 69, quote 0, reply 1, retweet 4
+
+> So excited for @Jhaddix new course! I’ve been sleeping on prompt injection for too long. 
+>
+> https://payhip.com/b/2qPZ1
+
+**Links in post:** https://payhip.com/b/2qPZ1
+
+
+---
+
+## 2025-02-21 · Thread · Just found an extremely cool bug. I was looking at the main page of my target. I noticed that there 
+
+
+Tags (automatic): XSS, Race condition
+
+
+### Post — @xssdoctor — 2025-02-21 03:33 UTC (2025-02-21 04:33 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892779716655882704
+- Metrics (at fetch): bookmark 191, impression 31227, like 254, quote 1, reply 3, retweet 30
+
+> Just found an extremely cool bug. I was looking at the main page of my target. I noticed that there was a third party iframe that appeared for about 2 seconds while the page was loading. I found the origin and found reflected xss. The problem was that I had a 2 second window to
+
+
+### Thread part 2 — @xssdoctor — 2025-02-21 03:36 UTC (2025-02-21 04:36 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892780396510613683
+- Metrics (at fetch): bookmark 2, impression 2818, like 17, quote 0, reply 1, retweet 0
+
+> So ordinarily in these situations, the attack works like this: you open your http://site.com/firstpage.html. This page opens http://vulnerablethirdpartysite.com. Then you redirect the initial page to http://victim.com, which has the vulnerable iframe on it.
+
+**Links in post:** http://site.com/firstpage.html, http://vulnerablethirdpartysite.com, http://victim.com
+
+
+### Thread part 3 — @xssdoctor — 2025-02-21 03:38 UTC (2025-02-21 04:38 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892780850556629293
+- Metrics (at fetch): bookmark 4, impression 2760, like 15, quote 0, reply 1, retweet 0
+
+> The reason behind this is that window.opener is magic. It’s basically the only way to see into the frames of another page, as long as the frames are same origin. 
+>
+> So window.opener.frames[0].location.href = “JavaScript:alert()”
+
+
+### Thread part 4 — @xssdoctor — 2025-02-21 03:39 UTC (2025-02-21 04:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892781094212169892
+- Metrics (at fetch): bookmark 0, impression 2357, like 11, quote 0, reply 1, retweet 0
+
+> The problem here is that the iframe was ephemeral. So not only did I have to do the above, but it had to be exploited as a race condition
+
+
+### Thread part 5 — @xssdoctor — 2025-02-21 03:41 UTC (2025-02-21 04:41 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892781631011737807
+- Metrics (at fetch): bookmark 1, impression 2535, like 12, quote 0, reply 1, retweet 0
+
+> Also, the frame was in a different  numbered frame each time the page was opened. Sometimes it was frames[15] and other times it was frames[20]. So what I did was open page A to my first attacker page. The user clicks a button which opens the third party which had my xss
+
+
+### Thread part 6 — @xssdoctor — 2025-02-21 03:42 UTC (2025-02-21 04:42 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892782035208458256
+- Metrics (at fetch): bookmark 5, impression 2468, like 14, quote 0, reply 1, retweet 0
+
+> The payload called out to my attack server which had this code on it 
+>
+> ```setInterval(function() {
+>       // Ensure window.opener exists and has frames
+>       if (window.opener &amp;&amp; window.opener.frames) {
+>         for (let i = 0; i &lt; window.opener.frames.length; i++) {
+>           try
+
+
+### Thread part 7 — @xssdoctor — 2025-02-21 03:44 UTC (2025-02-21 04:44 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892782357981093994
+- Metrics (at fetch): bookmark 0, impression 3697, like 11, quote 0, reply 1, retweet 0
+
+> This code sets an interval of 10 milliseconds and continually looks at all of the frames and sees if it can read location.href of any of them, if so, it redirects to JavaScript:alert(). The xss will fire every time.
+
+
+### Thread part 8 — @xssdoctor — 2025-02-21 03:46 UTC (2025-02-21 04:46 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892782832751431748
+- Metrics (at fetch): bookmark 5, impression 3417, like 19, quote 0, reply 0, retweet 1
+
+> While this is extremely cool, I do not expect a big payout. There was. I postmessage gadget so all I have is xss within the iframe which is in a different origin than my main site. Still it was really fun to exploit. Shout out to @Rhynorater for his “open faced iframe sandwich”
+
+
+---
+
+## 2025-02-20 · Post · Finding this on a target is such an adrenaline rush 
+
+
+### Post — @xssdoctor — 2025-02-20 14:40 UTC (2025-02-20 15:40 WAT)
+
+- URL: https://x.com/xssdoctor/status/1892585068448645178
+- Metrics (at fetch): bookmark 42, impression 7919, like 49, quote 0, reply 2, retweet 5
+
+> Finding this on a target is such an adrenaline rush 
+>
+> “var hashInUrl = location.hash;
+>       if(hashInUrl &amp;&amp; hashInUrl.length &gt; 1) {
+>         var cookieInHash = hashInUrl.substring(1);
+>         var decodeStr = decodeURIComponent(cookieInHash);
+>         if(decodeStr) {

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 135
-- Conversations/threads: 134
-- Oldest post captured: 2025-05-14
+- Posts in this file: 151
+- Conversations/threads: 150
+- Oldest post captured: 2025-03-18
 - Newest post captured: 2026-11-10
 
 
@@ -2376,3 +2376,306 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 2301, like 8, quote 0, reply 0, retweet 0
 
 > This may actually be one of my best bug bounty months in all of 2025 since I haven’t really been hacking much lately.
+
+
+---
+
+## 2025-05-14 · Post · Need better recon before picking your next target?
+
+
+### Post — @NahamSec — 2025-05-14 13:03 UTC (2025-05-14 14:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1922638779505910176
+- Metrics (at fetch): bookmark 17, impression 5190, like 102, quote 0, reply 1, retweet 3
+
+> Need better recon before picking your next target?
+>
+> @ArmanSameer95 is here to show you how it’s done 🔍💥
+>
+> “Automating Recon to Strategize Attacks by Identifying 3rd-Party Targets”
+> 🗓️ May 23 | 📍 #NahamCon2025
+> 🧠 https://t.co/X0JDmITf9W https://t.co/DacbuAAEEQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gqxi1AkXgAA_o-i.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-13 · Post · Bug bounty meets AI 🧠💰
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2025-05-13 16:21 UTC (2025-05-13 17:21 WAT)
+
+- URL: https://x.com/NahamSec/status/1922326340201529828
+- Metrics (at fetch): bookmark 7, impression 4282, like 94, quote 0, reply 3, retweet 10
+
+> Bug bounty meets AI 🧠💰
+> @rez0__ is bringing real-world insights to #NahamCon2025 with: “AI Findings in Bug Bounty”
+>
+> From GPT to FAFO — let’s talk about what hackers are actually finding out there.
+> 🗓️ May 22
+> 🔗 https://t.co/X0JDmITf9W https://t.co/PUl2vGDxAx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gqxj_F-W4AAhFGs.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-13 · Post · Bug bounty meets AI 🧠💰
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2025-05-13 16:01 UTC (2025-05-13 17:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1922321185930674477
+- Metrics (at fetch): bookmark 0, impression 1175, like 11, quote 0, reply 0, retweet 0
+
+> Bug bounty meets AI 🧠💰
+> @rez0__ is bringing real-world insights to #NahamCon2025 with: “AI Findings in Bug Bounty”
+>
+> From GPT to FIFO — let’s talk about what hackers are actually finding out there.
+> 🗓️ May 22
+> 🔗 https://t.co/X0JDmITMZu https://t.co/UyyyTYM3Iu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gqxj_F-W4AAhFGs.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-13 · Post · Coming to NahamCon2025: @wunderwuzzi23 is diving deep into the wild world of LLM exploits.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2025-05-13 15:55 UTC (2025-05-13 16:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1922319675830239396
+- Metrics (at fetch): bookmark 4, impression 3949, like 68, quote 0, reply 2, retweet 6
+
+> Coming to #NahamCon2025: @wunderwuzzi23 is diving deep into the wild world of LLM exploits.
+>
+> “SpAIware &amp; More: Advanced Prompt Injection Exploits in LLM Applications” is your chance to see just how far prompt injection can really go.
+>
+> 🗓️ May 22
+> 🎯 https://t.co/X0JDmITMZu https://t.co/nTEGhvDLAA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gqxg_09XAAAk_Cs.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-12 · Post · Hey Twitter fam — we're hosting an AI track at NahamCon2025 and chatting with our speakers 🔥
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2025-05-12 20:52 UTC (2025-05-12 21:52 WAT)
+
+- URL: https://x.com/NahamSec/status/1922032148015387062
+- Metrics (at fetch): bookmark 5, impression 5229, like 54, quote 0, reply 5, retweet 3
+
+> Hey Twitter fam — we're hosting an AI track at #NahamCon2025 and chatting with our speakers 🔥
+>
+> Got questions about hacking AI or LLM apps? Curious how AI fits into recon, bug bounty, or hacking?
+>
+> Drop your questions below — we might ask them during the interviews 👇
+
+
+---
+
+## 2025-05-12 · Post · 🎉 NahamCon is just around the corner! Join us for FREE on May 22-23:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2025-05-12 16:54 UTC (2025-05-12 17:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1921972243304784107
+- Metrics (at fetch): bookmark 17, impression 6771, like 117, quote 0, reply 2, retweet 15
+
+> 🎉 NahamCon is just around the corner! Join us for FREE on May 22-23:
+> 📅 Day 1 (May 22): AI Track
+> 📅 Day 2 (May 23): Bug Bounty, Recon, Web App
+>
+> Thanks to our amazing sponsors for making this possible! No tickets needed - watch #NahamCon2025 live at https://t.co/rWTBZPGbdC https://t.co/s5tRixK3SZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gqw3fRFWoAAzc77.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-12 · Post · HTML Injection are back baby 🫶🏼 Thanks to this weird Google Chrome behavior. 👇 https://t.co/QLQDs0Sz
+
+
+### Post — @NahamSec — 2025-05-12 13:30 UTC (2025-05-12 14:30 WAT)
+
+- URL: https://x.com/NahamSec/status/1921920797234618699
+- Metrics (at fetch): bookmark 168, impression 22812, like 476, quote 4, reply 4, retweet 74
+
+> HTML Injection are back baby 🫶🏼 Thanks to this weird Google Chrome behavior. 👇 https://t.co/QLQDs0SzCC https://t.co/wb8tAfd4lK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GquQqDwXEAA1ajf.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-07 · Post · 2.5 years later and I finally found a way to exploit this vulnerability I have been sitting on.
+
+
+### Post — @NahamSec — 2025-05-07 18:04 UTC (2025-05-07 19:04 WAT)
+
+- URL: https://x.com/NahamSec/status/1920177819277275480
+- Metrics (at fetch): bookmark 57, impression 45789, like 666, quote 1, reply 28, retweet 23
+
+> 2.5 years later and I finally found a way to exploit this vulnerability I have been sitting on.
+
+
+---
+
+## 2025-05-05 · Post · 🚨 Just dropped a new video:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2025-05-05 12:55 UTC (2025-05-05 13:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1919375274715521510
+- Metrics (at fetch): bookmark 77, impression 11272, like 227, quote 0, reply 8, retweet 28
+
+> 🚨 Just dropped a new video:
+> How I Got an AI Chatbot to Spill Its Secrets Using Just a Prompt. It’s a video on basics of prompt injection. 
+>
+> Watch  the full breakdown + demos here: 👇https://t.co/5ovHIhPTZg https://t.co/62pTkMdBHA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqJJM2SbgAAjSSf.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-27 · Post · API Hacking session with @InsiderPhD at the Bug Bounty Village at @BSidesSF! https://t.co/EMNisF8Tj1
+
+
+### Post — @NahamSec — 2025-04-27 20:08 UTC (2025-04-27 21:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1916585311016288566
+- Metrics (at fetch): bookmark 10, impression 9836, like 236, quote 0, reply 3, retweet 5
+
+> API Hacking session with @InsiderPhD at the Bug Bounty Village at @BSidesSF! https://t.co/EMNisF8Tj1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpkUKrHbEAANzCa.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-22 · Post · Super excited to be back at @BSidesSF with @Jhaddix to host our yearly Bug Bounty Village! If you ar
+
+
+### Post — @NahamSec — 2025-04-22 16:32 UTC (2025-04-22 17:32 WAT)
+
+- URL: https://x.com/NahamSec/status/1914718859145437271
+- Metrics (at fetch): bookmark 14, impression 9296, like 214, quote 1, reply 1, retweet 22
+
+> Super excited to be back at @BSidesSF with @Jhaddix to host our yearly Bug Bounty Village! If you are headed to BSides this weekend, come by our village and say hello! 👋 https://t.co/WgSu6PYfft
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpJye0qa4AMDfKu.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-21 · Post · The no BS Bug Bounty &amp; Web Hacking Roadmap 
+
+
+### Post — @NahamSec — 2025-04-21 12:55 UTC (2025-04-21 13:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1914301844429611097
+- Metrics (at fetch): bookmark 110, impression 12149, like 278, quote 1, reply 6, retweet 32
+
+> The no BS Bug Bounty &amp; Web Hacking Roadmap 
+>
+> 👉🏼https://t.co/8TPckgpuwf https://t.co/R7gBkFYSYt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpCEc5XawAA0ARN.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-14 · Post · 🔥 New video: "This CTF Teaches You Everything About Hacking an API"! Crushing @apisecu's CTF with au
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @NahamSec — 2025-04-14 12:55 UTC (2025-04-14 13:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1911765129261367443
+- Metrics (at fetch): bookmark 108, impression 11366, like 295, quote 0, reply 1, retweet 38
+
+> 🔥 New video: "This CTF Teaches You Everything About Hacking an API"! Crushing @apisecu's CTF with auth bypass techniques, UUID leaks, privilege escalation, and more. 
+>
+> All-out API hacking 👉🏼 https://t.co/y8vZYTTsgB https://t.co/1003KfDDED
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Godzi0pXEAERJDW.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-09 · Post · Not my bug - please don't ask for a write up
+
+
+### Post — @NahamSec — 2025-04-09 18:34 UTC (2025-04-09 19:34 WAT)
+
+- URL: https://x.com/NahamSec/status/1910038507273478394
+- Metrics (at fetch): bookmark 1, impression 6849, like 50, quote 0, reply 10, retweet 1
+
+> Not my bug - please don't ask for a write up
+
+
+---
+
+## 2025-03-31 · Post · I Scanned 100,000+ Subdomains For CVE-2025-29927
+
+
+### Post — @NahamSec — 2025-03-31 14:49 UTC (2025-03-31 15:49 WAT)
+
+- URL: https://x.com/NahamSec/status/1906720479454601345
+- Metrics (at fetch): bookmark 154, impression 17932, like 419, quote 1, reply 4, retweet 52
+
+> I Scanned 100,000+ Subdomains For CVE-2025-29927
+>
+> https://t.co/cOZaqSu4uT https://t.co/tchsnjjiww
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnYH2zXboAAwtat.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-18 · Post · It's fascinating to realize that everything we do IS creation. Hacking is art. Building a POC is art
+
+
+### Post — @NahamSec — 2025-03-18 17:46 UTC (2025-03-18 18:46 WAT)
+
+- URL: https://x.com/NahamSec/status/1902054118581281068
+- Metrics (at fetch): bookmark 1, impression 3668, like 32, quote 0, reply 1, retweet 2
+
+> It's fascinating to realize that everything we do IS creation. Hacking is art. Building a POC is art. Writing code is art. We're born to create, yet so often we deny ourselves the identity of being creative

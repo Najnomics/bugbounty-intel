@@ -348,7 +348,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samwcyo — 2026-08-18 02:16 UTC (2026-08-18 03:16 WAT)
 
 - URL: https://x.com/samwcyo/status/2089536974444982714
-- Metrics (at fetch): bookmark 468, impression 38962, like 487, quote 2, reply 7, retweet 54
+- Metrics (at fetch): bookmark 468, impression 38963, like 487, quote 2, reply 7, retweet 54
 
 > For anyone using LLMs to do security research, bug bounty, red teaming, etc, we made a Discord to discuss/collaborate: https://mistakes.io/discord/
 

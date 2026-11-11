@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 36
-- Conversations/threads: 35
-- Oldest post captured: 2026-07-18
+- Posts in this file: 44
+- Conversations/threads: 43
+- Oldest post captured: 2026-05-21
 - Newest post captured: 2026-11-10
 
 
@@ -705,3 +705,173 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > • 1 Sui Move
 > It’s still nowhere near last year’s peak, but the signal is clear: the Web3 market is gradually recovering—and security demand is returning with it.
 > Great news for Web3 security
+
+
+---
+
+## 2026-07-14 · Post · Lol, I found a confirmed chromium ANGLE gpu SBX security bug, just with gpt 5.5 and my own chromium 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @ma1fan — 2026-07-14 02:41 UTC (2026-07-14 03:41 WAT)
+
+- URL: https://x.com/ma1fan/status/2076859577325543690
+- Metrics (at fetch): bookmark 34, impression 8098, like 95, quote 0, reply 3, retweet 0
+
+> Lol, I found a confirmed chromium ANGLE gpu SBX security bug, just with gpt 5.5 and my own chromium security skills.😄 https://t.co/O6Ph5sivEv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNJ8tBJbsAA4cNC.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-25 · Post · 3/
+
+
+### Post — @ma1fan — 2026-06-25 07:51 UTC (2026-06-25 08:51 WAT)
+
+- URL: https://x.com/ma1fan/status/2070052252535197805
+- Metrics (at fetch): bookmark 3, impression 627, like 1, quote 0, reply 0, retweet 0
+
+> 3/
+> You get a structured report:
+>  severity, exploit path, recommendation — validated findings only. MIT-licensed &amp; free. 🛡️
+>
+> Ship safer, catch issues early, save your protocol from being the next headline.
+>
+> ⭐ https://t.co/WQf5UlEh4O
+>
+> Securing a Sui  move project? DM 👉 @realnolan
+
+
+---
+
+## 2026-06-25 · Post · 2/ If you build on @SuiNetwork , this is for you. 🛠️
+
+
+### Post — @ma1fan — 2026-06-25 07:51 UTC (2026-06-25 08:51 WAT)
+
+- URL: https://x.com/ma1fan/status/2070052250052108785
+- Metrics (at fetch): bookmark 0, impression 767, like 3, quote 0, reply 1, retweet 0
+
+> 2/ If you build on @SuiNetwork , this is for you. 🛠️
+>
+> Drop it into your repo and it runs an autonomous audit:
+> → maps capabilities, object ownership &amp; custody
+> → traces critical state transitions
+> → checks attacker-reachable PTB composition
+>
+> Then pressure-tests every finding. No
+
+
+---
+
+## 2026-06-25 · Post · 1/ we open sourced our sui move audit skill 🔥
+
+
+### Post — @ma1fan — 2026-06-25 07:51 UTC (2026-06-25 08:51 WAT)
+
+- URL: https://x.com/ma1fan/status/2070052247245815880
+- Metrics (at fetch): bookmark 57, impression 14299, like 43, quote 2, reply 3, retweet 3
+
+> 1/ we open sourced our sui move audit skill 🔥
+>
+> The Sui ecosystem has been hit by a wave of attacks lately — Aftermath, Scallop &amp; more. 🚨
+>
+> Security can't be an afterthought anymore.
+> So we open-sourced our Sui Move audit skill — built to catch these bugs before they ship. 🧵
+>
+> 🔗
+
+
+---
+
+## 2026-06-25 · Post · we are pleased to announce the release of the Turbos Farming Smart Contract Audit Report:  
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ma1fan — 2026-06-25 06:25 UTC (2026-06-25 07:25 WAT)
+
+- URL: https://x.com/ma1fan/status/2070030697595850940
+- Metrics (at fetch): bookmark 7, impression 13312, like 21, quote 1, reply 1, retweet 2
+
+> we are pleased to announce the release of the Turbos Farming Smart Contract Audit Report:  
+> https://t.co/PSgGqFiLzk
+>
+> During this audit, we identified 2 High, 4 Medium, and 4 Low severity issues, all of which have now been fully remediated. 
+> We appreciate the @Turbos_finance https://t.co/tuSTdbw4pT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLo58PNacAEXB6x.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-24 · Post · Thrilled to officially partner with @Turbos_finance. Security isn’t just a feature; it’s the foundat
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ma1fan — 2026-06-24 10:33 UTC (2026-06-24 11:33 WAT)
+
+- URL: https://x.com/ma1fan/status/2069730518179233810
+- Metrics (at fetch): bookmark 0, impression 1593, like 12, quote 0, reply 1, retweet 0
+
+> Thrilled to officially partner with @Turbos_finance. Security isn’t just a feature; it’s the foundation for the future of DeFi. Looking forward to deep collaboration and safeguarding the ecosystem together. Let’s build! https://t.co/X9CI1EMHak
+
+**Quoted post** 2069599942352728200: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-27 · Post · AI is just speeding up how fast vulnerabilities come to light. But honestly, the rate of AI-driven b
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @ma1fan — 2026-05-27 08:42 UTC (2026-05-27 09:42 WAT)
+
+- URL: https://x.com/ma1fan/status/2059555951913402456
+- Metrics (at fetch): bookmark 2, impression 1453, like 11, quote 0, reply 0, retweet 1
+
+> AI is just speeding up how fast vulnerabilities come to light. But honestly, the rate of AI-driven bug discovery will likely plummet soon since everyone is running the same models. The recent spike in DeFi attacks doesn't imply DeFi was safe pre-AI. The playing field between https://t.co/TG3We1NvMU
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14427338 — 2026-05-26 23:16 UTC (2026-05-27 00:16 WAT)
+    
+    - URL: https://x.com/14427338/status/2059413451265441990
+    - Metrics (at fetch): bookmark 510, impression 971189, like 1811, quote 338, reply 314, retweet 202
+    
+    > PSA: I now consider *all* of DeFi unsafe.
+    >
+    > Coding agents are superhuman at finding vulnerabilities, and smart contract security is too asymmetric: defenders need to fix every bug while attackers need just one exploit to steal funds.
+    
+
+
+---
+
+## 2026-05-21 · Post · I have to say North Korean hackers are operating at the forefront of Web3 security warfare. Instead 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2026-05-21 03:26 UTC (2026-05-21 04:26 WAT)
+
+- URL: https://x.com/ma1fan/status/2057302097339539606
+- Metrics (at fetch): bookmark 13, impression 3916, like 21, quote 0, reply 31, retweet 2
+
+> I have to say North Korean hackers are operating at the forefront of Web3 security warfare. Instead of simply replacing binary files, they chose the stealthiest route: patching memory directly. For DeFi projects, security is not just about what happens onchain. Infrastructure https://t.co/QruraORjTX https://t.co/PLVD326Jyq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HI0AF7mXMAEUalC.jpg — no alt text provided by author
+
+**Quoted post** 2057085190565224699: not readable via the API (deleted, private, or withheld).

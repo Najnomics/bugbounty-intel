@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 28
-- Conversations/threads: 28
-- Oldest post captured: 2024-08-30
+- Posts in this file: 45
+- Conversations/threads: 45
+- Oldest post captured: 2024-08-09
 - Newest post captured: 2026-10-29
 
 
@@ -389,7 +389,7 @@ Tags (automatic): Memory corruption / native
     #### Quoted post — @orange_8361 — 2024-08-30 12:10 UTC (2024-08-30 13:10 WAT)
     
     - URL: https://x.com/orange_8361/status/1829491975986589764
-    - Metrics (at fetch): bookmark 86, impression 147007, like 916, quote 3, reply 15, repost 29
+    - Metrics (at fetch): bookmark 86, impression 147008, like 916, quote 3, reply 15, retweet 29
     
     > My first kernel exploit! Big thanks to @d3vc0r3 and @offsectraining ! 🎉 [pic.x.com/5G57Bw4A4e]
     
@@ -494,7 +494,17 @@ Tags (automatic): Memory corruption / native
 
 **Links in post:** https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/, https://twitter.com/orange_8361/status/1866868458883088487
 
-**Quoted post** 1866868458883088487: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @orange_8361 — 2024-12-11 15:31 UTC (2024-12-11 16:31 WAT)
+    
+    - URL: https://x.com/orange_8361/status/1866868458883088487
+    - Metrics (at fetch): bookmark 206, impression 173108, like 777, quote 32, reply 15, retweet 220
+    
+    > Our talk at #BHEU is done! Hope you all enjoyed it. 😉 A detailed blog is on the way, but in the meantime, check out the pre-alpha website https://t.co/lGRfqhmcVK for early access and the slides!
+    >
+    > Huge thanks to @BlackHatEvents and my awesome co-presenter @_splitline_! 🐈‍
+    
 
 
 ---
@@ -517,6 +527,204 @@ Tags (automatic): Memory corruption / native
 
 ---
 
+## 2024-12-11 · Post · Our talk at BHEU is done! Hope you all enjoyed it. 😉 A detailed blog is on the way, but in the mean
+
+
+### Post — @orange_8361 — 2024-12-11 15:31 UTC (2024-12-11 16:31 WAT)
+
+- URL: https://x.com/orange_8361/status/1866868458883088487
+- Metrics (at fetch): bookmark 206, impression 173108, like 777, quote 32, reply 15, retweet 220
+
+> Our talk at #BHEU is done! Hope you all enjoyed it. 😉 A detailed blog is on the way, but in the meantime, check out the pre-alpha website https://t.co/lGRfqhmcVK for early access and the slides!
+>
+> Huge thanks to @BlackHatEvents and my awesome co-presenter @_splitline_! 🐈‍
+
+
+---
+
+## 2024-10-26 · Post · I love CRLF Injection 😜 https://t.co/tN2QGu6FZi
+
+
+### Post — @orange_8361 — 2024-10-26 11:11 UTC (2024-10-26 12:11 WAT)
+
+- URL: https://x.com/orange_8361/status/1850133267652964630
+- Metrics (at fetch): bookmark 103, impression 44484, like 641, quote 2, reply 14, retweet 50
+
+> I love CRLF Injection 😜 https://t.co/tN2QGu6FZi
+
+**Quoted post** 1849381296771891372: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-10-02 · Post · Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJ
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-10-02 10:49 UTC (2024-10-02 11:49 WAT)
+
+- URL: https://x.com/orange_8361/status/1841430205103276498
+- Metrics (at fetch): bookmark 58, impression 33448, like 376, quote 3, reply 4, retweet 73
+
+> Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as locales in the Americas, Western Europe, Oceania, and more! @_splitline_ and I will share these cool findings at @BlackHatEvents! 🔥
+>
+> Let's make argument https://t.co/TsAAuakDkL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY4PjMPbQAAVgmB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-02 · Post · Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJ
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-10-02 10:46 UTC (2024-10-02 11:46 WAT)
+
+- URL: https://x.com/orange_8361/status/1841429524724232299
+- Metrics (at fetch): bookmark 1, impression 411, like 6, quote 0, reply 1, retweet 0
+
+> Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as locales in the Americas, Western Europe, Oceania, and more! @_splitline_ and I will share these cool findings at @BlackHatEvents! 😉
+>
+> Let's make argument https://t.co/vxveMwvTyQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY4PjMPbQAAVgmB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-02 · Post · Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJ
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-10-02 10:46 UTC (2024-10-02 11:46 WAT)
+
+- URL: https://x.com/orange_8361/status/1841429475000787332
+- Metrics (at fetch): bookmark 0, impression 163, like 0, quote 0, reply 0, retweet 0
+
+> Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as locales in the Americas, Western Europe, Oceania, and more! @_splitline_ and I will share these cool findings at @BlackHatEvents! 😉
+>
+> Let's make argument https://t.co/dicT3BNyo2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY4PjMPbQAAVgmB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-02 · Post · Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJ
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-10-02 10:45 UTC (2024-10-02 11:45 WAT)
+
+- URL: https://x.com/orange_8361/status/1841429364132782482
+- Metrics (at fetch): bookmark 0, impression 159, like 0, quote 0, reply 0, retweet 0
+
+> Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as locales in the Americas, Western Europe, Oceania, and more! @_splitline_ and I will share these cool findings at @BlackHatEvents. 😉
+>
+> Let's make argument https://t.co/fg5heTxeG3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY4PjMPbQAAVgmB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-02 · Post · Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJ
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-10-02 10:44 UTC (2024-10-02 11:44 WAT)
+
+- URL: https://x.com/orange_8361/status/1841429148826583357
+- Metrics (at fetch): bookmark 0, impression 2208, like 4, quote 0, reply 0, retweet 2
+
+> Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as locales in the Americas, Western Europe, Oceania, and more! @_splitline_ and I will share these cool findings at @BlackHatEvents. 🔥
+>
+> Let's make argument https://t.co/xhl6QU2WDj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY4PjMPbQAAVgmB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-02 · Post · Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJ
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2024-10-02 10:43 UTC (2024-10-02 11:43 WAT)
+
+- URL: https://x.com/orange_8361/status/1841428807447986405
+- Metrics (at fetch): bookmark 0, impression 321, like 5, quote 0, reply 0, retweet 0
+
+> Remember CVE-2024-4577, the PHP-CGI RCE bypass? Actually, the Best-Fit 'feature' also impacts non-CJK codepages such as locales in the Americas, Western Europe, Oceania, and more! @_splitline_ and I will share these cool findings at @BlackHatEvents #BHEU
+>
+> Let's make argument https://t.co/60tMYi4m25
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY4PjMPbQAAVgmB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-03 · Post · New look for my blog!✨ Finally moved away from the Markdown-Unfriendly Blogger 😖
+
+
+### Post — @orange_8361 — 2024-09-03 12:40 UTC (2024-09-03 13:40 WAT)
+
+- URL: https://x.com/orange_8361/status/1830949033130762385
+- Metrics (at fetch): bookmark 68, impression 22484, like 492, quote 0, reply 13, retweet 64
+
+> New look for my blog!✨ Finally moved away from the Markdown-Unfriendly Blogger 😖
+> https://t.co/uVR06jvXQt
+
+
+---
+
+## 2024-09-03 · Post · New look for my blog!✨ Finally moved away from the Markdown-Unfriendly Blogger 😵‍💫
+
+
+### Post — @orange_8361 — 2024-09-03 12:39 UTC (2024-09-03 13:39 WAT)
+
+- URL: https://x.com/orange_8361/status/1830948857552765162
+- Metrics (at fetch): bookmark 0, impression 295, like 3, quote 0, reply 0, retweet 0
+
+> New look for my blog!✨ Finally moved away from the Markdown-Unfriendly Blogger 😵‍💫
+> https://t.co/uVR06jvq0V
+
+
+---
+
+## 2024-09-03 · Post · New look for my blog!✨ Finally moved away from the Markdown-Unfriendly Blogger😵‍💫
+
+
+### Post — @orange_8361 — 2024-09-03 12:39 UTC (2024-09-03 13:39 WAT)
+
+- URL: https://x.com/orange_8361/status/1830948781723935038
+- Metrics (at fetch): bookmark 0, impression 227, like 0, quote 0, reply 0, retweet 0
+
+> New look for my blog!✨ Finally moved away from the Markdown-Unfriendly Blogger😵‍💫
+> https://t.co/uVR06jvq0V
+
+
+---
+
 ## 2024-08-30 · Post · My first kernel exploit! Big thanks to @d3vc0r3 and @offsectraining ! 🎉 [pic.x.com/5G57Bw4A4e]
 
 
@@ -526,9 +734,129 @@ Tags (automatic): Memory corruption / native
 ### Post — @orange_8361 — 2024-08-30 12:10 UTC (2024-08-30 13:10 WAT)
 
 - URL: https://x.com/orange_8361/status/1829491975986589764
-- Metrics (at fetch): bookmark 86, impression 147007, like 916, quote 3, reply 15, repost 29
+- Metrics (at fetch): bookmark 86, impression 147008, like 916, quote 3, reply 15, retweet 29
 
 > My first kernel exploit! Big thanks to @d3vc0r3 and @offsectraining ! 🎉 [pic.x.com/5G57Bw4A4e]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GWOpP3Za8AA6eR7.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-09 · Post · Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @orange_8361 — 2024-08-09 03:05 UTC (2024-08-09 04:05 WAT)
+
+- URL: https://x.com/orange_8361/status/1821744512999551221
+- Metrics (at fetch): bookmark 756, impression 240153, like 1896, quote 36, reply 37, retweet 648
+
+> Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues! https://t.co/YzYcwxOGBn
+>
+> Highlights include:
+> ⚡ Escaping from DocumentRoot to System Root
+> ⚡ Bypassing built-in ACL/Auth with just a '?'
+> ⚡ Turning XSS into RCE with legacy code
+
+
+---
+
+## 2024-08-09 · Post · Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @orange_8361 — 2024-08-09 03:03 UTC (2024-08-09 04:03 WAT)
+
+- URL: https://x.com/orange_8361/status/1821744201547256121
+- Metrics (at fetch): bookmark 0, impression 520, like 6, quote 0, reply 0, retweet 1
+
+> Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues! Highlights include:
+> https://t.co/YzYcwxOGBn
+>
+> ⚡ Escaping from DocumentRoot to System Root
+> ⚡ Bypassing built-in ACL/Auth with just a '?'
+> ⚡ Turning XSS into RCE with legacy code
+
+
+---
+
+## 2024-08-09 · Post · Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @orange_8361 — 2024-08-09 03:03 UTC (2024-08-09 04:03 WAT)
+
+- URL: https://x.com/orange_8361/status/1821744104373727671
+- Metrics (at fetch): bookmark 0, impression 177, like 0, quote 0, reply 0, retweet 0
+
+> Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues! Highlights include:
+> ⚡ Escaping from DocumentRoot to System Root
+> ⚡ Bypassing built-in ACL/Auth with just a '?'
+> ⚡ Turning XSS into RCE with legacy code from 1996
+
+
+---
+
+## 2024-08-09 · Post · Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @orange_8361 — 2024-08-09 03:03 UTC (2024-08-09 04:03 WAT)
+
+- URL: https://x.com/orange_8361/status/1821744004352110883
+- Metrics (at fetch): bookmark 0, impression 949, like 3, quote 0, reply 0, retweet 2
+
+> Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues! Highlights include:
+> https://t.co/YzYcwxOGBn
+>
+> ⚡ Escaping from DocumentRoot to System Root
+> ⚡ Bypassing built-in ACL/Auth with just a '?'
+> ⚡ Turning XSS into RCE with legacy code
+
+
+---
+
+## 2024-08-09 · Post · Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @orange_8361 — 2024-08-09 03:02 UTC (2024-08-09 04:02 WAT)
+
+- URL: https://x.com/orange_8361/status/1821743913826390472
+- Metrics (at fetch): bookmark 0, impression 131, like 0, quote 0, reply 0, retweet 0
+
+> Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues! Highlights include:
+> ⚡ Escaping from DocumentRoot to System Root
+> ⚡ Bypassing built-in ACL/Auth with just a '?'
+> ⚡ Turning XSS into RCE with legacy code from 1996
+
+
+---
+
+## 2024-08-09 · Post · Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @orange_8361 — 2024-08-09 03:02 UTC (2024-08-09 04:02 WAT)
+
+- URL: https://x.com/orange_8361/status/1821743773053022253
+- Metrics (at fetch): bookmark 3, impression 203, like 7, quote 0, reply 0, retweet 0
+
+> Thrilled to release my latest research on Apache HTTP Server, revealing several architectural issues! Highlights include:
+> ⚡ Escaping from DocumentRoot to System Root
+> ⚡ Bypassing built-in ACL/Auth with just a '?'
+> ⚡ Turning XSS into RCE with legacy code from 1996

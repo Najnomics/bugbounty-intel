@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 40
-- Conversations/threads: 31
-- Oldest post captured: 2025-01-31
+- Posts in this file: 44
+- Conversations/threads: 35
+- Oldest post captured: 2024-07-20
 - Newest post captured: 2026-10-19
 
 
@@ -633,3 +633,65 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GimiAd0bYAIrTgx.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-08 · Post · If I had to put a number on it, it would be 3. In 3 years it will not only be the norm for protocols
+
+
+### Post — @Kiki_developer — 2024-10-08 16:30 UTC (2024-10-08 17:30 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1843690319822631316
+- Metrics (at fetch): bookmark 0, impression 254, like 4, quote 0, reply 1, retweet 0
+
+> If I had to put a number on it, it would be 3. In 3 years it will not only be the norm for protocols to have a SR on retainer but it will be expected.
+>
+> Similar to how today’s users ask, “Has this been audited?” The follow up question will be “Do you have a security advisor?”
+
+
+---
+
+## 2024-09-17 · Post · @WhiteHatMage @immunefi Layer zero has a pretty high max bounty I’ve heard 🤷‍♂️
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2024-09-17 13:37 UTC (2024-09-17 14:37 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1836036785740095679
+- Metrics (at fetch): bookmark 0, impression 124, like 2, quote 0, reply 0, retweet 0
+
+> @WhiteHatMage @immunefi Layer zero has a pretty high max bounty I’ve heard 🤷‍♂️
+
+
+---
+
+## 2024-09-17 · Post · @WhiteHatMage @immunefi Forget top 50! Top 10 here you come 🔥
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2024-09-17 13:14 UTC (2024-09-17 14:14 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1836030869665984669
+- Metrics (at fetch): bookmark 0, impression 254, like 2, quote 0, reply 0, retweet 0
+
+> @WhiteHatMage @immunefi Forget top 50! Top 10 here you come 🔥
+
+
+---
+
+## 2024-07-20 · Post · Yesterday web3 security lost its greatest resource 😔
+
+
+### Post — @Kiki_developer — 2024-07-20 14:05 UTC (2024-07-20 15:05 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1814663002651832418
+- Metrics (at fetch): bookmark 7, impression 7632, like 19, quote 0, reply 8, retweet 0
+
+> Yesterday web3 security lost its greatest resource 😔
+>
+>  iykyk

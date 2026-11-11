@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 70
-- Conversations/threads: 57
-- Oldest post captured: 2024-09-16
+- Posts in this file: 82
+- Conversations/threads: 69
+- Oldest post captured: 2024-06-02
 - Newest post captured: 2026-11-11
 
 
@@ -1180,3 +1180,239 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GXnZnZCa0AAtLUx.png — no alt text provided by author
+
+
+---
+
+## 2024-08-10 · Post · LFI is fun 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-08-10 09:59 UTC (2024-08-10 10:59 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1822211140933370194
+- Metrics (at fetch): bookmark 42, impression 12738, like 151, quote 0, reply 9, retweet 6
+
+> LFI is fun 
+> #lfi #P1 #bugcrowd [pic.x.com/zMPVfk72yL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUnLXh2XIAEbl4-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GUnLXguWEAEd_Am.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-10 · Post · Heyy @coffinxp7 your SQLi tool is awesome can you please make an LFI tool please it will help us all
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @SuyashS91823422 — 2024-08-10 08:20 UTC (2024-08-10 09:20 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1822186308845916255
+- Metrics (at fetch): bookmark 7, impression 3312, like 21, quote 0, reply 4, retweet 1
+
+> Heyy @coffinxp7 your SQLi tool is awesome can you please make an LFI tool please it will help us allot
+
+
+---
+
+## 2024-08-08 · Post · XSS IS FUN 
+
+
+Tags (automatic): XSS
+
+
+### Post — @SuyashS91823422 — 2024-08-08 19:30 UTC (2024-08-08 20:30 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1821629956260233618
+- Metrics (at fetch): bookmark 30, impression 10723, like 92, quote 0, reply 5, retweet 5
+
+> XSS IS FUN 
+> #bugbounty #xss [pic.x.com/3AGFrOYRd0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUe6lPPXMAE7tSL.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-03 · Post · Successfully passed Certified Cloud Security Practitioner-AWS by @TheSecOpsGroup 
+
+
+### Post — @SuyashS91823422 — 2024-08-03 05:24 UTC (2024-08-03 06:24 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1819605120331489590
+- Metrics (at fetch): bookmark 2, impression 1480, like 16, quote 0, reply 2, retweet 1
+
+> Successfully passed Certified Cloud Security Practitioner-AWS by @TheSecOpsGroup 
+> #security #AWS [pic.x.com/xPj7ZSFSCz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUCJNW1b0AAoUHA.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-29 · Post · Should i report this Very Old CVE 😂😂😂 [pic.x.com/e8ah6AxQZ8]
+
+
+### Post — @SuyashS91823422 — 2024-07-29 16:06 UTC (2024-07-29 17:06 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1817954909939212690
+- Metrics (at fetch): bookmark 0, impression 867, like 4, quote 0, reply 1, retweet 0
+
+> Should i report this Very Old CVE 😂😂😂 [pic.x.com/e8ah6AxQZ8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTqsN1TaoAAyKTU.png — no alt text provided by author
+
+
+---
+
+## 2024-07-25 · Post · Traigred of the day @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-07-25 06:01 UTC (2024-07-25 07:01 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1816353089009467849
+- Metrics (at fetch): bookmark 88, impression 10856, like 201, quote 0, reply 14, retweet 12
+
+> Traigred of the day @Bugcrowd 
+> Found my 1st PII DISCLOSURE.
+> Tip
+> Same as previous deep subdomain enumeration.
+> Tools i used for subdomains
+> Subfinder with api keys 
+> Puredns
+> Alterx 
+> #bugbountytips #bugbounty #bugcrowd #PII #CyberSecurity #infosecurity [pic.x.com/wUZyKIs9Ro]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTT7gjhbMAAiCc1.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-22 · Post · Triaged of the day @Bugcrowd 
+
+
+Tags (automatic): SQL injection, Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-07-22 11:09 UTC (2024-07-22 12:09 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1815343396619473144
+- Metrics (at fetch): bookmark 179, impression 19533, like 379, quote 0, reply 17, retweet 42
+
+> Triaged of the day @Bugcrowd 
+> Blind SQL Injection 
+> #P1 #SQLI 
+> Tip:-
+> Deep recon subdomain enumeration 
+> Site was using in #PHP &gt;&gt;fuzz 
+> Found /config.php&gt;&gt; used Arjun tool
+> U= parameters and boom #SQLI
+> #bugbountytips #bugbounty #bugcrowd [pic.x.com/2P1kbUXPl3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTFlMshbsAA0-2k.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-17 · Post · Excited to announce i have been selected for 1 month Cyber security internship at @HacktifyS40725 
+
+
+### Post — @SuyashS91823422 — 2024-07-17 15:44 UTC (2024-07-17 16:44 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1813600558986760495
+- Metrics (at fetch): bookmark 0, impression 1288, like 10, quote 0, reply 0, retweet 0
+
+> Excited to announce i have been selected for 1 month Cyber security internship at @HacktifyS40725 
+> #Internship #cybersecurity [pic.x.com/Hv0ZiuoJYe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSs0F1xaYAA9uiQ.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-16 · Post · Successfully passed Certified Cyber security Analyst Certification from @cyberwarfarelab 😎 [pic.x.co
+
+
+### Post — @SuyashS91823422 — 2024-07-16 14:52 UTC (2024-07-16 15:52 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1813225302874607638
+- Metrics (at fetch): bookmark 2, impression 761, like 6, quote 0, reply 1, retweet 0
+
+> Successfully passed Certified Cyber security Analyst Certification from @cyberwarfarelab 😎 [pic.x.com/U9mZC0VK7M]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSnezdGbIAQ0xbA.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-03 · Post · Amazing start with @Hacker0x01 reprted some critical and good bugs.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @SuyashS91823422 — 2024-07-03 08:20 UTC (2024-07-03 09:20 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1808415408354926678
+- Metrics (at fetch): bookmark 23, impression 6548, like 79, quote 0, reply 2, retweet 4
+
+> Amazing start with @Hacker0x01 reprted some critical and good bugs.
+> Duplicates are fine🙃😎
+> Hope for the wonderfull journey with @Hacker0x01 
+> #BugBounty #bugbountytips #hackerone [pic.x.com/zBw4TUugd8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRjH2N7b0AAQRwB.png — no alt text provided by author
+
+
+---
+
+## 2024-06-04 · Post · Upgrading my skills to top level 😎 
+
+
+Tags (automatic): SQL injection, Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-06-04 18:40 UTC (2024-06-04 19:40 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1798062403718107313
+- Metrics (at fetch): bookmark 26, impression 7341, like 104, quote 0, reply 6, retweet 1
+
+> Upgrading my skills to top level 😎 
+> #bugbounty #bugcrowd 
+> Thanks @nav1n0x for your sqli tweets and @ManasH4rsh for your help [pic.x.com/dyu3z1BCAA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPQAOjibkAA-TEh.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-02 · Reply · @ManasH4rsh please dm me bhaiya wants your  help in SQL injection.
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @SuyashS91823422 — 2024-06-02 06:07 UTC (2024-06-02 07:07 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1797148077587104235
+- Metrics (at fetch): bookmark 0, impression 69, like 0, quote 0, reply 0, retweet 0
+
+> @ManasH4rsh please dm me bhaiya wants your  help in SQL injection.

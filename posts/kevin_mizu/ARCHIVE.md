@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 36
-- Conversations/threads: 34
-- Oldest post captured: 2024-10-28
+- Posts in this file: 40
+- Conversations/threads: 38
+- Oldest post captured: 2024-05-11
 - Newest post captured: 2026-10-28
 
 
@@ -867,3 +867,96 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/Ga_kOGzaYAEG5s8.jpg — no alt text provided by author
 
 **Quoted post** 1850932349569282491: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-07-18 · Post · This HTML parsing behavior is absolutely wtf...
+
+
+### Post — @kevin_mizu — 2024-07-18 15:00 UTC (2024-07-18 16:00 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1813951932639092785
+- Metrics (at fetch): bookmark 99, impression 16668, like 162, quote 0, reply 2, retweet 32
+
+> This HTML parsing behavior is absolutely wtf...
+>
+> It can be abused to completely bypass any server-side HTML sanitizer when a second user input is present earlier in the document within a script string... [pic.x.com/0SJhUCNDl3] https://twitter.com/garethheyes/status/1813658752245236105
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSxzfrzXkAAF1ur.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GSxzg6lXEAAilf6.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/garethheyes/status/1813658752245236105
+
+**Quoted post** 1813658752245236105: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-07-15 · Post · Great research from @scryh_!
+
+
+### Post — @kevin_mizu — 2024-07-15 16:10 UTC (2024-07-15 17:10 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1812882499875319959
+- Metrics (at fetch): bookmark 229, impression 33235, like 317, quote 0, reply 2, retweet 63
+
+> Great research from @scryh_!
+>
+> I was keeping it for a CTF challenge, but it's probably too late now :p
+>
+> This trick is so powerful that it can be used to bypass most (if not all) server-side HTML sanitizers in the absence of a charset within the Content-Type response header 🤯 [pic.x.com/h5UHsLVR10] https://twitter.com/Sonar_Research/status/1812864424807444825
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSinBrYWEAAUADo.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Sonar_Research/status/1812864424807444825
+
+**Quoted post** 1812864424807444825: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-05-23 · Post · I think it's time for a solution ⏰
+
+
+### Post — @kevin_mizu — 2024-05-23 15:28 UTC (2024-05-23 16:28 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1793665227202175483
+- Metrics (at fetch): bookmark 33, impression 11642, like 90, quote 0, reply 2, retweet 24
+
+> I think it's time for a solution ⏰
+>
+> TL;DR
+> - Eventlet normalizes - to _ in header keys.
+> - The Fetch spec blocks Transfer-Encoding but not Transfer_Encoding.
+> - Bypass tracking policy on Firefox using open().
+>
+> Detailed writeup 👇
+> https://mizu.re/post/twitter-eventlet-csd
+>
+> 1/2 https://twitter.com/kevin_mizu/status/1790035413685391775
+
+**Links in post:** https://mizu.re/post/twitter-eventlet-csd, https://twitter.com/kevin_mizu/status/1790035413685391775
+
+**Quoted post** 1790035413685391775: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-05-11 · Post · Really proud of those bypass/mXSS variations. They involve some cool second-order DOM Clobbering and
+
+
+### Post — @kevin_mizu — 2024-05-11 11:27 UTC (2024-05-11 12:27 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1789255979713941561
+- Metrics (at fetch): bookmark 28, impression 11252, like 89, quote 0, reply 5, retweet 13
+
+> Really proud of those bypass/mXSS variations. They involve some cool second-order DOM Clobbering and a new mutation gadget that I would like to call the elevator x)
+>
+> 1/2 https://twitter.com/cure53berlin/status/1789242798417281358
+
+**Links in post:** https://twitter.com/cure53berlin/status/1789242798417281358
+
+**Quoted post** 1789242798417281358: not readable via the API (deleted, private, or withheld).

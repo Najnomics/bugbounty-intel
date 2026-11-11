@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 111
-- Conversations/threads: 91
-- Oldest post captured: 2022-08-03
+- Posts in this file: 136
+- Conversations/threads: 116
+- Oldest post captured: 2021-12-12
 - Newest post captured: 2026-07-30
 
 
@@ -1892,3 +1892,370 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 0, impression 0, like 33, quote 1, reply 1, retweet 0
 
 > ラスベガスなう
+
+
+---
+
+## 2022-08-02 · Post · 当然機内は暇
+
+
+### Post — @ryotkak — 2022-08-02 12:55 UTC (2022-08-02 13:55 WAT)
+
+- URL: https://x.com/ryotkak/status/1554450849551634433
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> 当然機内は暇
+
+
+---
+
+## 2022-08-02 · Post · さらば日本
+
+
+### Post — @ryotkak — 2022-08-02 12:48 UTC (2022-08-02 13:48 WAT)
+
+- URL: https://x.com/ryotkak/status/1554449023922122752
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 3, retweet 0
+
+> さらば日本
+
+
+---
+
+## 2022-06-23 · Post · あ、よく考えたら初出しの情報なんですが、株式会社Flatt Securityで働いています。対戦よろしくお願いします(?)
+
+
+### Post — @ryotkak — 2022-06-23 02:03 UTC (2022-06-23 03:03 WAT)
+
+- URL: https://x.com/ryotkak/status/1539791335225688065
+- Metrics (at fetch): bookmark 3, impression 0, like 170, quote 0, reply 0, retweet 15
+
+> あ、よく考えたら初出しの情報なんですが、株式会社Flatt Securityで働いています。対戦よろしくお願いします(?)
+
+
+---
+
+## 2022-06-23 · Post · RT &gt; 
+
+
+### Post — @ryotkak — 2022-06-23 02:02 UTC (2022-06-23 03:02 WAT)
+
+- URL: https://x.com/ryotkak/status/1539791078584643585
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 1
+
+> RT &gt; 
+> ということでオースティンに行ったときに食べたご飯の情報です (イベント期間中、出勤している扱いにしてもらった関係で会社のブログに書きました)
+
+
+---
+
+## 2022-06-18 · Post · 現地参加するかどうかを迷い続け、結局参加することを決断してから出発まで5日しかなかったので、かなり忙しかった...
+
+
+### Post — @ryotkak — 2022-06-18 20:39 UTC (2022-06-18 21:39 WAT)
+
+- URL: https://x.com/ryotkak/status/1538260128675209217
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 現地参加するかどうかを迷い続け、結局参加することを決断してから出発まで5日しかなかったので、かなり忙しかった...
+
+
+---
+
+## 2022-06-18 · Post · というわけで、HackerOneに招待されてH1-512に参加するためにテキサス州オースティンに行っていました
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ryotkak — 2022-06-18 20:37 UTC (2022-06-18 21:37 WAT)
+
+- URL: https://x.com/ryotkak/status/1538259710922502147
+- Metrics (at fetch): bookmark 1, impression 0, like 69, quote 0, reply 1, retweet 0
+
+> というわけで、HackerOneに招待されてH1-512に参加するためにテキサス州オースティンに行っていました
+
+
+---
+
+## 2022-02-19 · Post · メルカリのセキュリティチームから、脆弱性報告のお礼としてハンガーとパーカーとTシャツをいただきました！
+
+
+### Post — @ryotkak — 2022-02-19 05:22 UTC (2022-02-19 06:22 WAT)
+
+- URL: https://x.com/ryotkak/status/1494905306153091076
+- Metrics (at fetch): bookmark 11, impression 0, like 203, quote 0, reply 1, retweet 25
+
+> メルカリのセキュリティチームから、脆弱性報告のお礼としてハンガーとパーカーとTシャツをいただきました！
+> https://t.co/u8qrXtXd9Z https://t.co/2Q38WPM6sv https://t.co/zPkIspMfjT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FL719C5aAAQ_YCL.jpg — alt text: "ハンガー"
+- photo: https://pbs.twimg.com/media/FL719D9aIAELIAc.jpg — alt text: "MERCARI BUG HUNTERパーカー"
+- photo: https://pbs.twimg.com/media/FL71QfFaAAEHXVc.jpg — alt text: "MERCARI BUG HUNTER Tシャツ"
+
+**Quoted post** 1438343415087788036: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-02-12 · Post · Zshに脆弱性を報告しました。 (CVE-2021-45444)
+
+
+### Post — @ryotkak — 2022-02-12 23:57 UTC (2022-02-13 00:57 WAT)
+
+- URL: https://x.com/ryotkak/status/1492649060540760064
+- Metrics (at fetch): bookmark 31, impression 0, like 512, quote 9, reply 0, retweet 125
+
+> Zshに脆弱性を報告しました。 (CVE-2021-45444)
+> 5.8.1より前のバージョンのZshは特定のプロンプト設定を使用している場合、プロンプト内のコマンドの出力結果を再帰的に解析します。
+> これにより、悪意ある文字列を出力した際に、任意のコマンドを実行させる事が可能です。
+> https://t.co/LE2P8nY5u0
+
+
+---
+
+## 2021-12-29 · Post · ちなみに、2.17.1においても細工された設定ファイルから任意のコードを実行することはできますが、Log4jの開発チームはこれを認識しており、かつ脆弱性ではないと考えているようです (念の為報告して、
+
+
+### Post — @ryotkak — 2021-12-29 02:35 UTC (2021-12-29 03:35 WAT)
+
+- URL: https://x.com/ryotkak/status/1476018925620318208
+- Metrics (at fetch): bookmark 2, impression 0, like 41, quote 1, reply 0, retweet 21
+
+> ちなみに、2.17.1においても細工された設定ファイルから任意のコードを実行することはできますが、Log4jの開発チームはこれを認識しており、かつ脆弱性ではないと考えているようです (念の為報告して、脆弱性ではないという旨の回答を受け取っています)
+
+
+---
+
+## 2021-12-29 · Post · Log4jの開発チームに確認したのですが、設定ファイルからのコード実行自体はセキュリティ上の問題としては扱っておらず、JNDIを使用して、LDAPからパスワードを取得している場合に当該のLDAPサーバ
+
+
+### Post — @ryotkak — 2021-12-29 02:29 UTC (2021-12-29 03:29 WAT)
+
+- URL: https://x.com/ryotkak/status/1476017544335364096
+- Metrics (at fetch): bookmark 4, impression 0, like 78, quote 2, reply 1, retweet 35
+
+> Log4jの開発チームに確認したのですが、設定ファイルからのコード実行自体はセキュリティ上の問題としては扱っておらず、JNDIを使用して、LDAPからパスワードを取得している場合に当該のLDAPサーバーが侵害されると任意のコードが実行できる、という点をセキュリティ上の問題と見なしたそうです。
+
+
+---
+
+## 2021-12-28 · Post · Log4jの新しい脆弱性に関して、公式のセキュリティアドバイザリではRCEとなっていますが、細工された設定ファイルを読み込むことが攻撃の条件となっているため、設定ファイルを外部から読み込んでいるか、動
+
+
+### Post — @ryotkak — 2021-12-28 23:49 UTC (2021-12-29 00:49 WAT)
+
+- URL: https://x.com/ryotkak/status/1475977251338752002
+- Metrics (at fetch): bookmark 14, impression 0, like 225, quote 3, reply 1, retweet 100
+
+> Log4jの新しい脆弱性に関して、公式のセキュリティアドバイザリではRCEとなっていますが、細工された設定ファイルを読み込むことが攻撃の条件となっているため、設定ファイルを外部から読み込んでいるか、動的に設定を行っているケース等でないとRCEにはなりません。
+> https://t.co/fyfUbMvYBs
+
+
+---
+
+## 2021-12-22 · Post · 報告しました。現在も更新されていないアプリケーションが多数存在するため、Yappliを使用している企業の方はご確認ください。 https://t.co/TpiL5idPjg
+
+
+### Post — @ryotkak — 2021-12-22 05:09 UTC (2021-12-22 06:09 WAT)
+
+- URL: https://x.com/ryotkak/status/1473520980308148225
+- Metrics (at fetch): bookmark 5, impression 0, like 60, quote 1, reply 0, retweet 18
+
+> 報告しました。現在も更新されていないアプリケーションが多数存在するため、Yappliを使用している企業の方はご確認ください。 https://t.co/TpiL5idPjg
+
+**Quoted post** 1473488720322248707: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-12-18 · Post · https://t.co/fyfUbMvYBs
+
+
+### Post — @ryotkak — 2021-12-18 12:19 UTC (2021-12-18 13:19 WAT)
+
+- URL: https://x.com/ryotkak/status/1472179828996833281
+- Metrics (at fetch): bookmark 5, impression 0, like 124, quote 5, reply 0, retweet 79
+
+> https://t.co/fyfUbMvYBs
+>
+> CVE-2021-45105: Apache Log4j2 does not always protect from infinite recursion in lookup evaluation
+
+
+---
+
+## 2021-12-18 · Post · 言い忘れてたので補足です。今回の脆弱性はLog4j 2.16.0において一部の設定で成立するDenial of Service(サービス妨害攻撃)です。影響を受ける方は2.17.0へ更新しましょう。
+
+
+### Post — @ryotkak — 2021-12-18 12:19 UTC (2021-12-18 13:19 WAT)
+
+- URL: https://x.com/ryotkak/status/1472179663904841729
+- Metrics (at fetch): bookmark 3, impression 0, like 151, quote 1, reply 1, retweet 80
+
+> 言い忘れてたので補足です。今回の脆弱性はLog4j 2.16.0において一部の設定で成立するDenial of Service(サービス妨害攻撃)です。影響を受ける方は2.17.0へ更新しましょう。
+
+
+---
+
+## 2021-12-18 · Post · 2.16.0でJNDIがかなり制限されているため、RCEには繋がらないと思っていますが、調査する気力がもうないので後日見てみます。
+
+
+### Post — @ryotkak — 2021-12-18 12:12 UTC (2021-12-18 13:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1472177946073133056
+- Metrics (at fetch): bookmark 2, impression 0, like 155, quote 1, reply 1, retweet 50
+
+> 2.16.0でJNDIがかなり制限されているため、RCEには繋がらないと思っていますが、調査する気力がもうないので後日見てみます。
+> ちなみに報告したのはAkamai TechnologiesのHideki Okamoto氏です。
+
+
+---
+
+## 2021-12-18 · Post · はい、Log4jの3つ目の脆弱性が出ました。終わらない...
+
+
+### Post — @ryotkak — 2021-12-18 12:08 UTC (2021-12-18 13:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1472176979961323522
+- Metrics (at fetch): bookmark 57, impression 0, like 1483, quote 32, reply 5, retweet 558
+
+> はい、Log4jの3つ目の脆弱性が出ました。終わらない...
+
+
+---
+
+## 2021-12-17 · Post · あ、もう一個補足しておくと、このツイートをする3日前(12/10時点)にはLog4jチームに報告していました。
+
+
+### Post — @ryotkak — 2021-12-17 08:12 UTC (2021-12-17 09:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1471755082274570240
+- Metrics (at fetch): bookmark 1, impression 0, like 42, quote 1, reply 0, retweet 14
+
+> あ、もう一個補足しておくと、このツイートをする3日前(12/10時点)にはLog4jチームに報告していました。
+> CVE-2021-45046が当初DoSとして評価されてしまったのは、時間が取れずPoCを作れていなかったためというのと、情報の紐付けがうまく行っていなかったというのが原因だと思います。
+
+
+---
+
+## 2021-12-17 · Post · 補足しておくと、このツイートはCVE-2021-45046に付随する脆弱性に関しての言及です。
+
+
+### Post — @ryotkak — 2021-12-17 07:33 UTC (2021-12-17 08:33 WAT)
+
+- URL: https://x.com/ryotkak/status/1471745288159510531
+- Metrics (at fetch): bookmark 7, impression 0, like 135, quote 3, reply 1, retweet 47
+
+> 補足しておくと、このツイートはCVE-2021-45046に付随する脆弱性に関しての言及です。
+> このツイートをした時点では機微な情報が抽出できるだけだと思っていたんですが、CVE-2021-45046を見て再度調査したところRCEまで行けそう、という事に気が付きました...。 https://t.co/LlqKWhrT89
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2021-12-12 23:44 UTC (2021-12-13 00:44 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1470177786891767810
+    - Metrics (at fetch): bookmark 18, impression 0, like 206, quote 2, reply 1, retweet 120
+    
+    > 詳細は言えないんですが、Log4j 2.15.0を使用している場合でもlookupsオプションは絶対に指定しないでください。
+    > 次のバージョンである2.15.1において、lookupsオプションが指定されていても問題がないように変更される予定です。
+    
+
+
+---
+
+## 2021-12-17 · Post · 実はこれ、僕も報告してました &amp; 詳細出ました。Log4j 2.15.0を使用している方で、影響を受ける方は2.16.0へ更新しましょう。
+
+
+### Post — @ryotkak — 2021-12-17 05:36 UTC (2021-12-17 06:36 WAT)
+
+- URL: https://x.com/ryotkak/status/1471715844367745024
+- Metrics (at fetch): bookmark 0, impression 0, like 30, quote 2, reply 0, retweet 10
+
+> 実はこれ、僕も報告してました &amp; 詳細出ました。Log4j 2.15.0を使用している方で、影響を受ける方は2.16.0へ更新しましょう。
+> https://t.co/fyfUbMvYBs
+>
+> &gt; Additional vulnerability details discovered independently by Ash Fox of Google, Anthony Weems of Praetorian, and RyotaK
+
+
+---
+
+## 2021-12-16 · Post · @tsukkkkkun 一応補足しておくと、完全にデフォルトの設定では刺さりません。
+
+
+### Post — @ryotkak — 2021-12-16 14:22 UTC (2021-12-16 15:22 WAT)
+
+- URL: https://x.com/ryotkak/status/1471485869685374984
+- Metrics (at fetch): bookmark 1, impression 0, like 28, quote 1, reply 1, retweet 21
+
+> @tsukkkkkun 一応補足しておくと、完全にデフォルトの設定では刺さりません。
+> %m{lookups}を指定するか、CVE-2021-45046等の方法でLookupを発生させる必要があります
+
+
+---
+
+## 2021-12-16 · Post · 情報が出てしまったので言及しておきますが、Log4j 2.15.0を使用している場合でも、一部の設定でRCEが可能です。
+
+
+### Post — @ryotkak — 2021-12-16 13:50 UTC (2021-12-16 14:50 WAT)
+
+- URL: https://x.com/ryotkak/status/1471477923182170117
+- Metrics (at fetch): bookmark 16, impression 0, like 196, quote 1, reply 2, retweet 96
+
+> 情報が出てしまったので言及しておきますが、Log4j 2.15.0を使用している場合でも、一部の設定でRCEが可能です。
+> おそらく明日中にはLog4jチームがアドバイザリを更新すると思うので、詳しくはそちらを参照してください。 https://t.co/vmaD0Q5AXo
+
+**Quoted post** 1471465662975561734: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-12-13 · Post · こちらの件、2.16.0において対応されたようです。
+
+
+### Post — @ryotkak — 2021-12-13 23:02 UTC (2021-12-14 00:02 WAT)
+
+- URL: https://x.com/ryotkak/status/1470529629392109570
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 2
+
+> こちらの件、2.16.0において対応されたようです。
+
+
+---
+
+## 2021-12-12 · Post · 詳細は言えないんですが、Log4j 2.15.0を使用している場合でもlookupsオプションは絶対に指定しないでください。
+
+
+### Post — @ryotkak — 2021-12-12 23:44 UTC (2021-12-13 00:44 WAT)
+
+- URL: https://x.com/ryotkak/status/1470177786891767810
+- Metrics (at fetch): bookmark 18, impression 0, like 206, quote 2, reply 1, retweet 120
+
+> 詳細は言えないんですが、Log4j 2.15.0を使用している場合でもlookupsオプションは絶対に指定しないでください。
+> 次のバージョンである2.15.1において、lookupsオプションが指定されていても問題がないように変更される予定です。
+
+
+---
+
+## 2021-12-12 · Post · また、攻撃用のペイロードは複数の方法により難読化可能であるため、ログを確認する際は${と言った文字列を検索したほうが良いと思います。なお、攻撃が成功した場合、${といった文字列がログに出力されない場合
+
+
+### Post — @ryotkak — 2021-12-12 23:18 UTC (2021-12-13 00:18 WAT)
+
+- URL: https://x.com/ryotkak/status/1470171340791758849
+- Metrics (at fetch): bookmark 5, impression 0, like 82, quote 1, reply 0, retweet 32
+
+> また、攻撃用のペイロードは複数の方法により難読化可能であるため、ログを確認する際は${と言った文字列を検索したほうが良いと思います。なお、攻撃が成功した場合、${といった文字列がログに出力されない場合があるため、可能であればLog4j以外の方法により取得したログを確認すると良さそうです。
+
+
+---
+
+## 2021-12-12 · Post · 昨日の時点で広く知れ渡っていましたが、WAFによる防御はほとんどのケースにおいて回避可能です。昨日の時点で、複数の研究者により回避方法が公開されているため、一時的な回避策を使用する場合はLog4j側の
+
+
+### Post — @ryotkak — 2021-12-12 23:15 UTC (2021-12-13 00:15 WAT)
+
+- URL: https://x.com/ryotkak/status/1470170475339091968
+- Metrics (at fetch): bookmark 12, impression 0, like 163, quote 2, reply 1, retweet 52
+
+> 昨日の時点で広く知れ渡っていましたが、WAFによる防御はほとんどのケースにおいて回避可能です。昨日の時点で、複数の研究者により回避方法が公開されているため、一時的な回避策を使用する場合はLog4j側の設定を変更するなどの方法を推奨します。

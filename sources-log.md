@@ -333,3 +333,9 @@ Full HTTP requests, wildcard payloads, WAF-bypass SQL, XSS polyglots, Algolia cu
 - **Solana**: Anza/solana-labs GHSA returned 0 published; OSV crates.io + RustSec → 9 advisories (solana_rbpf, anchor-lang, spl-token-swap). Agave SECURITY.md saved.
 - **Crypto**: 76 RustSec crypto-crate advisories (openssl mirrors omitted) + 0xPARC zk-bug-tracker README under `projects/crypto/`.
 - **Backfill (partial)**: first/second timeline pages for fransrosen, albinowax, garethheyes, kevin_mizu, infosec_au, samwcyo, orange_8361, samczsun, jovanbulck, lonelysloth_sec, 0xiczc, zksecurityXYZ, _bagipro, j00ru, zseano, irsdl, galnagli — new posts merged into existing `posts/<handle>/` folders. Many accounts still thin (see report).
+
+## 2026-11-11 — Backfill pass (full-archive X search)
+
+- Full-archive keyword searches (security terms; unfiltered for small accounts) across all watched researchers plus 13 crypto/protocol accounts. Results regenerated into `posts/<handle>/ARCHIVE.md` (verbatim, threads grouped, quoted posts inlined) and `data/x_posts.jsonl`.
+- Per-account before/after counts and which search cursors remain open: [data/backfill_status.md](data/backfill_status.md).
+- Archive total after this pass: 5,407 verbatim posts.

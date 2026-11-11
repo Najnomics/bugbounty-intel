@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 138
-- Conversations/threads: 134
-- Oldest post captured: 2024-02-18
+- Posts in this file: 163
+- Conversations/threads: 151
+- Oldest post captured: 2023-09-06
 - Newest post captured: 2026-11-10
 
 
@@ -2423,3 +2423,379 @@ Tags (automatic): IDOR / BOLA
 > Probably not reportable, but very creative bug and there is certainly risk, especially in the gaming space with the "space" character. https://t.co/LpuICxHmzc
 
 **Quoted post** 1759270257045200991: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-02-11 · Post · I'm cooking up a pretty sick episode of @ctbbpodcast outlining 15+ gadgets that are useful in web vu
+
+
+### Post — @Rhynorater — 2024-02-11 00:42 UTC (2024-02-11 01:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1756478845211771304
+- Metrics (at fetch): bookmark 14, impression 9266, like 148, quote 0, reply 6, retweet 5
+
+> I'm cooking up a pretty sick episode of @ctbbpodcast outlining 15+ gadgets that are useful in web vuln chains. 
+>
+> It's pretty awesome to see all of this written out - there are so many attack vectors out there and ways that developers can make mistakes.
+>
+> I love this industry.
+
+
+---
+
+## 2024-01-11 · Post · Love to see a technical exploit in the Prompt Injection space. Good use of unicode knowledge. https:
+
+
+### Post — @Rhynorater — 2024-01-11 20:52 UTC (2024-01-11 21:52 WAT)
+
+- URL: https://x.com/Rhynorater/status/1745549216494104835
+- Metrics (at fetch): bookmark 6, impression 3858, like 16, quote 0, reply 0, retweet 1
+
+> Love to see a technical exploit in the Prompt Injection space. Good use of unicode knowledge. https://twitter.com/goodside/status/1745511940351287394
+
+**Links in post:** https://twitter.com/goodside/status/1745511940351287394
+
+**Quoted post** 1745511940351287394: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-01-06 · Thread · Here are a couple alternative bug bounty goals you could consider setting this year instead of the t
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @Rhynorater — 2024-01-06 16:20 UTC (2024-01-06 17:20 WAT)
+
+- URL: https://x.com/Rhynorater/status/1743668919812923412
+- Metrics (at fetch): bookmark 136, impression 34667, like 212, quote 4, reply 6, retweet 31
+
+> Here are a couple alternative bug bounty goals you could consider setting this year instead of the typical "I wanna earn X".
+
+
+### Thread part 2 — @Rhynorater — 2024-01-06 16:20 UTC (2024-01-06 17:20 WAT)
+
+- URL: https://x.com/Rhynorater/status/1743668924363731421
+- Metrics (at fetch): bookmark 6, impression 2575, like 38, quote 0, reply 2, retweet 1
+
+> Vuln Types
+> Example: "I'd like to find 3 authentication bypasses in 2024"
+>
+> This puts emphasis on progressing as a hacker and becoming proficient in other vulnerability types.
+
+
+### Thread part 3 — @Rhynorater — 2024-01-06 16:20 UTC (2024-01-06 17:20 WAT)
+
+- URL: https://x.com/Rhynorater/status/1743668929157800114
+- Metrics (at fetch): bookmark 4, impression 1916, like 19, quote 0, reply 1, retweet 0
+
+> Systemization goals
+> Example: "I'd like to automate finding new endpoints pushed to XYZ .js file because they have a high chance of being vuln."
+>
+> Thinking about how you can convert current bug bounty success into a system(technically automated or not) will help continuous success.
+
+
+### Thread part 4 — @Rhynorater — 2024-01-06 16:20 UTC (2024-01-06 17:20 WAT)
+
+- URL: https://x.com/Rhynorater/status/1743668933721247782
+- Metrics (at fetch): bookmark 4, impression 2455, like 23, quote 0, reply 1, retweet 1
+
+> Research Goals
+> Example: "I'd like to identify 1 systemic issues in XYZ technology or stack that was previously unknown."
+>
+> Doing original research is a kickass way of earning bounties - especially when you've got an automation system (or a @naglinagli) who fully exploit it.
+
+
+### Thread part 5 — @Rhynorater — 2024-01-06 16:20 UTC (2024-01-06 17:20 WAT)
+
+- URL: https://x.com/Rhynorater/status/1743668937223758301
+- Metrics (at fetch): bookmark 1, impression 2347, like 19, quote 0, reply 0, retweet 0
+
+> Gl on your 2024 Bug Hunting goals!
+
+
+---
+
+## 2024-01-02 · Post · Going back and listening to some of the older @ctbbpodcast episodes right now, and Episode 27 is pre
+
+
+### Post — @Rhynorater — 2024-01-02 16:23 UTC (2024-01-02 17:23 WAT)
+
+- URL: https://x.com/Rhynorater/status/1742220001904402853
+- Metrics (at fetch): bookmark 22, impression 10771, like 87, quote 0, reply 0, retweet 15
+
+> Going back and listening to some of the older @ctbbpodcast episodes right now, and Episode 27 is pretty freaking good. Lots of good technical content and discussion surrounding some rarer vulnerability types.
+>
+> https://ctbb.show/27
+
+**Links in post:** https://ctbb.show/27
+
+
+---
+
+## 2023-12-30 · Post · A third of my bug bounty earnings came from 3 reports this year: 
+
+
+### Post — @Rhynorater — 2023-12-30 18:10 UTC (2023-12-30 19:10 WAT)
+
+- URL: https://x.com/Rhynorater/status/1741159736345522535
+- Metrics (at fetch): bookmark 44, impression 25467, like 243, quote 2, reply 13, retweet 7
+
+> A third of my bug bounty earnings came from 3 reports this year: 
+> two Epic Games reports and one Shopify report.
+>
+> Those 3 reports alone would have put me in the top 1% of bug hunters as far as earnings go. 
+>
+> Go for the big bounties - it pays off.
+
+
+---
+
+## 2023-12-22 · Post · An excellent morning read. I love the data driven analysis of vulnerabilities here. 
+
+
+### Post — @Rhynorater — 2023-12-22 13:00 UTC (2023-12-22 14:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/1738182780230447283
+- Metrics (at fetch): bookmark 13, impression 6922, like 81, quote 0, reply 2, retweet 1
+
+> An excellent morning read. I love the data driven analysis of vulnerabilities here. 
+>
+> I consider myself a pro in CSRF, and there were still some things I learned from this that will no doubt pay for my BBRE Premium sub 20x over. 
+>
+> #notAnAd #justLoveTheProduct [pic.x.com/ioBEKceUlh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GB9EByPXoAAZ86h.jpg — no alt text provided by author
+
+
+---
+
+## 2023-11-18 · Post · Has anyone ever found a bug in service worker code? What kind of bug was it?
+
+
+### Post — @Rhynorater — 2023-11-18 21:02 UTC (2023-11-18 22:02 WAT)
+
+- URL: https://x.com/Rhynorater/status/1725982712803004779
+- Metrics (at fetch): bookmark 8, impression 12714, like 24, quote 0, reply 3, retweet 3
+
+> Has anyone ever found a bug in service worker code? What kind of bug was it?
+
+
+---
+
+## 2023-11-09 · Post · Somebody asked me recently if you can exploit an XSS scenario like this:
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2023-11-09 15:23 UTC (2023-11-09 16:23 WAT)
+
+- URL: https://x.com/Rhynorater/status/1722636015070744713
+- Metrics (at fetch): bookmark 101, impression 70900, like 148, quote 1, reply 13, retweet 25
+
+> Somebody asked me recently if you can exploit an XSS scenario like this:
+>
+> x.y(1,INJECT);
+>
+> where x and y are not defined. You cannot break out of the script tag, but you can break out of the function call. 
+>
+> I tried everything I could think of to abuse error handling and hoisting
+
+
+---
+
+## 2023-11-08 · Post · "How do you find high and critical impact vulns?"
+
+
+### Post — @Rhynorater — 2023-11-08 21:32 UTC (2023-11-08 22:32 WAT)
+
+- URL: https://x.com/Rhynorater/status/1722366471743881607
+- Metrics (at fetch): bookmark 69, impression 17441, like 145, quote 0, reply 2, retweet 16
+
+> "How do you find high and critical impact vulns?"
+>
+> Pretty much the number 1 question I get about bug bounty. 
+>
+> Here is the answer: you start thinking bigger. You start trying high/crit impact attack vectors. You start looking at things like auth, URL parsing, account creation...
+
+
+---
+
+## 2023-11-06 · Post · Such a good bug. https://twitter.com/Jayesh25_/status/1718543152296939861
+
+
+### Post — @Rhynorater — 2023-11-06 17:59 UTC (2023-11-06 18:59 WAT)
+
+- URL: https://x.com/Rhynorater/status/1721588019344400656
+- Metrics (at fetch): bookmark 25, impression 13223, like 106, quote 0, reply 3, retweet 3
+
+> Such a good bug. https://twitter.com/Jayesh25_/status/1718543152296939861
+
+**Links in post:** https://twitter.com/Jayesh25_/status/1718543152296939861
+
+**Quoted post** 1718543152296939861: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-11-03 · Post · Wow, this one was dangerously close to Grammarly having to pay the 100k CTF bounty. https://twitter.
+
+
+### Post — @Rhynorater — 2023-11-03 11:46 UTC (2023-11-03 12:46 WAT)
+
+- URL: https://x.com/Rhynorater/status/1720407015837626664
+- Metrics (at fetch): bookmark 13, impression 14984, like 38, quote 0, reply 2, retweet 3
+
+> Wow, this one was dangerously close to Grammarly having to pay the 100k CTF bounty. https://twitter.com/s0md3v/status/1720366444918272298
+
+**Links in post:** https://twitter.com/s0md3v/status/1720366444918272298
+
+**Quoted post** 1720366444918272298: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-10-25 · Thread · * There are ALWAYS critical
+
+
+### Post — @Rhynorater — 2023-10-25 11:55 UTC (2023-10-25 12:55 WAT)
+
+- URL: https://x.com/Rhynorater/status/1717147922221920552
+- Metrics (at fetch): bookmark 2, impression 1233, like 24, quote 0, reply 1, retweet 1
+
+> * There are ALWAYS critical
+> No matter how hardened a scope is, there is some hacker that can find a critical. Keep your eyes on high value bugs, and you might be the one who does. 
+>
+> * Make time for auth testing
+> Many people assume SSO/auth mechanisms are secure. They are not.
+
+
+### Thread part 2 — @Rhynorater — 2023-10-25 11:55 UTC (2023-10-25 12:55 WAT)
+
+- URL: https://x.com/Rhynorater/status/1717147928211444188
+- Metrics (at fetch): bookmark 0, impression 2411, like 15, quote 0, reply 2, retweet 1
+
+> The more likely you are to find a bug or find something odd that hints you towards a bug. Keep moving, keep testing. Don't stall for more than a couple mins. 
+>
+> * When unfamiliar with a company's threat model, report everything
+> No shame on a feeler report. Get the lay of the land.
+
+
+---
+
+## 2023-10-09 · Post · Awesome bug! https://twitter.com/joaxcar/status/1711503054044856810
+
+
+### Post — @Rhynorater — 2023-10-09 22:21 UTC (2023-10-09 23:21 WAT)
+
+- URL: https://x.com/Rhynorater/status/1711507179675451603
+- Metrics (at fetch): bookmark 2, impression 6371, like 18, quote 0, reply 1, retweet 1
+
+> Awesome bug! https://twitter.com/joaxcar/status/1711503054044856810
+
+**Links in post:** https://twitter.com/joaxcar/status/1711503054044856810
+
+**Quoted post** 1711503054044856810: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-09-26 · Post · Tinder has a great bug bounty program - could be a good target. https://twitter.com/Dexerto/status/1
+
+
+### Post — @Rhynorater — 2023-09-26 03:41 UTC (2023-09-26 04:41 WAT)
+
+- URL: https://x.com/Rhynorater/status/1706514396128927946
+- Metrics (at fetch): bookmark 5, impression 18910, like 37, quote 0, reply 4, retweet 1
+
+> Tinder has a great bug bounty program - could be a good target. https://twitter.com/Dexerto/status/1706438170630369530
+
+**Links in post:** https://twitter.com/Dexerto/status/1706438170630369530
+
+**Quoted post** 1706438170630369530: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-09-14 · Post · Great target for bug bounty https://twitter.com/X/status/1702337349772804152
+
+
+### Post — @Rhynorater — 2023-09-14 22:18 UTC (2023-09-14 23:18 WAT)
+
+- URL: https://x.com/Rhynorater/status/1702446683794092442
+- Metrics (at fetch): bookmark 3, impression 16516, like 38, quote 1, reply 2, retweet 1
+
+> Great target for bug bounty https://twitter.com/X/status/1702337349772804152
+
+**Links in post:** https://twitter.com/X/status/1702337349772804152
+
+**Quoted post** 1702337349772804152: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-09-07 · Post · Is anyone aware of a way to force HTTP/1.1 in a victim's browser? Via fetch API or other client-side
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @Rhynorater — 2023-09-07 18:59 UTC (2023-09-07 19:59 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699859896408195135
+- Metrics (at fetch): bookmark 9, impression 16571, like 49, quote 2, reply 4, retweet 1
+
+> Is anyone aware of a way to force HTTP/1.1 in a victim's browser? Via fetch API or other client-side gadget.  @albinowax @LiveOverflow
+
+
+---
+
+## 2023-09-06 · Thread · After ramping up my hacking and completing the aforementioned bugs, I'd expect my bugs per month to 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699395461251993791
+- Metrics (at fetch): bookmark 29, impression 36314, like 143, quote 0, reply 1, retweet 7
+
+> After ramping up my hacking and completing the aforementioned bugs, I'd expect my bugs per month to increase to around 7 at $750 per bug, putting me at $5,250 with the 40/60 split mentioned above. That's roughly 80 hours over the month. Or one bug every 10 or so hours.
+
+
+### Thread part 2 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699395464565498232
+- Metrics (at fetch): bookmark 22, impression 29866, like 106, quote 0, reply 1, retweet 5
+
+> After months 4&amp;5, at the above allocation, I'd be finding at least 12 bugs at $750 - $1k per bug (I'm getting better at finding impactful bugs - my current average bounty is $1.8k). 
+>
+> This will put me at ~ 9k a month starting from month 6. Having earned 15.5k already this year.
+
+
+### Thread part 3 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699395468285895120
+- Metrics (at fetch): bookmark 20, impression 26316, like 102, quote 0, reply 1, retweet 5
+
+> Months 8-12 would be 100% hacking finding 15-20 bugs per month at 1k each.
+>
+> So, if my calculations are correct, that would put me at:
+> 17.5*1000*4 + 9000*2 + 5250*2 +2250*2 = $103,000
+>
+> In reality, that number would likely be closer to $90,000 because of dupes and bounty flux.
+
+
+### Thread part 4 — @Rhynorater — 2023-09-06 12:13 UTC (2023-09-06 13:13 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699395470705959276
+- Metrics (at fetch): bookmark 21, impression 26570, like 118, quote 0, reply 1, retweet 3
+
+> These stats are based on my personal experience of learning bug bounty, the stats on my H1 performance tab, and my estimation of time spent scaled to full-time. 
+>
+> I currently spend about 90/10 hacking/learning ratio. Maybe even higher on the learning now with @ctbbpodcast prep.

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
-- Conversations/threads: 50
-- Oldest post captured: 2026-07-17
+- Posts in this file: 68
+- Conversations/threads: 57
+- Oldest post captured: 2026-05-16
 - Newest post captured: 2026-11-10
 
 
@@ -1210,3 +1210,119 @@ Tags (automatic): RCE, AI-assisted hunting
 > Curious to see who will be the first "Mythos" level AI-Powered Code Scanning tool to reverse-engineer the Remote Code Execution and construct a valid POC🍿 https://t.co/Funo6VemEY
 
 **Quoted post** 2078191359307943981: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-06-29 · Post · Shortly after it was able to find that it can mint arbitrary JWT sessions as a "Web Viewer", those w
+
+
+### Post — @galnagli — 2026-06-29 16:57 UTC (2026-06-29 17:57 WAT)
+
+- URL: https://x.com/galnagli/status/2071639081927270461
+- Metrics (at fetch): bookmark 1, impression 1529, like 12, quote 0, reply 1, retweet 0
+
+> Shortly after it was able to find that it can mint arbitrary JWT sessions as a "Web Viewer", those were intended to be for unauthenticated users but they allowed to fully interact with the GraphQL that was supposed to be post-authentication only. https://t.co/3HwJq1cI5w
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HL_wwwfWkAAZHxn.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-17 · Post · @AnthropicAI @claudeai How Red Agent discovered a really cool SSRF with interesting bypass and in-de
+
+
+Tags (automatic): SSRF, AI-assisted hunting
+
+
+### Post — @galnagli — 2026-06-17 18:39 UTC (2026-06-17 19:39 WAT)
+
+- URL: https://x.com/galnagli/status/2067316318341124538
+- Metrics (at fetch): bookmark 6, impression 1530, like 14, quote 0, reply 1, retweet 1
+
+> @AnthropicAI @claudeai How Red Agent discovered a really cool SSRF with interesting bypass and in-depth trail and error reasoning chain -&gt; https://t.co/A5to4m8aD7 https://t.co/ZWWIUliUvo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLCVOm_WUAAbzGE.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-17 · Post · @AnthropicAI @claudeai The Red Agent POV Series Intro -&gt; Sharing results from running on actual p
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-06-17 18:38 UTC (2026-06-17 19:38 WAT)
+
+- URL: https://x.com/galnagli/status/2067315905877450841
+- Metrics (at fetch): bookmark 5, impression 1373, like 12, quote 1, reply 1, retweet 0
+
+> @AnthropicAI @claudeai The Red Agent POV Series Intro -&gt; Sharing results from running on actual production systems and finding real-world exploitable risks on Web Servers and APIs
+>
+> https://t.co/pJJs0tbGAr https://t.co/98d2wVH9DA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLCU1DdWcAABKeI.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-13 · Post · Export controlling Fable 5 over "national security" - when (a) it was never usable for the advertise
+
+
+### Post — @galnagli — 2026-06-13 08:16 UTC (2026-06-13 09:16 WAT)
+
+- URL: https://x.com/galnagli/status/2065709824239702379
+- Metrics (at fetch): bookmark 5, impression 6571, like 61, quote 0, reply 4, retweet 5
+
+> Export controlling Fable 5 over "national security" - when (a) it was never usable for the advertised risks and (b) every other frontier model can autonomously hack with the right harness - seems to mostly harm Anthropic, who insisted on painting it as a "super cyber-weapon". https://t.co/wq2zi60Lez
+
+**Quoted post** 2065597531644743999: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-27 · Post · Finding bugs has never been easier, reporting them never been harder ♾️
+
+
+### Post — @galnagli — 2026-05-27 11:08 UTC (2026-05-27 12:08 WAT)
+
+- URL: https://x.com/galnagli/status/2059592567692431858
+- Metrics (at fetch): bookmark 27, impression 14209, like 249, quote 1, reply 8, retweet 6
+
+> Finding bugs has never been easier, reporting them never been harder ♾️
+
+
+---
+
+## 2026-05-21 · Post · New "Critical" nginx RCE requires LFI as prereq and has 0 practical exploitation odds - CVEs &amp; C
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @galnagli — 2026-05-21 16:35 UTC (2026-05-21 17:35 WAT)
+
+- URL: https://x.com/galnagli/status/2057500432868454555
+- Metrics (at fetch): bookmark 45, impression 17913, like 222, quote 1, reply 9, retweet 23
+
+> New "Critical" nginx RCE requires LFI as prereq and has 0 practical exploitation odds - CVEs &amp; CVSS are the biggest slop in security and AI just keeps accelerating it
+
+
+---
+
+## 2026-05-16 · Post · One critical a day keeps the doctor away https://t.co/hYPjAfuIV6
+
+
+### Post — @galnagli — 2026-05-16 16:09 UTC (2026-05-16 17:09 WAT)
+
+- URL: https://x.com/galnagli/status/2055682057854922955
+- Metrics (at fetch): bookmark 56, impression 19820, like 238, quote 1, reply 18, retweet 7
+
+> One critical a day keeps the doctor away https://t.co/hYPjAfuIV6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HIc_2toWYAAG9Jw.jpg — no alt text provided by author

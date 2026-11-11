@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 100
-- Conversations/threads: 42
-- Oldest post captured: 2024-12-27
+- Posts in this file: 125
+- Conversations/threads: 45
+- Oldest post captured: 2024-12-09
 - Newest post captured: 2025-04-21
 
 
@@ -1921,3 +1921,439 @@ Tags (automatic): TEE / enclave, AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gf0FtIEaAAESHW6.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-23 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203197471334542
+- Metrics (at fetch): bookmark 3, impression 1200, like 12, quote 0, reply 2, retweet 2
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/10) [pic.x.com/x5rBDmlRa5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GffZYxRa8AAMa9m.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203210872123502
+- Metrics (at fetch): bookmark 0, impression 335, like 4, quote 1, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ GemPad Loses $1.9M
+> 2️⃣ LABUBU Token Loses $120K
+> 3️⃣ bnbs Token Loses $20K
+> 4️⃣ DCF Token Loses $9K
+> 5️⃣ SEAL911 Warns Potential LastPass-related Hacks
+> 6️⃣ - 7️⃣ Security Concerns Around Hyperliquid
+>
+> (2/10)
+
+
+### Thread part 3 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203222662373610
+- Metrics (at fetch): bookmark 0, impression 367, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ @TheGemPad Loses $1.9M
+>
+> • The root cause was a reentrancy bug in collectFee function of the project's lock contract.
+> • The exploiter minted a fake token and locked its LP in the lock contract. By re-entering collectFee via callback, project's vault could be drained.
+>
+> (3/10) https://twitter.com/1460254342070550530/status/1870479987591315580
+
+**Links in post:** https://twitter.com/1460254342070550530/status/1870479987591315580
+
+**Quoted post** 1870479987591315580: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 4 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203234599301284
+- Metrics (at fetch): bookmark 0, impression 349, like 1, quote 0, reply 1, retweet 0
+
+> 2️⃣ LABUBU Token Loses $120K
+>
+> • The token contract had a simple bug, which doubled the balance of the exploiter when the token was self-transferred.
+> • Exploited assets are directly laundered through Tornado Cash.
+>
+> (4/10) https://twitter.com/0xaudron/status/1869955415225860600
+
+**Links in post:** https://twitter.com/0xaudron/status/1869955415225860600
+
+**Quoted post** 1869955415225860600: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 5 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203246548856938
+- Metrics (at fetch): bookmark 1, impression 543, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ bnbs Token Loses $20K
+>
+> • A classic reentrancy bug existed at the removeLiquidity function in token contract.
+> • The token contract's liquidity could be repeatedly removed before eth balance is updated.
+>
+> (5/10) https://t.co/dGgmbBWNPL
+
+**Links in post:** https://t.co/dGgmbBWNPL
+
+**Quoted post** 1868955959777017941: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 6 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203258607469014
+- Metrics (at fetch): bookmark 0, impression 151, like 0, quote 0, reply 1, retweet 0
+
+> 4️⃣ DCF Token Loses $9K
+>
+> • The token contract had a classic price manipulation vulnerability, since its exchange rate solely relied on single pancakeswap pool.
+> • Exploited assets are laundered through Tornado Cash.
+>
+> (6/10) https://twitter.com/1861540354761334784/status/1868718340291829829
+
+**Links in post:** https://twitter.com/1861540354761334784/status/1868718340291829829
+
+**Quoted post** 1868718340291829829: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 7 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203270691270731
+- Metrics (at fetch): bookmark 0, impression 120, like 1, quote 0, reply 1, retweet 0
+
+> 5️⃣ @_SEAL_Org Warns of Potential @LastPass-related Hacks
+>
+> • In Dec 2022, 'encrypted storage' of the password manager LastPass was compromised.
+> • By May 2024, over $250M from affected users had been stolen. Again, on Dec 17, 15+ potentially related cases were identified.
+>
+> (7/10) https://twitter.com/1756434947202748416/status/1868805837311074576
+
+**Links in post:** https://twitter.com/1756434947202748416/status/1868805837311074576
+
+**Quoted post** 1868805837311074576: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 8 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203282678607952
+- Metrics (at fetch): bookmark 0, impression 166, like 0, quote 0, reply 1, retweet 0
+
+> 6️⃣ Security Concerns Around @HyperliquidX
+>
+> • @tayvano_ from Metamask has raised concerns about Lazarus's activities on Hyperliquid, suggesting they might be a test of exploit.
+> • Security concerns further heightened due to the centralized architecture of the chain (3/4).
+>
+> (8/10) https://twitter.com/19748227/status/1870960207842701358
+
+**Links in post:** https://twitter.com/19748227/status/1870960207842701358
+
+**Quoted post** 1870960207842701358: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 9 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203294707937508
+- Metrics (at fetch): bookmark 0, impression 461, like 1, quote 0, reply 1, retweet 0
+
+> 7️⃣ Security Concerns Around Hyperliquid
+>
+> • @0xCygaar suggests two solutions in the event of an exploit: 1) Immediately freeze USDC, 2) Rollback Arbitrum.
+> • While the latter scenario looks extremely pessimistic, @zachxbt points out the first scenario is also unrealistic.
+>
+> (9/10) https://twitter.com/0xCygaar/status/1871047618475761843
+
+**Links in post:** https://twitter.com/0xCygaar/status/1871047618475761843
+
+**Quoted post** 1871047618475761843: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 10 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1871203306791645489
+- Metrics (at fetch): bookmark 1, impression 331, like 1, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (10/10)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-12-16 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @ChainLight_io — 2024-12-16 15:13 UTC (2024-12-16 16:13 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1868675950550118679
+- Metrics (at fetch): bookmark 1, impression 568, like 4, quote 0, reply 1, retweet 1
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/6)
+
+
+### Thread part 2 — @ChainLight_io — 2024-12-16 15:14 UTC (2024-12-16 16:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1868675962273189993
+- Metrics (at fetch): bookmark 0, impression 120, like 0, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ Clober Loses $501K
+> 2️⃣ GAGAW Token Loses $70K
+> 3️⃣ Emergence of Security AI Agents
+>
+> (2/6)
+
+
+### Thread part 3 — @ChainLight_io — 2024-12-16 15:14 UTC (2024-12-16 16:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1868675974033998104
+- Metrics (at fetch): bookmark 0, impression 225, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ @CloberDEX Loses $501K
+>
+> • Clober, a DEX on Base, suffered an exploit due to the reentrancy of Rebalancer contract's burn function.
+> • The exploiter created a pool of its own token and manipulated the token price by repeatedly burning the token.
+>
+> (3/6) https://twitter.com/CloberDEX/status/1866426442294469033
+
+**Links in post:** https://twitter.com/CloberDEX/status/1866426442294469033
+
+**Quoted post** 1866426442294469033: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 4 — @ChainLight_io — 2024-12-16 15:14 UTC (2024-12-16 16:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1868675986260414502
+- Metrics (at fetch): bookmark 0, impression 219, like 0, quote 0, reply 1, retweet 0
+
+> 2️⃣ GAGAW Token Loses $70K
+>
+> • The token contract had a naive bug in its transfer function, which sends the token to the dead address, not the recipient.
+>
+> (4/6) https://t.co/kYQYcxofX5
+
+**Links in post:** https://t.co/kYQYcxofX5
+
+**Quoted post** 1866370584344764458: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 5 — @ChainLight_io — 2024-12-16 15:14 UTC (2024-12-16 16:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1868675998457487847
+- Metrics (at fetch): bookmark 0, impression 390, like 0, quote 0, reply 1, retweet 1
+
+> 3️⃣ Emergence of Security AI Agents
+>
+> • Security-focused AI agent projects launched this week, such as @_Mizuki_exe, @h4ck_terminal, @jailbreakme_xyz.
+> • These agents identify, publish and even exploit the vulnerabilities before the patch, raising ethical concerns.
+>
+> (5/6) https://twitter.com/0xSammy/status/1867667005920117080
+
+**Links in post:** https://twitter.com/0xSammy/status/1867667005920117080
+
+**Quoted post** 1867667005920117080: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 6 — @ChainLight_io — 2024-12-16 15:14 UTC (2024-12-16 16:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1868676010759311626
+- Metrics (at fetch): bookmark 0, impression 238, like 0, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (6/6)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
+
+
+---
+
+## 2024-12-09 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135758605779245
+- Metrics (at fetch): bookmark 0, impression 1246, like 5, quote 1, reply 1, retweet 1
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/9) [pic.x.com/3OTgvGYROI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeXYk33bwAApBoE.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135772300218414
+- Metrics (at fetch): bookmark 1, impression 149, like 1, quote 0, reply 1, retweet 0
+
+> Table of Contents:
+>
+> 1️⃣ Yei Finance Loses $2.2M
+> 2️⃣ Vestra DAO Loses $480K
+> 3️⃣ DeBox Loses $275K
+> 4️⃣ BYC Token Loses $100K
+> 5️⃣ Hawk Tuah Girl's Token Plummets After Launch
+> 6️⃣ Zilliqa Reinitializes After Network Outage
+>
+> (2/9)
+
+
+### Thread part 3 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135784153301278
+- Metrics (at fetch): bookmark 0, impression 120, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ @YeiFinance Loses $2.2M
+>
+> • Liquidity Index, a variable managing the scaling factor for user balances and interest, was sensitive to pool state.
+> • As mint and burn logic utilized it, exploiter could gain more interest on deposit and burn fewer tokens on withdrawal.
+>
+> (3/9) https://twitter.com/ClovisNetwork/status/1863737129987350695
+
+**Links in post:** https://twitter.com/ClovisNetwork/status/1863737129987350695
+
+**Quoted post** 1863737129987350695: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 4 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135796287488309
+- Metrics (at fetch): bookmark 0, impression 199, like 0, quote 0, reply 1, retweet 0
+
+> 2️⃣ @Vestra_DAO Loses $480K
+>
+> • The staking contract had a critical bug that did not update stake info after unstaking, allowing the exploiter to unstake multiple times.
+> • While exploited assets are laundered through Tornado Cash, the team claims user funds are safe.
+>
+> (4/10) https://twitter.com/shoucccc/status/1864318918468489685
+
+**Links in post:** https://twitter.com/shoucccc/status/1864318918468489685
+
+**Quoted post** 1864318918468489685: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 5 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135808618697026
+- Metrics (at fetch): bookmark 0, impression 118, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ @DeBox_Social Loses $275K
+>
+> • The team claimed a private key leakage of their operational EOA wallet.
+> • Exploited assets are laundered through Railgun.
+>
+> (5/10) https://twitter.com/DeBox_Social/status/1863454873112768864
+
+**Links in post:** https://twitter.com/DeBox_Social/status/1863454873112768864
+
+**Quoted post** 1863454873112768864: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 6 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135820928942487
+- Metrics (at fetch): bookmark 0, impression 143, like 1, quote 0, reply 1, retweet 0
+
+> 4️⃣ BYC Token Loses $100K
+>
+> • `autoBurnLiquidity` burned tokens when the pair's balance exceeded `lpBurnFrequency`, triggered by transfers to the pool.
+> • Because the function was public, an exploiter could manipulate the pool by executing it after large swap and transfer.
+>
+> (6/9) https://twitter.com/TenArmorAlert/status/1863740268140191759
+
+**Links in post:** https://twitter.com/TenArmorAlert/status/1863740268140191759
+
+**Quoted post** 1863740268140191759: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 7 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135833189011572
+- Metrics (at fetch): bookmark 0, impression 490, like 2, quote 0, reply 2, retweet 0
+
+> 5️⃣ Hawk Tuah Girl's Token Plummets After Launch
+>
+> • Haliey Welch, known as "Hawk Tuah Girl", is suspected to launch a memecoin with huge insider sale which plummeted 90% 20 minutes after its launch.
+> • No update has been made after the incident.
+>
+> (7/9) https://twitter.com/SolanaFloor/status/1864441059763241215
+
+**Links in post:** https://twitter.com/SolanaFloor/status/1864441059763241215
+
+**Quoted post** 1864441059763241215: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 8 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135845423779863
+- Metrics (at fetch): bookmark 0, impression 388, like 0, quote 0, reply 1, retweet 0
+
+> 6️⃣ @zilliqa Reinitializes After Network Outage
+>
+> • Zilliqa has fully reinitialized its network following a block production outage caused by a technical issue.
+> • No technical details have been released.
+>
+> (8/9) https://twitter.com/TheBlockCo/status/1863445008151425099
+
+**Links in post:** https://twitter.com/TheBlockCo/status/1863445008151425099
+
+**Quoted post** 1863445008151425099: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 9 — @ChainLight_io — 2024-12-09 15:00 UTC (2024-12-09 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1866135857385922865
+- Metrics (at fetch): bookmark 0, impression 283, like 0, quote 0, reply 0, retweet 0
+
+> Thank you for reading.
+>
+> To stay up-to-date with the latest report and research from our award-winning security researchers:
+>
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
+>
+> (9/9)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight

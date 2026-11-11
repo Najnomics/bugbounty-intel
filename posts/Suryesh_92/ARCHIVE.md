@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 90
-- Conversations/threads: 83
-- Oldest post captured: 2024-09-16
+- Posts in this file: 99
+- Conversations/threads: 92
+- Oldest post captured: 2024-06-07
 - Newest post captured: 2026-11-04
 
 
@@ -1664,3 +1664,156 @@ Tags (automatic): RCE, Platform: HackerOne, Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GXmbRtNXMAAZ0rA.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-13 · Post · Patience patience patience.... With deeeeeeeep reeeeecoooooon 🔥🔥🔥
+
+
+Tags (automatic): RCE
+
+
+### Post — @Suryesh_92 — 2024-09-13 13:56 UTC (2024-09-13 14:56 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1834591872234209478
+- Metrics (at fetch): bookmark 14, impression 4787, like 67, quote 0, reply 5, retweet 2
+
+> Patience patience patience.... With deeeeeeeep reeeeecoooooon 🔥🔥🔥
+>
+> #BugBounty #Bugs #rce [pic.x.com/euObZ8hbZP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXXHjxiX0AAoub5.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-25 · Post · It's not a meme guy's 😐😐🙂 🫠 
+
+
+### Post — @Suryesh_92 — 2024-08-25 18:36 UTC (2024-08-25 19:36 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1827777127313240116
+- Metrics (at fetch): bookmark 5, impression 3095, like 29, quote 0, reply 3, retweet 0
+
+> It's not a meme guy's 😐😐🙂 🫠 
+>
+> #bugbountymemes #bugbounty #hacking #bug #Memes #Bugs #error [pic.x.com/CMCNXOlgFf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GV2Rj7TXIAA1cbn.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-23 · Post · Hii guys if you're free then look once this report 🥴🥴😂
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Suryesh_92 — 2024-08-23 15:52 UTC (2024-08-23 16:52 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1827011131681948116
+- Metrics (at fetch): bookmark 10, impression 3415, like 31, quote 1, reply 4, retweet 2
+
+> Hii guys if you're free then look once this report 🥴🥴😂
+>
+> https://hackerone.com/reports/180074
+>
+> #hackerone #BugBounty #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/reports/180074
+
+
+---
+
+## 2024-08-23 · Post · @mr__niraj01 @coffinxp7 If you believe it's s3 bucket then DM me I can takeover it.
+
+
+### Post — @Suryesh_92 — 2024-08-23 09:21 UTC (2024-08-23 10:21 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1826912642662887796
+- Metrics (at fetch): bookmark 0, impression 105, like 1, quote 0, reply 1, retweet 0
+
+> @mr__niraj01 @coffinxp7 If you believe it's s3 bucket then DM me I can takeover it.
+
+
+---
+
+## 2024-08-17 · Post · @RuDrAkShacker @OreoBiscui74046 Report Triaged, let's see what customer saying on this report.
+
+
+### Post — @Suryesh_92 — 2024-08-17 14:49 UTC (2024-08-17 15:49 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1824820876145213737
+- Metrics (at fetch): bookmark 0, impression 11, like 1, quote 0, reply 0, retweet 0
+
+> @RuDrAkShacker @OreoBiscui74046 Report Triaged, let's see what customer saying on this report.
+
+
+---
+
+## 2024-07-18 · Post · In Jun I was reported this vulnerability on @Bugcrowd , first they triaged the report after 4 hour's
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Suryesh_92 — 2024-07-18 08:51 UTC (2024-07-18 09:51 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1813859161836593599
+- Metrics (at fetch): bookmark 0, impression 586, like 4, quote 1, reply 1, retweet 0
+
+> In Jun I was reported this vulnerability on @Bugcrowd , first they triaged the report after 4 hour's they marked as N/A 😐, after that I leave this report as it is. Today I saw report in progress. How ?. Then I tried to exploit once again but I failed to exploit. [pic.x.com/wirKnXEFV0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSwfSfeWUAAgttc.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-04 · Post · @shakti_sec @nav1n0x @ADITYASHENDE17 @errorsec_ @GodfatherOrwa @coffinxp7 Or ssrf test kar rahe ho?
+
+
+Tags (automatic): SSRF
+
+
+### Post — @Suryesh_92 — 2024-07-04 18:25 UTC (2024-07-04 19:25 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1808930196076056692
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 1, retweet 0
+
+> @shakti_sec @nav1n0x @ADITYASHENDE17 @errorsec_ @GodfatherOrwa @coffinxp7 Or ssrf test kar rahe ho?
+
+
+---
+
+## 2024-07-03 · Post · Just got 2nd bounty 🥳🥳🥳🤩
+
+
+### Post — @Suryesh_92 — 2024-07-03 07:17 UTC (2024-07-03 08:17 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1808399559833595933
+- Metrics (at fetch): bookmark 14, impression 7153, like 112, quote 0, reply 11, retweet 2
+
+> Just got 2nd #bounty 🥳🥳🥳🤩
+>
+> #BugBounty #bug [pic.x.com/keo1l05ZO3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRi5z7MWIAAEynY.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-07 · Post · Hii @cryptohuntplay I found some critical vulnerability in your web application. but I'm unable to r
+
+
+### Post — @Suryesh_92 — 2024-06-07 16:17 UTC (2024-06-07 17:17 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1799113494668964137
+- Metrics (at fetch): bookmark 0, impression 343, like 0, quote 0, reply 1, retweet 0
+
+> Hii @cryptohuntplay I found some critical vulnerability in your web application. but I'm unable to report it. do u have any BBP or responsible disclosure program? DM me details please.

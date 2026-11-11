@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 45
-- Conversations/threads: 45
+- Posts in this file: 50
+- Conversations/threads: 50
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -681,6 +681,105 @@ Tags (automatic): AI-assisted hunting
 > Attacking doesn’t require understanding. It’s about generating chaos.
 >
 > Throwing a trillion plausible attack vectors at system can break it even without any understanding
+
+
+---
+
+## 2026-08-10 · Post · The use learned the most moronic lesson:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-08-10 14:47 UTC (2026-08-10 15:47 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2086826828774445198
+- Metrics (at fetch): bookmark 0, impression 211, like 2, quote 0, reply 0, retweet 0
+
+> The use learned the most moronic lesson:
+>
+> "It's not the end of the world, so I didn't beat myself up about it, but it certainly was a warning signal to use it responsibly," he said.
+>
+> Even used the same agent to report the issue.
+>
+> Wtf would be to use it responsibly?
+>
+> The agent
+
+
+---
+
+## 2026-08-06 · Post · If the AI can do math that is beyond human comprehension, how do you know a proof isn't just a sophi
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-08-06 22:49 UTC (2026-08-06 23:49 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2085498642677612833
+- Metrics (at fetch): bookmark 3, impression 1563, like 36, quote 0, reply 3, retweet 0
+
+> If the AI can do math that is beyond human comprehension, how do you know a proof isn't just a sophisticated social engineering to make you introduce a bug into some software it wants to hack?
+>
+> How do we know a sufficiently advanced "auto-researcher AI" isn't a Sophon (3body)?
+
+
+---
+
+## 2026-08-05 · Post · Does any of the "autonomous agentic AI bug hunters" have positive ROI?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-08-05 16:29 UTC (2026-08-05 17:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2085040383608951180
+- Metrics (at fetch): bookmark 14, impression 3163, like 60, quote 0, reply 8, retweet 2
+
+> Does any of the "autonomous agentic AI bug hunters" have positive ROI?
+>
+> Does anyone want to fully disclose human hours spent developing the thing, triaging their findings? (to say nothing of the triaging costs externalized to others)
+>
+> All money spent in API tokens? Both in trial
+
+
+---
+
+## 2026-08-01 · Post · @0zSchnack The mechanism of most of the negative impacts of AI is that it produces output that is co
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-08-01 23:07 UTC (2026-08-02 00:07 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2083691074049175831
+- Metrics (at fetch): bookmark 2, impression 1219, like 16, quote 0, reply 3, retweet 1
+
+> @0zSchnack The mechanism of most of the negative impacts of AI is that it produces output that is costly to distinguish from genuine output by an expert human.
+>
+> Before LLMs the cost of generating something that even *looked like* it was produced by an expert was so high, you could discard
+
+
+---
+
+## 2026-08-01 · Post · The @Coinkite coldcard situation is really disappointing.
+
+
+### Post — @lonelysloth_sec — 2026-08-01 16:22 UTC (2026-08-01 17:22 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2083589204899147961
+- Metrics (at fetch): bookmark 3, impression 2384, like 38, quote 0, reply 2, retweet 2
+
+> The @Coinkite coldcard situation is really disappointing.
+>
+> They are a smaller player in HW that did try hard.
+>
+> I always had an interest in hacking hardware and at some point planned to do some research on their device, which might be easier than a Ledger for example. 
+>
+> Also I
 
 
 ---

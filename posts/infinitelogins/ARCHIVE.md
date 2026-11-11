@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 32
-- Conversations/threads: 32
+- Posts in this file: 33
+- Conversations/threads: 33
 - Oldest post captured: 2026-01-13
 - Newest post captured: 2026-11-04
 
@@ -898,12 +898,28 @@ Tags (automatic): Platform: HackerOne
 ### Post — @infinitelogins — 2026-07-03 17:39 UTC (2026-07-03 18:39 WAT)
 
 - URL: https://x.com/infinitelogins/status/2073099379712671799
-- Metrics (at fetch): bookmark 18, impression 10882, like 291, quote 0, reply 24, repost 2
+- Metrics (at fetch): bookmark 18, impression 10882, like 291, quote 0, reply 24, retweet 2
 
 > For the first time in my life, I finished in the top 5 in the US on H1 for a quarter. Bug bounty dreams do come true. [pic.x.com/GQbTid6wu4]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HMUg2O3bgAA29lh.jpg — no alt text provided by author
+
+
+---
+
+## 2026-05-16 · Post · It feels like WAFs don't even matter anymore.. claude always finds a bypass
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-05-16 04:06 UTC (2026-05-16 05:06 WAT)
+
+- URL: https://x.com/infinitelogins/status/2055500095161086102
+- Metrics (at fetch): bookmark 20, impression 8201, like 84, quote 0, reply 5, retweet 1
+
+> It feels like WAFs don't even matter anymore.. claude always finds a bypass
 
 
 ---
@@ -914,7 +930,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @infinitelogins — 2026-05-14 14:27 UTC (2026-05-14 15:27 WAT)
 
 - URL: https://x.com/infinitelogins/status/2054931668570685494
-- Metrics (at fetch): bookmark 6, impression 5405, like 144, quote 0, reply 7, repost 0
+- Metrics (at fetch): bookmark 6, impression 5405, like 144, quote 0, reply 7, retweet 0
 
 > and it got paid max crit bounty 😎 https://twitter.com/infinitelogins/status/2053257780895920586
 

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 132
-- Conversations/threads: 112
-- Oldest post captured: 2020-09-10
+- Posts in this file: 156
+- Conversations/threads: 132
+- Oldest post captured: 2018-10-28
 - Newest post captured: 2026-11-10
 
 
@@ -2102,10 +2102,33 @@ Tags (automatic): Path normalization
 
 ---
 
-## 2020-09-10 · Post · The account seems to belong to @flxeos_official All other pay-for-cpu actions are signed with felixc
+## 2020-09-09 · Thread · Users can't redeem $CRL http://crl.finance's $WRAM for EOS anymore. The minting smart contract has a
 
 
-### Post — @cmichelio — 2020-09-10 09:36 UTC (2020-09-10 10:36 WAT)
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2020-09-09 20:54 UTC (2020-09-09 21:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1303799004677931008
+- Metrics (at fetch): bookmark 0, impression 0, like 29, quote 2, reply 4, retweet 11
+
+> Users can't redeem $CRL http://crl.finance's $WRAM for EOS anymore. The minting smart contract has a re-entrancy vulnerability that allowed printing more tokens and has been exploited. Hacker got 45,000 EOS and cashed out https://bloks.io/account/ph2yj5n123bj #EOS
+
+**Links in post:** http://crl.finance, https://bloks.io/account/ph2yj5n123bj
+
+
+### Thread part 2 — @cmichelio — 2020-09-09 20:54 UTC (2020-09-09 21:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1303799006271877120
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> Here's an example tx exploiting the bug: https://eosq.app/tx/24b076cd0245ace983d62b0b53d2314db36b8fecea665d0f0e6679133dd0623a
+
+**Links in post:** https://eosq.app/tx/24b076cd0245ace983d62b0b53d2314db36b8fecea665d0f0e6679133dd0623a
+
+
+### Thread part 3 — @cmichelio — 2020-09-10 09:36 UTC (2020-09-10 10:36 WAT)
 
 - URL: https://x.com/cmichelio/status/1303990748623319040
 - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
@@ -2113,3 +2136,365 @@ Tags (automatic): Path normalization
 > The account seems to belong to @flxeos_official All other pay-for-cpu actions are signed with felixcosignr@cosign permission. https://bloks.io/account/felixcosignr The hacker has access to their active key. Either @flxeos_official account has been compromised or they are involved in the hack
 
 **Links in post:** https://bloks.io/account/felixcosignr
+
+
+---
+
+## 2020-09-06 · Post · https://crl.finance/ is only in Chinese. contracts are open-source https://github.com/coral-finance/
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2020-09-06 16:13 UTC (2020-09-06 17:13 WAT)
+
+- URL: https://x.com/cmichelio/status/1302640959705026561
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 2, retweet 0
+
+> https://crl.finance/ is only in Chinese. contracts are open-source https://github.com/coral-finance/coral-contracts and the smart contract tables are different from $DMD. No direct copy/paste. They also have msig permissions. https://bloks.io/account/eoscoralpool#keys
+
+**Links in post:** https://crl.finance/, https://github.com/coral-finance/coral-contracts, https://bloks.io/account/eoscoralpool#keys
+
+
+---
+
+## 2020-02-23 · Post · How to check if an EOS account has a smart contract. Alternative Title: Putting @NewdexOfficial bla
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2020-02-23 11:34 UTC (2020-02-23 12:34 WAT)
+
+- URL: https://x.com/cmichelio/status/1231542899684167681
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 2
+
+> How to check if an #EOS account has a smart contract. Alternative Title: Putting @NewdexOfficial blacklist to good use 😁 https://cmichel.io/how-to-check-if-an-eos-account-has-a-smart-contract/ #eosiodev
+
+**Links in post:** https://cmichel.io/how-to-check-if-an-eos-account-has-a-smart-contract/
+
+
+---
+
+## 2020-02-12 · Post · Sneak peak at the new EOSIO key-value store, an alternative way to define contract tables: https://
+
+
+### Post — @cmichelio — 2020-02-12 05:23 UTC (2020-02-12 06:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1227463179422359552
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 3, retweet 1
+
+> Sneak peak at the new #EOSIO key-value store, an alternative way to define contract tables: https://github.com/EOSIO/eosio.cdt/blob/5c420c746f727a6b90fe709ea17d5c034bf690b9/docs/06_how-to-guides/06_key_value/01_key_value_examples.md Not sure what to think of it yet, I have to understand the benefits first.
+
+**Links in post:** https://github.com/EOSIO/eosio.cdt/blob/5c420c746f727a6b90fe709ea17d5c034bf690b9/docs/06_how-to-guides/06_key_value/01_key_value_examples.md
+
+
+---
+
+## 2019-11-25 · Thread · Thanks to @LiquidAppsIO for making the DAPP Network Hackathon possible. It was a lot of fun building
+
+
+### Post — @cmichelio — 2019-11-25 06:47 UTC (2019-11-25 07:47 WAT)
+
+- URL: https://x.com/cmichelio/status/1198855603721887744
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 1, retweet 5
+
+> Thanks to @LiquidAppsIO for making the DAPP Network Hackathon possible. It was a lot of fun building our LiquidCrypto service and the first anonymous voting protocol on EOSIO. Also excited to share the crowd favorite prize with @gnollio 🤗
+
+
+### Thread part 2 — @cmichelio — 2019-11-25 06:47 UTC (2019-11-25 07:47 WAT)
+
+- URL: https://x.com/cmichelio/status/1198855605240205312
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 0, retweet 2
+
+> If anyone wants to learn more about how the anonymous voting protocol using Blind Signatures works, here's my walkthrough https://streamable.com/wiqgp
+
+**Links in post:** https://streamable.com/wiqgp
+
+
+---
+
+## 2019-09-26 · Post · It's been almost two weeks since the EOS Play hack, but I still wanted to give my perspective on it
+
+
+### Post — @cmichelio — 2019-09-26 05:56 UTC (2019-09-26 06:56 WAT)
+
+- URL: https://x.com/cmichelio/status/1177099588781531136
+- Metrics (at fetch): bookmark 1, impression 0, like 20, quote 3, reply 0, retweet 8
+
+> It's been almost two weeks since the #EOS Play hack, but I still wanted to give my perspective on it, explain the attack and show some stats.
+> https://cmichel.io/what-really-happened-with-the-eos-play-hack/
+
+**Links in post:** https://cmichel.io/what-really-happened-with-the-eos-play-hack/
+
+
+---
+
+## 2019-09-10 · Post · @TokenPocket_TP The http://account.info smart contract is currently out of RAM
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2019-09-10 05:00 UTC (2019-09-10 06:00 WAT)
+
+- URL: https://x.com/cmichelio/status/1171287402599473153
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @TokenPocket_TP The http://account.info smart contract is currently out of RAM
+
+**Links in post:** http://account.info
+
+
+---
+
+## 2019-06-18 · Post · Having a look at @libra_ 's programming language Move. Is it called like this because move semantics
+
+
+### Post — @cmichelio — 2019-06-18 11:24 UTC (2019-06-18 12:24 WAT)
+
+- URL: https://x.com/cmichelio/status/1140943470791708672
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> Having a look at @libra_ 's programming language Move. Is it called like this because move semantics seem to play a fundamental role in its security? 😃
+>
+> https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf [pic.x.com/6vznD7621B]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D9VwVK1XoAAaQGF.jpg — no alt text provided by author
+
+**Links in post:** https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf
+
+
+---
+
+## 2019-05-17 · Post · EOS tutorial about smart contract code and ABI hashes https://cmichel.io/how-code-hash-and-abi-hash-
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2019-05-17 15:32 UTC (2019-05-17 16:32 WAT)
+
+- URL: https://x.com/cmichelio/status/1129409251691175936
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 2
+
+> EOS tutorial about smart contract code and ABI hashes https://cmichel.io/how-code-hash-and-abi-hash-are-computed-in-eos/ #EOS #NodeJS [pic.x.com/lS3s4Plio8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D6x3uboWsAE8fS9.png — no alt text provided by author
+
+**Links in post:** https://cmichel.io/how-code-hash-and-abi-hash-are-computed-in-eos/
+
+
+---
+
+## 2019-04-24 · Post · Decided to redesign my blog using a dark mode 🌑 💅https://cmichel.io/blog-redesign-with-gatsby-and-ta
+
+
+### Post — @cmichelio — 2019-04-24 15:32 UTC (2019-04-24 16:32 WAT)
+
+- URL: https://x.com/cmichelio/status/1121074319076012033
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 1
+
+> Decided to redesign my blog using a dark mode 🌑 💅https://cmichel.io/blog-redesign-with-gatsby-and-tailwindcss/ #gatsbyjs #javascript #webgl
+
+**Links in post:** https://cmichel.io/blog-redesign-with-gatsby-and-tailwindcss/
+
+
+---
+
+## 2019-03-26 · Post · Just released a minor update for my https://buff.ly/2HGIjE5 book. Made all EOS source code compatibl
+
+
+### Post — @cmichelio — 2019-03-26 00:04 UTC (2019-03-26 01:04 WAT)
+
+- URL: https://x.com/cmichelio/status/1110331536744828928
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 1
+
+> Just released a minor update for my https://buff.ly/2HGIjE5 book. Made all EOS source code compatible with CDT v1.6.1 ( #EOS Contract Development Toolkit) released last Friday. I'll continue to update to the book as I know how frustrating it is dealing with outdated code #EOSIO [pic.x.com/vpybnx3247]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D2iwpcXWsAEwWUi.png — no alt text provided by author
+
+**Links in post:** https://buff.ly/2HGIjE5
+
+
+---
+
+## 2019-03-23 · Thread · The third chapter covers all EOS specific smart contract programming constructs and shows examples f
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2019-03-23 08:23 UTC (2019-03-23 09:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1109370146131533824
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> The third chapter covers all EOS specific smart contract programming constructs and shows examples for many real-world use cases.
+
+
+### Thread part 2 — @cmichelio — 2019-03-23 08:23 UTC (2019-03-23 09:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1109370147125510144
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> The example dapp http://cryptoship.link, a 𝗱𝗲𝗰𝗲𝗻𝘁𝗿𝗮𝗹𝗶𝘇𝗲𝗱 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗮𝘆𝗲𝗿 𝗴𝗮𝗺𝗲 🕹️, will be developed in the chapters that follow. The architecture and the smart contract is developed and explained in the fourth chapter.
+
+**Links in post:** http://cryptoship.link
+
+
+---
+
+## 2019-03-16 · Post · Just saw these docs for EOS smart contract testing since the latest EOSIO.CDT v1.5 version. https:/
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2019-03-16 13:28 UTC (2019-03-16 14:28 WAT)
+
+- URL: https://x.com/cmichelio/status/1106910020824895490
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> Just saw these docs for #EOS smart contract testing since the latest EOSIO.CDT v1.5 version. https://eosio.github.io/eosio.cdt/1.5.0/guides/native-tester.html Nice to see some progress is being done in this direction. @block_one_ 👍 Anyone has some more actual unit test examples they can share? #EOSIO $EOS
+
+**Links in post:** https://eosio.github.io/eosio.cdt/1.5.0/guides/native-tester.html
+
+
+---
+
+## 2019-03-02 · Post · Progress Report - February 2019 - Learn EOS Book side project is close to launch 😃 https://buff.ly/
+
+
+### Post — @cmichelio — 2019-03-02 16:32 UTC (2019-03-02 17:32 WAT)
+
+- URL: https://x.com/cmichelio/status/1101882865397235713
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Progress Report - February 2019 - Learn #EOS Book side project is close to launch 😃 https://buff.ly/2H8uqNK #incomereport #learneos [pic.x.com/6Q3Klrub4H]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D0qsoCoWkAAjhd2.png — no alt text provided by author
+
+**Links in post:** https://buff.ly/2H8uqNK
+
+
+---
+
+## 2019-02-03 · Post · Progress Report - January 2019 - Coding and book writing https://buff.ly/2UzvMVd  incomereport pro
+
+
+### Post — @cmichelio — 2019-02-03 01:04 UTC (2019-02-03 02:04 WAT)
+
+- URL: https://x.com/cmichelio/status/1091864855353675777
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> Progress Report - January 2019 - Coding and book writing https://buff.ly/2UzvMVd  #incomereport #progress [pic.x.com/rcIsuntE9g]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DycVTJKWsAEhTUq.jpg — no alt text provided by author
+
+**Links in post:** https://buff.ly/2UzvMVd
+
+
+---
+
+## 2019-01-22 · Post · Another day in the world of interesting blockchain ideas badly executed, such that they don't benefi
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2019-01-22 23:02 UTC (2019-01-23 00:02 WAT)
+
+- URL: https://x.com/cmichelio/status/1087848057679609861
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Another day in the world of interesting blockchain ideas badly executed, such that they don't benefit from blockchain at all. https://medium.com/@humanGamepad/fizzy-axa-smart-contract-explaind-740df52894fd Why is it not using an Oracle to fetch the flight information and do the payout on-chain? #blockchain #blockchaintechnology
+
+**Links in post:** https://medium.com/@humanGamepad/fizzy-axa-smart-contract-explaind-740df52894fd
+
+
+---
+
+## 2019-01-03 · Post · Progress Report - December 2018 - Coding and book writing https://cmichel.io/progress-report-decembe
+
+
+### Post — @cmichelio — 2019-01-03 10:36 UTC (2019-01-03 11:36 WAT)
+
+- URL: https://x.com/cmichelio/status/1080774853907632133
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Progress Report - December 2018 - Coding and book writing https://cmichel.io/progress-report-december-2018/
+
+**Links in post:** https://cmichel.io/progress-report-december-2018/
+
+
+---
+
+## 2018-12-01 · Post · Progress Report - November 2018 - ✍️&amp; 👨‍💻https://cmichel.io/progress-report-november-2018/ inco
+
+
+### Post — @cmichelio — 2018-12-01 13:39 UTC (2018-12-01 14:39 WAT)
+
+- URL: https://x.com/cmichelio/status/1068862123927879680
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Progress Report - November 2018 - ✍️&amp; 👨‍💻https://cmichel.io/progress-report-november-2018/ #incomereport
+
+**Links in post:** https://cmichel.io/progress-report-november-2018/
+
+
+---
+
+## 2018-11-25 · Post · Finished the basic functionality for my learneos dapp's smart contract in one weekend. ✨ Once you s
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2018-11-25 18:58 UTC (2018-11-25 19:58 WAT)
+
+- URL: https://x.com/cmichelio/status/1066768144906313729
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 1
+
+> Finished the basic functionality for my #learneos dapp's smart contract in one weekend. ✨ Once you set up a local #EOS node, have your own tools and some experience, developing smart contracts can be straight forward. I think the frontend will take much more time 🎨
+
+
+---
+
+## 2018-11-01 · Post · Progress Report - October 2018 - No more mobile apps 😬 https://cmichel.io/progress-report-october-20
+
+
+### Post — @cmichelio — 2018-11-01 22:22 UTC (2018-11-01 23:22 WAT)
+
+- URL: https://x.com/cmichelio/status/1058122215160512512
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Progress Report - October 2018 - No more mobile apps 😬 https://cmichel.io/progress-report-october-2018/ #incomereport
+
+**Links in post:** https://cmichel.io/progress-report-october-2018/
+
+
+---
+
+## 2018-10-28 · Post · I just crossed the 💯pages mark for my EOS Development Book https://learneos.one Close to finishing 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2018-10-28 12:14 UTC (2018-10-28 13:14 WAT)
+
+- URL: https://x.com/cmichelio/status/1056519635397427200
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 2
+
+> I just crossed the 💯pages mark for my #EOS Development Book https://learneos.one Close to finishing the fourth "Smart Contract Development" chapter. Here's a little sneak peek graphic giving an overview about EOS [pic.x.com/pP7XdIsqG1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DqmCwWUXcAA1MJs.png — no alt text provided by author
+
+**Links in post:** https://learneos.one
