@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 385
-- Conversations/threads: 357
-- Oldest post captured: 2019-05-27
+- Posts in this file: 397
+- Conversations/threads: 369
+- Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
 
 
@@ -8348,6 +8348,242 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2021-11-07 · Post · The CTF is over, Neutron(ElectronJS) and bettercatalog(1day XS-leak) are still unsolved.
+
+
+### Post — @S1r1u5_ — 2021-11-07 03:48 UTC (2021-11-07 04:48 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1457193204655157251
+- Metrics (at fetch): not returned
+
+> The CTF is over, Neutron(ElectronJS) and bettercatalog(1day XS-leak) are still unsolved.
+>
+> So, we are extending challenges for a week. Get the first blood and submit the writeup, and you will get a chance to win $50/each. 
+>
+> More details about the challenges:https://gist.github.com/msrkp/35e680fde32312e599c4f067681a1795 [pic.x.com/WcK8tes8P9] https://twitter.com/zer0pts/status/1457186986263908353
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FDj9X8gVUAILwsP.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/msrkp/35e680fde32312e599c4f067681a1795, https://twitter.com/zer0pts/status/1457186986263908353
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1354742201486458880 — 2021-11-07 03:23 UTC (2021-11-07 04:23 WAT)
+    
+    - URL: https://x.com/1354742201486458880/status/1457186986263908353
+    - Metrics (at fetch): not returned
+    
+    > BSides Ahmedabad 2021 is over!
+    > 🥇./Vespiary
+    > 🥈Black Bauhinia
+    > 🥉Thehackerscew
+    > Thank you for playing it! We're looking forward to reading your write-ups👀 [pic.x.com/zvhtwo1esY]
+    
+    **Media:**
+    - media `3_1457186649579073536` (details not returned by the API)
+    
+
+
+---
+
+## 2021-09-22 · Post · In the coming blog will show you how I found a prototype pollution using CodeQL in one of the bug bo
+
+
+### Post — @S1r1u5_ — 2021-09-22 13:56 UTC (2021-09-22 14:56 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1440676370602811399
+- Metrics (at fetch): not returned
+
+> In the coming blog will show you how I found a prototype pollution using CodeQL in one of the bug bounty program. https://twitter.com/spaceraccoonsec/status/1440597335403220998
+
+**Links in post:** https://twitter.com/spaceraccoonsec/status/1440597335403220998
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1114203730851680256 — 2021-09-22 08:42 UTC (2021-09-22 09:42 WAT)
+    
+    - URL: https://x.com/1114203730851680256/status/1440597335403220998
+    - Metrics (at fetch): not returned
+    
+    > CodeQL is critical for modern source code review - the blogpost is an amazing breakdown of how to apply it to bug hunting. https://securitylab.github.com/research/apache-dubbo/ https://twitter.com/dcuthbert/status/1440596061253345281
+    
+    **Links in post:** https://securitylab.github.com/research/apache-dubbo/, https://twitter.com/dcuthbert/status/1440596061253345281
+    
+    **Quoted post** 1440596061253345281: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-09-09 · Post · Yay!!! I just signed an offer letter for ASE position @Bugcrowd 🥳  Thanks to the people over here ht
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @S1r1u5_ — 2021-09-09 11:12 UTC (2021-09-09 12:12 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1435923989080150019
+- Metrics (at fetch): not returned
+
+> Yay!!! I just signed an offer letter for ASE position @Bugcrowd 🥳  Thanks to the people over here https://blog.s1r1us.ninja/inspiration and my awesome bros @rootxharsh @iamnoooob @prateek_0490 @streaak
+
+**Links in post:** https://blog.s1r1us.ninja/inspiration
+
+
+---
+
+## 2021-09-01 · Post · XSS really is the most beautiful bug class. Change my mind. https://twitter.com/honoki/status/143305
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2021-09-01 13:19 UTC (2021-09-01 14:19 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1433056987940413446
+- Metrics (at fetch): not returned
+
+> XSS really is the most beautiful bug class. Change my mind. https://twitter.com/honoki/status/1433056465028329483
+
+**Links in post:** https://twitter.com/honoki/status/1433056465028329483
+
+**Quoted post** 1433056465028329483: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-07-10 · Post · XSS to /bin/xcalc is a different feeling.
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2021-07-10 07:01 UTC (2021-07-10 08:01 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1413755252797427717
+- Metrics (at fetch): not returned
+
+> XSS to /bin/xcalc is a different feeling.
+> #collabs [pic.x.com/PoCUEBnECb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E56qWVhUcAE5HLs.png — no alt text provided by author
+
+
+---
+
+## 2021-07-01 · Post · And we were awarded a $7,500 bounty on @Hacker0x01.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2021-07-01 04:15 UTC (2021-07-01 05:15 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1410451932037062660
+- Metrics (at fetch): not returned
+
+> And we were awarded a $7,500 bounty on @Hacker0x01.
+>
+> To the people asking for the blog:
+> There is a very long blog post coming with many prototype pollution issues, but first vendors have to fix the bugs. https://twitter.com/S1r1u5_/status/1408775538592780290
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1408775538592780290
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2021-06-26 13:13 UTC (2021-06-26 14:13 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1408775538592780290
+    - Metrics (at fetch): not returned
+    
+    > prototype pollution to RCE is a nice chain. 🤓
+    
+
+
+---
+
+## 2021-06-28 · Post · I kind of do the same, but oftentimes I stuck at one point and in this challenge bypassing the "sani
+
+
+### Post — @S1r1u5_ — 2021-06-28 03:34 UTC (2021-06-28 04:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1409354456680910851
+- Metrics (at fetch): not returned
+
+> I kind of do the same, but oftentimes I stuck at one point and in this challenge bypassing the "sanitize" filter. After few hours, I've figured that I can bypass the filter with SVG but it is an unintended solution. I've not figured out the actual solution, what I do? https://twitter.com/terjanq/status/1409272074502348800
+
+**Links in post:** https://twitter.com/terjanq/status/1409272074502348800
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1090682326709952512 — 2021-06-27 22:07 UTC (2021-06-27 23:07 WAT)
+    
+    - URL: https://x.com/1090682326709952512/status/1409272074502348800
+    - Metrics (at fetch): not returned
+    
+    > I've been really busy recently working on my challenge for the upcoming GoogleCTF but managed to draft a mini-article about problem-solving skills. Hope it answers one of the most common questions I receive and which is: How do you solve them so quickly?🙃
+    > https://medium.com/@terjanq/how-to-solve-a-challenge-from-intigrity-in-under-60-minutes-6843ba9b9552
+    
+    **Links in post:** https://medium.com/@terjanq/how-to-solve-a-challenge-from-intigrity-in-under-60-minutes-6843ba9b9552
+    
+
+
+---
+
+## 2021-06-26 · Post · prototype pollution to RCE is a nice chain. 🤓
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2021-06-26 13:13 UTC (2021-06-26 14:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1408775538592780290
+- Metrics (at fetch): not returned
+
+> prototype pollution to RCE is a nice chain. 🤓
+
+
+---
+
+## 2021-05-13 · Post · Published a blog - "A tale of solving all the recent XSS challenges using chrome 1-day"
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2021-05-13 12:53 UTC (2021-05-13 13:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1392825217848791043
+- Metrics (at fetch): not returned
+
+> Published a blog - "A tale of solving all the recent XSS challenges using chrome 1-day"
+>
+> https://blog.s1r1us.ninja/CTF/site-isolation
+
+**Links in post:** https://blog.s1r1us.ninja/CTF/site-isolation
+
+
+---
+
+## 2021-03-06 · Post · fix a bug in a CTF challenge or prepare for the exam?
+
+
+### Post — @S1r1u5_ — 2021-03-06 05:00 UTC (2021-03-06 06:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1368063802688741382
+- Metrics (at fetch): not returned
+
+> fix a bug in a CTF challenge or prepare for the exam?
+>
+> sacrificed exam to fix the bug.😐
+
+
+---
+
 ## 2020-12-31 · Post · Aspirations for 2021, earn less from bug bounties so that I can concentrate more on CTFs and vulnera
 
 
@@ -9272,3 +9508,33 @@ Tags (automatic): XSS
 > https://s1r1uss.blogspot.com/2019/05/intigriti-2nd-xss-challenge-writeup.html. #XSS #intigriti
 
 **Links in post:** https://s1r1uss.blogspot.com/2019/05/intigriti-2nd-xss-challenge-writeup.html
+
+
+---
+
+## 2017-02-26 · Post · Hack windows PC using Fatrat that can by Bypass antivirus.2017 100% working: http://youtu.be/tc74d-v
+
+
+### Post — @S1r1u5_ — 2017-02-26 07:02 UTC (2017-02-26 08:02 WAT)
+
+- URL: https://x.com/S1r1u5_/status/835746911080615936
+- Metrics (at fetch): not returned
+
+> Hack windows PC using Fatrat that can by Bypass antivirus.2017 100% working: http://youtu.be/tc74d-vaI60?a via @YouTube
+
+**Links in post:** http://youtu.be/tc74d-vaI60?a
+
+
+---
+
+## 2017-02-26 · Post · I added a video to a @YouTube playlist http://youtu.be/tc74d-vaI60?a Hack windows PC using Fatrat th
+
+
+### Post — @S1r1u5_ — 2017-02-26 07:02 UTC (2017-02-26 08:02 WAT)
+
+- URL: https://x.com/S1r1u5_/status/835746894571798530
+- Metrics (at fetch): not returned
+
+> I added a video to a @YouTube playlist http://youtu.be/tc74d-vaI60?a Hack windows PC using Fatrat that can by Bypass antivirus.2017 100%
+
+**Links in post:** http://youtu.be/tc74d-vaI60?a

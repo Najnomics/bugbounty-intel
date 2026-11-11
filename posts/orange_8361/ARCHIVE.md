@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 120
-- Conversations/threads: 120
+- Posts in this file: 121
+- Conversations/threads: 121
 - Oldest post captured: 2016-04-21
 - Newest post captured: 2026-10-29
 
@@ -1285,6 +1285,31 @@ Tags (automatic): RCE
 > #proxylogon
 
 **Links in post:** https://proxylogon.com/
+
+
+---
+
+## 2021-03-02 · Post · The patch release of this BIG ONE is coming soon, and a short advisory is also standing by! (BTW, no
+
+
+### Post — @orange_8361 — 2021-03-02 14:22 UTC (2021-03-02 15:22 WAT)
+
+- URL: https://x.com/orange_8361/status/1366755875143118849
+- Metrics (at fetch): not returned
+
+> The patch release of this BIG ONE is coming soon, and a short advisory is also standing by! (BTW, no one guess the right target in comments😛) https://twitter.com/orange_8361/status/1346401788811825153
+
+**Links in post:** https://twitter.com/orange_8361/status/1346401788811825153
+
+**Quoted post (full text):**
+
+    #### Quoted post — @orange_8361 — 2021-01-05 10:22 UTC (2021-01-05 11:22 WAT)
+    
+    - URL: https://x.com/orange_8361/status/1346401788811825153
+    - Metrics (at fetch): not returned
+    
+    > Just report a pre-auth RCE chain to the vendor. This might be the most serious RCE I have ever reported! Hope there is no bug collision or duplicate😝
+    
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 337
-- Conversations/threads: 330
+- Posts in this file: 369
+- Conversations/threads: 362
 - Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
 
@@ -2562,6 +2562,347 @@ Tags (automatic): XSS
 
 ---
 
+## 2021-10-11 · Post · HackerOne and Bugcrowd do *NOT* have mobile apps.  Make sure when accessing either to only login via
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @zseano — 2021-10-11 19:15 UTC (2021-10-11 20:15 WAT)
+
+- URL: https://x.com/zseano/status/1447641950916648968
+- Metrics (at fetch): not returned
+
+> HackerOne and Bugcrowd do *NOT* have mobile apps.  Make sure when accessing either to only login via  http://bugcrowd.com &amp; http://hackerone.com https://twitter.com/imranHudaA/status/1447579356205752331
+
+**Links in post:** http://bugcrowd.com, http://hackerone.com, https://twitter.com/imranHudaA/status/1447579356205752331
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1035132494746533890 — 2021-10-11 15:06 UTC (2021-10-11 16:06 WAT)
+    
+    - URL: https://x.com/1035132494746533890/status/1447579356205752331
+    - Metrics (at fetch): not returned
+    
+    > Hi @Hacker0x01 @Bugcrowd can you please say something about these apps? [pic.x.com/9GhqDeX4EN]
+    
+    **Media:**
+    - media `3_1447579341240426504` (details not returned by the API)
+    - media `3_1447579348525993994` (details not returned by the API)
+    - media `3_1447579353227804681` (details not returned by the API)
+    
+
+
+---
+
+## 2021-10-01 · Post · .@ZaricNenad_ is looking for some more testers for his platform @trick3st: “Enabling bug bounty hunt
+
+
+### Post — @zseano — 2021-10-01 17:20 UTC (2021-10-01 18:20 WAT)
+
+- URL: https://x.com/zseano/status/1443989289902170112
+- Metrics (at fetch): not returned
+
+> .@ZaricNenad_ is looking for some more testers for his platform @trick3st: “Enabling bug bounty hunters, penetration testers, and SecOps teams to build and automate workflows from start to finish.” Check it out and have a play :) https://www.trickest.com
+
+**Links in post:** https://www.trickest.com
+
+
+---
+
+## 2021-09-28 · Post · I’m so grateful for bug bounties and the opportunities it’s created. I can work when I want and I do
+
+
+### Post — @zseano — 2021-09-28 15:43 UTC (2021-09-28 16:43 WAT)
+
+- URL: https://x.com/zseano/status/1442877734158540809
+- Metrics (at fetch): not returned
+
+> I’m so grateful for bug bounties and the opportunities it’s created. I can work when I want and I don’t have to ever leave the house to go ‘back to work’ and as a result Abi is able to continue her career next year :)
+
+
+---
+
+## 2021-09-05 · Post · So proud of the progress members are making on BARKER! Makes me so happy to see the product I create
+
+
+### Post — @zseano — 2021-09-05 16:02 UTC (2021-09-05 17:02 WAT)
+
+- URL: https://x.com/zseano/status/1434547460442050562
+- Metrics (at fetch): not returned
+
+> So proud of the progress members are making on BARKER! Makes me so happy to see the product I created working and people learning not just about bug types but the mindset to discovering them 🙏🏻 creating new hackers who can then follow in my footsteps &amp; crush some bb programs:) [pic.x.com/NdG9fqrvEO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E-iJT48WUAsWwoa.jpg — no alt text provided by author
+
+
+---
+
+## 2021-07-13 · Post · Great talk from Ben on bug bounties! It can certainly open up many opportunities for you , and in al
+
+
+### Post — @zseano — 2021-07-13 22:14 UTC (2021-07-13 23:14 WAT)
+
+- URL: https://x.com/zseano/status/1415072183261581312
+- Metrics (at fetch): not returned
+
+> Great talk from Ben on bug bounties! It can certainly open up many opportunities for you , and in all honesty .. I don’t see bug bounties going anywhere anytime soon , and there’s no better time to start. 👇🏻 https://twitter.com/NahamSec/status/1415018482589073409
+
+**Links in post:** https://twitter.com/NahamSec/status/1415018482589073409
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2021-07-13 18:41 UTC (2021-07-13 19:41 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1415018482589073409
+    - Metrics (at fetch): not returned
+    
+    > I'm live with @OWASP in a few minutes on YouTube! https://youtu.be/unw8GsChBDg
+    
+    **Links in post:** https://youtu.be/unw8GsChBDg
+    
+
+
+---
+
+## 2021-07-07 · Post · I’m sorry for the silence from me over the last few weeks. Busy building new stuff (for non paying u
+
+
+### Post — @zseano — 2021-07-07 22:57 UTC (2021-07-07 23:57 WAT)
+
+- URL: https://x.com/zseano/status/1412908543959781389
+- Metrics (at fetch): not returned
+
+> I’m sorry for the silence from me over the last few weeks. Busy building new stuff (for non paying users, barker is keeping ppl busy atm!) for @BugBountyHunt3r to help you learn webapp security &amp; get started in bug bounties , nearing completion, then I’ll be in your timelines! 💪
+
+
+---
+
+## 2021-07-04 · Post · Thank you @Hacker0x01 for the HackerOne-sie swag for the baby 😍 Me &amp; Abi are very grateful 😘☺️ [
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2021-07-04 22:28 UTC (2021-07-04 23:28 WAT)
+
+- URL: https://x.com/zseano/status/1411814199664250883
+- Metrics (at fetch): not returned
+
+> Thank you @Hacker0x01 for the HackerOne-sie swag for the baby 😍 Me &amp; Abi are very grateful 😘☺️ [pic.x.com/hJetHVhvdJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E5fFhuhXMAE5irv.jpg — no alt text provided by author
+
+
+---
+
+## 2021-06-26 · Post · I’d love to see more info on how long it took people to get paid. I feel like some people see big bo
+
+
+### Post — @zseano — 2021-06-26 12:42 UTC (2021-06-26 13:42 WAT)
+
+- URL: https://x.com/zseano/status/1408767600398680064
+- Metrics (at fetch): not returned
+
+> I’d love to see more info on how long it took people to get paid. I feel like some people see big bounty amounts disclosed without context &amp; think it’s quick &amp; easy. Bounties is far from being quick 👍🏻 you need patience , a lot of it https://twitter.com/techhacker98/status/1408693513290584068
+
+**Links in post:** https://twitter.com/techhacker98/status/1408693513290584068
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3225968688 — 2021-06-26 07:48 UTC (2021-06-26 08:48 WAT)
+    
+    - URL: https://x.com/3225968688/status/1408693513290584068
+    - Metrics (at fetch): not returned
+    
+    > Unpopular opinion: Sharing a writeup of your finding is much better than sharing a bounty screenshot tagging your hundred mentors.
+    
+
+
+---
+
+## 2021-06-25 · Post · I am not a recon god , please don't ask me about it :D Everyone is so obsessed with recon but just y
+
+
+### Post — @zseano — 2021-06-25 14:33 UTC (2021-06-25 15:33 WAT)
+
+- URL: https://x.com/zseano/status/1408433047989633034
+- Metrics (at fetch): not returned
+
+> I am not a recon god , please don't ask me about it :D Everyone is so obsessed with recon but just yesterday I opened http://example.com and found two IDORS to leak payment info. No recon needed, just chrome &amp; burp. I stick to what works for me ._. https://twitter.com/intigriti/status/1408394597848555529
+
+**Links in post:** http://example.com, https://twitter.com/intigriti/status/1408394597848555529
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736615159653924864 — 2021-06-25 12:00 UTC (2021-06-25 13:00 WAT)
+    
+    - URL: https://x.com/736615159653924864/status/1408394597848555529
+    - Metrics (at fetch): not returned
+    
+    > 🔴LIVE MENTOR SESSION (starting now): 
+    > @zseano 
+    >  will answer your questions for the next 4 hours!
+    > 💬 Comment with your question! 👇 [pic.x.com/eUr3wckpAR]
+    
+    **Media:**
+    - media `3_1408393936121569281` (details not returned by the API)
+    
+
+
+---
+
+## 2021-06-08 · Post · thought @PwnFunction was testing for stored XSS on twitter for a second ;D [pic.x.com/X7uQUZLRM8]
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2021-06-08 10:11 UTC (2021-06-08 11:11 WAT)
+
+- URL: https://x.com/zseano/status/1402206734257696770
+- Metrics (at fetch): not returned
+
+> thought @PwnFunction was testing for stored XSS on twitter for a second ;D [pic.x.com/X7uQUZLRM8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E3WjiRYX0AEsuV6.png — no alt text provided by author
+
+
+---
+
+## 2021-05-16 · Post · Gifted him @BugBountyHunt3r membership and he finished 1 on our recent hackevent *and* he's discov
+
+
+### Post — @zseano — 2021-05-16 22:58 UTC (2021-05-16 23:58 WAT)
+
+- URL: https://x.com/zseano/status/1394064788469211138
+- Metrics (at fetch): not returned
+
+> Gifted him @BugBountyHunt3r membership and he finished #1 on our recent #hackevent *and* he's discovered 30 bugs out in the wild on bug bounty programs. 
+>
+> anything is possible if you put your mind to it! I will do my best to continue to help you! &lt;3 [pic.x.com/lOcgvqgoTg] https://twitter.com/HolyBugx/status/1342263501000204289
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E1i2XKaWEAACKMS.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/HolyBugx/status/1342263501000204289
+
+**Quoted post** 1342263501000204289: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-05-09 · Post · what an absolute CRAZY few weeks it's been.. I *think* everything is working smoothly. fingers cross
+
+
+### Post — @zseano — 2021-05-09 14:34 UTC (2021-05-09 15:34 WAT)
+
+- URL: https://x.com/zseano/status/1391401179775750144
+- Metrics (at fetch): not returned
+
+> what an absolute CRAZY few weeks it's been.. I *think* everything is working smoothly. fingers crossed..... Hackers are busy testing 'firstblood' and i'm waiting for the reports to trickle in :-) Who will be the first to receive a bounty?!
+
+
+---
+
+## 2021-04-17 · Post · If you think about it, bug bounty platforms are only popular because they have a lot of hackers, so 
+
+
+### Post — @zseano — 2021-04-17 11:10 UTC (2021-04-17 12:10 WAT)
+
+- URL: https://x.com/zseano/status/1383377375887458308
+- Metrics (at fetch): not returned
+
+> If you think about it, bug bounty platforms are only popular because they have a lot of hackers, so companies are like "oooo i want to tap into these hackers". 
+>
+> No hackers = companies don't get value = they move elsewhere. We're the ones producing the results.
+
+
+---
+
+## 2021-04-10 · Post · If you triage reports for a bug bounty platform then in my opinion you should keep it to yourself. S
+
+
+### Post — @zseano — 2021-04-10 11:03 UTC (2021-04-10 12:03 WAT)
+
+- URL: https://x.com/zseano/status/1380838949204205574
+- Metrics (at fetch): not returned
+
+> If you triage reports for a bug bounty platform then in my opinion you should keep it to yourself. Some platforms will shadowban you and prevent you from receiving invites just because you work for a competitor. Just looking out for some of you 👍🏻
+
+
+---
+
+## 2021-04-01 · Post · Who's hacking on @googlevrp from my NahamCon talk? (which will be on youtube next week btw!)
+
+
+### Post — @zseano — 2021-04-01 11:59 UTC (2021-04-01 12:59 WAT)
+
+- URL: https://x.com/zseano/status/1377591410094923777
+- Metrics (at fetch): not returned
+
+> Who's hacking on @googlevrp from my #NahamCon talk? (which will be on youtube next week btw!)
+>
+> Need some motivation? A @BugBountyHunt3r member just found their first bug... but not just any bug, a P1! There are more bugs out there :) Happy hacking! [pic.x.com/dASF9kxVnk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ex4vj-iXIAQrKRP.png — no alt text provided by author
+
+
+---
+
+## 2021-03-21 · Post · Check out @intigriti's public bug bounty program list:  https://www.intigriti.com/programs
+
+
+### Post — @zseano — 2021-03-21 17:50 UTC (2021-03-21 18:50 WAT)
+
+- URL: https://x.com/zseano/status/1373693472260161541
+- Metrics (at fetch): not returned
+
+> Check out @intigriti's public bug bounty program list:  https://www.intigriti.com/programs
+
+**Links in post:** https://www.intigriti.com/programs
+
+
+---
+
+## 2021-03-11 · Post · Looking forward to giving my talk at NahamCon. I'm going to give you some tips &amp; advice as well
+
+
+### Post — @zseano — 2021-03-11 22:58 UTC (2021-03-11 23:58 WAT)
+
+- URL: https://x.com/zseano/status/1370147269031440385
+- Metrics (at fetch): not returned
+
+> Looking forward to giving my talk at #NahamCon. I'm going to give you some tips &amp; advice as well as 'homework' for you to do for the next 12months w/ hacking on bug bounty programs. Hopefully it'll help you find some cool bugs &amp; earn $! https://www.nahamcon.com/ [pic.x.com/UDQGapGfsp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EwO8NXRWQAYVsN4.png — no alt text provided by author
+
+**Links in post:** https://www.nahamcon.com/
+
+
+---
+
+## 2021-03-07 · Post · once the bugs are fixed that I recently reported, I'll go on @NahamSec stream and show you what I me
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2021-03-07 22:43 UTC (2021-03-07 23:43 WAT)
+
+- URL: https://x.com/zseano/status/1368693713887707142
+- Metrics (at fetch): not returned
+
+> once the bugs are fixed that I recently reported, I'll go on @NahamSec stream and show you what I mean with using intruder and a list of urls. will show you how I found a unique list of urls to test and how running intruder simply to see how they responded, resulted in 2 xss
+
+
+---
+
 ## 2021-03-04 · Post · Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
 
 
@@ -2573,6 +2914,19 @@ Tags (automatic): XSS
 > Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
 
 **Quoted post** 1367592660253302785: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-02-21 · Post · 1 bug 2 bug 3 bug.. 4. Let’s keep going 😇
+
+
+### Post — @zseano — 2021-02-21 22:36 UTC (2021-02-21 23:36 WAT)
+
+- URL: https://x.com/zseano/status/1363618617015869440
+- Metrics (at fetch): not returned
+
+> 1 bug 2 bug 3 bug.. 4. Let’s keep going 😇
 
 
 ---
@@ -3331,6 +3685,228 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EPOYOTLXsAAtccr.png — no alt text provided by author
+
+
+---
+
+## 2017-04-07 · Post · For the last 2months my bugs have been triaged and paid all within 14 days on @Bugcrowd. To the tria
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2017-04-07 18:07 UTC (2017-04-07 19:07 WAT)
+
+- URL: https://x.com/zseano/status/850409657482924033
+- Metrics (at fetch): not returned
+
+> For the last 2months my bugs have been triaged and paid all within 14 days on @Bugcrowd. To the triagers+program owner - thank you!&lt;3
+
+
+---
+
+## 2017-04-06 · Post · Another cool bypass for open url redirect filters: hxxps://www.yoursite.com?x=.bountysite.com/ - mak
+
+
+### Post — @zseano — 2017-04-06 02:47 UTC (2017-04-06 03:47 WAT)
+
+- URL: https://x.com/zseano/status/849815814936997888
+- Metrics (at fetch): not returned
+
+> Another cool bypass for open url redirect filters: hxxps://www.yoursite.com?x=.bountysite.com/ - making use of ? (when @ \ etc is blocked)
+
+
+---
+
+## 2017-03-28 · Post · Interesting bug in @unbounce to hijack an already claimed domain. Nice find @knowledge_2014 https://
+
+
+### Post — @zseano — 2017-03-28 02:21 UTC (2017-03-28 03:21 WAT)
+
+- URL: https://x.com/zseano/status/846547772731867136
+- Metrics (at fetch): not returned
+
+> Interesting bug in @unbounce to hijack an already claimed domain. Nice find @knowledge_2014 https://x.com/knowledge_2014/status/846523325245538304
+
+**Links in post:** https://x.com/knowledge_2014/status/846523325245538304
+
+**Quoted post** 846523325245538304: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2017-03-27 · Post · 3 on @Bugcrowd 😬 [pic.x.com/nN3gwGLvE5]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2017-03-27 18:36 UTC (2017-03-27 19:36 WAT)
+
+- URL: https://x.com/zseano/status/846430744394121216
+- Metrics (at fetch): not returned
+
+> #3 on @Bugcrowd 😬 [pic.x.com/nN3gwGLvE5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C78gRgcVAAAjUyE.jpg — no alt text provided by author
+
+
+---
+
+## 2017-03-27 · Post · Tutorial 5: Things you can try to bypass CSRF tokens, and how I found a site-wide CSRF bypass on a b
+
+
+### Post — @zseano — 2017-03-27 05:26 UTC (2017-03-27 06:26 WAT)
+
+- URL: https://x.com/zseano/status/846231833033420800
+- Metrics (at fetch): not returned
+
+> Tutorial 5: Things you can try to bypass CSRF tokens, and how I found a site-wide CSRF bypass on a bounty program: http://zseano.com/tut/5.html [pic.x.com/3sl9qt0JdM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C75rV0NV4AAGGVf.jpg — no alt text provided by author
+
+**Links in post:** http://zseano.com/tut/5.html
+
+
+---
+
+## 2017-03-17 · Post · 3 invites on @Bugcrowd today.. Happy Friday! Brb 😂 [pic.x.com/bNDkL0DOOn]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2017-03-17 18:20 UTC (2017-03-17 19:20 WAT)
+
+- URL: https://x.com/zseano/status/842802889441529857
+- Metrics (at fetch): not returned
+
+> 3 invites on @Bugcrowd today.. Happy Friday! Brb 😂 [pic.x.com/bNDkL0DOOn]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2017-03-15 · Post · Good luck to all finalists tommorow for the bugcrowd buggy awards!
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2017-03-15 19:41 UTC (2017-03-15 20:41 WAT)
+
+- URL: https://x.com/zseano/status/842098513538383873
+- Metrics (at fetch): not returned
+
+> Good luck to all finalists tommorow for the bugcrowd buggy awards!
+
+
+---
+
+## 2017-03-03 · Post · Had an awesome day meeting the @Bugcrowd team and hanging with @caseyjohnellis and @samhouston. Been
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2017-03-03 06:04 UTC (2017-03-03 07:04 WAT)
+
+- URL: https://x.com/zseano/status/837544309171744768
+- Metrics (at fetch): not returned
+
+> Had an awesome day meeting the @Bugcrowd team and hanging with @caseyjohnellis and @samhouston. Been fun, great bunch of people
+
+
+---
+
+## 2017-02-28 · Post · tfw when company can't repo a bug and then nor can you. [pic.x.com/1v67Um5Zuh]
+
+
+### Post — @zseano — 2017-02-28 01:10 UTC (2017-02-28 02:10 WAT)
+
+- URL: https://x.com/zseano/status/836383153983897600
+- Metrics (at fetch): not returned
+
+> tfw when company can't repo a bug and then nor can you. [pic.x.com/1v67Um5Zuh]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2017-02-25 · Post · One company, 262 bugs, 100% acceptance and over 300million users' details saved. My experience on bu
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2017-02-25 07:47 UTC (2017-02-25 08:47 WAT)
+
+- URL: https://x.com/zseano/status/835395793959858176
+- Metrics (at fetch): not returned
+
+> One company, 262 bugs, 100% acceptance and over 300million users' details saved. My experience on bugcrowd: https://medium.com/@sean.roesner/one-company-262-bugs-100-acceptance-2-57-priority-300million-user-details-saved-dd88ecb10f6f [pic.x.com/uAOVhl3825]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C5fr96LUsAExmmY.jpg — no alt text provided by author
+
+**Links in post:** https://medium.com/@sean.roesner/one-company-262-bugs-100-acceptance-2-57-priority-300million-user-details-saved-dd88ecb10f6f
+
+
+---
+
+## 2017-01-28 · Post · Rising in those bugcrowd ranks. Work smart, not hard 💪 [pic.x.com/vQNfPuS0Kp]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2017-01-28 13:02 UTC (2017-01-28 14:02 WAT)
+
+- URL: https://x.com/zseano/status/825328239165964290
+- Metrics (at fetch): not returned
+
+> Rising in those bugcrowd ranks. Work smart, not hard 💪 [pic.x.com/vQNfPuS0Kp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C3Qnp3nW8AABS_6.jpg — no alt text provided by author
+
+
+---
+
+## 2017-01-20 · Post · .@mongobug is an rce god
+
+
+Tags (automatic): RCE
+
+
+### Post — @zseano — 2017-01-20 00:35 UTC (2017-01-20 01:35 WAT)
+
+- URL: https://x.com/zseano/status/822241211075493888
+- Metrics (at fetch): not returned
+
+> .@mongobug is an rce god
+
+
+---
+
+## 2017-01-08 · Post · Bug bounties changed my life https://t.co/8m3rQFbd9y
+
+
+### Post — @zseano — 2017-01-08 14:33 UTC (2017-01-08 15:33 WAT)
+
+- URL: https://x.com/zseano/status/818103446918283264
+- Metrics (at fetch): bookmark 1, impression 0, like 35, quote 1, reply 5, retweet 2
+
+> Bug bounties changed my life https://t.co/8m3rQFbd9y
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---

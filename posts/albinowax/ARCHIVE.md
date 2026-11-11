@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 311
-- Conversations/threads: 305
+- Posts in this file: 312
+- Conversations/threads: 306
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
 
@@ -2794,6 +2794,19 @@ Tags (automatic): Request smuggling / desync
 > https://www.rfc-editor.org/rfc/rfc7230#section-4.1
 
 **Links in post:** https://nodejs.org/en/blog/release/v12.22.7/, https://www.rfc-editor.org/rfc/rfc7230#section-4.1
+
+
+---
+
+## 2021-09-30 · Post · I'm doing internal testing on the upcoming HTTP/2 @WebSecAcademy labs. Currently they're mostly in t
+
+
+### Post — @albinowax — 2021-09-30 17:09 UTC (2021-09-30 18:09 WAT)
+
+- URL: https://x.com/albinowax/status/1443624094424047618
+- Metrics (at fetch): not returned
+
+> I'm doing internal testing on the upcoming HTTP/2 @WebSecAcademy labs. Currently they're mostly in the "technically solvable but unfathomably difficult" stage.
 
 
 ---

@@ -534,7 +534,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Links in post:** https://twitter.com/paradigm_ctf/status/1561504937858568192
 
-**Quoted post** 1561504937858568192: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1334836889807958016 — 2022-08-22 00:06 UTC (2022-08-22 01:06 WAT)
+    
+    - URL: https://x.com/1334836889807958016/status/1561504937858568192
+    - Metrics (at fetch): bookmark 30, impression 0, like 356, quote 28, reply 17, retweet 42
+    
+    > We're done! Thanks to everyone for playing Paradigm CTF 2022. Congrats to @theori_io, @hexens, and @PwningEth for scoring in the top 3!
+    >
+    > A big shoutout to @0xGreg_, @Mauricio_0218, @Zellic_io, @osec_io, and @dumbcontract2 for guest authoring challenges.
+    >
+    > See you next year! https://t.co/IYSVMMspdO
+    
+    **Media:**
+    - media `3_1561504017858961408` (details not returned by the API)
+    
 
 
 ---

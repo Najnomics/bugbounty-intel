@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 450
-- Conversations/threads: 445
+- Posts in this file: 505
+- Conversations/threads: 500
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
 
@@ -4859,6 +4859,512 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2021-10-28 · Post · A cool note about cve-2021-26420 (https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-re
+
+
+### Post — @irsdl — 2021-10-28 21:55 UTC (2021-10-28 22:55 WAT)
+
+- URL: https://x.com/irsdl/status/1453842888194936834
+- Metrics (at fetch): not returned
+
+> A cool note about cve-2021-26420 (https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation) from @thezdi -&gt;
+> It can use a C# file with any extension rather than .XOML as explained here: https://posts.specterops.io/arbitrary-unsigned-code-execution-vector-in-microsoft-workflow-compiler-exe-3d9294bc5efb by @mattifestation  #AnotherSharePointWorkflowExploit https://twitter.com/irsdl/status/1453712684936015873
+
+**Links in post:** https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation, https://posts.specterops.io/arbitrary-unsigned-code-execution-vector-in-microsoft-workflow-compiler-exe-3d9294bc5efb, https://twitter.com/irsdl/status/1453712684936015873
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2021-10-28 13:18 UTC (2021-10-28 14:18 WAT)
+    
+    - URL: https://x.com/irsdl/status/1453712684936015873
+    - Metrics (at fetch): not returned
+    
+    > WTF, I just realised why I cannot reproduce https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation after many hours of fighting... [pic.x.com/tgHXaglwZS]
+    
+    **Media:**
+    - media `3_1453712533974573057` (details not returned by the API)
+    
+    **Links in post:** https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation
+    
+
+
+---
+
+## 2021-10-28 · Post · WTF, I just realised why I cannot reproduce https://www.zerodayinitiative.com/blog/2021/10/5/cve-202
+
+
+### Post — @irsdl — 2021-10-28 13:18 UTC (2021-10-28 14:18 WAT)
+
+- URL: https://x.com/irsdl/status/1453712684936015873
+- Metrics (at fetch): not returned
+
+> WTF, I just realised why I cannot reproduce https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation after many hours of fighting... [pic.x.com/tgHXaglwZS]
+
+**Media:**
+- media `3_1453712533974573057` (details not returned by the API)
+
+**Links in post:** https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation
+
+
+---
+
+## 2021-10-11 · Post · The 1.07 version of @MDSecLabs BurpSuite Sharpener extension is out. In addition to some bug fixes
+
+
+### Post — @irsdl — 2021-10-11 21:35 UTC (2021-10-11 22:35 WAT)
+
+- URL: https://x.com/irsdl/status/1447677153143820289
+- Metrics (at fetch): not returned
+
+> The 1.07 version of @MDSecLabs #BurpSuite #Sharpener extension is out. In addition to some bug fixes, this version comes with the Halloween theme! Just what we need to harvest more bugz!!!
+>
+> 🎃🎃🎃
+> https://github.com/mdsecresearch/BurpSuiteSharpener
+> 🎃🎃🎃
+>
+> Thanks to @CoreyD97 for a swift library update! 👻 [pic.x.com/BDE2a8ZcFj]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FBcty3xXIAYD5uY.png — no alt text provided by author
+
+**Links in post:** https://github.com/mdsecresearch/BurpSuiteSharpener
+
+
+---
+
+## 2021-09-23 · Post · It is unclear why this was not reported to MS before concluding that this is a misconfiguration rath
+
+
+### Post — @irsdl — 2021-09-23 00:59 UTC (2021-09-23 01:59 WAT)
+
+- URL: https://x.com/irsdl/status/1440843206921375745
+- Metrics (at fetch): not returned
+
+> It is unclear why this was not reported to MS before concluding that this is a misconfiguration rather than a bug; I put my money on publicity! https://twitter.com/Dinosn/status/1440689982012735504
+
+**Links in post:** https://twitter.com/Dinosn/status/1440689982012735504
+
+**Quoted post (full text):**
+
+    #### Quoted post — @128484298 — 2021-09-22 14:50 UTC (2021-09-22 15:50 WAT)
+    
+    - URL: https://x.com/128484298/status/1440689982012735504
+    - Metrics (at fetch): not returned
+    
+    > Microsoft Exchange Autodiscover bugs leak 100K Windows credentials https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-autodiscover-bugs-leak-100k-windows-credentials/
+    
+    **Links in post:** https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-autodiscover-bugs-leak-100k-windows-credentials/
+    
+
+
+---
+
+## 2021-09-16 · Post · A few years ago on a client site, I had this joke from a colleague:
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2021-09-16 09:30 UTC (2021-09-16 10:30 WAT)
+
+- URL: https://x.com/irsdl/status/1438435232512987137
+- Metrics (at fetch): not returned
+
+> A few years ago on a client site, I had this joke from a colleague:
+> "you call yourself a web appsec expert, but you can't even say Slash/Backslash or XSS properly!!!" 
+> Since then I really try hard not to say it like "ESLASH/BACKESLASH or EEXSS" but I need more practice 😅
+
+
+---
+
+## 2021-09-15 · Post · - Do you also want to know how you can proxy Exchange frontend and backend easily? 
+
+
+### Post — @irsdl — 2021-09-15 10:01 UTC (2021-09-15 11:01 WAT)
+
+- URL: https://x.com/irsdl/status/1438080645478113284
+- Metrics (at fetch): not returned
+
+> - Do you also want to know how you can proxy Exchange frontend and backend easily? 
+> - How to debug Exchange using dnSpy? 
+> - How to send plain/text to submit your form to an ASPX page? 
+> - How to bypass some WAFs? What's still unpatched there? 
+>
+> We have you covered @MDSecLabs 🧙‍♂️ [pic.x.com/wy4XV7xhG5] https://twitter.com/MDSecLabs/status/1438077964638371845
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+**Links in post:** https://twitter.com/MDSecLabs/status/1438077964638371845
+
+**Quoted post (full text):**
+
+    #### Quoted post — @334002593 — 2021-09-15 09:51 UTC (2021-09-15 10:51 WAT)
+    
+    - URL: https://x.com/334002593/status/1438077964638371845
+    - Metrics (at fetch): not returned
+    
+    > In our latest post, @irsdl explores the benefits of merging two Exchange exploits, “NSA Meeting Proposal for ProxyShell” https://www.mdsec.co.uk/2021/09/nsa-meeting-proposal-for-proxyshell/ [pic.x.com/eaR8MFIU2a]
+    
+    **Media:**
+    - media `3_1438077961475874817` (details not returned by the API)
+    
+    **Links in post:** https://www.mdsec.co.uk/2021/09/nsa-meeting-proposal-for-proxyshell/
+    
+
+
+---
+
+## 2021-09-15 · Post · `NSA Meeting Proposal for ProxyShell` with some interesting side research in .NET
+
+
+### Post — @irsdl — 2021-09-15 09:51 UTC (2021-09-15 10:51 WAT)
+
+- URL: https://x.com/irsdl/status/1438077900931182595
+- Metrics (at fetch): not returned
+
+> `NSA Meeting Proposal for ProxyShell` with some interesting side research in .NET
+>
+> https://www.mdsec.co.uk/2021/09/nsa-meeting-proposal-for-proxyshell/ 
+>
+> #Exchange #Exploit #NSA #ProxyShell
+
+**Links in post:** https://www.mdsec.co.uk/2021/09/nsa-meeting-proposal-for-proxyshell/
+
+
+---
+
+## 2021-08-27 · Post · `NSA Meeting with ProxyShell` exploit was fun 😎
+
+
+### Post — @irsdl — 2021-08-27 22:53 UTC (2021-08-27 23:53 WAT)
+
+- URL: https://x.com/irsdl/status/1431389340400295939
+- Metrics (at fetch): not returned
+
+> `NSA Meeting with ProxyShell` exploit was fun 😎
+>
+> As both were fixed after the April 2021 patch, it made sense to combine them. I still think there is a better way to trigger the Meeting without creating a new user but that's probably still via PowerShell
+> @orange_8361 @MDSecLabs [pic.x.com/Y4UkhsjL7v]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E91QGKnXoAYTqXK.png — no alt text provided by author
+
+
+---
+
+## 2021-08-23 · Post · My exploit is still much more stealthier than this! For sure they can exploit exchange without havin
+
+
+### Post — @irsdl — 2021-08-23 14:35 UTC (2021-08-23 15:35 WAT)
+
+- URL: https://x.com/irsdl/status/1429814625894375434
+- Metrics (at fetch): not returned
+
+> My exploit is still much more stealthier than this! For sure they can exploit exchange without having any physical web shell in any of the web folders https://t.co/ZRbeUbkdYi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1276291171736850439 — 2021-08-23 06:23 UTC (2021-08-23 07:23 WAT)
+    
+    - URL: https://x.com/1276291171736850439/status/1429690829166235648
+    - Metrics (at fetch): not returned
+    
+    > Alternate tactic being used in #ProxyShell: attacker modified IIS "MSExchangeOWAAppPool" app pool by adding additional virtual directory to "/owa" with path "/auth/类/hxxxy". Webshell located in C:\ProgramData\COM1\hxxxy. Check your configs when hunting! [pic.x.com/EjzQiMLjXa]
+    
+    **Media:**
+    - media `3_1429689438427353089` (details not returned by the API)
+    
+
+
+---
+
+## 2021-04-06 · Post · Here we go again Exchange Exploit NotProxyLogon [pic.x.com/Kwl3cIDvgo] https://twitter.com/thezdi
+
+
+### Post — @irsdl — 2021-04-06 14:54 UTC (2021-04-06 15:54 WAT)
+
+- URL: https://x.com/irsdl/status/1379447435777413123
+- Metrics (at fetch): not returned
+
+> Here we go again #Exchange #Exploit #NotProxyLogon [pic.x.com/Kwl3cIDvgo] https://twitter.com/thezdi/status/1379430974375686155
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EyTH9UcWQAQgcQU.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EyTIDlKWUAsiuY6.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/thezdi/status/1379430974375686155
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2021-04-06 13:49 UTC (2021-04-06 14:49 WAT)
+    
+    - URL: https://x.com/thezdi/status/1379430974375686155
+    - Metrics (at fetch): not returned
+    
+    > The schedule for #Pwn2Own 2021 is live! Check out all of the attempts set for the next 3 days. We'll be updated the schedule with results as we get them. https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results
+    
+    **Links in post:** https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results
+    
+
+
+---
+
+## 2021-03-17 · Post · Casually putting this here for ProxyLogon red &amp; blue teamers 🍿; When we have an auth SSRF runni
+
+
+Tags (automatic): SSRF
+
+
+### Post — @irsdl — 2021-03-17 00:10 UTC (2021-03-17 01:10 WAT)
+
+- URL: https://x.com/irsdl/status/1371977145191387138
+- Metrics (at fetch): not returned
+
+> Casually putting this here for #ProxyLogon red &amp; blue teamers 🍿; When we have an auth SSRF running as SYSTEM:
+> - don't need to put a web shell in unauth folders only
+> - don't need to send the web shell location in the URL
+> - some existing files can be rewritten and work just fine
+
+
+---
+
+## 2021-03-13 · Post · These permissions are not necessary when a certain header is provided as you can log in using anothe
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @irsdl — 2021-03-13 19:31 UTC (2021-03-13 20:31 WAT)
+
+- URL: https://x.com/irsdl/status/1370819873488650241
+- Metrics (at fetch): not returned
+
+> These permissions are not necessary when a certain header is provided as you can log in using another user rather than the computer name - this was missed in the publicly shared exploit
+>
+> I tried the headers sent to me by @buffaloverflow and I confirm that this is the case 😭 https://twitter.com/irsdl/status/1370377570961780741
+
+**Links in post:** https://twitter.com/irsdl/status/1370377570961780741
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2021-03-12 14:14 UTC (2021-03-12 15:14 WAT)
+    
+    - URL: https://x.com/irsdl/status/1370377570961780741
+    - Metrics (at fetch): not returned
+    
+    > Some more details when the exploit is failing because of AD permissions (perhaps not all functional issues are bad 😆):
+    >
+    > When `Organization Management` and `Server Management` miss the Exchange server computer name two things can happen... [pic.x.com/Lxk8CbGQM7] https://t.co/qg1xYwMhLx
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EwSFoNcW8AYjXbZ.png — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2021-03-11 01:41 UTC (2021-03-11 02:41 WAT)
+        
+        - URL: https://x.com/irsdl/status/1369825872979632130
+        - Metrics (at fetch): not returned
+        
+        > The SSRF issue could also be chained with a file read if such function exists as there is a validationkey in C:\Program Files\Microsoft\Exchange Server\V15\ClientAccess\ecp\Web.config (only randomized after the CVE-2020-0688 patch) #Exchange #Exploit https://twitter.com/irsdl/status/1369811265707778052
+        
+        **Links in post:** https://twitter.com/irsdl/status/1369811265707778052
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @irsdl — 2021-03-11 00:43 UTC (2021-03-11 01:43 WAT)
+            
+            - URL: https://x.com/irsdl/status/1369811265707778052
+            - Metrics (at fetch): not returned
+            
+            > As the cat is out of the hat anyways, here are my views on Microsoft Exchange #Proxylogon so far:
+            >
+            > The super SSRF (controlling almost the full http message including verb/path/most headers/body) is the most important piece IMHO. [pic.x.com/i1eVltvNBD]
+            
+            **Media:**
+            - photo: https://pbs.twimg.com/media/EwKLdBVXMAE7Woq.png — no alt text provided by author
+            
+        
+    
+
+
+---
+
+## 2021-03-12 · Post · Some more details when the exploit is failing because of AD permissions (perhaps not all functional 
+
+
+### Post — @irsdl — 2021-03-12 14:14 UTC (2021-03-12 15:14 WAT)
+
+- URL: https://x.com/irsdl/status/1370377570961780741
+- Metrics (at fetch): not returned
+
+> Some more details when the exploit is failing because of AD permissions (perhaps not all functional issues are bad 😆):
+>
+> When `Organization Management` and `Server Management` miss the Exchange server computer name two things can happen... [pic.x.com/Lxk8CbGQM7] https://t.co/qg1xYwMhLx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EwSFoNcW8AYjXbZ.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2021-03-11 01:41 UTC (2021-03-11 02:41 WAT)
+    
+    - URL: https://x.com/irsdl/status/1369825872979632130
+    - Metrics (at fetch): not returned
+    
+    > The SSRF issue could also be chained with a file read if such function exists as there is a validationkey in C:\Program Files\Microsoft\Exchange Server\V15\ClientAccess\ecp\Web.config (only randomized after the CVE-2020-0688 patch) #Exchange #Exploit https://twitter.com/irsdl/status/1369811265707778052
+    
+    **Links in post:** https://twitter.com/irsdl/status/1369811265707778052
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2021-03-11 00:43 UTC (2021-03-11 01:43 WAT)
+        
+        - URL: https://x.com/irsdl/status/1369811265707778052
+        - Metrics (at fetch): not returned
+        
+        > As the cat is out of the hat anyways, here are my views on Microsoft Exchange #Proxylogon so far:
+        >
+        > The super SSRF (controlling almost the full http message including verb/path/most headers/body) is the most important piece IMHO. [pic.x.com/i1eVltvNBD]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/EwKLdBVXMAE7Woq.png — no alt text provided by author
+        
+    
+
+
+---
+
+## 2021-03-12 · Post · There is no point to hide this as it is being exploited in masses even before the patch. Here is the
+
+
+### Post — @irsdl — 2021-03-12 08:53 UTC (2021-03-12 09:53 WAT)
+
+- URL: https://x.com/irsdl/status/1370296895579557889
+- Metrics (at fetch): not returned
+
+> There is no point to hide this as it is being exploited in masses even before the patch. Here is the exploit, it just missed a few headers I think in my local test. Interestingly my outdated exchange server is not vulnerable as the box misses some AD permissions apparently 😂 https://twitter.com/blackorbird/status/1370260965976023040
+
+**Links in post:** https://twitter.com/blackorbird/status/1370260965976023040
+
+**Quoted post (full text):**
+
+    #### Quoted post — @704115137116942336 — 2021-03-12 06:30 UTC (2021-03-12 07:30 WAT)
+    
+    - URL: https://x.com/704115137116942336/status/1370260965976023040
+    - Metrics (at fetch): not returned
+    
+    > When you copy the proxyLogon_poc.py code and save😅
+    > ref:
+    > https://www.vice.com/en/article/n7vpaz/researcher-publishes-code-to-exploit-microsoft-exchange-vulnerabilities-on-github
+    > https://web.archive.org/web/20210310164403/https://gist.github.com/testanull/fabd8eeb46f120c4b15f8793617ca7d1 [pic.x.com/gvN3BH49gU]
+    
+    **Media:**
+    - media `3_1370260445097914371` (details not returned by the API)
+    - media `3_1370260684085239808` (details not returned by the API)
+    
+    **Links in post:** https://www.vice.com/en/article/n7vpaz/researcher-publishes-code-to-exploit-microsoft-exchange-vulnerabilities-on-github, https://web.archive.org/web/20210310164403/https://gist.github.com/testanull/fabd8eeb46f120c4b15f8793617ca7d1
+    
+
+
+---
+
+## 2021-03-11 · Post · The SSRF issue could also be chained with a file read if such function exists as there is a validati
+
+
+Tags (automatic): SSRF
+
+
+### Post — @irsdl — 2021-03-11 01:41 UTC (2021-03-11 02:41 WAT)
+
+- URL: https://x.com/irsdl/status/1369825872979632130
+- Metrics (at fetch): not returned
+
+> The SSRF issue could also be chained with a file read if such function exists as there is a validationkey in C:\Program Files\Microsoft\Exchange Server\V15\ClientAccess\ecp\Web.config (only randomized after the CVE-2020-0688 patch) #Exchange #Exploit https://twitter.com/irsdl/status/1369811265707778052
+
+**Links in post:** https://twitter.com/irsdl/status/1369811265707778052
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2021-03-11 00:43 UTC (2021-03-11 01:43 WAT)
+    
+    - URL: https://x.com/irsdl/status/1369811265707778052
+    - Metrics (at fetch): not returned
+    
+    > As the cat is out of the hat anyways, here are my views on Microsoft Exchange #Proxylogon so far:
+    >
+    > The super SSRF (controlling almost the full http message including verb/path/most headers/body) is the most important piece IMHO. [pic.x.com/i1eVltvNBD]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EwKLdBVXMAE7Woq.png — no alt text provided by author
+    
+
+
+---
+
+## 2021-03-11 · Post · As the cat is out of the hat anyways, here are my views on Microsoft Exchange Proxylogon so far:
+
+
+Tags (automatic): SSRF
+
+
+### Post — @irsdl — 2021-03-11 00:43 UTC (2021-03-11 01:43 WAT)
+
+- URL: https://x.com/irsdl/status/1369811265707778052
+- Metrics (at fetch): not returned
+
+> As the cat is out of the hat anyways, here are my views on Microsoft Exchange #Proxylogon so far:
+>
+> The super SSRF (controlling almost the full http message including verb/path/most headers/body) is the most important piece IMHO. [pic.x.com/i1eVltvNBD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EwKLdBVXMAE7Woq.png — no alt text provided by author
+
+
+---
+
+## 2021-03-03 · Post · It seems Exchange server write up exploit is even ready to go ahead. Patch patch patch 
+
+
+### Post — @irsdl — 2021-03-03 06:27 UTC (2021-03-03 07:27 WAT)
+
+- URL: https://x.com/irsdl/status/1366998556775763969
+- Metrics (at fetch): not returned
+
+> It seems Exchange server write up exploit is even ready to go ahead. Patch patch patch 
+>
+> https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/
+>
+> #exchange #exploit https://twitter.com/orange_8361/status/1366755875143118849
+
+**Links in post:** https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/, https://twitter.com/orange_8361/status/1366755875143118849
+
+**Quoted post (full text):**
+
+    #### Quoted post — @orange_8361 — 2021-03-02 14:22 UTC (2021-03-02 15:22 WAT)
+    
+    - URL: https://x.com/orange_8361/status/1366755875143118849
+    - Metrics (at fetch): not returned
+    
+    > The patch release of this BIG ONE is coming soon, and a short advisory is also standing by! (BTW, no one guess the right target in comments😛) https://twitter.com/orange_8361/status/1346401788811825153
+    
+    **Links in post:** https://twitter.com/orange_8361/status/1346401788811825153
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @orange_8361 — 2021-01-05 10:22 UTC (2021-01-05 11:22 WAT)
+        
+        - URL: https://x.com/orange_8361/status/1346401788811825153
+        - Metrics (at fetch): not returned
+        
+        > Just report a pre-auth RCE chain to the vendor. This might be the most serious RCE I have ever reported! Hope there is no bug collision or duplicate😝
+        
+    
+
+
+---
+
 ## 2020-12-27 · Post · Bug hunters are not researchers
 
 
@@ -7287,6 +7793,134 @@ Tags (automatic): XSS
 
 ---
 
+## 2017-07-07 · Post · See you at 16:30 tomorrow if you want to bypass most of the WAFs out there! yes I am burning the byp
+
+
+### Post — @irsdl — 2017-07-07 21:52 UTC (2017-07-07 22:52 WAT)
+
+- URL: https://x.com/irsdl/status/883443701154025473
+- Metrics (at fetch): not returned
+
+> See you at 16:30 tomorrow if you want to bypass most of the WAFs out there! yes I am burning the bypasses ;) #steelcon17 @Steel_Con
+
+
+---
+
+## 2017-07-07 · Post · Completing my slides for SteelCon talk about HTTP Invisibility Cloak ;) gonna be interesting how we
+
+
+### Post — @irsdl — 2017-07-07 13:54 UTC (2017-07-07 14:54 WAT)
+
+- URL: https://x.com/irsdl/status/883323431860805633
+- Metrics (at fetch): not returned
+
+> Completing my slides for #SteelCon talk about HTTP Invisibility Cloak ;) gonna be interesting how we can bypass WAFs &amp; do more just w HTTP
+
+
+---
+
+## 2017-07-04 · Post · One SSRF and the whole cloud WAF idea may become useless as IP address is disclosed. But isn't it se
+
+
+Tags (automatic): SSRF
+
+
+### Post — @irsdl — 2017-07-04 15:02 UTC (2017-07-04 16:02 WAT)
+
+- URL: https://x.com/irsdl/status/882253228829757440
+- Metrics (at fetch): not returned
+
+> One SSRF and the whole cloud WAF idea may become useless as IP address is disclosed. But isn't it security via obscurity in the first place?
+
+
+---
+
+## 2017-07-02 · Post · It seems that this issue has been silently patched now in Google Chrome: https://bugs.chromium.org/p
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2017-07-02 20:09 UTC (2017-07-02 21:09 WAT)
+
+- URL: https://x.com/irsdl/status/881605661532008448
+- Metrics (at fetch): not returned
+
+> It seems that this issue has been silently patched now in Google Chrome: https://bugs.chromium.org/p/chromium/issues/detail?id=83142 #XSS #Auditor
+
+**Links in post:** https://bugs.chromium.org/p/chromium/issues/detail?id=83142
+
+
+---
+
+## 2017-06-30 · Post · Don't be just the XSS hunter! be the real bug bounty hunter! Learn more, exploit more, earn more - o
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2017-06-30 09:48 UTC (2017-06-30 10:48 WAT)
+
+- URL: https://x.com/irsdl/status/880724770282754049
+- Metrics (at fetch): not returned
+
+> Don't be just the XSS hunter! be the real bug bounty hunter! Learn more, exploit more, earn more - otherwise you are missing out #RecentExp
+
+
+---
+
+## 2017-05-18 · Post · This is despite having a bug bounty program! https://hackerone.com/zomato/  - so you need a bug boun
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @irsdl — 2017-05-18 09:19 UTC (2017-05-18 10:19 WAT)
+
+- URL: https://x.com/irsdl/status/865134861538996224
+- Metrics (at fetch): not returned
+
+> This is despite having a bug bounty program! https://hackerone.com/zomato/  - so you need a bug bounty program that works not just for being cool! https://x.com/Swati_THN/status/865129887711059969
+
+**Links in post:** https://hackerone.com/zomato/, https://x.com/Swati_THN/status/865129887711059969
+
+**Quoted post (full text):**
+
+    #### Quoted post — @864777798 — 2017-05-18 09:00 UTC (2017-05-18 10:00 WAT)
+    
+    - URL: https://x.com/864777798/status/865129887711059969
+    - Metrics (at fetch): not returned
+    
+    > #Zomato Hacked (India's largest food delivery site); Hacker Puts Up 17 Million Users' Emails and Passwords On Sale http://thehackernews.com/2017/05/zomato-data-breach.html [pic.x.com/NIsgK0UZCK]
+    
+    **Media:**
+    - media `3_865129884657438720` (details not returned by the API)
+    
+    **Links in post:** http://thehackernews.com/2017/05/zomato-data-breach.html
+    
+
+
+---
+
+## 2017-05-11 · Post · Interesting xss mitigation bypasses by @kkotowicz &amp; @slekies at appseceu [pic.x.com/Z1KF9qTZDv]
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2017-05-11 11:14 UTC (2017-05-11 12:14 WAT)
+
+- URL: https://x.com/irsdl/status/862626921779269632
+- Metrics (at fetch): not returned
+
+> Interesting xss mitigation bypasses by @kkotowicz &amp; @slekies at #appseceu [pic.x.com/Z1KF9qTZDv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C_iqmjoWAAEcFWt.jpg — no alt text provided by author
+
+
+---
+
 ## 2016-12-20 · Post · A PHP lesson: if (!is_numeric($newAmount) or ($curAmount - floatval($newAmount)) &lt; 0) {die();} -&
 
 
@@ -8132,6 +8766,256 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 6
 
 > I have finished writing my cross site content hijacking poc using Flash,PDF, and Silverlight for @NCCGroupInfosec! I'll try to share asap...
+
+
+---
+
+## 2014-11-22 · Post · @0x6D6172696F Need ur opinion please. XSS type when it comes from Cookie: Reflected or Stored? what 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-11-22 19:59 UTC (2014-11-22 20:59 WAT)
+
+- URL: https://x.com/irsdl/status/536247545727840256
+- Metrics (at fetch): not returned
+
+> @0x6D6172696F Need ur opinion please. XSS type when it comes from Cookie: Reflected or Stored? what about Session? or Browser's storages?
+
+
+---
+
+## 2014-10-04 · Post · Flowplayer Flash XSS has made many websites such as http://ripe.net vulnerable but hard to convin
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-10-04 16:45 UTC (2014-10-04 17:45 WAT)
+
+- URL: https://x.com/irsdl/status/518441856544571393
+- Metrics (at fetch): not returned
+
+> #Flowplayer #Flash #XSS has made many websites such as http://ripe.net vulnerable but hard to convince them! https://github.com/flowplayer/flash/issues/263
+
+**Links in post:** http://ripe.net, https://github.com/flowplayer/flash/issues/263
+
+
+---
+
+## 2014-09-30 · Post · An interesting XSS in flowplayer Flash application: https://github.com/flowplayer/flash/issues/263 @
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-09-30 22:31 UTC (2014-09-30 23:31 WAT)
+
+- URL: https://x.com/irsdl/status/517079392456298496
+- Metrics (at fetch): not returned
+
+> An interesting XSS in flowplayer Flash application: https://github.com/flowplayer/flash/issues/263 @flowplayer
+
+**Links in post:** https://github.com/flowplayer/flash/issues/263
+
+
+---
+
+## 2014-09-27 · Post · shellshock (BashBug) PoC by Using HTTP Header Pollution to Bypass Some Firewall Rules http://paste
+
+
+### Post — @irsdl — 2014-09-27 00:37 UTC (2014-09-27 01:37 WAT)
+
+- URL: https://x.com/irsdl/status/515661438455910401
+- Metrics (at fetch): not returned
+
+> #shellshock (#BashBug) PoC by Using HTTP Header Pollution to Bypass Some Firewall Rules http://pastebin.com/QNkf7dYS - #idea
+
+**Links in post:** http://pastebin.com/QNkf7dYS
+
+
+---
+
+## 2014-09-26 · Post · Killing 2 birds with 1 stone: 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-09-26 11:33 UTC (2014-09-26 12:33 WAT)
+
+- URL: https://x.com/irsdl/status/515464087850209280
+- Metrics (at fetch): not returned
+
+> Killing 2 birds with 1 stone: 
+> () {&lt;svg onload="alert(1)"&gt; {')' "(&lt;/svg&gt;" {&amp; }; echo -e "header\x3abashbug_irsdl" #XSS #BashBug #Shellshock
+
+
+---
+
+## 2014-09-19 · Post · Shake it shake it!!! http://mxtoolbox.com/SuperTool.aspx?action=txt%3ajamiehankins.co.uk&run=toolpag
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-09-19 08:47 UTC (2014-09-19 09:47 WAT)
+
+- URL: https://x.com/irsdl/status/512885677533716480
+- Metrics (at fetch): not returned
+
+> Shake it shake it!!! http://mxtoolbox.com/SuperTool.aspx?action=txt%3ajamiehankins.co.uk&run=toolpage #XSS in #DNS #Records
+
+**Links in post:** http://mxtoolbox.com/SuperTool.aspx?action=txt%3ajamiehankins.co.uk&run=toolpage
+
+
+---
+
+## 2014-09-17 · Post · This is another must read reference for anyone who wants to find XSS issues properly: https://github
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-09-17 12:53 UTC (2014-09-17 13:53 WAT)
+
+- URL: https://x.com/irsdl/status/512222769694920704
+- Metrics (at fetch): not returned
+
+> This is another must read reference for anyone who wants to find XSS issues properly: https://github.com/cure53/xss-challenge-wiki/wiki/prompt.ml - thanks to @0x6D6172696F
+
+**Links in post:** https://github.com/cure53/xss-challenge-wiki/wiki/prompt.ml
+
+
+---
+
+## 2014-09-07 · Post · Chrome XSS vector by using BASE tag &lt;base href="javascript:\"&gt; &lt;a href="//%0aalert(/@irsdl/
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-09-07 22:02 UTC (2014-09-07 23:02 WAT)
+
+- URL: https://x.com/irsdl/status/508737095721295872
+- Metrics (at fetch): not returned
+
+> Chrome XSS vector by using BASE tag &lt;base href="javascript:\"&gt; &lt;a href="//%0aalert(/@irsdl/);//"&gt;works in Chrome&lt;/a&gt; http://jsfiddle.net/yj8yt8Lo/
+
+**Links in post:** http://jsfiddle.net/yj8yt8Lo/
+
+
+---
+
+## 2014-07-23 · Post · File Upload and PHP on IIS: &gt;=? and &lt;=* and “=. https://soroush.secproject.com/blog/2014/07/fi
+
+
+### Post — @irsdl — 2014-07-23 14:29 UTC (2014-07-23 15:29 WAT)
+
+- URL: https://x.com/irsdl/status/491953228092014592
+- Metrics (at fetch): not returned
+
+> File Upload and PHP on IIS: &gt;=? and &lt;=* and “=. https://soroush.secproject.com/blog/2014/07/file-upload-and-php-on-iis-wildcards/ Another #Bypass Method!
+
+**Links in post:** https://soroush.secproject.com/blog/2014/07/file-upload-and-php-on-iis-wildcards/
+
+
+---
+
+## 2014-07-23 · Post · I am going to release a series of File Upload bypass techniques via my blog based on the next versio
+
+
+### Post — @irsdl — 2014-07-23 10:52 UTC (2014-07-23 11:52 WAT)
+
+- URL: https://x.com/irsdl/status/491898688554692608
+- Metrics (at fetch): not returned
+
+> I am going to release a series of File Upload bypass techniques via my blog based on the next version of https://soroush.secproject.com/blog/2012/11/file-in-the-hole/
+
+**Links in post:** https://soroush.secproject.com/blog/2012/11/file-in-the-hole/
+
+
+---
+
+## 2014-07-21 · Post · Has anybody tried to add/register an XSS vector as an address in Google Map? I like to use it if you
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-07-21 16:18 UTC (2014-07-21 17:18 WAT)
+
+- URL: https://x.com/irsdl/status/491255965363482624
+- Metrics (at fetch): not returned
+
+> Has anybody tried to add/register an XSS vector as an address in Google Map? I like to use it if you have done it!
+
+
+---
+
+## 2014-07-11 · Post · &lt;&gt;= and space were blocked so I used 'or'1'like'1 to exploit this simple sqli!
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @irsdl — 2014-07-11 22:59 UTC (2014-07-11 23:59 WAT)
+
+- URL: https://x.com/irsdl/status/487732924096458752
+- Metrics (at fetch): not returned
+
+> &lt;&gt;= and space were blocked so I used 'or'1'like'1 to exploit this simple sqli!
+
+
+---
+
+## 2014-06-20 · Post · I didn't know Flash has bug bounty from @Hacker0x01 until yesterday! how odd for me :D still can't 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @irsdl — 2014-06-20 06:51 UTC (2014-06-20 07:51 WAT)
+
+- URL: https://x.com/irsdl/status/479879188082855936
+- Metrics (at fetch): not returned
+
+> I didn't know #Flash has bug bounty from @Hacker0x01 until yesterday! how odd for me :D still can't do bug bounty though :'(
+
+
+---
+
+## 2014-06-01 · Post · PCI question: if a website shows my credit card number in response of a few pages, is this against 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-06-01 22:01 UTC (2014-06-01 23:01 WAT)
+
+- URL: https://x.com/irsdl/status/473222724383678464
+- Metrics (at fetch): not returned
+
+> #PCI question: if a website shows my credit card number in response of a few pages, is this against PCI? (CC can be stolen via  XSS)
+
+
+---
+
+## 2014-05-22 · Post · I think I had missed this: SVG Fun Time - Firefox SVG Vector + Bypassing Chrome XSS Auditor http://i
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2014-05-22 12:55 UTC (2014-05-22 13:55 WAT)
+
+- URL: https://x.com/irsdl/status/469461617760301056
+- Metrics (at fetch): not returned
+
+> I think I had missed this: SVG Fun Time - Firefox SVG Vector + Bypassing Chrome XSS Auditor http://insert-script.blogspot.co.at/2014/02/svg-fun-time-firefox-svg-vector.html  -- Good one!
+
+**Links in post:** http://insert-script.blogspot.co.at/2014/02/svg-fun-time-firefox-svg-vector.html
 
 
 ---
@@ -9157,6 +10041,255 @@ Tags (automatic): CSP / CSPT
 - Metrics (at fetch): not returned
 
 > As #NoScript update its pattern constantly, it will be tough to bypass it gradually! :D try to solve the #Challenge #XSSes now! :)  @ma1
+
+
+---
+
+## 2012-05-02 · Post · HallofFame has been updated: http://t.co/EGzZgtLL Well Done everyone! Challenge XSS SQLi BankAp
+
+
+Tags (automatic): XSS, SQL injection
+
+
+### Post — @irsdl — 2012-05-02 22:59 UTC (2012-05-02 23:59 WAT)
+
+- URL: https://x.com/irsdl/status/197822553430044674
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> #HallofFame has been updated: http://t.co/EGzZgtLL Well Done everyone! #Challenge #XSS #SQLi #BankApp
+
+
+---
+
+## 2012-05-02 · Post · Scored will be announced through HallOfFame soon. (http://t.co/EGzZgtLL). Points for XSS3 will be 
+
+
+### Post — @irsdl — 2012-05-02 20:49 UTC (2012-05-02 21:49 WAT)
+
+- URL: https://x.com/irsdl/status/197790000417484800
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Scored will be announced through #HallOfFame soon. (http://t.co/EGzZgtLL). Points for #XSS3 will be doubled! it has bounty now!
+
+
+---
+
+## 2012-05-01 · Post · Honored to announce SecProject Web Application Security Challenge 1 is live: http://t.co/YGckyHk3 B
+
+
+Tags (automatic): XSS, SQL injection
+
+
+### Post — @irsdl — 2012-05-01 21:37 UTC (2012-05-01 22:37 WAT)
+
+- URL: https://x.com/irsdl/status/197439704747085824
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 9
+
+> Honored to announce SecProject Web Application Security Challenge 1 is live: http://t.co/YGckyHk3 #Break it and enjoy! #XSS #SQLi #Mystery!
+
+
+---
+
+## 2012-04-29 · Post · I will release a Web App. Security challenge soon. XSS, SQLi, &amp; a mystery!  They are under revie
+
+
+Tags (automatic): XSS, SQL injection
+
+
+### Post — @irsdl — 2012-04-29 22:49 UTC (2012-04-29 23:49 WAT)
+
+- URL: https://x.com/irsdl/status/196732982197886976
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> I will release a Web App. Security challenge soon. XSS, SQLi, &amp; a mystery!  They are under review currently ;) hope u attend &amp; enjoy &amp; win!
+
+
+---
+
+## 2012-04-28 · Post · Someone tell Yahoo! that XSS is a high risk attack specially for mailing services! Sorry for myself
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2012-04-28 13:19 UTC (2012-04-28 14:19 WAT)
+
+- URL: https://x.com/irsdl/status/196227157658304512
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 2
+
+> Someone tell #Yahoo! that XSS is a high risk attack specially for mailing services! Sorry for myself n anyone who use their services now!
+
+
+---
+
+## 2012-04-28 · Post · Yahoo does not care about a persistence XSS! So many people's session have been hijacked but they 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2012-04-28 13:18 UTC (2012-04-28 14:18 WAT)
+
+- URL: https://x.com/irsdl/status/196226765461536768
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 1
+
+> #Yahoo does not care about a persistence #XSS! So many people's session have been hijacked but they dont care! they've the report!!! #NoFix
+
+
+---
+
+## 2012-04-23 · Post · http://t.co/btGuCEJw is vulnerable to a persistence XSS. There is an exploit in wild. be careful -&g
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2012-04-23 21:35 UTC (2012-04-23 22:35 WAT)
+
+- URL: https://x.com/irsdl/status/194540053568028673
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> http://t.co/btGuCEJw is vulnerable to a persistence XSS. There is an exploit in wild. be careful -&gt; attacker JS link= http://t.co/Upelj6AG
+
+
+---
+
+## 2012-04-10 · Post · Details of my reported fb bug if u r interested: http://t.co/294e4leA bugbounty facebook noninja
+
+
+### Post — @irsdl — 2012-04-10 11:08 UTC (2012-04-10 12:08 WAT)
+
+- URL: https://x.com/irsdl/status/189671190242131968
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Details of my reported fb bug if u r interested: http://t.co/294e4leA #bugbounty #facebook #noninja
+
+
+---
+
+## 2012-04-09 · Post · Sometimes no Ninja skill is required to receive money from security bug bounty programs! http://t.co
+
+
+### Post — @irsdl — 2012-04-09 23:39 UTC (2012-04-10 00:39 WAT)
+
+- URL: https://x.com/irsdl/status/189497714520764416
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Sometimes no Ninja skill is required to receive money from security bug bounty programs! http://t.co/294e4leA
+
+
+---
+
+## 2012-04-01 · Post · got more than 5k$ for security bugs in last month! Thanks to Facebook and Mozilla bug-bounty-prog
+
+
+### Post — @irsdl — 2012-04-01 21:05 UTC (2012-04-01 22:05 WAT)
+
+- URL: https://x.com/irsdl/status/186559846533959681
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> got more than 5k$ for security bugs in last month! Thanks to #Facebook and #Mozilla #bug-bounty-program !
+
+
+---
+
+## 2012-03-11 · Post · DotNetNuke file upload vuln: http://t.co/Reqwo2cH --&gt; Could be prevented by reading http://t.co/E
+
+
+### Post — @irsdl — 2012-03-11 00:39 UTC (2012-03-11 01:39 WAT)
+
+- URL: https://x.com/irsdl/status/178641342187053058
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> DotNetNuke file upload vuln: http://t.co/Reqwo2cH --&gt; Could be prevented by reading http://t.co/EhmXvuM6 and paying attention to section 4!
+
+
+---
+
+## 2011-12-31 · Post · Drag and Drop XSS in Firefox by HTML5 (Cross Domain in frames) http://soroush.secproject.com/blog/20
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2011-12-31 03:25 UTC (2011-12-31 04:25 WAT)
+
+- URL: https://x.com/irsdl/status/152953567672668160
+- Metrics (at fetch): not returned
+
+> Drag and Drop XSS in Firefox by HTML5 (Cross Domain in frames) http://soroush.secproject.com/blog/2011/12/drag-and-drop-xss-in-firefox-by-html5-cross-domain-in-frames/
+
+**Links in post:** http://soroush.secproject.com/blog/2011/12/drag-and-drop-xss-in-firefox-by-html5-cross-domain-in-frames/
+
+
+---
+
+## 2011-12-05 · Post · I still cannot understand why yahoo cookies should be shared between all the subdomains when u can 
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2011-12-05 22:29 UTC (2011-12-05 23:29 WAT)
+
+- URL: https://x.com/irsdl/status/143819226845683712
+- Metrics (at fetch): not returned
+
+> I still cannot understand why #yahoo cookies should be shared between all the subdomains when u can find dozens of #XSS in a day!
+
+
+---
+
+## 2011-11-25 · Post · @ma1 Could u pls check this Firefox Cross Domain Self XSS bug: https://bugzilla.mozilla.org/show_bu
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2011-11-25 20:18 UTC (2011-11-25 21:18 WAT)
+
+- URL: https://x.com/irsdl/status/140162483112525824
+- Metrics (at fetch): not returned
+
+> @ma1 Could u pls check this #Firefox Cross Domain Self XSS bug: https://bugzilla.mozilla.org/show_bug.cgi?id=704354 I think NoScript can be bypassed. (u r CCed)
+
+**Links in post:** https://bugzilla.mozilla.org/show_bug.cgi?id=704354
+
+
+---
+
+## 2011-11-22 · Post · Still waiting for firefox to get a response for "Cross Domain Self XSS" vulnerability!!! https://bu
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2011-11-22 23:18 UTC (2011-11-23 00:18 WAT)
+
+- URL: https://x.com/irsdl/status/139120634839048193
+- Metrics (at fetch): not returned
+
+> Still waiting for #firefox to get a response for "Cross Domain Self XSS" vulnerability!!! https://bugzilla.mozilla.org/show_bug.cgi?id=704354
+
+**Links in post:** https://bugzilla.mozilla.org/show_bug.cgi?id=704354
+
+
+---
+
+## 2011-10-12 · Post · To some of my friends: I did not find any CE in IE for http://technet.microsoft.com/en-us/security/b
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2011-10-12 20:51 UTC (2011-10-12 21:51 WAT)
+
+- URL: https://x.com/irsdl/status/124225753154994176
+- Metrics (at fetch): not returned
+
+> To some of my friends: I did not find any CE in IE for http://technet.microsoft.com/en-us/security/bulletin/ms11-oct !! my name is there for finding IE9 XSS protection issue(bypass)
+
+**Links in post:** http://technet.microsoft.com/en-us/security/bulletin/ms11-oct
 
 
 ---

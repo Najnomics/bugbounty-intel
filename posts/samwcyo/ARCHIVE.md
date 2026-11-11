@@ -2031,10 +2031,12 @@ Tags (automatic): Platform: HackerOne
     
     > There was a bit of a miscommunication last Sunday and @samwcyo wasn't able to make it to the interview. So we moved things around and he's joining me tomorrow to talk about recon, bug bounty, hacking Tesla, and how to get started! 
     >
-    > https://t.co/rWTBZPozP2 https://t.co/lLxELBDJPf
+    > http://twitch.tv/nahamsec [pic.x.com/lLxELBDJPf]
     
     **Media:**
-    - media `3_1228748363937353729` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/EQ1kIHbUEAEn_cX.jpg — no alt text provided by author
+    
+    **Links in post:** http://twitch.tv/nahamsec
     
 
 
