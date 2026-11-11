@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 376
-- Conversations/threads: 348
+- Posts in this file: 385
+- Conversations/threads: 357
 - Oldest post captured: 2019-05-27
 - Newest post captured: 2026-11-09
 
@@ -8156,6 +8156,207 @@ Tags (automatic): RCE
 > https://t.co/hWOOPVxp9d
 >
 > #bhusa #defcon #nullcon
+
+
+---
+
+## 2022-05-18 · Post · Lol, so many attempts for Microsoft Teams, also we kinda tried to pwn but failed creating PoC on tim
+
+
+### Post — @S1r1u5_ — 2022-05-18 09:33 UTC (2022-05-18 10:33 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1526858495148331009
+- Metrics (at fetch): bookmark 1, impression 0, like 20, quote 0, reply 2, retweet 0
+
+> Lol, so many attempts for Microsoft Teams, also we kinda tried to pwn but failed creating PoC on time. https://t.co/UJ41Cw73wv
+
+**Quoted post (full text):**
+
+    #### Quoted post — @351702234 — 2022-05-18 07:27 UTC (2022-05-18 08:27 WAT)
+    
+    - URL: https://x.com/351702234/status/1526826742698201089
+    - Metrics (at fetch): bookmark 7, impression 0, like 48, quote 1, reply 1, retweet 5
+    
+    > Four attempt against Microsoft Teams but none for Zoom, iiiiiinteresting. Also a single person targeting web browsers and no attempts against Chrome/Edge. https://t.co/6XOc3v8BaW
+    
+    **Quoted post** 1526711572545949697: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-05-03 · Post · Wow nice bug, I thought they fixed STTF scroll in iframe🤔with my report.  https://t.co/XleSmV1CjU ht
+
+
+### Post — @S1r1u5_ — 2022-05-03 08:18 UTC (2022-05-03 09:18 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1521403839068647430
+- Metrics (at fetch): bookmark 3, impression 0, like 27, quote 1, reply 0, retweet 0
+
+> Wow nice bug, I thought they fixed STTF scroll in iframe🤔with my report.  https://t.co/XleSmV1CjU https://t.co/NQOZGBTQp6
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1263078831042318336 — 2022-05-02 18:12 UTC (2022-05-02 19:12 WAT)
+    
+    - URL: https://x.com/1263078831042318336/status/1521190808099205121
+    - Metrics (at fetch): bookmark 1, impression 0, like 16, quote 1, reply 0, retweet 4
+    
+    > Security: Scrolls are detectable cross-site upon using the Scroll to text fragment feature.  (reward: $2000)  https://t.co/j6jNE4TQor
+    
+
+
+---
+
+## 2022-03-08 · Post · This is the writeup for the CTF like scenario I was talking about https://t.co/BJo8LxMXhx. https://t
+
+
+### Post — @S1r1u5_ — 2022-03-08 06:27 UTC (2022-03-08 07:27 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1501082056071467008
+- Metrics (at fetch): bookmark 12, impression 0, like 57, quote 0, reply 0, retweet 6
+
+> This is the writeup for the CTF like scenario I was talking about https://t.co/BJo8LxMXhx. https://t.co/1S07KBxB6p
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463748098857988096 — 2022-03-08 06:19 UTC (2022-03-08 07:19 WAT)
+    
+    - URL: https://x.com/1463748098857988096/status/1501080104838914051
+    - Metrics (at fetch): bookmark 91, impression 0, like 362, quote 5, reply 3, retweet 125
+    
+    > New Writeup - Circumventing Browser Security Mechanisms For SSRF. In this blog post we find our way around browser's mixed content policy to perform a SSRF against headless Chrome. Ft. @S1r1u5_ @iamnoooob @rootxharsh 
+    >
+    > https://t.co/Ma7OSFL24C https://t.co/90Zuis1KZI
+    
+    **Media:**
+    - media `3_1501078970652971009` (details not returned by the API)
+    
+
+
+---
+
+## 2021-12-28 · Post · 1. Less Bounties 🥲✅
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @S1r1u5_ — 2021-12-28 05:19 UTC (2021-12-28 06:19 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1475697943709585409
+- Metrics (at fetch): bookmark 4, impression 0, like 100, quote 1, reply 4, retweet 3
+
+> 1. Less Bounties 🥲✅
+> 2. Lot of CTFs✅
+> 3. Vulnerability research ✅(excited to publish it next year)
+> 4. Presented at an onsite conference🔥
+> 5. Technically got a job this year at Bugcrowd, but waiting for the laptop to clear customs and arrive from last three months to onboard😦 https://t.co/yASRfrmqOp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2020-12-31 21:50 UTC (2020-12-31 22:50 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1344762868609159168
+    - Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 0, retweet 0
+    
+    > Aspirations for 2021, earn less from bug bounties so that I can concentrate more on CTFs and vulnerability research.
+    
+
+
+---
+
+## 2021-12-20 · Post · Here is 1day exploit POC I wrote for chrome 96.0.4664.0, as of now it is not stable. You might have 
+
+
+### Post — @S1r1u5_ — 2021-12-20 08:43 UTC (2021-12-20 09:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1472850014326067201
+- Metrics (at fetch): bookmark 40, impression 0, like 237, quote 2, reply 1, retweet 77
+
+> Here is 1day exploit POC I wrote for chrome 96.0.4664.0, as of now it is not stable. You might have to edit according to your system offsets. 
+>
+> CVE-2021-4061: Type Confusion in V8
+> https://t.co/IPrOcIsPhV https://t.co/5o5WCavwzs
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2021-12-16 10:42 UTC (2021-12-16 11:42 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1471430480826290181
+    - Metrics (at fetch): bookmark 8, impression 0, like 87, quote 2, reply 2, retweet 12
+    
+    > Chrome 96.0.4664.0 1day exploit 😁.
+    >
+    > Question: Does Mac has some kind of sandbox for chrome? even with --no-sandbox exploit is not popping calc. https://t.co/cUn9IazG7q
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2021-12-16 · Post · Chrome 96.0.4664.0 1day exploit 😁.
+
+
+### Post — @S1r1u5_ — 2021-12-16 10:42 UTC (2021-12-16 11:42 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1471430480826290181
+- Metrics (at fetch): bookmark 8, impression 0, like 87, quote 2, reply 2, retweet 12
+
+> Chrome 96.0.4664.0 1day exploit 😁.
+>
+> Question: Does Mac has some kind of sandbox for chrome? even with --no-sandbox exploit is not popping calc. https://t.co/cUn9IazG7q
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2021-11-15 · Post · "1 Day XSLeak and a trailer for ElectronJS bugs"
+
+
+### Post — @S1r1u5_ — 2021-11-15 13:35 UTC (2021-11-15 14:35 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1460240145496432643
+- Metrics (at fetch): bookmark 30, impression 0, like 129, quote 1, reply 1, retweet 37
+
+> "1 Day XSLeak and a trailer for ElectronJS bugs"
+> -Author's writeup for BSides Ahmedabad CTF 2021
+>
+> https://t.co/iPMPdvomYF
+
+
+---
+
+## 2021-11-08 · Post · Writeup for bettercatalog published by layton.
+
+
+### Post — @S1r1u5_ — 2021-11-08 17:39 UTC (2021-11-08 18:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1457764712486092800
+- Metrics (at fetch): bookmark 2, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> Writeup for bettercatalog published by layton.
+>
+> I will publish the author's write-up when someone solves the Neutron. https://t.co/3WhNeOy8Og
+
+**Quoted post** 1457749211534004228: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2020-12-31 · Post · Aspirations for 2021, earn less from bug bounties so that I can concentrate more on CTFs and vulnera
+
+
+### Post — @S1r1u5_ — 2020-12-31 21:50 UTC (2020-12-31 22:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1344762868609159168
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 0, retweet 0
+
+> Aspirations for 2021, earn less from bug bounties so that I can concentrate more on CTFs and vulnerability research.
 
 
 ---

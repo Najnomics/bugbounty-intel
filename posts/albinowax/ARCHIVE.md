@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 296
-- Conversations/threads: 290
+- Posts in this file: 311
+- Conversations/threads: 305
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
 
@@ -2412,6 +2412,314 @@ Tags (automatic): Auth bypass
 
 ---
 
+## 2023-02-15 · Post · HAProxy CVE-2023-25725 sounds like it might be a Connection header exploit... just like 7 from the 
+
+
+### Post — @albinowax — 2023-02-15 08:55 UTC (2023-02-15 09:55 WAT)
+
+- URL: https://x.com/albinowax/status/1625780891971727360
+- Metrics (at fetch): bookmark 64, impression 42746, like 175, quote 2, reply 5, retweet 45
+
+> HAProxy CVE-2023-25725 sounds like it might be a Connection header exploit... just like #7 from the top 10 hacking techniques of 2022: 
+> https://t.co/iVew83Zu9h
+> https://t.co/QNqQ3OT6Ez
+
+
+---
+
+## 2023-02-14 · Post · This writeup is a refreshing portrait of the patience required for a successful hack. https://t.co/C
+
+
+### Post — @albinowax — 2023-02-14 10:13 UTC (2023-02-14 11:13 WAT)
+
+- URL: https://x.com/albinowax/status/1625438097956564993
+- Metrics (at fetch): bookmark 15, impression 23488, like 173, quote 0, reply 2, retweet 9
+
+> This writeup is a refreshing portrait of the patience required for a successful hack. https://t.co/CyiHtvMIsq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @865881532615069696 — 2023-02-11 20:06 UTC (2023-02-11 21:06 WAT)
+    
+    - URL: https://x.com/865881532615069696/status/1624500073672458242
+    - Metrics (at fetch): bookmark 445, impression 141511, like 1054, quote 22, reply 77, retweet 364
+    
+    > Hello everyone, as promised, this is a detailed write-up on how I was able to get an account takeover  in HubSpot Public Bug Bounty Program
+    >
+    > https://t.co/Lz01Iqu9bA
+    >
+    > #BugBounty #bugbountytips #Pentesting #cybersecurite #infosec ATO
+    
+
+
+---
+
+## 2023-02-10 · Post · Looks like Truffle Security has been digging through hackers' XSS Hunter data. Trusting a free servi
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2023-02-10 10:19 UTC (2023-02-10 11:19 WAT)
+
+- URL: https://x.com/albinowax/status/1623990046100430848
+- Metrics (at fetch): bookmark 33, impression 49817, like 198, quote 4, reply 6, retweet 46
+
+> Looks like Truffle Security has been digging through hackers' XSS Hunter data. Trusting a free service with your data works most of the time, but not every time.
+> https://t.co/YOGNR5ahHu
+
+
+---
+
+## 2023-01-12 · Post · One unplanned benefit of the @WebSecAcademy is that we have automated tests which notify us when a b
+
+
+Tags (automatic): XSS
+
+
+### Post — @albinowax — 2023-01-12 13:40 UTC (2023-01-12 14:40 WAT)
+
+- URL: https://x.com/albinowax/status/1613531302908596226
+- Metrics (at fetch): bookmark 6, impression 6729, like 66, quote 0, reply 0, retweet 2
+
+> One unplanned benefit of the @WebSecAcademy is that we have automated tests which notify us when a browser update breaks one of our lab solutions, so we can find a workaround and update the technique, blog post, and XSS cheat sheet. https://t.co/R2b9g8wEOT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1177545689460592640 — 2023-01-12 11:00 UTC (2023-01-12 12:00 WAT)
+    
+    - URL: https://x.com/1177545689460592640/status/1613490987476701184
+    - Metrics (at fetch): bookmark 8, impression 17357, like 64, quote 2, reply 0, retweet 20
+    
+    > Chrome has removed the path property from events in version 109. We've updated our article about bypassing CSP with AngularJS to reflect this. The workaround is to use the composedPath() function.
+    >  https://t.co/vPcoz9c4Go
+    
+
+
+---
+
+## 2022-11-11 · Post · HTTP Request Smuggler now has a probe for desync flaws caused by broken header removal operations, l
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2022-11-11 12:22 UTC (2022-11-11 13:22 WAT)
+
+- URL: https://x.com/albinowax/status/1591043637307379712
+- Metrics (at fetch): bookmark 35, impression 0, like 191, quote 2, reply 2, retweet 46
+
+> HTTP Request Smuggler now has a probe for desync flaws caused by broken header removal operations, like this Akamai exploit.
+>
+> PS you can find the lengthy rambling editions of most of my tweets at @albinowax@infosec.exchange 
+>
+> https://t.co/Sbcj4PGuI4
+>
+> https://t.co/kKvN54H74k
+
+
+---
+
+## 2022-11-07 · Post · Practical client-side path traversal attacks - neat little exploit chain by @medi_0ne 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @albinowax — 2022-11-07 14:44 UTC (2022-11-07 15:44 WAT)
+
+- URL: https://x.com/albinowax/status/1589629746073448448
+- Metrics (at fetch): not returned
+
+> Practical client-side path traversal attacks - neat little exploit chain by @medi_0ne 
+> https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html
+
+**Links in post:** https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html
+
+
+---
+
+## 2022-09-16 · Post · Last week I published a number of novel CL.0 desync techniques, alongside advice on tuning your rese
+
+
+Tags (automatic): XSS, Request smuggling / desync
+
+
+### Post — @albinowax — 2022-09-16 13:21 UTC (2022-09-16 14:21 WAT)
+
+- URL: https://x.com/albinowax/status/1570764787730239492
+- Metrics (at fetch): not returned
+
+> Last week I published a number of novel CL.0 desync techniques, alongside advice on tuning your research to outwit the competition. 
+>
+> Next week, a way to turn a 'medium' severity flaw into a crit with a $12k case study. And no it's not XSS :)
+>
+> https://portswigger.net/research/how-to-turn-security-research-into-profit [pic.x.com/OMSuf6lTrL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fcx6JlLXkAAFT5D.jpg — no alt text provided by author
+
+**Links in post:** https://portswigger.net/research/how-to-turn-security-research-into-profit
+
+
+---
+
+## 2022-09-06 · Post · This update to HTTP Request Smuggler also adds a new attack type: "Launch all scans". Hope it's usef
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2022-09-06 14:29 UTC (2022-09-06 15:29 WAT)
+
+- URL: https://x.com/albinowax/status/1567158171633963009
+- Metrics (at fetch): not returned
+
+> This update to HTTP Request Smuggler also adds a new attack type: "Launch all scans". Hope it's useful (also, hope you have a big monitor...)
+> https://portswigger.net/research/how-to-turn-security-research-into-profit [pic.x.com/KbLOayw3h0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fb-pqeYWQAE8Tbw.png — no alt text provided by author
+
+**Links in post:** https://portswigger.net/research/how-to-turn-security-research-into-profit
+
+
+---
+
+## 2022-07-20 · Post · Interested in the Apache request smuggling vulnerability CVE-2022-22720? I'll be sharing full techni
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2022-07-20 12:13 UTC (2022-07-20 13:13 WAT)
+
+- URL: https://x.com/albinowax/status/1549729081540886531
+- Metrics (at fetch): not returned
+
+> Interested in the Apache request smuggling vulnerability CVE-2022-22720? I'll be sharing full technical details, PoC and demo at #BHUSA &amp; @defcon 
+> https://portswigger.net/research/talks?talkId=21
+> https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2022-22720
+
+**Links in post:** https://portswigger.net/research/talks?talkId=21, https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2022-22720
+
+
+---
+
+## 2022-05-09 · Post · "Abusing HTTP hop-by-hop request headers" by @nj_dav was nominated as a top web hacking technique ba
+
+
+Tags (automatic): RCE
+
+
+### Post — @albinowax — 2022-05-09 14:11 UTC (2022-05-09 15:11 WAT)
+
+- URL: https://x.com/albinowax/status/1523667032646242306
+- Metrics (at fetch): not returned
+
+> "Abusing HTTP hop-by-hop request headers" by @nj_dav was nominated as a top web hacking technique back in 2019, and has just blossomed into an F5 BIG-IP unauth RCE! 
+> https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers
+> https://portswigger.net/research/top-10-web-hacking-techniques-of-2019-nominations-open
+> https://github.com/horizon3ai/CVE-2022-1388/blob/main/CVE-2022-1388.py
+
+**Links in post:** https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers, https://portswigger.net/research/top-10-web-hacking-techniques-of-2019-nominations-open, https://github.com/horizon3ai/CVE-2022-1388/blob/main/CVE-2022-1388.py
+
+
+---
+
+## 2022-05-06 · Post · In the last year my understanding of how webservers handle HTTP has been proven wrong so many times,
+
+
+### Post — @albinowax — 2022-05-06 10:02 UTC (2022-05-06 11:02 WAT)
+
+- URL: https://x.com/albinowax/status/1522517072516980737
+- Metrics (at fetch): not returned
+
+> In the last year my understanding of how webservers handle HTTP has been proven wrong so many times, I'm about to try an attack that I believe is completely impossible, just in case I'm wrong 😂
+
+
+---
+
+## 2022-04-01 · Post · Excited to soon be sharing some researcher tradecraft! This is my first ever keynote so it's quite d
+
+
+### Post — @albinowax — 2022-04-01 16:52 UTC (2022-04-01 17:52 WAT)
+
+- URL: https://x.com/albinowax/status/1509936792098820102
+- Metrics (at fetch): not returned
+
+> Excited to soon be sharing some researcher tradecraft! This is my first ever keynote so it's quite different from my usual talks, although I couldn't resist hiding one novel exploit in there... https://twitter.com/PortSwigger/status/1509893357690105863
+
+**Links in post:** https://twitter.com/PortSwigger/status/1509893357690105863
+
+**Quoted post (full text):**
+
+    #### Quoted post — @PortSwigger — 2022-04-01 14:00 UTC (2022-04-01 15:00 WAT)
+    
+    - URL: https://x.com/PortSwigger/status/1509893357690105863
+    - Metrics (at fetch): not returned
+    
+    > "Hunting evasive vulnerabilities: finding flaws that others miss" - from @albinowax - will be premiering at @nullcon Berlin in just a few days. If you can't catch the live event, it'll be available on YouTube post-conference. https://portswigger.net/research/talks?talkid=20
+    
+    **Links in post:** https://portswigger.net/research/talks?talkid=20
+    
+
+
+---
+
+## 2022-03-28 · Post · You can bypass PHP's filter_var but it requires a very large parameter. This find from @pwningsystem
+
+
+### Post — @albinowax — 2022-03-28 11:02 UTC (2022-03-28 12:02 WAT)
+
+- URL: https://x.com/albinowax/status/1508399022784004103
+- Metrics (at fetch): not returned
+
+> You can bypass PHP's filter_var but it requires a very large parameter. This find from @pwningsystems looks like a research opportunity:
+> - Figure out how to do this on a popular server/config (TE: chunked?)
+> - Earn some bug bounties using it
+> - Publish :)
+> https://pwning.systems/posts/php_filter_var_shenanigans/
+
+**Links in post:** https://pwning.systems/posts/php_filter_var_shenanigans/
+
+
+---
+
+## 2022-03-07 · Post · If I read something good, I often browse the entire blog archive. Today this approach yielded a snea
+
+
+### Post — @albinowax — 2022-03-07 16:40 UTC (2022-03-07 17:40 WAT)
+
+- URL: https://x.com/albinowax/status/1500873912581693441
+- Metrics (at fetch): not returned
+
+> If I read something good, I often browse the entire blog archive. Today this approach yielded a sneaky trick for bypassing timing attack mitigations: https://adam-p.ca/blog/2021/11/constant-time-network/
+
+**Links in post:** https://adam-p.ca/blog/2021/11/constant-time-network/
+
+
+---
+
+## 2022-02-01 · Post · The recordings from BHEU have just landed on youtube! If you're going to watch just one, I'd recomm
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2022-02-01 15:18 UTC (2022-02-01 16:18 WAT)
+
+- URL: https://x.com/albinowax/status/1488532106447888394
+- Metrics (at fetch): not returned
+
+> The recordings from #BHEU have just landed on youtube! If you're going to watch just one, I'd recommend "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond" by @_danielthatcher/@intruder_io 
+> https://www.youtube.com/watch?v=RAtpG6OYYNM&list=PLH15HpR5qRsW62N-GLRb1q56Zr7sm10rF&index=32
+
+**Links in post:** https://www.youtube.com/watch?v=RAtpG6OYYNM&list=PLH15HpR5qRsW62N-GLRb1q56Zr7sm10rF&index=32
+
+
+---
+
 ## 2021-11-10 · Post · Just watched "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyon
 
 
@@ -2424,7 +2732,9 @@ Tags (automatic): Request smuggling / desync
 - Metrics (at fetch): bookmark 175, impression 0, like 590, quote 4, reply 6, retweet 220
 
 > Just watched "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond" - must-read research by @intruder_io's Daniel Thatcher 
-> https://t.co/KJTnPwGOAe
+> https://www.intruder.io/research/practical-http-header-smuggling
+
+**Links in post:** https://www.intruder.io/research/practical-http-header-smuggling
 
 
 ---
@@ -2438,7 +2748,9 @@ Tags (automatic): Request smuggling / desync
 - Metrics (at fetch): bookmark 3, impression 0, like 38, quote 0, reply 7, retweet 1
 
 > Just found a bug in the beta version of this - the 'stop attack' button doesn't work 😂
-> https://t.co/difkKQeUEH
+> https://x.com/albinowax/status/1453340621075255304
+
+**Links in post:** https://x.com/albinowax/status/1453340621075255304
 
 **Quoted post (full text):**
 
@@ -2478,8 +2790,10 @@ Tags (automatic): Request smuggling / desync
 - Metrics (at fetch): bookmark 25, impression 0, like 166, quote 0, reply 1, retweet 50
 
 > CVE-2021-22960 sure looks interesting - HTTP Request Smuggling on NodeJS using chunk extensions. No finder credited yet...
-> https://t.co/95GiQxSP24
-> https://t.co/3kvKN1meAy
+> https://nodejs.org/en/blog/release/v12.22.7/
+> https://www.rfc-editor.org/rfc/rfc7230#section-4.1
+
+**Links in post:** https://nodejs.org/en/blog/release/v12.22.7/, https://www.rfc-editor.org/rfc/rfc7230#section-4.1
 
 
 ---
@@ -2495,8 +2809,10 @@ Tags (automatic): SSRF
 - URL: https://x.com/albinowax/status/1440994386280648714
 - Metrics (at fetch): bookmark 13, impression 0, like 116, quote 1, reply 1, retweet 27
 
-> A patch is now available for CVE-2021-33193 - the Apache HTTP/2 request line injection vulnerability I disclosed last month! It also fixes an interesting looking SSRF... https://t.co/WQQHh41aGx
-> https://t.co/htk16msRNQ
+> A patch is now available for CVE-2021-33193 - the Apache HTTP/2 request line injection vulnerability I disclosed last month! It also fixes an interesting looking SSRF... https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2021-33193
+> https://portswigger.net/research/http2#request
+
+**Links in post:** https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2021-33193, https://portswigger.net/research/http2#request
 
 
 ---
@@ -3939,7 +4255,7 @@ Tags (automatic): XSS
 ### Post — @albinowax — 2017-10-06 14:37 UTC (2017-10-06 15:37 WAT)
 
 - URL: https://x.com/albinowax/status/916311555582685190
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 0, like 165, quote 7, reply 3, retweet 83
 
 > When Security Features Collide: http://blog.portswigger.net/2017/10/when-security-features-collide.html featuring Cloudflare, XSS Auditor, Edge, NoScript and @garethheyes
 

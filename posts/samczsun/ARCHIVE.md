@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 94
+- Posts in this file: 95
 - Conversations/threads: 86
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
@@ -1142,10 +1142,21 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-08-07 · Post · Our experimental solution: a Telegram bot which anyone can use during emergencies to get in touch wi
+## 2023-08-07 · Thread · Over the past few days I've been working with a group of whitehats, auditors, and other security lea
 
 
 ### Post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
+
+- URL: https://x.com/samczsun/status/1688613385565528064
+- Metrics (at fetch): not returned
+
+> Over the past few days I've been working with a group of whitehats, auditors, and other security leaders to try and solve the hardest part of responsible disclosure: finding the right person to talk to. [pic.x.com/pPjt7D51ZE]
+
+**Media:**
+- media `3_1688611207169847297` (details not returned by the API)
+
+
+### Thread part 2 — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
 
 - URL: https://x.com/samczsun/status/1688613387952074756
 - Metrics (at fetch): not returned

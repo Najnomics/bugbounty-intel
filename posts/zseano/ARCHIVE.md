@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 308
-- Conversations/threads: 301
-- Oldest post captured: 2015-09-14
+- Posts in this file: 337
+- Conversations/threads: 330
+- Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
 
 
@@ -2018,6 +2018,546 @@ Tags (automatic): Platform: HackerOne
     
     > I've just published the technical post mortem for an incident I've been working on. I hope it's useful to defenders: https://t.co/dZAcsWyZoR
     
+
+
+---
+
+## 2022-06-04 · Post · we joke about critical clickjacking but metamask just paid $120,000 for a clickjacking bug :o https:
+
+
+### Post — @zseano — 2022-06-04 00:34 UTC (2022-06-04 01:34 WAT)
+
+- URL: https://x.com/zseano/status/1532883543185137665
+- Metrics (at fetch): bookmark 26, impression 0, like 228, quote 3, reply 7, retweet 29
+
+> we joke about critical clickjacking but metamask just paid $120,000 for a clickjacking bug :o https://t.co/WZH1lg35jm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3278906401 — 2022-06-02 22:52 UTC (2022-06-02 23:52 WAT)
+    
+    - URL: https://x.com/3278906401/status/1532495402028572672
+    - Metrics (at fetch): bookmark 39, impression 0, like 440, quote 9, reply 88, retweet 154
+    
+    > We'd like to thank the United Global Whitehat Security Team (UGWST) for this responsible disclosure. ❤
+    >
+    > 💡 It's a good time to make sure you've enabled automatic updates - we always recommend having the most up-to-date version of MetaMask installed!
+    >
+    > https://t.co/pn0uAYI79Y
+    
+
+
+---
+
+## 2022-05-27 · Post · hacker: i've rated this bug high
+
+
+### Post — @zseano — 2022-05-27 11:48 UTC (2022-05-27 12:48 WAT)
+
+- URL: https://x.com/zseano/status/1530153949822582784
+- Metrics (at fetch): bookmark 3, impression 0, like 87, quote 0, reply 3, retweet 3
+
+> hacker: i've rated this bug high
+> analyst: i've changed it to medium
+> company: we've changed it back to high https://t.co/QuqknYaIGB
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2022-05-10 · Post · Bugcrowd are very lucky to have someone as awesome as @codingo_ on the team:) thank you again Michae
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2022-05-10 09:34 UTC (2022-05-10 10:34 WAT)
+
+- URL: https://x.com/zseano/status/1523959715591503872
+- Metrics (at fetch): bookmark 2, impression 0, like 105, quote 0, reply 8, retweet 5
+
+> Bugcrowd are very lucky to have someone as awesome as @codingo_ on the team:) thank you again Michael for everything you do for the community of hackers and improvements you’ve brought to the platform :) https://t.co/EX3Oy5xqfj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zseano — 2022-02-19 17:00 UTC (2022-02-19 18:00 WAT)
+    
+    - URL: https://x.com/zseano/status/1495080937683566593
+    - Metrics (at fetch): bookmark 0, impression 0, like 146, quote 2, reply 7, retweet 2
+    
+    > Mad respect to @codingo_ for everything he does for us bug hunters 😘😘
+    
+
+
+---
+
+## 2022-04-30 · Post · watching @samwcyo on NahamCon2022, "Breaking into Cloud Wallets: Findings from 3 years spent Hackin
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2022-04-30 21:12 UTC (2022-04-30 22:12 WAT)
+
+- URL: https://x.com/zseano/status/1520511514377039872
+- Metrics (at fetch): bookmark 6, impression 0, like 136, quote 0, reply 3, retweet 13
+
+> watching @samwcyo on #NahamCon2022, "Breaking into Cloud Wallets: Findings from 3 years spent Hacking Crypto Web Apps" - he found blind XSS in 2017 and then asked, has anything changed in 2022? spoiler: nope, xss is alive and kickin' :P enjoying the con and the talks!
+
+
+---
+
+## 2022-04-20 · Post · lol HackerOne input doesn't support 1million+... wtf? https://t.co/B47Bsin6bk
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2022-04-20 10:21 UTC (2022-04-20 11:21 WAT)
+
+- URL: https://x.com/zseano/status/1516723681996779526
+- Metrics (at fetch): bookmark 9, impression 0, like 258, quote 2, reply 11, retweet 11
+
+> lol HackerOne input doesn't support 1million+... wtf? https://t.co/B47Bsin6bk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQx741dXoAA90Pr.png — no alt text provided by author
+
+
+---
+
+## 2022-04-19 · Post · Another job opportunity in bug bounty scene 👇🏻 check it out :) https://t.co/ydu5V8K1QI
+
+
+### Post — @zseano — 2022-04-19 20:39 UTC (2022-04-19 21:39 WAT)
+
+- URL: https://x.com/zseano/status/1516516835939827727
+- Metrics (at fetch): bookmark 2, impression 0, like 19, quote 0, reply 0, retweet 0
+
+> Another job opportunity in bug bounty scene 👇🏻 check it out :) https://t.co/ydu5V8K1QI
+
+**Quoted post (full text):**
+
+    #### Quoted post — @236170246 — 2022-04-19 19:38 UTC (2022-04-19 20:38 WAT)
+    
+    - URL: https://x.com/236170246/status/1516501583646707713
+    - Metrics (at fetch): bookmark 2, impression 0, like 47, quote 1, reply 2, retweet 9
+    
+    > If you or someone you know is a match, I am looking to bring on someone to help manage Ubisoft's Bug Bounty program :)
+    >
+    > https://t.co/K9YXfLbQ2O
+    
+
+
+---
+
+## 2022-03-30 · Post · discovering 100+ bugs on BARKER takes some grinding, just like when hacking on a bug bounty program.
+
+
+### Post — @zseano — 2022-03-30 22:21 UTC (2022-03-30 23:21 WAT)
+
+- URL: https://x.com/zseano/status/1509294687940657153
+- Metrics (at fetch): bookmark 10, impression 0, like 110, quote 0, reply 8, retweet 8
+
+> discovering 100+ bugs on BARKER takes some grinding, just like when hacking on a bug bounty program. Some serious hard work has been put in and I endorse all current level 5 members and recommend them for your bug bounty programs :) I can connect you with proven talent https://t.co/L6Dueybg8g
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPIXGoNWQAI1JYP.png — no alt text provided by author
+
+
+---
+
+## 2022-03-18 · Post · Matching headphones! 👀 Really enjoyed talking with @ofjaaah and @h4t3c0mput3rs tonight about bug bou
+
+
+### Post — @zseano — 2022-03-18 01:54 UTC (2022-03-18 02:54 WAT)
+
+- URL: https://x.com/zseano/status/1504637407425183745
+- Metrics (at fetch): bookmark 3, impression 0, like 50, quote 1, reply 3, retweet 0
+
+> Matching headphones! 👀 Really enjoyed talking with @ofjaaah and @h4t3c0mput3rs tonight about bug bounties &amp; hacking :) hats off to @h4t3c0mput3rs for being an exceptional translator. Hope your viewers enjoyed it! Thanks again for having me :) &lt;3 https://t.co/mwNXTs5k2M
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1278041212914667523 — 2022-03-18 01:43 UTC (2022-03-18 02:43 WAT)
+    
+    - URL: https://x.com/1278041212914667523/status/1504634634738540548
+    - Metrics (at fetch): bookmark 0, impression 0, like 24, quote 1, reply 1, retweet 1
+    
+    > @zseano @h4t3c0mput3rs 
+    >
+    > I think we matched the @razer headphones bro..
+    > thanks @zseano for the great talk and help for my friends starting bug bounty! You are very special to Brazilians. https://t.co/PIn84nnoFZ
+    
+    **Media:**
+    - media `3_1504634303199821830` (details not returned by the API)
+    
+
+
+---
+
+## 2022-03-14 · Post · Update on situation affecting ukraine users on hackerone 👇🏻 https://t.co/EdiVXUEyRr
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2022-03-14 21:28 UTC (2022-03-14 22:28 WAT)
+
+- URL: https://x.com/zseano/status/1503483135132114947
+- Metrics (at fetch): bookmark 0, impression 0, like 31, quote 0, reply 6, retweet 3
+
+> Update on situation affecting ukraine users on hackerone 👇🏻 https://t.co/EdiVXUEyRr
+
+**Quoted post** 1503430647544795143: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-03-12 · Post · Bug bounty programs are allowed to take weeks to reply to you, years to resolve, and if you ask for 
+
+
+### Post — @zseano — 2022-03-12 00:27 UTC (2022-03-12 01:27 WAT)
+
+- URL: https://x.com/zseano/status/1502441166163353611
+- Metrics (at fetch): bookmark 8, impression 0, like 356, quote 1, reply 17, retweet 24
+
+> Bug bounty programs are allowed to take weeks to reply to you, years to resolve, and if you ask for updates you get ignored, but if you don’t retest their fix within 24hrs you won’t get your $50 🙄😂 it’s funny when you think about it
+
+
+---
+
+## 2022-02-19 · Post · Mad respect to @codingo_ for everything he does for us bug hunters 😘😘
+
+
+### Post — @zseano — 2022-02-19 17:00 UTC (2022-02-19 18:00 WAT)
+
+- URL: https://x.com/zseano/status/1495080937683566593
+- Metrics (at fetch): bookmark 0, impression 0, like 146, quote 2, reply 7, retweet 2
+
+> Mad respect to @codingo_ for everything he does for us bug hunters 😘😘
+
+
+---
+
+## 2022-02-19 · Post · Is this the biggest bounty ever on @Hacker0x01?! Check this thread to learn how they were rewarded $
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2022-02-19 14:30 UTC (2022-02-19 15:30 WAT)
+
+- URL: https://x.com/zseano/status/1495043140570345478
+- Metrics (at fetch): bookmark 21, impression 0, like 126, quote 1, reply 3, retweet 15
+
+> Is this the biggest bounty ever on @Hacker0x01?! Check this thread to learn how they were rewarded $250,000 for submitting a serious issue to Coinbase. Hats off to you @Tree_of_Alpha 👏 https://t.co/8gDAVOVs0g
+
+**Quoted post** 1495014902582362112: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-02-18 · Post · It's friday and there's a lot on my to do but I am kind of in the mood to break not build &gt;_&lt; 
+
+
+### Post — @zseano — 2022-02-18 16:24 UTC (2022-02-18 17:24 WAT)
+
+- URL: https://x.com/zseano/status/1494709496031195146
+- Metrics (at fetch): bookmark 4, impression 0, like 116, quote 0, reply 6, retweet 4
+
+> It's friday and there's a lot on my to do but I am kind of in the mood to break not build &gt;_&lt; got an obsession lately with poking at "web3.0" sites (NFT marketplaces), got a writeup to share soon https://t.co/0HiPdDbC4M
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FL5F6kmWQAYX2uG.png — no alt text provided by author
+
+
+---
+
+## 2022-01-24 · Post · interesting thread/finding on a bug affecting @opensea which allows an attacker to buy NFTs at previ
+
+
+### Post — @zseano — 2022-01-24 23:01 UTC (2022-01-25 00:01 WAT)
+
+- URL: https://x.com/zseano/status/1485749518343802885
+- Metrics (at fetch): bookmark 16, impression 0, like 65, quote 1, reply 3, retweet 20
+
+> interesting thread/finding on a bug affecting @opensea which allows an attacker to buy NFTs at previously listed prices. seems it still works now and is actively being exploited (hacker made 750k so far, see next tweet) so if you're into NFTs go check your stuff https://t.co/jZ92uhxzmh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @465626381 — 2022-01-24 10:27 UTC (2022-01-24 11:27 WAT)
+    
+    - URL: https://x.com/465626381/status/1485559864948629512
+    - Metrics (at fetch): bookmark 60, impression 0, like 192, quote 47, reply 17, retweet 90
+    
+    > Following my previous tweet (https://t.co/NInuTuIkgq), here is a 🧵about the @opensea bug. 1/
+    
+    **Quoted post** 1485529444488028162: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-01-15 · Post · From 1 bug in November to 13 in January, very nice work @harris0ft! Keep it up and crush it in 2022 
+
+
+### Post — @zseano — 2022-01-15 22:56 UTC (2022-01-15 23:56 WAT)
+
+- URL: https://x.com/zseano/status/1482486833229533187
+- Metrics (at fetch): bookmark 11, impression 0, like 73, quote 0, reply 2, retweet 8
+
+> From 1 bug in November to 13 in January, very nice work @harris0ft! Keep it up and crush it in 2022 :) Hearing about lots of people having success all over in bug bounties. as I said dec last year, no better time to start! if you aren't finding bugs, someone else is ;) https://t.co/Ci12oEndHS
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1170923239977209856 — 2022-01-14 05:43 UTC (2022-01-14 06:43 WAT)
+    
+    - URL: https://x.com/1170923239977209856/status/1481864453578702849
+    - Metrics (at fetch): bookmark 75, impression 0, like 176, quote 1, reply 3, retweet 50
+    
+    > 1/5 - Late last year @zseano methodology became public so I decided to do a METHODOLOGY UPGRADE, 90% of my methodology was automation before then while his was purely manual. I will summarize his methodology as follows (if I miss anything @zseano please add it).
+    
+
+
+---
+
+## 2022-01-08 · Post · if you haven't already, give @adamtlangley a follow and check out his labs on @CTFchallenge. He is a
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2022-01-08 16:11 UTC (2022-01-08 17:11 WAT)
+
+- URL: https://x.com/zseano/status/1479848123941986311
+- Metrics (at fetch): bookmark 12, impression 0, like 115, quote 1, reply 3, retweet 11
+
+> if you haven't already, give @adamtlangley a follow and check out his labs on @CTFchallenge. He is an all round awesome person and creates nice labs to help you learn. He is even the creator of many CTFs hosted by HackerOne :)
+
+
+---
+
+## 2022-01-01 · Post · Happy new everyone! Whilst I didn’t do much hacking in 2021 (only h1 live event in q1 and haxmas rec
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2022-01-01 01:56 UTC (2022-01-01 02:56 WAT)
+
+- URL: https://x.com/zseano/status/1477096290341330951
+- Metrics (at fetch): bookmark 3, impression 0, like 93, quote 0, reply 3, retweet 2
+
+> Happy new everyone! Whilst I didn’t do much hacking in 2021 (only h1 live event in q1 and haxmas recently), I did help lots of people get started in bug bounties and earn some nice bounties :) here’s to bug bounty hunters around the world, make it rain more bugs in 2022 ! 🥂 https://t.co/jIX0tg4SRt https://t.co/OoGarAeQa9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FH-zPqcXIAgA6Ni.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FH-zPqaXMAYVXze.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @23156300 — 2021-12-28 14:42 UTC (2021-12-28 15:42 WAT)
+    
+    - URL: https://x.com/23156300/status/1475839459996446721
+    - Metrics (at fetch): bookmark 3, impression 0, like 50, quote 1, reply 3, retweet 2
+    
+    > Shout out to @jtcsec and @yougina.
+    > We found some awesome bugs together this year and made alot of money. Started my first year of bountys hoping to find a single bug and get paid for it, 8 months later just shy of 80k, also shout out to @zseano for teaching me how to do it. :)
+    
+
+
+---
+
+## 2021-12-28 · Post · Xss exploited on @DEXToolsApp to trick users into thinking a token is verified &amp; genuine https:/
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2021-12-28 15:52 UTC (2021-12-28 16:52 WAT)
+
+- URL: https://x.com/zseano/status/1475857082914070529
+- Metrics (at fetch): bookmark 8, impression 0, like 23, quote 0, reply 0, retweet 4
+
+> Xss exploited on @DEXToolsApp to trick users into thinking a token is verified &amp; genuine https://t.co/18OOOXlSZl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1422804690551574528 — 2021-12-27 20:50 UTC (2021-12-27 21:50 WAT)
+    
+    - URL: https://x.com/1422804690551574528/status/1475569815821733894
+    - Metrics (at fetch): bookmark 363, impression 0, like 2716, quote 240, reply 126, retweet 763
+    
+    > How did someone make a fake $MASK token and scam hundreds of ETH by exploiting DexTools? 
+    >
+    > A Thread 🧵 https://t.co/pUb9MRwBlT
+    
+    **Media:**
+    - media `3_1475569290459893774` (details not returned by the API)
+    
+
+
+---
+
+## 2021-12-26 · Post · Looking back when I first started bug bounties in 2015 and sent this to hackerone 😂 good to see they
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2021-12-26 23:54 UTC (2021-12-27 00:54 WAT)
+
+- URL: https://x.com/zseano/status/1475253630768975874
+- Metrics (at fetch): bookmark 5, impression 0, like 151, quote 0, reply 7, retweet 10
+
+> Looking back when I first started bug bounties in 2015 and sent this to hackerone 😂 good to see they did enable it for us in the end ;) https://t.co/m3yV5sXWrT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FHknWwXXoAAPcoo.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FHknWwYWQAEcQZX.jpg — no alt text provided by author
+
+
+---
+
+## 2021-12-23 · Post · no better time to start bug bounties, lots of programs, lots of ways to learn (videos, writeups, tra
+
+
+### Post — @zseano — 2021-12-23 00:23 UTC (2021-12-23 01:23 WAT)
+
+- URL: https://x.com/zseano/status/1473811505418276865
+- Metrics (at fetch): bookmark 20, impression 0, like 158, quote 1, reply 10, retweet 21
+
+> no better time to start bug bounties, lots of programs, lots of ways to learn (videos, writeups, training etc), easy accessibility (start instantly). set a goal for 2022 and go hard for 12 months :) we got paid just under $10k (combined) from a public program. bugs are out there! https://t.co/VmxEI7Wn2G
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zseano — 2021-12-08 14:32 UTC (2021-12-08 15:32 WAT)
+    
+    - URL: https://x.com/zseano/status/1468589335901618176
+    - Metrics (at fetch): bookmark 9, impression 0, like 216, quote 1, reply 10, retweet 7
+    
+    > 7 days on 1 public program on @Hacker0x01 for "21 days of Haxmas" and already 5k+ paid out! We're running into some dead ends now though so time to switch it up and find a new target. Public programs have more bugs than you think, it isn't all about privates :)
+    
+
+
+---
+
+## 2021-12-23 · Post · Seriously worth a read! Great research &amp; writeup from @iustinBB , really insightful , learnt a l
+
+
+### Post — @zseano — 2021-12-23 00:07 UTC (2021-12-23 01:07 WAT)
+
+- URL: https://x.com/zseano/status/1473807330609451011
+- Metrics (at fetch): bookmark 10, impression 0, like 46, quote 0, reply 0, retweet 2
+
+> Seriously worth a read! Great research &amp; writeup from @iustinBB , really insightful , learnt a lot :) https://t.co/9dMWb8ED7G
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1255163429746348038 — 2021-12-22 23:34 UTC (2021-12-23 00:34 WAT)
+    
+    - URL: https://x.com/1255163429746348038/status/1473799162286252032
+    - Metrics (at fetch): bookmark 629, impression 0, like 1426, quote 17, reply 23, retweet 617
+    
+    > Cache Poisoning at Scale:
+    > Identifying and Exploiting over 70 Cache Poisoning Vulnerabilities
+    >
+    > https://t.co/cjkx8zsqb2
+    
+
+
+---
+
+## 2021-12-11 · Post · Some programs out there are like ‘don’t test for this cve or tell us!’ and others are embracing hack
+
+
+### Post — @zseano — 2021-12-11 15:28 UTC (2021-12-11 16:28 WAT)
+
+- URL: https://x.com/zseano/status/1469690595815960582
+- Metrics (at fetch): bookmark 4, impression 0, like 70, quote 0, reply 4, retweet 3
+
+> Some programs out there are like ‘don’t test for this cve or tell us!’ and others are embracing hackers and their ability to find vulnerable stuff out there 🤷‍♂️ https://t.co/Z78SNBkhU4
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4592195181 — 2021-12-11 01:06 UTC (2021-12-11 02:06 WAT)
+    
+    - URL: https://x.com/4592195181/status/1469473617134206977
+    - Metrics (at fetch): bookmark 7, impression 0, like 92, quote 2, reply 2, retweet 9
+    
+    > The real &amp; Great bug bounty programs👇👇 https://t.co/bwja2ouOyL
+    
+    **Media:**
+    - media `3_1469473324409536519` (details not returned by the API)
+    
+
+
+---
+
+## 2021-12-08 · Post · 7 days on 1 public program on @Hacker0x01 for "21 days of Haxmas" and already 5k+ paid out! We're ru
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @zseano — 2021-12-08 14:32 UTC (2021-12-08 15:32 WAT)
+
+- URL: https://x.com/zseano/status/1468589335901618176
+- Metrics (at fetch): bookmark 9, impression 0, like 216, quote 1, reply 10, retweet 7
+
+> 7 days on 1 public program on @Hacker0x01 for "21 days of Haxmas" and already 5k+ paid out! We're running into some dead ends now though so time to switch it up and find a new target. Public programs have more bugs than you think, it isn't all about privates :)
+
+
+---
+
+## 2021-11-24 · Post · Opened some apps on my iPhone, discovered an interesting "bag.xml" file which lead to finding XSS wh
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2021-11-24 00:28 UTC (2021-11-24 01:28 WAT)
+
+- URL: https://x.com/zseano/status/1463303463010508800
+- Metrics (at fetch): bookmark 115, impression 0, like 561, quote 5, reply 10, retweet 182
+
+> Opened some apps on my iPhone, discovered an interesting "bag.xml" file which lead to finding XSS which we used to grab your Apple PII information. A finding from back in feb with @BugBountyHunt3r members 
+>
+> https://t.co/1PPoSvWGKz
+
+
+---
+
+## 2021-11-23 · Post · Really looking forward to doing 21 days of haxmas with some talented hackers starting 1st December. 
+
+
+### Post — @zseano — 2021-11-23 10:26 UTC (2021-11-23 11:26 WAT)
+
+- URL: https://x.com/zseano/status/1463091501496520705
+- Metrics (at fetch): bookmark 3, impression 0, like 126, quote 0, reply 8, retweet 5
+
+> Really looking forward to doing 21 days of haxmas with some talented hackers starting 1st December. 21 days of non stop hacking &amp; collaborating on a chosen bug bounty program. Hyped to get in hacker mode &amp; rly excited to see what we can find! :)
+
+
+---
+
+## 2021-11-08 · Post · helping people earn bounties and get jobs. :-) Been training members on @BugBountyHunt3r for a year 
+
+
+### Post — @zseano — 2021-11-08 13:04 UTC (2021-11-08 14:04 WAT)
+
+- URL: https://x.com/zseano/status/1457695536417476611
+- Metrics (at fetch): bookmark 12, impression 0, like 252, quote 0, reply 11, retweet 12
+
+> helping people earn bounties and get jobs. :-) Been training members on @BugBountyHunt3r for a year now and it's going really well. Still lots to do! Keen to get my own vuln disclosure/bug bounty platform finished. https://t.co/T2Bl4OMlP1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FDq_2FmWUAYKotQ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FDrAY8ZXIAUAX_Q.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FDrFKO6XoAAQr_1.jpg — no alt text provided by author
 
 
 ---
@@ -5434,3 +5974,45 @@ Tags (automatic): XSS, SQL injection
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
 
 > When a company doesn't have a security@ email so you use their "Contact us" form, and you break it with a PoC. facepalm.jpg
+
+
+---
+
+## 2015-09-10 · Post · @BugBountyHQ Saw all those bounties from yahoo, nice! Checked out some of your bug reprots on your s
+
+
+### Post — @zseano — 2015-09-10 13:08 UTC (2015-09-10 14:08 WAT)
+
+- URL: https://x.com/zseano/status/641961486571700224
+- Metrics (at fetch): not returned
+
+> @BugBountyHQ Saw all those bounties from yahoo, nice! Checked out some of your bug reprots on your site.. you have skills man, props to you
+
+
+---
+
+## 2015-09-01 · Post · @MrTrizaeron Found a similar exploit as your smartsheet one. Most sites don't check for the userid y
+
+
+### Post — @zseano — 2015-09-01 13:38 UTC (2015-09-01 14:38 WAT)
+
+- URL: https://x.com/zseano/status/638707440394108928
+- Metrics (at fetch): not returned
+
+> @MrTrizaeron Found a similar exploit as your smartsheet one. Most sites don't check for the userid your trying to edit sadly
+
+
+---
+
+## 2015-08-11 · Post · I eat XSS for breakfast
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2015-08-11 13:16 UTC (2015-08-11 14:16 WAT)
+
+- URL: https://x.com/zseano/status/631091745330216960
+- Metrics (at fetch): not returned
+
+> I eat XSS for breakfast

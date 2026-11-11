@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 358
-- Conversations/threads: 354
-- Oldest post captured: 2023-03-16
+- Posts in this file: 360
+- Conversations/threads: 356
+- Oldest post captured: 2023-02-23
 - Newest post captured: 2026-11-09
 
 
@@ -7859,3 +7859,38 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FrVK10NaIAE8yOd.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-24 · Post · Pattern for critical re-entrancy vulnerabilities from studying previous audits. Doing verification c
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @DevDacian — 2023-02-24 03:30 UTC (2023-02-24 04:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1628960650935545860
+- Metrics (at fetch): bookmark 3, impression 491, like 1, quote 0, reply 0, retweet 0
+
+> Pattern for critical re-entrancy vulnerabilities from studying previous audits. Doing verification checks *after* ERC721.safeTransferFrom() very risky as attack contract gets called into and has a chance to re-enter your contract &amp; do other things to pass the checks @code4rena https://t.co/X0WMrNEqvz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fps6zrdaAAAwPxR.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-23 · Post · Critical Re-entrancy vulnerability due to not following Check-Effects-Interaction pattern allowing i
+
+
+### Post — @DevDacian — 2023-02-23 10:18 UTC (2023-02-23 11:18 WAT)
+
+- URL: https://x.com/DevDacian/status/1628700793007378434
+- Metrics (at fetch): bookmark 1, impression 171, like 0, quote 0, reply 0, retweet 0
+
+> Critical Re-entrancy vulnerability due to not following Check-Effects-Interaction pattern allowing infinite mints courtesy of @pashov  https://t.co/ymAlUwN0w9 https://t.co/40sCAf99Fz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FppNz0naIAQJAJV.jpg — no alt text provided by author

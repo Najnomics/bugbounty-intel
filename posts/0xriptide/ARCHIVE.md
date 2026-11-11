@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 180
-- Conversations/threads: 176
+- Posts in this file: 209
+- Conversations/threads: 205
 - Oldest post captured: 2014-07-21
 - Newest post captured: 2026-11-10
 
@@ -3471,10 +3471,12 @@ Tags (automatic): Memory corruption / native
     >
     > Users are advised to withdraw affected LPs immediately.
     >
-    > https://t.co/PDzX32gqeS https://t.co/F1f649Wz3L
+    > https://app.balancer.fi/#/ethereum/recovery-exit [pic.x.com/F1f649Wz3L]
     
     **Media:**
     - media `3_1694014641054404608` (details not returned by the API)
+    
+    **Links in post:** https://app.balancer.fi/#/ethereum/recovery-exit
     
 
 
@@ -3872,6 +3874,620 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > AHHH I'm shiftinggggggg 
 >  https://t.co/fMN141sKjz
+
+
+---
+
+## 2023-03-04 · Post · standard should be 10% of value at risk as a bounty
+
+
+### Post — @0xriptide — 2023-03-04 20:38 UTC (2023-03-04 21:38 WAT)
+
+- URL: https://x.com/0xriptide/status/1632118230339964928
+- Metrics (at fetch): bookmark 0, impression 2733, like 7, quote 0, reply 3, retweet 1
+
+> standard should be 10% of value at risk as a bounty
+
+
+---
+
+## 2023-03-01 · Post · decided to report this one and rewarded with a respectable bounty by @sommfinance
+
+
+### Post — @0xriptide — 2023-03-01 17:20 UTC (2023-03-01 18:20 WAT)
+
+- URL: https://x.com/0xriptide/status/1630981307529584640
+- Metrics (at fetch): bookmark 2, impression 4590, like 47, quote 0, reply 3, retweet 0
+
+> decided to report this one and rewarded with a respectable bounty by @sommfinance
+>
+> ✅ chad up and coming team
+> ✅ security enjooooyers https://t.co/B8beIdPhk2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xriptide — 2023-02-20 08:13 UTC (2023-02-20 09:13 WAT)
+    
+    - URL: https://x.com/0xriptide/status/1627582249561636865
+    - Metrics (at fetch): bookmark 5, impression 38548, like 128, quote 2, reply 14, retweet 1
+    
+    > found a critical bug ... but TVL is low and being proactive can result in not getting paid
+    >
+    > no bug bounty posted either 🤨
+    >
+    > white hat paradox
+    
+
+
+---
+
+## 2023-02-20 · Post · found a critical bug ... but TVL is low and being proactive can result in not getting paid
+
+
+### Post — @0xriptide — 2023-02-20 08:13 UTC (2023-02-20 09:13 WAT)
+
+- URL: https://x.com/0xriptide/status/1627582249561636865
+- Metrics (at fetch): bookmark 5, impression 38548, like 128, quote 2, reply 14, retweet 1
+
+> found a critical bug ... but TVL is low and being proactive can result in not getting paid
+>
+> no bug bounty posted either 🤨
+>
+> white hat paradox
+
+
+---
+
+## 2023-02-18 · Post · n00b black hat got too excited
+
+
+### Post — @0xriptide — 2023-02-18 03:44 UTC (2023-02-18 04:44 WAT)
+
+- URL: https://x.com/0xriptide/status/1626789710134910976
+- Metrics (at fetch): bookmark 2, impression 3933, like 28, quote 1, reply 2, retweet 3
+
+> n00b black hat got too excited
+>
+> chads inject liquid cocaine before writing exploit contracts
+>
+> ice cold https://t.co/1hDzaWdc7g
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2023-02-17 17:54 UTC (2023-02-17 18:54 WAT)
+    
+    - URL: https://x.com/5678/status/1626641254531448833
+    - Metrics (at fetch): bookmark 280, impression 439754, like 1405, quote 134, reply 84, retweet 310
+    
+    > In a dazzling reverse hack, a substantial chunk of the Playtpus hack stolen funds have been recovered.
+    >
+    > Here's how it worked: (1/4) https://t.co/gRWkLPMr7Q
+    
+    **Media:**
+    - media `3_1626641005591113728` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-16 · Post · The question everyone wants to know
+
+
+### Post — @0xriptide — 2023-02-16 02:56 UTC (2023-02-16 03:56 WAT)
+
+- URL: https://x.com/0xriptide/status/1626052810797379586
+- Metrics (at fetch): bookmark 0, impression 3244, like 18, quote 0, reply 0, retweet 0
+
+> The question everyone wants to know
+>
+> Was this new bounty figure greater than the original $100k?
+>
+> Hack first negotiate later
+>
+> good strat tbh https://t.co/oC4SSZYGdr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1080347969432432640 — 2023-02-13 05:29 UTC (2023-02-13 06:29 WAT)
+    
+    - URL: https://x.com/1080347969432432640/status/1625004207395807232
+    - Metrics (at fetch): bookmark 1, impression 18416, like 37, quote 9, reply 4, retweet 8
+    
+    > 1/5 On Feb 13, 2023, the exploited funds were fully returned to our multi-sig on both Arbitrum and Optimism, a perfect ending for all. 
+    >
+    > All impacted users will be made whole, we will announce the details for distribution of the funds over the next few days.
+    
+
+
+---
+
+## 2023-02-11 · Post · Getting quite a few messages from other whitehats on how they've been screwed on bounties
+
+
+### Post — @0xriptide — 2023-02-11 00:44 UTC (2023-02-11 01:44 WAT)
+
+- URL: https://x.com/0xriptide/status/1624207658831212545
+- Metrics (at fetch): bookmark 3, impression 8040, like 45, quote 1, reply 6, retweet 6
+
+> Getting quite a few messages from other whitehats on how they've been screwed on bounties
+>
+> i think it's time for a new bounty model
+>
+> Post 'em up on the @bbwallofshame !
+
+
+---
+
+## 2023-02-01 · Post · whitehat anons - submit your bad bug bounty experiences to the Wall of Shame below
+
+
+### Post — @0xriptide — 2023-02-01 23:42 UTC (2023-02-02 00:42 WAT)
+
+- URL: https://x.com/0xriptide/status/1620930610087989248
+- Metrics (at fetch): bookmark 24, impression 20665, like 100, quote 4, reply 10, retweet 17
+
+> whitehat anons - submit your bad bug bounty experiences to the Wall of Shame below
+>
+> let's provide transparency to users/investors so they can better evaluate the risk of investing capital with protocols that do not prioritize security 
+>
+> h/t @bbwallofshame 
+> https://t.co/I18f6UKLOh
+
+
+---
+
+## 2023-01-27 · Post · new bug write-up dropping next week 👀
+
+
+### Post — @0xriptide — 2023-01-27 21:58 UTC (2023-01-27 22:58 WAT)
+
+- URL: https://x.com/0xriptide/status/1619092445769383952
+- Metrics (at fetch): bookmark 0, impression 6018, like 46, quote 0, reply 3, retweet 1
+
+> new bug write-up dropping next week 👀
+
+
+---
+
+## 2023-01-25 · Post · ah the joy of trying to get paid on a bug bounty
+
+
+### Post — @0xriptide — 2023-01-25 21:04 UTC (2023-01-25 22:04 WAT)
+
+- URL: https://x.com/0xriptide/status/1618354266695143426
+- Metrics (at fetch): bookmark 1, impression 4742, like 35, quote 0, reply 3, retweet 0
+
+> ah the joy of trying to get paid on a bug bounty
+
+
+---
+
+## 2023-01-25 · Post · he became a bounty hunter ... a renegade
+
+
+### Post — @0xriptide — 2023-01-25 06:14 UTC (2023-01-25 07:14 WAT)
+
+- URL: https://x.com/0xriptide/status/1618130240039170050
+- Metrics (at fetch): bookmark 0, impression 978, like 4, quote 0, reply 0, retweet 0
+
+> he became a bounty hunter ... a renegade
+>
+> best 90s show hands down https://t.co/OGfe9OA34o
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2023-01-16 · Post · would love to see @immunefi post a "wall of shame" with a list of projects that reneg/ghost bounty h
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2023-01-16 00:21 UTC (2023-01-16 01:21 WAT)
+
+- URL: https://x.com/0xriptide/status/1614779895602872320
+- Metrics (at fetch): bookmark 5, impression 22803, like 96, quote 1, reply 5, retweet 6
+
+> would love to see @immunefi post a "wall of shame" with a list of projects that reneg/ghost bounty hunters
+
+
+---
+
+## 2023-01-14 · Post · Average time you wait to get paid on a bug
+
+
+### Post — @0xriptide — 2023-01-14 07:48 UTC (2023-01-14 08:48 WAT)
+
+- URL: https://x.com/0xriptide/status/1614167445702586369
+- Metrics (at fetch): bookmark 1, impression 1825, like 0, quote 0, reply 3, retweet 0
+
+> Average time you wait to get paid on a bug
+
+
+---
+
+## 2023-01-09 · Post · what is the right email for bug bounties sers @ensdomains 👀
+
+
+### Post — @0xriptide — 2023-01-09 07:10 UTC (2023-01-09 08:10 WAT)
+
+- URL: https://x.com/0xriptide/status/1612346027247538176
+- Metrics (at fetch): bookmark 2, impression 9292, like 31, quote 1, reply 6, retweet 1
+
+> what is the right email for bug bounties sers @ensdomains 👀
+
+
+---
+
+## 2023-01-03 · Post · where does the low/med sev bug go?
+
+
+### Post — @0xriptide — 2023-01-03 05:14 UTC (2023-01-03 06:14 WAT)
+
+- URL: https://x.com/0xriptide/status/1610142490258190338
+- Metrics (at fetch): bookmark 0, impression 2871, like 1, quote 1, reply 1, retweet 0
+
+> where does the low/med sev bug go?
+
+
+---
+
+## 2022-12-22 · Post · 1 bug per month goal is going well
+
+
+### Post — @0xriptide — 2022-12-22 07:01 UTC (2022-12-22 08:01 WAT)
+
+- URL: https://x.com/0xriptide/status/1605820737276739584
+- Metrics (at fetch): bookmark 0, impression 4499, like 38, quote 0, reply 2, retweet 0
+
+> 1 bug per month goal is going well
+>
+> you are checking for Santa Claus
+>
+> I am checking the chain
+
+
+---
+
+## 2022-12-07 · Reply · @arbitrum arbiscan UI bug lol didn't know they were such big fans of BSC https://t.co/CiymaflsnY
+
+
+### Post — @0xriptide — 2022-12-07 04:46 UTC (2022-12-07 05:46 WAT)
+
+- URL: https://x.com/0xriptide/status/1600350894100738048
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 2, retweet 0
+
+> @arbitrum arbiscan UI bug lol didn't know they were such big fans of BSC https://t.co/CiymaflsnY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjWWcY9aMAA7gl9.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-10 · Post · Another crypto self-cleansing cycle
+
+
+### Post — @0xriptide — 2022-11-10 11:13 UTC (2022-11-10 12:13 WAT)
+
+- URL: https://x.com/0xriptide/status/1590663997162131456
+- Metrics (at fetch): bookmark 2, impression 0, like 38, quote 0, reply 2, retweet 4
+
+> Another crypto self-cleansing cycle
+>
+> Rekt? Go hunt bug bounties and get back on your feet
+>
+> There is always a path forward
+
+
+---
+
+## 2022-11-09 · Post · Big thanks to the @immunefi crew for flying me halfway across the world and showing me a great time 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2022-11-09 05:45 UTC (2022-11-09 06:45 WAT)
+
+- URL: https://x.com/0xriptide/status/1590218934422482944
+- Metrics (at fetch): bookmark 3, impression 0, like 53, quote 1, reply 5, retweet 3
+
+> Big thanks to the @immunefi crew for flying me halfway across the world and showing me a great time in Lisbon!
+>
+> The munificent @MitchellAmador is the man to watch in this space- appreciate the hospitality 🫡
+>
+> from our killer ride on the coast on the scramblers w/ @Ivanbenavides_ https://t.co/WDN2rYQzBb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhGXsD3UAAApunz.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-04 · Post · Much respect to the top tier 🫡
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2022-11-04 11:40 UTC (2022-11-04 12:40 WAT)
+
+- URL: https://x.com/0xriptide/status/1588496279222767616
+- Metrics (at fetch): not returned
+
+> Much respect to the top tier 🫡
+>
+> IMO @PwningEth had the most interesting attack idea to target the precompiles with a delegatecall… this line of work is so much fun https://twitter.com/immunefi/status/1588489884939223042
+
+**Links in post:** https://twitter.com/immunefi/status/1588489884939223042
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2022-11-04 11:14 UTC (2022-11-04 12:14 WAT)
+    
+    - URL: https://x.com/immunefi/status/1588489884939223042
+    - Metrics (at fetch): not returned
+    
+    > We’re proud to release the Immunefi Whitehat Leaderboard showing the top 20 whitehats in web3! 
+    >
+    > Whitehats who earn their spot through genius and hard work are eligible for further rewards, exclusive merch, paid trips, speaking opportunities, and more. 
+    >
+    > https://immunefi.com/leaderboard [pic.x.com/rU7SdURzZz]
+    
+    **Media:**
+    - media `3_1588487166916714496` (details not returned by the API)
+    
+    **Links in post:** https://immunefi.com/leaderboard
+    
+
+
+---
+
+## 2022-10-03 · Post · What a based project to reevaluate a bounty like that https://twitter.com/danielvf/status/1576935143
+
+
+### Post — @0xriptide — 2022-10-03 16:41 UTC (2022-10-03 17:41 WAT)
+
+- URL: https://x.com/0xriptide/status/1576975776296992776
+- Metrics (at fetch): not returned
+
+> What a based project to reevaluate a bounty like that https://twitter.com/danielvf/status/1576935143528226816
+
+**Links in post:** https://twitter.com/danielvf/status/1576935143528226816
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2022-10-03 14:00 UTC (2022-10-03 15:00 WAT)
+    
+    - URL: https://x.com/5678/status/1576935143528226816
+    - Metrics (at fetch): not returned
+    
+    > @immunefi Update: Last Monday, @Instadapp reevaluated this bounty and increased their payout on this from $500 to $10,000. Appreciated.
+    >
+    > They also increased their critical/high bounties on @immunefi this week from $50,000/$5,000 to $250,000/$100,000.
+    
+
+
+---
+
+## 2022-09-25 · Post · “Average user calling for a full payout didn’t understand the hack or actual value at risk”
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @0xriptide — 2022-09-25 19:54 UTC (2022-09-25 20:54 WAT)
+
+- URL: https://x.com/0xriptide/status/1574125312488579073
+- Metrics (at fetch): not returned
+
+> “Average user calling for a full payout didn’t understand the hack or actual value at risk”
+>
+> DeFi Education substack is authored by crypto gigabrains @BowTiedIguana @BowTiedBrain @BowTiedNightOwl 
+>
+> … and surprise @hkalodner @EdFelten they also agree the bounty is underpaid 🧐 [pic.x.com/QYVKCpeGei]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fdhqn74XkAEFita.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-24 · Post · Great thread by DVF and nice find!
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2022-09-24 12:07 UTC (2022-09-24 13:07 WAT)
+
+- URL: https://x.com/0xriptide/status/1573645347192176642
+- Metrics (at fetch): not returned
+
+> Great thread by DVF and nice find!
+>
+> I also have rarely heard back on emailed bug bounties. At least with @immunefi you have a better chance of getting paid https://twitter.com/danielvf/status/1573439227865583631
+
+**Links in post:** https://twitter.com/danielvf/status/1573439227865583631
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2022-09-23 22:28 UTC (2022-09-23 23:28 WAT)
+    
+    - URL: https://x.com/5678/status/1573439227865583631
+    - Metrics (at fetch): not returned
+    
+    > Here's the story on how reporting yesterday's deployer timelock takeover issue to projects went. 1/18 [pic.x.com/c3w6T23BVf]
+    
+    **Media:**
+    - media `3_1573439147423027206` (details not returned by the API)
+    
+
+
+---
+
+## 2022-09-22 · Post · 6 months ago I was a DeFi degen and couldn't read a smart contract ....
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @0xriptide — 2022-09-22 13:10 UTC (2022-09-22 14:10 WAT)
+
+- URL: https://x.com/0xriptide/status/1572936443751702531
+- Metrics (at fetch): not returned
+
+> 6 months ago I was a DeFi degen and couldn't read a smart contract ....
+>
+> So I spent 7 days a week reading contracts, audit reports, hack post-mortems, books on solidity, reading about merkle trees, assembly programming, etc... i was dead set on my path of bounty hunting
+
+
+---
+
+## 2022-09-21 · Post · I will be speaking in the @immunefi discord Hacker Space on Sep 22 @ 1pm EST
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2022-09-21 20:11 UTC (2022-09-21 21:11 WAT)
+
+- URL: https://x.com/0xriptide/status/1572680016944844800
+- Metrics (at fetch): not returned
+
+> I will be speaking in the @immunefi discord Hacker Space on Sep 22 @ 1pm EST
+>
+> Smoke em if you got em
+
+
+---
+
+## 2022-09-20 · Post · No big deal just bridging a cool $470mm through the same Inbox contract 👀
+
+
+### Post — @0xriptide — 2022-09-20 13:27 UTC (2022-09-20 14:27 WAT)
+
+- URL: https://x.com/0xriptide/status/1572215767029977094
+- Metrics (at fetch): not returned
+
+> No big deal just bridging a cool $470mm through the same Inbox contract 👀
+>
+> Definitely should be eligible for a max bounty
+>
+> 🤯 https://twitter.com/kelvinfichter/status/1572197710928699393
+
+**Links in post:** https://twitter.com/kelvinfichter/status/1572197710928699393
+
+**Quoted post (full text):**
+
+    #### Quoted post — @900655117 — 2022-09-20 12:15 UTC (2022-09-20 13:15 WAT)
+    
+    - URL: https://x.com/900655117/status/1572197710928699393
+    - Metrics (at fetch): not returned
+    
+    > Doing this again since my other quote tweet got censored by tweeter. Arbitrum bridge bug is critical bridge bug #3 caused by bad initializers, in case we needed another reason to get rid of initializers. Surprised Arbitrum only paid 400 ETH and not max bounty given deposits like: [pic.x.com/cmSx1HMI1k] https://twitter.com/0xriptide/status/1572051111246467074
+    
+    **Media:**
+    - media `3_1572197706671472641` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/0xriptide/status/1572051111246467074
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @0xriptide — 2022-09-20 02:32 UTC (2022-09-20 03:32 WAT)
+        
+        - URL: https://x.com/0xriptide/status/1572051111246467074
+        - Metrics (at fetch): not returned
+        
+        > My bug bounty write-up on a critical vulnerability I discovered on Arbitrum Nitro which allowed an attacker to steal all incoming ETH deposits to the L1-&gt;L2 bridge
+        >  
+        > https://medium.com/@briptide/hackers-in-arbitrums-inbox-ca23272641a2
+        >
+        > @icodeblockchain @samiamka2 @Mudit__Gupta @belminkalkan @BowTiedCrocodil @BowTiedDevil
+        
+        **Links in post:** https://medium.com/@briptide/hackers-in-arbitrums-inbox-ca23272641a2
+        
+    
+
+
+---
+
+## 2022-09-20 · Post · My bug bounty write-up on a critical vulnerability I discovered on Arbitrum Nitro which allowed an a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @0xriptide — 2022-09-20 02:32 UTC (2022-09-20 03:32 WAT)
+
+- URL: https://x.com/0xriptide/status/1572051111246467074
+- Metrics (at fetch): not returned
+
+> My bug bounty write-up on a critical vulnerability I discovered on Arbitrum Nitro which allowed an attacker to steal all incoming ETH deposits to the L1-&gt;L2 bridge
+>  
+> https://medium.com/@briptide/hackers-in-arbitrums-inbox-ca23272641a2
+>
+> @icodeblockchain @samiamka2 @Mudit__Gupta @belminkalkan @BowTiedCrocodil @BowTiedDevil
+
+**Links in post:** https://medium.com/@briptide/hackers-in-arbitrums-inbox-ca23272641a2
+
+
+---
+
+## 2022-08-18 · Post · ooooo man i'd just love to hack me a gibson
+
+
+### Post — @0xriptide — 2022-08-18 21:01 UTC (2022-08-18 22:01 WAT)
+
+- URL: https://x.com/0xriptide/status/1560371395548299264
+- Metrics (at fetch): not returned
+
+> ooooo man i'd just love to hack me a gibson
+
+
+---
+
+## 2022-04-06 · Post · Remember the AnySwap (now Multichain) exploit 3 months ago?
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @0xriptide — 2022-04-06 18:28 UTC (2022-04-06 19:28 WAT)
+
+- URL: https://x.com/0xriptide/status/1511772824423350280
+- Metrics (at fetch): not returned
+
+> Remember the AnySwap (now Multichain) exploit 3 months ago?
+>
+> Attacker wallet 0x48e95755d473789e42adbab96334798475f945b3  monitors WETH events for EOAs that have not revoked approvals, calls his exploit contract and drains it all
+>
+> 7k wallets that still have the router approved 🤯 [pic.x.com/kJFaOTKPxx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPrjvKLXsAsVKEz.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FPrkZpiWUAIqizi.jpg — no alt text provided by author
+
+
+---
+
+## 2022-03-23 · Post · @lifiprotocol hack for smoothbrains like me:
+
+
+### Post — @0xriptide — 2022-03-23 17:48 UTC (2022-03-23 18:48 WAT)
+
+- URL: https://x.com/0xriptide/status/1506689305309241345
+- Metrics (at fetch): not returned
+
+> @lifiprotocol hack for smoothbrains like me:
+>
+> 1) attacker calls lifi Diamond proxy w/ 0x01c0a31a function selector &amp; malicious _swapData payload
+>
+> 2) triggers proxy fallback since function is unknown and locates facet which contains function (normal operation for diamond contract)
 
 
 ---
