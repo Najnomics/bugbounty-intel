@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 51
-- Conversations/threads: 41
-- Oldest post captured: 2025-12-04
+- Posts in this file: 56
+- Conversations/threads: 46
+- Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
 
@@ -683,6 +683,37 @@ Tags (automatic): RCE, AI-assisted hunting
 
 ---
 
+## 2026-01-16 · Reply · @assetnote / @SLCyberSec has two nominations this year! Novel SQL Injection Technique in PDO Prepare
+
+
+Tags (automatic): SQL injection, SSRF
+
+
+### Post — @infosec_au — 2026-01-16 08:44 UTC (2026-01-16 09:44 WAT)
+
+- URL: https://x.com/infosec_au/status/2012083648057749875
+- Metrics (at fetch): not returned
+
+> @assetnote / @SLCyberSec has two nominations this year! Novel SQL Injection Technique in PDO Prepared Statements &amp; Novel SSRF Technique Involving HTTP Redirect Loops. Both are research pieces that come directly from our experience breaking software. Links in comments! https://twitter.com/PortSwiggerRes/status/2011822850626204152
+
+**Links in post:** https://twitter.com/PortSwiggerRes/status/2011822850626204152
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1177545689460592640 — 2026-01-15 15:28 UTC (2026-01-15 16:28 WAT)
+    
+    - URL: https://x.com/1177545689460592640/status/2011822850626204152
+    - Metrics (at fetch): not returned
+    
+    > Voting is now live for the top ten web hacking techniques of 2025! Grab a coffee, browse the 61 quality nominations and cast your vote on the most creative and ground-breaking techniques:
+    > https://portswigger.net/polls/top-10-web-hacking-techniques-2025
+    
+    **Links in post:** https://portswigger.net/polls/top-10-web-hacking-techniques-2025
+    
+
+
+---
+
 ## 2025-12-18 · Post · Great blog from @elttam's team diving into the ORM leak vulnerability class! I don't see many other 
 
 
@@ -797,3 +828,74 @@ Tags (automatic): RCE
 > Our Security Research team at @SLCyberSec just published a high-fidelity detection mechanism for the Next.js/RSC RCE (CVE-2025-55182 &amp; CVE-2025-66478) - https://slcyber.io/research-center/high-fidelity-detection-mechanism-for-rsc-next-js-rce-cve-2025-55182-cve-2025-66478/. There are a lot of PoCs on GitHub that are adding noise to the problem; I hope this helps people!
 
 **Links in post:** https://slcyber.io/research-center/high-fidelity-detection-mechanism-for-rsc-next-js-rce-cve-2025-55182-cve-2025-66478/
+
+
+---
+
+## 2025-11-20 · Post · Oracle Cloud was breached in Jan 2025 through vulns in Oracle Access Manager. @SLCyberSec's Research
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2025-11-20 03:11 UTC (2025-11-20 04:11 WAT)
+
+- URL: https://x.com/infosec_au/status/1991343649427431883
+- Metrics (at fetch): not returned
+
+> Oracle Cloud was breached in Jan 2025 through vulns in Oracle Access Manager. @SLCyberSec's Research team found a new pre-auth RCE vulnerability in Oracle Identity Manager (CVE-2025-61757). This is a critical vulnerability and is trivial to exploit. https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/ [pic.x.com/OHxacKZFbN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6KsZLfaoAAh5hu.jpg — no alt text provided by author
+
+**Links in post:** https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/
+
+
+---
+
+## 2025-10-22 · Post · As a homage to the work of @Blaklis_, our Security Researcher @softpoison_ debuts his first research
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @infosec_au — 2025-10-22 05:51 UTC (2025-10-22 06:51 WAT)
+
+- URL: https://x.com/infosec_au/status/1980874707886043340
+- Metrics (at fetch): bookmark 84, impression 19267, like 179, quote 1, reply 7, retweet 44
+
+> As a homage to the work of @Blaklis_, our Security Researcher @softpoison_ debuts his first research post on reverse engineering a critical unauthenticated RCE in Magento (SessionReaper) CVE-2025-54236 at @SLCyberSec: https://t.co/VcKSXGZmCY
+
+
+---
+
+## 2025-09-03 · Post · My favourite finding from @SLCyberSec's Security Research team in 2025 so far is a secondary context
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2025-09-03 10:29 UTC (2025-09-03 11:29 WAT)
+
+- URL: https://x.com/infosec_au/status/1963187704277107024
+- Metrics (at fetch): bookmark 103, impression 14383, like 193, quote 0, reply 3, retweet 46
+
+> My favourite finding from @SLCyberSec's Security Research team in 2025 so far is a secondary context path traversal in Omnissa Workspace One UEM (CVE-2025-25231). Really interesting bug, and fun kill chain to RCE. https://t.co/UoIVm2DazJ
+
+
+---
+
+## 2021-01-14 · Post · Recently @Rhynorater sparked a discussion about exploiting blind SSRFs. At @assetnote, we've collect
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2021-01-14 20:33 UTC (2021-01-14 21:33 WAT)
+
+- URL: https://x.com/infosec_au/status/1349817057873850368
+- Metrics (at fetch): not returned
+
+> Recently @Rhynorater sparked a discussion about exploiting blind SSRFs. At @assetnote, we've collected some information together and have created a Glossary of Blind SSRF Chains which can be found here: https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/ - we hope people can use it as a reference!
+
+**Links in post:** https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/

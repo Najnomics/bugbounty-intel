@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 36
-- Conversations/threads: 31
-- Oldest post captured: 2026-09-23
+- Posts in this file: 51
+- Conversations/threads: 46
+- Oldest post captured: 2026-05-19
 - Newest post captured: 2026-11-10
 
 
@@ -688,3 +688,375 @@ Tags (automatic): AI-assisted hunting
 > #YSoNet #AppSec
 
 **Links in post:** https://ysonet.com
+
+
+---
+
+## 2026-08-19 · Post · ▶️ https://t.co/89ZaEHDPLE now plays video.
+
+
+### Post — @irsdl — 2026-08-19 18:56 UTC (2026-08-19 19:56 WAT)
+
+- URL: https://x.com/irsdl/status/2090150924673073230
+- Metrics (at fetch): bookmark 72, impression 4355, like 94, quote 0, reply 1, retweet 17
+
+> ▶️ https://t.co/89ZaEHDPLE now plays video.
+>
+> 297 archived techniques so far  carry the talk behind the research. 236 play inside the record.
+>
+> Read the paper. Watch the author.
+> https://t.co/89ZaEHDPLE https://t.co/G7WA5OYWAv
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2026-08-14 · Post · Thank you @sinsinology for sponsoring me on @github!
+
+
+### Post — @irsdl — 2026-08-14 11:55 UTC (2026-08-14 12:55 WAT)
+
+- URL: https://x.com/irsdl/status/2088233130264051823
+- Metrics (at fetch): bookmark 4, impression 8526, like 29, quote 1, reply 1, retweet 2
+
+> Thank you @sinsinology for sponsoring me on @github!
+> He has been really generous 👑
+>
+> The sponsors enable me to spend more tokens and deliver faster results!
+>
+> https://t.co/NERcBm6Z7x new version is coming next week with some new and/or improved gadgets + it has all the references https://t.co/UBnyJsiJCc
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2026-08-13 · Post · This is probably going to bite me, but I have added a 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-08-13 10:36 UTC (2026-08-13 11:36 WAT)
+
+- URL: https://x.com/irsdl/status/2087850687220552164
+- Metrics (at fetch): bookmark 7, impression 2920, like 16, quote 0, reply 1, retweet 0
+
+> This is probably going to bite me, but I have added a 
+> button to submit a research link. Feel free to judge it using the provided AI skill yourself.
+>
+> Thanks to @nahsra, we have the authors displayed too.
+>
+> #AppSec #Top10List https://t.co/SQNkCLpFab https://t.co/CL4ICpgc0x
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPmH4BjWAAA9qoz.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HPmJEXyX0AAgmpW.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2026-08-10 12:16 UTC (2026-08-10 13:16 WAT)
+    
+    - URL: https://x.com/irsdl/status/2086788830581977164
+    - Metrics (at fetch): bookmark 74, impression 12889, like 100, quote 2, reply 10, retweet 26
+    
+    > The blog that hosted the 2011 to 2015 Top 10 Web Hacking Techniques lists is gone. So are hundreds of the articles those lists cite.
+    >
+    > I rebuilt all of it. Every nominee since 2006, all 1,136 of them, plus 351 more the nomination rounds missed.
+    >
+    > https://t.co/89ZaEHDPLE https://t.co/hCVqtw5ytr
+    
+    **Media:**
+    - media `13_2086785362618200064` (details not returned by the API)
+    
+
+
+---
+
+## 2026-08-11 · Post · This came from an interesting experiment.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-08-11 21:33 UTC (2026-08-11 22:33 WAT)
+
+- URL: https://x.com/irsdl/status/2087291279889531281
+- Metrics (at fetch): bookmark 19, impression 2602, like 25, quote 0, reply 1, retweet 3
+
+> This came from an interesting experiment.
+>
+> I gave Opus 4.8 my original Cookieless DuoDrop article and asked it to find a bypass. It found one. 🤔
+>
+> Makes me wonder how many older security fixes are worth revisiting with modern AI-assisted research. https://t.co/Ew8aYlL5xi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2026-08-11 20:46 UTC (2026-08-11 21:46 WAT)
+    
+    - URL: https://x.com/irsdl/status/2087279465479245886
+    - Metrics (at fetch): bookmark 23, impression 5721, like 50, quote 1, reply 0, retweet 8
+    
+    > A URL-encoded ASP .NET Cookieless marker could partially bypass the CVE-2023-36899 fix and cross IIS application boundaries. https://t.co/99bfwV8PV2
+    
+
+
+---
+
+## 2026-08-11 · Post · A URL-encoded ASP .NET Cookieless marker could partially bypass the CVE-2023-36899 fix and cross IIS
+
+
+### Post — @irsdl — 2026-08-11 20:46 UTC (2026-08-11 21:46 WAT)
+
+- URL: https://x.com/irsdl/status/2087279465479245886
+- Metrics (at fetch): bookmark 23, impression 5721, like 50, quote 1, reply 0, retweet 8
+
+> A URL-encoded ASP .NET Cookieless marker could partially bypass the CVE-2023-36899 fix and cross IIS application boundaries. https://t.co/99bfwV8PV2
+
+
+---
+
+## 2026-08-10 · Post · The blog that hosted the 2011 to 2015 Top 10 Web Hacking Techniques lists is gone. So are hundreds o
+
+
+### Post — @irsdl — 2026-08-10 12:16 UTC (2026-08-10 13:16 WAT)
+
+- URL: https://x.com/irsdl/status/2086788830581977164
+- Metrics (at fetch): bookmark 74, impression 12889, like 100, quote 2, reply 10, retweet 26
+
+> The blog that hosted the 2011 to 2015 Top 10 Web Hacking Techniques lists is gone. So are hundreds of the articles those lists cite.
+>
+> I rebuilt all of it. Every nominee since 2006, all 1,136 of them, plus 351 more the nomination rounds missed.
+>
+> https://t.co/89ZaEHDPLE https://t.co/hCVqtw5ytr
+
+**Media:**
+- media `13_2086785362618200064` (details not returned by the API)
+
+
+---
+
+## 2026-08-08 · Post · The new YSoNet will have fantastic new features. It also includes ALL "public" research in MD format
+
+
+### Post — @irsdl — 2026-08-08 17:27 UTC (2026-08-08 18:27 WAT)
+
+- URL: https://x.com/irsdl/status/2086142312585760773
+- Metrics (at fetch): bookmark 2, impression 1132, like 23, quote 0, reply 0, retweet 1
+
+> The new YSoNet will have fantastic new features. It also includes ALL "public" research in MD format which can then be used for future research too.
+> There are new gadgets but most importantly support for older .NET Framework has been added so no need to download another repo.
+
+
+---
+
+## 2026-07-29 · Post · YSoNet v2026.7.9 is out 🎉
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2026-07-29 19:08 UTC (2026-07-29 20:08 WAT)
+
+- URL: https://x.com/irsdl/status/2082543892352704990
+- Metrics (at fetch): not returned
+
+> YSoNet v2026.7.9 is out 🎉
+>
+> 31 → 50 gadgets
+> 54 → 88 variants
+> 118 → 235 gadget/serializer combinations across 17 serializers
+>
+> 🆕 NEW GADGETS WORTH KNOWING
+>
+> ▸ DataTable + DataTableTypeSpoof
+>
+> Same-graph DataTable root carrier for RCE. No nested BinaryFormatter or extra binder boundary. TypeSpoof emits a real DataTable subclass, so blocking only the exact DataTable wire name may not prevent reconstruction.
+>
+> ▸ TypeConfuseDelegateFileOperations
+>
+> Five delegate-confusion variants for writing, copying, moving and truncating files. No child process, compiler or WPF required.
+>
+> ▸ AssemblyInstallerLoad
+>
+> Loads a specified DLL from a local or UNC path and instantiates [RunInstaller(true)] installer types. Supported by nine serializers.
+>
+> ▸ DynamicUpdateMapExtension
+>
+> Passes x:XData to NetDataContractSerializer without a binder, allowing a XAML-only sink to carry an NDCS gadget.
+>
+> 🔧 NOTABLE UPDATES
+>
+> ▸ TypeConfuseDelegate now supports SortedDictionary and TreeSet roots, useful for testing blocklists that match only the exact SortedSet wire name.
+>
+> ▸ WindowsIdentity and WindowsClaimsIdentity can carry the inner BinaryFormatter graph through actor, bootstrapContext, claims or WIF’s _actor sink. Variant numbering is now aligned across both gadgets and all serializers.
+>
+> 🔗 https://github.com/irsdl/ysonet
+>
+> http://ysonet.com | http://ysonet.net
+>
+> #AppSec #YSoNet
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOaldcyWoAAwdyK.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/irsdl/ysonet, http://ysonet.com, http://ysonet.net
+
+
+---
+
+## 2026-07-16 · Post · YSoNet now supports interactive mode + autocomplete in PowerShell. 
+
+
+### Post — @irsdl — 2026-07-16 21:41 UTC (2026-07-16 22:41 WAT)
+
+- URL: https://x.com/irsdl/status/2077871197090377768
+- Metrics (at fetch): not returned
+
+> YSoNet now supports interactive mode + autocomplete in PowerShell. 
+> String obfuscation has also been added to GitHub builds to reduce false detections, alongside several bug fixes.
+>
+> Enjoy, and contributions are always welcome!
+>
+> http://ysonet.net | http://ysonet.com [pic.x.com/10JKVNIVDz]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2077870156659728386/img/My3dAKrWUhycBVn2.jpg — no alt text provided by author
+
+**Links in post:** http://ysonet.net, http://ysonet.com
+
+
+---
+
+## 2026-07-15 · Post · I’ve finally updated Sharpener for BurpSuite.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-07-15 23:50 UTC (2026-07-16 00:50 WAT)
+
+- URL: https://x.com/irsdl/status/2077541448765833421
+- Metrics (at fetch): bookmark 19, impression 4776, like 48, quote 0, reply 2, retweet 8
+
+> I’ve finally updated Sharpener for #BurpSuite.
+>
+> With fully automated AI-powered coding and UI testing, this release includes major bug fixes, better stability, and significantly improved memory handling.
+>
+> Link in the comments. https://t.co/mclTJphadP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNTo73AXwAAkpuB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HNTo73AXMAAqTsW.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-15 · Post · It might just be me but I gave bunch of these July 2026 MS patches to Opus4.8 to analyse, and it cla
+
+
+### Post — @irsdl — 2026-07-15 11:19 UTC (2026-07-15 12:19 WAT)
+
+- URL: https://x.com/irsdl/status/2077352462327988627
+- Metrics (at fetch): bookmark 1, impression 1247, like 6, quote 0, reply 0, retweet 2
+
+> It might just be me but I gave bunch of these July 2026 MS patches to Opus4.8 to analyse, and it claims it has found bypass for the patches! I also think August patch is going to be as big too.
+
+
+---
+
+## 2026-06-10 · Post · Analysis of CVE-2026-45595 Mark of the Web (MOTW) Issue by Opus 4.8 in 12 minutes: https://t.co/aKjV
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-06-10 21:43 UTC (2026-06-10 22:43 WAT)
+
+- URL: https://x.com/irsdl/status/2064825752923640155
+- Metrics (at fetch): bookmark 28, impression 5138, like 40, quote 0, reply 0, retweet 14
+
+> Analysis of CVE-2026-45595 Mark of the Web (MOTW) Issue by Opus 4.8 in 12 minutes: https://t.co/aKjV2jz4LE
+> I admit, I am not 100% sure this is correct but looks promising!
+>
+> Opus 4.8 is capable in reversing, we then ask Fable 5 to find a bypass! 
+>
+> #NDay #AI #MSRC
+
+
+---
+
+## 2026-06-01 · Post · Here is a simple XSS challenge based on one of the reported bugs:
+
+
+Tags (automatic): XSS
+
+
+### Post — @irsdl — 2026-06-01 16:54 UTC (2026-06-01 17:54 WAT)
+
+- URL: https://x.com/irsdl/status/2061491661423706576
+- Metrics (at fetch): bookmark 26, impression 3712, like 35, quote 0, reply 1, retweet 6
+
+> Here is a simple #XSS challenge based on one of the reported bugs:
+>
+> https://t.co/TgOuanasH8
+>
+> #Challenge https://t.co/dhCqrMZTGe
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2026-06-01 16:06 UTC (2026-06-01 17:06 WAT)
+    
+    - URL: https://x.com/irsdl/status/2061479518187991371
+    - Metrics (at fetch): bookmark 21, impression 9173, like 69, quote 1, reply 2, retweet 10
+    
+    > Reported several client-side vulns in https://t.co/porY2Kzls8 via GitHub’s security reporting process. They were patched, but we received no credit and no advisories were published.
+    >
+    > Response: “If people stop reporting … then we have to live with that.”
+    >
+    > Discouraging indeed. https://t.co/omqBSYbGp3
+    
+    **Media:**
+    - media `3_2061476349013843968` (details not returned by the API)
+    - media `3_2061476816628391937` (details not returned by the API)
+    - media `3_2061477041891840000` (details not returned by the API)
+    
+
+
+---
+
+## 2026-06-01 · Post · Reported several client-side vulns in https://t.co/porY2Kzls8 via GitHub’s security reporting proces
+
+
+### Post — @irsdl — 2026-06-01 16:06 UTC (2026-06-01 17:06 WAT)
+
+- URL: https://x.com/irsdl/status/2061479518187991371
+- Metrics (at fetch): bookmark 21, impression 9173, like 69, quote 1, reply 2, retweet 10
+
+> Reported several client-side vulns in https://t.co/porY2Kzls8 via GitHub’s security reporting process. They were patched, but we received no credit and no advisories were published.
+>
+> Response: “If people stop reporting … then we have to live with that.”
+>
+> Discouraging indeed. https://t.co/omqBSYbGp3
+
+**Media:**
+- media `3_2061476349013843968` (details not returned by the API)
+- media `3_2061476816628391937` (details not returned by the API)
+- media `3_2061477041891840000` (details not returned by the API)
+
+
+---
+
+## 2026-05-19 · Post · Reported an important .NET Framework bug to MS but it is outside of bug bounty scope. I guess .NET F
+
+
+### Post — @irsdl — 2026-05-19 23:18 UTC (2026-05-20 00:18 WAT)
+
+- URL: https://x.com/irsdl/status/2056877175790350442
+- Metrics (at fetch): bookmark 1, impression 2291, like 12, quote 0, reply 1, retweet 0
+
+> Reported an important .NET Framework bug to MS but it is outside of bug bounty scope. I guess .NET Framework apps won't receive much love anymore.
+> Not sure how I feel about reporting similar issues in the future. I guess many people do keep them to themselves now.

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 28
-- Conversations/threads: 22
+- Posts in this file: 32
+- Conversations/threads: 26
 - Oldest post captured: 2023-10-05
 - Newest post captured: 2025-06-17
 
@@ -390,6 +390,23 @@ Tags (automatic): ZK
 
 ---
 
+## 2024-07-05 · Post · i'm trying to generate a zk proof using @axiom_xyz open source circuits for an ethereum storage proo
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2024-07-05 18:34 UTC (2024-07-05 19:34 WAT)
+
+- URL: https://x.com/0xteddav/status/1809294709325754620
+- Metrics (at fetch): bookmark 0, impression 752, like 6, quote 0, reply 0, retweet 2
+
+> i'm trying to generate a zk proof using @axiom_xyz open source circuits for an ethereum storage proof but it's not working... if anybody can help, pls lmk
+> https://t.co/X5GbbRC33w
+
+
+---
+
 ## 2024-06-18 · Post · I merged my first PR in Halo2!! 🥳
 
 
@@ -435,6 +452,48 @@ Tags (automatic): ZK
 
 > You want to build a new ZK app? I made a simple Halo2 (@zcash @PrivacyScaling) template to get you started. Just clone the repo, and follow the readme!
 > https://t.co/mBeVZxYmvp
+
+
+---
+
+## 2024-02-09 · Post · thanks @portport255, the zk king 🙌 https://twitter.com/portport255/status/1755894717248946359
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2024-02-09 10:26 UTC (2024-02-09 11:26 WAT)
+
+- URL: https://x.com/0xteddav/status/1755900886486769818
+- Metrics (at fetch): not returned
+
+> thanks @portport255, the zk king 🙌 https://twitter.com/portport255/status/1755894717248946359
+
+**Links in post:** https://twitter.com/portport255/status/1755894717248946359
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2811767916 — 2024-02-09 10:01 UTC (2024-02-09 11:01 WAT)
+    
+    - URL: https://x.com/2811767916/status/1755894717248946359
+    - Metrics (at fetch): not returned
+    
+    > Check this out :) https://twitter.com/0xteddav/status/1755889946806689959
+    
+    **Links in post:** https://twitter.com/0xteddav/status/1755889946806689959
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @0xteddav — 2024-02-09 09:42 UTC (2024-02-09 10:42 WAT)
+        
+        - URL: https://x.com/0xteddav/status/1755889946806689959
+        - Metrics (at fetch): bookmark 132, impression 16341, like 185, quote 3, reply 8, retweet 28
+        
+        > You want to learn ZK? Come with me and dive into @TornadoCash and Halo2 (@zcash @PrivacyScaling). We rewrite the Tornado circuits (originally in circom) with halo2 🤯 No need to know how Tornado works, I'll explain it! https://dev.to/teddav/tornado-cash-with-halo2-62b
+        
+        **Links in post:** https://dev.to/teddav/tornado-cash-with-halo2-62b
+        
+    
 
 
 ---
@@ -492,6 +551,46 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 0, impression 905, like 6, quote 0, reply 0, retweet 1
 
 > The best resource for me to learn #cryptography basics was to solve some crypto challenges on @CryptoHack__ . Great platform! It helped me a lot to understand elliptic curve cryptography. And they have a great community on discord to discuss and answer questions
+
+
+---
+
+## 2023-10-10 · Post · if you're learning ZK and cryptography and you don't understand elliptic curves @KoalateeCtrl and 
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2023-10-10 15:33 UTC (2023-10-10 16:33 WAT)
+
+- URL: https://x.com/0xteddav/status/1711766800898171136
+- Metrics (at fetch): not returned
+
+> if you're learning #ZK and #cryptography and you don't understand elliptic curves @KoalateeCtrl and @OpenZeppelin made some great videos about it 
+> https://www.youtube.com/watch?v=VsYqcOhwtCI
+
+**Links in post:** https://www.youtube.com/watch?v=VsYqcOhwtCI
+
+
+---
+
+## 2023-10-09 · Post · I just solved the @RareSkills_io ZK puzzles 🧩
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2023-10-09 09:28 UTC (2023-10-09 10:28 WAT)
+
+- URL: https://x.com/0xteddav/status/1711312636262961222
+- Metrics (at fetch): not returned
+
+> I just solved the @RareSkills_io ZK puzzles 🧩
+> Let me know if I made any mistake 😅
+> Thanks @supernovahs444 and @tanim0la 
+> https://github.com/teddav/zero-knowledge-puzzles
+
+**Links in post:** https://github.com/teddav/zero-knowledge-puzzles
 
 
 ---

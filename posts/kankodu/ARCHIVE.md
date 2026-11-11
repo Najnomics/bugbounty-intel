@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 71
-- Oldest post captured: 2023-07-29
+- Posts in this file: 82
+- Conversations/threads: 82
+- Oldest post captured: 2022-07-26
 - Newest post captured: 2026-11-08
 
 
@@ -1320,3 +1320,234 @@ Tags (automatic): Platform: Immunefi
 
 > A bug that was supposed to be only a good thought experiment inadvertently ended up making me $33.5k.
 > Here are the details 🧵:
+
+
+---
+
+## 2023-07-04 · Post · Some bugs exist for which you cannot attach a specific number and say, "this is how much would have 
+
+
+### Post — @kankodu — 2023-07-04 15:48 UTC (2023-07-04 16:48 WAT)
+
+- URL: https://x.com/kankodu/status/1676256606110224384
+- Metrics (at fetch): not returned
+
+> Some bugs exist for which you cannot attach a specific number and say, "this is how much would have been at risk."
+>
+> Here's what I wish I had known before the discussion about such a bug concluded, with the project paying me approximately $300k.
+>
+> A short thread 🧵:
+
+
+---
+
+## 2023-06-16 · Post · On April 28th, I discovered a bug in Silo Finance's codebase. It was swiftly rectified, with the pro
+
+
+### Post — @kankodu — 2023-06-16 22:26 UTC (2023-06-16 23:26 WAT)
+
+- URL: https://x.com/kankodu/status/1669833829203476480
+- Metrics (at fetch): not returned
+
+> On April 28th, I discovered a bug in Silo Finance's codebase. It was swiftly rectified, with the project awarding me $100k. Here's a detailed thread on the thought process that led to the bug's discovery.
+>
+> A long thread 🧵:
+
+
+---
+
+## 2023-04-19 · Post · Be me
+
+
+### Post — @kankodu — 2023-04-19 15:55 UTC (2023-04-19 16:55 WAT)
+
+- URL: https://x.com/kankodu/status/1648716908529848321
+- Metrics (at fetch): not returned
+
+> Be me
+> &gt; Find a critical at the start of every month in 2023
+> &gt; Jan - 20k payout 
+> &gt; Feb - 35k + 5k
+> &gt; March - Biggest bug bounty I’ve ever received
+> &gt; April - 12k + ??
+>
+> Profit ???
+
+
+---
+
+## 2023-04-16 · Post · To all the Compound forks, send 1000 Wei of cTokens to a dead address to make this attack economical
+
+
+### Post — @kankodu — 2023-04-16 01:17 UTC (2023-04-16 02:17 WAT)
+
+- URL: https://x.com/kankodu/status/1647408860569780225
+- Metrics (at fetch): not returned
+
+> To all the Compound forks, send 1000 Wei of cTokens to a dead address to make this attack economically infeasible. https://t.co/uMksaS9KQ8
+
+**Links in post:** https://t.co/uMksaS9KQ8
+
+**Quoted post** 1647401085412446209: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-02-03 · Post · This is a really good tip! 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @kankodu — 2023-02-03 06:38 UTC (2023-02-03 07:38 WAT)
+
+- URL: https://x.com/kankodu/status/1621397698124423168
+- Metrics (at fetch): not returned
+
+> This is a really good tip! 
+> One more advantage of thinking in bug classes is that they are universal. I don't have expertise outside of Solidity, yet I've reported bugs in Vyper, Rust, and more recently in Move smart contracts while searching for a specific bug pattern. https://twitter.com/TrustSecAudits/status/1618186163235475458
+
+**Links in post:** https://twitter.com/TrustSecAudits/status/1618186163235475458
+
+**Quoted post (full text):**
+
+    #### Quoted post — @TrustSecAudits — 2023-01-25 09:57 UTC (2023-01-25 10:57 WAT)
+    
+    - URL: https://x.com/TrustSecAudits/status/1618186163235475458
+    - Metrics (at fetch): not returned
+    
+    > (1/3)
+    > auditing alpha tip #2:
+    > Don't think bugs, think bug classes
+    >
+    > Bugs aren't interesting. They are the result of a very specific mutation in a particular codebase which in all likelihood will not repeat in that exact way. [pic.x.com/leHIsIllu9]
+    
+    **Media:**
+    - media `3_1618185511985725440` (details not returned by the API)
+    
+
+
+---
+
+## 2023-01-11 · Post · Watch as I strive to maintain my position among the top 20 @immunefi  whitehat hackers on the leader
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @kankodu — 2023-01-11 10:02 UTC (2023-01-11 11:02 WAT)
+
+- URL: https://x.com/kankodu/status/1613114006868205569
+- Metrics (at fetch): not returned
+
+> Watch as I strive to maintain my position among the top 20 @immunefi  whitehat hackers on the leaderboard in this live footage! [pic.x.com/zQdc87qHu9]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2023-01-01 · Post · 2022: The journey from reporting my first bug on @immunefi to being ranked 19 on the WhiteHat leade
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @kankodu — 2023-01-01 04:33 UTC (2023-01-01 05:33 WAT)
+
+- URL: https://x.com/kankodu/status/1609407360602378241
+- Metrics (at fetch): not returned
+
+> 2022: The journey from reporting my first bug on @immunefi to being ranked #19 on the WhiteHat leaderboard was very exciting! 
+> Feeling very grateful 😇
+
+
+---
+
+## 2022-11-22 · Post · In top 3 for @golom_io 's @code4rena audit !!
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @kankodu — 2022-11-22 08:03 UTC (2022-11-22 09:03 WAT)
+
+- URL: https://x.com/kankodu/status/1594964780108124160
+- Metrics (at fetch): not returned
+
+> In top 3 for @golom_io 's @code4rena audit !!
+> Full report coming soon ... [pic.x.com/w5D7DUZhoA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiJzegzaAAE6SdF.png — no alt text provided by author
+
+
+---
+
+## 2022-11-05 · Post · 19. Nice! Wen Immunefi merch? https://twitter.com/immunefi/status/1588489884939223042
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @kankodu — 2022-11-05 03:10 UTC (2022-11-05 04:10 WAT)
+
+- URL: https://x.com/kankodu/status/1588730413832634373
+- Metrics (at fetch): not returned
+
+> #19. Nice! Wen Immunefi merch? https://twitter.com/immunefi/status/1588489884939223042
+
+**Links in post:** https://twitter.com/immunefi/status/1588489884939223042
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2022-11-04 11:14 UTC (2022-11-04 12:14 WAT)
+    
+    - URL: https://x.com/immunefi/status/1588489884939223042
+    - Metrics (at fetch): not returned
+    
+    > We’re proud to release the Immunefi Whitehat Leaderboard showing the top 20 whitehats in web3! 
+    >
+    > Whitehats who earn their spot through genius and hard work are eligible for further rewards, exclusive merch, paid trips, speaking opportunities, and more. 
+    >
+    > https://immunefi.com/leaderboard [pic.x.com/rU7SdURzZz]
+    
+    **Media:**
+    - media `3_1588487166916714496` (details not returned by the API)
+    
+    **Links in post:** https://immunefi.com/leaderboard
+    
+
+
+---
+
+## 2022-09-22 · Post · I finally found a bug worthy of this legendary title!! [pic.x.com/ytS3KDfo2Q]
+
+
+### Post — @kankodu — 2022-09-22 15:27 UTC (2022-09-22 16:27 WAT)
+
+- URL: https://x.com/kankodu/status/1572970965042339840
+- Metrics (at fetch): not returned
+
+> I finally found a bug worthy of this legendary title!! [pic.x.com/ytS3KDfo2Q]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FdRQulwakAMAtPM.jpg — alt text: "Immunefi bug report screenshot"
+
+
+---
+
+## 2022-07-26 · Post · Really happy with how @yield team handled this bug report! https://twitter.com/yield/status/15451198
+
+
+### Post — @kankodu — 2022-07-26 09:25 UTC (2022-07-26 10:25 WAT)
+
+- URL: https://x.com/kankodu/status/1551861199897505793
+- Metrics (at fetch): not returned
+
+> Really happy with how @yield team handled this bug report! https://twitter.com/yield/status/1545119888309567489
+
+**Links in post:** https://twitter.com/yield/status/1545119888309567489
+
+**Quoted post** 1545119888309567489: not readable via the API (deleted, private, or withheld).

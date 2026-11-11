@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 53
-- Conversations/threads: 45
-- Oldest post captured: 2025-03-24
+- Posts in this file: 72
+- Conversations/threads: 64
+- Oldest post captured: 2022-09-30
 - Newest post captured: 2026-11-04
 
 
@@ -947,3 +947,369 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/TheAtlantic/status/1904205971779408052
 
 **Quoted post** 1904205971779408052: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-12-13 · Post · security researcher:
+
+
+### Post — @samczsun — 2023-12-13 23:46 UTC (2023-12-14 00:46 WAT)
+
+- URL: https://x.com/samczsun/status/1735083861779079169
+- Metrics (at fetch): not returned
+
+> security researcher:
+> - too formal
+> - mouthful to say
+> - have fun working your 9-5
+>
+> hunter:
+> - cool as fuck
+> - rolls right off the tongue
+> - plot armor guarantees critical findings
+>
+> the choice is obvious (pic unrelated) [pic.x.com/wAIjxtqLtM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBRBk9faIAA5pKG.jpg — alt text: "you, finding a bunch of crits or something"
+
+
+---
+
+## 2023-12-13 · Post · I'm all for responsible disclosure but if the timeline is correct, this is a pretty ridiculous overr
+
+
+Tags (automatic): XSS, Memory corruption / native
+
+
+### Post — @samczsun — 2023-12-13 16:11 UTC (2023-12-13 17:11 WAT)
+
+- URL: https://x.com/samczsun/status/1734969308055503217
+- Metrics (at fetch): not returned
+
+> I'm all for responsible disclosure but if the timeline is correct, this is a pretty ridiculous overreaction given that (1) Twitter didn't fix the bug for over a year and (2) rabbit only made public the XSS, not the full exploit chain
+>
+> Besides, where do they report bugs now? https://twitter.com/rabbit_2333/status/1734881873099379189
+
+**Links in post:** https://twitter.com/rabbit_2333/status/1734881873099379189
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1426614422546518017 — 2023-12-13 10:24 UTC (2023-12-13 11:24 WAT)
+    
+    - URL: https://x.com/1426614422546518017/status/1734881873099379189
+    - Metrics (at fetch): not returned
+    
+    > Thank you twitter [pic.x.com/vQiNx8i8at]
+    
+    **Media:**
+    - media `3_1734881867483209728` (details not returned by the API)
+    - media `3_1734881867504173056` (details not returned by the API)
+    
+
+
+---
+
+## 2023-12-13 · Post · 🚨🚨🚨
+
+
+### Post — @samczsun — 2023-12-13 02:27 UTC (2023-12-13 03:27 WAT)
+
+- URL: https://x.com/samczsun/status/1734761883339801030
+- Metrics (at fetch): not returned
+
+> 🚨🚨🚨
+>
+> There is a critical bug in Twitter that allows hackers to gain full access to your account by simply clicking a link
+>
+> They can tweet, retweet, like, block, etc, except change your password
+>
+> Until it's fixed, protect yourself by installing uBlock Origin
+>
+> h/t @shoucccc
+
+
+---
+
+## 2023-12-06 · Post · In the third installment of the self-audit series, we're going to be taking a look at your Google ac
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @samczsun — 2023-12-06 02:02 UTC (2023-12-06 03:02 WAT)
+
+- URL: https://x.com/samczsun/status/1732218877214629944
+- Metrics (at fetch): not returned
+
+> In the third installment of the self-audit series, we're going to be taking a look at your Google account. Note that this isn't meant to cover data privacy (such as your search/location history) as that could fill an entire textbook.
+>
+> https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec
+
+**Links in post:** https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec
+
+
+---
+
+## 2023-12-02 · Post · By popular demand, here's part two of the self-audit series! Given that everyone in crypto seems to 
+
+
+### Post — @samczsun — 2023-12-02 23:16 UTC (2023-12-03 00:16 WAT)
+
+- URL: https://x.com/samczsun/status/1731089988627083544
+- Metrics (at fetch): not returned
+
+> By popular demand, here's part two of the self-audit series! Given that everyone in crypto seems to use it, you really don't want to lose your Telegram account. The good news is it only takes a couple minutes to protect yourself
+>
+> https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d
+
+**Links in post:** https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d
+
+
+---
+
+## 2023-11-30 · Post · Have heard from multiple projects about a group of "security researchers" going around DDoSing their
+
+
+### Post — @samczsun — 2023-11-30 23:21 UTC (2023-12-01 00:21 WAT)
+
+- URL: https://x.com/samczsun/status/1730366496063512675
+- Metrics (at fetch): not returned
+
+> Have heard from multiple projects about a group of "security researchers" going around DDoSing their websites, pretending it's a critical bug, and extorting the projects for money. Responsible disclosure isn't extortion, and if you're not sure a report is legit, SEAL 911 can help [pic.x.com/V0lW7NPnti]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAN52E-b0AAalx1.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-12 · Post · Had an amazing chat with BlockSec Team on the nuances around attack alerts. We both agreed that, gen
+
+
+### Post — @samczsun — 2023-08-12 17:05 UTC (2023-08-12 18:05 WAT)
+
+- URL: https://x.com/samczsun/status/1690409094077984768
+- Metrics (at fetch): bookmark 12, impression 31037, like 116, quote 2, reply 3, retweet 8
+
+> Had an amazing chat with BlockSec Team on the nuances around attack alerts. We both agreed that, generally, alerts should only contain info users need to take action. However, links or screenshots of the specific tx are typically unnecessary or misleading and so should be avoided https://t.co/HYzO5ccPMH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @BlockSecTeam — 2023-08-12 15:00 UTC (2023-08-12 16:00 WAT)
+    
+    - URL: https://x.com/BlockSecTeam/status/1690377651540942848
+    - Metrics (at fetch): bookmark 9, impression 53496, like 83, quote 5, reply 4, retweet 14
+    
+    > As a blockchain security firm, it’s our natural duty to protect users’ assets and safeguard the web3 world for its long-lasting prosperity. However, recent events have led to discussions about the attack alert rule and procedure. We feel called to stand up and openly share our https://t.co/85qB4vDxmQ
+    
+
+
+---
+
+## 2023-08-07 · Post · Our experimental solution: a Telegram bot which anyone can use during emergencies to get in touch wi
+
+
+### Post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
+
+- URL: https://x.com/samczsun/status/1688613387952074756
+- Metrics (at fetch): not returned
+
+> Our experimental solution: a Telegram bot which anyone can use during emergencies to get in touch with trusted members of the security community and their extensive network of contacts.
+>
+> https://t.me/seal_911_bot
+
+**Links in post:** https://t.me/seal_911_bot
+
+
+---
+
+## 2023-05-25 · Post · sorry but if you're a whitehat and you choose to optimize for bounty amount at the expense of puttin
+
+
+### Post — @samczsun — 2023-05-25 19:12 UTC (2023-05-25 20:12 WAT)
+
+- URL: https://x.com/samczsun/status/1661812570100219906
+- Metrics (at fetch): not returned
+
+> sorry but if you're a whitehat and you choose to optimize for bounty amount at the expense of putting users and their funds at risk then you're not a whitehat
+
+
+---
+
+## 2023-04-10 · Post · thought experiment: how do you responsibly disclose a bug in a smart contract that was either
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2023-04-10 17:29 UTC (2023-04-10 18:29 WAT)
+
+- URL: https://x.com/samczsun/status/1645479181986467840
+- Metrics (at fetch): bookmark 17, impression 77135, like 178, quote 6, reply 44, retweet 19
+
+> thought experiment: how do you responsibly disclose a bug in a smart contract that was either
+> a) deployed anonymously and has no known/reachable devs
+> b) deployed non-anonymously but is immutable and the devs have explicitly stepped back to maintain an arm's length relationship
+
+
+---
+
+## 2023-04-03 · Post · Block 16964664: A user managed to drain five MEV bots by exploiting a bug in mev-boost-relay.
+
+
+### Post — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1642848556590723075
+- Metrics (at fetch): bookmark 578, impression 883881, like 1607, quote 190, reply 61, retweet 471
+
+> Block 16964664: A user managed to drain five MEV bots by exploiting a bug in mev-boost-relay.
+>
+> Here's the block: https://t.co/ruSz8YzAJR
+> Here's the user: https://t.co/VY4gpmX0L8
+> Here's the patch: https://t.co/TPO80i3dz5
+> Here's the longer explanation: https://t.co/NIe2QJxNGE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsyHs7aaUAEabY1.png — no alt text provided by author
+
+
+---
+
+## 2023-03-18 · Post · &gt;ask gpt4 to audit contract
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @samczsun — 2023-03-18 22:43 UTC (2023-03-18 23:43 WAT)
+
+- URL: https://x.com/samczsun/status/1637223103255441408
+- Metrics (at fetch): bookmark 88, impression 115582, like 775, quote 17, reply 20, retweet 69
+
+> &gt;ask gpt4 to audit contract
+> &gt;cant find bug
+> &gt;"you are samczsun"
+> &gt;found the bug
+>
+> it is so over for me https://t.co/oLx2CHoGx5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FriUsVjaIAE6Ymr.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FriVrrEagAA4rVN.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-01 · Post · It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw
+
+
+### Post — @samczsun — 2023-02-01 22:54 UTC (2023-02-01 23:54 WAT)
+
+- URL: https://x.com/samczsun/status/1620918455468982272
+- Metrics (at fetch): bookmark 42, impression 117023, like 375, quote 11, reply 26, retweet 56
+
+> It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw 1 ALBT = 5 billion MATIC now" and Bonq said "ok" https://t.co/WwdYAn9EL4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn6oGkNXoAIQGTW.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fn6ofgHXkAMxiGK.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-28 · Post · new season of attack on titan looks great https://t.co/mzFME9qImL
+
+
+### Post — @samczsun — 2023-01-28 08:44 UTC (2023-01-28 09:44 WAT)
+
+- URL: https://x.com/samczsun/status/1619255000546557953
+- Metrics (at fetch): bookmark 0, impression 22777, like 108, quote 0, reply 11, retweet 2
+
+> new season of attack on titan looks great https://t.co/mzFME9qImL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fni_ywRaIAApzea.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-09 · Post · when im trying to figure out which vpn server will bypass the geoblock https://t.co/0bJPeAycYu
+
+
+### Post — @samczsun — 2023-01-09 22:46 UTC (2023-01-09 23:46 WAT)
+
+- URL: https://x.com/samczsun/status/1612581586733781002
+- Metrics (at fetch): bookmark 16, impression 37692, like 411, quote 1, reply 18, retweet 45
+
+> when im trying to figure out which vpn server will bypass the geoblock https://t.co/0bJPeAycYu
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2022-10-20 · Post · there is a critical bug that is only exploitable when the whitelist is turned off. when do you repor
+
+
+### Post — @samczsun — 2022-10-20 05:34 UTC (2022-10-20 06:34 WAT)
+
+- URL: https://x.com/samczsun/status/1582968356679794688
+- Metrics (at fetch): bookmark 1, impression 0, like 60, quote 0, reply 22, retweet 6
+
+> there is a critical bug that is only exploitable when the whitelist is turned off. when do you report it and why
+
+
+---
+
+## 2022-10-15 · Post · me, exasperated: you can't just call everything a bug bounty
+
+
+### Post — @samczsun — 2022-10-15 20:24 UTC (2022-10-15 21:24 WAT)
+
+- URL: https://x.com/samczsun/status/1581380585959759872
+- Metrics (at fetch): bookmark 6, impression 0, like 518, quote 4, reply 18, retweet 34
+
+> me, exasperated: you can't just call everything a bug bounty
+> the entire fucking community, pointing at what's obviously a bad-faith negotiation after a literal crime has been committed: bug bounty
+
+
+---
+
+## 2022-10-07 · Post · this happens after literally every major hack and someone will inevitably think that just because so
+
+
+### Post — @samczsun — 2022-10-07 03:51 UTC (2022-10-07 04:51 WAT)
+
+- URL: https://x.com/samczsun/status/1578231427463716864
+- Metrics (at fetch): bookmark 32, impression 0, like 333, quote 2, reply 12, retweet 25
+
+> this happens after literally every major hack and someone will inevitably think that just because some random person set a variable called "deployer" to the hacker's address that must mean the hacker was the deployer but no it's just some random grifter https://t.co/06AZsyQpit
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1078392156514070528 — 2022-10-07 02:10 UTC (2022-10-07 03:10 WAT)
+    
+    - URL: https://x.com/1078392156514070528/status/1578206162494685185
+    - Metrics (at fetch): bookmark 340, impression 0, like 1610, quote 133, reply 65, retweet 293
+    
+    > 1/ I saw some shadowy-super-coder supervillian tactics on ETH mainnet after the $600 million BNB hack. A few minutes after the initial hack, the hacker created a BNBHACKERINU token and rugged it two hours later
+    
+
+
+---
+
+## 2022-09-30 · Post · exploring the nomad hack https://t.co/7lZ1fOcRlL
+
+
+### Post — @samczsun — 2022-09-30 03:50 UTC (2022-09-30 04:50 WAT)
+
+- URL: https://x.com/samczsun/status/1575694525229432833
+- Metrics (at fetch): bookmark 74, impression 0, like 345, quote 2, reply 13, retweet 26
+
+> exploring the nomad hack https://t.co/7lZ1fOcRlL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fd39p4UVQAEueJm.png — no alt text provided by author

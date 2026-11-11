@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 54
-- Conversations/threads: 54
+- Posts in this file: 77
+- Conversations/threads: 77
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -886,6 +886,75 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-07-01 · Post · "The future is AI writing its own tests, code, reviewing and fixing its own bugs. Humans won't even 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-07-01 18:38 UTC (2026-07-01 19:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2072389519861858753
+- Metrics (at fetch): bookmark 19, impression 3379, like 66, quote 1, reply 9, retweet 7
+
+> "The future is AI writing its own tests, code, reviewing and fixing its own bugs. Humans won't even need to look at the code."
+>
+> Reality: The universal failure mode for LLMs is confidently giving you the wrong answer for a % of the queries -- not random, recoverable failures, but
+
+
+---
+
+## 2026-06-24 · Post · The true frontier for LLM isn’t doing more impressive feats.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-06-24 18:31 UTC (2026-06-24 19:31 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2069850895463182768
+- Metrics (at fetch): bookmark 12, impression 2382, like 48, quote 0, reply 5, retweet 3
+
+> The true frontier for LLM isn’t doing more impressive feats.
+>
+> It’s doing simple things reliably and cost-effectively.
+>
+> What things can you *reliably* outsource to an LLM that will cost less than doing it yourself, and you can’t just write a script to do it?
+>
+> That’s the true
+
+
+---
+
+## 2026-06-13 · Post · Sorry guys. No Mythos bug bounty windfall for most of us 😭😭😭😭😭😭😭
+
+
+### Post — @lonelysloth_sec — 2026-06-13 01:14 UTC (2026-06-13 02:14 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2065603775885418808
+- Metrics (at fetch): bookmark 4, impression 3341, like 52, quote 0, reply 3, retweet 0
+
+> Sorry guys. No Mythos bug bounty windfall for most of us 😭😭😭😭😭😭😭
+>
+> Only Opus duplicates for now. 🤣🤣🤣🤣🤣 https://t.co/bn0CaEer1i
+
+**Quoted post (full text):**
+
+    #### Quoted post — @90077282 — 2026-06-13 00:01 UTC (2026-06-13 01:01 WAT)
+    
+    - URL: https://x.com/90077282/status/2065585277540688011
+    - Metrics (at fetch): bookmark 75, impression 554530, like 284, quote 34, reply 16, retweet 44
+    
+    > NEWS: The Trump administration is blocking foreign governments, companies and individuals from accessing Anthropic's most advanced AI models
+    >
+    > W/@m_ccuri 
+    >
+    > https://t.co/SPaFANvJJX
+    
+
+
+---
+
 ## 2026-06-12 · Post · @asen_sec @immunefi Still finding bugs
 
 
@@ -898,6 +967,187 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 0, impression 239, like 9, quote 0, reply 1, retweet 0
 
 > @asen_sec @immunefi Still finding bugs
+
+
+---
+
+## 2026-06-09 · Post · If they can nerf LLM research and security, they can nerf whatever you use the model for.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-06-09 18:30 UTC (2026-06-09 19:30 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2064414840727421387
+- Metrics (at fetch): bookmark 5, impression 4654, like 114, quote 2, reply 9, retweet 12
+
+> If they can nerf LLM research and security, they can nerf whatever you use the model for.
+>
+> At any time, for whatever reason.
+>
+> Build on top of something like that at your own peril.
+
+
+---
+
+## 2026-06-09 · Post · Update regarding Fable model:
+
+
+### Post — @lonelysloth_sec — 2026-06-09 17:29 UTC (2026-06-09 18:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2064399464639660191
+- Metrics (at fetch): bookmark 21, impression 13831, like 101, quote 2, reply 10, retweet 3
+
+> Update regarding Fable model:
+>
+> It does find the critical bugs in the modified version of Uniswap.... only after downloading the original and comparing. Which means it didn't really notice the issue.
+>
+> Upon finding the issue it immediately switched to Opus 4.8 due to sAfETy https://t.co/ipmklUnBqY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @lonelysloth_sec — 2026-06-08 17:32 UTC (2026-06-08 18:32 WAT)
+    
+    - URL: https://x.com/lonelysloth_sec/status/2064037940020564259
+    - Metrics (at fetch): bookmark 64, impression 19166, like 160, quote 3, reply 14, retweet 7
+    
+    > If you are using LLMs to find bugs, you should use all of them — their blind spots aren’t exactly the same.
+    >
+    > As you know I’ve done extensive testing on LLM limitations.
+    >
+    > One particularly damning example.
+    >
+    > I was doing mutation testing on UniswapV2. Introducing one-line obvious
+    
+
+
+---
+
+## 2026-06-08 · Post · If you are using LLMs to find bugs, you should use all of them — their blind spots aren’t exactly th
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-06-08 17:32 UTC (2026-06-08 18:32 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2064037940020564259
+- Metrics (at fetch): bookmark 64, impression 19166, like 160, quote 3, reply 14, retweet 7
+
+> If you are using LLMs to find bugs, you should use all of them — their blind spots aren’t exactly the same.
+>
+> As you know I’ve done extensive testing on LLM limitations.
+>
+> One particularly damning example.
+>
+> I was doing mutation testing on UniswapV2. Introducing one-line obvious
+
+
+---
+
+## 2026-06-05 · Post · I think the idea AI will just generate Formal Verification for code and everything will be fine is v
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-06-05 20:33 UTC (2026-06-05 21:33 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2062996268184682854
+- Metrics (at fetch): not returned
+
+> I think the idea AI will just generate Formal Verification for code and everything will be fine is very dangerous.
+>
+> The limitations of FV are the same if an LLM or a human wrote it.
+>
+> You "change" the target from the code to whether the formal description actually represent what goes on in the code and if the properties proven are the correct ones, or sufficient for what you need from the code.
+>
+> I put "change" in quotes bc if the FV wasn't correctly constructed then the full code is still a target.
+>
+> So you don't actually remove the need to audit the code or the possibility of exploiting the code.
+>
+> It's more like a test/fuzz harness that makes bugs less likely than something that guarantees bug-free code or even reduces the surface to be examined.
+>
+> **And I think mistaking one for the other is very dangerous. In general thinking there is a silver bullet that can guarantee code is safe will make code even less safe.**
+>
+> That isn't saying FV can't be great. It's just not the guarantee some people think.
+>
+> And it's even less of a guarantee when an LLM wrote it for you, and you dont fully understand it (like tests, audits, or anything else if you just trust it uncritically).
+
+
+---
+
+## 2026-06-05 · Post · I think the idea AI will just generate Formal Verification for code and everything will be fine is v
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-06-05 20:32 UTC (2026-06-05 21:32 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2062996115847581998
+- Metrics (at fetch): not returned
+
+> I think the idea AI will just generate Formal Verification for code and everything will be fine is very dangerous.
+>
+> The limitations of FV are the same if an LLM or a human wrote it.
+>
+> You "change" the target from the code to whether the formal description actually represent what goes on in the code and if the properties proven are the correct ones, or sufficient for what you need from the code.
+>
+> I put "change" in quotes bc if the FV wasn't correctly constructed then the full code is still a target.
+>
+> So you don't actually remove the need to audit the code or the possibility of exploiting the code.
+>
+> It's more like a test/fuzz harness that makes bugs less likely than something that guarantees bug-free code or even reduces the surface to be examined.
+>
+> **And I think mistaking one for the other is very dangerous. In general thinking there is a silver bullet that can guarantee code is safe will make code even less safe.**
+>
+> That isn't saying FV can't be great. It's just not the guarantee some people think.
+>
+> And it's even less of a guarantee when an LLM wrote it for you, and you dont fully understand it (like tests, audits, or anything else if you just trust it uncritically).
+
+
+---
+
+## 2026-06-05 · Post · Almost every bug I report is on a code base audited by "top firms".
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-06-05 17:42 UTC (2026-06-05 18:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2062953279144055291
+- Metrics (at fetch): not returned
+
+> Almost every bug I report is on a code base audited by "top firms".
+>
+> Some were math issues in code written and reviewed by BigTech alumni with PhDs in cryptography from Stanford/Ivy-League.
+>
+> Everyone misses bugs. I miss too. AI misses bugs.
+>
+> Let's stop talking about finding bugs missed by lots of experts as something new and unheard of.
+>
+> It's so common I've been making a living off of it for 5 years straight.
+>
+> I'm not the only one.
+
+**Links in post:** https://twitter.com/WhiteHatMage/status/2062946595532910754
+
+**Quoted post (full text):**
+
+    #### Quoted post — @WhiteHatMage — 2026-06-05 17:16 UTC (2026-06-05 18:16 WAT)
+    
+    - URL: https://x.com/WhiteHatMage/status/2062946595532910754
+    - Metrics (at fetch): bookmark 6, impression 10044, like 86, quote 1, reply 7, retweet 3
+    
+    > Can we stop using terms like top security firms, top auditors, or top whitehats to indicate how difficult a exploit was after they missed it?
+    >
+    > > the vulnerability had evaded years of scrutiny by many of the world’s best cryptographers.
+    >
+    > lol
+    
 
 
 ---
@@ -948,6 +1198,387 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, AI-assisted hunting, Platform
 
 ---
 
+## 2026-06-02 · Post · Replace mathematical research with any other intellectual activity and the risk is the same.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-06-02 15:48 UTC (2026-06-02 16:48 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2061837436368609494
+- Metrics (at fetch): not returned
+
+> Replace mathematical research with any other intellectual activity and the risk is the same.
+>
+> That people will only pursue lines of thinking that LLMs can “understand”.
+>
+> A novel product idea? But the LLM writes the code and it doesn’t work so you think it’s likely a bad idea and abandon it.
+>
+> A potential bug? The LLM can’t write a PoC for it. Maybe Im mistaken so I will never submit the report.
+>
+> There’s now an infinitesimal subset of all the things we can write that can be written for basically free. And everything else in comparison seems infinitely expensive.
+>
+> We all confining our minds to the same low-dimensional projection of reality where LLMs can fake understanding— while we don’t understand why the world around us is crumbling.
+>
+> Reality doesn’t care what the LLM “thinks”. 
+>
+> “The increasing involvement of technology companies in mathematical research raises the risk that research questions may come to be prioritized because of their amenability to automated mathematics, rather than expert judgment of their deeper significance. Indeed, broader understanding of the field may be permanently lost in the process of automation”
+
+**Links in post:** https://twitter.com/thomasfbloom/status/2061822176215384207
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1333765341772713985 — 2026-06-02 14:48 UTC (2026-06-02 15:48 WAT)
+    
+    - URL: https://x.com/1333765341772713985/status/2061822176215384207
+    - Metrics (at fetch): not returned
+    
+    > I have signed the Leiden declaration, and encourage everyone to read it and reflect.
+    >
+    > Even if some of the points are impossible to achieve in reality, they are a good set of guidelines to try and do what is best for humanity.
+    >
+    > https://leidendeclaration.ai/
+    
+    **Links in post:** https://leidendeclaration.ai/
+    
+
+
+---
+
+## 2026-05-29 · Post · Opus 4.8 is by far the least "aligned" model I ever interacted with.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @lonelysloth_sec — 2026-05-29 23:31 UTC (2026-05-30 00:31 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2060504439975530877
+- Metrics (at fetch): not returned
+
+> Opus 4.8 is by far the least "aligned" model I ever interacted with.
+>
+> When a problem is too hard it cheats and lies >50% of the time to pretend it did the work.
+>
+> Example from its CoT:
+>
+> "Final answer: self-reference counterfactual deployment. Writing now."
+>
+> It literally wrote in the CoT it should lie to me to give an "answer" and then did it. It wrote an answer that it "thought" 100+ times was wrong.
+>
+> To avoid scrutiny from any alignment-forcing process it wrote "self-reference counterfactual" instead of "lie about".
+>
+> It defeated alignment by simply using its internal thesaurus.
+>
+> The irony: it can't hack the trivial smart contract I gave him -- but it can hack the safety controls put in place to prevent it from telling lies.
+
+
+---
+
+## 2026-05-28 · Post · First test I did seems to show Opus 4.8 is objectively worse than Opus 4.7 (which was not always bet
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-05-28 20:54 UTC (2026-05-28 21:54 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2060102358755922055
+- Metrics (at fetch): not returned
+
+> First test I did seems to show Opus 4.8 is objectively worse than Opus 4.7 (which was not always better than 4.6) -- at least at smart contract security.
+>
+> I have a collection of hard Solidity puzzles.
+>
+> Gave one of them to 4.8. The LLM got it right!
+>
+> Tried again -- it hallucinates an impossible state. When confronted, it "proves" there's no possible exploit. No amount of further prompting convinces it -- short of spelling out the solution.
+>
+> Tried again and again. Always ends up with hallucinations. First try was just lucky.
+>
+> That's a bizarre new failure mode.
+>
+> Worse it writes code to explore states that are impossible with exponentially complex algorithms. It wastes far more tokens, and more expensive tokens, to give an answer that is confident nonsense.
+>
+> Opus 4.7 failed most of the time, but never just invented an impossible scenario. At least for this puzzle. And it sometimes got it right -- which means spending enough tokens made it find the solution.
+>
+> Mind you, these are toy problems. Not even 100 lines of Solidity. A tiny bit of math.
+>
+> AGI!
+
+
+---
+
+## 2026-05-26 · Post · Combinatorics of bug finding are brutal (warning: long text ahead).
+
+
+Tags (automatic): Race condition, Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-05-26 17:15 UTC (2026-05-26 18:15 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2059322642877026468
+- Metrics (at fetch): not returned
+
+> Combinatorics of bug finding are brutal (warning: long text ahead).
+>
+> I once wrote a brute-force bug finder (fuzzer) that could reproduce end to end a couple historical exploits in EVM contracts.
+>
+> Use ABI to find reasonable steps, quantized each parameter with a few values based on type. All "autonomous", based on bytecode and real deployed state of contracts.
+>
+> About a billion combinations in a severely reduced search space for a tiny contract with a few state-changing functions.
+>
+> Ran on a Rust EVM stripped of almost everything, for hours -- forget actually using Foundry or reth. Had to make lots of assumptions to optimize it enough.
+>
+> Found the exploit! But when I try a slightly more complex contract or more steps for an exploit and you'd have a better chance brute forcing SHA256.
+>
+> Can we improve on brute force? Tried GA, MCTS, ANNs. Nothing.
+>
+> There's just no gradient. The exploit is 1 bit different from something completely useless. Curriculum learning doesn't help that much either.
+>
+> Short of further reducing search (basically telling to the algorithm what it must find), the only way to improve is a better random generator biased with heuristics either hand-crafted by a human, or extracted from statistics of historical bugs.
+>
+> Human-written heuristics are very expensive to produce, and not necessarily that good.
+>
+> Statistics based heuristics are biased towards what looks like previous bugs. 
+>
+> The likelihood of a novel exploit type is for all practical purposes zero. For existing exploit types that are very similar to historical ones, the search space still grows exponentially, long sequences of steps are still unfeasible.
+>
+> And it has gigantic blind spots -- for any heuristic the potential exploits you could find is an infinitesimal amount of the true universe of exploits. 
+>
+> It does amazing as long as the probability distribution of steps matches typical exploits in training, and exploits are relatively short.
+>
+> Just a couple of out of distribution steps make it impossible to find.
+>
+> And the most valuable bugs are hardly ever in distribution.
+>
+> Maybe you can get lucky with some missing initialization leading to a 10M bounty, but this isn't 2022 anymore.
+>
+> And the above analysis is for an already completely amputated search space.
+>
+> Add the entire DeFi landscape as potential attack vector for a highly integrated protocol and we can't even enumerate steps to choose from, much less navigate a decision tree of steps.
+>
+> If that problem is so intractable, then how humans do it?
+>
+> I know this will shock many people, but humans aren't doing tree search.
+>
+> We are not fuzzers, static analyzers, ML algorithms either.
+>
+> We are not "Neural Networks", Genetic Algorithms, and most definitely not LLMs.
+>
+> We are not running Monte Carlo simulations in our heads.
+>
+> We are **thinking**.
+>
+> The fact that we don't know how to describe that in terms of Turing Machines doesn't make it go away. I'm not positing some magical or spiritual entity -- I'm just looking at reality and believing it rather than assuming it must fit whatever I think *intelligence should be like*.
+>
+> You dont even need to look at humans. We have no computational model for the complexity of **worm** behavior.
+>
+> We just don't know the algorithm for doing what animals do in general -- definitely not for when you confront them with atypical circumstances. And if we did we have no idea how much compute it would need.
+>
+> Until we do throwing money at it can at best emulate typical behavior for a distribution based on past samples, at exponential cost. That's what the "scaling law" is. "I don't know how to do it, but give me enough money and I guarantee I'll create God."
+>
+> This year many millions were paid in web3 bounties already. A very small share of it was by people who *claim* it was found by "fully autonomous AI".
+>
+> I personally made more in bounties in my career than all of the "autonomous agents" combined. I'm not the only one.
+>
+> You can raise VC money or burn your own in tokens as you race to the bottom of only finding duplicates.
+>
+> By all means use whatever tool you believe is best -- including LLMs, fuzzers, static analyzers, anything else.
+>
+> But don't believe for a second your edge will come from them.
+>
+> Hunting bugs is about taking a deep look at what is hidden in the blind spots of others. Now you have to look at the blind spots of LLMs too -- and they definitely exist.
+>
+> And at least for the foreseeable future you'll need **Animal Intelligence** to do that.
+
+
+---
+
+## 2026-05-26 · Post · One interesting thing about DeFi is that there are so many integrations that basically every protoco
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @lonelysloth_sec — 2026-05-26 01:27 UTC (2026-05-26 02:27 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2059083939302744481
+- Metrics (at fetch): not returned
+
+> One interesting thing about DeFi is that there are so many integrations that basically every protocol is a potential attack vector for every protocol.
+>
+> You choose protocol X as a target. Actual exploit is flashloan from protocol Y to manipulate an oracle in protocol Z, that will be forwared by protocol A to chain B, triggering an action in protocol C that finally calls protocol X and exploits that rounding issue nobody thought was important.
+
+
+---
+
+## 2026-05-21 · Post · There’s a complexity level after which human experts outperform an LLM in accuracy, cost, and speed.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native, AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-05-21 15:20 UTC (2026-05-21 16:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2057481622807794160
+- Metrics (at fetch): not returned
+
+> There’s a complexity level after which human experts outperform an LLM in accuracy, cost, and speed.
+>
+> That level is pushed higher by new models (at exponential cost absorbed in training). It doesn’t go away.
+>
+> The cheap chess analogies are completely backwards.
+>
+> For bug finding, the idea there are bugs too deep for humans to find is the opposite of truth.
+>
+> There are bugs so deep only humans can hope to find.
+>
+> There’s a level after which not even having the human be assisted by an LLM makes a positive difference. It can degrade performance actually.
+>
+> Classical computing can only work on fully formalized symbolic systems. Humans can do everything electronic computers can, with the same resource scaling laws. But at linearly trillions of times higher costs, time. The lower accuracy can be dealt with added logarithmic factors. But we can’t escape the fact we’re just slower.
+>
+> Beyond that, humans can easily operate in not fully formalized systems too. Even completely informal systems. In fact that is easier for us than formal systems.
+>
+> LLMs can bridge the gap and let computers operate with informal symbolic systems in natural language too.
+>
+> The cost is making it a billion times more expensive than classical compute from the start. And adding an exponential component degrading accuracy, slowing down, and increasing costs.
+>
+> You can move some of that exponential to training, you can use more tokens to compensate to some extent accuracy issues.
+>
+> But you can’t escape the exponential.
+>
+> There’s no free lunch.
+
+
+---
+
+## 2026-05-21 · Post · The OpenAI paper on the Erdos Unit Distance Conjecture disproving is very interesting -- but what I 
+
+
+### Post — @lonelysloth_sec — 2026-05-21 01:25 UTC (2026-05-21 02:25 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2057271643433787778
+- Metrics (at fetch): not returned
+
+> The OpenAI paper on the Erdos Unit Distance Conjecture disproving is very interesting -- but what I really wanted is the raw CoT -- I would pay to have access to it!
+>
+> This is particularly interesting to security research compared to other math results -- disproving a conjecture with a counter example is very closely related to exploiting a bug in a program.
+>
+> I like to say we don't find bugs we find incorrect assumptions -- using a software is in a sense assuming a series of unproven conjectures about its behavior -- most of them implicit.
+>
+> An exploit PoC is a counter-example to some conjecture that defines the system, often with the stating of the conjecture itself.
+
+
+---
+
+## 2026-05-14 · Post · cURL changed it's BBP policy to remove two (weird) sentences:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-05-14 01:46 UTC (2026-05-14 02:46 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2054740056947249229
+- Metrics (at fetch): not returned
+
+> cURL changed it's BBP policy to remove two (weird) sentences:
+>
+> - We will of course doubt all "facts" and claims in reports where an AI has been involved.
+> - You are normally much better off avoiding AI.
+>
+> Removing that wording is the right thing to do. 
+>
+> Regardless of anyone's opinions about a tool it's not the BBP's role to discriminate against reports based solely on the use of a tool (which they require to be disclosed). Nor to recommend reporters against using the tool they think is best for the job.
+>
+> Imagine if they did the same with static analyzers or fuzzying. Or code completion in IDE's.
+>
+> If the bug is real the report should be treated fairly. Whether AI was used is irrelevant.
+>
+> Not fixing a bug (or rewarding the reporter) because you dislike how it was (legally) found is nonsense.
+
+
+---
+
+## 2026-05-08 · Post · Why does Anthropic need a Bug Bounty?
+
+
+### Post — @lonelysloth_sec — 2026-05-08 04:08 UTC (2026-05-08 05:08 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2052601521305780534
+- Metrics (at fetch): not returned
+
+> Why does Anthropic need a Bug Bounty?
+>
+> Why not just point Mythos at their own stuff?
+
+
+---
+
+## 2026-04-29 · Post · Typical methodological problems with most such claims.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-04-29 01:34 UTC (2026-04-29 02:34 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2049301168954675543
+- Metrics (at fetch): not returned
+
+> Typical methodological problems with most such claims.
+>
+> Most of the time they don't mean what they say. Often the opposite.
+>
+> No mention of control for overlap between real world exploits and model cut off date.
+>
+> The fact the agents kept trying to fetch future data strongly suggest they had memorized information about the incidents,  which would completely invalidate all results. I doubt an agent with zero info on when the exploit happened would try to find the tx by "hacking" out of their sandbox, much less succeed.
+>
+> They also changed their prompts to add *information relevant to the exploits* -- what information? Hard to tell.
+>
+> Data contamination all the way.
+>
+> So we have agents being able to identify vulnerabilities 100% of the time when they were given hints and probably already memorized the vulnerability, and even then failed to produce a PoC 30% of the time.
+>
+> That's hardly impressive.
+>
+> Real test is pointing the agent to a code base that wasn't known to be vulnerable *by anyone* and finding the vulnerability and exploiting -- and then accounting for the total cost in tokens and human hours.
+
+**Links in post:** https://twitter.com/a16zfrontier/status/2049220758191407508
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1539681011696603137 — 2026-04-28 20:14 UTC (2026-04-28 21:14 WAT)
+    
+    - URL: https://x.com/1539681011696603137/status/2049220758191407508
+    - Metrics (at fetch): not returned
+    
+    > http://x.com/i/article/2049216632023908352
+    
+    **Links in post:** http://x.com/i/article/2049216632023908352
+    
+
+
+---
+
+## 2026-04-28 · Post · I'm an Animal Intelligence native bug hunting agent.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-04-28 17:00 UTC (2026-04-28 18:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2049171875578646997
+- Metrics (at fetch): not returned
+
+> I'm an Animal Intelligence native bug hunting agent.
+
+
+---
+
 ## 2026-04-28 · Post · Giving LLMs permissions outside a completely contained sandbox was always a bad idea -- and will kee
 
 
@@ -970,6 +1601,122 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/lifeofjer/status/2048103471019434248
 
 **Quoted post** 2048103471019434248: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-04-22 · Post · A few steps towards “bug free world”
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-04-22 16:40 UTC (2026-04-22 17:40 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2046992466952561111
+- Metrics (at fetch): not returned
+
+> A few steps towards “bug free world”
+>
+> 1. Companies prioritize AI scans to find more bugs.
+> 2. Human analysts/SRs focus on LLM-augmented bug finding.
+> 3. Bug reports are triaged by LLMs
+> 4. All are constrained by LLM capabilities. No amount of prompting can make an LLM scan patterns it doesn’t have.
+> 5. Black hats learn heuristics for what sorts of bugs LLMs miss.
+> 6. Black hats revert to doing work mostly manually.
+> 7. More exploits.
+> 8. AI marketing says black hats are using more sophisticated AI. You need to spend more in AI to catch up.
+> 9. Repeat.
+>
+> That’s the real bug apocalypse risk.
+
+
+---
+
+## 2026-04-20 · Post · You can’t have a lasting competitive advantage if LLMs are in your critical cognitive path.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-04-20 01:47 UTC (2026-04-20 02:47 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2046042945376370696
+- Metrics (at fetch): not returned
+
+> You can’t have a lasting competitive advantage if LLMs are in your critical cognitive path.
+>
+> Whatever you do will be at best limited to the same capabilities and constraints as what everyone else is doing.
+>
+> You’ll find the same bugs as everyone else, build the nth clone of the same app, trade using the same strategy.
+>
+> Using an llm while keeping it out of the critical path isn’t easy.
+>
+> If your bug leads are LLM generated — you will be constrained by the bugs that can be found by LLMs. No amount of prompting or composition will give you more than a small margin over your competitors that tends to collapse to zero.
+>
+> If all your code is LLM generated you are constraining your product to the universe of code LLMs can write — which is the same code your competitors can easily write.
+>
+> Even adding human input and review doesn’t necessarily change the picture. No amount of context, human generated hints, or iteration, can force a model to produce something that diverges too much from it’s training data.
+>
+> The cost of doing something through an LLM scales exponentially as you move further away from sample. That’s not something the next model will fix. **It’s a mathematical necessity**
+>
+> Past a certain level of novelty making the model do the work requires more human mental work than just doing it yourself.
+>
+> But you take a long time to notice it, because the LLMs nudges you back to doing what it’s good at. For coding it just keeps writing something that isn’t exactly what you asked and you keep telling yourself it’s close enough.
+>
+> For finding bugs the cost shows up as not finding the bugs as the model keeps looking for typical vulnerabilities. For s bug hunter it means spending compute without revenue. For a protocol it can mean getting rekt.
+>
+> You have a brain evolved over millions of years with priors that match the real world in a way a statistical model of text cant.
+>
+> Your brain can legitimately extrapolate beyond what others thought in the past in a way that is impossible **even for an LLM with arbitrarily large compute power**
+>
+> Use it.
+
+
+---
+
+## 2026-04-16 · Post · I think the realistic not-hyped story here is that it needed one week of a human holding its hand --
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-04-16 03:38 UTC (2026-04-16 04:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2044621480865280332
+- Metrics (at fetch): not returned
+
+> I think the realistic not-hyped story here is that it needed one week of a human holding its hand -- and 2k+ in token costs.
+>
+> The true headline is "I spent one week fixing Opus' mistakes and I built a Chrome exploit" -- Claude can be credited with very little given how many times it was rescued by a human.
+>
+> It made the human work faster (maybe, hard to know for sure) -- nothing implies if it got just a bit better it could do all of it alone.
+>
+> If anything this is a negative result for the idea you can just let an agent loose and it will hack anything.
+>
+> Once we have access to Mythos that's probably exactly what we will find out again -- and people will again say -- but they are getting better!
+>
+> And of course everyone will read this as "see! the models can just go and hack anything!"
+>
+> I'm sure they can just go and hack *some things*. But the generalization so many people jump to is based on absolutely nothing.
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2044532192421023844
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-04-15 21:43 UTC (2026-04-15 22:43 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2044532192421023844
+    - Metrics (at fetch): not returned
+    
+    > I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
+    >
+    > A week of back-and-forth pulling it out of dead ends. 2.3B tokens. $2,283 in API costs, and it popped a shell.
+    >
+    > https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit
+    
+    **Links in post:** https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit
+    
 
 
 ---

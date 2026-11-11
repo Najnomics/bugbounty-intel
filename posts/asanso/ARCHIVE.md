@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 72
-- Conversations/threads: 70
-- Oldest post captured: 2023-05-03
+- Posts in this file: 80
+- Conversations/threads: 78
+- Oldest post captured: 2021-10-07
 - Newest post captured: 2026-11-06
 
 
@@ -1380,3 +1380,169 @@ Tags (automatic): OAuth
     
     **Links in post:** https://blog.ethereum.org/2023/05/03/secured-5-disclosures-update
     
+
+
+---
+
+## 2022-11-01 · Post · nice. Bit disappointed though. I was hoping for some fancy cryptography attack https://t.co/6fdKl754
+
+
+### Post — @asanso — 2022-11-01 15:51 UTC (2022-11-01 16:51 WAT)
+
+- URL: https://x.com/asanso/status/1587472393085374467
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 0
+
+> nice. Bit disappointed though. I was hoping for some fancy cryptography attack https://t.co/6fdKl754CI
+
+**Quoted post** 1587469339724316673: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-08-04 · Post · Still on the verge of trying to understand the nit and grit of Castryck-Decru attack but IMHO the SI
+
+
+### Post — @asanso — 2022-08-04 08:55 UTC (2022-08-04 09:55 WAT)
+
+- URL: https://x.com/asanso/status/1555115155800969217
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 1, retweet 0
+
+> Still on the verge of trying to understand the nit and grit of Castryck-Decru attack but IMHO the SIKE team might have some hard time repairing SIKE. Let's assume they find a way to generate a random supersingular 1/2 https://t.co/BLsNQy16de
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZTf_w0WIAAyJ2c.png — no alt text provided by author
+
+
+---
+
+## 2022-07-31 · Post · this is so true. This indeed entirely dismissed a line of work pioneered by @Christo20560026  and fo
+
+
+### Post — @asanso — 2022-07-31 12:13 UTC (2022-07-31 13:13 WAT)
+
+- URL: https://x.com/asanso/status/1553715539322748928
+- Metrics (at fetch): not returned
+
+> this is so true. This indeed entirely dismissed a line of work pioneered by @Christo20560026  and followed up by work of @kutasp @chloelono @yx7__  et al. Namely https://eprint.iacr.org/2020/633.pdf. Now the attack was not as devastating but but... https://twitter.com/hashbreaker/status/1553700018799779840
+
+**Links in post:** https://eprint.iacr.org/2020/633.pdf, https://twitter.com/hashbreaker/status/1553700018799779840
+
+**Quoted post (full text):**
+
+    #### Quoted post — @58326841 — 2022-07-31 11:12 UTC (2022-07-31 12:12 WAT)
+    
+    - URL: https://x.com/58326841/status/1553700018799779840
+    - Metrics (at fetch): not returned
+    
+    > How is it possible that in 2021 there were "recent advances in torsion-point attacks" vs SIKE, while in 2022 one can find claims that there was "no attack progress" against SIDH/SIKE for a decade? There's an important lesson here about metrics for attack advances. Let me explain.
+    
+
+
+---
+
+## 2022-04-15 · Post · In the week of @RealWorldCrypto (that I could not attend :( ) allow me to do some "real world crypto
+
+
+### Post — @asanso — 2022-04-15 11:01 UTC (2022-04-15 12:01 WAT)
+
+- URL: https://x.com/asanso/status/1514921757022605320
+- Metrics (at fetch): not returned
+
+> In the week of @RealWorldCrypto (that I could not attend :( ) allow me to do some "real world cryptography" with some little silly thread about a 1-bit-attack in an old Italian game (Scopa https://en.wikipedia.org/wiki/Scopa) 1/n [pic.x.com/RYM2Uacb0s]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQYQn1dXoAMmxo5.jpg — no alt text provided by author
+
+**Links in post:** https://en.wikipedia.org/wiki/Scopa
+
+
+---
+
+## 2022-04-06 · Post · &lt;rant&gt;it would be great for people defining a new construction/protocol to be custom (I would 
+
+
+### Post — @asanso — 2022-04-06 07:26 UTC (2022-04-06 08:26 WAT)
+
+- URL: https://x.com/asanso/status/1511606311791779843
+- Metrics (at fetch): not returned
+
+> &lt;rant&gt;it would be great for people defining a new construction/protocol to be custom (I would not push up to mandatory) to have a POC of the construction/protocol or at least a set of real parameters defined in the 1/2 [pic.x.com/Iz5sB8gw1h]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/FPpN7JUXIAEbg4p.jpg — no alt text provided by author
+
+
+---
+
+## 2022-02-25 · Post · This is huge congrats @WardBeullens . The question is (without dismissing the great achievement by @
+
+
+### Post — @asanso — 2022-02-25 09:01 UTC (2022-02-25 10:01 WAT)
+
+- URL: https://x.com/asanso/status/1497134739307782162
+- Metrics (at fetch): not returned
+
+> This is huge congrats @WardBeullens . The question is (without dismissing the great achievement by @WardBeullens ) : did any mathematician working @NSAGov know about this attack? (this might be at least be plausible) https://twitter.com/IACR_News/status/1497114669802213377
+
+**Links in post:** https://twitter.com/IACR_News/status/1497114669802213377
+
+**Quoted post (full text):**
+
+    #### Quoted post — @305520180 — 2022-02-25 07:42 UTC (2022-02-25 08:42 WAT)
+    
+    - URL: https://x.com/305520180/status/1497114669802213377
+    - Metrics (at fetch): not returned
+    
+    > #ePrint Breaking Rainbow Takes a Weekend on a Laptop: W Beullens https://ia.cr/2022/214
+    
+    **Links in post:** https://ia.cr/2022/214
+    
+
+
+---
+
+## 2021-12-10 · Post · Nice one. I have a little question though, if someone wants to backdoor a composite number would not
+
+
+### Post — @asanso — 2021-12-10 09:47 UTC (2021-12-10 10:47 WAT)
+
+- URL: https://x.com/asanso/status/1469242477433528320
+- Metrics (at fetch): not returned
+
+> Nice one. I have a little question though, if someone wants to backdoor a composite number would not be faster to compute p and q and then N =p*q and hence be immune to this attack [pic.x.com/8XBDrfBzuM] https://twitter.com/IACR_News/status/1469239482842902530
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FGPL_WjXwAElcsA.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/IACR_News/status/1469239482842902530
+
+**Quoted post (full text):**
+
+    #### Quoted post — @305520180 — 2021-12-10 09:36 UTC (2021-12-10 10:36 WAT)
+    
+    - URL: https://x.com/305520180/status/1469239482842902530
+    - Metrics (at fetch): not returned
+    
+    > #ePrint Factoring Primes to Factor Moduli: Backdooring and Distributed Generation of Semiprimes: G Vitto https://ia.cr/2021/1610
+    
+    **Links in post:** https://ia.cr/2021/1610
+    
+
+
+---
+
+## 2021-10-07 · Post · Ethereum Critical Altair bugs in both clients and specs are now worth up to $100k.
+
+
+### Post — @asanso — 2021-10-07 06:53 UTC (2021-10-07 07:53 WAT)
+
+- URL: https://x.com/asanso/status/1446005758005551104
+- Metrics (at fetch): not returned
+
+> #Ethereum Critical Altair bugs in both clients and specs are now worth up to $100k.
+> https://blog.ethereum.org/2021/10/05/altair-announcement/ [pic.x.com/UF0YLuRvn6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FBE-eVyWEAQ8cIL.jpg — no alt text provided by author
+
+**Links in post:** https://blog.ethereum.org/2021/10/05/altair-announcement/

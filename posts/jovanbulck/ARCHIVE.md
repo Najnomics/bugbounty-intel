@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 31
-- Conversations/threads: 25
-- Oldest post captured: 2020-11-18
+- Posts in this file: 43
+- Conversations/threads: 37
+- Oldest post captured: 2018-04-16
 - Newest post captured: 2024-03-12
 
 
@@ -546,3 +546,281 @@ Tags (automatic): TEE / enclave
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EnGf0trXIAE8fwP.png — no alt text provided by author
+
+
+---
+
+## 2020-11-13 · Post · Bad week for IntelSGX -- New VoltPillager attack ingeniously revives Plundervolt. ⚡️ Evades softw
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2020-11-13 11:58 UTC (2020-11-13 12:58 WAT)
+
+- URL: https://x.com/jovanbulck/status/1327219251091042305
+- Metrics (at fetch): not returned
+
+> Bad week for #IntelSGX -- New #VoltPillager attack ingeniously revives #Plundervolt. ⚡️ Evades software countermeasures by physically(!) hijacking the voltage regulator bus. 👉 Ultimately reveals the limits of "trusted execution" on untrusted platforms (cf. DRM or cloud SGX apps) https://twitter.com/sublevado/status/1327213760134701056
+
+**Links in post:** https://twitter.com/sublevado/status/1327213760134701056
+
+**Quoted post (full text):**
+
+    #### Quoted post — @22353836 — 2020-11-13 11:36 UTC (2020-11-13 12:36 WAT)
+    
+    - URL: https://x.com/22353836/status/1327213760134701056
+    - Metrics (at fetch): not returned
+    
+    > With #VoltPillager, we show that Intel #SGX is vulnerable to low-cost hardware fault injection attacks - and that SGX cannot protect against an attacker with physical access (like malicious cloud provider). More details: https://zt-chen.github.io/voltpillager/
+    > @halfdoof  @Vge0rge @ZitaiChen
+    
+    **Links in post:** https://zt-chen.github.io/voltpillager/
+    
+
+
+---
+
+## 2020-08-10 · Post · Interesting paper, shines stimulating new light on 4 yrs of uarch research: why prefetch attacks wer
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @jovanbulck — 2020-08-10 12:26 UTC (2020-08-10 13:26 WAT)
+
+- URL: https://x.com/jovanbulck/status/1292799594775142402
+- Metrics (at fetch): not returned
+
+> Interesting paper, shines stimulating new light on 4 yrs of uarch research: why prefetch attacks were essentially inadvertent #Spectre gadgets; use w/ #Foreshadow to leak secrets not initially in L1$. Empirical science is driven by critical re-assessments and refining hypotheses! https://twitter.com/Underfox3/status/1291595235072638978
+
+**Links in post:** https://twitter.com/Underfox3/status/1291595235072638978
+
+**Quoted post (full text):**
+
+    #### Quoted post — @940029426229641216 — 2020-08-07 04:41 UTC (2020-08-07 05:41 WAT)
+    
+    - URL: https://x.com/940029426229641216/status/1291595235072638978
+    - Metrics (at fetch): not returned
+    
+    > Also, it's demonstrated that Foreshadow attacks on data from the L3 cache are possible, even with Foreshadow mitigations enabled,when the unrelated Spectre-BTB mitigations are disabled. [pic.x.com/nUkO9Os4KC]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Eeyq_6zXgAI8P79.png — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/Eeyq_6kXkAIqxEA.png — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/Eeyq_6tWoAAdrF-.png — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/Eeyq_6kXgAAAZAd.png — no alt text provided by author
+    
+
+
+---
+
+## 2020-03-10 · Post · We present Load Value Injection LVI: a new transient-execution attack class; defeats defenses; turn
+
+
+### Post — @jovanbulck — 2020-03-10 17:03 UTC (2020-03-10 18:03 WAT)
+
+- URL: https://x.com/jovanbulck/status/1237423893989687296
+- Metrics (at fetch): not returned
+
+> We present Load Value Injection #LVI: a new transient-execution attack class; defeats defenses; turns around #Meltdown #Foreshadow #ZombieLoad #RIDL #Fallout to *inject* attacker data into victim loads.  http://lviattack.eu cc @danielmgmi @mlqxyz @misc0110 @lavados @IEEESSP [pic.x.com/Nvbr5PgHgP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ESwxFLQWsAMLvFO.jpg — no alt text provided by author
+
+**Links in post:** http://lviattack.eu
+
+
+---
+
+## 2020-02-21 · Post · Our new CopyCat controlled-channel attack combines page-table access patterns with sgxstep interru
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2020-02-21 11:57 UTC (2020-02-21 12:57 WAT)
+
+- URL: https://x.com/jovanbulck/status/1230823956170629120
+- Metrics (at fetch): not returned
+
+> Our new #CopyCat controlled-channel attack combines page-table access patterns with #sgxstep interrupt counting to construct a super precise, fully deterministic oracle to infer enclave control flow and break crypto, even when if branches differ only in a _single_ instruction! [pic.x.com/EJUSFm2lw6] https://twitter.com/flowyroll/status/1230728409631752197
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ERTB7g1WsAAlK4t.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/flowyroll/status/1230728409631752197
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4106835983 — 2020-02-21 05:38 UTC (2020-02-21 06:38 WAT)
+    
+    - URL: https://x.com/4106835983/status/1230728409631752197
+    - Metrics (at fetch): not returned
+    
+    > Our latest paper "CopyCat: Controlled Instruction-Level Attacks on Enclaves for Maximal Key Extraction" 
+    > https://arxiv.org/abs/2002.08437 #TEE #SGX #SideChannel #ControlledChannel #CopyCat
+    > credits: @danielmgmi @jovanbulck @nadiaheninger "Frank Piessens" and @berksunar
+    
+    **Links in post:** https://arxiv.org/abs/2002.08437
+    
+
+
+---
+
+## 2020-02-10 · Post · Paper presents a case-study for formal reasoning about processor extensions to provably safeguard em
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2020-02-10 09:35 UTC (2020-02-10 10:35 WAT)
+
+- URL: https://x.com/jovanbulck/status/1226801972386377728
+- Metrics (at fetch): not returned
+
+> Paper presents a case-study for formal reasoning about processor extensions to provably safeguard embedded enclaves against interrupt-based side-channels (e.g., Nemesis attack) [pic.x.com/MrIJ4ZaTiB] https://twitter.com/mttbsu/status/1226493769803091968
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EQZ3MrZX0AAH-_K.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EQZ4LJKXUAEAI9G.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/mttbsu/status/1226493769803091968
+
+**Quoted post** 1226493769803091968: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2019-12-10 · Post · We present plundervolt TL;DR First ever fault injection attack on Intel SGX enclaves. Abuses an und
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2019-12-10 18:18 UTC (2019-12-10 19:18 WAT)
+
+- URL: https://x.com/jovanbulck/status/1204465335891611648
+- Metrics (at fetch): not returned
+
+> We present #plundervolt TL;DR First ever fault injection attack on Intel SGX enclaves. Abuses an undocumented software-based interface to undervolt the CPU. Extract full crypto keys and trigger memory safety violations in bug-free code. Read the paper at http://plundervolt.com [pic.x.com/ozuCF4Vzhh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ELce1Y6XUAAPWaE.png — no alt text provided by author
+
+**Links in post:** http://plundervolt.com
+
+
+---
+
+## 2019-01-18 · Post · SGX-Step v1.3 released! Open-source enclave side-channel attack framework now supports Foreshadow t
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2019-01-18 09:03 UTC (2019-01-18 10:03 WAT)
+
+- URL: https://x.com/jovanbulck/status/1086187310335647744
+- Metrics (at fetch): not returned
+
+> SGX-Step v1.3 released! Open-source enclave side-channel attack framework now supports #Foreshadow transient execution attacks. #IntelSGX #L1TF
+> https://github.com/jovanbulck/sgx-step [pic.x.com/9Zh4bdvLye]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1086182142604992513/pu/img/qJeTKqQOEsgIg4Wz.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/jovanbulck/sgx-step
+
+
+---
+
+## 2018-08-16 · Post · Looking forward to presenting the foreshadow attack at usesec18 side-channel session today at 3:40
+
+
+### Post — @jovanbulck — 2018-08-16 15:59 UTC (2018-08-16 16:59 WAT)
+
+- URL: https://x.com/jovanbulck/status/1030121890969513985
+- Metrics (at fetch): not returned
+
+> Looking forward to presenting the #foreshadow attack at #usesec18 side-channel session today at 3:40pm Don't miss it! http://foreshadowattack.eu [pic.x.com/scjy98z9uY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dku6ZUlX4AIDmW0.png — no alt text provided by author
+
+**Links in post:** http://foreshadowattack.eu
+
+
+---
+
+## 2018-08-15 · Post · BBC News - 'Foreshadow' attack affects Intel chips https://www.bbc.co.uk/news/technology-45191697
+
+
+### Post — @jovanbulck — 2018-08-15 12:19 UTC (2018-08-15 13:19 WAT)
+
+- URL: https://x.com/jovanbulck/status/1029704026198343680
+- Metrics (at fetch): not returned
+
+> BBC News - 'Foreshadow' attack affects Intel chips https://www.bbc.co.uk/news/technology-45191697
+
+**Links in post:** https://www.bbc.co.uk/news/technology-45191697
+
+
+---
+
+## 2018-08-15 · Post · Intel’s SGX blown wide open by, you guessed it, a speculative execution attack https://arstechnica.c
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2018-08-15 12:17 UTC (2018-08-15 13:17 WAT)
+
+- URL: https://x.com/jovanbulck/status/1029703649151406080
+- Metrics (at fetch): not returned
+
+> Intel’s SGX blown wide open by, you guessed it, a speculative execution attack https://arstechnica.com/gadgets/2018/08/intels-sgx-blown-wide-open-by-you-guessed-it-a-speculative-execution-attack/
+
+**Links in post:** https://arstechnica.com/gadgets/2018/08/intels-sgx-blown-wide-open-by-you-guessed-it-a-speculative-execution-attack/
+
+
+---
+
+## 2018-06-26 · Post · "Off-Limits: Abusing legacy x86 memory segmentation to spy on enclaved execution" joint work with @j
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2018-06-26 14:28 UTC (2018-06-26 15:28 WAT)
+
+- URL: https://x.com/jovanbulck/status/1011617096613158912
+- Metrics (at fetch): not returned
+
+> "Off-Limits: Abusing legacy x86 memory segmentation to spy on enclaved execution" joint work with @jago_gyselinck and @raoul_strackx develops new side-channel attack techniques via the x86 segmentation unit. Read the full paper at https://people.cs.kuleuven.be/~jo.vanbulck/essos18.pdf [pic.x.com/yYauooPj3r]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dgn78OJXcAQyD0o.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Dgn7-5GW0AAiEeq.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Dgn8ElPWsAI7bSW.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Dgn8GhHXkAIa16E.jpg — no alt text provided by author
+
+**Links in post:** https://people.cs.kuleuven.be/~jo.vanbulck/essos18.pdf
+
+
+---
+
+## 2018-04-16 · Post · Slides for my newline0x08 talk "Hardware-Based Trusted Computing Architectures From an Attack and D
+
+
+### Post — @jovanbulck — 2018-04-16 13:11 UTC (2018-04-16 14:11 WAT)
+
+- URL: https://x.com/jovanbulck/status/985868223504633856
+- Metrics (at fetch): not returned
+
+> Slides for my #newline0x08 talk "Hardware-Based Trusted Computing Architectures From an Attack and Defense Perspective" @HSGhent now online at https://distrinet.cs.kuleuven.be/software/sancus/publications/newline18.pdf [pic.x.com/Lz9jiZ1wPt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Da6BzuqXUAAXbaN.jpg — no alt text provided by author
+
+**Links in post:** https://distrinet.cs.kuleuven.be/software/sancus/publications/newline18.pdf

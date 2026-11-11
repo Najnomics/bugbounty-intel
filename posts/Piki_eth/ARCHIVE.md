@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 53
-- Conversations/threads: 49
-- Oldest post captured: 2026-07-06
+- Posts in this file: 54
+- Conversations/threads: 50
+- Oldest post captured: 2026-05-11
 - Newest post captured: 2026-11-09
 
 
@@ -1082,3 +1082,21 @@ Tags (automatic): Platform: Immunefi
 > I just found a bug and got paid on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=low&status=paid&gifId=2&programType=bug-bounty
 
 **Links in post:** https://immunefi.com/s/ss/?severity=low&status=paid&gifId=2&programType=bug-bounty
+
+
+---
+
+## 2026-05-11 · Post · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=high&st
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Piki_eth — 2026-05-11 13:16 UTC (2026-05-11 14:16 WAT)
+
+- URL: https://x.com/Piki_eth/status/2053826691521552418
+- Metrics (at fetch): not returned
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=high&status=confirmed&gifId=0&programType=bug-bounty
+
+**Links in post:** https://immunefi.com/s/ss/?severity=high&status=confirmed&gifId=0&programType=bug-bounty

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 63
-- Conversations/threads: 44
-- Oldest post captured: 2023-08-23
+- Posts in this file: 78
+- Conversations/threads: 59
+- Oldest post captured: 2018-11-14
 - Newest post captured: 2026-09-16
 
 
@@ -984,3 +984,303 @@ Tags (automatic): Platform: Immunefi
 > 3. Stader for BNB
 > 4. Oasys
 > 5. Eco
+
+
+---
+
+## 2023-08-23 · Reply · @immunefi Is it possible to take some refundable fees from new projects while onboarding(few % of cr
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2023-08-23 09:40 UTC (2023-08-23 10:40 WAT)
+
+- URL: https://x.com/csanuragjain/status/1694283580250231104
+- Metrics (at fetch): not returned
+
+> @immunefi Is it possible to take some refundable fees from new projects while onboarding(few % of critical reward)
+> If project remain in good faith for atleast 3 month then you can refund them.
+> But if they dont pay for genuine reports then this fees can be utilized to pay whitehat
+
+
+---
+
+## 2023-07-25 · Reply · @immunefi 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2023-07-25 17:29 UTC (2023-07-25 18:29 WAT)
+
+- URL: https://x.com/csanuragjain/status/1683892183634411535
+- Metrics (at fetch): not returned
+
+> @immunefi 
+> Not sure why many projects still opt to keep "Total Paid" &amp; "Minimum Resolution Time" as Private. It would be really great if more projects start disclosing it.
+> This really helps in deciding next target :)
+
+
+---
+
+## 2023-07-14 · Post · Thankyou @immunefi for such an awesome swag. Loving it 🥳 [pic.x.com/QNWUyUEZSb]
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2023-07-14 14:45 UTC (2023-07-14 15:45 WAT)
+
+- URL: https://x.com/csanuragjain/status/1679864748211585024
+- Metrics (at fetch): not returned
+
+> Thankyou @immunefi for such an awesome swag. Loving it 🥳 [pic.x.com/QNWUyUEZSb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1AUE90WwAEgC2x.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F1AUFY8XgAASczl.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-30 · Post · Created my first Spot the Bug Challenge. Can you find the issue -&gt; [pic.x.com/4cNyuaFMwL]
+
+
+### Post — @csanuragjain — 2022-12-30 15:46 UTC (2022-12-30 16:46 WAT)
+
+- URL: https://x.com/csanuragjain/status/1608852033918078978
+- Metrics (at fetch): not returned
+
+> Created my first Spot the Bug Challenge. Can you find the issue -&gt; [pic.x.com/4cNyuaFMwL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlPJtxmagAEPztr.png — no alt text provided by author
+
+
+---
+
+## 2022-12-30 · Post · Had a great journey in 2022. 
+
+
+Tags (automatic): Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @csanuragjain — 2022-12-30 15:17 UTC (2022-12-30 16:17 WAT)
+
+- URL: https://x.com/csanuragjain/status/1608844642669465600
+- Metrics (at fetch): not returned
+
+> Had a great journey in 2022. 
+>
+> Met lots of skilled researchers and learned a lot :)
+>
+> Achieved 10th rank in @code4rena &amp; 28th rank in @immunefi 
+>
+> Special thanks to:
+> 1. @TheSecureum for providing quality free web3 tutorials
+> 2. @MitchellAmador for motivating me in my initial days
+
+
+---
+
+## 2022-12-16 · Post · Just saw multiple 0 value transfer from my wallet (USDT allows to initiate 0 value transfer from any
+
+
+### Post — @csanuragjain — 2022-12-16 10:15 UTC (2022-12-16 11:15 WAT)
+
+- URL: https://x.com/csanuragjain/status/1603695204921245697
+- Metrics (at fetch): not returned
+
+> Just saw multiple 0 value transfer from my wallet (USDT allows to initiate 0 value transfer from any address as 0 allowance reqd).
+> On research found a new form of attack -&gt; https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M
+> Be careful if you are copy pasting recipient address
+>
+> #bugbounty
+
+**Links in post:** https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M
+
+
+---
+
+## 2022-12-11 · Post · More Places for web3 audit reports :
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @csanuragjain — 2022-12-11 06:26 UTC (2022-12-11 07:26 WAT)
+
+- URL: https://x.com/csanuragjain/status/1601825712033308673
+- Metrics (at fetch): not returned
+
+> More Places for web3 audit reports :
+> (Part 1)
+>
+> 1. @VeridiseInc - https://veridise.com/#reports
+> 2. @Quantstamp - https://certificate.quantstamp.com/
+> 3. @SlowMist_Team  https://github.com/slowmist/Knowledge-Base/blob/master/open-report/README.md
+> 4. @CertiK - https://www.certik.com/
+> 5. @secure3io  https://github.com/Secure3Audit
+> #bugbounty #Infosec #Blockchain
+
+**Links in post:** https://veridise.com/#reports, https://certificate.quantstamp.com/, https://github.com/slowmist/Knowledge-Base/blob/master/open-report/README.md, https://www.certik.com/, https://github.com/Secure3Audit
+
+
+---
+
+## 2022-12-03 · Post · 1 year of hardwork paid off, 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @csanuragjain — 2022-12-03 18:47 UTC (2022-12-03 19:47 WAT)
+
+- URL: https://x.com/csanuragjain/status/1599113091555692545
+- Metrics (at fetch): not returned
+
+> 1 year of hardwork paid off, 
+>
+> 1. 9th rank at @code4rena as of today
+> 2. Multiple Critical issue reported at @immunefi 
+> 3. Completed multiple audits for @auditone_team and filed multiple Critical
+>
+> #bugbounty #immunefi #Infosec #blockchain [pic.x.com/1pBlV2XOn3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjEv5AyUYAACAot.png — no alt text provided by author
+
+
+---
+
+## 2022-10-27 · Post · More places to enhance your web3 Security audit skills:
+
+
+### Post — @csanuragjain — 2022-10-27 04:47 UTC (2022-10-27 05:47 WAT)
+
+- URL: https://x.com/csanuragjain/status/1585493475851522049
+- Metrics (at fetch): not returned
+
+> More places to enhance your web3 Security audit skills:
+>
+> @SpearbitDAO : https://github.com/spearbit/portfolio/tree/master/pdfs
+>
+> @trailofbits : https://github.com/trailofbits/publications/tree/master/reviews
+
+**Links in post:** https://github.com/spearbit/portfolio/tree/master/pdfs, https://github.com/trailofbits/publications/tree/master/reviews
+
+
+---
+
+## 2022-10-14 · Post · Participating in web3 bounty/Audit, check out these past reports which helps you learn new ways
+
+
+Tags (automatic): Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @csanuragjain — 2022-10-14 17:17 UTC (2022-10-14 18:17 WAT)
+
+- URL: https://x.com/csanuragjain/status/1580971168474882048
+- Metrics (at fetch): not returned
+
+> Participating in web3 bounty/Audit, check out these past reports which helps you learn new ways
+>
+> @immunefi - https://medium.com/immunefi
+>
+> @code4rena - https://code4rena.com/reports
+>
+> @TheSecureum - https://github.com/secureum/CARE &amp; https://secureum.substack.com/
+>
+> @sherlockdefi - https://github.com/sherlock-audit
+
+**Links in post:** https://medium.com/immunefi, https://code4rena.com/reports, https://github.com/secureum/CARE, https://secureum.substack.com/, https://github.com/sherlock-audit
+
+
+---
+
+## 2022-09-29 · Reply · @TheSecureum is providing web3 dev/auditors an opportunity to learn and earn at the same time.
+
+
+### Post — @csanuragjain — 2022-09-29 05:31 UTC (2022-09-29 06:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/1575357512533975040
+- Metrics (at fetch): not returned
+
+> @TheSecureum is providing web3 dev/auditors an opportunity to learn and earn at the same time.
+> The tutorials are free and their discord allows to ask doubts from web3 leading security experts.
+> Top performers in their weekly races are given chance to perform audit and earn rewards
+
+
+---
+
+## 2022-09-25 · Post · If you are in web3 Security, you definitely should be hunting for bounties/rewards on below platform
+
+
+Tags (automatic): Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @csanuragjain — 2022-09-25 15:25 UTC (2022-09-25 16:25 WAT)
+
+- URL: https://x.com/csanuragjain/status/1574057429519675393
+- Metrics (at fetch): not returned
+
+> If you are in web3 Security, you definitely should be hunting for bounties/rewards on below platforms
+>
+> 1. @code4rena 
+> 2. @auditone_team 
+> 3. @sherlockdefi 
+> 4. @immunefi 
+> 5. @HatsFinance
+
+
+---
+
+## 2022-08-15 · Post · Although report was closed but team response was very motivating :)
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @csanuragjain — 2022-08-15 12:10 UTC (2022-08-15 13:10 WAT)
+
+- URL: https://x.com/csanuragjain/status/1559150587966472192
+- Metrics (at fetch): not returned
+
+> Although report was closed but team response was very motivating :)
+> "While no payout is being provided in this instance, we do appreciate your responsible disclosure and strongly encourage it in the future if you find further potential vulnerabilities!"
+> @SovrynBTC  @immunefi
+
+
+---
+
+## 2022-06-10 · Post · I think all Web3 projects should get their security assessment done via @code4rena and @immunefi . B
+
+
+Tags (automatic): Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @csanuragjain — 2022-06-10 11:28 UTC (2022-06-10 12:28 WAT)
+
+- URL: https://x.com/csanuragjain/status/1535222296582815744
+- Metrics (at fetch): not returned
+
+> I think all Web3 projects should get their security assessment done via @code4rena and @immunefi . Both have prevented lots of hacks and have awesome talented ethical hackers. I have learned a lot from both places 😀
+
+
+---
+
+## 2018-11-14 · Reply · @jobertabma 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @csanuragjain — 2018-11-14 05:43 UTC (2018-11-14 06:43 WAT)
+
+- URL: https://x.com/csanuragjain/status/1062581751984373760
+- Metrics (at fetch): not returned
+
+> @jobertabma 
+> Need your help here. I had submitted a Mediation request on Hackerone for report #434202 , but no response yet. Request you to kindly help.
+> Also can you please help with public disclosures of #434689 and #268123

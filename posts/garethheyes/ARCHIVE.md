@@ -2,18 +2,33 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 51
-- Oldest post captured: 2026-08-26
+- Posts in this file: 65
+- Conversations/threads: 53
+- Oldest post captured: 2026-06-29
 - Newest post captured: 2026-11-09
 
 
 ---
 
-## 2026-11-09 · Reply · @MorboAalst Congrats! Glad it helped
+## 2026-07-21 · Thread · I haven't posted a crazy XSS vector for a while...
 
 
-### Post — @garethheyes — 2026-11-09 19:24 UTC (2026-11-09 20:24 WAT)
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-07-21 20:33 UTC (2026-07-21 21:33 WAT)
+
+- URL: https://x.com/garethheyes/status/2079665975075434710
+- Metrics (at fetch): not returned
+
+> I haven't posted a crazy XSS vector for a while...
+> Works on every browser [pic.x.com/PzeM8uM3zS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNx0WfkWMAAFJqL.jpg — alt text: "<alert(1) onfocus="attributes[0].value=localName,new onfocus" autofocus tabindex=1>"
+
+
+### Thread part 2 — @garethheyes — 2026-11-09 19:24 UTC (2026-11-09 20:24 WAT)
 
 - URL: https://x.com/garethheyes/status/2119873713835307463
 - Metrics (at fetch): bookmark 0, impression 22, like 1, quote 0, reply 0, retweet 0
@@ -972,3 +987,35 @@ Tags (automatic): XSS
 - Metrics (at fetch): not returned
 
 > Fixed another collision bug. If you opened the doors you could walk through walls.
+
+
+---
+
+## 2026-08-06 · Post · Super excited to share my research at Black Hat. 1 hour 15 mins to go...I'm buzzing
+
+
+### Post — @garethheyes — 2026-08-06 20:19 UTC (2026-08-06 21:19 WAT)
+
+- URL: https://x.com/garethheyes/status/2085460693109633256
+- Metrics (at fetch): bookmark 0, impression 1728, like 16, quote 0, reply 0, retweet 1
+
+> Super excited to share my research at Black Hat. 1 hour 15 mins to go...I'm buzzing
+
+
+---
+
+## 2026-06-29 · Post · I think this is the best most elegant XSS vector I've ever found https://t.co/ccQhQlohqg
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-06-29 19:59 UTC (2026-06-29 20:59 WAT)
+
+- URL: https://x.com/garethheyes/status/2071685072621535440
+- Metrics (at fetch): bookmark 87, impression 12401, like 181, quote 0, reply 4, retweet 16
+
+> I think this is the best most elegant XSS vector I've ever found https://t.co/ccQhQlohqg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMAaJl-W4AAXOTk.jpg — alt text: "onerror=eval,new name"

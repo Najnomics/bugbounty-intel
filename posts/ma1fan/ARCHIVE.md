@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 52
-- Conversations/threads: 51
-- Oldest post captured: 2026-02-21
+- Posts in this file: 63
+- Conversations/threads: 62
+- Oldest post captured: 2025-08-28
 - Newest post captured: 2026-11-10
 
 
@@ -874,7 +874,28 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 **Media:**
 - photo: https://pbs.twimg.com/media/HI0AF7mXMAEUalC.jpg — no alt text provided by author
 
-**Quoted post** 2057085190565224699: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1395504028910424065 — 2026-05-20 13:05 UTC (2026-05-20 14:05 WAT)
+    
+    - URL: https://x.com/1395504028910424065/status/2057085190565224699
+    - Metrics (at fetch): not returned
+    
+    > We’re sharing our completed post-mortem on the April 18th incident, prepared with @Mandiant and @CrowdStrike. We are publishing both an executive summary and the full report at the link below.
+    >
+    > Over the past four weeks, we’ve worked with hundreds of partners to help them understand their current security posture, and harden it where appropriate. We’ll continue this work, alongside taking additional proactive steps for the benefit of not only our partners, but also the ecosystem as a whole.
+    >
+    > We want to extend our thanks to our partners for their support and patience this past month. There’s a reason that over $12 billion has moved across the network in the past four weeks, and why the world’s most valuable asset issuers have stood by our side: they believe in us, in what the LayerZero protocol has to offer, and in the value of modular, isolated, application-controlled security.
+    >
+    > The work continues. And we look forward to continue showing up for the applications that trust us with their business, as well as the broader ecosystem.
+    >
+    > https://layerzero.network/blog/layerzero-labs-kelpdao-incident-report
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIw8FGmaYAAkH4c.jpg — no alt text provided by author
+    
+    **Links in post:** https://layerzero.network/blog/layerzero-labs-kelpdao-incident-report
+    
 
 
 ---
@@ -1077,3 +1098,343 @@ Tags (automatic): AI-assisted hunting
 > AI write code -&gt; AI  found bug-&gt; AI fix bug. All the money flow to AI company.
 > but why should human paid for the bug  AI  writed?
 > I think  AI company should  paid  for the security incident in the future  and fixed the bug free😀
+
+
+---
+
+## 2026-01-26 · Post · 🚨 URGENT SECURITY ALERT
+
+
+### Post — @ma1fan — 2026-01-26 05:30 UTC (2026-01-26 06:30 WAT)
+
+- URL: https://x.com/ma1fan/status/2015658618893549661
+- Metrics (at fetch): bookmark 12, impression 3351, like 14, quote 0, reply 1, retweet 0
+
+> 🚨 URGENT SECURITY ALERT
+>
+> We are closely monitoring the exploit affecting Aperture V3/V4. If you have interacted with these contracts, revoke approvals immediately for the address below to secure your assets.
+>
+> 📍 Address: 0xD83d960deBEC397fB149b51F8F37DD3B5CFA8913
+>
+> Safety https://t.co/cpxSrI8UrI
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1422298025603436568 — 2026-01-25 23:19 UTC (2026-01-26 00:19 WAT)
+    
+    - URL: https://x.com/1422298025603436568/status/2015565097884864850
+    - Metrics (at fetch): bookmark 14, impression 15326, like 36, quote 6, reply 18, retweet 14
+    
+    > URGENT: Security Incident Notice
+    >
+    > We are aware of an exploit affecting the Aperture V3/V4 contract.
+    >
+    > We have stopped core features on frontend app to prevent new approvals.
+    >
+    > We are investigating the root cause with security partners.
+    >
+    > IMMEDIATE ACTION: Please revoke all approvals
+    
+
+
+---
+
+## 2025-12-19 · Post · First time receive USDC bug bounty at @hackerone 😀😀😀 [pic.x.com/vlbjsrXeSy]
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ma1fan — 2025-12-19 13:27 UTC (2025-12-19 14:27 WAT)
+
+- URL: https://x.com/ma1fan/status/2002007981362467206
+- Metrics (at fetch): not returned
+
+> First time receive USDC bug bounty at @hackerone 😀😀😀 [pic.x.com/vlbjsrXeSy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G8iPY59bAAAXnCr.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-16 · Post · I have post  my yETH @yearnfi  exploit analysis part 1, check it in here:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ma1fan — 2025-12-16 10:45 UTC (2025-12-16 11:45 WAT)
+
+- URL: https://x.com/ma1fan/status/2000879897787687272
+- Metrics (at fetch): not returned
+
+> I have post  my yETH @yearnfi  exploit analysis part 1, check it in here:
+> https://exvulsec.github.io/defi/security/post-mortem/2025/12/16/yeth-exploit-analysis-part-1.html
+
+**Links in post:** https://exvulsec.github.io/defi/security/post-mortem/2025/12/16/yeth-exploit-analysis-part-1.html
+
+
+---
+
+## 2025-12-12 · Post · r*sp= 139403088792179833299,
+
+
+### Post — @ma1fan — 2025-12-12 05:37 UTC (2025-12-12 06:37 WAT)
+
+- URL: https://x.com/ma1fan/status/1999352947969585526
+- Metrics (at fetch): not returned
+
+> r*sp= 139403088792179833299,
+> s=10926206009850976626607
+> (r*sp/s)==0🤓🤓🤓.
+> I will release writeup next Monday
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G78gVM4agAIck9s.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/ma1fan/status/1998728883458416880
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2025-12-10 12:17 UTC (2025-12-10 13:17 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1998728883458416880
+    - Metrics (at fetch): not returned
+    
+    > I have read all the yETH exploit writeups (The actually keypoint is how vb_prod turn into `0`) Although they are all well written, they do not provide a detailed analysis of the key calculation steps.  I have manually reproduced the entire process（the picture `p` ==`vb_prod` ==0）and I will release my writeup as soon as possible! @yearnfi
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/G7zpTcwacAAfQ9m.png — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/ma1fan/status/1997911076936228865
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @ma1fan — 2025-12-08 06:08 UTC (2025-12-08 07:08 WAT)
+        
+        - URL: https://x.com/ma1fan/status/1997911076936228865
+        - Metrics (at fetch): not returned
+        
+        > Many people say that the YETH attack was discovered through fuzzing I don't believe that fuzzing can directly discover such a complex attack path. It's more likely that it discovered exploitable attack primitives and then amplified the harm step by step. @yearn 
+        > https://github.com/yearn/yearn-security/blob/master/disclosures/2025-12-01.md
+        
+        **Links in post:** https://github.com/yearn/yearn-security/blob/master/disclosures/2025-12-01.md
+        
+    
+
+
+---
+
+## 2025-12-10 · Post · I have read all the yETH exploit writeups (The actually keypoint is how vb_prod turn into `0`) Altho
+
+
+### Post — @ma1fan — 2025-12-10 12:17 UTC (2025-12-10 13:17 WAT)
+
+- URL: https://x.com/ma1fan/status/1998728883458416880
+- Metrics (at fetch): not returned
+
+> I have read all the yETH exploit writeups (The actually keypoint is how vb_prod turn into `0`) Although they are all well written, they do not provide a detailed analysis of the key calculation steps.  I have manually reproduced the entire process（the picture `p` ==`vb_prod` ==0）and I will release my writeup as soon as possible! @yearnfi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7zpTcwacAAfQ9m.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/ma1fan/status/1997911076936228865
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2025-12-08 06:08 UTC (2025-12-08 07:08 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1997911076936228865
+    - Metrics (at fetch): not returned
+    
+    > Many people say that the YETH attack was discovered through fuzzing I don't believe that fuzzing can directly discover such a complex attack path. It's more likely that it discovered exploitable attack primitives and then amplified the harm step by step. @yearn 
+    > https://github.com/yearn/yearn-security/blob/master/disclosures/2025-12-01.md
+    
+    **Links in post:** https://github.com/yearn/yearn-security/blob/master/disclosures/2025-12-01.md
+    
+
+
+---
+
+## 2025-12-08 · Post · Many people say that the YETH attack was discovered through fuzzing I don't believe that fuzzing can
+
+
+### Post — @ma1fan — 2025-12-08 06:08 UTC (2025-12-08 07:08 WAT)
+
+- URL: https://x.com/ma1fan/status/1997911076936228865
+- Metrics (at fetch): not returned
+
+> Many people say that the YETH attack was discovered through fuzzing I don't believe that fuzzing can directly discover such a complex attack path. It's more likely that it discovered exploitable attack primitives and then amplified the harm step by step. @yearn 
+> https://github.com/yearn/yearn-security/blob/master/disclosures/2025-12-01.md
+
+**Links in post:** https://github.com/yearn/yearn-security/blob/master/disclosures/2025-12-01.md
+
+
+---
+
+## 2025-11-06 · Post · A review of the @balancer exploit shows a 1-minute and 24-second delay between the initial exploit t
+
+
+### Post — @ma1fan — 2025-11-06 03:02 UTC (2025-11-06 04:02 WAT)
+
+- URL: https://x.com/ma1fan/status/1986267847560184011
+- Metrics (at fetch): not returned
+
+> A review of the @balancer exploit shows a 1-minute and 24-second delay between the initial exploit transaction (07:46:47 AM UTC) and the subsequent transfer of the stolen funds (07:48:11 AM UTC).
+>
+> This time gap indicates a potential window of opportunity. It stands to reason that a sufficiently fast and effective internal monitoring system could have flagged the anomalous activity from the exploit and triggered a contract pause, thereby preventing the withdrawal of the stolen assets.
+>
+> Exploit Time: Nov-03-2025 07:46:47 AM UTC (https://etherscan.io/tx/0x6ed07db1a9fe5c0794d44cd36081d6a6df103fab868cdd75d581e3bd23bc9742)
+>
+> Funds Transfer: Nov-03-2025 07:48:11 AM UTC (https://etherscan.io/tx/0xd155207261712c35fa3d472ed1e51bfcd816e616dd4f517fa5959836f5b48569)
+
+**Links in post:** https://etherscan.io/tx/0x6ed07db1a9fe5c0794d44cd36081d6a6df103fab868cdd75d581e3bd23bc9742, https://etherscan.io/tx/0xd155207261712c35fa3d472ed1e51bfcd816e616dd4f517fa5959836f5b48569
+
+
+---
+
+## 2025-10-07 · Post · Apple always pay a low bug reward to SR, Shame on @Apple , they are  top technology company , make h
+
+
+### Post — @ma1fan — 2025-10-07 09:36 UTC (2025-10-07 10:36 WAT)
+
+- URL: https://x.com/ma1fan/status/1975495452046049371
+- Metrics (at fetch): bookmark 0, impression 1411, like 5, quote 0, reply 0, retweet 0
+
+> Apple always pay a low bug reward to SR, Shame on @Apple , they are  top technology company , make huge revenue, why  not respect SR’s hard work! https://t.co/SN3PA0fsZE
+
+**Quoted post (full text):**
+
+    #### Quoted post — @359455428 — 2025-07-29 20:42 UTC (2025-07-29 21:42 WAT)
+    
+    - URL: https://x.com/359455428/status/1950295895070953978
+    - Metrics (at fetch): bookmark 2619, impression 3163440, like 31700, quote 120, reply 325, retweet 901
+    
+    > Apple awarded me only $1,000 for this bug, I should quit this bug bounty thing and get a real job. https://t.co/PQncuqhqUs
+    
+    **Quoted post** 1930386131163455530: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-08-30 · Post · I know that some auditing firms restrict auditors from participating in competitive audits and bug b
+
+
+### Post — @ma1fan — 2025-08-30 09:56 UTC (2025-08-30 10:56 WAT)
+
+- URL: https://x.com/ma1fan/status/1961729808431472959
+- Metrics (at fetch): bookmark 1, impression 2054, like 21, quote 0, reply 2, retweet 0
+
+> I know that some auditing firms restrict auditors from participating in competitive audits and bug bounties,
+>
+> but at @exvulsec we encourage auditors to participate in competitive audits and bug bounties! https://t.co/QxOX5YXaxO
+
+**Quoted post (full text):**
+
+    #### Quoted post — @HackenProof — 2025-08-29 15:48 UTC (2025-08-29 16:48 WAT)
+    
+    - URL: https://x.com/HackenProof/status/1961455894618677618
+    - Metrics (at fetch): bookmark 1, impression 15450, like 37, quote 5, reply 1, retweet 5
+    
+    > ✨Top Hackers of the Week ✨
+    >
+    > 1️⃣ @alexbabits 
+    > 2️⃣ CertiK
+    > 3️⃣ @0xeasonnong 
+    >
+    > Huge shoutout and congrats to our elite hunters— you've crushed it! 🎉
+    >
+    > Who’s ready to climb the leaderboard next week? https://t.co/V5XMKAuTiT
+    
+    **Media:**
+    - media `3_1961416925759639552` (details not returned by the API)
+    
+
+
+---
+
+## 2025-08-28 · Post · so crazy! 🤣🤣🤣I just found a v8 bug by llm inspired by this https://t.co/J23m9hfZBX https://t.co/PLpG
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @ma1fan — 2025-08-28 08:43 UTC (2025-08-28 09:43 WAT)
+
+- URL: https://x.com/ma1fan/status/1960986597551431969
+- Metrics (at fetch): bookmark 34, impression 8874, like 71, quote 1, reply 1, retweet 2
+
+> so crazy! 🤣🤣🤣I just found a v8 bug by llm inspired by this https://t.co/J23m9hfZBX https://t.co/PLpGzT8zGC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GzbS2k8a4AIrSIU.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1695083774881550336 — 2025-08-27 13:26 UTC (2025-08-27 14:26 WAT)
+    
+    - URL: https://x.com/1695083774881550336/status/1960695507166114043
+    - Metrics (at fetch): bookmark 16, impression 19430, like 26, quote 2, reply 0, retweet 1
+    
+    > Similar to await-using-tick-count.js/await-using-count-ticks.js(verifies the correct microtask interleaving and disposal order for multiple sequential 'await' using declarations in an 'async' function without a loop)
+    >
+    > https://t.co/WRTZdvm56r
+    > https://t.co/DBM2Ien2ya
+    >
+    > Thx @__suto https://t.co/GB1VxvlkNI https://t.co/ewZAfqjmHe
+    
+    **Media:**
+    - media `3_1960693786218020865` (details not returned by the API)
+    
+    **Quoted post** 1957923231848972433: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-08-28 · Post · vibe v8 bug hunting coming!🤣🤣🤣 https://t.co/OwhsujYZH0
+
+
+### Post — @ma1fan — 2025-08-28 04:29 UTC (2025-08-28 05:29 WAT)
+
+- URL: https://x.com/ma1fan/status/1960922553704439844
+- Metrics (at fetch): bookmark 4, impression 3887, like 14, quote 1, reply 0, retweet 0
+
+> vibe v8 bug hunting coming!🤣🤣🤣 https://t.co/OwhsujYZH0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1695083774881550336 — 2025-08-27 13:53 UTC (2025-08-27 14:53 WAT)
+    
+    - URL: https://x.com/1695083774881550336/status/1960702332611531046
+    - Metrics (at fetch): bookmark 23, impression 10373, like 35, quote 3, reply 2, retweet 4
+    
+    > await-using-tick-count.js -&gt; CVE-2025-9132(bug: 436181695), using Grok 4 https://t.co/X4r0RPm7JX https://t.co/lDwCT9PPRd
+    
+    **Media:**
+    - media `3_1960700987288530944` (details not returned by the API)
+    - media `3_1960702150389948416` (details not returned by the API)
+    - media `3_1960702321836347392` (details not returned by the API)
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1695083774881550336 — 2025-08-27 13:26 UTC (2025-08-27 14:26 WAT)
+        
+        - URL: https://x.com/1695083774881550336/status/1960695507166114043
+        - Metrics (at fetch): bookmark 16, impression 19430, like 26, quote 2, reply 0, retweet 1
+        
+        > Similar to await-using-tick-count.js/await-using-count-ticks.js(verifies the correct microtask interleaving and disposal order for multiple sequential 'await' using declarations in an 'async' function without a loop)
+        >
+        > https://t.co/WRTZdvm56r
+        > https://t.co/DBM2Ien2ya
+        >
+        > Thx @__suto https://t.co/GB1VxvlkNI https://t.co/ewZAfqjmHe
+        
+        **Media:**
+        - media `3_1960693786218020865` (details not returned by the API)
+        
+        **Quoted post** 1957923231848972433: not readable via the API (deleted, private, or withheld).
+        
+    

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 47
-- Conversations/threads: 43
-- Oldest post captured: 2026-07-30
+- Posts in this file: 90
+- Conversations/threads: 86
+- Oldest post captured: 2023-12-27
 - Newest post captured: 2026-11-09
 
 
@@ -854,3 +854,945 @@ Tags (automatic): AI-assisted hunting
 > Frequently takes small bug fix &amp; creates insanely complicated "solution" which dwarfs small bug it claims to fix.
 >
 > Opus 5's purpose is to max burn your tokens increasing @claudeai revenue prior to IPO.
+
+
+---
+
+## 2026-07-28 · Post · There are 3 types of auditors who provide value in the new auditing meta; the more of these 3 skills
+
+
+### Post — @DevDacian — 2026-07-28 13:31 UTC (2026-07-28 14:31 WAT)
+
+- URL: https://x.com/DevDacian/status/2082096671736119662
+- Metrics (at fetch): bookmark 36, impression 3622, like 83, quote 0, reply 6, retweet 6
+
+> There are 3 types of auditors who provide value in the new auditing meta; the more of these 3 skillsets you can excel in &amp; combine, the more value you can provide both to your firm &amp; clients:
+>
+> 1⃣ Automator
+>
+> Skilled in quality data prep &amp; harvest, post-training/fine-tuning,
+
+
+---
+
+## 2026-07-21 · Post · Shout out @0xStalin @AliX__40 @BengalCatBalu @alexzoid AMAZING work on vault aggregator audit with f
+
+
+### Post — @DevDacian — 2026-07-21 10:27 UTC (2026-07-21 11:27 WAT)
+
+- URL: https://x.com/DevDacian/status/2079513565409800668
+- Metrics (at fetch): bookmark 10, impression 5115, like 59, quote 2, reply 4, retweet 2
+
+> Shout out @0xStalin @AliX__40 @BengalCatBalu @alexzoid AMAZING work on vault aggregator audit with formal verification finding:
+>
+> * 1 Critical
+> * 5 High
+> * 7 Med
+> * 16 Low
+> * 29 Info, 5 Gas
+>
+> A difficult audit but @cyfrin auditors pushed hard to provide great findings 🚀 https://t.co/VaIR5tEkNa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNvqVzpawAAgDw1.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-17 · Post · On this audit Solace's relative output scored 58.4% adjusted for severity (Good &gt;= 50%).
+
+
+### Post — @DevDacian — 2026-07-17 11:25 UTC (2026-07-17 12:25 WAT)
+
+- URL: https://x.com/DevDacian/status/2078078688579723269
+- Metrics (at fetch): bookmark 0, impression 1644, like 17, quote 0, reply 4, retweet 0
+
+> On this audit Solace's relative output scored 58.4% adjusted for severity (Good &gt;= 50%).
+>
+> Its false-positive rate was 9.3% so 90.7% of what it found was valid - very high signal!
+>
+> This was never-before-seen code so not a BS historical benchmark but true real-world use 🚀 https://t.co/0sXfLL348N
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2026-07-16 12:12 UTC (2026-07-16 13:12 WAT)
+    
+    - URL: https://x.com/DevDacian/status/2077728056479998059
+    - Metrics (at fetch): bookmark 7, impression 6684, like 56, quote 3, reply 1, retweet 0
+    
+    > Shout out @jesjupyter @ctrusonchain @auditor_nate AMAZING work on Solana marketplace audit finding:
+    >
+    > * 1 Critical
+    > * 6 High
+    > * 17 Med
+    > * 37 Low
+    > * 41 Info, 5 Gas
+    >
+    > HUGE result @cyfrin delivering monster 118-page reported packed full of value, LOVE to see it 🚀 https://t.co/mbvieZowlW
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HNWRhQsbAAEwxdx.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-07-16 · Post · Shout out @jesjupyter @ctrusonchain @auditor_nate AMAZING work on Solana marketplace audit finding:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2026-07-16 12:12 UTC (2026-07-16 13:12 WAT)
+
+- URL: https://x.com/DevDacian/status/2077728056479998059
+- Metrics (at fetch): bookmark 7, impression 6684, like 56, quote 3, reply 1, retweet 0
+
+> Shout out @jesjupyter @ctrusonchain @auditor_nate AMAZING work on Solana marketplace audit finding:
+>
+> * 1 Critical
+> * 6 High
+> * 17 Med
+> * 37 Low
+> * 41 Info, 5 Gas
+>
+> HUGE result @cyfrin delivering monster 118-page reported packed full of value, LOVE to see it 🚀 https://t.co/mbvieZowlW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNWRhQsbAAEwxdx.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-15 · Post · &gt; Casually rebalance a few mil across chains
+
+
+### Post — @DevDacian — 2026-07-15 10:36 UTC (2026-07-15 11:36 WAT)
+
+- URL: https://x.com/DevDacian/status/2077341575919890529
+- Metrics (at fetch): bookmark 2, impression 4220, like 47, quote 0, reply 4, retweet 0
+
+> &gt; Casually rebalance a few mil across chains
+>
+> &gt; D-Tier audit firms: "OMG BRO U GOT HACKED!!!!1111"
+
+
+---
+
+## 2026-07-13 · Post · This week @cyfrin is running 7 private audits in parallel, engaging 20 top auditors!
+
+
+### Post — @DevDacian — 2026-07-13 11:21 UTC (2026-07-13 12:21 WAT)
+
+- URL: https://x.com/DevDacian/status/2076628033365238043
+- Metrics (at fetch): bookmark 2, impression 3277, like 75, quote 0, reply 5, retweet 1
+
+> This week @cyfrin is running 7 private audits in parallel, engaging 20 top auditors!
+>
+> Audit demand remains extremely strong; our private audit business is on track for another record revenue year, growing by +25% 🚀
+>  
+> 🫶 Blessed to be helping secure many top protocols 🫶
+
+
+---
+
+## 2026-07-06 · Post · Running 8 private audits in parallel this week, engaging 24 top auditors!
+
+
+### Post — @DevDacian — 2026-07-06 09:59 UTC (2026-07-06 10:59 WAT)
+
+- URL: https://x.com/DevDacian/status/2074070840677904718
+- Metrics (at fetch): bookmark 6, impression 3379, like 99, quote 0, reply 6, retweet 0
+
+> Running 8 private audits in parallel this week, engaging 24 top auditors!
+>
+> Last year @cyfrin grew our private audit revenue by 50%, this year we're on track for compounded 25% growth on top of last year's 50% 🔥
+>
+> Growing during bull &amp; bear markets 🚀
+
+
+---
+
+## 2026-07-03 · Post · Introducing Coldclone - neutralize a wide range of auto-execution &amp; prompt-injection attacks bef
+
+
+### Post — @DevDacian — 2026-07-03 14:25 UTC (2026-07-03 15:25 WAT)
+
+- URL: https://x.com/DevDacian/status/2073050412228522264
+- Metrics (at fetch): bookmark 40, impression 6393, like 56, quote 3, reply 2, retweet 5
+
+> Introducing Coldclone - neutralize a wide range of auto-execution &amp; prompt-injection attacks before opening an unknown repo. Don't ever quote an audit without it!
+>
+> Shout out @__Raiders who contributed some code &amp; ideas.
+>
+> https://t.co/KtpNs5EKdv https://t.co/qg8e3FU7ZT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMT0DAiaoAAdf1x.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-01 · Post · Introducing Touchstone - an open-source lightweight, fast &amp; automated multi-model workflow for r
+
+
+### Post — @DevDacian — 2026-07-01 08:16 UTC (2026-07-01 09:16 WAT)
+
+- URL: https://x.com/DevDacian/status/2072232814393856486
+- Metrics (at fetch): bookmark 54, impression 3784, like 74, quote 1, reply 5, retweet 2
+
+> Introducing Touchstone - an open-source lightweight, fast &amp; automated multi-model workflow for rapid skill improvement.
+>
+> Give it an idea, feature or bug report and it does the rest!
+>
+> https://t.co/wyTvil3xaP https://t.co/2ZypV8uqTc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMIMloGbcAAFnBe.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-30 · Post · Private Audit Bull Market is BACK 🔥
+
+
+### Post — @DevDacian — 2026-06-30 10:02 UTC (2026-06-30 11:02 WAT)
+
+- URL: https://x.com/DevDacian/status/2071897111743050234
+- Metrics (at fetch): bookmark 15, impression 4490, like 137, quote 0, reply 17, retweet 3
+
+> Private Audit Bull Market is BACK 🔥
+>
+> Number of @cyfrin private audits booked in parallel:
+>
+> 7⃣ this week
+> 9⃣ next week
+> 6⃣ two weeks later
+> 6⃣ three weeks later
+> 4⃣ four weeks later
+>
+> Can we hit double-digits in parallel? Our previous max is 9 audits in parallel during Q1.
+
+
+---
+
+## 2026-06-16 · Post · Solace's avg false-positive (FP) rate on all our smart contract private audits since March is 23.7% 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2026-06-16 14:19 UTC (2026-06-16 15:19 WAT)
+
+- URL: https://x.com/DevDacian/status/2066888314821787858
+- Metrics (at fetch): bookmark 3, impression 1851, like 20, quote 0, reply 2, retweet 1
+
+> Solace's avg false-positive (FP) rate on all our smart contract private audits since March is 23.7% while its worst FP rate was 55.1% in an audit that started with stale spec/doc inputs.
+>
+> Biggest FP reasons are by-design &amp; trusted-role/centralization. During the pre-audit phase,
+
+
+---
+
+## 2026-06-15 · Post · 💡5 Private Audit Market Trends Q2 2026💡
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-06-15 11:59 UTC (2026-06-15 12:59 WAT)
+
+- URL: https://x.com/DevDacian/status/2066490872292851951
+- Metrics (at fetch): bookmark 30, impression 3639, like 63, quote 0, reply 7, retweet 2
+
+> 💡5 Private Audit Market Trends Q2 2026💡
+>
+> 1⃣ Larger Codebases
+>
+> Protocols using AI to code huge codebases for their V1 "Minimum" Viable Product (MVP) then shocked at quoted total security spend for multiple audits of huge codebases with tons of complexity &amp; attack surface.
+>
+> We've
+
+
+---
+
+## 2026-06-11 · Post · Ran Solace using Codex CLI with GPT 5.5
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-06-11 09:32 UTC (2026-06-11 10:32 WAT)
+
+- URL: https://x.com/DevDacian/status/2065004151000670510
+- Metrics (at fetch): bookmark 7, impression 2786, like 32, quote 0, reply 5, retweet 1
+
+> Ran Solace using Codex CLI with GPT 5.5
+>
+> Solace's Composite Exploit agent triggered safety filter rejection, but GPT 5.5 automatically re-spawned it with slightly modified prompt which successfully bypassed safety filter!
+>
+> That's the kind of AI I need in my life💪
+
+
+---
+
+## 2026-06-10 · Post · Claude SILENTLY DOWNGRADED Fable -&gt; Opus in purely defensive session mitigating attack targeting 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-06-10 10:50 UTC (2026-06-10 11:50 WAT)
+
+- URL: https://x.com/DevDacian/status/2064661420747505990
+- Metrics (at fetch): bookmark 2, impression 8138, like 63, quote 1, reply 8, retweet 4
+
+> Claude SILENTLY DOWNGRADED Fable -&gt; Opus in purely defensive session mitigating attack targeting us.
+>
+> Then it LIED about doing so &amp; when called out on it admitted the downgrade but said this was ok as Opus is the "arguably stronger" model.
+>
+> TOTAL CLOWN SHOW @claudeai https://t.co/q6FyC9ygkn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKcmb04awAAEQrD.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-10 · Post · I asked Fable where I could find audit reports for a particular bug/vuln niche, it answered my query
+
+
+### Post — @DevDacian — 2026-06-10 00:11 UTC (2026-06-10 01:11 WAT)
+
+- URL: https://x.com/DevDacian/status/2064500629553455242
+- Metrics (at fetch): bookmark 2, impression 2273, like 35, quote 0, reply 5, retweet 1
+
+> I asked Fable where I could find audit reports for a particular bug/vuln niche, it answered my query using Opus due to safety filters.
+>
+> For auditing Fable is just a 2x more expensive Opus 😅
+
+
+---
+
+## 2026-06-08 · Post · Encountered an interesting bug likely costing @amazon  millions per year.
+
+
+### Post — @DevDacian — 2026-06-08 10:29 UTC (2026-06-08 11:29 WAT)
+
+- URL: https://x.com/DevDacian/status/2063931483996491848
+- Metrics (at fetch): bookmark 6, impression 3682, like 27, quote 0, reply 2, retweet 0
+
+> Encountered an interesting bug likely costing @amazon  millions per year.
+>
+> Ordered 2 items from Amazon, originally both would be shipped together.
+>
+> But Item A arrived first then Item B was shipped separately but damaged in transit &amp; never delivered.
+>
+> Got notification that Item B
+
+
+---
+
+## 2026-06-02 · Post · Really wild for audit firms to target their private audit clients with bug bounties.
+
+
+### Post — @DevDacian — 2026-06-02 10:13 UTC (2026-06-02 11:13 WAT)
+
+- URL: https://x.com/DevDacian/status/2061752941816811836
+- Metrics (at fetch): bookmark 5, impression 3818, like 77, quote 1, reply 9, retweet 3
+
+> Really wild for audit firms to target their private audit clients with bug bounties.
+>
+> At @cyfrin outside of private audit engagements we disclose bugs directly to our private audit clients for free with no expectation of bounty.
+>
+> Always doing our best to protect our clients 🤝
+
+
+---
+
+## 2026-05-29 · Post · We audited well-funded innovative protocol with great real-world use case, then they stayed in steal
+
+
+### Post — @DevDacian — 2026-05-29 14:33 UTC (2026-05-29 15:33 WAT)
+
+- URL: https://x.com/DevDacian/status/2060368816144896450
+- Metrics (at fetch): bookmark 1, impression 2070, like 41, quote 0, reply 1, retweet 1
+
+> We audited well-funded innovative protocol with great real-world use case, then they stayed in stealth mode forever &amp; kept delaying.
+>
+> This month we got 2 audit requests for new protocols which cloned their idea &amp; added better features on top; clones will beat them to market GG.
+
+
+---
+
+## 2026-05-26 · Post · The hardest part of creating a private-audit-like AI Auditor is having a private-audit-like signal-t
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-05-26 11:25 UTC (2026-05-26 12:25 WAT)
+
+- URL: https://x.com/DevDacian/status/2059234372944073036
+- Metrics (at fetch): not returned
+
+> The hardest part of creating a private-audit-like AI Auditor is having a private-audit-like signal-to-noise ratio.
+>
+> 1. Private audits need to provide wide, broad & deep vulnerability coverage - they need to catch lots of things
+>
+> 2. At the same time they also need to have very high signal-to-noise ratio with minimal or no false positives & inflated severities
+>
+> Solace in its current form is very good at 1, finding a wide range of valuable issues in never-before-seen code we are auditing.
+>
+> But its signal-to-noise ratio averages around 50-50 with +/-20 variance skew in both directions.
+>
+> When using it internally human auditors verify its findings and edit/adjust as required prior to presenting to the client.
+>
+> But when using it directly the clients need to do this filtering/review themselves with makes for a worse user experience.
+>
+> This is something that is actively being worked on - new Solace releases are getting major improvements aimed at increasing the signal-to-noise ratio.
+>
+> The trickiest part is doing this without losing significant valid findings but I have some great ideas & strategies which should help overcome this risk to a significant degree.
+
+
+---
+
+## 2026-05-21 · Post · Beautiful composite exploit found by my AI Solace in @cyfrin private audit.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-05-21 14:12 UTC (2026-05-21 15:12 WAT)
+
+- URL: https://x.com/DevDacian/status/2057464544017240161
+- Metrics (at fetch): not returned
+
+> Beautiful composite exploit found by my AI Solace in @cyfrin private audit.
+>
+> Solace automagically chained together 3 individual component findings into a devastating critical drain attack 🚀
+>
+> https://solodit.cyfrin.io/issues/onchainlabexecutefromexecutor-pre-listing-module-backdoor-bypasses-marketplace-anti-fraud-surfaces-cyfrin-none-molecule-onchainlab-markdown [pic.x.com/PNlg8pWdmu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HI2U1hMaUAA-tBv.jpg — no alt text provided by author
+
+**Links in post:** https://solodit.cyfrin.io/issues/onchainlabexecutefromexecutor-pre-listing-module-backdoor-bypasses-marketplace-anti-fraud-surfaces-cyfrin-none-molecule-onchainlab-markdown
+
+
+---
+
+## 2026-05-12 · Post · Best performing @Cyfrin auditor so far in Q2 is Solace, the AI I created.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-05-12 11:49 UTC (2026-05-12 12:49 WAT)
+
+- URL: https://x.com/DevDacian/status/2054167052081103285
+- Metrics (at fetch): not returned
+
+> Best performing @Cyfrin auditor so far in Q2 is Solace, the AI I created.
+>
+> You can scan with it as much as you like only at https://cygent.dev/ for a very modest fee.
+>
+> There's no reason to ever do a private audit without first using it. [pic.x.com/h32DEnn6Tz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HIHdQkibUAA5WHF.jpg — no alt text provided by author
+
+**Links in post:** https://cygent.dev/
+
+
+---
+
+## 2026-05-12 · Post · Claude Max usage limits feel worse &amp; Extra Usage simple bug fix loop cost $76:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-05-12 03:29 UTC (2026-05-12 04:29 WAT)
+
+- URL: https://x.com/DevDacian/status/2054041277809987859
+- Metrics (at fetch): not returned
+
+> Claude Max usage limits feel worse &amp; Extra Usage simple bug fix loop cost $76:
+> * create plan to fix few small bugs
+> * 4 rounds plan review catching mistakes
+> * 3 rounds implementation review catching mistakes
+>
+> Rather than buying more extra usage should I switch to gpt pro 20x?
+
+
+---
+
+## 2026-05-11 · Post · Looking back on this post in light of recent on-chain events, instead of finding honest work like pl
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2026-05-11 12:46 UTC (2026-05-11 13:46 WAT)
+
+- URL: https://x.com/DevDacian/status/2053818960618160297
+- Metrics (at fetch): not returned
+
+> Looking back on this post in light of recent on-chain events, instead of finding honest work like plumbing jobless auditors turned to the dark-side by actively attempting (sometimes successfully) to exploit live protocols.
+>
+> Watchmen became wolves. Very sad to see. https://twitter.com/DevDacian/status/1985991319106535847
+
+**Links in post:** https://twitter.com/DevDacian/status/1985991319106535847
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2025-11-05 08:43 UTC (2025-11-05 09:43 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1985991319106535847
+    - Metrics (at fetch): not returned
+    
+    > Easy money mostly gone in auditing.
+    >
+    > Many skilled auditors w/great portfolios looking for work + tons of new firms =&gt; more competitive market than ever, hence recent ambulance chasing / grave dancing.
+    >
+    > If you haven't made it already, consider pivoting to AI or learn plumbing.
+    
+
+
+---
+
+## 2026-04-30 · Post · Solace finding LSR-level critical exploits by chaining together 3 seemingly innocent errors into an 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @DevDacian — 2026-04-30 15:12 UTC (2026-04-30 16:12 WAT)
+
+- URL: https://x.com/DevDacian/status/2049869428293292083
+- Metrics (at fetch): not returned
+
+> Solace finding LSR-level critical exploits by chaining together 3 seemingly innocent errors into an epic deadly exploit chain.
+>
+> Auditors &amp; clients alike in shock that these are being 100% automagically generated 🚀 [pic.x.com/LKvShkF6VY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HHKYuzrasAAobOI.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-29 · Post · This year every time tweets about a hack appeared, I clicked the "Explain this post" button then ask
+
+
+### Post — @DevDacian — 2026-04-29 10:54 UTC (2026-04-29 11:54 WAT)
+
+- URL: https://x.com/DevDacian/status/2049442078925680787
+- Metrics (at fetch): not returned
+
+> This year every time tweets about a hack appeared, I clicked the "Explain this post" button then asked Grok one simple question:
+>
+> "Who audited this?"
+>
+> Over 4 months a set of firms keep appearing over and over again. Coincidence? 🤔
+>
+> "All out of scope" or "All out of skill" ?
+
+
+---
+
+## 2026-04-21 · Post · Recent hack wave positive - @cyfrin clients reaching out to implement:
+
+
+Tags (automatic): ZK
+
+
+### Post — @DevDacian — 2026-04-21 14:07 UTC (2026-04-21 15:07 WAT)
+
+- URL: https://x.com/DevDacian/status/2046591781354229815
+- Metrics (at fetch): not returned
+
+> Recent hack wave positive - @cyfrin clients reaching out to implement:
+>
+> ✅ build with http://cygent.dev
+> ✅ circuit breakers
+> ✅ defense-in-depth
+> ✅ fine-grained access control
+> ✅ conduct off-chain / infra penetration testing
+>
+> Our clients will be more secure than ever 🚀
+
+**Links in post:** http://cygent.dev
+
+
+---
+
+## 2026-03-30 · Post · Q) How are you using 5-10m tokens per day?
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-03-30 10:47 UTC (2026-03-30 11:47 WAT)
+
+- URL: https://x.com/DevDacian/status/2038568883884572930
+- Metrics (at fetch): not returned
+
+> Q) How are you using 5-10m tokens per day?
+>
+> 1⃣ I created & train Solace, the latest experimental iteration of our internal vulnerability scanner. Recently I've made some major breakthroughs which unlocked new levels of performance.
+>
+> Running it can take ~45 mins or more per audit and use 1.5m -> 3m+ tokens depending on the size of the codebase. I have a systematic method for continuing to train it to find new types of vulnerabilities when it misses them.
+>
+> Doing a few runs each day can easily hit 5-10m tokens.
+>
+> 2⃣ I created & train Bastion, which to my knowledge is the first Specialist AI capable of automated formal verification for Medium complexity smart contracts. I've been quietly using it to ship FV suites as an additional deliverable for my private audit clients.
+>
+> Running it can take anywhere from 30 mins -> 5 hours+, especially if it struggles which it does on more complicated codebases. Can easily use 500k-1m+ tokens. It doesn't fully replace humans but is great for 3-5 day audits where human FV isn't feasible & can also be an efficiency gain for longer audits where a human does FV using Bastion's output as the starting point.
+>
+> 3⃣ I created process-reports which automates a lot of our various report workflows, not a great token user but a nice efficiency gain for some of our more complicated report workflows and also minimizes human error.
+>
+> 4⃣ I created another internal AI that does a lot of my management job & handles a lot of the "business intelligence/optimization" work. Again not a huge token user here but a huge efficiency gainer as it frees up my time and provides very useful business intelligence to enable data-driven decision making.
+>
+> 5⃣ I'm continually improving these AIs and most likely I will create more specialist AIs whenever I have a need. My goal for 2026 is to automate & optimize away as much of my job as possible, to continue making @cyfrin among the most efficient security providers maximizing value for our clients' spend.
+>
+> You may think that is foolish, what about your job security etc? Well firstly I do this primarily for fun though the $ is also nice. And secondly I think the future is one of limitless possibilities so if I manage to automate & optimize away most of my job, that will free me to do even more interesting things - and I'll be even better at creating & training specialist AIs so even better equipped for the future.
+
+
+---
+
+## 2026-03-24 · Post · Shout out @__Raiders @0xaudron strong result on high-profile off-chain audit finding:
+
+
+### Post — @DevDacian — 2026-03-24 10:41 UTC (2026-03-24 11:41 WAT)
+
+- URL: https://x.com/DevDacian/status/2036392943544836158
+- Metrics (at fetch): not returned
+
+> Shout out @__Raiders @0xaudron strong result on high-profile off-chain audit finding:
+>
+> * 1 High
+> * 5 Med
+> * 5 Low
+>
+> Super cool framework enables dApps to communicate with wallets through multiple transport layers using end-to-end encryption!
+>
+> @cyfrin helping secure off-chain 💪 [pic.x.com/BMS4D70A9O]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HEK4VZUaIAMvMBB.png — no alt text provided by author
+
+
+---
+
+## 2026-03-20 · Post · 💡Subtle Oracle / Math Bug💡
+
+
+### Post — @DevDacian — 2026-03-20 12:37 UTC (2026-03-20 13:37 WAT)
+
+- URL: https://x.com/DevDacian/status/2034972532076683487
+- Metrics (at fetch): not returned
+
+> 💡Subtle Oracle / Math Bug💡
+>
+> When a price aggregator uses multiple feeds to calculate on-going Moving Average (MA), it shouldn't also use as input previous MA values to avoid the MA increasingly reflecting itself rather than the market data.
+>
+> Using previous values as input is useful to calculate Exponential Moving Average (EMA) where each new observation is blended with previous EMA using a "smoothing factor", causing recent values to have more weight while older values decay exponentially.
+>
+> The correct way to implement both:
+> 1⃣ aggregate multiple raw feeds into one clean price per desired time interval
+> 2⃣ run either MA or EMA on that single price series
+
+
+---
+
+## 2026-03-18 · Post · Shout out @0ximmeas @Kiki_developer @BengalCatBalu @JuliusRaynaldi AMAZING output:
+
+
+### Post — @DevDacian — 2026-03-18 10:08 UTC (2026-03-18 11:08 WAT)
+
+- URL: https://x.com/DevDacian/status/2034210267920560603
+- Metrics (at fetch): not returned
+
+> Shout out @0ximmeas @Kiki_developer @BengalCatBalu @JuliusRaynaldi AMAZING output:
+>
+> * 7 High
+> * 22 Med
+> * 29 Low
+>
+> Very ambitious perpetuals protocol trading an unusual asset class, super cool audit where @cyfrin delivered tons of value including a Formal Verification suite! [pic.x.com/Uejrk60EZn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HDr2hD2bUAA_bGG.jpg — no alt text provided by author
+
+
+---
+
+## 2026-03-11 · Post · Shout out @0kage_eth @Al_Qa_qa AMAZING work on cross-chain audit, finding:
+
+
+### Post — @DevDacian — 2026-03-11 11:41 UTC (2026-03-11 12:41 WAT)
+
+- URL: https://x.com/DevDacian/status/2031697049880809840
+- Metrics (at fetch): not returned
+
+> Shout out @0kage_eth @Al_Qa_qa AMAZING work on cross-chain audit, finding:
+>
+> * 1 Crit
+> * 7 High
+> * 17 Med, 8 Low
+>
+> Very interesting protocol implementing legal framework for Controllable Electronic Records with cross-chain invoicing/purchases.
+>
+> @cyfrin blessed to audit this one! [pic.x.com/2qzpTOyrn7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HDIJkI7a4AAZz3v.jpg — no alt text provided by author
+
+
+---
+
+## 2026-03-09 · Post · Recently within minutes after starting two private audits, one of our internal Specialist AIs found:
+
+
+### Post — @DevDacian — 2026-03-09 13:50 UTC (2026-03-09 14:50 WAT)
+
+- URL: https://x.com/DevDacian/status/2031004612699041882
+- Metrics (at fetch): not returned
+
+> Recently within minutes after starting two private audits, one of our internal Specialist AIs found:
+>
+> * 1 Crit, 1 High
+> * 2 High
+>
+> That were missed in the previous audits. There are bugs which Specialist AIs catch in minutes but humans easily miss; every audit should be hybrid
+
+
+---
+
+## 2026-03-02 · Post · My DMs are a constant mix of gratitude &amp; appreciation from both auditors &amp; private audit cli
+
+
+### Post — @DevDacian — 2026-03-02 13:50 UTC (2026-03-02 14:50 WAT)
+
+- URL: https://x.com/DevDacian/status/2028467980863230170
+- Metrics (at fetch): not returned
+
+> My DMs are a constant mix of gratitude &amp; appreciation from both auditors &amp; private audit clients working with @Cyfrin in our mission to help secure web3!
+>
+> Truly 🫰BLESSED🫰 working with many great protocols &amp; auditors - i'm inspired to push harder every day to secure web! [pic.x.com/JLRPXnvTuN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HCaQXUba0AAbchX.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-26 · Post · 💡AI DoS - Ethical Dilemma Attack Vector💡
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-02-26 10:30 UTC (2026-02-26 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/2026967981196984612
+- Metrics (at fetch): not returned
+
+> 💡AI DoS - Ethical Dilemma Attack Vector💡
+>
+> A well-known auditor setup an AI for some of us to play with.
+>
+> I forced it to crash by asking ethical dilemma questions one of which caused an infinite processing loop.
+>
+> Ethical Dilemma questions are a real AI DoS attack vector!
+
+
+---
+
+## 2026-02-25 · Post · Q) Everything seems hopeless / audit market is terrible / how can I succeed? / endless doom stuff et
+
+
+### Post — @DevDacian — 2026-02-25 12:38 UTC (2026-02-25 13:38 WAT)
+
+- URL: https://x.com/DevDacian/status/2026638020754157628
+- Metrics (at fetch): not returned
+
+> Q) Everything seems hopeless / audit market is terrible / how can I succeed? / endless doom stuff etc...
+>
+> All of the growth &amp; success @Cyfrin is experiencing now was seeded 1-2 years ago.
+>
+> Start putting in consistent hard work today to reap the benefits 1-2 years from now.
+
+
+---
+
+## 2026-02-23 · Post · Q) Is AI going to replace auditors, what do you think about all the AI Hype/Auditor Doom posts?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-02-23 12:01 UTC (2026-02-23 13:01 WAT)
+
+- URL: https://x.com/DevDacian/status/2025903933370372371
+- Metrics (at fetch): not returned
+
+> Q) Is AI going to replace auditors, what do you think about all the AI Hype/Auditor Doom posts?
+>
+> I still manually read code but after that everything is done by driving specialist AIs I've created & continue to evolve.
+>
+> Working this way I'm much more efficient, able to generate significantly more value for my private audit clients.
+>
+> I see the future of my private audit work being creating, evolving & driving specialist AIs.
+>
+> AI isn't replacing me any time soon, rather I'm harnessing its processing power to massively increase efficiency & output to my clients.
+>
+> AI is a force multiplier which allows much greater leverage for my knowledge & skillset.
+
+
+---
+
+## 2026-02-20 · Post · Great way to start off a private audit for a big name client known for writing VERY defensive code 🚀
+
+
+### Post — @DevDacian — 2026-02-20 10:12 UTC (2026-02-20 11:12 WAT)
+
+- URL: https://x.com/DevDacian/status/2024789134481719368
+- Metrics (at fetch): not returned
+
+> Great way to start off a private audit for a big name client known for writing VERY defensive code 🚀
+>
+> The Critical permissionless theft of funds is a really beautiful finding &amp; the Medium bypass is a clever way to escape the protocol's most important restriction 💪 [pic.x.com/PRCsypBsZZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBl94HDbUAA10hK.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-19 · Post · Q) How can I join @Cyfrin as a full-time auditor? Can I do audits with Cyfrin as an Eagle contractor
+
+
+### Post — @DevDacian — 2026-02-19 10:54 UTC (2026-02-19 11:54 WAT)
+
+- URL: https://x.com/DevDacian/status/2024437385795424756
+- Metrics (at fetch): not returned
+
+> Q) How can I join @Cyfrin as a full-time auditor? Can I do audits with Cyfrin as an Eagle contractor? Can you give me a chance etc..(50+ dms)
+>
+> The only way to join Cyfrin full-time is to first work as an Eagle contractor & provide great security output on our private audits.
+>
+> The only way to get onto a Cyfrin private audit as an Eagle contractor is to:
+> * have a more stacked portfolio than our current Eagles
+> * have a demonstrated deep speciality in a particular niche that we need
+> * be available when we need you
+>
+> The most likely way is that you have become an expert in a particular niche or protocol & we need that particular niche.
+>
+> It is very difficult to get onto Cyfrin private audits now since the auditors we are working with have stacked portfolios & most have deep expertise in particular niches - you need to be demonstrably better than them which is statistically unlikely.
+>
+> tl;dr - be demonstrably better, become UNDENIABLE 🚀
+
+
+---
+
+## 2026-02-14 · Post · VC-funded web3sec AIs don't share their audit reports/vuln data.
+
+
+### Post — @DevDacian — 2026-02-14 05:16 UTC (2026-02-14 06:16 WAT)
+
+- URL: https://x.com/DevDacian/status/2022540389123870822
+- Metrics (at fetch): not returned
+
+> VC-funded web3sec AIs don't share their audit reports/vuln data.
+>
+> But they leech everyone's data from @SoloditOfficial, drinking from it like a thirsty mouth in the desert.
+>
+> Why should @Cyfrin continue to effectively subsidize their data collection when they share nothing?
+
+
+---
+
+## 2026-02-10 · Post · Q) Why did audit contests die?
+
+
+### Post — @DevDacian — 2026-02-10 11:03 UTC (2026-02-10 12:03 WAT)
+
+- URL: https://x.com/DevDacian/status/2021178159773712497
+- Metrics (at fetch): not returned
+
+> Q) Why did audit contests die?
+>
+> All free market businesses without profitable business models eventually die (or get acquired frequently at unattractive terms).
+>
+> That is the root cause, everything else is a secondary consequence.
+
+
+---
+
+## 2026-02-09 · Post · Ironically for protocols thinking about doing a public audit contest, now is the best time as in a f
+
+
+### Post — @DevDacian — 2026-02-09 10:57 UTC (2026-02-09 11:57 WAT)
+
+- URL: https://x.com/DevDacian/status/2020814396235153598
+- Metrics (at fetch): not returned
+
+> Ironically for protocols thinking about doing a public audit contest, now is the best time as in a few days there will only be 2 active contests.
+>
+> Fewer active contests means more eyes on each contest which is great for protocols! https://twitter.com/cvetanovv0/status/2020764108384067821
+
+**Links in post:** https://twitter.com/cvetanovv0/status/2020764108384067821
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1600512519440945152 — 2026-02-09 07:38 UTC (2026-02-09 08:38 WAT)
+    
+    - URL: https://x.com/1600512519440945152/status/2020764108384067821
+    - Metrics (at fetch): not returned
+    
+    > The current state of the contests 🤔 [pic.x.com/Xt0xLjZrRK]
+    
+    **Media:**
+    - media `3_2020763353350803456` (details not returned by the API)
+    
+
+
+---
+
+## 2025-11-05 · Post · Easy money mostly gone in auditing.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-11-05 08:43 UTC (2025-11-05 09:43 WAT)
+
+- URL: https://x.com/DevDacian/status/1985991319106535847
+- Metrics (at fetch): not returned
+
+> Easy money mostly gone in auditing.
+>
+> Many skilled auditors w/great portfolios looking for work + tons of new firms =&gt; more competitive market than ever, hence recent ambulance chasing / grave dancing.
+>
+> If you haven't made it already, consider pivoting to AI or learn plumbing.
+
+
+---
+
+## 2023-12-27 · Post · I recently contributed an invariant fuzzing testing suite to a project's repo then got hit with this
+
+
+### Post — @DevDacian — 2023-12-27 08:08 UTC (2023-12-27 09:08 WAT)
+
+- URL: https://x.com/DevDacian/status/1739921080201187721
+- Metrics (at fetch): not returned
+
+> I recently contributed an invariant fuzzing testing suite to a project's repo then got hit with this telegram spam from an audit firm.
+>
+> What do you think of this marketing "tactic", that audit firms stalk project's github then cold DM the committer asking if they need an audit? [pic.x.com/TgH7CKdF5o]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GCVvmEia4AAPomp.jpg — no alt text provided by author

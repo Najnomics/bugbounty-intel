@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 34
-- Conversations/threads: 34
-- Oldest post captured: 2026-01-13
+- Posts in this file: 67
+- Conversations/threads: 67
+- Oldest post captured: 2025-07-29
 - Newest post captured: 2026-11-04
 
 
@@ -1091,13 +1091,31 @@ Tags (automatic): RCE, AI-assisted hunting
 
 ---
 
+## 2026-02-20 · Post · In a recent advisory, @caidoio details a bypass for DNS rebinding protection in Caido. By injecting 
+
+
+Tags (automatic): RCE
+
+
+### Post — @infinitelogins — 2026-02-20 14:01 UTC (2026-02-20 15:01 WAT)
+
+- URL: https://x.com/infinitelogins/status/2024846806715162740
+- Metrics (at fetch): bookmark 32, impression 4482, like 44, quote 0, reply 0, retweet 5
+
+> In a recent advisory, @caidoio details a bypass for DNS rebinding protection in Caido. By injecting a `X-Forwarded-Host: 127.0.0.1:8080` header, attackers could access restricted endpoints and achieve RCE if popups were permitted.
+>
+> Affected versions are prior to 0.55.0 so make
+
+
+---
+
 ## 2026-02-19 · Post · A new open-source project by @spaceraccoon monitors commit diffs and PR context in GitHub repos to f
 
 
 ### Post — @infinitelogins — 2026-02-19 14:00 UTC (2026-02-19 15:00 WAT)
 
 - URL: https://x.com/infinitelogins/status/2024484231062114553
-- Metrics (at fetch): bookmark 92, impression 6272, like 118, quote 0, reply 1, repost 19
+- Metrics (at fetch): bookmark 92, impression 6272, like 118, quote 0, reply 1, retweet 19
 
 > A new open-source project by @spaceraccoon monitors commit diffs and PR context in GitHub repos to find vulnerability patches before they're published into public CVEs.
 >
@@ -1164,7 +1182,410 @@ Tags (automatic): RCE, Request smuggling / desync, AI-assisted hunting, Platform
 
 ---
 
+## 2026-02-15 · Post · Bug bounty platforms making statements about researcher data and use of AI, data exfiltration over p
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-02-15 22:05 UTC (2026-02-15 23:05 WAT)
+
+- URL: https://x.com/infinitelogins/status/2023156777211334815
+- Metrics (at fetch): bookmark 12, impression 1752, like 30, quote 0, reply 0, retweet 2
+
+> Bug bounty platforms making statements about researcher data and use of AI, data exfiltration over phone calls using Gemini, an LLM that predicts CVEs before publication, and Adobe hosting live bug hunting at Nullcon Goa.
+>
+> This was a teaser for tomorrow's Disclosed drop.
+
+
+---
+
+## 2026-02-09 · Post · Millions paid in live hacking events, PortSwigger names the top web techniques of 2025, AI-powered t
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-02-09 14:00 UTC (2026-02-09 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2020860431712002458
+- Metrics (at fetch): bookmark 5, impression 1660, like 26, quote 0, reply 1, retweet 2
+
+> Millions paid in live hacking events, PortSwigger names the top web techniques of 2025, AI-powered triage lands in bug bounty workflows, and more.
+>
+> Full issue → https://t.co/glC021P2kO
+>
+> Highlights below 👇
+>
+> @albinowax shares PortSwigger’s community-voted Top 10 web hacking
+
+
+---
+
+## 2026-02-05 · Post · I analyze thousands of bug bounty content items every month. Less than 5% makes it to the newsletter
+
+
+### Post — @infinitelogins — 2026-02-05 14:00 UTC (2026-02-05 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2019410859374579884
+- Metrics (at fetch): bookmark 192, impression 20590, like 283, quote 1, reply 327, retweet 27
+
+> I analyze thousands of bug bounty content items every month. Less than 5% makes it to the newsletter.
+>
+> I distilled those curated selections down to the top 25 resources for 2026 and put them in this PDF. It includes the top platforms, tools, and people that consistently deliver https://t.co/9jUjtFV8YS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAZjeZJXYAAcBaT.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-04 · Post · In a demo by @Ethiack, their Hackian AI agent achieved RCE on Clawdbot/Moltbot in under 2 hours. It 
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-02-04 14:00 UTC (2026-02-04 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2019048435622535232
+- Metrics (at fetch): bookmark 16, impression 2306, like 33, quote 0, reply 4, retweet 3
+
+> In a demo by @Ethiack, their Hackian AI agent achieved RCE on Clawdbot/Moltbot in under 2 hours. It abused public JS source maps to learn the WebSocket protocol, then used a gatewayUrl override (which controls where the UI connects) to steal auth tokens from the initial WebSocket
+
+
+---
+
+## 2026-02-02 · Post · HackerOne launches a new product, Bugcrowd drops Inside the Mind of a Hacker, Ethihack’s autonomous 
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @infinitelogins — 2026-02-02 14:00 UTC (2026-02-02 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2018323705722503556
+- Metrics (at fetch): bookmark 39, impression 5370, like 62, quote 0, reply 2, retweet 9
+
+> HackerOne launches a new product, Bugcrowd drops Inside the Mind of a Hacker, Ethihack’s autonomous pentester takes down Clawdbot/Moltbot/OpenBot, and more.
+>
+> Full issue → https://t.co/glC021P2kO
+>
+> Highlights below 👇
+>
+> @Hacker0x01 launches Agentic PTaaS, AI-driven pentesting with
+
+
+---
+
+## 2026-02-02 · Post · A one-click ATO to RCE chain in Moltbot, Bugcrowd’s Hacker Mind report, HackerOne's New Product Offe
+
+
+Tags (automatic): Account takeover, RCE, Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @infinitelogins — 2026-02-02 04:03 UTC (2026-02-02 05:03 WAT)
+
+- URL: https://x.com/infinitelogins/status/2018173399277961343
+- Metrics (at fetch): bookmark 8, impression 1448, like 23, quote 0, reply 0, retweet 2
+
+> A one-click ATO to RCE chain in Moltbot, Bugcrowd’s Hacker Mind report, HackerOne's New Product Offering, PackageGate, and more. 
+>
+> This was a teaser for tomorrow's Disclosed drop.
+>
+> Subscribe at https://t.co/glC021PAam to get the drop first.
+
+
+---
+
+## 2026-01-30 · Post · In his latest post, @adnanthekhan detailed an attack chain against GitHub Copilot Agent that exfiltr
+
+
+Tags (automatic): Race condition, AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-01-30 14:00 UTC (2026-01-30 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2017236556021416425
+- Metrics (at fetch): bookmark 26, impression 2930, like 38, quote 0, reply 1, retweet 5
+
+> In his latest post, @adnanthekhan detailed an attack chain against GitHub Copilot Agent that exfiltrates repository secrets via poisoned CI pipeline execution. The exploit combines a TOCTOU race condition, prompt injection, and malicious GitHub issues assigned to Copilot.
+
+
+---
+
+## 2026-01-29 · Post · Dominic White's (@singe) Burp Global Match &amp; Replace extension allows system-wide application of
+
+
+### Post — @infinitelogins — 2026-01-29 20:39 UTC (2026-01-29 21:39 WAT)
+
+- URL: https://x.com/infinitelogins/status/2016974532813472124
+- Metrics (at fetch): bookmark 62, impression 3686, like 73, quote 0, reply 1, retweet 9
+
+> Dominic White's (@singe) Burp Global Match &amp; Replace extension allows system-wide application of match &amp; replace rules across all Burp Suite tools, not just the Proxy.
+>
+> This means your transformations work in Repeater, Intruder, Scanner, and other extensions, not just proxied
+
+
+---
+
+## 2026-01-28 · Post · In Salesforce Commerce Cloud, @castilho101 found XSS where a JSON parameter gets rendered into HTML.
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2026-01-28 14:01 UTC (2026-01-28 15:01 WAT)
+
+- URL: https://x.com/infinitelogins/status/2016511907696431133
+- Metrics (at fetch): bookmark 168, impression 12226, like 239, quote 1, reply 7, retweet 35
+
+> In Salesforce Commerce Cloud, @castilho101 found XSS where a JSON parameter gets rendered into HTML. Cloudflare WAF blocked his payloads, so he encoded characters as Unicode escapes (\u0073 for 's'). The WAF sees raw Unicode and allows it, but JSON.parse() on the server decodes
+
+
+---
+
+## 2026-01-27 · Post · Claude Code skills for security research are emerging as a workflow enhancement tool. Trail of Bits 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-01-27 14:00 UTC (2026-01-27 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2016149352943669679
+- Metrics (at fetch): bookmark 317, impression 19059, like 273, quote 1, reply 8, retweet 40
+
+> Claude Code skills for security research are emerging as a workflow enhancement tool. Trail of Bits released burpsuite-project-parser, which lets you query Burp Suite project files to extract hosts, endpoints, parameters, and vulnerabilities without opening the GUI. Daniel
+
+
+---
+
+## 2026-01-26 · Post · A new AI research safe harbor framework published by HackerOne and multiple new LLM-adjacent securit
+
+
+Tags (automatic): OAuth, AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @infinitelogins — 2026-01-26 14:00 UTC (2026-01-26 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2015786991724478729
+- Metrics (at fetch): bookmark 33, impression 7650, like 53, quote 1, reply 4, retweet 11
+
+> A new AI research safe harbor framework published by HackerOne and multiple new LLM-adjacent security workflows landing in the wild. On the technical side, OAuth token handling, WAF edge cases, and cloud identity misconfigurations kept showing up across write-ups .
+>
+> Full issue →
+
+
+---
+
+## 2026-01-26 · Post · HackerOne's new AI Safe Harbor, a Salesforce OAuth-to-ATO chain exploiting WAF behavior, Intigriti's
+
+
+Tags (automatic): Account takeover, OAuth, AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @infinitelogins — 2026-01-26 02:00 UTC (2026-01-26 03:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2015605655995031656
+- Metrics (at fetch): bookmark 8, impression 1119, like 11, quote 0, reply 2, retweet 0
+
+> HackerOne's new AI Safe Harbor, a Salesforce OAuth-to-ATO chain exploiting WAF behavior, Intigriti's researcher updates, and the cURL bounty shutdown.
+>
+> Plus: Trail of Bits Claude Code skills, Waymore 8.0, and a $70k 2FA bypass breakdown.
+>
+> Subscribe at https://t.co/glC021PAam
+
+
+---
+
+## 2026-01-26 · Post · HackerOne's new AI Safe Harbor, a Salesforce OAuth-to-ATO chain exploiting WAF behavior, Intigriti's
+
+
+Tags (automatic): Account takeover, OAuth, AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @infinitelogins — 2026-01-26 01:59 UTC (2026-01-26 02:59 WAT)
+
+- URL: https://x.com/infinitelogins/status/2015605541897408882
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> HackerOne's new AI Safe Harbor, a Salesforce OAuth-to-ATO chain exploiting WAF behavior, Intigriti's researcher updates, and the cURL bounty shutdown.
+>
+> Plus: Trail of Bits Claude Code skills, Waymore 8.0, and a $70k 2FA bypass breakdown.
+>
+> Subscribe at https://t.co/glC021PAam
+
+
+---
+
+## 2026-01-26 · Post · HackerOne's new AI Safe Harbor, a Salesforce OAuth-to-ATO chain exploiting WAF behavior, Intigriti's
+
+
+Tags (automatic): Account takeover, OAuth, AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @infinitelogins — 2026-01-26 01:59 UTC (2026-01-26 02:59 WAT)
+
+- URL: https://x.com/infinitelogins/status/2015605498641576213
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, retweet 0
+
+> HackerOne's new AI Safe Harbor, a Salesforce OAuth-to-ATO chain exploiting WAF behavior, Intigriti's researcher updates, and the cURL bounty shutdown.
+>
+> Plus: Trail of Bits Claude Code skills, Waymore 8.0, and a $70k 2FA bypass breakdown.
+>
+> Subscribe at https://t.co/glC021PAam
+
+
+---
+
+## 2026-01-25 · Post · Just stumbled across this AI bot channel and I'm so confused. 4.26m subs, but only 7 videos with a t
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-01-25 20:31 UTC (2026-01-25 21:31 WAT)
+
+- URL: https://x.com/infinitelogins/status/2015522842583142599
+- Metrics (at fetch): bookmark 6, impression 5927, like 14, quote 0, reply 6, retweet 1
+
+> Just stumbled across this AI bot channel and I'm so confused. 4.26m subs, but only 7 videos with a total of 37k views? all videos were published 2 days ago and are AI UGC talking head about the bug bounty niche.. who's behind this? https://t.co/hvnoFztjig
+
+
+---
+
+## 2026-01-23 · Post · Burp Suite traffic can be fed directly to an LLM for passive analysis using the MCP protocol. In thi
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-01-23 14:00 UTC (2026-01-23 15:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2014699833588682904
+- Metrics (at fetch): bookmark 359, impression 17530, like 361, quote 2, reply 8, retweet 64
+
+> Burp Suite traffic can be fed directly to an LLM for passive analysis using the MCP protocol. In this article by @Six2dez1, the researcher outlines a setup that connects Burp's MCP Server to Codex CLI through a local reverse proxy to bypass header and origin restrictions,
+
+
+---
+
+## 2026-01-23 · Post · A cookie signature validation bypass in ElysiaJS allowed attackers to forge signed cookies and bypas
+
+
+### Post — @infinitelogins — 2026-01-23 00:00 UTC (2026-01-23 01:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2014488344042831972
+- Metrics (at fetch): not returned
+
+> A cookie signature validation bypass in ElysiaJS allowed attackers to forge signed cookies and bypass authentication. The bug stems from a boolean flag incorrectly initialized to true in the rotation code path, causing the "signature invalid → reject cookie" branch to never trigger.
+>
+> This means an attacker can set arbitrary cookie values (session=admin) without valid signatures and pass authorization checks.
+>
+> Full write-up by @0xAsm0d3us👇
+>
+> https://devansh.bearblog.dev/elysiajs
+>
+> #BugBounty
+
+**Links in post:** https://devansh.bearblog.dev/elysiajs
+
+
+---
+
+## 2026-01-22 · Post · A researcher found that the List-Unsubscribe email header, designed to help users leave mailing list
+
+
+Tags (automatic): XSS, SSRF
+
+
+### Post — @infinitelogins — 2026-01-22 02:12 UTC (2026-01-22 03:12 WAT)
+
+- URL: https://x.com/infinitelogins/status/2014159121000648945
+- Metrics (at fetch): not returned
+
+> A researcher found that the List-Unsubscribe email header, designed to help users leave mailing lists with one click, can become a stored XSS and blind SSRF gadget when webmail clients auto-render unsubscribe buttons. A single malicious email header becomes a cross-surface attack as JavaScript URIs execute when clicked in Horde Webmail (CVE-2025-68673), while server-side unsubscribe handlers in Nextcloud Mail App trigger blind SSRF to internal destinations. 
+>
+> Full write-up by @_lauritz_  👇
+>
+> https://security.lauritz-holtmann.de/post/xss-ssrf-list-unsubscribe/
+>
+> #BugBounty
+
+**Links in post:** https://security.lauritz-holtmann.de/post/xss-ssrf-list-unsubscribe/
+
+
+---
+
+## 2026-01-19 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): XSS, SSRF, Race condition, Mobile / Android / iOS, AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @infinitelogins — 2026-01-19 15:00 UTC (2026-01-19 16:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/2013265352801636600
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #BugBounty
+>
+> Full issue → http://getDisclosed.com
+>
+> Highlights below 👇
+>
+> @samm0uda goes crazy and releases EIGHT write-ups on Meta attack chains, each exploiting different trust boundaries across Facebook and Instagram's authentication, messaging, and analytics infrastructure.
+>
+> Vote on @portswigger’s Top 10 Web Hacking Techniques of 2025 poll before Jan 22.
+>
+> @caidoio Year in Review 2025, ten releases from v0.45.0 to v0.54.0; +29 plugins; notable focus on Scanner and GraphQL workflows.
+>
+> OpenProject public bug bounty launched on @yeswehack, max payout €5,000, a large open-source surface area with auth, permissions, and data exposure failure modes.
+>
+> @BugbopApp First Year in Review, platform metrics; triage lessons; planned changes around pre-report filtering and report disposition.
+>
+> @Bugcrowd on adversarial AI usage, phishing and impersonation ops; recon automation; malware development; plus prompt-injection-style abuse in real product surfaces.
+>
+> @Six2dez1 on Burp Suite MCP Server plus Codex CLI integration, an agent workflow over intercepted HTTP traffic with MCP proxy extraction and local reasoning loops.
+>
+> @_nikitastupin’s clairvoyance, GraphQL schema recovery even when introspection is disabled; probing heuristics; wordlists; error-driven enumeration for recon pipelines.
+>
+> @0x0SojalSec released a 1.7B public domains dataset, sorted multi-TLD input for OSINT, large-scale recon, enrichment, and threat intel pipelines.
+>
+> @xnl_h4ck3r shipped waymore v7.5, IntelX support via Free Academia tier, IntelX data pulled into recon runs without separate tooling glue.
+>
+> @aacle_ on DNS rebinding bypassing Slack SSRF filters, including a reported $1,000 payout and implementation details around resolution and validation drift.
+>
+> @ryotkak shared an article on Pwning Claude Code in 8 Different Ways, eight paths to command execution via permission gaps and argument parsing edge cases across Git; sed; Bash expansion; wrapper interpretation.
+>
+> @_lauritz_ on turning RFC2369 List-Unsubscribe into an SSRF/XSS gadget, stored XSS and blind SSRF primitives in webmail and mail clients via header-driven behaviors.
+>
+> @0xasm0d3us on an ElysiaJS cookie signature validation bypass, secret handling and rotation pitfalls; PoC and affected code paths with patch guidance.
+>
+> @yeswehack Dojo #47 APICrash solution, a GraphQL mutation batching race with aliases; concurrent TinyDB-backed file writes corrupt state via thread spawning.
+>
+> @BourAbdelhadi on Supabase anon JWT exposure found with rep+, validation steps against Supabase APIs 
+>
+> @sijan2003 on modifying Netflix OTP messages via an unauthenticated endpoint, reversing and instrumenting the Android client to map the OTP trigger flow and messaging risk.
+>
+> @Hacker0x01 talk with @rez0__  on AI red teaming beyond jailbreak framing, application-level failure modes like prompt injection in product surfaces and evaluation that resembles real usage.
+>
+> @zack0x01 video on open redirect exploitation, bypass techniques against weak allowlists; normalization and encoding tricks; redirect weaponization.
+>
+> That's not all. Full links, writeups & more → http://getDisclosed.com
+>
+> The bug bounty world, curated.
+
+**Links in post:** http://getDisclosed.com
+
+
+---
+
 ## 2026-01-13 · Post · This week, Disclosed. BugBounty (Jan 12, 2026). 
+
+
+Tags (automatic): XSS, Auth bypass, RCE, AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
 
 
 ### Post — @infinitelogins — 2026-01-13 00:06 UTC (2026-01-13 01:06 WAT)
@@ -1174,10 +1595,368 @@ Tags (automatic): RCE, Request smuggling / desync, AI-assisted hunting, Platform
 
 > This week, Disclosed. #BugBounty (Jan 12, 2026). 
 >
-> Full issue → https://t.co/P2Zjyh57Bs
+> Full issue → http://getDisclosed.com
 >
 > Highlights below 👇
 >
 > @portswigger opened nominations for the Top 10 Web Hacking Techniques of 2025, focused on reusable techniques published over the year.
 >
-> @yeswehack released its 2025 Top
+> @yeswehack released its 2025 Top Bounty Hunters leaderboard, a snapshot of high-volume platform activity and rankings.
+>
+> @github posted December 2025 bug bounty metrics, including total payouts and report volume, with the submission portal link.
+>
+> @TheHackersNews flagged a critical authenticated RCE in n8n, CVE-2026-21877, CVSS 10.0, with full instance compromise impact.
+>
+> @Bugcrowd shared details on its report validation process, centered on what reduces back-and-forth during triage.
+>
+> @intigriti announced an Office Hours podcast series with live Q&A sessions across Discord and X Spaces.
+>
+> @hemi_xyz launched a public bug bounty program on @Bugcrowd, adding new scope for researchers tracking new programs.
+>
+> @yeswehack announced a public Keycloak bug bounty with a white-box setup and bounties up to €5,000.
+>
+> @njcve_ posted logistics for a HackerOne Manchester in-person event on Jan 31.
+>
+> @bbcbd_official shared the timeline for HackerOne BUG HUNT 2026, including finalist arrival, competition hours, and conference check-in.
+>
+> @_jensec shared a Burp extension that extracts endpoints; file paths; emails; and occasional secrets from minified JavaScript.
+>
+> @elder_plinius posted LeakHub, a crowd-sourced workflow for verifying leaked system prompts against fresh chats.
+>
+> @OriginalSicksec released altdns-ng, a Go reimplementation for high-throughput subdomain permutation with wildcard detection and DoH support.
+>
+> @terjanq published Tiny XSS Payloads, a compact reference of minimal probes annotated by execution context and browser constraints.
+>
+> @caidoio shipped Caido v0.54.0 with HTTPQL autocompletion based on past queries.
+>
+> @xnl_h4ck3r pushed GAP Burp Extension v6.3, regex updates and performance fixes aimed at reducing memory growth in long sessions.
+>
+> @xnl_h4ck3r also shipped xnLinkFinder v7.14 with PDF-to-text parsing for endpoint extraction, calling out poppler-utils as a preferred backend.
+>
+> @xnl_h4ck3r released xnldorker v4.0 with DuckDuckGo Lite support and CAPTCHA detection improvements.
+>
+> @intigriti highlighted a Content-Type CSRF bypass angle against JSON-only APIs when servers fail to enforce strict Content-Type handling.
+>
+> @amrelsagaei released a video on Client Side postMessage bugs, origin validation failures, and unsafe sinks leading to XSS and data leakage.
+>
+> @ctbbpodcast published http://bugbounty.forum Q&A Ep. 156, including discussion of the Cross-Site ETag Length Leak and Clawdbot.
+>
+> @slonser_ wrote Never Trust the Output, showing how malicious MCP server responses can pollute AI agent outputs when JSON is treated as free-form text.
+>
+> @dreyand_ published an OpenFlagr <= 1.1.18 authentication bypass writeup, tracked as CVE-2026-0650, derived from quick code review and patch analysis.
+>
+> @xchopath detailed a $3,500 HTML injection chain via CSRF-like abuse, using stored HTML and missing token defenses to drive privileged actions.
+>
+> @af4himi walked through LFI escalating to root RCE via a leaked SSH private key, a clean example of read-only primitives becoming full compromise.
+>
+> Full links, write-ups & more → http://getDisclosed.com
+>
+> The bug bounty world, curated.
+
+**Links in post:** http://getDisclosed.com, http://bugbounty.forum
+
+
+---
+
+## 2026-01-11 · Post · This week, Disclosed. BugBounty covers @PortSwigger’s call for Top 10 Web Hacking Techniques of 202
+
+
+### Post — @infinitelogins — 2026-01-11 22:34 UTC (2026-01-11 23:34 WAT)
+
+- URL: https://x.com/infinitelogins/status/2010480453300711456
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. #BugBounty covers @PortSwigger’s call for Top 10 Web Hacking Techniques of 2025, @yeswehack’s 2025 Top Bounty Hunters leaderboard, December 2025 program stats from @github, and more. Subscribe at http://getDisclosed.com to be first to read it.
+
+**Links in post:** http://getDisclosed.com
+
+
+---
+
+## 2026-01-06 · Post · This week, Disclosed. (January 5, 2026) BugBounty 
+
+
+Tags (automatic): XSS, SSRF, Account takeover, Auth bypass, RCE, CSP / CSPT, AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @infinitelogins — 2026-01-06 01:29 UTC (2026-01-06 02:29 WAT)
+
+- URL: https://x.com/infinitelogins/status/2008350101169946633
+- Metrics (at fetch): not returned
+
+> This week, Disclosed. (January 5, 2026) #BugBounty 
+>
+> New MVH crowned. A million dollar WAF hardening payout, a /health endpoint turning into a credential leak, and a ZIP upload workflow producing two criticals.
+>
+> Full issue → http://getDisclosed.com
+>
+> Preview below 👇
+>
+> @vercel detailed a $1M paid effort with @Hacker0x01 to pressure-test and harden its WAF against React2Shell-class bypasses, including runtime mitigation and detection changes.
+>
+> @pxmme1337 linked a newly launched anonymous forum for bug bounty discussions, with an optional verification mechanism aimed at proving bounty earnings.
+>
+> @Hacker0x01 announced @alexbindrei as Most Valuable Hacker of H1-3120, framed around AI security research.
+>
+> @Bugcrowd published a practical mapping of RCE pathways and detection methods, including command injection sinks; unsafe eval patterns; SSTI routes.
+>
+> @intigriti  CSP bypass material focused on permissive source expressions; nonce and hash misuse; overbroad allowlists that still land script execution or exfiltration.
+>
+> @PortSwiggerRes published new SAML authentication bypass techniques tied to parser differentials in Ruby and PHP, including attribute pollution; namespace confusion; Void Canonicalization.
+>
+> @aretekzs wrote up a chain from self-XSS constraints to account takeover via DOM injection plus login CSRF and cookie-tossing effects on auth state.
+>
+> @xnl_h4ck3r shipped xnldorker v3.2 with Google Custom Search support and configuration changes aimed at smoother dorking workflows.
+>
+> @zack0x01 released video material on broken access control testing and a recon workflow overview spanning asset discovery; prioritization; validation loops.
+>
+> @medusa_0xf published a 2026 learning roadmap video centered on web and API hacking structure, with labs and category coverage.
+>
+> @ctbbpodcast dropped “2025 Hacker Stats & 2026 Goals (Ep. 155)”, reflecting on 2025 trends and predictions for 2026 workflows and disclosure dynamics.
+>
+> @NahamSec shared a 2025 findings retrospective video, focused on what made specific bugs interesting rather than full reproduction detail.
+>
+> @H4cktus published “Can you compromise a multi-billion dollar company via /health?”, centered on a health check surface exposing environment variables and sensitive cloud configuration.
+>
+> @_bergee_ published “Two crits, one zip”, two critical issues in a ZIP upload workflow, including symlink-based file access and a path to RCE via unsafe extraction processing.
+>
+> @J0R1AN walked through the Intigriti December XSS Challenge (1225), using browser behaviors like iframe messaging; performance entries; regex edge cases.
+>
+> @ptswarm research covered HTML-to-PDF generation stacks as a trust boundary that repeatedly turns into SSRF; local file disclosure; deserialization; DoS.
+>
+> This is just a preview. Full links, write-ups & more → http://getDisclosed.com
+>
+> The bug bounty world, curated.
+
+**Links in post:** http://getDisclosed.com
+
+
+---
+
+## 2026-01-05 · Post · Teaser: Bug bounty gets an anon forum from @pxmme1337, plus @vercel on a $1M WAF hardening effort wi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infinitelogins — 2026-01-05 02:09 UTC (2026-01-05 03:09 WAT)
+
+- URL: https://x.com/infinitelogins/status/2007997811548443016
+- Metrics (at fetch): not returned
+
+> Teaser: Bug bounty gets an anon forum from @pxmme1337, plus @vercel on a $1M WAF hardening effort with @Hacker0x01 vs React2Shell bypasses.
+>
+> Writeups include a /health endpoint compromise from @H4cktus and more.
+>
+> Subscribe to get it when it drops 👉 http://getdisclosed.com
+
+**Links in post:** http://getdisclosed.com
+
+
+---
+
+## 2026-01-05 · Post · 2025 was wild. I launched the Disclosed newsletter, ran the 2nd Bug Bounty Village at DEF CON, got p
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @infinitelogins — 2026-01-05 02:04 UTC (2026-01-05 03:04 WAT)
+
+- URL: https://x.com/infinitelogins/status/2007996568977506534
+- Metrics (at fetch): not returned
+
+> 2025 was wild. I launched the Disclosed newsletter, ran the 2nd Bug Bounty Village at DEF CON, got promoted at HackerOne, and traveled to 5 countries. 
+>
+> Burnout hit hard, but I’m back, refocused, and building with intent. More to come soon.
+>
+> Happy New Year everyone!
+
+
+---
+
+## 2025-10-10 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @infinitelogins — 2025-10-10 14:34 UTC (2025-10-10 15:34 WAT)
+
+- URL: https://x.com/infinitelogins/status/1976657586318610608
+- Metrics (at fetch): bookmark 6, impression 3350, like 40, quote 0, reply 1, retweet 7
+
+> This week, Disclosed. #BugBounty
+>
+> H1-65 Singapore &amp; H1-468 Stockholm winners, new H1-Elites, Google’s AI VRP, YesWeHack wins EU tender, new programs, tools, write-ups &amp; videos — and more.
+>
+> Full issue → https://t.co/P2Zjyh57Bs
+>
+> Highlights below 👇
+>
+> @tiktok_us &amp; @okx H1-65
+
+
+---
+
+## 2025-09-14 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): SSRF, RCE, OAuth, AI-assisted hunting, Platform: Bugcrowd
+
+
+### Post — @infinitelogins — 2025-09-14 00:32 UTC (2025-09-14 01:32 WAT)
+
+- URL: https://x.com/infinitelogins/status/1967023640048005132
+- Metrics (at fetch): bookmark 20, impression 6828, like 66, quote 0, reply 0, retweet 7
+
+> This week, Disclosed. #BugBounty
+>
+> Nullcon Berlin winners, Bugcrowd’s $30K Hacker Showdown, AI-powered zero-days, ChatGPT email exploit, PortSwigger milestone rewards, new programs, write-ups on RCE, SSRF &amp; OAuth flaws, plus upgraded tools and bounty tips.
+>
+> Full issue →
+
+
+---
+
+## 2025-09-01 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): SSRF, Mobile / Android / iOS, AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-09-01 00:39 UTC (2025-09-01 01:39 WAT)
+
+- URL: https://x.com/infinitelogins/status/1962314418769060324
+- Metrics (at fetch): bookmark 22, impression 6121, like 49, quote 0, reply 5, retweet 10
+
+> This week, Disclosed. #BugBounty
+>
+> Spotlight on Android labs, LLM “sleeper” agents, big bounties for NGINX &amp; GPT‑5, Zoomtopia &amp; IoT hackathons, write‑ups on SSRF, UUID takeover &amp; RXSS escalation, plus upgraded tools and hunting tips.
+>
+> Full issue → https://t.co/P2Zjyh57Bs
+
+
+---
+
+## 2025-08-30 · Post · If an attacker pre-registers victim@gmail.com on an app (no email verification), then the real user 
+
+
+Tags (automatic): OAuth
+
+
+### Post — @infinitelogins — 2025-08-30 15:37 UTC (2025-08-30 16:37 WAT)
+
+- URL: https://x.com/infinitelogins/status/1961815630472229110
+- Metrics (at fetch): bookmark 128, impression 22527, like 159, quote 0, reply 20, retweet 6
+
+> If an attacker pre-registers victim@gmail.com on an app (no email verification), then the real user later signs in with Google OAuth, the app merges accounts. 
+>
+> Attacker keeps password access + victim uses OAuth. 
+>
+> Real vuln? What's the impact?
+
+
+---
+
+## 2025-08-23 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-08-23 23:28 UTC (2025-08-24 00:28 WAT)
+
+- URL: https://x.com/infinitelogins/status/1959397320560414874
+- Metrics (at fetch): bookmark 29, impression 7689, like 59, quote 1, reply 5, retweet 17
+
+> This week, Disclosed. #BugBounty
+>
+> Spotlight on CodeRabbit Exploit, NahamSec’s DEF CON vlog, Swiss Post’s €230K challenge, new tools for hunters, and more.
+>
+> Full issue → https://t.co/Affe2Yws7J
+>
+> Highlights below 👇
+>
+> @KudelskiSec details how vulnerabilities in CodeRabbit’s AI
+
+
+---
+
+## 2025-08-17 · Post · I’ve been asked: “Will Bug Bounty Village (@BugBountyDEFCON) return?”
+
+
+### Post — @infinitelogins — 2025-08-17 01:45 UTC (2025-08-17 02:45 WAT)
+
+- URL: https://x.com/infinitelogins/status/1956895124665078117
+- Metrics (at fetch): bookmark 9, impression 4551, like 101, quote 0, reply 3, retweet 6
+
+> I’ve been asked: “Will Bug Bounty Village (@BugBountyDEFCON) return?”
+> The short answer: yes!
+>
+> This post is overdue, but I want to thank everyone who visited us at Bug Bounty Village last week. THANK YOU!
+>
+> Over six months of planning went into three days. In that time, we hosted
+
+
+---
+
+## 2025-08-03 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-08-03 21:16 UTC (2025-08-03 22:16 WAT)
+
+- URL: https://x.com/infinitelogins/status/1952116475516575866
+- Metrics (at fetch): bookmark 6, impression 3007, like 33, quote 0, reply 0, retweet 5
+
+> This week, Disclosed. #BugBounty
+>
+> My projects featured on Critical Thinking, $1M WhatsApp Bounty, AI Exploit for CVE-2025-32433, Bug Bounty Village CTF Prizes, and More.
+>
+> Full issue → https://t.co/Affe2Yws7J
+>
+> Highlights below 👇
+>
+> @infinitelogins and @arl_rose discuss building
+
+
+---
+
+## 2025-08-03 · Post · This week, Disclosed. BugBounty
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2025-08-03 21:11 UTC (2025-08-03 22:11 WAT)
+
+- URL: https://x.com/infinitelogins/status/1952115126238314750
+- Metrics (at fetch): bookmark 0, impression 61, like 1, quote 0, reply 1, retweet 0
+
+> This week, Disclosed. #BugBounty
+>
+> My projects featured on Critical Thinking, $1M WhatsApp Bounty, AI Exploit for CVE-2025-32433, Bug Bounty Village CTF Prizes, and More.
+>
+> Full issue → https://t.co/Affe2Yws7J
+>
+> Highlights below 👇
+>
+> ## SPOTLIGHT
+>
+> @infinitelogins and @arl_rose
+
+
+---
+
+## 2025-07-29 · Post · Any bug bounty hunters attending Hacker Summer Camp and interested in the Vulnerability Vibes event?
+
+
+### Post — @infinitelogins — 2025-07-29 22:13 UTC (2025-07-29 23:13 WAT)
+
+- URL: https://x.com/infinitelogins/status/1950318856402276532
+- Metrics (at fetch): bookmark 10, impression 2458, like 36, quote 0, reply 2, retweet 0
+
+> Any bug bounty hunters attending Hacker Summer Camp and interested in the Vulnerability Vibes event? I have a couple tickets to give away. Depending on interest, may need to pick somebody at random. https://t.co/AvkDd2QtdO

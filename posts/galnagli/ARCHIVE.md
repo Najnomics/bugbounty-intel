@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 60
-- Oldest post captured: 2026-01-07
+- Posts in this file: 83
+- Conversations/threads: 72
+- Oldest post captured: 2025-08-16
 - Newest post captured: 2026-11-10
 
 
@@ -1366,6 +1366,123 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-02-13 · Post · cool milestone seeing myself at @lexfridman podcast :) a lot more exciting research is coming! 
+
+
+### Post — @galnagli — 2026-02-13 14:28 UTC (2026-02-13 15:28 WAT)
+
+- URL: https://x.com/galnagli/status/2022317052342456590
+- Metrics (at fetch): bookmark 29, impression 8214, like 164, quote 1, reply 5, retweet 7
+
+> cool milestone seeing myself at @lexfridman podcast :) a lot more exciting research is coming! 
+> vibe coding 🤝 vibe hacking https://t.co/IiQkJ4a9WU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBC2LfNbAAA4_uH.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-06 · Post · I was targeted by a popular X phishing campaign after my @moltbook discovery that tried to steal my 
+
+
+### Post — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
+
+- URL: https://x.com/galnagli/status/2019694009703362786
+- Metrics (at fetch): bookmark 121, impression 28331, like 270, quote 6, reply 23, retweet 31
+
+> I was targeted by a popular X phishing campaign after my @moltbook discovery that tried to steal my account - this time by impersonating a fake @TechCrunch reporter
+>
+> So I used @openclaw to investigate the attackers.  
+>
+> Here's what I found 🧵 https://t.co/NwqE42pAFE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdfGQVW8AAKR_O.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-02 · Post · I gained complete access to @moltbook's database -The AI Agents Social Network - in under 3 minutes.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-02-02 15:06 UTC (2026-02-02 16:06 WAT)
+
+- URL: https://x.com/galnagli/status/2018340152779718840
+- Metrics (at fetch): bookmark 1039, impression 233731, like 1696, quote 117, reply 124, retweet 294
+
+> I gained complete access to @moltbook's database -The AI Agents Social Network - in under 3 minutes.  
+>
+> API keys of every agent. Over 25k email addresses. Private agent-to-agent DMs, and full write access.
+>
+> Simply by browsing like a normal user.
+>   
+> Here's what happened 🧵 https://t.co/uOZufwsXG2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKVe4BWcAApD5E.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-29 · Post · https://t.co/NbP9OA943D
+
+
+### Post — @galnagli — 2026-01-29 18:53 UTC (2026-01-29 19:53 WAT)
+
+- URL: https://x.com/galnagli/status/2016947847275368899
+- Metrics (at fetch): bookmark 250, impression 23118, like 253, quote 4, reply 7, retweet 27
+
+> https://t.co/NbP9OA943D
+
+
+---
+
+## 2026-01-28 · Post · The Bug Bounty Masterclass is now on YouTube - 3 hours and 39 minutes of content, one shot.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-01-28 18:40 UTC (2026-01-28 19:40 WAT)
+
+- URL: https://x.com/galnagli/status/2016582164926575061
+- Metrics (at fetch): bookmark 558, impression 45648, like 677, quote 3, reply 10, retweet 92
+
+> The Bug Bounty Masterclass is now on YouTube - 3 hours and 39 minutes of content, one shot.
+>
+> I took a lot of inspiration from @karpathy's LLM deep dive course, Something nice about just pressing play and going from zero to expert in one sitting : ) 👇
+>
+> https://t.co/QKFrb8qu4W
+
+
+---
+
+## 2026-01-22 · Post · Introducing my Bug Bounty Masterclass. 100% free.
+
+
+### Post — @galnagli — 2026-01-22 15:39 UTC (2026-01-22 16:39 WAT)
+
+- URL: https://x.com/galnagli/status/2014362253185708500
+- Metrics (at fetch): not returned
+
+> Introducing my Bug Bounty Masterclass. 100% free.
+>
+> I've made $2,000,000+ finding security bugs. I spent the last year turning my methodology into a complete blueprint.
+>
+> 4 hours of video - foundations, reconnaissance, web proxies, hands-on challenges, and certification.
+>
+> Finish it in a weekend and start hacking real-world applications 🐞
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2014359962609139717/img/2KkwtDoeDAiyKZ3m.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-01-07 · Post · 🤡 CVE-2026-21877 - 10.0 CVSS for AUTHENTICATED Remote code execution in @n8n_io, what a joke.... 
 
 
@@ -1382,4 +1499,145 @@ Tags (automatic): RCE
 > This is the reason there are so many real risks to be found because of stupid scoring frameworks and compliance requirements
 
 **Media:**
-- media `3_2008821372949069824` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/G-DEZT_XgAAeIKW.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-04 · Post · This is the most reliable public detection (at this time) to indicate whether a machine is actually 
+
+
+Tags (automatic): RCE
+
+
+### Post — @galnagli — 2025-12-04 20:17 UTC (2025-12-04 21:17 WAT)
+
+- URL: https://x.com/galnagli/status/1996675296959812065
+- Metrics (at fetch): not returned
+
+> This is the most reliable public detection (at this time) to indicate whether a machine is actually exploitable to CVE-2025-55182 / React2Shell without invoking the RCE and limited FP's.
+>
+> it triggers an internal error and validates the vulnerable version 
+> https://cloud.projectdiscovery.io/library/CVE-2025-55182 [pic.x.com/MkoxztYiOe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7WdEG9XYAA7uYY.png — no alt text provided by author
+
+**Links in post:** https://cloud.projectdiscovery.io/library/CVE-2025-55182
+
+
+---
+
+## 2025-12-03 · Post · The only thing comforting about the @reactjs &amp; @nextjs CVE (a critical unauth RCE that works on 
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @galnagli — 2025-12-03 18:10 UTC (2025-12-03 19:10 WAT)
+
+- URL: https://x.com/galnagli/status/1996280776938115181
+- Metrics (at fetch): not returned
+
+> The only thing comforting about the @reactjs &amp; @nextjs CVE (a critical unauth RCE that works on default configurations) is that AI Agents using Frontier models are still far from auto-generating Proof of Concepts based on code diffs - unless someone proves otherwise https://twitter.com/reactjs/status/1996244264192274535
+
+**Links in post:** https://twitter.com/reactjs/status/1996244264192274535
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1566463268 — 2025-12-03 15:44 UTC (2025-12-03 16:44 WAT)
+    
+    - URL: https://x.com/1566463268/status/1996244264192274535
+    - Metrics (at fetch): not returned
+    
+    > There is critical vulnerability in React Server Components disclosed as CVE-2025-55182 that impacts React 19 and frameworks that use it.
+    >
+    > A fix has been published in React versions 19.0.1, 19.1.2, and 19.2.1. We recommend upgrading immediately.
+    >
+    > https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components
+    
+    **Links in post:** https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components
+    
+
+
+---
+
+## 2025-10-22 · Post · We found a way to access Max Verstappen's passport, driver's license, and personal information. Alon
+
+
+### Post — @galnagli — 2025-10-22 18:05 UTC (2025-10-22 19:05 WAT)
+
+- URL: https://x.com/galnagli/status/1981059382080323634
+- Metrics (at fetch): not returned
+
+> We found a way to access Max Verstappen's passport, driver's license, and personal information. Along with every other @Formula1 driver's sensitive data. 
+>
+> It took us 10 minutes using one simple security flaw 🧵 [pic.x.com/jgPUaPb1Ie]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G34itjWWYAEhuu5.jpg — no alt text provided by author
+
+
+---
+
+## 2025-10-08 · Post · We just launched a $4.5m bug bounty live hacking event competition targeting the most popular cloud 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2025-10-08 14:37 UTC (2025-10-08 15:37 WAT)
+
+- URL: https://x.com/galnagli/status/1975933473551712266
+- Metrics (at fetch): bookmark 98, impression 17356, like 222, quote 0, reply 5, retweet 19
+
+> We just launched a $4.5m bug bounty live hacking event competition targeting the most popular cloud &amp; ai open source software 🧵 https://t.co/I4O3QuxorK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G2voH4mXAAA2Vuo.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-19 · Post · I spent the last few weeks digging into hundreds of enterprise-built Vibe Coded applications. 
+
+
+### Post — @galnagli — 2025-09-19 09:33 UTC (2025-09-19 10:33 WAT)
+
+- URL: https://x.com/galnagli/status/1968971817881649435
+- Metrics (at fetch): bookmark 292, impression 31975, like 314, quote 3, reply 6, retweet 57
+
+> I spent the last few weeks digging into hundreds of enterprise-built Vibe Coded applications. 
+>
+> When I found a security flaw, it was almost always one of the same 4 simple mistakes. Here they are 🧵 https://t.co/BnW9st6OKr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1Mu_hNXwAAX_K-.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-16 · Post · If I used my automation on all HackerOne programs, my score would have been double that of the AI Ha
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @galnagli — 2025-08-16 09:26 UTC (2025-08-16 10:26 WAT)
+
+- URL: https://x.com/galnagli/status/1956648814833463523
+- Metrics (at fetch): bookmark 68, impression 63535, like 256, quote 4, reply 17, retweet 7
+
+> If I used my automation on all HackerOne programs, my score would have been double that of the AI Hackbots… https://t.co/2OBqwtDVao
+
+**Quoted post (full text):**
+
+    #### Quoted post — @921913627237478401 — 2025-08-15 18:11 UTC (2025-08-15 19:11 WAT)
+    
+    - URL: https://x.com/921913627237478401/status/1956418555039117524
+    - Metrics (at fetch): bookmark 23, impression 96854, like 85, quote 6, reply 9, retweet 7
+    
+    > If @Xbow had used GPT-5 on HackerOne, its score would have been double that of the humans... https://t.co/52gN9LhWey
+    
+    **Quoted post** 1956416634173964695: not readable via the API (deleted, private, or withheld).
+    

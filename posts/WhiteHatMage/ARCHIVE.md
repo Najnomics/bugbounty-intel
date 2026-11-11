@@ -1210,7 +1210,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > Can we stop using terms like top security firms, top auditors, or top whitehats to indicate how difficult a exploit was after they missed it?
 >
-> &gt; the vulnerability had evaded years of scrutiny by many of the world’s best cryptographers.
+> > the vulnerability had evaded years of scrutiny by many of the world’s best cryptographers.
 >
 > lol
 
@@ -1387,7 +1387,28 @@ Tags (automatic): Platform: Immunefi
 
 **Links in post:** https://twitter.com/LayerZero_Core/status/2057085190565224699
 
-**Quoted post** 2057085190565224699: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1395504028910424065 — 2026-05-20 13:05 UTC (2026-05-20 14:05 WAT)
+    
+    - URL: https://x.com/1395504028910424065/status/2057085190565224699
+    - Metrics (at fetch): not returned
+    
+    > We’re sharing our completed post-mortem on the April 18th incident, prepared with @Mandiant and @CrowdStrike. We are publishing both an executive summary and the full report at the link below.
+    >
+    > Over the past four weeks, we’ve worked with hundreds of partners to help them understand their current security posture, and harden it where appropriate. We’ll continue this work, alongside taking additional proactive steps for the benefit of not only our partners, but also the ecosystem as a whole.
+    >
+    > We want to extend our thanks to our partners for their support and patience this past month. There’s a reason that over $12 billion has moved across the network in the past four weeks, and why the world’s most valuable asset issuers have stood by our side: they believe in us, in what the LayerZero protocol has to offer, and in the value of modular, isolated, application-controlled security.
+    >
+    > The work continues. And we look forward to continue showing up for the applications that trust us with their business, as well as the broader ecosystem.
+    >
+    > https://layerzero.network/blog/layerzero-labs-kelpdao-incident-report
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIw8FGmaYAAkH4c.jpg — no alt text provided by author
+    
+    **Links in post:** https://layerzero.network/blog/layerzero-labs-kelpdao-incident-report
+    
 
 
 ---

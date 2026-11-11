@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 19
-- Conversations/threads: 19
-- Oldest post captured: 2024-11-21
+- Posts in this file: 35
+- Conversations/threads: 35
+- Oldest post captured: 2023-07-31
 - Newest post captured: 2026-04-17
 
 
@@ -357,3 +357,404 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 > 👉 Read more about the findings: https://neodyme.io/en/blog/wazuh_rce/
 
 **Links in post:** https://neodyme.io/en/blog/wazuh_rce/
+
+
+---
+
+## 2024-10-25 · Post · Since we had used a different setup without any administrator account, our official attempt during 
+
+
+### Post — @Neodyme — 2024-10-25 13:27 UTC (2024-10-25 14:27 WAT)
+
+- URL: https://x.com/Neodyme/status/1849804973984432382
+- Metrics (at fetch): bookmark 2, impression 2357, like 26, quote 0, reply 2, retweet 2
+
+> Since we had used a different setup without any administrator account, our official attempt during #Pwn2Own failed. However, @thezdi provided us with a second chance to present our Lexmark exploit and it worked 🖨️🎉 https://t.co/2WjbEoGgKW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GavTmzFXsAAEQ8p.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-22 · Post · Challenge accepted! We’re gearing up for @thezdi's Pwn2Own to highlight critical vulnerabilities in
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @Neodyme — 2024-10-22 07:52 UTC (2024-10-22 08:52 WAT)
+
+- URL: https://x.com/Neodyme/status/1848633479510298754
+- Metrics (at fetch): bookmark 0, impression 1363, like 17, quote 1, reply 1, retweet 3
+
+> Challenge accepted! We’re gearing up for @thezdi's #Pwn2Own to highlight critical vulnerabilities in home routers and printers. 
+> Today at 11am IST, we’ll be targeting the HP Color LaserJet Pro MFP 3301fdw. Fingers crossed and good luck to the other contestants🤞
+
+
+---
+
+## 2024-10-12 · Post · We audited @UNCX_token's liquidity lockers toward the end of Q2 2024 -- and we're happy to celebrate
+
+
+### Post — @Neodyme — 2024-10-12 14:18 UTC (2024-10-12 15:18 WAT)
+
+- URL: https://x.com/Neodyme/status/1845106734282506668
+- Metrics (at fetch): bookmark 3, impression 1667, like 11, quote 0, reply 0, retweet 3
+
+> We audited @UNCX_token's liquidity lockers toward the end of Q2 2024 -- and we're happy to celebrate their launch!
+>
+> We can confirm that their audit completed without a single finding above low severity -- an uncommon feat. Their dedication to securing their programs is unmatched https://t.co/16e2Z2O5L7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1275709288787345408 — 2024-10-11 16:20 UTC (2024-10-11 17:20 WAT)
+    
+    - URL: https://x.com/1275709288787345408/status/1844775170772259276
+    - Metrics (at fetch): bookmark 14, impression 46898, like 158, quote 3, reply 41, retweet 43
+    
+    > Our Liquidity Lockers are now live on @solana, offering enhanced security and verifiable open-source integration for projects.
+    >
+    > Lock liquidity on @RaydiumProtocol to protect token value, minimize volatility, and increase investor confidence. All accounts are decentralized, https://t.co/QjaF7Yu0hJ
+    
+    **Media:**
+    - media `7_1844770824479236103` (details not returned by the API)
+    
+
+
+---
+
+## 2024-06-07 · Post · We completed an audit of @streamflow_fi's protocol including their new airdrop feature.🕵️‍♂️
+
+
+### Post — @Neodyme — 2024-06-07 08:43 UTC (2024-06-07 09:43 WAT)
+
+- URL: https://x.com/Neodyme/status/1798999168238956898
+- Metrics (at fetch): bookmark 0, impression 1711, like 14, quote 0, reply 0, retweet 3
+
+> We completed an audit of @streamflow_fi's protocol including their new airdrop feature.🕵️‍♂️
+>
+> Happy to announce there were no major issues, and they've been a great team to work with🫡 https://t.co/eL9mvp2IIb
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1393137074979713024 — 2024-06-07 08:26 UTC (2024-06-07 09:26 WAT)
+    
+    - URL: https://x.com/1393137074979713024/status/1798995049612714216
+    - Metrics (at fetch): bookmark 0, impression 3198, like 26, quote 1, reply 1, retweet 4
+    
+    > We're proud to announce that we've successfully completed another audit with @Neodyme. This audit covers the newly released Airdrop feature and the core Solana protocol.
+    >
+    > This audit further validates the continuing robustness of Streamflow's smart contracts. https://t.co/UCErPhGHD0
+    
+    **Media:**
+    - media `3_1798982039267405824` (details not returned by the API)
+    
+
+
+---
+
+## 2024-05-14 · Post · In collaboration with @cirosec, we've identified several privilege escalation vulnerabilities in mul
+
+
+### Post — @Neodyme — 2024-05-14 13:16 UTC (2024-05-14 14:16 WAT)
+
+- URL: https://x.com/Neodyme/status/1790370530765291708
+- Metrics (at fetch): bookmark 2, impression 3309, like 22, quote 1, reply 10, retweet 7
+
+> In collaboration with @cirosec, we've identified several privilege escalation vulnerabilities in multiple popular antivirus and EDR solutions.
+>
+> Our secret? A novel attack surface: COM hijacking 🔥
+>
+> 1/2
+
+
+---
+
+## 2024-03-15 · Post · An innovation in LST swapping, a new smart contract framework and a state corruption bug:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1768776639335317644
+- Metrics (at fetch): bookmark 8, impression 15064, like 27, quote 4, reply 1, retweet 5
+
+> An innovation in LST swapping, a new smart contract framework and a state corruption bug:
+>
+> Join us for a deeper look into our recent pre-launch audit of @sanctumso's new Infinity protocol. And into why multiple audits are important 👇
+
+
+---
+
+## 2024-03-13 · Post · Ever wonder what happens when you let the world's best auditors loose on a program written by Solana
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-03-13 22:21 UTC (2024-03-13 23:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1768039762735022157
+- Metrics (at fetch): bookmark 14, impression 7440, like 28, quote 3, reply 2, retweet 4
+
+> Ever wonder what happens when you let the world's best auditors loose on a program written by Solana OGs? 
+>
+> Our audit report for @sanctumso's Infinity protocol is now public. ♾ https://t.co/a74CpwDCEL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIlWBRsXwAAuTXZ.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-29 · Post · New Blogpost: Learn how Riverguard works and how we used it to find a bug in an on-chain casino 🎰↓
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-02-29 18:50 UTC (2024-02-29 19:50 WAT)
+
+- URL: https://x.com/Neodyme/status/1763275472904052853
+- Metrics (at fetch): not returned
+
+> New Blogpost: Learn how Riverguard works and how we used it to find a bug in an on-chain casino 🎰↓
+> https://neodyme.io/en/blog/riverguard_1_intro/
+
+**Links in post:** https://neodyme.io/en/blog/riverguard_1_intro/
+
+
+---
+
+## 2024-01-24 · Post · Read our new blogpost: How to hack a DAO! 😈
+
+
+### Post — @Neodyme — 2024-01-24 18:19 UTC (2024-01-24 19:19 WAT)
+
+- URL: https://x.com/Neodyme/status/1750221784220336278
+- Metrics (at fetch): not returned
+
+> Read our new blogpost: How to hack a DAO! 😈
+>
+> You'll learn how small technical details can be turned into powerful social engineering attacks.
+> https://neodyme.io/en/blog/how_to_hack_a_dao/
+
+**Links in post:** https://neodyme.io/en/blog/how_to_hack_a_dao/
+
+
+---
+
+## 2023-12-14 · Post · Technical Analysis of the Ledger Supply-Chain Attack 🧵
+
+
+Tags (automatic): Dependency confusion / supply chain, Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-12-14 16:35 UTC (2023-12-14 17:35 WAT)
+
+- URL: https://x.com/Neodyme/status/1735337711555285261
+- Metrics (at fetch): not returned
+
+> Technical Analysis of the Ledger Supply-Chain Attack 🧵
+>
+> We did a brief analysis of today’s attack against the @ledger browser integration. This is what we found.
+>
+> Ledger’s browser integration, Ledger Connect, was attacked via a suspected supply chain attack. The attacker inserted malicious javascript into version 1.1.6 and 1.1.7. The attack mostly affected users that selected the Ledger Wallet Provider option in a dApp frontend.
+>
+> The main javascript payload of the attack is a fairly sophisticated wallet drainer. It drains various tokens on EVM chains, supporting several different wallets.
+>
+> Other blockchains, such as Solana, were not affected. Notably, the attack also tries to drain from other installed browser wallets.
+>
+> How was the payload introduced to the ledger browser integration?
+>
+> There were numerous updates to the connect-kit npm package today. The malicious version have since been deleted from the package history, however the timeline was as follows:
+>
+> 1.1.5, uploaded today at 9:49 UTC, still looks normal, but is affected according to Ledger.
+> 1.1.6/1.1.7 were uploaded within about two hours of 1.1.5. We confirmed that they contain malicious code.
+> 1.1.8, uploaded at 13:18 UTC, looks to be clean again, which was confirmed by @ledger: 
+> https://twitter.com/Ledger/status/1735298142118072512
+>
+> What happened, and what were the effects?
+>
+> To understand, let’s look at how the Ledger browser integration, called Ledger Connect, works.
+> To interface with their browser extension, dApps can use Connect by including a code snippet provided by Ledger.
+>
+> This is done with a connect-kit-loader proxy that dynamically fetches and executes the latest version of connect-kit from NPM. As the version on NPM was upgraded today in the supply-chain attack, all dApps using the connect-kit-loader pulled the malicious javascript.
+>
+> Most sites that support Ledger likely use the official connect-kit-loader, but only execute it when the user explicitly selects the Ledger Wallet Provider.
+> If a user does that, the website downloads and executes the drainer instead of the intended ledger integration.
+>
+> The drainer code is obfuscated but can be deobfuscated with tools like https://obf-io.deobfuscate.io/
+>
+> In short, the drainer fetches encrypted configuration data from Infura, a dApp backend provider. Using the api-key and encryption secrets contained in the code we can access it ourselves.
+> The config contains target wallets for multiple chains and a list of 400 ‘researcher’ pubkeys, which are NOT attacked.
+>
+> The drainer then does the usual draining: Check which wallet providers are inserted, enumerate addresses, check balances and send drain txs to the user to sign.
+>
+> If you enjoyed this thread, follow us for more in-depth security analyses, and we’d love a like and retweet for visibility!
+>
+> #ledgerhack #Ledger
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBUmcXyWQAArzBi.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GBUnOkMXwAAu7x5.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GBUnR1jXcAAtDoC.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GBUoMYrXsAAuAJD.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/Ledger/status/1735298142118072512, https://obf-io.deobfuscate.io/
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2652239532 — 2023-12-14 13:58 UTC (2023-12-14 14:58 WAT)
+    
+    - URL: https://x.com/2652239532/status/1735298142118072512
+    - Metrics (at fetch): not returned
+    
+    > Update: 
+    >
+    > The malicious version of the file was replaced with the genuine version at around 2:35pm CET. 
+    >
+    > The new genuine version should be propagated soon. 
+    >
+    > We will provide a comprehensive report as soon as it’s ready.
+    >
+    > In the meantime, we’d like to remind the community to always Clear Sign your transactions - remember that the addresses and the information presented on your Ledger screen is the only genuine information.
+    >
+    > If there’s a difference between the screen shown on your Ledger device and your computer/phone screen, stop that transaction immediately.
+    
+
+
+---
+
+## 2023-11-01 · Post · Introducing Riverguard 🏞️💂
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-11-01 14:30 UTC (2023-11-01 15:30 WAT)
+
+- URL: https://x.com/Neodyme/status/1719723518638817321
+- Metrics (at fetch): not returned
+
+> Introducing Riverguard 🏞️💂
+>
+> A new security tool for Solana program deployers... 🧵
+>
+> https://riverguard.io [pic.x.com/kKn8UqYbJN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F92vbGrbYAAdd47.jpg — no alt text provided by author
+
+**Links in post:** https://riverguard.io
+
+
+---
+
+## 2023-10-23 · Post · 🎃👩‍💻 Hacks are SCARY 👻🔐
+
+
+### Post — @Neodyme — 2023-10-23 17:15 UTC (2023-10-23 18:15 WAT)
+
+- URL: https://x.com/Neodyme/status/1716503682781479047
+- Metrics (at fetch): not returned
+
+> 🎃👩‍💻 Hacks are SCARY 👻🔐
+>
+> Unmasking the Hacky Halloween Party at #Breakpoint2023!
+>
+> Dress up to be safe from the hackers!
+>
+> 🎟️ Access Limited: Hack your way into the guestlist now
+>
+> https://lu.ma/ez0qr1s9 [pic.x.com/GeCtHhtVg5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9I-0z2WMAA3b0W.jpg — no alt text provided by author
+
+**Links in post:** https://lu.ma/ez0qr1s9
+
+
+---
+
+## 2023-10-19 · Reply · @synthetify got hacked in a DAO attack.
+
+
+### Post — @Neodyme — 2023-10-19 23:32 UTC (2023-10-20 00:32 WAT)
+
+- URL: https://x.com/Neodyme/status/1715149044794655145
+- Metrics (at fetch): not returned
+
+> @synthetify got hacked in a DAO attack.
+>
+> The attacker passed a proposal to upgrade the program and stole $230k from the protocol.
+>
+> What happened? [pic.x.com/2MXdJpybB8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F81oAFzW0AA9rh0.png — no alt text provided by author
+
+
+---
+
+## 2023-08-10 · Post · Congrats to @b2ahex for winning  @PwnieAwards Top Desktop Bug category this year! Well deserved.
+
+
+### Post — @Neodyme — 2023-08-10 02:10 UTC (2023-08-10 03:10 WAT)
+
+- URL: https://x.com/Neodyme/status/1689459151599206400
+- Metrics (at fetch): not returned
+
+> Congrats to @b2ahex for winning  @PwnieAwards Top Desktop Bug category this year! Well deserved.
+>
+> It was a great honor to be nominated for our CS:GO 0day research - thank you! [pic.x.com/xSHBidlOr0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3IgaiEasAAA9ZK.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F3IlYEtbsAAmD9i.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-02 · Post · We all know vyper's reentrancy locks didn't work. But why? How was it exploited? 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @Neodyme — 2023-08-02 17:56 UTC (2023-08-02 18:56 WAT)
+
+- URL: https://x.com/Neodyme/status/1686798090672500756
+- Metrics (at fetch): not returned
+
+> We all know vyper's reentrancy locks didn't work. But why? How was it exploited? 
+>
+> And why does this account hold more tokens than the total supply?
+>
+> Let's dive in 🧵👇 [pic.x.com/pYv8bqWLAf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2i09WEXcBM0aAF.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-31 · Post · 👾 You play CTF and still need a DEFCON ticket? 
+
+
+### Post — @Neodyme — 2023-07-31 19:47 UTC (2023-07-31 20:47 WAT)
+
+- URL: https://x.com/Neodyme/status/1686101286498734080
+- Metrics (at fetch): not returned
+
+> 👾 You play CTF and still need a DEFCON ticket? 
+>
+> We've 2 tickets left over and want to give them away! 
+>
+> Follow us and comment with your favourite CTF writeup to win!
+>
+> Ends Aug 3rd 12:00 CET 
+> #defcon31 #DEFCON

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 36
-- Conversations/threads: 36
-- Oldest post captured: 2023-12-05
+- Posts in this file: 67
+- Conversations/threads: 67
+- Oldest post captured: 2023-07-13
 - Newest post captured: 2026-10-20
 
 
@@ -880,6 +880,484 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2024-10-08 · Post · Zellic is proud to announce Masamune, search for smart contract bugs, reports, bounties, attack vect
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1843713092993331464
+- Metrics (at fetch): bookmark 85, impression 13580, like 137, quote 5, reply 5, retweet 22
+
+> Zellic is proud to announce Masamune, search for smart contract bugs, reports, bounties, attack vectors, and more.
+>
+> Masamune is a curated index of audit reports, bug fixes, and technical documentation of numerous protocols.
+>
+> Try it here: https://t.co/haQJxTVUgz
+>
+> Learn more 🧵👇 https://t.co/Dh5fNyCFjd
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2024-10-07 · Post · STRK staking is coming this Q4 and Zellic is thrilled to be running a full node for @starknet!
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2024-10-07 16:43 UTC (2024-10-07 17:43 WAT)
+
+- URL: https://x.com/zellic_io/status/1843331206852571283
+- Metrics (at fetch): bookmark 5, impression 15827, like 80, quote 1, reply 8, retweet 12
+
+> STRK staking is coming this Q4 and Zellic is thrilled to be running a full node for @starknet!
+>
+> Zellic has worked closely with StarkWare and Starknet Foundation to audit core components of the chain, including STRK staking contracts.
+>
+> We look forward to deepening our commitment https://t.co/JJlk9qcWFR https://t.co/9QaZXsJqVr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZTSWHLW8AYzR6j.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463071986515599362 — 2024-07-10 16:45 UTC (2024-07-10 17:45 WAT)
+    
+    - URL: https://x.com/1463071986515599362/status/1811079269470327254
+    - Metrics (at fetch): bookmark 58, impression 232408, like 731, quote 78, reply 95, retweet 164
+    
+    > It's official: STRK staking is coming to Starknet! 🕺
+    >
+    > This will enable the development of new business logic and use-cases, adding more utility to the STRK token and gradually increasing the decentralization of our network.
+    >
+    > And because it's coming this year, Starknet will be https://t.co/ilaDraEyqH
+    
+    **Media:**
+    - media `3_1811076807116148736` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-27 · Post · We are thrilled to partner with @hexagate_, the leading real-time security monitoring and threat pre
+
+
+### Post — @zellic_io — 2024-09-27 15:32 UTC (2024-09-27 16:32 WAT)
+
+- URL: https://x.com/zellic_io/status/1839689680800936391
+- Metrics (at fetch): bookmark 1, impression 1564, like 12, quote 0, reply 0, retweet 0
+
+> We are thrilled to partner with @hexagate_, the leading real-time security monitoring and threat prevention solution, to help protocols establish both pre-deployment security and post-deployment monitoring.
+>
+> By developing an in-depth understanding of core protocol logic during an https://t.co/BWFv31dwAy
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1544385947156058112 — 2024-09-27 15:26 UTC (2024-09-27 16:26 WAT)
+    
+    - URL: https://x.com/1544385947156058112/status/1839688065528291725
+    - Metrics (at fetch): bookmark 0, impression 2123, like 5, quote 1, reply 1, retweet 0
+    
+    > 1/ 🚀 We are excited to announce that @zellic_io and Hexagate are partnering together to power invariant mapping and monitoring for protocols at all stages: pre and post-deployment!
+    >
+    > Contact us or @zellic_io to onboard!
+    >
+    > Read more about the partnership👇 https://t.co/Xrf3njuDK2
+    
+    **Media:**
+    - media `3_1839687109231165440` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-26 · Post · In December of 2023, Zellic's @farazsth98 found a bug in NEAR's blockchain node. We worked with the 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
+
+- URL: https://x.com/zellic_io/status/1839337470988882113
+- Metrics (at fetch): bookmark 39, impression 25880, like 76, quote 4, reply 1, retweet 14
+
+> In December of 2023, Zellic's @farazsth98 found a bug in NEAR's blockchain node. We worked with the NEAR team to responsibly disclose and fix the issue.
+>
+> Exploiting this bug would crash every node on the NEAR network.
+>
+> Read on for all the details: https://t.co/v7WLDIeShn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYagdVlaoAALsy9.png — no alt text provided by author
+
+
+---
+
+## 2024-09-06 · Post · Version 0.11.0 of gnark was just released, which fixes two vulnerabilities in the Groth16 backend re
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
+
+- URL: https://x.com/zellic_io/status/1832188410557296908
+- Metrics (at fetch): bookmark 51, impression 33212, like 129, quote 4, reply 2, retweet 21
+
+> Version 0.11.0 of gnark was just released, which fixes two vulnerabilities in the Groth16 backend reported by Zellic (CVE-2024-45039, CVE-2024-45040).
+>
+> These affect the soundness and ZK property of generated proofs.
+>
+> Read on for more details and how to check if you're vulnerable. https://t.co/7LbYoQlWd3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GW08B8XXcAAZdjF.png — no alt text provided by author
+
+
+---
+
+## 2024-08-22 · Post · We're proud to announce that we've acquired @code4rena!
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1826621630845497544
+- Metrics (at fetch): bookmark 62, impression 130226, like 517, quote 36, reply 32, retweet 63
+
+> We're proud to announce that we've acquired @code4rena!
+>
+> Code4rena is the gold standard for competitive audits, and we're thrilled to join forces with them.
+>
+> We acquired Code4rena for one simple reason: because it enables us to do better audits for our clients.
+>
+> Here's how. 🧵👇 https://t.co/qrcsXKJ3if
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVj6karXYAEJdLm.png — no alt text provided by author
+
+
+---
+
+## 2024-06-06 · Post · In this Zellic Security Roundup, we explain how a Cosmos SDK review and POC led to the discovery of 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2024-06-06 21:01 UTC (2024-06-06 22:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1798822657187844535
+- Metrics (at fetch): bookmark 7, impression 1878, like 15, quote 0, reply 1, retweet 6
+
+> In this Zellic Security Roundup, we explain how a Cosmos SDK review and POC led to the discovery of a possible scenario of tokens being stuck in contracts and users being unable to withdraw funds (fixed).
+>
+> This is a look at that finding. https://t.co/MbdBixIwc0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPaxXzGa0AAFvCc.png — no alt text provided by author
+
+
+---
+
+## 2024-04-19 · Post · SECURITY ADVISORY
+
+
+### Post — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1781389554764886289
+- Metrics (at fetch): bookmark 23, impression 12501, like 54, quote 3, reply 1, retweet 9
+
+> SECURITY ADVISORY
+>
+> Zellic discovered two critical issues in certain forks of Gains Network. We worked with the teams to responsibly disclose these issues.
+>
+> The issues allowed attackers to create trades that always made 900% profit (the max allowed).
+>
+> Here’s how the bugs worked: https://t.co/jPYKqdgzcR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLi99M_awAEksYI.png — no alt text provided by author
+
+
+---
+
+## 2024-04-05 · Post · The March edition of the Zellic Security Roundup is live! This month, we cover:
+
+
+### Post — @zellic_io — 2024-04-05 17:59 UTC (2024-04-05 18:59 WAT)
+
+- URL: https://x.com/zellic_io/status/1776308778927059084
+- Metrics (at fetch): bookmark 0, impression 1682, like 5, quote 0, reply 0, retweet 2
+
+> The March edition of the Zellic Security Roundup is live! This month, we cover:
+>
+> - A unique finding discovered during our audit of @Spectral_Labs
+> - Our recent writing, including a look into @GroqInc’s whitepaper
+> - The events we’ll be heading to in April
+>
+> https://t.co/2p8yuJmkJ7
+
+
+---
+
+## 2024-04-01 · Post · Ever wondered why multiparty computation (MPC) protocol wallets are considered the most secure of al
+
+
+### Post — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1774835408578425071
+- Metrics (at fetch): bookmark 19, impression 6133, like 32, quote 2, reply 1, retweet 5
+
+> Ever wondered why multiparty computation (MPC) protocol wallets are considered the most secure of all crypto wallets?
+>
+> To find out why, we’ll look into:
+>
+> 1. What MPC is
+> 2. MPC wallet functions
+> 3. Vulnerabilities
+>
+> Let’s take a look at these functions below👇🧵 https://t.co/qygVDZZRID
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKF49B8awAArQZM.png — no alt text provided by author
+
+
+---
+
+## 2024-03-29 · Post · We’re excited to share the new Zellic Reports site with a refreshed visual identity and layout!
+
+
+### Post — @zellic_io — 2024-03-29 00:24 UTC (2024-03-29 01:24 WAT)
+
+- URL: https://x.com/zellic_io/status/1773506468337385491
+- Metrics (at fetch): bookmark 4, impression 3861, like 30, quote 0, reply 1, retweet 2
+
+> We’re excited to share the new Zellic Reports site with a refreshed visual identity and layout!
+>
+> The new site includes our finalized audit reports and public findings uncovered by our team of security researchers.
+>
+> Check out the new reports site here: https://t.co/VsY4QUErUA https://t.co/011kxayehX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJzCj1Ia4AAxzGE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GJzCkicaMAAKeIo.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-12 · Post · The February edition of the Zellic Security Roundup is live! In this installment, we cover:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zellic_io — 2024-03-12 23:17 UTC (2024-03-13 00:17 WAT)
+
+- URL: https://x.com/zellic_io/status/1767691362613526798
+- Metrics (at fetch): not returned
+
+> The February edition of the Zellic Security Roundup is live! In this installment, we cover:
+>
+> - an interesting finding discovered during our audit of @OrderlyNetwork 
+> - a recent thread on @signalapp's new username feature
+> - the latest news in Web3 security
+>
+> https://newsletter.zellic.io/p/zellic-security-roundup-february?x=1
+
+**Links in post:** https://newsletter.zellic.io/p/zellic-security-roundup-february?x=1
+
+
+---
+
+## 2024-03-11 · Post · You may have seen Groq's recent demo, with state-of-the-art LLM inference speed. But how is it so fa
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zellic_io — 2024-03-11 21:11 UTC (2024-03-11 22:11 WAT)
+
+- URL: https://x.com/zellic_io/status/1767297364673626434
+- Metrics (at fetch): not returned
+
+> You may have seen Groq's recent demo, with state-of-the-art LLM inference speed. But how is it so fast?  
+>
+> We did a deep dive into Groq’s whitepaper (surprisingly easy to read!) to find out. 
+>
+> Here’s how:🧵👇 [pic.x.com/l6XPbSSg8B]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GIasFopbcAA272t.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-09 · Post · The Zellic cryptography team recently placed second overall in the most recent @__zkhack__ competiti
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2024-02-09 00:06 UTC (2024-02-09 01:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1755744893295788289
+- Metrics (at fetch): not returned
+
+> The Zellic cryptography team recently placed second overall in the most recent @__zkhack__ competition, ZK Hack IV, with three puzzles created by @__geometrydev__.
+>
+> For a look into the three puzzles and the solution code, check out our latest blog below. [pic.x.com/w6Q6y7Gxar]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GF2oIeaakAAsbCG.png — no alt text provided by author
+
+
+---
+
+## 2024-02-07 · Post · Introducing the Zellic Security Roundup, a monthly security-focused newsletter covering valuable sec
+
+
+### Post — @zellic_io — 2024-02-07 22:36 UTC (2024-02-07 23:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1755359815940162025
+- Metrics (at fetch): not returned
+
+> Introducing the Zellic Security Roundup, a monthly security-focused newsletter covering valuable security news and analysis in Web3!
+>
+> Subscribe for monthly updates on Zellic's research and writing, conferences we’ll be heading to, and recent audit reports.
+>
+> https://zellic.substack.com/
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFxJggKbYAA8Y33.png — no alt text provided by author
+
+**Links in post:** https://zellic.substack.com/
+
+
+---
+
+## 2024-01-26 · Post · Zellic Co-Founder and CEO @gf_256 recently participated in the analysis, code review, and ongoing wo
+
+
+### Post — @zellic_io — 2024-01-26 18:17 UTC (2024-01-26 19:17 WAT)
+
+- URL: https://x.com/zellic_io/status/1750946102428467674
+- Metrics (at fetch): not returned
+
+> Zellic Co-Founder and CEO @gf_256 recently participated in the analysis, code review, and ongoing work during the follow-up of Radiant Capital’s flash-loan-based exploit.
+>
+> Check out the thread for more details on the exploit and follow-up efforts. https://twitter.com/RDNTCapital/status/1742638375629177244
+
+**Links in post:** https://twitter.com/RDNTCapital/status/1742638375629177244
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1501279850727821312 — 2024-01-03 20:05 UTC (2024-01-03 21:05 WAT)
+    
+    - URL: https://x.com/1501279850727821312/status/1742638375629177244
+    - Metrics (at fetch): not returned
+    
+    > In no particular order, we want to thank @paladin_marco, @hexagate_, @BlockSecTeam, @LayerZero_Labs, @MaybeMaxPower, @samczsun, @chaoslabs, @pcaversaccio, Daniel from @OriginProtocol, Stephen Tong from @zellic_io, @chainalysis, @tayvano_, @cryptogle, @pashov, @trmlabs, @0x4C756B65 for their analysis, code reviews, & ongoing work to hunt down the exploiter.
+    >
+    > We cannot thank you all enough. 8/10🧵
+    
+
+
+---
+
+## 2024-01-25 · Post · Following several major ZK audits and critical vulnerabilities uncovered, we're opening our ZK audit
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2024-01-25 21:56 UTC (2024-01-25 22:56 WAT)
+
+- URL: https://x.com/zellic_io/status/1750638776215621971
+- Metrics (at fetch): not returned
+
+> Following several major ZK audits and critical vulnerabilities uncovered, we're opening our ZK audit playbook to help developers write safer circuits.
+>
+> In this thread, we'll share useful tips and address the key questions to answer when auditing ZK applications.
+>
+> Let's dive in. [pic.x.com/zpzsE6XFBR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEuEr8Ga0AExkyS.png — no alt text provided by author
+
+
+---
+
+## 2024-01-12 · Post · Pairings, particularly in the context of elliptic curves, have become an important cryptographic bui
+
+
+### Post — @zellic_io — 2024-01-12 18:23 UTC (2024-01-12 19:23 WAT)
+
+- URL: https://x.com/zellic_io/status/1745874206695596427
+- Metrics (at fetch): not returned
+
+> Pairings, particularly in the context of elliptic curves, have become an important cryptographic building block.
+>
+> Let’s dive into what pairings are, what problems they solve, and where they are used, with a particular focus on elliptic curve pairings.
+>
+> Read more👇🧵 [pic.x.com/YCi1ZjNom1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDp_7aKbgAQt7vY.png — no alt text provided by author
+
+
+---
+
+## 2023-12-14 · Post · Ledger wallet got hit by a supply chain attack, exploiting that their connect-kit-loader library.
+
+
+Tags (automatic): Dependency confusion / supply chain
+
+
+### Post — @zellic_io — 2023-12-14 19:12 UTC (2023-12-14 20:12 WAT)
+
+- URL: https://x.com/zellic_io/status/1735377228211601773
+- Metrics (at fetch): not returned
+
+> Ledger wallet got hit by a supply chain attack, exploiting that their connect-kit-loader library.
+>
+> A phished credential token was enough to publish a newer version. It was automatically included and distributed further.
+>
+> Let's do a deep dive on how the drainer worked 👇🧵
+
+
+---
+
+## 2023-12-12 · Post · Zellic and @immunefi are partnering to build a more secure Web3! This partnership will enable our cu
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @zellic_io — 2023-12-12 00:05 UTC (2023-12-12 01:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1734363715817082971
+- Metrics (at fetch): not returned
+
+> Zellic and @immunefi are partnering to build a more secure Web3! This partnership will enable our customers to strengthen their security posture with a holistic security suite.
+>
+> For more details on this partnership join our Twitter Spaces with Scroll on Thursday at 2:30pm EST! [pic.x.com/5SZhKfWuvc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBGymy3b0AAloRL.png — no alt text provided by author
+
+
+---
+
 ## 2023-12-05 · Post · The dangers of integer truncation:
 
 
@@ -901,3 +1379,248 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GAno6_kaUAAlzfC.png — no alt text provided by author
+
+
+---
+
+## 2023-11-14 · Post · We are excited to share write-ups for two @paradigm_ctf challenges from @farazsth98, a Security Rese
+
+
+### Post — @zellic_io — 2023-11-14 19:57 UTC (2023-11-14 20:57 WAT)
+
+- URL: https://x.com/zellic_io/status/1724516841899573389
+- Metrics (at fetch): bookmark 20, impression 11090, like 27, quote 2, reply 1, retweet 6
+
+> We are excited to share write-ups for two @paradigm_ctf challenges from @farazsth98, a Security Researcher at Zellic. We'll be looking at Grains of Sand and Hopping Into Place!
+>
+> For an in-depth look into both challenges, check out our blog: https://t.co/NmvA0iivlX https://t.co/50L3T6azEG
+
+
+---
+
+## 2023-10-27 · Post · Zellic Security Researcher @sampriti0 recently joined Scroll’s security webinar to discuss Zellic's 
+
+
+### Post — @zellic_io — 2023-10-27 20:14 UTC (2023-10-27 21:14 WAT)
+
+- URL: https://x.com/zellic_io/status/1717998277147406522
+- Metrics (at fetch): not returned
+
+> Zellic Security Researcher @sampriti0 recently joined Scroll’s security webinar to discuss Zellic's role as an auditing collaborator for Scroll including audit scope and testing methodologies. 
+>
+> Link to webinar recording: https://www.crowdcast.io/c/scroll-security
+
+**Links in post:** https://www.crowdcast.io/c/scroll-security
+
+
+---
+
+## 2023-10-11 · Post · Predictable random data should never happen, but sometimes it does. These tools and wallets used wea
+
+
+### Post — @zellic_io — 2023-10-11 21:00 UTC (2023-10-11 22:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1712211534964011305
+- Metrics (at fetch): not returned
+
+> Predictable random data should never happen, but sometimes it does. These tools and wallets used weak randomness, resulting in $1M+ loss:
+>
+> • Libbitcoin Explorer
+> • Trust Wallet
+> • Profanity
+> • Cake Wallet
+>
+> But how could this have been prevented? 🧵👇 [pic.x.com/8cYOTDqhcZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F8L_UNOacAAbC8t.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-04 · Post · ERC-4337 is a new standard for account-like smart contracts on Ethereum.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2023-10-04 18:16 UTC (2023-10-04 19:16 WAT)
+
+- URL: https://x.com/zellic_io/status/1709633589078642911
+- Metrics (at fetch): not returned
+
+> ERC-4337 is a new standard for account-like smart contracts on Ethereum.
+>
+> In this thread, we'll explain how it works under the hood, what the differences over existing solutions are, and how to use it safely, both from a user’s and developer’s perspective 🧵👇 [pic.x.com/D5csJI95fh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7nWsAubkAAJ6L9.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-15 · Post · The power of one word.
+
+
+### Post — @zellic_io — 2023-09-15 17:30 UTC (2023-09-15 18:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1702736751608123637
+- Metrics (at fetch): not returned
+
+> The power of one word.
+>
+> Here's how one word resulted in a critical security vulnerability affecting all three million dollars' worth of staked Premia Finance tokens.
+>
+> Read more: [pic.x.com/vUJXYMyJ6W]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6FWDN4aIAIzR1E.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-08 · Post · We are excited to share the Zellic ZK Map, an ongoing effort to track the most important advancement
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2023-09-08 17:21 UTC (2023-09-08 18:21 WAT)
+
+- URL: https://x.com/zellic_io/status/1700197733683048694
+- Metrics (at fetch): not returned
+
+> We are excited to share the Zellic ZK Map, an ongoing effort to track the most important advancements in all things zero-knowledge.
+>
+> We’ve compiled 100+ projects in 20+ categories.
+>
+> http://zkmap.zellic.io
+
+**Links in post:** http://zkmap.zellic.io
+
+
+---
+
+## 2023-09-01 · Post · In our first guided tour of the ZK landscape, we covered three zkSNARK applications: zkEVMs, zkBridg
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @zellic_io — 2023-09-01 20:40 UTC (2023-09-01 21:40 WAT)
+
+- URL: https://x.com/zellic_io/status/1697710970892951912
+- Metrics (at fetch): not returned
+
+> In our first guided tour of the ZK landscape, we covered three zkSNARK applications: zkEVMs, zkBridges, and ZK programming languages.
+>
+> On this leg of the tour, we'll be reviewing these applications of ZK:
+>
+> ✅ ZK payments
+> ✅ ZK hardware acceleration
+> ✅ zkVMs
+>
+> Let's get started👇🧵 [pic.x.com/NyTsdAERUZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F497IRCbIAAi0V4.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-08 · Post · Security incidents are high-pressure situations that few are equipped to handle. Yet during a hack, 
+
+
+### Post — @zellic_io — 2023-08-08 03:15 UTC (2023-08-08 04:15 WAT)
+
+- URL: https://x.com/zellic_io/status/1688750630418931713
+- Metrics (at fetch): not returned
+
+> Security incidents are high-pressure situations that few are equipped to handle. Yet during a hack, it's hard to get in touch with the right people.
+>
+> Zellic is participating in a network of crypto security veterans to quickly connect experts and founders during emergencies. 👇 https://twitter.com/samczsun/status/1688613387952074756
+
+**Links in post:** https://twitter.com/samczsun/status/1688613387952074756
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
+    
+    - URL: https://x.com/samczsun/status/1688613387952074756
+    - Metrics (at fetch): not returned
+    
+    > Our experimental solution: a Telegram bot which anyone can use during emergencies to get in touch with trusted members of the security community and their extensive network of contacts.
+    >
+    > https://t.me/seal_911_bot
+    
+    **Links in post:** https://t.me/seal_911_bot
+    
+
+
+---
+
+## 2023-07-27 · Post · Meet Cairo, the native language of Starknet.
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2023-07-27 22:17 UTC (2023-07-27 23:17 WAT)
+
+- URL: https://x.com/zellic_io/status/1684689590488346629
+- Metrics (at fetch): not returned
+
+> Meet Cairo, the native language of Starknet.
+>
+> In this thread we'll:
+>
+> ✅ Introduce Cairo &amp; Starknet
+> ✅ Explore the security features of Cairo
+> ✅ Examine potential pitfalls when writing contracts in Cairo
+> ✅ Give you things to consider when writing secure code
+>
+> Let's dig in👇🧵: [pic.x.com/GuH7t0enz6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2E4QMjaYAEQ_oz.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-21 · Post · Front-running makes bots millions per month in MEV, maximal extractable value, to the deficit of eve
+
+
+### Post — @zellic_io — 2023-07-21 20:25 UTC (2023-07-21 21:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1682486927638028290
+- Metrics (at fetch): not returned
+
+> Front-running makes bots millions per month in MEV, maximal extractable value, to the deficit of everyone else.
+>
+> However, MEV bots are vulnerable to security issues.
+>
+> Let's take a look at some common MEV attacks and how we found a live bug while researching for this blog👇🧵: [pic.x.com/ewknVJ277i]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1lk8T-aYAEsBRB.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-13 · Post · There are numerous ZK-friendly hash functions being utilized in ZK protocols. But are they truly sec
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2023-07-13 15:27 UTC (2023-07-13 16:27 WAT)
+
+- URL: https://x.com/zellic_io/status/1679512809628119040
+- Metrics (at fetch): not returned
+
+> There are numerous ZK-friendly hash functions being utilized in ZK protocols. But are they truly secure enough to be entrusted with billions of dollars?
+>
+> Let's take a look at some attacks that may be particularly efficient against ZK hash functions👇🧵: [pic.x.com/MJqxc2GMU1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F07T_4paUAEdov5.jpg — no alt text provided by author

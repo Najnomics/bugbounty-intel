@@ -7276,7 +7276,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly valid, due to missing checks.
     > What's more?
-    > This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day https://t.co/u7IIWFeiXD
+    > This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day one.
+    >
+    > Their GHSA marks this as Critical and notes that it "bypasses entire remote attestation model".
+    >
+    > My team at @bluethroat_labs reported this and 5 other vulnerabilities, and this is the response we got:
+    > + $2,500 in bounty offered
+    > + disclosure timelines framed as "threat"
+    > + wiped shared Notion
+    > + severities downgraded in a public blog post
+    >
+    > Here's the full story:  🧵👇🏻
     
     **Media:**
     - photo: https://pbs.twimg.com/media/HA9WEcRbsAUKnVj.jpg — no alt text provided by author
@@ -7480,7 +7490,17 @@ Tags (automatic): TEE / enclave
 
 > Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly valid, due to missing checks.
 > What's more?
-> This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day https://t.co/u7IIWFeiXD
+> This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day one.
+>
+> Their GHSA marks this as Critical and notes that it "bypasses entire remote attestation model".
+>
+> My team at @bluethroat_labs reported this and 5 other vulnerabilities, and this is the response we got:
+> + $2,500 in bounty offered
+> + disclosure timelines framed as "threat"
+> + wiped shared Notion
+> + severities downgraded in a public blog post
+>
+> Here's the full story:  🧵👇🏻
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HA9WEcRbsAUKnVj.jpg — no alt text provided by author
@@ -7543,7 +7563,21 @@ Tags (automatic): Blockchain / L1-L2 / bridge
         
         **Links in post:** https://twitter.com/abbaskhan/status/2019876281035485488
         
-        **Quoted post** 2019876281035485488: not readable via the API (deleted, private, or withheld).
+        **Quoted post (full text):**
+        
+            #### Quoted post — @1261220379193991169 — 2026-02-06 20:50 UTC (2026-02-06 21:50 WAT)
+            
+            - URL: https://x.com/1261220379193991169/status/2019876281035485488
+            - Metrics (at fetch): not returned
+            
+            > One of the biggest reasons why it's hard to experiment in crypto is security audits and their costs.
+            >
+            > I've spoken to more than 10 teams in the last month who are all currently ready to launch on mainnet, but are held back by audits and their insane cost.
+            >
+            > A basic audit can cost up to 50k for a small codebase, which makes it hard for bootstrapped projects to launch and explore if they should even be spending their time on this.
+            >
+            > The industry did a terrible job of overpricing security audits and it has strongly held the space back.
+            
         
     
 
@@ -7593,7 +7627,21 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     **Links in post:** https://twitter.com/abbaskhan/status/2019876281035485488
     
-    **Quoted post** 2019876281035485488: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1261220379193991169 — 2026-02-06 20:50 UTC (2026-02-06 21:50 WAT)
+        
+        - URL: https://x.com/1261220379193991169/status/2019876281035485488
+        - Metrics (at fetch): not returned
+        
+        > One of the biggest reasons why it's hard to experiment in crypto is security audits and their costs.
+        >
+        > I've spoken to more than 10 teams in the last month who are all currently ready to launch on mainnet, but are held back by audits and their insane cost.
+        >
+        > A basic audit can cost up to 50k for a small codebase, which makes it hard for bootstrapped projects to launch and explore if they should even be spending their time on this.
+        >
+        > The industry did a terrible job of overpricing security audits and it has strongly held the space back.
+        
     
 
 
@@ -7624,7 +7672,21 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     **Links in post:** https://twitter.com/khanabbas201/status/2019876281035485488
     
-    **Quoted post** 2019876281035485488: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1261220379193991169 — 2026-02-06 20:50 UTC (2026-02-06 21:50 WAT)
+        
+        - URL: https://x.com/1261220379193991169/status/2019876281035485488
+        - Metrics (at fetch): not returned
+        
+        > One of the biggest reasons why it's hard to experiment in crypto is security audits and their costs.
+        >
+        > I've spoken to more than 10 teams in the last month who are all currently ready to launch on mainnet, but are held back by audits and their insane cost.
+        >
+        > A basic audit can cost up to 50k for a small codebase, which makes it hard for bootstrapped projects to launch and explore if they should even be spending their time on this.
+        >
+        > The industry did a terrible job of overpricing security audits and it has strongly held the space back.
+        
     
 
 
@@ -7658,7 +7720,21 @@ Tags (automatic): Smart contract / DeFi
     
     **Links in post:** https://twitter.com/KhanAbbas201/status/2019876281035485488
     
-    **Quoted post** 2019876281035485488: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1261220379193991169 — 2026-02-06 20:50 UTC (2026-02-06 21:50 WAT)
+        
+        - URL: https://x.com/1261220379193991169/status/2019876281035485488
+        - Metrics (at fetch): not returned
+        
+        > One of the biggest reasons why it's hard to experiment in crypto is security audits and their costs.
+        >
+        > I've spoken to more than 10 teams in the last month who are all currently ready to launch on mainnet, but are held back by audits and their insane cost.
+        >
+        > A basic audit can cost up to 50k for a small codebase, which makes it hard for bootstrapped projects to launch and explore if they should even be spending their time on this.
+        >
+        > The industry did a terrible job of overpricing security audits and it has strongly held the space back.
+        
     
 
 

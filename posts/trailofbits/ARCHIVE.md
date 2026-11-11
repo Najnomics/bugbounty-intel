@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
-- Conversations/threads: 78
-- Oldest post captured: 2024-01-29
+- Posts in this file: 109
+- Conversations/threads: 109
+- Oldest post captured: 2023-07-18
 - Newest post captured: 2026-11-03
 
 
@@ -1359,6 +1359,201 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2024-06-11 · Post · Introducing Sticky Pickle: An advanced variant of the Sleepy Pickle attack that enables persistent a
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2024-06-11 15:03 UTC (2024-06-11 16:03 WAT)
+
+- URL: https://x.com/trailofbits/status/1800544266810179674
+- Metrics (at fetch): bookmark 6, impression 7574, like 30, quote 2, reply 0, retweet 7
+
+> Introducing Sticky Pickle: An advanced variant of the Sleepy Pickle attack that enables persistent and stealthy compromise of ML models. Learn about the implications of this self-replicating technique and its potential impact on AI/ML security.
+> https://t.co/4QgszInrXh
+
+
+---
+
+## 2024-06-11 · Post · We’ve developed a new ML model attack technique, Sleepy Pickle, that exploits weaknesses in Pickle f
+
+
+### Post — @trailofbits — 2024-06-11 13:01 UTC (2024-06-11 14:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1800513566958620708
+- Metrics (at fetch): bookmark 24, impression 11703, like 60, quote 2, reply 1, retweet 15
+
+> We’ve developed a new ML model attack technique, Sleepy Pickle, that exploits weaknesses in Pickle files used to distribute ML models. Learn how this attack can compromise ML models / their users and how you can reduce your risk. 
+> https://t.co/3BG7eDiNq4
+
+
+---
+
+## 2024-05-30 · Post · We've added a comprehensive section on leveraging OSS-Fuzz to improve the security and stability of 
+
+
+### Post — @trailofbits — 2024-05-30 13:24 UTC (2024-05-30 14:24 WAT)
+
+- URL: https://x.com/trailofbits/status/1796170701012926565
+- Metrics (at fetch): bookmark 37, impression 6788, like 60, quote 0, reply 0, retweet 17
+
+> We've added a comprehensive section on leveraging OSS-Fuzz to improve the security and stability of open-source projects to our testing handbook. Learn how to run fuzzing harnesses, extend them, and reproduce crashes. https://t.co/upY09TNsb7
+
+
+---
+
+## 2024-05-28 · Post · As part of our work with the @sovtechfund, we're leveraging Rust's memory safety features to improve
+
+
+### Post — @trailofbits — 2024-05-28 13:16 UTC (2024-05-28 14:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1795443911399260652
+- Metrics (at fetch): bookmark 3, impression 1918, like 6, quote 0, reply 0, retweet 1
+
+> As part of our work with the @sovtechfund, we're leveraging Rust's memory safety features to improve the internal development of the PyCA Cryptography package, ensuring a more secure foundation for this critical software library. https://t.co/saoB1fpprB
+
+
+---
+
+## 2024-05-17 · Post · Advanced expertise in ZK circuits. 
+
+
+Tags (automatic): ZK
+
+
+### Post — @trailofbits — 2024-05-17 13:01 UTC (2024-05-17 14:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1791453894402326951
+- Metrics (at fetch): bookmark 5, impression 2106, like 8, quote 0, reply 1, retweet 0
+
+> Advanced expertise in ZK circuits. 
+> Impactful recommendations that enhance your SDLC. 
+> Instructions on implementing tools and custom Semgrep rules into your CI. 
+>
+> These are just a few reasons why @Scroll_ZKP chose @TrailofBits. Read the case study: https://t.co/ArObQNlopa https://t.co/wER59KC5YQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNyF0BUWMAIx5SA.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GNyF0TTWsAATjBV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GNyF0lxWsAAliHt.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-16 · Post · Our contributions to the LLVM project have improved AddressSanitizer's (ASan) bug detection capabili
+
+
+### Post — @trailofbits — 2024-05-16 13:05 UTC (2024-05-16 14:05 WAT)
+
+- URL: https://x.com/trailofbits/status/1791092495067070588
+- Metrics (at fetch): bookmark 13, impression 9197, like 44, quote 4, reply 1, retweet 10
+
+> Our contributions to the LLVM project have improved AddressSanitizer's (ASan) bug detection capabilities. Bootstrap ASan to better protect codebases against memory issues.  https://t.co/7w0STB87m8 https://t.co/pmJFu2mxv6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNs9IcwWMAA0C1u.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-30 · Post · Developing invariants with Curvance. Over 9 weeks, we wrote and tested 216 invariants, uncovering 13
+
+
+### Post — @trailofbits — 2024-04-30 13:39 UTC (2024-04-30 14:39 WAT)
+
+- URL: https://x.com/trailofbits/status/1785302839721439457
+- Metrics (at fetch): bookmark 29, impression 12413, like 61, quote 4, reply 1, retweet 15
+
+> Developing invariants with Curvance. Over 9 weeks, we wrote and tested 216 invariants, uncovering 13 critical findings while pushing the limits of our tools. https://t.co/rCCEe12fbx
+
+
+---
+
+## 2024-03-25 · Post · Presenting our paper "Weak Fiat-Shamir Attacks on Modern Proof Systems," a collaboration with @Quang
+
+
+### Post — @trailofbits — 2024-03-25 15:16 UTC (2024-03-25 16:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1772281304316600658
+- Metrics (at fetch): bookmark 9, impression 6166, like 36, quote 1, reply 1, retweet 13
+
+> Presenting our paper "Weak Fiat-Shamir Attacks on Modern Proof Systems," a collaboration with @QuangVDao &amp; @pag_crypto from @CarnegieMellon, @RealWorldCrypto this Wednesday. Let's look at some critical vulnerabilities that we found as part of that research https://t.co/Fo845kbRgj https://t.co/B6VYBjLot2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJhoBrSbsAAKotg.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GJhoU11aAAAjuHn.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-06 · Post · We use a blend of SaaS (Slack, Github, Coda) and self-hosted open-source for our internal IT, and ev
+
+
+### Post — @trailofbits — 2024-03-06 15:54 UTC (2024-03-06 16:54 WAT)
+
+- URL: https://x.com/trailofbits/status/1765405638568382572
+- Metrics (at fetch): bookmark 3, impression 4853, like 12, quote 1, reply 1, retweet 2
+
+> We use a blend of SaaS (Slack, Github, Coda) and self-hosted open-source for our internal IT, and every app gets a @trailofbits audit. Today, that resulted in a high severity auth bug in @coderhq, now patched.
+> https://t.co/0bCd1ZE1ec
+
+
+---
+
+## 2024-02-26 · Post · Circomspect, our security tool for Circom circuits, has been integrated into @SindriLabs’ CLI to sup
+
+
+Tags (automatic): ZK
+
+
+### Post — @trailofbits — 2024-02-26 15:17 UTC (2024-02-26 16:17 WAT)
+
+- URL: https://x.com/trailofbits/status/1762134886746386725
+- Metrics (at fetch): bookmark 4, impression 2196, like 14, quote 2, reply 0, retweet 3
+
+> Circomspect, our security tool for Circom circuits, has been integrated into @SindriLabs’ CLI to support secure circuit development for even more Circom users.
+> https://t.co/Vd8JPc6Txb
+
+
+---
+
+## 2024-02-09 · Post · Fuzz smarter, not harder, with our newest Testing Handbook chapter that will take your fuzzing skill
+
+
+### Post — @trailofbits — 2024-02-09 14:15 UTC (2024-02-09 15:15 WAT)
+
+- URL: https://x.com/trailofbits/status/1755958490525257750
+- Metrics (at fetch): not returned
+
+> Fuzz smarter, not harder, with our newest Testing Handbook chapter that will take your fuzzing skills from 0 to 60. https://buff.ly/3w8PAa1 [pic.x.com/4XXoDv2Cto]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GF5q8I3XEAASndg.jpg — no alt text provided by author
+
+**Links in post:** https://buff.ly/3w8PAa1
+
+
+---
+
+## 2024-02-08 · Post · How to never find the same bug twice with @dguido on this week's @RiskyBusiness episode 735, plus i
+
+
+### Post — @trailofbits — 2024-02-08 12:11 UTC (2024-02-08 13:11 WAT)
+
+- URL: https://x.com/trailofbits/status/1755564893774774526
+- Metrics (at fetch): not returned
+
+> How to never find the same bug twice with @dguido on this week's @RiskyBusiness episode #735, plus insights on the AIxCC by @DARPA and @TrailofBits' efforts to secure open-source software.  https://buff.ly/3UEy2wy [pic.x.com/LFiG3oUnR4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GF0E93-WcAAdOrH.jpg — no alt text provided by author
+
+**Links in post:** https://buff.ly/3UEy2wy
+
+
+---
+
 ## 2024-01-29 · Post · Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their p
 
 
@@ -1367,7 +1562,323 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/trailofbits/status/1752109824282910869
 - Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
 
-> Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://t.co/Rdqy3LvKSR https://t.co/c2sT5xM1T1
+> Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews [pic.x.com/c2sT5xM1T1]
 
 **Media:**
-- media `3_1752109000207085568` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/GFC92kUbsAAvuiO.png — no alt text provided by author
+
+**Links in post:** https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews
+
+
+---
+
+## 2024-01-16 · Post · Today, we are disclosing LeftoverLocals, a vulnerability that allows listening to LLM responses thro
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2024-01-16 17:00 UTC (2024-01-16 18:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1747302889163219303
+- Metrics (at fetch): not returned
+
+> Today, we are disclosing LeftoverLocals, a vulnerability that allows listening to LLM responses through leaked GPU local memory created by another process on Apple, Qualcomm, AMD, and Imagination GPUs (CVE-2023-4969) https://buff.ly/48RDP68 [pic.x.com/GE7bKYWnXJ]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GD-qrNCXoAAvaXz.jpg — no alt text provided by author
+
+**Links in post:** https://buff.ly/48RDP68
+
+
+---
+
+## 2024-01-15 · Post · Since 2019, @trailofbits has partnered with @OpenTechFund's Red Team Lab to audit critical software 
+
+
+### Post — @trailofbits — 2024-01-15 13:37 UTC (2024-01-15 14:37 WAT)
+
+- URL: https://x.com/trailofbits/status/1746889227890012239
+- Metrics (at fetch): not returned
+
+> Since 2019, @trailofbits has partnered with @OpenTechFund's Red Team Lab to audit critical software that protects privacy and enables internet freedom. https://buff.ly/3tPmg7R
+
+**Links in post:** https://buff.ly/3tPmg7R
+
+
+---
+
+## 2024-01-02 · Post · Circom remains a mainstay for zero-knowledge (ZK) proofs. Learn how to use a lesser-known language f
+
+
+Tags (automatic): ZK
+
+
+### Post — @trailofbits — 2024-01-02 14:12 UTC (2024-01-02 15:12 WAT)
+
+- URL: https://x.com/trailofbits/status/1742186986163544127
+- Metrics (at fetch): not returned
+
+> Circom remains a mainstay for zero-knowledge (ZK) proofs. Learn how to use a lesser-known language feature called signal tags with four simple rules. 
+> https://buff.ly/3TB6wzM
+
+**Links in post:** https://buff.ly/3TB6wzM
+
+
+---
+
+## 2023-12-29 · Post · Dive into the challenges of writing resilient @Ethereum ABI parsers in our latest blog. Discover a n
+
+
+### Post — @trailofbits — 2023-12-29 14:03 UTC (2023-12-29 15:03 WAT)
+
+- URL: https://x.com/trailofbits/status/1740735195597205567
+- Metrics (at fetch): not returned
+
+> Dive into the challenges of writing resilient @Ethereum ABI parsers in our latest blog. Discover a newfound bug affecting libraries like eth_abi (Python), ethabi (Rust), and more. https://buff.ly/4aQm5tJ
+
+**Links in post:** https://buff.ly/4aQm5tJ
+
+
+---
+
+## 2023-12-15 · Post · Wondering why your fuzz tests aren’t catching bugs? Fuzzing tip 2: Pay attention to fuzzing coverag
+
+
+### Post — @trailofbits — 2023-12-15 13:47 UTC (2023-12-15 14:47 WAT)
+
+- URL: https://x.com/trailofbits/status/1735657715156828350
+- Metrics (at fetch): not returned
+
+> Wondering why your fuzz tests aren’t catching bugs? Fuzzing tip #2: Pay attention to fuzzing coverage. Regularly review coverage reports to confirm the accuracy of your fuzzing setup. 
+> https://buff.ly/46Ho3Jq.
+
+**Links in post:** https://buff.ly/46Ho3Jq
+
+
+---
+
+## 2023-12-14 · Post · We are competing in @DARPA’s AI Cyber Challenge (AIxCC). DARPA is challenging competitors to develop
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2023-12-14 14:16 UTC (2023-12-14 15:16 WAT)
+
+- URL: https://x.com/trailofbits/status/1735302630711111735
+- Metrics (at fetch): not returned
+
+> We are competing in @DARPA’s AI Cyber Challenge (AIxCC). DARPA is challenging competitors to develop novel, fully automated AI-driven systems capable of securing the critical software that underpins the modern world.
+> https://buff.ly/41jlEDN
+
+**Links in post:** https://buff.ly/41jlEDN
+
+
+---
+
+## 2023-12-11 · Post · Join us for @empirehacking's last meetup of 2023 on Tuesday, Dec 12th at 6pm (tomorrow night). Talks
+
+
+### Post — @trailofbits — 2023-12-11 17:31 UTC (2023-12-11 18:31 WAT)
+
+- URL: https://x.com/trailofbits/status/1734264534515232872
+- Metrics (at fetch): not returned
+
+> Join us for @empirehacking's last meetup of 2023 on Tuesday, Dec 12th at 6pm (tomorrow night). Talks include:
+> - Ellen Cooper of @hackmanhattan on reversing Japanese feature phones
+> - Evan Sultanik of @trailofbits on dataflow analysis for bug hunting
+> RSVP: https://buff.ly/3sZKeNa
+
+**Links in post:** https://buff.ly/3sZKeNa
+
+
+---
+
+## 2023-12-06 · Post · Cryptography misuse, bugs in string methods, and insecure file permissions are critical issues that 
+
+
+### Post — @trailofbits — 2023-12-06 13:33 UTC (2023-12-06 14:33 WAT)
+
+- URL: https://x.com/trailofbits/status/1732392701931229432
+- Metrics (at fetch): not returned
+
+> Cryptography misuse, bugs in string methods, and insecure file permissions are critical issues that can be detected using @trailofbit’s CodeQL open-sourced queries for Go and C. Follow along in our blog:  https://buff.ly/480njQy
+
+**Links in post:** https://buff.ly/480njQy
+
+
+---
+
+## 2023-11-22 · Post · Event Tracing for Windows (ETW) is crucial for modern EDR solutions. But what do you really know abo
+
+
+### Post — @trailofbits — 2023-11-22 14:25 UTC (2023-11-22 15:25 WAT)
+
+- URL: https://x.com/trailofbits/status/1727332494838747561
+- Metrics (at fetch): not returned
+
+> Event Tracing for Windows (ETW) is crucial for modern EDR solutions. But what do you really know about its internal workings? Dive into ETW to discover useful attack targets and forensic information.
+> https://blog.trailofbits.com/2023/11/22/etw-internals-for-security-research-and-forensics/
+
+**Links in post:** https://blog.trailofbits.com/2023/11/22/etw-internals-for-security-research-and-forensics/
+
+
+---
+
+## 2023-11-15 · Post · We assessed the YOLOv7 vision model and identified 11 security vulnerabilities that could enable RCE
+
+
+Tags (automatic): RCE
+
+
+### Post — @trailofbits — 2023-11-15 17:28 UTC (2023-11-15 18:28 WAT)
+
+- URL: https://x.com/trailofbits/status/1724841699803820244
+- Metrics (at fetch): not returned
+
+> We assessed the YOLOv7 vision model and identified 11 security vulnerabilities that could enable RCE, DoS, and model differentials. We do not recommend using the codebase for mission-critical applications or applications that require high availability.
+> https://buff.ly/47aP751
+
+**Links in post:** https://buff.ly/47aP751
+
+
+---
+
+## 2023-11-14 · Post · We completed an audit of Warehouse and cabotage, the codebases that power @pypi and serve billions o
+
+
+### Post — @trailofbits — 2023-11-14 14:41 UTC (2023-11-14 15:41 WAT)
+
+- URL: https://x.com/trailofbits/status/1724437391715299347
+- Metrics (at fetch): not returned
+
+> We completed an audit of Warehouse and cabotage, the codebases that power @pypi and serve billions of Python packages weekly.
+>
+> https://blog.trailofbits.com/2023/11/14/our-audit-of-pypi/
+
+**Links in post:** https://blog.trailofbits.com/2023/11/14/our-audit-of-pypi/
+
+
+---
+
+## 2023-11-14 · Post · Scope varied, but here is the full list of external eyes on Raft's codebase:
+
+
+### Post — @trailofbits — 2023-11-14 08:30 UTC (2023-11-14 09:30 WAT)
+
+- URL: https://x.com/trailofbits/status/1724344149283868983
+- Metrics (at fetch): not returned
+
+> Scope varied, but here is the full list of external eyes on Raft's codebase:
+> * @trailofbits, Apr 24-28
+> * @HatsFinance, May 11-18
+> * @0xcuriousapple, May 22-23
+> * @aviggiano, June 21-23
+> * @0xcuriousapple, Aug 25, Aug 31, &amp; Sep 13
+> * @certora unknown
+
+
+---
+
+## 2023-10-05 · Post · We’re launching a new service: invariant development. We’ll identify, implement, and test security-c
+
+
+### Post — @trailofbits — 2023-10-05 12:00 UTC (2023-10-05 13:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1709901302665191664
+- Metrics (at fetch): not returned
+
+> We’re launching a new service: invariant development. We’ll identify, implement, and test security-critical invariants to prevent bugs &amp; secure your codebase over the long term. Plus, we’ll upskill your team to write their own invariants! https://buff.ly/3PIbjM7
+
+**Links in post:** https://buff.ly/3PIbjM7
+
+
+---
+
+## 2023-09-20 · Post · If you overextend the Oblivious Transfer (OT) in your threshold ECDSA implementation, an attacker ca
+
+
+### Post — @trailofbits — 2023-09-20 12:30 UTC (2023-09-20 13:30 WAT)
+
+- URL: https://x.com/trailofbits/status/1704473021891666336
+- Metrics (at fetch): bookmark 3, impression 1588, like 2, quote 0, reply 0, retweet 0
+
+> If you overextend the Oblivious Transfer (OT) in your threshold ECDSA implementation, an attacker can steal your signing key. Learn more about OT and how the attack works on our blog:
+> https://t.co/yA5E286XjZ
+
+
+---
+
+## 2023-09-14 · Post · New role open: we're hiring an IT engineer. We're looking for someone to provide tech support to our
+
+
+### Post — @trailofbits — 2023-09-14 15:02 UTC (2023-09-14 16:02 WAT)
+
+- URL: https://x.com/trailofbits/status/1702336964366934284
+- Metrics (at fetch): bookmark 1, impression 4713, like 13, quote 0, reply 1, retweet 5
+
+> New role open: we're hiring an IT engineer. We're looking for someone to provide tech support to our employees while helping to design, implement, &amp; operate our critical technology infrastructure. https://t.co/THW4nQTLCO
+
+
+---
+
+## 2023-08-31 · Post · The @OpenSSF's Security Software Repositories WG has been instrumental in improving package index se
+
+
+### Post — @trailofbits — 2023-08-31 16:01 UTC (2023-08-31 17:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1697278331173966081
+- Metrics (at fetch): bookmark 2, impression 5803, like 14, quote 1, reply 1, retweet 4
+
+> The @OpenSSF's Security Software Repositories WG has been instrumental in improving package index security, and we've been honored to help them build many of their key initiatives!
+>
+> Read their post here https://t.co/OKUiTk3zsa, and read on for our specific contributions 🧵:
+
+
+---
+
+## 2023-08-21 · Post · Echidna makes it "super easy" to fuzz Ethereum smart contracts. Just ask @Superfluid_HQ, who ran Ech
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2023-08-21 19:42 UTC (2023-08-21 20:42 WAT)
+
+- URL: https://x.com/trailofbits/status/1693710127474311568
+- Metrics (at fetch): bookmark 7, impression 7072, like 55, quote 0, reply 2, retweet 13
+
+> Echidna makes it "super easy" to fuzz Ethereum smart contracts. Just ask @Superfluid_HQ, who ran Echidna over the weekend on an idle Mac mini. https://t.co/QtLgWjlB3W
+
+
+---
+
+## 2023-07-21 · Post · With Echidna 2.1.0 and later, you can retrieve on-chain data to fuzz deployed contracts and test how
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2023-07-21 11:06 UTC (2023-07-21 12:06 WAT)
+
+- URL: https://x.com/trailofbits/status/1682346312325373952
+- Metrics (at fetch): bookmark 32, impression 17386, like 96, quote 3, reply 2, retweet 27
+
+> With Echidna 2.1.0 and later, you can retrieve on-chain data to fuzz deployed contracts and test how new code integrates with existing contracts. You can also use it to recreate real-world hacks! https://t.co/tA9r2qqD5Z
+
+
+---
+
+## 2023-07-18 · Post · How will AI affect national security? In our responses to an RFI by the White House's OTSP, we highl
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2023-07-18 19:57 UTC (2023-07-18 20:57 WAT)
+
+- URL: https://x.com/trailofbits/status/1681392695330078750
+- Metrics (at fetch): bookmark 1, impression 5930, like 20, quote 1, reply 1, retweet 6
+
+> How will AI affect national security? In our responses to an RFI by the White House's OTSP, we highlight a few key points 🧵: https://t.co/gcQ4n2pDim

@@ -445,9 +445,9 @@ Tags (automatic): Smart contract / DeFi, Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @610701963 — 2022-10-10 18:49 UTC (2022-10-10 19:49 WAT)
+    #### Quoted post — @TrustSecAudits — 2022-10-10 18:49 UTC (2022-10-10 19:49 WAT)
     
-    - URL: https://x.com/610701963/status/1579544572224770049
+    - URL: https://x.com/TrustSecAudits/status/1579544572224770049
     - Metrics (at fetch): bookmark 21, impression 0, like 59, quote 7, reply 4, repost 13
     
     > Your Tesla X can do 5-100km/h in 2.8 seconds, but can it also do 100k to 5k ? 

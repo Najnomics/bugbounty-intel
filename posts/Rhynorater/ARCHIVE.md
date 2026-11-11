@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 269
-- Conversations/threads: 240
-- Oldest post captured: 2022-11-16
+- Posts in this file: 348
+- Conversations/threads: 310
+- Oldest post captured: 2018-10-07
 - Newest post captured: 2026-11-10
 
 
@@ -4723,3 +4723,1364 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): not returned
 
 > Hacking life lession: when writing an exploit that involves any sort of crypto handshake/two way interaction, use the same library and language as the vulnerable component. It will save you a lot of time.
+
+
+---
+
+## 2022-11-15 · Post · Quick bb tip: Look into anything that says “featureFlag” or “flag” in the HTML. Often times teams ar
+
+
+### Post — @Rhynorater — 2022-11-15 21:10 UTC (2022-11-15 22:10 WAT)
+
+- URL: https://x.com/Rhynorater/status/1592626153067798528
+- Metrics (at fetch): bookmark 23, impression 0, like 87, quote 1, reply 3, retweet 11
+
+> Quick bb tip: Look into anything that says “featureFlag” or “flag” in the HTML. Often times teams are doing AB testing on features and you can turn them on by simply turning false-&gt;true or adding a string to an array with match-and-replace. More features=more scope=more vulns.
+
+
+---
+
+## 2022-10-27 · Post · Here are a couple things I always check when looking at a web application: 🧵
+
+
+### Post — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640808568348674
+- Metrics (at fetch): bookmark 717, impression 0, like 1053, quote 19, reply 61, retweet 414
+
+> Here are a couple things I always check when looking at a web application: 🧵
+
+
+---
+
+## 2022-10-21 · Post · He was able to discover this vulnerability because he validated that the IDOR didn't work upon getti
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @Rhynorater — 2022-10-21 19:07 UTC (2022-10-21 20:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1583535546298531840
+- Metrics (at fetch): bookmark 2, impression 0, like 25, quote 0, reply 3, retweet 0
+
+> He was able to discover this vulnerability because he validated that the IDOR didn't work upon getting the error - a tricky one for sure. I missed it myself. Always use obvious values for your IDORs (so you know if it worked or not) and double-check when error messages pop!
+
+
+---
+
+## 2022-10-21 · Post · A mentee of mine found a critical vulnerability in a popular food delivery company. The vulnerable r
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @Rhynorater — 2022-10-21 19:07 UTC (2022-10-21 20:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1583535544469925888
+- Metrics (at fetch): bookmark 6, impression 0, like 75, quote 0, reply 4, retweet 0
+
+> A mentee of mine found a critical vulnerability in a popular food delivery company. The vulnerable request was very core to the app and has def been assessed before. The vulnerability was a simple IDOR, but the response would come back as an error saying "Access Denied."
+
+
+---
+
+## 2022-10-18 · Post · As a full-time bug bounty hunter, one of the most difficult things to solve is USA Healthcare. Here 
+
+
+### Post — @Rhynorater — 2022-10-18 15:47 UTC (2022-10-18 16:47 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582397844316508160
+- Metrics (at fetch): bookmark 33, impression 0, like 101, quote 1, reply 4, retweet 17
+
+> As a full-time bug bounty hunter, one of the most difficult things to solve is USA Healthcare. Here is a blog post describing how I've solved this problem for my family by using a combination of a Healthshare service and a DPC subscription. https://t.co/kwhQozjiZU
+
+
+---
+
+## 2022-10-17 · Post · 3. Pros and cons of bounty life
+
+
+### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582040525950984195
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> 3. Pros and cons of bounty life
+> As a previous pentester consultant and SOC employee, what are the pros and cons of full-time bug bounty that keep me in this line of work? What is the career trajectory? What sucks about full-time bug bounty?
+
+
+---
+
+## 2022-10-17 · Post · 2. A day in the life of a full-time bug bounty hunters
+
+
+### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582040524630163457
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> 2. A day in the life of a full-time bug bounty hunters
+> What does the day-to-day life of a full-time bug bounty hunter look like (for me)? What tools/technical concepts do I use on a daily basis? What are the work hours/setup like? Logistical stuff.
+
+
+---
+
+## 2022-10-17 · Post · 1. Technical &amp; Non-technical skills required to be a full-time bug bounty hunter.
+
+
+### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582040523111825409
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> 1. Technical &amp; Non-technical skills required to be a full-time bug bounty hunter.
+> Full-time bug bounty hunting is surprisingly heavy on the non-technical skills/personality traits which are required to do it successfully. I'll explain some of the skills I've developed to cope.
+
+
+---
+
+## 2022-10-17 · Post · Very excited to be presenting to @InsiderPhD 's students today! I'll be doing an overview of my expe
+
+
+### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582040521446260736
+- Metrics (at fetch): bookmark 12, impression 0, like 100, quote 0, reply 5, retweet 5
+
+> Very excited to be presenting to @InsiderPhD 's students today! I'll be doing an overview of my experiences as a full-time bug bounty hunter for the past couple of years. I'll try to release the slides/recording afterward if possible. A rough summary of the content:
+
+
+---
+
+## 2022-10-10 · Post · 5. Track down your triager
+
+
+### Post — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1579499243538038785
+- Metrics (at fetch): bookmark 0, impression 0, like 43, quote 0, reply 2, retweet 0
+
+> 5. Track down your triager
+> If a triager is misunderstanding your report or a PoC is acting up, DM them on slack and say "Hey, can you swing by [whatever room you're in] and I can demo #123 for you?"This way you get to meet the triagers in person and also can explain your bug.
+
+
+---
+
+## 2022-10-10 · Post · Knowledge that you need. Ask them questions. Don't be shy - the worst they can say is "Aaa, actually
+
+
+### Post — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1579499242049392640
+- Metrics (at fetch): bookmark 1, impression 0, like 40, quote 0, reply 1, retweet 0
+
+> Knowledge that you need. Ask them questions. Don't be shy - the worst they can say is "Aaa, actually, I can't talk about that." At the end of the day, we're all on the same team here. Everyone benefits from them sharing their thoughts on what parts of the apps might be sketchy.
+
+
+---
+
+## 2022-10-10 · Post · Don't: 
+
+
+### Post — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1579499231202914305
+- Metrics (at fetch): bookmark 0, impression 0, like 58, quote 0, reply 1, retweet 2
+
+> Don't: 
+> * Look at the leaderboard
+> * Look at the stats near the bounty brief
+> * Pay attention to the hackers who think they are subtle but are clearly flexing in Slack with the "Could I get a super fast triage on #123 🔥🚨🍆"..." because it's crit. I found a crit. I'm cool."
+
+
+---
+
+## 2022-10-10 · Post · What I'd recommend instead is that you pick your portion of the scope that you will become the exper
+
+
+### Post — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1579499229646815233
+- Metrics (at fetch): bookmark 1, impression 0, like 50, quote 0, reply 1, retweet 1
+
+> What I'd recommend instead is that you pick your portion of the scope that you will become the expert on and wreck it. Ignore all the jabber about "There are bugs EVERYWHERE over here" or "I heard so-and-so has 50000 bugs in this application."
+
+
+---
+
+## 2022-10-10 · Post · 1. Pick your portion
+
+
+### Post — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1579499223523155968
+- Metrics (at fetch): bookmark 2, impression 0, like 63, quote 1, reply 1, retweet 1
+
+> 1. Pick your portion
+> When a live hacking event kicks off, you will likely have just received a mission to hack an absolutely enormous amount of scope in a relatively small amount of time. Large scopes are hard to address in normal bug bounty, let alone in a competition.
+
+
+---
+
+## 2022-10-10 · Post · Over the past 6 months, I've had the pleasure of participating in 5 HackerOne Live Hacking events. I
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1579499221954473984
+- Metrics (at fetch): bookmark 345, impression 0, like 838, quote 14, reply 30, retweet 182
+
+> Over the past 6 months, I've had the pleasure of participating in 5 HackerOne Live Hacking events. It has been quite the challenge to my work-life balance and my hacking skills, but after ranking in the top 5 at every event, here are some lessons I've learned: 🧵
+
+
+---
+
+## 2022-08-14 · Post · Awesome talk by @spaceraccoonsec! Def checkout his GitHub for some great research on iCalendar and a
+
+
+### Post — @Rhynorater — 2022-08-14 03:23 UTC (2022-08-14 04:23 WAT)
+
+- URL: https://x.com/Rhynorater/status/1558655476492935168
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 0, retweet 2
+
+> Awesome talk by @spaceraccoonsec! Def checkout his GitHub for some great research on iCalendar and adjacent protocols. https://t.co/GIzftXPk61
+
+**Quoted post (full text):**
+
+    #### Quoted post — @69181306 — 2022-08-13 22:14 UTC (2022-08-13 23:14 WAT)
+    
+    - URL: https://x.com/69181306/status/1558577861090349056
+    - Metrics (at fetch): bookmark 0, impression 0, like 12, quote 1, reply 1, retweet 2
+    
+    > 🗓“You Have One New Appwntment” - Very fascinating research at @defcon being presented by @spaceraccoonsec 🔥📆 https://t.co/7gqWWf64kH
+    
+    **Media:**
+    - media `3_1558577857026068481` (details not returned by the API)
+    
+
+
+---
+
+## 2022-08-12 · Post · Great time out here at the bug bash after party. Thanks for the great venue and karaoke. https://t.c
+
+
+### Post — @Rhynorater — 2022-08-12 05:36 UTC (2022-08-12 06:36 WAT)
+
+- URL: https://x.com/Rhynorater/status/1557964124922863616
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 1, retweet 1
+
+> Great time out here at the bug bash after party. Thanks for the great venue and karaoke. https://t.co/c5TJY2Swbt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1079094475534696448 — 2022-08-12 05:28 UTC (2022-08-12 06:28 WAT)
+    
+    - URL: https://x.com/1079094475534696448/status/1557962194305699840
+    - Metrics (at fetch): bookmark 0, impression 0, like 8, quote 2, reply 0, retweet 0
+    
+    > @rotembar @sw33tLie @naglinagli @bsysop @hacker_ @Rhynorater crazy night #VegasBugBash2022 https://t.co/Tnl836RTu1
+    
+    **Media:**
+    - media `3_1557962188601454592` (details not returned by the API)
+    
+
+
+---
+
+## 2022-05-06 · Post · If there is a "possibility" of tracing the attacker then the bug loses .5 points. Like, what does th
+
+
+### Post — @Rhynorater — 2022-05-06 21:16 UTC (2022-05-06 22:16 WAT)
+
+- URL: https://x.com/Rhynorater/status/1522686708160110596
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> If there is a "possibility" of tracing the attacker then the bug loses .5 points. Like, what does this mean? The attacker can always use compromised accounts, TOR/VPNs, etc...
+
+
+---
+
+## 2022-05-06 · Post · Bug doesn't result in bankruptcy for the company? Well then, must not be a crit...
+
+
+### Post — @Rhynorater — 2022-05-06 21:14 UTC (2022-05-06 22:14 WAT)
+
+- URL: https://x.com/Rhynorater/status/1522686261567311874
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Bug doesn't result in bankruptcy for the company? Well then, must not be a crit...
+
+
+---
+
+## 2022-05-06 · Post · CVSS gets a lot of hate, but TBH OWASP's Risk Rating Methodology is like 10x worse. If your bug requ
+
+
+### Post — @Rhynorater — 2022-05-06 21:08 UTC (2022-05-06 22:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/1522684818110226437
+- Metrics (at fetch): bookmark 2, impression 0, like 38, quote 0, reply 6, retweet 0
+
+> CVSS gets a lot of hate, but TBH OWASP's Risk Rating Methodology is like 10x worse. If your bug requires you to use Burp Suite, you lose a lot of points on your bug's severity. Nuts.
+
+
+---
+
+## 2022-03-14 · Post · @thedawgyg @SynackRedTeam @Hacker0x01 @Bugcrowd You can't just decide not to pay someone for their w
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2022-03-14 00:30 UTC (2022-03-14 01:30 WAT)
+
+- URL: https://x.com/Rhynorater/status/1503166749763637249
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> @thedawgyg @SynackRedTeam @Hacker0x01 @Bugcrowd You can't just decide not to pay someone for their work like that. Its people's livelihood. Many Russians don't support this war, especially the ones with strong international connections like those in the hacking community.
+
+
+---
+
+## 2022-03-09 · Post · Popped a crazy zero-day with @erbbysam last night. Hope to do a write-up/talk on it. @erbbysam is se
+
+
+### Post — @Rhynorater — 2022-03-09 13:32 UTC (2022-03-09 14:32 WAT)
+
+- URL: https://x.com/Rhynorater/status/1501551396696567813
+- Metrics (at fetch): bookmark 1, impression 0, like 101, quote 0, reply 4, retweet 3
+
+> Popped a crazy zero-day with @erbbysam last night. Hope to do a write-up/talk on it. @erbbysam is seriously one of the most talented exploit writers I've ever met. This dude simply bends computers to his will.
+
+
+---
+
+## 2021-12-11 · Post · @Hacker0x01 @Bugcrowd what are your thoughts on this? As a bug bounty hunter, I would love to see so
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
+
+- URL: https://x.com/Rhynorater/status/1469474788255354884
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 4, retweet 0
+
+> @Hacker0x01 @Bugcrowd what are your thoughts on this? As a bug bounty hunter, I would love to see some sort of flag on a program's policy page that indicates whether or not they will pay for zero/one day vulns. I know this can be found in the policy from time to time, but 3/4
+
+
+---
+
+## 2021-12-11 · Post · is that there are gonna be people that submit these RCEs to the teams too soon which results in them
+
+
+### Post — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
+
+- URL: https://x.com/Rhynorater/status/1469474787320037380
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 0
+
+> is that there are gonna be people that submit these RCEs to the teams too soon which results in them getting a informative/no-bounty resolved, but blocks the opportunity for a bounty in the future if that asset fell through the cracks of that team's asset management. 2/4
+
+
+---
+
+## 2021-12-11 · Post · As a full-time bug bounty hunter, my instinct with this log4j thing is to spin up some automation an
+
+
+### Post — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
+
+- URL: https://x.com/Rhynorater/status/1469474785818460161
+- Metrics (at fetch): bookmark 9, impression 0, like 132, quote 3, reply 7, retweet 7
+
+> As a full-time bug bounty hunter, my instinct with this log4j thing is to spin up some automation and report a ton of instances of this. However, the CVE just dropped, and a lot of teams don't wanna pay for CVEs that just dropped. Inevitably what is going to happen 1/4
+
+
+---
+
+## 2021-06-01 · Post · Can confirm that a friend of mine went through these labs and did about 6 months of hacking in targe
+
+
+### Post — @Rhynorater — 2021-06-01 22:48 UTC (2021-06-01 23:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1399860403320987648
+- Metrics (at fetch): bookmark 4, impression 0, like 49, quote 0, reply 3, retweet 3
+
+> Can confirm that a friend of mine went through these labs and did about 6 months of hacking in targets and now can make enough money to support himself off of bug bounty. Start here. https://t.co/2bFHxMdIv2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @albinowax — 2021-06-01 12:34 UTC (2021-06-01 13:34 WAT)
+    
+    - URL: https://x.com/albinowax/status/1399705839347318790
+    - Metrics (at fetch): bookmark 111, impression 0, like 794, quote 10, reply 23, retweet 169
+    
+    > Looking for a mentor? I don't tutor, but I do lead a team dedicated to teaching web hacking to everyone for free.
+    >
+    > Every topic is designed by @PortSwigger hackers - @artsploit, @garethheyes, @DafyddStuttard and myself. You're in good hands. Start here: https://t.co/Ns0jC67tdJ
+    
+
+
+---
+
+## 2021-03-24 · Post · This is awesome research! Thanks @artsploit https://t.co/uOti3JKVqQ
+
+
+### Post — @Rhynorater — 2021-03-24 15:26 UTC (2021-03-24 16:26 WAT)
+
+- URL: https://x.com/Rhynorater/status/1374744506495508480
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> This is awesome research! Thanks @artsploit https://t.co/uOti3JKVqQ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2021-03-24 15:20 UTC (2021-03-24 16:20 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1374742839599456265
+    - Metrics (at fetch): bookmark 56, impression 0, like 158, quote 2, reply 1, retweet 61
+    
+    > Awesome work from @artsploit going over some of the really neat and novel approaches to hacking OAuth. Will be an awesome reference moving forward.
+    > https://t.co/fwMXErUpd7
+    
+
+
+---
+
+## 2021-03-23 · Post · When you get SSRF and pull full AWS Keys:
+
+
+Tags (automatic): SSRF
+
+
+### Post — @Rhynorater — 2021-03-23 10:54 UTC (2021-03-23 11:54 WAT)
+
+- URL: https://x.com/Rhynorater/status/1374313646134726657
+- Metrics (at fetch): not returned
+
+> When you get SSRF and pull full AWS Keys:
+> https://www.youtube.com/watch?v=wnJNeLiFiaA
+
+**Links in post:** https://www.youtube.com/watch?v=wnJNeLiFiaA
+
+
+---
+
+## 2021-02-05 · Post · Wow - how did I not know this? If you have an XSS on any subdomain of your domain, the new SameSite 
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2021-02-05 07:40 UTC (2021-02-05 08:40 WAT)
+
+- URL: https://x.com/Rhynorater/status/1357594913320259585
+- Metrics (at fetch): not returned
+
+> Wow - how did I not know this? If you have an XSS on any subdomain of your domain, the new SameSite defaults do nothing to protect you. https://t.co/NTYlilHqvC
+
+**Links in post:** https://t.co/NTYlilHqvC
+
+**Quoted post** 1355145367524941826: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-01-15 · Post · I think report templating with @Hacker0x01 or @Bugcrowd  or @intigriti would be an amazing feature. 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2021-01-15 03:00 UTC (2021-01-15 04:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/1349914205562957825
+- Metrics (at fetch): not returned
+
+> I think report templating with @Hacker0x01 or @Bugcrowd  or @intigriti would be an amazing feature. Just like programs get to define their defined format, it would be great if hackers could do the same.
+
+
+---
+
+## 2021-01-14 · Post · This is a fantastic resource for SSRF. Anyone who has any blind ssrf pivots please submit them! http
+
+
+Tags (automatic): SSRF
+
+
+### Post — @Rhynorater — 2021-01-14 21:42 UTC (2021-01-14 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1349834195011465216
+- Metrics (at fetch): not returned
+
+> This is a fantastic resource for SSRF. Anyone who has any blind ssrf pivots please submit them! https://twitter.com/infosec_au/status/1349817057873850368
+
+**Links in post:** https://twitter.com/infosec_au/status/1349817057873850368
+
+**Quoted post (full text):**
+
+    #### Quoted post — @infosec_au — 2021-01-14 20:33 UTC (2021-01-14 21:33 WAT)
+    
+    - URL: https://x.com/infosec_au/status/1349817057873850368
+    - Metrics (at fetch): not returned
+    
+    > Recently @Rhynorater sparked a discussion about exploiting blind SSRFs. At @assetnote, we've collected some information together and have created a Glossary of Blind SSRF Chains which can be found here: https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/ - we hope people can use it as a reference!
+    
+    **Links in post:** https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+    
+
+
+---
+
+## 2020-12-01 · Post · Finally broke 10k rep on HackerOne! Thanks for such an awesome ride @Hacker0x01 and thanks to all th
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2020-12-01 13:19 UTC (2020-12-01 14:19 WAT)
+
+- URL: https://x.com/Rhynorater/status/1333762723952226311
+- Metrics (at fetch): not returned
+
+> Finally broke 10k rep on HackerOne! Thanks for such an awesome ride @Hacker0x01 and thanks to all the amazing hackers I've hacked with over the years!
+
+
+---
+
+## 2020-10-12 · Post · After the wonderful video put up earlier today by @gregxsunday, I wanted to let you all know that CV
+
+
+### Post — @Rhynorater — 2020-10-12 06:34 UTC (2020-10-12 07:34 WAT)
+
+- URL: https://x.com/Rhynorater/status/1315541443058958337
+- Metrics (at fetch): not returned
+
+> After the wonderful video put up earlier today by @gregxsunday, I wanted to let you all know that CVE-2020-13379 no longer works due to the redirect on wp[.]com being fixed. If anyone stumbles upon another open redirect, I'd be glad to know!
+
+
+---
+
+## 2020-08-02 · Post · One of the really exciting things about CVE-2020-13379 is that it can be used to escalate an Image-O
+
+
+Tags (automatic): SSRF
+
+
+### Post — @Rhynorater — 2020-08-02 05:29 UTC (2020-08-02 06:29 WAT)
+
+- URL: https://x.com/Rhynorater/status/1289795503052349440
+- Metrics (at fetch): not returned
+
+> One of the really exciting things about CVE-2020-13379 is that it can be used to escalate an Image-Only Blind SSRF to a full Read SSRF due to its image/jpeg response content-type. You can find more about this on my blog here: https://rhynorater.github.io/CVE-2020-13379-Write-Up
+> If anyone pulls this off, lmk!
+
+**Links in post:** https://rhynorater.github.io/CVE-2020-13379-Write-Up
+
+
+---
+
+## 2020-08-01 · Post · Released the PoC for CVE-2020-13379 last night at @Hacker0x01 HacktivityCon! Check out the slides an
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2020-08-01 21:46 UTC (2020-08-01 22:46 WAT)
+
+- URL: https://x.com/Rhynorater/status/1289678949421703169
+- Metrics (at fetch): not returned
+
+> Released the PoC for CVE-2020-13379 last night at @Hacker0x01 HacktivityCon! Check out the slides and associated blog post at:
+> https://rhynorater.github.io/CVE-2020-13379-Write-Up https://twitter.com/NahamSec/status/1289608885444042752
+
+**Links in post:** https://rhynorater.github.io/CVE-2020-13379-Write-Up, https://twitter.com/NahamSec/status/1289608885444042752
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2020-08-01 17:08 UTC (2020-08-01 18:08 WAT)
+    
+    - URL: https://x.com/NahamSec/status/1289608885444042752
+    - Metrics (at fetch): not returned
+    
+    > Check out @Rhynorater's blog post on CVE-2020-13379: Unauthenticated SSRF in Grafana!  
+    >
+    > https://rhynorater.github.io/CVE-2020-13379-Write-Up
+    >
+    > POC:
+    >
+    > /avatar/tesdt%3Fd=http://redirect.rhynorater.com%25253f%253b%https://t.co/tpG2O3i9Bj%252f169.254.169.254 [pic.x.com/ubAzwNV0n3]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EeWcNSBUwAAJh69.png — no alt text provided by author
+    
+    **Links in post:** https://rhynorater.github.io/CVE-2020-13379-Write-Up, http://redirect.rhynorater.com
+    
+
+
+---
+
+## 2020-07-25 · Post · Really looking forward to presenting CVE-2020-13379 at HacktivityCon! Make sure you get your recon d
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2020-07-25 09:04 UTC (2020-07-25 10:04 WAT)
+
+- URL: https://x.com/Rhynorater/status/1286950539578601472
+- Metrics (at fetch): not returned
+
+> Really looking forward to presenting CVE-2020-13379 at HacktivityCon! Make sure you get your recon data ready and have a list of Grafana instances come August 1st!
+> Register at https://www.hackerone.com/hacktivitycon [pic.x.com/2MZPZV7K47]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EdwqsTbU4AogGp5.jpg — no alt text provided by author
+
+**Links in post:** https://www.hackerone.com/hacktivitycon
+
+
+---
+
+## 2020-07-04 · Post · I am also taking a month or so break. This is very important for bug hunters when you're feeling bur
+
+
+### Post — @Rhynorater — 2020-07-04 10:48 UTC (2020-07-04 11:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1279366358963073024
+- Metrics (at fetch): not returned
+
+> I am also taking a month or so break. This is very important for bug hunters when you're feeling burnt out. https://twitter.com/Th3G3nt3lman/status/1279361536985874438
+
+**Links in post:** https://twitter.com/Th3G3nt3lman/status/1279361536985874438
+
+**Quoted post (full text):**
+
+    #### Quoted post — @769883225732812800 — 2020-07-04 10:28 UTC (2020-07-04 11:28 WAT)
+    
+    - URL: https://x.com/769883225732812800/status/1279361536985874438
+    - Metrics (at fetch): not returned
+    
+    > Even bug bounty hunters deserve an unpaid leave sometimes 😅, Its been a really hard and stressful period the latest 3 months with the lockdown and bug bounty, recovery is always needed to stay healthy and focused, i need to take a rest for a while and leave computers .. 🙏
+    
+
+
+---
+
+## 2020-06-20 · Post · This was a super fun bug. https://twitter.com/samwcyo/status/1274489679258226688
+
+
+### Post — @Rhynorater — 2020-06-20 23:50 UTC (2020-06-21 00:50 WAT)
+
+- URL: https://x.com/Rhynorater/status/1274489853552390144
+- Metrics (at fetch): not returned
+
+> This was a super fun bug. https://twitter.com/samwcyo/status/1274489679258226688
+
+**Links in post:** https://twitter.com/samwcyo/status/1274489679258226688
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2020-06-20 23:49 UTC (2020-06-21 00:49 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1274489679258226688
+    - Metrics (at fetch): not returned
+    
+    > "Hacking Starbucks and Accessing Nearly 100 Million Customer Records" - write up on a recent directory traversal vulnerability found with @Rhynorater ☕️
+    >
+    > https://samcurry.net/hacking-starbucks/ [pic.x.com/Y2KKULbfCc]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Ea_khGhWsAEWvay.jpg — no alt text provided by author
+    
+    **Links in post:** https://samcurry.net/hacking-starbucks/
+    
+
+
+---
+
+## 2020-06-04 · Post · Hey all, thanks for all the messages around CVE-2020-13379!  I'm planning on releasing a blog post w
+
+
+### Post — @Rhynorater — 2020-06-04 05:50 UTC (2020-06-04 06:50 WAT)
+
+- URL: https://x.com/Rhynorater/status/1268419961749307393
+- Metrics (at fetch): not returned
+
+> Hey all, thanks for all the messages around CVE-2020-13379!  I'm planning on releasing a blog post within the next couple of weeks outlining the discovery methodology and PoC. However, some people have already reversed the vuln (*cough cough* @hacker_ ), so go for it!
+
+
+---
+
+## 2020-04-24 · Thread · Yay, I was awarded a bounty for a crit on @semrush! Team triaged, fixed, and payed full bounty withi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2020-04-24 10:02 UTC (2020-04-24 11:02 WAT)
+
+- URL: https://x.com/Rhynorater/status/1253625459570388992
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a bounty for a crit on @semrush! Team triaged, fixed, and payed full bounty within 2 hours. Peak of bug bounties right here. 
+> @0xDISTURBANCE @Hacker0x01 https://hackerone.com/semrush #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/semrush
+
+
+### Thread part 2 — @Rhynorater — 2020-04-24 10:06 UTC (2020-04-24 11:06 WAT)
+
+- URL: https://x.com/Rhynorater/status/1253626423144669184
+- Metrics (at fetch): not returned
+
+> Vuln found due to a shift in hacking mentality caused by @samwcyo talk on secondary contexts:
+> https://x.com/samwcyo/status/1243998130108084224?s=19
+
+**Links in post:** https://x.com/samwcyo/status/1243998130108084224?s=19
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2020-03-28 20:27 UTC (2020-03-28 21:27 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1243998130108084224
+    - Metrics (at fetch): not returned
+    
+    > Slides for "Attacking Secondary Contexts in Web Applications" - https://docs.google.com/presentation/d/1N9Ygrpg0Z-1GFDhLMiG3jJV6B_yGqBk8tuRWO1ZicV8/edit?usp=sharing
+    
+    **Links in post:** https://docs.google.com/presentation/d/1N9Ygrpg0Z-1GFDhLMiG3jJV6B_yGqBk8tuRWO1ZicV8/edit?usp=sharing
+    
+
+
+---
+
+## 2020-04-21 · Thread · @vishu10x00 @akita_zen @spaceraccoonsec @h1_sp1d3r @hakluke @Agarri_FR I'm order to steal HTTPOnly s
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2020-04-21 21:10 UTC (2020-04-21 22:10 WAT)
+
+- URL: https://x.com/Rhynorater/status/1252706301659865088
+- Metrics (at fetch): not returned
+
+> @vishu10x00 @akita_zen @spaceraccoonsec @h1_sp1d3r @hakluke @Agarri_FR I'm order to steal HTTPOnly session cookies you need a subdomain takeover that will allow you to control the back end ip address. This could be an NS Takeover, TrafficManager takeover, ect... Then, you can host server-side code on that domain and receive the session cookies.
+
+
+### Thread part 2 — @Rhynorater — 2020-04-21 21:32 UTC (2020-04-21 22:32 WAT)
+
+- URL: https://x.com/Rhynorater/status/1252711756213833728
+- Metrics (at fetch): not returned
+
+> @vishu10x00 @akita_zen @spaceraccoonsec @h1_sp1d3r @hakluke @Agarri_FR Sometimes, however, the developers make a mistake and do silly things like embed a JWT token that authorizes the user to the API inside local storage. If an XSS is found, the XSS can grab the JWT from local storage and impersonate the user to the API.
+
+
+---
+
+## 2020-03-20 · Post · This is a great tip - one of the things I do is as soon as I read about a technique I either add a t
+
+
+### Post — @Rhynorater — 2020-03-20 20:37 UTC (2020-03-20 21:37 WAT)
+
+- URL: https://x.com/Rhynorater/status/1241101502153756672
+- Metrics (at fetch): not returned
+
+> This is a great tip - one of the things I do is as soon as I read about a technique I either add a to-do list item to integrate it into automation or I write the automation right then and there. https://twitter.com/InsiderPhD/status/1241013454846201858
+
+**Links in post:** https://twitter.com/InsiderPhD/status/1241013454846201858
+
+**Quoted post (full text):**
+
+    #### Quoted post — @961961458346135552 — 2020-03-20 14:47 UTC (2020-03-20 15:47 WAT)
+    
+    - URL: https://x.com/961961458346135552/status/1241013454846201858
+    - Metrics (at fetch): not returned
+    
+    > #bugbountytip don’t read passively! Take notes on all the write ups, disclosures bugs, articles, techniques you read. You’re more likely to remember it AND if you come across a similar thing you can recall it from your notes and execute it! #BugBounty
+    
+
+
+---
+
+## 2020-02-07 · Post · This is an excellent item to put in your scope, people who run bug bounty programs. This ensures tha
+
+
+### Post — @Rhynorater — 2020-02-07 18:50 UTC (2020-02-07 19:50 WAT)
+
+- URL: https://x.com/Rhynorater/status/1225854283532455937
+- Metrics (at fetch): not returned
+
+> This is an excellent item to put in your scope, people who run bug bounty programs. This ensures that researchers will say something if they see something even if they aren't positive its in scope. [pic.x.com/SFABNm73aK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EQMb-UtXkAIgNUe.png — no alt text provided by author
+
+
+---
+
+## 2019-12-13 · Post · Awesome SSRF https://twitter.com/disclosedh1/status/1205570683230658561
+
+
+Tags (automatic): SSRF
+
+
+### Post — @Rhynorater — 2019-12-13 23:56 UTC (2019-12-14 00:56 WAT)
+
+- URL: https://x.com/Rhynorater/status/1205637562683068417
+- Metrics (at fetch): not returned
+
+> Awesome SSRF https://twitter.com/disclosedh1/status/1205570683230658561
+
+**Links in post:** https://twitter.com/disclosedh1/status/1205570683230658561
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2019-12-13 19:30 UTC (2019-12-13 20:30 WAT)
+    
+    - URL: https://x.com/2481701395/status/1205570683230658561
+    - Metrics (at fetch): not returned
+    
+    > Vimeo disclosed a bug submitted by dphoeniixx: https://hackerone.com/reports/549882 - Bounty: $5,000 #hackerone #bugbounty [pic.x.com/Z0iasCzDj7]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/ELsMJdXXYAAaqlU.png — no alt text provided by author
+    
+    **Links in post:** https://hackerone.com/reports/549882
+    
+
+
+---
+
+## 2019-10-22 · Post · Some days you hack for 8 hours and find nothing. Other days, your recon pops off and hands you a hig
+
+
+### Post — @Rhynorater — 2019-10-22 16:00 UTC (2019-10-22 17:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/1186673743034245121
+- Metrics (at fetch): not returned
+
+> Some days you hack for 8 hours and find nothing. Other days, your recon pops off and hands you a high and a crit when you weren't even gonna be hacking. XD I have to say, I prefer the latter.
+
+
+---
+
+## 2019-07-27 · Thread · Shoutout to my boy @zlz for slaying at the bug bash. @Bugcrowd outhackthemall @Atlassian [pic.x.com
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2019-07-27 17:56 UTC (2019-07-27 18:56 WAT)
+
+- URL: https://x.com/Rhynorater/status/1155175051211108357
+- Metrics (at fetch): not returned
+
+> Shoutout to my boy @zlz for slaying at the bug bash. @Bugcrowd #outhackthemall @Atlassian [pic.x.com/sDnbUjfQrb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EAgBk4PUIAEcITR.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2019-07-27 18:38 UTC (2019-07-27 19:38 WAT)
+
+- URL: https://x.com/Rhynorater/status/1155185627584876544
+- Metrics (at fetch): not returned
+
+> @zlz @Bugcrowd @Atlassian Oh shit. Hahahahhaha My bad, my boy is @samwcyo
+
+
+---
+
+## 2019-06-09 · Thread · Another great @Hacker0x01 event! Congrats to MVH @TomNomNom - it was amazing teaming with you. Your 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2019-06-09 18:57 UTC (2019-06-09 19:57 WAT)
+
+- URL: https://x.com/Rhynorater/status/1137795803240644611
+- Metrics (at fetch): not returned
+
+> Another great @Hacker0x01 event! Congrats to MVH @TomNomNom - it was amazing teaming with you. Your humility, generosity, kindness, and absolute brilliance make you a great teammate. 
+> It's amazing to learn from everyone and take away some new techniques. :) Thanks to all! [pic.x.com/7pgOnAteNS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D8pDC0oWkAAf8zF.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2019-06-09 18:58 UTC (2019-06-09 19:58 WAT)
+
+- URL: https://x.com/Rhynorater/status/1137796186226745345
+- Metrics (at fetch): not returned
+
+> #h14420 #hackerone #togetherwehitharder
+
+
+---
+
+## 2019-05-17 · Post · Yay, I was awarded a $4,900 bounty on @Hacker0x01! For one click ATO.  https://hackerone.com/rhynora
+
+
+Tags (automatic): Account takeover, Platform: HackerOne
+
+
+### Post — @Rhynorater — 2019-05-17 19:39 UTC (2019-05-17 20:39 WAT)
+
+- URL: https://x.com/Rhynorater/status/1129471428645015552
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $4,900 bounty on @Hacker0x01! For one click ATO.  https://hackerone.com/rhynorater #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/rhynorater
+
+
+---
+
+## 2019-05-10 · Thread · Lazy writeup of a cool bug:
+
+
+Tags (automatic): XSS, Account takeover, OAuth
+
+
+### Post — @Rhynorater — 2019-05-10 15:33 UTC (2019-05-10 16:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1126872811404976128
+- Metrics (at fetch): not returned
+
+> Lazy writeup of a cool bug:
+> I had an oauth endpoint which would redirect to anything in http://www.site.com/my. Under /my there was an endpoint (/my/preferences) which would iframe in a subdomain of the main site. Let's call that http://x.site.com. 1/5
+
+**Links in post:** http://www.site.com/my, http://x.site.com
+
+
+### Thread part 2 — @Rhynorater — 2019-05-10 15:33 UTC (2019-05-10 16:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1126872813686669312
+- Metrics (at fetch): not returned
+
+> Found a quick and easy reflected XSS on http://x.site.com. Now, let's steal the token from the oauth endpoint. We use the XSS in http://x.site.com to iframe  http://www.site.com/my/preferences page, which then, in turn, iframes a random page on http://x.site.com. 2/5
+
+**Links in post:** http://x.site.com, http://www.site.com/my/preferences
+
+
+### Thread part 3 — @Rhynorater — 2019-05-10 15:33 UTC (2019-05-10 16:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1126872815700008961
+- Metrics (at fetch): not returned
+
+> Since the oauth token is in the url when the iframe to the random page on http://x.site.com occurs, the referrer contains the secret code.Since the http://x.site.com page I have XSS on and the page http://www.site.com/my/preferences iframes are the same origin you can access 3/5
+
+**Links in post:** http://x.site.com, http://www.site.com/my/preferences
+
+
+### Thread part 4 — @Rhynorater — 2019-05-10 15:33 UTC (2019-05-10 16:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1126872817792897024
+- Metrics (at fetch): not returned
+
+> the document.referrer variable via JS. From the XSS page: frames[0].frames[0].document.referrer will get you the referrer. This is allowed because you are able to access the frames of a cross-origin page. XSS in subdomain -&gt; ATO on main domain. 4/5
+
+
+---
+
+## 2019-04-29 · Thread · @zseano @discourse Pce @discourse - ✌️You just lost a lot of talented hackers.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2019-04-29 13:32 UTC (2019-04-29 14:32 WAT)
+
+- URL: https://x.com/Rhynorater/status/1122856223181811712
+- Metrics (at fetch): not returned
+
+> @zseano @discourse Pce @discourse - ✌️You just lost a lot of talented hackers.
+
+
+### Thread part 2 — @Rhynorater — 2019-04-29 13:35 UTC (2019-04-29 14:35 WAT)
+
+- URL: https://x.com/Rhynorater/status/1122857001304961025
+- Metrics (at fetch): not returned
+
+> @zseano @discourse Can I also mention that @codingo_ and I were respectful and non-aggressive in our rhetoric? This is simply an attempt to silence the voice of hackers about an unfair bounty. If we go down this road, it's gonna lead to even more hackers getting taken advantage of. @Hacker0x01
+
+
+---
+
+## 2019-04-25 · Post · This should def have gotten a much higher bounty @discourse https://t.co/hOodVpw80F
+
+
+### Post — @Rhynorater — 2019-04-25 21:57 UTC (2019-04-25 22:57 WAT)
+
+- URL: https://x.com/Rhynorater/status/1121533700305489920
+- Metrics (at fetch): not returned
+
+> This should def have gotten a much higher bounty @discourse https://t.co/hOodVpw80F
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2481701395 — 2019-04-25 21:45 UTC (2019-04-25 22:45 WAT)
+    
+    - URL: https://x.com/2481701395/status/1121530635812843520
+    - Metrics (at fetch): not returned
+    
+    > Discourse disclosed a bug submitted by karimpwnz: https://hackerone.com/reports/497669 - Bounty: $128 #hackerone #bugbounty [pic.x.com/l5uaDj2rca]
+    
+    **Media:**
+    - media `3_1121530634927841280` (details not returned by the API)
+    
+    **Links in post:** https://hackerone.com/reports/497669
+    
+
+
+---
+
+## 2019-04-14 · Post · Does anyone know how to save the outputted HTML page from headless @googlechrome? If I could get hea
+
+
+### Post — @Rhynorater — 2019-04-14 16:39 UTC (2019-04-14 17:39 WAT)
+
+- URL: https://x.com/Rhynorater/status/1117467301769621512
+- Metrics (at fetch): not returned
+
+> Does anyone know how to save the outputted HTML page from headless @googlechrome? If I could get header information, the HTML output, and control over redirects, I could cut my recon tools http requests in half...
+
+
+---
+
+## 2019-04-09 · Post · Common ways to get RCE:
+
+
+Tags (automatic): SSRF, RCE
+
+
+### Post — @Rhynorater — 2019-04-09 13:43 UTC (2019-04-09 14:43 WAT)
+
+- URL: https://x.com/Rhynorater/status/1115611217916321793
+- Metrics (at fetch): not returned
+
+> Common ways to get RCE:
+> - SSRF to Metadata
+> - Jenkins /script
+> - Jenkins Orange RCE
+> - Leaked cloud creds/keys (online, via LFD, ect)
+> - Arbitrary file upload
+> - ImageTragik
+> - SSTI
+> Fill in how you've gotten RCE!
+
+
+---
+
+## 2019-04-02 · Post · Likely a great resource for people looking to start in bug bounty https://twitter.com/Burp_Suite/sta
+
+
+### Post — @Rhynorater — 2019-04-02 13:32 UTC (2019-04-02 14:32 WAT)
+
+- URL: https://x.com/Rhynorater/status/1113071818179600385
+- Metrics (at fetch): not returned
+
+> Likely a great resource for people looking to start in bug bounty https://twitter.com/Burp_Suite/status/1113063657762484229
+
+**Links in post:** https://twitter.com/Burp_Suite/status/1113063657762484229
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2216306262 — 2019-04-02 13:00 UTC (2019-04-02 14:00 WAT)
+    
+    - URL: https://x.com/2216306262/status/1113063657762484229
+    - Metrics (at fetch): not returned
+    
+    > Blog post: Introducing the Web Security Academy
+    >
+    > https://portswigger.net/blog/introducing-the-web-security-academy
+    
+    **Links in post:** https://portswigger.net/blog/introducing-the-web-security-academy
+    
+
+
+---
+
+## 2019-04-01 · Post · This services will bring your bounty reports to a different level. A very different level. https://t
+
+
+### Post — @Rhynorater — 2019-04-01 14:24 UTC (2019-04-01 15:24 WAT)
+
+- URL: https://x.com/Rhynorater/status/1112722384547708928
+- Metrics (at fetch): not returned
+
+> This services will bring your bounty reports to a different level. A very different level. https://twitter.com/hacker_/status/1112701344996093953
+
+**Links in post:** https://twitter.com/hacker_/status/1112701344996093953
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4916110689 — 2019-04-01 13:00 UTC (2019-04-01 14:00 WAT)
+    
+    - URL: https://x.com/4916110689/status/1112701344996093953
+    - Metrics (at fetch): not returned
+    
+    > Tired of writing reports? Tired of getting duped or NA'd? Are you tired of waiting for bounties? Introducing Pimp My Report™, a new startup created by BBAC to wash your worries away! Get huge bounties today! https://wewriteyour.report/
+    
+    **Links in post:** https://wewriteyour.report/
+    
+
+
+---
+
+## 2019-03-21 · Post · Bug Bounty related Security Analyst position here! Please apply, and feel free to mention me in the 
+
+
+### Post — @Rhynorater — 2019-03-21 21:35 UTC (2019-03-21 22:35 WAT)
+
+- URL: https://x.com/Rhynorater/status/1108844497910358018
+- Metrics (at fetch): not returned
+
+> Bug Bounty related Security Analyst position here! Please apply, and feel free to mention me in the application.
+> https://ezesoft.wd1.myworkdayjobs.com/en-US/EzeSoftCareers/job/Boston/Application-Security-Analyst_R0002389
+
+**Links in post:** https://ezesoft.wd1.myworkdayjobs.com/en-US/EzeSoftCareers/job/Boston/Application-Security-Analyst_R0002389
+
+
+---
+
+## 2019-03-06 · Post · Mayhem2019 is amazzzinngggg. Thanks for the VIP pass @Bugcrowd @ChloeMessdaghi @Rosenawesome
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2019-03-06 06:49 UTC (2019-03-06 07:49 WAT)
+
+- URL: https://x.com/Rhynorater/status/1103185859451346945
+- Metrics (at fetch): not returned
+
+> #Mayhem2019 is amazzzinngggg. Thanks for the VIP pass @Bugcrowd @ChloeMessdaghi @Rosenawesome
+
+
+---
+
+## 2019-02-01 · Post · @Bugcrowd has been saying it lately with these recon challenges!  I've always wanted another excuse 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2019-02-01 22:37 UTC (2019-02-01 23:37 WAT)
+
+- URL: https://x.com/Rhynorater/status/1091465585744060416
+- Metrics (at fetch): not returned
+
+> @Bugcrowd has been saying it lately with these recon challenges!  I've always wanted another excuse to use @Google BigQuery for Security :)
+
+
+---
+
+## 2019-01-15 · Post · I just got accepted into the @Bugcrowd Ambassador program! Very excited to be working with @ChloeMes
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2019-01-15 18:01 UTC (2019-01-15 19:01 WAT)
+
+- URL: https://x.com/Rhynorater/status/1085235574095654912
+- Metrics (at fetch): not returned
+
+> I just got accepted into the @Bugcrowd Ambassador program! Very excited to be working with @ChloeMessdaghi, @Jhaddix, and many other amazing people to help grow the bug bounty community! #outhackthemall
+
+
+---
+
+## 2019-01-14 · Post · Does anyone know of a way to trigger DOM XSS without using an "=" sign?
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2019-01-14 15:21 UTC (2019-01-14 16:21 WAT)
+
+- URL: https://x.com/Rhynorater/status/1084832936887836673
+- Metrics (at fetch): not returned
+
+> Does anyone know of a way to trigger DOM XSS without using an "=" sign?
+
+
+---
+
+## 2019-01-12 · Post · I earned $4,400 for my submission on @bugcrowd https://bugcrowd.com/rhynorater ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2019-01-12 04:14 UTC (2019-01-12 05:14 WAT)
+
+- URL: https://x.com/Rhynorater/status/1083940212349255680
+- Metrics (at fetch): not returned
+
+> I earned $4,400 for my submission on @bugcrowd https://bugcrowd.com/rhynorater #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rhynorater
+
+
+---
+
+## 2018-12-27 · Post · I just thought about how savage an XSS would be on something like GoDaddy or some other hosting prov
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2018-12-27 19:40 UTC (2018-12-27 20:40 WAT)
+
+- URL: https://x.com/Rhynorater/status/1078375124682895362
+- Metrics (at fetch): not returned
+
+> I just thought about how savage an XSS would be on something like GoDaddy or some other hosting provider. You could release a domain for registration, register it, and then totally ruin a company's life. I hope @GoDaddy is taking XSS seriously.
+
+
+---
+
+## 2018-12-27 · Post · Just found my second RCE and hopefully my first 5 figure bounty! SO HYPE.
+
+
+Tags (automatic): RCE
+
+
+### Post — @Rhynorater — 2018-12-27 18:17 UTC (2018-12-27 19:17 WAT)
+
+- URL: https://x.com/Rhynorater/status/1078354172125290497
+- Metrics (at fetch): not returned
+
+> Just found my second RCE and hopefully my first 5 figure bounty! SO HYPE.
+
+
+---
+
+## 2018-12-27 · Post · ALL HACKERS! WAYBACK MACHINE IS A BIG PART OF YOUR RECON PROCESS. They are about 600k short. Open th
+
+
+### Post — @Rhynorater — 2018-12-27 01:24 UTC (2018-12-27 02:24 WAT)
+
+- URL: https://x.com/Rhynorater/status/1078099171901693953
+- Metrics (at fetch): not returned
+
+> ALL HACKERS! WAYBACK MACHINE IS A BIG PART OF YOUR RECON PROCESS. They are about 600k short. Open those bounty pockets. I just donated to @internetarchive. Support free access to knowledge!
+>  https://archive.org/donate?donated=1
+
+**Links in post:** https://archive.org/donate?donated=1
+
+
+---
+
+## 2018-12-12 · Post · Congrats to @codecancare for taking the 1 spot on HackerOne!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2018-12-12 23:29 UTC (2018-12-13 00:29 WAT)
+
+- URL: https://x.com/Rhynorater/status/1072996771725492224
+- Metrics (at fetch): not returned
+
+> Congrats to @codecancare for taking the #1 spot on HackerOne!
+
+
+---
+
+## 2018-11-30 · Post · bugbountytip
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2018-11-30 18:57 UTC (2018-11-30 19:57 WAT)
+
+- URL: https://x.com/Rhynorater/status/1068579684626165760
+- Metrics (at fetch): not returned
+
+> #bugbountytip
+> If you get a reflected XSS so that you can only add attributes to a hidden field, DON'T settle for accessKey XSS. Check the JavaScript in the page for any sort of document.getElementById("x").click() functions. If you can get your input to have that ID: ALERT XD
+
+
+---
+
+## 2018-11-29 · Post · Whew, that was quite a night of hacking. After bypassing SSL cert pinning, apk hash verification, an
+
+
+Tags (automatic): SSRF, Mobile / Android / iOS
+
+
+### Post — @Rhynorater — 2018-11-29 07:04 UTC (2018-11-29 08:04 WAT)
+
+- URL: https://x.com/Rhynorater/status/1068037889186037770
+- Metrics (at fetch): not returned
+
+> Whew, that was quite a night of hacking. After bypassing SSL cert pinning, apk hash verification, and root detection, I got 8 high impact vulnerabilities to show for it - all IDORS and SSRF. Lesson learned: Attack mobile applications.
+
+
+---
+
+## 2018-11-03 · Thread · @adrien_jeanneau Stored XSS. I don't think there is a way with S3 buckets to get HTTPOnly cookies.
+
+
+Tags (automatic): XSS
+
+
+### Post — @Rhynorater — 2018-11-03 12:23 UTC (2018-11-03 13:23 WAT)
+
+- URL: https://x.com/Rhynorater/status/1058696129997664256
+- Metrics (at fetch): not returned
+
+> @adrien_jeanneau Stored XSS. I don't think there is a way with S3 buckets to get HTTPOnly cookies.
+> Also, consider for impact purposes, using Frans Rosens trick with installing an appcache and then cookie bombing all other images. Might allow for additional impact depending on image implmentation.
+
+
+### Thread part 2 — @Rhynorater — 2018-11-03 12:24 UTC (2018-11-03 13:24 WAT)
+
+- URL: https://x.com/Rhynorater/status/1058696513726152704
+- Metrics (at fetch): not returned
+
+> @adrien_jeanneau Also, Stored XSS is assuming the S3 bucket has a dns name. If it does not, then your best bet is image dos using cookie combing IMHO.
+
+
+---
+
+## 2018-11-01 · Post · Have a hacky Halloween :) hackerone bugbounty [pic.x.com/sAoVJiSmfC]
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Rhynorater — 2018-11-01 02:13 UTC (2018-11-01 03:13 WAT)
+
+- URL: https://x.com/Rhynorater/status/1057817814684389376
+- Metrics (at fetch): not returned
+
+> Have a hacky Halloween :) #hackerone #bugbounty [pic.x.com/sAoVJiSmfC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dq4frutW4AEclH6.jpg — no alt text provided by author
+
+
+---
+
+## 2018-10-07 · Post · Thanks for the event and the sick swag @Bugcrowd! Awesome event - and great location Miami.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Rhynorater — 2018-10-07 15:41 UTC (2018-10-07 16:41 WAT)
+
+- URL: https://x.com/Rhynorater/status/1048961471563087873
+- Metrics (at fetch): not returned
+
+> Thanks for the event and the sick swag @Bugcrowd! Awesome event - and great location #Miami.

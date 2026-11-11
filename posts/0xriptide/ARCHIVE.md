@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 48
-- Conversations/threads: 44
-- Oldest post captured: 2026-07-08
+- Posts in this file: 70
+- Conversations/threads: 66
+- Oldest post captured: 2026-02-07
 - Newest post captured: 2026-11-10
 
 
@@ -888,3 +888,695 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Links in post:** https://twitter.com/JBCWeek/status/2060288619928223837
 
 **Quoted post** 2060288619928223837: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-06-22 · Post · If I recall correctly also no bug bounty 
+
+
+### Post — @0xriptide — 2026-06-22 07:18 UTC (2026-06-22 08:18 WAT)
+
+- URL: https://x.com/0xriptide/status/2068956673000051144
+- Metrics (at fetch): bookmark 7, impression 7545, like 70, quote 0, reply 12, retweet 1
+
+> If I recall correctly also no bug bounty 
+>
+> shocked at the result of incentives driving outcomes yet again https://t.co/PWWmBcRhim
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1278266969532203008 — 2026-06-22 05:09 UTC (2026-06-22 06:09 WAT)
+    
+    - URL: https://x.com/1278266969532203008/status/2068924424238321854
+    - Metrics (at fetch): bookmark 42, impression 38424, like 91, quote 10, reply 10, retweet 14
+    
+    > .@taikoxyz was reportedly attacked, with losses exceeding $1.7M. Our initial investigation suggests the likely root cause was an exposed Raiko SGX enclave signing key on GitHub. Raiko is Taiko’s multi-prover stack for Taiko and Ethereum blocks, so an exposed Raiko SGX enclave key https://t.co/eAq9Xjngz8 https://t.co/8BIiEeNtYJ
+    
+    **Media:**
+    - media `3_2068922564328775680` (details not returned by the API)
+    
+    **Quoted post** 2068857506718515320: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-06-12 · Post · Not the outcome DeFi was built for
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @0xriptide — 2026-06-12 17:35 UTC (2026-06-12 18:35 WAT)
+
+- URL: https://x.com/0xriptide/status/2065488207978930416
+- Metrics (at fetch): bookmark 11, impression 4584, like 47, quote 0, reply 6, retweet 1
+
+> Not the outcome DeFi was built for
+>
+> two big drivers behind us building @therealgregoAI:
+>
+> 1) break the audit mafia's control on who can afford human level quality security audits
+>
+> 2) provide security at scale so that bootstrapped founders can still compete
+>
+> this is how DeFi https://t.co/elNTB2heMq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @231208649 — 2026-06-12 12:23 UTC (2026-06-12 13:23 WAT)
+    
+    - URL: https://x.com/231208649/status/2065409689320337636
+    - Metrics (at fetch): bookmark 27, impression 28119, like 126, quote 10, reply 31, retweet 10
+    
+    > Everyone thinks there's a hackpocalypse going on in crypto right now. But if you dig into the data, the story is not that simple.
+    >
+    > Narrative violation: total dollars hacked in 2026 actually looks pretty normal so far. 
+    >
+    > Check the chart below for raw data. What's grown is not the https://t.co/DOgzonmn84
+    
+    **Media:**
+    - media `3_2065209720181288960` (details not returned by the API)
+    
+
+
+---
+
+## 2026-06-05 · Post · Six months ago the conversations I had with investors were different.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xriptide — 2026-06-05 12:08 UTC (2026-06-05 13:08 WAT)
+
+- URL: https://x.com/0xriptide/status/2062869086086828046
+- Metrics (at fetch): bookmark 16, impression 4871, like 54, quote 0, reply 4, retweet 3
+
+> Six months ago the conversations I had with investors were different.
+>
+> Few understood why an AI whitehat system was needed, or were not convinced AI bug hunting was going to become better than humans, or couldn't see the market opportunity.
+>
+> If it's not obvious by now, the market https://t.co/kGin69F1zL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1041276721759043584 — 2026-06-05 08:03 UTC (2026-06-05 09:03 WAT)
+    
+    - URL: https://x.com/1041276721759043584/status/2062807526463205876
+    - Metrics (at fetch): bookmark 375, impression 275739, like 1009, quote 58, reply 317, retweet 198
+    
+    > 👉For 4 years, 1 day, and 10 hours, anyone who understood the Orchard circuit could have minted ZEC out of thin air, silently, with no on-chain signature. The bug was disclosed this week. It was found by an AI-driven audit running Opus 4.8, not by an attacker.
+    >
+    > 1. Call the bug https://t.co/Pi6zWCOFgz https://t.co/ly3icpGQ7e
+    
+    **Media:**
+    - media `3_2062805871155884032` (details not returned by the API)
+    
+    **Quoted post** 2062644925590900980: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-06-01 · Post · You would hope that after we wrote up our findings for multiple live criticals on the Zodiac modules
+
+
+### Post — @0xriptide — 2026-06-01 09:56 UTC (2026-06-01 10:56 WAT)
+
+- URL: https://x.com/0xriptide/status/2061386275580416174
+- Metrics (at fetch): bookmark 14, impression 8012, like 78, quote 0, reply 4, retweet 4
+
+> You would hope that after we wrote up our findings for multiple live criticals on the Zodiac modules at @therealgregoAI months ago, that PERHAPS if one's company used these modules in a live, deployed, project the CISO would want to have another audit done (last one was 6 years https://t.co/3qJzSfrpme
+
+**Quoted post (full text):**
+
+    #### Quoted post — @63064338 — 2026-06-01 08:20 UTC (2026-06-01 09:20 WAT)
+    
+    - URL: https://x.com/63064338/status/2061362219984568719
+    - Metrics (at fetch): bookmark 120, impression 176847, like 775, quote 58, reply 63, retweet 138
+    
+    > Unfortunately, there is a hack related to @gnosispay and the "delay module".
+    > Please be patient while we try to contain the damage. Rest assured, Gnosis will cover all user losses.
+    
+
+
+---
+
+## 2026-05-29 · Post · I just found a bug and got paid on @immunefi immunefitribe https://t.co/k8TsjNJlLF 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2026-05-29 10:52 UTC (2026-05-29 11:52 WAT)
+
+- URL: https://x.com/0xriptide/status/2060313219068002409
+- Metrics (at fetch): bookmark 31, impression 8178, like 289, quote 0, reply 19, retweet 9
+
+> I just found a bug and got paid on @immunefi #immunefitribe https://t.co/k8TsjNJlLF 
+>
+> One of the findings from v1.0 of @therealgregoAI which we originally submitted NINE MONTHS ago has finally reached a resolution
+>
+> I wish this painful lengthy experience on no one and likely have
+
+
+---
+
+## 2026-05-27 · Post · Believe it or not, there is code on the blockchain, that no matter how many times you run AI against
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @0xriptide — 2026-05-27 17:40 UTC (2026-05-27 18:40 WAT)
+
+- URL: https://x.com/0xriptide/status/2059691203264762092
+- Metrics (at fetch): not returned
+
+> Believe it or not, there is code on the blockchain, that no matter how many times you run AI against it, it remains bug free
+>
+> And then there are protocols with poor security (incl key management) that are getting rekt
+>
+> Ultimately, we strengthen the ecosystem by embracing well established and well known INCREDIBLY BASIC security precautions + levelling up on AI defensive measures
+>
+> There is a real need right now for AI defensive security which is what we are building at @therealgregoAI. It is a problem with a solution. Our team and many other big brains in this space are hard at work fighting back to ensure this space survives and thrives.
+>
+> If you feel that the risk is not priced appropriately then that is an individual investment decision, but the market as a whole does not agree given current rates
+>
+> IMO the benefits of DeFi outweigh its growing pains, and no, it's not time to throw in the towel because your favorite protocol trades meme coins with the admin key, but it is time for investors to demand security be taken more seriously and vote with their capital appropriately
+>
+> Growth and maturation happens only through adversity
+>
+> DeFi forever
+
+**Links in post:** https://twitter.com/maraoz/status/2059413451265441990
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14427338 — 2026-05-26 23:16 UTC (2026-05-27 00:16 WAT)
+    
+    - URL: https://x.com/14427338/status/2059413451265441990
+    - Metrics (at fetch): bookmark 510, impression 971189, like 1811, quote 338, reply 314, retweet 202
+    
+    > PSA: I now consider *all* of DeFi unsafe.
+    >
+    > Coding agents are superhuman at finding vulnerabilities, and smart contract security is too asymmetric: defenders need to fix every bug while attackers need just one exploit to steal funds.
+    
+
+
+---
+
+## 2026-05-25 · Post · We found multiple critical bugs in a well known Gnosis Safe Module recently (https://x.com/compose/a
+
+
+### Post — @0xriptide — 2026-05-25 14:06 UTC (2026-05-25 15:06 WAT)
+
+- URL: https://x.com/0xriptide/status/2058912530379002032
+- Metrics (at fetch): not returned
+
+> We found multiple critical bugs in a well known Gnosis Safe Module recently (https://x.com/compose/articles/edit/2054869966801772544) and warned about the root level access that modules have when enabled
+>
+> If you have a module that you have enabled on your Safe please drop it here and @therealgregoAI can take a look
+
+**Links in post:** https://x.com/compose/articles/edit/2054869966801772544, https://twitter.com/squidrouter/status/2058890710611276238
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1547672532660105216 — 2026-05-25 12:39 UTC (2026-05-25 13:39 WAT)
+    
+    - URL: https://x.com/1547672532660105216/status/2058890710611276238
+    - Metrics (at fetch): not returned
+    
+    > This incident is unrelated to Squid’s core protocol and contracts. All Squid users and integrators are unaffected and no action is needed.
+    >
+    > A third-party Gnosis Safe module was exploited today across Base and Ethereum, resulting in approximately $3.2M in losses. The vulnerable contract is verified on Basescan under the name “SquidRouterModule” but this contract was not built, deployed, or operated by Squid. It is a third-party smart-wallet product that chose to integrate with Squid, among other protocols, but has not been in contact with us. 
+    >
+    > The exploit worked because the third-party module accepted a caller-supplied constant string as proof that a message was secure. If you pass in this string (which is publicly available in the verified contract’s code), then you can execute an array of arbitrary calldata, stealing funds at will. The victims’ Safes had added this faulty contract as a trusted Safe Module, which gives the contract the ability to spend any tokens in the Safe without signatures. Squid’s own router (0xce16F69375520ab01377ce7B88f5BA8C48F8D666) is architecturally different and was not touched. Squid user funds, approvals, and integrations are fully secure.
+    >
+    > Early public reporting may reference “SquidRouter” due to the contract’s verified name on Basescan. The accurate framing is: a third-party SquidRouterModule was exploited, not Squid’s Router contract. The contract shares our name but is not our code. We are monitoring the situation and will share updates if anything changes materially.
+    
+    **Links in post:** https://twitter.com/blockaid_/status/2058875782810726556
+    
+    **Quoted post** 2058875782810726556: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-05-25 · Post · We found multiple critical bugs in a well known Gnosis Safe Module recently and warned about the roo
+
+
+### Post — @0xriptide — 2026-05-25 14:03 UTC (2026-05-25 15:03 WAT)
+
+- URL: https://x.com/0xriptide/status/2058911935064588778
+- Metrics (at fetch): not returned
+
+> We found multiple critical bugs in a well known Gnosis Safe Module recently and warned about the root level access that modules have when enabled
+>
+> If you have a module that you have enabled on your Safe please drop it here and @therealgregoAI can take a look
+>
+> https://x.com/compose/articles/edit/2054869966801772544
+
+**Links in post:** https://twitter.com/squidrouter/status/2058890710611276238, https://x.com/compose/articles/edit/2054869966801772544
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1547672532660105216 — 2026-05-25 12:39 UTC (2026-05-25 13:39 WAT)
+    
+    - URL: https://x.com/1547672532660105216/status/2058890710611276238
+    - Metrics (at fetch): not returned
+    
+    > This incident is unrelated to Squid’s core protocol and contracts. All Squid users and integrators are unaffected and no action is needed.
+    >
+    > A third-party Gnosis Safe module was exploited today across Base and Ethereum, resulting in approximately $3.2M in losses. The vulnerable contract is verified on Basescan under the name “SquidRouterModule” but this contract was not built, deployed, or operated by Squid. It is a third-party smart-wallet product that chose to integrate with Squid, among other protocols, but has not been in contact with us. 
+    >
+    > The exploit worked because the third-party module accepted a caller-supplied constant string as proof that a message was secure. If you pass in this string (which is publicly available in the verified contract’s code), then you can execute an array of arbitrary calldata, stealing funds at will. The victims’ Safes had added this faulty contract as a trusted Safe Module, which gives the contract the ability to spend any tokens in the Safe without signatures. Squid’s own router (0xce16F69375520ab01377ce7B88f5BA8C48F8D666) is architecturally different and was not touched. Squid user funds, approvals, and integrations are fully secure.
+    >
+    > Early public reporting may reference “SquidRouter” due to the contract’s verified name on Basescan. The accurate framing is: a third-party SquidRouterModule was exploited, not Squid’s Router contract. The contract shares our name but is not our code. We are monitoring the situation and will share updates if anything changes materially.
+    
+    **Links in post:** https://twitter.com/blockaid_/status/2058875782810726556
+    
+    **Quoted post** 2058875782810726556: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-05-22 · Post · Most of the recent high profile exploits didn't start with a smart contract exploit they started wit
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @0xriptide — 2026-05-22 15:23 UTC (2026-05-22 16:23 WAT)
+
+- URL: https://x.com/0xriptide/status/2057844893133803963
+- Metrics (at fetch): not returned
+
+> Most of the recent high profile exploits didn't start with a smart contract exploit they started with a human
+>
+> Dropped a few suggestions in the room at the security panel @ @eth_milano and might as well rehash them here:
+>
+> - Use separate devices for work and leisure. Use an airgapped wallet. Your daily driver with 35 chrome extensions shouldn't be your signing machine
+>
+> - Simulate and inspect every transaction before you sign it. No blind signing you might as well put it all on black at the casino
+>
+> - Double check your recipient address (address poisoning is a very real risk)
+>
+> - Consider a multi-sig for anything of significant value
+>
+> - Revoke token approvals regularly. Most people set and forget until it's too late
+>
+> Attackers are getting more sophisticated, but the basics haven't changed ... yet most teams still aren't doing them!
+>
+> Great sharing the stage with @beyer_st and Nurtilek from @CertiK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HI7sqWrWYAAfqpf.jpg — no alt text provided by author
+
+
+---
+
+## 2026-05-20 · Post · Imagine reporting this theoretical attack to a bug bounty program https://twitter.com/LayerZero_Core
+
+
+### Post — @0xriptide — 2026-05-20 16:43 UTC (2026-05-20 17:43 WAT)
+
+- URL: https://x.com/0xriptide/status/2057140126640136578
+- Metrics (at fetch): not returned
+
+> Imagine reporting this theoretical attack to a bug bounty program https://twitter.com/LayerZero_Core/status/2057085190565224699
+
+**Links in post:** https://twitter.com/LayerZero_Core/status/2057085190565224699
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1395504028910424065 — 2026-05-20 13:05 UTC (2026-05-20 14:05 WAT)
+    
+    - URL: https://x.com/1395504028910424065/status/2057085190565224699
+    - Metrics (at fetch): not returned
+    
+    > We’re sharing our completed post-mortem on the April 18th incident, prepared with @Mandiant and @CrowdStrike. We are publishing both an executive summary and the full report at the link below.
+    >
+    > Over the past four weeks, we’ve worked with hundreds of partners to help them understand their current security posture, and harden it where appropriate. We’ll continue this work, alongside taking additional proactive steps for the benefit of not only our partners, but also the ecosystem as a whole.
+    >
+    > We want to extend our thanks to our partners for their support and patience this past month. There’s a reason that over $12 billion has moved across the network in the past four weeks, and why the world’s most valuable asset issuers have stood by our side: they believe in us, in what the LayerZero protocol has to offer, and in the value of modular, isolated, application-controlled security.
+    >
+    > The work continues. And we look forward to continue showing up for the applications that trust us with their business, as well as the broader ecosystem.
+    >
+    > https://layerzero.network/blog/layerzero-labs-kelpdao-incident-report
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIw8FGmaYAAkH4c.jpg — no alt text provided by author
+    
+    **Links in post:** https://layerzero.network/blog/layerzero-labs-kelpdao-incident-report
+    
+
+
+---
+
+## 2026-05-20 · Post · AI black hats are the ultimate forcing function
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xriptide — 2026-05-20 09:33 UTC (2026-05-20 10:33 WAT)
+
+- URL: https://x.com/0xriptide/status/2057031862309044394
+- Metrics (at fetch): not returned
+
+> AI black hats are the ultimate forcing function
+>
+> most devs have been sleeping on security for years as their code was not worth the time or effort to attack
+>
+> now you simply cannot ignore it 
+>
+> proactive AI security solutions will play a huge role going forward
+
+
+---
+
+## 2026-05-12 · Post · http://x.com/i/article/2054199223919206401
+
+
+### Post — @0xriptide — 2026-05-12 14:07 UTC (2026-05-12 15:07 WAT)
+
+- URL: https://x.com/0xriptide/status/2054201804536025152
+- Metrics (at fetch): not returned
+
+> http://x.com/i/article/2054199223919206401
+
+**Links in post:** http://x.com/i/article/2054199223919206401
+
+
+---
+
+## 2026-04-21 · Post · After this LZ incident, do you think project teams will now consider more "theoretical" bug bounty s
+
+
+### Post — @0xriptide — 2026-04-21 08:25 UTC (2026-04-21 09:25 WAT)
+
+- URL: https://x.com/0xriptide/status/2046505612326965388
+- Metrics (at fetch): not returned
+
+> After this LZ incident, do you think project teams will now consider more "theoretical" bug bounty submissions?
+
+
+---
+
+## 2026-04-20 · Post · Reporting an RPC spoofing attack to Layerzero would net you a max critical bounty
+
+
+### Post — @0xriptide — 2026-04-20 09:16 UTC (2026-04-20 10:16 WAT)
+
+- URL: https://x.com/0xriptide/status/2046156136550711306
+- Metrics (at fetch): not returned
+
+> Reporting an RPC spoofing attack to Layerzero would net you a max critical bounty
+
+
+---
+
+## 2026-03-26 · Post · new bounty platform just dropped https://twitter.com/justinsuntron/status/2037075581943021762
+
+
+### Post — @0xriptide — 2026-03-26 08:56 UTC (2026-03-26 09:56 WAT)
+
+- URL: https://x.com/0xriptide/status/2037091276487577910
+- Metrics (at fetch): not returned
+
+> new bounty platform just dropped https://twitter.com/justinsuntron/status/2037075581943021762
+
+**Links in post:** https://twitter.com/justinsuntron/status/2037075581943021762
+
+**Quoted post (full text):**
+
+    #### Quoted post — @902839045356744704 — 2026-03-26 07:54 UTC (2026-03-26 08:54 WAT)
+    
+    - URL: https://x.com/902839045356744704/status/2037075581943021762
+    - Metrics (at fetch): not returned
+    
+    > We have independently developed an AI detective system capable of systematically processing complex case data and identifying criminal suspects in an extremely short period of time, assisting judicial authorities in bringing them to justice. 
+    >
+    > The total value of criminal cases analyzed to date exceeds one billion US dollars. 
+    >
+    > We will allocate 10% of this amount — a total of one hundred million US dollars — as rewards for white-hat contributors who provide key leads and for the law enforcement agencies involved.
+    >
+    > This AI detective system will initially be deployed in cooperation with judicial authorities in China, Hong Kong (China), the United States, and the United Arab Emirates, as well as other jurisdictions with an interest in these cases. 
+    >
+    > Criminal suspects including but not limited to FDT(First Digital Trust), Vincent Chok, Aria, and Matthew William Brittain have already been identified.
+    >
+    > Please visit: https://web3bounty.io/
+    >
+    > Email:  tx@web3bounty.io
+    
+    **Links in post:** https://web3bounty.io/
+    
+
+
+---
+
+## 2026-03-14 · Post · another "benchmark"
+
+
+### Post — @0xriptide — 2026-03-14 13:45 UTC (2026-03-14 14:45 WAT)
+
+- URL: https://x.com/0xriptide/status/2032815345044537742
+- Metrics (at fetch): not returned
+
+> another "benchmark"
+>
+> yet
+>
+> live bugs confirmed in bug bounties
+>
+> is the only
+>
+> real
+>
+> "benchmark"
+>
+> @therealgregoAI [pic.x.com/VHV0OdVa0F] https://twitter.com/hrkrshnn/status/2032809487657238996
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HDYAXCBW8AEHr4j.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/hrkrshnn/status/2032809487657238996
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1277161565993615363 — 2026-03-14 13:22 UTC (2026-03-14 14:22 WAT)
+    
+    - URL: https://x.com/1277161565993615363/status/2032809487657238996
+    - Metrics (at fetch): not returned
+    
+    > Ross benchmarked 28 (up from 21) different AI security tools.
+    >
+    > The results are pretty stark, most security tools are worse than ChatGPT. [pic.x.com/3nvSwnXdMB] https://twitter.com/z0r0zzz/status/2031755989968642511
+    
+    **Media:**
+    - media `3_2032809485492957193` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/z0r0zzz/status/2031755989968642511
+    
+    **Quoted post** 2031755989968642511: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-03-11 · Post · if you are looking at AI security to complement your existing security stack, consider the following
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xriptide — 2026-03-11 10:44 UTC (2026-03-11 11:44 WAT)
+
+- URL: https://x.com/0xriptide/status/2031682689380614419
+- Metrics (at fetch): not returned
+
+> if you are looking at AI security to complement your existing security stack, consider the following before you let your traditional audit partners upsell you on an "AI audit":
+>
+> most AI audits only give you a high level analysis, hence the low price point/quick turnaround
+>
+> then they give you hundreds of false positives and hope something sticks or else charge you to manually triage through these by their own SRs
+>
+> absolute waste of time
+>
+> we are not competing in this area
+>
+> we are competing against the top audit firms and security researchers to find the needle in the haystack
+>
+> we designed our @therealgregoAI security engine to go as deep as possible and grind for hours and hours running through thousands of exploit scenarios while filtering out 95%+ of false positives (very difficult to do! IYKYK)
+>
+> DM to enable the Grego AI Security Layer on your protocol and we will show you what everyone else missed
+
+
+---
+
+## 2026-03-09 · Post · another humble critical bug find
+
+
+### Post — @0xriptide — 2026-03-09 08:30 UTC (2026-03-09 09:30 WAT)
+
+- URL: https://x.com/0xriptide/status/2030924099560641003
+- Metrics (at fetch): not returned
+
+> another humble critical bug find
+>
+> our @therealgregoAI security layer is connecting the dots from web2 to web3
+>
+> who is watching over your protocol? https://twitter.com/therealgregoAI/status/2030923482159059433
+
+**Links in post:** https://twitter.com/therealgregoAI/status/2030923482159059433
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1967838686797807616 — 2026-03-09 08:27 UTC (2026-03-09 09:27 WAT)
+    
+    - URL: https://x.com/1967838686797807616/status/2030923482159059433
+    - Metrics (at fetch): not returned
+    
+    > http://x.com/i/article/2028855148169039872
+    
+    **Links in post:** http://x.com/i/article/2028855148169039872
+    
+
+
+---
+
+## 2026-02-23 · Post · submit critical finding
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2026-02-23 09:05 UTC (2026-02-23 10:05 WAT)
+
+- URL: https://x.com/0xriptide/status/2025859577929961720
+- Metrics (at fetch): not returned
+
+> submit critical finding
+>
+> gets confirmed with severity dispute
+>
+> use @immunefi mediation
+>
+> fast forward 6 months
+>
+> still unresolved. complete radio silence
+>
+> PERHAPS we should add SOME SORT of disincentive to paying bounties outside of the SLAs
+>
+> a simple amount of penalty interest would suffice
+
+
+---
+
+## 2026-02-12 · Post · Protocol teams should consider the amount of effort a whitehat dedicates to proving a bug's validity
+
+
+### Post — @0xriptide — 2026-02-12 15:48 UTC (2026-02-12 16:48 WAT)
+
+- URL: https://x.com/0xriptide/status/2021974693264101580
+- Metrics (at fetch): not returned
+
+> Protocol teams should consider the amount of effort a whitehat dedicates to proving a bug's validity
+>
+> often the path leads to nowhere and the bug hunter is unpaid
+>
+> when it does lead somewhere (which is a very small % of the time) the whitehat should be rewarded appropriately and timely
+>
+> even though sometimes it may seem like a large bounty payment, remember that you have already defined the BBP wording, amounts and approved the criteria beforehand - you created the terms, so ensure you honor them
+>
+> history has shown that it is much better to deal with the whitehats vs. blackhats
+
+**Links in post:** https://twitter.com/saxenism/status/2021943382155899351
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+    
+    - URL: https://x.com/saxenism/status/2021943382155899351
+    - Metrics (at fetch): bookmark 34, impression 30233, like 88, quote 9, reply 16, retweet 17
+    
+    > Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly valid, due to missing checks.
+    > What's more?
+    > This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day one.
+    >
+    > Their GHSA marks this as Critical and notes that it "bypasses entire remote attestation model".
+    >
+    > My team at @bluethroat_labs reported this and 5 other vulnerabilities, and this is the response we got:
+    > + $2,500 in bounty offered
+    > + disclosure timelines framed as "threat"
+    > + wiped shared Notion
+    > + severities downgraded in a public blog post
+    >
+    > Here's the full story:  🧵👇🏻
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HA9WEcRbsAUKnVj.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-02-11 · Post · gm bounty hunters
+
+
+### Post — @0xriptide — 2026-02-11 10:02 UTC (2026-02-11 11:02 WAT)
+
+- URL: https://x.com/0xriptide/status/2021525302133072085
+- Metrics (at fetch): not returned
+
+> gm bounty hunters
+>
+> 'tis a good morning today
+
+
+---
+
+## 2026-02-07 · Post · one of the reasons we built @therealgregoAI 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @0xriptide — 2026-02-07 15:28 UTC (2026-02-07 16:28 WAT)
+
+- URL: https://x.com/0xriptide/status/2020157673673466315
+- Metrics (at fetch): not returned
+
+> one of the reasons we built @therealgregoAI 
+>
+> security cannot scale with human audits
+>
+> all devs will be able to afford a high quality AI audit with a 24hr turnaround
+>
+> audit mafia will be getting RICO'd in the name of securing the blockchain
+>
+> enjoy your LSR rates while you can
+>
+> has to be done
+
+**Links in post:** https://twitter.com/KhanAbbas201/status/2019876281035485488
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1261220379193991169 — 2026-02-06 20:50 UTC (2026-02-06 21:50 WAT)
+    
+    - URL: https://x.com/1261220379193991169/status/2019876281035485488
+    - Metrics (at fetch): not returned
+    
+    > One of the biggest reasons why it's hard to experiment in crypto is security audits and their costs.
+    >
+    > I've spoken to more than 10 teams in the last month who are all currently ready to launch on mainnet, but are held back by audits and their insane cost.
+    >
+    > A basic audit can cost up to 50k for a small codebase, which makes it hard for bootstrapped projects to launch and explore if they should even be spending their time on this.
+    >
+    > The industry did a terrible job of overpricing security audits and it has strongly held the space back.
+    

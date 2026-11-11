@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 50
-- Oldest post captured: 2025-09-22
+- Posts in this file: 58
+- Conversations/threads: 58
+- Oldest post captured: 2023-08-16
 - Newest post captured: 2026-11-05
 
 
@@ -702,7 +702,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly valid, due to missing checks.
     > What's more?
-    > This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day https://t.co/u7IIWFeiXD
+    > This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day one.
+    >
+    > Their GHSA marks this as Critical and notes that it "bypasses entire remote attestation model".
+    >
+    > My team at @bluethroat_labs reported this and 5 other vulnerabilities, and this is the response we got:
+    > + $2,500 in bounty offered
+    > + disclosure timelines framed as "threat"
+    > + wiped shared Notion
+    > + severities downgraded in a public blog post
+    >
+    > Here's the full story:  🧵👇🏻
     
     **Media:**
     - photo: https://pbs.twimg.com/media/HA9WEcRbsAUKnVj.jpg — no alt text provided by author
@@ -878,3 +888,262 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 - photo: https://pbs.twimg.com/media/G1dpKDebgAEsrGY.jpg — no alt text provided by author
 
 **Links in post:** https://www.immunefi.foundation/
+
+
+---
+
+## 2025-09-11 · Post · Personal announcement: I’m joining @PlasmaFDN as Head of Protocol Security.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @usmannk — 2025-09-11 13:28 UTC (2025-09-11 14:28 WAT)
+
+- URL: https://x.com/usmannk/status/1966131801925234941
+- Metrics (at fetch): not returned
+
+> Personal announcement: I’m joining @PlasmaFDN as Head of Protocol Security.
+>
+> Stablecoins are the future of money. Anyone with an internet connection can use them.
+>
+> If stablecoins are going to form the foundation of a thriving economy, we have a lot of work to do to make sure people can use them safely and securely.
+>
+> Crypto has often felt like the wild west. That energy helped early builders. But now we are at the stage where eyes are on us to do things right. Security must be prioritized more than ever to bring billions of people and trillions of dollars onchain.
+>
+> I view security as a layered puzzle across people, infrastructure, and process. Each level is critical to reliable operations.
+>
+> In crypto, mistakes are measured directly in dollars and often come from customer funds. That makes security incidents existential. 
+>
+> Traditional banking faces similar risks, but centralization and permissioned environments make clawbacks possible. In an open, permissionless financial system we don’t have that privilege.
+>
+> I am joining Plasma to help ensure these transparent, efficient payment rails are secure and can scale safely to bring the world onchain.
+>
+> Trillions.
+
+
+---
+
+## 2024-08-08 · Post · max bounty for 1password: $30k
+
+
+### Post — @usmannk — 2024-08-08 17:40 UTC (2024-08-08 18:40 WAT)
+
+- URL: https://x.com/usmannk/status/1821602404665860399
+- Metrics (at fetch): not returned
+
+> max bounty for 1password: $30k
+>
+> The client has had this critical bug since release. I guarantee you that if they had a reasonable bounty program someone would have found this bug a long time ago. Sad to see orgs neglect this part of their security strategy. [pic.x.com/CaQJwSZEhN] https://twitter.com/lopp/status/1821594652157583465
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUeghZEa8AEHPF_.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/lopp/status/1821594652157583465
+
+**Quoted post (full text):**
+
+    #### Quoted post — @23618940 — 2024-08-08 17:09 UTC (2024-08-08 18:09 WAT)
+    
+    - URL: https://x.com/23618940/status/1821594652157583465
+    - Metrics (at fetch): not returned
+    
+    > If you use 1Password on Mac, update ASAP. https://support.1password.com/kb/202408a/
+    
+    **Links in post:** https://support.1password.com/kb/202408a/
+    
+
+
+---
+
+## 2024-08-05 · Post · interesting, immunefi includes reporter rank in the top level data for projects doing triage https:/
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @usmannk — 2024-08-05 20:51 UTC (2024-08-05 21:51 WAT)
+
+- URL: https://x.com/usmannk/status/1820563320459722857
+- Metrics (at fetch): not returned
+
+> interesting, immunefi includes reporter rank in the top level data for projects doing triage https://twitter.com/MitchellAmador/status/1820541212304228824
+
+**Links in post:** https://twitter.com/MitchellAmador/status/1820541212304228824
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1347307079187525637 — 2024-08-05 19:23 UTC (2024-08-05 20:23 WAT)
+    
+    - URL: https://x.com/1347307079187525637/status/1820541212304228824
+    - Metrics (at fetch): not returned
+    
+    > A few new features shipped today. The first one for Projects on @immunefi: users can now search by report ID within the Immunefi dashboard.
+    >
+    > This was a recent request from one of our customers, and it didn't take long to get shipped.
+    >
+    > Enjoy everyone.😘 [pic.x.com/J42hWzjDq2]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GUPUfRDXUAAlO07.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2024-07-25 · Post · it’s hard to decide when to report a bug. need to make sure it’s a vuln but also that you are first 
+
+
+### Post — @usmannk — 2024-07-25 05:28 UTC (2024-07-25 06:28 WAT)
+
+- URL: https://x.com/usmannk/status/1816344713961824479
+- Metrics (at fetch): not returned
+
+> it’s hard to decide when to report a bug. need to make sure it’s a vuln but also that you are first to report. you got to do just enough research that you’re sure it’s real. the report-investigate-payout cycle will take 1+ weeks so use that time to research the full impact.
+
+
+---
+
+## 2024-05-18 · Post · on picking bug bounty targets: IMO you need to answer these questions intentionally & the strategy y
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @usmannk — 2024-05-18 23:11 UTC (2024-05-19 00:11 WAT)
+
+- URL: https://x.com/usmannk/status/1791969907539923197
+- Metrics (at fetch): not returned
+
+> on picking bug bounty targets: IMO you need to answer these questions intentionally & the strategy you take should be strongly informed by your choices.
+>
+> defi app, L1/L2 or something else?
+> huge max bounty or lower max bounty?
+> recently audited or stale audits?
+> old code or under active development?
+> new project without reputation or established blue chip?
+
+
+---
+
+## 2024-05-10 · Post · what is p(bug) itself dependent on? very worth thinking about https://twitter.com/brockjelmore/statu
+
+
+### Post — @usmannk — 2024-05-10 21:23 UTC (2024-05-10 22:23 WAT)
+
+- URL: https://x.com/usmannk/status/1789043732861645032
+- Metrics (at fetch): not returned
+
+> what is p(bug) itself dependent on? very worth thinking about https://twitter.com/brockjelmore/status/1789018722805707184
+
+**Links in post:** https://twitter.com/brockjelmore/status/1789018722805707184
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1044242451475632129 — 2024-05-10 19:44 UTC (2024-05-10 20:44 WAT)
+    
+    - URL: https://x.com/1044242451475632129/status/1789018722805707184
+    - Metrics (at fetch): not returned
+    
+    > Lets look at an example and compare the two:
+    >
+    > For AaveV3, which has a $1m bounty on ImmuneFi and 7,000 LoC, a security researcher earns `P(bug) * 1_000_000 / 7_000`, which works out to `P(bug) * 142.86` [pic.x.com/0rMA4JsT16]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GNPelaxbcAIN2K4.png — no alt text provided by author
+    
+
+
+---
+
+## 2024-03-22 · Post · Very similar to when @NervosNetwork @GodwokenRises stiffed me and got kicked off immunefi after I sh
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @usmannk — 2024-03-22 18:17 UTC (2024-03-22 19:17 WAT)
+
+- URL: https://x.com/usmannk/status/1771239876198891559
+- Metrics (at fetch): not returned
+
+> Very similar to when @NervosNetwork @GodwokenRises stiffed me and got kicked off immunefi after I showed how to drain their entire L2 funds (&gt;$25M). 
+>
+> Their team said nonsense like:
+> - "reverting the chain state is an option to fix it"
+> - "we will analyze the abnormal withdrawals" https://twitter.com/0xDjangoOnChain/status/1771220313205825917
+
+**Links in post:** https://twitter.com/0xDjangoOnChain/status/1771220313205825917
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1497970815341637643 — 2024-03-22 17:00 UTC (2024-03-22 18:00 WAT)
+    
+    - URL: https://x.com/1497970815341637643/status/1771220313205825917
+    - Metrics (at fetch): bookmark 128, impression 92126, like 379, quote 14, reply 42, retweet 63
+    
+    > In November, I submitted a critical bug to Cronos (@cronosapp) which they downplayed and have since been kicked off Immunefi. Here's some info about the bug and an example of how projects can simply not pay a fair amount.
+    >
+    > Report: https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc
+    >
+    > tl;dr: 
+    > - It's a simple staking contract where you stake your TONIC and receive xTonic at the current exchange rate. 
+    > - The vulnerability lies in a function called performConversionForERC20() which allows anyone to convert other tokens held by the contract into TONIC. 
+    > - This function is vulnerable to reentrancy because the caller sets an arbitrary swap path and can inject a malicious token in the middle to gain control of execution.
+    > - The contract determines the estimated amount of TONIC that should be received by the swap, and any extra goes to the caller as a reward.
+    > - But since there is reentrancy, the caller can also STAKE their TONIC prior to the above function completion.
+    > - The caller's stake is honored AND they are transferred back their TONIC, essentially receiving free staked tokens.
+    >
+    > Caveat:
+    > There is a 10 day unstaking delay. So the exploiter would not be able to actually convert the staked tokens back into TONIC until the cooldown period had passed.
+    >
+    > What Cronos said:
+    > Thank you for reporting this issue.
+    >
+    > The team has verified that the exploit described can indeed work. From our side, we have safeguards in place to mitigate these risks; such as a 10 days delay period for the xTonic minted. As such, there is a low possibility of the exploit realising; as the issue will be rectified before the exploiter can launder the gotten funds.
+    >
+    > However, we do appreciate your effort in identifying this issue and plan to update the contract to eliminate the risk entirely. In addition, we are happy to reward you with USD1,600 as a token of appreciation.
+    >
+    > Actions:
+    > Cronos fixed the vulnerability immediately, before even responding to the report.
+    >
+    > My thoughts:
+    > Obvious lowball. Cronos's max bounty was $250,000 and they offered $1,600. I understand the technicality with this attack, and would have agreed to a payout less than the max, but the payout would have to accurately represent the value of this report.
+    >
+    > Mediation:
+    > Immunefi mediated twice and confirmed that this report deserved the max bounty. Immunefi told Cronos that a simple unstaking delay is not an adequate means of protection.
+    >
+    > Cronos claimed:
+    >
+    > "We have implemented a robust monitoring framework, consisting of internal systems, protocols, and strategic third-party partnerships, which promptly respond to any anomalies within our smart contracts. This is the standard of any big organization, and we refrain from disclosing further specifics to maintain the integrity of our security protocols."
+    >
+    > When Immunefi asked them to provide any information regarding their automated detection and mitigation processes, Cronos would not comply.
+    >
+    > Result:
+    > Cronos was kicked off Immunefi.
+    >
+    > Final thoughts from Django:
+    > 'Tis the life of a bug hunter.
+    
+    **Links in post:** https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc
+    
+
+
+---
+
+## 2023-08-16 · Post · Remember that projects can simply not pay, whitehat. Should I drop the writeup? [pic.x.com/8BNnJ1rTn
+
+
+### Post — @usmannk — 2023-08-16 22:43 UTC (2023-08-16 23:43 WAT)
+
+- URL: https://x.com/usmannk/status/1691943833511379290
+- Metrics (at fetch): not returned
+
+> Remember that projects can simply not pay, whitehat. Should I drop the writeup? [pic.x.com/8BNnJ1rTnp] https://t.co/JxYEOHFAjY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3r98ZdawAMVs1y.jpg — no alt text provided by author
+
+**Links in post:** https://t.co/JxYEOHFAjY
+
+**Quoted post** 1691788596271833379: not readable via the API (deleted, private, or withheld).

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 54
-- Conversations/threads: 51
-- Oldest post captured: 2024-01-18
+- Posts in this file: 68
+- Conversations/threads: 65
+- Oldest post captured: 2023-08-19
 - Newest post captured: 2026-03-12
 
 
@@ -1033,9 +1033,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @610701963 — 2024-11-12 15:22 UTC (2024-11-12 16:22 WAT)
+    #### Quoted post — @TrustSecAudits — 2024-11-12 15:22 UTC (2024-11-12 16:22 WAT)
     
-    - URL: https://x.com/610701963/status/1856356982766063847
+    - URL: https://x.com/TrustSecAudits/status/1856356982766063847
     - Metrics (at fetch): bookmark 57, impression 47845, like 287, quote 6, reply 21, retweet 50
     
     > Recently the bounty team at TrustSec found another critical leading to live unauthenticated theft of funds. Due to what we consider malicious behavior of the project and especially of @immunefi , not only did the project get away without paying the bounty, but due to a dirty
@@ -1721,3 +1721,406 @@ Tags (automatic): Platform: Immunefi
     
     **Quoted post** 1748069220301095073: not readable via the API (deleted, private, or withheld).
     
+
+
+---
+
+## 2023-12-15 · Post · Thanks @OddlySpecivik for the ImmunefiWrapped, a great way to wrap up the year on @immunefi. Pretty
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2023-12-15 01:04 UTC (2023-12-15 02:04 WAT)
+
+- URL: https://x.com/Guhu95/status/1735465724297277624
+- Metrics (at fetch): not returned
+
+> Thanks @OddlySpecivik for the #ImmunefiWrapped, a great way to wrap up the year on @immunefi. Pretty happy with the results and the accuracy. Hope to have more time for hunting next year! [pic.x.com/r2Uk1kuuRv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBWZoWsaYAE3Y4j.jpg — no alt text provided by author
+
+
+---
+
+## 2023-11-09 · Post · The promised details for the @LybraFinance bug. Why share them?
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2023-11-09 08:36 UTC (2023-11-09 09:36 WAT)
+
+- URL: https://x.com/Guhu95/status/1722533559943287251
+- Metrics (at fetch): not returned
+
+> The promised details for the @LybraFinance bug. Why share them?
+> - Bug was not fixed, so @LybraFinance community should know that whales can unfairly manipulate rewards.
+> - @Immunefi stories are not shared enough, so this may be useful to others.
+>
+> A short thread 👇 https://twitter.com/Guhu95/status/1720659980209287311
+
+**Links in post:** https://twitter.com/Guhu95/status/1720659980209287311
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Guhu95 — 2023-11-04 04:31 UTC (2023-11-04 05:31 WAT)
+    
+    - URL: https://x.com/Guhu95/status/1720659980209287311
+    - Metrics (at fetch): not returned
+    
+    > @code4rena got hands, but it's no silver bullet.
+    >
+    > Got 5K for this one on @immunefi - project decided not to fix due to low likelihood (in their view). Still much better than nothing, so it's a win.
+    >
+    > It also means I am free to share, which I will, as the bug is pretty unusual. [pic.x.com/pVlG6i5IVT] https://twitter.com/Guhu95/status/1703987327469846838
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F-D8irOawAAqRRE.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/Guhu95/status/1703987327469846838
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @Guhu95 — 2023-09-19 04:20 UTC (2023-09-19 05:20 WAT)
+        
+        - URL: https://x.com/Guhu95/status/1703987327469846838
+        - Metrics (at fetch): not returned
+        
+        > Damn, bug hunting in a protocol that went through @code4rena feels much harder than usual - mostly dead ends, already "acknowledged", or minimal impact.
+        
+    
+
+
+---
+
+## 2023-11-04 · Reply · @code4rena got hands, but it's no silver bullet.
+
+
+Tags (automatic): Platform: Immunefi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Guhu95 — 2023-11-04 04:31 UTC (2023-11-04 05:31 WAT)
+
+- URL: https://x.com/Guhu95/status/1720659980209287311
+- Metrics (at fetch): not returned
+
+> @code4rena got hands, but it's no silver bullet.
+>
+> Got 5K for this one on @immunefi - project decided not to fix due to low likelihood (in their view). Still much better than nothing, so it's a win.
+>
+> It also means I am free to share, which I will, as the bug is pretty unusual. [pic.x.com/pVlG6i5IVT] https://twitter.com/Guhu95/status/1703987327469846838
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-D8irOawAAqRRE.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Guhu95/status/1703987327469846838
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Guhu95 — 2023-09-19 04:20 UTC (2023-09-19 05:20 WAT)
+    
+    - URL: https://x.com/Guhu95/status/1703987327469846838
+    - Metrics (at fetch): not returned
+    
+    > Damn, bug hunting in a protocol that went through @code4rena feels much harder than usual - mostly dead ends, already "acknowledged", or minimal impact.
+    
+
+
+---
+
+## 2023-10-15 · Post · Was your @Immunefi bounty nerfed due to "repeated attacks", and only first attack counted? Here's ev
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2023-10-15 01:06 UTC (2023-10-15 02:06 WAT)
+
+- URL: https://x.com/Guhu95/status/1713360634384163166
+- Metrics (at fetch): not returned
+
+> Was your @Immunefi bounty nerfed due to "repeated attacks", and only first attack counted? Here's evidence for next time to refute with. TL;DR: projects are very slow to react, only 2% reacted within the first hour. 
+>
+> Projects should only be allowed to use "first hour" clause in their programs, instead of "first attack". Mediation rules should also be corrected.
+>
+> Or should we instead ask the blackhats to limit themselves to one attack too?
+
+**Links in post:** https://twitter.com/dannygfromnyc/status/1670416136478003203
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1548683514006192128 — 2023-06-18 13:00 UTC (2023-06-18 14:00 WAT)
+    
+    - URL: https://x.com/1548683514006192128/status/1670416136478003203
+    - Metrics (at fetch): not returned
+    
+    > 5/
+    >
+    > Emergency Pauses Analysis
+    >
+    > - 47.5% of the protocols supported "pause" functionality
+    >
+    > - 58.6% pause the protocol within 48 hours of incident
+    >
+    > - Only 1 protocol paused within the first hour [pic.x.com/FBEpDVBoR2]
+    
+    **Media:**
+    - media `3_1670416128626270208` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-15 · Post · Was your @Immunefi bounty nerfed due to "repeated attacks", so that only the first attack counted? T
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2023-10-15 01:02 UTC (2023-10-15 02:02 WAT)
+
+- URL: https://x.com/Guhu95/status/1713359694373478657
+- Metrics (at fetch): not returned
+
+> Was your @Immunefi bounty nerfed due to "repeated attacks", so that only the first attack counted? This is some evidence to use next time to refute such imaginary "defences". 
+>
+> TL;DR - projects are very slow to react, only 2% reacted within the first hour.
+>
+> From this:
+> 1) The rule should be "first hour" instead of "first attack". 
+> 2) Projects should only be allowed to use "first hour" clause in their programs, instead of "first attack". 
+>
+> Or should we instead ask the blackhats to limit themselves to one attack too?
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1548683514006192128 — 2023-06-18 13:00 UTC (2023-06-18 14:00 WAT)
+    
+    - URL: https://x.com/1548683514006192128/status/1670416136478003203
+    - Metrics (at fetch): not returned
+    
+    > 5/
+    >
+    > Emergency Pauses Analysis
+    >
+    > - 47.5% of the protocols supported "pause" functionality
+    >
+    > - 58.6% pause the protocol within 48 hours of incident
+    >
+    > - Only 1 protocol paused within the first hour [pic.x.com/FBEpDVBoR2]
+    
+    **Media:**
+    - media `3_1670416128626270208` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-13 · Post · Thanks! Auditing @Kwenta_io 's StakingV2 was a pleasure. The team's exceptionally high engineering s
+
+
+### Post — @Guhu95 — 2023-10-13 02:25 UTC (2023-10-13 03:25 WAT)
+
+- URL: https://x.com/Guhu95/status/1712655700374196596
+- Metrics (at fetch): not returned
+
+> Thanks! Auditing @Kwenta_io 's StakingV2 was a pleasure. The team's exceptionally high engineering standards, detailed docs, and quick and thorough comms ensured both a productive and an enjoyable audit. Happy to help 🤝 https://twitter.com/SNX_Exchange/status/1712113364338405701
+
+**Links in post:** https://twitter.com/SNX_Exchange/status/1712113364338405701
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1256020146360971264 — 2023-10-11 14:30 UTC (2023-10-11 15:30 WAT)
+    
+    - URL: https://x.com/1256020146360971264/status/1712113364338405701
+    - Metrics (at fetch): not returned
+    
+    > What about reliability and security? 🔒
+    >
+    > Kwenta's worked in conjunction with auditors to identify and prevent potential issues. We'd like to give a special shoutout to @Guhu95 for having exceptional attention to detail, and being a pleasure to work with. 🤝
+    
+
+
+---
+
+## 2023-10-06 · Post · When to move on from a codebase when bounty-hunting? Here's my approach, curious to hear other opini
+
+
+### Post — @Guhu95 — 2023-10-06 08:45 UTC (2023-10-06 09:45 WAT)
+
+- URL: https://x.com/Guhu95/status/1710214685264371904
+- Metrics (at fetch): not returned
+
+> When to move on from a codebase when bounty-hunting? Here's my approach, curious to hear other opinions!
+>
+> First, why not just wing it? 
+> 1. Constant effort to make high-stakes decisions is exhausting.
+> 2. Second-guessing yourself is emotionally draining. 
+> 3. Hurts performance and focus because it's a repeated distraction.
+>
+> What I do now: an audit-like time-box: rough expected-value of reward divided by the cost of an audit day. Simple.
+>
+> So, Critical-Reward x P(find) x P(getting-paid) / Audit-Day-Price = Hunt-days. 
+>
+> I usually estimate P(find) at 10-20% depending on code quality, and P(getting-paid) depends on the sketchiness of project🫠. 
+>
+> The probabilities are a guess, but this really helps keep a positive, focused mindset knowing I followed a rational process.
+
+**Links in post:** https://twitter.com/Guhu95/status/1703987327469846838
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Guhu95 — 2023-09-19 04:20 UTC (2023-09-19 05:20 WAT)
+    
+    - URL: https://x.com/Guhu95/status/1703987327469846838
+    - Metrics (at fetch): not returned
+    
+    > Damn, bug hunting in a protocol that went through @code4rena feels much harder than usual - mostly dead ends, already "acknowledged", or minimal impact.
+    
+
+
+---
+
+## 2023-09-20 · Post · Life-hack for complex codebases: replace the interfaces with contracts. 
+
+
+### Post — @Guhu95 — 2023-09-20 04:15 UTC (2023-09-20 05:15 WAT)
+
+- URL: https://x.com/Guhu95/status/1704348640805077296
+- Metrics (at fetch): not returned
+
+> Life-hack for complex codebases: replace the interfaces with contracts. 
+>
+> Two main benefits:
+> - Going from usage to definition goes to actual code.
+> - Going from code to references shows all actual callers.
+>
+> (May need to resolve some cyclical references)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6cPgDgaUAA9R9f.png — no alt text provided by author
+
+
+---
+
+## 2023-09-20 · Post · Life-hack for complex codebases: replace the interfaces with contracts. 
+
+
+### Post — @Guhu95 — 2023-09-20 04:13 UTC (2023-09-20 05:13 WAT)
+
+- URL: https://x.com/Guhu95/status/1704348061273878768
+- Metrics (at fetch): not returned
+
+> Life-hack for complex codebases: replace the interfaces with contracts. 
+>
+> Two main benefits:
+> - Going to method definition goes to actual code.
+> - Going to references shows all callers.
+>
+> (May need to resolve some cyclical references)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6cPgDgaUAA9R9f.png — no alt text provided by author
+
+
+---
+
+## 2023-09-20 · Post · Life-hack for complex codebases: replace the interfaces with contracts. 
+
+
+### Post — @Guhu95 — 2023-09-20 04:09 UTC (2023-09-20 05:09 WAT)
+
+- URL: https://x.com/Guhu95/status/1704347039935696990
+- Metrics (at fetch): not returned
+
+> Life-hack for complex codebases: replace the interfaces with contracts. 
+>
+> Two main benefits:
+> - Going to method definition goes to actual code.
+> - Going to references shows all callers.
+>
+> (May need to resolve some cyclical references)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6cNVV4bQAAtpgY.png — no alt text provided by author
+
+
+---
+
+## 2023-09-20 · Post · Life-hack for complex codebases: replace the interfaces with contracts. 
+
+
+### Post — @Guhu95 — 2023-09-20 04:07 UTC (2023-09-20 05:07 WAT)
+
+- URL: https://x.com/Guhu95/status/1704346589136146480
+- Metrics (at fetch): not returned
+
+> Life-hack for complex codebases: replace the interfaces with contracts. 
+>
+> Two huge benefits:
+> - Going to method definition goes to actual code.
+> - Going to references shows all callers.
+>
+> (May need to resolve some cyclical references)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6cNVV4bQAAtpgY.png — no alt text provided by author
+
+
+---
+
+## 2023-09-20 · Post · Life-hack for complex codebases: replace the interfaces with contracts. 
+
+
+### Post — @Guhu95 — 2023-09-20 04:07 UTC (2023-09-20 05:07 WAT)
+
+- URL: https://x.com/Guhu95/status/1704346504759283773
+- Metrics (at fetch): not returned
+
+> Life-hack for complex codebases: replace the interfaces with contracts. 
+>
+> Two huge benefits:
+> - Going to method definition goes to actual code.
+> - Going to references shows all callers.
+>
+> (May need to resolve some cyclical references)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6cNVV4bQAAtpgY.png — no alt text provided by author
+
+
+---
+
+## 2023-09-19 · Post · Damn, bug hunting in a protocol that went through @code4rena feels much harder than usual - mostly d
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Guhu95 — 2023-09-19 04:20 UTC (2023-09-19 05:20 WAT)
+
+- URL: https://x.com/Guhu95/status/1703987327469846838
+- Metrics (at fetch): not returned
+
+> Damn, bug hunting in a protocol that went through @code4rena feels much harder than usual - mostly dead ends, already "acknowledged", or minimal impact.
+
+
+---
+
+## 2023-08-19 · Post · Made it to the @immunefi leaderboard 😎 [pic.x.com/UumXBwjlFd]
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Guhu95 — 2023-08-19 10:47 UTC (2023-08-19 11:47 WAT)
+
+- URL: https://x.com/Guhu95/status/1692850687682760982
+- Metrics (at fetch): not returned
+
+> Made it to the @immunefi leaderboard 😎 [pic.x.com/UumXBwjlFd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F342uM9boAAECuC.jpg — no alt text provided by author

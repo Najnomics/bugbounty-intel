@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 30
-- Conversations/threads: 30
-- Oldest post captured: 2025-04-09
+- Posts in this file: 65
+- Conversations/threads: 65
+- Oldest post captured: 2024-03-10
 - Newest post captured: 2026-10-31
 
 
@@ -635,3 +635,631 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 > Be patient! It takes time to get your first valid report, but every step teaches you something valuable.
 >
 > #bugbountytips #security #bugcrowd
+
+
+---
+
+## 2025-02-18 · Post · I earned $3,750 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2025-02-18 16:44 UTC (2025-02-18 17:44 WAT)
+
+- URL: https://x.com/RootxRavi/status/1891891592312533394
+- Metrics (at fetch): bookmark 9, impression 5528, like 123, quote 0, reply 11, retweet 6
+
+> I earned $3,750 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+
+
+---
+
+## 2025-01-18 · Post · Grateful to be on the @Bugcrowd leaderboard for the month of December! Thank you, Bugcrowd, for the 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2025-01-18 21:03 UTC (2025-01-18 22:03 WAT)
+
+- URL: https://x.com/RootxRavi/status/1880722810504712501
+- Metrics (at fetch): bookmark 5, impression 4822, like 98, quote 0, reply 12, retweet 1
+
+> Grateful to be on the @Bugcrowd leaderboard for the month of December! Thank you, Bugcrowd, for the amazing opportunity ❤️ https://t.co/a3kW8o6vEM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhmrQIVaQAAgvWL.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GhmrYFFaEAAV4Fi.png — no alt text provided by author
+
+
+---
+
+## 2024-12-31 · Post · It’s time to wrap up 2024 with one last bounty! https://t.co/ByUdMbNFzA
+
+
+### Post — @RootxRavi — 2024-12-31 15:42 UTC (2024-12-31 16:42 WAT)
+
+- URL: https://x.com/RootxRavi/status/1874119048537272524
+- Metrics (at fetch): bookmark 3, impression 3379, like 71, quote 0, reply 1, retweet 0
+
+> It’s time to wrap up 2024 with one last bounty! https://t.co/ByUdMbNFzA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgI0SefbYAAa1fN.png — no alt text provided by author
+
+
+---
+
+## 2024-12-19 · Post · Under 200 ✅ @Bugcrowd https://t.co/1PKTS0TGW0
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-12-19 14:17 UTC (2024-12-19 15:17 WAT)
+
+- URL: https://x.com/RootxRavi/status/1869748988351848494
+- Metrics (at fetch): bookmark 1, impression 3984, like 94, quote 1, reply 11, retweet 0
+
+> Under 200 ✅ @Bugcrowd https://t.co/1PKTS0TGW0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GfKujcwaMAA0xLd.png — no alt text provided by author
+
+
+---
+
+## 2024-12-12 · Reply · @Bugcrowd 🫶😍 https://t.co/cYHR5PHSWX
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-12-12 06:50 UTC (2024-12-12 07:50 WAT)
+
+- URL: https://x.com/RootxRavi/status/1867099725046190254
+- Metrics (at fetch): bookmark 0, impression 1063, like 42, quote 0, reply 2, retweet 0
+
+> @Bugcrowd 🫶😍 https://t.co/cYHR5PHSWX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GelFTKrboAAMqMB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-08 · Post · I earned $1600 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-12-08 17:13 UTC (2024-12-08 18:13 WAT)
+
+- URL: https://x.com/RootxRavi/status/1865806846839185867
+- Metrics (at fetch): bookmark 6, impression 5070, like 97, quote 0, reply 7, retweet 1
+
+> I earned $1600 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+
+
+---
+
+## 2024-11-06 · Post · I earned $10,000 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-11-06 03:06 UTC (2024-11-06 04:06 WAT)
+
+- URL: https://x.com/RootxRavi/status/1853997240198509047
+- Metrics (at fetch): bookmark 25, impression 13448, like 222, quote 0, reply 39, retweet 3
+
+> I earned $10,000 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+
+
+---
+
+## 2024-10-23 · Post · I earned $800 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-10-23 01:51 UTC (2024-10-23 02:51 WAT)
+
+- URL: https://x.com/RootxRavi/status/1848905062241722420
+- Metrics (at fetch): bookmark 11, impression 4802, like 75, quote 0, reply 2, retweet 4
+
+> I earned $800 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+
+
+---
+
+## 2024-10-22 · Post · 🎉Excited to announce I've earned the Offensive Security Certified Professional (OSCP) certification!
+
+
+### Post — @RootxRavi — 2024-10-22 06:23 UTC (2024-10-22 07:23 WAT)
+
+- URL: https://x.com/RootxRavi/status/1848611189980369161
+- Metrics (at fetch): bookmark 5, impression 7950, like 130, quote 0, reply 15, retweet 3
+
+> 🎉Excited to announce I've earned the Offensive Security Certified Professional (OSCP) certification! 🎓💻 From Bug Bounty to OSCP, it's been a challenging yet rewarding journey. 💪Huge thanks to @offsectraining  for the amazing exam and everyone who supported me! 🚀 #oscp https://t.co/jinQI8EdJ8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GaeVDKmWMAAa2be.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-12 · Post · Here we go @Bugcrowd 🫶 https://t.co/v5U4UYYsuz
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-10-12 11:28 UTC (2024-10-12 12:28 WAT)
+
+- URL: https://x.com/RootxRavi/status/1845063996052820156
+- Metrics (at fetch): bookmark 2, impression 3688, like 98, quote 0, reply 3, retweet 1
+
+> Here we go @Bugcrowd 🫶 https://t.co/v5U4UYYsuz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZr76l2XUAwSh-c.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-02 · Post · In September, I submitted several bugs on @Bugcrowd  and earned $3,900 in one month. I discovered so
+
+
+Tags (automatic): IDOR / BOLA, Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-10-02 07:25 UTC (2024-10-02 08:25 WAT)
+
+- URL: https://x.com/RootxRavi/status/1841379072753963447
+- Metrics (at fetch): bookmark 42, impression 10017, like 159, quote 0, reply 9, retweet 4
+
+> In September, I submitted several bugs on @Bugcrowd  and earned $3,900 in one month. I discovered some interesting vulnerabilities related to BAC/IDOR and will be sharing a write-up soon.
+> #BugBounty
+
+
+---
+
+## 2024-10-02 · Post · 2K ✅ @Bugcrowd [pic.x.com/FucW2zJ9B8]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-10-02 02:50 UTC (2024-10-02 03:50 WAT)
+
+- URL: https://x.com/RootxRavi/status/1841309655970042106
+- Metrics (at fetch): not returned
+
+> 2K ✅ @Bugcrowd [pic.x.com/FucW2zJ9B8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY2k-pPXAAID9bE.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-16 · Post · After a two-year, I again started bug hunting through Google's Dork Responsible Disclosure program. 
+
+
+### Post — @RootxRavi — 2024-08-16 15:28 UTC (2024-08-16 16:28 WAT)
+
+- URL: https://x.com/RootxRavi/status/1824468273544524084
+- Metrics (at fetch): not returned
+
+> After a two-year, I again started bug hunting through Google's Dork Responsible Disclosure program. Within a week, I discovered a critical vulnerability that earned me €500. I was able to access their admin account using default credentials.
+> The process started with enumerating the JavaScript files, where I found an admin endpoint leaking the username, such as 'NetUser.' I then tried 'NetPassword' as the password, and it successfully granted admin access
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVHQOKLXEAA1wW7.png — no alt text provided by author
+
+
+---
+
+## 2024-08-16 · Post · After a two-year, I again started bug hunting through Google's Dork Responsible Disclosure program. 
+
+
+### Post — @RootxRavi — 2024-08-16 15:22 UTC (2024-08-16 16:22 WAT)
+
+- URL: https://x.com/RootxRavi/status/1824466876639891867
+- Metrics (at fetch): not returned
+
+> After a two-year, I again started bug hunting through Google's Dork Responsible Disclosure program. Within a week, I discovered a critical vulnerability that earned me €500. I was able to access their admin account using default credentials.
+> The process started with enumerating the JavaScript files, where I found an admin endpoint leaking the username, such as 'NetUser.' I then tried 'NetPassword' as the password, and it successfully granted admin access
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVHNBEsXAAALbhy.png — no alt text provided by author
+
+
+---
+
+## 2024-08-15 · Post · Clearing drafts Easy Bug 🥲
+
+
+### Post — @RootxRavi — 2024-08-15 11:57 UTC (2024-08-15 12:57 WAT)
+
+- URL: https://x.com/RootxRavi/status/1824052852295172586
+- Metrics (at fetch): not returned
+
+> Clearing drafts Easy Bug 🥲
+> #bugbountytip #bugbounty
+>
+> https://rootxravi.medium.com/exposed-invoice-urls-a-gateway-to-customer-client-pii-leakage-dabe59689144
+
+**Links in post:** https://rootxravi.medium.com/exposed-invoice-urls-a-gateway-to-customer-client-pii-leakage-dabe59689144
+
+
+---
+
+## 2024-08-15 · Post · Clearing drafts Easy Bug 
+
+
+### Post — @RootxRavi — 2024-08-15 11:55 UTC (2024-08-15 12:55 WAT)
+
+- URL: https://x.com/RootxRavi/status/1824052389147558126
+- Metrics (at fetch): not returned
+
+> Clearing drafts Easy Bug 
+> #bugbountytip #bugbounty
+>
+> https://rootxravi.medium.com/exposed-invoice-urls-a-gateway-to-customer-client-pii-leakage-dabe59689144
+
+**Links in post:** https://rootxravi.medium.com/exposed-invoice-urls-a-gateway-to-customer-client-pii-leakage-dabe59689144
+
+
+---
+
+## 2024-07-23 · Post · I earned $500 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-07-23 13:32 UTC (2024-07-23 14:32 WAT)
+
+- URL: https://x.com/RootxRavi/status/1815741692403761302
+- Metrics (at fetch): not returned
+
+> I earned $500 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-07-03 · Post · I earned $1850 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-07-03 12:39 UTC (2024-07-03 13:39 WAT)
+
+- URL: https://x.com/RootxRavi/status/1808480634509074714
+- Metrics (at fetch): not returned
+
+> I earned $1850 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-06-29 · Post · Never reported SSRF !! anyone have good resources for leanings  please do share
+
+
+Tags (automatic): SSRF
+
+
+### Post — @RootxRavi — 2024-06-29 15:18 UTC (2024-06-29 16:18 WAT)
+
+- URL: https://x.com/RootxRavi/status/1807071240529608904
+- Metrics (at fetch): not returned
+
+> Never reported SSRF !! anyone have good resources for leanings  please do share
+
+
+---
+
+## 2024-06-28 · Post · I earned $850 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-06-28 17:22 UTC (2024-06-28 18:22 WAT)
+
+- URL: https://x.com/RootxRavi/status/1806739961586348367
+- Metrics (at fetch): not returned
+
+> I earned $850 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-06-27 · Post · I earned $450 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-06-27 16:20 UTC (2024-06-27 17:20 WAT)
+
+- URL: https://x.com/RootxRavi/status/1806361874591621592
+- Metrics (at fetch): not returned
+
+> I earned $450 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-06-25 · Post · I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-06-25 13:54 UTC (2024-06-25 14:54 WAT)
+
+- URL: https://x.com/RootxRavi/status/1805600352521113847
+- Metrics (at fetch): not returned
+
+> I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-06-23 · Post · Here we go, Weekend Stats:
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @RootxRavi — 2024-06-23 19:51 UTC (2024-06-23 20:51 WAT)
+
+- URL: https://x.com/RootxRavi/status/1804965437358182799
+- Metrics (at fetch): not returned
+
+> Here we go, Weekend Stats:
+> 1. P1: Auth Bypass
+> 2. P3: Sensitive Document exposed (Private &amp; Confidential) and JS file Data Leak
+> 3. P4: Misconfiguration [pic.x.com/FMluaIrLoG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQyFXY_WsAAoMTs.png — no alt text provided by author
+
+
+---
+
+## 2024-06-22 · Post · I earned $700 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-06-22 11:55 UTC (2024-06-22 12:55 WAT)
+
+- URL: https://x.com/RootxRavi/status/1804483270547030109
+- Metrics (at fetch): not returned
+
+> I earned $700 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-06-11 · Post · I earned $500 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-06-11 19:08 UTC (2024-06-11 20:08 WAT)
+
+- URL: https://x.com/RootxRavi/status/1800606101853085892
+- Metrics (at fetch): not returned
+
+> I earned $500 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-05-17 · Post · Thank you, @Bugcrowd , for the awesome hoodie! [pic.x.com/tpa8LJkxvq]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-05-17 13:43 UTC (2024-05-17 14:43 WAT)
+
+- URL: https://x.com/RootxRavi/status/1791464518867927470
+- Metrics (at fetch): not returned
+
+> Thank you, @Bugcrowd , for the awesome hoodie! [pic.x.com/tpa8LJkxvq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNyPahPXAAA9UMk.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GNyPdxxWcAEaxJe.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-26 · Post · I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-04-26 16:20 UTC (2024-04-26 17:20 WAT)
+
+- URL: https://x.com/RootxRavi/status/1783893907056492867
+- Metrics (at fetch): not returned
+
+> I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-04-19 · Post · I earned $250 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-04-19 07:12 UTC (2024-04-19 08:12 WAT)
+
+- URL: https://x.com/RootxRavi/status/1781219200154886528
+- Metrics (at fetch): not returned
+
+> I earned $250 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-04-05 · Post · I earned $100 x 3 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-04-05 16:53 UTC (2024-04-05 17:53 WAT)
+
+- URL: https://x.com/RootxRavi/status/1776292159215300659
+- Metrics (at fetch): not returned
+
+> I earned $100 x 3 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-03-27 · Post · I earned $3,000 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-03-27 15:52 UTC (2024-03-27 16:52 WAT)
+
+- URL: https://x.com/RootxRavi/status/1773015217053548801
+- Metrics (at fetch): not returned
+
+> I earned $3,000 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-03-26 · Post · I earned $400 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-03-26 19:19 UTC (2024-03-26 20:19 WAT)
+
+- URL: https://x.com/RootxRavi/status/1772704831909564852
+- Metrics (at fetch): not returned
+
+> I earned $400 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-03-14 · Post · I earned $700 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-03-14 03:52 UTC (2024-03-14 04:52 WAT)
+
+- URL: https://x.com/RootxRavi/status/1768122974907814087
+- Metrics (at fetch): not returned
+
+> I earned $700 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-03-12 · Post · Have you ever had an experience😂🥲
+
+
+### Post — @RootxRavi — 2024-03-12 05:36 UTC (2024-03-12 06:36 WAT)
+
+- URL: https://x.com/RootxRavi/status/1767424524113330351
+- Metrics (at fetch): not returned
+
+> Have you ever had an experience😂🥲
+> #bugbounty #security #bounty [pic.x.com/YkvJSpiZ6I]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-03-12 · Post · P1 Warrior Top 100 @Bugcrowd [pic.x.com/K3L5NFgJ5P]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-03-12 03:43 UTC (2024-03-12 04:43 WAT)
+
+- URL: https://x.com/RootxRavi/status/1767396019510059325
+- Metrics (at fetch): not returned
+
+> P1 Warrior Top 100 @Bugcrowd [pic.x.com/K3L5NFgJ5P]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIcNSzxWIAATynE.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-10 · Post · Under 300 @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2024-03-10 10:45 UTC (2024-03-10 11:45 WAT)
+
+- URL: https://x.com/RootxRavi/status/1766777348630683720
+- Metrics (at fetch): not returned
+
+> Under 300 @Bugcrowd 
+>
+> #BugBounty #hacking [pic.x.com/V8d2cHEpkG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GITaf8YWcAAznL_.jpg — no alt text provided by author

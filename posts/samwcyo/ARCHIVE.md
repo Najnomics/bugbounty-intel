@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 42
-- Conversations/threads: 41
-- Oldest post captured: 2023-12-18
+- Posts in this file: 81
+- Conversations/threads: 80
+- Oldest post captured: 2019-12-21
 - Newest post captured: 2026-11-11
 
 
@@ -655,10 +655,12 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     - URL: https://x.com/trailofbits/status/1752109824282910869
     - Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
     
-    > Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://t.co/Rdqy3LvKSR https://t.co/c2sT5xM1T1
+    > Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews [pic.x.com/c2sT5xM1T1]
     
     **Media:**
-    - media `3_1752109000207085568` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/GFC92kUbsAAvuiO.png — no alt text provided by author
+    
+    **Links in post:** https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews
     
 
 
@@ -734,3 +736,856 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 3, impression 12324, like 56, quote 0, reply 10, retweet 5
 
 > Do you think cybersecurity companies are receptive to public disclosure for vulnerabilities in their own products? For how large these companies are and how complicated their attack surface is, I don’t see many shared findings. It often feels like they’re left out of the picture.
+
+
+---
+
+## 2023-11-09 · Post · “Holy shit! It worked! I am abusing Akamai, to abuse F5, to abuse traffic routes, to steal NTLM cred
+
+
+### Post — @samwcyo — 2023-11-09 16:57 UTC (2023-11-09 17:57 WAT)
+
+- URL: https://x.com/samwcyo/status/1722659752621064405
+- Metrics (at fetch): not returned
+
+> “Holy shit! It worked! I am abusing Akamai, to abuse F5, to abuse traffic routes, to steal NTLM credentials” - really awesome research https://twitter.com/albinowax/status/1722643559944245354
+
+**Links in post:** https://twitter.com/albinowax/status/1722643559944245354
+
+**Quoted post (full text):**
+
+    #### Quoted post — @albinowax — 2023-11-09 15:53 UTC (2023-11-09 16:53 WAT)
+    
+    - URL: https://x.com/albinowax/status/1722643559944245354
+    - Metrics (at fetch): not returned
+    
+    > There's still a load of potential for further research and discoveries in HTTP request smuggling. This massive-impact finding from @deadvolvo exploiting Akamai/F5 is a great example:
+    > https://blog.malicious.group/from-akamai-to-f5-to-ntlm/
+    
+    **Links in post:** https://blog.malicious.group/from-akamai-to-f5-to-ntlm/
+    
+
+
+---
+
+## 2023-09-20 · Post · Happy to have participated in the inaugural election security research forum at MITRE where we spent
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @samwcyo — 2023-09-20 18:41 UTC (2023-09-20 19:41 WAT)
+
+- URL: https://x.com/samwcyo/status/1704566343117271493
+- Metrics (at fetch): not returned
+
+> Happy to have participated in the inaugural election security research forum at MITRE where we spent time auditing US voting systems. Thanks to @CISAgov, @Hacker0x01, @Bugcrowd, @jackhcable, and everyone who helped put the event together. [pic.x.com/lzLdAr5333]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6fWDYqWEAAEk0V.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F6fWDYrWAAAb_TT.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-24 · Post · If crypto has been great for one thing, it would be inspiring people to come up with interesting att
+
+
+### Post — @samwcyo — 2023-08-24 20:22 UTC (2023-08-24 21:22 WAT)
+
+- URL: https://x.com/samwcyo/status/1694807520336888230
+- Metrics (at fetch): not returned
+
+> If crypto has been great for one thing, it would be inspiring people to come up with interesting attack scenarios to steal money.
+>
+> One of the best blogs to just sift through for a while and read how absurd some of these attacks have been is https://rekt.news from @RektHQ https://twitter.com/iblametom/status/1694739330848153910
+
+**Links in post:** https://rekt.news, https://twitter.com/iblametom/status/1694739330848153910
+
+**Quoted post (full text):**
+
+    #### Quoted post — @139362186 — 2023-08-24 15:51 UTC (2023-08-24 16:51 WAT)
+    
+    - URL: https://x.com/139362186/status/1694739330848153910
+    - Metrics (at fetch): not returned
+    
+    > NEW - The DEA seized $500,000 in crypto, alleging it derived from drug trafficking.
+    >
+    > It then accidentally sent $50,000 of that half a mil to a scammer who has made hundreds of thousands in a few months with a simple scheme...
+    >
+    > https://www.forbes.com/sites/thomasbrewster/2023/08/24/dea-accidentally-sends-50000-in-drug-proceeds-to-crypto-scammer/
+    
+    **Links in post:** https://www.forbes.com/sites/thomasbrewster/2023/08/24/dea-accidentally-sends-50000-in-drug-proceeds-to-crypto-scammer/
+    
+
+
+---
+
+## 2023-08-03 · Post · New writeup:
+
+
+### Post — @samwcyo — 2023-08-03 17:59 UTC (2023-08-03 18:59 WAT)
+
+- URL: https://x.com/samwcyo/status/1687161209202622487
+- Metrics (at fetch): not returned
+
+> New writeup:
+>
+> Between March, 2023 and May, 2023 we found multiple critical vulnerabilities in points[.]com the global provider for major airline and hotel rewards programs.
+>
+> Full post is available here:
+> https://samcurry.net/Points-com/
+>
+> Work from:
+> @infosec_au @iangcarroll
+
+**Links in post:** https://samcurry.net/Points-com/
+
+
+---
+
+## 2023-08-03 · Post · New writeup:
+
+
+### Post — @samwcyo — 2023-08-03 17:37 UTC (2023-08-03 18:37 WAT)
+
+- URL: https://x.com/samwcyo/status/1687155832868278273
+- Metrics (at fetch): not returned
+
+> New writeup:
+>
+> Between March, 2023 and May, 2023 we found multiple critical vulnerabilities in points[.]com the global provider for major airline and hotel rewards programs.
+>
+> Full post is available here:
+> https://samcurry.net/points/
+>
+> Work from:
+> @infosec_au @iangcarroll
+
+**Links in post:** https://samcurry.net/points/
+
+
+---
+
+## 2023-08-03 · Post · New writeup!
+
+
+### Post — @samwcyo — 2023-08-03 17:35 UTC (2023-08-03 18:35 WAT)
+
+- URL: https://x.com/samwcyo/status/1687155318831136769
+- Metrics (at fetch): not returned
+
+> New writeup!
+>
+> Between March, 2023 and May, 2023 we found multiple critical vulnerabilities in points[.]com the global provider for major airline and hotel rewards programs.
+>
+> Full post is available here:
+> https://samcurry.net/points/
+>
+> Work from:
+> @infosec_au @iangcarroll
+
+**Links in post:** https://samcurry.net/points/
+
+
+---
+
+## 2023-08-03 · Post · New writeup!
+
+
+### Post — @samwcyo — 2023-08-03 17:34 UTC (2023-08-03 18:34 WAT)
+
+- URL: https://x.com/samwcyo/status/1687155045677080576
+- Metrics (at fetch): not returned
+
+> New writeup!
+>
+> "Between March, 2023 and May, 2023 we found multiple critical vulnerabilities in points[.]com the global provider for major airline and hotel rewards programs."
+>
+> Full post is available here:
+> https://samcurry.net/points/
+>
+> Work from:
+> @infosec_au @iangcarroll
+
+**Links in post:** https://samcurry.net/points/
+
+
+---
+
+## 2023-07-27 · Post · Instead of getting banned from Akamai, bug bounty hunters are going to get their hardware integrity 
+
+
+### Post — @samwcyo — 2023-07-27 05:45 UTC (2023-07-27 06:45 WAT)
+
+- URL: https://x.com/samwcyo/status/1684439754849259521
+- Metrics (at fetch): not returned
+
+> Instead of getting banned from Akamai, bug bounty hunters are going to get their hardware integrity scores nuked to the point they can’t register or post anywhere. If this gets wide scale implementation the internet is going to be a very different place for everyone. https://twitter.com/gf_256/status/1683875257881436164
+
+**Links in post:** https://twitter.com/gf_256/status/1683875257881436164
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1126385176467124224 — 2023-07-25 16:22 UTC (2023-07-25 17:22 WAT)
+    
+    - URL: https://x.com/1126385176467124224/status/1683875257881436164
+    - Metrics (at fetch): not returned
+    
+    > yea its already here lol https://httptoolkit.com/blog/apple-private-access-tokens-attestation/
+    
+    **Links in post:** https://httptoolkit.com/blog/apple-private-access-tokens-attestation/
+    
+
+
+---
+
+## 2022-11-08 · Post · Between July 7th to July 17th, 2022, we formed a small team of hackers and collectively hunted for v
+
+
+### Post — @samwcyo — 2022-11-08 05:53 UTC (2022-11-08 06:53 WAT)
+
+- URL: https://x.com/samwcyo/status/1589858684427210752
+- Metrics (at fetch): not returned
+
+> Between July 7th to July 17th, 2022, we formed a small team of hackers and collectively hunted for vulnerabilities on John Deere’s security program.
+>
+> During our 10 day engagement, we found 100 unique vulnerabilities with 50 rated critical, 32 high, 14 medium, and 4 low severity.
+
+
+---
+
+## 2022-09-21 · Post · New blog post detailing some findings from auditing the Next.js ecosystem:
+
+
+Tags (automatic): XSS
+
+
+### Post — @samwcyo — 2022-09-21 23:41 UTC (2022-09-22 00:41 WAT)
+
+- URL: https://x.com/samwcyo/status/1572732708261724160
+- Metrics (at fetch): not returned
+
+> New blog post detailing some findings from auditing the Next.js ecosystem:
+>
+> "Exploiting Web3's Hidden Attack Surface: Universal XSS on Netlify's Next.js Library"
+>
+> Huge thanks to @infosec_au and @bbuerhaus for helping explore this!
+>
+> https://samcurry.net/universal-xss-on-netlifys-next-js-library
+
+**Links in post:** https://samcurry.net/universal-xss-on-netlifys-next-js-library
+
+
+---
+
+## 2022-09-16 · Post · Someone hacked an Uber employees HackerOne account and is commenting on all of the tickets. They lik
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2022-09-16 00:58 UTC (2022-09-16 01:58 WAT)
+
+- URL: https://x.com/samwcyo/status/1570577801790783493
+- Metrics (at fetch): not returned
+
+> Someone hacked an Uber employees HackerOne account and is commenting on all of the tickets. They likely have access to all of the Uber HackerOne reports. [pic.x.com/00j8V3kcoE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcvQLz7XEAIhXG8.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-26 · Post · Been working on some neat stuff which we can hopefully release soon:
+
+
+### Post — @samwcyo — 2022-08-26 03:46 UTC (2022-08-26 04:46 WAT)
+
+- URL: https://x.com/samwcyo/status/1563009993980358656
+- Metrics (at fetch): not returned
+
+> Been working on some neat stuff which we can hopefully release soon:
+>
+> - Found &gt;50 critical bugs on a large target as a small team, wrote a long blog post for it (pending approval)
+> - Collaborated with @infosec_au on an 0day (pending approval)
+>
+> Wish I could share them both now! 😄
+
+
+---
+
+## 2022-08-14 · Post · Super super impressed by the research from @erbbysam and @Rhynorater in their talk "Crossing the KAS
+
+
+### Post — @samwcyo — 2022-08-14 20:45 UTC (2022-08-14 21:45 WAT)
+
+- URL: https://x.com/samwcyo/status/1558917694522413056
+- Metrics (at fetch): not returned
+
+> Super super impressed by the research from @erbbysam and @Rhynorater in their talk "Crossing the KASM - a webapp pentest story". Captured the entire essence of bug hunting and detailed a really neat niche issue affecting a complicated implementation. Great takeaways for hunters.
+
+
+---
+
+## 2022-08-06 · Post · Super happy to be added to the HackerOne elite hall of fame! Huge congrats to @Rhynorater @codecanca
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2022-08-06 06:21 UTC (2022-08-06 07:21 WAT)
+
+- URL: https://x.com/samwcyo/status/1555801091131904000
+- Metrics (at fetch): not returned
+
+> Super happy to be added to the HackerOne elite hall of fame! Huge congrats to @Rhynorater @codecancare  @lean0x2f @Regala_ for placing! So many great friends and memories made over the last 7 years of bug bounty :) https://twitter.com/hacker0x01/status/1555753405401812993
+
+**Links in post:** https://twitter.com/hacker0x01/status/1555753405401812993
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Hacker0x01 — 2022-08-06 03:11 UTC (2022-08-06 04:11 WAT)
+    
+    - URL: https://x.com/Hacker0x01/status/1555753405401812993
+    - Metrics (at fetch): not returned
+    
+    > Hacking big tech, web3 companies, and sharing amazing write-ups. @samwcyo is constantly pushing limits &amp; submitting amazing finds. Congrats boy wonder for being added to the #H1Elite hall of fame! [pic.x.com/NBOAqpDrVD]
+    
+    **Media:**
+    - media `3_1555753314075062272` (details not returned by the API)
+    
+
+
+---
+
+## 2022-06-29 · Post · Haven't done much bug bounty in the last few months but finally had the chance to look today and fou
+
+
+### Post — @samwcyo — 2022-06-29 00:26 UTC (2022-06-29 01:26 WAT)
+
+- URL: https://x.com/samwcyo/status/1541941143264542722
+- Metrics (at fetch): not returned
+
+> Haven't done much bug bounty in the last few months but finally had the chance to look today and found a vulnerability today which allowed me to control a companies telepresence robots. WASD to navigate, could speak to the employees and see what they're up to via my desktop mic! [pic.x.com/YJJXVTEpJ8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWYSw4XXgAECsuS.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FWYTIGtXwAIjg5E.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-31 · Post · Really great topic from @lorenzofb with work from @joshfraser and @gf_256, the Discord bot ecosystem
+
+
+### Post — @samwcyo — 2022-05-31 18:24 UTC (2022-05-31 19:24 WAT)
+
+- URL: https://x.com/samwcyo/status/1531703234557091842
+- Metrics (at fetch): not returned
+
+> Really great topic from @lorenzofb with work from @joshfraser and @gf_256, the Discord bot ecosystem really isn’t where it needs to be in terms of security. We’ve put a lot of time into this and found a number of critical issues with then most popular bots. https://twitter.com/gf_256/status/1531700881963552771
+
+**Links in post:** https://twitter.com/gf_256/status/1531700881963552771
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1126385176467124224 — 2022-05-31 18:15 UTC (2022-05-31 19:15 WAT)
+    
+    - URL: https://x.com/1126385176467124224/status/1531700881963552771
+    - Metrics (at fetch): not returned
+    
+    > Vice Motherboard interviewed me! I got to poop on Discord bots for being a security hazard, hooray😊 https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers
+    
+    **Links in post:** https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers
+    
+
+
+---
+
+## 2022-05-20 · Post · Happy to have live hacking events again! First bounty paid at H1303 in Denver. [pic.x.com/N3h0x0TQp
+
+
+### Post — @samwcyo — 2022-05-20 16:45 UTC (2022-05-20 17:45 WAT)
+
+- URL: https://x.com/samwcyo/status/1527692062077997058
+- Metrics (at fetch): not returned
+
+> Happy to have live hacking events again! First bounty paid at #H1303 in Denver. [pic.x.com/N3h0x0TQpE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTNz1KGXoAk4D90.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-26 · Post · I've spoken to a few people who do a ton of crypto bug bounty and one thing they all suggest is to r
+
+
+### Post — @samwcyo — 2022-04-26 13:22 UTC (2022-04-26 14:22 WAT)
+
+- URL: https://x.com/samwcyo/status/1518943578353025024
+- Metrics (at fetch): not returned
+
+> I've spoken to a few people who do a ton of crypto bug bounty and one thing they all suggest is to really communicate impact. With regular bug bounty, the teams normally do a great job taking your report and figuring out impact, but it's much more your responsibility with crypto.
+
+
+---
+
+## 2022-04-23 · Post · Really love reading the daily tweets from @djIsLucid. They’ve done 79 days of bug bounty/hacking whe
+
+
+### Post — @samwcyo — 2022-04-23 06:46 UTC (2022-04-23 07:46 WAT)
+
+- URL: https://x.com/samwcyo/status/1517756717647417344
+- Metrics (at fetch): not returned
+
+> Really love reading the daily tweets from @djIsLucid. They’ve done 79 days of bug bounty/hacking where they document the actual things they’re trying and learning from. https://twitter.com/djIsLucid/status/1517720313341095936
+
+**Links in post:** https://twitter.com/djIsLucid/status/1517720313341095936
+
+**Quoted post (full text):**
+
+    #### Quoted post — @958878694931685376 — 2022-04-23 04:21 UTC (2022-04-23 05:21 WAT)
+    
+    - URL: https://x.com/958878694931685376/status/1517720313341095936
+    - Metrics (at fetch): not returned
+    
+    > Day 79 #100DaysOfHacking #BugBounty #MobSec - Used the application pretty thoroughly and dug through iOS app memory. Strangely I noticed multiple instances of my phone's /etc/passwd file in memory. Maybe I'm just a noob but I can't think of very many reasons why this type of \1
+    
+
+
+---
+
+## 2022-04-16 · Post · What's the worst non-smart contract vulnerability you could report to OpenSea, and what would you ex
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samwcyo — 2022-04-16 21:13 UTC (2022-04-16 22:13 WAT)
+
+- URL: https://x.com/samwcyo/status/1515438199623106562
+- Metrics (at fetch): not returned
+
+> What's the worst non-smart contract vulnerability you could report to OpenSea, and what would you expect that payout to be? How much do you think you could realistically steal and what would be the game plan? Feel like it'd be similar to the BadgerDAO hack https://www.bloomberg.com/news/articles/2021-12-10/badgerdao-says-cloudflare-flaw-led-to-130-million-heist https://twitter.com/scott_lew_is/status/1509155035988598789
+
+**Links in post:** https://www.bloomberg.com/news/articles/2021-12-10/badgerdao-says-cloudflare-flaw-led-to-130-million-heist, https://twitter.com/scott_lew_is/status/1509155035988598789
+
+**Quoted post** 1509155035988598789: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-04-06 · Post · This scam tweet has 16,000 replies, each from the original poster, all tagging the maximum number of
+
+
+### Post — @samwcyo — 2022-04-06 00:09 UTC (2022-04-06 01:09 WAT)
+
+- URL: https://x.com/samwcyo/status/1511496170346004483
+- Metrics (at fetch): not returned
+
+> This scam tweet has 16,000 replies, each from the original poster, all tagging the maximum number of people and coming from a verified account… and it still hasn’t been taken down yet. There’s also a bug (intentional or not) where I’m unable to reply. Moderation is hard I guess? [pic.x.com/M3hnqiZihd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPnpwLkXEAQ5T--.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FPnpwLjWUAE_Upr.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-01 · Post · Over the last few months, we found a number of vulnerabilities in the largest Discord plugins (Dyno,
+
+
+### Post — @samwcyo — 2022-04-01 13:20 UTC (2022-04-01 14:20 WAT)
+
+- URL: https://x.com/samwcyo/status/1509883419517497347
+- Metrics (at fetch): not returned
+
+> Over the last few months, we found a number of vulnerabilities in the largest Discord plugins (Dyno, MEE6, CollabLand) which would've allowed attackers to become administrators, send messages, and DM users.
+>
+> The tagged hack happened a few days after we accidentally triggered /1 [pic.x.com/TkAG493P7o] https://twitter.com/WillyTheDegen/status/1509771063265091587
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPQkpYEX0DEU6YI.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FPQl0mAXIAMCN2h.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/WillyTheDegen/status/1509771063265091587
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1407016853604495364 — 2022-04-01 05:54 UTC (2022-04-01 06:54 WAT)
+    
+    - URL: https://x.com/1407016853604495364/status/1509771063265091587
+    - Metrics (at fetch): not returned
+    
+    > BAYC discord hacked and now Doodles discord is hacked I’m hearing? This is a calculated attack on our community. April fools day will have people believing it’s not real. Stay vigilant people!
+    
+
+
+---
+
+## 2022-01-22 · Post · In 2 years, after every security publication ever has used the word “critical” to describe impact fo
+
+
+### Post — @samwcyo — 2022-01-22 05:08 UTC (2022-01-22 06:08 WAT)
+
+- URL: https://x.com/samwcyo/status/1484754842883006464
+- Metrics (at fetch): not returned
+
+> In 2 years, after every security publication ever has used the word “critical” to describe impact for every single vulnerability ever, someone somewhere will be upset when nobody takes them seriously anymore.
+
+
+---
+
+## 2022-01-13 · Post · Really great attack surface basics post from @sshell_, looks to be the first of a series of future p
+
+
+### Post — @samwcyo — 2022-01-13 16:17 UTC (2022-01-13 17:17 WAT)
+
+- URL: https://x.com/samwcyo/status/1481661631591600128
+- Metrics (at fetch): not returned
+
+> Really great attack surface basics post from @sshell_, looks to be the first of a series of future posts: https://www.sshell.co/attack-surface-basics/
+
+**Links in post:** https://www.sshell.co/attack-surface-basics/
+
+
+---
+
+## 2021-12-13 · Post · It's frustrating, we reported a SQL injection vulnerability to the Vulcan Forged bug bounty program 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @samwcyo — 2021-12-13 21:49 UTC (2021-12-13 22:49 WAT)
+
+- URL: https://x.com/samwcyo/status/1470511220436447232
+- Metrics (at fetch): not returned
+
+> It's frustrating, we reported a SQL injection vulnerability to the Vulcan Forged bug bounty program 6 months ago that let you pull master private keys and plaintext passwords. This vulnerability had a similar level of impact, but was rewarded with $2,000. (1/5) https://twitter.com/RektHQ/status/1470431503045828614
+
+**Links in post:** https://twitter.com/RektHQ/status/1470431503045828614
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1297925400090337280 — 2021-12-13 16:32 UTC (2021-12-13 17:32 WAT)
+    
+    - URL: https://x.com/1297925400090337280/status/1470431503045828614
+    - Metrics (at fetch): not returned
+    
+    > Four cases in ten days. 
+    >
+    > $140M gone from @VulcanForged. 
+    >
+    > "Compromised keys" are so hot right now.
+    >
+    > But it’s nothing to do with the markets, right?
+    >
+    > rekt investigates.
+    > https://rekt.news/vulcan-forged-rekt
+    
+    **Links in post:** https://rekt.news/vulcan-forged-rekt
+    
+
+
+---
+
+## 2021-10-13 · Post · I don't think this is a critical vulnerability, maybe low severity at most? The TL:DR is XSS on Open
+
+
+Tags (automatic): XSS
+
+
+### Post — @samwcyo — 2021-10-13 13:50 UTC (2021-10-13 14:50 WAT)
+
+- URL: https://x.com/samwcyo/status/1448284914567221251
+- Metrics (at fetch): not returned
+
+> I don't think this is a critical vulnerability, maybe low severity at most? The TL:DR is XSS on OpenSea's CDN which would allow an attacker to serve HTML/JS through SVGs on http://storage.opensea.io. The domain has no special designations other than being under .opensea.io. https://twitter.com/TheHackersNews/status/1448274886347034624
+
+**Links in post:** http://storage.opensea.io, https://twitter.com/TheHackersNews/status/1448274886347034624
+
+**Quoted post (full text):**
+
+    #### Quoted post — @209811713 — 2021-10-13 13:10 UTC (2021-10-13 14:10 WAT)
+    
+    - URL: https://x.com/209811713/status/1448274886347034624
+    - Metrics (at fetch): not returned
+    
+    > A critical #vulnerability in #OpenSea, the world's largest non-fungible token (NFT) marketplace, could have allowed hackers to drain #cryptocurrency funds from users' wallets.
+    >
+    > Read: https://thehackernews.com/2021/10/critical-flaw-in-opensea-could-have-let.html
+    >
+    > #infosec #cybersecurity
+    
+    **Links in post:** https://thehackernews.com/2021/10/critical-flaw-in-opensea-could-have-let.html
+    
+
+
+---
+
+## 2021-09-23 · Post · There’s such a huge reliance on web security in crypto that I don’t think is being addressed very we
+
+
+### Post — @samwcyo — 2021-09-23 13:23 UTC (2021-09-23 14:23 WAT)
+
+- URL: https://x.com/samwcyo/status/1441030395034681349
+- Metrics (at fetch): not returned
+
+> There’s such a huge reliance on web security in crypto that I don’t think is being addressed very well. Websites like etherscan offer a max bounty of $50 while being used by nearly everyone holding ETH as a trusted site to explore contracts/addresses. Feels just super unstable.
+
+
+---
+
+## 2021-09-16 · Post · Not to be too obvious with my intentions (see quoted tweet for reference), but @immunefi is one of t
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @samwcyo — 2021-09-16 13:38 UTC (2021-09-16 14:38 WAT)
+
+- URL: https://x.com/samwcyo/status/1438497573703147521
+- Metrics (at fetch): not returned
+
+> Not to be too obvious with my intentions (see quoted tweet for reference), but @immunefi is one of the best resources for ethical hackers in crypto.
+>
+> They function as a bug bounty platform and community hub for crypto programs and have some of the largest available bounties.
+>
+> /1 https://twitter.com/immunefi/status/1438491457007104000
+
+**Links in post:** https://twitter.com/immunefi/status/1438491457007104000
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2021-09-16 13:14 UTC (2021-09-16 14:14 WAT)
+    
+    - URL: https://x.com/immunefi/status/1438491457007104000
+    - Metrics (at fetch): not returned
+    
+    > You've been waiting for more information on our lux glow hoodies and how to get one. 
+    >
+    > Here it is. 
+    >
+    > Two ways: 
+    >
+    > 1) Find a valid smart contract vuln on a crypto project hosted on Immunefi 
+    >
+    > 2) Promote Immunefi to hackers everywhere - we'll be watching!
+    >
+    > https://medium.com/immunefi/introducing-immunefis-luxury-hoodies-f9f9286520c7
+    
+    **Links in post:** https://medium.com/immunefi/introducing-immunefis-luxury-hoodies-f9f9286520c7
+    
+
+
+---
+
+## 2021-09-15 · Post · Some Solana browser wallets offer you an option to authorize automatic transactions for specific dom
+
+
+Tags (automatic): XSS, Blockchain / L1-L2 / bridge
+
+
+### Post — @samwcyo — 2021-09-15 06:48 UTC (2021-09-15 07:48 WAT)
+
+- URL: https://x.com/samwcyo/status/1438031993648959493
+- Metrics (at fetch): not returned
+
+> Some Solana browser wallets offer you an option to authorize automatic transactions for specific domain names. If you ever needed incentive to hunt for XSS, there you go!
+
+
+---
+
+## 2021-09-12 · Post · Client side path traversal is a really fun thing to explore for CSRF and XSS. Revisited an unexploit
+
+
+Tags (automatic): XSS, SSRF, Account takeover
+
+
+### Post — @samwcyo — 2021-09-12 12:27 UTC (2021-09-12 13:27 WAT)
+
+- URL: https://x.com/samwcyo/status/1437030056627523590
+- Metrics (at fetch): not returned
+
+> Client side path traversal is a really fun thing to explore for CSRF and XSS. Revisited an unexploitable blind SSRF which (1) required the authorization header to be sent and (2) passed the authorization header to the provided "url" parameter. This would be account takeover ...
+
+
+---
+
+## 2021-09-10 · Post · What are everyone’s experiences with Microsoft’s bug bounty program? I’ve been dealing with a report
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @samwcyo — 2021-09-10 13:55 UTC (2021-09-10 14:55 WAT)
+
+- URL: https://x.com/samwcyo/status/1436327468043055111
+- Metrics (at fetch): not returned
+
+> What are everyone’s experiences with Microsoft’s bug bounty program? I’ve been dealing with a report being closed as informative which has obvious impact (PII IDOR to view/update email, address, phone number, etc.) and I’m curious if it’s worth chasing.
+
+
+---
+
+## 2021-09-03 · Post · Recent interview I had with @TheNational about bug bounties and what incentivizes hackers -- I'm rea
+
+
+### Post — @samwcyo — 2021-09-03 04:08 UTC (2021-09-03 05:08 WAT)
+
+- URL: https://x.com/samwcyo/status/1433643141870100481
+- Metrics (at fetch): not returned
+
+> Recent interview I had with @TheNational about bug bounties and what incentivizes hackers -- I'm really happy it was listed under "arts &amp; culture": https://www.thenationalnews.com/arts-culture/comment/2021/08/08/the-rise-of-bug-bounties-how-companies-are-encouraging-hackers-to-be-the-good-guys/
+
+**Links in post:** https://www.thenationalnews.com/arts-culture/comment/2021/08/08/the-rise-of-bug-bounties-how-companies-are-encouraging-hackers-to-be-the-good-guys/
+
+
+---
+
+## 2021-08-30 · Post · Bug bounty but you're only allowed to use the sequencer tab in Burp Suite
+
+
+### Post — @samwcyo — 2021-08-30 23:08 UTC (2021-08-31 00:08 WAT)
+
+- URL: https://x.com/samwcyo/status/1432480411658170371
+- Metrics (at fetch): not returned
+
+> Bug bounty but you're only allowed to use the sequencer tab in Burp Suite
+
+
+---
+
+## 2021-06-06 · Post · I was joking about adding a blind XSS payload to my Google Nest, but then it actually fired on their
+
+
+Tags (automatic): XSS
+
+
+### Post — @samwcyo — 2021-06-06 21:02 UTC (2021-06-06 22:02 WAT)
+
+- URL: https://x.com/samwcyo/status/1401645766402265093
+- Metrics (at fetch): not returned
+
+> I was joking about adding a blind XSS payload to my Google Nest, but then it actually fired on their admin panel and I got rewarded through their VDP. 🥲
+>
+> Huge thanks to the amazing @IAmMandatory for maintaining @XssHunter for free. [pic.x.com/QwGwzFKbH1] https://twitter.com/samwcyo/status/1395483947501490179
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E3OkGMvWQAMLxV8.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/E3OkIxDWYAAK717.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/samwcyo/status/1395483947501490179
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2021-05-20 20:57 UTC (2021-05-20 21:57 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1395483947501490179
+    - Metrics (at fetch): not returned
+    
+    > Going to justify this debt one way or another [pic.x.com/SKCXrgWfcp]
+    
+    **Media:**
+    - media `3_1395483944104177665` (details not returned by the API)
+    
+
+
+---
+
+## 2021-05-20 · Post · Going to justify this debt one way or another [pic.x.com/SKCXrgWfcp]
+
+
+### Post — @samwcyo — 2021-05-20 20:57 UTC (2021-05-20 21:57 WAT)
+
+- URL: https://x.com/samwcyo/status/1395483947501490179
+- Metrics (at fetch): not returned
+
+> Going to justify this debt one way or another [pic.x.com/SKCXrgWfcp]
+
+**Media:**
+- media `3_1395483944104177665` (details not returned by the API)
+
+
+---
+
+## 2021-03-24 · Post · Awesome work from @artsploit going over some of the really neat and novel approaches to hacking OAut
+
+
+Tags (automatic): OAuth
+
+
+### Post — @samwcyo — 2021-03-24 15:20 UTC (2021-03-24 16:20 WAT)
+
+- URL: https://x.com/samwcyo/status/1374742839599456265
+- Metrics (at fetch): bookmark 56, impression 0, like 158, quote 2, reply 1, retweet 61
+
+> Awesome work from @artsploit going over some of the really neat and novel approaches to hacking OAuth. Will be an awesome reference moving forward.
+> https://t.co/fwMXErUpd7
+
+
+---
+
+## 2020-06-20 · Post · "Hacking Starbucks and Accessing Nearly 100 Million Customer Records" - write up on a recent directo
+
+
+### Post — @samwcyo — 2020-06-20 23:49 UTC (2020-06-21 00:49 WAT)
+
+- URL: https://x.com/samwcyo/status/1274489679258226688
+- Metrics (at fetch): not returned
+
+> "Hacking Starbucks and Accessing Nearly 100 Million Customer Records" - write up on a recent directory traversal vulnerability found with @Rhynorater ☕️
+>
+> https://samcurry.net/hacking-starbucks/ [pic.x.com/Y2KKULbfCc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ea_khGhWsAEWvay.jpg — no alt text provided by author
+
+**Links in post:** https://samcurry.net/hacking-starbucks/
+
+
+---
+
+## 2020-03-28 · Post · Slides for "Attacking Secondary Contexts in Web Applications" - https://docs.google.com/presentation
+
+
+### Post — @samwcyo — 2020-03-28 20:27 UTC (2020-03-28 21:27 WAT)
+
+- URL: https://x.com/samwcyo/status/1243998130108084224
+- Metrics (at fetch): not returned
+
+> Slides for "Attacking Secondary Contexts in Web Applications" - https://docs.google.com/presentation/d/1N9Ygrpg0Z-1GFDhLMiG3jJV6B_yGqBk8tuRWO1ZicV8/edit?usp=sharing
+
+**Links in post:** https://docs.google.com/presentation/d/1N9Ygrpg0Z-1GFDhLMiG3jJV6B_yGqBk8tuRWO1ZicV8/edit?usp=sharing
+
+
+---
+
+## 2019-12-21 · Post · New writeup, one of my favorite bugs 🤠 -
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @samwcyo — 2019-12-21 18:57 UTC (2019-12-21 19:57 WAT)
+
+- URL: https://x.com/samwcyo/status/1208461516674084867
+- Metrics (at fetch): not returned
+
+> New writeup, one of my favorite bugs 🤠 -
+>
+> Filling in the Blanks: Exploiting Null Byte Buffer Overflow for a $40,000 Bounty
+>
+> https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/
+>
+> Featuring...
+> @d0nutptr @0xacb @Regala_ @JLLiS @Yassineaboukir @plmaltais [pic.x.com/RomLgdCcSC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EMVRV4jXkAAYtuN.jpg — no alt text provided by author
+
+**Links in post:** https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/

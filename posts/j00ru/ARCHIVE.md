@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 38
-- Conversations/threads: 30
-- Oldest post captured: 2020-05-06
+- Posts in this file: 71
+- Conversations/threads: 62
+- Oldest post captured: 2011-10-19
 - Newest post captured: 2021-11-28
 
 
@@ -24,7 +24,23 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 **Links in post:** https://github.com/j00ru/ctf-tasks/tree/master/Dragon%20CTF%202021/Nim, https://twitter.com/DragonSectorCTF/status/1464928109044584450
 
-**Quoted post** 1464928109044584450: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @2375368765 — 2021-11-28 12:04 UTC (2021-11-28 13:04 WAT)
+    
+    - URL: https://x.com/2375368765/status/1464928109044584450
+    - Metrics (at fetch): not returned
+    
+    > Dragon CTF 2021 is officially over!
+    > Congratulations to the winners:
+    > 1. Balsn (@balsnctf)
+    > 2. organizers (@0rganizers)
+    > 3. More Smoked Leet Chicken (@leetmore)
+    > Thank you for playing - GG! [pic.x.com/DwSKH8H0q1]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FFR3tqYXEAAOmgH.jpg — no alt text provided by author
+    
 
 
 ---
@@ -448,9 +464,11 @@ Tags (automatic): RCE, Mobile / Android / iOS, Memory corruption / native
 - URL: https://x.com/j00ru/status/1283804305489887234
 - Metrics (at fetch): bookmark 57, impression 0, like 437, quote 6, reply 3, retweet 218
 
-> At last, the series begins: MMS Exploit Part 1: Introduction to the Samsung Qmage Codec and Remote Attack Surface. https://t.co/45iF53gVce
+> At last, the series begins: MMS Exploit Part 1: Introduction to the Samsung Qmage Codec and Remote Attack Surface. https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-1-introduction-to-qmage.html
 >
 > I'm excited to start sharing more about this work, starting with a deep dive into the internals and history of the codec.
+
+**Links in post:** https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-1-introduction-to-qmage.html
 
 
 ---
@@ -471,10 +489,21 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
-## 2020-07-13 · Post · For Samsung, there are new vulnerabilities in the custom Qmage codec fixed as SVE-2020-17675 (no CVE
+## 2020-07-13 · Thread · In July, there is a lot going on for the security of Android image decoding, so I recommend installi
+
+
+Tags (automatic): Mobile / Android / iOS
 
 
 ### Post — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
+
+- URL: https://x.com/j00ru/status/1282681407832125441
+- Metrics (at fetch): bookmark 5, impression 0, like 212, quote 2, reply 4, retweet 70
+
+> In July, there is a lot going on for the security of Android image decoding, so I recommend installing this month's update ASAP. This includes a DNG memory corruption in all modern Androids, and further issues in Samsung's Qmage codec. Both rated critical and reachable via MMS.
+
+
+### Thread part 2 — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
 
 - URL: https://x.com/j00ru/status/1282681412303323136
 - Metrics (at fetch): bookmark 3, impression 0, like 27, quote 1, reply 1, retweet 2
@@ -512,22 +541,6 @@ Tags (automatic): Mobile / Android / iOS
 - Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 1, retweet 1
 
 > The DNG issue is a bug in Adobe's dng_sdk used by Android. It was reported in the P0 tracker at https://t.co/RrK5PIgItZ, fixed by Adobe in https://t.co/EfO2Q8kAjp, and now cherry-picked in Android (https://t.co/3GI1kagKw0).
-
-
----
-
-## 2020-07-13 · Post · In July, there is a lot going on for the security of Android image decoding, so I recommend installi
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
-
-- URL: https://x.com/j00ru/status/1282681407832125441
-- Metrics (at fetch): bookmark 5, impression 0, like 212, quote 2, reply 4, retweet 70
-
-> In July, there is a lot going on for the security of Android image decoding, so I recommend installing this month's update ASAP. This includes a DNG memory corruption in all modern Androids, and further issues in Samsung's Qmage codec. Both rated critical and reachable via MMS.
 
 
 ---
@@ -608,4 +621,578 @@ Tags (automatic): RCE
 - URL: https://x.com/j00ru/status/1258066559765004295
 - Metrics (at fetch): bookmark 103, impression 0, like 1491, quote 57, reply 22, retweet 704
 
-> Today I'm happy to release new research I've been working on for a while: 0-click RCE via MMS in all modern Samsung phones (released 2015+), due to numerous bugs in a little-known custom "Qmage" image codec supported by Skia on Samsung devices. Demo: https://t.co/8KRIhy4Fpk
+> Today I'm happy to release new research I've been working on for a while: 0-click RCE via MMS in all modern Samsung phones (released 2015+), due to numerous bugs in a little-known custom "Qmage" image codec supported by Skia on Samsung devices. Demo: https://www.youtube.com/watch?v=nke8Z3G4jnc
+
+**Links in post:** https://www.youtube.com/watch?v=nke8Z3G4jnc
+
+
+---
+
+## 2019-09-11 · Post · Just derestricted two Microsoft DirectWrite font bugs fixed yesterday, found with the harness I publ
+
+
+### Post — @j00ru — 2019-09-11 17:45 UTC (2019-09-11 18:45 WAT)
+
+- URL: https://x.com/j00ru/status/1171842271697866753
+- Metrics (at fetch): not returned
+
+> Just derestricted two Microsoft DirectWrite font bugs fixed yesterday, found with the harness I published recently.
+>
+> One shiny mem. disclosure only affected Edge, as Chrome and Firefox were protected by OTS, which doesn't allow EBDT/EBLC tables. Yay for attack surface reduction👏 [pic.x.com/wmk0ILShqX] https://twitter.com/ProjectZeroBugs/status/1171834666736730112
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EEM4VU9XUAENXDJ.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/ProjectZeroBugs/status/1171834666736730112
+
+**Quoted post (full text):**
+
+    #### Quoted post — @702994808181170176 — 2019-09-11 17:15 UTC (2019-09-11 18:15 WAT)
+    
+    - URL: https://x.com/702994808181170176/status/1171834666736730112
+    - Metrics (at fetch): not returned
+    
+    > Microsoft DirectWrite out-of-bounds read in sfac_GetSbitBitmap while processing TTF fonts https://bugs.chromium.org/p/project-zero/issues/detail?id=1878
+    
+    **Links in post:** https://bugs.chromium.org/p/project-zero/issues/detail?id=1878
+    
+
+
+---
+
+## 2018-07-18 · Reply · @_niklasb I guess you already know the technical details, but I only got around to it now, so FYI in
+
+
+### Post — @j00ru — 2018-07-18 14:56 UTC (2018-07-18 15:56 WAT)
+
+- URL: https://x.com/j00ru/status/1019596677118939138
+- Metrics (at fetch): not returned
+
+> @_niklasb I guess you already know the technical details, but I only got around to it now, so FYI in case you're interested. :) the exploit code is at https://gist.github.com/j00ru/2347cf937366e61598d1140c31262b18 https://x.com/j00ru/status/1019595401769422852
+
+**Links in post:** https://gist.github.com/j00ru/2347cf937366e61598d1140c31262b18, https://x.com/j00ru/status/1019595401769422852
+
+**Quoted post (full text):**
+
+    #### Quoted post — @j00ru — 2018-07-18 14:51 UTC (2018-07-18 15:51 WAT)
+    
+    - URL: https://x.com/j00ru/status/1019595401769422852
+    - Metrics (at fetch): not returned
+    
+    > New blog post: Exploiting a Windows 10 PagedPool off-by-one overflow (WCTF 2018). https://j00ru.vexillium.org/2018/07/exploiting-a-windows-10-pagedpool-off-by-one/
+    
+    **Links in post:** https://j00ru.vexillium.org/2018/07/exploiting-a-windows-10-pagedpool-off-by-one/
+    
+
+
+---
+
+## 2018-07-18 · Post · New blog post: Exploiting a Windows 10 PagedPool off-by-one overflow (WCTF 2018). https://j00ru.vexi
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2018-07-18 14:51 UTC (2018-07-18 15:51 WAT)
+
+- URL: https://x.com/j00ru/status/1019595401769422852
+- Metrics (at fetch): not returned
+
+> New blog post: Exploiting a Windows 10 PagedPool off-by-one overflow (WCTF 2018). https://j00ru.vexillium.org/2018/07/exploiting-a-windows-10-pagedpool-off-by-one/
+
+**Links in post:** https://j00ru.vexillium.org/2018/07/exploiting-a-windows-10-pagedpool-off-by-one/
+
+
+---
+
+## 2018-04-16 · Post · As promised last week, the details of the .PDB heap memory disclosure in Visual Studio (CVE-2018-103
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2018-04-16 14:55 UTC (2018-04-16 15:55 WAT)
+
+- URL: https://x.com/j00ru/status/985894472478265344
+- Metrics (at fetch): not returned
+
+> As promised last week, the details of the .PDB heap memory disclosure in Visual Studio (CVE-2018-1037) are now available at https://bugs.chromium.org/p/project-zero/issues/detail?id=1500. Infoleaks are a really special breed of bugs, be it in kernel or user-mode 🐛 [pic.x.com/diwbO7I5S7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Da6ZBGCWsAAiAef.jpg — no alt text provided by author
+
+**Links in post:** https://bugs.chromium.org/p/project-zero/issues/detail?id=1500
+
+
+---
+
+## 2018-04-11 · Post · Achievement unlocked – found my first compiler vuln. https://portal.msrc.microsoft.com/en-us/securit
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2018-04-11 09:45 UTC (2018-04-11 10:45 WAT)
+
+- URL: https://x.com/j00ru/status/984004487084994561
+- Metrics (at fetch): not returned
+
+> Achievement unlocked – found my first compiler vuln. https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1037 is a 3 kB heap memory disclosure in .PDB symbols generated by Visual Studio. Use updated PDBCopy with the -CVE-2018-1037 flag to check and fix your public symbols. More details to follow soon. :)
+
+**Links in post:** https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1037
+
+
+---
+
+## 2017-11-15 · Post · The joy of ancient font driver code... this is by far the most crazy/strange KASLR bypass I've ever 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2017-11-15 18:11 UTC (2017-11-15 19:11 WAT)
+
+- URL: https://x.com/j00ru/status/930860861836746752
+- Metrics (at fetch): not returned
+
+> The joy of ancient font driver code... this is by far the most crazy/strange KASLR bypass I've ever found. It's a shame this &amp; related issue https://bugs.chromium.org/p/project-zero/issues/detail?id=1398 will never be fixed on Windows 7 and 8. https://x.com/ProjectZeroBugs/status/930768738370117633
+
+**Links in post:** https://bugs.chromium.org/p/project-zero/issues/detail?id=1398, https://x.com/ProjectZeroBugs/status/930768738370117633
+
+**Quoted post (full text):**
+
+    #### Quoted post — @702994808181170176 — 2017-11-15 12:05 UTC (2017-11-15 13:05 WAT)
+    
+    - URL: https://x.com/702994808181170176/status/930768738370117633
+    - Metrics (at fetch): not returned
+    
+    > Windows Kernel ATMFD.DLL NamedEscape 0x2511 pool address derivation from entropy accumulator  https://bugs.chromium.org/p/project-zero/issues/detail?id=1401
+    
+    **Links in post:** https://bugs.chromium.org/p/project-zero/issues/detail?id=1401
+    
+
+
+---
+
+## 2017-08-09 · Post · CVE-2017-0299, a minor Windows kernel infoleak, is finally patched for good. It's a case of a bad fi
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2017-08-09 16:20 UTC (2017-08-09 17:20 WAT)
+
+- URL: https://x.com/j00ru/status/895318808629395456
+- Metrics (at fetch): not returned
+
+> CVE-2017-0299, a minor Windows kernel infoleak, is finally patched for good. It's a case of a bad fix and working PoC public for 2 months.
+
+
+---
+
+## 2017-07-17 · Post · The 30th Windows kernel infoleak found with Bochspwn was fixed last tuesday, this time in netio.sys.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2017-07-17 10:11 UTC (2017-07-17 11:11 WAT)
+
+- URL: https://x.com/j00ru/status/886891201454125060
+- Metrics (at fetch): not returned
+
+> The 30th Windows kernel infoleak found with Bochspwn was fixed last tuesday, this time in netio.sys. CVE-2017-8564, https://bugs.chromium.org/p/project-zero/issues/detail?id=1238
+
+**Links in post:** https://bugs.chromium.org/p/project-zero/issues/detail?id=1238
+
+
+---
+
+## 2017-04-03 · Post · Another bug documented: Windows Kernel Local Denial-of-Service 4: nt!NtAccessCheck and family (Wind
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2017-04-03 10:58 UTC (2017-04-03 11:58 WAT)
+
+- URL: https://x.com/j00ru/status/848852214248603648
+- Metrics (at fetch): not returned
+
+> Another bug documented: Windows Kernel Local Denial-of-Service #4: nt!NtAccessCheck and family (Windows 8-10), http://j00ru.vexillium.org/?p=3225.
+
+**Links in post:** http://j00ru.vexillium.org/?p=3225
+
+
+---
+
+## 2016-08-17 · Post · The reports of my EMF processing GDI+ RCE bugs fixed in latest MS16-097 are now public, see https://
+
+
+Tags (automatic): RCE
+
+
+### Post — @j00ru — 2016-08-17 14:57 UTC (2016-08-17 15:57 WAT)
+
+- URL: https://x.com/j00ru/status/765925490679046145
+- Metrics (at fetch): not returned
+
+> The reports of my EMF processing GDI+ RCE bugs fixed in latest MS16-097 are now public, see https://bugs.chromium.org/p/project-zero/issues/detail?id=824, #826, #828.
+
+**Links in post:** https://bugs.chromium.org/p/project-zero/issues/detail?id=824
+
+
+---
+
+## 2016-06-21 · Post · A detailed write-up on the ATMFD.DLL NamedEscape 0x250C pool corruption is now available in the P0 b
+
+
+### Post — @j00ru — 2016-06-21 11:56 UTC (2016-06-21 12:56 WAT)
+
+- URL: https://x.com/j00ru/status/745223746974277632
+- Metrics (at fetch): not returned
+
+> A detailed write-up on the ATMFD.DLL NamedEscape 0x250C pool corruption is now available in the P0 bug tracker: https://bugs.chromium.org/p/project-zero/issues/detail?id=785. :)
+
+**Links in post:** https://bugs.chromium.org/p/project-zero/issues/detail?id=785
+
+
+---
+
+## 2016-06-15 · Post · Nice, CVE-2016-3220 fixes another EoP in the ATMFD NamedEscape attack surface, the same HackingTeam 
+
+
+### Post — @j00ru — 2016-06-15 08:46 UTC (2016-06-15 09:46 WAT)
+
+- URL: https://x.com/j00ru/status/743001788954054657
+- Metrics (at fetch): not returned
+
+> Nice, CVE-2016-3220 fixes another EoP in the ATMFD NamedEscape attack surface, the same HackingTeam had a 0-day in. More details soon. =)
+
+
+---
+
+## 2016-06-07 · Post · At last, a new post on my blog. Check out a write-up on the discovery and exploitation of FreeType2 
+
+
+### Post — @j00ru — 2016-06-07 14:16 UTC (2016-06-07 15:16 WAT)
+
+- URL: https://x.com/j00ru/status/740185579741151232
+- Metrics (at fetch): not returned
+
+> At last, a new post on my blog. Check out a write-up on the discovery and exploitation of FreeType2 CVE-2014-2240 at http://j00ru.vexillium.org/?p=2245
+
+**Links in post:** http://j00ru.vexillium.org/?p=2245
+
+
+---
+
+## 2016-04-14 · Post · Windows exploitation ninjas, there is a pwn500 task I created for the https://ctf.dragonsector.pl/ C
+
+
+### Post — @j00ru — 2016-04-14 18:26 UTC (2016-04-14 19:26 WAT)
+
+- URL: https://x.com/j00ru/status/720679669444571137
+- Metrics (at fetch): not returned
+
+> Windows exploitation ninjas, there is a pwn500 task I created for the https://ctf.dragonsector.pl/ CTF which started ~2 hrs ago. Can you hack it?
+
+**Links in post:** https://ctf.dragonsector.pl/
+
+
+---
+
+## 2015-09-14 · Post · A new blog post about a cross-product Type 1/OTF font memory disclosure issue and example exploit fo
+
+
+### Post — @j00ru — 2015-09-14 18:04 UTC (2015-09-14 19:04 WAT)
+
+- URL: https://x.com/j00ru/status/643485539488899072
+- Metrics (at fetch): not returned
+
+> A new blog post about a cross-product Type 1/OTF font memory disclosure issue and example exploit for IE is up now! https://x.com/benhawkes/status/643474130805719040
+
+**Links in post:** https://x.com/benhawkes/status/643474130805719040
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15788183 — 2015-09-14 17:19 UTC (2015-09-14 18:19 WAT)
+    
+    - URL: https://x.com/15788183/status/643474130805719040
+    - Metrics (at fetch): not returned
+    
+    > Project Zero blog: Enabling QR codes in IE, or a story of a cross-platform memory disclosure by @j00ru - http://goo.gl/wPB4gy
+    
+    **Links in post:** http://goo.gl/wPB4gy
+    
+
+
+---
+
+## 2015-07-28 · Post · Project Zero bug tracker entry for the recently patched 0-day ATMFD.DLL vulnerability (CVE-2015-2426
+
+
+### Post — @j00ru — 2015-07-28 12:28 UTC (2015-07-28 13:28 WAT)
+
+- URL: https://x.com/j00ru/status/626006214678315009
+- Metrics (at fetch): not returned
+
+> Project Zero bug tracker entry for the recently patched 0-day ATMFD.DLL vulnerability (CVE-2015-2426, MS15-078): https://code.google.com/p/google-security-research/issues/detail?id=369
+
+**Links in post:** https://code.google.com/p/google-security-research/issues/detail?id=369
+
+
+---
+
+## 2015-07-20 · Post · Oh, seems the new ATMFD 0-day fixed by MS in today's bulletin (MS15-078, CVE-2015-2426) collided wit
+
+
+### Post — @j00ru — 2015-07-20 21:20 UTC (2015-07-20 22:20 WAT)
+
+- URL: https://x.com/j00ru/status/623241213991329792
+- Metrics (at fetch): not returned
+
+> Oh, seems the new ATMFD 0-day fixed by MS in today's bulletin (MS15-078, CVE-2015-2426) collided with my recent report of the same bug. :-)
+
+
+---
+
+## 2015-06-23 · Post · Owning Adobe Reader and the Windows Kernel with a single font bug - slides and other details of my r
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2015-06-23 18:56 UTC (2015-06-23 19:56 WAT)
+
+- URL: https://x.com/j00ru/status/613420386064199680
+- Metrics (at fetch): not returned
+
+> Owning Adobe Reader and the Windows Kernel with a single font bug - slides and other details of my research are out http://j00ru.vexillium.org/?p=2520
+
+**Links in post:** http://j00ru.vexillium.org/?p=2520
+
+
+---
+
+## 2015-06-17 · Post · Looking forward to discussing a full Adobe Reader XI + Windows 8.1 exploit chain using a single font
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2015-06-17 08:03 UTC (2015-06-17 09:03 WAT)
+
+- URL: https://x.com/j00ru/status/611081610381905920
+- Metrics (at fetch): not returned
+
+> Looking forward to discussing a full Adobe Reader XI + Windows 8.1 exploit chain using a single font vulnerability at the upcoming @reconmtl
+
+
+---
+
+## 2014-09-15 · Post · Update your IDA Pro, a new vulnfix is available at https://hex-rays.com/vulnfix.shtml. Thanks Hex-Ra
+
+
+### Post — @j00ru — 2014-09-15 18:08 UTC (2014-09-15 19:08 WAT)
+
+- URL: https://x.com/j00ru/status/511577273288630272
+- Metrics (at fetch): not returned
+
+> Update your IDA Pro, a new vulnfix is available at https://hex-rays.com/vulnfix.shtml. Thanks Hex-Rays for the bug bounty program. ;-)
+
+**Links in post:** https://hex-rays.com/vulnfix.shtml
+
+
+---
+
+## 2013-04-12 · Post · I wouldn't have expected our simple local NTFS bug would cause so much hassle... wow.
+
+
+### Post — @j00ru — 2013-04-12 15:45 UTC (2013-04-12 16:45 WAT)
+
+- URL: https://x.com/j00ru/status/322737338021199872
+- Metrics (at fetch): not returned
+
+> I wouldn't have expected our simple local NTFS bug would cause so much hassle... wow.
+
+
+---
+
+## 2013-04-10 · Post · Microsoft patched our USB Stick of Death bug (http://technet.microsoft.com/en-us/security/bulletin/m
+
+
+### Post — @j00ru — 2013-04-10 08:43 UTC (2013-04-10 09:43 WAT)
+
+- URL: https://x.com/j00ru/status/321906265762709504
+- Metrics (at fetch): not returned
+
+> Microsoft patched our USB Stick of Death bug (http://technet.microsoft.com/en-us/security/bulletin/ms13-apr). they must've changed their minds w.r.t. its exploitability... ;)
+
+**Links in post:** http://technet.microsoft.com/en-us/security/bulletin/ms13-apr
+
+
+---
+
+## 2012-12-18 · Post · A Christmas blog post for your entertainment: "CVE-2012-2553: Windows Kernel VDM use-after-free in w
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2012-12-18 21:24 UTC (2012-12-18 22:24 WAT)
+
+- URL: https://x.com/j00ru/status/281147918340198400
+- Metrics (at fetch): not returned
+
+> A Christmas blog post for your entertainment: "CVE-2012-2553: Windows Kernel VDM use-after-free in win32k.sys" http://j00ru.vexillium.org/?p=1479
+
+**Links in post:** http://j00ru.vexillium.org/?p=1479
+
+
+---
+
+## 2012-12-01 · Post · ZeroNights slides, Hack In The Box Magazine 9 and other news: http://j00ru.vexillium.org/?p=1441
+
+
+### Post — @j00ru — 2012-12-01 12:41 UTC (2012-12-01 13:41 WAT)
+
+- URL: https://x.com/j00ru/status/274855637920411648
+- Metrics (at fetch): not returned
+
+> ZeroNights slides, Hack In The Box Magazine #9 and other news: http://j00ru.vexillium.org/?p=1441
+
+**Links in post:** http://j00ru.vexillium.org/?p=1441
+
+
+---
+
+## 2012-11-08 · Post · I don't understand the fuss behind a possible Adobe Reader sandbox escape given how easy it is to fi
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2012-11-08 23:56 UTC (2012-11-09 00:56 WAT)
+
+- URL: https://x.com/j00ru/status/266690761549045761
+- Metrics (at fetch): not returned
+
+> I don't understand the fuss behind a possible Adobe Reader sandbox escape given how easy it is to find and exploit a Windows kernel vuln.
+
+
+---
+
+## 2012-10-23 · Post · Interesting: our recent NTFS vuln is a regular local priv. escal. for systems with TrueCrypt install
+
+
+### Post — @j00ru — 2012-10-23 20:50 UTC (2012-10-23 21:50 WAT)
+
+- URL: https://x.com/j00ru/status/260845586184548353
+- Metrics (at fetch): not returned
+
+> Interesting: our recent NTFS vuln is a regular local priv. escal. for systems with TrueCrypt installed: http://www.truecrypt.org/docs/?s=non-admin-users (via @gynvael)
+
+**Links in post:** http://www.truecrypt.org/docs/?s=non-admin-users
+
+
+---
+
+## 2012-09-01 · Post · Anyone can recommend an easy local Windows PagedPool buffer overflow vuln to demonstrate a spraying 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @j00ru — 2012-09-01 10:09 UTC (2012-09-01 11:09 WAT)
+
+- URL: https://x.com/j00ru/status/241840073476300801
+- Metrics (at fetch): not returned
+
+> Anyone can recommend an easy local Windows PagedPool buffer overflow vuln to demonstrate a spraying technique?
+
+
+---
+
+## 2012-08-14 · Post · "PDF fuzzing and Adobe Reader 9.5.1 and 10.1.3 multiple critical vulnerabilities". See blog posts: h
+
+
+### Post — @j00ru — 2012-08-14 18:18 UTC (2012-08-14 19:18 WAT)
+
+- URL: https://x.com/j00ru/status/235440300431122432
+- Metrics (at fetch): not returned
+
+> "PDF fuzzing and Adobe Reader 9.5.1 and 10.1.3 multiple critical vulnerabilities". See blog posts: http://j00ru.vexillium.org/?p=1175 http://gynvael.coldwind.pl/?id=483
+
+**Links in post:** http://j00ru.vexillium.org/?p=1175, http://gynvael.coldwind.pl/?id=483
+
+
+---
+
+## 2012-07-25 · Post · blackhat people, so how do you actually exploit the sysret bug on Windows? has this been covered ye
+
+
+### Post — @j00ru — 2012-07-25 18:34 UTC (2012-07-25 19:34 WAT)
+
+- URL: https://x.com/j00ru/status/228196534213283841
+- Metrics (at fetch): not returned
+
+> #blackhat people, so how do you actually exploit the sysret bug on Windows? has this been covered yet?
+
+
+---
+
+## 2012-05-20 · Post · The CVE-2011-2018 exploitation article now as a stand-alone paper: http://j00ru.vexillium.org/?p=109
+
+
+### Post — @j00ru — 2012-05-20 13:48 UTC (2012-05-20 14:48 WAT)
+
+- URL: https://x.com/j00ru/status/204206878803238914
+- Metrics (at fetch): not returned
+
+> The CVE-2011-2018 exploitation article now as a stand-alone paper: http://j00ru.vexillium.org/?p=1093
+
+**Links in post:** http://j00ru.vexillium.org/?p=1093
+
+
+---
+
+## 2012-04-11 · Post · Hack in the Box Magazine 8 available now (late announcement): http://j00ru.vexillium.org/?p=1076.
+
+
+### Post — @j00ru — 2012-04-11 22:32 UTC (2012-04-11 23:32 WAT)
+
+- URL: https://x.com/j00ru/status/190205668454699008
+- Metrics (at fetch): not returned
+
+> Hack in the Box Magazine #8 available now (late announcement): http://j00ru.vexillium.org/?p=1076.
+
+**Links in post:** http://j00ru.vexillium.org/?p=1076
+
+
+---
+
+## 2011-12-13 · Post · Microsoft patches CVE-2011-2018 today, one of the most interesting Windows bugs I have found so far 
+
+
+### Post — @j00ru — 2011-12-13 19:54 UTC (2011-12-13 20:54 WAT)
+
+- URL: https://x.com/j00ru/status/146679497389899776
+- Metrics (at fetch): not returned
+
+> Microsoft patches CVE-2011-2018 today, one of the most interesting Windows bugs I have found so far ;)
+
+
+---
+
+## 2011-10-19 · Post · Hack in the Box Magazine 7 on the wild, at last. See http://j00ru.vexillium.org/?p=1003. This time 
+
+
+### Post — @j00ru — 2011-10-19 14:39 UTC (2011-10-19 15:39 WAT)
+
+- URL: https://x.com/j00ru/status/126668688257597440
+- Metrics (at fetch): not returned
+
+> Hack in the Box Magazine #7 on the wild, at last. See http://j00ru.vexillium.org/?p=1003. This time a "ring-0 virtual address space disclosure" article ;)
+
+**Links in post:** http://j00ru.vexillium.org/?p=1003

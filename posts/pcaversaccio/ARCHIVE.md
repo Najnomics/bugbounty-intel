@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 50
-- Oldest post captured: 2024-07-10
+- Posts in this file: 95
+- Conversations/threads: 95
+- Oldest post captured: 2023-07-17
 - Newest post captured: 2026-09-03
 
 
@@ -898,3 +898,1029 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GSJGv5_XEAAmG0y.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-29 · Post · What if CertiK is hired one day to audit DPRK's nuclear program? They would probably suggest that DP
+
+
+### Post — @pcaversaccio — 2024-06-29 10:14 UTC (2024-06-29 11:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1806994698617135423
+- Metrics (at fetch): bookmark 1, impression 3010, like 34, quote 1, reply 1, retweet 1
+
+> What if CertiK is hired one day to audit DPRK's nuclear program? They would probably suggest that DPRK should add some fireworks to their nuclear tests. https://t.co/EEHWP80wRs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRO4ysfWwAAqQV9.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-22 · Post · PSA: @CoinStats wallets are getting drained right now. Best guess currently is that private keys got
+
+
+### Post — @pcaversaccio — 2024-06-22 19:16 UTC (2024-06-22 20:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1804594209762300231
+- Metrics (at fetch): bookmark 11, impression 21286, like 85, quote 3, reply 5, retweet 38
+
+> PSA: @CoinStats wallets are getting drained right now. Best guess currently is that private keys got leaked. PLEASE MOVE ANY FUNDS TO A SAFE WALLET IMMEDIATELY ON ALL CHAINS! https://t.co/qqaTALvEYA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQs03iwXEAAtNSL.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-09 · Post · "The attack succeeded by compromising Loopring's 2FA service, allowing the hacker to impersonate the
+
+
+### Post — @pcaversaccio — 2024-06-09 14:13 UTC (2024-06-09 15:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1799806916610453521
+- Metrics (at fetch): bookmark 11, impression 19354, like 76, quote 2, reply 5, retweet 14
+
+> "The attack succeeded by compromising Loopring's 2FA service, allowing the hacker to impersonate the wallet owner" - Whatever the cause of this incident, it proves once again why I don't believe in 3rd party recovery services. https://t.co/JsteIwu0hZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @9130922 — 2024-06-09 13:13 UTC (2024-06-09 14:13 WAT)
+    
+    - URL: https://x.com/9130922/status/1799791898296451515
+    - Metrics (at fetch): bookmark 51, impression 224726, like 322, quote 82, reply 83, retweet 128
+    
+    > 🚨Incident Alert: Loopring Smart Wallets Compromised🚨
+    >
+    > A few hours ago, some Loopring Smart Wallets were targeted in a security breach. The attack exploited wallets with only one Guardian, specifically the Loopring Official Guardian. The hacker initiated a Recovery process, falsely posing as the wallet owner to reset ownership and withdraw assets.
+    >
+    > The attack succeeded by compromising Loopring's 2FA service, allowing the hacker to impersonate the wallet owner and gain approval for the Recovery from the Official Guardian. Subsequently, the attacker transferred assets out of the affected wallets.
+    >
+    > We are actively collaborating with Mist security experts to determine how our 2FA service was compromised. To protect our users, we have temporarily suspended Guardian-related and 2FA-related operations. Following this action, the compromise has ceased.
+    >
+    > Loopring is working with law enforcement and professional security teams to track down the perpetrator. We will continue to provide updates as soon as the investigation progresses.
+    >
+    > The hacker addresses involved are:
+    >
+    > 0x44f887cfbd667cb2042dd55ab1d8951c94bb0102
+    >
+    > 0xbacef3a142e39f14f4f15e22e9248ee4141af18f
+    >
+    > If you have any information that could help us track down the hacker, please share it with us.
+    >
+    > Stay tuned for more information. Security and user protection remain our top priorities.
+    > #Loopring #SecurityAlert #CryptoSecurity
+    
+    **Media:**
+    - media `3_1799791871666843649` (details not returned by the API)
+    
+
+
+---
+
+## 2024-06-06 · Post · All fine, zkSync is NOT getting drained. It's due to today's upgrade: https://t.co/pYxiMnvH7y https:
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2024-06-06 16:17 UTC (2024-06-06 17:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1798750963303342370
+- Metrics (at fetch): bookmark 0, impression 2489, like 13, quote 0, reply 0, retweet 2
+
+> All fine, zkSync is NOT getting drained. It's due to today's upgrade: https://t.co/pYxiMnvH7y https://t.co/UVUJwor7X4
+
+**Quoted post** 1798747434421829942: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-05-30 · Post · Ethereum in 2024: Where celebrities have tokens, code and audit debates sound like legal drama, EIP 
+
+
+### Post — @pcaversaccio — 2024-05-30 12:55 UTC (2024-05-30 13:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1796163407898386834
+- Metrics (at fetch): bookmark 2, impression 2886, like 31, quote 0, reply 2, retweet 0
+
+> Ethereum in 2024: Where celebrities have tokens, code and audit debates sound like legal drama, EIP discussions are "who can out-technical the other", and someone somewhere is yolo signing every 5mins an untrusted `permit` since the "crypto-to-the-moon" TG group said so.
+
+
+---
+
+## 2024-05-15 · Post · The P-256 (secp256r1 EC) precompile is live on Polygon PoS and will be soon on zkSync Era as well (h
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2024-05-15 09:10 UTC (2024-05-15 10:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1790671134574231994
+- Metrics (at fetch): bookmark 7, impression 4140, like 34, quote 0, reply 0, retweet 3
+
+> The P-256 (secp256r1 EC) precompile is live on Polygon PoS and will be soon on zkSync Era as well (https://t.co/GeEDF0YiT1). We (spearheaded by @merkleplant_eth) launched last year an initiative to supercharge the NIST Elliptic Curve seeds bounty:  https://t.co/euKjq7jCwJ. TL;DR: https://t.co/Lg2GMKS0Xv https://t.co/uVq0LOhSBe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNm7_yKWUAANy3s.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-10-19 15:04 UTC (2023-10-19 16:04 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1715021011576320011
+    - Metrics (at fetch): bookmark 9, impression 27315, like 98, quote 2, reply 4, retweet 9
+    
+    > 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp256r1 EC) precompile. But, for P256, the seed is c49d360886e704936a6678e1139d26b7819f7e90 and we still don’t know how it has been exactly calculated! We want to change that! https://t.co/bDIveDAo2Y https://t.co/HeyTyXWvIN
+    
+    **Media:**
+    - media `3_1715018089685737472` (details not returned by the API)
+    - media `3_1715018109319311360` (details not returned by the API)
+    - media `3_1715018133235187712` (details not returned by the API)
+    
+    **Quoted post** 1715015864750342473: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-05-07 · Post · So EIP-7702 just got proposed a few hours ago by Vitalik &amp; co, and represents a new alternative 
+
+
+### Post — @pcaversaccio — 2024-05-07 16:59 UTC (2024-05-07 17:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1787890097058185624
+- Metrics (at fetch): bookmark 24, impression 12548, like 72, quote 2, reply 7, retweet 4
+
+> So EIP-7702 just got proposed a few hours ago by Vitalik &amp; co, and represents a new alternative to EIP-3074. Besides breaking the invariant that an account balance can only decrease as a result of transactions originating from that account, I can already see how horny phishers https://t.co/qetutgWlcN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GM_cU_qXkAA0YnG.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GM_cWVJW4AATQwC.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-16 · Post · Dubai just launched an L1 bridge with live fault proofs: the bridge is innocent until you can prove 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @pcaversaccio — 2024-04-16 15:35 UTC (2024-04-16 16:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1780258836974055484
+- Metrics (at fetch): bookmark 8, impression 14864, like 134, quote 2, reply 5, retweet 15
+
+> Dubai just launched an L1 bridge with live fault proofs: the bridge is innocent until you can prove that your feet are wet. It combines cutting-edge zk technology since there is zero knowledge about how long it will rain. https://t.co/1qPguUOOxf
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-04-16 · Post · From time to time I take a look back and think it's a shame that we didn't try hard enough to preven
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2024-04-16 08:40 UTC (2024-04-16 09:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1780154255870923143
+- Metrics (at fetch): bookmark 11, impression 5892, like 33, quote 1, reply 2, retweet 2
+
+> From time to time I take a look back and think it's a shame that we didn't try hard enough to prevent reentrancy attack vectors in the early days (to be clear, it's still an issue today!). There is this example of the Bamboo smart contract language written in OCaml https://t.co/e5HUxy2boj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GLRetS3WYAA7u4O.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-22 · Post · Being a _true_ white hat also means to act in the best way possible to protect users and _not_ to ex
+
+
+### Post — @pcaversaccio — 2024-03-22 13:55 UTC (2024-03-22 14:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1771173868817842655
+- Metrics (at fetch): bookmark 4, impression 7520, like 54, quote 0, reply 4, retweet 1
+
+> Being a _true_ white hat also means to act in the best way possible to protect users and _not_ to extort a protocol for a too high bounty. I hope this sets an industry precedent on how to act as a real white hat!
+> https://t.co/mWngAiLZSE https://t.co/L93ZbAWWe9 https://t.co/OgC0g1cojP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJR4KZbXoAAGnIG.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1754746256470282240 — 2024-03-22 13:32 UTC (2024-03-22 14:32 WAT)
+    
+    - URL: https://x.com/1754746256470282240/status/1771168070054375596
+    - Metrics (at fetch): bookmark 28, impression 156201, like 575, quote 57, reply 187, retweet 108
+    
+    > Funds are safu. 
+    >
+    > Grateful to announce a positive outcome for our players and holders. We have decided to reward the white hat a 5% bounty in ETH for rescuing user funds. The remaining funds will be transferred to the following multisig address under SSS team control:
+    
+
+
+---
+
+## 2024-02-28 · Post · You know what makes me sad? I work non-stop on levelling up the security in this space, but projects
+
+
+### Post — @pcaversaccio — 2024-02-28 20:38 UTC (2024-02-28 21:38 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1762940458139803837
+- Metrics (at fetch): bookmark 2, impression 5271, like 82, quote 1, reply 6, retweet 3
+
+> You know what makes me sad? I work non-stop on levelling up the security in this space, but projects continue to deploy shit contracts that can't even expose internal pausable functions. Building mission-critical software doesn't work like that you fucking morons.
+
+
+---
+
+## 2024-02-26 · Post · Another weekend, another win with SEAL 911. No live bounty program, but a small reward was fully pai
+
+
+### Post — @pcaversaccio — 2024-02-26 08:51 UTC (2024-02-26 09:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1762037666579718225
+- Metrics (at fetch): bookmark 2, impression 10594, like 42, quote 2, reply 2, retweet 1
+
+> Another weekend, another win with SEAL 911. No live bounty program, but a small reward was fully paid to the reporter. I want to let everyone know that we don't take your trust for granted &amp; try to get the best outcome for every ticket. Often we fail, but sometimes we succeed :) https://t.co/5qzFSBJBDb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GHQDGIRW0AAvk9k.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GHQDMOAWsAENGw7.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GHQDNXVWAAAUxS-.png — no alt text provided by author
+
+
+---
+
+## 2024-02-23 · Post · Avalanche has been offline since 4.5hrs. Liveness failures (!= safety failures) are usually triggere
+
+
+### Post — @pcaversaccio — 2024-02-23 16:02 UTC (2024-02-23 17:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1761058930929652099
+- Metrics (at fetch): bookmark 6, impression 4683, like 36, quote 0, reply 3, retweet 2
+
+> Avalanche has been offline since 4.5hrs. Liveness failures (!= safety failures) are usually triggered by weird, untested edge cases, but that doesn't make it really better. The gossip-related bug can be seen in the latest release: https://t.co/BrFsfEIarH https://t.co/2vnrY0cPN7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GHCGXBKXkAAPuWf.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GHCJUf7XQAAll0r.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GHCJh0dWIAA0ang.png — no alt text provided by author
+
+
+---
+
+## 2024-02-18 · Post · It can pay off by reporting to SEAL 911 :) Even if it seems clear, we always give full credit to the
+
+
+### Post — @pcaversaccio — 2024-02-18 10:34 UTC (2024-02-18 11:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1759164509619364176
+- Metrics (at fetch): bookmark 3, impression 7210, like 81, quote 0, reply 2, retweet 6
+
+> It can pay off by reporting to SEAL 911 :) Even if it seems clear, we always give full credit to the people who reported the vulnerabilities. Another day, and fortunately another prevented hack! https://t.co/O8qXjBpZld
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGnL843WoAASgkZ.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GGnMK2tWwAAZAB9.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GGnMSPWXIAIyfMz.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GGnM2LhWAAATrFR.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-16 · Post · Better late than never! The ERC-20 standard is broken in many ways, but adding two allowance-related
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2024-02-16 11:41 UTC (2024-02-16 12:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1758456651315618051
+- Metrics (at fetch): bookmark 8, impression 5604, like 66, quote 1, reply 3, retweet 3
+
+> Better late than never! The ERC-20 standard is broken in many ways, but adding two allowance-related functions that aren't part of any official specs, prevent hypothetical attack vector never faced in practice &amp; act as a further enabler for phishing, was not our finest hour IMO. https://t.co/2tH5IIFoL9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @50703014 — 2024-02-16 11:16 UTC (2024-02-16 12:16 WAT)
+    
+    - URL: https://x.com/50703014/status/1758450254028972449
+    - Metrics (at fetch): bookmark 2, impression 9968, like 50, quote 2, reply 1, retweet 1
+    
+    > 13/ OpenZeppelin finally removed increaseApproval() in 2023 thanks to activist developer @pcaversaccio/
+    >
+    > https://t.co/5gzfMKh7ly https://t.co/Kgmq5GbkSa
+    
+    **Media:**
+    - media `3_1758450249473925120` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-31 · Post · In Russia &amp; China, many hackers follow a simple rule: Don't hack your own people. Thus, many ran
+
+
+### Post — @pcaversaccio — 2024-01-31 21:43 UTC (2024-01-31 22:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1752809906036416699
+- Metrics (at fetch): not returned
+
+> In Russia &amp; China, many hackers follow a simple rule: Don't hack your own people. Thus, many ransomware programs aren't being installed on systems with a specific Cyrillic/Chinese keyboard. So, install the Russian &amp; Chinese keyboards. You don't have to use them. It keeps you safe
+
+
+---
+
+## 2023-12-27 · Post · The "DM for audit guys" pivoted into "I DM you for audits" guys. https://twitter.com/DevDacian/statu
+
+
+### Post — @pcaversaccio — 2023-12-27 12:24 UTC (2023-12-27 13:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1739985661715993067
+- Metrics (at fetch): not returned
+
+> The "DM for audit guys" pivoted into "I DM you for audits" guys. https://twitter.com/DevDacian/status/1739921080201187721
+
+**Links in post:** https://twitter.com/DevDacian/status/1739921080201187721
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2023-12-27 08:08 UTC (2023-12-27 09:08 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1739921080201187721
+    - Metrics (at fetch): not returned
+    
+    > I recently contributed an invariant fuzzing testing suite to a project's repo then got hit with this telegram spam from an audit firm.
+    >
+    > What do you think of this marketing "tactic", that audit firms stalk project's github then cold DM the committer asking if they need an audit? [pic.x.com/TgH7CKdF5o]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GCVvmEia4AAPomp.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-12-18 · Post · That's how a state-coordinated attack on Ethereum looks like under the cloak of the local legal syst
+
+
+### Post — @pcaversaccio — 2023-12-18 19:26 UTC (2023-12-18 20:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1736830210777981338
+- Metrics (at fetch): not returned
+
+> That's how a state-coordinated attack on Ethereum looks like under the cloak of the local legal system. https://twitter.com/bloXrouteLabs/status/1736819783520092357
+
+**Links in post:** https://twitter.com/bloXrouteLabs/status/1736819783520092357
+
+**Quoted post (full text):**
+
+    #### Quoted post — @877940756975058945 — 2023-12-18 18:44 UTC (2023-12-18 19:44 WAT)
+    
+    - URL: https://x.com/877940756975058945/status/1736819783520092357
+    - Metrics (at fetch): not returned
+    
+    > announcement:
+    >
+    > bloXroute MEV Relays to reject blocks w/ OFAC tx
+    >
+    > effective immediately, all bloXroute relays will reject  block bids if they contain OFAC transactions (Tx which interact with addresses appearing on the OFAC SDN list)
+    >
+    > We remain committed to supporting ETH decentralized and permissionless nature, while maintaining compliance with our legal jurisdiction
+    >
+    > Ethereum is unstoppable, permissionless, and anti-fragile because it's decentralized and globally distributed, and not easily affected by any single entity, even if it has the best networking tech.
+    >
+    > We look forward to seeing this having no effect except reducing our own win-rate
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/GBpsYMAWIAApUsa.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-12-13 · Post · FWIW, the bug has been fixed in the meantime, fortunately! https://twitter.com/samczsun/status/17347
+
+
+### Post — @pcaversaccio — 2023-12-13 08:42 UTC (2023-12-13 09:42 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1734856262548951100
+- Metrics (at fetch): not returned
+
+> FWIW, the bug has been fixed in the meantime, fortunately! https://twitter.com/samczsun/status/1734761883339801030
+
+**Links in post:** https://twitter.com/samczsun/status/1734761883339801030
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-12-13 02:27 UTC (2023-12-13 03:27 WAT)
+    
+    - URL: https://x.com/samczsun/status/1734761883339801030
+    - Metrics (at fetch): not returned
+    
+    > 🚨🚨🚨
+    >
+    > There is a critical bug in Twitter that allows hackers to gain full access to your account by simply clicking a link
+    >
+    > They can tweet, retweet, like, block, etc, except change your password
+    >
+    > Until it's fixed, protect yourself by installing uBlock Origin
+    >
+    > h/t @shoucccc
+    
+
+
+---
+
+## 2023-11-29 · Post · web2 exploit hits web3 again. All we wanted is to build trustless applications, but we got untrusted
+
+
+### Post — @pcaversaccio — 2023-11-29 08:18 UTC (2023-11-29 09:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1729776892369043531
+- Metrics (at fetch): not returned
+
+> web2 exploit hits web3 again. All we wanted is to build trustless applications, but we got untrusted, vulnerable, centralised UIs instead. Fixing appropriately the web3 gatekeepers is as important as the underlying contracts. We will never achieve any mass adoption otherwise. https://twitter.com/VelodromeFi/status/1729771762752135463
+
+**Links in post:** https://twitter.com/VelodromeFi/status/1729771762752135463
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1511770076738990082 — 2023-11-29 07:58 UTC (2023-11-29 08:58 WAT)
+    
+    - URL: https://x.com/1511770076738990082/status/1729771762752135463
+    - Metrics (at fetch): not returned
+    
+    > Our frontend is currently compromised. Please do not interact with Velodrome for the time being. The team are investigating and will communicate more here when we have it.
+    
+
+
+---
+
+## 2023-11-14 · Post · Raft's (and the 'recent' Euler) hack clearly showcases well that building a complete bulletproof pro
+
+
+### Post — @pcaversaccio — 2023-11-14 14:53 UTC (2023-11-14 15:53 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1724440527179808844
+- Metrics (at fetch): not returned
+
+> Raft's (and the 'recent' Euler) hack clearly showcases well that building a complete bulletproof protocol hinges on the ever-evolving nature of threats, human error, and the complexity of systems. 100% security is the ultimate goal, but in many cases, not attainable. https://twitter.com/trailofbits/status/1724344149283868983
+
+**Links in post:** https://twitter.com/trailofbits/status/1724344149283868983
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2023-11-14 08:30 UTC (2023-11-14 09:30 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1724344149283868983
+    - Metrics (at fetch): not returned
+    
+    > Scope varied, but here is the full list of external eyes on Raft's codebase:
+    > * @trailofbits, Apr 24-28
+    > * @HatsFinance, May 11-18
+    > * @0xcuriousapple, May 22-23
+    > * @aviggiano, June 21-23
+    > * @0xcuriousapple, Aug 25, Aug 31, &amp; Sep 13
+    > * @certora unknown
+    
+
+
+---
+
+## 2023-10-24 · Post · CertiK you are a fucking disgrace to the entire industry. Your inability to assess the legitimacy of
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-10-24 11:42 UTC (2023-10-24 12:42 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1716782089301881132
+- Metrics (at fetch): not returned
+
+> CertiK you are a fucking disgrace to the entire industry. Your inability to assess the legitimacy of a project and, moreover, to produce incomplete ChatGPT-like audit reports, deceives the community &amp; undermines all confidence in u, ur audit projects &amp; the entire security space. [pic.x.com/Hb5WVaXPAm] https://twitter.com/CertiK/status/1716462167715717613
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9M8GzMXsAAUCtr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F9M8K1xW0AAcL8l.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/CertiK/status/1716462167715717613
+
+**Quoted post (full text):**
+
+    #### Quoted post — @993673575230996480 — 2023-10-23 14:30 UTC (2023-10-23 15:30 WAT)
+    
+    - URL: https://x.com/993673575230996480/status/1716462167715717613
+    - Metrics (at fetch): not returned
+    
+    > 6/ Such tactics not only deceive the community but also erode trust in genuine projects working diligently within the crypto space.
+    
+
+
+---
+
+## 2023-10-19 · Post · 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp
+
+
+### Post — @pcaversaccio — 2023-10-19 15:04 UTC (2023-10-19 16:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1715021011576320011
+- Metrics (at fetch): bookmark 9, impression 27315, like 98, quote 2, reply 4, retweet 9
+
+> 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp256r1 EC) precompile. But, for P256, the seed is c49d360886e704936a6678e1139d26b7819f7e90 and we still don’t know how it has been exactly calculated! We want to change that! https://t.co/bDIveDAo2Y https://t.co/HeyTyXWvIN
+
+**Media:**
+- media `3_1715018089685737472` (details not returned by the API)
+- media `3_1715018109319311360` (details not returned by the API)
+- media `3_1715018133235187712` (details not returned by the API)
+
+**Quoted post** 1715015864750342473: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-10-02 · Post · In what I consider a badass move by the dice9win team, they offered a bounty payment for our white h
+
+
+### Post — @pcaversaccio — 2023-10-02 14:14 UTC (2023-10-02 15:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1708847978016915943
+- Metrics (at fetch): not returned
+
+> In what I consider a badass move by the dice9win team, they offered a bounty payment for our white hat effort. We have decided as SEAL911 to split the bounty payment between the SEAL911 members AND the anon community member who gave the intel. I hope this sets a seminal precedent https://twitter.com/pcaversaccio/status/1706713159887716700
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1706713159887716700
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-09-26 16:51 UTC (2023-09-26 17:51 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1706713159887716700
+    - Metrics (at fetch): not returned
+    
+    > Today is a historic moment for SEAL 911 as it was the first incident where we were able to prevent damage _before_ the attack was carried out. h/t @FrankResearcher for helping with this incident &amp; the anon community member for the intel! [pic.x.com/V3Ez5IXjjt]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F692icIWcAAkn-t.png — no alt text provided by author
+    
+
+
+---
+
+## 2023-09-29 · Post · Ok, no doubt, that's just a badass audit. I've never read previously an audit report of an ETK contr
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-09-29 14:08 UTC (2023-09-29 15:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1707759203794706474
+- Metrics (at fetch): not returned
+
+> Ok, no doubt, that's just a badass audit. I've never read previously an audit report of an ETK contract (https://github.com/lightclient/4788asm/blob/main/src/main.etk). Interestingly, the concept of predeploys enters now L1. EIP-4788 (https://eips.ethereum.org/EIPS/eip-4788) upgrades the EVM via a smart contract; this is smart! [pic.x.com/gA9TsZT8Vf] https://twitter.com/chain_security/status/1707690005198512548
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7MsX9CWEAEDPN4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F7MtAH-W0AAEEFX.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F7MtISPXYAAIyum.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/lightclient/4788asm/blob/main/src/main.etk, https://eips.ethereum.org/EIPS/eip-4788, https://twitter.com/chain_security/status/1707690005198512548
+
+**Quoted post (full text):**
+
+    #### Quoted post — @887203180324507650 — 2023-09-29 09:33 UTC (2023-09-29 10:33 WAT)
+    
+    - URL: https://x.com/887203180324507650/status/1707690005198512548
+    - Metrics (at fetch): not returned
+    
+    > 1/9 New audit report out for @ethereum's EIP-4788. 
+    >
+    > Highlights in 🧵below 
+    >
+    > https://chainsecurity.com/security-audit/eip-4788-contract/
+    
+    **Links in post:** https://chainsecurity.com/security-audit/eip-4788-contract/
+    
+
+
+---
+
+## 2023-09-26 · Post · Today is a historic moment for SEAL 911 as it was the first incident where we were able to prevent d
+
+
+### Post — @pcaversaccio — 2023-09-26 16:51 UTC (2023-09-26 17:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1706713159887716700
+- Metrics (at fetch): not returned
+
+> Today is a historic moment for SEAL 911 as it was the first incident where we were able to prevent damage _before_ the attack was carried out. h/t @FrankResearcher for helping with this incident &amp; the anon community member for the intel! [pic.x.com/V3Ez5IXjjt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F692icIWcAAkn-t.png — no alt text provided by author
+
+
+---
+
+## 2023-09-25 · Post · The recent attack on @MixinKernel feels very much like the Poly Network one to me. Out of nowhere, t
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @pcaversaccio — 2023-09-25 07:55 UTC (2023-09-25 08:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1706215712237216206
+- Metrics (at fetch): bookmark 0, impression 3779, like 34, quote 0, reply 3, retweet 1
+
+> The recent attack on @MixinKernel feels very much like the Poly Network one to me. Out of nowhere, there is a network that loses hundreds of millions I never heard of. It shows very well the split between English-speaking and Chinese crypto communities.
+
+
+---
+
+## 2023-09-25 · Post · First, I never heard of this protocol. Second, it very much smells like a typical Lazarus attack. ht
+
+
+### Post — @pcaversaccio — 2023-09-25 07:33 UTC (2023-09-25 08:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1706210231129162124
+- Metrics (at fetch): bookmark 0, impression 3896, like 13, quote 1, reply 1, retweet 1
+
+> First, I never heard of this protocol. Second, it very much smells like a typical Lazarus attack. https://t.co/mCZeS5IU5e
+
+**Quoted post (full text):**
+
+    #### Quoted post — @919250799984648192 — 2023-09-25 02:50 UTC (2023-09-25 03:50 WAT)
+    
+    - URL: https://x.com/919250799984648192/status/1706139175018529139
+    - Metrics (at fetch): bookmark 66, impression 710720, like 343, quote 277, reply 148, retweet 117
+    
+    > [Announcement] In the early morning of September 23, 2023 Hong Kong time, the database of Mixin Network's cloud service provider was attacked by hackers, resulting in the loss of some assets on the mainnet. We have contacted Google and blockchain security company @SlowMist_Team
+    
+
+
+---
+
+## 2023-09-21 · Post · 🤔 @LinearFinance wtf is going on? Since you don't publicly disclose it, I will do it. The Linear sta
+
+
+### Post — @pcaversaccio — 2023-09-21 11:12 UTC (2023-09-21 12:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1704815825398460484
+- Metrics (at fetch): bookmark 1, impression 9060, like 24, quote 2, reply 1, retweet 4
+
+> 🤔 @LinearFinance wtf is going on? Since you don't publicly disclose it, I will do it. The Linear stable coin LUSD appears to be under an exploit attack. DO NOT BUY LUSD. https://t.co/shcPEbwLJf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6i4MGMXsAAa7HV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F6i4uKrWUAAO5Mb.png — no alt text provided by author
+
+
+---
+
+## 2023-09-17 · Post · If you're on Geth, avoid updating to v1.13.0! A bug affects block production. https://t.co/r2AIh4QOT
+
+
+### Post — @pcaversaccio — 2023-09-17 13:08 UTC (2023-09-17 14:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1703395535720251729
+- Metrics (at fetch): bookmark 0, impression 2878, like 9, quote 0, reply 0, retweet 0
+
+> If you're on Geth, avoid updating to v1.13.0! A bug affects block production. https://t.co/r2AIh4QOTn
+
+**Quoted post (full text):**
+
+    #### Quoted post — @981195641689812992 — 2023-09-17 12:46 UTC (2023-09-17 13:46 WAT)
+    
+    - URL: https://x.com/981195641689812992/status/1703389880410132848
+    - Metrics (at fetch): bookmark 7, impression 72390, like 137, quote 11, reply 20, retweet 45
+    
+    > 🚨 Attention Prysm + Geth users! 🚨
+    >
+    > Please hold off on updating Geth to v1.13.0 A bug has been identified in Geth that interferes with block production from Prysm. 
+    >
+    > Note: While most clients don't need local production with mev-boost, Prysm always validates against the local
+    
+
+
+---
+
+## 2023-09-16 · Post · zk-proof in practice = I have a big secret. I can't directly show you the big secret. But I can give
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-09-16 15:01 UTC (2023-09-16 16:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1703061429178216854
+- Metrics (at fetch): bookmark 15, impression 29288, like 214, quote 6, reply 20, retweet 9
+
+> zk-proof in practice = I have a big secret. I can't directly show you the big secret. But I can give you a hint that I have a big secret. 🫣 https://t.co/oXxfI75Htn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6J9WEoXIAA6mSh.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-15 · Post · I would like to thank the zkSync team for the professional handling from the second I reported the i
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-09-15 15:13 UTC (2023-09-15 16:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1702702244154527878
+- Metrics (at fetch): bookmark 6, impression 30390, like 211, quote 0, reply 16, retweet 26
+
+> I would like to thank the zkSync team for the professional handling from the second I reported the issue. Also, they paid a fair bounty even though the compiler is out of scope, showing they holistically care about security. Many projects should take this example as role model! https://t.co/0280t4BjfQ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463851728403640326 — 2023-09-15 15:03 UTC (2023-09-15 16:03 WAT)
+    
+    - URL: https://x.com/1463851728403640326/status/1702699621561008375
+    - Metrics (at fetch): bookmark 1, impression 44907, like 93, quote 3, reply 5, retweet 30
+    
+    > 📢 Upgrade to v1.3.10 of zkEVM Vyper Compiler 
+    >
+    > An issue has been fixed with uninitialized immutable values in the latest zkvyper binary 
+    >
+    > 👷‍♂️Hardhat users, please use the 'latest' version for zkvyper in your hardhat config
+    >
+    > 🤝Thanks to @pcaversaccio for reporting this issue
+    
+
+
+---
+
+## 2023-09-09 · Post · This is the first time in this space that a compiler is conducting a competitive audit contest! I st
+
+
+### Post — @pcaversaccio — 2023-09-09 11:33 UTC (2023-09-09 12:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1700472414411305172
+- Metrics (at fetch): bookmark 7, impression 12897, like 37, quote 1, reply 1, retweet 8
+
+> This is the first time in this space that a compiler is conducting a competitive audit contest! I strongly recommend reading my article as a preparation for the upcoming Vyper compiler audit contest: https://t.co/LWufO69vZK. It will give you insights deep down the rabbit hole. https://t.co/PdsUa2b0s3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @50703014 — 2023-09-09 11:08 UTC (2023-09-09 12:08 WAT)
+    
+    - URL: https://x.com/50703014/status/1700466258972459283
+    - Metrics (at fetch): bookmark 7, impression 34865, like 47, quote 3, reply 4, retweet 14
+    
+    > VYPER COMPILER $200k SECURITY BOUNTY CONTEST
+    >
+    > Vyper is a smart contract programming language inspired by #Python. Vyper compiler, written in Python, translates Vyper source code to EVM bytecode. 
+    >
+    > Various organisations are launching an open security audit competition for the https://t.co/b6YK7XZ6fW
+    
+    **Media:**
+    - media `3_1700465916822118401` (details not returned by the API)
+    
+
+
+---
+
+## 2023-09-08 · Post · So there is a 0-day, zero-click vulnerability for the latest version of iOS (16.6). Just by receivin
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @pcaversaccio — 2023-09-08 12:44 UTC (2023-09-08 13:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1700127987633377284
+- Metrics (at fetch): bookmark 10, impression 15152, like 68, quote 7, reply 8, retweet 11
+
+> So there is a 0-day, zero-click vulnerability for the latest version of iOS (16.6). Just by receiving an attachment (w/o doing anything!) on certain applications an attacker can gain access to your iPhone. DO NOT FUCKING USE smartphones for mission-critical applications. https://t.co/5GJqItoVGf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5gPq_FWwAA1dPR.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F5gQJPIW0AAg8lR.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-01 · Post · Security must be the number one priority in any smart contract developer's mindset. Thus, fuzz, inva
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-09-01 11:20 UTC (2023-09-01 12:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1697570142031376784
+- Metrics (at fetch): bookmark 11, impression 8503, like 79, quote 0, reply 7, retweet 9
+
+> Security must be the number one priority in any smart contract developer's mindset. Thus, fuzz, invariant test, symbolically execute, and audit the shit out of everything. Oh, and avoid inheritance (if possible). You can thank me later.
+
+
+---
+
+## 2023-08-26 · Post · We apparently still don't understand why client diversity matters. Example: A bug in Geth rn that af
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-08-26 10:24 UTC (2023-08-26 11:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1695381783234121947
+- Metrics (at fetch): bookmark 11, impression 78987, like 210, quote 11, reply 15, retweet 56
+
+> We apparently still don't understand why client diversity matters. Example: A bug in Geth rn that affects the handling of txs or the construction of execution payloads could cause consensus clients to complete problematic or erroneous transactions. Please use a minority client! https://t.co/V8EptW8jjy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4czcoHWAAE5S8_.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-25 · Post · So Solidity doesn't consider it a bug that when using external linked libraries, the compiler doesn'
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-08-25 08:24 UTC (2023-08-25 09:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1694989064770834707
+- Metrics (at fetch): bookmark 9, impression 8795, like 44, quote 0, reply 6, retweet 4
+
+> So Solidity doesn't consider it a bug that when using external linked libraries, the compiler doesn't generate an abi for external library functions with non view/pure functions, preventing external tooling (e.g. Tenderly) from decoding delegatecalls to them. Pretty bad move IMO. https://t.co/Op1M1DLgjo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4XPkVzWEAAXEFV.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-17 · Post · There is certainly a way to recover the ETH as long as the proxy owner didn't lose the private key. 
+
+
+### Post — @pcaversaccio — 2023-08-17 06:41 UTC (2023-08-17 07:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692064157942616374
+- Metrics (at fetch): bookmark 6, impression 12301, like 47, quote 1, reply 7, retweet 6
+
+> There is certainly a way to recover the ETH as long as the proxy owner didn't lose the private key. Upgrade the implementation, recover the funds via an ownable function, and set up a claim contract. And yes, upgradeability is still a bug as u see here🙃.
+> https://t.co/kJWzWbMSF4 https://t.co/jPleDBU8YK https://t.co/iMOqIMTRsa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3trYokXYAAWl1D.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1313986570530295808 — 2023-08-16 23:20 UTC (2023-08-17 00:20 WAT)
+    
+    - URL: https://x.com/1313986570530295808/status/1691953231289528683
+    - Metrics (at fetch): bookmark 123, impression 764294, like 1867, quote 319, reply 314, retweet 295
+    
+    > In case yall were wondering how Shibarium is going https://t.co/S5vjTxoMDk
+    
+    **Media:**
+    - media `3_1691953177250123776` (details not returned by the API)
+    
+
+
+---
+
+## 2023-08-11 · Post · Aaaand we're live. This time-boxxed bug bounty program (until September 14th) is focused on finding 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-08-11 16:43 UTC (2023-08-11 17:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1690041324991393796
+- Metrics (at fetch): bookmark 1, impression 10998, like 56, quote 0, reply 5, retweet 7
+
+> Aaaand we're live. This time-boxxed bug bounty program (until September 14th) is focused on finding compiler bugs in live Vyper smart contracts of Yearn and Lido. There has never been a better opportunity to learn about the inner workings of the Vyper compiler. Long live the 🐍 https://t.co/gOzfjN2nUB
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2023-08-11 16:31 UTC (2023-08-11 17:31 WAT)
+    
+    - URL: https://x.com/immunefi/status/1690038301606952960
+    - Metrics (at fetch): bookmark 10, impression 26865, like 90, quote 5, reply 2, retweet 26
+    
+    > New Bug Bounty! 🐍
+    >
+    > @vyperlang is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
+    >
+    > Find bugs - get $100,000!
+    > https://t.co/dfBD5J3Gld
+    
+
+
+---
+
+## 2023-08-11 · Post · Serious question: why are there no bounty programs/security contests on cryptographic primitives lib
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-08-11 07:41 UTC (2023-08-11 08:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1689904979371290624
+- Metrics (at fetch): bookmark 0, impression 6856, like 48, quote 0, reply 12, retweet 1
+
+> Serious question: why are there no bounty programs/security contests on cryptographic primitives libraries? Just think about it - if any basic cryptography fails, there are no smart contracts anymore to audit since we're simply dead (the same applies to base layer clients btw).
+
+
+---
+
+## 2023-08-08 · Post · If I were Lazarus, I'd build some fancy-looking hardware devices to give away at crypto conferences 
+
+
+### Post — @pcaversaccio — 2023-08-08 22:10 UTC (2023-08-08 23:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1689036280061894656
+- Metrics (at fetch): bookmark 2, impression 11638, like 112, quote 3, reply 12, retweet 9
+
+> If I were Lazarus, I'd build some fancy-looking hardware devices to give away at crypto conferences that people can easily exploit once they plug them into their pc. IMO, every crypto conference should inform people that they shouldn't accept hardware devices as gifts. Period.
+
+
+---
+
+## 2023-07-31 · Post · I'm mentally and physically exhausted, but I wanted to give a praise of appreciation to all of the s
+
+
+### Post — @pcaversaccio — 2023-07-31 06:06 UTC (2023-07-31 07:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1685894627843317760
+- Metrics (at fetch): bookmark 4, impression 42097, like 325, quote 4, reply 16, retweet 18
+
+> I'm mentally and physically exhausted, but I wanted to give a praise of appreciation to all of the support we've been witnessing. A full post-mortem from Vyper will be following, but the bug is anyways already public, and we focus currently on helping affected projects. Thx ❤️
+
+
+---
+
+## 2023-07-29 · Post · I truly believe that the biggest obstacle to blockchain-based systems is the wicked convenience that
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-07-29 10:07 UTC (2023-07-29 11:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1685230623638642688
+- Metrics (at fetch): bookmark 0, impression 2597, like 13, quote 1, reply 2, retweet 5
+
+> I truly believe that the biggest obstacle to blockchain-based systems is the wicked convenience that people have learned over the last decade(s) in web2. This centralised convenience has led to a lack of critical thinking that can cost $$$ in losses in our industry.
+
+
+---
+
+## 2023-07-21 · Post · Another flashloan-based attack: 1,724 ETH ($3,3m) gone
+
+
+### Post — @pcaversaccio — 2023-07-21 11:00 UTC (2023-07-21 12:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1682344912908349442
+- Metrics (at fetch): bookmark 34, impression 62931, like 120, quote 5, reply 10, retweet 18
+
+> Another flashloan-based attack: 1,724 ETH ($3,3m) gone
+> https://t.co/P9D3FDuTAU https://t.co/w3Td6ASqG1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1jjZMSWIAEAZSp.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-17 · Post · Ethereum history: On June 10th, 2016 @delete_shitcoin (aka Nikolai; RIP my friend), 7 days prior to 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-07-17 12:34 UTC (2023-07-17 13:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1680918801242570752
+- Metrics (at fetch): bookmark 10, impression 4736, like 51, quote 0, reply 3, retweet 3
+
+> Ethereum history: On June 10th, 2016 @delete_shitcoin (aka Nikolai; RIP my friend), 7 days prior to the DAO hack, conducted the first-ever reentrancy (white hat) exploit: https://t.co/rfMxK44RGJ. I've documented all of the available information in my repo: https://t.co/w2a4FeEIL1 https://t.co/dh9zZ6wKK5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1PR063WIAQ2D_S.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F1PSFMAWAAAJpuY.jpg — no alt text provided by author

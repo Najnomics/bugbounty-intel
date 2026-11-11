@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 20
-- Oldest post captured: 2025-01-20
+- Posts in this file: 26
+- Conversations/threads: 21
+- Oldest post captured: 2024-08-06
 - Newest post captured: 2026-05-14
 
 
@@ -390,3 +390,17 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 53, like 0, quote 0, reply 0, retweet 0
 
 > @wangxiao1254 We're security researchers, if anyone would find a problem with this approach, we would know it.
+
+
+---
+
+## 2024-08-06 · Post · . @notbobbytables and I arrive in Vegas for blackhat later today! Looking forward to our talk about
+
+
+### Post — @lavados — 2024-08-06 20:32 UTC (2024-08-06 21:32 WAT)
+
+- URL: https://x.com/lavados/status/1820920813119250915
+- Metrics (at fetch): bookmark 0, impression 734, like 10, quote 0, reply 0, retweet 0
+
+> . @notbobbytables and I arrive in Vegas for #blackhat later today! Looking forward to our talk about the new snailload attack!
+> Hoping to meet a lot of known and new faces 😅

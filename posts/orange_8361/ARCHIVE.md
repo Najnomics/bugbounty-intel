@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 50
-- Oldest post captured: 2024-04-09
+- Posts in this file: 57
+- Conversations/threads: 57
+- Oldest post captured: 2022-10-19
 - Newest post captured: 2026-10-29
 
 
@@ -943,3 +943,113 @@ Tags (automatic): RCE
 
 > Just submitted my ✨ new research to Black Hat USA #BHUSA, and it's all about Web Security this time! Hoping the US will approve my VISA this year, giving me the chance to back to the stage again! :/
 > @BlackHatEvents
+
+
+---
+
+## 2023-11-11 · Post · The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this pr
+
+
+### Post — @orange_8361 — 2023-11-11 15:39 UTC (2023-11-11 16:39 WAT)
+
+- URL: https://x.com/orange_8361/status/1723364825168806142
+- Metrics (at fetch): bookmark 357, impression 118633, like 855, quote 3, reply 5, retweet 252
+
+> The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this presentation somehow could be another reference to your next research!
+>
+> ➡️ Video: https://t.co/A1bYtCT5dl
+> ➡️ Slides: https://t.co/wMydKH0251
+
+
+---
+
+## 2023-11-11 · Post · The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this pr
+
+
+### Post — @orange_8361 — 2023-11-11 15:02 UTC (2023-11-11 16:02 WAT)
+
+- URL: https://x.com/orange_8361/status/1723355437662146798
+- Metrics (at fetch): bookmark 14, impression 3085, like 23, quote 0, reply 0, retweet 4
+
+> The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this presentation somehow could be another reference to your next research!
+>
+> ➡️ Video: https://t.co/A1bYtCT5dl
+> ➡️ Slide: https://t.co/wMydKH0251
+
+
+---
+
+## 2023-11-11 · Post · The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this pr
+
+
+### Post — @orange_8361 — 2023-11-11 15:02 UTC (2023-11-11 16:02 WAT)
+
+- URL: https://x.com/orange_8361/status/1723355405097562128
+- Metrics (at fetch): bookmark 0, impression 178, like 0, quote 0, reply 0, retweet 0
+
+> The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this presentation somehow could be another reference to your next research !
+>
+> ➡️ Video: https://t.co/A1bYtCT5dl
+> ➡️ Slide: https://t.co/wMydKH0251
+
+
+---
+
+## 2023-11-11 · Post · The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this pr
+
+
+### Post — @orange_8361 — 2023-11-11 14:52 UTC (2023-11-11 15:52 WAT)
+
+- URL: https://x.com/orange_8361/status/1723352907381153799
+- Metrics (at fetch): bookmark 7, impression 2872, like 23, quote 0, reply 0, retweet 4
+
+> The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this presentation could be a reference to your next research somehow!
+>
+> ➡️ Video: https://t.co/A1bYtCT5dl
+> ➡️ Slide: https://t.co/wMydKH0251
+
+
+---
+
+## 2023-11-11 · Post · The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this pr
+
+
+### Post — @orange_8361 — 2023-11-11 14:50 UTC (2023-11-11 15:50 WAT)
+
+- URL: https://x.com/orange_8361/status/1723352610218901813
+- Metrics (at fetch): bookmark 0, impression 520, like 8, quote 0, reply 0, retweet 2
+
+> The video and slides of my talk "A 3-Year Tale of Hacking a Pwn2Own Target..." are out. Hope this presentation could be a reference to your next research somehow!
+>
+> &gt; Video: https://t.co/A1bYtCT5dl
+> &gt; Slide: https://t.co/wMydKH0251
+
+
+---
+
+## 2023-07-07 · Post · New post from our Research team member: Hacking Google Search Appliance!
+
+
+### Post — @orange_8361 — 2023-07-07 18:05 UTC (2023-07-07 19:05 WAT)
+
+- URL: https://x.com/orange_8361/status/1677378401957724160
+- Metrics (at fetch): bookmark 118, impression 61139, like 481, quote 7, reply 4, retweet 156
+
+> New post from our Research team member: Hacking Google Search Appliance!
+>
+> https://t.co/q82uNBqM4h
+
+
+---
+
+## 2022-10-19 · Post · The last part of A New Attack Surface on MS Exchange - ProxyRelay is out! Have also left some final
+
+
+### Post — @orange_8361 — 2022-10-19 08:48 UTC (2022-10-19 09:48 WAT)
+
+- URL: https://x.com/orange_8361/status/1582654855713533952
+- Metrics (at fetch): bookmark 74, impression 0, like 594, quote 9, reply 1, retweet 267
+
+> The last part of A New Attack Surface on MS Exchange - #ProxyRelay is out! Have also left some final thoughts on the Closing part. Hope you all enjoy this journey :D
+>
+> https://t.co/XOmClEtB4n

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 46
-- Conversations/threads: 27
-- Oldest post captured: 2026-03-30
+- Posts in this file: 53
+- Conversations/threads: 34
+- Oldest post captured: 2025-08-06
 - Newest post captured: 2026-11-03
 
 
@@ -762,3 +762,145 @@ Tags (automatic): Platform: HackerOne
 > Yay, I was awarded a $5,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos
 
 **Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2025-08-26 · Post · When you receive these words after a good bounty from a company, it’s great to hunt on these types o
+
+
+### Post — @Assass1nmarcos — 2025-08-26 04:33 UTC (2025-08-26 05:33 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1960198988386210182
+- Metrics (at fetch): bookmark 15, impression 7269, like 70, quote 0, reply 0, retweet 2
+
+> When you receive these words after a good bounty from a company, it’s great to hunt on these types of programs that bend their scope and policies when the impact is real. https://t.co/sNPaomDtTk https://t.co/f6VLKEF15i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GzQGlkuW8AAxXfC.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Assass1nmarcos — 2025-08-26 00:06 UTC (2025-08-26 01:06 WAT)
+    
+    - URL: https://x.com/Assass1nmarcos/status/1960131593307099445
+    - Metrics (at fetch): bookmark 51, impression 19737, like 230, quote 1, reply 24, retweet 5
+    
+    > Yay, I was awarded a $9,050 bounty on @Hacker0x01! https://t.co/VEoNFDOTYU #TogetherWeHitHarder 
+    >
+    > CC: @ThisIsDK999 @_venom26
+    
+
+
+---
+
+## 2025-08-26 · Post · Yay, I was awarded a $9,050 bounty on @Hacker0x01! https://t.co/VEoNFDOTYU TogetherWeHitHarder 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-08-26 00:06 UTC (2025-08-26 01:06 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1960131593307099445
+- Metrics (at fetch): bookmark 51, impression 19737, like 230, quote 1, reply 24, retweet 5
+
+> Yay, I was awarded a $9,050 bounty on @Hacker0x01! https://t.co/VEoNFDOTYU #TogetherWeHitHarder 
+>
+> CC: @ThisIsDK999 @_venom26
+
+
+---
+
+## 2025-08-21 · Post · Thanks @Hacker0x01 @Bugcrowd ;)
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2025-08-21 04:30 UTC (2025-08-21 05:30 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1958386124369658290
+- Metrics (at fetch): bookmark 20, impression 9271, like 128, quote 0, reply 23, retweet 1
+
+> Thanks @Hacker0x01 @Bugcrowd ;)
+>
+> Exciting part: I finally got my MacBook!
+> Stressing part: Now, I need to set it up for hardcore hacking.
+>
+> Also, I want to thank @ThisIsDK999 &amp; @_venom26 for their masterstroke collaborations, which made it possible for me to afford this beast ☺️ https://t.co/Z0a1Klr2qq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gy2VzDpXEAAyh7z.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-16 · Post · Today morning, I hacked into the admin panel of a Betting &amp; Casino organisation and found that a
+
+
+### Post — @Assass1nmarcos — 2025-08-16 03:39 UTC (2025-08-16 04:39 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1956561368007446781
+- Metrics (at fetch): bookmark 78, impression 20958, like 258, quote 0, reply 18, retweet 10
+
+> Today morning, I hacked into the admin panel of a Betting &amp; Casino organisation and found that a single user had spent a staggering 1.7 Mil. USD in betting. Some accounts even spent 20-40 Mil. USD.
+>
+> Now, I feel quite poor. The company will offer a max bounty of ~20k USD for this. https://t.co/S5M0DneO9G
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GycaMPYWEAEGaoU.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-14 · Post · Yay, I was awarded a $3,894 bounty on @Hacker0x01! https://t.co/VEoNFDOTYU TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-08-14 16:07 UTC (2025-08-14 17:07 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1956024799638978621
+- Metrics (at fetch): bookmark 15, impression 5777, like 125, quote 0, reply 4, retweet 3
+
+> Yay, I was awarded a $3,894 bounty on @Hacker0x01! https://t.co/VEoNFDOTYU #TogetherWeHitHarder
+
+
+---
+
+## 2025-08-12 · Post · Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://t.co/p9LYrVLJ8l TogetherWeHitHarder 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-08-12 09:16 UTC (2025-08-12 10:16 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1955196707366637922
+- Metrics (at fetch): bookmark 11, impression 7336, like 143, quote 0, reply 8, retweet 2
+
+> Yay, I was awarded a $2,500 bounty on @Hacker0x01! https://t.co/p9LYrVLJ8l #TogetherWeHitHarder 
+>
+> CC: @ThisIsDK999 @_venom26 @_rajesh_ranjan_ @Naina___Malik
+
+
+---
+
+## 2025-08-06 · Post · Yay, I was awarded a $3,050 bounty on @Hacker0x01!  
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-08-06 09:49 UTC (2025-08-06 10:49 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1953030665139597813
+- Metrics (at fetch): bookmark 25, impression 5798, like 131, quote 0, reply 3, retweet 3
+
+> Yay, I was awarded a $3,050 bounty on @Hacker0x01!  
+>
+> CC: @ThisIsDK999 @Naina___Malik 
+>
+> https://t.co/VEoNFDOTYU #TogetherWeHitHarder

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 54
-- Conversations/threads: 52
-- Oldest post captured: 2023-06-08
+- Posts in this file: 61
+- Conversations/threads: 59
+- Oldest post captured: 2021-09-11
 - Newest post captured: 2026-10-28
 
 
@@ -1373,3 +1373,133 @@ Tags (automatic): Request smuggling / desync
 - photo: https://pbs.twimg.com/media/FyHB1vKWAAAEZoJ.jpg — no alt text provided by author
 
 **Links in post:** https://mizu.re/post/abusing-client-side-desync-on-werkzeug, https://slides.com/kevin-mizu/sstic-2023-abusing-client-side-desync-on-werkzeug-cve-2022-29361
+
+
+---
+
+## 2023-04-11 · Post · My writeup for the march @intigriti XSS challenge :
+
+
+Tags (automatic): XSS
+
+
+### Post — @kevin_mizu — 2023-04-11 14:21 UTC (2023-04-11 15:21 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1645794203325337605
+- Metrics (at fetch): bookmark 4, impression 6941, like 49, quote 0, reply 1, retweet 12
+
+> My writeup for the march @intigriti #XSS challenge :
+>
+> https://t.co/hzp9pQsxI5
+>
+> Thanks @0xGodson_ and @BrunoModificato for the quality of the challenge 🙏
+
+
+---
+
+## 2023-03-22 · Post · I'm glad to announce that I will present a talk at @sstic 2023 about an interesting Client-Side Des
+
+
+Tags (automatic): XSS, Request smuggling / desync
+
+
+### Post — @kevin_mizu — 2023-03-22 16:30 UTC (2023-03-22 17:30 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1638578821258518531
+- Metrics (at fetch): bookmark 0, impression 7373, like 81, quote 2, reply 0, retweet 25
+
+> I'm glad to announce that I will present a talk at @sstic #2023 about an interesting Client-Side Desync case I found past year in Werkzeug that can be leveraged to XSS on default configurations 🔥
+>
+> More information here: https://t.co/WSZsoD798E
+
+
+---
+
+## 2023-03-09 · Post · Last month, I did some research on NodeJS templating libraries. During this research, I found an int
+
+
+Tags (automatic): RCE
+
+
+### Post — @kevin_mizu — 2023-03-09 16:08 UTC (2023-03-09 17:08 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1633862447302860801
+- Metrics (at fetch): bookmark 63, impression 28034, like 225, quote 2, reply 5, retweet 65
+
+> Last month, I did some research on NodeJS templating libraries. During this research, I found an interesting Server Side Prototype Pollution gadget inside EJS library that can be leveraged to RCE!
+>
+> Technical details here: https://t.co/Bra3kinYb6
+
+
+---
+
+## 2022-12-14 · Post · Yesterday, I did a talk on @rootme_org about electron security. In this talk I also presented a ste
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @kevin_mizu — 2022-12-14 16:57 UTC (2022-12-14 17:57 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1603071806776164355
+- Metrics (at fetch): bookmark 29, impression 0, like 95, quote 1, reply 2, retweet 38
+
+> Yesterday, I did a talk on @rootme_org about #electron security. In this talk I also presented a step-by-step writeup of the research leading to finding the XSS to RCE vulnerability on @drawio last summer (CVE-2022-3133) ☀️
+>
+> You can find the slides here: https://t.co/XHlYtUFG7Z
+
+
+---
+
+## 2022-10-25 · Post · Last week, I created 3 web challenges for the 10kCTF organised by @rootme_org. 🚩
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @kevin_mizu — 2022-10-25 14:56 UTC (2022-10-25 15:56 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1584921942578151425
+- Metrics (at fetch): bookmark 3, impression 0, like 37, quote 1, reply 2, retweet 5
+
+> Last week, I created 3 web challenges for the #10kCTF organised by @rootme_org. 🚩
+>
+> They were about: URL parsing confusion, SQLi in prepared query and HTML sanitizer bypass!
+>
+> You can find the writeups here: https://t.co/8aFUds3TQI
+
+
+---
+
+## 2022-08-30 · Post · This week, I solved an interesting challenge made by @0xItarow at @_barbhack_ 🌞
+
+
+### Post — @kevin_mizu — 2022-08-30 15:52 UTC (2022-08-30 16:52 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1564642151870480385
+- Metrics (at fetch): bookmark 2, impression 0, like 45, quote 0, reply 1, retweet 20
+
+> This week, I solved an interesting challenge made by @0xItarow at @_barbhack_ 🌞
+> It was about RPO abuse on a file upload feature!
+>
+> You can find the writeup here: https://t.co/5lseja2CJr 🎉
+
+
+---
+
+## 2021-09-11 · Post · Hello👋
+
+
+### Post — @kevin_mizu — 2021-09-11 10:14 UTC (2021-09-11 11:14 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1436634166226038787
+- Metrics (at fetch): not returned
+
+> Hello👋
+>
+> Pendant le CTF web de l'@EuCyberCup, avec @Ooggule et @FeelProud_sec, nous avons obtenu le flag du 2ème challenge "Panid" d'une manière non attendue, vous pouvez retrouver le writeup ici :
+> https://mizu.re/post/Panid_EC2_2021
+>
+> PS: Merci à l'admin pour le flag :)
+
+**Links in post:** https://mizu.re/post/Panid_EC2_2021

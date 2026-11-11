@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 4
-- Oldest post captured: 2024-11-12
+- Posts in this file: 28
+- Conversations/threads: 7
+- Oldest post captured: 2022-05-26
 - Newest post captured: 2024-11-14
 
 
@@ -307,3 +307,63 @@ Tags (automatic): ZK
 > https://app.devcon.org/schedule/R9X9ZG
 
 **Links in post:** https://app.devcon.org/schedule/R9X9ZG
+
+
+---
+
+## 2023-11-14 · Post · 1/ 📢 Two days to go until the Programmable Cryptography Conference at @EFDevconnect (Nov 16-17)! A f
+
+
+### Post — @0xPARC — 2023-11-14 08:46 UTC (2023-11-14 09:46 WAT)
+
+- URL: https://x.com/0xPARC/status/1724348099081256970
+- Metrics (at fetch): not returned
+
+> 1/ 📢 Two days to go until the Programmable Cryptography Conference at @EFDevconnect (Nov 16-17)! A final thread to highlight some of the programming and arcs below. 🧵👇
+>
+> (FULL SCHEDULE and tickets available at http://progcrypto.org)
+
+**Links in post:** http://progcrypto.org
+
+
+---
+
+## 2023-10-10 · Post · 1/ [New Post] @FlynnCalcutt shares ZK Hunt: an exploration into the unknown.
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2023-10-10 10:59 UTC (2023-10-10 11:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1711698080788013547
+- Metrics (at fetch): not returned
+
+> 1/ [New Post] @FlynnCalcutt shares ZK Hunt: an exploration into the unknown.
+> https://0xparc.org/blog/zk-hunt [pic.x.com/21WvAoKOMH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F8EqyRoXYAALw7K.png — no alt text provided by author
+
+**Links in post:** https://0xparc.org/blog/zk-hunt
+
+
+---
+
+## 2022-05-26 · Post · 1/ [APPLY BY WEDS 6/1] Halo2 Learning Group
+
+
+### Post — @0xPARC — 2022-05-26 17:58 UTC (2022-05-26 18:58 WAT)
+
+- URL: https://x.com/0xPARC/status/1529884818598772737
+- Metrics (at fetch): not returned
+
+> 1/ [APPLY BY WEDS 6/1] Halo2 Learning Group
+>
+> We'll be running a learning group from 6/13 - 7/8 focused on PLONK and Halo2. See the post below (and this thread) for details on the program and how to apply.
+>
+> Earlier applications will be prioritized first.
+>
+> https://0xparc.org/blog/halo2-learning-group
+
+**Links in post:** https://0xparc.org/blog/halo2-learning-group

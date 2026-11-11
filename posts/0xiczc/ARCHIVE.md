@@ -232,6 +232,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2024-01-28 · Reply · @farazsth98 Thanks! Glad you enjoyed my challenge.😁
 
 
+**Context — post being replied to:**
+
+#### Parent post — @farazsth98 — 2024-01-27 10:52 UTC (2024-01-27 11:52 WAT)
+
+- URL: https://x.com/farazsth98/status/1751196535478784119
+- Metrics (at fetch): not returned
+
+> Real World CTF's Safe Bridge was a nice challenge! somewhat of a realistic bug in my opinion, which made it all the more interesting 😄
+
+
 ### Post — @0xiczc — 2024-01-28 13:08 UTC (2024-01-28 14:08 WAT)
 
 - URL: https://x.com/0xiczc/status/1751592965980737950

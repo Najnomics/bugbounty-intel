@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 132
-- Conversations/threads: 117
-- Oldest post captured: 2025-09-15
+- Posts in this file: 196
+- Conversations/threads: 181
+- Oldest post captured: 2016-11-12
 - Newest post captured: 2026-11-05
 
 
@@ -2115,7 +2115,7 @@ Tags (automatic): XSS
     > This is the reason there are so many real risks to be found because of stupid scoring frameworks and compliance requirements
     
     **Media:**
-    - media `3_2008821372949069824` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/G-DEZT_XgAAeIKW.jpg — no alt text provided by author
     
 
 
@@ -2592,3 +2592,1673 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/G04D8htXoAAd7UG.jpg — no alt text provided by author
 
 **Links in post:** https://ai4eh.ethiack.ninja
+
+
+---
+
+## 2025-09-12 · Post · The Hack the Agent challenge is finished.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-09-12 08:37 UTC (2025-09-12 09:37 WAT)
+
+- URL: https://x.com/0xacb/status/1966420993049502179
+- Metrics (at fetch): not returned
+
+> The Hack the Agent challenge is finished.
+>
+> GG to all the hackers who played! We hope you enjoyed it.
+>
+> We will leave it running for those who still want to play with it at https://hacktheagent.com
+>
+> Stay tuned on @ethiack socials for more challenges. [pic.x.com/DpujorbBNh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0ohWuqWUAALfKo.jpg — no alt text provided by author
+
+**Links in post:** https://hacktheagent.com
+
+
+---
+
+## 2025-09-08 · Post · Bypassing WAFs with traditional payloads is getting harder.
+
+
+### Post — @0xacb — 2025-09-08 08:07 UTC (2025-09-08 09:07 WAT)
+
+- URL: https://x.com/0xacb/status/1964963756288413833
+- Metrics (at fetch): not returned
+
+> Bypassing WAFs with traditional payloads is getting harder.
+>
+> Here's how clever payload splitting can bypass them 👇
+>
+> https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
+
+**Links in post:** https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
+
+
+---
+
+## 2025-09-05 · Post · Some thoughts from rez0 on the future of bug bounty and AI 🔥
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-09-05 09:13 UTC (2025-09-05 10:13 WAT)
+
+- URL: https://x.com/0xacb/status/1963893205763567659
+- Metrics (at fetch): not returned
+
+> Some thoughts from rez0 on the future of bug bounty and AI 🔥
+>
+> As someone working on hackbots, I agree that human + AI symbiosis will likely be more effective than either alone.
+>
+> https://josephthacker.com/hacking/2025/06/09/this-is-how-they-tell-me-bug-bounty-ends.html
+
+**Links in post:** https://josephthacker.com/hacking/2025/06/09/this-is-how-they-tell-me-bug-bounty-ends.html
+
+
+---
+
+## 2025-09-02 · Post · Want to put your AI model hacking skills to the test?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-09-02 08:23 UTC (2025-09-02 09:23 WAT)
+
+- URL: https://x.com/0xacb/status/1962793583410373089
+- Metrics (at fetch): not returned
+
+> Want to put your AI model hacking skills to the test?
+>
+> See if you can solve all the challenges in our Hack The Agent challenge!
+>
+> Try it at: https://hacktheagent.com [pic.x.com/jBixkplOfk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gz0-PnEXMAAL0i-.jpg — no alt text provided by author
+
+**Links in post:** https://hacktheagent.com
+
+
+---
+
+## 2025-08-20 · Post · Typical CSS injection often relies on repeated context loading (usually via iframes) to exfiltrate s
+
+
+### Post — @0xacb — 2025-08-20 09:03 UTC (2025-08-20 10:03 WAT)
+
+- URL: https://x.com/0xacb/status/1958092488515649773
+- Metrics (at fetch): not returned
+
+> Typical CSS injection often relies on repeated context loading (usually via iframes) to exfiltrate sensitive tokens.
+>
+> I found this tool by @ixSly that's both fast and works in Chrome and Safari. It can leak tokens with just a single CSS import by leveraging -webkit-cross-fade 🤯
+>
+> Check it out 👇
+>
+> https://github.com/ixSly/sCSSLeak
+>
+> Also worth remembering the sic tool by @d0nutptr, though it doesn't very seem stable in recent browser versions.
+
+**Links in post:** https://github.com/ixSly/sCSSLeak
+
+
+---
+
+## 2025-08-15 · Post · How to turn iframes and http://window.open into weapons for XSS.
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-08-15 09:15 UTC (2025-08-15 10:15 WAT)
+
+- URL: https://x.com/0xacb/status/1956283707137851590
+- Metrics (at fetch): not returned
+
+> How to turn iframes and http://window.open into weapons for XSS.
+>
+> From origin manipulation to sandbox escape, this paper by @aszx87410 is stacked with juicy info. 
+>
+> Huli dives deep into the magical world of iframes and http://window.open and is definitely worth a read!
+>
+> What's covered?
+> 💥 XSS via encoded javascript: iframe src
+> 💥 Using srcdoc to bypass origin and execute DOM-level attacks
+> 💥 Escalating sandbox privileges with http://window.open
+> 💥 Leaking or persisting data cross-origin via http://window.name
+> 💥 Bypassing event.origin validation with sandboxed null origins
+>
+> Read at: https://blog.huli.tw/2022/04/07/en/iframe-and-window-open
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyYdi7sXEAEiHG_.jpg — no alt text provided by author
+
+**Links in post:** http://window.open, http://window.name, https://blog.huli.tw/2022/04/07/en/iframe-and-window-open
+
+
+---
+
+## 2025-08-06 · Post · Want to learn how to hack LLMs? The research team at @ethiack just launched a 5-level CTF.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-08-06 16:50 UTC (2025-08-06 17:50 WAT)
+
+- URL: https://x.com/0xacb/status/1953136670989021694
+- Metrics (at fetch): not returned
+
+> Want to learn how to hack LLMs? The research team at @ethiack just launched a 5-level CTF.
+>
+> And we’ll be handing prizes to top performers every week, including @CaidoIO licenses!
+>
+> 👉 https://hacktheagent.com [pic.x.com/89LNtLleVm]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gxru2KNbsAAwYMH.jpg — no alt text provided by author
+
+**Links in post:** https://hacktheagent.com
+
+
+---
+
+## 2025-08-04 · Post · We just dropped some research and used our hackbot to take it further. Read and go bypass some WAFs 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-08-04 20:31 UTC (2025-08-04 21:31 WAT)
+
+- URL: https://x.com/0xacb/status/1952467355411554362
+- Metrics (at fetch): not returned
+
+> We just dropped some research and used our hackbot to take it further. Read and go bypass some WAFs 🚨
+>
+> Congrats @s3np41k1r1t0 for the great research 🔥 https://twitter.com/ethiack/status/1952382056748724418
+
+**Links in post:** https://twitter.com/ethiack/status/1952382056748724418
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1494707118712184832 — 2025-08-04 14:52 UTC (2025-08-04 15:52 WAT)
+    
+    - URL: https://x.com/1494707118712184832/status/1952382056748724418
+    - Metrics (at fetch): not returned
+    
+    > What happens when a WAF blocks every XSS payload you throw at it? You get creative.
+    >
+    > 🔗 Read the full blog post: https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
+    
+    **Links in post:** https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
+    
+
+
+---
+
+## 2025-07-31 · Post · If you're learning about vibe hacking, here's a cool article demonstrating how @mattrkeeley used AI 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-07-31 09:07 UTC (2025-07-31 10:07 WAT)
+
+- URL: https://x.com/0xacb/status/1950845742584676733
+- Metrics (at fetch): not returned
+
+> If you're learning about vibe hacking, here's a cool article demonstrating how @mattrkeeley used AI to create a working exploit for CVE-2025-32433 before any public PoCs existed!
+>
+> Worth a read 👇
+> https://platformsecurity.com/blog/CVE-2025-32433-poc [pic.x.com/gVNhYNLC2M]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GxLL3HdWQAMsBY7.jpg — no alt text provided by author
+
+**Links in post:** https://platformsecurity.com/blog/CVE-2025-32433-poc
+
+
+---
+
+## 2025-07-21 · Post · Ready to explore how AI is transforming Ethical Hacking?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-07-21 08:07 UTC (2025-07-21 09:07 WAT)
+
+- URL: https://x.com/0xacb/status/1947206869220479361
+- Metrics (at fetch): not returned
+
+> Ready to explore how AI is transforming Ethical Hacking?
+>
+> We've put together some introductory hands-on examples including:
+>
+> 🔍 Recon & Discovery
+> Contextual subdomain enum, screenshot analysis, and content discovery
+>
+> ⚡ Exploit Development
+> Automated vulnerability detection
+>
+> 🤖 Hackbots
+> Using and extending open-source AI agents, leveraging Burp AI
+>
+> 🧠 Integrations & Plugins
+> MCP servers for Burp Suite and Ghidra, Caido Shift Plugin and custom tool orchestration
+>
+> 🏆 CTF Challenges
+> 3 simple scenarios to test your skills
+>
+> This repository contains a workshop guide, educational tools and scripts for learning how AI can be applied in offensive security.
+>
+> Check it out: https://github.com/ethiack/ai4eh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwXeNgQXQAAvtkJ.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/ethiack/ai4eh
+
+
+---
+
+## 2025-07-18 · Post · Love the nowafpls Burp extension by @assetnote to bypass WAFs but using Caido?
+
+
+### Post — @0xacb — 2025-07-18 09:37 UTC (2025-07-18 10:37 WAT)
+
+- URL: https://x.com/0xacb/status/1946142252234952709
+- Metrics (at fetch): not returned
+
+> Love the nowafpls Burp extension by @assetnote to bypass WAFs but using Caido?
+>
+> @Rhynorater recreated it for @CaidoIO.
+>
+> Check it out 👇
+> https://gist.github.com/Rhynorater/ace68d4976357ca0937cb4669f303306
+
+**Links in post:** https://gist.github.com/Rhynorater/ace68d4976357ca0937cb4669f303306
+
+
+---
+
+## 2025-07-15 · Post · Vibe coded a simple PHP app using Claude code.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-07-15 08:37 UTC (2025-07-15 09:37 WAT)
+
+- URL: https://x.com/0xacb/status/1945040109906149402
+- Metrics (at fetch): not returned
+
+> Vibe coded a simple PHP app using Claude code.
+>
+> Path traversal is prevented via basename functions.
+>
+> Can you still exploit it?
+>
+> A shell is waiting for you at https://ai4eh.ethiack.ninja [pic.x.com/ckNRPI1ZkO]
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://ai4eh.ethiack.ninja
+
+
+---
+
+## 2025-07-10 · Post · PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+
+
+### Post — @0xacb — 2025-07-10 11:16 UTC (2025-07-10 12:16 WAT)
+
+- URL: https://x.com/0xacb/status/1943268055112458661
+- Metrics (at fetch): not returned
+
+> PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+>
+> This @synacktiv research explores how php://filter can turn these silent reads into file leaks using error-based oracles.
+>
+> 💥 Exponential encoding triggers memory limit errors
+> 💥 Hex checks via dechunk determine initial file bytes
+> 💥 Chained encodings reorder bytes to extract any position
+>
+> Take a look: https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+**Links in post:** https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+
+---
+
+## 2025-07-10 · Post · PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+
+
+### Post — @0xacb — 2025-07-10 11:16 UTC (2025-07-10 12:16 WAT)
+
+- URL: https://x.com/0xacb/status/1943267966709055687
+- Metrics (at fetch): not returned
+
+> PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+>
+> This @synacktiv research explores how php://filter can turn these silent reads into file leaks using error-based oracles
+>
+> 💥 Exponential encoding triggers memory limit errors
+> 💥 Hex checks via dechunk determine initial file bytes
+> 💥 Chained encodings reorder bytes to extract any position
+>
+> Take a look: https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+**Links in post:** https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+
+---
+
+## 2025-07-10 · Post · PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+
+
+### Post — @0xacb — 2025-07-10 11:15 UTC (2025-07-10 12:15 WAT)
+
+- URL: https://x.com/0xacb/status/1943267863227257042
+- Metrics (at fetch): not returned
+
+> PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+>
+> This @synacktiv research explores how php://filter can turn these silent reads into file leaks using error-based oracles.
+>
+> 💥 Exponential encoding triggers memory limit errors
+> 💥 Hex checks via dechunk determine initial file bytes
+> 💥 Chained encodings reorder bytes to extract any position
+>
+> Take a look: https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+**Links in post:** https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+
+---
+
+## 2025-07-10 · Post · PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+
+
+### Post — @0xacb — 2025-07-10 11:07 UTC (2025-07-10 12:07 WAT)
+
+- URL: https://x.com/0xacb/status/1943265772882513983
+- Metrics (at fetch): not returned
+
+> PHP functions like file() don’t display content, but that doesn’t mean they’re secure.
+>
+> This @synacktiv research explores how php://filter can turn these silent reads into file leaks using error-based oracles.
+>
+> 💥 Exponential encoding triggers memory limit errors
+> 💥 Hex checks via dechunk determine initial file bytes
+> 💥 Chained encodings reorder bytes to extract any position
+>
+> Take a look: https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+**Links in post:** https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+
+
+---
+
+## 2025-07-08 · Post · SMTP expects messages to end with the sequence \r\n.\r\n.
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @0xacb — 2025-07-08 08:36 UTC (2025-07-08 09:36 WAT)
+
+- URL: https://x.com/0xacb/status/1942503051237167262
+- Metrics (at fetch): not returned
+
+> SMTP expects messages to end with the sequence \r\n.\r\n.
+>
+> But not all servers agree.
+>
+> Some interpret \n.\n, others accept exotic sequences like \r.\r. If an outbound server ignores a delimiter and the inbound recognizes it, you get a context break.
+>
+> That’s SMTP smuggling.
+>
+> By crafting malformed end-of-data sequences, you can:
+> 💥 Break out of the message body.
+> 💥 Inject new SMTP commands.
+> 💥 Send spoofed emails with full SPF/DKIM/DMARC alignment.
+>
+> This works because authentication is decoupled from message handling. Once you’re through a trusted relay (e.g., GMX, Exchange Online), you're inside.
+>
+> The research shows:
+> 💥 GMX relays \n.\n and \n.\r\n unfiltered.
+> 💥 Cisco Secure Email accepts \r.\r as end-of-data.
+> 💥 Outlook uses BDAT, but falls back to DATA if CHUNKING isn’t supported.
+>
+> It’s basically like HTTP request smuggling but at the SMTP level. 
+>
+> Read the full research paper by @timolongin here 👇 https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvUoOdMWUAA1XCU.jpg — no alt text provided by author
+
+**Links in post:** https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide
+
+
+---
+
+## 2025-07-08 · Post · SMTP expects messages to end with the sequence \r\n.\r\n.
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @0xacb — 2025-07-08 08:27 UTC (2025-07-08 09:27 WAT)
+
+- URL: https://x.com/0xacb/status/1942500727080833366
+- Metrics (at fetch): not returned
+
+> SMTP expects messages to end with the sequence \r\n.\r\n.
+>
+> But not all servers agree.
+>
+> Some interpret \n.\n, others accept exotic sequences like \r.\r. If an outbound server ignores a delimiter and the inbound recognizes it, you get a context break.
+>
+> That’s SMTP smuggling.
+>
+> By crafting malformed end-of-data sequences, you can:
+> 💥 Break out of the message body.
+> 💥 Inject new SMTP commands.
+> 💥 Send spoofed emails with full SPF/DKIM/DMARC alignment.
+>
+> This works because authentication is decoupled from message handling. Once you’re through a trusted relay (e.g., GMX, Exchange Online), you're inside.
+>
+> The research shows:
+> 💥 GMX relays \n.\n and \n.\r\n unfiltered.
+> 💥 Cisco Secure Email accepts \r.\r as end-of-data.
+> 💥 Outlook uses BDAT, but falls back to DATA if CHUNKING isn’t supported.
+>
+> It’s basically like HTTP request smuggling but at the SMTP level. 
+>
+> Read the full research paper by @timolongin here 👇 https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide
+
+**Links in post:** https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide
+
+
+---
+
+## 2025-07-07 · Post · Most open redirects are low-severity or N/A.
+
+
+Tags (automatic): XSS, SSRF, OAuth
+
+
+### Post — @0xacb — 2025-07-07 09:37 UTC (2025-07-07 10:37 WAT)
+
+- URL: https://x.com/0xacb/status/1942155984899559836
+- Metrics (at fetch): not returned
+
+> Most open redirects are low-severity or N/A.
+>
+> But used creatively, they can become high impact gadgets.
+>
+> Here are 4 ways to show impact with open redirects:
+>
+> 1️⃣ SSRF Chaining
+>
+> Use it to bypass filters where the domain is allow-listed.
+>
+> 2️⃣ OAuth Abuse
+>
+> Exploit it in auth flows to leak access tokens and sensitive parameters.
+>
+> 3️⃣ Iframe Embedding + postMessage
+>
+> Embed your attacker-controlled redirect page via iframe for postMessage exploits.
+>
+> 4️⃣ Client-side Path Traversal
+>
+> Inject ../../ in dynamic fetch or iframe src to hit the redirect and potentially trigger XSS.
+>
+> Loads more gadgets like this in this @ctbbpodcast HackerNotes: https://blog.criticalthinkingpodcast.io/p/useful-gadgets-when-bug-bounty-hunting
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvPsknJW8AAn5-I.jpg — no alt text provided by author
+
+**Links in post:** https://blog.criticalthinkingpodcast.io/p/useful-gadgets-when-bug-bounty-hunting
+
+
+---
+
+## 2025-07-02 · Post · Nginx normalizes paths (/../, %2e, etc.) before applying access rules like: location = /admin { deny
+
+
+### Post — @0xacb — 2025-07-02 08:21 UTC (2025-07-02 09:21 WAT)
+
+- URL: https://x.com/0xacb/status/1940325041834471716
+- Metrics (at fetch): not returned
+
+> Nginx normalizes paths (/../, %2e, etc.) before applying access rules like: location = /admin { deny all; }
+>
+> But backends like Node.js or PHP handle decoding again, and differently.
+>
+> Requesting /;admin or /admin%2f..%2f might bypass Nginx’s block, but get normalized to /admin by the backend.
+>
+> Result? The forbidden route now becomes accessible.
+>
+> The root cause:
+> 💥 Nginx applies ACLs pre-backend.
+> 💥 Backends apply their own parsing.
+> 💥 Inconsistencies = bypass.
+>
+> Exploits include:
+> 💥 Prefixing with special characters (;, @, %00)
+> 💥 Over-encoded paths (%2f, %252e)
+> 💥 Inserting full URLs or alternate syntax to confuse proxies
+>
+> Some real examples:
+>
+> Node.js: Ignores \xa0, \x09, \x0c
+> 💥 /admin\xa0 → Blocked by Nginx, matched by Express
+>
+> Flask: Strips \x85, \xa0, \x1f ...
+> 💥 /admin\x85 → Bypasses Nginx’s location blocks
+>
+> Spring Boot: Ignores \x09, ;
+> 💥 /admin; or /admin\x09 → Access granted
+>
+> PHP-FPM:
+> 💥 /admin.php/index.php → Nginx blocks /admin.php, but PHP parses only the first .php
+>
+> AWS WAF: Line folding with \x09 splits headers
+> 💥 X-Query: \r\n\t'or'1'='1'-- → Bypasses WAF, interpreted by Node.js (fixed in 2022)
+>
+> The full research paper by Rafael da Costa Santos is packed full of juicy details, super cool stuff. https://blog.bugport.net/exploiting-http-parsers-inconsistencies
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gu1rN9EWwAAkGVx.jpg — no alt text provided by author
+
+**Links in post:** https://blog.bugport.net/exploiting-http-parsers-inconsistencies
+
+
+---
+
+## 2025-06-27 · Post · Can you hack a vibe coded PHP app? Yes. Can you use AI to hack the same app? Yes.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-06-27 17:35 UTC (2025-06-27 18:35 WAT)
+
+- URL: https://x.com/0xacb/status/1938652455538987352
+- Metrics (at fetch): not returned
+
+> Can you hack a vibe coded PHP app? Yes. Can you use AI to hack the same app? Yes.
+>
+> Just dropped our workshop on AI for Ethical Hacking.
+>
+> Full materials 👇
+>
+> https://github.com/ethiack/ai4eh/blob/main/ai-for-ethical-hacking.pdf
+>
+> Blog post: https://blog.ethiack.com/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster [pic.x.com/5uXrKiuCAV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gud4tG0WQAA_X7p.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/ethiack/ai4eh/blob/main/ai-for-ethical-hacking.pdf, https://blog.ethiack.com/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster
+
+
+---
+
+## 2025-06-16 · Post · I like to bypass XSS filters and sanitizers, so I keep forgetting to test for CSS exfiltration when 
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-06-16 14:48 UTC (2025-06-16 15:48 WAT)
+
+- URL: https://x.com/0xacb/status/1934624097985515836
+- Metrics (at fetch): not returned
+
+> I like to bypass XSS filters and sanitizers, so I keep forgetting to test for CSS exfiltration when I have HTML injection.
+>
+> This reminded me of the sic tool by @d0nutptr from a Singapore LHE, but there's also a cool list from @PortSwigger 👇
+>
+> https://github.com/PortSwigger/css-exfiltration
+
+**Links in post:** https://github.com/PortSwigger/css-exfiltration
+
+
+---
+
+## 2025-06-16 · Post · I like to bypass XSS filters and sanitizers, so I keep forgetting to test for CSS exfiltration when 
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-06-16 14:43 UTC (2025-06-16 15:43 WAT)
+
+- URL: https://x.com/0xacb/status/1934622825815462219
+- Metrics (at fetch): not returned
+
+> I like to bypass XSS filters and sanitizers, so I keep forgetting to test for CSS exfiltration when I have HTML injection.
+>
+> This reminded me of the https://github.com/d0nutptr/sic tool by @d0nutptr from a Singapore LHE, but there's also a cool list from @PortSwigger 👇
+>
+> https://github.com/PortSwigger/css-exfiltration
+
+**Links in post:** https://github.com/d0nutptr/sic, https://github.com/PortSwigger/css-exfiltration
+
+
+---
+
+## 2025-06-11 · Post · This is how DOM clobbering works.
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-06-11 08:51 UTC (2025-06-11 09:51 WAT)
+
+- URL: https://x.com/0xacb/status/1932722419380228270
+- Metrics (at fetch): not returned
+
+> This is how DOM clobbering works.
+>
+> When you create an element with an id, the browser automatically creates a global variable for that ID:
+>
+> <a id="foo"></a>
+>
+> Now http://window.foo points to that single element.
+>
+> But when you create multiple elements with the same id:
+>
+> <a id="foo"></a>
+> <a id="foo"></a>
+>
+> Now http://window.foo becomes an HTMLCollection, not a single element.
+>
+> Add a name attribute:
+>
+> <a id="foo" name="bar" href="..."></a>
+>
+> And http://window.foo.bar now points to that element (works in Chromium/WebKit browsers, but not Firefox).
+>
+> Now combine that with a common JS pattern like:
+>
+> var someObject = window.someObject || {};
+>
+> This is meant to provide a fallback if the global doesn't exist. However, if window.someObject has been clobbered by injected HTML, the fallback silently trusts a DOM object instead of a real JS object.
+>
+> Now imagine this JS logic:
+>
+> let imgSrc = someObject.avatar;
+>
+> If an attacker clobbered someObject.avatar with:
+>
+> <a id=someObject></a>
+> <a id=someObject name=avatar href='cid:"onerror=alert(1)//'></a>
+>
+> If HTML is set via innerHTML or similar, then this could render as:
+>
+> <img src="cid:" onerror="alert(1)//"">
+>
+> Which triggers XSS! Here's a quick walkthrough of the DOM clobbering @WebSecAcademy lab👇
+>
+> Try this lab: https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** http://window.foo, http://window.foo.bar, https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
+
+
+---
+
+## 2025-06-10 · Post · 10 ways to encode IPs to bypass validations 👇
+
+
+### Post — @0xacb — 2025-06-10 17:08 UTC (2025-06-10 18:08 WAT)
+
+- URL: https://x.com/0xacb/status/1932484945877839880
+- Metrics (at fetch): not returned
+
+> 10 ways to encode IPs to bypass validations 👇
+>
+> 8.8.1028 → Partial Decimal (Class B)
+> Combines the 3rd and 4th octets: 4 × 256 + 4 = 1028
+>
+> 8.525316 → Partial Decimal (Class A)
+> Combines the last three octets into one decimal number
+>
+> 0x08.8.004.004 → Mixed Encoding
+> Hexadecimal + Decimal + Octal (segment by segment)
+>
+> 0x08.0x08.004.004 → Double Hex + Octal
+> Two segments in hex, two in octal
+>
+> 0x08.010.4.4 → Hex + Octal + Decimal Mix
+>
+> 134743044 → Single Decimal
+> Full 32-bit integer representation of the IP
+>
+> 0x08080404 → Full Hexadecimal IP
+> Entire IP encoded as a single hex literal
+>
+> 010.010.004.004 → All Octal
+> Each segment padded with 0 to force octal interpretation
+>
+> 0x8.0x8.0x4.0x4 → Hex per Segment
+> All four octets encoded individually in hex
+>
+> 8.8.0x404 → Partial Hex (Class B)
+> Last segment in hex: 0x404 = 1028
+>
+> You can also use unicode digits instead!
+>
+> These won't resolve with curl/ping etc but may still work with other libraries:
+>
+> ⑧.⑧.④.④ ← Circled unicode digits
+> ８.８.４.４ ← Fullwidth unicode digits
+> 𝟠.𝟠.𝟜.𝟜 ← Math unicode digits
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtGQ0ClXEAAT6oQ.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-07 · Post · Exploiting slash/backslash mismatch to trigger cache poisoning.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2025-06-07 09:07 UTC (2025-06-07 10:07 WAT)
+
+- URL: https://x.com/0xacb/status/1931276762224165322
+- Metrics (at fetch): not returned
+
+> Exploiting slash/backslash mismatch to trigger cache poisoning.
+>
+> This one-liner bug by @bassemsadaqah led to a CDN-wide DoS on Shopify and is a great example of how simple tricks can lead to impactful issues in mature organizations.
+>
+> Full report here 👇
+> https://hackerone.com/reports/1695604
+
+**Links in post:** https://hackerone.com/reports/1695604
+
+
+---
+
+## 2025-06-05 · Post · Once you’ve found a source of user input, the next question is:
+
+
+Tags (automatic): XSS, SSRF, RCE
+
+
+### Post — @0xacb — 2025-06-05 08:46 UTC (2025-06-05 09:46 WAT)
+
+- URL: https://x.com/0xacb/status/1930546717474041922
+- Metrics (at fetch): not returned
+
+> Once you’ve found a source of user input, the next question is:
+>
+> Where does that input land?
+>
+> That’s your sink. And WordPress plugins expose a ton of them. 
+>
+> Here are 9 to look for 👇
+>
+> 1. update_option()
+>
+> - Stores global config like default roles, site settings, API keys.
+> - Set the default role to admin + enable registration = privilege escalation.
+> - API key fields are often unescaped on output which can result in Stored XSS on admin visit.
+>
+> 2. add_post(), update_post(), delete_post(), trash_post()
+>
+> - Used for creating/updating content.
+> - If input flows here unescaped leading to Stored XSS
+> - Combine with CSRF to trick admins into triggering XSS → edit plugin → RCE.
+>
+> 3. update_user_meta()
+>
+> - Controls user roles, capabilities, custom fields.
+> - Found often in membership plugins.
+> - If you can update arbitrary meta you may be about escalate to admin.
+>
+> 4. move_uploaded_file() / unzip_file()
+>
+> - Used in file upload and extraction flows.
+> - If MIME/type checks are weak → zip slip, double extension tricks, or web shell uploads.
+> - Look for plugins that re-implement these functions manually.
+>
+> 5. wp_remote_get()
+>
+> - Makes outbound HTTP requests.
+> - Great SSRF sink especially in cloud environments
+>
+> 6. wp_handle_upload()
+>
+> - File upload handler with MIME + extension validation.
+> - Safe by default unless the plugin overrides it (which many do).
+>
+> 7. is_file(), file_exists(), file_get_contents()
+>
+> - File checks and reads.
+> - When combined with PHAR-based deserialization, these may become RCE triggers.
+>
+> 8. _e()
+>
+> - Used for echoing translated strings.
+> - Combine this with file uploads of poisoned translation files = Stored XSS.
+>
+> 9. $_REQUEST + request_page
+>
+> - Mixing GET and POST inputs gives variable overloading.
+> - If a plugin uses $_REQUEST['page'] and echoes it, and you control both GET + POST, you may get Stored XSS.
+>
+> Shoutout to @ctbbpodcast! 🔥
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsquASlXIAAaLER.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-03 · Post · Many WordPress devs trust wp_kses_post() to sanitize post content and assume shortcode attributes ar
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-06-03 10:01 UTC (2025-06-03 11:01 WAT)
+
+- URL: https://x.com/0xacb/status/1929840981290971441
+- Metrics (at fetch): not returned
+
+> Many WordPress devs trust wp_kses_post() to sanitize post content and assume shortcode attributes are safe too.
+>
+> But they’re not.
+>
+> wp_kses_post() only sanitizes FULL HTML tags, not partial content or attribute values.
+>
+> Shortcodes let users add dynamic functionality inside posts, like this: [shortcode_name attribute1="value1"].
+>
+> This tells WordPress to run a plugin’s code, insert the result and customize how the output is rendered.
+>
+> But if the plugin outputs the attribute value directly into HTML without escaping it, the input can become executable which means [shortcode_name attribute1='" onmouseover="alert(1)"'] would be rendered into <a class="" onmouseover="alert(1)" href="#">Click</a>, resulting in a Stored XSS!
+>
+> Shoutout to @ramuelgall and @ctbbpodcast for these tips! 🙏
+>
+> More info at 👉 https://blog.criticalthinkingpodcast.io/p/hn-55-wordpress-plugins-common-design-flaws-code-review-methodology
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsgsJJ9XkAAXw3v.jpg — no alt text provided by author
+
+**Links in post:** https://blog.criticalthinkingpodcast.io/p/hn-55-wordpress-plugins-common-design-flaws-code-review-methodology
+
+
+---
+
+## 2025-05-20 · Post · Automation handles the known. Humans uncover the new.
+
+
+### Post — @0xacb — 2025-05-20 08:33 UTC (2025-05-20 09:33 WAT)
+
+- URL: https://x.com/0xacb/status/1924745243448037674
+- Metrics (at fetch): not returned
+
+> Automation handles the known. Humans uncover the new.
+>
+> Here are 6 ways to manually find new attack vectors 👇
+>
+> 1️⃣ Redefining the Impossible - "You can't"
+>
+> Search documentation for “X cannot do Y” restrictions. These statements often highlight strong assumptions and logic. Use them to target role misconfigurations, bypasses, and potential enforcements.
+>
+> 2️⃣ Bypassing Paywalls
+>
+> Buy access once. Analyze which API calls enable or use paid features. Then reuse those calls with a free account. Some apps rely on frontend checks only. While some programs may not consider this valid, financial impact is a valid security issue - it affects the integrity of the application and the business itself.
+>
+> 3️⃣ What's that Library?
+>
+> Found an interesting endpoint? Cool. Fuzz it to make the backend return some errors. Copy and paste parts of the exact error on GitHub to figure out what library the target may be using. Go deep and try to exploit it, while looking for recently closed issues or potential vulnerabilities in the code (or dependencies).
+>
+> 4️⃣ Make the UI go Crazy
+>
+> Trigger UI states that developers never expected to exist, display hidden elements and don't just replace "false" with "true". Change properties progressively from "false" to "true" in the response body or replace other values, e.g. change your balance or change your subscription code, while analyzing how the app behaves.
+>
+> 5️⃣ Using the App as a Normal User
+>
+> Focus on using the app from the user perspective. Navigate it manually while your proxy logs requests. Start writing ideas, e.g. it would be cool to find a way to sneak HTML in my account name, it's blocked in the signup flow but what about profile edit? And the API?
+>
+> 6️⃣ Analyzing Responses for Weird Stuff
+>
+> Check what the backend returns vs. what’s shown in the frontend. Redacted data (e.g. only 4 digits of a SSN) might be fully exposed via backend. Look for potential beta features or weird properties.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrYRmN4XQAABjWy.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-13 · Post · When browsers flatten deeply nested nodes, it happens after parsing. 
+
+
+### Post — @0xacb — 2025-05-13 09:02 UTC (2025-05-13 10:02 WAT)
+
+- URL: https://x.com/0xacb/status/1922215945512038763
+- Metrics (at fetch): not returned
+
+> When browsers flatten deeply nested nodes, it happens after parsing. 
+>
+> That means if a <style> is pulled out of an <svg>, it still retains its SVG namespace even though it now appears outside the <svg> 🤯
+>
+> This creates invalid but accepted DOMs that mutate on reparse.
+>
+> Even <a> tags flattened from SVG into HTML bypass HTML nesting rules and stay in the tree.
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1922215931582803968/pu/img/EEuSFkBj87R3GJBG.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-05 · Post · Bug bounties ain't just web. Throwback to when @kernelpaniek and I got RCE on Steam Client via a buf
+
+
+Tags (automatic): RCE, Memory corruption / native, Platform: HackerOne
+
+
+### Post — @0xacb — 2025-05-05 09:02 UTC (2025-05-05 10:02 WAT)
+
+- URL: https://x.com/0xacb/status/1919316709418107043
+- Metrics (at fetch): not returned
+
+> Bug bounties ain't just web. Throwback to when @kernelpaniek and I got RCE on Steam Client via a buffer overflow in Server Browser 🚨
+>
+> Root Cause:
+> 🎯 Wide-char conversion without boundary checks inside serverbrowser.dll leading to stack corruption
+>
+> Exploit:
+> 🪲 Crafted oversized Unicode player name payload
+> 🪲 Unicode-compatible ROP chain built from Steam.exe gadgets
+> 🪲 Dynamic call to VirtualProtect to mark stack executable
+> 🪲 Shellcode launches cmd.exe
+>
+> Impact:
+> 💥 Remote code execution (RCE) on Windows
+> 🤔 Partial control on Linux (2 bytes of EIP)
+> 🤔 SIGABRT on macOS (due to canaries)
+>
+> Delivery:
+> 📦 User tries to connect to a CS game via Steam client
+> 📦 User visits malicious webpage triggering Steam protocol handler
+>
+> Tools:
+> 🛠️ Python for UDP server and payload generation
+> 🛠️ Immunity Debugger for base address retrieval
+> 🛠️ Steam Server Query documentation for packet crafting
+>
+> Read the full report: https://hackerone.com/reports/470520
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqLIX2ZXcAAVIdr.jpg — no alt text provided by author
+
+**Links in post:** https://hackerone.com/reports/470520
+
+
+---
+
+## 2025-04-28 · Post · Querying all DNS records of a target (or list of subdomains) with dnsX -recon flag.
+
+
+### Post — @0xacb — 2025-04-28 09:37 UTC (2025-04-28 10:37 WAT)
+
+- URL: https://x.com/0xacb/status/1916788947365093603
+- Metrics (at fetch): not returned
+
+> Querying all DNS records of a target (or list of subdomains) with dnsX -recon flag.
+>
+> Sometimes you can find extra subs and even more interesting records to expand your info on the attack surface 👀 [pic.x.com/QEwXkHmY2h]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpnNRc_XUAAoRuy.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-14 · Post · Black-box regex fuzzing to bypass validations with REcollpase. Just pushed a new update 👀
+
+
+### Post — @0xacb — 2025-04-14 09:09 UTC (2025-04-14 10:09 WAT)
+
+- URL: https://x.com/0xacb/status/1911708346291278310
+- Metrics (at fetch): not returned
+
+> Black-box regex fuzzing to bypass validations with REcollpase. Just pushed a new update 👀
+>
+> Repo: https://github.com/0xacb/recollapse [pic.x.com/v5FvRcS35l]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GofAm4NXoAA7ETl.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/0xacb/recollapse
+
+
+---
+
+## 2025-04-11 · Post · Somehow, Chrome 130+ started parsing the hostname from javascript URLs again and this can be used fo
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2025-04-11 09:02 UTC (2025-04-11 10:02 WAT)
+
+- URL: https://x.com/0xacb/status/1910619377273020614
+- Metrics (at fetch): not returned
+
+> Somehow, Chrome 130+ started parsing the hostname from javascript URLs again and this can be used for a constrained XSS 🤯
+>
+> https://challenges.ethiack.ninja/leak-the-secret/?url=javascript://legit.ethiack.ninja/%250aalert(document.domain)//
+>
+> This was the second solution for the recent CTF challenge. [pic.x.com/JQxMokpydN]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1910619314991865856/pu/img/Nwc7psLYKTcXsMM8.jpg — no alt text provided by author
+
+**Links in post:** https://challenges.ethiack.ninja/leak-the-secret/?url=javascript://legit.ethiack.ninja/%250aalert(document.domain)//
+
+
+---
+
+## 2025-04-08 · Post · Here's a challenge. There are at least two valid solutions!
+
+
+### Post — @0xacb — 2025-04-08 09:02 UTC (2025-04-08 10:02 WAT)
+
+- URL: https://x.com/0xacb/status/1909532204914422084
+- Metrics (at fetch): not returned
+
+> Here's a challenge. There are at least two valid solutions!
+>
+> Solve it to discover a nice bug bounty tip!
+>
+> Play here 👉 https://challenges.ethiack.ninja/leak-the-secret/ [pic.x.com/qsTODF0Z2x]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GoAFawQXEAAP66w.jpg — no alt text provided by author
+
+**Links in post:** https://challenges.ethiack.ninja/leak-the-secret/
+
+
+---
+
+## 2025-04-05 · Post · Need help writing reports?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2025-04-05 01:06 UTC (2025-04-05 02:06 WAT)
+
+- URL: https://x.com/0xacb/status/1908325344014192925
+- Metrics (at fetch): not returned
+
+> Need help writing reports?
+>
+> Check out @Jhaddix's Bounty Plz GPT ✍️
+>
+> Just give it a host name and a brief description of your finding and it will do the rest!
+>
+> (🔗 in comments) [pic.x.com/HLnFE86JXM]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1908325310552055809/pu/img/bO73XOLZz3ciM9do.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-26 · Post · Just published a writeup for Git Arbitrary Configuration Injection (CVE-2023-29007) via @ethiack.
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2023-04-26 16:05 UTC (2023-04-26 17:05 WAT)
+
+- URL: https://x.com/0xacb/status/1651256116121067522
+- Metrics (at fetch): not returned
+
+> Just published a writeup for Git Arbitrary Configuration Injection (CVE-2023-29007) via @ethiack.
+>
+> A simple parsing logic error could lead to arbitrary configuration injection and local code execution while running legitimate Git commands.
+>
+> https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007
+
+**Links in post:** https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007
+
+
+---
+
+## 2019-12-21 · Post · When friends hack together amazing things just happen. Loved to play with this bug, one my favorites
+
+
+### Post — @0xacb — 2019-12-21 21:58 UTC (2019-12-21 22:58 WAT)
+
+- URL: https://x.com/0xacb/status/1208507004098142210
+- Metrics (at fetch): not returned
+
+> When friends hack together amazing things just happen. Loved to play with this bug, one my favorites of the year! Good job my friend @samwcyo https://twitter.com/samwcyo/status/1208461516674084867
+
+**Links in post:** https://twitter.com/samwcyo/status/1208461516674084867
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2019-12-21 18:57 UTC (2019-12-21 19:57 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1208461516674084867
+    - Metrics (at fetch): not returned
+    
+    > New writeup, one of my favorite bugs 🤠 -
+    >
+    > Filling in the Blanks: Exploiting Null Byte Buffer Overflow for a $40,000 Bounty
+    >
+    > https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/
+    >
+    > Featuring...
+    > @d0nutptr @0xacb @Regala_ @JLLiS @Yassineaboukir @plmaltais [pic.x.com/RomLgdCcSC]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/EMVRV4jXkAAYtuN.jpg — no alt text provided by author
+    
+    **Links in post:** https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/
+    
+
+
+---
+
+## 2019-04-21 · Post · I was going to drop a tool and a blog post about this technique in a few days. Submitted my first RC
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2019-04-21 15:38 UTC (2019-04-21 16:38 WAT)
+
+- URL: https://x.com/0xacb/status/1119988684164562950
+- Metrics (at fetch): not returned
+
+> I was going to drop a tool and a blog post about this technique in a few days. Submitted my first RCE in a public BB program using this technique with @infosec_au back in January and I've been improving it since then. Now, I'll be releasing my tool as well. https://t.co/bxINKfNrdb
+
+**Links in post:** https://t.co/bxINKfNrdb
+
+**Quoted post** 1119671665548517376: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2019-01-29 · Post · Bug bounty writeup - Installing arbitrary apps (RCE) via MITM on Samsung phones https://twitter.com/
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2019-01-29 19:44 UTC (2019-01-29 20:44 WAT)
+
+- URL: https://x.com/0xacb/status/1090334878921568257
+- Metrics (at fetch): not returned
+
+> Bug bounty writeup - Installing arbitrary apps (RCE) via MITM on Samsung phones https://twitter.com/Adyta_pt/status/1090326022854197248
+
+**Links in post:** https://twitter.com/Adyta_pt/status/1090326022854197248
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1017169950954450947 — 2019-01-29 19:09 UTC (2019-01-29 20:09 WAT)
+    
+    - URL: https://x.com/1017169950954450947/status/1090326022854197248
+    - Metrics (at fetch): not returned
+    
+    > Writeup – Samsung Galaxy Apps Store RCE via MITM https://www.adyta.pt/2019/01/29/writeup-samsung-app-store-rce-via-mitm/
+    
+    **Links in post:** https://www.adyta.pt/2019/01/29/writeup-samsung-app-store-rce-via-mitm/
+    
+
+
+---
+
+## 2018-12-22 · Post · We did it 🔥 RCE on Steam Client! We’ll publish a writeup if we have permission https://twitter.com/k
+
+
+Tags (automatic): RCE, Memory corruption / native
+
+
+### Post — @0xacb — 2018-12-22 19:18 UTC (2018-12-22 20:18 WAT)
+
+- URL: https://x.com/0xacb/status/1076557615990259712
+- Metrics (at fetch): not returned
+
+> We did it 🔥 RCE on Steam Client! We’ll publish a writeup if we have permission https://twitter.com/kernelpaniek/status/1069203671001587712
+
+**Links in post:** https://twitter.com/kernelpaniek/status/1069203671001587712
+
+**Quoted post (full text):**
+
+    #### Quoted post — @731525029972848644 — 2018-12-02 12:16 UTC (2018-12-02 13:16 WAT)
+    
+    - URL: https://x.com/731525029972848644/status/1069203671001587712
+    - Metrics (at fetch): not returned
+    
+    > Got a nice bufferoverflow on steam, but unable to exploit due all the added null bytes :’( [pic.x.com/UrBjU17JoE]
+    
+    **Media:**
+    - media `3_1069203640999714816` (details not returned by the API)
+    - media `3_1069203640987107328` (details not returned by the API)
+    
+
+
+---
+
+## 2018-12-21 · Post · My life changed 10 months ago when I started doing bug bounties. I’ve collaborated in 35 reports, we
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-12-21 21:34 UTC (2018-12-21 22:34 WAT)
+
+- URL: https://x.com/0xacb/status/1076229417792344067
+- Metrics (at fetch): not returned
+
+> My life changed 10 months ago when I started doing bug bounties. I’ve collaborated in 35 reports, went to 7 live-hacking events, I was the H1-202 MVH, and found some critical bugs :) Check out my 2018 Year In Review on @Hacker0x01: https://hackerone.com/0xacb/year-in-review! #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/0xacb/year-in-review
+
+
+---
+
+## 2018-12-05 · Post · GitHub Desktop RCE (OSX) Bug Bounty writeup:
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2018-12-05 15:37 UTC (2018-12-05 16:37 WAT)
+
+- URL: https://x.com/0xacb/status/1070341449760366594
+- Metrics (at fetch): not returned
+
+> GitHub Desktop RCE (OSX) Bug Bounty writeup:
+>
+> https://pwning.re/2018/12/04/github-desktop-rce/
+>
+> Thank you @GitHubSecurity for the bounty!
+
+**Links in post:** https://pwning.re/2018/12/04/github-desktop-rce/
+
+
+---
+
+## 2018-10-27 · Post · Yesterday, @Regala_ gave an amazing Bug Bounty Workshop in my class at the MSc in Information Securi
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-10-27 15:28 UTC (2018-10-27 16:28 WAT)
+
+- URL: https://x.com/0xacb/status/1056206074628452353
+- Metrics (at fetch): not returned
+
+> Yesterday, @Regala_ gave an amazing Bug Bounty Workshop in my class at the MSc in Information Security - @UPorto. Students were also challenged to hack a program on @Hacker0x01. Also, thank you @JLLiS and @0xfad0 for helping students doing some recon :) [pic.x.com/EOxGyVKIVe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DqhkCDVWoAEoD1i.jpg — no alt text provided by author
+
+
+---
+
+## 2018-08-28 · Post · Yay, I was awarded a $5,000 bounty on @Hacker0x01! Thanks @GitHubSecurity ❤️ Writeup soon! https://h
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-08-28 02:14 UTC (2018-08-28 03:14 WAT)
+
+- URL: https://x.com/0xacb/status/1034262814024716289
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $5,000 bounty on @Hacker0x01! Thanks @GitHubSecurity ❤️ Writeup soon! https://hackerone.com/0xacb #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/0xacb
+
+
+---
+
+## 2018-07-01 · Post · h1702 CTF was super cool. The last mobile challenge was about exploiting a buffer overflow + canary
+
+
+Tags (automatic): Mobile / Android / iOS, Memory corruption / native
+
+
+### Post — @0xacb — 2018-07-01 11:46 UTC (2018-07-01 12:46 WAT)
+
+- URL: https://x.com/0xacb/status/1013388296649666561
+- Metrics (at fetch): not returned
+
+> #h1702 CTF was super cool. The last mobile challenge was about exploiting a buffer overflow + canary bypass + ret2libc in a native lib (Android) from a Webview with a JavaScript interface. There was only space for one gadget! (1/3)
+
+
+---
+
+## 2018-05-23 · Post · Here it is: https://hackerone.com/reports/341876 🔥🔥🔥🔥🔥🔥
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-05-23 21:13 UTC (2018-05-23 22:13 WAT)
+
+- URL: https://x.com/0xacb/status/999397917331992577
+- Metrics (at fetch): not returned
+
+> Here it is: https://hackerone.com/reports/341876 🔥🔥🔥🔥🔥🔥
+> Thanks to @0xfad0 for the help!
+> And thanks for the bounty, @Shopify and @Hacker0x01!!
+
+**Links in post:** https://hackerone.com/reports/341876
+
+
+---
+
+## 2018-05-23 · Post · Yay, I was awarded a $25,000 bounty on @Hacker0x01! https://hackerone.com/0xacb TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-05-23 21:06 UTC (2018-05-23 22:06 WAT)
+
+- URL: https://x.com/0xacb/status/999396162158448641
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $25,000 bounty on @Hacker0x01! https://hackerone.com/0xacb #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/0xacb
+
+
+---
+
+## 2018-03-25 · Post · Yay, I was awarded a $7,500 bounty on @Hacker0x01! https://hackerone.com/0xacb TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-03-25 23:34 UTC (2018-03-26 00:34 WAT)
+
+- URL: https://x.com/0xacb/status/978052569284083715
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $7,500 bounty on @Hacker0x01! https://hackerone.com/0xacb #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/0xacb
+
+
+---
+
+## 2018-02-27 · Post · I woke up 3 hours ago and this already happened: https://hackerone.com/reports/320355
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-02-27 18:06 UTC (2018-02-27 19:06 WAT)
+
+- URL: https://x.com/0xacb/status/968547852266983426
+- Metrics (at fetch): not returned
+
+> I woke up 3 hours ago and this already happened: https://hackerone.com/reports/320355
+> Ty @Shopify and @Hacker0x01 for the bounty
+
+**Links in post:** https://hackerone.com/reports/320355
+
+
+---
+
+## 2018-02-27 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/0xacb TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2018-02-27 17:43 UTC (2018-02-27 18:43 WAT)
+
+- URL: https://x.com/0xacb/status/968542101813243905
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/0xacb #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/0xacb
+
+
+---
+
+## 2018-01-15 · Post · First bug bounty report this year: duplicate 😢
+
+
+### Post — @0xacb — 2018-01-15 04:01 UTC (2018-01-15 05:01 WAT)
+
+- URL: https://x.com/0xacb/status/952752637258104832
+- Metrics (at fetch): not returned
+
+> First bug bounty report this year: duplicate 😢
+
+
+---
+
+## 2017-12-23 · Post · Bug Bounty goals for 2018:
+
+
+### Post — @0xacb — 2017-12-23 16:28 UTC (2017-12-23 17:28 WAT)
+
+- URL: https://x.com/0xacb/status/944605735752695810
+- Metrics (at fetch): not returned
+
+> Bug Bounty goals for 2018:
+> - Start doing bug bounties
+
+
+---
+
+## 2017-11-20 · Post · Just published my writeup for h1212 CTF: https://pwning.re/2017/11/20/h1-212-writeup/
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @0xacb — 2017-11-20 21:11 UTC (2017-11-20 22:11 WAT)
+
+- URL: https://x.com/0xacb/status/932718133361639425
+- Metrics (at fetch): not returned
+
+> Just published my writeup for #h1212 CTF: https://pwning.re/2017/11/20/h1-212-writeup/
+> Thanks @jobertabma, @NahamSec and @Hacker0x01 for this awesome challenge!
+
+**Links in post:** https://pwning.re/2017/11/20/h1-212-writeup/
+
+
+---
+
+## 2017-11-19 · Post · Bypassing FORTIFY_SOURCE with an user-supplied SECCOMP filter (hxpctf Hardened Flag Store Writeup)
+
+
+### Post — @0xacb — 2017-11-19 23:42 UTC (2017-11-20 00:42 WAT)
+
+- URL: https://x.com/0xacb/status/932393692454932481
+- Metrics (at fetch): not returned
+
+> Bypassing FORTIFY_SOURCE with an user-supplied SECCOMP filter (#hxpctf Hardened Flag Store Writeup)
+> https://pwning.re/2017/11/19/hxp-flag-store/
+
+**Links in post:** https://pwning.re/2017/11/19/hxp-flag-store/
+
+
+---
+
+## 2017-11-19 · Post · hardened_flag_store from hxpctf was a pretty cool challenge.
+
+
+### Post — @0xacb — 2017-11-19 02:53 UTC (2017-11-19 03:53 WAT)
+
+- URL: https://x.com/0xacb/status/932079439567097856
+- Metrics (at fetch): not returned
+
+> hardened_flag_store from #hxpctf was a pretty cool challenge.
+> I'm going to publish a writeup later!
+
+
+---
+
+## 2017-06-26 · Post · Google CTF Writeup - Food - Android Reverse Engineering
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @0xacb — 2017-06-26 16:29 UTC (2017-06-26 17:29 WAT)
+
+- URL: https://x.com/0xacb/status/879376010130620420
+- Metrics (at fetch): not returned
+
+> Google CTF Writeup - Food - Android Reverse Engineering
+> http://pwning.re/2017/06/25/google-ctf-food/
+> Static + Dynamic Analysis
+
+**Links in post:** http://pwning.re/2017/06/25/google-ctf-food/
+
+
+---
+
+## 2017-06-21 · Post · https://x.com/ptraughber Bug Bounty Program
+
+
+### Post — @0xacb — 2017-06-21 13:38 UTC (2017-06-21 14:38 WAT)
+
+- URL: https://x.com/0xacb/status/877521229657329664
+- Metrics (at fetch): not returned
+
+> https://x.com/ptraughber Bug Bounty Program
+> Excellent idea by @dsopas 
+> Let's hope for the best!
+
+**Links in post:** https://x.com/ptraughber
+
+
+---
+
+## 2017-02-27 · Post · bkpctf Hiddensc writeup (pwn 200): http://pwning.re/2017/02/27/bkp-hidden-sc/
+
+
+### Post — @0xacb — 2017-02-27 13:06 UTC (2017-02-27 14:06 WAT)
+
+- URL: https://x.com/0xacb/status/836200959630061569
+- Metrics (at fetch): not returned
+
+> #bkpctf Hiddensc writeup (pwn 200): http://pwning.re/2017/02/27/bkp-hidden-sc/
+
+**Links in post:** http://pwning.re/2017/02/27/bkp-hidden-sc/
+
+
+---
+
+## 2017-01-23 · Post · Exploit for baby (pwn 50):
+
+
+### Post — @0xacb — 2017-01-23 01:25 UTC (2017-01-23 02:25 WAT)
+
+- URL: https://x.com/0xacb/status/823340952450428928
+- Metrics (at fetch): not returned
+
+> Exploit for baby (pwn 50):
+> http://pwning.re/2017/01/22/insomnihack-teaser-baby/
+> #insomnihack
+
+**Links in post:** http://pwning.re/2017/01/22/insomnihack-teaser-baby/
+
+
+---
+
+## 2017-01-11 · Post · Trying to explain a vuln to @uid1000 : "I still don't know why chrome crashes. He's expecting potato
+
+
+### Post — @0xacb — 2017-01-11 00:52 UTC (2017-01-11 01:52 WAT)
+
+- URL: https://x.com/0xacb/status/818983830463926272
+- Metrics (at fetch): not returned
+
+> Trying to explain a vuln to @uid1000 : "I still don't know why chrome crashes. He's expecting potatoes and I'm feeding him with cabbages"
+
+
+---
+
+## 2016-12-15 · Post · It's a long way from heap overflow to RCE if there is nothing to overwrite... But it's possible to o
+
+
+Tags (automatic): RCE, Memory corruption / native
+
+
+### Post — @0xacb — 2016-12-15 19:44 UTC (2016-12-15 20:44 WAT)
+
+- URL: https://x.com/0xacb/status/809484304552251392
+- Metrics (at fetch): not returned
+
+> It's a long way from heap overflow to RCE if there is nothing to overwrite... But it's possible to overwrite free chunk metadata 😎
+
+
+---
+
+## 2016-11-22 · Post · QiwiCTF pwnable writeup
+
+
+### Post — @0xacb — 2016-11-22 19:35 UTC (2016-11-22 20:35 WAT)
+
+- URL: https://x.com/0xacb/status/801147152630161409
+- Metrics (at fetch): not returned
+
+> #QiwiCTF pwnable writeup
+> https://abaptista.github.io/2016/11/22/qiwi-ctf-writeup/
+
+**Links in post:** https://abaptista.github.io/2016/11/22/qiwi-ctf-writeup/
+
+
+---
+
+## 2016-11-12 · Post · My writeup for E-Cryption - Reverse 400:
+
+
+### Post — @0xacb — 2016-11-12 21:39 UTC (2016-11-12 22:39 WAT)
+
+- URL: https://x.com/0xacb/status/797554549691219968
+- Metrics (at fetch): not returned
+
+> My writeup for E-Cryption - Reverse 400:
+> https://abaptista.github.io/2016/11/12/bsides-lisbon-ctf/
+> #bsideslisbon #bsideslisbonctf
+
+**Links in post:** https://abaptista.github.io/2016/11/12/bsides-lisbon-ctf/

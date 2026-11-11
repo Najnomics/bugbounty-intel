@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
-- Conversations/threads: 80
-- Oldest post captured: 2023-08-08
+- Posts in this file: 116
+- Conversations/threads: 103
+- Oldest post captured: 2021-10-06
 - Newest post captured: 2026-11-11
 
 
@@ -1637,3 +1637,464 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F3AlbzuagAA81sV.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-17 · Post · Happy to secure 😎 happy bounty 💲💸
+
+
+### Post — @SuyashS91823422 — 2023-05-17 15:49 UTC (2023-05-17 16:49 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1658862399976517632
+- Metrics (at fetch): bookmark 8, impression 7312, like 37, quote 1, reply 5, retweet 1
+
+> Happy to secure 😎 happy bounty 💲💸
+> Bug type - info disclosure
+> Always use dirsearch on every subdomains may get sensitive information.
+> @3ncryptSaan 
+> @GodfatherOrwa 
+> @ADITYASHENDE17 
+> @theXSSrat 
+>
+> #bugbountytips 
+> #Hacking 
+> #cybersecurite 
+> #BugBounty https://t.co/j1dWT4sfh2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwV2jj0WcAUruaA.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-05 · Post · Please help SQL injection is possible but can't able to fetch database.
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @SuyashS91823422 — 2023-05-05 13:43 UTC (2023-05-05 14:43 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1654481868467896321
+- Metrics (at fetch): bookmark 21, impression 7367, like 72, quote 0, reply 18, retweet 5
+
+> Please help SQL injection is possible but can't able to fetch database.
+> @GodfatherOrwa @ADITYASHENDE17 
+> @theXSSrat @krishnsec @3ncryptSaan https://t.co/tRkvAgXoM1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvXme2qXsAY4Kwv.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-27 · Post · Hello @alexmturnbull i reported many vulnerabilities in your web application and rewarded with bount
+
+
+### Post — @SuyashS91823422 — 2023-03-27 03:32 UTC (2023-03-27 04:32 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1640195166563864576
+- Metrics (at fetch): bookmark 1, impression 581, like 2, quote 0, reply 1, retweet 0
+
+> Hello @alexmturnbull i reported many vulnerabilities in your web application and rewarded with bounty of $25+$25 for 2 bugs but it's now one month passed away but i didn't receive my bounty please send my bounty.
+> PayPal address
+> suyash212004@gmail.com
+> Help me 
+> @3ncryptSaan https://t.co/iRAxi2ejuM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsMkzZ0WIAIGxNL.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FsMkzpHWcAEmink.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-12 · Post · hello @Zizooboats i have find a high level bug in your company and reported it for 4th time because 
+
+
+### Post — @SuyashS91823422 — 2023-03-12 10:44 UTC (2023-03-12 11:44 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1634867932202414082
+- Metrics (at fetch): bookmark 0, impression 385, like 1, quote 0, reply 0, retweet 0
+
+> hello @Zizooboats i have find a high level bug in your company and reported it for 4th time because of no response from your side 
+> please have a look on my report
+> thanking you 
+> suyash sharma
+
+
+---
+
+## 2023-03-12 · Post · hello @Groove few weeks/month back i reported 2 vulnerabilities in your company for which i was awar
+
+
+### Post — @SuyashS91823422 — 2023-03-12 10:08 UTC (2023-03-12 11:08 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1634858984330108931
+- Metrics (at fetch): bookmark 0, impression 381, like 1, quote 0, reply 0, retweet 0
+
+> hello @Groove few weeks/month back i reported 2 vulnerabilities in your company for which i was awarded with $25+$25 bounty but after many request till date i did not receive my bounty please send by bounty as early as possible
+> thanking you 
+> suyash sharma
+
+
+---
+
+## 2023-01-30 · Post · Reported many bugs in many organisations This month
+
+
+Tags (automatic): XSS
+
+
+### Post — @SuyashS91823422 — 2023-01-30 09:00 UTC (2023-01-30 10:00 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1619983951350890496
+- Metrics (at fetch): bookmark 0, impression 481, like 4, quote 0, reply 0, retweet 0
+
+> Reported many #bugs in many organisations This month
+> Bug type:-
+> 4 XSS (medium)
+> 2 misconfigured Jenikens instances (HIGH)
+> #bugbountytips 
+> #UPDATE 
+> #infosec
+> #CyberSec https://t.co/MpfBsCldYF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FntWx6ZaIAABgMd.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FntWylnaMAEzpcq.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FntWzLZacAEcFuA.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FntWzzjacAAE7ut.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-19 · Reply · @PayTabs I have reported 3 vulnerabilities.
+
+
+### Post — @SuyashS91823422 — 2022-12-19 05:45 UTC (2022-12-19 06:45 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1604714441609969664
+- Metrics (at fetch): bookmark 0, impression 83, like 0, quote 0, reply 2, retweet 0
+
+> @PayTabs I have reported 3 vulnerabilities.
+> One week ago may I know the updates on my bug report.
+> #waitingforresponse
+
+
+---
+
+## 2022-10-15 · Reply · @Kajabi i found a high cve in your company and reported you 8 day back may I know any updates on my 
+
+
+### Post — @SuyashS91823422 — 2022-10-15 04:28 UTC (2022-10-15 05:28 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1581140029534982145
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @Kajabi i found a high cve in your company and reported you 8 day back may I know any updates on my report. 
+> Please atleast we as bug hunter expect a reply form company.
+
+
+---
+
+## 2022-10-15 · Reply · @floatbot i have reported you 3 reflected xss but i did not get any reply. 
+
+
+Tags (automatic): XSS
+
+
+### Post — @SuyashS91823422 — 2022-10-15 04:05 UTC (2022-10-15 05:05 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1581134249909841920
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @floatbot i have reported you 3 reflected xss but i did not get any reply. 
+> Please check you bug bounty mail i have sended you reportes 6 months back and also reported the same 6 days back. Please have look on it. 
+> We as a bug hunter expect that company should reply..
+
+
+---
+
+## 2022-07-18 · Post · How to find Sql injection when we have large scope and many sql parameters urls?? 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @SuyashS91823422 — 2022-07-18 12:25 UTC (2022-07-18 13:25 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1549007444889677834
+- Metrics (at fetch): bookmark 2, impression 0, like 13, quote 0, reply 3, retweet 2
+
+> How to find Sql injection when we have large scope and many sql parameters urls?? 
+> #help
+> #bugbounty
+> @3ncryptSaan @IamRenganathan @theXSSrat @rootxyash
+
+
+---
+
+## 2022-07-02 · Post · I got my 1st valid bug on @Bugcrowd VPD. 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2022-07-02 03:52 UTC (2022-07-02 04:52 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1543080025980751872
+- Metrics (at fetch): bookmark 5, impression 0, like 88, quote 0, reply 11, retweet 2
+
+> I got my 1st valid bug on @Bugcrowd VPD. 
+> Bug type=P2 web cache deception. 
+> Happy to secure😎😎
+> @3ncryptSaan @IamRenganathan @theXSSrat @rootxyash https://t.co/4af6cLHnSK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWofGQoVQAEC57I.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FWofGw2VQAEc0_H.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-14 · Post · Happy to secure @BugBase 
+
+
+### Post — @SuyashS91823422 — 2022-05-14 10:17 UTC (2022-05-14 11:17 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1525420150274592769
+- Metrics (at fetch): bookmark 4, impression 0, like 22, quote 0, reply 4, retweet 1
+
+> Happy to secure @BugBase 
+> Bounty of ₹2000
+> @IamRenganathan 
+> @3ncryptSaan 
+> @theXSSrat 
+> @HackerGautam https://t.co/HR5xn6OL2G
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FSthiZcVIAADbJk.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-25 · Post · How to find sql injection 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @SuyashS91823422 — 2022-04-25 14:46 UTC (2022-04-25 15:46 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1518602322976272387
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> How to find sql injection 
+> When we are having large number of sql parameters... 
+> So it will be very difficult to find it by manual..?? 
+> Any tips form your side. 
+> @ADITYASHENDE17 
+> @IamRenganathan 
+> @theXSSrat 
+> @3ncryptSaan 
+> @HackerGautam
+
+
+---
+
+## 2022-04-08 · Post · Happy to secure @DukeU 
+
+
+Tags (automatic): XSS
+
+
+### Post — @SuyashS91823422 — 2022-04-08 15:39 UTC (2022-04-08 16:39 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1512455156369346560
+- Metrics (at fetch): bookmark 3, impression 0, like 26, quote 1, reply 2, retweet 2
+
+> Happy to secure @DukeU 
+> Reflected Xss
+> Thank you
+> @HackerGautam 
+> @IamRenganathan
+> @3ncryptSaan 
+> @theXSSrat https://t.co/aCT0RxArEz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FP1R8ZCXoAM3ro1.jpg — no alt text provided by author
+
+
+---
+
+## 2022-03-16 · Post · One more duplicate but happy to secure😎😎
+
+
+### Post — @SuyashS91823422 — 2022-03-16 04:25 UTC (2022-03-16 05:25 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1503950672298799104
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 1
+
+> One more duplicate but happy to secure😎😎
+> Bug Type - Rate limit bypassing.. 
+> @3ncryptSaan 
+> @theXSSrat 
+> @HackerGautam 
+> @IamRenganathan https://t.co/IDnySafqD1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FN8bJnnVkAAwi8o.jpg — no alt text provided by author
+
+
+---
+
+## 2022-02-17 · Post · I have a question.. 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2022-02-17 13:54 UTC (2022-02-17 14:54 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1494309272192045061
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> I have a question.. 
+> How to get private invitation from Bugcrowd/Hackerone..
+> Please reply
+> @e11i0t_4lders0n @GodfatherOrwa @theXSSrat @IamRenganathan @SuyashS91823422 @ADITYASHENDE17
+
+
+---
+
+## 2022-02-17 · Post · Happy to secure @Zivame 
+
+
+### Post — @SuyashS91823422 — 2022-02-17 06:32 UTC (2022-02-17 07:32 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1494198021898211328
+- Metrics (at fetch): bookmark 2, impression 0, like 27, quote 0, reply 1, retweet 1
+
+> Happy to secure @Zivame 
+> Bug type OTP BYPASS.. 
+> @IamRenganathan @3ncryptSaan @HackerGautam https://t.co/npGX1vOOba
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FLx1LWrUYAAUTPT.jpg — no alt text provided by author
+
+
+---
+
+## 2022-01-23 · Post · Found my 1st valid XSS..
+
+
+Tags (automatic): XSS
+
+
+### Post — @SuyashS91823422 — 2022-01-23 09:00 UTC (2022-01-23 10:00 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1485175710759395328
+- Metrics (at fetch): not returned
+
+> Found my 1st valid XSS..
+> Thank you @theXSSrat 
+> @HackerGautam 
+> @3ncryptSaan 
+> #bugbounty 
+> #XSS [pic.x.com/GlOWUjOElz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FJxnbVGVEAAmltd.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FJxnbieVgAIOUXs.jpg — no alt text provided by author
+
+
+---
+
+## 2022-01-21 · Post · Hello 
+
+
+### Post — @SuyashS91823422 — 2022-01-21 08:59 UTC (2022-01-21 09:59 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1484450503194918919
+- Metrics (at fetch): not returned
+
+> Hello 
+> @thecyberzeel 
+> I founded a critical bug on your site please dm me..
+> If you wanted to fix it..
+
+
+---
+
+## 2021-12-16 · Post · I found bug on Harvard University and got resolved..
+
+
+### Post — @SuyashS91823422 — 2021-12-16 03:49 UTC (2021-12-16 04:49 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1471326518647267330
+- Metrics (at fetch): not returned
+
+> I found bug on Harvard University and got resolved..
+> Proud movement 😎😎😎
+> #bugbounty
+> Thank you
+> @theXSSrat @IamRenganathan @3ncryptSaan [pic.x.com/Fjdl1a0Kii]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FGszqiwVEAAKC_e.jpg — no alt text provided by author
+
+
+---
+
+## 2021-11-05 · Post · Please anybody suggest me automation for xss and ssrf.
+
+
+Tags (automatic): XSS, SSRF
+
+
+### Post — @SuyashS91823422 — 2021-11-05 05:14 UTC (2021-11-05 06:14 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1456490140537294848
+- Metrics (at fetch): not returned
+
+> Please anybody suggest me automation for xss and ssrf.
+> Which tool you use for it.
+> @ADITYASHENDE17 @IamRenganathan @3ncryptSaan @e11i0t_4lders0n @theXSSrat
+
+
+---
+
+## 2021-10-15 · Post · Hello everyone I am 17 year old! Since I started bug Bounty 
+
+
+### Post — @SuyashS91823422 — 2021-10-15 04:22 UTC (2021-10-15 05:22 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1448866752490737672
+- Metrics (at fetch): not returned
+
+> Hello everyone I am 17 year old! Since I started bug Bounty 
+> So how to get motivated while we are having dublicate's and less knowledge about bug Bounty ..
+> @IamRenganathan 
+> @3ncryptSaan 
+> @theXSSrat 
+> @ADITYASHENDE17 
+> @shubzyernale
+
+
+---
+
+## 2021-10-06 · Post · At the age of 17 I was awarded with my 1st Bounty of 30$..
+
+
+### Post — @SuyashS91823422 — 2021-10-06 10:17 UTC (2021-10-06 11:17 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1445694686182526980
+- Metrics (at fetch): not returned
+
+> At the age of 17 I was awarded with my 1st Bounty of 30$..
+> After so many dublicates it was my 1st success.... Thank you all person who help me ... [pic.x.com/nLK2QFQ8G6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FBAjpDBVgAUh_lt.jpg — no alt text provided by author

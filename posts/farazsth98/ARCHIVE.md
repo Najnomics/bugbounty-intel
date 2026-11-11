@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 90
-- Conversations/threads: 71
+- Posts in this file: 116
+- Conversations/threads: 97
 - Oldest post captured: 2020-11-22
 - Newest post captured: 2026-11-03
 
@@ -1520,10 +1520,48 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > In November, I submitted a critical bug to Cronos (@cronosapp) which they downplayed and have since been kicked off Immunefi. Here's some info about the bug and an example of how projects can simply not pay a fair amount.
     >
-    > Report: https://t.co/bzmLkhigbe
+    > Report: https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc
     >
     > tl;dr: 
-    > - It's a
+    > - It's a simple staking contract where you stake your TONIC and receive xTonic at the current exchange rate. 
+    > - The vulnerability lies in a function called performConversionForERC20() which allows anyone to convert other tokens held by the contract into TONIC. 
+    > - This function is vulnerable to reentrancy because the caller sets an arbitrary swap path and can inject a malicious token in the middle to gain control of execution.
+    > - The contract determines the estimated amount of TONIC that should be received by the swap, and any extra goes to the caller as a reward.
+    > - But since there is reentrancy, the caller can also STAKE their TONIC prior to the above function completion.
+    > - The caller's stake is honored AND they are transferred back their TONIC, essentially receiving free staked tokens.
+    >
+    > Caveat:
+    > There is a 10 day unstaking delay. So the exploiter would not be able to actually convert the staked tokens back into TONIC until the cooldown period had passed.
+    >
+    > What Cronos said:
+    > Thank you for reporting this issue.
+    >
+    > The team has verified that the exploit described can indeed work. From our side, we have safeguards in place to mitigate these risks; such as a 10 days delay period for the xTonic minted. As such, there is a low possibility of the exploit realising; as the issue will be rectified before the exploiter can launder the gotten funds.
+    >
+    > However, we do appreciate your effort in identifying this issue and plan to update the contract to eliminate the risk entirely. In addition, we are happy to reward you with USD1,600 as a token of appreciation.
+    >
+    > Actions:
+    > Cronos fixed the vulnerability immediately, before even responding to the report.
+    >
+    > My thoughts:
+    > Obvious lowball. Cronos's max bounty was $250,000 and they offered $1,600. I understand the technicality with this attack, and would have agreed to a payout less than the max, but the payout would have to accurately represent the value of this report.
+    >
+    > Mediation:
+    > Immunefi mediated twice and confirmed that this report deserved the max bounty. Immunefi told Cronos that a simple unstaking delay is not an adequate means of protection.
+    >
+    > Cronos claimed:
+    >
+    > "We have implemented a robust monitoring framework, consisting of internal systems, protocols, and strategic third-party partnerships, which promptly respond to any anomalies within our smart contracts. This is the standard of any big organization, and we refrain from disclosing further specifics to maintain the integrity of our security protocols."
+    >
+    > When Immunefi asked them to provide any information regarding their automated detection and mitigation processes, Cronos would not comply.
+    >
+    > Result:
+    > Cronos was kicked off Immunefi.
+    >
+    > Final thoughts from Django:
+    > 'Tis the life of a bug hunter.
+    
+    **Links in post:** https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc
     
 
 
@@ -1814,6 +1852,555 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GFZdGRcbwAAuQzv.png — no alt text provided by author
+
+
+---
+
+## 2024-01-30 · Post · I'm close! A few more days until the second bounty gets recognized on the dashboard. Wondering if I'
+
+
+### Post — @farazsth98 — 2024-01-30 04:53 UTC (2024-01-30 05:53 WAT)
+
+- URL: https://x.com/farazsth98/status/1752193382469054553
+- Metrics (at fetch): not returned
+
+> I'm close! A few more days until the second bounty gets recognized on the dashboard. Wondering if I'll make top 50 or not 😩😩😩 [pic.x.com/x1lYYT4xZQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFEKkmPacAABLx4.png — no alt text provided by author
+
+
+---
+
+## 2024-01-28 · Post · I swear there's always like a hundred false positives before you get to that one juicy bug 😒
+
+
+### Post — @farazsth98 — 2024-01-28 20:52 UTC (2024-01-28 21:52 WAT)
+
+- URL: https://x.com/farazsth98/status/1751709867356917766
+- Metrics (at fetch): not returned
+
+> I swear there's always like a hundred false positives before you get to that one juicy bug 😒
+
+
+---
+
+## 2024-01-28 · Post · I also uploaded the challenge files + my exploit (in the `exploit/` directory) here for anyone that 
+
+
+### Post — @farazsth98 — 2024-01-28 11:40 UTC (2024-01-28 12:40 WAT)
+
+- URL: https://x.com/farazsth98/status/1751570970102698354
+- Metrics (at fetch): not returned
+
+> I also uploaded the challenge files + my exploit (in the `exploit/` directory) here for anyone that wants to try it out:
+>
+> https://github.com/farazsth98/CTF/tree/master/realworldctf-2024/safebridge https://twitter.com/farazsth98/status/1751565007299682388
+
+**Links in post:** https://github.com/farazsth98/CTF/tree/master/realworldctf-2024/safebridge, https://twitter.com/farazsth98/status/1751565007299682388
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2024-01-28 11:16 UTC (2024-01-28 12:16 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1751565007299682388
+    - Metrics (at fetch): not returned
+    
+    > Here's a short write-up for SafeBridge from the 6th Real World CTF.
+    >
+    > The bug is in the L1 bridge contract. Can you spot it in the code below?
+    >
+    > The writeup + both bridge contracts + the exploit are included in the gist below.
+    >
+    > https://gist.github.com/farazsth98/4d60eb34e73f9b8027e38e1744ada778 [pic.x.com/be1KN1wXeb] https://twitter.com/farazsth98/status/1751196535478784119
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GE7OXUubkAAi9Df.jpg — no alt text provided by author
+    
+    **Links in post:** https://gist.github.com/farazsth98/4d60eb34e73f9b8027e38e1744ada778, https://twitter.com/farazsth98/status/1751196535478784119
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @farazsth98 — 2024-01-27 10:52 UTC (2024-01-27 11:52 WAT)
+        
+        - URL: https://x.com/farazsth98/status/1751196535478784119
+        - Metrics (at fetch): not returned
+        
+        > Real World CTF's Safe Bridge was a nice challenge! somewhat of a realistic bug in my opinion, which made it all the more interesting 😄
+        
+    
+
+
+---
+
+## 2024-01-28 · Post · Here's a short write-up for SafeBridge from the 6th Real World CTF.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @farazsth98 — 2024-01-28 11:16 UTC (2024-01-28 12:16 WAT)
+
+- URL: https://x.com/farazsth98/status/1751565007299682388
+- Metrics (at fetch): not returned
+
+> Here's a short write-up for SafeBridge from the 6th Real World CTF.
+>
+> The bug is in the L1 bridge contract. Can you spot it in the code below?
+>
+> The writeup + both bridge contracts + the exploit are included in the gist below.
+>
+> https://gist.github.com/farazsth98/4d60eb34e73f9b8027e38e1744ada778 [pic.x.com/be1KN1wXeb] https://twitter.com/farazsth98/status/1751196535478784119
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GE7OXUubkAAi9Df.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/farazsth98/4d60eb34e73f9b8027e38e1744ada778, https://twitter.com/farazsth98/status/1751196535478784119
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2024-01-27 10:52 UTC (2024-01-27 11:52 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1751196535478784119
+    - Metrics (at fetch): not returned
+    
+    > Real World CTF's Safe Bridge was a nice challenge! somewhat of a realistic bug in my opinion, which made it all the more interesting 😄
+    
+
+
+---
+
+## 2024-01-27 · Post · Real World CTF's Safe Bridge was a nice challenge! somewhat of a realistic bug in my opinion, which 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @farazsth98 — 2024-01-27 10:52 UTC (2024-01-27 11:52 WAT)
+
+- URL: https://x.com/farazsth98/status/1751196535478784119
+- Metrics (at fetch): not returned
+
+> Real World CTF's Safe Bridge was a nice challenge! somewhat of a realistic bug in my opinion, which made it all the more interesting 😄
+
+
+---
+
+## 2024-01-22 · Post · Oh yeah, the ping-of-death style bug I found was unfortunately in a non-Immunefi bug bounty program.
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2024-01-22 17:14 UTC (2024-01-22 18:14 WAT)
+
+- URL: https://x.com/farazsth98/status/1749480667149426876
+- Metrics (at fetch): not returned
+
+> Oh yeah, the ping-of-death style bug I found was unfortunately in a non-Immunefi bug bounty program. That would have definitely pushed me into the top 50😩
+>
+> All good though, plenty of time this year to get into the top 50, just need to find the time to do some bug hunting 😅 https://twitter.com/farazsth98/status/1749250447121186854
+
+**Links in post:** https://twitter.com/farazsth98/status/1749250447121186854
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2024-01-22 01:59 UTC (2024-01-22 02:59 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1749250447121186854
+    - Metrics (at fetch): not returned
+    
+    > Last two Immunefi bug reports from 2023 got paid out recently. Can't wait to see where I end up on the leaderboard after it gets updated😄
+    
+
+
+---
+
+## 2024-01-22 · Post · Last two Immunefi bug reports from 2023 got paid out recently. Can't wait to see where I end up on t
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2024-01-22 01:59 UTC (2024-01-22 02:59 WAT)
+
+- URL: https://x.com/farazsth98/status/1749250447121186854
+- Metrics (at fetch): not returned
+
+> Last two Immunefi bug reports from 2023 got paid out recently. Can't wait to see where I end up on the leaderboard after it gets updated😄
+
+
+---
+
+## 2023-12-28 · Post · I'm not gonna lie, I love holiday season, but I definitely don't like the anxiety I get from waiting
+
+
+### Post — @farazsth98 — 2023-12-28 06:59 UTC (2023-12-28 07:59 WAT)
+
+- URL: https://x.com/farazsth98/status/1740266176801108032
+- Metrics (at fetch): not returned
+
+> I'm not gonna lie, I love holiday season, but I definitely don't like the anxiety I get from waiting for responses on my bug reports during this period😅
+
+
+---
+
+## 2023-12-19 · Post · Poll time
+
+
+### Post — @farazsth98 — 2023-12-19 22:58 UTC (2023-12-19 23:58 WAT)
+
+- URL: https://x.com/farazsth98/status/1737245936395665598
+- Metrics (at fetch): not returned
+
+> Poll time
+>
+> Say there's a critical severity vulnerability with critical impact, but exploiting it requires a) skill, and b) around a $2-4m USD investment (with huge profit gains). 
+>
+> Would you downgrade it to a medium? Keep in mind that lots of black hats possess such $$$ already.
+
+
+---
+
+## 2023-12-14 · Post · Requested by @OddlySpecivik to post this 😄
+
+
+### Post — @farazsth98 — 2023-12-14 14:27 UTC (2023-12-14 15:27 WAT)
+
+- URL: https://x.com/farazsth98/status/1735305530439274847
+- Metrics (at fetch): not returned
+
+> Requested by @OddlySpecivik to post this 😄
+>
+> Still have 2 crits that are confirmed but not paid yet, but hey, not bad for ~1.5-2 months of bug hunting in the entire year [pic.x.com/WfSgVkSq4p]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBULLunbwAAwkpL.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-12 · Post · In January 2023, I reported two bugs to the Cronos Gravity Bridge Immunefi project. These bugs would
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @farazsth98 — 2023-12-12 00:42 UTC (2023-12-12 01:42 WAT)
+
+- URL: https://x.com/farazsth98/status/1734373138027409840
+- Metrics (at fetch): not returned
+
+> In January 2023, I reported two bugs to the Cronos Gravity Bridge Immunefi project. These bugs would allow an attacker to halt all or parts of the bridge.
+>
+> Here's a very belated writeup on the bugs: https://faith2dxy.xyz/2023-12-12/cronos-gravity-bridge-bugs/
+
+**Links in post:** https://faith2dxy.xyz/2023-12-12/cronos-gravity-bridge-bugs/
+
+
+---
+
+## 2023-12-09 · Post · - Find a crit
+
+
+### Post — @farazsth98 — 2023-12-09 04:48 UTC (2023-12-09 05:48 WAT)
+
+- URL: https://x.com/farazsth98/status/1733347806000369912
+- Metrics (at fetch): not returned
+
+> - Find a crit
+> - Report it immediately because funds are at risk
+> - Investigate more...
+> - Realize that even though the bug is in the master branch of the codebase, it doesn't affect the currently deployed code in the mainnet
+> ..
+> - Only the mainnet is considered in-scope for bounties [pic.x.com/J6wFrGVCjz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GA4WlaeaMAEZbL-.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-06 · Post · Found a critical vulnerability last month after deciding to randomly start looking for bugs in Subst
+
+
+### Post — @farazsth98 — 2023-12-06 03:09 UTC (2023-12-06 04:09 WAT)
+
+- URL: https://x.com/farazsth98/status/1732235723452117306
+- Metrics (at fetch): not returned
+
+> Found a critical vulnerability last month after deciding to randomly start looking for bugs in Substrate based chains.
+>
+> More details in the thread and blog post below: https://www.zellic.io/blog/finding-a-critical-vulnerability-in-astar/ https://twitter.com/zellic_io/status/1732171636051501073
+
+**Links in post:** https://www.zellic.io/blog/finding-a-critical-vulnerability-in-astar/, https://twitter.com/zellic_io/status/1732171636051501073
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1732171636051501073
+    - Metrics (at fetch): bookmark 114, impression 72577, like 217, quote 10, reply 3, repost 41
+    
+    > The dangers of integer truncation:
+    >
+    > How the Zellic team found a critical vulnerability in the @AstarNetwork.
+    >
+    > This bug allowed an attacker to drain certain LP contracts on the Astar-EVM, with no bugs required in the contracts.
+    >
+    > Read more: 🧵👇 [pic.x.com/E1ZMp1WfXy]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GAno6_kaUAAlzfC.png — no alt text provided by author
+    
+
+
+---
+
+## 2023-11-28 · Post · 1/ I spent a lot of my time in the past 4-5 days analyzing the vulnerability exploited in the KyberS
+
+
+### Post — @farazsth98 — 2023-11-28 20:06 UTC (2023-11-28 21:06 WAT)
+
+- URL: https://x.com/farazsth98/status/1729592593305268251
+- Metrics (at fetch): not returned
+
+> 1/ I spent a lot of my time in the past 4-5 days analyzing the vulnerability exploited in the KyberSwap exploit, and it's lead me to one conclusion:
+>
+> It is almost impossible for an auditor during an audit / competition to have found this vulnerability.
+
+
+---
+
+## 2023-11-15 · Post · My Paradigm CTF 2023 writeups are now on the Zellic blog too!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @farazsth98 — 2023-11-15 03:17 UTC (2023-11-15 04:17 WAT)
+
+- URL: https://x.com/farazsth98/status/1724627710151209374
+- Metrics (at fetch): bookmark 5, impression 3776, like 19, quote 0, reply 1, retweet 1
+
+> My Paradigm CTF 2023 writeups are now on the Zellic blog too!
+>
+> Make sure to follow @zellic_io because I have another blog post coming up soon where I'll disclose the details of a critical vulnerability I found on an L1 chain 😄 https://t.co/OmBUKfk268
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-11-14 19:57 UTC (2023-11-14 20:57 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1724516841899573389
+    - Metrics (at fetch): bookmark 20, impression 11090, like 27, quote 2, reply 1, retweet 6
+    
+    > We are excited to share write-ups for two @paradigm_ctf challenges from @farazsth98, a Security Researcher at Zellic. We'll be looking at Grains of Sand and Hopping Into Place!
+    >
+    > For an in-depth look into both challenges, check out our blog: https://t.co/NmvA0iivlX https://t.co/50L3T6azEG
+    
+
+
+---
+
+## 2023-11-05 · Post · Don't you just love the feeling of finding a cool bug and then realizing that it's only abusable und
+
+
+### Post — @farazsth98 — 2023-11-05 19:28 UTC (2023-11-05 20:28 WAT)
+
+- URL: https://x.com/farazsth98/status/1721248070816636985
+- Metrics (at fetch): bookmark 0, impression 2382, like 17, quote 0, reply 0, retweet 0
+
+> Don't you just love the feeling of finding a cool bug and then realizing that it's only abusable under specific conditions 😭
+
+
+---
+
+## 2023-01-13 · Post · So, project on ImmuneFi uses signatures incorrectly, resulting in a high severity issue. I report it
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2023-01-13 10:54 UTC (2023-01-13 11:54 WAT)
+
+- URL: https://x.com/farazsth98/status/1613852045907480578
+- Metrics (at fetch): bookmark 2, impression 8244, like 27, quote 1, reply 6, retweet 0
+
+> So, project on ImmuneFi uses signatures incorrectly, resulting in a high severity issue. I report it. Them - "this is a side-effect of a decentralized system using signatories, therefore it's out of scope, but we will give you $500 in good faith". I post a fix, and.... silence...
+
+
+---
+
+## 2023-01-03 · Post · Honestly this is probably one of the best ways to find "novel" targets for bug hunting. If you're on
+
+
+### Post — @farazsth98 — 2023-01-03 17:21 UTC (2023-01-03 18:21 WAT)
+
+- URL: https://x.com/farazsth98/status/1610325557874401282
+- Metrics (at fetch): bookmark 1, impression 2632, like 10, quote 0, reply 0, retweet 0
+
+> Honestly this is probably one of the best ways to find "novel" targets for bug hunting. If you're one of the first to be able to figure out how to set up a testing environment that others don't have access to, testing out assumptions and figuring out the system becomes so easy. https://t.co/D8tmuVIdnd
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2023-01-03 17:18 UTC (2023-01-03 18:18 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1610324736474746881
+    - Metrics (at fetch): bookmark 0, impression 2827, like 1, quote 1, reply 1, retweet 0
+    
+    > @RightNowIn Aha that was the difficult part :p that's what I would be blogging about. It's hard to put it into a tweet, but you basically need to set up nodes for each network locally + relayers to communicate between the networks + the bridge nodes + deploying contracts. A lot of setup..
+    
+
+
+---
+
+## 2023-01-03 · Reply · @RightNowIn Aha that was the difficult part :p that's what I would be blogging about. It's hard to p
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @farazsth98 — 2023-01-03 17:18 UTC (2023-01-03 18:18 WAT)
+
+- URL: https://x.com/farazsth98/status/1610324736474746881
+- Metrics (at fetch): bookmark 0, impression 2827, like 1, quote 1, reply 1, retweet 0
+
+> @RightNowIn Aha that was the difficult part :p that's what I would be blogging about. It's hard to put it into a tweet, but you basically need to set up nodes for each network locally + relayers to communicate between the networks + the bridge nodes + deploying contracts. A lot of setup..
+
+
+---
+
+## 2022-12-29 · Post · I know I don't do browser vuln research anymore, but it's nice to see glazunov is still a beast at i
+
+
+### Post — @farazsth98 — 2022-12-29 21:13 UTC (2022-12-29 22:13 WAT)
+
+- URL: https://x.com/farazsth98/status/1608571872052137987
+- Metrics (at fetch): bookmark 18, impression 16521, like 65, quote 0, reply 2, retweet 7
+
+> I know I don't do browser vuln research anymore, but it's nice to see glazunov is still a beast at it. Honestly a role model to vuln researchers in any field. The work ethic of this man and the results he puts out is insane https://t.co/eMt1766qZt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @702994808181170176 — 2022-12-29 17:11 UTC (2022-12-29 18:11 WAT)
+    
+    - URL: https://x.com/702994808181170176/status/1608511131525472256
+    - Metrics (at fetch): bookmark 13, impression 57683, like 113, quote 3, reply 0, retweet 23
+    
+    > Chrome: Design flaw in Synchronous Mojo message handling introduces unexpected reentrancy and allows for multiple UAFs https://t.co/3Q6j4GrtBz
+    
+
+
+---
+
+## 2022-12-10 · Post · Dealing with unresponsive projects on ImmuneFi is a pain... 🙁
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @farazsth98 — 2022-12-10 17:46 UTC (2022-12-10 18:46 WAT)
+
+- URL: https://x.com/farazsth98/status/1601634386054549510
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 0
+
+> Dealing with unresponsive projects on ImmuneFi is a pain... 🙁
+
+
+---
+
+## 2022-11-22 · Post · Short analysis of the SportsDAO flash loan attack from yesterday is out: https://t.co/j41THx79au
+
+
+### Post — @farazsth98 — 2022-11-22 06:33 UTC (2022-11-22 07:33 WAT)
+
+- URL: https://x.com/farazsth98/status/1594942242346905600
+- Metrics (at fetch): bookmark 3, impression 0, like 19, quote 0, reply 2, retweet 5
+
+> Short analysis of the SportsDAO flash loan attack from yesterday is out: https://t.co/j41THx79au
+>
+> The full exploit is linked in the blog post :)
+
+
+---
+
+## 2022-11-21 · Post · Recreated the exploit for this here: https://t.co/DApKB4Sc0L
+
+
+### Post — @farazsth98 — 2022-11-21 19:17 UTC (2022-11-21 20:17 WAT)
+
+- URL: https://x.com/farazsth98/status/1594772008340164609
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> Recreated the exploit for this here: https://t.co/DApKB4Sc0L
+>
+> Will write a (much shorter this time) blog post about this tomorrow. The bug is actually so stupid lol, no idea why this code even exists.. https://t.co/vL4oSO9AAh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1494146332528885767 — 2022-11-21 08:54 UTC (2022-11-21 09:54 WAT)
+    
+    - URL: https://x.com/1494146332528885767/status/1594615286556393478
+    - Metrics (at fetch): bookmark 0, impression 0, like 9, quote 3, reply 0, retweet 3
+    
+    > #CertiKSkynetAlert 🚨
+    >
+    > We are seeing a #flashloan exploit on @SportsDao1. 
+    >
+    > Contract BSC:  0x6666625Ab26131B490E7015333F97306F05Bf816
+    >
+    > Exploit txn: https://t.co/n1fwvI88n1
+    >
+    > The attacker took advantage of the rewards system and gained ~$13.6k https://t.co/ofo7yKzFuE
+    
+    **Media:**
+    - media `3_1594611345562943491` (details not returned by the API)
+    
+
+
+---
+
+## 2022-11-20 · Post · Just found out about https://t.co/8FMMijGlqP, works even better than etherscan / snowtrace for getti
+
+
+### Post — @farazsth98 — 2022-11-20 13:29 UTC (2022-11-20 14:29 WAT)
+
+- URL: https://x.com/farazsth98/status/1594322159224385536
+- Metrics (at fetch): bookmark 3, impression 0, like 10, quote 0, reply 0, retweet 2
+
+> Just found out about https://t.co/8FMMijGlqP, works even better than etherscan / snowtrace for getting detailed data on transactions. Would've saved me a lot of time when analyzing the Nereus Finance flash loan attack if I knew about this.
+
+
+---
+
+## 2022-11-18 · Post · Blog post on the Nereus Finance flash loan attack is out! Contains a very detailed analysis of the a
+
+
+### Post — @farazsth98 — 2022-11-18 17:01 UTC (2022-11-18 18:01 WAT)
+
+- URL: https://x.com/farazsth98/status/1593650529363955712
+- Metrics (at fetch): bookmark 1, impression 0, like 16, quote 0, reply 0, retweet 2
+
+> Blog post on the Nereus Finance flash loan attack is out! Contains a very detailed analysis of the attack, as well as a recreation of the exploit and how to do it.
+>
+> Any feedback is appreciated, and don't hesitate to ask me any questions!
+>
+> https://t.co/hKozxLaEWn
+
+
+---
+
+## 2022-11-17 · Post · Just finished analyzing the Nereus Finance flash loan attack. This was the perfect exercise for me t
+
+
+### Post — @farazsth98 — 2022-11-17 15:33 UTC (2022-11-17 16:33 WAT)
+
+- URL: https://x.com/farazsth98/status/1593266122635083781
+- Metrics (at fetch): bookmark 6, impression 0, like 24, quote 0, reply 1, retweet 7
+
+> Just finished analyzing the Nereus Finance flash loan attack. This was the perfect exercise for me to figure out how to break down a complex transaction step by step, and recreate it.
+>
+> New blog post coming very soon :) transaction here for the curious: https://t.co/N3MXBh17np
 
 
 ---

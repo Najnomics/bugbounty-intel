@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 66
-- Conversations/threads: 65
-- Oldest post captured: 2023-05-04
+- Posts in this file: 93
+- Conversations/threads: 92
+- Oldest post captured: 2021-09-28
 - Newest post captured: 2026-11-07
 
 
@@ -1261,3 +1261,764 @@ Tags (automatic): ZK
 - Metrics (at fetch): not returned
 
 > If your zk recruiting email doesn’t include a snark to verify, what are you even doing
+
+
+---
+
+## 2023-04-26 · Post · I just donated to the ZK Tech Round on @gitcoin. Join me in making a difference by donating today! h
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-04-26 12:40 UTC (2023-04-26 13:40 WAT)
+
+- URL: https://x.com/kobigurk/status/1651204614073507843
+- Metrics (at fetch): bookmark 0, impression 1850, like 16, quote 1, reply 0, retweet 0
+
+> I just donated to the ZK Tech Round on @gitcoin. Join me in making a difference by donating today! https://t.co/GQpy0ML1Rs
+
+
+---
+
+## 2023-03-07 · Post · Client side zk is a super interesting theme to keep an eye on https://t.co/bsc3uVbsGo
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-03-07 07:10 UTC (2023-03-07 08:10 WAT)
+
+- URL: https://x.com/kobigurk/status/1633002230969237504
+- Metrics (at fetch): bookmark 3, impression 3862, like 22, quote 0, reply 2, retweet 4
+
+> Client side zk is a super interesting theme to keep an eye on https://t.co/bsc3uVbsGo
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1240120646304247819 — 2023-03-06 16:40 UTC (2023-03-06 17:40 WAT)
+    
+    - URL: https://x.com/1240120646304247819/status/1632783117743452161
+    - Metrics (at fetch): bookmark 3, impression 7677, like 32, quote 4, reply 0, retweet 0
+    
+    > Will be speaking about the client-side zk research we’ve been doing at @personae_labs at @zeroknowledgefm zkSummit9!
+    
+
+
+---
+
+## 2023-01-12 · Post · As serious professionals, we need to admit that zk is not a mathematical definition, it’s a vibe
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2023-01-12 10:56 UTC (2023-01-12 11:56 WAT)
+
+- URL: https://x.com/kobigurk/status/1613490183424409603
+- Metrics (at fetch): bookmark 7, impression 30904, like 208, quote 3, reply 17, retweet 24
+
+> As serious professionals, we need to admit that zk is not a mathematical definition, it’s a vibe
+
+
+---
+
+## 2022-12-10 · Post · The right way to think about building zk apps - believe in your ability to provide the best UX https
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-12-10 17:41 UTC (2022-12-10 18:41 WAT)
+
+- URL: https://x.com/kobigurk/status/1601633216854884352
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 1, reply 1, retweet 2
+
+> The right way to think about building zk apps - believe in your ability to provide the best UX https://t.co/TmZJHhiZoO
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1053330435676098560 — 2022-12-08 23:40 UTC (2022-12-09 00:40 WAT)
+    
+    - URL: https://x.com/1053330435676098560/status/1600998666445418496
+    - Metrics (at fetch): bookmark 36, impression 0, like 162, quote 16, reply 10, retweet 48
+    
+    > On zk-rollups, rapid innovation, and optimizing for the right things.
+    >
+    > tldr: Sometimes being first can be a bad thing. Here’s how we think about the ZK landscape @0xPolygon
+    >
+    > 1/n https://t.co/r4ef6aw3fB
+    
+    **Media:**
+    - media `16_1600998660652863488` (details not returned by the API)
+    
+
+
+---
+
+## 2022-12-02 · Post · I recommend this episode to anyone that wants to learn about cutting edge and practical application 
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-12-02 05:41 UTC (2022-12-02 06:41 WAT)
+
+- URL: https://x.com/kobigurk/status/1598552878360272896
+- Metrics (at fetch): bookmark 9, impression 0, like 59, quote 0, reply 3, retweet 6
+
+> I recommend this episode to anyone that wants to learn about cutting edge and practical application of ZK - @danboneh and collaborators have been working on super interesting use cases
+>
+> It also covers possible new areas for people to work on 👀 https://t.co/FAtIzs6YW9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @977164339533832192 — 2022-12-01 15:52 UTC (2022-12-01 16:52 WAT)
+    
+    - URL: https://x.com/977164339533832192/status/1598344211803217920
+    - Metrics (at fetch): bookmark 11, impression 0, like 67, quote 7, reply 7, retweet 15
+    
+    > This week, @AnnaRRose and @kobigurk chat with @danboneh. This episode covers open problems in ZK such as how to generate ZK proofs on large amounts of data, private DAO treasuries, onchain trusted setups, proof of reserve schemes and more! 
+    >
+    > Get inspired!
+    >
+    > https://t.co/KNWcj0ZJfT
+    
+
+
+---
+
+## 2022-11-30 · Post · Turnstile was a nice workaround
+
+
+### Post — @kobigurk — 2022-11-30 08:20 UTC (2022-11-30 09:20 WAT)
+
+- URL: https://x.com/kobigurk/status/1597868125214867457
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Turnstile was a nice workaround
+>
+> How much can we design future systems with attack detection mechanisms without hurting privacy? https://t.co/IhzL7q6oxf
+
+**Quoted post (full text):**
+
+    #### Quoted post — @str4d — 2022-11-29 23:29 UTC (2022-11-30 00:29 WAT)
+    
+    - URL: https://x.com/str4d/status/1597734449227042817
+    - Metrics (at fetch): bookmark 4, impression 0, like 133, quote 3, reply 3, retweet 18
+    
+    > Disappointing disclosure post. It does not explain:
+    > - The bug.
+    > - Its impact (that every single transaction on Secret Network v1, past and future, can be decrypted if the bug was exploited).
+    > - Reasons for belief that it was not exploited. https://t.co/zw2xpiPSmG
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @3305325070 — 2022-11-29 17:00 UTC (2022-11-29 18:00 WAT)
+        
+        - URL: https://x.com/3305325070/status/1597636628369268737
+        - Metrics (at fetch): bookmark 6, impression 0, like 182, quote 12, reply 3, retweet 39
+        
+        > NOTICE: Secret Network has successfully resolved a reported network vulnerability by whitehat researchers. No user funds were ever at risk - including now - and no action is required from anyone 👍
+        >
+        > Please read our full disclosure on the Secret Blog: https://t.co/HeCqQVshuy
+        
+    
+
+
+---
+
+## 2022-11-21 · Post · an awesome zk challenge! https://t.co/IPGvr6NkIp
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-11-21 14:32 UTC (2022-11-21 15:32 WAT)
+
+- URL: https://x.com/kobigurk/status/1594700248240324611
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> an awesome zk challenge! https://t.co/IPGvr6NkIp
+
+**Quoted post** 1590251375258402816: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-10-07 · Post · How does a dog convince you they have a bone without showing you the bone?
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-10-07 05:15 UTC (2022-10-07 06:15 WAT)
+
+- URL: https://x.com/kobigurk/status/1578252547613155329
+- Metrics (at fetch): bookmark 4, impression 0, like 214, quote 5, reply 17, retweet 20
+
+> How does a dog convince you they have a bone without showing you the bone?
+>
+> A zk woof
+
+
+---
+
+## 2022-10-06 · Post · What do you call a group of hackers working on cutting edge zk tech?
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-10-06 21:07 UTC (2022-10-06 22:07 WAT)
+
+- URL: https://x.com/kobigurk/status/1578129865932505108
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> What do you call a group of hackers working on cutting edge zk tech?
+>
+> Jessy’s hacker house https://t.co/qcEn7iBjTa
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1361623863629516808 — 2022-10-06 20:52 UTC (2022-10-06 21:52 WAT)
+    
+    - URL: https://x.com/1361623863629516808/status/1578125988063416321
+    - Metrics (at fetch): bookmark 6, impression 0, like 67, quote 5, reply 6, retweet 12
+    
+    > Devcon summoning circle in progress... https://t.co/NVPThu3lpF
+    >
+    >                      🕯
+    >               🕯        🕯
+    >         🕯                     🕯
+    >     🕯       hax0rs         🕯
+    >         🕯                     🕯
+    >               🕯         🕯
+    >                      🕯 https://t.co/lwrZVcRvl4
+    
+    **Media:**
+    - media `3_1578084146047492097` (details not returned by the API)
+    
+
+
+---
+
+## 2022-09-22 · Post · Anything you wanted to know about ZK friendly hashes https://t.co/CwjrRfiE3G
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-09-22 19:53 UTC (2022-09-22 20:53 WAT)
+
+- URL: https://x.com/kobigurk/status/1573037736042405897
+- Metrics (at fetch): bookmark 2, impression 0, like 17, quote 0, reply 0, retweet 1
+
+> Anything you wanted to know about ZK friendly hashes https://t.co/CwjrRfiE3G
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1549020536197480448 — 2022-09-22 19:35 UTC (2022-09-22 20:35 WAT)
+    
+    - URL: https://x.com/1549020536197480448/status/1573033153672921093
+    - Metrics (at fetch): bookmark 65, impression 0, like 168, quote 5, reply 9, retweet 42
+    
+    > 😇New Paper🦁
+    > Presenting…
+    >  
+    > SoK:  ZK-friendly hash functions
+    > by our beloved @Karthik_Inb
+    >  
+    > - soft intro to hashes in ZKP
+    > - real-world use cases
+    > - design patterns 
+    > - weirdest/coolest names in cryptography literature. 
+    >  
+    > 👉https://t.co/NFGDgLXBvd 
+    >
+    > #ZKP #cryptography #research https://t.co/1tdwqpCCZ7
+    
+    **Media:**
+    - media `3_1573022649210605570` (details not returned by the API)
+    - media `3_1573032502691827714` (details not returned by the API)
+    
+
+
+---
+
+## 2022-09-16 · Post · I am 3 degrees from Vitalik! Check out my ETHdos number ZK proof: https://t.co/FLl9286f90
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-09-16 10:02 UTC (2022-09-16 11:02 WAT)
+
+- URL: https://x.com/kobigurk/status/1570714700031365121
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 1, retweet 0
+
+> I am 3 degrees from Vitalik! Check out my ETHdos number ZK proof: https://t.co/FLl9286f90
+
+
+---
+
+## 2022-08-17 · Post · Once again, a quick solution and a great write up by @trapdoor_tech to a @__zkhack__, and this time 
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-08-17 14:42 UTC (2022-08-17 15:42 WAT)
+
+- URL: https://x.com/kobigurk/status/1559913538474450944
+- Metrics (at fetch): bookmark 3, impression 0, like 9, quote 0, reply 0, retweet 2
+
+> Once again, a quick solution and a great write up by @trapdoor_tech to a @__zkhack__, and this time also @__geometry__, puzzle!
+>
+> If you enjoyed the puzzle - think about a more insidious circuit, where the public input is dependent on a combination of left and right private ones https://t.co/lYFsfb4w4N
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1460210836052807681 — 2022-08-17 12:18 UTC (2022-08-17 13:18 WAT)
+    
+    - URL: https://x.com/1460210836052807681/status/1559877402200666112
+    - Metrics (at fetch): bookmark 17, impression 0, like 25, quote 1, reply 1, retweet 5
+    
+    > The new puzzle of zkHack is fascinating and creative. It's very helpful for beginners to understand deeply about Groth16 zkp system. You can check our writeup of the puzzle:
+    > https://t.co/Uok3cYWtxb
+    > @kobigurk @__geometry__
+    
+
+
+---
+
+## 2022-06-21 · Post · Cool PoC by Nicolas - non-interactive DKGs are an extremely useful tool and this is one way to creat
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-06-21 17:33 UTC (2022-06-21 18:33 WAT)
+
+- URL: https://x.com/kobigurk/status/1539300389291450371
+- Metrics (at fetch): not returned
+
+> Cool PoC by Nicolas - non-interactive DKGs are an extremely useful tool and this is one way to create them using SNARKs https://twitter.com/nikkolasg1/status/1539237659608076291
+
+**Links in post:** https://twitter.com/nikkolasg1/status/1539237659608076291
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3051024247 — 2022-06-21 13:23 UTC (2022-06-21 14:23 WAT)
+    
+    - URL: https://x.com/3051024247/status/1539237659608076291
+    - Metrics (at fetch): not returned
+    
+    > I really love threshold crypto and SNARKs can bring a lot of scalability to protocols, so I’ve worked on PoC of running a DKG “inside” a Groth16 on BLS12-377 w/ arkworks. Can create a “deal” inside of a SNARK for 800 participants and proof is verified in 18ms ! (1/2) [pic.x.com/SDTvnuAOfh]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FVx3-3oXsAIzY0b.png — no alt text provided by author
+    
+
+
+---
+
+## 2022-06-20 · Post · zk rollups are like a TARDIS - it’s bigger on the inside. Or alternatively, it’s smaller on the outs
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @kobigurk — 2022-06-20 16:13 UTC (2022-06-20 17:13 WAT)
+
+- URL: https://x.com/kobigurk/status/1538917961842495488
+- Metrics (at fetch): not returned
+
+> zk rollups are like a TARDIS - it’s bigger on the inside. Or alternatively, it’s smaller on the outside than it is on the inside https://twitter.com/vaibhavchellani/status/1538911330836545537
+
+**Links in post:** https://twitter.com/vaibhavchellani/status/1538911330836545537
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4604543814 — 2022-06-20 15:47 UTC (2022-06-20 16:47 WAT)
+    
+    - URL: https://x.com/4604543814/status/1538911330836545537
+    - Metrics (at fetch): not returned
+    
+    > my man @VitalikButerin be packing his bag like his bag is blockspace and his stuff L2 txs
+    >
+    > give this man a rollup already
+    
+
+
+---
+
+## 2022-05-28 · Post · Amazing opportunity to catch up on the latest and greatest in PLONK circuit implementation https://t
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-05-28 06:25 UTC (2022-05-28 07:25 WAT)
+
+- URL: https://x.com/kobigurk/status/1530435011912126466
+- Metrics (at fetch): not returned
+
+> Amazing opportunity to catch up on the latest and greatest in PLONK circuit implementation https://twitter.com/0xPARC/status/1529884818598772737
+
+**Links in post:** https://twitter.com/0xPARC/status/1529884818598772737
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xPARC — 2022-05-26 17:58 UTC (2022-05-26 18:58 WAT)
+    
+    - URL: https://x.com/0xPARC/status/1529884818598772737
+    - Metrics (at fetch): not returned
+    
+    > 1/ [APPLY BY WEDS 6/1] Halo2 Learning Group
+    >
+    > We'll be running a learning group from 6/13 - 7/8 focused on PLONK and Halo2. See the post below (and this thread) for details on the program and how to apply.
+    >
+    > Earlier applications will be prioritized first.
+    >
+    > https://0xparc.org/blog/halo2-learning-group
+    
+    **Links in post:** https://0xparc.org/blog/halo2-learning-group
+    
+
+
+---
+
+## 2022-05-22 · Post · What would you use as a constant time (in terms of expected cost, not side channel attack resistant)
+
+
+### Post — @kobigurk — 2022-05-22 03:27 UTC (2022-05-22 04:27 WAT)
+
+- URL: https://x.com/kobigurk/status/1528215826716930049
+- Metrics (at fetch): not returned
+
+> What would you use as a constant time (in terms of expected cost, not side channel attack resistant) for hash to group to:
+> 1. secp256k1
+> 2. jubjub
+> 3. babyjubjub
+> 4. bls12-381
+
+
+---
+
+## 2022-05-09 · Post · An optimized plonk implementation (not even circuit) is significantly harder to build and understand
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-05-09 16:01 UTC (2022-05-09 17:01 WAT)
+
+- URL: https://x.com/kobigurk/status/1523694694265327617
+- Metrics (at fetch): not returned
+
+> An optimized plonk implementation (not even circuit) is significantly harder to build and understand than a groth16 one.
+>
+> Fight me
+>
+> (H/t @AndrijaNovakov6)
+
+
+---
+
+## 2022-04-20 · Post · Watch live for some insights on how the zkEVM circuit design works! https://twitter.com/Sandypeng/st
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @kobigurk — 2022-04-20 12:36 UTC (2022-04-20 13:36 WAT)
+
+- URL: https://x.com/kobigurk/status/1516757800868798466
+- Metrics (at fetch): not returned
+
+> Watch live for some insights on how the zkEVM circuit design works! https://twitter.com/Sandypeng/status/1516751883100114952
+
+**Links in post:** https://twitter.com/Sandypeng/status/1516751883100114952
+
+**Quoted post (full text):**
+
+    #### Quoted post — @869865541 — 2022-04-20 12:13 UTC (2022-04-20 13:13 WAT)
+    
+    - URL: https://x.com/869865541/status/1516751883100114952
+    - Metrics (at fetch): not returned
+    
+    > Breaking news! Live at https://amsterdam.l2beat.com [pic.x.com/SJ1ZkPCTJR]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FQyVy7XXIAANjh6.jpg — no alt text provided by author
+    
+    **Links in post:** https://amsterdam.l2beat.com
+    
+
+
+---
+
+## 2022-03-21 · Post · we're using more and more resource-constrained targets for our daily operations, but we often think 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @kobigurk — 2022-03-21 07:15 UTC (2022-03-21 08:15 WAT)
+
+- URL: https://x.com/kobigurk/status/1505805389572587522
+- Metrics (at fetch): not returned
+
+> we're using more and more resource-constrained targets for our daily operations, but we often think of them as general-purpose machines rather than verifiers - e.g. EVM can efficiently verify square root but not execute it. 
+>
+> we should keep creating libraries that exploit this
+
+
+---
+
+## 2022-03-02 · Post · Puzzle 1 🧩 is underway! Thank you @bobbinth for creating it 🙏
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2022-03-02 03:21 UTC (2022-03-02 04:21 WAT)
+
+- URL: https://x.com/kobigurk/status/1498861063089135617
+- Metrics (at fetch): not returned
+
+> Puzzle 1 🧩 is underway! Thank you @bobbinth for creating it 🙏
+>
+> There are prizes for both the first solvers and the best write up about the exploit: https://www.zkhack.dev/puzzleM1.html https://twitter.com/__zkhack__/status/1498695517458649090
+
+**Links in post:** https://www.zkhack.dev/puzzleM1.html, https://twitter.com/__zkhack__/status/1498695517458649090
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1435911698624434180 — 2022-03-01 16:23 UTC (2022-03-01 17:23 WAT)
+    
+    - URL: https://x.com/1435911698624434180/status/1498695517458649090
+    - Metrics (at fetch): not returned
+    
+    > We are LIVE! 🚨
+    >
+    > 🤓 Workshop - Writing STARK proofs with Winterfell and the presentation of the Miden VM by @0xPolygonMiden 
+    >
+    > 🧩 Puzzle #1 will be released 
+    >
+    > You can still sign up for the opening edition of ZK HACK Mini here --&gt; https://hopin.com/events/zk-hack-mini-1
+    
+    **Links in post:** https://hopin.com/events/zk-hack-mini-1
+    
+
+
+---
+
+## 2021-12-27 · Post · I hack you 3000 https://twitter.com/Starknet/status/1475450642764288006
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2021-12-27 14:38 UTC (2021-12-27 15:38 WAT)
+
+- URL: https://x.com/kobigurk/status/1475476199304478731
+- Metrics (at fetch): not returned
+
+> I hack you 3000 https://twitter.com/Starknet/status/1475450642764288006
+
+**Links in post:** https://twitter.com/Starknet/status/1475450642764288006
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463071986515599362 — 2021-12-27 12:57 UTC (2021-12-27 13:57 WAT)
+    
+    - URL: https://x.com/1463071986515599362/status/1475450642764288006
+    - Metrics (at fetch): not returned
+    
+    > Mark your calendars✨:
+    > April 25-26
+    > Amsterdam
+    > The first #StarkNet hackathon is on!
+    >
+    > More details soon. 
+    > Sign up for updates:
+    > https://forms.reform.app/starkware/amsterdam-starknet-hackthon/kxtlfp [pic.x.com/bOBH9YEd3v]
+    
+    **Media:**
+    - media `3_1475450026621034502` (details not returned by the API)
+    
+    **Links in post:** https://forms.reform.app/starkware/amsterdam-starknet-hackthon/kxtlfp
+    
+
+
+---
+
+## 2021-12-22 · Post · Same for zk - lots of “getting started” and intuition building, need more on practical optimizations
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2021-12-22 07:32 UTC (2021-12-22 08:32 WAT)
+
+- URL: https://x.com/kobigurk/status/1473557092141305857
+- Metrics (at fetch): not returned
+
+> Same for zk - lots of “getting started” and intuition building, need more on practical optimizations, complex circuits and tricks, end to end deployment and pitfalls https://twitter.com/gakonst/status/1473478436991741967
+
+**Links in post:** https://twitter.com/gakonst/status/1473478436991741967
+
+**Quoted post (full text):**
+
+    #### Quoted post — @804029200315334656 — 2021-12-22 02:20 UTC (2021-12-22 03:20 WAT)
+    
+    - URL: https://x.com/804029200315334656/status/1473478436991741967
+    - Metrics (at fetch): not returned
+    
+    > IMO problem is that there's too many junior tutorials (any dev can learn basic Solidity syntax in a weekend) vs more advanced ones for senior ppl, some examples being gas optimizations, patterns for vault/staking/governance/asset transfer contracts, fuzzing/testing workflows etc. https://twitter.com/ViktorBunin/status/1473474704740655106
+    
+    **Links in post:** https://twitter.com/ViktorBunin/status/1473474704740655106
+    
+    **Quoted post** 1473474704740655106: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-12-21 · Post · I'd like to see a better math editor for Standard Notes - starting a bounty: https://github.com/stan
+
+
+### Post — @kobigurk — 2021-12-21 16:29 UTC (2021-12-21 17:29 WAT)
+
+- URL: https://x.com/kobigurk/status/1473329814799097861
+- Metrics (at fetch): not returned
+
+> I'd like to see a better math editor for Standard Notes - starting a bounty: https://github.com/standardnotes/forum/issues/1495
+
+**Links in post:** https://github.com/standardnotes/forum/issues/1495
+
+
+---
+
+## 2021-11-18 · Post · Aztec is the only zk L2 providing privacy right now, and Connect + DeFi pooling is a practical appro
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @kobigurk — 2021-11-18 18:58 UTC (2021-11-18 19:58 WAT)
+
+- URL: https://x.com/kobigurk/status/1461408456309678080
+- Metrics (at fetch): not returned
+
+> Aztec is the only zk L2 providing privacy right now, and Connect + DeFi pooling is a practical approach to achieve good privacy. Going to be interesting! https://twitter.com/zeroknowledgefm/status/1461391984686510093
+
+**Links in post:** https://twitter.com/zeroknowledgefm/status/1461391984686510093
+
+**Quoted post (full text):**
+
+    #### Quoted post — @977164339533832192 — 2021-11-18 17:52 UTC (2021-11-18 18:52 WAT)
+    
+    - URL: https://x.com/977164339533832192/status/1461391984686510093
+    - Metrics (at fetch): not returned
+    
+    > Coming up next week as part of ZK Hack - we dig into Aztec Connect with the team form @aztecnetwork!! 
+    >
+    > https://hopin.com/events/zk-hack-5
+    
+    **Links in post:** https://hopin.com/events/zk-hack-5
+    
+
+
+---
+
+## 2021-11-16 · Post · As always - awesome writeup https://twitter.com/MHamilis/status/1460668961369075719
+
+
+### Post — @kobigurk — 2021-11-16 19:26 UTC (2021-11-16 20:26 WAT)
+
+- URL: https://x.com/kobigurk/status/1460690668666372096
+- Metrics (at fetch): not returned
+
+> As always - awesome writeup https://twitter.com/MHamilis/status/1460668961369075719
+
+**Links in post:** https://twitter.com/MHamilis/status/1460668961369075719
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1324698480602918912 — 2021-11-16 17:59 UTC (2021-11-16 18:59 WAT)
+    
+    - URL: https://x.com/1324698480602918912/status/1460668961369075719
+    - Metrics (at fetch): not returned
+    
+    > Wasn't easy, but it was fun! Here's my writeup for ZkHack puzzle #3 with lots of introductory material (zk proofs of knowledge, pedersen commitments, fiat shamir). Solved with @shalev0s and @Elichai2. Enjoy! https://hackmd.io/@matan/zkhack_part_three
+    
+    **Links in post:** https://hackmd.io/@matan/zkhack_part_three
+    
+
+
+---
+
+## 2021-11-03 · Post · Read this writeup if you want to catch up on the puzzle details, it’s very good. https://twitter.com
+
+
+### Post — @kobigurk — 2021-11-03 03:33 UTC (2021-11-03 04:33 WAT)
+
+- URL: https://x.com/kobigurk/status/1455739843229753349
+- Metrics (at fetch): not returned
+
+> Read this writeup if you want to catch up on the puzzle details, it’s very good. https://twitter.com/MHamilis/status/1455651752041226243
+
+**Links in post:** https://twitter.com/MHamilis/status/1455651752041226243
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1324698480602918912 — 2021-11-02 21:43 UTC (2021-11-02 22:43 WAT)
+    
+    - URL: https://x.com/1324698480602918912/status/1455651752041226243
+    - Metrics (at fetch): not returned
+    
+    > Just won the best writeup award for @__zkhack__ first puzzle! Solved with @shalev0s and @Elichai2. Join zkhack's second puzzle starting today! Writeup link: https://www.zkhack.dev/solution1
+    
+    **Links in post:** https://www.zkhack.dev/solution1
+    
+
+
+---
+
+## 2021-09-28 · Post · Hack some advanced crypto protocols - real-world problems concerning BLS, Groth16 and more - and win
+
+
+### Post — @kobigurk — 2021-09-28 19:45 UTC (2021-09-28 20:45 WAT)
+
+- URL: https://x.com/kobigurk/status/1442938507605856257
+- Metrics (at fetch): not returned
+
+> Hack some advanced crypto protocols - real-world problems concerning BLS, Groth16 and more - and win prizes :)
+>
+> Stay tuned for more details.
+>
+> I will say meanwhile - catch up on @arkworks_rs. https://twitter.com/__zkhack__/status/1438147237918482439
+
+**Links in post:** https://twitter.com/__zkhack__/status/1438147237918482439
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1435911698624434180 — 2021-09-15 14:26 UTC (2021-09-15 15:26 WAT)
+    
+    - URL: https://x.com/1435911698624434180/status/1438147237918482439
+    - Metrics (at fetch): not returned
+    
+    > We are excited to launch ZK Hack, starting on 26th October! 
+    >
+    > 7 events consisting of:
+    > 🧩 Puzzles with prizes, built in partnership with @anomanetwork and @AleoHQ  
+    > 📚 Workshops on ZK tooling
+    >
+    > Find out more here 👇
+    > https://zeroknowledge.fm/intro-to-zk-hack/
+    
+    **Links in post:** https://zeroknowledge.fm/intro-to-zk-hack/
+    

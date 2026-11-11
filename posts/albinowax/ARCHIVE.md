@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 60
-- Conversations/threads: 54
-- Oldest post captured: 2026-04-28
+- Posts in this file: 65
+- Conversations/threads: 59
+- Oldest post captured: 2021-06-01
 - Newest post captured: 2026-11-04
 
 
@@ -958,9 +958,28 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/albinowax/status/2057114270790242362
 - Metrics (at fetch): bookmark 68, impression 22718, like 136, quote 0, reply 2, retweet 15
 
-> It's really cool to see people exploring taking the single-packet attack even further with HTTP/3! Excited to integrate these techniques directly into @Burp_Suite in future. https://t.co/CRXPi0G8cq
+> It's really cool to see people exploring taking the single-packet attack even further with HTTP/3! Excited to integrate these techniques directly into @Burp_Suite in future. https://twitter.com/0xnxenon/status/2048859735009444031
 
-**Quoted post** 2048859735009444031: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/0xnxenon/status/2048859735009444031
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1095391704939548673 — 2026-04-27 20:20 UTC (2026-04-27 21:20 WAT)
+    
+    - URL: https://x.com/1095391704939548673/status/2048859735009444031
+    - Metrics (at fetch): not returned
+    
+    > New paper out on race conditions &amp; last frame synchronization in HTTP/3 🚀  
+    >
+    > 🔗 https://link.springer.com/article/10.1007/s10207-026-01258-6  
+    >
+    > Highlights:  
+    > • Analysis of last frame synchronization in HTTP/3  
+    > • Tools &amp; libraries with clean APIs for researchers  
+    > • Comparison of attack effectiveness: H2 vs H3
+    
+    **Links in post:** https://link.springer.com/article/10.1007/s10207-026-01258-6
+    
 
 
 ---
@@ -1009,9 +1028,25 @@ Tags (automatic): Race condition
 - URL: https://x.com/albinowax/status/2054916468416864650
 - Metrics (at fetch): bookmark 47, impression 14141, like 114, quote 0, reply 1, retweet 4
 
-> Always good to hear about people having fun triggering race conditions with the single-packet attack! https://t.co/Is6VBf6bsy
+> Always good to hear about people having fun triggering race conditions with the single-packet attack! https://twitter.com/0xabdullahx0/status/2054897666732228692
 
-**Quoted post** 2054897666732228692: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/0xabdullahx0/status/2054897666732228692
+
+**Quoted post (full text):**
+
+    #### Quoted post — @149864097 — 2026-05-14 12:12 UTC (2026-05-14 13:12 WAT)
+    
+    - URL: https://x.com/149864097/status/2054897666732228692
+    - Metrics (at fetch): not returned
+    
+    > Recently performed a Pentest of a hybrid perp DEX.
+    >
+    > Found several issues, but one critical stood out: a race condition in the close-position logic that turned a 100 USDT position into $3.9M in unauthorized trading volume — leaving bad debt on the protocol. 
+    > 🧵 [pic.x.com/X5sKsTzVvP]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HIR0nq1bkAA278L.jpg — no alt text provided by author
+    
 
 
 ---
@@ -1042,3 +1077,106 @@ Tags (automatic): AI-assisted hunting
 
 > I just did an interview with @SecWeekly, with teasers for my upcoming #BHUSA presentation "Can AI Do Novel Vulnerability Research: Meet the HTTP Terminator", plus reflections on the Top Ten Web Hacking Techniques of 2025 &amp; 2026. Watch it here:
 > https://t.co/BSUuoyW0MF
+
+
+---
+
+## 2026-04-27 · Post · We've launched a new @WebSecAcademy topic on exploiting AI-powered security scanners! Learn how to u
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @albinowax — 2026-04-27 15:21 UTC (2026-04-27 16:21 WAT)
+
+- URL: https://x.com/albinowax/status/2048784529494548520
+- Metrics (at fetch): not returned
+
+> We've launched a new @WebSecAcademy topic on exploiting AI-powered security scanners! Learn how to use  indirect prompt injection to steal data, cause damage &amp; trigger exploit chains! [pic.x.com/nyIXEAgURt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HG6-Yb0bYAAa_pW.jpg — no alt text provided by author
+
+
+---
+
+## 2026-03-24 · Post · CVSS' Attack Complexity metric is the bane of bug bounty hunters:  "you tried really hard to find th
+
+
+### Post — @albinowax — 2026-03-24 14:58 UTC (2026-03-24 15:58 WAT)
+
+- URL: https://x.com/albinowax/status/2036457724238610619
+- Metrics (at fetch): not returned
+
+> CVSS' Attack Complexity metric is the bane of bug bounty hunters:  "you tried really hard to find that bug, so we'll pay you less". [pic.x.com/59mbaZbpOJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HELrMiJaIAMsR86.png — no alt text provided by author
+
+
+---
+
+## 2026-03-13 · Post · "Users can log in with any password". Some of the best bugs make zero sense until you look into the 
+
+
+### Post — @albinowax — 2026-03-13 16:20 UTC (2026-03-13 17:20 WAT)
+
+- URL: https://x.com/albinowax/status/2032491925014450184
+- Metrics (at fetch): not returned
+
+> "Users can log in with any password". Some of the best bugs make zero sense until you look into the code! Great writeup. https://twitter.com/PentesterLab/status/2031292432722374958
+
+**Links in post:** https://twitter.com/PentesterLab/status/2031292432722374958
+
+**Quoted post (full text):**
+
+    #### Quoted post — @438070214 — 2026-03-10 08:53 UTC (2026-03-10 09:53 WAT)
+    
+    - URL: https://x.com/438070214/status/2031292432722374958
+    - Metrics (at fetch): not returned
+    
+    > A commit meant to "strengthen the crypto" in FreshRSS ended up removing the need for a correct password.
+    >
+    > Why?
+    > Longer SHA-256 nonce + bcrypt truncation at 72 bytes.
+    >
+    > A nice example of why secure systems are about composition, not just stronger primitives.
+    >
+    > https://pentesterlab.com/blog/freshrss-bcrypt-truncation-auth-bypass
+    
+    **Links in post:** https://pentesterlab.com/blog/freshrss-bcrypt-truncation-auth-bypass
+    
+
+
+---
+
+## 2023-11-09 · Post · There's still a load of potential for further research and discoveries in HTTP request smuggling. Th
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2023-11-09 15:53 UTC (2023-11-09 16:53 WAT)
+
+- URL: https://x.com/albinowax/status/1722643559944245354
+- Metrics (at fetch): not returned
+
+> There's still a load of potential for further research and discoveries in HTTP request smuggling. This massive-impact finding from @deadvolvo exploiting Akamai/F5 is a great example:
+> https://blog.malicious.group/from-akamai-to-f5-to-ntlm/
+
+**Links in post:** https://blog.malicious.group/from-akamai-to-f5-to-ntlm/
+
+
+---
+
+## 2021-06-01 · Post · Looking for a mentor? I don't tutor, but I do lead a team dedicated to teaching web hacking to every
+
+
+### Post — @albinowax — 2021-06-01 12:34 UTC (2021-06-01 13:34 WAT)
+
+- URL: https://x.com/albinowax/status/1399705839347318790
+- Metrics (at fetch): bookmark 111, impression 0, like 794, quote 10, reply 23, retweet 169
+
+> Looking for a mentor? I don't tutor, but I do lead a team dedicated to teaching web hacking to everyone for free.
+>
+> Every topic is designed by @PortSwigger hackers - @artsploit, @garethheyes, @DafyddStuttard and myself. You're in good hands. Start here: https://t.co/Ns0jC67tdJ

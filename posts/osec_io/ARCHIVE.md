@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 29
-- Conversations/threads: 29
-- Oldest post captured: 2024-11-28
+- Posts in this file: 41
+- Conversations/threads: 41
+- Oldest post captured: 2023-07-16
 - Newest post captured: 2026-11-05
 
 
@@ -706,3 +706,299 @@ Tags (automatic): Memory corruption / native
     
     **Quoted post** 1772063355290669280: not readable via the API (deleted, private, or withheld).
     
+
+
+---
+
+## 2024-05-28 · Post · in ATX for consensus? come stop by the @CryptoGirlsClub hack day and brunch tomorrow 🤸‍♀️ https://t.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2024-05-28 15:42 UTC (2024-05-28 16:42 WAT)
+
+- URL: https://x.com/osec_io/status/1795480891663499504
+- Metrics (at fetch): bookmark 0, impression 2367, like 7, quote 0, reply 0, retweet 3
+
+> in ATX for consensus? come stop by the @CryptoGirlsClub hack day and brunch tomorrow 🤸‍♀️ https://t.co/HqQJYs8ZjO
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1576254828996706304 — 2024-05-27 20:56 UTC (2024-05-27 21:56 WAT)
+    
+    - URL: https://x.com/1576254828996706304/status/1795197446512926728
+    - Metrics (at fetch): bookmark 0, impression 2659, like 8, quote 1, reply 2, retweet 2
+    
+    > We’ve got @CryptoGirlsClub, @DablClub @FundingChain and @osec_io joining us for a Women’s hack day &amp; brunch around the pool exclusively for women in web3. https://t.co/Gr2ct7VXYQ
+    
+
+
+---
+
+## 2024-05-16 · Post · Coming to @consensus2024?  We're hosting a poolside mansion brunch and tea party for the girls with 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2024-05-16 14:23 UTC (2024-05-16 15:23 WAT)
+
+- URL: https://x.com/osec_io/status/1791112322758418690
+- Metrics (at fetch): bookmark 3, impression 4887, like 25, quote 1, reply 1, retweet 7
+
+> Coming to @consensus2024?  We're hosting a poolside mansion brunch and tea party for the girls with @CryptoGirlsClub, @DablClub, @FundingChain, and @0xPolygon! 
+>
+> Come hack, network, and hang poolside with us🥂
+>
+> 📅 Wednesday, May 29th
+> ⏰ 12pm to 4pm
+> 📍 ATX
+> https://t.co/GtNx77SMtL
+
+
+---
+
+## 2024-04-01 · Post · OtterSec is excited to introduce what we’ve been cooking lately: OtterChain! 
+
+
+### Post — @osec_io — 2024-04-01 22:24 UTC (2024-04-01 23:24 WAT)
+
+- URL: https://x.com/osec_io/status/1774925908258038144
+- Metrics (at fetch): bookmark 3, impression 7114, like 81, quote 3, reply 8, retweet 5
+
+> OtterSec is excited to introduce what we’ve been cooking lately: OtterChain! 
+>
+> OtterChain is a new L3, built with security in mind. We’re more than a multisig: we’re two multisigs!
+>
+> Going forward, every protocol we audit will exclusively launch on OtterChain 🦦
+
+
+---
+
+## 2024-02-10 · Post · OtterSec is proud to announce we've completed of our audit of @watchesio, the first end-to-end track
+
+
+### Post — @osec_io — 2024-02-10 01:00 UTC (2024-02-10 02:00 WAT)
+
+- URL: https://x.com/osec_io/status/1756120895716782499
+- Metrics (at fetch): not returned
+
+> OtterSec is proud to announce we've completed of our audit of @watchesio, the first end-to-end tracking and trading ecosystem for watches.
+>
+> We know this is only the beginning, and we're excited to see what the team has in store next! 👀 https://twitter.com/watchesio/status/1756119639065583690
+
+**Links in post:** https://twitter.com/watchesio/status/1756119639065583690
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1443388993404641285 — 2024-02-10 00:55 UTC (2024-02-10 01:55 WAT)
+    
+    - URL: https://x.com/1443388993404641285/status/1756119639065583690
+    - Metrics (at fetch): not returned
+    
+    > Your gateway to luxury watch markets is here: the first end-to-end tracking &amp; trading ecosystem for watches is in beta NOW. Elevate your watch portfolio with precise market data, low fees, and guaranteed authenticity.
+    >
+    > Audited by @osec_io and built for you http://watches.io
+    
+    **Links in post:** http://watches.io
+    
+
+
+---
+
+## 2024-01-29 · Post · OtterSec is excited to announce that our audit of the restaking vaults has been completed! We’re pro
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2024-01-29 15:40 UTC (2024-01-29 16:40 WAT)
+
+- URL: https://x.com/osec_io/status/1751993668351713715
+- Metrics (at fetch): not returned
+
+> OtterSec is excited to announce that our audit of the restaking vaults has been completed! We’re proud to have partnered on supporting the first restaking vaults on Solana 🔥 https://twitter.com/picasso_network/status/1751811950021841011
+
+**Links in post:** https://twitter.com/picasso_network/status/1751811950021841011
+
+**Quoted post** 1751811950021841011: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-01-10 · Post · Formal verification is key to detecting potential issues with new features before it lands on mainne
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2024-01-10 18:41 UTC (2024-01-10 19:41 WAT)
+
+- URL: https://x.com/osec_io/status/1745153844198187502
+- Metrics (at fetch): not returned
+
+> Formal verification is key to detecting potential issues with new features before it lands on mainnet. OtterSec is proud to partner with Aptos to identify critical security requirements for each of their Move smart contract modules, and looking forward to continued collaboration! https://twitter.com/wgrieskamp/status/1744841000525426697
+
+**Links in post:** https://twitter.com/wgrieskamp/status/1744841000525426697
+
+**Quoted post (full text):**
+
+    #### Quoted post — @278124021 — 2024-01-09 21:58 UTC (2024-01-09 22:58 WAT)
+    
+    - URL: https://x.com/278124021/status/1744841000525426697
+    - Metrics (at fetch): not returned
+    
+    > Unmatched in the industry, the Aptos Framework has been formally specified and verified. We also systematically applied a QA process integrating requirements engineering with testing and verification. Read more below!
+    > https://medium.com/aptoslabs/securing-the-aptos-framework-through-formal-verification-14124d1ed660
+    
+    **Links in post:** https://medium.com/aptoslabs/securing-the-aptos-framework-through-formal-verification-14124d1ed660
+    
+
+
+---
+
+## 2023-11-02 · Post · Been hearing a lot about Metamask Snaps? Let's take a look at what they are, how they work, and some
+
+
+### Post — @osec_io — 2023-11-02 11:51 UTC (2023-11-02 12:51 WAT)
+
+- URL: https://x.com/osec_io/status/1720045911571574785
+- Metrics (at fetch): not returned
+
+> Been hearing a lot about Metamask Snaps? Let's take a look at what they are, how they work, and some of the vulnerability research OtterSec has done, including a bug we found in the sandboxing layer. 
+>
+> More technical details can be found in our blog post:
+> https://osec.io/blog/2023-11-01-metamask-snaps https://twitter.com/osec_io/status/1719768262538334525
+
+**Links in post:** https://osec.io/blog/2023-11-01-metamask-snaps, https://twitter.com/osec_io/status/1719768262538334525
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2023-11-01 17:28 UTC (2023-11-01 18:28 WAT)
+    
+    - URL: https://x.com/osec_io/status/1719768262538334525
+    - Metrics (at fetch): not returned
+    
+    > Metamask Snaps: Playing in the Sand
+    > Published November 1st, 2023 
+    >
+    > https://osec.io/blog/2023-11-01-metamask-snaps
+    
+    **Links in post:** https://osec.io/blog/2023-11-01-metamask-snaps
+    
+
+
+---
+
+## 2023-11-01 · Post · Metamask Snaps: Playing in the Sand
+
+
+### Post — @osec_io — 2023-11-01 17:28 UTC (2023-11-01 18:28 WAT)
+
+- URL: https://x.com/osec_io/status/1719768262538334525
+- Metrics (at fetch): not returned
+
+> Metamask Snaps: Playing in the Sand
+> Published November 1st, 2023 
+>
+> https://osec.io/blog/2023-11-01-metamask-snaps
+
+**Links in post:** https://osec.io/blog/2023-11-01-metamask-snaps
+
+
+---
+
+## 2023-10-06 · Post · ICYMI: On Wednesday's spaces, we talked about how our CEO @notdeghost, in partnership with @rimeissn
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-10-06 16:00 UTC (2023-10-06 17:00 WAT)
+
+- URL: https://x.com/osec_io/status/1710324145911984284
+- Metrics (at fetch): not returned
+
+> ICYMI: On Wednesday's spaces, we talked about how our CEO @notdeghost, in partnership with @rimeissner, @AckeeBlockchain, @HatsFinance, @chain_security, and @OpenZeppelin introduced ERC-7512 in response to the critical need for onchain access and verification of audits. [pic.x.com/2V03PNVzOR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7xKvsCbEAAvbBm.png — no alt text provided by author
+
+
+---
+
+## 2023-08-23 · Post · 🚨Announcement🚨
+
+
+### Post — @osec_io — 2023-08-23 20:09 UTC (2023-08-23 21:09 WAT)
+
+- URL: https://x.com/osec_io/status/1694441788465877455
+- Metrics (at fetch): not returned
+
+> 🚨Announcement🚨
+>
+> OtterSec has added @ArkhamIntel to our tech stack in order to track, recover, and blacklist stolen funds across all ecosystems in the event of an exploit.
+>
+> Their alert system and API will allow us to take action swiftly and return user funds quicker than ever.🤝
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4PdRlXXAAEbiNM.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-03 · Post · We find individuals like this highly intelligent for understanding where the real importance of bloc
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-08-03 20:22 UTC (2023-08-03 21:22 WAT)
+
+- URL: https://x.com/osec_io/status/1687197389575311361
+- Metrics (at fetch): not returned
+
+> We find individuals like this highly intelligent for understanding where the real importance of blockchain security resides.
+>
+> "Smart contract audit" is not synonymous with creating a genuinely secure environment for users to build, invest, and transact. https://twitter.com/amaechhii/status/1686076266946969617
+
+**Links in post:** https://twitter.com/amaechhii/status/1686076266946969617
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1105891150995562496 — 2023-07-31 18:08 UTC (2023-07-31 19:08 WAT)
+    
+    - URL: https://x.com/1105891150995562496/status/1686076266946969617
+    - Metrics (at fetch): not returned
+    
+    > Smart contract auditing receives a majority of the attention on crypto Twitter, but the top Security researchers are focused on securing the entire Blockchain ecosystem.
+    >
+    > I find @osec_io reports an informative source for these type of vulnerabilities 
+    >
+    > https://osec.io/blog/2023-07-28-solidity-compilers-memory-safety https://twitter.com/0xriptide/status/1685873421182205952
+    
+    **Links in post:** https://osec.io/blog/2023-07-28-solidity-compilers-memory-safety, https://twitter.com/0xriptide/status/1685873421182205952
+    
+    **Quoted post** 1685873421182205952: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-07-16 · Post · Yes, we audit Solidity 🦦 https://twitter.com/cuffyCapital/status/1680529680410071044
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-07-16 11:27 UTC (2023-07-16 12:27 WAT)
+
+- URL: https://x.com/osec_io/status/1680539647217135616
+- Metrics (at fetch): not returned
+
+> Yes, we audit Solidity 🦦 https://twitter.com/cuffyCapital/status/1680529680410071044
+
+**Links in post:** https://twitter.com/cuffyCapital/status/1680529680410071044
+
+**Quoted post** 1680529680410071044: not readable via the API (deleted, private, or withheld).
