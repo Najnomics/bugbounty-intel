@@ -4,6 +4,8 @@ A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty f
 
 Last updated: **11 November 2026** (Africa/Lagos).
 
+> **For the harness agent:** start at [harness/README.md](harness/README.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
+
 > **Verbatim notice for agents without X access.** Every X post and thread referenced in this repo is copied **in full, verbatim** into [`posts/`](posts/) (author, date in UTC and WAT, URL, metrics, media with alt text, expanded links, quoted posts, and the author's self-reply thread). Linked blog posts, advisories and disclosed reports are saved as full readable text in [`writeups/`](writeups/) with source URL and fetch date. You never need to open x.com or the original links. Start at [INDEX.md](INDEX.md).
 
 This is not a complete map of X, and it is not a hall-of-fame ranking. It starts from a verified seed list, then adds researchers who show **multiple** valid finds on HackerOne, Bugcrowd, Immunefi, or HackenProof (or closely related contest/audit work that sits alongside bounty hunting). Technical detail is taken only from public posts and writeups. Amounts, names, and bug classes that were not stated in a public source are marked **undisclosed**.
@@ -26,6 +28,7 @@ This is not a complete map of X, and it is not a hall-of-fame ranking. It starts
 | [techniques.md](techniques.md) | Cross-cutting methodology and bug patterns, each tip linked to its source |
 | [sources-log.md](sources-log.md) | Every post and URL consulted, with dates |
 | [INDEX.md](INDEX.md) | Index by researcher, by bug class (auto tags), and by platform |
+| [harness/](harness/) | **For a harness-building agent:** merged recon methodology, per-bug-class check specs with payloads, and a machine-readable `findings.jsonl` — all cited back to local files |
 | [posts/](posts/) | `posts/<handle>/<YYYY-MM-DD>-<postid>.md` — verbatim post + thread + quoted post + media, then an `## Analysis` section (tags, bug class, root cause, how found, takeaways pulled from the researcher file) |
 | [writeups/](writeups/) | `writeups/<researcher>/<slug>.md` — full text of linked blogs/reports, header with source URL and fetch date |
 

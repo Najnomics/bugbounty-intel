@@ -308,3 +308,19 @@ Full HTTP requests, wildcard payloads, WAF-bypass SQL, XSS polyglots, Algolia cu
 - hacktron.ai Antigravity blog post — 404.
 - Some old X threads are partial because the search index only covers ~30 days: `_bagipro` Android content-provider thread (3 of 4 parts), ChainLight weekly summaries (partial), zkSecurity challenge thread (as available). Timelines with time windows recovered the full Frans Rosén 10-part thread and the first `_bagipro` Uri thread.
 - Dropped candidates (no technical posts returned): renniepak, bytes032, 0xleastwood, 0xalpharush, steventseeley, lavados, 0xPARC (event/announcement posts only).
+
+## Nov 2026 — Marius du Preez deep crawl + harness layer
+
+- **mdpsec.com**: crawled sitemap (`/`, `/privacy/`, `/security-test/` only), robots.txt, and probed for a reports page/API. The site is a static Astro marketing site with no per-report listing and no data API (only `/api/apply` lead form). Saved: `writeups/mdp_sec/mdpsec-home.md`, `mdpsec-privacy.md`, `mdpsec-security-test.md`.
+- **HackerOne** (`mdpsec`): public GraphQL — `user(username:"mdpsec")` for stats and `search(index:CompleteHacktivityReportIndex, query_string:"reporter:mdpsec")` for hacktivity. 24 resolved, 0 disclosed, 15 hacktivity entries (metadata only). Read-only.
+- **HackenProof** (`MDPSEC`): public profile HTML. 15 paid reports (3C/3H/6M/3L), 0 disclosed, rank 104.
+- **Bugcrowd** (`marius_dp`): profile gated behind the authenticated hacker portal; no public per-report data retrievable.
+- **GitHub** `mdpsec`: repos `bug-bounty-hunting-prompts` (full 11-phase prompt pack saved under `writeups/mdp_sec/prompts/`) and `should-i-submit` (README saved).
+- **X** `@mdp_sec`: full retrievable original-post timeline via `get_users_posts` (exclude replies/retweets), 22 pages, 422 posts, 2026-07-22 → 2026-11-11. Timeline API returns nothing older than 2026-07-22. Read-only; nothing posted/liked/followed.
+- **Medium**: no `@mdpsec`/`@mdp_sec`/`@mariusdupreez` feed exists (404).
+- **Harness layer** built from the above plus existing repo sources: `harness/README.md`, `harness/recon-methodology.md`, `harness/bug-classes/*.md` (14 classes), `harness/findings.jsonl` (39 records).
+
+### Could not fetch / not available
+- Any Marius du Preez report with full disclosed detail (0 disclosed on HackerOne and HackenProof; Bugcrowd gated). His per-report detail exists only in his own X posts.
+- His X posts from 2026-03-24 to 2026-07-21 (before the timeline API's reach limit).
+- Bugcrowd per-researcher disclosures (authenticated hacker portal).

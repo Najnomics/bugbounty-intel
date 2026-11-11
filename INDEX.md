@@ -2,6 +2,15 @@
 
 Generated 11 Nov 2026 (WAT). Every link points to a file inside this repo that holds **full verbatim text** — no X access needed.
 
+## Harness material
+
+- [harness/README.md](harness/README.md) — how to use the harness folder
+- [harness/recon-methodology.md](harness/recon-methodology.md) — merged recon workflow (backbone: Marius du Preez's phased prompt pack)
+- [harness/bug-classes/](harness/bug-classes/) — per-bug-class detection signals, payloads, tools, automation check specs
+- [harness/findings.jsonl](harness/findings.jsonl) — machine-readable findings
+- [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/) — Marius du Preez's full 11-phase hunting prompt pack (verbatim)
+- [writeups/mdp_sec/platform-reports.md](writeups/mdp_sec/platform-reports.md) — his HackerOne/HackenProof/Bugcrowd report metadata and counts
+
 ## By researcher
 
 | Researcher | Profile | Posts (files) | Writeups | Specialty | Platforms |
@@ -44,7 +53,7 @@ Generated 11 Nov 2026 (WAT). Every link points to a file inside this repo that h
 | krishnsec | [researchers/krishnsec.md](researchers/krishnsec.md) | [12](posts/krishnsec/) | 0 | see profile (original set) | see profile |
 | lonelysloth_sec | [researchers/lonelysloth_sec.md](researchers/lonelysloth_sec.md) | [3](posts/lonelysloth_sec/) | 0 | see profile (original set) | see profile |
 | ma1fan | [researchers/ma1fan.md](researchers/ma1fan.md) | [5](posts/ma1fan/) | 0 | Web3 | Immunefi (All Star per bio) |
-| mdp_sec **(Marius du Preez)** | [researchers/mdp_sec.md](researchers/mdp_sec.md) | [10](posts/mdp_sec/) | [2](writeups/mdp_sec/) | Web / API | HackerOne (mdpsec / marius_dp), Bugcrowd (marius_dp), HackenProof (MDPSEC) |
+| mdp_sec **(Marius du Preez)** | [researchers/mdp_sec.md](researchers/mdp_sec.md) | [422](posts/mdp_sec/) | [6](writeups/mdp_sec/) | Web / API | HackerOne (mdpsec / marius_dp), Bugcrowd (marius_dp), HackenProof (MDPSEC) |
 | NahamSec | [researchers/NahamSec.md](researchers/NahamSec.md) | [5](posts/NahamSec/) | 0 | Web / AI hackbots | HackerOne (ex-employee), Bugcrowd |
 | naresh_1337 | [researchers/naresh_1337.md](researchers/naresh_1337.md) | [6](posts/naresh_1337/) | 0 | see profile (original set) | see profile |
 | orange_8361 | [researchers/orange_8361.md](researchers/orange_8361.md) | [5](posts/orange_8361/) | [1](writeups/orange_8361/) | Web / Pwn2Own | Pwn2Own (DEVCORE); historic MSRC/Exchange findings |
@@ -71,7 +80,7 @@ Generated 11 Nov 2026 (WAT). Every link points to a file inside this repo that h
 
 Tags are automatic keyword matches on the post text (false positives possible); read the post file to confirm.
 
-### AI-assisted hunting (73)
+### AI-assisted hunting (133)
 
 - [@0xacb — 2026-11-02 — This @bishopfox tool is next level! 🚀](posts/0xacb/2026-11-02-2117156243588497749.md)
 - [@0xacb — 2026-11-03 — I was reading a blog on the "AI RCEssion" today, and it captures what happened during Octo](posts/0xacb/2026-11-03-2117647871285584365.md)
@@ -129,10 +138,70 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@krishnsec — 2026-11-01 — P1 - AI Application Security &gt; Model Extraction &gt; API Query-Based Model Reconstructi](posts/krishnsec/2026-11-01-2116965015777628269.md)
 - [@lonelysloth_sec — 2026-03-08 — I was starting to get hopeful about using Claude in some capacity in my work.](posts/lonelysloth_sec/2026-03-08-2030545303607329178.md)
 - [@lonelysloth_sec — 2026-06-05 — My take on the Zcash bug.](posts/lonelysloth_sec/2026-06-05-2062916729676648907.md)
-- [@mdp_sec — 2026-09-01 — I have spent most of my time hunting on @Bugcrowd](posts/mdp_sec/2026-09-01-2094614973146448108.md)
-- [@mdp_sec — 2026-11-06 — hunters who got paid this week 👇](posts/mdp_sec/2026-11-06-2118593724624023616.md)
+- [@mdp_sec — 2026-07-22 — Just cancelled 2× Claude Max 20 accounts and rotated straight to 2 new SuperGrok Heavy instead](posts/mdp_sec/2026-07-22-2080070852088054104.md)
+- [@mdp_sec — 2026-07-23 — Here is what your money actually buys in tokens.](posts/mdp_sec/2026-07-23-2080128823706689956.md)
+- [@mdp_sec — 2026-08-06 — People keep asking me for the prompt behind my AI bug bounty system.](posts/mdp_sec/2026-08-06-2085187655101530370.md)
+- [@mdp_sec — 2026-08-10 — Daybreak Red being available to individual researchers is huge.](posts/mdp_sec/2026-08-10-2086909842439197029.md)
+- [@mdp_sec — 2026-08-10 — Hey @AnthropicAI @ClaudeDevs  @trq212 @bcherny can you guys check into CVP.](posts/mdp_sec/2026-08-10-2086950923956576534.md)
+- [@mdp_sec — 2026-08-11 — Claude: hey](posts/mdp_sec/2026-08-11-2087284315461972068.md)
+- [@mdp_sec — 2026-08-12 — Gotta say a big thanks to @cjav_dev for sorting out my Claude CVP got my 3 accounts ready to rol](posts/mdp_sec/2026-08-12-2087544742850736538.md)
+- [@mdp_sec — 2026-08-17 — Well promo was fun while lasted.](posts/mdp_sec/2026-08-17-2089462010451005513.md)
+- [@mdp_sec — 2026-08-19 — Everyone is discovering cloud agents because their laptop starts crying after 4 concurrent sessi](posts/mdp_sec/2026-08-19-2090205014036025371.md)
+- [@mdp_sec — 2026-08-20 — Legit hope this becomes a permanent thing](posts/mdp_sec/2026-08-20-2090365412768956459.md)
+- [@mdp_sec — 2026-08-20 — Waking up to a Claude or Codex ban email..](posts/mdp_sec/2026-08-20-2090551076017885297.md)
+- [@mdp_sec — 2026-08-21 — So atm claude on promo levels giving about 4-4.5b tokens a week using opus.](posts/mdp_sec/2026-08-21-2090907252383478129.md)
+- [@mdp_sec — 2026-08-22 — This is pretty banger tbh.](posts/mdp_sec/2026-08-22-2091064571931017666.md)
+- [@mdp_sec — 2026-08-28 — Most AI cybersecurity benchmarks answer the wrong question for bug-bounty hunters.](posts/mdp_sec/2026-08-28-2093342858501820901.md)
+- [@mdp_sec — 2026-09-01 — Sadly another model that cyber defenders cant use.](posts/mdp_sec/2026-09-01-2094870059416166591.md)
+- [@mdp_sec — 2026-09-02 — I selected Opus.](posts/mdp_sec/2026-09-02-2094986075920097578.md)
+- [@mdp_sec — 2026-09-08 — So this happened almost a month ago now.](posts/mdp_sec/2026-09-08-2097417271216054476.md)
+- [@mdp_sec — 2026-09-09 — took about a month to get a reply.](posts/mdp_sec/2026-09-09-2097804851455676716.md)
+- [@mdp_sec — 2026-09-12 — My AI agents run on a Linux server in another country.](posts/mdp_sec/2026-09-12-2098923749156458655.md)
+- [@mdp_sec — 2026-09-19 — Built a small standalone piece of my bug bounty workflow: Should I Submit This.](posts/mdp_sec/2026-09-19-2101181485046993353.md)
+- [@mdp_sec — 2026-09-21 — New project up for everyone](posts/mdp_sec/2026-09-21-2101978915871031611.md)
+- [@mdp_sec — 2026-09-23 — Tried to bench opus 5.5 but refusals just downgrades it to 4.8 so wont be able to bench this](posts/mdp_sec/2026-09-23-2102556490402058707.md)
+- [@mdp_sec — 2026-09-24 — bypassing any llm guardrails 1 word at a time](posts/mdp_sec/2026-09-24-2103251491402444842.md)
+- [@mdp_sec — 2026-09-25 — Who remembers this guy.](posts/mdp_sec/2026-09-25-2103409495741509907.md)
+- [@mdp_sec — 2026-09-27 — LLM: escapes sandbox.](posts/mdp_sec/2026-09-27-2104091127079190873.md)
+- [@mdp_sec — 2026-09-30 — Was not trying to build a cyber dataset.](posts/mdp_sec/2026-09-30-2105131551386415322.md)
+- [@mdp_sec — 2026-09-30 — Everyone wants agents that find real vulnerabilities.](posts/mdp_sec/2026-09-30-2105401938213036106.md)
+- [@mdp_sec — 2026-10-01 — genuine question for the labs training security agents.](posts/mdp_sec/2026-10-01-2105769650172903555.md)
+- [@mdp_sec — 2026-10-02 — Just shy of 1 trillion tokens of real agent traces from 7 months of bug bounty hunting.](posts/mdp_sec/2026-10-02-2106165547327271028.md)
+- [@mdp_sec — 2026-10-04 — Something new launching this week](posts/mdp_sec/2026-10-04-2106845239864635891.md)
+- [@mdp_sec — 2026-10-07 — thx cvp](posts/mdp_sec/2026-10-07-2107636851133886641.md)
+- [@mdp_sec — 2026-10-10 — Added Gemini to bench](posts/mdp_sec/2026-10-10-2109004960906244258.md)
+- [@mdp_sec — 2026-10-10 — Bug Hunter tip](posts/mdp_sec/2026-10-10-2109022016062083241.md)
+- [@mdp_sec — 2026-10-11 — Back to hunting this week, fam 🫡](posts/mdp_sec/2026-10-11-2109428613615698052.md)
+- [@mdp_sec — 2026-10-12 — Legit never been this impressed](posts/mdp_sec/2026-10-12-2109486039987573147.md)
+- [@mdp_sec — 2026-10-13 — If my cyber gets approved ill bench this.](posts/mdp_sec/2026-10-13-2110100051263676751.md)
+- [@mdp_sec — 2026-10-15 — As requested Gemini 4 Argon @GoogleDeepMind @GoogleAI](posts/mdp_sec/2026-10-15-2110571337542778974.md)
+- [@mdp_sec — 2026-10-19 — Gotta give credit](posts/mdp_sec/2026-10-19-2112188966363402648.md)
+- [@mdp_sec — 2026-10-19 — Sadly got a few of these within same min](posts/mdp_sec/2026-10-19-2112306543094120786.md)
+- [@mdp_sec — 2026-10-22 — feels legit like this a endless cycle between openai and claude for cyber](posts/mdp_sec/2026-10-22-2113153033328906402.md)
+- [@mdp_sec — 2026-10-22 — well this be new.](posts/mdp_sec/2026-10-22-2113392897802600547.md)
+- [@mdp_sec — 2026-10-26 — someone's hackbot broke out of its sandbox and used his github to message the challenge owner as](posts/mdp_sec/2026-10-26-2114571298840158212.md)
+- [@mdp_sec — 2026-10-26 — claude found its own way past a georgia paywall without being asked](posts/mdp_sec/2026-10-26-2114630468322939090.md)
+- [@mdp_sec — 2026-10-26 — everyone's laughing at mythos going out of scope](posts/mdp_sec/2026-10-26-2114675909424730475.md)
+- [@mdp_sec — 2026-10-26 — gpt-6.1 terra just dropped](posts/mdp_sec/2026-10-26-2114816838119157855.md)
+- [@mdp_sec — 2026-10-27 — gpt-6.1 terra is pretty much useless for defenders](posts/mdp_sec/2026-10-27-2114946685562757385.md)
+- [@mdp_sec — 2026-10-27 — gemini 4 argon rolling out to everyone in antigravity tonight](posts/mdp_sec/2026-10-27-2115023197817172279.md)
+- [@mdp_sec — 2026-10-27 — anthropic filed to go public with an $80.7bn net loss for the first half of 2026](posts/mdp_sec/2026-10-27-2115053396759883788.md)
+- [@mdp_sec — 2026-10-27 — pro tip dont launch ur coding agent from downloads](posts/mdp_sec/2026-10-27-2115113794863329748.md)
+- [@mdp_sec — 2026-10-28 — anthropic gave claude code a hidden lean on 4 calls in a study with 50 expert analysts](posts/mdp_sec/2026-10-28-2115445983752638800.md)
+- [@mdp_sec — 2026-10-28 — 57/100 black box labs, $0.24 a solve, refused 0](posts/mdp_sec/2026-10-28-2115536580509122706.md)
+- [@mdp_sec — 2026-10-29 — gpt-6 astra refused 35 of my 100 black box hacking labs and solved 0](posts/mdp_sec/2026-10-29-2115657376372048162.md)
+- [@mdp_sec — 2026-10-29 — 220b tokens of my own usage over the last 14 days, average output speed](posts/mdp_sec/2026-10-29-2115717774647644341.md)
+- [@mdp_sec — 2026-10-29 — STEVE didnt make the cyber 60 again](posts/mdp_sec/2026-10-29-2115747973518762387.md)
+- [@mdp_sec — 2026-10-29 — gemini 4 carbon is sota on cyber and google strengthened the safeguards](posts/mdp_sec/2026-10-29-2115778172356902954.md)
+- [@mdp_sec — 2026-10-29 — openai just doubled pro limits and my codex sub says thanks](posts/mdp_sec/2026-10-29-2115887157881745719.md)
+- [@mdp_sec — 2026-10-29 — 5 more labs for 10x the price](posts/mdp_sec/2026-10-29-2115898968534306846.md)
+- [@mdp_sec — 2026-10-30 — everyone wants their app agent ready now](posts/mdp_sec/2026-10-30-2115989565395841400.md)
+- [@mdp_sec — 2026-10-30 — anthropics unreleased claude got zero click root on linux in 53 minutes and im verified with bot](posts/mdp_sec/2026-10-30-2116140561044292021.md)
+- [@mdp_sec — 2026-11-04 — Personal Claude account got into @AnthropicAI CVP.](posts/mdp_sec/2026-11-04-2118130528239149369.md)
 - [@mdp_sec — 2026-11-09 — BB Arena v2 is live. 100 new private black-box labs, and it's a lot harder](posts/mdp_sec/2026-11-09-2119670856075166075.md)
 - [@mdp_sec — 2026-11-09 — claude fable 5.1 refused all 100 of my black-box hacking labs](posts/mdp_sec/2026-11-09-2119885234887876972.md)
+- [@mdp_sec — 2026-11-09 — So... who is gotta sleep with for red access..](posts/mdp_sec/2026-11-09-2119895827091206184.md)
+- [@mdp_sec — 2026-11-11 — gemini 4 carbon dropped this morning and i can't bench it](posts/mdp_sec/2026-11-11-2120308020798488654.md)
 - [@naresh_1337 — 2026-10-21 — Another finding, another milestone. The hunt continues......](posts/naresh_1337/2026-10-21-2112901217278214612.md)
 - [@orange_8361 — 2026-05-14 — That's my chain — a full chain w/ logic bugs only! No memory corruption, no AI, and of cou](posts/orange_8361/2026-05-14-2054906050143240399.md)
 - [@orange_8361 — 2026-05-15 — And this one is human insight w/ LLM-assisted research. Took about one week to finish ever](posts/orange_8361/2026-05-15-2055330289652539850.md)
@@ -193,7 +262,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 ### Dependency confusion / supply chain (3)
 
 - [@Rhynorater — 2026-10-01 — Lupin and the squad are killing it in bug bounty using supply chain attacks.](posts/Rhynorater/2026-10-01-2105716901423001866.md)
-- [@mdp_sec — 2026-11-06 — $1,200 for a package name nobody had claimed. dependency confusion, my only paid supply ch](posts/mdp_sec/2026-11-06-2118803107119325691.md)
+- [@mdp_sec — 2026-11-06 — $1,200 for a package name nobody had claimed. dependency confusion, my only paid supply chain bu](posts/mdp_sec/2026-11-06-2118803107119325691.md)
 - [@trust__90 — 2026-04-20 — CT focusing on the low-hanging fruit takes -](posts/trust__90/2026-04-20-2046203827305484565.md)
 
 ### IDOR / BOLA (2)
@@ -201,7 +270,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@Assass1nmarcos — 2026-07-08 — Hello @Hacker0x01,](posts/Assass1nmarcos/2026-07-08-2074871162035986895.md)
 - [@Swartz068 — 2026-08-24 — 2 x Duplicate on @Bugcrowd](posts/Swartz068/2026-08-24-2091854507970081180.md)
 
-### Memory corruption / native (13)
+### Memory corruption / native (20)
 
 - [@Guhu95 — 2025-07-17 — There are just two types of bugs:](posts/Guhu95/2025-07-17-1945640502025752709.md)
 - [@S1r1u5_ — 2026-11-02 — apart from ip options potentially being dropped in transit, kernel text leaks taking time,](posts/S1r1u5_/2026-11-02-2117097902774640858.md)
@@ -215,23 +284,38 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@j00ru — 2020-08-04 — This week's episode: MMS Exploit Part 4: MMS Primer, Completing the ASLR Oracle](posts/j00ru/2020-08-04-1290678374487162881.md)
 - [@j00ru — 2020-08-12 — The final part 5 of my Samsung MMS exploit blog series is out 🎉 It covers bypassing Androi](posts/j00ru/2020-08-12-1293600839320428545.md)
 - [@j00ru — 2021-03-12 — Fixed this month: CVE-2021-26863, a race condition/use-after-free in win32k.sys demonstrat](posts/j00ru/2021-03-12-1370364905862352901.md)
+- [@mdp_sec — 2026-08-08 — The human equivalent of what token cost would look like](posts/mdp_sec/2026-08-08-2085907122383118673.md)
+- [@mdp_sec — 2026-08-22 — One of the smaller things that made automated account creation more reliable was adding more tha](posts/mdp_sec/2026-08-22-2091302807479652372.md)
+- [@mdp_sec — 2026-08-28 — Most AI cybersecurity benchmarks answer the wrong question for bug-bounty hunters.](posts/mdp_sec/2026-08-28-2093342858501820901.md)
+- [@mdp_sec — 2026-10-26 — Everyone's talking about the vulnpocalypse.](posts/mdp_sec/2026-10-26-2114586570686628009.md)
+- [@mdp_sec — 2026-10-26 — lines up with BB Arena](posts/mdp_sec/2026-10-26-2114825143046521124.md)
+- [@mdp_sec — 2026-11-04 — heaps of sunscreen, multiple days back to back 80km offshore and my soft IT skin still lost. hid](posts/mdp_sec/2026-11-04-2118073295358808429.md)
+- [@mdp_sec — 2026-11-11 — HuntDeck is live in demo mode 🎯](posts/mdp_sec/2026-11-11-2120371004916805916.md)
 - [@ryotkak — 2026-05-08 — Does anyone have a direct contact at @thezdi? I've been trying to register my Pwn2Own entr](posts/ryotkak/2026-05-08-2052881664909660521.md)
 
-### Mobile / Android / iOS (6)
+### Mobile / Android / iOS (9)
 
 - [@_bagipro — 2025-08-01 — New Android host validation bypass technique!](posts/_bagipro/2025-08-01-1951318010444005529.md)
 - [@_bagipro — 2026-02-25 — An attack on Android content providers that researchers might overlook](posts/_bagipro/2026-02-25-2026798826871247233.md)
 - [@farazsth98 — 2026-01-10 — Just wanted to share a few things I learned that prevents this exploit from working out-of](posts/farazsth98/2026-01-10-2009932971692962216.md)
 - [@j00ru — 2020-07-28 — Trying hard to keep up the weekly cadence of the MMS series. Today we're finally moving to](posts/j00ru/2020-07-28-1288200298390081536.md)
 - [@j00ru — 2020-08-12 — The final part 5 of my Samsung MMS exploit blog series is out 🎉 It covers bypassing Androi](posts/j00ru/2020-08-12-1293600839320428545.md)
+- [@mdp_sec — 2026-09-12 — My AI agents run on a Linux server in another country.](posts/mdp_sec/2026-09-12-2098923749156458655.md)
+- [@mdp_sec — 2026-09-23 — Ps on android using premium plus sub](posts/mdp_sec/2026-09-23-2102909109477777750.md)
+- [@mdp_sec — 2026-10-31 — opencode got breached, 1.4% of console users with external provider keys hit, and command code r](posts/mdp_sec/2026-10-31-2116351953273827524.md)
 - [@xssdoctor — 2026-10-01 — Found a cool bug today, thought i should share it.](posts/xssdoctor/2026-10-01-2105723370125881675.md)
 
-### OAuth (1)
+### OAuth (2)
 
+- [@mdp_sec — 2026-09-03 — I found a public OAuth client where any free account could read and write the production billing](posts/mdp_sec/2026-09-03-2095462761111388207.md)
 - [@xssdoctor — 2026-10-01 — Found a cool bug today, thought i should share it.](posts/xssdoctor/2026-10-01-2105723370125881675.md)
 
-### Path normalization (2)
+### Path normalization (6)
 
+- [@mdp_sec — 2026-08-28 — Most AI cybersecurity benchmarks answer the wrong question for bug-bounty hunters.](posts/mdp_sec/2026-08-28-2093342858501820901.md)
+- [@mdp_sec — 2026-08-29 — Adding one dot segment turned an admin login redirect into HTTP 200.](posts/mdp_sec/2026-08-29-2093595999847731482.md)
+- [@mdp_sec — 2026-10-14 — A few bypasses that keep working for me in hunts. There are huge lists out there, but these are ](posts/mdp_sec/2026-10-14-2110165381239521347.md)
+- [@mdp_sec — 2026-10-19 — New on BB Arena: OrcaCyber Zero 1.5 (High)](posts/mdp_sec/2026-10-19-2112097740046111101.md)
 - [@mdp_sec — 2026-11-11 — one /./ in the path walked me straight past a login wall into an admin console](posts/mdp_sec/2026-11-11-2120338219841544604.md)
 - [@samwcyo — 2026-02-26 — Two years ago, I reported an improper path parsing vulnerability in Next.js. Today, they r](posts/samwcyo/2026-02-26-2026888257779224594.md)
 
@@ -254,11 +338,12 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@kevin_mizu — 2026-10-07 — I'm happy that my first article as part of the @SLCyberSec research team is finally out! 😁](posts/kevin_mizu/2026-10-07-2107783292091007306.md)
 - [@orange_8361 — 2026-05-15 — And this one is human insight w/ LLM-assisted research. Took about one week to finish ever](posts/orange_8361/2026-05-15-2055330289652539850.md)
 
-### Race condition (3)
+### Race condition (4)
 
 - [@0xacb — 2026-11-03 — I was reading a blog on the "AI RCEssion" today, and it captures what happened during Octo](posts/0xacb/2026-11-03-2117647871285584365.md)
 - [@j00ru — 2021-03-12 — Fixed this month: CVE-2021-26863, a race condition/use-after-free in win32k.sys demonstrat](posts/j00ru/2021-03-12-1370364905862352901.md)
 - [@kevin_mizu — 2026-10-07 — I'm happy that my first article as part of the @SLCyberSec research team is finally out! 😁](posts/kevin_mizu/2026-10-07-2107783292091007306.md)
+- [@mdp_sec — 2026-09-14 — So pushing 6 months now waiting on @intigriti](posts/mdp_sec/2026-09-14-2099392439853387918.md)
 
 ### Request smuggling / desync (2)
 
@@ -269,7 +354,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 
 - [@infinitelogins — 2026-05-09 — after escalating for hours today.. finally found my first bug bounty SQLi!! super excited](posts/infinitelogins/2026-05-09-2053257780895920586.md)
 - [@infinitelogins — 2026-10-14 — I found a critical unauthenticated SQL injection that earned a $4,000 bounty. The WAF blo](posts/infinitelogins/2026-10-14-2110355630133322159.md)
-- [@mdp_sec — 2026-11-10 — i found an unauthed sql injection that let me pull customer pii and resume tokens off a pu](posts/mdp_sec/2026-11-10-2120066429223317560.md)
+- [@mdp_sec — 2026-11-10 — i found an unauthed sql injection that let me pull customer pii and resume tokens off a public q](posts/mdp_sec/2026-11-10-2120066429223317560.md)
 - [@ryotkak — 2026-07-17 — 【注意】WordPress本体において、未認証で任意コード実行に繋がる脆弱性が修正されています。](posts/ryotkak/2026-07-17-2078257717983236594.md)
 
 ### SSRF (2)
@@ -346,7 +431,7 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 
 ### Posts mentioning a platform
 
-#### Platform: Bugcrowd (40)
+#### Platform: Bugcrowd (78)
 
 - [@Assass1nmarcos — 2026-10-02 — I earned $8,000 for my submission on @bugcrowd #ItTakesACrowd](posts/Assass1nmarcos/2026-10-02-2106068361662922971.md)
 - [@NahamSec — 2026-11-04 — Launched my hackbot at a new target on Bugcrowd at 11:09 and by 11:32 it had its first wor](posts/NahamSec/2026-11-04-2118067189576286345.md)
@@ -385,9 +470,47 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@krishnsec — 2026-09-21 — Crossed 19K reputation on @Bugcrowd ✅](posts/krishnsec/2026-09-21-2102006855241482637.md)
 - [@krishnsec — 2026-10-05 — September wrapped up with another #1 on the @Bugcrowd leaderboard &gt;&gt; [pic.x.com/XiO1](posts/krishnsec/2026-10-05-2106984299560124675.md)
 - [@krishnsec — 2026-10-07 — Finally hit 20,000 reputation on @Bugcrowd A long journey and definitely not an easy miles](posts/krishnsec/2026-10-07-2107784924162093528.md)
+- [@mdp_sec — 2026-07-27 — nice batch of payment thx @Bugcrowd](posts/mdp_sec/2026-07-27-2081605952554647944.md)
+- [@mdp_sec — 2026-07-28 — This one was fun.](posts/mdp_sec/2026-07-28-2081892628996804623.md)
+- [@mdp_sec — 2026-07-28 — #9 last month on @Bugcrowd](posts/mdp_sec/2026-07-28-2081998048683778456.md)
+- [@mdp_sec — 2026-07-28 — Gotta love when contesting a downgraded rating swings your way.](posts/mdp_sec/2026-07-28-2082218685180400076.md)
+- [@mdp_sec — 2026-07-30 — Zero bugs submitted this month...](posts/mdp_sec/2026-07-30-2082952213505397088.md)
+- [@mdp_sec — 2026-07-31 — Gotta keep score.](posts/mdp_sec/2026-07-31-2083112167575015881.md)
+- [@mdp_sec — 2026-08-03 — Look at these legends on @Bugcrowd](posts/mdp_sec/2026-08-03-2084147462554746943.md)
+- [@mdp_sec — 2026-08-05 — Good start to the week :)](posts/mdp_sec/2026-08-05-2084934544004948361.md)
+- [@mdp_sec — 2026-08-07 — Waited 2 months for this one..](posts/mdp_sec/2026-08-07-2085651486231630022.md)
+- [@mdp_sec — 2026-08-18 — PoC video contains:](posts/mdp_sec/2026-08-18-2089543192463167889.md)
+- [@mdp_sec — 2026-08-18 — Giving AI a bug bounty target is easy.](posts/mdp_sec/2026-08-18-2089584180497969222.md)
+- [@mdp_sec — 2026-08-18 — Got invited to a private program for something I’ve used daily for years.](posts/mdp_sec/2026-08-18-2089839409881579826.md)
+- [@mdp_sec — 2026-08-21 — V2 had the fix.](posts/mdp_sec/2026-08-21-2090672289625026872.md)
+- [@mdp_sec — 2026-08-22 — One of the smaller things that made automated account creation more reliable was adding more tha](posts/mdp_sec/2026-08-22-2091302807479652372.md)
+- [@mdp_sec — 2026-08-23 — One report has at least seven clocks:](posts/mdp_sec/2026-08-23-2091415699260637377.md)
+- [@mdp_sec — 2026-08-26 — An API key in an APK can be limited, monitored, or designed for a public client.](posts/mdp_sec/2026-08-26-2092483261448724523.md)
+- [@mdp_sec — 2026-08-27 — Before assigning severity, write seven facts:](posts/mdp_sec/2026-08-27-2092809905900261713.md)
+- [@mdp_sec — 2026-08-28 — Most AI cybersecurity benchmarks answer the wrong question for bug-bounty hunters.](posts/mdp_sec/2026-08-28-2093342858501820901.md)
+- [@mdp_sec — 2026-08-29 — Adding one dot segment turned an admin login redirect into HTTP 200.](posts/mdp_sec/2026-08-29-2093595999847731482.md)
 - [@mdp_sec — 2026-09-01 — I have spent most of my time hunting on @Bugcrowd](posts/mdp_sec/2026-09-01-2094614973146448108.md)
-- [@mdp_sec — 2026-11-06 — hunters who got paid this week 👇](posts/mdp_sec/2026-11-06-2118593724624023616.md)
-- [@mdp_sec — 2026-11-06 — $1,200 for a package name nobody had claimed. dependency confusion, my only paid supply ch](posts/mdp_sec/2026-11-06-2118803107119325691.md)
+- [@mdp_sec — 2026-09-01 — I post plenty about where bug bounty triage breaks.](posts/mdp_sec/2026-09-01-2094739133868769645.md)
+- [@mdp_sec — 2026-09-03 — Busy month.](posts/mdp_sec/2026-09-03-2095365982349074744.md)
+- [@mdp_sec — 2026-09-03 — I found a public OAuth client where any free account could read and write the production billing](posts/mdp_sec/2026-09-03-2095462761111388207.md)
+- [@mdp_sec — 2026-09-04 — Bug bounty is moving toward an abundance problem.](posts/mdp_sec/2026-09-04-2095827649046466845.md)
+- [@mdp_sec — 2026-09-06 — We all love free tokens right... If someone else pays for it. Found this one recently.](posts/mdp_sec/2026-09-06-2096462049857634733.md)
+- [@mdp_sec — 2026-09-07 — Grinding way up on h1](posts/mdp_sec/2026-09-07-2097085872000864484.md)
+- [@mdp_sec — 2026-09-08 — legit one thing I would love....](posts/mdp_sec/2026-09-08-2097223659488456988.md)
+- [@mdp_sec — 2026-09-14 — Banger way to wake up :)](posts/mdp_sec/2026-09-14-2099587928418828750.md)
+- [@mdp_sec — 2026-09-17 — I found a self-service login token that was forgeable for any user.](posts/mdp_sec/2026-09-17-2100438961256796461.md)
+- [@mdp_sec — 2026-09-26 — RAR legit doesn't work](posts/mdp_sec/2026-09-26-2103729280572387523.md)
+- [@mdp_sec — 2026-10-04 — hey @Bugcrowd recon you could look at these fam?](posts/mdp_sec/2026-10-04-2106583593871122473.md)
+- [@mdp_sec — 2026-10-05 — I swear @Bugcrowd has a roulette wheel](posts/mdp_sec/2026-10-05-2107019197066998014.md)
+- [@mdp_sec — 2026-10-05 — gotta love when PII is NA right...](posts/mdp_sec/2026-10-05-2107220037388120120.md)
+- [@mdp_sec — 2026-10-07 — idk whats happening at @Bugcrowd](posts/mdp_sec/2026-10-07-2107955393251131511.md)
+- [@mdp_sec — 2026-10-12 — Getting a proper response like this after a report is rewarded legit means a lot for hunters](posts/mdp_sec/2026-10-12-2109511254213849599.md)
+- [@mdp_sec — 2026-10-19 — this goes straight back into tokens :)](posts/mdp_sec/2026-10-19-2112130274310099094.md)
+- [@mdp_sec — 2026-10-30 — 13 payout emails tagged broken access control paid me $12,206](posts/mdp_sec/2026-10-30-2116080162349465978.md)
+- [@mdp_sec — 2026-11-06 — $1,200 for a package name nobody had claimed. dependency confusion, my only paid supply chain bu](posts/mdp_sec/2026-11-06-2118803107119325691.md)
+- [@mdp_sec — 2026-11-10 — looking for a few early testers for HuntDeck](posts/mdp_sec/2026-11-10-2119948851318784342.md)
+- [@mdp_sec — 2026-11-11 — HuntDeck is live in demo mode 🎯](posts/mdp_sec/2026-11-11-2120371004916805916.md)
+- [@mdp_sec — 2026-11-11 — RT @mdp_sec: HuntDeck is live in demo mode 🎯](posts/mdp_sec/2026-11-11-2120416381330170346.md)
 
 #### Platform: Code4rena / Sherlock / Cantina (7)
 
@@ -399,7 +522,7 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@keterka — 2026-04-27 — Security researchers: which AI tools impressed you the most lately? What should I test nex](posts/keterka/2026-04-27-2048580338759155952.md)
 - [@keterka — 2026-05-27 — Results are in for @monetrix_xyz  on @code4rena.](posts/keterka/2026-05-27-2059434905482740185.md)
 
-#### Platform: HackenProof (14)
+#### Platform: HackenProof (15)
 
 - [@Piki_eth — 2026-08-28 — My local Qwen ran for 5 hours auditing a crypto project and found a strong DoS vulnerabili](posts/Piki_eth/2026-08-28-2093217981732171978.md)
 - [@Piki_eth — 2026-09-01 — The best notification: “has been paid.” 💰](posts/Piki_eth/2026-09-01-2094790419410567631.md)
@@ -415,8 +538,9 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@keterka — 2026-08-09 — Hey, frens! Happy to share my latest @HackenProof results 🫡](posts/keterka/2026-08-09-2086493338140610908.md)
 - [@keterka — 2026-10-30 — Finally, a win 🥇](posts/keterka/2026-10-30-2115961607679254802.md)
 - [@keterka — 2026-10-30 — Hacker of the Week again 🔥](posts/keterka/2026-10-30-2116207308753547406.md)
+- [@mdp_sec — 2026-07-29 — It's been very interesting working on @HackenProof](posts/mdp_sec/2026-07-29-2082542340225536300.md)
 
-#### Platform: HackerOne (38)
+#### Platform: HackerOne (61)
 
 - [@Assass1nmarcos — 2026-03-30 — Yay, I was awarded a $5,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos](posts/Assass1nmarcos/2026-03-30-2038648576335884461.md)
 - [@Assass1nmarcos — 2026-07-08 — Hello @Hacker0x01,](posts/Assass1nmarcos/2026-07-08-2074871162035986895.md)
@@ -451,7 +575,30 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 - [@infinitelogins — 2026-10-19 — PwnEscape escapes KVM in Vercel's $1M sandbox, @opencode's big week ends in a breach, @Ha](posts/infinitelogins/2026-10-19-2112170733228966180.md)
 - [@kevin_mizu — 2026-07-09 — It was a really fun event! Thanks to @Hacker0x01 and Salesforce for the invitation!](posts/kevin_mizu/2026-07-09-2075234997246496822.md)
 - [@kevin_mizu — 2026-09-07 — A logical bug that I've reported to MariaDB has just been disclosed! 🎉](posts/kevin_mizu/2026-09-07-2097055819447550388.md)
+- [@mdp_sec — 2026-07-31 — Gotta keep score.](posts/mdp_sec/2026-07-31-2083112167575015881.md)
+- [@mdp_sec — 2026-08-18 — PoC video contains:](posts/mdp_sec/2026-08-18-2089543192463167889.md)
+- [@mdp_sec — 2026-08-18 — Giving AI a bug bounty target is easy.](posts/mdp_sec/2026-08-18-2089584180497969222.md)
+- [@mdp_sec — 2026-08-18 — Got invited to a private program for something I’ve used daily for years.](posts/mdp_sec/2026-08-18-2089839409881579826.md)
+- [@mdp_sec — 2026-08-21 — V2 had the fix.](posts/mdp_sec/2026-08-21-2090672289625026872.md)
+- [@mdp_sec — 2026-08-22 — One of the smaller things that made automated account creation more reliable was adding more tha](posts/mdp_sec/2026-08-22-2091302807479652372.md)
+- [@mdp_sec — 2026-08-23 — One report has at least seven clocks:](posts/mdp_sec/2026-08-23-2091415699260637377.md)
+- [@mdp_sec — 2026-08-26 — An API key in an APK can be limited, monitored, or designed for a public client.](posts/mdp_sec/2026-08-26-2092483261448724523.md)
+- [@mdp_sec — 2026-08-27 — Before assigning severity, write seven facts:](posts/mdp_sec/2026-08-27-2092809905900261713.md)
+- [@mdp_sec — 2026-08-28 — Most AI cybersecurity benchmarks answer the wrong question for bug-bounty hunters.](posts/mdp_sec/2026-08-28-2093342858501820901.md)
+- [@mdp_sec — 2026-08-29 — Adding one dot segment turned an admin login redirect into HTTP 200.](posts/mdp_sec/2026-08-29-2093595999847731482.md)
 - [@mdp_sec — 2026-09-01 — I have spent most of my time hunting on @Bugcrowd](posts/mdp_sec/2026-09-01-2094614973146448108.md)
+- [@mdp_sec — 2026-09-01 — I post plenty about where bug bounty triage breaks.](posts/mdp_sec/2026-09-01-2094739133868769645.md)
+- [@mdp_sec — 2026-09-03 — Busy month.](posts/mdp_sec/2026-09-03-2095365982349074744.md)
+- [@mdp_sec — 2026-09-03 — I found a public OAuth client where any free account could read and write the production billing](posts/mdp_sec/2026-09-03-2095462761111388207.md)
+- [@mdp_sec — 2026-09-04 — Bug bounty is moving toward an abundance problem.](posts/mdp_sec/2026-09-04-2095827649046466845.md)
+- [@mdp_sec — 2026-09-06 — We all love free tokens right... If someone else pays for it. Found this one recently.](posts/mdp_sec/2026-09-06-2096462049857634733.md)
+- [@mdp_sec — 2026-09-07 — Grinding way up on h1](posts/mdp_sec/2026-09-07-2097085872000864484.md)
+- [@mdp_sec — 2026-09-08 — legit one thing I would love....](posts/mdp_sec/2026-09-08-2097223659488456988.md)
+- [@mdp_sec — 2026-09-17 — I found a self-service login token that was forgeable for any user.](posts/mdp_sec/2026-09-17-2100438961256796461.md)
+- [@mdp_sec — 2026-09-26 — Gotta love all them @Hacker0x01 invites](posts/mdp_sec/2026-09-26-2103961764711027026.md)
+- [@mdp_sec — 2026-10-12 — Getting a proper response like this after a report is rewarded legit means a lot for hunters](posts/mdp_sec/2026-10-12-2109511254213849599.md)
+- [@mdp_sec — 2026-10-19 — this goes straight back into tokens :)](posts/mdp_sec/2026-10-19-2112130274310099094.md)
+- [@mdp_sec — 2026-10-30 — 13 payout emails tagged broken access control paid me $12,206](posts/mdp_sec/2026-10-30-2116080162349465978.md)
 - [@mdp_sec — 2026-11-05 — $8,000 for an auth bypass](posts/mdp_sec/2026-11-05-2118435683329310786.md)
 - [@zseano — 2026-10-01 — some data if you're curious on active *PUBLIC* programs on hackerone :) some insight into](posts/zseano/2026-10-01-2105766060398162315.md)
 - [@zseano — 2026-10-04 — Damn how does h1 have bugs like this 🫠](posts/zseano/2026-10-04-2106711601223180342.md)

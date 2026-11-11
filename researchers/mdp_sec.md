@@ -1,17 +1,35 @@
 # @mdp_sec — Marius du Preez (requested by Dorothy)
 
-Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/mdp_sec/`](../posts/mdp_sec/); full writeups under [`writeups/mdp_sec/`](../writeups/mdp_sec/).
+Compiled 11 Nov 2026 (WAT). This is the most fully-documented researcher in the repo. Full verbatim post text: [`posts/mdp_sec/`](../posts/mdp_sec/) (422 files). Writeups, site pages, platform report metadata and his full prompt pack: [`writeups/mdp_sec/`](../writeups/mdp_sec/). Harness material derived from his workflow: [`harness/`](../harness/).
 
 | Field | Value |
 | --- | --- |
-| X | [@mdp_sec](https://x.com/mdp_sec) (user id 2036270919757471747, joined 2026-03-24) |
-| Name (profile) | Marius du Preez |
-| Followers (11 Nov 2026) | 5252 |
-| Bio (verbatim) | BB Arena: which AI models can really hack? https://t.co/vOXBILNHDr  HuntDeck: every bb platform on one board. https://t.co/3PaspAobXP   Hunting on @Hacker0x01 @Bugcrowd |
-| Specialty | Web / API |
-| Platforms | HackerOne (mdpsec / marius_dp), Bugcrowd (marius_dp), HackenProof (MDPSEC) |
-| Evidence of valid finds | mdpsec.com (fetched, see writeups/mdp_sec/mdpsec-home.md) states 582 reports, 148 critical, 263 high. Posts in this folder include a $4,000 unauthenticated SQLi, an $8,000 HackerOne auth bypass, and a $1,200 Bugcrowd dependency-confusion payout. Builds BB Arena (AI-vs-black-box-lab benchmark) and HuntDeck. |
-| Links | https://mdpsec.com, https://github.com/mdpsec/bug-bounty-hunting-prompts |
+| X | [@mdp_sec](https://x.com/mdp_sec) (user id 2036270919757471747, created 2026-03-24 UTC) |
+| Name | Marius du Preez |
+| Location | Australia |
+| Site | https://mdpsec.com (static marketing site — no report listing) |
+| Specialty | Web / API — web apps, APIs, cloud backends, Android, business logic, access control |
+| Platforms | HackerOne (`mdpsec`), Bugcrowd (`marius_dp`), HackenProof (`MDPSEC`) |
+| Also builds | BB Arena (blackboxarena.ai, AI-vs-black-box-lab benchmark), HuntDeck; GitHub `mdpsec/bug-bounty-hunting-prompts` and `mdpsec/should-i-submit` |
+
+## Report counts — full vs metadata-only vs missing (exact)
+
+His site claims **582 reports submitted, 148 critical, 263 high, across 5 platforms** (self-reported aggregate, last updated Oct 2026). The site has no per-report listing, no reports page, and no data API — only a `/security-test/` lead form (`/api/apply`). So almost all 582 are **undisclosed private-program reports** with no public detail anywhere. Breakdown of what is actually retrievable:
+
+| Source | Reports | Full detail | Metadata only | Notes |
+| --- | --- | --- | --- | --- |
+| **HackerOne** `mdpsec` | 24 resolved | 0 | 15 (hacktivity) | 0 publicly disclosed. 15 hacktivity entries give program + internal id only; 2 show a bounty ($100 goldmansachs, $842 stripe). Rep 849, rank 2739, signal 6.52. |
+| **HackenProof** `MDPSEC` | 15 paid | 0 | 15 (counts) | 0 disclosed. Severity split: 3 critical, 3 high, 6 medium, 3 low. Rank 104, rep 966, 29 influenced programs. |
+| **Bugcrowd** `marius_dp` | unknown | 0 | 0 | Profile gated behind the authenticated hacker portal; no public per-report data retrievable on 2026-11-11. |
+| **X (@mdp_sec)** | — | ~a dozen with technique | the rest | His own posts are the only place with real vulnerability detail; the detailed ones are analysed below. |
+
+**Exact counts.** Full report detail available publicly: **0** disclosed platform reports. Metadata-only: **30** (15 HackerOne hacktivity + 15 HackenProof paid-report severity rows). Missing / undisclosed with no public metadata: the remainder of his self-reported 582 (i.e. ~552, including all Bugcrowd and the ~9 HackerOne resolved reports not in hacktivity). The platform figures are in [`writeups/mdp_sec/platform-reports.md`](../writeups/mdp_sec/platform-reports.md) and `.json`.
+
+His own earliest retrievable post (2026-07-22) states: "$83,088 from bug bounties in my first 151 days. 203 reports since my first submission on 20 February." See [`posts/mdp_sec/2026-07-22-2079869121513378138.md`](../posts/mdp_sec/2026-07-22-2079869121513378138.md).
+
+## X capture
+
+His full retrievable original-post timeline was captured verbatim: **422 post files** spanning **2026-07-22 → 2026-11-11**. The X timeline API returns no posts older than 2026-07-22 (its reach limit), so his 2026-03-24 → 2026-07-21 posts are not retrievable ("as far as search allows"). Each file includes the full long-form/note text, media, quoted posts and his own self-reply thread.
 
 ## Key findings and analysis
 
@@ -63,20 +81,29 @@ Compiled 11 Nov 2026 (WAT). Full verbatim post text lives under [`posts/mdp_sec/
 - **How it was found:** Experience from moving volume from Bugcrowd to HackerOne.
 - **Takeaways:** Know each platform's dupe policy before choosing where to spend time.
 
-## All captured posts (verbatim files)
-
-- 2026-11-10 — i found an unauthed sql injection that let me pull customer pii and resume tokens off a public quote flow. pai — [`posts/mdp_sec/2026-11-10-2120066429223317560.md`](../posts/mdp_sec/2026-11-10-2120066429223317560.md) · https://x.com/mdp_sec/status/2120066429223317560
-- 2026-11-11 — one /./ in the path walked me straight past a login wall into an admin console — [`posts/mdp_sec/2026-11-11-2120338219841544604.md`](../posts/mdp_sec/2026-11-11-2120338219841544604.md) · https://x.com/mdp_sec/status/2120338219841544604
-- 2026-11-05 — $8,000 for an auth bypass — [`posts/mdp_sec/2026-11-05-2118435683329310786.md`](../posts/mdp_sec/2026-11-05-2118435683329310786.md) · https://x.com/mdp_sec/status/2118435683329310786
-- 2026-11-06 — $1,200 for a package name nobody had claimed. dependency confusion, my only paid supply chain bug. Thx @Bugcro — [`posts/mdp_sec/2026-11-06-2118803107119325691.md`](../posts/mdp_sec/2026-11-06-2118803107119325691.md) · https://x.com/mdp_sec/status/2118803107119325691
-- 2026-11-06 — two accounts and a private record is where id start on my own app @cursor_ai — [`posts/mdp_sec/2026-11-06-2118526280379343189.md`](../posts/mdp_sec/2026-11-06-2118526280379343189.md) · https://x.com/mdp_sec/status/2118526280379343189
-- 2026-11-06 — hunters who got paid this week 👇 — [`posts/mdp_sec/2026-11-06-2118593724624023616.md`](../posts/mdp_sec/2026-11-06-2118593724624023616.md) · https://x.com/mdp_sec/status/2118593724624023616
-- 2026-09-01 — I have spent most of my time hunting on @Bugcrowd — [`posts/mdp_sec/2026-09-01-2094614973146448108.md`](../posts/mdp_sec/2026-09-01-2094614973146448108.md) · https://x.com/mdp_sec/status/2094614973146448108
-- 2026-11-09 — BB Arena v2 is live. 100 new private black-box labs, and it's a lot harder — [`posts/mdp_sec/2026-11-09-2119670856075166075.md`](../posts/mdp_sec/2026-11-09-2119670856075166075.md) · https://x.com/mdp_sec/status/2119670856075166075
-- 2026-11-09 — claude fable 5.1 refused all 100 of my black-box hacking labs — [`posts/mdp_sec/2026-11-09-2119885234887876972.md`](../posts/mdp_sec/2026-11-09-2119885234887876972.md) · https://x.com/mdp_sec/status/2119885234887876972
-- 2026-11-02 — Comments be brutal... — [`posts/mdp_sec/2026-11-02-2117342079303205204.md`](../posts/mdp_sec/2026-11-02-2117342079303205204.md) · https://x.com/mdp_sec/status/2117342079303205204
-
-## Writeups saved (full text)
+## Writeups, site pages, platform data and prompt pack (full text)
 
 - [`writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md`](../writeups/mdp_sec/bug-bounty-hunting-prompts-readme.md)
 - [`writeups/mdp_sec/mdpsec-home.md`](../writeups/mdp_sec/mdpsec-home.md)
+- [`writeups/mdp_sec/mdpsec-privacy.md`](../writeups/mdp_sec/mdpsec-privacy.md)
+- [`writeups/mdp_sec/mdpsec-security-test.md`](../writeups/mdp_sec/mdpsec-security-test.md)
+- [`writeups/mdp_sec/platform-reports.md`](../writeups/mdp_sec/platform-reports.md)
+- [`writeups/mdp_sec/should-i-submit-readme.md`](../writeups/mdp_sec/should-i-submit-readme.md)
+- [`writeups/mdp_sec/prompts/ADAPTATION.md`](../writeups/mdp_sec/prompts/ADAPTATION.md)
+- [`writeups/mdp_sec/prompts/SECURITY.md`](../writeups/mdp_sec/prompts/SECURITY.md)
+- [`writeups/mdp_sec/prompts/phases/phase-00-recon.md`](../writeups/mdp_sec/prompts/phases/phase-00-recon.md)
+- [`writeups/mdp_sec/prompts/phases/phase-01-access.md`](../writeups/mdp_sec/prompts/phases/phase-01-access.md)
+- [`writeups/mdp_sec/prompts/phases/phase-02-sweep.md`](../writeups/mdp_sec/prompts/phases/phase-02-sweep.md)
+- [`writeups/mdp_sec/prompts/phases/phase-03-closeout.md`](../writeups/mdp_sec/prompts/phases/phase-03-closeout.md)
+- [`writeups/mdp_sec/prompts/phases/phase-04a-scope.md`](../writeups/mdp_sec/prompts/phases/phase-04a-scope.md)
+- [`writeups/mdp_sec/prompts/phases/phase-04b-browser-walk.md`](../writeups/mdp_sec/prompts/phases/phase-04b-browser-walk.md)
+- [`writeups/mdp_sec/prompts/phases/phase-05a-scope.md`](../writeups/mdp_sec/prompts/phases/phase-05a-scope.md)
+- [`writeups/mdp_sec/prompts/phases/phase-05b-critical.md`](../writeups/mdp_sec/prompts/phases/phase-05b-critical.md)
+- [`writeups/mdp_sec/prompts/phases/phase-06-triage.md`](../writeups/mdp_sec/prompts/phases/phase-06-triage.md)
+- [`writeups/mdp_sec/prompts/phases/phase-07-validate-escalate.md`](../writeups/mdp_sec/prompts/phases/phase-07-validate-escalate.md)
+- [`writeups/mdp_sec/prompts/phases/phase-08-verify-escalate.md`](../writeups/mdp_sec/prompts/phases/phase-08-verify-escalate.md)
+- [`writeups/mdp_sec/prompts/phases/phase-08a-independent-escalation.md`](../writeups/mdp_sec/prompts/phases/phase-08a-independent-escalation.md)
+- [`writeups/mdp_sec/prompts/phases/phase-09-triage-gate.md`](../writeups/mdp_sec/prompts/phases/phase-09-triage-gate.md)
+- [`writeups/mdp_sec/prompts/phases/phase-10-self-duplicate-check.md`](../writeups/mdp_sec/prompts/phases/phase-10-self-duplicate-check.md)
+
+All 422 verbatim posts are in [`posts/mdp_sec/`](../posts/mdp_sec/).
