@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 505
-- Conversations/threads: 500
+- Posts in this file: 509
+- Conversations/threads: 504
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
 
@@ -5365,6 +5365,40 @@ Tags (automatic): SSRF
 
 ---
 
+## 2021-02-18 · Post · Sharpener 1.06 is out which includes a few new features and bug fixes BurpSuite AppSec [pic.x.com/
+
+
+### Post — @irsdl — 2021-02-18 03:22 UTC (2021-02-18 04:22 WAT)
+
+- URL: https://x.com/irsdl/status/1362240950924419072
+- Metrics (at fetch): not returned
+
+> Sharpener 1.06 is out which includes a few new features and bug fixes #BurpSuite #AppSec [pic.x.com/JdbXxkLAy6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Euek0TYXUAAlId_.png — no alt text provided by author
+
+
+---
+
+## 2021-02-05 · Post · Sharpener v1.04 is out: https://github.com/mdsecresearch/BurpSuiteSharpener/
+
+
+### Post — @irsdl — 2021-02-05 00:55 UTC (2021-02-05 01:55 WAT)
+
+- URL: https://x.com/irsdl/status/1357493002869080064
+- Metrics (at fetch): not returned
+
+> Sharpener v1.04 is out: https://github.com/mdsecresearch/BurpSuiteSharpener/
+> This release includes miner bug fixes when reloading the extension multiple times, improves saving and debugging.
+>
+> Did you know you can just duplicate the subtab titles &amp; it keeps the current style and adds a #1?
+
+**Links in post:** https://github.com/mdsecresearch/BurpSuiteSharpener/
+
+
+---
+
 ## 2020-12-27 · Post · Bug hunters are not researchers
 
 
@@ -5387,7 +5421,9 @@ Tags (automatic): SSRF
 >
 > Burp soot not burp sweet
 >
-> Sequel not s q l https://t.co/tsJywzQNyG
+> Sequel not s q l https://twitter.com/GenericBologna/status/1342284017941557249
+
+**Links in post:** https://twitter.com/GenericBologna/status/1342284017941557249
 
 **Quoted post (full text):**
 
@@ -5428,7 +5464,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2020-12-14 · Post · This is how XSS used to work 5000 years ago... https://t.co/kv41i3MSwM https://t.co/hXiNplkSv7
+## 2020-12-14 · Post · This is how XSS used to work 5000 years ago... [pic.x.com/kv41i3MSwM] https://twitter.com/lutfumertc
 
 
 Tags (automatic): XSS
@@ -5439,10 +5475,12 @@ Tags (automatic): XSS
 - URL: https://x.com/irsdl/status/1338514279281156098
 - Metrics (at fetch): bookmark 13, impression 0, like 290, quote 2, reply 6, retweet 34
 
-> This is how XSS used to work 5000 years ago... https://t.co/kv41i3MSwM https://t.co/hXiNplkSv7
+> This is how XSS used to work 5000 years ago... [pic.x.com/kv41i3MSwM] https://twitter.com/lutfumertceylan/status/1338494979199660032
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EpNbizFW4AACAxh.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/lutfumertceylan/status/1338494979199660032
 
 **Quoted post (full text):**
 
@@ -5458,7 +5496,7 @@ Tags (automatic): XSS
     > +(𒉺.𒀃+𒇺)[𒀀]+𒀃[𒀆]+𒌐+𒀟+𒉺[𒈫]+𒁹+𒌐+𒇺[𒀀]
     > +𒀟][𒁹](𒀃[𒀀]+𒀃[𒈫]+𒉺[𒀆]+𒀟+𒌐+"(𒀀)")()
     >
-    > #bugbounty #bugbountytips #cybersecurity https://t.co/dYFmWlEAR8
+    > #bugbounty #bugbountytips #cybersecurity [pic.x.com/dYFmWlEAR8]
     
     **Media:**
     - media `3_1338494876804128769` (details not returned by the API)
@@ -10290,6 +10328,32 @@ Tags (automatic): XSS
 > To some of my friends: I did not find any CE in IE for http://technet.microsoft.com/en-us/security/bulletin/ms11-oct !! my name is there for finding IE9 XSS protection issue(bypass)
 
 **Links in post:** http://technet.microsoft.com/en-us/security/bulletin/ms11-oct
+
+
+---
+
+## 2011-07-13 · Post · Do we have any legitimate bug bounty auction system? Can I make one?! :D
+
+
+### Post — @irsdl — 2011-07-13 21:10 UTC (2011-07-13 22:10 WAT)
+
+- URL: https://x.com/irsdl/status/91253110655291392
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Do we have any legitimate bug bounty auction system? Can I make one?! :D
+
+
+---
+
+## 2011-06-15 · Post · How sweet!Adobe has fixed the bug that I'd reported without giving me any credit?!At least they gave
+
+
+### Post — @irsdl — 2011-06-15 18:30 UTC (2011-06-15 19:30 WAT)
+
+- URL: https://x.com/irsdl/status/81065967010070528
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> How sweet!Adobe has fixed the bug that I'd reported without giving me any credit?!At least they gave me 1 year Acrobat license for free /:(
 
 
 ---

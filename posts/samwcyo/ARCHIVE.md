@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 186
-- Conversations/threads: 185
+- Posts in this file: 187
+- Conversations/threads: 186
 - Oldest post captured: 2017-02-12
 - Newest post captured: 2026-11-11
 
@@ -1699,6 +1699,28 @@ Tags (automatic): XSS
 > Huge thanks to @sshell_ and @xEHLE_!
 >
 > https://t.co/Rhphw3GDiQ
+
+
+---
+
+## 2021-01-15 · Post · 1. IDOR on Apple via "X-Dsid" header allows attacker to retrieve name, credit card information, addr
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @samwcyo — 2021-01-15 10:24 UTC (2021-01-15 11:24 WAT)
+
+- URL: https://x.com/samwcyo/status/1350025970615529473
+- Metrics (at fetch): not returned
+
+> 1. IDOR on Apple via "X-Dsid" header allows attacker to retrieve name, credit card information, addresses, and various PII of any Apple users via DSID
+> Bounty: $25,000
+>
+> Could create a "god cookie" which had access to all Apple customers name, address, phone, and billing info. [pic.x.com/dTZMQjZl6B]
+
+**Media:**
+- media `3_1350010441423069186` (details not returned by the API)
 
 
 ---

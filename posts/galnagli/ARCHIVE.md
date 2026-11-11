@@ -4245,11 +4245,13 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 28, impression 0, like 121, quote 4, reply 16, retweet 26
 
 > Let's have a little recon challenge 
-> I have placed 10 unique subdomains on my main blog: https://t.co/Z6IPqT8o8p
+> I have placed 10 unique subdomains on my main blog: http://galnagli.com
 > I wonder if someone could grab them all through his recon methodology,
 > (The deepest one is 4 subdomains long)
 > Might include prizes in the future 🤠
 > #BugBounty
+
+**Links in post:** http://galnagli.com
 
 
 ---

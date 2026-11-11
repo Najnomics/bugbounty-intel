@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1084
-- Conversations/threads: 1034
+- Posts in this file: 1089
+- Conversations/threads: 1036
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
@@ -15582,7 +15582,70 @@ Tags (automatic): SSRF
 
 ---
 
-## 2019-12-13 · Post · I'm streaming again this Sunday and as always I'm doing more recon on https://t.co/ifvX7Oe1HZ, using
+## 2019-12-17 · Post · Getting on Twitch in an hour to go through more @WebSecAcademy challenges. Maybe work on some XXE, S
+
+
+Tags (automatic): SQL injection, SSRF
+
+
+### Post — @NahamSec — 2019-12-17 15:35 UTC (2019-12-17 16:35 WAT)
+
+- URL: https://x.com/NahamSec/status/1206960995970830336
+- Metrics (at fetch): not returned
+
+> Getting on Twitch in an hour to go through more @WebSecAcademy challenges. Maybe work on some XXE, SQLi or SSRF. http://Twitch.tv/nahamsec
+
+**Links in post:** http://Twitch.tv/nahamsec
+
+
+---
+
+## 2019-12-16 · Thread · I have been thinking a lot about burn outs and I think I’ve kind of figured it out. You want to know
+
+
+### Post — @NahamSec — 2019-12-16 17:18 UTC (2019-12-16 18:18 WAT)
+
+- URL: https://x.com/NahamSec/status/1206624646251941891
+- Metrics (at fetch): not returned
+
+> I have been thinking a lot about burn outs and I think I’ve kind of figured it out. You want to know why burn outs happen? It’s because we do the same thing over and over without any progress or reward. The reward doesn’t have to be monetary and it can pretty much be anything
+
+
+### Thread part 2 — @NahamSec — 2019-12-16 17:22 UTC (2019-12-16 18:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1206625785630478349
+- Metrics (at fetch): not returned
+
+> that gives you a sense of accomplishment. So if you’re doing bug bounties and feeling burnt out, take a break and do something where you know you’ll make progress and feel good about it. Burn outs don’t happen when there’s excitement and reward.
+
+
+### Thread part 3 — @NahamSec — 2019-12-16 17:25 UTC (2019-12-16 18:25 WAT)
+
+- URL: https://x.com/NahamSec/status/1206626407486377985
+- Metrics (at fetch): not returned
+
+> Unfortunately in our line of work receiving a bounty is what gives you that feeling but I think from now on any time I feel like I’m burnt out I’m gonna create a new tool, play some CTF on hacker101, or do some @PentesterLab.
+
+
+---
+
+## 2019-12-15 · Post · I don't have burp on one of my machines at home so I sent the request to myself over Slack and gener
+
+
+### Post — @NahamSec — 2019-12-15 02:44 UTC (2019-12-15 03:44 WAT)
+
+- URL: https://x.com/NahamSec/status/1206042408007303169
+- Metrics (at fetch): not returned
+
+> I don't have burp on one of my machines at home so I sent the request to myself over Slack and generated the POC via burp😂 Lazy or efficient? [pic.x.com/YhD9ju8Qgz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ELy5K6vUYAQ_tMJ.jpg — no alt text provided by author
+
+
+---
+
+## 2019-12-13 · Post · I'm streaming again this Sunday and as always I'm doing more recon on http://Yahoo.com, using fuff, 
 
 
 ### Post — @NahamSec — 2019-12-13 16:58 UTC (2019-12-13 17:58 WAT)
@@ -15590,14 +15653,16 @@ Tags (automatic): SSRF
 - URL: https://x.com/NahamSec/status/1205532489222983681
 - Metrics (at fetch): bookmark 6, impression 0, like 110, quote 4, reply 4, retweet 9
 
-> I'm streaming again this Sunday and as always I'm doing more recon on https://t.co/ifvX7Oe1HZ, using fuff, amass, crtsh and different recon tools! 
+> I'm streaming again this Sunday and as always I'm doing more recon on http://Yahoo.com, using fuff, amass, crtsh and different recon tools! 
 >
 > @arneswinnen is also joining me later to talk about automation, subdomain takeover, and bug bounties!
 >
-> https://t.co/rWTBZPozP2 https://t.co/5ZrwFP87I8
+> http://twitch.tv/nahamsec [pic.x.com/5ZrwFP87I8]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/ELrpZsSUEAE-SX5.jpg — no alt text provided by author
+
+**Links in post:** http://Yahoo.com, http://twitch.tv/nahamsec
 
 
 ---
@@ -15610,7 +15675,7 @@ Tags (automatic): SSRF
 - URL: https://x.com/NahamSec/status/1204867613538410496
 - Metrics (at fetch): bookmark 0, impression 0, like 73, quote 0, reply 2, retweet 2
 
-> Today I had the pleasure to talk about the bug bounty community on a panel with @martenmickos and a few folks from @TheParanoids at @verizonmedia’s #TechPulse conference! 🙏🏼 https://t.co/O0dE5tGltj
+> Today I had the pleasure to talk about the bug bounty community on a panel with @martenmickos and a few folks from @TheParanoids at @verizonmedia’s #TechPulse conference! 🙏🏼 [pic.x.com/O0dE5tGltj]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/ELiMtOiUcAAKkIv.jpg — no alt text provided by author
@@ -15631,10 +15696,12 @@ Tags (automatic): Platform: HackerOne
 
 > This interview is PACKED with great advice for new hackers. @spaceraccoonsec talked about Hacker101, bug bounty checklists, collaboration, hacking @starbucks, how he got started, and becoming a @hacker0x01 MVH in under a year!
 >
-> https://t.co/UvEOQsO7GF https://t.co/1fYqXACsBq
+> https://youtu.be/8luBKcy6Xjc?t=6912 [pic.x.com/1fYqXACsBq]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/ELXIO7qU4AE9lGH.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/8luBKcy6Xjc?t=6912
 
 
 ---
@@ -15652,7 +15719,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2019-12-06 · Post · I'm back on Twitch this Sunday to do some more recon on https://t.co/ZpR9TFXIEZ and play with @TomNo
+## 2019-12-06 · Post · I'm back on Twitch this Sunday to do some more recon on http://yahoo.com and play with @TomNomNom's 
 
 
 ### Post — @NahamSec — 2019-12-06 14:52 UTC (2019-12-06 15:52 WAT)
@@ -15660,18 +15727,20 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1202963908006416384
 - Metrics (at fetch): bookmark 3, impression 0, like 89, quote 0, reply 1, retweet 6
 
-> I'm back on Twitch this Sunday to do some more recon on https://t.co/ZpR9TFXIEZ and play with @TomNomNom's meg/waybackurl! @d0nutptr is also joining me later to talk about bug bounties, recon and we may also have a little announcement! 
+> I'm back on Twitch this Sunday to do some more recon on http://yahoo.com and play with @TomNomNom's meg/waybackurl! @d0nutptr is also joining me later to talk about bug bounties, recon and we may also have a little announcement! 
 >
 > 10:00 AM PST
-> https://t.co/Bap6RvToQl https://t.co/4l9xhjIq2O
+> http://TWITCH.TV/NAHAMSEC [pic.x.com/4l9xhjIq2O]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/ELFkuGiUwAEWXy3.jpg — no alt text provided by author
 
+**Links in post:** http://yahoo.com, http://TWITCH.TV/NAHAMSEC
+
 
 ---
 
-## 2019-12-03 · Post · We just paid a $20,000 bounty through @Hacker0x01's own bug bounty program! 😱 https://t.co/lKjmO6CEn
+## 2019-12-03 · Post · We just paid a $20,000 bounty through @Hacker0x01's own bug bounty program! 😱 https://hackerone.com/
 
 
 Tags (automatic): Platform: HackerOne
@@ -15682,10 +15751,12 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1201910318349185024
 - Metrics (at fetch): bookmark 13, impression 0, like 562, quote 7, reply 20, retweet 59
 
-> We just paid a $20,000 bounty through @Hacker0x01's own bug bounty program! 😱 https://t.co/lKjmO6CEnq https://t.co/1kAQ1s2hEL
+> We just paid a $20,000 bounty through @Hacker0x01's own bug bounty program! 😱 https://hackerone.com/reports/745324 [pic.x.com/1kAQ1s2hEL]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EK4LEGTUUAAxFq2.jpg — no alt text provided by author
+
+**Links in post:** https://hackerone.com/reports/745324
 
 
 ---
@@ -15708,10 +15779,12 @@ Tags (automatic): Platform: HackerOne
 > 06:00 PM UTC
 > 11:30 PM IST
 >
-> https://t.co/rWTBZPozP2 https://t.co/YT6qzjCPZq
+> http://twitch.tv/nahamsec [pic.x.com/YT6qzjCPZq]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EKhujZFVUAANchr.jpg — no alt text provided by author
+
+**Links in post:** http://twitch.tv/nahamsec
 
 
 ---
@@ -15724,7 +15797,9 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1199413446036475905
 - Metrics (at fetch): bookmark 2, impression 0, like 96, quote 0, reply 3, retweet 15
 
-> Wow! Just had another $1337 donation for the Bug Bounty Fundraiser. Thanks to 'Shiv Patel'. Would love to see some top hackers / $1M hackers contributing to this :) https://t.co/1OYkBLnUme
+> Wow! Just had another $1337 donation for the Bug Bounty Fundraiser. Thanks to 'Shiv Patel'. Would love to see some top hackers / $1M hackers contributing to this :) https://charity.gofundme.com/o/en/campaign/the-bug-bounty-fund-raiser
+
+**Links in post:** https://charity.gofundme.com/o/en/campaign/the-bug-bounty-fund-raiser
 
 
 ---
@@ -15740,15 +15815,17 @@ Tags (automatic): RCE, Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1199378487825403904
 - Metrics (at fetch): bookmark 7, impression 0, like 89, quote 1, reply 2, retweet 14
 
-> Last Sunday I had the pleasure to interview @0xacb: another @Hacker0x01 MVH, @0xDISTURBANCE member, and also known as the "the Shopify RCE guy". We talked about winning a CTF to go to live hacking events, reverse engineering, and getting an RCE on Steam. https://t.co/Ae6v9ZDfIL https://t.co/LutGQMjbLt
+> Last Sunday I had the pleasure to interview @0xacb: another @Hacker0x01 MVH, @0xDISTURBANCE member, and also known as the "the Shopify RCE guy". We talked about winning a CTF to go to live hacking events, reverse engineering, and getting an RCE on Steam. https://youtu.be/qq-JEV4ptTw?t=7574 [pic.x.com/LutGQMjbLt]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EKUMXhcUYAQpg9H.jpg — no alt text provided by author
 
+**Links in post:** https://youtu.be/qq-JEV4ptTw?t=7574
+
 
 ---
 
-## 2019-11-24 · Post · I'm live right now and about to start hacking on @TheParanoids bug bounty program. https://t.co/J7Zp
+## 2019-11-24 · Post · I'm live right now and about to start hacking on @TheParanoids bug bounty program. http://Twitch.tv/
 
 
 ### Post — @NahamSec — 2019-11-24 18:09 UTC (2019-11-24 19:09 WAT)
@@ -15756,12 +15833,14 @@ Tags (automatic): RCE, Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1198664919803023361
 - Metrics (at fetch): bookmark 2, impression 0, like 42, quote 0, reply 0, retweet 4
 
-> I'm live right now and about to start hacking on @TheParanoids bug bounty program. https://t.co/J7ZpQDZfiv
+> I'm live right now and about to start hacking on @TheParanoids bug bounty program. http://Twitch.tv/nahamsec
+
+**Links in post:** http://Twitch.tv/nahamsec
 
 
 ---
 
-## 2019-11-23 · Post · Did some recon today during my stream and found some cool subdomains on https://t.co/ifvX7Oe1HZ usin
+## 2019-11-23 · Post · Did some recon today during my stream and found some cool subdomains on http://Yahoo.com using crtnd
 
 
 ### Post — @NahamSec — 2019-11-23 21:29 UTC (2019-11-23 22:29 WAT)
@@ -15769,9 +15848,11 @@ Tags (automatic): RCE, Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1198352841821212672
 - Metrics (at fetch): bookmark 27, impression 0, like 204, quote 1, reply 3, retweet 43
 
-> Did some recon today during my stream and found some cool subdomains on https://t.co/ifvX7Oe1HZ using crtndstry + dnsgen + massdns. Check out the results! 
+> Did some recon today during my stream and found some cool subdomains on http://Yahoo.com using crtndstry + dnsgen + massdns. Check out the results! 
 >
-> https://t.co/F2RJK07Xb5
+> https://github.com/nahamsec/recondata
+
+**Links in post:** http://Yahoo.com, https://github.com/nahamsec/recondata
 
 
 ---
@@ -15784,9 +15865,11 @@ Tags (automatic): RCE, Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1198309199039483905
 - Metrics (at fetch): bookmark 0, impression 0, like 50, quote 0, reply 1, retweet 4
 
-> Jumping on twitch in a few minutes to automate more recon stuff and work on crtndstry a bit more. https://t.co/J7ZpQDZfiv
+> Jumping on twitch in a few minutes to automate more recon stuff and work on crtndstry a bit more. http://Twitch.tv/nahamsec
 >
 > Oh and I may or may not have a swear jar on my desk now.
+
+**Links in post:** http://Twitch.tv/nahamsec
 
 
 ---
@@ -15802,21 +15885,31 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1197852225516834816
 - Metrics (at fetch): bookmark 3, impression 0, like 75, quote 0, reply 1, retweet 8
 
-> This Sunday, @erbbysam, another @hacker0x01 live hacking event MVH is joining me during my live stream to talk about hacking, scanning the entire internet for recon, and his experience at live hacking events! https://t.co/rWTBZPGbdC https://t.co/8tyWCV0iSj
+> This Sunday, @erbbysam, another @hacker0x01 live hacking event MVH is joining me during my live stream to talk about hacking, scanning the entire internet for recon, and his experience at live hacking events! http://twitch.tv/nahamsec [pic.x.com/8tyWCV0iSj]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EJ605YcUUAAU5BU.jpg — no alt text provided by author
 
+**Links in post:** http://twitch.tv/nahamsec
+
 
 ---
 
-## 2019-11-18 · Post · @_Drag0s_ @SynackRedTeam @Hacker0x01 Set up goals: 
+## 2019-11-18 · Thread · @_Drag0s_ @SynackRedTeam @Hacker0x01 I’d say stick to a routine and schedule when it comes down to h
 
 
 Tags (automatic): Platform: HackerOne
 
 
-### Post — @NahamSec — 2019-11-18 21:28 UTC (2019-11-18 22:28 WAT)
+### Post — @NahamSec — 2019-11-18 21:26 UTC (2019-11-18 22:26 WAT)
+
+- URL: https://x.com/NahamSec/status/1196540099972009984
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 2, retweet 1
+
+> @_Drag0s_ @SynackRedTeam @Hacker0x01 I’d say stick to a routine and schedule when it comes down to hacking. When I was doing (almost) full time I spent every day 5:30PM - 11:30PM on my laptop on the couch, while “watching” TV.
+
+
+### Thread part 2 — @NahamSec — 2019-11-18 21:28 UTC (2019-11-18 22:28 WAT)
 
 - URL: https://x.com/NahamSec/status/1196540677070479360
 - Metrics (at fetch): bookmark 10, impression 0, like 59, quote 1, reply 1, retweet 16
@@ -15832,22 +15925,6 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2019-11-18 · Reply · @_Drag0s_ @SynackRedTeam @Hacker0x01 I’d say stick to a routine and schedule when it comes down to h
-
-
-Tags (automatic): Platform: HackerOne
-
-
-### Post — @NahamSec — 2019-11-18 21:26 UTC (2019-11-18 22:26 WAT)
-
-- URL: https://x.com/NahamSec/status/1196540099972009984
-- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 2, retweet 1
-
-> @_Drag0s_ @SynackRedTeam @Hacker0x01 I’d say stick to a routine and schedule when it comes down to hacking. When I was doing (almost) full time I spent every day 5:30PM - 11:30PM on my laptop on the couch, while “watching” TV.
-
-
----
-
 ## 2019-11-18 · Post · Seriously! Send me some good questions besides “how to rce”, “how to get started” and “your methodol
 
 
@@ -15859,7 +15936,9 @@ Tags (automatic): RCE
 - URL: https://x.com/NahamSec/status/1196537379143766018
 - Metrics (at fetch): bookmark 2, impression 0, like 60, quote 0, reply 12, retweet 4
 
-> Seriously! Send me some good questions besides “how to rce”, “how to get started” and “your methodology step by step”. Ask me something meaningful! https://t.co/365vVizZn7
+> Seriously! Send me some good questions besides “how to rce”, “how to get started” and “your methodology step by step”. Ask me something meaningful! https://twitter.com/nahamsec/status/1195437086028906496
+
+**Links in post:** https://twitter.com/nahamsec/status/1195437086028906496
 
 **Quoted post (full text):**
 
@@ -15870,7 +15949,9 @@ Tags (automatic): RCE
     
     > I did a random QA a week ago and it helped a few hackers get pointed in the right direction. Now I want to create a QA video to answer all of your questions and I'm also looking to add a some new topics to my streams.  
     >
-    > Here's your chance to do both: https://t.co/g1Fd2v1rq8
+    > Here's your chance to do both: https://forms.gle/T9ns8oBfvEiWnEd47
+    
+    **Links in post:** https://forms.gle/T9ns8oBfvEiWnEd47
     
 
 
@@ -15909,7 +15990,9 @@ Tags (automatic): RCE
 
 > I did a random QA a week ago and it helped a few hackers get pointed in the right direction. Now I want to create a QA video to answer all of your questions and I'm also looking to add a some new topics to my streams.  
 >
-> Here's your chance to do both: https://t.co/g1Fd2v1rq8
+> Here's your chance to do both: https://forms.gle/T9ns8oBfvEiWnEd47
+
+**Links in post:** https://forms.gle/T9ns8oBfvEiWnEd47
 
 
 ---
@@ -15924,10 +16007,12 @@ Tags (automatic): RCE
 
 > I had a lot of fun interviewing @0xteknogeek last Sunday. He share his story about dropping out of college, getting a job, and how he manages life-work/bug bounty balance. I also fuzzed some cool Yahoo APIs and added some more endpoints to my list.
 >
-> https://t.co/lFzcmQoZJb https://t.co/U8ttzlz66B
+> https://youtu.be/mZJzrLLtxwk?t=7228 [pic.x.com/U8ttzlz66B]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EJJwhORUYAEp6Lt.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/mZJzrLLtxwk?t=7228
 
 
 ---
@@ -15940,9 +16025,11 @@ Tags (automatic): RCE
 - URL: https://x.com/NahamSec/status/1193163581010980866
 - Metrics (at fetch): bookmark 3, impression 0, like 65, quote 0, reply 2, retweet 4
 
-> I'm still in Los Angeles for #h213 and I won't be able to stream today.. but during my stream on Tuesday, I did a QA on hacking, recon, work, life and  bug bounty balance. Check it out here: https://t.co/bkigMAmKMC
+> I'm still in Los Angeles for #h213 and I won't be able to stream today.. but during my stream on Tuesday, I did a QA on hacking, recon, work, life and  bug bounty balance. Check it out here: https://youtu.be/72c_JvL3Lbo
 >
 > P.S.: I'll be on on Sunday at 10:00 AM PST!
+
+**Links in post:** https://youtu.be/72c_JvL3Lbo
 
 
 ---
@@ -15958,7 +16045,7 @@ Tags (automatic): RCE, Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1192811511816892423
 - Metrics (at fetch): bookmark 4, impression 0, like 90, quote 1, reply 1, retweet 11
 
-> I'm back on Twitch this Sunday to look at Yahoo more and try to create a decent wordlist based on javascript files and documentation I find while doing recon. @0xacb is going to join me to talk about being a @hacker0x01 MVH, CTFs and being the "Shopify RCE guy"! https://t.co/Gm0CHakyIR
+> I'm back on Twitch this Sunday to look at Yahoo more and try to create a decent wordlist based on javascript files and documentation I find while doing recon. @0xacb is going to join me to talk about being a @hacker0x01 MVH, CTFs and being the "Shopify RCE guy"! [pic.x.com/Gm0CHakyIR]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EI1WA-OU4AAda55.jpg — no alt text provided by author
@@ -15966,7 +16053,7 @@ Tags (automatic): RCE, Platform: HackerOne
 
 ---
 
-## 2019-11-08 · Post · Sean just casually gets the bug of the night...“in like 10 minutes”😶 https://t.co/CCxoyIZBIl
+## 2019-11-08 · Post · Sean just casually gets the bug of the night...“in like 10 minutes”😶 https://twitter.com/luketucker/
 
 
 ### Post — @NahamSec — 2019-11-08 06:36 UTC (2019-11-08 07:36 WAT)
@@ -15974,7 +16061,9 @@ Tags (automatic): RCE, Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1192692261663866881
 - Metrics (at fetch): bookmark 1, impression 0, like 55, quote 0, reply 1, retweet 0
 
-> Sean just casually gets the bug of the night...“in like 10 minutes”😶 https://t.co/CCxoyIZBIl
+> Sean just casually gets the bug of the night...“in like 10 minutes”😶 https://twitter.com/luketucker/status/1192646570249879552
+
+**Links in post:** https://twitter.com/luketucker/status/1192646570249879552
 
 **Quoted post (full text):**
 
@@ -15997,10 +16086,12 @@ Tags (automatic): RCE, Platform: HackerOne
 - URL: https://x.com/NahamSec/status/1192138362678734849
 - Metrics (at fetch): bookmark 5, impression 0, like 51, quote 0, reply 0, retweet 4
 
-> Last Sunday I had the pleasure to sit with @phwd to learn how he got started and what's helped him become successful with Facebook's bug bounty program. I also spent some time going through some Yahoo JS files and started a dedicated wordlist for them!  https://t.co/Vgdy9YgNSR https://t.co/PEwR8yzafY
+> Last Sunday I had the pleasure to sit with @phwd to learn how he got started and what's helped him become successful with Facebook's bug bounty program. I also spent some time going through some Yahoo JS files and started a dedicated wordlist for them!  https://youtu.be/7G1bxTDq2M4 [pic.x.com/PEwR8yzafY]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EItTZNoVAAAey5W.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/7G1bxTDq2M4
 
 
 ---

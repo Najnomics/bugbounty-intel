@@ -8608,7 +8608,9 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/S1r1u5_/status/1344762866881105920
 - Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 1, retweet 0
 
-> Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I worked along with awesome people and made friends, gave my first talk at BountyCon, top 10 in my favorite programs on HackerOne, and earned more than my goal. https://t.co/k2ognC7IcT
+> Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I worked along with awesome people and made friends, gave my first talk at BountyCon, top 10 in my favorite programs on HackerOne, and earned more than my goal. https://twitter.com/S1r1u5_/status/1344654506638786562
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1344654506638786562
 
 **Quoted post (full text):**
 
@@ -8649,7 +8651,9 @@ Tags (automatic): XSS
 
 > This is an awesome bug.
 >
-> iirc, I had made an XSS challenge similar to this and its based on a bug I found on private program. https://t.co/WMioPG6y1O https://t.co/mPhMVuTFmM
+> iirc, I had made an XSS challenge similar to this and its based on a bug I found on private program. https://x.com/S1r1u5_/status/1298629048961130496?s=19 https://twitter.com/kl_sree/status/1343198834529202176
+
+**Links in post:** https://x.com/S1r1u5_/status/1298629048961130496?s=19, https://twitter.com/kl_sree/status/1343198834529202176
 
 **Quoted post (full text):**
 
@@ -8661,7 +8665,9 @@ Tags (automatic): XSS
     > Writeup : Hijacking Google Docs Screenshot @GoogleVRP
     >
     > Thanks to @filedescriptor &amp; @S1r1u5_
-    > https://t.co/YldyDt7Pzm
+    > https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/
+    
+    **Links in post:** https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/
     
 
 
@@ -8682,9 +8688,11 @@ Tags (automatic): RCE
 >
 > "Cookie Tossing to RCE on Google Cloud JupyterLab" 
 >
-> https://t.co/5fgB08vfXt
+> https://blog.s1r1us.ninja/bug-bounty/cookie-tossing-to-rce-on-google-cloud-jupyter-notebooks
 >
-> https://t.co/woHphLU7kC
+> https://x.com/filedescriptor/status/1341702530317709314?s=20
+
+**Links in post:** https://blog.s1r1us.ninja/bug-bounty/cookie-tossing-to-rce-on-google-cloud-jupyter-notebooks, https://x.com/filedescriptor/status/1341702530317709314?s=20
 
 **Quoted post (full text):**
 
@@ -8695,7 +8703,9 @@ Tags (automatic): RCE
     
     > Find an XSS on an out-of-scope/sandboxed domain? Check how Cookie Tossing helps demonstrate the impact in this new @0xReconless video! Featuring @S1r1u5_'s bug on Google AI Hub where he abused a hidden feature in Tornado Web Server on JupyterLab.
     >
-    > https://t.co/eUrnFRf01n
+    > https://www.youtube.com/watch?v=tl6JCLAj5os
+    
+    **Links in post:** https://www.youtube.com/watch?v=tl6JCLAj5os
     
 
 
@@ -8715,7 +8725,9 @@ Tags (automatic): XSS
 > hxpctf is fun, I found an XSS with interaction for hackme(hackmd).
 > Apparently, I found an issue in lightbox and it turns out to be an 0day(maybe).
 >
-> https://t.co/xXSIW97609
+> https://gist.github.com/msrkp/636099797377115e8c8492faec8cebd7
+
+**Links in post:** https://gist.github.com/msrkp/636099797377115e8c8492faec8cebd7
 
 
 ---

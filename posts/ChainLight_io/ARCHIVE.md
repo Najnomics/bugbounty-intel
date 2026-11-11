@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1010
-- Conversations/threads: 534
+- Posts in this file: 1035
+- Conversations/threads: 543
 - Oldest post captured: 2022-11-05
 - Newest post captured: 2025-04-21
 
@@ -21279,6 +21279,612 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 > Follow us 👉 @chainlight_io
 >
 > #Crypto #Security #ChainLightWeek
+
+
+---
+
+## 2023-06-22 · Post · 🚨 ChainLight Patch Thursday, the fourth week of June!
+
+
+### Post — @ChainLight_io — 2023-06-22 13:46 UTC (2023-06-22 14:46 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1671877227414454272
+- Metrics (at fetch): not returned
+
+> 🚨 ChainLight Patch Thursday, the fourth week of June!
+>
+> The content of this Patch Thursday is about the disregard of slippage in StellaSwap’s zapIn function!
+>
+> #StellaSwap is a DEX launched on #Moonbeam, currently holding a TVL of $8.13M. Please note that the bug we reported (MEV) [pic.x.com/0H2hbSz5hf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FzOyysRaYAMXIf6.jpg — no alt text provided by author
+
+
+---
+
+## 2023-06-22 · Post · 🚨 ChainLight Patch Thursday, the fourth week of June!
+
+
+### Post — @ChainLight_io — 2023-06-22 13:45 UTC (2023-06-22 14:45 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1671877089828675587
+- Metrics (at fetch): not returned
+
+> 🚨 ChainLight Patch Thursday, the fourth week of June!
+>
+> The content of this Patch Thursday is about the disregard of slippage in @StellaSwap’s zapIn function!
+>
+> #StellaSwap is a DEX launched on #Moonbeam, currently holding a TVL of $8.13M. Please note that the bug we reported [pic.x.com/egcuGKfGIp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FzOyysRaYAMXIf6.jpg — no alt text provided by author
+
+
+---
+
+## 2023-06-20 · Post · 🎉✨ We are absolutely delighted to announce that we have audited @TerraSwap_io! Wishing them continue
+
+
+### Post — @ChainLight_io — 2023-06-20 13:48 UTC (2023-06-20 14:48 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1671153002550542337
+- Metrics (at fetch): not returned
+
+> 🎉✨ We are absolutely delighted to announce that we have audited @TerraSwap_io! Wishing them continued success in the future! https://twitter.com/terraswap_io/status/1671140806223343617
+
+**Links in post:** https://twitter.com/terraswap_io/status/1671140806223343617
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1392644856753709057 — 2023-06-20 12:59 UTC (2023-06-20 13:59 WAT)
+    
+    - URL: https://x.com/1392644856753709057/status/1671140806223343617
+    - Metrics (at fetch): not returned
+    
+    > 2/
+    >
+    > The contracts have been fully audited by @chainlight_io  
+    > The feature updates below resolve all issues identified in the audit report: 
+    >
+    > https://terraswap.io/wp-content/uploads/2023/06/terraswap-classic-20230620.pdf
+    
+    **Links in post:** https://terraswap.io/wp-content/uploads/2023/06/terraswap-classic-20230620.pdf
+    
+
+
+---
+
+## 2023-06-19 · Thread · 📰 ChainLight Weekly, the fourth week of June! 🌐
+
+
+### Post — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814025524072449
+- Metrics (at fetch): not returned
+
+> 📰 ChainLight Weekly, the fourth week of June! 🌐
+> 👇 Check out the summary &amp; details on our thread 👀
+>
+> 1️⃣ #ZachXBT Has Been Sued
+> 2️⃣ Crisis in the Korean #CeFi
+> 3️⃣ #DoKwon Sentenced
+> 4️⃣ #Binance Can Continue Serving US Users
+> 5️⃣ #Prometheum Appeared at Hearing
+> 6️⃣ #MidasCapital Hacked [pic.x.com/B9wArfb85o]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fy_sfqlaIAEwZ4z.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814029881958401
+- Metrics (at fetch): not returned
+
+> 1️⃣ @ZachXBT has been sued by Taiwanese singer Jeffrey Huang. ZachXBT reached out to the community, asking for support in uncovering the truth. Around 80K in #donations has been collected in his wallet. Let's hope the truth prevails! 😮 https://twitter.com/zachxbt/status/1669783717236342785
+
+**Links in post:** https://twitter.com/zachxbt/status/1669783717236342785
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3012852462 — 2023-06-16 19:07 UTC (2023-06-16 20:07 WAT)
+    
+    - URL: https://x.com/3012852462/status/1669783717236342785
+    - Metrics (at fetch): not returned
+    
+    > 1/ It’s unfortunate I have to make this thread but I am being sued by MachiBigBrother for an article I published in June 2022.
+    >
+    > Today Machi filed the defamation lawsuit. The lawsuit is baseless and an attempt to chill free speech. I intend to fight back &amp; defend free speech. [pic.x.com/anVY6zXU5a]
+    
+    **Media:**
+    - media `3_1669783713411129344` (details not returned by the API)
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814033371619329
+- Metrics (at fetch): not returned
+
+> 2️⃣ Crisis hits Korean #CeFi firms! #HaruInvest and #Delio are facing a tough situation. Due to the mismanagement of one of the companies they entrusted their funds with, the assets of Haru Invest and Delio's users are currently frozen. 😱 Let's hope they find a solution soon! https://twitter.com/koreatimescokr/status/1669766796767887364
+
+**Links in post:** https://twitter.com/koreatimescokr/status/1669766796767887364
+
+**Quoted post (full text):**
+
+    #### Quoted post — @552548889 — 2023-06-16 18:00 UTC (2023-06-16 19:00 WAT)
+    
+    - URL: https://x.com/552548889/status/1669766796767887364
+    - Metrics (at fetch): not returned
+    
+    > #Crypto yield platforms Haru #Invest, Delio face class-action lawsuits
+    >
+    > https://www.koreatimes.co.kr/www/nation/2023/06/113_353102.html
+    
+    **Links in post:** https://www.koreatimes.co.kr/www/nation/2023/06/113_353102.html
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814036810924032
+- Metrics (at fetch): not returned
+
+> 3️⃣ Oops! #DoKwon sentenced to 4 months in prison in Montenegro for passport forgery. He claims he had no idea it was a fake and is now pleading for leniency for the companion who was with him. 🙏 https://twitter.com/coingecko/status/1670803164855934980
+
+**Links in post:** https://twitter.com/coingecko/status/1670803164855934980
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2412652615 — 2023-06-19 14:38 UTC (2023-06-19 15:38 WAT)
+    
+    - URL: https://x.com/2412652615/status/1670803164855934980
+    - Metrics (at fetch): not returned
+    
+    > JUST IN: Do Kwon has been sentenced to 4 months in prison in Montenegro on charges of using a false passport.
+    >
+    > 📰 http://gcko.io/news [pic.x.com/gM2ZAaHxai]
+    
+    **Media:**
+    - media `3_1670802676739629056` (details not returned by the API)
+    
+    **Links in post:** http://gcko.io/news
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814039872790528
+- Metrics (at fetch): not returned
+
+> 4️⃣ Great news for @Binance! Despite ongoing legal issues, they can now continue serving their US users. Over the weekend, #Binance and the #SEC agreed not to freeze US users' assets using the platform. 👍 Thank goodness to users! #BinanceUS https://twitter.com/CoinDesk/status/1669936457547481096
+
+**Links in post:** https://twitter.com/CoinDesk/status/1669936457547481096
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1333467482 — 2023-06-17 05:14 UTC (2023-06-17 06:14 WAT)
+    
+    - URL: https://x.com/1333467482/status/1669936457547481096
+    - Metrics (at fetch): not returned
+    
+    > The @SECGov, @binance and @binanceUS have announced a proposed agreement to ensure that U.S. customer funds can only be accessed by the U.S.-based crypto trading platform. The agreement needs judicial sign-off.
+    >
+    > @nikhileshde reports
+    >
+    > https://trib.al/365zTpT
+    
+    **Links in post:** https://trib.al/365zTpT
+    
+
+
+### Thread part 6 — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814042775252992
+- Metrics (at fetch): not returned
+
+> 5️⃣ #Prometheum appeared at a hearing held by the US House Financial Services Committee and expressed support for SEC regulations. Back in May, Prometheum obtained approval as a digital asset securities broker-dealer from the #SEC and #FINRA. 📈🏛️ https://twitter.com/PrometheumInc/status/1669025167299813391
+
+**Links in post:** https://twitter.com/PrometheumInc/status/1669025167299813391
+
+**Quoted post (full text):**
+
+    #### Quoted post — @931622296871211008 — 2023-06-14 16:53 UTC (2023-06-14 17:53 WAT)
+    
+    - URL: https://x.com/931622296871211008/status/1669025167299813391
+    - Metrics (at fetch): not returned
+    
+    > Prometheum's stance is clear: There is a path forward for digital assets in the U.S. through the current regulatory frameworks set up by federal securities laws. Hear Aaron Kaplan's testimony in front of the House Financial Committee here: https://bit.ly/3P4GZfT
+    >
+    > #digitalassets
+    
+    **Links in post:** https://bit.ly/3P4GZfT
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814046004875264
+- Metrics (at fetch): not returned
+
+> 6️⃣ @MidasCapitalxyz falls victim to hacking! Just like #HundredFinance, Midas Capital was hacked, with the root cause being the dreaded Round-down vulnerability. 😱 Stay vigilant, folks, and remember to secure your digital assets! #MidasCapital https://twitter.com/peckshield/status/1670148905810403330
+
+**Links in post:** https://twitter.com/peckshield/status/1670148905810403330
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2023-06-17 19:18 UTC (2023-06-17 20:18 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1670148905810403330
+    - Metrics (at fetch): not returned
+    
+    > The loss of today's @MidasCapitalxyz hack is &gt;$600K.
+    >
+    > The root cause is due to the rounding issue in its lending protocol (forked from the popular @compoundfinance v2 code base ). The same issue has been exploited earlier in @HundredFinance : https://x.com/peckshield/status/1647307128267476992 [pic.x.com/sKnRGmBuAF]
+    
+    **Media:**
+    - media `3_1670147911278010373` (details not returned by the API)
+    
+    **Links in post:** https://x.com/peckshield/status/1647307128267476992
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @950915985422221312 — 2023-04-15 18:33 UTC (2023-04-15 19:33 WAT)
+        
+        - URL: https://x.com/950915985422221312/status/1647307128267476992
+        - Metrics (at fetch): not returned
+        
+        > The loss of today's @HundredFinance hack is ~$7m.
+        >
+        > The root cause appears the attacker donates 200 WBTC to inflate hWBTC's exchange rate so that even a tiny amount (2 wei) of  hWBTC can basically drain current lending pools.
+        >
+        > Here comes the hack tx: https://optimistic.etherscan.io/tx/0x6e9ebcdebbabda04fa9f2e3bc21ea8b2e4fb4bf4f4670cb8483e2f0b2604f451 [pic.x.com/QbsbZBfemJ] https://twitter.com/HundredFinance/status/1647247792589471745
+        
+        **Media:**
+        - media `3_1647307106385788928` (details not returned by the API)
+        
+        **Links in post:** https://optimistic.etherscan.io/tx/0x6e9ebcdebbabda04fa9f2e3bc21ea8b2e4fb4bf4f4670cb8483e2f0b2604f451, https://twitter.com/HundredFinance/status/1647247792589471745
+        
+        **Quoted post** 1647247792589471745: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-06-19 15:21 UTC (2023-06-19 16:21 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1670814049683251201
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉 @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-06-15 · Post · Get ready to be amazed! 🤩 A remarkable project that harnesses the power of RelicProtocol has launch
+
+
+Tags (automatic): ZK
+
+
+### Post — @ChainLight_io — 2023-06-15 05:11 UTC (2023-06-15 06:11 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1669210894352658434
+- Metrics (at fetch): not returned
+
+> Get ready to be amazed! 🤩 A remarkable project that harnesses the power of #RelicProtocol has launched! 🚀
+>
+> 🔥 We're happy to see our product Relic enabling people to bring their new ideas on chain.
+>
+> 🙏 Thank you, @0xWiz_!
+>
+> #NounsDao #ZK https://twitter.com/0xWiz_/status/1669001067487428611
+
+**Links in post:** https://twitter.com/0xWiz_/status/1669001067487428611
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3158128251 — 2023-06-14 15:17 UTC (2023-06-14 16:17 WAT)
+    
+    - URL: https://x.com/3158128251/status/1669001067487428611
+    - Metrics (at fetch): not returned
+    
+    > zk infra like @RelicProtocol unlock an entirely new design space for what’s possible onchain https://twitter.com/TM0B1L/status/1668999301895278592
+    
+    **Links in post:** https://twitter.com/TM0B1L/status/1668999301895278592
+    
+    **Quoted post** 1668999301895278592: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-06-14 · Post · 🚀 Whoa! Our product @RelicProtocol was introduced by @AlphaLab_Cap! LFG 🚀 https://twitter.com/calad
+
+
+### Post — @ChainLight_io — 2023-06-14 05:41 UTC (2023-06-14 06:41 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668856276816924673
+- Metrics (at fetch): not returned
+
+> 🚀 Whoa! Our product @RelicProtocol was introduced by @AlphaLab_Cap! #LFG 🚀 https://twitter.com/caladanxyz/status/1666287755465474050
+
+**Links in post:** https://twitter.com/caladanxyz/status/1666287755465474050
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1432266737731334146 — 2023-06-07 03:35 UTC (2023-06-07 04:35 WAT)
+    
+    - URL: https://x.com/1432266737731334146/status/1666287755465474050
+    - Metrics (at fetch): not returned
+    
+    > 4/ Specialist - @RelicProtocol, @MidpointLabs, @fluxprotocol
+    >
+    > Users seeking in-depth knowledge in a particular area, such as Ethereum historical data, may opt to engage the services of a specialised oracle in addition to or instead of a generalist oracle.
+    
+
+
+---
+
+## 2023-06-12 · Thread · 📰 ChainLight Weekly, the third week of June! 🌐
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241838464196609
+- Metrics (at fetch): not returned
+
+> 📰 ChainLight Weekly, the third week of June! 🌐
+>
+> 👇 Check out the summary &amp; details on our thread 👀
+>
+> 1️⃣ - 3️⃣ 🔫💥 #SEC takes aim at #CEXs! - #BinanceUS, #Coinbase, and #Robinhood
+> 4️⃣ #Kraken launches NFT marketplace
+> 5️⃣ #TrueUSD pauses issuance
+> 6️⃣ Bug trouble in #Arbitrum [pic.x.com/tM2o3bNtop]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FybJGfZaAAYhEWp.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241843077922817
+- Metrics (at fetch): not returned
+
+> 1️⃣ 🚨 Binance US faced a lawsuit from SEC
+> Oops! @BinanceUS got sued by the SEC, leading to the delisting of "securities" coins. Oh, and they also put OTC trading on hold. Hold on tight, folks! #BinanceUS https://twitter.com/BinanceUS/status/1666996908651323393
+
+**Links in post:** https://twitter.com/BinanceUS/status/1666996908651323393
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1115465940831891457 — 2023-06-09 02:33 UTC (2023-06-09 03:33 WAT)
+    
+    - URL: https://x.com/1115465940831891457/status/1666996908651323393
+    - Metrics (at fetch): not returned
+    
+    > The SEC has taken to using extremely aggressive and intimidating tactics in its pursuit of an ideological campaign against the American digital asset industry. http://Binance.US and our business partners have not been spared in the use of these tactics, which has created [pic.x.com/rlIe6swIoY]
+    
+    **Media:**
+    - media `3_1666996819367264260` (details not returned by the API)
+    
+    **Links in post:** http://Binance.US
+    
+
+
+### Thread part 3 — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241846114619392
+- Metrics (at fetch): not returned
+
+> 2️⃣ 💥 Coinbase also got sued by the SEC
+> @Coinbase is also in the SEC's firing line, but they're putting up a fight. 💪 Also, Coinbase does not delist coins that are mentioned by SEC. 😮 #Coinbase #StandWithCrypto https://twitter.com/brian_armstrong/status/1666129111025324035
+
+**Links in post:** https://twitter.com/brian_armstrong/status/1666129111025324035
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14379660 — 2023-06-06 17:05 UTC (2023-06-06 18:05 WAT)
+    
+    - URL: https://x.com/14379660/status/1666129111025324035
+    - Metrics (at fetch): not returned
+    
+    > Regarding the SEC complaint against us today, we're proud to represent the industry in court to finally get some clarity around crypto rules.
+    >
+    > Remember:
+    > 1. The SEC reviewed our business and allowed us to become a public company in 2021.
+    > 2. There is no path to "come in and
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241849256144897
+- Metrics (at fetch): not returned
+
+> 3️⃣ 👋 Robinhood has delisted security coins
+> @RobinhoodApp has delisted coins ($SOL, $ADA, $MATIC) classified as securities by the SEC. A total of 19 coins have been classified as securities, while Solana, Cardano, and Polygon are disputing the SEC's classification. #RobinHood https://twitter.com/RobinhoodApp/status/1667236704506327040
+
+**Links in post:** https://twitter.com/RobinhoodApp/status/1667236704506327040
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1265037073 — 2023-06-09 18:26 UTC (2023-06-09 19:26 WAT)
+    
+    - URL: https://x.com/1265037073/status/1667236704506327040
+    - Metrics (at fetch): not returned
+    
+    > Earlier this week, the SEC sued crypto companies Binance and Coinbase. The SEC has alleged that a number of cryptocurrencies trading on those platforms are unregistered securities, including three that are currently supported on Robinhood Crypto. (1/4)
+    
+
+
+### Thread part 5 — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241852213100544
+- Metrics (at fetch): not returned
+
+> 4️⃣  🎉 Congrats! #Kraken launches #NFT marketplace! 🚀
+> @krakenfx enters the NFT game as a latecomer, but it's worth the wait! The beta version is live, supporting NFT trading on #Ethereum and #Solana chains. And guess what? Gas fees are on the house! Get ready for an NFT frenzy! https://twitter.com/KrakenNFT/status/1666821582004846593
+
+**Links in post:** https://twitter.com/KrakenNFT/status/1666821582004846593
+
+**Quoted post** 1666821582004846593: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 6 — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241855727951872
+- Metrics (at fetch): not returned
+
+> 5️⃣ 🛑 #TrueUSD pauses issuance! 😮
+> TrueUSD minting via Prime Trust has stopped issuing #TUSD. 😱 After the announcement, leaving it de-pegged for now. #Stablecoin https://twitter.com/tusdio/status/1667386940948369408
+
+**Links in post:** https://twitter.com/tusdio/status/1667386940948369408
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1318636587203350530 — 2023-06-10 04:23 UTC (2023-06-10 05:23 WAT)
+    
+    - URL: https://x.com/1318636587203350530/status/1667386940948369408
+    - Metrics (at fetch): not returned
+    
+    > Announcement:
+    >
+    > TUSD mints via Prime Trust are paused for further notification.
+    >
+    > Thanks for your understanding and we are sorry for any inconvenience. Please contact support@trueusd.com for any further questions.
+    
+
+
+### Thread part 7 — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241859003686914
+- Metrics (at fetch): not returned
+
+> 6️⃣ 🐞 Bug alert on @arbitrum!
+> Last week, a glitch in Arbitrum's Batch Poster caused transaction reverts for batch. The Gas Refunder contract failed to replenish #ETH balances in sequencer wallets. Arbitrum patched this issue! More details 👇 #Arbitrum https://twitter.com/ArbitrumDevs/status/1667333516441403393
+
+**Links in post:** https://twitter.com/ArbitrumDevs/status/1667333516441403393
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1534908700892307456 — 2023-06-10 00:51 UTC (2023-06-10 01:51 WAT)
+    
+    - URL: https://x.com/1534908700892307456/status/1667333516441403393
+    - Metrics (at fetch): not returned
+    
+    > We've published a post-mortem doc explaining what transpired to disrupt the Sequencer batch posting.
+    >
+    > Important to note:
+    > - The Sequencer did not go down or run out of funds
+    > - The Sequencer continued accepting user tx
+    > - No user funds were at risk
+    >
+    > https://arbitrumfoundation.notion.site/arbitrumfoundation/June-7-2023-Batch-Poster-Outage-d49c50df42864c7b83521fd7aa5897f2 https://twitter.com/ArbitrumDevs/status/1666549893001887744
+    
+    **Links in post:** https://arbitrumfoundation.notion.site/arbitrumfoundation/June-7-2023-Batch-Poster-Outage-d49c50df42864c7b83521fd7aa5897f2, https://twitter.com/ArbitrumDevs/status/1666549893001887744
+    
+    **Quoted post** 1666549893001887744: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 8 — @ChainLight_io — 2023-06-12 13:00 UTC (2023-06-12 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1668241862380097536
+- Metrics (at fetch): not returned
+
+> 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused Web3 news! 🚀
+>
+> Follow us 👉 @chainlight_io
+>
+> #Crypto #Security #ChainLightWeekly
+
+
+---
+
+## 2023-06-08 · Thread · 🚨 ChainLight Patch Thursday, the second week of June!
+
+
+### Post — @ChainLight_io — 2023-06-08 16:10 UTC (2023-06-08 17:10 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1666840047453356033
+- Metrics (at fetch): not returned
+
+> 🚨 ChainLight Patch Thursday, the second week of June!
+>
+> 🧐 We researched the MEV-Boost and PBS vulnerability that occurred last April and discovered three vulnerabilities during the research.
+>
+> 🥲 However, due to an overwhelming workload, we spent too much time writing the report.
+
+
+### Thread part 2 — @ChainLight_io — 2023-06-08 16:12 UTC (2023-06-08 17:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1666840623897513984
+- Metrics (at fetch): not returned
+
+> 🧑🏻‍🎨 Designed by @0xAidar (Product Designer)
+>
+> 👨🏻‍💻 Author: @junorouse (Lead of ChainLight), @CH1M4C (Security Assessment Team), @hkt0mat0 (Security Assessment Team), @waynekimbtc (Technical Writer)
+
+
+### Thread part 3 — @ChainLight_io — 2023-06-08 16:14 UTC (2023-06-08 17:14 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1666841119886561282
+- Metrics (at fetch): not returned
+
+> https://medium.com/chainlight/pbs-reward-design-vulnerability-and-mev-boost-equivocation-attack-research-16a1d513d7bc
+
+**Links in post:** https://medium.com/chainlight/pbs-reward-design-vulnerability-and-mev-boost-equivocation-attack-research-16a1d513d7bc
+
+
+---
+
+## 2023-06-08 · Post · 🚀 We are happy to announce a partnership with DeFiHackLabs (@1nf0s3cpt)! Now, You can also find our 
+
+
+### Post — @ChainLight_io — 2023-06-08 08:25 UTC (2023-06-08 09:25 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1666723004028702720
+- Metrics (at fetch): not returned
+
+> 🚀 We are happy to announce a partnership with DeFiHackLabs (@1nf0s3cpt)! Now, You can also find our Patch Thursday on DeFiHackLabs's Substack and Discord! 👉 https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports, https://discord.gg/Fjyngakf3h
+>
+> DeFiHackLabs diligently creates Proof of Concepts (PoCs) for the https://twitter.com/1nf0s3cpt/status/1666717723043430404
+
+**Links in post:** https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports, https://discord.gg/Fjyngakf3h, https://twitter.com/1nf0s3cpt/status/1666717723043430404
+
+**Quoted post (full text):**
+
+    #### Quoted post — @219517617 — 2023-06-08 08:04 UTC (2023-06-08 09:04 WAT)
+    
+    - URL: https://x.com/219517617/status/1666717723043430404
+    - Metrics (at fetch): not returned
+    
+    > 🔥We are thrilled to announce that DeFiHackLabs partners with @chainlight_io  
+    >
+    > 👉Check our new series: ChainLight Patch Thursday!
+    > https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports
+    >
+    > #web3 #buildtogether
+    
+    **Links in post:** https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports
+    
 
 
 ---

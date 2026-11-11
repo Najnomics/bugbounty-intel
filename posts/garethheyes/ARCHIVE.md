@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 483
-- Conversations/threads: 471
-- Oldest post captured: 2009-03-29
+- Posts in this file: 515
+- Conversations/threads: 503
+- Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
 
 
@@ -3243,6 +3243,22 @@ Tags (automatic): XSS
 
 ---
 
+## 2021-01-15 · Post · I had trouble logging on various services on my iPhone but the problem went away when I reset my net
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2021-01-15 20:37 UTC (2021-01-15 21:37 WAT)
+
+- URL: https://x.com/garethheyes/status/1350180217558597632
+- Metrics (at fetch): not returned
+
+> I had trouble logging on various services on my iPhone but the problem went away when I reset my network settings. It was because I had a polyglot XSS payload as my phone name 😀
+
+
+---
+
 ## 2020-12-15 · Post · Fixed dark mode
 
 
@@ -3255,7 +3271,9 @@ Tags (automatic): XSS
 > Added substring tag
 > Added report bug/feature menu
 > Added monspaced font to input/output/hex
-> Fixed AES decryption typo/bug https://t.co/SE4VtmaOBv
+> Fixed AES decryption typo/bug https://twitter.com/BApp_Store/status/1338868023428591616
+
+**Links in post:** https://twitter.com/BApp_Store/status/1338868023428591616
 
 **Quoted post (full text):**
 
@@ -3266,7 +3284,9 @@ Tags (automatic): XSS
     
     > Updated: Hackvertor
     >
-    > https://t.co/d2YhY2dfs6
+    > https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
+    
+    **Links in post:** https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100
     
 
 
@@ -6180,6 +6200,87 @@ Tags (automatic): XSS
 
 ---
 
+## 2011-08-16 · Post · Little known Safari xss vector &lt;embed code=//businessinfo.co.uk/labs/xss/xss.swf allowScriptAcces
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2011-08-16 15:37 UTC (2011-08-16 16:37 WAT)
+
+- URL: https://x.com/garethheyes/status/103490487561887744
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Little known Safari xss vector &lt;embed code=//businessinfo.co.uk/labs/xss/xss.swf allowScriptAccess=always&gt; for your viewing pleasure
+
+
+---
+
+## 2011-08-03 · Post · Pro tip: Journalists do fact checking (your job) http://bbc.in/n3TZhg instead of blind publishing
+
+
+### Post — @garethheyes — 2011-08-03 15:19 UTC (2011-08-03 16:19 WAT)
+
+- URL: https://x.com/garethheyes/status/98775021677322240
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Pro tip: Journalists do fact checking (your job) http://bbc.in/n3TZhg instead of blind publishing
+
+
+---
+
+## 2011-07-25 · Post · .@internot_ exploit abused the semicolon insertion to change the syntax when rewritten allowing inva
+
+
+### Post — @garethheyes — 2011-07-25 10:21 UTC (2011-07-25 11:21 WAT)
+
+- URL: https://x.com/garethheyes/status/95438450177748992
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> .@internot_ exploit abused the semicolon insertion to change the syntax when rewritten allowing invalid syntax to be passed inside a comment
+
+
+---
+
+## 2011-06-30 · Post · Pro tip: Dev tools is available in the IE10 preview with F12
+
+
+### Post — @garethheyes — 2011-06-30 15:00 UTC (2011-06-30 16:00 WAT)
+
+- URL: https://x.com/garethheyes/status/86449141072400384
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 2
+
+> Pro tip: Dev tools is available in the IE10 preview with F12
+
+
+---
+
+## 2011-06-15 · Post · Oh great after extensive detective work the bug is bogus.
+
+
+### Post — @garethheyes — 2011-06-15 15:05 UTC (2011-06-15 16:05 WAT)
+
+- URL: https://x.com/garethheyes/status/81014595376001024
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Oh great after extensive detective work the bug is bogus.
+
+
+---
+
+## 2011-06-14 · Post · Doing some detective work on a bug, this is the boring part.
+
+
+### Post — @garethheyes — 2011-06-14 13:53 UTC (2011-06-14 14:53 WAT)
+
+- URL: https://x.com/garethheyes/status/80633984555560960
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Doing some detective work on a bug, this is the boring part.
+
+
+---
+
 ## 2011-05-16 · Reply · @ma1 Why is the XSS protection disabled when scripts are disabled? XSS is more than JS cc @mckt_
 
 
@@ -8083,3 +8184,382 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
 
 > If I hear cloud one more time grrrrrr nearly as bad as y2k bug
+
+
+---
+
+## 2009-03-27 · Post · New version of XSS Rays released with lots of bug fixes and improvements
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-03-27 14:43 UTC (2009-03-27 15:43 WAT)
+
+- URL: https://x.com/garethheyes/status/1401240128
+- Metrics (at fetch): not returned
+
+> New version of XSS Rays released with lots of bug fixes and improvements
+
+
+---
+
+## 2009-03-25 · Post · My XSS scanner is going to be released today :)
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-03-25 07:56 UTC (2009-03-25 08:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1386836144
+- Metrics (at fetch): not returned
+
+> My XSS scanner is going to be released today :)
+
+
+---
+
+## 2009-03-22 · Post · Nils rules. Charlie Miller sux is a media junkie, how on earth does the same person get to exploit s
+
+
+### Post — @garethheyes — 2009-03-22 00:15 UTC (2009-03-22 01:15 WAT)
+
+- URL: https://x.com/garethheyes/status/1368234966
+- Metrics (at fetch): not returned
+
+> Nils rules. Charlie Miller sux is a media junkie, how on earth does the same person get to exploit safari first. hmmmmmm.I repeat Nils rules
+
+
+---
+
+## 2009-03-13 · Post · I'm gonna watch that bbc click doc despite the fact that the "security" company conducting the exper
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-03-13 17:24 UTC (2009-03-13 18:24 WAT)
+
+- URL: https://x.com/garethheyes/status/1322799783
+- Metrics (at fetch): not returned
+
+> I'm gonna watch that bbc click doc despite the fact that the "security" company conducting the experiment has XSS holes on it's web site
+
+
+---
+
+## 2009-03-13 · Post · Why do we need video and audio tags anyway? I know for XSS that's the only possible reason :D
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-03-13 15:36 UTC (2009-03-13 16:36 WAT)
+
+- URL: https://x.com/garethheyes/status/1322228385
+- Metrics (at fetch): not returned
+
+> Why do we need video and audio tags anyway? I know for XSS that's the only possible reason :D
+
+
+---
+
+## 2009-03-13 · Post · HTML5 XSS in Firefox beta 3.1 :D http://tinyurl.com/d3a47d http://tinyurl.com/avknxu
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-03-13 14:50 UTC (2009-03-13 15:50 WAT)
+
+- URL: https://x.com/garethheyes/status/1321988834
+- Metrics (at fetch): not returned
+
+> HTML5 XSS in Firefox beta 3.1 :D http://tinyurl.com/d3a47d http://tinyurl.com/avknxu
+
+
+---
+
+## 2009-03-08 · Post · HTML5 XSS oh yeah :D
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-03-08 19:45 UTC (2009-03-08 20:45 WAT)
+
+- URL: https://x.com/garethheyes/status/1297353747
+- Metrics (at fetch): not returned
+
+> HTML5 XSS oh yeah :D
+
+
+---
+
+## 2009-03-02 · Post · Missus watching soaps, so 30 mins to find a XSS in phpids. Can I do it?
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-03-02 22:37 UTC (2009-03-02 23:37 WAT)
+
+- URL: https://x.com/garethheyes/status/1271200658
+- Metrics (at fetch): not returned
+
+> Missus watching soaps, so 30 mins to find a XSS in phpids. Can I do it?
+
+
+---
+
+## 2009-02-23 · Post · Totally awesome XSS:- http://tinyurl.com/cxumtv
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-02-23 14:42 UTC (2009-02-23 15:42 WAT)
+
+- URL: https://x.com/garethheyes/status/1240958915
+- Metrics (at fetch): not returned
+
+> Totally awesome XSS:- http://tinyurl.com/cxumtv
+
+
+---
+
+## 2009-02-20 · Post · I'm ill again :( couldn't sleep last night so I stayed up till 3am hacking phpids. Lets just say I'm
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-02-20 13:35 UTC (2009-02-20 14:35 WAT)
+
+- URL: https://x.com/garethheyes/status/1230482327
+- Metrics (at fetch): not returned
+
+> I'm ill again :( couldn't sleep last night so I stayed up till 3am hacking phpids. Lets just say I'm 5 impact away from a real xss :D
+
+
+---
+
+## 2009-02-13 · Post · whoo hoo went to the pub. Long time especially when you have kids. Ste is next I recon. Ah well look
+
+
+### Post — @garethheyes — 2009-02-13 22:53 UTC (2009-02-13 23:53 WAT)
+
+- URL: https://x.com/garethheyes/status/1208137195
+- Metrics (at fetch): not returned
+
+> whoo hoo went to the pub. Long time especially when you have kids. Ste is next I recon. Ah well lookin foward to the stag do
+
+
+---
+
+## 2009-02-06 · Post · Always use open before onreadystatechange, remember IE7.05 bug
+
+
+### Post — @garethheyes — 2009-02-06 16:09 UTC (2009-02-06 17:09 WAT)
+
+- URL: https://x.com/garethheyes/status/1183564708
+- Metrics (at fetch): not returned
+
+> Always use open before onreadystatechange, remember IE7.05 bug
+
+
+---
+
+## 2009-01-30 · Post · Oh yes I found a workaround for the dynamic iframe name/onload bug whoo hoo :)
+
+
+### Post — @garethheyes — 2009-01-30 15:10 UTC (2009-01-30 16:10 WAT)
+
+- URL: https://x.com/garethheyes/status/1161833807
+- Metrics (at fetch): not returned
+
+> Oh yes I found a workaround for the dynamic iframe name/onload bug whoo hoo :)
+
+
+---
+
+## 2009-01-16 · Post · Must fix auto decoder bug in Hackvertor malformed entities don't work, posting it here so I don't fo
+
+
+### Post — @garethheyes — 2009-01-16 10:48 UTC (2009-01-16 11:48 WAT)
+
+- URL: https://x.com/garethheyes/status/1123410840
+- Metrics (at fetch): not returned
+
+> Must fix auto decoder bug in Hackvertor malformed entities don't work, posting it here so I don't forget.
+
+
+---
+
+## 2009-01-15 · Post · I really should learn to write FF extensions,it would make my XSS scanner much better and I wouldn't
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-01-15 14:53 UTC (2009-01-15 15:53 WAT)
+
+- URL: https://x.com/garethheyes/status/1121101281
+- Metrics (at fetch): not returned
+
+> I really should learn to write FF extensions,it would make my XSS scanner much better and I wouldn't have to use SOP hacks for bookmarklets
+
+
+---
+
+## 2009-01-10 · Post · Finally got round SOP for my js XSS scanner whoo hoo, I was gonna write a simple server to log but i
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-01-10 19:58 UTC (2009-01-10 20:58 WAT)
+
+- URL: https://x.com/garethheyes/status/1109583234
+- Metrics (at fetch): not returned
+
+> Finally got round SOP for my js XSS scanner whoo hoo, I was gonna write a simple server to log but it's not needed :)
+
+
+---
+
+## 2009-01-08 · Post · Playing with my new XSS tool trying to get it working
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-01-08 16:00 UTC (2009-01-08 17:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1104601597
+- Metrics (at fetch): not returned
+
+> Playing with my new XSS tool trying to get it working
+
+
+---
+
+## 2009-01-07 · Post · Finally put my ideas to the keyboard on my new XSS tool to help me find yet more XSS holes
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2009-01-07 19:44 UTC (2009-01-07 20:44 WAT)
+
+- URL: https://x.com/garethheyes/status/1102612002
+- Metrics (at fetch): not returned
+
+> Finally put my ideas to the keyboard on my new XSS tool to help me find yet more XSS holes
+
+
+---
+
+## 2008-12-16 · Post · Finished a new Hacker tag for Hackvertor to help research XSS vulnerabilities for non-english chars
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2008-12-16 15:38 UTC (2008-12-16 16:38 WAT)
+
+- URL: https://x.com/garethheyes/status/1060792523
+- Metrics (at fetch): not returned
+
+> Finished a new Hacker tag for Hackvertor to help research XSS vulnerabilities for non-english chars
+
+
+---
+
+## 2008-12-13 · Post · Google fixed XSS I found in Youtube. Still waiting Adobe and Apple
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2008-12-13 03:56 UTC (2008-12-13 04:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1054763916
+- Metrics (at fetch): not returned
+
+> Google fixed XSS I found in Youtube. Still waiting Adobe and Apple
+
+
+---
+
+## 2008-11-19 · Post · Thought of a name for my next XSS tool, it's gonna be cool but I'm not saying nothing else yet
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2008-11-19 14:45 UTC (2008-11-19 15:45 WAT)
+
+- URL: https://x.com/garethheyes/status/1012944611
+- Metrics (at fetch): not returned
+
+> Thought of a name for my next XSS tool, it's gonna be cool but I'm not saying nothing else yet
+
+
+---
+
+## 2008-11-18 · Post · Gonna write a new tool to help with my XSS exploits. The hardest part is the name...
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2008-11-18 21:06 UTC (2008-11-18 22:06 WAT)
+
+- URL: https://x.com/garethheyes/status/1011763426
+- Metrics (at fetch): not returned
+
+> Gonna write a new tool to help with my XSS exploits. The hardest part is the name...
+
+
+---
+
+## 2008-11-02 · Post · Added some Clickjacking protection to stop XSS based clickjacking attacks in Hackvertor. The UI gets
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2008-11-02 20:08 UTC (2008-11-02 21:08 WAT)
+
+- URL: https://x.com/garethheyes/status/986690427
+- Metrics (at fetch): not returned
+
+> Added some Clickjacking protection to stop XSS based clickjacking attacks in Hackvertor. The UI gets destroyed if included in a iframe
+
+
+---
+
+## 2008-10-22 · Post · Gotta right a poc for IE tonight, I've several methods for making a remote request with CSS but I'm 
+
+
+### Post — @garethheyes — 2008-10-22 15:33 UTC (2008-10-22 16:33 WAT)
+
+- URL: https://x.com/garethheyes/status/970637195
+- Metrics (at fetch): not returned
+
+> Gotta right a poc for IE tonight, I've several methods for making a remote request with CSS but I'm sure something cool could be done
+
+
+---
+
+## 2008-10-22 · Post · trying to exploit toStaticHTML, Execute/HTML test in Hackvertor is so useful for this. Fiddler comes
+
+
+### Post — @garethheyes — 2008-10-22 09:38 UTC (2008-10-22 10:38 WAT)
+
+- URL: https://x.com/garethheyes/status/970249637
+- Metrics (at fetch): not returned
+
+> trying to exploit toStaticHTML, Execute/HTML test in Hackvertor is so useful for this. Fiddler comes in handy too

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 369
-- Conversations/threads: 362
+- Posts in this file: 377
+- Conversations/threads: 370
 - Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
 
@@ -2931,7 +2931,224 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-12-31 · Post · Just because you found 1 bug don't stop playing :) https://t.co/4oJEzjLCXN
+## 2021-01-31 · Post · Reading “a bug bounty hunting journey” by @thehackerish 😇 [pic.x.com/0pMcHOv8lB]
+
+
+### Post — @zseano — 2021-01-31 12:33 UTC (2021-01-31 13:33 WAT)
+
+- URL: https://x.com/zseano/status/1355856759508922372
+- Metrics (at fetch): not returned
+
+> Reading “a bug bounty hunting journey” by @thehackerish 😇 [pic.x.com/0pMcHOv8lB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EtD4iGpXEAIksnq.jpg — no alt text provided by author
+
+
+---
+
+## 2021-01-29 · Post · If you aren’t happy with your payout on @Bugcrowd , be sure to give @codingo_ &amp; @vortexau a mess
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2021-01-29 18:18 UTC (2021-01-29 19:18 WAT)
+
+- URL: https://x.com/zseano/status/1355218807506296835
+- Metrics (at fetch): not returned
+
+> If you aren’t happy with your payout on @Bugcrowd , be sure to give @codingo_ &amp; @vortexau a message and see if they can pay you more 👇🏻😇 https://twitter.com/mrtuxracer/status/1355212613836283917
+
+**Links in post:** https://twitter.com/mrtuxracer/status/1355212613836283917
+
+**Quoted post (full text):**
+
+    #### Quoted post — @429002176 — 2021-01-29 17:54 UTC (2021-01-29 18:54 WAT)
+    
+    - URL: https://x.com/429002176/status/1355212613836283917
+    - Metrics (at fetch): not returned
+    
+    > I need to give a huge shout-out to @Bugcrowd and specifically @codingo_ and @vortexau for quickly taking care of this and paying out a super appreciative #BugBounty out of their "make it right" fund.
+    >
+    > This is definitely a whole new level. Thanks guys!
+    >
+    > https://x.com/MrTuxracer/status/1353789763002753027
+    
+    **Links in post:** https://x.com/MrTuxracer/status/1353789763002753027
+    
+    **Quoted post** 1353789763002753027: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-01-28 · Post · Built a fun xss challenge for @Hacker0x01 a while back :) great to see its now on hacker101! Give it
+
+
+Tags (automatic): XSS, Platform: HackerOne
+
+
+### Post — @zseano — 2021-01-28 00:45 UTC (2021-01-28 01:45 WAT)
+
+- URL: https://x.com/zseano/status/1354591305058426885
+- Metrics (at fetch): not returned
+
+> Built a fun xss challenge for @Hacker0x01 a while back :) great to see its now on hacker101! Give it a shot and see if you can find all of the xss. Then if your eager for more vuln types check out fastfoodhackings &amp; challenges on @BugBountyHunt3r :) https://twitter.com/hacker0x01/status/1354488435520663553
+
+**Links in post:** https://twitter.com/hacker0x01/status/1354488435520663553
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Hacker0x01 — 2021-01-27 17:56 UTC (2021-01-27 18:56 WAT)
+    
+    - URL: https://x.com/Hacker0x01/status/1354488435520663553
+    - Metrics (at fetch): not returned
+    
+    > Yesterday we teased something new and now we're thrilled to announce the launch of 3 new CTF levels on Hacker101 with our partners @zseano &amp; @adamtlangley! Check out the latest on http://Hacker101.com to score points towards your next invite to a private program on HackerOne! [pic.x.com/j5OESW0fUH]
+    
+    **Media:**
+    - media `3_1354488220491206663` (details not returned by the API)
+    
+    **Links in post:** http://Hacker101.com
+    
+
+
+---
+
+## 2021-01-26 · Post · Next: Pillowfort opens bug bounty program
+
+
+### Post — @zseano — 2021-01-26 20:24 UTC (2021-01-26 21:24 WAT)
+
+- URL: https://x.com/zseano/status/1354163283100651520
+- Metrics (at fetch): not returned
+
+> Next: Pillowfort opens bug bounty program
+>
+> ;D https://twitter.com/lorenzofb/status/1354145337112461313
+
+**Links in post:** https://twitter.com/lorenzofb/status/1354145337112461313
+
+**Quoted post (full text):**
+
+    #### Quoted post — @55643029 — 2021-01-26 19:13 UTC (2021-01-26 20:13 WAT)
+    
+    - URL: https://x.com/55643029/status/1354145337112461313
+    - Metrics (at fetch): not returned
+    
+    > NEW: The buzzy new social media site Pillowfort is riddled with basic web bugs. Users found ways to force sign out others just using HTML code in posts. 
+    >
+    > Company has taken website down "to enact some precautionary safety measures."
+    >
+    > https://www.vice.com/en/article/k7akqv/buzzy-new-social-media-site-pillowfort-is-riddled-with-basic-bugs
+    
+    **Links in post:** https://www.vice.com/en/article/k7akqv/buzzy-new-social-media-site-pillowfort-is-riddled-with-basic-bugs
+    
+
+
+---
+
+## 2021-01-26 · Post · I know *lots* of you love your recon so here’s a challenge from @naglinagli :) https://twitter.com/g
+
+
+### Post — @zseano — 2021-01-26 13:39 UTC (2021-01-26 14:39 WAT)
+
+- URL: https://x.com/zseano/status/1354061407759831041
+- Metrics (at fetch): not returned
+
+> I know *lots* of you love your recon so here’s a challenge from @naglinagli :) https://twitter.com/galnagli/status/1353705654612066305
+
+**Links in post:** https://twitter.com/galnagli/status/1353705654612066305
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2021-01-25 14:05 UTC (2021-01-25 15:05 WAT)
+    
+    - URL: https://x.com/galnagli/status/1353705654612066305
+    - Metrics (at fetch): bookmark 28, impression 0, like 121, quote 4, reply 16, retweet 26
+    
+    > Let's have a little recon challenge 
+    > I have placed 10 unique subdomains on my main blog: http://galnagli.com
+    > I wonder if someone could grab them all through his recon methodology,
+    > (The deepest one is 4 subdomains long)
+    > Might include prizes in the future 🤠
+    > #BugBounty
+    
+    **Links in post:** http://galnagli.com
+    
+
+
+---
+
+## 2021-01-17 · Post · For new comers: Using a third party service in your reports such as @XssHunter or @bugpoc_official m
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2021-01-17 13:56 UTC (2021-01-17 14:56 WAT)
+
+- URL: https://x.com/zseano/status/1350804093682507777
+- Metrics (at fetch): not returned
+
+> For new comers: Using a third party service in your reports such as @XssHunter or @bugpoc_official may result in you forfeiting your bounty.
+>
+> Do NOT use third party sites. Use something *you* own and control for your proof of concepts.
+>
+> XSShunter tutorial: https://robinlunde.com/blog/installing-xss-hunter/ [pic.x.com/PYy8KetkFU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Er8EDkfXcAAghfj.png — no alt text provided by author
+
+**Links in post:** https://robinlunde.com/blog/installing-xss-hunter/
+
+
+---
+
+## 2021-01-15 · Post · 😯😯😯 access to PII info on any customer on Apple... Yikessssss! Now imagine if apple didn’t welcome S
+
+
+### Post — @zseano — 2021-01-15 11:50 UTC (2021-01-15 12:50 WAT)
+
+- URL: https://x.com/zseano/status/1350047722326417408
+- Metrics (at fetch): not returned
+
+> 😯😯😯 access to PII info on any customer on Apple... Yikessssss! Now imagine if apple didn’t welcome Sam’s research, this bug would still be out there! Nice find @samwcyo, great work helping to secure Apple! https://t.co/Mo6GwFORpt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2021-01-15 10:24 UTC (2021-01-15 11:24 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1350025970615529473
+    - Metrics (at fetch): not returned
+    
+    > 1. IDOR on Apple via "X-Dsid" header allows attacker to retrieve name, credit card information, addresses, and various PII of any Apple users via DSID
+    > Bounty: $25,000
+    >
+    > Could create a "god cookie" which had access to all Apple customers name, address, phone, and billing info. [pic.x.com/dTZMQjZl6B]
+    
+    **Media:**
+    - media `3_1350010441423069186` (details not returned by the API)
+    
+
+
+---
+
+## 2021-01-13 · Post · New year, new features. Who’s found a bug already on something recently deployed?
+
+
+### Post — @zseano — 2021-01-13 16:57 UTC (2021-01-13 17:57 WAT)
+
+- URL: https://x.com/zseano/status/1349400289292546051
+- Metrics (at fetch): not returned
+
+> New year, new features. Who’s found a bug already on something recently deployed?
+
+
+---
+
+## 2020-12-31 · Post · Just because you found 1 bug don't stop playing :) [pic.x.com/4oJEzjLCXN]
 
 
 ### Post — @zseano — 2020-12-31 02:47 UTC (2020-12-31 03:47 WAT)
@@ -2939,7 +3156,7 @@ Tags (automatic): XSS
 - URL: https://x.com/zseano/status/1344475184099540992
 - Metrics (at fetch): bookmark 1, impression 0, like 89, quote 0, reply 1, retweet 5
 
-> Just because you found 1 bug don't stop playing :) https://t.co/4oJEzjLCXN
+> Just because you found 1 bug don't stop playing :) [pic.x.com/4oJEzjLCXN]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EqiIxLPUcAE7g-f.png — no alt text provided by author
@@ -2955,7 +3172,9 @@ Tags (automatic): XSS
 - URL: https://x.com/zseano/status/1344346868986339329
 - Metrics (at fetch): bookmark 134, impression 0, like 378, quote 1, reply 2, retweet 125
 
-> Recently found this GitHub repo from @ofjaaah which has some interesting oneliners for finding useful data for bug bounty targets. May be of use to some of you! https://t.co/cT8tiBIqAw
+> Recently found this GitHub repo from @ofjaaah which has some interesting oneliners for finding useful data for bug bounty targets. May be of use to some of you! https://github.com/KingOfBugbounty/KingOfBugBountyTips
+
+**Links in post:** https://github.com/KingOfBugbounty/KingOfBugBountyTips
 
 
 ---
@@ -2968,7 +3187,7 @@ Tags (automatic): XSS
 - URL: https://x.com/zseano/status/1343608653132263424
 - Metrics (at fetch): bookmark 0, impression 0, like 40, quote 0, reply 5, retweet 3
 
-> Best get a pizza in me and wake the hacker in me up, hacking with members of @BugBountyHunt3r soon! We found a bug last session (low impact though) so let's see if we can continue this streak and find some more :) https://t.co/fwzM09Q3yL
+> Best get a pizza in me and wake the hacker in me up, hacking with members of @BugBountyHunt3r soon! We found a bug last session (low impact though) so let's see if we can continue this streak and find some more :) [pic.x.com/fwzM09Q3yL]
 
 **Media:**
 - animated_gif:  — no alt text provided by author
@@ -2984,7 +3203,7 @@ Tags (automatic): XSS
 - URL: https://x.com/zseano/status/1343551053829206017
 - Metrics (at fetch): bookmark 1, impression 0, like 77, quote 1, reply 3, retweet 5
 
-> Triaged this report last night on @BugBountyHunt3r , it's a bug on a feature that's been *heavily* tested but believe it or not, only 4 researchers have discovered *all* vulns on that feature. Don't overlook the simple bugs in front of you :) https://t.co/62q4zU3j9B
+> Triaged this report last night on @BugBountyHunt3r , it's a bug on a feature that's been *heavily* tested but believe it or not, only 4 researchers have discovered *all* vulns on that feature. Don't overlook the simple bugs in front of you :) [pic.x.com/62q4zU3j9B]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EqVABCEXAAE03mc.png — no alt text provided by author
