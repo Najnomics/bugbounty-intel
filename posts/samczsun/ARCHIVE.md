@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 95
-- Conversations/threads: 86
+- Posts in this file: 96
+- Conversations/threads: 87
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
 
@@ -1179,6 +1179,24 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): not returned
 
 > sorry but if you're a whitehat and you choose to optimize for bounty amount at the expense of putting users and their funds at risk then you're not a whitehat
+
+
+---
+
+## 2023-05-20 · Post · On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malici
+
+
+### Post — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+
+- URL: https://x.com/samczsun/status/1660012956632104960
+- Metrics (at fetch): bookmark 361, impression 1225856, like 1860, quote 296, reply 87, retweet 651
+
+> On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malicious proposal, an attacker granted themselves 1,200,000 votes. As this is more than the ~700,000 legitimate votes, they now have full control.
+>
+> https://t.co/nY87XmrYgT https://t.co/h9qjc3xRqz
+
+**Media:**
+- media `3_1659998536388448256` (details not returned by the API)
 
 
 ---

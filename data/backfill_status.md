@@ -38,8 +38,8 @@ Updated 2026-11-11 10:09 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @osec_io | 22 | 85 | 2022-03-23 |
 | @_blockian | 86 | 86 | 2023-03-03 |
 | @Kiki_developer | 44 | 91 | 2023-01-26 |
-| @samczsun | 53 | 95 | 2020-03-13 |
 | @zellic_io | 27 | 95 | 2022-01-27 |
+| @samczsun | 53 | 96 | 2020-03-13 |
 | @RootxRavi | 27 | 97 | 2022-10-11 |
 | @Suryesh_92 | 99 | 100 | 2024-05-10 |
 | @kobigurk | 45 | 107 | 2014-01-16 |
@@ -78,10 +78,10 @@ Updated 2026-11-11 10:09 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @garethheyes | 59 | 515 | 2008-10-22 |
 | @mdp_sec | 586 | 586 | 2026-07-22 |
 | @saxenism | 651 | 651 | 2024-10-01 |
-| @ChainLight_io | 150 | 1060 | 2022-11-05 |
+| @ChainLight_io | 150 | 1081 | 2022-11-05 |
 | @NahamSec | 176 | 1089 | 2016-09-01 |
 
-Total: 5581 → 13151
+Total: 5581 → 13173
 
 ## Search cursors (pass 5, until_id paging)
 
@@ -92,7 +92,7 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 | nah3 | 714 | 2019-11-06 | 1192138362678734849 | DONE (reached start of segment cursor nah3m) | `from:NahamSec -is:retweet (-is:reply OR to:NahamSec) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
 | rhy3 | 184 | 2017-06-13 | 874697245341478914 | DONE (closed manually) | `from:Rhynorater -is:retweet (-is:reply OR to:Rhynorater) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
 | cmi3 | 50 | 2016-07-31 | 759768576274333696 | DONE (closed manually) | `from:cmichelio -is:retweet (-is:reply OR to:cmichelio)` |
-| chl3 | 775 | 2023-05-22 | 1660631806302097408 | OPEN | `from:ChainLight_io -is:retweet (-is:reply OR to:ChainLight_io)` |
+| chl3 | 800 | 2023-05-11 | 1656638541198430209 | DONE (reached start of segment cursor chl3m) | `from:ChainLight_io -is:retweet (-is:reply OR to:ChainLight_io)` |
 | ryo3 | 38 | 2019-05-29 | 1133535728468578304 | DONE (closed manually) | `from:ryotkak -is:retweet (-is:reply OR to:ryotkak)` |
 | xss3 | 17 | 2023-07-10 | 1678433299356680192 | DONE (closed manually) | `from:xssdoctor -is:retweet (-is:reply OR to:xssdoctor) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR hackerone OR bugcrowd OR recon OR takeover OR 🧵 OR tip OR research)` |
 | t1b | 398 | 2013-03-23 | 315523413340979200 | DONE | `(from:GuplerSaxanoid OR from:krishnsec OR from:ajxchapman OR from:RootxRavi) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |

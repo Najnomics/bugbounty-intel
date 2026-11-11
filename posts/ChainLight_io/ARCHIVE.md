@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1060
-- Conversations/threads: 551
+- Posts in this file: 1081
+- Conversations/threads: 571
 - Oldest post captured: 2022-11-05
 - Newest post captured: 2025-04-21
 
@@ -22410,13 +22410,34 @@ Tags (automatic): ZK
 
 ---
 
-## 2023-05-22 · Thread · 5️⃣ @Ledger Recovery Solution: Ledger's got a surprise for you. Now they offer a service to recover 
+## 2023-05-22 · Thread · 📰 ChainLight Weekly Update! 🌐
 
 
 Tags (automatic): Smart contract / DeFi
 
 
 ### Post — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1660631789814317056
+- Metrics (at fetch): bookmark 1, impression 2386, like 16, quote 1, reply 1, retweet 1
+
+> 📰 ChainLight Weekly Update! 🌐
+>
+> Check out the summary &amp; details on our thread 👀
+>
+> • #TornadoCash Governance
+> • #MetaMask Terms with Tax
+> • #AxieInfinity App Store Approval
+> • #Solady Audit Fundraising
+> • #Ledger Recovery Solution
+> • Bounty Proposal on #MakerDAO
+> • #AAVE's Bug https://t.co/BXElkz0b8c
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fwu_zStakAIKOta.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1660631806302097408
 - Metrics (at fetch): not returned
@@ -22445,7 +22466,7 @@ Tags (automatic): Smart contract / DeFi
     
 
 
-### Thread part 2 — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+### Thread part 3 — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1660631809510752258
 - Metrics (at fetch): not returned
@@ -22473,7 +22494,7 @@ Tags (automatic): Smart contract / DeFi
     
 
 
-### Thread part 3 — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+### Thread part 4 — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1660631812484501511
 - Metrics (at fetch): not returned
@@ -22499,7 +22520,7 @@ Tags (automatic): Smart contract / DeFi
     
 
 
-### Thread part 4 — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+### Thread part 5 — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1660631815563124736
 - Metrics (at fetch): not returned
@@ -22512,6 +22533,478 @@ Tags (automatic): Smart contract / DeFi
 >
 > Follow us 👉 @chainlight_io
 >  #Crypto #Web3 #ChainLightWeekly
+
+
+---
+
+## 2023-05-22 · Post · 4️⃣ Solady Library's Audit Adventure: Hey, hey! @optimizoor raised funds for Solady's audit, but gue
+
+
+### Post — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1660631803215110144
+- Metrics (at fetch): bookmark 0, impression 134, like 0, quote 0, reply 1, retweet 0
+
+> 4️⃣ Solady Library's Audit Adventure: Hey, hey! @optimizoor raised funds for Solady's audit, but guess what? @SpearbitDAO stepped up. Cheers to teamwork!
+>
+> #SmartContract #Library #Audit https://t.co/1qnl9E4GZX
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1496567813737091075 — 2023-05-21 08:16 UTC (2023-05-21 09:16 WAT)
+    
+    - URL: https://x.com/1496567813737091075/status/1660197911731507200
+    - Metrics (at fetch): bookmark 17, impression 87273, like 263, quote 8, reply 50, retweet 31
+    
+    > I need to raise funds for Solady audit. 
+    >
+    > Target: 300k USD. 
+    >
+    > Somehow, no one in the Milady or wider web3 community cares. 
+    >
+    > DM me if you want me to help you optimize your contracts. I need to take matters into my own hands.
+    
+
+
+---
+
+## 2023-05-22 · Post · 3️⃣ @AxieInfinity Hits the App Store: Guess what? Axie Infinity made it to the App Store party! If y
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1660631800048406528
+- Metrics (at fetch): bookmark 0, impression 114, like 0, quote 0, reply 1, retweet 0
+
+> 3️⃣ @AxieInfinity Hits the App Store: Guess what? Axie Infinity made it to the App Store party! If you own #Axie NFTs, get ready to play on your iOS devices. Let the Axie fun begin!
+>
+> #AxieInfinity #AppStore #P2E https://t.co/bAHEnnfjCs
+
+**Quoted post (full text):**
+
+    #### Quoted post — @957716432430641152 — 2023-05-17 10:16 UTC (2023-05-17 11:16 WAT)
+    
+    - URL: https://x.com/957716432430641152/status/1658778494875181058
+    - Metrics (at fetch): bookmark 46, impression 227514, like 981, quote 228, reply 222, retweet 362
+    
+    > 1/ Origins has passed review with Apple and is now available on the App store!
+    >
+    > We believe this is the first time that Apple has agreed to make an externally-purchased NFT usable on the App Store.
+    >
+    > Let’s dive in 🧵👇 https://t.co/LYPLnHEVF6
+    
+    **Media:**
+    - media `3_1658778234022920193` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-22 · Post · 2️⃣ MetaMask Tax issues: Hold on, folks! People were surprised when the "tax" appeared in MetaMask's
+
+
+### Post — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1660631796999131136
+- Metrics (at fetch): bookmark 0, impression 168, like 0, quote 0, reply 1, retweet 0
+
+> 2️⃣ MetaMask Tax issues: Hold on, folks! People were surprised when the "tax" appeared in MetaMask's terms of use in some Twitter users' tweets. Don't fret; it's just related to paid services. Phew!
+>
+> #ConsenSys #MetaMask #Tax https://t.co/W2EzJTgasf
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3129477561 — 2023-05-21 18:35 UTC (2023-05-21 19:35 WAT)
+    
+    - URL: https://x.com/3129477561/status/1660353691956772864
+    - Metrics (at fetch): bookmark 2, impression 14109, like 60, quote 5, reply 4, retweet 6
+    
+    > The tax section in our terms of service falls under the "fees and payment" section, and it exclusively pertains to products and paid plans offered by ConsenSys. For example, Infura has credit card developer subscriptions which include sales tax.
+    
+
+
+---
+
+## 2023-05-22 · Post · 1️⃣ Tornado Cash Governance: Uh-oh! Tornado Cash's governance was hijacked by some sneaky users. The
+
+
+### Post — @ChainLight_io — 2023-05-22 13:00 UTC (2023-05-22 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1660631794000207873
+- Metrics (at fetch): bookmark 0, impression 282, like 0, quote 0, reply 1, retweet 0
+
+> 1️⃣ Tornado Cash Governance: Uh-oh! Tornado Cash's governance was hijacked by some sneaky users. The attacker's contract was executed through delegatecall, but before that, it self-destructed and re-deployed with a backdoor sstore. #TornadoCash https://t.co/ehd5fMG9cj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+    
+    - URL: https://x.com/samczsun/status/1660012956632104960
+    - Metrics (at fetch): bookmark 361, impression 1225856, like 1860, quote 296, reply 87, retweet 651
+    
+    > On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malicious proposal, an attacker granted themselves 1,200,000 votes. As this is more than the ~700,000 legitimate votes, they now have full control.
+    >
+    > https://t.co/nY87XmrYgT https://t.co/h9qjc3xRqz
+    
+    **Media:**
+    - media `3_1659998536388448256` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-21 · Post · 🔥 Our team scored the first blood in Dragonfly CTF and won the coveted Milady NFT! 🎉
+
+
+### Post — @ChainLight_io — 2023-05-21 13:00 UTC (2023-05-21 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1660269240656728064
+- Metrics (at fetch): bookmark 1, impression 2896, like 23, quote 1, reply 1, retweet 2
+
+> 🔥 Our team scored the first blood in Dragonfly CTF and won the coveted Milady NFT! 🎉
+>
+> Huge thanks @dragonflyvc for hosting such an exciting CTF. We can't wait to join again next time! 🙌
+>
+> Ready to rock with this pretty Milady NFT! 💪 #DragonflyCTF #Milady #MiladyNFT #NFT https://t.co/qREzcH5HpH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fwp2EdhaMAAtiQw.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-21 · Post · 🏎️ https://t.co/vrNRCPTUtt
+
+
+### Post — @ChainLight_io — 2023-05-21 08:50 UTC (2023-05-21 09:50 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1660206498692366336
+- Metrics (at fetch): bookmark 0, impression 1373, like 4, quote 0, reply 0, retweet 1
+
+> 🏎️ https://t.co/vrNRCPTUtt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1488918141950431245 — 2023-05-18 12:05 UTC (2023-05-18 13:05 WAT)
+    
+    - URL: https://x.com/1488918141950431245/status/1659168260951265282
+    - Metrics (at fetch): bookmark 1, impression 117246, like 360, quote 30, reply 28, retweet 250
+    
+    > 𝔸𝕥𝕥𝕖𝕟𝕥𝕚𝕠𝕟 ℙ𝕚𝕝𝕠𝕥𝕤 🏁🏎️
+    > The ultimate "Web3 companies World Cup" #0xTitans is back!✨
+    > The best Web3 companies will compete on #Season2 &amp; try to dethrone #Uniswap🏆
+    >
+    > Now viewers can vote for their favorite teams &amp; earn rewards for being the best predictors
+    >
+    > June 4th ✅ https://t.co/fx55dJKuYg
+    
+    **Media:**
+    - media `7_1659168208509878276` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-19 · Post · 👨🏻‍💻 Author: @waynekimbtc (Technical Writer), Reviewer: @lsreq (Senior Researcher)
+
+
+### Post — @ChainLight_io — 2023-05-19 13:33 UTC (2023-05-19 14:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1659552948274466816
+- Metrics (at fetch): bookmark 0, impression 453, like 1, quote 0, reply 0, retweet 0
+
+> 👨🏻‍💻 Author: @waynekimbtc (Technical Writer), Reviewer: @lsreq (Senior Researcher)
+>
+> 🧑🏻‍🎨 Designer: @0xAidar (Product Designer)
+
+
+---
+
+## 2023-05-19 · Post · ✍️ Who has ownership of smart contracts?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2023-05-19 13:33 UTC (2023-05-19 14:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1659552945451720706
+- Metrics (at fetch): bookmark 0, impression 1547, like 8, quote 1, reply 1, retweet 3
+
+> ✍️ Who has ownership of smart contracts?
+>
+> 📌 Our team wrote an article exploring the concept of smart contracts and ownership, briefly delving into its relationship with governance. 👇
+>
+> https://t.co/WFVqdHpV9h
+>
+> #SmartContract #ETH #BTC
+
+
+---
+
+## 2023-05-15 · Post · 🚀 Ingonyama CTF is collaborating with @AleoHQ @__geometry__ @ClassLambda @TeknaSearch @RiscZero @zks
+
+
+Tags (automatic): ZK
+
+
+### Post — @ChainLight_io — 2023-05-15 20:00 UTC (2023-05-15 21:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658200612465684480
+- Metrics (at fetch): bookmark 0, impression 408, like 5, quote 0, reply 0, retweet 0
+
+> 🚀 Ingonyama CTF is collaborating with @AleoHQ @__geometry__ @ClassLambda @TeknaSearch @RiscZero @zksync !
+
+
+---
+
+## 2023-05-15 · Post · 🔍 Curious about our ZK expertise? Check out ChainLight's ZK solution, @RelicProtocol! 💡
+
+
+Tags (automatic): ZK
+
+
+### Post — @ChainLight_io — 2023-05-15 20:00 UTC (2023-05-15 21:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658200609785516032
+- Metrics (at fetch): bookmark 0, impression 1444, like 10, quote 0, reply 1, retweet 3
+
+> 🔍 Curious about our ZK expertise? Check out ChainLight's ZK solution, @RelicProtocol! 💡
+>
+> Relic Protocol: a trustless Oracle solution leveraging zk-SNARKs, effortlessly bringing Ethereum’s historical data to the present for builders.
+>
+> 👉 https://t.co/2uvqNTsyOc
+>
+> #ZK #Ethereum
+
+
+---
+
+## 2023-05-15 · Post · 🔥 We are thrilled to announce that our team ranked first place on Ingonyama CTF!
+
+
+Tags (automatic): ZK
+
+
+### Post — @ChainLight_io — 2023-05-15 20:00 UTC (2023-05-15 21:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658200606845308928
+- Metrics (at fetch): bookmark 0, impression 4315, like 26, quote 2, reply 2, retweet 5
+
+> 🔥 We are thrilled to announce that our team ranked first place on Ingonyama CTF!
+>
+> Ingonyama CTF's challenges required Zero-Knowledge skills. Our team consists of ZK-Nerds.
+>
+> #ZK #CTF @Ingo_zk https://t.co/lgPNNwy35v
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwMcqdRacAA_fSx.png — no alt text provided by author
+
+
+---
+
+## 2023-05-15 · Post · On May 11, 1997, Deep Blue became the first computer to defeat a chess champion.
+
+
+Tags (automatic): Smart contract / DeFi, ZK
+
+
+### Post — @ChainLight_io — 2023-05-15 18:06 UTC (2023-05-15 19:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658171925594779648
+- Metrics (at fetch): bookmark 0, impression 671, like 5, quote 0, reply 1, retweet 1
+
+> On May 11, 1997, Deep Blue became the first computer to defeat a chess champion.
+>
+> Today, ChainLight becomes the first solver to defeat  @zkdragon's solidity chess! 🎉
+>
+> https://t.co/WsRggPlBiu
+>
+> #ChainLight https://t.co/8OrFBbUUII
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwMCksmWYDkrxT1.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-15 · Post · 🔥 CHECKMATE @curta_ctf Puzzle 10: "Last One Standing"! 🔥
+
+
+Tags (automatic): Smart contract / DeFi, ZK
+
+
+### Post — @ChainLight_io — 2023-05-15 18:06 UTC (2023-05-15 19:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658171914370846720
+- Metrics (at fetch): bookmark 0, impression 2892, like 17, quote 0, reply 2, retweet 3
+
+> 🔥 CHECKMATE @curta_ctf Puzzle #10: "Last One Standing"! 🔥
+>
+> We've claimed the coveted First Blood in Puzzle #10 of @zkdragon again! Put your strategic skills to the test and see if you can outwit us. Join the challenge now!
+>
+> #CurtaCTF #Puzzle10 #FirstBlood #Solidity #ETH https://t.co/SfYCAkkzQe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwMCkSEWYAgB9VH.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-15 · Post · 6/6 🤔 What is ChainLight Weekly?
+
+
+### Post — @ChainLight_io — 2023-05-15 13:00 UTC (2023-05-15 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658094981129854977
+- Metrics (at fetch): bookmark 0, impression 307, like 2, quote 0, reply 0, retweet 0
+
+> 6/6 🤔 What is ChainLight Weekly?
+>
+> ChainLight Weekly is news based on ChainLight's #Web3 catch-up discussion in our internal weekly meeting.
+>
+> 🫴🏻 Catch ChainLight Weekly every Monday for security-focused #Web3 news!
+>
+> Follow us 👉 @chainlight_io
+
+
+---
+
+## 2023-05-15 · Post · 5/6 📢 Breaking news in the crypto world! The @SECGov has won its case against LBRY for alleged unreg
+
+
+### Post — @ChainLight_io — 2023-05-15 13:00 UTC (2023-05-15 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658094978047049728
+- Metrics (at fetch): bookmark 0, impression 427, like 2, quote 0, reply 1, retweet 0
+
+> 5/6 📢 Breaking news in the crypto world! The @SECGov has won its case against LBRY for alleged unregistered security sales.
+>
+> As a result, SEC has requested LBRY to pay a fine of $111K, a reduced amount from the initial $22M penalty. #CryptoNews #SEC
+>
+> https://t.co/F6lThMWgCJ
+
+
+---
+
+## 2023-05-15 · Post · 4/6 🔐 @Bitboy_Crypto, He's acquired all the assets and liquidity associated with the meme coin $BEN 
+
+
+### Post — @ChainLight_io — 2023-05-15 13:00 UTC (2023-05-15 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658094974536409090
+- Metrics (at fetch): bookmark 0, impression 224, like 1, quote 0, reply 1, retweet 0
+
+> 4/6 🔐 @Bitboy_Crypto, He's acquired all the assets and liquidity associated with the meme coin $BEN created by @eth_ben. And guess what?
+>
+> ben.eth held public fundraising to launch a brand-new meme coin, raising a whopping $6.9M.. 😮 #Crypto #MemeCoin https://t.co/zvKWm3K8JY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwK8lubaEAAviCk.png — no alt text provided by author
+
+
+---
+
+## 2023-05-15 · Post · 3/6 🛑 Oops! @Ethereum had a technical issue. Ethereum experienced ensuring block finality issues twi
+
+
+### Post — @ChainLight_io — 2023-05-15 13:00 UTC (2023-05-15 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658094967443828736
+- Metrics (at fetch): bookmark 0, impression 260, like 2, quote 0, reply 1, retweet 0
+
+> 3/6 🛑 Oops! @Ethereum had a technical issue. Ethereum experienced ensuring block finality issues twice last week, and the Ethereum Foundation is diligently investigating the matter.
+>
+> 🤞🏻 Let's keep an eye on it! #Ethereum #KeepItFlowing https://t.co/C8qKh02beI
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1127548018297901057 — 2023-05-12 12:32 UTC (2023-05-12 13:32 WAT)
+    
+    - URL: https://x.com/1127548018297901057/status/1657000847782338560
+    - Metrics (at fetch): bookmark 4, impression 166431, like 459, quote 6, reply 122, retweet 174
+    
+    > The beacon chain did not "halt", to suggest that it did is willfully spreading misinformation. Finalization was delayed for 3 epochs (about 19 minutes), and was recovered after turbulence. End users would have no idea this happened and transactions continued normally.
+    
+
+
+---
+
+## 2023-05-15 · Post · 2/6 🔥 Exciting news in the crypto world! 🌍 Worldcoin is building its mainnet on Optimism's Superchai
+
+
+### Post — @ChainLight_io — 2023-05-15 13:00 UTC (2023-05-15 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658094964583313409
+- Metrics (at fetch): bookmark 0, impression 320, like 3, quote 0, reply 1, retweet 0
+
+> 2/6 🔥 Exciting news in the crypto world! 🌍 Worldcoin is building its mainnet on Optimism's Superchain, aiming to achieve Universal Basic Income (UBI) and decentralized identity verification. Get ready, because they're planning to launch their token within 6 weeks! 💫 #Worldcoin https://t.co/mEX1qfyloc
+
+**Quoted post (full text):**
+
+    #### Quoted post — @70203939 — 2023-05-11 13:31 UTC (2023-05-11 14:31 WAT)
+    
+    - URL: https://x.com/70203939/status/1656653377152114689
+    - Metrics (at fetch): bookmark 129, impression 733099, like 1951, quote 131, reply 219, retweet 621
+    
+    > World ID &amp; World App are coming to the @OptimismFND Mainnet 🪩 🔴
+    >
+    > https://t.co/0utgzeWihY
+    
+
+
+---
+
+## 2023-05-15 · Post · 1/6 @elonmusk has tweeted with Milady NFT Images. Following He's tweet, Milady NFT FP is skyrocketed
+
+
+### Post — @ChainLight_io — 2023-05-15 13:00 UTC (2023-05-15 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658094960875552770
+- Metrics (at fetch): bookmark 0, impression 662, like 5, quote 0, reply 1, retweet 1
+
+> 1/6 @elonmusk has tweeted with Milady NFT Images. Following He's tweet, Milady NFT FP is skyrocketed to 7.5 ETH! But now the price has halved from its ATH. 😮
+>
+> 🎉 FYI, We achieved the first blood on @dragonflyvc CTF. As a result, Dragonfly will be sending us the Milady NFT! 😆 https://t.co/HqmVrIjef7 https://t.co/jW5zOYQ5l6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwK8k3_aQAIpYPZ.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1032355609268690944 — 2023-05-06 02:31 UTC (2023-05-06 03:31 WAT)
+    
+    - URL: https://x.com/1032355609268690944/status/1654675298242244609
+    - Metrics (at fetch): bookmark 2, impression 3680, like 15, quote 2, reply 1, retweet 0
+    
+    > Daaamn @chainlight_io got first blood already!? 🫡
+    
+
+
+---
+
+## 2023-05-15 · Post · 0/6 🗞️ "ChainLight Weekly" the third week of May! Check out the summary &amp; details on our thread 
+
+
+### Post — @ChainLight_io — 2023-05-15 13:00 UTC (2023-05-15 14:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1658094951337697280
+- Metrics (at fetch): bookmark 0, impression 1752, like 14, quote 2, reply 3, retweet 1
+
+> 0/6 🗞️ "ChainLight Weekly" the third week of May! Check out the summary &amp; details on our thread 👀
+>
+> • @worldnetwork with @optimismFND
+> • Ethereum had an issue with block finality
+> • $PSYOP the meme coin fundraised almost $7M
+> • @SECGov requested LBRY to pay $111K
+>
+> #ChainLightWeekly https://t.co/pxvYb2MXSV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwK8j9XakAI2Dzh.jpg — no alt text provided by author
 
 
 ---
@@ -22573,7 +23066,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 3 — @ChainLight_io — 2023-05-11 12:31 UTC (2023-05-11 13:31 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1656638245629984769
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 506, like 4, quote 0, reply 2, retweet 0
 
 > (2/6)
 > Separate repeated operations as internal functions - Calling an external function involves storing a padded function selector to memory, which consumes at least 32 bytes. Separating the call cuts down the size of two withdraw calls to half. [pic.x.com/B9If3gs5OV]
@@ -22585,7 +23078,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 4 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1656638541198430209
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 439, like 3, quote 0, reply 1, retweet 0
 
 > (3/6)
 > Consider the code size differences between &lt;=, &lt;, &gt;, &gt;=, and ==. In some cases, solidity inverts if-else branches, which may generate jumpi/iszero opcode for inequality operators. [pic.x.com/ZPXy9aB64a]
@@ -22597,7 +23090,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 5 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1656638542775480320
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 434, like 4, quote 0, reply 2, retweet 0
 
 > (4/6)
 > Typing random things can also help! Solidity encodes its IPFS hash at the end of deployed EVM bytecode. Since it's EOA that deploys the initial contract, it sends the bytecode to nil address. When sending the calldata in Ethereum, the gas cost reduces when there are zeros. [pic.x.com/vYMiRqT6hu]
@@ -22609,7 +23102,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 6 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1656638544851668993
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 636, like 3, quote 0, reply 2, retweet 0
 
 > (5/6)
 > Use special values instead of constants. e.g., use block.number instead of the value 2. While `block.number` occupies 1 byte (0x43) [pic.x.com/VljMKAehnD]
@@ -22621,7 +23114,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 7 — @ChainLight_io — 2023-05-11 12:33 UTC (2023-05-11 13:33 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1656638546541973504
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 536, like 6, quote 0, reply 0, retweet 0
 
 > (6/6)
 > Here's our final score. (We reduced more gases after the submission ended.) [pic.x.com/qIVY9tr4wf]
