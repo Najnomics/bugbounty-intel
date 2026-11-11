@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 89
-- Conversations/threads: 89
-- Oldest post captured: 2024-12-12
+- Posts in this file: 93
+- Conversations/threads: 93
+- Oldest post captured: 2024-07-09
 - Newest post captured: 2026-11-04
 
 
@@ -2621,3 +2621,68 @@ Tags (automatic): Platform: HackerOne
 > H1's 2024 recap is here! Here's a snippet of mine: 
 >
 > Proud to share my 2024 #BugBounty journey on @Hacker0x01!  Here's to making the internet safer, one bug at a time! 🐎💻 #InfoSec #CyberSecurity https://t.co/9xOvhAzyeL
+
+
+---
+
+## 2024-08-09 · Post · Bug bounty village is actually happening. Wow.
+
+
+### Post — @infinitelogins — 2024-08-09 17:24 UTC (2024-08-09 18:24 WAT)
+
+- URL: https://x.com/infinitelogins/status/1821960634348835285
+- Metrics (at fetch): bookmark 1, impression 1251, like 20, quote 0, reply 1, retweet 0
+
+> Bug bounty village is actually happening. Wow.
+
+
+---
+
+## 2024-08-04 · Post · Flying out for H1702 before Recharge on Wednesday and then setting up Bug Bounty Village at DEFCON
+
+
+### Post — @infinitelogins — 2024-08-04 21:17 UTC (2024-08-04 22:17 WAT)
+
+- URL: https://x.com/infinitelogins/status/1820207541957296484
+- Metrics (at fetch): bookmark 0, impression 1058, like 15, quote 0, reply 3, retweet 0
+
+> Flying out for #H1702 before Recharge on Wednesday and then setting up Bug Bounty Village at #DEFCON on Thursday. Hope to see you in Vegas this week!
+
+
+---
+
+## 2024-07-13 · Post · I'm going through some of the submitted slides for Bug Bounty Village talks, and I have to say, you 
+
+
+### Post — @infinitelogins — 2024-07-13 23:41 UTC (2024-07-14 00:41 WAT)
+
+- URL: https://x.com/infinitelogins/status/1812271263546753049
+- Metrics (at fetch): bookmark 1, impression 4410, like 33, quote 1, reply 1, retweet 2
+
+> I'm going through some of the submitted slides for Bug Bounty Village talks, and I have to say, you all are really in for a treat..
+
+
+---
+
+## 2024-07-09 · Post · If there is anything you've been wanting to ask community leaders at bug bounty platforms, this is y
+
+
+### Post — @infinitelogins — 2024-07-09 17:00 UTC (2024-07-09 18:00 WAT)
+
+- URL: https://x.com/infinitelogins/status/1810720619102884017
+- Metrics (at fetch): bookmark 0, impression 976, like 5, quote 0, reply 0, retweet 2
+
+> If there is anything you've been wanting to ask community leaders at bug bounty platforms, this is your chance! Submit your questions now if you want to influence the discussed topics. https://t.co/39C1T7BOZT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1773496655209533440 — 2024-07-09 16:57 UTC (2024-07-09 17:57 WAT)
+    
+    - URL: https://x.com/1773496655209533440/status/1810719928301015492
+    - Metrics (at fetch): bookmark 0, impression 13825, like 24, quote 5, reply 3, retweet 4
+    
+    > Got questions for top bug bounty leaders? Submit them here! We are excited to announce a panel at the Bug Bounty Village during @DEFCON 32 with leaders from @Hacker0x01, @YesWeHack, @intigriti, and @SynackRedTeam! Share your questions now: https://t.co/HnDDsWuXGk https://t.co/brYdxsUZTz
+    
+    **Media:**
+    - media `3_1810718987346747392` (details not returned by the API)
+    

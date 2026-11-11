@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 178
-- Conversations/threads: 174
+- Posts in this file: 200
+- Conversations/threads: 196
 - Oldest post captured: 2023-10-09
 - Newest post captured: 2026-11-09
 
@@ -3820,6 +3820,618 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GtpiG3SaQAAiYs6.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-16 · Post · Woke up to this lovely message today from one of our private audit clients from last week.
+
+
+### Post — @DevDacian — 2025-06-16 10:21 UTC (2025-06-16 11:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1934557031744102847
+- Metrics (at fetch): not returned
+
+> Woke up to this lovely message today from one of our private audit clients from last week.
+>
+> Very proud of the high quality security output @cyfrin has been consistently putting out for our private audit clients! [pic.x.com/xpUMgy0fmJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtjsK0dboAACsz6.png — no alt text provided by author
+
+
+---
+
+## 2025-06-13 · Post · Shout out @hansfriese @TamayoNft excellent work on this private audit for major token launch platfor
+
+
+### Post — @DevDacian — 2025-06-13 10:16 UTC (2025-06-13 11:16 WAT)
+
+- URL: https://x.com/DevDacian/status/1933468524854587487
+- Metrics (at fetch): not returned
+
+> Shout out @hansfriese @TamayoNft excellent work on this private audit for major token launch platform finding 6 High, 14 Med &amp; 15 Low!
+>
+> The findings kept coming right up until the end of the audit was very exciting seeing Hans &amp; Jorge cooking up vulns until the last hour! [pic.x.com/7PeyEtYXWv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtUMJrwbMAUMWsb.png — no alt text provided by author
+
+
+---
+
+## 2025-06-13 · Post · Over 2 days this week I successfully vibe coded 2 very useful tools to help our sales and marketing 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-06-13 00:16 UTC (2025-06-13 01:16 WAT)
+
+- URL: https://x.com/DevDacian/status/1933317406551941546
+- Metrics (at fetch): not returned
+
+> Over 2 days this week I successfully vibe coded 2 very useful tools to help our sales and marketing teams using @grok !
+>
+> Being a former software engineer I could have easily done this myself but I wanted to challenge myself and see what AI can do by committing to not writing any code, but that all code should come from the AI!
+>
+> Project #1 - 2 Models For Quoting Audits (Spreadsheet)
+>
+> Using Grok I created two models for quoting audits where the sales team can easily input a range of potential audit parameters and get a range of prices.
+>
+> These models are really cool because they completely eliminate human error of quoting too low or too high, and force the sales team to think in terms to the trade-offs which occur with different audit parameters and pricing levels.
+>
+> The models also make it very easy to quickly offer multiple tiers of service, to find the perfect fit for the client's budget! It has already supercharged our quoting ability which should be much more efficient and consistent!
+>
+> This task was not that complicated and @grok handled it efficiently & effortlessly with no significant bugs, bravo!
+>
+> Project #2 - Public Audit Repo Automatic Data Table Generation (Python)
+>
+> Our public audit repo previously had 1 main table where each audit appears in sequential order and has some metadata such as:
+> * type of "Tech" involved
+> * Crit/High/Med/Low/Info/Gas findings for each audit
+> * a "Totals" row summarizing everything
+>
+> When making an audit report public, auditors would have to add a new row to that table then manually update the "Totals" row which sometimes result in human errors where fields were incorrectly updated or not updated at all.
+>
+> The first step which @grok easily handled was to update the "Totals" column when auditors added a new row.
+>
+> Then I started adding more advanced features to automagically generate additional tables by "Tech" type every time a new row is added and to calculate "Total" and "Average" stats for each "Tech" type. This is very useful for Sales and Marketing to quickly showcase our impressive results to potential clients of similar audits we've done to their own protocols!
+>
+> As Grok was implementing the additional "Tech" tables generation, I found a lot of bugs testing with various inputs and scenarios which Grok didn't think to handle by itself, and I had to work iteratively with Grok to get it to resolve the bugs one by one.
+>
+> It felt like working with a very junior developer where it would write code without thinking about sometimes quite obvious edge-cases that needed to be handled!
+>
+> Eventually there were only 3 bugs left, and Grok started adding debug outputs as it was having difficulty fixing them. By incrementally adding debug outputs it eventually solved 2 of the 3 bugs!
+>
+> There was only 1 really nasty bug left, which it took Grok a few hours to solve by trying many different things and adding lots more debug outputs.
+>
+> I eventually started to give Grok strategies & tips it could use to prevent the bug which helped it a lot - if I hadn't done this it may not have been able to solve the bug, as it seemed to stop making much progress and actually regress at times.
+>
+> This shows that a seasoned programmer or software engineer will have a much better time using AI than a non-coder, as they can instruct the AI on strategies to use when stuck on a bug that a non-programmer and the AI itself won't think or know about.
+>
+> Finally @grok nailed that last bug and the resulting code worked extremely well and was very robust, perfectly handling all the edge cases and previous bugs I had identified!
+>
+> Ultimately I'm very happy with my @grok AI vibe coding experience and was happy to produce some useful tools to help and supercharge my teammates in Sales & Marketing!
+
+
+---
+
+## 2025-06-12 · Post · Shout out @giovannidisiena & myself for a fantastic result on this @strata_money audit of composable
+
+
+### Post — @DevDacian — 2025-06-12 11:00 UTC (2025-06-12 12:00 WAT)
+
+- URL: https://x.com/DevDacian/status/1933117072873017378
+- Metrics (at fetch): not returned
+
+> Shout out @giovannidisiena & myself for a fantastic result on this @strata_money audit of composable ERC4626 vaults! We got some great findings including:
+>
+> * 1 Critical which drained the protocol, found in the interaction between in-scope and out-of-scope components!
+>
+> * 1 High which resulted in users not being able to withdraw vault assets they were entitled to!
+>
+> * 3 Mediums & 16 Lows covering a wide variety of edge cases and ERC4626 specification compatibility issues!
+>
+> As an additional deliverable we wrote and provided a fuzz & invariant test suite which the Strata Money team committed to their repo!
+>
+> @cyfrin has now completed 15 publicly-available Vault audits with total of 38 Crit/High findings giving an average 2.53 Crit/High per Vault audit - we are really good at finding clever ways to break ERC4626 & other Vault implementations!
+>
+> DM me direct for best & most efficient Cyfrin private audits!
+>
+> Report 👇
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtPOHQzacAA63dO.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-11 · Post · 🥳THEY DID IT🥳
+
+
+### Post — @DevDacian — 2025-06-11 09:41 UTC (2025-06-11 10:41 WAT)
+
+- URL: https://x.com/DevDacian/status/1932734902744854887
+- Metrics (at fetch): not returned
+
+> 🥳THEY DID IT🥳
+>
+> Huge shoutout to @0kage_eth @Ubermensh3dot0 @1337web3 @PeterSRWeb3 who bested my previous 97-page longest @cyfrin report record with this 107 page monster, finding:
+>
+> * 12 Crit & High
+> * 19 Med
+> * 13 Low
+> * 3 Info, 7 Gas
+>
+> Same team is already booked to audit a related protocol soon!
+>
+> DM me direct for best & most efficient Cyfrin private audits!
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtJzv8EaEAEyhgD.png — no alt text provided by author
+
+
+---
+
+## 2025-06-10 · Post · Shout out @giovannidisiena @Draiakoo with assist by @pontifex73 for amazing work on @bunni_xyz V2 au
+
+
+### Post — @DevDacian — 2025-06-10 11:16 UTC (2025-06-10 12:16 WAT)
+
+- URL: https://x.com/DevDacian/status/1932396570504577255
+- Metrics (at fetch): not returned
+
+> Shout out @giovannidisiena @Draiakoo with assist by @pontifex73 for amazing work on @bunni_xyz V2 audit!
+>
+> Looking forward to helping secure more innovative UniswapV4 protocols!
+>
+> DM me direct for best &amp; most efficient Cyfrin private audits!
+>
+> Report👇 [pic.x.com/0yOnc11ZRG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtFAHi1aAAARP4h.png — no alt text provided by author
+
+
+---
+
+## 2025-06-10 · Post · If you want the best &amp; most efficient Cyfrin private audit, DM me direct.
+
+
+### Post — @DevDacian — 2025-06-10 09:32 UTC (2025-06-10 10:32 WAT)
+
+- URL: https://x.com/DevDacian/status/1932370220100071569
+- Metrics (at fetch): not returned
+
+> If you want the best &amp; most efficient Cyfrin private audit, DM me direct.
+
+
+---
+
+## 2025-06-09 · Post · Our Linea Upgrade audit report shows how we used Foundry to analyze changes to storage layouts durin
+
+
+### Post — @DevDacian — 2025-06-09 23:36 UTC (2025-06-10 00:36 WAT)
+
+- URL: https://x.com/DevDacian/status/1932220172213076246
+- Metrics (at fetch): not returned
+
+> Our Linea Upgrade audit report shows how we used Foundry to analyze changes to storage layouts during contract upgrades including, re-purposing/depreciating/adding storage slots:
+>
+> https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-01-06-cyfrin-linea-v2.2.pdf https://twitter.com/0xStalin/status/1932167223365538149
+
+**Links in post:** https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-01-06-cyfrin-linea-v2.2.pdf, https://twitter.com/0xStalin/status/1932167223365538149
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1562070471977443330 — 2025-06-09 20:05 UTC (2025-06-09 21:05 WAT)
+    
+    - URL: https://x.com/1562070471977443330/status/1932167223365538149
+    - Metrics (at fetch): not returned
+    
+    > This simple trick helped us to identify a critical issue during our most recent engagement.
+    >
+    > When upgrading existing contracts, always ensure that the storage layout remains intact to prevent corruption. https://twitter.com/0xStalin/status/1866563306204594262
+    
+    **Links in post:** https://twitter.com/0xStalin/status/1866563306204594262
+    
+    **Quoted post** 1866563306204594262: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-06-09 · Post · Very short private audits (1-3 days) should generally be avoided if they feature:
+
+
+### Post — @DevDacian — 2025-06-09 10:30 UTC (2025-06-09 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1932022361844293883
+- Metrics (at fetch): not returned
+
+> Very short private audits (1-3 days) should generally be avoided if they feature:
+> * significant external integrations
+> * layers of complexity
+> * interactions with out-of-scope custom contracts
+> * poor / non-existent test suite
+>
+> These private audits don't provide a good risk:reward ratio as they are:
+> * high risk (very possible to miss critical issues in the very short time frame)
+> * low reward (small money due to small number of audit days)
+>
+> Very short private audits can work well for small codebases with:
+> * no significant external integrations
+> * not many layers of complexity
+> * no interactions with out-of-scope custom contracts
+> * good / great existing test suite
+
+
+---
+
+## 2025-06-06 · Post · From top 10 attack vectors as reported by @blockthreat, 4 and 7 are really simple basic checks:
+
+
+### Post — @DevDacian — 2025-06-06 10:06 UTC (2025-06-06 11:06 WAT)
+
+- URL: https://x.com/DevDacian/status/1930929334463684781
+- Metrics (at fetch): not returned
+
+> From top 10 attack vectors as reported by @blockthreat, #4 and #7 are really simple basic checks:
+>
+> #4 - verify `onlyX` modifiers exist on sensitive functions
+>
+> #7 - validate function inputs are valid (eg address parameter inputs are legit contracts not attacker-supplied) https://twitter.com/ddimitrovv22/status/1930708210404712650
+
+**Links in post:** https://twitter.com/ddimitrovv22/status/1930708210404712650
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1567410836783742977 — 2025-06-05 19:28 UTC (2025-06-05 20:28 WAT)
+    
+    - URL: https://x.com/1567410836783742977/status/1930708210404712650
+    - Metrics (at fetch): not returned
+    
+    > Top 10 Attack Vectors in the first half of 2025 thanks to @blockthreat 🫡
+    >
+    > Good to see that simple vectors like reentrancy that led to a lot of money lost are no longer that common.
+    >
+    > But the new biggest enemy is private key leakages that can come from many different places. [pic.x.com/M4nrvduU1E]
+    
+    **Media:**
+    - media `3_1930707562963345408` (details not returned by the API)
+    
+
+
+---
+
+## 2025-06-04 · Post · I currently hold the record for Cyfrin's longest audit report at 97 pages on a huge TradFi audit.
+
+
+### Post — @DevDacian — 2025-06-04 12:53 UTC (2025-06-04 13:53 WAT)
+
+- URL: https://x.com/DevDacian/status/1930246596601753968
+- Metrics (at fetch): not returned
+
+> I currently hold the record for Cyfrin's longest audit report at 97 pages on a huge TradFi audit.
+>
+> But our all-star team is close to beating my record with 3 days left, they've absolutely smashed this massive private audit!
+>
+> I'm rooting for them to beat my record!!! 🚀 [pic.x.com/X2yPrwaOdw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsmczS1asAAZA2F.png — no alt text provided by author
+
+
+---
+
+## 2025-06-04 · Post · I've experienced online market-places emerge & become dominant sources of work in other service-base
+
+
+### Post — @DevDacian — 2025-06-04 04:33 UTC (2025-06-04 05:33 WAT)
+
+- URL: https://x.com/DevDacian/status/1930120703220822442
+- Metrics (at fetch): not returned
+
+> I've experienced online market-places emerge & become dominant sources of work in other service-based industries. The major result was reduction in service provider margins with the majority of the work going to the most price-competitive offers.
+>
+> Will be interesting to see how this plays out! Of course Cyfrin is there as a whitelisted provider and our pricing is extremely competitive as the vast majority of our audit fee goes directly to the security output of our audits!
+>
+> Cyfrin is a great choice for every client looking for a competitive price which maximizes security output and provides great "brand name" value!
+
+**Links in post:** https://twitter.com/bernard_xyz/status/1929557073206853984
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1432993583032905732 — 2025-06-02 15:13 UTC (2025-06-02 16:13 WAT)
+    
+    - URL: https://x.com/1432993583032905732/status/1929557073206853984
+    - Metrics (at fetch): not returned
+    
+    > 1/ Together with @UniswapFND, we're introducing Areta Market 
+    > -> http://areta.market
+    >
+    > > Marketplace to connect builders to whitelisted auditors
+    > > Gives builders 10-12 service quotes per request and full price transparency
+    > > Reduces audit costs by 20–30% and shortens service times from weeks to days
+    >
+    > @Uniswap is Areta Market’s first home, and today, we’re excited to share the launch of the Uniswap Open Marketplace… 🧵
+    
+    **Media:**
+    - media `3_1929556262741504001` (details not returned by the API)
+    
+    **Links in post:** http://areta.market
+    
+
+
+---
+
+## 2025-06-03 · Post · Cyfrin's private audit repo has been updated to show each audit's "tech" or protocol type. Some inte
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-06-03 12:07 UTC (2025-06-03 13:07 WAT)
+
+- URL: https://x.com/DevDacian/status/1929872675113259448
+- Metrics (at fetch): not returned
+
+> Cyfrin's private audit repo has been updated to show each audit's "tech" or protocol type. Some interesting stats from our 64 publicly available reports:
+>
+> * 9 audits (14%) of Liquid Staking (LST) protocols with total 26 Crit/High findings -> avg 3.7 Crit/High per LST audit!
+>
+> * 13 audits (20%) of Vault protocols commonly but not exclusively ERC-4626, with total 34 Crit/High -> avg 2.6 Crit/High per vault audit!
+>
+> * 6 audits (9%) of Stablecoin protocols with total 19 Crit/High -> avg 3.16 Crit/High per Stablecoin audit!
+>
+> * 5 audits (8%) of Lending protocols with total 20 Crit/High -> avg 4 Crit/High per Lending audit!
+>
+> * 6 audits (9%) of DAO protocols with total 25 Crit/High -> avg 4.16 Crit/High per DAO audit!
+>
+> * 13 audits (20%) of DEX/AMM protocols with total 18 Crit/High findings -> avg 1.4 Crit/High per DEX/AMM audit! 
+>
+> * 15 audits (23%) of Cross-Chain protocols involving Wormhole, LayerZero, Chainlink CCIP & L2<->L1 with total 12 Crit/High findings; close to 1 Crit/High per audit! 5 of these audits were for Wormhole itself which were very tough audits!
+>
+> But honestly it feels like we're just getting started - the best is yet to come! 🚀
+
+
+---
+
+## 2025-05-29 · Post · Started new audit, read one of the most defensive & well-engineered contracts with invariant tests &
+
+
+### Post — @DevDacian — 2025-05-29 08:21 UTC (2025-05-29 09:21 WAT)
+
+- URL: https://x.com/DevDacian/status/1928003799408594961
+- Metrics (at fetch): not returned
+
+> Started new audit, read one of the most defensive & well-engineered contracts with invariant tests & certora formal verification!
+>
+> Had on-boarding call & dev said he reads my deep dives & learned tons from them!
+>
+> Makes me very happy to hear this, that the knowledge I freely share helps not only auditors to find vulns, but also devs to write really tight defensive code with amazing test suites!
+>
+> Very happy that he chose me for this audit, now I can double-check just how much he learned! 🚀
+
+
+---
+
+## 2025-05-28 · Post · You are the Cork Protocol hacker.
+
+
+### Post — @DevDacian — 2025-05-28 12:45 UTC (2025-05-28 13:45 WAT)
+
+- URL: https://x.com/DevDacian/status/1927707786877554709
+- Metrics (at fetch): not returned
+
+> You are the Cork Protocol hacker.
+>
+> You can execute the hack and steal $12M, or claim the bug bounty for $100K.
+>
+> $12M dirty or $100K clean?
+
+
+---
+
+## 2025-05-28 · Post · Wrapping up a quick 3-day audit featuring Vaults within Vaults within Vaults - ERC4626 composability
+
+
+### Post — @DevDacian — 2025-05-28 10:35 UTC (2025-05-28 11:35 WAT)
+
+- URL: https://x.com/DevDacian/status/1927674980700942342
+- Metrics (at fetch): not returned
+
+> Wrapping up a quick 3-day audit featuring Vaults within Vaults within Vaults - ERC4626 composability all the rage these days!
+>
+> Short audits always a challenge as there's little time but we pushed to deliver great value, significantly improving the security of this protocol! [pic.x.com/kGGONw92fA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsB5X5QWIAAHh8H.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-27 · Post · solution: switch to security - leverage all your knowledge to provide high quality smart contract au
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-05-27 13:33 UTC (2025-05-27 14:33 WAT)
+
+- URL: https://x.com/DevDacian/status/1927357412232564803
+- Metrics (at fetch): not returned
+
+> solution: switch to security - leverage all your knowledge to provide high quality smart contract audits and hit big $ bug bounties https://twitter.com/0xQTpie/status/1927188081007858152
+
+**Links in post:** https://twitter.com/0xQTpie/status/1927188081007858152
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1395794508000882694 — 2025-05-27 02:20 UTC (2025-05-27 03:20 WAT)
+    
+    - URL: https://x.com/1395794508000882694/status/1927188081007858152
+    - Metrics (at fetch): not returned
+    
+    > I am a 36 year old with a PhD in Mechanism Design. I am $450 k in debt and currently working two minimum wage jobs in order to stay alive. I work alongside 18 year olds and whenever they ask about my background I just tell them I’ve been in prison for a long time, which is less embarrassing than admitting the truth. I am probably the most well-informed token bonding curve theorist in the North American continent, perhaps in the world. My 1,500 line blog post on dynamic bonding curves has been rejected by dan white from paradigm several dozen times. No grant committee will take me on since they don’t think bonding curves are relevant, and that other proposals are therefore pushed to the head of the line. I have had 6 RFCs published in different EF repos, drafted multiple EIPs, and have the highest number of posts on the ethereum magicians forum, but have earned no ETH or recognition for having done so. I just moved to Zug, Switzerland since there is a fellowship opening at the Ethereum Foundation in Zurich and I decided to go all out in order to get it. But I’ve just found out that my application was rejected and now I’m stuck working at a local Wendy’s three shifts a week and ghost-writing DAO grant proposals the rest of the time. I have no wife, no children, and at this point no friends I’m willing to talk to due to the shameful nature of my existence.
+    
+
+
+---
+
+## 2025-05-24 · Post · The @CetusProtocol exploit appears to have been very simple; similar scenarios should be added to ev
+
+
+### Post — @DevDacian — 2025-05-24 00:54 UTC (2025-05-24 01:54 WAT)
+
+- URL: https://x.com/DevDacian/status/1926079220305817895
+- Metrics (at fetch): not returned
+
+> The @CetusProtocol exploit appears to have been very simple; similar scenarios should be added to every liquidity-related protocol test suite [pic.x.com/fux7IYiWMi] https://twitter.com/RektHQ/status/1925999356706013416
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrrOxOhWQAAcxHJ.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/RektHQ/status/1925999356706013416
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1297925400090337280 — 2025-05-23 19:36 UTC (2025-05-23 20:36 WAT)
+    
+    - URL: https://x.com/1297925400090337280/status/1925999356706013416
+    - Metrics (at fetch): not returned
+    
+    > $223 million from @CetusProtocol  through broken math. Sui validators froze $162M mid-heist. Over $60M walked across Wormhole and never looked back. Was it an exploit - or just the math working as written?
+    >  
+    > Story in comments... [pic.x.com/Vh14q5pr6W]
+    
+    **Media:**
+    - media `3_1925999322308489216` (details not returned by the API)
+    
+
+
+---
+
+## 2025-05-23 · Post · Wrapped up 8-day private audit with:
+
+
+### Post — @DevDacian — 2025-05-23 12:58 UTC (2025-05-23 13:58 WAT)
+
+- URL: https://x.com/DevDacian/status/1925899226648662106
+- Metrics (at fetch): not returned
+
+> Wrapped up 8-day private audit with:
+> * 2 Critical
+> * 2 Medium
+> * 15 Low, 13 Info, 16 Gas
+>
+> Found a bunch of Lows early & got the "shark" feeling, where I'm smelling blood & getting hungry thinking there has to be some juicy Crits.
+>
+> But couldn't find right place to sink my teeth in until late last night 1 day before the audit was due to finish when I got first Crit then second few hours after - huge relief to be honest, the sweet taste of blood and victory.
+>
+> One thing I did well again on this audit that I've done at times on previous audits is define protocol invariants: this really helps to give me valuable targets to aim for & when I do this I often end up breaking the invariants, in large part because I'm aiming to do so. Plus it also looks good on the report :-)
+>
+> Some auditors love bug bounty & others love contests, for me I really love private audits giving my best for every client to help them strengthen their code in every way possible ❤️🚀
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Groqdy5WgAAL8mE.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-22 · Post · My personal opinion is that most if not all current AI Auditor services are some form of grift or sc
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-05-22 10:30 UTC (2025-05-22 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1925499380968431765
+- Metrics (at fetch): not returned
+
+> My personal opinion is that most if not all current AI Auditor services are some form of grift or scam, often accompanied with very deceptive marketing about amazing findings that were or would be duped to hell in public audit contests.
+>
+> The only way to change my mind is for AI Auditor services to:
+>
+> 1) regularly find 80-90% of what a junior auditor can find, this way codebases can get efficient low-cost QA done prior to real audits. Such AI Auditor services should explicitly note that their services are QA/preparatory work prior to real audits; that they do not replace nor are equivalent to real audits
+>
+> 2) if they truly have some "intelligence", find the same (or ideally more) as the current "dumb" static analyzers but with drastically lower false positive rates. Even if they just wrap the static analyzers but use their "intelligence" to accurately filter out false positives, this would be a useful improvement
+>
+> 3) (holy grail) regularly find high-impact findings that no or few other auditors can find in public contests or bug bounties
+>
+> Until one of these 3 criteria is achieved, AI Auditors are mostly useless and should not be relied upon for security by any serious protocols, regardless of what their marketing might claim. The security pipeline for serious protocols remains the same: multiple audits by top firms, public competitive audit & bug bounty post deployment.
+>
+> That being said, the current AI Auditor services do have one valid use case - to enrich their teams and investors. AI Auditor grifts & scams are nothing new and have been very profitable for the people who run them; I present to you the chart of the OG AI Auditor from Jan 2023: "0x0 AI Smart Contract Auditor".
+>
+> If you had invested $10,000 into the OG AI Auditor at the mid-range price in the first 5 weeks, today you'd have ~$1,600,000 and at the peak ~$9,000,000! Yet where are all the amazing audit contest wins, epic bug bounties received & stacked private audit reports of this AI Auditor over the last ~2.5 years? Nowhere to be found!🤣🤣🤣
+>
+> So just because most if not all current AI Auditor services are scams and grifts, doesn't mean they won't be massively profitable especially for their early investors.
+>
+> And it also doesn't mean that in the future an actually useful AI Auditor service won't emerge; I do believe 1) and 2) will be achieved in the future which will have an overall positive impact on the security outcomes of our industry.
+>
+> If you are actively developing an AI Auditor service, my challenge to you is to develop 1) and 2) then conclusively prove it to the world - you'll make a ton of $ in a legitimate manner and genuinely help our industry.
+>
+> But please don't pretend with your marketing that the AI "Auditor" service you offer provides the same or better security outcomes than the existing security pipeline used by top protocols consisting of multiple audits by top firms + public competitive audit, because it doesn't.
+>
+> Your AI isn't catching what multiple top firms and competitive audits miss; if it was you'd have millions of dollars not from investor funding but from a fat stack of big $ contest wins & massive $ bug bounties.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gri8XfnbUAACvLT.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-21 · Post · Coding a protocol but not quite ready for audit?
+
+
+### Post — @DevDacian — 2025-05-21 10:30 UTC (2025-05-21 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1925136991768977534
+- Metrics (at fetch): not returned
+
+> Coding a protocol but not quite ready for audit?
+>
+> During active development is a great time to reach out for a quote as while analyzing your code I'll provide some free QA/Gas/Test suite advice.
+>
+> Fix all this while still doing dev, then bring your best code to us for audit! [pic.x.com/sYZcs2piJ9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrdL-4VbAAY9yUd.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-20 · Post · Our goal on every @cyfrin private audit is to maximize value for every client. This starts at the be
+
+
+### Post — @DevDacian — 2025-05-20 11:52 UTC (2025-05-20 12:52 WAT)
+
+- URL: https://x.com/DevDacian/status/1924795337195323665
+- Metrics (at fetch): not returned
+
+> Our goal on every @cyfrin private audit is to maximize value for every client. This starts at the beginning with auditor selection where I hand-pick the best-suited auditors for the needs of each particular client from our full-time staff and large pool of specialist "Eagle" contractors.
+>
+> In auditor selection I'm looking for auditors with proven skill & experience in the particular niche a client requires. Our auditors frequently have research weeks prior to taking on new clients, enabling them to go into audits prepared and ready to go!
+>
+> During the audit itself we are in frequent contact with the client; on longer audits at the end of each week we deliver a draft report with our findings so far. Clients love that we are in communication and can see that the audit is progressing, questions are being asked & answered, findings are being found.
+>
+> But we go beyond only findings and a professional report; our auditors deliver additional value by:
+>
+> 1⃣ Permissions model hardening - when auditing permissioned systems, we examine the purpose and scope of each permissioned entity seeking to harden the permissions model as much as possible
+>
+> 2⃣ Threat model analysis - we put ourselves in the shoes of various entities in the protocol, viewing the protocol through their eyes to see how each actor can potentially cause damage
+>
+> 3⃣ Protocol architecture analysis & advice - we study how the protocol currently fits together, and how that could be improved to increase the efficiency, readability and maintainability of the code
+>
+> 4⃣ Defining protocol & contract invariants, especially low-gas invariants which can be implement directly into the code - often we find ways to break the invariants we define, as defining them gives us valuable targets to aim for
+>
+> 5⃣ Test suite creation & enhancement - we often write tests including fuzzers to explore scenarios seeing how the protocol behaves in different states. These exploratory tests lead to bugs but the tests themselves have value and are delivered to clients as an additional extra
+>
+> 6⃣ Gas optimization - in seeking to understand the role of every single variable in the protocol, we frequently find variables that are redundant, identical storage reads. Sometimes in seeking to understand a function we'll re-write it to simplify it which also results in a more efficient implementation that goes into the report
+>
+> Our ultimate goal in every audit is to do everything possible to maximize value to the client; to leave no stone unturned, no path unexplored, doing our best every time for every client!
 
 
 ---

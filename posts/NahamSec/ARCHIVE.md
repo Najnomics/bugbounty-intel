@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 462
-- Conversations/threads: 446
+- Posts in this file: 487
+- Conversations/threads: 471
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
@@ -7928,7 +7928,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @NahamSec — 2022-08-18 19:54 UTC (2022-08-18 20:54 WAT)
 
 - URL: https://x.com/NahamSec/status/1560354354451734530
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 26, quote 0, reply 1, retweet 1
 
 > Just riding that "high" and motivation to look for more bugs has helped me find a few more high severity vulnerabilities. So if you are doing bug bounties and you hit a good month, don't be afraid to take a few days off and go back at it full time &amp;continue to build that momentum
 
@@ -7939,6 +7939,385 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): not returned
 
 > Just because this works for me, it doesn't mean that it'll also work for you. Just sharing what's helped me get out of a shitty rut of no decent bounty months for the last year or so.
+
+
+---
+
+## 2022-08-18 · Post · Building a momentum at the event and finding a new app/area of focus has also been extremely helpful
+
+
+### Post — @NahamSec — 2022-08-18 19:52 UTC (2022-08-18 20:52 WAT)
+
+- URL: https://x.com/NahamSec/status/1560354065489338368
+- Metrics (at fetch): bookmark 0, impression 0, like 29, quote 0, reply 2, retweet 1
+
+> Building a momentum at the event and finding a new app/area of focus has also been extremely helpful to ride that high and continue to look for more vulnerabilities.
+
+
+---
+
+## 2022-08-13 · Post · Heading to recon village. Come say hi!
+
+
+### Post — @NahamSec — 2022-08-13 16:01 UTC (2022-08-13 17:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1558483900095086592
+- Metrics (at fetch): bookmark 0, impression 0, like 71, quote 0, reply 3, retweet 1
+
+> Heading to recon village. Come say hi!
+
+
+---
+
+## 2022-08-09 · Post · Can’t wait to kick off and host @Bugcrowd’s bug bash today! 🙈
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2022-08-09 15:00 UTC (2022-08-09 16:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1557018866923995136
+- Metrics (at fetch): bookmark 0, impression 0, like 169, quote 0, reply 4, retweet 4
+
+> Can’t wait to kick off and host @Bugcrowd’s bug bash today! 🙈
+
+
+---
+
+## 2022-08-01 · Post · Can someone explain bug bounties in fortnite or warzone terms for me?
+
+
+### Post — @NahamSec — 2022-08-01 19:04 UTC (2022-08-01 20:04 WAT)
+
+- URL: https://x.com/NahamSec/status/1554181297672622081
+- Metrics (at fetch): bookmark 2, impression 0, like 49, quote 0, reply 4, retweet 1
+
+> Can someone explain bug bounties in fortnite or warzone terms for me?
+
+
+---
+
+## 2022-08-01 · Post · Check out this week's episode of Live Recon, where @Jhaddix and I chatted with @snyff to learn about
+
+
+### Post — @NahamSec — 2022-08-01 14:52 UTC (2022-08-01 15:52 WAT)
+
+- URL: https://x.com/NahamSec/status/1554117749558870017
+- Metrics (at fetch): bookmark 12, impression 0, like 153, quote 1, reply 1, retweet 27
+
+> Check out this week's episode of Live Recon, where @Jhaddix and I chatted with @snyff to learn about his background and how/why @PentesterLab was created! 
+>
+> https://t.co/Lx75KovRcM
+>
+> Enjoy!
+
+
+---
+
+## 2022-07-24 · Post · I think I’m going to pause live recon until after defcon. I may stream randomly for fun but without 
+
+
+### Post — @NahamSec — 2022-07-24 17:53 UTC (2022-07-24 18:53 WAT)
+
+- URL: https://x.com/NahamSec/status/1551264405676888064
+- Metrics (at fetch): bookmark 0, impression 0, like 69, quote 0, reply 1, retweet 1
+
+> I think I’m going to pause live recon until after defcon. I may stream randomly for fun but without a schedule. :)
+
+
+---
+
+## 2022-07-18 · Post · Certificate Transparency plays a huge role in External Attack Surface Management (EASM). This episod
+
+
+### Post — @NahamSec — 2022-07-18 13:53 UTC (2022-07-18 14:53 WAT)
+
+- URL: https://x.com/NahamSec/status/1549029471507947521
+- Metrics (at fetch): bookmark 15, impression 0, like 118, quote 1, reply 1, retweet 20
+
+> Certificate Transparency plays a huge role in External Attack Surface Management (EASM). This episode of the ASM series is dedicated to Cert. Transparency: What is it, how to use use it, &amp; a real life example using the @TheParanoids' bug bounty program!  
+>
+> https://t.co/CVrh1AtldV https://t.co/zscGa50aqn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FX7GRMNWIAEBlu9.png — no alt text provided by author
+
+
+---
+
+## 2022-07-17 · Post · I brought my gear on my trip to stream but my flight was so delayed that I’m exhausted. So no live r
+
+
+### Post — @NahamSec — 2022-07-17 17:19 UTC (2022-07-17 18:19 WAT)
+
+- URL: https://x.com/NahamSec/status/1548719000494002184
+- Metrics (at fetch): bookmark 1, impression 0, like 61, quote 0, reply 0, retweet 0
+
+> I brought my gear on my trip to stream but my flight was so delayed that I’m exhausted. So no live recon until next week.
+
+
+---
+
+## 2022-07-14 · Post · Three years ago today is when I started streaming on twitch and kicked off live recon. Time flies!
+
+
+### Post — @NahamSec — 2022-07-14 18:20 UTC (2022-07-14 19:20 WAT)
+
+- URL: https://x.com/NahamSec/status/1547647198606741504
+- Metrics (at fetch): bookmark 0, impression 0, like 115, quote 0, reply 5, retweet 1
+
+> Three years ago today is when I started streaming on twitch and kicked off live recon. Time flies!
+
+
+---
+
+## 2022-07-10 · Post · Bug bounty programs: please only test the in scope assets and don’t go out of scope 
+
+
+### Post — @NahamSec — 2022-07-10 08:55 UTC (2022-07-10 09:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1546055427594473473
+- Metrics (at fetch): bookmark 0, impression 0, like 89, quote 0, reply 2, retweet 3
+
+> Bug bounty programs: please only test the in scope assets and don’t go out of scope 
+>
+> Bug bounty hunters: https://t.co/H5IjeRnZH5
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2022-07-08 · Post · Excited to have @PhillipWylie on this week's Live Recon stream with @Jhaddix and @Farah_Hawaa! https
+
+
+### Post — @NahamSec — 2022-07-08 20:14 UTC (2022-07-08 21:14 WAT)
+
+- URL: https://x.com/NahamSec/status/1545501724105777152
+- Metrics (at fetch): bookmark 2, impression 0, like 115, quote 3, reply 2, retweet 15
+
+> Excited to have @PhillipWylie on this week's Live Recon stream with @Jhaddix and @Farah_Hawaa! https://t.co/0aN5pTDhZp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FXK5nJQUsAEe9_T.jpg — no alt text provided by author
+
+
+---
+
+## 2022-07-03 · Post · Today's episode of Live Recon will not have a guest, but me and @Jhaddix will be going live to do so
+
+
+### Post — @NahamSec — 2022-07-03 15:34 UTC (2022-07-03 16:34 WAT)
+
+- URL: https://x.com/NahamSec/status/1543619071215796224
+- Metrics (at fetch): bookmark 1, impression 0, like 115, quote 1, reply 4, retweet 14
+
+> Today's episode of Live Recon will not have a guest, but me and @Jhaddix will be going live to do some recon together. Maybe we'll even let you pick the target ;) who knows! Live in at 11:30 AM PT! https://t.co/IvtDY7VFHN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWuQD3GUsAAh4Cb.jpg — no alt text provided by author
+
+
+---
+
+## 2022-06-30 · Post · Not shit, bro. I was the top hacker on your bug bounty program but I wanna go back to using your sit
+
+
+### Post — @NahamSec — 2022-06-30 18:07 UTC (2022-06-30 19:07 WAT)
+
+- URL: https://x.com/NahamSec/status/1542570482511142912
+- Metrics (at fetch): bookmark 7, impression 0, like 155, quote 2, reply 8, retweet 2
+
+> Not shit, bro. I was the top hacker on your bug bounty program but I wanna go back to using your site like a normal person and live my life. Please help :( @Airbnb https://t.co/oIVRGU6e40
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWhPkRHUUAEoiSM.png — no alt text provided by author
+
+
+---
+
+## 2022-06-27 · Post · With how important Attack Surface Management (ASM) has become, I've decided to launch a new series w
+
+
+### Post — @NahamSec — 2022-06-27 14:52 UTC (2022-06-27 15:52 WAT)
+
+- URL: https://x.com/NahamSec/status/1541434174661206016
+- Metrics (at fetch): bookmark 25, impression 0, like 146, quote 1, reply 3, retweet 24
+
+> With how important Attack Surface Management (ASM) has become, I've decided to launch a new series where I talk about and explain different ASM and recon methods in under 10 minutes.
+>
+> EP0 of ASM series is focused on the basics of ASM. Enjoy! 
+>
+> https://t.co/Y4trf8qKE3
+
+
+---
+
+## 2022-06-26 · Post · I haven't done this in a while, but my bug bounty course is free for the next hour or so. 
+
+
+### Post — @NahamSec — 2022-06-26 19:21 UTC (2022-06-26 20:21 WAT)
+
+- URL: https://x.com/NahamSec/status/1541139659677257728
+- Metrics (at fetch): bookmark 66, impression 0, like 557, quote 6, reply 43, retweet 104
+
+> I haven't done this in a while, but my bug bounty course is free for the next hour or so. 
+>
+> Use code "JUNE2022" to get it! https://t.co/X0vKs8gLOO
+
+
+---
+
+## 2022-06-25 · Post · Can’t wait to have @Rhynorater on this week’s episode of Live Recon! I also have a brand new cohost 
+
+
+### Post — @NahamSec — 2022-06-25 14:32 UTC (2022-06-25 15:32 WAT)
+
+- URL: https://x.com/NahamSec/status/1540704366025269251
+- Metrics (at fetch): bookmark 2, impression 0, like 134, quote 1, reply 5, retweet 14
+
+> Can’t wait to have @Rhynorater on this week’s episode of Live Recon! I also have a brand new cohost joining me. Can you guess who it is? https://t.co/RWZfF9boQ3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWEJkYOUUAEi0pv.jpg — no alt text provided by author
+
+
+---
+
+## 2022-06-24 · Post · He's a 10 but still DMs me "HoW tO gEt StArTeD iN bUg BouNtiEs"
+
+
+### Post — @NahamSec — 2022-06-24 17:04 UTC (2022-06-24 18:04 WAT)
+
+- URL: https://x.com/NahamSec/status/1540380336139280384
+- Metrics (at fetch): bookmark 0, impression 0, like 115, quote 0, reply 7, retweet 3
+
+> He's a 10 but still DMs me "HoW tO gEt StArTeD iN bUg BouNtiEs"
+
+
+---
+
+## 2022-06-23 · Post · Should I start a "External Attack Surface Management x Recon" in 10 minutes or less series? 🤔
+
+
+### Post — @NahamSec — 2022-06-23 04:32 UTC (2022-06-23 05:32 WAT)
+
+- URL: https://x.com/NahamSec/status/1539828662307999744
+- Metrics (at fetch): bookmark 4, impression 0, like 177, quote 0, reply 12, retweet 1
+
+> Should I start a "External Attack Surface Management x Recon" in 10 minutes or less series? 🤔
+
+
+---
+
+## 2022-06-19 · Post · About to interview @hAPI_hacker on Live Recon in a few minutes! Let's goooo https://t.co/eNqTIG7rdf
+
+
+### Post — @NahamSec — 2022-06-19 18:33 UTC (2022-06-19 19:33 WAT)
+
+- URL: https://x.com/NahamSec/status/1538590931049336832
+- Metrics (at fetch): bookmark 1, impression 0, like 55, quote 0, reply 2, retweet 5
+
+> About to interview @hAPI_hacker on Live Recon in a few minutes! Let's goooo https://t.co/eNqTIG7rdf
+
+
+---
+
+## 2022-06-13 · Post · Spent 2 hours on this app trying to figure out how to XSS this parameter without = ( and ). Realized
+
+
+Tags (automatic): XSS
+
+
+### Post — @NahamSec — 2022-06-13 05:47 UTC (2022-06-13 06:47 WAT)
+
+- URL: https://x.com/NahamSec/status/1536223609554841600
+- Metrics (at fetch): bookmark 36, impression 0, like 246, quote 0, reply 8, retweet 11
+
+> Spent 2 hours on this app trying to figure out how to XSS this parameter without = ( and ). Realized I'm over thinking it... &lt;script&gt;alert``&lt;/script&gt; did the trick. Why do I overcomplicate things?
+
+
+---
+
+## 2022-06-12 · Post · I’m thinking about reviewing some recon frameworks during my stream tomorrow. Which ones would you l
+
+
+### Post — @NahamSec — 2022-06-12 06:41 UTC (2022-06-12 07:41 WAT)
+
+- URL: https://x.com/NahamSec/status/1535874990322528256
+- Metrics (at fetch): bookmark 15, impression 0, like 129, quote 1, reply 17, retweet 4
+
+> I’m thinking about reviewing some recon frameworks during my stream tomorrow. Which ones would you like to see?
+
+
+---
+
+## 2022-06-04 · Post · I would love to see the number of confluence queries on Shodan and the number reports on HackerOne f
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2022-06-04 01:38 UTC (2022-06-04 02:38 WAT)
+
+- URL: https://x.com/NahamSec/status/1532899536196100096
+- Metrics (at fetch): bookmark 0, impression 0, like 88, quote 0, reply 5, retweet 5
+
+> I would love to see the number of confluence queries on Shodan and the number reports on HackerOne for the next 72 hours.
+
+
+---
+
+## 2022-06-01 · Post · I'm really surprised that bug bounty programs aren't mimicking what streaming platforms do and sign 
+
+
+### Post — @NahamSec — 2022-06-01 18:07 UTC (2022-06-01 19:07 WAT)
+
+- URL: https://x.com/NahamSec/status/1532061202695585793
+- Metrics (at fetch): bookmark 2, impression 0, like 172, quote 0, reply 7, retweet 2
+
+> I'm really surprised that bug bounty programs aren't mimicking what streaming platforms do and sign hackers to hack on them exclusively. 🤷‍♂️
+
+
+---
+
+## 2022-05-31 · Post · Check out @zseano's talk "Finding XSS on https://t.co/KPHgdiENi8 and building a proof of concept to 
+
+
+Tags (automatic): XSS
+
+
+### Post — @NahamSec — 2022-05-31 13:22 UTC (2022-05-31 14:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1531627052792545281
+- Metrics (at fetch): bookmark 42, impression 0, like 143, quote 0, reply 4, retweet 43
+
+> Check out @zseano's talk "Finding XSS on https://t.co/KPHgdiENi8 and building a proof of concept to leak your PII" from #NahamCon2022! 
+>
+> https://t.co/FR8pYewDGP
+>
+> Looking for the rest of the talks? Check out the NahamCon2022 playlist on @YouTube! 
+>
+> https://t.co/cUa0St7CJK
+
+
+---
+
+## 2022-05-29 · Post · There will not be an interview on today’s Live Recon stream but i wanna hack some stuff. Who should 
+
+
+### Post — @NahamSec — 2022-05-29 17:30 UTC (2022-05-29 18:30 WAT)
+
+- URL: https://x.com/NahamSec/status/1530964687830913024
+- Metrics (at fetch): bookmark 0, impression 0, like 64, quote 1, reply 10, retweet 1
+
+> There will not be an interview on today’s Live Recon stream but i wanna hack some stuff. Who should we hack? 
+>
+> Going live in an hour. 
+>
+> https://t.co/zR0azHNvet
 
 
 ---

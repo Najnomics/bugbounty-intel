@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 74
-- Conversations/threads: 64
+- Posts in this file: 81
+- Conversations/threads: 71
 - Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
@@ -1188,6 +1188,134 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 8, impression 4487, like 57, quote 0, reply 0, retweet 5
 
 > For the Sydney bug bounty community: we're holding our second bug bounty meetup at UTS on Sept 6th (Friday) from 7PM to 8PM. RSVP here: https://t.co/TmXnAi21vD
+
+
+---
+
+## 2024-07-11 · Post · Our security researcher @hash_kitten found one of the most critical exploit chains in the history of
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @infosec_au — 2024-07-11 03:52 UTC (2024-07-11 04:52 WAT)
+
+- URL: https://x.com/infosec_au/status/1811247202989424735
+- Metrics (at fetch): bookmark 299, impression 73728, like 786, quote 15, reply 15, retweet 218
+
+> Our security researcher @hash_kitten found one of the most critical exploit chains in the history of @assetnote. Affecting 40k+ instances of ServiceNow, we could  execute arbitrary code, access all data without authentication. You can read our blog here: https://t.co/2yTgn1NzhY https://t.co/vcgSjvwyee
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSLXos-b0AA2xJo.png — no alt text provided by author
+
+
+---
+
+## 2024-07-10 · Post · I'm hosting an in-person bug bounty meetup in Sydney at UNSW, and you can RSVP here: 
+
+
+### Post — @infosec_au — 2024-07-10 10:10 UTC (2024-07-10 11:10 WAT)
+
+- URL: https://x.com/infosec_au/status/1810979998607757476
+- Metrics (at fetch): bookmark 6, impression 7329, like 77, quote 0, reply 1, retweet 8
+
+> I'm hosting an in-person bug bounty meetup in Sydney at UNSW, and you can RSVP here: 
+>
+> https://t.co/z8Q1pZ5oga
+>
+> I hope anyone in Sydney who is interested in bounties can make it. :) I'll be presenting and answering questions on hacking on bug bounties for the last ten years.
+
+
+---
+
+## 2024-06-26 · Post · At @assetnote, we published our research on Magento's pre-authentication XXE (CVE-2024-34102). @hash
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infosec_au — 2024-06-26 09:15 UTC (2024-06-26 10:15 WAT)
+
+- URL: https://x.com/infosec_au/status/1805892563012026788
+- Metrics (at fetch): bookmark 135, impression 31609, like 407, quote 4, reply 3, retweet 131
+
+> At @assetnote, we published our research on Magento's pre-authentication XXE (CVE-2024-34102). @hash_kitten and I reproduced this issue together. It is a brilliant vulnerability originally found by Sergey Temnikov. You can read our research here: https://t.co/wENjzVSAYh https://t.co/Y0PyuKQIgu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQ_RtUPbUAALvIM.png — no alt text provided by author
+
+
+---
+
+## 2024-05-25 · Post · If you missed the talk on WAF bypass at NahamCon, you can watch it here :) 
+
+
+### Post — @infosec_au — 2024-05-25 17:05 UTC (2024-05-25 18:05 WAT)
+
+- URL: https://x.com/infosec_au/status/1794414615889424491
+- Metrics (at fetch): bookmark 146, impression 51734, like 341, quote 7, reply 11, retweet 80
+
+> If you missed the talk on WAF bypass at NahamCon, you can watch it here :) 
+>
+> https://t.co/eNXrbyzr6V
+
+
+---
+
+## 2024-05-10 · Post · I just finished recording my talk for NahamCon2024. If you're frustrated with WAFs, definitely chec
+
+
+### Post — @infosec_au — 2024-05-10 08:17 UTC (2024-05-10 09:17 WAT)
+
+- URL: https://x.com/infosec_au/status/1788845817966829784
+- Metrics (at fetch): bookmark 26, impression 13452, like 227, quote 0, reply 4, retweet 13
+
+> I just finished recording my talk for #NahamCon2024. If you're frustrated with WAFs, definitely check it out on May 24th. I'm looking forward to any feedback from the community. This presentation aims to be very practical for the bug bounty community. https://t.co/33sUfODYVu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNNBj7ZbUAA6TC5.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-09 · Post · My colleague @hash_kitten and I discovered a full-read SSRF vulnerability in Next.js (CVE-2024-34351
+
+
+Tags (automatic): SSRF
+
+
+### Post — @infosec_au — 2024-05-09 22:35 UTC (2024-05-09 23:35 WAT)
+
+- URL: https://x.com/infosec_au/status/1788699454834434159
+- Metrics (at fetch): bookmark 281, impression 95704, like 776, quote 8, reply 16, retweet 181
+
+> My colleague @hash_kitten and I discovered a full-read SSRF vulnerability in Next.js (CVE-2024-34351). We published our research today on @assetnote's blog: https://t.co/pUXGG64B0O. Thank you to the Vercel team for a smooth disclosure process. https://t.co/HXp8PXGJBh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNK8VyWXQAAa8Dh.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-17 · Post · Great post from the Rapid7 team with a detailed analysis of the most recent PAN-OS critical bug. htt
+
+
+### Post — @infosec_au — 2024-04-17 05:01 UTC (2024-04-17 06:01 WAT)
+
+- URL: https://x.com/infosec_au/status/1780461440781910195
+- Metrics (at fetch): bookmark 7, impression 7255, like 49, quote 0, reply 0, retweet 6
+
+> Great post from the Rapid7 team with a detailed analysis of the most recent PAN-OS critical bug. https://t.co/SlCcHyBcgx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @202753454 — 2024-04-16 19:29 UTC (2024-04-16 20:29 WAT)
+    
+    - URL: https://x.com/202753454/status/1780317491052335324
+    - Metrics (at fetch): bookmark 82, impression 91305, like 242, quote 9, reply 3, retweet 91
+    
+    > Full @rapid7 analysis of PAN-OS CVE-2024-3400 now available from @stephenfewer and our stellar new research teammate @ChairNectar! Spoiler: It's a two-vuln exploit chain. https://t.co/KT2Xd7vyE5
+    
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 88
-- Conversations/threads: 76
-- Oldest post captured: 2025-08-26
+- Posts in this file: 89
+- Conversations/threads: 77
+- Oldest post captured: 2025-07-24
 - Newest post captured: 2026-11-09
 
 
@@ -1468,3 +1468,24 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/GzRwrQ9XIAAJmqn.jpg — alt text: "<div style='--val: attr(data-uid); --steal: if(style(--val:"1"): url(/1); else: if(style(--val:"2"): url(/2); else: if(style(--val:"3"): url(/3); else: if(style(--val:"4"): url(/4); else: url(/5))))); background: image-set(var(--steal));' data-userid="3">"
 
 **Links in post:** http://portswigger.net/research/inline-style-exfiltration
+
+
+---
+
+## 2025-07-24 · Post · Is your target leaking CSP violations left and right? Mikhail Khramenkov reveals how to hijack the o
+
+
+Tags (automatic): XSS, CSP / CSPT
+
+
+### Post — @garethheyes — 2025-07-24 14:25 UTC (2025-07-24 15:25 WAT)
+
+- URL: https://x.com/garethheyes/status/1948388992908419221
+- Metrics (at fetch): bookmark 76, impression 7977, like 111, quote 1, reply 4, retweet 21
+
+> Is your target leaking CSP violations left and right? Mikhail Khramenkov reveals how to hijack the onsecuritypolicyviolation event to trigger JS in hidden inputs - when unsafe-inline is in play and styles are blocked. Now live on our XSS cheat sheet.
+>
+> Link to vector👇 https://t.co/ujyZ6klvXB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwoNGt4WgAAu__S.jpg — alt text: "<input style=x type="hidden" onsecuritypolicyviolation="alert(1)">"

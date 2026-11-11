@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 105
-- Conversations/threads: 94
-- Oldest post captured: 2024-08-22
+- Posts in this file: 113
+- Conversations/threads: 102
+- Oldest post captured: 2024-04-25
 - Newest post captured: 2026-11-10
 
 
@@ -2151,3 +2151,166 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2024-06-26 · Post · The Polyfill[.]io backdoor is wild! from what I read all over on Twitter the person who was in charg
+
+
+### Post — @galnagli — 2024-06-26 22:43 UTC (2024-06-26 23:43 WAT)
+
+- URL: https://x.com/galnagli/status/1806095911405371739
+- Metrics (at fetch): bookmark 130, impression 31960, like 267, quote 2, reply 8, retweet 60
+
+> The Polyfill[.]io backdoor is wild! from what I read all over on Twitter the person who was in charge of the domain sold it to rogue actors back in February and ever since it served as backdoor to hundreds of thousands major websites that had it referenced within a script tag, https://t.co/C6rcA5zwRI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRCKQIlWIAAnlaZ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GRCKYb0XMAAx65w.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-26 · Post · The Polyfill[.]io backdoor is wild! from what I read all over on Twitter the person who was in charg
+
+
+### Post — @galnagli — 2024-06-26 22:42 UTC (2024-06-26 23:42 WAT)
+
+- URL: https://x.com/galnagli/status/1806095798452814121
+- Metrics (at fetch): bookmark 0, impression 114, like 0, quote 0, reply 0, retweet 0
+
+> The Polyfill[.]io backdoor is wild! from what I read all over on Twitter the person who was in charge of the domain sold it to rogue actors back in February and ever since it served as backdoor to hundreds of thousands major websites that had it referenced within a script tag, https://t.co/ivROiEHgNq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRCKQIlWIAAnlaZ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GRCKYb0XMAAx65w.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-26 · Post · The Polyfill[.]io backdoor is wild! from what I read all over on Twitter the person who was in charg
+
+
+### Post — @galnagli — 2024-06-26 22:42 UTC (2024-06-26 23:42 WAT)
+
+- URL: https://x.com/galnagli/status/1806095704697258194
+- Metrics (at fetch): bookmark 0, impression 83, like 0, quote 0, reply 0, retweet 0
+
+> The Polyfill[.]io backdoor is wild! from what I read all over on Twitter the person who was in charge of the domain sold it to rogue actors back in February and ever since it served as backdoor to hundreds of website that had it referenced within a script tag, pretty wild https://t.co/uExVV7A0fV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GRCKQIlWIAAnlaZ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GRCKYb0XMAAx65w.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-17 · Post · Just got awarded the prestigious P1 Warrior Belt by @Bugcrowd for submitting over 100 valid critical
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @galnagli — 2024-06-17 15:28 UTC (2024-06-17 16:28 WAT)
+
+- URL: https://x.com/galnagli/status/1802725028967969217
+- Metrics (at fetch): bookmark 80, impression 43681, like 595, quote 1, reply 32, retweet 13
+
+> Just got awarded the prestigious P1 Warrior Belt by @Bugcrowd for submitting over 100 valid critical submissions to companies on their platform, manually and using https://t.co/B3ho4sTwFC automation engine.
+>
+> Among the companies that I worked with to remediate critical, https://t.co/kwQjdewIk5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQSQc_sXgAE5QBU.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GQSQc_2WUAAECzf.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-31 · Post · The new @Hacker0x01 policy around CVE reports is concerning, especially for High &amp; Critical ones
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2024-05-31 11:59 UTC (2024-05-31 12:59 WAT)
+
+- URL: https://x.com/galnagli/status/1796511706664796381
+- Metrics (at fetch): bookmark 73, impression 59400, like 225, quote 5, reply 15, retweet 22
+
+> The new @Hacker0x01 policy around CVE reports is concerning, especially for High &amp; Critical ones, as it potentially keeps hundreds of their customers vulnerable to critical ransomware-leading risks by withholding information as they are automatically being set as "Informative." https://t.co/D2P8EIrzs6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GO55ks-WMAAFT_8.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO55uswXUAA_oM0.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO55yyiWAAAiGg_.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO555p1WoAAOdLg.png — no alt text provided by author
+
+
+---
+
+## 2024-05-31 · Post · The new @Hacker0x01 policy around CVE reports is concerning, especially for High &amp; Critical ones
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2024-05-31 11:56 UTC (2024-05-31 12:56 WAT)
+
+- URL: https://x.com/galnagli/status/1796511059143962906
+- Metrics (at fetch): bookmark 0, impression 275, like 1, quote 0, reply 0, retweet 0
+
+> The new @Hacker0x01 policy around CVE reports is concerning, especially for High &amp; Critical ones, as it potentially keeps hundreds of their customers vulnerable to critical ransomware-leading risks by withholding information as they are automatically being set as "Informative." https://t.co/QllWbFFQy1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GO55ks-WMAAFT_8.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO55uswXUAA_oM0.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO55yyiWAAAiGg_.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO555p1WoAAOdLg.png — no alt text provided by author
+
+
+---
+
+## 2024-05-31 · Post · The new @Hacker0x01 policy around CVE reports is concerning, especially for High &amp; Critical ones
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2024-05-31 11:54 UTC (2024-05-31 12:54 WAT)
+
+- URL: https://x.com/galnagli/status/1796510564685955256
+- Metrics (at fetch): bookmark 0, impression 281, like 1, quote 0, reply 0, retweet 0
+
+> The new @Hacker0x01 policy around CVE reports is concerning, especially for High &amp; Critical ones, as it potentially keeps hundreds of their customers vulnerable to critical ransomware-leading risks by withholding information as their are automatically being set as "Informative." https://t.co/NMifBHOleE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GO55ks-WMAAFT_8.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO55uswXUAA_oM0.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO55yyiWAAAiGg_.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GO555p1WoAAOdLg.png — no alt text provided by author
+
+
+---
+
+## 2024-04-25 · Post · Officially Top 5 All-Time on @Hacker0x01's Leaderboard following a 10G💰 bounty from a public program
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2024-04-25 23:31 UTC (2024-04-26 00:31 WAT)
+
+- URL: https://x.com/galnagli/status/1783639983552700473
+- Metrics (at fetch): bookmark 38, impression 26067, like 320, quote 0, reply 13, retweet 5
+
+> Officially Top 5 All-Time on @Hacker0x01's Leaderboard following a 10G💰 bounty from a public program 🤠 
+>
+> https://t.co/Im13roe0Mu
+>
+> #BugBounty https://t.co/R2j2HtH5TZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMDDDBOXcAA9pln.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GMDCY_oXEAEFnW1.png — no alt text provided by author

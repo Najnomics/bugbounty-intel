@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 56
+- Posts in this file: 66
+- Conversations/threads: 60
 - Oldest post captured: 2021-03-04
 - Newest post captured: 2026-11-09
 
@@ -1065,6 +1065,84 @@ Tags (automatic): AI-assisted hunting
 > wow... great finds. good writeup, worth a read! :) and if you've ever been to burgerking drivethru,  AI is analyzing your convos ;D https://web.archive.org/web/20250906150322/https://bobdahacker.com/blog/rbi-hacked-drive-thrus/
 
 **Links in post:** https://web.archive.org/web/20250906150322/https://bobdahacker.com/blog/rbi-hacked-drive-thrus/
+
+
+---
+
+## 2025-08-08 · Post · XBOW has changed the bug bounty game tbh.. shits gonna get wild over the next few years! i can see l
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zseano — 2025-08-08 00:01 UTC (2025-08-08 01:01 WAT)
+
+- URL: https://x.com/zseano/status/1953607420682379397
+- Metrics (at fetch): bookmark 47, impression 17941, like 190, quote 1, reply 6, retweet 5
+
+> XBOW has changed the bug bounty game tbh.. shits gonna get wild over the next few years! i can see lots of people having their own AI agents (I bet people are building one right now). kudos to them for being transparent on everything :) https://t.co/ISray7yLEH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @6224962 — 2025-08-07 19:51 UTC (2025-08-07 20:51 WAT)
+    
+    - URL: https://x.com/6224962/status/1953544562154385743
+    - Metrics (at fetch): bookmark 52, impression 35461, like 118, quote 4, reply 3, retweet 7
+    
+    > Last chance to see XBOW’s demo at #BlackHat. (1/3)
+    >
+    > Launch a comprehensive pentest in just 3 clicks.
+    >
+    > Every finding comes with a proof-of-concept exploit. https://t.co/IriGketkov
+    
+    **Media:**
+    - media `3_1953544356276948992` (details not returned by the API)
+    
+
+
+---
+
+## 2025-08-01 · Post · how to tell if someone does bug bounties: https://t.co/GJ7EvOvtYe
+
+
+### Post — @zseano — 2025-08-01 19:09 UTC (2025-08-01 20:09 WAT)
+
+- URL: https://x.com/zseano/status/1951359659186725014
+- Metrics (at fetch): bookmark 3, impression 6642, like 116, quote 0, reply 5, retweet 3
+
+> how to tell if someone does bug bounties: https://t.co/GJ7EvOvtYe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GxSfCb4WYAAnz9L.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-28 · Post · i have a big love hate relationship when it comes to bug bounties. i love it but i also fucking hate
+
+
+### Post — @zseano — 2025-07-28 22:45 UTC (2025-07-28 23:45 WAT)
+
+- URL: https://x.com/zseano/status/1949964441488937263
+- Metrics (at fetch): bookmark 15, impression 20313, like 253, quote 4, reply 16, retweet 11
+
+> i have a big love hate relationship when it comes to bug bounties. i love it but i also fucking hate it
+
+
+---
+
+## 2025-07-23 · Post · don't forget to add into every report: "Don't bother reading the report, just triage it, pay max bou
+
+
+### Post — @zseano — 2025-07-23 12:14 UTC (2025-07-23 13:14 WAT)
+
+- URL: https://x.com/zseano/status/1947993789894721595
+- Metrics (at fetch): bookmark 45, impression 17675, like 269, quote 0, reply 15, retweet 16
+
+> don't forget to add into every report: "Don't bother reading the report, just triage it, pay max bounty and then move onto the next report" https://t.co/aBDEQLdM3B
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwiptpWW0AEfYca.jpg — no alt text provided by author
 
 
 ---

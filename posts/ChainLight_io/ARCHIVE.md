@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 453
-- Conversations/threads: 232
+- Posts in this file: 479
+- Conversations/threads: 240
 - Oldest post captured: 2023-11-02
 - Newest post captured: 2025-04-21
 
@@ -10425,10 +10425,25 @@ Tags (automatic): ZK
 > (1/8) [pic.x.com/DOSYbET29G]
 
 **Media:**
-- media `7_1754535598126489600` (details not returned by the API)
+- video:  — no alt text provided by author
 
 
 ### Thread part 2 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535622235349500
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ Abracadabra Finance Loses $6.4M
+> 2️⃣ $113M Exploited From Ripple Co-founder's Wallet
+> 3️⃣ LFG Exchange Uploads Fake Audit Reports
+> 4️⃣ - 5️⃣ Security Concerns Around Binance
+>
+> (2/8)
+
+
+### Thread part 3 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1754535625662115875
 - Metrics (at fetch): not returned
@@ -10442,10 +10457,24 @@ Tags (automatic): ZK
 
 **Links in post:** https://twitter.com/MIM_Spell/status/1752286636740579440
 
-**Quoted post** 1752286636740579440: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1389649651540836354 — 2024-01-30 11:04 UTC (2024-01-30 12:04 WAT)
+    
+    - URL: https://x.com/1389649651540836354/status/1752286636740579440
+    - Metrics (at fetch): not returned
+    
+    > We are aware of an exploit involving certain cauldrons on Ethereum.
+    >
+    > Our engineering team is triaging and investigating the situation.
+    >
+    > To the best of its Ability, the DAO treasury will be buying back MIM from the market to then burn.
+    >
+    > More updates are coming.
+    
 
 
-### Thread part 3 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+### Thread part 4 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1754535629281710479
 - Metrics (at fetch): not returned
@@ -10479,7 +10508,7 @@ Tags (automatic): ZK
     
 
 
-### Thread part 4 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+### Thread part 5 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1754535633325044098
 - Metrics (at fetch): not returned
@@ -10509,7 +10538,7 @@ Tags (automatic): ZK
     
 
 
-### Thread part 5 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+### Thread part 6 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1754535637179580919
 - Metrics (at fetch): not returned
@@ -10542,7 +10571,7 @@ Tags (automatic): ZK
     
 
 
-### Thread part 6 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+### Thread part 7 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1754535641063551082
 - Metrics (at fetch): not returned
@@ -10572,7 +10601,7 @@ Tags (automatic): ZK
     
 
 
-### Thread part 7 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+### Thread part 8 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1754535644737790202
 - Metrics (at fetch): not returned
@@ -10603,8 +10632,788 @@ Tags (automatic): ZK
     > (1/8) [pic.x.com/DOSYbET29G]
     
     **Media:**
-    - media `7_1754535598126489600` (details not returned by the API)
+    - video:  — no alt text provided by author
     
+
+
+---
+
+## 2024-02-01 · Thread · We are thrilled to announce that we are releasing a Remastered version of our 155-page internal rese
+
+
+### Post — @ChainLight_io — 2024-02-01 15:16 UTC (2024-02-01 16:16 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1753074742477955171
+- Metrics (at fetch): not returned
+
+> We are thrilled to announce that we are releasing a Remastered version of our 155-page internal research to the public.
+>
+> This time,  security firms, researchers, and protocol engineers from different parts of the globe have proactively contributed to aggregating and validating information. This collaborative effort has resulted in the creation of a comprehensive database that aims to create a safer and more mature Web3 ecosystem.
+>
+> This remastered report includes:
+> → Compilation of fragmented or unreleased reports and scopes from the audit firms
+> → 112 hacks' scale, root cause, and underlying chain analysis
+> → Correlation between security audits and hacks.
+> → Post-incident responses from the team
+> → Destination of stolen funds
+> → Case studies on notable hacks
+> → 111 additional case analysis
+> → Feedback, revision history, and contributors
+>
+> Join our information and social hub, consisting of 700+ security researchers and protocol engineers, to get immediate access:
+> https://discord.gg/chainlight
+>
+> The server will be closed in 72 hours and will remain closed until further notice.
+>
+> We hope that our findings facilitate this space to examine the prevalent security incidents within the past and current ecosystem, and identify areas where we — as a community and industry as a whole — may be falling short and areas where we excel, to make necessary improvements.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFQnyJNbcAAMBvv.jpg — no alt text provided by author
+
+**Links in post:** https://discord.gg/chainlight
+
+
+### Thread part 2 — @ChainLight_io — 2024-02-01 15:20 UTC (2024-02-01 16:20 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1753075961854308533
+- Metrics (at fetch): not returned
+
+> Background of creating a remastered version:
+> https://x.com/ChainLight_io/status/1746910358152081685
+
+**Links in post:** https://x.com/ChainLight_io/status/1746910358152081685
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-01-15 15:01 UTC (2024-01-15 16:01 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1746910358152081685
+    - Metrics (at fetch): not returned
+    
+    > On January 11th, 2024, we made our 150-page internal research available to the public. Within 24 hours, over 500 security researchers and protocol engineers joined our community and accessed the report.
+    >
+    > We sincerely appreciate everyone who took the time to read our research.
+    >
+    > The purpose of releasing this internal research to the public is to create a safer and more mature Web3 ecosystem. In 2023 alone, $1.8B was lost in hacks. As a result, countless projects, builders, and communities have suffered. Fuel has been added to the "why blockchain is a scam" narrative.
+    >
+    > Security researchers and audit firms are the guardians of blockchain. We exist to protect not only the funds flowing through the protocols but also innovative ideas that can scale to onboard the masses and prove blockchain's ability to solve real-world problems.
+    >
+    > To achieve a safer and more mature Web3 ecosystem, it is crucial to closely examine the prevalent security incidents within the past and current ecosystem. Our initiative aims to identify areas where we, as a community and industry as a whole, may be falling short and areas where we excel, in order to make necessary improvements.
+    >
+    > By sharing these research findings, we hope to facilitate collaboration among project builders and security researchers, collectively raising awareness and setting higher standards for security.
+    >
+    > Since the release of the 'Web3 Hack Post-Mortem 2023,' many security researchers and protocol engineers from both inside and outside our community have reached out with feedback to improve the research.
+    >
+    > Individuals from different parts of the globe are proactively engaging to aggregate and validate information, and collaborating to create a faultless database that serves as a cornerstone enabling us to make necessary improvements by identifying the areas where we may be falling short and areas where we excel.
+    >
+    > Today, we're inviting our community to provide feedback on the report. All proposed information will undergo thorough review, and the verified information will be reflected in the upcoming V2 of the research. Furthermore, all edits/updates and contributors will be documented in the revision history for transparency.
+    >
+    > The following form will remain open until January 22nd, 8 AM EST:
+    > https://forms.gle/RHvmkYPSGN3cLzrw9
+    >
+    > In all future research and ChainLight initiatives, our top priority will be to provide transparency to the public and foster the collective growth of this space. We are immensely grateful to our community of security researchers and protocols for their proactive feedback and contributions in building a safer and more mature Web3 ecosystem.
+    
+    **Links in post:** https://forms.gle/RHvmkYPSGN3cLzrw9
+    
+
+
+---
+
+## 2024-01-29 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1752001015656976610
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/7) [pic.x.com/yu3PfughFG]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1752001019695997042
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ GAMEE Loses $15M
+> 2️⃣ SomeSing Faces $11.5M Loss
+> 3️⃣ $60K Exploited From Saga DAO Treasury
+> 4️⃣ Compromised Mailing Service Results in $600K Scam
+>
+> (2/7)
+
+
+### Thread part 3 — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1752001023160565949
+- Metrics (at fetch): not returned
+
+> 1️⃣ GAMEE Loses $15M
+>
+> • @GAMEEToken is a gaming platform, powered by @animocabrands.
+> • Unauthorized access to the team's GitLab led to the exploit, exposing their private keys.
+> • The team released a post-mortem and announced responsive actions.
+>
+> (3/7) https://twitter.com/2505753812/status/1750261532418523437
+
+**Links in post:** https://twitter.com/2505753812/status/1750261532418523437
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2505753812 — 2024-01-24 20:57 UTC (2024-01-24 21:57 WAT)
+    
+    - URL: https://x.com/2505753812/status/1750261532418523437
+    - Metrics (at fetch): not returned
+    
+    > 1/9 Situation Update: All contracts and community-owned funds are secure, but the hacker still controls ~200M $GMEE tokens on Polygon. To safeguard our users, we've paused the Polygon-Ethereum bridge, along with trading and deposits on Polygon. A remediation plan is underway. Thank you for your patience and support.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1752001026843136120
+- Metrics (at fetch): not returned
+
+> 2️⃣ SomeSing Faces $11.5M Loss
+>
+> • @somesinglovers is a Web3 singing platform.
+> • The exploited assets include foundation assets, and $7.9M worth of tokens were overcirculated to the market.
+> • The team is currently collaborating with national police agencies to take action
+>
+> (4/7) https://twitter.com/TheBlockCo/status/1751789299551322278
+
+**Links in post:** https://twitter.com/TheBlockCo/status/1751789299551322278
+
+**Quoted post (full text):**
+
+    #### Quoted post — @963767159536209921 — 2024-01-29 02:08 UTC (2024-01-29 03:08 WAT)
+    
+    - URL: https://x.com/963767159536209921/status/1751789299551322278
+    - Metrics (at fetch): not returned
+    
+    > South Korea’s crypto karaoke platform hacked for over $11.5 million https://www.theblock.co/post/274766/south-koreas-crypto-karaoke-platform-hacked-for-over-11-5-million?utm_source=twitter&utm_medium=social
+    
+    **Links in post:** https://www.theblock.co/post/274766/south-koreas-crypto-karaoke-platform-hacked-for-over-11-5-million?utm_source=twitter&utm_medium=social
+    
+
+
+### Thread part 5 — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1752001030559355175
+- Metrics (at fetch): not returned
+
+> 3️⃣ $60K Exploited From Saga DAO Treasury
+>
+> • @SagaMobileDAO is a fan community of Solana Saga phone.
+> • The treasury wallet of the DAO lost its funds as a co-founder got hacked.
+> • The multi-sig wallet threshold was set to 1, making the multi-sig mechanism meaningless.
+>
+> (5/7) https://twitter.com/ashen_one/status/1750265326040699266
+
+**Links in post:** https://twitter.com/ashen_one/status/1750265326040699266
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2509387159 — 2024-01-24 21:12 UTC (2024-01-24 22:12 WAT)
+    
+    - URL: https://x.com/2509387159/status/1750265326040699266
+    - Metrics (at fetch): not returned
+    
+    > Well, as you've heard, the Cofounder of @SagaMobileDAO scammed the DAO wallet of 750 SOL
+    >
+    > But some misconceptions about how:
+    >
+    > The original realms wallet is a safe and is a true multi-sig with majority quorum votes and can be proven on chain (link below).
+    >
+    > The Align wallet was/is safe and is where Monke royalties are sent to.
+    >
+    > The council had a discussion a while back on moving to Squads, but the vote and creation were pending (moving parts, etc).
+    >
+    > He claims that when funds were sent to the new Squads wallet (which he failed to set up quorums on), he was instantly hacked and someone stole those funds due to a remote hack? Because the voting only needed 1 vote rather than 60%, the hacker was able to move funds instantly. On-chain data does not however back that story up. It's looking like he rugged it and then sent funds to his personal wallet. 🤦🏽‍♂️
+    >
+    > Report by @phase_ soon on this as well
+    >
+    > I don't believe the people to voted for the initial move from Realms to Squads are involved at all, I think it was just negligence that they didn't check the Squads wallets' perms before accepting the vote. Zeus/kidpaddle/choco/etc are innocent in my eyes, just got played by a hasty vote and didn't read too much into the output. To them, it looked like the discussed plan was happening and the vote was moving it along. Zk was pretty well trusted so it didn't look like a risky move to them.
+    >
+    > That being said, sadly hacks are a part of this world. I mean it's almost like a right of passage that drains/hacks/etc are passed around. I'm mostly just happy that no one's personal funds were touched during this. This doesn't mean the end for SagaDAO, but definitely means some restructuring is in play.
+    >
+    > I've been a Saga maxi for like a year. The only reason I even started this "DAO" was to bring these new waves of people into one place so we could all be Saga Maxis together. If you know me, I think it's fair to assume that I didn't do this all for some nefarious reason, I love all the members here and have talked about it openly for so long. That discord is the only discord I actually ever talked and had fun in. I met zk because he had a similar goal and we started the tg, gcs, and Discord that way.
+    >
+    > I'm sorry that my part of this wasn't heavy enough to stop it. Different timezone so activity happened while I was asleep sadly.
+    >
+    > - I have access to both @solanasagaperks / @SagaMobileDAO / Discord Owner
+    >
+    > - We discussed at length the future of the team moving forward. We removed all who voted yes on-chain and Discord.
+    >
+    > - I don't mind stepping down / full team rehaul / anything. Whatever is voted on, I'm cool with it. I just wanted to have a little fun and create a fun community, I don't care about being in charge of anything. I haven't extracted anything from this but a bunch of cool Saga friends :)
+    >
+    > - If you really think I'm somehow involved, just check my wallets or whatever, my name is my most used one
+    >
+    > Hope this helps clear some stuff up. Either way, frick scammers and we move onwards 🗣️
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1752001034703221217
+- Metrics (at fetch): not returned
+
+> 4️⃣ Compromised Mailing Service Leads to $600K Scam
+>
+> • The public received fake invitations disguised as emails from @WalletConnect, @Cointelegraph, @DeFi, @Trezor.
+> • This incident was a result of security breaches at @MailerLite.
+> • A total of $600K was lost in the scam.
+>
+> (6/7) https://twitter.com/DeFi/status/1749779351053152479
+
+**Links in post:** https://twitter.com/DeFi/status/1749779351053152479
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1323334073453023233 — 2024-01-23 13:01 UTC (2024-01-23 14:01 WAT)
+    
+    - URL: https://x.com/1323334073453023233/status/1749779351053152479
+    - Metrics (at fetch): not returned
+    
+    > The event with fake emails earlier today was caused by an issue of @MailerLite - our mail service provider.
+    >
+    > Unfortunately, it seems like MailerLite was also used by WalletConnect, Cointelegraph & Token Terminal which have also become victims of this.
+    >
+    > 💙 Appreciate the quick reaction of @MetaMask team & @samczsun, we have talked to them & the phishing domain is already blacklisted - https://github.com/MetaMask/eth-phishing-detect/pull/15227
+    >
+    > We are already moving our databases to another provider to ensure further safety of our users.
+    
+    **Media:**
+    - media `3_1749779194131660800` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/DeFi/status/1749723696569143471, https://github.com/MetaMask/eth-phishing-detect/pull/15227
+    
+    **Quoted post** 1749723696569143471: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1752001038750765099
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> If you found this thread helpful, please give it a like and a repost.
+>
+> To stay up-to-date with the latest reports, research, and insights from our award-winning security researchers, subscribe to our newsletter👇
+>
+> https://mailchi.mp/chainlight/newsletter
+>
+> (7/7) https://twitter.com/ChainLight_io/status/1752001015656976610
+
+**Links in post:** https://mailchi.mp/chainlight/newsletter, https://twitter.com/ChainLight_io/status/1752001015656976610
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-01-29 16:09 UTC (2024-01-29 17:09 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1752001015656976610
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly summary to stay in the loop 🧵👇
+    >
+    > (1/7) [pic.x.com/yu3PfughFG]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2024-01-22 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448236543496195
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/9) [pic.x.com/rWthGZIHyO]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448240683180146
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ Bungee Protocol Loses $3.3M
+> 2️⃣ Rocket Pool's X Account Compromised
+> 3️⃣ Trezor Website Faces Unauthorized Accesses
+> 4️⃣ Money Laundering Concerns on Manta Network
+> 5️⃣ TUSD Depegs to $0.97
+> 6️⃣ Two Wallet Drainers Stole $4M From Solana Users
+>
+> (2/9)
+
+
+### Thread part 3 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448244252598322
+- Metrics (at fetch): not returned
+
+> 1️⃣ Bungee Protocol Loses $3.3M
+>
+> • @BungeeExchange is powered by the cross-chain messaging protocol @SocketDotTech.
+> • The vulnerability in Socket's contract enabled the attacker to make arbitrary calls to the token contract.
+> • The team published a detailed post-mortem.
+>
+> (3/9) https://twitter.com/SOCKETProtocol/status/1747349422730813525
+
+**Links in post:** https://twitter.com/SOCKETProtocol/status/1747349422730813525
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1395754141348028416 — 2024-01-16 20:05 UTC (2024-01-16 21:05 WAT)
+    
+    - URL: https://x.com/1395754141348028416/status/1747349422730813525
+    - Metrics (at fetch): not returned
+    
+    > Urgent
+    >
+    > Socket has experienced a security incident which affected wallets with infinite approvals to Socket contracts.
+    >
+    > We have identified the issue &amp; have paused the affected contracts.
+    >
+    > We’re working on the situation &amp; will keep you informed with regular updates &amp; next steps.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448253651992883
+- Metrics (at fetch): not returned
+
+> 2️⃣ Rocket Pool's X Account Compromised
+>
+> • @Rocket_Pool, one of the largest Ethereum staking protocols, had its X account compromised.
+> • The account shared a phishing link, promoting fake token airdrops.
+> • Be careful when interacting, as the account remains compromised.
+>
+> (4/9) [pic.x.com/qAubTJXwwh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEdJ6hJboAAprc-.jpg — no alt text provided by author
+
+
+### Thread part 5 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448257745625573
+- Metrics (at fetch): not returned
+
+> 3️⃣ Trezor Website Faces Unauthorized Accesses
+>
+> • The third-party support portal of @Trezor experienced unauthorized access.
+> • It is estimated that up to 66,000 user contacts may have been leaked for individuals who interacted with the website since December 2021.
+>
+> (5/8) https://twitter.com/Trezor/status/1748724846861705494
+
+**Links in post:** https://twitter.com/Trezor/status/1748724846861705494
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1431204614 — 2024-01-20 15:11 UTC (2024-01-20 16:11 WAT)
+    
+    - URL: https://x.com/1431204614/status/1748724846861705494
+    - Metrics (at fetch): not returned
+    
+    > 🚨Security Alert 🚨
+    >
+    > On January 17, 2024, the third-party support ticketing portal we use encountered unauthorized access.
+    >
+    > Potentially impacted data are limited to user emails and names/nicknames that contacted our customer support team.
+    >
+    > We want to assure you that this does not pose any threat to your digital assets now or in the future. Though we have not observed any spike in phishing activity as a result of this incident, in our commitment to full transparency, we have decided to alert you to phishing schemes targeting your recovery seed.
+    >
+    > What you should know:
+    > 1️⃣ Your Trezor wallet and assets remain secure
+    > 2️⃣ NEVER share your recovery seed with anyone. Remember, Trezor representatives will never prompt you to do so
+    > 3️⃣ Be cautious of phishing attempts or suspicious emails
+    > 4️⃣ Always confirm instructions directly on your Trezor device
+    >
+    > We understand the concerns that arise from situations like this and apologize for any inconvenience caused.
+    >
+    > Stay informed. Find out more on our blog: https://blog.trezor.io/trezor-security-update-stay-vigilant-against-potential-phishing-attack-bb05015a21f8
+    
+    **Media:**
+    - media `3_1748724525460529152` (details not returned by the API)
+    
+    **Links in post:** https://blog.trezor.io/trezor-security-update-stay-vigilant-against-potential-phishing-attack-bb05015a21f8
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448261822501324
+- Metrics (at fetch): not returned
+
+> 4️⃣ Money Laundering Concerns on Manta Network
+>
+> • On the first day of @MantaNetwork's native token launch, 2M of $MANTA were sent to Bithumb and sold.
+> • As this action was not announced beforehand, it raised concerns within the community about potential money laundering.
+>
+> (6/9) https://twitter.com/MantaNetwork/status/1748376581918302524
+
+**Links in post:** https://twitter.com/MantaNetwork/status/1748376581918302524
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1326658439527936000 — 2024-01-19 16:07 UTC (2024-01-19 17:07 WAT)
+    
+    - URL: https://x.com/1326658439527936000/status/1748376581918302524
+    - Metrics (at fetch): not returned
+    
+    > On January 18, 2024, Manta Network reserved a total of 3m $MANTA tokens out of the 50 million unlocked Ecosystem Fund token allocation to expand the Korean ecosystem. 2m $MANTA was dispersed to Bithumb to secure liquidity.
+    >
+    > The funds intend to be used for investments and growth of the Manta community in Korea, specifically to increase Manta's presence in the region by supporting local developers and communities.
+    
+    **Links in post:** https://twitter.com/MantaNetwork/status/1748072314468749740
+    
+    **Quoted post** 1748072314468749740: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448265739981238
+- Metrics (at fetch): not returned
+
+> 5️⃣ TUSD Depreciates to $0.97
+>
+> • @tusdio underwent a 3% depegging following Binance's announcement regarding the launchpool for $MANTA.
+> • As $TUSD was excluded as collateral for token farming, over $330M worth of tokens were sold.
+>
+> (7/9) https://twitter.com/Cointelegraph/status/1747061376802312203
+
+**Links in post:** https://twitter.com/Cointelegraph/status/1747061376802312203
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2024-01-16 01:01 UTC (2024-01-16 02:01 WAT)
+    
+    - URL: https://x.com/2207129125/status/1747061376802312203
+    - Metrics (at fetch): not returned
+    
+    > Justin Sun-linked stablecoin TUSD @tusdio has fallen significantly below its peg, with holders selling more than $330 million of the token on Binance. https://cointelegraph.com/news/tusd-stablecoin-depeg-justin-sun-binance-launchpool-true-usd
+    
+    **Links in post:** https://cointelegraph.com/news/tusd-stablecoin-depeg-justin-sun-binance-launchpool-true-usd
+    
+
+
+### Thread part 8 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448269628162299
+- Metrics (at fetch): not returned
+
+> 6️⃣ Two Wallet Drainers Steal $4M from Solana Users
+>
+> • The recent surge of Solana airdrops has led to an increase in wallet-draining scams, resulting in the theft of $4M last month.
+> • On-chain analysis implies that the majority of scams originated from a small group.
+>
+> (8/9) https://twitter.com/DecryptMedia/status/1746989444958216325
+
+**Links in post:** https://twitter.com/DecryptMedia/status/1746989444958216325
+
+**Quoted post (full text):**
+
+    #### Quoted post — @993530753014054912 — 2024-01-15 20:15 UTC (2024-01-15 21:15 WAT)
+    
+    - URL: https://x.com/993530753014054912/status/1746989444958216325
+    - Metrics (at fetch): not returned
+    
+    > Wallet drainer attacks have swiped over $4 million worth of tokens from Solana users in just the last few weeks alone, as airdrop FOMO helps scams proliferate. Click to read: https://decrypt.co/212875/hackers-steal-over-4-million-fake-airdrops-other-scams-solana
+    
+    **Links in post:** https://decrypt.co/212875/hackers-steal-over-4-million-fake-airdrops-other-scams-solana
+    
+
+
+### Thread part 9 — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1749448273436553640
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> If you found this thread helpful, please give it a like and a repost.
+>
+> To stay up-to-date with the latest reports, research, and insights from our award-winning security researchers, subscribe to our newsletter👇
+>
+> https://mailchi.mp/chainlight/newsletter
+>
+> (9/9) https://twitter.com/ChainLight_io/status/1749448236543496195
+
+**Links in post:** https://mailchi.mp/chainlight/newsletter, https://twitter.com/ChainLight_io/status/1749448236543496195
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-01-22 15:05 UTC (2024-01-22 16:05 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1749448236543496195
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly summary to stay in the loop 🧵👇
+    >
+    > (1/9) [pic.x.com/rWthGZIHyO]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2024-01-19 · Post · "Web3 security is a lot less predictable"
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ChainLight_io — 2024-01-19 15:06 UTC (2024-01-19 16:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1748361266358534425
+- Metrics (at fetch): not returned
+
+> "Web3 security is a lot less predictable"
+> - @brian_pak, CEO of ChainLight
+>
+> Explore the following topics:
+> → The differences between Web3 and Web2 security
+> → Key concerns about smart contracts
+> → The inverse relationship between trustlessness and cost
+>
+> https://www.ccn.com/news/web3-security-lot-less-predictable-says-chainlight-ceo/
+
+**Links in post:** https://www.ccn.com/news/web3-security-lot-less-predictable-says-chainlight-ceo/
+
+
+---
+
+## 2024-01-18 · Thread · We are thrilled to announce that we have been awarded $157,696.85 USDC from @code4rena's @zksync Era
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @ChainLight_io — 2024-01-18 15:01 UTC (2024-01-18 16:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1747997532293365896
+- Metrics (at fetch): not returned
+
+> We are thrilled to announce that we have been awarded $157,696.85 USDC from @code4rena's @zksync Era audit for identifying two high-severity vulnerabilities in the zkEVM circuit.
+>
+> Everyone's a gangster until getting hacked.
+>
+> We are always impressed by @the_matter_labs' commitment to fortifying their ecosystem and safeguarding their community. They have deployed an unprecedented 1.1M USDC for a competitive audit, and this space, especially the zkSync community, should recognize their integrity and dedication.
+>
+> This should be the standard protocol for all projects.
+>
+> While one-time security is always beneficial, it is a "discrete security" that only provides a snapshot of security at a specific moment in time. By incorporating bug bounties, contests, and multi-phase audits, projects can achieve a higher level of "continuous security."
+>
+> 2024 is the year of ZK.
+>
+> However, whether it becomes the year of ZK or the year $3.1B locked on ZK solutions gets compromised heavily relies on how the core team prioritizes and invests in security.
+>
+> We would like to express our gratitude to zkSync and Code4renna for this opportunity, as well as to all the hunters who contribute to making this space safer.
+>
+> And of course, a write-up is coming soon.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GEIgiYWaYAAjUj2.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-01-18 15:01 UTC (2024-01-18 16:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1747997589705015594
+- Metrics (at fetch): not returned
+
+> @code4rena @zksync @the_matter_labs Our previous work on exploiting zkEVM
+> https://x.com/ChainLight_io/status/1720471129272533382?s=20
+
+**Links in post:** https://x.com/ChainLight_io/status/1720471129272533382?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2023-11-03 16:00 UTC (2023-11-03 17:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1720471129272533382
+    - Metrics (at fetch): not returned
+    
+    > Exploiting ZK-EVM.
+    >
+    > After discovering a @zkSync Era bug on September 15th, we intentionally produced a false "proof" to battle-test our findings.
+    >
+    > Spending 100 GPU hours on A100s to generate the exploit, we turned a ZK soundness bug into a full token-stealing exploit.
+    >
+    > As this exploit is the first bounty claimed for a ZK-circuit bug on zkSync Era, we are now releasing our code and a full PoC to the public👇
+    >
+    > https://github.com/chainlight-io/zksync-era-write-query-poc/
+    >
+    > We hope this publication facilitates other security researchers to explore new frontiers, push boundaries, and share their findings with the community to foster collective growth of the Web3 space.
+    
+    **Media:**
+    - media `13_1720471073135919104` (details not returned by the API)
+    
+    **Links in post:** https://github.com/chainlight-io/zksync-era-write-query-poc/
+    
+
+
+---
+
+## 2024-01-16 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-01-16 15:01 UTC (2024-01-16 16:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1747272807178994076
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/8) [pic.x.com/A47SoJppNB]
+
+**Media:**
+- media `7_1747272781841268736` (details not returned by the API)
+
+
+### Thread part 2 — @ChainLight_io — 2024-01-16 15:01 UTC (2024-01-16 16:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1747272837080220000
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> If you found this thread helpful, please give it a like and a repost.
+>
+> To stay up-to-date with the latest reports, research, and insights from our award-winning security researchers, subscribe to our newsletter👇
+>
+> https://mailchi.mp/chainlight/newsletter
+>
+> (8/8) https://twitter.com/ChainLight_io/status/1747272807178994076
+
+**Links in post:** https://mailchi.mp/chainlight/newsletter, https://twitter.com/ChainLight_io/status/1747272807178994076
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-01-16 15:01 UTC (2024-01-16 16:01 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1747272807178994076
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly summary to stay in the loop 🧵👇
+    >
+    > (1/8) [pic.x.com/A47SoJppNB]
+    
+    **Media:**
+    - media `7_1747272781841268736` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-15 · Post · On January 11th, 2024, we made our 150-page internal research available to the public. Within 24 hou
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-01-15 15:01 UTC (2024-01-15 16:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1746910358152081685
+- Metrics (at fetch): not returned
+
+> On January 11th, 2024, we made our 150-page internal research available to the public. Within 24 hours, over 500 security researchers and protocol engineers joined our community and accessed the report.
+>
+> We sincerely appreciate everyone who took the time to read our research.
+>
+> The purpose of releasing this internal research to the public is to create a safer and more mature Web3 ecosystem. In 2023 alone, $1.8B was lost in hacks. As a result, countless projects, builders, and communities have suffered. Fuel has been added to the "why blockchain is a scam" narrative.
+>
+> Security researchers and audit firms are the guardians of blockchain. We exist to protect not only the funds flowing through the protocols but also innovative ideas that can scale to onboard the masses and prove blockchain's ability to solve real-world problems.
+>
+> To achieve a safer and more mature Web3 ecosystem, it is crucial to closely examine the prevalent security incidents within the past and current ecosystem. Our initiative aims to identify areas where we, as a community and industry as a whole, may be falling short and areas where we excel, in order to make necessary improvements.
+>
+> By sharing these research findings, we hope to facilitate collaboration among project builders and security researchers, collectively raising awareness and setting higher standards for security.
+>
+> Since the release of the 'Web3 Hack Post-Mortem 2023,' many security researchers and protocol engineers from both inside and outside our community have reached out with feedback to improve the research.
+>
+> Individuals from different parts of the globe are proactively engaging to aggregate and validate information, and collaborating to create a faultless database that serves as a cornerstone enabling us to make necessary improvements by identifying the areas where we may be falling short and areas where we excel.
+>
+> Today, we're inviting our community to provide feedback on the report. All proposed information will undergo thorough review, and the verified information will be reflected in the upcoming V2 of the research. Furthermore, all edits/updates and contributors will be documented in the revision history for transparency.
+>
+> The following form will remain open until January 22nd, 8 AM EST:
+> https://forms.gle/RHvmkYPSGN3cLzrw9
+>
+> In all future research and ChainLight initiatives, our top priority will be to provide transparency to the public and foster the collective growth of this space. We are immensely grateful to our community of security researchers and protocols for their proactive feedback and contributions in building a safer and more mature Web3 ecosystem.
+
+**Links in post:** https://forms.gle/RHvmkYPSGN3cLzrw9
+
+
+---
+
+## 2023-11-03 · Post · Exploiting ZK-EVM.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @ChainLight_io — 2023-11-03 16:00 UTC (2023-11-03 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1720471129272533382
+- Metrics (at fetch): not returned
+
+> Exploiting ZK-EVM.
+>
+> After discovering a @zkSync Era bug on September 15th, we intentionally produced a false "proof" to battle-test our findings.
+>
+> Spending 100 GPU hours on A100s to generate the exploit, we turned a ZK soundness bug into a full token-stealing exploit.
+>
+> As this exploit is the first bounty claimed for a ZK-circuit bug on zkSync Era, we are now releasing our code and a full PoC to the public👇
+>
+> https://github.com/chainlight-io/zksync-era-write-query-poc/
+>
+> We hope this publication facilitates other security researchers to explore new frontiers, push boundaries, and share their findings with the community to foster collective growth of the Web3 space.
+
+**Media:**
+- media `13_1720471073135919104` (details not returned by the API)
+
+**Links in post:** https://github.com/chainlight-io/zksync-era-write-query-poc/
 
 
 ---

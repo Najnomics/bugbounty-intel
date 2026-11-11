@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 65
-- Conversations/threads: 60
-- Oldest post captured: 2025-08-16
+- Posts in this file: 82
+- Conversations/threads: 77
+- Oldest post captured: 2025-07-20
 - Newest post captured: 2026-11-10
 
 
@@ -1437,3 +1437,464 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
         **Quoted post** 1956416634173964695: not readable via the API (deleted, private, or withheld).
         
     
+
+
+---
+
+## 2025-08-04 · Post · Couldn't @msftsecresponse release the Defender rule at the same time or even 1 day before of the ini
+
+
+### Post — @irsdl — 2025-08-04 11:52 UTC (2025-08-04 12:52 WAT)
+
+- URL: https://x.com/irsdl/status/1952336781057134871
+- Metrics (at fetch): bookmark 0, impression 1069, like 3, quote 0, reply 0, retweet 0
+
+> Couldn't @msftsecresponse release the Defender rule at the same time or even 1 day before of the initial patch to speed up the protection process? Companies can roll out these rules quite faster than patching a big piece of software which will require some downtime.
+> Yes it can be https://t.co/i6Ip12SxVT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @128484298 — 2025-08-04 11:35 UTC (2025-08-04 12:35 WAT)
+    
+    - URL: https://x.com/128484298/status/1952332484051443807
+    - Metrics (at fetch): bookmark 2, impression 3334, like 12, quote 1, reply 0, retweet 4
+    
+    > Ransomware gangs join attacks targeting Microsoft SharePoint servers https://t.co/ubXTOAre12
+    
+
+
+---
+
+## 2025-08-04 · Post · A great SharePoint vuln by @chudyPB especially when paired with the ToolShell auth bypass by @_l0gg
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @irsdl — 2025-08-04 11:34 UTC (2025-08-04 12:34 WAT)
+
+- URL: https://x.com/irsdl/status/1952332225577402619
+- Metrics (at fetch): bookmark 29, impression 10429, like 91, quote 0, reply 1, retweet 20
+
+> A great #SharePoint vuln by @chudyPB especially when paired with the ToolShell auth bypass by @_l0gg.
+>
+> CVE-2024-38018 highlights:
+> - Implemented in https://t.co/9BofGcFaWh
+> - With the right gadget, this 0-day lands on fully-patched SP13 / SP10- and both are EoL, so no fix is https://t.co/JrM5TZH7E8
+
+**Quoted post (full text):**
+
+    #### Quoted post — @923554711407611904 — 2025-08-04 11:20 UTC (2025-08-04 12:20 WAT)
+    
+    - URL: https://x.com/923554711407611904/status/1952328875125744124
+    - Metrics (at fetch): bookmark 33, impression 36624, like 115, quote 2, reply 3, retweet 22
+    
+    > Btw, I described my SharePoint CVE-2024-38018 at a PL conference last year, and they've recently uploaded it.
+    > I guess you don't know Polish, but slides are in English 😅 RCE part starts at 30:30 
+    > https://t.co/rejuy5i0EC
+    
+
+
+---
+
+## 2025-08-04 · Post · A great SharePoint vuln especially when paired with the ToolShell auth bypass by @_l0gg.
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @irsdl — 2025-08-04 11:33 UTC (2025-08-04 12:33 WAT)
+
+- URL: https://x.com/irsdl/status/1952332036355592416
+- Metrics (at fetch): bookmark 0, impression 41, like 0, quote 0, reply 0, retweet 0
+
+> A great #SharePoint vuln especially when paired with the ToolShell auth bypass by @_l0gg.
+>
+> CVE-2024-38018 highlights:
+> - Implemented in https://t.co/9BofGcFaWh
+> - With the right gadget, this 0-day lands on fully-patched SP13 / SP10- and both are EoL, so no fix is coming. 🌶️
+> - Older https://t.co/JrM5TZH7E8
+
+**Quoted post (full text):**
+
+    #### Quoted post — @923554711407611904 — 2025-08-04 11:20 UTC (2025-08-04 12:20 WAT)
+    
+    - URL: https://x.com/923554711407611904/status/1952328875125744124
+    - Metrics (at fetch): bookmark 33, impression 36624, like 115, quote 2, reply 3, retweet 22
+    
+    > Btw, I described my SharePoint CVE-2024-38018 at a PL conference last year, and they've recently uploaded it.
+    > I guess you don't know Polish, but slides are in English 😅 RCE part starts at 30:30 
+    > https://t.co/rejuy5i0EC
+    
+
+
+---
+
+## 2025-08-02 · Post · SharePoint 2019 vs SharePoint 2010
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @irsdl — 2025-08-02 23:17 UTC (2025-08-03 00:17 WAT)
+
+- URL: https://x.com/irsdl/status/1951784485663494215
+- Metrics (at fetch): bookmark 6, impression 3644, like 44, quote 0, reply 1, retweet 5
+
+> SharePoint 2019 vs SharePoint 2010
+> Snippet from "SPRequestModule.cs"
+> It has come a long way! Perhaps initially it was not that bad. When did it decide to go rogue by the way?! 😆
+>
+> (SE, 2019, 2016, 2013 are affected by the auth bypass)
+> #SharePoint #AppSec https://t.co/oYyR3EzZnl https://t.co/V3tyF2OBIC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GxYgil7WAAA0k3D.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GxYgkCCX0AAIqZy.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2025-08-02 22:42 UTC (2025-08-02 23:42 WAT)
+    
+    - URL: https://x.com/irsdl/status/1951775725364625574
+    - Metrics (at fetch): bookmark 3, impression 5482, like 13, quote 1, reply 1, retweet 0
+    
+    > Here is the verdict on #SharePoint 2010 for anyone wondering:
+    > - The vulnerable code is there!!! However,
+    > - The auth bypass does not work. Maybe they have changed the workflow since🤔
+    > - We don't have the Microsoft.PerformancePoint.Scorecards.Client.dll file so CVE-2025-49704 is https://t.co/uNrmtY4M7r
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2025-08-01 22:14 UTC (2025-08-01 23:14 WAT)
+        
+        - URL: https://x.com/irsdl/status/1951406170557518021
+        - Metrics (at fetch): bookmark 1, impression 3285, like 12, quote 1, reply 1, retweet 0
+        
+        > I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to have a look at it though 🤣 https://t.co/hJQpEpaDbY
+        
+        **Quoted post** 1950965009020027353: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-08-02 · Post · Here is the verdict on SharePoint 2010 for anyone wondering:
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @irsdl — 2025-08-02 22:42 UTC (2025-08-02 23:42 WAT)
+
+- URL: https://x.com/irsdl/status/1951775725364625574
+- Metrics (at fetch): bookmark 3, impression 5482, like 13, quote 1, reply 1, retweet 0
+
+> Here is the verdict on #SharePoint 2010 for anyone wondering:
+> - The vulnerable code is there!!! However,
+> - The auth bypass does not work. Maybe they have changed the workflow since🤔
+> - We don't have the Microsoft.PerformancePoint.Scorecards.Client.dll file so CVE-2025-49704 is https://t.co/uNrmtY4M7r
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2025-08-01 22:14 UTC (2025-08-01 23:14 WAT)
+    
+    - URL: https://x.com/irsdl/status/1951406170557518021
+    - Metrics (at fetch): bookmark 1, impression 3285, like 12, quote 1, reply 1, retweet 0
+    
+    > I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to have a look at it though 🤣 https://t.co/hJQpEpaDbY
+    
+    **Quoted post** 1950965009020027353: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-08-01 · Post · I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to 
+
+
+### Post — @irsdl — 2025-08-01 22:14 UTC (2025-08-01 23:14 WAT)
+
+- URL: https://x.com/irsdl/status/1951406170557518021
+- Metrics (at fetch): bookmark 1, impression 3285, like 12, quote 1, reply 1, retweet 0
+
+> I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to have a look at it though 🤣 https://t.co/hJQpEpaDbY
+
+**Quoted post** 1950965009020027353: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-08-01 · Post · A new version of https://t.co/9BofGcFaWh is out, I have updated SharePoint plugin to:
+
+
+### Post — @irsdl — 2025-08-01 22:02 UTC (2025-08-01 23:02 WAT)
+
+- URL: https://x.com/irsdl/status/1951403259081396426
+- Metrics (at fetch): bookmark 57, impression 11345, like 168, quote 0, reply 1, retweet 39
+
+> A new version of https://t.co/9BofGcFaWh is out, I have updated #SharePoint plugin to:
+> - Fix CVE-2025-49704 exploit against SP2016! 🪲
+> - Support CVE-2024-38018 as it is very useful.👌
+>
+> Remember, we should also be able to create folders in Plugin or Generators folders to keep our
+
+
+---
+
+## 2025-07-30 · Post · Glad he is not in charge of a bug bounty platform, or am I? 🤭 https://t.co/4PmnDLIVRn
+
+
+### Post — @irsdl — 2025-07-30 12:00 UTC (2025-07-30 13:00 WAT)
+
+- URL: https://x.com/irsdl/status/1950527033835938070
+- Metrics (at fetch): bookmark 0, impression 1411, like 8, quote 0, reply 1, retweet 0
+
+> Glad he is not in charge of a bug bounty platform, or am I? 🤭 https://t.co/4PmnDLIVRn
+
+**Quoted post (full text):**
+
+    #### Quoted post — @44196397 — 2025-07-29 17:56 UTC (2025-07-29 18:56 WAT)
+    
+    - URL: https://x.com/44196397/status/1950254103474446728
+    - Metrics (at fetch): bookmark 4820, impression 32249215, like 49906, quote 1359, reply 7528, retweet 5503
+    
+    > This false nomenclature of “researcher” and “engineer”, which is a thinly-masked way of describing a two-tier engineering system, is being deleted from @xAI today.
+    >
+    > There are only engineers.
+    >
+    > Researcher is a relic term from academia. https://t.co/yNZSdVXGhY
+    
+    **Quoted post** 1950121219820564869: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-07-30 · Post · Someone sent me this good blog post last night which I had missed https://t.co/SviurxtpNl
+
+
+### Post — @irsdl — 2025-07-30 11:50 UTC (2025-07-30 12:50 WAT)
+
+- URL: https://x.com/irsdl/status/1950524460668162259
+- Metrics (at fetch): bookmark 22, impression 4531, like 53, quote 0, reply 1, retweet 7
+
+> Someone sent me this good blog post last night which I had missed https://t.co/SviurxtpNl
+> by @testanull 
+> This is what I wanted to make a video about today but I don't need to anymore as the blog covers most of the tips (I was surprised seeing CVE-2024–38018 there too as I wanted
+
+
+---
+
+## 2025-07-29 · Post · Semi-controversial thoughts on the recent SharePoint patch &amp; CVE-2025-53770 (ToolShell++ or Too
+
+
+### Post — @irsdl — 2025-07-29 10:34 UTC (2025-07-29 11:34 WAT)
+
+- URL: https://x.com/irsdl/status/1950143007602164104
+- Metrics (at fetch): bookmark 57, impression 28243, like 146, quote 2, reply 4, retweet 37
+
+> Semi-controversial thoughts on the recent #SharePoint patch &amp; CVE-2025-53770 (ToolShell++ or ToolPain 🥸):
+>
+> 🪟On Microsoft’s effort:
+> I now believe MS genuinely tried to fix a flawed patch over the weekend before it was exploited by APTs. But several things went wrong beforehand: https://t.co/RA1w2kQ4nI
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2025-07-27 21:40 UTC (2025-07-27 22:40 WAT)
+    
+    - URL: https://x.com/irsdl/status/1949585831515115616
+    - Metrics (at fetch): bookmark 32, impression 39357, like 82, quote 1, reply 2, retweet 6
+    
+    > Does anyone have a payload for CVE-2025-53770 (toolshell++), I have a feeling that what we have seen so far are related to CVE-2025-49704, and CVE-2025-53770 has not been exploited by malicious actors. Please prove me wrong!
+    > I'm not interested in the auth bypass part btw.
+    
+
+
+---
+
+## 2025-07-29 · Post · Semi-controversial thoughts on the recent SharePoint patch &amp; CVE-2025-53770 (ToolShell++ or Too
+
+
+### Post — @irsdl — 2025-07-29 10:33 UTC (2025-07-29 11:33 WAT)
+
+- URL: https://x.com/irsdl/status/1950142670011056129
+- Metrics (at fetch): bookmark 0, impression 77, like 0, quote 0, reply 0, retweet 0
+
+> Semi-controversial thoughts on the recent #SharePoint patch &amp; CVE-2025-53770 (ToolShell++ or ToolPain 🥸):
+>
+> 🪟On Microsoft’s effort:
+> I now believe MS genuinely tried to fix a flawed patch over the weekend before it was exploited by APTs. But several things went wrong beforehand: https://t.co/RA1w2kQ4nI
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2025-07-27 21:40 UTC (2025-07-27 22:40 WAT)
+    
+    - URL: https://x.com/irsdl/status/1949585831515115616
+    - Metrics (at fetch): bookmark 32, impression 39357, like 82, quote 1, reply 2, retweet 6
+    
+    > Does anyone have a payload for CVE-2025-53770 (toolshell++), I have a feeling that what we have seen so far are related to CVE-2025-49704, and CVE-2025-53770 has not been exploited by malicious actors. Please prove me wrong!
+    > I'm not interested in the auth bypass part btw.
+    
+
+
+---
+
+## 2025-07-27 · Post · Does anyone have a payload for CVE-2025-53770 (toolshell++), I have a feeling that what we have seen
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @irsdl — 2025-07-27 21:40 UTC (2025-07-27 22:40 WAT)
+
+- URL: https://x.com/irsdl/status/1949585831515115616
+- Metrics (at fetch): bookmark 32, impression 39357, like 82, quote 1, reply 2, retweet 6
+
+> Does anyone have a payload for CVE-2025-53770 (toolshell++), I have a feeling that what we have seen so far are related to CVE-2025-49704, and CVE-2025-53770 has not been exploited by malicious actors. Please prove me wrong!
+> I'm not interested in the auth bypass part btw.
+
+
+---
+
+## 2025-07-26 · Post · I have launched YSoNet (https://t.co/9BofGcFaWh) and added SharePoint CVE-2025-49704 payload genera
+
+
+### Post — @irsdl — 2025-07-26 23:28 UTC (2025-07-27 00:28 WAT)
+
+- URL: https://x.com/irsdl/status/1949250528946401635
+- Metrics (at fetch): bookmark 245, impression 36092, like 458, quote 0, reply 4, retweet 122
+
+> I have launched YSoNet (https://t.co/9BofGcFaWh) and added #SharePoint CVE-2025-49704 payload generator to it as the first thing.
+>
+> Here is how this can work:
+>
+> Running command:
+> ```
+> ysonet.exe -p sharepoint --cve=CVE-2025-49704 -var 1 -c "calc"
+> ```
+>
+> Running C# code:
+>
+> ```
+> ysonet.exe
+
+
+---
+
+## 2025-07-24 · Post · We normally do not want to talk about the details and bypasses publicly unless they are known to bad
+
+
+### Post — @irsdl — 2025-07-24 08:28 UTC (2025-07-24 09:28 WAT)
+
+- URL: https://x.com/irsdl/status/1948299194638254288
+- Metrics (at fetch): bookmark 5, impression 3238, like 28, quote 0, reply 1, retweet 2
+
+> We normally do not want to talk about the details and bypasses publicly unless they are known to bad guys. I think all parties now know about the exploit now.
+> There are some params that do not need to be there or some that should be but as the exploit is out, it doesn't matter. https://t.co/qGZniWg6TC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1279536632245432321 — 2025-07-23 18:11 UTC (2025-07-23 19:11 WAT)
+    
+    - URL: https://x.com/1279536632245432321/status/1948083638815392145
+    - Metrics (at fetch): bookmark 170, impression 28677, like 296, quote 2, reply 1, retweet 74
+    
+    > As promised, our #SharePoint adventure with CVE-2025-53770 and CVE-2025-53771, including payloads and vulnerability checker!
+    >
+    > https://t.co/NbaDwsEyfA
+    
+
+
+---
+
+## 2025-07-21 · Post · 🚨
+
+
+Tags (automatic): Auth bypass, RCE
+
+
+### Post — @irsdl — 2025-07-21 00:21 UTC (2025-07-21 01:21 WAT)
+
+- URL: https://x.com/irsdl/status/1947089502817706000
+- Metrics (at fetch): bookmark 68, impression 18896, like 156, quote 0, reply 4, retweet 45
+
+> 🚨
+> 1- CVE-2025-53770 is a variant of CVE-2025-49704 - a critical auth bypass in SharePoint's ToolPane.aspx endpoint. It lets attackers reach a page that can parse webparts without valid credentials, and with a chained deserialization bug, they can achieve RCE entirely in memory https://t.co/8MVbG7eBz0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2025-07-20 17:41 UTC (2025-07-20 18:41 WAT)
+    
+    - URL: https://x.com/irsdl/status/1946988895993806913
+    - Metrics (at fetch): bookmark 35, impression 25215, like 73, quote 3, reply 1, retweet 9
+    
+    > For those interested to block requests to #SharePoint using `referer` header, the followings were the ones which could initially work for the auth bypass on SharePoint 2019:
+    > /_layouts/SignOut.aspx
+    > /_layouts/14/SignOut.aspx
+    > /_layouts/15/SignOut.aspx
+    > So a case-insensitive RegEx https://t.co/9nzdPgKkOc
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2025-07-20 08:31 UTC (2025-07-20 09:31 WAT)
+        
+        - URL: https://x.com/irsdl/status/1946850548046524533
+        - Metrics (at fetch): bookmark 37, impression 18579, like 96, quote 2, reply 2, retweet 16
+        
+        > Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://t.co/rPvyELJWWP means that there must be a new deserialisation gadget now?
+        > According to MS a file is being created and according to @watchtowrcyber machinekey is https://t.co/Ntehat9V4Y
+        
+        **Quoted post** 1946166765316161634: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-07-20 · Post · For those interested to block requests to SharePoint using `referer` header, the followings were th
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @irsdl — 2025-07-20 17:41 UTC (2025-07-20 18:41 WAT)
+
+- URL: https://x.com/irsdl/status/1946988895993806913
+- Metrics (at fetch): bookmark 35, impression 25215, like 73, quote 3, reply 1, retweet 9
+
+> For those interested to block requests to #SharePoint using `referer` header, the followings were the ones which could initially work for the auth bypass on SharePoint 2019:
+> /_layouts/SignOut.aspx
+> /_layouts/14/SignOut.aspx
+> /_layouts/15/SignOut.aspx
+> So a case-insensitive RegEx https://t.co/9nzdPgKkOc
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2025-07-20 08:31 UTC (2025-07-20 09:31 WAT)
+    
+    - URL: https://x.com/irsdl/status/1946850548046524533
+    - Metrics (at fetch): bookmark 37, impression 18579, like 96, quote 2, reply 2, retweet 16
+    
+    > Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://t.co/rPvyELJWWP means that there must be a new deserialisation gadget now?
+    > According to MS a file is being created and according to @watchtowrcyber machinekey is https://t.co/Ntehat9V4Y
+    
+    **Quoted post** 1946166765316161634: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-07-20 · Post · Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the chec
+
+
+### Post — @irsdl — 2025-07-20 08:31 UTC (2025-07-20 09:31 WAT)
+
+- URL: https://x.com/irsdl/status/1946850548046524533
+- Metrics (at fetch): bookmark 37, impression 18579, like 96, quote 2, reply 2, retweet 16
+
+> Well it was possible to bypass the auth patch easily as even a slash after .aspx would jump the check but https://t.co/rPvyELJWWP means that there must be a new deserialisation gadget now?
+> According to MS a file is being created and according to @watchtowrcyber machinekey is https://t.co/Ntehat9V4Y
+
+**Quoted post** 1946166765316161634: not readable via the API (deleted, private, or withheld).

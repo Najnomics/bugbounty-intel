@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 134
-- Conversations/threads: 134
-- Oldest post captured: 2022-01-27
+- Posts in this file: 159
+- Conversations/threads: 159
+- Oldest post captured: 2018-01-26
 - Newest post captured: 2026-11-03
 
 
@@ -2312,3 +2312,415 @@ Tags (automatic): Race condition, Smart contract / DeFi
 - Metrics (at fetch): bookmark 7, impression 0, like 46, quote 3, reply 0, retweet 6
 
 > With the race to start using Cairo, we have the cryptographic and smart contract expertise to help. A quick review of one popular NFT library yielded a critical bug! https://t.co/WJ09e6womL
+
+
+---
+
+## 2022-01-21 · Post · The first empirehacking of 2022 is coming up quickly on February 8th and is currently looking for p
+
+
+### Post — @trailofbits — 2022-01-21 16:21 UTC (2022-01-21 17:21 WAT)
+
+- URL: https://x.com/trailofbits/status/1484561726850879491
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> The first #empirehacking of 2022 is coming up quickly on February 8th and is currently looking for presenters! Think you can hack it? Shoot empirehacking@trailofbits.com an email and let us know what you'd like to speak about. https://t.co/IDW5XKoaRh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3129975465 — 2022-01-21 16:19 UTC (2022-01-21 17:19 WAT)
+    
+    - URL: https://x.com/3129975465/status/1484561228261433350
+    - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 0, retweet 5
+    
+    > Call for speakers: We are currently recruiting speakers for our February 8th Empire Hacking virtual event. We're looking for 5-10 minute lightning talks. Have a cool tool you've been working on or solve an interesting problem? Let us know at empirehacking@trailofbits.com!
+    
+
+
+---
+
+## 2021-12-21 · Post · We found critical flaws in common TSS libraries, a cryptographic protocol for distributed key genera
+
+
+Tags (automatic): ZK
+
+
+### Post — @trailofbits — 2021-12-21 13:57 UTC (2021-12-21 14:57 WAT)
+
+- URL: https://x.com/trailofbits/status/1473291464264269826
+- Metrics (at fetch): bookmark 34, impression 0, like 178, quote 13, reply 6, retweet 56
+
+> We found critical flaws in common TSS libraries, a cryptographic protocol for distributed key generation and signing. We’ve released https://t.co/jJMhKTaSVW to help secure the rapidly advancing field of ZKPs, TSS, and similar schemes. https://t.co/OQ4NfyU60K
+
+
+---
+
+## 2021-11-22 · Post · There's a $5k bounty on porting Echidna's underlying dependencies to M1 Macs! Get in touch if you're
+
+
+### Post — @trailofbits — 2021-11-22 13:57 UTC (2021-11-22 14:57 WAT)
+
+- URL: https://x.com/trailofbits/status/1462782319950020617
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 1, retweet 1
+
+> There's a $5k bounty on porting Echidna's underlying dependencies to M1 Macs! Get in touch if you're familiar with Haskell and want to help: https://t.co/VwyI4gTBRD
+
+
+---
+
+## 2021-03-15 · Post · Do you know how pickles are stored? It’s jarring! Read about our new tool, Fickling, and how it can 
+
+
+### Post — @trailofbits — 2021-03-15 15:06 UTC (2021-03-15 16:06 WAT)
+
+- URL: https://x.com/trailofbits/status/1371477874625146880
+- Metrics (at fetch): bookmark 3, impression 0, like 50, quote 6, reply 0, retweet 27
+
+> Do you know how pickles are stored? It’s jarring! Read about our new tool, Fickling, and how it can be used to attack machine learning model files. https://t.co/vTXyMDZTrS
+
+
+---
+
+## 2020-08-05 · Post · Accidentally stepping on a DeFi lego: @samczsun helped save ~$400k from a bug in yEarn. 🎉 https://t.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2020-08-05 13:15 UTC (2020-08-05 14:15 WAT)
+
+- URL: https://x.com/trailofbits/status/1290999997631205376
+- Metrics (at fetch): bookmark 2, impression 0, like 86, quote 3, reply 4, retweet 25
+
+> Accidentally stepping on a DeFi lego: @samczsun helped save ~$400k from a bug in yEarn. 🎉 https://t.co/JXkA3V39ZH
+
+
+---
+
+## 2020-06-02 · Post · 🐝Johns Hopkins partnership for zero-knowledge proofs, Winchecksec 2.0 release, Crytic-al bug hunting
+
+
+### Post — @trailofbits — 2020-06-02 10:59 UTC (2020-06-02 11:59 WAT)
+
+- URL: https://x.com/trailofbits/status/1267772875001466880
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 1, reply 0, retweet 2
+
+> 🐝Johns Hopkins partnership for zero-knowledge proofs, Winchecksec 2.0 release, Crytic-al bug hunting 🐝 - https://t.co/K6AoObGotC https://t.co/AC0pkBe1aA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EZgItioXQAA8lxA.jpg — no alt text provided by author
+
+
+---
+
+## 2020-05-15 · Post · We reported and fixed 12 security issues in projects across Ethereum, some of them critical. Get the
+
+
+### Post — @trailofbits — 2020-05-15 14:19 UTC (2020-05-15 15:19 WAT)
+
+- URL: https://x.com/trailofbits/status/1261300071339110406
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 5
+
+> We reported and fixed 12 security issues in projects across Ethereum, some of them critical. Get the details in 'Bug Hunting with Crytic': https://t.co/kbJD540qoY
+
+
+---
+
+## 2020-03-20 · Post · 🌟Landmark “white-box” Voatz report, the great Manticore ENS bug exploit, huge osquery update🌟 - http
+
+
+### Post — @trailofbits — 2020-03-20 10:59 UTC (2020-03-20 11:59 WAT)
+
+- URL: https://x.com/trailofbits/status/1240956131150888960
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> 🌟Landmark “white-box” Voatz report, the great Manticore ENS bug exploit, huge osquery update🌟 - https://t.co/zO1wBVJv5G https://t.co/Jqdl3HpZ9P
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ETjDBkDXsAIW5Oc.jpg — no alt text provided by author
+
+
+---
+
+## 2020-03-03 · Post · Manticore discovers the ENS bug https://t.co/ouniU6x79P https://t.co/Z0ttQolY2t
+
+
+### Post — @trailofbits — 2020-03-03 19:21 UTC (2020-03-03 20:21 WAT)
+
+- URL: https://x.com/trailofbits/status/1234921978399789063
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 5
+
+> Manticore discovers the ENS bug https://t.co/ouniU6x79P https://t.co/Z0ttQolY2t
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ESNS_qtXYAocTLx.jpg — no alt text provided by author
+
+
+---
+
+## 2020-01-16 · Post · We have a working proof-of-concept exploit for ‘Whose Curve is it Anyway?’ — NSA’s bug in Microsoft’
+
+
+### Post — @trailofbits — 2020-01-16 16:48 UTC (2020-01-16 17:48 WAT)
+
+- URL: https://x.com/trailofbits/status/1217851031104688134
+- Metrics (at fetch): bookmark 15, impression 0, like 125, quote 4, reply 2, retweet 59
+
+> We have a working proof-of-concept exploit for ‘Whose Curve is it Anyway?’ — NSA’s bug in Microsoft’s Crypto API.
+>
+> Read on for our explainer:
+> https://t.co/DMmkDu2XKM
+
+
+---
+
+## 2019-11-01 · Post · Stop wasting time manually reverseengineering. We'll teach you to streamline analysis, deobfuscate 
+
+
+### Post — @trailofbits — 2019-11-01 17:51 UTC (2019-11-01 18:51 WAT)
+
+- URL: https://x.com/trailofbits/status/1190325569247944704
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Stop wasting time manually #reverseengineering. We'll teach you to streamline analysis, deobfuscate code, exploit vulnerabilities, and more. Grab a seat before Early Bird pricing ends: https://t.co/hw8hyiy1zo
+
+
+---
+
+## 2019-10-24 · Post · Watch Your Language: Our First Vyper Audit https://t.co/IsPqG0vFqY https://t.co/L3T0g68nLe
+
+
+### Post — @trailofbits — 2019-10-24 11:01 UTC (2019-10-24 12:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1187323108618833920
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
+
+> Watch Your Language: Our First Vyper Audit https://t.co/IsPqG0vFqY https://t.co/L3T0g68nLe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EHo4EwYWwAAw8UV.png — no alt text provided by author
+
+
+---
+
+## 2019-09-11 · Post · osquery 4.0.1 is here! 🎉
+
+
+### Post — @trailofbits — 2019-09-11 15:10 UTC (2019-09-11 16:10 WAT)
+
+- URL: https://x.com/trailofbits/status/1171803280403587072
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 0, retweet 7
+
+> osquery 4.0.1 is here! 🎉
+> - Build system supports diverse deployments
+> - More event types, search options, improved event tracing
+> - Perf &amp; perf measurement improved
+> - 9mo of bug fixes &amp; hardening
+> Try the first stable release under the @linuxfoundation!
+> https://t.co/6VJqEy7JQg
+
+
+---
+
+## 2019-08-19 · Post · Echidna's latest release lets you fuzz for assertion violations even if you don't write any explicit
+
+
+### Post — @trailofbits — 2019-08-19 16:27 UTC (2019-08-19 17:27 WAT)
+
+- URL: https://x.com/trailofbits/status/1163487550738243585
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 1, reply 0, retweet 3
+
+> Echidna's latest release lets you fuzz for assertion violations even if you don't write any explicit tests (!), and recycles return value constants, as detailed in our analysis of the MakerDAO contracts: https://t.co/M5yOKfB1nW
+> https://t.co/fTFvef0gBs
+
+
+---
+
+## 2019-08-19 · Post · The latest Bluetooth bug (KNOB attack) is bad but hard to exploit in practice: It requires local pro
+
+
+### Post — @trailofbits — 2019-08-19 15:26 UTC (2019-08-19 16:26 WAT)
+
+- URL: https://x.com/trailofbits/status/1163472198398566400
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
+
+> The latest Bluetooth bug (KNOB attack) is bad but hard to exploit in practice: It requires local proximity, perfect timing, and a clear signal to fully MitM both peers. We’ll apply the patches and continue using our bluetooth keyboards. 
+> https://t.co/S1rx5PZAwM
+
+
+---
+
+## 2019-07-17 · Post · Watch Artem and @peter_a_goodman's presentation at the @Qualcomm Mobile Security Summit about their 
+
+
+### Post — @trailofbits — 2019-07-17 15:19 UTC (2019-07-17 16:19 WAT)
+
+- URL: https://x.com/trailofbits/status/1151511663969013760
+- Metrics (at fetch): bookmark 1, impression 0, like 26, quote 1, reply 0, retweet 12
+
+> Watch Artem and @peter_a_goodman's presentation at the @Qualcomm Mobile Security Summit about their incredible journey trying to fuzz legacy VxWorks PowerPC targets with AFL and QEMU #QPSISummit2019 https://t.co/DPB3yoACXB
+
+
+---
+
+## 2019-07-01 · Post · Use siderophile to quickly identify the ideal fuzz targets in a Rust codebase https://t.co/y6gmFNRIG
+
+
+### Post — @trailofbits — 2019-07-01 15:30 UTC (2019-07-01 16:30 WAT)
+
+- URL: https://x.com/trailofbits/status/1145716254449311744
+- Metrics (at fetch): bookmark 3, impression 0, like 25, quote 2, reply 0, retweet 12
+
+> Use siderophile to quickly identify the ideal fuzz targets in a Rust codebase https://t.co/y6gmFNRIGS
+
+
+---
+
+## 2019-01-14 · Post · Data from @Hacker0x01 and @facebook proves that bug bounties only benefit a small elite group. Is th
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @trailofbits — 2019-01-14 12:36 UTC (2019-01-14 13:36 WAT)
+
+- URL: https://x.com/trailofbits/status/1084791374468259846
+- Metrics (at fetch): bookmark 18, impression 0, like 124, quote 7, reply 5, retweet 80
+
+> Data from @Hacker0x01 and @facebook proves that bug bounties only benefit a small elite group. Is this model meeting researchers' interests? Read our review of "New Solutions for Cybersecurity" by @mitpress. https://t.co/bt89Jj4MVn
+
+
+---
+
+## 2018-10-30 · Post · Slither 0.2.0 is out w/ new bug detectors, printers, API enhancements, and IR refinements. Big new f
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2018-10-30 09:56 UTC (2018-10-30 10:56 WAT)
+
+- URL: https://x.com/trailofbits/status/1057209660862816256
+- Metrics (at fetch): bookmark 2, impression 0, like 11, quote 0, reply 0, retweet 5
+
+> Slither 0.2.0 is out w/ new bug detectors, printers, API enhancements, and IR refinements. Big new feature: truffle integration! Find bugs in your Solidity code now: https://t.co/hufk6kW48Y
+
+
+---
+
+## 2018-08-01 · Post · You could have invented that bluetooth attack https://t.co/8NCcTFGTpb https://t.co/BapdXU1A2o
+
+
+### Post — @trailofbits — 2018-08-01 11:05 UTC (2018-08-01 12:05 WAT)
+
+- URL: https://x.com/trailofbits/status/1024612137296125952
+- Metrics (at fetch): bookmark 4, impression 0, like 59, quote 2, reply 1, retweet 37
+
+> You could have invented that bluetooth attack https://t.co/8NCcTFGTpb https://t.co/BapdXU1A2o
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DjgnTv6U8AAQa1C.png — no alt text provided by author
+
+
+---
+
+## 2018-07-26 · Post · Lack of curve point validation continues to trip people up, part 899372. Read @japesinator's comment
+
+
+### Post — @trailofbits — 2018-07-26 15:42 UTC (2018-07-26 16:42 WAT)
+
+- URL: https://x.com/trailofbits/status/1022507538342916096
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Lack of curve point validation continues to trip people up, part 899372. Read @japesinator's commentary about the latest Bluetooth protocol bug in @arstechnica: https://t.co/ygCxkhnbeW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @717313 — 2018-07-26 00:21 UTC (2018-07-26 01:21 WAT)
+    
+    - URL: https://x.com/717313/status/1022275564386873349
+    - Metrics (at fetch): bookmark 1, impression 0, like 24, quote 9, reply 3, retweet 45
+    
+    > Decade-old Bluetooth flaw lets hackers steal data passing between devices https://t.co/MNJWEHzN30 by @dangoodin001
+    
+
+
+---
+
+## 2018-04-06 · Post · You just approved an audit of your codebase. What now? How to prepare for a security audit: https://
+
+
+### Post — @trailofbits — 2018-04-06 10:50 UTC (2018-04-06 11:50 WAT)
+
+- URL: https://x.com/trailofbits/status/982209041945378818
+- Metrics (at fetch): bookmark 1, impression 0, like 17, quote 2, reply 0, retweet 5
+
+> You just approved an audit of your codebase. What now? How to prepare for a security audit: https://t.co/S1pv5URvPH
+
+
+---
+
+## 2018-02-25 · Post · $2,000 of bounty payments for Manticore, McSema, DeepState, and Algo were sent out today. Thanks to 
+
+
+### Post — @trailofbits — 2018-02-25 20:58 UTC (2018-02-25 21:58 WAT)
+
+- URL: https://x.com/trailofbits/status/967866336738267137
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 1
+
+> $2,000 of bounty payments for Manticore, McSema, DeepState, and Algo were sent out today. Thanks to our contributors! (ps. DM us if we missed you -- it can be difficult to track down emails sometimes.) https://t.co/H8QlviZHYP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DW6MsspW4AIq9oR.jpg — no alt text provided by author
+
+
+---
+
+## 2018-02-07 · Post · There's a great multi-part spread on the state of the security industry talent gap in @cxo_magazine 
+
+
+### Post — @trailofbits — 2018-02-07 19:59 UTC (2018-02-07 20:59 WAT)
+
+- URL: https://x.com/trailofbits/status/961328522479525888
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> There's a great multi-part spread on the state of the security industry talent gap in @cxo_magazine this month. See our comments in the bug bounty section. https://t.co/CWGkXaawgg
+
+**Quoted post (full text):**
+
+    #### Quoted post — @913772130298408961 — 2018-02-07 16:32 UTC (2018-02-07 17:32 WAT)
+    
+    - URL: https://x.com/913772130298408961/status/961276418134036480
+    - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 1, reply 0, retweet 2
+    
+    > New CXO Report launches: Closing the cybersecurity talent gap 
+    > https://t.co/jjF9Q9vk7z 
+    >
+    > #CyberSecurity #cxomagazine #CXOReports #talentgap #cyberworkforce https://t.co/7L4joGiVkt
+    
+    **Media:**
+    - media `3_961276363754815488` (details not returned by the API)
+    
+
+
+---
+
+## 2018-01-26 · Post · Trail of Bits has reviewed custody solutions for cryptocurrency exchanges. Please contact us for an 
+
+
+### Post — @trailofbits — 2018-01-26 18:20 UTC (2018-01-26 19:20 WAT)
+
+- URL: https://x.com/trailofbits/status/956955036994617344
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> Trail of Bits has reviewed custody solutions for cryptocurrency exchanges. Please contact us for an audit and make sure your funds are safely stored! https://t.co/wbAItRacvl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @6083342 — 2018-01-26 17:38 UTC (2018-01-26 18:38 WAT)
+    
+    - URL: https://x.com/6083342/status/956944561472815104
+    - Metrics (at fetch): bookmark 0, impression 0, like 151, quote 32, reply 7, retweet 166
+    
+    > "Tokyo-based cryptocurrency exchange Coincheck has confirmed that it has suffered what appears to be the biggest hack in history of the technology" 58 billion yen, or $533 million https://t.co/wi3OfqKN8G
+    

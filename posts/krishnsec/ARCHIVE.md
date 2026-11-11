@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 138
-- Conversations/threads: 138
-- Oldest post captured: 2023-01-17
+- Posts in this file: 154
+- Conversations/threads: 154
+- Oldest post captured: 2022-08-30
 - Newest post captured: 2026-11-04
 
 
@@ -2776,3 +2776,296 @@ Tags (automatic): XSS, SQL injection
 >
 > === Especially those people who ask me for Poc in dm
 > This your time bros , this time Orwa decided to share tips with video poc plus his platform credentials even with 2FA code ,so that u guys can login in his bounty account🙏 ===
+
+
+---
+
+## 2023-01-10 · Post · I think I should hunt on all platforms :)
+
+
+Tags (automatic): RCE
+
+
+### Post — @krishnsec — 2023-01-10 04:21 UTC (2023-01-10 05:21 WAT)
+
+- URL: https://x.com/krishnsec/status/1612665913400250370
+- Metrics (at fetch): bookmark 28, impression 21960, like 199, quote 0, reply 13, retweet 8
+
+> I think I should hunt on all platforms :)
+> Bug: LOG4j rce on public program https://t.co/dRT9pSUGzq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmFWM6yaMAA0JFL.png — no alt text provided by author
+
+
+---
+
+## 2023-01-06 · Post · Got my first bounties of 2k23 
+
+
+Tags (automatic): XSS
+
+
+### Post — @krishnsec — 2023-01-06 09:53 UTC (2023-01-06 10:53 WAT)
+
+- URL: https://x.com/krishnsec/status/1611299897978023936
+- Metrics (at fetch): bookmark 2, impression 6699, like 100, quote 0, reply 0, retweet 0
+
+> Got my first bounties of 2k23 
+>  
+> P1 &amp; xss from same old favourite program ..
+
+
+---
+
+## 2023-01-05 · Post · MVP Q1-3 swag @Bugcrowd ❤️‍🔥 https://t.co/b2bW7ccY3z
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-01-05 11:47 UTC (2023-01-05 12:47 WAT)
+
+- URL: https://x.com/krishnsec/status/1610966287840346113
+- Metrics (at fetch): bookmark 1, impression 7581, like 101, quote 0, reply 2, retweet 0
+
+> MVP Q1-3 swag @Bugcrowd ❤️‍🔥 https://t.co/b2bW7ccY3z
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FltNR0faMAAM195.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-01 · Post · BountyGoals2023 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-01-01 06:02 UTC (2023-01-01 07:02 WAT)
+
+- URL: https://x.com/krishnsec/status/1609429927664963585
+- Metrics (at fetch): bookmark 9, impression 87135, like 203, quote 1, reply 7, retweet 4
+
+> #BountyGoals2023 
+> 2X Bounties than last year
+> 150 P1’s 
+> More collaboration 
+> Thanks @Bugcrowd for everything ❤️
+
+
+---
+
+## 2022-12-29 · Post · what is the trending  for 2023 bounty goals ?
+
+
+### Post — @krishnsec — 2022-12-29 14:58 UTC (2022-12-29 15:58 WAT)
+
+- URL: https://x.com/krishnsec/status/1608477498345656320
+- Metrics (at fetch): bookmark 2, impression 17006, like 39, quote 0, reply 13, retweet 2
+
+> what is the trending # for 2023 bounty goals ?
+
+
+---
+
+## 2022-12-16 · Post · I found 36 sqli  on an Indian Bug Bounty Program 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @krishnsec — 2022-12-16 07:03 UTC (2022-12-16 08:03 WAT)
+
+- URL: https://x.com/krishnsec/status/1603647007792705538
+- Metrics (at fetch): bookmark 10, impression 29130, like 187, quote 0, reply 27, retweet 4
+
+> I found 36 sqli  on an Indian Bug Bounty Program 
+> But they will pay only 20K INR for all criticals 
+>
+> So I left 🙂
+
+
+---
+
+## 2022-12-15 · Post · MVP again ❤️‍🔥 @Bugcrowd https://t.co/jGZS3laD8J
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-12-15 20:31 UTC (2022-12-15 21:31 WAT)
+
+- URL: https://x.com/krishnsec/status/1603487895200755712
+- Metrics (at fetch): bookmark 2, impression 10759, like 104, quote 0, reply 6, retweet 3
+
+> MVP again ❤️‍🔥 @Bugcrowd https://t.co/jGZS3laD8J
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkC7vMdagAAGIWi.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-03 · Post · We are in @Bugcrowd 💌
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-12-03 13:04 UTC (2022-12-03 14:04 WAT)
+
+- URL: https://x.com/krishnsec/status/1599026754831908864
+- Metrics (at fetch): bookmark 1, impression 0, like 60, quote 1, reply 8, retweet 0
+
+> We are in @Bugcrowd 💌
+> @zseano @0xMstar @kenansec @Tur24Tur ⚡️
+>
+> #BCTeamHunt #HackerCup2022
+
+
+---
+
+## 2022-09-16 · Post · Should I start live hunting on twitch  ??
+
+
+### Post — @krishnsec — 2022-09-16 09:49 UTC (2022-09-16 10:49 WAT)
+
+- URL: https://x.com/krishnsec/status/1570711567246970880
+- Metrics (at fetch): bookmark 7, impression 0, like 86, quote 0, reply 27, retweet 4
+
+> Should I start live hunting on twitch  ??
+> Only Recon !
+
+
+---
+
+## 2022-09-14 · Post · Found another weird P1 
+
+
+### Post — @krishnsec — 2022-09-14 12:29 UTC (2022-09-14 13:29 WAT)
+
+- URL: https://x.com/krishnsec/status/1570026961602498560
+- Metrics (at fetch): bookmark 47, impression 0, like 186, quote 2, reply 0, retweet 23
+
+> Found another weird #P1 
+> PII leakage of 15k users 
+> #tip - fuzz faster you fool aka #ffuf 
+> Started ffuf : 301- django error 
+> ran ffuf again -mc 200 : Critical PII disclosure 💸💸
+
+
+---
+
+## 2022-09-07 · Post · In top 100 on @Bugcrowd with 57 P1's
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-09-07 08:39 UTC (2022-09-07 09:39 WAT)
+
+- URL: https://x.com/krishnsec/status/1567432288027422723
+- Metrics (at fetch): bookmark 12, impression 0, like 185, quote 7, reply 1, retweet 5
+
+> In top 100 on @Bugcrowd with 57 P1's
+> I started bug bounty journey 1yr 9 months ago( Nov'2020 )
+> https://t.co/1oyj9G6jHq
+> thank you bugcrowd ⚡♥️ https://t.co/6oghonQsnJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcCjW4aaMAE6NqN.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-03 · Post · When @mertistaken is already present but you still finding P1's 😉
+
+
+### Post — @krishnsec — 2022-09-03 13:32 UTC (2022-09-03 14:32 WAT)
+
+- URL: https://x.com/krishnsec/status/1566056442146488320
+- Metrics (at fetch): bookmark 4, impression 0, like 67, quote 1, reply 1, retweet 0
+
+> When @mertistaken is already present but you still finding P1's 😉
+> Tip after bounty ✌️ https://t.co/t29v91KAoU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbvAB_KaAAIfe9w.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FbvACMSaQAA9fMa.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-03 · Post · Thanks @Bugcrowd https://t.co/EyiU3sIHXw
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-09-03 05:40 UTC (2022-09-03 06:40 WAT)
+
+- URL: https://x.com/krishnsec/status/1565937794048212992
+- Metrics (at fetch): bookmark 1, impression 0, like 65, quote 0, reply 0, retweet 0
+
+> Thanks @Bugcrowd https://t.co/EyiU3sIHXw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbtUGeaaUAEhO8a.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FbtUHXzacAEwP8W.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-02 · Post · Recon
+
+
+### Post — @krishnsec — 2022-09-02 07:38 UTC (2022-09-02 08:38 WAT)
+
+- URL: https://x.com/krishnsec/status/1565604961534476288
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 0, reply 6, retweet 1
+
+> Recon
+
+
+---
+
+## 2022-09-02 · Post · Happy 10 years to @bugcrowd! ♥️ ⚡
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-09-02 07:06 UTC (2022-09-02 08:06 WAT)
+
+- URL: https://x.com/krishnsec/status/1565597086380609542
+- Metrics (at fetch): bookmark 3, impression 0, like 37, quote 0, reply 0, retweet 2
+
+> Happy 10 years to @bugcrowd! ♥️ ⚡
+> cc @caseyjohnellis and whole bugcrowd team ✌️ .. https://t.co/Q0DWXmQ7g1
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2022-08-30 · Post · July 2022, @Bugcrowd leaderboard 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2022-08-30 08:12 UTC (2022-08-30 09:12 WAT)
+
+- URL: https://x.com/krishnsec/status/1564526402065485825
+- Metrics (at fetch): bookmark 3, impression 0, like 138, quote 0, reply 10, retweet 3
+
+> July 2022, @Bugcrowd leaderboard 
+> I just saw 👀, I was in top 10 - first time🙃
+> https://t.co/py0N5tvm8f https://t.co/NPC0twVmjt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbZN3jsVQAEI2HM.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FbZN5OMUYAIgYLH.png — no alt text provided by author

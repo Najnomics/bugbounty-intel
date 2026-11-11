@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 54
-- Conversations/threads: 33
-- Oldest post captured: 2021-12-02
+- Posts in this file: 56
+- Conversations/threads: 35
+- Oldest post captured: 2021-11-11
 - Newest post captured: 2024-11-14
 
 
@@ -961,3 +961,52 @@ Tags (automatic): ZK
     
     > Love making nifty UIs? Think you could improve our game's look and feel? We're hiring! https://t.co/XXYoffnvhO
     
+
+
+---
+
+## 2021-11-30 · Post · We're excited about the upcoming ZK Tech focused Gitcoin matching category! Consider a donation to a
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2021-11-30 20:45 UTC (2021-11-30 21:45 WAT)
+
+- URL: https://x.com/0xPARC/status/1465783996017623045
+- Metrics (at fetch): bookmark 2, impression 0, like 11, quote 0, reply 0, retweet 1
+
+> We're excited about the upcoming ZK Tech focused Gitcoin matching category! Consider a donation to a Gitcoin project grant - the next matching round starts tomorrow. https://t.co/IjRpArJSRp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @412148596 — 2021-11-30 19:14 UTC (2021-11-30 20:14 WAT)
+    
+    - URL: https://x.com/412148596/status/1465761055875993604
+    - Metrics (at fetch): bookmark 2, impression 0, like 13, quote 3, reply 1, retweet 2
+    
+    > The @ZKValidator (with matching partners) is kicking off a ZK focused side round on @gitcoin tmr as part of the CLR matching round! 
+    >
+    > Find out more here
+    > https://t.co/IxdNiTZT3R
+    
+
+
+---
+
+## 2021-11-11 · Post · (1/n) 0xPARC: Applied ZK Learning Group
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2021-11-11 21:23 UTC (2021-11-11 22:23 WAT)
+
+- URL: https://x.com/0xPARC/status/1458908334069727235
+- Metrics (at fetch): bookmark 54, impression 0, like 288, quote 10, reply 85, retweet 102
+
+> (1/n) 0xPARC: Applied ZK Learning Group
+>
+> Developers from Ethereum Foundation and 0xPARC are facilitating a small "applied ZK learning group" for engineers interested in learning about zero-knowledge cryptography and its applications. 
+>
+> Apply by Fri Nov 19 https://t.co/ylkYnKlocq

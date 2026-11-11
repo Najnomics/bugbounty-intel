@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 92
-- Conversations/threads: 92
-- Oldest post captured: 2023-01-30
+- Posts in this file: 97
+- Conversations/threads: 97
+- Oldest post captured: 2022-10-11
 - Newest post captured: 2026-10-31
 
 
@@ -1774,3 +1774,107 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FntluOCaUAEcL3G.png — no alt text provided by author
+
+
+---
+
+## 2023-01-13 · Post · life is short traige my report😋
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-01-13 06:21 UTC (2023-01-13 07:21 WAT)
+
+- URL: https://x.com/RootxRavi/status/1613783391702519809
+- Metrics (at fetch): bookmark 0, impression 2050, like 13, quote 0, reply 4, retweet 1
+
+> life is short traige my report😋
+> @Bugcrowd  @YogoshaOfficial @Hacker0x01 
+>
+> #BugBounty
+
+
+---
+
+## 2023-01-01 · Post · Goalfor2023 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-01-01 06:38 UTC (2023-01-01 07:38 WAT)
+
+- URL: https://x.com/RootxRavi/status/1609438907191685122
+- Metrics (at fetch): bookmark 8, impression 5754, like 73, quote 0, reply 4, retweet 5
+
+> #Goalfor2023 
+> 1-Want to join @cobalt_io 
+> 2-100k bounty ( at least 10k bounty from @synack )
+> 3-More collaboration with @krishnsec ♥️
+> 4-Home for family 🏠
+> 5-Focus on p1 ( Recon )
+> 6-Under 200 on @Bugcrowd 
+> 7- More bike trips with friends 🏍️
+>
+> #BugBounty
+
+
+---
+
+## 2022-12-09 · Post · I earned $200 for my submission on @bugcrowd https://t.co/8AEW4g1IDb ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2022-12-09 06:55 UTC (2022-12-09 07:55 WAT)
+
+- URL: https://x.com/RootxRavi/status/1601108321053732869
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 3, retweet 0
+
+> I earned $200 for my submission on @bugcrowd https://t.co/8AEW4g1IDb #ItTakesACrowd
+
+
+---
+
+## 2022-11-16 · Post · Rewarded 3-digit Bounty for IDOR leads to Mass Username / Email Enumeration 
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @RootxRavi — 2022-11-16 09:12 UTC (2022-11-16 10:12 WAT)
+
+- URL: https://x.com/RootxRavi/status/1592807918428037122
+- Metrics (at fetch): bookmark 32, impression 0, like 105, quote 0, reply 3, retweet 38
+
+> Rewarded 3-digit Bounty for IDOR leads to Mass Username / Email Enumeration 
+>
+> 1: I was testing the Forgot password page  ( it was Developer Account ) 
+> 2: I got the password reset link in an email like this 
+> ( https://t.co/adPG3Hzgeq ) 
+>
+> #bugbountytips #bugbounty #security
+
+
+---
+
+## 2022-10-11 · Post · Rewarded 150 euros 
+
+
+### Post — @RootxRavi — 2022-10-11 18:57 UTC (2022-10-11 19:57 WAT)
+
+- URL: https://x.com/RootxRavi/status/1579908966083010560
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 0, reply 0, retweet 2
+
+> Rewarded 150 euros 
+> #bugbountytips 
+>
+> 1: Crawl Website using Burp
+> 2: Found Directory /zip/test.txt 
+> 3:  text.txt file was containing some sensitive API keys and secret token
+> 4: Bad luck I was not able to exploit it, So reported it as Low https://t.co/Gnv8YbwDiQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fez1DDBVQAA6F5d.png — no alt text provided by author

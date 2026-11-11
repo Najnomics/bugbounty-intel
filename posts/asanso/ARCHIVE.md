@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 129
-- Conversations/threads: 127
-- Oldest post captured: 2017-08-08
+- Posts in this file: 148
+- Conversations/threads: 146
+- Oldest post captured: 2016-08-02
 - Newest post captured: 2026-11-06
 
 
@@ -2495,3 +2495,320 @@ Tags (automatic): Platform: HackerOne
 > Firefox55 my CVE-2017-7781: Elliptic curve point addition error when using mixed Jacobian-affine coordinates is out https://www.mozilla.org/en-US/security/advisories/mfsa2017-18/#CVE-2017-7781
 
 **Links in post:** https://www.mozilla.org/en-US/security/advisories/mfsa2017-18/#CVE-2017-7781
+
+
+---
+
+## 2017-07-19 · Post · Java CVE-2017-10176: Issue with elliptic curve addition in mixed Jacobian-affine coordinates https:/
+
+
+### Post — @asanso — 2017-07-19 15:12 UTC (2017-07-19 16:12 WAT)
+
+- URL: https://x.com/asanso/status/887691580018176000
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 1, reply 2, retweet 13
+
+> Java CVE-2017-10176: Issue with elliptic curve addition in mixed Jacobian-affine coordinates https://t.co/XJbjX7NP6S . write up soonish #EC
+
+
+---
+
+## 2017-07-14 · Post · Invalid curve attack in JWE ECDH-ES slides at https://t.co/QayifuzFj6 https://t.co/yt1jI6Jtjp
+
+
+### Post — @asanso — 2017-07-14 16:30 UTC (2017-07-14 17:30 WAT)
+
+- URL: https://x.com/asanso/status/885899319194398722
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> Invalid curve attack in JWE ECDH-ES slides at https://t.co/QayifuzFj6 https://t.co/yt1jI6Jtjp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @77102605 — 2017-07-14 15:24 UTC (2017-07-14 16:24 WAT)
+    
+    - URL: https://x.com/77102605/status/885882826725392384
+    - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 0, retweet 1
+    
+    > @asanso presenting invalid curve attack on EC #osw17 https://t.co/cyFbwV6c54
+    
+    **Media:**
+    - media `3_885882816747143171` (details not returned by the API)
+    
+
+
+---
+
+## 2017-06-07 · Post · https://t.co/r1wSPxeJAl  A member of the Monero discovers the exploit, triggered by a detailed discu
+
+
+### Post — @asanso — 2017-06-07 14:16 UTC (2017-06-07 15:16 WAT)
+
+- URL: https://x.com/asanso/status/872457293341839361
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> https://t.co/r1wSPxeJAl  A member of the Monero discovers the exploit, triggered by a detailed discussion on the Curves mailing list 2/n
+
+
+---
+
+## 2017-05-23 · Post · I will talk at OAuth Security Workshop 2017 - https://t.co/7gyJriP4On about Invalid curve attack in
+
+
+Tags (automatic): OAuth
+
+
+### Post — @asanso — 2017-05-23 11:50 UTC (2017-05-23 12:50 WAT)
+
+- URL: https://x.com/asanso/status/866984713512267777
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> I will talk at #OAuth Security Workshop 2017 - https://t.co/7gyJriP4On about Invalid curve attack in JWE ECDH-ES https://t.co/XPjzlcWkpb
+
+
+---
+
+## 2017-05-03 · Post · Google Docs Phishing, if this is an attack, everyonecanbeanattacker
+
+
+### Post — @asanso — 2017-05-03 19:48 UTC (2017-05-03 20:48 WAT)
+
+- URL: https://x.com/asanso/status/859857197538390016
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Google Docs Phishing, if this is an attack, #everyonecanbeanattacker
+
+
+---
+
+## 2017-03-23 · Post · Yay, I was awarded a $1,200 bounty on @Hacker0x01! https://t.co/YqpsiDe9Gi TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @asanso — 2017-03-23 11:37 UTC (2017-03-23 12:37 WAT)
+
+- URL: https://x.com/asanso/status/844875839472910338
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $1,200 bounty on @Hacker0x01! https://t.co/YqpsiDe9Gi #TogetherWeHitHarder
+
+
+---
+
+## 2017-03-22 · Post · Yay, I was awarded a $1,331 bounty on @Hacker0x01! https://t.co/YqpsiDe9Gi TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @asanso — 2017-03-22 13:43 UTC (2017-03-22 14:43 WAT)
+
+- URL: https://x.com/asanso/status/844545055905976321
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 1, reply 2, retweet 0
+
+> Yay, I was awarded a $1,331 bounty on @Hacker0x01! https://t.co/YqpsiDe9Gi #TogetherWeHitHarder
+
+
+---
+
+## 2017-03-15 · Post · JSON Libraries Patched Against Invalid Curve Crypto Attack: https://t.co/mYntLaF8bW via @threatpost
+
+
+### Post — @asanso — 2017-03-15 17:09 UTC (2017-03-15 18:09 WAT)
+
+- URL: https://x.com/asanso/status/842060140924792832
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> JSON Libraries Patched Against Invalid Curve Crypto Attack: https://t.co/mYntLaF8bW via @threatpost
+
+
+---
+
+## 2017-03-15 · Post · JSON encryption scheme contains critical vulnerability https://t.co/wJZiwlAyTK
+
+
+### Post — @asanso — 2017-03-15 09:45 UTC (2017-03-15 10:45 WAT)
+
+- URL: https://x.com/asanso/status/841948456449122304
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> JSON encryption scheme contains critical vulnerability https://t.co/wJZiwlAyTK
+
+
+---
+
+## 2017-03-13 · Post · Critical vulnerability in JSON Web Encryption (JWE)  - RFC 7516  Invalid Curve Attack crypto ec i
+
+
+### Post — @asanso — 2017-03-13 21:22 UTC (2017-03-13 22:22 WAT)
+
+- URL: https://x.com/asanso/status/841399121231642625
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> Critical vulnerability in JSON Web Encryption (#JWE)  - RFC 7516  Invalid Curve Attack #crypto #ec instant demo https://t.co/H1FYBNyUFA https://t.co/w8gvTVt2Jj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C60__qlWsAET2Vk.jpg — no alt text provided by author
+
+
+---
+
+## 2017-03-13 · Post · Critical vulnerability in JSON Web Encryption (JWE)  - RFC 7516  Invalid Curve Attack crypto ec h
+
+
+### Post — @asanso — 2017-03-13 18:23 UTC (2017-03-13 19:23 WAT)
+
+- URL: https://x.com/asanso/status/841354054450184194
+- Metrics (at fetch): bookmark 1, impression 0, like 215, quote 16, reply 8, retweet 203
+
+> Critical vulnerability in JSON Web Encryption (#JWE)  - RFC 7516  Invalid Curve Attack #crypto #ec https://t.co/XPjzlcWkpb https://t.co/IyZbue0M71
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C60W1CDWoAE9Nkn.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/C60XBXvWsAEWLQX.jpg — no alt text provided by author
+
+
+---
+
+## 2016-09-22 · Post · openssl CVE-2016-6307 no crypto :( it seems https://t.co/36cbQXbdBV
+
+
+### Post — @asanso — 2016-09-22 08:51 UTC (2016-09-22 09:51 WAT)
+
+- URL: https://x.com/asanso/status/778879452604428288
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> #openssl CVE-2016-6307 no crypto :( it seems https://t.co/36cbQXbdBV
+
+
+---
+
+## 2016-09-20 · Post · Ruby OpenSSL + GCM Nonce Reuse Bug crypto https://t.co/jslB1s541U
+
+
+### Post — @asanso — 2016-09-20 08:51 UTC (2016-09-20 09:51 WAT)
+
+- URL: https://x.com/asanso/status/778154663984128000
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Ruby OpenSSL + GCM Nonce Reuse Bug #crypto https://t.co/jslB1s541U
+
+
+---
+
+## 2016-09-19 · Post · OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701) - https://t.co/H4o26Ln7FL https://
+
+
+### Post — @asanso — 2016-09-19 06:16 UTC (2016-09-19 07:16 WAT)
+
+- URL: https://x.com/asanso/status/777753109632258048
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701) - https://t.co/H4o26Ln7FL https://t.co/GUrbmZCAwb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CssiTjAWcAAM7VX.jpg — no alt text provided by author
+
+
+---
+
+## 2016-09-07 · Post · In my Top X OAuth impl vuln  https://t.co/NTmYLYaoh4 … redirect_uri validation is 1. One more evid
+
+
+Tags (automatic): OAuth
+
+
+### Post — @asanso — 2016-09-07 07:16 UTC (2016-09-07 08:16 WAT)
+
+- URL: https://x.com/asanso/status/773419631939817472
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> In my Top X #OAuth impl vuln  https://t.co/NTmYLYaoh4 … redirect_uri validation is #1. One more evidence (if needed)
+> https://t.co/QV7cL2KVmt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2352887570 — 2016-09-06 16:54 UTC (2016-09-06 17:54 WAT)
+    
+    - URL: https://x.com/2352887570/status/773202711588114432
+    - Metrics (at fetch): bookmark 0, impression 0, like 106, quote 3, reply 4, retweet 58
+    
+    > New blog post! How URL encoded hostname in IE can lead to something unexpected: https://t.co/n8uEcNfY5n
+    
+
+
+---
+
+## 2016-09-07 · Reply · @filedescriptor Indeed  In my Top X OAuth impl vuln  https://t.co/NTmYLYaoh4 redirect_uri validatio
+
+
+Tags (automatic): OAuth
+
+
+### Post — @asanso — 2016-09-07 06:40 UTC (2016-09-07 07:40 WAT)
+
+- URL: https://x.com/asanso/status/773410633018662912
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @filedescriptor Indeed  In my Top X #OAuth impl vuln  https://t.co/NTmYLYaoh4 redirect_uri validation is #1  https://t.co/QV7cL2KVmt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2352887570 — 2016-09-06 16:54 UTC (2016-09-06 17:54 WAT)
+    
+    - URL: https://x.com/2352887570/status/773202711588114432
+    - Metrics (at fetch): bookmark 0, impression 0, like 106, quote 3, reply 4, retweet 58
+    
+    > New blog post! How URL encoded hostname in IE can lead to something unexpected: https://t.co/n8uEcNfY5n
+    
+
+
+---
+
+## 2016-09-01 · Reply · @NahamSec  @smiegles so should i take like: "you are not enough bug hunter :p ?" https://t.co/PV5Jtu
+
+
+### Post — @asanso — 2016-09-01 07:56 UTC (2016-09-01 08:56 WAT)
+
+- URL: https://x.com/asanso/status/771255357146488835
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @NahamSec  @smiegles so should i take like: "you are not enough bug hunter :p ?" https://t.co/PV5JtuuAPb
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2016-08-30 18:48 UTC (2016-08-30 19:48 WAT)
+    
+    - URL: https://x.com/asanso/status/770694654648053760
+    - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 0, retweet 0
+    
+    > @NahamSec invited requested :)
+    
+
+
+---
+
+## 2016-08-30 · Post · @NahamSec invited requested :)
+
+
+### Post — @asanso — 2016-08-30 18:48 UTC (2016-08-30 19:48 WAT)
+
+- URL: https://x.com/asanso/status/770694654648053760
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 0, retweet 0
+
+> @NahamSec invited requested :)
+
+
+---
+
+## 2016-08-02 · Reply · @fransrosen mine is by far "OpenSSL Key Recovery Attack on DH small subgroups"
+
+
+### Post — @asanso — 2016-08-02 08:22 UTC (2016-08-02 09:22 WAT)
+
+- URL: https://x.com/asanso/status/760390258911510528
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> @fransrosen mine is by far "OpenSSL Key Recovery Attack on DH small subgroups"
+> #memorablebugreports

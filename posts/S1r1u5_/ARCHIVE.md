@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 248
-- Conversations/threads: 220
+- Posts in this file: 254
+- Conversations/threads: 226
 - Oldest post captured: 2024-11-16
 - Newest post captured: 2026-11-09
 
@@ -6228,6 +6228,145 @@ Tags (automatic): Platform: Bugcrowd
 > why would i report free bugs to bugcrowd vdp just for vendors to say “never disclose”? that disclosure policy is not it.
 >
 > better to go security@ with project zero deadlines, 90 days, then i share it with the community.
+
+
+---
+
+## 2025-08-16 · Post · I’ve always wondered why YC security companies aren’t making noise.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-08-16 03:53 UTC (2025-08-16 04:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1956564893894943184
+- Metrics (at fetch): bookmark 15, impression 8012, like 38, quote 1, reply 4, retweet 1
+
+> I’ve always wondered why YC security companies aren’t making noise.
+>
+> honestly, could just be a skill issue(i could be wrong)? without technical edge and subject expertise, you can’t engineer agents that actually work. and I haven’t seen any hackers from the bug bounty or security https://t.co/QL5YIH9bCp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @166138615 — 2025-08-16 02:38 UTC (2025-08-16 03:38 WAT)
+    
+    - URL: https://x.com/166138615/status/1956546035117117442
+    - Metrics (at fetch): bookmark 424, impression 160941, like 698, quote 12, reply 39, retweet 58
+    
+    > They got GPT-5 to perform better on security tasks than OpenAI’s own numbers.
+    >
+    > How? 
+    >
+    > Well, that's what agent engineering is about. It's creating an environment and a harness that is best suited for the task and use-case.
+    >
+    > This is a very specialized domain knowledge that it's https://t.co/oSeuaPRmDW
+    
+    **Quoted post** 1956416634173964695: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-08-14 · Post · Securing @gumroad with Hacktron AI 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-08-14 17:37 UTC (2025-08-14 18:37 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1956047477821596079
+- Metrics (at fetch): bookmark 105, impression 30686, like 204, quote 3, reply 5, retweet 19
+
+> Securing @gumroad with Hacktron AI 
+>
+> Three months ago, Hacktron was still early. @HacktronAI and @rootxharsh were finding 0-days targeting specific vulnerabilities on OSS software.
+>
+> Then we ran a full pentest-style scan on a big open-source project. The results were insane. 🧵
+
+
+---
+
+## 2025-08-14 · Post · i think the word novel is thrown around too loosely in infosec.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-08-14 06:52 UTC (2025-08-14 07:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1955885119337542030
+- Metrics (at fetch): bookmark 14, impression 15024, like 42, quote 2, reply 1, retweet 0
+
+> i think the word novel is thrown around too loosely in infosec.
+>
+> what most pentesters or 99.9% of researchers find isn’t a new bug class, it’s just novel for that codebase. most “0days” are codebase-novel variants, not class-novel.
+>
+> i haven’t seen a class-novel vuln from llms
+
+
+---
+
+## 2025-08-13 · Post · now that I have to design software, write code, set up infra, and hunt vulns, im noticing something 
+
+
+### Post — @S1r1u5_ — 2025-08-13 13:05 UTC (2025-08-13 14:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1955616598976586233
+- Metrics (at fetch): bookmark 0, impression 2829, like 21, quote 0, reply 2, retweet 0
+
+> now that I have to design software, write code, set up infra, and hunt vulns, im noticing something peculiar
+>
+> vuln-hunting sirius mode: don’t feel like coding.
+> coding sirius mode: don’t feel like reviewing.
+> reading sirius mode: don’t feel like either.
+>
+> is this a skill issue?
+
+
+---
+
+## 2025-08-09 · Post · i ran it on a pentest we did, comparing it with gemini 2.5 Pro.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-08-09 11:22 UTC (2025-08-09 12:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1954141223804912004
+- Metrics (at fetch): bookmark 4, impression 3179, like 13, quote 1, reply 2, retweet 1
+
+> i ran it on a pentest we did, comparing it with gemini 2.5 Pro.
+>
+> gemini just wanted to spit something out and be done, while gpt-5 actually stuck with it, reviewed everything, and came pretty close to finding the exact bug I already knew about. https://t.co/FgnBxgGQBC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2025-08-09 11:03 UTC (2025-08-09 12:03 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1954136540407533629
+    - Metrics (at fetch): bookmark 0, impression 4653, like 5, quote 1, reply 1, retweet 0
+    
+    > the difference between other models and gpt-5 is that it wants to run forever.
+    
+
+
+---
+
+## 2025-08-09 · Post · the difference between other models and gpt-5 is that it wants to run forever.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-08-09 11:03 UTC (2025-08-09 12:03 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1954136540407533629
+- Metrics (at fetch): bookmark 0, impression 4653, like 5, quote 1, reply 1, retweet 0
+
+> the difference between other models and gpt-5 is that it wants to run forever.
 
 
 ---

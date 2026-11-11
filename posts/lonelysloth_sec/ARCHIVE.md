@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 99
-- Conversations/threads: 99
+- Posts in this file: 100
+- Conversations/threads: 100
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -2428,6 +2428,21 @@ Tags (automatic): AI-assisted hunting
 > 1. The most important resource constraint for both black and white hats is time of highly skilled hackers/SRs.
 >
 > 2. Most highly skilled hackers/SRs are willing to accept a considerable discount to work within the law.
+
+
+---
+
+## 2025-10-30 · Post · 3m+ without submitting to bbp. Already wondering if I will ever find another live bug.
+
+
+### Post — @lonelysloth_sec — 2025-10-30 15:45 UTC (2025-10-30 16:45 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1983923221255557218
+- Metrics (at fetch): not returned
+
+> 3m+ without submitting to bbp. Already wondering if I will ever find another live bug.
+>
+> I guess you never stop feeling like that.
 
 
 ---

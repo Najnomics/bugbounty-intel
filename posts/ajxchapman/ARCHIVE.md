@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 88
-- Conversations/threads: 75
-- Oldest post captured: 2023-02-11
+- Posts in this file: 92
+- Conversations/threads: 79
+- Oldest post captured: 2022-08-31
 - Newest post captured: 2024-11-27
 
 
@@ -1994,3 +1994,79 @@ Tags (automatic): RCE
 - Metrics (at fetch): not returned
 
 > #BugBounty achievement unlocked, duped a malicious hacker actively exploiting a Remote Code Execution bug 😬
+
+
+---
+
+## 2022-11-16 · Post · Something that's been on my mind a lot lately is how to scale as a bug hunter. My sole source of inc
+
+
+### Post — @ajxchapman — 2022-11-16 17:12 UTC (2022-11-16 18:12 WAT)
+
+- URL: https://x.com/ajxchapman/status/1592928578999824385
+- Metrics (at fetch): bookmark 5, impression 0, like 29, quote 0, reply 1, retweet 0
+
+> Something that's been on my mind a lot lately is how to scale as a bug hunter. My sole source of income is from #BugBounty, and due to the nature of this work my wage directly correlates to the number and impact of bugs I find.
+>
+> Full rant on https://t.co/k9spy9FhaY
+
+
+---
+
+## 2022-09-26 · Post · This is really healthy Bug Bounty advice. If you can get to this point, you have proven that you can
+
+
+### Post — @ajxchapman — 2022-09-26 09:48 UTC (2022-09-26 10:48 WAT)
+
+- URL: https://x.com/ajxchapman/status/1574335057707372546
+- Metrics (at fetch): bookmark 3, impression 0, like 51, quote 0, reply 5, retweet 1
+
+> This is really healthy Bug Bounty advice. If you can get to this point, you have proven that you can be a sustainable full-time bug hunter. 👏 @MrTuxracer 
+> #BugBountyTips https://t.co/Ow80dv4kch
+
+**Quoted post (full text):**
+
+    #### Quoted post — @429002176 — 2022-09-25 18:00 UTC (2022-09-25 19:00 WAT)
+    
+    - URL: https://x.com/429002176/status/1574096580734377984
+    - Metrics (at fetch): bookmark 11, impression 0, like 70, quote 3, reply 4, retweet 6
+    
+    > @Nutritionist_AP My secret: having savings to survive two years without having to find a single bug. This is a tremendous psychological effect 😊
+    
+
+
+---
+
+## 2022-09-21 · Post · ... that's not even remotely close to how a bounty works 🤦‍♂️ https://t.co/wzEw7Xr1Lz
+
+
+### Post — @ajxchapman — 2022-09-21 07:09 UTC (2022-09-21 08:09 WAT)
+
+- URL: https://x.com/ajxchapman/status/1572483261905129474
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> ... that's not even remotely close to how a bounty works 🤦‍♂️ https://t.co/wzEw7Xr1Lz
+
+**Quoted post (full text):**
+
+    #### Quoted post — @880405027130617857 — 2022-09-20 20:59 UTC (2022-09-20 21:59 WAT)
+    
+    - URL: https://x.com/880405027130617857/status/1572329658636537857
+    - Metrics (at fetch): bookmark 61, impression 0, like 1899, quote 156, reply 1, retweet 200
+    
+    > To the hacker, we offer a 10% bounty on funds taken. To make it easy, we propose for you to transfer all of the funds taken through the exploit, save for $16M USDC, to:
+    > 0x4f3a120E72C76c22ae802D129F599BFDbc31cb81
+    
+
+
+---
+
+## 2022-08-31 · Post · Trying to exploit a piece of software so old that most of the references I can find to potential vul
+
+
+### Post — @ajxchapman — 2022-08-31 14:52 UTC (2022-08-31 15:52 WAT)
+
+- URL: https://x.com/ajxchapman/status/1564989559657693185
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 0, retweet 0
+
+> Trying to exploit a piece of software so old that most of the references I can find to potential vulnerabilities are suffering from bitrot 😒

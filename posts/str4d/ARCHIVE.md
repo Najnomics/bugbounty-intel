@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 30
-- Conversations/threads: 30
-- Oldest post captured: 2017-12-29
+- Posts in this file: 38
+- Conversations/threads: 38
+- Oldest post captured: 2016-11-29
 - Newest post captured: 2022-11-29
 
 
@@ -660,3 +660,145 @@ Tags (automatic): ZK
 - Metrics (at fetch): not returned
 
 > Just finished an hour and a half of Zcash Sapling circuit specification with @feministPLT. #34c3 crypto tea house still going strong 😊
+
+
+---
+
+## 2017-08-01 · Post · And before 2013, when that attack was used on I2P (which has a similar setup to HSDirs) as part of E
+
+
+### Post — @str4d — 2017-08-01 01:15 UTC (2017-08-01 02:15 WAT)
+
+- URL: https://x.com/str4d/status/892192037621174273
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 1
+
+> And before 2013, when that attack was used on I2P (which has a similar setup to HSDirs) as part of Egger2013 https://t.co/6VIGjD7tzS https://t.co/pfUxt7oR72
+
+**Quoted post (full text):**
+
+    #### Quoted post — @51049452 — 2017-07-31 21:29 UTC (2017-07-31 22:29 WAT)
+    
+    - URL: https://x.com/51049452/status/892135255083298817
+    - Metrics (at fetch): bookmark 0, impression 0, like 13, quote 1, reply 0, retweet 5
+    
+    > To be 0day it must have been before 2015, when @gtank__ and I ran that attack against https://t.co/PQ2DwQnahz 👀 https://t.co/czafTg0k3v https://t.co/CLS9RPiujX
+    
+    **Quoted post** 892052523040878592: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2017-06-09 · Post · Just finished v2 of my PoC for Zcash payment offloading: https://t.co/Zd1JXlCoMm
+
+
+### Post — @str4d — 2017-06-09 09:08 UTC (2017-06-09 10:08 WAT)
+
+- URL: https://x.com/str4d/status/873104546028847105
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 1, retweet 10
+
+> Just finished v2 of my PoC for #Zcash payment offloading: https://t.co/Zd1JXlCoMm
+> Now working on the protocol; if you have a use-case, LMK!
+
+
+---
+
+## 2017-04-03 · Post · Fixed a txi2p bug, now @tahoelafs works with I2P storage nodes! pip install -U txi2p to fix existin
+
+
+### Post — @str4d — 2017-04-03 06:58 UTC (2017-04-03 07:58 WAT)
+
+- URL: https://x.com/str4d/status/848791825271803904
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 3
+
+> Fixed a txi2p bug, now @tahoelafs works with #I2P storage nodes! pip install -U txi2p to fix existing, pip install tahoe-lafs[i2p] for new 😜
+
+
+---
+
+## 2017-02-03 · Post · Excellent post by @VitalikButerin summarising zk-SNARKs! If you wanted more detail than what I gave 
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2017-02-03 06:35 UTC (2017-02-03 07:35 WAT)
+
+- URL: https://x.com/str4d/status/827405208279920640
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 3
+
+> Excellent post by @VitalikButerin summarising zk-SNARKs! If you wanted more detail than what I gave in my @bitcoinmi talk, read this ☺️ https://t.co/lMoOwN7EvA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @295218901 — 2017-02-03 06:09 UTC (2017-02-03 07:09 WAT)
+    
+    - URL: https://x.com/295218901/status/827398472529698817
+    - Metrics (at fetch): bookmark 1, impression 0, like 192, quote 8, reply 9, retweet 96
+    
+    > I just published “Zk-SNARKs: Under the Hood” https://t.co/oDKTnzBrsR
+    
+
+
+---
+
+## 2016-12-22 · Post · I think this is the first time in possibly years that I've had time to hack on a completely new proj
+
+
+### Post — @str4d — 2016-12-22 00:28 UTC (2016-12-22 01:28 WAT)
+
+- URL: https://x.com/str4d/status/811730078346289153
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> I think this is the first time in possibly years that I've had time to hack on a completely new project! I should take holidays more often 🤣
+
+
+---
+
+## 2016-12-17 · Post · If anyone wants to work on improving I2P's usability with C code, here's a library to hack on! https
+
+
+### Post — @str4d — 2016-12-17 04:33 UTC (2016-12-17 05:33 WAT)
+
+- URL: https://x.com/str4d/status/809979892167274496
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 9
+
+> If anyone wants to work on improving I2P's usability with C code, here's a library to hack on! https://t.co/n8tJy6mJmN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @str4d — 2016-12-17 04:32 UTC (2016-12-17 05:32 WAT)
+    
+    - URL: https://x.com/str4d/status/809979625359163394
+    - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 0, retweet 0
+    
+    > @AmorphousNULL libsam3 is now on GitHub! https://t.co/zL1sIYgATa
+    
+
+
+---
+
+## 2016-12-17 · Post · @AmorphousNULL libsam3 is now on GitHub! https://t.co/zL1sIYgATa
+
+
+### Post — @str4d — 2016-12-17 04:32 UTC (2016-12-17 05:32 WAT)
+
+- URL: https://x.com/str4d/status/809979625359163394
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 0, retweet 0
+
+> @AmorphousNULL libsam3 is now on GitHub! https://t.co/zL1sIYgATa
+
+
+---
+
+## 2016-11-29 · Post · It's GivingTuesday! Consider donating to I2P: https://t.co/H9O6eeQmHd
+
+
+### Post — @str4d — 2016-11-29 20:28 UTC (2016-11-29 21:28 WAT)
+
+- URL: https://x.com/str4d/status/803697175968350208
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 3
+
+> It's #GivingTuesday! Consider donating to #I2P: https://t.co/H9O6eeQmHd
+> Or for specific ideas, create a bounty: https://t.co/cqvREtJsRU
+> ❤️

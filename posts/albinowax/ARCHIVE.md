@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 76
-- Conversations/threads: 70
+- Posts in this file: 78
+- Conversations/threads: 72
 - Oldest post captured: 2021-06-01
 - Newest post captured: 2026-11-04
 
@@ -1369,6 +1369,45 @@ Tags (automatic): Request smuggling / desync
     > 3. Cross-format confusion attacks (JSON→XML)
     > https://t.co/2IpN8pvVI0
     
+
+
+---
+
+## 2025-06-10 · Post · I'm thrilled to announce "HTTP/1 Must Die! The Desync Endgame" is coming to DEFCON33!  This talk wi
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2025-06-10 14:20 UTC (2025-06-10 15:20 WAT)
+
+- URL: https://x.com/albinowax/status/1932442814287093870
+- Metrics (at fetch): not returned
+
+> I'm thrilled to announce "HTTP/1 Must Die! The Desync Endgame" is coming to #DEFCON33!  This talk will feature multiple new classes of desync attack, mass exploitation spanning multiple CDNs, and over $200k in bug bounties. See you there! [pic.x.com/6DvRBh3Z7r]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtFqfl-WEAAlreg.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-23 · Post · I'm super proud of the @Burp_Suite enhancements launched by the team over the last year. Beyond the 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2025-05-23 10:41 UTC (2025-05-23 11:41 WAT)
+
+- URL: https://x.com/albinowax/status/1925864594716701054
+- Metrics (at fetch): not returned
+
+> I'm super proud of the @Burp_Suite enhancements launched by the team over the last year. Beyond the AI features, my personal favorites are:
+> - Massive performance improvements
+> - Enhanced single-packet attack
+> - Custom Actions
+> - Numerous QoL wins like "hide boring headers"
 
 
 ---

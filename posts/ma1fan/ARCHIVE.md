@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 104
-- Conversations/threads: 103
-- Oldest post captured: 2024-08-14
+- Posts in this file: 109
+- Conversations/threads: 108
+- Oldest post captured: 2024-04-23
 - Newest post captured: 2026-11-10
 
 
@@ -2381,3 +2381,113 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 18, impression 6261, like 68, quote 1, reply 6, retweet 3
 
 > I just found a bug and got paid on @immunefi #immunefitribe https://t.co/11fvJmqyQs
+
+
+---
+
+## 2024-08-02 · Post · Happy Friday 😎🍺This bug is very interesting and complex https://t.co/DbDTANsZSs
+
+
+### Post — @ma1fan — 2024-08-02 15:09 UTC (2024-08-02 16:09 WAT)
+
+- URL: https://x.com/ma1fan/status/1819390126138761704
+- Metrics (at fetch): bookmark 8, impression 15061, like 131, quote 1, reply 8, retweet 4
+
+> Happy Friday 😎🍺This bug is very interesting and complex https://t.co/DbDTANsZSs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GT_FrDZb0AAI0t_.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-24 · Post · Wow, huge bounty, now you can submit scam url and twitter account  only by right click, and then  yo
+
+
+### Post — @ma1fan — 2024-07-24 08:38 UTC (2024-07-24 09:38 WAT)
+
+- URL: https://x.com/ma1fan/status/1816030227312808320
+- Metrics (at fetch): bookmark 1, impression 859, like 3, quote 0, reply 1, retweet 0
+
+> Wow, huge bounty, now you can submit scam url and twitter account  only by right click, and then  you will get airdrop!!! https://t.co/6VDYaUtVbs
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1703447900607664128 — 2024-07-24 08:26 UTC (2024-07-24 09:26 WAT)
+    
+    - URL: https://x.com/1703447900607664128/status/1816027204306026738
+    - Metrics (at fetch): bookmark 0, impression 918, like 0, quote 1, reply 0, retweet 0
+    
+    > 🛡️ Join the ExVul Web3 Scam Defender Challenge from July 24 to August 24! Protect your Web3 assets, spot fake URLs and impersonation accounts, and win big rewards:
+    >
+    > 🥇 1st Place: Win up to 100 USDT equivalent!
+    > 🥈 2nd Place: Score 88 USDT equivalent!
+    > 🥉 3rd Place: Get 66 USDT https://t.co/tKgTB1i4Yq
+    
+    **Media:**
+    - media `7_1816026049475694592` (details not returned by the API)
+    
+
+
+---
+
+## 2024-07-10 · Post · Lol @stacks merge the PR I submitted, I am very happy to help @stacks fix the bug😆
+
+
+### Post — @ma1fan — 2024-07-10 10:41 UTC (2024-07-10 11:41 WAT)
+
+- URL: https://x.com/ma1fan/status/1810987676004401414
+- Metrics (at fetch): bookmark 1, impression 439, like 0, quote 0, reply 0, retweet 1
+
+> Lol @stacks merge the PR I submitted, I am very happy to help @stacks fix the bug😆
+> https://t.co/mjhZWvhq7y
+
+
+---
+
+## 2024-06-20 · Post · web3安全业界没有很好的法律和规范，安全公司其实没有谈判筹码（当然我这里不是支持这种先转走钱的方式）有时候安全公司发现了安全问题，web3机构也经常不承认或者说这个漏洞影响不严重，故意给很少的bou
+
+
+### Post — @ma1fan — 2024-06-20 05:24 UTC (2024-06-20 06:24 WAT)
+
+- URL: https://x.com/ma1fan/status/1803660155399315769
+- Metrics (at fetch): bookmark 0, impression 1021, like 3, quote 0, reply 0, retweet 0
+
+> web3安全业界没有很好的法律和规范，安全公司其实没有谈判筹码（当然我这里不是支持这种先转走钱的方式）有时候安全公司发现了安全问题，web3机构也经常不承认或者说这个漏洞影响不严重，故意给很少的bounty😅，当收益和付出不匹配的时候就开始做坏事了。 https://t.co/YvrsahjvVJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1360936822277169152 — 2024-06-20 02:19 UTC (2024-06-20 03:19 WAT)
+    
+    - URL: https://x.com/1360936822277169152/status/1803613547957723354
+    - Metrics (at fetch): bookmark 17, impression 68836, like 55, quote 2, reply 12, retweet 10
+    
+    > defi项目方被安全公司勒索更不在少数，安全公司觉得只有先转走了钱，“BD"才好来谈酬劳，只是这次惹美国合规最强的机构，还用一样方法，实属想钱想疯了。但话说回来，认识的很多大交易所在处理安全问题上极其小气，而且官僚主义下会层层掩盖不了了之，安全公司大多时候也是白干活（我司在去年11月帮最近 https://t.co/xN58xwfUfK
+    
+    **Quoted post** 1803607573205242104: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-04-23 · Post · Sorry for hear that, I have found several critical clarity language vulnerabilities(Stacks bug bount
+
+
+### Post — @ma1fan — 2024-04-23 06:52 UTC (2024-04-23 07:52 WAT)
+
+- URL: https://x.com/ma1fan/status/1782663814355534115
+- Metrics (at fetch): bookmark 1, impression 1798, like 4, quote 0, reply 0, retweet 0
+
+> Sorry for hear that, I have found several critical clarity language vulnerabilities(Stacks bug bounty), If any other clarity project want a security review and audit pls DM me. https://t.co/7zOO2e2gd8
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1493952977006219266 — 2024-04-11 21:20 UTC (2024-04-11 22:20 WAT)
+    
+    - URL: https://x.com/1493952977006219266/status/1778533657961288096
+    - Metrics (at fetch): bookmark 0, impression 6989, like 17, quote 2, reply 3, retweet 2
+    
+    > 3/ The attacker removed 324k STX from the protocol. This amount will be reimbursed from the Zest Protocol treasury and users will be whole.
+    >
+    > The remaining funds remain protected in Zest Protocol smart contracts which the attacker no longer has access to.
+    

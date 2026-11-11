@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 98
-- Conversations/threads: 94
-- Oldest post captured: 2025-07-06
+- Posts in this file: 99
+- Conversations/threads: 95
+- Oldest post captured: 2025-05-28
 - Newest post captured: 2026-11-10
 
 
@@ -2223,3 +2223,41 @@ Tags (automatic): Platform: Immunefi
 > this is the last bug report I submit that isn't objectively a funds loss/protocol nuke critical
 >
 > once you get into theoreticals it's a waste of time
+
+
+---
+
+## 2025-05-28 · Post · big bug bounty &gt; hack proceeds
+
+
+### Post — @0xriptide — 2025-05-28 05:49 UTC (2025-05-28 06:49 WAT)
+
+- URL: https://x.com/0xriptide/status/1927603037608001969
+- Metrics (at fetch): not returned
+
+> big bug bounty &gt; hack proceeds
+>
+> ??? [pic.x.com/MlIpbdEvoT] https://twitter.com/BlockSecTeam/status/1927601457815040283
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsA4SJPXYAAEwQl.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/BlockSecTeam/status/1927601457815040283
+
+**Quoted post (full text):**
+
+    #### Quoted post — @BlockSecTeam — 2025-05-28 05:42 UTC (2025-05-28 06:42 WAT)
+    
+    - URL: https://x.com/BlockSecTeam/status/1927601457815040283
+    - Metrics (at fetch): not returned
+    
+    > Our @Phalcon_xyz system detected an hack to @usualmoney . Now the protocol has paused, we can share the link here:
+    >
+    > https://app.blocksec.com/explorer/tx/eth/0x585d8be6a0b07ca2f94cfa1d7542f1a62b0d3af5fab7823cbcf69fb243f271f8
+    >
+    > Book a demo to know how Phalcon can help protocol to monitor hacks and take automated actions.  
+    >
+    > https://blocksec.com/phalcon/security
+    
+    **Links in post:** https://app.blocksec.com/explorer/tx/eth/0x585d8be6a0b07ca2f94cfa1d7542f1a62b0d3af5fab7823cbcf69fb243f271f8, https://blocksec.com/phalcon/security
+    
