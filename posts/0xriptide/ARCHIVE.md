@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 209
-- Conversations/threads: 205
+- Posts in this file: 210
+- Conversations/threads: 206
 - Oldest post captured: 2014-07-21
 - Newest post captured: 2026-11-10
 
@@ -3683,6 +3683,19 @@ Tags (automatic): Platform: Immunefi
 > i probably underestimate how much bug bounty spam each project gets 🤣
 >
 > need more open backchannels
+
+
+---
+
+## 2023-04-12 · Reply · @aiham_eth you don't  need balancer pools to be vulnerable to double entry
+
+
+### Post — @0xriptide — 2023-04-12 17:59 UTC (2023-04-12 18:59 WAT)
+
+- URL: https://x.com/0xriptide/status/1646211438468567041
+- Metrics (at fetch): bookmark 0, impression 222, like 0, quote 0, reply 1, retweet 0
+
+> @aiham_eth you don't  need balancer pools to be vulnerable to double entry
 
 
 ---

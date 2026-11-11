@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 389
+- Posts in this file: 395
 - Conversations/threads: 321
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
@@ -1130,10 +1130,10 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2025-12-08 · Post · Lol, @CaidoIO's Shift just popped a 10.0 crit auth bypass on a public program with 20k bounties...
+## 2025-12-08 · Thread · Lol, @CaidoIO's Shift just popped a 10.0 crit auth bypass on a public program with 20k bounties...
 
 
-Tags (automatic): Auth bypass
+Tags (automatic): Auth bypass, AI-assisted hunting
 
 
 ### Post — @Rhynorater — 2025-12-08 14:34 UTC (2025-12-08 15:34 WAT)
@@ -1147,6 +1147,16 @@ Tags (automatic): Auth bypass
 > "Try to attack the [REDACTED] cookie - use jwt attacks"
 >
 > Two minutes later, it successfully bypassed auth and leaked a different user's info.
+
+
+### Thread part 2 — @Rhynorater — 2025-12-08 14:35 UTC (2025-12-08 15:35 WAT)
+
+- URL: https://x.com/Rhynorater/status/1998038775918916018
+- Metrics (at fetch): bookmark 9, impression 3699, like 46, quote 0, reply 0, retweet 2
+
+> @CaidoIO Giving the AI a little extra direction is SO useful. It's crazy because I can churn out like 50 of these sorta "try this" instructions per hour, and AI is implementing the attack vector correctly like 95% of the time. 
+>
+> The productivity gains are massive.
 
 
 ---
@@ -1290,7 +1300,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-09-10 · Post · Unbelievable exploitation journey documented in a thread in the  critical-thinkers on the CTBB disc
+## 2025-09-10 · Thread · Unbelievable exploitation journey documented in a thread in the  critical-thinkers on the CTBB disc
 
 
 ### Post — @Rhynorater — 2025-09-10 16:25 UTC (2025-09-10 17:25 WAT)
@@ -1304,6 +1314,27 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G0f4ClwWMAU0rwD.png — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2025-09-10 16:25 UTC (2025-09-10 17:25 WAT)
+
+- URL: https://x.com/Rhynorater/status/1965813944905552065
+- Metrics (at fetch): bookmark 0, impression 840, like 2, quote 0, reply 0, retweet 0
+
+> I love this community so much.
+>
+> https://t.co/ieeY7iqG3j
+
+
+### Thread part 3 — @Rhynorater — 2025-09-10 16:26 UTC (2025-09-10 17:26 WAT)
+
+- URL: https://x.com/Rhynorater/status/1965814074824138810
+- Metrics (at fetch): bookmark 0, impression 1662, like 5, quote 0, reply 0, retweet 0
+
+> @rafabyte_ @TomAnthonySEO @joaxcar @J0R1AN @kevin_mizu @7urb01 LOL https://t.co/jUoYVgR72q
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0f5eXWWMAIU3lZ.png — no alt text provided by author
 
 
 ---
@@ -1763,7 +1794,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2024-11-27 · Post · I talk about this on the pod all the time,  but CSRF is dead simple. You just need to know the condi
+## 2024-11-27 · Thread · I talk about this on the pod all the time,  but CSRF is dead simple. You just need to know the condi
 
 
 ### Post — @Rhynorater — 2024-11-27 16:55 UTC (2024-11-27 17:55 WAT)
@@ -1781,6 +1812,14 @@ Tags (automatic): IDOR / BOLA
 > = CSRF
 >
 > The research:
+
+
+### Thread part 2 — @Rhynorater — 2024-11-27 16:55 UTC (2024-11-27 17:55 WAT)
+
+- URL: https://x.com/Rhynorater/status/1861816133856157848
+- Metrics (at fetch): bookmark 35, impression 3387, like 44, quote 0, reply 1, retweet 1
+
+> https://t.co/1d8mcsITLC
 
 
 ---
@@ -1920,7 +1959,7 @@ Tags (automatic): Request smuggling / desync
 
 ---
 
-## 2024-07-23 · Post · Just recorded a BANGER of a 2hr @ctbbpodcast episode with @MtnBer. 
+## 2024-07-23 · Thread · Just recorded a BANGER of a 2hr @ctbbpodcast episode with @MtnBer. 
 
 
 Tags (automatic): Memory corruption / native
@@ -1936,6 +1975,14 @@ Tags (automatic): Memory corruption / native
 > He prepped super well for the pod and dropped a shit ton of great tips.
 >
 > My fav was a 🤯 new technique for exploiting selfXSS utilizing cookies' path attribute, cookie jar overflow, and a common redirect gadget.
+
+
+### Thread part 2 — @Rhynorater — 2024-07-23 18:00 UTC (2024-07-23 19:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/1815809175823462568
+- Metrics (at fetch): bookmark 8, impression 1824, like 20, quote 0, reply 2, retweet 3
+
+> It will drop this Thursday - so keep an eye on https://t.co/wddXQPEv2N or your podcast players.
 
 
 ---
@@ -2036,7 +2083,7 @@ Tags (automatic): XSS, Account takeover, Platform: Bugcrowd
 
 ---
 
-## 2024-07-08 · Post · Latest passion project: a 15-page blueprint on How to go Full-time Bug Bounty for the Critical Think
+## 2024-07-08 · Thread · Latest passion project: a 15-page blueprint on How to go Full-time Bug Bounty for the Critical Think
 
 
 ### Post — @Rhynorater — 2024-07-08 15:22 UTC (2024-07-08 16:22 WAT)
@@ -2050,6 +2097,15 @@ Tags (automatic): XSS, Account takeover, Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GR-VCVeaEAE2shy.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2024-07-08 16:07 UTC (2024-07-08 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1810344985729855892
+- Metrics (at fetch): bookmark 32, impression 4589, like 54, quote 0, reply 1, retweet 8
+
+> @ctbbpodcast If you're interested, here is the page on how to get it:
+> https://t.co/imKcHkoPHr
 
 
 ---

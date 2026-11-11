@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 122
+- Posts in this file: 124
 - Conversations/threads: 122
 - Oldest post captured: 2020-01-17
 - Newest post captured: 2026-11-04
@@ -1222,7 +1222,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-02-05 · Post · I analyze thousands of bug bounty content items every month. Less than 5% makes it to the newsletter
+## 2026-02-05 · Thread · I analyze thousands of bug bounty content items every month. Less than 5% makes it to the newsletter
 
 
 ### Post — @infinitelogins — 2026-02-05 14:00 UTC (2026-02-05 15:00 WAT)
@@ -1236,6 +1236,14 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HAZjeZJXYAAcBaT.jpg — no alt text provided by author
+
+
+### Thread part 2 — @infinitelogins — 2026-02-06 15:57 UTC (2026-02-06 16:57 WAT)
+
+- URL: https://x.com/infinitelogins/status/2019802647788945842
+- Metrics (at fetch): bookmark 8, impression 615, like 9, quote 0, reply 1, retweet 0
+
+> EDIT: You can find the guide here! https://t.co/YxiQgeeB6n
 
 
 ---
@@ -1361,7 +1369,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-26 · Post · A new AI research safe harbor framework published by HackerOne and multiple new LLM-adjacent securit
+## 2026-01-26 · Thread · A new AI research safe harbor framework published by HackerOne and multiple new LLM-adjacent securit
 
 
 Tags (automatic): OAuth, AI-assisted hunting, Platform: HackerOne
@@ -1375,6 +1383,14 @@ Tags (automatic): OAuth, AI-assisted hunting, Platform: HackerOne
 > A new AI research safe harbor framework published by HackerOne and multiple new LLM-adjacent security workflows landing in the wild. On the technical side, OAuth token handling, WAF edge cases, and cloud identity misconfigurations kept showing up across write-ups .
 >
 > Full issue →
+
+
+### Thread part 2 — @infinitelogins — 2026-01-26 22:18 UTC (2026-01-26 23:18 WAT)
+
+- URL: https://x.com/infinitelogins/status/2015912323891040715
+- Metrics (at fetch): bookmark 0, impression 304, like 1, quote 0, reply 0, retweet 0
+
+> @OriginalSicksec , @VailSec , @dropn0w thank YOU for the resources
 
 
 ---

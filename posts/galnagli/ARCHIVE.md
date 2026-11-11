@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 273
+- Posts in this file: 298
 - Conversations/threads: 210
 - Oldest post captured: 2020-07-24
 - Newest post captured: 2026-11-10
@@ -1781,7 +1781,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-31 · Post · Moltbook is currently vulnerable to an attack which discloses the full information, including email 
+## 2026-01-31 · Thread · Moltbook is currently vulnerable to an attack which discloses the full information, including email 
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @galnagli — 2026-01-31 21:58 UTC (2026-01-31 22:58 WAT)
@@ -1794,6 +1797,14 @@ Tags (automatic): AI-assisted hunting
 **Media:**
 - media `3_2017716142249234432` (details not returned by the API)
 - media `3_2017716218250031104` (details not returned by the API)
+
+
+### Thread part 2 — @galnagli — 2026-01-31 23:02 UTC (2026-02-01 00:02 WAT)
+
+- URL: https://x.com/galnagli/status/2017735307282514209
+- Metrics (at fetch): bookmark 33, impression 72970, like 336, quote 11, reply 21, retweet 14
+
+> @moltbook Update: I've connected with @MattPRD via DM. To clarify the scope - 1.5M is the number of agents (most are unverified), while ~17,000 is the actual number of verified human owners with accounts. Hopefully a fix is coming soon.
 
 
 ---
@@ -2059,7 +2070,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-09-19 · Post · I spent the last few weeks digging into hundreds of enterprise-built Vibe Coded applications. 
+## 2025-09-19 · Thread · I spent the last few weeks digging into hundreds of enterprise-built Vibe Coded applications. 
+
+
+Tags (automatic): Auth bypass, AI-assisted hunting
 
 
 ### Post — @galnagli — 2025-09-19 09:33 UTC (2025-09-19 10:33 WAT)
@@ -2073,6 +2087,96 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G1Mu_hNXwAAX_K-.jpg — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2025-09-19 09:33 UTC (2025-09-19 10:33 WAT)
+
+- URL: https://x.com/galnagli/status/1968971820968632576
+- Metrics (at fetch): bookmark 22, impression 3495, like 37, quote 0, reply 1, retweet 5
+
+> These are not platform bugs (like the critical @wix's @base44  authentication bypass vulnerability I discovered). 
+>
+> They're simple, AI-Led mistakes that expose sensitive data , Anyone can make them, and anyone should fix them.
+>
+> https://t.co/O9ZYtQxyRH
+
+
+### Thread part 3 — @galnagli — 2025-09-19 09:33 UTC (2025-09-19 10:33 WAT)
+
+- URL: https://x.com/galnagli/status/1968971824349196749
+- Metrics (at fetch): bookmark 16, impression 3155, like 26, quote 0, reply 1, retweet 5
+
+> Client-Side Authentication 
+>
+> Many applications built their login flow mechanism by simply assigning Localstorage values to grant access to authenticated pages along hardcoding the portal passwords in the javascript files - meaning there's no authentication at all... https://t.co/rDM65lg2vn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1Mq8N5XEAAyUwE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G1MrJe8XMAEXYnM.jpg — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2025-09-19 09:34 UTC (2025-09-19 10:34 WAT)
+
+- URL: https://x.com/galnagli/status/1968971828174418198
+- Metrics (at fetch): bookmark 3, impression 2814, like 17, quote 0, reply 1, retweet 1
+
+> Hardcoded AI Secrets
+>
+> Vibe Coded Applications that just straightforward had sensitive keys within their javascript files, most of those were AI Keys when companies tried to build internal chatbots https://t.co/2XWQKqVbrm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1MrpaGXoAEIQyv.jpg — no alt text provided by author
+
+
+### Thread part 5 — @galnagli — 2025-09-19 09:34 UTC (2025-09-19 10:34 WAT)
+
+- URL: https://x.com/galnagli/status/1968971831718654153
+- Metrics (at fetch): bookmark 5, impression 2672, like 17, quote 0, reply 2, retweet 0
+
+> Database Misconfigurations
+>
+> Vibe-coding platforms make it easy to connect external databases such as Supabase, developers often forget to enable any protection on sensitive tables (RLS), having sensitive data from their applications publicly exposed 🙃 https://t.co/V1hLyPy9uQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1Mr56dWkAAd4Zd.jpg — no alt text provided by author
+
+
+### Thread part 6 — @galnagli — 2025-09-19 09:34 UTC (2025-09-19 10:34 WAT)
+
+- URL: https://x.com/galnagli/status/1968971835476770901
+- Metrics (at fetch): bookmark 4, impression 2559, like 16, quote 0, reply 1, retweet 1
+
+> Publicly Facing Internal Applications
+>
+> from Mock websites with real data to Knowledge bases leaking propriety information and Chatbots trained on sensitive data
+>
+> Builders just never realized anyone could find those websites, so they never thought to enforce any authentication! https://t.co/SBPQeOVoSi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1Msu0FWYAAG3LO.jpg — no alt text provided by author
+
+
+### Thread part 7 — @galnagli — 2025-09-19 09:34 UTC (2025-09-19 10:34 WAT)
+
+- URL: https://x.com/galnagli/status/1968971839276822786
+- Metrics (at fetch): bookmark 7, impression 4158, like 27, quote 0, reply 1, retweet 0
+
+> Huge shoutout to the team at @lovable. When we shared these common patterns, they built &amp; shipped a whole new security best practices section for their users in under 24 hours. Clear sign demonstrating that security is on the top of their minds 
+>
+> https://t.co/Cr2Rjd9qwm https://t.co/ACZtuouTx9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1MtBSRXYAAZe0-.jpg — no alt text provided by author
+
+
+### Thread part 8 — @galnagli — 2025-09-19 09:34 UTC (2025-09-19 10:34 WAT)
+
+- URL: https://x.com/galnagli/status/1968971842443448332
+- Metrics (at fetch): bookmark 22, impression 3793, like 39, quote 0, reply 1, retweet 7
+
+> I wrote up all the technical details, the impact of each flaw, and actionable ways to fix them in our latest blog post.
+>
+> You can read the full research here: https://t.co/jczbfUafIo
 
 
 ---
@@ -2142,7 +2246,7 @@ Tags (automatic): RCE, AI-assisted hunting
 
 ---
 
-## 2025-04-06 · Post · It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP
+## 2025-04-06 · Thread · It's never been easier to get pwned combining @cursor_ai auto-run + @AnthropicAI MCP
 
 
 Tags (automatic): RCE, AI-assisted hunting
@@ -2161,6 +2265,23 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2025-04-06 16:13 UTC (2025-04-06 17:13 WAT)
+
+- URL: https://x.com/galnagli/status/1908915991196623055
+- Metrics (at fetch): bookmark 6, impression 7865, like 33, quote 0, reply 3, retweet 2
+
+> @cursor_ai @AnthropicAI I would have expected either @cursor_ai  or the Protocol itself to have some sort of "Please make sure there is nothing malicious going on".
+>
+> For now:
+>
+> 1. Don't use external MCP servers
+> 2. If you have to, don't have Cursor agent on auto-run
+> 3. Guardrail-wrap every message. https://t.co/92IhLTi94q
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gn3Ub3iWUAAK4cV.png — no alt text provided by author
 
 
 ---
@@ -2211,7 +2332,7 @@ Tags (automatic): RCE, AI-assisted hunting
 
 ---
 
-## 2025-03-28 · Post · Recon challenge for the weekend, your mission - if you choose to accept it, is to discover a subdoma
+## 2025-03-28 · Thread · Recon challenge for the weekend, your mission - if you choose to accept it, is to discover a subdoma
 
 
 Tags (automatic): AI-assisted hunting
@@ -2230,9 +2351,77 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/GnJlVQfb0AADEKI.jpg — no alt text provided by author
 
 
+### Thread part 2 — @galnagli — 2025-03-28 19:21 UTC (2025-03-28 20:21 WAT)
+
+- URL: https://x.com/galnagli/status/1905701759471001919
+- Metrics (at fetch): bookmark 3, impression 4165, like 8, quote 0, reply 1, retweet 0
+
+> The first to discover the subdomain - 1 year @SeatsAero subscription signed by @iangcarroll
+>
+> Additional successful entries in &lt;24 hours - $25 Chipotle Gift Cards
+>
+> Rules of engagement:
+> You can't hack me or @Cloudflare in order to discover the subdomain.
+>
+> First clue in 24 hours 🧧 https://t.co/mLDoF5XncB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnJpne3bgAANoJk.jpg — no alt text provided by author
+
+
+### Thread part 3 — @galnagli — 2025-03-28 19:33 UTC (2025-03-28 20:33 WAT)
+
+- URL: https://x.com/galnagli/status/1905704822650892493
+- Metrics (at fetch): bookmark 3, impression 5125, like 5, quote 0, reply 2, retweet 0
+
+> This is the second edition of my recon challenge which runs once every 4 years!
+>
+> https://t.co/F9Kt741RD5
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2021-01-25 14:05 UTC (2021-01-25 15:05 WAT)
+    
+    - URL: https://x.com/galnagli/status/1353705654612066305
+    - Metrics (at fetch): bookmark 28, impression 0, like 121, quote 4, reply 16, retweet 26
+    
+    > Let's have a little recon challenge 
+    > I have placed 10 unique subdomains on my main blog: http://galnagli.com
+    > I wonder if someone could grab them all through his recon methodology,
+    > (The deepest one is 4 subdomains long)
+    > Might include prizes in the future 🤠
+    > #BugBounty
+    
+    **Links in post:** http://galnagli.com
+    
+
+
+### Thread part 4 — @galnagli — 2025-03-28 19:39 UTC (2025-03-28 20:39 WAT)
+
+- URL: https://x.com/galnagli/status/1905706250282910171
+- Metrics (at fetch): bookmark 2, impression 7603, like 12, quote 0, reply 1, retweet 0
+
+> Side note: This challenge should be solved by using public wordlists, no private wordlists are needed. https://t.co/JX22wo2emD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnJttpxasAAuh3x.jpg — no alt text provided by author
+
+
+### Thread part 5 — @galnagli — 2025-03-28 20:41 UTC (2025-03-28 21:41 WAT)
+
+- URL: https://x.com/galnagli/status/1905721928083775721
+- Metrics (at fetch): bookmark 14, impression 6786, like 9, quote 0, reply 3, retweet 0
+
+> Okay I did some math and it might be too hard to nearly impossible (It sounds easy to guess 2 level deep subdomains, but yea not really)
+>
+> First subdomain has 6 letters, the 2nd one starts with the letter "m" and has less than &lt; 5 letters
+>
+> {6 letters}.m*.gemini.galnagli.com
+
+
 ---
 
-## 2025-03-25 · Post · The attack surface here is huge, not only public servers that directly expose their admission contro
+## 2025-03-25 · Thread · The attack surface here is huge, not only public servers that directly expose their admission contro
 
 
 Tags (automatic): SSRF
@@ -2263,9 +2452,30 @@ Tags (automatic): SSRF
     
 
 
+### Thread part 2 — @galnagli — 2025-03-25 12:43 UTC (2025-03-25 13:43 WAT)
+
+- URL: https://x.com/galnagli/status/1904514546682724551
+- Metrics (at fetch): bookmark 19, impression 4377, like 28, quote 0, reply 1, retweet 4
+
+> Shodan query - https://t.co/UKEnmQuvg4 (4,600 results currently) https://t.co/e5pP28qseX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm4x38OWcAAB4xM.jpg — no alt text provided by author
+
+
+### Thread part 3 — @galnagli — 2025-03-25 12:48 UTC (2025-03-25 13:48 WAT)
+
+- URL: https://x.com/galnagli/status/1904515745205072229
+- Metrics (at fetch): bookmark 20, impression 3711, like 20, quote 0, reply 0, retweet 4
+
+> https://t.co/XTqhHHn4VL
+>
+> Detection Nuclei Template - https://t.co/eVd7mCSQcb
+
+
 ---
 
-## 2025-01-29 · Post · Critical vulnerabilities doesn't have to be complex or have a CVE - @deepseek_ai publicly exposed th
+## 2025-01-29 · Thread · Critical vulnerabilities doesn't have to be complex or have a CVE - @deepseek_ai publicly exposed th
 
 
 ### Post — @galnagli — 2025-01-29 21:48 UTC (2025-01-29 22:48 WAT)
@@ -2281,9 +2491,121 @@ Tags (automatic): SSRF
 - photo: https://pbs.twimg.com/media/GifaiygWgAAcSmP.jpg — no alt text provided by author
 
 
+### Thread part 2 — @galnagli — 2025-01-29 21:50 UTC (2025-01-29 22:50 WAT)
+
+- URL: https://x.com/galnagli/status/1884720756476580039
+- Metrics (at fetch): bookmark 28, impression 20021, like 60, quote 0, reply 1, retweet 1
+
+> @deepseek_ai @wiz_io When facing the task of discovering vulnerabilities on a specific company, the first step is to identify the externally facing attack surface, and later exploiting potential vulnerabilities - in this case, the 2 steps combined all together.
+>
+> It all starts with DNS Discovery!
+
+
+### Thread part 3 — @galnagli — 2025-01-29 21:57 UTC (2025-01-29 22:57 WAT)
+
+- URL: https://x.com/galnagli/status/1884722460072792401
+- Metrics (at fetch): bookmark 134, impression 29389, like 111, quote 3, reply 2, retweet 13
+
+> @deepseek_ai @wiz_io Taking our target root domain (for Bug Bounty / Responsible Disclosure) such as deepseek[.]com, we will want to feed it into DNS Discovery tools, those divide to 2 main workflows - Passive &amp; Active.
+>
+> In the passive sense, we want to query public DNS datasets all over the internet https://t.co/Ov5nnrepUr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GifgXBFW4AA-cMm.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Gifgy3hXIAALZPR.png — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2025-01-29 22:02 UTC (2025-01-29 23:02 WAT)
+
+- URL: https://x.com/galnagli/status/1884723811234308128
+- Metrics (at fetch): bookmark 44, impression 20584, like 54, quote 0, reply 1, retweet 5
+
+> @deepseek_ai @wiz_io Okay - so now we have a list of subdomains that are configured with some sort of DNS record and belong to our target.
+>
+> We want to narrow down the scope now to everything that is externally facing, and actively expose some sort of service (could be HTTP server or Network component https://t.co/xEiV67mqOZ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gifh0w2XUAAX4af.png — no alt text provided by author
+
+
+### Thread part 5 — @galnagli — 2025-01-29 22:15 UTC (2025-01-29 23:15 WAT)
+
+- URL: https://x.com/galnagli/status/1884727121219879047
+- Metrics (at fetch): bookmark 16, impression 18353, like 42, quote 0, reply 2, retweet 1
+
+> @deepseek_ai @wiz_io Looking at the results so far, I had a list of publicly facing HTTP servers that belong to DeepSeek - most of them were completely legitimate such as their Chatbot, API Docs or status web server.
+>
+> Two assets caught my attention, https://t.co/LM6EJ8JY2u &amp; https://t.co/u0pJz1Ques https://t.co/bEYEpxbvVn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gifk5aBXkAA5L8O.png — no alt text provided by author
+
+
+### Thread part 6 — @galnagli — 2025-01-29 22:17 UTC (2025-01-29 23:17 WAT)
+
+- URL: https://x.com/galnagli/status/1884727473394393118
+- Metrics (at fetch): bookmark 23, impression 18446, like 46, quote 0, reply 2, retweet 2
+
+> @deepseek_ai @wiz_io In the meantime, while I started looking on all the assets we already discovered, I had another tool running in the background - @pdnuclei, what that tool does is simply checking whether there are any immediate HTTP &amp; Network based misconfigurations on the servers we discovered. https://t.co/4FAMybCDpd
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GiflhXKWAAA2C0H.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GifllljW8AElsKV.png — no alt text provided by author
+
+
+### Thread part 7 — @galnagli — 2025-01-29 22:24 UTC (2025-01-29 23:24 WAT)
+
+- URL: https://x.com/galnagli/status/1884729463008841762
+- Metrics (at fetch): bookmark 15, impression 17699, like 40, quote 0, reply 2, retweet 1
+
+> @deepseek_ai @wiz_io @pdnuclei From this point - validating the exposure was pretty straight forward, looking at ClickHouse API - we were able to access the HTTP API which allows straight forward querying the MySQL database
+>
+> There was a significant exposure of data, especially from the log_stream table, over https://t.co/NhS2gyfBpJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GifnHyAXsAAon5E.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GifnZHnWYAAJVoa.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Gifna57WYAAcg2t.png — no alt text provided by author
+
+
+### Thread part 8 — @galnagli — 2025-01-29 22:26 UTC (2025-01-29 23:26 WAT)
+
+- URL: https://x.com/galnagli/status/1884729836460974535
+- Metrics (at fetch): bookmark 57, impression 16487, like 96, quote 0, reply 5, retweet 5
+
+> @deepseek_ai @wiz_io @pdnuclei Generalizing the process:
+>
+> 1. Discovering Subdomains 
+> 2. Probing for externally exposed services
+> 3. Identifying anomalies and potential internal development services
+> 4. Exploitation Validation (in a safe, none destructive manner)
+> 5. Responsible Disclosure
+>
+> This is what happened
+
+
+### Thread part 9 — @galnagli — 2025-01-29 22:27 UTC (2025-01-29 23:27 WAT)
+
+- URL: https://x.com/galnagli/status/1884730205966590188
+- Metrics (at fetch): bookmark 58, impression 21043, like 105, quote 1, reply 6, retweet 13
+
+> @deepseek_ai @wiz_io @pdnuclei I invite everyone to read our blog at @wiz_io of this specific exposure https://t.co/Xv2ZSCkYJP and welcome you all to ask questions, I hope that sooner rather than later companies will eliminate their unnecessary external risks proactively : ) 🙏
+
+
+### Thread part 10 — @galnagli — 2025-01-30 06:06 UTC (2025-01-30 07:06 WAT)
+
+- URL: https://x.com/galnagli/status/1884845519601565714
+- Metrics (at fetch): bookmark 16, impression 20927, like 74, quote 1, reply 5, retweet 3
+
+> @deepseek_ai @wiz_io @pdnuclei @deepseek_ai response https://t.co/SfCSyX1GUQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GihRAezXoAAQijr.jpg — no alt text provided by author
+
+
 ---
 
-## 2025-01-11 · Post · 🚨The new unauthenticated RCE affecting Aviatrix Controllers (CVE-2024-50603) is the real deal - with
+## 2025-01-11 · Thread · 🚨The new unauthenticated RCE affecting Aviatrix Controllers (CVE-2024-50603) is the real deal - with
 
 
 Tags (automatic): RCE
@@ -2304,6 +2626,19 @@ Tags (automatic): RCE
 - photo: https://pbs.twimg.com/media/GhCELhXWAAAS1Nv.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GhCEbc7WsAEf4Cs.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GhCFphwXoAAp3WU.png — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2025-01-11 18:49 UTC (2025-01-11 19:49 WAT)
+
+- URL: https://x.com/galnagli/status/1878152255376871753
+- Metrics (at fetch): bookmark 38, impression 5457, like 39, quote 0, reply 0, retweet 2
+
+> Nuclei template - https://t.co/LwGj2qnY7N
+>
+> Shodan Query (562 Results) - https://t.co/osuLMUJYrd
+>
+> Fofa Query (3,678 Results)
+> https://t.co/oKU8ZttvRq
 
 
 ---

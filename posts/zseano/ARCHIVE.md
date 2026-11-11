@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 377
+- Posts in this file: 388
 - Conversations/threads: 370
 - Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
@@ -975,7 +975,10 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2026-01-03 · Post · It’s time to lock in. If you’re struggling with bug bounties, spend the next few weeks finding a tar
+## 2026-01-03 · Thread · It’s time to lock in. If you’re struggling with bug bounties, spend the next few weeks finding a tar
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @zseano — 2026-01-03 11:19 UTC (2026-01-03 12:19 WAT)
@@ -986,6 +989,111 @@ Tags (automatic): Platform: HackerOne
 > It’s time to lock in. If you’re struggling with bug bounties, spend the next few weeks finding a target you personally enjoy. Bigger the scope the better! Then focus on them everyday for the entire year. Aim to hack 2-3 hours minimum a day. You’ll learn lots and find bugs. 
 >
 > GL!
+
+
+### Thread part 2 — @zseano — 2026-01-30 09:44 UTC (2026-01-30 10:44 WAT)
+
+- URL: https://x.com/zseano/status/2017172138818519109
+- Metrics (at fetch): bookmark 1, impression 2074, like 19, quote 0, reply 1, retweet 0
+
+> So who’s spent this month poking at various targets and found one they’re getting comfortable with? :) make this year a good year, focus and find those bugs!! (Before AI does 😅)
+
+
+---
+
+## 2022-10-30 · Thread · sorry i've been quiet lately btw, after taking 1year+ out to build @BugBountyHunt3r I started doing 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @zseano — 2022-10-30 10:37 UTC (2022-10-30 11:37 WAT)
+
+- URL: https://x.com/zseano/status/1586668546989428738
+- Metrics (at fetch): bookmark 12, impression 0, like 368, quote 0, reply 22, retweet 6
+
+> sorry i've been quiet lately btw, after taking 1year+ out to build @BugBountyHunt3r I started doing more hacking in May and i've been addicted ever since. Reclaimed #1 spot on my fav program and next is to hit 10k rep overall :D I will forever be grateful for bug bounties &lt;3 [pic.x.com/qdM6vpyuKE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FgT5xQuXoAEMftg.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FgT6e8RXkAEHbft.png — no alt text provided by author
+
+
+### Thread part 2 — @zseano — 2022-11-02 15:04 UTC (2022-11-02 16:04 WAT)
+
+- URL: https://x.com/zseano/status/1587822919182319620
+- Metrics (at fetch): bookmark 0, impression 0, like 51, quote 0, reply 2, retweet 0
+
+> Almostttt there , hopefully my pending bugs are enough to push me to my goal 🙏🏻🙏🏻 [pic.x.com/ygWIXyNvHI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FgkUhzqWQAAejDA.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zseano — 2022-11-17 19:45 UTC (2022-11-17 20:45 WAT)
+
+- URL: https://x.com/zseano/status/1593329397272121366
+- Metrics (at fetch): bookmark 0, impression 0, like 111, quote 2, reply 11, retweet 1
+
+> Finally joined the cool kids with 10k rep :D [pic.x.com/V1tKaA76KC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhykgBsXkAMzFtf.png — no alt text provided by author
+
+
+### Thread part 4 — @zseano — 2022-11-18 00:35 UTC (2022-11-18 01:35 WAT)
+
+- URL: https://x.com/zseano/status/1593402409472217089
+- Metrics (at fetch): bookmark 0, impression 0, like 39, quote 0, reply 0, retweet 0
+
+> next years challenge to finally hit 10k on bugcrowd? 🤔been a while since i've been active there [pic.x.com/r4XCQjyn6t]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fhzm2l3XwAEZJ2d.png — no alt text provided by author
+
+
+### Thread part 5 — @zseano — 2023-09-26 22:01 UTC (2023-09-26 23:01 WAT)
+
+- URL: https://x.com/zseano/status/1706791220243267720
+- Metrics (at fetch): bookmark 4, impression 10143, like 120, quote 1, reply 14, retweet 2
+
+> 20k achieved :D journey to 30k begins [pic.x.com/l00Szwevcb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6-9OiGXgAA4h1a.png — no alt text provided by author
+
+
+### Thread part 6 — @zseano — 2024-12-19 23:55 UTC (2024-12-20 00:55 WAT)
+
+- URL: https://x.com/zseano/status/1869894243495428327
+- Metrics (at fetch): bookmark 1, impression 4103, like 102, quote 0, reply 4, retweet 0
+
+> 30k rep achieved, journey to 40k begins [pic.x.com/6ETD3vjQAW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GfMyzVgXcAAsmfh.png — no alt text provided by author
+
+
+### Thread part 7 — @zseano — 2026-01-20 17:14 UTC (2026-01-20 18:14 WAT)
+
+- URL: https://x.com/zseano/status/2013661527031615537
+- Metrics (at fetch): bookmark 1, impression 1339, like 9, quote 0, reply 2, retweet 0
+
+> 40k rep achieved, journey to 50k begins [pic.x.com/SFT3Df3aVb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_H2d8sWUAAdiqc.png — no alt text provided by author
+
+
+### Thread part 8 — @zseano — 2026-01-20 17:18 UTC (2026-01-20 18:18 WAT)
+
+- URL: https://x.com/zseano/status/2013662306819879101
+- Metrics (at fetch): bookmark 1, impression 1196, like 8, quote 0, reply 1, retweet 0
+
+> also crazy how much of a lead we have on this program :p no-one catchin me and jon anytime soon [pic.x.com/XFZMyUC2Ze]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_H3JTvX0AA30SO.png — no alt text provided by author
 
 
 ---
@@ -1626,7 +1734,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2023-02-15 · Post · found 50+ bugs in the last 4 weeks but now i've gone 2 days without finding anything and i'm like AR
+## 2023-02-15 · Thread · found 50+ bugs in the last 4 weeks but now i've gone 2 days without finding anything and i'm like AR
 
 
 ### Post — @zseano — 2023-02-15 11:38 UTC (2023-02-15 12:38 WAT)
@@ -1635,6 +1743,28 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 19, impression 33984, like 233, quote 0, reply 12, retweet 3
 
 > found 50+ bugs in the last 4 weeks but now i've gone 2 days without finding anything and i'm like ARGHHHH lol need that daily dopamine hit of finding a bug but could also maybe do with a lil break ;D joys of being addicted to hacking :P
+
+
+### Thread part 2 — @zseano — 2023-02-15 11:41 UTC (2023-02-15 12:41 WAT)
+
+- URL: https://x.com/zseano/status/1625822569336041474
+- Metrics (at fetch): bookmark 1, impression 9452, like 65, quote 0, reply 6, retweet 0
+
+> found the reason why... my total report count is 666. the devil has consumed me and giving me bad luck. noooooo [pic.x.com/USBCHn88w5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpAU8bJWIAAvlOw.png — no alt text provided by author
+
+
+### Thread part 3 — @zseano — 2023-02-16 00:01 UTC (2023-02-16 01:01 WAT)
+
+- URL: https://x.com/zseano/status/1626008936879988737
+- Metrics (at fetch): bookmark 0, impression 6030, like 29, quote 0, reply 1, retweet 0
+
+> the devil is behind us, thx @NahamSec for the great collaboration :D [pic.x.com/a5CH7LgkD0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpC-aiMXEAIRcTN.png — no alt text provided by author
 
 
 ---
@@ -1809,19 +1939,34 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-10-30 · Post · sorry i've been quiet lately btw, after taking 1year+ out to build @BugBountyHunt3r I started doing 
+## 2022-09-01 · Thread · if you're curious which public HackerOne programs are receiving attention (as well as bugs found if 
 
 
-### Post — @zseano — 2022-10-30 10:37 UTC (2022-10-30 11:37 WAT)
+Tags (automatic): Platform: HackerOne
 
-- URL: https://x.com/zseano/status/1586668546989428738
-- Metrics (at fetch): bookmark 12, impression 0, like 368, quote 0, reply 22, retweet 6
 
-> sorry i've been quiet lately btw, after taking 1year+ out to build @BugBountyHunt3r I started doing more hacking in May and i've been addicted ever since. Reclaimed #1 spot on my fav program and next is to hit 10k rep overall :D I will forever be grateful for bug bounties &lt;3 https://t.co/qdM6vpyuKE
+### Post — @zseano — 2022-09-01 15:14 UTC (2022-09-01 16:14 WAT)
+
+- URL: https://x.com/zseano/status/1565357417902362625
+- Metrics (at fetch): bookmark 66, impression 0, like 260, quote 1, reply 7, retweet 42
+
+> if you're curious which public HackerOne programs are receiving attention (as well as bugs found if disclosed) you can browse daily stats here: https://www.bugbountyhunter.com/publicprograms
+>
+> NewRelic seems to be receiving a lot of reports lately :D [pic.x.com/Y3toMZVHSC]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FgT5xQuXoAEMftg.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/FgT6e8RXkAEHbft.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FblCtheaIAADIm8.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FblCvXbaIAASh2G.png — no alt text provided by author
+
+**Links in post:** https://www.bugbountyhunter.com/publicprograms
+
+
+### Thread part 2 — @zseano — 2022-09-04 21:02 UTC (2022-09-04 22:02 WAT)
+
+- URL: https://x.com/zseano/status/1566532118695526400
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 1
+
+> I’m a bit of a Derp and actually didn’t realise stats haven’t been logging for a month before sharing this ;) so data not up to date, working on a fix :) seems h1 changed some stuff
 
 
 ---
@@ -1835,28 +1980,6 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 6, impression 0, like 266, quote 1, reply 16, retweet 5
 
 > As of today I am now a stay at home dad as Abi is returning to work to continue her teaching career :) very grateful for the bug bounty industry because I get to spend all day with my son &amp; never miss a moment and then hack/work in the evenings :)
-
-
----
-
-## 2022-09-01 · Post · if you're curious which public HackerOne programs are receiving attention (as well as bugs found if 
-
-
-Tags (automatic): Platform: HackerOne
-
-
-### Post — @zseano — 2022-09-01 15:14 UTC (2022-09-01 16:14 WAT)
-
-- URL: https://x.com/zseano/status/1565357417902362625
-- Metrics (at fetch): bookmark 66, impression 0, like 260, quote 1, reply 7, retweet 42
-
-> if you're curious which public HackerOne programs are receiving attention (as well as bugs found if disclosed) you can browse daily stats here: https://t.co/q4jrzi9jWw
->
-> NewRelic seems to be receiving a lot of reports lately :D https://t.co/Y3toMZVHSC
-
-**Media:**
-- photo: https://pbs.twimg.com/media/FblCtheaIAADIm8.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/FblCvXbaIAASh2G.png — no alt text provided by author
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 95
+- Posts in this file: 146
 - Conversations/threads: 95
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
@@ -68,7 +68,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2026-09-24 · Post · We found bugs in @Zcash.
+## 2026-09-24 · Thread · We found bugs in @Zcash.
 
 
 Tags (automatic): ZK
@@ -89,6 +89,94 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HS_6QStWQAA_3a_.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2026-09-24 17:31 UTC (2026-09-24 18:31 WAT)
+
+- URL: https://x.com/zellic_io/status/2103175520984908150
+- Metrics (at fetch): bookmark 1, impression 3041, like 17, quote 0, reply 1, retweet 1
+
+> Zebra caches the hashes of received blocks before contextual validation completes.
+>
+> If a malformed block is received, the node would correctly reject it. However, it would forget to remove the hash from the cache.
+>
+> A guard checks incoming blocks against this cache, meaning that even though the malformed block was rejected, any future blocks with that hash will be blindly discarded as duplicates before they can be committed.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS_6VbsWIAAjwue.png — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2026-09-24 17:31 UTC (2026-09-24 18:31 WAT)
+
+- URL: https://x.com/zellic_io/status/2103175524222693671
+- Metrics (at fetch): bookmark 0, impression 2142, like 6, quote 0, reply 1, retweet 0
+
+> Zip-244 defines the `txid_v5` digest algorithm for Zcash. Notably, `txid_v5` does not directly bind the transparent input `scriptSig` fields, such as coinbase `scriptSig`, to the resulting digest.
+>
+> By taking a valid block and changing bytes in the coinbase `scriptSig`, we can create a malformed block which has the same `merkle_root` and block header hash as the valid block, but would fail validation as `auth_data_root` is mismatched.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS_6f8fXYAAi6uX.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2026-09-24 17:31 UTC (2026-09-24 18:31 WAT)
+
+- URL: https://x.com/zellic_io/status/2103175526877982723
+- Metrics (at fetch): bookmark 1, impression 1841, like 8, quote 0, reply 1, retweet 0
+
+> An attacker can create malformed blocks which have the same hash as a valid block in the network, then advertise the hash to the target victim node via `inv`.
+>
+> When the victim requests the hash from the attacker via `getdata` the attacker can instead supply the malformed block, poisoning the cache. The victim will then reject the valid block when it arrives, causing the node to stall.
+>
+> This bug is covered by advisory GHSA-4m69-67m6-prqp
+> https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-4m69-67m6-prqp
+
+**Links in post:** https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-4m69-67m6-prqp
+
+
+### Thread part 5 — @zellic_io — 2026-09-24 17:31 UTC (2026-09-24 18:31 WAT)
+
+- URL: https://x.com/zellic_io/status/2103175529557897701
+- Metrics (at fetch): bookmark 0, impression 1675, like 6, quote 0, reply 1, retweet 0
+
+> A second bug affects a Zebra node catching up to the chain.
+>
+> A malicious peer can answer the victim node’s `FindBlocks` request with a tiny hash inventory, then serve a syntactically valid block with a coinbase height far above the victim’s local tip.
+>
+> This would trigger an error.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS_6qn0WoAAZulW.png — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2026-09-24 17:31 UTC (2026-09-24 18:31 WAT)
+
+- URL: https://x.com/zellic_io/status/2103175532217049367
+- Metrics (at fetch): bookmark 0, impression 1713, like 7, quote 0, reply 1, retweet 0
+
+> The `AboveLookaheadHeightLimit` error type would bypass peer-specific handling and trigger a global sync restart, cancelling all in-flight downloads from honest peers.
+>
+> Furthermore, the error fails to include `advertiser_addr` or any misbehaviour score information, meaning the malicious peer is never scored or disconnected. Combined with the 67-second sync restart delay on mainnet, the attacker can keep the victim restarting indefinitely.
+>
+> This bug is covered by GHSA-gvjc-3w7c-92jx
+>
+> https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-gvjc-3w7c-92jx
+
+**Links in post:** https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-gvjc-3w7c-92jx
+
+
+### Thread part 7 — @zellic_io — 2026-09-24 17:31 UTC (2026-09-24 18:31 WAT)
+
+- URL: https://x.com/zellic_io/status/2103175535459467550
+- Metrics (at fetch): bookmark 4, impression 1644, like 22, quote 0, reply 0, retweet 2
+
+> Thanks to the Zcash team for their swift and professional collaboration during disclosure and remediation.
+>
+> We’ve reported additional vulnerabilities in adjacent Zcash infrastructure that aren’t yet public, so be on the lookout for part 2.
+>
+> But if you want a deeper look into these two bugs, along with other vulnerabilities disclosed to Zcash, check out our blog post:  https://www.zellic.io/blog/zcash-protocol-bug
+
+**Links in post:** https://www.zellic.io/blog/zcash-protocol-bug
 
 
 ---
@@ -118,7 +206,10 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2026-08-27 · Post · One permissionless call and your deposit is… miner fees?
+## 2026-08-27 · Thread · One permissionless call and your deposit is… miner fees?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
@@ -136,9 +227,140 @@ Tags (automatic): Memory corruption / native
 - photo: https://pbs.twimg.com/media/HQvXxayaAAAtMIj.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019549339979823
+- Metrics (at fetch): bookmark 0, impression 1094, like 2, quote 0, reply 1, retweet 0
+
+> In Relay, each order gets a unique Bitcoin address. Once a user deposits, anyone can call `sweep()` to build the transfer to Relay’s depository.
+>
+> This builds the Bitcoin transaction, computes the sighash, and requests a signature on it from the NEAR MPC.
+>
+> As `sweep()` is permissionless, calldata should be treated as adversarial. However, the contract accepts a caller-supplied `utxo.value` without verifying it against the real Bitcoin UTXO.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvcz-VbwAEs1hW.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019551718068477
+- Metrics (at fetch): bookmark 0, impression 275, like 0, quote 0, reply 1, retweet 0
+
+> This is compounded by `sweep` using legacy P2PKH signing with `SIGHASH_ALL` which, as per the legacy spec, omits input amounts when computing the sighash.
+>
+> Putting it together, anyone can call `sweep()` with a real confirmed outpoint, but a fake low UTXO input value. The contract produces a valid P2PKH signature believing the input holds fewer sats.
+>
+> A Bitcoin node rebuilds the sighash from the on chain UTXO data, checking the signature. As the amount never entered the digest, the signature from the NEAR MPC matches the sighash computed despite the differing real input value, and nothing objects.
+>
+> But what happens to the rest of the sats?
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvc2MnbUAAcycN.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019553794281517
+- Metrics (at fetch): bookmark 0, impression 165, like 0, quote 0, reply 1, retweet 0
+
+> The caller doesn’t get to pick the destination. Both outputs are defined by the contract, not by calldata, so the attacker can lie about `utxo.value`, but cannot redirect.
+>
+> The only lever left is Bitcoin’s implicit fee.
+>
+> Bitcoin checks that the total value of consumed UTXOs has to be at least the total value of new outputs, and anything left is the fee.
+>
+> That looks like pure destruction, but the fee goes to whoever mines the block, whether a miner-attacker or anyone with a fee-split arrangement with one.
+
+
+### Thread part 5 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019555430019358
+- Metrics (at fetch): bookmark 0, impression 159, like 0, quote 0, reply 1, retweet 0
+
+> The deposit outpoint and its `scriptPubKey` sit on-chain, and the per-order pubkey derives from (`address(this), orderId`).
+>
+> So an attacker reads the confirmed UTXO from any Bitcoin node, asks the NEAR MPC to sign `hashToSign(payload)` for a value far below the real one, assembles the P2PKH `scriptSig` (`<sig> <pubkey>`), and broadcasts the transaction.
+>
+> One permissionless call to `sweep()`, and the funds never arrive at the depository.
+
+
+### Thread part 6 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019557082681798
+- Metrics (at fetch): bookmark 0, impression 142, like 0, quote 0, reply 2, retweet 0
+
+> The attacker’s transaction does not compete for a place in the next block, it replaces the honest, depository-crediting sweep — both spend the same outpoint, so only one can confirm.
+>
+> Every input carries `nSequence = 0xFFFFFFFD`, which opts the transaction into Replace-By-Fee, and the attacker’s version offers almost the entire deposit to the miner as fee.
+>
+> No honest replacement at a normal fee can outbid that without spending more than the deposit is worth.
+
+
+### Thread part 7 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019559460753527
+- Metrics (at fetch): bookmark 0, impression 146, like 0, quote 0, reply 1, retweet 0
+
+> Our PoC simply needs to show that the MPC signs the same digest whether you tell the contract the input is worth `10,000` sats or `1,000,000` sats.
+>
+> If the two digests are equal, one ECDSA signature is valid for both. This means the input value was never part of the contract’s promise.
+>
+> Two Foundry tests pin down the two halves of the bug. Changing only `input.value` gives the same sighash, and giving the builder a fake `10,000` sat `input.value` creates a depository output of only `7,310` sats.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvc8XqasAAMzCP.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019562212249656
+- Metrics (at fetch): bookmark 0, impression 131, like 0, quote 0, reply 1, retweet 0
+
+> The digest ignores the value, and the `test_legacySighashIgnoresInputValue` is the whole bug in one `assertEq`.
+>
+> The lie (`10,000`) and the truth (`1,000,000`) hash to the same double-SHA-256 digest, so a single MPC signature is valid for both: [pic.x.com/Aj0cJkEqVm]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvc-7uacAA4Jlp.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019564217176316
+- Metrics (at fetch): bookmark 0, impression 166, like 0, quote 0, reply 1, retweet 0
+
+> The remediation (commit 4beb1a4) goes after the root cause at the signing layer instead of bolting a permission check onto `sweep()`.
+>
+> The function `buildPreImageForInput` was rewritten into a real BIP-143 P2WPKH sighash, and this time the input amount is in the commitment: [pic.x.com/pu9LpixR3l]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvdBTKbAAAp-S1.jpg — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019566020731203
+- Metrics (at fetch): bookmark 0, impression 322, like 0, quote 0, reply 1, retweet 0
+
+> This bug was found during a Zellic review of Relay Protocol’s Settlement Protocol contracts and fixed in commit `4beb1a4` (legacy P2PKH → P2WPKH + BIP-143).
+>
+> Thanks to the @RelayProtocol team for their dedication to security and consistent communication to resolve this issue!
+
+
+### Thread part 11 — @zellic_io — 2026-08-27 16:55 UTC (2026-08-27 17:55 WAT)
+
+- URL: https://x.com/zellic_io/status/2093019567425810757
+- Metrics (at fetch): bookmark 1, impression 282, like 0, quote 0, reply 0, retweet 0
+
+> If you’d like a deeper look into this bug, along with a primer on Bitcoin’s script types and BIP-143, then make sure to check out the full blog post: https://www.zellic.io/blog/signing-blind
+
+**Links in post:** https://www.zellic.io/blog/signing-blind
+
+
 ---
 
-## 2026-07-03 · Post · You "win" http://zk.golf – ZKSecurity’s FV contest – by writing the most optimized formally verified
+## 2026-07-03 · Thread · You "win" http://zk.golf – ZKSecurity’s FV contest – by writing the most optimized formally verified
 
 
 Tags (automatic): ZK
@@ -161,9 +383,133 @@ Tags (automatic): ZK
 **Links in post:** http://zk.golf
 
 
+### Thread part 2 — @zellic_io — 2026-07-03 17:47 UTC (2026-07-03 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101449371041864
+- Metrics (at fetch): bookmark 0, impression 3152, like 18, quote 0, reply 1, retweet 0
+
+> How does it work?
+>
+> You upload a circuit, along with a Lean 4 proof of correctness, and submissions are ranked based on circuit cost, which is the sum of the number of witness allocations and the number of constraints.
+>
+> As all submissions are formally verified, developers could then just take the most optimized circuit for the primitive they wish to use, without having to worry about checking the details of the implementation.
+>
+> However, one of our researchers stumbled upon a flaw in the scoring specification, allowing them to “prove” a circuit has a cost of 0, regardless of the actual size.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUYfz2aMAAcZFc.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2026-07-03 17:47 UTC (2026-07-03 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101451807858710
+- Metrics (at fetch): bookmark 0, impression 2317, like 14, quote 0, reply 1, retweet 0
+
+> In this screenshot you can see the types of everything we need to provide.
+>
+> The circuit is provided with `main`. This takes the circuit input as an argument, and returns a circuit (constraint system).
+>
+> Note that `main` having this type means that the constraints are allowed to depend on the input, which may be counterintuitive.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUZQFnaYAASviR.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2026-07-03 17:47 UTC (2026-07-03 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101454433517963
+- Metrics (at fetch): bookmark 0, impression 1985, like 14, quote 0, reply 1, retweet 0
+
+> Solutions claim a number of allocations and constraints, and must provide a proof of `mainCost`, which is intended to be the statement that `the` circuit allocates that many witnesses and has that many constraints.
+>
+> But note that the argument to `Challenge.CostR1CS.circuitCount` is not `main`, but `main` evaluated at a specific input, the default one.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUZWS8awAAWSTL.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2026-07-03 17:47 UTC (2026-07-03 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101456589402152
+- Metrics (at fetch): bookmark 0, impression 1785, like 11, quote 0, reply 1, retweet 0
+
+> So what is the default input?
+>
+> Ultimately, the input boils down to consisting of `Expression`s.
+>
+> These can be a constant, a symbolic variable, or a polynomial in other expressions. [pic.x.com/5RlKkYO4Q2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUZcuiaoAAyYbh.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2026-07-03 17:47 UTC (2026-07-03 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101458933960745
+- Metrics (at fetch): bookmark 0, impression 1659, like 10, quote 0, reply 1, retweet 0
+
+> The default expression turns out to be the constant zero.
+>
+> The cost counting function thus gets passed `main` applied to an input consisting only of constants with value zero. [pic.x.com/NzTVc3WfAg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUZjwEbsAAtm3Q.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2026-07-03 17:47 UTC (2026-07-03 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101460888530975
+- Metrics (at fetch): bookmark 0, impression 1624, like 11, quote 0, reply 1, retweet 0
+
+> Our solution thus branches on whether the input is equal to this default constant.
+>
+> If it is, we just return the correct result as a constant, requiring zero allocations or constraints.
+>
+> If it is not, we fall back to the baseline circuit. [pic.x.com/SE4uLhsTi9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUZoPzaMAAFM9B.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2026-07-03 17:47 UTC (2026-07-03 18:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101462926987569
+- Metrics (at fetch): bookmark 0, impression 1630, like 10, quote 0, reply 1, retweet 0
+
+> Both branches are sound and complete for their respective inputs, so we can also prove soundness and completeness for our `main`: [pic.x.com/4nG0k5H9Rj]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUZwLqbIAAXaUc.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2026-07-03 17:48 UTC (2026-07-03 18:48 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101465305100538
+- Metrics (at fetch): bookmark 0, impression 2076, like 10, quote 0, reply 1, retweet 0
+
+> The cost claim only covers the first branch and is thus trivial to prove. [pic.x.com/P91iba8HHb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMUZ0eMbAAAqcpq.jpg — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2026-07-03 17:48 UTC (2026-07-03 18:48 WAT)
+
+- URL: https://x.com/zellic_io/status/2073101467414909313
+- Metrics (at fetch): bookmark 15, impression 31017, like 71, quote 4, reply 0, retweet 7
+
+> Note that all of our proofs are valid proofs for the statements they claim to prove. The issue lies in those statements not meaning what they were intended to mean.
+>
+> While our circuits were still sound and complete, the flaw in the spec for mainCost allowed us to break the larger protocol functionality – ranking circuits by cost – and place our circuit #1 on the leaderboard.
+>
+> We look forward to following how this competition develops, and all the cool new optimised circuits that will come out of it, once all the kinks are ironed out.
+>
+> Takeaway: Formally verified code is only as secure as the spec it was proved against!
+
+
 ---
 
-## 2026-06-15 · Post · We formally verified a Plonky2 gate.
+## 2026-06-15 · Thread · We formally verified a Plonky2 gate.
 
 
 Tags (automatic): ZK
@@ -186,6 +532,169 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HK3rvH8bsAAVKnj.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570512407663037
+- Metrics (at fetch): bookmark 14, impression 30235, like 56, quote 1, reply 1, retweet 6
+
+> We formally verified custom Plonky2 gates used in @Lighter_xyz, a fully verifiable decentralized exchange.
+>
+> Our approach? Export the constraints from Rust, generalize parameters, write a specification in Lean, then create machine-checkable proofs for soundness and completeness.
+>
+> Let’s look at how it’s done for the `U32AddManyGate`.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK3r-cDbQAA4UX2.png — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570514550919311
+- Metrics (at fetch): bookmark 0, impression 995, like 9, quote 0, reply 1, retweet 0
+
+> Plonky2 natively operates over a finite field with modular arithmetic. But programs need standard integer arithmetic.
+>
+> The `U32AddManyGate` sums multiple unsigned 32-bit integers and proves the result stays correctly bounded.
+>
+> It must do this by polynomial constraints in modular arithmetic.
+
+
+### Thread part 4 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570516677460397
+- Metrics (at fetch): bookmark 0, impression 611, like 8, quote 0, reply 1, retweet 0
+
+> Step 1: Exporting the constraints.
+>
+> Plonky2 gates work by enforcing polynomial constraints on a witness.
+>
+> So we built a Rust exporter that symbolically evaluates the gate’s `eval_unfiltered` method.
+>
+> Here is an example of the exported constraints for a `U32AddManyGate` with two addends:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK3sEhjboAAheGP.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570519370170789
+- Metrics (at fetch): bookmark 0, impression 454, like 6, quote 0, reply 1, retweet 0
+
+> The indexed variables `w` denote the wire values. They fall into two categories:
+>
+> 1. Public wires, the inputs and outputs visible to the circuit: `addends` (`w 0` and `w 1`), `carryIn` (`w 2`), `sum` (`w 3`), `carryOut` (`w 4`).
+>
+> 2. Witness wires, internal values the prover computes (the limb decompositions).
+>
+> With this dictionary, one can understand how the individual constraints work.
+
+
+### Thread part 6 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570520938819644
+- Metrics (at fetch): bookmark 0, impression 434, like 6, quote 0, reply 1, retweet 0
+
+> This is what the constraints of the `U32AddManyGate` enforce:
+>
+> 1. Arithmetic constraint: `carryOut ∗ 2^32 + sum = addend0 + addend1 + carryIn`.
+>
+> 2. Limb range checks: `w * (w - 1) * (w - 2) * (w - 3) = 0` forces the wire to be in `{0,1,2,3}`.
+>
+> 3. Limb reconstruction: Enforce that the base-4 limbs recombine to the claimed `sum` or `carryOut`.
+>
+> All of this happens inside modular arithmetic.
+
+
+### Thread part 7 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570522868199878
+- Metrics (at fetch): bookmark 0, impression 400, like 6, quote 0, reply 1, retweet 0
+
+> Step 2: Generalizing the exports.
+>
+> The exported constraints are specific to particular parameter choices (e.g., `num_addends=2`).
+>
+> We want to reason about the gate generically, for any number of addends.
+>
+> So we define the constraints using helper functions that mirror the exported structure:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK3sSEwaAAAxvhN.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570525749719339
+- Metrics (at fetch): bookmark 0, impression 351, like 6, quote 0, reply 1, retweet 0
+
+> Step 3: Writing the specification.
+>
+> The specification states what the gate should compute, expressed in terms of integers rather than field elements:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK3sVVQaUAAyJ12.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570528157306952
+- Metrics (at fetch): bookmark 0, impression 339, like 7, quote 0, reply 1, retweet 0
+
+> Step 4: Proving soundness and completeness.
+>
+> We now have both a specification of 32-bit addition, and the polynomial constraints enforced by Plonky2.
+>
+> It’s time to connect them in lean, allowing us to finally prove that the constraints correctly enforce the specification.
+>
+> First, we package the raw constraints into a structure that’s easier to work with in proofs:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK3sYv1asAA9536.jpg — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570530208313522
+- Metrics (at fetch): bookmark 0, impression 323, like 7, quote 0, reply 1, retweet 0
+
+> The soundness theorem says that if the constraints hold, then the specification holds.
+>
+> (Proof omitted here for brevity.)
+>
+> This is the critical security property. It guarantees that a valid proof implies correct computation: [pic.x.com/XpXYoupzwn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK3szsJbUAAlVbO.jpg — no alt text provided by author
+
+
+### Thread part 11 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570532729090323
+- Metrics (at fetch): bookmark 0, impression 726, like 8, quote 0, reply 1, retweet 0
+
+> The completeness theorem says that if the specification holds, then there exist witness values that satisfy the constraints.
+>
+> This ensures that an honest prover can always generate a valid proof. The structure of the completeness statement is given as follows: [pic.x.com/Q7dvUsI1Vm]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK3sk9vbQAAYH0u.jpg — no alt text provided by author
+
+
+### Thread part 12 — @zellic_io — 2026-06-15 17:16 UTC (2026-06-15 18:16 WAT)
+
+- URL: https://x.com/zellic_io/status/2066570534490722571
+- Metrics (at fetch): bookmark 4, impression 668, like 9, quote 0, reply 0, retweet 0
+
+> Following this approach allowed us to formally verify the gates used in Lighter’s project.
+>
+> This lets us lay a reliable foundation for verifying complete circuits.
+>
+> Check out the full write-up here: https://www.zellic.io/blog/formal-verification-plonky-gate
+
+**Links in post:** https://www.zellic.io/blog/formal-verification-plonky-gate
 
 
 ---
@@ -213,7 +722,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-04-30 · Post · The core utilities that run every Linux system have been rewritten in Rust. We audited them.
+## 2026-04-30 · Thread · The core utilities that run every Linux system have been rewritten in Rust. We audited them.
 
 
 ### Post — @zellic_io — 2026-04-30 15:47 UTC (2026-04-30 16:47 WAT)
@@ -233,9 +742,19 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/HHKhWDRaIAAX4zd.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2026-04-30 15:47 UTC (2026-04-30 16:47 WAT)
+
+- URL: https://x.com/zellic_io/status/2049878419719241803
+- Metrics (at fetch): bookmark 11, impression 4207, like 31, quote 0, reply 0, retweet 4
+
+> Check out the full uutils coreutils audit report below: https://github.com/Zellic/publications/blob/master/uutils%20coreutils%20-%20Zellic%20Audit%20Report.pdf
+
+**Links in post:** https://github.com/Zellic/publications/blob/master/uutils%20coreutils%20-%20Zellic%20Audit%20Report.pdf
+
+
 ---
 
-## 2026-03-09 · Post · It only cost $3.79.
+## 2026-03-09 · Thread · It only cost $3.79.
 
 
 ### Post — @zellic_io — 2026-03-09 21:23 UTC (2026-03-09 22:23 WAT)
@@ -259,12 +778,45 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/HC_6pc6aMAA-1cm.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2026-03-09 21:23 UTC (2026-03-09 22:23 WAT)
+
+- URL: https://x.com/zellic_io/status/2031118703849587163
+- Metrics (at fetch): bookmark 3, impression 4174, like 8, quote 0, reply 1, retweet 0
+
+> Under-Minting in wrap() due to Post-Deposit Denominator
+>
+> A flaw in the `wrap()` function caused users to receive fewer vAlpha tokens than they were owed.
+>
+> The calculation divided the post-deposit stake (prevStake + deposit) instead of the pre-deposit stake.
+>
+> This inflated denominator would have reduced the user’s proportional mint amount, resulting in systematic under-minting.
+>
+> Result: users receive fewer vAlpha tokens than owed, leading to less representation and economic losses over time.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HC_65RebQAEj4Lq.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2026-03-09 21:23 UTC (2026-03-09 22:23 WAT)
+
+- URL: https://x.com/zellic_io/status/2031118705791479862
+- Metrics (at fetch): bookmark 9, impression 3626, like 11, quote 0, reply 0, retweet 1
+
+> Latent is strengthening security by catching bugs early using V12.
+>
+> And for a couple of dollars, you can too.
+>
+> Want to try V12 for yourself? Learn more: https://v12.sh/
+
+**Links in post:** https://v12.sh/
+
+
 ---
 
-## 2026-02-17 · Post · Solana’s VM has bugs.
+## 2026-02-17 · Thread · Solana’s VM has bugs.
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge
+Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 
 
 ### Post — @zellic_io — 2026-02-17 17:22 UTC (2026-02-17 18:22 WAT)
@@ -283,7 +835,71 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > These bugs have since been fixed.
 >
-> But the following bugs reveal what happens when [pic.x.com/hEiOZVbcnz]
+> But the following bugs reveal what happens when the SVM’s security boundaries are pushed.
+>
+> The core value of the SVM or sBPF is simple: it provides an execution environment for Solana programs.
+>
+> From an auditor’s perspective, this life cycle highlights four major concerns:
+>
+> 1. Compilation-phase security. During compilation from Rust to eBPF bytecode, can compiler optimizations introduce unexpected behavior? Does optimized bytecode match developer intent?
+>
+> 2. Execution-phase security. Are there logic bugs in the interpreter? Can the just-in-time (JIT) compiler skip checks or diverge from interpreter semantics?
+>
+> 3. Deployment-phase security. Does on-chain verification miss key checks, leading to undefined behavior at runtime?
+>
+> 4. Invocation-phase security. Can transaction inputs bypass parameter validation or permission checks?
+>
+> And from an attacker’s perspective, key controllable inputs include:
+>
+> - program bytecode (fully controllable and can be crafted with special instruction patterns),
+>
+> - transaction parameters (argument values and call ordering are fully controllable), and
+>
+> - call context (transactions can be crafted to influence execution state).
+>
+> The JIT compiles eBPF into native machine code and executes it directly. This shortens the execution path but moves security boundaries into the exact areas where vulnerabilities tend to appear.
+>
+> What can go wrong?
+>
+> Vulnerability #1: Resource exhaustion
+>
+> 1. sBPF JIT enforces compute limits via instruction metering.
+>
+> 2. A malicious program places an unresolved `call -1` near budget exhaustion.
+>
+> 3. Execution enters an error path that allocates a heap `String` for the unresolved symbol.
+>
+> 4. The JIT overwrites this error state without freeing the allocation.
+>
+> 5. The leaked heap allocation persists across executions.
+>
+> 6. Repeated runs steadily leak memory, leading to resource exhaustion under JIT.
+>
+> A system optimized for speed pushed its security boundaries into vulnerable areas.
+>
+> A misplacement in instruction metering further weakened those boundaries.
+>
+> An attacker could exploit that small misplacement to trigger network-wide resource exhaustion.
+>
+> Vulnerability #2: Persistent `.rodata` corruption
+>
+> 1. sBPF JIT compiles programs to native code using handwritten instruction encoders.
+>
+> 2. For certain eight-bit compare-immediate ops, the JIT emits the wrong x86 instruction form.
+>
+> 3. The generated code performs a wider comparison than intended.
+>
+> 4. This widened comparison reads past the target byte into adjacent padding.
+>
+> 5. Nonzero padding bytes can alter the comparison result.
+>
+> 6. That result determines whether a memory region is considered writable.
+>
+> 7. The JIT may misclassify read-only `.rodata` as writable and emit writes to it.
+>
+> 8. The resulting `.rodata` corruption persists within the JIT process across executions (on-chain state unaffected).
+>
+> While vulnerability #1 shows what happens when safeguards are misplaced, vulnerability #2 shows what happens when they are built incorrectly.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HBYA0zYaUAAqKid.jpg — no alt text provided by author
@@ -292,12 +908,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/HBYBOZuaUAAvVPE.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2026-02-17 17:22 UTC (2026-02-17 18:22 WAT)
+
+- URL: https://x.com/zellic_io/status/2023810362152485169
+- Metrics (at fetch): bookmark 5, impression 1208, like 8, quote 0, reply 0, retweet 0
+
+> For a deeper look at sBPF and its two core execution components, check out our blog post below: https://www.zellic.io/blog/solana-sbpf
+
+**Links in post:** https://www.zellic.io/blog/solana-sbpf
+
+
 ---
 
-## 2026-01-29 · Post · Supernova used V12 to help expedite their code review process. They ran V12 on a 3,744 SLOC codebase
+## 2026-01-29 · Thread · Supernova used V12 to help expedite their code review process. They ran V12 on a 3,744 SLOC codebase
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 
 ### Post — @zellic_io — 2026-01-29 17:13 UTC (2026-01-29 18:13 WAT)
@@ -313,9 +939,43 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/G_2MDbsbUAQWizh.jpg — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2026-01-29 17:13 UTC (2026-01-29 18:13 WAT)
+
+- URL: https://x.com/zellic_io/status/2016922556088148146
+- Metrics (at fetch): bookmark 1, impression 1007, like 0, quote 0, reply 1, retweet 0
+
+> Did you spot it? Here it is:👇
+>
+> During liquidation, in the branch where the user can’t pay the penalty, the base collateral is paid out.
+>
+> However, it is not zeroed in storage (it’s accidentally zeroed only in memory), allowing the liquidated user to withdraw the same base once. [pic.x.com/l75gvYpLIh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_2MHhdbUAQ15ic.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2026-01-29 17:13 UTC (2026-01-29 18:13 WAT)
+
+- URL: https://x.com/zellic_io/status/2016922558629892241
+- Metrics (at fetch): bookmark 0, impression 861, like 0, quote 0, reply 0, retweet 0
+
+> V12 also found two high and medium-risk bugs, along with 15+ low-risk bugs/QA findings.
+>
+> All discovered and delivered in a detailed PDF report, in just two hours.
+>
+> V12 exists to help smart teams like Supernova spend their time on code review as efficiently as possible. That’s the value of running V12.
+>
+> Want to try V12 for yourself? Learn more: https://v12.zellic.io/
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_2MNnpbUAAlY_M.jpg — no alt text provided by author
+
+**Links in post:** https://v12.zellic.io/
+
+
 ---
 
-## 2026-01-20 · Post · V12 caught a critical funds-draining bug in preproduction.
+## 2026-01-20 · Thread · V12 caught a critical funds-draining bug in preproduction.
 
 
 Tags (automatic): AI-assisted hunting
@@ -330,10 +990,44 @@ Tags (automatic): AI-assisted hunting
 >
 > @Tplus_cx ran V12 on an unreviewed, untested repo where it uncovered a withdrawal authorization flaw.
 >
-> Our AI found this bug. Can you find it too? [pic.x.com/Noz9rK22g6]
+> Our AI found this bug. Can you find it too?
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G_Ia1ZxXIAAiDlC.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2026-01-20 19:53 UTC (2026-01-20 20:53 WAT)
+
+- URL: https://x.com/zellic_io/status/2013701503891185887
+- Metrics (at fetch): bookmark 1, impression 1956, like 10, quote 0, reply 2, retweet 0
+
+> All right, here’s the answer: 🥁
+>
+> `DepositVault.withdraw` used an off-chain signature that did not bind the recipient address.
+>
+> Anyone with a valid signature could invoke `withdraw` with an attacker-controlled target, resulting in a complete loss of user funds.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_Ia1_ZXgAAPuuD.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2026-01-20 19:53 UTC (2026-01-20 20:53 WAT)
+
+- URL: https://x.com/zellic_io/status/2013701512472748445
+- Metrics (at fetch): bookmark 4, impression 1792, like 6, quote 0, reply 2, retweet 0
+
+> This is the value of running V12 early.
+>
+> Catching bugs pre-review:
+> - Prevents costly fixes down the line
+> - Helps teams ship faster with confidence
+>
+> Want to try V12 for yourself? Learn more: https://v12.zellic.io/
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_Ia2dFXoAElM9Z.jpg — no alt text provided by author
+
+**Links in post:** https://v12.zellic.io/
 
 
 ---
@@ -409,10 +1103,10 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2025-09-25 · Post · Bad auditors miss obvious bugs. We built an AI tool that finds them.
+## 2025-09-25 · Thread · Bad auditors miss obvious bugs. We built an AI tool that finds them.
 
 
-Tags (automatic): Smart contract / DeFi, AI-assisted hunting, Platform: Code4rena / Sherlock / Cantina
+Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code4rena / Sherlock / Cantina
 
 
 ### Post — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
@@ -430,6 +1124,90 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting, Platform: Code4ren
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G1rk0KRWYAA1dm3.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228735270682866
+- Metrics (at fetch): bookmark 0, impression 4611, like 10, quote 0, reply 2, retweet 0
+
+> V12's report-writing quality is comparable to top humans:
+
+**Media:**
+- media `3_1971153788716118017` (details not returned by the API)
+
+
+### Thread part 3 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228739150512546
+- Metrics (at fetch): bookmark 1, impression 4466, like 12, quote 0, reply 1, retweet 0
+
+> V12 isn't just a powerful bug-finding engine. It has a fully-featured, intuitive frontend for easy review. [pic.x.com/SxqPN5kdYX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1rzmp3XcAA8DLa.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228743042781355
+- Metrics (at fetch): bookmark 1, impression 4367, like 19, quote 0, reply 2, retweet 0
+
+> V12 is self-serve. Login with Google, connect your Github repos, select the scope, and click Run. No "book a demo", no "contact us" pricing. [pic.x.com/ZYpknFEZ5D]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1r0IqOXkAAIxV_.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228747211866293
+- Metrics (at fetch): bookmark 0, impression 4267, like 14, quote 0, reply 1, retweet 0
+
+> Unlike many apps which try to lock you in using your data, V12 lets you export freely to PDF, CSV, JSON, and Markdown.
+>
+> Moreover, we don't bill you by seat or subscription. We let you invite as many people as you want to your audits. [pic.x.com/RWxFLzBRtt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1rzuvaWEAAaPyI.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228750747676915
+- Metrics (at fetch): bookmark 1, impression 4205, like 18, quote 0, reply 1, retweet 0
+
+> Finally, don't just take our word for it. V12 is already trusted by the best.
+>
+> Our design partners include LayerZero, Starkware, Axiom, Avantis, Initia, Alkimiya, and Succinct. [pic.x.com/XJZTaI17Tz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1snR8jaAAcDPtf.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228753826283967
+- Metrics (at fetch): bookmark 1, impression 4717, like 34, quote 0, reply 2, retweet 1
+
+> We plan to deploy V12 in:
+> - A standalone app that anyone can use
+> - Zellic’s and Zenith’s audits
+> - Code4rena’s competitions, where all V12 issues will be automatically marked OOS
+> - Code4rena’s bug bounties, similar to bug bounties
+> - A GitHub action for CI/CD integration
+
+
+### Thread part 8 — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1971228755483033914
+- Metrics (at fetch): bookmark 26, impression 4690, like 41, quote 1, reply 1, retweet 0
+
+> Excited to try V12?
+>
+> Check out the full announcement here: https://www.zellic.io/blog/introducing-v12
+
+**Links in post:** https://www.zellic.io/blog/introducing-v12
 
 
 ---

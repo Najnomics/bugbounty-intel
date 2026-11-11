@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 85
+- Posts in this file: 105
 - Conversations/threads: 85
 - Oldest post captured: 2022-03-23
 - Newest post captured: 2026-11-05
@@ -31,7 +31,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-10-15 · Post · In 2026, no program is closed source.
+## 2026-10-15 · Thread · In 2026, no program is closed source.
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -48,6 +48,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HUrKdqRXMAEFWi9.jpg — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2026-10-15 13:20 UTC (2026-10-15 14:20 WAT)
+
+- URL: https://x.com/osec_io/status/2110722389348909349
+- Metrics (at fetch): bookmark 41, impression 3905, like 43, quote 1, reply 0, retweet 4
+
+> https://osec.io/blog/goonfi-decompilation/
+
+**Links in post:** https://osec.io/blog/goonfi-decompilation/
 
 
 ---
@@ -110,7 +120,37 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-06-02 · Post · The writeup is here. We achieved RCE in Minecraft Bedrock, turning a 4-byte heap overflow into compl
+## 2025-11-12 · Thread · Our research team achieved client RCE on Minecraft Bedrock Edition via a heap overflow to bypass ASL
+
+
+Tags (automatic): RCE, Memory corruption / native
+
+
+### Post — @osec_io — 2025-11-12 18:55 UTC (2025-11-12 19:55 WAT)
+
+- URL: https://x.com/osec_io/status/1988681993568362946
+- Metrics (at fetch): bookmark 637, impression 227719, like 2906, quote 64, reply 59, retweet 256
+
+> Our research team achieved client RCE on Minecraft Bedrock Edition via a heap overflow to bypass ASLR and sidestep CFG. Writeup to come. [pic.x.com/auRDVYjAM9]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2026-06-02 16:47 UTC (2026-06-02 17:47 WAT)
+
+- URL: https://x.com/osec_io/status/2061852322444275936
+- Metrics (at fetch): bookmark 1, impression 668, like 5, quote 0, reply 0, retweet 1
+
+> Full writeup:
+> https://osec.io/blog/2026-06-02-minecraft-heap-overflow-to-rce/
+
+**Links in post:** https://osec.io/blog/2026-06-02-minecraft-heap-overflow-to-rce/
+
+
+---
+
+## 2026-06-02 · Thread · The writeup is here. We achieved RCE in Minecraft Bedrock, turning a 4-byte heap overflow into compl
 
 
 Tags (automatic): RCE, Memory corruption / native
@@ -129,9 +169,19 @@ Tags (automatic): RCE, Memory corruption / native
 - photo: https://pbs.twimg.com/media/HJ0mMeaaYAQTGUU.jpg — no alt text provided by author
 
 
+### Thread part 2 — @osec_io — 2026-06-02 16:33 UTC (2026-06-02 17:33 WAT)
+
+- URL: https://x.com/osec_io/status/2061848733399277853
+- Metrics (at fetch): bookmark 14, impression 2572, like 28, quote 0, reply 1, retweet 8
+
+> https://osec.io/blog/2026-06-02-minecraft-heap-overflow-to-rce
+
+**Links in post:** https://osec.io/blog/2026-06-02-minecraft-heap-overflow-to-rce
+
+
 ---
 
-## 2026-04-30 · Post · We found a critical soundness bug in dusk-plonk that let a malicious prover forge proofs for arbitra
+## 2026-04-30 · Thread · We found a critical soundness bug in dusk-plonk that let a malicious prover forge proofs for arbitra
 
 
 Tags (automatic): ZK
@@ -148,6 +198,16 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HHKz-hwaQAAlzvZ.jpg — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2026-04-30 17:10 UTC (2026-04-30 18:10 WAT)
+
+- URL: https://x.com/osec_io/status/2049899248569999529
+- Metrics (at fetch): bookmark 4, impression 1932, like 14, quote 0, reply 1, retweet 2
+
+> https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk
+
+**Links in post:** https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk
 
 
 ---
@@ -194,7 +254,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-04-01 · Post · We recently achieved renderer RCE and universal XSS on Samsung's default browser.
+## 2026-04-01 · Thread · We recently achieved renderer RCE and universal XSS on Samsung's default browser.
 
 
 Tags (automatic): XSS, RCE, Memory corruption / native
@@ -211,6 +271,16 @@ Tags (automatic): XSS, RCE, Memory corruption / native
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HE1RjA7boAA6VWd.jpg — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2026-04-01 16:15 UTC (2026-04-01 17:15 WAT)
+
+- URL: https://x.com/osec_io/status/2039376111407423692
+- Metrics (at fetch): bookmark 38, impression 11048, like 45, quote 1, reply 0, retweet 13
+
+> https://osec.io/blog/2026-04-01-patch-gap-to-mobile-renderer-rce
+
+**Links in post:** https://osec.io/blog/2026-04-01-patch-gap-to-mobile-renderer-rce
 
 
 ---
@@ -259,7 +329,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2026-03-03 · Post · We found the same Fiat-Shamir bug in six independent zkVMs.
+## 2026-03-03 · Thread · We found the same Fiat-Shamir bug in six independent zkVMs.
 
 
 Tags (automatic): ZK
@@ -278,6 +348,16 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HCganWDawAEQgMN.jpg — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2026-03-03 18:33 UTC (2026-03-03 19:33 WAT)
+
+- URL: https://x.com/osec_io/status/2028901599490515416
+- Metrics (at fetch): bookmark 74, impression 11347, like 92, quote 2, reply 3, retweet 5
+
+> https://osec.io/blog/2026-03-03-zkvms-unfaithful-claims/
+
+**Links in post:** https://osec.io/blog/2026-03-03-zkvms-unfaithful-claims/
 
 
 ---
@@ -312,25 +392,6 @@ Tags (automatic): ZK
     **Media:**
     - media `13_1992343577515737088` (details not returned by the API)
     
-
-
----
-
-## 2025-11-12 · Post · Our research team achieved client RCE on Minecraft Bedrock Edition via a heap overflow to bypass ASL
-
-
-Tags (automatic): RCE, Memory corruption / native
-
-
-### Post — @osec_io — 2025-11-12 18:55 UTC (2025-11-12 19:55 WAT)
-
-- URL: https://x.com/osec_io/status/1988681993568362946
-- Metrics (at fetch): bookmark 637, impression 227719, like 2906, quote 64, reply 59, retweet 256
-
-> Our research team achieved client RCE on Minecraft Bedrock Edition via a heap overflow to bypass ASLR and sidestep CFG. Writeup to come. [pic.x.com/auRDVYjAM9]
-
-**Media:**
-- video:  — no alt text provided by author
 
 
 ---
@@ -443,10 +504,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-05-22 · Post · We’ve announced the winners for our [REDACTED] hackathon track!
+## 2025-05-22 · Thread · We’ve announced the winners for our [REDACTED] hackathon track!
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 
 ### Post — @osec_io — 2025-05-22 21:56 UTC (2025-05-22 22:56 WAT)
@@ -458,7 +519,84 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > Huge thanks to everyone who contributed to Securing Squads, a challenge focused on strengthening the security of multisigs on Solana.
 >
-> Out of 19 submissions, 5 stood out! https://t.co/9EXsjOZXnP
+> Out of 19 submissions, 5 stood out! https://earn.superteam.fun/listing/securing-squads/
+
+**Links in post:** https://earn.superteam.fun/listing/securing-squads/
+
+
+### Thread part 2 — @osec_io — 2025-05-23 14:28 UTC (2025-05-23 15:28 WAT)
+
+- URL: https://x.com/osec_io/status/1925921739642482989
+- Metrics (at fetch): bookmark 0, impression 219, like 0, quote 0, reply 1, retweet 0
+
+> 🥇 1st prize - $2,500 goes to
+> @bill_papas for https://github.com/hogyzen12/squads-go.
+>
+> Squads-Go aims to enhance client diversity, reducing single points of failure within Solana. It provides both a CLI and a SDK to facilitate the creation, approval, and execution of multisig transactions.
+
+**Links in post:** https://github.com/hogyzen12/squads-go
+
+
+### Thread part 3 — @osec_io — 2025-05-23 14:28 UTC (2025-05-23 15:28 WAT)
+
+- URL: https://x.com/osec_io/status/1925921753206866011
+- Metrics (at fetch): bookmark 0, impression 235, like 0, quote 0, reply 1, retweet 1
+
+> 🥈2nd prize - $1,000 goes to
+> Adetola Adedeji for https://github.com/AdedejiAdetola/securing_squads.
+>
+> Ensures secure signing, clear signer intent, and robust multisig safeguards, ideal for DAOs, teams, and Solana protocols seeking enhanced security.
+
+**Links in post:** https://github.com/AdedejiAdetola/securing_squads
+
+
+### Thread part 4 — @osec_io — 2025-05-23 14:28 UTC (2025-05-23 15:28 WAT)
+
+- URL: https://x.com/osec_io/status/1925921768314712464
+- Metrics (at fetch): bookmark 0, impression 172, like 0, quote 0, reply 1, retweet 0
+
+> 🥉 3rd prize - $500 goes to
+> @haroonmulpk for https://crates.io/crates/secure-squads.
+>
+> Secure-squads is a Rust-based CLI for secure multisig wallet management on Solana. Ensures clear signer intent, robust transaction security, and supports Ledger hardware wallets.
+
+**Links in post:** https://crates.io/crates/secure-squads
+
+
+### Thread part 5 — @osec_io — 2025-05-23 14:28 UTC (2025-05-23 15:28 WAT)
+
+- URL: https://x.com/osec_io/status/1925921781824516192
+- Metrics (at fetch): bookmark 0, impression 212, like 0, quote 0, reply 1, retweet 0
+
+> 4th prize - $500 goes to
+> @dorkydhruv for https://github.com/dorkydhruv/squads-mcp.
+>
+> Squads-MCP is a secure MCP implementation for managing Squads multisig wallets on Solana. It enables local private key storage, permission separation, and safe LLM interactions.
+
+**Links in post:** https://github.com/dorkydhruv/squads-mcp
+
+
+### Thread part 6 — @osec_io — 2025-05-23 14:28 UTC (2025-05-23 15:28 WAT)
+
+- URL: https://x.com/osec_io/status/1925921798710829272
+- Metrics (at fetch): bookmark 0, impression 1917, like 4, quote 1, reply 1, retweet 1
+
+> And lastly, 5th prize - $500 goes to
+> @_DeepWood_ for https://medium.com/@aboladeevans/fortifying-squads-advanced-strategies-for-secure-multi-sig-signing-on-solana-453b8f4fed3d.
+>
+> Delves into advanced strategies for securing multisig transactions on Solana and addresses threats like signer deception and UI manipulation, emphasizing the importance of secure signing processes.
+
+**Links in post:** https://medium.com/@aboladeevans/fortifying-squads-advanced-strategies-for-secure-multi-sig-signing-on-solana-453b8f4fed3d
+
+
+### Thread part 7 — @osec_io — 2025-05-23 14:28 UTC (2025-05-23 15:28 WAT)
+
+- URL: https://x.com/osec_io/status/1925921812283593104
+- Metrics (at fetch): bookmark 0, impression 1203, like 2, quote 0, reply 0, retweet 0
+
+> Again, thanks to everyone who participated in making @multisig even more secure!
+>
+> And to @HeliusLabs and @SuperteamEarn for organizing such an incredible hackathon!
 
 
 ---
@@ -759,7 +897,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-04-01 · Post · OtterSec is excited to introduce what we’ve been cooking lately: OtterChain! 
+## 2024-04-01 · Thread · OtterSec is excited to introduce what we’ve been cooking lately: OtterChain! 
 
 
 ### Post — @osec_io — 2024-04-01 22:24 UTC (2024-04-01 23:24 WAT)
@@ -772,6 +910,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > OtterChain is a new L3, built with security in mind. We’re more than a multisig: we’re two multisigs!
 >
 > Going forward, every protocol we audit will exclusively launch on OtterChain 🦦
+
+
+### Thread part 2 — @osec_io — 2024-04-01 22:27 UTC (2024-04-01 23:27 WAT)
+
+- URL: https://x.com/osec_io/status/1774926646887555319
+- Metrics (at fetch): bookmark 0, impression 1544, like 17, quote 0, reply 0, retweet 1
+
+> Here at OtterSec we’re extremely dedicated to security and redundancy: for added protection, we've backed up all the signer keys on lastpass ❤️
 
 
 ---
@@ -1484,7 +1630,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2023-01-12 · Post · While smart contract security is important, there are other simple attack vectors, like Discord, tha
+## 2023-01-12 · Thread · While smart contract security is important, there are other simple attack vectors, like Discord, tha
 
 
 Tags (automatic): Smart contract / DeFi
@@ -1501,6 +1647,80 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FmQhAlCXwAAG-cV.jpg — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
+
+- URL: https://x.com/osec_io/status/1613458745991757824
+- Metrics (at fetch): bookmark 0, impression 1414, like 11, quote 0, reply 1, retweet 1
+
+> After a mod expresses interest in the job opportunity, they will be invited to a "shell" server, where a bot prompts them to enter their Discord credentials for verification.
+>
+> Entering their credentials will transfer their authority token to the "shell" server owner. 3/9 [pic.x.com/nr2xtACpr6]
+
+**Media:**
+- media `3_1613456398767079426` (details not returned by the API)
+
+
+### Thread part 3 — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
+
+- URL: https://x.com/osec_io/status/1613458748638371843
+- Metrics (at fetch): bookmark 0, impression 1314, like 10, quote 1, reply 2, retweet 0
+
+> The "shell" server owner now has full read + write permissions to the accounts that the moderator once had access to. Thus, allowing full access to the servers + channels where trusted team members provide their community with trusted information. 4/9 [pic.x.com/TrRJK10goE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmQitr4XgAIHd2j.jpg — no alt text provided by author
+
+
+### Thread part 4 — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
+
+- URL: https://x.com/osec_io/status/1613458751704686594
+- Metrics (at fetch): bookmark 0, impression 888, like 7, quote 0, reply 1, retweet 0
+
+> The malicious party then monitors exactly which permissions they have in order to execute a phishing attempt aimed at the broader community. 
+>
+> This method is frequently (and successfully) used to extract assets from user wallets within community Discords. 5/9
+
+
+### Thread part 5 — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
+
+- URL: https://x.com/osec_io/status/1613458754288091137
+- Metrics (at fetch): bookmark 0, impression 1005, like 8, quote 0, reply 1, retweet 0
+
+> The teams involved have made the following remediations:
+> - Remove all moderator perms
+> - Review audit logs to track malicious behavior
+> - Review role perms to limit admin capabilities
+> - Notify server team members to reset their pw
+> - Require 2FA for moderator actions
+> 6/9
+
+
+### Thread part 6 — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
+
+- URL: https://x.com/osec_io/status/1613458756972462080
+- Metrics (at fetch): bookmark 0, impression 933, like 10, quote 0, reply 1, retweet 0
+
+> General rule of thumb on general Discord security: 
+>
+> Do not use verification bots that send DMs to your users for identity verification. This often allows malicious actors to front run the verification message in order to extract valuable user data. 7/9
+
+
+### Thread part 7 — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
+
+- URL: https://x.com/osec_io/status/1613458759422038017
+- Metrics (at fetch): bookmark 0, impression 1333, like 7, quote 0, reply 1, retweet 0
+
+> Additionally, leave your DMs off, and do your own DD when clicking links from "bots" or unfamiliar users that you may share a server with. 8/9
+
+
+### Thread part 8 — @osec_io — 2023-01-12 08:52 UTC (2023-01-12 09:52 WAT)
+
+- URL: https://x.com/osec_io/status/1613458761783410691
+- Metrics (at fetch): bookmark 0, impression 1951, like 16, quote 0, reply 1, retweet 4
+
+> Special thanks to @EVNFT and @0xHoney for bringing this to our attention. We advise that all projects follow these simple steps in order to keep your communities safe from social engineering attacks. 9/x
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 312
+- Posts in this file: 314
 - Conversations/threads: 303
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
@@ -1458,7 +1458,7 @@ Tags (automatic): Request smuggling / desync
 
 ---
 
-## 2025-04-11 · Post · Just discovered an attack technique I've never seen before, using Deep Research. It's not easy but y
+## 2025-04-11 · Thread · Just discovered an attack technique I've never seen before, using Deep Research. It's not easy but y
 
 
 ### Post — @albinowax — 2025-04-11 15:03 UTC (2025-04-11 16:03 WAT)
@@ -1467,6 +1467,18 @@ Tags (automatic): Request smuggling / desync
 - Metrics (at fetch): bookmark 131, impression 25279, like 451, quote 2, reply 12, retweet 26
 
 > Just discovered an attack technique I've never seen before, using Deep Research. It's not easy but you can squeeze gold out with the right prompt! Will share once I've finished using it to hack stuff :)
+
+
+### Thread part 2 — @albinowax — 2025-04-11 16:57 UTC (2025-04-11 17:57 WAT)
+
+- URL: https://x.com/albinowax/status/1910738995971084549
+- Metrics (at fetch): bookmark 29, impression 6228, like 71, quote 0, reply 3, retweet 1
+
+> I’ve found best results by making the prompt really focused and sticking to a topic I know well. Here’s a pair of attempts - both failed but the second was more effective. [pic.x.com/xbeJAdHJFc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GoRO5sHWUAALyYB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GoRO5sIW4AAM1EO.jpg — no alt text provided by author
 
 
 ---
@@ -1666,7 +1678,7 @@ Tags (automatic): XSS, CSP / CSPT
 
 ---
 
-## 2024-11-02 · Post · PSA: @X has an intermittent bug where they take payment for Premium but don’t activate it. And since
+## 2024-11-02 · Thread · PSA: @X has an intermittent bug where they take payment for Premium but don’t activate it. And since
 
 
 ### Post — @albinowax — 2024-11-02 12:23 UTC (2024-11-02 13:23 WAT)
@@ -1677,6 +1689,16 @@ Tags (automatic): XSS, CSP / CSPT
 > PSA: @X has an intermittent bug where they take payment for Premium but don’t activate it. And since only Premium users can contact support, nobody can report it 😂
 >
 > Maybe I should find a vulnerability so I can get in touch via their bug bounty 🤔
+
+
+### Thread part 2 — @albinowax — 2024-11-04 14:01 UTC (2024-11-04 15:01 WAT)
+
+- URL: https://x.com/albinowax/status/1853437316016050282
+- Metrics (at fetch): bookmark 0, impression 1905, like 7, quote 0, reply 0, retweet 0
+
+> On a related note,  you can also find me at https://bsky.app/profile/jameskettle.com
+
+**Links in post:** https://bsky.app/profile/jameskettle.com
 
 
 ---

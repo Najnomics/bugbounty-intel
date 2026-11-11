@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1089
+- Posts in this file: 1095
 - Conversations/threads: 985
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
@@ -1732,6 +1732,38 @@ Tags (automatic): RCE
 
 ---
 
+## 2025-11-14 · Thread · Why is @Hacker0x01 forcing me to use Hai to write my reports. I have a report that's long af, but ca
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2025-11-14 20:42 UTC (2025-11-14 21:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1989433744147845491
+- Metrics (at fetch): bookmark 18, impression 21410, like 180, quote 0, reply 15, retweet 2
+
+> Why is @Hacker0x01 forcing me to use Hai to write my reports. I have a report that's long af, but can't submit because I'm forced into the Hai UI.
+
+
+### Thread part 2 — @NahamSec — 2025-11-14 20:42 UTC (2025-11-14 21:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1989433885659402632
+- Metrics (at fetch): bookmark 0, impression 4418, like 19, quote 0, reply 0, retweet 0
+
+> @Hacker0x01 Had to restart the process 3 times for the submit button to not be grayed out 🫠
+
+
+### Thread part 3 — @NahamSec — 2025-11-20 19:10 UTC (2025-11-20 20:10 WAT)
+
+- URL: https://x.com/NahamSec/status/1991584847673061661
+- Metrics (at fetch): bookmark 0, impression 2676, like 11, quote 0, reply 0, retweet 0
+
+> @Hacker0x01 I take it back, I'm getting used to it and it's helping a lot more. For those of you saying "click on the hyperlink for old form" I don't see it on this program 🫠
+
+
+---
+
 ## 2025-11-17 · Post · I automated finding reflected XSS using Nuclei and some passive recon data and ran it against a bug 
 
 
@@ -1751,23 +1783,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-11-14 · Post · Why is @Hacker0x01 forcing me to use Hai to write my reports. I have a report that's long af, but ca
-
-
-Tags (automatic): Platform: HackerOne
-
-
-### Post — @NahamSec — 2025-11-14 20:42 UTC (2025-11-14 21:42 WAT)
-
-- URL: https://x.com/NahamSec/status/1989433744147845491
-- Metrics (at fetch): bookmark 18, impression 21410, like 180, quote 0, reply 15, retweet 2
-
-> Why is @Hacker0x01 forcing me to use Hai to write my reports. I have a report that's long af, but can't submit because I'm forced into the Hai UI.
-
-
----
-
-## 2025-11-05 · Post · 🚨 Doing a giveaway for my Blind XSS Masterclass
+## 2025-11-05 · Thread · 🚨 Doing a giveaway for my Blind XSS Masterclass
 
 
 Tags (automatic): XSS
@@ -1785,6 +1801,24 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G48DqrCa8AEoGMU.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2025-11-11 21:42 UTC (2025-11-11 22:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1988361606749974608
+- Metrics (at fetch): bookmark 0, impression 1440, like 11, quote 2, reply 2, retweet 1
+
+> I was originally planning on doing 3 but ended up picking more since so many of you participated. 
+>
+> Congratulations to @UnitedCalypso_, @gabbytech01,  @kittoh_, @Cyber78678, and @crnpt0s!
+
+
+### Thread part 3 — @NahamSec — 2025-11-11 21:42 UTC (2025-11-11 22:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1988361668775346302
+- Metrics (at fetch): bookmark 0, impression 3262, like 16, quote 0, reply 12, retweet 2
+
+> Should I do another one?
 
 
 ---
@@ -1966,7 +2000,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2025-07-07 · Post · 4th of July giveaway: I’m giving away 2 spots in my course! To enter:
+## 2025-07-07 · Thread · 4th of July giveaway: I’m giving away 2 spots in my course! To enter:
 
 
 ### Post — @NahamSec — 2025-07-07 15:17 UTC (2025-07-07 16:17 WAT)
@@ -1985,6 +2019,14 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/GvQ4XywbcAAj8Oo.jpg — no alt text provided by author
 
 **Links in post:** http://hhub.io/july4
+
+
+### Thread part 2 — @NahamSec — 2025-07-07 15:18 UTC (2025-07-07 16:18 WAT)
+
+- URL: https://x.com/NahamSec/status/1942241763365896632
+- Metrics (at fetch): bookmark 1, impression 3302, like 6, quote 0, reply 3, retweet 1
+
+> @_JohnHammond You can also get it for $30 for 30 days using the code 4THJULY
 
 
 ---
@@ -2012,7 +2054,7 @@ Tags (automatic): Account takeover
 
 ---
 
-## 2025-06-03 · Post · People always hit me up saying nahamcon2025 helped them land their first bug or level up at work. B
+## 2025-06-03 · Thread · People always hit me up saying nahamcon2025 helped them land their first bug or level up at work. B
 
 
 ### Post — @NahamSec — 2025-06-03 01:03 UTC (2025-06-03 02:03 WAT)
@@ -2021,6 +2063,14 @@ Tags (automatic): Account takeover
 - Metrics (at fetch): bookmark 21, impression 14454, like 272, quote 0, reply 9, retweet 10
 
 > People always hit me up saying #nahamcon2025 helped them land their first bug or level up at work. But today your boy (me) landed my first real prompt injection at a major company. Let’s just say the adrenaline is real 😂
+
+
+### Thread part 2 — @NahamSec — 2025-06-03 04:55 UTC (2025-06-03 05:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1929763736342151182
+- Metrics (at fetch): bookmark 4, impression 3930, like 23, quote 0, reply 0, retweet 1
+
+> FYI for people asking: the talks are all on our website.
 
 
 ---

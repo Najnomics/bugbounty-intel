@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 116
-- Conversations/threads: 103
+- Posts in this file: 120
+- Conversations/threads: 104
 - Oldest post captured: 2021-10-06
 - Newest post captured: 2026-11-11
 
@@ -888,6 +888,19 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2025-07-14 · Reply · @rehackxyz Unfortunately i didn't write write-up, hope you will consider this of you want i can shar
+
+
+### Post — @SuyashS91823422 — 2025-07-14 05:21 UTC (2025-07-14 06:21 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1944628318063493624
+- Metrics (at fetch): bookmark 0, impression 119, like 0, quote 0, reply 1, retweet 0
+
+> @rehackxyz Unfortunately i didn't write write-up, hope you will consider this of you want i can share POC too because it's resolved now
+
+
+---
+
 ## 2025-07-14 · Post · I’d love to be considered! I discovered Log4j (CVE-2021-44228) vulnerability in a production chatbot
 
 
@@ -934,7 +947,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-06-25 · Post · My next month (July) will be fully dedicated to @Hacker0x01 , i tried my best hunting on bugcrowd bu
+## 2025-06-25 · Thread · My next month (July) will be fully dedicated to @Hacker0x01 , i tried my best hunting on bugcrowd bu
 
 
 Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
@@ -946,6 +959,14 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 2, impression 4926, like 53, quote 0, reply 7, retweet 0
 
 > My next month (July) will be fully dedicated to @Hacker0x01 , i tried my best hunting on bugcrowd but struggling to get valid private invites, seems like @Bugcrowd only focuses on top hunters in their leaderboard, they give very less chance to new/intermediate bug hunters😶‍🌫️
+
+
+### Thread part 2 — @SuyashS91823422 — 2025-06-25 07:18 UTC (2025-06-25 08:18 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1937772429352255501
+- Metrics (at fetch): bookmark 0, impression 968, like 4, quote 0, reply 0, retweet 0
+
+> Might be I am wrong but wanted to know your side of story and guidance
 
 
 ---
@@ -967,6 +988,39 @@ Tags (automatic): Platform: Bugcrowd
 - photo: https://pbs.twimg.com/media/GoziFnXWMAA2Xnv.jpg — no alt text provided by author
 
 **Links in post:** https://bugcrowd.com/suyash_technorat
+
+
+---
+
+## 2025-02-22 · Thread · add templates/processed/syslog-tcp-forward.conf to your wordlist you can end up getting a CRITICAL 😎
+
+
+### Post — @SuyashS91823422 — 2025-02-22 17:31 UTC (2025-02-22 18:31 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1893352911645639075
+- Metrics (at fetch): bookmark 165, impression 13627, like 220, quote 0, reply 7, retweet 33
+
+> add templates/processed/syslog-tcp-forward.conf to your wordlist you can end up getting a CRITICAL 😎
+> #bugbountytips #bugbounty [pic.x.com/JstzDGpu6j]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkaJengXgAAgrCa.png — no alt text provided by author
+
+
+### Thread part 2 — @SuyashS91823422 — 2025-03-19 05:27 UTC (2025-03-19 06:27 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1902230479962828840
+- Metrics (at fetch): bookmark 0, impression 846, like 2, quote 0, reply 2, retweet 0
+
+> @grok can you make nuclei template for this
+
+
+### Thread part 3 — @SuyashS91823422 — 2025-03-19 05:44 UTC (2025-03-19 06:44 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1902234655731929529
+- Metrics (at fetch): bookmark 0, impression 784, like 2, quote 0, reply 0, retweet 0
+
+> Oye @grok reply karde bhai din bhar to faltu free rehta h tu
 
 
 ---
@@ -1001,23 +1055,6 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkaPjOYWkAAL6js.png — no alt text provided by author
-
-
----
-
-## 2025-02-22 · Post · add templates/processed/syslog-tcp-forward.conf to your wordlist you can end up getting a CRITICAL 😎
-
-
-### Post — @SuyashS91823422 — 2025-02-22 17:31 UTC (2025-02-22 18:31 WAT)
-
-- URL: https://x.com/SuyashS91823422/status/1893352911645639075
-- Metrics (at fetch): bookmark 165, impression 13627, like 220, quote 0, reply 7, retweet 33
-
-> add templates/processed/syslog-tcp-forward.conf to your wordlist you can end up getting a CRITICAL 😎
-> #bugbountytips #bugbounty [pic.x.com/JstzDGpu6j]
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GkaJengXgAAgrCa.png — no alt text provided by author
 
 
 ---

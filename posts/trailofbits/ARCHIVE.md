@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 188
+- Posts in this file: 221
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -404,10 +404,10 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2026-07-31 · Post · PATCH THE PLANET BUG SPOTLIGHT: We found a high-severity use-after-free bug in nginx, the web server
+## 2026-07-31 · Thread · PATCH THE PLANET BUG SPOTLIGHT: We found a high-severity use-after-free bug in nginx, the web server
 
 
-Tags (automatic): Memory corruption / native
+Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 
 ### Post — @trailofbits — 2026-07-31 14:01 UTC (2026-07-31 15:01 WAT)
@@ -416,6 +416,16 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 15, impression 7548, like 78, quote 0, reply 2, retweet 3
 
 > PATCH THE PLANET BUG SPOTLIGHT: We found a high-severity use-after-free bug in nginx, the web server handling over 30% of all websites in the world. Now patched.
+
+
+### Thread part 2 — @trailofbits — 2026-07-31 14:01 UTC (2026-07-31 15:01 WAT)
+
+- URL: https://x.com/trailofbits/status/2083191392390570059
+- Metrics (at fetch): bookmark 4, impression 1659, like 10, quote 2, reply 0, retweet 3
+
+> Remote and unauthenticated, it can crash nginx and potentially run code, all through HTTP/3. Engineer Evan Hellman found it with Codex after roughly 14 hours of automated analysis. CVE-2026-42530 in the dashboard: https://trailofbits.com/patch-the-planet/dashboard/
+
+**Links in post:** https://trailofbits.com/patch-the-planet/dashboard/
 
 
 ---
@@ -468,7 +478,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2026-06-30 · Post · 1.2 billion downloads ran through pyca/cryptography last month. Nearly every Python app that touches
+## 2026-06-30 · Thread · 1.2 billion downloads ran through pyca/cryptography last month. Nearly every Python app that touches
 
 
 ### Post — @trailofbits — 2026-06-30 11:15 UTC (2026-06-30 12:15 WAT)
@@ -479,9 +489,19 @@ Tags (automatic): Memory corruption / native
 > 1.2 billion downloads ran through pyca/cryptography last month. Nearly every Python app that touches crypto depends on it. If it doesn't ship post-quantum primitives, the Python ecosystem can't migrate. 🧵
 
 
+### Thread part 2 — @trailofbits — 2026-06-30 11:15 UTC (2026-06-30 12:15 WAT)
+
+- URL: https://x.com/trailofbits/status/2071915421544960263
+- Metrics (at fetch): bookmark 3, impression 1391, like 17, quote 1, reply 1, retweet 3
+
+> We helped add ML-DSA and ML-KEM, NIST's post-quantum standards for signatures and key exchange, to the library. Install and migration details in the blog. https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/
+
+**Links in post:** https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/
+
+
 ---
 
-## 2026-06-05 · Post · We beat Google's quantum circuit again, and we didn't have to forge a proof this time. 
+## 2026-06-05 · Thread · We beat Google's quantum circuit again, and we didn't have to forge a proof this time. 
 
 
 Tags (automatic): ZK
@@ -498,6 +518,16 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HKEt2pHWkAABC_7.jpg — no alt text provided by author
+
+
+### Thread part 2 — @trailofbits — 2026-06-05 19:31 UTC (2026-06-05 20:31 WAT)
+
+- URL: https://x.com/trailofbits/status/2062980524700729693
+- Metrics (at fetch): bookmark 6, impression 2628, like 23, quote 1, reply 0, retweet 3
+
+> INRIA researcher André Schrottenloher cracked the code first, but we improved upon his work in just a few days using this toolkit. Our jump-lowqubit circuit beats Google's qubit and gate metrics, and our shrunken-PZ circuit sets a new low-qubit record. https://github.com/trailofbits/trailmix
+
+**Links in post:** https://github.com/trailofbits/trailmix
 
 
 ---
@@ -562,7 +592,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-05-12 · Post · Go's fuzzer is missing half the toolkit Rust and C/C++ researchers use every day. gosentry, our fork
+## 2026-05-12 · Thread · Go's fuzzer is missing half the toolkit Rust and C/C++ researchers use every day. gosentry, our fork
+
+
+Tags (automatic): Race condition
 
 
 ### Post — @trailofbits — 2026-05-12 11:02 UTC (2026-05-12 12:02 WAT)
@@ -571,6 +604,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 28, impression 5793, like 49, quote 0, reply 1, retweet 7
 
 > Go's fuzzer is missing half the toolkit Rust and C/C++ researchers use every day. gosentry, our fork of the Go toolchain, brings it inside `go test -fuzz`. 🧵
+
+
+### Thread part 2 — @trailofbits — 2026-05-12 11:02 UTC (2026-05-12 12:02 WAT)
+
+- URL: https://x.com/trailofbits/status/2054155130732249538
+- Metrics (at fetch): bookmark 6, impression 1293, like 6, quote 0, reply 1, retweet 2
+
+> LibAFL underneath, plus Nautilus grammar fuzzing, struct mutation, and race detection. We've already used it to disclose 4 bugs in Optimism and Revm. https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./
+
+**Links in post:** https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./
 
 
 ---
@@ -592,7 +635,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-04-17 · Post · Google used a ZK proof to disclose a quantum breakthrough that cuts the cost of breaking cryptocurre
+## 2026-04-17 · Thread · Google used a ZK proof to disclose a quantum breakthrough that cuts the cost of breaking cryptocurre
 
 
 Tags (automatic): ZK
@@ -606,9 +649,21 @@ Tags (automatic): ZK
 > Google used a ZK proof to disclose a quantum breakthrough that cuts the cost of breaking cryptocurrency by 20x without handing attackers the circuit. We found anyone could forge a “proof” of an even stronger attack. 🧵
 
 
+### Thread part 2 — @trailofbits — 2026-04-17 11:02 UTC (2026-04-17 12:02 WAT)
+
+- URL: https://x.com/trailofbits/status/2045095429675552838
+- Metrics (at fetch): bookmark 133, impression 56962, like 368, quote 8, reply 5, retweet 47
+
+> The Rust code behind the proof had memory safety bugs. We used this new attack surface to forge a proof that beats Google’s on every metric.
+>
+> Google patched it within days. Their quantum claims are unaffected. https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/
+
+**Links in post:** https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/
+
+
 ---
 
-## 2026-04-07 · Post · Before its launch, we audited @whatsapp's Private Processing TEEs and found 8 high-severity issues (
+## 2026-04-07 · Thread · Before its launch, we audited @whatsapp's Private Processing TEEs and found 8 high-severity issues (
 
 
 Tags (automatic): TEE / enclave
@@ -622,9 +677,22 @@ Tags (automatic): TEE / enclave
 > Before its launch, we audited @whatsapp's Private Processing TEEs and found 8 high-severity issues (patched). The enclaves yielded to injected config files, unmeasured ACPI tables, spoofed firmware levels, and stale attestation reports. 🧵
 
 
+### Thread part 2 — @trailofbits — 2026-04-07 11:02 UTC (2026-04-07 12:02 WAT)
+
+- URL: https://x.com/trailofbits/status/2041471551879381088
+- Metrics (at fetch): bookmark 39, impression 5030, like 56, quote 1, reply 2, retweet 15
+
+> @WhatsApp TEE security is only as good as the implementation details. Four lessons and the full report: https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/
+
+**Links in post:** https://blog.trailofbits.com/2026/04/07/what-we-learned-about-tee-security-from-auditing-whatsapps-private-inference/
+
+
 ---
 
-## 2026-04-01 · Post · We saw high coverage mask a fund-draining vulnerability, and caught it with mutation testing. Then w
+## 2026-04-01 · Thread · We saw high coverage mask a fund-draining vulnerability, and caught it with mutation testing. Then w
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 
 ### Post — @trailofbits — 2026-04-01 11:11 UTC (2026-04-01 12:11 WAT)
@@ -635,9 +703,19 @@ Tags (automatic): TEE / enclave
 > We saw high coverage mask a fund-draining vulnerability, and caught it with mutation testing. Then we built the tools to make this routine. 🧵
 
 
+### Thread part 2 — @trailofbits — 2026-04-01 11:11 UTC (2026-04-01 12:11 WAT)
+
+- URL: https://x.com/trailofbits/status/2039299520186515550
+- Metrics (at fetch): bookmark 6, impression 4129, like 11, quote 1, reply 1, retweet 1
+
+> MuTON and mewt introduce bugs, run tests, and find what coverage misses. MuTON supports TON languages, built in collaboration with @ton_blockchain. mewt covers Solidity, Rust, and more. https://blog.trailofbits.com/2026/04/01/mutation-testing-for-the-agentic-era/
+
+**Links in post:** https://blog.trailofbits.com/2026/04/01/mutation-testing-for-the-agentic-era/
+
+
 ---
 
-## 2026-03-11 · Post · A single bug in an ERC-4337 smart account can be as catastrophic as leaking a private key.
+## 2026-03-11 · Thread · A single bug in an ERC-4337 smart account can be as catastrophic as leaking a private key.
 
 
 ### Post — @trailofbits — 2026-03-11 13:02 UTC (2026-03-11 14:02 WAT)
@@ -651,6 +729,16 @@ Tags (automatic): TEE / enclave
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HDIcKhBXsAAd9pl.jpg — no alt text provided by author
+
+
+### Thread part 2 — @trailofbits — 2026-03-11 13:02 UTC (2026-03-11 14:02 WAT)
+
+- URL: https://x.com/trailofbits/status/2031717352891400628
+- Metrics (at fetch): bookmark 9, impression 1189, like 8, quote 0, reply 1, retweet 1
+
+> If you're working with smart accounts, each pattern includes safe code examples so you can reference them for your own implementation: https://blog.trailofbits.com/2026/03/11/six-mistakes-in-erc-4337-smart-accounts/
+
+**Links in post:** https://blog.trailofbits.com/2026/03/11/six-mistakes-in-erc-4337-smart-accounts/
 
 
 ---
@@ -716,7 +804,7 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2025-12-16 · Post · Memory safety bugs are the most exploited vulnerability class, but AddressSanitizer is not designed 
+## 2025-12-16 · Thread · Memory safety bugs are the most exploited vulnerability class, but AddressSanitizer is not designed 
 
 
 Tags (automatic): Memory corruption / native
@@ -730,9 +818,19 @@ Tags (automatic): Memory corruption / native
 > Memory safety bugs are the most exploited vulnerability class, but AddressSanitizer is not designed for production use. So, how do you catch use-after-free and buffer overflow bugs in live systems? 🧵
 
 
+### Thread part 2 — @trailofbits — 2025-12-16 12:15 UTC (2025-12-16 13:15 WAT)
+
+- URL: https://x.com/trailofbits/status/2000902494612820055
+- Metrics (at fetch): bookmark 19, impression 2177, like 35, quote 1, reply 1, retweet 7
+
+> GWP-ASan uses sampling + guard pages to detect memory safety bugs at scale. Learn the technique and how to implement it in your C++ projects using LLVM's scudo allocator: https://blog.trailofbits.com/2025/12/16/use-gwp-asan-to-detect-exploits-in-production-environments/
+
+**Links in post:** https://blog.trailofbits.com/2025/12/16/use-gwp-asan-to-detect-exploits-in-production-environments/
+
+
 ---
 
-## 2025-12-13 · Post · Top TEE bugs you should fix before your audit in an upcoming webinar with @TinfoilAI 🧵 [pic.x.com/cn
+## 2025-12-13 · Thread · Top TEE bugs you should fix before your audit in an upcoming webinar with @TinfoilAI 🧵 [pic.x.com/cn
 
 
 Tags (automatic): TEE / enclave
@@ -749,9 +847,19 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G8DHC1OXsAEME6N.jpg — no alt text provided by author
 
 
+### Thread part 2 — @trailofbits — 2025-12-13 12:22 UTC (2025-12-13 13:22 WAT)
+
+- URL: https://x.com/trailofbits/status/1999817091050819813
+- Metrics (at fetch): bookmark 3, impression 1136, like 5, quote 0, reply 0, retweet 0
+
+> @TinfoilAI Using @tinfoilAI's infrastructure as a live example, @Julesdrean, @paulbottinelli, and @tjade273 walk through actual confidential computing code, configs, and attestation flows. https://watch.getcontrast.io/register/trail-of-bits-top-tee-bugs-you-should-fix-before-your-audit?utm_source=socials
+
+**Links in post:** https://watch.getcontrast.io/register/trail-of-bits-top-tee-bugs-you-should-fix-before-your-audit?utm_source=socials
+
+
 ---
 
-## 2025-12-02 · Post · LLVM will soon protect cryptographic code from timing attacks at the compiler level 🧵 [pic.x.com/ZMG
+## 2025-12-02 · Thread · LLVM will soon protect cryptographic code from timing attacks at the compiler level 🧵 [pic.x.com/ZMG
 
 
 ### Post — @trailofbits — 2025-12-02 12:43 UTC (2025-12-02 13:43 WAT)
@@ -763,6 +871,16 @@ Tags (automatic): TEE / enclave
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G7KijxuXsAAFb0i.jpg — no alt text provided by author
+
+
+### Thread part 2 — @trailofbits — 2025-12-02 12:43 UTC (2025-12-02 13:43 WAT)
+
+- URL: https://x.com/trailofbits/status/1995836323920257472
+- Metrics (at fetch): bookmark 0, impression 1260, like 7, quote 0, reply 0, retweet 4
+
+> The compiler translates __builtin_ct_select across multiple architectures (x86-64, i386, ARM, AArch64) to appropriate constant-time implementations using native instructions, such as cmov or CSEL, where available, or masked arithmetic patterns elsewhere. https://blog.trailofbits.com/2025/12/02/introducing-constant-time-support-for-llvm-to-protect-cryptographic-code/
+
+**Links in post:** https://blog.trailofbits.com/2025/12/02/introducing-constant-time-support-for-llvm-to-protect-cryptographic-code/
 
 
 ---
@@ -786,7 +904,7 @@ Tags (automatic): RCE, AI-assisted hunting
 
 ---
 
-## 2025-11-19 · Post · A summer cryptography intern discovered two vulnerabilities in one of JavaScript's most critical cry
+## 2025-11-19 · Thread · A summer cryptography intern discovered two vulnerabilities in one of JavaScript's most critical cry
 
 
 ### Post — @trailofbits — 2025-11-19 11:56 UTC (2025-11-19 12:56 WAT)
@@ -800,9 +918,30 @@ Tags (automatic): RCE, AI-assisted hunting
 - photo: https://pbs.twimg.com/media/G6Ha7pdXQAA6Lx2.jpg — no alt text provided by author
 
 
+### Thread part 2 — @trailofbits — 2025-11-19 11:56 UTC (2025-11-19 12:56 WAT)
+
+- URL: https://x.com/trailofbits/status/1991113232367370451
+- Metrics (at fetch): bookmark 0, impression 1209, like 3, quote 0, reply 1, retweet 1
+
+> Both vulnerabilities were caught using Wycheproof test vectors, standardized cryptography tests that every library should run, but many skip. 
+> https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/
+
+**Links in post:** https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/
+
+
+### Thread part 3 — @trailofbits — 2025-11-19 11:56 UTC (2025-11-19 12:56 WAT)
+
+- URL: https://x.com/trailofbits/status/1991113233386606812
+- Metrics (at fetch): bookmark 2, impression 1149, like 5, quote 0, reply 1, retweet 1
+
+> Big lesson: cryptography libraries have inconsistent application of continuous cryptographic testing. The Wycheproof chapter in our Testing Handbook teaches you how to implement these tests in your CI/CD pipeline. https://appsec.guide/docs/crypto/wycheproof/
+
+**Links in post:** https://appsec.guide/docs/crypto/wycheproof/
+
+
 ---
 
-## 2025-11-14 · Post · We're releasing open-source @golang implementations of ML-DSA and SLH-DSA, NIST's post-quantum signa
+## 2025-11-14 · Thread · We're releasing open-source @golang implementations of ML-DSA and SLH-DSA, NIST's post-quantum signa
 
 
 ### Post — @trailofbits — 2025-11-14 13:07 UTC (2025-11-14 14:07 WAT)
@@ -811,6 +950,16 @@ Tags (automatic): RCE, AI-assisted hunting
 - Metrics (at fetch): bookmark 8, impression 4512, like 53, quote 0, reply 2, retweet 14
 
 > We're releasing open-source @golang implementations of ML-DSA and SLH-DSA, NIST's post-quantum signature algorithms. These libraries are engineered to be constant time, preventing timing side-channel attacks like KyberSlash.
+
+
+### Thread part 2 — @trailofbits — 2025-11-14 13:07 UTC (2025-11-14 14:07 WAT)
+
+- URL: https://x.com/trailofbits/status/1989319270611013794
+- Metrics (at fetch): bookmark 6, impression 1345, like 8, quote 0, reply 0, retweet 2
+
+> Constant-time means no branches on secret data and no variable-time division. We use Barrett reduction with precomputed reciprocals to eliminate timing vulnerabilities in cryptographic operations: https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/
+
+**Links in post:** https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/
 
 
 ---
@@ -848,7 +997,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 
 ---
 
-## 2025-10-30 · Post · We're spilling the TEE: an attack that extracts all data from 8 confidential computing systems by ch
+## 2025-10-30 · Thread · We're spilling the TEE: an attack that extracts all data from 8 confidential computing systems by ch
 
 
 Tags (automatic): TEE / enclave
@@ -865,9 +1014,52 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G4gVs_lXgAALuvn.jpg — no alt text provided by author
 
 
+### Thread part 2 — @trailofbits — 2025-10-30 11:32 UTC (2025-10-30 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1983859502874005953
+- Metrics (at fetch): bookmark 0, impression 721, like 3, quote 1, reply 1, retweet 2
+
+> LUKS2 stores its encryption config in a JSON header on the disk itself. An attacker with write access changes "aes-xts-plain64" to "cipher_null-ecb", which does nothing. The CVM boots as if the disk was still encrypted. https://blog.trailofbits.com/2025/10/30/vulnerabilities-in-luks2-disk-encryption-for-confidential-vms/ [pic.x.com/mXTlvD04RF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4gVtB8W0AArWd-.jpg — no alt text provided by author
+
+**Links in post:** https://blog.trailofbits.com/2025/10/30/vulnerabilities-in-luks2-disk-encryption-for-confidential-vms/
+
+
+### Thread part 3 — @trailofbits — 2025-10-30 11:32 UTC (2025-10-30 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1983859504186831059
+- Metrics (at fetch): bookmark 0, impression 395, like 1, quote 0, reply 1, retweet 1
+
+> CVE-2025-59054 and CVE-2025-58356 affect LUKS2 disk encryption in confidential VMs from Oasis, Phala, Flashbots, Secret Network, Fortanix, Edgeless, and Cosmian. All 8 affected projects are now patched.
+
+
+### Thread part 4 — @trailofbits — 2025-10-30 11:32 UTC (2025-10-30 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1983859504983761097
+- Metrics (at fetch): bookmark 2, impression 1247, like 4, quote 0, reply 1, retweet 1
+
+> The fix: validate headers before use. [pic.x.com/QPWKsB5eSQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4gVs93WIAABaSw.jpg — no alt text provided by author
+
+
+### Thread part 5 — @trailofbits — 2025-10-30 11:32 UTC (2025-10-30 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1983859505961021748
+- Metrics (at fetch): bookmark 0, impression 1163, like 2, quote 0, reply 0, retweet 1
+
+> If you're building confidential computing systems and want to avoid similar footguns, contact us for a free one-hour office hours with our engineers:
+> https://share.hsforms.com/1VVGPLTjiRduOpGNOh2sHUgdffjk
+
+**Links in post:** https://share.hsforms.com/1VVGPLTjiRduOpGNOh2sHUgdffjk
+
+
 ---
 
-## 2025-10-28 · Post · Confidential computing promises isolated execution, but physical attacks are breaking that guarantee
+## 2025-10-28 · Thread · Confidential computing promises isolated execution, but physical attacks are breaking that guarantee
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
@@ -884,12 +1076,25 @@ Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 - photo: https://pbs.twimg.com/media/G4Vm_1AXkAAiaYh.jpg — no alt text provided by author
 
 
+### Thread part 2 — @trailofbits — 2025-10-28 09:32 UTC (2025-10-28 10:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1983104462911570351
+- Metrics (at fetch): bookmark 0, impression 1313, like 3, quote 0, reply 0, retweet 1
+
+> @AppBlockchain Register here: https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure?utm_source=tb&utm_medium=x [pic.x.com/Jb2tUHMEmA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4Vm_4XWAAAUNdu.jpg — no alt text provided by author
+
+**Links in post:** https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure?utm_source=tb&utm_medium=x
+
+
 ---
 
-## 2025-10-21 · Post · With just $50 in hardware, attackers can extract attestation keys, view encrypted data, and tamper w
+## 2025-10-21 · Thread · With just $50 in hardware, attackers can extract attestation keys, view encrypted data, and tamper w
 
 
-Tags (automatic): TEE / enclave
+Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 
 
 ### Post — @trailofbits — 2025-10-21 10:20 UTC (2025-10-21 11:20 WAT)
@@ -903,9 +1108,19 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G3xu23mXkAA7M26.jpg — no alt text provided by author
 
 
+### Thread part 2 — @trailofbits — 2025-10-21 10:20 UTC (2025-10-21 11:20 WAT)
+
+- URL: https://x.com/trailofbits/status/1980579828886634574
+- Metrics (at fetch): bookmark 4, impression 1333, like 7, quote 0, reply 0, retweet 2
+
+> Trail of Bits and @appblockchain explain how Wiretap and DRAM aliasing attacks work, why they're unpatchable, and what this means for confidential computing in blockchain infrastructure. Nov 6, 12 PM ET. https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure?utm_source=tb&utm_medium=x
+
+**Links in post:** https://watch.getcontrast.io/register/trail-of-bits-after-wiretap-and-battering-ram-what-changes-for-tee-based-blockchain-infrastructure?utm_source=tb&utm_medium=x
+
+
 ---
 
-## 2025-10-15 · Post · Today (4:00 PM GMT+2) @objective_see: Paweł Płatek shows a user-to-root exploit on modern macOS by c
+## 2025-10-15 · Thread · Today (4:00 PM GMT+2) @objective_see: Paweł Płatek shows a user-to-root exploit on modern macOS by c
 
 
 ### Post — @trailofbits — 2025-10-15 10:45 UTC (2025-10-15 11:45 WAT)
@@ -920,6 +1135,16 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G3S7E5KXUAAq9Xb.jpg — no alt text provided by author
 
 **Links in post:** https://objectivebythesea.org/v8/
+
+
+### Thread part 2 — @trailofbits — 2025-10-15 14:44 UTC (2025-10-15 15:44 WAT)
+
+- URL: https://x.com/trailofbits/status/1978472124563194019
+- Metrics (at fetch): bookmark 2, impression 1394, like 2, quote 0, reply 0, retweet 1
+
+> Correction: talk is tomorrow at 4:00 GMT+2 and will be live streamed at https://www.youtube.com/@objectiveseefoundation
+
+**Links in post:** https://www.youtube.com/@objectiveseefoundation
 
 
 ---
@@ -977,10 +1202,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-08-05 · Post · Today, we’re disclosing two 9.8 CVSS memory corruption vulnerabilities in the @NVIDIA Triton Inferen
+## 2025-08-05 · Thread · Today, we’re disclosing two 9.8 CVSS memory corruption vulnerabilities in the @NVIDIA Triton Inferen
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): RCE, Memory corruption / native, AI-assisted hunting
 
 
 ### Post — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
@@ -991,9 +1216,80 @@ Tags (automatic): AI-assisted hunting
 > Today, we’re disclosing two 9.8 CVSS memory corruption vulnerabilities in the @NVIDIA Triton Inference Server that lets attackers crash production AI services through malicious HTTP requests (CVE-2025-23310 and CVE-2025-23311) 🧵
 
 
+### Thread part 2 — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1952694253211017600
+- Metrics (at fetch): bookmark 11, impression 1498, like 19, quote 0, reply 1, retweet 5
+
+> @nvidia Found during new hire onboarding, our AI/ML Security Engineer, Will Vandevanter, followed our standard static analysis approach against Pwn2Own 2025 targets. https://blog.trailofbits.com/2025/08/04/uncovering-memory-corruption-in-nvidia-triton-as-a-new-hire/ [pic.x.com/B0EOUSGJ61]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GxldEumXgAAoypA.jpg — no alt text provided by author
+
+**Links in post:** https://blog.trailofbits.com/2025/08/04/uncovering-memory-corruption-in-nvidia-triton-as-a-new-hire/
+
+
+### Thread part 3 — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1952694254729359462
+- Metrics (at fetch): bookmark 1, impression 624, like 3, quote 0, reply 1, retweet 1
+
+> @nvidia Step one: point @Semgrep at the codebase using community rulesets from the Trail of Bits Testing Handbook. https://appsec.guide/docs/static-analysis/semgrep/
+
+**Links in post:** https://appsec.guide/docs/static-analysis/semgrep/
+
+
+### Thread part 4 — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1952694255744356568
+- Metrics (at fetch): bookmark 1, impression 536, like 2, quote 0, reply 1, retweet 1
+
+> @nvidia @semgrep This Semgrep rule flagged unsafe alloca() patterns in Triton's HTTP code. The 0xdea ruleset caught what manual review might miss: stack allocation controlled by HTTP requests. [pic.x.com/U5ZO6nSrlY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GxldEuoXAAARNYm.jpg — no alt text provided by author
+
+
+### Thread part 5 — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1952694257254379620
+- Metrics (at fetch): bookmark 0, impression 467, like 0, quote 0, reply 1, retweet 1
+
+> Here's how it works: malicious HTTP requests use chunked encoding to fragment data across many segments. This forces alloca() to allocate stack space based on attacker-controlled input, leading to a stack-based buffer overflow, which can crash the server. With the help of CVE-2025-23334 from @wiz_io, stack-based buffer overflows have the potential to lead to Remote Code Execution (RCE).
+
+
+### Thread part 6 — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1952694258177016223
+- Metrics (at fetch): bookmark 0, impression 437, like 0, quote 0, reply 1, retweet 1
+
+> @nvidia @semgrep Affects core Triton HTTP endpoints, including inference requests and repository operations. Since authentication is optional and disabled by default, any exposed Triton deployment becomes a target for service disruption attacks.
+
+
+### Thread part 7 — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1952694259166953857
+- Metrics (at fetch): bookmark 0, impression 1620, like 2, quote 0, reply 1, retweet 1
+
+> @nvidia @semgrep .@NVIDIA confirmed and patched both issues, replacing unsafe stack allocation with heap-based allocation and proper error handling. Upgrade to the latest Triton release when available to protect your AI infrastructure. https://github.com/triton-inference-server/server/releases/tag/v2.59.1
+
+**Links in post:** https://github.com/triton-inference-server/server/releases/tag/v2.59.1
+
+
+### Thread part 8 — @trailofbits — 2025-08-05 11:32 UTC (2025-08-05 12:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1952694260173554002
+- Metrics (at fetch): bookmark 1, impression 1477, like 3, quote 0, reply 0, retweet 1
+
+> @nvidia @semgrep Running or building AI/ML infrastructure? Our team specializes in securing AI systems from model training to inference deployment and beyond. Contact us to assess your AI security posture before attackers find and exploit such vulnerabilities.
+> https://www.trailofbits.com/contact/
+
+**Links in post:** https://www.trailofbits.com/contact/
+
+
 ---
 
-## 2025-07-31 · Post · We hijacked multi-agent systems by exploiting how agents communicate with each other! Attackers can 
+## 2025-07-31 · Thread · We hijacked multi-agent systems by exploiting how agents communicate with each other! Attackers can 
 
 
 Tags (automatic): AI-assisted hunting
@@ -1008,6 +1304,28 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - video: https://pbs.twimg.com/ext_tw_video_thumb/1950937531551260674/pu/img/haO_IQ6oa98bA-hG.jpg — no alt text provided by author
+
+
+### Thread part 2 — @trailofbits — 2025-07-31 15:12 UTC (2025-07-31 16:12 WAT)
+
+- URL: https://x.com/trailofbits/status/1950937550903795874
+- Metrics (at fetch): bookmark 1, impression 1153, like 6, quote 0, reply 1, retweet 1
+
+> Reproduce our attacks with pajaMAS! These demos teach critical MAS security principles: privilege separation, trust validation, and secure control flows.
+> https://github.com/trailofbits/pajaMAS
+
+**Links in post:** https://github.com/trailofbits/pajaMAS
+
+
+### Thread part 3 — @trailofbits — 2025-07-31 15:12 UTC (2025-07-31 16:12 WAT)
+
+- URL: https://x.com/trailofbits/status/1950937551860072522
+- Metrics (at fetch): bookmark 3, impression 1287, like 2, quote 0, reply 0, retweet 0
+
+> Beyond demos, we created comprehensive guidance for developing secure-by-design MASs. If you've decided a MAS is necessary, start here:
+> https://blog.trailofbits.com/2025/07/31/hijacking-multi-agent-systems-in-your-pajamas/
+
+**Links in post:** https://blog.trailofbits.com/2025/07/31/hijacking-multi-agent-systems-in-your-pajamas/
 
 
 ---
@@ -1121,10 +1439,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-02-06 · Post · Security teams don't just rely on our audits - they actively use our research to solve complex chall
+## 2025-02-06 · Thread · Security teams don't just rely on our audits - they actively use our research to solve complex chall
 
 
-Tags (automatic): TEE / enclave
+Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 
 
 ### Post — @trailofbits — 2025-02-06 15:20 UTC (2025-02-06 16:20 WAT)
@@ -1132,18 +1450,28 @@ Tags (automatic): TEE / enclave
 - URL: https://x.com/trailofbits/status/1887521655288963421
 - Metrics (at fetch): bookmark 3, impression 3061, like 13, quote 2, reply 1, retweet 0
 
-> Security teams don't just rely on our audits - they actively use our research to solve complex challenges. @Turnkeyhq used our TEE, secure enclave, and cryptographic protocol research to inform their development and auditor selection. https://t.co/dbzaTHLUcW
+> Security teams don't just rely on our audits - they actively use our research to solve complex challenges. @Turnkeyhq used our TEE, secure enclave, and cryptographic protocol research to inform their development and auditor selection. [pic.x.com/dbzaTHLUcW]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GjHS8TWaMAAY-8h.jpg — no alt text provided by author
 
 
+### Thread part 2 — @trailofbits — 2025-02-06 15:32 UTC (2025-02-06 16:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1887524687745589612
+- Metrics (at fetch): bookmark 2, impression 1069, like 5, quote 0, reply 0, retweet 0
+
+> Complex security requires deep expertise across domains. Combining our AppSec, blockchain, and cryptography knowledge, we helped @turnkeyhq improve their TEE and secure enclave infrastructure: https://resources.trailofbits.com/hubfs/Case%20studies/trailofbits-20250205-turnkey-casestudy.pdf
+
+**Links in post:** https://resources.trailofbits.com/hubfs/Case%20studies/trailofbits-20250205-turnkey-casestudy.pdf
+
+
 ---
 
-## 2025-01-29 · Post · We are now accepting applications for our annual summer internship in the following areas:
+## 2025-01-29 · Thread · We are now accepting applications for our annual summer internship in the following areas:
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native, AI-assisted hunting
 
 
 ### Post — @trailofbits — 2025-01-29 16:43 UTC (2025-01-29 17:43 WAT)
@@ -1157,10 +1485,45 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 > • Blockchain
 > • Cryptography
 > • Operations
-> Learn more in 🧵 https://t.co/oilYQ80JTe
+> Learn more in 🧵 [pic.x.com/oilYQ80JTe]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GieZQO5bAAAFYw1.jpg — no alt text provided by author
+
+
+### Thread part 2 — @trailofbits — 2025-01-29 16:43 UTC (2025-01-29 17:43 WAT)
+
+- URL: https://x.com/trailofbits/status/1884643625763819587
+- Metrics (at fetch): bookmark 12, impression 1474, like 8, quote 0, reply 1, retweet 0
+
+> From June - August, you'll exploit kernel vulnerabilities, develop cryptanalysis tools, enhance AI safety systems, improve Slither and Echidna, or drive strategic initiatives with our CEO. Work on real projects that impact millions.https://apply.workable.com/trailofbits/j/7476E8C7DC/
+
+**Links in post:** https://apply.workable.com/trailofbits/j/7476E8C7DC/
+
+
+### Thread part 3 — @trailofbits — 2025-01-29 16:43 UTC (2025-01-29 17:43 WAT)
+
+- URL: https://x.com/trailofbits/status/1884643627030466662
+- Metrics (at fetch): bookmark 0, impression 1774, like 5, quote 0, reply 0, retweet 0
+
+> Our 2024 interns enhanced PwnDbg and Binary Ninja for reverse engineers, implemented post-quantum cryptography in Rust, and strengthened AI safety frameworks. https://x.com/dguido/status/1823484447062171959
+
+**Links in post:** https://x.com/dguido/status/1823484447062171959
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14290525 — 2024-08-13 22:19 UTC (2024-08-13 23:19 WAT)
+    
+    - URL: https://x.com/14290525/status/1823484447062171959
+    - Metrics (at fetch): bookmark 9, impression 14141, like 44, quote 2, reply 1, retweet 7
+    
+    > We're setting up for our end-of-summer intern showcase @trailofbits. It's a public event through @empirehacking and I'll be live tweeting some of the takeaways 🧵
+    > https://x.com/EmpireHacking/status/1823323369078497630
+    
+    **Links in post:** https://x.com/EmpireHacking/status/1823323369078497630
+    
+    **Quoted post** 1823323369078497630: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---

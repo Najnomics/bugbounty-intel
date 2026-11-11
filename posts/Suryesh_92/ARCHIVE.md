@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 100
-- Conversations/threads: 92
+- Posts in this file: 105
+- Conversations/threads: 93
 - Oldest post captured: 2024-05-10
 - Newest post captured: 2026-11-04
 
@@ -761,7 +761,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-03-24 · Post · Not hunting on any program since 1 week due to my father condition but still some good program rewar
+## 2025-03-24 · Thread · Not hunting on any program since 1 week due to my father condition but still some good program rewar
 
 
 ### Post — @Suryesh_92 — 2025-03-24 11:39 UTC (2025-03-24 12:39 WAT)
@@ -775,6 +775,16 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GmzZBUsaoAAW7ys.png — no alt text provided by author
+
+
+### Thread part 2 — @Suryesh_92 — 2025-03-24 11:39 UTC (2025-03-24 12:39 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1904135892580872222
+- Metrics (at fetch): bookmark 22, impression 522, like 13, quote 0, reply 0, retweet 0
+
+> Here is the exploitation:
+>
+> https://t.co/bk9mYOU3Vf
 
 
 ---
@@ -818,7 +828,7 @@ Tags (automatic): Platform: HackenProof
 
 ---
 
-## 2025-03-07 · Post · Hi @spectrocoin 👋, on 22 February, I reported security vulnerabilities. I'm not getting any response
+## 2025-03-07 · Thread · Hi @spectrocoin 👋, on 22 February, I reported security vulnerabilities. I'm not getting any response
 
 
 ### Post — @Suryesh_92 — 2025-03-07 17:49 UTC (2025-03-07 18:49 WAT)
@@ -830,6 +840,16 @@ Tags (automatic): Platform: HackenProof
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GldLKXmbwAIQ1vV.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Suryesh_92 — 2025-03-07 17:49 UTC (2025-03-07 18:49 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1898068534766584310
+- Metrics (at fetch): bookmark 0, impression 299, like 1, quote 0, reply 0, retweet 0
+
+> I hope you'll look into this. 
+>
+> Thank you.
 
 
 ---
@@ -1146,24 +1166,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-11-30 · Post · Guy's I just published https://t.co/hVVANbqUfA automation script. I hope you'll get amazing results 
-
-
-### Post — @Suryesh_92 — 2024-11-30 17:10 UTC (2024-11-30 18:10 WAT)
-
-- URL: https://x.com/Suryesh_92/status/1862906985911550066
-- Metrics (at fetch): bookmark 52, impression 6246, like 95, quote 3, reply 3, retweet 19
-
-> Guy's I just published https://t.co/hVVANbqUfA automation script. I hope you'll get amazing results and i'm waiting for your feedback.
->
-> #bugbountytip #bugbountytips #BugBounty #bug #github #script #automation 
->
-> https://t.co/3DR7nWIoBH
-
-
----
-
-## 2024-11-30 · Post · Guy's https://t.co/hVVANbqUfA automation is here, don't need to change page number every time, just 
+## 2024-11-30 · Thread · Guy's https://t.co/hVVANbqUfA automation is here, don't need to change page number every time, just 
 
 
 ### Post — @Suryesh_92 — 2024-11-30 11:35 UTC (2024-11-30 12:35 WAT)
@@ -1179,6 +1182,31 @@ Tags (automatic): Platform: HackerOne
 - photo: https://pbs.twimg.com/media/GdoSrdEXgAATLPj.jpg — no alt text provided by author
 
 **Quoted post** 1862493193637699686: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @Suryesh_92 — 2024-12-01 11:07 UTC (2024-12-01 12:07 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1863178074453397975
+- Metrics (at fetch): bookmark 6, impression 351, like 2, quote 0, reply 0, retweet 0
+
+> https://t.co/3DR7nWHQM9
+
+
+---
+
+## 2024-11-30 · Post · Guy's I just published https://t.co/hVVANbqUfA automation script. I hope you'll get amazing results 
+
+
+### Post — @Suryesh_92 — 2024-11-30 17:10 UTC (2024-11-30 18:10 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1862906985911550066
+- Metrics (at fetch): bookmark 52, impression 6246, like 95, quote 3, reply 3, retweet 19
+
+> Guy's I just published https://t.co/hVVANbqUfA automation script. I hope you'll get amazing results and i'm waiting for your feedback.
+>
+> #bugbountytip #bugbountytips #BugBounty #bug #github #script #automation 
+>
+> https://t.co/3DR7nWIoBH
 
 
 ---
@@ -1470,7 +1498,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
-## 2024-10-08 · Post · That's why I'm not reporting on @Bugcrowd &amp; @Hacker0x01 if you're not famous on these platforms 
+## 2024-10-08 · Thread · That's why I'm not reporting on @Bugcrowd &amp; @Hacker0x01 if you're not famous on these platforms 
 
 
 Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
@@ -1484,6 +1512,14 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 > That's why I'm not reporting on @Bugcrowd &amp; @Hacker0x01 if you're not famous on these platforms then most of the time they are scamming. If you're new on these platforms then they are scamming more. I was also report @TMobile , first Bugcrowd team marked triaged. https://t.co/JpPccEv9Rd
 
 **Quoted post** 1843639780556583122: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @Suryesh_92 — 2024-10-08 13:55 UTC (2024-10-08 14:55 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1843651326808601071
+- Metrics (at fetch): bookmark 0, impression 619, like 3, quote 0, reply 0, retweet 0
+
+> Then internal team marked as out of scope and down all the ips. Where I was able to control there IoT device switch on/off, power increase decrease etc.
 
 
 ---
@@ -1636,6 +1672,19 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 > #article
 >
 > https://t.co/XsKjJg8WOk
+
+
+---
+
+## 2024-09-16 · Reply · @An____Anonymous It's over 4 days till now but account didn't delete bro
+
+
+### Post — @Suryesh_92 — 2024-09-16 17:55 UTC (2024-09-16 18:55 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1835739366330716352
+- Metrics (at fetch): bookmark 0, impression 120, like 1, quote 0, reply 1, retweet 0
+
+> @An____Anonymous It's over 4 days till now but account didn't delete bro
 
 
 ---

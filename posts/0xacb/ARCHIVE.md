@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 199
+- Posts in this file: 204
 - Conversations/threads: 180
 - Oldest post captured: 2014-01-05
 - Newest post captured: 2026-11-05
@@ -653,7 +653,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-08-31 · Post · IDOR to image-based data exfiltration on an AI chat agent.
+## 2026-08-31 · Thread · IDOR to image-based data exfiltration on an AI chat agent.
 
 
 Tags (automatic): IDOR / BOLA, AI-assisted hunting
@@ -666,15 +666,26 @@ Tags (automatic): IDOR / BOLA, AI-assisted hunting
 
 > IDOR to image-based data exfiltration on an AI chat agent.
 >
-> Here’s a clip from @monkehack’s talk, explaining how they did it: https://t.co/Mku8Q0IdZ5
+> Here’s a clip from @monkehack’s talk, explaining how they did it: [pic.x.com/Mku8Q0IdZ5]
 
 **Media:**
 - video: https://pbs.twimg.com/ext_tw_video_thumb/2094354648605786112/pu/img/3ze5tOS08xkJKP4f.jpg — no alt text provided by author
 
 
+### Thread part 2 — @0xacb — 2026-08-31 09:21 UTC (2026-08-31 10:21 WAT)
+
+- URL: https://x.com/0xacb/status/2094354827824296352
+- Metrics (at fetch): bookmark 5, impression 584, like 3, quote 0, reply 0, retweet 0
+
+> @monkehack Check out the full video on Ethiack’s channel:
+> https://www.youtube.com/watch?v=6j177rW8-nA
+
+**Links in post:** https://www.youtube.com/watch?v=6j177rW8-nA
+
+
 ---
 
-## 2026-08-24 · Post · This is how @0xLupin bypassed the supply chain security of major companies like Google, Salesforce, 
+## 2026-08-24 · Thread · This is how @0xLupin bypassed the supply chain security of major companies like Google, Salesforce, 
 
 
 Tags (automatic): Dependency confusion / supply chain
@@ -687,10 +698,21 @@ Tags (automatic): Dependency confusion / supply chain
 
 > This is how @0xLupin bypassed the supply chain security of major companies like Google, Salesforce, Netflix, and many others.
 >
-> Here’s the clip: https://t.co/MNioWfwptV
+> Here’s the clip: [pic.x.com/MNioWfwptV]
 
 **Media:**
 - video: https://pbs.twimg.com/ext_tw_video_thumb/2091823688173723648/pu/img/PbPcdnEsH7uFMOMS.jpg — no alt text provided by author
+
+
+### Thread part 2 — @0xacb — 2026-08-24 09:43 UTC (2026-08-24 10:43 WAT)
+
+- URL: https://x.com/0xacb/status/2091823749620199929
+- Metrics (at fetch): bookmark 5, impression 731, like 9, quote 0, reply 0, retweet 1
+
+> @0xLupin Check out the full video on Ethiack’s channel:
+> https://www.youtube.com/watch?v=SIIIrTpN09U
+
+**Links in post:** https://www.youtube.com/watch?v=SIIIrTpN09U
 
 
 ---
@@ -907,7 +929,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-07-15 · Post · Which AI pentesting agent is the best in the world? And how can we even measure this? (We figured it
+## 2026-07-15 · Thread · Which AI pentesting agent is the best in the world? And how can we even measure this? (We figured it
 
 
 Tags (automatic): AI-assisted hunting
@@ -922,7 +944,25 @@ Tags (automatic): AI-assisted hunting
 >
 > The existing benchmarking methods ain't good because they work like a CTF, which doesn't resemble real-world vulns.
 >
-> An agent that is terrible at finding
+> An agent that is terrible at finding real-world vulns can ace a CTF-style benchmark, and an agent that's great at finding real-world vulns could be underscored. In our own work, gains on controlled benchmarks didn't reliably carry over to real engagements, which is exactly what pushed us to build this.
+>
+> So we designed a whole new benchmarking methodology (along with a research paper) that works by assessing the agent's ability to find bugs in real-world applications.
+>
+> We think this is a stronger foundation for testing the efficacy and accuracy of pentesting agents.
+>
+> We made the benchmark methodology open source (along with the paper, if you're interested!) and we ranked existing agents👇
+
+
+### Thread part 2 — @0xacb — 2026-07-15 09:48 UTC (2026-07-15 10:48 WAT)
+
+- URL: https://x.com/0xacb/status/2077329476292055218
+- Metrics (at fetch): bookmark 33, impression 2013, like 22, quote 1, reply 2, retweet 4
+
+> Check here for full details 👇
+>
+> https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-1
+
+**Links in post:** https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-1
 
 
 ---
@@ -965,7 +1005,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-03 · Post · Most recon stops at A records, and that's where some attack surface hides.
+## 2026-07-03 · Thread · Most recon stops at A records, and that's where some attack surface hides.
 
 
 ### Post — @0xacb — 2026-07-03 13:09 UTC (2026-07-03 14:09 WAT)
@@ -979,10 +1019,26 @@ Tags (automatic): AI-assisted hunting
 >
 > 🧑‍💻 CNAME records can reveal third-party services and subdomain takeover opportunities
 > 🧑‍💻 MX records expose mail infrastructure
-> 🧑‍💻 NS records show [pic.x.com/2XlsxYcZoZ]
+> 🧑‍💻 NS records show who actually controls the zone and reveal DNS takeover opportunities
+> 🧑‍💻 TXT records often leak SPF/DKIM setups, internal tooling, and verification tokens for SaaS platforms the target uses
+>
+> You can easily run all of these checks using DNSx, like this 👇
+>
+> ~$ echo ethiack[.]com | dnsx -recon
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HMTjCzkWQAAoTUx.jpg — no alt text provided by author
+
+
+### Thread part 2 — @0xacb — 2026-07-03 13:09 UTC (2026-07-03 14:09 WAT)
+
+- URL: https://x.com/0xacb/status/2073031499549458434
+- Metrics (at fetch): bookmark 7, impression 928, like 7, quote 0, reply 1, retweet 1
+
+> Tool:
+> https://github.com/projectdiscovery/dnsx
+
+**Links in post:** https://github.com/projectdiscovery/dnsx
 
 
 ---
@@ -1182,10 +1238,10 @@ Tags (automatic): OAuth
 
 ---
 
-## 2026-04-05 · Post · Reverse engineering MCPs like IDA Pro MCP or Ghidra MCP are really powerful to find memory corruptio
+## 2026-04-05 · Thread · Reverse engineering MCPs like IDA Pro MCP or Ghidra MCP are really powerful to find memory corruptio
 
 
-Tags (automatic): Memory corruption / native
+Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 
 ### Post — @0xacb — 2026-04-05 10:47 UTC (2026-04-05 11:47 WAT)
@@ -1199,7 +1255,19 @@ Tags (automatic): Memory corruption / native
 >
 > - Find unsafe memory operations like strcpy, memcpy and check for overflows
 > - How to reach the vulnerable function?
-> - Build
+> - Build a simple PoC to attempt to trigger it (or generate fuzzing inputs)
+>
+> We still have deterministic tools to detect these, like Angr, which can also solve how to reach a specific function in specific cases, but LLMs can reason about context, where data comes from and how it flows, which makes them faster and complementary for larger binaries or libraries.
+
+
+### Thread part 2 — @0xacb — 2026-04-05 10:47 UTC (2026-04-05 11:47 WAT)
+
+- URL: https://x.com/0xacb/status/2040743088558100773
+- Metrics (at fetch): bookmark 7, impression 892, like 8, quote 0, reply 0, retweet 2
+
+> https://github.com/mrexodia/ida-pro-mcp
+
+**Links in post:** https://github.com/mrexodia/ida-pro-mcp
 
 
 ---

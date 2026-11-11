@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 143
+- Posts in this file: 147
 - Conversations/threads: 123
 - Oldest post captured: 2019-09-30
 - Newest post captured: 2026-11-03
@@ -97,7 +97,7 @@ Tags (automatic): AI-assisted hunting
 >
 > the bug is so complex that even porting the exploit between targets takes serious skill, human or ai
 >
-> so i benchmarked how well open and frontier models can do it. 🧵 https://t.co/MNkIzF8CMe
+> so i benchmarked how well open and frontier models can do it. 🧵 [pic.x.com/MNkIzF8CMe]
 
 **Media:**
 - media `3_2114770913791221760` (details not returned by the API)
@@ -876,7 +876,7 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 
 ---
 
-## 2025-12-11 · Post · Our exploit was a success! 🥳🎉🎊
+## 2025-12-11 · Thread · Our exploit was a success! 🥳🎉🎊
 
 
 ### Post — @farazsth98 — 2025-12-11 20:48 UTC (2025-12-11 21:48 WAT)
@@ -886,12 +886,22 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 
 > Our exploit was a success! 🥳🎉🎊
 >
-> I had an amazing experience working with @u1f383 as part of Team CCC at https://t.co/QjA9nSj4js! We can't wait for responsible disclosure 😄
+> I had an amazing experience working with @u1f383 as part of Team CCC at http://ZeroDay.Cloud! We can't wait for responsible disclosure 😄
 >
-> Here's a video of what our exploit should have looked like on-stage (had some technical difficulties🥲) https://t.co/inmQQx1ith
+> Here's a video of what our exploit should have looked like on-stage (had some technical difficulties🥲) [pic.x.com/inmQQx1ith]
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/1999217562018562048/img/8KIe9de6FO4Cnh-6.jpg — no alt text provided by author
+
+**Links in post:** http://ZeroDay.Cloud
+
+
+### Thread part 2 — @farazsth98 — 2025-12-11 20:50 UTC (2025-12-11 21:50 WAT)
+
+- URL: https://x.com/farazsth98/status/1999220348009455836
+- Metrics (at fetch): bookmark 2, impression 3076, like 16, quote 0, reply 1, retweet 1
+
+> I also want to thank @gf_256 and @ret2jazzy ❤️ I truly appreciate all the support from @zellic_io!
 
 
 ---
@@ -1197,7 +1207,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2025-10-07 · Post · Finished writing the blog post. I'll link it below.
+## 2025-10-07 · Thread · Finished writing the blog post. I'll link it below.
 
 
 ### Post — @farazsth98 — 2025-10-07 13:08 UTC (2025-10-07 14:08 WAT)
@@ -1228,6 +1238,16 @@ Tags (automatic): RCE
     
     **Quoted post** 1972908949084250172: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @farazsth98 — 2025-10-07 13:08 UTC (2025-10-07 14:08 WAT)
+
+- URL: https://x.com/farazsth98/status/1975548798584934610
+- Metrics (at fetch): bookmark 35, impression 4979, like 72, quote 0, reply 1, retweet 20
+
+> https://faith2dxy.xyz/2025-10-07/virtualbox-hacking-experience/
+
+**Links in post:** https://faith2dxy.xyz/2025-10-07/virtualbox-hacking-experience/
 
 
 ---
@@ -1391,7 +1411,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2025-09-30 · Post · Finally managed to write a PoC for the latest kCTF 1-day bug submission in `net/tls`. It leads to a 
+## 2025-09-30 · Thread · Finally managed to write a PoC for the latest kCTF 1-day bug submission in `net/tls`. It leads to a 
 
 
 Tags (automatic): Memory corruption / native
@@ -1408,6 +1428,14 @@ Tags (automatic): Memory corruption / native
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G2Gp8m1bMAEpVzR.png — no alt text provided by author
+
+
+### Thread part 2 — @farazsth98 — 2025-09-30 16:09 UTC (2025-09-30 17:09 WAT)
+
+- URL: https://x.com/farazsth98/status/1973057642395218274
+- Metrics (at fetch): bookmark 0, impression 1042, like 1, quote 0, reply 0, retweet 0
+
+> Does anyone happen to know who the author of the submission is?😅
 
 
 ---
@@ -2400,7 +2428,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2021-04-25 · Post · Pushed some notes on some hypervisor research that I've been doing recently: https://t.co/tOUjofUVY4
+## 2021-04-25 · Thread · Pushed some notes on some hypervisor research that I've been doing recently: https://github.com/fara
 
 
 ### Post — @farazsth98 — 2021-04-25 20:22 UTC (2021-04-25 21:22 WAT)
@@ -2408,9 +2436,19 @@ Tags (automatic): Platform: Immunefi
 - URL: https://x.com/farazsth98/status/1386415338955317249
 - Metrics (at fetch): bookmark 35, impression 0, like 221, quote 1, reply 2, retweet 76
 
-> Pushed some notes on some hypervisor research that I've been doing recently: https://t.co/tOUjofUVY4.
+> Pushed some notes on some hypervisor research that I've been doing recently: https://github.com/farazsth98/hypervisor_exploit_templates.
 >
 > The template is pretty useful for quickly verifying / falsifying any assumptions you may make while auditing code (and of course, for exploit development too).
+
+**Links in post:** https://github.com/farazsth98/hypervisor_exploit_templates
+
+
+### Thread part 2 — @farazsth98 — 2021-04-25 20:26 UTC (2021-04-25 21:26 WAT)
+
+- URL: https://x.com/farazsth98/status/1386416277447593984
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> I might push some notes on setting up QEMU and Virtualbox environments to perform this research. Might have to rename the repo now that I think about it :P
 
 
 ---

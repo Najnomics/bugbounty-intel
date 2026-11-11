@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 202
+- Posts in this file: 213
 - Conversations/threads: 202
 - Oldest post captured: 2022-06-18
 - Newest post captured: 2026-09-03
@@ -280,7 +280,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-12-31 · Post · 1/ oh boy, this past year at @SEAL_911 has been absolutely brutal ngl. After dealing with an insane 
+## 2025-12-31 · Thread · 1/ oh boy, this past year at @SEAL_911 has been absolutely brutal ngl. After dealing with an insane 
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @pcaversaccio — 2025-12-31 09:59 UTC (2025-12-31 10:59 WAT)
@@ -292,6 +295,48 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G9fMbltXkAA2jMA.jpg — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2025-12-31 09:59 UTC (2025-12-31 10:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2006304086468006341
+- Metrics (at fetch): bookmark 4, impression 5759, like 90, quote 2, reply 2, retweet 7
+
+> 2/ a massive s/o to each of the 28 incredible volunteers who power SEAL 911 (https://t.co/tTozy4g3dE). Every ticket, every war room, every rescue, all of it is handled by people donating their own time &amp; expertise. It's very easy to forget, but this entire operation runs on https://t.co/L9yPJnQ3zc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9fNI0fXgAArcjj.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G9fOKtYWIAAIcOL.jpg — no alt text provided by author
+
+
+### Thread part 3 — @pcaversaccio — 2025-12-31 09:59 UTC (2025-12-31 10:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2006304089982836930
+- Metrics (at fetch): bookmark 90, impression 175208, like 197, quote 11, reply 7, retweet 22
+
+> 3/ final thought, folks: we need to become hardware wallet maxis _now_. Stop yolo-installing software. Stop executing random code. Stop handing LLMs (I'm looking at you, Claude) code-execution rights. Use hardware wallets. Keep keys off your daily machines. Triple-check domains.
+
+
+### Thread part 4 — @pcaversaccio — 2025-12-31 09:59 UTC (2025-12-31 10:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2006304092134494616
+- Metrics (at fetch): bookmark 2, impression 6124, like 51, quote 1, reply 6, retweet 2
+
+> 4/ oh, and if you wanna compare the numbers to last year, here is my 2024 summary https://t.co/odAZL8FOgr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2024-12-31 10:19 UTC (2024-12-31 11:19 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1874037752431358442
+    - Metrics (at fetch): bookmark 67, impression 56924, like 435, quote 5, reply 22, retweet 78
+    
+    > 1/ Guys, what a fucking insane year at SEAL 911. It's been a hell of a ride—showing just how fucking far behind we are in securing our industry, but also proving why SEAL 911 matters so damn much. Alright, I know, I know you want some stats for 2024, and here we go:
+    > - Handled https://t.co/Zl3XADaGGG
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GgHqeKaXMAAHdn-.png — no alt text provided by author
+    
 
 
 ---
@@ -598,7 +643,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-12-31 · Post · 1/ Guys, what a fucking insane year at SEAL 911. It's been a hell of a ride—showing just how fucking
+## 2024-12-31 · Thread · 1/ Guys, what a fucking insane year at SEAL 911. It's been a hell of a ride—showing just how fucking
 
 
 ### Post — @pcaversaccio — 2024-12-31 10:19 UTC (2024-12-31 11:19 WAT)
@@ -611,6 +656,25 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GgHqeKaXMAAHdn-.png — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2024-12-31 10:19 UTC (2024-12-31 11:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1874037757418344720
+- Metrics (at fetch): bookmark 4, impression 4337, like 101, quote 0, reply 2, retweet 12
+
+> 2/ We've been refining our team a lot, and SEAL 911 is now driven by 28 amazing volunteers (https://t.co/tTozy4g3dE). Please give them a massive shoutout whenever you can—seriously, it's easy to forget that every single person here is volunteering their time! The tough reality is https://t.co/RWTy438178
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgHq2VgXYAAZuEI.png — no alt text provided by author
+
+
+### Thread part 3 — @pcaversaccio — 2024-12-31 10:19 UTC (2024-12-31 11:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1874037760056541534
+- Metrics (at fetch): bookmark 3, impression 4161, like 79, quote 3, reply 3, retweet 10
+
+> 3/ To wrap this up (and I hope you made it this far), seriously, stop fucking signing shit you don't understand, triple-check the domains you interact with, don't download and run software some random dude sent you, stop entering your keys anywhere, stop falling for fake token
 
 
 ---
@@ -759,7 +823,7 @@ Tags (automatic): Dependency confusion / supply chain
 
 ---
 
-## 2024-09-28 · Post · Pretty wild timeline on the latest high severity bug in Bitcoin Core. ~5.5 years from reporting the 
+## 2024-09-28 · Thread · Pretty wild timeline on the latest high severity bug in Bitcoin Core. ~5.5 years from reporting the 
 
 
 Tags (automatic): AI-assisted hunting
@@ -777,9 +841,17 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/GYlGm5ZWQAAC-wf.png — no alt text provided by author
 
 
+### Thread part 2 — @pcaversaccio — 2024-09-28 17:28 UTC (2024-09-28 18:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1840081134249521636
+- Metrics (at fetch): bookmark 0, impression 2242, like 7, quote 0, reply 1, retweet 0
+
+> The screenshot square is slightly misleading; you have to add up only the numbers prior to 24.0.1 from the full list. The number 17% is correct.
+
+
 ---
 
-## 2024-09-18 · Post · Some historical piece on Ethereum &lt;&gt; Reentrancy. In August _2014_ (2 years (!) before the DAO 
+## 2024-09-18 · Thread · Some historical piece on Ethereum &lt;&gt; Reentrancy. In August _2014_ (2 years (!) before the DAO 
 
 
 Tags (automatic): Smart contract / DeFi
@@ -795,6 +867,14 @@ Tags (automatic): Smart contract / DeFi
 **Media:**
 - photo: https://pbs.twimg.com/media/GXv_K3SXkAAHYqa.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GXv_L1kWAAAY6EM.png — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2024-09-18 10:26 UTC (2024-09-18 11:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1836351004696096820
+- Metrics (at fetch): bookmark 1, impression 1306, like 9, quote 1, reply 1, retweet 0
+
+> Well, guess what, it became a big problem: https://t.co/SdU9lpu9GP
 
 
 ---
@@ -819,7 +899,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2024-09-06 · Post · I'm super happy as it has been in the works for some months already, and now we can finally announce
+## 2024-09-06 · Thread · I'm super happy as it has been in the works for some months already, and now we can finally announce
 
 
 ### Post — @pcaversaccio — 2024-09-06 08:11 UTC (2024-09-06 09:11 WAT)
@@ -831,6 +911,14 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GWx1PzEW0AEVjJy.png — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2024-09-06 08:12 UTC (2024-09-06 09:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1831968619338883150
+- Metrics (at fetch): bookmark 2, impression 1826, like 18, quote 0, reply 0, retweet 0
+
+> Link to the bounty program: https://t.co/bF0mO92Kw6
 
 
 ---
@@ -1431,7 +1519,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-10-19 · Post · 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp
+## 2023-10-19 · Thread · 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp
 
 
 ### Post — @pcaversaccio — 2023-10-19 15:04 UTC (2023-10-19 16:04 WAT)
@@ -1447,6 +1535,33 @@ Tags (automatic): AI-assisted hunting
 - media `3_1715018133235187712` (details not returned by the API)
 
 **Quoted post** 1715015864750342473: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @pcaversaccio — 2023-10-19 15:04 UTC (2023-10-19 16:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1715021014952824914
+- Metrics (at fetch): bookmark 0, impression 801, like 11, quote 0, reply 1, retweet 0
+
+> 2/ Very proud to announce the seeds-bounty.eth. An initiative collecting donations to further incentivise the existing NIST Elliptic Curve Seeds Bounty (https://t.co/hoHssdNX75).
+
+
+### Thread part 3 — @pcaversaccio — 2023-10-19 15:04 UTC (2023-10-19 16:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1715021017326723209
+- Metrics (at fetch): bookmark 0, impression 3438, like 11, quote 1, reply 1, retweet 0
+
+> 3/ The seeds-bounty.eth address is a Safe multisig wallet at 0xf0A4095D3cEa682C653A993B983E866c17be3075 with a 7 out of 9 threshold configuration. All the signers are listed here: https://t.co/kpGwuWWUje
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F8z58HCXwAAS_XK.jpg — no alt text provided by author
+
+
+### Thread part 4 — @pcaversaccio — 2023-10-19 15:04 UTC (2023-10-19 16:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1715021019637751948
+- Metrics (at fetch): bookmark 0, impression 943, like 14, quote 0, reply 0, retweet 0
+
+> 4/ Let's show the world that Ethereum is a collective power of folks who truly care about what essentially powers the foundation of Ethereum: cryptography.
 
 
 ---

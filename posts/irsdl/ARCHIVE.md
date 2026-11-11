@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 509
+- Posts in this file: 526
 - Conversations/threads: 504
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
@@ -647,7 +647,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-10-07 · Post · The @intigriti process has been one of the worst experiences I’ve had receiving a bug bounty payout 
+## 2026-10-07 · Thread · The @intigriti process has been one of the worst experiences I’ve had receiving a bug bounty payout 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 
 ### Post — @irsdl — 2026-10-07 11:27 UTC (2026-10-07 12:27 WAT)
@@ -661,7 +664,23 @@ Tags (automatic): AI-assisted hunting
 >
 > If I have a choice in the future, I’ll avoid using it.
 >
-> Not sure if other bb
+> Not sure if other bb hunters have the same experience with Intigriti.
+
+
+### Thread part 2 — @irsdl — 2026-10-07 11:29 UTC (2026-10-07 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/2107795405576745202
+- Metrics (at fetch): bookmark 2, impression 523, like 2, quote 0, reply 0, retweet 0
+
+> I never had any issues with payments from other platforms such as BugCrowd, H1, or Synack I should add.
+
+
+### Thread part 3 — @irsdl — 2026-10-07 13:46 UTC (2026-10-07 14:46 WAT)
+
+- URL: https://x.com/irsdl/status/2107829979010531671
+- Metrics (at fetch): bookmark 0, impression 353, like 1, quote 0, reply 0, retweet 0
+
+> The payment is now being processed, maybe I should have waited one more day before crying out load 😅
 
 
 ---
@@ -767,10 +786,12 @@ Tags (automatic): AI-assisted hunting
     >
     > I rebuilt all of it. Every nominee since 2006, all 1,136 of them, plus 351 more the nomination rounds missed.
     >
-    > https://t.co/89ZaEHDPLE https://t.co/hCVqtw5ytr
+    > https://webhacklist.com [pic.x.com/hCVqtw5ytr]
     
     **Media:**
     - media `13_2086785362618200064` (details not returned by the API)
+    
+    **Links in post:** https://webhacklist.com
     
 
 
@@ -819,7 +840,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-08-10 · Post · The blog that hosted the 2011 to 2015 Top 10 Web Hacking Techniques lists is gone. So are hundreds o
+## 2026-08-10 · Thread · The blog that hosted the 2011 to 2015 Top 10 Web Hacking Techniques lists is gone. So are hundreds o
 
 
 ### Post — @irsdl — 2026-08-10 12:16 UTC (2026-08-10 13:16 WAT)
@@ -831,10 +852,54 @@ Tags (automatic): AI-assisted hunting
 >
 > I rebuilt all of it. Every nominee since 2006, all 1,136 of them, plus 351 more the nomination rounds missed.
 >
-> https://t.co/89ZaEHDPLE https://t.co/hCVqtw5ytr
+> https://webhacklist.com [pic.x.com/hCVqtw5ytr]
 
 **Media:**
 - media `13_2086785362618200064` (details not returned by the API)
+
+**Links in post:** https://webhacklist.com
+
+
+### Thread part 2 — @irsdl — 2026-08-10 12:16 UTC (2026-08-10 13:16 WAT)
+
+- URL: https://x.com/irsdl/status/2086788832641331550
+- Metrics (at fetch): bookmark 1, impression 517, like 8, quote 0, reply 1, retweet 0
+
+> Not a link list.
+>
+> 1,484 of the 1,487 archived in full, Markdown and PDF. 418 pulled back from the Wayback Machine. 25 non-English ones kept beside an English translation.
+> Nothing in here depends on someone else's domain staying alive.
+
+
+### Thread part 3 — @irsdl — 2026-08-10 12:16 UTC (2026-08-10 13:16 WAT)
+
+- URL: https://x.com/irsdl/status/2086788835111780807
+- Metrics (at fetch): bookmark 0, impression 540, like 5, quote 0, reply 1, retweet 0
+
+> Which turned it into something I did not plan: a dataset.
+>
+> It is all plain Markdown. Point a model at twenty years of web hacking research and ask what nobody ever followed up on.
+>
+> New attacks are usually built on old, overlooked ones. [pic.x.com/bAcXA9tS3v]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPXAzGyXwAA4BqU.jpg — no alt text provided by author
+
+
+### Thread part 4 — @irsdl — 2026-08-10 12:16 UTC (2026-08-10 13:16 WAT)
+
+- URL: https://x.com/irsdl/status/2086788837544484923
+- Metrics (at fetch): bookmark 5, impression 445, like 6, quote 0, reply 0, retweet 2
+
+> Credit where it is due. @jeremiahg created the list and ran it from 2006. @albinowax and @PortSwigger have carried it since 2016. This just makes sure none of it disappears.
+>
+> Free, no signup, no tracking.
+>
+> ⭐ https://github.com/irsdl/webhacklist
+>
+> Which year's list has aged the best?
+
+**Links in post:** https://github.com/irsdl/webhacklist
 
 
 ---
@@ -1013,22 +1078,24 @@ Tags (automatic): XSS
     - URL: https://x.com/irsdl/status/2061479518187991371
     - Metrics (at fetch): bookmark 21, impression 9173, like 69, quote 1, reply 2, retweet 10
     
-    > Reported several client-side vulns in https://t.co/porY2Kzls8 via GitHub’s security reporting process. They were patched, but we received no credit and no advisories were published.
+    > Reported several client-side vulns in https://github.com/microsoft-search/pnp-modern-search via GitHub’s security reporting process. They were patched, but we received no credit and no advisories were published.
     >
     > Response: “If people stop reporting … then we have to live with that.”
     >
-    > Discouraging indeed. https://t.co/omqBSYbGp3
+    > Discouraging indeed. [pic.x.com/omqBSYbGp3]
     
     **Media:**
     - media `3_2061476349013843968` (details not returned by the API)
     - media `3_2061476816628391937` (details not returned by the API)
     - media `3_2061477041891840000` (details not returned by the API)
     
+    **Links in post:** https://github.com/microsoft-search/pnp-modern-search
+    
 
 
 ---
 
-## 2026-06-01 · Post · Reported several client-side vulns in https://t.co/porY2Kzls8 via GitHub’s security reporting proces
+## 2026-06-01 · Thread · Reported several client-side vulns in https://github.com/microsoft-search/pnp-modern-search via GitH
 
 
 ### Post — @irsdl — 2026-06-01 16:06 UTC (2026-06-01 17:06 WAT)
@@ -1036,16 +1103,35 @@ Tags (automatic): XSS
 - URL: https://x.com/irsdl/status/2061479518187991371
 - Metrics (at fetch): bookmark 21, impression 9173, like 69, quote 1, reply 2, retweet 10
 
-> Reported several client-side vulns in https://t.co/porY2Kzls8 via GitHub’s security reporting process. They were patched, but we received no credit and no advisories were published.
+> Reported several client-side vulns in https://github.com/microsoft-search/pnp-modern-search via GitHub’s security reporting process. They were patched, but we received no credit and no advisories were published.
 >
 > Response: “If people stop reporting … then we have to live with that.”
 >
-> Discouraging indeed. https://t.co/omqBSYbGp3
+> Discouraging indeed. [pic.x.com/omqBSYbGp3]
 
 **Media:**
 - media `3_2061476349013843968` (details not returned by the API)
 - media `3_2061476816628391937` (details not returned by the API)
 - media `3_2061477041891840000` (details not returned by the API)
+
+**Links in post:** https://github.com/microsoft-search/pnp-modern-search
+
+
+### Thread part 2 — @irsdl — 2026-06-01 16:06 UTC (2026-06-01 17:06 WAT)
+
+- URL: https://x.com/irsdl/status/2061479521522495506
+- Metrics (at fetch): bookmark 9, impression 1596, like 15, quote 0, reply 0, retweet 3
+
+> Here is one interesting one which might be fun to play with:
+> https://gist.github.com/irsdl/da6a691f45283a4987447e9efb1d434d#file-ghsa-wqm4-jgfw-2vfj-md
+> JSFiddle examples included:
+> https://jsfiddle.net/0uda1ymj/
+> https://jsfiddle.net/0uda1ymj/1/ [pic.x.com/Le1Nf0EkTC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HJvYUu1XQAAVVRa.png — no alt text provided by author
+
+**Links in post:** https://gist.github.com/irsdl/da6a691f45283a4987447e9efb1d434d#file-ghsa-wqm4-jgfw-2vfj-md, https://jsfiddle.net/0uda1ymj/, https://jsfiddle.net/0uda1ymj/1/
 
 
 ---
@@ -1217,7 +1303,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 ---
 
-## 2025-12-11 · Post · Slides for "ToolShell Patch Bypass and the AI That Might Have Seen It Coming" at @NDC_Conferences {M
+## 2025-12-11 · Thread · Slides for "ToolShell Patch Bypass and the AI That Might Have Seen It Coming" at @NDC_Conferences {M
 
 
 Tags (automatic): AI-assisted hunting
@@ -1230,15 +1316,30 @@ Tags (automatic): AI-assisted hunting
 
 > Slides for "ToolShell Patch Bypass and the AI That Might Have Seen It Coming" at @NDC_Conferences {Manchester} 2025.
 >
-> https://t.co/SDMTE43kDS
+> https://github.com/irsdl/sharepoint-toolshell-ai/blob/main/ToolShell-Patch-Bypass-and-the-AI-That-Might-Have-Seen-It-Coming.pdf
 >
-> Bonus: WAF &amp; workarounds bypass!
-> #AppSec #SharePoint #TolShell https://t.co/7UiIiaTbvN
+> Bonus: WAF & workarounds bypass!
+> #AppSec #SharePoint #TolShell
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G76BGEWXQAAQP3E.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/G76BKzBXoAET25f.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/G76BxXwX0AA_HM-.png — no alt text provided by author
+
+**Links in post:** https://github.com/irsdl/sharepoint-toolshell-ai/blob/main/ToolShell-Patch-Bypass-and-the-AI-That-Might-Have-Seen-It-Coming.pdf
+
+
+### Thread part 2 — @irsdl — 2025-12-11 18:16 UTC (2025-12-11 19:16 WAT)
+
+- URL: https://x.com/irsdl/status/1999181385974661346
+- Metrics (at fetch): bookmark 2, impression 1259, like 2, quote 0, reply 0, retweet 0
+
+> The AIs prompt results are in here:
+> https://github.com/irsdl/sharepoint-toolshell-ai/tree/main/experiments/ai_results/raw_results/
+>
+> You may find some other nuggets that MS patched at that time too in the AI analysis!🤫
+
+**Links in post:** https://github.com/irsdl/sharepoint-toolshell-ai/tree/main/experiments/ai_results/raw_results/
 
 
 ---
@@ -1611,22 +1712,7 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2025-08-01 · Post · I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to 
-
-
-### Post — @irsdl — 2025-08-01 22:14 UTC (2025-08-01 23:14 WAT)
-
-- URL: https://x.com/irsdl/status/1951406170557518021
-- Metrics (at fetch): bookmark 1, impression 3285, like 12, quote 1, reply 1, retweet 0
-
-> I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to have a look at it though 🤣 https://t.co/hJQpEpaDbY
-
-**Quoted post** 1950965009020027353: not readable via the API (deleted, private, or withheld).
-
-
----
-
-## 2025-08-01 · Post · A new version of https://t.co/9BofGcFaWh is out, I have updated SharePoint plugin to:
+## 2025-08-01 · Thread · A new version of https://t.co/9BofGcFaWh is out, I have updated SharePoint plugin to:
 
 
 ### Post — @irsdl — 2025-08-01 22:02 UTC (2025-08-01 23:02 WAT)
@@ -1639,6 +1725,29 @@ Tags (automatic): Auth bypass
 > - Support CVE-2024-38018 as it is very useful.👌
 >
 > Remember, we should also be able to create folders in Plugin or Generators folders to keep our
+
+
+### Thread part 2 — @irsdl — 2025-08-02 00:30 UTC (2025-08-02 01:30 WAT)
+
+- URL: https://x.com/irsdl/status/1951440382841200990
+- Metrics (at fetch): bookmark 1, impression 194, like 1, quote 0, reply 0, retweet 0
+
+> @wdormann The payload for sp2013 is there too. They didn't work against sp2010 🤭
+
+
+---
+
+## 2025-08-01 · Post · I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to 
+
+
+### Post — @irsdl — 2025-08-01 22:14 UTC (2025-08-01 23:14 WAT)
+
+- URL: https://x.com/irsdl/status/1951406170557518021
+- Metrics (at fetch): bookmark 1, impression 3285, like 12, quote 1, reply 1, retweet 0
+
+> I have installed SharePoint 2010, it was way harder than I thought it would be! 🎉 No energy left to have a look at it though 🤣 https://t.co/hJQpEpaDbY
+
+**Quoted post** 1950965009020027353: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -1758,7 +1867,7 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2025-07-26 · Post · I have launched YSoNet (https://t.co/9BofGcFaWh) and added SharePoint CVE-2025-49704 payload genera
+## 2025-07-26 · Thread · I have launched YSoNet (http://ysonet.net) and added SharePoint CVE-2025-49704 payload generator to
 
 
 ### Post — @irsdl — 2025-07-26 23:28 UTC (2025-07-27 00:28 WAT)
@@ -1766,7 +1875,7 @@ Tags (automatic): Auth bypass
 - URL: https://x.com/irsdl/status/1949250528946401635
 - Metrics (at fetch): bookmark 245, impression 36092, like 458, quote 0, reply 4, retweet 122
 
-> I have launched YSoNet (https://t.co/9BofGcFaWh) and added #SharePoint CVE-2025-49704 payload generator to it as the first thing.
+> I have launched YSoNet (http://ysonet.net) and added #SharePoint CVE-2025-49704 payload generator to it as the first thing.
 >
 > Here is how this can work:
 >
@@ -1778,7 +1887,23 @@ Tags (automatic): Auth bypass
 > Running C# code:
 >
 > ```
-> ysonet.exe
+> ysonet.exe -p sharepoint --cve=CVE-2025-49704 -var 2 -c "C:\\temp\\ExploitClass.cs;System.dll"
+> ```
+> Payloads will be url-encoded already.
+>
+> YSoNet is a fork and replacement of YSoSerial .Net (for me) and I will try to maintain my own version now to have full control over the settings. There are many things I have to change there but all changes will be gradual.
+>
+> Of course you can still use the great YSoSerial .NET repo but I won't be the one maintaining it. Hopefully I can make @pwntester proud 😊
+
+**Links in post:** http://ysonet.net
+
+
+### Thread part 2 — @irsdl — 2025-07-27 00:15 UTC (2025-07-27 01:15 WAT)
+
+- URL: https://x.com/irsdl/status/1949262263417782781
+- Metrics (at fetch): bookmark 0, impression 1931, like 6, quote 0, reply 1, retweet 0
+
+> Besides SharePointPlugin, the DataSetOldBehaviourFromFile and DataSetOldBehaviour gadgets now embed the payload and bypass ParseAssemblyQualifiedName as mentioned by @_l0gg
 
 
 ---
@@ -1809,7 +1934,7 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2025-07-21 · Post · 🚨
+## 2025-07-21 · Thread · 🚨
 
 
 Tags (automatic): Auth bypass, RCE
@@ -1821,7 +1946,24 @@ Tags (automatic): Auth bypass, RCE
 - Metrics (at fetch): bookmark 68, impression 18896, like 156, quote 0, reply 4, retweet 45
 
 > 🚨
-> 1- CVE-2025-53770 is a variant of CVE-2025-49704 - a critical auth bypass in SharePoint's ToolPane.aspx endpoint. It lets attackers reach a page that can parse webparts without valid credentials, and with a chained deserialization bug, they can achieve RCE entirely in memory https://t.co/8MVbG7eBz0
+> 1- CVE-2025-53770 is a variant of CVE-2025-49704 - a critical auth bypass in SharePoint's ToolPane.aspx endpoint. It lets attackers reach a page that can parse webparts without valid credentials, and with a chained deserialization bug, they can achieve RCE entirely in memory if they wish. #SharePoint
+>
+> 2- To defenders: block access to ToolPane.aspx in your WAF or IIS. Warning: you may lose custom web part editing until a proper patch arrives. Blocking based on referer is also good but a bit trickier.
+>
+> 3- What went wrong in Microsoft's auth bypass patch? Two flawed checks:
+> A) Path.EndsWith("/ToolPane.aspx") + referer match: bypass with an extra slash (/ToolPane.aspx/)
+>
+> B) path contains "_layouts" & ends with /ToolPane.aspx: bypass via query string (_layouts/15/ToolPane.aspx/?/ToolPane.aspx)
+>
+> 4- Even more devious: charset‑encoded URLs can hide the string "/ToolPane.aspx" from WAFs. And HTTP/1.x header folding or leading spaces can break simple referer filters.
+>
+> 5- If your machine key was auto-generated and exposed, attackers might decrypt/forge viewstate. Rotate those keys: delete old registry entries or recreate the app pool with a new name and assign it to the application.
+>
+> Microsoft is expected to ship a follow‑up patch. Until then, stay vigilant with URL filtering and header validation. 
+> #infosec #cybersecurity
+> https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53770
+
+**Links in post:** https://twitter.com/irsdl/status/1946988895993806913, https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53770
 
 **Quoted post (full text):**
 
@@ -1855,11 +1997,17 @@ Tags (automatic): Auth bypass, RCE
             
             > I originally had Gemini expecting a 200 OK instead of a 401, but after dropping a server-side breakpoint so it could use a timeout as the auth signal, it cracked the bypass! 🥈 AI + human teamwork for the win! 🎉
             >
-            > Next: finding the right parameters &amp; deserialization in https://t.co/MM916K69um https://t.co/uFwK8ANJvz
+            > Next: finding the right parameters & deserialization in Toolpane.aspx. No simple patch diffing; only the gadget is clear. First we must identify those params (I know them, but can AI?). Then repurpose the removed gadget into a payload to execute code. We’ll need decompiled Microsoft.PerformancePoint.Scorecards.Client.dll and likely several blog posts. Can AI handle it if we break it into bite-sized tasks? I’m skeptical. GPT models have stumbled on this before - but we’ll see. 🤔
+            >
+            > #AI #Reversing #SharePoint
+            >
+            > Huge thanks to @_l0gg & @mwulftange for the tips! 🙏
             
             **Media:**
             - photo: https://pbs.twimg.com/media/GwIoBb1WMAAc195.png — no alt text provided by author
             - photo: https://pbs.twimg.com/media/GwIowBMXIAE_PMj.png — no alt text provided by author
+            
+            **Links in post:** https://twitter.com/irsdl/status/1945797068305433029
             
             **Quoted post (full text):**
             
@@ -1871,7 +2019,18 @@ Tags (automatic): Auth bypass, RCE
                 > Just ran a cheeky test: 
                 > Could Gemini find @_l0gg’s CVE-2025-49706 SharePoint auth bypass? Nope! ☹️
                 >
-                > Even after feeding it important patch diffs, decompiled old code, .aspx files &amp; blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` https://t.co/Mt3Vj72Ek3
+                > Even after feeding it important patch diffs, decompiled old code, .aspx files & blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` header. 
+                >
+                > I did love its ability to interact with a lab app, running commands to find the class files etc., but it only tried very basic traversals, no fuzzing, cookieless or advanced logic in the code despite asking it to go beyond traversal and read the code logic. 
+                > Automating the patch diffing process with AI is tempting, but we’re not there yet (it ate half my free quota!).
+                >
+                > Hopefully one day it might even generate payloads for complex exploits: imagine ExcelDataSet in .dwp driven by @steventseeley’s sample ;)
+                > I would love to see if @Xbow can do this right now 🤔
+                >
+                > PS: @mwulftange is a beast! How did you find that exploit this quick?? 🤯 respect!
+                >
+                > Please comment here if you have any suggestions on how an AI may be able to work better here. I would like to try other CLI based AIs but as long as they are not expensive!
+                > #AI #Reversing #SharePoint
                 
                 **Media:**
                 - photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
@@ -1879,6 +2038,28 @@ Tags (automatic): Auth bypass, RCE
             
         
     
+
+
+### Thread part 2 — @irsdl — 2025-07-21 00:22 UTC (2025-07-21 01:22 WAT)
+
+- URL: https://x.com/irsdl/status/1947089790865645748
+- Metrics (at fetch): bookmark 5, impression 1840, like 3, quote 0, reply 1, retweet 0
+
+> For encoding, references:
+> - https://soroush.me/downloadable/request-encoding-to-bypass-web-application-firewalls.pdf
+> - https://soroush.me/blog/2019/05/x-up-devcap-post-charset-header-in-aspnet-to-bypass-wafs-again/
+
+**Links in post:** https://soroush.me/downloadable/request-encoding-to-bypass-web-application-firewalls.pdf, https://soroush.me/blog/2019/05/x-up-devcap-post-charset-header-in-aspnet-to-bypass-wafs-again/
+
+
+### Thread part 3 — @irsdl — 2025-07-21 00:36 UTC (2025-07-21 01:36 WAT)
+
+- URL: https://x.com/irsdl/status/1947093313422606354
+- Metrics (at fetch): bookmark 0, impression 1718, like 2, quote 0, reply 1, retweet 0
+
+> https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/
+
+**Links in post:** https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/
 
 
 ---
@@ -1919,11 +2100,17 @@ Tags (automatic): Auth bypass
         
         > I originally had Gemini expecting a 200 OK instead of a 401, but after dropping a server-side breakpoint so it could use a timeout as the auth signal, it cracked the bypass! 🥈 AI + human teamwork for the win! 🎉
         >
-        > Next: finding the right parameters &amp; deserialization in https://t.co/MM916K69um https://t.co/uFwK8ANJvz
+        > Next: finding the right parameters & deserialization in Toolpane.aspx. No simple patch diffing; only the gadget is clear. First we must identify those params (I know them, but can AI?). Then repurpose the removed gadget into a payload to execute code. We’ll need decompiled Microsoft.PerformancePoint.Scorecards.Client.dll and likely several blog posts. Can AI handle it if we break it into bite-sized tasks? I’m skeptical. GPT models have stumbled on this before - but we’ll see. 🤔
+        >
+        > #AI #Reversing #SharePoint
+        >
+        > Huge thanks to @_l0gg & @mwulftange for the tips! 🙏
         
         **Media:**
         - photo: https://pbs.twimg.com/media/GwIoBb1WMAAc195.png — no alt text provided by author
         - photo: https://pbs.twimg.com/media/GwIowBMXIAE_PMj.png — no alt text provided by author
+        
+        **Links in post:** https://twitter.com/irsdl/status/1945797068305433029
         
         **Quoted post (full text):**
         
@@ -1935,7 +2122,18 @@ Tags (automatic): Auth bypass
             > Just ran a cheeky test: 
             > Could Gemini find @_l0gg’s CVE-2025-49706 SharePoint auth bypass? Nope! ☹️
             >
-            > Even after feeding it important patch diffs, decompiled old code, .aspx files &amp; blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` https://t.co/Mt3Vj72Ek3
+            > Even after feeding it important patch diffs, decompiled old code, .aspx files & blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` header. 
+            >
+            > I did love its ability to interact with a lab app, running commands to find the class files etc., but it only tried very basic traversals, no fuzzing, cookieless or advanced logic in the code despite asking it to go beyond traversal and read the code logic. 
+            > Automating the patch diffing process with AI is tempting, but we’re not there yet (it ate half my free quota!).
+            >
+            > Hopefully one day it might even generate payloads for complex exploits: imagine ExcelDataSet in .dwp driven by @steventseeley’s sample ;)
+            > I would love to see if @Xbow can do this right now 🤔
+            >
+            > PS: @mwulftange is a beast! How did you find that exploit this quick?? 🤯 respect!
+            >
+            > Please comment here if you have any suggestions on how an AI may be able to work better here. I would like to try other CLI based AIs but as long as they are not expensive!
+            > #AI #Reversing #SharePoint
             
             **Media:**
             - photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
@@ -1966,11 +2164,17 @@ Tags (automatic): Auth bypass
     
     > I originally had Gemini expecting a 200 OK instead of a 401, but after dropping a server-side breakpoint so it could use a timeout as the auth signal, it cracked the bypass! 🥈 AI + human teamwork for the win! 🎉
     >
-    > Next: finding the right parameters &amp; deserialization in https://t.co/MM916K69um https://t.co/uFwK8ANJvz
+    > Next: finding the right parameters & deserialization in Toolpane.aspx. No simple patch diffing; only the gadget is clear. First we must identify those params (I know them, but can AI?). Then repurpose the removed gadget into a payload to execute code. We’ll need decompiled Microsoft.PerformancePoint.Scorecards.Client.dll and likely several blog posts. Can AI handle it if we break it into bite-sized tasks? I’m skeptical. GPT models have stumbled on this before - but we’ll see. 🤔
+    >
+    > #AI #Reversing #SharePoint
+    >
+    > Huge thanks to @_l0gg & @mwulftange for the tips! 🙏
     
     **Media:**
     - photo: https://pbs.twimg.com/media/GwIoBb1WMAAc195.png — no alt text provided by author
     - photo: https://pbs.twimg.com/media/GwIowBMXIAE_PMj.png — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/irsdl/status/1945797068305433029
     
     **Quoted post (full text):**
     
@@ -1982,7 +2186,119 @@ Tags (automatic): Auth bypass
         > Just ran a cheeky test: 
         > Could Gemini find @_l0gg’s CVE-2025-49706 SharePoint auth bypass? Nope! ☹️
         >
-        > Even after feeding it important patch diffs, decompiled old code, .aspx files &amp; blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` https://t.co/Mt3Vj72Ek3
+        > Even after feeding it important patch diffs, decompiled old code, .aspx files & blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` header. 
+        >
+        > I did love its ability to interact with a lab app, running commands to find the class files etc., but it only tried very basic traversals, no fuzzing, cookieless or advanced logic in the code despite asking it to go beyond traversal and read the code logic. 
+        > Automating the patch diffing process with AI is tempting, but we’re not there yet (it ate half my free quota!).
+        >
+        > Hopefully one day it might even generate payloads for complex exploits: imagine ExcelDataSet in .dwp driven by @steventseeley’s sample ;)
+        > I would love to see if @Xbow can do this right now 🤔
+        >
+        > PS: @mwulftange is a beast! How did you find that exploit this quick?? 🤯 respect!
+        >
+        > Please comment here if you have any suggestions on how an AI may be able to work better here. I would like to try other CLI based AIs but as long as they are not expensive!
+        > #AI #Reversing #SharePoint
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
+        
+    
+
+
+---
+
+## 2025-07-17 · Thread · Just ran a cheeky test: 
+
+
+Tags (automatic): Auth bypass, AI-assisted hunting
+
+
+### Post — @irsdl — 2025-07-17 10:45 UTC (2025-07-17 11:45 WAT)
+
+- URL: https://x.com/irsdl/status/1945797068305433029
+- Metrics (at fetch): bookmark 42, impression 28973, like 104, quote 3, reply 5, retweet 12
+
+> Just ran a cheeky test: 
+> Could Gemini find @_l0gg’s CVE-2025-49706 SharePoint auth bypass? Nope! ☹️
+>
+> Even after feeding it important patch diffs, decompiled old code, .aspx files & blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` header. 
+>
+> I did love its ability to interact with a lab app, running commands to find the class files etc., but it only tried very basic traversals, no fuzzing, cookieless or advanced logic in the code despite asking it to go beyond traversal and read the code logic. 
+> Automating the patch diffing process with AI is tempting, but we’re not there yet (it ate half my free quota!).
+>
+> Hopefully one day it might even generate payloads for complex exploits: imagine ExcelDataSet in .dwp driven by @steventseeley’s sample ;)
+> I would love to see if @Xbow can do this right now 🤔
+>
+> PS: @mwulftange is a beast! How did you find that exploit this quick?? 🤯 respect!
+>
+> Please comment here if you have any suggestions on how an AI may be able to work better here. I would like to try other CLI based AIs but as long as they are not expensive!
+> #AI #Reversing #SharePoint
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
+
+
+### Thread part 2 — @irsdl — 2025-07-17 13:51 UTC (2025-07-17 14:51 WAT)
+
+- URL: https://x.com/irsdl/status/1945843800334602393
+- Metrics (at fetch): bookmark 1, impression 2247, like 0, quote 0, reply 1, retweet 1
+
+> @_l0gg I might have misjudged AI here. Does this bug needs a change in default SharePoint installation to make a website accessible to Anonymous users? 
+> I thought we can exploit it out of the box on any site.
+
+
+### Thread part 3 — @irsdl — 2025-07-18 11:17 UTC (2025-07-18 12:17 WAT)
+
+- URL: https://x.com/irsdl/status/1946167456336069044
+- Metrics (at fetch): bookmark 3, impression 1798, like 2, quote 0, reply 0, retweet 1
+
+> https://x.com/irsdl/status/1946166765316161634
+
+**Links in post:** https://x.com/irsdl/status/1946166765316161634
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2025-07-18 11:14 UTC (2025-07-18 12:14 WAT)
+    
+    - URL: https://x.com/irsdl/status/1946166765316161634
+    - Metrics (at fetch): bookmark 57, impression 30668, like 139, quote 3, reply 5, retweet 29
+    
+    > I originally had Gemini expecting a 200 OK instead of a 401, but after dropping a server-side breakpoint so it could use a timeout as the auth signal, it cracked the bypass! 🥈 AI + human teamwork for the win! 🎉
+    >
+    > Next: finding the right parameters & deserialization in Toolpane.aspx. No simple patch diffing; only the gadget is clear. First we must identify those params (I know them, but can AI?). Then repurpose the removed gadget into a payload to execute code. We’ll need decompiled Microsoft.PerformancePoint.Scorecards.Client.dll and likely several blog posts. Can AI handle it if we break it into bite-sized tasks? I’m skeptical. GPT models have stumbled on this before - but we’ll see. 🤔
+    >
+    > #AI #Reversing #SharePoint
+    >
+    > Huge thanks to @_l0gg & @mwulftange for the tips! 🙏
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GwIoBb1WMAAc195.png — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/GwIowBMXIAE_PMj.png — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/irsdl/status/1945797068305433029
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2025-07-17 10:45 UTC (2025-07-17 11:45 WAT)
+        
+        - URL: https://x.com/irsdl/status/1945797068305433029
+        - Metrics (at fetch): bookmark 42, impression 28973, like 104, quote 3, reply 5, retweet 12
+        
+        > Just ran a cheeky test: 
+        > Could Gemini find @_l0gg’s CVE-2025-49706 SharePoint auth bypass? Nope! ☹️
+        >
+        > Even after feeding it important patch diffs, decompiled old code, .aspx files & blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` header. 
+        >
+        > I did love its ability to interact with a lab app, running commands to find the class files etc., but it only tried very basic traversals, no fuzzing, cookieless or advanced logic in the code despite asking it to go beyond traversal and read the code logic. 
+        > Automating the patch diffing process with AI is tempting, but we’re not there yet (it ate half my free quota!).
+        >
+        > Hopefully one day it might even generate payloads for complex exploits: imagine ExcelDataSet in .dwp driven by @steventseeley’s sample ;)
+        > I would love to see if @Xbow can do this right now 🤔
+        >
+        > PS: @mwulftange is a beast! How did you find that exploit this quick?? 🤯 respect!
+        >
+        > Please comment here if you have any suggestions on how an AI may be able to work better here. I would like to try other CLI based AIs but as long as they are not expensive!
+        > #AI #Reversing #SharePoint
         
         **Media:**
         - photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
@@ -2005,11 +2321,17 @@ Tags (automatic): AI-assisted hunting
 
 > I originally had Gemini expecting a 200 OK instead of a 401, but after dropping a server-side breakpoint so it could use a timeout as the auth signal, it cracked the bypass! 🥈 AI + human teamwork for the win! 🎉
 >
-> Next: finding the right parameters &amp; deserialization in https://t.co/MM916K69um https://t.co/uFwK8ANJvz
+> Next: finding the right parameters & deserialization in Toolpane.aspx. No simple patch diffing; only the gadget is clear. First we must identify those params (I know them, but can AI?). Then repurpose the removed gadget into a payload to execute code. We’ll need decompiled Microsoft.PerformancePoint.Scorecards.Client.dll and likely several blog posts. Can AI handle it if we break it into bite-sized tasks? I’m skeptical. GPT models have stumbled on this before - but we’ll see. 🤔
+>
+> #AI #Reversing #SharePoint
+>
+> Huge thanks to @_l0gg & @mwulftange for the tips! 🙏
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GwIoBb1WMAAc195.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GwIowBMXIAE_PMj.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/irsdl/status/1945797068305433029
 
 **Quoted post (full text):**
 
@@ -2021,33 +2343,22 @@ Tags (automatic): AI-assisted hunting
     > Just ran a cheeky test: 
     > Could Gemini find @_l0gg’s CVE-2025-49706 SharePoint auth bypass? Nope! ☹️
     >
-    > Even after feeding it important patch diffs, decompiled old code, .aspx files &amp; blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` https://t.co/Mt3Vj72Ek3
+    > Even after feeding it important patch diffs, decompiled old code, .aspx files & blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` header. 
+    >
+    > I did love its ability to interact with a lab app, running commands to find the class files etc., but it only tried very basic traversals, no fuzzing, cookieless or advanced logic in the code despite asking it to go beyond traversal and read the code logic. 
+    > Automating the patch diffing process with AI is tempting, but we’re not there yet (it ate half my free quota!).
+    >
+    > Hopefully one day it might even generate payloads for complex exploits: imagine ExcelDataSet in .dwp driven by @steventseeley’s sample ;)
+    > I would love to see if @Xbow can do this right now 🤔
+    >
+    > PS: @mwulftange is a beast! How did you find that exploit this quick?? 🤯 respect!
+    >
+    > Please comment here if you have any suggestions on how an AI may be able to work better here. I would like to try other CLI based AIs but as long as they are not expensive!
+    > #AI #Reversing #SharePoint
     
     **Media:**
     - photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
     
-
-
----
-
-## 2025-07-17 · Post · Just ran a cheeky test: 
-
-
-Tags (automatic): Auth bypass, AI-assisted hunting
-
-
-### Post — @irsdl — 2025-07-17 10:45 UTC (2025-07-17 11:45 WAT)
-
-- URL: https://x.com/irsdl/status/1945797068305433029
-- Metrics (at fetch): bookmark 42, impression 28973, like 104, quote 3, reply 5, retweet 12
-
-> Just ran a cheeky test: 
-> Could Gemini find @_l0gg’s CVE-2025-49706 SharePoint auth bypass? Nope! ☹️
->
-> Even after feeding it important patch diffs, decompiled old code, .aspx files &amp; blog posts, it still couldn’t map the Toolpane.aspx path logic - it only found the valid `referer` https://t.co/Mt3Vj72Ek3
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GwDZkFoXYAAUvrL.png — no alt text provided by author
 
 
 ---
@@ -2236,18 +2547,84 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2024-08-09 · Thread · I had a CRLF vuln in a HTTP response, it removed characters such as `&lt; &gt; " and =`. 
+
+
+### Post — @irsdl — 2024-08-09 20:35 UTC (2024-08-09 21:35 WAT)
+
+- URL: https://x.com/irsdl/status/1822008770848792968
+- Metrics (at fetch): bookmark 45, impression 9500, like 90, quote 1, reply 6, retweet 7
+
+> I had a CRLF vuln in a HTTP response, it removed characters such as `&lt; &gt; " and =`. 
+> I exploited it by adding CORS headers to allow cross-site content hijacking!
+> I also added a `X-Frame-Options:Foobar` to make the existing one invalid so I could exploit it via an iframe!
+> #AppSec
+
+
+### Thread part 2 — @irsdl — 2024-08-09 20:35 UTC (2024-08-09 21:35 WAT)
+
+- URL: https://x.com/irsdl/status/1822008772623233033
+- Metrics (at fetch): bookmark 11, impression 996, like 16, quote 0, reply 0, retweet 3
+
+> I used an old tool of mine to show the issue in the report: https://github.com/irsdl/CrossSiteContentHijacking
+
+**Links in post:** https://github.com/irsdl/CrossSiteContentHijacking
+
+
+### Thread part 3 — @irsdl — 2024-08-10 18:01 UTC (2024-08-10 19:01 WAT)
+
+- URL: https://x.com/irsdl/status/1822332350610509852
+- Metrics (at fetch): bookmark 1, impression 1140, like 0, quote 1, reply 0, retweet 0
+
+> https://x.com/irsdl/status/1822330011572920407
+
+**Links in post:** https://x.com/irsdl/status/1822330011572920407
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2024-08-10 17:51 UTC (2024-08-10 18:51 WAT)
+    
+    - URL: https://x.com/irsdl/status/1822330011572920407
+    - Metrics (at fetch): bookmark 11, impression 3482, like 26, quote 1, reply 1, retweet 2
+    
+    > I apologies for my mistake here regarding the `X-Frame-Options` as I didn't notice this for some reasons.
+    > It is not possible to open a site in a frame even using 
+    > `X-Frame-Options: Foobar,SAMEORIGIN`
+    > Also, the target site needs to use SameSite=None which is pretty rare these days.
+    > I will work to see if I can bypass any of these by a header when I get the chance. Lack of = and ; is really limiting here.
+    
+    **Links in post:** https://twitter.com/irsdl/status/1822008770848792968
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @irsdl — 2024-08-09 20:35 UTC (2024-08-09 21:35 WAT)
+        
+        - URL: https://x.com/irsdl/status/1822008770848792968
+        - Metrics (at fetch): bookmark 45, impression 9500, like 90, quote 1, reply 6, retweet 7
+        
+        > I had a CRLF vuln in a HTTP response, it removed characters such as `&lt; &gt; " and =`. 
+        > I exploited it by adding CORS headers to allow cross-site content hijacking!
+        > I also added a `X-Frame-Options:Foobar` to make the existing one invalid so I could exploit it via an iframe!
+        > #AppSec
+        
+    
+
+
+---
+
 ## 2024-08-10 · Post · I apologies for my mistake here regarding the `X-Frame-Options` as I didn't notice this for some rea
 
 
 ### Post — @irsdl — 2024-08-10 17:51 UTC (2024-08-10 18:51 WAT)
 
 - URL: https://x.com/irsdl/status/1822330011572920407
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 11, impression 3482, like 26, quote 1, reply 1, retweet 2
 
 > I apologies for my mistake here regarding the `X-Frame-Options` as I didn't notice this for some reasons.
 > It is not possible to open a site in a frame even using 
 > `X-Frame-Options: Foobar,SAMEORIGIN`
-> Also, the target site needs to use SameSite=None which is pretty rare these https://twitter.com/irsdl/status/1822008770848792968
+> Also, the target site needs to use SameSite=None which is pretty rare these days.
+> I will work to see if I can bypass any of these by a header when I get the chance. Lack of = and ; is really limiting here.
 
 **Links in post:** https://twitter.com/irsdl/status/1822008770848792968
 
@@ -2263,22 +2640,6 @@ Tags (automatic): AI-assisted hunting
     > I also added a `X-Frame-Options:Foobar` to make the existing one invalid so I could exploit it via an iframe!
     > #AppSec
     
-
-
----
-
-## 2024-08-09 · Post · I had a CRLF vuln in a HTTP response, it removed characters such as `&lt; &gt; " and =`. 
-
-
-### Post — @irsdl — 2024-08-09 20:35 UTC (2024-08-09 21:35 WAT)
-
-- URL: https://x.com/irsdl/status/1822008770848792968
-- Metrics (at fetch): bookmark 45, impression 9500, like 90, quote 1, reply 6, retweet 7
-
-> I had a CRLF vuln in a HTTP response, it removed characters such as `&lt; &gt; " and =`. 
-> I exploited it by adding CORS headers to allow cross-site content hijacking!
-> I also added a `X-Frame-Options:Foobar` to make the existing one invalid so I could exploit it via an iframe!
-> #AppSec
 
 
 ---
@@ -2464,6 +2825,39 @@ Tags (automatic): Account takeover
 
 ---
 
+## 2024-04-19 · Thread · Ssrf in a big company, rejected by a triager: "Submissions need to include a proven impact to the cu
+
+
+Tags (automatic): SSRF
+
+
+### Post — @irsdl — 2024-04-19 07:19 UTC (2024-04-19 08:19 WAT)
+
+- URL: https://x.com/irsdl/status/1781221017467097410
+- Metrics (at fetch): bookmark 6, impression 10066, like 36, quote 1, reply 5, retweet 0
+
+> Ssrf in a big company, rejected by a triager: "Submissions need to include a proven impact to the customer, or their user base, and can't simply be a theoretical attack with no proven impact."
+> With PoC of it accessing my domain. When they are hacked the bb platform wouldn't be
+
+
+### Thread part 2 — @irsdl — 2024-04-19 10:38 UTC (2024-04-19 11:38 WAT)
+
+- URL: https://x.com/irsdl/status/1781271067018883224
+- Metrics (at fetch): bookmark 0, impression 362, like 1, quote 0, reply 0, retweet 0
+
+> @ThisIsDK999 I wouldn't look at it of course if I didn't know they have bb and would just get on with what I needed to do.
+
+
+### Thread part 3 — @irsdl — 2024-04-19 11:00 UTC (2024-04-19 12:00 WAT)
+
+- URL: https://x.com/irsdl/status/1781276685742084541
+- Metrics (at fetch): bookmark 0, impression 493, like 1, quote 0, reply 0, retweet 0
+
+> @lucacarettoni I have seen a similar URL loading approach somewhere else but they used a HAProxy and a docker which had a virtual external network defined so a SSRF was equal to hitting the server directly myself so no internal impact. Can't remember its exact details right now.
+
+
+---
+
 ## 2024-04-19 · Post · Just a quick update on this: the issue's been re-opened by an angel seeing my post I guess! 😇 Lookin
 
 
@@ -2488,23 +2882,6 @@ Tags (automatic): SSRF
     > Ssrf in a big company, rejected by a triager: "Submissions need to include a proven impact to the customer, or their user base, and can't simply be a theoretical attack with no proven impact."
     > With PoC of it accessing my domain. When they are hacked the bb platform wouldn't be
     
-
-
----
-
-## 2024-04-19 · Post · Ssrf in a big company, rejected by a triager: "Submissions need to include a proven impact to the cu
-
-
-Tags (automatic): SSRF
-
-
-### Post — @irsdl — 2024-04-19 07:19 UTC (2024-04-19 08:19 WAT)
-
-- URL: https://x.com/irsdl/status/1781221017467097410
-- Metrics (at fetch): bookmark 6, impression 10066, like 36, quote 1, reply 5, retweet 0
-
-> Ssrf in a big company, rejected by a triager: "Submissions need to include a proven impact to the customer, or their user base, and can't simply be a theoretical attack with no proven impact."
-> With PoC of it accessing my domain. When they are hacked the bb platform wouldn't be
 
 
 ---

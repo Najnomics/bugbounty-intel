@@ -3664,7 +3664,7 @@ Tags (automatic): RCE, Memory corruption / native
     >
     > the bug is so complex that even porting the exploit between targets takes serious skill, human or ai
     >
-    > so i benchmarked how well open and frontier models can do it. 🧵 https://t.co/MNkIzF8CMe
+    > so i benchmarked how well open and frontier models can do it. 🧵 [pic.x.com/MNkIzF8CMe]
     
     **Media:**
     - media `3_2114770913791221760` (details not returned by the API)

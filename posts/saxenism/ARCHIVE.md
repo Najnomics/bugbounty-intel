@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 651
-- Conversations/threads: 475
+- Posts in this file: 652
+- Conversations/threads: 476
 - Oldest post captured: 2024-10-01
 - Newest post captured: 2026-11-10
 
@@ -8429,6 +8429,19 @@ Tags (automatic): TEE / enclave
 - Metrics (at fetch): bookmark 1, impression 445, like 10, quote 1, reply 0, retweet 0
 
 > Only way to lose is to quit
+
+
+---
+
+## 2026-01-05 · Reply · @peterus I report them tomorrow. Let's see how locked-in I actually am XD
+
+
+### Post — @saxenism — 2026-01-05 18:59 UTC (2026-01-05 19:59 WAT)
+
+- URL: https://x.com/saxenism/status/2008252005563986172
+- Metrics (at fetch): bookmark 0, impression 203, like 2, quote 0, reply 1, retweet 0
+
+> @peterus I report them tomorrow. Let's see how locked-in I actually am XD
 
 
 ---

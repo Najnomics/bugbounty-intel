@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 137
-- Conversations/threads: 96
+- Posts in this file: 171
+- Conversations/threads: 97
 - Oldest post captured: 2023-07-02
 - Newest post captured: 2026-11-05
 
@@ -431,10 +431,21 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-09-29 · Post · The most interesting of which is soundness of the Merlin-Arthur protocol at the heart of the techniq
+## 2026-09-29 · Thread · So since spring, we spent time, on our own initiative, to formalizing this. It was done by guiding A
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @zksecurityXYZ — 2026-09-29 15:17 UTC (2026-09-29 16:17 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2104953784602665156
+- Metrics (at fetch): bookmark 0, impression 194, like 6, quote 0, reply 1, retweet 0
+
+> So since spring, we spent time, on our own initiative, to formalizing this. It was done by guiding AI through the techniques in https://t.co/iatG7YrQGL , as well as carefully writing and reviewing the central theorem statements.
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-09-29 15:17 UTC (2026-09-29 16:17 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/2104953786842140993
 - Metrics (at fetch): bookmark 1, impression 549, like 13, quote 0, reply 0, retweet 4
@@ -446,24 +457,10 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-09-29 · Post · We think that formal verification can solve this. 
+## 2026-09-29 · Thread · We are very happy to announce that we have formally verified the techniques of Liam Eagen's https://
 
 
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-09-29 15:17 UTC (2026-09-29 16:17 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2104953780882358499
-- Metrics (at fetch): bookmark 0, impression 186, like 6, quote 0, reply 1, retweet 0
-
-> We think that formal verification can solve this. 
-> Because we can verify both the protocol and then tie it back to verified Clean (https://t.co/SfZkxsdjGX) circuits implementing the technique.
-
-
----
-
-## 2026-09-29 · Post · We are very happy to announce that we have formally verified the techniques of Liam Eagen's https://
+Tags (automatic): ZK, Memory corruption / native
 
 
 ### Post — @zksecurityXYZ — 2026-09-29 15:17 UTC (2026-09-29 16:17 WAT)
@@ -478,6 +475,31 @@ Tags (automatic): ZK
 > https://t.co/5hqcVzjVPq
 >
 > 🧵1/6
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-09-29 15:17 UTC (2026-09-29 16:17 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2104953775954046980
+- Metrics (at fetch): bookmark 0, impression 587, like 5, quote 0, reply 1, retweet 0
+
+> These techniques allows the construction of *extremely* cheap proofs of inner products relations on elliptic curves inside circuits; as long as linear combinations are free.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-09-29 15:17 UTC (2026-09-29 16:17 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2104953778017333541
+- Metrics (at fetch): bookmark 0, impression 351, like 6, quote 0, reply 1, retweet 0
+
+> However, it relies on some relatively involved/subtle algebraic geometry and both the analysis and the implementation are potentially easy to get wrong.
+
+
+### Thread part 4 — @zksecurityXYZ — 2026-09-29 15:17 UTC (2026-09-29 16:17 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2104953780882358499
+- Metrics (at fetch): bookmark 0, impression 186, like 6, quote 0, reply 1, retweet 0
+
+> We think that formal verification can solve this. 
+> Because we can verify both the protocol and then tie it back to verified Clean (https://t.co/SfZkxsdjGX) circuits implementing the technique.
 
 
 ---
@@ -895,13 +917,37 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-07-20 · Post · The through line: vibe auditing alone is not enough.
+## 2026-07-20 · Thread · So we built cheatVM: a cheatcode-enabled execution harness for Aleo, roughly Foundry for the Aleo ec
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): ZK, AI-assisted hunting
 
 
 ### Post — @zksecurityXYZ — 2026-07-20 13:15 UTC (2026-07-20 14:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2079193414004851038
+- Metrics (at fetch): bookmark 1, impression 134, like 2, quote 0, reply 1, retweet 0
+
+> So we built cheatVM: a cheatcode-enabled execution harness for Aleo, roughly Foundry for the Aleo ecosystem.
+>
+> Deploy, fund accounts, set mappings, execute, assert finalization. One Rust test, end to end.
+>
+> Readable for humans, and usable by the agent to triage itself.
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-07-20 13:15 UTC (2026-07-20 14:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2079193415753822433
+- Metrics (at fetch): bookmark 1, impression 82, like 2, quote 0, reply 1, retweet 0
+
+> Third lesson: no threat model, no signal.
+>
+> 14 false positives out of 33 findings. Eight of them were simply not in the threat model.
+>
+> We gave zkao a zkao.md with scope, trust boundaries, and severity preferences. False positives dropped to 2.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-07-20 13:15 UTC (2026-07-20 14:15 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/2079193417137918066
 - Metrics (at fetch): bookmark 1, impression 185, like 2, quote 0, reply 1, retweet 0
@@ -931,27 +977,7 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
-## 2026-07-20 · Post · We found it by hand, then taught it back to the agent.
-
-
-Tags (automatic): ZK, AI-assisted hunting
-
-
-### Post — @zksecurityXYZ — 2026-07-20 13:15 UTC (2026-07-20 14:15 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2079193411257610625
-- Metrics (at fetch): bookmark 2, impression 262, like 3, quote 0, reply 1, retweet 0
-
-> We found it by hand, then taught it back to the agent.
->
-> Four knowledge components: a Leo security cheat sheet, an Aleo Instructions reference, snarkVM design gotchas, and a catalog of Aleo/Leo bug patterns.
->
-> It catches the class consistently now.
-
-
----
-
-## 2026-07-20 · Post · We just brought Leo and Aleo support into zkao, our AI bug-detection tool, and put it to work on a r
+## 2026-07-20 · Thread · We just brought Leo and Aleo support into zkao, our AI bug-detection tool, and put it to work on a r
 
 
 Tags (automatic): ZK, AI-assisted hunting
@@ -965,6 +991,30 @@ Tags (automatic): ZK, AI-assisted hunting
 > We just brought Leo and Aleo support into zkao, our AI bug-detection tool, and put it to work on a real engagement with HumanityLink.
 >
 > The hard part was not the model. It was everything we had to build around it.
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-07-20 13:15 UTC (2026-07-20 14:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2079193409718218765
+- Metrics (at fetch): bookmark 2, impression 357, like 3, quote 0, reply 1, retweet 0
+
+> First lesson: a strong model with no ecosystem knowledge misses trivial bugs.
+>
+> HumanityLink's Leo contract had a custom constructor with no ownership check. Anyone could upgrade the program.
+>
+> zkao missed it. So did vanilla Claude and ChatGPT.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-07-20 13:15 UTC (2026-07-20 14:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2079193411257610625
+- Metrics (at fetch): bookmark 2, impression 262, like 3, quote 0, reply 1, retweet 0
+
+> We found it by hand, then taught it back to the agent.
+>
+> Four knowledge components: a Leo security cheat sheet, an Aleo Instructions reference, snarkVM design gotchas, and a catalog of Aleo/Leo bug patterns.
+>
+> It catches the class consistently now.
 
 
 ---
@@ -984,20 +1034,32 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
-## 2026-07-13 · Post · To put the exploit into perspective, note that both this and the previous exploit by @zellic_io are 
+## 2026-07-13 · Thread · In the challenge format, we cannot run submitted code because that would open a pandora's box of oth
+
+
+Tags (automatic): ZK, Memory corruption / native
 
 
 ### Post — @zksecurityXYZ — 2026-07-13 12:02 UTC (2026-07-13 13:02 WAT)
 
-- URL: https://x.com/zksecurityXYZ/status/2076638359515004974
-- Metrics (at fetch): bookmark 0, impression 114, like 2, quote 0, reply 1, retweet 0
+- URL: https://x.com/zksecurityXYZ/status/2076638361259823303
+- Metrics (at fetch): bookmark 0, impression 206, like 1, quote 0, reply 1, retweet 0
 
-> To put the exploit into perspective, note that both this and the previous exploit by @zellic_io are caught during real-world verified usage of clean, which includes simple tests such as running the witness generation code.
+> In the challenge format, we cannot run submitted code because that would open a pandora's box of other exploits: Lean is not designed for running adversarial code without breaking its trust guarantees. We need to rely purely on the Lean kernel, which can only check types.
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-07-13 12:02 UTC (2026-07-13 13:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2076638363134595545
+- Metrics (at fetch): bookmark 0, impression 940, like 4, quote 0, reply 0, retweet 1
+
+> We believe the challenge is now robust against adversarial circuits, and want to thank the community for trying break it. Please continue to do so!
+> Happy zkGolfing ⛳️
 
 
 ---
 
-## 2026-07-13 · Post · Shout-out to @QED_Audit for breaking our leaderboard by finding a neat exploit, exposing a gap in th
+## 2026-07-13 · Thread · Shout-out to @QED_Audit for breaking our leaderboard by finding a neat exploit, exposing a gap in th
 
 
 Tags (automatic): ZK
@@ -1015,6 +1077,49 @@ Tags (automatic): ZK
 > What happened? https://t.co/md2QPN0YHb
 
 **Quoted post** 2075400032937775326: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-07-13 12:02 UTC (2026-07-13 13:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2076638352086823081
+- Metrics (at fetch): bookmark 0, impression 349, like 1, quote 0, reply 1, retweet 0
+
+> In Clean circuits, when defining a witness generator you can reference other variables. By being self-referential, you could make our completeness statement vacuous, because one of the hypotheses becomes contradictory from assuming a witness that is not constructible.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-07-13 12:02 UTC (2026-07-13 13:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2076638353940750495
+- Metrics (at fetch): bookmark 0, impression 305, like 0, quote 0, reply 1, retweet 0
+
+> What was missing is a property that enforces computability of witnesses, by requiring a strict dependency order. When adding such a property, Clean's completeness is strengthened to the proper statement: That there exists a witness that satisfies the constraints.
+
+
+### Thread part 4 — @zksecurityXYZ — 2026-07-13 12:02 UTC (2026-07-13 13:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2076638355840712992
+- Metrics (at fetch): bookmark 0, impression 153, like 0, quote 0, reply 1, retweet 0
+
+> We updated https://t.co/o878hqHbsh to require the property as an additional proof. This closes the gap @QED_Audit exploited.
+> Meanwhile, we're working on wiring the property natively into our framework https://t.co/cLq3J3BSTY
+> The necessary theory has long existed in Clean..
+
+
+### Thread part 5 — @zksecurityXYZ — 2026-07-13 12:02 UTC (2026-07-13 13:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2076638357740744821
+- Metrics (at fetch): bookmark 0, impression 120, like 0, quote 0, reply 1, retweet 0
+
+> ..but so far, we didn't take its importance seriously enough because we hadn't operated under the threat model of "adversarially written circuits".
+> We think it's quite powerful to operate in this model, though, and happy to see zkGolf stress-test it for the first time.
+
+
+### Thread part 6 — @zksecurityXYZ — 2026-07-13 12:02 UTC (2026-07-13 13:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2076638359515004974
+- Metrics (at fetch): bookmark 0, impression 114, like 2, quote 0, reply 1, retweet 0
+
+> To put the exploit into perspective, note that both this and the previous exploit by @zellic_io are caught during real-world verified usage of clean, which includes simple tests such as running the witness generation code.
 
 
 ---
@@ -1344,7 +1449,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-06-08 · Post · Today, we're releasing version 1 of zkao. If you don't know what zkao is: it's deep research for fin
+## 2026-06-08 · Thread · Today, we're releasing version 1 of zkao. If you don't know what zkao is: it's deep research for fin
 
 
 Tags (automatic): ZK
@@ -1356,6 +1461,14 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 18, impression 9553, like 63, quote 1, reply 5, retweet 8
 
 > Today, we're releasing version 1 of zkao. If you don't know what zkao is: it's deep research for finding bugs in codebases implementing cryptography. We're opening the tool to the public, but still gating it with a KYB to prevent people from scanning code they don't own. Link 👇🏼
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-06-08 19:56 UTC (2026-06-08 20:56 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2064074103724646401
+- Metrics (at fetch): bookmark 2, impression 811, like 6, quote 0, reply 3, retweet 0
+
+> sign up on https://t.co/bEeWOrOXYe and reach out to us to onboard!
 
 
 ---
@@ -1389,7 +1502,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-06-04 · Post · We've been using AI across the company for quite a while now: finding bugs in close and open source 
+## 2026-06-04 · Thread · We've been using AI across the company for quite a while now: finding bugs in close and open source 
 
 
 Tags (automatic): ZK, AI-assisted hunting
@@ -1404,6 +1517,16 @@ Tags (automatic): ZK, AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HJ-7Du-WsAARtz5.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-06-04 16:32 UTC (2026-06-04 17:32 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2062573266221355180
+- Metrics (at fetch): bookmark 6, impression 1343, like 14, quote 0, reply 0, retweet 2
+
+> Introducing False Witness. Stay tuned
+>
+> https://t.co/G3EQSgAdup
 
 
 ---
@@ -1424,7 +1547,54 @@ Tags (automatic): Smart contract / DeFi, ZK
 
 ---
 
-## 2026-05-26 · Post · On May 15, THORChain was drained for ~$10.7M. Root cause: a flawed implementation of GG20, an MPC-ba
+## 2026-05-26 · Post · This is meant to be a living reference. Seen an MPC pitfall in the wild that isn't covered? Open a P
+
+
+### Post — @zksecurityXYZ — 2026-05-26 04:15 UTC (2026-05-26 05:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2059126140069949557
+- Metrics (at fetch): bookmark 2, impression 480, like 5, quote 0, reply 1, retweet 0
+
+> This is meant to be a living reference. Seen an MPC pitfall in the wild that isn't covered? Open a PR:
+> https://t.co/iokmscAQcb
+
+
+---
+
+## 2026-05-26 · Post · For LLM-assisted code review, we also ship a SKILL.md to guide agents through the common failure mod
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2026-05-26 04:15 UTC (2026-05-26 05:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2059126137813356748
+- Metrics (at fetch): bookmark 1, impression 245, like 2, quote 0, reply 2, retweet 0
+
+> For LLM-assisted code review, we also ship a SKILL.md to guide agents through the common failure modes:
+> https://t.co/aPOsLXYMhB
+
+
+---
+
+## 2026-05-26 · Post · Each entry walks through what the pitfall is, how it goes wrong, and how to avoid it with examples d
+
+
+### Post — @zksecurityXYZ — 2026-05-26 04:15 UTC (2026-05-26 05:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2059126136026624015
+- Metrics (at fetch): bookmark 0, impression 270, like 2, quote 0, reply 1, retweet 0
+
+> Each entry walks through what the pitfall is, how it goes wrong, and how to avoid it with examples drawn from real deployed libraries: tss-lib, WSTS, MP-SPDZ, and Drand.
+
+
+---
+
+## 2026-05-26 · Thread · On May 15, THORChain was drained for ~$10.7M. Root cause: a flawed implementation of GG20, an MPC-ba
+
+
+Tags (automatic): ZK
 
 
 ### Post — @zksecurityXYZ — 2026-05-26 04:15 UTC (2026-05-26 05:15 WAT)
@@ -1434,6 +1604,41 @@ Tags (automatic): Smart contract / DeFi, ZK
 
 > On May 15, THORChain was drained for ~$10.7M. Root cause: a flawed implementation of GG20, an MPC-based threshold signature scheme.
 > Theoretically sound MPC schemes keep failing in implementation. So we built a reference for it 👇
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-05-26 04:15 UTC (2026-05-26 05:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2059126131157045647
+- Metrics (at fetch): bookmark 12, impression 4130, like 33, quote 1, reply 2, retweet 12
+
+> Today we're launching https://t.co/25RLaELMX4, a collaborative catalog of common pitfalls in MPC implementations and the cryptographic primitives they rely on.
+> Built with contributors from zkSecurity, Trail of Bits, Partisia, and Zama.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-05-26 04:15 UTC (2026-05-26 05:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2059126132746674251
+- Metrics (at fetch): bookmark 2, impression 578, like 4, quote 0, reply 1, retweet 1
+
+> The idea came out of RWMPC 2025. A group of practitioners agreed the field needed a shared, living reference for the implementation mistakes that keep recurring.
+> https://t.co/25RLaELMX4 is for the gap between "provably secure on paper" and "shipping in production."
+
+
+### Thread part 4 — @zksecurityXYZ — 2026-05-26 04:15 UTC (2026-05-26 05:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2059126134155931695
+- Metrics (at fetch): bookmark 0, impression 290, like 2, quote 0, reply 1, retweet 0
+
+> The guide currently covers six categories:
+>
+> - Input validation
+> - Context binding
+> - Concurrency &amp; state
+> - Insecure subprotocols
+> - Failure recovery
+> - Adaptive inputs
+>
+> Plus misuse of the cryptographic primitives MPC protocols depend on.
 
 
 ---
@@ -1737,10 +1942,10 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
-## 2026-02-16 · Post · New version of zkao 0.2.0 and we're beta testing gnark! Thanks for all the early-access users and al
+## 2026-02-16 · Thread · New version of zkao 0.2.0 and we're beta testing gnark! Thanks for all the early-access users and al
 
 
-Tags (automatic): ZK
+Tags (automatic): ZK, AI-assisted hunting
 
 
 ### Post — @zksecurityXYZ — 2026-02-16 03:12 UTC (2026-02-16 04:12 WAT)
@@ -1752,6 +1957,14 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HBP4cfNXsAAoDWW.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-02-16 03:13 UTC (2026-02-16 04:13 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2023234248451170416
+- Metrics (at fetch): bookmark 2, impression 272, like 1, quote 0, reply 0, retweet 0
+
+> to learn more about zkao, our AI scanning tool, read about the launch here: https://t.co/geFclyKRzG
 
 
 ---
@@ -1776,7 +1989,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-02-10 · Post · Google recently released a report on using Gemini in academic research. Turns out one of the case st
+## 2026-02-10 · Thread · Google recently released a report on using Gemini in academic research. Turns out one of the case st
 
 
 Tags (automatic): AI-assisted hunting
@@ -1790,6 +2003,14 @@ Tags (automatic): AI-assisted hunting
 > Google recently released a report on using Gemini in academic research. Turns out one of the case studies concerns a recent SNARG paper! It found a bug that humans had missed so far!
 >
 > 👇🏼is our summary of what happened and a reflection on using LLMs in paper reviews and audits
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-02-10 18:29 UTC (2026-02-10 19:29 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2021290479690633514
+- Metrics (at fetch): bookmark 9, impression 1053, like 11, quote 0, reply 0, retweet 0
+
+> read it here: https://t.co/77cvrFstBJ
 
 
 ---
@@ -1974,7 +2195,7 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
-## 2025-07-22 · Post · We reported this bug to a number of projects (including semaphore) after finding it with our interna
+## 2025-07-22 · Thread · We reported this bug to a number of projects (including semaphore) after finding it with our interna
 
 
 Tags (automatic): ZK, AI-assisted hunting
@@ -2004,12 +2225,24 @@ Tags (automatic): ZK, AI-assisted hunting
     
 
 
+### Thread part 2 — @zksecurityXYZ — 2025-07-22 12:55 UTC (2025-07-22 13:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1947641593546060188
+- Metrics (at fetch): bookmark 1, impression 1171, like 8, quote 0, reply 0, retweet 4
+
+> In Bug Hunt: Zero-Knowledge, Full-Paranoia, and the AI That Stares Back, we explore how we are experimenting with AI to find ZK bugs!
+> https://t.co/Bimbis3Shb https://t.co/XQ27qTg1wD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwdptHeWoAAZiTA.jpg — no alt text provided by author
+
+
 ---
 
-## 2025-07-11 · Post · 🧵 Over the last few months, we’ve published a range of blog posts exploring the technical challenges
+## 2025-07-11 · Thread · 🧵 Over the last few months, we’ve published a range of blog posts exploring the technical challenges
 
 
-Tags (automatic): ZK, AI-assisted hunting
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hunting
 
 
 ### Post — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
@@ -2020,9 +2253,131 @@ Tags (automatic): ZK, AI-assisted hunting
 > 🧵 Over the last few months, we’ve published a range of blog posts exploring the technical challenges and ideas shaping zero-knowledge proofs, cryptography, and security. This thread rounds up the latest, from finding bugs using AI to post-quantum SNARKs 👇
 
 
+### Thread part 2 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693369009459301
+- Metrics (at fetch): bookmark 0, impression 161, like 3, quote 0, reply 1, retweet 0
+
+> 1/ ⚠️ A subtle bug in Halo2 could have broken soundness with just one extra query. We found it, named it the Query Collision Bug, and helped patch it across Zcash, PSE, and Axiom.
+> https://t.co/xkjWf42oZP https://t.co/TBowOLauXF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvliQHGWsAM9R48.jpg — no alt text provided by author
+
+
+### Thread part 3 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693371916112210
+- Metrics (at fetch): bookmark 0, impression 140, like 2, quote 0, reply 1, retweet 0
+
+> 2/ 🕵️‍♀️ Can AI catch bugs in ZK circuits? We built SnarkSentinel to find out. From failures to breakthroughs, here’s what we learned.
+>
+> https://t.co/Bimbis3Shb https://t.co/4BV0RTMYvA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvliRUhXwAAWm_K.jpg — no alt text provided by author
+
+
+### Thread part 4 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693376013881416
+- Metrics (at fetch): bookmark 0, impression 142, like 3, quote 0, reply 1, retweet 0
+
+> 3/ 🧠 Ever wonder how Trusted Execution Environments (TEEs) work? We whiteboarded the basics with Archetype using Intel TDX. Friendly, visual, and practical.
+> https://t.co/TVeeIV3DvI https://t.co/6ynSHiHvqr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvliUb-XEAAbM6m.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693378824081736
+- Metrics (at fetch): bookmark 1, impression 160, like 3, quote 0, reply 1, retweet 0
+
+> 4/ 🧨 Solana’s ZK ElGamal had a soundness flaw we call the Phantom Challenge bug. Here’s how we helped fix it and what it teaches us about ZK security.
+> https://t.co/pO3X1hot82 https://t.co/vwKQ6jvrKn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvliV3yXIAIPkKm.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693382322126849
+- Metrics (at fetch): bookmark 0, impression 105, like 1, quote 0, reply 1, retweet 0
+
+> 5/ 🔍 Circom can be tricky. We’ve seen it all, and now we’re sharing the most common anti-patterns and pitfalls devs should avoid.
+> https://t.co/gkthkCrCJb https://t.co/8zJLdv8nBl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvlibE8XAAAJ_6I.jpg — no alt text provided by author
+
+
+### Thread part 7 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693385405022260
+- Metrics (at fetch): bookmark 1, impression 95, like 2, quote 0, reply 1, retweet 0
+
+> 6/ 🔐 What if SNARKs were quantum-resistant and efficient? Meet Greyhound—a lattice-based proof system designed for the post-quantum world.
+> https://t.co/XqHBFi8Vxq https://t.co/66YtmyvQe8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gvligv4XsAED3wR.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693388676554915
+- Metrics (at fetch): bookmark 0, impression 91, like 1, quote 0, reply 1, retweet 0
+
+> 7/ ⚡️ Barrett reduction just got faster. We optimized the bounds and saw a 14% speedup on NIST curves. Here’s the math and the impact.
+>
+> https://t.co/8UV7Fj872n https://t.co/qoz3giftkG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvlimHMXQAATI42.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693391230837132
+- Metrics (at fetch): bookmark 0, impression 88, like 1, quote 0, reply 1, retweet 0
+
+> 8/ 📊 Polynomial commitments are the unsung heroes of SNARKs. This post dives into KZG10, hiding vs binding, batching, and more.
+> https://t.co/WNNE5Uh36Z https://t.co/yjrfZ4nG20
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gvliqi5WwAEkPR6.jpg — no alt text provided by author
+
+
+### Thread part 10 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693394284331367
+- Metrics (at fetch): bookmark 1, impression 423, like 2, quote 0, reply 1, retweet 0
+
+> 9/ 🖥️ WebGPU is unlocking faster client-side ZK proving. We break down our techniques, wins, and pain points in getting it to work.
+> https://t.co/BchzLjwhqZ https://t.co/Wi3uy4Rlr2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvlitLLXoAAhFup.jpg — no alt text provided by author
+
+
+### Thread part 11 — @zksecurityXYZ — 2025-07-11 15:26 UTC (2025-07-11 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943693397199335933
+- Metrics (at fetch): bookmark 1, impression 361, like 2, quote 0, reply 0, retweet 0
+
+> 10/ 📜 Say hello to clean: a DSL for writing and formally verifying ZK circuits in Lean4. Soundness, completeness, and no more bugs.
+> https://t.co/gBL1Nxotl6 https://t.co/W98EO3iY0C
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gvliy5GXYAA3vM2.jpg — no alt text provided by author
+
+
 ---
 
-## 2025-07-09 · Post · We recently discovered a subtle but important soundness issue in Halo2, which we’ve named the query 
+## 2025-07-09 · Thread · We recently discovered a subtle but important soundness issue in Halo2, which we’ve named the query 
 
 
 Tags (automatic): ZK
@@ -2037,6 +2392,16 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GvcEsUFWsAAc_zq.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2025-07-09 19:18 UTC (2025-07-09 20:18 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1943027045262377214
+- Metrics (at fetch): bookmark 3, impression 974, like 9, quote 1, reply 0, retweet 0
+
+> We disclosed the issue to the relevant teams—including Zcash, PSE, and Axiom, all of whom have since patched it. While no known production circuits were affected, the bug reveals a surprising vulnerability in the proving system that deserves attention.
+>
+> https://t.co/xkjWf42oZP
 
 
 ---
