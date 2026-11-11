@@ -77,9 +77,9 @@ Tags (automatic): AI-assisted hunting
 Tags (automatic): Platform: Bugcrowd
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @RootxRavi — 2026-10-25 14:49 UTC (2026-10-25 15:49 WAT)
+#### Root post — @RootxRavi — 2026-10-25 14:49 UTC (2026-10-25 15:49 WAT)
 
 - URL: https://x.com/RootxRavi/status/2114368791408947313
 - Metrics (at fetch): bookmark 69, impression 15852, like 423, quote 1, reply 21, retweet 6
@@ -453,9 +453,9 @@ Tags (automatic): Platform: Bugcrowd
 Tags (automatic): Platform: Bugcrowd
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @RootxRavi — 2026-08-05 13:17 UTC (2026-08-05 14:17 WAT)
+#### Root post — @RootxRavi — 2026-08-05 13:17 UTC (2026-08-05 14:17 WAT)
 
 - URL: https://x.com/RootxRavi/status/2084992157388345591
 - Metrics (at fetch): bookmark 16, impression 4379, like 154, quote 0, reply 14, retweet 3
@@ -1723,9 +1723,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1400680203630874626 — 2024-04-15 02:10 UTC (2024-04-15 03:10 WAT)
+    #### Quoted post — @GodfatherOrwa — 2024-04-15 02:10 UTC (2024-04-15 03:10 WAT)
     
-    - URL: https://x.com/1400680203630874626/status/1779693632250851599
+    - URL: https://x.com/GodfatherOrwa/status/1779693632250851599
     - Metrics (at fetch): not returned
     
     > story of very quick RCE 

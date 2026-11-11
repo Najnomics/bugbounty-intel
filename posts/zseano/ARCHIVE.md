@@ -1763,9 +1763,9 @@ Tags (automatic): Platform: HackerOne
 ## 2022-12-21 · Reply · @NahamSec remove emotion. when i first started I was passionate about helping companies fix bugs but
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @NahamSec — 2022-12-21 15:56 UTC (2022-12-21 16:56 WAT)
+#### Root post — @NahamSec — 2022-12-21 15:56 UTC (2022-12-21 16:56 WAT)
 
 - URL: https://x.com/NahamSec/status/1605592932458778625
 - Metrics (at fetch): not returned

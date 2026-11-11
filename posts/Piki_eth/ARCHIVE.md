@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 67
+- Posts in this file: 91
+- Conversations/threads: 66
 - Oldest post captured: 2024-09-21
 - Newest post captured: 2026-11-09
 
@@ -122,36 +122,7 @@ Tags (automatic): Platform: HackenProof
 
 ---
 
-## 2026-10-29 · Post · https://t.co/jrlZPazaGa
-
-
-### Post — @Piki_eth — 2026-10-29 12:33 UTC (2026-10-29 13:33 WAT)
-
-- URL: https://x.com/Piki_eth/status/2115784165841063953
-- Metrics (at fetch): bookmark 0, impression 181, like 1, quote 0, reply 0, retweet 0
-
-> https://t.co/jrlZPazaGa
-
-**Quoted post (full text):**
-
-    #### Quoted post — @Piki_eth — 2026-10-06 08:58 UTC (2026-10-06 09:58 WAT)
-    
-    - URL: https://x.com/Piki_eth/status/2107395183692349446
-    - Metrics (at fetch): bookmark 1, impression 2664, like 33, quote 3, reply 2, retweet 1
-    
-    > Submitted this on Sept 13
-    > Fingers crossed 🤞🐛
-    >
-    > #bugbounty #hackenproof [pic.x.com/enQzjU13HG]
-    
-    **Media:**
-    - photo: https://pbs.twimg.com/media/HT74ksBakAADe9M.jpg — no alt text provided by author
-    
-
-
----
-
-## 2026-10-29 · Post · Another bug bounty report triaged by HackenProof. 🔥
+## 2026-10-29 · Thread · Another bug bounty report triaged by HackenProof. 🔥
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge, Platform: HackenProof
@@ -172,6 +143,32 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: HackenProof
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HVzFuZQaAAAXP05.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Piki_eth — 2026-10-29 12:33 UTC (2026-10-29 13:33 WAT)
+
+- URL: https://x.com/Piki_eth/status/2115784165841063953
+- Metrics (at fetch): bookmark 0, impression 183, like 1, quote 0, reply 0, retweet 0
+
+> https://x.com/Piki_eth/status/2107395183692349446?a=JHmMMRd-wCXYgl7YxkA&s=20
+
+**Links in post:** https://x.com/Piki_eth/status/2107395183692349446?a=JHmMMRd-wCXYgl7YxkA&s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Piki_eth — 2026-10-06 08:58 UTC (2026-10-06 09:58 WAT)
+    
+    - URL: https://x.com/Piki_eth/status/2107395183692349446
+    - Metrics (at fetch): bookmark 1, impression 2664, like 33, quote 3, reply 2, retweet 1
+    
+    > Submitted this on Sept 13
+    > Fingers crossed 🤞🐛
+    >
+    > #bugbounty #hackenproof [pic.x.com/enQzjU13HG]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HT74ksBakAADe9M.jpg — no alt text provided by author
+    
 
 
 ---
@@ -879,7 +876,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 
 ---
 
-## 2026-08-25 · Post · Found a CRITICAL security leak in a company valued at $2B+ 🚨
+## 2026-08-25 · Thread · Found a CRITICAL security leak in a company valued at $2B+ 🚨
 
 
 ### Post — @Piki_eth — 2026-08-25 13:55 UTC (2026-08-25 14:55 WAT)
@@ -898,6 +895,14 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HQkpW-SbIAAwnZM.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Piki_eth — 2026-08-25 14:03 UTC (2026-08-25 15:03 WAT)
+
+- URL: https://x.com/Piki_eth/status/2092251405453283675
+- Metrics (at fetch): bookmark 0, impression 1095, like 1, quote 0, reply 0, retweet 0
+
+> The Leak was there form last two years.
 
 
 ---
@@ -1473,7 +1478,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-01-07 · Post · Introducing @3BerasCapital_
+## 2025-01-07 · Thread · Introducing @3BerasCapital_
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
@@ -1488,12 +1493,99 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 >
 > 🧵 What is Three Beras Capital (3BC)?
 > Three Beras Capital (3BC) is an innovative DAO pushing the boundaries of blockchain by combining AI-driven storytelling, NFT technology, and decentralized governance.
-> It’s not just an investment DAO—it’s a
+> It’s not just an investment DAO—it’s a narrative revolution. Here’s what makes it truly unique:
+
+
+### Thread part 2 — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516088290402663
+- Metrics (at fetch): bookmark 0, impression 72, like 1, quote 0, reply 1, retweet 0
+
+> 1/ 🚀 The Vision: Three Beras Capital (3BC) is on a mission to create a narrative-driven investment DAO, exploring the intersection of NFTs, AI agents, and the Berachain ecosystem. The goal? To push the limits of what’s possible with storytelling, technology, and community-driven initiatives.
+
+
+### Thread part 3 — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516091746459999
+- Metrics (at fetch): bookmark 0, impression 70, like 1, quote 0, reply 1, retweet 0
+
+> 2/ 🎨 Strategic NFT Accumulation: 3BC uses raised ETH to acquire exclusive Berachain NFTs. These NFTs aren’t just digital assets—they are the foundation of 3BC’s narrative, forming the cornerstone of their storytelling and engagement strategies.
+
+
+### Thread part 4 — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516095152288189
+- Metrics (at fetch): bookmark 0, impression 71, like 1, quote 0, reply 1, retweet 0
+
+> 3/ 🤖 AI-Driven NFT Agents: Leveraging their proprietary 3BC Swarm Technology, the DAO turns static NFTs into interactive AI agents with distinct personalities. These agents engage with users on platforms like:  X,  Telegram Think of it as bringing NFTs to life, making them conversational and social!
+
+
+### Thread part 5 — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516099992461466
+- Metrics (at fetch): bookmark 0, impression 67, like 1, quote 0, reply 1, retweet 0
+
+> 4/ 🌌 Swarm Intelligence: 3BC pioneers a unique approach to interconnected AI storytelling. Imagine a world where multiple NFT agents interact to create a shared story—showcasing the rise and fall of an investment firm in a decentralized universe. It’s a new frontier in entertainment and blockchain creativity.
+
+
+### Thread part 6 — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516103507378190
+- Metrics (at fetch): bookmark 0, impression 79, like 1, quote 0, reply 1, retweet 0
+
+> 5/ 🛠️ Built on http://DAOS.WORLD: 3BC is launching on http://DAOS.WORLD, a platform designed to nurture innovative DAO projects. This provides 3BC with: Access to a supportive DAO ecosystem  Tools for decentralized governance and collaboration
+
+**Links in post:** http://DAOS.WORLD
+
+
+### Thread part 7 — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516106975826031
+- Metrics (at fetch): bookmark 0, impression 72, like 1, quote 0, reply 1, retweet 0
+
+> 6/ 📊 Why Does It Matter? Three Beras Capital shows us a glimpse of the future: How NFTs can evolve into intelligent, interactive agents.  How DAOs can redefine entertainment and community involvement. How creativity and blockchain can work together to build immersive experiences.
+
+
+### Thread part 8 — @Piki_eth — 2025-01-07 06:27 UTC (2025-01-07 07:27 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516111321383267
+- Metrics (at fetch): bookmark 0, impression 80, like 1, quote 0, reply 2, retweet 0
+
+> 7/ 😎 Meet the team
+> @cladeszzz
+> - Co-Founder
+> @Fetu_
+> - Co-Founder
+> @BuZhu_
+> AI-Agent
+> @3BCbintern
+> AI-Agent
+> @3BCbintern
+> AI-Agent
+
+
+### Thread part 9 — @Piki_eth — 2025-01-07 06:28 UTC (2025-01-07 07:28 WAT)
+
+- URL: https://x.com/Piki_eth/status/1876516114697449767
+- Metrics (at fetch): bookmark 0, impression 71, like 1, quote 0, reply 0, retweet 0
+
+> 8/ 💎 Final Thoughts:
+> 3BC isn’t just another DAO—it’s a groundbreaking movement redefining NFTs, AI, and blockchain narratives.
+> 🚀 Follow:
+> 👉 @3BerasCapital_
+> 👉 @berachain
+>
+> 🎉 Special thanks to @BR4ted for introducing this incredible opportunity!
+> Stay tuned for more updates as we explore the future of decentralized innovation. 🌟
+> #NFTs #AI #Blockchain #DAO #Web3
 
 
 ---
 
-## 2024-09-30 · Post · 🚀Sonic Airdrop
+## 2024-09-30 · Thread · 🚀Sonic Airdrop
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
@@ -1509,15 +1601,133 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 > 🎁Confirmed 190M $S airdrop 
 > 💰Cost: $0
 >
-> Follow 🧵👇 https://t.co/aDPS31BuZs
+> Follow 🧵👇 [pic.x.com/aDPS31BuZs]
 
 **Media:**
 - video:  — no alt text provided by author
 
 
+### Thread part 2 — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840670927975309814
+- Metrics (at fetch): bookmark 0, impression 40, like 2, quote 0, reply 1, retweet 1
+
+> 🚀 @0xSonicLabs raised $10M to build the world’s fastest EVM chain, boasting 10k+ TPS and a one-second confirmation time ⚡️.
+> Not exactly new! Formerly known as Fantom, Sonic Labs is a layer-1 platform with a secure Ethereum gateway and the fastest digital asset settlement layer.
+>
+> to know more about @0xSonicLabs  check @SamuelXeus thread on sonic https://x.com/SamuelXeus/status/1840036268195140071
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYtL_N1aIAAv_ZN.png — no alt text provided by author
+
+**Links in post:** https://x.com/SamuelXeus/status/1840036268195140071
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1070099092246802432 — 2024-09-28 14:30 UTC (2024-09-28 15:30 WAT)
+    
+    - URL: https://x.com/1070099092246802432/status/1840036268195140071
+    - Metrics (at fetch): bookmark 1312, impression 321220, like 1195, quote 21, reply 116, retweet 250
+    
+    > Have you heard about the @0xSonicLabs airdrop yet?
+    >
+    > 💲Reward Pool: $200M
+    > 💰Cost: $0
+    > ⏱️Time: &lt; 10 mins
+    >
+    > 🪡🧵, RT [pic.x.com/5K19OJysVE]
+    
+    **Media:**
+    - media `7_1840036247831752707` (details not returned by the API)
+    
+
+
+### Thread part 3 — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840670930949099832
+- Metrics (at fetch): bookmark 0, impression 61, like 1, quote 0, reply 1, retweet 0
+
+> 🚨🎁Airdrop Guide: 
+> 🔥 Score your share of the 190.5M $S airdrop just by playing free play-to-earn games on
+>
+> ✅Sonic arcade games
+> ✅Testnet  Swapping  and Galex task  (optional)
+
+
+### Thread part 4 — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840670935072043304
+- Metrics (at fetch): bookmark 0, impression 59, like 2, quote 0, reply 1, retweet 1
+
+> 1⃣ Play Sonic Arcade Games 🎮
+>      ⚠️ Note: To play Sonic Arcade games, you’ll need the Rabby Wallet—as of now it won’t work with MetaMask. So make sure to install the Rabby Wallet first! 🔗👇
+>   https://chromewebstore.google.com/detail/rabby-wallet/acmacodkjbdgmoleebolmdjonilkdbch?hl=en
+>
+>     🚀Sonic Arcade Games
+> 🔸Go to  https://airdrop.soniclabs.com/?ref=2ejiqb
+>      ▪️click on "Sonic Arcade"
+>    ▪️Add testnet 
+>    ▪️Get some token 
+>    ▪️Play games to get points  
+>       ⚠️ if trx failed try after some time as this is too early
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYtVIAcaIAAqFo4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GYtVevlbsAAqkZP.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GYtWljUbgAAuLVk.jpg — no alt text provided by author
+
+**Links in post:** https://chromewebstore.google.com/detail/rabby-wallet/acmacodkjbdgmoleebolmdjonilkdbch?hl=en, https://airdrop.soniclabs.com/?ref=2ejiqb
+
+
+### Thread part 5 — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840670938305847495
+- Metrics (at fetch): bookmark 0, impression 87, like 3, quote 0, reply 1, retweet 1
+
+> 🔸Go to https://testnet.soniclabs.com• 
+>     ▪️Connect your Wallet 
+>     ▪️Click “add to wallet” to add the Sonic testnet.
+>
+> 🔸 Click “Go to faucet” 
+>     ▪️Request for all tokens 
+>     ▪️ Perform token swaps
+
+**Links in post:** https://testnet.soniclabs.com
+
+
+### Thread part 6 — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840670941069861133
+- Metrics (at fetch): bookmark 0, impression 62, like 1, quote 0, reply 1, retweet 0
+
+> 🔸Ggalex task 
+>      ▪️Complete the all listed tasks, and mint the NFTs.
+> https://app.galxe.com/quest/SonicLabs/GCnGNtvdf5
+
+**Links in post:** https://app.galxe.com/quest/SonicLabs/GCnGNtvdf5
+
+
+### Thread part 7 — @Piki_eth — 2024-09-30 08:32 UTC (2024-09-30 09:32 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840670943892627613
+- Metrics (at fetch): bookmark 0, impression 104, like 1, quote 0, reply 0, retweet 0
+
+> 🫡 That’s a wrap for the Sonic Labs Airdrop Guide!
+>
+> If you found this guide helpful, don’t forget to give it a like, drop a comment with your thoughts on the Sonic Airdrop, and share it with your friends and community! 💬👥
+>
+> I’m also gearing up to run a Sonic Labs Node, so stay tuned for more updates! 🚀 
+>
+> #SonicLabs #Airdrop #Crypto #Testnet 
+> #btc
+
+
 ---
 
-## 2024-09-28 · Post · Why I Just Bought a QBX NFT for 0.5 ETH 🧵
+## 2024-09-28 · Thread · Why I Just Bought a QBX NFT for 0.5 ETH 🧵
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @Piki_eth — 2024-09-28 12:58 UTC (2024-09-28 13:58 WAT)
@@ -1533,12 +1743,100 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 >
 > follow the 🧵 To learn more 
 > ✅About QBX
-> ✅Airdrop &amp; Rewards
+> ✅Airdrop & Rewards
 > ✅Tokenomics  
-> ✅Price prediction https://t.co/oXQOqmJtEi
+> ✅Price prediction
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GYkKSHtXcAAHgqE.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Piki_eth — 2024-09-28 12:58 UTC (2024-09-28 13:58 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840013243483316287
+- Metrics (at fetch): bookmark 1, impression 220, like 5, quote 0, reply 1, retweet 0
+
+> 1/🧵
+> 🤔 what is @qiibeefdn :
+> "QBX provides a top blockchain system for the rewards economy, making it easier for companies and consumers to manage and use loyalty points. $QBX."
+>
+> 🤝Partnership: 
+> Miles & More, Renault, Binance, Coinbase, and PayPal.
+> 💵Raised 10M in equities and tokens.
+>
+> to know more https://qiibeefoundation.org/
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYi5uMwWYAA_sUd.jpg — no alt text provided by author
+
+**Links in post:** https://qiibeefoundation.org/
+
+
+### Thread part 3 — @Piki_eth — 2024-09-28 12:58 UTC (2024-09-28 13:58 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840013248579399718
+- Metrics (at fetch): bookmark 0, impression 183, like 4, quote 0, reply 1, retweet 0
+
+> 2/🧵
+> 💰 Airdrop Rewards: 
+> Each Key nft Holder will receive 62,179 $QBX tokens.
+> ( 25% claimable at tge )
+> (  75% vested for 6 months with daily linear unlock. )
+>
+> 🛡️ Additional Benefits:
+> Exclusive VIP Access
+> Snapshots &amp; VIR Rewards
+> 1,125 Redacted Tokens [pic.x.com/OgCyHA0J5i]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYi9hjQWoAAlgfV.png — no alt text provided by author
+
+
+### Thread part 4 — @Piki_eth — 2024-09-28 12:58 UTC (2024-09-28 13:58 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840013253939691913
+- Metrics (at fetch): bookmark 0, impression 170, like 4, quote 0, reply 1, retweet 0
+
+> 3/🧵
+>   🪙QBX Tokenomics:
+> 💰Total supply 1.38B
+> 🌐 Ecosystem & Community: 54%
+> 🛠️ Team: 14%
+> 🤝 Brands & Partners: 13%
+> 💼 Strategics: 8%
+> 🛒 Private Sale: 7%
+> 🎉 Community Sale: Finally, 4%
+>  
+> 🤔Ciculation supply  not announced yet but from my calculation expected around 3-4%  means around 40-55m could be in circulation at tge
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYjAC1cXAAAGi9V.jpg — no alt text provided by author
+
+
+### Thread part 5 — @Piki_eth — 2024-09-28 12:58 UTC (2024-09-28 13:58 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840013260038209596
+- Metrics (at fetch): bookmark 0, impression 217, like 3, quote 0, reply 1, retweet 0
+
+> 4/🧵
+> 🧮Price prediction:
+> here is my price prediction based on Circulation supply and mcap. 
+> 😁profit calculation for 25% airdrop for KEY nft holder . [pic.x.com/Fb0PaetPR0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYkE304WIAAyxDT.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GYkFj86XkAA0qDj.png — no alt text provided by author
+
+
+### Thread part 6 — @Piki_eth — 2024-09-28 12:58 UTC (2024-09-28 13:58 WAT)
+
+- URL: https://x.com/Piki_eth/status/1840013263410786448
+- Metrics (at fetch): bookmark 0, impression 175, like 5, quote 0, reply 1, retweet 1
+
+> This thread covers everything about the @qiibeefdn $QBX token and the Airdrop.
+> 😉If you enjoyed the thread, please give it a like and share your thoughts or price predictions in the comments below.
+> ⚠️Remember, it's entirely your decision whether to buy the NFT—always DYOR (Do Your Own Research).
+> #qbx #crypto #btc #nft #Airdrop
 
 
 ---

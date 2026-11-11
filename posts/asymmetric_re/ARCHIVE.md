@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 137
-- Conversations/threads: 110
+- Conversations/threads: 66
 - Oldest post captured: 2024-01-29
 - Newest post captured: 2026-10-30
 
@@ -753,25 +753,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 ---
 
-## 2026-03-03 · Post · Pye is a protocol for managing and trading stake accounts on Solana, letting validators issue accoun
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2026-03-03 19:14 UTC (2026-03-03 20:14 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2028911868753088532
-- Metrics (at fetch): bookmark 0, impression 684, like 2, quote 0, reply 0, retweet 0
-
-> Pye is a protocol for managing and trading stake accounts on Solana, letting validators issue accounts with custom commercial terms and giving stakers a venue to trade them.
->
-> We're especially focused on how programmable lockups will reshape validator economics.
-
-
----
-
-## 2026-03-03 · Post · Asymmetric Research is joining @pyefinance as a beta validator partner.
+## 2026-03-03 · Thread · Asymmetric Research is joining @pyefinance as a beta validator partner.
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -790,23 +772,19 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HCgdQTtacAAPSQD.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @asymmetric_re — 2026-03-03 19:14 UTC (2026-03-03 20:14 WAT)
 
-## 2026-03-02 · Post · Full episode ↓
+- URL: https://x.com/asymmetric_re/status/2028911868753088532
+- Metrics (at fetch): bookmark 0, impression 684, like 2, quote 0, reply 0, retweet 0
 
-
-### Post — @asymmetric_re — 2026-03-02 20:10 UTC (2026-03-02 21:10 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2028563722747154829
-- Metrics (at fetch): bookmark 0, impression 548, like 0, quote 0, reply 0, retweet 0
-
-> Full episode ↓
-> https://t.co/RMEQrVJPBL
+> Pye is a protocol for managing and trading stake accounts on Solana, letting validators issue accounts with custom commercial terms and giving stakers a venue to trade them.
+>
+> We're especially focused on how programmable lockups will reshape validator economics.
 
 
 ---
 
-## 2026-03-02 · Post · AR's CEO @claudijd recently joined @TheCryptoMavs podcast. 
+## 2026-03-02 · Thread · AR's CEO @claudijd recently joined @TheCryptoMavs podcast. 
 
 
 ### Post — @asymmetric_re — 2026-03-02 20:10 UTC (2026-03-02 21:10 WAT)
@@ -822,109 +800,21 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - video: https://pbs.twimg.com/amplify_video_thumb/2028563555310825472/img/8eB9u1psRsfVxxpO.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @asymmetric_re — 2026-03-02 20:10 UTC (2026-03-02 21:10 WAT)
 
-## 2026-02-12 · Post · Work with a team that has built security programs at Google, Netflix, Mozilla, Stripe, Solana, and m
+- URL: https://x.com/asymmetric_re/status/2028563722747154829
+- Metrics (at fetch): bookmark 0, impression 548, like 0, quote 0, reply 0, retweet 0
 
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2021969731113332827
-- Metrics (at fetch): bookmark 14, impression 2721, like 18, quote 2, reply 1, retweet 0
-
-> Work with a team that has built security programs at Google, Netflix, Mozilla, Stripe, Solana, and more.
->
-> Last year showed us that this program draws integrity-driven people who are serious about security work.
->
-> Excited to do it again, this time in person. Apply ↓
+> Full episode ↓
+> https://t.co/RMEQrVJPBL
 
 
 ---
 
-## 2026-02-12 · Post · Our ideal intern is:
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2021969729452486764
-- Metrics (at fetch): bookmark 2, impression 2876, like 14, quote 2, reply 1, retweet 0
-
-> Our ideal intern is:
-> -Deeply curious
-> -Strong programmer in Rust, C, Go, or Python
-> -Driven by integrity and technical rigor
->
-> Bonus experience: CTFs, vulnerability research, or blockchain systems like Ethereum, Solana, Cosmos, or Move
-
-
----
-
-## 2026-02-12 · Post · Example projects:
+## 2026-02-12 · Thread · Our intern program is back, now with the option to work in-person in NYC or Zurich.
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2021969728013836627
-- Metrics (at fetch): bookmark 2, impression 1993, like 13, quote 0, reply 2, retweet 0
-
-> Example projects:
-> -Applying fuzzing techniques to blockchain validators
-> -Writing decompilers for novel architectures
-> -Building real-time security monitoring systems
-> -Developing static analysis tools for smart contract runtimes
-
-
----
-
-## 2026-02-12 · Post · This year, we’re offering the option to work in-person at either our new NYC office or in Zurich (en
-
-
-### Post — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2021969726864601353
-- Metrics (at fetch): bookmark 0, impression 2086, like 10, quote 0, reply 6, retweet 0
-
-> This year, we’re offering the option to work in-person at either our new NYC office or in Zurich (encouraged, not required).
-
-
----
-
-## 2026-02-12 · Post · The program wrapped up with our interns joining us at DEF CON in Las Vegas, experiencing the securit
-
-
-### Post — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2021969725291737481
-- Metrics (at fetch): bookmark 0, impression 2290, like 12, quote 0, reply 1, retweet 0
-
-> The program wrapped up with our interns joining us at DEF CON in Las Vegas, experiencing the security community in person and shipping work they were proud to put their names on.
-
-
----
-
-## 2026-02-12 · Post · Last year, we launched AR’s intern program with the goal of giving talented security researchers rea
-
-
-### Post — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
-
-- URL: https://x.com/asymmetric_re/status/2021969724012474855
-- Metrics (at fetch): bookmark 0, impression 2563, like 12, quote 0, reply 1, retweet 0
-
-> Last year, we launched AR’s intern program with the goal of giving talented security researchers real work, a sense of ownership, and exposure to important problems. The result exceeded our expectations.
-
-
----
-
-## 2026-02-12 · Post · Our intern program is back, now with the option to work in-person in NYC or Zurich.
 
 
 ### Post — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
@@ -942,22 +832,70 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/HA95b6zbsAEtmWt.jpg — no alt text provided by author
 
 
+### Thread part 2 — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2021969724012474855
+- Metrics (at fetch): bookmark 0, impression 2563, like 12, quote 0, reply 1, retweet 0
+
+> Last year, we launched AR’s intern program with the goal of giving talented security researchers real work, a sense of ownership, and exposure to important problems. The result exceeded our expectations.
+
+
+### Thread part 3 — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2021969725291737481
+- Metrics (at fetch): bookmark 0, impression 2290, like 12, quote 0, reply 1, retweet 0
+
+> The program wrapped up with our interns joining us at DEF CON in Las Vegas, experiencing the security community in person and shipping work they were proud to put their names on.
+
+
+### Thread part 4 — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2021969726864601353
+- Metrics (at fetch): bookmark 0, impression 2086, like 10, quote 0, reply 6, retweet 0
+
+> This year, we’re offering the option to work in-person at either our new NYC office or in Zurich (encouraged, not required).
+
+
+### Thread part 5 — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2021969728013836627
+- Metrics (at fetch): bookmark 2, impression 1993, like 13, quote 0, reply 2, retweet 0
+
+> Example projects:
+> -Applying fuzzing techniques to blockchain validators
+> -Writing decompilers for novel architectures
+> -Building real-time security monitoring systems
+> -Developing static analysis tools for smart contract runtimes
+
+
+### Thread part 6 — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2021969729452486764
+- Metrics (at fetch): bookmark 2, impression 2876, like 14, quote 2, reply 1, retweet 0
+
+> Our ideal intern is:
+> -Deeply curious
+> -Strong programmer in Rust, C, Go, or Python
+> -Driven by integrity and technical rigor
+>
+> Bonus experience: CTFs, vulnerability research, or blockchain systems like Ethereum, Solana, Cosmos, or Move
+
+
+### Thread part 7 — @asymmetric_re — 2026-02-12 15:28 UTC (2026-02-12 16:28 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2021969731113332827
+- Metrics (at fetch): bookmark 14, impression 2721, like 18, quote 2, reply 1, retweet 0
+
+> Work with a team that has built security programs at Google, Netflix, Mozilla, Stripe, Solana, and more.
+>
+> Last year showed us that this program draws integrity-driven people who are serious about security work.
+>
+> Excited to do it again, this time in person. Apply ↓
+
+
 ---
 
-## 2025-12-10 · Post · As the highest-attended Breakpoint so far, there’s a lot happening. If you are here in Abu Dhabi thi
-
-
-### Post — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998634763935166490
-- Metrics (at fetch): bookmark 0, impression 842, like 2, quote 0, reply 0, retweet 0
-
-> As the highest-attended Breakpoint so far, there’s a lot happening. If you are here in Abu Dhabi this week and haven’t crossed paths with us yet, come find us at an event or drop by the Dev Cave.
-
-
----
-
-## 2025-12-10 · Post · Also on Friday, AR’s CTO &amp; Cofounder Felix Wilhelm (@_fel1x) will be speaking on Solana program 
+## 2025-12-10 · Thread · Our week at Breakpoint is already moving fast. If you're here in Abu Dhabi, we would love to see you
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -965,68 +903,15 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ### Post — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
 
-- URL: https://x.com/asymmetric_re/status/1998634761267687707
-- Metrics (at fetch): bookmark 2, impression 1116, like 5, quote 0, reply 1, retweet 0
+- URL: https://x.com/asymmetric_re/status/1998634748026171425
+- Metrics (at fetch): bookmark 3, impression 2883, like 10, quote 2, reply 1, retweet 1
 
-> Also on Friday, AR’s CTO &amp; Cofounder Felix Wilhelm (@_fel1x) will be speaking on Solana program security and the patterns we still see repeating. 
+> Our week at Breakpoint is already moving fast. If you're here in Abu Dhabi, we would love to see you. 
 >
-> Drop by the Lock In stage at 4:55 to catch his talk. https://t.co/R6AiZwyeqX
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G7yQfG7aMAAaj5x.jpg — no alt text provided by author
+> A good mix of the AR team is on the ground: founders, security researchers, infra, comms, and recruiting.
 
 
----
-
-## 2025-12-10 · Post · The Dev Cave opens Friday on the mezzanine at Breakpoint with Asymmetric Research, @anza_xyz, @jump_
-
-
-### Post — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998634759057248747
-- Metrics (at fetch): bookmark 0, impression 181, like 2, quote 0, reply 1, retweet 0
-
-> The Dev Cave opens Friday on the mezzanine at Breakpoint with Asymmetric Research, @anza_xyz, @jump_firedancer, @osec_io, and @raikucom.  Come work, meet other devs, participate in the community CTF, and grab swag.
-> https://t.co/gTD7EUWD4p
-
-
----
-
-## 2025-12-10 · Post · Block Zero just kicked off today. Community-run, validator-focused, and very oversubscribed.
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998634756565848144
-- Metrics (at fetch): bookmark 0, impression 227, like 2, quote 1, reply 1, retweet 0
-
-> Block Zero just kicked off today. Community-run, validator-focused, and very oversubscribed.
->
-> If you’re approved to attend, join us for the after-party at Lock, Stock and Barrel. Hosted by AR, @jump_firedancer, @temporal_xyz, @doublezero, and @CherryServers.
-
-
----
-
-## 2025-12-10 · Post · Yesterday, @claudijd and @NotDeGhost also ran their yearly security overview at MEV Day. We love the
-
-
-### Post — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998634753097072987
-- Metrics (at fetch): bookmark 0, impression 125, like 2, quote 0, reply 1, retweet 0
-
-> Yesterday, @claudijd and @NotDeGhost also ran their yearly security overview at MEV Day. We love the format this event has become known for: community organized, no paid speakers, and no product shilling.
-
-
----
-
-## 2025-12-10 · Post · Big news dropped yesterday: Asymmetric Research and @osec_io have formalized a shared leadership str
-
-
-### Post — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
+### Thread part 2 — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
 
 - URL: https://x.com/asymmetric_re/status/1998634750496616932
 - Metrics (at fetch): bookmark 1, impression 261, like 1, quote 0, reply 1, retweet 0
@@ -1053,81 +938,60 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
 
 
----
+### Thread part 3 — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
 
-## 2025-12-10 · Post · Our week at Breakpoint is already moving fast. If you're here in Abu Dhabi, we would love to see you
+- URL: https://x.com/asymmetric_re/status/1998634753097072987
+- Metrics (at fetch): bookmark 0, impression 125, like 2, quote 0, reply 1, retweet 0
+
+> Yesterday, @claudijd and @NotDeGhost also ran their yearly security overview at MEV Day. We love the format this event has become known for: community organized, no paid speakers, and no product shilling.
 
 
-### Post — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
+### Thread part 4 — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
 
-- URL: https://x.com/asymmetric_re/status/1998634748026171425
-- Metrics (at fetch): bookmark 3, impression 2883, like 10, quote 2, reply 1, retweet 1
+- URL: https://x.com/asymmetric_re/status/1998634756565848144
+- Metrics (at fetch): bookmark 0, impression 227, like 2, quote 1, reply 1, retweet 0
 
-> Our week at Breakpoint is already moving fast. If you're here in Abu Dhabi, we would love to see you. 
+> Block Zero just kicked off today. Community-run, validator-focused, and very oversubscribed.
 >
-> A good mix of the AR team is on the ground: founders, security researchers, infra, comms, and recruiting.
+> If you’re approved to attend, join us for the after-party at Lock, Stock and Barrel. Hosted by AR, @jump_firedancer, @temporal_xyz, @doublezero, and @CherryServers.
 
 
----
+### Thread part 5 — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
 
-## 2025-12-08 · Post · With two technical groups working in sync under one leadership direction, clients will get even bett
+- URL: https://x.com/asymmetric_re/status/1998634759057248747
+- Metrics (at fetch): bookmark 0, impression 181, like 2, quote 0, reply 1, retweet 0
 
-
-### Post — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998094777821380635
-- Metrics (at fetch): bookmark 0, impression 1052, like 6, quote 0, reply 0, retweet 0
-
-> With two technical groups working in sync under one leadership direction, clients will get even better support across their entire security stack.
+> The Dev Cave opens Friday on the mezzanine at Breakpoint with Asymmetric Research, @anza_xyz, @jump_firedancer, @osec_io, and @raikucom.  Come work, meet other devs, participate in the community CTF, and grab swag.
+> https://t.co/gTD7EUWD4p
 
 
----
+### Thread part 6 — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
 
-## 2025-12-08 · Post · AR’s long-term, embedded model remains the same. We’re focused on guiding clients through full syste
+- URL: https://x.com/asymmetric_re/status/1998634761267687707
+- Metrics (at fetch): bookmark 2, impression 1116, like 5, quote 0, reply 1, retweet 0
 
-
-### Post — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998094775531327694
-- Metrics (at fetch): bookmark 0, impression 1126, like 6, quote 0, reply 2, retweet 0
-
-> AR’s long-term, embedded model remains the same. We’re focused on guiding clients through full system design, ongoing development, and high-pressure situations.
-
-
----
-
-## 2025-12-08 · Post · This new leadership structure strengthens how both groups support every layer of a project’s needs.
-
-
-### Post — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998094773018857881
-- Metrics (at fetch): bookmark 0, impression 459, like 5, quote 0, reply 1, retweet 0
-
-> This new leadership structure strengthens how both groups support every layer of a project’s needs.
+> Also on Friday, AR’s CTO &amp; Cofounder Felix Wilhelm (@_fel1x) will be speaking on Solana program security and the patterns we still see repeating. 
 >
-> Research, engineering, audits, monitoring, and incident response will move with clearer direction and better coordination.
+> Drop by the Lock In stage at 4:55 to catch his talk. https://t.co/R6AiZwyeqX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7yQfG7aMAAaj5x.jpg — no alt text provided by author
+
+
+### Thread part 7 — @asymmetric_re — 2025-12-10 06:03 UTC (2025-12-10 07:03 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1998634763935166490
+- Metrics (at fetch): bookmark 0, impression 842, like 2, quote 0, reply 0, retweet 0
+
+> As the highest-attended Breakpoint so far, there’s a lot happening. If you are here in Abu Dhabi this week and haven’t crossed paths with us yet, come find us at an event or drop by the Dev Cave.
 
 
 ---
 
-## 2025-12-08 · Post · This is an important step for our work. Security demands across blockchains have grown, and projects
+## 2025-12-08 · Thread · Asymmetric Research and @osec_io have established a shared leadership structure that aligns both tea
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1998094770523247007
-- Metrics (at fetch): bookmark 0, impression 713, like 6, quote 0, reply 1, retweet 0
-
-> This is an important step for our work. Security demands across blockchains have grown, and projects now operate on systems where design choices, runtime behavior, and operational decisions are tightly linked.
-
-
----
-
-## 2025-12-08 · Post · Asymmetric Research and @osec_io have established a shared leadership structure that aligns both tea
 
 
 ### Post — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
@@ -1141,6 +1005,40 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/1998092909686734848/img/S-6AEH2QbB3PLPJ2.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1998094770523247007
+- Metrics (at fetch): bookmark 0, impression 713, like 6, quote 0, reply 1, retweet 0
+
+> This is an important step for our work. Security demands across blockchains have grown, and projects now operate on systems where design choices, runtime behavior, and operational decisions are tightly linked.
+
+
+### Thread part 3 — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1998094773018857881
+- Metrics (at fetch): bookmark 0, impression 459, like 5, quote 0, reply 1, retweet 0
+
+> This new leadership structure strengthens how both groups support every layer of a project’s needs.
+>
+> Research, engineering, audits, monitoring, and incident response will move with clearer direction and better coordination.
+
+
+### Thread part 4 — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1998094775531327694
+- Metrics (at fetch): bookmark 0, impression 1126, like 6, quote 0, reply 2, retweet 0
+
+> AR’s long-term, embedded model remains the same. We’re focused on guiding clients through full system design, ongoing development, and high-pressure situations.
+
+
+### Thread part 5 — @asymmetric_re — 2025-12-08 18:18 UTC (2025-12-08 19:18 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1998094777821380635
+- Metrics (at fetch): bookmark 0, impression 1052, like 6, quote 0, reply 0, retweet 0
+
+> With two technical groups working in sync under one leadership direction, clients will get even better support across their entire security stack.
 
 
 ---
@@ -1160,20 +1058,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-11-24 · Post · It has been great being part of this journey on both the infrastructure and security side, and we’re
-
-
-### Post — @asymmetric_re — 2025-11-24 15:07 UTC (2025-11-24 16:07 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1992973276109480415
-- Metrics (at fetch): bookmark 1, impression 668, like 3, quote 0, reply 0, retweet 0
-
-> It has been great being part of this journey on both the infrastructure and security side, and we’re excited to keep supporting the network as it grows.
-
-
----
-
-## 2025-11-24 · Post · Congrats to the Monad team on this milestone! We're now live on Monad as part of the mainnet validat
+## 2025-11-24 · Thread · Congrats to the Monad team on this milestone! We're now live on Monad as part of the mainnet validat
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1189,23 +1074,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Quoted post** 1992956417263935947: not readable via the API (deleted, private, or withheld).
 
 
----
+### Thread part 2 — @asymmetric_re — 2025-11-24 15:07 UTC (2025-11-24 16:07 WAT)
 
-## 2025-11-12 · Post · Full episode ↓
+- URL: https://x.com/asymmetric_re/status/1992973276109480415
+- Metrics (at fetch): bookmark 1, impression 668, like 3, quote 0, reply 0, retweet 0
 
-
-### Post — @asymmetric_re — 2025-11-12 18:35 UTC (2025-11-12 19:35 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1988677015147573704
-- Metrics (at fetch): bookmark 0, impression 683, like 1, quote 0, reply 0, retweet 0
-
-> Full episode ↓
-> https://t.co/SCx2TybtTM
+> It has been great being part of this journey on both the infrastructure and security side, and we’re excited to keep supporting the network as it grows.
 
 
 ---
 
-## 2025-11-12 · Post · Our CEO @claudijd recently joined Dirt (@exo_tech_) on The Latest Development podcast.
+## 2025-11-12 · Thread · Our CEO @claudijd recently joined Dirt (@exo_tech_) on The Latest Development podcast.
 
 
 ### Post — @asymmetric_re — 2025-11-12 18:35 UTC (2025-11-12 19:35 WAT)
@@ -1219,6 +1098,15 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/1988675153879056384/img/iUsRgh6vdAJmXUh_.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asymmetric_re — 2025-11-12 18:35 UTC (2025-11-12 19:35 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1988677015147573704
+- Metrics (at fetch): bookmark 0, impression 683, like 1, quote 0, reply 0, retweet 0
+
+> Full episode ↓
+> https://t.co/SCx2TybtTM
 
 
 ---
@@ -1271,64 +1159,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-10-02 · Post · For AR, this was about a shared vision: increase bandwidth and reduce latency (IBRL).
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-10-02 16:07 UTC (2025-10-02 17:07 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1973781842127200700
-- Metrics (at fetch): bookmark 1, impression 846, like 7, quote 0, reply 1, retweet 0
-
-> For AR, this was about a shared vision: increase bandwidth and reduce latency (IBRL).
->
-> Alongside our Cohort 0 partners, we’re glad to contribute to the future of high-performance blockchains.
->
-> https://t.co/ME7xHAp5zO
-
-
----
-
-## 2025-10-02 · Post · A faster Solana unlocks new use cases:
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-10-02 16:07 UTC (2025-10-02 17:07 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1973781840986325154
-- Metrics (at fetch): bookmark 1, impression 824, like 6, quote 0, reply 1, retweet 0
-
-> A faster Solana unlocks new use cases:
-> - Trading systems needing nanosecond responsiveness
-> - Real-time apps that demand low latency
-> - More complex contracts without throughput limits
-
-
----
-
-## 2025-10-02 · Post · Since testnet:
-
-
-### Post — @asymmetric_re — 2025-10-02 16:07 UTC (2025-10-02 17:07 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1973781839874842773
-- Metrics (at fetch): bookmark 0, impression 274, like 5, quote 0, reply 1, retweet 0
-
-> Since testnet:
-> - 9 → 40+ points of presence
-> - 10x capacity, many routes now 100 Gbps
-> - Global reach: 8 → 18 locations
->
-> Improvements at this layer expand what’s possible at the protocol and application layers.
-
-
----
-
-## 2025-10-02 · Post · Celebrating the launch of @doublezero's mainnet.
+## 2025-10-02 · Thread · Celebrating the launch of @doublezero's mainnet.
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1349,6 +1180,42 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/G2Q42Rma8AArEpG.jpg — no alt text provided by author
 
 
+### Thread part 2 — @asymmetric_re — 2025-10-02 16:07 UTC (2025-10-02 17:07 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1973781839874842773
+- Metrics (at fetch): bookmark 0, impression 274, like 5, quote 0, reply 1, retweet 0
+
+> Since testnet:
+> - 9 → 40+ points of presence
+> - 10x capacity, many routes now 100 Gbps
+> - Global reach: 8 → 18 locations
+>
+> Improvements at this layer expand what’s possible at the protocol and application layers.
+
+
+### Thread part 3 — @asymmetric_re — 2025-10-02 16:07 UTC (2025-10-02 17:07 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1973781840986325154
+- Metrics (at fetch): bookmark 1, impression 824, like 6, quote 0, reply 1, retweet 0
+
+> A faster Solana unlocks new use cases:
+> - Trading systems needing nanosecond responsiveness
+> - Real-time apps that demand low latency
+> - More complex contracts without throughput limits
+
+
+### Thread part 4 — @asymmetric_re — 2025-10-02 16:07 UTC (2025-10-02 17:07 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1973781842127200700
+- Metrics (at fetch): bookmark 1, impression 846, like 7, quote 0, reply 1, retweet 0
+
+> For AR, this was about a shared vision: increase bandwidth and reduce latency (IBRL).
+>
+> Alongside our Cohort 0 partners, we’re glad to contribute to the future of high-performance blockchains.
+>
+> https://t.co/ME7xHAp5zO
+
+
 ---
 
 ## 2025-10-01 · Post · 0⃣0⃣ https://t.co/TVqKlF7hvE
@@ -1366,20 +1233,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-09-24 · Post · https://t.co/sDXpCvumcz
-
-
-### Post — @asymmetric_re — 2025-09-24 16:20 UTC (2025-09-24 17:20 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1970886190791623048
-- Metrics (at fetch): bookmark 5, impression 1030, like 3, quote 0, reply 0, retweet 0
-
-> https://t.co/sDXpCvumcz
-
-
----
-
-## 2025-09-24 · Post · GitHub Actions are a powerful automation tool, but also a prime target for supply-chain attacks.
+## 2025-09-24 · Thread · GitHub Actions are a powerful automation tool, but also a prime target for supply-chain attacks.
 
 
 ### Post — @asymmetric_re — 2025-09-24 16:20 UTC (2025-09-24 17:20 WAT)
@@ -1392,6 +1246,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > During @SEC_T_org, Security Researcher Simon Gerst (@intrigus_) broke down real vulnerabilities, defenses that work, and how to limit damage if an exploit occurs.
 >
 > Full talk below ↓
+
+
+### Thread part 2 — @asymmetric_re — 2025-09-24 16:20 UTC (2025-09-24 17:20 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1970886190791623048
+- Metrics (at fetch): bookmark 5, impression 1030, like 3, quote 0, reply 0, retweet 0
+
+> https://t.co/sDXpCvumcz
 
 
 ---
@@ -1414,36 +1276,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-09-22 · Post · @RelayProtocol @_fel1x ICYMI: We disclosed the issue privately to the @RelayProtocol team, and it wa
-
-
-### Post — @asymmetric_re — 2025-09-22 18:58 UTC (2025-09-22 19:58 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1970201157109981348
-- Metrics (at fetch): bookmark 0, impression 1146, like 4, quote 0, reply 0, retweet 0
-
-> @RelayProtocol @_fel1x ICYMI: We disclosed the issue privately to the @RelayProtocol team, and it was quickly patched.
->
-> No funds were lost or remain at risk.
-
-
----
-
-## 2025-09-22 · Post · Read the full post ↓
-
-
-### Post — @asymmetric_re — 2025-09-22 17:01 UTC (2025-09-22 18:01 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1970171585672974341
-- Metrics (at fetch): bookmark 3, impression 1459, like 1, quote 0, reply 0, retweet 0
-
-> Read the full post ↓
-> https://t.co/0KHV2IjRhj
-
-
----
-
-## 2025-09-22 · Post · New post: @RelayProtocol’s contracts trusted Ed25519 verification without validating offsets, openin
+## 2025-09-22 · Thread · New post: @RelayProtocol’s contracts trusted Ed25519 verification without validating offsets, openin
 
 
 ### Post — @asymmetric_re — 2025-09-22 17:01 UTC (2025-09-22 18:01 WAT)
@@ -1459,35 +1292,28 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/G1dxYFFaoAEMZ9i.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @asymmetric_re — 2025-09-22 17:01 UTC (2025-09-22 18:01 WAT)
 
-## 2025-09-17 · Post · Thank you to the @marginfi team for collaborating on this post 🤝
+- URL: https://x.com/asymmetric_re/status/1970171585672974341
+- Metrics (at fetch): bookmark 3, impression 1459, like 1, quote 0, reply 0, retweet 0
 
-
-### Post — @asymmetric_re — 2025-09-17 12:20 UTC (2025-09-17 13:20 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1968288982053302594
-- Metrics (at fetch): bookmark 2, impression 2390, like 10, quote 0, reply 1, retweet 0
-
-> Thank you to the @marginfi team for collaborating on this post 🤝
+> Read the full post ↓
+> https://t.co/0KHV2IjRhj
 
 
----
+### Thread part 3 — @asymmetric_re — 2025-09-22 18:58 UTC (2025-09-22 19:58 WAT)
 
-## 2025-09-17 · Post · https://t.co/3BNeK5MI8Y
+- URL: https://x.com/asymmetric_re/status/1970201157109981348
+- Metrics (at fetch): bookmark 0, impression 1146, like 4, quote 0, reply 0, retweet 0
 
-
-### Post — @asymmetric_re — 2025-09-17 12:20 UTC (2025-09-17 13:20 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1968288980132331559
-- Metrics (at fetch): bookmark 21, impression 7270, like 23, quote 2, reply 1, retweet 2
-
-> https://t.co/3BNeK5MI8Y
+> @RelayProtocol @_fel1x ICYMI: We disclosed the issue privately to the @RelayProtocol team, and it was quickly patched.
+>
+> No funds were lost or remain at risk.
 
 
 ---
 
-## 2025-09-17 · Post · Threat Contained: marginfi Flash Loan Vulnerability by @_fel1x  
+## 2025-09-17 · Thread · Threat Contained: marginfi Flash Loan Vulnerability by @_fel1x  
 
 
 ### Post — @asymmetric_re — 2025-09-17 12:20 UTC (2025-09-17 13:20 WAT)
@@ -1500,6 +1326,22 @@ Tags (automatic): Smart contract / DeFi
 > A new instruction broke the flash loan logic, creating a way to borrow without repaying and putting $160M at risk. 
 >
 > We explain the vulnerability, potential impact, and how it was fixed. Full post below ↓
+
+
+### Thread part 2 — @asymmetric_re — 2025-09-17 12:20 UTC (2025-09-17 13:20 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1968288980132331559
+- Metrics (at fetch): bookmark 21, impression 7270, like 23, quote 2, reply 1, retweet 2
+
+> https://t.co/3BNeK5MI8Y
+
+
+### Thread part 3 — @asymmetric_re — 2025-09-17 12:20 UTC (2025-09-17 13:20 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1968288982053302594
+- Metrics (at fetch): bookmark 2, impression 2390, like 10, quote 0, reply 1, retweet 0
+
+> Thank you to the @marginfi team for collaborating on this post 🤝
 
 
 ---
@@ -1519,23 +1361,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-08-14 · Post · This validator builds on our long-standing history with DoubleZero, with AR being one of the first e
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-08-14 17:09 UTC (2025-08-14 18:09 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1956040481101766705
-- Metrics (at fetch): bookmark 0, impression 975, like 3, quote 1, reply 1, retweet 0
-
-> This validator builds on our long-standing history with DoubleZero, with AR being one of the first external teams to connect to their network. Its launch is another step toward our shared goal of strengthening Solana's core infrastructure and making the network more resilient and
-
-
----
-
-## 2025-08-14 · Post · Live: Asymmetric Research x @DoubleZero Co-Branded Validator on Solana
+## 2025-08-14 · Thread · Live: Asymmetric Research x @DoubleZero Co-Branded Validator on Solana
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1554,6 +1380,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GyU_4Eqa4AIUSma.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asymmetric_re — 2025-08-14 17:09 UTC (2025-08-14 18:09 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1956040481101766705
+- Metrics (at fetch): bookmark 0, impression 975, like 3, quote 1, reply 1, retweet 0
+
+> This validator builds on our long-standing history with DoubleZero, with AR being one of the first external teams to connect to their network. Its launch is another step toward our shared goal of strengthening Solana's core infrastructure and making the network more resilient and
 
 
 ---
@@ -1676,154 +1510,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-05-28 · Post · Accelerate wasn’t about announcements for us.
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748481633988760
-- Metrics (at fetch): bookmark 0, impression 653, like 5, quote 0, reply 0, retweet 0
-
-> Accelerate wasn’t about announcements for us.
->
-> It was a chance to reflect on how and why we build, reconnect with partners we respect, and create a space for those who keep showing up to do the work.
->
-> Thanks to everyone who made it what it was.
->
-> We’ll be back.
-
-
----
-
-## 2025-05-28 · Post · We also had the opportunity to meet our two travel grant recipients, @J4X_Security and @daisygue_, i
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748479826194651
-- Metrics (at fetch): bookmark 1, impression 743, like 5, quote 0, reply 1, retweet 0
-
-> We also had the opportunity to meet our two travel grant recipients, @J4X_Security and @daisygue_, in person.
->
-> Bringing them to NYC and seeing them experience the energy of the @Solana ecosystem firsthand was a highlight of the week.
-
-
----
-
-## 2025-05-28 · Post · Downstairs at Scale or Die, we hosted the Dev Cave.
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748476948926860
-- Metrics (at fetch): bookmark 0, impression 163, like 5, quote 0, reply 2, retweet 0
-
-> Downstairs at Scale or Die, we hosted the Dev Cave.
->
-> Coffee, snacks, and conversations with the builders who shape this space. Shoutout to @solanamobile and @RaposaCoffeeCo for keeping us caffeinated.
->
-> If you left with one of our shirts, congrats—they were gone fast. https://t.co/CIWmOh3G8P
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GsC8NCza8AAxGml.jpg — no alt text provided by author
-
-
----
-
-## 2025-05-28 · Post · We quietly opened up our white-label validation service.
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748474855919947
-- Metrics (at fetch): bookmark 0, impression 116, like 5, quote 0, reply 1, retweet 0
-
-> We quietly opened up our white-label validation service.
->
-> The interest was immediate, from exactly the kinds of teams we want to work with: smart, serious, long-term builders.
-
-
----
-
-## 2025-05-28 · Post · We also put down deeper roots in the city.
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748473136243046
-- Metrics (at fetch): bookmark 0, impression 125, like 5, quote 0, reply 1, retweet 0
-
-> We also put down deeper roots in the city.
->
-> Our team celebrated the launch of a new shared workspace, which means more time on the ground, more in-person conversations, and more opportunities to build alongside the people shaping this ecosystem.
-
-
----
-
-## 2025-05-28 · Post · NYC showed up too.
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748470288392546
-- Metrics (at fetch): bookmark 0, impression 182, like 5, quote 0, reply 1, retweet 0
-
-> NYC showed up too.
->
-> Its energy sharpened our thinking, deepened our conversations, and was truly the ideal backdrop for an event focused on innovation.
->
-> Accelerate captured this momentum, and we’re leaving inspired and grateful. https://t.co/su0Cwa3bO4
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GsC8EYoaEAAwYr6.jpg — no alt text provided by author
-
-
----
-
-## 2025-05-28 · Post · Around a few dinner tables, we had some of our best conversations.
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748468170199057
-- Metrics (at fetch): bookmark 0, impression 258, like 6, quote 0, reply 2, retweet 0
-
-> Around a few dinner tables, we had some of our best conversations.
->
-> The kind you don’t recap in threads.
->
-> Partners and clients who weren’t there for the small talk, but to raise the bar on what's possible.
-
-
----
-
-## 2025-05-28 · Post · On the main stage, our CEO @claudijd argued for the unglamorous path.
-
-
-### Post — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1927748463715868780
-- Metrics (at fetch): bookmark 0, impression 200, like 7, quote 0, reply 1, retweet 0
-
-> On the main stage, our CEO @claudijd argued for the unglamorous path.
->
-> The one where you move slower at the start, make fewer irrecoverable bets, and build infrastructure that lasts.
->
-> Not just for the next season, but for the long haul. https://t.co/ZW6B4rIRAo
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GsC76uebMAIca_X.jpg — no alt text provided by author
-
-
----
-
-## 2025-05-28 · Post · BE BORING.
+## 2025-05-28 · Thread · BE BORING.
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1842,6 +1529,107 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GsC7l5obMAACuys.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748463715868780
+- Metrics (at fetch): bookmark 0, impression 200, like 7, quote 0, reply 1, retweet 0
+
+> On the main stage, our CEO @claudijd argued for the unglamorous path.
+>
+> The one where you move slower at the start, make fewer irrecoverable bets, and build infrastructure that lasts.
+>
+> Not just for the next season, but for the long haul. https://t.co/ZW6B4rIRAo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsC76uebMAIca_X.jpg — no alt text provided by author
+
+
+### Thread part 3 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748468170199057
+- Metrics (at fetch): bookmark 0, impression 258, like 6, quote 0, reply 2, retweet 0
+
+> Around a few dinner tables, we had some of our best conversations.
+>
+> The kind you don’t recap in threads.
+>
+> Partners and clients who weren’t there for the small talk, but to raise the bar on what's possible.
+
+
+### Thread part 4 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748470288392546
+- Metrics (at fetch): bookmark 0, impression 182, like 5, quote 0, reply 1, retweet 0
+
+> NYC showed up too.
+>
+> Its energy sharpened our thinking, deepened our conversations, and was truly the ideal backdrop for an event focused on innovation.
+>
+> Accelerate captured this momentum, and we’re leaving inspired and grateful. https://t.co/su0Cwa3bO4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsC8EYoaEAAwYr6.jpg — no alt text provided by author
+
+
+### Thread part 5 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748473136243046
+- Metrics (at fetch): bookmark 0, impression 125, like 5, quote 0, reply 1, retweet 0
+
+> We also put down deeper roots in the city.
+>
+> Our team celebrated the launch of a new shared workspace, which means more time on the ground, more in-person conversations, and more opportunities to build alongside the people shaping this ecosystem.
+
+
+### Thread part 6 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748474855919947
+- Metrics (at fetch): bookmark 0, impression 116, like 5, quote 0, reply 1, retweet 0
+
+> We quietly opened up our white-label validation service.
+>
+> The interest was immediate, from exactly the kinds of teams we want to work with: smart, serious, long-term builders.
+
+
+### Thread part 7 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748476948926860
+- Metrics (at fetch): bookmark 0, impression 163, like 5, quote 0, reply 2, retweet 0
+
+> Downstairs at Scale or Die, we hosted the Dev Cave.
+>
+> Coffee, snacks, and conversations with the builders who shape this space. Shoutout to @solanamobile and @RaposaCoffeeCo for keeping us caffeinated.
+>
+> If you left with one of our shirts, congrats—they were gone fast. https://t.co/CIWmOh3G8P
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsC8NCza8AAxGml.jpg — no alt text provided by author
+
+
+### Thread part 8 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748479826194651
+- Metrics (at fetch): bookmark 1, impression 743, like 5, quote 0, reply 1, retweet 0
+
+> We also had the opportunity to meet our two travel grant recipients, @J4X_Security and @daisygue_, in person.
+>
+> Bringing them to NYC and seeing them experience the energy of the @Solana ecosystem firsthand was a highlight of the week.
+
+
+### Thread part 9 — @asymmetric_re — 2025-05-28 15:27 UTC (2025-05-28 16:27 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1927748481633988760
+- Metrics (at fetch): bookmark 0, impression 653, like 5, quote 0, reply 0, retweet 0
+
+> Accelerate wasn’t about announcements for us.
+>
+> It was a chance to reflect on how and why we build, reconnect with partners we respect, and create a space for those who keep showing up to do the work.
+>
+> Thanks to everyone who made it what it was.
+>
+> We’ll be back.
 
 
 ---
@@ -1891,42 +1679,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-05-17 · Post · On Tuesday, catch @claudijd on the main stage, talking about holistic security and lessons learned f
-
-
-### Post — @asymmetric_re — 2025-05-17 18:45 UTC (2025-05-17 19:45 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1923812082043981961
-- Metrics (at fetch): bookmark 0, impression 677, like 3, quote 0, reply 1, retweet 0
-
-> On Tuesday, catch @claudijd on the main stage, talking about holistic security and lessons learned from working with high-stakes projects.
->
-> See you in NYC! https://t.co/wWboaBnRDC
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GrK9JWiWYAATWi5.jpg — no alt text provided by author
-
-
----
-
-## 2025-05-17 · Post · Dev Cave // Scale or Die
-
-
-### Post — @asymmetric_re — 2025-05-17 18:45 UTC (2025-05-17 19:45 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1923812080320123187
-- Metrics (at fetch): bookmark 0, impression 746, like 3, quote 0, reply 1, retweet 0
-
-> Dev Cave // Scale or Die
->
-> A quiet space to decompress, catch up with friends, or go heads-down on whatever you're working on.
->
-> Drop by for coffee, snacks, and some exclusive AR swag. https://t.co/DLtvePVh6L
-
-
----
-
-## 2025-05-17 · Post · Accelerate (@SolanaConf) kicks off Monday. Come find us ↓ https://t.co/gC7k64a9fn
+## 2025-05-17 · Thread · Accelerate (@SolanaConf) kicks off Monday. Come find us ↓ https://t.co/gC7k64a9fn
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -1941,6 +1694,31 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/1923805744500998144/img/ZkS-tkzJR8HbDjma.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asymmetric_re — 2025-05-17 18:45 UTC (2025-05-17 19:45 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1923812080320123187
+- Metrics (at fetch): bookmark 0, impression 746, like 3, quote 0, reply 1, retweet 0
+
+> Dev Cave // Scale or Die
+>
+> A quiet space to decompress, catch up with friends, or go heads-down on whatever you're working on.
+>
+> Drop by for coffee, snacks, and some exclusive AR swag. https://t.co/DLtvePVh6L
+
+
+### Thread part 3 — @asymmetric_re — 2025-05-17 18:45 UTC (2025-05-17 19:45 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1923812082043981961
+- Metrics (at fetch): bookmark 0, impression 677, like 3, quote 0, reply 1, retweet 0
+
+> On Tuesday, catch @claudijd on the main stage, talking about holistic security and lessons learned from working with high-stakes projects.
+>
+> See you in NYC! https://t.co/wWboaBnRDC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrK9JWiWYAATWi5.jpg — no alt text provided by author
 
 
 ---
@@ -1962,29 +1740,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-05-14 · Post · A bit about them ↓
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-05-14 17:03 UTC (2025-05-14 18:03 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1922699257863340107
-- Metrics (at fetch): bookmark 0, impression 695, like 6, quote 0, reply 0, retweet 0
-
-> A bit about them ↓
->
-> @daisygue_, blockchain club coordinator @IEEEorg, student researcher working on DePIN &amp; cross-border payments, exploring full-time roles.
->
-> @J4X_Security, independent security researcher focused on auditing &amp; currently exploring pre-Anchor Solana.
->
-> See you in
-
-
----
-
-## 2025-05-14 · Post · Congrats to our travel grant recipients! 🎟️
+## 2025-05-14 · Thread · Congrats to our travel grant recipients! 🎟️
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -2002,87 +1758,23 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Glad to support their journey and excited to see what they take away from Accelerate.
 
 
----
+### Thread part 2 — @asymmetric_re — 2025-05-14 17:03 UTC (2025-05-14 18:03 WAT)
 
-## 2025-05-13 · Post · If you’re looking to expand into validation or scale your coverage without spinning up infra, this i
+- URL: https://x.com/asymmetric_re/status/1922699257863340107
+- Metrics (at fetch): bookmark 0, impression 695, like 6, quote 0, reply 0, retweet 0
 
-
-### Post — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1922334893326860409
-- Metrics (at fetch): bookmark 0, impression 549, like 1, quote 0, reply 0, retweet 0
-
-> If you’re looking to expand into validation or scale your coverage without spinning up infra, this is something we're now offering select partners.
+> A bit about them ↓
 >
-> DMs open, or reach out here ↓
-> https://t.co/6S2DogUdFl
-
-
----
-
-## 2025-05-13 · Post · Why us? AR has built a reputation on quiet performance and verifiable results.
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1922334890818670800
-- Metrics (at fetch): bookmark 0, impression 622, like 0, quote 0, reply 2, retweet 0
-
-> Why us? AR has built a reputation on quiet performance and verifiable results.
+> @daisygue_, blockchain club coordinator @IEEEorg, student researcher working on DePIN &amp; cross-border payments, exploring full-time roles.
 >
-> We’ve led incident response, uncovered critical vulnerabilities, and maintained open-source tools like Solana Exporter.
+> @J4X_Security, independent security researcher focused on auditing &amp; currently exploring pre-Anchor Solana.
 >
-> Security and stability are built into how we work.
+> See you in
 
 
 ---
 
-## 2025-05-13 · Post · What you get:
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1922334889031905570
-- Metrics (at fetch): bookmark 0, impression 190, like 1, quote 0, reply 1, retweet 0
-
-> What you get:
->
-> – High-availability config (24/7 ops, patching, full logging)
-> – Infra tailored to your strategy (Firedancer/Agave, governance prefs)
-> – Rewards paid in native, USDC, or USD
-> – World-class validator ops &amp; support
-
-
----
-
-## 2025-05-13 · Post · AR operates some of the most reliable and performant validators in web3:
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
-
-- URL: https://x.com/asymmetric_re/status/1922334886490472676
-- Metrics (at fetch): bookmark 0, impression 231, like 2, quote 0, reply 1, retweet 0
-
-> AR operates some of the most reliable and performant validators in web3:
->
-> - #1 Solana validator by fees collected: At times, we’ve led the network, reflecting both uptime and network optimization
-> - Active across ecosystems like @Aptos, @Berachain, @Stacks and more https://t.co/jnH7x6d6P1
-
-**Quoted post** 1899573561058337266: not readable via the API (deleted, private, or withheld).
-
-
----
-
-## 2025-05-13 · Post · We’ve heard from several teams that they want resilient, high-performing validators without running 
+## 2025-05-13 · Thread · We’ve heard from several teams that they want resilient, high-performing validators without running 
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -2099,6 +1791,55 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/1922332942740946945/img/ufckNVfXelnmujNv.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1922334886490472676
+- Metrics (at fetch): bookmark 0, impression 231, like 2, quote 0, reply 1, retweet 0
+
+> AR operates some of the most reliable and performant validators in web3:
+>
+> - #1 Solana validator by fees collected: At times, we’ve led the network, reflecting both uptime and network optimization
+> - Active across ecosystems like @Aptos, @Berachain, @Stacks and more https://t.co/jnH7x6d6P1
+
+**Quoted post** 1899573561058337266: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 3 — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1922334889031905570
+- Metrics (at fetch): bookmark 0, impression 190, like 1, quote 0, reply 1, retweet 0
+
+> What you get:
+>
+> – High-availability config (24/7 ops, patching, full logging)
+> – Infra tailored to your strategy (Firedancer/Agave, governance prefs)
+> – Rewards paid in native, USDC, or USD
+> – World-class validator ops &amp; support
+
+
+### Thread part 4 — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1922334890818670800
+- Metrics (at fetch): bookmark 0, impression 622, like 0, quote 0, reply 2, retweet 0
+
+> Why us? AR has built a reputation on quiet performance and verifiable results.
+>
+> We’ve led incident response, uncovered critical vulnerabilities, and maintained open-source tools like Solana Exporter.
+>
+> Security and stability are built into how we work.
+
+
+### Thread part 5 — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1922334893326860409
+- Metrics (at fetch): bookmark 0, impression 549, like 1, quote 0, reply 0, retweet 0
+
+> If you’re looking to expand into validation or scale your coverage without spinning up infra, this is something we're now offering select partners.
+>
+> DMs open, or reach out here ↓
+> https://t.co/6S2DogUdFl
 
 
 ---

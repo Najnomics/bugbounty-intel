@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 24
-- Conversations/threads: 22
+- Conversations/threads: 18
 - Oldest post captured: 2022-09-26
 - Newest post captured: 2026-11-02
 
@@ -59,81 +59,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-10 · Post · AI doesn’t replace humans in bug hunting. It just promotes the human from ground-level manual work i
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
-
-- URL: https://x.com/KeiZo_Zo/status/2075628289574490481
-- Metrics (at fetch): bookmark 1, impression 228, like 3, quote 0, reply 0, retweet 0
-
-> AI doesn’t replace humans in bug hunting. It just promotes the human from ground-level manual work into more of a managerial, oversight, and guidance role ✨
->
-> What's your take on AI within bug bounties?
->
-> 5/5
-
-
----
-
-## 2026-07-10 · Post · That said, don’t get AI "led" bug bounty hunting wrong.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
-
-- URL: https://x.com/KeiZo_Zo/status/2075628287934575086
-- Metrics (at fetch): bookmark 0, impression 265, like 3, quote 0, reply 1, retweet 0
-
-> That said, don’t get AI "led" bug bounty hunting wrong.
-> I put "led" in quotes because yes, AI does most of the heavy lifting, but humans still need to guide it to the right places with the right mindset. Once AI finds something, a human still needs to validate it rigorously
->  
-> 4/5
-
-
----
-
-## 2026-07-10 · Post · This fact sticks out, when I tell you that out of the 27 valid findings, 12 of them were duplicates.
-
-
-### Post — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
-
-- URL: https://x.com/KeiZo_Zo/status/2075628286357512538
-- Metrics (at fetch): bookmark 0, impression 222, like 2, quote 0, reply 2, retweet 0
-
-> This fact sticks out, when I tell you that out of the 27 valid findings, 12 of them were duplicates. 
-> Besides these duplicates, I still found my way to new findings and 8 paid reports demonstrate this clearly. Last 7 reports are still open
->
-> 3/5
-
-
----
-
-## 2026-07-10 · Post · Out of those 30 reports, 27 were valid findings. 3 missed findings were only invalidated by off-chai
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
-
-- URL: https://x.com/KeiZo_Zo/status/2075628284545486862
-- Metrics (at fetch): bookmark 1, impression 456, like 3, quote 0, reply 1, retweet 0
-
-> Out of those 30 reports, 27 were valid findings. 3 missed findings were only invalidated by off-chain quirks that weren't discoverable by looking at the code directly. 
-> However the numbers also show us that the AI is really being utilized by many of the bug bounty hunters 
->
-> 2/5
-
-
----
-
-## 2026-07-10 · Post · I've been doing extensive research on AI "led" bug bounty hunting since the beginning of March and I
+## 2026-07-10 · Thread · I've been doing extensive research on AI "led" bug bounty hunting since the beginning of March and I
 
 
 Tags (automatic): AI-assisted hunting, Platform: Immunefi
@@ -148,6 +74,51 @@ Tags (automatic): AI-assisted hunting, Platform: Immunefi
 > During this period, I've reported 30 reports on @immunefi to various Web3 programs
 >
 > 1/5
+
+
+### Thread part 2 — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2075628284545486862
+- Metrics (at fetch): bookmark 1, impression 456, like 3, quote 0, reply 1, retweet 0
+
+> Out of those 30 reports, 27 were valid findings. 3 missed findings were only invalidated by off-chain quirks that weren't discoverable by looking at the code directly. 
+> However the numbers also show us that the AI is really being utilized by many of the bug bounty hunters 
+>
+> 2/5
+
+
+### Thread part 3 — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2075628286357512538
+- Metrics (at fetch): bookmark 0, impression 222, like 2, quote 0, reply 2, retweet 0
+
+> This fact sticks out, when I tell you that out of the 27 valid findings, 12 of them were duplicates. 
+> Besides these duplicates, I still found my way to new findings and 8 paid reports demonstrate this clearly. Last 7 reports are still open
+>
+> 3/5
+
+
+### Thread part 4 — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2075628287934575086
+- Metrics (at fetch): bookmark 0, impression 265, like 3, quote 0, reply 1, retweet 0
+
+> That said, don’t get AI "led" bug bounty hunting wrong.
+> I put "led" in quotes because yes, AI does most of the heavy lifting, but humans still need to guide it to the right places with the right mindset. Once AI finds something, a human still needs to validate it rigorously
+>  
+> 4/5
+
+
+### Thread part 5 — @KeiZo_Zo — 2026-07-10 17:08 UTC (2026-07-10 18:08 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2075628289574490481
+- Metrics (at fetch): bookmark 1, impression 228, like 3, quote 0, reply 0, retweet 0
+
+> AI doesn’t replace humans in bug hunting. It just promotes the human from ground-level manual work into more of a managerial, oversight, and guidance role ✨
+>
+> What's your take on AI within bug bounties?
+>
+> 5/5
 
 
 ---

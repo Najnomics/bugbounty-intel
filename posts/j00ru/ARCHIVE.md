@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 75
-- Conversations/threads: 66
+- Conversations/threads: 58
 - Oldest post captured: 2011-07-12
 - Newest post captured: 2021-11-28
 
@@ -441,22 +441,7 @@ Tags (automatic): RCE, Mobile / Android / iOS, Memory corruption / native
 
 ---
 
-## 2020-07-16 · Post · To save you a click, here's a director's cut of the original MMS exploit demo, with a soundtrack inc
-
-
-### Post — @j00ru — 2020-07-16 16:42 UTC (2020-07-16 17:42 WAT)
-
-- URL: https://x.com/j00ru/status/1283804306676887554
-- Metrics (at fetch): bookmark 5, impression 0, like 52, quote 0, reply 1, retweet 12
-
-> To save you a click, here's a director's cut of the original MMS exploit demo, with a soundtrack included for some laughs 🙃🎶
->
-> https://t.co/awr0NqjwrL
-
-
----
-
-## 2020-07-16 · Post · At last, the series begins: MMS Exploit Part 1: Introduction to the Samsung Qmage Codec and Remote A
+## 2020-07-16 · Thread · At last, the series begins: MMS Exploit Part 1: Introduction to the Samsung Qmage Codec and Remote A
 
 
 ### Post — @j00ru — 2020-07-16 16:42 UTC (2020-07-16 17:42 WAT)
@@ -471,20 +456,14 @@ Tags (automatic): RCE, Mobile / Android / iOS, Memory corruption / native
 **Links in post:** https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-1-introduction-to-qmage.html
 
 
----
+### Thread part 2 — @j00ru — 2020-07-16 16:42 UTC (2020-07-16 17:42 WAT)
 
-## 2020-07-13 · Post · On a related note, for those interested in the Qmg format and Android remote zero-click exploitation
+- URL: https://x.com/j00ru/status/1283804306676887554
+- Metrics (at fetch): bookmark 5, impression 0, like 52, quote 0, reply 1, retweet 12
 
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
-
-- URL: https://x.com/j00ru/status/1282681413666562048
-- Metrics (at fetch): bookmark 0, impression 0, like 42, quote 0, reply 1, retweet 2
-
-> On a related note, for those interested in the Qmg format and Android remote zero-click exploitation, I have some good news! The first post in the series is coming out very soon, with plans to publish each one ~weekly until the series is finished. 😀
+> To save you a click, here's a director's cut of the original MMS exploit demo, with a soundtrack included for some laughs 🙃🎶
+>
+> https://t.co/awr0NqjwrL
 
 
 ---
@@ -492,7 +471,7 @@ Tags (automatic): Mobile / Android / iOS
 ## 2020-07-13 · Thread · In July, there is a lot going on for the security of Android image decoding, so I recommend installi
 
 
-Tags (automatic): Mobile / Android / iOS
+Tags (automatic): RCE, Mobile / Android / iOS
 
 
 ### Post — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
@@ -505,21 +484,13 @@ Tags (automatic): Mobile / Android / iOS
 
 ### Thread part 2 — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
 
-- URL: https://x.com/j00ru/status/1282681412303323136
-- Metrics (at fetch): bookmark 3, impression 0, like 27, quote 1, reply 1, retweet 2
+- URL: https://x.com/j00ru/status/1282681409426071552
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 1, retweet 1
 
-> For Samsung, there are new vulnerabilities in the custom Qmage codec fixed as SVE-2020-17675 (no CVE yet), which have similar severity to the Qmg bugs exploited in April. Full details in the P0 tracker are restricted until 90 days elapse under our 2020 disclosure policy trial.
-
-
----
-
-## 2020-07-13 · Post · When exploiting this bug via MMS on Pixel, the system tries to display it in the notification and re
+> The DNG issue is a bug in Adobe's dng_sdk used by Android. It was reported in the P0 tracker at https://t.co/RrK5PIgItZ, fixed by Adobe in https://t.co/EfO2Q8kAjp, and now cherry-picked in Android (https://t.co/3GI1kagKw0).
 
 
-Tags (automatic): RCE
-
-
-### Post — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
+### Thread part 3 — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
 
 - URL: https://x.com/j00ru/status/1282681410885689344
 - Metrics (at fetch): bookmark 0, impression 0, like 17, quote 0, reply 1, retweet 0
@@ -527,20 +498,20 @@ Tags (automatic): RCE
 > When exploiting this bug via MMS on Pixel, the system tries to display it in the notification and repeatedly crashes on an invalid write in the System UI process (even without RCE, it's a trivial DoS). The exact behavior will depend on the specific SMS/MMS app in use.
 
 
----
+### Thread part 4 — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
 
-## 2020-07-13 · Post · The DNG issue is a bug in Adobe's dng_sdk used by Android. It was reported in the P0 tracker at http
+- URL: https://x.com/j00ru/status/1282681412303323136
+- Metrics (at fetch): bookmark 3, impression 0, like 27, quote 1, reply 1, retweet 2
+
+> For Samsung, there are new vulnerabilities in the custom Qmage codec fixed as SVE-2020-17675 (no CVE yet), which have similar severity to the Qmg bugs exploited in April. Full details in the P0 tracker are restricted until 90 days elapse under our 2020 disclosure policy trial.
 
 
-Tags (automatic): Mobile / Android / iOS
+### Thread part 5 — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
 
+- URL: https://x.com/j00ru/status/1282681413666562048
+- Metrics (at fetch): bookmark 0, impression 0, like 42, quote 0, reply 1, retweet 2
 
-### Post — @j00ru — 2020-07-13 14:20 UTC (2020-07-13 15:20 WAT)
-
-- URL: https://x.com/j00ru/status/1282681409426071552
-- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 1, retweet 1
-
-> The DNG issue is a bug in Adobe's dng_sdk used by Android. It was reported in the P0 tracker at https://t.co/RrK5PIgItZ, fixed by Adobe in https://t.co/EfO2Q8kAjp, and now cherry-picked in Android (https://t.co/3GI1kagKw0).
+> On a related note, for those interested in the Qmg format and Android remote zero-click exploitation, I have some good news! The first post in the series is coming out very soon, with plans to publish each one ~weekly until the series is finished. 😀
 
 
 ---
@@ -558,59 +529,7 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
-## 2020-05-06 · Post · I will be writing a longer piece on the Project Zero blog in the next month or two, discussing the d
-
-
-### Post — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
-
-- URL: https://x.com/j00ru/status/1258066565674799105
-- Metrics (at fetch): bookmark 2, impression 0, like 64, quote 0, reply 3, retweet 1
-
-> I will be writing a longer piece on the Project Zero blog in the next month or two, discussing the discovery and especially exploitation of these issues. Until then, enjoy!😀
-
-
----
-
-## 2020-05-06 · Post · The fuzzing harness referenced in the report has also just been open-sourced at https://t.co/hfukUMV
-
-
-### Post — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
-
-- URL: https://x.com/j00ru/status/1258066564357783552
-- Metrics (at fetch): bookmark 14, impression 0, like 108, quote 0, reply 1, retweet 29
-
-> The fuzzing harness referenced in the report has also just been open-sourced at https://t.co/hfukUMVAuU. I hope this makes it easy to reproduce my results and bootstrap further research into Qmage and potentially other proprietary Skia image codecs.
-
-
----
-
-## 2020-05-06 · Post · I have just derestricted issue 2002 in our tracker (https://t.co/So6O4ZmEih), which contains a deta
-
-
-### Post — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
-
-- URL: https://x.com/j00ru/status/1258066563032367105
-- Metrics (at fetch): bookmark 1, impression 0, like 64, quote 0, reply 2, retweet 19
-
-> I have just derestricted issue #2002 in our tracker (https://t.co/So6O4ZmEih), which contains a detailed report on the codec, the fuzzing process, and the crashes I have identified. It also includes a short "FAQ" section with some extra context.
-
-
----
-
-## 2020-05-06 · Post · Fixes for these bugs started rolling out with the May update, and Samsung officially addressed them 
-
-
-### Post — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
-
-- URL: https://x.com/j00ru/status/1258066561719513089
-- Metrics (at fetch): bookmark 2, impression 0, like 47, quote 2, reply 1, retweet 9
-
-> Fixes for these bugs started rolling out with the May update, and Samsung officially addressed them as SVE-2020-16747 (https://t.co/UIHC201jnQ). For now, we have assigned CVE-2020-8899 collectively to all 5218 unique crashes we reported.
-
-
----
-
-## 2020-05-06 · Post · Today I'm happy to release new research I've been working on for a while: 0-click RCE via MMS in all
+## 2020-05-06 · Thread · Today I'm happy to release new research I've been working on for a while: 0-click RCE via MMS in all
 
 
 Tags (automatic): RCE
@@ -624,6 +543,38 @@ Tags (automatic): RCE
 > Today I'm happy to release new research I've been working on for a while: 0-click RCE via MMS in all modern Samsung phones (released 2015+), due to numerous bugs in a little-known custom "Qmage" image codec supported by Skia on Samsung devices. Demo: https://www.youtube.com/watch?v=nke8Z3G4jnc
 
 **Links in post:** https://www.youtube.com/watch?v=nke8Z3G4jnc
+
+
+### Thread part 2 — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
+
+- URL: https://x.com/j00ru/status/1258066561719513089
+- Metrics (at fetch): bookmark 2, impression 0, like 47, quote 2, reply 1, retweet 9
+
+> Fixes for these bugs started rolling out with the May update, and Samsung officially addressed them as SVE-2020-16747 (https://t.co/UIHC201jnQ). For now, we have assigned CVE-2020-8899 collectively to all 5218 unique crashes we reported.
+
+
+### Thread part 3 — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
+
+- URL: https://x.com/j00ru/status/1258066563032367105
+- Metrics (at fetch): bookmark 1, impression 0, like 64, quote 0, reply 2, retweet 19
+
+> I have just derestricted issue #2002 in our tracker (https://t.co/So6O4ZmEih), which contains a detailed report on the codec, the fuzzing process, and the crashes I have identified. It also includes a short "FAQ" section with some extra context.
+
+
+### Thread part 4 — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
+
+- URL: https://x.com/j00ru/status/1258066564357783552
+- Metrics (at fetch): bookmark 14, impression 0, like 108, quote 0, reply 1, retweet 29
+
+> The fuzzing harness referenced in the report has also just been open-sourced at https://t.co/hfukUMVAuU. I hope this makes it easy to reproduce my results and bootstrap further research into Qmage and potentially other proprietary Skia image codecs.
+
+
+### Thread part 5 — @j00ru — 2020-05-06 16:10 UTC (2020-05-06 17:10 WAT)
+
+- URL: https://x.com/j00ru/status/1258066565674799105
+- Metrics (at fetch): bookmark 2, impression 0, like 64, quote 0, reply 3, retweet 1
+
+> I will be writing a longer piece on the Project Zero blog in the next month or two, discussing the discovery and especially exploitation of these issues. Until then, enjoy!😀
 
 
 ---

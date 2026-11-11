@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 515
-- Conversations/threads: 503
+- Conversations/threads: 490
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
 
@@ -398,7 +398,16 @@ Tags (automatic): XSS
 - video: https://pbs.twimg.com/amplify_video_thumb/2113228060145127424/img/5wyH0ffmucHlyDvN.jpg — no alt text provided by author
 
 
-### Thread part 2 — @garethheyes — 2026-10-22 11:20 UTC (2026-10-22 12:20 WAT)
+### Thread part 2 — @garethheyes — 2026-10-22 11:17 UTC (2026-10-22 12:17 WAT)
+
+- URL: https://x.com/garethheyes/status/2113228218539147552
+- Metrics (at fetch): bookmark 0, impression 381, like 1, quote 0, reply 0, retweet 0
+
+> Try it out yourself:
+> https://t.co/lJRZV7mtx9
+
+
+### Thread part 3 — @garethheyes — 2026-10-22 11:20 UTC (2026-10-22 12:20 WAT)
 
 - URL: https://x.com/garethheyes/status/2113228981034201373
 - Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 1, retweet 0
@@ -408,34 +417,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2026-10-22 · Post · Try it out yourself:
-
-
-### Post — @garethheyes — 2026-10-22 11:17 UTC (2026-10-22 12:17 WAT)
-
-- URL: https://x.com/garethheyes/status/2113228218539147552
-- Metrics (at fetch): bookmark 0, impression 381, like 1, quote 0, reply 0, retweet 0
-
-> Try it out yourself:
-> https://t.co/lJRZV7mtx9
-
-
----
-
-## 2026-10-19 · Post · https://t.co/LPJa4eIXQJ
-
-
-### Post — @garethheyes — 2026-10-19 13:30 UTC (2026-10-19 14:30 WAT)
-
-- URL: https://x.com/garethheyes/status/2112174431061553579
-- Metrics (at fetch): bookmark 0, impression 568, like 1, quote 0, reply 0, retweet 0
-
-> https://t.co/LPJa4eIXQJ
-
-
----
-
-## 2026-10-19 · Post · Six consuming tags. One Safari trick: &lt;select&gt;.
+## 2026-10-19 · Thread · Six consuming tags. One Safari trick: &lt;select&gt;.
 
 
 Tags (automatic): XSS
@@ -458,22 +440,17 @@ Tags (automatic): XSS
 "
 
 
----
+### Thread part 2 — @garethheyes — 2026-10-19 13:30 UTC (2026-10-19 14:30 WAT)
 
-## 2026-10-13 · Post · https://t.co/vSRx7Uo15E
+- URL: https://x.com/garethheyes/status/2112174431061553579
+- Metrics (at fetch): bookmark 0, impression 568, like 1, quote 0, reply 0, retweet 0
 
-
-### Post — @garethheyes — 2026-10-13 17:35 UTC (2026-10-13 18:35 WAT)
-
-- URL: https://x.com/garethheyes/status/2110061978752335909
-- Metrics (at fetch): bookmark 0, impression 518, like 5, quote 0, reply 0, retweet 0
-
-> https://t.co/vSRx7Uo15E
+> https://t.co/LPJa4eIXQJ
 
 
 ---
 
-## 2026-10-13 · Post · 🎄 $13.37 for the JavaScript for hackers paperback on Amazon USA this Christmas. The perfect present 
+## 2026-10-13 · Thread · 🎄 $13.37 for the JavaScript for hackers paperback on Amazon USA this Christmas. The perfect present 
 
 
 ### Post — @garethheyes — 2026-10-13 17:35 UTC (2026-10-13 18:35 WAT)
@@ -487,22 +464,17 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/HUhxWnzWoAAzw3M.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @garethheyes — 2026-10-13 17:35 UTC (2026-10-13 18:35 WAT)
 
-## 2026-10-13 · Post · https://t.co/IS1zmxmO7h
+- URL: https://x.com/garethheyes/status/2110061978752335909
+- Metrics (at fetch): bookmark 0, impression 518, like 5, quote 0, reply 0, retweet 0
 
-
-### Post — @garethheyes — 2026-10-13 13:26 UTC (2026-10-13 14:26 WAT)
-
-- URL: https://x.com/garethheyes/status/2109999118231687194
-- Metrics (at fetch): bookmark 0, impression 488, like 0, quote 0, reply 0, retweet 0
-
-> https://t.co/IS1zmxmO7h
+> https://t.co/vSRx7Uo15E
 
 
 ---
 
-## 2026-10-13 · Post · Safari wanted a decryption key. @AmirMSafari gave it alert(1).
+## 2026-10-13 · Thread · Safari wanted a decryption key. @AmirMSafari gave it alert(1).
 
 
 Tags (automatic): XSS
@@ -524,22 +496,17 @@ Tags (automatic): XSS
 "
 
 
----
+### Thread part 2 — @garethheyes — 2026-10-13 13:26 UTC (2026-10-13 14:26 WAT)
 
-## 2026-10-13 · Post · https://t.co/94O3yvMi4E
+- URL: https://x.com/garethheyes/status/2109999118231687194
+- Metrics (at fetch): bookmark 0, impression 488, like 0, quote 0, reply 0, retweet 0
 
-
-### Post — @garethheyes — 2026-10-13 11:29 UTC (2026-10-13 12:29 WAT)
-
-- URL: https://x.com/garethheyes/status/2109969822532452570
-- Metrics (at fetch): bookmark 0, impression 511, like 0, quote 0, reply 0, retweet 0
-
-> https://t.co/94O3yvMi4E
+> https://t.co/IS1zmxmO7h
 
 
 ---
 
-## 2026-10-13 · Post · Last night I updated Shazzer to improve the fuzz result toast. It's now more compact and you can see
+## 2026-10-13 · Thread · Last night I updated Shazzer to improve the fuzz result toast. It's now more compact and you can see
 
 
 ### Post — @garethheyes — 2026-10-13 11:29 UTC (2026-10-13 12:29 WAT)
@@ -551,6 +518,14 @@ Tags (automatic): XSS
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/2109968977191448576/img/fwFKwXIKe-qCkpG7.jpg — no alt text provided by author
+
+
+### Thread part 2 — @garethheyes — 2026-10-13 11:29 UTC (2026-10-13 12:29 WAT)
+
+- URL: https://x.com/garethheyes/status/2109969822532452570
+- Metrics (at fetch): bookmark 0, impression 511, like 0, quote 0, reply 0, retweet 0
+
+> https://t.co/94O3yvMi4E
 
 
 ---
@@ -568,20 +543,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2026-10-06 · Post · https://t.co/drapoExnm6
-
-
-### Post — @garethheyes — 2026-10-06 13:30 UTC (2026-10-06 14:30 WAT)
-
-- URL: https://x.com/garethheyes/status/2107463389744333230
-- Metrics (at fetch): bookmark 1, impression 568, like 1, quote 0, reply 1, retweet 0
-
-> https://t.co/drapoExnm6
-
-
----
-
-## 2026-10-06 · Post · Another XSS vector for our cheat sheet, this time using &lt;usermedia&gt;
+## 2026-10-06 · Thread · Another XSS vector for our cheat sheet, this time using &lt;usermedia&gt;
 
 
 Tags (automatic): XSS
@@ -600,22 +562,17 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/HT74jt8WoAAnADv.jpg — alt text: "<usermedia onstream=alert(1)>"
 
 
----
+### Thread part 2 — @garethheyes — 2026-10-06 13:30 UTC (2026-10-06 14:30 WAT)
 
-## 2026-10-05 · Post · https://t.co/c272MM5F3S
+- URL: https://x.com/garethheyes/status/2107463389744333230
+- Metrics (at fetch): bookmark 1, impression 568, like 1, quote 0, reply 1, retweet 0
 
-
-### Post — @garethheyes — 2026-10-05 15:15 UTC (2026-10-05 16:15 WAT)
-
-- URL: https://x.com/garethheyes/status/2107127537185046693
-- Metrics (at fetch): bookmark 7, impression 929, like 10, quote 0, reply 0, retweet 3
-
-> https://t.co/c272MM5F3S
+> https://t.co/drapoExnm6
 
 
 ---
 
-## 2026-10-05 · Post · Building on my research, my colleague @Alex_______C exfiltrated a 600-character hex token instantly 
+## 2026-10-05 · Thread · Building on my research, my colleague @Alex_______C exfiltrated a 600-character hex token instantly 
 
 
 ### Post — @garethheyes — 2026-10-05 15:15 UTC (2026-10-05 16:15 WAT)
@@ -629,22 +586,17 @@ Tags (automatic): XSS
 - video: https://pbs.twimg.com/amplify_video_thumb/2107091521665146880/img/e3SKyLXWFOebMOK4.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @garethheyes — 2026-10-05 15:15 UTC (2026-10-05 16:15 WAT)
 
-## 2026-10-01 · Post · https://t.co/HxjAhrW06H
+- URL: https://x.com/garethheyes/status/2107127537185046693
+- Metrics (at fetch): bookmark 7, impression 929, like 10, quote 0, reply 0, retweet 3
 
-
-### Post — @garethheyes — 2026-10-01 13:30 UTC (2026-10-01 14:30 WAT)
-
-- URL: https://x.com/garethheyes/status/2105651445395800087
-- Metrics (at fetch): bookmark 0, impression 582, like 1, quote 0, reply 0, retweet 0
-
-> https://t.co/HxjAhrW06H
+> https://t.co/c272MM5F3S
 
 
 ---
 
-## 2026-10-01 · Post · Chrome's new &lt;microphone&gt; tag has something to say:
+## 2026-10-01 · Thread · Chrome's new &lt;microphone&gt; tag has something to say:
 
 
 Tags (automatic): XSS
@@ -663,22 +615,17 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/HTiwd6cXwAAOXG2.jpg — alt text: "<microphone onvalidationstatuschange=alert(1)>"
 
 
----
+### Thread part 2 — @garethheyes — 2026-10-01 13:30 UTC (2026-10-01 14:30 WAT)
 
-## 2026-09-30 · Post · https://t.co/HxjAhrW06H
-
-
-### Post — @garethheyes — 2026-09-30 13:30 UTC (2026-09-30 14:30 WAT)
-
-- URL: https://x.com/garethheyes/status/2105289063079293123
-- Metrics (at fetch): bookmark 1, impression 798, like 5, quote 0, reply 1, retweet 0
+- URL: https://x.com/garethheyes/status/2105651445395800087
+- Metrics (at fetch): bookmark 0, impression 582, like 1, quote 0, reply 0, retweet 0
 
 > https://t.co/HxjAhrW06H
 
 
 ---
 
-## 2026-09-30 · Post · Chrome added a &lt;camera&gt; tag.
+## 2026-09-30 · Thread · Chrome added a &lt;camera&gt; tag.
 
 
 Tags (automatic): XSS
@@ -699,22 +646,17 @@ Tags (automatic): XSS
 - photo: https://pbs.twimg.com/media/HTdWcUZWoAABUUd.jpg — alt text: "<camera onvalidationstatuschange=alert(1)>"
 
 
----
+### Thread part 2 — @garethheyes — 2026-09-30 13:30 UTC (2026-09-30 14:30 WAT)
 
-## 2026-09-28 · Post · https://t.co/rsJ7fOPZCE
+- URL: https://x.com/garethheyes/status/2105289063079293123
+- Metrics (at fetch): bookmark 1, impression 798, like 5, quote 0, reply 1, retweet 0
 
-
-### Post — @garethheyes — 2026-09-28 14:00 UTC (2026-09-28 15:00 WAT)
-
-- URL: https://x.com/garethheyes/status/2104571831630135659
-- Metrics (at fetch): bookmark 0, impression 558, like 2, quote 0, reply 0, retweet 0
-
-> https://t.co/rsJ7fOPZCE
+> https://t.co/HxjAhrW06H
 
 
 ---
 
-## 2026-09-28 · Post · Stuck inside a &lt;meta&gt; and angle brackets blocked?
+## 2026-09-28 · Thread · Stuck inside a &lt;meta&gt; and angle brackets blocked?
 
 
 Tags (automatic): XSS
@@ -740,6 +682,14 @@ hidden=until-found
 onbeforematch=alert(document.domain)>"
 
 
+### Thread part 2 — @garethheyes — 2026-09-28 14:00 UTC (2026-09-28 15:00 WAT)
+
+- URL: https://x.com/garethheyes/status/2104571831630135659
+- Metrics (at fetch): bookmark 0, impression 558, like 2, quote 0, reply 0, retweet 0
+
+> https://t.co/rsJ7fOPZCE
+
+
 ---
 
 ## 2026-09-25 · Post · Visit https://t.co/r0OQ2SqC2a to find out more... https://t.co/FKRsId7erG
@@ -757,21 +707,7 @@ onbeforematch=alert(document.domain)>"
 
 ---
 
-## 2026-09-24 · Post · Find out why here:
-
-
-### Post — @garethheyes — 2026-09-24 11:46 UTC (2026-09-24 12:46 WAT)
-
-- URL: https://x.com/garethheyes/status/2103088772489339285
-- Metrics (at fetch): bookmark 0, impression 635, like 6, quote 0, reply 0, retweet 1
-
-> Find out why here:
-> https://t.co/DIgn4WTSzt
-
-
----
-
-## 2026-09-24 · Post · https://t.co/zNniSX26gB
+## 2026-09-24 · Thread · https://t.co/zNniSX26gB
 
 
 ### Post — @garethheyes — 2026-09-24 11:46 UTC (2026-09-24 12:46 WAT)
@@ -783,6 +719,15 @@ onbeforematch=alert(document.domain)>"
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HS-r5GiWAAAUXGD.jpg — alt text: "<div style="}--\&#0:red;color:var(--&#0">red</div>"
+
+
+### Thread part 2 — @garethheyes — 2026-09-24 11:46 UTC (2026-09-24 12:46 WAT)
+
+- URL: https://x.com/garethheyes/status/2103088772489339285
+- Metrics (at fetch): bookmark 0, impression 635, like 6, quote 0, reply 0, retweet 1
+
+> Find out why here:
+> https://t.co/DIgn4WTSzt
 
 
 ---
@@ -834,34 +779,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-21 · Post · Shazzer is 🦾
-
-
-### Post — @garethheyes — 2026-09-21 17:35 UTC (2026-09-21 18:35 WAT)
-
-- URL: https://x.com/garethheyes/status/2102089283997761873
-- Metrics (at fetch): bookmark 0, impression 512, like 0, quote 0, reply 0, retweet 0
-
-> Shazzer is 🦾
-
-
----
-
-## 2026-09-21 · Post · Vector:
-
-
-### Post — @garethheyes — 2026-09-21 17:34 UTC (2026-09-21 18:34 WAT)
-
-- URL: https://x.com/garethheyes/status/2102089155199013348
-- Metrics (at fetch): bookmark 0, impression 745, like 1, quote 0, reply 1, retweet 0
-
-> Vector:
-> https://t.co/Kk2aTLs82M
-
-
----
-
-## 2026-09-21 · Post · I thought how can fuzz this interesting Safari behaviour. First the code checks markup is consumed b
+## 2026-09-21 · Thread · I thought how can fuzz this interesting Safari behaviour. First the code checks markup is consumed b
 
 
 ### Post — @garethheyes — 2026-09-21 17:34 UTC (2026-09-21 18:34 WAT)
@@ -870,6 +788,23 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 1, impression 2296, like 5, quote 0, reply 2, retweet 0
 
 > I thought how can fuzz this interesting Safari behaviour. First the code checks markup is consumed by only incrementing the counter if it is not.The second snippet then wraps the tag in a select and see if the code executes. The counter is 1 if the tag consumes and is neutralized
+
+
+### Thread part 2 — @garethheyes — 2026-09-21 17:34 UTC (2026-09-21 18:34 WAT)
+
+- URL: https://x.com/garethheyes/status/2102089155199013348
+- Metrics (at fetch): bookmark 0, impression 745, like 1, quote 0, reply 1, retweet 0
+
+> Vector:
+> https://t.co/Kk2aTLs82M
+
+
+### Thread part 3 — @garethheyes — 2026-09-21 17:35 UTC (2026-09-21 18:35 WAT)
+
+- URL: https://x.com/garethheyes/status/2102089283997761873
+- Metrics (at fetch): bookmark 0, impression 512, like 0, quote 0, reply 0, retweet 0
+
+> Shazzer is 🦾
 
 
 ---

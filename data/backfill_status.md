@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-11 10:09 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-11 10:15 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -29,7 +29,6 @@ Updated 2026-11-11 10:09 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @Guhu95 | 30 | 68 | 2023-08-19 |
 | @brandon_shi | 68 | 68 | 2021-06-04 |
 | @naresh_1337 | 69 | 69 | 2026-05-22 |
-| @Piki_eth | 49 | 71 | 2024-09-21 |
 | @deadrosesxyz | 32 | 72 | 2023-03-14 |
 | @j00ru | 38 | 75 | 2011-07-12 |
 | @csanuragjain | 53 | 78 | 2018-11-14 |
@@ -38,36 +37,37 @@ Updated 2026-11-11 10:09 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @osec_io | 22 | 85 | 2022-03-23 |
 | @_blockian | 86 | 86 | 2023-03-03 |
 | @Kiki_developer | 44 | 91 | 2023-01-26 |
+| @Piki_eth | 49 | 91 | 2024-09-21 |
 | @zellic_io | 27 | 95 | 2022-01-27 |
 | @samczsun | 53 | 96 | 2020-03-13 |
 | @RootxRavi | 27 | 97 | 2022-10-11 |
 | @Suryesh_92 | 99 | 100 | 2024-05-10 |
-| @kobigurk | 45 | 107 | 2014-01-16 |
 | @SuyashS91823422 | 82 | 116 | 2021-10-06 |
 | @orange_8361 | 45 | 121 | 2016-04-21 |
+| @kobigurk | 45 | 121 | 2014-01-16 |
 | @infinitelogins | 33 | 122 | 2020-01-17 |
 | @Assass1nmarcos | 45 | 123 | 2018-11-24 |
-| @WhiteHatMage | 134 | 134 | 2025-12-02 |
-| @lonelysloth_sec | 50 | 134 | 2023-12-17 |
 | @asymmetric_re | 137 | 137 | 2024-01-29 |
 | @zksecurityXYZ | 121 | 137 | 2023-07-02 |
+| @WhiteHatMage | 134 | 139 | 2025-12-02 |
 | @farazsth98 | 78 | 143 | 2019-09-30 |
+| @lonelysloth_sec | 50 | 144 | 2023-12-17 |
 | @bluethroat_labs | 146 | 146 | 2025-12-02 |
-| @ma1fan | 44 | 150 | 2018-07-19 |
+| @ma1fan | 44 | 152 | 2018-07-19 |
 | @fransrosen | 57 | 174 | 2011-06-29 |
 | @xssdoctor | 156 | 174 | 2023-07-10 |
 | @asanso | 67 | 174 | 2011-01-30 |
 | @krishnsec | 26 | 175 | 2021-08-17 |
-| @samwcyo | 31 | 187 | 2017-02-12 |
 | @trailofbits | 65 | 188 | 2012-04-03 |
+| @samwcyo | 31 | 198 | 2017-02-12 |
 | @0xacb | 109 | 199 | 2014-01-05 |
 | @ryotkak | 161 | 199 | 2019-05-29 |
 | @pcaversaccio | 37 | 202 | 2022-06-18 |
 | @0xriptide | 48 | 209 | 2014-07-21 |
 | @ajxchapman | 26 | 210 | 2013-03-23 |
 | @cmichelio | 181 | 231 | 2016-07-31 |
-| @infosec_au | 51 | 231 | 2015-07-16 |
-| @galnagli | 68 | 235 | 2020-07-24 |
+| @infosec_au | 51 | 232 | 2015-07-16 |
+| @galnagli | 68 | 273 | 2020-07-24 |
 | @albinowax | 59 | 312 | 2011-03-08 |
 | @DevDacian | 32 | 360 | 2023-02-23 |
 | @zseano | 47 | 377 | 2015-08-11 |
@@ -76,12 +76,12 @@ Updated 2026-11-11 10:09 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @anchabadze | 94 | 454 | 2025-02-05 |
 | @irsdl | 35 | 509 | 2010-05-25 |
 | @garethheyes | 59 | 515 | 2008-10-22 |
-| @mdp_sec | 586 | 586 | 2026-07-22 |
+| @mdp_sec | 586 | 589 | 2026-07-22 |
 | @saxenism | 651 | 651 | 2024-10-01 |
 | @ChainLight_io | 150 | 1081 | 2022-11-05 |
 | @NahamSec | 176 | 1089 | 2016-09-01 |
 
-Total: 5581 → 13173
+Total: 5581 → 13277
 
 ## Search cursors (pass 5, until_id paging)
 

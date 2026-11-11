@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 69
-- Conversations/threads: 41
+- Conversations/threads: 39
 - Oldest post captured: 2026-05-22
 - Newest post captured: 2026-11-11
 
@@ -348,6 +348,9 @@ Tags (automatic): Smart contract / DeFi, Platform: Immunefi
 ## 2026-05-22 · Thread · 🚨 SPECTRE just autonomously discovered a Stored CSS Injection in OpenProject!
 
 
+Tags (automatic): XSS
+
+
 ### Post — @naresh_1337 — 2026-05-22 13:39 UTC (2026-05-22 14:39 WAT)
 
 - URL: https://x.com/naresh_1337/status/2057818747876855813
@@ -363,7 +366,21 @@ Tags (automatic): Smart contract / DeFi, Platform: Immunefi
 - photo: https://pbs.twimg.com/media/HI7XPuBWwAA27kN.jpg — no alt text provided by author
 
 
-### Thread part 2 — @naresh_1337 — 2026-10-22 15:46 UTC (2026-10-22 16:46 WAT)
+### Thread part 2 — @naresh_1337 — 2026-05-22 13:44 UTC (2026-05-22 14:44 WAT)
+
+- URL: https://x.com/naresh_1337/status/2057819876425646125
+- Metrics (at fetch): bookmark 1, impression 768, like 3, quote 0, reply 2, retweet 0
+
+> Thread 1/5 → Full technical breakdown + how SPECTRE found it in &lt;60 seconds 👇
+>
+> 1/ The vulnerability: Stored CSS Injection (not just XSS)
+>
+> In OpenProject, any authenticated user with write access to Work Packages, Comments, or Dashboards could inject raw CSS.
+>
+> This isn’t just
+
+
+### Thread part 3 — @naresh_1337 — 2026-10-22 15:46 UTC (2026-10-22 16:46 WAT)
 
 - URL: https://x.com/naresh_1337/status/2113296051176153118
 - Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 0, retweet 0
@@ -1027,30 +1044,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2026-05-23 · Post · 1/8
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @naresh_1337 — 2026-05-23 15:13 UTC (2026-05-23 16:13 WAT)
-
-- URL: https://x.com/naresh_1337/status/2058204700902564255
-- Metrics (at fetch): bookmark 0, impression 172, like 1, quote 0, reply 0, retweet 0
-
-> 1/8
->
-> An AI-assisted offensive security workflow identified unauthenticated GraphQL mutations on a major e-commerce platform that allowed anonymous attackers to manipulate customer payment-card operations.
->
-> No auth.
-> No ownership validation.
-> Just sequential integer IDs.
-> €1,500
-
-
----
-
-## 2026-05-23 · Post · SPECTRE An AI-assisted offensive security workflow identified unauthenticated GraphQL mutations on a
+## 2026-05-23 · Thread · SPECTRE An AI-assisted offensive security workflow identified unauthenticated GraphQL mutations on a
 
 
 Tags (automatic): AI-assisted hunting
@@ -1072,23 +1066,16 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/HJA0nO4WEAEJiOx.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @naresh_1337 — 2026-05-23 15:13 UTC (2026-05-23 16:13 WAT)
 
-## 2026-05-22 · Post · Thread 1/5 → Full technical breakdown + how SPECTRE found it in &lt;60 seconds 👇
+- URL: https://x.com/naresh_1337/status/2058204700902564255
+- Metrics (at fetch): bookmark 0, impression 172, like 1, quote 0, reply 0, retweet 0
 
-
-Tags (automatic): XSS
-
-
-### Post — @naresh_1337 — 2026-05-22 13:44 UTC (2026-05-22 14:44 WAT)
-
-- URL: https://x.com/naresh_1337/status/2057819876425646125
-- Metrics (at fetch): bookmark 1, impression 768, like 3, quote 0, reply 2, retweet 0
-
-> Thread 1/5 → Full technical breakdown + how SPECTRE found it in &lt;60 seconds 👇
+> 1/8
 >
-> 1/ The vulnerability: Stored CSS Injection (not just XSS)
+> An AI-assisted offensive security workflow identified unauthenticated GraphQL mutations on a major e-commerce platform that allowed anonymous attackers to manipulate customer payment-card operations.
 >
-> In OpenProject, any authenticated user with write access to Work Packages, Comments, or Dashboards could inject raw CSS.
->
-> This isn’t just
+> No auth.
+> No ownership validation.
+> Just sequential integer IDs.
+> €1,500

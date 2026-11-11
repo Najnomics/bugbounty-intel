@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 150
-- Conversations/threads: 149
+- Posts in this file: 152
+- Conversations/threads: 148
 - Oldest post captured: 2018-07-19
 - Newest post captured: 2026-11-10
 
@@ -749,27 +749,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-06-25 · Post · 2/ If you build on @SuiNetwork , this is for you. 🛠️
-
-
-### Post — @ma1fan — 2026-06-25 07:51 UTC (2026-06-25 08:51 WAT)
-
-- URL: https://x.com/ma1fan/status/2070052250052108785
-- Metrics (at fetch): bookmark 0, impression 767, like 3, quote 0, reply 1, retweet 0
-
-> 2/ If you build on @SuiNetwork , this is for you. 🛠️
->
-> Drop it into your repo and it runs an autonomous audit:
-> → maps capabilities, object ownership &amp; custody
-> → traces critical state transitions
-> → checks attacker-reachable PTB composition
->
-> Then pressure-tests every finding. No
-
-
----
-
-## 2026-06-25 · Post · 1/ we open sourced our sui move audit skill 🔥
+## 2026-06-25 · Thread · 1/ we open sourced our sui move audit skill 🔥
 
 
 ### Post — @ma1fan — 2026-06-25 07:51 UTC (2026-06-25 08:51 WAT)
@@ -785,6 +765,21 @@ Tags (automatic): AI-assisted hunting
 > So we open-sourced our Sui Move audit skill — built to catch these bugs before they ship. 🧵
 >
 > 🔗
+
+
+### Thread part 2 — @ma1fan — 2026-06-25 07:51 UTC (2026-06-25 08:51 WAT)
+
+- URL: https://x.com/ma1fan/status/2070052250052108785
+- Metrics (at fetch): bookmark 0, impression 767, like 3, quote 0, reply 1, retweet 0
+
+> 2/ If you build on @SuiNetwork , this is for you. 🛠️
+>
+> Drop it into your repo and it runs an autonomous audit:
+> → maps capabilities, object ownership &amp; custody
+> → traces critical state transitions
+> → checks attacker-reachable PTB composition
+>
+> Then pressure-tests every finding. No
 
 
 ---
@@ -2200,6 +2195,34 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
+## 2024-10-10 · Thread · I found a critcal bug in a wallet which have 100k+ users,which the attacker can stolen user's privat
+
+
+### Post — @ma1fan — 2024-10-10 12:27 UTC (2024-10-10 13:27 WAT)
+
+- URL: https://x.com/ma1fan/status/1844354008493982044
+- Metrics (at fetch): bookmark 29, impression 24521, like 137, quote 5, reply 28, retweet 6
+
+> I found a critcal bug in a wallet which have 100k+ users,which the attacker can stolen user's privatekey,
+> I reported to the team,The team obtained the bug details, then deleted the chat(in TG). They claimed it wasn't a security vulnerability and fixed it quietly, no any https://t.co/HjoB52tCah
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZh1fCbaAAQe4Wx.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ma1fan — 2024-10-31 06:55 UTC (2024-10-31 07:55 WAT)
+
+- URL: https://x.com/ma1fan/status/1851880622224195762
+- Metrics (at fetch): bookmark 13, impression 1946, like 13, quote 0, reply 1, retweet 1
+
+> The bug is a unreveal new attack vector. I called it  "Wallet Cipher Replacement Attack", which I found 1+ years ago, I think  people should pay more attendtion to this new attack type.check the link for the details, (note. the wallet a mentioned before is not same as the blog) https://t.co/O3LImlCzLg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GbMzdfCakAAE28N.jpg — no alt text provided by author
+
+
+---
+
 ## 2024-10-29 · Post · Huge respect to the Vyper team for prioritizing security! Their dedication with 12 audits, continuou
 
 
@@ -2245,23 +2268,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GaFqX5ub0AMOHPw.jpg — no alt text provided by author
-
-
----
-
-## 2024-10-10 · Post · I found a critcal bug in a wallet which have 100k+ users,which the attacker can stolen user's privat
-
-
-### Post — @ma1fan — 2024-10-10 12:27 UTC (2024-10-10 13:27 WAT)
-
-- URL: https://x.com/ma1fan/status/1844354008493982044
-- Metrics (at fetch): bookmark 29, impression 24521, like 137, quote 5, reply 28, retweet 6
-
-> I found a critcal bug in a wallet which have 100k+ users,which the attacker can stolen user's privatekey,
-> I reported to the team,The team obtained the bug details, then deleted the chat(in TG). They claimed it wasn't a security vulnerability and fixed it quietly, no any https://t.co/HjoB52tCah
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GZh1fCbaAAQe4Wx.jpg — no alt text provided by author
 
 
 ---
@@ -2652,7 +2658,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-03-02 · Post · The world's largest cybersecurity media @TheHackersNews recently acknowledged the value of the vulne
+## 2023-03-02 · Thread · The world's largest cybersecurity media @TheHackersNews recently acknowledged the value of the vulne
 
 
 Tags (automatic): ZK
@@ -2665,6 +2671,16 @@ Tags (automatic): ZK
 
 > The world's largest cybersecurity media @TheHackersNews recently acknowledged the value of the vulnerability discovered by  our company @numencyber and its PoC in a recent article on the high-risk vulnerabilities in the Zk framework.
 > https://t.co/MyHaE96ujR
+
+
+### Thread part 2 — @ma1fan — 2023-03-02 08:16 UTC (2023-03-02 09:16 WAT)
+
+- URL: https://x.com/ma1fan/status/1631206803462852610
+- Metrics (at fetch): bookmark 0, impression 2411, like 0, quote 1, reply 0, retweet 1
+
+> .@numencyber discovered that there are over 4,000 instances of ConnectWise R1Soft Server Backup Manager with security vulnerabilities on the internet, and they have already been attacked.
+>
+> The US National Security Agency has confirmed that this vulnerability has been exploited.
 
 
 ---

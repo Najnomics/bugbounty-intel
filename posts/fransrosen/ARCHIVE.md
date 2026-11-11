@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 174
-- Conversations/threads: 165
+- Conversations/threads: 147
 - Oldest post captured: 2011-06-29
 - Newest post captured: 2026-10-24
 
@@ -13,9 +13,9 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ## 2026-10-24 · Reply · @NahamSec Ahmedabad is great ♥️
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @NahamSec — 2026-10-23 03:19 UTC (2026-10-23 04:19 WAT)
+#### Root post — @NahamSec — 2026-10-23 03:19 UTC (2026-10-23 04:19 WAT)
 
 - URL: https://x.com/NahamSec/status/2113470226746806717
 - Metrics (at fetch): bookmark 21, impression 24507, like 663, quote 5, reply 139, retweet 9
@@ -98,9 +98,9 @@ Tags (automatic): AI-assisted hunting, Platform: Bugcrowd
 Tags (automatic): XSS
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @garethheyes — 2025-04-26 13:00 UTC (2025-04-26 14:00 WAT)
+#### Root post — @garethheyes — 2025-04-26 13:00 UTC (2025-04-26 14:00 WAT)
 
 - URL: https://x.com/garethheyes/status/1916115054421831981
 - Metrics (at fetch): bookmark 76, impression 7914, like 120, quote 0, reply 1, retweet 24
@@ -410,20 +410,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-08-21 · Post · (Don't comment with the right solution, DM instead :)
-
-
-### Post — @fransrosen — 2024-08-21 17:12 UTC (2024-08-21 18:12 WAT)
-
-- URL: https://x.com/fransrosen/status/1826306442238066781
-- Metrics (at fetch): bookmark 1, impression 5404, like 3, quote 0, reply 0, retweet 0
-
-> (Don't comment with the right solution, DM instead :)
-
-
----
-
-## 2024-08-21 · Post · I found a bug and made a XSS-challenge out of it: https://fransrosen.com/payment-chall-target-redir-
+## 2024-08-21 · Thread · I found a bug and made a XSS-challenge out of it: https://fransrosen.com/payment-chall-target-redir-
 
 
 Tags (automatic): XSS
@@ -438,6 +425,14 @@ Tags (automatic): XSS
 > I'll reveal the solution in a week.
 
 **Links in post:** https://fransrosen.com/payment-chall-target-redir-r3di2n.html?targetUrl=x
+
+
+### Thread part 2 — @fransrosen — 2024-08-21 17:12 UTC (2024-08-21 18:12 WAT)
+
+- URL: https://x.com/fransrosen/status/1826306442238066781
+- Metrics (at fetch): bookmark 1, impression 5404, like 3, quote 0, reply 0, retweet 0
+
+> (Don't comment with the right solution, DM instead :)
 
 
 ---
@@ -526,41 +521,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2023-12-15 · Post · The intended payload to solve was:
-
-
-### Post — @fransrosen — 2023-12-15 09:01 UTC (2023-12-15 10:01 WAT)
-
-- URL: https://x.com/fransrosen/status/1735585896265556264
-- Metrics (at fetch): bookmark 16, impression 4260, like 38, quote 0, reply 2, retweet 2
-
-> The intended payload to solve was:
->
-> ?google_gtag_url_id=$%60"%20onload%3dalert(document.domain)//
->
-> More info:
-> https://t.co/p1LTvvCmDG
-
-
----
-
-## 2023-12-15 · Post · There's a not so well-known quirk with the String.replace-function which allows replacement patterns
-
-
-### Post — @fransrosen — 2023-12-15 09:01 UTC (2023-12-15 10:01 WAT)
-
-- URL: https://x.com/fransrosen/status/1735585893946208514
-- Metrics (at fetch): bookmark 14, impression 4417, like 26, quote 0, reply 2, retweet 0
-
-> There's a not so well-known quirk with the String.replace-function which allows replacement patterns to affect the string. In the challenge above you could use the $` to get the attributes to the script-tag to break, which allowed you to escape the attribute and make your own. https://t.co/lZvi28Z0wi
-
-**Media:**
-- photo: https://pbs.twimg.com/media/GBYKJDBWEAEjbBX.jpg — no alt text provided by author
-
-
----
-
-## 2023-12-15 · Post · In the 🧵 below is the solution for the XSS-challenge I posted last Friday.
+## 2023-12-15 · Thread · In the 🧵 below is the solution for the XSS-challenge I posted last Friday.
 
 
 Tags (automatic): XSS
@@ -592,191 +553,33 @@ Tags (automatic): XSS
     
 
 
----
+### Thread part 2 — @fransrosen — 2023-12-15 09:01 UTC (2023-12-15 10:01 WAT)
 
-## 2023-12-14 · Post · @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel @0xSombra
+- URL: https://x.com/fransrosen/status/1735585893946208514
+- Metrics (at fetch): bookmark 14, impression 4417, like 26, quote 0, reply 2, retweet 0
 
+> There's a not so well-known quirk with the String.replace-function which allows replacement patterns to affect the string. In the challenge above you could use the $` to get the attributes to the script-tag to break, which allowed you to escape the attribute and make your own. https://t.co/lZvi28Z0wi
 
-### Post — @fransrosen — 2023-12-14 02:00 UTC (2023-12-14 03:00 WAT)
-
-- URL: https://x.com/fransrosen/status/1735117442383216941
-- Metrics (at fetch): bookmark 0, impression 3126, like 5, quote 0, reply 0, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel @0xSombra @zakaria_ounissi and @insertScript inserted a script as expected, nice one! 🥌
+**Media:**
+- photo: https://pbs.twimg.com/media/GBYKJDBWEAEjbBX.jpg — no alt text provided by author
 
 
----
+### Thread part 3 — @fransrosen — 2023-12-15 09:01 UTC (2023-12-15 10:01 WAT)
 
-## 2023-12-12 · Post · @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel @0xSombra
+- URL: https://x.com/fransrosen/status/1735585896265556264
+- Metrics (at fetch): bookmark 16, impression 4260, like 38, quote 0, reply 2, retweet 2
 
-
-### Post — @fransrosen — 2023-12-12 19:59 UTC (2023-12-12 20:59 WAT)
-
-- URL: https://x.com/fransrosen/status/1734664322696024498
-- Metrics (at fetch): bookmark 0, impression 4235, like 4, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel @0xSombra Another solver, @zakaria_ounissi, well done 🪂
+> The intended payload to solve was:
+>
+> ?google_gtag_url_id=$%60"%20onload%3dalert(document.domain)//
+>
+> More info:
+> https://t.co/p1LTvvCmDG
 
 
 ---
 
-## 2023-12-12 · Post · @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel Another o
-
-
-### Post — @fransrosen — 2023-12-12 15:22 UTC (2023-12-12 16:22 WAT)
-
-- URL: https://x.com/fransrosen/status/1734594609446093172
-- Metrics (at fetch): bookmark 1, impression 2611, like 2, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel Another one cracks the case, good job @0xSombra ! 🛼
-
-
----
-
-## 2023-12-12 · Post · @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 Another solver: @el
-
-
-### Post — @fransrosen — 2023-12-12 06:20 UTC (2023-12-12 07:20 WAT)
-
-- URL: https://x.com/fransrosen/status/1734458258411110890
-- Metrics (at fetch): bookmark 1, impression 2526, like 1, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 Another solver: @elieehel great job! 🎱
-
-
----
-
-## 2023-12-11 · Post · @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato As well as @sudhanshur705! Sweet! 
-
-
-### Post — @fransrosen — 2023-12-11 16:37 UTC (2023-12-11 17:37 WAT)
-
-- URL: https://x.com/fransrosen/status/1734250999534022892
-- Metrics (at fetch): bookmark 0, impression 3164, like 7, quote 0, reply 1, retweet 2
-
-> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato As well as @sudhanshur705! Sweet! 🛹
-
-
----
-
-## 2023-12-11 · Post · @kevin_mizu @maple3142 @taramtrampam @realansgar Next up, @BrunoModificato , correct solution! Sweet
-
-
-### Post — @fransrosen — 2023-12-11 07:18 UTC (2023-12-11 08:18 WAT)
-
-- URL: https://x.com/fransrosen/status/1734110425665458540
-- Metrics (at fetch): bookmark 0, impression 3171, like 3, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam @realansgar Next up, @BrunoModificato , correct solution! Sweet! 🥋
-
-
----
-
-## 2023-12-10 · Post · @kevin_mizu @maple3142 @taramtrampam @realansgar Hint: $
-
-
-### Post — @fransrosen — 2023-12-10 20:20 UTC (2023-12-10 21:20 WAT)
-
-- URL: https://x.com/fransrosen/status/1733944883272880279
-- Metrics (at fetch): bookmark 2, impression 3480, like 2, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam @realansgar Hint: $
-
-
----
-
-## 2023-12-09 · Post · @kevin_mizu @maple3142 @taramtrampam And @realansgar joins the crew, great job! 🏉
-
-
-### Post — @fransrosen — 2023-12-09 20:34 UTC (2023-12-09 21:34 WAT)
-
-- URL: https://x.com/fransrosen/status/1733586016122864077
-- Metrics (at fetch): bookmark 0, impression 3885, like 4, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam And @realansgar joins the crew, great job! 🏉
-
-
----
-
-## 2023-12-09 · Post · @kevin_mizu @maple3142 @taramtrampam also solved it! 🥏
-
-
-### Post — @fransrosen — 2023-12-09 15:32 UTC (2023-12-09 16:32 WAT)
-
-- URL: https://x.com/fransrosen/status/1733510002797601098
-- Metrics (at fetch): bookmark 0, impression 3336, like 1, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 @taramtrampam also solved it! 🥏
-
-
----
-
-## 2023-12-08 · Post · @kevin_mizu @maple3142 also found it! 🎣 Nice!
-
-
-### Post — @fransrosen — 2023-12-08 18:40 UTC (2023-12-08 19:40 WAT)
-
-- URL: https://x.com/fransrosen/status/1733194939515752823
-- Metrics (at fetch): bookmark 0, impression 3965, like 2, quote 0, reply 1, retweet 0
-
-> @kevin_mizu @maple3142 also found it! 🎣 Nice!
-
-
----
-
-## 2023-12-08 · Post · @kevin_mizu was next up solving it! ⛳️ Awesome!
-
-
-### Post — @fransrosen — 2023-12-08 09:53 UTC (2023-12-08 10:53 WAT)
-
-- URL: https://x.com/fransrosen/status/1733062269498511672
-- Metrics (at fetch): bookmark 0, impression 4275, like 6, quote 0, reply 1, retweet 0
-
-> @kevin_mizu was next up solving it! ⛳️ Awesome!
-
-
----
-
-## 2023-12-08 · Post · So does @TheGrandPew! 🏹 Way to go!
-
-
-### Post — @fransrosen — 2023-12-08 07:53 UTC (2023-12-08 08:53 WAT)
-
-- URL: https://x.com/fransrosen/status/1733031948153393345
-- Metrics (at fetch): bookmark 0, impression 4420, like 7, quote 0, reply 1, retweet 0
-
-> So does @TheGrandPew! 🏹 Way to go!
-
-
----
-
-## 2023-12-08 · Post · And @kinugawamasato smashes in the intended solution 🏸 very nice!
-
-
-### Post — @fransrosen — 2023-12-08 07:51 UTC (2023-12-08 08:51 WAT)
-
-- URL: https://x.com/fransrosen/status/1733031499702641081
-- Metrics (at fetch): bookmark 0, impression 3906, like 6, quote 0, reply 1, retweet 0
-
-> And @kinugawamasato smashes in the intended solution 🏸 very nice!
-
-
----
-
-## 2023-12-08 · Post · Less than an hour in and @shafigullin solves it, nicely done!
-
-
-### Post — @fransrosen — 2023-12-08 07:04 UTC (2023-12-08 08:04 WAT)
-
-- URL: https://x.com/fransrosen/status/1733019641067278528
-- Metrics (at fetch): bookmark 0, impression 4685, like 11, quote 0, reply 1, retweet 1
-
-> Less than an hour in and @shafigullin solves it, nicely done!
-
-
----
-
-## 2023-12-08 · Post · Here's an XSS-challenge taken from real life. Can you make it alert() on my origin? Send me your sol
+## 2023-12-08 · Thread · Here's an XSS-challenge taken from real life. Can you make it alert() on my origin? Send me your sol
 
 
 Tags (automatic): XSS
@@ -792,6 +595,118 @@ Tags (automatic): XSS
 > https://fransrosen.com/xss-chall-01-repl.html
 
 **Links in post:** https://fransrosen.com/xss-chall-01-repl.html
+
+
+### Thread part 2 — @fransrosen — 2023-12-08 07:04 UTC (2023-12-08 08:04 WAT)
+
+- URL: https://x.com/fransrosen/status/1733019641067278528
+- Metrics (at fetch): bookmark 0, impression 4685, like 11, quote 0, reply 1, retweet 1
+
+> Less than an hour in and @shafigullin solves it, nicely done!
+
+
+### Thread part 3 — @fransrosen — 2023-12-08 07:51 UTC (2023-12-08 08:51 WAT)
+
+- URL: https://x.com/fransrosen/status/1733031499702641081
+- Metrics (at fetch): bookmark 0, impression 3906, like 6, quote 0, reply 1, retweet 0
+
+> And @kinugawamasato smashes in the intended solution 🏸 very nice!
+
+
+### Thread part 4 — @fransrosen — 2023-12-08 07:53 UTC (2023-12-08 08:53 WAT)
+
+- URL: https://x.com/fransrosen/status/1733031948153393345
+- Metrics (at fetch): bookmark 0, impression 4420, like 7, quote 0, reply 1, retweet 0
+
+> So does @TheGrandPew! 🏹 Way to go!
+
+
+### Thread part 5 — @fransrosen — 2023-12-08 09:53 UTC (2023-12-08 10:53 WAT)
+
+- URL: https://x.com/fransrosen/status/1733062269498511672
+- Metrics (at fetch): bookmark 0, impression 4275, like 6, quote 0, reply 1, retweet 0
+
+> @kevin_mizu was next up solving it! ⛳️ Awesome!
+
+
+### Thread part 6 — @fransrosen — 2023-12-08 18:40 UTC (2023-12-08 19:40 WAT)
+
+- URL: https://x.com/fransrosen/status/1733194939515752823
+- Metrics (at fetch): bookmark 0, impression 3965, like 2, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 also found it! 🎣 Nice!
+
+
+### Thread part 7 — @fransrosen — 2023-12-09 15:32 UTC (2023-12-09 16:32 WAT)
+
+- URL: https://x.com/fransrosen/status/1733510002797601098
+- Metrics (at fetch): bookmark 0, impression 3336, like 1, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam also solved it! 🥏
+
+
+### Thread part 8 — @fransrosen — 2023-12-09 20:34 UTC (2023-12-09 21:34 WAT)
+
+- URL: https://x.com/fransrosen/status/1733586016122864077
+- Metrics (at fetch): bookmark 0, impression 3885, like 4, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam And @realansgar joins the crew, great job! 🏉
+
+
+### Thread part 9 — @fransrosen — 2023-12-10 20:20 UTC (2023-12-10 21:20 WAT)
+
+- URL: https://x.com/fransrosen/status/1733944883272880279
+- Metrics (at fetch): bookmark 2, impression 3480, like 2, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam @realansgar Hint: $
+
+
+### Thread part 10 — @fransrosen — 2023-12-11 07:18 UTC (2023-12-11 08:18 WAT)
+
+- URL: https://x.com/fransrosen/status/1734110425665458540
+- Metrics (at fetch): bookmark 0, impression 3171, like 3, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam @realansgar Next up, @BrunoModificato , correct solution! Sweet! 🥋
+
+
+### Thread part 11 — @fransrosen — 2023-12-11 16:37 UTC (2023-12-11 17:37 WAT)
+
+- URL: https://x.com/fransrosen/status/1734250999534022892
+- Metrics (at fetch): bookmark 0, impression 3164, like 7, quote 0, reply 1, retweet 2
+
+> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato As well as @sudhanshur705! Sweet! 🛹
+
+
+### Thread part 12 — @fransrosen — 2023-12-12 06:20 UTC (2023-12-12 07:20 WAT)
+
+- URL: https://x.com/fransrosen/status/1734458258411110890
+- Metrics (at fetch): bookmark 1, impression 2526, like 1, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 Another solver: @elieehel great job! 🎱
+
+
+### Thread part 13 — @fransrosen — 2023-12-12 15:22 UTC (2023-12-12 16:22 WAT)
+
+- URL: https://x.com/fransrosen/status/1734594609446093172
+- Metrics (at fetch): bookmark 1, impression 2611, like 2, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel Another one cracks the case, good job @0xSombra ! 🛼
+
+
+### Thread part 14 — @fransrosen — 2023-12-12 19:59 UTC (2023-12-12 20:59 WAT)
+
+- URL: https://x.com/fransrosen/status/1734664322696024498
+- Metrics (at fetch): bookmark 0, impression 4235, like 4, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel @0xSombra Another solver, @zakaria_ounissi, well done 🪂
+
+
+### Thread part 15 — @fransrosen — 2023-12-14 02:00 UTC (2023-12-14 03:00 WAT)
+
+- URL: https://x.com/fransrosen/status/1735117442383216941
+- Metrics (at fetch): bookmark 0, impression 3126, like 5, quote 0, reply 0, retweet 0
+
+> @kevin_mizu @maple3142 @taramtrampam @realansgar @BrunoModificato @sudhanshur705 @elieehel @0xSombra @zakaria_ounissi and @insertScript inserted a script as expected, nice one! 🥌
 
 
 ---
@@ -822,23 +737,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2023-10-26 · Post · This one is also gold https://t.co/2dFF7AM7zn
-
-
-### Post — @fransrosen — 2023-10-26 16:00 UTC (2023-10-26 17:00 WAT)
-
-- URL: https://x.com/fransrosen/status/1717571830720938087
-- Metrics (at fetch): bookmark 1, impression 6974, like 65, quote 0, reply 2, retweet 0
-
-> This one is also gold https://t.co/2dFF7AM7zn
-
-**Media:**
-- photo: https://pbs.twimg.com/media/F9YKec0XgAAc5wy.jpg — no alt text provided by author
-
-
----
-
-## 2023-10-26 · Post · What was the best reply you ever got from a program on a bug report? This one is up there: [pic.x.co
+## 2023-10-26 · Thread · What was the best reply you ever got from a program on a bug report? This one is up there: [pic.x.co
 
 
 ### Post — @fransrosen — 2023-10-26 15:53 UTC (2023-10-26 16:53 WAT)
@@ -850,6 +749,17 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F9YI9DdWAAAxm1I.jpg — no alt text provided by author
+
+
+### Thread part 2 — @fransrosen — 2023-10-26 16:00 UTC (2023-10-26 17:00 WAT)
+
+- URL: https://x.com/fransrosen/status/1717571830720938087
+- Metrics (at fetch): bookmark 1, impression 6974, like 65, quote 0, reply 2, retweet 0
+
+> This one is also gold https://t.co/2dFF7AM7zn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9YKec0XgAAc5wy.jpg — no alt text provided by author
 
 
 ---

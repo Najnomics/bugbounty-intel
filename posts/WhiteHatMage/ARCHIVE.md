@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 134
-- Conversations/threads: 128
+- Posts in this file: 139
+- Conversations/threads: 119
 - Oldest post captured: 2025-12-02
 - Newest post captured: 2026-11-10
 
@@ -25,20 +25,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-11-06 · Post · oh, I forgot to add the "NOT path:" to the last example  ...NOT path:test NOT path:mock
-
-
-### Post — @WhiteHatMage — 2026-11-06 15:31 UTC (2026-11-06 16:31 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/2118727892460789796
-- Metrics (at fetch): bookmark 0, impression 145, like 3, quote 0, reply 0, retweet 0
-
-> oh, I forgot to add the "NOT path:" to the last example  ...NOT path:test NOT path:mock
-
-
----
-
-## 2026-11-06 · Post · You can use full regular expressions on GitHub code search. I'd bet it wasn't available the last tim
+## 2026-11-06 · Thread · You can use full regular expressions on GitHub code search. I'd bet it wasn't available the last tim
 
 
 ### Post — @WhiteHatMage — 2026-11-06 15:16 UTC (2026-11-06 16:16 WAT)
@@ -51,6 +38,14 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 > Most projects upload their code to GH, so it's the best low-effort, indexed db.
 >
 > If you've got a pattern, you can quickly find other instances with a
+
+
+### Thread part 2 — @WhiteHatMage — 2026-11-06 15:31 UTC (2026-11-06 16:31 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2118727892460789796
+- Metrics (at fetch): bookmark 0, impression 145, like 3, quote 0, reply 0, retweet 0
+
+> oh, I forgot to add the "NOT path:" to the last example  ...NOT path:test NOT path:mock
 
 
 ---
@@ -209,10 +204,18 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2026-10-27 · Post · https://t.co/MEcdpI2G0Z
+## 2026-10-27 · Thread · Would you recommend web3 security as a career path in 2027 for a friend?
 
 
 ### Post — @WhiteHatMage — 2026-10-27 21:43 UTC (2026-10-27 22:43 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2115197786891358301
+- Metrics (at fetch): bookmark 8, impression 4230, like 51, quote 0, reply 12, retweet 2
+
+> Would you recommend web3 security as a career path in 2027 for a friend?
+
+
+### Thread part 2 — @WhiteHatMage — 2026-10-27 21:43 UTC (2026-10-27 22:43 WAT)
 
 - URL: https://x.com/WhiteHatMage/status/2115197789059612812
 - Metrics (at fetch): bookmark 1, impression 749, like 4, quote 0, reply 0, retweet 0
@@ -228,19 +231,6 @@ Tags (automatic): Smart contract / DeFi
     
     > Would you recommend web3 security as a career path in 2026 for a friend?
     
-
-
----
-
-## 2026-10-27 · Post · Would you recommend web3 security as a career path in 2027 for a friend?
-
-
-### Post — @WhiteHatMage — 2026-10-27 21:43 UTC (2026-10-27 22:43 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/2115197786891358301
-- Metrics (at fetch): bookmark 8, impression 4230, like 51, quote 0, reply 12, retweet 2
-
-> Would you recommend web3 security as a career path in 2027 for a friend?
 
 
 ---
@@ -617,7 +607,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-08-12 · Post · I love CTFs. They are the best way to train the attacker mindset needed for cyber security. But they
+## 2026-08-12 · Thread · I love CTFs. They are the best way to train the attacker mindset needed for cyber security. But they
 
 
 Tags (automatic): AI-assisted hunting
@@ -636,6 +626,14 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/HPjJ1jwXEAAx7iK.png — no alt text provided by author
 
 **Quoted post** 2087562125074133332: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @WhiteHatMage — 2026-08-12 21:15 UTC (2026-08-12 22:15 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2087649300138406200
+- Metrics (at fetch): bookmark 1, impression 850, like 29, quote 0, reply 1, retweet 1
+
+> The only person in the web3 space I've seen doing some actual research and not promoting a tool is @lonelysloth_sec.
 
 
 ---
@@ -799,7 +797,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-31 · Post · The only real cybersecurity problem is misaligned incentives. You set up a competition where the pri
+## 2026-07-31 · Thread · The only real cybersecurity problem is misaligned incentives. You set up a competition where the pri
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @WhiteHatMage — 2026-07-31 16:37 UTC (2026-07-31 17:37 WAT)
@@ -816,6 +817,16 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HOkb8L0bYAAFKcs.png — no alt text provided by author
+
+
+### Thread part 2 — @WhiteHatMage — 2026-07-31 16:37 UTC (2026-07-31 17:37 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2083230638954734083
+- Metrics (at fetch): bookmark 1, impression 847, like 18, quote 0, reply 0, retweet 0
+
+> AI doesn't solve it. 
+>
+> If you're using the same models, blackhats will just spend more tokens than you to find an edge case your tool missed.
 
 
 ---
@@ -949,25 +960,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2026-06-26 · Post · Here are some more:
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @WhiteHatMage — 2026-06-26 21:20 UTC (2026-06-26 22:20 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/2070618324204167223
-- Metrics (at fetch): bookmark 19, impression 1292, like 27, quote 0, reply 0, retweet 0
-
-> Here are some more:
->
-> - Check how the mempool works. It might have validations that prevent users from sending malicious txs, but those rules might not be enforced by the consensus mechanism. Look ways to inject that tx into a block (most likely via your own validator). Check if
-
-
----
-
-## 2026-06-26 · Post · If you're interested in catching chain halts, here are some ideas:
+## 2026-06-26 · Thread · If you're interested in catching chain halts, here are some ideas:
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -984,6 +977,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > - Check consensus invariants and how to break them -&gt; halt
 > - Check functions that should always succeed, but you find a way to make them fail or revert for everyone every time -&gt; halt
 > -
+
+
+### Thread part 2 — @WhiteHatMage — 2026-06-26 21:20 UTC (2026-06-26 22:20 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2070618324204167223
+- Metrics (at fetch): bookmark 19, impression 1292, like 27, quote 0, reply 0, retweet 0
+
+> Here are some more:
+>
+> - Check how the mempool works. It might have validations that prevent users from sending malicious txs, but those rules might not be enforced by the consensus mechanism. Look ways to inject that tx into a block (most likely via your own validator). Check if
 
 
 ---
@@ -1072,24 +1075,39 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2026-06-19 · Post · Security advisories might be the most reliable dataset. They cover all the mandatory points, and eas
+## 2026-06-19 · Thread · I believe reliability is the key here. But those data points could be weighted much less, and they m
 
 
-### Post — @WhiteHatMage — 2026-06-19 18:52 UTC (2026-06-19 19:52 WAT)
+Tags (automatic): AI-assisted hunting
 
-- URL: https://x.com/WhiteHatMage/status/2068044360730411461
-- Metrics (at fetch): bookmark 1, impression 625, like 5, quote 0, reply 1, retweet 0
 
-> Security advisories might be the most reliable dataset. They cover all the mandatory points, and easy to parse.
+### Post — @WhiteHatMage — 2026-06-19 18:57 UTC (2026-06-19 19:57 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2068045547139674552
+- Metrics (at fetch): bookmark 1, impression 962, like 10, quote 0, reply 1, retweet 0
+
+> I believe reliability is the key here. But those data points could be weighted much less, and they may still be useful.
 >
-> Then exploits, post-mortems, and bounty writeups. The hard part may be identifying the root cause as a diff.
+> It's hard to say when the output is binary: exploitable or not.
 >
-> Last place for audits. Not reliable. Hard to prove.
+> Although a exploitability range for a codebase [0,1] would be interesting.
+
+
+### Thread part 2 — @WhiteHatMage — 2026-06-19 19:02 UTC (2026-06-19 20:02 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2068046805070151959
+- Metrics (at fetch): bookmark 0, impression 635, like 2, quote 0, reply 2, retweet 0
+
+> The other problem with writeups, post-mortems, and audits is parsing and cleaning the data.
+>
+> They are intended for engagement, and specific readers.
+>
+> We just need the fix diff and the context to assess paths and validity. LLMs sound a good fit, but are they be reliable for this?
 
 
 ---
 
-## 2026-06-19 · Post · I'd love a curated db of vulnerabilities:
+## 2026-06-19 · Thread · I'd love a curated db of vulnerabilities:
 
 
 ### Post — @WhiteHatMage — 2026-06-19 17:34 UTC (2026-06-19 18:34 WAT)
@@ -1104,6 +1122,18 @@ Tags (automatic): Smart contract / DeFi
 > - Exploitable paths (not audit hallucinations)
 >
 > It's a harder problem than it looks.
+
+
+### Thread part 2 — @WhiteHatMage — 2026-06-19 18:52 UTC (2026-06-19 19:52 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2068044360730411461
+- Metrics (at fetch): bookmark 1, impression 625, like 5, quote 0, reply 1, retweet 0
+
+> Security advisories might be the most reliable dataset. They cover all the mandatory points, and easy to parse.
+>
+> Then exploits, post-mortems, and bounty writeups. The hard part may be identifying the root cause as a diff.
+>
+> Last place for audits. Not reliable. Hard to prove.
 
 
 ---
@@ -1293,7 +1323,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-05-29 · Post · Zcash is closing their bounty program because of the "growing volume of duplicate, low-signal, and s
+## 2026-05-29 · Thread · Zcash is closing their bounty program because of the "growing volume of duplicate, low-signal, and s
 
 
 Tags (automatic): AI-assisted hunting
@@ -1309,6 +1339,14 @@ Tags (automatic): AI-assisted hunting
 > Even though they've released a dozen security advisories just a few hours ago, which shows the program was actually working.
 >
 > I'm tired of the AI crap.
+
+
+### Thread part 2 — @WhiteHatMage — 2026-05-29 17:55 UTC (2026-05-29 18:55 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2060419726585504140
+- Metrics (at fetch): bookmark 4, impression 1019, like 8, quote 0, reply 0, retweet 0
+
+> https://t.co/J8Q2Solwq7
 
 
 ---
@@ -1865,7 +1903,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2026-03-05 · Thread · I'm surprised because I've never heard of any serious whitehat actively hunting on Sherlock.
 
 
-Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+Tags (automatic): Platform: HackerOne, Platform: Immunefi, Platform: HackenProof, Platform: Code4rena / Sherlock / Cantina
 
 
 ### Post — @WhiteHatMage — 2026-03-05 17:49 UTC (2026-03-05 18:49 WAT)
@@ -1882,25 +1920,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 **Quoted post** 2029581763337470363: not readable via the API (deleted, private, or withheld).
 
 
-### Thread part 2 — @WhiteHatMage — 2026-03-05 18:27 UTC (2026-03-05 19:27 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/2029624914928619704
-- Metrics (at fetch): bookmark 0, impression 1083, like 11, quote 0, reply 0, retweet 0
-
-> inb4 if you're hosting a competition, I'd surely recommend Sherlock. If you're in need of an audit, go with Blackthorn. Great auditors there.
->
-> But for bounties, I'd go with a provider that has a proven track record of attracting the top hunters you need to protect your live code.
-
-
----
-
-## 2026-03-05 · Post · And I'm not promoting Immunefi. 
-
-
-Tags (automatic): Platform: HackerOne, Platform: Immunefi, Platform: HackenProof, Platform: Code4rena / Sherlock / Cantina
-
-
-### Post — @WhiteHatMage — 2026-03-05 17:50 UTC (2026-03-05 18:50 WAT)
+### Thread part 2 — @WhiteHatMage — 2026-03-05 17:50 UTC (2026-03-05 18:50 WAT)
 
 - URL: https://x.com/WhiteHatMage/status/2029615655067038179
 - Metrics (at fetch): bookmark 4, impression 1339, like 28, quote 0, reply 1, retweet 0
@@ -1912,6 +1932,16 @@ Tags (automatic): Platform: HackerOne, Platform: Immunefi, Platform: HackenProof
 > It just feels so off.
 >
 > Bounties != Audits
+
+
+### Thread part 3 — @WhiteHatMage — 2026-03-05 18:27 UTC (2026-03-05 19:27 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2029624914928619704
+- Metrics (at fetch): bookmark 0, impression 1083, like 11, quote 0, reply 0, retweet 0
+
+> inb4 if you're hosting a competition, I'd surely recommend Sherlock. If you're in need of an audit, go with Blackthorn. Great auditors there.
+>
+> But for bounties, I'd go with a provider that has a proven track record of attracting the top hunters you need to protect your live code.
 
 
 ---
@@ -1981,24 +2011,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-02-12 · Post · I'm talking about Criticals that can cause billion-dollar losses.
-
-
-### Post — @WhiteHatMage — 2026-02-12 14:55 UTC (2026-02-12 15:55 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/2021961406367629544
-- Metrics (at fetch): bookmark 1, impression 1133, like 23, quote 0, reply 1, retweet 0
-
-> I'm talking about Criticals that can cause billion-dollar losses.
->
-> Whenever such a live vulnerability appears, it's more likely that the bad guys are going to catch it first if incentives are not aligned.
->
-> Also, as long as such vulnerability doesn't exist, you don't pay anything.
-
-
----
-
-## 2026-02-12 · Post · Hey @thedaofund, use the funds to actually secure Ethereum.
+## 2026-02-12 · Thread · Hey @thedaofund, use the funds to actually secure Ethereum.
 
 
 ### Post — @WhiteHatMage — 2026-02-12 14:49 UTC (2026-02-12 15:49 WAT)
@@ -2012,6 +2025,18 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HA9wLtFaYAAND7x.png — no alt text provided by author
+
+
+### Thread part 2 — @WhiteHatMage — 2026-02-12 14:55 UTC (2026-02-12 15:55 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2021961406367629544
+- Metrics (at fetch): bookmark 1, impression 1133, like 23, quote 0, reply 1, retweet 0
+
+> I'm talking about Criticals that can cause billion-dollar losses.
+>
+> Whenever such a live vulnerability appears, it's more likely that the bad guys are going to catch it first if incentives are not aligned.
+>
+> Also, as long as such vulnerability doesn't exist, you don't pay anything.
 
 
 ---
@@ -2272,24 +2297,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-12-16 · Post · Update: I'm an idiot, and once again I realized it after a long time creating a PoC.
-
-
-### Post — @WhiteHatMage — 2025-12-16 18:26 UTC (2025-12-16 19:26 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/2000995917453996365
-- Metrics (at fetch): bookmark 1, impression 797, like 16, quote 0, reply 4, retweet 0
-
-> Update: I'm an idiot, and once again I realized it after a long time creating a PoC.
->
-> The project fixed the issue on a recent commit, but never released it.
->
-> This doesn't happen with Criticals that are fixed ASAP. I hope this time it's a lesson learnt.
-
-
----
-
-## 2025-12-16 · Post · I look for Criticals and I keep finding Mediums/Highs on live code.
+## 2025-12-16 · Thread · I look for Criticals and I keep finding Mediums/Highs on live code.
 
 
 ### Post — @WhiteHatMage — 2025-12-16 17:58 UTC (2025-12-16 18:58 WAT)
@@ -2302,6 +2310,18 @@ Tags (automatic): Platform: Immunefi
 > And I know I will spend more time and energy on them, preventing me from finding epic issues.
 >
 > I still have to report those. I can't delegate them either. Not worth it.
+
+
+### Thread part 2 — @WhiteHatMage — 2025-12-16 18:26 UTC (2025-12-16 19:26 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2000995917453996365
+- Metrics (at fetch): bookmark 1, impression 797, like 16, quote 0, reply 4, retweet 0
+
+> Update: I'm an idiot, and once again I realized it after a long time creating a PoC.
+>
+> The project fixed the issue on a recent commit, but never released it.
+>
+> This doesn't happen with Criticals that are fixed ASAP. I hope this time it's a lesson learnt.
 
 
 ---
@@ -2319,24 +2339,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-12-10 · Post · If a project only gets a report at the end of an engagement, and nothing else, I'd say it's not mone
-
-
-### Post — @WhiteHatMage — 2025-12-10 16:26 UTC (2025-12-10 17:26 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/1998791456769847662
-- Metrics (at fetch): bookmark 4, impression 863, like 17, quote 0, reply 0, retweet 0
-
-> If a project only gets a report at the end of an engagement, and nothing else, I'd say it's not money well spent.
->
-> They should walk out of any audit with greater knowledge about the weaknesses of their systems, and where they should put extra attention.
->
-> Not just a bunch of fixes
-
-
----
-
-## 2025-12-10 · Post · All vulnerabilities in live code are trivial.
+## 2025-12-10 · Thread · All vulnerabilities in live code are trivial.
 
 
 ### Post — @WhiteHatMage — 2025-12-10 16:21 UTC (2025-12-10 17:21 WAT)
@@ -2351,6 +2354,18 @@ Tags (automatic): Platform: Immunefi
 > Audits would be better if they were actual security reviews, with defensive measures instead of bug hunting. https://t.co/B7ZYrTyvaj
 
 **Quoted post** 1998422395087122921: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @WhiteHatMage — 2025-12-10 16:26 UTC (2025-12-10 17:26 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1998791456769847662
+- Metrics (at fetch): bookmark 4, impression 863, like 17, quote 0, reply 0, retweet 0
+
+> If a project only gets a report at the end of an engagement, and nothing else, I'd say it's not money well spent.
+>
+> They should walk out of any audit with greater knowledge about the weaknesses of their systems, and where they should put extra attention.
+>
+> Not just a bunch of fixes
 
 
 ---
@@ -2407,24 +2422,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-12-06 · Post · Your security goal as a project with live code is to get whitehats engaged with your code for the lo
-
-
-### Post — @WhiteHatMage — 2025-12-06 12:19 UTC (2025-12-06 13:19 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/1997279702390845591
-- Metrics (at fetch): bookmark 2, impression 1521, like 23, quote 0, reply 0, retweet 4
-
-> Your security goal as a project with live code is to get whitehats engaged with your code for the long run.
->
-> Incentivize hunters to check the code with a good bounty. Attract them with any other policies.
->
-> Make it easy for them to discover your assets, and to run experiments.
-
-
----
-
-## 2025-12-06 · Post · The only relevant metric for a bug bounty program success is the hours that competent whitehats are 
+## 2025-12-06 · Thread · The only relevant metric for a bug bounty program success is the hours that competent whitehats are 
 
 
 ### Post — @WhiteHatMage — 2025-12-06 12:12 UTC (2025-12-06 13:12 WAT)
@@ -2439,6 +2437,18 @@ Tags (automatic): Platform: Immunefi
 > Number of reports, past payouts, number of fixes, number of page visits are irrelevant.
 >
 > You need to prevent the next exploit
+
+
+### Thread part 2 — @WhiteHatMage — 2025-12-06 12:19 UTC (2025-12-06 13:19 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1997279702390845591
+- Metrics (at fetch): bookmark 2, impression 1521, like 23, quote 0, reply 0, retweet 4
+
+> Your security goal as a project with live code is to get whitehats engaged with your code for the long run.
+>
+> Incentivize hunters to check the code with a good bounty. Attract them with any other policies.
+>
+> Make it easy for them to discover your assets, and to run experiments.
 
 
 ---
@@ -2483,29 +2493,10 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-12-02 · Post · It's not about getting bounties higher to get whitehats richer, or because they deserve it.
+## 2025-12-02 · Thread · Bounties are Low, and we got plenty of proof of it.
 
 
 Tags (automatic): Race condition
-
-
-### Post — @WhiteHatMage — 2025-12-02 14:35 UTC (2025-12-02 15:35 WAT)
-
-- URL: https://x.com/WhiteHatMage/status/1995864349723033755
-- Metrics (at fetch): bookmark 1, impression 1048, like 22, quote 0, reply 0, retweet 2
-
-> It's not about getting bounties higher to get whitehats richer, or because they deserve it.
->
-> It's a RACE.
->
-> Only one person will find the exploit that drains the TVL of your project.
->
-> You NEED to incentivize good actors ENOUGH to look at your code considering any risk factors.
-
-
----
-
-## 2025-12-02 · Post · Bounties are Low, and we got plenty of proof of it.
 
 
 ### Post — @WhiteHatMage — 2025-12-02 13:48 UTC (2025-12-02 14:48 WAT)
@@ -2518,3 +2509,17 @@ Tags (automatic): Race condition
 > It's just a matter of incentives on a system with asymmetric rewards.
 >
 > With the huge TVL values we have today, and the low bounty amounts, there are more blackhats looking at your live code than whitehats.
+
+
+### Thread part 2 — @WhiteHatMage — 2025-12-02 14:35 UTC (2025-12-02 15:35 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1995864349723033755
+- Metrics (at fetch): bookmark 1, impression 1048, like 22, quote 0, reply 0, retweet 2
+
+> It's not about getting bounties higher to get whitehats richer, or because they deserve it.
+>
+> It's a RACE.
+>
+> Only one person will find the exploit that drains the TVL of your project.
+>
+> You NEED to incentivize good actors ENOUGH to look at your code considering any risk factors.

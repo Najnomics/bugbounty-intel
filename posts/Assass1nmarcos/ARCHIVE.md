@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 123
-- Conversations/threads: 104
+- Conversations/threads: 103
 - Oldest post captured: 2018-11-24
 - Newest post captured: 2026-11-03
 
@@ -688,28 +688,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2026-07-08 · Post · ….It’s a subdomain takeover which is OOS in policy? Really which kind of fraud is this ? By BOLA I h
-
-
-Tags (automatic): IDOR / BOLA
-
-
-### Post — @Assass1nmarcos — 2026-07-08 15:00 UTC (2026-07-08 16:00 WAT)
-
-- URL: https://x.com/Assass1nmarcos/status/2074871180897784022
-- Metrics (at fetch): bookmark 1, impression 5006, like 17, quote 0, reply 2, retweet 0
-
-> ….It’s a subdomain takeover which is OOS in policy? Really which kind of fraud is this ? By BOLA I have all endpoints in control so marking it subdomain takeover just to avoid rewarding a bounty ? Please see the HAI summary &amp; the triager response.(screenshots) https://t.co/rayqZOSBTT
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HMtsVUDaYAA_uqr.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HMtsVUKaoAE5kfL.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HMtsVUIbYAEB9uC.jpg — no alt text provided by author
-
-
----
-
-## 2026-07-08 · Post · Hello @Hacker0x01,
+## 2026-07-08 · Thread · Hello @Hacker0x01,
 
 
 Tags (automatic): IDOR / BOLA, Platform: HackerOne
@@ -723,6 +702,19 @@ Tags (automatic): IDOR / BOLA, Platform: HackerOne
 > Hello @Hacker0x01,
 >
 >  I never reached out to HackerOne like this @jobertabma , But now i need to as I would like you know that I reported a P1 BOLA on an API of one of biggest cyber security Firm on inscope asset and a triager came and mark it informative and wrote….
+
+
+### Thread part 2 — @Assass1nmarcos — 2026-07-08 15:00 UTC (2026-07-08 16:00 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2074871180897784022
+- Metrics (at fetch): bookmark 1, impression 5006, like 17, quote 0, reply 2, retweet 0
+
+> ….It’s a subdomain takeover which is OOS in policy? Really which kind of fraud is this ? By BOLA I have all endpoints in control so marking it subdomain takeover just to avoid rewarding a bounty ? Please see the HAI summary &amp; the triager response.(screenshots) https://t.co/rayqZOSBTT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMtsVUDaYAA_uqr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HMtsVUKaoAE5kfL.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HMtsVUIbYAEB9uC.jpg — no alt text provided by author
 
 
 ---

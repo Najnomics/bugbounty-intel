@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 68
-- Conversations/threads: 65
+- Conversations/threads: 63
 - Oldest post captured: 2023-08-19
 - Newest post captured: 2026-03-12
 
@@ -825,20 +825,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2025-05-09 · Post · [1] - https://t.co/InAgWRIUVz
-
-
-### Post — @Guhu95 — 2025-05-09 07:15 UTC (2025-05-09 08:15 WAT)
-
-- URL: https://x.com/Guhu95/status/1920739502244397134
-- Metrics (at fetch): bookmark 1, impression 377, like 1, quote 0, reply 0, retweet 0
-
-> [1] - https://t.co/InAgWRIUVz
-
-
----
-
-## 2025-05-09 · Post · "Stack too deep" makes you write better code. "Code is read more than it's written", especially Soli
+## 2025-05-09 · Thread · "Stack too deep" makes you write better code. "Code is read more than it's written", especially Soli
 
 
 Tags (automatic): Smart contract / DeFi
@@ -859,26 +846,17 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/GqfV4O2WgAAEct9.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @Guhu95 — 2025-05-09 07:15 UTC (2025-05-09 08:15 WAT)
 
-## 2025-05-01 · Post · To clarify: this is not me complaining, venting, or being negative.
+- URL: https://x.com/Guhu95/status/1920739502244397134
+- Metrics (at fetch): bookmark 1, impression 377, like 1, quote 0, reply 0, retweet 0
 
-
-### Post — @Guhu95 — 2025-05-01 08:51 UTC (2025-05-01 09:51 WAT)
-
-- URL: https://x.com/Guhu95/status/1917864472418615520
-- Metrics (at fetch): bookmark 0, impression 622, like 10, quote 0, reply 0, retweet 0
-
-> To clarify: this is not me complaining, venting, or being negative.
->
-> I'm suggesting a mental model I find more helpful, and pointing out similarities. 
->
-> Contests are great, here to stay, people are doing their best, and as a whole provide a lot of value for literally everyone. I
+> [1] - https://t.co/InAgWRIUVz
 
 
 ---
 
-## 2025-05-01 · Post · Audit contests are just a spectator sport. That's the only sane way to treat them. Proof:
+## 2025-05-01 · Thread · Audit contests are just a spectator sport. That's the only sane way to treat them. Proof:
 
 
 ### Post — @Guhu95 — 2025-05-01 06:05 UTC (2025-05-01 07:05 WAT)
@@ -896,6 +874,18 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - animated_gif:  — no alt text provided by author
+
+
+### Thread part 2 — @Guhu95 — 2025-05-01 08:51 UTC (2025-05-01 09:51 WAT)
+
+- URL: https://x.com/Guhu95/status/1917864472418615520
+- Metrics (at fetch): bookmark 0, impression 622, like 10, quote 0, reply 0, retweet 0
+
+> To clarify: this is not me complaining, venting, or being negative.
+>
+> I'm suggesting a mental model I find more helpful, and pointing out similarities. 
+>
+> Contests are great, here to stay, people are doing their best, and as a whole provide a lot of value for literally everyone. I
 
 
 ---

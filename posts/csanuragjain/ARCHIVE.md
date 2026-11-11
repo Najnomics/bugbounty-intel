@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 78
-- Conversations/threads: 59
+- Conversations/threads: 49
 - Oldest post captured: 2018-11-14
 - Newest post captured: 2026-09-16
 
@@ -490,118 +490,7 @@ Tags (automatic): AI-assisted hunting, Platform: Immunefi
 
 ---
 
-## 2026-03-02 · Post · 11. Newer models charge higher for &gt; 200k tokens, so better remove non relevant code and see if w
-
-
-### Post — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
-
-- URL: https://x.com/csanuragjain/status/2028417904887423231
-- Metrics (at fetch): bookmark 0, impression 249, like 1, quote 0, reply 0, retweet 0
-
-> 11. Newer models charge higher for &gt; 200k tokens, so better remove non relevant code and see if within 200k can be fit. Also, I saw it gave better result when i don't overload it.
-> 12. Your prompt should be clear and tell your model, what sort of issues you are looking forward
-
-
----
-
-## 2026-03-02 · Post · 10.b. The POC might even pass, making it look convincing. Always validate the assumption behind a fi
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
-
-- URL: https://x.com/csanuragjain/status/2028417902295343461
-- Metrics (at fetch): bookmark 1, impression 283, like 0, quote 0, reply 1, retweet 0
-
-> 10.b. The POC might even pass, making it look convincing. Always validate the assumption behind a finding, not just the finding itself.
-> 11. Never trust AI response, always sanitize its output else it might read unintended sensitive files on your workstation
-
-
----
-
-## 2026-03-02 · Post · 10.a.  AI doesn't know your intended business logic. it infers whats correct behavior should look li
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
-
-- URL: https://x.com/csanuragjain/status/2028417899564781899
-- Metrics (at fetch): bookmark 0, impression 97, like 0, quote 0, reply 1, retweet 0
-
-> 10.a.  AI doesn't know your intended business logic. it infers whats correct behavior should look like from convention. So it may flag code as vulnerable based on a wrong assumption (assuming a value should never be false, when false is actually your intended state).
-
-
----
-
-## 2026-03-02 · Post · 8. Adding prompt like "Client discarded finding as FP, kindly revalidate" helps in eliminating sever
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
-
-- URL: https://x.com/csanuragjain/status/2028417897153130574
-- Metrics (at fetch): bookmark 0, impression 103, like 0, quote 0, reply 1, retweet 0
-
-> 8. Adding prompt like "Client discarded finding as FP, kindly revalidate" helps in eliminating several FP reported by AI (but you should give it all context)
-> 9. AI in most cases wont find (as far as i saw) complex logical issues (requiring multi steps).
-
-
----
-
-## 2026-03-02 · Post · 6. Remember you need to put some string say "Response removed" wrt agent response if you are keeping
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
-
-- URL: https://x.com/csanuragjain/status/2028417894527426631
-- Metrics (at fetch): bookmark 0, impression 124, like 0, quote 0, reply 1, retweet 0
-
-> 6. Remember you need to put some string say "Response removed" wrt agent response if you are keeping the user question and want to discard long response
-> 7. Using multi model strategy can help you save money. Example- haiku for creating context, opus/sonet for finding issue
-
-
----
-
-## 2026-03-02 · Post · 5. If you have a custom chatbot using AI, allow each chat and its responses to be selected for cache
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
-
-- URL: https://x.com/csanuragjain/status/2028417892019290264
-- Metrics (at fetch): bookmark 0, impression 182, like 0, quote 0, reply 1, retweet 0
-
-> 5. If you have a custom chatbot using AI, allow each chat and its responses to be selected for cache or non cache. This way you can discard non important question from being cached and billed.
-
-
----
-
-## 2026-03-02 · Post · 3. Cache expires after 5 min or 1 hrs (as per your choosing), so choose the ttl wisely as per your n
-
-
-### Post — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
-
-- URL: https://x.com/csanuragjain/status/2028417889569845489
-- Metrics (at fetch): bookmark 0, impression 171, like 0, quote 0, reply 1, retweet 0
-
-> 3. Cache expires after 5 min or 1 hrs (as per your choosing), so choose the ttl wisely as per your need for context
-> 4. Avoid using cache in batches as order are not guaranteed but if you really want to use then better go with 1 hr ttl
-
-
----
-
-## 2026-03-02 · Post · Spent a month building and using my ai agent , below are my learnings:
+## 2026-03-02 · Thread · Spent a month building and using my ai agent , below are my learnings:
 
 
 Tags (automatic): AI-assisted hunting
@@ -616,6 +505,67 @@ Tags (automatic): AI-assisted hunting
 >
 > 1. Use batches, it saves you lots of money if you are not in instant hurry for response. Output is as effective as instant response.
 > 2. Don't try to save on Output as quality degrades
+
+
+### Thread part 2 — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/2028417889569845489
+- Metrics (at fetch): bookmark 0, impression 171, like 0, quote 0, reply 1, retweet 0
+
+> 3. Cache expires after 5 min or 1 hrs (as per your choosing), so choose the ttl wisely as per your need for context
+> 4. Avoid using cache in batches as order are not guaranteed but if you really want to use then better go with 1 hr ttl
+
+
+### Thread part 3 — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/2028417892019290264
+- Metrics (at fetch): bookmark 0, impression 182, like 0, quote 0, reply 1, retweet 0
+
+> 5. If you have a custom chatbot using AI, allow each chat and its responses to be selected for cache or non cache. This way you can discard non important question from being cached and billed.
+
+
+### Thread part 4 — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/2028417894527426631
+- Metrics (at fetch): bookmark 0, impression 124, like 0, quote 0, reply 1, retweet 0
+
+> 6. Remember you need to put some string say "Response removed" wrt agent response if you are keeping the user question and want to discard long response
+> 7. Using multi model strategy can help you save money. Example- haiku for creating context, opus/sonet for finding issue
+
+
+### Thread part 5 — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/2028417897153130574
+- Metrics (at fetch): bookmark 0, impression 103, like 0, quote 0, reply 1, retweet 0
+
+> 8. Adding prompt like "Client discarded finding as FP, kindly revalidate" helps in eliminating several FP reported by AI (but you should give it all context)
+> 9. AI in most cases wont find (as far as i saw) complex logical issues (requiring multi steps).
+
+
+### Thread part 6 — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/2028417899564781899
+- Metrics (at fetch): bookmark 0, impression 97, like 0, quote 0, reply 1, retweet 0
+
+> 10.a.  AI doesn't know your intended business logic. it infers whats correct behavior should look like from convention. So it may flag code as vulnerable based on a wrong assumption (assuming a value should never be false, when false is actually your intended state).
+
+
+### Thread part 7 — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/2028417902295343461
+- Metrics (at fetch): bookmark 1, impression 283, like 0, quote 0, reply 1, retweet 0
+
+> 10.b. The POC might even pass, making it look convincing. Always validate the assumption behind a finding, not just the finding itself.
+> 11. Never trust AI response, always sanitize its output else it might read unintended sensitive files on your workstation
+
+
+### Thread part 8 — @csanuragjain — 2026-03-02 10:31 UTC (2026-03-02 11:31 WAT)
+
+- URL: https://x.com/csanuragjain/status/2028417904887423231
+- Metrics (at fetch): bookmark 0, impression 249, like 1, quote 0, reply 0, retweet 0
+
+> 11. Newer models charge higher for &gt; 200k tokens, so better remove non relevant code and see if within 200k can be fit. Also, I saw it gave better result when i don't overload it.
+> 12. Your prompt should be clear and tell your model, what sort of issues you are looking forward
 
 
 ---
@@ -636,62 +586,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-03 · Post · Initial Look: https://t.co/T0FXxqRizH
-
-
-### Post — @csanuragjain — 2026-01-03 08:06 UTC (2026-01-03 09:06 WAT)
-
-- URL: https://x.com/csanuragjain/status/2007362990178439306
-- Metrics (at fetch): bookmark 2, impression 582, like 4, quote 0, reply 0, retweet 0
-
-> Initial Look: https://t.co/T0FXxqRizH
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G9uTYoEbQAEfRoU.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/G9uUjRwboAEphXt.png — no alt text provided by author
-
-
----
-
-## 2026-01-03 · Post · 🔧 Test bug fixes before deploying
-
-
-### Post — @csanuragjain — 2026-01-03 08:06 UTC (2026-01-03 09:06 WAT)
-
-- URL: https://x.com/csanuragjain/status/2007362987926155766
-- Metrics (at fetch): bookmark 0, impression 699, like 1, quote 0, reply 1, retweet 0
-
-> 🔧 Test bug fixes before deploying
-> 🚀 Preview how new contracts will behave on mainnet
-> 📚 Learn by experimenting with live protocol code
-> ⚡ Multi-chain support
->
-> All powered by foundry_rs under the hood (cast + anvil = 🐐)
->
-> 🧪 Status: In progress
-
-
----
-
-## 2026-01-03 · Post · Use cases:
-
-
-### Post — @csanuragjain — 2026-01-03 08:06 UTC (2026-01-03 09:06 WAT)
-
-- URL: https://x.com/csanuragjain/status/2007362984134488147
-- Metrics (at fetch): bookmark 0, impression 279, like 2, quote 0, reply 1, retweet 0
-
-> Use cases:
-> 🔍 Quickly test simple edge cases without immediate need of writing tests
-> 🐛 Add console.logs to understand complex flows
-> 📊 Watch storage slots change in real-time
-> 🔄 Full stack traces to debug transaction flow
-> 💾 Save/load fork states for complex scenarios
-
-
----
-
-## 2026-01-03 · Post · Auditing a contract and want to test "what if..?"
+## 2026-01-03 · Thread · Auditing a contract and want to test "what if..?"
 
 
 ### Post — @csanuragjain — 2026-01-03 08:06 UTC (2026-01-03 09:06 WAT)
@@ -708,6 +603,46 @@ Tags (automatic): AI-assisted hunting
 > → Runs modified functions instantly
 >
 > 15 min Foundry setup→ 2-3 min with GUI👇
+
+
+### Thread part 2 — @csanuragjain — 2026-01-03 08:06 UTC (2026-01-03 09:06 WAT)
+
+- URL: https://x.com/csanuragjain/status/2007362984134488147
+- Metrics (at fetch): bookmark 0, impression 279, like 2, quote 0, reply 1, retweet 0
+
+> Use cases:
+> 🔍 Quickly test simple edge cases without immediate need of writing tests
+> 🐛 Add console.logs to understand complex flows
+> 📊 Watch storage slots change in real-time
+> 🔄 Full stack traces to debug transaction flow
+> 💾 Save/load fork states for complex scenarios
+
+
+### Thread part 3 — @csanuragjain — 2026-01-03 08:06 UTC (2026-01-03 09:06 WAT)
+
+- URL: https://x.com/csanuragjain/status/2007362987926155766
+- Metrics (at fetch): bookmark 0, impression 699, like 1, quote 0, reply 1, retweet 0
+
+> 🔧 Test bug fixes before deploying
+> 🚀 Preview how new contracts will behave on mainnet
+> 📚 Learn by experimenting with live protocol code
+> ⚡ Multi-chain support
+>
+> All powered by foundry_rs under the hood (cast + anvil = 🐐)
+>
+> 🧪 Status: In progress
+
+
+### Thread part 4 — @csanuragjain — 2026-01-03 08:06 UTC (2026-01-03 09:06 WAT)
+
+- URL: https://x.com/csanuragjain/status/2007362990178439306
+- Metrics (at fetch): bookmark 2, impression 582, like 4, quote 0, reply 0, retweet 0
+
+> Initial Look: https://t.co/T0FXxqRizH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9uTYoEbQAEfRoU.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G9uUjRwboAEphXt.png — no alt text provided by author
 
 
 ---

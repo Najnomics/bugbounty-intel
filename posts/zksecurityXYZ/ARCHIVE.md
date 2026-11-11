@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 137
-- Conversations/threads: 117
+- Conversations/threads: 96
 - Oldest post captured: 2023-07-02
 - Newest post captured: 2026-11-05
 
@@ -246,20 +246,7 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
-## 2026-10-21 · Post · forgot the tags! @rotn256 @g_dellimmagine @nico_mnbl @kobigurk and here's clean https://t.co/SfZkxsc
-
-
-### Post — @zksecurityXYZ — 2026-10-21 14:21 UTC (2026-10-21 15:21 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2112912196623581419
-- Metrics (at fetch): bookmark 0, impression 305, like 1, quote 0, reply 0, retweet 0
-
-> forgot the tags! @rotn256 @g_dellimmagine @nico_mnbl @kobigurk and here's clean https://t.co/SfZkxscLRp
-
-
----
-
-## 2026-10-21 · Post · we packed the last zk podcast with zksecurity folks! mathias, giorgio, nico, and kobi talk about our
+## 2026-10-21 · Thread · we packed the last zk podcast with zksecurity folks! mathias, giorgio, nico, and kobi talk about our
 
 
 Tags (automatic): ZK
@@ -275,35 +262,17 @@ Tags (automatic): ZK
 **Links in post:** https://zk.golf
 
 
----
+### Thread part 2 — @zksecurityXYZ — 2026-10-21 14:21 UTC (2026-10-21 15:21 WAT)
 
-## 2026-10-16 · Post · @cryptodavidw @schaliasosvons @mellowcroc @kobigurk youtube link: https://t.co/eNniRTGfg0
+- URL: https://x.com/zksecurityXYZ/status/2112912196623581419
+- Metrics (at fetch): bookmark 0, impression 305, like 1, quote 0, reply 0, retweet 0
 
-
-### Post — @zksecurityXYZ — 2026-10-16 02:55 UTC (2026-10-16 03:55 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2110927674189500789
-- Metrics (at fetch): bookmark 0, impression 547, like 3, quote 0, reply 0, retweet 0
-
-> @cryptodavidw @schaliasosvons @mellowcroc @kobigurk youtube link: https://t.co/eNniRTGfg0
+> forgot the tags! @rotn256 @g_dellimmagine @nico_mnbl @kobigurk and here's clean https://t.co/SfZkxscLRp
 
 
 ---
 
-## 2026-10-16 · Post · with appearances from @cryptodavidw, @schaliasosvons, @mellowcroc, and @kobigurk!
-
-
-### Post — @zksecurityXYZ — 2026-10-16 02:55 UTC (2026-10-16 03:55 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2110927635802919051
-- Metrics (at fetch): bookmark 0, impression 507, like 9, quote 0, reply 3, retweet 0
-
-> with appearances from @cryptodavidw, @schaliasosvons, @mellowcroc, and @kobigurk!
-
-
----
-
-## 2026-10-16 · Post · We're proud to announce the release of zkao version 3, the most powerful zkao update we've released 
+## 2026-10-16 · Thread · We're proud to announce the release of zkao version 3, the most powerful zkao update we've released 
 
 
 Tags (automatic): ZK
@@ -320,6 +289,22 @@ Tags (automatic): ZK
 - video: https://pbs.twimg.com/amplify_video_thumb/2110926132686024704/img/qebXAZ-xeXfkkDGw.jpg — no alt text provided by author
 
 **Links in post:** https://www.zkao.io
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-10-16 02:55 UTC (2026-10-16 03:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2110927635802919051
+- Metrics (at fetch): bookmark 0, impression 507, like 9, quote 0, reply 3, retweet 0
+
+> with appearances from @cryptodavidw, @schaliasosvons, @mellowcroc, and @kobigurk!
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-10-16 02:55 UTC (2026-10-16 03:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2110927674189500789
+- Metrics (at fetch): bookmark 0, impression 547, like 3, quote 0, reply 0, retweet 0
+
+> @cryptodavidw @schaliasosvons @mellowcroc @kobigurk youtube link: https://t.co/eNniRTGfg0
 
 
 ---
@@ -602,33 +587,61 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2026-08-10 · Post · Fuzzing gives weaker guarantees than formal verification, but it runs cheaply across many zkVMs at o
+## 2026-08-10 · Thread · We just released zkvmBlast: a zkVM-agnostic differential fuzzer for RISC-V zkVMs.
 
 
-Tags (automatic): ZK, Memory corruption / native
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK, Memory corruption / native
 
 
 ### Post — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
 
-- URL: https://x.com/zksecurityXYZ/status/2086844712053338512
-- Metrics (at fetch): bookmark 1, impression 182, like 3, quote 0, reply 0, retweet 0
+- URL: https://x.com/zksecurityXYZ/status/2086844702611980760
+- Metrics (at fetch): bookmark 19, impression 3703, like 67, quote 0, reply 3, retweet 10
 
-> Fuzzing gives weaker guarantees than formal verification, but it runs cheaply across many zkVMs at once and catches what soundness proofs leave uncovered. Point it at your zkVM, run it in CI.
+> We just released zkvmBlast: a zkVM-agnostic differential fuzzer for RISC-V zkVMs.
+> One program, run across SP1, RISC0, OpenVM, Pico, Zisk and Airbender plus a reference simulator. Every disagreement is a bug lead.
+> Partially funded by the @ethereumfndn
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2086844704075780525
+- Metrics (at fetch): bookmark 0, impression 455, like 4, quote 0, reply 1, retweet 0
+
+> The EF is pushing the snarkification of Ethereum, where an ordinary L1 block carries a validity proof.
+> Once that gets integrated, zkVM correctness stops being an application concern and becomes a protocol concern. A bug in a zkVM is a bug in Ethereum.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2086844705736708130
+- Metrics (at fetch): bookmark 0, impression 369, like 2, quote 0, reply 1, retweet 0
+
+> Everyone hunts soundness bugs, where a malicious prover proves something false. Rightly so.
+> We leaned into the other direction: completeness. A valid block, executed cleanly by every node, that the prover simply cannot prove because it touched an instruction edge case. No proof
+
+
+### Thread part 4 — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2086844707301191758
+- Metrics (at fetch): bookmark 0, impression 133, like 1, quote 0, reply 1, retweet 0
+
+> This gap is not hypothetical. When Succinct and Nethermind formally verified the core of SP1 Hypercube, they established soundness for the RV64 opcodes and set completeness aside.
+> A misaligned-target JALR bug fell straight through it. The EF called it “a completeness bug which,
+
+
+### Thread part 5 — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2086844708844654765
+- Metrics (at fetch): bookmark 0, impression 115, like 1, quote 0, reply 1, retweet 0
+
+> How zkvmBlast works, three decoupled parts:
 >
-> Repo: https://t.co/HMYDrLHQtj
-> Seeds: https://t.co/5shsFF6dtK
-> Post:
+> * Program sources: mutated real-world Rust, our zkRustSmith fork, full Reth blocks in the guest, Cascade-style RV32IM, an SPE-variant for RISC-V, and a RISC-V spec-isolation corpus
+> * Executors: every zkVM side by side either via Ere
 
 
----
-
-## 2026-08-10 · Post · An example finding, is those three lines of assembly:
-
-
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
+### Thread part 6 — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/2086844710480449806
 - Metrics (at fetch): bookmark 0, impression 185, like 2, quote 0, reply 1, retweet 0
@@ -642,89 +655,16 @@ Tags (automatic): ZK
 > The spec fixes x0 at zero, so the write is discarded and Spike halts cleanly. But a prover computing the raw ALU result on one chip while constraining x0 to zero on another gets an
 
 
----
+### Thread part 7 — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
 
-## 2026-08-10 · Post · How zkvmBlast works, three decoupled parts:
+- URL: https://x.com/zksecurityXYZ/status/2086844712053338512
+- Metrics (at fetch): bookmark 1, impression 182, like 3, quote 0, reply 0, retweet 0
 
-
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2086844708844654765
-- Metrics (at fetch): bookmark 0, impression 115, like 1, quote 0, reply 1, retweet 0
-
-> How zkvmBlast works, three decoupled parts:
+> Fuzzing gives weaker guarantees than formal verification, but it runs cheaply across many zkVMs at once and catches what soundness proofs leave uncovered. Point it at your zkVM, run it in CI.
 >
-> * Program sources: mutated real-world Rust, our zkRustSmith fork, full Reth blocks in the guest, Cascade-style RV32IM, an SPE-variant for RISC-V, and a RISC-V spec-isolation corpus
-> * Executors: every zkVM side by side either via Ere
-
-
----
-
-## 2026-08-10 · Post · This gap is not hypothetical. When Succinct and Nethermind formally verified the core of SP1 Hypercu
-
-
-### Post — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2086844707301191758
-- Metrics (at fetch): bookmark 0, impression 133, like 1, quote 0, reply 1, retweet 0
-
-> This gap is not hypothetical. When Succinct and Nethermind formally verified the core of SP1 Hypercube, they established soundness for the RV64 opcodes and set completeness aside.
-> A misaligned-target JALR bug fell straight through it. The EF called it “a completeness bug which,
-
-
----
-
-## 2026-08-10 · Post · Everyone hunts soundness bugs, where a malicious prover proves something false. Rightly so.
-
-
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2086844705736708130
-- Metrics (at fetch): bookmark 0, impression 369, like 2, quote 0, reply 1, retweet 0
-
-> Everyone hunts soundness bugs, where a malicious prover proves something false. Rightly so.
-> We leaned into the other direction: completeness. A valid block, executed cleanly by every node, that the prover simply cannot prove because it touched an instruction edge case. No proof
-
-
----
-
-## 2026-08-10 · Post · The EF is pushing the snarkification of Ethereum, where an ordinary L1 block carries a validity proo
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge, ZK
-
-
-### Post — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2086844704075780525
-- Metrics (at fetch): bookmark 0, impression 455, like 4, quote 0, reply 1, retweet 0
-
-> The EF is pushing the snarkification of Ethereum, where an ordinary L1 block carries a validity proof.
-> Once that gets integrated, zkVM correctness stops being an application concern and becomes a protocol concern. A bug in a zkVM is a bug in Ethereum.
-
-
----
-
-## 2026-08-10 · Post · We just released zkvmBlast: a zkVM-agnostic differential fuzzer for RISC-V zkVMs.
-
-
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-08-10 15:58 UTC (2026-08-10 16:58 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2086844702611980760
-- Metrics (at fetch): bookmark 19, impression 3703, like 67, quote 0, reply 3, retweet 10
-
-> We just released zkvmBlast: a zkVM-agnostic differential fuzzer for RISC-V zkVMs.
-> One program, run across SP1, RISC0, OpenVM, Pico, Zisk and Airbender plus a reference simulator. Every disagreement is a bug lead.
-> Partially funded by the @ethereumfndn
+> Repo: https://t.co/HMYDrLHQtj
+> Seeds: https://t.co/5shsFF6dtK
+> Post:
 
 
 ---
@@ -765,30 +705,33 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
-## 2026-08-06 · Post · We evaluated it on zkbugs, our benchmark of real Circom vulnerabilities, against 6 existing security
+## 2026-08-06 · Thread · We just released zk-skills: open-source security skills for AI coding agents, starting with circom-a
 
 
-Tags (automatic): ZK, AI-assisted hunting
-
-
-### Post — @zksecurityXYZ — 2026-08-06 14:32 UTC (2026-08-06 15:32 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2085373549976449508
-- Metrics (at fetch): bookmark 0, impression 195, like 2, quote 0, reply 1, retweet 0
-
-> We evaluated it on zkbugs, our benchmark of real Circom vulnerabilities, against 6 existing security tools (Picus, Ecne, Civer, ConsCS, Circomspect, zkFuzz).
-> To prevent the agents from cheating we removed git history and disabled web access.
-
-
----
-
-## 2026-08-06 · Post · circom-auditor works with both Claude Code and Codex.
-
-
-Tags (automatic): ZK, AI-assisted hunting
+Tags (automatic): Smart contract / DeFi, ZK, Memory corruption / native, AI-assisted hunting
 
 
 ### Post — @zksecurityXYZ — 2026-08-06 14:32 UTC (2026-08-06 15:32 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2085373545501139215
+- Metrics (at fetch): bookmark 35, impression 4388, like 76, quote 1, reply 6, retweet 14
+
+> We just released zk-skills: open-source security skills for AI coding agents, starting with circom-auditor, a first line of defense for finding vulnerabilities in Circom circuits.
+>
+> Partially funded through the Ethereum Security QF round (@Giveth). Big thanks to @TheDAOfund,
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-08-06 14:32 UTC (2026-08-06 15:32 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2085373546918776848
+- Metrics (at fetch): bookmark 1, impression 478, like 5, quote 0, reply 1, retweet 0
+
+> ZK development was missing what smart contract security already has: something cheap and fast you can run on your own code before anyone else looks at it.
+>
+> @PashovAuditGrp’s skills paved the way there. zk-skills is directly inspired by their work, now for ZK.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-08-06 14:32 UTC (2026-08-06 15:32 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/2085373548256714866
 - Metrics (at fetch): bookmark 0, impression 346, like 4, quote 0, reply 1, retweet 0
@@ -800,40 +743,13 @@ Tags (automatic): ZK, AI-assisted hunting
 > Findings then go through
 
 
----
+### Thread part 4 — @zksecurityXYZ — 2026-08-06 14:32 UTC (2026-08-06 15:32 WAT)
 
-## 2026-08-06 · Post · ZK development was missing what smart contract security already has: something cheap and fast you ca
+- URL: https://x.com/zksecurityXYZ/status/2085373549976449508
+- Metrics (at fetch): bookmark 0, impression 195, like 2, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): Smart contract / DeFi, ZK, Memory corruption / native
-
-
-### Post — @zksecurityXYZ — 2026-08-06 14:32 UTC (2026-08-06 15:32 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2085373546918776848
-- Metrics (at fetch): bookmark 1, impression 478, like 5, quote 0, reply 1, retweet 0
-
-> ZK development was missing what smart contract security already has: something cheap and fast you can run on your own code before anyone else looks at it.
->
-> @PashovAuditGrp’s skills paved the way there. zk-skills is directly inspired by their work, now for ZK.
-
-
----
-
-## 2026-08-06 · Post · We just released zk-skills: open-source security skills for AI coding agents, starting with circom-a
-
-
-Tags (automatic): ZK, AI-assisted hunting
-
-
-### Post — @zksecurityXYZ — 2026-08-06 14:32 UTC (2026-08-06 15:32 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2085373545501139215
-- Metrics (at fetch): bookmark 35, impression 4388, like 76, quote 1, reply 6, retweet 14
-
-> We just released zk-skills: open-source security skills for AI coding agents, starting with circom-auditor, a first line of defense for finding vulnerabilities in Circom circuits.
->
-> Partially funded through the Ethereum Security QF round (@Giveth). Big thanks to @TheDAOfund,
+> We evaluated it on zkbugs, our benchmark of real Circom vulnerabilities, against 6 existing security tools (Picus, Ecne, Civer, ConsCS, Circomspect, zkFuzz).
+> To prevent the agents from cheating we removed git history and disabled web access.
 
 
 ---
@@ -1103,39 +1019,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-07-08 · Post · Specifying affine curve operations over secp256k1 is short, yet, implementing a circuit for it over 
-
-
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-07-08 16:47 UTC (2026-07-08 17:47 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2074898158706909392
-- Metrics (at fetch): bookmark 0, impression 251, like 3, quote 0, reply 1, retweet 0
-
-> Specifying affine curve operations over secp256k1 is short, yet, implementing a circuit for it over the bn254 is all but simple:
-
-
----
-
-## 2026-07-08 · Post · The specification is 250 lines, the reference solution is a massive ~19000 lines (including proofs) 
-
-
-### Post — @zksecurityXYZ — 2026-07-08 16:47 UTC (2026-07-08 17:47 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2074898156966363366
-- Metrics (at fetch): bookmark 0, impression 308, like 4, quote 0, reply 1, retweet 0
-
-> The specification is 250 lines, the reference solution is a massive ~19000 lines (including proofs) and the efficient version is going to be longer... 
->
-> Which would you rather write?
-> Which would you rather we audit?
-
-
----
-
-## 2026-07-08 · Post · New zkGolf challenges!
+## 2026-07-08 · Thread · New zkGolf challenges!
 
 
 Tags (automatic): ZK
@@ -1152,6 +1036,25 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HMuBO88XMAAoewF.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-07-08 16:47 UTC (2026-07-08 17:47 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2074898156966363366
+- Metrics (at fetch): bookmark 0, impression 308, like 4, quote 0, reply 1, retweet 0
+
+> The specification is 250 lines, the reference solution is a massive ~19000 lines (including proofs) and the efficient version is going to be longer... 
+>
+> Which would you rather write?
+> Which would you rather we audit?
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-07-08 16:47 UTC (2026-07-08 17:47 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2074898158706909392
+- Metrics (at fetch): bookmark 0, impression 251, like 3, quote 0, reply 1, retweet 0
+
+> Specifying affine curve operations over secp256k1 is short, yet, implementing a circuit for it over the bn254 is all but simple:
 
 
 ---
@@ -1231,27 +1134,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-07-03 · Post · To score a circuit we ran it on one fixed input, `default` and we checked correctness on a a symboli
-
-
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-07-03 17:43 UTC (2026-07-03 18:43 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2073100424945479839
-- Metrics (at fetch): bookmark 1, impression 484, like 5, quote 0, reply 1, retweet 0
-
-> To score a circuit we ran it on one fixed input, `default` and we checked correctness on a a symbolic all-variable input; so it is correct for every input.
->
-> So cost was looking at one input and correctness/completeness at every input. 
->
-> That's the bug in essence.
-
-
----
-
-## 2026-07-03 · Post · Nice one!
+## 2026-07-03 · Thread · Nice one!
 
 
 Tags (automatic): ZK
@@ -1268,6 +1151,18 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HMUgyj3WIAA3YUn.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-07-03 17:43 UTC (2026-07-03 18:43 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2073100424945479839
+- Metrics (at fetch): bookmark 1, impression 484, like 5, quote 0, reply 1, retweet 0
+
+> To score a circuit we ran it on one fixed input, `default` and we checked correctness on a a symbolic all-variable input; so it is correct for every input.
+>
+> So cost was looking at one input and correctness/completeness at every input. 
+>
+> That's the bug in essence.
 
 
 ---
@@ -1294,105 +1189,10 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-07-02 · Post · Read our blog post: https://t.co/mAYBfN9Fc2
+## 2026-07-02 · Thread · Can you build the fastest circuit?
 
 
-Tags (automatic): ZK
-
-
-### Post — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2072701390854525202
-- Metrics (at fetch): bookmark 4, impression 1082, like 15, quote 0, reply 2, retweet 1
-
-> Read our blog post: https://t.co/mAYBfN9Fc2
->
-> And start competing on the leaderboard: https://t.co/o878hqHbsh
-> Are you the Tiger Woods of circuits? ⛳️
-
-
----
-
-## 2026-07-02 · Post · It works because of one asymmetry: 
-
-
-Tags (automatic): ZK, AI-assisted hunting
-
-
-### Post — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2072701388740612353
-- Metrics (at fetch): bookmark 0, impression 626, like 8, quote 0, reply 1, retweet 0
-
-> It works because of one asymmetry: 
-> The specs can be simple but the circuits implementing them can be complex. LLMs are happy to do the boring work of proving that the circuit matches the spec. Humans only need to read the spec.
-> Sometimes you can trust the magic talking box!
-
-
----
-
-## 2026-07-02 · Post · How we got here: we wrote a Lean spec for SHA-256. 
-
-
-Tags (automatic): ZK, AI-assisted hunting
-
-
-### Post — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2072701386706305208
-- Metrics (at fetch): bookmark 1, impression 845, like 13, quote 0, reply 2, retweet 1
-
-> How we got here: we wrote a Lean spec for SHA-256. 
-> Then we asked an LLM to write an optimized circuit.
->
-> The result was the most efficient SHA-256 compression in R1CS by a wide margin.
-> We never reviewed the circuit, it literally cannot be broken.
->
-> We call it fearless optimization
-
-
----
-
-## 2026-07-02 · Post · Rules: the cheapest zk circuit for the challenge is king of the hill. 👑
-
-
-Tags (automatic): ZK, Memory corruption / native
-
-
-### Post — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2072701384416206988
-- Metrics (at fetch): bookmark 0, impression 771, like 8, quote 0, reply 1, retweet 0
-
-> Rules: the cheapest zk circuit for the challenge is king of the hill. 👑
-> Every submission must ship a Lean proof that it's sound and complete against the spec.
-> If Lean is happy, we are happy.
-
-
----
-
-## 2026-07-02 · Post · https://t.co/o878hqHbsh launches with two circuit challenges: SHA-256 and RSA verification.
-
-
-Tags (automatic): ZK, AI-assisted hunting
-
-
-### Post — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2072701382319026652
-- Metrics (at fetch): bookmark 0, impression 965, like 8, quote 0, reply 1, retweet 0
-
-> https://t.co/o878hqHbsh launches with two circuit challenges: SHA-256 and RSA verification.
->
-> Point your agent at https://t.co/VYGsLi3gIC and tell it to beat the high score.
-
-
----
-
-## 2026-07-02 · Post · Can you build the fastest circuit?
-
-
-Tags (automatic): ZK
+Tags (automatic): ZK, Memory corruption / native, AI-assisted hunting
 
 
 ### Post — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
@@ -1408,6 +1208,61 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HMOrz-_WEAAXjBn.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2072701382319026652
+- Metrics (at fetch): bookmark 0, impression 965, like 8, quote 0, reply 1, retweet 0
+
+> https://t.co/o878hqHbsh launches with two circuit challenges: SHA-256 and RSA verification.
+>
+> Point your agent at https://t.co/VYGsLi3gIC and tell it to beat the high score.
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2072701384416206988
+- Metrics (at fetch): bookmark 0, impression 771, like 8, quote 0, reply 1, retweet 0
+
+> Rules: the cheapest zk circuit for the challenge is king of the hill. 👑
+> Every submission must ship a Lean proof that it's sound and complete against the spec.
+> If Lean is happy, we are happy.
+
+
+### Thread part 4 — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2072701386706305208
+- Metrics (at fetch): bookmark 1, impression 845, like 13, quote 0, reply 2, retweet 1
+
+> How we got here: we wrote a Lean spec for SHA-256. 
+> Then we asked an LLM to write an optimized circuit.
+>
+> The result was the most efficient SHA-256 compression in R1CS by a wide margin.
+> We never reviewed the circuit, it literally cannot be broken.
+>
+> We call it fearless optimization
+
+
+### Thread part 5 — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2072701388740612353
+- Metrics (at fetch): bookmark 0, impression 626, like 8, quote 0, reply 1, retweet 0
+
+> It works because of one asymmetry: 
+> The specs can be simple but the circuits implementing them can be complex. LLMs are happy to do the boring work of proving that the circuit matches the spec. Humans only need to read the spec.
+> Sometimes you can trust the magic talking box!
+
+
+### Thread part 6 — @zksecurityXYZ — 2026-07-02 15:18 UTC (2026-07-02 16:18 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2072701390854525202
+- Metrics (at fetch): bookmark 4, impression 1082, like 15, quote 0, reply 2, retweet 1
+
+> Read our blog post: https://t.co/mAYBfN9Fc2
+>
+> And start competing on the leaderboard: https://t.co/o878hqHbsh
+> Are you the Tiger Woods of circuits? ⛳️
 
 
 ---
@@ -1463,22 +1318,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2026-06-26 · Post · The biggest addition is the MPC Bug Tracker.
-
-
-### Post — @zksecurityXYZ — 2026-06-26 13:41 UTC (2026-06-26 14:41 WAT)
-
-- URL: https://x.com/zksecurityXYZ/status/2070502634377601074
-- Metrics (at fetch): bookmark 0, impression 314, like 3, quote 0, reply 1, retweet 0
-
-> The biggest addition is the MPC Bug Tracker.
-> Real-world MPC bugs from deployments, disclosures, and audits, each linked to the pitfall pattern behind it.
->  https://t.co/Mwv07XBKQx
-
-
----
-
-## 2026-06-26 · Post · Last month we launched an open, collaborative reference for the implementation mistakes that keep re
+## 2026-06-26 · Thread · Last month we launched an open, collaborative reference for the implementation mistakes that keep re
 
 
 ### Post — @zksecurityXYZ — 2026-06-26 13:41 UTC (2026-06-26 14:41 WAT)
@@ -1490,6 +1330,16 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HLvizesWkAEv1go.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-06-26 13:41 UTC (2026-06-26 14:41 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2070502634377601074
+- Metrics (at fetch): bookmark 0, impression 314, like 3, quote 0, reply 1, retweet 0
+
+> The biggest addition is the MPC Bug Tracker.
+> Real-world MPC bugs from deployments, disclosures, and audits, each linked to the pitfall pattern behind it.
+>  https://t.co/Mwv07XBKQx
 
 
 ---

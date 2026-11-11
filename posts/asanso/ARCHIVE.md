@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 174
-- Conversations/threads: 172
+- Conversations/threads: 171
 - Oldest post captured: 2011-01-30
 - Newest post captured: 2026-11-06
 
@@ -987,30 +987,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-06-20 · Reply · @kobigurk any kzg library deployed would work (with or without plonk)
-
-
-**Context — post being replied to:**
-
-#### Parent post — @kobigurk — 2024-06-20 09:14 UTC (2024-06-20 10:14 WAT)
-
-- URL: https://x.com/kobigurk/status/1803718088258392228
-- Metrics (at fetch): bookmark 0, impression 284, like 4, quote 0, reply 1, retweet 0
-
-> @asanso Beyond plonk deployment or including?
-
-
-### Post — @asanso — 2024-06-20 09:15 UTC (2024-06-20 10:15 WAT)
-
-- URL: https://x.com/asanso/status/1803718330236158344
-- Metrics (at fetch): bookmark 0, impression 214, like 2, quote 0, reply 0, retweet 0
-
-> @kobigurk any kzg library deployed would work (with or without plonk)
-
-
----
-
-## 2024-06-20 · Post · Is anyone using KZG polynomial commitments in a solidity contract ? asking for a friend
+## 2024-06-20 · Thread · Is anyone using KZG polynomial commitments in a solidity contract ? asking for a friend
 
 
 Tags (automatic): Smart contract / DeFi
@@ -1022,6 +999,14 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): bookmark 5, impression 3156, like 13, quote 0, reply 4, retweet 1
 
 > Is anyone using KZG polynomial commitments in a solidity contract ? asking for a friend
+
+
+### Thread part 2 — @asanso — 2024-06-20 09:15 UTC (2024-06-20 10:15 WAT)
+
+- URL: https://x.com/asanso/status/1803718330236158344
+- Metrics (at fetch): bookmark 0, impression 214, like 2, quote 0, reply 0, retweet 0
+
+> @kobigurk any kzg library deployed would work (with or without plonk)
 
 
 ---
@@ -1076,9 +1061,9 @@ Tags (automatic): ZK
 ## 2024-04-19 · Reply · @kobigurk If is a prime order curve not at all
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @kobigurk — 2024-04-19 13:19 UTC (2024-04-19 14:19 WAT)
+#### Root post — @kobigurk — 2024-04-19 13:19 UTC (2024-04-19 14:19 WAT)
 
 - URL: https://x.com/kobigurk/status/1781311598356803865
 - Metrics (at fetch): bookmark 1, impression 4512, like 2, quote 1, reply 7, retweet 0

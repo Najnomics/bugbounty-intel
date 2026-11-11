@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 397
-- Conversations/threads: 369
+- Conversations/threads: 368
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
 
@@ -8584,20 +8584,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-12-31 · Post · Aspirations for 2021, earn less from bug bounties so that I can concentrate more on CTFs and vulnera
-
-
-### Post — @S1r1u5_ — 2020-12-31 21:50 UTC (2020-12-31 22:50 WAT)
-
-- URL: https://x.com/S1r1u5_/status/1344762868609159168
-- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 0, retweet 0
-
-> Aspirations for 2021, earn less from bug bounties so that I can concentrate more on CTFs and vulnerability research.
-
-
----
-
-## 2020-12-31 · Post · Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I w
+## 2020-12-31 · Thread · Late-night Reflecting on 2020, I would say 2020 was one hell of a year for me. The best thing is I w
 
 
 Tags (automatic): Platform: HackerOne
@@ -8621,6 +8608,14 @@ Tags (automatic): Platform: HackerOne
     
     > What a fantastic year(for me)!!
     
+
+
+### Thread part 2 — @S1r1u5_ — 2020-12-31 21:50 UTC (2020-12-31 22:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1344762868609159168
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 0, retweet 0
+
+> Aspirations for 2021, earn less from bug bounties so that I can concentrate more on CTFs and vulnerability research.
 
 
 ---

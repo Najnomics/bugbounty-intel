@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 82
-- Conversations/threads: 82
+- Conversations/threads: 68
 - Oldest post captured: 2022-07-26
 - Newest post captured: 2026-11-08
 
@@ -182,9 +182,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2026-06-03 · Reply · @WhiteHatMage I once reported a critical that got closed as a duplicate. When I reached out to the p
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @WhiteHatMage — 2026-06-02 15:38 UTC (2026-06-02 16:38 WAT)
+#### Root post — @WhiteHatMage — 2026-06-02 15:38 UTC (2026-06-02 16:38 WAT)
 
 - URL: https://x.com/WhiteHatMage/status/2061834838240350407
 - Metrics (at fetch): bookmark 23, impression 10903, like 114, quote 2, reply 19, retweet 9
@@ -426,20 +426,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2026-01-12 · Post · https://t.co/xDU1xm8p3s
-
-
-### Post — @kankodu — 2026-01-12 18:17 UTC (2026-01-12 19:17 WAT)
-
-- URL: https://x.com/kankodu/status/2010778298364956949
-- Metrics (at fetch): bookmark 0, impression 715, like 5, quote 0, reply 0, retweet 0
-
-> https://t.co/xDU1xm8p3s
-
-
----
-
-## 2026-01-12 · Post · The competition is now live! https://t.co/XBNgp2Fpnu
+## 2026-01-12 · Thread · The competition is now live! https://t.co/XBNgp2Fpnu
 
 
 ### Post — @kankodu — 2026-01-12 18:17 UTC (2026-01-12 19:17 WAT)
@@ -461,6 +448,14 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     **Media:**
     - photo: https://pbs.twimg.com/media/G-H7HD_a0AIhs4S.jpg — no alt text provided by author
     
+
+
+### Thread part 2 — @kankodu — 2026-01-12 18:17 UTC (2026-01-12 19:17 WAT)
+
+- URL: https://x.com/kankodu/status/2010778298364956949
+- Metrics (at fetch): bookmark 0, impression 715, like 5, quote 0, reply 0, retweet 0
+
+> https://t.co/xDU1xm8p3s
 
 
 ---
@@ -655,20 +650,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-09-20 · Post · https://t.co/FVDzKIpSXo
-
-
-### Post — @kankodu — 2025-09-20 00:31 UTC (2025-09-20 01:31 WAT)
-
-- URL: https://x.com/kankodu/status/1969197698310963555
-- Metrics (at fetch): bookmark 0, impression 515, like 2, quote 0, reply 0, retweet 0
-
-> https://t.co/FVDzKIpSXo
-
-
----
-
-## 2025-09-20 · Reply · @VII_Finance featured in @UniswapFND Builder update 35 👀 https://t.co/Sk5jmCnG5W
+## 2025-09-20 · Thread · @VII_Finance featured in @UniswapFND Builder update 35 👀 https://t.co/Sk5jmCnG5W
 
 
 ### Post — @kankodu — 2025-09-20 00:31 UTC (2025-09-20 01:31 WAT)
@@ -680,6 +662,14 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G1P-2_sbQAMUAZC.jpg — no alt text provided by author
+
+
+### Thread part 2 — @kankodu — 2025-09-20 00:31 UTC (2025-09-20 01:31 WAT)
+
+- URL: https://x.com/kankodu/status/1969197698310963555
+- Metrics (at fetch): bookmark 0, impression 515, like 2, quote 0, reply 0, retweet 0
+
+> https://t.co/FVDzKIpSXo
 
 
 ---
@@ -749,93 +739,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-09-09 · Post · we have been using this pattern to build @vii_finance frontend and it has been very helpful. Here's 
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467642908832221
-- Metrics (at fetch): bookmark 2, impression 531, like 5, quote 0, reply 0, retweet 1
-
-> we have been using this pattern to build @vii_finance frontend and it has been very helpful. Here's where I first learned about this pattern: https://t.co/tyFIMdBHMd
-
-
----
-
-## 2025-09-09 · Post · If you have need more data, simply make the change in the VaultLens contract and compile it again. Y
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467631001190704
-- Metrics (at fetch): bookmark 0, impression 531, like 3, quote 0, reply 1, retweet 0
-
-> If you have need more data, simply make the change in the VaultLens contract and compile it again. You do not need waste gas to deploy it.
-
-
----
-
-## 2025-09-09 · Post · Viem exposes this method directly in readContract method so you do not have to deal with raw eth_cal
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467618967728598
-- Metrics (at fetch): bookmark 0, impression 205, like 0, quote 0, reply 1, retweet 0
-
-> Viem exposes this method directly in readContract method so you do not have to deal with raw eth_call. https://t.co/cMDbO7k5NP
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G0a-Yi0agAAWwNz.jpg — no alt text provided by author
-
-
----
-
-## 2025-09-09 · Post · Here’s my suggestion:
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467602333167630
-- Metrics (at fetch): bookmark 0, impression 186, like 0, quote 0, reply 1, retweet 0
-
-> Here’s my suggestion:
->
-> Have Foundry/Hardhat setup in your frontend repo. Build the lens contract as you need it and compile it. And then you can use eth_call overrides to ask the RPC to pretend the lens contract is deployed and call the method that you need to get the data
-
-
----
-
-## 2025-09-09 · Post · These can work, but they’re rigid. Developers try to anticipate every scenario when writing them, bu
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467590467485847
-- Metrics (at fetch): bookmark 0, impression 177, like 1, quote 0, reply 1, retweet 0
-
-> These can work, but they’re rigid. Developers try to anticipate every scenario when writing them, but you may need less more than what’s exposed. You also don’t want to deploy new lens contracts every time your requirements change.
-
-
----
-
-## 2025-09-09 · Post · Many protocols solve this by building lens contracts. In our example, developer of the protocol woul
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467577892913539
-- Metrics (at fetch): bookmark 0, impression 198, like 0, quote 0, reply 1, retweet 0
-
-> Many protocols solve this by building lens contracts. In our example, developer of the protocol would have developed and deployed VaultLens contract that looks like this: https://t.co/Vd5RgfKUj6
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G0a-WIMbgAE4xf1.jpg — no alt text provided by author
-
-
----
-
-## 2025-09-09 · Post · This is a very simple example. In real DeFi frontends, dependencies get far more complicated. One va
+## 2025-09-09 · Thread · PSA for web3 frontend devs:
 
 
 Tags (automatic): Smart contract / DeFi
@@ -843,55 +747,18 @@ Tags (automatic): Smart contract / DeFi
 
 ### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
 
-- URL: https://x.com/kankodu/status/1965467559895142591
-- Metrics (at fetch): bookmark 0, impression 202, like 1, quote 0, reply 1, retweet 0
+- URL: https://x.com/kankodu/status/1965467493000163600
+- Metrics (at fetch): bookmark 12, impression 4312, like 20, quote 1, reply 5, retweet 1
 
-> This is a very simple example. In real DeFi frontends, dependencies get far more complicated. One value depends on another, which depends on another, and your users end up waiting through a chain of RPC calls before the page even loads.
-
-
----
-
-## 2025-09-09 · Post · So far so good. But what if you also want the underlying asset decimals?
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467547333193871
-- Metrics (at fetch): bookmark 0, impression 223, like 0, quote 0, reply 1, retweet 0
-
-> So far so good. But what if you also want the underlying asset decimals?
+> PSA for web3 frontend devs:
 >
-> Multicall won’t help here. You’d first need to call asset method to get the address, and then make a second call to the decimals method on that address. Frontend has to make two RPC calls to get the data. https://t.co/6XvEONt6Px
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G0a-UXBbQAAM7Uk.jpg — no alt text provided by author
-
-
----
-
-## 2025-09-09 · Post · If you’re efficient, you’d use Promise.all so you don’t have to wait for one call to finish before s
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467531025809644
-- Metrics (at fetch): bookmark 1, impression 283, like 1, quote 0, reply 1, retweet 0
-
-> If you’re efficient, you’d use Promise.all so you don’t have to wait for one call to finish before starting the other.
+> Add Foundry/Hardhat to your frontend repo.
+> It’ll save your users time (and frustration).
 >
-> But you are smarter. You know about multicall. Instead of two RPC calls, you can send one multicall request that returns for both asset and totalAssets. https://t.co/VPAVySu8TS
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G0a-TL5a4AAk7Bu.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/G0a-TYpa8AAwwpG.png — no alt text provided by author
+> Here’s why 👇
 
 
----
-
-## 2025-09-09 · Post · Suppose you have an ERC4626 vault address and you want to get the underlying asset address and the t
-
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+### Thread part 2 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
 
 - URL: https://x.com/kankodu/status/1965467510863790378
 - Metrics (at fetch): bookmark 0, impression 330, like 0, quote 0, reply 1, retweet 0
@@ -909,22 +776,95 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/G0a-SPibsAAxyg1.jpg — no alt text provided by author
 
 
----
+### Thread part 3 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
 
-## 2025-09-09 · Post · PSA for web3 frontend devs:
+- URL: https://x.com/kankodu/status/1965467531025809644
+- Metrics (at fetch): bookmark 1, impression 283, like 1, quote 0, reply 1, retweet 0
 
-
-### Post — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
-
-- URL: https://x.com/kankodu/status/1965467493000163600
-- Metrics (at fetch): bookmark 12, impression 4312, like 20, quote 1, reply 5, retweet 1
-
-> PSA for web3 frontend devs:
+> If you’re efficient, you’d use Promise.all so you don’t have to wait for one call to finish before starting the other.
 >
-> Add Foundry/Hardhat to your frontend repo.
-> It’ll save your users time (and frustration).
+> But you are smarter. You know about multicall. Instead of two RPC calls, you can send one multicall request that returns for both asset and totalAssets. https://t.co/VPAVySu8TS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0a-TL5a4AAk7Bu.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G0a-TYpa8AAwwpG.png — no alt text provided by author
+
+
+### Thread part 4 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467547333193871
+- Metrics (at fetch): bookmark 0, impression 223, like 0, quote 0, reply 1, retweet 0
+
+> So far so good. But what if you also want the underlying asset decimals?
 >
-> Here’s why 👇
+> Multicall won’t help here. You’d first need to call asset method to get the address, and then make a second call to the decimals method on that address. Frontend has to make two RPC calls to get the data. https://t.co/6XvEONt6Px
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0a-UXBbQAAM7Uk.jpg — no alt text provided by author
+
+
+### Thread part 5 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467559895142591
+- Metrics (at fetch): bookmark 0, impression 202, like 1, quote 0, reply 1, retweet 0
+
+> This is a very simple example. In real DeFi frontends, dependencies get far more complicated. One value depends on another, which depends on another, and your users end up waiting through a chain of RPC calls before the page even loads.
+
+
+### Thread part 6 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467577892913539
+- Metrics (at fetch): bookmark 0, impression 198, like 0, quote 0, reply 1, retweet 0
+
+> Many protocols solve this by building lens contracts. In our example, developer of the protocol would have developed and deployed VaultLens contract that looks like this: https://t.co/Vd5RgfKUj6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0a-WIMbgAE4xf1.jpg — no alt text provided by author
+
+
+### Thread part 7 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467590467485847
+- Metrics (at fetch): bookmark 0, impression 177, like 1, quote 0, reply 1, retweet 0
+
+> These can work, but they’re rigid. Developers try to anticipate every scenario when writing them, but you may need less more than what’s exposed. You also don’t want to deploy new lens contracts every time your requirements change.
+
+
+### Thread part 8 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467602333167630
+- Metrics (at fetch): bookmark 0, impression 186, like 0, quote 0, reply 1, retweet 0
+
+> Here’s my suggestion:
+>
+> Have Foundry/Hardhat setup in your frontend repo. Build the lens contract as you need it and compile it. And then you can use eth_call overrides to ask the RPC to pretend the lens contract is deployed and call the method that you need to get the data
+
+
+### Thread part 9 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467618967728598
+- Metrics (at fetch): bookmark 0, impression 205, like 0, quote 0, reply 1, retweet 0
+
+> Viem exposes this method directly in readContract method so you do not have to deal with raw eth_call. https://t.co/cMDbO7k5NP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0a-Yi0agAAWwNz.jpg — no alt text provided by author
+
+
+### Thread part 10 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467631001190704
+- Metrics (at fetch): bookmark 0, impression 531, like 3, quote 0, reply 1, retweet 0
+
+> If you have need more data, simply make the change in the VaultLens contract and compile it again. You do not need waste gas to deploy it.
+
+
+### Thread part 11 — @kankodu — 2025-09-09 17:29 UTC (2025-09-09 18:29 WAT)
+
+- URL: https://x.com/kankodu/status/1965467642908832221
+- Metrics (at fetch): bookmark 2, impression 531, like 5, quote 0, reply 0, retweet 1
+
+> we have been using this pattern to build @vii_finance frontend and it has been very helpful. Here's where I first learned about this pattern: https://t.co/tyFIMdBHMd
 
 
 ---
@@ -945,20 +885,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-09-01 · Post · https://t.co/KhwPInVwPl
-
-
-### Post — @kankodu — 2025-09-01 08:46 UTC (2025-09-01 09:46 WAT)
-
-- URL: https://x.com/kankodu/status/1962436910078734493
-- Metrics (at fetch): bookmark 0, impression 375, like 2, quote 0, reply 0, retweet 0
-
-> https://t.co/KhwPInVwPl
-
-
----
-
-## 2025-09-01 · Reply · @vii_finance is using a similar mechanism so that Liquidity Providers can keep earning lending inter
+## 2025-09-01 · Thread · @vii_finance is using a similar mechanism so that Liquidity Providers can keep earning lending inter
 
 
 ### Post — @kankodu — 2025-09-01 08:46 UTC (2025-09-01 09:46 WAT)
@@ -973,22 +900,17 @@ Tags (automatic): Smart contract / DeFi
 **Quoted post** 1960880396784296013: not readable via the API (deleted, private, or withheld).
 
 
----
+### Thread part 2 — @kankodu — 2025-09-01 08:46 UTC (2025-09-01 09:46 WAT)
 
-## 2025-08-27 · Post · https://t.co/zlZgrx7zDY
+- URL: https://x.com/kankodu/status/1962436910078734493
+- Metrics (at fetch): bookmark 0, impression 375, like 2, quote 0, reply 0, retweet 0
 
-
-### Post — @kankodu — 2025-08-27 11:07 UTC (2025-08-27 12:07 WAT)
-
-- URL: https://x.com/kankodu/status/1960660534799499455
-- Metrics (at fetch): bookmark 0, impression 506, like 2, quote 0, reply 0, retweet 0
-
-> https://t.co/zlZgrx7zDY
+> https://t.co/KhwPInVwPl
 
 
 ---
 
-## 2025-08-27 · Post · A uniswap v4 hook that I’ve developed for @vii_finance donates accrued interest to the active liquid
+## 2025-08-27 · Thread · A uniswap v4 hook that I’ve developed for @vii_finance donates accrued interest to the active liquid
 
 
 ### Post — @kankodu — 2025-08-27 11:07 UTC (2025-08-27 12:07 WAT)
@@ -1004,6 +926,14 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GzWqOaSWkAAqcxN.jpg — no alt text provided by author
+
+
+### Thread part 2 — @kankodu — 2025-08-27 11:07 UTC (2025-08-27 12:07 WAT)
+
+- URL: https://x.com/kankodu/status/1960660534799499455
+- Metrics (at fetch): bookmark 0, impression 506, like 2, quote 0, reply 0, retweet 0
+
+> https://t.co/zlZgrx7zDY
 
 
 ---

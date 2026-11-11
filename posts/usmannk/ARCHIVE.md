@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 58
-- Conversations/threads: 58
+- Conversations/threads: 56
 - Oldest post captured: 2023-08-16
 - Newest post captured: 2026-11-05
 
@@ -406,20 +406,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-30 · Post · @zachxbt has this already started?
-
-
-### Post — @usmannk — 2026-07-30 16:30 UTC (2026-07-30 17:30 WAT)
-
-- URL: https://x.com/usmannk/status/2082866546381148285
-- Metrics (at fetch): bookmark 0, impression 281, like 3, quote 0, reply 0, retweet 0
-
-> @zachxbt has this already started?
-
-
----
-
-## 2026-07-30 · Post · i suspect that after the recent ZEC run up we will see more and more attackers laundering funds thro
+## 2026-07-30 · Thread · i suspect that after the recent ZEC run up we will see more and more attackers laundering funds thro
 
 
 ### Post — @usmannk — 2026-07-30 16:30 UTC (2026-07-30 17:30 WAT)
@@ -428,6 +415,14 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 6, impression 1766, like 15, quote 0, reply 2, repost 0
 
 > i suspect that after the recent ZEC run up we will see more and more attackers laundering funds through the shielded pools. $10M through the orchard pool is nothing now. basically identical properties to tornado cash but more liquid and less scrutinized.
+
+
+### Thread part 2 — @usmannk — 2026-07-30 16:30 UTC (2026-07-30 17:30 WAT)
+
+- URL: https://x.com/usmannk/status/2082866546381148285
+- Metrics (at fetch): bookmark 0, impression 281, like 3, quote 0, reply 0, retweet 0
+
+> @zachxbt has this already started?
 
 
 ---
@@ -467,20 +462,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-21 · Post · @wanchain_org @Cardano issue here: https://t.co/sF2qe4dLh9
-
-
-### Post — @usmannk — 2026-07-21 01:25 UTC (2026-07-21 02:25 WAT)
-
-- URL: https://x.com/usmannk/status/2079377223367495979
-- Metrics (at fetch): bookmark 0, impression 431, like 4, quote 0, reply 0, retweet 0
-
-> @wanchain_org @Cardano issue here: https://t.co/sF2qe4dLh9
-
-
----
-
-## 2026-07-21 · Post · the @wanchain_org bridge was hacked on @Cardano endpoint. bit of a "classic" issue where the nodes s
+## 2026-07-21 · Thread · the @wanchain_org bridge was hacked on @Cardano endpoint. bit of a "classic" issue where the nodes s
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -492,6 +474,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 1, impression 1553, like 11, quote 0, reply 17, retweet 0
 
 > the @wanchain_org bridge was hacked on @Cardano endpoint. bit of a "classic" issue where the nodes signed a hash over malleably packed fields &amp; took untrusted info on the boundaries. much of the $NIGHT on binance is now unbacked bc it was bridged, think it's a 0 not just -50%
+
+
+### Thread part 2 — @usmannk — 2026-07-21 01:25 UTC (2026-07-21 02:25 WAT)
+
+- URL: https://x.com/usmannk/status/2079377223367495979
+- Metrics (at fetch): bookmark 0, impression 431, like 4, quote 0, reply 0, retweet 0
+
+> @wanchain_org @Cardano issue here: https://t.co/sF2qe4dLh9
 
 
 ---

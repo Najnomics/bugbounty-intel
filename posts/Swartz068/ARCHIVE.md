@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 44
-- Conversations/threads: 36
+- Conversations/threads: 27
 - Oldest post captured: 2024-12-30
 - Newest post captured: 2026-11-09
 
@@ -412,199 +412,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ 3909 isn’t my destination. It’s just a c
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 15:02 UTC (2026-08-13 16:02 WAT)
-
-- URL: https://x.com/Swartz068/status/2087917621702516893
-- Metrics (at fetch): bookmark 0, impression 229, like 2, quote 0, reply 0, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ #3909 isn’t my destination. It’s just a checkpoint.
->
-> I’m still an 11th-class student.
-> Still learning.
-> Still making mistakes.
-> Still hunting.
-> Still building.
->
-> Born in India. 🇮🇳
-> Learning from the world. 🌎
-> Building for the future. 🔐
->
-> This is only the beginning.
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I don't want recognition simply because I
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 15:01 UTC (2026-08-13 16:01 WAT)
-
-- URL: https://x.com/Swartz068/status/2087917481663033619
-- Metrics (at fetch): bookmark 0, impression 552, like 2, quote 1, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I don't want recognition simply because I’m young.
->
-> I don't want recognition simply because I’m Indian.
->
-> I want my work to become the reason people remember me.
->
-> I want to build.
-> I want to secure.
-> I want to create.
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe one day I’ll work for a global cybe
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 15:01 UTC (2026-08-13 16:01 WAT)
-
-- URL: https://x.com/Swartz068/status/2087917371629752503
-- Metrics (at fetch): bookmark 0, impression 234, like 1, quote 0, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe one day I’ll work for a global cybersecurity company or contribute to protecting systems used by millions around the world.
->
-> And if someone proudly says:
->
-> “He was born in India.” 🇮🇳
->
-> I’ll remember exactly where my journey began.
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe someday Indian media will notice my
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 15:00 UTC (2026-08-13 16:00 WAT)
-
-- URL: https://x.com/Swartz068/status/2087917164925702205
-- Metrics (at fetch): bookmark 0, impression 245, like 1, quote 0, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe someday Indian media will notice my journey.
->
-> Maybe someday someone will ask how an 11th-class student started learning cybersecurity and turned that curiosity into something meaningful.
->
-> Until then, I’ll let my work speak for me.
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ But sometimes, quietly, I ask myself:
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 14:59 UTC (2026-08-13 15:59 WAT)
-
-- URL: https://x.com/Swartz068/status/2087917002174423423
-- Metrics (at fetch): bookmark 0, impression 247, like 1, quote 0, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ But sometimes, quietly, I ask myself:
->
-> “When will someone tell our story too?”
->
-> There are young researchers working late into the night with nothing but a laptop, curiosity, and a dream.
->
-> No cameras. No headlines. Just purpose.
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve seen other Gen-Z students receive re
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 14:59 UTC (2026-08-13 15:59 WAT)
-
-- URL: https://x.com/Swartz068/status/2087916884486504835
-- Metrics (at fetch): bookmark 0, impression 282, like 2, quote 0, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve seen other Gen-Z students receive recognition after discovering vulnerabilities in platforms like IIT Kanpur, CBSE and NEET.
->
-> I’m genuinely happy for them.
->
-> Their stories inspire me because they show that young people can create real impact.
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’m grateful to have received Hall of Fam
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 14:58 UTC (2026-08-13 15:58 WAT)
-
-- URL: https://x.com/Swartz068/status/2087916754328809485
-- Metrics (at fetch): bookmark 0, impression 278, like 2, quote 0, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’m grateful to have received Hall of Fame recognition from Linktree, Zola, NASA, Kohl’s, Bugcrowd and others. 🏆
->
-> As an 11th-class student, these moments mean more than a badge on a profile.
->
-> They remind me that age doesn't define impact.
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve reported vulnerabilities across vari
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 14:57 UTC (2026-08-13 15:57 WAT)
-
-- URL: https://x.com/Swartz068/status/2087916563294998634
-- Metrics (at fetch): bookmark 0, impression 303, like 4, quote 0, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve reported vulnerabilities across various organizations—not because I wanted fame, but because I genuinely love understanding technology and helping make it safer.
->
-> For me, finding a vulnerability is not the finish line. Getting it fixed is. 🔐
-
-
----
-
-## 2026-08-13 · Post · @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Behind those points are countless nights 
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @Swartz068 — 2026-08-13 14:57 UTC (2026-08-13 15:57 WAT)
-
-- URL: https://x.com/Swartz068/status/2087916482063974788
-- Metrics (at fetch): bookmark 0, impression 322, like 4, quote 0, reply 1, retweet 0
-
-> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Behind those points are countless nights of learning cybersecurity, testing, failing, facing duplicates and rejected reports, learning from mistakes, and trying again.
->
-> Every failure taught me something. Every success gave me another reason to continue.
-
-
----
-
-## 2026-08-13 · Post · I’m an 11th-class student from India 🇮🇳
+## 2026-08-13 · Thread · I’m an 11th-class student from India 🇮🇳
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -626,6 +434,126 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HPnEcZCbMAAsECb.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Swartz068 — 2026-08-13 14:57 UTC (2026-08-13 15:57 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916482063974788
+- Metrics (at fetch): bookmark 0, impression 322, like 4, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Behind those points are countless nights of learning cybersecurity, testing, failing, facing duplicates and rejected reports, learning from mistakes, and trying again.
+>
+> Every failure taught me something. Every success gave me another reason to continue.
+
+
+### Thread part 3 — @Swartz068 — 2026-08-13 14:57 UTC (2026-08-13 15:57 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916563294998634
+- Metrics (at fetch): bookmark 0, impression 303, like 4, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve reported vulnerabilities across various organizations—not because I wanted fame, but because I genuinely love understanding technology and helping make it safer.
+>
+> For me, finding a vulnerability is not the finish line. Getting it fixed is. 🔐
+
+
+### Thread part 4 — @Swartz068 — 2026-08-13 14:58 UTC (2026-08-13 15:58 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916754328809485
+- Metrics (at fetch): bookmark 0, impression 278, like 2, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’m grateful to have received Hall of Fame recognition from Linktree, Zola, NASA, Kohl’s, Bugcrowd and others. 🏆
+>
+> As an 11th-class student, these moments mean more than a badge on a profile.
+>
+> They remind me that age doesn't define impact.
+
+
+### Thread part 5 — @Swartz068 — 2026-08-13 14:59 UTC (2026-08-13 15:59 WAT)
+
+- URL: https://x.com/Swartz068/status/2087916884486504835
+- Metrics (at fetch): bookmark 0, impression 282, like 2, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I’ve seen other Gen-Z students receive recognition after discovering vulnerabilities in platforms like IIT Kanpur, CBSE and NEET.
+>
+> I’m genuinely happy for them.
+>
+> Their stories inspire me because they show that young people can create real impact.
+
+
+### Thread part 6 — @Swartz068 — 2026-08-13 14:59 UTC (2026-08-13 15:59 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917002174423423
+- Metrics (at fetch): bookmark 0, impression 247, like 1, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ But sometimes, quietly, I ask myself:
+>
+> “When will someone tell our story too?”
+>
+> There are young researchers working late into the night with nothing but a laptop, curiosity, and a dream.
+>
+> No cameras. No headlines. Just purpose.
+
+
+### Thread part 7 — @Swartz068 — 2026-08-13 15:00 UTC (2026-08-13 16:00 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917164925702205
+- Metrics (at fetch): bookmark 0, impression 245, like 1, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe someday Indian media will notice my journey.
+>
+> Maybe someday someone will ask how an 11th-class student started learning cybersecurity and turned that curiosity into something meaningful.
+>
+> Until then, I’ll let my work speak for me.
+
+
+### Thread part 8 — @Swartz068 — 2026-08-13 15:01 UTC (2026-08-13 16:01 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917371629752503
+- Metrics (at fetch): bookmark 0, impression 234, like 1, quote 0, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ Maybe one day I’ll work for a global cybersecurity company or contribute to protecting systems used by millions around the world.
+>
+> And if someone proudly says:
+>
+> “He was born in India.” 🇮🇳
+>
+> I’ll remember exactly where my journey began.
+
+
+### Thread part 9 — @Swartz068 — 2026-08-13 15:01 UTC (2026-08-13 16:01 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917481663033619
+- Metrics (at fetch): bookmark 0, impression 552, like 2, quote 1, reply 1, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ I don't want recognition simply because I’m young.
+>
+> I don't want recognition simply because I’m Indian.
+>
+> I want my work to become the reason people remember me.
+>
+> I want to build.
+> I want to secure.
+> I want to create.
+
+
+### Thread part 10 — @Swartz068 — 2026-08-13 15:02 UTC (2026-08-13 16:02 WAT)
+
+- URL: https://x.com/Swartz068/status/2087917621702516893
+- Metrics (at fetch): bookmark 0, impression 229, like 2, quote 0, reply 0, retweet 0
+
+> @agrawalmanindra @iitmadras @IITKanpur @Bugcrowd @lostsec_ #3909 isn’t my destination. It’s just a checkpoint.
+>
+> I’m still an 11th-class student.
+> Still learning.
+> Still making mistakes.
+> Still hunting.
+> Still building.
+>
+> Born in India. 🇮🇳
+> Learning from the world. 🌎
+> Building for the future. 🔐
+>
+> This is only the beginning.
 
 
 ---

@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 146
-- Conversations/threads: 135
+- Conversations/threads: 58
 - Oldest post captured: 2025-12-02
 - Newest post captured: 2026-11-07
 
@@ -724,23 +724,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting, Platform: Im
 
 ---
 
-## 2026-10-01 · Post · We paid people to break BlueSkills. Three malicious skills scored CLEAN. We patched those bypasses a
-
-
-### Post — @bluethroat_labs — 2026-10-01 11:00 UTC (2026-10-01 12:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2105613705241379191
-- Metrics (at fetch): bookmark 0, impression 307, like 5, quote 1, reply 0, retweet 0
-
-> We paid people to break BlueSkills. Three malicious skills scored CLEAN. We patched those bypasses and published the lessons.
->
-> BlueSkills is a public good from Bluethroat Labs. More tools are coming.
->
-> Full story: https://t.co/ZAF0Pov98y
-
-
----
-
 ## 2026-10-01 · Thread · Our founder secures protocols for a living. He still ran an AI skill from X in Codex without reading
 
 
@@ -772,6 +755,18 @@ Tags (automatic): AI-assisted hunting
 > BlueSkills works on the web, through Telegram, or via CLI from your agent. Scan a public repo, ZIP, or SKILL.md before installing.
 >
 > The report shows the verdict, findings, evidence, and coverage gaps. CLEAN is not a guarantee of safety.
+
+
+### Thread part 3 — @bluethroat_labs — 2026-10-01 11:00 UTC (2026-10-01 12:00 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2105613705241379191
+- Metrics (at fetch): bookmark 0, impression 307, like 5, quote 1, reply 0, retweet 0
+
+> We paid people to break BlueSkills. Three malicious skills scored CLEAN. We patched those bypasses and published the lessons.
+>
+> BlueSkills is a public good from Bluethroat Labs. More tools are coming.
+>
+> Full story: https://t.co/ZAF0Pov98y
 
 
 ---
@@ -2137,50 +2132,10 @@ Tags (automatic): TEE / enclave, AI-assisted hunting
 
 ---
 
-## 2026-03-11 · Post · Confirmed findings across major TEE-heavy protocols in Web3.
+## 2026-03-11 · Thread · Assumptions Kill Systems.
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-03-11 11:18 UTC (2026-03-11 12:18 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2031691254485090579
-- Metrics (at fetch): bookmark 0, impression 288, like 7, quote 0, reply 0, retweet 0
-
-> Confirmed findings across major TEE-heavy protocols in Web3.
-> Novel vulnerabilities in live consensus codebases.
->
-> Two domains. The methodology holds.
->
-> More incoming.
-
-
----
-
-## 2026-03-11 · Post · Most AI security is pattern matching against known vulnerabilities.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @bluethroat_labs — 2026-03-11 11:18 UTC (2026-03-11 12:18 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2031691252157251655
-- Metrics (at fetch): bookmark 0, impression 469, like 7, quote 0, reply 1, retweet 0
-
-> Most AI security is pattern matching against known vulnerabilities.
->
-> We build domain-specific agents that reason about systems they have never seen before.
->
-> One agent per domain. All of them sharing intelligence.
->
-> An ecosystem of agents compounding knowledge about your system.
-
-
----
-
-## 2026-03-11 · Post · Assumptions Kill Systems.
+Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave, AI-assisted hunting
 
 
 ### Post — @bluethroat_labs — 2026-03-11 11:18 UTC (2026-03-11 12:18 WAT)
@@ -2196,6 +2151,33 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HDIAtTRbAAAiePW.jpg — no alt text provided by author
+
+
+### Thread part 2 — @bluethroat_labs — 2026-03-11 11:18 UTC (2026-03-11 12:18 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2031691252157251655
+- Metrics (at fetch): bookmark 0, impression 469, like 7, quote 0, reply 1, retweet 0
+
+> Most AI security is pattern matching against known vulnerabilities.
+>
+> We build domain-specific agents that reason about systems they have never seen before.
+>
+> One agent per domain. All of them sharing intelligence.
+>
+> An ecosystem of agents compounding knowledge about your system.
+
+
+### Thread part 3 — @bluethroat_labs — 2026-03-11 11:18 UTC (2026-03-11 12:18 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2031691254485090579
+- Metrics (at fetch): bookmark 0, impression 288, like 7, quote 0, reply 0, retweet 0
+
+> Confirmed findings across major TEE-heavy protocols in Web3.
+> Novel vulnerabilities in live consensus codebases.
+>
+> Two domains. The methodology holds.
+>
+> More incoming.
 
 
 ---
@@ -2228,231 +2210,26 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-26 · Post · The answer for the previous thread is
+## 2026-01-26 · Thread · 1/ Memory bus attacks: when “encrypted RAM” isn’t enough
+
+
+Tags (automatic): TEE / enclave, AI-assisted hunting
 
 
 ### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
 
-- URL: https://x.com/bluethroat_labs/status/2015798044227469813
-- Metrics (at fetch): bookmark 0, impression 218, like 1, quote 0, reply 0, retweet 0
+- URL: https://x.com/bluethroat_labs/status/2015797898869657749
+- Metrics (at fetch): bookmark 0, impression 777, like 4, quote 0, reply 1, retweet 1
 
-> The answer for the previous thread is
+> 1/ Memory bus attacks: when “encrypted RAM” isn’t enough
 >
-> “Answer: B! 🎯
+> TEEs love to say “don’t worry, memory is encrypted.”
+> But there’s a weak link in that story: the path between the CPU and DRAM.
 >
-> VoltPillager is a hardware-based fault injection attack that bypasses Intel’s software patches for Plundervolt by directly manipulating the CPU voltage regulator.[securityaffairs]
-> The attack breakdown:
->
-> Background -
+> If an attacker can tap the memory bus, they sometimes don’t need to break into your enclave at
 
 
----
-
-## 2026-01-26 · Post · As always, a bite sized quiz for you guys
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015798032097550403
-- Metrics (at fetch): bookmark 0, impression 382, like 2, quote 0, reply 1, retweet 0
-
-> As always, a bite sized quiz for you guys
->
-> You’re deploying a confidential ML inference service using AMD SEV-SNP to protect your proprietary AI model weights. Your security looks airtight:
->
-> The Setup:
-> • Full VM memory encrypted with AES-128 using per-VM keys ✅
-> • AMD Secure
-
-
----
-
-## 2026-01-26 · Post · 11/ What this means for using TEEs in practice
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015798019686633799
-- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 1, retweet 0
-
-> 11/ What this means for using TEEs in practice
->
-> If your threat model includes:
-> • Physical access to your board / socket
-> • Malicious cloud operator with hardware‑level control
-> • State‑level adversaries with lab capabilities
->
-> …then memory bus attacks are part of the picture.
-
-
----
-
-## 2026-01-26 · Post · 10/ Defenses: moving the trust boundary
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015798007762149867
-- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 1, retweet 0
-
-> 10/ Defenses: moving the trust boundary
->
-> Mitigations tend to shift more into the trusted package:
-> • Keep encryption engines inside the CPU package (so external bus sees only ciphertext)
-> • Add integrity + replay protection (MACs, counters, RMP‑like tables)
-> • Bind tweaks/IVs to
-
-
----
-
-## 2026-01-26 · Post · 9/ Fault + bus combo: inject, then observe
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797995741253759
-- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 1, retweet 0
-
-> 9/ Fault + bus combo: inject, then observe
->
-> Memory bus attacks get nastier when combined with fault injection:
-> • Glitch voltage / clock so CPU mis-executes one instruction
-> • Use bus access to observe which lines reloaded or how data changed
-> • Or inject a fault into ciphertext
-
-
----
-
-## 2026-01-26 · Post · 8/ Tee-specific twist: enclaves vs VMs vs worlds
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797983724634255
-- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 1, retweet 0
-
-> 8/ Tee-specific twist: enclaves vs VMs vs worlds
->
-> Different TEE designs feel bus attacks differently:
-> • Arm TrustZone (world split) Often relies on secure DRAM regions + bus tagging If tags/signals on bus can be spoofed/observed, secure/normal distinction weakens
-> • Intel SGX
-
-
----
-
-## 2026-01-26 · Post · 7/ Active bus manipulation: replay and substitution
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797971607331325
-- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 1, retweet 0
-
-> 7/ Active bus manipulation: replay and substitution
->
-> Stronger attacker: can modify traffic on the bus.
->
-> Possible tricks:
-> • Replay: Capture valid encrypted page/block and later replay it when CPU expects fresh data
-> • Swap: Swap ciphertext blocks between addresses to confuse
-
-
----
-
-## 2026-01-26 · Post · 6/ Passive snooping scenario: confidentiality via patterns
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797959624171971
-- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 1, retweet 0
-
-> 6/ Passive snooping scenario: confidentiality via patterns
->
-> Imagine a TEE doing private key ops:
-> • Each key operation touches specific memory regions
-> • Different key bits or branches produce distinct access patterns
-> • Memory bus probe records: address ranges, burst sequences,
-
-
----
-
-## 2026-01-26 · Post · 5/ Why encrypted RAM is not a silver bullet
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797947628425568
-- Metrics (at fetch): bookmark 0, impression 26, like 1, quote 0, reply 1, retweet 0
-
-> 5/ Why encrypted RAM is not a silver bullet
->
-> Even with RAM encryption, bus traffic can leak:
-> • Access patterns: Which addresses you touch, in what order
-> • Timing: When bursts happen, how long they last
-> • Volume: How much data is moved for a given operation
->
-> For some TEEs,
-
-
----
-
-## 2026-01-26 · Post · 4/ Threat model upgrade: from passive to active adversary
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797935586656517
-- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 1, retweet 0
-
-> 4/ Threat model upgrade: from passive to active adversary
->
-> Classic model: attacker can read DRAM (cold boot, DIMM yank, DMA, etc.).
->
-> Memory bus attacker:
-> • Can tap the bus (snoop data in transit)
-> • Can sometimes inject or flip bits (active tampering)
-> • Might control timing,
-
-
----
-
-## 2026-01-26 · Post · 3/ Why TEEs care: the usual promise
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797922877837392
-- Metrics (at fetch): bookmark 0, impression 22, like 1, quote 0, reply 1, retweet 0
-
-> 3/ Why TEEs care: the usual promise
->
-> TEE marketing pitch:
-> • Trust the CPU package
-> • Don’t trust DRAM or the rest of the motherboard
-> • Use memory encryption so even if someone dumps RAM, they only see ciphertext
->
-> The assumption: attackers can see RAM contents, but can’t break
-
-
----
-
-## 2026-01-26 · Post · 2/ What is the memory bus, really?
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
+### Thread part 2 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
 
 - URL: https://x.com/bluethroat_labs/status/2015797910903066930
 - Metrics (at fetch): bookmark 0, impression 45, like 1, quote 0, reply 1, retweet 0
@@ -2469,216 +2246,205 @@ Tags (automatic): TEE / enclave
 > If an
 
 
----
+### Thread part 3 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
 
-## 2026-01-26 · Post · 1/ Memory bus attacks: when “encrypted RAM” isn’t enough
+- URL: https://x.com/bluethroat_labs/status/2015797922877837392
+- Metrics (at fetch): bookmark 0, impression 22, like 1, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015797898869657749
-- Metrics (at fetch): bookmark 0, impression 777, like 4, quote 0, reply 1, retweet 1
-
-> 1/ Memory bus attacks: when “encrypted RAM” isn’t enough
+> 3/ Why TEEs care: the usual promise
 >
-> TEEs love to say “don’t worry, memory is encrypted.”
-> But there’s a weak link in that story: the path between the CPU and DRAM.
+> TEE marketing pitch:
+> • Trust the CPU package
+> • Don’t trust DRAM or the rest of the motherboard
+> • Use memory encryption so even if someone dumps RAM, they only see ciphertext
 >
-> If an attacker can tap the memory bus, they sometimes don’t need to break into your enclave at
+> The assumption: attackers can see RAM contents, but can’t break
 
 
----
+### Thread part 4 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
 
-## 2026-01-24 · Post · The fix: Constant-time AES
+- URL: https://x.com/bluethroat_labs/status/2015797935586656517
+- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 1, retweet 0
 
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062200373960871
-- Metrics (at fetch): bookmark 0, impression 121, like 2, quote 0, reply 0, retweet 0
-
-> The fix: Constant-time AES
-> Modern crypto libraries use bitsliced implementations that avoid table lookups entirely:
+> 4/ Threat model upgrade: from passive to active adversary
 >
-> // All operations use bitwise logic on registers
-> // Execution path independent of key value
+> Classic model: attacker can read DRAM (cold boot, DIMM yank, DMA, etc.).
 >
-> Three principles of constant-time crypto:
-> Runtime independent of
+> Memory bus attacker:
+> • Can tap the bus (snoop data in transit)
+> • Can sometimes inject or flip bits (active tampering)
+> • Might control timing,
 
 
----
+### Thread part 5 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
 
-## 2026-01-24 · Post · Answer: B! 🎯
+- URL: https://x.com/bluethroat_labs/status/2015797947628425568
+- Metrics (at fetch): bookmark 0, impression 26, like 1, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062188378280316
-- Metrics (at fetch): bookmark 0, impression 381, like 2, quote 0, reply 1, retweet 0
-
-> Answer: B! 🎯
+> 5/ Why encrypted RAM is not a silver bullet
 >
-> Prime+Probe cache attack can extract AES keys from SGX enclaves by exploiting the table lookup pattern in your S-box implementation.
+> Even with RAM encryption, bus traffic can leak:
+> • Access patterns: Which addresses you touch, in what order
+> • Timing: When bursts happen, how long they last
+> • Volume: How much data is moved for a given operation
 >
-> Here's how it works:
+> For some TEEs,
+
+
+### Thread part 6 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015797959624171971
+- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 1, retweet 0
+
+> 6/ Passive snooping scenario: confidentiality via patterns
 >
-> The vulnerability:
-> Your code uses sbox which performs a secret-dependent memory access—the array index
+> Imagine a TEE doing private key ops:
+> • Each key operation touches specific memory regions
+> • Different key bits or branches produce distinct access patterns
+> • Memory bus probe records: address ranges, burst sequences,
 
 
----
+### Thread part 7 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
 
-## 2026-01-24 · Post · Here's a single engaging scenario quiz on fault injection attacks:
+- URL: https://x.com/bluethroat_labs/status/2015797971607331325
+- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062175581430067
-- Metrics (at fetch): bookmark 0, impression 29, like 1, quote 0, reply 1, retweet 0
-
-> Here's a single engaging scenario quiz on fault injection attacks:
+> 7/ Active bus manipulation: replay and substitution
 >
-> 🔐 Fault Injection Attack Challenge
+> Stronger attacker: can modify traffic on the bus.
 >
-> You're running a cryptocurrency hardware wallet using Intel SGX to protect private keys. Your security setup looks bulletproof:
+> Possible tricks:
+> • Replay: Capture valid encrypted page/block and later replay it when CPU expects fresh data
+> • Swap: Swap ciphertext blocks between addresses to confuse
+
+
+### Thread part 8 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015797983724634255
+- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 1, retweet 0
+
+> 8/ Tee-specific twist: enclaves vs VMs vs worlds
 >
-> The Setup:
-> Private keys stored in SGX enclave
+> Different TEE designs feel bus attacks differently:
+> • Arm TrustZone (world split) Often relies on secure DRAM regions + bus tagging If tags/signals on bus can be spoofed/observed, secure/normal distinction weakens
+> • Intel SGX
 
 
----
+### Thread part 9 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
 
-## 2026-01-24 · Post · 10/ Key takeaways: fault-aware TEE design
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062163594092810
-- Metrics (at fetch): bookmark 1, impression 26, like 1, quote 0, reply 1, retweet 0
-
-> 10/ Key takeaways: fault-aware TEE design
->
-> Remember when deploying TEEs:
-> ✅ Physical security matters—faults often need proximity.
-> ✅ Combine with other protections (e.g., anti-tampering sensors).
-> ✅ Test for faults: Use tools like ChipWhisperer to simulate attacks.
-> ✅ New gens
-
-
----
-
-## 2026-01-24 · Post · 9/ Defenses: hardening against glitches
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062151539700212
+- URL: https://x.com/bluethroat_labs/status/2015797995741253759
 - Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 1, retweet 0
 
-> 9/ Defenses: hardening against glitches
+> 9/ Fault + bus combo: inject, then observe
 >
-> No perfect shield, but you can raise the bar:
+> Memory bus attacks get nastier when combined with fault injection:
+> • Glitch voltage / clock so CPU mis-executes one instruction
+> • Use bus access to observe which lines reloaded or how data changed
+> • Or inject a fault into ciphertext
+
+
+### Thread part 10 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015798007762149867
+- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 1, retweet 0
+
+> 10/ Defenses: moving the trust boundary
 >
-> Software:
-> • Redundant computations: Run ops multiple times and vote on results.
-> • Control flow integrity: Add checksums to detect skipped instructions.
-> • Constant-time code: Already helps,
+> Mitigations tend to shift more into the trusted package:
+> • Keep encryption engines inside the CPU package (so external bus sees only ciphertext)
+> • Add integrity + replay protection (MACs, counters, RMP‑like tables)
+> • Bind tweaks/IVs to
+
+
+### Thread part 11 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015798019686633799
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 1, retweet 0
+
+> 11/ What this means for using TEEs in practice
+>
+> If your threat model includes:
+> • Physical access to your board / socket
+> • Malicious cloud operator with hardware‑level control
+> • State‑level adversaries with lab capabilities
+>
+> …then memory bus attacks are part of the picture.
+
+
+### Thread part 12 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015798032097550403
+- Metrics (at fetch): bookmark 0, impression 382, like 2, quote 0, reply 1, retweet 0
+
+> As always, a bite sized quiz for you guys
+>
+> You’re deploying a confidential ML inference service using AMD SEV-SNP to protect your proprietary AI model weights. Your security looks airtight:
+>
+> The Setup:
+> • Full VM memory encrypted with AES-128 using per-VM keys ✅
+> • AMD Secure
+
+
+### Thread part 13 — @bluethroat_labs — 2026-01-26 14:44 UTC (2026-01-26 15:44 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015798044227469813
+- Metrics (at fetch): bookmark 0, impression 218, like 1, quote 0, reply 0, retweet 0
+
+> The answer for the previous thread is
+>
+> “Answer: B! 🎯
+>
+> VoltPillager is a hardware-based fault injection attack that bypasses Intel’s software patches for Plundervolt by directly manipulating the CPU voltage regulator.[securityaffairs]
+> The attack breakdown:
+>
+> Background -
 
 
 ---
 
-## 2026-01-24 · Post · 8/ Real-world impacts: from labs to exploits
+## 2026-01-24 · Thread · 1/ Fault injection attacks: when hardware glitches become weapons
 
 
-Tags (automatic): TEE / enclave
+Tags (automatic): ZK, TEE / enclave
 
 
 ### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
 
-- URL: https://x.com/bluethroat_labs/status/2015062139590025260
-- Metrics (at fetch): bookmark 0, impression 13, like 1, quote 0, reply 1, retweet 0
+- URL: https://x.com/bluethroat_labs/status/2015062050360471976
+- Metrics (at fetch): bookmark 1, impression 433, like 4, quote 0, reply 1, retweet 2
 
-> 8/ Real-world impacts: from labs to exploits
+> 1/ Fault injection attacks: when hardware glitches become weapons
 >
-> These aren't just papers—they're demonstrated:
-> • Fault attacks on TEE-based wallets: Extract seeds by glitching signature verification.
-> • Automotive hacks: Fault ECUs in cars to bypass immobilizers.
-> • Cloud scenarios: While harder
-
-
----
-
-## 2026-01-24 · Post · 7/ Attacking AMD SEV: VM secrets via hardware tricks
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062127518925024
-- Metrics (at fetch): bookmark 0, impression 40, like 1, quote 0, reply 1, retweet 0
-
-> 7/ Attacking AMD SEV: VM secrets via hardware tricks
+> We've explored TrustZone, SGX, SEV, and side-channels—strong defenses against software threats. But what if an attacker tampers with the hardware itself to force errors?
 >
-> SEV's VM encryption relies on the AMD Secure Processor (ASP).
-> • Heracles-like extensions: Fault the ASP to replay old ciphertexts or skip RMP checks.
-> • CacheWarp (2023): Manipulated SEV cache to induce faults, altering
+> Enter fault injection: deliberately
 
 
----
+### Thread part 2 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
 
-## 2026-01-24 · Post · 6/ Hitting Intel SGX: enclave breaches via faults
+- URL: https://x.com/bluethroat_labs/status/2015062062423277649
+- Metrics (at fetch): bookmark 0, impression 41, like 2, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062115422540023
-- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 1, retweet 0
-
-> 6/ Hitting Intel SGX: enclave breaches via faults
+> 2/ The core idea: exploiting hardware imperfections
 >
-> SGX enclaves protect memory, but faults target the CPU's execution.
-> • Voltage attacks: Tools like VoltPillager glitch SGX to skip integrity checks or leak sealed data.
-> • Plundervolt (2019): Undervolting Intel CPUs to corrupt
-
-
----
-
-## 2026-01-24 · Post · 5/ Targeting ARM TrustZone: breaking the world barrier
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062103057699248
-- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 1, retweet 0
-
-> 5/ Targeting ARM TrustZone: breaking the world barrier
+> Imagine a vault door with electronic locks. It works perfectly under normal conditions. But if you zap it with electricity or heat it up, the circuits might glitch—skipping a security check or revealing a code.
 >
-> In TrustZone's secure/normal split, faults can blur the lines.
-> • Fault a Secure Monitor Call (SMC): Glitch the NS bit transition to execute normal code in secure mode.
-> • Bypass PIN checks: Induce faults in authentication
+> Fault injection
 
 
----
+### Thread part 3 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
 
-## 2026-01-24 · Post · 4/ The attacker's arsenal: tools for inducing faults
+- URL: https://x.com/bluethroat_labs/status/2015062074389664078
+- Metrics (at fetch): bookmark 0, impression 29, like 2, quote 0, reply 1, retweet 0
+
+> 3/ Why TEEs are prime targets: trust in hardware
+>
+> TEEs like SGX or TrustZone assume the CPU behaves predictably. Faults break that assumption.
+> • Transient faults: Temporary glitches that alter one computation without permanent damage.
+> • Permanent faults: Rare, but possible with
 
 
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
+### Thread part 4 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
 
 - URL: https://x.com/bluethroat_labs/status/2015062090697056573
 - Metrics (at fetch): bookmark 0, impression 27, like 3, quote 0, reply 1, retweet 0
@@ -2693,64 +2459,127 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G_bwSwRb0AAn_V0.png — no alt text provided by author
 
 
----
+### Thread part 5 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
 
-## 2026-01-24 · Post · 3/ Why TEEs are prime targets: trust in hardware
+- URL: https://x.com/bluethroat_labs/status/2015062103057699248
+- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062074389664078
-- Metrics (at fetch): bookmark 0, impression 29, like 2, quote 0, reply 1, retweet 0
-
-> 3/ Why TEEs are prime targets: trust in hardware
+> 5/ Targeting ARM TrustZone: breaking the world barrier
 >
-> TEEs like SGX or TrustZone assume the CPU behaves predictably. Faults break that assumption.
-> • Transient faults: Temporary glitches that alter one computation without permanent damage.
-> • Permanent faults: Rare, but possible with
+> In TrustZone's secure/normal split, faults can blur the lines.
+> • Fault a Secure Monitor Call (SMC): Glitch the NS bit transition to execute normal code in secure mode.
+> • Bypass PIN checks: Induce faults in authentication
 
 
----
+### Thread part 6 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
 
-## 2026-01-24 · Post · 2/ The core idea: exploiting hardware imperfections
+- URL: https://x.com/bluethroat_labs/status/2015062115422540023
+- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): ZK
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062062423277649
-- Metrics (at fetch): bookmark 0, impression 41, like 2, quote 0, reply 1, retweet 0
-
-> 2/ The core idea: exploiting hardware imperfections
+> 6/ Hitting Intel SGX: enclave breaches via faults
 >
-> Imagine a vault door with electronic locks. It works perfectly under normal conditions. But if you zap it with electricity or heat it up, the circuits might glitch—skipping a security check or revealing a code.
+> SGX enclaves protect memory, but faults target the CPU's execution.
+> • Voltage attacks: Tools like VoltPillager glitch SGX to skip integrity checks or leak sealed data.
+> • Plundervolt (2019): Undervolting Intel CPUs to corrupt
+
+
+### Thread part 7 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015062127518925024
+- Metrics (at fetch): bookmark 0, impression 40, like 1, quote 0, reply 1, retweet 0
+
+> 7/ Attacking AMD SEV: VM secrets via hardware tricks
 >
-> Fault injection
+> SEV's VM encryption relies on the AMD Secure Processor (ASP).
+> • Heracles-like extensions: Fault the ASP to replay old ciphertexts or skip RMP checks.
+> • CacheWarp (2023): Manipulated SEV cache to induce faults, altering
 
 
----
+### Thread part 8 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
 
-## 2026-01-24 · Post · 1/ Fault injection attacks: when hardware glitches become weapons
+- URL: https://x.com/bluethroat_labs/status/2015062139590025260
+- Metrics (at fetch): bookmark 0, impression 13, like 1, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2015062050360471976
-- Metrics (at fetch): bookmark 1, impression 433, like 4, quote 0, reply 1, retweet 2
-
-> 1/ Fault injection attacks: when hardware glitches become weapons
+> 8/ Real-world impacts: from labs to exploits
 >
-> We've explored TrustZone, SGX, SEV, and side-channels—strong defenses against software threats. But what if an attacker tampers with the hardware itself to force errors?
+> These aren't just papers—they're demonstrated:
+> • Fault attacks on TEE-based wallets: Extract seeds by glitching signature verification.
+> • Automotive hacks: Fault ECUs in cars to bypass immobilizers.
+> • Cloud scenarios: While harder
+
+
+### Thread part 9 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015062151539700212
+- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 1, retweet 0
+
+> 9/ Defenses: hardening against glitches
 >
-> Enter fault injection: deliberately
+> No perfect shield, but you can raise the bar:
+>
+> Software:
+> • Redundant computations: Run ops multiple times and vote on results.
+> • Control flow integrity: Add checksums to detect skipped instructions.
+> • Constant-time code: Already helps,
+
+
+### Thread part 10 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015062163594092810
+- Metrics (at fetch): bookmark 1, impression 26, like 1, quote 0, reply 1, retweet 0
+
+> 10/ Key takeaways: fault-aware TEE design
+>
+> Remember when deploying TEEs:
+> ✅ Physical security matters—faults often need proximity.
+> ✅ Combine with other protections (e.g., anti-tampering sensors).
+> ✅ Test for faults: Use tools like ChipWhisperer to simulate attacks.
+> ✅ New gens
+
+
+### Thread part 11 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015062175581430067
+- Metrics (at fetch): bookmark 0, impression 29, like 1, quote 0, reply 1, retweet 0
+
+> Here's a single engaging scenario quiz on fault injection attacks:
+>
+> 🔐 Fault Injection Attack Challenge
+>
+> You're running a cryptocurrency hardware wallet using Intel SGX to protect private keys. Your security setup looks bulletproof:
+>
+> The Setup:
+> Private keys stored in SGX enclave
+
+
+### Thread part 12 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015062188378280316
+- Metrics (at fetch): bookmark 0, impression 381, like 2, quote 0, reply 1, retweet 0
+
+> Answer: B! 🎯
+>
+> Prime+Probe cache attack can extract AES keys from SGX enclaves by exploiting the table lookup pattern in your S-box implementation.
+>
+> Here's how it works:
+>
+> The vulnerability:
+> Your code uses sbox which performs a secret-dependent memory access—the array index
+
+
+### Thread part 13 — @bluethroat_labs — 2026-01-24 14:00 UTC (2026-01-24 15:00 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2015062200373960871
+- Metrics (at fetch): bookmark 0, impression 121, like 2, quote 0, reply 0, retweet 0
+
+> The fix: Constant-time AES
+> Modern crypto libraries use bitsliced implementations that avoid table lookups entirely:
+>
+> // All operations use bitwise logic on registers
+> // Execution path independent of key value
+>
+> Three principles of constant-time crypto:
+> Runtime independent of
 
 
 ---
@@ -2803,203 +2632,38 @@ Tags (automatic): Race condition, TEE / enclave
 
 ---
 
-## 2026-01-23 · Post · ANSWER TO THE PREVIOUS THREAD :
+## 2026-01-23 · Thread · 1/ Side-channel attacks: when isolation isn't enough
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 
 
 ### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
 
-- URL: https://x.com/bluethroat_labs/status/2014647017029697604
-- Metrics (at fetch): bookmark 0, impression 102, like 5, quote 0, reply 0, retweet 0
+- URL: https://x.com/bluethroat_labs/status/2014646880156975173
+- Metrics (at fetch): bookmark 0, impression 716, like 10, quote 1, reply 1, retweet 4
 
-> ANSWER TO THE PREVIOUS THREAD :
+> 1/ Side-channel attacks: when isolation isn't enough
 >
-> Answer: B! 🎯
+> We've covered TrustZone, SGX, and SEV—all provide strong hardware isolation to protect secrets.
 >
-> Heracles is a chosen-plaintext attack that exploits fundamental properties of AMD SEV-SNP's AES-XEX encryption scheme.
+> But there's a catch: even when an attacker can't directly read your data, they can sometimes infer it by watching how the
+
+
+### Thread part 2 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646892052045982
+- Metrics (at fetch): bookmark 0, impression 71, like 4, quote 0, reply 1, retweet 0
+
+> 2/ The fundamental problem: shared hardware leaks information
 >
-> Here's how it works:
-> • Hypervisor can READ encrypted VM memory ciphertext (allowed by design)
-> • SEV-SNP uses
-
-
----
-
-## 2026-01-23 · Post · Lets see if you have what it takes to be a hacker.
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014647004807496034
-- Metrics (at fetch): bookmark 0, impression 83, like 4, quote 0, reply 1, retweet 0
-
-> Lets see if you have what it takes to be a hacker.
+> Analogy time: Imagine a bank with individual safe deposit boxes (like TEE enclaves).
 >
-> QUIZ
-> You're implementing AES-256 encryption inside an Intel SGX enclave to protect API keys. You've been careful about security:
->
-> The Setup:
-> • AES encryption runs entirely inside SGX enclave ✅
-> • Memory is encrypted by SGX's
+> • You can't see inside someone else's box (isolation works ✅)
+> • But you CAN observe: how long they spend at their box, which
 
 
----
-
-## 2026-01-23 · Post · 10/ Key takeaways: building side-channel aware systems
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646992820175261
-- Metrics (at fetch): bookmark 0, impression 20, like 3, quote 0, reply 1, retweet 0
-
-> 10/ Key takeaways: building side-channel aware systems
->
-> When using TEEs, remember:
-> ✅ Hardware isolation stops direct attacks—but not indirect observation
-> ✅ Sensitive algorithms need constant-time implementations
-> ✅ Physical access expands attacker capabilities significantly
-> ✅
-
-
----
-
-## 2026-01-23 · Post · 9/ The hard truth: perfect isolation is impossible
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646980954488888
-- Metrics (at fetch): bookmark 0, impression 19, like 3, quote 0, reply 1, retweet 0
-
-> 9/ The hard truth: perfect isolation is impossible
->
-> Side-channels exist because of a fundamental tension:
->
-> Performance requires:
-> • Shared caches (avoid DRAM latency)
-> • Speculative execution (hide branch costs)
-> • Parallel execution (utilize multiple cores)
->
-> Security requires:
-
-
----
-
-## 2026-01-23 · Post · 8/ Defense strategies: fighting back against side-channels
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646969021689968
-- Metrics (at fetch): bookmark 0, impression 19, like 3, quote 0, reply 1, retweet 0
-
-> 8/ Defense strategies: fighting back against side-channels
->
-> Side-channels are hard to eliminate completely, but you can reduce risk:
->
-> Software mitigations:
-> • Constant-time algorithms: Ensure execution doesn't vary based on secret data
-> • Data-oblivious code: Access memory in
-
-
----
-
-## 2026-01-23 · Post · 7/ Real-world examples: when theory becomes practice
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646957046956408
-- Metrics (at fetch): bookmark 0, impression 34, like 3, quote 0, reply 1, retweet 1
-
-> 7/ Real-world examples: when theory becomes practice
->
-> Foreshadow (2018): Extracted Intel SGX enclave secrets including attestation keys
-> • Fixed with microcode updates + disabling hyper-threading
-> • Newer CPUs have hardware mitigations
->
-> https://t.co/vJBSoMZv52 (2025): Attacked
-
-
----
-
-## 2026-01-23 · Post · 6/ The attacker's toolkit: popular side-channel techniques
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646945105772936
-- Metrics (at fetch): bookmark 0, impression 23, like 3, quote 0, reply 1, retweet 0
-
-> 6/ The attacker's toolkit: popular side-channel techniques
->
-> Different side-channels exploit different shared resources:
->
-> Cache-based:
->
-> • Prime+Probe: Fill cache, let victim run, measure which lines were evicted
-> • Flush+Reload: Flush cache lines, let victim run, time reloads
-> •
-
-
----
-
-## 2026-01-23 · Post · 5/ Speculative execution attacks: Foreshadow and friends
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646933206479007
-- Metrics (at fetch): bookmark 0, impression 16, like 3, quote 0, reply 1, retweet 0
-
-> 5/ Speculative execution attacks: Foreshadow and friends
->
-> Modern CPUs predict the future to go faster—but get it wrong sometimes.
->
-> The attack flow:
-> • CPU speculatively executes instructions before knowing if they're allowed
-> • Speculative path accesses secret data and loads it
-
-
----
-
-## 2026-01-23 · Post · 4/ Cache timing attacks: the classic side-channel
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646921244426569
-- Metrics (at fetch): bookmark 0, impression 19, like 3, quote 0, reply 1, retweet 0
-
-> 4/ Cache timing attacks: the classic side-channel
->
-> The most common technique: exploiting CPU caches.
->
-> How it works:
->
-> • Your TEE code accesses memory → data loads into cache (fast)
-> • Attacker measures access times to same cache lines from outside
-> • Fast access = data was in
-
-
----
-
-## 2026-01-23 · Post · 3/ Why TEEs are vulnerable: the micro-architecture is shared
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+### Thread part 3 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
 
 - URL: https://x.com/bluethroat_labs/status/2014646908908929035
 - Metrics (at fetch): bookmark 0, impression 32, like 5, quote 0, reply 1, retweet 0
@@ -3018,56 +2682,271 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/G_V2sAibEAAOe2-.png — no alt text provided by author
 
 
+### Thread part 4 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646921244426569
+- Metrics (at fetch): bookmark 0, impression 19, like 3, quote 0, reply 1, retweet 0
+
+> 4/ Cache timing attacks: the classic side-channel
+>
+> The most common technique: exploiting CPU caches.
+>
+> How it works:
+>
+> • Your TEE code accesses memory → data loads into cache (fast)
+> • Attacker measures access times to same cache lines from outside
+> • Fast access = data was in
+
+
+### Thread part 5 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646933206479007
+- Metrics (at fetch): bookmark 0, impression 16, like 3, quote 0, reply 1, retweet 0
+
+> 5/ Speculative execution attacks: Foreshadow and friends
+>
+> Modern CPUs predict the future to go faster—but get it wrong sometimes.
+>
+> The attack flow:
+> • CPU speculatively executes instructions before knowing if they're allowed
+> • Speculative path accesses secret data and loads it
+
+
+### Thread part 6 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646945105772936
+- Metrics (at fetch): bookmark 0, impression 23, like 3, quote 0, reply 1, retweet 0
+
+> 6/ The attacker's toolkit: popular side-channel techniques
+>
+> Different side-channels exploit different shared resources:
+>
+> Cache-based:
+>
+> • Prime+Probe: Fill cache, let victim run, measure which lines were evicted
+> • Flush+Reload: Flush cache lines, let victim run, time reloads
+> •
+
+
+### Thread part 7 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646957046956408
+- Metrics (at fetch): bookmark 0, impression 34, like 3, quote 0, reply 1, retweet 1
+
+> 7/ Real-world examples: when theory becomes practice
+>
+> Foreshadow (2018): Extracted Intel SGX enclave secrets including attestation keys
+> • Fixed with microcode updates + disabling hyper-threading
+> • Newer CPUs have hardware mitigations
+>
+> https://t.co/vJBSoMZv52 (2025): Attacked
+
+
+### Thread part 8 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646969021689968
+- Metrics (at fetch): bookmark 0, impression 19, like 3, quote 0, reply 1, retweet 0
+
+> 8/ Defense strategies: fighting back against side-channels
+>
+> Side-channels are hard to eliminate completely, but you can reduce risk:
+>
+> Software mitigations:
+> • Constant-time algorithms: Ensure execution doesn't vary based on secret data
+> • Data-oblivious code: Access memory in
+
+
+### Thread part 9 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646980954488888
+- Metrics (at fetch): bookmark 0, impression 19, like 3, quote 0, reply 1, retweet 0
+
+> 9/ The hard truth: perfect isolation is impossible
+>
+> Side-channels exist because of a fundamental tension:
+>
+> Performance requires:
+> • Shared caches (avoid DRAM latency)
+> • Speculative execution (hide branch costs)
+> • Parallel execution (utilize multiple cores)
+>
+> Security requires:
+
+
+### Thread part 10 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014646992820175261
+- Metrics (at fetch): bookmark 0, impression 20, like 3, quote 0, reply 1, retweet 0
+
+> 10/ Key takeaways: building side-channel aware systems
+>
+> When using TEEs, remember:
+> ✅ Hardware isolation stops direct attacks—but not indirect observation
+> ✅ Sensitive algorithms need constant-time implementations
+> ✅ Physical access expands attacker capabilities significantly
+> ✅
+
+
+### Thread part 11 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014647004807496034
+- Metrics (at fetch): bookmark 0, impression 83, like 4, quote 0, reply 1, retweet 0
+
+> Lets see if you have what it takes to be a hacker.
+>
+> QUIZ
+> You're implementing AES-256 encryption inside an Intel SGX enclave to protect API keys. You've been careful about security:
+>
+> The Setup:
+> • AES encryption runs entirely inside SGX enclave ✅
+> • Memory is encrypted by SGX's
+
+
+### Thread part 12 — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014647017029697604
+- Metrics (at fetch): bookmark 0, impression 102, like 5, quote 0, reply 0, retweet 0
+
+> ANSWER TO THE PREVIOUS THREAD :
+>
+> Answer: B! 🎯
+>
+> Heracles is a chosen-plaintext attack that exploits fundamental properties of AMD SEV-SNP's AES-XEX encryption scheme.
+>
+> Here's how it works:
+> • Hypervisor can READ encrypted VM memory ciphertext (allowed by design)
+> • SEV-SNP uses
+
+
 ---
 
-## 2026-01-23 · Post · 2/ The fundamental problem: shared hardware leaks information
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646892052045982
-- Metrics (at fetch): bookmark 0, impression 71, like 4, quote 0, reply 1, retweet 0
-
-> 2/ The fundamental problem: shared hardware leaks information
->
-> Analogy time: Imagine a bank with individual safe deposit boxes (like TEE enclaves).
->
-> • You can't see inside someone else's box (isolation works ✅)
-> • But you CAN observe: how long they spend at their box, which
-
-
----
-
-## 2026-01-23 · Post · 1/ Side-channel attacks: when isolation isn't enough
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-23 10:30 UTC (2026-01-23 11:30 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014646880156975173
-- Metrics (at fetch): bookmark 0, impression 716, like 10, quote 1, reply 1, retweet 4
-
-> 1/ Side-channel attacks: when isolation isn't enough
->
-> We've covered TrustZone, SGX, and SEV—all provide strong hardware isolation to protect secrets.
->
-> But there's a catch: even when an attacker can't directly read your data, they can sometimes infer it by watching how the
-
-
----
-
-## 2026-01-21 · Post · And the answer to Intel SGX quiz is .................
+## 2026-01-21 · Thread · 1/ AMD SEV: VM-level fortresses for the cloud
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 
 
-### Post — @bluethroat_labs — 2026-01-21 15:44 UTC (2026-01-21 16:44 WAT)
+### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014000942828728633
+- Metrics (at fetch): bookmark 2, impression 288, like 5, quote 0, reply 1, retweet 2
+
+> 1/ AMD SEV: VM-level fortresses for the cloud
+>
+> Shifting from Intel's SGX, AMD Secure Encrypted Virtualization (SEV) takes a different approach—protecting entire virtual machines instead of individual processes.
+>
+> It's like building secure, isolated buildings instead of just secure
+
+
+### Thread part 2 — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014000954694332636
+- Metrics (at fetch): bookmark 0, impression 54, like 4, quote 0, reply 1, retweet 0
+
+> 2/ SEV basics: confidential VMs (cloud or on-prem)
+>
+> At its heart, SEV lets you run entire virtual machines where the memory is encrypted, shielding it from the hypervisor and other VMs.
+>
+> Analogy: Think of a cloud data center as a massive apartment complex.
+>
+> • Normal VMs =
+
+
+### Thread part 3 — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014000966706905240
+- Metrics (at fetch): bookmark 0, impression 36, like 4, quote 0, reply 1, retweet 0
+
+> 3/ The SEV evolution: three generations of protection
+>
+> AMD didn't stop at basic memory encryption—SEV evolved across three major versions:
+>
+> • SEV (Gen 1): Encrypts VM memory with per-VM keys; hypervisor sees only ciphertext
+> • SEV-ES (Encrypted State): encrypts/protects guest
+
+
+### Thread part 4 — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014000978627067945
+- Metrics (at fetch): bookmark 0, impression 31, like 4, quote 0, reply 1, retweet 0
+
+> 4/ Hardware architecture: the AMD Secure Processor
+>
+> AMD doesn't trust software to manage keys—that job goes to dedicated hardware.
+>
+> • AMD Secure Processor (ASP): A separate security co-processor embedded in the EPYC CPU die that manages encryption keys
+> • Per-VM keys: Each VM
+
+
+### Thread part 5 — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014000990597620067
+- Metrics (at fetch): bookmark 0, impression 23, like 4, quote 0, reply 1, retweet 0
+
+> 5/ Memory encryption: protecting data in DRAM
+>
+> SEV encrypts VM memory at the hardware level, outside software control.
+>
+> • C-bit in page tables: A special bit marks pages as "encrypted"; hardware automatically encrypts them before writing to DRAM
+> • ASID-based keys: The memory
+
+
+### Thread part 6 — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014001002521977135
+- Metrics (at fetch): bookmark 0, impression 24, like 4, quote 0, reply 1, retweet 0
+
+> 6/ SEV-SNP: closing the integrity gap
+>
+> Original SEV encrypted data but couldn't prevent all memory manipulation attacks. SEV-SNP fixes this.
+>
+> • Reverse Map Table (RMP): A hardware-managed table that tracks ownership of every physical page, preventing the hypervisor from
+
+
+### Thread part 7 — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014001020314190303
+- Metrics (at fetch): bookmark 0, impression 25, like 4, quote 0, reply 1, retweet 0
+
+> 7/ Attestation: proving your VM is genuine
+>
+> Like other TEEs, SEV provides cryptographic proof of what's running.
+>
+> • Launch measurement: During VM boot, the ASP calculates a hash of the initial memory and VM configuration
+> • Attestation report: The ASP signs this measurement with https://t.co/ZeYHHJCZK0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_MrQTmaoAE9VPx.jpg — no alt text provided by author
+
+
+### Thread part 8 — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014001032687489184
+- Metrics (at fetch): bookmark 0, impression 24, like 4, quote 0, reply 1, retweet 0
+
+> 8/ The hypervisor in SEV: powerful but blinded
+>
+> The hypervisor still controls the VM lifecycle but with limited visibility.
+>
+> • Still manages: CPU scheduling, memory allocation, I/O, and network
+> • Can't see: VM memory contents (encrypted), register state (in SEV-ES), or modify
+
+
+### Thread part 9 — @bluethroat_labs — 2026-01-21 15:44 UTC (2026-01-21 16:44 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2014001044955791646
+- Metrics (at fetch): bookmark 0, impression 73, like 5, quote 0, reply 1, retweet 0
+
+> DID YOU FOLLOW ALONG ???? let's see
+>
+> You're running a confidential database workload in an AMD SEV-SNP protected VM on a public cloud. Your setup looks solid:
+>
+> The Setup:
+> VM memory encrypted with per-VM AES-128 key managed by AMD Secure Processor ✅
+> SEV-SNP enabled with RMP
+
+
+### Thread part 10 — @bluethroat_labs — 2026-01-21 15:44 UTC (2026-01-21 16:44 WAT)
 
 - URL: https://x.com/bluethroat_labs/status/2014001057131831472
 - Metrics (at fetch): bookmark 0, impression 62, like 4, quote 0, reply 0, retweet 0
@@ -3084,261 +2963,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 
 ---
 
-## 2026-01-21 · Post · DID YOU FOLLOW ALONG ???? let's see
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:44 UTC (2026-01-21 16:44 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014001044955791646
-- Metrics (at fetch): bookmark 0, impression 73, like 5, quote 0, reply 1, retweet 0
-
-> DID YOU FOLLOW ALONG ???? let's see
->
-> You're running a confidential database workload in an AMD SEV-SNP protected VM on a public cloud. Your setup looks solid:
->
-> The Setup:
-> VM memory encrypted with per-VM AES-128 key managed by AMD Secure Processor ✅
-> SEV-SNP enabled with RMP
-
-
----
-
-## 2026-01-21 · Post · 8/ The hypervisor in SEV: powerful but blinded
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014001032687489184
-- Metrics (at fetch): bookmark 0, impression 24, like 4, quote 0, reply 1, retweet 0
-
-> 8/ The hypervisor in SEV: powerful but blinded
->
-> The hypervisor still controls the VM lifecycle but with limited visibility.
->
-> • Still manages: CPU scheduling, memory allocation, I/O, and network
-> • Can't see: VM memory contents (encrypted), register state (in SEV-ES), or modify
-
-
----
-
-## 2026-01-21 · Post · 7/ Attestation: proving your VM is genuine
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014001020314190303
-- Metrics (at fetch): bookmark 0, impression 25, like 4, quote 0, reply 1, retweet 0
-
-> 7/ Attestation: proving your VM is genuine
->
-> Like other TEEs, SEV provides cryptographic proof of what's running.
->
-> • Launch measurement: During VM boot, the ASP calculates a hash of the initial memory and VM configuration
-> • Attestation report: The ASP signs this measurement with https://t.co/ZeYHHJCZK0
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G_MrQTmaoAE9VPx.jpg — no alt text provided by author
-
-
----
-
-## 2026-01-21 · Post · 6/ SEV-SNP: closing the integrity gap
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014001002521977135
-- Metrics (at fetch): bookmark 0, impression 24, like 4, quote 0, reply 1, retweet 0
-
-> 6/ SEV-SNP: closing the integrity gap
->
-> Original SEV encrypted data but couldn't prevent all memory manipulation attacks. SEV-SNP fixes this.
->
-> • Reverse Map Table (RMP): A hardware-managed table that tracks ownership of every physical page, preventing the hypervisor from
-
-
----
-
-## 2026-01-21 · Post · 5/ Memory encryption: protecting data in DRAM
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014000990597620067
-- Metrics (at fetch): bookmark 0, impression 23, like 4, quote 0, reply 1, retweet 0
-
-> 5/ Memory encryption: protecting data in DRAM
->
-> SEV encrypts VM memory at the hardware level, outside software control.
->
-> • C-bit in page tables: A special bit marks pages as "encrypted"; hardware automatically encrypts them before writing to DRAM
-> • ASID-based keys: The memory
-
-
----
-
-## 2026-01-21 · Post · 4/ Hardware architecture: the AMD Secure Processor
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014000978627067945
-- Metrics (at fetch): bookmark 0, impression 31, like 4, quote 0, reply 1, retweet 0
-
-> 4/ Hardware architecture: the AMD Secure Processor
->
-> AMD doesn't trust software to manage keys—that job goes to dedicated hardware.
->
-> • AMD Secure Processor (ASP): A separate security co-processor embedded in the EPYC CPU die that manages encryption keys
-> • Per-VM keys: Each VM
-
-
----
-
-## 2026-01-21 · Post · 3/ The SEV evolution: three generations of protection
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014000966706905240
-- Metrics (at fetch): bookmark 0, impression 36, like 4, quote 0, reply 1, retweet 0
-
-> 3/ The SEV evolution: three generations of protection
->
-> AMD didn't stop at basic memory encryption—SEV evolved across three major versions:
->
-> • SEV (Gen 1): Encrypts VM memory with per-VM keys; hypervisor sees only ciphertext
-> • SEV-ES (Encrypted State): encrypts/protects guest
-
-
----
-
-## 2026-01-21 · Post · 2/ SEV basics: confidential VMs (cloud or on-prem)
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014000954694332636
-- Metrics (at fetch): bookmark 0, impression 54, like 4, quote 0, reply 1, retweet 0
-
-> 2/ SEV basics: confidential VMs (cloud or on-prem)
->
-> At its heart, SEV lets you run entire virtual machines where the memory is encrypted, shielding it from the hypervisor and other VMs.
->
-> Analogy: Think of a cloud data center as a massive apartment complex.
->
-> • Normal VMs =
-
-
----
-
-## 2026-01-21 · Post · 1/ AMD SEV: VM-level fortresses for the cloud
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-21 15:43 UTC (2026-01-21 16:43 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2014000942828728633
-- Metrics (at fetch): bookmark 2, impression 288, like 5, quote 0, reply 1, retweet 2
-
-> 1/ AMD SEV: VM-level fortresses for the cloud
->
-> Shifting from Intel's SGX, AMD Secure Encrypted Virtualization (SEV) takes a different approach—protecting entire virtual machines instead of individual processes.
->
-> It's like building secure, isolated buildings instead of just secure
-
-
----
-
-## 2026-01-20 · Post · Did you read the last thread carefully??
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013619004464865612
-- Metrics (at fetch): bookmark 0, impression 97, like 5, quote 0, reply 0, retweet 0
-
-> Did you read the last thread carefully??
-> The answer was..
->
-> “Answer: B! 🎯
->
-> Without an SMMU (System Memory Management Unit) or TZASC (TrustZone Address Space Controller), DMA-capable devices can bypass the NS bit protection and directly access Secure World physical memory.
->
-> The NS
-
-
----
-
-## 2026-01-20 · Post · You're building a secure key management service using Intel SGX enclaves to protect cryptographic ke
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013618992527876394
-- Metrics (at fetch): bookmark 0, impression 95, like 5, quote 0, reply 1, retweet 0
-
-> You're building a secure key management service using Intel SGX enclaves to protect cryptographic keys. Your enclave is properly configured:
->
-> The Setup:
-> Private keys stored in EPC (Enclave Page Cache) ✅
-> Memory encryption active with MEE (Memory Encryption Engine) ✅
-> Remote
-
-
----
-
-## 2026-01-20 · Post · 8/ The OS in SGX: powerful but blind
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013618980364394864
-- Metrics (at fetch): bookmark 0, impression 27, like 4, quote 0, reply 1, retweet 0
-
-> 8/ The OS in SGX: powerful but blind
->
->  The OS/hypervisor still runs the show but with blinders on.
-> • Allocates EPC but sees only ciphertext.
-> • Handles paging (evicting enclave pages) but can't tamper undetected.
-> • Can deny service (e.g., starve CPU time) but not steal secrets.
-
-
----
-
-## 2026-01-20 · Post · 7/ Attestation: proving your enclave's pedigree
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013618968406434226
-- Metrics (at fetch): bookmark 0, impression 26, like 4, quote 0, reply 1, retweet 0
-
-> 7/ Attestation: proving your enclave's pedigree
->
-> To build remote trust, SGX provides cryptographic evidence.
->
-> • Local attestation: Enclaves verify each other on the same machine.
-> • Remote attestation: Generates a "quote" signed by Intel's service, including measurements and
-
-
----
-
-## 2026-01-20 · Post · 6/ Interfacing with the outside: calls across the boundary
+## 2026-01-20 · Thread · 1/ Intel SGX: enclaves for app-level fortresses
 
 
 Tags (automatic): ZK, TEE / enclave
@@ -3346,29 +2971,59 @@ Tags (automatic): ZK, TEE / enclave
 
 ### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
 
-- URL: https://x.com/bluethroat_labs/status/2013618955831906364
-- Metrics (at fetch): bookmark 0, impression 34, like 4, quote 0, reply 1, retweet 0
+- URL: https://x.com/bluethroat_labs/status/2013618885699027328
+- Metrics (at fetch): bookmark 3, impression 925, like 7, quote 1, reply 1, retweet 1
 
-> 6/ Interfacing with the outside: calls across the boundary
+> 1/ Intel SGX: enclaves for app-level fortresses
 >
-> Enclaves aren't hermits—they need I/O, but safely.
+> Shifting gears from ARM's world-split, Intel Software Guard Extensions (SGX) takes a different tack—focusing on isolating specific parts of applications rather than entire systems.
 >
-> Think Linux syscalls : Enclaves call out (OCALLs) to untrusted code for things like file access, without exposing internals.
-> • Host app calls in via ECALLs: Defined https://t.co/zKQqLCrXtZ
+> It’s like carving out secure vaults within a
+
+
+### Thread part 2 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013618897635942824
+- Metrics (at fetch): bookmark 0, impression 92, like 5, quote 0, reply 1, retweet 0
+
+> 2/ SGX basics: building protected bubbles
+>
+> At its heart, SGX lets you create "enclaves"—isolated regions of memory where code and data are shielded from everything else, including the OS and hypervisor.
+>
+> Analogy time: Think of the host system as a bustling apartment building.
+> •
+
+
+### Thread part 3 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013618909510091165
+- Metrics (at fetch): bookmark 0, impression 61, like 5, quote 0, reply 1, retweet 0
+
+> 3/ The enclave lifecycle: from creation to execution
+>
+> Launching an enclave is a deliberate process to ensure integrity from the start.
+> • ECREATE: Sets up the enclave structure.
+> • EADD/EEXTEND: Loads code/data pages, measuring (hashing) them as you add more data.
+> • EINIT: Seals
+
+
+### Thread part 4 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013618924706017456
+- Metrics (at fetch): bookmark 0, impression 43, like 4, quote 0, reply 1, retweet 0
+
+> 4/ Hardware shields: CPU as the gatekeeper
+>
+> Intel doesn't trust software layers; the CPU enforces isolation directly.
+>
+> • Enclave Page Cache (EPC): Special RAM reserved for enclaves, managed by hardware.
+> EPC is carved out of DRAM and protected as Processor Reserved Memory (PRM), https://t.co/Rp0RGpE8bG
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G_HPxP9aEAAuEVE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G_HPveSagAEBKlh.jpg — no alt text provided by author
 
 
----
-
-## 2026-01-20 · Post · 5/ Memory protection: encryption and integrity in action
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
+### Thread part 5 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
 
 - URL: https://x.com/bluethroat_labs/status/2013618940749193513
 - Metrics (at fetch): bookmark 0, impression 35, like 4, quote 0, reply 1, retweet 0
@@ -3385,239 +3040,109 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G_HPwW8aoAQCrow.png — no alt text provided by author
 
 
----
+### Thread part 6 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
 
-## 2026-01-20 · Post · 4/ Hardware shields: CPU as the gatekeeper
+- URL: https://x.com/bluethroat_labs/status/2013618955831906364
+- Metrics (at fetch): bookmark 0, impression 34, like 4, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013618924706017456
-- Metrics (at fetch): bookmark 0, impression 43, like 4, quote 0, reply 1, retweet 0
-
-> 4/ Hardware shields: CPU as the gatekeeper
+> 6/ Interfacing with the outside: calls across the boundary
 >
-> Intel doesn't trust software layers; the CPU enforces isolation directly.
+> Enclaves aren't hermits—they need I/O, but safely.
 >
-> • Enclave Page Cache (EPC): Special RAM reserved for enclaves, managed by hardware.
-> EPC is carved out of DRAM and protected as Processor Reserved Memory (PRM), https://t.co/Rp0RGpE8bG
+> Think Linux syscalls : Enclaves call out (OCALLs) to untrusted code for things like file access, without exposing internals.
+> • Host app calls in via ECALLs: Defined https://t.co/zKQqLCrXtZ
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G_HPveSagAEBKlh.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G_HPxP9aEAAuEVE.jpg — no alt text provided by author
 
 
----
+### Thread part 7 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
 
-## 2026-01-20 · Post · 3/ The enclave lifecycle: from creation to execution
+- URL: https://x.com/bluethroat_labs/status/2013618968406434226
+- Metrics (at fetch): bookmark 0, impression 26, like 4, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013618909510091165
-- Metrics (at fetch): bookmark 0, impression 61, like 5, quote 0, reply 1, retweet 0
-
-> 3/ The enclave lifecycle: from creation to execution
+> 7/ Attestation: proving your enclave's pedigree
 >
-> Launching an enclave is a deliberate process to ensure integrity from the start.
-> • ECREATE: Sets up the enclave structure.
-> • EADD/EEXTEND: Loads code/data pages, measuring (hashing) them as you add more data.
-> • EINIT: Seals
-
-
----
-
-## 2026-01-20 · Post · 2/ SGX basics: building protected bubbles
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013618897635942824
-- Metrics (at fetch): bookmark 0, impression 92, like 5, quote 0, reply 1, retweet 0
-
-> 2/ SGX basics: building protected bubbles
+> To build remote trust, SGX provides cryptographic evidence.
 >
-> At its heart, SGX lets you create "enclaves"—isolated regions of memory where code and data are shielded from everything else, including the OS and hypervisor.
+> • Local attestation: Enclaves verify each other on the same machine.
+> • Remote attestation: Generates a "quote" signed by Intel's service, including measurements and
+
+
+### Thread part 8 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013618980364394864
+- Metrics (at fetch): bookmark 0, impression 27, like 4, quote 0, reply 1, retweet 0
+
+> 8/ The OS in SGX: powerful but blind
 >
-> Analogy time: Think of the host system as a bustling apartment building.
-> •
+>  The OS/hypervisor still runs the show but with blinders on.
+> • Allocates EPC but sees only ciphertext.
+> • Handles paging (evicting enclave pages) but can't tamper undetected.
+> • Can deny service (e.g., starve CPU time) but not steal secrets.
 
 
----
+### Thread part 9 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
 
-## 2026-01-20 · Post · 1/ Intel SGX: enclaves for app-level fortresses
+- URL: https://x.com/bluethroat_labs/status/2013618992527876394
+- Metrics (at fetch): bookmark 0, impression 95, like 5, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013618885699027328
-- Metrics (at fetch): bookmark 3, impression 925, like 7, quote 1, reply 1, retweet 1
-
-> 1/ Intel SGX: enclaves for app-level fortresses
->
-> Shifting gears from ARM's world-split, Intel Software Guard Extensions (SGX) takes a different tack—focusing on isolating specific parts of applications rather than entire systems.
->
-> It’s like carving out secure vaults within a
-
-
----
-
-## 2026-01-19 · Post · Now the answer of the previous thread :
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277615117812137
-- Metrics (at fetch): bookmark 0, impression 74, like 4, quote 0, reply 0, retweet 0
-
-> Now the answer of the previous thread :
->
-> Answer: B! 🎯
->
-> While SGX encrypts memory and protects data confidentiality (blocking A, C, D), it can't hide which addresses you access. Attackers monitoring cache/memory bus can infer patterns. This is how attacks like
-
-
----
-
-## 2026-01-19 · Post · Quiz time, let's see if you've been following along.
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277602694176877
-- Metrics (at fetch): bookmark 0, impression 87, like 4, quote 0, reply 1, retweet 0
-
-> Quiz time, let's see if you've been following along.
->
-> You're a developer building a payment app on an ARM device with TrustZone. Your sensitive PIN validation logic runs in the Secure World, while the rest of your app (UI, networking) runs in the Normal World.
+> You're building a secure key management service using Intel SGX enclaves to protect cryptographic keys. Your enclave is properly configured:
 >
 > The Setup:
+> Private keys stored in EPC (Enclave Page Cache) ✅
+> Memory encryption active with MEE (Memory Encryption Engine) ✅
+> Remote
+
+
+### Thread part 10 — @bluethroat_labs — 2026-01-20 14:25 UTC (2026-01-20 15:25 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013619004464865612
+- Metrics (at fetch): bookmark 0, impression 97, like 5, quote 0, reply 0, retweet 0
+
+> Did you read the last thread carefully??
+> The answer was..
 >
-> PIN
+> “Answer: B! 🎯
+>
+> Without an SMMU (System Memory Management Unit) or TZASC (TrustZone Address Space Controller), DMA-capable devices can bypass the NS bit protection and directly access Secure World physical memory.
+>
+> The NS
 
 
 ---
 
-## 2026-01-19 · Post · 8/ The fine print: nuances in the switch
+## 2026-01-19 · Thread · 1/ Before jumping into vendor specifics, remember: a TEE isn't a strict blueprint—it's more like a s
 
 
-### Post — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277590060986622
-- Metrics (at fetch): bookmark 0, impression 30, like 3, quote 0, reply 1, retweet 0
-
-> 8/ The fine print: nuances in the switch
->
-> Crossing from Normal to Secure isn't instant magic—it involves checks galore:
-> • System validations to ensure legitimacy.
-> • Access controls to block unauthorized jumps.
-> • NS bit toggling to enforce the mode shift.
->
-> Only trusted
-
-
----
-
-## 2026-01-19 · Post · 7/ Bridging the gap: how Normal talks to Secure
-
-
-Tags (automatic): Memory corruption / native
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277576756601211
-- Metrics (at fetch): bookmark 0, impression 29, like 3, quote 0, reply 1, retweet 0
-
-> 7/ Bridging the gap: how Normal talks to Secure
->
-> If Secure World is so isolated, how does Normal World ever tap into it?
-> Think Linux syscalls: User apps (Normal) request kernel (Secure) help for sensitive stuff like network access, without ever touching the raw hardware.
->
-> ARM https://t.co/soiYJ234Kn
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G_CZSPJXYAAm9lg.png — no alt text provided by author
-
-
----
-
-## 2026-01-19 · Post · 6/ Hardware enforcers: the tech that makes it real
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277556607246418
-- Metrics (at fetch): bookmark 0, impression 25, like 3, quote 0, reply 1, retweet 0
-
-> 6/ Hardware enforcers: the tech that makes it real
->
-> ARM doesn't rely on software goodwill; it's hardware all the way down with three key pieces:
->
-> • AMBA AXI bus: Divides the whole System-on-Chip (SoC). Carries an extra signal bit (like AWPROT for writes, ARPROT for reads) to tag
-
-
----
-
-## 2026-01-19 · Post · 5/ The magic bit: ARM's secret sauce
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277543898444206
-- Metrics (at fetch): bookmark 0, impression 34, like 3, quote 0, reply 1, retweet 0
-
-> 5/ The magic bit: ARM's secret sauce
->
-> The switch between worlds? It's all thanks to the Secure Configuration Register (SCR) and its "Non-secure Bit" (NS).
->
-> • NS = 1: You're in the non-secure (Normal) world.
-> • NS = 0: Locked into secure mode.
->
-> This bit is one of the key anchors
-
-
----
-
-## 2026-01-19 · Post · 4/ ARM TrustZone: two worlds, one chip
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277531407802503
-- Metrics (at fetch): bookmark 0, impression 27, like 3, quote 0, reply 1, retweet 0
-
-> 4/ ARM TrustZone: two worlds, one chip
->
-> Imagine two parallel universes on the same hardware: a Secure World (everything verified and trusted) and a Normal World (where trust is optional, and chaos reigns).
->
-> Analogy time: It's like a hospital setup.
-> • Normal World = the waiting
-
-
----
-
-## 2026-01-19 · Post · 3/ Vendor showdown: how the big players build TEEs
-
-
-Tags (automatic): TEE / enclave
+Tags (automatic): TEE / enclave, Memory corruption / native
 
 
 ### Post — @bluethroat_labs — 2026-01-19 15:48 UTC (2026-01-19 16:48 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277489158594716
+- Metrics (at fetch): bookmark 1, impression 764, like 6, quote 1, reply 1, retweet 3
+
+> 1/ Before jumping into vendor specifics, remember: a TEE isn't a strict blueprint—it's more like a set of guidelines.
+>
+> The Confidential Computing Consortium (CCC) lays out key security must-haves, without dictating the exact tech to get there.
+>
+> Any TEE solution needs to deliver
+
+
+### Thread part 2 — @bluethroat_labs — 2026-01-19 15:48 UTC (2026-01-19 16:48 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277501523472835
+- Metrics (at fetch): bookmark 0, impression 64, like 3, quote 0, reply 1, retweet 0
+
+> 2/ Core guarantees: what every TEE must provide
+>
+> At minimum, a TEE has to nail these three pillars:
+> • Data confidentiality: No unauthorized peeking at data while it's being processed inside the TEE.
+> • Data integrity: Outsiders can't sneak in additions, deletions, or tweaks to
+
+
+### Thread part 3 — @bluethroat_labs — 2026-01-19 15:48 UTC (2026-01-19 16:48 WAT)
 
 - URL: https://x.com/bluethroat_labs/status/2013277518564843843
 - Metrics (at fetch): bookmark 0, impression 62, like 3, quote 0, reply 1, retweet 0
@@ -3637,49 +3162,106 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G_CZO9uXcAA8X6E.jpg — no alt text provided by author
 
 
+### Thread part 4 — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277531407802503
+- Metrics (at fetch): bookmark 0, impression 27, like 3, quote 0, reply 1, retweet 0
+
+> 4/ ARM TrustZone: two worlds, one chip
+>
+> Imagine two parallel universes on the same hardware: a Secure World (everything verified and trusted) and a Normal World (where trust is optional, and chaos reigns).
+>
+> Analogy time: It's like a hospital setup.
+> • Normal World = the waiting
+
+
+### Thread part 5 — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277543898444206
+- Metrics (at fetch): bookmark 0, impression 34, like 3, quote 0, reply 1, retweet 0
+
+> 5/ The magic bit: ARM's secret sauce
+>
+> The switch between worlds? It's all thanks to the Secure Configuration Register (SCR) and its "Non-secure Bit" (NS).
+>
+> • NS = 1: You're in the non-secure (Normal) world.
+> • NS = 0: Locked into secure mode.
+>
+> This bit is one of the key anchors
+
+
+### Thread part 6 — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277556607246418
+- Metrics (at fetch): bookmark 0, impression 25, like 3, quote 0, reply 1, retweet 0
+
+> 6/ Hardware enforcers: the tech that makes it real
+>
+> ARM doesn't rely on software goodwill; it's hardware all the way down with three key pieces:
+>
+> • AMBA AXI bus: Divides the whole System-on-Chip (SoC). Carries an extra signal bit (like AWPROT for writes, ARPROT for reads) to tag
+
+
+### Thread part 7 — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277576756601211
+- Metrics (at fetch): bookmark 0, impression 29, like 3, quote 0, reply 1, retweet 0
+
+> 7/ Bridging the gap: how Normal talks to Secure
+>
+> If Secure World is so isolated, how does Normal World ever tap into it?
+> Think Linux syscalls: User apps (Normal) request kernel (Secure) help for sensitive stuff like network access, without ever touching the raw hardware.
+>
+> ARM https://t.co/soiYJ234Kn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_CZSPJXYAAm9lg.png — no alt text provided by author
+
+
+### Thread part 8 — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277590060986622
+- Metrics (at fetch): bookmark 0, impression 30, like 3, quote 0, reply 1, retweet 0
+
+> 8/ The fine print: nuances in the switch
+>
+> Crossing from Normal to Secure isn't instant magic—it involves checks galore:
+> • System validations to ensure legitimacy.
+> • Access controls to block unauthorized jumps.
+> • NS bit toggling to enforce the mode shift.
+>
+> Only trusted
+
+
+### Thread part 9 — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277602694176877
+- Metrics (at fetch): bookmark 0, impression 87, like 4, quote 0, reply 1, retweet 0
+
+> Quiz time, let's see if you've been following along.
+>
+> You're a developer building a payment app on an ARM device with TrustZone. Your sensitive PIN validation logic runs in the Secure World, while the rest of your app (UI, networking) runs in the Normal World.
+>
+> The Setup:
+>
+> PIN
+
+
+### Thread part 10 — @bluethroat_labs — 2026-01-19 15:49 UTC (2026-01-19 16:49 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2013277615117812137
+- Metrics (at fetch): bookmark 0, impression 74, like 4, quote 0, reply 0, retweet 0
+
+> Now the answer of the previous thread :
+>
+> Answer: B! 🎯
+>
+> While SGX encrypts memory and protects data confidentiality (blocking A, C, D), it can't hide which addresses you access. Attackers monitoring cache/memory bus can infer patterns. This is how attacks like
+
+
 ---
 
-## 2026-01-19 · Post · 2/ Core guarantees: what every TEE must provide
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:48 UTC (2026-01-19 16:48 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277501523472835
-- Metrics (at fetch): bookmark 0, impression 64, like 3, quote 0, reply 1, retweet 0
-
-> 2/ Core guarantees: what every TEE must provide
->
-> At minimum, a TEE has to nail these three pillars:
-> • Data confidentiality: No unauthorized peeking at data while it's being processed inside the TEE.
-> • Data integrity: Outsiders can't sneak in additions, deletions, or tweaks to
-
-
----
-
-## 2026-01-19 · Post · 1/ Before jumping into vendor specifics, remember: a TEE isn't a strict blueprint—it's more like a s
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-19 15:48 UTC (2026-01-19 16:48 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2013277489158594716
-- Metrics (at fetch): bookmark 1, impression 764, like 6, quote 1, reply 1, retweet 3
-
-> 1/ Before jumping into vendor specifics, remember: a TEE isn't a strict blueprint—it's more like a set of guidelines.
->
-> The Confidential Computing Consortium (CCC) lays out key security must-haves, without dictating the exact tech to get there.
->
-> Any TEE solution needs to deliver
-
-
----
-
-## 2026-01-16 · Post · QUIZ TIME
+## 2026-01-16 · Thread · 1/ So you don’t trust your own computer…
 
 
 Tags (automatic): TEE / enclave, AI-assisted hunting
@@ -3687,131 +3269,84 @@ Tags (automatic): TEE / enclave, AI-assisted hunting
 
 ### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-- URL: https://x.com/bluethroat_labs/status/2012172169669947760
-- Metrics (at fetch): bookmark 2, impression 191, like 8, quote 0, reply 3, retweet 0
+- URL: https://x.com/bluethroat_labs/status/2012172015260901560
+- Metrics (at fetch): bookmark 9, impression 1469, like 14, quote 1, reply 1, retweet 4
 
-> QUIZ TIME
+> 1/ So you don’t trust your own computer…
 >
-> Q) Your company runs an AI model in the cloud that processes sensitive medical data. You're using Intel SGX enclaves to protect it.
+> You’re running code on a machine where the OS, hypervisor, and even the cloud provider might be compromised.
 >
-> The Setup:
-> • Model runs inside SGX enclave
-> • Cloud provider has full root access to the host OS
-> • Memory encryption is active
-> • https://t.co/rj2zYM1GEH
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G-yr7L8asAAx0Yi.jpg — no alt text provided by author
+> You still want to keep your keys, models, or data secret. That’s the problem Trusted Execution Environments (TEEs) try to
 
 
----
+### Thread part 2 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 12/ One concept, many shapes
+- URL: https://x.com/bluethroat_labs/status/2012172027285914022
+- Metrics (at fetch): bookmark 0, impression 150, like 6, quote 0, reply 1, retweet 0
 
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172151969943553
-- Metrics (at fetch): bookmark 0, impression 186, like 6, quote 0, reply 1, retweet 0
-
-> 12/ One concept, many shapes
+> 2/ The “safe inside the vault”
 >
-> Different vendors implement TEEs at different granularity:
-> • Some isolate individual applications or components.
-> • Some protect whole VMs.
-> • Some split the CPU into a “secure world” and a “normal world.”
-
-
----
-
-## 2026-01-16 · Post · 11/ Attestation: proving what’s inside the safe
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172140121055496
-- Metrics (at fetch): bookmark 0, impression 66, like 5, quote 0, reply 1, retweet 0
-
-> 11/ Attestation: proving what’s inside the safe
+> Old analogy:
+> • Vault = the whole machine
+> • Manager = OS/hypervisor
+> • Cash = your secrets
+> A TEE is like installing a tamper‑resistant safe inside the vault.
 >
-> Remote attestation is what lets a remote party trust a TEE:
-> • The TEE produces a signed report that includes measurements (hashes) of the code/config running inside.
-> • A verifier checks this against known‑good values and the
+> The manager still runs the vault, but the safe has its own lock and rules the manager
 
 
----
+### Thread part 3 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 10/ Secure boot: how the chain of trust starts
+- URL: https://x.com/bluethroat_labs/status/2012172039193493539
+- Metrics (at fetch): bookmark 0, impression 116, like 6, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172128276373607
-- Metrics (at fetch): bookmark 0, impression 65, like 5, quote 0, reply 1, retweet 0
-
-> 10/ Secure boot: how the chain of trust starts
+> 3/ What TEEs actually guarantee (at a high level)
 >
-> TEEs don’t mean much if the platform can boot arbitrary firmware:
-> • Boot starts from a small, immutable root of trust burned into hardware.
-> • Each next stage (bootloader, firmware, TEE runtime) is verified with digital signatures
+> For a generic production TEE, the goals look like this:
+> • Code and data inside the TEE stay confidential from the rest of the system.
+> • Their integrity is protected: other software can’t modify them arbitrarily.
+> • You can
 
 
----
+### Thread part 4 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 9/ Memory encryption: scrambling outside the boundary
+- URL: https://x.com/bluethroat_labs/status/2012172051130560891
+- Metrics (at fetch): bookmark 0, impression 83, like 5, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172116402339954
-- Metrics (at fetch): bookmark 0, impression 65, like 5, quote 0, reply 1, retweet 0
-
-> 9/ Memory encryption: scrambling outside the boundary
+> 4/ Hardware‑enforced isolation, not “software magic”
 >
-> To protect data “in use,” TEEs combine access control with memory encryption:
-> • When enclave data leaves the CPU and sits in RAM, it’s encrypted with hardware‑managed keys.
-> • Those keys are bound to that physical processor
+> The key idea: isolation is enforced by the processor, not by the OS.
+> • Normal applications run in the “normal world.”
+> • TEE applications run in a protected execution context with extra hardware checks.
+> • The OS is still
 
 
----
+### Thread part 5 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 8/ Enclaves: safes in RAM
+- URL: https://x.com/bluethroat_labs/status/2012172063155609660
+- Metrics (at fetch): bookmark 0, impression 74, like 5, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172104314307026
-- Metrics (at fetch): bookmark 0, impression 64, like 5, quote 0, reply 1, retweet 0
-
-> 8/ Enclaves: safes in RAM
+> 5/ Trusted Applications (TAs): who gets to run inside
 >
-> Many TEEs expose an abstraction often called an enclave (name varies by vendor):
-> • Think of an enclave as a protected region of memory plus some code.
-> • Data inside is visible in cleartext only while the CPU is executing in that enclave context.
-> •
+> Code that runs in the TEE is often called a Trusted Application (TA):
+> • It must be authorized: usually signed or at least cryptographically measured against some root of trust.
+> • Who controls that root depends on the
 
 
----
+### Thread part 6 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 7/ The OS is untrusted but still in the loop
+- URL: https://x.com/bluethroat_labs/status/2012172074975158670
+- Metrics (at fetch): bookmark 0, impression 63, like 5, quote 0, reply 1, retweet 0
+
+> 6/ TA isolation: safes within the safe
+>
+> Inside the TEE, different TAs don’t see each other’s secrets by default:
+> • Each TA gets its own isolated memory region.
+> • Hardware-level access control stops one TA from reading another TA’s data.
+> • The TEE runtime enforces that calls
 
 
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
+### Thread part 7 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
 - URL: https://x.com/bluethroat_labs/status/2012172091983053213
 - Metrics (at fetch): bookmark 0, impression 72, like 5, quote 0, reply 1, retweet 0
@@ -3831,131 +3366,85 @@ Tags (automatic): TEE / enclave
 - photo: https://pbs.twimg.com/media/G-yr2rEbgAAQzlQ.png — no alt text provided by author
 
 
----
+### Thread part 8 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 6/ TA isolation: safes within the safe
+- URL: https://x.com/bluethroat_labs/status/2012172104314307026
+- Metrics (at fetch): bookmark 0, impression 64, like 5, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172074975158670
-- Metrics (at fetch): bookmark 0, impression 63, like 5, quote 0, reply 1, retweet 0
-
-> 6/ TA isolation: safes within the safe
+> 8/ Enclaves: safes in RAM
 >
-> Inside the TEE, different TAs don’t see each other’s secrets by default:
-> • Each TA gets its own isolated memory region.
-> • Hardware-level access control stops one TA from reading another TA’s data.
-> • The TEE runtime enforces that calls
+> Many TEEs expose an abstraction often called an enclave (name varies by vendor):
+> • Think of an enclave as a protected region of memory plus some code.
+> • Data inside is visible in cleartext only while the CPU is executing in that enclave context.
+> •
 
 
----
+### Thread part 9 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 5/ Trusted Applications (TAs): who gets to run inside
+- URL: https://x.com/bluethroat_labs/status/2012172116402339954
+- Metrics (at fetch): bookmark 0, impression 65, like 5, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172063155609660
-- Metrics (at fetch): bookmark 0, impression 74, like 5, quote 0, reply 1, retweet 0
-
-> 5/ Trusted Applications (TAs): who gets to run inside
+> 9/ Memory encryption: scrambling outside the boundary
 >
-> Code that runs in the TEE is often called a Trusted Application (TA):
-> • It must be authorized: usually signed or at least cryptographically measured against some root of trust.
-> • Who controls that root depends on the
+> To protect data “in use,” TEEs combine access control with memory encryption:
+> • When enclave data leaves the CPU and sits in RAM, it’s encrypted with hardware‑managed keys.
+> • Those keys are bound to that physical processor
 
 
----
+### Thread part 10 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 4/ Hardware‑enforced isolation, not “software magic”
+- URL: https://x.com/bluethroat_labs/status/2012172128276373607
+- Metrics (at fetch): bookmark 0, impression 65, like 5, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172051130560891
-- Metrics (at fetch): bookmark 0, impression 83, like 5, quote 0, reply 1, retweet 0
-
-> 4/ Hardware‑enforced isolation, not “software magic”
+> 10/ Secure boot: how the chain of trust starts
 >
-> The key idea: isolation is enforced by the processor, not by the OS.
-> • Normal applications run in the “normal world.”
-> • TEE applications run in a protected execution context with extra hardware checks.
-> • The OS is still
+> TEEs don’t mean much if the platform can boot arbitrary firmware:
+> • Boot starts from a small, immutable root of trust burned into hardware.
+> • Each next stage (bootloader, firmware, TEE runtime) is verified with digital signatures
 
 
----
+### Thread part 11 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 3/ What TEEs actually guarantee (at a high level)
+- URL: https://x.com/bluethroat_labs/status/2012172140121055496
+- Metrics (at fetch): bookmark 0, impression 66, like 5, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172039193493539
-- Metrics (at fetch): bookmark 0, impression 116, like 6, quote 0, reply 1, retweet 0
-
-> 3/ What TEEs actually guarantee (at a high level)
+> 11/ Attestation: proving what’s inside the safe
 >
-> For a generic production TEE, the goals look like this:
-> • Code and data inside the TEE stay confidential from the rest of the system.
-> • Their integrity is protected: other software can’t modify them arbitrarily.
-> • You can
+> Remote attestation is what lets a remote party trust a TEE:
+> • The TEE produces a signed report that includes measurements (hashes) of the code/config running inside.
+> • A verifier checks this against known‑good values and the
 
 
----
+### Thread part 12 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
 
-## 2026-01-16 · Post · 2/ The “safe inside the vault”
+- URL: https://x.com/bluethroat_labs/status/2012172151969943553
+- Metrics (at fetch): bookmark 0, impression 186, like 6, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172027285914022
-- Metrics (at fetch): bookmark 0, impression 150, like 6, quote 0, reply 1, retweet 0
-
-> 2/ The “safe inside the vault”
+> 12/ One concept, many shapes
 >
-> Old analogy:
-> • Vault = the whole machine
-> • Manager = OS/hypervisor
-> • Cash = your secrets
-> A TEE is like installing a tamper‑resistant safe inside the vault.
+> Different vendors implement TEEs at different granularity:
+> • Some isolate individual applications or components.
+> • Some protect whole VMs.
+> • Some split the CPU into a “secure world” and a “normal world.”
+
+
+### Thread part 13 — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2012172169669947760
+- Metrics (at fetch): bookmark 2, impression 191, like 8, quote 0, reply 3, retweet 0
+
+> QUIZ TIME
 >
-> The manager still runs the vault, but the safe has its own lock and rules the manager
-
-
----
-
-## 2026-01-16 · Post · 1/ So you don’t trust your own computer…
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @bluethroat_labs — 2026-01-16 14:36 UTC (2026-01-16 15:36 WAT)
-
-- URL: https://x.com/bluethroat_labs/status/2012172015260901560
-- Metrics (at fetch): bookmark 9, impression 1469, like 14, quote 1, reply 1, retweet 4
-
-> 1/ So you don’t trust your own computer…
+> Q) Your company runs an AI model in the cloud that processes sensitive medical data. You're using Intel SGX enclaves to protect it.
 >
-> You’re running code on a machine where the OS, hypervisor, and even the cloud provider might be compromised.
->
-> You still want to keep your keys, models, or data secret. That’s the problem Trusted Execution Environments (TEEs) try to
+> The Setup:
+> • Model runs inside SGX enclave
+> • Cloud provider has full root access to the host OS
+> • Memory encryption is active
+> • https://t.co/rj2zYM1GEH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G-yr7L8asAAx0Yi.jpg — no alt text provided by author
 
 
 ---

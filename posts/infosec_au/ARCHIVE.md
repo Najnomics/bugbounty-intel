@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 231
-- Conversations/threads: 221
+- Posts in this file: 232
+- Conversations/threads: 222
 - Oldest post captured: 2015-07-16
 - Newest post captured: 2026-11-07
 
@@ -592,6 +592,19 @@ Tags (automatic): Auth bypass, Memory corruption / native
 > Earlier this year @SLCyberSec’s research team disclosed a vulnerability that allowed us to leak PII and emails stored inside Salesforce Marketing Cloud instances, for any customer, without authentication. You can read more about our research here: https://slcyber.io/research-center/ghosts-of-encryption-past-salesforce-exacttarget/
 
 **Links in post:** https://slcyber.io/research-center/ghosts-of-encryption-past-salesforce-exacttarget/
+
+
+---
+
+## 2026-04-30 · Reply · @SinSinology @SLCyberSec Hey, we actually had an exploit for this in early April, but your team did 
+
+
+### Post — @infosec_au — 2026-04-30 09:19 UTC (2026-04-30 10:19 WAT)
+
+- URL: https://x.com/infosec_au/status/2049780777983111398
+- Metrics (at fetch): bookmark 1, impression 3437, like 19, quote 0, reply 1, retweet 0
+
+> @SinSinology @SLCyberSec Hey, we actually had an exploit for this in early April, but your team did a pretty great job at reversing it too. I have receipts if you want to see them? Our research got burned by a different threat actor group (earlier exploitation in Feb).
 
 
 ---

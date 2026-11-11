@@ -3551,9 +3551,9 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 Tags (automatic): Platform: HackenProof
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @keterka — 2026-10-30 00:18 UTC (2026-10-30 01:18 WAT)
+#### Root post — @keterka — 2026-10-30 00:18 UTC (2026-10-30 01:18 WAT)
 
 - URL: https://x.com/keterka/status/2115961607679254802
 - Metrics (at fetch): bookmark 0, impression 922, like 32, quote 0, reply 2, retweet 0

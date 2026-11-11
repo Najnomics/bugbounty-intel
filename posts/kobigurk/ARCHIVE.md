@@ -2,15 +2,15 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 107
-- Conversations/threads: 106
+- Posts in this file: 121
+- Conversations/threads: 105
 - Oldest post captured: 2014-01-16
 - Newest post captured: 2026-11-07
 
 
 ---
 
-## 2026-11-07 · Post · Experimenting with conjuring proofs for cryptographic code
+## 2026-11-07 · Thread · Experimenting with conjuring proofs for cryptographic code
 
 
 Tags (automatic): ZK
@@ -31,6 +31,94 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HWfFca0WcAABVhq.jpg — no alt text provided by author
+
+
+### Thread part 2 — @kobigurk — 2026-11-07 01:32 UTC (2026-11-07 02:32 WAT)
+
+- URL: https://x.com/kobigurk/status/2118879251827192144
+- Metrics (at fetch): bookmark 0, impression 406, like 10, quote 0, reply 1, retweet 1
+
+> Aeneas allows you to extract Rust code into Lean - so, can we use it to show algorithms in arkworks are equivalent to the Lean spec?
+>
+> As you can see in the diagram above - not quite yet, but maybe something pretty good regardless
+>
+> 2/7 https://t.co/DGQQyRynuW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWfFcz9WkAAPJiM.jpg — no alt text provided by author
+
+
+### Thread part 3 — @kobigurk — 2026-11-07 01:32 UTC (2026-11-07 02:32 WAT)
+
+- URL: https://x.com/kobigurk/status/2118879258441589194
+- Metrics (at fetch): bookmark 0, impression 246, like 6, quote 0, reply 1, retweet 0
+
+> Aeneas supports a subset of Rust, and so arkworks can’t be extracted directly
+>
+> So what my robot friends did was to write a minimal Rust library that tries to be faithful to arkworks, in some cases by comparing traces of computations
+>
+> And this one can be extracted to Lean!
+>
+> 3/7 https://t.co/uVh0LzUN0r
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWfFdLoXAAAX6zB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HWfFdLjWcAAuTx-.jpg — no alt text provided by author
+
+
+### Thread part 4 — @kobigurk — 2026-11-07 01:32 UTC (2026-11-07 02:32 WAT)
+
+- URL: https://x.com/kobigurk/status/2118879265458725039
+- Metrics (at fetch): bookmark 0, impression 148, like 4, quote 0, reply 1, retweet 0
+
+> Then, you prove that the extracted Lean is equivalent to the spec
+>
+> Having that, you now have a good Rust base that you can, as my colleagues like to say, fearlessly optimize!
+>
+> Here’s an example of two functions that are proven equivalent to the same spec
+>
+> 4/7 https://t.co/gPablTJhAT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWfFdlhXQAAGPGE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HWfFdlbWQAA_k7i.jpg — no alt text provided by author
+
+
+### Thread part 5 — @kobigurk — 2026-11-07 01:32 UTC (2026-11-07 02:32 WAT)
+
+- URL: https://x.com/kobigurk/status/2118879272219951229
+- Metrics (at fetch): bookmark 0, impression 124, like 4, quote 0, reply 1, retweet 0
+
+> The functions above work very differently and produce different computation traces - one goes forward and the other backwards in the exponent bits
+>
+> The thing is - they’re equivalent to the same spec! So you have greater confidence in the result 
+>
+> 5/7 https://t.co/V2KFdh6E9d
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWfFd_EWgAEYVIC.jpg — no alt text provided by author
+
+
+### Thread part 6 — @kobigurk — 2026-11-07 01:32 UTC (2026-11-07 02:32 WAT)
+
+- URL: https://x.com/kobigurk/status/2118879275277279361
+- Metrics (at fetch): bookmark 0, impression 214, like 4, quote 0, reply 1, retweet 0
+
+> What’s cool is that it’s possible to do today with public models, available tooling anyone can use and with little human help - this was mostly conjured
+>
+> It’s far from perfect and there are likely a bunch of mistakes in this experiment, so take it with a grain of salt 🙂
+>
+> 6/7
+
+
+### Thread part 7 — @kobigurk — 2026-11-07 01:32 UTC (2026-11-07 02:32 WAT)
+
+- URL: https://x.com/kobigurk/status/2118879278259638637
+- Metrics (at fetch): bookmark 3, impression 326, like 8, quote 0, reply 0, retweet 2
+
+> Check it out here: https://t.co/FKFxNfN3n6
+>
+> 7/7
 
 
 ---
@@ -198,7 +286,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-08-27 · Post · Signature schemes are a cornerstone of modern infrastructure and we all know the common ones that si
+## 2025-08-27 · Thread · Signature schemes are a cornerstone of modern infrastructure and we all know the common ones that si
 
 
 ### Post — @kobigurk — 2025-08-27 15:46 UTC (2025-08-27 16:46 WAT)
@@ -211,6 +299,20 @@ Tags (automatic): AI-assisted hunting
 > In more specialized scenarios, the properties needed aren’t obvious until you hit that problem yourself
 >
 > 1/2
+
+
+### Thread part 2 — @kobigurk — 2025-08-27 15:46 UTC (2025-08-27 16:46 WAT)
+
+- URL: https://x.com/kobigurk/status/1960730645807948081
+- Metrics (at fetch): bookmark 8, impression 1458, like 25, quote 1, reply 1, retweet 2
+
+> Wrote about a few interesting ones I’ve seen:
+> • Locally verifiable signatures, where you want to know a message from a set is signed
+> • Linear subspace signatures, where you can non interactively derive signatures for every vector in a subspace
+>
+> https://t.co/zR4qtmLtuk
+>
+> 2/2
 
 
 ---
@@ -259,7 +361,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-05-15 · Post · Annnyoing observation about fiat shamir: there are known ways on how to use the hash functions secur
+## 2025-05-15 · Thread · Annnyoing observation about fiat shamir: there are known ways on how to use the hash functions secur
 
 
 ### Post — @kobigurk — 2025-05-15 09:16 UTC (2025-05-15 10:16 WAT)
@@ -270,6 +372,16 @@ Tags (automatic): AI-assisted hunting
 > Annnyoing observation about fiat shamir: there are known ways on how to use the hash functions securely (e.g. SAFE), there are reasonable type-based methods to make sure you include everything that’s needed from the protocol description (maybe post incoming?), but
 >
 > 1/2
+
+
+### Thread part 2 — @kobigurk — 2025-05-15 09:16 UTC (2025-05-15 10:16 WAT)
+
+- URL: https://x.com/kobigurk/status/1922944194349498548
+- Metrics (at fetch): bookmark 0, impression 569, like 4, quote 0, reply 1, retweet 0
+
+> I’m not sure I’ve seen work around how to reason (from more of an engineer’s standpoint than a proof writer) about whether messages have been sent early enough, or in other words - what the verifier is really sampling for
+>
+> 2/2
 
 
 ---
@@ -438,9 +550,9 @@ Tags (automatic): ZK
 ## 2024-06-20 · Reply · @asanso Beyond plonk deployment or including?
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @asanso — 2024-06-20 08:37 UTC (2024-06-20 09:37 WAT)
+#### Root post — @asanso — 2024-06-20 08:37 UTC (2024-06-20 09:37 WAT)
 
 - URL: https://x.com/asanso/status/1803708785166270792
 - Metrics (at fetch): bookmark 5, impression 3156, like 13, quote 0, reply 4, retweet 1
@@ -521,27 +633,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-04-23 · Post · especially around non-financial privacy use cases - like games, voting and other use cases.
-
-
-Tags (automatic): ZK
-
-
-### Post — @kobigurk — 2024-04-23 13:45 UTC (2024-04-23 14:45 WAT)
-
-- URL: https://x.com/kobigurk/status/1782767731646881821
-- Metrics (at fetch): bookmark 0, impression 478, like 14, quote 0, reply 1, retweet 1
-
-> especially around non-financial privacy use cases - like games, voting and other use cases.
->
-> One other consequence of the project is the ability to verify proofs of large circuits, because pairing-based SNARKs allow the best compression of computation -
->
-> 2/3
-
-
----
-
-## 2024-04-23 · Post · Excited about this project and what it unlocks, as DA is important for security of zkapps - and it h
+## 2024-04-23 · Thread · Excited about this project and what it unlocks, as DA is important for security of zkapps - and it h
 
 
 Tags (automatic): ZK
@@ -559,6 +651,49 @@ Tags (automatic): ZK
 > 1/3 https://t.co/jRUKuL6uc4
 
 **Quoted post** 1782756625117319587: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @kobigurk — 2024-04-23 13:45 UTC (2024-04-23 14:45 WAT)
+
+- URL: https://x.com/kobigurk/status/1782767731646881821
+- Metrics (at fetch): bookmark 0, impression 478, like 14, quote 0, reply 1, retweet 1
+
+> especially around non-financial privacy use cases - like games, voting and other use cases.
+>
+> One other consequence of the project is the ability to verify proofs of large circuits, because pairing-based SNARKs allow the best compression of computation -
+>
+> 2/3
+
+
+### Thread part 3 — @kobigurk — 2024-04-23 13:45 UTC (2024-04-23 14:45 WAT)
+
+- URL: https://x.com/kobigurk/status/1782767747375517935
+- Metrics (at fetch): bookmark 0, impression 716, like 11, quote 0, reply 0, retweet 1
+
+> which would unlock more complex integrations, that we don't fully realize yet.
+>
+> Let's see where it takes us!
+>
+> See our own @__geometrydev__ announcement thread below.
+>
+> 3/3 https://t.co/rDqIXeFdcB
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1740207766445187072 — 2024-04-23 13:41 UTC (2024-04-23 14:41 WAT)
+    
+    - URL: https://x.com/1740207766445187072/status/1782766679539556768
+    - Metrics (at fetch): bookmark 11, impression 42868, like 159, quote 7, reply 3, retweet 33
+    
+    > We are happy to announce our collaboration with @MinaFoundation and @CelestiaOrg.
+    >
+    > Geometry Research will be integrating Celestia's modular DA to the Mina ecosystem. We unroll our roadmap and the technical challenges we will meet along the way in the thread below 🧵⬇️
+    >
+    > 1/6 https://t.co/DAwWTsUZUk
+    
+    **Media:**
+    - media `3_1782766674334437376` (details not returned by the API)
+    
 
 
 ---
@@ -593,27 +728,63 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-04-22 · Post · 2. Publish the circuit and the verification keys, but not the phase 2 setup transcript
+## 2024-04-22 · Thread · 3. Publish the transcript of the setup, but don't attach social attestation to the contributions
 
 
-Tags (automatic): ZK
+Tags (automatic): ZK, TEE / enclave
 
 
 ### Post — @kobigurk — 2024-04-22 20:13 UTC (2024-04-22 21:13 WAT)
 
-- URL: https://x.com/kobigurk/status/1782502982933938655
-- Metrics (at fetch): bookmark 0, impression 1121, like 15, quote 0, reply 1, retweet 0
+- URL: https://x.com/kobigurk/status/1782502989850394950
+- Metrics (at fetch): bookmark 0, impression 1002, like 16, quote 0, reply 2, retweet 0
 
-> 2. Publish the circuit and the verification keys, but not the phase 2 setup transcript
+> 3. Publish the transcript of the setup, but don't attach social attestation to the contributions
 >
-> You're being transparent, which increases confidence, but don't give the means to actually verify the circuit matches the verification keys, you can do whatever you want!
+> Without attestations, you can just replace all the contributions with your own, fully knowing the toxic waste, allowing you to create fake proofs!
 >
-> 3/7
+> 4/7
+
+
+### Thread part 2 — @kobigurk — 2024-04-22 20:13 UTC (2024-04-22 21:13 WAT)
+
+- URL: https://x.com/kobigurk/status/1782502996720713937
+- Metrics (at fetch): bookmark 4, impression 1348, like 18, quote 0, reply 2, retweet 1
+
+> 4. Publish attestations, but backdoor the setup by omitting important steps
+>
+> If you're clever enough, you can omit subgroup membership and similar checks to obtain details about the secret keys
+>
+> See https://t.co/jiXqoRiXGt
+>
+> 5/7
+
+
+### Thread part 3 — @kobigurk — 2024-04-22 20:13 UTC (2024-04-22 21:13 WAT)
+
+- URL: https://x.com/kobigurk/status/1782503003607711792
+- Metrics (at fetch): bookmark 0, impression 1038, like 18, quote 0, reply 2, retweet 0
+
+> 5. Use very complex unaudited circuits
+>
+> That way, until people find the backdoor, it'll be too late!
+>
+> 6/7
+
+
+### Thread part 4 — @kobigurk — 2024-04-22 20:13 UTC (2024-04-22 21:13 WAT)
+
+- URL: https://x.com/kobigurk/status/1782503010289238477
+- Metrics (at fetch): bookmark 0, impression 995, like 14, quote 0, reply 1, retweet 0
+
+> Hope you learned something here.
+>
+> 7/7
 
 
 ---
 
-## 2024-04-22 · Post · How to fool your users with your deployed SNARK application?
+## 2024-04-22 · Thread · How to fool your users with your deployed SNARK application?
 
 
 Tags (automatic): ZK
@@ -629,6 +800,30 @@ Tags (automatic): ZK
 > 🧵
 >
 > 1/7
+
+
+### Thread part 2 — @kobigurk — 2024-04-22 20:13 UTC (2024-04-22 21:13 WAT)
+
+- URL: https://x.com/kobigurk/status/1782502976344736240
+- Metrics (at fetch): bookmark 0, impression 1634, like 14, quote 1, reply 2, retweet 0
+
+> 1. Only publish the verification keys
+>
+> If no one can verify they correspond to the functionality you claim, no one can check you!
+>
+> 2/7
+
+
+### Thread part 3 — @kobigurk — 2024-04-22 20:13 UTC (2024-04-22 21:13 WAT)
+
+- URL: https://x.com/kobigurk/status/1782502982933938655
+- Metrics (at fetch): bookmark 0, impression 1121, like 15, quote 0, reply 1, retweet 0
+
+> 2. Publish the circuit and the verification keys, but not the phase 2 setup transcript
+>
+> You're being transparent, which increases confidence, but don't give the means to actually verify the circuit matches the verification keys, you can do whatever you want!
+>
+> 3/7
 
 
 ---

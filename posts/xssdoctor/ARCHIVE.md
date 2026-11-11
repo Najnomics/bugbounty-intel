@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 174
-- Conversations/threads: 140
+- Conversations/threads: 109
 - Oldest post captured: 2023-07-10
 - Newest post captured: 2026-11-05
 
@@ -68,9 +68,9 @@ Tags (automatic): Platform: HackerOne
 ## 2026-10-07 · Reply · @infinitelogins No and the defensive cvp is completely unusable for bug bounty. It’s extremely frust
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @infinitelogins — 2026-10-07 14:29 UTC (2026-10-07 15:29 WAT)
+#### Root post — @infinitelogins — 2026-10-07 14:29 UTC (2026-10-07 15:29 WAT)
 
 - URL: https://x.com/infinitelogins/status/2107840771965759591
 - Metrics (at fetch): bookmark 12, impression 7512, like 43, quote 0, reply 20, retweet 2
@@ -333,20 +333,7 @@ Tags (automatic): Account takeover, OAuth, Mobile / Android / iOS
 
 ---
 
-## 2026-09-25 · Post · I forgot to link him @efaav
-
-
-### Post — @xssdoctor — 2026-09-25 19:52 UTC (2026-09-25 20:52 WAT)
-
-- URL: https://x.com/xssdoctor/status/2103573495422562658
-- Metrics (at fetch): bookmark 0, impression 1071, like 4, quote 0, reply 1, retweet 0
-
-> I forgot to link him @efaav
-
-
----
-
-## 2026-09-25 · Post · This guy is incredible!
+## 2026-09-25 · Thread · This guy is incredible!
 
 
 ### Post — @xssdoctor — 2026-09-25 19:52 UTC (2026-09-25 20:52 WAT)
@@ -359,6 +346,14 @@ Tags (automatic): Account takeover, OAuth, Mobile / Android / iOS
 > https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
 
 **Links in post:** https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
+
+
+### Thread part 2 — @xssdoctor — 2026-09-25 19:52 UTC (2026-09-25 20:52 WAT)
+
+- URL: https://x.com/xssdoctor/status/2103573495422562658
+- Metrics (at fetch): bookmark 0, impression 1071, like 4, quote 0, reply 1, retweet 0
+
+> I forgot to link him @efaav
 
 
 ---
@@ -376,20 +371,7 @@ Tags (automatic): Account takeover, OAuth, Mobile / Android / iOS
 
 ---
 
-## 2026-09-12 · Post · In order to show impact, I made a POC in which the victim enabled both my malicious mcp server and a
-
-
-### Post — @xssdoctor — 2026-09-12 21:23 UTC (2026-09-12 22:23 WAT)
-
-- URL: https://x.com/xssdoctor/status/2098885212566425806
-- Metrics (at fetch): bookmark 1, impression 896, like 12, quote 0, reply 1, retweet 0
-
-> In order to show impact, I made a POC in which the victim enabled both my malicious mcp server and also there Gmail mcp server. Was able to exfiltrate all of the victims emails
-
-
----
-
-## 2026-09-12 · Post · Found a pretty cool AI bug today thought I would share it. I was looking at the way a certain model 
+## 2026-09-12 · Thread · Found a pretty cool AI bug today thought I would share it. I was looking at the way a certain model 
 
 
 Tags (automatic): AI-assisted hunting
@@ -403,35 +385,17 @@ Tags (automatic): AI-assisted hunting
 > Found a pretty cool AI bug today thought I would share it. I was looking at the way a certain model handled MCP errors. It turned out that this model treated error messages as prompts. Error messages are also controlled by the mcp server.
 
 
----
+### Thread part 2 — @xssdoctor — 2026-09-12 21:23 UTC (2026-09-12 22:23 WAT)
 
-## 2026-09-11 · Post · My practice would be willing to pay a lot of money for this kind of optimization. Honestly it could 
+- URL: https://x.com/xssdoctor/status/2098885212566425806
+- Metrics (at fetch): bookmark 1, impression 896, like 12, quote 0, reply 1, retweet 0
 
-
-### Post — @xssdoctor — 2026-09-11 14:54 UTC (2026-09-11 15:54 WAT)
-
-- URL: https://x.com/xssdoctor/status/2098425076337066169
-- Metrics (at fetch): bookmark 0, impression 407, like 4, quote 0, reply 0, retweet 0
-
-> My practice would be willing to pay a lot of money for this kind of optimization. Honestly it could revolutionize medicine. @OpenAI fix this. Let us use your product to improve our practice and our care of patients.
+> In order to show impact, I made a POC in which the victim enabled both my malicious mcp server and also there Gmail mcp server. Was able to exfiltrate all of the victims emails
 
 
 ---
 
-## 2026-09-11 · Post · I woke up this morning excited to optimize my workflow. Codex was going to check my emr, check the p
-
-
-### Post — @xssdoctor — 2026-09-11 14:54 UTC (2026-09-11 15:54 WAT)
-
-- URL: https://x.com/xssdoctor/status/2098425073224892921
-- Metrics (at fetch): bookmark 0, impression 403, like 3, quote 0, reply 1, retweet 0
-
-> I woke up this morning excited to optimize my workflow. Codex was going to check my emr, check the patients labs and hospital records. See if I missed anything. But it ran out of tokens after 3 minutes.
-
-
----
-
-## 2026-09-11 · Reply · @OpenAI just did something amazing. They gave doctors free access to a hipaa-compliant clinicians-on
+## 2026-09-11 · Thread · @OpenAI just did something amazing. They gave doctors free access to a hipaa-compliant clinicians-on
 
 
 Tags (automatic): AI-assisted hunting
@@ -443,6 +407,22 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 1, impression 2121, like 15, quote 0, reply 4, retweet 1
 
 > @OpenAI just did something amazing. They gave doctors free access to a hipaa-compliant clinicians-only version of ChatGPT. Only one problem-they gave us almost no codex tokens and no ability to buy more tokens. This makes this incredible product basically useless for us.
+
+
+### Thread part 2 — @xssdoctor — 2026-09-11 14:54 UTC (2026-09-11 15:54 WAT)
+
+- URL: https://x.com/xssdoctor/status/2098425073224892921
+- Metrics (at fetch): bookmark 0, impression 403, like 3, quote 0, reply 1, retweet 0
+
+> I woke up this morning excited to optimize my workflow. Codex was going to check my emr, check the patients labs and hospital records. See if I missed anything. But it ran out of tokens after 3 minutes.
+
+
+### Thread part 3 — @xssdoctor — 2026-09-11 14:54 UTC (2026-09-11 15:54 WAT)
+
+- URL: https://x.com/xssdoctor/status/2098425076337066169
+- Metrics (at fetch): bookmark 0, impression 407, like 4, quote 0, reply 0, retweet 0
+
+> My practice would be willing to pay a lot of money for this kind of optimization. Honestly it could revolutionize medicine. @OpenAI fix this. Let us use your product to improve our practice and our care of patients.
 
 
 ---
@@ -475,20 +455,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-06-03 · Post · I forgot to mention who made this awesome video. @7urb01. All of his videos are this awesome btw
-
-
-### Post — @xssdoctor — 2026-06-03 12:11 UTC (2026-06-03 13:11 WAT)
-
-- URL: https://x.com/xssdoctor/status/2062145231290613775
-- Metrics (at fetch): bookmark 3, impression 1697, like 6, quote 0, reply 0, retweet 0
-
-> I forgot to mention who made this awesome video. @7urb01. All of his videos are this awesome btw
-
-
----
-
-## 2026-06-03 · Post · https://t.co/FMlgQEbgcw
+## 2026-06-03 · Thread · https://t.co/FMlgQEbgcw
 
 
 ### Post — @xssdoctor — 2026-06-03 11:03 UTC (2026-06-03 12:03 WAT)
@@ -499,6 +466,14 @@ Tags (automatic): AI-assisted hunting
 > https://t.co/FMlgQEbgcw
 >
 > This is so awesome
+
+
+### Thread part 2 — @xssdoctor — 2026-06-03 12:11 UTC (2026-06-03 13:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/2062145231290613775
+- Metrics (at fetch): bookmark 3, impression 1697, like 6, quote 0, reply 0, retweet 0
+
+> I forgot to mention who made this awesome video. @7urb01. All of his videos are this awesome btw
 
 
 ---
@@ -541,59 +516,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-04-05 · Post · To all the other veteran hackers out there, be like @Jhaddix. You don’t realize how important your w
-
-
-### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
-
-- URL: https://x.com/xssdoctor/status/2040937324159144333
-- Metrics (at fetch): bookmark 6, impression 9131, like 171, quote 2, reply 5, retweet 13
-
-> To all the other veteran hackers out there, be like @Jhaddix. You don’t realize how important your words and attitude are to the next generation. You can make the difference between success and failure for them
-
-
----
-
-## 2026-04-05 · Post · The first few years of hacking is extremely difficult and demoralizing. You feel like everyone else 
-
-
-### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
-
-- URL: https://x.com/xssdoctor/status/2040937322170990830
-- Metrics (at fetch): bookmark 6, impression 6683, like 117, quote 1, reply 3, retweet 10
-
-> The first few years of hacking is extremely difficult and demoralizing. You feel like everyone else is brilliant and you’re stupid.
-
-
----
-
-## 2026-04-05 · Post · He asked about my hacking journey, and told me about his. He gave me advice and told me that I could
-
-
-### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
-
-- URL: https://x.com/xssdoctor/status/2040937319381766516
-- Metrics (at fetch): bookmark 4, impression 4735, like 69, quote 0, reply 1, retweet 0
-
-> He asked about my hacking journey, and told me about his. He gave me advice and told me that I could do it, and to keep working. I’m not sure he knows it, but if he didn’t call me that day, I probably would have stopped hacking completely.
-
-
----
-
-## 2026-04-05 · Post · I didn’t expect a response. I had reached out to big time hackers in the past and never heard back. 
-
-
-### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
-
-- URL: https://x.com/xssdoctor/status/2040937317460783602
-- Metrics (at fetch): bookmark 3, impression 5079, like 54, quote 0, reply 1, retweet 0
-
-> I didn’t expect a response. I had reached out to big time hackers in the past and never heard back. 5 minutes later, my phone rang. I picked it up and it was Jason…
-
-
----
-
-## 2026-04-05 · Post · About a year and a half into my hacking journey, I was pretty bummed out. I had done so much work an
+## 2026-04-05 · Thread · About a year and a half into my hacking journey, I was pretty bummed out. I had done so much work an
 
 
 ### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
@@ -602,6 +525,38 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 118, impression 39114, like 349, quote 2, reply 18, retweet 19
 
 > About a year and a half into my hacking journey, I was pretty bummed out. I had done so much work and learned so much, but I wasn’t finding any bugs. I decided to do something drastic, and I sent a discord message to a hacking legend, @Jhaddix…
+
+
+### Thread part 2 — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937317460783602
+- Metrics (at fetch): bookmark 3, impression 5079, like 54, quote 0, reply 1, retweet 0
+
+> I didn’t expect a response. I had reached out to big time hackers in the past and never heard back. 5 minutes later, my phone rang. I picked it up and it was Jason…
+
+
+### Thread part 3 — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937319381766516
+- Metrics (at fetch): bookmark 4, impression 4735, like 69, quote 0, reply 1, retweet 0
+
+> He asked about my hacking journey, and told me about his. He gave me advice and told me that I could do it, and to keep working. I’m not sure he knows it, but if he didn’t call me that day, I probably would have stopped hacking completely.
+
+
+### Thread part 4 — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937322170990830
+- Metrics (at fetch): bookmark 6, impression 6683, like 117, quote 1, reply 3, retweet 10
+
+> The first few years of hacking is extremely difficult and demoralizing. You feel like everyone else is brilliant and you’re stupid.
+
+
+### Thread part 5 — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937324159144333
+- Metrics (at fetch): bookmark 6, impression 9131, like 171, quote 2, reply 5, retweet 13
+
+> To all the other veteran hackers out there, be like @Jhaddix. You don’t realize how important your words and attitude are to the next generation. You can make the difference between success and failure for them
 
 
 ---
@@ -1000,48 +955,7 @@ Tags (automatic): Platform: HackerOne
 > Found a great waf bypass for client side path traversal (a thread)
 
 
-### Thread part 2 — @xssdoctor — 2025-08-29 00:17 UTC (2025-08-29 01:17 WAT)
-
-- URL: https://x.com/xssdoctor/status/1961221556446560364
-- Metrics (at fetch): bookmark 4, impression 1134, like 9, quote 0, reply 1, retweet 0
-
-> @Rhynorater @ctbbpodcast The full payload is %5c.%09.%5c (it was truncated above)
-
-
----
-
-## 2025-08-28 · Post · I have found this pattern on two targets in the past week. 
-
-
-### Post — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
-
-- URL: https://x.com/xssdoctor/status/1961157668602511727
-- Metrics (at fetch): bookmark 4, impression 2233, like 16, quote 0, reply 2, retweet 0
-
-> I have found this pattern on two targets in the past week. 
->
-> Of course you need other gadgets to exploit, but this is a nice waf bypass.
-
-
----
-
-## 2025-08-28 · Post · However, as mentioned on @ctbbpodcast, fetch will REMOVE a tab (%09) from the url. So if you enter h
-
-
-### Post — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
-
-- URL: https://x.com/xssdoctor/status/1961157665918185562
-- Metrics (at fetch): bookmark 13, impression 2378, like 28, quote 0, reply 2, retweet 0
-
-> However, as mentioned on @ctbbpodcast, fetch will REMOVE a tab (%09) from the url. So if you enter https://t.co/rLTbvIbAsU, the js will often url decode, then remove the tab and normalize \ to / and requests https://t.co/7DuQW58kHZ. If you repeat the pattern, you can often get
-
-
----
-
-## 2025-08-28 · Post · This was inspired by @Rhynorater and @ctbbpodcast. 
-
-
-### Post — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
+### Thread part 2 — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
 
 - URL: https://x.com/xssdoctor/status/1961157663464608118
 - Metrics (at fetch): bookmark 12, impression 2601, like 18, quote 0, reply 2, retweet 2
@@ -1052,6 +966,32 @@ Tags (automatic): Platform: HackerOne
 >
 > URL: https://t.co/OMeQdCLk0g
 > Results in a fetch request to https://t.co/AyqUZeNwSW but the waf is blocking %2f..%2f or %5c..%5c
+
+
+### Thread part 3 — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961157665918185562
+- Metrics (at fetch): bookmark 13, impression 2378, like 28, quote 0, reply 2, retweet 0
+
+> However, as mentioned on @ctbbpodcast, fetch will REMOVE a tab (%09) from the url. So if you enter https://t.co/rLTbvIbAsU, the js will often url decode, then remove the tab and normalize \ to / and requests https://t.co/7DuQW58kHZ. If you repeat the pattern, you can often get
+
+
+### Thread part 4 — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961157668602511727
+- Metrics (at fetch): bookmark 4, impression 2233, like 16, quote 0, reply 2, retweet 0
+
+> I have found this pattern on two targets in the past week. 
+>
+> Of course you need other gadgets to exploit, but this is a nice waf bypass.
+
+
+### Thread part 5 — @xssdoctor — 2025-08-29 00:17 UTC (2025-08-29 01:17 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961221556446560364
+- Metrics (at fetch): bookmark 4, impression 1134, like 9, quote 0, reply 1, retweet 0
+
+> @Rhynorater @ctbbpodcast The full payload is %5c.%09.%5c (it was truncated above)
 
 
 ---
@@ -1219,68 +1159,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-06-12 · Post · In my scenario, I had xss but i needed to import a js file to escalate. The csp was tight, but i was
+## 2025-06-12 · Thread · I just found the coolest csp bypass ever! did you know that a valid pdf can ALSO be valid javascript
 
 
-Tags (automatic): XSS, CSP / CSPT
-
-
-### Post — @xssdoctor — 2025-06-12 00:12 UTC (2025-06-12 01:12 WAT)
-
-- URL: https://x.com/xssdoctor/status/1932954187806978486
-- Metrics (at fetch): bookmark 10, impression 7652, like 77, quote 0, reply 4, retweet 1
-
-> In my scenario, I had xss but i needed to import a js file to escalate. The csp was tight, but i was able to upload pdfs to the same domain. I uploaded a pdf with my malicious js in it, and I was off to the races. Enjoy!
-
-
----
-
-## 2025-06-12 · Post · Here you guys go. Here is a pdf file that is ALSO a javascript file //_id":"../../.././/////////bypa
-
-
-Tags (automatic): Path normalization
-
-
-### Post — @xssdoctor — 2025-06-12 00:11 UTC (2025-06-12 01:11 WAT)
-
-- URL: https://x.com/xssdoctor/status/1932953780082868644
-- Metrics (at fetch): bookmark 186, impression 20562, like 191, quote 4, reply 2, retweet 19
-
-> Here you guys go. Here is a pdf file that is ALSO a javascript file //_id":"../../.././/////////bypass":"%PDF-1.3 1 0 obj &lt;&lt;   /Pages 2 0 R   /Type /Catalog &gt;&gt; endobj 2 0 obj &lt;&lt;   /Count 1   /Kids [     3 0 R   ]   /Type /Pages &gt;&gt; endobj 3 0 obj &lt;&lt;   /Contents 4 0 R   /MediaBox [
-
-
----
-
-## 2025-06-12 · Post · So i thought, why cant it ALSO be valid javascript?
-
-
-### Post — @xssdoctor — 2025-06-12 00:10 UTC (2025-06-12 01:10 WAT)
-
-- URL: https://x.com/xssdoctor/status/1932953601917530118
-- Metrics (at fetch): bookmark 1, impression 5572, like 29, quote 0, reply 1, retweet 0
-
-> So i thought, why cant it ALSO be valid javascript?
-
-
----
-
-## 2025-06-12 · Post · This research is based on this article https://t.co/9c3PjDeK3r which explains that the magic bytes o
-
-
-### Post — @xssdoctor — 2025-06-12 00:10 UTC (2025-06-12 01:10 WAT)
-
-- URL: https://x.com/xssdoctor/status/1932953539648627194
-- Metrics (at fetch): bookmark 62, impression 5837, like 84, quote 0, reply 3, retweet 8
-
-> This research is based on this article https://t.co/9c3PjDeK3r which explains that the magic bytes of a pdf (and webp) file are NOT in the beginning of the file. The article goes on to show that a valid pdf can be valid json
-
-
----
-
-## 2025-06-12 · Post · I just found the coolest csp bypass ever! did you know that a valid pdf can ALSO be valid javascript
-
-
-Tags (automatic): CSP / CSPT
+Tags (automatic): XSS, Path normalization, CSP / CSPT
 
 
 ### Post — @xssdoctor — 2025-06-12 00:09 UTC (2025-06-12 01:09 WAT)
@@ -1289,6 +1171,38 @@ Tags (automatic): CSP / CSPT
 - Metrics (at fetch): bookmark 711, impression 60265, like 760, quote 2, reply 11, retweet 122
 
 > I just found the coolest csp bypass ever! did you know that a valid pdf can ALSO be valid javascript? (details below)
+
+
+### Thread part 2 — @xssdoctor — 2025-06-12 00:10 UTC (2025-06-12 01:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932953539648627194
+- Metrics (at fetch): bookmark 62, impression 5837, like 84, quote 0, reply 3, retweet 8
+
+> This research is based on this article https://t.co/9c3PjDeK3r which explains that the magic bytes of a pdf (and webp) file are NOT in the beginning of the file. The article goes on to show that a valid pdf can be valid json
+
+
+### Thread part 3 — @xssdoctor — 2025-06-12 00:10 UTC (2025-06-12 01:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932953601917530118
+- Metrics (at fetch): bookmark 1, impression 5572, like 29, quote 0, reply 1, retweet 0
+
+> So i thought, why cant it ALSO be valid javascript?
+
+
+### Thread part 4 — @xssdoctor — 2025-06-12 00:11 UTC (2025-06-12 01:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932953780082868644
+- Metrics (at fetch): bookmark 186, impression 20562, like 191, quote 4, reply 2, retweet 19
+
+> Here you guys go. Here is a pdf file that is ALSO a javascript file //_id":"../../.././/////////bypass":"%PDF-1.3 1 0 obj &lt;&lt;   /Pages 2 0 R   /Type /Catalog &gt;&gt; endobj 2 0 obj &lt;&lt;   /Count 1   /Kids [     3 0 R   ]   /Type /Pages &gt;&gt; endobj 3 0 obj &lt;&lt;   /Contents 4 0 R   /MediaBox [
+
+
+### Thread part 5 — @xssdoctor — 2025-06-12 00:12 UTC (2025-06-12 01:12 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932954187806978486
+- Metrics (at fetch): bookmark 10, impression 7652, like 77, quote 0, reply 4, retweet 1
+
+> In my scenario, I had xss but i needed to import a js file to escalate. The csp was tight, but i was able to upload pdfs to the same domain. I uploaded a pdf with my malicious js in it, and I was off to the races. Enjoy!
 
 
 ---
@@ -1826,66 +1740,7 @@ Tags (automatic): XSS, Race condition
 
 ---
 
-## 2025-01-18 · Post · This is the correct answer. We discontinued the milrinone and the patient got better.
-
-
-### Post — @xssdoctor — 2025-01-18 17:11 UTC (2025-01-18 18:11 WAT)
-
-- URL: https://x.com/xssdoctor/status/1880664203008344095
-- Metrics (at fetch): bookmark 0, impression 1379, like 5, quote 0, reply 1, retweet 0
-
-> This is the correct answer. We discontinued the milrinone and the patient got better.
->
-> The whole world is about to change
-
-
----
-
-## 2025-01-18 · Post · This is the answer given by o1 pro 
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @xssdoctor — 2025-01-18 17:10 UTC (2025-01-18 18:10 WAT)
-
-- URL: https://x.com/xssdoctor/status/1880664074066776132
-- Metrics (at fetch): bookmark 0, impression 1586, like 0, quote 0, reply 1, retweet 0
-
-> This is the answer given by o1 pro 
->
-> A useful way to think about “next steps” in a post‐AVR patient on multiple vasoactive agents is to look at whether (1) you still need inotropic support, and (2) you have adequate perfusion pressure (i.e. MAP ≥ 65 mm Hg) at a safe afterload
-
-
----
-
-## 2025-01-18 · Post · I knew the next step. However this is not an easy case. A cardiology fellow would know what to do, b
-
-
-### Post — @xssdoctor — 2025-01-18 17:08 UTC (2025-01-18 18:08 WAT)
-
-- URL: https://x.com/xssdoctor/status/1880663495370490322
-- Metrics (at fetch): bookmark 0, impression 305, like 1, quote 0, reply 1, retweet 0
-
-> I knew the next step. However this is not an easy case. A cardiology fellow would know what to do, but an internal medicine resident probably wouldn’t
-
-
----
-
-## 2025-01-18 · Post · The patient was a 61yo male post-op day 0 from a redo-aortic valve replacement. He left the OR on le
-
-
-### Post — @xssdoctor — 2025-01-18 17:06 UTC (2025-01-18 18:06 WAT)
-
-- URL: https://x.com/xssdoctor/status/1880663095015842008
-- Metrics (at fetch): bookmark 0, impression 310, like 1, quote 0, reply 1, retweet 0
-
-> The patient was a 61yo male post-op day 0 from a redo-aortic valve replacement. He left the OR on levofed, epinephrine and milrinone. He was hypotensive with PA pressures of 24/11. Central venous oxygen saturation was 76%. Hemoglobin was 9. Arterial saturation was 95%
-
-
----
-
-## 2025-01-18 · Post · Recently I fed a real (anonymized) patient case to ChatGPT o1 pro. It was a very complex case which 
+## 2025-01-18 · Thread · Recently I fed a real (anonymized) patient case to ChatGPT o1 pro. It was a very complex case which 
 
 
 Tags (automatic): AI-assisted hunting
@@ -1897,6 +1752,42 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 2, impression 3045, like 16, quote 0, reply 1, retweet 3
 
 > Recently I fed a real (anonymized) patient case to ChatGPT o1 pro. It was a very complex case which involved advanced hemodynamics and management of a patient with shock following a valve replacement… (a thread)
+
+
+### Thread part 2 — @xssdoctor — 2025-01-18 17:06 UTC (2025-01-18 18:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880663095015842008
+- Metrics (at fetch): bookmark 0, impression 310, like 1, quote 0, reply 1, retweet 0
+
+> The patient was a 61yo male post-op day 0 from a redo-aortic valve replacement. He left the OR on levofed, epinephrine and milrinone. He was hypotensive with PA pressures of 24/11. Central venous oxygen saturation was 76%. Hemoglobin was 9. Arterial saturation was 95%
+
+
+### Thread part 3 — @xssdoctor — 2025-01-18 17:08 UTC (2025-01-18 18:08 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880663495370490322
+- Metrics (at fetch): bookmark 0, impression 305, like 1, quote 0, reply 1, retweet 0
+
+> I knew the next step. However this is not an easy case. A cardiology fellow would know what to do, but an internal medicine resident probably wouldn’t
+
+
+### Thread part 4 — @xssdoctor — 2025-01-18 17:10 UTC (2025-01-18 18:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880664074066776132
+- Metrics (at fetch): bookmark 0, impression 1586, like 0, quote 0, reply 1, retweet 0
+
+> This is the answer given by o1 pro 
+>
+> A useful way to think about “next steps” in a post‐AVR patient on multiple vasoactive agents is to look at whether (1) you still need inotropic support, and (2) you have adequate perfusion pressure (i.e. MAP ≥ 65 mm Hg) at a safe afterload
+
+
+### Thread part 5 — @xssdoctor — 2025-01-18 17:11 UTC (2025-01-18 18:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/1880664203008344095
+- Metrics (at fetch): bookmark 0, impression 1379, like 5, quote 0, reply 1, retweet 0
+
+> This is the correct answer. We discontinued the milrinone and the patient got better.
+>
+> The whole world is about to change
 
 
 ---
@@ -2007,85 +1898,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-06-23 · Post · So am I going to stick with neovim? Probably! It’s just so much fun. Also if it’s good enough for @s
-
-
-### Post — @xssdoctor — 2024-06-23 23:50 UTC (2024-06-24 00:50 WAT)
-
-- URL: https://x.com/xssdoctor/status/1805025786572763344
-- Metrics (at fetch): bookmark 0, impression 1168, like 1, quote 0, reply 0, retweet 0
-
-> So am I going to stick with neovim? Probably! It’s just so much fun. Also if it’s good enough for @sudobunni it’s good enough for me
-
-
----
-
-## 2024-06-23 · Post · 5) after all of the above (and this may be controversial) it’s not actually better than vscode. Vsco
-
-
-### Post — @xssdoctor — 2024-06-23 23:49 UTC (2024-06-24 00:49 WAT)
-
-- URL: https://x.com/xssdoctor/status/1805025515297976513
-- Metrics (at fetch): bookmark 0, impression 1262, like 0, quote 0, reply 1, retweet 0
-
-> 5) after all of the above (and this may be controversial) it’s not actually better than vscode. Vscode is great! So is neovim! Code however you want and however makes you the happiest.
-
-
----
-
-## 2024-06-23 · Post · 4) when you do figure it out, it’s just as easy and fast as vscode
-
-
-### Post — @xssdoctor — 2024-06-23 23:48 UTC (2024-06-24 00:48 WAT)
-
-- URL: https://x.com/xssdoctor/status/1805025083296997467
-- Metrics (at fetch): bookmark 0, impression 161, like 0, quote 0, reply 1, retweet 0
-
-> 4) when you do figure it out, it’s just as easy and fast as vscode
-
-
----
-
-## 2024-06-23 · Post · 3) it takes about a day to learn, even if you know how to use vim. Also there is no perfect tutorial
-
-
-### Post — @xssdoctor — 2024-06-23 23:47 UTC (2024-06-24 00:47 WAT)
-
-- URL: https://x.com/xssdoctor/status/1805024948911513949
-- Metrics (at fetch): bookmark 1, impression 174, like 0, quote 0, reply 1, retweet 0
-
-> 3) it takes about a day to learn, even if you know how to use vim. Also there is no perfect tutorial. You basically have to start using it and then figure out each use case. How do you autocomplete? How do you open a new pane? How do you go to definition?
-
-
----
-
-## 2024-06-23 · Post · 2) it’s lightning fast and MUCH less resource intensive
-
-
-### Post — @xssdoctor — 2024-06-23 23:45 UTC (2024-06-24 00:45 WAT)
-
-- URL: https://x.com/xssdoctor/status/1805024309103960250
-- Metrics (at fetch): bookmark 0, impression 146, like 0, quote 0, reply 1, retweet 0
-
-> 2) it’s lightning fast and MUCH less resource intensive
-
-
----
-
-## 2024-06-23 · Post · 1) neovim is a lot more fun than vscode. There is no question about it. It’s a pleasure to code in t
-
-
-### Post — @xssdoctor — 2024-06-23 23:44 UTC (2024-06-24 00:44 WAT)
-
-- URL: https://x.com/xssdoctor/status/1805024092002603347
-- Metrics (at fetch): bookmark 0, impression 163, like 1, quote 0, reply 1, retweet 0
-
-> 1) neovim is a lot more fun than vscode. There is no question about it. It’s a pleasure to code in the terminal
-
-
----
-
-## 2024-06-23 · Post · I’ve been watching a lot of @sudobunni videos lately to improve my go skills. She uses neovim, so I 
+## 2024-06-23 · Thread · I’ve been watching a lot of @sudobunni videos lately to improve my go skills. She uses neovim, so I 
 
 
 ### Post — @xssdoctor — 2024-06-23 23:42 UTC (2024-06-24 00:42 WAT)
@@ -2094,6 +1907,54 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 4, impression 2474, like 12, quote 0, reply 1, retweet 0
 
 > I’ve been watching a lot of @sudobunni videos lately to improve my go skills. She uses neovim, so I decided to give it a try. I have a lot of thoughts…
+
+
+### Thread part 2 — @xssdoctor — 2024-06-23 23:44 UTC (2024-06-24 00:44 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805024092002603347
+- Metrics (at fetch): bookmark 0, impression 163, like 1, quote 0, reply 1, retweet 0
+
+> 1) neovim is a lot more fun than vscode. There is no question about it. It’s a pleasure to code in the terminal
+
+
+### Thread part 3 — @xssdoctor — 2024-06-23 23:45 UTC (2024-06-24 00:45 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805024309103960250
+- Metrics (at fetch): bookmark 0, impression 146, like 0, quote 0, reply 1, retweet 0
+
+> 2) it’s lightning fast and MUCH less resource intensive
+
+
+### Thread part 4 — @xssdoctor — 2024-06-23 23:47 UTC (2024-06-24 00:47 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805024948911513949
+- Metrics (at fetch): bookmark 1, impression 174, like 0, quote 0, reply 1, retweet 0
+
+> 3) it takes about a day to learn, even if you know how to use vim. Also there is no perfect tutorial. You basically have to start using it and then figure out each use case. How do you autocomplete? How do you open a new pane? How do you go to definition?
+
+
+### Thread part 5 — @xssdoctor — 2024-06-23 23:48 UTC (2024-06-24 00:48 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805025083296997467
+- Metrics (at fetch): bookmark 0, impression 161, like 0, quote 0, reply 1, retweet 0
+
+> 4) when you do figure it out, it’s just as easy and fast as vscode
+
+
+### Thread part 6 — @xssdoctor — 2024-06-23 23:49 UTC (2024-06-24 00:49 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805025515297976513
+- Metrics (at fetch): bookmark 0, impression 1262, like 0, quote 0, reply 1, retweet 0
+
+> 5) after all of the above (and this may be controversial) it’s not actually better than vscode. Vscode is great! So is neovim! Code however you want and however makes you the happiest.
+
+
+### Thread part 7 — @xssdoctor — 2024-06-23 23:50 UTC (2024-06-24 00:50 WAT)
+
+- URL: https://x.com/xssdoctor/status/1805025786572763344
+- Metrics (at fetch): bookmark 0, impression 1168, like 1, quote 0, reply 0, retweet 0
+
+> So am I going to stick with neovim? Probably! It’s just so much fun. Also if it’s good enough for @sudobunni it’s good enough for me
 
 
 ---
@@ -2295,81 +2156,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-10-28 · Post · Finally, I realized that I could write JavaScript that would submit the form automatically, so that 
-
-
-Tags (automatic): XSS
-
-
-### Post — @xssdoctor — 2023-10-28 11:14 UTC (2023-10-28 12:14 WAT)
-
-- URL: https://x.com/xssdoctor/status/1718224620099141761
-- Metrics (at fetch): bookmark 0, impression 584, like 1, quote 0, reply 1, retweet 0
-
-> Finally, I realized that I could write JavaScript that would submit the form automatically, so that the buyer could not confirm his purchase. It would automatically be confirmed, even if the amount was wrong. Xss-&gt; csrf. I submitted as a p1
-
-
----
-
-## 2023-10-28 · Post · But I wanted more impact. I went to the api docs and I found that merchantdescription was a json par
-
-
-### Post — @xssdoctor — 2023-10-28 11:12 UTC (2023-10-28 12:12 WAT)
-
-- URL: https://x.com/xssdoctor/status/1718224312744722625
-- Metrics (at fetch): bookmark 0, impression 115, like 0, quote 0, reply 1, retweet 0
-
-> But I wanted more impact. I went to the api docs and I found that merchantdescription was a json parameter in the api. I sent another payment with my alert payload, and when I visited the page it fired again! Now I was getting somewhere.
-
-
----
-
-## 2023-10-28 · Post · But nothing worked. Finally I looked at the JavaScript of the final page https://t.co/9sckeZyKbK and
-
-
-Tags (automatic): XSS
-
-
-### Post — @xssdoctor — 2023-10-28 11:11 UTC (2023-10-28 12:11 WAT)
-
-- URL: https://x.com/xssdoctor/status/1718223979306008949
-- Metrics (at fetch): bookmark 8, impression 2036, like 16, quote 0, reply 1, retweet 0
-
-> But nothing worked. Finally I looked at the JavaScript of the final page https://t.co/9sckeZyKbK and found that there was a parameter called merchantdesc which was vulnerable to reflected xss. I tried https://t.co/xM5yuRszzv&lt;script&gt;alert()&lt;/script&gt; and it fired!!!
-
-
----
-
-## 2023-10-28 · Post · The merchant api accepted json input. There were many fields like name, credit card number, ip, call
-
-
-Tags (automatic): XSS
-
-
-### Post — @xssdoctor — 2023-10-28 11:08 UTC (2023-10-28 12:08 WAT)
-
-- URL: https://x.com/xssdoctor/status/1718223289359663598
-- Metrics (at fetch): bookmark 1, impression 1847, like 3, quote 0, reply 2, retweet 0
-
-> The merchant api accepted json input. There were many fields like name, credit card number, ip, callbackurl, etc. many of these endpoints would end up as get parameters in the final redirect page for the buyer https://t.co/9sckeZyKbK. I tried to put xss payloads everywhere…
-
-
----
-
-## 2023-10-28 · Post · That the buyer would visit like https://t.co/dyrT5jTkF4]. The url would then redirect to a second ur
-
-
-### Post — @xssdoctor — 2023-10-28 11:06 UTC (2023-10-28 12:06 WAT)
-
-- URL: https://x.com/xssdoctor/status/1718222822349127776
-- Metrics (at fetch): bookmark 1, impression 1804, like 6, quote 0, reply 1, retweet 0
-
-> That the buyer would visit like https://t.co/dyrT5jTkF4]. The url would then redirect to a second url like https://t.co/NgG9GdfZvg. The buyer would confirm his/her purchase by clicking a submit button
-
-
----
-
-## 2023-10-28 · Post · I found a pretty cool XSS chain last night. I’ll tell you how:
+## 2023-10-28 · Thread · I found a pretty cool XSS chain last night. I’ll tell you how:
 
 
 Tags (automatic): XSS
@@ -2383,6 +2170,46 @@ Tags (automatic): XSS
 > I found a pretty cool XSS chain last night. I’ll tell you how:
 >
 > The target was a payment api. The normal flow of the payment api was that the customer would make a payment. The merchant would then submit an api request to the target. The api would return a url…
+
+
+### Thread part 2 — @xssdoctor — 2023-10-28 11:06 UTC (2023-10-28 12:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718222822349127776
+- Metrics (at fetch): bookmark 1, impression 1804, like 6, quote 0, reply 1, retweet 0
+
+> That the buyer would visit like https://t.co/dyrT5jTkF4]. The url would then redirect to a second url like https://t.co/NgG9GdfZvg. The buyer would confirm his/her purchase by clicking a submit button
+
+
+### Thread part 3 — @xssdoctor — 2023-10-28 11:08 UTC (2023-10-28 12:08 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718223289359663598
+- Metrics (at fetch): bookmark 1, impression 1847, like 3, quote 0, reply 2, retweet 0
+
+> The merchant api accepted json input. There were many fields like name, credit card number, ip, callbackurl, etc. many of these endpoints would end up as get parameters in the final redirect page for the buyer https://t.co/9sckeZyKbK. I tried to put xss payloads everywhere…
+
+
+### Thread part 4 — @xssdoctor — 2023-10-28 11:11 UTC (2023-10-28 12:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718223979306008949
+- Metrics (at fetch): bookmark 8, impression 2036, like 16, quote 0, reply 1, retweet 0
+
+> But nothing worked. Finally I looked at the JavaScript of the final page https://t.co/9sckeZyKbK and found that there was a parameter called merchantdesc which was vulnerable to reflected xss. I tried https://t.co/xM5yuRszzv&lt;script&gt;alert()&lt;/script&gt; and it fired!!!
+
+
+### Thread part 5 — @xssdoctor — 2023-10-28 11:12 UTC (2023-10-28 12:12 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718224312744722625
+- Metrics (at fetch): bookmark 0, impression 115, like 0, quote 0, reply 1, retweet 0
+
+> But I wanted more impact. I went to the api docs and I found that merchantdescription was a json parameter in the api. I sent another payment with my alert payload, and when I visited the page it fired again! Now I was getting somewhere.
+
+
+### Thread part 6 — @xssdoctor — 2023-10-28 11:14 UTC (2023-10-28 12:14 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718224620099141761
+- Metrics (at fetch): bookmark 0, impression 584, like 1, quote 0, reply 1, retweet 0
+
+> Finally, I realized that I could write JavaScript that would submit the form automatically, so that the buyer could not confirm his purchase. It would automatically be confirmed, even if the amount was wrong. Xss-&gt; csrf. I submitted as a p1
 
 
 ---

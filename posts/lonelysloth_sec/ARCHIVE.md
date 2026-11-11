@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 134
+- Posts in this file: 144
 - Conversations/threads: 134
 - Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-10
@@ -216,24 +216,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-10-27 · Post · So far seems to be the same thing. Galactic constants. Adding information propagation   limits or ma
-
-
-### Post — @lonelysloth_sec — 2026-10-27 16:23 UTC (2026-10-27 17:23 WAT)
-
-- URL: https://x.com/lonelysloth_sec/status/2115117112503275946
-- Metrics (at fetch): bookmark 1, impression 160, like 1, quote 0, reply 0, retweet 0
-
-> So far seems to be the same thing. Galactic constants. Adding information propagation   limits or mass would collapse the new algorithm into the old complexity.
->
-> So irrelevant for engineering. I’ll let mathematicians evaluate how interesting for their field.
->
-> My prediction is
-
-
----
-
-## 2026-10-27 · Post · Based on previous OAI math results in complexity I expect the new ones to be completely irrelevant t
+## 2026-10-27 · Thread · Based on previous OAI math results in complexity I expect the new ones to be completely irrelevant t
 
 
 ### Post — @lonelysloth_sec — 2026-10-27 14:30 UTC (2026-10-27 15:30 WAT)
@@ -246,6 +229,18 @@ Tags (automatic): AI-assisted hunting
 > Maybe this time will be different.
 >
 > Lets see.
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-10-27 16:23 UTC (2026-10-27 17:23 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2115117112503275946
+- Metrics (at fetch): bookmark 1, impression 160, like 1, quote 0, reply 0, retweet 0
+
+> So far seems to be the same thing. Galactic constants. Adding information propagation   limits or mass would collapse the new algorithm into the old complexity.
+>
+> So irrelevant for engineering. I’ll let mathematicians evaluate how interesting for their field.
+>
+> My prediction is
 
 
 ---
@@ -2138,7 +2133,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-02-28 · Post · It’s kinda cute so many of the “AI agent bug hunter” people, after starting catching bugs, claim to…
+## 2026-02-28 · Thread · It’s kinda cute so many of the “AI agent bug hunter” people, after starting catching bugs, claim to…
 
 
 Tags (automatic): AI-assisted hunting
@@ -2158,6 +2153,16 @@ Tags (automatic): AI-assisted hunting
 > They haven’t solved anything.
 >
 > Cmon guys if you want to sell your stuff at least come up
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-02-28 22:41 UTC (2026-02-28 23:41 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2027876915348947252
+- Metrics (at fetch): bookmark 0, impression 698, like 9, quote 0, reply 0, retweet 0
+
+> Im not saying their product isn’t good or anything. But do they actually believe they *solved* it? A world without bugs is right around the corner?
+>
+> Is anyone buying that?
 
 
 ---
@@ -2335,7 +2340,20 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-12-08 · Post · Some real world data on how SRs are treated when they submit the most serious bugs -- multi-year rev
+## 2025-12-09 · Reply · @Huntoor Just a little more explanation here. For example I excluded a loss of funds where funds at 
+
+
+### Post — @lonelysloth_sec — 2025-12-09 23:41 UTC (2025-12-10 00:41 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1998538469937758516
+- Metrics (at fetch): bookmark 1, impression 458, like 4, quote 0, reply 1, retweet 0
+
+> @Huntoor Just a little more explanation here. For example I excluded a loss of funds where funds at risk was &gt;1M but max bounty was tiny, 2 loss of TVL that required a contract “temporarily paused” (due to another submission of mine) be unpaused which seemed reasonable to me, but they
+
+
+---
+
+## 2025-12-08 · Thread · Some real world data on how SRs are treated when they submit the most serious bugs -- multi-year rev
 
 
 ### Post — @lonelysloth_sec — 2025-12-08 22:27 UTC (2025-12-08 23:27 WAT)
@@ -2352,9 +2370,37 @@ Tags (automatic): AI-assisted hunting
 > First, what I consider
 
 
+### Thread part 2 — @lonelysloth_sec — 2025-12-08 22:30 UTC (2025-12-08 23:30 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1998158238961820015
+- Metrics (at fetch): bookmark 0, impression 658, like 8, quote 0, reply 0, retweet 0
+
+> I deliberately excluded from this analysis most of my critical reports, including several other loss of funds bugs, bc they weren't so clearly immediately exploitable. 
+>
+> Analyzing all bugs of any severity would be hard and consume a lot of time.
+
+
+### Thread part 3 — @lonelysloth_sec — 2025-12-08 22:38 UTC (2025-12-08 23:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1998160362655428886
+- Metrics (at fetch): bookmark 1, impression 785, like 13, quote 0, reply 0, retweet 2
+
+> important lesson: mediation is essential.
+>
+> out of 7, the platform helped me with 3, tried to help me in 1. could do nothing in 1.
+
+
+### Thread part 4 — @lonelysloth_sec — 2025-12-08 23:07 UTC (2025-12-09 00:07 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1998167673985810483
+- Metrics (at fetch): bookmark 0, impression 1052, like 7, quote 0, reply 2, retweet 0
+
+> There’s a bug in the above post can you find it 😂
+
+
 ---
 
-## 2025-12-08 · Post · In 2025 I reported two serious loss of funds bugs.
+## 2025-12-08 · Thread · In 2025 I reported two serious loss of funds bugs.
 
 
 ### Post — @lonelysloth_sec — 2025-12-08 04:05 UTC (2025-12-08 05:05 WAT)
@@ -2369,6 +2415,24 @@ Tags (automatic): AI-assisted hunting
 > The other resulted in what I see as an unfairly small bounty after weeks of discussions. 
 >
 > All things considered 50% hit rate isn’t too bad.
+
+
+### Thread part 2 — @lonelysloth_sec — 2025-12-08 04:09 UTC (2025-12-08 05:09 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1997881120117883295
+- Metrics (at fetch): bookmark 0, impression 959, like 23, quote 0, reply 1, retweet 0
+
+> We should fix problems that exist with incentives and fair rewards.
+>
+> But even with the issues that exist if you keep finding bugs with serious impact chances are you will get some serious bounties too.
+
+
+### Thread part 3 — @lonelysloth_sec — 2025-12-08 04:22 UTC (2025-12-08 05:22 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1997884361383796802
+- Metrics (at fetch): bookmark 1, impression 862, like 12, quote 0, reply 1, retweet 0
+
+> I will try to look at stats from my submissions and get a better multi-year picture of what ultimate results of bug reports look like.
 
 
 ---
@@ -2415,7 +2479,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-12-02 · Post · The economics of audits and bug bounties only work because:
+## 2025-12-02 · Thread · The economics of audits and bug bounties only work because:
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @lonelysloth_sec — 2025-12-02 18:21 UTC (2025-12-02 19:21 WAT)
@@ -2428,6 +2495,42 @@ Tags (automatic): AI-assisted hunting
 > 1. The most important resource constraint for both black and white hats is time of highly skilled hackers/SRs.
 >
 > 2. Most highly skilled hackers/SRs are willing to accept a considerable discount to work within the law.
+
+
+### Thread part 2 — @lonelysloth_sec — 2025-12-02 18:21 UTC (2025-12-02 19:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1995921317699387809
+- Metrics (at fetch): bookmark 0, impression 464, like 7, quote 0, reply 1, retweet 0
+
+> With AI this can potentially change, and it doesn't matter if AI gets better than humans in all or even most bugs.
+>
+> If there is an important class of bugs such that finding them is mostly constrained by fungible capital -- AI processing costs...
+>
+> This will have economics that
+
+
+### Thread part 3 — @lonelysloth_sec — 2025-12-02 18:26 UTC (2025-12-02 19:26 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1995922650053705914
+- Metrics (at fetch): bookmark 1, impression 935, like 8, quote 0, reply 1, retweet 0
+
+> If just throwing money at the security research (with little supervision from highly skilled people) results in profitable bugs...
+>
+> There's a bunch of nation states and criminal orgs that could burn several million to get 5x returns -- or just for the chaos.
+>
+> Protocol teams wont'
+
+
+### Thread part 4 — @lonelysloth_sec — 2025-12-02 18:29 UTC (2025-12-02 19:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1995923380441419845
+- Metrics (at fetch): bookmark 1, impression 911, like 5, quote 0, reply 1, retweet 0
+
+> The solution to that class of bugs will need breakthroughs in how software is developed. More audits or bounties wont fix it.
+>
+> That doesn't mean the class of bugs that can be solved by more audits and bounties will go away.
+>
+> (And we don't know if AI-intensive bugs exist).
 
 
 ---

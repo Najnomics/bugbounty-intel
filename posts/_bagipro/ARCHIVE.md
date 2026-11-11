@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 84
-- Conversations/threads: 66
+- Conversations/threads: 46
 - Oldest post captured: 2020-08-16
 - Newest post captured: 2026-11-03
 
@@ -483,59 +483,7 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
-## 2023-07-26 · Post · [4/4]
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2023-07-26 15:17 UTC (2023-07-26 16:17 WAT)
-
-- URL: https://x.com/_bagipro/status/1684221410405908480
-- Metrics (at fetch): bookmark 30, impression 11175, like 66, quote 0, reply 3, retweet 4
-
-> [4/4]
-> 3. Add the jar to your Android Project as a dependency, then simply copy decompiled code related to a specific constant and dump the value
-> 4. Bingo!
-
-
----
-
-## 2023-07-26 · Post · [3/4]
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2023-07-26 15:17 UTC (2023-07-26 16:17 WAT)
-
-- URL: https://x.com/_bagipro/status/1684221408107192320
-- Metrics (at fetch): bookmark 15, impression 10482, like 42, quote 0, reply 3, retweet 2
-
-> [3/4]
-> 1. Take the APK and convert it to a Java library using dex2jar: https://t.co/KMYHHBL1Ch -f app.apk
-> 2. The jar will be huge, so use the zip tool to delete third-party packages
-
-
----
-
-## 2023-07-26 · Post · [2/4]
-
-
-### Post — @_bagipro — 2023-07-26 15:17 UTC (2023-07-26 16:17 WAT)
-
-- URL: https://x.com/_bagipro/status/1684221405393453056
-- Metrics (at fetch): bookmark 3, impression 8685, like 15, quote 0, reply 2, retweet 1
-
-> [2/4]
-> Previously I used reflection APIs (a very long process) or copied all necessary classes to my app (also very long, and there might be decompilation issues that you would need to fix manually).
->
-> But I found a great technique:
-
-
----
-
-## 2023-07-26 · Post · [1/4]
+## 2023-07-26 · Thread · [1/4]
 
 
 Tags (automatic): Mobile / Android / iOS
@@ -553,38 +501,40 @@ Tags (automatic): Mobile / Android / iOS
 - photo: https://pbs.twimg.com/media/F1-KyBDWAAQ0tRB.jpg — no alt text provided by author
 
 
+### Thread part 2 — @_bagipro — 2023-07-26 15:17 UTC (2023-07-26 16:17 WAT)
+
+- URL: https://x.com/_bagipro/status/1684221405393453056
+- Metrics (at fetch): bookmark 3, impression 8685, like 15, quote 0, reply 2, retweet 1
+
+> [2/4]
+> Previously I used reflection APIs (a very long process) or copied all necessary classes to my app (also very long, and there might be decompilation issues that you would need to fix manually).
+>
+> But I found a great technique:
+
+
+### Thread part 3 — @_bagipro — 2023-07-26 15:17 UTC (2023-07-26 16:17 WAT)
+
+- URL: https://x.com/_bagipro/status/1684221408107192320
+- Metrics (at fetch): bookmark 15, impression 10482, like 42, quote 0, reply 3, retweet 2
+
+> [3/4]
+> 1. Take the APK and convert it to a Java library using dex2jar: https://t.co/KMYHHBL1Ch -f app.apk
+> 2. The jar will be huge, so use the zip tool to delete third-party packages
+
+
+### Thread part 4 — @_bagipro — 2023-07-26 15:17 UTC (2023-07-26 16:17 WAT)
+
+- URL: https://x.com/_bagipro/status/1684221410405908480
+- Metrics (at fetch): bookmark 30, impression 11175, like 66, quote 0, reply 3, retweet 4
+
+> [4/4]
+> 3. Add the jar to your Android Project as a dependency, then simply copy decompiled code related to a specific constant and dump the value
+> 4. Bingo!
+
+
 ---
 
-## 2023-04-16 · Post · [3/3] it's enough to define AppComponentFactory in AndroidManifest.xml (android:appComponentFactory)
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2023-04-16 07:38 UTC (2023-04-16 08:38 WAT)
-
-- URL: https://x.com/_bagipro/status/1647504744993402880
-- Metrics (at fetch): bookmark 0, impression 2876, like 20, quote 0, reply 1, retweet 0
-
-> [3/3] it's enough to define AppComponentFactory in AndroidManifest.xml (android:appComponentFactory) that will be automatically called when attackerContext.getClassLoader() is called (because of lazy initialization)
-
-
----
-
-## 2023-04-16 · Post · [2/3] It appeared that when a vulnerable app calls Context.createPackageContext(attackerApp, CONTEXT
-
-
-### Post — @_bagipro — 2023-04-16 07:38 UTC (2023-04-16 08:38 WAT)
-
-- URL: https://x.com/_bagipro/status/1647504742992744448
-- Metrics (at fetch): bookmark 0, impression 3085, like 20, quote 0, reply 2, retweet 0
-
-> [2/3] It appeared that when a vulnerable app calls Context.createPackageContext(attackerApp, CONTEXT_INCLUDE_CODE | CONTEXT_IGNORE_SECURITY)
-
-
----
-
-## 2023-04-16 · Post · [1/3] One more interesting Arbitrary code execution vector on Android
+## 2023-04-16 · Thread · [1/3] One more interesting Arbitrary code execution vector on Android
 
 
 Tags (automatic): RCE, Mobile / Android / iOS
@@ -598,6 +548,22 @@ Tags (automatic): RCE, Mobile / Android / iOS
 > [1/3] One more interesting Arbitrary code execution vector on Android
 >
 > You know that you can automatically execute arbitrary code when an attacker-controlled .so library is passed to System.load(). But what about Java code?
+
+
+### Thread part 2 — @_bagipro — 2023-04-16 07:38 UTC (2023-04-16 08:38 WAT)
+
+- URL: https://x.com/_bagipro/status/1647504742992744448
+- Metrics (at fetch): bookmark 0, impression 3085, like 20, quote 0, reply 2, retweet 0
+
+> [2/3] It appeared that when a vulnerable app calls Context.createPackageContext(attackerApp, CONTEXT_INCLUDE_CODE | CONTEXT_IGNORE_SECURITY)
+
+
+### Thread part 3 — @_bagipro — 2023-04-16 07:38 UTC (2023-04-16 08:38 WAT)
+
+- URL: https://x.com/_bagipro/status/1647504744993402880
+- Metrics (at fetch): bookmark 0, impression 2876, like 20, quote 0, reply 1, retweet 0
+
+> [3/3] it's enough to define AppComponentFactory in AndroidManifest.xml (android:appComponentFactory) that will be automatically called when attackerContext.getClassLoader() is called (because of lazy initialization)
 
 
 ---
@@ -948,54 +914,7 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
-## 2020-11-18 · Post · The same happens to pickers, but there is a separate article for this https://t.co/1HffemVTUw
-
-
-### Post — @_bagipro — 2020-11-18 22:10 UTC (2020-11-18 23:10 WAT)
-
-- URL: https://x.com/_bagipro/status/1329185252837822469
-- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 0, retweet 0
-
-> The same happens to pickers, but there is a separate article for this https://t.co/1HffemVTUw
-
-
----
-
-## 2020-11-18 · Post · 3. Send a Uri to your own file like explained in the article above (test _display_name and last path
-
-
-### Post — @_bagipro — 2020-11-18 22:10 UTC (2020-11-18 23:10 WAT)
-
-- URL: https://x.com/_bagipro/status/1329185251093082115
-- Metrics (at fetch): bookmark 2, impression 0, like 11, quote 0, reply 1, retweet 0
-
-> 3. Send a Uri to your own file like explained in the article above (test _display_name and last path segment values to be vulnerable to path-traversal)
-> now run "ls -la dir | grep file_name" on /sdcard and /data/data/app
->
-> and also read https://t.co/vDfSB6uwSH, love that technique
-
-
----
-
-## 2020-11-18 · Post · 1. Send a Uri to an internal file using file:// scheme (direct or using a symlink)
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2020-11-18 22:10 UTC (2020-11-18 23:10 WAT)
-
-- URL: https://x.com/_bagipro/status/1329185249415278595
-- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 1
-
-> 1. Send a Uri to an internal file using file:// scheme (direct or using a symlink)
-> 2. Send a Uri to an internal file using a victim app's internal content provider
-> now grep private file contents on SD card
-
-
----
-
-## 2020-11-18 · Post · bugbountytips
+## 2020-11-18 · Thread · bugbountytips
 
 
 Tags (automatic): Mobile / Android / iOS
@@ -1010,64 +929,41 @@ Tags (automatic): Mobile / Android / iOS
 > An almost universal way to theft or overwrite arbitrary files on #android is sharing activities. You can find them in AndroidManifest.xml. They handle android.intent.action.SEND. Use the PoC from https://t.co/D9sfxKvyX7 (ctrl+f "EXTRA_STREAM") and test 4 scenarios:
 
 
----
+### Thread part 2 — @_bagipro — 2020-11-18 22:10 UTC (2020-11-18 23:10 WAT)
 
-## 2020-11-15 · Post · Insecure storage of data in databases
+- URL: https://x.com/_bagipro/status/1329185249415278595
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 1
 
-
-### Post — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
-
-- URL: https://x.com/_bagipro/status/1327897754115379200
-- Metrics (at fetch): bookmark 1, impression 0, like 24, quote 0, reply 1, retweet 0
-
-> Insecure storage of data in databases
+> 1. Send a Uri to an internal file using file:// scheme (direct or using a symlink)
+> 2. Send a Uri to an internal file using a victim app's internal content provider
+> now grep private file contents on SD card
 
 
----
+### Thread part 3 — @_bagipro — 2020-11-18 22:10 UTC (2020-11-18 23:10 WAT)
 
-## 2020-11-15 · Post · Theft of arbitrary files via WebResourceResponse
+- URL: https://x.com/_bagipro/status/1329185251093082115
+- Metrics (at fetch): bookmark 2, impression 0, like 11, quote 0, reply 1, retweet 0
 
-
-### Post — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
-
-- URL: https://x.com/_bagipro/status/1327897752852946944
-- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 1, retweet 0
-
-> Theft of arbitrary files via WebResourceResponse
+> 3. Send a Uri to your own file like explained in the article above (test _display_name and last path segment values to be vulnerable to path-traversal)
+> now run "ls -la dir | grep file_name" on /sdcard and /data/data/app
+>
+> and also read https://t.co/vDfSB6uwSH, love that technique
 
 
----
+### Thread part 4 — @_bagipro — 2020-11-18 22:10 UTC (2020-11-18 23:10 WAT)
 
-## 2020-11-15 · Post · Hardcoded crypto keys. It's about how they are used and how to exploit them
+- URL: https://x.com/_bagipro/status/1329185252837822469
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 0, retweet 0
 
-
-### Post — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
-
-- URL: https://x.com/_bagipro/status/1327897751435218944
-- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 0
-
-> Hardcoded crypto keys. It's about how they are used and how to exploit them
+> The same happens to pickers, but there is a separate article for this https://t.co/1HffemVTUw
 
 
 ---
 
-## 2020-11-15 · Post · "Possibility of access to arbitrary* content providers" category, in my opinion the most promising a
+## 2020-11-15 · Thread · Hey, the next article on https://t.co/Yte0sRLADV will be about a technique. What about to tell? I ha
 
 
 Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
-
-- URL: https://x.com/_bagipro/status/1327897750109908994
-- Metrics (at fetch): bookmark 0, impression 0, like 36, quote 0, reply 3, retweet 0
-
-> "Possibility of access to arbitrary* content providers" category, in my opinion the most promising and still widespread
-
-
----
-
-## 2020-11-15 · Post · Hey, the next article on https://t.co/Yte0sRLADV will be about a technique. What about to tell? I ha
 
 
 ### Post — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
@@ -1076,6 +972,38 @@ Tags (automatic): Mobile / Android / iOS
 - Metrics (at fetch): bookmark 5, impression 0, like 64, quote 0, reply 6, retweet 6
 
 > Hey, the next article on https://t.co/Yte0sRLADV will be about a technique. What about to tell? I have a few unpublished articles, please vote with likes!
+
+
+### Thread part 2 — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
+
+- URL: https://x.com/_bagipro/status/1327897750109908994
+- Metrics (at fetch): bookmark 0, impression 0, like 36, quote 0, reply 3, retweet 0
+
+> "Possibility of access to arbitrary* content providers" category, in my opinion the most promising and still widespread
+
+
+### Thread part 3 — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
+
+- URL: https://x.com/_bagipro/status/1327897751435218944
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 0
+
+> Hardcoded crypto keys. It's about how they are used and how to exploit them
+
+
+### Thread part 4 — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
+
+- URL: https://x.com/_bagipro/status/1327897752852946944
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 1, retweet 0
+
+> Theft of arbitrary files via WebResourceResponse
+
+
+### Thread part 5 — @_bagipro — 2020-11-15 08:54 UTC (2020-11-15 09:54 WAT)
+
+- URL: https://x.com/_bagipro/status/1327897754115379200
+- Metrics (at fetch): bookmark 1, impression 0, like 24, quote 0, reply 1, retweet 0
+
+> Insecure storage of data in databases
 
 
 ---
@@ -1098,58 +1026,7 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
-## 2020-11-11 · Post · The second well-known way of UXSS is two controllable arguments in call WebView.loadDataWithBaseURL(
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2020-11-11 13:05 UTC (2020-11-11 14:05 WAT)
-
-- URL: https://x.com/_bagipro/status/1326511445895503872
-- Metrics (at fetch): bookmark 5, impression 0, like 21, quote 0, reply 1, retweet 4
-
-> The second well-known way of UXSS is two controllable arguments in call WebView.loadDataWithBaseURL(url, data, ...). Oversecured vulnerability scanner detects such bugs https://t.co/hL0bk1YdjA
-
-
----
-
-## 2020-11-11 · Post · It happens because in the first time you load a url, and in the second onNewIntent method handled th
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2020-11-11 13:05 UTC (2020-11-11 14:05 WAT)
-
-- URL: https://x.com/_bagipro/status/1326511444381364225
-- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 1, retweet 3
-
-> It happens because in the first time you load a url, and in the second onNewIntent method handled the javascript scheme url, so the activity wasn't restarted, but executed WebView.loadUrl("javascript:...") from https://t.co/KZ59CVXjxP origin.
-
-
----
-
-## 2020-11-11 · Post · 1. Open appscheme://webview?url=https://t.co/fAfzszvjU4 (this is a deeplink example)
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2020-11-11 13:05 UTC (2020-11-11 14:05 WAT)
-
-- URL: https://x.com/_bagipro/status/1326511442720415744
-- Metrics (at fetch): bookmark 3, impression 0, like 17, quote 0, reply 2, retweet 1
-
-> 1. Open appscheme://webview?url=https://t.co/fAfzszvjU4 (this is a deeplink example)
-> 2. Open appscheme://webview?url=javascript:document.write(document.domain)
->
-> if you see https://t.co/KZ59CVXjxP, you found it!
-
-
----
-
-## 2020-11-11 · Post · bugbountytips 
+## 2020-11-11 · Thread · bugbountytips 
 
 
 Tags (automatic): XSS, Mobile / Android / iOS
@@ -1162,6 +1039,33 @@ Tags (automatic): XSS, Mobile / Android / iOS
 
 > #bugbountytips 
 > One more way to increase the impact of opening arbitrary URLs in a built-in WebView is Universal XSS. They are widespread on #android! Steps:
+
+
+### Thread part 2 — @_bagipro — 2020-11-11 13:05 UTC (2020-11-11 14:05 WAT)
+
+- URL: https://x.com/_bagipro/status/1326511442720415744
+- Metrics (at fetch): bookmark 3, impression 0, like 17, quote 0, reply 2, retweet 1
+
+> 1. Open appscheme://webview?url=https://t.co/fAfzszvjU4 (this is a deeplink example)
+> 2. Open appscheme://webview?url=javascript:document.write(document.domain)
+>
+> if you see https://t.co/KZ59CVXjxP, you found it!
+
+
+### Thread part 3 — @_bagipro — 2020-11-11 13:05 UTC (2020-11-11 14:05 WAT)
+
+- URL: https://x.com/_bagipro/status/1326511444381364225
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 1, retweet 3
+
+> It happens because in the first time you load a url, and in the second onNewIntent method handled the javascript scheme url, so the activity wasn't restarted, but executed WebView.loadUrl("javascript:...") from https://t.co/KZ59CVXjxP origin.
+
+
+### Thread part 4 — @_bagipro — 2020-11-11 13:05 UTC (2020-11-11 14:05 WAT)
+
+- URL: https://x.com/_bagipro/status/1326511445895503872
+- Metrics (at fetch): bookmark 5, impression 0, like 21, quote 0, reply 1, retweet 4
+
+> The second well-known way of UXSS is two controllable arguments in call WebView.loadDataWithBaseURL(url, data, ...). Oversecured vulnerability scanner detects such bugs https://t.co/hL0bk1YdjA
 
 
 ---
@@ -1222,35 +1126,7 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
-## 2020-10-22 · Post · 3. Compile a native library that executes some code (such as writing user id to a file, or performin
-
-
-### Post — @_bagipro — 2020-10-22 19:51 UTC (2020-10-22 20:51 WAT)
-
-- URL: https://x.com/_bagipro/status/1319365833378959363
-- Metrics (at fetch): bookmark 6, impression 0, like 37, quote 0, reply 0, retweet 6
-
-> 3. Compile a native library that executes some code (such as writing user id to a file, or performing chmod 777), create a zip with path-traversal in its name and force the app to process it.
->
-> Pretty easy technique that brought me tens of thousands in GPSRP!
-
-
----
-
-## 2020-10-22 · Post · 2.2. If there's no security checks such as zipFile.getName().contains("../"), it means you can overw
-
-
-### Post — @_bagipro — 2020-10-22 19:51 UTC (2020-10-22 20:51 WAT)
-
-- URL: https://x.com/_bagipro/status/1319365832049364999
-- Metrics (at fetch): bookmark 1, impression 0, like 30, quote 0, reply 2, retweet 5
-
-> 2.2. If there's no security checks such as zipFile.getName().contains("../"), it means you can overwrite arbitrary files during unzip. Now find a way to substitute that zip (very often they are stored on SD card, or its path is accepted by some unprotected component)
-
-
----
-
-## 2020-10-22 · Post · bugbountytips 
+## 2020-10-22 · Thread · bugbountytips 
 
 
 Tags (automatic): RCE, Mobile / Android / iOS
@@ -1265,6 +1141,24 @@ Tags (automatic): RCE, Mobile / Android / iOS
 > Easy arbitrary code execution on Android:
 > 1. Write a hook (using Xposed or Frida) to log paths of File.exists() and mention all files ending with .so during app load
 > 2.1. Grep for ZipFile usage (and all its methods such as entries(), getEntry(...), etc).
+
+
+### Thread part 2 — @_bagipro — 2020-10-22 19:51 UTC (2020-10-22 20:51 WAT)
+
+- URL: https://x.com/_bagipro/status/1319365832049364999
+- Metrics (at fetch): bookmark 1, impression 0, like 30, quote 0, reply 2, retweet 5
+
+> 2.2. If there's no security checks such as zipFile.getName().contains("../"), it means you can overwrite arbitrary files during unzip. Now find a way to substitute that zip (very often they are stored on SD card, or its path is accepted by some unprotected component)
+
+
+### Thread part 3 — @_bagipro — 2020-10-22 19:51 UTC (2020-10-22 20:51 WAT)
+
+- URL: https://x.com/_bagipro/status/1319365833378959363
+- Metrics (at fetch): bookmark 6, impression 0, like 37, quote 0, reply 0, retweet 6
+
+> 3. Compile a native library that executes some code (such as writing user id to a file, or performing chmod 777), create a zip with path-traversal in its name and force the app to process it.
+>
+> Pretty easy technique that brought me tens of thousands in GPSRP!
 
 
 ---
@@ -1299,58 +1193,10 @@ Tags (automatic): RCE, Mobile / Android / iOS
 
 ---
 
-## 2020-08-16 · Post · 6. Repeat the same thing for iOS apps. Usually, functionality is similar, but actual implementations
-
-
-Tags (automatic): Mobile / Android / iOS
-
-
-### Post — @_bagipro — 2020-08-16 12:21 UTC (2020-08-16 13:21 WAT)
-
-- URL: https://x.com/_bagipro/status/1294972450791464960
-- Metrics (at fetch): bookmark 31, impression 0, like 89, quote 0, reply 2, retweet 10
-
-> 6. Repeat the same thing for iOS apps. Usually, functionality is similar, but actual implementations are different
->
-> That's how I found https://t.co/bx40l3ARgJ and earned $7.5k
-
-
----
-
-## 2020-08-16 · Post · 5. Now try to put your own domains with adb (adb shell am start -a android.intent.action.VIEW -d air
+## 2020-08-16 · Thread · bugbounty
 
 
 Tags (automatic): Mobile / Android / iOS, Platform: HackerOne
-
-
-### Post — @_bagipro — 2020-08-16 12:21 UTC (2020-08-16 13:21 WAT)
-
-- URL: https://x.com/_bagipro/status/1294972448656498690
-- Metrics (at fetch): bookmark 6, impression 0, like 31, quote 0, reply 2, retweet 6
-
-> 5. Now try to put your own domains with adb (adb shell am start -a android.intent.action.VIEW -d airbnb://d/openurl?url=http:// https://t.co/mr5rsjkMab) or on HTML pages (check out the H1 report below)
-
-
----
-
-## 2020-08-16 · Post · 3. Grep among all sources and resources a pattern from a handler, in this case, airbnb://d
-
-
-### Post — @_bagipro — 2020-08-16 12:21 UTC (2020-08-16 13:21 WAT)
-
-- URL: https://x.com/_bagipro/status/1294972447360516097
-- Metrics (at fetch): bookmark 9, impression 0, like 32, quote 0, reply 3, retweet 4
-
-> 3. Grep among all sources and resources a pattern from a handler, in this case, airbnb://d
-> 4. You could find a lot of hardcoded urls like airbnb://d/openurl?url=https:// https://t.co/tRbJFzgWmZ. That's much simpler than learning app's sources
-
-
----
-
-## 2020-08-16 · Post · bugbounty
-
-
-Tags (automatic): Mobile / Android / iOS
 
 
 ### Post — @_bagipro — 2020-08-16 12:21 UTC (2020-08-16 13:21 WAT)
@@ -1363,6 +1209,33 @@ Tags (automatic): Mobile / Android / iOS
 > You must love #Android deeplinks! They are the easiest way to get bounties
 > 1. Decompile an app with jadx
 > 2. Collect all deeplink handlers from AndroidManifest.xml, they look like &lt;data android:scheme="airbnb" android:host="d"/&gt;
+
+
+### Thread part 2 — @_bagipro — 2020-08-16 12:21 UTC (2020-08-16 13:21 WAT)
+
+- URL: https://x.com/_bagipro/status/1294972447360516097
+- Metrics (at fetch): bookmark 9, impression 0, like 32, quote 0, reply 3, retweet 4
+
+> 3. Grep among all sources and resources a pattern from a handler, in this case, airbnb://d
+> 4. You could find a lot of hardcoded urls like airbnb://d/openurl?url=https:// https://t.co/tRbJFzgWmZ. That's much simpler than learning app's sources
+
+
+### Thread part 3 — @_bagipro — 2020-08-16 12:21 UTC (2020-08-16 13:21 WAT)
+
+- URL: https://x.com/_bagipro/status/1294972448656498690
+- Metrics (at fetch): bookmark 6, impression 0, like 31, quote 0, reply 2, retweet 6
+
+> 5. Now try to put your own domains with adb (adb shell am start -a android.intent.action.VIEW -d airbnb://d/openurl?url=http:// https://t.co/mr5rsjkMab) or on HTML pages (check out the H1 report below)
+
+
+### Thread part 4 — @_bagipro — 2020-08-16 12:21 UTC (2020-08-16 13:21 WAT)
+
+- URL: https://x.com/_bagipro/status/1294972450791464960
+- Metrics (at fetch): bookmark 31, impression 0, like 89, quote 0, reply 2, retweet 10
+
+> 6. Repeat the same thing for iOS apps. Usually, functionality is similar, but actual implementations are different
+>
+> That's how I found https://t.co/bx40l3ARgJ and earned $7.5k
 
 
 ---

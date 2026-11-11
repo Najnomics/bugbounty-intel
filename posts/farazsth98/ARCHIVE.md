@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 143
-- Conversations/threads: 124
+- Conversations/threads: 123
 - Oldest post captured: 2019-09-30
 - Newest post captured: 2026-11-03
 
@@ -309,20 +309,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-19 · Post · I also have file renaming and jumping to specific files and etc implemented, but yeah without better
-
-
-### Post — @farazsth98 — 2026-09-19 09:47 UTC (2026-09-19 10:47 WAT)
-
-- URL: https://x.com/farazsth98/status/2101246795494101029
-- Metrics (at fetch): bookmark 1, impression 549, like 0, quote 0, reply 0, retweet 0
-
-> I also have file renaming and jumping to specific files and etc implemented, but yeah without better STT it's kind of a pain to use, even though it only takes ~1-2 seconds to react to the voice commands.
-
-
----
-
-## 2026-09-19 · Post · Slowly building Jarvis at home with Jev. First stop: VS Code for the auditing workflow👀
+## 2026-09-19 · Thread · Slowly building Jarvis at home with Jev. First stop: VS Code for the auditing workflow👀
 
 
 ### Post — @farazsth98 — 2026-09-19 09:46 UTC (2026-09-19 10:46 WAT)
@@ -338,6 +325,14 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/2101246419575402496/img/rdx-0nhC7yc3jc8l.jpg — no alt text provided by author
+
+
+### Thread part 2 — @farazsth98 — 2026-09-19 09:47 UTC (2026-09-19 10:47 WAT)
+
+- URL: https://x.com/farazsth98/status/2101246795494101029
+- Metrics (at fetch): bookmark 1, impression 549, like 0, quote 0, reply 0, retweet 0
+
+> I also have file renaming and jumping to specific files and etc implemented, but yeah without better STT it's kind of a pain to use, even though it only takes ~1-2 seconds to react to the voice commands.
 
 
 ---

@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 312
-- Conversations/threads: 306
+- Conversations/threads: 303
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
 
@@ -420,20 +420,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-22 · Post · @SEC_T_org If you missed it first time around, you can find the whitepaper here: https://t.co/pGQnvs
-
-
-### Post — @albinowax — 2026-09-22 15:10 UTC (2026-09-22 16:10 WAT)
-
-- URL: https://x.com/albinowax/status/2102415134409003392
-- Metrics (at fetch): bookmark 1, impression 1210, like 7, quote 0, reply 0, retweet 0
-
-> @SEC_T_org If you missed it first time around, you can find the whitepaper here: https://t.co/pGQnvs4sJ0
-
-
----
-
-## 2026-09-22 · Post · My latest presentation has landed on YouTube, courtesy of @SEC_T_org! Can AI do novel security resea
+## 2026-09-22 · Thread · My latest presentation has landed on YouTube, courtesy of @SEC_T_org! Can AI do novel security resea
 
 
 Tags (automatic): AI-assisted hunting
@@ -448,6 +435,14 @@ Tags (automatic): AI-assisted hunting
 > https://www.youtube.com/watch?v=jCFZFDHnZrQ
 
 **Links in post:** https://www.youtube.com/watch?v=jCFZFDHnZrQ
+
+
+### Thread part 2 — @albinowax — 2026-09-22 15:10 UTC (2026-09-22 16:10 WAT)
+
+- URL: https://x.com/albinowax/status/2102415134409003392
+- Metrics (at fetch): bookmark 1, impression 1210, like 7, quote 0, reply 0, retweet 0
+
+> @SEC_T_org If you missed it first time around, you can find the whitepaper here: https://t.co/pGQnvs4sJ0
 
 
 ---
@@ -670,20 +665,7 @@ Tags (automatic): Request smuggling / desync
 
 ---
 
-## 2026-08-07 · Post · Hope you enjoyed the show! I'll be hanging out in the chillout longue if anyone wants to meet up. Lo
-
-
-### Post — @albinowax — 2026-08-07 20:16 UTC (2026-08-07 21:16 WAT)
-
-- URL: https://x.com/albinowax/status/2085822311777669138
-- Metrics (at fetch): bookmark 1, impression 1823, like 8, quote 0, reply 0, retweet 0
-
-> Hope you enjoyed the show! I'll be hanging out in the chillout longue if anyone wants to meet up. Look for the orange laptop.
-
-
----
-
-## 2026-08-07 · Post · 90 minutes till "Can AI do novel security research? Meet the HTTP Terminator" kicks off at DEFCON m
+## 2026-08-07 · Thread · 90 minutes till "Can AI do novel security research? Meet the HTTP Terminator" kicks off at DEFCON m
 
 
 Tags (automatic): AI-assisted hunting
@@ -700,6 +682,14 @@ Tags (automatic): AI-assisted hunting
 > https://www.youtube.com/watch?v=9go8jFHP4iA
 
 **Links in post:** https://www.youtube.com/watch?v=9go8jFHP4iA
+
+
+### Thread part 2 — @albinowax — 2026-08-07 20:16 UTC (2026-08-07 21:16 WAT)
+
+- URL: https://x.com/albinowax/status/2085822311777669138
+- Metrics (at fetch): bookmark 1, impression 1823, like 8, quote 0, reply 0, retweet 0
+
+> Hope you enjoyed the show! I'll be hanging out in the chillout longue if anyone wants to meet up. Look for the orange laptop.
 
 
 ---
@@ -883,20 +873,7 @@ Tags (automatic): Race condition, Request smuggling / desync
 
 ---
 
-## 2026-06-09 · Post · @defcon The abstract isn't live on the site yet but I put it here: https://t.co/P1f1nWDxFr
-
-
-### Post — @albinowax — 2026-06-09 14:46 UTC (2026-06-09 15:46 WAT)
-
-- URL: https://x.com/albinowax/status/2064358500411584722
-- Metrics (at fetch): bookmark 4, impression 2748, like 10, quote 0, reply 0, retweet 0
-
-> @defcon The abstract isn't live on the site yet but I put it here: https://t.co/P1f1nWDxFr
-
-
----
-
-## 2026-06-09 · Post · Woo, I can confirm "Can AI Do Novel Security Research? Meet the HTTP Terminator" is coming to @defco
+## 2026-06-09 · Thread · Woo, I can confirm "Can AI Do Novel Security Research? Meet the HTTP Terminator" is coming to @defco
 
 
 Tags (automatic): AI-assisted hunting
@@ -911,6 +888,14 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HKYR0NdXsAEQ8YK.png — no alt text provided by author
+
+
+### Thread part 2 — @albinowax — 2026-06-09 14:46 UTC (2026-06-09 15:46 WAT)
+
+- URL: https://x.com/albinowax/status/2064358500411584722
+- Metrics (at fetch): bookmark 4, impression 2748, like 10, quote 0, reply 0, retweet 0
+
+> @defcon The abstract isn't live on the site yet but I put it here: https://t.co/P1f1nWDxFr
 
 
 ---

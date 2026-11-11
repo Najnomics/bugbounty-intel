@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 86
-- Conversations/threads: 86
+- Conversations/threads: 85
 - Oldest post captured: 2023-03-03
 - Newest post captured: 2026-07-20
 
@@ -633,13 +633,22 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-02-12 · Post · @immunefi Follow up:
+## 2025-01-17 · Thread · Private vs. platform bounties—which is better?
 
 
 Tags (automatic): Platform: Immunefi
 
 
-### Post — @_blockian — 2025-02-12 12:56 UTC (2025-02-12 13:56 WAT)
+### Post — @_blockian — 2025-01-17 18:29 UTC (2025-01-17 19:29 WAT)
+
+- URL: https://x.com/_blockian/status/1880321523522892026
+- Metrics (at fetch): bookmark 0, impression 1489, like 12, quote 1, reply 1, retweet 0
+
+> Private vs. platform bounties—which is better?
+> I just reported a bug privately that’s identical in impact and conditions to one I submitted via @immunefi. Curious to see how the response compares. Thoughts?
+
+
+### Thread part 2 — @_blockian — 2025-02-12 12:56 UTC (2025-02-12 13:56 WAT)
 
 - URL: https://x.com/_blockian/status/1889659772594508056
 - Metrics (at fetch): bookmark 1, impression 669, like 2, quote 0, reply 0, retweet 1
@@ -680,23 +689,6 @@ Tags (automatic): ZK
 > If anyone is looking for a ZK audit, we definitely got your back 😉 https://t.co/JfFRbeeB91
 
 **Quoted post** 1883833078134816824: not readable via the API (deleted, private, or withheld).
-
-
----
-
-## 2025-01-17 · Post · Private vs. platform bounties—which is better?
-
-
-Tags (automatic): Platform: Immunefi
-
-
-### Post — @_blockian — 2025-01-17 18:29 UTC (2025-01-17 19:29 WAT)
-
-- URL: https://x.com/_blockian/status/1880321523522892026
-- Metrics (at fetch): bookmark 0, impression 1489, like 12, quote 1, reply 1, retweet 0
-
-> Private vs. platform bounties—which is better?
-> I just reported a bug privately that’s identical in impact and conditions to one I submitted via @immunefi. Curious to see how the response compares. Thoughts?
 
 
 ---

@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 651
-- Conversations/threads: 551
+- Conversations/threads: 475
 - Oldest post captured: 2024-10-01
 - Newest post captured: 2026-11-10
 
@@ -942,22 +942,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-10-28 · Post · And again, this was a really really cool, almost h/w level bug that we found.
-
-
-### Post — @saxenism — 2026-10-28 09:59 UTC (2026-10-28 10:59 WAT)
-
-- URL: https://x.com/saxenism/status/2115382883049492897
-- Metrics (at fetch): bookmark 0, impression 308, like 4, quote 0, reply 0, retweet 0
-
-> And again, this was a really really cool, almost h/w level bug that we found.
->
-> Life's never been more fun XD
-
-
----
-
-## 2026-10-28 · Post · In the immortal words of Kanye: Everybody wanted to know what I would do if I didn’t win… [pic.x.com
+## 2026-10-28 · Thread · In the immortal words of Kanye: Everybody wanted to know what I would do if I didn’t win… [pic.x.com
 
 
 ### Post — @saxenism — 2026-10-28 09:58 UTC (2026-10-28 10:58 WAT)
@@ -999,6 +984,16 @@ Tags (automatic): AI-assisted hunting
         - photo: https://pbs.twimg.com/media/HUm5E7Ha0AEscfR.jpg — no alt text provided by author
         
     
+
+
+### Thread part 2 — @saxenism — 2026-10-28 09:59 UTC (2026-10-28 10:59 WAT)
+
+- URL: https://x.com/saxenism/status/2115382883049492897
+- Metrics (at fetch): bookmark 0, impression 308, like 4, quote 0, reply 0, retweet 0
+
+> And again, this was a really really cool, almost h/w level bug that we found.
+>
+> Life's never been more fun XD
 
 
 ---
@@ -1601,24 +1596,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-10-17 · Post · @Zcash Posting about this 2 weeks later because, after filing the GHSA, I figured out a vector that 
-
-
-### Post — @saxenism — 2026-10-17 20:43 UTC (2026-10-17 21:43 WAT)
-
-- URL: https://x.com/saxenism/status/2111558715828793605
-- Metrics (at fetch): bookmark 1, impression 332, like 3, quote 0, reply 0, retweet 0
-
-> @Zcash Posting about this 2 weeks later because, after filing the GHSA, I figured out a vector that makes this attack even worse and had to notify the maintainers about that too XD
->
-> Lessss go mofos!!
->
-> PS: Visit https://t.co/ACDJhBcTMI after 90 days for details of this vulnerability :)
-
-
----
-
-## 2026-10-17 · Post · Somewhere in the @Zcash ecosystem, something just got more secure. https://t.co/cRb3pcX5i9 https://t
+## 2026-10-17 · Thread · Somewhere in the @Zcash ecosystem, something just got more secure. https://t.co/cRb3pcX5i9 https://t
 
 
 ### Post — @saxenism — 2026-10-17 20:40 UTC (2026-10-17 21:40 WAT)
@@ -1653,6 +1631,18 @@ Tags (automatic): AI-assisted hunting
     **Media:**
     - photo: https://pbs.twimg.com/media/HUxBhCmaEAAKIfg.jpg — no alt text provided by author
     
+
+
+### Thread part 2 — @saxenism — 2026-10-17 20:43 UTC (2026-10-17 21:43 WAT)
+
+- URL: https://x.com/saxenism/status/2111558715828793605
+- Metrics (at fetch): bookmark 1, impression 332, like 3, quote 0, reply 0, retweet 0
+
+> @Zcash Posting about this 2 weeks later because, after filing the GHSA, I figured out a vector that makes this attack even worse and had to notify the maintainers about that too XD
+>
+> Lessss go mofos!!
+>
+> PS: Visit https://t.co/ACDJhBcTMI after 90 days for details of this vulnerability :)
 
 
 ---
@@ -3829,10 +3819,25 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2026-07-30 · Post · My notes from reading the hugging face attack:
+## 2026-07-30 · Thread · Here's the current reality of the web3 landscape:
 
 
-### Post — @saxenism — 2026-07-30 10:16 UTC (2026-07-30 11:16 WAT)
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @saxenism — 2026-07-30 10:15 UTC (2026-07-30 11:15 WAT)
+
+- URL: https://x.com/saxenism/status/2082771949529567668
+- Metrics (at fetch): bookmark 4, impression 1059, like 10, quote 0, reply 6, retweet 1
+
+> Here's the current reality of the web3 landscape:
+>
+> 1. Agents let attackers try way more things, way faster, and defenders have to sift through way more noise to keep up.
+>
+> 1.1 This is assuming defenders even have the infra to listen to noise (appropriate functional alerts across
+
+
+### Thread part 2 — @saxenism — 2026-07-30 10:16 UTC (2026-07-30 11:16 WAT)
 
 - URL: https://x.com/saxenism/status/2082772226395525512
 - Metrics (at fetch): bookmark 0, impression 230, like 1, quote 0, reply 0, retweet 0
@@ -3853,26 +3858,6 @@ Tags (automatic): TEE / enclave
     **Media:**
     - media `3_2082200880334426112` (details not returned by the API)
     
-
-
----
-
-## 2026-07-30 · Post · Here's the current reality of the web3 landscape:
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-07-30 10:15 UTC (2026-07-30 11:15 WAT)
-
-- URL: https://x.com/saxenism/status/2082771949529567668
-- Metrics (at fetch): bookmark 4, impression 1059, like 10, quote 0, reply 6, retweet 1
-
-> Here's the current reality of the web3 landscape:
->
-> 1. Agents let attackers try way more things, way faster, and defenders have to sift through way more noise to keep up.
->
-> 1.1 This is assuming defenders even have the infra to listen to noise (appropriate functional alerts across
 
 
 ---
@@ -3910,10 +3895,35 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2026-07-28 · Post · @SecretNetwork @bluethroat_labs Time for the second write-up
+## 2026-07-22 · Thread · You asked for receipts, you got it.
 
 
-### Post — @saxenism — 2026-07-28 08:58 UTC (2026-07-28 09:58 WAT)
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @saxenism — 2026-07-22 16:12 UTC (2026-07-22 17:12 WAT)
+
+- URL: https://x.com/saxenism/status/2079962866921480607
+- Metrics (at fetch): bookmark 13, impression 2812, like 37, quote 1, reply 3, retweet 3
+
+> You asked for receipts, you got it.
+>
+> Kudos to the @SecretNetwork team for handling the entire disclosure process with professionalism and care.
+>
+> At @bluethroat_labs, we are investing deeply in domain-specialized security agents that augment experienced security researchers. https://t.co/HAs2iwdyoO
+
+**Quoted post (full text):**
+
+    #### Quoted post — @bluethroat_labs — 2026-07-22 09:45 UTC (2026-07-22 10:45 WAT)
+    
+    - URL: https://x.com/bluethroat_labs/status/2079865288611225978
+    - Metrics (at fetch): bookmark 9, impression 3848, like 10, quote 1, reply 0, retweet 0
+    
+    > https://t.co/3qSnhIO7JW
+    
+
+
+### Thread part 2 — @saxenism — 2026-07-28 08:58 UTC (2026-07-28 09:58 WAT)
 
 - URL: https://x.com/saxenism/status/2082027905962676482
 - Metrics (at fetch): bookmark 0, impression 53, like 0, quote 0, reply 0, retweet 0
@@ -4021,36 +4031,6 @@ Tags (automatic): AI-assisted hunting
 > Just used Claude’s free tier to get a fresh, outsider perspective on Bluethroat, and holy fucking shit.
 >
 > The gap between that experience and the way I normally use Claude was enormous. Not “a slightly worse version of the same thing” enormous. It felt like an entirely different
-
-
----
-
-## 2026-07-22 · Post · You asked for receipts, you got it.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-07-22 16:12 UTC (2026-07-22 17:12 WAT)
-
-- URL: https://x.com/saxenism/status/2079962866921480607
-- Metrics (at fetch): bookmark 13, impression 2812, like 37, quote 1, reply 3, retweet 3
-
-> You asked for receipts, you got it.
->
-> Kudos to the @SecretNetwork team for handling the entire disclosure process with professionalism and care.
->
-> At @bluethroat_labs, we are investing deeply in domain-specialized security agents that augment experienced security researchers. https://t.co/HAs2iwdyoO
-
-**Quoted post (full text):**
-
-    #### Quoted post — @bluethroat_labs — 2026-07-22 09:45 UTC (2026-07-22 10:45 WAT)
-    
-    - URL: https://x.com/bluethroat_labs/status/2079865288611225978
-    - Metrics (at fetch): bookmark 9, impression 3848, like 10, quote 1, reply 0, retweet 0
-    
-    > https://t.co/3qSnhIO7JW
-    
 
 
 ---
@@ -4197,22 +4177,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-01 · Post · @bluethroat_labs As a starting point, join @bluethroat's community and let's get to know each other 
-
-
-### Post — @saxenism — 2026-07-01 10:07 UTC (2026-07-01 11:07 WAT)
-
-- URL: https://x.com/saxenism/status/2072260730435547305
-- Metrics (at fetch): bookmark 0, impression 1100, like 3, quote 0, reply 0, retweet 0
-
-> @bluethroat_labs As a starting point, join @bluethroat's community and let's get to know each other better:
->
-> https://t.co/uK5vPz3AR8
-
-
----
-
-## 2026-07-01 · Post · Btw, if you're looking for a technical internship opportunity over at @bluethroat_labs, please DM me
+## 2026-07-01 · Thread · Btw, if you're looking for a technical internship opportunity over at @bluethroat_labs, please DM me
 
 
 ### Post — @saxenism — 2026-07-01 10:06 UTC (2026-07-01 11:06 WAT)
@@ -4232,6 +4197,16 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/saxenism/status/2071927537484104078
 
 **Quoted post** 2071927537484104078: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @saxenism — 2026-07-01 10:07 UTC (2026-07-01 11:07 WAT)
+
+- URL: https://x.com/saxenism/status/2072260730435547305
+- Metrics (at fetch): bookmark 0, impression 1100, like 3, quote 0, reply 0, retweet 0
+
+> @bluethroat_labs As a starting point, join @bluethroat's community and let's get to know each other better:
+>
+> https://t.co/uK5vPz3AR8
 
 
 ---
@@ -4320,81 +4295,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-06-30 · Post · Study how the best auditors think. Extract the mental models. Turn them into systems.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
-
-- URL: https://x.com/saxenism/status/2071892355347841040
-- Metrics (at fetch): bookmark 0, impression 130, like 3, quote 0, reply 1, retweet 0
-
-> Study how the best auditors think. Extract the mental models. Turn them into systems.
->
-> Also a good filter for who to listen to.
->
-> Feed someone’s “auditing mindset” advice to your AI as instructions. If the output is noisy, useless, or produces zero signal, you learned something XD
-
-
----
-
-## 2026-06-30 · Post · The money shot now is clarity of thought.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
-
-- URL: https://x.com/saxenism/status/2071892353032556937
-- Metrics (at fetch): bookmark 1, impression 143, like 3, quote 0, reply 1, retweet 0
-
-> The money shot now is clarity of thought.
->
-> If you can take a strong auditor’s mental model, adapt it to your requirements, and make it something tangible, you can hand it to a small army of capable AI agents that will run it, gather evidence, and add nuance.
->
-> That is why those
-
-
----
-
-## 2026-06-30 · Post · And that is just one directive.
-
-
-### Post — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
-
-- URL: https://x.com/saxenism/status/2071892350667005999
-- Metrics (at fetch): bookmark 0, impression 200, like 1, quote 0, reply 1, retweet 0
-
-> And that is just one directive.
->
-> Good auditors carry dozens of these in their head. Specific ways of seeing codebases, distrusting assumptions, following weird smells, and finding the places where bugs like to hide.
->
-> So the edge shifts.
->
-> Operational execution is being
-
-
----
-
-## 2026-06-30 · Post · Take one common audit directive as an example: look for under-tested or badly-tested areas of a prot
-
-
-### Post — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
-
-- URL: https://x.com/saxenism/status/2071892348322333076
-- Metrics (at fetch): bookmark 1, impression 368, like 3, quote 0, reply 1, retweet 0
-
-> Take one common audit directive as an example: look for under-tested or badly-tested areas of a protocol.
->
-> Earlier, doing this well meant manually understanding the architecture, mapping components, reading unit/integration/e2e tests, judging mocking quality, and separating real
-
-
----
-
-## 2026-06-30 · Post · I used to HATE those "auditing mindset" videos circa '23.
+## 2026-06-30 · Thread · I used to HATE those "auditing mindset" videos circa '23.
 
 
 Tags (automatic): AI-assisted hunting
@@ -4412,6 +4313,54 @@ Tags (automatic): AI-assisted hunting
 > AI, however, has changed the game. It is making an auditing mindset executable.
 >
 > And that, my friend, is a BIG FUCKING UNLOCK.
+
+
+### Thread part 2 — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
+
+- URL: https://x.com/saxenism/status/2071892348322333076
+- Metrics (at fetch): bookmark 1, impression 368, like 3, quote 0, reply 1, retweet 0
+
+> Take one common audit directive as an example: look for under-tested or badly-tested areas of a protocol.
+>
+> Earlier, doing this well meant manually understanding the architecture, mapping components, reading unit/integration/e2e tests, judging mocking quality, and separating real
+
+
+### Thread part 3 — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
+
+- URL: https://x.com/saxenism/status/2071892350667005999
+- Metrics (at fetch): bookmark 0, impression 200, like 1, quote 0, reply 1, retweet 0
+
+> And that is just one directive.
+>
+> Good auditors carry dozens of these in their head. Specific ways of seeing codebases, distrusting assumptions, following weird smells, and finding the places where bugs like to hide.
+>
+> So the edge shifts.
+>
+> Operational execution is being
+
+
+### Thread part 4 — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
+
+- URL: https://x.com/saxenism/status/2071892353032556937
+- Metrics (at fetch): bookmark 1, impression 143, like 3, quote 0, reply 1, retweet 0
+
+> The money shot now is clarity of thought.
+>
+> If you can take a strong auditor’s mental model, adapt it to your requirements, and make it something tangible, you can hand it to a small army of capable AI agents that will run it, gather evidence, and add nuance.
+>
+> That is why those
+
+
+### Thread part 5 — @saxenism — 2026-06-30 09:43 UTC (2026-06-30 10:43 WAT)
+
+- URL: https://x.com/saxenism/status/2071892355347841040
+- Metrics (at fetch): bookmark 0, impression 130, like 3, quote 0, reply 1, retweet 0
+
+> Study how the best auditors think. Extract the mental models. Turn them into systems.
+>
+> Also a good filter for who to listen to.
+>
+> Feed someone’s “auditing mindset” advice to your AI as instructions. If the output is noisy, useless, or produces zero signal, you learned something XD
 
 
 ---
@@ -4712,169 +4661,6 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-06-17 · Post · 10/10 The next step, for me is adding audit-specific profiles on top of this.
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126679814991914
-- Metrics (at fetch): bookmark 1, impression 92, like 3, quote 0, reply 0, retweet 0
-
-> 10/10 The next step, for me is adding audit-specific profiles on top of this.
->
-> codebase-memory-mcp gives the agent a structural graph of the repo.
->
-> What I want next is Shakuni / Vidur query packs that ask the right first questions for my use case:
->
-> - consensus surfaces
-> - vote /
-
-
----
-
-## 2026-06-17 · Post · 9/10 My take after testing it in real security workflows:
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126677164155293
-- Metrics (at fetch): bookmark 0, impression 98, like 1, quote 0, reply 1, retweet 0
-
-> 9/10 My take after testing it in real security workflows:
->
-> This is a meaningful upgrade for agentic auditing, especially on large production codebases.
->
-> It turns the codebase from a pile of files into a queryable memory graph, so the agent stops using tokens to rediscover
-
-
----
-
-## 2026-06-17 · Post · 8/10 Important nuance: this is a structural accelerator, not a vulnerability oracle.
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126674026578308
-- Metrics (at fetch): bookmark 0, impression 41, like 2, quote 0, reply 1, retweet 0
-
-> 8/10 Important nuance: this is a structural accelerator, not a vulnerability oracle.
->
-> It does not replace:
-> - direct source reads
-> - exploit reasoning
-> - line-by-line verification
-> - PoCs
-> - mitigation analysis
-> - checking whether the same invariant breaks elsewhere
->
-> If I treated it
-
-
----
-
-## 2026-06-17 · Post · 7/10 That is why I found it useful for Shakuni and Vidur specifically.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126670965059910
-- Metrics (at fetch): bookmark 0, impression 44, like 2, quote 0, reply 1, retweet 0
-
-> 7/10 That is why I found it useful for Shakuni and Vidur specifically.
->
-> For specialist audit agents, the bottleneck is often not “can the model think?”  
-> It is “how much of its context and reasoning budget gets wasted reconstructing repo structure?”
->
-> This shifts the balance in
-
-
----
-
-## 2026-06-17 · Post · 6/10 The biggest win was in the find-the-map phase.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126668523901025
-- Metrics (at fetch): bookmark 1, impression 39, like 2, quote 0, reply 1, retweet 0
-
-> 6/10 The biggest win was in the find-the-map phase.
->
-> Before an agent can reason properly about a bug class, it needs to know:
->
-> - where the trust boundaries are
-> - where control flow converges
-> - where critical transitions live
-> - what adjacent components might quietly matter
->
-> This
-
-
----
-
-## 2026-06-17 · Post · 5/10 I also tested it on Monad.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126665965412664
-- Metrics (at fetch): bookmark 0, impression 44, like 2, quote 0, reply 1, retweet 0
-
-> 5/10 I also tested it on Monad.
->
-> Same pattern there:
->
-> It indexed quickly and surfaced structurally relevant paths around things like:
->
-> - timeout handling
-> - voting
-> - timeout certificate verification
->
-> That does not prove a bug by itself.
->
-> But it does get the agent to the right
-
-
----
-
-## 2026-06-17 · Post · 4/10 I did not just read the README and nod along.
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126663377572128
-- Metrics (at fetch): bookmark 0, impression 53, like 1, quote 0, reply 1, retweet 0
-
-> 4/10 I did not just read the README and nod along.
->
-> I installed it locally and tested it on real audit-sized codebases in my workspace.
->
-> On my local run against CometBFT v0.37.18, it indexed roughly:
->
-> - 15.7k graph nodes
-> - 75.6k graph edges
-> - in about 1.35s
->
-> Then I used it to
-
-
----
-
 ## 2026-06-17 · Thread · Tested the `codebase-memory-mcp` today with two of my specialist security agents:
 
 
@@ -4942,6 +4728,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave, AI-assisted huntin
 
 ### Thread part 2 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
 
+- URL: https://x.com/saxenism/status/2067126658113716346
+- Metrics (at fetch): bookmark 1, impression 344, like 3, quote 0, reply 1, retweet 0
+
+> 2/10 A lot of audit agent time gets wasted on cold-start orientation:
+>
+> - where is consensus actually implemented?
+> - where are proposals / votes / timeouts / commit transitions handled?
+> - where is attestation verified?
+> - what calls into the KMS?
+> - where are enclave-host boundaries
+
+
+### Thread part 3 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
+
 - URL: https://x.com/saxenism/status/2067126660894490942
 - Metrics (at fetch): bookmark 0, impression 291, like 1, quote 0, reply 1, retweet 0
 
@@ -4962,26 +4762,117 @@ Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave, AI-assisted huntin
 > Not exactly a language server, but similar in spirit: repo structure becomes queryable instead of being repeatedly reloaded into context.
 
 
----
+### Thread part 4 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
 
-## 2026-06-17 · Post · 2/10 A lot of audit agent time gets wasted on cold-start orientation:
+- URL: https://x.com/saxenism/status/2067126663377572128
+- Metrics (at fetch): bookmark 0, impression 53, like 1, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave, AI-assisted hunting
-
-
-### Post — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
-
-- URL: https://x.com/saxenism/status/2067126658113716346
-- Metrics (at fetch): bookmark 1, impression 344, like 3, quote 0, reply 1, retweet 0
-
-> 2/10 A lot of audit agent time gets wasted on cold-start orientation:
+> 4/10 I did not just read the README and nod along.
 >
-> - where is consensus actually implemented?
-> - where are proposals / votes / timeouts / commit transitions handled?
-> - where is attestation verified?
-> - what calls into the KMS?
-> - where are enclave-host boundaries
+> I installed it locally and tested it on real audit-sized codebases in my workspace.
+>
+> On my local run against CometBFT v0.37.18, it indexed roughly:
+>
+> - 15.7k graph nodes
+> - 75.6k graph edges
+> - in about 1.35s
+>
+> Then I used it to
+
+
+### Thread part 5 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/2067126665965412664
+- Metrics (at fetch): bookmark 0, impression 44, like 2, quote 0, reply 1, retweet 0
+
+> 5/10 I also tested it on Monad.
+>
+> Same pattern there:
+>
+> It indexed quickly and surfaced structurally relevant paths around things like:
+>
+> - timeout handling
+> - voting
+> - timeout certificate verification
+>
+> That does not prove a bug by itself.
+>
+> But it does get the agent to the right
+
+
+### Thread part 6 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/2067126668523901025
+- Metrics (at fetch): bookmark 1, impression 39, like 2, quote 0, reply 1, retweet 0
+
+> 6/10 The biggest win was in the find-the-map phase.
+>
+> Before an agent can reason properly about a bug class, it needs to know:
+>
+> - where the trust boundaries are
+> - where control flow converges
+> - where critical transitions live
+> - what adjacent components might quietly matter
+>
+> This
+
+
+### Thread part 7 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/2067126670965059910
+- Metrics (at fetch): bookmark 0, impression 44, like 2, quote 0, reply 1, retweet 0
+
+> 7/10 That is why I found it useful for Shakuni and Vidur specifically.
+>
+> For specialist audit agents, the bottleneck is often not “can the model think?”  
+> It is “how much of its context and reasoning budget gets wasted reconstructing repo structure?”
+>
+> This shifts the balance in
+
+
+### Thread part 8 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/2067126674026578308
+- Metrics (at fetch): bookmark 0, impression 41, like 2, quote 0, reply 1, retweet 0
+
+> 8/10 Important nuance: this is a structural accelerator, not a vulnerability oracle.
+>
+> It does not replace:
+> - direct source reads
+> - exploit reasoning
+> - line-by-line verification
+> - PoCs
+> - mitigation analysis
+> - checking whether the same invariant breaks elsewhere
+>
+> If I treated it
+
+
+### Thread part 9 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/2067126677164155293
+- Metrics (at fetch): bookmark 0, impression 98, like 1, quote 0, reply 1, retweet 0
+
+> 9/10 My take after testing it in real security workflows:
+>
+> This is a meaningful upgrade for agentic auditing, especially on large production codebases.
+>
+> It turns the codebase from a pile of files into a queryable memory graph, so the agent stops using tokens to rediscover
+
+
+### Thread part 10 — @saxenism — 2026-06-17 06:06 UTC (2026-06-17 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/2067126679814991914
+- Metrics (at fetch): bookmark 1, impression 92, like 3, quote 0, reply 0, retweet 0
+
+> 10/10 The next step, for me is adding audit-specific profiles on top of this.
+>
+> codebase-memory-mcp gives the agent a structural graph of the repo.
+>
+> What I want next is Shakuni / Vidur query packs that ask the right first questions for my use case:
+>
+> - consensus surfaces
+> - vote /
 
 
 ---
@@ -5567,20 +5458,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-05-15 · Post · This in no way says to stop efforts to integrate security early into your development practices, but
-
-
-### Post — @saxenism — 2026-05-15 10:23 UTC (2026-05-15 11:23 WAT)
-
-- URL: https://x.com/saxenism/status/2055232556761833638
-- Metrics (at fetch): bookmark 0, impression 124, like 2, quote 0, reply 0, retweet 0
-
-> This in no way says to stop efforts to integrate security early into your development practices, but shifting left HAS to be deprioritised in favour of runtime defences right now.
-
-
----
-
-## 2026-05-15 · Post · "Shift Left" is the official advice we've been giving to protocol teams regarding security, but thes
+## 2026-05-15 · Thread · "Shift Left" is the official advice we've been giving to protocol teams regarding security, but thes
 
 
 ### Post — @saxenism — 2026-05-15 10:21 UTC (2026-05-15 11:21 WAT)
@@ -5593,6 +5471,14 @@ Tags (automatic): AI-assisted hunting
 > My advice would be to shift to the EXTREME right. 
 >
 > Ask yourself, "My protocol is hacked, how can I prevent the hack txn from being included in the
+
+
+### Thread part 2 — @saxenism — 2026-05-15 10:23 UTC (2026-05-15 11:23 WAT)
+
+- URL: https://x.com/saxenism/status/2055232556761833638
+- Metrics (at fetch): bookmark 0, impression 124, like 2, quote 0, reply 0, retweet 0
+
+> This in no way says to stop efforts to integrate security early into your development practices, but shifting left HAS to be deprioritised in favour of runtime defences right now.
 
 
 ---
@@ -5920,124 +5806,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2026-04-29 · Post · 7) My team at @bluethroat_labs is building the runtime controls that make this survival possible.
+## 2026-04-29 · Thread · 1) The sharper framing isn’t “Sui protocols are uniquely careless.”
 
 
-Tags (automatic): Smart contract / DeFi
-
-
-### Post — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
-
-- URL: https://x.com/saxenism/status/2049495558067524005
-- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 0, retweet 0
-
-> 7) My team at @bluethroat_labs is building the runtime controls that make this survival possible.
->
-> We are releasing a survival manual for DeFi protocols at the end of this week.
->
-> These are the most brutal times to operate a DeFi protocol. For the insights required to survive
-
-
----
-
-## 2026-04-29 · Post · 6) The primary objective for every protocol must be to “prevent the hack txn from getting finalised 
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge, ZK
-
-
-### Post — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
-
-- URL: https://x.com/saxenism/status/2049495552715600087
-- Metrics (at fetch): bookmark 0, impression 55, like 2, quote 0, reply 1, retweet 0
-
-> 6) The primary objective for every protocol must be to “prevent the hack txn from getting finalised on the blockchain” and work backwards from there.
->
-> That means stronger monitoring, circuit breakers, staggered withdrawals, transaction analysis, admin-action simulation, and
-
-
----
-
-## 2026-04-29 · Post · 5) Bottom line: newer ecosystems now mature under harsher conditions than Ethereum faced. 
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
-
-- URL: https://x.com/saxenism/status/2049495540870820240
-- Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 1, retweet 0
-
-> 5) Bottom line: newer ecosystems now mature under harsher conditions than Ethereum faced. 
-> More capital at stake, more sophisticated adversaries, and AI-assisted attackers.
->
-> In the era of AI, the marginal cost of completeness is near zero. 
-> If a clear thinker can envision an
-
-
----
-
-## 2026-04-29 · Post · 4) Now layer on AI. 
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
-
-- URL: https://x.com/saxenism/status/2049495536756236770
-- Metrics (at fetch): bookmark 0, impression 30, like 2, quote 0, reply 1, retweet 0
-
-> 4) Now layer on AI. 
-> Once an attacker codifies the intuition (“what code smells bad, what invariants to test, how to PoC”), it becomes a scalable hunting loop. 
->
-> One insight → scans across every protocol.
->
-> This is exactly how AI de-constrains blackhats.
-
-
----
-
-## 2026-04-29 · Post · 3) Sui is newer. 
-
-
-### Post — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
-
-- URL: https://x.com/saxenism/status/2049495530292805942
-- Metrics (at fetch): bookmark 0, impression 66, like 2, quote 0, reply 1, retweet 0
-
-> 3) Sui is newer. 
-> Different architecture. 
-> Younger dev base. Less battle-tested memory. 
-> Its unique design also creates unique bug classes. 
->
-> When a new pattern appears, attackers often get first-mover advantage before the ecosystem internalises it.
-
-
----
-
-## 2026-04-29 · Post · 2) Ethereum’s security dictionary didn’t appear overnight. 
-
-
-Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
-
-
-### Post — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
-
-- URL: https://x.com/saxenism/status/2049495524915703921
-- Metrics (at fetch): bookmark 0, impression 115, like 2, quote 0, reply 1, retweet 0
-
-> 2) Ethereum’s security dictionary didn’t appear overnight. 
-> It was paid for in blood: reentrancy, oracle manipulation, access control, accounting bugs, upgrade failures, signature issues, rounding errors, vault mispricing, bridge assumptions, governance/multisig edge cases.
-
-
----
-
-## 2026-04-29 · Post · 1) The sharper framing isn’t “Sui protocols are uniquely careless.”
-
-
-Tags (automatic): AI-assisted hunting
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-assisted hunting
 
 
 ### Post — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
@@ -6069,6 +5841,75 @@ Tags (automatic): AI-assisted hunting
     >
     > Ontop of this, @PawtatoFinance got
     
+
+
+### Thread part 2 — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
+
+- URL: https://x.com/saxenism/status/2049495524915703921
+- Metrics (at fetch): bookmark 0, impression 115, like 2, quote 0, reply 1, retweet 0
+
+> 2) Ethereum’s security dictionary didn’t appear overnight. 
+> It was paid for in blood: reentrancy, oracle manipulation, access control, accounting bugs, upgrade failures, signature issues, rounding errors, vault mispricing, bridge assumptions, governance/multisig edge cases.
+
+
+### Thread part 3 — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
+
+- URL: https://x.com/saxenism/status/2049495530292805942
+- Metrics (at fetch): bookmark 0, impression 66, like 2, quote 0, reply 1, retweet 0
+
+> 3) Sui is newer. 
+> Different architecture. 
+> Younger dev base. Less battle-tested memory. 
+> Its unique design also creates unique bug classes. 
+>
+> When a new pattern appears, attackers often get first-mover advantage before the ecosystem internalises it.
+
+
+### Thread part 4 — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
+
+- URL: https://x.com/saxenism/status/2049495536756236770
+- Metrics (at fetch): bookmark 0, impression 30, like 2, quote 0, reply 1, retweet 0
+
+> 4) Now layer on AI. 
+> Once an attacker codifies the intuition (“what code smells bad, what invariants to test, how to PoC”), it becomes a scalable hunting loop. 
+>
+> One insight → scans across every protocol.
+>
+> This is exactly how AI de-constrains blackhats.
+
+
+### Thread part 5 — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
+
+- URL: https://x.com/saxenism/status/2049495540870820240
+- Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 1, retweet 0
+
+> 5) Bottom line: newer ecosystems now mature under harsher conditions than Ethereum faced. 
+> More capital at stake, more sophisticated adversaries, and AI-assisted attackers.
+>
+> In the era of AI, the marginal cost of completeness is near zero. 
+> If a clear thinker can envision an
+
+
+### Thread part 6 — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
+
+- URL: https://x.com/saxenism/status/2049495552715600087
+- Metrics (at fetch): bookmark 0, impression 55, like 2, quote 0, reply 1, retweet 0
+
+> 6) The primary objective for every protocol must be to “prevent the hack txn from getting finalised on the blockchain” and work backwards from there.
+>
+> That means stronger monitoring, circuit breakers, staggered withdrawals, transaction analysis, admin-action simulation, and
+
+
+### Thread part 7 — @saxenism — 2026-04-29 14:26 UTC (2026-04-29 15:26 WAT)
+
+- URL: https://x.com/saxenism/status/2049495558067524005
+- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 0, retweet 0
+
+> 7) My team at @bluethroat_labs is building the runtime controls that make this survival possible.
+>
+> We are releasing a survival manual for DeFi protocols at the end of this week.
+>
+> These are the most brutal times to operate a DeFi protocol. For the insights required to survive
 
 
 ---
@@ -6978,22 +6819,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-03-01 · Post · @WisprFlow This app's tagline should simply be:
-
-
-### Post — @saxenism — 2026-03-01 09:15 UTC (2026-03-01 10:15 WAT)
-
-- URL: https://x.com/saxenism/status/2028036292525846920
-- Metrics (at fetch): bookmark 0, impression 155, like 0, quote 0, reply 0, retweet 0
-
-> @WisprFlow This app's tagline should simply be:
->
-> Fuck typing.
-
-
----
-
-## 2026-03-01 · Post · Pretty sure I am late to the train, but @WisprFlow is fucking insane!!
+## 2026-03-01 · Thread · Pretty sure I am late to the train, but @WisprFlow is fucking insane!!
 
 
 ### Post — @saxenism — 2026-03-01 09:04 UTC (2026-03-01 10:04 WAT)
@@ -7008,6 +6834,16 @@ Tags (automatic): AI-assisted hunting
 > I REALLY want it's Pro version. Use my referral link to try it out XD
 >
 > https://t.co/7tDT814s62
+
+
+### Thread part 2 — @saxenism — 2026-03-01 09:15 UTC (2026-03-01 10:15 WAT)
+
+- URL: https://x.com/saxenism/status/2028036292525846920
+- Metrics (at fetch): bookmark 0, impression 155, like 0, quote 0, reply 0, retweet 0
+
+> @WisprFlow This app's tagline should simply be:
+>
+> Fuck typing.
 
 
 ---
@@ -7295,189 +7131,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-02-12 · Post · 9/9 We collaborated with dStack for over a month, validated findings, reviewed fixes, verified remed
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943418407330038
-- Metrics (at fetch): bookmark 1, impression 1262, like 18, quote 0, reply 1, retweet 0
-
-> 9/9 We collaborated with dStack for over a month, validated findings, reviewed fixes, verified remediation. That is responsible disclosure.
->
-> The response we got was $2,500, downgrades, blog reframing vulnerabilities as "hardening" &amp; compressing our work into 3 bullet points. https://t.co/mKWrTuVnWk
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9g5DAbsAEeFdI.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9g_a2aUAAm4jv.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · 8/9 On the bounty:
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943413550293319
-- Metrics (at fetch): bookmark 1, impression 1382, like 17, quote 0, reply 1, retweet 1
-
-> 8/9 On the bounty:
->
-> 2,500 USD.
-> 1 Critical, 3 Highs, 2 Mediums.
-> Infra-level findings with downstream exposure across every protocol listed above.
-> That is $416 per confirmed vulnerability.
->
-> @bluethroat_labs is a team. A month of coordinated work - validation, documentation, https://t.co/4yArWD3b3m
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9f-FbboAEKiU8.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9gBEtbsAA7qdi.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · 7/9 dStack is infrastructure-level code. When an attestation verifier omits required enforcement ste
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943408428790070
-- Metrics (at fetch): bookmark 0, impression 1186, like 13, quote 0, reply 2, retweet 0
-
-> 7/9 dStack is infrastructure-level code. When an attestation verifier omits required enforcement steps, every protocol built on top inherits that behaviour by default.
-> Centre
-> The blog post claims "no action required by dStack users or downstream integrators." The following teams https://t.co/kfvI0AKKWw
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9fJ6lasAII8Sj.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9fvMgbsAEHsc8.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · 6/9 The same findings. Multiple public documents. Three different severity classifications. Here is 
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943403400114396
-- Metrics (at fetch): bookmark 1, impression 1241, like 11, quote 0, reply 1, retweet 0
-
-> 6/9 The same findings. Multiple public documents. Three different severity classifications. Here is the finding-by-finding record:
->
-> QE Identity (Finding #4) — Critical. The team maintained this as Critical in the blog post. The GHSA advisory (CVE-2026-22696) publicly classifies https://t.co/2FkYnlehlm
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9dqacbUAAU-1F.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9eh_saEAE4E0l.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9eoa2bsAYIkp7.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · 5/9 Responsible Disclosure Timeline:
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943398945755442
-- Metrics (at fetch): bookmark 0, impression 1289, like 13, quote 0, reply 1, retweet 0
-
-> 5/9 Responsible Disclosure Timeline:
->
-> Jan 6: Bluethroat Labs reported findings to the dStack team.
-> Phala co-founder @bgmshana created a Telegram group.
-> Lead developer Kevin Wang thanked us for the report.
-> Bounty expectations were stated on Day 1.
->
-> Jan 6 – Feb 5 (one month): https://t.co/cewaUhmDJD
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9c7FzbwAAikZr.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9dS5MaAAEl649.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · 4/9 GPU attestation bug: cryptographic proof that had ZERO cryptography
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943394596270565
-- Metrics (at fetch): bookmark 0, impression 1354, like 9, quote 0, reply 1, retweet 0
-
-> 4/9 GPU attestation bug: cryptographic proof that had ZERO cryptography
->
-> Note: We marked this "High"; they accepted it in the snapshot but changed it to "Low" in the blog. We'll let readers decide the true severity.
->
-> @PhalaNetwork published a blog titled "GPU TEE is Launched on https://t.co/HIizR70Djg
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9ZnL7bsAQThOW.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9aX12agAE1RIJ.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · 3/9 Core Failure: dstack's verifier would accept hardware Intel had already marked as compromised.
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943390053839330
-- Metrics (at fetch): bookmark 1, impression 1541, like 13, quote 0, reply 1, retweet 0
-
-> 3/9 Core Failure: dstack's verifier would accept hardware Intel had already marked as compromised.
->
-> When Intel spots issues in a TEE (extractable keys, side channels, microcode flaws, etc), it revokes trust in that hardware.
->
-> Intel provides two mechanisms that work in tandem to https://t.co/dQ4Jz0SiY3
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9YWlBbsAcQhyC.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HA9YineaoAARbzJ.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · 2/9 Before the details, here is what the thread covers.
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
-
-- URL: https://x.com/saxenism/status/2021943386182431006
-- Metrics (at fetch): bookmark 0, impression 1951, like 15, quote 0, reply 1, retweet 0
-
-> 2/9 Before the details, here is what the thread covers.
->
-> Feel free to jump to whichever part appeals the most to you:
->
-> — #3: THE Bug: QE Identity + TCB Status bypass (Findings #4, #7)
-> — #4: GPU attestation bug: "cryptographic proof" that wasn't (Finding #6)
-> — #5: Disclosure https://t.co/JChfetAPCM
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HA9YEMobsAIcqOc.jpg — no alt text provided by author
-
-
----
-
-## 2026-02-12 · Post · Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly valid
+## 2026-02-12 · Thread · Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly valid
 
 
 Tags (automatic): TEE / enclave
@@ -7504,6 +7158,136 @@ Tags (automatic): TEE / enclave
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HA9WEcRbsAUKnVj.jpg — no alt text provided by author
+
+
+### Thread part 2 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943386182431006
+- Metrics (at fetch): bookmark 0, impression 1951, like 15, quote 0, reply 1, retweet 0
+
+> 2/9 Before the details, here is what the thread covers.
+>
+> Feel free to jump to whichever part appeals the most to you:
+>
+> — #3: THE Bug: QE Identity + TCB Status bypass (Findings #4, #7)
+> — #4: GPU attestation bug: "cryptographic proof" that wasn't (Finding #6)
+> — #5: Disclosure https://t.co/JChfetAPCM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9YEMobsAIcqOc.jpg — no alt text provided by author
+
+
+### Thread part 3 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943390053839330
+- Metrics (at fetch): bookmark 1, impression 1541, like 13, quote 0, reply 1, retweet 0
+
+> 3/9 Core Failure: dstack's verifier would accept hardware Intel had already marked as compromised.
+>
+> When Intel spots issues in a TEE (extractable keys, side channels, microcode flaws, etc), it revokes trust in that hardware.
+>
+> Intel provides two mechanisms that work in tandem to https://t.co/dQ4Jz0SiY3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9YWlBbsAcQhyC.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9YineaoAARbzJ.jpg — no alt text provided by author
+
+
+### Thread part 4 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943394596270565
+- Metrics (at fetch): bookmark 0, impression 1354, like 9, quote 0, reply 1, retweet 0
+
+> 4/9 GPU attestation bug: cryptographic proof that had ZERO cryptography
+>
+> Note: We marked this "High"; they accepted it in the snapshot but changed it to "Low" in the blog. We'll let readers decide the true severity.
+>
+> @PhalaNetwork published a blog titled "GPU TEE is Launched on https://t.co/HIizR70Djg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9ZnL7bsAQThOW.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9aX12agAE1RIJ.jpg — no alt text provided by author
+
+
+### Thread part 5 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943398945755442
+- Metrics (at fetch): bookmark 0, impression 1289, like 13, quote 0, reply 1, retweet 0
+
+> 5/9 Responsible Disclosure Timeline:
+>
+> Jan 6: Bluethroat Labs reported findings to the dStack team.
+> Phala co-founder @bgmshana created a Telegram group.
+> Lead developer Kevin Wang thanked us for the report.
+> Bounty expectations were stated on Day 1.
+>
+> Jan 6 – Feb 5 (one month): https://t.co/cewaUhmDJD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9c7FzbwAAikZr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9dS5MaAAEl649.jpg — no alt text provided by author
+
+
+### Thread part 6 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943403400114396
+- Metrics (at fetch): bookmark 1, impression 1241, like 11, quote 0, reply 1, retweet 0
+
+> 6/9 The same findings. Multiple public documents. Three different severity classifications. Here is the finding-by-finding record:
+>
+> QE Identity (Finding #4) — Critical. The team maintained this as Critical in the blog post. The GHSA advisory (CVE-2026-22696) publicly classifies https://t.co/2FkYnlehlm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9dqacbUAAU-1F.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9eh_saEAE4E0l.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9eoa2bsAYIkp7.jpg — no alt text provided by author
+
+
+### Thread part 7 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943408428790070
+- Metrics (at fetch): bookmark 0, impression 1186, like 13, quote 0, reply 2, retweet 0
+
+> 7/9 dStack is infrastructure-level code. When an attestation verifier omits required enforcement steps, every protocol built on top inherits that behaviour by default.
+> Centre
+> The blog post claims "no action required by dStack users or downstream integrators." The following teams https://t.co/kfvI0AKKWw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9fJ6lasAII8Sj.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9fvMgbsAEHsc8.jpg — no alt text provided by author
+
+
+### Thread part 8 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943413550293319
+- Metrics (at fetch): bookmark 1, impression 1382, like 17, quote 0, reply 1, retweet 1
+
+> 8/9 On the bounty:
+>
+> 2,500 USD.
+> 1 Critical, 3 Highs, 2 Mediums.
+> Infra-level findings with downstream exposure across every protocol listed above.
+> That is $416 per confirmed vulnerability.
+>
+> @bluethroat_labs is a team. A month of coordinated work - validation, documentation, https://t.co/4yArWD3b3m
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9f-FbboAEKiU8.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9gBEtbsAA7qdi.jpg — no alt text provided by author
+
+
+### Thread part 9 — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/2021943418407330038
+- Metrics (at fetch): bookmark 1, impression 1262, like 18, quote 0, reply 1, retweet 0
+
+> 9/9 We collaborated with dStack for over a month, validated findings, reviewed fixes, verified remediation. That is responsible disclosure.
+>
+> The response we got was $2,500, downgrades, blog reframing vulnerabilities as "hardening" &amp; compressing our work into 3 bullet points. https://t.co/mKWrTuVnWk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HA9g5DAbsAEeFdI.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HA9g_a2aUAAm4jv.jpg — no alt text provided by author
 
 
 ---
@@ -7888,26 +7672,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-29 · Post · Also if privacy is going to be a theme at @ethmumbai and you want proper representation of all PETs,
+## 2026-01-29 · Thread · This cat got some serious zk and growth chops!!
 
 
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2026-01-29 14:52 UTC (2026-01-29 15:52 WAT)
-
-- URL: https://x.com/saxenism/status/2016887173585523192
-- Metrics (at fetch): bookmark 0, impression 109, like 0, quote 0, reply 1, retweet 0
-
-> Also if privacy is going to be a theme at @ethmumbai and you want proper representation of all PETs, invite me to represent the TEE side of things XD
-
-
----
-
-## 2026-01-29 · Post · This cat got some serious zk and growth chops!!
-
-
-Tags (automatic): ZK
+Tags (automatic): ZK, TEE / enclave
 
 
 ### Post — @saxenism — 2026-01-29 09:12 UTC (2026-01-29 10:12 WAT)
@@ -7933,6 +7701,14 @@ Tags (automatic): ZK
     **Media:**
     - media `3_2016794379068006400` (details not returned by the API)
     
+
+
+### Thread part 2 — @saxenism — 2026-01-29 14:52 UTC (2026-01-29 15:52 WAT)
+
+- URL: https://x.com/saxenism/status/2016887173585523192
+- Metrics (at fetch): bookmark 0, impression 109, like 0, quote 0, reply 1, retweet 0
+
+> Also if privacy is going to be a theme at @ethmumbai and you want proper representation of all PETs, invite me to represent the TEE side of things XD
 
 
 ---
@@ -10106,77 +9882,110 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2025-11-16 · Post · Right now I'm on my flight to @EFDevcon &amp; I can't be more excited about the future of privacy &a
+## 2025-11-16 · Thread · The TEE security handbook is live now.
 
 
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
-
-- URL: https://x.com/saxenism/status/1990004624716394560
-- Metrics (at fetch): bookmark 0, impression 391, like 13, quote 0, reply 1, retweet 0
-
-> Right now I'm on my flight to @EFDevcon &amp; I can't be more excited about the future of privacy &amp; it's enablement via TEEs &amp; allied tech.
->
-> If you're around, please reach out &amp; let's meet.
->
-> Looking forward to any &amp; all feedback on the TEE security handbook: https://t.co/FAExqEnosh
-
-
----
-
-## 2025-11-16 · Post · I had great discussions around hybrid architectures with @markowifk, @chargarlic, @peterus &amp; the
-
-
-Tags (automatic): ZK
+Tags (automatic): ZK, TEE / enclave
 
 
 ### Post — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
 
-- URL: https://x.com/saxenism/status/1990004615157633073
-- Metrics (at fetch): bookmark 0, impression 615, like 15, quote 0, reply 2, retweet 0
+- URL: https://x.com/saxenism/status/1990004582781776169
+- Metrics (at fetch): bookmark 131, impression 34608, like 199, quote 9, reply 31, retweet 30
 
-> I had great discussions around hybrid architectures with @markowifk, @chargarlic, @peterus &amp; then @marvin_tong gave me some really neat insights into the hybrid architecture I proposed about leveraging TEEs in a permissionless network and making it verifiable w/ ZK + governance: https://t.co/QtasC3O8Jc
+> The TEE security handbook is live now.
+>
+> This document covers:
+> + Defining TEEs
+> + TEE attacks categorisation
+> + Deep dive of TEE platforms
+> + Threat modelling around TEEs
+> + Security layers for TEE protocols
+> + Best practices for engineers &amp; protocols
+>
+> Here: https://t.co/FAExqEnosh
+
+
+### Thread part 2 — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
+
+- URL: https://x.com/saxenism/status/1990004588435619844
+- Metrics (at fetch): bookmark 0, impression 1167, like 15, quote 0, reply 1, retweet 1
+
+> I thank everyone for their immense support as I announced my plans to work on a comprehensive TEE security document.
+>
+> Massive kudos to @GuyPhy4 and @hackerjedi666 who worked with me tirelessly to make this vision a reality. https://t.co/0NCfkkOXpv
 
 **Quoted post (full text):**
 
-    #### Quoted post — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
+    #### Quoted post — @saxenism — 2025-10-27 06:33 UTC (2025-10-27 07:33 WAT)
     
-    - URL: https://x.com/saxenism/status/1987931403582140482
-    - Metrics (at fetch): bookmark 12, impression 7044, like 31, quote 5, reply 5, retweet 3
+    - URL: https://x.com/saxenism/status/1982697048018481438
+    - Metrics (at fetch): bookmark 6, impression 8374, like 68, quote 1, reply 15, retweet 3
     
-    > I downright disagree with your statement that "TEEs are useless" &amp; I assume that this is just ragebait.
+    > I am working on a comprehensive document around TEE security, which is a crystallisation of:
+    > + web3 security
+    > + security in general
+    > + encryption
+    > + h/w security
+    > + protocol design &amp; architecture
+    > + my conversations w/ chads
     >
-    > However, you pose an interesting problem of using TEEs in a "permissionless blockchain” after the @TeeDotFail attack.
-    >
-    > That got me thinking, and I took a crack at it:
-    >
-    > 🧵👇🏻 https://twitter.com/randhindi/status/1986577105685987792
+    > It'll be a public good &amp; I'll release it before DevConnect
     
-    **Links in post:** https://twitter.com/randhindi/status/1986577105685987792
+
+
+### Thread part 3 — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
+
+- URL: https://x.com/saxenism/status/1990004595360440592
+- Metrics (at fetch): bookmark 0, impression 712, like 12, quote 0, reply 1, retweet 0
+
+> This document was an idea to challenge the massive misunderstandings around the nature of TEEs in web3.
+>
+> IMO, that misunderstanding more than TEEs themselves resulted in poorly designed and under mitigated TEE-protocols.
+>
+> Eg: The hysteria around https://t.co/3JP8SY3hXC https://t.co/Wi6Yq2RRFd
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+    
+    - URL: https://x.com/saxenism/status/1986405126010200366
+    - Metrics (at fetch): bookmark 47, impression 29574, like 95, quote 26, reply 24, retweet 28
+    
+    > The @TeeDotFail research broke the confidentiality &amp; integrity guarantees of TEEs &amp; that’s huge.
+    >
+    > But the way it’s being presented feels more like a hit-piece than an honest discussion.
+    >
+    > Let’s unpack this attack &amp; I'll tell you why it makes me more bullish on TEEs, not less 👇🧵 https://twitter.com/yrschrade/status/1983273836326834233
+    
+    **Links in post:** https://twitter.com/yrschrade/status/1983273836326834233
     
     **Quoted post (full text):**
     
-        #### Quoted post — @50722668 — 2025-11-06 23:31 UTC (2025-11-07 00:31 WAT)
+        #### Quoted post — @1071580036938035202 — 2025-10-28 20:45 UTC (2025-10-28 21:45 WAT)
         
-        - URL: https://x.com/50722668/status/1986577105685987792
-        - Metrics (at fetch): bookmark 2, impression 2985, like 4, quote 1, reply 2, retweet 0
+        - URL: https://x.com/1071580036938035202/status/1983273836326834233
+        - Metrics (at fetch): bookmark 219, impression 122718, like 501, quote 53, reply 89, retweet 89
         
-        > @saxenism @TeeDotFail If the attacker can run a node, TEEs are useless. And if you dont let people run nodes in blockchains, they can’t independently verify the state. Hence there is no configuration in which you can both prevent an attacker from being root on his own machine and have public
+        > 🚨 TEEs are AGAIN compromised! 🚨
+        >
+        > This time it's even bigger!
+        >
+        > TL;DR
+        > -  3 weeks ago: Intel SGX exploit (DDR4)
+        > -  Today: Exploit affecting the latest State-Of-The-Art TEEs by Intel, AMD and Nvidia (DDR5)
+        >
+        > TEEs don't bring privacy or security in crypto.
+        >
+        > All you need to know 👇🧵 https://t.co/J0S0zXJBxU
+        
+        **Media:**
+        - media `3_1983271198956912640` (details not returned by the API)
         
     
 
 
----
-
-## 2025-11-16 · Post · The TEE circle although quite small, is extremely welcoming and helped me clear my own understandand
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
+### Thread part 4 — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
 
 - URL: https://x.com/saxenism/status/1990004606647312464
 - Metrics (at fetch): bookmark 1, impression 505, like 12, quote 0, reply 1, retweet 0
@@ -10232,125 +10041,52 @@ Tags (automatic): TEE / enclave
     
 
 
----
+### Thread part 5 — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
 
-## 2025-11-16 · Post · This document was an idea to challenge the massive misunderstandings around the nature of TEEs in we
+- URL: https://x.com/saxenism/status/1990004615157633073
+- Metrics (at fetch): bookmark 0, impression 615, like 15, quote 0, reply 2, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
-
-- URL: https://x.com/saxenism/status/1990004595360440592
-- Metrics (at fetch): bookmark 0, impression 712, like 12, quote 0, reply 1, retweet 0
-
-> This document was an idea to challenge the massive misunderstandings around the nature of TEEs in web3.
->
-> IMO, that misunderstanding more than TEEs themselves resulted in poorly designed and under mitigated TEE-protocols.
->
-> Eg: The hysteria around https://t.co/3JP8SY3hXC https://t.co/Wi6Yq2RRFd
+> I had great discussions around hybrid architectures with @markowifk, @chargarlic, @peterus &amp; then @marvin_tong gave me some really neat insights into the hybrid architecture I proposed about leveraging TEEs in a permissionless network and making it verifiable w/ ZK + governance: https://t.co/QtasC3O8Jc
 
 **Quoted post (full text):**
 
-    #### Quoted post — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+    #### Quoted post — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
     
-    - URL: https://x.com/saxenism/status/1986405126010200366
-    - Metrics (at fetch): bookmark 47, impression 29574, like 95, quote 26, reply 24, retweet 28
+    - URL: https://x.com/saxenism/status/1987931403582140482
+    - Metrics (at fetch): bookmark 12, impression 7044, like 31, quote 5, reply 5, retweet 3
     
-    > The @TeeDotFail research broke the confidentiality &amp; integrity guarantees of TEEs &amp; that’s huge.
+    > I downright disagree with your statement that "TEEs are useless" &amp; I assume that this is just ragebait.
     >
-    > But the way it’s being presented feels more like a hit-piece than an honest discussion.
+    > However, you pose an interesting problem of using TEEs in a "permissionless blockchain” after the @TeeDotFail attack.
     >
-    > Let’s unpack this attack &amp; I'll tell you why it makes me more bullish on TEEs, not less 👇🧵 https://twitter.com/yrschrade/status/1983273836326834233
+    > That got me thinking, and I took a crack at it:
+    >
+    > 🧵👇🏻 https://twitter.com/randhindi/status/1986577105685987792
     
-    **Links in post:** https://twitter.com/yrschrade/status/1983273836326834233
+    **Links in post:** https://twitter.com/randhindi/status/1986577105685987792
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1071580036938035202 — 2025-10-28 20:45 UTC (2025-10-28 21:45 WAT)
+        #### Quoted post — @50722668 — 2025-11-06 23:31 UTC (2025-11-07 00:31 WAT)
         
-        - URL: https://x.com/1071580036938035202/status/1983273836326834233
-        - Metrics (at fetch): bookmark 219, impression 122718, like 501, quote 53, reply 89, retweet 89
+        - URL: https://x.com/50722668/status/1986577105685987792
+        - Metrics (at fetch): bookmark 2, impression 2985, like 4, quote 1, reply 2, retweet 0
         
-        > 🚨 TEEs are AGAIN compromised! 🚨
-        >
-        > This time it's even bigger!
-        >
-        > TL;DR
-        > -  3 weeks ago: Intel SGX exploit (DDR4)
-        > -  Today: Exploit affecting the latest State-Of-The-Art TEEs by Intel, AMD and Nvidia (DDR5)
-        >
-        > TEEs don't bring privacy or security in crypto.
-        >
-        > All you need to know 👇🧵 https://t.co/J0S0zXJBxU
-        
-        **Media:**
-        - media `3_1983271198956912640` (details not returned by the API)
+        > @saxenism @TeeDotFail If the attacker can run a node, TEEs are useless. And if you dont let people run nodes in blockchains, they can’t independently verify the state. Hence there is no configuration in which you can both prevent an attacker from being root on his own machine and have public
         
     
 
 
----
+### Thread part 6 — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
 
-## 2025-11-16 · Post · I thank everyone for their immense support as I announced my plans to work on a comprehensive TEE se
+- URL: https://x.com/saxenism/status/1990004624716394560
+- Metrics (at fetch): bookmark 0, impression 391, like 13, quote 0, reply 1, retweet 0
 
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
-
-- URL: https://x.com/saxenism/status/1990004588435619844
-- Metrics (at fetch): bookmark 0, impression 1167, like 15, quote 0, reply 1, retweet 1
-
-> I thank everyone for their immense support as I announced my plans to work on a comprehensive TEE security document.
+> Right now I'm on my flight to @EFDevcon &amp; I can't be more excited about the future of privacy &amp; it's enablement via TEEs &amp; allied tech.
 >
-> Massive kudos to @GuyPhy4 and @hackerjedi666 who worked with me tirelessly to make this vision a reality. https://t.co/0NCfkkOXpv
-
-**Quoted post (full text):**
-
-    #### Quoted post — @saxenism — 2025-10-27 06:33 UTC (2025-10-27 07:33 WAT)
-    
-    - URL: https://x.com/saxenism/status/1982697048018481438
-    - Metrics (at fetch): bookmark 6, impression 8374, like 68, quote 1, reply 15, retweet 3
-    
-    > I am working on a comprehensive document around TEE security, which is a crystallisation of:
-    > + web3 security
-    > + security in general
-    > + encryption
-    > + h/w security
-    > + protocol design &amp; architecture
-    > + my conversations w/ chads
-    >
-    > It'll be a public good &amp; I'll release it before DevConnect
-    
-
-
----
-
-## 2025-11-16 · Post · The TEE security handbook is live now.
-
-
-Tags (automatic): TEE / enclave
-
-
-### Post — @saxenism — 2025-11-16 10:30 UTC (2025-11-16 11:30 WAT)
-
-- URL: https://x.com/saxenism/status/1990004582781776169
-- Metrics (at fetch): bookmark 131, impression 34608, like 199, quote 9, reply 31, retweet 30
-
-> The TEE security handbook is live now.
+> If you're around, please reach out &amp; let's meet.
 >
-> This document covers:
-> + Defining TEEs
-> + TEE attacks categorisation
-> + Deep dive of TEE platforms
-> + Threat modelling around TEEs
-> + Security layers for TEE protocols
-> + Best practices for engineers &amp; protocols
->
-> Here: https://t.co/FAExqEnosh
+> Looking forward to any &amp; all feedback on the TEE security handbook: https://t.co/FAExqEnosh
 
 
 ---
@@ -10669,53 +10405,6 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-11-10 · Post · @randhindi 42)
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
-
-
-### Post — @saxenism — 2025-11-10 17:19 UTC (2025-11-10 18:19 WAT)
-
-- URL: https://x.com/saxenism/status/1987933246446072198
-- Metrics (at fetch): bookmark 0, impression 291, like 4, quote 0, reply 1, retweet 0
-
-> @randhindi 42)
-> If you'd like to understand how multiple privacy-preserving techniques can work cohesively with TEEs to provide privacy to users at scale and economically, please study my attempt at this hybrid ZK-TEE hybrid privacy blockchain architecture:
->
-> https://t.co/7uzllI5g87
-
-**Quoted post (full text):**
-
-    #### Quoted post — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
-    
-    - URL: https://x.com/saxenism/status/1987931403582140482
-    - Metrics (at fetch): bookmark 12, impression 7044, like 31, quote 5, reply 5, retweet 3
-    
-    > I downright disagree with your statement that "TEEs are useless" &amp; I assume that this is just ragebait.
-    >
-    > However, you pose an interesting problem of using TEEs in a "permissionless blockchain” after the @TeeDotFail attack.
-    >
-    > That got me thinking, and I took a crack at it:
-    >
-    > 🧵👇🏻 https://twitter.com/randhindi/status/1986577105685987792
-    
-    **Links in post:** https://twitter.com/randhindi/status/1986577105685987792
-    
-    **Quoted post (full text):**
-    
-        #### Quoted post — @50722668 — 2025-11-06 23:31 UTC (2025-11-07 00:31 WAT)
-        
-        - URL: https://x.com/50722668/status/1986577105685987792
-        - Metrics (at fetch): bookmark 2, impression 2985, like 4, quote 1, reply 2, retweet 0
-        
-        > @saxenism @TeeDotFail If the attacker can run a node, TEEs are useless. And if you dont let people run nodes in blockchains, they can’t independently verify the state. Hence there is no configuration in which you can both prevent an attacker from being root on his own machine and have public
-        
-    
-
-
----
-
 ## 2025-11-10 · Thread · I downright disagree with your statement that "TEEs are useless" &amp; I assume that this is just ra
 
 
@@ -10981,6 +10670,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 
 ### Thread part 23 — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
 
+- URL: https://x.com/saxenism/status/1987931498616627518
+- Metrics (at fetch): bookmark 0, impression 177, like 4, quote 0, reply 1, retweet 0
+
+> 22)
+> 4. What about the case of: Theft of application level keys
+>
+> In the @TeeDotFail paper, the researchers were able to extract application-level keys from AMD SEV-SNP. They extracted the ECDSA private key used by the OpenSSL library to sign messages.
+
+
+### Thread part 24 — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
+
 - URL: https://x.com/saxenism/status/1987931501561082251
 - Metrics (at fetch): bookmark 0, impression 128, like 4, quote 0, reply 1, retweet 0
 
@@ -10990,7 +10690,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > So, we introduce the following enhancements to our network architecture:
 
 
-### Thread part 24 — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
+### Thread part 25 — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
 
 - URL: https://x.com/saxenism/status/1987931506602635553
 - Metrics (at fetch): bookmark 0, impression 133, like 4, quote 0, reply 1, retweet 0
@@ -11002,7 +10702,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > - Fast rotation + revocation to reject stale quotes
 
 
-### Thread part 25 — @saxenism — 2025-11-10 17:13 UTC (2025-11-10 18:13 WAT)
+### Thread part 26 — @saxenism — 2025-11-10 17:13 UTC (2025-11-10 18:13 WAT)
 
 - URL: https://x.com/saxenism/status/1987931603788853462
 - Metrics (at fetch): bookmark 0, impression 143, like 4, quote 0, reply 1, retweet 1
@@ -11013,7 +10713,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > - Sequencer nodes → They sequence encrypted transactions into a block. Since the transactions are encrypted, the sequencer CANNOT engage in MEV &amp; censorship. Since the sequencer does not need to
 
 
-### Thread part 26 — @saxenism — 2025-11-10 17:13 UTC (2025-11-10 18:13 WAT)
+### Thread part 27 — @saxenism — 2025-11-10 17:13 UTC (2025-11-10 18:13 WAT)
 
 - URL: https://x.com/saxenism/status/1987931666946605463
 - Metrics (at fetch): bookmark 0, impression 132, like 4, quote 0, reply 1, retweet 0
@@ -11022,7 +10722,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > - Executor nodes → The only entity that needs to run inside of the TEE. It decrypts the sequencer’s batch commitment + ciphertexts inside TEE, run the VM, produce (A→B) ZK proof, and a TEE quote for the execution binary/config.
 
 
-### Thread part 27 — @saxenism — 2025-11-10 17:13 UTC (2025-11-10 18:13 WAT)
+### Thread part 28 — @saxenism — 2025-11-10 17:13 UTC (2025-11-10 18:13 WAT)
 
 - URL: https://x.com/saxenism/status/1987931730972733608
 - Metrics (at fetch): bookmark 0, impression 136, like 4, quote 0, reply 1, retweet 0
@@ -11031,7 +10731,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > - Signer(s) / Finaliser → sign the block/proof tuple. Enforce policy checks (rate limits, value caps, allow/deny lists, timelocks). Long-lived protocol keys live in HSMs/MPC, not in executors. Each signer exposes an operator identity attestation (PoA) and maintains a
 
 
-### Thread part 28 — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
+### Thread part 29 — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
+
+- URL: https://x.com/saxenism/status/1987931786207433207
+- Metrics (at fetch): bookmark 0, impression 127, like 4, quote 0, reply 1, retweet 0
+
+> 28)
+> - Prover/Aggregator (optional) → aggregate/recursively compress the many small proofs from executors.
+
+
+### Thread part 30 — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
 
 - URL: https://x.com/saxenism/status/1987931859020640696
 - Metrics (at fetch): bookmark 0, impression 132, like 4, quote 0, reply 1, retweet 0
@@ -11042,7 +10751,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > Even if the executor TEE were compromised and its ephemeral decryption or application-level keys were leaked, it still cannot alter the blockchain’s global state or inject
 
 
-### Thread part 29 — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
+### Thread part 31 — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
 
 - URL: https://x.com/saxenism/status/1987931916465828342
 - Metrics (at fetch): bookmark 0, impression 126, like 4, quote 0, reply 1, retweet 0
@@ -11052,7 +10761,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > + Block validity requires signs from separate signer nodes, whose long-lived ECDSA keys reside in external HSMs/MPC, not in the TEE.
 
 
-### Thread part 30 — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
+### Thread part 32 — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
 
 - URL: https://x.com/saxenism/status/1987931963962126350
 - Metrics (at fetch): bookmark 0, impression 85, like 4, quote 0, reply 1, retweet 0
@@ -11061,7 +10770,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > + Attestation identity of the executor is tied to its enclave measurement. A compromised enclave identity can be immediately revoked from the registry, cutting off its ability to decrypt new txns or have its proofs accepted.
 
 
-### Thread part 31 — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
+### Thread part 33 — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
+
+- URL: https://x.com/saxenism/status/1987932029334548991
+- Metrics (at fetch): bookmark 0, impression 83, like 4, quote 0, reply 1, retweet 0
+
+> 32)
+> + Sequencers see only ciphertexts &amp; cannot reorder or censor selectively without collusion. Since they never see plaintext, MEV opportunities are minimised by design.
+> + Ephemeral key rotation ensures that a key leak is only valid for a single block &amp; cannot be reused.
+
+
+### Thread part 34 — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
 
 - URL: https://x.com/saxenism/status/1987932078470762654
 - Metrics (at fetch): bookmark 0, impression 82, like 4, quote 0, reply 1, retweet 0
@@ -11072,7 +10791,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > - But they cannot:
 
 
-### Thread part 32 — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
+### Thread part 35 — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
 
 - URL: https://x.com/saxenism/status/1987932131126075530
 - Metrics (at fetch): bookmark 0, impression 91, like 4, quote 0, reply 1, retweet 0
@@ -11083,7 +10802,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > -- Persist their access (ephemeral key expires post-block)
 
 
-### Thread part 33 — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
+### Thread part 36 — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
 
 - URL: https://x.com/saxenism/status/1987932200940245330
 - Metrics (at fetch): bookmark 0, impression 98, like 4, quote 0, reply 1, retweet 0
@@ -11094,7 +10813,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > So, while the theft of application-level keys may theoretically expose a narrow window of privacy leakage, it does not compromise network integrity, verifiability, or consensus.
 
 
-### Thread part 34 — @saxenism — 2025-11-10 17:16 UTC (2025-11-10 18:16 WAT)
+### Thread part 37 — @saxenism — 2025-11-10 17:16 UTC (2025-11-10 18:16 WAT)
 
 - URL: https://x.com/saxenism/status/1987932284264346045
 - Metrics (at fetch): bookmark 1, impression 97, like 4, quote 0, reply 1, retweet 0
@@ -11105,7 +10824,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > As a further defense, when signing or proving for sensitive operations, we can also employ MPC:
 
 
-### Thread part 35 — @saxenism — 2025-11-10 17:16 UTC (2025-11-10 18:16 WAT)
+### Thread part 38 — @saxenism — 2025-11-10 17:16 UTC (2025-11-10 18:16 WAT)
 
 - URL: https://x.com/saxenism/status/1987932350244942213
 - Metrics (at fetch): bookmark 0, impression 98, like 4, quote 0, reply 1, retweet 0
@@ -11114,7 +10833,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > Instead of a single TEE producing proofs, require “m-of-n independent provers” across clouds/providers/regions to jointly produce/endorse a block proof
 
 
-### Thread part 36 — @saxenism — 2025-11-10 17:16 UTC (2025-11-10 18:16 WAT)
+### Thread part 39 — @saxenism — 2025-11-10 17:16 UTC (2025-11-10 18:16 WAT)
 
 - URL: https://x.com/saxenism/status/1987932470776656382
 - Metrics (at fetch): bookmark 0, impression 115, like 4, quote 0, reply 1, retweet 1
@@ -11123,7 +10842,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > So, back to @randhindi's original point... no, TEEs are NOT useless in permissionless networks, when combined with ZK and incentive-based governance. This TEE-first privacy network is permissionless yet has verifiable privacy.
 
 
-### Thread part 37 — @saxenism — 2025-11-10 17:17 UTC (2025-11-10 18:17 WAT)
+### Thread part 40 — @saxenism — 2025-11-10 17:17 UTC (2025-11-10 18:17 WAT)
 
 - URL: https://x.com/saxenism/status/1987932603010478270
 - Metrics (at fetch): bookmark 0, impression 3356, like 5, quote 1, reply 1, retweet 0
@@ -11134,7 +10853,19 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > This does require the aid of complementary technology &amp; that is completely fine. It's not PvP in privacy.
 
 
-### Thread part 38 — @saxenism — 2025-11-10 17:17 UTC (2025-11-10 18:17 WAT)
+### Thread part 41 — @saxenism — 2025-11-10 17:17 UTC (2025-11-10 18:17 WAT)
+
+- URL: https://x.com/saxenism/status/1987932664314425372
+- Metrics (at fetch): bookmark 0, impression 159, like 4, quote 0, reply 1, retweet 1
+
+> @randhindi 40)
+> TEEs aren't dead. 
+> TEEs are maturing, arguably faster than any other tech out there.
+>
+> If we can just give up our childish stubbornness to dunk on TEEs only tech and tell how it doesn't fit into web3 like a glove... we can have a very powerful primitive at our disposal.
+
+
+### Thread part 42 — @saxenism — 2025-11-10 17:17 UTC (2025-11-10 18:17 WAT)
 
 - URL: https://x.com/saxenism/status/1987932732627054916
 - Metrics (at fetch): bookmark 0, impression 308, like 4, quote 0, reply 1, retweet 0
@@ -11175,69 +10906,43 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
     
 
 
----
+### Thread part 43 — @saxenism — 2025-11-10 17:19 UTC (2025-11-10 18:19 WAT)
 
-## 2025-11-10 · Post · @randhindi 40)
+- URL: https://x.com/saxenism/status/1987933246446072198
+- Metrics (at fetch): bookmark 0, impression 291, like 4, quote 0, reply 1, retweet 0
 
-
-### Post — @saxenism — 2025-11-10 17:17 UTC (2025-11-10 18:17 WAT)
-
-- URL: https://x.com/saxenism/status/1987932664314425372
-- Metrics (at fetch): bookmark 0, impression 159, like 4, quote 0, reply 1, retweet 1
-
-> @randhindi 40)
-> TEEs aren't dead. 
-> TEEs are maturing, arguably faster than any other tech out there.
+> @randhindi 42)
+> If you'd like to understand how multiple privacy-preserving techniques can work cohesively with TEEs to provide privacy to users at scale and economically, please study my attempt at this hybrid ZK-TEE hybrid privacy blockchain architecture:
 >
-> If we can just give up our childish stubbornness to dunk on TEEs only tech and tell how it doesn't fit into web3 like a glove... we can have a very powerful primitive at our disposal.
+> https://t.co/7uzllI5g87
 
+**Quoted post (full text):**
 
----
-
-## 2025-11-10 · Post · 32)
-
-
-### Post — @saxenism — 2025-11-10 17:15 UTC (2025-11-10 18:15 WAT)
-
-- URL: https://x.com/saxenism/status/1987932029334548991
-- Metrics (at fetch): bookmark 0, impression 83, like 4, quote 0, reply 1, retweet 0
-
-> 32)
-> + Sequencers see only ciphertexts &amp; cannot reorder or censor selectively without collusion. Since they never see plaintext, MEV opportunities are minimised by design.
-> + Ephemeral key rotation ensures that a key leak is only valid for a single block &amp; cannot be reused.
-
-
----
-
-## 2025-11-10 · Post · 28)
-
-
-Tags (automatic): ZK
-
-
-### Post — @saxenism — 2025-11-10 17:14 UTC (2025-11-10 18:14 WAT)
-
-- URL: https://x.com/saxenism/status/1987931786207433207
-- Metrics (at fetch): bookmark 0, impression 127, like 4, quote 0, reply 1, retweet 0
-
-> 28)
-> - Prover/Aggregator (optional) → aggregate/recursively compress the many small proofs from executors.
-
-
----
-
-## 2025-11-10 · Post · 22)
-
-
-### Post — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
-
-- URL: https://x.com/saxenism/status/1987931498616627518
-- Metrics (at fetch): bookmark 0, impression 177, like 4, quote 0, reply 1, retweet 0
-
-> 22)
-> 4. What about the case of: Theft of application level keys
->
-> In the @TeeDotFail paper, the researchers were able to extract application-level keys from AMD SEV-SNP. They extracted the ECDSA private key used by the OpenSSL library to sign messages.
+    #### Quoted post — @saxenism — 2025-11-10 17:12 UTC (2025-11-10 18:12 WAT)
+    
+    - URL: https://x.com/saxenism/status/1987931403582140482
+    - Metrics (at fetch): bookmark 12, impression 7044, like 31, quote 5, reply 5, retweet 3
+    
+    > I downright disagree with your statement that "TEEs are useless" &amp; I assume that this is just ragebait.
+    >
+    > However, you pose an interesting problem of using TEEs in a "permissionless blockchain” after the @TeeDotFail attack.
+    >
+    > That got me thinking, and I took a crack at it:
+    >
+    > 🧵👇🏻 https://twitter.com/randhindi/status/1986577105685987792
+    
+    **Links in post:** https://twitter.com/randhindi/status/1986577105685987792
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @50722668 — 2025-11-06 23:31 UTC (2025-11-07 00:31 WAT)
+        
+        - URL: https://x.com/50722668/status/1986577105685987792
+        - Metrics (at fetch): bookmark 2, impression 2985, like 4, quote 1, reply 2, retweet 0
+        
+        > @saxenism @TeeDotFail If the attacker can run a node, TEEs are useless. And if you dont let people run nodes in blockchains, they can’t independently verify the state. Hence there is no configuration in which you can both prevent an attacker from being root on his own machine and have public
+        
+    
 
 
 ---
@@ -11353,6 +11058,18 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 
 ### Thread part 7 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
+- URL: https://x.com/saxenism/status/1986405141269127596
+- Metrics (at fetch): bookmark 0, impression 526, like 17, quote 0, reply 1, retweet 0
+
+> 7) Next claim:
+>
+> &gt; This affects not just Intel TDX but also AMD SEV-SNP and Nvidia's GPU Confidential Computing
+>
+> This is true, but this single sweeping statement misses a massive nuance and implies identical compromise for all TEEs, which is NOT the case at all.
+
+
+### Thread part 8 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+
 - URL: https://x.com/saxenism/status/1986405143735382032
 - Metrics (at fetch): bookmark 0, impression 541, like 18, quote 0, reply 1, retweet 0
 
@@ -11364,7 +11081,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5EfjgVaMAAKAMT.png — no alt text provided by author
 
 
-### Thread part 8 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 9 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405147040530482
 - Metrics (at fetch): bookmark 0, impression 493, like 16, quote 0, reply 1, retweet 0
@@ -11375,7 +11092,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5EfoNtbIAIa7PX.png — no alt text provided by author
 
 
-### Thread part 9 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 10 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405149955531157
 - Metrics (at fetch): bookmark 0, impression 471, like 15, quote 0, reply 1, retweet 0
@@ -11385,7 +11102,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > But grouping other TEEs in the same sweep misdirects people into thinking that every TEE out there had its PCK extracted.
 
 
-### Thread part 10 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 11 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405152400810309
 - Metrics (at fetch): bookmark 0, impression 457, like 16, quote 0, reply 1, retweet 0
@@ -11398,7 +11115,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > This is entirely true. If you extract the attestation keys of a TEE then it has been stripped away of ALL it's power.
 
 
-### Thread part 11 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 12 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405155173245244
 - Metrics (at fetch): bookmark 0, impression 535, like 17, quote 0, reply 1, retweet 0
@@ -11409,7 +11126,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5EfxFnasAArucY.png — no alt text provided by author
 
 
-### Thread part 12 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 13 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405157945680124
 - Metrics (at fetch): bookmark 0, impression 426, like 17, quote 0, reply 1, retweet 1
@@ -11422,7 +11139,18 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > b) Protocol design with TEEs
 
 
-### Thread part 13 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 14 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+
+- URL: https://x.com/saxenism/status/1986405160365793765
+- Metrics (at fetch): bookmark 0, impression 431, like 17, quote 0, reply 1, retweet 0
+
+> 14)
+> Central Points of Failure
+>
+> When it comes to central points of failure, the entire industry more or less relies on Github, Docker, npm, uses Notion, Telegram and Google Mail on their iPhones and MacBooks, which they practically have no control over.
+
+
+### Thread part 15 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405162882400652
 - Metrics (at fetch): bookmark 0, impression 414, like 16, quote 0, reply 1, retweet 0
@@ -11438,7 +11166,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > Absolutely no.
 
 
-### Thread part 14 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 16 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405165235380640
 - Metrics (at fetch): bookmark 0, impression 414, like 17, quote 0, reply 1, retweet 0
@@ -11448,7 +11176,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > We have to write enclave-grade code: constant time crypto code, and avoid predictibility at all costs.
 
 
-### Thread part 15 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 17 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405167609356485
 - Metrics (at fetch): bookmark 0, impression 760, like 18, quote 0, reply 1, retweet 1
@@ -11460,7 +11188,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > The biggest limitation of a h/w attack like the (@TeeDotFail) attack is that they are localised. Typically, h/w attacks only affect a single machine at a time in a single geographical location.
 
 
-### Thread part 16 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 18 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405170054578667
 - Metrics (at fetch): bookmark 0, impression 538, like 18, quote 0, reply 1, retweet 1
@@ -11468,7 +11196,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > 18) So, it would make sense for your protocol to have an m-of-n TEE threshold signing architecture for critical operations across enclaves in regions around the globe, ideally with independent providers (remember the recent AWS outage)
 
 
-### Thread part 17 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 19 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405172525076511
 - Metrics (at fetch): bookmark 0, impression 405, like 16, quote 0, reply 1, retweet 0
@@ -11479,7 +11207,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > &gt; Anyone can perform this kind of attack with cheap, hobbyist level equipment. The full setup costs below $1000
 
 
-### Thread part 18 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 20 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405174915834201
 - Metrics (at fetch): bookmark 0, impression 782, like 16, quote 1, reply 1, retweet 0
@@ -11489,7 +11217,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > Even if we ignore the fact that the equipments used were secondhand to keep the cost down, when you say the "full setup costs below $1000", people assume that $1000 is the cost of the attack, which cannot be further from the truth.
 
 
-### Thread part 19 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 21 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405177314976000
 - Metrics (at fetch): bookmark 0, impression 383, like 16, quote 0, reply 1, retweet 0
@@ -11497,7 +11225,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > 21) The actual cost of this attack is way in excess of what any "hobbyist" can afford. Let's see a realistic breakdown of how this attack would happen IRL.
 
 
-### Thread part 20 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 22 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405179869348289
 - Metrics (at fetch): bookmark 0, impression 428, like 17, quote 0, reply 1, retweet 0
@@ -11511,7 +11239,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5EgPAmbIAMN8EQ.png — no alt text provided by author
 
 
-### Thread part 21 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 23 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405182792770026
 - Metrics (at fetch): bookmark 0, impression 407, like 17, quote 0, reply 1, retweet 0
@@ -11522,7 +11250,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5EgVVbbIAAFT_i.png — no alt text provided by author
 
 
-### Thread part 22 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 24 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405187066732655
 - Metrics (at fetch): bookmark 0, impression 408, like 17, quote 0, reply 2, retweet 0
@@ -11536,7 +11264,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5EgcSbaMAAij8a.png — no alt text provided by author
 
 
-### Thread part 23 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
+### Thread part 25 — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
 
 - URL: https://x.com/saxenism/status/1986405190443147760
 - Metrics (at fetch): bookmark 0, impression 350, like 17, quote 0, reply 1, retweet 0
@@ -11546,7 +11274,36 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > + Remember you have to be high ranking b/c you want physical &amp; software root access
 
 
-### Thread part 24 — @saxenism — 2025-11-06 12:09 UTC (2025-11-06 13:09 WAT)
+### Thread part 26 — @saxenism — 2025-11-06 12:08 UTC (2025-11-06 13:08 WAT)
+
+- URL: https://x.com/saxenism/status/1986405405543817525
+- Metrics (at fetch): bookmark 0, impression 351, like 17, quote 0, reply 1, retweet 0
+
+> 26)
+> + Then you'll spend time in reconnaissance of the facility
+> + Then you'll procure the equipment and do dry runs
+> + Make sure your dry runs are FAST AS FUCK
+>
+> Because a Tier 4 data centre can only have 26.3 MINUTES of downtime per YEAR.
+
+
+### Thread part 27 — @saxenism — 2025-11-06 12:09 UTC (2025-11-06 13:09 WAT)
+
+- URL: https://x.com/saxenism/status/1986405571013287939
+- Metrics (at fetch): bookmark 0, impression 345, like 17, quote 0, reply 1, retweet 0
+
+> 27) Even at an operator level access, running the RAM down to 3200 MT/s (which is lower than JDEC baseline for standard operation of DDR5 at 4800 MT/s), pinning pages and other require BIOS and firmware changes (explicitly mentioned in the paper).
+
+
+### Thread part 28 — @saxenism — 2025-11-06 12:09 UTC (2025-11-06 13:09 WAT)
+
+- URL: https://x.com/saxenism/status/1986405615779131866
+- Metrics (at fetch): bookmark 0, impression 325, like 14, quote 0, reply 1, retweet 0
+
+> 28) By all standards, that host will automatically fall out of production rotation in any hyperscaler environment as performance monitoring, image checks, and other telemetry will clearly indicate that this server has been tampered with.
+
+
+### Thread part 29 — @saxenism — 2025-11-06 12:09 UTC (2025-11-06 13:09 WAT)
 
 - URL: https://x.com/saxenism/status/1986405653976645987
 - Metrics (at fetch): bookmark 0, impression 313, like 14, quote 0, reply 1, retweet 0
@@ -11554,7 +11311,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > 29) But even if we assume that everything goes through, as soon as this attack gets mounted and they do even one reboot (which is mentioned in the paper), the applications running on that server will be migrated to another instance.
 
 
-### Thread part 25 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
+### Thread part 30 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
 
 - URL: https://x.com/saxenism/status/1986405704106975603
 - Metrics (at fetch): bookmark 0, impression 309, like 15, quote 0, reply 1, retweet 0
@@ -11564,7 +11321,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > Basically, with this level of modification, no application will keep running on a given server.
 
 
-### Thread part 26 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
+### Thread part 31 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
 
 - URL: https://x.com/saxenism/status/1986405752744124679
 - Metrics (at fetch): bookmark 0, impression 327, like 14, quote 0, reply 1, retweet 0
@@ -11576,7 +11333,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > This dual-requirement significantly narrows the threat model in practice in my opinion.
 
 
-### Thread part 27 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
+### Thread part 32 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
 
 - URL: https://x.com/saxenism/status/1986405794833981563
 - Metrics (at fetch): bookmark 0, impression 149, like 13, quote 0, reply 1, retweet 0
@@ -11586,7 +11343,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > Does it make sense why the cost increases exponentially &amp; WHY this is beyond a "hobbyist's" reach!!
 
 
-### Thread part 28 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
+### Thread part 33 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
 
 - URL: https://x.com/saxenism/status/1986405876081828145
 - Metrics (at fetch): bookmark 0, impression 186, like 13, quote 0, reply 1, retweet 0
@@ -11599,7 +11356,32 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5EhnIJbIAYKxoL.png — no alt text provided by author
 
 
-### Thread part 29 — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
+### Thread part 34 — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
+
+- URL: https://x.com/saxenism/status/1986405954011996379
+- Metrics (at fetch): bookmark 0, impression 172, like 12, quote 0, reply 1, retweet 1
+
+> 34)  &gt; The operator needs to literally have guards with assault rifles protecting the TEEs
+>
+> Well... https://t.co/Ub5oYAq3TU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5EhrmzbIAEsAid.png — no alt text provided by author
+
+
+### Thread part 35 — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
+
+- URL: https://x.com/saxenism/status/1986405996407963726
+- Metrics (at fetch): bookmark 0, impression 155, like 13, quote 0, reply 1, retweet 0
+
+> 35) Now, onto the research itself
+>
+> &gt; I want to give a big shoutout to @DanielGenkin, Jalen Chuang, Alex Seto, Nicolas Berrios, Stephan van Schaik, and Christina Garman for their important research!
+>
+> This right here, is the core of my bullishness on TEEs.
+
+
+### Thread part 36 — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
 
 - URL: https://x.com/saxenism/status/1986406047586853309
 - Metrics (at fetch): bookmark 1, impression 157, like 13, quote 0, reply 1, retweet 0
@@ -11607,7 +11389,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > @DanielGenkin 36) I’m actually bullish about TEEs because people care enough to attack and break them. TEEs aren’t an untested theory, they’ve been running in payment terminals, phones, and cloud infra for years. That is real-life, battle-hardening outside of our small world of web3.
 
 
-### Thread part 30 — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
+### Thread part 37 — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
 
 - URL: https://x.com/saxenism/status/1986406115161350305
 - Metrics (at fetch): bookmark 0, impression 181, like 12, quote 0, reply 1, retweet 0
@@ -11618,7 +11400,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 - photo: https://pbs.twimg.com/media/G5Eh0-faAAAogtE.png — no alt text provided by author
 
 
-### Thread part 31 — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
+### Thread part 38 — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
 
 - URL: https://x.com/saxenism/status/1986406175957815771
 - Metrics (at fetch): bookmark 1, impression 175, like 13, quote 0, reply 1, retweet 0
@@ -11628,7 +11410,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > The @TeeDotFail paper makes me more bullish on TEEs, b/c it forced scrutiny.
 
 
-### Thread part 32 — @saxenism — 2025-11-06 12:12 UTC (2025-11-06 13:12 WAT)
+### Thread part 39 — @saxenism — 2025-11-06 12:12 UTC (2025-11-06 13:12 WAT)
 
 - URL: https://x.com/saxenism/status/1986406216353169749
 - Metrics (at fetch): bookmark 0, impression 282, like 12, quote 0, reply 1, retweet 0
@@ -11636,7 +11418,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
 > @DanielGenkin @TeeDotFail 39) If we can focus on TEE security and make it significantly safer for use/integration into web3 protocols, all it would do is help create safer protocols in combination with FHE, MPC and ZK with significantly stronger safety guarantees than any single stack can provide.
 
 
-### Thread part 33 — @saxenism — 2025-11-06 12:13 UTC (2025-11-06 13:13 WAT)
+### Thread part 40 — @saxenism — 2025-11-06 12:13 UTC (2025-11-06 13:13 WAT)
 
 - URL: https://x.com/saxenism/status/1986406588777939454
 - Metrics (at fetch): bookmark 0, impression 480, like 15, quote 0, reply 1, retweet 0
@@ -11687,7 +11469,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, TEE / 
     
 
 
-### Thread part 34 — @saxenism — 2025-11-10 08:00 UTC (2025-11-10 09:00 WAT)
+### Thread part 41 — @saxenism — 2025-11-10 08:00 UTC (2025-11-10 09:00 WAT)
 
 - URL: https://x.com/saxenism/status/1987792357383889054
 - Metrics (at fetch): bookmark 0, impression 235, like 3, quote 0, reply 0, retweet 0
@@ -11845,6 +11627,31 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 
 ### Thread part 2 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
 
+- URL: https://x.com/saxenism/status/1986734195343786174
+- Metrics (at fetch): bookmark 0, impression 100, like 4, quote 0, reply 1, retweet 0
+
+> 2)
+> &gt; physical memory module insertion (throttling to 3200 MT/s)
+>
+> Yes, they did that... but running down the RAM to 3200 MT/s is a VERY drastic change (it's literally below the JDEC baseline for DDR5). This behaviour WILL shake up any alerting system if the operator has even a
+
+
+### Thread part 3 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+
+- URL: https://x.com/saxenism/status/1986734198087176212
+- Metrics (at fetch): bookmark 0, impression 73, like 4, quote 0, reply 1, retweet 0
+
+> 3)
+> &gt; combined with software manipulation (cache flushing and page locking)
+>
+> This requires root access.
+> These are again DRASTIC config changes and WILL be caught by even the most basic monitoring setups.
+>
+> In cloud settings, such hosts WILL fall out of production rotation in any
+
+
+### Thread part 4 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+
 - URL: https://x.com/saxenism/status/1986734200347910391
 - Metrics (at fetch): bookmark 0, impression 84, like 3, quote 0, reply 1, retweet 1
 
@@ -11856,7 +11663,19 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > However, what people skip over is the fact that the paper assumes the following as
 
 
-### Thread part 3 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+### Thread part 5 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+
+- URL: https://x.com/saxenism/status/1986734202478530904
+- Metrics (at fetch): bookmark 0, impression 80, like 3, quote 0, reply 1, retweet 1
+
+> 5)
+> + Physical access to the target machine (rack, board, DIMM slot)
+> + DIMM interposer physically installed between RAM module and the DIMM slot.
+> + Logic analyser and cabling placed and configured
+> + Target machine ALREADY running with lowered memory speed (3200 MT/s)
+
+
+### Thread part 6 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
 
 - URL: https://x.com/saxenism/status/1986734204600901672
 - Metrics (at fetch): bookmark 0, impression 81, like 3, quote 0, reply 1, retweet 1
@@ -11866,7 +11685,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > + Virtual pages pinned to physical frames, allocations being made according to hacker's logic, cache flushing in place, and the enclave execution already
 
 
-### Thread part 4 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+### Thread part 7 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
 
 - URL: https://x.com/saxenism/status/1986734207125934166
 - Metrics (at fetch): bookmark 0, impression 57, like 3, quote 0, reply 1, retweet 0
@@ -11879,7 +11698,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > I am not an advocate of TEEs. I am just a security engineer, and I want people to truly understand the nature of the components they are including in their
 
 
-### Thread part 5 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+### Thread part 8 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
 
 - URL: https://x.com/saxenism/status/1986734209130774531
 - Metrics (at fetch): bookmark 0, impression 54, like 3, quote 0, reply 1, retweet 0
@@ -11892,7 +11711,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > Everything else is secondary.
 
 
-### Thread part 6 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+### Thread part 9 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
 
 - URL: https://x.com/saxenism/status/1986734211579969682
 - Metrics (at fetch): bookmark 0, impression 53, like 3, quote 0, reply 1, retweet 0
@@ -11905,7 +11724,18 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > There are absolutely NO downsides to combining multiple privacy primitives from a security perspective. It just gives you more and more security guarantees &amp; more
 
 
-### Thread part 7 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+### Thread part 10 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+
+- URL: https://x.com/saxenism/status/1986734213765484803
+- Metrics (at fetch): bookmark 0, impression 46, like 3, quote 0, reply 1, retweet 0
+
+> 10)
+> &gt; Meanwhile, Zama's FHE technology ... reduced by 90% in 2025
+>
+> Not educated enough about Zama to comment.
+
+
+### Thread part 11 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
 
 - URL: https://x.com/saxenism/status/1986734215833227332
 - Metrics (at fetch): bookmark 0, impression 150, like 4, quote 0, reply 1, retweet 0
@@ -11916,7 +11746,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
 > I don't really like poetry, but this is a certified
 
 
-### Thread part 8 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
+### Thread part 12 — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
 
 - URL: https://x.com/saxenism/status/1986734218014286332
 - Metrics (at fetch): bookmark 0, impression 192, like 3, quote 0, reply 0, retweet 0
@@ -11968,74 +11798,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
         - media `3_1983271198956912640` (details not returned by the API)
         
     
-
-
----
-
-## 2025-11-07 · Post · 10)
-
-
-### Post — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
-
-- URL: https://x.com/saxenism/status/1986734213765484803
-- Metrics (at fetch): bookmark 0, impression 46, like 3, quote 0, reply 1, retweet 0
-
-> 10)
-> &gt; Meanwhile, Zama's FHE technology ... reduced by 90% in 2025
->
-> Not educated enough about Zama to comment.
-
-
----
-
-## 2025-11-07 · Post · 5)
-
-
-### Post — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
-
-- URL: https://x.com/saxenism/status/1986734202478530904
-- Metrics (at fetch): bookmark 0, impression 80, like 3, quote 0, reply 1, retweet 1
-
-> 5)
-> + Physical access to the target machine (rack, board, DIMM slot)
-> + DIMM interposer physically installed between RAM module and the DIMM slot.
-> + Logic analyser and cabling placed and configured
-> + Target machine ALREADY running with lowered memory speed (3200 MT/s)
-
-
----
-
-## 2025-11-07 · Post · 3)
-
-
-### Post — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
-
-- URL: https://x.com/saxenism/status/1986734198087176212
-- Metrics (at fetch): bookmark 0, impression 73, like 4, quote 0, reply 1, retweet 0
-
-> 3)
-> &gt; combined with software manipulation (cache flushing and page locking)
->
-> This requires root access.
-> These are again DRASTIC config changes and WILL be caught by even the most basic monitoring setups.
->
-> In cloud settings, such hosts WILL fall out of production rotation in any
-
-
----
-
-## 2025-11-07 · Post · 2)
-
-
-### Post — @saxenism — 2025-11-07 09:55 UTC (2025-11-07 10:55 WAT)
-
-- URL: https://x.com/saxenism/status/1986734195343786174
-- Metrics (at fetch): bookmark 0, impression 100, like 4, quote 0, reply 1, retweet 0
-
-> 2)
-> &gt; physical memory module insertion (throttling to 3200 MT/s)
->
-> Yes, they did that... but running down the RAM to 3200 MT/s is a VERY drastic change (it's literally below the JDEC baseline for DDR5). This behaviour WILL shake up any alerting system if the operator has even a
 
 
 ---
@@ -12105,118 +11867,6 @@ Tags (automatic): ZK, TEE / enclave
             
         
     
-
-
----
-
-## 2025-11-06 · Post · 35) Now, onto the research itself
-
-
-### Post — @saxenism — 2025-11-06 12:11 UTC (2025-11-06 13:11 WAT)
-
-- URL: https://x.com/saxenism/status/1986405996407963726
-- Metrics (at fetch): bookmark 0, impression 155, like 13, quote 0, reply 1, retweet 0
-
-> 35) Now, onto the research itself
->
-> &gt; I want to give a big shoutout to @DanielGenkin, Jalen Chuang, Alex Seto, Nicolas Berrios, Stephan van Schaik, and Christina Garman for their important research!
->
-> This right here, is the core of my bullishness on TEEs.
-
-
----
-
-## 2025-11-06 · Post · 34)  &gt; The operator needs to literally have guards with assault rifles protecting the TEEs
-
-
-### Post — @saxenism — 2025-11-06 12:10 UTC (2025-11-06 13:10 WAT)
-
-- URL: https://x.com/saxenism/status/1986405954011996379
-- Metrics (at fetch): bookmark 0, impression 172, like 12, quote 0, reply 1, retweet 1
-
-> 34)  &gt; The operator needs to literally have guards with assault rifles protecting the TEEs
->
-> Well... https://t.co/Ub5oYAq3TU
-
-**Media:**
-- photo: https://pbs.twimg.com/media/G5EhrmzbIAEsAid.png — no alt text provided by author
-
-
----
-
-## 2025-11-06 · Post · 28) By all standards, that host will automatically fall out of production rotation in any hyperscale
-
-
-### Post — @saxenism — 2025-11-06 12:09 UTC (2025-11-06 13:09 WAT)
-
-- URL: https://x.com/saxenism/status/1986405615779131866
-- Metrics (at fetch): bookmark 0, impression 325, like 14, quote 0, reply 1, retweet 0
-
-> 28) By all standards, that host will automatically fall out of production rotation in any hyperscaler environment as performance monitoring, image checks, and other telemetry will clearly indicate that this server has been tampered with.
-
-
----
-
-## 2025-11-06 · Post · 27) Even at an operator level access, running the RAM down to 3200 MT/s (which is lower than JDEC ba
-
-
-### Post — @saxenism — 2025-11-06 12:09 UTC (2025-11-06 13:09 WAT)
-
-- URL: https://x.com/saxenism/status/1986405571013287939
-- Metrics (at fetch): bookmark 0, impression 345, like 17, quote 0, reply 1, retweet 0
-
-> 27) Even at an operator level access, running the RAM down to 3200 MT/s (which is lower than JDEC baseline for standard operation of DDR5 at 4800 MT/s), pinning pages and other require BIOS and firmware changes (explicitly mentioned in the paper).
-
-
----
-
-## 2025-11-06 · Post · 26)
-
-
-### Post — @saxenism — 2025-11-06 12:08 UTC (2025-11-06 13:08 WAT)
-
-- URL: https://x.com/saxenism/status/1986405405543817525
-- Metrics (at fetch): bookmark 0, impression 351, like 17, quote 0, reply 1, retweet 0
-
-> 26)
-> + Then you'll spend time in reconnaissance of the facility
-> + Then you'll procure the equipment and do dry runs
-> + Make sure your dry runs are FAST AS FUCK
->
-> Because a Tier 4 data centre can only have 26.3 MINUTES of downtime per YEAR.
-
-
----
-
-## 2025-11-06 · Post · 14)
-
-
-### Post — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
-
-- URL: https://x.com/saxenism/status/1986405160365793765
-- Metrics (at fetch): bookmark 0, impression 431, like 17, quote 0, reply 1, retweet 0
-
-> 14)
-> Central Points of Failure
->
-> When it comes to central points of failure, the entire industry more or less relies on Github, Docker, npm, uses Notion, Telegram and Google Mail on their iPhones and MacBooks, which they practically have no control over.
-
-
----
-
-## 2025-11-06 · Post · 7) Next claim:
-
-
-### Post — @saxenism — 2025-11-06 12:07 UTC (2025-11-06 13:07 WAT)
-
-- URL: https://x.com/saxenism/status/1986405141269127596
-- Metrics (at fetch): bookmark 0, impression 526, like 17, quote 0, reply 1, retweet 0
-
-> 7) Next claim:
->
-> &gt; This affects not just Intel TDX but also AMD SEV-SNP and Nvidia's GPU Confidential Computing
->
-> This is true, but this single sweeping statement misses a massive nuance and implies identical compromise for all TEEs, which is NOT the case at all.
 
 
 ---
@@ -13378,139 +13028,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-10-11 · Post · Overall, great job @BenqiFinance. Love to see such rising standards of security in our space.
-
-
-### Post — @saxenism — 2025-10-11 13:38 UTC (2025-10-11 14:38 WAT)
-
-- URL: https://x.com/saxenism/status/1977005769674702994
-- Metrics (at fetch): bookmark 0, impression 211, like 3, quote 0, reply 0, retweet 0
-
-> Overall, great job @BenqiFinance. Love to see such rising standards of security in our space.
-
-
----
-
-## 2025-10-11 · Post · Another under-appreciated security aspect that this tweet highlights is: dog-fooding your security a
-
-
-### Post — @saxenism — 2025-10-11 13:38 UTC (2025-10-11 14:38 WAT)
-
-- URL: https://x.com/saxenism/status/1977005766780633105
-- Metrics (at fetch): bookmark 0, impression 275, like 2, quote 0, reply 1, retweet 0
-
-> Another under-appreciated security aspect that this tweet highlights is: dog-fooding your security arrangements. 
->
-> I have never worked with the Benqi protocol, but I am quite certain they had some simulations that mimic today's events to test the robustness of their defences.
-
-
----
-
-## 2025-10-11 · Post · I am not oblivious to the business requirements, but there is a lot of room to work with when consid
+## 2025-10-11 · Thread · This tweet is GOLD for protocol owners and stakeholders.
 
 
 Tags (automatic): ZK
-
-
-### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
-
-- URL: https://x.com/saxenism/status/1977005763999809752
-- Metrics (at fetch): bookmark 0, impression 990, like 1, quote 1, reply 1, retweet 0
-
-> I am not oblivious to the business requirements, but there is a lot of room to work with when considering the exact invariants that should trigger a protocol-wide pause via a circuit breaker.
->  
-> But refusing to consider it altogether is NOT IT.
-
-
----
-
-## 2025-10-11 · Post · It constantly blows my mind just how many people are comfortable waking up to the news of a hacked p
-
-
-### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
-
-- URL: https://x.com/saxenism/status/1977005761051214336
-- Metrics (at fetch): bookmark 0, impression 107, like 1, quote 0, reply 1, retweet 0
-
-> It constantly blows my mind just how many people are comfortable waking up to the news of a hacked protocol rather than a paused protocol, just because the protocol might be paused due to a false positive and it might worsen the UX for the users.
-
-
----
-
-## 2025-10-11 · Post · I am currently consulting with a bunch of protocols and I have advised almost every single one of th
-
-
-Tags (automatic): ZK
-
-
-### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
-
-- URL: https://x.com/saxenism/status/1977005758089961823
-- Metrics (at fetch): bookmark 0, impression 102, like 1, quote 0, reply 1, retweet 0
-
-> I am currently consulting with a bunch of protocols and I have advised almost every single one of them to setup circuit breakers (or at least withdrawal throttling) that are triggered automatically based on monitoring alerts.
-
-
----
-
-## 2025-10-11 · Post · What makes this tweet even better is that the attached image also talks about circuit breakers. This
-
-
-Tags (automatic): ZK
-
-
-### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
-
-- URL: https://x.com/saxenism/status/1977005755254661199
-- Metrics (at fetch): bookmark 0, impression 110, like 1, quote 0, reply 1, retweet 0
-
-> What makes this tweet even better is that the attached image also talks about circuit breakers. This is something that we DO NOT talk enough about in our industry.
-
-
----
-
-## 2025-10-11 · Post · But what people fail to recognise is that when such black swan-ish events do happen, the magnitude o
-
-
-### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
-
-- URL: https://x.com/saxenism/status/1977005752394170584
-- Metrics (at fetch): bookmark 0, impression 123, like 1, quote 0, reply 1, retweet 0
-
-> But what people fail to recognise is that when such black swan-ish events do happen, the magnitude of damage done to protocols is unprecedented and often causes irreversible damage.
->
-> This is a very human issue where people know EXACTLY what needs to be done, but just don't do it
-
-
----
-
-## 2025-10-11 · Post · This is one of those defence-in-depth principles that every protocol knows, yet hardly anyone pays a
-
-
-### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
-
-- URL: https://x.com/saxenism/status/1977005749554626760
-- Metrics (at fetch): bookmark 0, impression 134, like 1, quote 0, reply 1, retweet 0
-
-> This is one of those defence-in-depth principles that every protocol knows, yet hardly anyone pays attention to it since the probability of such an arrangement actually coming in clutch is very minimal.
-
-
----
-
-## 2025-10-11 · Post · For context, the Dual Oracle Model implies having a backup oracle, where one oracle is the primary s
-
-
-### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
-
-- URL: https://x.com/saxenism/status/1977005746425675942
-- Metrics (at fetch): bookmark 0, impression 150, like 1, quote 0, reply 1, retweet 0
-
-> For context, the Dual Oracle Model implies having a backup oracle, where one oracle is the primary source and the other is secondary.
-
-
----
-
-## 2025-10-11 · Post · This tweet is GOLD for protocol owners and stakeholders.
 
 
 ### Post — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
@@ -13540,6 +13061,84 @@ Tags (automatic): ZK
     **Media:**
     - media `3_1976802003222249472` (details not returned by the API)
     
+
+
+### Thread part 2 — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1977005746425675942
+- Metrics (at fetch): bookmark 0, impression 150, like 1, quote 0, reply 1, retweet 0
+
+> For context, the Dual Oracle Model implies having a backup oracle, where one oracle is the primary source and the other is secondary.
+
+
+### Thread part 3 — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1977005749554626760
+- Metrics (at fetch): bookmark 0, impression 134, like 1, quote 0, reply 1, retweet 0
+
+> This is one of those defence-in-depth principles that every protocol knows, yet hardly anyone pays attention to it since the probability of such an arrangement actually coming in clutch is very minimal.
+
+
+### Thread part 4 — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1977005752394170584
+- Metrics (at fetch): bookmark 0, impression 123, like 1, quote 0, reply 1, retweet 0
+
+> But what people fail to recognise is that when such black swan-ish events do happen, the magnitude of damage done to protocols is unprecedented and often causes irreversible damage.
+>
+> This is a very human issue where people know EXACTLY what needs to be done, but just don't do it
+
+
+### Thread part 5 — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1977005755254661199
+- Metrics (at fetch): bookmark 0, impression 110, like 1, quote 0, reply 1, retweet 0
+
+> What makes this tweet even better is that the attached image also talks about circuit breakers. This is something that we DO NOT talk enough about in our industry.
+
+
+### Thread part 6 — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1977005758089961823
+- Metrics (at fetch): bookmark 0, impression 102, like 1, quote 0, reply 1, retweet 0
+
+> I am currently consulting with a bunch of protocols and I have advised almost every single one of them to setup circuit breakers (or at least withdrawal throttling) that are triggered automatically based on monitoring alerts.
+
+
+### Thread part 7 — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1977005761051214336
+- Metrics (at fetch): bookmark 0, impression 107, like 1, quote 0, reply 1, retweet 0
+
+> It constantly blows my mind just how many people are comfortable waking up to the news of a hacked protocol rather than a paused protocol, just because the protocol might be paused due to a false positive and it might worsen the UX for the users.
+
+
+### Thread part 8 — @saxenism — 2025-10-11 13:37 UTC (2025-10-11 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1977005763999809752
+- Metrics (at fetch): bookmark 0, impression 990, like 1, quote 1, reply 1, retweet 0
+
+> I am not oblivious to the business requirements, but there is a lot of room to work with when considering the exact invariants that should trigger a protocol-wide pause via a circuit breaker.
+>  
+> But refusing to consider it altogether is NOT IT.
+
+
+### Thread part 9 — @saxenism — 2025-10-11 13:38 UTC (2025-10-11 14:38 WAT)
+
+- URL: https://x.com/saxenism/status/1977005766780633105
+- Metrics (at fetch): bookmark 0, impression 275, like 2, quote 0, reply 1, retweet 0
+
+> Another under-appreciated security aspect that this tweet highlights is: dog-fooding your security arrangements. 
+>
+> I have never worked with the Benqi protocol, but I am quite certain they had some simulations that mimic today's events to test the robustness of their defences.
+
+
+### Thread part 10 — @saxenism — 2025-10-11 13:38 UTC (2025-10-11 14:38 WAT)
+
+- URL: https://x.com/saxenism/status/1977005769674702994
+- Metrics (at fetch): bookmark 0, impression 211, like 3, quote 0, reply 0, retweet 0
+
+> Overall, great job @BenqiFinance. Love to see such rising standards of security in our space.
 
 
 ---
@@ -14592,28 +14191,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-08-14 · Post · Huge huge shoutout to my colleague for having made my time at ML as amazing as it was
-
-
-### Post — @saxenism — 2025-08-14 10:57 UTC (2025-08-14 11:57 WAT)
-
-- URL: https://x.com/saxenism/status/1955946871479792062
-- Metrics (at fetch): bookmark 0, impression 1153, like 13, quote 0, reply 1, retweet 0
-
-> Huge huge shoutout to my colleague for having made my time at ML as amazing as it was
->
-> @portport255 
-> Olena Oshchypok
-> @razzor_tweet 
-> Antonio Locascio
-> Lia and JC and Nikita
->
-> Love you all 🫶🏻
-
-
----
-
-## 2025-08-14 · Post · ===Leaving Matter Labs / ZKSync===
+## 2025-08-14 · Thread · ===Leaving Matter Labs / ZKSync===
 
 
 Tags (automatic): ZK
@@ -14638,6 +14216,22 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/GyTpkCaXUAAn5wY.jpg — no alt text provided by author
 
 
+### Thread part 2 — @saxenism — 2025-08-14 10:57 UTC (2025-08-14 11:57 WAT)
+
+- URL: https://x.com/saxenism/status/1955946871479792062
+- Metrics (at fetch): bookmark 0, impression 1153, like 13, quote 0, reply 1, retweet 0
+
+> Huge huge shoutout to my colleague for having made my time at ML as amazing as it was
+>
+> @portport255 
+> Olena Oshchypok
+> @razzor_tweet 
+> Antonio Locascio
+> Lia and JC and Nikita
+>
+> Love you all 🫶🏻
+
+
 ---
 
 ## 2025-08-13 · Post · Perhaps the greatest benefit I've had from using LLMs is the rapid prototyping of my heuristics driv
@@ -14658,20 +14252,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-08-13 · Post · taking a leak after holding it in for a while, sitting in an air-conditioned setting, still tops my 
-
-
-### Post — @saxenism — 2025-08-13 06:55 UTC (2025-08-13 07:55 WAT)
-
-- URL: https://x.com/saxenism/status/1955523517132530048
-- Metrics (at fetch): bookmark 0, impression 298, like 1, quote 0, reply 0, retweet 0
-
-> taking a leak after holding it in for a while, sitting in an air-conditioned setting, still tops my charts of "underrated pleasure" though.
-
-
----
-
-## 2025-08-13 · Post · Finding crits is one of life's truly underrated pleasures.
+## 2025-08-13 · Thread · Finding crits is one of life's truly underrated pleasures.
 
 
 ### Post — @saxenism — 2025-08-13 06:33 UTC (2025-08-13 07:33 WAT)
@@ -14680,6 +14261,14 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 556, like 3, quote 0, reply 1, retweet 0
 
 > Finding crits is one of life's truly underrated pleasures.
+
+
+### Thread part 2 — @saxenism — 2025-08-13 06:55 UTC (2025-08-13 07:55 WAT)
+
+- URL: https://x.com/saxenism/status/1955523517132530048
+- Metrics (at fetch): bookmark 0, impression 298, like 1, quote 0, reply 0, retweet 0
+
+> taking a leak after holding it in for a while, sitting in an air-conditioned setting, still tops my charts of "underrated pleasure" though.
 
 
 ---
@@ -14801,23 +14390,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-07-11 · Post · Time for the 5th one. https://t.co/WkrE46HFCl
-
-
-### Post — @saxenism — 2025-07-11 11:43 UTC (2025-07-11 12:43 WAT)
-
-- URL: https://x.com/saxenism/status/1943637312983765020
-- Metrics (at fetch): bookmark 0, impression 255, like 1, quote 0, reply 0, retweet 0
-
-> Time for the 5th one. https://t.co/WkrE46HFCl
-
-**Media:**
-- photo: https://pbs.twimg.com/media/Gvkv1T0WUAA1hkz.jpg — no alt text provided by author
-
-
----
-
-## 2025-07-11 · Post · Just setup a docker environment to check a memory-leak and it's fix.
+## 2025-07-11 · Thread · Just setup a docker environment to check a memory-leak and it's fix.
 
 
 ### Post — @saxenism — 2025-07-11 11:40 UTC (2025-07-11 12:40 WAT)
@@ -14834,6 +14407,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > `caffeinate -d`
 >
 > Really cool, if you ask me, especially given
+
+
+### Thread part 2 — @saxenism — 2025-07-11 11:43 UTC (2025-07-11 12:43 WAT)
+
+- URL: https://x.com/saxenism/status/1943637312983765020
+- Metrics (at fetch): bookmark 0, impression 255, like 1, quote 0, reply 0, retweet 0
+
+> Time for the 5th one. https://t.co/WkrE46HFCl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gvkv1T0WUAA1hkz.jpg — no alt text provided by author
 
 
 ---
@@ -15009,10 +14593,22 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-03-26 · Post · Case in point
+## 2025-03-26 · Thread · Don't think the studio Ghibli anime style prompt is all that good.
 
 
-### Post — @saxenism — 2025-03-26 17:27 UTC (2025-03-26 18:27 WAT)
+### Post — @saxenism — 2025-03-26 17:06 UTC (2025-03-26 18:06 WAT)
+
+- URL: https://x.com/saxenism/status/1904943011601224022
+- Metrics (at fetch): bookmark 0, impression 1052, like 9, quote 0, reply 5, retweet 0
+
+> Don't think the studio Ghibli anime style prompt is all that good.
+>
+> It just makes people less ugly and seemingly happier.
+>
+> That's all there is to it.
+
+
+### Thread part 2 — @saxenism — 2025-03-26 17:27 UTC (2025-03-26 18:27 WAT)
 
 - URL: https://x.com/saxenism/status/1904948225154707742
 - Metrics (at fetch): bookmark 0, impression 347, like 2, quote 0, reply 0, retweet 0
@@ -15032,23 +14628,6 @@ Tags (automatic): AI-assisted hunting
     >
     > Literally the most grotesque people look pretty good and pleasing when drawn in this style. Pretty neat.
     
-
-
----
-
-## 2025-03-26 · Post · Don't think the studio Ghibli anime style prompt is all that good.
-
-
-### Post — @saxenism — 2025-03-26 17:06 UTC (2025-03-26 18:06 WAT)
-
-- URL: https://x.com/saxenism/status/1904943011601224022
-- Metrics (at fetch): bookmark 0, impression 1052, like 9, quote 0, reply 5, retweet 0
-
-> Don't think the studio Ghibli anime style prompt is all that good.
->
-> It just makes people less ugly and seemingly happier.
->
-> That's all there is to it.
 
 
 ---
@@ -15283,20 +14862,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-03-19 · Post · ** Ofc, both companies have now done away with their deficiencies.
-
-
-### Post — @saxenism — 2025-03-19 08:56 UTC (2025-03-19 09:56 WAT)
-
-- URL: https://x.com/saxenism/status/1902283143765487929
-- Metrics (at fetch): bookmark 0, impression 259, like 1, quote 0, reply 0, retweet 0
-
-> ** Ofc, both companies have now done away with their deficiencies.
-
-
----
-
-## 2025-03-19 · Post · Insane how this nails the security mindset—or the lack of it.
+## 2025-03-19 · Thread · Insane how this nails the security mindset—or the lack of it.
 
 
 ### Post — @saxenism — 2025-03-19 08:55 UTC (2025-03-19 09:55 WAT)
@@ -15323,6 +14889,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     **Media:**
     - media `3_1901879956239798272` (details not returned by the API)
     
+
+
+### Thread part 2 — @saxenism — 2025-03-19 08:56 UTC (2025-03-19 09:56 WAT)
+
+- URL: https://x.com/saxenism/status/1902283143765487929
+- Metrics (at fetch): bookmark 0, impression 259, like 1, quote 0, reply 0, retweet 0
+
+> ** Ofc, both companies have now done away with their deficiencies.
 
 
 ---
@@ -15437,22 +15011,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-02-07 · Post · Wonderful resource to get started and more: https://t.co/lZfWUAINd1
-
-
-### Post — @saxenism — 2025-02-07 09:31 UTC (2025-02-07 10:31 WAT)
-
-- URL: https://x.com/saxenism/status/1887796204123373944
-- Metrics (at fetch): bookmark 5, impression 1099, like 6, quote 0, reply 0, retweet 1
-
-> Wonderful resource to get started and more: https://t.co/lZfWUAINd1
->
-> h/t @officer_secret
-
-
----
-
-## 2025-02-07 · Post · This is brave, coming out and accepting your lapses.
+## 2025-02-07 · Thread · This is brave, coming out and accepting your lapses.
 
 
 ### Post — @saxenism — 2025-02-07 09:22 UTC (2025-02-07 10:22 WAT)
@@ -15478,6 +15037,16 @@ Tags (automatic): AI-assisted hunting
     **Media:**
     - media `13_1887755872899588096` (details not returned by the API)
     
+
+
+### Thread part 2 — @saxenism — 2025-02-07 09:31 UTC (2025-02-07 10:31 WAT)
+
+- URL: https://x.com/saxenism/status/1887796204123373944
+- Metrics (at fetch): bookmark 5, impression 1099, like 6, quote 0, reply 0, retweet 1
+
+> Wonderful resource to get started and more: https://t.co/lZfWUAINd1
+>
+> h/t @officer_secret
 
 
 ---
@@ -15569,79 +15138,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-01-15 · Post · These is my personal take (just like every other tweet I make)
-
-
-### Post — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
-
-- URL: https://x.com/saxenism/status/1879380642410160427
-- Metrics (at fetch): bookmark 0, impression 178, like 1, quote 0, reply 0, retweet 0
-
-> These is my personal take (just like every other tweet I make)
->
-> I could be wrong and missing some insight, in which case I am happy to be taught :)
-
-
----
-
-## 2025-01-15 · Post · The stakes in blockchain are different. A bug doesn't just mean downtime - it could mean irreversibl
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
-
-- URL: https://x.com/saxenism/status/1879380639977533467
-- Metrics (at fetch): bookmark 0, impression 208, like 1, quote 0, reply 1, retweet 0
-
-> The stakes in blockchain are different. A bug doesn't just mean downtime - it could mean irreversible financial losses. 
->
-> We need to balance transparency with security.
->
-> Open source remains crucial for trust and innovation, but it needs to be deliberate, not immediate.
-
-
----
-
-## 2025-01-15 · Post · Instead, foundations/companies should set clear timelines for open-sourcing different components of 
-
-
-### Post — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
-
-- URL: https://x.com/saxenism/status/1879380636194197723
-- Metrics (at fetch): bookmark 0, impression 27, like 1, quote 0, reply 1, retweet 0
-
-> Instead, foundations/companies should set clear timelines for open-sourcing different components of their codebase. 
->
-> Before the public release, the code should have had multiple professional audits, thorough internal reviews, and rigorous PR review processes.
-
-
----
-
-## 2025-01-15 · Post · Core blockchain infrastructure powering our industry should absolutely be open sourced. 
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
-
-- URL: https://x.com/saxenism/status/1879380633769914531
-- Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 1, retweet 0
-
-> Core blockchain infrastructure powering our industry should absolutely be open sourced. 
->
-> But timing matters. 
->
-> "Building in public" should NOT be our default. 
->
-> Open sourcing shit as you code it, is probably not the best decision as well.
-
-
----
-
-## 2025-01-15 · Post · While Linus's Law ("given enough eyeballs, all bugs are shallow") helped scale Linux, the blockchain
+## 2025-01-15 · Thread · While Linus's Law ("given enough eyeballs, all bugs are shallow") helped scale Linux, the blockchain
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -15655,6 +15152,52 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > While Linus's Law ("given enough eyeballs, all bugs are shallow") helped scale Linux, the blockchain industry needs a more nuanced approach. 
 >
 > We're not just dealing with software crashes - we're dealing with millions in potential losses.
+
+
+### Thread part 2 — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
+
+- URL: https://x.com/saxenism/status/1879380633769914531
+- Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 1, retweet 0
+
+> Core blockchain infrastructure powering our industry should absolutely be open sourced. 
+>
+> But timing matters. 
+>
+> "Building in public" should NOT be our default. 
+>
+> Open sourcing shit as you code it, is probably not the best decision as well.
+
+
+### Thread part 3 — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
+
+- URL: https://x.com/saxenism/status/1879380636194197723
+- Metrics (at fetch): bookmark 0, impression 27, like 1, quote 0, reply 1, retweet 0
+
+> Instead, foundations/companies should set clear timelines for open-sourcing different components of their codebase. 
+>
+> Before the public release, the code should have had multiple professional audits, thorough internal reviews, and rigorous PR review processes.
+
+
+### Thread part 4 — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
+
+- URL: https://x.com/saxenism/status/1879380639977533467
+- Metrics (at fetch): bookmark 0, impression 208, like 1, quote 0, reply 1, retweet 0
+
+> The stakes in blockchain are different. A bug doesn't just mean downtime - it could mean irreversible financial losses. 
+>
+> We need to balance transparency with security.
+>
+> Open source remains crucial for trust and innovation, but it needs to be deliberate, not immediate.
+
+
+### Thread part 5 — @saxenism — 2025-01-15 04:10 UTC (2025-01-15 05:10 WAT)
+
+- URL: https://x.com/saxenism/status/1879380642410160427
+- Metrics (at fetch): bookmark 0, impression 178, like 1, quote 0, reply 0, retweet 0
+
+> These is my personal take (just like every other tweet I make)
+>
+> I could be wrong and missing some insight, in which case I am happy to be taught :)
 
 
 ---
@@ -16019,22 +15562,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-11-26 · Post · On the positive side, I lost ~4 kilos 
-
-
-### Post — @saxenism — 2024-11-26 12:55 UTC (2024-11-26 13:55 WAT)
-
-- URL: https://x.com/saxenism/status/1861393275011375340
-- Metrics (at fetch): bookmark 0, impression 245, like 1, quote 0, reply 0, retweet 0
-
-> On the positive side, I lost ~4 kilos 
->
-> So not all bad ig :P
-
-
----
-
-## 2024-11-25 · Post · I absolutely hate being sick.
+## 2024-11-25 · Thread · I absolutely hate being sick.
 
 
 ### Post — @saxenism — 2024-11-25 06:54 UTC (2024-11-25 07:54 WAT)
@@ -16043,6 +15571,16 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 0, impression 1771, like 23, quote 0, reply 10, retweet 0
 
 > I absolutely hate being sick.
+
+
+### Thread part 2 — @saxenism — 2024-11-26 12:55 UTC (2024-11-26 13:55 WAT)
+
+- URL: https://x.com/saxenism/status/1861393275011375340
+- Metrics (at fetch): bookmark 0, impression 245, like 1, quote 0, reply 0, retweet 0
+
+> On the positive side, I lost ~4 kilos 
+>
+> So not all bad ig :P
 
 
 ---
@@ -16101,23 +15639,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-11-22 · Post · It's practically an extempore lightning talk on ZKsync  XD
-
-
-Tags (automatic): ZK
-
-
-### Post — @saxenism — 2024-11-22 18:38 UTC (2024-11-22 19:38 WAT)
-
-- URL: https://x.com/saxenism/status/1860030209246003426
-- Metrics (at fetch): bookmark 0, impression 286, like 0, quote 0, reply 0, retweet 0
-
-> It's practically an extempore lightning talk on ZKsync  XD
-
-
----
-
-## 2024-11-22 · Post · Yesterday I had someone ask, what excites me about ZKsync.
+## 2024-11-22 · Thread · Yesterday I had someone ask, what excites me about ZKsync.
 
 
 Tags (automatic): ZK
@@ -16146,6 +15668,14 @@ Tags (automatic): ZK
     
     > I love @zksync so much
     
+
+
+### Thread part 2 — @saxenism — 2024-11-22 18:38 UTC (2024-11-22 19:38 WAT)
+
+- URL: https://x.com/saxenism/status/1860030209246003426
+- Metrics (at fetch): bookmark 0, impression 286, like 0, quote 0, reply 0, retweet 0
+
+> It's practically an extempore lightning talk on ZKsync  XD
 
 
 ---

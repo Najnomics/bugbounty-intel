@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 199
-- Conversations/threads: 170
+- Conversations/threads: 133
 - Oldest post captured: 2019-05-29
 - Newest post captured: 2026-07-30
 
@@ -26,14 +26,20 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ## 2026-07-30 · Reply · @0xacb @flatt_security Thank you so much for all your help coordinating the disclosure! You guys are
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @0xacb — 2026-07-29 15:13 UTC (2026-07-29 16:13 WAT)
+#### Root post — @0xacb — 2026-07-29 15:13 UTC (2026-07-29 16:13 WAT)
 
-- URL: https://x.com/0xacb/status/2082484611536269560
-- Metrics (at fetch): bookmark 1, impression 3848, like 12, quote 0, reply 2, retweet 0
+- URL: https://x.com/0xacb/status/2082484609820823929
+- Metrics (at fetch): bookmark 192, impression 91215, like 388, quote 10, reply 13, retweet 99
 
-> Shout-out to @ryotkak and @flatt_security for also reporting this and helping coordinate the disclosure.
+> 🚨We reported KindaRails2Shell, a critical RCE in Ruby on Rails via Active Storage.
+>
+> It’s not a one-shot RCE, but the preconditions are kinda common under default configurations.
+>
+> Patch your applications now!
+>
+> https://t.co/Cj9XDk3qTN
 
 
 ### Post — @ryotkak — 2026-07-30 00:33 UTC (2026-07-30 01:33 WAT)
@@ -84,10 +90,39 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-07-18 · Post · WordPressの任意コード実行について、概要をまとめた記事を公開しました。
+## 2026-07-17 · Thread · 【注意】WordPress本体において、未認証で任意コード実行に繋がる脆弱性が修正されています。
 
 
-### Post — @ryotkak — 2026-07-18 13:13 UTC (2026-07-18 14:13 WAT)
+Tags (automatic): SQL injection
+
+
+### Post — @ryotkak — 2026-07-17 23:17 UTC (2026-07-18 00:17 WAT)
+
+- URL: https://x.com/ryotkak/status/2078257717983236594
+- Metrics (at fetch): bookmark 76, impression 36742, like 225, quote 1, reply 3, retweet 62
+
+> 【注意】WordPress本体において、未認証で任意コード実行に繋がる脆弱性が修正されています。
+>
+> 影響を受けるWordPressのバージョンは以下のとおりです。
+> - 6.9.0-6.9.4
+> - 7.0.0-7.0.1
+>
+> 未検証ながら、PoCの存在も確認しているため、パッチの適用を速やかに実施することを推奨いたします。
+
+
+### Thread part 2 — @ryotkak — 2026-07-17 23:19 UTC (2026-07-18 00:19 WAT)
+
+- URL: https://x.com/ryotkak/status/2078258325645603258
+- Metrics (at fetch): bookmark 13, impression 7878, like 33, quote 0, reply 1, retweet 9
+
+> なお、本脆弱性を成立させるために使用されたSQL Injectionは6.8.0-6.8.5にも存在するようです。
+>
+> 詳細な情報は、発見者による以下の投稿をご参照ください。
+>
+> https://t.co/rtUcB5xPKY
+
+
+### Thread part 3 — @ryotkak — 2026-07-18 13:13 UTC (2026-07-18 14:13 WAT)
 
 - URL: https://x.com/ryotkak/status/2078468092766859302
 - Metrics (at fetch): bookmark 28, impression 19340, like 67, quote 1, reply 0, retweet 20
@@ -110,45 +145,6 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 - Metrics (at fetch): bookmark 1, impression 1085, like 1, quote 0, reply 0, retweet 0
 
 > @adnanthekhan Thank you for the info! Will validate them once I get back home
-
-
----
-
-## 2026-07-17 · Post · なお、本脆弱性を成立させるために使用されたSQL Injectionは6.8.0-6.8.5にも存在するようです。
-
-
-Tags (automatic): SQL injection
-
-
-### Post — @ryotkak — 2026-07-17 23:19 UTC (2026-07-18 00:19 WAT)
-
-- URL: https://x.com/ryotkak/status/2078258325645603258
-- Metrics (at fetch): bookmark 13, impression 7878, like 33, quote 0, reply 1, retweet 9
-
-> なお、本脆弱性を成立させるために使用されたSQL Injectionは6.8.0-6.8.5にも存在するようです。
->
-> 詳細な情報は、発見者による以下の投稿をご参照ください。
->
-> https://t.co/rtUcB5xPKY
-
-
----
-
-## 2026-07-17 · Post · 【注意】WordPress本体において、未認証で任意コード実行に繋がる脆弱性が修正されています。
-
-
-### Post — @ryotkak — 2026-07-17 23:17 UTC (2026-07-18 00:17 WAT)
-
-- URL: https://x.com/ryotkak/status/2078257717983236594
-- Metrics (at fetch): bookmark 76, impression 36742, like 225, quote 1, reply 3, retweet 62
-
-> 【注意】WordPress本体において、未認証で任意コード実行に繋がる脆弱性が修正されています。
->
-> 影響を受けるWordPressのバージョンは以下のとおりです。
-> - 6.9.0-6.9.4
-> - 7.0.0-7.0.1
->
-> 未検証ながら、PoCの存在も確認しているため、パッチの適用を速やかに実施することを推奨いたします。
 
 
 ---
@@ -238,19 +234,6 @@ Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
 
 ---
 
-## 2026-05-10 · Post · Thank you so much to everyone who tried to reach out to ZDI. At the very least, I was able to save s
-
-
-### Post — @ryotkak — 2026-05-10 14:30 UTC (2026-05-10 15:30 WAT)
-
-- URL: https://x.com/ryotkak/status/2053482857671303564
-- Metrics (at fetch): bookmark 0, impression 6740, like 9, quote 0, reply 0, retweet 0
-
-> Thank you so much to everyone who tried to reach out to ZDI. At the very least, I was able to save some of the cancellation fee!
-
-
----
-
 ## 2026-05-08 · Thread · Does anyone have a direct contact at @thezdi? I've been trying to register my Pwn2Own entries for th
 
 
@@ -289,6 +272,14 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 0, impression 7784, like 12, quote 0, reply 1, retweet 0
 
 > If you've successfully received confirmation from ZDI and are participating in Pwn2Own, I expect you'll see many collisions with the rejected contestants. Therefore, I'd recommend demonstrating the most unique exploit chain if you have multiple candidate vulnerabilities.
+
+
+### Thread part 5 — @ryotkak — 2026-05-10 14:30 UTC (2026-05-10 15:30 WAT)
+
+- URL: https://x.com/ryotkak/status/2053482857671303564
+- Metrics (at fetch): bookmark 0, impression 6740, like 9, quote 0, reply 0, retweet 0
+
+> Thank you so much to everyone who tried to reach out to ZDI. At the very least, I was able to save some of the cancellation fee!
 
 
 ---
@@ -468,22 +459,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-01-14 · Post · 詳細についてはNode.js公式のセキュリティアドバイザリをご確認ください。
-
-
-### Post — @ryotkak — 2026-01-14 01:03 UTC (2026-01-14 02:03 WAT)
-
-- URL: https://x.com/ryotkak/status/2011242634568950108
-- Metrics (at fetch): bookmark 1, impression 6087, like 4, quote 0, reply 0, retweet 0
-
-> 詳細についてはNode.js公式のセキュリティアドバイザリをご確認ください。
-> (なお、本件について報告をしたのは私ではなく、別の方となります。)
-> https://t.co/JGSSzEQ0Nb
-
-
----
-
-## 2026-01-14 · Post · 本日公開されたNode.js側のセキュリティリリースはReact / Next.js等、特定の条件を満たすフレームワークにデフォルトで影響するDoSの脆弱性修正を含みます。
+## 2026-01-14 · Thread · 本日公開されたNode.js側のセキュリティリリースはReact / Next.js等、特定の条件を満たすフレームワークにデフォルトで影響するDoSの脆弱性修正を含みます。
 
 
 ### Post — @ryotkak — 2026-01-14 01:00 UTC (2026-01-14 02:00 WAT)
@@ -495,6 +471,16 @@ Tags (automatic): RCE
 > React2Shell対応の際にフレームワーク更新している場合でも、Node.jsランタイムの更新が必要となりますので、影響範囲を再度ご確認ください。 https://t.co/X4RNDjQusa
 
 **Quoted post** 2011137343323865196: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ryotkak — 2026-01-14 01:03 UTC (2026-01-14 02:03 WAT)
+
+- URL: https://x.com/ryotkak/status/2011242634568950108
+- Metrics (at fetch): bookmark 1, impression 6087, like 4, quote 0, reply 0, retweet 0
+
+> 詳細についてはNode.js公式のセキュリティアドバイザリをご確認ください。
+> (なお、本件について報告をしたのは私ではなく、別の方となります。)
+> https://t.co/JGSSzEQ0Nb
 
 
 ---
@@ -517,35 +503,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-12-12 · Post · Please refer to Vercel's advisory for more details on which Next.js versions are affected:
-
-
-### Post — @ryotkak — 2025-12-12 07:49 UTC (2025-12-12 08:49 WAT)
-
-- URL: https://x.com/ryotkak/status/1999386202533929399
-- Metrics (at fetch): bookmark 4, impression 5706, like 12, quote 0, reply 1, retweet 0
-
-> Please refer to Vercel's advisory for more details on which Next.js versions are affected:
-> https://t.co/89qjR3yp3e
-
-
----
-
-## 2025-12-12 · Post · 影響を受けるNext.jsバージョンの詳細については、Vercelの公式アドバイザリをご確認ください。
-
-
-### Post — @ryotkak — 2025-12-12 07:49 UTC (2025-12-12 08:49 WAT)
-
-- URL: https://x.com/ryotkak/status/1999386043980873881
-- Metrics (at fetch): bookmark 3, impression 5143, like 5, quote 0, reply 0, retweet 0
-
-> 影響を受けるNext.jsバージョンの詳細については、Vercelの公式アドバイザリをご確認ください。
-> https://t.co/89qjR3yp3e
-
-
----
-
-## 2025-12-12 · Post · Note: this vulnerability affects Next.js 13.x or 14.x, which CVE-2025-55182 (React2Shell) didn't aff
+## 2025-12-12 · Thread · Note: this vulnerability affects Next.js 13.x or 14.x, which CVE-2025-55182 (React2Shell) didn't aff
 
 
 ### Post — @ryotkak — 2025-12-12 04:18 UTC (2025-12-12 05:18 WAT)
@@ -580,9 +538,18 @@ Tags (automatic): AI-assisted hunting
     
 
 
+### Thread part 2 — @ryotkak — 2025-12-12 07:49 UTC (2025-12-12 08:49 WAT)
+
+- URL: https://x.com/ryotkak/status/1999386202533929399
+- Metrics (at fetch): bookmark 4, impression 5706, like 12, quote 0, reply 1, retweet 0
+
+> Please refer to Vercel's advisory for more details on which Next.js versions are affected:
+> https://t.co/89qjR3yp3e
+
+
 ---
 
-## 2025-12-12 · Post · なお、本脆弱性は CVE-2025-55182 (React2Shell) において影響を受けなかったNext.js 13.xや14.x等も影響を受けるため、再度影響範囲の評価を実施することを推奨いた
+## 2025-12-12 · Thread · なお、本脆弱性は CVE-2025-55182 (React2Shell) において影響を受けなかったNext.js 13.xや14.x等も影響を受けるため、再度影響範囲の評価を実施することを推奨いた
 
 
 ### Post — @ryotkak — 2025-12-12 04:15 UTC (2025-12-12 05:15 WAT)
@@ -619,24 +586,18 @@ Tags (automatic): AI-assisted hunting
     
 
 
----
+### Thread part 2 — @ryotkak — 2025-12-12 07:49 UTC (2025-12-12 08:49 WAT)
 
-## 2025-12-11 · Post · 脆弱性の詳細情報については公式ブログをご覧ください:
+- URL: https://x.com/ryotkak/status/1999386043980873881
+- Metrics (at fetch): bookmark 3, impression 5143, like 5, quote 0, reply 0, retweet 0
 
-
-### Post — @ryotkak — 2025-12-11 22:20 UTC (2025-12-11 23:20 WAT)
-
-- URL: https://x.com/ryotkak/status/1999242963839566103
-- Metrics (at fetch): bookmark 7, impression 9698, like 33, quote 0, reply 0, retweet 9
-
-> 脆弱性の詳細情報については公式ブログをご覧ください:
->
-> https://t.co/4VCxwpIAyp
+> 影響を受けるNext.jsバージョンの詳細については、Vercelの公式アドバイザリをご確認ください。
+> https://t.co/89qjR3yp3e
 
 
 ---
 
-## 2025-12-11 · Post · React Server Componentsに別の脆弱性を報告しました。
+## 2025-12-11 · Thread · React Server Componentsに別の脆弱性を報告しました。
 
 
 ### Post — @ryotkak — 2025-12-11 22:20 UTC (2025-12-11 23:20 WAT)
@@ -661,24 +622,19 @@ Tags (automatic): AI-assisted hunting
     
 
 
----
+### Thread part 2 — @ryotkak — 2025-12-11 22:20 UTC (2025-12-11 23:20 WAT)
 
-## 2025-12-11 · Post · Please refer to the official information for the details of this vulnerability:
+- URL: https://x.com/ryotkak/status/1999242963839566103
+- Metrics (at fetch): bookmark 7, impression 9698, like 33, quote 0, reply 0, retweet 9
 
-
-### Post — @ryotkak — 2025-12-11 22:19 UTC (2025-12-11 23:19 WAT)
-
-- URL: https://x.com/ryotkak/status/1999242547416433006
-- Metrics (at fetch): bookmark 9, impression 7350, like 19, quote 0, reply 0, retweet 1
-
-> Please refer to the official information for the details of this vulnerability:
+> 脆弱性の詳細情報については公式ブログをご覧ください:
 >
 > https://t.co/4VCxwpIAyp
 
 
 ---
 
-## 2025-12-11 · Post · I reported another vulnerability to React Server Components.
+## 2025-12-11 · Thread · I reported another vulnerability to React Server Components.
 
 
 Tags (automatic): RCE
@@ -704,6 +660,16 @@ Tags (automatic): RCE
     >
     > These are new issues, separate from the critical CVE last week. The patch for React2Shell remains effective for the Remote Code Execution exploit.
     
+
+
+### Thread part 2 — @ryotkak — 2025-12-11 22:19 UTC (2025-12-11 23:19 WAT)
+
+- URL: https://x.com/ryotkak/status/1999242547416433006
+- Metrics (at fetch): bookmark 9, impression 7350, like 19, quote 0, reply 0, retweet 1
+
+> Please refer to the official information for the details of this vulnerability:
+>
+> https://t.co/4VCxwpIAyp
 
 
 ---
@@ -1896,20 +1862,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-08-02 · Post · 当然機内は暇
-
-
-### Post — @ryotkak — 2022-08-02 12:55 UTC (2022-08-02 13:55 WAT)
-
-- URL: https://x.com/ryotkak/status/1554450849551634433
-- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
-
-> 当然機内は暇
-
-
----
-
-## 2022-08-02 · Post · さらば日本
+## 2022-08-02 · Thread · さらば日本
 
 
 ### Post — @ryotkak — 2022-08-02 12:48 UTC (2022-08-02 13:48 WAT)
@@ -1918,6 +1871,14 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 3, retweet 0
 
 > さらば日本
+
+
+### Thread part 2 — @ryotkak — 2022-08-02 12:55 UTC (2022-08-02 13:55 WAT)
+
+- URL: https://x.com/ryotkak/status/1554450849551634433
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> 当然機内は暇
 
 
 ---
@@ -1949,20 +1910,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-06-18 · Post · 現地参加するかどうかを迷い続け、結局参加することを決断してから出発まで5日しかなかったので、かなり忙しかった...
-
-
-### Post — @ryotkak — 2022-06-18 20:39 UTC (2022-06-18 21:39 WAT)
-
-- URL: https://x.com/ryotkak/status/1538260128675209217
-- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
-
-> 現地参加するかどうかを迷い続け、結局参加することを決断してから出発まで5日しかなかったので、かなり忙しかった...
-
-
----
-
-## 2022-06-18 · Post · というわけで、HackerOneに招待されてH1-512に参加するためにテキサス州オースティンに行っていました
+## 2022-06-18 · Thread · というわけで、HackerOneに招待されてH1-512に参加するためにテキサス州オースティンに行っていました
 
 
 Tags (automatic): Platform: HackerOne
@@ -1974,6 +1922,14 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 1, impression 0, like 69, quote 0, reply 1, retweet 0
 
 > というわけで、HackerOneに招待されてH1-512に参加するためにテキサス州オースティンに行っていました
+
+
+### Thread part 2 — @ryotkak — 2022-06-18 20:39 UTC (2022-06-18 21:39 WAT)
+
+- URL: https://x.com/ryotkak/status/1538260128675209217
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 現地参加するかどうかを迷い続け、結局参加することを決断してから出発まで5日しかなかったので、かなり忙しかった...
 
 
 ---
@@ -2023,33 +1979,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-12-29 · Post · ちなみに、2.17.1においても細工された設定ファイルから任意のコードを実行することはできますが、Log4jの開発チームはこれを認識しており、かつ脆弱性ではないと考えているようです (念の為報告して、
-
-
-### Post — @ryotkak — 2021-12-29 02:35 UTC (2021-12-29 03:35 WAT)
-
-- URL: https://x.com/ryotkak/status/1476018925620318208
-- Metrics (at fetch): bookmark 2, impression 0, like 41, quote 1, reply 0, retweet 21
-
-> ちなみに、2.17.1においても細工された設定ファイルから任意のコードを実行することはできますが、Log4jの開発チームはこれを認識しており、かつ脆弱性ではないと考えているようです (念の為報告して、脆弱性ではないという旨の回答を受け取っています)
-
-
----
-
-## 2021-12-29 · Post · Log4jの開発チームに確認したのですが、設定ファイルからのコード実行自体はセキュリティ上の問題としては扱っておらず、JNDIを使用して、LDAPからパスワードを取得している場合に当該のLDAPサーバ
-
-
-### Post — @ryotkak — 2021-12-29 02:29 UTC (2021-12-29 03:29 WAT)
-
-- URL: https://x.com/ryotkak/status/1476017544335364096
-- Metrics (at fetch): bookmark 4, impression 0, like 78, quote 2, reply 1, retweet 35
-
-> Log4jの開発チームに確認したのですが、設定ファイルからのコード実行自体はセキュリティ上の問題としては扱っておらず、JNDIを使用して、LDAPからパスワードを取得している場合に当該のLDAPサーバーが侵害されると任意のコードが実行できる、という点をセキュリティ上の問題と見なしたそうです。
-
-
----
-
-## 2021-12-28 · Post · Log4jの新しい脆弱性に関して、公式のセキュリティアドバイザリではRCEとなっていますが、細工された設定ファイルを読み込むことが攻撃の条件となっているため、設定ファイルを外部から読み込んでいるか、動
+## 2021-12-28 · Thread · Log4jの新しい脆弱性に関して、公式のセキュリティアドバイザリではRCEとなっていますが、細工された設定ファイルを読み込むことが攻撃の条件となっているため、設定ファイルを外部から読み込んでいるか、動
 
 
 ### Post — @ryotkak — 2021-12-28 23:49 UTC (2021-12-29 00:49 WAT)
@@ -2059,6 +1989,22 @@ Tags (automatic): Platform: HackerOne
 
 > Log4jの新しい脆弱性に関して、公式のセキュリティアドバイザリではRCEとなっていますが、細工された設定ファイルを読み込むことが攻撃の条件となっているため、設定ファイルを外部から読み込んでいるか、動的に設定を行っているケース等でないとRCEにはなりません。
 > https://t.co/fyfUbMvYBs
+
+
+### Thread part 2 — @ryotkak — 2021-12-29 02:29 UTC (2021-12-29 03:29 WAT)
+
+- URL: https://x.com/ryotkak/status/1476017544335364096
+- Metrics (at fetch): bookmark 4, impression 0, like 78, quote 2, reply 1, retweet 35
+
+> Log4jの開発チームに確認したのですが、設定ファイルからのコード実行自体はセキュリティ上の問題としては扱っておらず、JNDIを使用して、LDAPからパスワードを取得している場合に当該のLDAPサーバーが侵害されると任意のコードが実行できる、という点をセキュリティ上の問題と見なしたそうです。
+
+
+### Thread part 3 — @ryotkak — 2021-12-29 02:35 UTC (2021-12-29 03:35 WAT)
+
+- URL: https://x.com/ryotkak/status/1476018925620318208
+- Metrics (at fetch): bookmark 2, impression 0, like 41, quote 1, reply 0, retweet 21
+
+> ちなみに、2.17.1においても細工された設定ファイルから任意のコードを実行することはできますが、Log4jの開発チームはこれを認識しており、かつ脆弱性ではないと考えているようです (念の為報告して、脆弱性ではないという旨の回答を受け取っています)
 
 
 ---
@@ -2078,10 +2024,35 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-12-18 · Post · https://t.co/fyfUbMvYBs
+## 2021-12-18 · Thread · はい、Log4jの3つ目の脆弱性が出ました。終わらない...
 
 
-### Post — @ryotkak — 2021-12-18 12:19 UTC (2021-12-18 13:19 WAT)
+### Post — @ryotkak — 2021-12-18 12:08 UTC (2021-12-18 13:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1472176979961323522
+- Metrics (at fetch): bookmark 57, impression 0, like 1483, quote 32, reply 5, retweet 558
+
+> はい、Log4jの3つ目の脆弱性が出ました。終わらない...
+
+
+### Thread part 2 — @ryotkak — 2021-12-18 12:12 UTC (2021-12-18 13:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1472177946073133056
+- Metrics (at fetch): bookmark 2, impression 0, like 155, quote 1, reply 1, retweet 50
+
+> 2.16.0でJNDIがかなり制限されているため、RCEには繋がらないと思っていますが、調査する気力がもうないので後日見てみます。
+> ちなみに報告したのはAkamai TechnologiesのHideki Okamoto氏です。
+
+
+### Thread part 3 — @ryotkak — 2021-12-18 12:19 UTC (2021-12-18 13:19 WAT)
+
+- URL: https://x.com/ryotkak/status/1472179663904841729
+- Metrics (at fetch): bookmark 3, impression 0, like 151, quote 1, reply 1, retweet 80
+
+> 言い忘れてたので補足です。今回の脆弱性はLog4j 2.16.0において一部の設定で成立するDenial of Service(サービス妨害攻撃)です。影響を受ける方は2.17.0へ更新しましょう。
+
+
+### Thread part 4 — @ryotkak — 2021-12-18 12:19 UTC (2021-12-18 13:19 WAT)
 
 - URL: https://x.com/ryotkak/status/1472179828996833281
 - Metrics (at fetch): bookmark 5, impression 0, like 124, quote 5, reply 0, retweet 79
@@ -2093,61 +2064,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-12-18 · Post · 言い忘れてたので補足です。今回の脆弱性はLog4j 2.16.0において一部の設定で成立するDenial of Service(サービス妨害攻撃)です。影響を受ける方は2.17.0へ更新しましょう。
-
-
-### Post — @ryotkak — 2021-12-18 12:19 UTC (2021-12-18 13:19 WAT)
-
-- URL: https://x.com/ryotkak/status/1472179663904841729
-- Metrics (at fetch): bookmark 3, impression 0, like 151, quote 1, reply 1, retweet 80
-
-> 言い忘れてたので補足です。今回の脆弱性はLog4j 2.16.0において一部の設定で成立するDenial of Service(サービス妨害攻撃)です。影響を受ける方は2.17.0へ更新しましょう。
-
-
----
-
-## 2021-12-18 · Post · 2.16.0でJNDIがかなり制限されているため、RCEには繋がらないと思っていますが、調査する気力がもうないので後日見てみます。
-
-
-### Post — @ryotkak — 2021-12-18 12:12 UTC (2021-12-18 13:12 WAT)
-
-- URL: https://x.com/ryotkak/status/1472177946073133056
-- Metrics (at fetch): bookmark 2, impression 0, like 155, quote 1, reply 1, retweet 50
-
-> 2.16.0でJNDIがかなり制限されているため、RCEには繋がらないと思っていますが、調査する気力がもうないので後日見てみます。
-> ちなみに報告したのはAkamai TechnologiesのHideki Okamoto氏です。
-
-
----
-
-## 2021-12-18 · Post · はい、Log4jの3つ目の脆弱性が出ました。終わらない...
-
-
-### Post — @ryotkak — 2021-12-18 12:08 UTC (2021-12-18 13:08 WAT)
-
-- URL: https://x.com/ryotkak/status/1472176979961323522
-- Metrics (at fetch): bookmark 57, impression 0, like 1483, quote 32, reply 5, retweet 558
-
-> はい、Log4jの3つ目の脆弱性が出ました。終わらない...
-
-
----
-
-## 2021-12-17 · Post · あ、もう一個補足しておくと、このツイートをする3日前(12/10時点)にはLog4jチームに報告していました。
-
-
-### Post — @ryotkak — 2021-12-17 08:12 UTC (2021-12-17 09:12 WAT)
-
-- URL: https://x.com/ryotkak/status/1471755082274570240
-- Metrics (at fetch): bookmark 1, impression 0, like 42, quote 1, reply 0, retweet 14
-
-> あ、もう一個補足しておくと、このツイートをする3日前(12/10時点)にはLog4jチームに報告していました。
-> CVE-2021-45046が当初DoSとして評価されてしまったのは、時間が取れずPoCを作れていなかったためというのと、情報の紐付けがうまく行っていなかったというのが原因だと思います。
-
-
----
-
-## 2021-12-17 · Post · 補足しておくと、このツイートはCVE-2021-45046に付随する脆弱性に関しての言及です。
+## 2021-12-17 · Thread · 補足しておくと、このツイートはCVE-2021-45046に付随する脆弱性に関しての言及です。
 
 
 ### Post — @ryotkak — 2021-12-17 07:33 UTC (2021-12-17 08:33 WAT)
@@ -2170,39 +2087,18 @@ Tags (automatic): Platform: HackerOne
     
 
 
----
+### Thread part 2 — @ryotkak — 2021-12-17 08:12 UTC (2021-12-17 09:12 WAT)
 
-## 2021-12-17 · Post · 実はこれ、僕も報告してました &amp; 詳細出ました。Log4j 2.15.0を使用している方で、影響を受ける方は2.16.0へ更新しましょう。
+- URL: https://x.com/ryotkak/status/1471755082274570240
+- Metrics (at fetch): bookmark 1, impression 0, like 42, quote 1, reply 0, retweet 14
 
-
-### Post — @ryotkak — 2021-12-17 05:36 UTC (2021-12-17 06:36 WAT)
-
-- URL: https://x.com/ryotkak/status/1471715844367745024
-- Metrics (at fetch): bookmark 0, impression 0, like 30, quote 2, reply 0, retweet 10
-
-> 実はこれ、僕も報告してました &amp; 詳細出ました。Log4j 2.15.0を使用している方で、影響を受ける方は2.16.0へ更新しましょう。
-> https://t.co/fyfUbMvYBs
->
-> &gt; Additional vulnerability details discovered independently by Ash Fox of Google, Anthony Weems of Praetorian, and RyotaK
+> あ、もう一個補足しておくと、このツイートをする3日前(12/10時点)にはLog4jチームに報告していました。
+> CVE-2021-45046が当初DoSとして評価されてしまったのは、時間が取れずPoCを作れていなかったためというのと、情報の紐付けがうまく行っていなかったというのが原因だと思います。
 
 
 ---
 
-## 2021-12-16 · Post · @tsukkkkkun 一応補足しておくと、完全にデフォルトの設定では刺さりません。
-
-
-### Post — @ryotkak — 2021-12-16 14:22 UTC (2021-12-16 15:22 WAT)
-
-- URL: https://x.com/ryotkak/status/1471485869685374984
-- Metrics (at fetch): bookmark 1, impression 0, like 28, quote 1, reply 1, retweet 21
-
-> @tsukkkkkun 一応補足しておくと、完全にデフォルトの設定では刺さりません。
-> %m{lookups}を指定するか、CVE-2021-45046等の方法でLookupを発生させる必要があります
-
-
----
-
-## 2021-12-16 · Post · 情報が出てしまったので言及しておきますが、Log4j 2.15.0を使用している場合でも、一部の設定でRCEが可能です。
+## 2021-12-16 · Thread · 情報が出てしまったので言及しておきますが、Log4j 2.15.0を使用している場合でも、一部の設定でRCEが可能です。
 
 
 ### Post — @ryotkak — 2021-12-16 13:50 UTC (2021-12-16 14:50 WAT)
@@ -2216,22 +2112,29 @@ Tags (automatic): Platform: HackerOne
 **Quoted post** 1471465662975561734: not readable via the API (deleted, private, or withheld).
 
 
+### Thread part 2 — @ryotkak — 2021-12-16 14:22 UTC (2021-12-16 15:22 WAT)
+
+- URL: https://x.com/ryotkak/status/1471485869685374984
+- Metrics (at fetch): bookmark 1, impression 0, like 28, quote 1, reply 1, retweet 21
+
+> @tsukkkkkun 一応補足しておくと、完全にデフォルトの設定では刺さりません。
+> %m{lookups}を指定するか、CVE-2021-45046等の方法でLookupを発生させる必要があります
+
+
+### Thread part 3 — @ryotkak — 2021-12-17 05:36 UTC (2021-12-17 06:36 WAT)
+
+- URL: https://x.com/ryotkak/status/1471715844367745024
+- Metrics (at fetch): bookmark 0, impression 0, like 30, quote 2, reply 0, retweet 10
+
+> 実はこれ、僕も報告してました &amp; 詳細出ました。Log4j 2.15.0を使用している方で、影響を受ける方は2.16.0へ更新しましょう。
+> https://t.co/fyfUbMvYBs
+>
+> &gt; Additional vulnerability details discovered independently by Ash Fox of Google, Anthony Weems of Praetorian, and RyotaK
+
+
 ---
 
-## 2021-12-13 · Post · こちらの件、2.16.0において対応されたようです。
-
-
-### Post — @ryotkak — 2021-12-13 23:02 UTC (2021-12-14 00:02 WAT)
-
-- URL: https://x.com/ryotkak/status/1470529629392109570
-- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 2
-
-> こちらの件、2.16.0において対応されたようです。
-
-
----
-
-## 2021-12-12 · Post · 詳細は言えないんですが、Log4j 2.15.0を使用している場合でもlookupsオプションは絶対に指定しないでください。
+## 2021-12-12 · Thread · 詳細は言えないんですが、Log4j 2.15.0を使用している場合でもlookupsオプションは絶対に指定しないでください。
 
 
 ### Post — @ryotkak — 2021-12-12 23:44 UTC (2021-12-13 00:44 WAT)
@@ -2243,22 +2146,17 @@ Tags (automatic): Platform: HackerOne
 > 次のバージョンである2.15.1において、lookupsオプションが指定されていても問題がないように変更される予定です。
 
 
----
+### Thread part 2 — @ryotkak — 2021-12-13 23:02 UTC (2021-12-14 00:02 WAT)
 
-## 2021-12-12 · Post · また、攻撃用のペイロードは複数の方法により難読化可能であるため、ログを確認する際は${と言った文字列を検索したほうが良いと思います。なお、攻撃が成功した場合、${といった文字列がログに出力されない場合
+- URL: https://x.com/ryotkak/status/1470529629392109570
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 2
 
-
-### Post — @ryotkak — 2021-12-12 23:18 UTC (2021-12-13 00:18 WAT)
-
-- URL: https://x.com/ryotkak/status/1470171340791758849
-- Metrics (at fetch): bookmark 5, impression 0, like 82, quote 1, reply 0, retweet 32
-
-> また、攻撃用のペイロードは複数の方法により難読化可能であるため、ログを確認する際は${と言った文字列を検索したほうが良いと思います。なお、攻撃が成功した場合、${といった文字列がログに出力されない場合があるため、可能であればLog4j以外の方法により取得したログを確認すると良さそうです。
+> こちらの件、2.16.0において対応されたようです。
 
 
 ---
 
-## 2021-12-12 · Post · 昨日の時点で広く知れ渡っていましたが、WAFによる防御はほとんどのケースにおいて回避可能です。昨日の時点で、複数の研究者により回避方法が公開されているため、一時的な回避策を使用する場合はLog4j側の
+## 2021-12-12 · Thread · 昨日の時点で広く知れ渡っていましたが、WAFによる防御はほとんどのケースにおいて回避可能です。昨日の時点で、複数の研究者により回避方法が公開されているため、一時的な回避策を使用する場合はLog4j側の
 
 
 ### Post — @ryotkak — 2021-12-12 23:15 UTC (2021-12-13 00:15 WAT)
@@ -2269,12 +2167,36 @@ Tags (automatic): Platform: HackerOne
 > 昨日の時点で広く知れ渡っていましたが、WAFによる防御はほとんどのケースにおいて回避可能です。昨日の時点で、複数の研究者により回避方法が公開されているため、一時的な回避策を使用する場合はLog4j側の設定を変更するなどの方法を推奨します。
 
 
+### Thread part 2 — @ryotkak — 2021-12-12 23:18 UTC (2021-12-13 00:18 WAT)
+
+- URL: https://x.com/ryotkak/status/1470171340791758849
+- Metrics (at fetch): bookmark 5, impression 0, like 82, quote 1, reply 0, retweet 32
+
+> また、攻撃用のペイロードは複数の方法により難読化可能であるため、ログを確認する際は${と言った文字列を検索したほうが良いと思います。なお、攻撃が成功した場合、${といった文字列がログに出力されない場合があるため、可能であればLog4j以外の方法により取得したログを確認すると良さそうです。
+
+
 ---
 
-## 2021-12-11 · Post · このツイート、ガジェット無しでRCEできるという意味合いではなく、十分に致命的な影響を他の攻撃方法により発生させられるので更新するべき、という意味合いのツイートです...！
+## 2021-12-10 · Thread · Log4jの脆弱性、Javaのランタイムバージョンが最新で、デシリアライズ用のガジェットが無かったとしても悪用可能なので、絶対に更新してください...。
 
 
-### Post — @ryotkak — 2021-12-11 01:48 UTC (2021-12-11 02:48 WAT)
+### Post — @ryotkak — 2021-12-10 14:44 UTC (2021-12-10 15:44 WAT)
+
+- URL: https://x.com/ryotkak/status/1469317119733268483
+- Metrics (at fetch): bookmark 24, impression 0, like 400, quote 8, reply 1, retweet 132
+
+> Log4jの脆弱性、Javaのランタイムバージョンが最新で、デシリアライズ用のガジェットが無かったとしても悪用可能なので、絶対に更新してください...。
+
+
+### Thread part 2 — @ryotkak — 2021-12-10 14:51 UTC (2021-12-10 15:51 WAT)
+
+- URL: https://x.com/ryotkak/status/1469318765334917120
+- Metrics (at fetch): bookmark 0, impression 0, like 46, quote 1, reply 2, retweet 4
+
+> 技術的な解説はしません(するとしても一連の騒動が収まった後)が、どうせそのうち誰か気がつくと思います...。僕は疲れ果てたので寝ます
+
+
+### Thread part 3 — @ryotkak — 2021-12-11 01:48 UTC (2021-12-11 02:48 WAT)
 
 - URL: https://x.com/ryotkak/status/1469484243311271936
 - Metrics (at fetch): bookmark 0, impression 0, like 39, quote 1, reply 0, retweet 9
@@ -2297,46 +2219,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-12-10 · Post · 技術的な解説はしません(するとしても一連の騒動が収まった後)が、どうせそのうち誰か気がつくと思います...。僕は疲れ果てたので寝ます
-
-
-### Post — @ryotkak — 2021-12-10 14:51 UTC (2021-12-10 15:51 WAT)
-
-- URL: https://x.com/ryotkak/status/1469318765334917120
-- Metrics (at fetch): bookmark 0, impression 0, like 46, quote 1, reply 2, retweet 4
-
-> 技術的な解説はしません(するとしても一連の騒動が収まった後)が、どうせそのうち誰か気がつくと思います...。僕は疲れ果てたので寝ます
-
-
----
-
-## 2021-12-10 · Post · Log4jの脆弱性、Javaのランタイムバージョンが最新で、デシリアライズ用のガジェットが無かったとしても悪用可能なので、絶対に更新してください...。
-
-
-### Post — @ryotkak — 2021-12-10 14:44 UTC (2021-12-10 15:44 WAT)
-
-- URL: https://x.com/ryotkak/status/1469317119733268483
-- Metrics (at fetch): bookmark 24, impression 0, like 400, quote 8, reply 1, retweet 132
-
-> Log4jの脆弱性、Javaのランタイムバージョンが最新で、デシリアライズ用のガジェットが無かったとしても悪用可能なので、絶対に更新してください...。
-
-
----
-
-## 2021-12-10 · Post · 付きそうというか付いてるな
-
-
-### Post — @ryotkak — 2021-12-10 10:53 UTC (2021-12-10 11:53 WAT)
-
-- URL: https://x.com/ryotkak/status/1469258947031080964
-- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 3
-
-> 付きそうというか付いてるな
-
-
----
-
-## 2021-12-10 · Post · Log4jの脆弱性、Log4Shellって名前がつきそう
+## 2021-12-10 · Thread · Log4jの脆弱性、Log4Shellって名前がつきそう
 
 
 ### Post — @ryotkak — 2021-12-10 10:53 UTC (2021-12-10 11:53 WAT)
@@ -2347,53 +2230,79 @@ Tags (automatic): Platform: HackerOne
 > Log4jの脆弱性、Log4Shellって名前がつきそう
 
 
----
+### Thread part 2 — @ryotkak — 2021-12-10 10:53 UTC (2021-12-10 11:53 WAT)
 
-## 2021-12-10 · Post · (当該のバージョンを使用しているMinecraftバージョンにおいては、が正しいです)
+- URL: https://x.com/ryotkak/status/1469258947031080964
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 3
 
-
-### Post — @ryotkak — 2021-12-10 06:04 UTC (2021-12-10 07:04 WAT)
-
-- URL: https://x.com/ryotkak/status/1469186194915622915
-- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 3
-
-> (当該のバージョンを使用しているMinecraftバージョンにおいては、が正しいです)
+> 付きそうというか付いてるな
 
 
 ---
 
-## 2021-12-10 · Post · -Dlog4j2.formatMsgNoLookups=true は古いバージョンのLog4j2には存在しないため、当該のバージョンを使用しているMinecraftにおいては対策として使用できません
+## 2021-12-09 · Thread · ちょっと移動中で詳しく確認できてないんですが、log4j2に任意コード実行の脆弱性があり、Minecraftサーバー等で任意のコードが実行できるらしいので、サーバー管理者各位は今すぐlog4j2を使用
 
 
-### Post — @ryotkak — 2021-12-10 06:02 UTC (2021-12-10 07:02 WAT)
+### Post — @ryotkak — 2021-12-09 23:13 UTC (2021-12-10 00:13 WAT)
 
-- URL: https://x.com/ryotkak/status/1469185811237474304
-- Metrics (at fetch): bookmark 2, impression 0, like 26, quote 0, reply 1, retweet 13
+- URL: https://x.com/ryotkak/status/1469082760363274240
+- Metrics (at fetch): bookmark 43, impression 0, like 783, quote 14, reply 3, retweet 546
 
-> -Dlog4j2.formatMsgNoLookups=true は古いバージョンのLog4j2には存在しないため、当該のバージョンを使用しているMinecraftにおいては対策として使用できません
-> また、Minecraft(バニラ)に対して一時的な対策を施すパッチがMojangより配信されているようです。
-> (仕事中なので検証ができていません...)
+> ちょっと移動中で詳しく確認できてないんですが、log4j2に任意コード実行の脆弱性があり、Minecraftサーバー等で任意のコードが実行できるらしいので、サーバー管理者各位は今すぐlog4j2を使用しているソフトウェアを更新しましょう
 
 
----
+### Thread part 2 — @ryotkak — 2021-12-09 23:14 UTC (2021-12-10 00:14 WAT)
 
-## 2021-12-10 · Post · Paper(Spigotのフォーク)の最新ビルドにおいて、log4j2に対して行われた修正と同様の修正が行われていることを確認しました。なお、この修正は外部のLDAPサーバーとの通信を禁止するものであ
+- URL: https://x.com/ryotkak/status/1469083025816580096
+- Metrics (at fetch): bookmark 3, impression 0, like 97, quote 0, reply 1, retweet 49
 
-
-### Post — @ryotkak — 2021-12-10 01:30 UTC (2021-12-10 02:30 WAT)
-
-- URL: https://x.com/ryotkak/status/1469117199646617602
-- Metrics (at fetch): bookmark 1, impression 0, like 49, quote 0, reply 1, retweet 20
-
-> Paper(Spigotのフォーク)の最新ビルドにおいて、log4j2に対して行われた修正と同様の修正が行われていることを確認しました。なお、この修正は外部のLDAPサーバーとの通信を禁止するものであるため、依然としてローカルネットワーク内のLDAPサーバーへの通信を強制することが可能です。
+> 既に攻撃が始まってるらしく、かなり最悪な感じになってる
 
 
----
+### Thread part 3 — @ryotkak — 2021-12-10 00:45 UTC (2021-12-10 01:45 WAT)
 
-## 2021-12-10 · Post · 現時点でのまとめ
+- URL: https://x.com/ryotkak/status/1469106025584537601
+- Metrics (at fetch): bookmark 5, impression 0, like 99, quote 1, reply 1, retweet 85
+
+> Minecraftサーバー 1.18、Minecraftクライアント 1.18で脆弱な挙動をすることを確認しました。(バニラ)
+>
+> 攻撃条件が細工されたログを出力することなので、サーバーであればサーバーに接続可能な任意のユーザー、クライアントであれば悪意あるチャットメッセージ等から任意コード実行ができそうです。
 
 
-### Post — @ryotkak — 2021-12-10 01:21 UTC (2021-12-10 02:21 WAT)
+### Thread part 4 — @ryotkak — 2021-12-10 01:01 UTC (2021-12-10 02:01 WAT)
+
+- URL: https://x.com/ryotkak/status/1469110011234500613
+- Metrics (at fetch): bookmark 3, impression 0, like 64, quote 0, reply 1, retweet 41
+
+> -Dlog4j2.formatMsgNoLookups=trueを起動時のパラメータに渡すと暫定的な対策になることも確認できました。(ただ、コードをしっかり読んだわけではないので間違いなく攻撃が成立しないとは言い切れません...)
+
+
+### Thread part 5 — @ryotkak — 2021-12-10 01:05 UTC (2021-12-10 02:05 WAT)
+
+- URL: https://x.com/ryotkak/status/1469110952096595971
+- Metrics (at fetch): bookmark 2, impression 0, like 94, quote 4, reply 1, retweet 81
+
+> サーバー側で対策が行われていたとしても、クライアント側への攻撃が行えることを確認しました。
+> (つまり、最新のSpigotを使用しているサーバーに脆弱なクライアントで接続した場合、悪意あるプレイヤーが細工したチャットメッセージを送信することで任意コード実行を行うことができるかもしれません)
+
+
+### Thread part 6 — @ryotkak — 2021-12-10 01:11 UTC (2021-12-10 02:11 WAT)
+
+- URL: https://x.com/ryotkak/status/1469112478454157312
+- Metrics (at fetch): bookmark 0, impression 0, like 43, quote 1, reply 1, retweet 16
+
+> 最新版のSpigotにおいて脆弱性の修正が適切にバックポートされていることを確認しました
+
+
+### Thread part 7 — @ryotkak — 2021-12-10 01:20 UTC (2021-12-10 02:20 WAT)
+
+- URL: https://x.com/ryotkak/status/1469114682506358785
+- Metrics (at fetch): bookmark 1, impression 0, like 34, quote 0, reply 1, retweet 17
+
+> 最新版のFabric Loaderにおいて対策が行われていることを確認しました (なお、Minecraft Forgeに関しては現時点で対策版の公開が行われていません。)
+
+
+### Thread part 8 — @ryotkak — 2021-12-10 01:21 UTC (2021-12-10 02:21 WAT)
 
 - URL: https://x.com/ryotkak/status/1469114981988048896
 - Metrics (at fetch): bookmark 2, impression 0, like 78, quote 1, reply 1, retweet 64
@@ -2405,72 +2314,30 @@ Tags (automatic): Platform: HackerOne
 > - Minecraft 1.18 (バニラ): 未対策
 
 
----
+### Thread part 9 — @ryotkak — 2021-12-10 01:30 UTC (2021-12-10 02:30 WAT)
 
-## 2021-12-10 · Post · 最新版のFabric Loaderにおいて対策が行われていることを確認しました (なお、Minecraft Forgeに関しては現時点で対策版の公開が行われていません。)
+- URL: https://x.com/ryotkak/status/1469117199646617602
+- Metrics (at fetch): bookmark 1, impression 0, like 49, quote 0, reply 1, retweet 20
 
-
-### Post — @ryotkak — 2021-12-10 01:20 UTC (2021-12-10 02:20 WAT)
-
-- URL: https://x.com/ryotkak/status/1469114682506358785
-- Metrics (at fetch): bookmark 1, impression 0, like 34, quote 0, reply 1, retweet 17
-
-> 最新版のFabric Loaderにおいて対策が行われていることを確認しました (なお、Minecraft Forgeに関しては現時点で対策版の公開が行われていません。)
+> Paper(Spigotのフォーク)の最新ビルドにおいて、log4j2に対して行われた修正と同様の修正が行われていることを確認しました。なお、この修正は外部のLDAPサーバーとの通信を禁止するものであるため、依然としてローカルネットワーク内のLDAPサーバーへの通信を強制することが可能です。
 
 
----
+### Thread part 10 — @ryotkak — 2021-12-10 06:02 UTC (2021-12-10 07:02 WAT)
 
-## 2021-12-10 · Post · 最新版のSpigotにおいて脆弱性の修正が適切にバックポートされていることを確認しました
+- URL: https://x.com/ryotkak/status/1469185811237474304
+- Metrics (at fetch): bookmark 2, impression 0, like 26, quote 0, reply 1, retweet 13
 
-
-### Post — @ryotkak — 2021-12-10 01:11 UTC (2021-12-10 02:11 WAT)
-
-- URL: https://x.com/ryotkak/status/1469112478454157312
-- Metrics (at fetch): bookmark 0, impression 0, like 43, quote 1, reply 1, retweet 16
-
-> 最新版のSpigotにおいて脆弱性の修正が適切にバックポートされていることを確認しました
+> -Dlog4j2.formatMsgNoLookups=true は古いバージョンのLog4j2には存在しないため、当該のバージョンを使用しているMinecraftにおいては対策として使用できません
+> また、Minecraft(バニラ)に対して一時的な対策を施すパッチがMojangより配信されているようです。
+> (仕事中なので検証ができていません...)
 
 
----
+### Thread part 11 — @ryotkak — 2021-12-10 06:04 UTC (2021-12-10 07:04 WAT)
 
-## 2021-12-10 · Post · サーバー側で対策が行われていたとしても、クライアント側への攻撃が行えることを確認しました。
+- URL: https://x.com/ryotkak/status/1469186194915622915
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 3
 
-
-### Post — @ryotkak — 2021-12-10 01:05 UTC (2021-12-10 02:05 WAT)
-
-- URL: https://x.com/ryotkak/status/1469110952096595971
-- Metrics (at fetch): bookmark 2, impression 0, like 94, quote 4, reply 1, retweet 81
-
-> サーバー側で対策が行われていたとしても、クライアント側への攻撃が行えることを確認しました。
-> (つまり、最新のSpigotを使用しているサーバーに脆弱なクライアントで接続した場合、悪意あるプレイヤーが細工したチャットメッセージを送信することで任意コード実行を行うことができるかもしれません)
-
-
----
-
-## 2021-12-10 · Post · -Dlog4j2.formatMsgNoLookups=trueを起動時のパラメータに渡すと暫定的な対策になることも確認できました。(ただ、コードをしっかり読んだわけではないので間違いなく攻撃が成立し
-
-
-### Post — @ryotkak — 2021-12-10 01:01 UTC (2021-12-10 02:01 WAT)
-
-- URL: https://x.com/ryotkak/status/1469110011234500613
-- Metrics (at fetch): bookmark 3, impression 0, like 64, quote 0, reply 1, retweet 41
-
-> -Dlog4j2.formatMsgNoLookups=trueを起動時のパラメータに渡すと暫定的な対策になることも確認できました。(ただ、コードをしっかり読んだわけではないので間違いなく攻撃が成立しないとは言い切れません...)
-
-
----
-
-## 2021-12-10 · Post · Minecraftサーバー 1.18、Minecraftクライアント 1.18で脆弱な挙動をすることを確認しました。(バニラ)
-
-
-### Post — @ryotkak — 2021-12-10 00:45 UTC (2021-12-10 01:45 WAT)
-
-- URL: https://x.com/ryotkak/status/1469106025584537601
-- Metrics (at fetch): bookmark 5, impression 0, like 99, quote 1, reply 1, retweet 85
-
-> Minecraftサーバー 1.18、Minecraftクライアント 1.18で脆弱な挙動をすることを確認しました。(バニラ)
->
-> 攻撃条件が細工されたログを出力することなので、サーバーであればサーバーに接続可能な任意のユーザー、クライアントであれば悪意あるチャットメッセージ等から任意コード実行ができそうです。
+> (当該のバージョンを使用しているMinecraftバージョンにおいては、が正しいです)
 
 
 ---
@@ -2494,32 +2361,6 @@ Tags (automatic): Platform: HackerOne
     
     > ちょっと移動中で詳しく確認できてないんですが、log4j2に任意コード実行の脆弱性があり、Minecraftサーバー等で任意のコードが実行できるらしいので、サーバー管理者各位は今すぐlog4j2を使用しているソフトウェアを更新しましょう
     
-
-
----
-
-## 2021-12-09 · Post · 既に攻撃が始まってるらしく、かなり最悪な感じになってる
-
-
-### Post — @ryotkak — 2021-12-09 23:14 UTC (2021-12-10 00:14 WAT)
-
-- URL: https://x.com/ryotkak/status/1469083025816580096
-- Metrics (at fetch): bookmark 3, impression 0, like 97, quote 0, reply 1, retweet 49
-
-> 既に攻撃が始まってるらしく、かなり最悪な感じになってる
-
-
----
-
-## 2021-12-09 · Post · ちょっと移動中で詳しく確認できてないんですが、log4j2に任意コード実行の脆弱性があり、Minecraftサーバー等で任意のコードが実行できるらしいので、サーバー管理者各位は今すぐlog4j2を使用
-
-
-### Post — @ryotkak — 2021-12-09 23:13 UTC (2021-12-10 00:13 WAT)
-
-- URL: https://x.com/ryotkak/status/1469082760363274240
-- Metrics (at fetch): bookmark 43, impression 0, like 783, quote 14, reply 3, retweet 546
-
-> ちょっと移動中で詳しく確認できてないんですが、log4j2に任意コード実行の脆弱性があり、Minecraftサーバー等で任意のコードが実行できるらしいので、サーバー管理者各位は今すぐlog4j2を使用しているソフトウェアを更新しましょう
 
 
 ---
@@ -2552,182 +2393,6 @@ Tags (automatic): Platform: HackerOne
 > I published an article about vulnerability in Deno's registry that could allow tampering of Deno modules including Deno's install scripts.
 >
 > https://t.co/ak6TTBwf3z
-
-
----
-
-## 2021-11-30 · Post · Denoのレジストリを侵害し、インストールスクリプトを含むDenoのモジュールを改竄できた脆弱性の話です。
-
-
-### Post — @ryotkak — 2021-11-30 13:13 UTC (2021-11-30 14:13 WAT)
-
-- URL: https://x.com/ryotkak/status/1465670240751087625
-- Metrics (at fetch): bookmark 8, impression 0, like 63, quote 1, reply 0, retweet 20
-
-> Denoのレジストリを侵害し、インストールスクリプトを含むDenoのモジュールを改竄できた脆弱性の話です。
-> https://t.co/G7lJdKn7R8
-
-
----
-
-## 2021-11-12 · Post · 報告しました v3
-
-
-### Post — @ryotkak — 2021-11-12 12:38 UTC (2021-11-12 13:38 WAT)
-
-- URL: https://x.com/ryotkak/status/1459138463345770496
-- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 0, reply 0, retweet 0
-
-> 報告しました v3
-> https://t.co/C2lGfnMu38
-
-
----
-
-## 2021-11-05 · Post · 報告しました v2
-
-
-### Post — @ryotkak — 2021-11-05 00:38 UTC (2021-11-05 01:38 WAT)
-
-- URL: https://x.com/ryotkak/status/1456420717243682816
-- Metrics (at fetch): bookmark 3, impression 0, like 22, quote 0, reply 1, retweet 1
-
-> 報告しました v2
->
-> https://t.co/X6WzQwtwgo
-> https://t.co/Dt3zTt5I1H
-
-**Quoted post** 1456325640899137537: not readable via the API (deleted, private, or withheld).
-
-
----
-
-## 2021-10-29 · Post · 報告しました https://t.co/h9JLcc1S3y
-
-
-### Post — @ryotkak — 2021-10-29 06:23 UTC (2021-10-29 07:23 WAT)
-
-- URL: https://x.com/ryotkak/status/1453970848679804929
-- Metrics (at fetch): bookmark 13, impression 0, like 175, quote 0, reply 2, retweet 23
-
-> 報告しました https://t.co/h9JLcc1S3y
-
-**Quoted post** 1453919776565198861: not readable via the API (deleted, private, or withheld).
-
-
----
-
-## 2021-10-20 · Post · よくわからないことを昨日の夜やっていました
-
-
-### Post — @ryotkak — 2021-10-20 10:07 UTC (2021-10-20 11:07 WAT)
-
-- URL: https://x.com/ryotkak/status/1450765665829212166
-- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
-
-> よくわからないことを昨日の夜やっていました
-
-
----
-
-## 2021-10-20 · Post · Minecraft speedrun Any% ACE (Arbitrary Code Execution) 00:00:37.130 https://youtu.be/1SE_fDXvTZ8 @Yo
-
-
-Tags (automatic): RCE
-
-
-### Post — @ryotkak — 2021-10-20 10:07 UTC (2021-10-20 11:07 WAT)
-
-- URL: https://x.com/ryotkak/status/1450765590604312584
-- Metrics (at fetch): not returned
-
-> Minecraft speedrun Any% ACE (Arbitrary Code Execution) 00:00:37.130 https://youtu.be/1SE_fDXvTZ8 @YouTubeより
-
-**Links in post:** https://youtu.be/1SE_fDXvTZ8
-
-
----
-
-## 2021-10-19 · Post · これ、多分情報出してなかったと思うんですが、実は高校生です
-
-
-### Post — @ryotkak — 2021-10-19 04:15 UTC (2021-10-19 05:15 WAT)
-
-- URL: https://x.com/ryotkak/status/1450314661790838785
-- Metrics (at fetch): not returned
-
-> これ、多分情報出してなかったと思うんですが、実は高校生です
-
-
----
-
-## 2021-10-06 · Post · CODE BLUE、ちょっとだけ出ます (初めてのインタビューだったのでレビューはお手柔らかにお願いします...)
-
-
-### Post — @ryotkak — 2021-10-06 05:52 UTC (2021-10-06 06:52 WAT)
-
-- URL: https://x.com/ryotkak/status/1445628001689817090
-- Metrics (at fetch): not returned
-
-> CODE BLUE、ちょっとだけ出ます (初めてのインタビューだったのでレビューはお手柔らかにお願いします...)
-
-
----
-
-## 2021-09-16 · Post · バグバウンティで記念品として貰えるTシャツ、貰えるのは嬉しいんだけどハンガーが足りなくなるのでハンガーも一緒に送って欲しくなってきた
-
-
-### Post — @ryotkak — 2021-09-16 03:26 UTC (2021-09-16 04:26 WAT)
-
-- URL: https://x.com/ryotkak/status/1438343415087788036
-- Metrics (at fetch): not returned
-
-> バグバウンティで記念品として貰えるTシャツ、貰えるのは嬉しいんだけどハンガーが足りなくなるのでハンガーも一緒に送って欲しくなってきた
-
-
----
-
-## 2021-09-10 · Post · Hello from OAuth2.0!
-
-
-Tags (automatic): OAuth
-
-
-### Post — @ryotkak — 2021-09-10 04:12 UTC (2021-09-10 05:12 WAT)
-
-- URL: https://x.com/ryotkak/status/1436180741432307726
-- Metrics (at fetch): not returned
-
-> Hello from OAuth2.0!
-
-
----
-
-## 2021-09-10 · Post · 読み/書き/DMとかいう大雑把すぎる権限管理からようやく抜け出せる
-
-
-### Post — @ryotkak — 2021-09-10 03:59 UTC (2021-09-10 04:59 WAT)
-
-- URL: https://x.com/ryotkak/status/1436177417077284868
-- Metrics (at fetch): not returned
-
-> 読み/書き/DMとかいう大雑把すぎる権限管理からようやく抜け出せる
-
-
----
-
-## 2021-08-08 · Post · I published an article about a vulnerability in Definitely Typed that could be used to compromise th
-
-
-### Post — @ryotkak — 2021-08-08 00:02 UTC (2021-08-08 01:02 WAT)
-
-- URL: https://x.com/ryotkak/status/1424159111394959363
-- Metrics (at fetch): not returned
-
-> I published an article about a vulnerability in Definitely Typed that could be used to compromise the TypeScript ecosystem, potentially affecting many projects such as VSCode, Angular, or TypeScript itself.
-> https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages-en/
-
-**Links in post:** https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages-en/
 
 
 ---
@@ -2813,6 +2478,162 @@ Tags (automatic): OAuth
 > https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages/
 
 **Links in post:** https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages/
+
+
+### Thread part 8 — @ryotkak — 2021-11-30 13:13 UTC (2021-11-30 14:13 WAT)
+
+- URL: https://x.com/ryotkak/status/1465670240751087625
+- Metrics (at fetch): bookmark 8, impression 0, like 63, quote 1, reply 0, retweet 20
+
+> Denoのレジストリを侵害し、インストールスクリプトを含むDenoのモジュールを改竄できた脆弱性の話です。
+> https://t.co/G7lJdKn7R8
+
+
+---
+
+## 2021-10-29 · Thread · 報告しました https://t.co/h9JLcc1S3y
+
+
+### Post — @ryotkak — 2021-10-29 06:23 UTC (2021-10-29 07:23 WAT)
+
+- URL: https://x.com/ryotkak/status/1453970848679804929
+- Metrics (at fetch): bookmark 13, impression 0, like 175, quote 0, reply 2, retweet 23
+
+> 報告しました https://t.co/h9JLcc1S3y
+
+**Quoted post** 1453919776565198861: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ryotkak — 2021-11-05 00:38 UTC (2021-11-05 01:38 WAT)
+
+- URL: https://x.com/ryotkak/status/1456420717243682816
+- Metrics (at fetch): bookmark 3, impression 0, like 22, quote 0, reply 1, retweet 1
+
+> 報告しました v2
+>
+> https://t.co/X6WzQwtwgo
+> https://t.co/Dt3zTt5I1H
+
+**Quoted post** 1456325640899137537: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 3 — @ryotkak — 2021-11-12 12:38 UTC (2021-11-12 13:38 WAT)
+
+- URL: https://x.com/ryotkak/status/1459138463345770496
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 0, reply 0, retweet 0
+
+> 報告しました v3
+> https://t.co/C2lGfnMu38
+
+
+---
+
+## 2021-10-20 · Thread · Minecraft speedrun Any% ACE (Arbitrary Code Execution) 00:00:37.130 https://youtu.be/1SE_fDXvTZ8 @Yo
+
+
+Tags (automatic): RCE
+
+
+### Post — @ryotkak — 2021-10-20 10:07 UTC (2021-10-20 11:07 WAT)
+
+- URL: https://x.com/ryotkak/status/1450765590604312584
+- Metrics (at fetch): not returned
+
+> Minecraft speedrun Any% ACE (Arbitrary Code Execution) 00:00:37.130 https://youtu.be/1SE_fDXvTZ8 @YouTubeより
+
+**Links in post:** https://youtu.be/1SE_fDXvTZ8
+
+
+### Thread part 2 — @ryotkak — 2021-10-20 10:07 UTC (2021-10-20 11:07 WAT)
+
+- URL: https://x.com/ryotkak/status/1450765665829212166
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> よくわからないことを昨日の夜やっていました
+
+
+---
+
+## 2021-10-19 · Post · これ、多分情報出してなかったと思うんですが、実は高校生です
+
+
+### Post — @ryotkak — 2021-10-19 04:15 UTC (2021-10-19 05:15 WAT)
+
+- URL: https://x.com/ryotkak/status/1450314661790838785
+- Metrics (at fetch): not returned
+
+> これ、多分情報出してなかったと思うんですが、実は高校生です
+
+
+---
+
+## 2021-10-06 · Post · CODE BLUE、ちょっとだけ出ます (初めてのインタビューだったのでレビューはお手柔らかにお願いします...)
+
+
+### Post — @ryotkak — 2021-10-06 05:52 UTC (2021-10-06 06:52 WAT)
+
+- URL: https://x.com/ryotkak/status/1445628001689817090
+- Metrics (at fetch): not returned
+
+> CODE BLUE、ちょっとだけ出ます (初めてのインタビューだったのでレビューはお手柔らかにお願いします...)
+
+
+---
+
+## 2021-09-16 · Post · バグバウンティで記念品として貰えるTシャツ、貰えるのは嬉しいんだけどハンガーが足りなくなるのでハンガーも一緒に送って欲しくなってきた
+
+
+### Post — @ryotkak — 2021-09-16 03:26 UTC (2021-09-16 04:26 WAT)
+
+- URL: https://x.com/ryotkak/status/1438343415087788036
+- Metrics (at fetch): not returned
+
+> バグバウンティで記念品として貰えるTシャツ、貰えるのは嬉しいんだけどハンガーが足りなくなるのでハンガーも一緒に送って欲しくなってきた
+
+
+---
+
+## 2021-09-10 · Post · Hello from OAuth2.0!
+
+
+Tags (automatic): OAuth
+
+
+### Post — @ryotkak — 2021-09-10 04:12 UTC (2021-09-10 05:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1436180741432307726
+- Metrics (at fetch): not returned
+
+> Hello from OAuth2.0!
+
+
+---
+
+## 2021-09-10 · Post · 読み/書き/DMとかいう大雑把すぎる権限管理からようやく抜け出せる
+
+
+### Post — @ryotkak — 2021-09-10 03:59 UTC (2021-09-10 04:59 WAT)
+
+- URL: https://x.com/ryotkak/status/1436177417077284868
+- Metrics (at fetch): not returned
+
+> 読み/書き/DMとかいう大雑把すぎる権限管理からようやく抜け出せる
+
+
+---
+
+## 2021-08-08 · Post · I published an article about a vulnerability in Definitely Typed that could be used to compromise th
+
+
+### Post — @ryotkak — 2021-08-08 00:02 UTC (2021-08-08 01:02 WAT)
+
+- URL: https://x.com/ryotkak/status/1424159111394959363
+- Metrics (at fetch): not returned
+
+> I published an article about a vulnerability in Definitely Typed that could be used to compromise the TypeScript ecosystem, potentially affecting many projects such as VSCode, Angular, or TypeScript itself.
+> https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages-en/
+
+**Links in post:** https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages-en/
 
 
 ---

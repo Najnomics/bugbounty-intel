@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 33
-- Conversations/threads: 27
+- Conversations/threads: 24
 - Oldest post captured: 2022-06-24
 - Newest post captured: 2025-06-17
 
@@ -28,27 +28,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-06-17 · Post · GKR is simple in spirit: verify a circuit layer by layer.
-
-
-Tags (automatic): ZK
-
-
-### Post — @0xteddav — 2025-06-17 07:55 UTC (2025-06-17 08:55 WAT)
-
-- URL: https://x.com/0xteddav/status/1934882598255284239
-- Metrics (at fetch): bookmark 0, impression 134, like 4, quote 0, reply 1, retweet 0
-
-> GKR is simple in spirit: verify a circuit layer by layer.
-> You start at the output.
-> Use Sumcheck to verify it's consistent with the layer below.
-> Then recurse.
-> Keep doing this until you reach the inputs.
-
-
----
-
-## 2025-06-17 · Post · GKR: Sumcheck's best friend
+## 2025-06-17 · Thread · GKR: Sumcheck's best friend
 
 
 Tags (automatic): ZK
@@ -63,6 +43,18 @@ Tags (automatic): ZK
 > You read my last article about Sumcheck? Still wondering what you can do with it?
 > Meet the GKR protocol, a way to verify a full circuit without redoing all the work
 > https://t.co/wxYqMKzZIc
+
+
+### Thread part 2 — @0xteddav — 2025-06-17 07:55 UTC (2025-06-17 08:55 WAT)
+
+- URL: https://x.com/0xteddav/status/1934882598255284239
+- Metrics (at fetch): bookmark 0, impression 134, like 4, quote 0, reply 1, retweet 0
+
+> GKR is simple in spirit: verify a circuit layer by layer.
+> You start at the output.
+> Use Sumcheck to verify it's consistent with the layer below.
+> Then recurse.
+> Keep doing this until you reach the inputs.
 
 
 ---
@@ -122,26 +114,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-05-07 · Post · 💡 The idea is simple:
-
-
-Tags (automatic): ZK
-
-
-### Post — @0xteddav — 2025-05-07 07:12 UTC (2025-05-07 08:12 WAT)
-
-- URL: https://x.com/0xteddav/status/1920013744458830261
-- Metrics (at fetch): bookmark 0, impression 1011, like 18, quote 0, reply 1, retweet 0
-
-> 💡 The idea is simple:
-> You enter your preferences. They're encrypted and sent to MPC servers.
-> Some cryptographic magic (thanks @TACEO_IO) checks for mutual matches.
-> If a match is found, a ZK proof is generated (shoutout @NoirLang), and only then do you both find out.
-
-
----
-
-## 2025-05-07 · Post · Just launched a private dating app 🍑 unlike any other!
+## 2025-05-07 · Thread · Just launched a private dating app 🍑 unlike any other!
 
 
 Tags (automatic): ZK
@@ -158,6 +131,17 @@ Tags (automatic): ZK
 > ⚠️ Might be a bit slow, ping me if it is and I’ll bump the server.
 > https://t.co/TrlcZUAyWG
 > 🧵 Here's how it works:
+
+
+### Thread part 2 — @0xteddav — 2025-05-07 07:12 UTC (2025-05-07 08:12 WAT)
+
+- URL: https://x.com/0xteddav/status/1920013744458830261
+- Metrics (at fetch): bookmark 0, impression 1011, like 18, quote 0, reply 1, retweet 0
+
+> 💡 The idea is simple:
+> You enter your preferences. They're encrypted and sent to MPC servers.
+> Some cryptographic magic (thanks @TACEO_IO) checks for mutual matches.
+> If a match is found, a ZK proof is generated (shoutout @NoirLang), and only then do you both find out.
 
 
 ---
@@ -214,32 +198,6 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-04-16 · Post · I used @PrivacyScaling Halo2 fork, because I added a small feature to it last year 👇
-
-
-### Post — @0xteddav — 2025-04-16 12:22 UTC (2025-04-16 13:22 WAT)
-
-- URL: https://x.com/0xteddav/status/1912481707560681571
-- Metrics (at fetch): bookmark 0, impression 170, like 3, quote 0, reply 1, retweet 1
-
-> I used @PrivacyScaling Halo2 fork, because I added a small feature to it last year 👇
-> It allows you to modify the proof and test if your constraints still hold. Super useful when debugging. https://t.co/HpbzwseqD2
-
-**Quoted post (full text):**
-
-    #### Quoted post — @0xteddav — 2024-06-18 15:51 UTC (2024-06-18 16:51 WAT)
-    
-    - URL: https://x.com/0xteddav/status/1803093192226623989
-    - Metrics (at fetch): bookmark 3, impression 1266, like 23, quote 2, reply 3, retweet 0
-    
-    > I merged my first PR in Halo2!! 🥳
-    > ok... it's nothing too crazy, I added like 3 lines of code 😅 but i'm excited! A few months ago I knew nothing about ZK and now I feel confident I could start contributing to ZK libs/projects
-    > https://t.co/jymAGGxuLZ
-    
-
-
----
-
 ## 2025-04-16 · Thread · Learning ZK and writing your first circuits?
 
 
@@ -273,6 +231,27 @@ Tags (automatic): ZK
 
 > The main part of the project is a Merkle tree circuit.
 > You prove a leaf belongs to a tree, but the prover can pass fake leaves. I walk through several buggy versions and explain why each one fails, until the circuit is finally sound 💪
+
+
+### Thread part 4 — @0xteddav — 2025-04-16 12:22 UTC (2025-04-16 13:22 WAT)
+
+- URL: https://x.com/0xteddav/status/1912481707560681571
+- Metrics (at fetch): bookmark 0, impression 170, like 3, quote 0, reply 1, retweet 1
+
+> I used @PrivacyScaling Halo2 fork, because I added a small feature to it last year 👇
+> It allows you to modify the proof and test if your constraints still hold. Super useful when debugging. https://t.co/HpbzwseqD2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xteddav — 2024-06-18 15:51 UTC (2024-06-18 16:51 WAT)
+    
+    - URL: https://x.com/0xteddav/status/1803093192226623989
+    - Metrics (at fetch): bookmark 3, impression 1266, like 23, quote 2, reply 3, retweet 0
+    
+    > I merged my first PR in Halo2!! 🥳
+    > ok... it's nothing too crazy, I added like 3 lines of code 😅 but i'm excited! A few months ago I knew nothing about ZK and now I feel confident I could start contributing to ZK libs/projects
+    > https://t.co/jymAGGxuLZ
+    
 
 
 ---

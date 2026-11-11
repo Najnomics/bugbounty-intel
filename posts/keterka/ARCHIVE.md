@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 59
-- Conversations/threads: 55
+- Conversations/threads: 51
 - Oldest post captured: 2025-10-25
 - Newest post captured: 2026-11-07
 
@@ -106,33 +106,7 @@ Tags (automatic): Platform: HackenProof
 
 ---
 
-## 2026-10-30 · Reply · @anchabadze @Rain__Protocol @HackenProof Thank you bro! Congrats too🚀
-
-
-Tags (automatic): Platform: HackenProof
-
-
-**Context — post being replied to:**
-
-#### Parent post — @anchabadze — 2026-10-30 09:08 UTC (2026-10-30 10:08 WAT)
-
-- URL: https://x.com/anchabadze/status/2116094802517250170
-- Metrics (at fetch): bookmark 0, impression 63, like 1, quote 0, reply 1, retweet 0
-
-> @keterka @Rain__Protocol @HackenProof Well deserved! Congrats!
-
-
-### Post — @keterka — 2026-10-30 09:27 UTC (2026-10-30 10:27 WAT)
-
-- URL: https://x.com/keterka/status/2116099546715390161
-- Metrics (at fetch): bookmark 0, impression 44, like 1, quote 0, reply 0, retweet 0
-
-> @anchabadze @Rain__Protocol @HackenProof Thank you bro! Congrats too🚀
-
-
----
-
-## 2026-10-30 · Post · Finally, a win 🥇
+## 2026-10-30 · Thread · Finally, a win 🥇
 
 
 Tags (automatic): Platform: HackenProof
@@ -179,6 +153,14 @@ Tags (automatic): Platform: HackenProof
     **Media:**
     - photo: https://pbs.twimg.com/media/HVz5oxnWQAANqjs.jpg — no alt text provided by author
     
+
+
+### Thread part 2 — @keterka — 2026-10-30 09:27 UTC (2026-10-30 10:27 WAT)
+
+- URL: https://x.com/keterka/status/2116099546715390161
+- Metrics (at fetch): bookmark 0, impression 44, like 1, quote 0, reply 0, retweet 0
+
+> @anchabadze @Rain__Protocol @HackenProof Thank you bro! Congrats too🚀
 
 
 ---
@@ -1029,6 +1011,63 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ### Thread part 2 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
 
+- URL: https://x.com/keterka/status/2028167842315563466
+- Metrics (at fetch): bookmark 0, impression 35, like 1, quote 0, reply 1, retweet 0
+
+> 🧩 EVM Puzzle #1: Your First Jump
+>
+> CALLVALUE pushes msg.value to stack
+> JUMP jumps to that position
+> Goal: reach position 08
+>
+> Solution: value = 8 wei ✅
+>
+> 🔗 https://t.co/KftZ0cew5i https://t.co/NU19DFr7gu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HCV9ZO3XYAAgkxp.png — no alt text provided by author
+
+
+### Thread part 3 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
+
+- URL: https://x.com/keterka/status/2028167846887338447
+- Metrics (at fetch): bookmark 0, impression 22, like 1, quote 0, reply 1, retweet 0
+
+> 🧩 EVM Puzzle #2: SUB Operation
+>
+> CODESIZE = 10
+> SUB does: second - top
+> Need: 10 - x = 6
+> x = 4
+>
+> Solution: value = 4 wei ✅
+>
+> 🔗 https://t.co/a6uXSOBQVN https://t.co/YmT2D7KJzm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HCV9sl3aoAIXH5S.png — no alt text provided by author
+
+
+### Thread part 4 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
+
+- URL: https://x.com/keterka/status/2028167851173970022
+- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 1, retweet 0
+
+> 🧩 EVM Puzzle #3: CALLDATASIZE
+>
+> CALLDATASIZE returns byte length of calldata
+> Need to jump to position 04
+>
+> Solution: calldata = 0x12345678 ✅
+>
+> 🔗 https://t.co/Dx1nBJe6CT https://t.co/3uICeavNse
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HCV-paOXgAAH89v.png — no alt text provided by author
+
+
+### Thread part 5 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
+
 - URL: https://x.com/keterka/status/2028167855674392812
 - Metrics (at fetch): bookmark 0, impression 11, like 1, quote 0, reply 1, retweet 0
 
@@ -1051,7 +1090,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Links in post:** https://www.evm.codes/playground?callValue=6&unit=Wei&callData=&codeType=Bytecode&code=%2734381856FDFDFDFDFDFD5B00%27_
 
 
-### Thread part 3 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
+### Thread part 6 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
 
 - URL: https://x.com/keterka/status/2028167860388827188
 - Metrics (at fetch): bookmark 0, impression 10, like 1, quote 0, reply 1, retweet 0
@@ -1075,7 +1114,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Links in post:** https://www.evm.codes/playground?callValue=16&unit=Wei&callData=&codeType=Bytecode&code=%2734800261010014600C57FDFD5B00FDFD%27_
 
 
-### Thread part 4 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
+### Thread part 7 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
 
 - URL: https://x.com/keterka/status/2028167865099047039
 - Metrics (at fetch): bookmark 0, impression 34, like 1, quote 0, reply 1, retweet 0
@@ -1095,7 +1134,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Links in post:** https://www.evm.codes/playground?callValue=0&unit=Wei&callData=0x000000000000000000000000000000000000000000000000000000000000000A&codeType=Bytecode&code=%2760003556FDFDFDFDFDFD5B00%27_
 
 
-### Thread part 5 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
+### Thread part 8 — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
 
 - URL: https://x.com/keterka/status/2028167869767331843
 - Metrics (at fetch): bookmark 0, impression 32, like 1, quote 0, reply 0, retweet 0
@@ -1114,87 +1153,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/HCV_Ut0awAA9PV5.png — no alt text provided by author
 
 **Links in post:** https://www.evm.codes/playground?callValue=0&unit=Wei&callData=0x60006000526001601FF3&codeType=Bytecode&code=%2736600080373660006000F03B600114601357FD5B00%27_
-
-
----
-
-## 2026-03-01 · Post · 🧩 EVM Puzzle 3: CALLDATASIZE
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
-
-- URL: https://x.com/keterka/status/2028167851173970022
-- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 1, retweet 0
-
-> 🧩 EVM Puzzle #3: CALLDATASIZE
->
-> CALLDATASIZE returns byte length of calldata
-> Need to jump to position 04
->
-> Solution: calldata = 0x12345678 ✅
->
-> 🔗 https://t.co/Dx1nBJe6CT https://t.co/3uICeavNse
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HCV-paOXgAAH89v.png — no alt text provided by author
-
-
----
-
-## 2026-03-01 · Post · 🧩 EVM Puzzle 2: SUB Operation
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
-
-- URL: https://x.com/keterka/status/2028167846887338447
-- Metrics (at fetch): bookmark 0, impression 22, like 1, quote 0, reply 1, retweet 0
-
-> 🧩 EVM Puzzle #2: SUB Operation
->
-> CODESIZE = 10
-> SUB does: second - top
-> Need: 10 - x = 6
-> x = 4
->
-> Solution: value = 4 wei ✅
->
-> 🔗 https://t.co/a6uXSOBQVN https://t.co/YmT2D7KJzm
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HCV9sl3aoAIXH5S.png — no alt text provided by author
-
-
----
-
-## 2026-03-01 · Post · 🧩 EVM Puzzle 1: Your First Jump
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
-
-
-### Post — @keterka — 2026-03-01 17:57 UTC (2026-03-01 18:57 WAT)
-
-- URL: https://x.com/keterka/status/2028167842315563466
-- Metrics (at fetch): bookmark 0, impression 35, like 1, quote 0, reply 1, retweet 0
-
-> 🧩 EVM Puzzle #1: Your First Jump
->
-> CALLVALUE pushes msg.value to stack
-> JUMP jumps to that position
-> Goal: reach position 08
->
-> Solution: value = 8 wei ✅
->
-> 🔗 https://t.co/KftZ0cew5i https://t.co/NU19DFr7gu
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HCV9ZO3XYAAgkxp.png — no alt text provided by author
 
 
 ---

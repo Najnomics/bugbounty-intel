@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 389
-- Conversations/threads: 348
+- Conversations/threads: 321
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
 
@@ -161,9 +161,9 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ## 2026-10-24 · Reply · @galnagli Oh here we go...
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @galnagli — 2026-10-24 13:41 UTC (2026-10-24 14:41 WAT)
+#### Root post — @galnagli — 2026-10-24 13:41 UTC (2026-10-24 14:41 WAT)
 
 - URL: https://x.com/galnagli/status/2113989312337621443
 - Metrics (at fetch): bookmark 39, impression 30541, like 153, quote 1, reply 11, retweet 3
@@ -363,9 +363,9 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ## 2026-10-10 · Reply · @galnagli @fransrosen Miss you, brother! Thanks for listening ❤️
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @galnagli — 2026-10-09 13:58 UTC (2026-10-09 14:58 WAT)
+#### Root post — @galnagli — 2026-10-09 13:58 UTC (2026-10-09 14:58 WAT)
 
 - URL: https://x.com/galnagli/status/2108557760992567539
 - Metrics (at fetch): bookmark 10, impression 6039, like 144, quote 0, reply 5, retweet 1
@@ -2174,13 +2174,23 @@ Tags (automatic): CSP / CSPT
 
 ---
 
-## 2024-07-03 · Post · First, let me say, the @Doyensec write-up is great. They did an awesome job. 
+## 2024-07-03 · Thread · CSPT is my favorite vuln type - and I yap about it on @ctbbpodcast all the time.
 
 
 Tags (automatic): CSP / CSPT, Request smuggling / desync
 
 
 ### Post — @Rhynorater — 2024-07-03 15:07 UTC (2024-07-03 16:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1808517890842280253
+- Metrics (at fetch): bookmark 249, impression 33625, like 264, quote 2, reply 1, retweet 67
+
+> CSPT is my favorite vuln type - and I yap about it on @ctbbpodcast all the time.
+>
+> I've been reporting CSPTs for the past 2 years+ now, so in light of the new research dropped by @Doyensec, let me drop a couple of takes on this🔥research:
+
+
+### Thread part 2 — @Rhynorater — 2024-07-03 15:07 UTC (2024-07-03 16:07 WAT)
 
 - URL: https://x.com/Rhynorater/status/1808517892700348782
 - Metrics (at fetch): bookmark 5, impression 2606, like 25, quote 0, reply 1, retweet 2
@@ -2193,24 +2203,6 @@ Tags (automatic): CSP / CSPT, Request smuggling / desync
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GRkaZZCbsAA69ek.png — no alt text provided by author
-
-
----
-
-## 2024-07-03 · Post · CSPT is my favorite vuln type - and I yap about it on @ctbbpodcast all the time.
-
-
-Tags (automatic): CSP / CSPT
-
-
-### Post — @Rhynorater — 2024-07-03 15:07 UTC (2024-07-03 16:07 WAT)
-
-- URL: https://x.com/Rhynorater/status/1808517890842280253
-- Metrics (at fetch): bookmark 249, impression 33625, like 264, quote 2, reply 1, retweet 67
-
-> CSPT is my favorite vuln type - and I yap about it on @ctbbpodcast all the time.
->
-> I've been reporting CSPTs for the past 2 years+ now, so in light of the new research dropped by @Doyensec, let me drop a couple of takes on this🔥research:
 
 
 ---
@@ -3342,41 +3334,7 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2023-08-24 · Post · 2. Pay the price
-
-
-### Post — @Rhynorater — 2023-08-24 11:39 UTC (2023-08-24 12:39 WAT)
-
-- URL: https://x.com/Rhynorater/status/1694675717349409208
-- Metrics (at fetch): bookmark 0, impression 3351, like 11, quote 0, reply 1, retweet 0
-
-> 2. Pay the price
-> We talk about this all the time on @ctbbpodcast - you gotta pay the price. 
->
-> Put in the money and pay the $50 or whatever it is to get access to the highest tier. I can almost guarantee you'll get ROI by finding bugs.
-
-
----
-
-## 2023-08-24 · Post · 1. RTFM
-
-
-### Post — @Rhynorater — 2023-08-24 11:39 UTC (2023-08-24 12:39 WAT)
-
-- URL: https://x.com/Rhynorater/status/1694675715189325942
-- Metrics (at fetch): bookmark 0, impression 3624, like 12, quote 0, reply 1, retweet 0
-
-> 1. RTFM
-> The first thing you need to do is find out which features should be behind a paywall. 
->
-> You can often do that by finding the pricing page where features of different tiers are compared. 
->
-> From there, you can identify which features to go after.
-
-
----
-
-## 2023-08-24 · Post · I've made a serious chunk of change over the years by reporting a bug that is rarely talked about: P
+## 2023-08-24 · Thread · I've made a serious chunk of change over the years by reporting a bug that is rarely talked about: P
 
 
 ### Post — @Rhynorater — 2023-08-24 11:39 UTC (2023-08-24 12:39 WAT)
@@ -3395,12 +3353,93 @@ Tags (automatic): Auth bypass
 - photo: https://pbs.twimg.com/media/F4SylF8WAAEhddt.png — no alt text provided by author
 
 
+### Thread part 2 — @Rhynorater — 2023-08-24 11:39 UTC (2023-08-24 12:39 WAT)
+
+- URL: https://x.com/Rhynorater/status/1694675715189325942
+- Metrics (at fetch): bookmark 0, impression 3624, like 12, quote 0, reply 1, retweet 0
+
+> 1. RTFM
+> The first thing you need to do is find out which features should be behind a paywall. 
+>
+> You can often do that by finding the pricing page where features of different tiers are compared. 
+>
+> From there, you can identify which features to go after.
+
+
+### Thread part 3 — @Rhynorater — 2023-08-24 11:39 UTC (2023-08-24 12:39 WAT)
+
+- URL: https://x.com/Rhynorater/status/1694675717349409208
+- Metrics (at fetch): bookmark 0, impression 3351, like 11, quote 0, reply 1, retweet 0
+
+> 2. Pay the price
+> We talk about this all the time on @ctbbpodcast - you gotta pay the price. 
+>
+> Put in the money and pay the $50 or whatever it is to get access to the highest tier. I can almost guarantee you'll get ROI by finding bugs.
+
+
 ---
 
-## 2023-08-23 · Post · There are plenty more. I'll write about them later! But for now, GLHF, Find bugs!
+## 2023-08-23 · Thread · Lol, report writing is so important. 
 
 
-### Post — @Rhynorater — 2023-08-23 18:06 UTC (2023-08-23 19:06 WAT)
+### Post — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
+
+- URL: https://x.com/Rhynorater/status/1694410643468595300
+- Metrics (at fetch): bookmark 100, impression 32127, like 162, quote 4, reply 4, retweet 43
+
+> Lol, report writing is so important. 
+>
+> Every time I sit down and write a thorough, step-by-step report, it flies through triage and normally gets accepted at the correct severity. 
+>
+> Here are some tips (that I still struggle to implement) from years of bug bounty report writing:
+
+
+### Thread part 2 — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
+
+- URL: https://x.com/Rhynorater/status/1694410644458541141
+- Metrics (at fetch): bookmark 1, impression 1670, like 19, quote 0, reply 1, retweet 0
+
+> 1. Record the PoC video
+> Every time you report a bug you should be going back through the reproduction steps to make sure you didn't miss anything. While you're doing this, just record it. It doesn't have to be a Mr.Beast video, just record your screen and talk through the bug. https://t.co/PuIOwG8MF4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4PBIiMWoAAmokv.png — no alt text provided by author
+
+
+### Thread part 3 — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
+
+- URL: https://x.com/Rhynorater/status/1694410645616168995
+- Metrics (at fetch): bookmark 0, impression 1338, like 16, quote 0, reply 1, retweet 0
+
+> 2. Dont skip pre-conditions
+> We need to include any pre-conditions in our report. The triager has to deal with hundreds of web apps and likely doesn't know the ins-and-outs of this one. Include steps to get your account prepared to enter the vulnerable state, not just the exploit.
+
+
+### Thread part 4 — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
+
+- URL: https://x.com/Rhynorater/status/1694410646639505871
+- Metrics (at fetch): bookmark 0, impression 1500, like 16, quote 0, reply 1, retweet 0
+
+> 3. Automate your exploit
+> Give them a python script or docker container where they can paste in an API key and see PII. That's sure to get a big bounty. This also makes things feel more "hacker-y" instead of just replacing IDs in a Burp Repeater tab. https://t.co/I6tDyRAwOz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4PBR1vXcAA8rIf.jpg — no alt text provided by author
+
+
+### Thread part 5 — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
+
+- URL: https://x.com/Rhynorater/status/1694410647843336538
+- Metrics (at fetch): bookmark 2, impression 1982, like 16, quote 0, reply 1, retweet 1
+
+> 4. Write details steps to reproduce
+> Avoid steps that include hidden steps (ie "create a document like you normally would..."). Be clear about which steps are performed from the attacker's account and which are from the victim's account. https://t.co/vpYC9q2l2m
+
+**Media:**
+- media `3_1694410458722119680` (details not returned by the API)
+
+
+### Thread part 6 — @Rhynorater — 2023-08-23 18:06 UTC (2023-08-23 19:06 WAT)
 
 - URL: https://x.com/Rhynorater/status/1694410843763495372
 - Metrics (at fetch): bookmark 1, impression 2115, like 18, quote 0, reply 0, retweet 0
@@ -3425,88 +3464,6 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2023-08-23 · Post · 4. Write details steps to reproduce
-
-
-### Post — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
-
-- URL: https://x.com/Rhynorater/status/1694410647843336538
-- Metrics (at fetch): bookmark 2, impression 1982, like 16, quote 0, reply 1, retweet 1
-
-> 4. Write details steps to reproduce
-> Avoid steps that include hidden steps (ie "create a document like you normally would..."). Be clear about which steps are performed from the attacker's account and which are from the victim's account. https://t.co/vpYC9q2l2m
-
-**Media:**
-- media `3_1694410458722119680` (details not returned by the API)
-
-
----
-
-## 2023-08-23 · Post · 3. Automate your exploit
-
-
-### Post — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
-
-- URL: https://x.com/Rhynorater/status/1694410646639505871
-- Metrics (at fetch): bookmark 0, impression 1500, like 16, quote 0, reply 1, retweet 0
-
-> 3. Automate your exploit
-> Give them a python script or docker container where they can paste in an API key and see PII. That's sure to get a big bounty. This also makes things feel more "hacker-y" instead of just replacing IDs in a Burp Repeater tab. https://t.co/I6tDyRAwOz
-
-**Media:**
-- photo: https://pbs.twimg.com/media/F4PBR1vXcAA8rIf.jpg — no alt text provided by author
-
-
----
-
-## 2023-08-23 · Post · 2. Dont skip pre-conditions
-
-
-### Post — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
-
-- URL: https://x.com/Rhynorater/status/1694410645616168995
-- Metrics (at fetch): bookmark 0, impression 1338, like 16, quote 0, reply 1, retweet 0
-
-> 2. Dont skip pre-conditions
-> We need to include any pre-conditions in our report. The triager has to deal with hundreds of web apps and likely doesn't know the ins-and-outs of this one. Include steps to get your account prepared to enter the vulnerable state, not just the exploit.
-
-
----
-
-## 2023-08-23 · Post · 1. Record the PoC video
-
-
-### Post — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
-
-- URL: https://x.com/Rhynorater/status/1694410644458541141
-- Metrics (at fetch): bookmark 1, impression 1670, like 19, quote 0, reply 1, retweet 0
-
-> 1. Record the PoC video
-> Every time you report a bug you should be going back through the reproduction steps to make sure you didn't miss anything. While you're doing this, just record it. It doesn't have to be a Mr.Beast video, just record your screen and talk through the bug. https://t.co/PuIOwG8MF4
-
-**Media:**
-- photo: https://pbs.twimg.com/media/F4PBIiMWoAAmokv.png — no alt text provided by author
-
-
----
-
-## 2023-08-23 · Post · Lol, report writing is so important. 
-
-
-### Post — @Rhynorater — 2023-08-23 18:05 UTC (2023-08-23 19:05 WAT)
-
-- URL: https://x.com/Rhynorater/status/1694410643468595300
-- Metrics (at fetch): bookmark 100, impression 32127, like 162, quote 4, reply 4, retweet 43
-
-> Lol, report writing is so important. 
->
-> Every time I sit down and write a thorough, step-by-step report, it flies through triage and normally gets accepted at the correct severity. 
->
-> Here are some tips (that I still struggle to implement) from years of bug bounty report writing:
-
-
----
-
 ## 2023-08-18 · Post · When you're learning bug bounty, failing is a small W. 
 
 
@@ -3522,106 +3479,10 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2023-08-15 · Post · Even if they may not seem like a big deal, keep note of these gadgets along the way. When you write 
-
-
-### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
-
-- URL: https://x.com/Rhynorater/status/1691566031636963730
-- Metrics (at fetch): bookmark 0, impression 1795, like 11, quote 0, reply 1, retweet 0
-
-> Even if they may not seem like a big deal, keep note of these gadgets along the way. When you write them down your brain is more likely to find a way to use them in a chain. 
->
-> GLHF, find bugs!
-
-
----
-
-## 2023-08-15 · Post · I ended up using this gadget in conjunction with an XSS on an OOS subdomain to steal the JWT token a
+## 2023-08-15 · Thread · Skilled hackers find complex and creative bugs.
 
 
 Tags (automatic): XSS
-
-
-### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
-
-- URL: https://x.com/Rhynorater/status/1691566029410066651
-- Metrics (at fetch): bookmark 1, impression 892, like 7, quote 0, reply 1, retweet 0
-
-> I ended up using this gadget in conjunction with an XSS on an OOS subdomain to steal the JWT token and hijack the victim's session. Two gadgets/vulns which wouldn't have been accepted individually, used together for crazy impact.
-
-
----
-
-## 2023-08-15 · Post · Another example: I found an endpoint (read gadget) which, when a GET HTTP request was sent to it, wo
-
-
-### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
-
-- URL: https://x.com/Rhynorater/status/1691566026998128675
-- Metrics (at fetch): bookmark 0, impression 656, like 4, quote 0, reply 1, retweet 0
-
-> Another example: I found an endpoint (read gadget) which, when a GET HTTP request was sent to it, would set the victim's JWT session token in a * scoped, non-HTTP only cookie to auth into a different application.
-
-
----
-
-## 2023-08-15 · Post · I was later able to chain this with a POST-based CSRF-able endpoint to get a full CSRF PoC on the ap
-
-
-### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
-
-- URL: https://x.com/Rhynorater/status/1691566024951304648
-- Metrics (at fetch): bookmark 0, impression 690, like 5, quote 0, reply 1, retweet 0
-
-> I was later able to chain this with a POST-based CSRF-able endpoint to get a full CSRF PoC on the application.
->
-> This example is pretty straightforward, but other examples may not be so obvious.
-
-
----
-
-## 2023-08-15 · Post · For example, I found a gadget the other day which would force the victim's session to refresh. This 
-
-
-### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
-
-- URL: https://x.com/Rhynorater/status/1691566022757700057
-- Metrics (at fetch): bookmark 0, impression 731, like 5, quote 0, reply 1, retweet 0
-
-> For example, I found a gadget the other day which would force the victim's session to refresh. This is a valuable gadget because of the LAX+POST 2-minute window that allows for CSRFs in Chrome.
-
-
----
-
-## 2023-08-15 · Post · These gadgets do not constitute a vulnerability in and of themselves, but when chained together with
-
-
-### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
-
-- URL: https://x.com/Rhynorater/status/1691566019158962640
-- Metrics (at fetch): bookmark 0, impression 740, like 4, quote 0, reply 1, retweet 0
-
-> These gadgets do not constitute a vulnerability in and of themselves, but when chained together with other gadgets or low-impact vulnerabilities, may result in a more serious vulnerability.
-
-
----
-
-## 2023-08-15 · Post · A Gadget is a piece of functionality that allows the attacker to influence the state of the applicat
-
-
-### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
-
-- URL: https://x.com/Rhynorater/status/1691566016805929148
-- Metrics (at fetch): bookmark 0, impression 789, like 4, quote 0, reply 1, retweet 0
-
-> A Gadget is a piece of functionality that allows the attacker to influence the state of the application toward a slightly more vulnerable state.
-> Note the nuance: "slightly more vulnerable state."
-
-
----
-
-## 2023-08-15 · Post · Skilled hackers find complex and creative bugs.
 
 
 ### Post — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
@@ -3635,6 +3496,67 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F3ml3omXgAEyMLe.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1691566016805929148
+- Metrics (at fetch): bookmark 0, impression 789, like 4, quote 0, reply 1, retweet 0
+
+> A Gadget is a piece of functionality that allows the attacker to influence the state of the application toward a slightly more vulnerable state.
+> Note the nuance: "slightly more vulnerable state."
+
+
+### Thread part 3 — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1691566019158962640
+- Metrics (at fetch): bookmark 0, impression 740, like 4, quote 0, reply 1, retweet 0
+
+> These gadgets do not constitute a vulnerability in and of themselves, but when chained together with other gadgets or low-impact vulnerabilities, may result in a more serious vulnerability.
+
+
+### Thread part 4 — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1691566022757700057
+- Metrics (at fetch): bookmark 0, impression 731, like 5, quote 0, reply 1, retweet 0
+
+> For example, I found a gadget the other day which would force the victim's session to refresh. This is a valuable gadget because of the LAX+POST 2-minute window that allows for CSRFs in Chrome.
+
+
+### Thread part 5 — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1691566024951304648
+- Metrics (at fetch): bookmark 0, impression 690, like 5, quote 0, reply 1, retweet 0
+
+> I was later able to chain this with a POST-based CSRF-able endpoint to get a full CSRF PoC on the application.
+>
+> This example is pretty straightforward, but other examples may not be so obvious.
+
+
+### Thread part 6 — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1691566026998128675
+- Metrics (at fetch): bookmark 0, impression 656, like 4, quote 0, reply 1, retweet 0
+
+> Another example: I found an endpoint (read gadget) which, when a GET HTTP request was sent to it, would set the victim's JWT session token in a * scoped, non-HTTP only cookie to auth into a different application.
+
+
+### Thread part 7 — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1691566029410066651
+- Metrics (at fetch): bookmark 1, impression 892, like 7, quote 0, reply 1, retweet 0
+
+> I ended up using this gadget in conjunction with an XSS on an OOS subdomain to steal the JWT token and hijack the victim's session. Two gadgets/vulns which wouldn't have been accepted individually, used together for crazy impact.
+
+
+### Thread part 8 — @Rhynorater — 2023-08-15 21:42 UTC (2023-08-15 22:42 WAT)
+
+- URL: https://x.com/Rhynorater/status/1691566031636963730
+- Metrics (at fetch): bookmark 0, impression 1795, like 11, quote 0, reply 1, retweet 0
+
+> Even if they may not seem like a big deal, keep note of these gadgets along the way. When you write them down your brain is more likely to find a way to use them in a chain. 
+>
+> GLHF, find bugs!
 
 
 ---
@@ -3804,40 +3726,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2023-08-09 · Post · * Open Redirect (when the target is limited)
-
-
-Tags (automatic): SSRF
-
-
-### Post — @Rhynorater — 2023-08-09 22:17 UTC (2023-08-09 23:17 WAT)
-
-- URL: https://x.com/Rhynorater/status/1689400478822514688
-- Metrics (at fetch): bookmark 18, impression 23292, like 96, quote 0, reply 1, retweet 3
-
-> * Open Redirect (when the target is limited)
-> When the target of a SSRF-ish request is limited to a particular domain, you can often bypass this with redirects. You can check if an endpoint is vulnerable by hitting a redir within the app and seeing if it follows.
-
-
----
-
-## 2023-08-09 · Post · * Check all schemes (http, https, file, ftp, gopher, etc)
-
-
-### Post — @Rhynorater — 2023-08-09 22:17 UTC (2023-08-09 23:17 WAT)
-
-- URL: https://x.com/Rhynorater/status/1689400477639749632
-- Metrics (at fetch): bookmark 184, impression 42237, like 293, quote 2, reply 1, retweet 53
-
-> * Check all schemes (http, https, file, ftp, gopher, etc)
-> Sometimes there are restrictions in-place on http that are not there in https or vice versa.  See link below. 
-> Or, if you can hit schemes like file or FTP -&gt; local filesystem access. 
-> https://t.co/hkuFBXHdjK
-
-
----
-
-## 2023-08-09 · Post · I've made over 100k on SSRF vulnerabilities.
+## 2023-08-09 · Thread · I've made over 100k on SSRF vulnerabilities.
 
 
 Tags (automatic): SSRF
@@ -3856,6 +3745,26 @@ Tags (automatic): SSRF
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F3HsGgCXEAAlVar.png — no alt text provided by author
+
+
+### Thread part 2 — @Rhynorater — 2023-08-09 22:17 UTC (2023-08-09 23:17 WAT)
+
+- URL: https://x.com/Rhynorater/status/1689400477639749632
+- Metrics (at fetch): bookmark 184, impression 42237, like 293, quote 2, reply 1, retweet 53
+
+> * Check all schemes (http, https, file, ftp, gopher, etc)
+> Sometimes there are restrictions in-place on http that are not there in https or vice versa.  See link below. 
+> Or, if you can hit schemes like file or FTP -&gt; local filesystem access. 
+> https://t.co/hkuFBXHdjK
+
+
+### Thread part 3 — @Rhynorater — 2023-08-09 22:17 UTC (2023-08-09 23:17 WAT)
+
+- URL: https://x.com/Rhynorater/status/1689400478822514688
+- Metrics (at fetch): bookmark 18, impression 23292, like 96, quote 0, reply 1, retweet 3
+
+> * Open Redirect (when the target is limited)
+> When the target of a SSRF-ish request is limited to a particular domain, you can often bypass this with redirects. You can check if an endpoint is vulnerable by hitting a redir within the app and seeing if it follows.
 
 
 ---
@@ -4242,28 +4151,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2023-07-16 · Post · Example scenario:
-
-
-Tags (automatic): XSS
-
-
-### Post — @Rhynorater — 2023-07-16 12:25 UTC (2023-07-16 13:25 WAT)
-
-- URL: https://x.com/Rhynorater/status/1680554197895315457
-- Metrics (at fetch): bookmark 10, impression 3566, like 31, quote 0, reply 1, retweet 0
-
-> Example scenario:
-> var u = window.location.hash.substring(1);
-> if (new URL(u).hostname === location.hostname) 
->     window.location.href = u;
->
-> If you put the above URL in the hash, this will result in XSS.
-
-
----
-
-## 2023-07-16 · Post · Re-learned this one from @ryotkak at a recent LHE:
+## 2023-07-16 · Thread · Re-learned this one from @ryotkak at a recent LHE:
 
 
 Tags (automatic): XSS
@@ -4278,6 +4166,19 @@ Tags (automatic): XSS
 > In Safari, "new URL('javascript://test.com/%0aalert(1)').hostname" will be "test[.]com" (no [] obvi). This can be used to bypass hostname checks and execute valid JS. 
 >
 > Just popped an XSS with this on Friday. Good trick.
+
+
+### Thread part 2 — @Rhynorater — 2023-07-16 12:25 UTC (2023-07-16 13:25 WAT)
+
+- URL: https://x.com/Rhynorater/status/1680554197895315457
+- Metrics (at fetch): bookmark 10, impression 3566, like 31, quote 0, reply 1, retweet 0
+
+> Example scenario:
+> var u = window.location.hash.substring(1);
+> if (new URL(u).hostname === location.hostname) 
+>     window.location.href = u;
+>
+> If you put the above URL in the hash, this will result in XSS.
 
 
 ---
@@ -4777,23 +4678,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-10-21 · Post · He was able to discover this vulnerability because he validated that the IDOR didn't work upon getti
-
-
-Tags (automatic): IDOR / BOLA
-
-
-### Post — @Rhynorater — 2022-10-21 19:07 UTC (2022-10-21 20:07 WAT)
-
-- URL: https://x.com/Rhynorater/status/1583535546298531840
-- Metrics (at fetch): bookmark 2, impression 0, like 25, quote 0, reply 3, retweet 0
-
-> He was able to discover this vulnerability because he validated that the IDOR didn't work upon getting the error - a tricky one for sure. I missed it myself. Always use obvious values for your IDORs (so you know if it worked or not) and double-check when error messages pop!
-
-
----
-
-## 2022-10-21 · Post · A mentee of mine found a critical vulnerability in a popular food delivery company. The vulnerable r
+## 2022-10-21 · Thread · A mentee of mine found a critical vulnerability in a popular food delivery company. The vulnerable r
 
 
 Tags (automatic): IDOR / BOLA
@@ -4805,6 +4690,14 @@ Tags (automatic): IDOR / BOLA
 - Metrics (at fetch): bookmark 6, impression 0, like 75, quote 0, reply 4, retweet 0
 
 > A mentee of mine found a critical vulnerability in a popular food delivery company. The vulnerable request was very core to the app and has def been assessed before. The vulnerability was a simple IDOR, but the response would come back as an error saying "Access Denied."
+
+
+### Thread part 2 — @Rhynorater — 2022-10-21 19:07 UTC (2022-10-21 20:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1583535546298531840
+- Metrics (at fetch): bookmark 2, impression 0, like 25, quote 0, reply 3, retweet 0
+
+> He was able to discover this vulnerability because he validated that the IDOR didn't work upon getting the error - a tricky one for sure. I missed it myself. Always use obvious values for your IDORs (so you know if it worked or not) and double-check when error messages pop!
 
 
 ---
@@ -4822,49 +4715,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2022-10-17 · Post · 3. Pros and cons of bounty life
-
-
-### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
-
-- URL: https://x.com/Rhynorater/status/1582040525950984195
-- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
-
-> 3. Pros and cons of bounty life
-> As a previous pentester consultant and SOC employee, what are the pros and cons of full-time bug bounty that keep me in this line of work? What is the career trajectory? What sucks about full-time bug bounty?
-
-
----
-
-## 2022-10-17 · Post · 2. A day in the life of a full-time bug bounty hunters
-
-
-### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
-
-- URL: https://x.com/Rhynorater/status/1582040524630163457
-- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
-
-> 2. A day in the life of a full-time bug bounty hunters
-> What does the day-to-day life of a full-time bug bounty hunter look like (for me)? What tools/technical concepts do I use on a daily basis? What are the work hours/setup like? Logistical stuff.
-
-
----
-
-## 2022-10-17 · Post · 1. Technical &amp; Non-technical skills required to be a full-time bug bounty hunter.
-
-
-### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
-
-- URL: https://x.com/Rhynorater/status/1582040523111825409
-- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
-
-> 1. Technical &amp; Non-technical skills required to be a full-time bug bounty hunter.
-> Full-time bug bounty hunting is surprisingly heavy on the non-technical skills/personality traits which are required to do it successfully. I'll explain some of the skills I've developed to cope.
-
-
----
-
-## 2022-10-17 · Post · Very excited to be presenting to @InsiderPhD 's students today! I'll be doing an overview of my expe
+## 2022-10-17 · Thread · Very excited to be presenting to @InsiderPhD 's students today! I'll be doing an overview of my expe
 
 
 ### Post — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
@@ -4873,6 +4724,33 @@ Tags (automatic): IDOR / BOLA
 - Metrics (at fetch): bookmark 12, impression 0, like 100, quote 0, reply 5, retweet 5
 
 > Very excited to be presenting to @InsiderPhD 's students today! I'll be doing an overview of my experiences as a full-time bug bounty hunter for the past couple of years. I'll try to release the slides/recording afterward if possible. A rough summary of the content:
+
+
+### Thread part 2 — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582040523111825409
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> 1. Technical &amp; Non-technical skills required to be a full-time bug bounty hunter.
+> Full-time bug bounty hunting is surprisingly heavy on the non-technical skills/personality traits which are required to do it successfully. I'll explain some of the skills I've developed to cope.
+
+
+### Thread part 3 — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582040524630163457
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> 2. A day in the life of a full-time bug bounty hunters
+> What does the day-to-day life of a full-time bug bounty hunter look like (for me)? What tools/technical concepts do I use on a daily basis? What are the work hours/setup like? Logistical stuff.
+
+
+### Thread part 4 — @Rhynorater — 2022-10-17 16:07 UTC (2022-10-17 17:07 WAT)
+
+- URL: https://x.com/Rhynorater/status/1582040525950984195
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> 3. Pros and cons of bounty life
+> As a previous pentester consultant and SOC employee, what are the pros and cons of full-time bug bounty that keep me in this line of work? What is the career trajectory? What sucks about full-time bug bounty?
 
 
 ---
@@ -4933,21 +4811,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2022-10-10 · Post · 1. Pick your portion
-
-
-### Post — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
-
-- URL: https://x.com/Rhynorater/status/1579499223523155968
-- Metrics (at fetch): bookmark 2, impression 0, like 63, quote 1, reply 1, retweet 1
-
-> 1. Pick your portion
-> When a live hacking event kicks off, you will likely have just received a mission to hack an absolutely enormous amount of scope in a relatively small amount of time. Large scopes are hard to address in normal bug bounty, let alone in a competition.
-
-
----
-
-## 2022-10-10 · Post · Over the past 6 months, I've had the pleasure of participating in 5 HackerOne Live Hacking events. I
+## 2022-10-10 · Thread · Over the past 6 months, I've had the pleasure of participating in 5 HackerOne Live Hacking events. I
 
 
 Tags (automatic): Platform: HackerOne
@@ -4959,6 +4823,15 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 345, impression 0, like 838, quote 14, reply 30, retweet 182
 
 > Over the past 6 months, I've had the pleasure of participating in 5 HackerOne Live Hacking events. It has been quite the challenge to my work-life balance and my hacking skills, but after ranking in the top 5 at every event, here are some lessons I've learned: 🧵
+
+
+### Thread part 2 — @Rhynorater — 2022-10-10 15:48 UTC (2022-10-10 16:48 WAT)
+
+- URL: https://x.com/Rhynorater/status/1579499223523155968
+- Metrics (at fetch): bookmark 2, impression 0, like 63, quote 1, reply 1, retweet 1
+
+> 1. Pick your portion
+> When a live hacking event kicks off, you will likely have just received a mission to hack an absolutely enormous amount of scope in a relatively small amount of time. Large scopes are hard to address in normal bug bounty, let alone in a competition.
 
 
 ---
@@ -5015,33 +4888,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-05-06 · Post · If there is a "possibility" of tracing the attacker then the bug loses .5 points. Like, what does th
-
-
-### Post — @Rhynorater — 2022-05-06 21:16 UTC (2022-05-06 22:16 WAT)
-
-- URL: https://x.com/Rhynorater/status/1522686708160110596
-- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
-
-> If there is a "possibility" of tracing the attacker then the bug loses .5 points. Like, what does this mean? The attacker can always use compromised accounts, TOR/VPNs, etc...
-
-
----
-
-## 2022-05-06 · Post · Bug doesn't result in bankruptcy for the company? Well then, must not be a crit...
-
-
-### Post — @Rhynorater — 2022-05-06 21:14 UTC (2022-05-06 22:14 WAT)
-
-- URL: https://x.com/Rhynorater/status/1522686261567311874
-- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
-
-> Bug doesn't result in bankruptcy for the company? Well then, must not be a crit...
-
-
----
-
-## 2022-05-06 · Post · CVSS gets a lot of hate, but TBH OWASP's Risk Rating Methodology is like 10x worse. If your bug requ
+## 2022-05-06 · Thread · CVSS gets a lot of hate, but TBH OWASP's Risk Rating Methodology is like 10x worse. If your bug requ
 
 
 ### Post — @Rhynorater — 2022-05-06 21:08 UTC (2022-05-06 22:08 WAT)
@@ -5050,6 +4897,22 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 2, impression 0, like 38, quote 0, reply 6, retweet 0
 
 > CVSS gets a lot of hate, but TBH OWASP's Risk Rating Methodology is like 10x worse. If your bug requires you to use Burp Suite, you lose a lot of points on your bug's severity. Nuts.
+
+
+### Thread part 2 — @Rhynorater — 2022-05-06 21:14 UTC (2022-05-06 22:14 WAT)
+
+- URL: https://x.com/Rhynorater/status/1522686261567311874
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Bug doesn't result in bankruptcy for the company? Well then, must not be a crit...
+
+
+### Thread part 3 — @Rhynorater — 2022-05-06 21:16 UTC (2022-05-06 22:16 WAT)
+
+- URL: https://x.com/Rhynorater/status/1522686708160110596
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> If there is a "possibility" of tracing the attacker then the bug loses .5 points. Like, what does this mean? The attacker can always use compromised accounts, TOR/VPNs, etc...
 
 
 ---
@@ -5083,36 +4946,10 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
-## 2021-12-11 · Post · @Hacker0x01 @Bugcrowd what are your thoughts on this? As a bug bounty hunter, I would love to see so
+## 2021-12-11 · Thread · As a full-time bug bounty hunter, my instinct with this log4j thing is to spin up some automation an
 
 
 Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
-
-
-### Post — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
-
-- URL: https://x.com/Rhynorater/status/1469474788255354884
-- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 4, retweet 0
-
-> @Hacker0x01 @Bugcrowd what are your thoughts on this? As a bug bounty hunter, I would love to see some sort of flag on a program's policy page that indicates whether or not they will pay for zero/one day vulns. I know this can be found in the policy from time to time, but 3/4
-
-
----
-
-## 2021-12-11 · Post · is that there are gonna be people that submit these RCEs to the teams too soon which results in them
-
-
-### Post — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
-
-- URL: https://x.com/Rhynorater/status/1469474787320037380
-- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 0
-
-> is that there are gonna be people that submit these RCEs to the teams too soon which results in them getting a informative/no-bounty resolved, but blocks the opportunity for a bounty in the future if that asset fell through the cracks of that team's asset management. 2/4
-
-
----
-
-## 2021-12-11 · Post · As a full-time bug bounty hunter, my instinct with this log4j thing is to spin up some automation an
 
 
 ### Post — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
@@ -5121,6 +4958,22 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 9, impression 0, like 132, quote 3, reply 7, retweet 7
 
 > As a full-time bug bounty hunter, my instinct with this log4j thing is to spin up some automation and report a ton of instances of this. However, the CVE just dropped, and a lot of teams don't wanna pay for CVEs that just dropped. Inevitably what is going to happen 1/4
+
+
+### Thread part 2 — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
+
+- URL: https://x.com/Rhynorater/status/1469474787320037380
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 0
+
+> is that there are gonna be people that submit these RCEs to the teams too soon which results in them getting a informative/no-bounty resolved, but blocks the opportunity for a bounty in the future if that asset fell through the cracks of that team's asset management. 2/4
+
+
+### Thread part 3 — @Rhynorater — 2021-12-11 01:11 UTC (2021-12-11 02:11 WAT)
+
+- URL: https://x.com/Rhynorater/status/1469474788255354884
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 4, retweet 0
+
+> @Hacker0x01 @Bugcrowd what are your thoughts on this? As a bug bounty hunter, I would love to see some sort of flag on a program's policy page that indicates whether or not they will pay for zero/one day vulns. I know this can be found in the policy from time to time, but 3/4
 
 
 ---

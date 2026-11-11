@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 187
+- Posts in this file: 198
 - Conversations/threads: 186
 - Oldest post captured: 2017-02-12
 - Newest post captured: 2026-11-11
@@ -67,23 +67,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-11-07 · Post · The second blog post is about an RCE on a hosting provider that allowed us (@sshell_, @xEHLE_) to st
-
-
-Tags (automatic): RCE
-
-
-### Post — @samwcyo — 2026-11-07 11:32 UTC (2026-11-07 12:32 WAT)
-
-- URL: https://x.com/samwcyo/status/2119030321505079440
-- Metrics (at fetch): bookmark 83, impression 5273, like 168, quote 0, reply 2, retweet 41
-
-> The second blog post is about an RCE on a hosting provider that allowed us (@sshell_, @xEHLE_) to steal the WARDOGS server binary, where we could grant unlimited XP and money to any player: https://t.co/SbckwrvyuQ
-
-
----
-
-## 2026-11-07 · Post · Had some time off of work and was finally able to release a few blog posts: the first is about an RC
+## 2026-11-07 · Thread · Had some time off of work and was finally able to release a few blog posts: the first is about an RC
 
 
 Tags (automatic): RCE
@@ -97,6 +81,14 @@ Tags (automatic): RCE
 > Had some time off of work and was finally able to release a few blog posts: the first is about an RCE on ForgeRock that allowed us (@infosec_au) to remotely send vehicle commands for two automakers using only a customer's name, email, or phone number: https://samcurry.net/forgerock
 
 **Links in post:** https://samcurry.net/forgerock
+
+
+### Thread part 2 — @samwcyo — 2026-11-07 11:32 UTC (2026-11-07 12:32 WAT)
+
+- URL: https://x.com/samwcyo/status/2119030321505079440
+- Metrics (at fetch): bookmark 83, impression 5273, like 168, quote 0, reply 2, retweet 41
+
+> The second blog post is about an RCE on a hosting provider that allowed us (@sshell_, @xEHLE_) to steal the WARDOGS server binary, where we could grant unlimited XP and money to any player: https://t.co/SbckwrvyuQ
 
 
 ---
@@ -571,7 +563,7 @@ Tags (automatic): Path normalization
 
 ---
 
-## 2024-06-03 · Post · New writeup:
+## 2024-06-03 · Thread · New writeup:
 
 
 ### Post — @samwcyo — 2024-06-03 05:27 UTC (2024-06-03 06:27 WAT)
@@ -586,6 +578,40 @@ Tags (automatic): Path normalization
 > https://t.co/VZbWEIF5I8
 >
 > Thanks for reading! Huge thanks to @blastbots, @bbuerhaus, @infosec_au, @d0nutptr, @iangcarroll, and everyone who reviewed the post beforehand.
+
+
+### Thread part 2 — @samwcyo — 2024-06-03 21:20 UTC (2024-06-03 22:20 WAT)
+
+- URL: https://x.com/samwcyo/status/1797740125910143313
+- Metrics (at fetch): bookmark 17, impression 7015, like 56, quote 0, reply 7, retweet 2
+
+> Oddly enough, a security researcher living in Bahrain is observing the same behavior! All of their HTTP requests are being replayed by a random DigitalOcean IP.
+>
+> To test if you might be affected, search for DigitalOcean in the "Extended Test" linked here: https://t.co/5tC1dPNtOD https://t.co/OQiBbomLlH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPLYDoWXMAEzc0r.png — no alt text provided by author
+
+
+### Thread part 3 — @samwcyo — 2024-06-03 21:20 UTC (2024-06-03 22:20 WAT)
+
+- URL: https://x.com/samwcyo/status/1797740127814287367
+- Metrics (at fetch): bookmark 1, impression 4812, like 20, quote 0, reply 0, retweet 0
+
+> Note: the above test only checks for DNS leaks. If you do see DigitalOcean listed here then you can reach out and we can check if your HTTP requests are also being replayed. Lastly, HTTPS requests are also resent, but since they can't be decrypted they are hit at the web root.
+
+
+---
+
+## 2024-05-31 · Reply · @d0nutptr Yeah, I understand reasonably demonstrating impact via something like authenticating and c
+
+
+### Post — @samwcyo — 2024-05-31 23:46 UTC (2024-06-01 00:46 WAT)
+
+- URL: https://x.com/samwcyo/status/1796689777720180953
+- Metrics (at fetch): bookmark 0, impression 596, like 1, quote 0, reply 1, retweet 0
+
+> @d0nutptr Yeah, I understand reasonably demonstrating impact via something like authenticating and clicking "dashboard" to prove it's tied to the tenant account, but I'd expect many people would have trouble not treating it like any other website and trying to find bugs post auth.
 
 
 ---
@@ -1651,7 +1677,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2021-03-05 · Post · Sadly the Canvas "?courseAdmin=true" bug is fake, but there used to be a pretty neat XSS (which was 
+## 2021-03-05 · Thread · Sadly the Canvas "?courseAdmin=true" bug is fake, but there used to be a pretty neat XSS (which was 
 
 
 Tags (automatic): XSS
@@ -1682,9 +1708,19 @@ Tags (automatic): XSS
     
 
 
+### Thread part 2 — @samwcyo — 2021-03-05 22:46 UTC (2021-03-05 23:46 WAT)
+
+- URL: https://x.com/samwcyo/status/1367969895745478659
+- Metrics (at fetch): bookmark 2, impression 0, like 19, quote 0, reply 2, retweet 1
+
+> The "allowscriptaccess=always" basically let you load in an external SWF file which would give you same-site DOM access (shouts to @NahamSec for the trick).
+>
+> Canvas runs a program through "security@instructure.com" if you find anything while using their site.
+
+
 ---
 
-## 2021-02-11 · Post · New writeup:
+## 2021-02-11 · Thread · New writeup:
 
 
 ### Post — @samwcyo — 2021-02-11 11:21 UTC (2021-02-11 12:21 WAT)
@@ -1699,6 +1735,35 @@ Tags (automatic): XSS
 > Huge thanks to @sshell_ and @xEHLE_!
 >
 > https://t.co/Rhphw3GDiQ
+
+
+### Thread part 2 — @samwcyo — 2021-02-11 11:32 UTC (2021-02-11 12:32 WAT)
+
+- URL: https://x.com/samwcyo/status/1359827617264893952
+- Metrics (at fetch): bookmark 2, impression 0, like 20, quote 0, reply 1, retweet 0
+
+> This was a relatively simple bug but would've allowed an attacker to view/update/access anyone's account.
+>
+> The core issue was an API misconfiguration which confused the template returned for "user accessing own account" and "user accessing other person's account" in the API.
+
+
+### Thread part 3 — @samwcyo — 2021-02-11 11:32 UTC (2021-02-11 12:32 WAT)
+
+- URL: https://x.com/samwcyo/status/1359827618091171840
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 0
+
+> When you attempted to load your own data, the app would return extensive information including your email and session token. This was only meant to be seen by you, but there was a logic issue which disclosed this for any queried user account.
+
+
+### Thread part 4 — @samwcyo — 2021-02-11 11:32 UTC (2021-02-11 12:32 WAT)
+
+- URL: https://x.com/samwcyo/status/1359827620615970823
+- Metrics (at fetch): bookmark 2, impression 0, like 22, quote 0, reply 0, retweet 0
+
+> An attacker could take the session token and use it on "https://t.co/G45QH4RioI" to login to the customer facing site or simply dump an administrator session and login to the "https://t.co/XowUteFmIi" site for full access. https://t.co/McafUAR7tU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Et8T-AlXYAARvg2.jpg — no alt text provided by author
 
 
 ---
@@ -1744,7 +1809,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2020-12-10 · Post · The Red Bull argument seems to be "hackers should have full autonomy in what they choose to hack" ve
+## 2020-12-10 · Thread · The Red Bull argument seems to be "hackers should have full autonomy in what they choose to hack" ve
 
 
 ### Post — @samwcyo — 2020-12-10 05:26 UTC (2020-12-10 06:26 WAT)
@@ -1755,6 +1820,38 @@ Tags (automatic): IDOR / BOLA
 > The Red Bull argument seems to be "hackers should have full autonomy in what they choose to hack" versus "hackers are being taken advantage of by VDPs", but both of these things can be simultaneously true.
 >
 > I'd be willing to bet anyone who can find bugs on Red Bull could hack...
+
+
+### Thread part 2 — @samwcyo — 2020-12-10 05:26 UTC (2020-12-10 06:26 WAT)
+
+- URL: https://x.com/samwcyo/status/1336905126523625472
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 1, retweet 0
+
+> ...on nearly any private program and find at least 1 medium severity bug which could be used to pay for 25-50 crates of Red Bull.
+>
+> Hacking them is your choice (maybe you enjoy the wide scope) but by doing so you're saying "my time is worth this experience economically" and...
+
+
+### Thread part 3 — @samwcyo — 2020-12-10 05:26 UTC (2020-12-10 06:26 WAT)
+
+- URL: https://x.com/samwcyo/status/1336905127412846597
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 2, retweet 0
+
+> ...there's totally a chance that other programs catch wind of this and try their own spin-up version of the Red Bull program.
+>
+> Whether or not they can pull it off (a free trial of a CMS probably isn't as fun as physical pallets of energy drinks) is another question, but these...
+
+
+### Thread part 4 — @samwcyo — 2020-12-10 05:26 UTC (2020-12-10 06:26 WAT)
+
+- URL: https://x.com/samwcyo/status/1336905128260104193
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 3, retweet 0
+
+> ...are definitely interesting things to consider when thinking about this stuff.
+>
+> Their program will likely suffer in the future as (1) they will not maintain any high frequency hackers, and (2) the novelty of getting soda pallets will wear off _very_ quickly.
+>
+> Just my thoughts.
 
 
 ---
@@ -1795,7 +1892,7 @@ Tags (automatic): SQL injection, Auth bypass
 
 ---
 
-## 2020-11-28 · Post · Reminder: doing a bug bounty chess tournament tomorrow at 12:00 PM CT! All players welcome.
+## 2020-11-28 · Thread · Reminder: doing a bug bounty chess tournament tomorrow at 12:00 PM CT! All players welcome.
 
 
 ### Post — @samwcyo — 2020-11-28 06:27 UTC (2020-11-28 07:27 WAT)
@@ -1827,6 +1924,16 @@ Tags (automatic): SQL injection, Auth bypass
     **Media:**
     - photo: https://pbs.twimg.com/media/Enef0xVXUAkHKnq.jpg — no alt text provided by author
     
+
+
+### Thread part 2 — @samwcyo — 2020-11-28 06:27 UTC (2020-11-28 07:27 WAT)
+
+- URL: https://x.com/samwcyo/status/1332571719505223681
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> The tournament will also be hosted on https://t.co/UCZpFIOhMC who happens to have a security contact email (contact@lichess.org) if you happen to find a vulnerability in their open source platform.
+>
+> Best of luck to everyone. Nearly 100 players registered so far!
 
 
 ---

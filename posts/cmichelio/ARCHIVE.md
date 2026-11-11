@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 231
-- Conversations/threads: 207
+- Conversations/threads: 203
 - Oldest post captured: 2016-07-31
 - Newest post captured: 2026-11-10
 
@@ -133,20 +133,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-01 · Post · https://t.co/tod5aFpYf2
-
-
-### Post — @cmichelio — 2026-09-01 05:30 UTC (2026-09-01 06:30 WAT)
-
-- URL: https://x.com/cmichelio/status/2094659234323427792
-- Metrics (at fetch): bookmark 4, impression 1506, like 7, quote 0, reply 1, retweet 0
-
-> https://t.co/tod5aFpYf2
-
-
----
-
-## 2026-09-01 · Post · the AI thinking traces of the OpenAI x huggingface incident are completely insane:
+## 2026-09-01 · Thread · the AI thinking traces of the OpenAI x huggingface incident are completely insane:
 
 
 Tags (automatic): AI-assisted hunting
@@ -166,14 +153,22 @@ Tags (automatic): AI-assisted hunting
 > "We have [very large budget
 
 
+### Thread part 2 — @cmichelio — 2026-09-01 05:30 UTC (2026-09-01 06:30 WAT)
+
+- URL: https://x.com/cmichelio/status/2094659234323427792
+- Metrics (at fetch): bookmark 4, impression 1506, like 7, quote 0, reply 1, retweet 0
+
+> https://t.co/tod5aFpYf2
+
+
 ---
 
 ## 2026-08-15 · Reply · @deadrosesxyz Think about it like this: you are always invested in something. Your inaction just mea
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @deadrosesxyz — 2026-08-14 14:36 UTC (2026-08-14 15:36 WAT)
+#### Root post — @deadrosesxyz — 2026-08-14 14:36 UTC (2026-08-14 15:36 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/2088273623584780619
 - Metrics (at fetch): bookmark 32, impression 7833, like 120, quote 1, reply 11, retweet 4
@@ -463,20 +458,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-05 · Post · https://t.co/iKLyFk9hU7
-
-
-### Post — @cmichelio — 2026-01-05 01:49 UTC (2026-01-05 02:49 WAT)
-
-- URL: https://x.com/cmichelio/status/2007992778832462322
-- Metrics (at fetch): bookmark 2, impression 2296, like 5, quote 0, reply 0, retweet 1
-
-> https://t.co/iKLyFk9hU7
-
-
----
-
-## 2026-01-05 · Post · Prompts must be first-class optimization targets in your code, not just strings.
+## 2026-01-05 · Thread · Prompts must be first-class optimization targets in your code, not just strings.
 
 
 Tags (automatic): AI-assisted hunting
@@ -492,6 +474,14 @@ Tags (automatic): AI-assisted hunting
 > Unlike normal functions, LLM queries are:
 > 1. non-deterministic
 > 2. it's unclear what the best implementation (prompt &amp; context) is. it's an empirical, model‑dependent search problem (so you need to
+
+
+### Thread part 2 — @cmichelio — 2026-01-05 01:49 UTC (2026-01-05 02:49 WAT)
+
+- URL: https://x.com/cmichelio/status/2007992778832462322
+- Metrics (at fetch): bookmark 2, impression 2296, like 5, quote 0, reply 0, retweet 1
+
+> https://t.co/iKLyFk9hU7
 
 
 ---
@@ -556,20 +546,7 @@ Tags (automatic): Path normalization, AI-assisted hunting
 
 ---
 
-## 2025-11-05 · Post · @0xlawlol @TaikiMaeda2 timestamp 35:20 https://t.co/BNjfs5GlgH
-
-
-### Post — @cmichelio — 2025-11-05 03:14 UTC (2025-11-05 04:14 WAT)
-
-- URL: https://x.com/cmichelio/status/1985908597382135809
-- Metrics (at fetch): bookmark 15, impression 6580, like 28, quote 1, reply 0, retweet 0
-
-> @0xlawlol @TaikiMaeda2 timestamp 35:20 https://t.co/BNjfs5GlgH
-
-
----
-
-## 2025-11-05 · Post · the founder @0xlawlol openly admitted on the @TaikiMaeda2 podcast that their bug bounty strategy is 
+## 2025-11-05 · Thread · the founder @0xlawlol openly admitted on the @TaikiMaeda2 podcast that their bug bounty strategy is 
 
 
 ### Post — @cmichelio — 2025-11-05 03:14 UTC (2025-11-05 04:14 WAT)
@@ -603,6 +580,14 @@ Tags (automatic): Path normalization, AI-assisted hunting
     >
     > Our decision to retain Perkins Coie LLP reflects Stream’s unwavering commitment to transparency and robust corporate governance.
     
+
+
+### Thread part 2 — @cmichelio — 2025-11-05 03:14 UTC (2025-11-05 04:14 WAT)
+
+- URL: https://x.com/cmichelio/status/1985908597382135809
+- Metrics (at fetch): bookmark 15, impression 6580, like 28, quote 1, reply 0, retweet 0
+
+> @0xlawlol @TaikiMaeda2 timestamp 35:20 https://t.co/BNjfs5GlgH
 
 
 ---
@@ -840,20 +825,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2024-06-30 · Post · you need some ritual to snap out of this trance and regain focus. It serves the same purpose as the 
-
-
-### Post — @cmichelio — 2024-06-30 08:44 UTC (2024-06-30 09:44 WAT)
-
-- URL: https://x.com/cmichelio/status/1807334405469544587
-- Metrics (at fetch): bookmark 13, impression 4118, like 63, quote 1, reply 1, retweet 1
-
-> you need some ritual to snap out of this trance and regain focus. It serves the same purpose as the Japanese train drivers' "pointing and calling" technique. For me, it's reading the function name, stopping, and then thinking about how I'd implement this function.
-
-
----
-
-## 2024-06-30 · Post · the point is to get you actively thinking about how an implementation should look like, including al
+## 2024-06-30 · Thread · the point is to get you actively thinking about how an implementation should look like, including al
 
 
 ### Post — @cmichelio — 2024-06-30 08:35 UTC (2024-06-30 09:35 WAT)
@@ -864,6 +836,14 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > the point is to get you actively thinking about how an implementation should look like, including all edge cases. when simply reading through the existing code, one often gets into a trance of only verifying the written code but one misses code that should be there but isn't https://t.co/DlvYwteYUs
 
 **Quoted post** 1807323360398893109: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @cmichelio — 2024-06-30 08:44 UTC (2024-06-30 09:44 WAT)
+
+- URL: https://x.com/cmichelio/status/1807334405469544587
+- Metrics (at fetch): bookmark 13, impression 4118, like 63, quote 1, reply 1, retweet 1
+
+> you need some ritual to snap out of this trance and regain focus. It serves the same purpose as the Japanese train drivers' "pointing and calling" technique. For me, it's reading the function name, stopping, and then thinking about how I'd implement this function.
 
 
 ---

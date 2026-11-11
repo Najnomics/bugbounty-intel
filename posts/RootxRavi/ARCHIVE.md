@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 97
-- Conversations/threads: 97
+- Conversations/threads: 96
 - Oldest post captured: 2022-10-11
 - Newest post captured: 2026-10-31
 
@@ -132,9 +132,9 @@ Tags (automatic): Platform: HackerOne
 Tags (automatic): Platform: Bugcrowd
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @krishnsec — 2026-08-13 14:14 UTC (2026-08-13 15:14 WAT)
+#### Root post — @krishnsec — 2026-08-13 14:14 UTC (2026-08-13 15:14 WAT)
 
 - URL: https://x.com/krishnsec/status/2087905595471139144
 - Metrics (at fetch): bookmark 7, impression 5750, like 218, quote 1, reply 15, retweet 2
@@ -242,51 +242,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2026-08-05 · Reply · @krishnsec @Bugcrowd ☘️❤️ https://t.co/aXgNprqTUR
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-**Context — post being replied to:**
-
-#### Parent post — @krishnsec — 2026-08-05 13:22 UTC (2026-08-05 14:22 WAT)
-
-- URL: https://x.com/krishnsec/status/2084993480540164343
-- Metrics (at fetch): bookmark 0, impression 836, like 12, quote 0, reply 1, retweet 0
-
-> @RootxRavi @Bugcrowd big thanks to myself ❌ krishnsec ✅ anyways
-> Congratulations keep digging hard 
-> way to top 25 &gt;&gt;&gt;&gt;
-
-
-### Post — @RootxRavi — 2026-08-05 13:23 UTC (2026-08-05 14:23 WAT)
-
-- URL: https://x.com/RootxRavi/status/2084993762212889046
-- Metrics (at fetch): bookmark 0, impression 313, like 3, quote 0, reply 0, retweet 0
-
-> @krishnsec @Bugcrowd ☘️❤️ https://t.co/aXgNprqTUR
-
-
----
-
-## 2026-08-05 · Reply · @mdp_sec @Bugcrowd https://t.co/LfeNI3znrQ
-
-
-Tags (automatic): Platform: Bugcrowd
-
-
-### Post — @RootxRavi — 2026-08-05 13:20 UTC (2026-08-05 14:20 WAT)
-
-- URL: https://x.com/RootxRavi/status/2084993064360394770
-- Metrics (at fetch): bookmark 0, impression 163, like 1, quote 0, reply 0, retweet 0
-
-> @mdp_sec @Bugcrowd https://t.co/LfeNI3znrQ
-
-
----
-
-## 2026-08-05 · Post · Finally made it into the Top 100 on @Bugcrowd 
+## 2026-08-05 · Thread · Finally made it into the Top 100 on @Bugcrowd 
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -312,6 +268,30 @@ Tags (automatic): Platform: Bugcrowd
 - photo: https://pbs.twimg.com/media/HO9hJGQb0AATRik.png — no alt text provided by author
 
 **Links in post:** https://bugcrowd.com/h/RootxRavi
+
+
+### Thread part 2 — @RootxRavi — 2026-08-05 13:23 UTC (2026-08-05 14:23 WAT)
+
+- URL: https://x.com/RootxRavi/status/2084993762212889046
+- Metrics (at fetch): bookmark 0, impression 313, like 3, quote 0, reply 0, retweet 0
+
+> @krishnsec @Bugcrowd ☘️❤️ https://t.co/aXgNprqTUR
+
+
+---
+
+## 2026-08-05 · Reply · @mdp_sec @Bugcrowd https://t.co/LfeNI3znrQ
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2026-08-05 13:20 UTC (2026-08-05 14:20 WAT)
+
+- URL: https://x.com/RootxRavi/status/2084993064360394770
+- Metrics (at fetch): bookmark 0, impression 163, like 1, quote 0, reply 0, retweet 0
+
+> @mdp_sec @Bugcrowd https://t.co/LfeNI3znrQ
 
 
 ---
@@ -348,9 +328,9 @@ Tags (automatic): Platform: Bugcrowd
 Tags (automatic): Platform: Bugcrowd
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @krishnsec — 2026-08-04 13:28 UTC (2026-08-04 14:28 WAT)
+#### Root post — @krishnsec — 2026-08-04 13:28 UTC (2026-08-04 14:28 WAT)
 
 - URL: https://x.com/krishnsec/status/2084632582151602681
 - Metrics (at fetch): bookmark 5, impression 6162, like 215, quote 0, reply 13, retweet 3
@@ -396,9 +376,9 @@ Tags (automatic): Platform: Bugcrowd
 Tags (automatic): Platform: Bugcrowd
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @krishnsec — 2026-07-08 13:59 UTC (2026-07-08 14:59 WAT)
+#### Root post — @krishnsec — 2026-07-08 13:59 UTC (2026-07-08 14:59 WAT)
 
 - URL: https://x.com/krishnsec/status/2074855923466797181
 - Metrics (at fetch): bookmark 4, impression 5456, like 174, quote 0, reply 11, retweet 0
@@ -479,9 +459,9 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
 Tags (automatic): Platform: Bugcrowd
 
 
-**Context — post being replied to:**
+**Context — conversation root by another account:**
 
-#### Parent post — @krishnsec — 2026-06-07 11:04 UTC (2026-06-07 12:04 WAT)
+#### Root post — @krishnsec — 2026-06-07 11:04 UTC (2026-06-07 12:04 WAT)
 
 - URL: https://x.com/krishnsec/status/2063577840692629691
 - Metrics (at fetch): bookmark 9, impression 8872, like 270, quote 0, reply 14, retweet 0

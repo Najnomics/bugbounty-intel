@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 199
-- Conversations/threads: 184
+- Conversations/threads: 180
 - Oldest post captured: 2014-01-05
 - Newest post captured: 2026-11-05
 
@@ -695,20 +695,7 @@ Tags (automatic): Dependency confusion / supply chain
 
 ---
 
-## 2026-08-19 · Post · Blog post: https://t.co/pXog7cIhYP
-
-
-### Post — @0xacb — 2026-08-19 17:00 UTC (2026-08-19 18:00 WAT)
-
-- URL: https://x.com/0xacb/status/2090121709118525558
-- Metrics (at fetch): bookmark 4, impression 449, like 5, quote 0, reply 0, retweet 1
-
-> Blog post: https://t.co/pXog7cIhYP
-
-
----
-
-## 2026-08-19 · Post · The models that look bad solo aren't bad executors, they're usually bad planners for security work. 
+## 2026-08-19 · Thread · The models that look bad solo aren't bad executors, they're usually bad planners for security work. 
 
 
 Tags (automatic): AI-assisted hunting
@@ -722,6 +709,14 @@ Tags (automatic): AI-assisted hunting
 > The models that look bad solo aren't bad executors, they're usually bad planners for security work. Swap in Opus 5 as Strategizer and GPT 5.6 Terra jumps to ~86 cumulative F1 at 45% of the cost. https://t.co/dEuaZfc9lf
 
 **Quoted post** 2090075225333383476: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @0xacb — 2026-08-19 17:00 UTC (2026-08-19 18:00 WAT)
+
+- URL: https://x.com/0xacb/status/2090121709118525558
+- Metrics (at fetch): bookmark 4, impression 449, like 5, quote 0, reply 0, retweet 1
+
+> Blog post: https://t.co/pXog7cIhYP
 
 
 ---
@@ -766,27 +761,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-08-12 · Post · Most of the public AFW to RCE techniques assume cron, sshd, systemd, someone eventually logging in.
-
-
-Tags (automatic): RCE
-
-
-### Post — @0xacb — 2026-08-12 09:43 UTC (2026-08-12 10:43 WAT)
-
-- URL: https://x.com/0xacb/status/2087475039159357895
-- Metrics (at fetch): bookmark 0, impression 692, like 0, quote 0, reply 1, retweet 0
-
-> Most of the public AFW to RCE techniques assume cron, sshd, systemd, someone eventually logging in.
->
-> None of that exists in a stripped container, which came up in multiple bug bounty scenarios (path traversal write, zip slip, etc)
->
-> So we went looking for what was missing.
-
-
----
-
-## 2026-08-12 · Post · Got an arbitrary file write that got closed as medium? It shouldn't have been.
+## 2026-08-12 · Thread · Got an arbitrary file write that got closed as medium? It shouldn't have been.
 
 
 Tags (automatic): RCE
@@ -802,6 +777,18 @@ Tags (automatic): RCE
 > Most AFWs get downgraded because nobody could prove RCE 🥷
 >
 > Some research we've been doing for years just dropped! Write Once, Shell Everywhere: Turning Arbitrary File Writes into RCE - Our talk from
+
+
+### Thread part 2 — @0xacb — 2026-08-12 09:43 UTC (2026-08-12 10:43 WAT)
+
+- URL: https://x.com/0xacb/status/2087475039159357895
+- Metrics (at fetch): bookmark 0, impression 692, like 0, quote 0, reply 1, retweet 0
+
+> Most of the public AFW to RCE techniques assume cron, sshd, systemd, someone eventually logging in.
+>
+> None of that exists in a stripped container, which came up in multiple bug bounty scenarios (path traversal write, zip slip, etc)
+>
+> So we went looking for what was missing.
 
 
 ---
@@ -848,33 +835,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-07-29 · Post · @ryotkak @flatt_security CVE-2026-66066
-
-
-### Post — @0xacb — 2026-07-29 15:22 UTC (2026-07-29 16:22 WAT)
-
-- URL: https://x.com/0xacb/status/2082486952683556896
-- Metrics (at fetch): bookmark 2, impression 2679, like 6, quote 0, reply 1, retweet 0
-
-> @ryotkak @flatt_security CVE-2026-66066
-
-
----
-
-## 2026-07-29 · Post · Shout-out to @ryotkak and @flatt_security for also reporting this and helping coordinate the disclos
-
-
-### Post — @0xacb — 2026-07-29 15:13 UTC (2026-07-29 16:13 WAT)
-
-- URL: https://x.com/0xacb/status/2082484611536269560
-- Metrics (at fetch): bookmark 1, impression 3848, like 12, quote 0, reply 2, retweet 0
-
-> Shout-out to @ryotkak and @flatt_security for also reporting this and helping coordinate the disclosure.
-
-
----
-
-## 2026-07-29 · Post · 🚨We reported KindaRails2Shell, a critical RCE in Ruby on Rails via Active Storage.
+## 2026-07-29 · Thread · 🚨We reported KindaRails2Shell, a critical RCE in Ruby on Rails via Active Storage.
 
 
 Tags (automatic): RCE
@@ -892,6 +853,22 @@ Tags (automatic): RCE
 > Patch your applications now!
 >
 > https://t.co/Cj9XDk3qTN
+
+
+### Thread part 2 — @0xacb — 2026-07-29 15:13 UTC (2026-07-29 16:13 WAT)
+
+- URL: https://x.com/0xacb/status/2082484611536269560
+- Metrics (at fetch): bookmark 1, impression 3848, like 12, quote 0, reply 2, retweet 0
+
+> Shout-out to @ryotkak and @flatt_security for also reporting this and helping coordinate the disclosure.
+
+
+### Thread part 3 — @0xacb — 2026-07-29 15:22 UTC (2026-07-29 16:22 WAT)
+
+- URL: https://x.com/0xacb/status/2082486952683556896
+- Metrics (at fetch): bookmark 2, impression 2679, like 6, quote 0, reply 1, retweet 0
+
+> @ryotkak @flatt_security CVE-2026-66066
 
 
 ---

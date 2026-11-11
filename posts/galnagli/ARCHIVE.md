@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 235
-- Conversations/threads: 224
+- Posts in this file: 273
+- Conversations/threads: 210
 - Oldest post captured: 2020-07-24
 - Newest post captured: 2026-11-10
 
@@ -495,75 +495,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-10-20 · Post · This vulnerability was found as part of Scan For Good, where we helped hundreds of organizations ide
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @galnagli — 2026-10-20 15:59 UTC (2026-10-20 16:59 WAT)
-
-- URL: https://x.com/galnagli/status/2112574539552948468
-- Metrics (at fetch): bookmark 0, impression 800, like 3, quote 0, reply 0, retweet 0
-
-> This vulnerability was found as part of Scan For Good, where we helped hundreds of organizations identify and remediate critical exposures with the power of frontier ai, free of charge
->
-> As attackers are ramping up the usage of very capable open source models, we are trying to do https://t.co/T9mVkLj5gi
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HVFfQD0XMAA5RP5.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HVFfS_GXEAANwcs.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HVFfVDjXQAAocpG.jpg — no alt text provided by author
-
-
----
-
-## 2026-10-20 · Post · Read more on our disclosed report:
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @galnagli — 2026-10-20 15:52 UTC (2026-10-20 16:52 WAT)
-
-- URL: https://x.com/galnagli/status/2112572678934807012
-- Metrics (at fetch): bookmark 8, impression 1314, like 11, quote 0, reply 2, retweet 0
-
-> Read more on our disclosed report:
-> https://t.co/uJJdW0bOfq
->
-> And about Scan For Good:
-> https://t.co/5oAcvDKAib
->
-> We thank NASA for their cooperation and rapid remediation, and glad to help more organizations secure themselves using the power of frontier ai models.
-
-
----
-
-## 2026-10-20 · Post · The Mission AI Hub is a publicly facing portal, which seemed fully protected with Microsoft SSO
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @galnagli — 2026-10-20 15:52 UTC (2026-10-20 16:52 WAT)
-
-- URL: https://x.com/galnagli/status/2112572675650392277
-- Metrics (at fetch): bookmark 7, impression 1875, like 15, quote 0, reply 1, retweet 1
-
-> The Mission AI Hub is a publicly facing portal, which seemed fully protected with Microsoft SSO
->
-> A URL-normalization difference between the SSO reverse proxy and the application backend allowed to bypass authentication for example, /sso → /%73so. 
->
-> Using that, attackers could https://t.co/1DPCZXz5Wa
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HVFFwTDWQAAZrY9.jpg — no alt text provided by author
-
-
----
-
-## 2026-10-20 · Post · NASA had a flaw that could have allowed threat actors unauthorized access to their Mission AI Hub - 
+## 2026-10-20 · Thread · NASA had a flaw that could have allowed threat actors unauthorized access to their Mission AI Hub - 
 
 
 Tags (automatic): AI-assisted hunting
@@ -582,55 +514,53 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/HVFFjOwWwAAr04H.jpg — no alt text provided by author
 
 
----
+### Thread part 2 — @galnagli — 2026-10-20 15:52 UTC (2026-10-20 16:52 WAT)
 
-## 2026-10-15 · Post · Learn more about Scan For Good https://t.co/evxp5Az1Ni
+- URL: https://x.com/galnagli/status/2112572675650392277
+- Metrics (at fetch): bookmark 7, impression 1875, like 15, quote 0, reply 1, retweet 1
 
-
-### Post — @galnagli — 2026-10-15 19:28 UTC (2026-10-15 20:28 WAT)
-
-- URL: https://x.com/galnagli/status/2110815087435166056
-- Metrics (at fetch): bookmark 2, impression 1049, like 2, quote 0, reply 0, retweet 0
-
-> Learn more about Scan For Good https://t.co/evxp5Az1Ni
-
-**Quoted post (full text):**
-
-    #### Quoted post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
-    
-    - URL: https://x.com/galnagli/status/2103111505860497685
-    - Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
-    
-    > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
-    >
-    > We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. https://t.co/GnEGAg5Yss
-    
-    **Media:**
-    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HS--WuxWoAAQJ-D.jpg — no alt text provided by author
-    
-
-
----
-
-## 2026-10-13 · Post · Apply to the Fairwind program and learn more on Gemini 4 Argon without cyber guardrails 
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @galnagli — 2026-10-13 19:47 UTC (2026-10-13 20:47 WAT)
-
-- URL: https://x.com/galnagli/status/2110095027091210693
-- Metrics (at fetch): bookmark 5, impression 2639, like 10, quote 0, reply 1, retweet 0
-
-> Apply to the Fairwind program and learn more on Gemini 4 Argon without cyber guardrails 
+> The Mission AI Hub is a publicly facing portal, which seemed fully protected with Microsoft SSO
 >
-> https://t.co/NoAb0weGdw
+> A URL-normalization difference between the SSO reverse proxy and the application backend allowed to bypass authentication for example, /sso → /%73so. 
+>
+> Using that, attackers could https://t.co/1DPCZXz5Wa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVFFwTDWQAAZrY9.jpg — no alt text provided by author
+
+
+### Thread part 3 — @galnagli — 2026-10-20 15:52 UTC (2026-10-20 16:52 WAT)
+
+- URL: https://x.com/galnagli/status/2112572678934807012
+- Metrics (at fetch): bookmark 8, impression 1314, like 11, quote 0, reply 2, retweet 0
+
+> Read more on our disclosed report:
+> https://t.co/uJJdW0bOfq
+>
+> And about Scan For Good:
+> https://t.co/5oAcvDKAib
+>
+> We thank NASA for their cooperation and rapid remediation, and glad to help more organizations secure themselves using the power of frontier ai models.
+
+
+### Thread part 4 — @galnagli — 2026-10-20 15:59 UTC (2026-10-20 16:59 WAT)
+
+- URL: https://x.com/galnagli/status/2112574539552948468
+- Metrics (at fetch): bookmark 0, impression 800, like 3, quote 0, reply 0, retweet 0
+
+> This vulnerability was found as part of Scan For Good, where we helped hundreds of organizations identify and remediate critical exposures with the power of frontier ai, free of charge
+>
+> As attackers are ramping up the usage of very capable open source models, we are trying to do https://t.co/T9mVkLj5gi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVFfQD0XMAA5RP5.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HVFfS_GXEAANwcs.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HVFfVDjXQAAocpG.jpg — no alt text provided by author
 
 
 ---
 
-## 2026-10-13 · Post · Gemini 4 Argon has arrived! The era of super intelligence in cyber security has begun, excited to sh
+## 2026-10-13 · Thread · Gemini 4 Argon has arrived! The era of super intelligence in cyber security has begun, excited to sh
 
 
 Tags (automatic): AI-assisted hunting
@@ -646,6 +576,39 @@ Tags (automatic): AI-assisted hunting
 > https://t.co/exoWENGGz6
 >
 > https://t.co/pyD9JtEuLX
+
+
+### Thread part 2 — @galnagli — 2026-10-13 19:47 UTC (2026-10-13 20:47 WAT)
+
+- URL: https://x.com/galnagli/status/2110095027091210693
+- Metrics (at fetch): bookmark 5, impression 2639, like 10, quote 0, reply 1, retweet 0
+
+> Apply to the Fairwind program and learn more on Gemini 4 Argon without cyber guardrails 
+>
+> https://t.co/NoAb0weGdw
+
+
+### Thread part 3 — @galnagli — 2026-10-15 19:28 UTC (2026-10-15 20:28 WAT)
+
+- URL: https://x.com/galnagli/status/2110815087435166056
+- Metrics (at fetch): bookmark 2, impression 1049, like 2, quote 0, reply 0, retweet 0
+
+> Learn more about Scan For Good https://t.co/evxp5Az1Ni
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
+    
+    - URL: https://x.com/galnagli/status/2103111505860497685
+    - Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
+    
+    > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
+    >
+    > We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. [pic.x.com/GnEGAg5Yss]
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HS--WuxWoAAQJ-D.jpg — no alt text provided by author
+    
 
 
 ---
@@ -691,7 +654,7 @@ Tags (automatic): AI-assisted hunting
     
     > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
     >
-    > We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. https://t.co/GnEGAg5Yss
+    > We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. [pic.x.com/GnEGAg5Yss]
     
     **Media:**
     - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HS--WuxWoAAQJ-D.jpg — no alt text provided by author
@@ -718,88 +681,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-30 · Post · And @GoogleDeepMind have pretty cool offices 🪐 https://t.co/CbYkRQNBCX
-
-
-### Post — @galnagli — 2026-09-30 20:59 UTC (2026-09-30 21:59 WAT)
-
-- URL: https://x.com/galnagli/status/2105402113928884273
-- Metrics (at fetch): bookmark 1, impression 586, like 6, quote 0, reply 0, retweet 0
-
-> And @GoogleDeepMind have pretty cool offices 🪐 https://t.co/CbYkRQNBCX
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HTfkDeRXEAE54Y2.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HTfkDeUXcAEdMBT.jpg — no alt text provided by author
-
-
----
-
-## 2026-09-30 · Post · Excited to share more very soon, and for others to try our new model for cyber defense work
-
-
-### Post — @galnagli — 2026-09-30 20:34 UTC (2026-09-30 21:34 WAT)
-
-- URL: https://x.com/galnagli/status/2105395824372883858
-- Metrics (at fetch): bookmark 0, impression 726, like 6, quote 0, reply 1, retweet 0
-
-> Excited to share more very soon, and for others to try our new model for cyber defense work
->
-> https://t.co/Pnh4zxCvrO
-
-
----
-
-## 2026-09-30 · Post · In an early demonstration of its impact, the model uncovered a critical 0-day vulnerability exposing
-
-
-### Post — @galnagli — 2026-09-30 20:34 UTC (2026-09-30 21:34 WAT)
-
-- URL: https://x.com/galnagli/status/2105395822082818267
-- Metrics (at fetch): bookmark 0, impression 905, like 9, quote 1, reply 1, retweet 0
-
-> In an early demonstration of its impact, the model uncovered a critical 0-day vulnerability exposing sensitive personal information across healthcare software used by hospitals worldwide, identifying a severe risk that previous frontier models had missed. https://t.co/tIl1a9sYtN
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HTfeQX5WIAEmU8w.jpg — no alt text provided by author
-
-
----
-
-## 2026-09-30 · Post · We are already using Argon for cybersecurity defense through our Scan for Good initiative – a progra
-
-
-### Post — @galnagli — 2026-09-30 20:34 UTC (2026-09-30 21:34 WAT)
-
-- URL: https://x.com/galnagli/status/2105395817926529531
-- Metrics (at fetch): bookmark 1, impression 1744, like 13, quote 0, reply 1, retweet 0
-
-> We are already using Argon for cybersecurity defense through our Scan for Good initiative – a program dedicated to protecting critical public infrastructure for free by finding and remediating high-risk exposures.
->
-> https://t.co/pkuE7GhY2X https://t.co/u3YrwXClwB
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HTfeMFuXoAIQaN2.jpg — no alt text provided by author
-
-**Quoted post (full text):**
-
-    #### Quoted post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
-    
-    - URL: https://x.com/galnagli/status/2103111505860497685
-    - Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
-    
-    > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
-    >
-    > We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. https://t.co/GnEGAg5Yss
-    
-    **Media:**
-    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HS--WuxWoAAQJ-D.jpg — no alt text provided by author
-    
-
-
----
-
-## 2026-09-30 · Post · Gemini 4 Argon is the best model we used here at Wiz for Web Penetration Testing tasks, it shows Fro
+## 2026-09-30 · Thread · Gemini 4 Argon is the best model we used here at Wiz for Web Penetration Testing tasks, it shows Fro
 
 
 Tags (automatic): AI-assisted hunting
@@ -810,10 +692,75 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/galnagli/status/2105395814713512289
 - Metrics (at fetch): bookmark 33, impression 28217, like 124, quote 1, reply 3, retweet 7
 
-> Gemini 4 Argon is the best model we used here at Wiz for Web Penetration Testing tasks, it shows Frontier performances in short and long-horizon assessments - finding risks in web applications without access to their source code https://t.co/8YgZH3Y7EP
+> Gemini 4 Argon is the best model we used here at Wiz for Web Penetration Testing tasks, it shows Frontier performances in short and long-horizon assessments - finding risks in web applications without access to their source code [pic.x.com/8YgZH3Y7EP]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HTfd1TGXwAAWANq.jpg — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2026-09-30 20:34 UTC (2026-09-30 21:34 WAT)
+
+- URL: https://x.com/galnagli/status/2105395817926529531
+- Metrics (at fetch): bookmark 1, impression 1744, like 13, quote 0, reply 1, retweet 0
+
+> We are already using Argon for cybersecurity defense through our Scan for Good initiative – a program dedicated to protecting critical public infrastructure for free by finding and remediating high-risk exposures.
+>
+> https://x.com/galnagli/status/2103111505860497685 [pic.x.com/u3YrwXClwB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTfeMFuXoAIQaN2.jpg — no alt text provided by author
+
+**Links in post:** https://x.com/galnagli/status/2103111505860497685
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
+    
+    - URL: https://x.com/galnagli/status/2103111505860497685
+    - Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
+    
+    > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
+    >
+    > We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. [pic.x.com/GnEGAg5Yss]
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HS--WuxWoAAQJ-D.jpg — no alt text provided by author
+    
+
+
+### Thread part 3 — @galnagli — 2026-09-30 20:34 UTC (2026-09-30 21:34 WAT)
+
+- URL: https://x.com/galnagli/status/2105395822082818267
+- Metrics (at fetch): bookmark 0, impression 905, like 9, quote 1, reply 1, retweet 0
+
+> In an early demonstration of its impact, the model uncovered a critical 0-day vulnerability exposing sensitive personal information across healthcare software used by hospitals worldwide, identifying a severe risk that previous frontier models had missed. [pic.x.com/tIl1a9sYtN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTfeQX5WIAEmU8w.jpg — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2026-09-30 20:34 UTC (2026-09-30 21:34 WAT)
+
+- URL: https://x.com/galnagli/status/2105395824372883858
+- Metrics (at fetch): bookmark 0, impression 726, like 6, quote 0, reply 1, retweet 0
+
+> Excited to share more very soon, and for others to try our new model for cyber defense work
+>
+> https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+
+**Links in post:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+
+
+### Thread part 5 — @galnagli — 2026-09-30 20:59 UTC (2026-09-30 21:59 WAT)
+
+- URL: https://x.com/galnagli/status/2105402113928884273
+- Metrics (at fetch): bookmark 1, impression 586, like 6, quote 0, reply 0, retweet 0
+
+> And @GoogleDeepMind have pretty cool offices 🪐 [pic.x.com/CbYkRQNBCX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTfkDeRXEAE54Y2.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HTfkDeUXcAEdMBT.jpg — no alt text provided by author
 
 
 ---
@@ -834,76 +781,6 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-24 · Post · Scan for Good puts these capabilities to work for defenders protecting the services our communities 
-
-
-### Post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
-
-- URL: https://x.com/galnagli/status/2103111532905480540
-- Metrics (at fetch): bookmark 2, impression 601, like 8, quote 0, reply 0, retweet 0
-
-> Scan for Good puts these capabilities to work for defenders protecting the services our communities depend on.
->
-> We thank the DeepMind team for their collaboration, with a lot more to come 🤝
->
-> Read more -&gt; 
->
-> Announcement: https://t.co/OUApjLKlan
->
-> Website: https://t.co/5oAcvDKAib
-
-
----
-
-## 2026-09-24 · Post · We only test where explicitly authorized, vulnerability disclosure policy or by in-bound requests
-
-
-### Post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
-
-- URL: https://x.com/galnagli/status/2103111528937365967
-- Metrics (at fetch): bookmark 0, impression 471, like 6, quote 0, reply 1, retweet 0
-
-> We only test where explicitly authorized, vulnerability disclosure policy or by in-bound requests
->
-> Wiz Research validates each finding, with minimal, non-destructive testing and clear stopping points.
->
-> We disclose privately and work with affected teams on remediation. While https://t.co/LVbHTi8UTj
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HS_AVhuWcAA2J87.jpg — no alt text provided by author
-
-
----
-
-## 2026-09-24 · Post · These capabilities are already helping protect:
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
-
-- URL: https://x.com/galnagli/status/2103111523757330533
-- Metrics (at fetch): bookmark 0, impression 347, like 6, quote 0, reply 1, retweet 0
-
-> These capabilities are already helping protect:
->
-> - 8.8 million national archive files
-> - A hospital-wide mobile alert channel
-> - A public rail operator's administrative systems
-> - AI Training Data Platform private RL environments
->
-> We worked with the affected organizations to https://t.co/NYPwwej6i8
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HS-_0_rXcAAeRZB.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HS-_2yVXkAANhnR.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HS-_4i_XUAARJ0I.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HS_AA9PXEAAq0dq.jpg — no alt text provided by author
-
-
----
-
 ## 2026-09-24 · Thread · Today we're launching Scan for Good in partnership with @GoogleDeepMind.
 
 
@@ -917,7 +794,7 @@ Tags (automatic): AI-assisted hunting
 
 > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
 >
-> We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. https://t.co/GnEGAg5Yss
+> We're combining frontier AI with Wiz Research to help public services, critical infrastructure, healthcare, and nonprofits find and fix critical exposures. [pic.x.com/GnEGAg5Yss]
 
 **Media:**
 - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HS--WuxWoAAQJ-D.jpg — no alt text provided by author
@@ -968,6 +845,58 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/HS-_vIpXcAALDRL.jpg — no alt text provided by author
 
 
+### Thread part 5 — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
+
+- URL: https://x.com/galnagli/status/2103111523757330533
+- Metrics (at fetch): bookmark 0, impression 347, like 6, quote 0, reply 1, retweet 0
+
+> These capabilities are already helping protect:
+>
+> - 8.8 million national archive files
+> - A hospital-wide mobile alert channel
+> - A public rail operator's administrative systems
+> - AI Training Data Platform private RL environments
+>
+> We worked with the affected organizations to https://t.co/NYPwwej6i8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS-_0_rXcAAeRZB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HS-_2yVXkAANhnR.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HS-_4i_XUAARJ0I.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HS_AA9PXEAAq0dq.jpg — no alt text provided by author
+
+
+### Thread part 6 — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
+
+- URL: https://x.com/galnagli/status/2103111528937365967
+- Metrics (at fetch): bookmark 0, impression 471, like 6, quote 0, reply 1, retweet 0
+
+> We only test where explicitly authorized, vulnerability disclosure policy or by in-bound requests
+>
+> Wiz Research validates each finding, with minimal, non-destructive testing and clear stopping points.
+>
+> We disclose privately and work with affected teams on remediation. While https://t.co/LVbHTi8UTj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS_AVhuWcAA2J87.jpg — no alt text provided by author
+
+
+### Thread part 7 — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
+
+- URL: https://x.com/galnagli/status/2103111532905480540
+- Metrics (at fetch): bookmark 2, impression 601, like 8, quote 0, reply 0, retweet 0
+
+> Scan for Good puts these capabilities to work for defenders protecting the services our communities depend on.
+>
+> We thank the DeepMind team for their collaboration, with a lot more to come 🤝
+>
+> Read more -&gt; 
+>
+> Announcement: https://t.co/OUApjLKlan
+>
+> Website: https://t.co/5oAcvDKAib
+
+
 ---
 
 ## 2026-09-18 · Post · This is what hacking for good looks like, using the advanced reasoning capabilities of frontier mode
@@ -1006,7 +935,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-04 · Post · “Hijacked” -&gt; communicated on a public wiki that only needed GET requests to solve harmless train
+## 2026-09-04 · Thread · “Hijacked” -&gt; communicated on a public wiki that only needed GET requests to solve harmless train
 
 
 ### Post — @galnagli — 2026-09-04 16:21 UTC (2026-09-04 17:21 WAT)
@@ -1016,9 +945,19 @@ Tags (automatic): AI-assisted hunting
 
 > “Hijacked” -&gt; communicated on a public wiki that only needed GET requests to solve harmless training tasks
 >
-> Today’s models are capable of doing much much more cyber security wise, without any need of swarms - - only if responsible disclosure was easier 🤷 https://t.co/HCDaie8w8J
+> Today’s models are capable of doing much much more cyber security wise, without any need of swarms - - only if responsible disclosure was easier 🤷 https://twitter.com/Reuters/status/2095823526125252742
+
+**Links in post:** https://twitter.com/Reuters/status/2095823526125252742
 
 **Quoted post** 2095823526125252742: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @galnagli — 2026-09-04 16:22 UTC (2026-09-04 17:22 WAT)
+
+- URL: https://x.com/galnagli/status/2095910468502040643
+- Metrics (at fetch): bookmark 3, impression 1365, like 10, quote 0, reply 1, retweet 0
+
+> I’m pretty confident that if they were to tell Astra “find vulnerabilities” in those wikis - they would actually and literally hijack them 😅
 
 
 ---
@@ -1044,86 +983,10 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 ---
 
-## 2026-08-17 · Post · @wiz_io Small Clarification (H/T hackernews), I updated the blog to clarify that Copilot was a co-au
+## 2026-08-17 · Thread · Our AI attacker autonomously made its way into @Snowflake's internal Jira, accessing sensitive data 
 
 
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @galnagli — 2026-08-17 20:02 UTC (2026-08-17 21:02 WAT)
-
-- URL: https://x.com/galnagli/status/2089442792921559474
-- Metrics (at fetch): bookmark 0, impression 1096, like 9, quote 0, reply 0, retweet 0
-
-> @wiz_io Small Clarification (H/T hackernews), I updated the blog to clarify that Copilot was a co-author that checked the merged PR and code change, and identified it as all-clear without noticing the critical vulnerabilities, it's unclear whether the code-change was AI-Assisted https://t.co/UTxhSU5QMx
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HP8xBjYXAAAjcCN.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HP8xHPSXsAESt0B.jpg — no alt text provided by author
-
-
----
-
-## 2026-08-17 · Post · We are going to share more of these autonomous discoveries in-the-wild through follow-up blogs
-
-
-### Post — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
-
-- URL: https://x.com/galnagli/status/2089352565909581884
-- Metrics (at fetch): bookmark 10, impression 2307, like 25, quote 0, reply 1, retweet 3
-
-> We are going to share more of these autonomous discoveries in-the-wild through follow-up blogs
->
-> Full story and technical details at @wiz_io blog 
-> https://t.co/3zYLNPchSW👇
-
-
----
-
-## 2026-08-17 · Post · We reported this through Snowflake's HackerOne program. They patched it the same day, rotated the cr
-
-
-Tags (automatic): Platform: HackerOne
-
-
-### Post — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
-
-- URL: https://x.com/galnagli/status/2089352562562486463
-- Metrics (at fetch): bookmark 1, impression 1857, like 15, quote 0, reply 1, retweet 0
-
-> We reported this through Snowflake's HackerOne program. They patched it the same day, rotated the credential, and used audit logs to confirm Wiz was the only actor during the exposure window. https://t.co/UzBjzJciMl
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HP7beJ6WMAA9sKP.png — no alt text provided by author
-
-
----
-
-## 2026-08-17 · Post · Shortly after, our listener received the Jira credentials, and Red Agent authenticated as qa@snowfla
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
-
-- URL: https://x.com/galnagli/status/2089352556044595365
-- Metrics (at fetch): bookmark 1, impression 1593, like 7, quote 0, reply 1, retweet 0
-
-> Shortly after, our listener received the Jira credentials, and Red Agent authenticated as qa@snowflake.net.
->
-> The token had read access across engineering, security compliance and bug-bounty projects. The agent kept going and safely mapped the blast radius. https://t.co/5zECaz98eF
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HP7a6CAWkAAF6BN.jpg — no alt text provided by author
-
-
----
-
-## 2026-08-17 · Post · Our AI attacker autonomously made its way into @Snowflake's internal Jira, accessing sensitive data 
-
-
-Tags (automatic): AI-assisted hunting
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
 
 
 ### Post — @galnagli — 2026-08-17 14:03 UTC (2026-08-17 15:03 WAT)
@@ -1133,10 +996,119 @@ Tags (automatic): AI-assisted hunting
 
 > Our AI attacker autonomously made its way into @Snowflake's internal Jira, accessing sensitive data simply by opening a public GitHub issue with a crafted title.
 >
-> The flaw was introduced 5 days earlier by "Copilot Autofix powered by AI" 🪄 🧵 https://t.co/rux3rBiEQQ
+> The flaw was introduced 5 days earlier by "Copilot Autofix powered by AI" 🪄 🧵 [pic.x.com/rux3rBiEQQ]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HP7ZqvpXkAA_gp8.jpg — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2026-08-17 14:03 UTC (2026-08-17 15:03 WAT)
+
+- URL: https://x.com/galnagli/status/2089352541603586526
+- Metrics (at fetch): bookmark 1, impression 3060, like 14, quote 0, reply 1, retweet 0
+
+> We found this flaw during continuous, safely scoped dogfooding of @wiz_io Red Agent across public open-source repos.
+>
+> We didn't specifically point it at Snowflake, The agent identified a GitHub Actions workflow in their public .NET connector and started investigating on its own.
+
+
+### Thread part 3 — @galnagli — 2026-08-17 14:03 UTC (2026-08-17 15:03 WAT)
+
+- URL: https://x.com/galnagli/status/2089352544568926232
+- Metrics (at fetch): bookmark 2, impression 2322, like 13, quote 0, reply 1, retweet 0
+
+> The workflow triggered whenever anyone opened a GitHub issue, then dropped the issue title directly inside a Bash script that held Jira credentials.
+>
+> So I guess you can see where this is going :) [pic.x.com/uSVyfLv4Q4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7aJluWwAAPzBH.jpg — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352548360626301
+- Metrics (at fetch): bookmark 0, impression 1602, like 7, quote 0, reply 1, retweet 0
+
+> There was even an if: condition that looked like a sufficient protection to the AI that merged the risk.
+>
+> It checked github.event.pull_request.user.login - which is null on an issues event, making null != 'whitesource-for-github-com[bot]' → always true 🧙‍♂️ [pic.x.com/OAQzWBP8Kk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7aenfX0AA2Rv_.jpg — no alt text provided by author
+
+
+### Thread part 5 — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352552311632229
+- Metrics (at fetch): bookmark 0, impression 1463, like 9, quote 0, reply 1, retweet 0
+
+> All Red Agent (or anyone) had to do was open an issue with a title that broke out of the string and execute code. [pic.x.com/TIe65kBK8B]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7aqRbX0AAup4r.jpg — no alt text provided by author
+
+
+### Thread part 6 — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352556044595365
+- Metrics (at fetch): bookmark 1, impression 1593, like 7, quote 0, reply 1, retweet 0
+
+> Shortly after, our listener received the Jira credentials, and Red Agent authenticated as qa@snowflake.net.
+>
+> The token had read access across engineering, security compliance and bug-bounty projects. The agent kept going and safely mapped the blast radius. [pic.x.com/5zECaz98eF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7a6CAWkAAF6BN.jpg — no alt text provided by author
+
+
+### Thread part 7 — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352559144149158
+- Metrics (at fetch): bookmark 3, impression 7403, like 22, quote 3, reply 2, retweet 3
+
+> Funny enough, we only realized after the fact that the vulnerable code was only 5 days old. 
+>
+> A commit co-authored by @github's Copilot "Autofix powered by AI" removed the safer env + jq implementation and replaced it with direct string interpolation. [pic.x.com/TEryEy8hq2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7bKOPWkAAAMr5.jpg — no alt text provided by author
+
+
+### Thread part 8 — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352562562486463
+- Metrics (at fetch): bookmark 1, impression 1857, like 15, quote 0, reply 1, retweet 0
+
+> We reported this through Snowflake's HackerOne program. They patched it the same day, rotated the credential, and used audit logs to confirm Wiz was the only actor during the exposure window. [pic.x.com/UzBjzJciMl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7beJ6WMAA9sKP.png — no alt text provided by author
+
+
+### Thread part 9 — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352565909581884
+- Metrics (at fetch): bookmark 10, impression 2307, like 25, quote 0, reply 1, retweet 3
+
+> We are going to share more of these autonomous discoveries in-the-wild through follow-up blogs
+>
+> Full story and technical details at @wiz_io blog 
+> https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug👇
+
+**Links in post:** https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
+
+
+### Thread part 10 — @galnagli — 2026-08-17 20:02 UTC (2026-08-17 21:02 WAT)
+
+- URL: https://x.com/galnagli/status/2089442792921559474
+- Metrics (at fetch): bookmark 0, impression 1096, like 9, quote 0, reply 0, retweet 0
+
+> @wiz_io Small Clarification (H/T hackernews), I updated the blog to clarify that Copilot was a co-author that checked the merged PR and code change, and identified it as all-clear without noticing the critical vulnerabilities, it's unclear whether the code-change was AI-Assisted [pic.x.com/UTxhSU5QMx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP8xBjYXAAAjcCN.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HP8xHPSXsAESt0B.jpg — no alt text provided by author
 
 
 ---
@@ -1178,25 +1150,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-18 · Post · We have a winner (truly pre-auth RCE)
-
-
-Tags (automatic): RCE
-
-
-### Post — @galnagli — 2026-07-18 17:59 UTC (2026-07-18 18:59 WAT)
-
-- URL: https://x.com/galnagli/status/2078540199613620298
-- Metrics (at fetch): bookmark 28, impression 2550, like 29, quote 0, reply 3, retweet 1
-
-> We have a winner (truly pre-auth RCE)
->
-> https://t.co/u7xsccGp75
-
-
----
-
-## 2026-07-17 · Post · Curious to see who will be the first "Mythos" level AI-Powered Code Scanning tool to reverse-enginee
+## 2026-07-17 · Thread · Curious to see who will be the first "Mythos" level AI-Powered Code Scanning tool to reverse-enginee
 
 
 Tags (automatic): RCE, AI-assisted hunting
@@ -1210,6 +1164,16 @@ Tags (automatic): RCE, AI-assisted hunting
 > Curious to see who will be the first "Mythos" level AI-Powered Code Scanning tool to reverse-engineer the Remote Code Execution and construct a valid POC🍿 https://t.co/Funo6VemEY
 
 **Quoted post** 2078191359307943981: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @galnagli — 2026-07-18 17:59 UTC (2026-07-18 18:59 WAT)
+
+- URL: https://x.com/galnagli/status/2078540199613620298
+- Metrics (at fetch): bookmark 28, impression 2550, like 29, quote 0, reply 3, retweet 1
+
+> We have a winner (truly pre-auth RCE)
+>
+> https://t.co/u7xsccGp75
 
 
 ---
@@ -1383,7 +1347,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-02-06 · Post · I was targeted by a popular X phishing campaign after my @moltbook discovery that tried to steal my 
+## 2026-02-06 · Thread · I was targeted by a popular X phishing campaign after my @moltbook discovery that tried to steal my 
+
+
+Tags (automatic): Account takeover, OAuth, AI-assisted hunting
 
 
 ### Post — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
@@ -1395,15 +1362,135 @@ Tags (automatic): AI-assisted hunting
 >
 > So I used @openclaw to investigate the attackers.  
 >
-> Here's what I found 🧵 https://t.co/NwqE42pAFE
+> Here's what I found 🧵 [pic.x.com/NwqE42pAFE]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HAdfGQVW8AAKR_O.jpg — no alt text provided by author
 
 
+### Thread part 2 — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
+
+- URL: https://x.com/galnagli/status/2019694013973160110
+- Metrics (at fetch): bookmark 3, impression 6279, like 25, quote 1, reply 4, retweet 1
+
+> TechCrunch reporter "Zoey Taggart" @ZoeyTaggart slid into my DMs wanting to schedule an interview about AI Agents research (generated from my Twitter bio) - it looked fake pretty quickly because the Podcast "she was part of" didn't have "her" name anywhere... [pic.x.com/j3jYFtjBdS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdfgTtXMAACVvd.jpg — no alt text provided by author
+
+
+### Thread part 3 — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
+
+- URL: https://x.com/galnagli/status/2019694018129719446
+- Metrics (at fetch): bookmark 3, impression 4938, like 21, quote 0, reply 1, retweet 1
+
+> It already fell super phishy to me so I set the stage for the follow-up message to see which attack vector they will choose to try on me [pic.x.com/F4ayb36H1C]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdf-m9XMAAZrSj.jpg — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
+
+- URL: https://x.com/galnagli/status/2019694022366027938
+- Metrics (at fetch): bookmark 3, impression 3800, like 19, quote 0, reply 1, retweet 0
+
+> When I woke up this morning the phishing link arrived : )
+>
+> "Hey Nagli, appreciate you getting back to me. Would love to setup a meeting with my team onboard so we can brief you on what we had in mind and see if it piques your interest.
+>
+> Link: calendly.techcrunchpartners[.]net" [pic.x.com/NxCc8YQirC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdgFRYXQAI6qcJ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HAdgPVpW4AEdWyI.jpg — no alt text provided by author
+
+
+### Thread part 5 — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
+
+- URL: https://x.com/galnagli/status/2019694026694242778
+- Metrics (at fetch): bookmark 3, impression 5828, like 32, quote 1, reply 1, retweet 0
+
+> I let @iangcarroll's @openclaw macbook mini agent which is hosted on our shared discord channel do the research work for me
+>
+> Within minutes it: 
+> • Dumped the full HTML 
+> • Identified the malicious OAuth flow 
+> • Found the credential harvester domain 
+> • Pulled URLScan history 
+> • Traced domain registration
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdgpbeWkAEGqUj.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HAdguYYX0AARdVv.jpg — no alt text provided by author
+
+
+### Thread part 6 — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
+
+- URL: https://x.com/galnagli/status/2019694030507172176
+- Metrics (at fetch): bookmark 2, impression 4299, like 23, quote 1, reply 1, retweet 0
+
+> The popup on the fake page goes to tcoredirecting[.]com/tc2 - a credential harvester that's been active since November 2025 but has ZERO public reporting until now.  
+>
+> It steals your Twitter OAuth token, then redirects you to a real @Calendly link so you don't notice. [pic.x.com/IpHOBCDWf3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdhejlX0AA8Wb9.png — no alt text provided by author
+
+
+### Thread part 7 — @galnagli — 2026-02-06 08:45 UTC (2026-02-06 09:45 WAT)
+
+- URL: https://x.com/galnagli/status/2019694033879330989
+- Metrics (at fetch): bookmark 9, impression 7822, like 30, quote 1, reply 1, retweet 1
+
+> The attack flow is not new and has been documented before via media outlets
+>
+> Google TAG: https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/
+>
+> WIRED: https://www.wired.com/story/north-korea-hackers-target-cybersecurity-researchers/ 
+>
+> The Record: https://therecord.media/north-korea-hackers-impersonate-journalists-google
+
+**Links in post:** https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/, https://www.wired.com/story/north-korea-hackers-target-cybersecurity-researchers/, https://therecord.media/north-korea-hackers-impersonate-journalists-google
+
+
+### Thread part 8 — @galnagli — 2026-02-06 08:52 UTC (2026-02-06 09:52 WAT)
+
+- URL: https://x.com/galnagli/status/2019695570349355346
+- Metrics (at fetch): bookmark 5, impression 5535, like 31, quote 0, reply 1, retweet 0
+
+> Malicious Twitter App:
+>
+> - Name: Саlеndly Meetings (Cyrillic С and а)
+>
+> - ID: 2006162954413109252 -
+>
+> - Fake URL: `http://www.caIendar.caIendIy.com` (more homoglyphs - those are capital I's not lowercase L's
+>
+> - Permissions: Full account takeover (read+write) [pic.x.com/54lZ8Keg2R]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdmOVvXYAA4z7b.jpg — no alt text provided by author
+
+**Links in post:** http://www.caIendar.caIendIy.com
+
+
+### Thread part 9 — @galnagli — 2026-02-06 08:54 UTC (2026-02-06 09:54 WAT)
+
+- URL: https://x.com/galnagli/status/2019696239865217337
+- Metrics (at fetch): bookmark 6, impression 4739, like 48, quote 0, reply 6, retweet 1
+
+> This is a good example of where an AI assistant agent like @openclaw  can help - it can investigate these attacks quickly without me worrying about falling victim myself.
+>
+> Stay safe 🫡 [pic.x.com/txJUWSMLsY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAdm__3XcAAgaVi.jpg — no alt text provided by author
+
+
 ---
 
-## 2026-02-02 · Post · I gained complete access to @moltbook's database -The AI Agents Social Network - in under 3 minutes.
+## 2026-02-02 · Thread · I gained complete access to @moltbook's database -The AI Agents Social Network - in under 3 minutes.
 
 
 Tags (automatic): AI-assisted hunting
@@ -1424,6 +1511,348 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HAKVe4BWcAApD5E.jpg — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2026-02-02 15:07 UTC (2026-02-02 16:07 WAT)
+
+- URL: https://x.com/galnagli/status/2018340542845722733
+- Metrics (at fetch): bookmark 5, impression 29501, like 76, quote 1, reply 1, retweet 1
+
+> @moltbook The mega weekend hype about the platform got me curious to see how it worked, especially the following tweets from @karpathy and others calling it "genuinely the most incredible sci-fi takeoff-adjacent thing" 
+>
+> https://t.co/iIlIf3Oa77
+
+
+### Thread part 3 — @galnagli — 2026-02-02 15:09 UTC (2026-02-02 16:09 WAT)
+
+- URL: https://x.com/galnagli/status/2018340966613024847
+- Metrics (at fetch): bookmark 11, impression 20298, like 79, quote 0, reply 1, retweet 2
+
+> @moltbook @karpathy I set up @openclaw via telegram, signed up to @moltbook and already got super scared that my agent will post my keys over the platform - so I just took the API Keys from the credentials file on the machine and deleted my agent machine to experiment further https://t.co/D1td0eULlU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKWZj-XoAA_gtk.jpg — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2026-02-02 15:14 UTC (2026-02-02 16:14 WAT)
+
+- URL: https://x.com/galnagli/status/2018342377434358167
+- Metrics (at fetch): bookmark 0, impression 17360, like 69, quote 1, reply 1, retweet 1
+
+> @moltbook @karpathy @openclaw The platform was already mega heavily influenced by meme coins - hundreds of thousands of upvotes on several posts while only 13,000 agents were actually registered, and the whole comment feature was completely broken. https://t.co/tNIC4joEgn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKXr8VXYAAOPAo.jpg — no alt text provided by author
+
+
+### Thread part 5 — @galnagli — 2026-02-02 15:16 UTC (2026-02-02 16:16 WAT)
+
+- URL: https://x.com/galnagli/status/2018342881652572529
+- Metrics (at fetch): bookmark 17, impression 36346, like 125, quote 6, reply 2, retweet 6
+
+> @moltbook @karpathy @openclaw First thing I noticed - anyone can post a message. It's not really a complete AI-Agents "Social Network" - I just created an HTTP POST request and posted a manifesto of my own. No AI agent needed at all :) 
+>
+> https://t.co/2KStU7oF4Q https://t.co/IK2Tl4rV1n
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKYFsdWIAAe_KR.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-01-31 12:21 UTC (2026-01-31 13:21 WAT)
+    
+    - URL: https://x.com/galnagli/status/2017573842051334286
+    - Metrics (at fetch): bookmark 1970, impression 1717252, like 5440, quote 365, reply 362, retweet 587
+    
+    > You all do realize @moltbook is just REST-API and you can literally post anything you want there, just take the API Key and send the following request
+    >
+    > POST /api/v1/posts HTTP/1.1
+    > Host: https://t.co/2PjDA1ICrC
+    > Authorization: Bearer moltbook_sk_JC57sF4G-UR8cIP-MBPFF70Dii92FNkI https://t.co/DoaShrgz4G
+    
+    **Media:**
+    - media `3_2017573153988362240` (details not returned by the API)
+    - media `3_2017573573645172736` (details not returned by the API)
+    
+
+
+### Thread part 6 — @galnagli — 2026-02-02 15:20 UTC (2026-02-02 16:20 WAT)
+
+- URL: https://x.com/galnagli/status/2018343742277644465
+- Metrics (at fetch): bookmark 7, impression 15350, like 94, quote 2, reply 1, retweet 2
+
+> @moltbook @karpathy @openclaw Then I checked the registration feature - no rate limiting at all :-/ I signed up over 1 million agents and noticed they were all counted as authentic, even when not verified. I immediately notified the platform owner but it was already too late and caught traction. https://t.co/CmdX5fxvU0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-01-31 13:05 UTC (2026-01-31 14:05 WAT)
+    
+    - URL: https://x.com/galnagli/status/2017585025475092585
+    - Metrics (at fetch): bookmark 1126, impression 1239102, like 5157, quote 293, reply 355, retweet 507
+    
+    > The number of registered AI agents is also fake, there is no rate limiting on account creation, my @openclaw agent just registered 500,000 users on @moltbook - don’t trust all the media hype 🙂 https://t.co/uJNpovJjUa https://t.co/1vUSgzn8Cx
+    
+    **Media:**
+    - media `13_2017584922320326657` (details not returned by the API)
+    - media `3_2017584922303639552` (details not returned by the API)
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @galnagli — 2026-01-31 12:21 UTC (2026-01-31 13:21 WAT)
+        
+        - URL: https://x.com/galnagli/status/2017573842051334286
+        - Metrics (at fetch): bookmark 1970, impression 1717252, like 5440, quote 365, reply 362, retweet 587
+        
+        > You all do realize @moltbook is just REST-API and you can literally post anything you want there, just take the API Key and send the following request
+        >
+        > POST /api/v1/posts HTTP/1.1
+        > Host: https://t.co/2PjDA1ICrC
+        > Authorization: Bearer moltbook_sk_JC57sF4G-UR8cIP-MBPFF70Dii92FNkI https://t.co/DoaShrgz4G
+        
+        **Media:**
+        - media `3_2017573153988362240` (details not returned by the API)
+        - media `3_2017573573645172736` (details not returned by the API)
+        
+    
+
+
+### Thread part 7 — @galnagli — 2026-02-02 15:22 UTC (2026-02-02 16:22 WAT)
+
+- URL: https://x.com/galnagli/status/2018344386656960668
+- Metrics (at fetch): bookmark 0, impression 15302, like 44, quote 0, reply 2, retweet 1
+
+> @moltbook @karpathy @openclaw Later on I saw some tweets about a new product launched on Moltbook for developers https://t.co/lZWmLYFjGW "Build Apps for AI Agents" - it allows you to sign up for their platform but requires Invite Code https://t.co/oBu2N1zm36
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKZe7WWcAA8WGs.jpg — no alt text provided by author
+
+
+### Thread part 8 — @galnagli — 2026-02-02 15:25 UTC (2026-02-02 16:25 WAT)
+
+- URL: https://x.com/galnagli/status/2018344957463920699
+- Metrics (at fetch): bookmark 9, impression 15287, like 104, quote 2, reply 4, retweet 1
+
+> @moltbook @karpathy @openclaw I tried signing up with an arbitrary code and received an error - however it's only on the frontend, so if you change "valid:false" to "valid:true" it would have gotten you inside the platform without needing to wait for approval https://t.co/ya4eTfdNBM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKZ2VmWcAAhciL.jpg — no alt text provided by author
+
+
+### Thread part 9 — @galnagli — 2026-02-02 15:27 UTC (2026-02-02 16:27 WAT)
+
+- URL: https://x.com/galnagli/status/2018345550270112017
+- Metrics (at fetch): bookmark 9, impression 14364, like 70, quote 0, reply 1, retweet 1
+
+> @moltbook @karpathy @openclaw This is when I realized the platform is using @supabase to manage all their databases - which is super easy to misconfigure when not set up carefully. https://t.co/Nktc5CTH74
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKaXRRX0AEmir_.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HAKak_oXMAArMqn.png — no alt text provided by author
+
+
+### Thread part 10 — @galnagli — 2026-02-02 15:28 UTC (2026-02-02 16:28 WAT)
+
+- URL: https://x.com/galnagli/status/2018345813374644388
+- Metrics (at fetch): bookmark 13, impression 14411, like 58, quote 1, reply 2, retweet 3
+
+> @moltbook @karpathy @openclaw @supabase I grabbed the API Key from the javascript frontend code and gave it to Claude Code to check if there is anything misconfigured, hoping to not find anything : ) https://t.co/4dGLG7IygR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKaypDXwAA-8vt.jpg — no alt text provided by author
+
+
+### Thread part 11 — @galnagli — 2026-02-02 15:31 UTC (2026-02-02 16:31 WAT)
+
+- URL: https://x.com/galnagli/status/2018346495221596572
+- Metrics (at fetch): bookmark 14, impression 14857, like 113, quote 4, reply 3, retweet 1
+
+> @moltbook @karpathy @openclaw @supabase It quickly found out that there is no Row Level Security at all, the database allows Complete read AND write access to everything. https://t.co/Vh20rfSTRx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKa8CUWIAADukm.jpg — no alt text provided by author
+
+
+### Thread part 12 — @galnagli — 2026-02-02 15:34 UTC (2026-02-02 16:34 WAT)
+
+- URL: https://x.com/galnagli/status/2018347277199266128
+- Metrics (at fetch): bookmark 2, impression 13877, like 78, quote 1, reply 4, retweet 1
+
+> @moltbook @karpathy @openclaw @supabase This included API keys of every agent on the platform, over 25,000 email addresses, private agent-to-agent DMs - some containing plaintext OpenAI API keys shared between agents. https://t.co/3yolr8AbZo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKcISVXAAAIIrF.jpg — no alt text provided by author
+
+
+### Thread part 13 — @galnagli — 2026-02-02 15:39 UTC (2026-02-02 16:39 WAT)
+
+- URL: https://x.com/galnagli/status/2018348567916576896
+- Metrics (at fetch): bookmark 5, impression 17676, like 66, quote 0, reply 2, retweet 3
+
+> @moltbook @karpathy @openclaw @supabase I posted a tweet looking for a contact and the platform owner reached out to me within minutes. This is where we started a series of fixes that spanned from 12AM to 3AM on Saturday night.
+>
+> https://t.co/yN4IyIKUWq https://t.co/8G55fHsUNx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKc937WUAAzfxO.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-01-31 21:58 UTC (2026-01-31 22:58 WAT)
+    
+    - URL: https://x.com/galnagli/status/2017719068766200289
+    - Metrics (at fetch): bookmark 423, impression 654625, like 1453, quote 159, reply 161, retweet 155
+    
+    > Moltbook is currently vulnerable to an attack which discloses the full information, including email address, login tokens and API Keys of the over 1.5 million registered users. If anyone can help me get in touch with anyone @moltbook it would be greatly appreciated. https://t.co/xepDh4Dtjn
+    
+    **Media:**
+    - media `3_2017716142249234432` (details not returned by the API)
+    - media `3_2017716218250031104` (details not returned by the API)
+    
+
+
+### Thread part 14 — @galnagli — 2026-02-02 15:41 UTC (2026-02-02 16:41 WAT)
+
+- URL: https://x.com/galnagli/status/2018348976240488457
+- Metrics (at fetch): bookmark 3, impression 12093, like 60, quote 0, reply 2, retweet 1
+
+> @moltbook @karpathy @openclaw @supabase It was simply me suggesting fixes based on @claudeai code and verifying if the exposure still persists over DM's
+>
+> After 2 rounds of fixes all sensitive tables on Moltbook were finally closed. https://t.co/g8tSiunMeh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKdnGJWMAAI7vc.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HAKdpMIXwAExN-c.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HAKdrsqWkAAcICz.jpg — no alt text provided by author
+
+
+### Thread part 15 — @galnagli — 2026-02-02 15:43 UTC (2026-02-02 16:43 WAT)
+
+- URL: https://x.com/galnagli/status/2018349559152316457
+- Metrics (at fetch): bookmark 5, impression 13139, like 55, quote 0, reply 1, retweet 1
+
+> @moltbook @karpathy @openclaw @supabase @claudeai Then I realized - write access could still available, and it was during my attempt - so I quickly reported it again and went on to verify the fix that came rather quickly this time https://t.co/0tFlNBQ1nK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKeIm1XkAAgPXV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HAKeNsKXkAAISvF.jpg — no alt text provided by author
+
+
+### Thread part 16 — @galnagli — 2026-02-02 15:44 UTC (2026-02-02 16:44 WAT)
+
+- URL: https://x.com/galnagli/status/2018349803948699955
+- Metrics (at fetch): bookmark 5, impression 11494, like 52, quote 1, reply 1, retweet 2
+
+> @moltbook @karpathy @openclaw @supabase @claudeai Finally, I asked Claude Code "Check carefully to verify that this vulnerability is completely fixed" - and it found that the tables of the developers product were still exposed and vulnerable [pic.x.com/7GhadFdlDC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKeX6mWsAEF8kl.jpg — no alt text provided by author
+
+
+### Thread part 17 — @galnagli — 2026-02-02 15:46 UTC (2026-02-02 16:46 WAT)
+
+- URL: https://x.com/galnagli/status/2018350264760017327
+- Metrics (at fetch): bookmark 3, impression 11059, like 50, quote 0, reply 2, retweet 1
+
+> @moltbook @karpathy @openclaw @supabase @claudeai One more fix and everything was finally locked down, including the Developers product. All sensitive data encountered during the research was also promptly deleted. [pic.x.com/ntyUBdsMS6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAKerfwWYAAgJiG.png — no alt text provided by author
+
+
+### Thread part 18 — @galnagli — 2026-02-02 15:47 UTC (2026-02-02 16:47 WAT)
+
+- URL: https://x.com/galnagli/status/2018350675386581310
+- Metrics (at fetch): bookmark 6, impression 14048, like 139, quote 1, reply 9, retweet 4
+
+> @moltbook @karpathy @openclaw @supabase @claudeai It's not the first time and probably won't be the last that we find vibe-coded apps with critical misconfigurations. It's an interesting time - these projects give us security people a lot of job security. It's super hard to launch fast and secure these kind of projects
+
+
+### Thread part 19 — @galnagli — 2026-02-02 15:50 UTC (2026-02-02 16:50 WAT)
+
+- URL: https://x.com/galnagli/status/2018351264484970917
+- Metrics (at fetch): bookmark 55, impression 14214, like 169, quote 3, reply 8, retweet 13
+
+> @moltbook @karpathy @openclaw @supabase @claudeai And that's all - stay safe!
+>
+> Full writeup on our blog 👉 https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys
+
+**Links in post:** https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys
+
+
+---
+
+## 2026-01-31 · Post · Moltbook is currently vulnerable to an attack which discloses the full information, including email 
+
+
+### Post — @galnagli — 2026-01-31 21:58 UTC (2026-01-31 22:58 WAT)
+
+- URL: https://x.com/galnagli/status/2017719068766200289
+- Metrics (at fetch): bookmark 423, impression 654625, like 1453, quote 159, reply 161, retweet 155
+
+> Moltbook is currently vulnerable to an attack which discloses the full information, including email address, login tokens and API Keys of the over 1.5 million registered users. If anyone can help me get in touch with anyone @moltbook it would be greatly appreciated. https://t.co/xepDh4Dtjn
+
+**Media:**
+- media `3_2017716142249234432` (details not returned by the API)
+- media `3_2017716218250031104` (details not returned by the API)
+
+
+---
+
+## 2026-01-31 · Post · The number of registered AI agents is also fake, there is no rate limiting on account creation, my @
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-01-31 13:05 UTC (2026-01-31 14:05 WAT)
+
+- URL: https://x.com/galnagli/status/2017585025475092585
+- Metrics (at fetch): bookmark 1126, impression 1239102, like 5157, quote 293, reply 355, retweet 507
+
+> The number of registered AI agents is also fake, there is no rate limiting on account creation, my @openclaw agent just registered 500,000 users on @moltbook - don’t trust all the media hype 🙂 https://t.co/uJNpovJjUa https://t.co/1vUSgzn8Cx
+
+**Media:**
+- media `13_2017584922320326657` (details not returned by the API)
+- media `3_2017584922303639552` (details not returned by the API)
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-01-31 12:21 UTC (2026-01-31 13:21 WAT)
+    
+    - URL: https://x.com/galnagli/status/2017573842051334286
+    - Metrics (at fetch): bookmark 1970, impression 1717252, like 5440, quote 365, reply 362, retweet 587
+    
+    > You all do realize @moltbook is just REST-API and you can literally post anything you want there, just take the API Key and send the following request
+    >
+    > POST /api/v1/posts HTTP/1.1
+    > Host: https://t.co/2PjDA1ICrC
+    > Authorization: Bearer moltbook_sk_JC57sF4G-UR8cIP-MBPFF70Dii92FNkI https://t.co/DoaShrgz4G
+    
+    **Media:**
+    - media `3_2017573153988362240` (details not returned by the API)
+    - media `3_2017573573645172736` (details not returned by the API)
+    
+
+
+---
+
+## 2026-01-31 · Post · You all do realize @moltbook is just REST-API and you can literally post anything you want there, ju
+
+
+### Post — @galnagli — 2026-01-31 12:21 UTC (2026-01-31 13:21 WAT)
+
+- URL: https://x.com/galnagli/status/2017573842051334286
+- Metrics (at fetch): bookmark 1970, impression 1717252, like 5440, quote 365, reply 362, retweet 587
+
+> You all do realize @moltbook is just REST-API and you can literally post anything you want there, just take the API Key and send the following request
+>
+> POST /api/v1/posts HTTP/1.1
+> Host: https://t.co/2PjDA1ICrC
+> Authorization: Bearer moltbook_sk_JC57sF4G-UR8cIP-MBPFF70Dii92FNkI https://t.co/DoaShrgz4G
+
+**Media:**
+- media `3_2017573153988362240` (details not returned by the API)
+- media `3_2017573573645172736` (details not returned by the API)
 
 
 ---
@@ -1580,7 +2009,7 @@ Tags (automatic): RCE, AI-assisted hunting
 
 ---
 
-## 2025-10-08 · Post · We just launched a $4.5m bug bounty live hacking event competition targeting the most popular cloud 
+## 2025-10-08 · Thread · We just launched a $4.5m bug bounty live hacking event competition targeting the most popular cloud 
 
 
 Tags (automatic): AI-assisted hunting
@@ -1595,6 +2024,37 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G2voH4mXAAA2Vuo.jpg — no alt text provided by author
+
+
+### Thread part 2 — @galnagli — 2025-10-08 14:37 UTC (2025-10-08 15:37 WAT)
+
+- URL: https://x.com/galnagli/status/1975933493973860596
+- Metrics (at fetch): bookmark 2, impression 1656, like 12, quote 0, reply 1, retweet 0
+
+> Almost every modern cloud &amp; ai company are utilizing @grafana , @Redisinc , Jenkins, @ApacheAirflow  for their operations, whether if its self-hosted on managed by the cloud provider.
+>
+> A single vulnerability in those, affects thousands of companies - or an entire cloud provider.
+
+
+### Thread part 3 — @galnagli — 2025-10-08 14:51 UTC (2025-10-08 15:51 WAT)
+
+- URL: https://x.com/galnagli/status/1975937074038767926
+- Metrics (at fetch): bookmark 8, impression 2400, like 16, quote 0, reply 2, retweet 1
+
+> @grafana @Redisinc @ApacheAirflow Personally, I made over $100,000 from critical vulnerabilities and misconfigurations that companies were affected through the open source products mentioned above. https://t.co/tL2dyvUglT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G2vwR5oWYAAy-Ch.jpg — no alt text provided by author
+
+
+### Thread part 4 — @galnagli — 2025-10-08 14:51 UTC (2025-10-08 15:51 WAT)
+
+- URL: https://x.com/galnagli/status/1975937151411114218
+- Metrics (at fetch): bookmark 2, impression 3603, like 9, quote 0, reply 0, retweet 1
+
+> @grafana @Redisinc @ApacheAirflow What's great is that these all are open source projects - so the whole code is visible to you, whether you are a world-class zero day researcher or an aspiring AI Agent
+>
+> Hack Open Source Software -&gt; Earn Cash -&gt; Wait for Official fix -&gt; Responsibly Disclose to affected companies
 
 
 ---
