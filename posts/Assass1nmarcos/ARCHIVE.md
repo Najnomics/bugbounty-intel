@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 36
-- Conversations/threads: 17
+- Posts in this file: 45
+- Conversations/threads: 26
 - Oldest post captured: 2026-03-30
 - Newest post captured: 2026-11-03
 
@@ -416,6 +416,41 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
+## 2026-10-08 · Post · I earned $9,500 for my submission on @bugcrowd ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-10-08 18:22 UTC (2026-10-08 19:22 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2108261684766990502
+- Metrics (at fetch): bookmark 12, impression 7034, like 197, quote 0, reply 14, retweet 3
+
+> I earned $9,500 for my submission on @bugcrowd #ItTakesACrowd
+
+
+---
+
+## 2026-10-06 · Post · I earned $3,000 for my submission on @bugcrowd ItTakesACrowd https://t.co/lRZ6GcKdiS
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-10-06 14:48 UTC (2026-10-06 15:48 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2107483176323215778
+- Metrics (at fetch): bookmark 42, impression 10725, like 313, quote 0, reply 17, retweet 5
+
+> I earned $3,000 for my submission on @bugcrowd #ItTakesACrowd https://t.co/lRZ6GcKdiS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HT9IxdGaUAAqv1p.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-10-06 · Reply · @parinda_02 @Bugcrowd Train your ai agent instead of traing you about the niche researches ( it's fa
 
 
@@ -432,6 +467,26 @@ Tags (automatic): AI-assisted hunting, Platform: Bugcrowd
 
 ---
 
+## 2026-10-05 · Post · I earned $10,000 for my submission on @bugcrowd ItTakesACrowd https://t.co/pCYGWBf87O
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-10-05 22:34 UTC (2026-10-05 23:34 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2107238126318137797
+- Metrics (at fetch): bookmark 73, impression 12282, like 350, quote 1, reply 18, retweet 11
+
+> I earned $10,000 for my submission on @bugcrowd #ItTakesACrowd https://t.co/pCYGWBf87O
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HT5p5PlawAAEqO-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HT5p5xqbIAAC17d.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-10-02 · Post · I earned $8,000 for my submission on @bugcrowd ItTakesACrowd
 
 
@@ -441,7 +496,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @Assass1nmarcos — 2026-10-02 17:06 UTC (2026-10-02 18:06 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2106068361662922971
-- Metrics (at fetch): bookmark 77, impression 22623, like 424, quote 1, reply 31, repost 11
+- Metrics (at fetch): bookmark 77, impression 22623, like 424, quote 1, reply 31, retweet 11
 
 > I earned $8,000 for my submission on @bugcrowd #ItTakesACrowd
 >
@@ -460,6 +515,25 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
+## 2026-10-02 · Post · I earned $3,000 for my submission on @bugcrowd ItTakesACrowd https://t.co/OrRTMAWuQB
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-10-02 11:08 UTC (2026-10-02 12:08 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2105978198643388604
+- Metrics (at fetch): bookmark 51, impression 12352, like 334, quote 0, reply 15, retweet 7
+
+> I earned $3,000 for my submission on @bugcrowd #ItTakesACrowd https://t.co/OrRTMAWuQB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTnwAjXaQAACzqh.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-10-01 · Post · Yay, I was awarded a $10,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherW
 
 
@@ -469,7 +543,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @Assass1nmarcos — 2026-10-01 21:14 UTC (2026-10-01 22:14 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2105768256917389365
-- Metrics (at fetch): bookmark 77, impression 22233, like 436, quote 1, reply 26, repost 9
+- Metrics (at fetch): bookmark 77, impression 22234, like 436, quote 1, reply 26, retweet 9
 
 > Yay, I was awarded a $10,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder 
 >
@@ -479,6 +553,106 @@ Tags (automatic): Platform: HackerOne
 - photo: https://pbs.twimg.com/media/HTkxEGhaAAIIBEx.jpg — no alt text provided by author
 
 **Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2026-09-30 · Post · I earned $2,500 for my submission on @bugcrowd ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-09-30 20:37 UTC (2026-09-30 21:37 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2105396745207460102
+- Metrics (at fetch): bookmark 6, impression 6431, like 100, quote 0, reply 4, retweet 0
+
+> I earned $2,500 for my submission on @bugcrowd #ItTakesACrowd
+
+
+---
+
+## 2026-09-30 · Post · I earned $8,000 for my submission on @bugcrowd ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-09-30 20:37 UTC (2026-09-30 21:37 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2105396660629381285
+- Metrics (at fetch): bookmark 11, impression 10921, like 182, quote 0, reply 11, retweet 7
+
+> I earned $8,000 for my submission on @bugcrowd #ItTakesACrowd
+
+
+---
+
+## 2026-09-22 · Post · I earned $20,000 for my submission on @bugcrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-09-22 20:01 UTC (2026-09-22 21:01 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2102488482400928227
+- Metrics (at fetch): bookmark 76, impression 18160, like 535, quote 0, reply 36, retweet 15
+
+> I earned $20,000 for my submission on @bugcrowd
+>  #ItTakesACrowd
+>
+> Thanks @ThisIsDK999   @_rajesh_ranjan_ https://t.co/8j8pERwcH8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS2Jl6_bwAA3Uhi.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-21 · Post · I earned $30,000 for my submission on @bugcrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-09-21 14:59 UTC (2026-09-21 15:59 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2102050046913151420
+- Metrics (at fetch): bookmark 133, impression 42861, like 694, quote 4, reply 45, retweet 23
+
+> I earned $30,000 for my submission on @bugcrowd
+>
+>  #ItTakesACrowd
+>
+> Thanks to @ThisIsDK999
+>   &amp; @_rajesh_ranjan_ https://t.co/I874KXV5bL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HSv7QYkb0AAEzoq.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-18 · Post · I earned $50,000 for my submission on @bugcrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-09-18 18:42 UTC (2026-09-18 19:42 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2101019054718988390
+- Metrics (at fetch): bookmark 292, impression 67701, like 1177, quote 6, reply 85, retweet 50
+
+> I earned $50,000 for my submission on @bugcrowd
+>  #ItTakesACrowd
+>
+> Thanks to @ThisIsDK999  &amp; @_rajesh_ranjan_ https://t.co/et5FNunqnT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HShROC1bYAAv-0M.jpg — no alt text provided by author
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 28
-- Conversations/threads: 25
-- Oldest post captured: 2026-01-26
+- Posts in this file: 111
+- Conversations/threads: 91
+- Oldest post captured: 2022-08-03
 - Newest post captured: 2026-07-30
 
 
@@ -52,7 +52,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @ryotkak — 2026-07-29 15:13 UTC (2026-07-29 16:13 WAT)
 
 - URL: https://x.com/ryotkak/status/2082484740494684250
-- Metrics (at fetch): bookmark 74, impression 99775, like 471, quote 4, reply 3, retweet 129
+- Metrics (at fetch): bookmark 74, impression 99776, like 471, quote 4, reply 3, retweet 129
 
 > Ruby on Railsに深刻な脆弱性を報告し、先程修正バージョンが公開されました。一般的な構成において、任意コード実行に繋がるものです。
 >
@@ -140,7 +140,7 @@ Tags (automatic): SQL injection
 ### Post — @ryotkak — 2026-07-17 23:17 UTC (2026-07-18 00:17 WAT)
 
 - URL: https://x.com/ryotkak/status/2078257717983236594
-- Metrics (at fetch): bookmark 76, impression 36741, like 225, quote 1, reply 3, retweet 62
+- Metrics (at fetch): bookmark 76, impression 36742, like 225, quote 1, reply 3, retweet 62
 
 > 【注意】WordPress本体において、未認証で任意コード実行に繋がる脆弱性が修正されています。
 >
@@ -193,7 +193,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @ryotkak — 2026-06-01 13:09 UTC (2026-06-01 14:09 WAT)
 
 - URL: https://x.com/ryotkak/status/2061434879309664575
-- Metrics (at fetch): bookmark 71, impression 42173, like 240, quote 2, reply 10, repost 24
+- Metrics (at fetch): bookmark 71, impression 42174, like 240, quote 2, reply 10, retweet 24
 
 > Claude Codeに対してサプライチェーン攻撃を行うことが可能だった脆弱性についての記事を公開しました！ https://twitter.com/flatt_security/status/2061434446390468913
 
@@ -268,7 +268,7 @@ Tags (automatic): Memory corruption / native
 ### Thread part 2 — @ryotkak — 2026-05-10 01:36 UTC (2026-05-10 02:36 WAT)
 
 - URL: https://x.com/ryotkak/status/2053288150756450485
-- Metrics (at fetch): bookmark 0, impression 4726, like 12, quote 0, reply 1, repost 0
+- Metrics (at fetch): bookmark 0, impression 4726, like 12, quote 0, reply 1, retweet 0
 
 > I haven't received a response yet. Could someone from ZDI please reach out to me? Even an unofficial confirmation of whether I can participate would help me decide whether to cancel my bookings.
 
@@ -464,3 +464,1431 @@ Tags (automatic): RCE
 > https://vercel.com/changelog/summary-of-cve-2026-23864
 
 **Links in post:** https://vercel.com/changelog/summary-of-cve-2026-23864
+
+
+---
+
+## 2026-01-14 · Post · 詳細についてはNode.js公式のセキュリティアドバイザリをご確認ください。
+
+
+### Post — @ryotkak — 2026-01-14 01:03 UTC (2026-01-14 02:03 WAT)
+
+- URL: https://x.com/ryotkak/status/2011242634568950108
+- Metrics (at fetch): bookmark 1, impression 6087, like 4, quote 0, reply 0, retweet 0
+
+> 詳細についてはNode.js公式のセキュリティアドバイザリをご確認ください。
+> (なお、本件について報告をしたのは私ではなく、別の方となります。)
+> https://t.co/JGSSzEQ0Nb
+
+
+---
+
+## 2026-01-14 · Post · 本日公開されたNode.js側のセキュリティリリースはReact / Next.js等、特定の条件を満たすフレームワークにデフォルトで影響するDoSの脆弱性修正を含みます。
+
+
+### Post — @ryotkak — 2026-01-14 01:00 UTC (2026-01-14 02:00 WAT)
+
+- URL: https://x.com/ryotkak/status/2011242089133273575
+- Metrics (at fetch): bookmark 16, impression 21165, like 70, quote 0, reply 1, retweet 9
+
+> 本日公開されたNode.js側のセキュリティリリースはReact / Next.js等、特定の条件を満たすフレームワークにデフォルトで影響するDoSの脆弱性修正を含みます。
+> React2Shell対応の際にフレームワーク更新している場合でも、Node.jsランタイムの更新が必要となりますので、影響範囲を再度ご確認ください。 https://t.co/X4RNDjQusa
+
+**Quoted post** 2011137343323865196: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-12 · Post · I wrote an article about 8 vulnerabilities in Claude Code that allowed me to bypass the permission m
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @ryotkak — 2026-01-12 17:10 UTC (2026-01-12 18:10 WAT)
+
+- URL: https://x.com/ryotkak/status/2010761406002627018
+- Metrics (at fetch): bookmark 78, impression 28954, like 251, quote 0, reply 7, retweet 32
+
+> I wrote an article about 8 vulnerabilities in Claude Code that allowed me to bypass the permission model and execute arbitrary commands! https://t.co/xi9EqlrMZT
+
+**Quoted post** 2010715968188862629: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-12 · Post · Please refer to Vercel's advisory for more details on which Next.js versions are affected:
+
+
+### Post — @ryotkak — 2025-12-12 07:49 UTC (2025-12-12 08:49 WAT)
+
+- URL: https://x.com/ryotkak/status/1999386202533929399
+- Metrics (at fetch): bookmark 4, impression 5706, like 12, quote 0, reply 1, retweet 0
+
+> Please refer to Vercel's advisory for more details on which Next.js versions are affected:
+> https://t.co/89qjR3yp3e
+
+
+---
+
+## 2025-12-12 · Post · 影響を受けるNext.jsバージョンの詳細については、Vercelの公式アドバイザリをご確認ください。
+
+
+### Post — @ryotkak — 2025-12-12 07:49 UTC (2025-12-12 08:49 WAT)
+
+- URL: https://x.com/ryotkak/status/1999386043980873881
+- Metrics (at fetch): bookmark 3, impression 5143, like 5, quote 0, reply 0, retweet 0
+
+> 影響を受けるNext.jsバージョンの詳細については、Vercelの公式アドバイザリをご確認ください。
+> https://t.co/89qjR3yp3e
+
+
+---
+
+## 2025-12-12 · Post · Note: this vulnerability affects Next.js 13.x or 14.x, which CVE-2025-55182 (React2Shell) didn't aff
+
+
+### Post — @ryotkak — 2025-12-12 04:18 UTC (2025-12-12 05:18 WAT)
+
+- URL: https://x.com/ryotkak/status/1999332971447484593
+- Metrics (at fetch): bookmark 24, impression 20398, like 95, quote 1, reply 4, retweet 12
+
+> Note: this vulnerability affects Next.js 13.x or 14.x, which CVE-2025-55182 (React2Shell) didn't affect, so I recommend to re-investigate the impacted assets again. https://t.co/WeiL6NkXwA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2025-12-11 22:18 UTC (2025-12-11 23:18 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1999242366776164450
+    - Metrics (at fetch): bookmark 53, impression 88027, like 412, quote 5, reply 11, retweet 35
+    
+    > I reported another vulnerability to React Server Components.
+    >
+    > Please note that while it still requires you to update, this one doesn't allow remote code execution. https://t.co/h5ZVqrWtK3
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+        
+        - URL: https://x.com/1566463268/status/1999217365628903739
+        - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
+        
+        > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
+        >
+        > These are new issues, separate from the critical CVE last week. The patch for React2Shell remains effective for the Remote Code Execution exploit.
+        
+    
+
+
+---
+
+## 2025-12-12 · Post · なお、本脆弱性は CVE-2025-55182 (React2Shell) において影響を受けなかったNext.js 13.xや14.x等も影響を受けるため、再度影響範囲の評価を実施することを推奨いた
+
+
+### Post — @ryotkak — 2025-12-12 04:15 UTC (2025-12-12 05:15 WAT)
+
+- URL: https://x.com/ryotkak/status/1999332319908524236
+- Metrics (at fetch): bookmark 62, impression 63289, like 322, quote 8, reply 1, retweet 92
+
+> なお、本脆弱性は CVE-2025-55182 (React2Shell) において影響を受けなかったNext.js 13.xや14.x等も影響を受けるため、再度影響範囲の評価を実施することを推奨いたします。
+>
+> https://t.co/UaBLBCAWMZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2025-12-11 22:20 UTC (2025-12-11 23:20 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1999242821640094115
+    - Metrics (at fetch): bookmark 79, impression 143527, like 509, quote 3, reply 1, retweet 111
+    
+    > React Server Componentsに別の脆弱性を報告しました。
+    >
+    > 依然として影響を受ける依存関係をアップデートする必要はありますが、今回の脆弱性は任意コード実行には繋がらないことに留意してください。 https://t.co/h5ZVqrWtK3
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+        
+        - URL: https://x.com/1566463268/status/1999217365628903739
+        - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
+        
+        > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
+        >
+        > These are new issues, separate from the critical CVE last week. The patch for React2Shell remains effective for the Remote Code Execution exploit.
+        
+    
+
+
+---
+
+## 2025-12-11 · Post · 脆弱性の詳細情報については公式ブログをご覧ください:
+
+
+### Post — @ryotkak — 2025-12-11 22:20 UTC (2025-12-11 23:20 WAT)
+
+- URL: https://x.com/ryotkak/status/1999242963839566103
+- Metrics (at fetch): bookmark 7, impression 9698, like 33, quote 0, reply 0, retweet 9
+
+> 脆弱性の詳細情報については公式ブログをご覧ください:
+>
+> https://t.co/4VCxwpIAyp
+
+
+---
+
+## 2025-12-11 · Post · React Server Componentsに別の脆弱性を報告しました。
+
+
+### Post — @ryotkak — 2025-12-11 22:20 UTC (2025-12-11 23:20 WAT)
+
+- URL: https://x.com/ryotkak/status/1999242821640094115
+- Metrics (at fetch): bookmark 79, impression 143527, like 509, quote 3, reply 1, retweet 111
+
+> React Server Componentsに別の脆弱性を報告しました。
+>
+> 依然として影響を受ける依存関係をアップデートする必要はありますが、今回の脆弱性は任意コード実行には繋がらないことに留意してください。 https://t.co/h5ZVqrWtK3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+    
+    - URL: https://x.com/1566463268/status/1999217365628903739
+    - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
+    
+    > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
+    >
+    > These are new issues, separate from the critical CVE last week. The patch for React2Shell remains effective for the Remote Code Execution exploit.
+    
+
+
+---
+
+## 2025-12-11 · Post · Please refer to the official information for the details of this vulnerability:
+
+
+### Post — @ryotkak — 2025-12-11 22:19 UTC (2025-12-11 23:19 WAT)
+
+- URL: https://x.com/ryotkak/status/1999242547416433006
+- Metrics (at fetch): bookmark 9, impression 7350, like 19, quote 0, reply 0, retweet 1
+
+> Please refer to the official information for the details of this vulnerability:
+>
+> https://t.co/4VCxwpIAyp
+
+
+---
+
+## 2025-12-11 · Post · I reported another vulnerability to React Server Components.
+
+
+Tags (automatic): RCE
+
+
+### Post — @ryotkak — 2025-12-11 22:18 UTC (2025-12-11 23:18 WAT)
+
+- URL: https://x.com/ryotkak/status/1999242366776164450
+- Metrics (at fetch): bookmark 53, impression 88027, like 412, quote 5, reply 11, retweet 35
+
+> I reported another vulnerability to React Server Components.
+>
+> Please note that while it still requires you to update, this one doesn't allow remote code execution. https://t.co/h5ZVqrWtK3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+    
+    - URL: https://x.com/1566463268/status/1999217365628903739
+    - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
+    
+    > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
+    >
+    > These are new issues, separate from the critical CVE last week. The patch for React2Shell remains effective for the Remote Code Execution exploit.
+    
+
+
+---
+
+## 2025-11-27 · Post · JPCERTコーディネーションセンター様より、脆弱性報告部門においてベストレポーター賞をいただきました！ https://twitter.com/jpcert/status/1993933857788
+
+
+### Post — @ryotkak — 2025-11-27 13:05 UTC (2025-11-27 14:05 WAT)
+
+- URL: https://x.com/ryotkak/status/1994029912236401141
+- Metrics (at fetch): bookmark 4, impression 15956, like 129, quote 2, reply 2, retweet 5
+
+> JPCERTコーディネーションセンター様より、脆弱性報告部門においてベストレポーター賞をいただきました！ https://twitter.com/jpcert/status/1993933857788514341
+
+**Links in post:** https://twitter.com/jpcert/status/1993933857788514341
+
+**Quoted post** 1993933857788514341: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-10-03 · Thread · I reported an arbitrary code execution in Unity Runtime, which affects all versions starting from Un
+
+
+Tags (automatic): RCE
+
+
+### Post — @ryotkak — 2025-10-03 04:20 UTC (2025-10-03 05:20 WAT)
+
+- URL: https://x.com/ryotkak/status/1973966245298163796
+- Metrics (at fetch): bookmark 103, impression 216412, like 432, quote 19, reply 15, retweet 117
+
+> I reported an arbitrary code execution in Unity Runtime, which affects all versions starting from Unity 2017.1. 
+>
+> As the vulnerability can be exploited without specific usage, I strongly encourage developers to patch.
+>
+> Technical details below:
+> https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/
+
+**Links in post:** https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/
+
+
+### Thread part 2 — @ryotkak — 2025-10-03 13:14 UTC (2025-10-03 14:14 WAT)
+
+- URL: https://x.com/ryotkak/status/1974100695193411713
+- Metrics (at fetch): bookmark 3, impression 10329, like 21, quote 0, reply 0, retweet 0
+
+> Note: The vulnerability exists in the runtime and isn't expected to affect projects with artifacts that don't use the runtime (e.g., VRChat avatars).
+>
+> I didn't investigate specific cases, so please use this information only as a reference when assessing the impact on your project
+
+
+---
+
+## 2025-10-03 · Thread · Unityのランタイムに任意コード実行の脆弱性を報告しました。
+
+
+### Post — @ryotkak — 2025-10-03 04:22 UTC (2025-10-03 05:22 WAT)
+
+- URL: https://x.com/ryotkak/status/1973966902709141997
+- Metrics (at fetch): bookmark 145, impression 173287, like 782, quote 26, reply 6, retweet 340
+
+> Unityのランタイムに任意コード実行の脆弱性を報告しました。
+> Unity 2017.1以降の全てのバージョンに影響し、プラットフォームによってはデフォルトの構成で影響を受けるため、即座の更新を推奨いたします。
+>
+> https://x.com/ryotkak/status/1973966245298163796
+
+**Links in post:** https://x.com/ryotkak/status/1973966245298163796
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2025-10-03 04:20 UTC (2025-10-03 05:20 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1973966245298163796
+    - Metrics (at fetch): bookmark 103, impression 216412, like 432, quote 19, reply 15, retweet 117
+    
+    > I reported an arbitrary code execution in Unity Runtime, which affects all versions starting from Unity 2017.1. 
+    >
+    > As the vulnerability can be exploited without specific usage, I strongly encourage developers to patch.
+    >
+    > Technical details below:
+    > https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/
+    
+    **Links in post:** https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/
+    
+
+
+### Thread part 2 — @ryotkak — 2025-10-03 13:08 UTC (2025-10-03 14:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1974099262544990503
+- Metrics (at fetch): bookmark 1, impression 14087, like 62, quote 3, reply 0, retweet 35
+
+> 補足: 本脆弱性はUnityのランタイムに存在するものであり、成果物がUnityのランタイムを使用しないプロジェクト (例: VRChatのアバターなど) については影響を受けないものと考えられます。
+>
+> (個別事例について確認したわけではございませんので、あくまで影響調査の際の参考情報としてご利用ください)
+
+
+---
+
+## 2025-08-27 · Post · Metaのバグバウンティイベントで優勝しました！
+
+
+### Post — @ryotkak — 2025-08-27 03:24 UTC (2025-08-27 04:24 WAT)
+
+- URL: https://x.com/ryotkak/status/1960544017525170262
+- Metrics (at fetch): bookmark 11, impression 33618, like 271, quote 2, reply 2, retweet 30
+
+> Metaのバグバウンティイベントで優勝しました！
+> https://x.com/flatt_security/status/1960542482510569738
+
+**Links in post:** https://x.com/flatt_security/status/1960542482510569738
+
+**Quoted post** 1960542482510569738: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-18 · Post · Got the Most Impact award at the Meta's Bug Bounty Researcher Conference in Tokyo!
+
+
+### Post — @ryotkak — 2025-05-18 14:08 UTC (2025-05-18 15:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1924104690150891590
+- Metrics (at fetch): bookmark 13, impression 29051, like 219, quote 2, reply 10, retweet 13
+
+> Got the Most Impact award at the Meta's Bug Bounty Researcher Conference in Tokyo!
+>
+> Thank you so much @metabugbounty team and everyone who attended the event!
+> #MBBRC2025 [pic.x.com/OsG9iXl8Wv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrPLBOpXsAAhqa9.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-05 · Thread · 🔔Challenge time!🔔
+
+
+### Post — @ryotkak — 2025-03-05 14:53 UTC (2025-03-05 15:53 WAT)
+
+- URL: https://x.com/ryotkak/status/1897299540598006249
+- Metrics (at fetch): bookmark 34, impression 13151, like 73, quote 1, reply 1, retweet 15
+
+> 🔔Challenge time!🔔
+>
+> I published one of my challenges from the SECCON CTF 13 Finals with a fix for the unintended solution! The goal for this challenge is to access the admin dashboard and get the flag.
+>
+> Can you solve it?
+>
+> https://not-that-short.pages.dev/ [pic.x.com/RqM6YUUc0o]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlSPyNcb0AEN1gb.jpg — no alt text provided by author
+
+**Links in post:** https://not-that-short.pages.dev/
+
+
+### Thread part 2 — @ryotkak — 2025-03-22 05:08 UTC (2025-03-22 06:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1903312716263284871
+- Metrics (at fetch): bookmark 1, impression 5775, like 11, quote 0, reply 1, retweet 2
+
+> .@frevadiscor89 has solved the challenge!
+>
+> As a hint, I've included the diff from the SECCON CTF 13 Finals version, which should give you an idea of where to start looking.
+>
+> I'm currently working on the author write-up for my challenges and plan to release it in a few weeks!
+
+
+### Thread part 3 — @ryotkak — 2025-04-14 15:08 UTC (2025-04-14 16:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1911798665204940932
+- Metrics (at fetch): bookmark 1, impression 5047, like 3, quote 0, reply 0, retweet 0
+
+> @frevadiscor89 I've published the author's writeup. While the article is written in Japanese, I've tweaked the layout a bit to make it translator-friendly, so you should be able to read it without hassle.
+> https://x.com/ryotkak/status/1911798191143747636
+
+**Links in post:** https://x.com/ryotkak/status/1911798191143747636
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2025-04-14 15:06 UTC (2025-04-14 16:06 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1911798191143747636
+    - Metrics (at fetch): bookmark 22, impression 12334, like 101, quote 1, reply 0, retweet 18
+    
+    > SECCON CTF 13 Finalsで出題した「super-fastcgi」と「not-that-short」に関しての作問者Writeupを公開しました。
+    > https://blog.ryotak.net/post/seccon-13-ctf-final-author-writeup/
+    
+    **Links in post:** https://blog.ryotak.net/post/seccon-13-ctf-final-author-writeup/
+    
+
+
+---
+
+## 2025-04-14 · Post · SECCON CTF 13 Finalsで出題した「super-fastcgi」と「not-that-short」に関しての作問者Writeupを公開しました。
+
+
+### Post — @ryotkak — 2025-04-14 15:06 UTC (2025-04-14 16:06 WAT)
+
+- URL: https://x.com/ryotkak/status/1911798191143747636
+- Metrics (at fetch): bookmark 22, impression 12334, like 101, quote 1, reply 0, retweet 18
+
+> SECCON CTF 13 Finalsで出題した「super-fastcgi」と「not-that-short」に関しての作問者Writeupを公開しました。
+> https://blog.ryotak.net/post/seccon-13-ctf-final-author-writeup/
+
+**Links in post:** https://blog.ryotak.net/post/seccon-13-ctf-final-author-writeup/
+
+
+---
+
+## 2025-04-03 · Thread · I recently reported a vulnerability to Next.js, which is a partial bypass of the middleware authenti
+
+
+Tags (automatic): Auth bypass, AI-assisted hunting
+
+
+### Post — @ryotkak — 2025-04-03 02:25 UTC (2025-04-03 03:25 WAT)
+
+- URL: https://x.com/ryotkak/status/1907620383597146616
+- Metrics (at fetch): bookmark 36, impression 10554, like 125, quote 0, reply 1, retweet 12
+
+> I recently reported a vulnerability to Next.js, which is a partial bypass of the middleware authentication bypass vulnerability (CVE-2025-29927) with Takumi (http://takumi-san.ai), an AI security engineer.
+
+**Links in post:** http://takumi-san.ai
+
+
+### Thread part 2 — @ryotkak — 2025-04-03 02:25 UTC (2025-04-03 03:25 WAT)
+
+- URL: https://x.com/ryotkak/status/1907620385245507930
+- Metrics (at fetch): bookmark 1, impression 4216, like 11, quote 0, reply 0, retweet 2
+
+> However, the requirement for this vulnerability to be exploitable is unlikely, which fairly reduces its impact. If your Next.js application fetches a third-party website server-side, I recommend upgrading to the latest version!  https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf
+
+**Links in post:** https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf
+
+
+---
+
+## 2025-03-15 · Post · P3NFEST 2025 Winterにて「コードから探す脆弱性」というテーマの発表をさせていただきました！
+
+
+### Post — @ryotkak — 2025-03-15 10:19 UTC (2025-03-15 11:19 WAT)
+
+- URL: https://x.com/ryotkak/status/1900854355244576982
+- Metrics (at fetch): bookmark 43, impression 12190, like 137, quote 1, reply 1, retweet 31
+
+> P3NFEST 2025 Winterにて「コードから探す脆弱性」というテーマの発表をさせていただきました！
+> ご聴講いただいた皆様、ありがとうございました！
+>
+> 発表に使用したスライドは以下のページで公開しています
+> https://ryotak.net/slides/?id=1
+>
+> #P3NFEST
+
+**Links in post:** https://ryotak.net/slides/?id=1
+
+
+---
+
+## 2025-03-02 · Post · SECCON CTF 13 Finalsにご参加頂いた皆様、ありがとうございました！Webカテゴリのsuper-fastcgiとnot-that-shortを作問していました。
+
+
+### Post — @ryotkak — 2025-03-02 14:01 UTC (2025-03-02 15:01 WAT)
+
+- URL: https://x.com/ryotkak/status/1896199116998447269
+- Metrics (at fetch): bookmark 0, impression 6372, like 70, quote 0, reply 0, retweet 3
+
+> SECCON CTF 13 Finalsにご参加頂いた皆様、ありがとうございました！Webカテゴリのsuper-fastcgiとnot-that-shortを作問していました。
+> not-that-shortについて、競技中に難易度が低下するミスを発見したため、リベンジとして来週中に修正版を公開する予定です。ぜひ奮ってご参加ください！ #SECCON
+
+
+---
+
+## 2025-02-10 · Post · 【お知らせ】
+
+
+### Post — @ryotkak — 2025-02-10 12:44 UTC (2025-02-10 13:44 WAT)
+
+- URL: https://x.com/ryotkak/status/1888931980064292896
+- Metrics (at fetch): bookmark 6, impression 9206, like 78, quote 1, reply 0, retweet 7
+
+> 【お知らせ】
+>
+> 3月15日に渋谷で開催されるP3NFESTにおいて、基調講演を行う並びとなりました！
+> ホワイトボックスによる脆弱性調査に必須である、コードの歩き方を解説します！
+>
+> https://x.com/kazzyokomizo/status/1888747412321395150
+
+**Links in post:** https://x.com/kazzyokomizo/status/1888747412321395150
+
+**Quoted post** 1888747412321395150: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-01-27 · Post · Git/GitHubに対して、認証情報の漏洩に繋がる複数の脆弱性を報告しました。
+
+
+### Post — @ryotkak — 2025-01-27 01:32 UTC (2025-01-27 02:32 WAT)
+
+- URL: https://x.com/ryotkak/status/1883689421750583600
+- Metrics (at fetch): bookmark 134, impression 123668, like 723, quote 3, reply 1, retweet 161
+
+> Git/GitHubに対して、認証情報の漏洩に繋がる複数の脆弱性を報告しました。
+> 既に修正版がリリースされているため、更新を推奨いたします！ https://twitter.com/flatt_security/status/1883682348727976314
+
+**Links in post:** https://twitter.com/flatt_security/status/1883682348727976314
+
+**Quoted post** 1883682348727976314: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-01-26 · Post · I published a blog post about six vulnerabilities in Git/GitHub-related projects. They all result in
+
+
+### Post — @ryotkak — 2025-01-26 15:01 UTC (2025-01-26 16:01 WAT)
+
+- URL: https://x.com/ryotkak/status/1883530673061003672
+- Metrics (at fetch): bookmark 45, impression 23316, like 173, quote 0, reply 1, retweet 30
+
+> I published a blog post about six vulnerabilities in Git/GitHub-related projects. They all result in credential leakage when cloning a malicious repository, so be sure to update the Git installation! https://twitter.com/flatt_sec_en/status/1883530053843292288
+
+**Links in post:** https://twitter.com/flatt_sec_en/status/1883530053843292288
+
+**Quoted post** 1883530053843292288: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-31 · Post · 皆様本年は大変お世話になりました。2025年も引き続き脆弱性調査等のセキュリティに関連した活動を行っていきますので、何卒よろしくお願いいたします。
+
+
+### Post — @ryotkak — 2024-12-31 14:50 UTC (2024-12-31 15:50 WAT)
+
+- URL: https://x.com/ryotkak/status/1874105732099895604
+- Metrics (at fetch): bookmark 0, impression 5311, like 68, quote 0, reply 0, retweet 0
+
+> 皆様本年は大変お世話になりました。2025年も引き続き脆弱性調査等のセキュリティに関連した活動を行っていきますので、何卒よろしくお願いいたします。
+> 良いお年をお迎えください！
+
+
+---
+
+## 2024-12-07 · Thread · OpenWrtのビルド用サーバーに脆弱性を報告しました。
+
+
+### Post — @ryotkak — 2024-12-07 09:40 UTC (2024-12-07 10:40 WAT)
+
+- URL: https://x.com/ryotkak/status/1865330507082518561
+- Metrics (at fetch): bookmark 5, impression 9242, like 64, quote 1, reply 1, retweet 21
+
+> OpenWrtのビルド用サーバーに脆弱性を報告しました。
+>
+> Attended sysupgrade、firmware-selector.openwrt[.]orgあるいはCLIからのアップグレードを過去に実施した場合、改ざんされたファームウェアが配信された可能性が完全には否定できないため、ファームウェアの再更新を推奨します。 (1/2)
+
+
+### Thread part 2 — @ryotkak — 2024-12-07 09:40 UTC (2024-12-07 10:40 WAT)
+
+- URL: https://x.com/ryotkak/status/1865330549440827668
+- Metrics (at fetch): bookmark 7, impression 4654, like 32, quote 0, reply 0, retweet 15
+
+> 技術的解説についてはこちらの記事をご確認ください。 https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/
+>
+> 公式からの発表はこちらをご覧ください。 http://lists.openwrt.org/pipermail/openwrt-announce/2024-December/000061.html (2/2)
+
+**Links in post:** https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/, http://lists.openwrt.org/pipermail/openwrt-announce/2024-December/000061.html
+
+
+---
+
+## 2024-12-07 · Thread · PSA
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @ryotkak — 2024-12-07 09:32 UTC (2024-12-07 10:32 WAT)
+
+- URL: https://x.com/ryotkak/status/1865328560342524196
+- Metrics (at fetch): bookmark 17, impression 7722, like 60, quote 0, reply 2, retweet 10
+
+> PSA
+> If you're using OpenWrt router and have used the Attended sysupgrade, firmware-selector.openwrt[.]org or CLI upgrade previously, I recommend you to re-flash your firmware
+>
+> Due to a security issue, it was possible to pollute the firmware images delivered to these tools (1/2)
+
+
+### Thread part 2 — @ryotkak — 2024-12-07 09:32 UTC (2024-12-07 10:32 WAT)
+
+- URL: https://x.com/ryotkak/status/1865328600024809938
+- Metrics (at fetch): bookmark 139, impression 32376, like 225, quote 5, reply 1, retweet 74
+
+> If you're interested in the technical details, I wrote the blog post here: https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/
+>
+> For the further details, please check out the announcement from the OpenWrt team: http://lists.openwrt.org/pipermail/openwrt-announce/2024-December/000061.html (2/2)
+
+**Links in post:** https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/, http://lists.openwrt.org/pipermail/openwrt-announce/2024-December/000061.html
+
+
+---
+
+## 2024-11-29 · Post · NECの法人向けルーターに脆弱性を報告しました。CVE-2024-11013についてはユーザーに悪意がなくてもコマンドインジェクションが成立するためご注意ください。
+
+
+### Post — @ryotkak — 2024-11-29 11:02 UTC (2024-11-29 12:02 WAT)
+
+- URL: https://x.com/ryotkak/status/1862451969304273020
+- Metrics (at fetch): bookmark 52, impression 36601, like 246, quote 7, reply 2, retweet 121
+
+> NECの法人向けルーターに脆弱性を報告しました。CVE-2024-11013についてはユーザーに悪意がなくてもコマンドインジェクションが成立するためご注意ください。
+>
+> また、一部EOL製品については更新が行われておりませんので、回避策の実施か後継製品への置換を推奨いたします！
+>
+> https://jpn.nec.com/security-info/secinfo/nv24-009.html
+
+**Links in post:** https://jpn.nec.com/security-info/secinfo/nv24-009.html
+
+
+---
+
+## 2024-08-29 · Post · 安売りされてた時に買ったAPに脆弱性を報告しました。公式ファームウェアを利用されている方は更新を推奨します！ https://twitter.com/elecom_pr/status/18289739
+
+
+### Post — @ryotkak — 2024-08-29 08:28 UTC (2024-08-29 09:28 WAT)
+
+- URL: https://x.com/ryotkak/status/1829073590085730739
+- Metrics (at fetch): bookmark 39, impression 52016, like 309, quote 3, reply 1, retweet 105
+
+> 安売りされてた時に買ったAPに脆弱性を報告しました。公式ファームウェアを利用されている方は更新を推奨します！ https://twitter.com/elecom_pr/status/1828973917131981199
+
+**Links in post:** https://twitter.com/elecom_pr/status/1828973917131981199
+
+**Quoted post** 1828973917131981199: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-08-02 · Thread · I recently developed and posted about a technique called "First sequence sync", expanding @albinowax
+
+
+Tags (automatic): Race condition
+
+
+### Post — @ryotkak — 2024-08-02 15:00 UTC (2024-08-02 16:00 WAT)
+
+- URL: https://x.com/ryotkak/status/1819387926247362961
+- Metrics (at fetch): bookmark 495, impression 123216, like 792, quote 17, reply 15, retweet 243
+
+> I recently developed and posted about a technique called "First sequence sync", expanding @albinowax's single packet attack.
+>
+> This technique allowed me to send 10,000 requests in 166ms, which breaks the packet size limitation of the single packet attack.
+>
+> https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/
+
+**Links in post:** https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/
+
+
+### Thread part 2 — @ryotkak — 2024-08-03 11:33 UTC (2024-08-03 12:33 WAT)
+
+- URL: https://x.com/ryotkak/status/1819698076665192836
+- Metrics (at fetch): bookmark 0, impression 253, like 1, quote 0, reply 1, retweet 0
+
+> @sw33tLie @0xteknogeek @albinowax So, even if we find the server that allows parallel processing of requests, it's unlikely to be much powerful as the techniques for HTTP/2
+
+
+---
+
+## 2024-07-01 · Post · OpenSSHの任意コード実行、発見者によると
+
+
+### Post — @ryotkak — 2024-07-01 12:37 UTC (2024-07-01 13:37 WAT)
+
+- URL: https://x.com/ryotkak/status/1807755450383028439
+- Metrics (at fetch): bookmark 314, impression 556901, like 1189, quote 41, reply 0, retweet 660
+
+> OpenSSHの任意コード実行、発見者によると
+>
+> 1. デフォルト設定で攻撃が可能
+> 2. 32bit環境においては任意コード実行が可能であることを確認済み
+> 3. 64bit環境においても時間をかければ任意コード実行が可能であると思われる
+>
+> ということで、早急に更新をした方が良さそうです！
+> https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt
+
+**Links in post:** https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt
+
+
+---
+
+## 2024-07-01 · Post · まだ手元では検証できていないんですが、OpenSSHにおけるRCEが見つかっているので各位ご確認を～
+
+
+### Post — @ryotkak — 2024-07-01 10:32 UTC (2024-07-01 11:32 WAT)
+
+- URL: https://x.com/ryotkak/status/1807723926107373603
+- Metrics (at fetch): bookmark 13, impression 16660, like 64, quote 0, reply 0, retweet 13
+
+> まだ手元では検証できていないんですが、OpenSSHにおけるRCEが見つかっているので各位ご確認を～
+> https://x.com/qualys/status/1807693619161133539
+
+**Links in post:** https://x.com/qualys/status/1807693619161133539
+
+**Quoted post** 1807693619161133539: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-06-24 · Post · 英語で投稿した記事を社内で日本語訳していただきました！ https://twitter.com/flatt_security/status/1805045005498962307
+
+
+### Post — @ryotkak — 2024-06-24 01:08 UTC (2024-06-24 02:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1805045257257779532
+- Metrics (at fetch): bookmark 7, impression 9080, like 32, quote 0, reply 0, retweet 1
+
+> 英語で投稿した記事を社内で日本語訳していただきました！ https://twitter.com/flatt_security/status/1805045005498962307
+
+**Links in post:** https://twitter.com/flatt_security/status/1805045005498962307
+
+**Quoted post** 1805045005498962307: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-04-28 · Post · Reproduced DOMPurify 3.1.0 bypass, but my payload requires two mutations. Has anyone managed to trig
+
+
+### Post — @ryotkak — 2024-04-28 10:14 UTC (2024-04-28 11:14 WAT)
+
+- URL: https://x.com/ryotkak/status/1784526620033974765
+- Metrics (at fetch): bookmark 34, impression 16880, like 114, quote 0, reply 9, retweet 2
+
+> Reproduced DOMPurify 3.1.0 bypass, but my payload requires two mutations. Has anyone managed to trigger it with a single mutation? [pic.x.com/QIy4C5OqtE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMPpgJCbgAAt977.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-10 · Post · I posted a blog regarding the vulnerabilities in the runtime of programming languages, including the
+
+
+### Post — @ryotkak — 2024-04-10 00:32 UTC (2024-04-10 01:32 WAT)
+
+- URL: https://x.com/ryotkak/status/1777857038170866133
+- Metrics (at fetch): bookmark 33, impression 54679, like 181, quote 4, reply 4, retweet 31
+
+> I posted a blog regarding the vulnerabilities in the runtime of programming languages, including the recent Rust's critical vulnerability. https://twitter.com/flatt_sec_en/status/1777853903054553441
+
+**Links in post:** https://twitter.com/flatt_sec_en/status/1777853903054553441
+
+**Quoted post** 1777853903054553441: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-04-02 · Post · HackerOneアンバサダークラブの日本部門アンバサダーになりました。
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ryotkak — 2024-04-02 10:01 UTC (2024-04-02 11:01 WAT)
+
+- URL: https://x.com/ryotkak/status/1775101176666861779
+- Metrics (at fetch): bookmark 13, impression 15459, like 116, quote 0, reply 4, retweet 10
+
+> HackerOneアンバサダークラブの日本部門アンバサダーになりました。
+> 日本におけるバグバウンティコミュニティはまだまだ小さいのが現状ですが、これから更に盛り上げていけるよう尽力します。
+>
+> また、日本在住のバグハンターの方でアンバサダークラブの会員になりたいという方はDM等でご一報ください。 https://twitter.com/Hacker0x01/status/1774912251561930775
+
+**Links in post:** https://twitter.com/Hacker0x01/status/1774912251561930775
+
+**Quoted post** 1774912251561930775: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-04-01 · Post · I posted about a bypass of a recent DOMPurify patch, which allowed DOMPurify bypass in certain cases
+
+
+### Post — @ryotkak — 2024-04-01 15:04 UTC (2024-04-01 16:04 WAT)
+
+- URL: https://x.com/ryotkak/status/1774814984306065788
+- Metrics (at fetch): bookmark 19, impression 12148, like 98, quote 0, reply 2, retweet 13
+
+> I posted about a bypass of a recent DOMPurify patch, which allowed DOMPurify bypass in certain cases.
+>
+> https://x.com/flatt_sec_en/status/1774814606852301138
+
+**Links in post:** https://x.com/flatt_sec_en/status/1774814606852301138
+
+**Quoted post** 1774814606852301138: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-03-21 · Post · 特定条件下で刺さるDOMPurifyのバイパスを報告しました。後日軽い解説記事を書くかもしれません https://twitter.com/cure53berlin/status/1770787676
+
+
+### Post — @ryotkak — 2024-03-21 12:44 UTC (2024-03-21 13:44 WAT)
+
+- URL: https://x.com/ryotkak/status/1770793606980260200
+- Metrics (at fetch): bookmark 5, impression 6662, like 59, quote 0, reply 1, retweet 1
+
+> 特定条件下で刺さるDOMPurifyのバイパスを報告しました。後日軽い解説記事を書くかもしれません https://twitter.com/cure53berlin/status/1770787676561535349
+
+**Links in post:** https://twitter.com/cure53berlin/status/1770787676561535349
+
+**Quoted post** 1770787676561535349: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-03-12 · Thread · Is anyone able to execute arbitrary JavaScript with the following snippets?
+
+
+### Post — @ryotkak — 2024-03-12 13:54 UTC (2024-03-12 14:54 WAT)
+
+- URL: https://x.com/ryotkak/status/1767549660431089813
+- Metrics (at fetch): bookmark 45, impression 15944, like 64, quote 0, reply 7, retweet 10
+
+> Is anyone able to execute arbitrary JavaScript with the following snippets?
+> This is a real-world problem that I encountered while hunting on the bug bounty program, so I'm happy to split the bounty if anyone finds the solution!
+>
+> Details: https://gist.github.com/Ry0taK/5ce7be0db9ef520a032698eda5e9fd65 [pic.x.com/PPAxhKvtMj]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIeWvhda0AEK29k.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/Ry0taK/5ce7be0db9ef520a032698eda5e9fd65
+
+
+### Thread part 2 — @ryotkak — 2024-03-13 00:46 UTC (2024-03-13 01:46 WAT)
+
+- URL: https://x.com/ryotkak/status/1767713698674597938
+- Metrics (at fetch): bookmark 0, impression 2732, like 1, quote 0, reply 1, retweet 0
+
+> I've updated the code snippet to include mode contexts, and added some more FAQs:
+> 1. The run function is used as a listener of the message event, so this function can be reached multiple times, and it'll discard the return value.
+> 2. obj will always be empty. [pic.x.com/SGWiwCCcLv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIgtRBraUAA6mCS.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-18 · Post · 確定申告が終わったことを記念して、確定申告をやる際に使用したワールドを公開しました(?)
+
+
+### Post — @ryotkak — 2024-02-18 08:12 UTC (2024-02-18 09:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1759128841480736987
+- Metrics (at fetch): bookmark 3, impression 5532, like 39, quote 0, reply 1, retweet 10
+
+> 確定申告が終わったことを記念して、確定申告をやる際に使用したワールドを公開しました(?)
+>
+> https://vrchat.com/home/world/wrld_0f0930f8-c5ac-4aaf-9f20-976243aec438
+>
+> 公開にあたってワールドデータを手直ししていただいた@ri4zn氏に改めて感謝申し上げます
+
+**Links in post:** https://vrchat.com/home/world/wrld_0f0930f8-c5ac-4aaf-9f20-976243aec438
+
+
+---
+
+## 2023-12-23 · Post · @joaxcar @cure53berlin @htmx_org Just to be clear, I believe it's not the responsibility of htmx or 
+
+
+### Post — @ryotkak — 2023-12-23 03:46 UTC (2023-12-23 04:46 WAT)
+
+- URL: https://x.com/ryotkak/status/1738405634540998702
+- Metrics (at fetch): bookmark 0, impression 386, like 2, quote 0, reply 1, retweet 0
+
+> @joaxcar @cure53berlin @htmx_org Just to be clear, I believe it's not the responsibility of htmx or DOMPurify to handle such cases, rather the responsibility of the user who combines these libraries
+
+
+---
+
+## 2023-12-23 · Post · Cloudflare Pages上の任意のページを改竄したり、Pagesで使用されているFunctionsのコードを読み取ったりすることが可能だった脆弱性についての話を公開しました
+
+
+### Post — @ryotkak — 2023-12-23 00:29 UTC (2023-12-23 01:29 WAT)
+
+- URL: https://x.com/ryotkak/status/1738356007515140395
+- Metrics (at fetch): bookmark 104, impression 52151, like 393, quote 4, reply 4, retweet 109
+
+> Cloudflare Pages上の任意のページを改竄したり、Pagesで使用されているFunctionsのコードを読み取ったりすることが可能だった脆弱性についての話を公開しました
+>
+> https://blog.ryotak.net/post/cloudflare-pages-privesc-and-page-tampering/
+
+**Links in post:** https://blog.ryotak.net/post/cloudflare-pages-privesc-and-page-tampering/
+
+
+---
+
+## 2023-10-06 · Thread · I made a small XSS Challenge!
+
+
+Tags (automatic): XSS, Memory corruption / native
+
+
+### Post — @ryotkak — 2023-10-06 13:50 UTC (2023-10-06 14:50 WAT)
+
+- URL: https://x.com/ryotkak/status/1710291366654181749
+- Metrics (at fetch): bookmark 111, impression 61542, like 235, quote 0, reply 8, retweet 39
+
+> I made a small XSS Challenge!
+>
+> Can you pop an alert on this page? (The intended solution should be hard!)
+>
+> Rules are included on the challenge page: https://ryotak-xss-challenge.pages.dev/ [pic.x.com/Xfdbij0iPC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7ws25vXQAArAhq.jpg — no alt text provided by author
+
+**Links in post:** https://ryotak-xss-challenge.pages.dev/
+
+
+### Thread part 2 — @ryotkak — 2023-10-07 00:04 UTC (2023-10-07 01:04 WAT)
+
+- URL: https://x.com/ryotkak/status/1710445886017515744
+- Metrics (at fetch): bookmark 0, impression 18586, like 17, quote 0, reply 1, retweet 2
+
+> Two solves so far!
+> Congratulations to @LiveOverflow and @stueotue for solving it!
+> There's no solves with the intended solution at this point, so I added notes about the intended solution
+
+
+### Thread part 3 — @ryotkak — 2023-10-08 13:35 UTC (2023-10-08 14:35 WAT)
+
+- URL: https://x.com/ryotkak/status/1711012407689245148
+- Metrics (at fetch): bookmark 0, impression 4700, like 1, quote 0, reply 2, retweet 0
+
+> I've made a change to the challenge page to reduce the difficulty.
+>
+> This challenge is now on https://ryotak-challenges.github.io/xss-chall-1/ and the URL of AngularJS script is changed.
+>
+> The reason for this change is to drop the HTTP/3 support. Nothing else including the contents of the script is changed
+
+**Links in post:** https://ryotak-challenges.github.io/xss-chall-1/
+
+
+### Thread part 4 — @ryotkak — 2023-10-29 03:08 UTC (2023-10-29 04:08 WAT)
+
+- URL: https://x.com/ryotkak/status/1718464730430619664
+- Metrics (at fetch): bookmark 2, impression 3553, like 5, quote 0, reply 0, retweet 0
+
+> The challenge is now over! The writeup is published here:
+> https://x.com/ryotkak/status/1718463660853801027
+
+**Links in post:** https://x.com/ryotkak/status/1718463660853801027
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ryotkak — 2023-10-29 03:03 UTC (2023-10-29 04:03 WAT)
+    
+    - URL: https://x.com/ryotkak/status/1718463660853801027
+    - Metrics (at fetch): bookmark 152, impression 66386, like 421, quote 5, reply 4, retweet 100
+    
+    > I published an article about the DOM-based race condition, which was the solution for the challenge that I posted 3 weeks ago.
+    > https://blog.ryotak.net/post/dom-based-race-condition/
+    
+    **Links in post:** https://blog.ryotak.net/post/dom-based-race-condition/
+    
+
+
+---
+
+## 2023-10-29 · Post · I published an article about the DOM-based race condition, which was the solution for the challenge 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @ryotkak — 2023-10-29 03:03 UTC (2023-10-29 04:03 WAT)
+
+- URL: https://x.com/ryotkak/status/1718463660853801027
+- Metrics (at fetch): bookmark 152, impression 66386, like 421, quote 5, reply 4, retweet 100
+
+> I published an article about the DOM-based race condition, which was the solution for the challenge that I posted 3 weeks ago.
+> https://blog.ryotak.net/post/dom-based-race-condition/
+
+**Links in post:** https://blog.ryotak.net/post/dom-based-race-condition/
+
+
+---
+
+## 2023-07-31 · Post · 書きました。GitHubに報告したSSRFの話です。 https://twitter.com/flatt_security/status/1685824554034421760
+
+
+### Post — @ryotkak — 2023-07-31 03:19 UTC (2023-07-31 04:19 WAT)
+
+- URL: https://x.com/ryotkak/status/1685852543308730368
+- Metrics (at fetch): bookmark 13, impression 32395, like 138, quote 0, reply 2, retweet 25
+
+> 書きました。GitHubに報告したSSRFの話です。 https://twitter.com/flatt_security/status/1685824554034421760
+
+**Links in post:** https://twitter.com/flatt_security/status/1685824554034421760
+
+**Quoted post** 1685824554034421760: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-07-18 · Post · 弊社(株式会社Flatt Security)と弊グループ(Japan HackerOne Club)が協賛するイベントを9月に開催します。ご参加お待ちしております！ https://twitter.c
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ryotkak — 2023-07-18 06:00 UTC (2023-07-18 07:00 WAT)
+
+- URL: https://x.com/ryotkak/status/1681182135842131968
+- Metrics (at fetch): bookmark 3, impression 12730, like 21, quote 0, reply 1, retweet 4
+
+> 弊社(株式会社Flatt Security)と弊グループ(Japan HackerOne Club)が協賛するイベントを9月に開催します。ご参加お待ちしております！ https://twitter.com/flatt_security/status/1681137830926618625
+
+**Links in post:** https://twitter.com/flatt_security/status/1681137830926618625
+
+**Quoted post** 1681137830926618625: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-07-07 · Post · やるらしいです https://twitter.com/flatt_security/status/1677125738359848960
+
+
+### Post — @ryotkak — 2023-07-07 01:29 UTC (2023-07-07 02:29 WAT)
+
+- URL: https://x.com/ryotkak/status/1677127620956401665
+- Metrics (at fetch): bookmark 5, impression 18684, like 59, quote 0, reply 1, retweet 7
+
+> やるらしいです https://twitter.com/flatt_security/status/1677125738359848960
+
+**Links in post:** https://twitter.com/flatt_security/status/1677125738359848960
+
+**Quoted post** 1677125738359848960: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-07-06 · Post · 試しにThreads始めてみました
+
+
+### Post — @ryotkak — 2023-07-06 00:23 UTC (2023-07-06 01:23 WAT)
+
+- URL: https://x.com/ryotkak/status/1676748558425526273
+- Metrics (at fetch): bookmark 0, impression 3071, like 4, quote 0, reply 0, retweet 1
+
+> 試しにThreads始めてみました
+> https://www.threads.net/@ryotkak
+
+**Links in post:** https://www.threads.net/@ryotkak
+
+
+---
+
+## 2023-06-29 · Post · 各位: 大腸炎になったので活動ペースをしばらく落とします。溜まっている連絡は順次返していきますが、急ぎであればTwitterのDMかDiscordで投げてください。
+
+
+### Post — @ryotkak — 2023-06-29 01:50 UTC (2023-06-29 02:50 WAT)
+
+- URL: https://x.com/ryotkak/status/1674233949177139205
+- Metrics (at fetch): bookmark 0, impression 5463, like 21, quote 0, reply 6, retweet 0
+
+> 各位: 大腸炎になったので活動ペースをしばらく落とします。溜まっている連絡は順次返していきますが、急ぎであればTwitterのDMかDiscordで投げてください。
+
+
+---
+
+## 2023-05-30 · Thread · Minecraftに報告していた脆弱性 (CVE-2023-33245) が最新のバージョンで修正されました。
+
+
+### Post — @ryotkak — 2023-05-30 08:32 UTC (2023-05-30 09:32 WAT)
+
+- URL: https://x.com/ryotkak/status/1663463319695683584
+- Metrics (at fetch): bookmark 6, impression 20922, like 99, quote 0, reply 1, retweet 17
+
+> Minecraftに報告していた脆弱性 (CVE-2023-33245) が最新のバージョンで修正されました。
+> シンボリックリンクを含むワールドデータを読み込んだ際に、任意のファイルに対して部分的にコントロール可能な内容を書き込むことが出来るというものです。 https://twitter.com/CVEnew/status/1663425110030598145
+
+**Links in post:** https://twitter.com/CVEnew/status/1663425110030598145
+
+**Quoted post** 1663425110030598145: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @ryotkak — 2023-05-30 08:33 UTC (2023-05-30 09:33 WAT)
+
+- URL: https://x.com/ryotkak/status/1663463644389322753
+- Metrics (at fetch): bookmark 1, impression 3092, like 7, quote 0, reply 0, retweet 0
+
+> 修正のバックポートはされなさそうなので、古いバージョンで信頼できないワールド (インターネット上からダウンロードし、解凍したものなど) を読み込む際はシンボリックリンクが含まれていないことを確認することを推奨します。
+> 公式サイトのヘルプページもご確認ください。
+> https://help.minecraft.net/hc/en-us/articles/16165590199181
+
+**Links in post:** https://help.minecraft.net/hc/en-us/articles/16165590199181
+
+
+---
+
+## 2023-04-22 · Thread · GitHubスタッフのアクセストークンを漏洩させることができた脆弱性に関して解説した記事を公開しました
+
+
+### Post — @ryotkak — 2023-04-22 06:49 UTC (2023-04-22 07:49 WAT)
+
+- URL: https://x.com/ryotkak/status/1649666796717506567
+- Metrics (at fetch): bookmark 84, impression 68490, like 380, quote 2, reply 4, retweet 86
+
+> GitHubスタッフのアクセストークンを漏洩させることができた脆弱性に関して解説した記事を公開しました
+>
+> https://blog.ryotak.net/post/github-actions-staff-access-token/
+
+**Links in post:** https://blog.ryotak.net/post/github-actions-staff-access-token/
+
+
+### Thread part 2 — @ryotkak — 2023-04-22 06:49 UTC (2023-04-22 07:49 WAT)
+
+- URL: https://x.com/ryotkak/status/1649666837406429185
+- Metrics (at fetch): bookmark 26, impression 10834, like 91, quote 1, reply 3, retweet 25
+
+> Published a write-up about the vulnerability which could expose the access token of GitHub Staff.
+>
+> https://blog.ryotak.net/post/github-actions-staff-access-token-en/
+
+**Links in post:** https://blog.ryotak.net/post/github-actions-staff-access-token-en/
+
+
+---
+
+## 2023-02-23 · Post · Security․Tokyoにご参加くださった方、ありがとうございました！ 
+
+
+### Post — @ryotkak — 2023-02-23 05:12 UTC (2023-02-23 06:12 WAT)
+
+- URL: https://x.com/ryotkak/status/1628623868209532929
+- Metrics (at fetch): bookmark 0, impression 5011, like 21, quote 0, reply 0, retweet 0
+
+> Security․Tokyoにご参加くださった方、ありがとうございました！ 
+> オフラインイベントに参加するのは2回目だったのですが、様々な方々と交流できて非常に楽しかったです
+
+
+---
+
+## 2023-02-07 · Post · ということで2月22日に六本木で勉強会イベントがあります！ 奮ってご参加ください(?)
+
+
+### Post — @ryotkak — 2023-02-07 01:14 UTC (2023-02-07 02:14 WAT)
+
+- URL: https://x.com/ryotkak/status/1622765810623324160
+- Metrics (at fetch): bookmark 3, impression 11012, like 35, quote 0, reply 0, retweet 9
+
+> ということで2月22日に六本木で勉強会イベントがあります！ 奮ってご参加ください(?)
+> https://x.com/flatt_security/status/1622520908907958272
+
+**Links in post:** https://x.com/flatt_security/status/1622520908907958272
+
+**Quoted post** 1622520908907958272: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-12-09 · Post · 非公開アカウント( @RyotaK_Private )を作りました。 今後重要ではないツイートに関してはこちらのアカウントでつぶやきます。
+
+
+### Post — @ryotkak — 2022-12-09 00:57 UTC (2022-12-09 01:57 WAT)
+
+- URL: https://x.com/ryotkak/status/1601018259825778689
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 1, reply 0, retweet 0
+
+> 非公開アカウント( @RyotaK_Private )を作りました。 今後重要ではないツイートに関してはこちらのアカウントでつぶやきます。
+
+
+---
+
+## 2022-11-18 · Post · BitBucketにRCEを報告しました。 (より正確には、BitBucketが使用しているライブラリに脆弱性を報告する際に提供した情報により、BitBucketに脆弱性が発見されました。)
+
+
+### Post — @ryotkak — 2022-11-18 00:48 UTC (2022-11-18 01:48 WAT)
+
+- URL: https://x.com/ryotkak/status/1593405814747766785
+- Metrics (at fetch): bookmark 6, impression 0, like 102, quote 1, reply 3, retweet 11
+
+> BitBucketにRCEを報告しました。 (より正確には、BitBucketが使用しているライブラリに脆弱性を報告する際に提供した情報により、BitBucketに脆弱性が発見されました。)
+> 対象のバージョンを使用している方は更新してください。 (技術的詳細はしばらくの間公開しません。)
+> https://confluence.atlassian.com/bitbucketserver/bitbucket-server-and-data-center-security-advisory-2022-11-16-1180141667.html
+
+**Links in post:** https://confluence.atlassian.com/bitbucketserver/bitbucket-server-and-data-center-security-advisory-2022-11-16-1180141667.html
+
+
+---
+
+## 2022-11-02 · Post · ところでOpenSSLとは全く関係ないんですが、Goに報告していた脆弱性が修正されました。Windowsにおいて環境変数の値が制御できる場合、別の環境変数を挿入できるという脆弱性です。 https:/
+
+
+### Post — @ryotkak — 2022-11-02 01:44 UTC (2022-11-02 02:44 WAT)
+
+- URL: https://x.com/ryotkak/status/1587621596180905984
+- Metrics (at fetch): bookmark 4, impression 0, like 107, quote 0, reply 2, retweet 17
+
+> ところでOpenSSLとは全く関係ないんですが、Goに報告していた脆弱性が修正されました。Windowsにおいて環境変数の値が制御できる場合、別の環境変数を挿入できるという脆弱性です。 https://twitter.com/golang/status/1587490110152773632
+
+**Links in post:** https://twitter.com/golang/status/1587490110152773632
+
+**Quoted post** 1587490110152773632: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-11-02 · Post · Datadogが出したOpenSSLの脆弱性に関する解説記事でPoCに使われてるPunycode、デコードすると「3年B組金八先生」になる... (なぜ？)
+
+
+### Post — @ryotkak — 2022-11-02 00:50 UTC (2022-11-02 01:50 WAT)
+
+- URL: https://x.com/ryotkak/status/1587608072952115200
+- Metrics (at fetch): bookmark 18, impression 0, like 376, quote 5, reply 2, retweet 124
+
+> Datadogが出したOpenSSLの脆弱性に関する解説記事でPoCに使われてるPunycode、デコードすると「3年B組金八先生」になる... (なぜ？)
+
+
+---
+
+## 2022-09-24 · Post · はい、ということでHackerOneのイベントであるH1-3493にオンラインで参加し(スペイン行きたかった...！)、Exterminator賞をいただきました。
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ryotkak — 2022-09-24 02:48 UTC (2022-09-24 03:48 WAT)
+
+- URL: https://x.com/ryotkak/status/1573504617362903040
+- Metrics (at fetch): bookmark 2, impression 0, like 104, quote 0, reply 13, retweet 2
+
+> はい、ということでHackerOneのイベントであるH1-3493にオンラインで参加し(スペイン行きたかった...！)、Exterminator賞をいただきました。
+> イベントの締めを見るために朝5時まで起きていたため、非常に眠いです... https://twitter.com/Hacker0x01/status/1573401562050953217
+
+**Links in post:** https://twitter.com/Hacker0x01/status/1573401562050953217
+
+**Quoted post** 1573401562050953217: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-08-09 · Post · Googleが落ちているため、後ろがGoogleのYahoo Japan!も落ちている
+
+
+### Post — @ryotkak — 2022-08-09 01:39 UTC (2022-08-09 02:39 WAT)
+
+- URL: https://x.com/ryotkak/status/1556817475257282560
+- Metrics (at fetch): bookmark 2, impression 0, like 59, quote 1, reply 1, retweet 4
+
+> Googleが落ちているため、後ろがGoogleのYahoo Japan!も落ちている
+
+
+---
+
+## 2022-08-08 · Post · できるだけ色んな種類の機内食を食べるため、行きと帰りで航空会社を別にしているんですが、エコノミーで提供される食事は個人的にJALが一番好みだった
+
+
+### Post — @ryotkak — 2022-08-08 10:21 UTC (2022-08-08 11:21 WAT)
+
+- URL: https://x.com/ryotkak/status/1556586509653790721
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 0
+
+> できるだけ色んな種類の機内食を食べるため、行きと帰りで航空会社を別にしているんですが、エコノミーで提供される食事は個人的にJALが一番好みだった
+
+
+---
+
+## 2022-08-08 · Post · というわけで、8月2日〜8月8日の間、HackerOneのイベント(H1-702)に参加するためにラスベガスに行っていました。
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ryotkak — 2022-08-08 10:21 UTC (2022-08-08 11:21 WAT)
+
+- URL: https://x.com/ryotkak/status/1556586322969497606
+- Metrics (at fetch): bookmark 1, impression 0, like 112, quote 0, reply 0, retweet 9
+
+> というわけで、8月2日〜8月8日の間、HackerOneのイベント(H1-702)に参加するためにラスベガスに行っていました。
+> 2ヶ月ぶり2度目のライブハッキングイベントだったんですが、対象企業のうちの一つで一位を取った他、Most Valuable Hackerに選んでいただけました 🎉 https://twitter.com/Hacker0x01/status/1556151101027762176
+
+**Links in post:** https://twitter.com/Hacker0x01/status/1556151101027762176
+
+**Quoted post** 1556151101027762176: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-08-08 · Post · ただいま日本
+
+
+### Post — @ryotkak — 2022-08-08 10:20 UTC (2022-08-08 11:20 WAT)
+
+- URL: https://x.com/ryotkak/status/1556586027258482688
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 0, reply 1, retweet 0
+
+> ただいま日本
+
+
+---
+
+## 2022-08-07 · Thread · Most Valuable Hacker！
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @ryotkak — 2022-08-07 05:14 UTC (2022-08-07 06:14 WAT)
+
+- URL: https://x.com/ryotkak/status/1556146692184895488
+- Metrics (at fetch): bookmark 13, impression 0, like 724, quote 2, reply 47, retweet 26
+
+> Most Valuable Hacker！
+> #h1702 [pic.x.com/oMulCDNEf6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZiLK2MUEAEO3aj.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ryotkak — 2022-08-07 05:37 UTC (2022-08-07 06:37 WAT)
+
+- URL: https://x.com/ryotkak/status/1556152578303410176
+- Metrics (at fetch): bookmark 0, impression 0, like 34, quote 1, reply 3, retweet 0
+
+> HackerOneのイベント (h-702)でMost Valuable Hackerに選ばれました！
+
+
+### Thread part 3 — @ryotkak — 2022-08-07 05:44 UTC (2022-08-07 06:44 WAT)
+
+- URL: https://x.com/ryotkak/status/1556154251742613504
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 1, reply 0, retweet 0
+
+> *h1-702です...
+
+
+---
+
+## 2022-08-05 · Post · 海外でこのレベルの怪我してるの、普通に考えて良くない気がしてきた
+
+
+### Post — @ryotkak — 2022-08-05 19:11 UTC (2022-08-05 20:11 WAT)
+
+- URL: https://x.com/ryotkak/status/1555632702245654528
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> 海外でこのレベルの怪我してるの、普通に考えて良くない気がしてきた
+
+
+---
+
+## 2022-08-05 · Thread · 腰を痛めた
+
+
+### Post — @ryotkak — 2022-08-05 18:40 UTC (2022-08-05 19:40 WAT)
+
+- URL: https://x.com/ryotkak/status/1555624921501315072
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 腰を痛めた
+
+
+### Thread part 2 — @ryotkak — 2022-08-05 18:42 UTC (2022-08-05 19:42 WAT)
+
+- URL: https://x.com/ryotkak/status/1555625360686870528
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> イベント会場のステージからジャンプで降りたら着地に失敗して腰と左半身を痛めました... (寝ても治らず)
+
+
+---
+
+## 2022-08-03 · Post · ラスベガスなう
+
+
+### Post — @ryotkak — 2022-08-03 06:41 UTC (2022-08-03 07:41 WAT)
+
+- URL: https://x.com/ryotkak/status/1554719021114675201
+- Metrics (at fetch): bookmark 0, impression 0, like 33, quote 1, reply 1, retweet 0
+
+> ラスベガスなう

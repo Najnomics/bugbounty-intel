@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 22
-- Conversations/threads: 21
-- Oldest post captured: 2026-09-25
+- Posts in this file: 36
+- Conversations/threads: 35
+- Oldest post captured: 2026-07-18
 - Newest post captured: 2026-11-10
 
 
@@ -348,7 +348,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @ma1fan — 2026-10-05 10:20 UTC (2026-10-05 11:20 WAT)
 
 - URL: https://x.com/ma1fan/status/2107053390211731457
-- Metrics (at fetch): bookmark 0, impression 611, like 2, quote 0, reply 0, repost 1
+- Metrics (at fetch): bookmark 0, impression 611, like 2, quote 0, reply 0, retweet 1
 
 > We just added screenshots and annotations to ExVul Decompiler 📸
 >
@@ -460,3 +460,248 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/GracyBitget/status/2103284083363398137
 
 **Quoted post** 2103284083363398137: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-13 · Post · I submitted a security bug to @blockstream 4 days ago, and there is still no response. And they clai
+
+
+### Post — @ma1fan — 2026-09-13 03:58 UTC (2026-09-13 04:58 WAT)
+
+- URL: https://x.com/ma1fan/status/2098984633681793048
+- Metrics (at fetch): bookmark 2, impression 6017, like 49, quote 1, reply 9, retweet 1
+
+> I submitted a security bug to @blockstream 4 days ago, and there is still no response. And they claim to take security seriously... https://t.co/7ImxZYGRY8
+
+**Quoted post** 2098281867908690394: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-07 · Post · this is the attack details:
+
+
+### Post — @ma1fan — 2026-09-07 16:51 UTC (2026-09-07 17:51 WAT)
+
+- URL: https://x.com/ma1fan/status/2097004768350892455
+- Metrics (at fetch): bookmark 5, impression 1691, like 5, quote 0, reply 0, retweet 1
+
+> this is the attack details:
+>
+> https://t.co/skqfYOV9ir https://t.co/BA19ipGM8p
+
+**Quoted post** 2097000397051396310: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-05 · Post · . @reddio_com lost  9.25 eth.
+
+
+### Post — @ma1fan — 2026-09-05 16:44 UTC (2026-09-05 17:44 WAT)
+
+- URL: https://x.com/ma1fan/status/2096278221390241874
+- Metrics (at fetch): bookmark 0, impression 1561, like 3, quote 0, reply 0, retweet 0
+
+> . @reddio_com lost  9.25 eth.
+> Subscribe to our TG bot for real-time attack alerts 👉 https://t.co/aolQPoN2ma https://t.co/adI1Cxxzdg
+
+**Quoted post** 2096277307757572517: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-01 · Post · A new day, a new attack. subscribe our tg channle will get the attack alert in time! 
+
+
+### Post — @ma1fan — 2026-09-01 16:09 UTC (2026-09-01 17:09 WAT)
+
+- URL: https://x.com/ma1fan/status/2094820032635380155
+- Metrics (at fetch): bookmark 2, impression 1441, like 4, quote 0, reply 1, retweet 1
+
+> A new day, a new attack. subscribe our tg channle will get the attack alert in time! 
+> https://t.co/aolQPoN2ma https://t.co/oltm29CVKz
+
+**Quoted post** 2094819509031117198: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-01 · Post · Our @exvulsec SkyEye continuously detects emerging on-chain attacks—many of which have not yet been 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2026-09-01 04:01 UTC (2026-09-01 05:01 WAT)
+
+- URL: https://x.com/ma1fan/status/2094636829639385128
+- Metrics (at fetch): bookmark 4, impression 1129, like 3, quote 0, reply 0, retweet 1
+
+> Our @exvulsec SkyEye continuously detects emerging on-chain attacks—many of which have not yet been reported elsewhere.
+>
+> Explore the latest incidents:
+> https://t.co/aolQPoN2ma
+>
+> Want real-time attack alerts? Subscribe to our Telegram channel and stay ahead of emerging threats. 🔔 https://t.co/7TJDbxuJjO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HRGkLBaaQAA55pg.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-27 · Post · so many small attack today! 😂😂😂 https://t.co/D3mMmqvOdX
+
+
+### Post — @ma1fan — 2026-08-27 14:50 UTC (2026-08-27 15:50 WAT)
+
+- URL: https://x.com/ma1fan/status/2092988163954471228
+- Metrics (at fetch): bookmark 29, impression 5824, like 49, quote 0, reply 5, retweet 2
+
+> so many small attack today! 😂😂😂 https://t.co/D3mMmqvOdX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvJeChagAACQI8.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-27 · Post · Intime attack tx: 0x33f33122859a5a7ed38b3235a5bb4f2cbc0e2b8690c3a567c89b6600ebf5c0cd
+
+
+### Post — @ma1fan — 2026-08-27 14:25 UTC (2026-08-27 15:25 WAT)
+
+- URL: https://x.com/ma1fan/status/2092981943868764635
+- Metrics (at fetch): bookmark 5, impression 1208, like 11, quote 0, reply 1, retweet 0
+
+> Intime attack tx: 0x33f33122859a5a7ed38b3235a5bb4f2cbc0e2b8690c3a567c89b6600ebf5c0cd
+> 0.9 BNB https://t.co/bKVjTXaS6L
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQvD9BKbsAAqr7L.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-27 · Post · Every day, I watch @exvulsec SkyEye surface new on-chain attacks—often before they start circulating
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @ma1fan — 2026-08-27 03:40 UTC (2026-08-27 04:40 WAT)
+
+- URL: https://x.com/ma1fan/status/2092819450676555826
+- Metrics (at fetch): bookmark 10, impression 2776, like 21, quote 0, reply 1, retweet 1
+
+> Every day, I watch @exvulsec SkyEye surface new on-chain attacks—often before they start circulating across the security community.
+>
+> Today was no exception. Three fresh attacks today, detected early:
+>
+> 1. https://t.co/MLlmyKybtM
+> 2. https://t.co/KhVy0C3I4z
+> 3.
+
+
+---
+
+## 2026-08-21 · Post · This Attack detected by  our https://t.co/aolQPoN2ma  before 2h attack happend, now you can subscrib
+
+
+### Post — @ma1fan — 2026-08-21 02:36 UTC (2026-08-21 03:36 WAT)
+
+- URL: https://x.com/ma1fan/status/2090629086813344116
+- Metrics (at fetch): bookmark 1, impression 1375, like 6, quote 0, reply 0, retweet 1
+
+> This Attack detected by  our https://t.co/aolQPoN2ma  before 2h attack happend, now you can subscribe it and protect your protocol before the funds lost! https://t.co/9paw3trS66
+
+**Quoted post** 2090628004586324111: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-02 · Post · Our skyeye monitor detect the maclious contract  creation  1h before attack happend. https://t.co/VU
+
+
+### Post — @ma1fan — 2026-08-02 16:29 UTC (2026-08-02 17:29 WAT)
+
+- URL: https://x.com/ma1fan/status/2083953436660531710
+- Metrics (at fetch): bookmark 14, impression 5735, like 29, quote 0, reply 5, retweet 2
+
+> Our skyeye monitor detect the maclious contract  creation  1h before attack happend. https://t.co/VUa4vz5p1n
+
+**Quoted post** 2083953058355269865: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-01 · Post · I think security researchers should give the @exvulsec decompiler a try. Its code reconstruction qua
+
+
+### Post — @ma1fan — 2026-08-01 02:31 UTC (2026-08-01 03:31 WAT)
+
+- URL: https://x.com/ma1fan/status/2083380174759006431
+- Metrics (at fetch): bookmark 193, impression 15670, like 223, quote 0, reply 10, retweet 17
+
+> I think security researchers should give the @exvulsec decompiler a try. Its code reconstruction quality is exceptionally high. like this: 
+>
+> https://t.co/fwBLKIPGl2 https://t.co/KKnqiUbBu6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOmnFiPawAAKzkW.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-29 · Post · Imagine your source code looks perfectly secure, but a compiler bug silently changes the logic in th
+
+
+### Post — @ma1fan — 2026-07-29 17:00 UTC (2026-07-29 18:00 WAT)
+
+- URL: https://x.com/ma1fan/status/2082511596103094676
+- Metrics (at fetch): bookmark 25, impression 4674, like 34, quote 1, reply 1, retweet 3
+
+> Imagine your source code looks perfectly secure, but a compiler bug silently changes the logic in the deployed bytecode. 
+> The result? The door is left wide open for funds to be lost silently.
+>
+> A deeply hidden @SuiNetwork Move compiler bug—definitely one of the most fascinating
+
+
+---
+
+## 2026-07-29 · Post · Imagine your source code looks perfectly secure, but a compiler bug silently changes the logic in th
+
+
+### Post — @ma1fan — 2026-07-29 16:39 UTC (2026-07-29 17:39 WAT)
+
+- URL: https://x.com/ma1fan/status/2082506223551947211
+- Metrics (at fetch): bookmark 3, impression 180, like 3, quote 0, reply 0, retweet 0
+
+> Imagine your source code looks perfectly secure, but a compiler bug silently changes the logic in the deployed bytecode. 
+> The result? The door is left wide open for funds to be drained.
+>
+> A deeply hidden @SuiNetwork Move compiler bug—definitely one of the most fascinating
+
+
+---
+
+## 2026-07-18 · Post · This week, we’re running 4 Web3 security audits in parallel:
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2026-07-18 06:03 UTC (2026-07-18 07:03 WAT)
+
+- URL: https://x.com/ma1fan/status/2078359896962249131
+- Metrics (at fetch): bookmark 3, impression 2289, like 48, quote 0, reply 1, retweet 0
+
+> This week, we’re running 4 Web3 security audits in parallel:
+>
+> • 2 Solidity
+> • 1 Solana
+> • 1 Sui Move
+> It’s still nowhere near last year’s peak, but the signal is clear: the Web3 market is gradually recovering—and security demand is returning with it.
+> Great news for Web3 security

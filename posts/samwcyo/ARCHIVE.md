@@ -322,7 +322,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-07 · Post · Cool bug, but I'm really curious why this works? https://t.co/OPGRKEQKe1
+## 2026-09-07 · Post · Cool bug, but I'm really curious why this works? https://twitter.com/CristiVlad25/status/20962087552
 
 
 ### Post — @samwcyo — 2026-09-07 00:20 UTC (2026-09-07 01:20 WAT)
@@ -330,7 +330,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/samwcyo/status/2096755325390970960
 - Metrics (at fetch): bookmark 108, impression 32524, like 208, quote 0, reply 8, retweet 5
 
-> Cool bug, but I'm really curious why this works? https://t.co/OPGRKEQKe1
+> Cool bug, but I'm really curious why this works? https://twitter.com/CristiVlad25/status/2096208755285201180
+
+**Links in post:** https://twitter.com/CristiVlad25/status/2096208755285201180
 
 **Quoted post** 2096208755285201180: not readable via the API (deleted, private, or withheld).
 

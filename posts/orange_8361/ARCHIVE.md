@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 27
-- Conversations/threads: 27
+- Posts in this file: 28
+- Conversations/threads: 28
 - Oldest post captured: 2024-08-30
 - Newest post captured: 2026-10-29
 
@@ -219,7 +219,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2025-10-07 · Post · Really love the style of this exploit chain! 👏 https://t.co/WpXjABqGro
+## 2025-10-07 · Post · Really love the style of this exploit chain! 👏 https://twitter.com/watchtowrcyber/status/19752558565
 
 
 Tags (automatic): Memory corruption / native
@@ -230,7 +230,9 @@ Tags (automatic): Memory corruption / native
 - URL: https://x.com/orange_8361/status/1975506956417671410
 - Metrics (at fetch): bookmark 59, impression 31688, like 247, quote 0, reply 3, retweet 16
 
-> Really love the style of this exploit chain! 👏 https://t.co/WpXjABqGro
+> Really love the style of this exploit chain! 👏 https://twitter.com/watchtowrcyber/status/1975255856540492241
+
+**Links in post:** https://twitter.com/watchtowrcyber/status/1975255856540492241
 
 **Quoted post** 1975255856540492241: not readable via the API (deleted, private, or withheld).
 
@@ -406,7 +408,25 @@ Tags (automatic): Memory corruption / native
 - URL: https://x.com/orange_8361/status/1918534178481570073
 - Metrics (at fetch): bookmark 36, impression 26386, like 284, quote 1, reply 4, retweet 26
 
-> Another day, another bug of mine got listed in CISA's KEV. Why does everyone love my bugs (sigh...)?  BTW, great article by @SinSinology again! https://t.co/ADjtzUG4N6
+> Another day, another bug of mine got listed in CISA's KEV. Why does everyone love my bugs (sigh...)?  BTW, great article by @SinSinology again! https://twitter.com/watchtowrcyber/status/1918071292055699484
+
+**Links in post:** https://twitter.com/watchtowrcyber/status/1918071292055699484
+
+**Quoted post** 1918071292055699484: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-03 · Post · Another day, another bug of mine got listed in CISA's KEV. Why does everyone love my bugs (sigh...)?
+
+
+### Post — @orange_8361 — 2025-05-03 05:12 UTC (2025-05-03 06:12 WAT)
+
+- URL: https://x.com/orange_8361/status/1918534105865564354
+- Metrics (at fetch): bookmark 0, impression 305, like 0, quote 0, reply 0, retweet 0
+
+> Another day, another bug of mine got listed in CISA's KEV. Why does everyone love my bugs (sigh...)? 
+> BTW, great article by @SinSinology again! https://t.co/ADjtzUG4N6
 
 **Quoted post** 1918071292055699484: not readable via the API (deleted, private, or withheld).
 
@@ -468,9 +488,11 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 182, impression 76428, like 527, quote 10, reply 4, retweet 204
 
 > The detailed version of our #WorstFit attack is available now! 🔥
-> Check it out! 👉 https://t.co/EWlBSgXhpx
+> Check it out! 👉 https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 >
-> cc: @_splitline_ https://t.co/JnAg3egnyG
+> cc: @_splitline_ https://twitter.com/orange_8361/status/1866868458883088487
+
+**Links in post:** https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/, https://twitter.com/orange_8361/status/1866868458883088487
 
 **Quoted post** 1866868458883088487: not readable via the API (deleted, private, or withheld).
 

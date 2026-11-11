@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 33
-- Conversations/threads: 33
-- Oldest post captured: 2026-10-05
+- Posts in this file: 75
+- Conversations/threads: 75
+- Oldest post captured: 2026-08-19
 - Newest post captured: 2026-11-11
 
 
@@ -5105,7 +5105,175 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
         
         **Links in post:** https://twitter.com/anchabadze/status/2106508762617889145
         
-        **Quoted post** 2106508762617889145: not readable via the API (deleted, private, or withheld).
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-10-03 22:16 UTC (2026-10-03 23:16 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2106508762617889145
+            - Metrics (at fetch): bookmark 0, impression 419, like 7, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 525 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 1 hour 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2106329732774039570
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2106329732774039570
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-10-03 10:25 UTC (2026-10-03 11:25 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2106329732774039570
+                - Metrics (at fetch): bookmark 0, impression 482, like 5, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 524 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Watched web3 security video https://twitter.com/anchabadze/status/2105763860435357995
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2105763860435357995
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-10-01 20:56 UTC (2026-10-01 21:56 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2105763860435357995
+                    - Metrics (at fetch): bookmark 0, impression 458, like 6, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 523 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 7 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Public audit
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105419510052192606
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2105419510052192606
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-30 22:08 UTC (2026-09-30 23:08 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2105419510052192606
+                        - Metrics (at fetch): bookmark 0, impression 479, like 3, quote 1, reply 1, retweet 0
+                        
+                        > 🎯 Day 522 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 6 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105093366367285485
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2105093366367285485
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2105093366367285485
+                            - Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2104849529337954552
+                                - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 6 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2104346663544308108
+                                    - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 3 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2103963463403860143
+                                        - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 2 hours
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2103590939621245141
+                                            - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 7 hours
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Read several web3 sec articles
+                                            > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                                            
+                                            **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
         
     
 
@@ -5150,7 +5318,175 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
     
     **Links in post:** https://twitter.com/anchabadze/status/2106508762617889145
     
-    **Quoted post** 2106508762617889145: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-10-03 22:16 UTC (2026-10-03 23:16 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2106508762617889145
+        - Metrics (at fetch): bookmark 0, impression 419, like 7, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 525 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 1 hour 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2106329732774039570
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2106329732774039570
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-10-03 10:25 UTC (2026-10-03 11:25 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2106329732774039570
+            - Metrics (at fetch): bookmark 0, impression 482, like 5, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 524 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Watched web3 security video https://twitter.com/anchabadze/status/2105763860435357995
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2105763860435357995
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-10-01 20:56 UTC (2026-10-01 21:56 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2105763860435357995
+                - Metrics (at fetch): bookmark 0, impression 458, like 6, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 523 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 7 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Public audit
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105419510052192606
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2105419510052192606
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-30 22:08 UTC (2026-09-30 23:08 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2105419510052192606
+                    - Metrics (at fetch): bookmark 0, impression 479, like 3, quote 1, reply 1, retweet 0
+                    
+                    > 🎯 Day 522 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 6 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105093366367285485
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2105093366367285485
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2105093366367285485
+                        - Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2104849529337954552
+                            - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 6 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2104346663544308108
+                                - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 3 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2103963463403860143
+                                    - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 2 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2103590939621245141
+                                        - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 7 hours
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Read several web3 sec articles
+                                        > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                                        
+                                        **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
     
 
 
@@ -5174,4 +5510,7997 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 **Links in post:** https://twitter.com/anchabadze/status/2106508762617889145
 
-**Quoted post** 2106508762617889145: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-10-03 22:16 UTC (2026-10-03 23:16 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2106508762617889145
+    - Metrics (at fetch): bookmark 0, impression 419, like 7, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 525 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 1 hour 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2106329732774039570
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2106329732774039570
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-10-03 10:25 UTC (2026-10-03 11:25 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2106329732774039570
+        - Metrics (at fetch): bookmark 0, impression 482, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 524 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Watched web3 security video https://twitter.com/anchabadze/status/2105763860435357995
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2105763860435357995
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-10-01 20:56 UTC (2026-10-01 21:56 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2105763860435357995
+            - Metrics (at fetch): bookmark 0, impression 458, like 6, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 523 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 7 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Public audit
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105419510052192606
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2105419510052192606
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-30 22:08 UTC (2026-09-30 23:08 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2105419510052192606
+                - Metrics (at fetch): bookmark 0, impression 479, like 3, quote 1, reply 1, retweet 0
+                
+                > 🎯 Day 522 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105093366367285485
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2105093366367285485
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2105093366367285485
+                    - Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2104849529337954552
+                        - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 6 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2104346663544308108
+                            - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 3 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2103963463403860143
+                                - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 2 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2103590939621245141
+                                    - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 7 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Read several web3 sec articles
+                                    > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                                    
+                                    **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-10-03 · Post · 🎯 Day 525 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-10-03 22:16 UTC (2026-10-03 23:16 WAT)
+
+- URL: https://x.com/anchabadze/status/2106508762617889145
+- Metrics (at fetch): bookmark 0, impression 419, like 7, quote 1, reply 1, retweet 0
+
+> 🎯 Day 525 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 1 hour 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Read and studied several post-mortems https://twitter.com/anchabadze/status/2106329732774039570
+
+**Links in post:** https://twitter.com/anchabadze/status/2106329732774039570
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-10-03 10:25 UTC (2026-10-03 11:25 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2106329732774039570
+    - Metrics (at fetch): bookmark 0, impression 482, like 5, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 524 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Watched web3 security video https://twitter.com/anchabadze/status/2105763860435357995
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2105763860435357995
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-10-01 20:56 UTC (2026-10-01 21:56 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2105763860435357995
+        - Metrics (at fetch): bookmark 0, impression 458, like 6, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 523 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Public audit
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105419510052192606
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2105419510052192606
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-30 22:08 UTC (2026-09-30 23:08 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2105419510052192606
+            - Metrics (at fetch): bookmark 0, impression 479, like 3, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 522 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105093366367285485
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2105093366367285485
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2105093366367285485
+                - Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2104849529337954552
+                    - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 6 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2104346663544308108
+                        - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2103963463403860143
+                            - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 2 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2103590939621245141
+                                - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 7 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Read several web3 sec articles
+                                > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                                
+                                **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-10-03 · Post · 🎯 Day 524 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-03 10:25 UTC (2026-10-03 11:25 WAT)
+
+- URL: https://x.com/anchabadze/status/2106329732774039570
+- Metrics (at fetch): bookmark 0, impression 482, like 5, quote 1, reply 0, retweet 0
+
+> 🎯 Day 524 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Watched web3 security video https://twitter.com/anchabadze/status/2105763860435357995
+
+**Links in post:** https://twitter.com/anchabadze/status/2105763860435357995
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-10-01 20:56 UTC (2026-10-01 21:56 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2105763860435357995
+    - Metrics (at fetch): bookmark 0, impression 458, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 523 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Public audit
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105419510052192606
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2105419510052192606
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-30 22:08 UTC (2026-09-30 23:08 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2105419510052192606
+        - Metrics (at fetch): bookmark 0, impression 479, like 3, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 522 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105093366367285485
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2105093366367285485
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2105093366367285485
+            - Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2104849529337954552
+                - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2104346663544308108
+                    - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2103963463403860143
+                        - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 2 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2103590939621245141
+                            - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 7 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Read several web3 sec articles
+                            > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                            
+                            **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-10-01 · Post · 🎯 Day 523 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-01 20:56 UTC (2026-10-01 21:56 WAT)
+
+- URL: https://x.com/anchabadze/status/2105763860435357995
+- Metrics (at fetch): bookmark 0, impression 458, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 523 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Public audit
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105419510052192606
+
+**Links in post:** https://twitter.com/anchabadze/status/2105419510052192606
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-30 22:08 UTC (2026-09-30 23:08 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2105419510052192606
+    - Metrics (at fetch): bookmark 0, impression 479, like 3, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 522 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105093366367285485
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2105093366367285485
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2105093366367285485
+        - Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2104849529337954552
+            - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2104346663544308108
+                - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2103963463403860143
+                    - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 2 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2103590939621245141
+                        - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 7 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Read several web3 sec articles
+                        > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                        
+                        **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-30 · Post · 🎯 Day 522 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-30 22:08 UTC (2026-09-30 23:08 WAT)
+
+- URL: https://x.com/anchabadze/status/2105419510052192606
+- Metrics (at fetch): bookmark 0, impression 479, like 3, quote 1, reply 1, retweet 0
+
+> 🎯 Day 522 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2105093366367285485
+
+**Links in post:** https://twitter.com/anchabadze/status/2105093366367285485
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2105093366367285485
+    - Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2104849529337954552
+        - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2104346663544308108
+            - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2103963463403860143
+                - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 2 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2103590939621245141
+                    - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 7 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read several web3 sec articles
+                    > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                    
+                    **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-30 · Post · A small tip for reducing the number of invalid bug bounty submissions:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @anchabadze — 2026-09-30 17:16 UTC (2026-09-30 18:16 WAT)
+
+- URL: https://x.com/anchabadze/status/2105345952777195954
+- Metrics (at fetch): bookmark 34, impression 2281, like 60, quote 0, reply 4, retweet 8
+
+> A small tip for reducing the number of invalid bug bounty submissions:
+>
+> Even if a bug bounty program defines the in-scope contracts through a GitHub repository rather than deployed contract addresses, always check the current on-chain configuration and protocol state before
+
+
+---
+
+## 2026-09-30 · Post · 🎯 Day 521 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-30 00:32 UTC (2026-09-30 01:32 WAT)
+
+- URL: https://x.com/anchabadze/status/2105093366367285485
+- Metrics (at fetch): bookmark 0, impression 403, like 1, quote 1, reply 0, retweet 0
+
+> 🎯 Day 521 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read and studied several post-mortems https://twitter.com/anchabadze/status/2104849529337954552
+
+**Links in post:** https://twitter.com/anchabadze/status/2104849529337954552
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2104849529337954552
+    - Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2104346663544308108
+        - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2103963463403860143
+            - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 2 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2103590939621245141
+                - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 7 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read several web3 sec articles
+                > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+                
+                **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-29 · Post · 🎯 Day 520 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-29 08:23 UTC (2026-09-29 09:23 WAT)
+
+- URL: https://x.com/anchabadze/status/2104849529337954552
+- Metrics (at fetch): bookmark 1, impression 457, like 5, quote 1, reply 0, retweet 0
+
+> 🎯 Day 520 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2104346663544308108
+
+**Links in post:** https://twitter.com/anchabadze/status/2104346663544308108
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2104346663544308108
+    - Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2103963463403860143
+        - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 2 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2103590939621245141
+            - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 7 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read several web3 sec articles
+            > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+            
+            **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2026-09-28 · Post · Started bug bounty hunting on @HackenProof
+
+
+Tags (automatic): Platform: Immunefi, Platform: HackenProof
+
+
+### Post — @anchabadze — 2026-09-28 09:07 UTC (2026-09-28 10:07 WAT)
+
+- URL: https://x.com/anchabadze/status/2104498323684041213
+- Metrics (at fetch): bookmark 9, impression 2436, like 56, quote 0, reply 3, retweet 1
+
+> Started bug bounty hunting on @HackenProof
+>
+> Another duplicate
+>
+> Let’s see if they consider it valid. Based on my experience with Immunefi, protocols tend not to acknowledge vulnerabilities as valid if they are in any way related to actions by a privileged role - even when that [pic.x.com/UbC9tymmlN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTSt5uYXUAAujEq.png — no alt text provided by author
+
+
+---
+
+## 2026-09-27 · Post · 🎯 Day 519 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-27 23:05 UTC (2026-09-28 00:05 WAT)
+
+- URL: https://x.com/anchabadze/status/2104346663544308108
+- Metrics (at fetch): bookmark 1, impression 594, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 519 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103963463403860143
+
+**Links in post:** https://twitter.com/anchabadze/status/2103963463403860143
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2103963463403860143
+    - Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2103590939621245141
+        - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read several web3 sec articles
+        > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+        
+        **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2026-09-26 · Post · 🎯 Day 518 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-26 21:42 UTC (2026-09-26 22:42 WAT)
+
+- URL: https://x.com/anchabadze/status/2103963463403860143
+- Metrics (at fetch): bookmark 0, impression 676, like 5, quote 1, reply 0, retweet 0
+
+> 🎯 Day 518 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2103590939621245141
+
+**Links in post:** https://twitter.com/anchabadze/status/2103590939621245141
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2103590939621245141
+    - Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read several web3 sec articles
+    > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+    
+    **Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-09-25 · Post · 🎯 Day 517 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-25 21:02 UTC (2026-09-25 22:02 WAT)
+
+- URL: https://x.com/anchabadze/status/2103590939621245141
+- Metrics (at fetch): bookmark 1, impression 696, like 8, quote 1, reply 0, retweet 0
+
+> 🎯 Day 517 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read several web3 sec articles
+> - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2103281034473419022
+
+**Links in post:** https://twitter.com/anchabadze/status/2103281034473419022
+
+**Quoted post** 2103281034473419022: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-24 · Post · A $25 non-refundable submission fee for an audit contest with a $14000 prize pool is crazy
+
+
+### Post — @anchabadze — 2026-09-24 15:46 UTC (2026-09-24 16:46 WAT)
+
+- URL: https://x.com/anchabadze/status/2103149174623813668
+- Metrics (at fetch): bookmark 2, impression 2016, like 35, quote 0, reply 3, retweet 1
+
+> A $25 non-refundable submission fee for an audit contest with a $14000 prize pool is crazy
+>
+> A situation where a security researcher invests their time, finds valid vulnerabilities and still ends up with a negative balance is not healthy at all https://twitter.com/0xAlexSR/status/2103133875962589316
+
+**Links in post:** https://twitter.com/0xAlexSR/status/2103133875962589316
+
+**Quoted post** 2103133875962589316: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-14 · Post · 🎯 Day 505 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-14 00:21 UTC (2026-09-14 01:21 WAT)
+
+- URL: https://x.com/anchabadze/status/2099292397146374334
+- Metrics (at fetch): bookmark 0, impression 637, like 4, quote 1, reply 1, retweet 0
+
+> 🎯 Day 505 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2099143969854644527
+
+**Links in post:** https://twitter.com/anchabadze/status/2099143969854644527
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-13 14:31 UTC (2026-09-13 15:31 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2099143969854644527
+    - Metrics (at fetch): bookmark 0, impression 642, like 1, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 504 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting https://twitter.com/anchabadze/status/2098562760523075795
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2098562760523075795
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-12 00:02 UTC (2026-09-12 01:02 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2098562760523075795
+        - Metrics (at fetch): bookmark 0, impression 549, like 3, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 503 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read and studied several bug bounty writeups https://twitter.com/anchabadze/status/2098380205098225795
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2098380205098225795
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-11 11:56 UTC (2026-09-11 12:56 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2098380205098225795
+            - Metrics (at fetch): bookmark 0, impression 555, like 3, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 502 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2097848692577337504
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2097848692577337504
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-10 00:44 UTC (2026-09-10 01:44 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2097848692577337504
+                - Metrics (at fetch): bookmark 0, impression 543, like 3, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 501 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 2 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2097483505424842982
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2097483505424842982
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-09 00:33 UTC (2026-09-09 01:33 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2097483505424842982
+                    - Metrics (at fetch): bookmark 1, impression 912, like 9, quote 1, reply 1, retweet 1
+                    
+                    > 🎯 Day 500 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 5 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read several web3 sec articles
+                    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2097124117593886890
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2097124117593886890
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-08 00:45 UTC (2026-09-08 01:45 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2097124117593886890
+                        - Metrics (at fetch): bookmark 1, impression 1266, like 8, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 499 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 5 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2096891657958347135
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2096891657958347135
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2096891657958347135
+                            - Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2096389880683045322
+                                - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 3 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2096038851592466868
+                                    - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 5 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2095680264122896551
+                                        - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+                                        
+                                        > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 4 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2095326500564213994
+                                            - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 6 hours 
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2094947381229895850
+                                                - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 6 hours 
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2094580173186150705
+                                                    - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 6 hours 
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2094221185756144044
+                                                        - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 4 hours 
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2093987252426703256
+                                                            - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                                            
+                                                            > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 3 hours 
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2093491181044809930
+                                                                - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                                                
+                                                                > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 8 hours 
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2093135608054940105
+                                                                    - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                                                    
+                                                                    > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 7 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits
+                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2092792705105457428
+                                                                        - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 4 hours 30 min
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits
+                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                                            - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                                            
+                                                                            > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 5 hours 30 min
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Bug Bounty hunting
+                                                                            > - Building AI Agent for smart contract audits
+                                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                                                - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                                                
+                                                                                > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Bug Bounty hunting
+                                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                                                
+                                                                                **Quoted post (full text):**
+                                                                                
+                                                                                    #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                                                    
+                                                                                    - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                                                    - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                                                    
+                                                                                    > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                                                    >
+                                                                                    > 🕰️ Hours worked: 3 hours
+                                                                                    > 🔎 Focus: Auditing
+                                                                                    > 🛠️ Practical work:
+                                                                                    > - Bug Bounty hunting
+                                                                                    > - Building AI Agent for smart contract audits
+                                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                                                    
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                                                    
+                                                                                    **Quoted post (full text):**
+                                                                                    
+                                                                                        #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                                                        
+                                                                                        - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                                                        - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                                                        
+                                                                                        > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                                                        >
+                                                                                        > 🕰️ Hours worked: 4 hours
+                                                                                        > 🔎 Focus: Auditing
+                                                                                        > 🛠️ Practical work:
+                                                                                        > - Bug Bounty hunting
+                                                                                        > - Building AI Agent for smart contract audits
+                                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                                                        
+                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                                                        
+                                                                                        **Quoted post (full text):**
+                                                                                        
+                                                                                            #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                                            
+                                                                                            - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                                            - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                                            
+                                                                                            > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                                            >
+                                                                                            > 🕰️ Hours worked: 4 hours 30 min
+                                                                                            > 🔎 Focus: Auditing
+                                                                                            > 🛠️ Practical work:
+                                                                                            > - Bug Bounty hunting
+                                                                                            > - Building AI Agent for smart contract audits
+                                                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                            
+                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                            
+                                                                                            **Quoted post (full text):**
+                                                                                            
+                                                                                                #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                                                
+                                                                                                - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                                                - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                                                
+                                                                                                > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                >
+                                                                                                > 🕰️ Hours worked: 3 hours 30 min
+                                                                                                > 🔎 Focus: Auditing
+                                                                                                > 🛠️ Practical work:
+                                                                                                > - Bug Bounty hunting
+                                                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                                
+                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                                
+                                                                                                **Quoted post (full text):**
+                                                                                                
+                                                                                                    #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                                                    
+                                                                                                    - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                                                    - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                                                    
+                                                                                                    > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                    >
+                                                                                                    > 🕰️ Hours worked: 4 hours
+                                                                                                    > 🔎 Focus: Auditing
+                                                                                                    > 🛠️ Practical work:
+                                                                                                    > - Bug Bounty hunting
+                                                                                                    > - Building AI Agent for smart contract audits
+                                                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                                    
+                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                                    
+                                                                                                    **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                                                    
+                                                                                                
+                                                                                            
+                                                                                        
+                                                                                    
+                                                                                
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-13 · Post · 🎯 Day 504 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-09-13 14:31 UTC (2026-09-13 15:31 WAT)
+
+- URL: https://x.com/anchabadze/status/2099143969854644527
+- Metrics (at fetch): bookmark 0, impression 642, like 1, quote 1, reply 0, retweet 0
+
+> 🎯 Day 504 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting https://twitter.com/anchabadze/status/2098562760523075795
+
+**Links in post:** https://twitter.com/anchabadze/status/2098562760523075795
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-12 00:02 UTC (2026-09-12 01:02 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2098562760523075795
+    - Metrics (at fetch): bookmark 0, impression 549, like 3, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 503 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read and studied several bug bounty writeups https://twitter.com/anchabadze/status/2098380205098225795
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2098380205098225795
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-11 11:56 UTC (2026-09-11 12:56 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2098380205098225795
+        - Metrics (at fetch): bookmark 0, impression 555, like 3, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 502 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2097848692577337504
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2097848692577337504
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-10 00:44 UTC (2026-09-10 01:44 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2097848692577337504
+            - Metrics (at fetch): bookmark 0, impression 543, like 3, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 501 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 2 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2097483505424842982
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2097483505424842982
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-09 00:33 UTC (2026-09-09 01:33 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2097483505424842982
+                - Metrics (at fetch): bookmark 1, impression 912, like 9, quote 1, reply 1, retweet 1
+                
+                > 🎯 Day 500 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read several web3 sec articles
+                > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2097124117593886890
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2097124117593886890
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-08 00:45 UTC (2026-09-08 01:45 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2097124117593886890
+                    - Metrics (at fetch): bookmark 1, impression 1266, like 8, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 499 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 5 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2096891657958347135
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2096891657958347135
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2096891657958347135
+                        - Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2096389880683045322
+                            - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 3 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2096038851592466868
+                                - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 5 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2095680264122896551
+                                    - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+                                    
+                                    > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 4 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2095326500564213994
+                                        - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 6 hours 
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2094947381229895850
+                                            - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 6 hours 
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2094580173186150705
+                                                - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 6 hours 
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2094221185756144044
+                                                    - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 4 hours 
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2093987252426703256
+                                                        - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                                        
+                                                        > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 3 hours 
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2093491181044809930
+                                                            - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                                            
+                                                            > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 8 hours 
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2093135608054940105
+                                                                - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                                                
+                                                                > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 7 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2092792705105457428
+                                                                    - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 4 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits
+                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                                        - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                                        
+                                                                        > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 5 hours 30 min
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits
+                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                                            - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                                            
+                                                                            > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 4 hours 30 min
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Bug Bounty hunting
+                                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                                                - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                                                
+                                                                                > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 3 hours
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Bug Bounty hunting
+                                                                                > - Building AI Agent for smart contract audits
+                                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                                                
+                                                                                **Quoted post (full text):**
+                                                                                
+                                                                                    #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                                                    
+                                                                                    - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                                                    - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                                                    
+                                                                                    > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                                                    >
+                                                                                    > 🕰️ Hours worked: 4 hours
+                                                                                    > 🔎 Focus: Auditing
+                                                                                    > 🛠️ Practical work:
+                                                                                    > - Bug Bounty hunting
+                                                                                    > - Building AI Agent for smart contract audits
+                                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                                                    
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                                                    
+                                                                                    **Quoted post (full text):**
+                                                                                    
+                                                                                        #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                                        
+                                                                                        - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                                        - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                                        
+                                                                                        > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                                        >
+                                                                                        > 🕰️ Hours worked: 4 hours 30 min
+                                                                                        > 🔎 Focus: Auditing
+                                                                                        > 🛠️ Practical work:
+                                                                                        > - Bug Bounty hunting
+                                                                                        > - Building AI Agent for smart contract audits
+                                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                        
+                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                        
+                                                                                        **Quoted post (full text):**
+                                                                                        
+                                                                                            #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                                            
+                                                                                            - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                                            - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                                            
+                                                                                            > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                                            >
+                                                                                            > 🕰️ Hours worked: 3 hours 30 min
+                                                                                            > 🔎 Focus: Auditing
+                                                                                            > 🛠️ Practical work:
+                                                                                            > - Bug Bounty hunting
+                                                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                            
+                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                            
+                                                                                            **Quoted post (full text):**
+                                                                                            
+                                                                                                #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                                                
+                                                                                                - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                                                - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                                                
+                                                                                                > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                >
+                                                                                                > 🕰️ Hours worked: 4 hours
+                                                                                                > 🔎 Focus: Auditing
+                                                                                                > 🛠️ Practical work:
+                                                                                                > - Bug Bounty hunting
+                                                                                                > - Building AI Agent for smart contract audits
+                                                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                                
+                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                                
+                                                                                                **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                                                
+                                                                                            
+                                                                                        
+                                                                                    
+                                                                                
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-12 · Post · 🎯 Day 503 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-12 00:02 UTC (2026-09-12 01:02 WAT)
+
+- URL: https://x.com/anchabadze/status/2098562760523075795
+- Metrics (at fetch): bookmark 0, impression 549, like 3, quote 1, reply 0, retweet 0
+
+> 🎯 Day 503 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read and studied several bug bounty writeups https://twitter.com/anchabadze/status/2098380205098225795
+
+**Links in post:** https://twitter.com/anchabadze/status/2098380205098225795
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-11 11:56 UTC (2026-09-11 12:56 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2098380205098225795
+    - Metrics (at fetch): bookmark 0, impression 555, like 3, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 502 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2097848692577337504
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2097848692577337504
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-10 00:44 UTC (2026-09-10 01:44 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2097848692577337504
+        - Metrics (at fetch): bookmark 0, impression 543, like 3, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 501 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 2 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2097483505424842982
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2097483505424842982
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-09 00:33 UTC (2026-09-09 01:33 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2097483505424842982
+            - Metrics (at fetch): bookmark 1, impression 912, like 9, quote 1, reply 1, retweet 1
+            
+            > 🎯 Day 500 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read several web3 sec articles
+            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2097124117593886890
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2097124117593886890
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-08 00:45 UTC (2026-09-08 01:45 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2097124117593886890
+                - Metrics (at fetch): bookmark 1, impression 1266, like 8, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 499 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2096891657958347135
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2096891657958347135
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2096891657958347135
+                    - Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2096389880683045322
+                        - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2096038851592466868
+                            - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 5 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2095680264122896551
+                                - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+                                
+                                > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 4 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2095326500564213994
+                                    - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 6 hours 
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2094947381229895850
+                                        - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 6 hours 
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2094580173186150705
+                                            - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 6 hours 
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2094221185756144044
+                                                - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 4 hours 
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2093987252426703256
+                                                    - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                                    
+                                                    > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 3 hours 
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2093491181044809930
+                                                        - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                                        
+                                                        > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 8 hours 
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2093135608054940105
+                                                            - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                                            
+                                                            > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 7 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2092792705105457428
+                                                                - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                                    - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                                    
+                                                                    > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 5 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits
+                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                                        - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 4 hours 30 min
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                                            - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                                            
+                                                                            > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 3 hours
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Bug Bounty hunting
+                                                                            > - Building AI Agent for smart contract audits
+                                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                                                - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                                                
+                                                                                > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 4 hours
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Bug Bounty hunting
+                                                                                > - Building AI Agent for smart contract audits
+                                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                                                
+                                                                                **Quoted post (full text):**
+                                                                                
+                                                                                    #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                                    
+                                                                                    - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                                    - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                                    
+                                                                                    > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                                    >
+                                                                                    > 🕰️ Hours worked: 4 hours 30 min
+                                                                                    > 🔎 Focus: Auditing
+                                                                                    > 🛠️ Practical work:
+                                                                                    > - Bug Bounty hunting
+                                                                                    > - Building AI Agent for smart contract audits
+                                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                    
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                    
+                                                                                    **Quoted post (full text):**
+                                                                                    
+                                                                                        #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                                        
+                                                                                        - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                                        - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                                        
+                                                                                        > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                                        >
+                                                                                        > 🕰️ Hours worked: 3 hours 30 min
+                                                                                        > 🔎 Focus: Auditing
+                                                                                        > 🛠️ Practical work:
+                                                                                        > - Bug Bounty hunting
+                                                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                        
+                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                        
+                                                                                        **Quoted post (full text):**
+                                                                                        
+                                                                                            #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                                            
+                                                                                            - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                                            - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                                            
+                                                                                            > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                                            >
+                                                                                            > 🕰️ Hours worked: 4 hours
+                                                                                            > 🔎 Focus: Auditing
+                                                                                            > 🛠️ Practical work:
+                                                                                            > - Bug Bounty hunting
+                                                                                            > - Building AI Agent for smart contract audits
+                                                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                            
+                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                            
+                                                                                            **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                                            
+                                                                                        
+                                                                                    
+                                                                                
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-11 · Post · 🎯 Day 502 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-11 11:56 UTC (2026-09-11 12:56 WAT)
+
+- URL: https://x.com/anchabadze/status/2098380205098225795
+- Metrics (at fetch): bookmark 0, impression 555, like 3, quote 1, reply 0, retweet 0
+
+> 🎯 Day 502 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read and studied several reports from past audit contest https://twitter.com/anchabadze/status/2097848692577337504
+
+**Links in post:** https://twitter.com/anchabadze/status/2097848692577337504
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-10 00:44 UTC (2026-09-10 01:44 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2097848692577337504
+    - Metrics (at fetch): bookmark 0, impression 543, like 3, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 501 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2097483505424842982
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2097483505424842982
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-09 00:33 UTC (2026-09-09 01:33 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2097483505424842982
+        - Metrics (at fetch): bookmark 1, impression 912, like 9, quote 1, reply 1, retweet 1
+        
+        > 🎯 Day 500 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read several web3 sec articles
+        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2097124117593886890
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2097124117593886890
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-08 00:45 UTC (2026-09-08 01:45 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2097124117593886890
+            - Metrics (at fetch): bookmark 1, impression 1266, like 8, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 499 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2096891657958347135
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2096891657958347135
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2096891657958347135
+                - Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2096389880683045322
+                    - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2096038851592466868
+                        - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 5 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2095680264122896551
+                            - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+                            
+                            > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2095326500564213994
+                                - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 6 hours 
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2094947381229895850
+                                    - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 6 hours 
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2094580173186150705
+                                        - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 6 hours 
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2094221185756144044
+                                            - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 4 hours 
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2093987252426703256
+                                                - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                                
+                                                > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 3 hours 
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2093491181044809930
+                                                    - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                                    
+                                                    > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 8 hours 
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2093135608054940105
+                                                        - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                                        
+                                                        > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 7 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2092792705105457428
+                                                            - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 4 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                                - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                                
+                                                                > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 5 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                                    - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 4 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                                        - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 3 hours
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits
+                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                                            - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                                            
+                                                                            > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 4 hours
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Bug Bounty hunting
+                                                                            > - Building AI Agent for smart contract audits
+                                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                                - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                                
+                                                                                > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Bug Bounty hunting
+                                                                                > - Building AI Agent for smart contract audits
+                                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                                
+                                                                                **Quoted post (full text):**
+                                                                                
+                                                                                    #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                                    
+                                                                                    - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                                    - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                                    
+                                                                                    > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                                    >
+                                                                                    > 🕰️ Hours worked: 3 hours 30 min
+                                                                                    > 🔎 Focus: Auditing
+                                                                                    > 🛠️ Practical work:
+                                                                                    > - Bug Bounty hunting
+                                                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                    
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                    
+                                                                                    **Quoted post (full text):**
+                                                                                    
+                                                                                        #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                                        
+                                                                                        - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                                        - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                                        
+                                                                                        > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                                        >
+                                                                                        > 🕰️ Hours worked: 4 hours
+                                                                                        > 🔎 Focus: Auditing
+                                                                                        > 🛠️ Practical work:
+                                                                                        > - Bug Bounty hunting
+                                                                                        > - Building AI Agent for smart contract audits
+                                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                        
+                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                        
+                                                                                        **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                                        
+                                                                                    
+                                                                                
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-10 · Post · 🎯 Day 501 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-10 00:44 UTC (2026-09-10 01:44 WAT)
+
+- URL: https://x.com/anchabadze/status/2097848692577337504
+- Metrics (at fetch): bookmark 0, impression 543, like 3, quote 1, reply 0, retweet 0
+
+> 🎯 Day 501 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2097483505424842982
+
+**Links in post:** https://twitter.com/anchabadze/status/2097483505424842982
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-09 00:33 UTC (2026-09-09 01:33 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2097483505424842982
+    - Metrics (at fetch): bookmark 1, impression 912, like 9, quote 1, reply 1, retweet 1
+    
+    > 🎯 Day 500 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read several web3 sec articles
+    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2097124117593886890
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2097124117593886890
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-08 00:45 UTC (2026-09-08 01:45 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2097124117593886890
+        - Metrics (at fetch): bookmark 1, impression 1266, like 8, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 499 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2096891657958347135
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2096891657958347135
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2096891657958347135
+            - Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2096389880683045322
+                - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2096038851592466868
+                    - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 5 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2095680264122896551
+                        - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+                        
+                        > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2095326500564213994
+                            - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 6 hours 
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2094947381229895850
+                                - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 6 hours 
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2094580173186150705
+                                    - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 6 hours 
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2094221185756144044
+                                        - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 4 hours 
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2093987252426703256
+                                            - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                            
+                                            > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 3 hours 
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2093491181044809930
+                                                - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                                
+                                                > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 8 hours 
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2093135608054940105
+                                                    - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                                    
+                                                    > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 7 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2092792705105457428
+                                                        - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 4 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                            - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                            
+                                                            > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 5 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                                - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                                    - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 3 hours
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits
+                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                                        - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 4 hours
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits
+                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                            - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                            
+                                                                            > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 4 hours 30 min
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Bug Bounty hunting
+                                                                            > - Building AI Agent for smart contract audits
+                                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                                - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                                
+                                                                                > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 3 hours 30 min
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Bug Bounty hunting
+                                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                                
+                                                                                **Quoted post (full text):**
+                                                                                
+                                                                                    #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                                    
+                                                                                    - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                                    - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                                    
+                                                                                    > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                                    >
+                                                                                    > 🕰️ Hours worked: 4 hours
+                                                                                    > 🔎 Focus: Auditing
+                                                                                    > 🛠️ Practical work:
+                                                                                    > - Bug Bounty hunting
+                                                                                    > - Building AI Agent for smart contract audits
+                                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                    
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                    
+                                                                                    **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                                    
+                                                                                
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-09 · Post · 🎯 Day 500 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-09 00:33 UTC (2026-09-09 01:33 WAT)
+
+- URL: https://x.com/anchabadze/status/2097483505424842982
+- Metrics (at fetch): bookmark 1, impression 912, like 9, quote 1, reply 1, retweet 1
+
+> 🎯 Day 500 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read several web3 sec articles
+> - Read and studied several post-mortems https://twitter.com/anchabadze/status/2097124117593886890
+
+**Links in post:** https://twitter.com/anchabadze/status/2097124117593886890
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-08 00:45 UTC (2026-09-08 01:45 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2097124117593886890
+    - Metrics (at fetch): bookmark 1, impression 1266, like 8, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 499 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2096891657958347135
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2096891657958347135
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2096891657958347135
+        - Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2096389880683045322
+            - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2096038851592466868
+                - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2095680264122896551
+                    - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+                    
+                    > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2095326500564213994
+                        - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 6 hours 
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2094947381229895850
+                            - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 6 hours 
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2094580173186150705
+                                - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 6 hours 
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2094221185756144044
+                                    - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 4 hours 
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2093987252426703256
+                                        - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                        
+                                        > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 3 hours 
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2093491181044809930
+                                            - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                            
+                                            > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 8 hours 
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2093135608054940105
+                                                - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                                
+                                                > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 7 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2092792705105457428
+                                                    - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 4 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                        - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                        
+                                                        > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 5 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                            - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 4 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                                - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 3 hours
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                                    - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 4 hours
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits
+                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                        - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 4 hours 30 min
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits
+                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                            - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                            
+                                                                            > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 3 hours 30 min
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Bug Bounty hunting
+                                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                                - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                                
+                                                                                > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 4 hours
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Bug Bounty hunting
+                                                                                > - Building AI Agent for smart contract audits
+                                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                                
+                                                                                **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                                
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-08 · Post · 🎯 Day 499 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-08 00:45 UTC (2026-09-08 01:45 WAT)
+
+- URL: https://x.com/anchabadze/status/2097124117593886890
+- Metrics (at fetch): bookmark 1, impression 1266, like 8, quote 1, reply 0, retweet 0
+
+> 🎯 Day 499 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2096891657958347135
+
+**Links in post:** https://twitter.com/anchabadze/status/2096891657958347135
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2096891657958347135
+    - Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2096389880683045322
+        - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2096038851592466868
+            - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2095680264122896551
+                - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+                
+                > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2095326500564213994
+                    - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 6 hours 
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2094947381229895850
+                        - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 6 hours 
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2094580173186150705
+                            - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 6 hours 
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2094221185756144044
+                                - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 4 hours 
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2093987252426703256
+                                    - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                    
+                                    > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 3 hours 
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2093491181044809930
+                                        - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                        
+                                        > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 8 hours 
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2093135608054940105
+                                            - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                            
+                                            > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 7 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2092792705105457428
+                                                - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                    - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                    
+                                                    > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 5 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                        - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 4 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                            - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 3 hours
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                                - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 4 hours
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                    - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 4 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits
+                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                        - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                        
+                                                                        > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 3 hours 30 min
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                            - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                            
+                                                                            > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 4 hours
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Bug Bounty hunting
+                                                                            > - Building AI Agent for smart contract audits
+                                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                            
+                                                                            **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-07 · Post · Got banned from @immunefi
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @anchabadze — 2026-09-07 12:33 UTC (2026-09-07 13:33 WAT)
+
+- URL: https://x.com/anchabadze/status/2096940010905776170
+- Metrics (at fetch): bookmark 16, impression 7036, like 120, quote 1, reply 23, retweet 3
+
+> Got banned from @immunefi
+>
+> Several of my reports in a row were closed as OOS or "by design", which triggered an automatic ban.
+>
+> At the same time, I still had several paid (!) submissions in the escalated stage that were being reviewed by protocol teams - including several
+
+
+---
+
+## 2026-09-07 · Post · 🎯 Day 498 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-07 09:21 UTC (2026-09-07 10:21 WAT)
+
+- URL: https://x.com/anchabadze/status/2096891657958347135
+- Metrics (at fetch): bookmark 0, impression 1054, like 5, quote 1, reply 0, retweet 0
+
+> 🎯 Day 498 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096389880683045322
+
+**Links in post:** https://twitter.com/anchabadze/status/2096389880683045322
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2096389880683045322
+    - Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2096038851592466868
+        - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2095680264122896551
+            - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2095326500564213994
+                - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours 
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2094947381229895850
+                    - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 6 hours 
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2094580173186150705
+                        - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 6 hours 
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2094221185756144044
+                            - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours 
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2093987252426703256
+                                - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                                
+                                > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 3 hours 
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2093491181044809930
+                                    - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                    
+                                    > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 8 hours 
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2093135608054940105
+                                        - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                        
+                                        > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 7 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2092792705105457428
+                                            - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 4 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2092425456070914048
+                                                - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                                
+                                                > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 5 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                    - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 4 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                        - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 3 hours
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                            - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 4 hours
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                                - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                    - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                    
+                                                                    > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 3 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                        - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 4 hours
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Bug Bounty hunting
+                                                                        > - Building AI Agent for smart contract audits
+                                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                        
+                                                                        **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-06 · Post · 🎯 Day 497 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-06 00:07 UTC (2026-09-06 01:07 WAT)
+
+- URL: https://x.com/anchabadze/status/2096389880683045322
+- Metrics (at fetch): bookmark 1, impression 1171, like 13, quote 1, reply 0, retweet 0
+
+> 🎯 Day 497 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read and studied several post-mortems https://twitter.com/anchabadze/status/2096038851592466868
+
+**Links in post:** https://twitter.com/anchabadze/status/2096038851592466868
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2096038851592466868
+    - Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2095680264122896551
+        - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2095326500564213994
+            - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2094947381229895850
+                - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours 
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2094580173186150705
+                    - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 6 hours 
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2094221185756144044
+                        - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours 
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2093987252426703256
+                            - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                            
+                            > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 3 hours 
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2093491181044809930
+                                - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                                
+                                > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 8 hours 
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2093135608054940105
+                                    - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                    
+                                    > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 7 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2092792705105457428
+                                        - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 4 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2092425456070914048
+                                            - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                            
+                                            > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 5 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2092074079855468679
+                                                - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                    - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 3 hours
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                        - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 4 hours
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                            - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 4 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                                - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                                
+                                                                > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 3 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                    - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 4 hours
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Bug Bounty hunting
+                                                                    > - Building AI Agent for smart contract audits
+                                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                    
+                                                                    **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-05 · Post · 🎯 Day 496 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-05 00:52 UTC (2026-09-05 01:52 WAT)
+
+- URL: https://x.com/anchabadze/status/2096038851592466868
+- Metrics (at fetch): bookmark 0, impression 1212, like 4, quote 1, reply 0, retweet 0
+
+> 🎯 Day 496 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095680264122896551
+
+**Links in post:** https://twitter.com/anchabadze/status/2095680264122896551
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2095680264122896551
+    - Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2095326500564213994
+        - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2094947381229895850
+            - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2094580173186150705
+                - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours 
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2094221185756144044
+                    - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours 
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2093987252426703256
+                        - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                        
+                        > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours 
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2093491181044809930
+                            - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                            
+                            > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 8 hours 
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2093135608054940105
+                                - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                                
+                                > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 7 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2092792705105457428
+                                    - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 4 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2092425456070914048
+                                        - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                        
+                                        > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 5 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2092074079855468679
+                                            - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 4 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2091670720820494484
+                                                - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 3 hours
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                    - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 4 hours
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                        - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 4 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                            - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                            
+                                                            > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 3 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                                - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 4 hours
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Bug Bounty hunting
+                                                                > - Building AI Agent for smart contract audits
+                                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                                
+                                                                **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-04 · Post · 🎯 Day 495 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-04 01:08 UTC (2026-09-04 02:08 WAT)
+
+- URL: https://x.com/anchabadze/status/2095680264122896551
+- Metrics (at fetch): bookmark 0, impression 793, like 2, quote 1, reply 1, retweet 0
+
+> 🎯 Day 495 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2095326500564213994
+
+**Links in post:** https://twitter.com/anchabadze/status/2095326500564213994
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2095326500564213994
+    - Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2094947381229895850
+        - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2094580173186150705
+            - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2094221185756144044
+                - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours 
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2093987252426703256
+                    - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                    
+                    > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours 
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2093491181044809930
+                        - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                        
+                        > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 8 hours 
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2093135608054940105
+                            - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                            
+                            > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 7 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2092792705105457428
+                                - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 4 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2092425456070914048
+                                    - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                    
+                                    > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 5 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2092074079855468679
+                                        - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 4 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2091670720820494484
+                                            - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 3 hours
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2091321050621432086
+                                                - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 4 hours
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                    - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 4 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                        - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                        
+                                                        > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 3 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                            - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 4 hours
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Bug Bounty hunting
+                                                            > - Building AI Agent for smart contract audits
+                                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                            
+                                                            **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-03 · Post · 🎯 Day 494 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-03 01:42 UTC (2026-09-03 02:42 WAT)
+
+- URL: https://x.com/anchabadze/status/2095326500564213994
+- Metrics (at fetch): bookmark 1, impression 831, like 7, quote 1, reply 0, retweet 0
+
+> 🎯 Day 494 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094947381229895850
+
+**Links in post:** https://twitter.com/anchabadze/status/2094947381229895850
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2094947381229895850
+    - Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2094580173186150705
+        - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2094221185756144044
+            - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2093987252426703256
+                - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+                
+                > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours 
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2093491181044809930
+                    - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                    
+                    > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 8 hours 
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2093135608054940105
+                        - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                        
+                        > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 7 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2092792705105457428
+                            - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2092425456070914048
+                                - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                                
+                                > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 5 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2092074079855468679
+                                    - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 4 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2091670720820494484
+                                        - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 3 hours
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2091321050621432086
+                                            - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 4 hours
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2090972448329982435
+                                                - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 4 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                    - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                    
+                                                    > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 3 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                        - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 4 hours
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Bug Bounty hunting
+                                                        > - Building AI Agent for smart contract audits
+                                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                        
+                                                        **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-02 · Post · 🎯 Day 493 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-02 00:35 UTC (2026-09-02 01:35 WAT)
+
+- URL: https://x.com/anchabadze/status/2094947381229895850
+- Metrics (at fetch): bookmark 0, impression 767, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 493 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2094580173186150705
+
+**Links in post:** https://twitter.com/anchabadze/status/2094580173186150705
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2094580173186150705
+    - Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2094221185756144044
+        - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2093987252426703256
+            - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours 
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2093491181044809930
+                - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+                
+                > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 8 hours 
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2093135608054940105
+                    - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                    
+                    > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 7 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2092792705105457428
+                        - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2092425456070914048
+                            - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                            
+                            > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 5 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2092074079855468679
+                                - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 4 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2091670720820494484
+                                    - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 3 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2091321050621432086
+                                        - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 4 hours
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2090972448329982435
+                                            - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 4 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2090729199438803317
+                                                - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                                
+                                                > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 3 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                    - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 4 hours
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Bug Bounty hunting
+                                                    > - Building AI Agent for smart contract audits
+                                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                    
+                                                    **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-09-01 · Post · 🎯 Day 492 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-09-01 00:16 UTC (2026-09-01 01:16 WAT)
+
+- URL: https://x.com/anchabadze/status/2094580173186150705
+- Metrics (at fetch): bookmark 1, impression 752, like 3, quote 1, reply 0, retweet 0
+
+> 🎯 Day 492 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read several AI security articles https://twitter.com/anchabadze/status/2094221185756144044
+
+**Links in post:** https://twitter.com/anchabadze/status/2094221185756144044
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2094221185756144044
+    - Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2093987252426703256
+        - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours 
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2093491181044809930
+            - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+            
+            > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 8 hours 
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2093135608054940105
+                - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+                
+                > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 7 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2092792705105457428
+                    - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2092425456070914048
+                        - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                        
+                        > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 5 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2092074079855468679
+                            - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2091670720820494484
+                                - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 3 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2091321050621432086
+                                    - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 4 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2090972448329982435
+                                        - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 4 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2090729199438803317
+                                            - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                            
+                                            > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 3 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2090238004774178893
+                                                - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 4 hours
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Bug Bounty hunting
+                                                > - Building AI Agent for smart contract audits
+                                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                                
+                                                **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-31 · Post · 🎯 Day 491 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-31 00:30 UTC (2026-08-31 01:30 WAT)
+
+- URL: https://x.com/anchabadze/status/2094221185756144044
+- Metrics (at fetch): bookmark 1, impression 728, like 3, quote 1, reply 0, retweet 0
+
+> 🎯 Day 491 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2093987252426703256
+
+**Links in post:** https://twitter.com/anchabadze/status/2093987252426703256
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2093987252426703256
+    - Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours 
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2093491181044809930
+        - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+        
+        > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 8 hours 
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2093135608054940105
+            - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 7 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2092792705105457428
+                - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2092425456070914048
+                    - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                    
+                    > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 5 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2092074079855468679
+                        - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2091670720820494484
+                            - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 3 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2091321050621432086
+                                - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 4 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2090972448329982435
+                                    - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 4 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2090729199438803317
+                                        - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                        
+                                        > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 3 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2090238004774178893
+                                            - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 4 hours
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Bug Bounty hunting
+                                            > - Building AI Agent for smart contract audits
+                                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                            
+                                            **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-30 · Post · 🎯 Day 490 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-30 09:00 UTC (2026-08-30 10:00 WAT)
+
+- URL: https://x.com/anchabadze/status/2093987252426703256
+- Metrics (at fetch): bookmark 2, impression 1096, like 8, quote 1, reply 1, retweet 0
+
+> 🎯 Day 490 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours 
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093491181044809930
+
+**Links in post:** https://twitter.com/anchabadze/status/2093491181044809930
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2093491181044809930
+    - Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+    
+    > 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 8 hours 
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2093135608054940105
+        - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2092792705105457428
+            - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2092425456070914048
+                - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+                
+                > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2092074079855468679
+                    - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2091670720820494484
+                        - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2091321050621432086
+                            - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2090972448329982435
+                                - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 4 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2090729199438803317
+                                    - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                    
+                                    > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 3 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2090238004774178893
+                                        - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 4 hours
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Bug Bounty hunting
+                                        > - Building AI Agent for smart contract audits
+                                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                        
+                                        **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-29 · Post · 🎯 Day 489 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-29 00:09 UTC (2026-08-29 01:09 WAT)
+
+- URL: https://x.com/anchabadze/status/2093491181044809930
+- Metrics (at fetch): bookmark 3, impression 1587, like 9, quote 1, reply 2, retweet 0
+
+> 🎯 Day 489 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 8 hours 
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2093135608054940105
+
+**Links in post:** https://twitter.com/anchabadze/status/2093135608054940105
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2093135608054940105
+    - Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2092792705105457428
+        - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2092425456070914048
+            - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2092074079855468679
+                - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2091670720820494484
+                    - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2091321050621432086
+                        - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2090972448329982435
+                            - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2090729199438803317
+                                - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                                
+                                > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 3 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2090238004774178893
+                                    - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 4 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Bug Bounty hunting
+                                    > - Building AI Agent for smart contract audits
+                                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                    
+                                    **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-28 · Post · 🎯 Day 488 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-28 00:36 UTC (2026-08-28 01:36 WAT)
+
+- URL: https://x.com/anchabadze/status/2093135608054940105
+- Metrics (at fetch): bookmark 0, impression 1452, like 7, quote 1, reply 1, retweet 0
+
+> 🎯 Day 488 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092792705105457428
+
+**Links in post:** https://twitter.com/anchabadze/status/2092792705105457428
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2092792705105457428
+    - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2092425456070914048
+        - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2092074079855468679
+            - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2091670720820494484
+                - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2091321050621432086
+                    - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2090972448329982435
+                        - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2090729199438803317
+                            - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                            
+                            > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 3 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2090238004774178893
+                                - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 4 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Bug Bounty hunting
+                                > - Building AI Agent for smart contract audits
+                                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                                
+                                **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-27 · Post · 🎯 Day 487 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-27 01:53 UTC (2026-08-27 02:53 WAT)
+
+- URL: https://x.com/anchabadze/status/2092792705105457428
+- Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 1, reply 0, retweet 0
+
+> 🎯 Day 487 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092425456070914048
+
+**Links in post:** https://twitter.com/anchabadze/status/2092425456070914048
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2092425456070914048
+    - Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2092074079855468679
+        - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2091670720820494484
+            - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2091321050621432086
+                - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2090972448329982435
+                    - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2090729199438803317
+                        - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                        
+                        > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2090238004774178893
+                            - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 4 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Bug Bounty hunting
+                            > - Building AI Agent for smart contract audits
+                            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                            
+                            **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-26 · Post · 🎯 Day 486 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-26 01:34 UTC (2026-08-26 02:34 WAT)
+
+- URL: https://x.com/anchabadze/status/2092425456070914048
+- Metrics (at fetch): bookmark 0, impression 998, like 8, quote 1, reply 1, retweet 0
+
+> 🎯 Day 486 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2092074079855468679
+
+**Links in post:** https://twitter.com/anchabadze/status/2092074079855468679
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2092074079855468679
+    - Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2091670720820494484
+        - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2091321050621432086
+            - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2090972448329982435
+                - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2090729199438803317
+                    - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                    
+                    > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2090238004774178893
+                        - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 4 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Bug Bounty hunting
+                        > - Building AI Agent for smart contract audits
+                        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                        
+                        **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-25 · Post · 🎯 Day 485 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-25 02:18 UTC (2026-08-25 03:18 WAT)
+
+- URL: https://x.com/anchabadze/status/2092074079855468679
+- Metrics (at fetch): bookmark 0, impression 1050, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 485 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2091670720820494484
+
+**Links in post:** https://twitter.com/anchabadze/status/2091670720820494484
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2091670720820494484
+    - Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2091321050621432086
+        - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2090972448329982435
+            - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2090729199438803317
+                - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+                
+                > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2090238004774178893
+                    - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Bug Bounty hunting
+                    > - Building AI Agent for smart contract audits
+                    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                    
+                    **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-23 · Post · 🎯 Day 484 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-23 23:35 UTC (2026-08-24 00:35 WAT)
+
+- URL: https://x.com/anchabadze/status/2091670720820494484
+- Metrics (at fetch): bookmark 0, impression 945, like 4, quote 1, reply 0, retweet 0
+
+> 🎯 Day 484 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2091321050621432086
+
+**Links in post:** https://twitter.com/anchabadze/status/2091321050621432086
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2091321050621432086
+    - Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2090972448329982435
+        - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2090729199438803317
+            - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2090238004774178893
+                - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Bug Bounty hunting
+                > - Building AI Agent for smart contract audits
+                > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+                
+                **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2026-08-23 · Post · 🎯 Day 483 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-23 00:26 UTC (2026-08-23 01:26 WAT)
+
+- URL: https://x.com/anchabadze/status/2091321050621432086
+- Metrics (at fetch): bookmark 0, impression 998, like 4, quote 1, reply 0, retweet 0
+
+> 🎯 Day 483 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090972448329982435
+
+**Links in post:** https://twitter.com/anchabadze/status/2090972448329982435
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2090972448329982435
+    - Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2090729199438803317
+        - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2090238004774178893
+            - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Bug Bounty hunting
+            > - Building AI Agent for smart contract audits
+            > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+            
+            **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2026-08-22 · Post · 🎯 Day 482 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-22 01:20 UTC (2026-08-22 02:20 WAT)
+
+- URL: https://x.com/anchabadze/status/2090972448329982435
+- Metrics (at fetch): bookmark 0, impression 1099, like 8, quote 1, reply 0, retweet 0
+
+> 🎯 Day 482 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2090729199438803317
+
+**Links in post:** https://twitter.com/anchabadze/status/2090729199438803317
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2090729199438803317
+    - Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2090238004774178893
+        - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Bug Bounty hunting
+        > - Building AI Agent for smart contract audits
+        > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+        
+        **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2026-08-21 · Post · Hey @immunefi @vidrepar
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @anchabadze — 2026-08-21 16:13 UTC (2026-08-21 17:13 WAT)
+
+- URL: https://x.com/anchabadze/status/2090834647294869631
+- Metrics (at fetch): bookmark 7, impression 6678, like 53, quote 1, reply 7, retweet 0
+
+> Hey @immunefi @vidrepar
+>
+> I've got 5+ reports for the same program, but it requires a $100 submission fee, which won't be refunded if the finding turns out to be a duplicate
+>
+> I don't want to spend $500+ on submissions that might just be duplicates 😅
+>
+> Any chance you could give me
+
+
+---
+
+## 2026-08-21 · Post · And again a duplicate on @immunefi
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @anchabadze — 2026-08-21 12:26 UTC (2026-08-21 13:26 WAT)
+
+- URL: https://x.com/anchabadze/status/2090777613505528218
+- Metrics (at fetch): bookmark 3, impression 2050, like 51, quote 0, reply 3, retweet 1
+
+> And again a duplicate on @immunefi
+>
+> #RoadToWeb3SecurityJobChallenge [pic.x.com/Fh9TnMLhnW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQPu06DXYAEOBrO.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HQPvGnyXwAEcU_l.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-21 · Post · 🎯 Day 481 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-21 09:14 UTC (2026-08-21 10:14 WAT)
+
+- URL: https://x.com/anchabadze/status/2090729199438803317
+- Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 1, reply 1, retweet 0
+
+> 🎯 Day 481 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2090238004774178893
+
+**Links in post:** https://twitter.com/anchabadze/status/2090238004774178893
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2090238004774178893
+    - Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits
+    > - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+    
+    **Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-08-20 · Post · 🎯 Day 480 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-08-20 00:42 UTC (2026-08-20 01:42 WAT)
+
+- URL: https://x.com/anchabadze/status/2090238004774178893
+- Metrics (at fetch): bookmark 0, impression 859, like 2, quote 1, reply 0, retweet 0
+
+> 🎯 Day 480 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Studied different vulnerabilities using Anki cards https://twitter.com/anchabadze/status/2089862383401418951
+
+**Links in post:** https://twitter.com/anchabadze/status/2089862383401418951
+
+**Quoted post** 2089862383401418951: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-19 · Post · New day, new duplicate on @immunefi
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @anchabadze — 2026-08-19 15:05 UTC (2026-08-19 16:05 WAT)
+
+- URL: https://x.com/anchabadze/status/2090092818391781426
+- Metrics (at fetch): bookmark 1, impression 1343, like 27, quote 0, reply 4, retweet 0
+
+> New day, new duplicate on @immunefi
+>
+> Five duplicates so far
+>
+> How many more until I get a confirmed report?
+>
+>  #RoadToWeb3SecurityJobChallenge [pic.x.com/oAfIoCdiNX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQGATKVXEAAkxnp.jpg — no alt text provided by author

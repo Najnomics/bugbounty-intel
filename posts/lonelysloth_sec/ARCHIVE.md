@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 37
-- Conversations/threads: 37
+- Posts in this file: 45
+- Conversations/threads: 45
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -507,6 +507,122 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-09-27 · Post · Not long ago it would be hard to see such articles in mainstream financial news.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-09-27 22:11 UTC (2026-09-27 23:11 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2104333199040295271
+- Metrics (at fetch): bookmark 5, impression 1487, like 8, quote 0, reply 0, retweet 0
+
+> Not long ago it would be hard to see such articles in mainstream financial news.
+>
+> Now we have people openly trying to time the implosion of the AI bubble in the WSJ.
+>
+> But I think they are still underestimating how problematic the financials are.
+>
+> As an example: if *every single https://twitter.com/JonathanWeil/status/2104205164190052606
+
+**Links in post:** https://twitter.com/JonathanWeil/status/2104205164190052606
+
+**Quoted post** 2104205164190052606: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-23 · Post · Im infinitely amused by people who believe you cant trust an LLM to write correct code — but you can
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-09-23 16:19 UTC (2026-09-23 17:19 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2102794895488623033
+- Metrics (at fetch): bookmark 9, impression 2071, like 53, quote 0, reply 4, retweet 5
+
+> Im infinitely amused by people who believe you cant trust an LLM to write correct code — but you can trust it to write correct formalizations of your software and FV it.
+>
+> It’s not that FV can’t help the clanker, but if you are trusting it to just work — the LLM can con you to
+
+
+---
+
+## 2026-09-18 · Post · 6.5k bounty.
+
+
+### Post — @lonelysloth_sec — 2026-09-18 05:06 UTC (2026-09-18 06:06 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2100813616354394152
+- Metrics (at fetch): bookmark 4, impression 5854, like 76, quote 0, reply 5, retweet 0
+
+> 6.5k bounty.
+>
+> I guess that is a bounty for Ants https://twitter.com/openlabx_/status/2100811545127309696
+
+**Links in post:** https://twitter.com/openlabx_/status/2100811545127309696
+
+**Quoted post** 2100811545127309696: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-16 · Post · Why hasnt “vibecoding” resulted in thousands of amazing new software products?
+
+
+### Post — @lonelysloth_sec — 2026-09-16 20:50 UTC (2026-09-16 21:50 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2100326461463036017
+- Metrics (at fetch): bookmark 4, impression 2125, like 43, quote 1, reply 5, retweet 1
+
+> Why hasnt “vibecoding” resulted in thousands of amazing new software products?
+>
+> The final product of software development isnt code.
+>
+> It’s trust.
+>
+> Unreliable software often has negative value — you’re better off paying someone to do it manually, doing it yourself, or simply not
+
+
+---
+
+## 2026-09-11 · Post · While it is great to see Blockstream spell out that taking money without authorization is a crime, t
+
+
+### Post — @lonelysloth_sec — 2026-09-11 17:27 UTC (2026-09-11 18:27 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2098463389525958774
+- Metrics (at fetch): bookmark 2, impression 2039, like 27, quote 0, reply 1, retweet 1
+
+> While it is great to see Blockstream spell out that taking money without authorization is a crime, they still suggest that negotiations can somehow make it into “whitehat activity” again.
+>
+> The “whitehat” label is used as a bargaining chip.
+>
+> That is wrong, crime-enabling, and an https://twitter.com/Blockstream/status/2098281867908690394
+
+**Links in post:** https://twitter.com/Blockstream/status/2098281867908690394
+
+**Quoted post** 2098281867908690394: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-08 · Post · @Truthcoin Getting 50M in an actual bug bounty and extorting 50M isnt the same thing.
+
+
+### Post — @lonelysloth_sec — 2026-09-08 21:19 UTC (2026-09-08 22:19 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2097434625845182887
+- Metrics (at fetch): bookmark 0, impression 164, like 0, quote 0, reply 1, retweet 0
+
+> @Truthcoin Getting 50M in an actual bug bounty and extorting 50M isnt the same thing.
+
+
+---
+
 ## 2026-09-08 · Post · Crazy to think by the going “bounty” rate I could well have been a billionaire today.
 
 
@@ -527,6 +643,44 @@ Tags (automatic): Platform: Immunefi
 > It only has the little problem of being illegal— not only for the hacker but even potentially for the people approving the “bounty” especially if it’s user/client funds.
 >
 > But cares about legal stuff and ethics right?
+
+
+---
+
+## 2026-08-30 · Post · The history of “AI” is very similar to that of other major ideologies.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-08-30 19:11 UTC (2026-08-30 20:11 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2094141081533448386
+- Metrics (at fetch): bookmark 3, impression 1909, like 28, quote 1, reply 1, retweet 1
+
+> The history of “AI” is very similar to that of other major ideologies.
+>
+> A bunch of mediocre intellects drunk on their own pseudoscience, who believe they are the enlightened geniuses tasked with saving the world, convince a bunch of rich guys with a god complex to finance a
+
+
+---
+
+## 2026-08-22 · Post · The more I think about it the more certain I am that “AI” intrinsically helps attackers more than de
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-08-22 00:00 UTC (2026-08-22 01:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2090952242325291281
+- Metrics (at fetch): bookmark 16, impression 3461, like 67, quote 1, reply 6, retweet 3
+
+> The more I think about it the more certain I am that “AI” intrinsically helps attackers more than defenders.
+>
+> Attacking doesn’t require understanding. It’s about generating chaos.
+>
+> Throwing a trillion plausible attack vectors at system can break it even without any understanding
 
 
 ---

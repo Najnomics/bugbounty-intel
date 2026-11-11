@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 31
-- Conversations/threads: 29
-- Oldest post captured: 2026-02-09
+- Posts in this file: 106
+- Conversations/threads: 88
+- Oldest post captured: 2025-04-07
 - Newest post captured: 2026-11-05
 
 
@@ -303,7 +303,7 @@ Tags (automatic): Account takeover, OAuth, Mobile / Android / iOS
 ### Thread part 2 — @xssdoctor — 2026-10-01 18:15 UTC (2026-10-01 19:15 WAT)
 
 - URL: https://x.com/xssdoctor/status/2105723371367407838
-- Metrics (at fetch): bookmark 2, impression 3226, like 27, quote 0, reply 1, repost 0
+- Metrics (at fetch): bookmark 2, impression 3227, like 27, quote 0, reply 1, retweet 0
 
 > After some digging, i realized that this was the oauth flow for the iphone app. The flow went like this. the iphone app would redirect to safari. The user would log in on safari, and the redirecturi would redirect back to the app via a deeplink
 
@@ -311,7 +311,7 @@ Tags (automatic): Account takeover, OAuth, Mobile / Android / iOS
 ### Thread part 3 — @xssdoctor — 2026-10-01 18:15 UTC (2026-10-01 19:15 WAT)
 
 - URL: https://x.com/xssdoctor/status/2105723372785062158
-- Metrics (at fetch): bookmark 9, impression 2770, like 63, quote 0, reply 5, repost 0
+- Metrics (at fetch): bookmark 9, impression 2770, like 63, quote 0, reply 5, retweet 0
 
 > well it turns out that I could set any protocol in the redirecturi. The purpose of this is because ios allows custom protocols for deeplinks. So i made a malicious iphone app which redirects into safari with the callbackuri pointing to my malicious app, it leaks the token to my backend. The backend immediately does the token exchange. ATO!
 
@@ -352,13 +352,26 @@ Tags (automatic): Account takeover, OAuth, Mobile / Android / iOS
 ### Post — @xssdoctor — 2026-09-25 19:52 UTC (2026-09-25 20:52 WAT)
 
 - URL: https://x.com/xssdoctor/status/2103573395916939563
-- Metrics (at fetch): bookmark 96, impression 9310, like 190, quote 0, reply 3, repost 21
+- Metrics (at fetch): bookmark 96, impression 9310, like 190, quote 0, reply 3, retweet 21
 
 > This guy is incredible!
 >
 > https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
 
 **Links in post:** https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
+
+
+---
+
+## 2026-09-14 · Post · @DanielMiessler I mean the further away, the less likely it existed that Amount of time ago, since t
+
+
+### Post — @xssdoctor — 2026-09-14 21:32 UTC (2026-09-14 22:32 WAT)
+
+- URL: https://x.com/xssdoctor/status/2099612240215224391
+- Metrics (at fetch): bookmark 1, impression 668, like 3, quote 0, reply 1, retweet 0
+
+> @DanielMiessler I mean the further away, the less likely it existed that Amount of time ago, since there are only 14 billion years of the past
 
 
 ---
@@ -392,6 +405,104 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-09-11 · Post · My practice would be willing to pay a lot of money for this kind of optimization. Honestly it could 
+
+
+### Post — @xssdoctor — 2026-09-11 14:54 UTC (2026-09-11 15:54 WAT)
+
+- URL: https://x.com/xssdoctor/status/2098425076337066169
+- Metrics (at fetch): bookmark 0, impression 407, like 4, quote 0, reply 0, retweet 0
+
+> My practice would be willing to pay a lot of money for this kind of optimization. Honestly it could revolutionize medicine. @OpenAI fix this. Let us use your product to improve our practice and our care of patients.
+
+
+---
+
+## 2026-09-11 · Post · I woke up this morning excited to optimize my workflow. Codex was going to check my emr, check the p
+
+
+### Post — @xssdoctor — 2026-09-11 14:54 UTC (2026-09-11 15:54 WAT)
+
+- URL: https://x.com/xssdoctor/status/2098425073224892921
+- Metrics (at fetch): bookmark 0, impression 403, like 3, quote 0, reply 1, retweet 0
+
+> I woke up this morning excited to optimize my workflow. Codex was going to check my emr, check the patients labs and hospital records. See if I missed anything. But it ran out of tokens after 3 minutes.
+
+
+---
+
+## 2026-09-11 · Reply · @OpenAI just did something amazing. They gave doctors free access to a hipaa-compliant clinicians-on
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2026-09-11 14:54 UTC (2026-09-11 15:54 WAT)
+
+- URL: https://x.com/xssdoctor/status/2098425070079144319
+- Metrics (at fetch): bookmark 1, impression 2121, like 15, quote 0, reply 4, retweet 1
+
+> @OpenAI just did something amazing. They gave doctors free access to a hipaa-compliant clinicians-only version of ChatGPT. Only one problem-they gave us almost no codex tokens and no ability to buy more tokens. This makes this incredible product basically useless for us.
+
+
+---
+
+## 2026-07-11 · Post · https://t.co/o2DVa3WUP0
+
+
+### Post — @xssdoctor — 2026-07-11 16:40 UTC (2026-07-11 17:40 WAT)
+
+- URL: https://x.com/xssdoctor/status/2075983528441835739
+- Metrics (at fetch): bookmark 20, impression 3663, like 23, quote 0, reply 0, retweet 4
+
+> https://t.co/o2DVa3WUP0
+>
+> Another absolute banger from @7urb01
+
+
+---
+
+## 2026-06-10 · Post · @sudhanshur705 @monkehack I mean yes, sometimes. The problem is getting the message there in the fir
+
+
+### Post — @xssdoctor — 2026-06-10 18:12 UTC (2026-06-10 19:12 WAT)
+
+- URL: https://x.com/xssdoctor/status/2064772634575839321
+- Metrics (at fetch): bookmark 0, impression 126, like 3, quote 0, reply 1, retweet 0
+
+> @sudhanshur705 @monkehack I mean yes, sometimes. The problem is getting the message there in the first place with coop in place
+
+
+---
+
+## 2026-06-03 · Post · I forgot to mention who made this awesome video. @7urb01. All of his videos are this awesome btw
+
+
+### Post — @xssdoctor — 2026-06-03 12:11 UTC (2026-06-03 13:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/2062145231290613775
+- Metrics (at fetch): bookmark 3, impression 1697, like 6, quote 0, reply 0, retweet 0
+
+> I forgot to mention who made this awesome video. @7urb01. All of his videos are this awesome btw
+
+
+---
+
+## 2026-06-03 · Post · https://t.co/FMlgQEbgcw
+
+
+### Post — @xssdoctor — 2026-06-03 11:03 UTC (2026-06-03 12:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/2062128090810040325
+- Metrics (at fetch): bookmark 49, impression 5428, like 59, quote 0, reply 1, retweet 7
+
+> https://t.co/FMlgQEbgcw
+>
+> This is so awesome
+
+
+---
+
 ## 2026-04-23 · Post · A few months ago, I found a really cool technique to make prompt Injection more deterministic. @monk
 
 
@@ -412,6 +523,76 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-04-20 · Post · sh*t my claude says:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2026-04-20 13:20 UTC (2026-04-20 14:20 WAT)
+
+- URL: https://x.com/xssdoctor/status/2046217435267653745
+- Metrics (at fetch): bookmark 0, impression 2204, like 20, quote 0, reply 1, retweet 0
+
+> sh*t my claude says:
+>
+> "And the lesson-learned memory — I shouldn't have rm -rf'd without listing first."
+
+
+---
+
+## 2026-04-05 · Post · To all the other veteran hackers out there, be like @Jhaddix. You don’t realize how important your w
+
+
+### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937324159144333
+- Metrics (at fetch): bookmark 6, impression 9131, like 171, quote 2, reply 5, retweet 13
+
+> To all the other veteran hackers out there, be like @Jhaddix. You don’t realize how important your words and attitude are to the next generation. You can make the difference between success and failure for them
+
+
+---
+
+## 2026-04-05 · Post · The first few years of hacking is extremely difficult and demoralizing. You feel like everyone else 
+
+
+### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937322170990830
+- Metrics (at fetch): bookmark 6, impression 6683, like 117, quote 1, reply 3, retweet 10
+
+> The first few years of hacking is extremely difficult and demoralizing. You feel like everyone else is brilliant and you’re stupid.
+
+
+---
+
+## 2026-04-05 · Post · He asked about my hacking journey, and told me about his. He gave me advice and told me that I could
+
+
+### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937319381766516
+- Metrics (at fetch): bookmark 4, impression 4735, like 69, quote 0, reply 1, retweet 0
+
+> He asked about my hacking journey, and told me about his. He gave me advice and told me that I could do it, and to keep working. I’m not sure he knows it, but if he didn’t call me that day, I probably would have stopped hacking completely.
+
+
+---
+
+## 2026-04-05 · Post · I didn’t expect a response. I had reached out to big time hackers in the past and never heard back. 
+
+
+### Post — @xssdoctor — 2026-04-05 23:39 UTC (2026-04-06 00:39 WAT)
+
+- URL: https://x.com/xssdoctor/status/2040937317460783602
+- Metrics (at fetch): bookmark 3, impression 5079, like 54, quote 0, reply 1, retweet 0
+
+> I didn’t expect a response. I had reached out to big time hackers in the past and never heard back. 5 minutes later, my phone rang. I picked it up and it was Jason…
+
+
+---
+
 ## 2026-04-05 · Post · About a year and a half into my hacking journey, I was pretty bummed out. I had done so much work an
 
 
@@ -421,6 +602,41 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 118, impression 39114, like 349, quote 2, reply 18, retweet 19
 
 > About a year and a half into my hacking journey, I was pretty bummed out. I had done so much work and learned so much, but I wasn’t finding any bugs. I decided to do something drastic, and I sent a discord message to a hacking legend, @Jhaddix…
+
+
+---
+
+## 2026-04-02 · Post · Hey guys! If you’re interested in cspt and quirks with frontend frameworks here’s some cool research
+
+
+Tags (automatic): CSP / CSPT
+
+
+### Post — @xssdoctor — 2026-04-02 11:45 UTC (2026-04-02 12:45 WAT)
+
+- URL: https://x.com/xssdoctor/status/2039670493209313657
+- Metrics (at fetch): bookmark 98, impression 7576, like 126, quote 0, reply 5, retweet 25
+
+> Hey guys! If you’re interested in cspt and quirks with frontend frameworks here’s some cool research I did with @ctbbpodcast 
+>
+> https://t.co/A1OXsS8y7B
+
+
+---
+
+## 2026-04-01 · Post · Yeah baby! https://twitter.com/arcanuminfosec/status/2039084835441103352
+
+
+### Post — @xssdoctor — 2026-04-01 21:14 UTC (2026-04-01 22:14 WAT)
+
+- URL: https://x.com/xssdoctor/status/2039451247208514035
+- Metrics (at fetch): bookmark 2, impression 2275, like 16, quote 0, reply 0, retweet 0
+
+> Yeah baby! https://twitter.com/arcanuminfosec/status/2039084835441103352
+
+**Links in post:** https://twitter.com/arcanuminfosec/status/2039084835441103352
+
+**Quoted post** 2039084835441103352: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -453,3 +669,859 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/7urb01/status/2020961128940175562
 
 **Quoted post** 2020961128940175562: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-20 · Post · The latest episode of @DarknetDiaries is so freaking good. I think I was born in the wrong decade….
+
+
+### Post — @xssdoctor — 2026-01-20 21:26 UTC (2026-01-20 22:26 WAT)
+
+- URL: https://x.com/xssdoctor/status/2013724950033478120
+- Metrics (at fetch): bookmark 0, impression 2485, like 19, quote 0, reply 0, retweet 0
+
+> The latest episode of @DarknetDiaries is so freaking good. I think I was born in the wrong decade….
+
+
+---
+
+## 2026-01-20 · Post · He is a legend https://twitter.com/mattjay/status/2013322983356391479
+
+
+### Post — @xssdoctor — 2026-01-20 01:10 UTC (2026-01-20 02:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/2013418796728361053
+- Metrics (at fetch): bookmark 7, impression 11648, like 36, quote 0, reply 1, retweet 1
+
+> He is a legend https://twitter.com/mattjay/status/2013322983356391479
+
+**Links in post:** https://twitter.com/mattjay/status/2013322983356391479
+
+**Quoted post** 2013322983356391479: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-26 · Post · Wtf who is this guy??? This is incredible https://twitter.com/nowaskyjr/status/1992717862398800081
+
+
+### Post — @xssdoctor — 2025-11-26 00:54 UTC (2025-11-26 01:54 WAT)
+
+- URL: https://x.com/xssdoctor/status/1993483381825585543
+- Metrics (at fetch): bookmark 183, impression 34624, like 215, quote 0, reply 5, retweet 16
+
+> Wtf who is this guy??? This is incredible https://twitter.com/nowaskyjr/status/1992717862398800081
+
+**Links in post:** https://twitter.com/nowaskyjr/status/1992717862398800081
+
+**Quoted post** 1992717862398800081: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-26 · Post · This is awesome https://twitter.com/nowaskyjr/status/1993421017381744974
+
+
+### Post — @xssdoctor — 2025-11-26 00:43 UTC (2025-11-26 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1993480725719662615
+- Metrics (at fetch): bookmark 49, impression 6999, like 80, quote 0, reply 0, retweet 5
+
+> This is awesome https://twitter.com/nowaskyjr/status/1993421017381744974
+
+**Links in post:** https://twitter.com/nowaskyjr/status/1993421017381744974
+
+**Quoted post** 1993421017381744974: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-25 · Post · For the past 3 months I worked really hard with @Jhaddix to make a course on client side exploitatio
+
+
+### Post — @xssdoctor — 2025-11-25 17:33 UTC (2025-11-25 18:33 WAT)
+
+- URL: https://x.com/xssdoctor/status/1993372504182706246
+- Metrics (at fetch): bookmark 128, impression 26102, like 224, quote 4, reply 7, retweet 29
+
+> For the past 3 months I worked really hard with @Jhaddix to make a course on client side exploitation. I think it turned out really well, and It’s finally live! I hope you guys like it
+>
+> https://www.arcanum-sec.com/training/tbhm-expansion-1
+
+**Links in post:** https://www.arcanum-sec.com/training/tbhm-expansion-1
+
+
+---
+
+## 2025-11-20 · Post · Woh this is awesome! My man @busf4ctor is cooking!
+
+
+### Post — @xssdoctor — 2025-11-20 13:51 UTC (2025-11-20 14:51 WAT)
+
+- URL: https://x.com/xssdoctor/status/1991504730678317485
+- Metrics (at fetch): bookmark 47, impression 6367, like 64, quote 0, reply 0, retweet 8
+
+> Woh this is awesome! My man @busf4ctor is cooking!
+>
+> https://bugbountydaily.com/
+
+**Links in post:** https://bugbountydaily.com/
+
+
+---
+
+## 2025-11-08 · Thread · Here's a neat trick
+
+
+Tags (automatic): XSS
+
+
+### Post — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957787478516200
+- Metrics (at fetch): bookmark 302, impression 34704, like 275, quote 3, reply 9, retweet 34
+
+> Here's a neat trick
+>
+> first.html
+>
+> &lt;a href = "second.html"&gt;click me&lt;/a&gt;
+> &lt;script&gt;
+> http://window.name = "booyakasha"
+> &lt;/script&gt;
+>
+> second.html
+>
+> &lt;script&gt;
+> http://window.open("https://victim.com/xss.html", "booyakasha")
+> &lt;/script&gt;
+>
+> explanation in comments
+
+**Links in post:** http://window.name, http://window.open, https://victim.com/xss.html
+
+
+### Thread part 2 — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957788883354065
+- Metrics (at fetch): bookmark 1, impression 3058, like 7, quote 0, reply 1, retweet 0
+
+> window.opener is special. it is a way for one window/tab to reference another and persists across redirects.
+>
+> As opposed to x = http://window.open("second.html") that will NOT persist if the window is redirected.
+
+**Links in post:** http://window.open
+
+
+### Thread part 3 — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957790196207860
+- Metrics (at fetch): bookmark 0, impression 2561, like 4, quote 0, reply 1, retweet 0
+
+> the problem with http://window.open is that it only goes one way. The opened window can reference the opener with http://window.open but the opener cant reference the opened window
+
+**Links in post:** http://window.open
+
+
+### Thread part 4 — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957791521874194
+- Metrics (at fetch): bookmark 0, impression 2348, like 5, quote 0, reply 1, retweet 0
+
+> Another important thing to remember is that you can only open a window or tab with user interaction. The exception to this rule is if you are opening a window into an ALREADY opened window/tab
+
+
+### Thread part 5 — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957793312526845
+- Metrics (at fetch): bookmark 0, impression 2124, like 5, quote 0, reply 1, retweet 0
+
+> this is where http://window.name comes in. if you have a window that has a name (http://window.name = "booyakasha"). another window/tab in the same tab group can open a window WiTHOUT user interaction with http://window.open("second.html", "booyakasha")
+
+**Links in post:** http://window.name, http://window.open
+
+
+### Thread part 6 — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957795275530320
+- Metrics (at fetch): bookmark 8, impression 1955, like 8, quote 0, reply 1, retweet 0
+
+> putting these things together, we can see that if the first window declares a http://window.name and then the opened window immediately opens a window with http://window.name() using the http://window.name of the first window, you now have 2 windows that can
+
+**Links in post:** http://window.name
+
+
+### Thread part 7 — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957796684726562
+- Metrics (at fetch): bookmark 0, impression 2770, like 5, quote 0, reply 1, retweet 1
+
+> There are MANY use cases for this. this helps with postmessage exploits (now both windows can send postmessages to each other even if the pages are redirected multiple times), self-xss etc
+
+
+### Thread part 8 — @xssdoctor — 2025-11-08 00:43 UTC (2025-11-08 01:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1986957797838201288
+- Metrics (at fetch): bookmark 2, impression 2574, like 4, quote 0, reply 1, retweet 1
+
+> try it yourself. it feels like magic.
+
+
+---
+
+## 2025-11-01 · Post · This may be the perfect podcast episode. It has everything: hacking tips, crazy stories, amazing mus
+
+
+### Post — @xssdoctor — 2025-11-01 18:44 UTC (2025-11-01 19:44 WAT)
+
+- URL: https://x.com/xssdoctor/status/1984693118403289262
+- Metrics (at fetch): bookmark 19, impression 11084, like 65, quote 0, reply 0, retweet 6
+
+> This may be the perfect podcast episode. It has everything: hacking tips, crazy stories, amazing music and 3 buddies having a great time. Great job @ctbbpodcast @Rhynorater @gr3pme @rez0__  
+>
+> https://youtu.be/FdByZdhlSlU?si=ifqYFxzjaC5zLV6c
+
+**Links in post:** https://youtu.be/FdByZdhlSlU?si=ifqYFxzjaC5zLV6c
+
+
+---
+
+## 2025-09-21 · Post · My people. Thank you @Hacker0x01 for helping us get together and do what we love [pic.x.com/4yZtRcbd
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-09-21 01:22 UTC (2025-09-21 02:22 WAT)
+
+- URL: https://x.com/xssdoctor/status/1969572865344487559
+- Metrics (at fetch): bookmark 6, impression 6135, like 92, quote 1, reply 2, retweet 2
+
+> My people. Thank you @Hacker0x01 for helping us get together and do what we love [pic.x.com/4yZtRcbdNE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1VUFQKWwAEqrPn.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-20 · Post · Blowing off steam after a long day of hacking [pic.x.com/TmocgU2ZJY]
+
+
+### Post — @xssdoctor — 2025-09-20 22:45 UTC (2025-09-20 23:45 WAT)
+
+- URL: https://x.com/xssdoctor/status/1969533302215168502
+- Metrics (at fetch): bookmark 2, impression 15725, like 57, quote 1, reply 4, retweet 3
+
+> Blowing off steam after a long day of hacking [pic.x.com/TmocgU2ZJY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1UwF6_W8AMqg-l.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G1UwF7LXsAAjsha.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G1UwF7KXkAAZs6N.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-20 · Post · So excited for today’s @Hacker0x01 ambassador event in Miami! These guys have been killing it over t
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-09-20 12:18 UTC (2025-09-20 13:18 WAT)
+
+- URL: https://x.com/xssdoctor/status/1969375702743986351
+- Metrics (at fetch): bookmark 1, impression 4979, like 54, quote 0, reply 1, retweet 7
+
+> So excited for today’s @Hacker0x01 ambassador event in Miami! These guys have been killing it over the past 2 weeks popping crits all over the place. Today we’re going to bring it home! [pic.x.com/xyBisiDdX1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1Sgw-jWkAA8UvB.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-07 · Post · There is almost nothing in the world more fun than hacking with other people
+
+
+### Post — @xssdoctor — 2025-09-07 21:22 UTC (2025-09-07 22:22 WAT)
+
+- URL: https://x.com/xssdoctor/status/1964801373616349213
+- Metrics (at fetch): bookmark 1, impression 5292, like 73, quote 0, reply 4, retweet 6
+
+> There is almost nothing in the world more fun than hacking with other people
+
+
+---
+
+## 2025-09-03 · Thread · 🚨 Remote hacking for Hack Miami has officially begun! 🚨
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-09-03 11:26 UTC (2025-09-03 12:26 WAT)
+
+- URL: https://x.com/xssdoctor/status/1963201910581694949
+- Metrics (at fetch): bookmark 5, impression 8900, like 47, quote 1, reply 8, retweet 6
+
+> 🚨 Remote hacking for Hack Miami has officially begun! 🚨
+>
+> We currently have 5 spots available due to cancellations. If you’re interested, please reply here.
+>
+> 📍 In-person hacking: September 20th
+> 💸 Admission is FREE (covered by @Hacker0x01)
+
+
+### Thread part 2 — @xssdoctor — 2025-09-03 11:30 UTC (2025-09-03 12:30 WAT)
+
+- URL: https://x.com/xssdoctor/status/1963202952765579321
+- Metrics (at fetch): bookmark 2, impression 1387, like 6, quote 0, reply 0, retweet 0
+
+> Here’s the link
+>
+> https://h1.community/events/details/hackerone-us-south-hackerone-club-presents-hacking-miami-edition/cohost-us-south-hackerone-club
+
+**Links in post:** https://h1.community/events/details/hackerone-us-south-hackerone-club-presents-hacking-miami-edition/cohost-us-south-hackerone-club
+
+
+---
+
+## 2025-08-28 · Thread · Found a great waf bypass for client side path traversal (a thread)
+
+
+### Post — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961157661048578402
+- Metrics (at fetch): bookmark 187, impression 16150, like 201, quote 0, reply 5, retweet 29
+
+> Found a great waf bypass for client side path traversal (a thread)
+
+
+### Thread part 2 — @xssdoctor — 2025-08-29 00:17 UTC (2025-08-29 01:17 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961221556446560364
+- Metrics (at fetch): bookmark 4, impression 1134, like 9, quote 0, reply 1, retweet 0
+
+> @Rhynorater @ctbbpodcast The full payload is %5c.%09.%5c (it was truncated above)
+
+
+---
+
+## 2025-08-28 · Post · I have found this pattern on two targets in the past week. 
+
+
+### Post — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961157668602511727
+- Metrics (at fetch): bookmark 4, impression 2233, like 16, quote 0, reply 2, retweet 0
+
+> I have found this pattern on two targets in the past week. 
+>
+> Of course you need other gadgets to exploit, but this is a nice waf bypass.
+
+
+---
+
+## 2025-08-28 · Post · However, as mentioned on @ctbbpodcast, fetch will REMOVE a tab (%09) from the url. So if you enter h
+
+
+### Post — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961157665918185562
+- Metrics (at fetch): bookmark 13, impression 2378, like 28, quote 0, reply 2, retweet 0
+
+> However, as mentioned on @ctbbpodcast, fetch will REMOVE a tab (%09) from the url. So if you enter https://t.co/rLTbvIbAsU, the js will often url decode, then remove the tab and normalize \ to / and requests https://t.co/7DuQW58kHZ. If you repeat the pattern, you can often get
+
+
+---
+
+## 2025-08-28 · Post · This was inspired by @Rhynorater and @ctbbpodcast. 
+
+
+### Post — @xssdoctor — 2025-08-28 20:03 UTC (2025-08-28 21:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1961157663464608118
+- Metrics (at fetch): bookmark 12, impression 2601, like 18, quote 0, reply 2, retweet 2
+
+> This was inspired by @Rhynorater and @ctbbpodcast. 
+>
+> So one common pattern you see is 
+>
+> URL: https://t.co/OMeQdCLk0g
+> Results in a fetch request to https://t.co/AyqUZeNwSW but the waf is blocking %2f..%2f or %5c..%5c
+
+
+---
+
+## 2025-08-02 · Post · years ago @DanielMiessler made some wild and specific predictions about the future of ai…the thing i
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2025-08-02 13:34 UTC (2025-08-02 14:34 WAT)
+
+- URL: https://x.com/xssdoctor/status/1951637714643599543
+- Metrics (at fetch): bookmark 20, impression 3576, like 44, quote 0, reply 1, retweet 4
+
+> years ago @DanielMiessler made some wild and specific predictions about the future of ai…the thing is that they all came true. 
+>
+> Check out what this dude is doing. It’s incredible
+>
+> https://t.co/hN0xp8j33c
+
+
+---
+
+## 2025-07-29 · Post · @G0LDEN_infosec You only need 3 endpoints for this /login /logout and /xss. Auth can be done via get
+
+
+Tags (automatic): XSS
+
+
+### Post — @xssdoctor — 2025-07-29 22:49 UTC (2025-07-29 23:49 WAT)
+
+- URL: https://x.com/xssdoctor/status/1950327898906251546
+- Metrics (at fetch): bookmark 1, impression 379, like 7, quote 0, reply 1, retweet 0
+
+> @G0LDEN_infosec You only need 3 endpoints for this /login /logout and /xss. Auth can be done via get request for the login csrf. You can also hard code the cookies so you don’t have to deal with databases
+
+
+---
+
+## 2025-07-29 · Post · I earned $500 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @xssdoctor — 2025-07-29 16:44 UTC (2025-07-29 17:44 WAT)
+
+- URL: https://x.com/xssdoctor/status/1950235888195162411
+- Metrics (at fetch): bookmark 2, impression 2213, like 52, quote 0, reply 1, retweet 3
+
+> I earned $500 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM #ItTakesACrowd
+
+
+---
+
+## 2025-07-29 · Post · I earned $1,500 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @xssdoctor — 2025-07-29 16:03 UTC (2025-07-29 17:03 WAT)
+
+- URL: https://x.com/xssdoctor/status/1950225612037034003
+- Metrics (at fetch): bookmark 4, impression 3288, like 92, quote 0, reply 0, retweet 4
+
+> I earned $1,500 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM #ItTakesACrowd
+
+
+---
+
+## 2025-07-25 · Post · Woh! Just found this https://t.co/iiYnwtkjAG. Amazing for expanding scope check it out
+
+
+### Post — @xssdoctor — 2025-07-25 10:58 UTC (2025-07-25 11:58 WAT)
+
+- URL: https://x.com/xssdoctor/status/1948699437619888431
+- Metrics (at fetch): bookmark 63, impression 6364, like 87, quote 0, reply 1, retweet 12
+
+> Woh! Just found this https://t.co/iiYnwtkjAG. Amazing for expanding scope check it out
+
+
+---
+
+## 2025-07-21 · Post · I earned $1,250 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @xssdoctor — 2025-07-21 18:37 UTC (2025-07-21 19:37 WAT)
+
+- URL: https://x.com/xssdoctor/status/1947365253131436105
+- Metrics (at fetch): bookmark 8, impression 5116, like 106, quote 0, reply 3, retweet 3
+
+> I earned $1,250 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM #ItTakesACrowd
+
+
+---
+
+## 2025-07-01 · Post · I will be hosting a @Hacker0x01  hacking event in miami on September 20th. We will pick a target, @G
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-07-01 17:15 UTC (2025-07-01 18:15 WAT)
+
+- URL: https://x.com/xssdoctor/status/1940096902760190085
+- Metrics (at fetch): bookmark 14, impression 13937, like 90, quote 2, reply 0, retweet 12
+
+> I will be hosting a @Hacker0x01  hacking event in miami on September 20th. We will pick a target, @G0LDEN_infosec will provide recon. 2 weeks of remote hacking, 1 day live event. Participation is free. There will be talks, food and a lot of fun. RSVP here https://t.co/ioXcF6BIwK
+
+
+---
+
+## 2025-06-20 · Post · My absolute favorite chrome extension. Like crack for cspt addicts https://t.co/mfj9iJBI2Z
+
+
+Tags (automatic): CSP / CSPT
+
+
+### Post — @xssdoctor — 2025-06-20 23:44 UTC (2025-06-21 00:44 WAT)
+
+- URL: https://x.com/xssdoctor/status/1936208453216674004
+- Metrics (at fetch): bookmark 19, impression 3114, like 33, quote 0, reply 1, retweet 3
+
+> My absolute favorite chrome extension. Like crack for cspt addicts https://t.co/mfj9iJBI2Z
+
+**Quoted post** 1936200027124142193: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-06-20 · Post · Very strange. @OpenAI’s tts-1 model is giving me a Claude error when I try to put in very long input
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @xssdoctor — 2025-06-20 18:49 UTC (2025-06-20 19:49 WAT)
+
+- URL: https://x.com/xssdoctor/status/1936134353827828005
+- Metrics (at fetch): bookmark 3, impression 3080, like 20, quote 0, reply 1, retweet 0
+
+> Very strange. @OpenAI’s tts-1 model is giving me a Claude error when I try to put in very long inputs https://t.co/kAyqp88AoD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gt6H7gCWwAAO717.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-14 · Post · So excited about my first caido plugin. You choose a request and a color and it colors all similar r
+
+
+### Post — @xssdoctor — 2025-06-14 19:53 UTC (2025-06-14 20:53 WAT)
+
+- URL: https://x.com/xssdoctor/status/1933976114491216140
+- Metrics (at fetch): bookmark 27, impression 8300, like 71, quote 0, reply 1, retweet 10
+
+> So excited about my first caido plugin. You choose a request and a color and it colors all similar requests (prospectively and retroactively). Enjoy! https://t.co/mqqRyUGgdB
+
+
+---
+
+## 2025-06-12 · Post · In my scenario, I had xss but i needed to import a js file to escalate. The csp was tight, but i was
+
+
+Tags (automatic): XSS, CSP / CSPT
+
+
+### Post — @xssdoctor — 2025-06-12 00:12 UTC (2025-06-12 01:12 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932954187806978486
+- Metrics (at fetch): bookmark 10, impression 7652, like 77, quote 0, reply 4, retweet 1
+
+> In my scenario, I had xss but i needed to import a js file to escalate. The csp was tight, but i was able to upload pdfs to the same domain. I uploaded a pdf with my malicious js in it, and I was off to the races. Enjoy!
+
+
+---
+
+## 2025-06-12 · Post · Here you guys go. Here is a pdf file that is ALSO a javascript file //_id":"../../.././/////////bypa
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @xssdoctor — 2025-06-12 00:11 UTC (2025-06-12 01:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932953780082868644
+- Metrics (at fetch): bookmark 186, impression 20562, like 191, quote 4, reply 2, retweet 19
+
+> Here you guys go. Here is a pdf file that is ALSO a javascript file //_id":"../../.././/////////bypass":"%PDF-1.3 1 0 obj &lt;&lt;   /Pages 2 0 R   /Type /Catalog &gt;&gt; endobj 2 0 obj &lt;&lt;   /Count 1   /Kids [     3 0 R   ]   /Type /Pages &gt;&gt; endobj 3 0 obj &lt;&lt;   /Contents 4 0 R   /MediaBox [
+
+
+---
+
+## 2025-06-12 · Post · So i thought, why cant it ALSO be valid javascript?
+
+
+### Post — @xssdoctor — 2025-06-12 00:10 UTC (2025-06-12 01:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932953601917530118
+- Metrics (at fetch): bookmark 1, impression 5572, like 29, quote 0, reply 1, retweet 0
+
+> So i thought, why cant it ALSO be valid javascript?
+
+
+---
+
+## 2025-06-12 · Post · This research is based on this article https://t.co/9c3PjDeK3r which explains that the magic bytes o
+
+
+### Post — @xssdoctor — 2025-06-12 00:10 UTC (2025-06-12 01:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932953539648627194
+- Metrics (at fetch): bookmark 62, impression 5837, like 84, quote 0, reply 3, retweet 8
+
+> This research is based on this article https://t.co/9c3PjDeK3r which explains that the magic bytes of a pdf (and webp) file are NOT in the beginning of the file. The article goes on to show that a valid pdf can be valid json
+
+
+---
+
+## 2025-06-12 · Post · I just found the coolest csp bypass ever! did you know that a valid pdf can ALSO be valid javascript
+
+
+Tags (automatic): CSP / CSPT
+
+
+### Post — @xssdoctor — 2025-06-12 00:09 UTC (2025-06-12 01:09 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932953259339083929
+- Metrics (at fetch): bookmark 711, impression 60265, like 760, quote 2, reply 11, retweet 122
+
+> I just found the coolest csp bypass ever! did you know that a valid pdf can ALSO be valid javascript? (details below)
+
+
+---
+
+## 2025-06-11 · Post · playing with o3 pro. Its very slow, but SO smart. Right now i'm using it to help me with a POC explo
+
+
+Tags (automatic): XSS
+
+
+### Post — @xssdoctor — 2025-06-11 22:00 UTC (2025-06-11 23:00 WAT)
+
+- URL: https://x.com/xssdoctor/status/1932920908298977491
+- Metrics (at fetch): bookmark 3, impression 2865, like 27, quote 0, reply 1, retweet 0
+
+> playing with o3 pro. Its very slow, but SO smart. Right now i'm using it to help me with a POC exploiting xss -&gt; csrf in protobuf (no easy task)
+
+
+---
+
+## 2025-06-08 · Post · Got a chance to test jxscout premium. I think this is going to be a game changer for js analysis
+
+
+### Post — @xssdoctor — 2025-06-08 16:05 UTC (2025-06-08 17:05 WAT)
+
+- URL: https://x.com/xssdoctor/status/1931744459211129054
+- Metrics (at fetch): bookmark 46, impression 9456, like 57, quote 0, reply 3, retweet 5
+
+> Got a chance to test jxscout premium. I think this is going to be a game changer for js analysis
+>
+> https://t.co/NGk9qbkXM3
+
+
+---
+
+## 2025-06-07 · Post · Any hackers in South Florida?
+
+
+### Post — @xssdoctor — 2025-06-07 23:12 UTC (2025-06-08 00:12 WAT)
+
+- URL: https://x.com/xssdoctor/status/1931489458605674735
+- Metrics (at fetch): bookmark 1, impression 3513, like 10, quote 0, reply 3, retweet 3
+
+> Any hackers in South Florida?
+
+
+---
+
+## 2025-06-03 · Post · I earned $1,250 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @xssdoctor — 2025-06-03 19:13 UTC (2025-06-03 20:13 WAT)
+
+- URL: https://x.com/xssdoctor/status/1929979717752352948
+- Metrics (at fetch): bookmark 11, impression 3937, like 111, quote 0, reply 1, retweet 5
+
+> I earned $1,250 for my submission on @bugcrowd https://t.co/5EJ0NMkrjM #ItTakesACrowd
+
+
+---
+
+## 2025-06-02 · Post · Thanks @NahamSec for posting my Nahamcon talk online. For anyone who wants to see it, here it is. ht
+
+
+### Post — @xssdoctor — 2025-06-02 16:02 UTC (2025-06-02 17:02 WAT)
+
+- URL: https://x.com/xssdoctor/status/1929569290182611353
+- Metrics (at fetch): bookmark 35, impression 6332, like 74, quote 0, reply 3, retweet 7
+
+> Thanks @NahamSec for posting my Nahamcon talk online. For anyone who wants to see it, here it is. https://t.co/GMoqPq7DA1
+
+
+---
+
+## 2025-06-01 · Post · Check out this awesome thing that @infinitelogins made for me https://t.co/mZy3QwbutZ
+
+
+### Post — @xssdoctor — 2025-06-01 02:08 UTC (2025-06-01 03:08 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928997167349268625
+- Metrics (at fetch): bookmark 7, impression 2358, like 17, quote 1, reply 0, retweet 1
+
+> Check out this awesome thing that @infinitelogins made for me https://t.co/mZy3QwbutZ
+
+
+---
+
+## 2025-05-31 · Thread · I currently have 4 bugs in triage. let me tell you about them (a thread)
+
+
+Tags (automatic): XSS, Account takeover, OAuth
+
+
+### Post — @xssdoctor — 2025-05-31 20:04 UTC (2025-05-31 21:04 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928905451824910345
+- Metrics (at fetch): bookmark 62, impression 11034, like 112, quote 0, reply 3, retweet 13
+
+> I currently have 4 bugs in triage. let me tell you about them (a thread)
+
+
+### Thread part 2 — @xssdoctor — 2025-05-31 20:05 UTC (2025-05-31 21:05 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928905782898139494
+- Metrics (at fetch): bookmark 4, impression 1230, like 13, quote 0, reply 1, retweet 0
+
+> 1. reflected self xss -&gt; ato. The self-xss was in the "create a webpage" section of the page. Coupled with a login csrf and a non-httponly cookie leads to ato
+
+
+### Thread part 3 — @xssdoctor — 2025-05-31 20:06 UTC (2025-05-31 21:06 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928905956374581260
+- Metrics (at fetch): bookmark 4, impression 1177, like 8, quote 0, reply 2, retweet 0
+
+> The takeaway for me was that if you have window A logged into victim account, and window B logged into user account, as long as window A is not redirected, you can exfiltrate cookies from the victim account
+
+
+### Thread part 4 — @xssdoctor — 2025-05-31 20:07 UTC (2025-05-31 21:07 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928906120451502186
+- Metrics (at fetch): bookmark 2, impression 1191, like 7, quote 0, reply 1, retweet 0
+
+> bug 2: self-xss -&gt; ato. There was another xss on the same page. Used the same technique. Takeaway: keep looking!
+
+
+### Thread part 5 — @xssdoctor — 2025-05-31 20:08 UTC (2025-05-31 21:08 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928906574019367150
+- Metrics (at fetch): bookmark 10, impression 1239, like 9, quote 0, reply 1, retweet 2
+
+> bug 3: target is an open source application which had a portal and backend. Found an oauth misconfiguration in redirectURI. Any unicode was normalized to a ?, so https://attacker.com%ef%bc%8f@realredirect.com was normalized to https://attacker.com?@realredirect.com
+
+**Links in post:** https://attacker.com, https://attacker.com?@realredirect.com
+
+
+### Thread part 6 — @xssdoctor — 2025-05-31 20:09 UTC (2025-05-31 21:09 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928906757281136662
+- Metrics (at fetch): bookmark 1, impression 1053, like 7, quote 0, reply 1, retweet 0
+
+> Takeaway: don't shy away from open source applications, they may seem scary, but theyre just applications like any other
+
+
+### Thread part 7 — @xssdoctor — 2025-05-31 20:10 UTC (2025-05-31 21:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928907018955260364
+- Metrics (at fetch): bookmark 2, impression 1780, like 10, quote 0, reply 1, retweet 0
+
+> bug 4: xss in third party iframe + postmessage leads to data leak. There was a postmessage handler on the page which allowed messages from any iframe on the page. The postmessage returned account information
+
+
+### Thread part 8 — @xssdoctor — 2025-05-31 20:11 UTC (2025-05-31 21:11 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928907159628054968
+- Metrics (at fetch): bookmark 3, impression 1565, like 10, quote 0, reply 0, retweet 1
+
+> takeaway: dont ignore third party iframes!
+
+
+---
+
+## 2025-05-30 · Post · Submitted 2 bugs today with 2 awesome hackers @an1msh_ and @busf4ctor. Collaboration is the best!
+
+
+### Post — @xssdoctor — 2025-05-30 18:53 UTC (2025-05-30 19:53 WAT)
+
+- URL: https://x.com/xssdoctor/status/1928525236011474991
+- Metrics (at fetch): bookmark 0, impression 2114, like 36, quote 0, reply 0, retweet 3
+
+> Submitted 2 bugs today with 2 awesome hackers @an1msh_ and @busf4ctor. Collaboration is the best!
+
+
+---
+
+## 2025-05-22 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/xssdoctor TogetherWeHitHar
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2025-05-22 12:13 UTC (2025-05-22 13:13 WAT)
+
+- URL: https://x.com/xssdoctor/status/1925525308397990333
+- Metrics (at fetch): bookmark 6, impression 3497, like 89, quote 0, reply 1, retweet 1
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/xssdoctor #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/xssdoctor
+
+
+---
+
+## 2025-05-05 · Post · Nothing levels up your hacking skills like collaborating with great people. @un1tycyb3r @busf4ctor
+
+
+### Post — @xssdoctor — 2025-05-05 15:43 UTC (2025-05-05 16:43 WAT)
+
+- URL: https://x.com/xssdoctor/status/1919417705104388378
+- Metrics (at fetch): bookmark 3, impression 1676, like 23, quote 0, reply 1, retweet 0
+
+> Nothing levels up your hacking skills like collaborating with great people. @un1tycyb3r @busf4ctor
+
+
+---
+
+## 2025-05-03 · Post · Super excited to be speaking at Nahamcon this year. Thanks for having me @NahamSec! [pic.x.com/Bx8eF
+
+
+### Post — @xssdoctor — 2025-05-03 22:26 UTC (2025-05-03 23:26 WAT)
+
+- URL: https://x.com/xssdoctor/status/1918794325632151937
+- Metrics (at fetch): bookmark 10, impression 8388, like 131, quote 0, reply 4, retweet 3
+
+> Super excited to be speaking at Nahamcon this year. Thanks for having me @NahamSec! [pic.x.com/Bx8eF8KLmn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqDs3kEWcAAWUQ7.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-07 · Post · @HackingNotes @Mokusou4 this works because the cookie was NOT httponly. We now have the auth cookie 
+
+
+Tags (automatic): Account takeover
+
+
+### Post — @xssdoctor — 2025-04-07 17:10 UTC (2025-04-07 18:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1909292697396916475
+- Metrics (at fetch): bookmark 0, impression 1248, like 5, quote 0, reply 0, retweet 0
+
+> @HackingNotes @Mokusou4 this works because the cookie was NOT httponly. We now have the auth cookie to the victim's account and have ATO

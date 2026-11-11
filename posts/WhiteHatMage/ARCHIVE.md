@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 118
-- Conversations/threads: 112
-- Oldest post captured: 2025-12-26
+- Posts in this file: 134
+- Conversations/threads: 128
+- Oldest post captured: 2025-12-02
 - Newest post captured: 2026-11-10
 
 
@@ -219,7 +219,15 @@ Tags (automatic): Smart contract / DeFi
 
 > https://t.co/MEcdpI2G0Z
 
-**Quoted post** 2001995673969799526: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @WhiteHatMage — 2025-12-19 12:38 UTC (2025-12-19 13:38 WAT)
+    
+    - URL: https://x.com/WhiteHatMage/status/2001995673969799526
+    - Metrics (at fetch): bookmark 2, impression 4215, like 34, quote 1, reply 16, retweet 0
+    
+    > Would you recommend web3 security as a career path in 2026 for a friend?
+    
 
 
 ---
@@ -2213,3 +2221,279 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/2004600203597262848/img/VUsKf_-YzK4aNQDr.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-19 · Post · Would you recommend web3 security as a career path in 2026 for a friend?
+
+
+### Post — @WhiteHatMage — 2025-12-19 12:38 UTC (2025-12-19 13:38 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2001995673969799526
+- Metrics (at fetch): bookmark 2, impression 4215, like 34, quote 1, reply 16, retweet 0
+
+> Would you recommend web3 security as a career path in 2026 for a friend?
+
+
+---
+
+## 2025-12-16 · Post · Check the PRs, and commits on open branches before embarking on a complex PoC 😭
+
+
+### Post — @WhiteHatMage — 2025-12-16 18:37 UTC (2025-12-16 19:37 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2000998796239712413
+- Metrics (at fetch): bookmark 13, impression 2437, like 46, quote 0, reply 5, retweet 2
+
+> Check the PRs, and commits on open branches before embarking on a complex PoC 😭
+
+
+---
+
+## 2025-12-16 · Post · Update: I'm an idiot, and once again I realized it after a long time creating a PoC.
+
+
+### Post — @WhiteHatMage — 2025-12-16 18:26 UTC (2025-12-16 19:26 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2000995917453996365
+- Metrics (at fetch): bookmark 1, impression 797, like 16, quote 0, reply 4, retweet 0
+
+> Update: I'm an idiot, and once again I realized it after a long time creating a PoC.
+>
+> The project fixed the issue on a recent commit, but never released it.
+>
+> This doesn't happen with Criticals that are fixed ASAP. I hope this time it's a lesson learnt.
+
+
+---
+
+## 2025-12-16 · Post · I look for Criticals and I keep finding Mediums/Highs on live code.
+
+
+### Post — @WhiteHatMage — 2025-12-16 17:58 UTC (2025-12-16 18:58 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2000989021179404719
+- Metrics (at fetch): bookmark 10, impression 2802, like 77, quote 0, reply 3, retweet 1
+
+> I look for Criticals and I keep finding Mediums/Highs on live code.
+>
+> And I know I will spend more time and energy on them, preventing me from finding epic issues.
+>
+> I still have to report those. I can't delegate them either. Not worth it.
+
+
+---
+
+## 2025-12-10 · Post · Once again so close to a big Critical, but code is safe by an inch. I'll need to explore more ideas.
+
+
+### Post — @WhiteHatMage — 2025-12-10 20:09 UTC (2025-12-10 21:09 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1998847527932871041
+- Metrics (at fetch): bookmark 4, impression 8939, like 98, quote 2, reply 5, retweet 1
+
+> Once again so close to a big Critical, but code is safe by an inch. I'll need to explore more ideas.
+
+
+---
+
+## 2025-12-10 · Post · If a project only gets a report at the end of an engagement, and nothing else, I'd say it's not mone
+
+
+### Post — @WhiteHatMage — 2025-12-10 16:26 UTC (2025-12-10 17:26 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1998791456769847662
+- Metrics (at fetch): bookmark 4, impression 863, like 17, quote 0, reply 0, retweet 0
+
+> If a project only gets a report at the end of an engagement, and nothing else, I'd say it's not money well spent.
+>
+> They should walk out of any audit with greater knowledge about the weaknesses of their systems, and where they should put extra attention.
+>
+> Not just a bunch of fixes
+
+
+---
+
+## 2025-12-10 · Post · All vulnerabilities in live code are trivial.
+
+
+### Post — @WhiteHatMage — 2025-12-10 16:21 UTC (2025-12-10 17:21 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1998790293471244291
+- Metrics (at fetch): bookmark 21, impression 9108, like 80, quote 1, reply 2, retweet 4
+
+> All vulnerabilities in live code are trivial.
+>
+> The bugs that cause them are always 1 line or a missing check. The tough part has always been proving an exploit path.
+>
+> Audits would be better if they were actual security reviews, with defensive measures instead of bug hunting. https://t.co/B7ZYrTyvaj
+
+**Quoted post** 1998422395087122921: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-10 · Post · @jack__sanford @immunefi Maybe the projects with the bigger bounties have improved their security. W
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @WhiteHatMage — 2025-12-10 16:08 UTC (2025-12-10 17:08 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1998786922232295450
+- Metrics (at fetch): bookmark 0, impression 230, like 4, quote 0, reply 0, retweet 0
+
+> @jack__sanford @immunefi Maybe the projects with the bigger bounties have improved their security. We also don't see much innovation as in previous years.
+
+
+---
+
+## 2025-12-10 · Post · @jack__sanford @immunefi There are still a lot of Criticals reported, so it's not that that the over
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @WhiteHatMage — 2025-12-10 16:06 UTC (2025-12-10 17:06 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1998786329128349953
+- Metrics (at fetch): bookmark 0, impression 252, like 2, quote 0, reply 1, retweet 0
+
+> @jack__sanford @immunefi There are still a lot of Criticals reported, so it's not that that the overall security of the space improved that much in real terms.
+
+
+---
+
+## 2025-12-08 · Post · Very cool of Yearn having all past security disclosures, including bounties and other events.
+
+
+### Post — @WhiteHatMage — 2025-12-08 12:43 UTC (2025-12-08 13:43 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1998010443386728828
+- Metrics (at fetch): bookmark 69, impression 7829, like 124, quote 0, reply 1, retweet 10
+
+> Very cool of Yearn having all past security disclosures, including bounties and other events.
+>
+> All projects should follow along.
+>
+> https://t.co/vIHHBi1hq3 https://t.co/9z58apsL4R
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7pbcP6WIAAtmE1.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-06 · Post · Your security goal as a project with live code is to get whitehats engaged with your code for the lo
+
+
+### Post — @WhiteHatMage — 2025-12-06 12:19 UTC (2025-12-06 13:19 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1997279702390845591
+- Metrics (at fetch): bookmark 2, impression 1521, like 23, quote 0, reply 0, retweet 4
+
+> Your security goal as a project with live code is to get whitehats engaged with your code for the long run.
+>
+> Incentivize hunters to check the code with a good bounty. Attract them with any other policies.
+>
+> Make it easy for them to discover your assets, and to run experiments.
+
+
+---
+
+## 2025-12-06 · Post · The only relevant metric for a bug bounty program success is the hours that competent whitehats are 
+
+
+### Post — @WhiteHatMage — 2025-12-06 12:12 UTC (2025-12-06 13:12 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1997277898080768358
+- Metrics (at fetch): bookmark 2, impression 1820, like 32, quote 0, reply 1, retweet 2
+
+> The only relevant metric for a bug bounty program success is the hours that competent whitehats are actively checking the code.
+>
+> That is hard to measure.
+>
+> Number of reports, past payouts, number of fixes, number of page visits are irrelevant.
+>
+> You need to prevent the next exploit
+
+
+---
+
+## 2025-12-06 · Post · The only relevant metric for a bug bounty program success is the hours that competent whitehats are 
+
+
+### Post — @WhiteHatMage — 2025-12-06 12:10 UTC (2025-12-06 13:10 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1997277545373573130
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
+
+> The only relevant metric for a bug bounty program success is the hours that competent whitehats are actively checking the code.
+>
+> That is hard to measure.
+>
+> Number of reports, past payouts, number of fixes, number of page visits is irrelevant.
+>
+> You need to prevent the next exploit.
+
+
+---
+
+## 2025-12-03 · Post · @windhustler One month ago this one saved 2x-3x much more funds than the Yearn exploit.
+
+
+### Post — @WhiteHatMage — 2025-12-03 10:34 UTC (2025-12-03 11:34 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1996166097947570363
+- Metrics (at fetch): bookmark 2, impression 3005, like 65, quote 1, reply 3, retweet 2
+
+> @windhustler One month ago this one saved 2x-3x much more funds than the Yearn exploit.
+>
+> The world is not talking about it, because it was prevented.
+>
+> Most bounties go under the radar and you don't get to know how much they saved.
+>
+> https://t.co/dB4QlTf23c
+
+**Quoted post** 1983091200249999508: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-02 · Post · It's not about getting bounties higher to get whitehats richer, or because they deserve it.
+
+
+Tags (automatic): Race condition
+
+
+### Post — @WhiteHatMage — 2025-12-02 14:35 UTC (2025-12-02 15:35 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1995864349723033755
+- Metrics (at fetch): bookmark 1, impression 1048, like 22, quote 0, reply 0, retweet 2
+
+> It's not about getting bounties higher to get whitehats richer, or because they deserve it.
+>
+> It's a RACE.
+>
+> Only one person will find the exploit that drains the TVL of your project.
+>
+> You NEED to incentivize good actors ENOUGH to look at your code considering any risk factors.
+
+
+---
+
+## 2025-12-02 · Post · Bounties are Low, and we got plenty of proof of it.
+
+
+### Post — @WhiteHatMage — 2025-12-02 13:48 UTC (2025-12-02 14:48 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/1995852497089691864
+- Metrics (at fetch): bookmark 5, impression 6330, like 88, quote 2, reply 7, retweet 1
+
+> Bounties are Low, and we got plenty of proof of it.
+>
+> It's just a matter of incentives on a system with asymmetric rewards.
+>
+> With the huge TVL values we have today, and the low bounty amounts, there are more blackhats looking at your live code than whitehats.

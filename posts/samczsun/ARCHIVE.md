@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 43
-- Oldest post captured: 2025-08-10
+- Posts in this file: 53
+- Conversations/threads: 45
+- Oldest post captured: 2025-03-24
 - Newest post captured: 2026-11-04
 
 
@@ -479,7 +479,15 @@ Tags (automatic): AI-assisted hunting
 > are we cooked or am i missing something (please)
 
 
-### Thread part 2 — @samczsun — 2025-12-10 18:46 UTC (2025-12-10 19:46 WAT)
+### Thread part 2 — @samczsun — 2025-11-08 18:06 UTC (2025-11-08 19:06 WAT)
+
+- URL: https://x.com/samczsun/status/1987220231568466388
+- Metrics (at fetch): bookmark 1, impression 2889, like 14, quote 0, reply 7, retweet 0
+
+> @WhiteHatMage the only thing ive thought of so far is charging a security tax out of tvl but thats practically suicide imo, do you see other ways of fixing it or maybe taking a fee from tvl is possible?
+
+
+### Thread part 3 — @samczsun — 2025-12-10 18:46 UTC (2025-12-10 19:46 WAT)
 
 - URL: https://x.com/samczsun/status/1998826635043508511
 - Metrics (at fetch): bookmark 1, impression 9235, like 12, quote 0, reply 1, retweet 14
@@ -909,3 +917,33 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/toly/status/1954628667436589299
 
 **Quoted post** 1954628667436589299: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-04-04 · Post · to me, paradigm is about experimentation and reaching new frontiers. when i told matt that i wanted 
+
+
+### Post — @samczsun — 2025-04-04 19:47 UTC (2025-04-04 20:47 WAT)
+
+- URL: https://x.com/samczsun/status/1908245103837405216
+- Metrics (at fetch): bookmark 1, impression 7515, like 132, quote 0, reply 1, retweet 0
+
+> to me, paradigm is about experimentation and reaching new frontiers. when i told matt that i wanted to build the solution to crypto security, he was fully supportive. when that began taking up more and more of my time, he helped reduce my workload so i could chase my passion
+
+
+---
+
+## 2025-03-24 · Post · someone invite me to the national security signal group please i am normal and can be trusted with t
+
+
+### Post — @samczsun — 2025-03-24 18:12 UTC (2025-03-24 19:12 WAT)
+
+- URL: https://x.com/samczsun/status/1904234787533119798
+- Metrics (at fetch): bookmark 4, impression 9851, like 131, quote 0, reply 5, retweet 0
+
+> someone invite me to the national security signal group please i am normal and can be trusted with top secret information https://twitter.com/TheAtlantic/status/1904205971779408052
+
+**Links in post:** https://twitter.com/TheAtlantic/status/1904205971779408052
+
+**Quoted post** 1904205971779408052: not readable via the API (deleted, private, or withheld).

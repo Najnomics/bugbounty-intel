@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 49
-- Conversations/threads: 38
-- Oldest post captured: 2026-09-18
+- Posts in this file: 61
+- Conversations/threads: 50
+- Oldest post captured: 2026-07-17
 - Newest post captured: 2026-11-10
 
 
@@ -599,7 +599,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
     
     - URL: https://x.com/galnagli/status/2103111505860497685
-    - Metrics (at fetch): bookmark 23, impression 13944, like 94, quote 1, reply 2, retweet 8
+    - Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
     
     > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
     >
@@ -687,7 +687,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
     
     - URL: https://x.com/galnagli/status/2103111505860497685
-    - Metrics (at fetch): bookmark 23, impression 13944, like 94, quote 1, reply 2, retweet 8
+    - Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
     
     > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
     >
@@ -786,7 +786,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
     
     - URL: https://x.com/galnagli/status/2103111505860497685
-    - Metrics (at fetch): bookmark 23, impression 13944, like 94, quote 1, reply 2, retweet 8
+    - Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
     
     > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
     >
@@ -913,7 +913,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
 
 - URL: https://x.com/galnagli/status/2103111505860497685
-- Metrics (at fetch): bookmark 23, impression 13944, like 94, quote 1, reply 2, retweet 8
+- Metrics (at fetch): bookmark 23, impression 13945, like 94, quote 1, reply 2, retweet 8
 
 > Today we're launching Scan for Good in partnership with @GoogleDeepMind.
 >
@@ -956,7 +956,7 @@ Tags (automatic): AI-assisted hunting
 ### Thread part 4 — @galnagli — 2026-09-24 13:17 UTC (2026-09-24 14:17 WAT)
 
 - URL: https://x.com/galnagli/status/2103111519693070474
-- Metrics (at fetch): bookmark 0, impression 378, like 7, quote 0, reply 2, repost 0
+- Metrics (at fetch): bookmark 0, impression 378, like 7, quote 0, reply 2, retweet 0
 
 > The economics matter too.
 >
@@ -984,3 +984,229 @@ Tags (automatic): AI-assisted hunting
 > This is what hacking for good looks like, using the advanced reasoning capabilities of frontier models to prevent massive security breaches; and why I'm bullish on AI for Cyber https://t.co/5ERq7R3gLb
 
 **Quoted post** 2100763117827322195: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-18 · Post · This is what hacking for good looks like, using the advanced reasoning capabilities of frontier mode
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-09-18 12:49 UTC (2026-09-18 13:49 WAT)
+
+- URL: https://x.com/galnagli/status/2100930175936417845
+- Metrics (at fetch): bookmark 0, impression 643, like 3, quote 0, reply 0, retweet 0
+
+> This is what hacking for good looks like, using the advanced reasoning capabilities of frontier models to prevent massive security breaches; and why I'm bullish on AI for Cyber : ) https://t.co/5ERq7R3gLb
+
+**Quoted post** 2100763117827322195: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-04 · Post · “Hijacked” -&gt; communicated on a public wiki that only needed GET requests to solve harmless train
+
+
+### Post — @galnagli — 2026-09-04 16:21 UTC (2026-09-04 17:21 WAT)
+
+- URL: https://x.com/galnagli/status/2095910014930026501
+- Metrics (at fetch): bookmark 9, impression 7553, like 52, quote 0, reply 4, retweet 3
+
+> “Hijacked” -&gt; communicated on a public wiki that only needed GET requests to solve harmless training tasks
+>
+> Today’s models are capable of doing much much more cyber security wise, without any need of swarms - - only if responsible disclosure was easier 🤷 https://t.co/HCDaie8w8J
+
+**Quoted post** 2095823526125252742: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-02 · Post · Excited to collaborate with the @GoogleDeepMind team on evaluating the latest Cyber Gemini model! It
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @galnagli — 2026-09-02 16:04 UTC (2026-09-02 17:04 WAT)
+
+- URL: https://x.com/galnagli/status/2095181017275314535
+- Metrics (at fetch): bookmark 27, impression 12560, like 105, quote 0, reply 10, retweet 0
+
+> Excited to collaborate with the @GoogleDeepMind team on evaluating the latest Cyber Gemini model! It’s a significant leap forward in Bug Bounty Hunting and Penetration Testing - while being faster and cheaper as a Flash Model, and there's still more to come 🪄 https://t.co/2U3zP9Xm6G https://t.co/ov7wI0QEpS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HROSvmtWMAI5GoC.jpg — no alt text provided by author
+
+**Quoted post** 2095175518068904380: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-17 · Post · @wiz_io Small Clarification (H/T hackernews), I updated the blog to clarify that Copilot was a co-au
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-08-17 20:02 UTC (2026-08-17 21:02 WAT)
+
+- URL: https://x.com/galnagli/status/2089442792921559474
+- Metrics (at fetch): bookmark 0, impression 1096, like 9, quote 0, reply 0, retweet 0
+
+> @wiz_io Small Clarification (H/T hackernews), I updated the blog to clarify that Copilot was a co-author that checked the merged PR and code change, and identified it as all-clear without noticing the critical vulnerabilities, it's unclear whether the code-change was AI-Assisted https://t.co/UTxhSU5QMx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP8xBjYXAAAjcCN.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HP8xHPSXsAESt0B.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-17 · Post · We are going to share more of these autonomous discoveries in-the-wild through follow-up blogs
+
+
+### Post — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352565909581884
+- Metrics (at fetch): bookmark 10, impression 2307, like 25, quote 0, reply 1, retweet 3
+
+> We are going to share more of these autonomous discoveries in-the-wild through follow-up blogs
+>
+> Full story and technical details at @wiz_io blog 
+> https://t.co/3zYLNPchSW👇
+
+
+---
+
+## 2026-08-17 · Post · We reported this through Snowflake's HackerOne program. They patched it the same day, rotated the cr
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352562562486463
+- Metrics (at fetch): bookmark 1, impression 1857, like 15, quote 0, reply 1, retweet 0
+
+> We reported this through Snowflake's HackerOne program. They patched it the same day, rotated the credential, and used audit logs to confirm Wiz was the only actor during the exposure window. https://t.co/UzBjzJciMl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7beJ6WMAA9sKP.png — no alt text provided by author
+
+
+---
+
+## 2026-08-17 · Post · Shortly after, our listener received the Jira credentials, and Red Agent authenticated as qa@snowfla
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-08-17 14:04 UTC (2026-08-17 15:04 WAT)
+
+- URL: https://x.com/galnagli/status/2089352556044595365
+- Metrics (at fetch): bookmark 1, impression 1593, like 7, quote 0, reply 1, retweet 0
+
+> Shortly after, our listener received the Jira credentials, and Red Agent authenticated as qa@snowflake.net.
+>
+> The token had read access across engineering, security compliance and bug-bounty projects. The agent kept going and safely mapped the blast radius. https://t.co/5zECaz98eF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7a6CAWkAAF6BN.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-17 · Post · Our AI attacker autonomously made its way into @Snowflake's internal Jira, accessing sensitive data 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-08-17 14:03 UTC (2026-08-17 15:03 WAT)
+
+- URL: https://x.com/galnagli/status/2089352538948550678
+- Metrics (at fetch): bookmark 94, impression 38480, like 173, quote 14, reply 5, retweet 27
+
+> Our AI attacker autonomously made its way into @Snowflake's internal Jira, accessing sensitive data simply by opening a public GitHub issue with a crafted title.
+>
+> The flaw was introduced 5 days earlier by "Copilot Autofix powered by AI" 🪄 🧵 https://t.co/rux3rBiEQQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HP7ZqvpXkAA_gp8.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-01 · Post · Today is the day, after more than 5 years and over $1,000,000 of awards -- I shut down my legacy, no
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-08-01 08:40 UTC (2026-08-01 09:40 WAT)
+
+- URL: https://x.com/galnagli/status/2083473033113542884
+- Metrics (at fetch): bookmark 274, impression 96339, like 809, quote 2, reply 39, retweet 20
+
+> Today is the day, after more than 5 years and over $1,000,000 of awards -- I shut down my legacy, none-ai bug bounty automation, quite a run 🫡 https://t.co/JyopHwkaLC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOn7ivRWMAABsB0.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-24 · Post · Finally, a model upgrade that materially improves pentesting, I ran the same benchmark target 10+ ti
+
+
+### Post — @galnagli — 2026-07-24 18:31 UTC (2026-07-24 19:31 WAT)
+
+- URL: https://x.com/galnagli/status/2080722622195609807
+- Metrics (at fetch): bookmark 136, impression 53378, like 312, quote 2, reply 14, retweet 14
+
+> Finally, a model upgrade that materially improves pentesting, I ran the same benchmark target 10+ times with Opus 4.6 over the past week, and it never tried /phpmyadmin as a path. Opus 5 checked it on its first pass - and uncovered 2 new critical vulnerabilities 🤠 https://t.co/6lRLEia8dy https://t.co/ktn6RjqCL8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOA1Y9mWAAAJSZk.jpg — no alt text provided by author
+
+**Quoted post** 2080699495453528290: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-07-18 · Post · We have a winner (truly pre-auth RCE)
+
+
+Tags (automatic): RCE
+
+
+### Post — @galnagli — 2026-07-18 17:59 UTC (2026-07-18 18:59 WAT)
+
+- URL: https://x.com/galnagli/status/2078540199613620298
+- Metrics (at fetch): bookmark 28, impression 2550, like 29, quote 0, reply 3, retweet 1
+
+> We have a winner (truly pre-auth RCE)
+>
+> https://t.co/u7xsccGp75
+
+
+---
+
+## 2026-07-17 · Post · Curious to see who will be the first "Mythos" level AI-Powered Code Scanning tool to reverse-enginee
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @galnagli — 2026-07-17 20:33 UTC (2026-07-17 21:33 WAT)
+
+- URL: https://x.com/galnagli/status/2078216562637443246
+- Metrics (at fetch): bookmark 48, impression 35971, like 130, quote 3, reply 10, retweet 3
+
+> Curious to see who will be the first "Mythos" level AI-Powered Code Scanning tool to reverse-engineer the Remote Code Execution and construct a valid POC🍿 https://t.co/Funo6VemEY
+
+**Quoted post** 2078191359307943981: not readable via the API (deleted, private, or withheld).

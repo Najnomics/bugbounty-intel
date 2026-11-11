@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 50
-- Oldest post captured: 2024-06-11
+- Posts in this file: 132
+- Conversations/threads: 112
+- Oldest post captured: 2020-09-10
 - Newest post captured: 2026-11-10
 
 
@@ -648,7 +648,7 @@ Tags (automatic): Path normalization, AI-assisted hunting
 ### Post — @cmichelio — 2025-01-29 09:58 UTC (2025-01-29 10:58 WAT)
 
 - URL: https://x.com/cmichelio/status/1884541645078818897
-- Metrics (at fetch): bookmark 140, impression 10297, like 244, quote 1, reply 4, repost 19
+- Metrics (at fetch): bookmark 140, impression 10297, like 244, quote 1, reply 4, retweet 19
 
 > Whenever I find a bug, I look back and ask: How could I have found that faster? I go back, figure out which steps of thought were necessary, and retrain myself to perform only those steps in 30 seconds.
 > Fooming Shoggoths - Thought That Faster https://open.spotify.com/track/4zhgRs1n7uwML1C8tzIuv1
@@ -670,6 +670,19 @@ Tags (automatic): Path normalization, AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GhOc4R1acAAgf9W.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-07 · Post · @J4X_Security it will get stuck at the PoC requirements though 😁
+
+
+### Post — @cmichelio — 2025-01-07 15:26 UTC (2025-01-07 16:26 WAT)
+
+- URL: https://x.com/cmichelio/status/1876651678549864888
+- Metrics (at fetch): bookmark 0, impression 381, like 4, quote 0, reply 1, retweet 0
+
+> @J4X_Security it will get stuck at the PoC requirements though 😁
 
 
 ---
@@ -861,7 +874,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 ### Post — @cmichelio — 2024-06-26 14:36 UTC (2024-06-26 15:36 WAT)
 
 - URL: https://x.com/cmichelio/status/1805973538987241905
-- Metrics (at fetch): bookmark 42, impression 36536, like 382, quote 1, reply 39, repost 6
+- Metrics (at fetch): bookmark 42, impression 36536, like 382, quote 1, reply 39, retweet 6
 
 > I audit Blast, they announce a million $ competition afterwards.
 > I audit Euler, they announce a million $ competition afterwards.
@@ -876,7 +889,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 ### Post — @cmichelio — 2024-06-11 09:41 UTC (2024-06-11 10:41 WAT)
 
 - URL: https://x.com/cmichelio/status/1800463263433678945
-- Metrics (at fetch): bookmark 143, impression 37114, like 194, quote 8, reply 5, repost 19
+- Metrics (at fetch): bookmark 143, impression 37114, like 194, quote 8, reply 5, retweet 19
 
 > Your oracle has 11 price sources and takes the median. How many sources must you manipulate for the median to change? If the prices are all close to each other it should be 6, not 5. There's more to it:
 > The oracle used is the `sUSDePriceProviderBUniCatch`. It takes 11 sources
@@ -919,3 +932,1184 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     
     **Quoted post** 1800140412574920821: not readable via the API (deleted, private, or withheld).
     
+
+
+---
+
+## 2024-06-04 · Post · currently reading Hardy's A Mathematician's Apology and am surprised that the motives for pursuing r
+
+
+### Post — @cmichelio — 2024-06-04 16:48 UTC (2024-06-04 17:48 WAT)
+
+- URL: https://x.com/cmichelio/status/1798033982078238970
+- Metrics (at fetch): bookmark 33, impression 7000, like 104, quote 0, reply 6, retweet 8
+
+> currently reading Hardy's A Mathematician's Apology and am surprised that the motives for pursuing research are so accurate even for web3 security researchers. Because I never feel like I'm doing actual "Research".
+> - intellectual curiosity
+> - professional pride
+> - money/reputation https://t.co/aXje7qThb0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPPkzcBacAA-h1E.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-18 · Post · EIP discussions are easy mode. Try getting involved in audit competition escalations https://t.co/mK
+
+
+### Post — @cmichelio — 2024-04-18 10:02 UTC (2024-04-18 11:02 WAT)
+
+- URL: https://x.com/cmichelio/status/1780899697781293367
+- Metrics (at fetch): bookmark 6, impression 13203, like 98, quote 2, reply 7, retweet 0
+
+> EIP discussions are easy mode. Try getting involved in audit competition escalations https://t.co/mKQ0nhykUA
+
+**Quoted post** 1780834904198291616: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-03-27 · Post · I'm starting my own project hiring all these North Korean hackers for token allocation, just waste t
+
+
+### Post — @cmichelio — 2024-03-27 05:42 UTC (2024-03-27 06:42 WAT)
+
+- URL: https://x.com/cmichelio/status/1772861727886983475
+- Metrics (at fetch): bookmark 8, impression 15947, like 113, quote 1, reply 6, retweet 3
+
+> I'm starting my own project hiring all these North Korean hackers for token allocation, just waste their time, never deploy anything, and try to get access to their machines and counter-hack them. https://t.co/u0NpwaD3xc
+
+**Quoted post** 1772853982777503853: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-12-11 · Post · I wonder if there'd be demand for a niche auditing shop only checking rounding issues. Manual review
+
+
+### Post — @cmichelio — 2023-12-11 13:13 UTC (2023-12-11 14:13 WAT)
+
+- URL: https://x.com/cmichelio/status/1734199693750435941
+- Metrics (at fetch): bookmark 28, impression 15809, like 93, quote 2, reply 10, retweet 5
+
+> I wonder if there'd be demand for a niche auditing shop only checking rounding issues. Manual review &amp; building tools like @trailofbits' roundme. They don't seem to get enough coverage from current auditors but can be critical in hundred finance &amp; kyberswap-style attacks.
+
+
+---
+
+## 2023-12-06 · Post · who knew that the array length is a valid array slice start index in solidity? The more I think abo
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2023-12-06 00:29 UTC (2023-12-06 01:29 WAT)
+
+- URL: https://x.com/cmichelio/status/1732195476571607142
+- Metrics (at fetch): bookmark 33, impression 10484, like 82, quote 0, reply 5, retweet 4
+
+> who knew that the array length is a valid array slice start index in #solidity? The more I think about it, the more it makes sense.
+>
+> inb4 rustaceans all knew about this https://t.co/yUzKAceEb5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GAn9_0rWoAAbdwE.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-28 · Post · purely hypothetical: a protocol receives a critical bug disclosure. exploiting the bug, out of the t
+
+
+### Post — @cmichelio — 2023-08-28 13:18 UTC (2023-08-28 14:18 WAT)
+
+- URL: https://x.com/cmichelio/status/1696150331120296224
+- Metrics (at fetch): bookmark 4, impression 8073, like 18, quote 1, reply 2, retweet 2
+
+> purely hypothetical: a protocol receives a critical bug disclosure. exploiting the bug, out of the total user funds one can only recover X%, (100-X)% will be locked up as part of the hack, forever unrecoverable. They have two options:
+>
+> 1) hack their own protocol, users only
+
+
+---
+
+## 2023-08-10 · Post · one would think checking the number of bits of the seed you use to initialize your PRNG was an easy 
+
+
+### Post — @cmichelio — 2023-08-10 17:11 UTC (2023-08-10 18:11 WAT)
+
+- URL: https://x.com/cmichelio/status/1689686030457217033
+- Metrics (at fetch): bookmark 4, impression 5026, like 37, quote 0, reply 2, retweet 1
+
+> one would think checking the number of bits of the seed you use to initialize your PRNG was an easy task. apparently not, first profanity, now libbitcoin, probably many more. new bug bounty alpha just dropped #milksad
+
+
+---
+
+## 2023-06-01 · Post · service tweet: The v4.9 OZ ERC4626 implementation can now use more than 18 decimals (if you want to 
+
+
+### Post — @cmichelio — 2023-06-01 06:28 UTC (2023-06-01 07:28 WAT)
+
+- URL: https://x.com/cmichelio/status/1664157016053653504
+- Metrics (at fetch): bookmark 14, impression 16594, like 75, quote 0, reply 2, retweet 15
+
+> service tweet: The v4.9 OZ ERC4626 implementation can now use more than 18 decimals (if you want to prevent against first depositor attack). I've seen protocols assume that tokens with &gt;18 decimals aren't used and would break, might want to reconsider https://t.co/oLkOcwscBI https://t.co/zEjf7y11pg
+
+**Quoted post** 1661747900618248192: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-05-21 · Thread · Voters are not technical enough to understand the proposals and there's often no incentive to thorou
+
+
+### Post — @cmichelio — 2023-05-21 02:23 UTC (2023-05-21 03:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1660108942155091969
+- Metrics (at fetch): bookmark 8, impression 21792, like 90, quote 3, reply 9, retweet 11
+
+> Voters are not technical enough to understand the proposals and there's often no incentive to thoroughly check these. If you don't have a core team anymore, should there be a dedicated security person checking proposals in exchange for a token allocation?
+> 1/3
+
+
+### Thread part 2 — @cmichelio — 2023-05-21 02:23 UTC (2023-05-21 03:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1660108943799246848
+- Metrics (at fetch): bookmark 2, impression 9520, like 29, quote 2, reply 1, retweet 1
+
+> Recent fails could have been prevented by someone who knows what they are doing, didn't even require a full audit
+> - Aave Polygon lockup could have been prevented by simulating the changes and running the tests
+> - TC proposal uses a metamorphic contract, immediately suspicious
+> 2/3
+
+
+---
+
+## 2023-04-26 · Thread · Even if auditors point out trust assumptions, the project party will just acknowledge these issues, 
+
+
+### Post — @cmichelio — 2023-04-26 13:29 UTC (2023-04-26 14:29 WAT)
+
+- URL: https://x.com/cmichelio/status/1651216895234953217
+- Metrics (at fetch): bookmark 0, impression 2099, like 16, quote 0, reply 1, retweet 0
+
+> Even if auditors point out trust assumptions, the project party will just acknowledge these issues, or it's just informational because it was already part of the project's security model. (Often it's genuinely hard to do something in a trustless way - not here.) 2/6
+
+
+### Thread part 2 — @cmichelio — 2023-04-26 13:29 UTC (2023-04-26 14:29 WAT)
+
+- URL: https://x.com/cmichelio/status/1651216897197903872
+- Metrics (at fetch): bookmark 0, impression 2164, like 31, quote 0, reply 2, retweet 2
+
+> so if you invested without opening the audit report and now, in hindsight, complain about it not being pointed out, you're not intellectually honest with yourself. you'd still have invested even if it was written, you're now just looking for someone to blame for your decisions 3/
+
+
+---
+
+## 2023-04-21 · Post · is there something like a reverse @RevokeCash? I enter a contract address and want to see all the (t
+
+
+### Post — @cmichelio — 2023-04-21 13:52 UTC (2023-04-21 14:52 WAT)
+
+- URL: https://x.com/cmichelio/status/1649410753974116353
+- Metrics (at fetch): bookmark 7, impression 7090, like 28, quote 0, reply 3, retweet 1
+
+> is there something like a reverse @RevokeCash? I enter a contract address and want to see all the (token, owner, amount) tuples that approved the contract
+
+
+---
+
+## 2023-04-13 · Thread · yUSDT invests in the highest-APR USDT derivative: cUSDT, aUSDT, bZxUSDT, dydxUSDT. There's a misconf
+
+
+### Post — @cmichelio — 2023-04-13 07:59 UTC (2023-04-13 08:59 WAT)
+
+- URL: https://x.com/cmichelio/status/1646422861219807233
+- Metrics (at fetch): bookmark 35, impression 24603, like 122, quote 3, reply 1, retweet 26
+
+> yUSDT invests in the highest-APR USDT derivative: cUSDT, aUSDT, bZxUSDT, dydxUSDT. There's a misconfiguration which uses bZxUSDC instead of bZxUSDT. Here's how the attack worked: https://twitter.com/samczsun/status/1646404331967778820
+
+**Links in post:** https://twitter.com/samczsun/status/1646404331967778820
+
+**Quoted post** 1646404331967778820: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @cmichelio — 2023-04-13 07:59 UTC (2023-04-13 08:59 WAT)
+
+- URL: https://x.com/cmichelio/status/1646422864373923840
+- Metrics (at fetch): bookmark 0, impression 1466, like 8, quote 0, reply 1, retweet 0
+
+> Because the pool value is computed as the sum of the value of derivatives + USDT contract balance, if the contract withdraws bZxUSDC into USDC, the bZxUSDC value is lost, reducing the pool value.
+
+
+### Thread part 3 — @cmichelio — 2023-04-13 07:59 UTC (2023-04-13 08:59 WAT)
+
+- URL: https://x.com/cmichelio/status/1646422866819268608
+- Metrics (at fetch): bookmark 2, impression 2508, like 6, quote 2, reply 1, retweet 1
+
+> At the time of attack yUSDT was fully invested in AaveV1.
+> 1. Attacker buys yUSDT from Curve.
+> 2. Mints bZxUSDC, sends it to the contract, increasing the price per share.
+> 3. Redeem their bought yUSDT to USDT. This withdraws everything from Aave first.
+
+
+### Thread part 4 — @cmichelio — 2023-04-13 07:59 UTC (2023-04-13 08:59 WAT)
+
+- URL: https://x.com/cmichelio/status/1646422869272920065
+- Metrics (at fetch): bookmark 0, impression 1333, like 6, quote 0, reply 2, retweet 0
+
+> 4. yUSDT is now fully invested in bzxUSDC.
+> 5. Attacker triggers a rebalance withdrawing bZxUSDC into USDC, reducing the value per yUSDT to literally 0.
+> 6. Then they send 1 wei of USDT to the contract and mint yUSDT at 1 wei per yUSDT - they can essentially mint yUSDT for free.
+
+
+---
+
+## 2023-03-10 · Post · Quiz: If you write a test in forge, start pranking an EOA, then try a create2 contract deployment, w
+
+
+### Post — @cmichelio — 2023-03-10 10:09 UTC (2023-03-10 11:09 WAT)
+
+- URL: https://x.com/cmichelio/status/1634134441856565249
+- Metrics (at fetch): bookmark 4, impression 8534, like 20, quote 0, reply 4, retweet 1
+
+> Quiz: If you write a test in forge, start pranking an EOA, then try a create2 contract deployment, what will happen?
+
+
+---
+
+## 2023-03-05 · Post · Shouldn't it just be keccak(A || n) for the mapping anyway? Still seems strange to me to create an a
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2023-03-05 17:41 UTC (2023-03-05 18:41 WAT)
+
+- URL: https://x.com/cmichelio/status/1632436123778555904
+- Metrics (at fetch): bookmark 0, impression 2456, like 7, quote 0, reply 0, retweet 0
+
+> Shouldn't it just be keccak(A || n) for the mapping anyway? Still seems strange to me to create an allowlist based on Solidity-specific encodings. What is this actually preventing? Wouldn't someone who wants to DoS just use the allowed slots then?
+
+
+---
+
+## 2023-02-03 · Post · this doesn't make much sense?
+
+
+### Post — @cmichelio — 2023-02-03 15:07 UTC (2023-02-03 16:07 WAT)
+
+- URL: https://x.com/cmichelio/status/1621525845734232073
+- Metrics (at fetch): bookmark 5, impression 7715, like 38, quote 0, reply 3, retweet 2
+
+> this doesn't make much sense?
+> an additional bug bounty only has benefits, might have only paid $300k instead of $3M with a 10% bug bounty https://twitter.com/alexey_lum/status/1621269289234751495
+
+**Links in post:** https://twitter.com/alexey_lum/status/1621269289234751495
+
+**Quoted post** 1621269289234751495: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-01-30 · Thread · if you want to create web3 security content, instead of creating the hundredth auditor roadmap, audi
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1620041802333188099
+- Metrics (at fetch): bookmark 305, impression 68131, like 499, quote 9, reply 22, retweet 102
+
+> if you want to create web3 security content, instead of creating the hundredth auditor roadmap, auditing tips that are just common knowledge, or spot the bug challenge content, try this instead: create cheat sheets for protocols you audited 1/7
+
+
+### Thread part 2 — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1620041805311143944
+- Metrics (at fetch): bookmark 36, impression 6324, like 97, quote 2, reply 7, retweet 5
+
+> what I mean by cheat sheets are posts like these from @0xreentrant that give an overview of the protocol, the terminology it uses, diagrams of contract traces of the most common user actions, or important math equations 2/7 [pic.x.com/fmWAt1Uref]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnNcwG8acAAxlX1.jpg — no alt text provided by author
+
+
+### Thread part 3 — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1620041808502992896
+- Metrics (at fetch): bookmark 2, impression 4024, like 39, quote 0, reply 1, retweet 1
+
+> it will help other auditors and future you to grasp the protocol more quickly. docs often fail at explaining the protocol for newcomers because they are written by developers that spent years on it and they assume that the basics are well-known (curse of knowledge) 3/7
+
+
+### Thread part 4 — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1620041811397050371
+- Metrics (at fetch): bookmark 1, impression 3736, like 30, quote 0, reply 1, retweet 1
+
+> you also provide value to the protocol. I can recall several cases where diagrams created by auditors ended up becoming part of the official documentation. (but maybe that just speaks to them having bad documentation) 4/7
+
+
+### Thread part 5 — @cmichelio — 2023-01-30 12:50 UTC (2023-01-30 13:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1620041820167368704
+- Metrics (at fetch): bookmark 2, impression 4336, like 26, quote 0, reply 1, retweet 0
+
+> - aTokens/debtTokens are rebalancing. "scaled balance" refers to shares aka `rebasedAmount / index` (bad naming because scaling is ambiguous, can scale in two directions)
+>
+> write down protocol quirks:
+> - a liquidation bonus of 5% in code is not 500 bips, its 10500 bips = 105%
+> 7/7
+
+
+---
+
+## 2022-11-16 · Post · @Mudit__Gupta @code4rena But it's an interesting idea. If you try to game C4 and get audits for chea
+
+
+Tags (automatic): Memory corruption / native, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @cmichelio — 2022-11-16 14:48 UTC (2022-11-16 15:48 WAT)
+
+- URL: https://x.com/cmichelio/status/1592892292897345539
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> @Mudit__Gupta @code4rena But it's an interesting idea. If you try to game C4 and get audits for cheap, a better strategy would be to add lots of bugs to your code on purpose because of unknown bugs in your code. you want to maximize bugs you submit / total bugs found
+
+
+---
+
+## 2022-09-26 · Thread · My contribution to @artgobblers is GooStew: The protocol optimizes goo production for its users thro
+
+
+### Post — @cmichelio — 2022-09-26 17:16 UTC (2022-09-26 18:16 WAT)
+
+- URL: https://x.com/cmichelio/status/1574447743023587329
+- Metrics (at fetch): bookmark 7, impression 0, like 109, quote 1, reply 12, retweet 12
+
+> My contribution to @artgobblers is GooStew: The protocol optimizes goo production for its users through collaboration.
+> Users deposit gobblers and/or goo and receive more goo than they would have received on their own through goo inflation. https://t.co/KXYFC91gIm https://t.co/htbkXM6wa8
+
+**Quoted post** 1570503408745955328: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @cmichelio — 2022-09-26 17:16 UTC (2022-09-26 18:16 WAT)
+
+- URL: https://x.com/cmichelio/status/1574447750636511233
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> It turns out that providing your gobblers and goo to the protocol is ALWAYS superior to producing goo on your own, no matter your gobbler / goo ratio.
+> Why?
+
+
+### Thread part 3 — @cmichelio — 2022-09-26 17:16 UTC (2022-09-26 18:16 WAT)
+
+- URL: https://x.com/cmichelio/status/1574447757393559552
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> GooStew is therefore a no-loss goo production protocol. In the worst case, users receive as much goo as they would have produced on their own, in the average case they vastly improve their goo production.
+
+
+### Thread part 4 — @cmichelio — 2022-09-26 17:16 UTC (2022-09-26 18:16 WAT)
+
+- URL: https://x.com/cmichelio/status/1574447761050697732
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> The additional goo produced by the protocol is distributed to users proportional to their individual contributions. See the technical paper for more info about its implementation and how contributions are measured https://github.com/MrToph/goostew/blob/main/TECHNICAL.md
+
+**Links in post:** https://github.com/MrToph/goostew/blob/main/TECHNICAL.md
+
+
+### Thread part 5 — @cmichelio — 2022-09-26 17:16 UTC (2022-09-26 18:16 WAT)
+
+- URL: https://x.com/cmichelio/status/1574447764213272577
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 1, reply 1, retweet 0
+
+> GooStew improves the Gobblers ecosystem in a few ways:
+> 1. increased goo production for everyone (using the protocol)
+> 2. allows goo-only contributions of users that do not own any gobblers. This group was previously set back especially hard by ArtGobbler's goo production mechanism
+
+
+### Thread part 6 — @cmichelio — 2022-09-26 17:16 UTC (2022-09-26 18:16 WAT)
+
+- URL: https://x.com/cmichelio/status/1574447767136641027
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 3. ibGoo: When depositing goo, the protocol issues inflation-bearing goo tokens which are a claim on the ever-increasing total goo pot. Goo inflates quadratically and market making quickly loses value to inflation. ibGoo will be a better choice for providing goo liquidity
+
+
+---
+
+## 2022-08-14 · Post · @AzukiOfficial my local workflow for testing is:
+
+
+### Post — @cmichelio — 2022-08-14 05:12 UTC (2022-08-14 06:12 WAT)
+
+- URL: https://x.com/cmichelio/status/1558683015328448512
+- Metrics (at fetch): bookmark 6, impression 0, like 11, quote 0, reply 2, retweet 4
+
+> @AzukiOfficial my local workflow for testing is:
+> - fork anvil from mainnet to have access to all mainnet NFTs
+> - forge script to deploy contracts &amp; mint the NFT
+> - copy deployment receipt to web app (s.t. it knows the contract address)
+> - start web app, connect to local anvil node https://t.co/gZLCRFuQA5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FaGNymbXkAMEgA8.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-13 · Post · you'd also need an oracle for the pixel-data because you only get the tokenURI metadata on-chain whi
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2022-08-13 07:31 UTC (2022-08-13 08:31 WAT)
+
+- URL: https://x.com/cmichelio/status/1558355483660001281
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> you'd also need an oracle for the pixel-data because you only get the tokenURI metadata on-chain which contains a URL in the `image` field. infeasible
+
+
+---
+
+## 2022-08-13 · Post · I'll go with the on-chain approach. I want this contract to be a _collection_ of different filter ef
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2022-08-13 07:23 UTC (2022-08-13 08:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1558353458494935044
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> I'll go with the on-chain approach. I want this contract to be a _collection_ of different filter effects. For each effect, I'll create a Renderer contract. A tokenID then maps to one of these renderers and forwards the HTML rendering to it.
+
+
+---
+
+## 2022-08-13 · Post · cons:
+
+
+### Post — @cmichelio — 2022-08-13 07:21 UTC (2022-08-13 08:21 WAT)
+
+- URL: https://x.com/cmichelio/status/1558352907002679296
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 3, retweet 0
+
+> cons:
+> - not composable. cannot apply filters on filters
+> - restricted to browser resources &amp; browser's security restrictions
+
+
+---
+
+## 2022-08-13 · Post · NFTEnhancement now implements its interface and inherits the ERC721 abstract base contract. nice. ht
+
+
+### Post — @cmichelio — 2022-08-13 06:43 UTC (2022-08-13 07:43 WAT)
+
+- URL: https://x.com/cmichelio/status/1558343578010750976
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> NFTEnhancement now implements its interface and inherits the ERC721 abstract base contract. nice. https://t.co/XSVTwdRwC4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FaBY_1oXgAEG7c6.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-13 · Post · installed openzeppelin for IERC721 interface, but I can't just have my contract inherit both OZ/IERC
+
+
+### Post — @cmichelio — 2022-08-13 06:39 UTC (2022-08-13 07:39 WAT)
+
+- URL: https://x.com/cmichelio/status/1558342379840716800
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 2, retweet 0
+
+> installed openzeppelin for IERC721 interface, but I can't just have my contract inherit both OZ/IERC721 and solmate/ERC721 because solmate doesn't correctly implement the OZ interface (public vs external visibility differences, etc).
+
+
+---
+
+## 2022-08-13 · Post · installed solmate for ERC721. already running into compatibility issues. solmate does not have nor i
+
+
+### Post — @cmichelio — 2022-08-13 06:38 UTC (2022-08-13 07:38 WAT)
+
+- URL: https://x.com/cmichelio/status/1558342195463200771
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> installed solmate for ERC721. already running into compatibility issues. solmate does not have nor implement interfaces. but I like defining an interface for my standard and then write a contract that inherits it - ensuring I do indeed implement the interface
+
+
+---
+
+## 2022-08-13 · Post · smart contract architecture: the new standard will be called NFTEnhancements. these implement ERC721
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2022-08-13 06:06 UTC (2022-08-13 07:06 WAT)
+
+- URL: https://x.com/cmichelio/status/1558334229452406786
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> smart contract architecture: the new standard will be called NFTEnhancements. these implement ERC721 with two additional functions to set the "base" NFT to which the filter will be applied to. We'll call this the _underlying_ NFT. here's the spec https://t.co/WwVPvSWB1b
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FaBQhGjWQAQXZzi.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-28 · Post · my UST depeg insurance finally paid out. unclear policies written by amateurs, moving goalposts, ted
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2022-05-28 07:23 UTC (2022-05-28 08:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1530449549155872768
+- Metrics (at fetch): bookmark 1, impression 0, like 48, quote 0, reply 4, retweet 3
+
+> my UST depeg insurance finally paid out. unclear policies written by amateurs, moving goalposts, tedious manual evidence submission process. felt like traditional insurance. not doing this again unless the policy&amp;payout are enforced in a smart contract
+
+
+---
+
+## 2022-05-02 · Post · After grinding for 14 months I finally reached my goal of being the first to cross 1M$ on the @code4
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @cmichelio — 2022-05-02 21:32 UTC (2022-05-02 22:32 WAT)
+
+- URL: https://x.com/cmichelio/status/1521241247159140355
+- Metrics (at fetch): bookmark 22, impression 0, like 368, quote 10, reply 30, retweet 31
+
+> After grinding for 14 months I finally reached my goal of being the first to cross 1M$ on the @code4rena leaderboard. 🥳 Thanks to everyone involved, this has been very fun, lucrative, and I learned a lot by seeing other wardens' vulnerabilities that I missed. https://t.co/KFXzJFjatK https://t.co/vIz1GktQEF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRyHqhpX0AAoVi8.jpg — no alt text provided by author
+
+**Quoted post** 1521235150532747264: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-04-28 · Post · @Hacxyk @theRaz0r @RariCapital @immunefi @InverseFinance You showed that permissionless rari pools n
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @cmichelio — 2022-04-28 13:58 UTC (2022-04-28 14:58 WAT)
+
+- URL: https://x.com/cmichelio/status/1519677497079738375
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @Hacxyk @theRaz0r @RariCapital @immunefi @InverseFinance You showed that permissionless rari pools need to look at the capital / manipulation risk ratio. Which is indeed a big issue but it's not up to Rari to decide at what risk ratio to draw the line. If anyone, the dog park pool owners should pay you the bug bounty, I agree with that
+
+
+---
+
+## 2022-04-21 · Post · Will be showing some interesting @code4rena findings tomorrow + do a live a contest on code I haven'
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @cmichelio — 2022-04-21 18:54 UTC (2022-04-21 19:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1517215120665022465
+- Metrics (at fetch): bookmark 0, impression 0, like 35, quote 0, reply 2, retweet 6
+
+> Will be showing some interesting @code4rena findings tomorrow + do a live a contest on code I haven't seen yet  🙈 should be fun https://t.co/KqsqJBBGyN
+
+**Quoted post** 1516882548474884096: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-12-21 · Post · Looks like you can also frontrun EOA deposits by passing from=victim, to=attacker after victim appro
+
+
+### Post — @cmichelio — 2021-12-21 19:50 UTC (2021-12-21 20:50 WAT)
+
+- URL: https://x.com/cmichelio/status/1473380253657546754
+- Metrics (at fetch): bookmark 3, impression 0, like 19, quote 0, reply 1, retweet 6
+
+> Looks like you can also frontrun EOA deposits by passing from=victim, to=attacker after victim approved the contract? the bug density in this code is incredible https://t.co/bBqgLxAdl4
+
+**Quoted post** 1473321779250802693: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-11-05 · Post · I implemented and replayed the @RariCapital Fuse VUSD exploit. Turns out the attacker did a lot of u
+
+
+### Post — @cmichelio — 2021-11-05 17:08 UTC (2021-11-05 18:08 WAT)
+
+- URL: https://x.com/cmichelio/status/1456669784586739712
+- Metrics (at fetch): bookmark 9, impression 0, like 58, quote 2, reply 2, retweet 14
+
+> I implemented and replayed the @RariCapital Fuse VUSD exploit. Turns out the attacker did a lot of unnecessary steps when manipulating the UniswapV3 price https://t.co/hTdUjAc8LA #ETH
+
+
+---
+
+## 2021-10-30 · Post · Wrote up my thoughts on how to become a smart contract auditor as I received a few DMs https://t.co/
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2021-10-30 15:32 UTC (2021-10-30 16:32 WAT)
+
+- URL: https://x.com/cmichelio/status/1454471156157886478
+- Metrics (at fetch): bookmark 72, impression 0, like 198, quote 8, reply 6, retweet 59
+
+> Wrote up my thoughts on how to become a smart contract auditor as I received a few DMs https://t.co/Gh3gPv1faV #ethereum
+
+
+---
+
+## 2021-10-28 · Post · I wouldn't say that this attack only applies to small-cap illiquid assets. In theory, it works with 
+
+
+### Post — @cmichelio — 2021-10-28 03:35 UTC (2021-10-28 04:35 WAT)
+
+- URL: https://x.com/cmichelio/status/1453566033009184774
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> I wouldn't say that this attack only applies to small-cap illiquid assets. In theory, it works with any interest-bearing tokens, you just need a large enough flashloan.
+
+
+---
+
+## 2021-10-17 · Post · @the_ethernaut @PoolTogether_ As this post is liked a lot, I'd like to mention that this is overengi
+
+
+### Post — @cmichelio — 2021-10-17 08:42 UTC (2021-10-17 09:42 WAT)
+
+- URL: https://x.com/cmichelio/status/1449657089966571525
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> @the_ethernaut @PoolTogether_ As this post is liked a lot, I'd like to mention that this is overengineered for the initial question. The modulo bias of 500 wrt 2^256 is negligible. If the oracle returned a random number between 0 and 2^16 it might be worth considering
+
+
+---
+
+## 2021-10-07 · Post · Risks: This comes with added smart contract security risk for the yield farms. Afaik, @SushiSwap's T
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2021-10-07 17:02 UTC (2021-10-07 18:02 WAT)
+
+- URL: https://x.com/cmichelio/status/1446159035590402048
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 1, retweet 1
+
+> Risks: This comes with added smart contract security risk for the yield farms. Afaik, @SushiSwap's Trident uses the same Bento for all pools. There could be a black swan event where all WETH pools get rugged due to an exploit in Bento. They should have a dedicated security team
+
+
+---
+
+## 2021-10-07 · Post · This should lead to higher revenue for LPs and could attract significant capital as they are now com
+
+
+### Post — @cmichelio — 2021-10-07 17:02 UTC (2021-10-07 18:02 WAT)
+
+- URL: https://x.com/cmichelio/status/1446159029844201472
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 1, retweet 0
+
+> This should lead to higher revenue for LPs and could attract significant capital as they are now competing with both DEXes and yield aggregators.
+> Issue could be initial migration inertia as LP profits depend on pool's trade volume (vampire attack / LP incentives should fix this)
+
+
+---
+
+## 2021-10-05 · Post · The exploit transactions were spotted quickly by some community members but I don't know how big the
+
+
+### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190700681900032
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> The exploit transactions were spotted quickly by some community members but I don't know how big the actual damage was and how many fake NFTs were bought.
+
+
+---
+
+## 2021-10-05 · Post · The bug has been fixed by always performing all creator checks if the update_authority is not the si
+
+
+### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190698857291780
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 1
+
+> The bug has been fixed by always performing all creator checks if the update_authority is not the signer https://t.co/280ss7b51n https://t.co/xicyQFtC2c
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FA5WorRWQAEbpnA.png — no alt text provided by author
+
+
+---
+
+## 2021-10-05 · Post · The exploit allowed verifying an arbitrary creator. When creating or updating metadata, a new list o
+
+
+### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190692851097604
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> The exploit allowed verifying an arbitrary creator. When creating or updating metadata, a new list of creators can be specified. The code checks that no new verified creators are added. However, this check was skipped if the creator is the update_authority.
+
+
+---
+
+## 2021-10-05 · Post · Thus an additional verification step is required to verify an NFT is part of a collection: Each crea
+
+
+### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190691295047681
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Thus an additional verification step is required to verify an NFT is part of a collection: Each creator must sign the metadata by calling the SignMetadata instruction on the contract. This sets the `verified` boolean to true. https://t.co/zr4r73afJ1
+
+
+---
+
+## 2021-10-05 · Post · There was a bug in solana's NFT metadata contract that allowed spoofing NFTs. These NFTs appeared a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2021-10-05 00:54 UTC (2021-10-05 01:54 WAT)
+
+- URL: https://x.com/cmichelio/status/1445190687838937089
+- Metrics (at fetch): bookmark 1, impression 0, like 30, quote 2, reply 2, retweet 9
+
+> There was a bug in #solana's NFT metadata contract that allowed spoofing NFTs. These NFTs appeared as if they were part of a collection on most marketplaces.
+>
+> A thread 🧵
+>
+> https://t.co/xLk3iEfR2X
+
+**Quoted post** 1445080744771076111: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-09-29 · Post · This @solana escrow contract tutorial by @paulxpaulxpaulx is imo the best and most comprehensible tu
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2021-09-29 21:53 UTC (2021-09-29 22:53 WAT)
+
+- URL: https://x.com/cmichelio/status/1443333175791468548
+- Metrics (at fetch): bookmark 3, impression 0, like 20, quote 0, reply 1, retweet 4
+
+> This @solana escrow contract tutorial by @paulxpaulxpaulx is imo the best and most comprehensible tutorial to get started. It explains just enough at the right time without overloading you with unnecessary information
+> https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
+>
+> 1/2
+
+**Links in post:** https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
+
+
+---
+
+## 2021-08-10 · Post · Contracts were apparently audited but Telegram admin does not know who the auditors are 😅 internal a
+
+
+### Post — @cmichelio — 2021-08-10 15:09 UTC (2021-08-10 16:09 WAT)
+
+- URL: https://x.com/cmichelio/status/1425112072149471237
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Contracts were apparently audited but Telegram admin does not know who the auditors are 😅 internal audit? [pic.x.com/eXWOnqCTB8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E8cDqENWUA0UYnq.jpg — no alt text provided by author
+
+
+---
+
+## 2021-07-11 · Post · The classic cryptography ECDSA signature exploit that is part of every CTF now happened in the wild.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @cmichelio — 2021-07-11 22:04 UTC (2021-07-11 23:04 WAT)
+
+- URL: https://x.com/cmichelio/status/1414344946803433477
+- Metrics (at fetch): bookmark 3, impression 0, like 4, quote 0, reply 2, retweet 1
+
+> The classic cryptography ECDSA signature exploit that is part of every CTF now happened in the wild. I'm more impressed that blackhats are actively scanning transactions of bridges for it https://twitter.com/AnyswapNetwork/status/1414270670922391555
+
+**Links in post:** https://twitter.com/AnyswapNetwork/status/1414270670922391555
+
+**Quoted post** 1414270670922391555: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-07-11 · Post · Some preliminary investigation on this:
+
+
+### Post — @cmichelio — 2021-07-11 01:35 UTC (2021-07-11 02:35 WAT)
+
+- URL: https://x.com/cmichelio/status/1414035462164033541
+- Metrics (at fetch): bookmark 3, impression 0, like 20, quote 3, reply 5, retweet 6
+
+> Some preliminary investigation on this:
+> Each token has its own proxy contract for the cross-chain transfers, the implementation points to this Factory contract https://etherscan.io/address/0x42ba9308073bea68949e650a3659a0fae369f4e0#code 
+> Hacker calls the receive function of the Factory contract https://twitter.com/chain_swap/status/1413973753097293825
+
+**Links in post:** https://etherscan.io/address/0x42ba9308073bea68949e650a3659a0fae369f4e0#code, https://twitter.com/chain_swap/status/1413973753097293825
+
+**Quoted post** 1413973753097293825: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-05-30 · Post · this accounting would work if curve/ellipsis really used the constant sum x+y+z=k invariant, but it 
+
+
+### Post — @cmichelio — 2021-05-30 11:16 UTC (2021-05-30 12:16 WAT)
+
+- URL: https://x.com/cmichelio/status/1398961421984075776
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 2
+
+> this accounting would work if curve/ellipsis really used the constant sum x+y+z=k invariant, but it uses the Stableswap invariant. Large trades can still inflate the sum of reserves like the attacker did with swapping 190M BUSD -&gt; 170M USDT (+20M to sum) https://curve.fi/files/stableswap-paper.pdf [pic.x.com/QcBpI1VWKm] https://twitter.com/Mudit__Gupta/status/1398885049987043329
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E2oZxhPXEAkMPnp.jpg — no alt text provided by author
+
+**Links in post:** https://curve.fi/files/stableswap-paper.pdf, https://twitter.com/Mudit__Gupta/status/1398885049987043329
+
+**Quoted post** 1398885049987043329: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-05-28 · Thread · Looks more like a simple scam, no re-entrancy. They copied the Uniswap code 1:1 but removed the x*y&
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @cmichelio — 2021-05-28 06:12 UTC (2021-05-28 07:12 WAT)
+
+- URL: https://x.com/cmichelio/status/1398160202030059521
+- Metrics (at fetch): bookmark 2, impression 0, like 19, quote 0, reply 2, retweet 4
+
+> Looks more like a simple scam, no re-entrancy. They copied the Uniswap code 1:1 but removed the x*y&gt;=k invariant check. You can just transfer out both reserves. Question is just who exploited this first? Blackhat or team? https://twitter.com/FrankResearcher/status/1398114964557152257
+
+**Links in post:** https://twitter.com/FrankResearcher/status/1398114964557152257
+
+**Quoted post** 1398114964557152257: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @cmichelio — 2021-05-28 07:31 UTC (2021-05-28 08:31 WAT)
+
+- URL: https://x.com/cmichelio/status/1398179998717165572
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 1, reply 1, retweet 1
+
+> The attack is more complicated due to the onlyPlatform modifier which only allows their router to call swap https://bscscan.com/address/0xbf6527834dbb89cdc97a79fcd62e6c08b19f8ec0#code
+> There's also a re-entrancy protection on a per-pool basis
+
+**Links in post:** https://bscscan.com/address/0xbf6527834dbb89cdc97a79fcd62e6c08b19f8ec0#code
+
+
+---
+
+## 2021-05-14 · Post · Technical explanation of today's hack on @EOS_Nation's vaults contract. The biggest hack we've seen 
+
+
+### Post — @cmichelio — 2021-05-14 21:47 UTC (2021-05-14 22:47 WAT)
+
+- URL: https://x.com/cmichelio/status/1393322115705843712
+- Metrics (at fetch): bookmark 2, impression 0, like 83, quote 1, reply 4, retweet 29
+
+> Technical explanation of today's hack on @EOS_Nation's vaults contract. The biggest hack we've seen on #EOS so far stealing ~13,5M.  https://cmichel.io/eos-vault-sx-hack @SlowMist_Team
+
+**Links in post:** https://cmichel.io/eos-vault-sx-hack
+
+
+---
+
+## 2021-05-02 · Thread · My take on how the hack works:
+
+
+### Post — @cmichelio — 2021-05-02 16:14 UTC (2021-05-02 17:14 WAT)
+
+- URL: https://x.com/cmichelio/status/1388889613096341504
+- Metrics (at fetch): bookmark 1, impression 0, like 4, quote 0, reply 1, retweet 1
+
+> My take on how the hack works:
+>
+> You need to know that Uniswap works by first transferring tokens to the pool, then calling an action on it.
+> It then figures out the deposited amount by subtracting the current balance (unsynced balance) from the last synced balance https://twitter.com/SpartanProtocol/status/1388789870051528704
+
+**Links in post:** https://twitter.com/SpartanProtocol/status/1388789870051528704
+
+**Quoted post** 1388789870051528704: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @cmichelio — 2021-05-02 16:14 UTC (2021-05-02 17:14 WAT)
+
+- URL: https://x.com/cmichelio/status/1388889617676619781
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 1, retweet 1
+
+> The attack:
+> 1. acquire LP tokens
+> 2. send underlying tokens directly to the pool without triggering a sync
+> 3. burn LP and in a correct impl. you'd redeem the fair share of the synced balance only. protocol had a bug where you in addition receive a share of the unsynced balance [pic.x.com/cc7hjxwkdb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E0ZSz1EXEAM0qzn.jpg — no alt text provided by author
+
+
+---
+
+## 2021-03-12 · Post · Let's understand and replay a common vulnerability of yield aggregators in part 3 of Replaying Ether
+
+
+### Post — @cmichelio — 2021-03-12 19:00 UTC (2021-03-12 20:00 WAT)
+
+- URL: https://x.com/cmichelio/status/1370449668044378112
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> Let's understand and replay a common vulnerability of yield aggregators in part 3 of Replaying Ethereum Hacks https://cmichel.io/replaying-ethereum-hacks-sushiswap-badger-dao-digg/ #ethereum  #ETH [pic.x.com/vDxDVFfoYz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EwTQtgkXMAAPInD.jpg — no alt text provided by author
+
+**Links in post:** https://cmichel.io/replaying-ethereum-hacks-sushiswap-badger-dao-digg/
+
+
+---
+
+## 2021-02-28 · Post · Explanation and replay of the @furucombo hack https://cmichel.io/replaying-ethereum-hacks-furucombo/
+
+
+### Post — @cmichelio — 2021-02-28 22:04 UTC (2021-02-28 23:04 WAT)
+
+- URL: https://x.com/cmichelio/status/1366147352969568257
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 0, retweet 4
+
+> Explanation and replay of the @furucombo hack https://cmichel.io/replaying-ethereum-hacks-furucombo/ #Ethereum #ETH  $combo
+
+**Links in post:** https://cmichel.io/replaying-ethereum-hacks-furucombo/
+
+
+---
+
+## 2021-02-19 · Post · I'm starting a new security series called "Replaying Ethereum hacks" where we'll do technical deep-
+
+
+### Post — @cmichelio — 2021-02-19 01:04 UTC (2021-02-19 02:04 WAT)
+
+- URL: https://x.com/cmichelio/status/1362568592143826944
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 0
+
+> I'm starting a new security series called "Replaying #Ethereum hacks" where we'll do technical deep-dives into historic and recent vulnerabilities and reimplement the attacks. 🕵️‍♂️ Introductory post is all about getting set up https://cmichel.io/replaying-ethereum-hacks-introduction/ [pic.x.com/ZNaFTbc22X]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EujQ6fvXEAc0ikL.jpg — no alt text provided by author
+
+**Links in post:** https://cmichel.io/replaying-ethereum-hacks-introduction/
+
+
+---
+
+## 2021-02-09 · Post · This single line of code led to a bug bounty of 1M @ArmorFi  tokens, currently 0.8M$, the biggest cr
+
+
+### Post — @cmichelio — 2021-02-09 16:48 UTC (2021-02-09 17:48 WAT)
+
+- URL: https://x.com/cmichelio/status/1359182317017825286
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> This single line of code led to a bug bounty of 1M @ArmorFi  tokens, currently 0.8M$, the biggest crypto bug bounty to date.
+> Be sceptical of comments and test your claim functions 😃
+> https://github.com/ArmorFi/arCore/commit/02a90c08e0cdddc3bd954e0db5e741e7fdcb75f0#diff-4f6c7d7dbd6a8224df9fc98ce4e52e347277008318fd36b3f56099532232c16bL62
+> #Ethereum #BugBounty [pic.x.com/7wYl26ydW4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EtzH60eWQAYkYfl.png — no alt text provided by author
+
+**Links in post:** https://github.com/ArmorFi/arCore/commit/02a90c08e0cdddc3bd954e0db5e741e7fdcb75f0#diff-4f6c7d7dbd6a8224df9fc98ce4e52e347277008318fd36b3f56099532232c16bL62
+
+
+---
+
+## 2021-02-04 · Thread · I've been reading around the eosio.system contract and looks like the vote pay can be economically e
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @cmichelio — 2021-02-04 21:26 UTC (2021-02-04 22:26 WAT)
+
+- URL: https://x.com/cmichelio/status/1357440346758778881
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 1
+
+> I've been reading around the eosio.system contract and looks like the vote pay can be economically exploited. The fundamental issue is that when BPs claim rewards it only does a spot check on the votes of the BPs #eosio #eos (contd.)
+
+
+### Thread part 2 — @cmichelio — 2021-02-04 21:26 UTC (2021-02-04 22:26 WAT)
+
+- URL: https://x.com/cmichelio/status/1357440348209909761
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 1, reply 1, retweet 0
+
+> The vote pay (vpay) rewards are calculated as "vote weight of BP / total vote weight * vpay currently in bucket from inflation" https://github.com/EOSIO/eosio.contracts/blob/master/contracts/eosio.system/src/producer_pay.cpp#L162
+> Which means BPs can do a "flashvote" attack to increase their rewards
+
+**Links in post:** https://github.com/EOSIO/eosio.contracts/blob/master/contracts/eosio.system/src/producer_pay.cpp#L162
+
+
+### Thread part 3 — @cmichelio — 2021-02-04 21:26 UTC (2021-02-04 22:26 WAT)
+
+- URL: https://x.com/cmichelio/status/1357440349841539072
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> Create a flashvote smart contract with voters offering votes. Instead of a BP directly calling the claimrewards action, they create a flashvote tx where the 1st action changes registered voters' votes to the BP, 2nd is the claim, 3rd is reset voters' votes to original BPs
+
+
+---
+
+## 2021-01-28 · Thread · @haydenzadams @UniswapProtocol  v2 code is a piece of art. No explicit calculation of in/out amounts
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @cmichelio — 2021-01-28 18:51 UTC (2021-01-28 19:51 WAT)
+
+- URL: https://x.com/cmichelio/status/1354864731400646658
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @haydenzadams @UniswapProtocol  v2 code is a piece of art. No explicit calculation of in/out amounts. It blindly accepts all arguments and then does a single check at the end if the x*y=k invariant checks out https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/UniswapV2Pair.sol#L182
+
+**Links in post:** https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/UniswapV2Pair.sol#L182
+
+
+### Thread part 2 — @cmichelio — 2021-01-28 18:51 UTC (2021-01-28 19:51 WAT)
+
+- URL: https://x.com/cmichelio/status/1354864732759592962
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> I'd call it spec/security-driven development 😃
+> Coding it this way makes the code elegant, easy to verify, and naturally comes with nice features:
+> Any Uniswap pair can be used as a one-sided flash loan (0.3% fees).
+> It's also a flash "swap", receive tokens first, pay later
+
+
+### Thread part 3 — @cmichelio — 2021-01-28 18:51 UTC (2021-01-28 19:51 WAT)
+
+- URL: https://x.com/cmichelio/status/1354864734424727562
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> There are also drawbacks:
+> If you send the wrong inputs, you lose. There's no check if the user is overpaying for the desired output (checks x*y &gt;= k).
+> This is solved by having peripheral router contracts interact with the core protocol.
+
+
+---
+
+## 2021-01-18 · Post · My http://capturetheether.com solutions https://cmichel.io/capture-the-ether-solutions/ ethereum c
+
+
+### Post — @cmichelio — 2021-01-18 20:20 UTC (2021-01-18 21:20 WAT)
+
+- URL: https://x.com/cmichelio/status/1351263337598877699
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> My http://capturetheether.com solutions https://cmichel.io/capture-the-ether-solutions/ #ethereum #ctf #security
+
+**Links in post:** http://capturetheether.com, https://cmichel.io/capture-the-ether-solutions/
+
+
+---
+
+## 2021-01-02 · Post · Whenever I think I came up with a genius idea someone on Ethereum already did it. Insurance is just
+
+
+### Post — @cmichelio — 2021-01-02 14:23 UTC (2021-01-02 15:23 WAT)
+
+- URL: https://x.com/cmichelio/status/1345375257549537282
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> Whenever I think I came up with a genius idea someone on #Ethereum already did it. Insurance is just a prediction market for a protocol getting hacked. That's @CoverProtocol. What other industry is just a prediction market at its heart? @PredIQt_Network
+
+
+---
+
+## 2020-12-20 · Post · Post about pricing LP tokens and the latest @warpfinance hack https://cmichel.io/pricing-lp-tokens/ 
+
+
+### Post — @cmichelio — 2020-12-20 22:59 UTC (2020-12-20 23:59 WAT)
+
+- URL: https://x.com/cmichelio/status/1340793982176161793
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 1, reply 1, retweet 0
+
+> Post about pricing LP tokens and the latest @warpfinance hack https://cmichel.io/pricing-lp-tokens/ #Ethereum
+
+**Links in post:** https://cmichel.io/pricing-lp-tokens/
+
+
+---
+
+## 2020-12-15 · Post · I'm reading @lisajytan's Economics and Math of Token Engineering book. Very excited about the topic.
+
+
+### Post — @cmichelio — 2020-12-15 23:30 UTC (2020-12-16 00:30 WAT)
+
+- URL: https://x.com/cmichelio/status/1338989726439763969
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> I'm reading @lisajytan's Economics and Math of Token Engineering book. Very excited about the topic. I'll report back once I finished it https://book.economicsdesign.com/
+
+**Links in post:** https://book.economicsdesign.com/
+
+
+---
+
+## 2020-09-10 · Post · The account seems to belong to @flxeos_official All other pay-for-cpu actions are signed with felixc
+
+
+### Post — @cmichelio — 2020-09-10 09:36 UTC (2020-09-10 10:36 WAT)
+
+- URL: https://x.com/cmichelio/status/1303990748623319040
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> The account seems to belong to @flxeos_official All other pay-for-cpu actions are signed with felixcosignr@cosign permission. https://bloks.io/account/felixcosignr The hacker has access to their active key. Either @flxeos_official account has been compromised or they are involved in the hack
+
+**Links in post:** https://bloks.io/account/felixcosignr

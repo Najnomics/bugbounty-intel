@@ -89,7 +89,7 @@ Tags (automatic): Platform: Immunefi
     #### Quoted post — @asymmetric_re — 2024-08-06 12:31 UTC (2024-08-06 13:31 WAT)
     
     - URL: https://x.com/asymmetric_re/status/1820799883260932364
-    - Metrics (at fetch): bookmark 43, impression 37236, like 69, quote 10, reply 2, repost 16
+    - Metrics (at fetch): bookmark 43, impression 37236, like 69, quote 10, reply 2, retweet 16
     
     > New blog post: Evmos Precompile State Commit Infinite Mint.  A critical vulnerability in EVM state commits during precompile execution could cause a mismatch between the state held within EVM and the Bank module, resulting in inflated contract balances. https://www.asymmetric.re/blog/evmos-precompile-state-commit-infinite-mint
     

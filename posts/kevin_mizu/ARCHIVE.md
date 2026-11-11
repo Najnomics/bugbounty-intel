@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 32
-- Conversations/threads: 30
-- Oldest post captured: 2025-02-28
+- Posts in this file: 36
+- Conversations/threads: 34
+- Oldest post captured: 2024-10-28
 - Newest post captured: 2026-10-28
 
 
@@ -777,3 +777,93 @@ Tags (automatic): Platform: HackerOne
 **Links in post:** https://pwnme.phreaks.fr/, https://twitter.com/pwnmectf/status/1895551313737617463
 
 **Quoted post** 1895551313737617463: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-10 · Post · I'm very happy to finally share the second part of my DOMPurify security research 🔥
+
+
+### Post — @kevin_mizu — 2025-02-10 17:53 UTC (2025-02-10 18:53 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1889009906994520260
+- Metrics (at fetch): bookmark 233, impression 37110, like 358, quote 4, reply 4, retweet 101
+
+> I'm very happy to finally share the second part of my DOMPurify security research 🔥
+>
+> This article mostly focuses on DOMPurify misconfigurations, especially hooks, that downgrade the sanitizer's protection (even in the latest version)!
+>
+> Link 👇
+> https://t.co/Hg1MkqVuGw
+>
+> 1/2
+
+
+---
+
+## 2025-02-07 · Post · Thanks to the recent @PortSwigger top 10, I finally found the motivation to finish writing the 2nd a
+
+
+### Post — @kevin_mizu — 2025-02-07 16:32 UTC (2025-02-07 17:32 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1887902199390363799
+- Metrics (at fetch): bookmark 55, impression 12117, like 145, quote 1, reply 1, retweet 15
+
+> Thanks to the recent @PortSwigger top 10, I finally found the motivation to finish writing the 2nd article about DOMPurify security! 😁
+>
+> Before releasing it, I would like to share a small challenge 🚩
+>
+> Challenge link 👇
+> https://t.co/Fw1ePWFOMB
+>
+> 1/2 https://t.co/EWJqS3e2Dd
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GjMsl0bXYAATdsI.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-06 · Post · I recently reported an RCE to Happy-DOM (a Node.js HTML parser), and it’s now fixed!
+
+
+Tags (automatic): RCE
+
+
+### Post — @kevin_mizu — 2024-11-06 20:26 UTC (2024-11-06 21:26 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1854259206594945068
+- Metrics (at fetch): bookmark 150, impression 21469, like 373, quote 1, reply 4, retweet 53
+
+> I recently reported an RCE to Happy-DOM (a Node.js HTML parser), and it’s now fixed!
+>
+> The bug itself wasn't complex, but since finding an RCE in an HTML parser isn’t very common, I'm quite happy with this one :D
+>
+> https://t.co/zszjkgYZrb https://t.co/Szx64N2stR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gbumbh1WAAc_QZb.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Gbumdf8WUB0M30m.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-28 · Post · I was really surprised to see that the Cache API is exposed on window, allowing a simple XSS to hija
+
+
+Tags (automatic): XSS
+
+
+### Post — @kevin_mizu — 2024-10-28 17:14 UTC (2024-10-28 18:14 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1850949199812313321
+- Metrics (at fetch): bookmark 101, impression 19848, like 158, quote 1, reply 5, retweet 24
+
+> I was really surprised to see that the Cache API is exposed on window, allowing a simple XSS to hijack a service worker and achieve persistent XSS on most pages of a vulnerable website!
+>
+> It might not be a new, but I feel like it is an incredible XSS leveraging gadget :D https://t.co/PR4fmszaQt https://t.co/zcaraRjDxl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ga_kOGzaYAEG5s8.jpg — no alt text provided by author
+
+**Quoted post** 1850932349569282491: not readable via the API (deleted, private, or withheld).

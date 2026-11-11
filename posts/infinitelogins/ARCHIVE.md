@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 30
-- Conversations/threads: 30
+- Posts in this file: 32
+- Conversations/threads: 32
 - Oldest post captured: 2026-01-13
 - Newest post captured: 2026-11-04
 
@@ -498,7 +498,7 @@ Tags (automatic): SQL injection
 
 ---
 
-## 2026-10-12 · Post · @AnthropicAI expands the Cyber Verification Program with tiered model access, @thezdi names a $300k 
+## 2026-10-12 · Reply · @AnthropicAI expands the Cyber Verification Program with tiered model access, @thezdi names a $300k 
 
 
 Tags (automatic): XSS, RCE, Race condition, Blockchain / L1-L2 / bridge, AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
@@ -588,7 +588,7 @@ Tags (automatic): Auth bypass
 ### Post — @infinitelogins — 2026-10-08 13:01 UTC (2026-10-08 14:01 WAT)
 
 - URL: https://x.com/infinitelogins/status/2108181015885685018
-- Metrics (at fetch): bookmark 660, impression 28023, like 823, quote 5, reply 30, repost 105
+- Metrics (at fetch): bookmark 660, impression 28025, like 823, quote 5, reply 30, retweet 105
 
 > I found a critical auth bypass that resulted in a $10K bounty due to mass PII exfiltration. Here’s the technique:
 >
@@ -670,7 +670,23 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2026-10-05 · Post · @Hacker0x01 launches a community Discord server. @wiz_io announces a $6.5M open-source cloud bounty 
+## 2026-10-06 · Post · Just found my first SSTI &gt; RCE 🔥
+
+
+Tags (automatic): RCE
+
+
+### Post — @infinitelogins — 2026-10-06 13:45 UTC (2026-10-06 14:45 WAT)
+
+- URL: https://x.com/infinitelogins/status/2107467264803111230
+- Metrics (at fetch): bookmark 12, impression 4839, like 189, quote 0, reply 11, retweet 0
+
+> Just found my first SSTI &gt; RCE 🔥
+
+
+---
+
+## 2026-10-05 · Reply · @Hacker0x01 launches a community Discord server. @wiz_io announces a $6.5M open-source cloud bounty 
 
 
 Tags (automatic): XSS, RCE, Request smuggling / desync, Memory corruption / native, AI-assisted hunting, Platform: HackerOne
@@ -756,7 +772,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 
 ---
 
-## 2026-09-29 · Post · @HacktronAI names a July intrusion chain into @OpenAI , @MetaBugBounty announces a public Muse bount
+## 2026-09-29 · Reply · @HacktronAI names a July intrusion chain into @OpenAI , @MetaBugBounty announces a public Muse bount
 
 
 Tags (automatic): SSRF, RCE, Mobile / Android / iOS, Memory corruption / native, AI-assisted hunting, Platform: HackerOne
@@ -836,6 +852,22 @@ Tags (automatic): RCE
 > Subscribe at http://getdisclosed.com to get the drop first.
 
 **Links in post:** http://getdisclosed.com
+
+
+---
+
+## 2026-09-09 · Post · lol a couple of years ago I really wanted to escalate a broken link hijack to an xss for no other re
+
+
+Tags (automatic): XSS
+
+
+### Post — @infinitelogins — 2026-09-09 00:56 UTC (2026-09-09 01:56 WAT)
+
+- URL: https://x.com/infinitelogins/status/2097489236505370701
+- Metrics (at fetch): bookmark 4, impression 2748, like 48, quote 0, reply 5, retweet 0
+
+> lol a couple of years ago I really wanted to escalate a broken link hijack to an xss for no other reason than to say I found one in the wild. Well, today was the day!
 
 
 ---

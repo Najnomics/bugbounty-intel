@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 131
-- Conversations/threads: 104
-- Oldest post captured: 2024-08-06
+- Posts in this file: 137
+- Conversations/threads: 110
+- Oldest post captured: 2024-01-29
 - Newest post captured: 2026-10-30
 
 
@@ -2211,8 +2211,117 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2024-08-06 12:31 UTC (2024-08-06 13:31 WAT)
 
 - URL: https://x.com/asymmetric_re/status/1820799883260932364
-- Metrics (at fetch): bookmark 43, impression 37236, like 69, quote 10, reply 2, repost 16
+- Metrics (at fetch): bookmark 43, impression 37236, like 69, quote 10, reply 2, retweet 16
 
 > New blog post: Evmos Precompile State Commit Infinite Mint.  A critical vulnerability in EVM state commits during precompile execution could cause a mismatch between the state held within EVM and the Bank module, resulting in inflated contract balances. https://www.asymmetric.re/blog/evmos-precompile-state-commit-infinite-mint
 
 **Links in post:** https://www.asymmetric.re/blog/evmos-precompile-state-commit-infinite-mint
+
+
+---
+
+## 2024-07-03 · Post · 🔥💃Calling all bounty hunters! @Immunefi is hosting a $1M prize pool to help secure Firedancer v0.1, 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @asymmetric_re — 2024-07-03 17:57 UTC (2024-07-03 18:57 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1808560622444970438
+- Metrics (at fetch): bookmark 11, impression 71871, like 175, quote 9, reply 20, retweet 64
+
+> 🔥💃Calling all bounty hunters! @Immunefi is hosting a $1M prize pool to help secure Firedancer v0.1, a new Solana client written in C and Rust!
+>
+> https://immunefi.com/boost/firedancer-boost/
+
+**Links in post:** https://immunefi.com/boost/firedancer-boost/
+
+
+---
+
+## 2024-04-23 · Post · New blog post: Cosmos IBC Reentrancy Infinite Mint. A critical reentrancy bug in ibc-go could have e
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2024-04-23 13:34 UTC (2024-04-23 14:34 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1782765042540138805
+- Metrics (at fetch): bookmark 83, impression 116833, like 250, quote 39, reply 13, retweet 59
+
+> New blog post: Cosmos IBC Reentrancy Infinite Mint. A critical reentrancy bug in ibc-go could have enabled the infinite mint of IBC tokens on Cosmos chains.
+>
+> https://www.asymmetric.re/blog/cosmos-ibc-reentrancy-infinite-mint
+
+**Links in post:** https://www.asymmetric.re/blog/cosmos-ibc-reentrancy-infinite-mint
+
+
+---
+
+## 2024-02-26 · Post · We're thrilled to receive this grant from @WormholeFdn. Secure multichain messaging is a hard proble
+
+
+### Post — @asymmetric_re — 2024-02-26 20:34 UTC (2024-02-26 21:34 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1762214667739333015
+- Metrics (at fetch): bookmark 3, impression 15692, like 34, quote 1, reply 0, retweet 5
+
+> We're thrilled to receive this grant from @WormholeFdn. Secure multichain messaging is a hard problem and we're honored to join the other Wormhole contributors on this critical mission. https://twitter.com/WormholeFdn/status/1762154243304063125
+
+**Links in post:** https://twitter.com/WormholeFdn/status/1762154243304063125
+
+**Quoted post** 1762154243304063125: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-02-23 · Post · We are hiring experienced security engineers and researchers to help us secure some of the most exci
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2024-02-23 13:49 UTC (2024-02-23 14:49 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1761025433527599609
+- Metrics (at fetch): bookmark 11, impression 11814, like 37, quote 2, reply 1, retweet 16
+
+> We are hiring experienced security engineers and researchers to help us secure some of the most exciting projects in the Solana ecosystem. Come work with us: https://jobs.ashbyhq.com/asymmetric.re/7b591444-899a-4536-ae99-191d5389adc5
+
+**Links in post:** https://jobs.ashbyhq.com/asymmetric.re/7b591444-899a-4536-ae99-191d5389adc5
+
+
+---
+
+## 2024-02-13 · Post · New blog post: Ethereum Log Confusion in Polygon's Heimdall. A critical vulnerability in Polygon PoS
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2024-02-13 17:18 UTC (2024-02-13 18:18 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1757454172658556952
+- Metrics (at fetch): bookmark 49, impression 25177, like 112, quote 10, reply 4, retweet 23
+
+> New blog post: Ethereum Log Confusion in Polygon's Heimdall. A critical vulnerability in Polygon PoS that could have allowed a rogue validator to take over the Heimdall consensus layer, putting over $2B of crypto assets in the PoS bridge at risk. https://www.asymmetric.re/blog/polygon-log-confusion
+
+**Links in post:** https://www.asymmetric.re/blog/polygon-log-confusion
+
+
+---
+
+## 2024-01-29 · Post · 👀 [pic.x.com/71fJyyhIJy]
+
+
+### Post — @asymmetric_re — 2024-01-29 16:46 UTC (2024-01-29 17:46 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1752010388042862630
+- Metrics (at fetch): bookmark 6, impression 14001, like 57, quote 3, reply 3, retweet 11
+
+> 👀 [pic.x.com/71fJyyhIJy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFBkFImWcAALH_6.jpg — no alt text provided by author

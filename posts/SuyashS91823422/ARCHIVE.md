@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 49
-- Oldest post captured: 2025-02-22
+- Posts in this file: 70
+- Conversations/threads: 57
+- Oldest post captured: 2024-09-16
 - Newest post captured: 2026-11-11
 
 
@@ -1018,3 +1018,165 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkaJengXgAAgrCa.png — no alt text provided by author
+
+
+---
+
+## 2025-01-15 · Post · Successfully reported by 1st P1 of 2025🔥
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2025-01-15 20:16 UTC (2025-01-15 21:16 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1879623823861092435
+- Metrics (at fetch): bookmark 18, impression 5364, like 145, quote 0, reply 8, retweet 1
+
+> Successfully reported by 1st P1 of 2025🔥
+> #bugbounty #bugcrowd @Bugcrowd https://t.co/OKwFnFaS5u
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhXDlU1WwAAHeem.png — no alt text provided by author
+
+
+---
+
+## 2025-01-15 · Post · When you know the ART of finding Hidden subdomains/assets
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2025-01-15 17:23 UTC (2025-01-15 18:23 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1879580235617951818
+- Metrics (at fetch): bookmark 317, impression 18323, like 371, quote 0, reply 9, retweet 44
+
+> When you know the ART of finding Hidden subdomains/assets
+> TIP:- use alterx tool to generate permutations and combinations of subdomains @Bugcrowd 
+> #bugbountytips #bugbounty #bugcrowd https://t.co/CKbSYSm1QT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhWb4OPWoAEFrNE.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GhWb4RFaoAALVmf.png — no alt text provided by author
+
+
+---
+
+## 2024-12-16 · Post · Amazing bounty and a good comeback 😎
+
+
+### Post — @SuyashS91823422 — 2024-12-16 14:09 UTC (2024-12-16 15:09 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1868659774021394602
+- Metrics (at fetch): bookmark 10, impression 2721, like 32, quote 0, reply 4, retweet 0
+
+> Amazing bounty and a good comeback 😎
+> Tips- update your fuzzing wordlist regularly ✅
+> #bugbountytips #bugbounty #infosec https://t.co/2i0yQNVooX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ge7QJ5fb0AA5ris.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-29 · Reply · @Suryesh_92 @shakti_sec @intigriti Ya might be possible you are using different methodologies or mig
+
+
+**Context — post being replied to:**
+
+#### Parent post — @Suryesh_92 — 2024-11-29 11:21 UTC (2024-11-29 12:21 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1862456854598562086
+- Metrics (at fetch): bookmark 1, impression 212, like 2, quote 0, reply 5, retweet 0
+
+> @SuyashS91823422 @shakti_sec @intigriti 1.5 year automation, no bug 🙂🙂🙂, and Shakti waste 2 year total on automation. Then I explained to him and he got a bounty. 🙂🙂😎
+
+
+### Post — @SuyashS91823422 — 2024-11-29 13:49 UTC (2024-11-29 14:49 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1862494000533385709
+- Metrics (at fetch): bookmark 0, impression 67, like 1, quote 0, reply 0, retweet 0
+
+> @Suryesh_92 @shakti_sec @intigriti Ya might be possible you are using different methodologies or might be possible you missed something, I am using mixture of automation and manual and getting amazing results
+
+
+---
+
+## 2024-11-27 · Post · "Stacking wins! 🎯 Multiple vulnerabilities reported and accepted by McGraw Hill. On the path to a sa
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2024-11-27 13:42 UTC (2024-11-27 14:42 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1861767523471065376
+- Metrics (at fetch): bookmark 12, impression 2949, like 47, quote 0, reply 1, retweet 0
+
+> "Stacking wins! 🎯 Multiple vulnerabilities reported and accepted by McGraw Hill. On the path to a safer digital world. 🌐🔒@bugcrowd #BugBounty #InfoSec #bugbounty 
+> #bugcrowd https://t.co/nZHvadcAu5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GdZTsNpboAAwih_.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-07 · Post · Mastering the art of manual hunting 
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @SuyashS91823422 — 2024-10-07 06:13 UTC (2024-10-07 07:13 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1843172853279301933
+- Metrics (at fetch): bookmark 40, impression 8169, like 209, quote 1, reply 9, retweet 3
+
+> Mastering the art of manual hunting 
+> "Two IDOR vulnerabilities reported! One exposing full user info and another critical one allowing victim data edits. Both in progress for assessment. Stay vigilant!🔥 #BugBounty #EthicalHacking #IDOR #CyberSecurity" https://t.co/znjUIUUyaE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZRD7_yakAA52MI.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-27 · Post · 🔥Excited to share that I'm working on a new vulnerability reconnaissance tool! This tool will help s
+
+
+### Post — @SuyashS91823422 — 2024-09-27 09:19 UTC (2024-09-27 10:19 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1839595806749593714
+- Metrics (at fetch): bookmark 11, impression 2163, like 34, quote 0, reply 2, retweet 2
+
+> 🔥Excited to share that I'm working on a new vulnerability reconnaissance tool! This tool will help streamline finding vulnerable parameters in URLs and identifying high-risk ones for a more focused approach to bug hunting. 
+> #CyberSecurity #Pentesting #BugBounty #Infosec https://t.co/V5qBtID1PL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYeOhD6bgAAWEU1.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GYeOhD4b0AAw8_i.png — no alt text provided by author
+
+
+---
+
+## 2024-09-16 · Post · An Amazing day with my amazing findings 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @SuyashS91823422 — 2024-09-16 17:57 UTC (2024-09-16 18:57 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1835739721705881875
+- Metrics (at fetch): bookmark 108, impression 9698, like 214, quote 0, reply 11, retweet 10
+
+> An Amazing day with my amazing findings 
+> TIP: learn more on enchancing the art of finding more subdmains use tools file alterx dnsx etc 😎🌟
+> #bugbounty #BugBounty #bugbountytips #hackerone https://t.co/qd5mbKwh8R
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXnZnZCa0AAtLUx.png — no alt text provided by author

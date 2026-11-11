@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 27
-- Conversations/threads: 21
-- Oldest post captured: 2025-12-02
+- Posts in this file: 40
+- Conversations/threads: 31
+- Oldest post captured: 2025-01-31
 - Newest post captured: 2026-10-19
 
 
@@ -419,3 +419,217 @@ Tags (automatic): Platform: Immunefi
 > Some doubt they’ll ever find another bounty. Others doubt if they’ll ever get another auditing gig
 >
 > Nobody…  has ever doubted, if there will be more drama on CT https://t.co/aVqojWEjHb
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/G7LojHobgAImZVz.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-18 · Post · Lending, Perpetual, integrating with another protocol? Or simply building something cool?
+
+
+### Post — @Kiki_developer — 2025-08-18 15:43 UTC (2025-08-18 16:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1957468481235939621
+- Metrics (at fetch): bookmark 0, impression 709, like 9, quote 0, reply 3, retweet 2
+
+> Lending, Perpetual, integrating with another protocol? Or simply building something cool?
+>
+> Find me on SoloAudit: https://soloaudit.com/auditor/kiki
+>
+> Even if you aren’t looking for a solo audit, check out the profiles anyway! Huge aesthetic upgrade over GitHub READMEs 👀 https://twitter.com/AliX__40/status/1957437501855179232
+
+**Links in post:** https://soloaudit.com/auditor/kiki, https://twitter.com/AliX__40/status/1957437501855179232
+
+**Quoted post** 1957437501855179232: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-08-14 · Post · Protocols integrating with @GMX_IO, aka my favorite type of protocol to audit is about to have a lot
+
+
+### Post — @Kiki_developer — 2025-08-14 16:19 UTC (2025-08-14 17:19 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1956028003261276659
+- Metrics (at fetch): bookmark 0, impression 568, like 10, quote 0, reply 1, retweet 1
+
+> Protocols integrating with @GMX_IO, aka my favorite type of protocol to audit is about to have a lot more builders 🎉 https://twitter.com/arbitrum/status/1955357215390568459
+
+**Links in post:** https://twitter.com/arbitrum/status/1955357215390568459
+
+**Quoted post** 1955357215390568459: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-08-08 · Post · 20% of the fun of bounty hunting on @immunefi is making the cover art afterwards👨‍🎨 [pic.x.com/z671A
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2025-08-08 15:48 UTC (2025-08-08 16:48 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1953845760383979913
+- Metrics (at fetch): bookmark 2, impression 3734, like 49, quote 1, reply 10, retweet 5
+
+> 20% of the fun of bounty hunting on @immunefi is making the cover art afterwards👨‍🎨 [pic.x.com/z671AF5WfE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gx10XPJaoAAPkeC.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-29 · Post · As crazy as it sounds the first high severity bug I found with @GuardianAudits was on my phone while
+
+
+### Post — @Kiki_developer — 2025-05-29 19:26 UTC (2025-05-29 20:26 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1928171038346486168
+- Metrics (at fetch): bookmark 2, impression 3293, like 43, quote 1, reply 9, retweet 1
+
+> As crazy as it sounds the first high severity bug I found with @GuardianAudits was on my phone while on a ladder installing soffits https://twitter.com/pashov/status/1927991559917818019
+
+**Links in post:** https://twitter.com/pashov/status/1927991559917818019
+
+**Quoted post** 1927991559917818019: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-20 · Post · @WhiteHatMage @immunefi Legit going to catch 'em all 🔥 [pic.x.com/HaHd2mWtzQ]
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2025-05-20 15:07 UTC (2025-05-20 16:07 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1924844442755989933
+- Metrics (at fetch): bookmark 0, impression 148, like 0, quote 0, reply 0, retweet 0
+
+> @WhiteHatMage @immunefi Legit going to catch 'em all 🔥 [pic.x.com/HaHd2mWtzQ]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GrZr0RLbUAAxqjl.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-16 · Thread · Update: Independent arc is going well!
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2025-05-16 14:03 UTC (2025-05-16 15:03 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1923378671320027428
+- Metrics (at fetch): bookmark 3, impression 4609, like 104, quote 2, reply 18, retweet 0
+
+> Update: Independent arc is going well!
+> Thanks @immunefi [pic.x.com/q8LWA4AhKT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrE2EPFbsAA5MJM.png — no alt text provided by author
+
+
+### Thread part 2 — @Kiki_developer — 2025-05-16 14:29 UTC (2025-05-16 15:29 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1923385298685198574
+- Metrics (at fetch): bookmark 0, impression 160, like 0, quote 0, reply 0, retweet 0
+
+> @WhiteHatMage @immunefi 🤲✨
+
+
+---
+
+## 2025-04-16 · Thread · @WhiteHatMage @immunefi Congrats!  Your art work alone is motivation enough to hunt so that I can tr
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Kiki_developer — 2025-04-16 16:26 UTC (2025-04-16 17:26 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1912543102415564894
+- Metrics (at fetch): bookmark 0, impression 245, like 2, quote 0, reply 0, retweet 0
+
+> @WhiteHatMage @immunefi Congrats!  Your art work alone is motivation enough to hunt so that I can try my hand at these kind of posts 🎨
+
+
+### Thread part 2 — @Kiki_developer — 2025-04-16 16:30 UTC (2025-04-16 17:30 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1912544203177066523
+- Metrics (at fetch): bookmark 0, impression 69, like 0, quote 0, reply 0, retweet 0
+
+> @WhiteHatMage @immunefi Cant fail with the mages blessing 🤝
+
+
+---
+
+## 2025-04-06 · Thread · Quick update:
+
+
+### Post — @Kiki_developer — 2025-04-06 16:44 UTC (2025-04-06 17:44 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1908923879990640733
+- Metrics (at fetch): bookmark 4, impression 6666, like 109, quote 0, reply 26, retweet 0
+
+> Quick update:
+>
+> It’s bitter sweet to share but I’ve decided to go independent and step away from the core team at guardians.
+>
+> My first audit with guardians was almost 2 years ago 🤯 and It’s been a honor being able to play a part in building one of the top firms in the space.
+
+
+### Thread part 2 — @Kiki_developer — 2025-04-06 16:44 UTC (2025-04-06 17:44 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1908923881035100454
+- Metrics (at fetch): bookmark 0, impression 521, like 7, quote 0, reply 1, retweet 0
+
+> It wasn't an easy decision, the SRs I got to work with were amazing on a technical level and truly, even better on a personal one.
+>
+> I got to audit some of the biggest protocols we have, and seeing billions flow through my recommended fixes is a special feeling to say the least!
+
+
+---
+
+## 2025-02-13 · Post · Without foundry I probably wouldn’t  of gotten past the whole “set up” stage of this security thing.
+
+
+### Post — @Kiki_developer — 2025-02-13 23:54 UTC (2025-02-14 00:54 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1890187907434197444
+- Metrics (at fetch): bookmark 1, impression 523, like 4, quote 0, reply 0, retweet 0
+
+> Without foundry I probably wouldn’t  of gotten past the whole “set up” stage of this security thing. 
+>
+> Thank you everyone that contributed 🙏 https://twitter.com/gakonst/status/1890163061182591480
+
+**Links in post:** https://twitter.com/gakonst/status/1890163061182591480
+
+**Quoted post** 1890163061182591480: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-01-31 · Post · Recently I had the privilege of conducting a private audit with @ambitfinance
+
+
+### Post — @Kiki_developer — 2025-01-31 14:43 UTC (2025-01-31 15:43 WAT)
+
+- URL: https://x.com/Kiki_developer/status/1885338167697666312
+- Metrics (at fetch): bookmark 4, impression 1282, like 20, quote 0, reply 2, retweet 1
+
+> Recently I had the privilege of conducting a private audit with @ambitfinance
+>
+> It's a great feeling having repeat clients (3rd audit) but even better when the client has an exceptional dev/team 😄
+>
+> And for those that enjoy a casual read H-02 was my favorite find this time around [pic.x.com/CtJ3zCuWk1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GimiAd0bYAIrTgx.jpg — no alt text provided by author

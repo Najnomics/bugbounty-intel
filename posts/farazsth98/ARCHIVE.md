@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 49
-- Conversations/threads: 34
+- Posts in this file: 75
+- Conversations/threads: 56
 - Oldest post captured: 2020-11-22
 - Newest post captured: 2026-11-03
 
@@ -749,7 +749,22 @@ Tags (automatic): Race condition, Memory corruption / native
 
 **Links in post:** https://twitter.com/farazsth98/status/2002901583961731219
 
-**Quoted post** 2002901583961731219: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-12-22 00:38 UTC (2025-12-22 01:38 WAT)
+    
+    - URL: https://x.com/farazsth98/status/2002901583961731219
+    - Metrics (at fetch): bookmark 98, impression 37402, like 184, quote 2, reply 2, retweet 34
+    
+    > After reading @streypaws blog post on CVE-2025-38352, I ended up writing my own PoC for it.
+    >
+    > I also wrote a blog post on my approach to analyzing and recreating the PoC. Hopefully it is useful to others!
+    >
+    > See link in the reply tweet below! https://t.co/Ldt8EWsEQT
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/G8u8P7RbUAAyabp.png — no alt text provided by author
+    
 
 
 ### Thread part 2 — @farazsth98 — 2025-12-24 17:35 UTC (2025-12-24 18:35 WAT)
@@ -796,10 +811,25 @@ Tags (automatic): Race condition, Memory corruption / native
 
 ---
 
-## 2025-12-22 · Post · @streypaws PoC on Github:
+## 2025-12-22 · Thread · After reading @streypaws blog post on CVE-2025-38352, I ended up writing my own PoC for it.
 
 
-### Post — @farazsth98 — 2025-12-22 00:42 UTC (2025-12-22 01:42 WAT)
+### Post — @farazsth98 — 2025-12-22 00:38 UTC (2025-12-22 01:38 WAT)
+
+- URL: https://x.com/farazsth98/status/2002901583961731219
+- Metrics (at fetch): bookmark 98, impression 37402, like 184, quote 2, reply 2, retweet 34
+
+> After reading @streypaws blog post on CVE-2025-38352, I ended up writing my own PoC for it.
+>
+> I also wrote a blog post on my approach to analyzing and recreating the PoC. Hopefully it is useful to others!
+>
+> See link in the reply tweet below! https://t.co/Ldt8EWsEQT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G8u8P7RbUAAyabp.png — no alt text provided by author
+
+
+### Thread part 2 — @farazsth98 — 2025-12-22 00:42 UTC (2025-12-22 01:42 WAT)
 
 - URL: https://x.com/farazsth98/status/2002902538509787175
 - Metrics (at fetch): bookmark 14, impression 4324, like 29, quote 0, reply 0, retweet 7
@@ -808,6 +838,581 @@ Tags (automatic): Race condition, Memory corruption / native
 > https://github.com/farazsth98/poc-CVE-2025-38352
 
 **Links in post:** https://github.com/farazsth98/poc-CVE-2025-38352
+
+
+---
+
+## 2025-12-22 · Post · Just a quick note:
+
+
+Tags (automatic): Mobile / Android / iOS, Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-12-22 00:41 UTC (2025-12-22 01:41 WAT)
+
+- URL: https://x.com/farazsth98/status/2002902368875347977
+- Metrics (at fetch): bookmark 15, impression 5859, like 49, quote 0, reply 0, retweet 1
+
+> Just a quick note:
+>
+> Even though the vulnerability was reported to be exploited in the wild, it has been over 3 months since it was fixed in the Android kernel.
+>
+> Also, this only affects 32-bit Android devices, which are somewhat rare nowadays.
+>
+> So I think releasing a PoC is ok 😄 https://t.co/mGu4tw3SlL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-12-22 00:38 UTC (2025-12-22 01:38 WAT)
+    
+    - URL: https://x.com/farazsth98/status/2002901583961731219
+    - Metrics (at fetch): bookmark 98, impression 37402, like 184, quote 2, reply 2, retweet 34
+    
+    > After reading @streypaws blog post on CVE-2025-38352, I ended up writing my own PoC for it.
+    >
+    > I also wrote a blog post on my approach to analyzing and recreating the PoC. Hopefully it is useful to others!
+    >
+    > See link in the reply tweet below! https://t.co/Ldt8EWsEQT
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/G8u8P7RbUAAyabp.png — no alt text provided by author
+    
+
+
+---
+
+## 2025-12-11 · Post · Our exploit was a success! 🥳🎉🎊
+
+
+### Post — @farazsth98 — 2025-12-11 20:48 UTC (2025-12-11 21:48 WAT)
+
+- URL: https://x.com/farazsth98/status/1999219851181875380
+- Metrics (at fetch): bookmark 21, impression 19462, like 201, quote 2, reply 14, retweet 18
+
+> Our exploit was a success! 🥳🎉🎊
+>
+> I had an amazing experience working with @u1f383 as part of Team CCC at https://t.co/QjA9nSj4js! We can't wait for responsible disclosure 😄
+>
+> Here's a video of what our exploit should have looked like on-stage (had some technical difficulties🥲) https://t.co/inmQQx1ith
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/1999217562018562048/img/8KIe9de6FO4Cnh-6.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-08 · Post · Idk if this is controversial, but I really don't think bug bounty programs should pay for these Reac
+
+
+### Post — @farazsth98 — 2025-12-08 10:24 UTC (2025-12-08 11:24 WAT)
+
+- URL: https://x.com/farazsth98/status/1997975471535861771
+- Metrics (at fetch): bookmark 14, impression 12160, like 82, quote 2, reply 11, retweet 3
+
+> Idk if this is controversial, but I really don't think bug bounty programs should pay for these React2Shell submissions...
+>
+> It requires no skill to copy a PoC and spray it across the internet. Why are these people being paid? It leaves such a bad taste in my mouth...
+
+
+---
+
+## 2025-12-05 · Post · Well... Wonder if this is just the React / next.js RCE making it's way around the internet now..
+
+
+Tags (automatic): RCE
+
+
+### Post — @farazsth98 — 2025-12-05 09:07 UTC (2025-12-05 10:07 WAT)
+
+- URL: https://x.com/farazsth98/status/1996868952094658794
+- Metrics (at fetch): bookmark 0, impression 2410, like 11, quote 0, reply 2, retweet 1
+
+> Well... Wonder if this is just the React / next.js RCE making it's way around the internet now..
+>
+> Cloudflare is also down💀 https://t.co/smGFwNVEli
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7ZNhKgbYAAoMSp.png — no alt text provided by author
+
+
+---
+
+## 2025-11-28 · Post · Wrote a quick blog post on how certain Linux kernel race windows can be extended using `/dev/shm` an
+
+
+Tags (automatic): Race condition, Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-11-28 18:10 UTC (2025-11-28 19:10 WAT)
+
+- URL: https://x.com/farazsth98/status/1994468982552936561
+- Metrics (at fetch): bookmark 51, impression 6972, like 86, quote 0, reply 1, retweet 17
+
+> Wrote a quick blog post on how certain Linux kernel race windows can be extended using `/dev/shm` and the `fallocate()` system call, mostly as a reference for future me😄
+>
+> Obvious disclaimer - I did not discover this technique. I'm only documenting it🙏
+>
+> Link in the reply tweet! https://t.co/dPYcD7PeiU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G63GaN2bkAQRXD1.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-14 · Post · Finally booked flights! Going to Zeroday Cloud 😄
+
+
+### Post — @farazsth98 — 2025-11-14 00:30 UTC (2025-11-14 01:30 WAT)
+
+- URL: https://x.com/farazsth98/status/1989128778124259371
+- Metrics (at fetch): bookmark 5, impression 6296, like 43, quote 0, reply 3, retweet 3
+
+> Finally booked flights! Going to Zeroday Cloud 😄
+>
+> Time to prepare for the painful 21.5 hour flight by praying to the exploit gods 😩 https://twitter.com/farazsth98/status/1984581336158683500
+
+**Links in post:** https://twitter.com/farazsth98/status/1984581336158683500
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-11-01 11:20 UTC (2025-11-01 12:20 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1984581336158683500
+    - Metrics (at fetch): bookmark 6, impression 15986, like 68, quote 2, reply 2, retweet 2
+    
+    > Just confirmed a candidate UAF vuln that I'm planning to use at the http://zeroday.cloud competition.
+    >
+    > It'll be very difficult to exploit though 😩 definitely not an easy one, but 🤞 
+    >
+    > Disclosure will happen either way later on 😄
+    >
+    > @h0mbre_ is it time to stop the timer? :p
+    
+    **Links in post:** http://zeroday.cloud
+    
+
+
+---
+
+## 2025-11-01 · Thread · Just confirmed a candidate UAF vuln that I'm planning to use at the http://zeroday.cloud competition
+
+
+### Post — @farazsth98 — 2025-11-01 11:20 UTC (2025-11-01 12:20 WAT)
+
+- URL: https://x.com/farazsth98/status/1984581336158683500
+- Metrics (at fetch): bookmark 6, impression 15986, like 68, quote 2, reply 2, retweet 2
+
+> Just confirmed a candidate UAF vuln that I'm planning to use at the http://zeroday.cloud competition.
+>
+> It'll be very difficult to exploit though 😩 definitely not an easy one, but 🤞 
+>
+> Disclosure will happen either way later on 😄
+>
+> @h0mbre_ is it time to stop the timer? :p
+
+**Links in post:** http://zeroday.cloud
+
+
+### Thread part 2 — @farazsth98 — 2025-11-01 11:23 UTC (2025-11-01 12:23 WAT)
+
+- URL: https://x.com/farazsth98/status/1984582073060114852
+- Metrics (at fetch): bookmark 0, impression 1641, like 6, quote 0, reply 0, retweet 0
+
+> As a bonus, a separate nullptr deref bug was also uncovered while writing the PoC for this 😅 what's with me and nullptr derefs 😭
+
+
+---
+
+## 2025-10-25 · Post · I love finding null ptr derefs 🥰🥰🥰they are so cool [pic.x.com/oNmX20Wfso]
+
+
+### Post — @farazsth98 — 2025-10-25 16:04 UTC (2025-10-25 17:04 WAT)
+
+- URL: https://x.com/farazsth98/status/1982116089539813618
+- Metrics (at fetch): bookmark 10, impression 7532, like 79, quote 0, reply 2, retweet 5
+
+> I love finding null ptr derefs 🥰🥰🥰they are so cool [pic.x.com/oNmX20Wfso]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4Hj2vxXMAAsw8x.png — no alt text provided by author
+
+
+---
+
+## 2025-10-22 · Post · Just noticed a defensive patch, most likely a direct result of this kCTF exploit: https://git.kernel
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-10-22 12:41 UTC (2025-10-22 13:41 WAT)
+
+- URL: https://x.com/farazsth98/status/1980977857863270792
+- Metrics (at fetch): bookmark 10, impression 7683, like 31, quote 0, reply 1, retweet 1
+
+> Just noticed a defensive patch, most likely a direct result of this kCTF exploit: https://git.kernel.org/pub/scm/linux/kernel/git/herbert/cryptodev-2.6.git/commit/?id=6f6e309328d53a10c0fe1f77dec2db73373179b6
+>
+> Makes this vulnerability completely unexploitable at least😅 https://twitter.com/farazsth98/status/1978852835631550540
+
+**Links in post:** https://git.kernel.org/pub/scm/linux/kernel/git/herbert/cryptodev-2.6.git/commit/?id=6f6e309328d53a10c0fe1f77dec2db73373179b6, https://twitter.com/farazsth98/status/1978852835631550540
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-10-16 15:57 UTC (2025-10-16 16:57 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1978852835631550540
+    - Metrics (at fetch): bookmark 12, impression 9316, like 75, quote 1, reply 1, retweet 2
+    
+    > The latest kCTF 0-day exploit submission is an integer underflow that leads to a scatterlist walk of 0xFFFFFFF0 bytes into a much smaller destination buffer before writing data into it, which triggers a null-deref by default.
+    >
+    > Time to learn something new by exploiting this😄
+    
+
+
+---
+
+## 2025-10-16 · Post · The latest kCTF 0-day exploit submission is an integer underflow that leads to a scatterlist walk of
+
+
+### Post — @farazsth98 — 2025-10-16 15:57 UTC (2025-10-16 16:57 WAT)
+
+- URL: https://x.com/farazsth98/status/1978852835631550540
+- Metrics (at fetch): bookmark 12, impression 9316, like 75, quote 1, reply 1, retweet 2
+
+> The latest kCTF 0-day exploit submission is an integer underflow that leads to a scatterlist walk of 0xFFFFFFF0 bytes into a much smaller destination buffer before writing data into it, which triggers a null-deref by default.
+>
+> Time to learn something new by exploiting this😄
+
+
+---
+
+## 2025-10-15 · Post · Ok this was one of the best blog posts I've had the pleasure of reading https://twitter.com/a13xp0p0
+
+
+### Post — @farazsth98 — 2025-10-15 19:53 UTC (2025-10-15 20:53 WAT)
+
+- URL: https://x.com/farazsth98/status/1978549792620884291
+- Metrics (at fetch): bookmark 18, impression 3957, like 22, quote 0, reply 0, retweet 1
+
+> Ok this was one of the best blog posts I've had the pleasure of reading https://twitter.com/a13xp0p0v/status/1962897004704473458
+
+**Links in post:** https://twitter.com/a13xp0p0v/status/1962897004704473458
+
+**Quoted post** 1962897004704473458: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-10-15 · Post · Apparently kCTF LTS submissions don't allow for unpriv user namespaces since July... Which this bug 
+
+
+### Post — @farazsth98 — 2025-10-15 12:03 UTC (2025-10-15 13:03 WAT)
+
+- URL: https://x.com/farazsth98/status/1978431556814246369
+- Metrics (at fetch): bookmark 5, impression 2991, like 26, quote 0, reply 3, retweet 0
+
+> Apparently kCTF LTS submissions don't allow for unpriv user namespaces since July... Which this bug requires😭
+>
+> And sadly none of the other instances have the commit that caused the bug...
+>
+> This is going to the shelf for now I guess, kind of a bad first bug anyway🥲 https://twitter.com/farazsth98/status/1978173113473941716
+
+**Links in post:** https://twitter.com/farazsth98/status/1978173113473941716
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-10-14 18:56 UTC (2025-10-14 19:56 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1978173113473941716
+    - Metrics (at fetch): bookmark 3, impression 7002, like 29, quote 1, reply 1, retweet 0
+    
+    > Made a lot of progress on this. I think I've seen like 10 different kernel memory corruption related errors in the past couple of hours😅
+    >
+    > I'm still actually not sure if it's exploitable due to &lt;REASONS&gt;, but I will try my best 🙏 My heap spray is absolutely horrible rn😩 [pic.x.com/51rjYgip4e] https://twitter.com/farazsth98/status/1978042282038456561
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/G3PhvXQbcAAGl4N.png — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/farazsth98/status/1978042282038456561
+    
+    **Quoted post** 1978042282038456561: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-10-14 · Post · Made a lot of progress on this. I think I've seen like 10 different kernel memory corruption related
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-10-14 18:56 UTC (2025-10-14 19:56 WAT)
+
+- URL: https://x.com/farazsth98/status/1978173113473941716
+- Metrics (at fetch): bookmark 3, impression 7002, like 29, quote 1, reply 1, retweet 0
+
+> Made a lot of progress on this. I think I've seen like 10 different kernel memory corruption related errors in the past couple of hours😅
+>
+> I'm still actually not sure if it's exploitable due to &lt;REASONS&gt;, but I will try my best 🙏 My heap spray is absolutely horrible rn😩 [pic.x.com/51rjYgip4e] https://twitter.com/farazsth98/status/1978042282038456561
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3PhvXQbcAAGl4N.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/farazsth98/status/1978042282038456561
+
+**Quoted post** 1978042282038456561: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-10-10 · Post · Been binge watching @pedrib1337's videos on Youtube. Some really good content on VR / exploit dev ri
+
+
+### Post — @farazsth98 — 2025-10-10 10:35 UTC (2025-10-10 11:35 WAT)
+
+- URL: https://x.com/farazsth98/status/1976597433489723694
+- Metrics (at fetch): bookmark 31, impression 9954, like 49, quote 0, reply 1, retweet 7
+
+> Been binge watching @pedrib1337's videos on Youtube. Some really good content on VR / exploit dev right here: https://www.youtube.com/@FlashbackTeam/videos
+>
+> Can't believe I didn't know about these, they're already a few years old by now but very entertaining 😄
+
+**Links in post:** https://www.youtube.com/@FlashbackTeam/videos
+
+
+---
+
+## 2025-10-09 · Post · Just saw P2O Ireland has WhatsApp 0-click RCE prize set at $1,000,000.
+
+
+Tags (automatic): RCE
+
+
+### Post — @farazsth98 — 2025-10-09 12:35 UTC (2025-10-09 13:35 WAT)
+
+- URL: https://x.com/farazsth98/status/1976265149255385327
+- Metrics (at fetch): bookmark 7, impression 9268, like 63, quote 1, reply 4, retweet 2
+
+> Just saw P2O Ireland has WhatsApp 0-click RCE prize set at $1,000,000.
+>
+> The question is - is that actually a competitive price? 💀
+
+
+---
+
+## 2025-10-07 · Post · Finished writing the blog post. I'll link it below.
+
+
+### Post — @farazsth98 — 2025-10-07 13:08 UTC (2025-10-07 14:08 WAT)
+
+- URL: https://x.com/farazsth98/status/1975548765139525963
+- Metrics (at fetch): bookmark 20, impression 9627, like 43, quote 0, reply 4, retweet 8
+
+> Finished writing the blog post. I'll link it below.
+>
+> I left out the bug that ZDI rejected from the post, as it's still an unpatched 0-day (I did add some details about it though😉). It never got reported to Oracle at the time due to the rejection.
+>
+> Link below in the reply tweet! https://twitter.com/farazsth98/status/1975286225268547986
+
+**Links in post:** https://twitter.com/farazsth98/status/1975286225268547986
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-10-06 19:45 UTC (2025-10-06 20:45 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1975286225268547986
+    - Metrics (at fetch): bookmark 14, impression 15003, like 58, quote 1, reply 1, retweet 2
+    
+    > ZDI came through and sent me the two reports!😄
+    >
+    > I'll write a short blog post on the bugs tomorrow (just some OOB reads), but mainly about how painful it was to actually debug VirtualBox, why I stopped, and the solution to the problems as well (that I wish I knew back then😩) https://twitter.com/farazsth98/status/1972908949084250172
+    
+    **Links in post:** https://twitter.com/farazsth98/status/1972908949084250172
+    
+    **Quoted post** 1972908949084250172: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-10-06 · Post · ZDI came through and sent me the two reports!😄
+
+
+### Post — @farazsth98 — 2025-10-06 19:45 UTC (2025-10-06 20:45 WAT)
+
+- URL: https://x.com/farazsth98/status/1975286225268547986
+- Metrics (at fetch): bookmark 14, impression 15003, like 58, quote 1, reply 1, retweet 2
+
+> ZDI came through and sent me the two reports!😄
+>
+> I'll write a short blog post on the bugs tomorrow (just some OOB reads), but mainly about how painful it was to actually debug VirtualBox, why I stopped, and the solution to the problems as well (that I wish I knew back then😩) https://twitter.com/farazsth98/status/1972908949084250172
+
+**Links in post:** https://twitter.com/farazsth98/status/1972908949084250172
+
+**Quoted post** 1972908949084250172: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-10-04 · Thread · With some help from @u1f383 , I finally wrote my first exploit for a kernel vulnerability 👀
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-10-04 19:45 UTC (2025-10-04 20:45 WAT)
+
+- URL: https://x.com/farazsth98/status/1974561529447247883
+- Metrics (at fetch): bookmark 16, impression 4717, like 71, quote 0, reply 2, retweet 4
+
+> With some help from @u1f383 , I finally wrote my first exploit for a kernel vulnerability 👀
+>
+> Might just be 0-day hunting time now
+
+
+### Thread part 2 — @farazsth98 — 2025-10-04 19:45 UTC (2025-10-04 20:45 WAT)
+
+- URL: https://x.com/farazsth98/status/1974561586653331955
+- Metrics (at fetch): bookmark 5, impression 886, like 20, quote 0, reply 0, retweet 3
+
+> @u1f383 Exploit is on my github!
+>
+> https://github.com/farazsth98/exploit-CVE-2025-39946
+
+**Links in post:** https://github.com/farazsth98/exploit-CVE-2025-39946
+
+
+---
+
+## 2025-10-03 · Post · Pumpkin (@u1f383) wrote an exploit for this issue! Go check out their blog post 👀
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-10-03 11:39 UTC (2025-10-03 12:39 WAT)
+
+- URL: https://x.com/farazsth98/status/1974076925594542142
+- Metrics (at fetch): bookmark 36, impression 10844, like 83, quote 0, reply 0, retweet 12
+
+> Pumpkin (@u1f383) wrote an exploit for this issue! Go check out their blog post 👀
+>
+>  https://u1f383.github.io/linux/2025/10/03/analyze-linux-kernel-1-day-0aeb54ac.html https://twitter.com/farazsth98/status/1973489901850206413
+
+**Links in post:** https://u1f383.github.io/linux/2025/10/03/analyze-linux-kernel-1-day-0aeb54ac.html, https://twitter.com/farazsth98/status/1973489901850206413
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-10-01 20:47 UTC (2025-10-01 21:47 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1973489901850206413
+    - Metrics (at fetch): bookmark 77, impression 25973, like 168, quote 1, reply 2, retweet 45
+    
+    > Blog post is out! Come learn about how I analyzed the latest kernelCTF 1-day submission. 
+    >
+    > This was a vulnerability in the Kernel TLS subsystem. I didn't write a full exploit yet, but @u1f383 already gave me some ideas that I will try to implement soon😅
+    >
+    > https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
+    
+    **Links in post:** https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
+    
+
+
+---
+
+## 2025-10-01 · Thread · Ok managed to get a wild memory access now (it's accessing `addr + offset` where `offset` is a reall
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-10-01 13:27 UTC (2025-10-01 14:27 WAT)
+
+- URL: https://x.com/farazsth98/status/1973379180403294535
+- Metrics (at fetch): bookmark 40, impression 29561, like 125, quote 1, reply 1, retweet 16
+
+> Ok managed to get a wild memory access now (it's accessing `addr + offset` where `offset` is a really large but controllable value.
+>
+> With the correct heap spray, this is basically an arbitrary write primitive.
+>
+> Will do a quick writeup on the vulnerability now before I continue! [pic.x.com/sYKMpqstSW] https://twitter.com/farazsth98/status/1973046303384084831
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G2LZ2kYbUAA8Vul.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/farazsth98/status/1973046303384084831
+
+**Quoted post (full text):**
+
+    #### Quoted post — @farazsth98 — 2025-09-30 15:24 UTC (2025-09-30 16:24 WAT)
+    
+    - URL: https://x.com/farazsth98/status/1973046303384084831
+    - Metrics (at fetch): bookmark 23, impression 18386, like 98, quote 1, reply 1, retweet 6
+    
+    > Finally managed to write a PoC for the latest kCTF 1-day bug submission in `net/tls`. It leads to a heap out-of-bounds access on an SKB.
+    >
+    > It's just a null-deref in the memcpy `to` ptr now because I have no idea how to actually place something useful out-of-bounds...😭 [pic.x.com/2hlnvAp0sa]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/G2Gp8m1bMAEpVzR.png — no alt text provided by author
+    
+
+
+### Thread part 2 — @farazsth98 — 2025-10-01 22:02 UTC (2025-10-01 23:02 WAT)
+
+- URL: https://x.com/farazsth98/status/1973508755804528815
+- Metrics (at fetch): bookmark 16, impression 1444, like 23, quote 0, reply 1, retweet 3
+
+> If you're curious about the details of the vulnerability, you can read about them here! 
+>
+> https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
+
+**Links in post:** https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
+
+
+---
+
+## 2025-10-01 · Post · Blog post is out! Come learn about how I analyzed the latest kernelCTF 1-day submission. 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-10-01 20:47 UTC (2025-10-01 21:47 WAT)
+
+- URL: https://x.com/farazsth98/status/1973489901850206413
+- Metrics (at fetch): bookmark 77, impression 25973, like 168, quote 1, reply 2, retweet 45
+
+> Blog post is out! Come learn about how I analyzed the latest kernelCTF 1-day submission. 
+>
+> This was a vulnerability in the Kernel TLS subsystem. I didn't write a full exploit yet, but @u1f383 already gave me some ideas that I will try to implement soon😅
+>
+> https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
+
+**Links in post:** https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
+
+
+---
+
+## 2025-09-30 · Post · Finally managed to write a PoC for the latest kCTF 1-day bug submission in `net/tls`. It leads to a 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-09-30 15:24 UTC (2025-09-30 16:24 WAT)
+
+- URL: https://x.com/farazsth98/status/1973046303384084831
+- Metrics (at fetch): bookmark 23, impression 18386, like 98, quote 1, reply 1, retweet 6
+
+> Finally managed to write a PoC for the latest kCTF 1-day bug submission in `net/tls`. It leads to a heap out-of-bounds access on an SKB.
+>
+> It's just a null-deref in the memcpy `to` ptr now because I have no idea how to actually place something useful out-of-bounds...😭 [pic.x.com/2hlnvAp0sa]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G2Gp8m1bMAEpVzR.png — no alt text provided by author
 
 
 ---

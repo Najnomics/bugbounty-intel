@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 37
-- Conversations/threads: 35
-- Oldest post captured: 2026-08-26
+- Posts in this file: 49
+- Conversations/threads: 45
+- Oldest post captured: 2026-08-21
 - Newest post captured: 2026-11-09
 
 
@@ -400,7 +400,7 @@ Tags (automatic): Platform: HackenProof
 ### Post — @Piki_eth — 2026-09-28 16:51 UTC (2026-09-28 17:51 WAT)
 
 - URL: https://x.com/Piki_eth/status/2104614940502094068
-- Metrics (at fetch): bookmark 19, impression 4087, like 140, quote 0, reply 6, repost 2
+- Metrics (at fetch): bookmark 19, impression 4088, like 140, quote 0, reply 6, retweet 2
 
 > Ending September with another $1,500 bounty 🐛💰
 > Security research keeps paying.
@@ -451,12 +451,54 @@ Tags (automatic): Platform: HackenProof
 ### Post — @Piki_eth — 2026-09-22 05:22 UTC (2026-09-22 06:22 WAT)
 
 - URL: https://x.com/Piki_eth/status/2102267347876909515
-- Metrics (at fetch): bookmark 7, impression 2496, like 65, quote 0, reply 2, repost 3
+- Metrics (at fetch): bookmark 7, impression 2497, like 65, quote 0, reply 2, retweet 3
 
 > 🚨 $1,000 Bounty Secured!  🫡 [pic.x.com/R1ws0md9kl]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HSzA8lybcAAXQC3.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-21 · Post · Reported a CRITICAL IDOR  on July 27. 🚨
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @Piki_eth — 2026-09-21 16:52 UTC (2026-09-21 17:52 WAT)
+
+- URL: https://x.com/Piki_eth/status/2102078429424423002
+- Metrics (at fetch): bookmark 1, impression 1267, like 18, quote 1, reply 2, retweet 0
+
+> Reported a CRITICAL IDOR  on July 27. 🚨
+>
+> Simply put: an unauthorized user can cancel or modify another user's order.
+>
+> Today is Sept 21 — 50+ days later, and still no fix or response.
+>
+> Security reports shouldn't sit unanswered for months. 🫠
+>
+> Reported responsibly. Still waiting.
+
+
+---
+
+## 2026-09-16 · Post · Started with one bug. Somehow ended up with 12. 💀
+
+
+### Post — @Piki_eth — 2026-09-16 15:26 UTC (2026-09-16 16:26 WAT)
+
+- URL: https://x.com/Piki_eth/status/2100244828613480851
+- Metrics (at fetch): bookmark 7, impression 3782, like 69, quote 0, reply 2, retweet 0
+
+> Started with one bug. Somehow ended up with 12. 💀
+>
+> #bugbounty [pic.x.com/iqcVINq5XB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HSWRb5naEAAqCe3.jpg — no alt text provided by author
 
 
 ---
@@ -512,13 +554,52 @@ Tags (automatic): Platform: HackenProof
 
 ---
 
-## 2026-09-09 · Post · @MeshvPatel18 @HackenProof
+## 2026-09-11 · Post · You find a security bug.
 
 
-Tags (automatic): Platform: HackenProof
+### Post — @Piki_eth — 2026-09-11 06:55 UTC (2026-09-11 07:55 WAT)
+
+- URL: https://x.com/Piki_eth/status/2098304485605151147
+- Metrics (at fetch): bookmark 0, impression 1463, like 9, quote 1, reply 2, retweet 1
+
+> You find a security bug.
+> You responsibly disclose it.
+> You wait.
+> You wait some more.
+> 4 months later: “In Review.” 💀
+> At what point does “a few days” become a feature request?
+>
+> #bugbounty [pic.x.com/VcyiU6iAxS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HR6sr5zbkAAeMPh.jpg — no alt text provided by author
 
 
-### Post — @Piki_eth — 2026-09-09 04:25 UTC (2026-09-09 05:25 WAT)
+---
+
+## 2026-09-08 · Thread · 3-hour autonomous hunt with jailbroken GLM-5.3. 🤖⏱️
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackenProof
+
+
+### Post — @Piki_eth — 2026-09-08 16:59 UTC (2026-09-08 17:59 WAT)
+
+- URL: https://x.com/Piki_eth/status/2097369213887480078
+- Metrics (at fetch): bookmark 31, impression 5746, like 58, quote 0, reply 4, retweet 1
+
+> 3-hour autonomous hunt with jailbroken GLM-5.3. 🤖⏱️
+> Submitted 3.
+> 2 dups. ❌
+> 1 Critical still in review. 🟣Let’s see. 🤞
+>
+> #bugbounty #glm #AI [pic.x.com/y4hlapIwGx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HRtaE3rawAAIxYw.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Piki_eth — 2026-09-09 04:25 UTC (2026-09-09 05:25 WAT)
 
 - URL: https://x.com/Piki_eth/status/2097541991269908732
 - Metrics (at fetch): bookmark 1, impression 300, like 1, quote 0, reply 0, retweet 0
@@ -534,7 +615,7 @@ Tags (automatic): Platform: HackenProof
 ### Post — @Piki_eth — 2026-09-07 16:58 UTC (2026-09-07 17:58 WAT)
 
 - URL: https://x.com/Piki_eth/status/2097006663618396515
-- Metrics (at fetch): bookmark 0, impression 385, like 0, quote 0, reply 1, retweet 0
+- Metrics (at fetch): bookmark 0, impression 386, like 0, quote 0, reply 1, retweet 0
 
 > Imagine you wake up one day, do your usual bug hunting…
 >
@@ -555,7 +636,7 @@ Tags (automatic): Platform: HackenProof
 ### Post — @Piki_eth — 2026-09-07 16:46 UTC (2026-09-07 17:46 WAT)
 
 - URL: https://x.com/Piki_eth/status/2097003579408273420
-- Metrics (at fetch): bookmark 2, impression 1489, like 14, quote 0, reply 3, retweet 0
+- Metrics (at fetch): bookmark 2, impression 1490, like 14, quote 0, reply 3, retweet 0
 
 > Liquid lost ~4,000 BTC.
 >
@@ -569,6 +650,9 @@ Tags (automatic): Platform: HackenProof
 >  
 > #bugbounty #btc #whitehat [pic.x.com/Sdl5Qyn02l]
 
+**Media:**
+- photo: https://pbs.twimg.com/media/HRoNiuOaMAUCnC5.jpg — no alt text provided by author
+
 
 ---
 
@@ -578,7 +662,7 @@ Tags (automatic): Platform: HackenProof
 ### Post — @Piki_eth — 2026-09-04 16:55 UTC (2026-09-04 17:55 WAT)
 
 - URL: https://x.com/Piki_eth/status/2095918571495068084
-- Metrics (at fetch): bookmark 6, impression 2318, like 16, quote 0, reply 6, retweet 0
+- Metrics (at fetch): bookmark 6, impression 2319, like 16, quote 0, reply 6, retweet 0
 
 > Bug hunters, serious question:
 >
@@ -591,6 +675,32 @@ Tags (automatic): Platform: HackenProof
 >
 > #bughunting #bugbounty [pic.x.com/B3qrjE3LYJ]
 
+**Media:**
+- photo: https://pbs.twimg.com/media/HRYyt5ua0AArqM3.png — no alt text provided by author
+
+
+---
+
+## 2026-09-03 · Post · Found 4–5 CRITICAL vulnerabilities🚨 in a crypto project that recently raised millions.
+
+
+### Post — @Piki_eth — 2026-09-03 13:56 UTC (2026-09-03 14:56 WAT)
+
+- URL: https://x.com/Piki_eth/status/2095511303230296494
+- Metrics (at fetch): bookmark 12, impression 4315, like 35, quote 0, reply 8, retweet 5
+
+> Found 4–5 CRITICAL vulnerabilities🚨 in a crypto project that recently raised millions.
+>
+> Reported everything privately ~2 months ago.
+> Followed up.
+> Still no meaningful response.
+> And yes… the bugs are still there. 💀
+> How long would you wait before going public?
+> 7 days? 14 days? 30 [pic.x.com/DAXPJMwBvZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HRTATMab0AAGPc8.jpg — no alt text provided by author
+
 
 ---
 
@@ -600,7 +710,7 @@ Tags (automatic): Platform: HackenProof
 ### Post — @Piki_eth — 2026-09-01 18:01 UTC (2026-09-01 19:01 WAT)
 
 - URL: https://x.com/Piki_eth/status/2094848073256333483
-- Metrics (at fetch): bookmark 6, impression 2669, like 50, quote 0, reply 2, repost 0
+- Metrics (at fetch): bookmark 6, impression 2670, like 50, quote 0, reply 2, retweet 0
 
 > Same company I dropped a critical on just invited me to their private On-Demand Bug Bounty. Full circle.😁
 > #bugbounty [pic.x.com/4L5hvzeDTd]
@@ -620,7 +730,7 @@ Tags (automatic): Platform: HackenProof
 ### Post — @Piki_eth — 2026-09-01 14:12 UTC (2026-09-01 15:12 WAT)
 
 - URL: https://x.com/Piki_eth/status/2094790419410567631
-- Metrics (at fetch): bookmark 1, impression 1850, like 54, quote 0, reply 2, repost 1
+- Metrics (at fetch): bookmark 1, impression 1851, like 54, quote 0, reply 2, retweet 1
 
 > The best notification: “has been paid.” 💰
 >
@@ -649,7 +759,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 ### Post — @Piki_eth — 2026-08-28 06:03 UTC (2026-08-28 07:03 WAT)
 
 - URL: https://x.com/Piki_eth/status/2093217981732171978
-- Metrics (at fetch): bookmark 12, impression 3781, like 33, quote 0, reply 7, repost 0
+- Metrics (at fetch): bookmark 12, impression 3782, like 33, quote 0, reply 7, retweet 0
 
 > My local Qwen ran for 5 hours auditing a crypto project and found a strong DoS vulnerability. 🧠🚨
 >
@@ -673,7 +783,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 ### Post — @Piki_eth — 2026-08-26 16:51 UTC (2026-08-26 17:51 WAT)
 
 - URL: https://x.com/Piki_eth/status/2092656180003045543
-- Metrics (at fetch): bookmark 2, impression 1928, like 13, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 2, impression 1930, like 13, quote 0, reply 0, retweet 0
 
 > Small correction to my previous post: I got the valuation wrong.
 > The company is valued at $17B+, not $2B+.
@@ -685,7 +795,25 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 
 **Links in post:** https://twitter.com/Piki_eth/status/2092249599159456154
 
-**Quoted post** 2092249599159456154: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @Piki_eth — 2026-08-25 13:55 UTC (2026-08-25 14:55 WAT)
+    
+    - URL: https://x.com/Piki_eth/status/2092249599159456154
+    - Metrics (at fetch): bookmark 35, impression 13783, like 110, quote 1, reply 10, retweet 4
+    
+    > Found a CRITICAL security leak in a company valued at $2B+ 🚨
+    >
+    > Reported it while the exposure was still active.
+    >
+    > Security team responded immediately and took action the same day.  and fixed immediately . 
+    >
+    > will post a detailed about this once team, allowed 
+    > #bugbounty [pic.x.com/ol1lllps0S]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HQkpW-SbIAAwnZM.jpg — no alt text provided by author
+    
 
 
 ---
@@ -696,10 +824,183 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 ### Post — @Piki_eth — 2026-08-26 13:51 UTC (2026-08-26 14:51 WAT)
 
 - URL: https://x.com/Piki_eth/status/2092610777874305227
-- Metrics (at fetch): bookmark 4, impression 2948, like 12, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 4, impression 2949, like 12, quote 0, reply 0, retweet 0
 
 > Compensation or Bounty 🧐 [pic.x.com/bXGRtpinRu] https://twitter.com/Piki_eth/status/2092249599159456154
 
+**Media:**
+- photo: https://pbs.twimg.com/media/HQpySqFbsAAZAkT.png — no alt text provided by author
+
 **Links in post:** https://twitter.com/Piki_eth/status/2092249599159456154
 
-**Quoted post** 2092249599159456154: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @Piki_eth — 2026-08-25 13:55 UTC (2026-08-25 14:55 WAT)
+    
+    - URL: https://x.com/Piki_eth/status/2092249599159456154
+    - Metrics (at fetch): bookmark 35, impression 13783, like 110, quote 1, reply 10, retweet 4
+    
+    > Found a CRITICAL security leak in a company valued at $2B+ 🚨
+    >
+    > Reported it while the exposure was still active.
+    >
+    > Security team responded immediately and took action the same day.  and fixed immediately . 
+    >
+    > will post a detailed about this once team, allowed 
+    > #bugbounty [pic.x.com/ol1lllps0S]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HQkpW-SbIAAwnZM.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-08-25 · Post · My first bug bounty report will always make me laugh and hurt at the same time 😂💀
+
+
+### Post — @Piki_eth — 2026-08-25 16:59 UTC (2026-08-25 17:59 WAT)
+
+- URL: https://x.com/Piki_eth/status/2092295703095828900
+- Metrics (at fetch): bookmark 5, impression 2674, like 28, quote 0, reply 3, retweet 0
+
+> My first bug bounty report will always make me laugh and hurt at the same time 😂💀
+>
+> Escalated → Confirmed → “Oops, accidentally changed status” → Escalated → Closed → Duplicate.
+>
+> All because I was 22 hours late. 😭
+> Bug bounty is a different kind of pain.
+> #bugbounty #bug [pic.x.com/QHVXv1OenC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQlTsrDaMAAx6N7.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HQlTuTOaQAAlHEb.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-25 · Post · Found a CRITICAL security leak in a company valued at $2B+ 🚨
+
+
+### Post — @Piki_eth — 2026-08-25 13:55 UTC (2026-08-25 14:55 WAT)
+
+- URL: https://x.com/Piki_eth/status/2092249599159456154
+- Metrics (at fetch): bookmark 35, impression 13783, like 110, quote 1, reply 10, retweet 4
+
+> Found a CRITICAL security leak in a company valued at $2B+ 🚨
+>
+> Reported it while the exposure was still active.
+>
+> Security team responded immediately and took action the same day.  and fixed immediately . 
+>
+> will post a detailed about this once team, allowed 
+> #bugbounty [pic.x.com/ol1lllps0S]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQkpW-SbIAAwnZM.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-24 · Post · Found a Critical nonce TOCTOU in a DEX. 💀
+
+
+### Post — @Piki_eth — 2026-08-24 13:18 UTC (2026-08-24 14:18 WAT)
+
+- URL: https://x.com/Piki_eth/status/2091877785543536677
+- Metrics (at fetch): bookmark 15, impression 4561, like 56, quote 0, reply 0, retweet 0
+
+> Found a Critical nonce TOCTOU in a DEX. 💀
+>
+> Same nonce + concurrent requests = multiple commits.
+>
+> Reported it as Critical. 👀
+> #bugbounty [pic.x.com/MthE7Us1Et]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQfXbJlb0AA4S-H.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-24 · Thread · First time on HackenProof. 3 reports. 
+
+
+Tags (automatic): Platform: HackenProof
+
+
+### Post — @Piki_eth — 2026-08-24 05:33 UTC (2026-08-24 06:33 WAT)
+
+- URL: https://x.com/Piki_eth/status/2091760829616263174
+- Metrics (at fetch): bookmark 14, impression 3105, like 75, quote 0, reply 8, retweet 2
+
+> First time on HackenProof. 3 reports. 
+>
+> Submitted 3 bugs in the same project:
+>
+>  2 ended up being duplicates
+>  1 was confirmed Medium
+>  $1,000 bounty 💰
+> The team validated the impact with a production-level PoC and confirmed a real account/credential security issue.
+> @HackenProof [pic.x.com/RX24y2VWft]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQds9USb0AATF1V.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Piki_eth — 2026-08-24 06:31 UTC (2026-08-24 07:31 WAT)
+
+- URL: https://x.com/Piki_eth/status/2091775273666855153
+- Metrics (at fetch): bookmark 1, impression 390, like 2, quote 0, reply 1, retweet 0
+
+> @HackenProof And yes this was found by grok 4.5
+
+
+---
+
+## 2026-08-22 · Post · Kimi found an IDOR in a DEX.
+
+
+Tags (automatic): IDOR / BOLA, AI-assisted hunting
+
+
+### Post — @Piki_eth — 2026-08-22 15:15 UTC (2026-08-22 16:15 WAT)
+
+- URL: https://x.com/Piki_eth/status/2091182417994555428
+- Metrics (at fetch): bookmark 72, impression 10791, like 162, quote 0, reply 4, retweet 6
+
+> Kimi found an IDOR in a DEX.
+> I thought we'd stop there.
+> Nope. 💀
+> It chained the bug far enough to demonstrate a potential fund-theft path — using only accounts I control.
+> AI-assisted security research is getting wild. 🫠
+> #kimi #bug [pic.x.com/M8wNTcgx70]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQVfUvlacAEZUZA.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-21 · Post · Three of my first Bugcrowd reports are now P2 Confirmd
+
+
+Tags (automatic): SSRF, Platform: Bugcrowd
+
+
+### Post — @Piki_eth — 2026-08-21 17:30 UTC (2026-08-21 18:30 WAT)
+
+- URL: https://x.com/Piki_eth/status/2090853998337376621
+- Metrics (at fetch): bookmark 11, impression 2732, like 71, quote 0, reply 5, retweet 2
+
+> Three of my first Bugcrowd reports are now P2 Confirmd
+>
+> • Cross-Account Secret Authorization Bypass
+> • Authenticated SSRF
+> • Cross-Tenant Production Telemetry Exposure
+> One of them is now being escalated for a potential P1.
+>
+> #bugcrowd [pic.x.com/uqqXKLeBoK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQQ0ecYbIAA92So.jpg — no alt text provided by author
