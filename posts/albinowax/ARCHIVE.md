@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 65
+- Posts in this file: 74
+- Conversations/threads: 68
 - Oldest post captured: 2021-06-01
 - Newest post captured: 2026-11-04
 
@@ -1269,6 +1269,62 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 > Hackers are becoming  builders - by integrating AI enhancements they’re amplifying their  unique tradecraft to hack deeper, faster. I'll be sharing my vision of the future of hacking in @Hacker0x01's 'Bionic Hacking' webinar on October 15! Register here: https://www.hackerone.com/events/bionic-hacking
 
 **Links in post:** https://www.hackerone.com/events/bionic-hacking
+
+
+---
+
+## 2025-08-18 · Post · Nice work! It’s great to see people achieving serious impact using the single-packet attack! https:/
+
+
+### Post — @albinowax — 2025-08-18 13:48 UTC (2025-08-18 14:48 WAT)
+
+- URL: https://x.com/albinowax/status/1957439422951034969
+- Metrics (at fetch): bookmark 49, impression 11279, like 122, quote 0, reply 2, retweet 13
+
+> Nice work! It’s great to see people achieving serious impact using the single-packet attack! https://t.co/oAaDEXHBlQ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @850947286741901312 — 2025-08-18 13:00 UTC (2025-08-18 14:00 WAT)
+    
+    - URL: https://x.com/850947286741901312/status/1957427261164212382
+    - Metrics (at fetch): bookmark 196, impression 32068, like 250, quote 2, reply 7, retweet 33
+    
+    > I recently discovered a critical race condition vulnerability at a multi-million dollar investment firm!
+    >
+    > The vulnerability allowed attackers to execute a single-packet attack that bypassed financial controls, potentially enabling:
+    >
+    > ✅ Purchasing stocks worth twice the available
+    
+
+
+---
+
+## 2025-07-29 · Post · Our core website uses HTTP/2 end to end, but for maximum irony http1mustdie[.]com is stuck using HTT
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2025-07-29 14:58 UTC (2025-07-29 15:58 WAT)
+
+- URL: https://x.com/albinowax/status/1950209387076657589
+- Metrics (at fetch): bookmark 27, impression 13017, like 179, quote 1, reply 5, retweet 8
+
+> Our core website uses HTTP/2 end to end, but for maximum irony http1mustdie[.]com is stuck using HTTP/1.1 upstream due to AWS CloudFront limitations! However it's in scope for our bounty program... and if you manage to exploit it with HTTP request smuggling, we'll pay a bonus :)
+
+
+---
+
+## 2025-07-25 · Post · You know those non-vulnerabilities that companies get forced to fix for compliance reasons? I've fou
+
+
+### Post — @albinowax — 2025-07-25 14:36 UTC (2025-07-25 15:36 WAT)
+
+- URL: https://x.com/albinowax/status/1948754132581470354
+- Metrics (at fetch): bookmark 37, impression 20530, like 244, quote 2, reply 17, retweet 12
+
+> You know those non-vulnerabilities that companies get forced to fix for compliance reasons? I've found a full bypass for a common patch strategy. I'm half-tempted to keep it secret for the greater good 😂
 
 
 ---

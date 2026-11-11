@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 223
-- Conversations/threads: 195
+- Posts in this file: 240
+- Conversations/threads: 212
 - Oldest post captured: 2024-11-16
 - Newest post captured: 2026-11-09
 
@@ -5589,6 +5589,430 @@ Tags (automatic): XSS, AI-assisted hunting
 > @wtsdev Yes! same goes for https://t.co/ACtqsCUI8h, claude browser extension or any ai browser.
 >
 > i just remembered that i was looking for xss on *.claude.ai and we could not find one, so there is still prospect for uxss with claude extension. anyone interested should check it!
+
+
+---
+
+## 2025-11-29 · Post · >The problem identified with A320 aircrafts relates to a piece of computing software which calculate
+
+
+### Post — @S1r1u5_ — 2025-11-29 09:39 UTC (2025-11-29 10:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1994702753273450768
+- Metrics (at fetch): not returned
+
+> >The problem identified with A320 aircrafts relates to a piece of computing software which calculates a plane's elevation.
+>
+> >Airbus discovered that, at high altitudes, its data could be corrupted by intense radiation released periodically by the Sun.
+>
+> interesting bug, how does that happen?
+>
+> https://www.bbc.com/news/articles/c8e9d13x2z7o.amp
+
+**Links in post:** https://www.bbc.com/news/articles/c8e9d13x2z7o.amp
+
+
+---
+
+## 2025-11-27 · Post · on linkedIn today there’s a pretty mediocre indirect prompt-injection bug in Google’s @antigravity m
+
+
+### Post — @S1r1u5_ — 2025-11-27 19:41 UTC (2025-11-27 20:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1994129379946008604
+- Metrics (at fetch): not returned
+
+> on linkedIn today there’s a pretty mediocre indirect prompt-injection bug in Google’s @antigravity making the rounds. It requires tons of user interaction and complexity, but because it got covered in Forbes somehow??, everyone’s loosing their minds.
+
+
+---
+
+## 2025-11-26 · Post · Comet UXSS we found has a interesting behind the scenes.
+
+
+### Post — @S1r1u5_ — 2025-11-26 06:28 UTC (2025-11-26 07:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1993567489322893542
+- Metrics (at fetch): not returned
+
+> Comet UXSS we found has a interesting behind the scenes.
+>
+> It shows how team work and collaboration makes the vulnerability hunting process fun, easier and fruitful. This was always my trick, team-up with best and produce epic shit.
+>
+> 🧵in pictures
+>
+> 1. start with vague hypothesis. [pic.x.com/meGlIZ2nIK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6qM_mpaIAAKamT.png — no alt text provided by author
+
+
+---
+
+## 2025-11-24 · Post · We helped secure @perplexity_ai's comet browser from a critical vulnerability that could let attacke
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-11-24 12:15 UTC (2025-11-24 13:15 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1992930150107971889
+- Metrics (at fetch): not returned
+
+> We helped secure @perplexity_ai's comet browser from a critical vulnerability that could let attackers hijack the agent to exfiltrate local files, read emails, and bypass SOP.
+>
+> Read the full blog: https://www.hacktron.ai/blog/perplexity-comet-uxss [pic.x.com/INTsduK5ki]
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://www.hacktron.ai/blog/perplexity-comet-uxss
+
+
+---
+
+## 2025-11-23 · Post · A set of perspectives i hold on cybersecurity and also highly relavant in the AI world.
+
+
+Tags (automatic): Dependency confusion / supply chain, Memory corruption / native, AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2025-11-23 06:34 UTC (2025-11-23 07:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1992481763785159124
+- Metrics (at fetch): not returned
+
+> A set of perspectives i hold on cybersecurity and also highly relavant in the AI world.
+>
+> offensive security:
+> 1. A chain is as strong as it's weakest link. modern systems have countless entry points; adversaries only need one.
+>
+> 2. Adversaries are always at advantage, because your blue team is only as strong as its weakest link, missing one critical area will break the whole chain.
+>
+> 3. Both attackers and defenders are resource-constrained. The question is rarely “are there bugs?” but “who has the time, and skill to find and exploit them first?”
+>
+> 4. For most small and medium companies, security is reactive, not proactive. I would argue same for most companies, only a few try.
+>
+> 5. Attackers have clear incentives; defenders usually don’t. What i mean is, assume resources are poured into defense-in-depth, secure coding, and hardening. Assume a attack that is avoided due to this, unfortunately no one knows, it looks like a extra expense. 
+>
+> 6. The point is, If an attack never happens because of good practices, no one can see the counterfactual. It’s the “tree falls in a forest” problem. This leads to reactive measures and less incentives for defenders.
+>
+> 7. Throw shit at open source project(or set of applications) for long period of time, vulnerabilities will follow, and its highly possible a supply chain link breaks and affects one of fortune 500/
+>
+> 8. Bug bounty hunters on H1 still find vulnerabilities even after “top” pentest firms have gone through a target. Project Zero is one of the best security teams in the world, yet Chrome still pays ~$5M a year in bounties. Add more eyes and more time, and the number of bugs found keeps growing.
+>
+> 9. Most real-world breaches area basic. Misconfigurations, weak credentials, known vulns, bad hygiene. AI makes entry into these kinds of attacks easier and cheaper.
+>
+> 10. The asymmetry comes from the weakest link. Defense has to harden every system; attackers only need one weak link. AI boosts offensive productivity in that search, so I’d bet we see more breaches, not fewer. Defenders should start using AI capabilities.
+>
+> 11. LLMs are as strong as the person yielding it. Somone who doesn't know anything about v8, won't start finding 0-days in chrome. It doesn't magically create skilled new adversaries but rather accelerates them. The acceleration is proportional to model capabilities.
+>
+> cybersecurity market
+> 1. In cybersecurity, the value of well-modeled risk and proactive measures is non-obvious. The signals are noisy or completely absent.
+>
+> 2. As i said,  it’s hard to measure the value of an attack that doesn’t happen. [Read Repenning, Sterman CMR]
+>
+> 3. In the cybersecurity market, both buyers and sellers often have poor information about how good a product actually is, thanks to uncertainty in risk modeling and the lack of clean feedback loops. [Read market of silver bullets  from ian grigg]
+>
+> 4. So companies end up buying or selling without really knowing what they’re getting. They:
+> a) spend the security budget to “do something,”
+> b) adopt tools because the CISO already invested in them, or
+> c) buy whatever product the CEO’s friend is selling..
+> ...and similar variants, you get what i mean.
+>
+> 5. Everyone wants to keep playing the game. Compliance demands certifications, so you game security. SOC 2 compliance pentest reports and companies that provide are decadent shit, when adversary meets you have to pay the price chance with higher chance.
+>
+> 6. essentially it is easy to be a snake oil than something that works, thats the reason we see lot of these hyperbolic marketing lately.
+>
+> anything i missed? lmk. will add more as i learn
+
+
+---
+
+## 2025-11-21 · Post · The idea behind this is to quickly find variants of a vulnerability in a codebase, or to check wheth
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-11-21 04:25 UTC (2025-11-21 05:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1991724596522021233
+- Metrics (at fetch): not returned
+
+> The idea behind this is to quickly find variants of a vulnerability in a codebase, or to check whether the codebase is affected by a supply-chain issue or a new 0-day. Our research team will update continuously.
+>
+> For example:
+>
+> hacktron --agent CVE-2025-9501 https://twitter.com/rootxharsh/status/1991587494757122422
+
+**Links in post:** https://twitter.com/rootxharsh/status/1991587494757122422
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3177957894 — 2025-11-20 19:20 UTC (2025-11-20 20:20 WAT)
+    
+    - URL: https://x.com/3177957894/status/1991587494757122422
+    - Metrics (at fetch): not returned
+    
+    > Just one-shot'ed reversing CVE-2025-9501, a bug potentially affecting 1M+ WordPress installs, using @HacktronAI. It stems from an eval call reaching user-controllable input. 
+    >
+    > The CVE-2025-9501 agent in Hacktron CLI can now detect similar patterns across other WordPress plugins/themes.
+    >
+    > Try it out: hacktron --agent CVE-2025-9501
+    
+    **Media:**
+    - media `3_1991586158011379715` (details not returned by the API)
+    
+
+
+---
+
+## 2025-11-19 · Post · Keeping AI aside, we found a chained vuln in Supabase’s legacy cloud that let us go from a tenant DB
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-11-19 15:06 UTC (2025-11-19 16:06 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1991161227909988716
+- Metrics (at fetch): not returned
+
+> Keeping AI aside, we found a chained vuln in Supabase’s legacy cloud that let us go from a tenant DB user to controlling other instances in the same region. Supabase patched it fast and awarded us a $25,000 bounty.
+>
+> https://hacktron.ai/blog/supapwn [pic.x.com/a2DT6joE3G]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6IGi9Da8AAsCAu.jpg — no alt text provided by author
+
+**Links in post:** https://hacktron.ai/blog/supapwn
+
+
+---
+
+## 2025-11-06 · Post · easy way to get hired by companies like openai/perplexity/anthropic
+
+
+### Post — @S1r1u5_ — 2025-11-06 19:51 UTC (2025-11-06 20:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1986521717993591175
+- Metrics (at fetch): not returned
+
+> easy way to get hired by companies like openai/perplexity/anthropic
+>
+> &gt; look out for new product release
+> &gt; immediately grab access
+> &gt; find vulnerabilities (not to boast, but i always found a high severity vuln if i wanted to cuz its not that hard)
+> &gt; get paid
+> &gt; ask for interview
+>
+> ez
+
+
+---
+
+## 2025-11-03 · Post · how do you solve this?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-11-03 05:51 UTC (2025-11-03 06:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1985223308431040852
+- Metrics (at fetch): not returned
+
+> how do you solve this?
+>
+> 1) some open source projects are used by millions
+> 2) they are under-resourced and maintained by volunteers
+> 3) the amount of vulnerability reports increased due to AI
+> 4) most reports are either slop or low severity issues. 
+> 5) many security people are incentivized to submit noise and farm CVEs for reputation.
+> 6) however "one critical report" puts millions at risk
+> 7) open source project maintainers are ethically responsible for keeping it secure.
+> 8) lack of resources puts lot of work on devs and they burnt out for fixing vulnerabilities rather than releasing features which they want to.
+> 9) simply saying “it’s run by volunteers” doesn’t solve the problem.
+> 10) patch generation isn’t trivial, a wrong fix can expose the bug and give attackers an easier path.
+
+
+---
+
+## 2025-11-02 · Post · a sophisticated chain that could easily take more than 5 days took us 2 days by using AI and led to 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-11-02 15:28 UTC (2025-11-02 16:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1985006169770106990
+- Metrics (at fetch): not returned
+
+> a sophisticated chain that could easily take more than 5 days took us 2 days by using AI and led to a most impactful bug i ever found.
+>
+> no llm could pull off that chain on its own but also don’t listen to anyone who says they are useless.
+
+
+---
+
+## 2025-11-02 · Post · so it seems everyone who is mocking google’s 90 day disclosure policy never reported any bugs to ven
+
+
+### Post — @S1r1u5_ — 2025-11-02 12:39 UTC (2025-11-02 13:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1984963621529821261
+- Metrics (at fetch): not returned
+
+> so it seems everyone who is mocking google’s 90 day disclosure policy never reported any bugs to vendors and never gone through pain and threats for reporting a bug?
+
+
+---
+
+## 2025-11-01 · Post · looking for a video editor to help me publish my recent hacks, planning to publish these bugs on my 
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2025-11-01 17:44 UTC (2025-11-01 18:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1984677894153781421
+- Metrics (at fetch): not returned
+
+> looking for a video editor to help me publish my recent hacks, planning to publish these bugs on my channel
+>
+> 1. supapwn: stockholm lovable adventures
+> 2. cluely rce
+> 3. perplexity comet uxss
+> 4. openai atlas history and url leak
+
+
+---
+
+## 2025-11-01 · Post · looking for a video editor to help me publish my recent hacks
+
+
+Tags (automatic): RCE
+
+
+### Post — @S1r1u5_ — 2025-11-01 17:41 UTC (2025-11-01 18:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1984677259303927981
+- Metrics (at fetch): not returned
+
+> looking for a video editor to help me publish my recent hacks
+>
+> 1. supapwn: stockholm lovable adventures
+> 2. cluely rce
+> 3. perplexity comet uxss
+> 4. openai atlas history and url leak
+
+
+---
+
+## 2025-11-01 · Post · note the CVE slop is from project zero's big sleep.
+
+
+### Post — @S1r1u5_ — 2025-11-01 06:43 UTC (2025-11-01 07:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1984511520655487349
+- Metrics (at fetch): not returned
+
+> note the CVE slop is from project zero's big sleep.
+>
+> i agree that there is real problem in terms of desperate cve chasers, CVE fatigue, false reports, beg bounty reports and so on.  
+>
+> but calling a project zero report a CVE slop is naive and it shows the arrogance. i never seen a security researcher denying help on patching the issue, project zero would've happily helped in submitting the patch.
+
+**Links in post:** https://twitter.com/FFmpeg/status/1984220199193891166
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1283902819 — 2025-10-31 11:25 UTC (2025-10-31 12:25 WAT)
+    
+    - URL: https://x.com/1283902819/status/1984220199193891166
+    - Metrics (at fetch): not returned
+    
+    > Security is taken seriously in FFmpeg.
+    >
+    > We are just trying to highlight some of the challenges with "CVE slop", AI written bug reports that volunteers have to fix.
+    
+
+
+---
+
+## 2025-10-31 · Post · we have been using a small helper tool internally in bug hunting. i am looking for handful beta test
+
+
+### Post — @S1r1u5_ — 2025-10-31 05:24 UTC (2025-10-31 06:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1984129411302719806
+- Metrics (at fetch): not returned
+
+> we have been using a small helper tool internally in bug hunting. i am looking for handful beta testers who are into source code reviews for feedback. if you are interested dm me please.
+
+
+---
+
+## 2025-10-24 · Post · mutual disclosure policy is decadent and against the spirit of hacker culture. essentially a puppet 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @S1r1u5_ — 2025-10-24 06:31 UTC (2025-10-24 07:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1981609352474816874
+- Metrics (at fetch): not returned
+
+> mutual disclosure policy is decadent and against the spirit of hacker culture. essentially a puppet to vendor, they can treat you like shit and you won't be able to disclose even a ounce of the detail. 
+>
+> fuck bounties and shitty disclosure policies on h1/bc and drop bugs to security@ with p0 disclosure policy. win-win either way and you are in control of your research and sweat, if shit goes south -- name and shame. 
+>
+> > This bug is subject to a 90 day disclosure deadline. If a fix for this issue is made available to users before the end of the 90-day deadline, this bug report will become public 30 days after the fix was made available. Otherwise, this bug report will become public at the deadline. More details on the policy: htxps://about.google/company-info/appsecurity/.
+
+
+---
+
+## 2025-10-23 · Post · this is false, you can't do shit with bots/ai.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-10-23 05:59 UTC (2025-10-23 06:59 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1981239146858319993
+- Metrics (at fetch): not returned
+
+> this is false, you can't do shit with bots/ai.
+>
+> if the goal is to learn the craft of vulnerability research or anything in general, heavy reliance on LLM would probably weaken one's capabilities.
+>
+> The most important part of hacking is to understand the system deeper than its developer or its designer, than do reasoning on it.
+>
+> The level of abstraction and depth of understanding reduces by relying on LLM heavily. Even worse, the process and algorithm of understanding you internalise itself is outsourced which nerfs the skill of learning to learn. 
+>
+> Most important part of becoming an expertise is to navigating through problem space in that field which can only be internalised through practise and failures.
+>
+> Now consider this, sure an LLM would solve IMO problem but can you understand what it produces and follow its reasoning without knowing math? can you derive some new branches of that proof? can you even ask a question or guide the LLM to discover a new bug/proof? they are as good as what you ask, what you ask would heavily dependent on your understanding.
+>
+> LLMs are only good for you if you are already subject expertise, becoming a subject expertise by heavy relying might not take you far.
+
+**Links in post:** https://twitter.com/Dharsh_here_/status/1980853707035349298
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1767000555782598656 — 2025-10-22 04:28 UTC (2025-10-22 05:28 WAT)
+    
+    - URL: https://x.com/1767000555782598656/status/1980853707035349298
+    - Metrics (at fetch): not returned
+    
+    > @S1r1u5_ Now it’s extremely hard cuz everyone doing with bots.
+    
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 57
-- Conversations/threads: 52
-- Oldest post captured: 2025-12-11
+- Posts in this file: 59
+- Conversations/threads: 54
+- Oldest post captured: 2025-12-02
 - Newest post captured: 2026-11-10
 
 
@@ -1239,3 +1239,44 @@ Tags (automatic): AI-assisted hunting
 - photo: https://pbs.twimg.com/media/G76BGEWXQAAQP3E.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/G76BKzBXoAET25f.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/G76BxXwX0AA_HM-.png — no alt text provided by author
+
+
+---
+
+## 2025-12-02 · Post · Since we're covering this tomorrow at @NDC_Conferences Manchester, I’ve released the bypass for the 
+
+
+### Post — @irsdl — 2025-12-02 11:25 UTC (2025-12-02 12:25 WAT)
+
+- URL: https://x.com/irsdl/status/1995816682325983348
+- Metrics (at fetch): not returned
+
+> Since we're covering this tomorrow at @NDC_Conferences Manchester, I’ve released the bypass for the ToolShell SharePoint deserialization exploit in http://ysonet.net (same bug @_l0gg originally showed).
+>
+> “Complex” bypass? 🥵
+> Just a single whitespace. 👻
+>
+> Something we even knew from the past: https://www.zerodayinitiative.com/blog/2021/6/1/cve-2021-31181-microsoft-sharepoint-webpart-interpretation-conflict-remote-code-execution-vulnerability😶‍🌫️
+
+**Links in post:** http://ysonet.net, https://www.zerodayinitiative.com/blog/2021/6/1/cve-2021-31181-microsoft-sharepoint-webpart-interpretation-conflict-remote-code-execution-vulnerability
+
+
+---
+
+## 2025-12-02 · Post · Since we're covering this tomorrow at @NDC_Conferences Manchester, I’ve released the bypass for the 
+
+
+### Post — @irsdl — 2025-12-02 11:25 UTC (2025-12-02 12:25 WAT)
+
+- URL: https://x.com/irsdl/status/1995816555771314619
+- Metrics (at fetch): not returned
+
+> Since we're covering this tomorrow at @NDC_Conferences Manchester, I’ve released the bypass for the ToolShell SharePoint deserialization exploit in http://ysonet.net (same bug @_l0gg originally showed).
+>
+> “Complex” bypass? 🥵
+> Just a single whitespace. 👻
+>
+> Details:
+> Something we even knew from the past: https://www.zerodayinitiative.com/blog/2021/6/1/cve-2021-31181-microsoft-sharepoint-webpart-interpretation-conflict-remote-code-execution-vulnerability😶‍🌫️
+
+**Links in post:** http://ysonet.net, https://www.zerodayinitiative.com/blog/2021/6/1/cve-2021-31181-microsoft-sharepoint-webpart-interpretation-conflict-remote-code-execution-vulnerability

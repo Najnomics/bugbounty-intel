@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 22
-- Conversations/threads: 22
-- Oldest post captured: 2019-07-22
+- Posts in this file: 27
+- Conversations/threads: 27
+- Oldest post captured: 2018-07-13
 - Newest post captured: 2022-11-29
 
 
@@ -505,3 +505,97 @@ Tags (automatic): ZK
     
     > Tonight I made the mistake of getting curious about the quality of cryptography implementations that are sourced from code bounty services.
     
+
+
+---
+
+## 2019-02-09 · Post · Inspired by @socrates1024 rendering the Zcash Sprout circuit last year, I tried rendering the Saplin
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2019-02-09 01:32 UTC (2019-02-09 02:32 WAT)
+
+- URL: https://x.com/str4d/status/1094046240269053953
+- Metrics (at fetch): bookmark 1, impression 0, like 41, quote 1, reply 1, retweet 9
+
+> Inspired by @socrates1024 rendering the Zcash Sprout circuit last year, I tried rendering the Sapling spend and output circuits today.
+>
+> Here's the Sapling spend circuit! https://t.co/gwq35HFpGL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dy7VEtjXgAAjlMP.jpg — no alt text provided by author
+
+
+---
+
+## 2019-01-25 · Post · My laptop is now unbricked (yay warranties!), and updated to the latest BIOS that fixed the bricking
+
+
+### Post — @str4d — 2019-01-25 23:23 UTC (2019-01-26 00:23 WAT)
+
+- URL: https://x.com/str4d/status/1088940507475136512
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> My laptop is now unbricked (yay warranties!), and updated to the latest BIOS that fixed the bricking bug. Let's try this again!
+>
+> Starting with @QubesOS 4.0.1. Writing the installation media to USB was a breeze this time! No idea why but I'm not complaining 😄 https://t.co/YrCTvOzpNY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @str4d — 2018-12-15 12:10 UTC (2018-12-15 13:10 WAT)
+    
+    - URL: https://x.com/str4d/status/1073913101119090689
+    - Metrics (at fetch): bookmark 0, impression 0, like 9, quote 1, reply 1, retweet 3
+    
+    > Today's fun project: installing @QubesOS on a Lenovo ThinkPad P1, migrating the OEM Windows 10 installation into an AppVM.
+    >
+    > First stumbling point: creating the installation USB in a way that can actually boot under UEFI 😅 Fortunately the docs are very helpful!
+    
+
+
+---
+
+## 2018-12-15 · Post · Today's fun project: installing @QubesOS on a Lenovo ThinkPad P1, migrating the OEM Windows 10 insta
+
+
+### Post — @str4d — 2018-12-15 12:10 UTC (2018-12-15 13:10 WAT)
+
+- URL: https://x.com/str4d/status/1073913101119090689
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 1, reply 1, retweet 3
+
+> Today's fun project: installing @QubesOS on a Lenovo ThinkPad P1, migrating the OEM Windows 10 installation into an AppVM.
+>
+> First stumbling point: creating the installation USB in a way that can actually boot under UEFI 😅 Fortunately the docs are very helpful!
+
+
+---
+
+## 2018-10-23 · Post · "To be clear what we’re going to do is definitely a hack." 🦀👨‍🍳💋👌 https://t.co/Tt0ZnZeKlS
+
+
+### Post — @str4d — 2018-10-23 17:42 UTC (2018-10-23 18:42 WAT)
+
+- URL: https://x.com/str4d/status/1054790185773350914
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> "To be clear what we’re going to do is definitely a hack." 🦀👨‍🍳💋👌 https://t.co/Tt0ZnZeKlS
+
+**Quoted post** 1054577001405837312: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2018-07-13 · Post · *slaps the roof of zk-SNARKs* This bad boy can fit so many constraints in it
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2018-07-13 08:10 UTC (2018-07-13 09:10 WAT)
+
+- URL: https://x.com/str4d/status/1017682581482098688
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 0
+
+> *slaps the roof of zk-SNARKs* This bad boy can fit so many constraints in it

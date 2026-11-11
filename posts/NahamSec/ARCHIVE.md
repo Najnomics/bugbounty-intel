@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 407
-- Conversations/threads: 397
+- Posts in this file: 432
+- Conversations/threads: 421
 - Oldest post captured: 2020-02-15
 - Newest post captured: 2026-11-10
 
@@ -7018,6 +7018,456 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - media `3_1627161820091011072` (details not returned by the API)
+
+
+---
+
+## 2023-02-16 · Post · You have a reverse shell/RCE and you can only run one command and one command only. What are you run
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2023-02-16 12:02 UTC (2023-02-16 13:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1626190317970939906
+- Metrics (at fetch): not returned
+
+> You have a reverse shell/RCE and you can only run one command and one command only. What are you running? Troll, show impact, escalate privilege. I wanna see it all! 
+>
+>  (Semi columns, pipes and similar things aren’t allowed but if you’re gonna use them you’re only allowed one)
+
+
+---
+
+## 2023-02-13 · Post · How to Bug Bounty in 2023
+
+
+### Post — @NahamSec — 2023-02-13 17:14 UTC (2023-02-13 18:14 WAT)
+
+- URL: https://x.com/NahamSec/status/1625181609111568386
+- Metrics (at fetch): not returned
+
+> How to Bug Bounty in 2023
+>
+> 🎥👉🏼https://youtu.be/FDeuOhE5MhU [pic.x.com/1MeHOz7afY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fo3CBHgWIAAJxe3.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/FDeuOhE5MhU
+
+
+---
+
+## 2023-02-08 · Post · I quit recon and automation last month as a challenge and I'm not gonna lie, it has been so fun 🤷‍♂️
+
+
+### Post — @NahamSec — 2023-02-08 16:37 UTC (2023-02-08 17:37 WAT)
+
+- URL: https://x.com/NahamSec/status/1623360354213396480
+- Metrics (at fetch): not returned
+
+> I quit recon and automation last month as a challenge and I'm not gonna lie, it has been so fun 🤷‍♂️ Should I do a video on this?
+
+
+---
+
+## 2023-02-06 · Post · Getting a max bounty is like setting the high score on an arcade game 😂
+
+
+### Post — @NahamSec — 2023-02-06 20:19 UTC (2023-02-06 21:19 WAT)
+
+- URL: https://x.com/NahamSec/status/1622691450264723456
+- Metrics (at fetch): not returned
+
+> Getting a max bounty is like setting the high score on an arcade game 😂
+
+
+---
+
+## 2023-02-06 · Post · One of the most popular question I get asked is "What should I do after recon?"... and honestly, tha
+
+
+### Post — @NahamSec — 2023-02-06 16:50 UTC (2023-02-06 17:50 WAT)
+
+- URL: https://x.com/NahamSec/status/1622638756929863710
+- Metrics (at fetch): not returned
+
+> One of the most popular question I get asked is "What should I do after recon?"... and honestly, that really depends on you! Let me know if this video helps you figure it out!
+>
+> 🎥👉🏼 https://youtu.be/A6zQV9e2S1M [pic.x.com/FrwVAVvD5p]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoTEHvVWAAcYdTu.png — no alt text provided by author
+
+**Links in post:** https://youtu.be/A6zQV9e2S1M
+
+
+---
+
+## 2023-02-03 · Post · I just realized that I just dropped an RCE in prod on a bug bounty program on Friday at 4PM... oops 
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2023-02-03 23:42 UTC (2023-02-04 00:42 WAT)
+
+- URL: https://x.com/NahamSec/status/1621655320400478209
+- Metrics (at fetch): not returned
+
+> I just realized that I just dropped an RCE in prod on a bug bounty program on Friday at 4PM... oops 🤷‍♂️
+
+
+---
+
+## 2023-02-01 · Post · What’s a company or product you wish they had a bug bounty program to hack on? I wanna hack a watch 
+
+
+### Post — @NahamSec — 2023-02-01 19:28 UTC (2023-02-01 20:28 WAT)
+
+- URL: https://x.com/NahamSec/status/1620866778464423936
+- Metrics (at fetch): not returned
+
+> What’s a company or product you wish they had a bug bounty program to hack on? I wanna hack a watch or apparel company 🙈Imagine hacking Nike maybe and they’d give you a custom shoe as swag for being the top hacker on their program.
+
+
+---
+
+## 2023-01-22 · Post · Great interview with @cyberboyIndia! Now off to do some hacking.. maybe some @tryhackme or live bug 
+
+
+### Post — @NahamSec — 2023-01-22 19:55 UTC (2023-01-22 20:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1617249507389079552
+- Metrics (at fetch): not returned
+
+> Great interview with @cyberboyIndia! Now off to do some hacking.. maybe some @tryhackme or live bug bounty hacking! http://Twitch.tv/NahamSec
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2023-01-20 · Post · Live recon with @cyberboyIndia | Smart contract series! 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2023-01-20 14:08 UTC (2023-01-20 15:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1616437515216470017
+- Metrics (at fetch): not returned
+
+> Live recon with @cyberboyIndia | Smart contract series! 
+>
+> 11:00 AM PST 
+> http://Twitch.tv/NahamSec [pic.x.com/zVrpYZCH4f]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fm5KWcSagAI-43V.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2023-01-18 · Post · 2 away from 77,000 on YouTube..  I'll drop a free Bug Bounty course on my channel at 100k! :) Like a
+
+
+### Post — @NahamSec — 2023-01-18 19:10 UTC (2023-01-18 20:10 WAT)
+
+- URL: https://x.com/NahamSec/status/1615788679066173463
+- Metrics (at fetch): not returned
+
+> 2 away from 77,000 on YouTube..  I'll drop a free Bug Bounty course on my channel at 100k! :) Like and subscribe? 🙏🙏🙏
+>
+> http://YouTube.com/NahamSec
+
+**Links in post:** http://YouTube.com/NahamSec
+
+
+---
+
+## 2023-01-15 · Post · CTS (@gf_256) is a legend! That was amazing interview. I'm still live and doing some recon on stream
+
+
+### Post — @NahamSec — 2023-01-15 20:14 UTC (2023-01-15 21:14 WAT)
+
+- URL: https://x.com/NahamSec/status/1614717612575043584
+- Metrics (at fetch): not returned
+
+> CTS (@gf_256) is a legend! That was amazing interview. I'm still live and doing some recon on stream! Come hang out! http://Twitch.tv/NahamSec
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2023-01-14 · Post · Check out @HusseiN98D's talk from NahamCon2022EU on Attacking Wide Scopes! This talk covers:
+
+
+### Post — @NahamSec — 2023-01-14 11:04 UTC (2023-01-14 12:04 WAT)
+
+- URL: https://x.com/NahamSec/status/1614216883397447681
+- Metrics (at fetch): not returned
+
+> Check out @HusseiN98D's talk from #NahamCon2022EU on Attacking Wide Scopes! This talk covers:
+>
+> ✅ Recon Methodology
+> ✅ Dorking
+> ✅ Crawling
+> ✅ Real World Examples
+> ... and more! 
+>
+> 🎥👉🏼https://youtu.be/q84ldkGGXeY [pic.x.com/L13GPkKhP4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmaPKnVaYAEozBr.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/q84ldkGGXeY
+
+
+---
+
+## 2023-01-13 · Post · Live Recon: Smart Contract Edition with @gf_256
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2023-01-13 13:56 UTC (2023-01-13 14:56 WAT)
+
+- URL: https://x.com/NahamSec/status/1613897780384223232
+- Metrics (at fetch): not returned
+
+> Live Recon: Smart Contract Edition with @gf_256
+>
+> Sunday | 11:00 AM PST 
+> http://Twitch.tv/NahamSec [pic.x.com/onpnsqMpDk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmUSdJFakAE82xL.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2023-01-09 · Post · If you're still looking for resources to get into hacking or bug bounty, I highly recommend taking a
+
+
+### Post — @NahamSec — 2023-01-09 16:54 UTC (2023-01-09 17:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1612493141420150784
+- Metrics (at fetch): not returned
+
+> If you're still looking for resources to get into hacking or bug bounty, I highly recommend taking a look at this GitHub repository! It has a list of videos, labs, and talks for anything hacking related! 
+>
+> https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
+**Links in post:** https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
+
+---
+
+## 2023-01-08 · Post · I'm going live on Twitch in a few hours to host an interview with @ret2jazzy. We are going to talk a
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2023-01-08 16:08 UTC (2023-01-08 17:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1612119059805442052
+- Metrics (at fetch): not returned
+
+> I'm going live on Twitch in a few hours to host an interview with @ret2jazzy. We are going to talk about his CTF experience with @pb_ctf, participating in the @defcon CTF, bug bounty, hacking/auditing smart contracts and more! 
+>
+> Live at 11:00 PT on http://Twitch.tv/NahamSec [pic.x.com/LdoFqeXJt9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fl7qcq0akAENhAF.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2023-01-06 · Thread · You know the game kill, f*ck, marry? Can we play it with web vulns? XSS, IDOR, SSRF.
+
+
+Tags (automatic): XSS, SSRF, IDOR / BOLA
+
+
+### Post — @NahamSec — 2023-01-06 16:09 UTC (2023-01-06 17:09 WAT)
+
+- URL: https://x.com/NahamSec/status/1611394535686344712
+- Metrics (at fetch): not returned
+
+> You know the game kill, f*ck, marry? Can we play it with web vulns? XSS, IDOR, SSRF.
+
+
+### Thread part 2 — @NahamSec — 2023-01-06 17:21 UTC (2023-01-06 18:21 WAT)
+
+- URL: https://x.com/NahamSec/status/1611412734100508678
+- Metrics (at fetch): not returned
+
+> I started this on Instagram last night and from the 500 votes so far, it looks like everyone wants to kill XSS 🤷🏽‍♂️ [pic.x.com/nzhU2p8Qy6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlzjVuxaAAANWuF.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FlzjVuuagAEXdxR.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FlzjVusaMAE0VOL.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-06 · Post · Super excited to have @ret2jazzy join me to this Sunday and talk about his bug bounty/hacking backgr
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2023-01-06 12:00 UTC (2023-01-06 13:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1611331879457652736
+- Metrics (at fetch): not returned
+
+> Super excited to have @ret2jazzy join me to this Sunday and talk about his bug bounty/hacking background, ctf experiences with @pb_ctf, and maybe school me on some smart contract auditing. 
+>
+> Live on Sunday at 11:00 AM PT 
+> http://Twitch.tv/NahamSec [pic.x.com/9caGLPFhfc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlxWkT8acAA_X2R.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2023-01-02 · Post · 📣📣📣 Here's another amazing talk from NahamCon2022EU: I Hope This Sticks: Analyzing ClipboardEvent L
+
+
+Tags (automatic): XSS
+
+
+### Post — @NahamSec — 2023-01-02 16:00 UTC (2023-01-02 17:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1609942594611445762
+- Metrics (at fetch): not returned
+
+> 📣📣📣 Here's another amazing talk from #NahamCon2022EU: I Hope This Sticks: Analyzing ClipboardEvent Listeners for XSS by @spaceraccoonsec. 
+>
+> 🎥👉🏼 https://youtu.be/N2UguYUecvQ [pic.x.com/qkFLhLLpRV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlbMbNtaAAAaDsO.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/N2UguYUecvQ
+
+
+---
+
+## 2022-12-24 · Post · Currently playing chatGPT bug bounty trivia. Come hang out! http://Twitch.tv/NahamSec
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2022-12-24 19:19 UTC (2022-12-24 20:19 WAT)
+
+- URL: https://x.com/NahamSec/status/1606731383392833536
+- Metrics (at fetch): not returned
+
+> Currently playing chatGPT bug bounty trivia. Come hang out! http://Twitch.tv/NahamSec
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2022-12-23 · Post · Since Christmas lands on Sunday, I'm not planning on doing any live recon streams. Instead, I'm stre
+
+
+### Post — @NahamSec — 2022-12-23 17:19 UTC (2022-12-23 18:19 WAT)
+
+- URL: https://x.com/NahamSec/status/1606338595861647360
+- Metrics (at fetch): not returned
+
+> Since Christmas lands on Sunday, I'm not planning on doing any live recon streams. Instead, I'm streaming tomorrow! Let's hang out and play some games and hack some stuff. I also have a a few things from @nostarch, @PentesterLab, and @offsectraining to giveaway! [pic.x.com/wsnQ2tIp8b]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkpFmMaVQAEjOGu.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-21 · Post · If you could go back to when you first started hacking on bug bounty programs, what advice would you
+
+
+### Post — @NahamSec — 2022-12-21 15:56 UTC (2022-12-21 16:56 WAT)
+
+- URL: https://x.com/NahamSec/status/1605592932458778625
+- Metrics (at fetch): not returned
+
+> If you could go back to when you first started hacking on bug bounty programs, what advice would you give yourself?
+
+
+---
+
+## 2022-12-07 · Post · Live now on Twitch. Need to set up another box for when we do live recon. Let's hangout! http://Twit
+
+
+### Post — @NahamSec — 2022-12-07 18:31 UTC (2022-12-07 19:31 WAT)
+
+- URL: https://x.com/NahamSec/status/1600558695812775936
+- Metrics (at fetch): not returned
+
+> Live now on Twitch. Need to set up another box for when we do live recon. Let's hangout! http://Twitch.tv/NahamSec
+
+**Links in post:** http://Twitch.tv/NahamSec
+
+
+---
+
+## 2022-12-04 · Post · I'm back to streaming and doing Live Recon in a few hours with @Jhaddix! Let's go! [pic.x.com/NDSosj
+
+
+### Post — @NahamSec — 2022-12-04 14:05 UTC (2022-12-04 15:05 WAT)
+
+- URL: https://x.com/NahamSec/status/1599404405073137665
+- Metrics (at fetch): not returned
+
+> I'm back to streaming and doing Live Recon in a few hours with @Jhaddix! Let's go! [pic.x.com/NDSosjsMFa]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjHnmq3VUAAoFgx.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-02 · Post · Live Recon returns this Sunday with @Jhaddix. No interview, but I'm down to do some recon. Who shoul
+
+
+### Post — @NahamSec — 2022-12-02 11:15 UTC (2022-12-02 12:15 WAT)
+
+- URL: https://x.com/NahamSec/status/1598636847600529409
+- Metrics (at fetch): not returned
+
+> Live Recon returns this Sunday with @Jhaddix. No interview, but I'm down to do some recon. Who should we hack on? 👇
+>
+> Sunday | 11:00 AM PT 
+> Monday | 12:30 AM IST
+> http://Twitch.tv/NahamSec [pic.x.com/7YveUIynoC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi8tK3hUAAEuNTi.jpg — no alt text provided by author
+
+**Links in post:** http://Twitch.tv/NahamSec
 
 
 ---

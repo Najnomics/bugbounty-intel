@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 32
-- Conversations/threads: 26
-- Oldest post captured: 2023-10-05
+- Posts in this file: 33
+- Conversations/threads: 27
+- Oldest post captured: 2022-06-24
 - Newest post captured: 2025-06-17
 
 
@@ -610,3 +610,22 @@ Tags (automatic): ZK
 > https://onyb.gitbook.io/roll-your-own-crypto/
 
 **Links in post:** https://onyb.gitbook.io/roll-your-own-crypto/
+
+
+---
+
+## 2022-06-24 · Post · Privacy is a fundamental right. So why i'm really excited about @JunoJuicer bringing privacy to @Jun
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2022-06-24 08:56 UTC (2022-06-24 09:56 WAT)
+
+- URL: https://x.com/0xteddav/status/1540257471968821251
+- Metrics (at fetch): not returned
+
+> Privacy is a fundamental right. So why i'm really excited about @JunoJuicer bringing privacy to @JunoNetwork with ZK proofs, and I decided to contribute to their ceremony
+> https://github.com/WasmJuicer/ceremony/pull/2
+
+**Links in post:** https://github.com/WasmJuicer/ceremony/pull/2

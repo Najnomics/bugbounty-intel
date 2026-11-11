@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 103
-- Conversations/threads: 101
+- Posts in this file: 115
+- Conversations/threads: 113
 - Oldest post captured: 2018-04-09
 - Newest post captured: 2026-11-06
 
@@ -2051,6 +2051,189 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/D917NVeX4AAkBiZ.jpg — no alt text provided by author
 
 **Links in post:** http://nutmic2019.imj-prg.fr/
+
+
+---
+
+## 2018-12-10 · Post · Demystifying Kubernetes CVE-2018-1002105 (and a dead simple exploit) - https://t.co/I0oBi7zDua
+
+
+### Post — @asanso — 2018-12-10 13:42 UTC (2018-12-10 14:42 WAT)
+
+- URL: https://x.com/asanso/status/1072124512257409024
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Demystifying #Kubernetes CVE-2018-1002105 (and a dead simple exploit) - https://t.co/I0oBi7zDua
+
+
+---
+
+## 2018-12-06 · Post · The silent CVE in the heart of Kubernetes apiserver https://t.co/NxpUcQNyJZ
+
+
+### Post — @asanso — 2018-12-06 11:04 UTC (2018-12-06 12:04 WAT)
+
+- URL: https://x.com/asanso/status/1070635179184656384
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> The silent CVE in the heart of #Kubernetes apiserver https://t.co/NxpUcQNyJZ
+
+
+---
+
+## 2018-12-05 · Post · Billion Laugh Attack in sites google com  - VRP Google https://t.co/vzIkOBKIDV … Thanks again @Goo
+
+
+### Post — @asanso — 2018-12-05 14:21 UTC (2018-12-05 15:21 WAT)
+
+- URL: https://x.com/asanso/status/1070322393787351040
+- Metrics (at fetch): bookmark 3, impression 0, like 110, quote 1, reply 2, retweet 48
+
+> Billion Laugh Attack in sites google com  - #VRP #Google https://t.co/vzIkOBKIDV … Thanks again @GoogleVRP ! https://t.co/K9bYgKLKCg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DtqMhkPWoAEiFki.jpg — no alt text provided by author
+
+
+---
+
+## 2018-11-30 · Post · Funny. Found in a forgotten drawer from the time I was a bug hunter :p facebook bug bounty https:
+
+
+### Post — @asanso — 2018-11-30 08:31 UTC (2018-11-30 09:31 WAT)
+
+- URL: https://x.com/asanso/status/1068422162342715393
+- Metrics (at fetch): bookmark 0, impression 0, like 29, quote 0, reply 1, retweet 1
+
+> Funny. Found in a forgotten drawer from the time I was a bug hunter :p #facebook #bug #bounty https://t.co/Tt4saGZVLI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DtPMSDNWsAAfqsN.jpg — no alt text provided by author
+
+
+---
+
+## 2018-10-30 · Post · Bug bounty remainder: A chain is only as strong as its weakest link.
+
+
+### Post — @asanso — 2018-10-30 10:53 UTC (2018-10-30 11:53 WAT)
+
+- URL: https://x.com/asanso/status/1057223878026649600
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Bug bounty remainder: A chain is only as strong as its weakest link.
+
+
+---
+
+## 2018-10-29 · Post · OpenSSL
+
+
+### Post — @asanso — 2018-10-29 09:12 UTC (2018-10-29 10:12 WAT)
+
+- URL: https://x.com/asanso/status/1056836056430063619
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> #OpenSSL
+> Timing vulnerability in ECDSA signature generation (CVE-2018-0735) - 
+> Severity: Low https://t.co/EiElXpYTsk
+
+
+---
+
+## 2018-10-24 · Post · Hey Crypto Twitterland. Kubernetes prefers AES CBC (without HMAC!!) over AES GCM for encryption at 
+
+
+### Post — @asanso — 2018-10-24 13:31 UTC (2018-10-24 14:31 WAT)
+
+- URL: https://x.com/asanso/status/1055089296296828928
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 1, reply 6, retweet 3
+
+> Hey Crypto Twitterland. #Kubernetes prefers AES CBC (without HMAC!!) over AES GCM for encryption at rest (probably the fear the AES GCM forbidden attack, see the rotation note). Do you agree? https://t.co/aQ1RjbBlua
+
+
+---
+
+## 2018-10-09 · Post · Here another case of early rejection . Even the seminal isogeny crypto paper was rejected initiall
+
+
+Tags (automatic): ZK
+
+
+### Post — @asanso — 2018-10-09 13:02 UTC (2018-10-09 14:02 WAT)
+
+- URL: https://x.com/asanso/status/1049646233193734144
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Here another case of early #rejection . Even the seminal #isogeny crypto paper was rejected initially. Same as the first ZK paper and many other examples.... https://t.co/V12GNMR6sG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DpEXb85X4AAPrxD.jpg — no alt text provided by author
+
+
+---
+
+## 2018-10-01 · Post · LKF: Few years ago I exploited the same identical Facebook endpoint  ("View as"). This is also a con
+
+
+### Post — @asanso — 2018-10-01 07:41 UTC (2018-10-01 08:41 WAT)
+
+- URL: https://x.com/asanso/status/1046666298271387648
+- Metrics (at fetch): bookmark 1, impression 0, like 37, quote 0, reply 0, retweet 9
+
+> LKF: Few years ago I exploited the same identical Facebook endpoint  ("View as"). This is also a continuation of another bug I discovered  earlier where I proved that FB stores email address of non FB users!! cc  @matthew_d_green  https://t.co/FnYQ0bbU0G https://t.co/g6RUtSW0bY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DoaBYshXUAA8KMs.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/DoaBaaQXkAALZ-h.jpg — no alt text provided by author
+
+
+---
+
+## 2018-09-28 · Post · So twitterland, I do have a working billion laughs attack on a biiiiiiig website. What should I do?
+
+
+### Post — @asanso — 2018-09-28 07:22 UTC (2018-09-28 08:22 WAT)
+
+- URL: https://x.com/asanso/status/1045574359455322112
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 1, reply 2, retweet 1
+
+> So twitterland, I do have a working billion laughs attack on a biiiiiiig website. What should I do?
+
+
+---
+
+## 2018-08-20 · Post · ShareYourRejections
+
+
+### Post — @asanso — 2018-08-20 08:33 UTC (2018-08-20 09:33 WAT)
+
+- URL: https://x.com/asanso/status/1031459295852998657
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 1, reply 1, retweet 1
+
+> #ShareYourRejections
+>
+> - @BSidesZurich 2017 - "Invalid curve attack in JWE ECDH-ES"
+> - RWC 2018 - "Invalid curve attack in JWE ECDH-ES"
+> - @blackalps 2018 -  "Invalid curve attack in JWE ECDH-ES"
+>
+> ok ok I got it, you did not like this talk :p
+
+
+---
+
+## 2018-08-10 · Post · Tfw (ab)using number theory properties for an exploit (stay tuned) https://t.co/vvqjxZEabr
+
+
+### Post — @asanso — 2018-08-10 16:08 UTC (2018-08-10 17:08 WAT)
+
+- URL: https://x.com/asanso/status/1027949769489113088
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Tfw (ab)using number theory properties for an exploit (stay tuned) https://t.co/vvqjxZEabr
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---

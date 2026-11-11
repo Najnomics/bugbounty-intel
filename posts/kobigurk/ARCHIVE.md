@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 104
-- Conversations/threads: 103
-- Oldest post captured: 2019-05-28
+- Posts in this file: 105
+- Conversations/threads: 104
+- Oldest post captured: 2019-02-01
 - Newest post captured: 2026-11-07
 
 
@@ -2284,3 +2284,16 @@ Tags (automatic): ZK
 > error: internal compiler error: unexpected panic
 >
 > note: the compiler unexpectedly panicked. this is a bug.
+
+
+---
+
+## 2019-02-01 · Post · I just published "Sapling audit". It was great being a part of this achievement for Zcash and practi
+
+
+### Post — @kobigurk — 2019-02-01 07:21 UTC (2019-02-01 08:21 WAT)
+
+- URL: https://x.com/kobigurk/status/1091235192243699717
+- Metrics (at fetch): bookmark 2, impression 0, like 52, quote 0, reply 2, retweet 10
+
+> I just published "Sapling audit". It was great being a part of this achievement for Zcash and practical Zero-Knowledge Proofs! https://t.co/VQwzCkpUbD

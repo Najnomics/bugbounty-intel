@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 27
-- Conversations/threads: 22
-- Oldest post captured: 2023-04-12
+- Posts in this file: 30
+- Conversations/threads: 25
+- Oldest post captured: 2022-06-06
 - Newest post captured: 2026-05-14
 
 
@@ -420,3 +420,54 @@ Tags (automatic): AI-assisted hunting
 > We also prepared an exercise where you actually implement a #Rowhammer attack, and use #Rowhammer then to induce and exploit bit flips in a target application.
 
 **Links in post:** https://www.youtube.com/watch?v=QfC6Jg5XtqU
+
+
+---
+
+## 2022-06-21 · Post · In today's episode, we start learning about caches and discover the Flush+Reload attack: https://www
+
+
+### Post — @lavados — 2022-06-21 18:24 UTC (2022-06-21 19:24 WAT)
+
+- URL: https://x.com/lavados/status/1539313437347487744
+- Metrics (at fetch): not returned
+
+> In today's episode, we start learning about caches and discover the Flush+Reload attack: https://www.youtube.com/watch?v=76QOOGFuubE
+> #sidechannelsecurity @tugraz_csbme @edXOnline
+
+**Links in post:** https://www.youtube.com/watch?v=76QOOGFuubE
+
+
+---
+
+## 2022-06-07 · Post · And here's the SideChannelSecurity Season 2 Episode 1 Premiere:
+
+
+### Post — @lavados — 2022-06-07 18:43 UTC (2022-06-07 19:43 WAT)
+
+- URL: https://x.com/lavados/status/1534244550893572096
+- Metrics (at fetch): not returned
+
+> And here's the #SideChannelSecurity Season 2 Episode 1 Premiere:
+> https://www.youtube.com/watch?v=V4E_0N_PvW8
+> Have fun with the remote timing attack ;)
+
+**Links in post:** https://www.youtube.com/watch?v=V4E_0N_PvW8
+
+
+---
+
+## 2022-06-06 · Post · Tomorrow there's the SideChannelSecurity Season 2 Episode 1 Premiere.
+
+
+### Post — @lavados — 2022-06-06 16:21 UTC (2022-06-06 17:21 WAT)
+
+- URL: https://x.com/lavados/status/1533846447073943555
+- Metrics (at fetch): not returned
+
+> Tomorrow there's the #SideChannelSecurity Season 2 Episode 1 Premiere.
+> The first episode will already take a big step forward from the last season and we will &lt;spoiler&gt;mount a remote timing attack together!&lt;/spoiler&gt;
+>
+> Check out the course on @edXOnline: https://www.edx.org/course/side-channel-security-season-2
+
+**Links in post:** https://www.edx.org/course/side-channel-security-season-2

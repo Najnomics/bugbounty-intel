@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 155
-- Conversations/threads: 154
-- Oldest post captured: 2017-06-15
+- Posts in this file: 180
+- Conversations/threads: 179
+- Oldest post captured: 2017-02-23
 - Newest post captured: 2026-11-11
 
 
@@ -2903,3 +2903,381 @@ Tags (automatic): Platform: HackerOne
 > Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
 
 **Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-06-14 · Post · Got my first account takeover triaged today! I'll definitely be doing a writeup when it gets patched
+
+
+Tags (automatic): Account takeover
+
+
+### Post — @samwcyo — 2017-06-14 22:03 UTC (2017-06-14 23:03 WAT)
+
+- URL: https://x.com/samwcyo/status/875111591833939968
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> Got my first account takeover triaged today! I'll definitely be doing a writeup when it gets patched.
+
+
+---
+
+## 2017-06-11 · Post · .@thedawgyg just reported our second critical of the day... hoping to have a third in by lunch.
+
+
+### Post — @samwcyo — 2017-06-11 16:16 UTC (2017-06-11 17:16 WAT)
+
+- URL: https://x.com/samwcyo/status/873936865702948864
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 2, retweet 1
+
+> .@thedawgyg just reported our second critical of the day... hoping to have a third in by lunch.
+
+
+---
+
+## 2017-06-10 · Post · Just got back from a week of teaching kids how to pick locks, hack stuff, and code (don't worry I ga
+
+
+### Post — @samwcyo — 2017-06-10 23:50 UTC (2017-06-11 00:50 WAT)
+
+- URL: https://x.com/samwcyo/status/873688815117979648
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Just got back from a week of teaching kids how to pick locks, hack stuff, and code (don't worry I gave them a few ethical disclaimers)!
+
+
+---
+
+## 2017-06-04 · Post · "How I could’ve taken over the production server of a Yahoo acquisition through command injection" -
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-06-04 07:20 UTC (2017-06-04 08:20 WAT)
+
+- URL: https://x.com/samwcyo/status/871265431830396928
+- Metrics (at fetch): bookmark 0, impression 0, like 103, quote 0, reply 7, retweet 66
+
+> "How I could’ve taken over the production server of a Yahoo acquisition through command injection" - https://t.co/3dpgFjOlKV #hackerone
+
+
+---
+
+## 2017-06-02 · Post · @ngalongc I found a very similar bug on Yahoo's mail app using your 23 encoding trick. Thanks for t
+
+
+### Post — @samwcyo — 2017-06-02 17:32 UTC (2017-06-02 18:32 WAT)
+
+- URL: https://x.com/samwcyo/status/870694500489809920
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> @ngalongc I found a very similar bug on Yahoo's mail app using your #23 encoding trick. Thanks for the write-up!
+
+
+---
+
+## 2017-06-02 · Post · Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck TogetherWeHitHarder (che
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-06-02 01:30 UTC (2017-06-02 02:30 WAT)
+
+- URL: https://x.com/samwcyo/status/870452585357950976
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck #TogetherWeHitHarder (cheers buddy @thedawgyg)
+
+
+---
+
+## 2017-05-22 · Post · Yay, I was awarded a $2,000 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-05-22 22:46 UTC (2017-05-22 23:46 WAT)
+
+- URL: https://x.com/samwcyo/status/866787395500363776
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $2,000 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck #TogetherWeHitHarder
+
+
+---
+
+## 2017-05-19 · Post · Did your directory scanner find a zero byte "/SOAP" file? Learn how to exploit it here.
+
+
+### Post — @samwcyo — 2017-05-19 16:17 UTC (2017-05-19 17:17 WAT)
+
+- URL: https://x.com/samwcyo/status/865602271706591232
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 0, reply 1, retweet 9
+
+> Did your directory scanner find a zero byte "/SOAP" file? Learn how to exploit it here.
+> https://t.co/78onDTOJCm
+
+
+---
+
+## 2017-05-19 · Reply · @scarybeasts Would you be able to follow me back? I have a few questions about ImageMagick in a publ
+
+
+### Post — @samwcyo — 2017-05-19 06:39 UTC (2017-05-19 07:39 WAT)
+
+- URL: https://x.com/samwcyo/status/865456944936439808
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @scarybeasts Would you be able to follow me back? I have a few questions about ImageMagick in a public bug bounty program. Thanks so much!
+
+
+---
+
+## 2017-05-18 · Post · Bug bounty 101: "Nothing to see here, please move along" means "keep going".
+
+
+### Post — @samwcyo — 2017-05-18 06:23 UTC (2017-05-18 07:23 WAT)
+
+- URL: https://x.com/samwcyo/status/865090528135831552
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 2, retweet 1
+
+> Bug bounty 101: "Nothing to see here, please move along" means "keep going".
+
+
+---
+
+## 2017-05-12 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-05-12 04:04 UTC (2017-05-12 05:04 WAT)
+
+- URL: https://x.com/samwcyo/status/862881134467846145
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-05-11 · Post · Honest truth: the only reason I'm doing bug bounty is to eventually get a hoody from @hacker0x01.
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-05-11 04:56 UTC (2017-05-11 05:56 WAT)
+
+- URL: https://x.com/samwcyo/status/862531930973188096
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 1
+
+> Honest truth: the only reason I'm doing bug bounty is to eventually get a hoody from @hacker0x01.
+
+
+---
+
+## 2017-05-09 · Post · Yay, I was awarded a $560 bounty on @Hacker0x01! https://t.co/jVIHI75I0U  TogetherWeHitHarder (firs
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-05-09 01:04 UTC (2017-05-09 02:04 WAT)
+
+- URL: https://x.com/samwcyo/status/861748576564674560
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $560 bounty on @Hacker0x01! https://t.co/jVIHI75I0U  #TogetherWeHitHarder (first one publicly disclosed!)
+
+
+---
+
+## 2017-05-05 · Post · @spetr0x "Wow someone upvoted my bug! I guess I'm a decent hunter. Let's check who upv-- oh. Spetr0x
+
+
+### Post — @samwcyo — 2017-05-05 03:42 UTC (2017-05-05 04:42 WAT)
+
+- URL: https://x.com/samwcyo/status/860338923997974528
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @spetr0x "Wow someone upvoted my bug! I guess I'm a decent hunter. Let's check who upv-- oh. Spetr0x again."
+
+
+---
+
+## 2017-04-27 · Post · Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-04-27 16:53 UTC (2017-04-27 17:53 WAT)
+
+- URL: https://x.com/samwcyo/status/857638812041625600
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck #TogetherWeHitHarder
+
+
+---
+
+## 2017-04-27 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-04-27 16:52 UTC (2017-04-27 17:52 WAT)
+
+- URL: https://x.com/samwcyo/status/857638693544181760
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck #TogetherWeHitHarder
+
+
+---
+
+## 2017-04-21 · Post · I don't understand why PayPal's bug bounty program sends attached "envelopes" that submit to a third
+
+
+### Post — @samwcyo — 2017-04-21 17:16 UTC (2017-04-21 18:16 WAT)
+
+- URL: https://x.com/samwcyo/status/855470409122287616
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> I don't understand why PayPal's bug bounty program sends attached "envelopes" that submit to a third party... weird (these are legitimate). https://t.co/pFMhy4Sz3f
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C989IeIUQAAUABi.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/C989IeIUwAAVEf6.jpg — no alt text provided by author
+
+
+---
+
+## 2017-04-21 · Post · Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-04-21 03:54 UTC (2017-04-21 04:54 WAT)
+
+- URL: https://x.com/samwcyo/status/855268407708495872
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $1,500 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck #TogetherWeHitHarder
+
+
+---
+
+## 2017-04-20 · Post · Yay, I was awarded a $300 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-04-20 02:14 UTC (2017-04-20 03:14 WAT)
+
+- URL: https://x.com/samwcyo/status/854881047816818688
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $300 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck #TogetherWeHitHarder
+
+
+---
+
+## 2017-04-18 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-04-18 22:39 UTC (2017-04-18 23:39 WAT)
+
+- URL: https://x.com/samwcyo/status/854464352489017344
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-04-18 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-04-18 22:05 UTC (2017-04-18 23:05 WAT)
+
+- URL: https://x.com/samwcyo/status/854455977755762689
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-04-18 · Post · Another bug triaged on twitter! One of the coolest parts about bug bounty is knowing how many peopl
+
+
+### Post — @samwcyo — 2017-04-18 02:30 UTC (2017-04-18 03:30 WAT)
+
+- URL: https://x.com/samwcyo/status/854160294481940481
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Another bug triaged on #twitter! One of the coolest parts about bug bounty is knowing how many people your 'fix' will effect.
+
+
+---
+
+## 2017-03-12 · Post · @codinghorror Hi Jeff. I'm seeking to contact you with regards to bug report 194876 on HackerOne. I 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-03-12 20:36 UTC (2017-03-12 21:36 WAT)
+
+- URL: https://x.com/samwcyo/status/841025176988991489
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @codinghorror Hi Jeff. I'm seeking to contact you with regards to bug report 194876 on HackerOne. I do not think it was accurately examined.
+
+
+---
+
+## 2017-03-08 · Post · Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-03-08 22:56 UTC (2017-03-08 23:56 WAT)
+
+- URL: https://x.com/samwcyo/status/839610808871026688
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 2, retweet 0
+
+> Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-02-23 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-02-23 22:18 UTC (2017-02-23 23:18 WAT)
+
+- URL: https://x.com/samwcyo/status/834890178053476353
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 159
-- Conversations/threads: 159
-- Oldest post captured: 2022-10-21
+- Posts in this file: 183
+- Conversations/threads: 183
+- Oldest post captured: 2022-08-03
 - Newest post captured: 2026-09-03
 
 
@@ -3335,3 +3335,468 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Ffk9E0vX0AIqSh_.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-17 · Post · Ok @PatrickAlphaC you motivated me to check out @immunefi last Friday, and what happened: [pic.x.com
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @pcaversaccio — 2022-10-17 11:59 UTC (2022-10-17 12:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1581978247424004097
+- Metrics (at fetch): not returned
+
+> Ok @PatrickAlphaC you motivated me to check out @immunefi last Friday, and what happened: [pic.x.com/6icjw6SiDP] https://twitter.com/PatrickAlphaC/status/1580647840828731392
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfRQt-uWAAAqBR8.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/PatrickAlphaC/status/1580647840828731392
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1176313487984930816 — 2022-10-13 19:53 UTC (2022-10-13 20:53 WAT)
+    
+    - URL: https://x.com/1176313487984930816/status/1580647840828731392
+    - Metrics (at fetch): not returned
+    
+    > This week I went bug hunting on @immunefi, and found nothing.
+    >
+    > 🤯 But I learnt a TON from the exercise, and submitted a DAO improvement proposal! 
+    >
+    > As always, if you're looking to level up your skill set, apply yourself at something!
+    >
+    > And speaking of leveling up... 👇
+    
+
+
+---
+
+## 2022-10-15 · Post · I have to take up the cudgels here. The current bug bounty programs set the wrong incentives - how c
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-10-15 08:43 UTC (2022-10-15 09:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1581204177237073920
+- Metrics (at fetch): not returned
+
+> I have to take up the cudgels here. The current bug bounty programs set the wrong incentives - how can it be that applications that rely on the basic security of the execution &amp; consensus layer pay significantly more bounty than the underlying layers themselves? [pic.x.com/EJ8rjo7ofs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfGPtqNWQAAl5zQ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FfGPu-CXEAEDtaP.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-11 · Post · it's again the profanity bug - the deployer address' private key can be brute-forced! https://twitte
+
+
+### Post — @pcaversaccio — 2022-10-11 10:32 UTC (2022-10-11 11:32 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1579782089897283584
+- Metrics (at fetch): not returned
+
+> it's again the profanity bug - the deployer address' private key can be brute-forced! https://twitter.com/pcaversaccio/status/1579771534390226946
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1579771534390226946
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-10-11 09:50 UTC (2022-10-11 10:50 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1579771534390226946
+    - Metrics (at fetch): not returned
+    
+    > Most probably the private key of the deployer got leaked somehow. h/t @wei3erHase for first reporting this. https://twitter.com/pcaversaccio/status/1579758228015308802
+    
+    **Links in post:** https://twitter.com/pcaversaccio/status/1579758228015308802
+    
+    **Quoted post** 1579758228015308802: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-10-11 · Post · Most probably the private key of the deployer got leaked somehow. h/t @wei3erHase for first reportin
+
+
+### Post — @pcaversaccio — 2022-10-11 09:50 UTC (2022-10-11 10:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1579771534390226946
+- Metrics (at fetch): not returned
+
+> Most probably the private key of the deployer got leaked somehow. h/t @wei3erHase for first reporting this. https://twitter.com/pcaversaccio/status/1579758228015308802
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1579758228015308802
+
+**Quoted post** 1579758228015308802: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-10-07 · Post · Human readable names are a nice attack vector that many people still fall for https://twitter.com/lo
+
+
+### Post — @pcaversaccio — 2022-10-07 08:26 UTC (2022-10-07 09:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1578300635677483009
+- Metrics (at fetch): not returned
+
+> Human readable names are a nice attack vector that many people still fall for https://twitter.com/lorem___/status/1578206162494685185
+
+**Links in post:** https://twitter.com/lorem___/status/1578206162494685185
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1078392156514070528 — 2022-10-07 02:10 UTC (2022-10-07 03:10 WAT)
+    
+    - URL: https://x.com/1078392156514070528/status/1578206162494685185
+    - Metrics (at fetch): bookmark 340, impression 0, like 1610, quote 133, reply 65, retweet 293
+    
+    > 1/ I saw some shadowy-super-coder supervillian tactics on ETH mainnet after the $600 million BNB hack. A few minutes after the initial hack, the hacker created a BNBHACKERINU token and rugged it two hours later
+    
+
+
+---
+
+## 2022-10-06 · Post · Looking forward when @Mudit__Gupta wakes up in the morning and realises he was again sleeping during
+
+
+### Post — @pcaversaccio — 2022-10-06 22:30 UTC (2022-10-06 23:30 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1578150682611175424
+- Metrics (at fetch): not returned
+
+> Looking forward when @Mudit__Gupta wakes up in the morning and realises he was again sleeping during a major attack.
+
+
+---
+
+## 2022-10-06 · Post · Whenever I sleep a hack happens. Yo black hats please show some mercy and use my timezones. I'm here
+
+
+### Post — @pcaversaccio — 2022-10-06 22:17 UTC (2022-10-06 23:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1578147439248568320
+- Metrics (at fetch): not returned
+
+> Whenever I sleep a hack happens. Yo black hats please show some mercy and use my timezones. I'm here to white hat help the affected projects. Ok BNB how can I help :)
+
+
+---
+
+## 2022-09-20 · Post · One of the Wintermute exploit transactions: 
+
+
+### Post — @pcaversaccio — 2022-09-20 09:15 UTC (2022-09-20 10:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1572152533551816706
+- Metrics (at fetch): not returned
+
+> One of the Wintermute exploit transactions: 
+> https://etherscan.io/tx/0xedd31e2a949b7957a786d44b071dbe1bc5abd5c57e269edb9ec2bf1af30e9ec4
+
+**Links in post:** https://etherscan.io/tx/0xedd31e2a949b7957a786d44b071dbe1bc5abd5c57e269edb9ec2bf1af30e9ec4
+
+
+---
+
+## 2022-09-17 · Post · the math behind zk-proofs is still under appreciated
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2022-09-17 21:16 UTC (2022-09-17 22:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1571246793979039746
+- Metrics (at fetch): not returned
+
+> the math behind zk-proofs is still under appreciated
+
+
+---
+
+## 2022-09-12 · Post · 1/ As I reviewed the new transfer &amp; accept ownership contract of OZ this morning I realised that
+
+
+### Post — @pcaversaccio — 2022-09-12 17:11 UTC (2022-09-12 18:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1569373269228142592
+- Metrics (at fetch): not returned
+
+> 1/ As I reviewed the new transfer &amp; accept ownership contract of OZ this morning I realised that there is a potential interesting attack vector if you don't treat it carefully. To be clear, OZ contracts are safe and not affected by this vector.
+
+
+---
+
+## 2022-09-12 · Post · 👀I see Solidity fuzz tests for Foundry in the latest OpenZeppelin release candidate... [pic.x.com/b8
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-09-12 09:27 UTC (2022-09-12 10:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1569256358125371392
+- Metrics (at fetch): not returned
+
+> 👀I see Solidity fuzz tests for Foundry in the latest OpenZeppelin release candidate... [pic.x.com/b8abjMjGFn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcceDjcXoAMAGUv.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FcceUkKWYAIkqNR.png — no alt text provided by author
+
+
+---
+
+## 2022-09-11 · Post · anon, this may surprise you but you can interact with a contract after calling SELFDESTRUCT as long 
+
+
+### Post — @pcaversaccio — 2022-09-11 09:45 UTC (2022-09-11 10:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1568898581066825731
+- Metrics (at fetch): not returned
+
+> anon, this may surprise you but you can interact with a contract after calling SELFDESTRUCT as long as it's part of the same transaction. Another argument why SELFDESTRUCT is a bug, not a feature...
+
+
+---
+
+## 2022-09-10 · Post · A memory overwrite vulnerability was discovered in the latest implementation of the Wyvern library (
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-09-10 08:33 UTC (2022-09-10 09:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1568518073359171591
+- Metrics (at fetch): not returned
+
+> A memory overwrite vulnerability was discovered in the latest implementation of the Wyvern library (https://github.com/wyvernprotocol/wyvern-v3/blob/master/contracts/lib/ArrayUtils.sol). 
+>
+> Let me re-emphasise in this context, that fuzzing for memory bugs can be critical: https://ventral.digital/posts/2022/4/28/fuzzing-for-memory-bugs-in-solidity
+>
+> https://blocksecteam.medium.com/a-new-memory-overwrite-vulnerability-discovered-in-wyvern-protocol-5285996c297d
+
+**Links in post:** https://github.com/wyvernprotocol/wyvern-v3/blob/master/contracts/lib/ArrayUtils.sol, https://ventral.digital/posts/2022/4/28/fuzzing-for-memory-bugs-in-solidity, https://blocksecteam.medium.com/a-new-memory-overwrite-vulnerability-discovered-in-wyvern-protocol-5285996c297d
+
+
+---
+
+## 2022-09-03 · Post · CRITICAL: Ethereum stakers you **MUST** update your clients **BEFORE** September 6 when the Bellatri
+
+
+### Post — @pcaversaccio — 2022-09-03 11:08 UTC (2022-09-03 12:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1566020312180957185
+- Metrics (at fetch): not returned
+
+> CRITICAL: Ethereum stakers you **MUST** update your clients **BEFORE** September 6 when the Bellatrix upgrade to the Beacon Chain occurs!
+>
+> You also must run an EL client (e.g. Erigon, Geth) before the Merge TTD on Sept 14th! You can track the timeline here https://bordel.wtf
+
+**Links in post:** https://bordel.wtf
+
+
+---
+
+## 2022-09-01 · Post · Thinking of digging into RISC-V, MIPS, and some other open-source architectures. I feel like that I 
+
+
+### Post — @pcaversaccio — 2022-09-01 21:29 UTC (2022-09-01 22:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1565451902439022594
+- Metrics (at fetch): not returned
+
+> Thinking of digging into RISC-V, MIPS, and some other open-source architectures. I feel like that I have a critical knowledge gap wrt to certain hardware designs. Maybe will buy an FPGA board and use RISC-V to build my own chip. I think that would be fun 😛
+
+
+---
+
+## 2022-08-28 · Post · Why linking on-chain libraries (vs redeploying internal duplicate libs) is critical! Let's address t
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-08-28 16:36 UTC (2022-08-28 17:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1563928420668657665
+- Metrics (at fetch): not returned
+
+> Why linking on-chain libraries (vs redeploying internal duplicate libs) is critical! Let's address that issue on the EVM level and fix the current misalignment of incentives! https://twitter.com/lightclients/status/1563927419592986626
+
+**Links in post:** https://twitter.com/lightclients/status/1563927419592986626
+
+**Quoted post (full text):**
+
+    #### Quoted post — @219797382 — 2022-08-28 16:32 UTC (2022-08-28 17:32 WAT)
+    
+    - URL: https://x.com/219797382/status/1563927419592986626
+    - Metrics (at fetch): not returned
+    
+    > @pcaversaccio @devan_non It’s a waste of data availability, because you’re filling the “pipe” with data already on-chain that could just be referenced!
+    
+
+
+---
+
+## 2022-08-22 · Post · Let's do a positive DDoS attack here. I encourage everyone to send a positive note to Virgil via mai
+
+
+### Post — @pcaversaccio — 2022-08-22 14:43 UTC (2022-08-22 15:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1561725812264603648
+- Metrics (at fetch): not returned
+
+> Let's do a positive DDoS attack here. I encourage everyone to send a positive note to Virgil via mail. He deserves it! https://twitter.com/BrantlyMillegan/status/1561719441456513026
+
+**Links in post:** https://twitter.com/BrantlyMillegan/status/1561719441456513026
+
+**Quoted post (full text):**
+
+    #### Quoted post — @518918278 — 2022-08-22 14:18 UTC (2022-08-22 15:18 WAT)
+    
+    - URL: https://x.com/518918278/status/1561719441456513026
+    - Metrics (at fetch): not returned
+    
+    > Here's his address:
+    >
+    > Virgil Griffith 79038-112
+    > FCI Allenwood Low
+    > Federal Correctional Institution
+    > P.O. Box 1000
+    > White Deer, PA 17887 USA
+    >
+    > It doesn't take too long to send a letter. Tell him about what you've been up to lately. He'd be happy to hear about it.
+    >
+    > /end
+    
+
+
+---
+
+## 2022-08-15 · Post · Remember the Shanghai attack on Ethereum? The attacker paid N gas to do N operations but basically u
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-08-15 12:22 UTC (2022-08-15 13:22 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1559153611736743937
+- Metrics (at fetch): not returned
+
+> Remember the Shanghai attack on Ethereum? The attacker paid N gas to do N operations but basically used up N^2 memory. The attack used up a large amount of the in-memory storage of one contract and then called itself repeatedly. So  Ethereum was EVM DoSed.
+
+
+---
+
+## 2022-08-12 · Post · Yo @USTreasury - let me quickly educate you. http://Tornado.cash has a built-in compliance tool that
+
+
+### Post — @pcaversaccio — 2022-08-12 22:14 UTC (2022-08-12 23:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1558215295457714188
+- Metrics (at fetch): not returned
+
+> Yo @USTreasury - let me quickly educate you. http://Tornado.cash has a built-in compliance tool that allows anyone to prove that they've not been laundering money or were participating in an exploit. You abuse your power based on lies and incompetence. You are a disgrace.
+
+**Links in post:** http://Tornado.cash
+
+
+---
+
+## 2022-08-10 · Post · The ultimate ground truth is the EVM bytecode. Assume there is a bug in the compiler, your deployed 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-08-10 20:56 UTC (2022-08-10 21:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1557471068167741441
+- Metrics (at fetch): not returned
+
+> The ultimate ground truth is the EVM bytecode. Assume there is a bug in the compiler, your deployed bytecode can be verified but due to the bug the contract logic is different. Your contract is vulnerable w/o seeing it! Verify what you actually run without trusting the compiler!
+
+
+---
+
+## 2022-08-04 · Post · Since nothing major happened in the last 10hrs, I was able to get up calmly this morning and read a 
+
+
+Tags (automatic): Smart contract / DeFi, Platform: Immunefi
+
+
+### Post — @pcaversaccio — 2022-08-04 08:18 UTC (2022-08-04 09:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1555105818105856000
+- Metrics (at fetch): not returned
+
+> Since nothing major happened in the last 10hrs, I was able to get up calmly this morning and read a nice write-up of a cross-function reentrancy vulnerability discovered by a white hat on @SpoolFi. Give it a read too! Always impressed by @immunefi 🫡 https://medium.com/@nnez/cross-function-re-entrancy-in-the-wild-4d83ac62a699 [pic.x.com/0gUnaODjFn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZTYPBDXoAESIwJ.jpg — no alt text provided by author
+
+**Links in post:** https://medium.com/@nnez/cross-function-re-entrancy-in-the-wild-4d83ac62a699
+
+
+---
+
+## 2022-08-03 · Post · Currently everyone (including me) trying to make sense of and explain the Solana attack [pic.x.com/k
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-08-03 06:54 UTC (2022-08-03 07:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554722302184636417
+- Metrics (at fetch): not returned
+
+> Currently everyone (including me) trying to make sense of and explain the Solana attack [pic.x.com/kAR6gYMqPF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZN7sddWAAAzOuE.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-03 · Post · So after catching my coffee &amp; quickly analysing the Solana attack I want to say that much remain
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-08-03 06:35 UTC (2022-08-03 07:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554717511446315009
+- Metrics (at fetch): not returned
+
+> So after catching my coffee &amp; quickly analysing the Solana attack I want to say that much remains unknown at this point - except that hardware wallets are not impacted! So first step - move your funds to hardware wallets. Here is a list of victims: https://dune.com/queries/1131425
+
+**Links in post:** https://dune.com/queries/1131425
+
+
+---
+
+## 2022-08-03 · Post · Welcome to the new supercycle ...*thinking*... of hacks. Ffs I just want to code and not analyse a n
+
+
+### Post — @pcaversaccio — 2022-08-03 05:37 UTC (2022-08-03 06:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554703044444569600
+- Metrics (at fetch): not returned
+
+> Welcome to the new supercycle ...*thinking*... of hacks. Ffs I just want to code and not analyse a new attack every morning I get up 🙃

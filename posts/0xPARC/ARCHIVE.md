@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 35
-- Conversations/threads: 14
-- Oldest post captured: 2022-05-26
+- Posts in this file: 42
+- Conversations/threads: 21
+- Oldest post captured: 2022-04-28
 - Newest post captured: 2024-11-14
 
 
@@ -515,6 +515,77 @@ Tags (automatic): ZK
 
 ---
 
+## 2022-08-02 · Post · We are co-hosting an Applied ZK Workshop with the @ethereum foundation @PrivacyScaling team on Septe
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @0xPARC — 2022-08-02 16:43 UTC (2022-08-02 17:43 WAT)
+
+- URL: https://x.com/0xPARC/status/1554508072072187904
+- Metrics (at fetch): not returned
+
+> We are co-hosting an Applied ZK Workshop with the @ethereum foundation @PrivacyScaling team on September 2 at Stanford University, following the Science of Blockchain Conference. 
+>
+> Featuring ZK teams from across the ecosystem - apply below by August 12!
+>
+> https://zkworkshop.info
+
+**Links in post:** https://zkworkshop.info
+
+
+---
+
+## 2022-06-07 · Post · .@gitcoin GR14 starts tomorrow and runs until 06/23/22! We’re partnering with @ZKValidator to help a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @0xPARC — 2022-06-07 23:44 UTC (2022-06-08 00:44 WAT)
+
+- URL: https://x.com/0xPARC/status/1534320498196324353
+- Metrics (at fetch): not returned
+
+> .@gitcoin GR14 starts tomorrow and runs until 06/23/22! We’re partnering with @ZKValidator to help administer the ZK Tech matching pool. (1/n) [pic.x.com/4b5ppNA4nS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FUsARUGXsAIAY3P.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-31 · Post · If you're working on an open-source ZK project, or looking to support ZK tech, the upcoming @gitcoin
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-05-31 16:13 UTC (2022-05-31 17:13 WAT)
+
+- URL: https://x.com/0xPARC/status/1531670273115701248
+- Metrics (at fetch): not returned
+
+> If you're working on an open-source ZK project, or looking to support ZK tech, the upcoming @gitcoin GR14 round starts in 8 days 🎉🎉 https://twitter.com/gitcoin/status/1530291118679769088
+
+**Links in post:** https://twitter.com/gitcoin/status/1530291118679769088
+
+**Quoted post (full text):**
+
+    #### Quoted post — @856446453157376003 — 2022-05-27 20:53 UTC (2022-05-27 21:53 WAT)
+    
+    - URL: https://x.com/856446453157376003/status/1530291118679769088
+    - Metrics (at fetch): not returned
+    
+    > Kicking things off is the ZK Tech round, with up to $150k in matching funded by @ZKValidator, @0xPARC, @Figment_io, and more. This is the 3rd consecutive ZK Tech round on Gitcoin, for projects advancing the ZK tools, libraries, community and/or protocols. 💻
+    >
+    > /11
+    
+
+
+---
+
 ## 2022-05-26 · Post · 1/ [APPLY BY WEDS 6/1] Halo2 Learning Group
 
 
@@ -532,3 +603,91 @@ Tags (automatic): ZK
 > https://0xparc.org/blog/halo2-learning-group
 
 **Links in post:** https://0xparc.org/blog/halo2-learning-group
+
+
+---
+
+## 2022-05-12 · Post · 1/ [New Post] Ecne: Automated Verification of ZK Circuits
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-05-12 23:38 UTC (2022-05-13 00:38 WAT)
+
+- URL: https://x.com/0xPARC/status/1524896844152594433
+- Metrics (at fetch): not returned
+
+> 1/ [New Post] Ecne: Automated Verification of ZK Circuits
+>
+> @franklyn_wang presents Ecne, the first tool for proving soundness of R1CS constraints compiled from ZK circuits.
+>
+> https://0xPARC.org/blog/ecne
+
+**Links in post:** https://0xPARC.org/blog/ecne
+
+
+---
+
+## 2022-05-05 · Post · [New Post] zk-ECDSA Part 2: Under the Hood
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-05-05 22:30 UTC (2022-05-05 23:30 WAT)
+
+- URL: https://x.com/0xPARC/status/1522343107173523456
+- Metrics (at fetch): not returned
+
+> [New Post] zk-ECDSA Part 2: Under the Hood
+>
+> @theyisun, Tony L, @xu3kev, and @gubsheep dig into some of the building blocks behind circom-ecdsa, many of which are being used in other ongoing projects. (1/n)
+>
+> https://0xparc.org/blog/zk-ecdsa-2
+
+**Links in post:** https://0xparc.org/blog/zk-ecdsa-2
+
+
+---
+
+## 2022-04-29 · Post · 1/ [New Post] ZK Machine Learning
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-04-29 20:46 UTC (2022-04-29 21:46 WAT)
+
+- URL: https://x.com/0xPARC/status/1520142605044129797
+- Metrics (at fetch): not returned
+
+> 1/ [New Post] ZK Machine Learning
+>
+> @troutspew @fho888 and @henripal present zk-mnist, a convolutional neural net trained on the MNIST dataset that can classify images of numeric digits *inside a SNARK* (you read that right!)
+>
+> https://0xparc.org/blog/zk-mnist
+
+**Links in post:** https://0xparc.org/blog/zk-mnist
+
+
+---
+
+## 2022-04-28 · Post · 1/ [New post] ZK Identity: Why and How (Part 2)
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-04-28 16:20 UTC (2022-04-28 17:20 WAT)
+
+- URL: https://x.com/0xPARC/status/1519713202225004546
+- Metrics (at fetch): not returned
+
+> 1/ [New post] ZK Identity: Why and How (Part 2)
+>
+> Primitives for ZK-enabled decentralized identity systems are coming online rapidly. In our last post on the topic, we touched on the “why” of ZK identity. This time, we’ll dive into the “how.”
+>
+> https://0xparc.org/blog/zk-id-2
+
+**Links in post:** https://0xparc.org/blog/zk-id-2

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 109
-- Conversations/threads: 109
-- Oldest post captured: 2023-06-22
+- Posts in this file: 123
+- Conversations/threads: 123
+- Oldest post captured: 2023-04-27
 - Newest post captured: 2026-11-04
 
 
@@ -2202,3 +2202,282 @@ Tags (automatic): XSS, Auth bypass
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+---
+
+## 2023-06-16 · Post · Thank you for another cool swag @Bugcrowd ❤️🙌 [pic.x.com/kDhTakAtUt]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-06-16 08:02 UTC (2023-06-16 09:02 WAT)
+
+- URL: https://x.com/krishnsec/status/1669616488612007936
+- Metrics (at fetch): not returned
+
+> Thank you for another cool swag @Bugcrowd ❤️🙌 [pic.x.com/kDhTakAtUt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FyurVyxWIAEOzFj.jpg — no alt text provided by author
+
+
+---
+
+## 2023-06-07 · Post · 100 P1’s championship belt 🔥
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-06-07 11:34 UTC (2023-06-07 12:34 WAT)
+
+- URL: https://x.com/krishnsec/status/1666408226391461888
+- Metrics (at fetch): not returned
+
+> 100 P1’s championship belt 🔥
+> Best swag ever , I love it 
+> Thank you @Bugcrowd ❤️
+> #bugcrowd #bugbounty [pic.x.com/XgHf0QZa62]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FyBFcRlWAAAPZO7.jpg — no alt text provided by author
+
+
+---
+
+## 2023-06-05 · Post · P1 &gt; report &gt; @RelentlessT7 &lt; 10 min
+
+
+### Post — @krishnsec — 2023-06-05 07:23 UTC (2023-06-05 08:23 WAT)
+
+- URL: https://x.com/krishnsec/status/1665620444198699009
+- Metrics (at fetch): not returned
+
+> #P1 &gt; report &gt; @RelentlessT7 &lt; 10 min
+> I can confirm tal_bc doesn't sleep 😅
+> Bug :: working aws cred were leaking in main.xx.js file
+> Found this file in  view-source
+> - visited view-source &amp; search '.js' 
+> - validated aws secret with @streaak github repo 
+> https://github.com/streaak/keyhacks#AWS-Access-Key-ID-and-Secret [pic.x.com/ptOFSShbPP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fx149opWYAACsxl.png — no alt text provided by author
+
+**Links in post:** https://github.com/streaak/keyhacks#AWS-Access-Key-ID-and-Secret
+
+
+---
+
+## 2023-06-02 · Post · Top 20 P1 warriors @Bugcrowd ✅ [pic.x.com/PeBaJnjKBg]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-06-02 10:44 UTC (2023-06-02 11:44 WAT)
+
+- URL: https://x.com/krishnsec/status/1664583779166609409
+- Metrics (at fetch): not returned
+
+> Top 20 P1 warriors @Bugcrowd ✅ [pic.x.com/PeBaJnjKBg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxnKH2RaEAQ-UdK.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-31 · Post · MVP Q1 @Bugcrowd 💪 [pic.x.com/R6AvXCpxVx]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-05-31 06:27 UTC (2023-05-31 07:27 WAT)
+
+- URL: https://x.com/krishnsec/status/1663794418309300230
+- Metrics (at fetch): not returned
+
+> MVP Q1 @Bugcrowd 💪 [pic.x.com/R6AvXCpxVx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fxb8M9YaIAENLQV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fxb8M-dakAA11j2.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-24 · Post · Crossed 6K reputation on @bugcrowd✅
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-05-24 07:37 UTC (2023-05-24 08:37 WAT)
+
+- URL: https://x.com/krishnsec/status/1661275334103187456
+- Metrics (at fetch): not returned
+
+> Crossed 6K reputation on @bugcrowd✅
+
+
+---
+
+## 2023-05-24 · Post · I was thinking about content creation for  BB community like yt /twitch
+
+
+### Post — @krishnsec — 2023-05-24 07:20 UTC (2023-05-24 08:20 WAT)
+
+- URL: https://x.com/krishnsec/status/1661271034727636992
+- Metrics (at fetch): not returned
+
+> I was thinking about content creation for  BB community like yt /twitch
+> recon and other stuff ..
+> But I am lagging behind, I don't know how other people manage time👀
+> I'm bad at time management , 
+> consume all of my time in 
+> eat &gt; learn &gt; hunt&gt; sleep &gt; repeat 🤐
+
+
+---
+
+## 2023-05-14 · Post · gifts r not decided yet , you can choose 
+
+
+### Post — @krishnsec — 2023-05-14 11:20 UTC (2023-05-14 12:20 WAT)
+
+- URL: https://x.com/krishnsec/status/1657707335845048322
+- Metrics (at fetch): not returned
+
+> gifts r not decided yet , you can choose 
+> 1- a subscription 
+> 2- good spiritual book
+> 3- my personal guidance for your bug bounty journey
+> https://x.com/krishnsec/status/1657693323082215425?s=20
+
+**Links in post:** https://x.com/krishnsec/status/1657693323082215425?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @krishnsec — 2023-05-14 10:24 UTC (2023-05-14 11:24 WAT)
+    
+    - URL: https://x.com/krishnsec/status/1657693323082215425
+    - Metrics (at fetch): not returned
+    
+    > Thank you everyone for following ❤️
+    > I have 10k friends now ,
+    > Will send 10 gifts🎁to first 10 randomly generated numbers 
+    > just comment a number out of 1-10,000 👇
+    > and 11th gift to last follower
+    > #Giveway [pic.x.com/QKwyH2PhjX]
+    
+    **Media:**
+    - media `3_1657689918917988352` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-14 · Post · Thank you everyone for following ❤️
+
+
+### Post — @krishnsec — 2023-05-14 10:24 UTC (2023-05-14 11:24 WAT)
+
+- URL: https://x.com/krishnsec/status/1657693323082215425
+- Metrics (at fetch): not returned
+
+> Thank you everyone for following ❤️
+> I have 10k friends now ,
+> Will send 10 gifts🎁to first 10 randomly generated numbers 
+> just comment a number out of 1-10,000 👇
+> and 11th gift to last follower
+> #Giveway [pic.x.com/QKwyH2PhjX]
+
+**Media:**
+- media `3_1657689918917988352` (details not returned by the API)
+
+
+---
+
+## 2023-05-14 · Post · Just found another P1 
+
+
+### Post — @krishnsec — 2023-05-14 08:01 UTC (2023-05-14 09:01 WAT)
+
+- URL: https://x.com/krishnsec/status/1657657414307520518
+- Metrics (at fetch): not returned
+
+> Just found another P1 
+> Pwned this admin in 30 min appx
+> “ instead of 2 min “
+> will share tip after triage ✌️
+
+
+---
+
+## 2023-05-13 · Post · ` Haters will say it's Photoshopped `
+
+
+### Post — @krishnsec — 2023-05-13 12:57 UTC (2023-05-13 13:57 WAT)
+
+- URL: https://x.com/krishnsec/status/1657369484716564480
+- Metrics (at fetch): not returned
+
+> ` Haters will say it's Photoshopped `
+> I found this P1 in just 2 min
+> Secret Tip - Keep checking your notes
+> #bigbountytips #FromAnotherUniverse #meme [pic.x.com/6SRCpIduRU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwAowrqaUAARtGe.png — no alt text provided by author
+
+
+---
+
+## 2023-05-03 · Post · Awesome feature @Bugcrowd 👏 [pic.x.com/DtxJdoAQjJ]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-05-03 15:06 UTC (2023-05-03 16:06 WAT)
+
+- URL: https://x.com/krishnsec/status/1653777937928458241
+- Metrics (at fetch): not returned
+
+> Awesome feature @Bugcrowd 👏 [pic.x.com/DtxJdoAQjJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvNmRHbaEAAviDy.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-01 · Post · omw to automate appx 80% of my recon 
+
+
+### Post — @krishnsec — 2023-05-01 09:02 UTC (2023-05-01 10:02 WAT)
+
+- URL: https://x.com/krishnsec/status/1652961786373758976
+- Metrics (at fetch): not returned
+
+> omw to automate appx 80% of my recon 
+> wish me a bash !
+
+
+---
+
+## 2023-04-27 · Post · Typically, companies start with VDPs, and once they receive multiple reports and ensure that their s
+
+
+### Post — @krishnsec — 2023-04-27 10:32 UTC (2023-04-27 11:32 WAT)
+
+- URL: https://x.com/krishnsec/status/1651534796714016768
+- Metrics (at fetch): not returned
+
+> Typically, companies start with VDPs, and once they receive multiple reports and ensure that their systems are pretty much secure
+> they announce bounty program with low bounties range ( $0- $1000 )
+> #poorBBprograms

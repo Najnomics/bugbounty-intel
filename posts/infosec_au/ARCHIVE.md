@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 66
-- Conversations/threads: 56
+- Posts in this file: 71
+- Conversations/threads: 61
 - Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
@@ -1052,6 +1052,96 @@ Tags (automatic): RCE
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GlV-JY_WcAAAM5w.png — no alt text provided by author
+
+
+---
+
+## 2025-02-12 · Post · When researching Palo Alto PAN-OS, @assetnote's Security Research team discovered an authentication 
+
+
+Tags (automatic): Auth bypass
+
+
+### Post — @infosec_au — 2025-02-12 22:42 UTC (2025-02-12 23:42 WAT)
+
+- URL: https://x.com/infosec_au/status/1889807258315628923
+- Metrics (at fetch): bookmark 68, impression 10699, like 217, quote 2, reply 1, retweet 50
+
+> When researching Palo Alto PAN-OS, @assetnote's Security Research team discovered an authentication bypass due to flaws in its architecture. Our team digs a lot deeper than surface-level CVEs; this research is an example. https://t.co/sJKwoovhFk https://t.co/35NJTq9Qxn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GjnvLsBaIAQTFs8.png — no alt text provided by author
+
+
+---
+
+## 2025-01-29 · Post · In 2018, @mgianarakis and I set off to build a platform that would provide enterprises with a realis
+
+
+### Post — @infosec_au — 2025-01-29 00:10 UTC (2025-01-29 01:10 WAT)
+
+- URL: https://x.com/infosec_au/status/1884393603084046480
+- Metrics (at fetch): bookmark 44, impression 49284, like 395, quote 9, reply 81, retweet 34
+
+> In 2018, @mgianarakis and I set off to build a platform that would provide enterprises with a realistic attacker perspective of their entire network. At the time, we had just begun to try the phrase "attack surface management" in peer conversations. But the vision was always https://t.co/rUZ6wdXAZc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gia1_czXUAAuZ0x.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-19 · Post · We discovered a pre-authentication RCE vulnerability in Craft CMS caused by an obscure PHP foot gun 
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2024-12-19 02:10 UTC (2024-12-19 03:10 WAT)
+
+- URL: https://x.com/infosec_au/status/1869565874807673308
+- Metrics (at fetch): bookmark 120, impression 29365, like 375, quote 2, reply 7, retweet 88
+
+> We discovered a pre-authentication RCE vulnerability in Craft CMS caused by an obscure PHP foot gun (CVE-2024-56145), approx 150k sites created with Craft CMS.
+>
+> You can read @Assetnote's Security Research team's blog on the issue: https://t.co/UuzXePNVeT
+>
+> #attacksurfacemanagement https://t.co/xcZPTD9iwW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GfIH5jCaYAAmVoG.png — no alt text provided by author
+
+
+---
+
+## 2024-12-12 · Post · Some security advisories don't get the attention they deserve. Being a True Attack Surface Managemen
+
+
+### Post — @infosec_au — 2024-12-12 13:13 UTC (2024-12-12 14:13 WAT)
+
+- URL: https://x.com/infosec_au/status/1867196079332278687
+- Metrics (at fetch): bookmark 22, impression 12975, like 142, quote 1, reply 5, retweet 24
+
+> Some security advisories don't get the attention they deserve. Being a True Attack Surface Management solution, @assetnote focuses on the technologies that matter most to our customers. Our research on CVE-2024-8534 (CVSS 8.4) affecting Citrix NetScaler:  https://t.co/JHC5uc8FpJ https://t.co/qkGH2TpQdm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GemcgPqa0AAFHtd.png — no alt text provided by author
+
+
+---
+
+## 2024-11-24 · Post · Join us at the Bug Bounty Sydney meetup on December 12th for a presentation from @an1msh_ on his jou
+
+
+### Post — @infosec_au — 2024-11-24 23:06 UTC (2024-11-25 00:06 WAT)
+
+- URL: https://x.com/infosec_au/status/1860822300511379760
+- Metrics (at fetch): bookmark 7, impression 7579, like 75, quote 1, reply 6, retweet 7
+
+> Join us at the Bug Bounty Sydney meetup on December 12th for a presentation from @an1msh_ on his journey from pentester to bug bounty hunter and a special appearance from @NahamSec doing an AMA for the community. RSVP here: https://t.co/1QQjbamWAc https://t.co/Ev3Krm9IYH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GdL3pGQbIAAt1JT.jpg — no alt text provided by author
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 68
-- Conversations/threads: 49
-- Oldest post captured: 2025-02-27
+- Posts in this file: 70
+- Conversations/threads: 51
+- Oldest post captured: 2025-01-19
 - Newest post captured: 2026-11-03
 
 
@@ -1201,3 +1201,39 @@ Tags (automatic): IDOR / BOLA
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkzuLAhWMAAvLmT.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-13 · Post · Yay, I was awarded a $1,005 bounty on @Hacker0x01!  TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-02-13 22:49 UTC (2025-02-13 23:49 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1890171539032887403
+- Metrics (at fetch): bookmark 3, impression 2301, like 49, quote 0, reply 4, retweet 1
+
+> Yay, I was awarded a $1,005 bounty on @Hacker0x01!  #TogetherWeHitHarder
+
+
+---
+
+## 2025-01-19 · Post · Hey guys,
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2025-01-19 16:32 UTC (2025-01-19 17:32 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1881016972126904472
+- Metrics (at fetch): bookmark 0, impression 2074, like 9, quote 0, reply 8, retweet 0
+
+> Hey guys,
+>
+>  I  have some broad scope programs, If anybody up for collaboration. Let me know.
+>
+>  #togetherwehitharder #hackerone #BugBounty

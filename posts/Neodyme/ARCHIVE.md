@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 46
-- Conversations/threads: 46
-- Oldest post captured: 2022-10-24
+- Posts in this file: 47
+- Conversations/threads: 47
+- Oldest post captured: 2022-06-21
 - Newest post captured: 2026-04-17
 
 
@@ -1005,3 +1005,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Check out our newest blog post on one of the critical vulnerabilities we found in Solana's validator code. This bug allowed anyone to inflate their stake to virtually any value, disrupting consensus. It was quickly fixed after we reported it last year.
 >
 > https://t.co/08OZGdtN3F
+
+
+---
+
+## 2022-06-21 · Post · 1/4 🧵 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2022-06-21 16:58 UTC (2022-06-21 17:58 WAT)
+
+- URL: https://x.com/Neodyme/status/1539291735540506627
+- Metrics (at fetch): not returned
+
+> 1/4 🧵 
+> There's been a lot of fuss around the recent #Solend DAO vote, with lots of discussion about what a protocol should be able to change about its #Solana smart contract.

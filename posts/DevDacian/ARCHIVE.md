@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 138
-- Conversations/threads: 134
+- Posts in this file: 157
+- Conversations/threads: 153
 - Oldest post captured: 2023-10-09
 - Newest post captured: 2026-11-09
 
@@ -3003,6 +3003,385 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     **Media:**
     - media `3_1960987398642262016` (details not returned by the API)
     
+
+
+---
+
+## 2025-08-28 · Post · In the last week I've found and reported 2 great but subtle bugs on previous projects I audited, tha
+
+
+### Post — @DevDacian — 2025-08-28 10:44 UTC (2025-08-28 11:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1961017037419147442
+- Metrics (at fetch): bookmark 4, impression 2565, like 57, quote 0, reply 4, retweet 2
+
+> In the last week I've found and reported 2 great but subtle bugs on previous projects I audited, that we missed the first time around.
+>
+> Interestingly both of those projects:
+> * were 3-day audits
+> * in our initial audit we produced great findings, both our reports had 1 Crit, 1 High
+
+
+---
+
+## 2025-08-27 · Post · I knew a guy who ran a massive commercial floor cleaning &amp; restoration business doing huge comme
+
+
+### Post — @DevDacian — 2025-08-27 10:07 UTC (2025-08-27 11:07 WAT)
+
+- URL: https://x.com/DevDacian/status/1960645408113484210
+- Metrics (at fetch): bookmark 4, impression 2556, like 48, quote 1, reply 4, retweet 0
+
+> I knew a guy who ran a massive commercial floor cleaning &amp; restoration business doing huge commercial jobs.
+>
+> When quoting he'd provide low prices and fast timelines to win the work.
+>
+> But when doing the actual jobs he wouldn't even touch large sections of the floors; he'd only
+
+
+---
+
+## 2025-08-24 · Post · PSA: if you agree to a streaming bug bounty payment, make sure the stream can't be cancelled!
+
+
+### Post — @DevDacian — 2025-08-24 06:42 UTC (2025-08-24 07:42 WAT)
+
+- URL: https://x.com/DevDacian/status/1959506588575633551
+- Metrics (at fetch): bookmark 2, impression 3511, like 41, quote 0, reply 10, retweet 2
+
+> PSA: if you agree to a streaming bug bounty payment, make sure the stream can't be cancelled!
+>
+> In Apr 2023 part of my @_alchemistcoin bug bounty reward was vested in a 3yr @Sablier v1 stream.
+>
+> In July they cancelled the stream effectively rugging me for 25% :-/
+>
+> Lesson learned!
+
+
+---
+
+## 2025-08-22 · Post · Feels great getting such a lovely unexpected message today from one of our private audit clients!
+
+
+### Post — @DevDacian — 2025-08-22 09:31 UTC (2025-08-22 10:31 WAT)
+
+- URL: https://x.com/DevDacian/status/1958824235172090209
+- Metrics (at fetch): bookmark 1, impression 2175, like 49, quote 1, reply 3, retweet 1
+
+> Feels great getting such a lovely unexpected message today from one of our private audit clients!
+>
+> @cyfrin always improving, always striving to provide as much value as possible to our private audit clients &amp; the entire web3 community! https://t.co/EuuYcHOI9R
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gy8jEIrbIAATxLO.png — no alt text provided by author
+
+
+---
+
+## 2025-08-21 · Post · .@cyfrin having major impact on the private audit game, making some incumbents very nervous &amp; ca
+
+
+### Post — @DevDacian — 2025-08-21 10:10 UTC (2025-08-21 11:10 WAT)
+
+- URL: https://x.com/DevDacian/status/1958471721679491200
+- Metrics (at fetch): bookmark 10, impression 4596, like 93, quote 0, reply 5, retweet 5
+
+> .@cyfrin having major impact on the private audit game, making some incumbents very nervous &amp; causing them to do WILD, DESPERATE things behind the scenes.  
+>
+> Lots of great auditors in our DMs looking for work, very interesting times.
+>
+> Q3 already our best quarter 🚀EVER🚀!
+
+
+---
+
+## 2025-08-19 · Post · Shout out @Ubermensh3dot0 @0xluk3 fantastic result on this TradFi Solana audit finding:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-08-19 09:45 UTC (2025-08-19 10:45 WAT)
+
+- URL: https://x.com/DevDacian/status/1957740741545062641
+- Metrics (at fetch): bookmark 0, impression 2392, like 40, quote 0, reply 1, retweet 3
+
+> Shout out @Ubermensh3dot0 @0xluk3 fantastic result on this TradFi Solana audit finding:
+>
+> * 3 High
+> * 2 Medium
+> * 2 Low, 3 Info
+>
+> @cyfrin has multiple TradFi Solana audits booked for other institutional clients; we've been doing a LOT of TradFi on EVM side, now on Solana too! https://t.co/0HldUWT8jc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GytJVYnacAE331W.png — no alt text provided by author
+
+
+---
+
+## 2025-08-15 · Post · Permit2 `SignatureTransfer::permitWitnessTransferFrom` takes as input `permit` and `transferDetails`
+
+
+### Post — @DevDacian — 2025-08-15 12:28 UTC (2025-08-15 13:28 WAT)
+
+- URL: https://x.com/DevDacian/status/1956332159486263444
+- Metrics (at fetch): bookmark 143, impression 10157, like 188, quote 1, reply 7, retweet 19
+
+> Permit2 `SignatureTransfer::permitWitnessTransferFrom` takes as input `permit` and `transferDetails` which both have a token amount field, but:
+>
+> * only permit's amount is used for signature verification
+> * only transferDetail's amount is used for actual tokens transferred
+>
+> If the https://t.co/UveJm6nJ43
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyZJSpQaoAAxSY0.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-14 · Post · Shout out @TamayoNft &amp; myself for amazing result on this audit of a cross-chain payments protoco
+
+
+### Post — @DevDacian — 2025-08-14 11:29 UTC (2025-08-14 12:29 WAT)
+
+- URL: https://x.com/DevDacian/status/1955954912405414105
+- Metrics (at fetch): bookmark 12, impression 4616, like 63, quote 1, reply 5, retweet 4
+
+> Shout out @TamayoNft &amp; myself for amazing result on this audit of a cross-chain payments protocol, finding:
+>
+> * 1 Critical - permissionless full drain
+> * 1 High - permissionless permanent grief/DoS of all users
+> * 2 Med
+>
+> The protocol was extremely well coded featuring a highly https://t.co/0vFhFAvtKH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyTwUv4a4AA2Ln_.jpg — no alt text provided by author
+
+
+---
+
+## 2025-08-07 · Post · When quoting codebases for private audit I always look through the entire repo searching for anythin
+
+
+### Post — @DevDacian — 2025-08-07 11:05 UTC (2025-08-07 12:05 WAT)
+
+- URL: https://x.com/DevDacian/status/1953412160924635397
+- Metrics (at fetch): bookmark 1, impression 1364, like 11, quote 0, reply 3, retweet 1
+
+> When quoting codebases for private audit I always look through the entire repo searching for anything malicious and leaked private keys - just found another leaked private key now in a client's repo.
+>
+> Do you find leaked private keys in repos submitted for private audit?
+
+
+---
+
+## 2025-08-04 · Post · Q) Could you please expand on why you think some great contest auditors perform poorly in private au
+
+
+### Post — @DevDacian — 2025-08-04 11:00 UTC (2025-08-04 12:00 WAT)
+
+- URL: https://x.com/DevDacian/status/1952323636431319252
+- Metrics (at fetch): bookmark 21, impression 6167, like 55, quote 1, reply 4, retweet 1
+
+> Q) Could you please expand on why you think some great contest auditors perform poorly in private audits?
+>
+> This is a great question, I'll preface the answer by saying that only for *some* this is the case; for other great contest auditors our stats clearly show they perform great
+
+
+---
+
+## 2025-08-01 · Post · Some auditors have a fanatical religious belief that audit contests are the greatest thing ever.
+
+
+### Post — @DevDacian — 2025-08-01 14:47 UTC (2025-08-01 15:47 WAT)
+
+- URL: https://x.com/DevDacian/status/1951293643265905002
+- Metrics (at fetch): bookmark 31, impression 10488, like 181, quote 1, reply 23, retweet 6
+
+> Some auditors have a fanatical religious belief that audit contests are the greatest thing ever.
+>
+> But the reality is that almost all top auditors eventually stop doing contests and transition to private audits or even more "business" type roles.
+>
+> Why is that? Because unless you
+
+
+---
+
+## 2025-07-29 · Post · My favorite protocols to audit are:
+
+
+### Post — @DevDacian — 2025-07-29 10:27 UTC (2025-07-29 11:27 WAT)
+
+- URL: https://x.com/DevDacian/status/1950141243109068815
+- Metrics (at fetch): bookmark 3, impression 2243, like 60, quote 0, reply 2, retweet 0
+
+> My favorite protocols to audit are:
+>
+> 1⃣ new things unlike existing protocols
+>
+> 2⃣ real-world use cases especially legit real-yield
+>
+> 3⃣ written partially or fully by auditors
+>
+> Thankfully @cyfrin is being increasingly chosen as the auditor for all 3 so I'm having a blast!🚀
+
+
+---
+
+## 2025-07-28 · Post · Admin functions are often overlooked by both devs &amp; auditors:
+
+
+### Post — @DevDacian — 2025-07-28 11:02 UTC (2025-07-28 12:02 WAT)
+
+- URL: https://x.com/DevDacian/status/1949787440119783707
+- Metrics (at fetch): bookmark 103, impression 15935, like 175, quote 4, reply 16, retweet 13
+
+> Admin functions are often overlooked by both devs &amp; auditors:
+>
+> * devs don't test them anywhere near as much as regular functions since they are designed to be infrequently used and because "admin is trusted"
+>
+> * auditors especially those trained by competitive audits tend to https://t.co/WUEsCl6Cac
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gw8IXtFbIAAd0y9.png — no alt text provided by author
+
+
+---
+
+## 2025-07-25 · Post · Shout out @TamayoNft &amp; myself for amazing output on this 6-day audit of a very interesting on-ch
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-07-25 10:30 UTC (2025-07-25 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1948692201564938742
+- Metrics (at fetch): bookmark 4, impression 3768, like 49, quote 1, reply 5, retweet 2
+
+> Shout out @TamayoNft &amp; myself for amazing output on this 6-day audit of a very interesting on-chain game!
+>
+> This codebase had a good test suite with &gt;90% coverage but by thinking "outside the box" using an attacker mindset we found:
+>
+> * 3 Critical
+> * 5 High
+> * 9 Medium
+> * 7 Low
+> * 14 https://t.co/1Lj6qFNwJ8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwsFyx_bgAc6cYb.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-23 · Post · Shout out @giovannidisiena @Draiakoo for amazing work on @cyfrin first ever UniswapV4 Hooks audit fr
+
+
+### Post — @DevDacian — 2025-07-23 12:28 UTC (2025-07-23 13:28 WAT)
+
+- URL: https://x.com/DevDacian/status/1947997286417752229
+- Metrics (at fetch): bookmark 22, impression 4811, like 71, quote 1, reply 7, retweet 6
+
+> Shout out @giovannidisiena @Draiakoo for amazing work on @cyfrin first ever UniswapV4 Hooks audit from back in February, whose report has just now been publicly released! The audit found:
+>
+> * 3 Critical
+> * 9 High
+> * 7 Medium, 7 Low
+> * 6 Info, 6 Gas
+>
+> This was a stacked audit https://t.co/QJy5mcm5Ko
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwitAWLaQAAIOyb.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-22 · Post · 💡Seeking web2-style penetration tester with some web3 knowledge💡
+
+
+### Post — @DevDacian — 2025-07-22 10:30 UTC (2025-07-22 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1947605037628190948
+- Metrics (at fetch): bookmark 12, impression 3954, like 36, quote 2, reply 3, retweet 6
+
+> 💡Seeking web2-style penetration tester with some web3 knowledge💡
+>
+> Can you:
+> ❎do web2-style penetration testing &amp; infrastructure reviews
+>
+> ❎perform systematic web-security testing—API penetration tests, header-parsing bypass checks, RBAC validation, SQL-injection probes &amp;
+
+
+---
+
+## 2025-07-18 · Post · The final audit before going live should feel like it wasn't worth it.
+
+
+### Post — @DevDacian — 2025-07-18 10:45 UTC (2025-07-18 11:45 WAT)
+
+- URL: https://x.com/DevDacian/status/1946159509879279833
+- Metrics (at fetch): bookmark 3, impression 4976, like 112, quote 0, reply 11, retweet 7
+
+> The final audit before going live should feel like it wasn't worth it.
+
+
+---
+
+## 2025-07-17 · Post · This is a great question so I'm going to answer it here for everyone.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-07-17 23:59 UTC (2025-07-18 00:59 WAT)
+
+- URL: https://x.com/DevDacian/status/1945996801414451270
+- Metrics (at fetch): bookmark 17, impression 2594, like 30, quote 0, reply 3, retweet 3
+
+> This is a great question so I'm going to answer it here for everyone.
+>
+> YES 100%! Correcting the AI's misunderstandings is VERY important to getting great results working as a team (Human-AI Symbiosis) - just as if you were working with another human and they had a https://t.co/WL375CxlSh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1619025256693518337 — 2025-07-17 17:53 UTC (2025-07-17 18:53 WAT)
+    
+    - URL: https://x.com/1619025256693518337/status/1945904772864954592
+    - Metrics (at fetch): bookmark 0, impression 3268, like 8, quote 1, reply 0, retweet 0
+    
+    > @DevDacian How you "Explain why false positives are invalid" repeatedly sticks out to me. Cause that's the worst part of talking to AI
+    >
+    > Is taking the time to do this well key to your techniques succcess?
+    
+
+
+---
+
+## 2025-07-17 · Post · 💡Top 8 Ways I Use My AI "Amy" Effectively💡
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-07-17 10:20 UTC (2025-07-17 11:20 WAT)
+
+- URL: https://x.com/DevDacian/status/1945790783493423525
+- Metrics (at fetch): bookmark 110, impression 7544, like 137, quote 1, reply 10, retweet 9
+
+> 💡Top 8 Ways I Use My AI "Amy" Effectively💡
+>
+> 1⃣ Always do first pass manually
+>
+> 2⃣ Ingest Amy's Primer, ask it to analyze the contracts
+>
+> 3⃣ Explain why the false positives it found are invalid
+>
+> 4⃣ Ask it to explain what different functions / bits of code do, then ask it lots of
 
 
 ---

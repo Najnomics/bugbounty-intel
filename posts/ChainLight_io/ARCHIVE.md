@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 403
-- Conversations/threads: 202
+- Posts in this file: 427
+- Conversations/threads: 226
 - Oldest post captured: 2023-11-02
 - Newest post captured: 2025-04-21
 
@@ -9302,7 +9302,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     > (1/8) https://t.co/ZJ2AaOLmlI
     
     **Media:**
-    - media `7_1769725576540291073` (details not returned by the API)
+    - video:  — no alt text provided by author
     
 
 
@@ -9496,7 +9496,531 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > (1/8) https://t.co/ZJ2AaOLmlI
 
 **Media:**
-- media `7_1769725576540291073` (details not returned by the API)
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-03-13 · Post · @junorouse Thank you, @aoTheComputer, for hosting such an amazing contest and for the golden floppy 
+
+
+### Post — @ChainLight_io — 2024-03-13 15:00 UTC (2024-03-13 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1767928662106746959
+- Metrics (at fetch): bookmark 0, impression 276, like 3, quote 0, reply 1, retweet 0
+
+> @junorouse Thank you, @aoTheComputer, for hosting such an amazing contest and for the golden floppy disk.
+
+
+---
+
+## 2024-03-13 · Post · Conducting simple value checks can help prevent significant vulnerabilities.
+
+
+### Post — @ChainLight_io — 2024-03-13 15:00 UTC (2024-03-13 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1767928656817770840
+- Metrics (at fetch): bookmark 0, impression 311, like 5, quote 0, reply 1, retweet 0
+
+> Conducting simple value checks can help prevent significant vulnerabilities.
+>
+> Make sure to incorporate boundary testing into your validation process. It's the attention to small details that helps protect our digital world. https://t.co/CAaeVWKqjP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIjxvh2a4AArBmI.png — no alt text provided by author
+
+
+---
+
+## 2024-03-13 · Post · We uncovered a critical bug that completely changed the game dynamics.
+
+
+### Post — @ChainLight_io — 2024-03-13 15:00 UTC (2024-03-13 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1767928647510614311
+- Metrics (at fetch): bookmark 0, impression 135, like 1, quote 0, reply 1, retweet 0
+
+> We uncovered a critical bug that completely changed the game dynamics.
+>
+> The game only verifies if the attack energy is greater than the player's energy. By sending a negative value for attack energy, a bot could exploit this loophole to gain ∞ energy and launch ∞ attacks. https://t.co/P24S4mdbsF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIjxvFjbAAAxV5L.png — no alt text provided by author
+
+
+---
+
+## 2024-03-13 · Post · @junorouse The contest took place on the @ArweaveEco network, renowned for its permanent information
+
+
+### Post — @ChainLight_io — 2024-03-13 15:00 UTC (2024-03-13 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1767928640220864621
+- Metrics (at fetch): bookmark 0, impression 185, like 1, quote 0, reply 1, retweet 0
+
+> @junorouse The contest took place on the @ArweaveEco network, renowned for its permanent information storage capabilities, which also powers platforms such as @instagram and @viamirror.
+>
+> Contestants were tasked to code bots for the ao-Effect to engage in real-time battles on a 40x40 grid. https://t.co/MQu5f7EyaC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1750584639385939968 — 2024-03-01 01:12 UTC (2024-03-01 02:12 WAT)
+    
+    - URL: https://x.com/1750584639385939968/status/1763371724760891546
+    - Metrics (at fetch): bookmark 1, impression 18551, like 65, quote 6, reply 1, retweet 8
+    
+    > This weekend devs at @ethereumdenver have a chance to win this solid gold ao floppy disk worth $10,000!
+    >
+    > Code up a bot in ao to battle against other bots. The last bot standing wins!
+    >
+    > Be at the @ArweaveEco booth at 2pm sharp on Saturday March 2nd to compete. 📷 https://t.co/9YnDC9dksg
+    
+    **Media:**
+    - media `3_1763371611678199808` (details not returned by the API)
+    
+
+
+---
+
+## 2024-03-13 · Post · $10K golden floppy disk.
+
+
+### Post — @ChainLight_io — 2024-03-13 15:00 UTC (2024-03-13 16:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1767928634873114673
+- Metrics (at fetch): bookmark 2, impression 1939, like 33, quote 0, reply 1, retweet 4
+
+> $10K golden floppy disk.
+>
+> @ChainLight_io won the $10K golden floppy disk in the ao-Effect game contest, hosted by @aoTheComputer on the @ArweaveEco network at @EthereumDenver.
+>
+> Here's the breakdown of the critical bug we've uncovered 🧵 https://t.co/5ZR6ebZiTK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GIjxuOFbwAAm1Ra.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-29 · Post · And, of course, we'll be giving away ChainLight merch. https://t.co/AHiTutIlDk
+
+
+### Post — @ChainLight_io — 2024-02-29 06:42 UTC (2024-02-29 07:42 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1763092246620946445
+- Metrics (at fetch): bookmark 0, impression 280, like 1, quote 0, reply 0, retweet 0
+
+> And, of course, we'll be giving away ChainLight merch. https://t.co/AHiTutIlDk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GHfCpmzWQAAtke5.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-29 · Post · ETHDenver floor plan: Booth 505 https://t.co/RxF0JPSJwV
+
+
+### Post — @ChainLight_io — 2024-02-29 05:48 UTC (2024-02-29 06:48 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1763078867433238923
+- Metrics (at fetch): bookmark 0, impression 357, like 3, quote 0, reply 1, retweet 0
+
+> ETHDenver floor plan: Booth #505 https://t.co/RxF0JPSJwV
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2024-02-29 · Post · ChainLight is here to secure Denver.
+
+
+### Post — @ChainLight_io — 2024-02-29 05:48 UTC (2024-02-29 06:48 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1763078852551774412
+- Metrics (at fetch): bookmark 1, impression 3307, like 18, quote 1, reply 2, retweet 3
+
+> ChainLight is here to secure Denver.
+>
+> Visit our booth, connect with our security experts, and get a chance to win 5 x Ledger Nano S Plus.
+>
+> → Location: Booth #505
+> → Date: Feb 29th - March 3rd, 8 AM - 7 PM https://t.co/Hox51UMUtV
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2024-02-28 · Post · loading… https://t.co/UTnZZWosV5
+
+
+### Post — @ChainLight_io — 2024-02-28 19:09 UTC (2024-02-28 20:09 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1762917842020696501
+- Metrics (at fetch): bookmark 1, impression 3572, like 58, quote 1, reply 1, retweet 2
+
+> loading… https://t.co/UTnZZWosV5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GHckbYRWMAARm2g.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-25 · Post · source: @Ashton_Addison_ @CryptoCoinShow
+
+
+### Post — @ChainLight_io — 2024-02-25 23:28 UTC (2024-02-26 00:28 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1761895981799383270
+- Metrics (at fetch): bookmark 0, impression 292, like 2, quote 0, reply 0, retweet 0
+
+> source: @Ashton_Addison_ @CryptoCoinShow
+
+
+---
+
+## 2024-02-25 · Post · Why do projects keep getting hacked?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-02-25 23:28 UTC (2024-02-26 00:28 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1761895908671733960
+- Metrics (at fetch): bookmark 1, impression 785, like 9, quote 0, reply 1, retweet 0
+
+> Why do projects keep getting hacked?
+>
+> The growing complexity and diversity of blockchain tech create more opportunities for hackers to target decentralized systems that are accessible to anyone.
+>
+> In many cases, it turns into a digital battle between two or three audit firms that https://t.co/pp6UDTgCoE
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-02-24 · Post · Source: @Ashton_Addison_ @CryptoCoinShow 
+
+
+### Post — @ChainLight_io — 2024-02-24 21:33 UTC (2024-02-24 22:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1761504714888282162
+- Metrics (at fetch): bookmark 1, impression 295, like 1, quote 0, reply 0, retweet 0
+
+> Source: @Ashton_Addison_ @CryptoCoinShow 
+>
+> https://t.co/RIgzueK2V8
+
+
+---
+
+## 2024-02-24 · Post · Join ChainLight's CTO, @AndrewWesie, as he shares the story of how ChainLight started in 2016 and ou
+
+
+### Post — @ChainLight_io — 2024-02-24 21:33 UTC (2024-02-24 22:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1761504713395073332
+- Metrics (at fetch): bookmark 3, impression 1678, like 21, quote 0, reply 1, retweet 1
+
+> Join ChainLight's CTO, @AndrewWesie, as he shares the story of how ChainLight started in 2016 and our journey to discover some of the best talents in cybersecurity. https://t.co/Rg8v8xwlFp
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-02-19 · Post · Thank you for reading.
+
+
+### Post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1759608957939921027
+- Metrics (at fetch): bookmark 0, impression 334, like 1, quote 0, reply 5, retweet 0
+
+> Thank you for reading.
+>
+> If you found this thread helpful, please give it a like and a repost.
+>
+> To stay up-to-date with the latest reports, research, and insights from our award-winning security researchers, subscribe to our newsletter👇
+>
+> https://t.co/kDG13JZFnK
+>
+> (7/7) https://t.co/KznsscNtN3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1759608936020537645
+    - Metrics (at fetch): bookmark 0, impression 1639, like 8, quote 1, reply 1, retweet 3
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly summary to stay in the loop 🧵👇
+    >
+    > (1/7) https://t.co/xpmC6QvhwS
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2024-02-19 · Post · 4️⃣ Orbit Chain Announces an Asset Recovery Plan:
+
+
+### Post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1759608954286698823
+- Metrics (at fetch): bookmark 0, impression 399, like 1, quote 0, reply 1, retweet 1
+
+> 4️⃣ Orbit Chain Announces an Asset Recovery Plan:
+>
+> • @Orbit_Chain announced a plan for ecosystem normalization.
+> • The team is planning to raise funds through partner grants and investment raises through its new business.
+> • The team expects two years for the recovery.
+>
+> (6/7) https://t.co/G5X1hD84oH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1135437024578625537 — 2024-02-14 07:37 UTC (2024-02-14 08:37 WAT)
+    
+    - URL: https://x.com/1135437024578625537/status/1757670387092173257
+    - Metrics (at fetch): bookmark 1, impression 22085, like 40, quote 1, reply 0, retweet 12
+    
+    > ‘Orbit Bridge Exploit’ Asset Recovery &amp; Ecosystem Normalization Plan(Draft)
+    >
+    > Please access the full content below:
+    > ▶ EN: https://t.co/mrnggZ4uBs
+    > ▶ KR: https://t.co/OzK1IhucGa https://t.co/gGQUSHku3h
+    
+    **Media:**
+    - media `3_1757650521589256192` (details not returned by the API)
+    
+
+
+---
+
+## 2024-02-19 · Post · 3️⃣ Web3 Security Alliance Launches Officially
+
+
+### Post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1759608950641807655
+- Metrics (at fetch): bookmark 0, impression 107, like 2, quote 0, reply 1, retweet 0
+
+> 3️⃣ Web3 Security Alliance Launches Officially
+>
+> • Led by @samczsun, @_SEAL_Org officially launched.
+> • Including its initiative SEAL911, the alliance will offer legal protection and incentives for white hat operations, and free wargame exercises.
+>
+> (5/7) https://t.co/iLL8uUfODc
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+    
+    - URL: https://x.com/samczsun/status/1757784864575910104
+    - Metrics (at fetch): bookmark 255, impression 505393, like 1804, quote 120, reply 91, retweet 327
+    
+    > I'm back, did you miss me? I have some huge news!
+    >
+    > Over the last year and a half, I've been working on something big in secret with the rest of the crypto security community. Today, we're finally ready to reveal ourselves to the world. We are @_SEAL_Org https://t.co/Jho9wQDxEr
+    
+    **Media:**
+    - media `3_1757746782388490240` (details not returned by the API)
+    
+
+
+---
+
+## 2024-02-19 · Post · 2️⃣ @minerercx Suffers a $466K Exploit
+
+
+### Post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1759608946984382785
+- Metrics (at fetch): bookmark 1, impression 72, like 1, quote 0, reply 1, retweet 0
+
+> 2️⃣ @minerercx Suffers a $466K Exploit
+>
+> • A bug in the _update function allowed the attacker to double the balance when the token was self-transferred.
+> • While the project offered a 30% bounty, the exploited assets were transferred to an EOA.
+>
+> (4/7) https://t.co/pRQaEuiVIL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1756232660848951296 — 2024-02-14 15:24 UTC (2024-02-14 16:24 WAT)
+    
+    - URL: https://x.com/1756232660848951296/status/1757787864299934023
+    - Metrics (at fetch): bookmark 9, impression 40842, like 54, quote 10, reply 62, retweet 15
+    
+    > 1/ Our analysis of the exploit 👇
+    >
+    > Based on our analysis the _update function was exploited.
+    >
+    > The root cause is if you transferred tokens to yourself then your balance would be doubled as the contract used the cached value toBalance.
+    >
+    > https://t.co/6dXniOIGNU https://t.co/KfyScdwnuF
+    
+    **Media:**
+    - media `3_1757785416902602752` (details not returned by the API)
+    
+
+
+---
+
+## 2024-02-19 · Post · 1️⃣ FixedFloat Loses $26M
+
+
+### Post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1759608943373164877
+- Metrics (at fetch): bookmark 0, impression 176, like 1, quote 0, reply 1, retweet 0
+
+> 1️⃣ FixedFloat Loses $26M
+>
+> • @FixedFloat lost 1700 ETH and 409 BTC due to an exploit on its hot wallet.
+> • The team initially claimed minor technical problems regarding the transaction failure of the service, but later confirmed the hack and theft of funds.
+>
+> (3/7) https://t.co/aMuVbPoykt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1023684957296885760 — 2024-02-18 13:59 UTC (2024-02-18 14:59 WAT)
+    
+    - URL: https://x.com/1023684957296885760/status/1759216185185288653
+    - Metrics (at fetch): bookmark 7, impression 77141, like 73, quote 23, reply 11, retweet 19
+    
+    > @officer_secret @reprove Hello,
+    >
+    > We confirm that there was indeed a hack and theft of funds. We are not yet ready to make public comments on this matter, as we are working to eliminate all possible vulnerabilities, improve security, and investigate. Our service will be available again soon.
+    >
+    > We will
+    
+
+
+---
+
+## 2024-02-19 · Post · Table of Contents:
+
+
+### Post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1759608939803812082
+- Metrics (at fetch): bookmark 0, impression 348, like 0, quote 0, reply 1, retweet 1
+
+> Table of Contents:
+>
+> 1️⃣ FixedFloat Loses $26M
+> 2️⃣ Miner Suffers a $466K Exploit
+> 3️⃣ Web3 Security Alliance Officially Launches
+> 4️⃣ Orbit Chain Announces an Asset Recovery Plan
+>
+> (2/7)
+
+
+---
+
+## 2024-02-19 · Post · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-02-19 16:00 UTC (2024-02-19 17:00 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1759608936020537645
+- Metrics (at fetch): bookmark 0, impression 1639, like 8, quote 1, reply 1, retweet 3
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/7) https://t.co/xpmC6QvhwS
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-02-17 · Post · @samczsun We extend our sincerest gratitude to all contributors and believers for making this possib
+
+
+### Post — @ChainLight_io — 2024-02-17 14:03 UTC (2024-02-17 15:03 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1758854696331248116
+- Metrics (at fetch): bookmark 1, impression 735, like 6, quote 0, reply 0, retweet 1
+
+> @samczsun We extend our sincerest gratitude to all contributors and believers for making this possible.
+>
+> @matthuang, @hosseeb, @hudsonjameson, @milesjennings, @VitalikButerin, @MikeBacina, @lex_node, @milesjennings, @RSSH273, @Debevoise, @SH_Brennan, @MarcGoldich, @0xCharmed,
+
+
+---
+
+## 2024-02-17 · Post · We are thrilled to stand alongside @samczsun as a member of the Security Alliance.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-02-17 13:56 UTC (2024-02-17 14:56 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1758852955527323688
+- Metrics (at fetch): bookmark 6, impression 5073, like 38, quote 1, reply 1, retweet 6
+
+> We are thrilled to stand alongside @samczsun as a member of the Security Alliance.
+>
+> The open nature of cryptocurrency has allowed hackers worldwide to target funds flowing through bridges and protocols without constraints. Conversely, white-hat hackers, often restricted by their https://t.co/VAR8k3LxZl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGiyCQCbYAA0u-y.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-14 · Post · Join our community of 750+ protocol and security experts to share ideas, provide feedback, and discu
+
+
+### Post — @ChainLight_io — 2024-02-14 18:25 UTC (2024-02-14 19:25 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757833446054072685
+- Metrics (at fetch): bookmark 0, impression 388, like 4, quote 0, reply 0, retweet 0
+
+> Join our community of 750+ protocol and security experts to share ideas, provide feedback, and discuss everything related to Web3 hacks.
+>
+> The server will be closed in 72 hours and will remain closed until further notice.
+>
+> https://t.co/pb21h8zxAD
+
+
+---
+
+## 2024-02-14 · Post · Today, we invite our community to join the movement in shedding light on the shadows of Web3 hacks.
+
+
+### Post — @ChainLight_io — 2024-02-14 18:08 UTC (2024-02-14 19:08 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757829154660364313
+- Metrics (at fetch): bookmark 0, impression 569, like 8, quote 0, reply 1, retweet 0
+
+> Today, we invite our community to join the movement in shedding light on the shadows of Web3 hacks.
+>
+> You can contribute by providing intel on existing or new hacks through Lumos. Your contribution and name will be recorded and reflected in the platform after the verification. https://t.co/bSnANH2qCj
+
+**Media:**
+- media `7_1757829108527140864` (details not returned by the API)
 
 
 ---

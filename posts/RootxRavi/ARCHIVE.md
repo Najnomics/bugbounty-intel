@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 85
-- Conversations/threads: 85
-- Oldest post captured: 2023-06-20
+- Posts in this file: 87
+- Conversations/threads: 87
+- Oldest post captured: 2023-05-30
 - Newest post captured: 2026-10-31
 
 
@@ -1638,3 +1638,42 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 2, impression 3399, like 39, quote 0, reply 6, retweet 1
 
 > I earned $600 for my submission on @bugcrowd https://t.co/8AEW4gjRRj #ItTakesACrowd
+
+
+---
+
+## 2023-06-13 · Post · I earned $450 for my submission on @bugcrowd https://bugcrowd.com/ravindralakhara ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-06-13 18:19 UTC (2023-06-13 19:19 WAT)
+
+- URL: https://x.com/RootxRavi/status/1668684459309420545
+- Metrics (at fetch): not returned
+
+> I earned $450 for my submission on @bugcrowd https://bugcrowd.com/ravindralakhara #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/ravindralakhara
+
+
+---
+
+## 2023-05-30 · Post · P1 Warrior ✅
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-05-30 18:45 UTC (2023-05-30 19:45 WAT)
+
+- URL: https://x.com/RootxRavi/status/1663617532140609537
+- Metrics (at fetch): not returned
+
+> P1 Warrior ✅
+>
+>  @Bugcrowd [pic.x.com/UfEtv2Z66C]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxZbUmgXwAA0frA.jpg — no alt text provided by author

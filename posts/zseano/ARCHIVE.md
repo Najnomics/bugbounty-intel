@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 53
+- Posts in this file: 61
+- Conversations/threads: 55
 - Oldest post captured: 2021-03-04
 - Newest post captured: 2026-11-09
 
@@ -1005,6 +1005,48 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G8Z7Ea1XMAA2sve.png — no alt text provided by author
+
+
+---
+
+## 2025-12-01 · Post · akamai waf is SO fun to fuck with. managed to bypass it with this in a JSON request (which then save
+
+
+Tags (automatic): XSS
+
+
+### Post — @zseano — 2025-12-01 20:06 UTC (2025-12-01 21:06 WAT)
+
+- URL: https://x.com/zseano/status/1995585425856147840
+- Metrics (at fetch): not returned
+
+> akamai waf is SO fun to fuck with. managed to bypass it with this in a JSON request (which then saved my input and output it on another endpoint)
+>
+> {"ID":'0&lt;h2 onpointerrawupdate="/*','*/prompt``"&gt;':"xss"
+>
+> using onpointerrawupdate=' got blocked by waf. but flipping it to " worked [pic.x.com/UH72fk1oL8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7G-Hcja4AAj4zF.png — no alt text provided by author
+
+
+---
+
+## 2025-11-06 · Post · me in our team chat: this seems vuln.. look i can do ~xyz. looks interesting, check it out.
+
+
+### Post — @zseano — 2025-11-06 00:33 UTC (2025-11-06 01:33 WAT)
+
+- URL: https://x.com/zseano/status/1986230536033984959
+- Metrics (at fetch): not returned
+
+> me in our team chat: this seems vuln.. look i can do ~xyz. looks interesting, check it out.
+>
+> ... 20 mins later
+>
+> @fransrosen: pwned
+>
+> this guy is unstoppable...... fuck
 
 
 ---

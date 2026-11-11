@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 87
-- Conversations/threads: 87
-- Oldest post captured: 2019-08-09
+- Posts in this file: 110
+- Conversations/threads: 110
+- Oldest post captured: 2018-03-09
 - Newest post captured: 2026-10-29
 
 
@@ -1639,3 +1639,453 @@ Tags (automatic): RCE
 > Just drop the RCEs, slides(@BlackHatEvents will fix soon) and blog of @mehqq_ and me's #BHUSA and #DEFCON talk - Infiltrating Corporate Intranet Like NSA: Pre-auth RCE on Leading SSL VPNs! Please check that and let us know if you have any questions! https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html
 
 **Links in post:** https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html
+
+
+---
+
+## 2019-08-08 · Post · Oh my god! Best server side bug of @PwnieAwards 2019, with our CTF and DEVCORE pwning queen @mehqq_ 
+
+
+### Post — @orange_8361 — 2019-08-08 03:05 UTC (2019-08-08 04:05 WAT)
+
+- URL: https://x.com/orange_8361/status/1159299570196570112
+- Metrics (at fetch): bookmark 4, impression 0, like 515, quote 4, reply 26, retweet 51
+
+> Oh my god! Best server side bug of @PwnieAwards 2019, with our CTF and DEVCORE pwning queen @mehqq_ https://t.co/MqLcTcd0us
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EBaozG6UcAES2pX.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EBaozG-VAAE8pJt.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EBaozG9UcAA68Le.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/EBaozG9U8AA_i49.jpg — no alt text provided by author
+
+
+---
+
+## 2019-08-03 · Post · I am nominated 3 times(2 for best server-side bug) in @PwnieAwards this year, but I guess the winner
+
+
+### Post — @orange_8361 — 2019-08-03 20:43 UTC (2019-08-03 21:43 WAT)
+
+- URL: https://x.com/orange_8361/status/1157753963598319616
+- Metrics (at fetch): bookmark 2, impression 0, like 403, quote 1, reply 11, retweet 37
+
+> I am nominated 3 times(2 for best server-side bug) in @PwnieAwards this year, but I guess the winner is #BlueKeep T^T
+> Anyway, it's still a big recognition to me! Thanks all :P https://t.co/5eLljblHyD
+
+
+---
+
+## 2019-06-12 · Post · Achievement unlocked! Got RCE and the highest bounty on Twitter bug bounty program XD
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2019-06-12 05:18 UTC (2019-06-12 06:18 WAT)
+
+- URL: https://x.com/orange_8361/status/1138677000237768704
+- Metrics (at fetch): bookmark 20, impression 0, like 1065, quote 10, reply 63, retweet 151
+
+> Achievement unlocked! Got RCE and the highest bounty on Twitter bug bounty program XD
+> https://t.co/cXMwkleryF
+
+
+---
+
+## 2019-05-14 · Post · Have learned a important thing, I will never, never and never put my info in the exploit payload aga
+
+
+### Post — @orange_8361 — 2019-05-14 20:12 UTC (2019-05-14 21:12 WAT)
+
+- URL: https://x.com/orange_8361/status/1128392719364173824
+- Metrics (at fetch): bookmark 14, impression 0, like 280, quote 5, reply 5, retweet 76
+
+> Have learned a important thing, I will never, never and never put my info in the exploit payload again. The attacker just copy &amp; paste the payload from my blog... XD
+> https://t.co/UDJ9LFMSd8
+
+
+---
+
+## 2019-05-10 · Post · "There is no pre-auth RCE in Jenkins since May 2017, but this is the one!"
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2019-05-10 12:41 UTC (2019-05-10 13:41 WAT)
+
+- URL: https://x.com/orange_8361/status/1126829648552312832
+- Metrics (at fetch): bookmark 27, impression 0, like 509, quote 6, reply 3, retweet 263
+
+> "There is no pre-auth RCE in Jenkins since May 2017, but this is the one!"
+> Relase a more reliable and elegant exploit - "awesome-jenkins-rce-2019" from my #HITB2019AMS talk. Thanks @0ang3el and @webpentest join this party! https://t.co/qQCY2RYDa8 https://t.co/sW0S7bctGT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D6NNidgWAAAgJIK.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/D6NNjYIW4AAE-TG.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/D6NNkEYWwAE8Qn9.png — no alt text provided by author
+
+
+---
+
+## 2019-03-22 · Post · A few months passed. Finally got another pre-auth RCE on a larger SSL VPN target! From pre-auth file
+
+
+Tags (automatic): RCE, Memory corruption / native
+
+
+### Post — @orange_8361 — 2019-03-22 16:17 UTC (2019-03-22 17:17 WAT)
+
+- URL: https://x.com/orange_8361/status/1109126884409765889
+- Metrics (at fetch): bookmark 6, impression 0, like 348, quote 2, reply 6, retweet 61
+
+> A few months passed. Finally got another pre-auth RCE on a larger SSL VPN target! From pre-auth file reading -&gt; crack the user hash -&gt;  to poke the buffer overflow on the admin interface! It's time to organize the content and send to the #BHUSA call for paper now! https://t.co/GOvhrzEhiL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @orange_8361 — 2018-12-11 15:52 UTC (2018-12-11 16:52 WAT)
+    
+    - URL: https://x.com/orange_8361/status/1072519563378610176
+    - Metrics (at fetch): bookmark 1, impression 0, like 496, quote 5, reply 18, retweet 67
+    
+    > After weeks of diving into a single 500mb idb file. Finally chained a pre-auth RCE in a popular SSL VPN! 🙌
+    > Go on to the next bigger one!
+    
+
+
+---
+
+## 2019-03-14 · Post · A Wormable XSS on HackMD! (Sorry, it's only in Chinese)
+
+
+Tags (automatic): XSS
+
+
+### Post — @orange_8361 — 2019-03-14 06:03 UTC (2019-03-14 07:03 WAT)
+
+- URL: https://x.com/orange_8361/status/1106073426375016450
+- Metrics (at fetch): bookmark 6, impression 0, like 280, quote 2, reply 3, retweet 103
+
+> A Wormable XSS on HackMD! (Sorry, it's only in Chinese)
+> https://t.co/R1B8zhucpt https://t.co/H41MarAfRs
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2019-02-22 · Post · Some tips to make the exploit more reliable!
+
+
+### Post — @orange_8361 — 2019-02-22 06:31 UTC (2019-02-22 07:31 WAT)
+
+- URL: https://x.com/orange_8361/status/1098832738474283008
+- Metrics (at fetch): bookmark 14, impression 0, like 239, quote 3, reply 4, retweet 74
+
+> Some tips to make the exploit more reliable!
+> 1. Check your Java(JAR) version first!
+> 2. There are more than 3 entry points to trigger this vulnerability!
+> 3. Sometimes, the `Grab` failed but the `ASTTest` work perfectly! https://t.co/NcTFyNIcHR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @orange_8361 — 2019-02-19 12:04 UTC (2019-02-19 13:04 WAT)
+    
+    - URL: https://x.com/orange_8361/status/1097829220485496832
+    - Metrics (at fetch): bookmark 64, impression 0, like 1001, quote 12, reply 10, retweet 552
+    
+    > Here is the whole exploit chain of Jenkins Unauthenticated RCE(and PoC video https://t.co/4ZW2AIrWGU)!
+    > Hacking Jenkins Part 2 - Abusing Meta Programming for Unauthenticated RCE!
+    >
+    > https://t.co/fqk8I7RWuO
+    
+
+
+---
+
+## 2019-02-19 · Post · Here is the whole exploit chain of Jenkins Unauthenticated RCE(and PoC video https://t.co/4ZW2AIrWGU
+
+
+Tags (automatic): RCE, Memory corruption / native
+
+
+### Post — @orange_8361 — 2019-02-19 12:04 UTC (2019-02-19 13:04 WAT)
+
+- URL: https://x.com/orange_8361/status/1097829220485496832
+- Metrics (at fetch): bookmark 64, impression 0, like 1001, quote 12, reply 10, retweet 552
+
+> Here is the whole exploit chain of Jenkins Unauthenticated RCE(and PoC video https://t.co/4ZW2AIrWGU)!
+> Hacking Jenkins Part 2 - Abusing Meta Programming for Unauthenticated RCE!
+>
+> https://t.co/fqk8I7RWuO
+
+
+---
+
+## 2019-02-15 · Post · Great job! However, this is not complete and still need the job and CONFIGURE permission, I will rel
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @orange_8361 — 2019-02-15 13:38 UTC (2019-02-15 14:38 WAT)
+
+- URL: https://x.com/orange_8361/status/1096403371890626560
+- Metrics (at fetch): bookmark 10, impression 0, like 222, quote 1, reply 2, retweet 79
+
+> Great job! However, this is not complete and still need the job and CONFIGURE permission, I will release the full exploit chain on next week(2/19) :P https://t.co/PEu1SH1hs0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @864133873424187392 — 2019-02-14 12:32 UTC (2019-02-14 13:32 WAT)
+    
+    - URL: https://x.com/864133873424187392/status/1096024274387660800
+    - Metrics (at fetch): bookmark 9, impression 0, like 252, quote 3, reply 0, retweet 147
+    
+    > CVE-2019-1003000-Jenkins-RCE-POC · GitHub https://t.co/xIY00pHWmG
+    
+
+
+---
+
+## 2019-01-16 · Post · Hacking Jenkins Part 1 - Play with Dynamic Routing!
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2019-01-16 12:14 UTC (2019-01-16 13:14 WAT)
+
+- URL: https://x.com/orange_8361/status/1085510564393041925
+- Metrics (at fetch): bookmark 57, impression 0, like 831, quote 4, reply 8, retweet 439
+
+> Hacking Jenkins Part 1 - Play with Dynamic Routing!
+> The part 2 is an interesting RCE, and will be published in February :P
+> https://t.co/LA1SrwXZCG
+
+
+---
+
+## 2018-12-19 · Post · Have Just reported an interesting pre-auth(with Overall/Read) RCE to Jenkins! (But if this chained w
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-12-19 20:46 UTC (2018-12-19 21:46 WAT)
+
+- URL: https://x.com/orange_8361/status/1075492505657925632
+- Metrics (at fetch): bookmark 8, impression 0, like 521, quote 7, reply 11, retweet 126
+
+> Have Just reported an interesting pre-auth(with Overall/Read) RCE to Jenkins! (But if this chained with the bug CVE-2018-1000861 I reported before, it could execute arbitrary code without any ACL restrictions)
+> Will post a blog soon after all the responsible disclosure process :P
+
+
+---
+
+## 2018-12-11 · Post · After weeks of diving into a single 500mb idb file. Finally chained a pre-auth RCE in a popular SSL 
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-12-11 15:52 UTC (2018-12-11 16:52 WAT)
+
+- URL: https://x.com/orange_8361/status/1072519563378610176
+- Metrics (at fetch): bookmark 1, impression 0, like 496, quote 5, reply 18, retweet 67
+
+> After weeks of diving into a single 500mb idb file. Finally chained a pre-auth RCE in a popular SSL VPN! 🙌
+> Go on to the next bigger one!
+
+
+---
+
+## 2018-10-28 · Post · Prototype pollution attack, really interesting!!! https://t.co/CO8DTv86j1
+
+
+### Post — @orange_8361 — 2018-10-28 14:38 UTC (2018-10-28 15:38 WAT)
+
+- URL: https://x.com/orange_8361/status/1056555784140537857
+- Metrics (at fetch): bookmark 4, impression 0, like 126, quote 0, reply 2, retweet 42
+
+> Prototype pollution attack, really interesting!!! https://t.co/CO8DTv86j1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @375351152 — 2018-05-17 18:50 UTC (2018-05-17 19:50 WAT)
+    
+    - URL: https://x.com/375351152/status/997187743158501376
+    - Metrics (at fetch): bookmark 8, impression 0, like 113, quote 1, reply 1, retweet 53
+    
+    > Links to my slides &amp; papers for my talk ! #nsec18 @NorthSec_io https://t.co/PFL4tnPcHn
+    
+
+
+---
+
+## 2018-10-23 · Post · I have pushed all my web challenges in HITCON CTF 2018 and wrote a writeup for One Line PHP Challeng
+
+
+### Post — @orange_8361 — 2018-10-23 16:23 UTC (2018-10-23 17:23 WAT)
+
+- URL: https://x.com/orange_8361/status/1054770287055527937
+- Metrics (at fetch): bookmark 18, impression 0, like 406, quote 3, reply 2, retweet 194
+
+> I have pushed all my web challenges in HITCON CTF 2018 and wrote a writeup for One Line PHP Challenge 😬
+> https://t.co/EfAXPJMBEl
+
+
+---
+
+## 2018-10-07 · Post · Inconsistency and URL parsing bug! https://t.co/0jtQYxMH3d
+
+
+### Post — @orange_8361 — 2018-10-07 17:16 UTC (2018-10-07 18:16 WAT)
+
+- URL: https://x.com/orange_8361/status/1048985340449456128
+- Metrics (at fetch): bookmark 5, impression 0, like 74, quote 0, reply 0, retweet 20
+
+> Inconsistency and URL parsing bug! https://t.co/0jtQYxMH3d
+
+**Quoted post (full text):**
+
+    #### Quoted post — @815023955547484160 — 2018-10-05 12:07 UTC (2018-10-05 13:07 WAT)
+    
+    - URL: https://x.com/815023955547484160/status/1048182859956203525
+    - Metrics (at fetch): bookmark 1, impression 0, like 60, quote 1, reply 1, retweet 13
+    
+    > Wow this is clever: Reporting a WebKit bug to Google, because they have to use WKWebView on iOS https://t.co/dhMakqBkCM
+    
+    **Quoted post** 1048087434456694784: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2018-08-22 · Post · Bloody GhostScript RCE day...XD
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-08-22 14:51 UTC (2018-08-22 15:51 WAT)
+
+- URL: https://x.com/orange_8361/status/1032279036041412608
+- Metrics (at fetch): bookmark 4, impression 0, like 140, quote 0, reply 1, retweet 51
+
+> Bloody GhostScript RCE day...XD
+> https://t.co/iS6BkGCtr4
+
+
+---
+
+## 2018-08-10 · Post · Thanks all for being here :)
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-08-10 20:12 UTC (2018-08-10 21:12 WAT)
+
+- URL: https://x.com/orange_8361/status/1028011349836673024
+- Metrics (at fetch): bookmark 32, impression 0, like 708, quote 13, reply 12, retweet 373
+
+> Thanks all for being here :)
+> This is the case study in my #BHUSA and #DEFCON talk - How I chained 4 bugs(or features :P) into RCE on Amazon! (You can also check slides here)
+> https://t.co/GQSdqLrOHP
+
+
+---
+
+## 2018-07-04 · Post · Yep! there are also 4 case studies in bug bounty programs, 2 RCE, 1 ACL bypass and 1 path traversal 
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-07-04 18:45 UTC (2018-07-04 19:45 WAT)
+
+- URL: https://x.com/orange_8361/status/1014581051174207488
+- Metrics (at fetch): bookmark 0, impression 0, like 127, quote 2, reply 2, retweet 22
+
+> Yep! there are also 4 case studies in bug bounty programs, 2 RCE, 1 ACL bypass and 1 path traversal https://t.co/qdNU1ydvWj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14862447 — 2018-07-01 18:25 UTC (2018-07-01 19:25 WAT)
+    
+    - URL: https://x.com/14862447/status/1013488671507533824
+    - Metrics (at fetch): bookmark 2, impression 0, like 71, quote 1, reply 0, retweet 19
+    
+    > Orange Tsai (@orange_8361) details 0-days found in common frameworks (Java Spring, Ruby on Rails, Next.js, and Python aiohttp) using approach capable of bypassing reverse proxy protections and adapting to multi-layered web architecture https://t.co/HsP5k3p9Ef
+    
+
+
+---
+
+## 2018-06-27 · Post · My write-up for the xSS challenge in Google CTF 2018 quals gCalc!
+
+
+Tags (automatic): XSS
+
+
+### Post — @orange_8361 — 2018-06-27 07:46 UTC (2018-06-27 08:46 WAT)
+
+- URL: https://x.com/orange_8361/status/1011878519255674880
+- Metrics (at fetch): bookmark 16, impression 0, like 290, quote 1, reply 2, retweet 139
+
+> My write-up for the xSS challenge in Google CTF 2018 quals gCalc!
+> https://t.co/JQgJWBKvwq
+
+
+---
+
+## 2018-05-19 · Post · Oh yeah! Thanks @BlackHatEvents review boards for the briefing acceptance.
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-05-19 05:31 UTC (2018-05-19 06:31 WAT)
+
+- URL: https://x.com/orange_8361/status/997711269502201857
+- Metrics (at fetch): bookmark 1, impression 0, like 172, quote 1, reply 11, retweet 36
+
+> Oh yeah! Thanks @BlackHatEvents review boards for the briefing acceptance.
+>
+> In my #BHUSA talk, I will show you several 0days and two bug bounty RCE case studies! https://t.co/mZyH1gwn81
+
+
+---
+
+## 2018-04-19 · Post · WebLogic RCE, JRMP again...XD
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-04-19 19:38 UTC (2018-04-19 20:38 WAT)
+
+- URL: https://x.com/orange_8361/status/987052872440270848
+- Metrics (at fetch): bookmark 4, impression 0, like 271, quote 0, reply 1, retweet 160
+
+> WebLogic RCE, JRMP again...XD
+> https://t.co/pWvU85ml3R
+
+
+---
+
+## 2018-03-09 · Post · I am doing a research for BHUSA CFP. In order to convince my research works, I just finished a beau
+
+
+Tags (automatic): SSRF, RCE, Memory corruption / native
+
+
+### Post — @orange_8361 — 2018-03-09 17:32 UTC (2018-03-09 18:32 WAT)
+
+- URL: https://x.com/orange_8361/status/972163305274974208
+- Metrics (at fetch): bookmark 10, impression 0, like 484, quote 4, reply 10, retweet 187
+
+> I am doing a research for #BHUSA CFP. In order to convince my research works, I just finished a beautiful exploit chain that chained 5 bugs to RCE on a big vendor. I can promise this is more awesome than the chain in my GitHub SSRF to RCE case(https://t.co/kGSN0qoBLd) Hint: Java

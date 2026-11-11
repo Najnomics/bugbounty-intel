@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 82
-- Conversations/threads: 69
-- Oldest post captured: 2023-06-16
+- Posts in this file: 83
+- Conversations/threads: 70
+- Oldest post captured: 2023-06-02
 - Newest post captured: 2024-11-27
 
 
@@ -1822,4 +1822,37 @@ Tags (automatic): Platform: HackerOne
     - Metrics (at fetch): bookmark 27, impression 102424, like 144, quote 2, reply 4, retweet 33
     
     > Introducing @github's revamped VIP bug bounty program! Check out the perks of being a Hacktocat and how you can earn an invite: https://t.co/ZlRdl5LH7X
+    
+
+
+---
+
+## 2023-06-02 · Post · Amazing thread by @_JohnHammond 🔥 I wish more people would be willing to publish their workings whil
+
+
+### Post — @ajxchapman — 2023-06-02 14:11 UTC (2023-06-02 15:11 WAT)
+
+- URL: https://x.com/ajxchapman/status/1664635903178858504
+- Metrics (at fetch): not returned
+
+> Amazing thread by @_JohnHammond 🔥 I wish more people would be willing to publish their workings whilst attempting to exploit tricky bugs. Something I should consider myself in the future 🤔 #BreakInPublic https://twitter.com/_JohnHammond/status/1664585595203772419
+
+**Links in post:** https://twitter.com/_JohnHammond/status/1664585595203772419
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3122875095 — 2023-06-02 10:51 UTC (2023-06-02 11:51 WAT)
+    
+    - URL: https://x.com/3122875095/status/1664585595203772419
+    - Metrics (at fetch): not returned
+    
+    > Okay I'm down a rabbit hole but I'm wracking my brain on this, desperately wanting to figure out how the #MOVEit exploit comes together.
+    >
+    > We've got in the known IIS logs a procedure (coming disjointly from different IPs) that hits up
+    > - moveitisapi.dll
+    > - guestaccess.aspx
+    > etc [pic.x.com/PAfZYxaHnK]
+    
+    **Media:**
+    - media `3_1664573189933105152` (details not returned by the API)
     

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 70
-- Conversations/threads: 70
-- Oldest post captured: 2022-08-28
+- Posts in this file: 79
+- Conversations/threads: 79
+- Oldest post captured: 2022-04-26
 - Newest post captured: 2026-11-05
 
 
@@ -1668,3 +1668,203 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FbNTVrAVQAUS7ki.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-19 · Post · Rent Thief:
+
+
+### Post — @osec_io — 2022-08-19 05:34 UTC (2022-08-19 06:34 WAT)
+
+- URL: https://x.com/osec_io/status/1560500356043325443
+- Metrics (at fetch): not returned
+
+> Rent Thief:
+>
+> 1/ An MEV bot has been stealing rent from @solendprotocol by abusing the account initialization process.
+>
+> This is the story of the curious rent thief ; 🧵
+
+
+---
+
+## 2022-08-16 · Post · We are excited to announce the completion of our audit on the @multisig v3 program as it goes live t
+
+
+### Post — @osec_io — 2022-08-16 17:09 UTC (2022-08-16 18:09 WAT)
+
+- URL: https://x.com/osec_io/status/1559588119522947072
+- Metrics (at fetch): not returned
+
+> We are excited to announce the completion of our audit on the @multisig v3 program as it goes live today!
+>
+> We appreciate the clear commitment to security and attention to detail. It was a pleasure working together! https://twitter.com/SquadsProtocol/status/1559585084272889856
+
+**Links in post:** https://twitter.com/SquadsProtocol/status/1559585084272889856
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1392527288734998536 — 2022-08-16 16:57 UTC (2022-08-16 17:57 WAT)
+    
+    - URL: https://x.com/1392527288734998536/status/1559585084272889856
+    - Metrics (at fetch): not returned
+    
+    > 9/ To ensure the security of the V3 standard we did the following:
+    >
+    > - audits by @BramahSystems and @osec_io
+    > - new program written in @anchorlang
+    > - peer reviews by experienced teams in the space
+    > - @Sec3dev premium tool running for any changes to the on-chain code. [pic.x.com/KnbEgdXzli]
+    
+    **Media:**
+    - media `3_1559585079478722565` (details not returned by the API)
+    
+
+
+---
+
+## 2022-08-08 · Post · As Jet v2 goes live on mainnet today, we are proud to announce the completion of our audit! 
+
+
+### Post — @osec_io — 2022-08-08 14:51 UTC (2022-08-08 15:51 WAT)
+
+- URL: https://x.com/osec_io/status/1556654282765611010
+- Metrics (at fetch): not returned
+
+> As Jet v2 goes live on mainnet today, we are proud to announce the completion of our audit! 
+>
+> We were very impressed by their attention to detail and commitment to security.
+>
+> Learn more here: https://twitter.com/JetProtocol/status/1556651590324453376
+
+**Links in post:** https://twitter.com/JetProtocol/status/1556651590324453376
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1384245094295822336 — 2022-08-08 14:40 UTC (2022-08-08 15:40 WAT)
+    
+    - URL: https://x.com/1384245094295822336/status/1556651590324453376
+    - Metrics (at fetch): not returned
+    
+    > 6/14 As always - security is at the forefront of everything that gets released from @JetProtocol - the full audit report from @osec_io can be found here: https://github.com/jet-lab/jet-v2/blob/master/audit_reports/jet-v2-otter-sec-audit-report.pdf
+    
+    **Links in post:** https://github.com/jet-lab/jet-v2/blob/master/audit_reports/jet-v2-otter-sec-audit-report.pdf
+    
+
+
+---
+
+## 2022-08-03 · Post · We’ve been following the recent Solana wallet draining. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-03 02:34 UTC (2022-08-03 03:34 WAT)
+
+- URL: https://x.com/osec_io/status/1554656988499709952
+- Metrics (at fetch): not returned
+
+> We’ve been following the recent Solana wallet draining. 
+>
+> Let’s clear up some misinformation. 🧵 [pic.x.com/Sx1graLC2P]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZM-7YlaMAIxQ_w.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-01 · Post · We have recently completed our audit on @snowflake_sol multisig wallet program, and we were impresse
+
+
+### Post — @osec_io — 2022-08-01 01:33 UTC (2022-08-01 02:33 WAT)
+
+- URL: https://x.com/osec_io/status/1553916735463784449
+- Metrics (at fetch): not returned
+
+> We have recently completed our audit on @snowflake_sol multisig wallet program, and we were impressed by the team’s attention to detail and their strong commitment to building one of the most secured products in the space!
+>
+> Audit findings available here:
+> https://github.com/snowflake-so/snowflake-multisig-audit-reports/blob/master/snowflake-multisig-ottersec-audit.pdf
+
+**Links in post:** https://github.com/snowflake-so/snowflake-multisig-audit-reports/blob/master/snowflake-multisig-ottersec-audit.pdf
+
+
+---
+
+## 2022-07-28 · Post · 1/ @nirvana_fi was hacked for $3.49 M a few hours ago. 
+
+
+### Post — @osec_io — 2022-07-28 09:38 UTC (2022-07-28 10:38 WAT)
+
+- URL: https://x.com/osec_io/status/1552589378719207424
+- Metrics (at fetch): not returned
+
+> 1/ @nirvana_fi was hacked for $3.49 M a few hours ago. 
+>
+> How did this happen? 🧵 [pic.x.com/1rAvIqM38c]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYvm5K-aMAICA-l.jpg — no alt text provided by author
+
+
+---
+
+## 2022-07-03 · Post · @Crema_Finance was recently hacked for over $6M. Unlike previous attacks, this hacker used Solend fl
+
+
+### Post — @osec_io — 2022-07-03 05:40 UTC (2022-07-03 06:40 WAT)
+
+- URL: https://x.com/osec_io/status/1543469811287465984
+- Metrics (at fetch): not returned
+
+> @Crema_Finance was recently hacked for over $6M. Unlike previous attacks, this hacker used Solend flashloans to drain the pool. We’re working closely with the Crema team to help resolve this issue.
+>  
+> In the meantime, we’ll be sharing what we know about the exploit 🧵 [pic.x.com/5NjovZtAEb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWuAuWOUUAA4xjH.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FWuA0IlVUAEa-IG.jpg — no alt text provided by author
+
+
+---
+
+## 2022-06-23 · Post · We were engaged by the @cega_fi team to perform a security audit of their smart contract code and we
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2022-06-23 15:33 UTC (2022-06-23 16:33 WAT)
+
+- URL: https://x.com/osec_io/status/1539994952498925568
+- Metrics (at fetch): not returned
+
+> We were engaged by the @cega_fi team to perform a security audit of their smart contract code and we’re proud to announce its successful conclusion! Code quality was high, and all vulnerabilities were patched and confirmed.
+>
+> Deep dive below into interesting technical findings: 🧵
+
+
+---
+
+## 2022-04-26 · Post · SPL-token-swap:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-04-26 14:59 UTC (2022-04-26 15:59 WAT)
+
+- URL: https://x.com/osec_io/status/1518967950610362368
+- Metrics (at fetch): not returned
+
+> SPL-token-swap:
+>
+> This February, we discovered a critical rounding exploit in the Solana Program Library token-swap implementation. With over $74 M at risk, this was one of the most impactful bugs we’ve reported. 
+>
+> Let’s take a deep dive: 1/ [pic.x.com/8xFMbqiJII]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRRzB_pUYAImOF4.jpg — no alt text provided by author

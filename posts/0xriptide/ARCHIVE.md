@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
-- Conversations/threads: 89
-- Oldest post captured: 2025-08-29
+- Posts in this file: 96
+- Conversations/threads: 92
+- Oldest post captured: 2025-07-29
 - Newest post captured: 2026-11-10
 
 
@@ -2111,4 +2111,84 @@ Tags (automatic): Smart contract / DeFi
     **Links in post:** https://twitter.com/LoopGhost007/status/1959300354316566923
     
     **Quoted post** 1959300354316566923: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-08-18 · Post · 2mm/yr
+
+
+### Post — @0xriptide — 2025-08-18 12:15 UTC (2025-08-18 13:15 WAT)
+
+- URL: https://x.com/0xriptide/status/1957416002628596184
+- Metrics (at fetch): bookmark 6, impression 6152, like 45, quote 1, reply 4, retweet 1
+
+> 2mm/yr
+>
+> this is no doubt the most *lucrative* business an audit company can get https://t.co/5OpckUeBHW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1091391900089749504 — 2025-07-30 14:52 UTC (2025-07-30 15:52 WAT)
+    
+    - URL: https://x.com/1091391900089749504/status/1950570079369728189
+    - Metrics (at fetch): bookmark 5, impression 21154, like 36, quote 6, reply 1, retweet 6
+    
+    > 🗳️ Calling all @compgovernance voters! 
+    >
+    > @chain_security and Certora are excited for the opportunity to secure Compound for one year after being selected by the Compound Foundation. https://t.co/L5Mf7l4ty9
+    >
+    > We would love to get your vote: https://t.co/7cPYL3vpE3
+    
+
+
+---
+
+## 2025-08-01 · Post · negotiating in the market stalls of saigon taught me valuable skills in the art of bug bounty negoti
+
+
+### Post — @0xriptide — 2025-08-01 06:13 UTC (2025-08-01 07:13 WAT)
+
+- URL: https://x.com/0xriptide/status/1951164241735528452
+- Metrics (at fetch): bookmark 0, impression 2117, like 25, quote 0, reply 2, retweet 0
+
+> negotiating in the market stalls of saigon taught me valuable skills in the art of bug bounty negotiation
+
+
+---
+
+## 2025-07-29 · Post · reminds me of a time i used to live in the hood (south side chicago)
+
+
+### Post — @0xriptide — 2025-07-29 06:19 UTC (2025-07-29 07:19 WAT)
+
+- URL: https://x.com/0xriptide/status/1950078642853183924
+- Metrics (at fetch): bookmark 2, impression 2175, like 24, quote 0, reply 1, retweet 0
+
+> reminds me of a time i used to live in the hood (south side chicago)
+>
+> neighbor says her garage was broken into
+>
+> she read somewhere that ppl could hack her garage remote and hackers (lmao in the hood) stole her stuff
+>
+> i told her about the clothes hanger garage door hack
+>
+> "oh" https://t.co/AsxOeAJP71
+
+**Quoted post (full text):**
+
+    #### Quoted post — @SlowMist_Team — 2025-07-28 09:53 UTC (2025-07-28 10:53 WAT)
+    
+    - URL: https://x.com/SlowMist_Team/status/1949770231733530682
+    - Metrics (at fetch): bookmark 13, impression 55744, like 68, quote 6, reply 9, retweet 9
+    
+    > 🚨SlowMist TI Alert🚨
+    >
+    > MistEye detected that @SuperRare has been exploited. The root cause for this exploit was an incorrect permission check in the updateMerkleRoot function, allowing anyone to modify the Merkle Root and claim tokens.
+    >
+    > As always, stay vigilant! https://t.co/n5J0o6hqgq
+    
+    **Media:**
+    - media `3_1949770201811275776` (details not returned by the API)
     

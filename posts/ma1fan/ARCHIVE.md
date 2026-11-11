@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 83
-- Conversations/threads: 82
-- Oldest post captured: 2025-02-21
+- Posts in this file: 92
+- Conversations/threads: 91
+- Oldest post captured: 2024-12-03
 - Newest post captured: 2026-11-10
 
 
@@ -1939,3 +1939,226 @@ Tags (automatic): RCE, Blockchain / L1-L2 / bridge
     
     **Quoted post** 1892113315620368453: not readable via the API (deleted, private, or withheld).
     
+
+
+---
+
+## 2025-01-04 · Post · I just found a bug and got paid on @immunefi https://t.co/O4dvgCha4Q
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2025-01-04 15:23 UTC (2025-01-04 16:23 WAT)
+
+- URL: https://x.com/ma1fan/status/1875563747504484417
+- Metrics (at fetch): bookmark 8, impression 2585, like 52, quote 0, reply 4, retweet 1
+
+> I just found a bug and got paid on @immunefi https://t.co/O4dvgCha4Q
+
+
+---
+
+## 2024-12-19 · Post · yes. I found my first Low in @immunefi, 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-12-19 06:47 UTC (2024-12-19 07:47 WAT)
+
+- URL: https://x.com/ma1fan/status/1869635716633997413
+- Metrics (at fetch): bookmark 2, impression 1749, like 40, quote 0, reply 5, retweet 0
+
+> yes. I found my first Low in @immunefi, 
+> This time I broke my record of only finding critical ones, sad🤣🤣🤣
+> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/ABxzggwKMR
+
+
+---
+
+## 2024-12-03 · Post · hello @immunefi ,here,here 😆,this is the new critical bug
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-12-03 08:05 UTC (2024-12-03 09:05 WAT)
+
+- URL: https://x.com/ma1fan/status/1863856995629236559
+- Metrics (at fetch): bookmark 1, impression 1779, like 20, quote 0, reply 0, retweet 0
+
+> hello @immunefi ,here,here 😆,this is the new critical bug
+> https://t.co/vW3MBusc9B https://t.co/H17dK6vJM7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2024-11-18 14:00 UTC (2024-11-18 15:00 WAT)
+    
+    - URL: https://x.com/immunefi/status/1858510488428015839
+    - Metrics (at fetch): bookmark 2, impression 6202, like 23, quote 4, reply 2, retweet 2
+    
+    > 👾 🎁   New Bathrobe Drop Monday! More swags can be potentially earned this week. Only ONE of each!
+    >
+    > Get a confirmed report and quote this tweet there to claim:
+    >
+    > Critical - Bathrobe
+    > High - Holographic t-shirt
+    > Medium - Notebook
+    > Low - Oddly will say something to you on Discord!
+    
+
+
+---
+
+## 2024-12-03 · Post · To security researcher and web3 security company:
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ma1fan — 2024-12-03 05:26 UTC (2024-12-03 06:26 WAT)
+
+- URL: https://x.com/ma1fan/status/1863816995155943674
+- Metrics (at fetch): bookmark 1, impression 2789, like 35, quote 0, reply 1, retweet 1
+
+> To security researcher and web3 security company:
+> Talk is cheap, Show me critical bug 🤣. https://t.co/g08OpNpAYN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1863779168850481451
+    - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
+    
+    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    
+
+
+---
+
+## 2024-12-03 · Post · For security researcher and web3 security company:
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ma1fan — 2024-12-03 04:50 UTC (2024-12-03 05:50 WAT)
+
+- URL: https://x.com/ma1fan/status/1863807969328255479
+- Metrics (at fetch): bookmark 0, impression 174, like 3, quote 0, reply 0, retweet 0
+
+> For security researcher and web3 security company:
+> Talk is cheap, Show me critical bug 🤣. https://t.co/g08OpNpAYN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1863779168850481451
+    - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
+    
+    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    
+
+
+---
+
+## 2024-12-03 · Post · For security researcher and web3 security company:
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ma1fan — 2024-12-03 04:50 UTC (2024-12-03 05:50 WAT)
+
+- URL: https://x.com/ma1fan/status/1863807892639592454
+- Metrics (at fetch): bookmark 0, impression 2, like 0, quote 0, reply 0, retweet 0
+
+> For security researcher and web3 security company:
+> Talk is cheap, Show me security bug 🤣. https://t.co/g08OpNpAYN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1863779168850481451
+    - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
+    
+    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    
+
+
+---
+
+## 2024-12-03 · Post · For security researcher and web3 security company:
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ma1fan — 2024-12-03 04:49 UTC (2024-12-03 05:49 WAT)
+
+- URL: https://x.com/ma1fan/status/1863807820866658726
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
+
+> For security researcher and web3 security company:
+> Talk is cheap, Show me security bug 🤣.
+>
+> Shit security company always louder. https://t.co/g08OpNpAYN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1863779168850481451
+    - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
+    
+    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    
+
+
+---
+
+## 2024-12-03 · Post · For security researcher and web3 security company:
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ma1fan — 2024-12-03 04:49 UTC (2024-12-03 05:49 WAT)
+
+- URL: https://x.com/ma1fan/status/1863807675156529358
+- Metrics (at fetch): bookmark 0, impression 5, like 0, quote 0, reply 0, retweet 0
+
+> For security researcher and web3 security company:
+> Talk is cheap, Show me critical bug 🤣.
+>
+> Shit security company always louder. https://t.co/g08OpNpAYN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1863779168850481451
+    - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
+    
+    > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+    
+
+
+---
+
+## 2024-12-03 · Post · I just found a confirmed bug on @immunefi immunefitribe https://t.co/cHVPYscCmv
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-12-03 02:55 UTC (2024-12-03 03:55 WAT)
+
+- URL: https://x.com/ma1fan/status/1863779168850481451
+- Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv

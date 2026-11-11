@@ -118,7 +118,18 @@ Tags (automatic): XSS
 
 > Congrats @mgianarakis and @infosec_au! https://t.co/3hgNr6HuPU
 
-**Quoted post** 1884393603084046480: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @infosec_au — 2025-01-29 00:10 UTC (2025-01-29 01:10 WAT)
+    
+    - URL: https://x.com/infosec_au/status/1884393603084046480
+    - Metrics (at fetch): bookmark 44, impression 49284, like 395, quote 9, reply 81, retweet 34
+    
+    > In 2018, @mgianarakis and I set off to build a platform that would provide enterprises with a realistic attacker perspective of their entire network. At the time, we had just begun to try the phrase "attack surface management" in peer conversations. But the vision was always https://t.co/rUZ6wdXAZc
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Gia1_czXUAAuZ0x.jpg — no alt text provided by author
+    
 
 
 ---

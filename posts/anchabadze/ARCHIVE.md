@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 246
-- Conversations/threads: 246
-- Oldest post captured: 2026-02-11
+- Posts in this file: 278
+- Conversations/threads: 278
+- Oldest post captured: 2025-12-15
 - Newest post captured: 2026-11-11
 
 
@@ -30400,9 +30400,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                                                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                                                 
-                                                                                                                                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                **Quoted post (full text):**
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                                    - Metrics (at fetch): not returned
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                                                    >
+                                                                                                                                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                                                    > 🔎 Focus: Auditing
+                                                                                                                                                                                                                    > 🛠️ Practical work:
+                                                                                                                                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                                    
                                                                                                                                                                                                                 
                                                                                                                                                                                                             
                                                                                                                                                                                                         
@@ -31350,9 +31372,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                                             > - Read and studied several reports from past audit contests
                                                                                                                                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                                             
-                                                                                                                                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                            
+                                                                                                                                                                                                            **Quoted post (full text):**
+                                                                                                                                                                                                            
+                                                                                                                                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                                - Metrics (at fetch): not returned
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                                                >
+                                                                                                                                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                                                > 🔎 Focus: Auditing
+                                                                                                                                                                                                                > 🛠️ Practical work:
+                                                                                                                                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                                
                                                                                                                                                                                                             
                                                                                                                                                                                                         
                                                                                                                                                                                                     
@@ -32283,9 +32327,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                                         > - Read and studied several reports from past audit contests
                                                                                                                                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                                         
-                                                                                                                                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        **Quoted post (full text):**
+                                                                                                                                                                                                        
+                                                                                                                                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                                            
+                                                                                                                                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                            - Metrics (at fetch): not returned
+                                                                                                                                                                                                            
+                                                                                                                                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                                            >
+                                                                                                                                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                                            > 🔎 Focus: Auditing
+                                                                                                                                                                                                            > 🛠️ Practical work:
+                                                                                                                                                                                                            > - Finished @autonolas on @code4rena
+                                                                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                            
+                                                                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                            
+                                                                                                                                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                            
                                                                                                                                                                                                         
                                                                                                                                                                                                     
                                                                                                                                                                                                 
@@ -33199,9 +33265,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                                     > - Read and studied several reports from past audit contests
                                                                                                                                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                                     
-                                                                                                                                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    **Quoted post (full text):**
+                                                                                                                                                                                                    
+                                                                                                                                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                        - Metrics (at fetch): not returned
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                                        >
+                                                                                                                                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                                        > 🔎 Focus: Auditing
+                                                                                                                                                                                                        > 🛠️ Practical work:
+                                                                                                                                                                                                        > - Finished @autonolas on @code4rena
+                                                                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                        
                                                                                                                                                                                                     
                                                                                                                                                                                                 
                                                                                                                                                                                             
@@ -34097,9 +34185,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                                 
-                                                                                                                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                
+                                                                                                                                                                                                **Quoted post (full text):**
+                                                                                                                                                                                                
+                                                                                                                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                    - Metrics (at fetch): not returned
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                                    >
+                                                                                                                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                                    > 🔎 Focus: Auditing
+                                                                                                                                                                                                    > 🛠️ Practical work:
+                                                                                                                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                    
                                                                                                                                                                                                 
                                                                                                                                                                                             
                                                                                                                                                                                         
@@ -34977,9 +35087,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                             > - Read and studied several reports from past audit contests
                                                                                                                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                             
-                                                                                                                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                            
+                                                                                                                                                                                            **Quoted post (full text):**
+                                                                                                                                                                                            
+                                                                                                                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                                
+                                                                                                                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                                - Metrics (at fetch): not returned
+                                                                                                                                                                                                
+                                                                                                                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                                >
+                                                                                                                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                                > 🔎 Focus: Auditing
+                                                                                                                                                                                                > 🛠️ Practical work:
+                                                                                                                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                
+                                                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                                
+                                                                                                                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                                
                                                                                                                                                                                             
                                                                                                                                                                                         
                                                                                                                                                                                     
@@ -35840,9 +35972,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                         > - Read and studied several reports from past audit contests
                                                                                                                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                         
-                                                                                                                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                        
+                                                                                                                                                                                        **Quoted post (full text):**
+                                                                                                                                                                                        
+                                                                                                                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                            
+                                                                                                                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                            - Metrics (at fetch): not returned
+                                                                                                                                                                                            
+                                                                                                                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                            >
+                                                                                                                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                            > 🔎 Focus: Auditing
+                                                                                                                                                                                            > 🛠️ Practical work:
+                                                                                                                                                                                            > - Finished @autonolas on @code4rena
+                                                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                            
+                                                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                            
+                                                                                                                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                            
                                                                                                                                                                                         
                                                                                                                                                                                     
                                                                                                                                                                                 
@@ -36687,9 +36841,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                     > - Read and studied several reports from past audit contests
                                                                                                                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                     
-                                                                                                                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                    
+                                                                                                                                                                                    **Quoted post (full text):**
+                                                                                                                                                                                    
+                                                                                                                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                        
+                                                                                                                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                        - Metrics (at fetch): not returned
+                                                                                                                                                                                        
+                                                                                                                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                        >
+                                                                                                                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                        > 🔎 Focus: Auditing
+                                                                                                                                                                                        > 🛠️ Practical work:
+                                                                                                                                                                                        > - Finished @autonolas on @code4rena
+                                                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                        
+                                                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                        
+                                                                                                                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                        
                                                                                                                                                                                     
                                                                                                                                                                                 
                                                                                                                                                                             
@@ -37517,9 +37693,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                                                                                                 
-                                                                                                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                
+                                                                                                                                                                                **Quoted post (full text):**
+                                                                                                                                                                                
+                                                                                                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                    
+                                                                                                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                    - Metrics (at fetch): not returned
+                                                                                                                                                                                    
+                                                                                                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                    >
+                                                                                                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                    > 🔎 Focus: Auditing
+                                                                                                                                                                                    > 🛠️ Practical work:
+                                                                                                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                    
+                                                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                    
+                                                                                                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                    
                                                                                                                                                                                 
                                                                                                                                                                             
                                                                                                                                                                         
@@ -38333,9 +38531,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                             > - Read and studied several reports from past audit contests
                                                                                                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                                                                                                             
-                                                                                                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                            
+                                                                                                                                                                            **Quoted post (full text):**
+                                                                                                                                                                            
+                                                                                                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                                
+                                                                                                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                                - Metrics (at fetch): not returned
+                                                                                                                                                                                
+                                                                                                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                                >
+                                                                                                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                                > 🔎 Focus: Auditing
+                                                                                                                                                                                > 🛠️ Practical work:
+                                                                                                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                
+                                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                                
+                                                                                                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                                
                                                                                                                                                                             
                                                                                                                                                                         
                                                                                                                                                                     
@@ -39132,9 +39352,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                         > - Read and studied several reports from past audit contests
                                                                                                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                                                                                                         
-                                                                                                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                        
+                                                                                                                                                                        **Quoted post (full text):**
+                                                                                                                                                                        
+                                                                                                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                            
+                                                                                                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                            - Metrics (at fetch): not returned
+                                                                                                                                                                            
+                                                                                                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                            >
+                                                                                                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                            > 🔎 Focus: Auditing
+                                                                                                                                                                            > 🛠️ Practical work:
+                                                                                                                                                                            > - Finished @autonolas on @code4rena
+                                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                            
+                                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                            
+                                                                                                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                            
                                                                                                                                                                         
                                                                                                                                                                     
                                                                                                                                                                 
@@ -39914,9 +40156,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                     > - Read and studied several reports from past audit contests
                                                                                                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                                                                                                     
-                                                                                                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                    
+                                                                                                                                                                    **Quoted post (full text):**
+                                                                                                                                                                    
+                                                                                                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                        
+                                                                                                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                        - Metrics (at fetch): not returned
+                                                                                                                                                                        
+                                                                                                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                        >
+                                                                                                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                        > 🔎 Focus: Auditing
+                                                                                                                                                                        > 🛠️ Practical work:
+                                                                                                                                                                        > - Finished @autonolas on @code4rena
+                                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                        
+                                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                        
+                                                                                                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                        
                                                                                                                                                                     
                                                                                                                                                                 
                                                                                                                                                             
@@ -40678,9 +40942,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                                                                                 
-                                                                                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                
+                                                                                                                                                                **Quoted post (full text):**
+                                                                                                                                                                
+                                                                                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                    
+                                                                                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                    - Metrics (at fetch): not returned
+                                                                                                                                                                    
+                                                                                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                    >
+                                                                                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                    > 🔎 Focus: Auditing
+                                                                                                                                                                    > 🛠️ Practical work:
+                                                                                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                    
+                                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                    
+                                                                                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                    
                                                                                                                                                                 
                                                                                                                                                             
                                                                                                                                                         
@@ -41426,9 +41712,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                             > - Read and studied several reports from past audit contests
                                                                                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                                                                                             
-                                                                                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                            
+                                                                                                                                                            **Quoted post (full text):**
+                                                                                                                                                            
+                                                                                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                                
+                                                                                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                                - Metrics (at fetch): not returned
+                                                                                                                                                                
+                                                                                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                                >
+                                                                                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                                > 🔎 Focus: Auditing
+                                                                                                                                                                > 🛠️ Practical work:
+                                                                                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                
+                                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                                
+                                                                                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                                
                                                                                                                                                             
                                                                                                                                                         
                                                                                                                                                     
@@ -42154,9 +42462,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                         > - Read and studied several reports from past audit contests
                                                                                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                                                                                         
-                                                                                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                        
+                                                                                                                                                        **Quoted post (full text):**
+                                                                                                                                                        
+                                                                                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                            
+                                                                                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                            - Metrics (at fetch): not returned
+                                                                                                                                                            
+                                                                                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                            >
+                                                                                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                            > 🔎 Focus: Auditing
+                                                                                                                                                            > 🛠️ Practical work:
+                                                                                                                                                            > - Finished @autonolas on @code4rena
+                                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                            
+                                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                            
+                                                                                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                            
                                                                                                                                                         
                                                                                                                                                     
                                                                                                                                                 
@@ -42864,9 +43194,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                     > - Read and studied several reports from past audit contests
                                                                                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                                                                                     
-                                                                                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                    
+                                                                                                                                                    **Quoted post (full text):**
+                                                                                                                                                    
+                                                                                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                        
+                                                                                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                        - Metrics (at fetch): not returned
+                                                                                                                                                        
+                                                                                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                        >
+                                                                                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                        > 🔎 Focus: Auditing
+                                                                                                                                                        > 🛠️ Practical work:
+                                                                                                                                                        > - Finished @autonolas on @code4rena
+                                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                        
+                                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                        
+                                                                                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                        
                                                                                                                                                     
                                                                                                                                                 
                                                                                                                                             
@@ -43555,9 +43907,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                                                                 
-                                                                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                                
+                                                                                                                                                **Quoted post (full text):**
+                                                                                                                                                
+                                                                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                    
+                                                                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                    - Metrics (at fetch): not returned
+                                                                                                                                                    
+                                                                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                    >
+                                                                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                    > 🔎 Focus: Auditing
+                                                                                                                                                    > 🛠️ Practical work:
+                                                                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                    
+                                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                    
+                                                                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                    
                                                                                                                                                 
                                                                                                                                             
                                                                                                                                         
@@ -44227,9 +44601,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                                             > - Read and studied several reports from past audit contests
                                                                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                                                                             
-                                                                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                            
+                                                                                                                                            **Quoted post (full text):**
+                                                                                                                                            
+                                                                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                                
+                                                                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                                - Metrics (at fetch): not returned
+                                                                                                                                                
+                                                                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                                >
+                                                                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                                > 🔎 Focus: Auditing
+                                                                                                                                                > 🛠️ Practical work:
+                                                                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                
+                                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                                
+                                                                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                                
                                                                                                                                             
                                                                                                                                         
                                                                                                                                     
@@ -44880,9 +45276,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                                         > - Read and studied several reports from past audit contests
                                                                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                                                                         
-                                                                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                        
+                                                                                                                                        **Quoted post (full text):**
+                                                                                                                                        
+                                                                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                            
+                                                                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                            - Metrics (at fetch): not returned
+                                                                                                                                            
+                                                                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                            >
+                                                                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                            > 🔎 Focus: Auditing
+                                                                                                                                            > 🛠️ Practical work:
+                                                                                                                                            > - Finished @autonolas on @code4rena
+                                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                            
+                                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                            
+                                                                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                            
                                                                                                                                         
                                                                                                                                     
                                                                                                                                 
@@ -45511,9 +45929,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                                     > - Read and studied several reports from past audit contests
                                                                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                                                                     
-                                                                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                    
+                                                                                                                                    **Quoted post (full text):**
+                                                                                                                                    
+                                                                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                        
+                                                                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                        - Metrics (at fetch): not returned
+                                                                                                                                        
+                                                                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                        >
+                                                                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                        > 🔎 Focus: Auditing
+                                                                                                                                        > 🛠️ Practical work:
+                                                                                                                                        > - Finished @autonolas on @code4rena
+                                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                        
+                                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                        
+                                                                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                        
                                                                                                                                     
                                                                                                                                 
                                                                                                                             
@@ -46128,9 +46568,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                                                 
-                                                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                                
+                                                                                                                                **Quoted post (full text):**
+                                                                                                                                
+                                                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                    
+                                                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                    - Metrics (at fetch): not returned
+                                                                                                                                    
+                                                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                    >
+                                                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                    > 🔎 Focus: Auditing
+                                                                                                                                    > 🛠️ Practical work:
+                                                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                    
+                                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                    
+                                                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                    
                                                                                                                                 
                                                                                                                             
                                                                                                                         
@@ -46727,9 +47189,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                             > - Read and studied several reports from past audit contests
                                                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                                                             
-                                                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                            
+                                                                                                                            **Quoted post (full text):**
+                                                                                                                            
+                                                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                                
+                                                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                                - Metrics (at fetch): not returned
+                                                                                                                                
+                                                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                                >
+                                                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                                > 🔎 Focus: Auditing
+                                                                                                                                > 🛠️ Practical work:
+                                                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                
+                                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                                
+                                                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                                
                                                                                                                             
                                                                                                                         
                                                                                                                     
@@ -47307,9 +47791,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                         > - Read and studied several reports from past audit contests
                                                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                                                         
-                                                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                        
+                                                                                                                        **Quoted post (full text):**
+                                                                                                                        
+                                                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                            
+                                                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                            - Metrics (at fetch): not returned
+                                                                                                                            
+                                                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                            >
+                                                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                            > 🔎 Focus: Auditing
+                                                                                                                            > 🛠️ Practical work:
+                                                                                                                            > - Finished @autonolas on @code4rena
+                                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                            
+                                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                            
+                                                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                            
                                                                                                                         
                                                                                                                     
                                                                                                                 
@@ -47864,9 +48370,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                     > - Read and studied several reports from past audit contests
                                                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                                                     
-                                                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                    
+                                                                                                                    **Quoted post (full text):**
+                                                                                                                    
+                                                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                        
+                                                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                        - Metrics (at fetch): not returned
+                                                                                                                        
+                                                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                        >
+                                                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                        > 🔎 Focus: Auditing
+                                                                                                                        > 🛠️ Practical work:
+                                                                                                                        > - Finished @autonolas on @code4rena
+                                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                        
+                                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                        
+                                                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                        
                                                                                                                     
                                                                                                                 
                                                                                                             
@@ -48403,9 +48931,31 @@ Tags (automatic): Platform: Immunefi
                                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                                 
-                                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                                
+                                                                                                                **Quoted post (full text):**
+                                                                                                                
+                                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                    
+                                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                    - Metrics (at fetch): not returned
+                                                                                                                    
+                                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                    >
+                                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                    > 🔎 Focus: Auditing
+                                                                                                                    > 🛠️ Practical work:
+                                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                    
+                                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                    
+                                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                    
                                                                                                                 
                                                                                                             
                                                                                                         
@@ -48926,9 +49476,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                             > - Read and studied several reports from past audit contests
                                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                                             
-                                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                            
+                                                                                                            **Quoted post (full text):**
+                                                                                                            
+                                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                                
+                                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                                - Metrics (at fetch): not returned
+                                                                                                                
+                                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                                >
+                                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                                > 🔎 Focus: Auditing
+                                                                                                                > 🛠️ Practical work:
+                                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                
+                                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                                
+                                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                                
                                                                                                             
                                                                                                         
                                                                                                     
@@ -49429,9 +50001,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                         > - Read and studied several reports from past audit contests
                                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                                         
-                                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                        
+                                                                                                        **Quoted post (full text):**
+                                                                                                        
+                                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                            
+                                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                            - Metrics (at fetch): not returned
+                                                                                                            
+                                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                            >
+                                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                            > 🔎 Focus: Auditing
+                                                                                                            > 🛠️ Practical work:
+                                                                                                            > - Finished @autonolas on @code4rena
+                                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                            
+                                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                            
+                                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                            
                                                                                                         
                                                                                                     
                                                                                                 
@@ -49912,9 +50506,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                     > - Read and studied several reports from past audit contests
                                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                                     
-                                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                    
+                                                                                                    **Quoted post (full text):**
+                                                                                                    
+                                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                        
+                                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                        - Metrics (at fetch): not returned
+                                                                                                        
+                                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                        >
+                                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                        > 🔎 Focus: Auditing
+                                                                                                        > 🛠️ Practical work:
+                                                                                                        > - Finished @autonolas on @code4rena
+                                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                        
+                                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                        
+                                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                        
                                                                                                     
                                                                                                 
                                                                                             
@@ -50377,9 +50993,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                                 > - Read and studied several reports from past audit contests
                                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                > @0xSimao Contest Academy (72/90)
                                                                                                 
-                                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                                
+                                                                                                **Quoted post (full text):**
+                                                                                                
+                                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                    
+                                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                    - Metrics (at fetch): not returned
+                                                                                                    
+                                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                    >
+                                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                    > 🔎 Focus: Auditing
+                                                                                                    > 🛠️ Practical work:
+                                                                                                    > - Finished @autonolas on @code4rena
+                                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                    
+                                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                    
+                                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                    
                                                                                                 
                                                                                             
                                                                                         
@@ -50822,9 +51460,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                             > - Read and studied several reports from past audit contests
                                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                            > @0xSimao Contest Academy (72/90)
                                                                                             
-                                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                            
+                                                                                            **Quoted post (full text):**
+                                                                                            
+                                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                                
+                                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                                - Metrics (at fetch): not returned
+                                                                                                
+                                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                                >
+                                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                                > 🔎 Focus: Auditing
+                                                                                                > 🛠️ Practical work:
+                                                                                                > - Finished @autonolas on @code4rena
+                                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                
+                                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                                
+                                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                                
                                                                                             
                                                                                         
                                                                                     
@@ -51248,9 +51908,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                         > - Read and studied several reports from past audit contests
                                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                        > @0xSimao Contest Academy (72/90)
                                                                                         
-                                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                        
+                                                                                        **Quoted post (full text):**
+                                                                                        
+                                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                            
+                                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                            - Metrics (at fetch): not returned
+                                                                                            
+                                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                            >
+                                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                                            > 🔎 Focus: Auditing
+                                                                                            > 🛠️ Practical work:
+                                                                                            > - Finished @autonolas on @code4rena
+                                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                            
+                                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                            
+                                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                            
                                                                                         
                                                                                     
                                                                                 
@@ -51650,9 +52332,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                     > - Read and studied several reports from past audit contests
                                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                    > @0xSimao Contest Academy (72/90)
                                                                                     
-                                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                    
+                                                                                    **Quoted post (full text):**
+                                                                                    
+                                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                        
+                                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                        - Metrics (at fetch): not returned
+                                                                                        
+                                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                        >
+                                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                                        > 🔎 Focus: Auditing
+                                                                                        > 🛠️ Practical work:
+                                                                                        > - Finished @autonolas on @code4rena
+                                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                        
+                                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                        
+                                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                        
                                                                                     
                                                                                 
                                                                             
@@ -52032,9 +52736,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                                 > - Read and studied several reports from past audit contests
                                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                > @0xSimao Contest Academy (72/90)
                                                                                 
-                                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                                
+                                                                                **Quoted post (full text):**
+                                                                                
+                                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                    
+                                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                    - Metrics (at fetch): not returned
+                                                                                    
+                                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                    >
+                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                    > 🔎 Focus: Auditing
+                                                                                    > 🛠️ Practical work:
+                                                                                    > - Finished @autonolas on @code4rena
+                                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                    
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                    
+                                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                    
                                                                                 
                                                                             
                                                                         
@@ -52395,9 +53121,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                             > - Read and studied several reports from past audit contests
                                                                             > - Watched @0xSimao Mentorship Series videos
                                                                             > - Watched @arsen_bt's Defendor session video
-                                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                            > @0xSimao Contest Academy (72/90)
                                                                             
-                                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                                - Metrics (at fetch): not returned
+                                                                                
+                                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Finished @autonolas on @code4rena
+                                                                                > - Studied different vulnerabilities using Anki cards
+                                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                                
+                                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                                
                                                                             
                                                                         
                                                                     
@@ -52741,9 +53489,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                         > - Read and studied several reports from past audit contests
                                                                         > - Watched @0xSimao Mentorship Series videos
                                                                         > - Watched @arsen_bt's Defendor session video
-                                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                        > @0xSimao Contest Academy (72/90)
                                                                         
-                                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                            - Metrics (at fetch): not returned
+                                                                            
+                                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Finished @autonolas on @code4rena
+                                                                            > - Studied different vulnerabilities using Anki cards
+                                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                            
+                                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                            
                                                                         
                                                                     
                                                                 
@@ -53070,9 +53840,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                     > - Read and studied several reports from past audit contests
                                                                     > - Watched @0xSimao Mentorship Series videos
                                                                     > - Watched @arsen_bt's Defendor session video
-                                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                    > @0xSimao Contest Academy (72/90)
                                                                     
-                                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                        - Metrics (at fetch): not returned
+                                                                        
+                                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Finished @autonolas on @code4rena
+                                                                        > - Studied different vulnerabilities using Anki cards
+                                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                        
+                                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                        
                                                                     
                                                                 
                                                             
@@ -53381,9 +54173,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                                 > - Read and studied several reports from past audit contests
                                                                 > - Watched @0xSimao Mentorship Series videos
                                                                 > - Watched @arsen_bt's Defendor session video
-                                                                > - Studied https://t.co/tx0MAt8PBx
+                                                                > - Studied different vulnerabilities using Anki cards
+                                                                > @0xSimao Contest Academy (72/90)
                                                                 
-                                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                    - Metrics (at fetch): not returned
+                                                                    
+                                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Finished @autonolas on @code4rena
+                                                                    > - Studied different vulnerabilities using Anki cards
+                                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                    
+                                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                    
                                                                 
                                                             
                                                         
@@ -53674,9 +54488,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                             > - Read and studied several reports from past audit contests
                                                             > - Watched @0xSimao Mentorship Series videos
                                                             > - Watched @arsen_bt's Defendor session video
-                                                            > - Studied https://t.co/tx0MAt8PBx
+                                                            > - Studied different vulnerabilities using Anki cards
+                                                            > @0xSimao Contest Academy (72/90)
                                                             
-                                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                                - Metrics (at fetch): not returned
+                                                                
+                                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Finished @autonolas on @code4rena
+                                                                > - Studied different vulnerabilities using Anki cards
+                                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                                
+                                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                                
                                                             
                                                         
                                                     
@@ -53949,9 +54785,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                         > - Read and studied several reports from past audit contests
                                                         > - Watched @0xSimao Mentorship Series videos
                                                         > - Watched @arsen_bt's Defendor session video
-                                                        > - Studied https://t.co/tx0MAt8PBx
+                                                        > - Studied different vulnerabilities using Anki cards
+                                                        > @0xSimao Contest Academy (72/90)
                                                         
-                                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                            - Metrics (at fetch): not returned
+                                                            
+                                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Finished @autonolas on @code4rena
+                                                            > - Studied different vulnerabilities using Anki cards
+                                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                            
+                                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                            
                                                         
                                                     
                                                 
@@ -54206,9 +55064,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                     > - Read and studied several reports from past audit contests
                                                     > - Watched @0xSimao Mentorship Series videos
                                                     > - Watched @arsen_bt's Defendor session video
-                                                    > - Studied https://t.co/tx0MAt8PBx
+                                                    > - Studied different vulnerabilities using Anki cards
+                                                    > @0xSimao Contest Academy (72/90)
                                                     
-                                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                        - Metrics (at fetch): not returned
+                                                        
+                                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Finished @autonolas on @code4rena
+                                                        > - Studied different vulnerabilities using Anki cards
+                                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                        
+                                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                        
                                                     
                                                 
                                             
@@ -54444,9 +55324,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                                 > - Read and studied several reports from past audit contests
                                                 > - Watched @0xSimao Mentorship Series videos
                                                 > - Watched @arsen_bt's Defendor session video
-                                                > - Studied https://t.co/tx0MAt8PBx
+                                                > - Studied different vulnerabilities using Anki cards
+                                                > @0xSimao Contest Academy (72/90)
                                                 
-                                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                    - Metrics (at fetch): not returned
+                                                    
+                                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Finished @autonolas on @code4rena
+                                                    > - Studied different vulnerabilities using Anki cards
+                                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                    
+                                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                    
                                                 
                                             
                                         
@@ -54665,9 +55567,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                             > - Read and studied several reports from past audit contests
                                             > - Watched @0xSimao Mentorship Series videos
                                             > - Watched @arsen_bt's Defendor session video
-                                            > - Studied https://t.co/tx0MAt8PBx
+                                            > - Studied different vulnerabilities using Anki cards
+                                            > @0xSimao Contest Academy (72/90)
                                             
-                                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                                - Metrics (at fetch): not returned
+                                                
+                                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Finished @autonolas on @code4rena
+                                                > - Studied different vulnerabilities using Anki cards
+                                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                                
+                                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                                
                                             
                                         
                                     
@@ -54869,9 +55793,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                         > - Read and studied several reports from past audit contests
                                         > - Watched @0xSimao Mentorship Series videos
                                         > - Watched @arsen_bt's Defendor session video
-                                        > - Studied https://t.co/tx0MAt8PBx
+                                        > - Studied different vulnerabilities using Anki cards
+                                        > @0xSimao Contest Academy (72/90)
                                         
-                                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                                            - Metrics (at fetch): not returned
+                                            
+                                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 6 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Finished @autonolas on @code4rena
+                                            > - Studied different vulnerabilities using Anki cards
+                                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                            
+                                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                            
                                         
                                     
                                 
@@ -55055,9 +56001,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                     > - Read and studied several reports from past audit contests
                                     > - Watched @0xSimao Mentorship Series videos
                                     > - Watched @arsen_bt's Defendor session video
-                                    > - Studied https://t.co/tx0MAt8PBx
+                                    > - Studied different vulnerabilities using Anki cards
+                                    > @0xSimao Contest Academy (72/90)
                                     
-                                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                                        - Metrics (at fetch): not returned
+                                        
+                                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 6 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Finished @autonolas on @code4rena
+                                        > - Studied different vulnerabilities using Anki cards
+                                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                        
+                                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                        
                                     
                                 
                             
@@ -55223,9 +56191,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                                 > - Read and studied several reports from past audit contests
                                 > - Watched @0xSimao Mentorship Series videos
                                 > - Watched @arsen_bt's Defendor session video
-                                > - Studied https://t.co/tx0MAt8PBx
+                                > - Studied different vulnerabilities using Anki cards
+                                > @0xSimao Contest Academy (72/90)
                                 
-                                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                                    - Metrics (at fetch): not returned
+                                    
+                                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 6 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Finished @autonolas on @code4rena
+                                    > - Studied different vulnerabilities using Anki cards
+                                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                    
+                                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                    
                                 
                             
                         
@@ -55373,9 +56363,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                             > - Read and studied several reports from past audit contests
                             > - Watched @0xSimao Mentorship Series videos
                             > - Watched @arsen_bt's Defendor session video
-                            > - Studied https://t.co/tx0MAt8PBx
+                            > - Studied different vulnerabilities using Anki cards
+                            > @0xSimao Contest Academy (72/90)
                             
-                            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2021023161295175853
+                                - Metrics (at fetch): not returned
+                                
+                                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 6 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Finished @autonolas on @code4rena
+                                > - Studied different vulnerabilities using Anki cards
+                                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                                
+                                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                                
                             
                         
                     
@@ -55505,9 +56517,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                         > - Read and studied several reports from past audit contests
                         > - Watched @0xSimao Mentorship Series videos
                         > - Watched @arsen_bt's Defendor session video
-                        > - Studied https://t.co/tx0MAt8PBx
+                        > - Studied different vulnerabilities using Anki cards
+                        > @0xSimao Contest Academy (72/90)
                         
-                        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2021023161295175853
+                            - Metrics (at fetch): not returned
+                            
+                            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 6 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Finished @autonolas on @code4rena
+                            > - Studied different vulnerabilities using Anki cards
+                            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                            
+                            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                            
                         
                     
                 
@@ -55618,9 +56652,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                     > - Read and studied several reports from past audit contests
                     > - Watched @0xSimao Mentorship Series videos
                     > - Watched @arsen_bt's Defendor session video
-                    > - Studied https://t.co/tx0MAt8PBx
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (72/90)
                     
-                    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2021023161295175853
+                        - Metrics (at fetch): not returned
+                        
+                        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 6 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Finished @autonolas on @code4rena
+                        > - Studied different vulnerabilities using Anki cards
+                        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                        
+                        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                        
                     
                 
             
@@ -55713,9 +56769,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
                 > - Read and studied several reports from past audit contests
                 > - Watched @0xSimao Mentorship Series videos
                 > - Watched @arsen_bt's Defendor session video
-                > - Studied https://t.co/tx0MAt8PBx
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (72/90)
                 
-                **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+                **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2021023161295175853
+                    - Metrics (at fetch): not returned
+                    
+                    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 6 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Finished @autonolas on @code4rena
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                    
+                    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                    
                 
             
         
@@ -55790,9 +56868,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
             > - Read and studied several reports from past audit contests
             > - Watched @0xSimao Mentorship Series videos
             > - Watched @arsen_bt's Defendor session video
-            > - Studied https://t.co/tx0MAt8PBx
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (72/90)
             
-            **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+            **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2021023161295175853
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Finished @autonolas on @code4rena
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+                
+                **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+                
             
         
     
@@ -55850,9 +56950,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
         > - Read and studied several reports from past audit contests
         > - Watched @0xSimao Mentorship Series videos
         > - Watched @arsen_bt's Defendor session video
-        > - Studied https://t.co/tx0MAt8PBx
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (72/90)
         
-        **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+        **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2021023161295175853
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Finished @autonolas on @code4rena
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+            
+            **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+            
         
     
 
@@ -55892,9 +57014,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     > - Read and studied several reports from past audit contests
     > - Watched @0xSimao Mentorship Series videos
     > - Watched @arsen_bt's Defendor session video
-    > - Studied https://t.co/tx0MAt8PBx
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (72/90)
     
-    **Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+    **Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2021023161295175853
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Finished @autonolas on @code4rena
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+        
+        **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+        
     
 
 
@@ -55916,6 +57060,2081 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > - Read and studied several reports from past audit contests
 > - Watched @0xSimao Mentorship Series videos
 > - Watched @arsen_bt's Defendor session video
-> - Studied https://t.co/tx0MAt8PBx
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (72/90)
 
-**Quoted post** 2021023161295175853: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/anchabadze/status/2021023161295175853
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2021023161295175853
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Finished @autonolas on @code4rena
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+    
+    **Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-02-10 · Post · 🎯 Day 290 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-02-10 00:47 UTC (2026-02-10 01:47 WAT)
+
+- URL: https://x.com/anchabadze/status/2021023161295175853
+- Metrics (at fetch): not returned
+
+> 🎯 Day 290 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Finished @autonolas on @code4rena
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (71/90) https://twitter.com/anchabadze/status/2020676138054361410
+
+**Links in post:** https://twitter.com/anchabadze/status/2020676138054361410
+
+**Quoted post** 2020676138054361410: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-02-05 · Post · 🎯 Day 286 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-02-05 22:48 UTC (2026-02-05 23:48 WAT)
+
+- URL: https://x.com/anchabadze/status/2019543799421124994
+- Metrics (at fetch): not returned
+
+> 🎯 Day 286 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued @autonolas on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (67/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2019174030981623927
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-02-04 22:19 UTC (2026-02-04 23:19 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2019174030981623927
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 285 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued @autonolas on @code4rena
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (66/90) https://twitter.com/anchabadze/status/2018806647074828695
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2018806647074828695
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-02-03 21:59 UTC (2026-02-03 22:59 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2018806647074828695
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 284 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hour 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued @autonolas on @code4rena
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (65/90)
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2018446929848389660
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-02-02 22:10 UTC (2026-02-02 23:10 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2018446929848389660
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 283 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hour 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued @autonolas on @code4rena
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (64/90) https://twitter.com/anchabadze/status/2018277087786709031
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2018277087786709031
+            
+            **Quoted post** 2018277087786709031: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2026-02-04 · Post · 🎯 Day 285 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-02-04 22:19 UTC (2026-02-04 23:19 WAT)
+
+- URL: https://x.com/anchabadze/status/2019174030981623927
+- Metrics (at fetch): not returned
+
+> 🎯 Day 285 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued @autonolas on @code4rena
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (66/90) https://twitter.com/anchabadze/status/2018806647074828695
+
+**Links in post:** https://twitter.com/anchabadze/status/2018806647074828695
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-02-03 21:59 UTC (2026-02-03 22:59 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2018806647074828695
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 284 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hour 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued @autonolas on @code4rena
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (65/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2018446929848389660
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-02-02 22:10 UTC (2026-02-02 23:10 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2018446929848389660
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 283 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hour 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued @autonolas on @code4rena
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (64/90) https://twitter.com/anchabadze/status/2018277087786709031
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2018277087786709031
+        
+        **Quoted post** 2018277087786709031: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2026-02-03 · Post · 🎯 Day 284 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-02-03 21:59 UTC (2026-02-03 22:59 WAT)
+
+- URL: https://x.com/anchabadze/status/2018806647074828695
+- Metrics (at fetch): not returned
+
+> 🎯 Day 284 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hour 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued @autonolas on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (65/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2018446929848389660
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-02-02 22:10 UTC (2026-02-02 23:10 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2018446929848389660
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 283 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hour 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued @autonolas on @code4rena
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (64/90) https://twitter.com/anchabadze/status/2018277087786709031
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2018277087786709031
+    
+    **Quoted post** 2018277087786709031: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-02-02 · Post · 🎯 Day 283 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-02-02 22:10 UTC (2026-02-02 23:10 WAT)
+
+- URL: https://x.com/anchabadze/status/2018446929848389660
+- Metrics (at fetch): not returned
+
+> 🎯 Day 283 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hour 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued @autonolas on @code4rena
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (64/90) https://twitter.com/anchabadze/status/2018277087786709031
+
+**Links in post:** https://twitter.com/anchabadze/status/2018277087786709031
+
+**Quoted post** 2018277087786709031: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-30 · Post · 🎯 Day 280 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-30 22:26 UTC (2026-01-30 23:26 WAT)
+
+- URL: https://x.com/anchabadze/status/2017363916733685775
+- Metrics (at fetch): not returned
+
+> 🎯 Day 280 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued @autonolas on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (61/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2016987548871249987
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-29 21:31 UTC (2026-01-29 22:31 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2016987548871249987
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 279 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued @autonolas on @code4rena
+    > - Watched @arsen_bt's Defendor 2nd session video
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (60/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2016680180933173563
+    
+    **Quoted post** 2016680180933173563: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-01-29 · Post · 🎯 Day 279 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-29 21:31 UTC (2026-01-29 22:31 WAT)
+
+- URL: https://x.com/anchabadze/status/2016987548871249987
+- Metrics (at fetch): not returned
+
+> 🎯 Day 279 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued @autonolas on @code4rena
+> - Watched @arsen_bt's Defendor 2nd session video
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (60/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2016680180933173563
+
+**Quoted post** 2016680180933173563: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-20 · Post · 🎯 Day 270 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-20 21:59 UTC (2026-01-20 22:59 WAT)
+
+- URL: https://x.com/anchabadze/status/2013733197528309903
+- Metrics (at fetch): not returned
+
+> 🎯 Day 270 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Started auditing @OpenCover on @sherlockdefi
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (51/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2013418733717307449
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-20 01:10 UTC (2026-01-20 02:10 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2013418733717307449
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 269 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (50/90) https://twitter.com/anchabadze/status/2013053401941107010
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2013053401941107010
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-19 00:58 UTC (2026-01-19 01:58 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2013053401941107010
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 268 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (49/90) https://twitter.com/anchabadze/status/2012651524736880803
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2012651524736880803
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-01-17 22:21 UTC (2026-01-17 23:21 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2012651524736880803
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 267 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 2 hours 30 min
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (48/90) https://twitter.com/anchabadze/status/2012330136591380942
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2012330136591380942
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-01-17 01:04 UTC (2026-01-17 02:04 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2012330136591380942
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 266 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Finished auditing @flyingtulip_ on @sherlockdefi
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (47/90)
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2012086277101785094
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-01-16 08:55 UTC (2026-01-16 09:55 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2012086277101785094
+                    - Metrics (at fetch): not returned
+                    
+                    > 🎯 Day 265 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 4 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Continued auditing @flyingtulip_ on @sherlockdefi
+                    > - Read and studied several reports from past audit contests
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (46/90)
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2011719688087347463
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-01-15 08:38 UTC (2026-01-15 09:38 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2011719688087347463
+                        - Metrics (at fetch): not returned
+                        
+                        > 🎯 Day 264 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 1 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Continued auditing @flyingtulip_ on @sherlockdefi
+                        > - Studied different vulnerabilities using Anki cards
+                        > @0xSimao Contest Academy (45/90) https://twitter.com/anchabadze/status/2011243484456665459
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2011243484456665459
+                        
+                        **Quoted post** 2011243484456665459: not readable via the API (deleted, private, or withheld).
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-01-20 · Post · 🎯 Day 269 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-01-20 01:10 UTC (2026-01-20 02:10 WAT)
+
+- URL: https://x.com/anchabadze/status/2013418733717307449
+- Metrics (at fetch): not returned
+
+> 🎯 Day 269 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (50/90) https://twitter.com/anchabadze/status/2013053401941107010
+
+**Links in post:** https://twitter.com/anchabadze/status/2013053401941107010
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-19 00:58 UTC (2026-01-19 01:58 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2013053401941107010
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 268 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (49/90) https://twitter.com/anchabadze/status/2012651524736880803
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2012651524736880803
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-17 22:21 UTC (2026-01-17 23:21 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2012651524736880803
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 267 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 2 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (48/90) https://twitter.com/anchabadze/status/2012330136591380942
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2012330136591380942
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-01-17 01:04 UTC (2026-01-17 02:04 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2012330136591380942
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 266 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Finished auditing @flyingtulip_ on @sherlockdefi
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (47/90)
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2012086277101785094
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-01-16 08:55 UTC (2026-01-16 09:55 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2012086277101785094
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 265 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 4 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @flyingtulip_ on @sherlockdefi
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (46/90)
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2011719688087347463
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-01-15 08:38 UTC (2026-01-15 09:38 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2011719688087347463
+                    - Metrics (at fetch): not returned
+                    
+                    > 🎯 Day 264 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 1 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Continued auditing @flyingtulip_ on @sherlockdefi
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (45/90) https://twitter.com/anchabadze/status/2011243484456665459
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2011243484456665459
+                    
+                    **Quoted post** 2011243484456665459: not readable via the API (deleted, private, or withheld).
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2026-01-19 · Post · 🎯 Day 268 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-01-19 00:58 UTC (2026-01-19 01:58 WAT)
+
+- URL: https://x.com/anchabadze/status/2013053401941107010
+- Metrics (at fetch): not returned
+
+> 🎯 Day 268 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (49/90) https://twitter.com/anchabadze/status/2012651524736880803
+
+**Links in post:** https://twitter.com/anchabadze/status/2012651524736880803
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-17 22:21 UTC (2026-01-17 23:21 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2012651524736880803
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 267 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (48/90) https://twitter.com/anchabadze/status/2012330136591380942
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2012330136591380942
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-17 01:04 UTC (2026-01-17 02:04 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2012330136591380942
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 266 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Finished auditing @flyingtulip_ on @sherlockdefi
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (47/90)
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2012086277101785094
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-01-16 08:55 UTC (2026-01-16 09:55 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2012086277101785094
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 265 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @flyingtulip_ on @sherlockdefi
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (46/90)
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2011719688087347463
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-01-15 08:38 UTC (2026-01-15 09:38 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2011719688087347463
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 264 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 1 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @flyingtulip_ on @sherlockdefi
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (45/90) https://twitter.com/anchabadze/status/2011243484456665459
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2011243484456665459
+                
+                **Quoted post** 2011243484456665459: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2026-01-17 · Post · 🎯 Day 267 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-01-17 22:21 UTC (2026-01-17 23:21 WAT)
+
+- URL: https://x.com/anchabadze/status/2012651524736880803
+- Metrics (at fetch): not returned
+
+> 🎯 Day 267 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (48/90) https://twitter.com/anchabadze/status/2012330136591380942
+
+**Links in post:** https://twitter.com/anchabadze/status/2012330136591380942
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-17 01:04 UTC (2026-01-17 02:04 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2012330136591380942
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 266 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Finished auditing @flyingtulip_ on @sherlockdefi
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (47/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2012086277101785094
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-16 08:55 UTC (2026-01-16 09:55 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2012086277101785094
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 265 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @flyingtulip_ on @sherlockdefi
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (46/90)
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2011719688087347463
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-01-15 08:38 UTC (2026-01-15 09:38 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2011719688087347463
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 264 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 1 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @flyingtulip_ on @sherlockdefi
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (45/90) https://twitter.com/anchabadze/status/2011243484456665459
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2011243484456665459
+            
+            **Quoted post** 2011243484456665459: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2026-01-17 · Post · 🎯 Day 266 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-17 01:04 UTC (2026-01-17 02:04 WAT)
+
+- URL: https://x.com/anchabadze/status/2012330136591380942
+- Metrics (at fetch): not returned
+
+> 🎯 Day 266 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Finished auditing @flyingtulip_ on @sherlockdefi
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (47/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2012086277101785094
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-16 08:55 UTC (2026-01-16 09:55 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2012086277101785094
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 265 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @flyingtulip_ on @sherlockdefi
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (46/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2011719688087347463
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-15 08:38 UTC (2026-01-15 09:38 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2011719688087347463
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 264 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 1 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @flyingtulip_ on @sherlockdefi
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (45/90) https://twitter.com/anchabadze/status/2011243484456665459
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2011243484456665459
+        
+        **Quoted post** 2011243484456665459: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2026-01-16 · Post · 🎯 Day 265 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-16 08:55 UTC (2026-01-16 09:55 WAT)
+
+- URL: https://x.com/anchabadze/status/2012086277101785094
+- Metrics (at fetch): not returned
+
+> 🎯 Day 265 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @flyingtulip_ on @sherlockdefi
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (46/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2011719688087347463
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-15 08:38 UTC (2026-01-15 09:38 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2011719688087347463
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 264 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 1 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @flyingtulip_ on @sherlockdefi
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (45/90) https://twitter.com/anchabadze/status/2011243484456665459
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2011243484456665459
+    
+    **Quoted post** 2011243484456665459: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-01-15 · Post · 🎯 Day 264 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-15 08:38 UTC (2026-01-15 09:38 WAT)
+
+- URL: https://x.com/anchabadze/status/2011719688087347463
+- Metrics (at fetch): not returned
+
+> 🎯 Day 264 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 1 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @flyingtulip_ on @sherlockdefi
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (45/90) https://twitter.com/anchabadze/status/2011243484456665459
+
+**Links in post:** https://twitter.com/anchabadze/status/2011243484456665459
+
+**Quoted post** 2011243484456665459: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-13 · Post · 🎯 Day 262 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-13 01:17 UTC (2026-01-13 02:17 WAT)
+
+- URL: https://x.com/anchabadze/status/2010883934624649397
+- Metrics (at fetch): not returned
+
+> 🎯 Day 262 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @flyingtulip_ on @sherlockdefi
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (43/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2010520912739602869
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-12 01:15 UTC (2026-01-12 02:15 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2010520912739602869
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 261 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @flyingtulip_ on @sherlockdefi
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (42/90) https://twitter.com/anchabadze/status/2010271908147994938
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2010271908147994938
+    
+    **Quoted post** 2010271908147994938: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-01-12 · Post · 🎯 Day 261 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-12 01:15 UTC (2026-01-12 02:15 WAT)
+
+- URL: https://x.com/anchabadze/status/2010520912739602869
+- Metrics (at fetch): not returned
+
+> 🎯 Day 261 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @flyingtulip_ on @sherlockdefi
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (42/90) https://twitter.com/anchabadze/status/2010271908147994938
+
+**Links in post:** https://twitter.com/anchabadze/status/2010271908147994938
+
+**Quoted post** 2010271908147994938: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-09 · Post · 🎯 Day 259 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-09 22:22 UTC (2026-01-09 23:22 WAT)
+
+- URL: https://x.com/anchabadze/status/2009752660342439956
+- Metrics (at fetch): not returned
+
+> 🎯 Day 259 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @flyingtulip_ on @sherlockdefi
+> - Finished studying the Compound v3 Book by @RareSkills_io
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (40/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2009400464811643134
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-08 23:02 UTC (2026-01-09 00:02 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2009400464811643134
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 258 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Started auditing @flyingtulip_ on @sherlockdefi
+    > - Continued studying the Compound v3 Book by @RareSkills_io
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (39/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2009010281616388244
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-07 21:12 UTC (2026-01-07 22:12 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2009010281616388244
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 257 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Continued studying the Compound v3 Book by @RareSkills_io
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (38/90)
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2008704697444516288
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-01-07 00:58 UTC (2026-01-07 01:58 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2008704697444516288
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 256 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked:  6 hours
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - Continued studying the Compound v3 Book by @RareSkills_io
+            > - Read and studied a couple of audit reports 
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (37/90)
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2008299620598792643
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-01-05 22:08 UTC (2026-01-05 23:08 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2008299620598792643
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 255 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Finished auditing @Panoptic_xyz on @code4rena
+                > - Continued studying the Compound v3 Book by @RareSkills_io
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (36/90)
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2007951977792381417
+                
+                **Quoted post** 2007951977792381417: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2026-01-08 · Post · 🎯 Day 258 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-08 23:02 UTC (2026-01-09 00:02 WAT)
+
+- URL: https://x.com/anchabadze/status/2009400464811643134
+- Metrics (at fetch): not returned
+
+> 🎯 Day 258 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Started auditing @flyingtulip_ on @sherlockdefi
+> - Continued studying the Compound v3 Book by @RareSkills_io
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (39/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2009010281616388244
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-07 21:12 UTC (2026-01-07 22:12 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2009010281616388244
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 257 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Continued studying the Compound v3 Book by @RareSkills_io
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (38/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2008704697444516288
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-07 00:58 UTC (2026-01-07 01:58 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2008704697444516288
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 256 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked:  6 hours
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Continued studying the Compound v3 Book by @RareSkills_io
+        > - Read and studied a couple of audit reports 
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (37/90)
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2008299620598792643
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-01-05 22:08 UTC (2026-01-05 23:08 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2008299620598792643
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 255 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Finished auditing @Panoptic_xyz on @code4rena
+            > - Continued studying the Compound v3 Book by @RareSkills_io
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (36/90)
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2007951977792381417
+            
+            **Quoted post** 2007951977792381417: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2026-01-07 · Post · 🎯 Day 257 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-01-07 21:12 UTC (2026-01-07 22:12 WAT)
+
+- URL: https://x.com/anchabadze/status/2009010281616388244
+- Metrics (at fetch): not returned
+
+> 🎯 Day 257 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Continued studying the Compound v3 Book by @RareSkills_io
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (38/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2008704697444516288
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-07 00:58 UTC (2026-01-07 01:58 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2008704697444516288
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 256 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked:  6 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Continued studying the Compound v3 Book by @RareSkills_io
+    > - Read and studied a couple of audit reports 
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (37/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2008299620598792643
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-01-05 22:08 UTC (2026-01-05 23:08 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2008299620598792643
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 255 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Finished auditing @Panoptic_xyz on @code4rena
+        > - Continued studying the Compound v3 Book by @RareSkills_io
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (36/90)
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2007951977792381417
+        
+        **Quoted post** 2007951977792381417: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2026-01-07 · Post · 🎯 Day 256 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-01-07 00:58 UTC (2026-01-07 01:58 WAT)
+
+- URL: https://x.com/anchabadze/status/2008704697444516288
+- Metrics (at fetch): not returned
+
+> 🎯 Day 256 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked:  6 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Continued studying the Compound v3 Book by @RareSkills_io
+> - Read and studied a couple of audit reports 
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (37/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2008299620598792643
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-05 22:08 UTC (2026-01-05 23:08 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2008299620598792643
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 255 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Finished auditing @Panoptic_xyz on @code4rena
+    > - Continued studying the Compound v3 Book by @RareSkills_io
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (36/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2007951977792381417
+    
+    **Quoted post** 2007951977792381417: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-01-05 · Post · 🎯 Day 255 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-05 22:08 UTC (2026-01-05 23:08 WAT)
+
+- URL: https://x.com/anchabadze/status/2008299620598792643
+- Metrics (at fetch): not returned
+
+> 🎯 Day 255 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Finished auditing @Panoptic_xyz on @code4rena
+> - Continued studying the Compound v3 Book by @RareSkills_io
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (36/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2007951977792381417
+
+**Quoted post** 2007951977792381417: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-02 · Post · 🎯 Day 251 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2026-01-02 00:25 UTC (2026-01-02 01:25 WAT)
+
+- URL: https://x.com/anchabadze/status/2006884557383999496
+- Metrics (at fetch): not returned
+
+> 🎯 Day 251 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @Panoptic_xyz on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (32/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2006693913915204022
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-01-01 11:48 UTC (2026-01-01 12:48 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2006693913915204022
+    - Metrics (at fetch): not returned
+    
+    > Happy New Year!
+    >
+    > 🎯 Day 250 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - I read two articles by @RareSkills_io
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (31/90) https://twitter.com/anchabadze/status/2006126362549977433
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2006126362549977433
+    
+    **Quoted post** 2006126362549977433: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-01-01 · Post · Happy New Year!
+
+
+### Post — @anchabadze — 2026-01-01 11:48 UTC (2026-01-01 12:48 WAT)
+
+- URL: https://x.com/anchabadze/status/2006693913915204022
+- Metrics (at fetch): not returned
+
+> Happy New Year!
+>
+> 🎯 Day 250 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - I read two articles by @RareSkills_io
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (31/90) https://twitter.com/anchabadze/status/2006126362549977433
+
+**Links in post:** https://twitter.com/anchabadze/status/2006126362549977433
+
+**Quoted post** 2006126362549977433: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-27 · Post · 🎯 Day 245 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-27 10:02 UTC (2025-12-27 11:02 WAT)
+
+- URL: https://x.com/anchabadze/status/2004855312554000869
+- Metrics (at fetch): not returned
+
+> 🎯 Day 245 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @Panoptic_xyz on @code4rena
+> - Read and studied several reports from past audit contests
+> - Watched @0xSimao's Mentorship Series 
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (26/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2004470340001374267
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-26 08:32 UTC (2025-12-26 09:32 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2004470340001374267
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 244 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @Panoptic_xyz on @code4rena
+    > - Learn EVM
+    > - Watched @0xSimao's Mentorship Series 
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (25/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2003948135002038488
+    
+    **Quoted post** 2003948135002038488: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-12-26 · Post · 🎯 Day 244 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-26 08:32 UTC (2025-12-26 09:32 WAT)
+
+- URL: https://x.com/anchabadze/status/2004470340001374267
+- Metrics (at fetch): not returned
+
+> 🎯 Day 244 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @Panoptic_xyz on @code4rena
+> - Learn EVM
+> - Watched @0xSimao's Mentorship Series 
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (25/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2003948135002038488
+
+**Quoted post** 2003948135002038488: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-20 · Post · 🎯 Day 239 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-20 21:54 UTC (2025-12-20 22:54 WAT)
+
+- URL: https://x.com/anchabadze/status/2002497860185768336
+- Metrics (at fetch): not returned
+
+> 🎯 Day 239 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Watched @0xSimao's Mentorship Series 
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (20/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2002135271350091886
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-19 21:53 UTC (2025-12-19 22:53 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2002135271350091886
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 238 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Watched @0xSimao's Mentorship Series 
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (19/90)
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2001769815845773399
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-18 21:41 UTC (2025-12-18 22:41 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2001769815845773399
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 237 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (18/90) https://twitter.com/anchabadze/status/2001457355087663208
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2001457355087663208
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-18 00:59 UTC (2025-12-18 01:59 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2001457355087663208
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 236 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours 30 min
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (17/90) https://twitter.com/anchabadze/status/2001087808891498638
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2001087808891498638
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-17 00:31 UTC (2025-12-17 01:31 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2001087808891498638
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 235 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours
+                > 🔎 Focus: Learning
+                > 🛠️ Practical work:
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (16/90) https://twitter.com/anchabadze/status/2000730584310489491
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2000730584310489491
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-12-16 00:51 UTC (2025-12-16 01:51 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2000730584310489491
+                    - Metrics (at fetch): not returned
+                    
+                    > 🎯 Day 234 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 5 hours 30 min
+                    > 🔎 Focus: Learning
+                    > 🛠️ Practical work:
+                    > - Read and studied several reports from past audit contests
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (15/90) https://twitter.com/anchabadze/status/2000363949284327584
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2000363949284327584
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2000363949284327584
+                        - Metrics (at fetch): not returned
+                        
+                        > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours
+                        > 🔎 Focus: Learning
+                        > 🛠️ Practical work:
+                        > - Read and studied several reports from past audit contests
+                        > - Studied different vulnerabilities using Anki cards
+                        > @0xSimao Contest Academy (14/90) https://twitter.com/anchabadze/status/1999954150726258835
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
+                        
+                        **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+                        
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2025-12-19 · Post · 🎯 Day 238 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-19 21:53 UTC (2025-12-19 22:53 WAT)
+
+- URL: https://x.com/anchabadze/status/2002135271350091886
+- Metrics (at fetch): not returned
+
+> 🎯 Day 238 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Watched @0xSimao's Mentorship Series 
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (19/90)
+
+**Links in post:** https://twitter.com/anchabadze/status/2001769815845773399
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-18 21:41 UTC (2025-12-18 22:41 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2001769815845773399
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 237 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (18/90) https://twitter.com/anchabadze/status/2001457355087663208
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2001457355087663208
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-18 00:59 UTC (2025-12-18 01:59 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2001457355087663208
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 236 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (17/90) https://twitter.com/anchabadze/status/2001087808891498638
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2001087808891498638
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-17 00:31 UTC (2025-12-17 01:31 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2001087808891498638
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 235 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (16/90) https://twitter.com/anchabadze/status/2000730584310489491
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2000730584310489491
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-16 00:51 UTC (2025-12-16 01:51 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2000730584310489491
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 234 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours 30 min
+                > 🔎 Focus: Learning
+                > 🛠️ Practical work:
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (15/90) https://twitter.com/anchabadze/status/2000363949284327584
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2000363949284327584
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2000363949284327584
+                    - Metrics (at fetch): not returned
+                    
+                    > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours
+                    > 🔎 Focus: Learning
+                    > 🛠️ Practical work:
+                    > - Read and studied several reports from past audit contests
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (14/90) https://twitter.com/anchabadze/status/1999954150726258835
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
+                    
+                    **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2025-12-18 · Post · 🎯 Day 237 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-18 21:41 UTC (2025-12-18 22:41 WAT)
+
+- URL: https://x.com/anchabadze/status/2001769815845773399
+- Metrics (at fetch): not returned
+
+> 🎯 Day 237 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (18/90) https://twitter.com/anchabadze/status/2001457355087663208
+
+**Links in post:** https://twitter.com/anchabadze/status/2001457355087663208
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-18 00:59 UTC (2025-12-18 01:59 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2001457355087663208
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 236 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (17/90) https://twitter.com/anchabadze/status/2001087808891498638
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2001087808891498638
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-17 00:31 UTC (2025-12-17 01:31 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2001087808891498638
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 235 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (16/90) https://twitter.com/anchabadze/status/2000730584310489491
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2000730584310489491
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-16 00:51 UTC (2025-12-16 01:51 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2000730584310489491
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 234 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours 30 min
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (15/90) https://twitter.com/anchabadze/status/2000363949284327584
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2000363949284327584
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2000363949284327584
+                - Metrics (at fetch): not returned
+                
+                > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours
+                > 🔎 Focus: Learning
+                > 🛠️ Practical work:
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (14/90) https://twitter.com/anchabadze/status/1999954150726258835
+                
+                **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
+                
+                **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2025-12-18 · Post · 🎯 Day 236 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-18 00:59 UTC (2025-12-18 01:59 WAT)
+
+- URL: https://x.com/anchabadze/status/2001457355087663208
+- Metrics (at fetch): not returned
+
+> 🎯 Day 236 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (17/90) https://twitter.com/anchabadze/status/2001087808891498638
+
+**Links in post:** https://twitter.com/anchabadze/status/2001087808891498638
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-17 00:31 UTC (2025-12-17 01:31 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2001087808891498638
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 235 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (16/90) https://twitter.com/anchabadze/status/2000730584310489491
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2000730584310489491
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-16 00:51 UTC (2025-12-16 01:51 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2000730584310489491
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 234 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (15/90) https://twitter.com/anchabadze/status/2000363949284327584
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2000363949284327584
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2000363949284327584
+            - Metrics (at fetch): not returned
+            
+            > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (14/90) https://twitter.com/anchabadze/status/1999954150726258835
+            
+            **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
+            
+            **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2025-12-17 · Post · 🎯 Day 235 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-17 00:31 UTC (2025-12-17 01:31 WAT)
+
+- URL: https://x.com/anchabadze/status/2001087808891498638
+- Metrics (at fetch): not returned
+
+> 🎯 Day 235 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (16/90) https://twitter.com/anchabadze/status/2000730584310489491
+
+**Links in post:** https://twitter.com/anchabadze/status/2000730584310489491
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-16 00:51 UTC (2025-12-16 01:51 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2000730584310489491
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 234 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (15/90) https://twitter.com/anchabadze/status/2000363949284327584
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2000363949284327584
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2000363949284327584
+        - Metrics (at fetch): not returned
+        
+        > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (14/90) https://twitter.com/anchabadze/status/1999954150726258835
+        
+        **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
+        
+        **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-12-16 · Post · 🎯 Day 234 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-16 00:51 UTC (2025-12-16 01:51 WAT)
+
+- URL: https://x.com/anchabadze/status/2000730584310489491
+- Metrics (at fetch): not returned
+
+> 🎯 Day 234 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (15/90) https://twitter.com/anchabadze/status/2000363949284327584
+
+**Links in post:** https://twitter.com/anchabadze/status/2000363949284327584
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2000363949284327584
+    - Metrics (at fetch): not returned
+    
+    > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (14/90) https://twitter.com/anchabadze/status/1999954150726258835
+    
+    **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
+    
+    **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-12-15 · Post · 🎯 Day 233 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
+
+- URL: https://x.com/anchabadze/status/2000363949284327584
+- Metrics (at fetch): not returned
+
+> 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (14/90) https://twitter.com/anchabadze/status/1999954150726258835
+
+**Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
+
+**Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 90
-- Conversations/threads: 79
-- Oldest post captured: 2025-03-25
+- Posts in this file: 98
+- Conversations/threads: 87
+- Oldest post captured: 2024-12-06
 - Newest post captured: 2026-11-10
 
 
@@ -1799,3 +1799,200 @@ Tags (automatic): SSRF
     **Media:**
     - media `3_1904212513069133824` (details not returned by the API)
     
+
+
+---
+
+## 2025-01-29 · Post · Critical vulnerabilities doesn't have to be complex or have a CVE - @deepseek_ai publicly exposed th
+
+
+### Post — @galnagli — 2025-01-29 21:48 UTC (2025-01-29 22:48 WAT)
+
+- URL: https://x.com/galnagli/status/1884720268150468825
+- Metrics (at fetch): bookmark 1555, impression 325430, like 2216, quote 39, reply 47, retweet 368
+
+> Critical vulnerabilities doesn't have to be complex or have a CVE - @deepseek_ai publicly exposed their internal ClickHouse database to the world, without any authentication at all, and leaked sensitive data.
+>
+> No one is safe from security mistakes, follow along to learn more 🧵 https://t.co/pCsB7x2kwC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GifaiygWgAAcSmP.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-11 · Post · 🚨The new unauthenticated RCE affecting Aviatrix Controllers (CVE-2024-50603) is the real deal - with
+
+
+Tags (automatic): RCE
+
+
+### Post — @galnagli — 2025-01-11 18:34 UTC (2025-01-11 19:34 WAT)
+
+- URL: https://x.com/galnagli/status/1878148526753931401
+- Metrics (at fetch): bookmark 142, impression 20309, like 286, quote 1, reply 1, retweet 41
+
+> 🚨The new unauthenticated RCE affecting Aviatrix Controllers (CVE-2024-50603) is the real deal - with a single POST request 🫠 and a super trivial exploit, it takes less than 30 seconds to:
+>
+> 1. Collect all Aviatrix Controllers over the internet
+> 2. Validate exploitability with https://t.co/crxPSAHk3N
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhCEHOMX0AAL67s.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GhCELhXWAAAS1Nv.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GhCEbc7WsAEf4Cs.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GhCFphwXoAAp3WU.png — no alt text provided by author
+
+
+---
+
+## 2025-01-03 · Post · How many of you realize how easy it is to get popped by running a random @pdnuclei templates? Even s
+
+
+### Post — @galnagli — 2025-01-03 18:08 UTC (2025-01-03 19:08 WAT)
+
+- URL: https://x.com/galnagli/status/1875242966635143668
+- Metrics (at fetch): bookmark 73, impression 21219, like 151, quote 0, reply 7, retweet 21
+
+> How many of you realize how easy it is to get popped by running a random @pdnuclei templates? Even signed ones aren’t safe – it’s only a matter of time before this becomes a real attack vector 😏
+>
+> PoC for CVE-2024-43405
+>
+> id: benign-template
+> info:
+>   name: Valid Template Example https://t.co/FbcBCgs5VL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3018817038 — 2025-01-03 17:09 UTC (2025-01-03 18:09 WAT)
+    
+    - URL: https://x.com/3018817038/status/1875228073769251128
+    - Metrics (at fetch): bookmark 137, impression 73664, like 318, quote 7, reply 9, retweet 72
+    
+    > 🚨CVE ALERT!
+    > While working with Nuclei @wiz_io, I discovered CVE-2024-43405, a vulnerability that bypasses template signature verification, potentially allowing malicious code execution on machines running Nuclei 🛡️ 
+    >
+    > Here’s what you need to know: 🧵 https://t.co/fCd4h5b8Oo
+    
+    **Media:**
+    - media `7_1875218841615192066` (details not returned by the API)
+    
+
+
+---
+
+## 2024-12-30 · Post · 2024 was incredible – grateful for everyone who made it special! 🙌
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @galnagli — 2024-12-30 18:20 UTC (2024-12-30 19:20 WAT)
+
+- URL: https://x.com/galnagli/status/1873796414834131295
+- Metrics (at fetch): bookmark 46, impression 29378, like 408, quote 2, reply 22, retweet 16
+
+> 2024 was incredible – grateful for everyone who made it special! 🙌
+>
+> 💰 $2,000,000 all-time bounties on @Hacker0x01 
+> 💸 2 Mega bounties on @Bugcrowd – $80,000 &amp; $125,000
+> 🏆 Live Hacking Event Awards from Miami, Seattle, Paris, Gdansk, Las Vegas, and Edinburgh
+> 📈 Back to full-time https://t.co/UBSlUMiilh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgEPW6XW4AAaqhe.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GgEPW6VXEAANxOC.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GgEPW6XWAAA3MB8.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GgEPW6WWwAEPSzk.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-28 · Post · Bug Bounty programs pausing submissions during the holidays be like… https://t.co/01wpmvmF9i
+
+
+### Post — @galnagli — 2024-12-28 15:15 UTC (2024-12-28 16:15 WAT)
+
+- URL: https://x.com/galnagli/status/1873025055065854312
+- Metrics (at fetch): bookmark 9, impression 10094, like 163, quote 0, reply 5, retweet 7
+
+> Bug Bounty programs pausing submissions during the holidays be like… https://t.co/01wpmvmF9i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gf5STjNWQAAGRu4.png — no alt text provided by author
+
+
+---
+
+## 2024-12-16 · Post · Springboot Actuators; a never ending bounty stream 🌪️ 
+
+
+Tags (automatic): Account takeover
+
+
+### Post — @galnagli — 2024-12-16 21:43 UTC (2024-12-16 22:43 WAT)
+
+- URL: https://x.com/galnagli/status/1868774060001497335
+- Metrics (at fetch): bookmark 194, impression 25034, like 311, quote 0, reply 5, retweet 17
+
+> Springboot Actuators; a never ending bounty stream 🌪️ 
+>
+> Mass PII Leaks in the millions, RCEs on production, 0 Click ATO's on thousands of users, AWS &amp; Azure access to F100 orgs - and it never stops : )
+>
+> #bugbounty https://t.co/B5kzo1N14G https://t.co/yYIeRHpvxw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ge82tQIWcAA0Hmo.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ge82tQNWoAA-J1f.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ge82tQRWEAAoEKd.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ge820xZWkAA_WCG.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1094289286319489025 — 2024-12-16 20:09 UTC (2024-12-16 21:09 WAT)
+    
+    - URL: https://x.com/1094289286319489025/status/1868750352881009070
+    - Metrics (at fetch): bookmark 286, impression 61434, like 372, quote 3, reply 6, retweet 66
+    
+    > I was looking into how organizations deploy Spring Boot Actuator in the cloud and found 1 in 4 exposed Actuators had security flaws leading to data leaks or RCE. These risks are more common than you'd think..⚠️ https://t.co/AWe2GzW3tR
+    
+    **Media:**
+    - media `3_1868744746715279360` (details not returned by the API)
+    - media `3_1868744780710129665` (details not returned by the API)
+    
+
+
+---
+
+## 2024-12-09 · Post · Today marks the 3-year anniversary of the Log4Shell PoC going public 🧑‍🎄
+
+
+### Post — @galnagli — 2024-12-09 07:55 UTC (2024-12-09 08:55 WAT)
+
+- URL: https://x.com/galnagli/status/1866028814179995793
+- Metrics (at fetch): bookmark 45, impression 13337, like 169, quote 1, reply 5, retweet 11
+
+> Today marks the 3-year anniversary of the #Log4Shell PoC going public 🧑‍🎄
+>
+> I still remember going to sleep on the 9th with a PoC I couldn’t reproduce, only to wake up the next morning to all hell breaking loose and hundreds of RCEs everywhere.
+>
+> Would love to hear your stories! 💸 https://t.co/sQ3rtdmoeR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeVzjFxXwAEQOr5.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-06 · Post · What peak bug bounty looks like : ) https://t.co/igJm99uEQL
+
+
+### Post — @galnagli — 2024-12-06 19:08 UTC (2024-12-06 20:08 WAT)
+
+- URL: https://x.com/galnagli/status/1865110993002439001
+- Metrics (at fetch): bookmark 45, impression 25819, like 276, quote 1, reply 7, retweet 13
+
+> What peak bug bounty looks like : ) https://t.co/igJm99uEQL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeI0Q-eWQAMDCzU.jpg — no alt text provided by author

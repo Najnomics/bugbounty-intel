@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 92
-- Conversations/threads: 92
+- Posts in this file: 95
+- Conversations/threads: 95
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -2240,6 +2240,84 @@ Tags (automatic): AI-assisted hunting
 > And prompt injection is about the easiest form of attack ever. Dont need technical knowledge to do it.
 >
 > LLMs democratized exploits.
+
+
+---
+
+## 2026-02-11 · Post · The news of the demise of bug bounties have been greatly exaggerated. 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @lonelysloth_sec — 2026-02-11 16:29 UTC (2026-02-11 17:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2021622615262298226
+- Metrics (at fetch): not returned
+
+> The news of the demise of bug bounties have been greatly exaggerated. 
+>
+> Thanks ily2, the protocol team, and @immunefi for great news. https://t.co/OFkbT0eVXN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2026-02-11 15:29 UTC (2026-02-11 16:29 WAT)
+    
+    - URL: https://x.com/immunefi/status/2021607507328733627
+    - Metrics (at fetch): bookmark 287, impression 387060, like 1280, quote 226, reply 204, retweet 161
+    
+    > Security researcher ily2 has just earned a staggering $3,000,000 from submitting a critical smart contract bug via Immunefi.
+    >
+    > That's the largest single payout in web3 security in recent memory.
+    >
+    > In total, he's submitted 3 reports. All 3 were paid. 100% accuracy.
+    >
+    > His leaderboard update is coming soon, but you can pledge IMU to him now and earn when he finds the next one:
+    >
+    > https://immunefi.com/pledge/ily2
+    
+    **Media:**
+    - media `3_2021600266424872960` (details not returned by the API)
+    
+    **Links in post:** https://immunefi.com/pledge/ily2
+    
+
+
+---
+
+## 2026-02-06 · Post · One of the most serious issues I find when using Claude Code is its tendency for “cheating” or overf
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-02-06 16:17 UTC (2026-02-06 17:17 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2019807692546515380
+- Metrics (at fetch): not returned
+
+> One of the most serious issues I find when using Claude Code is its tendency for “cheating” or overfitting.
+>
+> If something complex isn’t working as expected it tries to bypass the complexity in a way that fixes the existing tests without fixing the underlying issue.
+>
+> It needs constant human (or automated computer) supervision not to do it.
+
+
+---
+
+## 2025-12-16 · Post · Bug bounty hunting isn’t about getting good at one hard thing.
+
+
+### Post — @lonelysloth_sec — 2025-12-16 18:45 UTC (2025-12-16 19:45 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2001000681411670375
+- Metrics (at fetch): not returned
+
+> Bug bounty hunting isn’t about getting good at one hard thing.
+>
+> It’s about learning new things and getting good at them again and again and again.
+>
+> Each year feels a bit like starting from scratch again.
 
 
 ---

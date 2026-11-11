@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 123
-- Conversations/threads: 123
-- Oldest post captured: 2022-10-25
+- Posts in this file: 125
+- Conversations/threads: 125
+- Oldest post captured: 2022-09-01
 - Newest post captured: 2026-11-03
 
 
@@ -2126,3 +2126,50 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 59, impression 0, like 296, quote 8, reply 6, retweet 92
 
 > Earlier this year, one of our interns found a vulnerability that affects applications using the SQLite library API. We are publicly disclosing that vuln today. https://t.co/vDsZKqvsoi
+
+
+---
+
+## 2022-10-12 · Post · The RBPF JIT compiler plays a critical role on the Solana blockchain. But the mode only works on x86
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2022-10-12 12:00 UTC (2022-10-12 13:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1580166636702556160
+- Metrics (at fetch): not returned
+
+> The RBPF JIT compiler plays a critical role on the Solana blockchain. But the mode only works on x86 hosts. Our intern Andrew Haberlandt added support for ARM64 during his internship https://blog.trailofbits.com/2022/10/12/solana-jit-compiler-ebpf-arm64/
+
+**Links in post:** https://blog.trailofbits.com/2022/10/12/solana-jit-compiler-ebpf-arm64/
+
+
+---
+
+## 2022-09-01 · Post · We're extremely excited to add our work on pip-audit and gh-action-pip-audit to PyPA's repertoire! h
+
+
+### Post — @trailofbits — 2022-09-01 14:54 UTC (2022-09-01 15:54 WAT)
+
+- URL: https://x.com/trailofbits/status/1565352354773630981
+- Metrics (at fetch): not returned
+
+> We're extremely excited to add our work on pip-audit and gh-action-pip-audit to PyPA's repertoire! https://twitter.com/ThePyPA/status/1565345532842610689
+
+**Links in post:** https://twitter.com/ThePyPA/status/1565345532842610689
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2407526894 — 2022-09-01 14:27 UTC (2022-09-01 15:27 WAT)
+    
+    - URL: https://x.com/2407526894/status/1565345532842610689
+    - Metrics (at fetch): not returned
+    
+    > The PyPA has voted to accept two new member projects: https://pypi.org/p/pip-audit &amp; the corresponding GitHub action, https://github.com/pypa/gh-action-pip-audit 🎉
+    >
+    > pip-audit audits Python environments and dependency trees for known vulnerabilities, and the action lets you easily run these audits in CI.
+    
+    **Links in post:** https://pypi.org/p/pip-audit, https://github.com/pypa/gh-action-pip-audit
+    

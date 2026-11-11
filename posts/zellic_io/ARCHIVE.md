@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 87
-- Conversations/threads: 87
-- Oldest post captured: 2022-08-25
+- Posts in this file: 91
+- Conversations/threads: 91
+- Oldest post captured: 2022-08-01
 - Newest post captured: 2026-10-20
 
 
@@ -2027,3 +2027,82 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > It aims to safeguard principal earning a yield on blue chip farms while boosting it and profiting from the market’s volatility by purchasing put/call options solely with the accrued yield.
 >
 > A thread 🧵👇
+
+
+---
+
+## 2022-08-22 · Post · Aces up the sleeves of security-conscious Ethereum developers: 
+
+
+### Post — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1561831084462993408
+- Metrics (at fetch): not returned
+
+> Aces up the sleeves of security-conscious Ethereum developers: 
+>
+> A thread 🧵👇
+
+
+---
+
+## 2022-08-08 · Post · We are proud to have helped secure the smart contracts of @AnteFinance! 🎉 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+
+- URL: https://x.com/zellic_io/status/1556754825177550848
+- Metrics (at fetch): not returned
+
+> We are proud to have helped secure the smart contracts of @AnteFinance! 🎉 
+>
+> During our audit of their code, we discovered some interesting bugs—but rest assured that all funds are SAFU!
+>
+> Here are our most interesting findings 🐛⛔👇 [pic.x.com/pa1Xsg9Qpa]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZq0QyHVEAA-Zry.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-02 · Post · 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this ha
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
+
+- URL: https://x.com/zellic_io/status/1554296729050025984
+- Metrics (at fetch): not returned
+
+> 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this happen? We break down not just the exploit, but also HOW THE VULNERABILITY WAS INTRODUCED IN THE FIRST PLACE.
+>
+> Understanding bugs isn't enough. We need to stop merging them.👇 [pic.x.com/fVYIzKJPkY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZH4oxiUsAMKARU.png — no alt text provided by author
+
+
+---
+
+## 2022-08-01 · Post · $10,000,000 is the highest bug bounty reward ever given.🏆
+
+
+### Post — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+
+- URL: https://x.com/zellic_io/status/1554226997542260736
+- Metrics (at fetch): not returned
+
+> $10,000,000 is the highest bug bounty reward ever given.🏆
+>
+> Earlier this year, Wormhole awarded it for a critical finding. 
+>
+> Let's dive into a $10M vulnerability: 👇🧵 [pic.x.com/alKEGSXYEo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
