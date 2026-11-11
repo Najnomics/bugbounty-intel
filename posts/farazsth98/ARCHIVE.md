@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 149
+- Posts in this file: 152
 - Conversations/threads: 123
 - Oldest post captured: 2019-09-30
 - Newest post captured: 2026-11-03
@@ -1539,10 +1539,10 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2024-03-25 · Post · Sad to say I've ran into this BS "we have a system monitoring for malicious activity that would catc
+## 2024-03-25 · Thread · Sad to say I've ran into this BS "we have a system monitoring for malicious activity that would catc
 
 
-Tags (automatic): Blockchain / L1-L2 / bridge
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 
 ### Post — @farazsth98 — 2024-03-25 06:02 UTC (2024-03-25 07:02 WAT)
@@ -1604,6 +1604,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     **Links in post:** https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc
     
+
+
+### Thread part 2 — @farazsth98 — 2024-03-25 06:02 UTC (2024-03-25 07:02 WAT)
+
+- URL: https://x.com/farazsth98/status/1772142077972734454
+- Metrics (at fetch): bookmark 0, impression 752, like 5, quote 0, reply 0, retweet 0
+
+> It really sucks that projects do this, but glad to see Immunefi does not arbitrarily side with the projects in these situations. It's great, unlike some other bug bounty platforms that I've worked with.
 
 
 ---
@@ -1771,7 +1779,9 @@ Tags (automatic): Platform: Immunefi
     - URL: https://x.com/farazsth98/status/1757656850819162434
     - Metrics (at fetch): bookmark 7, impression 6225, like 13, quote 1, reply 4, retweet 2
     
-    > Well now we know where one of those recent "whitehat just came in and snatched up $1 million in their very first report" came from @immunefi :P https://t.co/8EKn8uJWWV
+    > Well now we know where one of those recent "whitehat just came in and snatched up $1 million in their very first report" came from @immunefi :P https://twitter.com/_fel1x/status/1757454744581222548
+    
+    **Links in post:** https://twitter.com/_fel1x/status/1757454744581222548
     
     **Quoted post (full text):**
     
@@ -1799,7 +1809,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2024-02-14 · Post · Well now we know where one of those recent "whitehat just came in and snatched up $1 million in thei
+## 2024-02-14 · Thread · Well now we know where one of those recent "whitehat just came in and snatched up $1 million in thei
 
 
 Tags (automatic): Platform: Immunefi
@@ -1810,7 +1820,9 @@ Tags (automatic): Platform: Immunefi
 - URL: https://x.com/farazsth98/status/1757656850819162434
 - Metrics (at fetch): bookmark 7, impression 6225, like 13, quote 1, reply 4, retweet 2
 
-> Well now we know where one of those recent "whitehat just came in and snatched up $1 million in their very first report" came from @immunefi :P https://t.co/8EKn8uJWWV
+> Well now we know where one of those recent "whitehat just came in and snatched up $1 million in their very first report" came from @immunefi :P https://twitter.com/_fel1x/status/1757454744581222548
+
+**Links in post:** https://twitter.com/_fel1x/status/1757454744581222548
 
 **Quoted post (full text):**
 
@@ -1833,6 +1845,14 @@ Tags (automatic): Platform: Immunefi
         **Links in post:** https://www.asymmetric.re/blog/polygon-log-confusion
         
     
+
+
+### Thread part 2 — @farazsth98 — 2024-02-14 06:53 UTC (2024-02-14 07:53 WAT)
+
+- URL: https://x.com/farazsth98/status/1757659434954944940
+- Metrics (at fetch): bookmark 0, impression 779, like 3, quote 0, reply 0, retweet 0
+
+> Well nevermind that, looks like Barracuda3172 (rank 1 on the leaderboards) is Assymetric, so..... Damn 😅
 
 
 ---
@@ -2431,7 +2451,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2022-11-17 · Post · Just finished analyzing the Nereus Finance flash loan attack. This was the perfect exercise for me t
+## 2022-11-17 · Thread · Just finished analyzing the Nereus Finance flash loan attack. This was the perfect exercise for me t
 
 
 ### Post — @farazsth98 — 2022-11-17 15:33 UTC (2022-11-17 16:33 WAT)
@@ -2442,6 +2462,16 @@ Tags (automatic): Platform: Immunefi
 > Just finished analyzing the Nereus Finance flash loan attack. This was the perfect exercise for me to figure out how to break down a complex transaction step by step, and recreate it.
 >
 > New blog post coming very soon :) transaction here for the curious: https://t.co/N3MXBh17np
+
+
+### Thread part 2 — @farazsth98 — 2022-11-17 15:36 UTC (2022-11-17 16:36 WAT)
+
+- URL: https://x.com/farazsth98/status/1593266737218146304
+- Metrics (at fetch): bookmark 2, impression 0, like 9, quote 0, reply 0, retweet 4
+
+> It was also the perfect exercise to fully understand how lending/borrowing platforms work, as well as how the Curve ecosystem works on the Avalanche chain.
+>
+> My messy notes from the analysis are here: https://t.co/TgveAkwozT
 
 
 ---

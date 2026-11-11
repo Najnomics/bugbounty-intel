@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 121
-- Conversations/threads: 105
+- Posts in this file: 124
+- Conversations/threads: 106
 - Oldest post captured: 2014-01-16
 - Newest post captured: 2026-11-07
 
@@ -476,7 +476,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2024-07-24 · Post · Cute, but it doesn’t work - an attacker that knows there are higher stakes will keep their attack se
+## 2024-07-24 · Thread · Cute, but it doesn’t work - an attacker that knows there are higher stakes will keep their attack se
 
 
 ### Post — @kobigurk — 2024-07-24 05:57 UTC (2024-07-24 06:57 WAT)
@@ -487,6 +487,24 @@ Tags (automatic): ZK
 > Cute, but it doesn’t work - an attacker that knows there are higher stakes will keep their attack secret https://t.co/vWYvlOEZbB
 
 **Quoted post** 1815847925588844554: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @kobigurk — 2024-07-24 08:33 UTC (2024-07-24 09:33 WAT)
+
+- URL: https://x.com/kobigurk/status/1816028990122938745
+- Metrics (at fetch): bookmark 0, impression 127, like 3, quote 0, reply 1, retweet 0
+
+> @xyz_pierre @nico_mnbl Generally it needs to be done with care, the argument is not automatic 
+>
+> 100k worth of reward is probably not enough to expose an attack that can get you 100m
+
+
+### Thread part 3 — @kobigurk — 2024-07-24 08:51 UTC (2024-07-24 09:51 WAT)
+
+- URL: https://x.com/kobigurk/status/1816033518683673035
+- Metrics (at fetch): bookmark 0, impression 110, like 1, quote 0, reply 1, retweet 0
+
+> @xyz_pierre @nico_mnbl Regardless I agree that the episodes with @or_sattath were super interesting and out of my usual box
 
 
 ---
@@ -1639,6 +1657,19 @@ Tags (automatic): ZK
 > an awesome zk challenge! https://t.co/IPGvr6NkIp
 
 **Quoted post** 1590251375258402816: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-10-07 · Post · @AnnaRRose @0xSage I went looking and I don’t regret it
+
+
+### Post — @kobigurk — 2022-10-07 20:30 UTC (2022-10-07 21:30 WAT)
+
+- URL: https://x.com/kobigurk/status/1578482806015262720
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @AnnaRRose @0xSage I went looking and I don’t regret it
 
 
 ---

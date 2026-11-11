@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 211
+- Posts in this file: 212
 - Conversations/threads: 206
 - Oldest post captured: 2014-07-21
 - Newest post captured: 2026-11-10
@@ -3640,7 +3640,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-04-20 · Post · dune wizards pls dm
+## 2023-04-20 · Thread · dune wizards pls dm
 
 
 ### Post — @0xriptide — 2023-04-20 12:01 UTC (2023-04-20 13:01 WAT)
@@ -3651,6 +3651,14 @@ Tags (automatic): Platform: Immunefi
 > dune wizards pls dm
 >
 > 0.1 ETH bounty for a query
+
+
+### Thread part 2 — @0xriptide — 2023-04-21 04:52 UTC (2023-04-21 05:52 WAT)
+
+- URL: https://x.com/0xriptide/status/1649274890531270657
+- Metrics (at fetch): bookmark 0, impression 730, like 0, quote 0, reply 0, retweet 0
+
+> sorted ty sers
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 250
-- Conversations/threads: 206
+- Posts in this file: 282
+- Conversations/threads: 213
 - Oldest post captured: 2022-06-18
 - Newest post captured: 2026-09-03
 
@@ -1344,7 +1344,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2024-02-16 · Post · Better late than never! The ERC-20 standard is broken in many ways, but adding two allowance-related
+## 2024-02-16 · Thread · Better late than never! The ERC-20 standard is broken in many ways, but adding two allowance-related
 
 
 Tags (automatic): Smart contract / DeFi
@@ -1370,6 +1370,45 @@ Tags (automatic): Smart contract / DeFi
     
     **Media:**
     - media `3_1758450249473925120` (details not returned by the API)
+    
+
+
+### Thread part 2 — @pcaversaccio — 2024-02-17 08:14 UTC (2024-02-17 09:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1758766798961287248
+- Metrics (at fetch): bookmark 0, impression 333, like 2, quote 0, reply 1, retweet 0
+
+> @three_9s Lol, ERC20 is broken in so many ways and @moo9000 will agree with this. I have said it multiple times so did he.  https://x.com/pcaversaccio/status/1645084293989822466?t=mzX5PZM-ufRatiuWoy-eFQ&s=19
+
+**Links in post:** https://x.com/pcaversaccio/status/1645084293989822466?t=mzX5PZM-ufRatiuWoy-eFQ&s=19
+
+
+### Thread part 3 — @pcaversaccio — 2024-02-17 08:15 UTC (2024-02-17 09:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1758767098711429352
+- Metrics (at fetch): bookmark 0, impression 318, like 0, quote 0, reply 1, retweet 0
+
+> @three_9s @moo9000 An example by @moo9000 https://x.com/moo9000/status/1593400084313546764?t=mzX5PZM-ufRatiuWoy-eFQ&s=19
+
+**Links in post:** https://x.com/moo9000/status/1593400084313546764?t=mzX5PZM-ufRatiuWoy-eFQ&s=19
+
+**Quoted post (full text):**
+
+    #### Quoted post — @50703014 — 2022-11-18 00:25 UTC (2022-11-18 01:25 WAT)
+    
+    - URL: https://x.com/50703014/status/1593400084313546764
+    - Metrics (at fetch): bookmark 146, impression 0, like 177, quote 26, reply 12, retweet 49
+    
+    > 1/ ERC-20, THE ORIGINAL SIN
+    >
+    > Why #Ethereum blockchain wallets and tokens are unsaveable mess and why other blockchains will eventually take over?
+    >
+    > A short dive into the broken token standard that cannot be fixed.
+    >
+    > 👇👇👇 [pic.x.com/pE7sPcRlXu]
+    
+    **Media:**
+    - media `16_1593400078651326465` (details not returned by the API)
     
 
 
@@ -1993,7 +2032,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2023-08-17 · Post · There is certainly a way to recover the ETH as long as the proxy owner didn't lose the private key. 
+## 2023-08-17 · Thread · There is certainly a way to recover the ETH as long as the proxy owner didn't lose the private key. 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @pcaversaccio — 2023-08-17 06:41 UTC (2023-08-17 07:41 WAT)
@@ -2019,6 +2061,128 @@ Tags (automatic): Smart contract / DeFi
     **Media:**
     - media `3_1691953177250123776` (details not returned by the API)
     
+
+
+### Thread part 2 — @pcaversaccio — 2023-08-17 11:12 UTC (2023-08-17 12:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692132409498628252
+- Metrics (at fetch): bookmark 0, impression 253, like 1, quote 0, reply 1, retweet 0
+
+> @euler_mab 1/ Great question: I don't consider EL upgrades as a bug per se since they are part of a long-term, public roadmap (the switch to PoS was already envisioned in '14/'15), and the "rugability potential" is tiny as the upgrades need a community consensus.
+
+
+### Thread part 3 — @pcaversaccio — 2023-08-17 11:13 UTC (2023-08-17 12:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692132519661957579
+- Metrics (at fetch): bookmark 0, impression 107, like 2, quote 0, reply 1, retweet 0
+
+> @euler_mab 2/ However, EL upgrades are only a non-bug as long as there is a sufficient decentralised network of participants. If you run your own blockchain with 12 nodes on AWS, you can do whatever you want and EL upgrades become a bug as well.
+
+
+### Thread part 4 — @pcaversaccio — 2023-08-17 11:13 UTC (2023-08-17 12:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692132632203579418
+- Metrics (at fetch): bookmark 0, impression 148, like 2, quote 0, reply 1, retweet 0
+
+> @euler_mab 3/ Thus, the "bugyness" of EL upgrades is a function of decentralisation, network strength, economic incentives, and social consensus about the decision-making.
+
+
+### Thread part 5 — @pcaversaccio — 2023-08-17 11:14 UTC (2023-08-17 12:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692132692085571941
+- Metrics (at fetch): bookmark 0, impression 148, like 3, quote 0, reply 0, retweet 0
+
+> @euler_mab 4/ TL;DR: If you have a masternode that governs everything, yes EL upgrades are a bug, if you have a sufficient sustainable, predictable, and resilient decision-making process such as Ethereum (it's not perfect btw imo), I would claim upgrades are part of the natural evolution.
+
+
+### Thread part 6 — @pcaversaccio — 2023-08-18 16:38 UTC (2023-08-18 17:38 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692576821936636080
+- Metrics (at fetch): bookmark 0, impression 151, like 2, quote 0, reply 1, retweet 0
+
+> @frangio_ @Amxx @0xInuarashi @krakovia_evm I'd argue that because this possibility actually exists, people are becoming nonchalant about security. It's kind of: let's test in prod, and if something bad happens, we still have a backdoor. If you know something is gonna be immutable, you should approach it differently.
+
+
+### Thread part 7 — @pcaversaccio — 2023-08-18 16:40 UTC (2023-08-18 17:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692577242293977228
+- Metrics (at fetch): bookmark 0, impression 153, like 3, quote 0, reply 1, retweet 0
+
+> @frangio_ @Amxx @0xInuarashi @krakovia_evm Of course, in this particular case, you can argue it can be used for the overall good. But would you agree that upgradeability undermines the concept of trustlessness?
+
+
+### Thread part 8 — @pcaversaccio — 2023-08-18 17:05 UTC (2023-08-18 18:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692583433837363577
+- Metrics (at fetch): bookmark 0, impression 166, like 0, quote 0, reply 2, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm You can't achieve trustlessness if you always have to worry that a multisig upgrades its implementation contract since the governance is broken. And on-chain governance is not trivial to understand for the normal investor. So either u have folks like us calling out bad governance
+
+
+### Thread part 9 — @pcaversaccio — 2023-08-18 17:06 UTC (2023-08-18 18:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692583652016734713
+- Metrics (at fetch): bookmark 0, impression 48, like 0, quote 0, reply 0, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm Or it can become dangerous for many people. The more TVL, the more eyes on it, of course.
+
+
+### Thread part 10 — @pcaversaccio — 2023-08-18 17:32 UTC (2023-08-18 18:32 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692590357521784990
+- Metrics (at fetch): bookmark 0, impression 161, like 0, quote 0, reply 2, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm I would say this is a trust assumption that violates trustlessness. But you can't change the logic, which you can for proxies, thus the rugability potential is much higher in those cases. What about metamorphic contracts? Do you think those are features?
+
+
+### Thread part 11 — @pcaversaccio — 2023-08-18 17:35 UTC (2023-08-18 18:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692591171996877223
+- Metrics (at fetch): bookmark 0, impression 79, like 0, quote 0, reply 0, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm Do you think something like this is a feature? https://github.com/pcaversaccio/tornado-cash-exploit. Immutability when it comes to logic is pivotal.
+
+**Links in post:** https://github.com/pcaversaccio/tornado-cash-exploit
+
+
+### Thread part 12 — @pcaversaccio — 2023-08-18 17:48 UTC (2023-08-18 18:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692594304861008269
+- Metrics (at fetch): bookmark 0, impression 123, like 0, quote 0, reply 1, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm Well, my point is that users of your smart contract don't trust you, and that's why you wrote a smart contract in the first place. Why trust with the governance so? There have been many governance attacks already. Too much that can go wrong.
+
+
+### Thread part 13 — @pcaversaccio — 2023-08-18 17:49 UTC (2023-08-18 18:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692594625624633644
+- Metrics (at fetch): bookmark 0, impression 115, like 0, quote 0, reply 1, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm I also understand your position about governance and yes, I even partially agree with you, but my point is that you might don't want any governance since you don't trust anyone anyways. Otherwise just do OTC trades.
+
+
+### Thread part 14 — @pcaversaccio — 2023-08-18 19:15 UTC (2023-08-18 20:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692616316002124075
+- Metrics (at fetch): bookmark 0, impression 101, like 2, quote 0, reply 1, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm Most users don't understand what they really 'approve' (and yes, that's also a reference to ERC20 😉). I do respect your opinion on that topic, but I personally feel very strong about this since I've seen too much shit over the last 8 years.
+
+
+### Thread part 15 — @pcaversaccio — 2023-08-18 19:18 UTC (2023-08-18 20:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692616875140657458
+- Metrics (at fetch): bookmark 0, impression 123, like 0, quote 0, reply 1, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm At least 80% of the users don't understand how contracts technically work and still ape into shit. Tech-savvy but malicious people use this opportunity to exploit them. On a technical level you can say, fine, it's their fault, but I want to see a mass adoption and we won't
+
+
+### Thread part 16 — @pcaversaccio — 2023-08-18 19:19 UTC (2023-08-18 20:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1692617182302138446
+- Metrics (at fetch): bookmark 0, impression 124, like 0, quote 0, reply 1, retweet 0
+
+> @Amxx @frangio_ @0xInuarashi @krakovia_evm get any mass adoption if we keep using design patterns that easily let people rug other people's money. We can't expect from all to understand all the technical intricacies.
 
 
 ---
@@ -2096,7 +2260,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2023-07-29 · Post · I truly believe that the biggest obstacle to blockchain-based systems is the wicked convenience that
+## 2023-07-29 · Thread · I truly believe that the biggest obstacle to blockchain-based systems is the wicked convenience that
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -2110,9 +2274,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > I truly believe that the biggest obstacle to blockchain-based systems is the wicked convenience that people have learned over the last decade(s) in web2. This centralised convenience has led to a lack of critical thinking that can cost $$$ in losses in our industry.
 
 
+### Thread part 2 — @pcaversaccio — 2023-07-29 10:07 UTC (2023-07-29 11:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1685230657495007232
+- Metrics (at fetch): bookmark 0, impression 1072, like 5, quote 0, reply 1, retweet 1
+
+> If we want to win, people need to unlearn the convenience of web2.
+
+
 ---
 
-## 2023-07-21 · Post · Another flashloan-based attack: 1,724 ETH ($3,3m) gone
+## 2023-07-21 · Thread · Another flashloan-based attack: 1,724 ETH ($3,3m) gone
 
 
 ### Post — @pcaversaccio — 2023-07-21 11:00 UTC (2023-07-21 12:00 WAT)
@@ -2121,10 +2293,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 34, impression 62931, like 120, quote 5, reply 10, retweet 18
 
 > Another flashloan-based attack: 1,724 ETH ($3,3m) gone
-> https://t.co/P9D3FDuTAU https://t.co/w3Td6ASqG1
+> https://etherscan.io/tx/0x8b74995d1d61d3d7547575649136b8765acb22882960f0636941c44ec7bbe146 [pic.x.com/w3Td6ASqG1]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F1jjZMSWIAEAZSp.jpg — no alt text provided by author
+
+**Links in post:** https://etherscan.io/tx/0x8b74995d1d61d3d7547575649136b8765acb22882960f0636941c44ec7bbe146
+
+
+### Thread part 2 — @pcaversaccio — 2023-07-21 11:19 UTC (2023-07-21 12:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1682349515209162752
+- Metrics (at fetch): bookmark 0, impression 3635, like 10, quote 0, reply 0, retweet 0
+
+> It's conic https://x.com/ConicFinance/status/1682346727578255360
+
+**Links in post:** https://x.com/ConicFinance/status/1682346727578255360
 
 
 ---
@@ -3704,6 +3888,19 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2022-10-21 · Post · @PaulRBerg sure, but you know how it goes: you write a contract, and simultaneously you write some t
+
+
+### Post — @pcaversaccio — 2022-10-21 07:57 UTC (2022-10-21 08:57 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1583366824821141505
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 2, retweet 0
+
+> @PaulRBerg sure, but you know how it goes: you write a contract, and simultaneously you write some tests (at least me). Thereafter, I run some tests and they fail: hmm there must be something wrong with the logic. Ok let's debug - 30 mins later: nah let's continue with the contract...
+
+
+---
+
 ## 2022-10-21 · Post · spaces can ruin your life - took me 4 hrs yesterday to find the bug lol... https://t.co/fmcIVrzOxO
 
 
@@ -4272,6 +4469,19 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2022-08-02 · Post · @liorabadi @z0r0zzz well in this case yes but using zero values as initialization values is a common
+
+
+### Post — @pcaversaccio — 2022-08-02 10:01 UTC (2022-08-02 11:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554407087740010499
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @liorabadi @z0r0zzz well in this case yes but using zero values as initialization values is a common practice actually
+
+
+---
+
 ## 2022-08-02 · Post · In such situations, it is easy to say that a team is incompetent. For now, please let's give words o
 
 
@@ -4348,7 +4558,75 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2022-07-26 · Post · Upgradability is a bug not a feature.
+## 2022-07-27 · Post · @PatrickAlphaC know the process != follow the process 🙃. We've seen multiple times now that bridge t
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-07-27 13:13 UTC (2022-07-27 14:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1552280912326443008
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @PatrickAlphaC know the process != follow the process 🙃. We've seen multiple times now that bridge teams do have a governance process in place but were still exploited (partially due to social engineering). Again, everyone is free to use it (I mean Turing-completeness is awesome).
+
+
+---
+
+## 2022-07-27 · Post · @PatrickAlphaC Also, since the above attack vectors are possible the governance around upgrades are 
+
+
+### Post — @pcaversaccio — 2022-07-27 07:00 UTC (2022-07-27 08:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1552187236422225922
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @PatrickAlphaC Also, since the above attack vectors are possible the governance around upgrades are really important. Another possibility to shoot yourself (and already attacked multiple times successfully). We should build with a security-first mindset and IMHO upgradability contradicts here.
+
+
+---
+
+## 2022-07-27 · Post · @PatrickAlphaC This diamond standard is a compromise ofc. But am maybe a purist wrt to this topic. D
+
+
+### Post — @pcaversaccio — 2022-07-27 06:58 UTC (2022-07-27 07:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1552186645839024128
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 0
+
+> @PatrickAlphaC This diamond standard is a compromise ofc. But am maybe a purist wrt to this topic. Don't trust, verify should be at the beginning only. If you can upgrade, you can never trust and continuously verify. Yes we can have proxy standards etc. but custom proxies can never be prevented
+
+
+---
+
+## 2022-07-27 · Post · @PatrickAlphaC Proxy pattern enable the possibility to change a code pattern that is non-fraudulent 
+
+
+### Post — @pcaversaccio — 2022-07-27 06:54 UTC (2022-07-27 07:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1552185701306961920
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> @PatrickAlphaC Proxy pattern enable the possibility to change a code pattern that is non-fraudulent into fraudulent. How many times do you check the implementation contracts and if upgraded of your apps? Uniswap proves well that no upgradability is needed.
+
+
+---
+
+## 2022-07-27 · Post · @PatrickAlphaC Life is a flip flop 🙃 - there are certain virtues but also breaks the notion of immut
+
+
+### Post — @pcaversaccio — 2022-07-27 06:50 UTC (2022-07-27 07:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1552184686339919872
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 2, retweet 0
+
+> @PatrickAlphaC Life is a flip flop 🙃 - there are certain virtues but also breaks the notion of immutability (wrt logic). And this is a problem: having the possibility to upgrade the logic means a user cannot anymore trustlessly interact with a immutable proxy!
+
+
+---
+
+## 2022-07-26 · Thread · Upgradability is a bug not a feature.
 
 
 ### Post — @pcaversaccio — 2022-07-26 11:58 UTC (2022-07-26 12:58 WAT)
@@ -4357,6 +4635,14 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): bookmark 2, impression 0, like 64, quote 1, reply 5, retweet 7
 
 > Upgradability is a bug not a feature.
+
+
+### Thread part 2 — @pcaversaccio — 2022-07-26 12:14 UTC (2022-07-26 13:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1551903877045305344
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> What can go wrong with upgrades even if audited! https://t.co/QURLUfIYbH
 
 
 ---
@@ -4623,7 +4909,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-06-22 · Post · Serious question - how do you explain to the non-crypto world what you actually do. I mean saying: '
+## 2022-06-22 · Thread · Serious question - how do you explain to the non-crypto world what you actually do. I mean saying: '
 
 
 ### Post — @pcaversaccio — 2022-06-22 06:11 UTC (2022-06-22 07:11 WAT)
@@ -4632,6 +4918,28 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 1, impression 0, like 36, quote 1, reply 11, retweet 1
 
 > Serious question - how do you explain to the non-crypto world what you actually do. I mean saying: 'I use inline assembly to optimise gas consumption and usually fuzz contracts in order to break them' is not a good answer lmfaoooo.
+
+
+### Thread part 2 — @pcaversaccio — 2022-06-22 06:44 UTC (2022-06-22 07:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1539499547096915969
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 1, retweet 0
+
+> my best explanation so far: I try to make a green tile every day. After 365 days you can build a virtual house with it https://t.co/XQBXriRrZH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FV1mW0BWIAEgF9C.jpg — no alt text provided by author
+
+
+### Thread part 3 — @pcaversaccio — 2022-06-22 06:49 UTC (2022-06-22 07:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1539500696613048322
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Or even better I can build my own 3D skyline https://t.co/AbbPSPiuwX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FV1ntsPWAAAXAD6.jpg — no alt text provided by author
 
 
 ---
@@ -4659,7 +4967,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-06-19 · Post · It seems the Tor network is currently under DDoS attack - wondering how this affects eg CoinJoin wal
+## 2022-06-19 · Thread · It seems the Tor network is currently under DDoS attack - wondering how this affects eg CoinJoin wal
 
 
 ### Post — @pcaversaccio — 2022-06-19 08:59 UTC (2022-06-19 09:59 WAT)
@@ -4673,6 +4981,30 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FVmoi9lWQAIfzlH.jpg — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2022-06-19 09:01 UTC (2022-06-19 10:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1538446743251177473
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Found this issue opened 20mins ago by @wasabiwallet https://t.co/YFiM9EbpP3
+
+
+### Thread part 3 — @pcaversaccio — 2022-06-19 09:01 UTC (2022-06-19 10:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1538446929448914944
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> or maybe @lopp has some further insights
+
+
+### Thread part 4 — @pcaversaccio — 2022-06-19 09:04 UTC (2022-06-19 10:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1538447547332804608
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> It seems the Tor DDoS attack started June 9th: https://t.co/m5U64oSTKv
 
 
 ---

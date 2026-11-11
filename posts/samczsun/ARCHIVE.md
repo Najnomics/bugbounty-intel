@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 143
+- Posts in this file: 173
 - Conversations/threads: 87
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
@@ -951,7 +951,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2024-02-14 · Post · I'm back, did you miss me? I have some huge news!
+## 2024-02-14 · Thread · I'm back, did you miss me? I have some huge news!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
@@ -961,10 +964,150 @@ Tags (automatic): AI-assisted hunting
 
 > I'm back, did you miss me? I have some huge news!
 >
-> Over the last year and a half, I've been working on something big in secret with the rest of the crypto security community. Today, we're finally ready to reveal ourselves to the world. We are @_SEAL_Org https://t.co/Jho9wQDxEr
+> Over the last year and a half, I've been working on something big in secret with the rest of the crypto security community. Today, we're finally ready to reveal ourselves to the world. We are @_SEAL_Org [pic.x.com/Jho9wQDxEr]
 
 **Media:**
 - media `3_1757746782388490240` (details not returned by the API)
+
+
+### Thread part 2 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784867163832397
+- Metrics (at fetch): bookmark 2, impression 13143, like 131, quote 0, reply 2, retweet 1
+
+> It all started from the Nomad hack. The war room was stressful, and the security community collectively looked back and wondered, "how did we get to a point where random people felt comfortable stealing money from the bridge, but whitehats felt it was too risky to intervene?"
+
+
+### Thread part 3 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784868719878190
+- Metrics (at fetch): bookmark 3, impression 33284, like 125, quote 1, reply 2, retweet 3
+
+> Having personally been in countless situations where I asked myself that very same question, I decided it was finally the time to do something. In Web2, we have the concept of "safe harbor" for security researchers, and I wanted to bring that idea to Web3
+
+
+### Thread part 4 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784870213001375
+- Metrics (at fetch): bookmark 3, impression 12948, like 140, quote 1, reply 1, retweet 3
+
+> But as someone who very much isn't a lawyer, I had no idea where to start. Fortunately, @lex_node (who @delphi_labs graciously allowed to lend his time so early in the process) stepped up and helped architect what is now the Whitehat Safe Harbor Agreement
+
+
+### Thread part 5 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784871672713429
+- Metrics (at fetch): bookmark 0, impression 11910, like 96, quote 0, reply 1, retweet 1
+
+> But we quickly realized that protecting the Safe Harbor Agreement from abuse would be tricky, and so while we iterated on that problem, we released a few additional initiatives along the way. You might have heard of them: SEAL 911 and SEAL Wargames
+
+
+### Thread part 6 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784873312633131
+- Metrics (at fetch): bookmark 127, impression 39194, like 256, quote 6, reply 2, retweet 35
+
+> SEAL 911 is our response to the question: "I just got hacked, who can I go to for help?" Previously, if you didn't have a trusted security researcher on speed dial, you were out of luck. Now, the entire SEAL 911 Team is simply a Telegram message away
+>
+> https://t.me/seal_911_bot
+
+**Links in post:** https://t.me/seal_911_bot
+
+
+### Thread part 7 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784874868711453
+- Metrics (at fetch): bookmark 13, impression 13630, like 170, quote 2, reply 1, retweet 3
+
+> SEAL Wargames (formerly: SEAL Drills) is our initiative to provide free red team exercises and security training for protocols in order to prepare them for worst case scenarios. Since its inception, we've already conducted exercises for @compoundfinance, @yearnfi, and @aave
+
+
+### Thread part 8 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784876491878417
+- Metrics (at fetch): bookmark 0, impression 10522, like 104, quote 0, reply 1, retweet 0
+
+> Looking forward, we have many more exciting initiatives in the works that we think will meaningfully improve crypto security for the better, and we plan to release them throughout this year
+
+
+### Thread part 9 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784878152851812
+- Metrics (at fetch): bookmark 0, impression 9985, like 89, quote 0, reply 1, retweet 0
+
+> This entire thing would have been impossible without the help of truly so many people, but I want to try and list as many as I can remember
+
+
+### Thread part 10 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784879646044255
+- Metrics (at fetch): bookmark 3, impression 20960, like 150, quote 2, reply 3, retweet 2
+
+> First and foremost, a huge shoutout to @matthuang, who supported me with both time and resources as I worked to get SEAL off the ground. @hosseeb, @hudsonjameson, @milesjennings, and @VitalikButerin were also instrumental in helping make SEAL more than just a Telegram group chat
+
+
+### Thread part 11 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784881332146217
+- Metrics (at fetch): bookmark 8, impression 9276, like 117, quote 0, reply 2, retweet 3
+
+> So many talented lawyers helped make the Whitehat Safe Harbor Agreement a reality, including @MikeBacina, @lex_node, @milesjennings, @RSSH273, @Debevoise, @SH_Brennan, @MarcGoldich, @0xCharmed, and the entire @LeXpunK_Army
+
+
+### Thread part 12 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784883102142521
+- Metrics (at fetch): bookmark 2, impression 8392, like 83, quote 0, reply 2, retweet 0
+
+> @SansGravitas and @rileyholterhus were also instrumental to the Safe Harbor Agreement, while @MitchellAmador, @Mudit__Gupta, @Kurt_M_Barry, @DaneSherrets, and @caseyjohnellis were invaluable in providing feedback on how to minimize the risk of abuse
+
+
+### Thread part 13 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784886088474754
+- Metrics (at fetch): bookmark 6, impression 9850, like 112, quote 2, reply 2, retweet 1
+
+> The SEAL 911 Team is composed of so many talented volunteers, a full list of which can be found on GitHub (https://github.com/security-alliance/seal-911), but special thanks to @pcaversaccio for stepping up and taking a leadership position within the team
+
+**Links in post:** https://github.com/security-alliance/seal-911
+
+
+### Thread part 14 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784887762075975
+- Metrics (at fetch): bookmark 1, impression 6940, like 80, quote 0, reply 2, retweet 1
+
+> @isaacpatka has been killing it as the lead of SEAL Wargames, where he spent countless late nights both developing the tooling and infrastructure, as well as coordinating between the projects and various other participants
+
+
+### Thread part 15 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784889347481874
+- Metrics (at fetch): bookmark 5, impression 6758, like 81, quote 0, reply 3, retweet 0
+
+> Finally, thanks to @claudijd, @delitzer, @ethzed, @fredriksvantes, @h3idilao, @LewellenMichael, @mg_486662, @RebeccaRettig1, @riyazdf, @tayvano_, @YSmaragdakis, and so many more for their help. To be clear, this is not an exhaustive list, but I only have so many characters
+
+
+### Thread part 16 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784890949673396
+- Metrics (at fetch): bookmark 1, impression 8121, like 91, quote 1, reply 5, retweet 7
+
+> Today, SEAL is more than just me or the small group of people that got together in late October 2022 to talk about the "Safe Harbor Address Experiment." We're built by the community, for the community, and we're here to secure the future of crypto
+
+
+### Thread part 17 — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
+
+- URL: https://x.com/samczsun/status/1757784893772464169
+- Metrics (at fetch): bookmark 15, impression 7730, like 121, quote 2, reply 5, retweet 2
+
+> For even more words, please check out our introductory blog post. The art in the first tweet was drawn by the wonderful @yueko__ 
+>
+> == crypto❤️security researchers ==
+>
+> https://securityalliance.notion.site/Introducing-the-Security-Alliance-e07c85364140440cb4911a5737461648
+
+**Links in post:** https://securityalliance.notion.site/Introducing-the-Security-Alliance-e07c85364140440cb4911a5737461648
 
 
 ---
@@ -1119,7 +1262,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-08-12 · Post · Had an amazing chat with BlockSec Team on the nuances around attack alerts. We both agreed that, gen
+## 2023-08-12 · Thread · Had an amazing chat with BlockSec Team on the nuances around attack alerts. We both agreed that, gen
 
 
 ### Post — @samczsun — 2023-08-12 17:05 UTC (2023-08-12 18:05 WAT)
@@ -1127,7 +1270,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/samczsun/status/1690409094077984768
 - Metrics (at fetch): bookmark 12, impression 31037, like 116, quote 2, reply 3, retweet 8
 
-> Had an amazing chat with BlockSec Team on the nuances around attack alerts. We both agreed that, generally, alerts should only contain info users need to take action. However, links or screenshots of the specific tx are typically unnecessary or misleading and so should be avoided https://t.co/HYzO5ccPMH
+> Had an amazing chat with BlockSec Team on the nuances around attack alerts. We both agreed that, generally, alerts should only contain info users need to take action. However, links or screenshots of the specific tx are typically unnecessary or misleading and so should be avoided https://twitter.com/BlockSecTeam/status/1690377651540942848
+
+**Links in post:** https://twitter.com/BlockSecTeam/status/1690377651540942848
 
 **Quoted post (full text):**
 
@@ -1138,6 +1283,14 @@ Tags (automatic): AI-assisted hunting
     
     > As a blockchain security firm, it’s our natural duty to protect users’ assets and safeguard the web3 world for its long-lasting prosperity. However, recent events have led to discussions about the attack alert rule and procedure. We feel called to stand up and openly share our https://t.co/85qB4vDxmQ
     
+
+
+### Thread part 2 — @samczsun — 2023-08-12 17:05 UTC (2023-08-12 18:05 WAT)
+
+- URL: https://x.com/samczsun/status/1690409095910891521
+- Metrics (at fetch): bookmark 0, impression 5519, like 21, quote 0, reply 2, retweet 0
+
+> That being said, nothing is being set in stone and it's always important to consider the situation (how long has it been? are there forks? is it an 0-day in a dep?), but we're just getting started and I'm excited to continue iterating with BlockSec to keep alerts useful and safe
 
 
 ---
@@ -1183,7 +1336,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-05-20 · Post · On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malici
+## 2023-05-20 · Thread · On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malici
+
+
+Tags (automatic): Path normalization
 
 
 ### Post — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
@@ -1197,6 +1353,76 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - media `3_1659998536388448256` (details not returned by the API)
+
+
+### Thread part 2 — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+
+- URL: https://x.com/samczsun/status/1660012958787973121
+- Metrics (at fetch): bookmark 9, impression 195088, like 243, quote 4, reply 11, retweet 18
+
+> First, what does this mean for Tornado Cash?
+>
+> Through governance control, the attacker can:
+> - withdraw all of the locked votes
+> - drain all of the tokens in the governance contract
+> - brick the router
+>
+> However, the attacker still can't:
+> - drain individual pools
+
+
+### Thread part 3 — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+
+- URL: https://x.com/samczsun/status/1660012960176279552
+- Metrics (at fetch): bookmark 14, impression 117996, like 191, quote 8, reply 7, retweet 9
+
+> Next, how did this happen?
+>
+> Well, when the attacker created their malicious proposal, they claimed to have used the same logic as an earlier proposal which had passed. However, that wasn't exactly the truth, because they added an extra function
+>
+> https://t.co/IK6s0IBfVY https://t.co/1o76leezM1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwmEFiBakAEHzZx.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FwmEHLwaUAApiyg.png — no alt text provided by author
+
+
+### Thread part 4 — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+
+- URL: https://x.com/samczsun/status/1660012961975640064
+- Metrics (at fetch): bookmark 4, impression 49514, like 152, quote 2, reply 7, retweet 9
+
+> Once the proposal was passed by voters, the attacker simply used the emergencyStop function to update the proposal logic to grant themselves the fake votes
+>
+> https://t.co/JgYk9PJg6O
+> https://t.co/y3bjglXD7J https://t.co/kpGXC3LtjW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwmKkYzaEAAPGB8.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FwmKmQ0aIAEA2F9.png — no alt text provided by author
+
+
+### Thread part 5 — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+
+- URL: https://x.com/samczsun/status/1660012963603030016
+- Metrics (at fetch): bookmark 3, impression 49021, like 148, quote 1, reply 4, retweet 5
+
+> Now that they have all the votes, they can do whatever they want. In this case, they simply withdrew 10,000 votes as TORN and sold it all
+>
+> https://t.co/XxYezHusK6 https://t.co/qOefI65SLk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwmKs6faMAUJ77j.png — no alt text provided by author
+
+
+### Thread part 6 — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+
+- URL: https://x.com/samczsun/status/1660012965536616450
+- Metrics (at fetch): bookmark 9, impression 52684, like 356, quote 11, reply 11, retweet 32
+
+> Finally, what can we learn from this?
+>
+> Be careful what you vote for! While we all know that proposal descriptions can lie, proposal logic can lie too! If you're depending on the verified source code to stay the same, make sure the contract doesn't have the ability to selfdestruct
 
 
 ---
@@ -1433,7 +1659,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-01-28 · Post · new season of attack on titan looks great https://t.co/mzFME9qImL
+## 2023-01-28 · Thread · new season of attack on titan looks great https://t.co/mzFME9qImL
 
 
 ### Post — @samczsun — 2023-01-28 08:44 UTC (2023-01-28 09:44 WAT)
@@ -1445,6 +1671,14 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fni_ywRaIAApzea.jpg — no alt text provided by author
+
+
+### Thread part 2 — @samczsun — 2023-01-28 09:12 UTC (2023-01-28 10:12 WAT)
+
+- URL: https://x.com/samczsun/status/1619262094649757698
+- Metrics (at fetch): bookmark 1, impression 13542, like 30, quote 0, reply 1, retweet 1
+
+> i did a double take when they mentioned the dark forest
 
 
 ---
@@ -1525,7 +1759,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2022-09-30 · Post · exploring the nomad hack https://t.co/7lZ1fOcRlL
+## 2022-09-30 · Thread · exploring the nomad hack https://t.co/7lZ1fOcRlL
 
 
 ### Post — @samczsun — 2022-09-30 03:50 UTC (2022-09-30 04:50 WAT)
@@ -1537,6 +1771,72 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fd39p4UVQAEueJm.png — no alt text provided by author
+
+
+### Thread part 2 — @samczsun — 2022-09-30 19:53 UTC (2022-09-30 20:53 WAT)
+
+- URL: https://x.com/samczsun/status/1575936884290686976
+- Metrics (at fetch): bookmark 2, impression 0, like 54, quote 0, reply 5, retweet 3
+
+> we do a little storage resolution https://t.co/9Qwgdr85RO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fd7aNIEVEAA-ky1.png — no alt text provided by author
+
+
+### Thread part 3 — @samczsun — 2022-10-02 09:50 UTC (2022-10-02 10:50 WAT)
+
+- URL: https://x.com/samczsun/status/1576509827596963840
+- Metrics (at fetch): bookmark 4, impression 0, like 89, quote 0, reply 7, retweet 1
+
+> in hindsight it was inevitable that i would end up writing Yet Another Storage Layout Parser https://t.co/gA3jRqmCVM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeDjTlRUcAE1wp5.png — no alt text provided by author
+
+
+### Thread part 4 — @samczsun — 2022-10-02 23:21 UTC (2022-10-03 00:21 WAT)
+
+- URL: https://x.com/samczsun/status/1576714012456144896
+- Metrics (at fetch): bookmark 2, impression 0, like 88, quote 0, reply 6, retweet 1
+
+> this project right now https://t.co/y1VBgeLzuA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeGdB4nVEAI9Oog.png — no alt text provided by author
+
+
+### Thread part 5 — @samczsun — 2022-10-03 03:48 UTC (2022-10-03 04:48 WAT)
+
+- URL: https://x.com/samczsun/status/1576781234356686848
+- Metrics (at fetch): bookmark 0, impression 0, like 45, quote 0, reply 3, retweet 1
+
+> nice https://t.co/Xx9idu3o3d
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeHaIK5UAAACA3d.png — no alt text provided by author
+
+
+### Thread part 6 — @samczsun — 2022-10-03 11:33 UTC (2022-10-03 12:33 WAT)
+
+- URL: https://x.com/samczsun/status/1576898165181059072
+- Metrics (at fetch): bookmark 3, impression 0, like 81, quote 3, reply 2, retweet 7
+
+> almost there https://t.co/TPohfMAzxQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeJEgajVsAAgVPW.png — no alt text provided by author
+
+
+### Thread part 7 — @samczsun — 2022-10-03 22:35 UTC (2022-10-03 23:35 WAT)
+
+- URL: https://x.com/samczsun/status/1577064803905859584
+- Metrics (at fetch): bookmark 8, impression 0, like 94, quote 0, reply 3, retweet 5
+
+> did someone ask for a rich calldata view? (yes, if you edit the function signature it updates in real time) https://t.co/IqhaBJoKxk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeLb74fVsAAP1Ex.png — no alt text provided by author
 
 
 ---
@@ -1573,7 +1873,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2022-08-17 · Post · nice auction contract it would be a shame if there was a signature malleability bug in it https://t.
+## 2022-08-17 · Thread · nice auction contract it would be a shame if there was a signature malleability bug in it https://t.
 
 
 ### Post — @samczsun — 2022-08-17 19:17 UTC (2022-08-17 20:17 WAT)
@@ -1601,6 +1901,14 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post** 1557025944657096704: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @samczsun — 2022-08-17 19:17 UTC (2022-08-17 20:17 WAT)
+
+- URL: https://x.com/samczsun/status/1559982881774047232
+- Metrics (at fetch): bookmark 0, impression 0, like 58, quote 0, reply 5, retweet 1
+
+> to be clear its not exploitable but it is still very funny
 
 
 ---

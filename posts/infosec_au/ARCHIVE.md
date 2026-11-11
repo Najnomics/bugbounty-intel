@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 246
-- Conversations/threads: 222
+- Posts in this file: 250
+- Conversations/threads: 224
 - Oldest post captured: 2015-07-16
 - Newest post captured: 2026-11-07
 
@@ -1667,6 +1667,49 @@ Tags (automatic): RCE
 
 ---
 
+## 2023-07-21 · Reply · @zseano @Rhynorater With many more things in my life as well this year, I've had to learn the skill 
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Rhynorater — 2023-07-20 14:09 UTC (2023-07-20 15:09 WAT)
+
+- URL: https://x.com/Rhynorater/status/1682030063448117249
+- Metrics (at fetch): bookmark 69, impression 41886, like 191, quote 5, reply 20, retweet 22
+
+> One of the common threads I've seen of highly successful bug hunters is laser focus. 
+>
+> You don't feel time pass. You forget to eat. You forget to drink. You forget to pee. 
+>
+> You're completely enthralled with the technology and its quirks.
+>
+> If you don't have this sort of focus, that could be a limiting factor to your bug bounty success. 
+>
+> So how do you get it? Here are some things that have helped me:
+>
+> * Intermittent fasting - increases focus.
+>  
+> * Limiting mental context switching - just like a CPU, when our brain switches tasks (even to hit the bathroom) the overhead is extreme. Gotta lock this down.
+>
+> * Communicating well with family on focus periods - @Mariahchan_ knows that being "in the zone" is an important part of this, and she does everything she can to protect it ❤️
+>
+> * Putting phone, discord, slack, etc on DnD during hyper focus times. 
+>
+> * Putting on instrumental music/loop music - I drive my collaborators nuts bc I will put a song that is stuck in my head on loop for 12 hours straight while hacking. For me, this makes my brain stop playing the music itself and allows me to focus better. 
+>
+> Glhf, find bugs.
+
+
+### Post — @infosec_au — 2023-07-21 10:30 UTC (2023-07-21 11:30 WAT)
+
+- URL: https://x.com/infosec_au/status/1682337261738946560
+- Metrics (at fetch): bookmark 1, impression 1967, like 13, quote 0, reply 2, retweet 0
+
+> @zseano @Rhynorater With many more things in my life as well this year, I've had to learn the skill of gaining hyper focus quickly on demand, even after context switching. I am sure you've picked this up too!
+
+
+---
+
 ## 2023-07-21 · Thread · We've analyzed the patch diffs for CVE-2023-3519 (Citrix Pre-Auth RCE) and have published our findin
 
 
@@ -2117,7 +2160,20 @@ Tags (automatic): SQL injection, Auth bypass
 
 ---
 
-## 2023-02-10 · Post · when i find someone i enjoy collaborating with in bug bounties, we build a relationship that lasts a
+## 2023-02-10 · Reply · @OriginalSicksec combine it with the public program first rofl
+
+
+### Post — @infosec_au — 2023-02-10 12:00 UTC (2023-02-10 13:00 WAT)
+
+- URL: https://x.com/infosec_au/status/1624015478812463104
+- Metrics (at fetch): bookmark 0, impression 1482, like 2, quote 0, reply 2, retweet 0
+
+> @OriginalSicksec combine it with the public program first rofl
+
+
+---
+
+## 2023-02-10 · Thread · when i find someone i enjoy collaborating with in bug bounties, we build a relationship that lasts a
 
 
 ### Post — @infosec_au — 2023-02-10 11:53 UTC (2023-02-10 12:53 WAT)
@@ -2126,6 +2182,14 @@ Tags (automatic): SQL injection, Auth bypass
 - Metrics (at fetch): bookmark 3, impression 21462, like 132, quote 1, reply 2, retweet 1
 
 > when i find someone i enjoy collaborating with in bug bounties, we build a relationship that lasts a lifetime. i deeply appreciate all the people that i’ve had the chance to work with positively. although there are many people i actively avoid working with now.
+
+
+### Thread part 2 — @infosec_au — 2023-02-10 11:56 UTC (2023-02-10 12:56 WAT)
+
+- URL: https://x.com/infosec_au/status/1624014476063444992
+- Metrics (at fetch): bookmark 3, impression 20052, like 45, quote 1, reply 6, retweet 1
+
+> i’ve been able to achieve great things through teamwork and greatly respect the following people @rhyselsmore, @HusseiN98D, @fransrosen, @Hxzeroone, @codecancare, @seanyeoh, @samwcyo. We’ve had a lot of fun together, the bounties don’t even matter at some point.
 
 
 ---
@@ -2188,7 +2252,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-01-27 · Post · you can bypass most wafs with just slightly more domain knowledge of any system you’re hacking lol
+## 2023-01-27 · Thread · you can bypass most wafs with just slightly more domain knowledge of any system you’re hacking lol
 
 
 ### Post — @infosec_au — 2023-01-27 11:16 UTC (2023-01-27 12:16 WAT)
@@ -2197,6 +2261,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 57, impression 47096, like 234, quote 0, reply 10, retweet 17
 
 > you can bypass most wafs with just slightly more domain knowledge of any system you’re hacking lol
+
+
+### Thread part 2 — @infosec_au — 2023-01-27 11:25 UTC (2023-01-27 12:25 WAT)
+
+- URL: https://x.com/infosec_au/status/1618933111919878144
+- Metrics (at fetch): bookmark 11, impression 7186, like 88, quote 0, reply 5, retweet 3
+
+> akamai for example, uploading an aspx file leads to access denied, uploading an ashx file works
 
 
 ---

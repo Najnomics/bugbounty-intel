@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 339
-- Conversations/threads: 303
+- Posts in this file: 341
+- Conversations/threads: 304
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
 
@@ -2355,7 +2355,33 @@ Tags (automatic): Race condition
 
 ---
 
-## 2023-09-05 · Post · When probing for race conditions, don't worry about accidentally using too many requests for a singl
+## 2023-09-07 · Reply · @Rhynorater @LiveOverflow Sadly not.
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Rhynorater — 2023-09-07 18:59 UTC (2023-09-07 19:59 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699859896408195135
+- Metrics (at fetch): bookmark 9, impression 16571, like 49, quote 2, reply 4, retweet 1
+
+> Is anyone aware of a way to force HTTP/1.1 in a victim's browser? Via fetch API or other client-side gadget.  @albinowax @LiveOverflow
+
+
+### Post — @albinowax — 2023-09-07 20:14 UTC (2023-09-07 21:14 WAT)
+
+- URL: https://x.com/albinowax/status/1699878745052438670
+- Metrics (at fetch): bookmark 0, impression 7708, like 8, quote 0, reply 1, retweet 0
+
+> @Rhynorater @LiveOverflow Sadly not.
+
+
+---
+
+## 2023-09-05 · Thread · When probing for race conditions, don't worry about accidentally using too many requests for a singl
 
 
 Tags (automatic): Race condition
@@ -2367,6 +2393,18 @@ Tags (automatic): Race condition
 - Metrics (at fetch): bookmark 12, impression 12383, like 72, quote 0, reply 3, retweet 9
 
 > When probing for race conditions, don't worry about accidentally using too many requests for a single-packet attack. Most requests will still go in a single packet, and the last few will arrive in a second packet shortly later which is usually harmless.
+
+
+### Thread part 2 — @albinowax — 2023-09-05 09:17 UTC (2023-09-05 10:17 WAT)
+
+- URL: https://x.com/albinowax/status/1698988831238717633
+- Metrics (at fetch): bookmark 2, impression 4038, like 24, quote 0, reply 0, retweet 0
+
+> It's when you move to the 'exploit' phase that a few requests arriving late is probably going to spoil your day.
+>
+> Context: https://portswigger.net/research/smashing-the-state-machine#single-packet-attack
+
+**Links in post:** https://portswigger.net/research/smashing-the-state-machine#single-packet-attack
 
 
 ---

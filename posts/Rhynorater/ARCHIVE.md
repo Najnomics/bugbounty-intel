@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 416
-- Conversations/threads: 321
+- Posts in this file: 422
+- Conversations/threads: 324
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
 
@@ -2315,6 +2315,46 @@ Tags (automatic): CSP / CSPT, Request smuggling / desync
 
 ---
 
+## 2024-07-03 · Reply · @garethheyes I've been talking about this bug non-stop on the podcast for the past year - it's every
+
+
+**Context — post being replied to:**
+
+#### Parent post — @garethheyes — 2024-07-03 09:18 UTC (2024-07-03 10:18 WAT)
+
+- URL: https://x.com/garethheyes/status/1808430153220972562
+- Metrics (at fetch): bookmark 43, impression 7609, like 65, quote 0, reply 1, retweet 5
+
+> This is going to be a really common bug. https://t.co/1qXCBUzET7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14511703 — 2024-07-02 20:53 UTC (2024-07-02 21:53 WAT)
+    
+    - URL: https://x.com/14511703/status/1808242573775196627
+    - Metrics (at fetch): bookmark 216, impression 43734, like 287, quote 3, reply 1, retweet 92
+    
+    > After months of work (and bugs), @maxenceschmitt has finally released his fabulous research. Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery or #CSPT2CSRF. 
+    >
+    > Full paper here: https://t.co/vXjkZBq35Q
+    >
+    > Summary in https://t.co/aOQfr6qD8s https://t.co/VpkDGRGmtq
+    
+    **Media:**
+    - media `3_1808242311870242816` (details not returned by the API)
+    
+
+
+### Post — @Rhynorater — 2024-07-03 10:43 UTC (2024-07-03 11:43 WAT)
+
+- URL: https://x.com/Rhynorater/status/1808451376902524978
+- Metrics (at fetch): bookmark 1, impression 855, like 9, quote 0, reply 1, retweet 0
+
+> @garethheyes I've been talking about this bug non-stop on the podcast for the past year - it's everywhere.
+
+
+---
+
 ## 2024-06-24 · Post · The latest addition to the full-time bug bounty squad. https://t.co/dHQ4NRXdHV
 
 
@@ -2525,7 +2565,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2024-03-13 · Post · Had a fun bypass recently where a target wasn't expecting hex encoding in user-specified CSS
+## 2024-03-13 · Thread · Had a fun bypass recently where a target wasn't expecting hex encoding in user-specified CSS
 
 
 ### Post — @Rhynorater — 2024-03-13 20:32 UTC (2024-03-13 21:32 WAT)
@@ -2544,6 +2584,14 @@ Tags (automatic): IDOR / BOLA
 > .123{
 > color:red
 > }
+
+
+### Thread part 2 — @Rhynorater — 2024-03-13 21:55 UTC (2024-03-13 22:55 WAT)
+
+- URL: https://x.com/Rhynorater/status/1768033149404033312
+- Metrics (at fetch): bookmark 1, impression 2024, like 6, quote 0, reply 0, retweet 0
+
+> Lol, rip, I typo'ed \31\32\33
 
 
 ---
@@ -2962,7 +3010,7 @@ Tags (automatic): XSS, Memory corruption / native
 
 ---
 
-## 2023-09-07 · Post · Is anyone aware of a way to force HTTP/1.1 in a victim's browser? Via fetch API or other client-side
+## 2023-09-07 · Thread · Is anyone aware of a way to force HTTP/1.1 in a victim's browser? Via fetch API or other client-side
 
 
 Tags (automatic): Memory corruption / native
@@ -2974,6 +3022,14 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 9, impression 16571, like 49, quote 2, reply 4, retweet 1
 
 > Is anyone aware of a way to force HTTP/1.1 in a victim's browser? Via fetch API or other client-side gadget.  @albinowax @LiveOverflow
+
+
+### Thread part 2 — @Rhynorater — 2023-09-07 20:43 UTC (2023-09-07 21:43 WAT)
+
+- URL: https://x.com/Rhynorater/status/1699886150905975125
+- Metrics (at fetch): bookmark 0, impression 2109, like 2, quote 0, reply 2, retweet 0
+
+> @albinowax @LiveOverflow Bummmmer
 
 
 ---
@@ -4161,6 +4217,9 @@ Tags (automatic): XSS
 ## 2023-07-24 · Post · On my PoC server I've got several files set up called:
 
 
+Tags (automatic): SSRF
+
+
 ### Post — @Rhynorater — 2023-07-24 22:40 UTC (2023-07-24 23:40 WAT)
 
 - URL: https://x.com/Rhynorater/status/1683608171590344705
@@ -4174,7 +4233,11 @@ Tags (automatic): XSS
 >
 > It performs a redirect to the defined endpoint with that redirect code. 
 >
-> Obviously this could be optimized by moving the status code to a parameter as well,
+> Obviously this could be optimized by moving the status code to a parameter as well, but scrapy solutions also work haha
+>
+> This setup has helped me discover weird functionality in SSRF vulnerabilities where they only follow weird redirect codes like 307. 
+>
+> Get that set up on your PoC server!
 
 
 ---
@@ -4203,7 +4266,7 @@ Tags (automatic): XSS, Account takeover
 
 ---
 
-## 2023-07-20 · Post · One of the common threads I've seen of highly successful bug hunters is laser focus. 
+## 2023-07-20 · Thread · One of the common threads I've seen of highly successful bug hunters is laser focus. 
 
 
 ### Post — @Rhynorater — 2023-07-20 14:09 UTC (2023-07-20 15:09 WAT)
@@ -4217,12 +4280,37 @@ Tags (automatic): XSS, Account takeover
 >
 > You're completely enthralled with the technology and its quirks.
 >
-> If you don't have this sort of focus,
+> If you don't have this sort of focus, that could be a limiting factor to your bug bounty success. 
+>
+> So how do you get it? Here are some things that have helped me:
+>
+> * Intermittent fasting - increases focus.
+>  
+> * Limiting mental context switching - just like a CPU, when our brain switches tasks (even to hit the bathroom) the overhead is extreme. Gotta lock this down.
+>
+> * Communicating well with family on focus periods - @Mariahchan_ knows that being "in the zone" is an important part of this, and she does everything she can to protect it ❤️
+>
+> * Putting phone, discord, slack, etc on DnD during hyper focus times. 
+>
+> * Putting on instrumental music/loop music - I drive my collaborators nuts bc I will put a song that is stuck in my head on loop for 12 hours straight while hacking. For me, this makes my brain stop playing the music itself and allows me to focus better. 
+>
+> Glhf, find bugs.
+
+
+### Thread part 2 — @Rhynorater — 2023-07-21 01:36 UTC (2023-07-21 02:36 WAT)
+
+- URL: https://x.com/Rhynorater/status/1682202943074828288
+- Metrics (at fetch): bookmark 1, impression 2228, like 24, quote 0, reply 0, retweet 0
+
+> Disclaimer: this type of intense focus can be self-destructive. This is why I recommend controlled periods of intense focus with ample consideration given to self-care, nutrition, communication with loved ones, ect as outlined in the original post.
 
 
 ---
 
 ## 2023-07-20 · Post · Wow this exploit is SICK. 
+
+
+Tags (automatic): RCE, AI-assisted hunting
 
 
 ### Post — @Rhynorater — 2023-07-20 11:38 UTC (2023-07-20 12:38 WAT)
@@ -4231,7 +4319,9 @@ Tags (automatic): XSS, Account takeover
 - Metrics (at fetch): bookmark 53, impression 15944, like 98, quote 2, reply 1, retweet 18
 
 > Wow this exploit is SICK. 
-> https://t.co/LIeBjcVf2P
+> https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
+
+**Links in post:** https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
 
 
 ---
@@ -4270,6 +4360,33 @@ Tags (automatic): IDOR / BOLA
 > To solve this, I wrote a JS bookmarklet that puts a cookie on the TLD of the target. 
 >
 > Then, I use Request Highlighter to highlight each browser a diff color in Burp via the cookie.
+
+
+---
+
+## 2023-07-18 · Post · @ryotkak いやー、今回数日遅すぎるかな。９月中旬に来日する。
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ryotkak — 2023-07-18 06:00 UTC (2023-07-18 07:00 WAT)
+
+- URL: https://x.com/ryotkak/status/1681182135842131968
+- Metrics (at fetch): bookmark 3, impression 12730, like 21, quote 0, reply 1, retweet 4
+
+> 弊社(株式会社Flatt Security)と弊グループ(Japan HackerOne Club)が協賛するイベントを9月に開催します。ご参加お待ちしております！ https://twitter.com/flatt_security/status/1681137830926618625
+
+**Links in post:** https://twitter.com/flatt_security/status/1681137830926618625
+
+**Quoted post** 1681137830926618625: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @Rhynorater — 2023-07-18 12:05 UTC (2023-07-18 13:05 WAT)
+
+- URL: https://x.com/Rhynorater/status/1681273970459398146
+- Metrics (at fetch): bookmark 0, impression 798, like 1, quote 0, reply 1, retweet 0
+
+> @ryotkak いやー、今回数日遅すぎるかな。９月中旬に来日する。
 
 
 ---
@@ -5082,6 +5199,19 @@ Tags (automatic): Platform: HackerOne
 
 > 1. Pick your portion
 > When a live hacking event kicks off, you will likely have just received a mission to hack an absolutely enormous amount of scope in a relatively small amount of time. Large scopes are hard to address in normal bug bounty, let alone in a competition.
+
+
+---
+
+## 2022-09-24 · Post · @ryotkak おめでとう!RyotaKの賞連続マジ凄い!若いし
+
+
+### Post — @Rhynorater — 2022-09-24 05:55 UTC (2022-09-24 06:55 WAT)
+
+- URL: https://x.com/Rhynorater/status/1573551794453708800
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> @ryotkak おめでとう!RyotaKの賞連続マジ凄い!若いし
 
 
 ---

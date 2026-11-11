@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 157
-- Conversations/threads: 148
+- Posts in this file: 163
+- Conversations/threads: 149
 - Oldest post captured: 2018-07-19
 - Newest post captured: 2026-11-10
 
@@ -2438,7 +2438,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2024-08-14 · Post · I just found a bug and got paid on @immunefi immunefitribe https://t.co/11fvJmqyQs
+## 2024-08-14 · Thread · I just found a bug and got paid on @immunefi immunefitribe https://t.co/11fvJmqyQs
 
 
 Tags (automatic): Platform: Immunefi
@@ -2450,6 +2450,54 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 18, impression 6261, like 68, quote 1, reply 6, retweet 3
 
 > I just found a bug and got paid on @immunefi #immunefitribe https://t.co/11fvJmqyQs
+
+
+### Thread part 2 — @ma1fan — 2024-08-14 05:34 UTC (2024-08-14 06:34 WAT)
+
+- URL: https://x.com/ma1fan/status/1823593909995335726
+- Metrics (at fetch): bookmark 1, impression 885, like 2, quote 0, reply 3, retweet 0
+
+> Thanks
+> @SeiNetwork
+> and
+> @immunefi
+> , they are all great team, I like work with them!
+
+
+### Thread part 3 — @ma1fan — 2024-08-19 06:51 UTC (2024-08-19 07:51 WAT)
+
+- URL: https://x.com/ma1fan/status/1825425321405059146
+- Metrics (at fetch): bookmark 7, impression 1046, like 20, quote 0, reply 1, retweet 0
+
+> My fuzzer help me get $75k bounty, and it only costs 0.1 USD for electricity. I will do the writeup this weel about this bug.😎 https://t.co/5adzFZOslD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVU12FUboAALPbf.jpg — no alt text provided by author
+
+
+### Thread part 4 — @ma1fan — 2024-08-19 06:55 UTC (2024-08-19 07:55 WAT)
+
+- URL: https://x.com/ma1fan/status/1825426442307445143
+- Metrics (at fetch): bookmark 5, impression 1356, like 8, quote 0, reply 3, retweet 0
+
+> the timeline is:
+>  Jul 25, 2024, I complete my fuzzer which cost me 20 hours to  write the fuzzer:
+> https://t.co/9WoCRSq1NG
+> August 2, 2024, the Team confirmed bug
+> August 14, 2024. They Paid for the bug
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2024-07-25 06:50 UTC (2024-07-25 07:50 WAT)
+    
+    - URL: https://x.com/ma1fan/status/1816365454992236853
+    - Metrics (at fetch): bookmark 7, impression 5489, like 22, quote 2, reply 2, retweet 0
+    
+    > I create a Sei Tx fuzzer, It seems  works !🤠 https://t.co/zx5q4vTnUQ
+    
+    **Media:**
+    - media `3_1816365267657904128` (details not returned by the API)
+    
 
 
 ---
@@ -2466,6 +2514,22 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GT_FrDZb0AAI0t_.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-25 · Post · I create a Sei Tx fuzzer, It seems  works !🤠 https://t.co/zx5q4vTnUQ
+
+
+### Post — @ma1fan — 2024-07-25 06:50 UTC (2024-07-25 07:50 WAT)
+
+- URL: https://x.com/ma1fan/status/1816365454992236853
+- Metrics (at fetch): bookmark 7, impression 5489, like 22, quote 2, reply 2, retweet 0
+
+> I create a Sei Tx fuzzer, It seems  works !🤠 https://t.co/zx5q4vTnUQ
+
+**Media:**
+- media `3_1816365267657904128` (details not returned by the API)
 
 
 ---
@@ -2608,7 +2672,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-11-10 · Post · I just received a $140K bounty reward for submitting two critical bug report on @immunefi!
+## 2023-11-10 · Thread · I just received a $140K bounty reward for submitting two critical bug report on @immunefi!
 
 
 Tags (automatic): Platform: Immunefi
@@ -2625,6 +2689,22 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F-kbvYUaAAA89wL.png — no alt text provided by author
+
+
+### Thread part 2 — @ma1fan — 2023-11-10 11:38 UTC (2023-11-10 12:38 WAT)
+
+- URL: https://x.com/ma1fan/status/1722941747784020075
+- Metrics (at fetch): bookmark 0, impression 3389, like 15, quote 0, reply 6, retweet 0
+
+> I will do some write up in the future~😄
+
+
+### Thread part 3 — @ma1fan — 2023-11-10 12:37 UTC (2023-11-10 13:37 WAT)
+
+- URL: https://x.com/ma1fan/status/1722956618542071863
+- Metrics (at fetch): bookmark 1, impression 2968, like 13, quote 0, reply 4, retweet 0
+
+> Note: I found these bugs in 1 week👀
 
 
 ---

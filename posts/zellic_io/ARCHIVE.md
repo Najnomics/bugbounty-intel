@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 353
+- Posts in this file: 374
 - Conversations/threads: 103
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
@@ -5080,7 +5080,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
-## 2022-11-23 · Post · Approved 3 new projects on our audit coverage tracker!
+## 2022-11-23 · Thread · Approved 3 new projects on our audit coverage tracker!
 
 
 ### Post — @zellic_io — 2022-11-23 00:55 UTC (2022-11-23 01:55 WAT)
@@ -5093,6 +5093,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 > 👉 Liquity Finance
 > 👉 Exactly Protocol
 > You can submit yours here: https://t.co/f6o8VsvFnh
+
+
+### Thread part 2 — @zellic_io — 2022-11-23 00:55 UTC (2022-11-23 01:55 WAT)
+
+- URL: https://x.com/zellic_io/status/1595219568770834433
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Will be pushing out an update this week to better support diffs in OpenZeppelin libraries
 
 
 ---
@@ -5473,7 +5481,10 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-04-02 · Post · In one of our recent engagements with a customer, we were asked to audit some code which depended on
+## 2022-04-02 · Thread · In one of our recent engagements with a customer, we were asked to audit some code which depended on
+
+
+Tags (automatic): Smart contract / DeFi, ZK
 
 
 ### Post — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
@@ -5485,6 +5496,204 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FPXHltYXEAEF3t-.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341872325115911
+- Metrics (at fetch): bookmark 4, impression 0, like 25, quote 0, reply 1, retweet 0
+
+> This wasn't our first seeing BokkyPooBah's DateTime library. Many other projects depend on this code as well. This made me wonder--with a magic looking formula like this, has this code been actually verified? If there were a bug, it would be a vulnerability across many projects. https://t.co/XvxsmO8pmb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXIaCOXwAEPEFC.png — no alt text provided by author
+
+
+### Thread part 3 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341876091604993
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 2, retweet 0
+
+> The function is documented, but if you try to go to the link they cite as a source, it just returns an error. The webpage doesn't exist anymore. https://t.co/aAtEaQGT6V
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXIlQDXoAIHaQo.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341880222990347
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 1, retweet 0
+
+> So, we set out on verifying the function's correctness ourselves. It's a pure function that converts days since epoch to y/m/d. Let's compare it against Python's datetime module as a ground truth. We ported the code to Python, and ran it for all UNIX timestamps 30 years from now. https://t.co/oFfP1JEfwm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXJafYWUA8_mli.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341909792923652
+- Metrics (at fetch): bookmark 1, impression 0, like 28, quote 0, reply 2, retweet 2
+
+> To speed things up, I used multiprocessing to run it on all 32 cores of my CPU. Still, the verification wasn't too fast. https://t.co/iaPNpQNa1F
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341913278398468
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 2, retweet 0
+
+> This shows correctness, but only for a given range of values (+/-30 years). It doesn't provide any assurance for any other values. And verifying large ranges of values takes too long. My next instinct was to reach for formal verification using SMT solvers (theorem provers).
+
+
+### Thread part 7 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341916382093325
+- Metrics (at fetch): bookmark 1, impression 0, like 18, quote 0, reply 1, retweet 0
+
+> If you look in CPython's source code, the datetime module really just shells out to libc's gmtime function. gmtime converts a unix timestamp (same format as block.timestamp) to years, months, and days. https://t.co/A4IuHRdIGl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXL2hQWYAIJT34.jpg — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341920043765760
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 0
+
+> So, I went to musl libc (a popular libc implementation) and found the function responsible for implementing that. This function is __secs_to_tm. It's this beefy, totally different formula. https://t.co/ru734v0Iey
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXMKJEXwAEVDoC.jpg — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341924007337984
+- Metrics (at fetch): bookmark 1, impression 0, like 25, quote 0, reply 1, retweet 0
+
+> My first approach was to compile a C program that took a timestamp as input, computed both formulas for y/m/d, then checked if they disagreed. Then, I'd try to make that branch satisfiable with a symbolic executor like angr or manticore. https://t.co/rGviCEZEJC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXM3cDXMAI2GFa.png — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341926029041664
+- Metrics (at fetch): bookmark 1, impression 0, like 18, quote 0, reply 3, retweet 0
+
+> However, angr and manticore proved to be ineffective. Probably due to the path explosion problem typical in symbolic/concolic executors :(
+> I also tried doing the same test in Solidity and using manticore, but it also was ineffective. Would love to hear from any manticore experts!
+
+
+### Thread part 11 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341929548013573
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 1, retweet 0
+
+> Undeterred, I decided to convert both functions to SMT expressions myself in Z3Py, and do the verification myself. Time to get our hands dirty! https://t.co/75Lhht2dLr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXNRWKWQAkYz4j.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FPXNyOIXwA8oyMr.png — no alt text provided by author
+
+
+### Thread part 12 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341931322294272
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 1, retweet 0
+
+> Converting the code to SMT formulas isn't trivial. All loops need to be unrolled, and if there are any functions, they need to be inlined. If-statements need to be turned into ternaries. You're basically turning sequential logic into combinatorial logic.
+
+
+### Thread part 13 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341932765040647
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 1, retweet 0
+
+> This technique is basically bounded model checking (BMC). This is a well-known technique from program analysis. However, BMC can overapproximate if the loop/inlining bound is too low. Luckily, all loops here have constant iteration count, so our model is perfect!
+
+
+### Thread part 14 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341937106386947
+- Metrics (at fetch): bookmark 0, impression 0, like 30, quote 0, reply 2, retweet 0
+
+> After running our code, it yields unsat! That means the formula is correct for all values from 0 to 200000000000! That's a way bigger range than we initially checked. No way we could manually check this in a reasonable time. https://t.co/ogQlhMaSEN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXNfE3XoAonCOK.png — no alt text provided by author
+
+
+### Thread part 15 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341939438174213
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 0
+
+> (To get it to run quicker, I exported the z3py expressions to smtlib2, then used cvc5 solver which is much faster than z3.)
+
+
+### Thread part 16 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341940851662854
+- Metrics (at fetch): bookmark 2, impression 0, like 16, quote 1, reply 1, retweet 0
+
+> However, I thought this solution was quite inelegant. Manticore wasn't doing so well before with Solidity, but what about solc's built-in SMTChecker? https://t.co/lvarKOBJ85
+
+
+### Thread part 17 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341944290988039
+- Metrics (at fetch): bookmark 2, impression 0, like 26, quote 0, reply 1, retweet 0
+
+> SMTChecker is amazing. I implemented the two functions in Solidity, then added an assert to verify they're the same. Look how many values we're verifying here! https://t.co/Ri8r69pvWS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXPP9GWYAsd_fX.png — no alt text provided by author
+
+
+### Thread part 18 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341948149796870
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 2, retweet 0
+
+> It gives us some warnings, but the verification succeeds! The cvc4 SMT solver is able to verify billions of values in just a few seconds by actually proving facts about the equations! (I had to compile solc from source to enable cvc4, which is faster than z3) https://t.co/xmlvsPT86z
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXPI-OXEAAq0Kr.jpg — no alt text provided by author
+
+
+### Thread part 19 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341953208131594
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 0
+
+> I also had to unroll loops in the musl libc implementation since solc's SMTChecker BMC doesn't handle loops yet. It over-approximates leading to wrong results unless all loops are unrolled. https://t.co/3g29GRb0PF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXPadgXEAox09f.png — no alt text provided by author
+
+
+### Thread part 20 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341956756455425
+- Metrics (at fetch): bookmark 4, impression 0, like 93, quote 1, reply 6, retweet 2
+
+> Anyways, now I feel much safer about this DateTime function. As you can see, formal verification is still in a very nascent stage. However, it remains a valuable and powerful tool for researchers. We'll be releasing a blog post with more details on our experiments. Stay tuned!
+
+
+### Thread part 21 — @zellic_io — 2022-04-03 02:02 UTC (2022-04-03 03:02 WAT)
+
+- URL: https://x.com/zellic_io/status/1510437539890581505
+- Metrics (at fetch): bookmark 3, impression 0, like 30, quote 0, reply 2, retweet 3
+
+> Artifacts for experiments now available here: https://t.co/GCMrFJYgJM Enjoy!
 
 
 ---

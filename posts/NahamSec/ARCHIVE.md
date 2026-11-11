@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1150
+- Posts in this file: 1157
 - Conversations/threads: 988
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
@@ -4194,7 +4194,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
-## 2024-07-24 · Post · Should I host another live recon stream on Friday? 🤔
+## 2024-07-24 · Thread · Should I host another live recon stream on Friday? 🤔
 
 
 ### Post — @NahamSec — 2024-07-24 17:30 UTC (2024-07-24 18:30 WAT)
@@ -4203,6 +4203,16 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 6, impression 8471, like 131, quote 1, reply 20, retweet 0
 
 > Should I host another live recon stream on Friday? 🤔
+
+
+### Thread part 2 — @NahamSec — 2024-07-24 18:15 UTC (2024-07-24 19:15 WAT)
+
+- URL: https://x.com/NahamSec/status/1816175405889642703
+- Metrics (at fetch): bookmark 4, impression 2414, like 11, quote 0, reply 0, retweet 1
+
+> https://www.youtube.com/watch?v=VlWYb6rTa50
+
+**Links in post:** https://www.youtube.com/watch?v=VlWYb6rTa50
 
 
 ---
@@ -5591,6 +5601,27 @@ Tags (automatic): SSRF
 
 ---
 
+## 2023-11-06 · Thread · Tomorrow’s bug bounty series is a banger! I actually screen recorded one of my findings and turned i
+
+
+### Post — @NahamSec — 2023-11-06 03:08 UTC (2023-11-06 04:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1721363895666020787
+- Metrics (at fetch): bookmark 18, impression 23059, like 254, quote 0, reply 12, retweet 10
+
+> Tomorrow’s bug bounty series is a banger! I actually screen recorded one of my findings and turned it into a video 💪🏼
+
+
+### Thread part 2 — @NahamSec — 2023-11-06 16:38 UTC (2023-11-06 17:38 WAT)
+
+- URL: https://x.com/NahamSec/status/1721567627309711363
+- Metrics (at fetch): bookmark 4, impression 5528, like 11, quote 1, reply 0, retweet 0
+
+> Video is up on YouTube: https://t.co/ULdup5kQEG
+
+
+---
+
 ## 2023-11-06 · Post · I hacked @redbull again but this time I had to exploit a tomcat instance using a path traversal  and
 
 
@@ -5606,19 +5637,6 @@ Tags (automatic): SSRF
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F-Q8ES5a8AQ1V9u.jpg — no alt text provided by author
-
-
----
-
-## 2023-11-06 · Post · Tomorrow’s bug bounty series is a banger! I actually screen recorded one of my findings and turned i
-
-
-### Post — @NahamSec — 2023-11-06 03:08 UTC (2023-11-06 04:08 WAT)
-
-- URL: https://x.com/NahamSec/status/1721363895666020787
-- Metrics (at fetch): bookmark 18, impression 23059, like 254, quote 0, reply 12, retweet 10
-
-> Tomorrow’s bug bounty series is a banger! I actually screen recorded one of my findings and turned it into a video 💪🏼
 
 
 ---
@@ -5719,7 +5737,7 @@ Tags (automatic): XSS, Account takeover
 
 ---
 
-## 2023-10-16 · Post · I think making $1,000/month with bug bounty hunting is 100% doable and easy. Here's how: 
+## 2023-10-16 · Thread · I think making $1,000/month with bug bounty hunting is 100% doable and easy. Here's how: 
 
 
 ### Post — @NahamSec — 2023-10-16 15:49 UTC (2023-10-16 16:49 WAT)
@@ -5733,6 +5751,14 @@ Tags (automatic): XSS, Account takeover
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F8koA5CaUAAsZzu.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2023-10-16 15:50 UTC (2023-10-16 16:50 WAT)
+
+- URL: https://x.com/NahamSec/status/1713945443087081472
+- Metrics (at fetch): bookmark 4, impression 4118, like 22, quote 0, reply 1, retweet 2
+
+> Shout out to @snyksec  for sponsoring this week's video!  Signup for Snyk's CTF today: https://t.co/VxltOlnCmb
 
 
 ---
@@ -6519,7 +6545,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2023-05-15 · Post · Cybersecurity &amp; Bug Bounty AMA followed by some @tryhackme! https://t.co/zR0azHwsct
+## 2023-05-15 · Thread · Cybersecurity &amp; Bug Bounty AMA followed by some @tryhackme! https://t.co/zR0azHwsct
 
 
 ### Post — @NahamSec — 2023-05-15 17:00 UTC (2023-05-15 18:00 WAT)
@@ -6528,6 +6554,14 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 3, impression 9653, like 26, quote 0, reply 1, retweet 4
 
 > Cybersecurity &amp; Bug Bounty AMA followed by some @tryhackme! https://t.co/zR0azHwsct
+
+
+### Thread part 2 — @NahamSec — 2023-05-15 17:38 UTC (2023-05-15 18:38 WAT)
+
+- URL: https://x.com/NahamSec/status/1658165060349599744
+- Metrics (at fetch): bookmark 0, impression 4347, like 9, quote 0, reply 2, retweet 1
+
+> @tryhackme Looks like @tryhackme VPNs are broken
 
 
 ---
@@ -9098,7 +9132,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2022-03-27 · Post · I have the next 30 mins open while drunk. ask me anything but make it non hacking or bug bounty rela
+## 2022-03-27 · Thread · I have the next 30 mins open while drunk. ask me anything but make it non hacking or bug bounty rela
 
 
 ### Post — @NahamSec — 2022-03-27 05:41 UTC (2022-03-27 06:41 WAT)
@@ -9107,6 +9141,14 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): bookmark 5, impression 0, like 119, quote 0, reply 51, retweet 0
 
 > I have the next 30 mins open while drunk. ask me anything but make it non hacking or bug bounty related.
+
+
+### Thread part 2 — @NahamSec — 2022-03-27 05:45 UTC (2022-03-27 06:45 WAT)
+
+- URL: https://x.com/NahamSec/status/1507956853359071233
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 11, retweet 1
+
+> Make it personal. Let’s Fucking do this
 
 
 ---
@@ -9364,6 +9406,19 @@ Tags (automatic): SSRF
 
 ---
 
+## 2022-02-04 · Reply · @RogueSMG Yeah - I'm not really too keen on the making fun of bug bounty stereotypes or the outsider
+
+
+### Post — @NahamSec — 2022-02-04 07:55 UTC (2022-02-04 08:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1489507874959101955
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> @RogueSMG Yeah - I'm not really too keen on the making fun of bug bounty stereotypes or the outsiders hate on bug bounty hunters. Jokes are funny and but it's different when it's targeted towards particular groups or individuals
+
+
+---
+
 ## 2022-02-04 · Post · It’s often the people that have done the least amount of work with bug bounties who hate on it the m
 
 
@@ -9565,13 +9620,21 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2021-12-14 · Post · @zseano Oh I see:
+## 2021-12-14 · Thread · Here we go again.. @zseano's talk from nahamcon2021 "Putting Your Mind to It: Bug Bounties for 12 M
 
 
 Tags (automatic): Platform: HackerOne
 
 
-### Post — @NahamSec — 2021-12-14 22:54 UTC (2021-12-14 23:54 WAT)
+### Post — @NahamSec — 2021-12-14 22:51 UTC (2021-12-14 23:51 WAT)
+
+- URL: https://x.com/NahamSec/status/1470889192875958272
+- Metrics (at fetch): bookmark 8, impression 0, like 141, quote 2, reply 13, retweet 9
+
+> Here we go again.. @zseano's talk from #nahamcon2021 "Putting Your Mind to It: Bug Bounties for 12 Months" was just removed from YouTube for being "Harmful or dangerous content".
+
+
+### Thread part 2 — @NahamSec — 2021-12-14 22:54 UTC (2021-12-14 23:54 WAT)
 
 - URL: https://x.com/NahamSec/status/1470890055740706817
 - Metrics (at fetch): bookmark 0, impression 0, like 29, quote 0, reply 2, retweet 1
@@ -9583,17 +9646,12 @@ Tags (automatic): Platform: HackerOne
 > Are you telling me @Hacker0x01's Hacker101 - a platform for ethical hacking and CTF is... harmful and dangerous?!
 
 
----
+### Thread part 3 — @NahamSec — 2021-12-15 01:33 UTC (2021-12-15 02:33 WAT)
 
-## 2021-12-14 · Post · Here we go again.. @zseano's talk from nahamcon2021 "Putting Your Mind to It: Bug Bounties for 12 M
+- URL: https://x.com/NahamSec/status/1470929986664075269
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 2, retweet 2
 
-
-### Post — @NahamSec — 2021-12-14 22:51 UTC (2021-12-14 23:51 WAT)
-
-- URL: https://x.com/NahamSec/status/1470889192875958272
-- Metrics (at fetch): bookmark 8, impression 0, like 141, quote 2, reply 13, retweet 9
-
-> Here we go again.. @zseano's talk from #nahamcon2021 "Putting Your Mind to It: Bug Bounties for 12 Months" was just removed from YouTube for being "Harmful or dangerous content".
+> @zseano @Hacker0x01 To be clear I think they’ve done a lot better recently with content creators and ethical hacking videos. I just don’t get why a website, specifically one I actually maintain,  is being flagged as dangerous.
 
 
 ---

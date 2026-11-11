@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 282
+- Posts in this file: 283
 - Conversations/threads: 198
 - Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
@@ -1417,10 +1417,10 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-11-09 · Post · Trying to exploit an XSS issue and have managed to segfault the browser... I  _really_ am bad at XSS
+## 2023-11-09 · Thread · Trying to exploit an XSS issue and have managed to segfault the browser... I  _really_ am bad at XSS
 
 
-Tags (automatic): XSS
+Tags (automatic): XSS, Memory corruption / native
 
 
 ### Post — @ajxchapman — 2023-11-09 10:28 UTC (2023-11-09 11:28 WAT)
@@ -1429,6 +1429,14 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 6861, like 28, quote 0, reply 5, retweet 0
 
 > Trying to exploit an XSS issue and have managed to segfault the browser... I  _really_ am bad at XSS 🤣
+
+
+### Thread part 2 — @ajxchapman — 2023-11-09 11:09 UTC (2023-11-09 12:09 WAT)
+
+- URL: https://x.com/ajxchapman/status/1722572170910372185
+- Metrics (at fetch): bookmark 0, impression 1042, like 2, quote 0, reply 0, retweet 0
+
+> Boooo, only a stack overflow. Oh well!
 
 
 ---

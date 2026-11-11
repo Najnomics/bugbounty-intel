@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 69
+- Posts in this file: 75
 - Conversations/threads: 58
 - Oldest post captured: 2021-09-11
 - Newest post captured: 2026-10-28
@@ -935,7 +935,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-07-18 · Post · This HTML parsing behavior is absolutely wtf...
+## 2024-07-18 · Thread · This HTML parsing behavior is absolutely wtf...
 
 
 ### Post — @kevin_mizu — 2024-07-18 15:00 UTC (2024-07-18 16:00 WAT)
@@ -956,9 +956,35 @@ Tags (automatic): XSS
 **Quoted post** 1813658752245236105: not readable via the API (deleted, private, or withheld).
 
 
+### Thread part 2 — @kevin_mizu — 2024-07-18 15:13 UTC (2024-07-18 16:13 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1813955250614833458
+- Metrics (at fetch): bookmark 0, impression 902, like 2, quote 0, reply 2, retweet 0
+
+> @garethheyes Oops, I might need to read your book a second time! I wasn't aware of this parsing behavior at all, it's really impressive!
+>
+> Do you have any specification references associated with this specific behavior? I'm curious to see why this would be necessary :D
+
+
+### Thread part 3 — @kevin_mizu — 2024-07-18 17:02 UTC (2024-07-18 18:02 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1813982733854818483
+- Metrics (at fetch): bookmark 0, impression 346, like 0, quote 0, reply 1, retweet 0
+
+> @garethheyes Thanks! I'll give it a look 😁
+
+
+### Thread part 4 — @kevin_mizu — 2024-07-18 17:47 UTC (2024-07-18 18:47 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1813994009905578045
+- Metrics (at fetch): bookmark 0, impression 370, like 0, quote 0, reply 1, retweet 0
+
+> @garethheyes I feel you, specs can be really complicated to understand sometimes. I haven't tried Shazzer yet. I should give it some time, the tool looks super powerfull! :D
+
+
 ---
 
-## 2024-07-15 · Post · Great research from @scryh_!
+## 2024-07-15 · Thread · Great research from @scryh_!
 
 
 ### Post — @kevin_mizu — 2024-07-15 16:10 UTC (2024-07-15 17:10 WAT)
@@ -978,6 +1004,14 @@ Tags (automatic): XSS
 **Links in post:** https://twitter.com/Sonar_Research/status/1812864424807444825
 
 **Quoted post** 1812864424807444825: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @kevin_mizu — 2024-07-15 16:50 UTC (2024-07-15 17:50 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1812892594843582632
+- Metrics (at fetch): bookmark 13, impression 2280, like 28, quote 0, reply 0, retweet 2
+
+> The code is available here: https://t.co/ai1BHGfaLI
 
 
 ---
@@ -1520,7 +1554,7 @@ Tags (automatic): XSS, Request smuggling / desync
 
 ---
 
-## 2023-03-09 · Post · Last month, I did some research on NodeJS templating libraries. During this research, I found an int
+## 2023-03-09 · Thread · Last month, I did some research on NodeJS templating libraries. During this research, I found an int
 
 
 Tags (automatic): RCE
@@ -1534,6 +1568,40 @@ Tags (automatic): RCE
 > Last month, I did some research on NodeJS templating libraries. During this research, I found an interesting Server Side Prototype Pollution gadget inside EJS library that can be leveraged to RCE!
 >
 > Technical details here: https://t.co/Bra3kinYb6
+
+
+### Thread part 2 — @kevin_mizu — 2023-03-11 15:15 UTC (2023-03-11 16:15 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1634573754658353153
+- Metrics (at fetch): bookmark 1, impression 702, like 9, quote 0, reply 1, retweet 2
+
+> I'm really sorry, but it seems that someone found it before me...
+>
+> He made a more complete article on his research, you can read it here:
+> https://t.co/8L1G021Bwx
+
+
+### Thread part 3 — @kevin_mizu — 2023-03-11 16:43 UTC (2023-03-11 17:43 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1634595802675916803
+- Metrics (at fetch): bookmark 0, impression 514, like 1, quote 0, reply 0, retweet 0
+
+> https://t.co/DtdR17uCAo
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1074912314 — 2021-12-15 16:00 UTC (2021-12-15 17:00 WAT)
+    
+    - URL: https://x.com/1074912314/status/1471148042577350659
+    - Metrics (at fetch): bookmark 11, impression 0, like 168, quote 3, reply 6, retweet 28
+    
+    > Can you spot the vulnerability? #codeadvent2021 #typescript
+    >
+    > Why is this code dangerous? Bonus points if you can describe exactly how to exploit this! https://t.co/TbJj0A4o8Q
+    
+    **Media:**
+    - media `3_1465674818980913160` (details not returned by the API)
+    
 
 
 ---

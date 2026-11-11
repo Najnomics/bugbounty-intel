@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 105
+- Posts in this file: 106
 - Conversations/threads: 99
 - Oldest post captured: 2022-10-11
 - Newest post captured: 2026-10-31
@@ -1548,7 +1548,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2023-08-18 · Post · which one is good for Bug bounty ? 
+## 2023-08-18 · Thread · which one is good for Bug bounty ? 
 
 
 ### Post — @RootxRavi — 2023-08-18 14:10 UTC (2023-08-18 15:10 WAT)
@@ -1559,6 +1559,14 @@ Tags (automatic): Platform: Bugcrowd
 > which one is good for Bug bounty ? 
 >
 > MAC or Windows?
+
+
+### Thread part 2 — @RootxRavi — 2023-08-18 21:29 UTC (2023-08-18 22:29 WAT)
+
+- URL: https://x.com/RootxRavi/status/1692650058116739488
+- Metrics (at fetch): bookmark 0, impression 24, like 0, quote 0, reply 0, retweet 0
+
+> @aptx378 @marianocsanchez in term of performance
 
 
 ---

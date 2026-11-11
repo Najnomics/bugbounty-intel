@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
-- Conversations/threads: 326
+- Conversations/threads: 322
 - Oldest post captured: 2022-11-05
 - Newest post captured: 2025-04-21
 
@@ -9334,22 +9334,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-02-24 · Post · Source: @Ashton_Addison_ @CryptoCoinShow 
-
-
-### Post — @ChainLight_io — 2024-02-24 21:33 UTC (2024-02-24 22:33 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1761504714888282162
-- Metrics (at fetch): bookmark 1, impression 295, like 1, quote 0, reply 0, retweet 0
-
-> Source: @Ashton_Addison_ @CryptoCoinShow 
->
-> https://t.co/RIgzueK2V8
-
-
----
-
-## 2024-02-24 · Post · Join ChainLight's CTO, @AndrewWesie, as he shares the story of how ChainLight started in 2016 and ou
+## 2024-02-24 · Thread · Join ChainLight's CTO, @AndrewWesie, as he shares the story of how ChainLight started in 2016 and ou
 
 
 ### Post — @ChainLight_io — 2024-02-24 21:33 UTC (2024-02-24 22:33 WAT)
@@ -9361,6 +9346,16 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-02-24 21:33 UTC (2024-02-24 22:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1761504714888282162
+- Metrics (at fetch): bookmark 1, impression 295, like 1, quote 0, reply 0, retweet 0
+
+> Source: @Ashton_Addison_ @CryptoCoinShow 
+>
+> https://t.co/RIgzueK2V8
 
 
 ---
@@ -9516,7 +9511,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > I'm back, did you miss me? I have some huge news!
     >
-    > Over the last year and a half, I've been working on something big in secret with the rest of the crypto security community. Today, we're finally ready to reveal ourselves to the world. We are @_SEAL_Org https://t.co/Jho9wQDxEr
+    > Over the last year and a half, I've been working on something big in secret with the rest of the crypto security community. Today, we're finally ready to reveal ourselves to the world. We are @_SEAL_Org [pic.x.com/Jho9wQDxEr]
     
     **Media:**
     - media `3_1757746782388490240` (details not returned by the API)
@@ -24204,85 +24199,10 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-02-24 · Post · 5/ 💡 Our team includes Yechan Bae and Jungwon Lim, who published a paper on securing the stability o
-
-
-### Post — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1629090485783642112
-- Metrics (at fetch): bookmark 0, impression 930, like 5, quote 0, reply 0, retweet 0
-
-> 5/ 💡 Our team includes Yechan Bae and Jungwon Lim, who published a paper on securing the stability of the Rust ecosystem at SOSP 2021. We're now focused on securing the Web3 ecosystem. 🎉 #Rust
-> https://t.co/YXjvlEpFMP
-
-
----
-
-## 2023-02-24 · Thread · 2/ 🏆 Our team comprises members of the @Defcon CTF 2022 championship-winning team, the largest hacki
+## 2023-02-24 · Thread · 0/ Who are we?
 
 
 Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: Immunefi
-
-
-### Post — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1629090478963724289
-- Metrics (at fetch): bookmark 0, impression 989, like 6, quote 0, reply 1, retweet 0
-
-> 2/ 🏆 Our team comprises members of the @Defcon CTF 2022 championship-winning team, the largest hacking competition in the world! #DEFCON #CTF 
-> https://t.co/ywKnFnqSxs
-
-
-### Thread part 2 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1629090480930816005
-- Metrics (at fetch): bookmark 0, impression 899, like 5, quote 1, reply 1, retweet 0
-
-> 3/ ☄️ We are listed on the @Ethereum Foundation's Leaderboard for finding vulnerabilities in Ethereum, the world's largest smart contract-enabled blockchain. Juno Im, who is the lead researcher on our team, is on the leaderboard. #Ethereum #BugBounty https://ethereum.org/en/bug-bounty/#leaderboard
-
-**Links in post:** https://ethereum.org/en/bug-bounty/#leaderboard
-
-
-### Thread part 3 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1629090482692423680
-- Metrics (at fetch): bookmark 0, impression 615, like 5, quote 0, reply 1, retweet 0
-
-> 4/ 🌪️ We are also listed on @Immunefi's leaderboard. We have partnered with Immunefi to help various Web3 projects by finding vulnerabilities. #Immunefi #BugBounty
->
-> https://t.co/UEQk5gTIPv https://t.co/ekdaEH6Nyx
-
-**Media:**
-- photo: https://pbs.twimg.com/media/FpuwUlUaUAANCu8.jpg — no alt text provided by author
-
-
----
-
-## 2023-02-24 · Post · 1/ 🥇 We won @Paradigm_CTF 2022, which is a Capture the Flag (CTF) competition organized by Paradigm,
-
-
-Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
-
-
-### Post — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
-
-- URL: https://x.com/ChainLight_io/status/1629090475398541315
-- Metrics (at fetch): bookmark 0, impression 786, like 7, quote 0, reply 1, retweet 0
-
-> 1/ 🥇 We won @Paradigm_CTF 2022, which is a Capture the Flag (CTF) competition organized by Paradigm, a blockchain investment firm focused on cryptocurrency and decentralized finance (DeFi) projects. #Paradigm #CTF
->
-> https://t.co/IkKbJn6BRx https://t.co/cZ9rHTgYO8
-
-**Media:**
-- video:  — no alt text provided by author
-
-
----
-
-## 2023-02-24 · Post · 0/ Who are we?
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
@@ -24297,6 +24217,94 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > ✨ Visit our website to learn more about ChainLight 👉 https://t.co/GkmAcCPZ5A
 >
 > #Blockchain #Cybersecurity #SmartContracts
+
+
+### Thread part 2 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1629090475398541315
+- Metrics (at fetch): bookmark 0, impression 786, like 7, quote 0, reply 1, retweet 0
+
+> 1/ 🥇 We won @Paradigm_CTF 2022, which is a Capture the Flag (CTF) competition organized by Paradigm, a blockchain investment firm focused on cryptocurrency and decentralized finance (DeFi) projects. #Paradigm #CTF
+>
+> https://t.co/IkKbJn6BRx https://t.co/cZ9rHTgYO8
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 3 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1629090478963724289
+- Metrics (at fetch): bookmark 0, impression 989, like 6, quote 0, reply 1, retweet 0
+
+> 2/ 🏆 Our team comprises members of the @Defcon CTF 2022 championship-winning team, the largest hacking competition in the world! #DEFCON #CTF 
+> https://t.co/ywKnFnqSxs
+
+**Quoted post (full text):**
+
+    #### Quoted post — @4754640552 — 2022-08-17 08:30 UTC (2022-08-17 09:30 WAT)
+    
+    - URL: https://x.com/4754640552/status/1559819843704324101
+    - Metrics (at fetch): bookmark 1, impression 0, like 66, quote 4, reply 1, retweet 13
+    
+    > We came, we saw, we conquered.
+    >
+    > MMM takes 1st at @defcon CTF! We had a great time playing with our friends @maplebaconctf and @PlaidCTF as @mmm_ctf_team! 🍁🦆🗝
+    >
+    > Great job to Katzebin and StarBugs, and all other teams! Thank you @Nautilus_CTF for organizing!
+    >
+    > Now, back to work! https://t.co/DkqxeqgTXy
+    
+    **Media:**
+    - media `3_1559819689609818113` (details not returned by the API)
+    
+
+
+### Thread part 4 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1629090480930816005
+- Metrics (at fetch): bookmark 0, impression 899, like 5, quote 1, reply 1, retweet 0
+
+> 3/ ☄️ We are listed on the @Ethereum Foundation's Leaderboard for finding vulnerabilities in Ethereum, the world's largest smart contract-enabled blockchain. Juno Im, who is the lead researcher on our team, is on the leaderboard. #Ethereum #BugBounty https://ethereum.org/en/bug-bounty/#leaderboard
+
+**Links in post:** https://ethereum.org/en/bug-bounty/#leaderboard
+
+
+### Thread part 5 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1629090482692423680
+- Metrics (at fetch): bookmark 0, impression 615, like 5, quote 0, reply 1, retweet 0
+
+> 4/ 🌪️ We are also listed on @Immunefi's leaderboard. We have partnered with Immunefi to help various Web3 projects by finding vulnerabilities. #Immunefi #BugBounty
+>
+> https://t.co/UEQk5gTIPv https://t.co/ekdaEH6Nyx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpuwUlUaUAANCu8.jpg — no alt text provided by author
+
+
+### Thread part 6 — @ChainLight_io — 2023-02-24 12:06 UTC (2023-02-24 13:06 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1629090485783642112
+- Metrics (at fetch): bookmark 0, impression 930, like 5, quote 0, reply 0, retweet 0
+
+> 5/ 💡 Our team includes Yechan Bae and Jungwon Lim, who published a paper on securing the stability of the Rust ecosystem at SOSP 2021. We're now focused on securing the Web3 ecosystem. 🎉 #Rust
+> https://t.co/YXjvlEpFMP
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1449082818315923458 — 2021-10-26 22:05 UTC (2021-10-26 23:05 WAT)
+    
+    - URL: https://x.com/1449082818315923458/status/1453120746654507021
+    - Metrics (at fetch): bookmark 0, impression 0, like 36, quote 3, reply 0, retweet 12
+    
+    > "Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale” receives the #SOSP21 distinguished artifact award!! 🏆🏆🏆
+    >
+    > Congratulations to Yechan Bae, Youngsuk Kim, Ammar Askar, Jungwon Lim, and Taesoo Kim. https://t.co/IpOUjc0Vpo
+    
+    **Media:**
+    - media `3_1453120666312511497` (details not returned by the API)
+    
 
 
 ---

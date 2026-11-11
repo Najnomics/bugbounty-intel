@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 74
+- Posts in this file: 75
 - Conversations/threads: 63
 - Oldest post captured: 2023-08-19
 - Newest post captured: 2026-03-12
@@ -1120,7 +1120,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2024-08-26 · Post · Say NO to EOF. It is a shit-tornado that will cripple ETH and the EVM ecosystem.
+## 2024-08-26 · Thread · Say NO to EOF. It is a shit-tornado that will cripple ETH and the EVM ecosystem.
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
@@ -1139,6 +1139,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Media:**
 - animated_gif:  — no alt text provided by author
+
+
+### Thread part 2 — @Guhu95 — 2024-08-26 02:05 UTC (2024-08-26 03:05 WAT)
+
+- URL: https://x.com/Guhu95/status/1827890073968288110
+- Metrics (at fetch): bookmark 0, impression 484, like 3, quote 0, reply 1, retweet 0
+
+> Don't listen to me, listen to some devs: 
+>
+> https://t.co/fca1gEvWdy
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1496567813737091075 — 2024-08-17 21:25 UTC (2024-08-17 22:25 WAT)
+    
+    - URL: https://x.com/1496567813737091075/status/1824920618795692125
+    - Metrics (at fetch): bookmark 30, impression 44045, like 139, quote 5, reply 8, retweet 10
+    
+    > EOF will be like migrating from x86 to ARM. Solidity libraries and ERC standards will break. This is not like Paris -&gt; Shanghai (PUSH0 is child’s play compared to EOF).
+    >
+    > I hope the dev tooling teams (Foundry, Solidity) won’t immediately make the default EVM as EOF, but add it as
+    
 
 
 ---

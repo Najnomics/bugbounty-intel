@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 542
-- Conversations/threads: 492
+- Posts in this file: 546
+- Conversations/threads: 495
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
 
@@ -2489,6 +2489,88 @@ Tags (automatic): XSS
 
 ---
 
+## 2024-07-18 · Reply · @kevin_mizu I just Googled it :) I hardly read specs nowadays, I just get Shazzer to answer all my q
+
+
+**Context — post being replied to:**
+
+#### Parent post — @kevin_mizu — 2024-07-18 17:02 UTC (2024-07-18 18:02 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1813982733854818483
+- Metrics (at fetch): bookmark 0, impression 346, like 0, quote 0, reply 1, retweet 0
+
+> @garethheyes Thanks! I'll give it a look 😁
+
+
+### Post — @garethheyes — 2024-07-18 17:26 UTC (2024-07-18 18:26 WAT)
+
+- URL: https://x.com/garethheyes/status/1813988607910162704
+- Metrics (at fetch): bookmark 0, impression 332, like 5, quote 0, reply 1, retweet 0
+
+> @kevin_mizu I just Googled it :) I hardly read specs nowadays, I just get Shazzer to answer all my questions
+
+
+---
+
+## 2024-07-18 · Reply · @kevin_mizu Talks about it here:
+
+
+**Context — post being replied to:**
+
+#### Parent post — @kevin_mizu — 2024-07-18 15:13 UTC (2024-07-18 16:13 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1813955250614833458
+- Metrics (at fetch): bookmark 0, impression 902, like 2, quote 0, reply 2, retweet 0
+
+> @garethheyes Oops, I might need to read your book a second time! I wasn't aware of this parsing behavior at all, it's really impressive!
+>
+> Do you have any specification references associated with this specific behavior? I'm curious to see why this would be necessary :D
+
+
+### Post — @garethheyes — 2024-07-18 16:48 UTC (2024-07-18 17:48 WAT)
+
+- URL: https://x.com/garethheyes/status/1813979191593021852
+- Metrics (at fetch): bookmark 2, impression 356, like 4, quote 0, reply 1, retweet 0
+
+> @kevin_mizu Talks about it here:
+> https://t.co/gkYHklSM1N
+
+
+---
+
+## 2024-07-18 · Reply · @kevin_mizu Yep it's well known and in my book :) the super interesting thing I found in my tweet is
+
+
+**Context — post being replied to:**
+
+#### Parent post — @kevin_mizu — 2024-07-18 15:00 UTC (2024-07-18 16:00 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1813951932639092785
+- Metrics (at fetch): bookmark 99, impression 16668, like 162, quote 0, reply 2, retweet 32
+
+> This HTML parsing behavior is absolutely wtf...
+>
+> It can be abused to completely bypass any server-side HTML sanitizer when a second user input is present earlier in the document within a script string... [pic.x.com/0SJhUCNDl3] https://twitter.com/garethheyes/status/1813658752245236105
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GSxzfrzXkAAF1ur.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GSxzg6lXEAAilf6.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/garethheyes/status/1813658752245236105
+
+**Quoted post** 1813658752245236105: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @garethheyes — 2024-07-18 15:02 UTC (2024-07-18 16:02 WAT)
+
+- URL: https://x.com/garethheyes/status/1813952592185360790
+- Metrics (at fetch): bookmark 0, impression 1306, like 8, quote 0, reply 1, retweet 0
+
+> @kevin_mizu Yep it's well known and in my book :) the super interesting thing I found in my tweet is actually you can force JS to treat closing script as JS syntax and the string that added the comment is included in that expression. Super weird.
+
+
+---
+
 ## 2024-07-04 · Thread · You can use baseURI to conceal XSS payloads! Every HTML tag has the baseURI property. Base allows yo
 
 
@@ -2532,7 +2614,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-07-03 · Post · This is going to be a really common bug. https://t.co/1qXCBUzET7
+## 2024-07-03 · Thread · This is going to be a really common bug. https://t.co/1qXCBUzET7
 
 
 ### Post — @garethheyes — 2024-07-03 09:18 UTC (2024-07-03 10:18 WAT)
@@ -2558,6 +2640,14 @@ Tags (automatic): XSS
     **Media:**
     - media `3_1808242311870242816` (details not returned by the API)
     
+
+
+### Thread part 2 — @garethheyes — 2024-07-03 10:44 UTC (2024-07-03 11:44 WAT)
+
+- URL: https://x.com/garethheyes/status/1808451706151190789
+- Metrics (at fetch): bookmark 1, impression 691, like 5, quote 0, reply 0, retweet 1
+
+> @Rhynorater Pretty much all tutorials don't account for it so I'm not surprised
 
 
 ---

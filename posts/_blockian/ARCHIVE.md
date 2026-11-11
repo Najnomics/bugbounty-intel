@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 86
-- Conversations/threads: 85
+- Posts in this file: 87
+- Conversations/threads: 84
 - Oldest post captured: 2023-03-03
 - Newest post captured: 2026-07-20
 
@@ -1295,23 +1295,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2023-09-17 · Post · @MrCaesarDev @immunefi @joranhonig @joranhonig is very talented. In fact, one of his projects was th
-
-
-Tags (automatic): Platform: Immunefi
-
-
-### Post — @_blockian — 2023-09-17 04:33 UTC (2023-09-17 05:33 WAT)
-
-- URL: https://x.com/_blockian/status/1703266012030800182
-- Metrics (at fetch): bookmark 0, impression 25, like 1, quote 0, reply 0, retweet 0
-
-> @MrCaesarDev @immunefi @joranhonig @joranhonig is very talented. In fact, one of his projects was the basis for one of our projects which we’ll post about soon ;)
-
-
----
-
-## 2023-09-16 · Post · About to board a 12 hour flight, I need to choose the right @immunefi project to look at. What are y
+## 2023-09-16 · Thread · About to board a 12 hour flight, I need to choose the right @immunefi project to look at. What are y
 
 
 Tags (automatic): Platform: Immunefi
@@ -1323,6 +1307,22 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 1, impression 480, like 5, quote 0, reply 1, retweet 0
 
 > About to board a 12 hour flight, I need to choose the right @immunefi project to look at. What are your heuristics for choosing a project?
+
+
+### Thread part 2 — @_blockian — 2023-09-17 04:33 UTC (2023-09-17 05:33 WAT)
+
+- URL: https://x.com/_blockian/status/1703265938580156839
+- Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 1, retweet 0
+
+> @MrCaesarDev @immunefi @joranhonig Nice! A good list. I especially agree with the “stop early” point. When bounty hunting, as opposed to when auditing, you have to know when to let go.
+
+
+### Thread part 3 — @_blockian — 2023-09-17 04:33 UTC (2023-09-17 05:33 WAT)
+
+- URL: https://x.com/_blockian/status/1703266012030800182
+- Metrics (at fetch): bookmark 0, impression 25, like 1, quote 0, reply 0, retweet 0
+
+> @MrCaesarDev @immunefi @joranhonig @joranhonig is very talented. In fact, one of his projects was the basis for one of our projects which we’ll post about soon ;)
 
 
 ---
