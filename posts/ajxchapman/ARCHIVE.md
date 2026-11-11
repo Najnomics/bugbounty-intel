@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 247
+- Posts in this file: 282
 - Conversations/threads: 198
 - Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
@@ -2790,7 +2790,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-07-22 · Post · To consistently avoid dupes, you have to use techniques and hunt for bugs that others are not. If yo
+## 2021-07-22 · Thread · To consistently avoid dupes, you have to use techniques and hunt for bugs that others are not. If yo
 
 
 Tags (automatic): XSS
@@ -2804,9 +2804,25 @@ Tags (automatic): XSS
 > To consistently avoid dupes, you have to use techniques and hunt for bugs that others are not. If you only use Nuclei or only hunt for XSS you will get duped, a *lot*! Learn new tools / techniques and put the effort in to search out those difficult to find bugs #BugBountyTips
 
 
+### Thread part 2 — @ajxchapman — 2021-07-22 20:54 UTC (2021-07-22 21:54 WAT)
+
+- URL: https://x.com/ajxchapman/status/1418313497176428548
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 5, retweet 1
+
+> This #BugBountyTip is brought to you on the back of seeing a lot of Twitter threads about duped reports again. I don't know why, but I feel the dupe complaints come in cycles (possibly coinciding with the release of new Nuclei templates?)
+
+
+### Thread part 3 — @ajxchapman — 2021-07-22 21:04 UTC (2021-07-22 22:04 WAT)
+
+- URL: https://x.com/ajxchapman/status/1418316121468547074
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> Oh, and don't blindly follow #BugBountyTips expecting success... even this one... in fact, especially this one.
+
+
 ---
 
-## 2021-07-20 · Post · I really want to subtweet something about professionalism in BugBounty and abuse of power dynamics 
+## 2021-07-20 · Thread · I really want to subtweet something about professionalism in BugBounty and abuse of power dynamics 
 
 
 ### Post — @ajxchapman — 2021-07-20 18:43 UTC (2021-07-20 19:43 WAT)
@@ -2815,6 +2831,14 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 45, quote 0, reply 1, retweet 5
 
 > I really want to subtweet something about professionalism in #BugBounty and abuse of power dynamics on Twitter, but I can't even. Without Bug Hunters the 'industry' doesn't exist, true, but if we all act like petulant children, there will be no 'industry' left to work in!
+
+
+### Thread part 2 — @ajxchapman — 2021-07-20 18:43 UTC (2021-07-20 19:43 WAT)
+
+- URL: https://x.com/ajxchapman/status/1417555884721516544
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 1, retweet 3
+
+> In summary, Bug Hunters, do better. #BugBountyTips
 
 
 ---
@@ -2846,7 +2870,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2021-05-31 · Post · I get asked this question a lot, "What tools should I use to be a good hacker?" Success in bug hunti
+## 2021-05-31 · Thread · I get asked this question a lot, "What tools should I use to be a good hacker?" Success in bug hunti
 
 
 ### Post — @ajxchapman — 2021-05-31 09:40 UTC (2021-05-31 10:40 WAT)
@@ -2855,6 +2879,14 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 12, impression 0, like 146, quote 5, reply 6, retweet 31
 
 > I get asked this question a lot, "What tools should I use to be a good hacker?" Success in bug hunting is not about the tools you use. Learn techniques, theory, research skills (I.E. how to Google) and critical thinking. These will serve you better than any tool #BugBountyTips
+
+
+### Thread part 2 — @ajxchapman — 2021-05-31 09:41 UTC (2021-05-31 10:41 WAT)
+
+- URL: https://x.com/ajxchapman/status/1399299971065827328
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 0, retweet 0
+
+> There's a whole "give a person a fish" thing going on here, but it's entirety true. Learn to think for yourself and you'll go far.
 
 
 ---
@@ -3043,7 +3075,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2021-03-18 · Post · As I was tweet ranting yesterday (the day before? who knows any more) You sell the IP of a bug throu
+## 2021-03-18 · Thread · As I was tweet ranting yesterday (the day before? who knows any more) You sell the IP of a bug throu
 
 
 ### Post — @ajxchapman — 2021-03-18 11:09 UTC (2021-03-18 12:09 WAT)
@@ -3075,6 +3107,14 @@ Tags (automatic): Platform: Bugcrowd
     
 
 
+### Thread part 2 — @ajxchapman — 2021-03-18 11:12 UTC (2021-03-18 12:12 WAT)
+
+- URL: https://x.com/ajxchapman/status/1372506091939041280
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 2, retweet 0
+
+> I disagree with the whole 'silencing' researchers point though. It's a choice to submit to a bug bounty program, no one is forcing you to. If you don't want to give up the IP on a bug there are other ways to report.
+
+
 ---
 
 ## 2021-03-15 · Post · Based on some the comments I've been reading I think we need a quick reminder. Red Teaming, Penetrat
@@ -3090,7 +3130,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2021-03-15 · Post · I see the BugBounty NDA discussion is coming around again. So I'll add my (unsolicited) opinion (ag
+## 2021-03-15 · Thread · I see the BugBounty NDA discussion is coming around again. So I'll add my (unsolicited) opinion (ag
 
 
 ### Post — @ajxchapman — 2021-03-15 08:38 UTC (2021-03-15 09:38 WAT)
@@ -3099,6 +3139,46 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 1, impression 0, like 37, quote 1, reply 2, retweet 0
 
 > I see the #BugBounty NDA discussion is coming around again. So I'll add my (unsolicited) opinion (again). As a bug hunter I sell the Intellectual Property to the bugs I report to Bug Bounty programs. Whatever the vendor decides to do with it then is entirely up to them.
+
+
+### Thread part 2 — @ajxchapman — 2021-03-15 08:38 UTC (2021-03-15 09:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1371380367505121280
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> It's not my bug to talk about any more, with or without an NDA. If I want to personally publish a bug I either report to a program who is willing to work with me to do that, or I don't submit through a Bug Bounty program.
+
+
+### Thread part 3 — @ajxchapman — 2021-03-15 08:38 UTC (2021-03-15 09:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1371380369015107584
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> (Note, a VDP with an NDA is an entirely different beast, and one which should be slain with a big sword)
+
+
+### Thread part 4 — @ajxchapman — 2021-03-15 08:38 UTC (2021-03-15 09:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1371380371682656256
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> Perhaps an unpopular opinion, my responsibility for a bug ends after my report has been received and understood. If the vendor chooses not to fix the bug, or to take their time in fixing it that is up to them. A quick fix is better obviously, but not my responsibility.
+
+
+### Thread part 5 — @ajxchapman — 2021-03-15 08:38 UTC (2021-03-15 09:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1371380373003907075
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 1, retweet 0
+
+> Note that this is no different to the penetration testing market. An exchange of bugs for money occurs, preventing the penetration testers from publicly disclosing the bugs. Penetration testers also have no responsibility for the speed of bug fixes.
+
+
+### Thread part 6 — @ajxchapman — 2021-03-15 08:38 UTC (2021-03-15 09:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1371380374631288832
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> The moral of this rant, you are selling bugs to #BugBounty programs. Once accepted the bug is no longer 'yours'. If you want to get publicity from your bugs use other avenues of reporting them!
 
 
 ---
@@ -3120,7 +3200,10 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2021-02-06 · Post · I've been actively finding time to watch old conference presentations and am quickly getting through
+## 2021-02-06 · Thread · I've been actively finding time to watch old conference presentations and am quickly getting through
+
+
+Tags (automatic): Request smuggling / desync
 
 
 ### Post — @ajxchapman — 2021-02-06 15:35 UTC (2021-02-06 16:35 WAT)
@@ -3129,6 +3212,34 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 44, impression 0, like 75, quote 1, reply 13, retweet 19
 
 > I've been actively finding time to watch old conference presentations and am quickly getting through my watch list. I need your suggestions and recommendations for more. What is your favourite con talk? Bug bounty, security, development, or just plain cool talks, I'm keen!
+
+
+### Thread part 2 — @ajxchapman — 2021-02-06 16:06 UTC (2021-02-06 17:06 WAT)
+
+- URL: https://x.com/ajxchapman/status/1358084629845209090
+- Metrics (at fetch): bookmark 2, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> In case others are wondering some of my favourites include:
+> @albinowax HTTP Desync attacks
+> https://t.co/fkloHf65zN
+
+
+### Thread part 3 — @ajxchapman — 2021-02-06 16:07 UTC (2021-02-06 17:07 WAT)
+
+- URL: https://x.com/ajxchapman/status/1358084818207129602
+- Metrics (at fetch): bookmark 4, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> @lizrice Containers from scratch
+> https://t.co/OXvXfQLas4
+
+
+### Thread part 4 — @ajxchapman — 2021-02-06 16:08 UTC (2021-02-06 17:08 WAT)
+
+- URL: https://x.com/ajxchapman/status/1358085249893347329
+- Metrics (at fetch): bookmark 2, impression 0, like 12, quote 0, reply 0, retweet 2
+
+> *ahem* @ajxchapman Continuous Integration Continuous Bounties
+> https://t.co/vie1hZvmbM
 
 
 ---
@@ -3150,6 +3261,27 @@ Tags (automatic): Race condition
 
 ---
 
+## 2021-01-12 · Thread · Bug hunting on a new rather complex target, not sure if what I've found is a bug or a feature. It's 
+
+
+### Post — @ajxchapman — 2021-01-12 12:04 UTC (2021-01-12 13:04 WAT)
+
+- URL: https://x.com/ajxchapman/status/1348964109488951301
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 0
+
+> Bug hunting on a new rather complex target, not sure if what I've found is a bug or a feature. It's going to take me longer to work this out than it did to find the 'bug' 🤦
+
+
+### Thread part 2 — @ajxchapman — 2021-01-12 15:57 UTC (2021-01-12 16:57 WAT)
+
+- URL: https://x.com/ajxchapman/status/1349022594654203919
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> For those following along at home, it was a feature 🙃
+
+
+---
+
 ## 2021-01-12 · Post · I'm at the "I'm no good at this, everyone else is so much better, I am a fraud and should probably p
 
 
@@ -3159,19 +3291,6 @@ Tags (automatic): Race condition
 - Metrics (at fetch): bookmark 2, impression 0, like 132, quote 2, reply 12, retweet 4
 
 > I'm at the "I'm no good at this, everyone else is so much better, I am a fraud and should probably pack it all in" phase of bug hunting. Thanks brain. #BugBountyLife
-
-
----
-
-## 2021-01-12 · Post · Bug hunting on a new rather complex target, not sure if what I've found is a bug or a feature. It's 
-
-
-### Post — @ajxchapman — 2021-01-12 12:04 UTC (2021-01-12 13:04 WAT)
-
-- URL: https://x.com/ajxchapman/status/1348964109488951301
-- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 0
-
-> Bug hunting on a new rather complex target, not sure if what I've found is a bug or a feature. It's going to take me longer to work this out than it did to find the 'bug' 🤦
 
 
 ---
@@ -3233,7 +3352,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2020-12-11 · Post · Do either @Hacker0x01 or @Bugcrowd (or any other platform for that matter) do yearly round ups of th
+## 2020-12-11 · Thread · Do either @Hacker0x01 or @Bugcrowd (or any other platform for that matter) do yearly round ups of th
 
 
 Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
@@ -3247,9 +3366,17 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 > Do either @Hacker0x01 or @Bugcrowd (or any other platform for that matter) do yearly round ups of the best (and possibly worst) disclosed bugs? If not, first, why not? And second I'd definitely be up for helping with this from a community stand point.
 
 
+### Thread part 2 — @ajxchapman — 2020-12-11 19:19 UTC (2020-12-11 20:19 WAT)
+
+- URL: https://x.com/ajxchapman/status/1337477062358159360
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> Not thinking this need to be a red carpet / full court press (... although a hacker Oscars would be 🔥🔥🔥), but a trophy or two wouldn't go a miss 🏆💻🏆
+
+
 ---
 
-## 2020-12-09 · Post · This is definitely a step in the right direction, but IMO it doesn't go far enough. BugBounty platf
+## 2020-12-09 · Thread · This is definitely a step in the right direction, but IMO it doesn't go far enough. BugBounty platf
 
 
 ### Post — @ajxchapman — 2020-12-09 18:02 UTC (2020-12-09 19:02 WAT)
@@ -3271,6 +3398,14 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
     
     > @zseano @plmaltais We didn't prioritize it this / last year because we didn't see significant growth in VDPs. With the recent changes in (government) mandates, the team is planning to make reputation configurable for VDPs. The team expects to launch this in the first quarter of next year!
     
+
+
+### Thread part 2 — @ajxchapman — 2020-12-09 18:06 UTC (2020-12-09 19:06 WAT)
+
+- URL: https://x.com/ajxchapman/status/1336733909032329220
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 2, retweet 0
+
+> To be clear, VDP programs are not an invitation for active testing (at least they shouldn't be, but that's what platforms have made them). VDPs should operate on the "See something, say something" principle, and provide safe harbor for hackers who report to them.
 
 
 ---
@@ -3336,7 +3471,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2020-11-25 · Post · After spending some more time on this bug with fresh eyes I can now reliably reproduce and prove the
+## 2020-11-25 · Thread · After spending some more time on this bug with fresh eyes I can now reliably reproduce and prove the
 
 
 ### Post — @ajxchapman — 2020-11-25 15:06 UTC (2020-11-25 16:06 WAT)
@@ -3355,6 +3490,14 @@ Tags (automatic): Platform: Bugcrowd
     
     > Found and exploited a race condition bug first this this morning, and I've spent the last 7 hours trying to (unsuccessfully) reproduce it for the report #BugBountyLife
     
+
+
+### Thread part 2 — @ajxchapman — 2020-11-25 15:11 UTC (2020-11-25 16:11 WAT)
+
+- URL: https://x.com/ajxchapman/status/1331616526173167616
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Learned a whole lot in the process as well 😁
 
 
 ---
@@ -3463,7 +3606,7 @@ Tags (automatic): Memory corruption / native, Platform: Bugcrowd
 
 ---
 
-## 2020-10-13 · Post · Dismissing 3 months of work from @samwcyo and team as "XSS that could have been found by automated s
+## 2020-10-13 · Thread · Dismissing 3 months of work from @samwcyo and team as "XSS that could have been found by automated s
 
 
 Tags (automatic): XSS, Auth bypass, RCE
@@ -3477,9 +3620,19 @@ Tags (automatic): XSS, Auth bypass, RCE
 > Dismissing 3 months of work from @samwcyo and team as "XSS that could have been found by automated scanners" is 100% off the mark. The team worked extremely hard to report critical bugs (RCE, Auth Bypass, and yes XSS) to @apple, let's celebrate their amazing work, not minimise it
 
 
+### Thread part 2 — @ajxchapman — 2020-10-13 08:21 UTC (2020-10-13 09:21 WAT)
+
+- URL: https://x.com/ajxchapman/status/1315930709975076866
+- Metrics (at fetch): bookmark 4, impression 0, like 61, quote 1, reply 2, retweet 3
+
+> Oh, and they were gracious enough to disclose all the reports they could publicly, so we can all learn from their work for free. Thanks @samwcyo, @bbuerhaus, @nahamsec, @erbbysam &amp; @_StaticFlow_
+> #BugBountyHeros
+> https://t.co/QSsKDP3I3T
+
+
 ---
 
-## 2020-10-02 · Post · I use @gitlab for almost all my bug hunting notes and reports now. One repo per program / asset real
+## 2020-10-02 · Thread · I use @gitlab for almost all my bug hunting notes and reports now. One repo per program / asset real
 
 
 ### Post — @ajxchapman — 2020-10-02 15:28 UTC (2020-10-02 16:28 WAT)
@@ -3489,6 +3642,14 @@ Tags (automatic): XSS, Auth bypass, RCE
 
 > I use @gitlab for almost all my bug hunting notes and reports now. One repo per program / asset really keeps things organised, much more than I ever could in notebook apps. I work mainly in issues, but use the repo for storing tooling and wiki for generic notes
 > #BugBountyTips
+
+
+### Thread part 2 — @ajxchapman — 2020-10-02 15:30 UTC (2020-10-02 16:30 WAT)
+
+- URL: https://x.com/ajxchapman/status/1312052326396502016
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> @InsiderPhD might like this one!
 
 
 ---
@@ -3587,7 +3748,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2020-08-17 · Post · Really bad take from a prominent bug hunter in this thread. Accessing customer PII when finding bugs
+## 2020-08-17 · Thread · Really bad take from a prominent bug hunter in this thread. Accessing customer PII when finding bugs
 
 
 ### Post — @ajxchapman — 2020-08-17 18:06 UTC (2020-08-17 19:06 WAT)
@@ -3612,9 +3773,25 @@ Tags (automatic): SSRF
     
 
 
+### Thread part 2 — @ajxchapman — 2020-08-17 20:16 UTC (2020-08-17 21:16 WAT)
+
+- URL: https://x.com/ajxchapman/status/1295454386060234753
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Looks like the offending tweets may have been removed, hard to tell as the account blocked me 🤣
+
+
+### Thread part 3 — @ajxchapman — 2020-08-17 20:18 UTC (2020-08-17 21:18 WAT)
+
+- URL: https://x.com/ajxchapman/status/1295455091277869056
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Wow, Twitter *really* breaks threading when someone deletes their tweets from a debate!
+
+
 ---
 
-## 2020-08-13 · Post · First couple of bugs submitted to @Bugcrowd in a while. I still can't get behind their VRT, which is
+## 2020-08-13 · Thread · First couple of bugs submitted to @Bugcrowd in a while. I still can't get behind their VRT, which is
 
 
 Tags (automatic): XSS, IDOR / BOLA, Platform: Bugcrowd
@@ -3626,6 +3803,14 @@ Tags (automatic): XSS, IDOR / BOLA, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 1, impression 0, like 64, quote 0, reply 5, retweet 1
 
 > First couple of bugs submitted to @Bugcrowd in a while. I still can't get behind their VRT, which is heavily biased to generic web application bugs (XSS, IDOR, etc) I generally submit bugs which fall outside of these, so end up having to put all my bugs down as 'Other' #BugBounty
+
+
+### Thread part 2 — @ajxchapman — 2020-08-13 10:13 UTC (2020-08-13 11:13 WAT)
+
+- URL: https://x.com/ajxchapman/status/1293853194628599809
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Yes I know it's open source, and I could submit a PR to propose new categories, but that shouldn't be my job as a bug hunter. If you want me to use your custom rating system, make sure it is suitable for everyone 🤦‍♂️ CVSS is not perfect, but at least it allows for edge cases
 
 
 ---
@@ -3803,7 +3988,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2020-07-06 · Post · Spamming Bug Bounty programs with 1-day exploits (see CVE-2020-5902) is the Ambulance Chasing of bug
+## 2020-07-06 · Thread · Spamming Bug Bounty programs with 1-day exploits (see CVE-2020-5902) is the Ambulance Chasing of bug
 
 
 ### Post — @ajxchapman — 2020-07-06 18:02 UTC (2020-07-06 19:02 WAT)
@@ -3812,6 +3997,22 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 5, impression 0, like 254, quote 3, reply 9, retweet 27
 
 > Spamming Bug Bounty programs with 1-day exploits (see CVE-2020-5902) is the Ambulance Chasing of bug hunting. Any sensible program will have a condition to allow them time to patch before paying out for these issues. #BugBounty #UnpopularOpinion
+
+
+### Thread part 2 — @ajxchapman — 2020-07-06 18:41 UTC (2020-07-06 19:41 WAT)
+
+- URL: https://x.com/ajxchapman/status/1280210386797690881
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 3, retweet 0
+
+> @dee__see @abdilahrf Precisely this. As an org if I received reports for CVE-2020-5902 and I knew about the bug and was in the process of patching (whether that's testing, planning or rolling out the patch) I'd dupe them all to an internal issue and be done with it.
+
+
+### Thread part 3 — @ajxchapman — 2020-07-06 18:44 UTC (2020-07-06 19:44 WAT)
+
+- URL: https://x.com/ajxchapman/status/1280211064530046978
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 1, reply 0, retweet 0
+
+> @dee__see @abdilahrf If I didn't know about this issue then fair enough... although if I didn't know about this issue by now, I probably shouldn't be running a Bug Bounty program
 
 
 ---
@@ -3891,7 +4092,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2019-12-27 · Post · Finally got around to reading @samwcyo's Nullboy blog post and absolutely love it! We need more bug 
+## 2019-12-27 · Thread · Finally got around to reading @samwcyo's Nullboy blog post and absolutely love it! We need more bug 
 
 
 Tags (automatic): Memory corruption / native
@@ -3906,6 +4107,14 @@ Tags (automatic): Memory corruption / native
 > https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/
 
 **Links in post:** https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/
+
+
+### Thread part 2 — @ajxchapman — 2019-12-27 09:12 UTC (2019-12-27 10:12 WAT)
+
+- URL: https://x.com/ajxchapman/status/1210488549549780992
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 2, retweet 0
+
+> Most black box bug analysis posts are along the lines of "if you enter the characters {|!()+, then you get arbitrary file read" with no context around what the bug hunter was attempting at the time. Huge props to @samwcyo for sharing his thought process and root cause analysis ♥️
 
 
 ---
@@ -4002,7 +4211,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2019-07-11 · Post · I spent a full 7 days working my self half to death to produce a reliable memory corruption Proof of
+## 2019-07-11 · Thread · I spent a full 7 days working my self half to death to produce a reliable memory corruption Proof of
 
 
 ### Post — @ajxchapman — 2019-07-11 14:04 UTC (2019-07-11 15:04 WAT)
@@ -4011,6 +4220,52 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 1, impression 0, like 25, quote 0, reply 2, retweet 0
 
 > I spent a full 7 days working my self half to death to produce a reliable memory corruption Proof of Concept for a recent bug I found. This morning I came up with a (ridiculous) new way to do it 100% reliably with only 30 minutes of implementation ¯\_(ツ)_/¯ #ExploitDev
+
+
+### Thread part 2 — @ajxchapman — 2019-07-11 14:11 UTC (2019-07-11 15:11 WAT)
+
+- URL: https://x.com/ajxchapman/status/1149320255086444549
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 0
+
+> I'm actually somewhat embarrassed this new method works. It's so ridiculous 😳 I really hope to be able to blog about this process at some point!
+
+
+---
+
+## 2019-07-04 · Thread · Spent the last 48 hours trying to exploit a (very) limited type confusion vulnerability and have com
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @ajxchapman — 2019-07-04 19:37 UTC (2019-07-04 20:37 WAT)
+
+- URL: https://x.com/ajxchapman/status/1146865535382097920
+- Metrics (at fetch): bookmark 1, impression 0, like 17, quote 1, reply 1, retweet 3
+
+> Spent the last 48 hours trying to exploit a (very) limited type confusion vulnerability and have come to the conclusion that heap memory layout is simply black magic. There can be no other rational explanation #BugBounty #ILoveMyJob #SendHelp
+
+
+### Thread part 2 — @ajxchapman — 2019-07-04 20:58 UTC (2019-07-04 21:58 WAT)
+
+- URL: https://x.com/ajxchapman/status/1146886144715644929
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 2, retweet 0
+
+> 😍 It's so beautiful when it works 😍 [pic.x.com/fmVUvz99yy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/D-qO3dzX4BA7s8P.png — no alt text provided by author
+
+
+### Thread part 3 — @ajxchapman — 2019-07-05 09:04 UTC (2019-07-05 10:04 WAT)
+
+- URL: https://x.com/ajxchapman/status/1147068829509574658
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Update, I have just found out I've been trying to manipulate the wrong object [pic.x.com/O9lPz844o8]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---
@@ -4040,22 +4295,6 @@ Tags (automatic): SSRF
     **Media:**
     - media `3_1146127708986007553` (details not returned by the API)
     
-
-
----
-
-## 2019-07-04 · Post · Spent the last 48 hours trying to exploit a (very) limited type confusion vulnerability and have com
-
-
-Tags (automatic): Memory corruption / native
-
-
-### Post — @ajxchapman — 2019-07-04 19:37 UTC (2019-07-04 20:37 WAT)
-
-- URL: https://x.com/ajxchapman/status/1146865535382097920
-- Metrics (at fetch): bookmark 1, impression 0, like 17, quote 1, reply 1, retweet 3
-
-> Spent the last 48 hours trying to exploit a (very) limited type confusion vulnerability and have come to the conclusion that heap memory layout is simply black magic. There can be no other rational explanation #BugBounty #ILoveMyJob #SendHelp
 
 
 ---
@@ -4102,7 +4341,7 @@ Tags (automatic): RCE, Platform: Bugcrowd
 
 ---
 
-## 2019-06-05 · Post · Last month I had a very bad BugBounty month. Found it difficult to get into work, had a serious lac
+## 2019-06-05 · Thread · Last month I had a very bad BugBounty month. Found it difficult to get into work, had a serious lac
 
 
 ### Post — @ajxchapman — 2019-06-05 11:22 UTC (2019-06-05 12:22 WAT)
@@ -4111,6 +4350,14 @@ Tags (automatic): RCE, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 4, impression 0, like 94, quote 1, reply 21, retweet 2
 
 > Last month I had a very bad #BugBounty month. Found it difficult to get into work, had a serious lack of motivation, and huge a case of imposter syndrome. Submitted only 1 bug ☹️ Hoping June will be better.
+
+
+### Thread part 2 — @ajxchapman — 2019-06-05 15:37 UTC (2019-06-05 16:37 WAT)
+
+- URL: https://x.com/ajxchapman/status/1136295916917469184
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 0
+
+> Thanks for all the support everyone ♥️ I know it's a an abnormality, fueled by depression and exhaustion, but when you are in a hole it's difficult to see any way out. I appreciate your kind words 😊
 
 
 ---
@@ -4157,7 +4404,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2019-04-26 · Post · Am I the only one who finds the @BugCrowd VRT a little too limiting? Looking for the correct entry f
+## 2019-04-26 · Thread · Am I the only one who finds the @BugCrowd VRT a little too limiting? Looking for the correct entry f
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -4169,6 +4416,14 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 2, retweet 0
 
 > Am I the only one who finds the @BugCrowd VRT a little too limiting? Looking for the correct entry for a bug I want to submit and can't find anything that matches. Entries for many of the bug types I generally submit don't seem exist (LPE, memory corruption, secrets disclosure)
+
+
+### Thread part 2 — @ajxchapman — 2019-04-26 18:36 UTC (2019-04-26 19:36 WAT)
+
+- URL: https://x.com/ajxchapman/status/1121845487995379713
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 0
+
+> Am I just using it wrong???
 
 
 ---
@@ -4298,7 +4553,7 @@ Tags (automatic): SQL injection
 
 ---
 
-## 2019-02-15 · Post · Just submitted my first @Bugcrowd report for 2019 (not the content injection!). Pretty sure it's goi
+## 2019-02-15 · Thread · Just submitted my first @Bugcrowd report for 2019 (not the content injection!). Pretty sure it's goi
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -4310,6 +4565,14 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 2, retweet 0
 
 > Just submitted my first @Bugcrowd report for 2019 (not the content injection!). Pretty sure it's going to be a dupe of @damian_89_ but worth a shot!
+
+
+### Thread part 2 — @ajxchapman — 2019-02-15 19:32 UTC (2019-02-15 20:32 WAT)
+
+- URL: https://x.com/ajxchapman/status/1096492532635181057
+- Metrics (at fetch): bookmark 3, impression 0, like 12, quote 0, reply 0, retweet 4
+
+> For those who haven't used it https://t.co/Wk7QlPRIoW is a great tool.
 
 
 ---
@@ -4327,7 +4590,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2019-02-15 · Post · Trying to decide how much time to dedicate to trying to blindly identify and exploit an embedded Web
+## 2019-02-15 · Thread · Trying to decide how much time to dedicate to trying to blindly identify and exploit an embedded Web
 
 
 Tags (automatic): SSRF, RCE
@@ -4339,6 +4602,33 @@ Tags (automatic): SSRF, RCE
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
 
 > Trying to decide how much time to dedicate to trying to blindly identify and exploit an embedded WebKit render in a SSRF issue. Gut says it's doable and will result in a nice RCE, brain wonders what the ROI will be ¯\_(ツ)_/¯
+
+
+### Thread part 2 — @ajxchapman — 2019-02-15 09:15 UTC (2019-02-15 10:15 WAT)
+
+- URL: https://x.com/ajxchapman/status/1096337126612971521
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> I am now compiling WebKit... what have i started???
+
+
+### Thread part 3 — @ajxchapman — 2019-02-15 12:08 UTC (2019-02-15 13:08 WAT)
+
+- URL: https://x.com/ajxchapman/status/1096380644530245632
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Probably shouldn't have attempted this on my laptop
+
+
+### Thread part 4 — @ajxchapman — 2019-02-15 12:53 UTC (2019-02-15 13:53 WAT)
+
+- URL: https://x.com/ajxchapman/status/1096391978739294209
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Well that was unexpected... it works https://t.co/GYe2dKeWmv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DzcqpdmWwAEtQLm.jpg — no alt text provided by author
 
 
 ---
@@ -4391,7 +4681,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2019-01-15 · Post · Today I start a new journey as a full time BugBounty hunter. @ajxchapman on @Hacker0x01, @Bugcrowd 
+## 2019-01-15 · Thread · Today I start a new journey as a full time BugBounty hunter. @ajxchapman on @Hacker0x01, @Bugcrowd 
 
 
 Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
@@ -4403,6 +4693,25 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 0, like 44, quote 0, reply 4, retweet 0
 
 > Today I start a new journey as a full time #BugBounty hunter. @ajxchapman on @Hacker0x01, @Bugcrowd and @intigriti, missing any others? DMs are open for discussions / condolences
+
+
+### Thread part 2 — @ajxchapman — 2019-01-15 20:43 UTC (2019-01-15 21:43 WAT)
+
+- URL: https://x.com/ajxchapman/status/1085276260668977155
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 3, retweet 1
+
+> Well shit 🤦‍♂️
+> https://t.co/HPx4xPtftW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2019-01-14 12:36 UTC (2019-01-14 13:36 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1084791374468259846
+    - Metrics (at fetch): bookmark 18, impression 0, like 124, quote 7, reply 5, retweet 80
+    
+    > Data from @Hacker0x01 and @facebook proves that bug bounties only benefit a small elite group. Is this model meeting researchers' interests? Read our review of "New Solutions for Cybersecurity" by @mitpress. https://t.co/bt89Jj4MVn
+    
 
 
 ---

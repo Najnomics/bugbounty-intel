@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 243
+- Posts in this file: 247
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -2743,7 +2743,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2022-10-25 · Post · Earlier this year, one of our interns found a vulnerability that affects applications using the SQLi
+## 2022-10-25 · Thread · Earlier this year, one of our interns found a vulnerability that affects applications using the SQLi
 
 
 ### Post — @trailofbits — 2022-10-25 11:30 UTC (2022-10-25 12:30 WAT)
@@ -2752,6 +2752,38 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 59, impression 0, like 296, quote 8, reply 6, retweet 92
 
 > Earlier this year, one of our interns found a vulnerability that affects applications using the SQLite library API. We are publicly disclosing that vuln today. https://t.co/vDsZKqvsoi
+
+
+### Thread part 2 — @trailofbits — 2022-10-25 11:34 UTC (2022-10-25 12:34 WAT)
+
+- URL: https://x.com/trailofbits/status/1584871094577762304
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 1, reply 1, retweet 2
+
+> Our strange journey to finding the vuln started with a vulnerability in PHP that seemed like the perfect candidate for a variant analysis. So then we dove into SQLite string formatting: https://t.co/vDsZKqvsoi
+
+
+### Thread part 3 — @trailofbits — 2022-10-25 11:36 UTC (2022-10-25 12:36 WAT)
+
+- URL: https://x.com/trailofbits/status/1584871516759531520
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 2
+
+> SQLite is the most widely deployed database engine, thanks to its very permissive licensing and portable design. It seems to be used everywhere—a perception that was reinforced when we tripped right over this vulnerability while hunting for bugs elsewhere. https://t.co/vDsZKqvsoi
+
+
+### Thread part 4 — @trailofbits — 2022-10-25 11:39 UTC (2022-10-25 12:39 WAT)
+
+- URL: https://x.com/trailofbits/status/1584872192180895745
+- Metrics (at fetch): bookmark 2, impression 0, like 26, quote 2, reply 1, retweet 7
+
+> Although this bug may be difficult to reach in deployed applications, it's an example of a vuln that is made easier to exploit by “divergent representations” that result from applying compiler optimizations to undefined behavior. https://t.co/vDsZKqvsoi
+
+
+### Thread part 5 — @trailofbits — 2022-10-25 11:41 UTC (2022-10-25 12:41 WAT)
+
+- URL: https://x.com/trailofbits/status/1584872744176451585
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 1, reply 1, retweet 4
+
+> Not every system or application that uses the SQLite printf functions is vulnerable. For those that are, CVE-2022-35737 is a critical bug. We would like to thank the teams at SQLite and CERT/CC for working swiftly with us to address these issues. https://t.co/vDsZKqvsoi
 
 
 ---

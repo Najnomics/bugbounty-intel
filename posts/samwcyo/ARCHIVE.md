@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 198
-- Conversations/threads: 186
+- Posts in this file: 203
+- Conversations/threads: 188
 - Oldest post captured: 2017-02-12
 - Newest post captured: 2026-11-11
 
@@ -1938,7 +1938,20 @@ Tags (automatic): SQL injection, Auth bypass
 
 ---
 
-## 2020-11-23 · Post · On Saturday, November 28th at 12:00 PM CT we'll be hosting the inaugural "bounty plz chess tournamen
+## 2020-11-23 · Post · @sillydadddy @Masonhck3571 Hmm - let me try to figure this out. There may be a cap at 70?
+
+
+### Post — @samwcyo — 2020-11-23 19:40 UTC (2020-11-23 20:40 WAT)
+
+- URL: https://x.com/samwcyo/status/1330959447670333441
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @sillydadddy @Masonhck3571 Hmm - let me try to figure this out. There may be a cap at 70?
+
+
+---
+
+## 2020-11-23 · Thread · On Saturday, November 28th at 12:00 PM CT we'll be hosting the inaugural "bounty plz chess tournamen
 
 
 ### Post — @samwcyo — 2020-11-23 03:10 UTC (2020-11-23 04:10 WAT)
@@ -1954,6 +1967,30 @@ Tags (automatic): SQL injection, Auth bypass
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Enef0xVXUAkHKnq.jpg — no alt text provided by author
+
+
+### Thread part 2 — @samwcyo — 2020-11-23 03:10 UTC (2020-11-23 04:10 WAT)
+
+- URL: https://x.com/samwcyo/status/1330710353525809157
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 1, retweet 2
+
+> Join using the following URL:
+>
+> https://t.co/3udUqq4vgf
+> Password: password
+
+
+---
+
+## 2020-11-18 · Reply · @tvidas Yeah, totally agree. It's hard to do for public programs but for private events or private p
+
+
+### Post — @samwcyo — 2020-11-18 03:32 UTC (2020-11-18 04:32 WAT)
+
+- URL: https://x.com/samwcyo/status/1328903871507402752
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @tvidas Yeah, totally agree. It's hard to do for public programs but for private events or private programs it's a great incentive I think. Could totally see it going like this if it's not communicated properly - https://t.co/rHEZw39EPK
 
 
 ---
@@ -1984,7 +2021,7 @@ Tags (automatic): SQL injection, Auth bypass
 
 ---
 
-## 2020-10-08 · Post · New writeup:
+## 2020-10-08 · Thread · New writeup:
 
 
 ### Post — @samwcyo — 2020-10-08 11:22 UTC (2020-10-08 12:22 WAT)
@@ -1999,7 +2036,20 @@ Tags (automatic): SQL injection, Auth bypass
 > Featuring...
 > @bbuerhaus, @NahamSec, @erbbysam, and @_StaticFlow_ 
 >
-> https://t.co/XE757tadE9
+> https://samcurry.net/hacking-apple
+
+**Links in post:** https://samcurry.net/hacking-apple
+
+
+### Thread part 2 — @samwcyo — 2020-10-08 21:04 UTC (2020-10-08 22:04 WAT)
+
+- URL: https://x.com/samwcyo/status/1314310787243167744
+- Metrics (at fetch): bookmark 13, impression 0, like 765, quote 26, reply 27, retweet 90
+
+> Within the article I'd mentioned that Apple had not yet paid for all of the vulnerabilities. Right after publishing it, they went ahead and paid for 28 more of the issues making the running total $288,500: [pic.x.com/WtOfndu298]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ej1erEXXgAEv6pa.png — no alt text provided by author
 
 
 ---
@@ -2027,7 +2077,7 @@ Tags (automatic): SQL injection, Auth bypass
 
 ---
 
-## 2020-08-04 · Post · Have been playing around with a blind XSS that fired on the default installed iOS settings app. Alwa
+## 2020-08-04 · Thread · Have been playing around with a blind XSS that fired on the default installed iOS settings app. Alwa
 
 
 Tags (automatic): XSS, Mobile / Android / iOS
@@ -2038,10 +2088,18 @@ Tags (automatic): XSS, Mobile / Android / iOS
 - URL: https://x.com/samwcyo/status/1290750902538731521
 - Metrics (at fetch): bookmark 3, impression 0, like 170, quote 0, reply 5, retweet 8
 
-> Have been playing around with a blind XSS that fired on the default installed iOS settings app. Always weird seeing web stuff where you're not expecting it. 😬 https://t.co/QtISeT0sGd
+> Have been playing around with a blind XSS that fired on the default installed iOS settings app. Always weird seeing web stuff where you're not expecting it. 😬 [pic.x.com/QtISeT0sGd]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Eemq9C_WsAEMWw3.jpg — no alt text provided by author
+
+
+### Thread part 2 — @samwcyo — 2020-08-04 21:16 UTC (2020-08-04 22:16 WAT)
+
+- URL: https://x.com/samwcyo/status/1290758431578763264
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 0, retweet 0
+
+> Will hopefully be able to give more background on this if I end up exploiting it. Right now it's a very boring bug 😄
 
 
 ---

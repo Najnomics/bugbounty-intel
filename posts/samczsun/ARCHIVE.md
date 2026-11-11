@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 132
+- Posts in this file: 143
 - Conversations/threads: 87
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
@@ -1654,7 +1654,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-08-01 · Post · 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. H
+## 2022-08-01 · Thread · 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. H
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @samczsun — 2022-08-01 23:45 UTC (2022-08-02 00:45 WAT)
@@ -1666,6 +1669,126 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - media `3_1554251986463105024` (details not returned by the API)
+
+
+### Thread part 2 — @samczsun — 2022-08-01 23:50 UTC (2022-08-02 00:50 WAT)
+
+- URL: https://x.com/samczsun/status/1554253145051500546
+- Metrics (at fetch): bookmark 32, impression 0, like 588, quote 5, reply 11, retweet 37
+
+> 2/ It all started when @officer_secret shared @spreekaway's tweet in the ETHSecurity Telegram channel. Although I had no idea what was going on at the time, just the sheer volume of assets leaving the bridge was clearly a bad sign https://t.co/klHNfthVvj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHQf9tUsAEH1MT.png — no alt text provided by author
+
+
+### Thread part 3 — @samczsun — 2022-08-01 23:56 UTC (2022-08-02 00:56 WAT)
+
+- URL: https://x.com/samczsun/status/1554254846127009792
+- Metrics (at fetch): bookmark 11, impression 0, like 515, quote 7, reply 7, retweet 28
+
+> 3/ My first thought was that there was some misconfiguration for the token's decimals. After all, it seemed as though the bridge was running a "send 0.01 WBTC, get 100 WBTC back" promotion https://t.co/H9IOJRYB0G
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHSdfUUcAAjGWN.jpg — no alt text provided by author
+
+
+### Thread part 4 — @samczsun — 2022-08-02 00:02 UTC (2022-08-02 01:02 WAT)
+
+- URL: https://x.com/samczsun/status/1554256240842141696
+- Metrics (at fetch): bookmark 6, impression 0, like 450, quote 6, reply 9, retweet 29
+
+> 4/ However, after some painful manual digging on the Moonbeam network, I confirmed that while the Moonbeam transaction did bridge out 0.01 WBTC, somehow the Ethereum transaction bridged in 100 WBTC
+>
+> https://t.co/IBA374DtEF
+> https://t.co/lDMQLxYmDs https://t.co/f9TOjzyZ0i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHTs9GUUAAwTge.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FZHTwoaUsAAWQQL.jpg — no alt text provided by author
+
+
+### Thread part 5 — @samczsun — 2022-08-02 00:04 UTC (2022-08-02 01:04 WAT)
+
+- URL: https://x.com/samczsun/status/1554256821220622336
+- Metrics (at fetch): bookmark 7, impression 0, like 590, quote 10, reply 7, retweet 24
+
+> 5/ Furthermore, the transaction to bridge in the WBTC didn't actually prove anything. It simply called `process` directly. Suffice to say, being able to process a message without proving it first is extremely Not Good https://t.co/LRgfXLOFkD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHUKkWUsAAKtyv.jpg — no alt text provided by author
+
+
+### Thread part 6 — @samczsun — 2022-08-02 00:08 UTC (2022-08-02 01:08 WAT)
+
+- URL: https://x.com/samczsun/status/1554257749927596032
+- Metrics (at fetch): bookmark 1, impression 0, like 399, quote 0, reply 2, retweet 14
+
+> 6/ At this point, there were two possibilities. Either the proof had been submitted separately in an earlier block, or there was something extremely wrong with the Replica contract. However, there was absolutely no indication that anything had been proven recently https://t.co/fE5pJPwGXv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHVJrnUcAA4IiO.jpg — no alt text provided by author
+
+
+### Thread part 7 — @samczsun — 2022-08-02 00:10 UTC (2022-08-02 01:10 WAT)
+
+- URL: https://x.com/samczsun/status/1554258310399856640
+- Metrics (at fetch): bookmark 5, impression 0, like 433, quote 2, reply 1, retweet 21
+
+> 7/ This left only one possibility - there was a fatal flaw within the Replica contract. But how? A quick look suggests that the message submitted must belong to an acceptable root. Otherwise, the check on line 185 would fail https://t.co/pB6JLW9uZP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHVpHMVsAE8RF4.png — no alt text provided by author
+
+
+### Thread part 8 — @samczsun — 2022-08-02 00:13 UTC (2022-08-02 01:13 WAT)
+
+- URL: https://x.com/samczsun/status/1554258955991277568
+- Metrics (at fetch): bookmark 11, impression 0, like 456, quote 5, reply 2, retweet 29
+
+> 8/ Fortunately, there's an easy way to sanity check this assumption. I knew that the root of a message which had not been proven would be 0x00, because messages[_messageHash] would be uninitialized. All I had to do was check whether the contract would accept that as a root https://t.co/6dn19kl1fl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHWQpCVUAA17Nm.png — no alt text provided by author
+
+
+### Thread part 9 — @samczsun — 2022-08-02 00:13 UTC (2022-08-02 01:13 WAT)
+
+- URL: https://x.com/samczsun/status/1554259057585729536
+- Metrics (at fetch): bookmark 14, impression 0, like 760, quote 49, reply 30, retweet 71
+
+> 9/ Oops https://t.co/Cb282bl0gQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHWVg3UUAE4Enc.png — no alt text provided by author
+
+
+### Thread part 10 — @samczsun — 2022-08-02 00:17 UTC (2022-08-02 01:17 WAT)
+
+- URL: https://x.com/samczsun/status/1554260106107179010
+- Metrics (at fetch): bookmark 35, impression 0, like 884, quote 88, reply 25, retweet 99
+
+> 10/ It turns out that during a routine upgrade, the Nomad team initialized the trusted root to be 0x00. To be clear, using zero values as initialization values is a common practice. Unfortunately, in this case it had a tiny side effect of auto-proving every message https://t.co/fA3XbNW9qT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZHW1fiUcAAwq5y.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FZHW3AIUIAAqhoX.png — no alt text provided by author
+
+
+### Thread part 11 — @samczsun — 2022-08-02 00:21 UTC (2022-08-02 01:21 WAT)
+
+- URL: https://x.com/samczsun/status/1554261104674496512
+- Metrics (at fetch): bookmark 31, impression 0, like 919, quote 35, reply 18, retweet 71
+
+> 11/ This is why the hack was so chaotic - you didn't need to know about Solidity or Merkle Trees or anything like that. All you had to do was find a transaction that worked, find/replace the other person's address with yours, and then re-broadcast it
+
+
+### Thread part 12 — @samczsun — 2022-08-02 00:28 UTC (2022-08-02 01:28 WAT)
+
+- URL: https://x.com/samczsun/status/1554262891271860224
+- Metrics (at fetch): bookmark 48, impression 0, like 1416, quote 61, reply 47, retweet 129
+
+> 12/ tl;dr a routine upgrade marked the zero hash as a valid root, which had the effect of allowing messages to be spoofed on Nomad. Attackers abused this to copy/paste transactions and quickly drained the bridge in a frenzied free-for-all
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 134
+- Posts in this file: 136
 - Conversations/threads: 103
 - Oldest post captured: 2018-11-24
 - Newest post captured: 2026-11-03
@@ -1785,7 +1785,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-09-24 · Post · Once more🥰 When google took h1 program bounty table too seriously (looks being competitive)😂 and rew
+## 2020-09-24 · Thread · Once more🥰 When google took h1 program bounty table too seriously (looks being competitive)😂 and rew
 
 
 Tags (automatic): Platform: HackerOne
@@ -1796,10 +1796,18 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/Assass1nmarcos/status/1309174458121322497
 - Metrics (at fetch): bookmark 3, impression 0, like 87, quote 0, reply 12, retweet 3
 
-> Once more🥰 When google took h1 program bounty table too seriously (looks being competitive)😂 and reward me according to that. Reward from 500&gt;1500 just via sending references. @ADITYASHENDE17 @sechunt3r #BugBounty #BugBountyTip #hof #h1 #PenetrationTesting https://t.co/2nCluqx87b
+> Once more🥰 When google took h1 program bounty table too seriously (looks being competitive)😂 and reward me according to that. Reward from 500&gt;1500 just via sending references. @ADITYASHENDE17 @sechunt3r #BugBounty #BugBountyTip #hof #h1 #PenetrationTesting [pic.x.com/2nCluqx87b]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EisfOUmXsAI6mc1.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Assass1nmarcos — 2020-09-24 16:55 UTC (2020-09-24 17:55 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1309174628636651523
+- Metrics (at fetch): bookmark 1, impression 0, like 11, quote 0, reply 2, retweet 1
+
+> Bug: RXSS on one of Google’s acquisition
 
 
 ---
@@ -2084,7 +2092,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2019-11-24 · Post · Here is the POC.  Of Idor which cause  recent data breach in Oneplus Webapp. reported by me to Onepl
+## 2019-11-24 · Thread · Here is the POC.  Of Idor which cause  recent data breach in Oneplus Webapp. reported by me to Onepl
 
 
 Tags (automatic): IDOR / BOLA
@@ -2104,6 +2112,18 @@ Tags (automatic): IDOR / BOLA
 > #bugbounty #breach #Oneplus #infosec
 
 **Links in post:** https://youtu.be/VTMKkPDdFGg
+
+
+### Thread part 2 — @Assass1nmarcos — 2019-11-24 12:53 UTC (2019-11-24 13:53 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1198585552791953408
+- Metrics (at fetch): bookmark 6, impression 0, like 16, quote 0, reply 0, retweet 3
+
+> There was an issue in last video so i have uploaded the new updated video.
+>
+> Updated link: https://youtu.be/rnXRGtBJ-ms
+
+**Links in post:** https://youtu.be/rnXRGtBJ-ms
 
 
 ---

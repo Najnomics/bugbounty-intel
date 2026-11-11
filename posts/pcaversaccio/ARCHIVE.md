@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 233
-- Conversations/threads: 204
+- Posts in this file: 238
+- Conversations/threads: 206
 - Oldest post captured: 2022-06-18
 - Newest post captured: 2026-09-03
 
@@ -3504,7 +3504,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2022-11-01 · Post · I am deeply saddened by what has happened to Nikolai (@delete_shitcoin). We have lost a remarkable h
+## 2022-11-01 · Thread · I am deeply saddened by what has happened to Nikolai (@delete_shitcoin). We have lost a remarkable h
 
 
 Tags (automatic): Smart contract / DeFi
@@ -3521,9 +3521,17 @@ Tags (automatic): Smart contract / DeFi
 - photo: https://pbs.twimg.com/media/FgeEjVfWYAAHiMk.jpg — no alt text provided by author
 
 
+### Thread part 2 — @pcaversaccio — 2022-11-01 10:00 UTC (2022-11-01 11:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1587384136855076866
+- Metrics (at fetch): bookmark 8, impression 0, like 35, quote 0, reply 1, retweet 4
+
+> You can read about it here in full detail https://t.co/jmYzMoMkoe. I'm devastated and without many words - I last chatted with him on Thursday and was actually awaiting a response. RIP Nikolai :-(
+
+
 ---
 
-## 2022-10-27 · Post · Since @0xalpharush asked for it, here we go: For every reentrancy attack in my "list of reentrancy a
+## 2022-10-27 · Thread · Since @0xalpharush asked for it, here we go: For every reentrancy attack in my "list of reentrancy a
 
 
 Tags (automatic): Smart contract / DeFi
@@ -3538,6 +3546,14 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FgGuxmVWQAMBPKb.png — no alt text provided by author
+
+
+### Thread part 2 — @pcaversaccio — 2022-10-27 21:14 UTC (2022-10-27 22:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1585741670003265536
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> Some of the exploits carried out involve multiple separate transactions as well as multiple victim and exploit contracts. For each attack, I have listed the most affected victim contract, the most critical exploit contract, and the most devastating exploit transaction.
 
 
 ---
@@ -4026,6 +4042,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2022-08-02 · Thread · ooops that looks ugly @Reaper_Farm. I think that's the first exploit of an  ERC-4626 vault (please c
 
 
+Tags (automatic): Smart contract / DeFi
+
+
 ### Post — @pcaversaccio — 2022-08-02 13:01 UTC (2022-08-02 14:01 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1554452409426087937
@@ -4043,10 +4062,47 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ### Thread part 2 — @pcaversaccio — 2022-08-02 13:01 UTC (2022-08-02 14:01 WAT)
 
+- URL: https://x.com/pcaversaccio/status/1554452413754621957
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 1, reply 1, retweet 1
+
+> why you should always be paranoid about smart contract security! Please DO NOT make any compromise wrt to security. https://t.co/O8Rsxb7jGX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZKF5Z5WAAAAfIJ.png — no alt text provided by author
+
+
+### Thread part 3 — @pcaversaccio — 2022-08-02 13:01 UTC (2022-08-02 14:01 WAT)
+
 - URL: https://x.com/pcaversaccio/status/1554452415713353730
 - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
 
 > On the positive side, 10% of user funds were saved by white-hatting the contracts.
+
+
+---
+
+## 2022-08-02 · Post · @ChiTimesChi @banteg Also, you should get an audit on each new implementation contract. Even if ever
+
+
+### Post — @pcaversaccio — 2022-08-02 12:29 UTC (2022-08-02 13:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554444243271303168
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> @ChiTimesChi @banteg Also, you should get an audit on each new implementation contract. Even if everything is fine you never know because your test runs do not incorporate the state of block-1 before your upgrade. For standard immutable contracts you need to get it right only once.
+
+
+---
+
+## 2022-08-02 · Reply · @ChiTimesChi @banteg ofc it's related - this finding makes you aware of the initial default values a
+
+
+### Post — @pcaversaccio — 2022-08-02 10:56 UTC (2022-08-02 11:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554420808407257088
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 0
+
+> @ChiTimesChi @banteg ofc it's related - this finding makes you aware of the initial default values and their potential impact and the upgraded `process()` function was exploited like that (just because they only mention `prove()` doesn't mean it has nothing to do with the attack).
 
 
 ---

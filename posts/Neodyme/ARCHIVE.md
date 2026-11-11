@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 96
+- Posts in this file: 111
 - Conversations/threads: 51
 - Oldest post captured: 2021-12-03
 - Newest post captured: 2026-04-17
@@ -1401,7 +1401,163 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Let's find out 🧵👇
 
 
-### Thread part 2 — @Neodyme — 2022-11-12 18:23 UTC (2022-11-12 19:23 WAT)
+### Thread part 2 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496758051209216
+- Metrics (at fetch): bookmark 1, impression 0, like 16, quote 0, reply 1, retweet 0
+
+> For this thread, we analysed the Upgrade Authorities of the top 10 TVL projects on DefiLlama.
+
+
+### Thread part 3 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496760467214336
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 1, retweet 0
+
+> What are Upgrade Authorities (UAs)? 👮
+>
+> UAs are the accounts in charge of changing a solana program's code.
+>
+> Naturally, they pose a huge security risk. If you control the UA, you control the smart contract and its funds.
+
+
+### Thread part 4 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496762962808832
+- Metrics (at fetch): bookmark 2, impression 0, like 10, quote 0, reply 2, retweet 0
+
+> However, they are a necessary evil.
+> If you want to fix a bug in a program, or add new features, this is done through UAs.
+> For more info on UAs, check our blog post from June: https://t.co/SBdA1MMO4T
+
+
+### Thread part 5 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496765479407616
+- Metrics (at fetch): bookmark 1, impression 0, like 14, quote 1, reply 2, retweet 0
+
+> Specifically, the top 10 TVL projects we analysed are:
+> - @solendprotocol
+> - @MarinadeFinance
+> - @LidoFinance
+> - @RaydiumProtocol
+> - @ProjectSerum
+> - @TulipProtocol
+> - @orca_so
+> - @QuarryProtocol
+> - @Saber_HQ
+> - @Francium_Defi
+
+
+### Thread part 6 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496767987515393
+- Metrics (at fetch): bookmark 3, impression 0, like 28, quote 2, reply 5, retweet 1
+
+> Of the 10 projects analysed, we found the following about their upgrade authorities: (educated guesses)
+>
+> - 3 have a hot wallet 💩
+> - 2 have a hardware wallet
+> - 5 have a multisig or DAO
+>
+> Many are currently migrating to a mixed solution.
+
+
+### Thread part 7 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496770458042368
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 1, retweet 1
+
+> (This is pretty bad tbh)
+
+
+### Thread part 8 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496772810993664
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> How to verify this yourself? 🔬
+> (Note that this only gives you information on how upgrades were handled so far)
+
+
+### Thread part 9 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496775256326144
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> First, you need to find the program address of the dApp you are trying to investigate. There are many ways to do this: Often, it is listed in the docs or open source code.
+
+
+### Thread part 10 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496777735102464
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> If not, you can try and see if a block explorer like solscan already knows the address of that dApp by its name. Finally, you can also do a test transaction and view the program it interacts with on-chain.
+
+
+### Thread part 11 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496785750413312
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Once you have the program address, you can use any explorer of your choice to find its upgrade authority -- it's listed directly on its explorer page. You can also see the address of the program data and the last slot it was changed. https://t.co/Hz2epc9Opt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhYh48bVEAAOBO6.jpg — alt text: "solana explorer: Upgrade Authority, Program Data, Last Deployment"
+
+
+### Thread part 12 — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496792918528000
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Using the explorer, you can navigate to the program data address. The transactions you see are the program upgrades. https://t.co/Q6qrLk6QoY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhYh5XVUAAA7Rad.jpg — alt text: "program upgrades"
+
+
+### Thread part 13 — @Neodyme — 2022-11-12 18:23 UTC (2022-11-12 19:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496800124383233
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Lets check the UA. If there are many transactions within a few seconds landing in the same slot, the upgrade auth is almost certainly managed by a hot wallet. OTOH, if the upgrades are managed using a multisig or DAO, you can see this by program invocations in the upgrade txs. https://t.co/CCMNgTAgmy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhYh5x-VIAAyqBx.jpg — alt text: "Hot wallet interactions"
+
+
+### Thread part 14 — @Neodyme — 2022-11-12 18:23 UTC (2022-11-12 19:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496803165163520
+- Metrics (at fetch): bookmark 1, impression 0, like 18, quote 0, reply 2, retweet 2
+
+> If you see a hot wallet, or even a hardware wallet, being used as an upgrade authority for a major dApp, be careful when interacting with it. ⚠️ They potentially have the power to rug pull all of your funds.
+
+
+### Thread part 15 — @Neodyme — 2022-11-12 18:23 UTC (2022-11-12 19:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496805727944704
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 0, reply 2, retweet 1
+
+> We've been pushing for more transparency in upgrade authority handling for some time now.
+>
+> If you see a large project using a hot wallet or hardware wallet, you can help us by asking them why they haven't migrated to a multisig. Stay safe out there.
+
+
+### Thread part 16 — @Neodyme — 2022-11-12 18:23 UTC (2022-11-12 19:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1591496808219361280
+- Metrics (at fetch): bookmark 1, impression 0, like 29, quote 0, reply 2, retweet 4
+
+> If you are running a large project and are still using a hot, or even cold wallet instead of a multisig or DAO,
+>
+> MIGRATE IT!
+
+
+### Thread part 17 — @Neodyme — 2022-11-12 18:23 UTC (2022-11-12 19:23 WAT)
 
 - URL: https://x.com/Neodyme/status/1591496810643668992
 - Metrics (at fetch): bookmark 1, impression 0, like 26, quote 0, reply 2, retweet 0
@@ -1409,7 +1565,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > We gave a talk at #Breakpoint @SolanaConf about this topic last week. Follow us to get notified once it's online!
 
 
-### Thread part 3 — @Neodyme — 2022-11-14 18:58 UTC (2022-11-14 19:58 WAT)
+### Thread part 18 — @Neodyme — 2022-11-14 18:58 UTC (2022-11-14 19:58 WAT)
 
 - URL: https://x.com/Neodyme/status/1592230496636833793
 - Metrics (at fetch): bookmark 2, impression 0, like 2, quote 1, reply 0, retweet 0

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 240
+- Posts in this file: 246
 - Conversations/threads: 222
 - Oldest post captured: 2015-07-16
 - Newest post captured: 2026-11-07
@@ -2988,7 +2988,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2021-07-19 · Post · As I've been reporting more bugs on HackerOne, the triage experiences have been disappointing as a h
+## 2021-07-19 · Thread · As I've been reporting more bugs on HackerOne, the triage experiences have been disappointing as a h
 
 
 Tags (automatic): Platform: HackerOne
@@ -3000,6 +3000,22 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 9, impression 0, like 265, quote 7, reply 21, retweet 37
 
 > As I've been reporting more bugs on HackerOne, the triage experiences have been disappointing as a hacker. As a triager, you have a responsibility to represent the hacker as well. This comes with great power to act in good faith and fairly assess vulnerabilities or pass them on.
+
+
+### Thread part 2 — @infosec_au — 2021-07-19 10:54 UTC (2021-07-19 11:54 WAT)
+
+- URL: https://x.com/infosec_au/status/1417075400077832193
+- Metrics (at fetch): bookmark 0, impression 0, like 66, quote 0, reply 5, retweet 6
+
+> As of late, I've been having trouble trusting that the triage team is working in my interests, I've had to fight for my bugs to even be considered by security teams, where in the past I have been able to connect with security teams who understand underlying issues.
+
+
+### Thread part 3 — @infosec_au — 2021-07-19 12:53 UTC (2021-07-19 13:53 WAT)
+
+- URL: https://x.com/infosec_au/status/1417105368530898953
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 0, retweet 1
+
+> Just to clear things up. I empathise that triagers are working really hard and may not have the skills. I also think there is a big gap in understanding of how the triage works, and bug hunters have not been educated on it enough, myself included. This causes a lot of grief.
 
 
 ---
@@ -3357,7 +3373,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2020-09-28 · Post · A program I participate in often started giving out zone files, and I’ve had to really reflect on my
+## 2020-09-28 · Thread · A program I participate in often started giving out zone files, and I’ve had to really reflect on my
 
 
 ### Post — @infosec_au — 2020-09-28 20:43 UTC (2020-09-28 21:43 WAT)
@@ -3366,6 +3382,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 4, impression 0, like 43, quote 0, reply 2, retweet 0
 
 > A program I participate in often started giving out zone files, and I’ve had to really reflect on my methodology because of how even a playing field it is now. Saving lots of hours on recon per week, and hackers are beating me to bugs I would usually be first at
+
+
+### Thread part 2 — @infosec_au — 2020-09-28 20:44 UTC (2020-09-28 21:44 WAT)
+
+- URL: https://x.com/infosec_au/status/1310681818253811712
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 0, retweet 0
+
+> I’m just going to automate it even more 🥳 let’s see who the first person is to diff the zone files and respond.
 
 
 ---
@@ -3383,7 +3407,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2020-09-17 · Post · I wrote a post on @assetnote's blog about hacking in bug bounties for the last four years. This shou
+## 2020-09-17 · Thread · I wrote a post on @assetnote's blog about hacking in bug bounties for the last four years. This shou
 
 
 ### Post — @infosec_au — 2020-09-17 01:27 UTC (2020-09-17 02:27 WAT)
@@ -3393,7 +3417,25 @@ Tags (automatic): RCE
 
 > I wrote a post on @assetnote's blog about hacking in bug bounties for the last four years. This should give you a good idea on what I've been reporting and how I find bugs and incorporate them back into our platform.
 >
-> https://t.co/BhL4DiQlaB
+> https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
+
+**Links in post:** https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
+
+
+### Thread part 2 — @infosec_au — 2020-09-17 01:38 UTC (2020-09-17 02:38 WAT)
+
+- URL: https://x.com/infosec_au/status/1306407033088827393
+- Metrics (at fetch): bookmark 0, impression 0, like 37, quote 0, reply 2, retweet 1
+
+> In the post, there are personal shout outs to @0xacb @0xteknogeek @nnwakelam @seanyeoh @anshuman_bh @rhyselsmore @avlidienbrunn - thanks for all the collaboration along the way! I hope you are as fond of the memories as I am.
+
+
+### Thread part 3 — @infosec_au — 2020-09-17 03:33 UTC (2020-09-17 04:33 WAT)
+
+- URL: https://x.com/infosec_au/status/1306436140010856450
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 0
+
+> @IAmMandatory and @libber were also the main reason I started working on Uber's bounty, and are also mentioned in the post. Hope this brings back some memories for you two, when I was first getting started on your program.
 
 
 ---
@@ -3453,7 +3495,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2020-09-06 · Post · I've recently started making videos to share all of the things I have learnt doing bug bounties over
+## 2020-09-06 · Thread · I've recently started making videos to share all of the things I have learnt doing bug bounties over
 
 
 ### Post — @infosec_au — 2020-09-06 22:35 UTC (2020-09-06 23:35 WAT)
@@ -3461,7 +3503,17 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/infosec_au/status/1302737130687361024
 - Metrics (at fetch): bookmark 177, impression 0, like 665, quote 14, reply 11, retweet 201
 
-> I've recently started making videos to share all of the things I have learnt doing bug bounties over the years. I promise I wont hold back, and I plan to bring more transparency to bug bounty successes. Please share, like and subscribe! https://t.co/eZJP9F6VhY
+> I've recently started making videos to share all of the things I have learnt doing bug bounties over the years. I promise I wont hold back, and I plan to bring more transparency to bug bounty successes. Please share, like and subscribe! https://www.youtube.com/watch?v=it_V3ig1_4o
+
+**Links in post:** https://www.youtube.com/watch?v=it_V3ig1_4o
+
+
+### Thread part 2 — @infosec_au — 2020-09-06 23:26 UTC (2020-09-07 00:26 WAT)
+
+- URL: https://x.com/infosec_au/status/1302750067527356416
+- Metrics (at fetch): bookmark 2, impression 0, like 15, quote 0, reply 0, retweet 0
+
+> Huge shoutout to @anshuman_bh, @Rhynorater, @rhyselsmore and @jdmastermeme for all their feedback and help. Thanks guys.
 
 
 ---

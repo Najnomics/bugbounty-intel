@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 125
+- Posts in this file: 126
 - Conversations/threads: 122
 - Oldest post captured: 2020-01-17
 - Newest post captured: 2026-11-04
@@ -2957,7 +2957,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2021-07-05 · Post · New video showing how to abuse PrintNightmare PoCs for Local Privilege Escalation. https://t.co/CUm
+## 2021-07-05 · Thread · New video showing how to abuse PrintNightmare PoCs for Local Privilege Escalation. https://youtu.be
 
 
 Tags (automatic): RCE
@@ -2968,9 +2968,19 @@ Tags (automatic): RCE
 - URL: https://x.com/infinitelogins/status/1412133567769944064
 - Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 1, retweet 7
 
-> New video showing how to abuse #PrintNightmare PoCs for Local Privilege Escalation. https://t.co/CUm8eB4JlM
+> New video showing how to abuse #PrintNightmare PoCs for Local Privilege Escalation. https://youtu.be/7iUcF2czFUQ
 >
 > A 2nd video will be out later today showing another PoC used for Remote Code Execution against a Domain Controller.  #Infosec #CVE
+
+**Links in post:** https://youtu.be/7iUcF2czFUQ
+
+
+### Thread part 2 — @infinitelogins — 2021-07-05 19:42 UTC (2021-07-05 20:42 WAT)
+
+- URL: https://x.com/infinitelogins/status/1412134757245222913
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> Also shoutout to @_johnhammond - This video highlights the PoC that he wrote with @calebjstewart
 
 
 ---

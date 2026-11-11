@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 57
+- Posts in this file: 71
+- Conversations/threads: 64
 - Oldest post captured: 2013-09-06
 - Newest post captured: 2022-11-29
 
@@ -536,10 +536,138 @@ Tags (automatic): ZK
 
 ---
 
-## 2019-02-09 · Post · Inspired by @socrates1024 rendering the Zcash Sprout circuit last year, I tried rendering the Saplin
+## 2019-02-09 · Post · That is to say, if someone can come up with an algebraic PRF that we can be confident isn't broken, 
 
 
 Tags (automatic): ZK
+
+
+### Post — @str4d — 2019-02-09 02:45 UTC (2019-02-09 03:45 WAT)
+
+- URL: https://x.com/str4d/status/1094064732338819072
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 1, reply 1, retweet 1
+
+> That is to say, if someone can come up with an algebraic PRF that we can be confident isn't broken, we can reduce the size of the spend circuit significantly 😈
+>
+> https://t.co/15TUXCikYU
+
+
+---
+
+## 2019-02-09 · Post · There are two BLAKE2s calls in the Sapling spend circuit, which take up as much space as the entire 
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2019-02-09 02:41 UTC (2019-02-09 03:41 WAT)
+
+- URL: https://x.com/str4d/status/1094063650724372480
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> There are two BLAKE2s calls in the Sapling spend circuit, which take up as much space as the entire Merkle path. We need them because there are two points in the cryptographic construction where we require a PRF (in the Merkle tree we can get away with just collision-resistance).
+
+
+---
+
+## 2019-02-09 · Post · Left: 25.2k constraints for a single SHA-256 block with no padding.
+
+
+### Post — @str4d — 2019-02-09 02:33 UTC (2019-02-09 03:33 WAT)
+
+- URL: https://x.com/str4d/status/1094061601282576385
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 1, reply 1, retweet 1
+
+> Left: 25.2k constraints for a single SHA-256 block with no padding.
+>
+> Right: 20.5k constraints for BLAKE2s. All of it! https://t.co/KjiTxh6hEE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dy7isMpXgAAm3nR.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Dy7itEIXQAE-VaO.jpg — no alt text provided by author
+
+
+---
+
+## 2019-02-09 · Post · Left: a single Sprout input. Right: the Sapling spend circuit.
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2019-02-09 02:25 UTC (2019-02-09 03:25 WAT)
+
+- URL: https://x.com/str4d/status/1094059655511375872
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 2, retweet 1
+
+> Left: a single Sprout input. Right: the Sapling spend circuit.
+>
+> Sprout has 29 SHA-256 hashes in a note's Merkle path, taking up 86% of the input's circuit! Sapling uses 32 Pedersen hashes, which at 1.3k constraints each are only 43% of its circuit. https://t.co/nvbqgpZ7Yi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dy7ga06W0AApT3-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Dy7gbrYWwAAo0bc.jpg — no alt text provided by author
+
+
+---
+
+## 2019-02-09 · Post · It's interesting looking at these visually, because the size of a zk-SNARK circuit affects the time 
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2019-02-09 02:25 UTC (2019-02-09 03:25 WAT)
+
+- URL: https://x.com/str4d/status/1094059654420852742
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> It's interesting looking at these visually, because the size of a zk-SNARK circuit affects the time it takes to create a proof. You can literally see the engineering improvements!
+
+
+---
+
+## 2019-02-09 · Post · And to complete the set, here's the Sprout circuit we now use since Sapling activation. Same high-le
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2019-02-09 02:13 UTC (2019-02-09 03:13 WAT)
+
+- URL: https://x.com/str4d/status/1094056661243830272
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> And to complete the set, here's the Sprout circuit we now use since Sapling activation. Same high-level circuit as before, but implemented using the proving system implementation and parameters that Sapling uses. https://t.co/ApHR4w7vQE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dy7eY_DWwAAj7on.jpg — no alt text provided by author
+
+
+---
+
+## 2019-02-09 · Post · For comparison, here is @socrates1024's rendering of the Sprout circuit. Sprout contains roughly the
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2019-02-09 01:40 UTC (2019-02-09 02:40 WAT)
+
+- URL: https://x.com/str4d/status/1094048419553992704
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 2
+
+> For comparison, here is @socrates1024's rendering of the Sprout circuit. Sprout contains roughly the same logic as 2 Sapling spends and 2 Sapling outputs, so look at just the left-hand side when comparing them.
+>
+> https://t.co/IoijZUid5c
+
+
+---
+
+## 2019-02-09 · Thread · Inspired by @socrates1024 rendering the Zcash Sprout circuit last year, I tried rendering the Saplin
+
+
+Tags (automatic): ZK, Memory corruption / native
 
 
 ### Post — @str4d — 2019-02-09 01:32 UTC (2019-02-09 02:32 WAT)
@@ -555,9 +683,20 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/Dy7VEtjXgAAjlMP.jpg — no alt text provided by author
 
 
+### Thread part 2 — @str4d — 2019-02-09 01:33 UTC (2019-02-09 02:33 WAT)
+
+- URL: https://x.com/str4d/status/1094046618041679872
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 2
+
+> And the Sapling output circuit! You can see one of the reasons why we split it away from the spend side - it's much smaller and cheaper on its own. https://t.co/eEP9I7BLoz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dy7VTzhWoAAJI6_.jpg — no alt text provided by author
+
+
 ---
 
-## 2019-01-25 · Post · My laptop is now unbricked (yay warranties!), and updated to the latest BIOS that fixed the bricking
+## 2019-01-25 · Thread · My laptop is now unbricked (yay warranties!), and updated to the latest BIOS that fixed the bricking
 
 
 ### Post — @str4d — 2019-01-25 23:23 UTC (2019-01-26 00:23 WAT)
@@ -580,6 +719,42 @@ Tags (automatic): ZK
     >
     > First stumbling point: creating the installation USB in a way that can actually boot under UEFI 😅 Fortunately the docs are very helpful!
     
+
+
+### Thread part 2 — @str4d — 2019-01-25 23:25 UTC (2019-01-26 00:25 WAT)
+
+- URL: https://x.com/str4d/status/1088941017246646274
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Another interesting issue: I can now start the installation USB in UEFI-only mode, as long as Secure Boot is disabled. Maybe a combination of now-working USB drive and the system board being swapped out? I'll dig into that later.
+
+
+### Thread part 3 — @str4d — 2019-01-27 00:08 UTC (2019-01-27 01:08 WAT)
+
+- URL: https://x.com/str4d/status/1089314158007463936
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Status update: I've now installed @QubesOS fresh around a dozen times, trying to figure out why it locks up almost immediately when restarting after post-install configuration.
+>
+> Current hypothesis: something in sys-usb is causing issues, so I'm trying a fresh install without it.
+
+
+### Thread part 4 — @str4d — 2019-01-27 00:54 UTC (2019-01-27 01:54 WAT)
+
+- URL: https://x.com/str4d/status/1089325664858198016
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> That worked! Disabling sys-usb in the config stops Qubes from freezing. Not looking forward to figuring out what the root cause is, but let's see if we can continue without it...
+
+
+### Thread part 5 — @str4d — 2019-01-27 03:05 UTC (2019-01-27 04:05 WAT)
+
+- URL: https://x.com/str4d/status/1089358745149288449
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> I have Qubes 4.0.1 running on my Lenovo ThinkPad P1 using the Nvidia GPU, with networking, audio, camera, mic, and USB-A ports all working! The lock-up is caused by the Thunderbolt USB-C controller, which I can do without for now 🤷‍♂️
+>
+> ... Aaand "shutdown" restarts the laptop 🤦‍♂️
 
 
 ---

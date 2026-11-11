@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 391
+- Posts in this file: 396
 - Conversations/threads: 370
 - Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
@@ -3331,7 +3331,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-12-28 · Post · Best get a pizza in me and wake the hacker in me up, hacking with members of @BugBountyHunt3r soon! 
+## 2020-12-28 · Thread · Best get a pizza in me and wake the hacker in me up, hacking with members of @BugBountyHunt3r soon! 
 
 
 ### Post — @zseano — 2020-12-28 17:24 UTC (2020-12-28 18:24 WAT)
@@ -3340,6 +3340,17 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 40, quote 0, reply 5, retweet 3
 
 > Best get a pizza in me and wake the hacker in me up, hacking with members of @BugBountyHunt3r soon! We found a bug last session (low impact though) so let's see if we can continue this streak and find some more :) [pic.x.com/fwzM09Q3yL]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+### Thread part 2 — @zseano — 2020-12-28 18:57 UTC (2020-12-28 19:57 WAT)
+
+- URL: https://x.com/zseano/status/1343632181172830208
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 1, reply 1, retweet 3
+
+> let's hack (: https://t.co/Jc6mQ2gy8y
 
 **Media:**
 - animated_gif:  — no alt text provided by author
@@ -3407,7 +3418,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2020-12-10 · Post · Had a poke at the UK MOD vuln disclosure program &amp; found a nice bug already ;D I know they don't
+## 2020-12-10 · Thread · Had a poke at the UK MOD vuln disclosure program &amp; found a nice bug already ;D I know they don't
 
 
 ### Post — @zseano — 2020-12-10 14:03 UTC (2020-12-10 15:03 WAT)
@@ -3426,6 +3437,14 @@ Tags (automatic): IDOR / BOLA
     
     > UK Ministry of Defence: We won't prosecute bug bounty hunters – oh btw, we now have one of those https://t.co/GCuV0DJDgd
     
+
+
+### Thread part 2 — @zseano — 2020-12-10 14:19 UTC (2020-12-10 15:19 WAT)
+
+- URL: https://x.com/zseano/status/1337039277222490114
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> Won't be investing any more time in this VDP btw. I was just curious what .mod.uk had out there and it was nice knowing I could hack on there without fear of getting in trouble :) Happy with my finding, back to work :D
 
 
 ---
@@ -3511,7 +3530,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-11-03 · Post · Hey everyone! I've just put https://t.co/TmnXN5B0yM online for public use! Please be gentle and let 
+## 2020-11-03 · Thread · Hey everyone! I've just put https://t.co/TmnXN5B0yM online for public use! Please be gentle and let 
 
 
 ### Post — @zseano — 2020-11-03 21:52 UTC (2020-11-03 22:52 WAT)
@@ -3520,6 +3539,16 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 92, impression 0, like 613, quote 31, reply 16, retweet 151
 
 > Hey everyone! I've just put https://t.co/TmnXN5B0yM online for public use! Please be gentle and let me know if you run into any problems via support@bugbountyhunter.com :) I hope you all enjoy the content and can learn how to get involved in bug bounties and make it rain bugs! :)
+
+
+### Thread part 2 — @zseano — 2020-11-03 21:54 UTC (2020-11-03 22:54 WAT)
+
+- URL: https://x.com/zseano/status/1323745274989285378
+- Metrics (at fetch): bookmark 4, impression 0, like 51, quote 0, reply 1, retweet 2
+
+> A lot of people have wanted my methodology/flow for a while and I'm happy to say it's available now on https://t.co/H7tDJivomZ ! And you can even win free access if you can find a "flag" (unique vuln) on FastFoodHackings! 
+>
+> &lt;3
 
 
 ---
@@ -3575,7 +3604,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2020-08-29 · Post · How much does @SlackHQ pay for critical bugs? Is it $1500 or $5000+ ? :/ the bounty table shows only
+## 2020-08-29 · Thread · How much does @SlackHQ pay for critical bugs? Is it $1500 or $5000+ ? :/ the bounty table shows only
 
 
 ### Post — @zseano — 2020-08-29 11:12 UTC (2020-08-29 12:12 WAT)
@@ -3583,10 +3612,21 @@ Tags (automatic): RCE
 - URL: https://x.com/zseano/status/1299666194451116034
 - Metrics (at fetch): bookmark 1, impression 0, like 48, quote 1, reply 9, retweet 2
 
-> How much does @SlackHQ pay for critical bugs? Is it $1500 or $5000+ ? :/ the bounty table shows only $1.5k but their policy says otherwise? Which value is correct? https://t.co/VbbN0ijSLm
+> How much does @SlackHQ pay for critical bugs? Is it $1500 or $5000+ ? :/ the bounty table shows only $1.5k but their policy says otherwise? Which value is correct? [pic.x.com/VbbN0ijSLm]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EglXT6IWoAAvgb2.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zseano — 2020-08-29 11:13 UTC (2020-08-29 12:13 WAT)
+
+- URL: https://x.com/zseano/status/1299666478048915456
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 1
+
+> They changed rewards on august 7th but only bounty table was modified, not the policy. So again, which value is correct here? How do researchers know how much they'll get paid? Aren't we told "make sure to abide by the policy!" ? hmmm. [pic.x.com/c1qP7BCrHe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EglXpdWWsAA4TZQ.jpg — no alt text provided by author
 
 
 ---
@@ -3970,7 +4010,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-03-10 · Post · Why are companies not pro-active with our bug reports :(  I reported a bug to modify anyone's accoun
+## 2020-03-10 · Thread · Why are companies not pro-active with our bug reports :(  I reported a bug to modify anyone's accoun
 
 
 Tags (automatic): IDOR / BOLA
@@ -3982,6 +4022,16 @@ Tags (automatic): IDOR / BOLA
 - Metrics (at fetch): bookmark 3, impression 0, like 49, quote 0, reply 6, retweet 1
 
 > Why are companies not pro-active with our bug reports :(  I reported a bug to modify anyone's account info via IDOR (integer value). It was fixed this morning but there is another request with SAME param to delete account info.. vuln to same IDOR. Sighhhhhhh
+
+
+### Thread part 2 — @zseano — 2020-03-10 11:44 UTC (2020-03-10 12:44 WAT)
+
+- URL: https://x.com/zseano/status/1237343580928253953
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 9, retweet 0
+
+> It's honestly like companies just read our reports, change code, fixed! Next! Instead of... "Hmmm, this IDOR bug shouldn't of been here.. wonder if we have more". 
+>
+> Dear companies: *you* can find these bugs yourself in-house VERY easily! It's not hard
 
 
 ---

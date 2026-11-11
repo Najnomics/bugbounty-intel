@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 99
-- Conversations/threads: 61
+- Posts in this file: 127
+- Conversations/threads: 64
 - Oldest post captured: 2021-11-11
 - Newest post captured: 2024-11-14
 
@@ -437,7 +437,42 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-10-10 · Post · We'll be hosting fifteen incredible teams from across the ZK ecosystem at the DevconVI ZK Community
+## 2022-10-10 · Post · On Friday 10/14, visit the Community Hub between 10:30AM and 1:30PM to try out demos from Axiom (@th
+
+
+### Post — @0xPARC — 2022-10-10 18:07 UTC (2022-10-10 19:07 WAT)
+
+- URL: https://x.com/0xPARC/status/1579534004759724032
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 3, reply 2, retweet 2
+
+> On Friday 10/14, visit the Community Hub between 10:30AM and 1:30PM to try out demos from Axiom (@theyisun) and @PrivacyScaling and @UniRep_Protocol 5/ https://t.co/u02uxr1hQj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeuhpDeX0AAf0Av.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-10 · Post · On Thursday 10/13, drop by between 12PM and 6PM to hang out with researchers and developers from @pe
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-10-10 18:07 UTC (2022-10-10 19:07 WAT)
+
+- URL: https://x.com/0xPARC/status/1579533998250168320
+- Metrics (at fetch): bookmark 3, impression 0, like 17, quote 1, reply 1, retweet 4
+
+> On Thursday 10/13, drop by between 12PM and 6PM to hang out with researchers and developers from @personae_labs, @0xPolygonMiden, @aztecnetwork, and @StarkWareLtd 4/ https://t.co/3cLG7cuPjv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Feug-InXwAAzYeo.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-10 · Thread · We'll be hosting fifteen incredible teams from across the ZK ecosystem at the DevconVI ZK Community
 
 
 Tags (automatic): ZK
@@ -452,12 +487,36 @@ Tags (automatic): ZK
 >
 > (details in replies)
 >
-> https://t.co/OzeDTMdzJG
+> https://zkworkshop.info/bogota-community-hub
+
+**Links in post:** https://zkworkshop.info/bogota-community-hub
+
+
+### Thread part 2 — @0xPARC — 2022-10-10 18:07 UTC (2022-10-10 19:07 WAT)
+
+- URL: https://x.com/0xPARC/status/1579533985222651904
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 0, reply 3, retweet 5
+
+> On Tuesday 10/11, drop by between 12PM and 6PM to chat with core team members from @0xPolygonHermez, @succinctlabs, @AleoHQ and @z_prize, and @worldnetwork 2/ [pic.x.com/v1hLkbpUEh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeugmHpWIAESGju.jpg — no alt text provided by author
+
+
+### Thread part 3 — @0xPARC — 2022-10-10 18:07 UTC (2022-10-10 19:07 WAT)
+
+- URL: https://x.com/0xPARC/status/1579533991581192193
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 5, reply 2, retweet 4
+
+> On Wednesday 10/12, drop by between 10:30AM and 6PM for discussions, office hours, and interactive demos with zKonduit, @personae_labs, @Scroll_ZKP, @VeridiseInc, and Circom 3/ [pic.x.com/a3zu5PHJJc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Feugp9BWAAEl-VF.jpg — no alt text provided by author
 
 
 ---
 
-## 2022-10-10 · Post · Hey @EFDevcon attendees! We will be co-hosting a full-day Applied ZK workshop with EF @PrivacyScalin
+## 2022-10-10 · Thread · Hey @EFDevcon attendees! We will be co-hosting a full-day Applied ZK workshop with EF @PrivacyScalin
 
 
 Tags (automatic): ZK
@@ -474,7 +533,78 @@ Tags (automatic): ZK
 >
 > Full agenda linked below - or see the rest of this thread for details! 1/
 >
-> https://t.co/MciVg58dnX
+> https://zkworkshop.info/bogota-agenda
+
+**Links in post:** https://zkworkshop.info/bogota-agenda
+
+
+### Thread part 2 — @0xPARC — 2022-10-10 17:57 UTC (2022-10-10 18:57 WAT)
+
+- URL: https://x.com/0xPARC/status/1579531598290382849
+- Metrics (at fetch): bookmark 4, impression 0, like 22, quote 2, reply 1, retweet 4
+
+> First up - the Future of Proving Systems session will take place from 10AM - 1PM, focusing on next-generation ZK proving systems and tools. 2/
+>
+> (Add this session to your Devcon calendar with the link below!)
+>
+> https://app.devcon.org/schedule/kpr8cl [pic.x.com/SPDJFpCnE1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Feue-ZjXgAEGfCf.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FeufKmAXwAAukqI.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FeufMI5WAAwqfiW.jpg — no alt text provided by author
+
+**Links in post:** https://app.devcon.org/schedule/kpr8cl
+
+
+### Thread part 3 — @0xPARC — 2022-10-10 17:57 UTC (2022-10-10 18:57 WAT)
+
+- URL: https://x.com/0xPARC/status/1579531604992856064
+- Metrics (at fetch): bookmark 1, impression 0, like 21, quote 2, reply 1, retweet 9
+
+> Next, the ZK Applications Showcase from 1PM - 4PM will feature teams working on ZK-enabled apps from across the ecosystem, including ZK identity primitives and ZK machine learning demos. 3/
+>
+> (Add this session to your Devcon calendar with the link below!)
+>
+> https://app.devcon.org/schedule/8QFEHB [pic.x.com/wAmJVQVNO5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeufPYkXkAU548Z.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FeufRkmWAAc_KRp.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FeufTl6X0AAJ9x2.jpg — no alt text provided by author
+
+**Links in post:** https://app.devcon.org/schedule/8QFEHB
+
+
+### Thread part 4 — @0xPARC — 2022-10-10 17:57 UTC (2022-10-10 18:57 WAT)
+
+- URL: https://x.com/0xPARC/status/1579531610759651328
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> Finally, we'll close out the day with a series of talks and panels on ZK Security, with specialists in formal verification and assurance. 4/
+>
+> (Add this session to your Devcon calendar with the link below!)
+>
+> https://app.devcon.org/schedule/xmhca7 [pic.x.com/5RH0054Rfn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeufZPsXEAI3Ccz.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Feufa6eX0AIQQZX.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FeufcazX0AAG1f5.jpg — no alt text provided by author
+
+**Links in post:** https://app.devcon.org/schedule/xmhca7
+
+
+### Thread part 5 — @0xPARC — 2022-10-10 17:57 UTC (2022-10-10 18:57 WAT)
+
+- URL: https://x.com/0xPARC/status/1579531613712809984
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
+
+> You can learn more about the Applied ZK Workshop program, as well as the Devcon ZK Community Hub, at the website below. See you at #DevconVI! 5/5
+>
+> https://zkworkshop.info/
+
+**Links in post:** https://zkworkshop.info/
 
 
 ---
@@ -858,23 +988,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-03-21 · Post · Areas of focus include ZK app design patterns, identity primitives, tooling and infra, and auditing 
-
-
-Tags (automatic): ZK
-
-
-### Post — @0xPARC — 2022-03-21 01:28 UTC (2022-03-21 02:28 WAT)
-
-- URL: https://x.com/0xPARC/status/1505718066633908225
-- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
-
-> Areas of focus include ZK app design patterns, identity primitives, tooling and infra, and auditing and verification for ZK apps. The event will feature talks, demos, workshops, and breakout groups led by ecosystem teams. (3/n)
-
-
----
-
-## 2022-03-21 · Post · We are co-hosting an Applied ZK Workshop at @EFDevconnect with the EF @PrivacyScaling team, bringing
+## 2022-03-21 · Thread · We are co-hosting an Applied ZK Workshop at @EFDevconnect with the EF @PrivacyScaling team, bringing
 
 
 Tags (automatic): ZK
@@ -889,15 +1003,33 @@ Tags (automatic): ZK
 >
 > This event has limited capacity. Apply below by 3/25! (1/n)
 >
-> https://t.co/d9T66fCJ33
+> https://zkworkshop.info/
+
+**Links in post:** https://zkworkshop.info/
+
+
+### Thread part 2 — @0xPARC — 2022-03-21 01:28 UTC (2022-03-21 02:28 WAT)
+
+- URL: https://x.com/0xPARC/status/1505718065106862082
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> The Applied ZK Workshop will take place in Amsterdam on Sat 4/23 and Sun 4/24. Saturday sessions will focus on ZK applications, while Sunday sessions will focus on tooling and infrastructure. (2/n)
+
+
+### Thread part 3 — @0xPARC — 2022-03-21 01:28 UTC (2022-03-21 02:28 WAT)
+
+- URL: https://x.com/0xPARC/status/1505718066633908225
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Areas of focus include ZK app design patterns, identity primitives, tooling and infra, and auditing and verification for ZK apps. The event will feature talks, demos, workshops, and breakout groups led by ecosystem teams. (3/n)
 
 
 ---
 
-## 2022-03-18 · Post · Five days left to donate to @gitcoin GR13, and to have your donations matched up to 200x - yes, TWO 
+## 2022-03-18 · Thread · Five days left to donate to @gitcoin GR13, and to have your donations matched up to 200x - yes, TWO 
 
 
-Tags (automatic): ZK
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 
 ### Post — @0xPARC — 2022-03-18 21:09 UTC (2022-03-18 22:09 WAT)
@@ -907,7 +1039,92 @@ Tags (automatic): ZK
 
 > Five days left to donate to @gitcoin GR13, and to have your donations matched up to 200x - yes, TWO HUNDRED TIMES - by our ZK matching pool! Here's a thread with a few projects we're excited about: (1/n)
 >
-> https://t.co/VDCsiEO2Kn
+> https://gitcoin.co/grants/explorer?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=26004&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=false&round_type=false
+
+**Links in post:** https://gitcoin.co/grants/explorer?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=26004&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=false&round_type=false
+
+
+### Thread part 2 — @0xPARC — 2022-03-18 21:09 UTC (2022-03-18 22:09 WAT)
+
+- URL: https://x.com/0xPARC/status/1504927931285614593
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> .@EcneProject is an automated tool that verifies that your ZK circuits are not missing any constraints. This ensures that your circuits can't be hacked by a malicious prover. Every $1 donation currently receives a $41 match! (2/n)
+>
+> https://gitcoin.co/grants/4739/ecne
+
+**Links in post:** https://gitcoin.co/grants/4739/ecne
+
+
+### Thread part 3 — @0xPARC — 2022-03-18 21:09 UTC (2022-03-18 22:09 WAT)
+
+- URL: https://x.com/0xPARC/status/1504927932497674241
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 1
+
+> CirC is a team of Stanford and CMU researchers building infrastructure for ZK circuit compilers--allowing developers to turn programs into ZK circuits. Every $1 donation currently receives a $41 match! (3/n)
+>
+> https://gitcoin.co/grants/4877/correct-programs-and-compilers-with-circ
+
+**Links in post:** https://gitcoin.co/grants/4877/correct-programs-and-compilers-with-circ
+
+
+### Thread part 4 — @0xPARC — 2022-03-18 21:09 UTC (2022-03-18 22:09 WAT)
+
+- URL: https://x.com/0xPARC/status/1504927933726707718
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 1
+
+> .@__zkhack__ is a series of workshops, puzzles, and ZK community events hosted by @zkvalidator. A $1 donation is matched with $130 of matching funds! (4/n)
+>
+> https://gitcoin.co/grants/3595/zk-hack-zk-focused-virtual-event
+
+**Links in post:** https://gitcoin.co/grants/3595/zk-hack-zk-focused-virtual-event
+
+
+### Thread part 5 — @0xPARC — 2022-03-18 21:09 UTC (2022-03-18 22:09 WAT)
+
+- URL: https://x.com/0xPARC/status/1504927935081373701
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> .@zkrepl by @antimatter15 is an interactive in-browser development environment for collaboratively building circom circuits. Many 0xPARC teams use ZKREPL for circuit prototyping. Every $1 donation is currently matched by $106 in matching funds. (5/n)
+>
+> https://gitcoin.co/grants/5121/zkrepl-an-online-playground-for-zero-knowledge-ci
+
+**Links in post:** https://gitcoin.co/grants/5121/zkrepl-an-online-playground-for-zero-knowledge-ci
+
+
+### Thread part 6 — @0xPARC — 2022-03-18 21:16 UTC (2022-03-18 22:16 WAT)
+
+- URL: https://x.com/0xPARC/status/1504929861198098437
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> ZK travel scholarships will send crypto grad students and zk researchers to blockchain / crypto conferences. This grant is administered by 0xPARC and the Stanford Center for Blockchain Research. A $1 donation is matched by $78 of matching funds! (6/n)
+>
+> https://gitcoin.co/grants/4965/zk-travel-scholarships-by-0xparc-and-stanford-cbr
+
+**Links in post:** https://gitcoin.co/grants/4965/zk-travel-scholarships-by-0xparc-and-stanford-cbr
+
+
+### Thread part 7 — @0xPARC — 2022-03-18 21:17 UTC (2022-03-18 22:17 WAT)
+
+- URL: https://x.com/0xPARC/status/1504930015800082437
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Why are the matching multipliers for this round so high? Firstly, thanks to the power of quadratic voting, popular projects in the ZK tech category receive more funds. Secondly, our wonderful matching partners have put together a $275k matching pool just for ZK projects! (7/n) [pic.x.com/yE0mdBiGjq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOKV3l5X0AYmnPr.jpg — no alt text provided by author
+
+
+### Thread part 8 — @0xPARC — 2022-03-18 21:18 UTC (2022-03-18 22:18 WAT)
+
+- URL: https://x.com/0xPARC/status/1504930191998693378
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 1, retweet 2
+
+> Check out some other high-quality ZK projects curated by @gubsheep below: (8/8)
+>
+> https://gitcoin.co/grants/explorer?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=26004&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=false&round_type=false
+
+**Links in post:** https://gitcoin.co/grants/explorer?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=26004&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=false&round_type=false
 
 
 ---
@@ -966,7 +1183,9 @@ Tags (automatic): ZK
     >
     > We'll be running our second Applied ZK Learning Group from 3/14 - 4/8. See the post below (and this thread) for details on the program, including how to apply. (1/n)
     >
-    > https://t.co/8YJuZuDP2G
+    > https://0xparc.org/blog/zk-learning-group-2
+    
+    **Links in post:** https://0xparc.org/blog/zk-learning-group-2
     
 
 
@@ -1006,7 +1225,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
-## 2022-02-27 · Post · [APPLY BY FRIDAY 3/4] 0xPARC Applied ZK Learning Group 2 
+## 2022-02-27 · Thread · [APPLY BY FRIDAY 3/4] 0xPARC Applied ZK Learning Group 2 
 
 
 Tags (automatic): ZK
@@ -1021,7 +1240,167 @@ Tags (automatic): ZK
 >
 > We'll be running our second Applied ZK Learning Group from 3/14 - 4/8. See the post below (and this thread) for details on the program, including how to apply. (1/n)
 >
-> https://t.co/8YJuZuDP2G
+> https://0xparc.org/blog/zk-learning-group-2
+
+**Links in post:** https://0xparc.org/blog/zk-learning-group-2
+
+
+### Thread part 2 — @0xPARC — 2022-02-27 02:05 UTC (2022-02-27 03:05 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754719254724617
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> The 0xPARC Applied ZK Learning Group is a program for researchers and developers interested in learning about zero-knowledge cryptography and its applications. You'll learn about today's practical zkSNARK systems, how to build with ZK crypto, and active areas of R&amp;D. (2/n)
+
+
+### Thread part 3 — @0xPARC — 2022-02-27 02:05 UTC (2022-02-27 03:05 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754762799947778
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> During the month, we'll cover the circom programming language, commonly-used ZK circuits and primitives, the construction of well-known ZK apps, and developer tools / ZK toolstacks. We'll also touch on trusted setup and the math behind zkSNARKs (3/n).
+
+
+### Thread part 4 — @0xPARC — 2022-02-27 02:05 UTC (2022-02-27 03:05 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754797121880068
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> You can check out a "Topic Sampler" for the program below. In the next two weeks, we'll also be publishing a subset of the materials produced during our first ZK Learning Group program from last December. (4/n)
+>
+> https://0xparc.notion.site/Pre-program-Topic-Sampler-46456f891dc541a7a780c79f8ced463c
+
+**Links in post:** https://0xparc.notion.site/Pre-program-Topic-Sampler-46456f891dc541a7a780c79f8ced463c
+
+
+### Thread part 5 — @0xPARC — 2022-02-27 02:05 UTC (2022-02-27 03:05 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754841237508098
+- Metrics (at fetch): bookmark 2, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> This Learning Group will run from March 14 - April 8. The first half mainly focuses on workshops and interactive lectures. In the second half of the program, participants focus on building a ZK crypto project of their own. Examples of past projects: (5/n)
+
+
+### Thread part 6 — @0xPARC — 2022-02-27 02:06 UTC (2022-02-27 03:06 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754868236304396
+- Metrics (at fetch): bookmark 4, impression 0, like 7, quote 1, reply 1, retweet 4
+
+> zkREPL, an in-browser collaborative development environment for writing ZK circuits. (6/n)
+>
+> https://zkrepl.dev/
+
+**Links in post:** https://zkrepl.dev/
+
+
+### Thread part 7 — @0xPARC — 2022-02-27 02:06 UTC (2022-02-27 03:06 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754897231536133
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> circom-ecdsa, and implementation of Ethereum's signature algorithms in zkSNARKs. (7/n)
+>
+> https://x.com/0xPARC/status/1490895254790148098
+
+**Links in post:** https://x.com/0xPARC/status/1490895254790148098
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xPARC — 2022-02-08 03:48 UTC (2022-02-08 04:48 WAT)
+    
+    - URL: https://x.com/0xPARC/status/1490895254790148098
+    - Metrics (at fetch): bookmark 28, impression 0, like 251, quote 10, reply 89, retweet 93
+    
+    > [New post] zkSNARKs for ECDSA (Part 1)
+    >
+    > @theyisun, Tony L, @xu3kev, and @gubsheep present an efficient proof-of-concept implementation of zkSNARK circuits for ECDSA algorithms in circom. (1/n)
+    >
+    > https://0xparc.org/blog/zk-ecdsa-1
+    
+    **Links in post:** https://0xparc.org/blog/zk-ecdsa-1
+    
+
+
+### Thread part 8 — @0xPARC — 2022-02-27 02:06 UTC (2022-02-27 03:06 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754926537056260
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> http://zkmessage.xyz, a privacy-preserving message board that demonstrates how zkSNARKs can be used to emulate and extend other cryptographic primitives, such as ring signatures. (8/n)
+>
+> https://x.com/0xPARC/status/1486140048911130626
+
+**Links in post:** http://zkmessage.xyz, https://x.com/0xPARC/status/1486140048911130626
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xPARC — 2022-01-26 00:52 UTC (2022-01-26 01:52 WAT)
+    
+    - URL: https://x.com/0xPARC/status/1486140048911130626
+    - Metrics (at fetch): bookmark 30, impression 0, like 133, quote 13, reply 2, retweet 20
+    
+    > NEW: Group Signatures with zkSNARKs
+    >
+    > In this post, @gustafjt @0xkatz @pumatheuma @kzdagoof @raymondzhong and @gubsheep break down a zkSNARK construction that emulates a familiar cryptographic primitive—the group signature scheme. (1/n)
+    >
+    > https://0xparc.org/blog/zk-group-sigs
+    
+    **Links in post:** https://0xparc.org/blog/zk-group-sigs
+    
+
+
+### Thread part 9 — @0xPARC — 2022-02-27 02:06 UTC (2022-02-27 03:06 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754963321270272
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> StealthDrop, an anonymous airdrop system enabling receivers to claim their airdrops with a fresh Ethereum address, using circom-ecdsa. (9/n)
+>
+> https://x.com/0xPARC/status/1493363943036923912
+
+**Links in post:** https://x.com/0xPARC/status/1493363943036923912
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xPARC — 2022-02-14 23:18 UTC (2022-02-15 00:18 WAT)
+    
+    - URL: https://x.com/0xPARC/status/1493363943036923912
+    - Metrics (at fetch): bookmark 97, impression 0, like 315, quote 41, reply 12, retweet 76
+    
+    > [New post] StealthDrop: Anonymous Airdrops Using ZK Proofs
+    >
+    > @nibnalin, @yush_g, and Adhyyan S. present StealthDrop, an anonymous airdrop utility using circom-ecdsa, enabling anonymous governance. (1/n)
+    >
+    > (post in README of github repo)
+    >
+    > https://0xparc.org/blog
+    
+    **Links in post:** https://0xparc.org/blog
+    
+
+
+### Thread part 10 — @0xPARC — 2022-02-27 02:06 UTC (2022-02-27 03:06 WAT)
+
+- URL: https://x.com/0xPARC/status/1497755027255054336
+- Metrics (at fetch): bookmark 3, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> The program is targeted towards technical specialists, including researchers and engineers. Check if you have the appropriate prerequisite background by seeing if you can answer the questions below. (10/n)
+>
+> https://0xparc.notion.site/Prerequisite-Understanding-Questions-cc6898f0fad04d9fbc7b8d33c34a865d
+
+**Links in post:** https://0xparc.notion.site/Prerequisite-Understanding-Questions-cc6898f0fad04d9fbc7b8d33c34a865d
+
+
+### Thread part 11 — @0xPARC — 2022-02-27 02:06 UTC (2022-02-27 03:06 WAT)
+
+- URL: https://x.com/0xPARC/status/1497755063112065024
+- Metrics (at fetch): bookmark 2, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Apply below by this upcoming Friday, March 4th. Applications are considered on a first-come-first-serve basis, and earlier responses will be given priority. (11/11)
+>
+> https://airtable.com/shr1yLiXwo5tBxxtX
+
+**Links in post:** https://airtable.com/shr1yLiXwo5tBxxtX
 
 
 ---
@@ -1439,7 +1818,9 @@ Tags (automatic): ZK
 >
 > (post in README of github repo)
 >
-> https://t.co/RtbrMAGMF8
+> https://0xparc.org/blog
+
+**Links in post:** https://0xparc.org/blog
 
 
 ---
@@ -1455,6 +1836,28 @@ Tags (automatic): ZK
 > More work is needed in order to make circom-ECDSA ready for production-grade usage. We'll discuss these in more depth in a future post.
 >
 > Here are three directions for further work: (7/n)
+
+
+---
+
+## 2022-02-08 · Post · [New post] zkSNARKs for ECDSA (Part 1)
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-08 03:48 UTC (2022-02-08 04:48 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895254790148098
+- Metrics (at fetch): bookmark 28, impression 0, like 251, quote 10, reply 89, retweet 93
+
+> [New post] zkSNARKs for ECDSA (Part 1)
+>
+> @theyisun, Tony L, @xu3kev, and @gubsheep present an efficient proof-of-concept implementation of zkSNARK circuits for ECDSA algorithms in circom. (1/n)
+>
+> https://0xparc.org/blog/zk-ecdsa-1
+
+**Links in post:** https://0xparc.org/blog/zk-ecdsa-1
 
 
 ---
@@ -1475,6 +1878,28 @@ Tags (automatic): ZK
 > (1/n)
 >
 > https://t.co/xen8dOhHM9
+
+
+---
+
+## 2022-01-26 · Post · NEW: Group Signatures with zkSNARKs
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-01-26 00:52 UTC (2022-01-26 01:52 WAT)
+
+- URL: https://x.com/0xPARC/status/1486140048911130626
+- Metrics (at fetch): bookmark 30, impression 0, like 133, quote 13, reply 2, retweet 20
+
+> NEW: Group Signatures with zkSNARKs
+>
+> In this post, @gustafjt @0xkatz @pumatheuma @kzdagoof @raymondzhong and @gubsheep break down a zkSNARK construction that emulates a familiar cryptographic primitive—the group signature scheme. (1/n)
+>
+> https://0xparc.org/blog/zk-group-sigs
+
+**Links in post:** https://0xparc.org/blog/zk-group-sigs
 
 
 ---

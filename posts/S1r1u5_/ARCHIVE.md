@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 462
+- Posts in this file: 463
 - Conversations/threads: 371
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
@@ -9836,7 +9836,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-08-26 · Post · Here is the solution to my recent CTF. We abuse improper reference to an iframe to send postMessage 
+## 2020-08-26 · Thread · Here is the solution to my recent CTF. We abuse improper reference to an iframe to send postMessage 
 
 
 Tags (automatic): XSS
@@ -9849,11 +9849,41 @@ Tags (automatic): XSS
 
 > Here is the solution to my recent CTF. We abuse improper reference to an iframe to send postMessage with a secret to the malicious origin instead of the origin parent intended to send. 
 >
-> https://t.co/N9tpLgpSua
-> #bugbountytip  #javascript #xss ? https://t.co/wg6nScxtus
+> http://ctf.s1r1us.ninja/ctf/solution1.html
+> #bugbountytip  #javascript #xss ? [pic.x.com/wg6nScxtus]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EgWn0nzUYAgAk2Y.jpg — no alt text provided by author
+
+**Links in post:** http://ctf.s1r1us.ninja/ctf/solution1.html
+
+
+### Thread part 2 — @S1r1u5_ — 2020-08-26 14:31 UTC (2020-08-26 15:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1298629053017071616
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> https://x.com/S1r1u5_/status/1295976433869758464?s=20
+
+**Links in post:** https://x.com/S1r1u5_/status/1295976433869758464?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2020-08-19 06:50 UTC (2020-08-19 07:50 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1295976433869758464
+    - Metrics (at fetch): bookmark 10, impression 0, like 64, quote 1, reply 9, retweet 14
+    
+    > I created a new easy XSS-ish challenge. Try to steal the secret.
+    >
+    > http://ctf.s1r1us.ninja:1337/
+    >
+    > DM me if you found the solution.
+    >
+    > Good Luck.
+    
+    **Links in post:** http://ctf.s1r1us.ninja:1337/
+    
 
 
 ---
@@ -9871,11 +9901,13 @@ Tags (automatic): XSS
 
 > I created a new easy XSS-ish challenge. Try to steal the secret.
 >
-> https://t.co/1x0JSO1sL0
+> http://ctf.s1r1us.ninja:1337/
 >
 > DM me if you found the solution.
 >
 > Good Luck.
+
+**Links in post:** http://ctf.s1r1us.ninja:1337/
 
 
 ---

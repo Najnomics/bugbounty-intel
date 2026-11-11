@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 65
-- Conversations/threads: 60
+- Posts in this file: 70
+- Conversations/threads: 62
 - Oldest post captured: 2014-06-13
 - Newest post captured: 2026-05-14
 
@@ -568,7 +568,39 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2019-02-12 · Post · Finally, our SGX Malware paper is on arXiv (https://t.co/IjwUCFRNy9) and the PoC on Github (https:
+## 2019-02-12 · Reply · @f0rki The question is why you would look at the enclave in the first place. The application is prov
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @lavados — 2019-02-12 09:50 UTC (2019-02-12 10:50 WAT)
+
+- URL: https://x.com/lavados/status/1095258733117100037
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @f0rki The question is why you would look at the enclave in the first place. The application is provably completely innocent. Our paper points out that you also need to consider enclaves.
+
+
+---
+
+## 2019-02-12 · Reply · @f0rki How do you analyze securely encrypted malware which only decrypts after remote attestation an
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @lavados — 2019-02-12 09:09 UTC (2019-02-12 10:09 WAT)
+
+- URL: https://x.com/lavados/status/1095248470993260544
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @f0rki How do you analyze securely encrypted malware which only decrypts after remote attestation and a remote trigger signal?
+
+
+---
+
+## 2019-02-12 · Thread · Finally, our SGX Malware paper is on arXiv (https://t.co/IjwUCFRNy9) and the PoC on Github (https:
 
 
 Tags (automatic): TEE / enclave
@@ -581,6 +613,23 @@ Tags (automatic): TEE / enclave
 
 > Finally, our SGX Malware paper is on #arXiv (https://t.co/IjwUCFRNy9) and the PoC on #Github (https://t.co/P6ppbX5A5s) for everyone to try.
 > Not side channels in SGX but this time we can hide real malware in SGX.
+
+
+### Thread part 2 — @lavados — 2019-02-12 05:13 UTC (2019-02-12 06:13 WAT)
+
+- URL: https://x.com/lavados/status/1095189188025176064
+- Metrics (at fetch): bookmark 2, impression 0, like 38, quote 1, reply 1, retweet 11
+
+> Summary: Take an exploit, encrypt it, put it in an SGX enclave, decrypt only after remote trigger signal, run exploit via ROP chain on host app, remove traces of ROP immediately + continue regular host execution, repeat on other victims.
+
+
+### Thread part 3 — @lavados — 2019-02-12 05:13 UTC (2019-02-12 06:13 WAT)
+
+- URL: https://x.com/lavados/status/1095189191145779201
+- Metrics (at fetch): bookmark 2, impression 0, like 49, quote 3, reply 4, retweet 9
+
+> Intel says this is outside of the threat model (see https://t.co/DBsioi2RBE).
+> But, threat models and trust boundaries change all the time because we come up with new use cases that do not fall into the existing threat model.
 
 
 ---
@@ -625,7 +674,7 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2018-07-28 · Post · Wondered why there is no CVE for NetSpectre? Intel believes the old CVEs still apply for NetSpectr
+## 2018-07-28 · Thread · Wondered why there is no CVE for NetSpectre? Intel believes the old CVEs still apply for NetSpectr
 
 
 ### Post — @lavados — 2018-07-28 09:11 UTC (2018-07-28 10:11 WAT)
@@ -634,6 +683,14 @@ Tags (automatic): TEE / enclave
 - Metrics (at fetch): bookmark 1, impression 0, like 28, quote 1, reply 3, retweet 10
 
 > Wondered why there is no CVE for #NetSpectre? Intel believes the old CVEs still apply for #NetSpectre because they think "#NetSpectre is a local attack". See https://t.co/myvpGF6ZWH for a description of "local attack": "A vulnerability exploitable with Local access means that
+
+
+### Thread part 2 — @lavados — 2018-07-28 09:11 UTC (2018-07-28 10:11 WAT)
+
+- URL: https://x.com/lavados/status/1023133926032896000
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 2
+
+> the vulnerable component is not bound to the network stack, and the attacker's path is via read/write/execute capabilities. In some cases, the attacker may be logged in locally in order to exploit the vulnerability, or may rely on User Interaction to execute a malicious file."
 
 
 ---

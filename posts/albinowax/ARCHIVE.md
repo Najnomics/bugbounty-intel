@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 329
+- Posts in this file: 331
 - Conversations/threads: 303
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
@@ -3348,7 +3348,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2020-10-01 · Post · I've designed labs so you can practice numerous HTTP Host header attacks including advanced password
+## 2020-10-01 · Thread · I've designed labs so you can practice numerous HTTP Host header attacks including advanced password
 
 
 Tags (automatic): SSRF, Auth bypass
@@ -3359,7 +3359,17 @@ Tags (automatic): SSRF, Auth bypass
 - URL: https://x.com/albinowax/status/1311694037708046341
 - Metrics (at fetch): bookmark 94, impression 0, like 614, quote 3, reply 11, retweet 194
 
-> I've designed labs so you can practice numerous HTTP Host header attacks including advanced password reset poisoning, host-header SSRF, and auth bypass! https://t.co/WedbodgKxY
+> I've designed labs so you can practice numerous HTTP Host header attacks including advanced password reset poisoning, host-header SSRF, and auth bypass! https://portswigger.net/web-security/host-header
+
+**Links in post:** https://portswigger.net/web-security/host-header
+
+
+### Thread part 2 — @albinowax — 2020-10-01 15:49 UTC (2020-10-01 16:49 WAT)
+
+- URL: https://x.com/albinowax/status/1311694710478692353
+- Metrics (at fetch): bookmark 0, impression 0, like 57, quote 0, reply 2, retweet 1
+
+> I sneaked some obscure and underrated techniques and bypasses into this topic, including one which works on a major commercial WAF...
 
 
 ---
@@ -3392,7 +3402,7 @@ Tags (automatic): SSRF, Auth bypass
 
 ---
 
-## 2020-06-29 · Post · Several months after HTTP Desync Attacks, @webtonull noticed that Apache Traffic Server dodged my to
+## 2020-06-29 · Thread · Several months after HTTP Desync Attacks, @webtonull noticed that Apache Traffic Server dodged my to
 
 
 Tags (automatic): Request smuggling / desync
@@ -3403,9 +3413,21 @@ Tags (automatic): Request smuggling / desync
 - URL: https://x.com/albinowax/status/1277608640220930053
 - Metrics (at fetch): bookmark 42, impression 0, like 242, quote 2, reply 1, retweet 73
 
-> Several months after HTTP Desync Attacks, @webtonull noticed that Apache Traffic Server dodged my tool's detection techniques. I patched this and together we were able to exploit a bunch of new targets including https://t.co/5fMqeSswLO:
+> Several months after HTTP Desync Attacks, @webtonull noticed that Apache Traffic Server dodged my tool's detection techniques. I patched this and together we were able to exploit a bunch of new targets including http://start.mozilla.org:
 >
-> https://t.co/uD5V7S2Weg
+> https://bugzilla.mozilla.org/show_bug.cgi?id=1599259
+
+**Links in post:** http://start.mozilla.org, https://bugzilla.mozilla.org/show_bug.cgi?id=1599259
+
+
+### Thread part 2 — @albinowax — 2020-06-29 14:25 UTC (2020-06-29 15:25 WAT)
+
+- URL: https://x.com/albinowax/status/1277609094116003840
+- Metrics (at fetch): bookmark 14, impression 0, like 45, quote 0, reply 0, retweet 7
+
+> Please note the ATS detection strategy is not enabled by default because it's too unreliable. I published some info at the time here: https://portswigger.net/research/breaking-the-chains-on-http-request-smuggler
+
+**Links in post:** https://portswigger.net/research/breaking-the-chains-on-http-request-smuggler
 
 
 ---

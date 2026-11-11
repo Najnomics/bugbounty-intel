@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 570
+- Posts in this file: 582
 - Conversations/threads: 516
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
@@ -8166,7 +8166,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2018-06-28 · Post · Mote than 20 said they can exploit this, let's do this CTF then: https://t.co/jmAPkfYMCU - read the 
+## 2018-06-28 · Thread · Mote than 20 said they can exploit this, let's do this CTF then: https://t.co/jmAPkfYMCU - read the 
 
 
 ### Post — @irsdl — 2018-06-28 11:55 UTC (2018-06-28 12:55 WAT)
@@ -8185,6 +8185,14 @@ Tags (automatic): XSS
     
     > What do you think about this VB .NET  code (screenshot in comment), I might have a new way to exploit the SQLi here. Can you exploit this SQL injection in a normal web app, be honest? please leave your solution as a comment; I'm looking for more solutions #AppSec #CodeReview
     
+
+
+### Thread part 2 — @irsdl — 2018-06-28 12:13 UTC (2018-06-28 13:13 WAT)
+
+- URL: https://x.com/irsdl/status/1012307909785653249
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Typo alert: "More than*" a good way to start your sentence is with a typo 😜 took me 10 min to see it! 😇
 
 
 ---
@@ -8222,7 +8230,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2018-06-24 · Post · What do you think about this VB .NET  code (screenshot in comment), I might have a new way to exploi
+## 2018-06-24 · Thread · What do you think about this VB .NET  code (screenshot in comment), I might have a new way to exploi
 
 
 Tags (automatic): SQL injection
@@ -8234,6 +8242,49 @@ Tags (automatic): SQL injection
 - Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 6, retweet 4
 
 > What do you think about this VB .NET  code (screenshot in comment), I might have a new way to exploit the SQLi here. Can you exploit this SQL injection in a normal web app, be honest? please leave your solution as a comment; I'm looking for more solutions #AppSec #CodeReview
+
+
+### Thread part 2 — @irsdl — 2018-06-24 17:46 UTC (2018-06-24 18:46 WAT)
+
+- URL: https://x.com/irsdl/status/1010942314179715073
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 3, retweet 1
+
+> Here is the code https://t.co/aFtAYdXdem
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DgeWb6lX4AESVNt.jpg — no alt text provided by author
+
+
+### Thread part 3 — @irsdl — 2018-06-24 17:48 UTC (2018-06-24 18:48 WAT)
+
+- URL: https://x.com/irsdl/status/1010942732838363139
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> DM me if you don't want others to see your solution for any reasons ;)
+
+
+### Thread part 4 — @irsdl — 2018-06-24 17:54 UTC (2018-06-24 18:54 WAT)
+
+- URL: https://x.com/irsdl/status/1010944150173306887
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 3 votes to exploitable :) yay, please share your solution and make it real!
+
+
+### Thread part 5 — @irsdl — 2018-06-25 08:15 UTC (2018-06-25 09:15 WAT)
+
+- URL: https://x.com/irsdl/status/1011161024815386625
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> ok, more votes to exploitable and still no solution in comments :( this is MSSQL by the way if that matters
+
+
+### Thread part 6 — @irsdl — 2018-06-25 13:02 UTC (2018-06-25 14:02 WAT)
+
+- URL: https://x.com/irsdl/status/1011233205272408064
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 0, reply 0, retweet 3
+
+> For anyone who wants to try it locally, I have created a dirty sample.aspx file to use with MSSQL here: https://t.co/Hvijl49xSe
 
 
 ---
@@ -8267,7 +8318,7 @@ Tags (automatic): SQL injection
 
 ---
 
-## 2018-06-21 · Post · This reminds me to rethink of a behaviour that I have seen in a web server a few years ago - perhaps
+## 2018-06-21 · Thread · This reminds me to rethink of a behaviour that I have seen in a web server a few years ago - perhaps
 
 
 ### Post — @irsdl — 2018-06-21 08:29 UTC (2018-06-21 09:29 WAT)
@@ -8290,6 +8341,14 @@ Tags (automatic): SQL injection
     >
     > CC. @shhnjk
     
+
+
+### Thread part 2 — @irsdl — 2018-06-21 10:09 UTC (2018-06-21 11:09 WAT)
+
+- URL: https://x.com/irsdl/status/1009740161238913024
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Quick check - failed! - only if I could set a certain header on a POST request - browser removes it sadly :(
 
 
 ---
@@ -8409,7 +8468,7 @@ Tags (automatic): XSS, RCE
 
 ---
 
-## 2018-05-04 · Post · I'm impressed w MS security monitoring team! As I was in the middle of confirming an RCE (15 min thr
+## 2018-05-04 · Thread · I'm impressed w MS security monitoring team! As I was in the middle of confirming an RCE (15 min thr
 
 
 Tags (automatic): RCE
@@ -8421,6 +8480,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 0, impression 0, like 143, quote 3, reply 7, retweet 43
 
 > I'm impressed w MS security monitoring team! As I was in the middle of confirming an RCE (15 min through) to c whether or not it worked in practice, they contacted me via burp collaborator HOST header! Workaround applied in less than an hour #RecentGoodExprience @msftsecresponse
+
+
+### Thread part 2 — @irsdl — 2018-05-04 10:46 UTC (2018-05-04 11:46 WAT)
+
+- URL: https://x.com/irsdl/status/992354660936830976
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 2
+
+> @Burp_Suite Chatting through Burp Collaborator is a thing ;) you probably already know that!
 
 
 ---
@@ -8441,7 +8508,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2018-04-25 · Post · I'm also going to talk at AppSecEU about some WAF bypass techniques - might be very useful especiall
+## 2018-04-25 · Thread · I'm also going to talk at AppSecEU about some WAF bypass techniques - might be very useful especiall
 
 
 ### Post — @irsdl — 2018-04-25 19:14 UTC (2018-04-25 20:14 WAT)
@@ -8450,6 +8517,22 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 2, retweet 0
 
 > I'm also going to talk at AppSecEU about some WAF bypass techniques - might be very useful especially if you haven't heard it from me before ;) trying to make a burp plugin for some of those now #appseceu #appseceu2018
+
+
+### Thread part 2 — @irsdl — 2018-04-25 19:32 UTC (2018-04-25 20:32 WAT)
+
+- URL: https://x.com/irsdl/status/989225538119057408
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @garethheyes I hope it is not going to be at the same time of yours! can't compete &amp; can't resist your talk :)
+
+
+### Thread part 3 — @irsdl — 2018-04-25 19:33 UTC (2018-04-25 20:33 WAT)
+
+- URL: https://x.com/irsdl/status/989225855514750976
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @garethheyes you are very kind :)
 
 
 ---
@@ -8561,7 +8644,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2017-09-04 · Post · Does anyone know a DOM-based XSS payload without the = sign in HTML context? (so &lt;script&gt;alert
+## 2017-09-04 · Thread · Does anyone know a DOM-based XSS payload without the = sign in HTML context? (so &lt;script&gt;alert
 
 
 Tags (automatic): XSS
@@ -8573,6 +8656,22 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 4, retweet 0
 
 > Does anyone know a DOM-based XSS payload without the = sign in HTML context? (so &lt;script&gt;alert(1)&lt;/script&gt; won't work). (ex. stylesheets)
+
+
+### Thread part 2 — @irsdl — 2017-09-04 15:19 UTC (2017-09-04 16:19 WAT)
+
+- URL: https://x.com/irsdl/status/904725610517458945
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> Play it here: https://t.co/tR6ecfNbQE
+
+
+### Thread part 3 — @irsdl — 2017-09-04 15:29 UTC (2017-09-04 16:29 WAT)
+
+- URL: https://x.com/irsdl/status/904728029775233024
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> D'oh JS updated https://t.co/ghHAimgsp0
 
 
 ---

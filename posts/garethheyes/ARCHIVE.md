@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 532
-- Conversations/threads: 490
+- Posts in this file: 535
+- Conversations/threads: 492
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
 
@@ -4180,7 +4180,53 @@ Tags (automatic): XSS
 
 ---
 
-## 2018-04-13 · Post · Basically I think XSS has three phases. 1st phase Reflection. 2nd Phase DOM. 3rd phase is sandbbox. 
+## 2018-04-25 · Reply · @irsdl Same here I don’t want to miss yours
+
+
+**Context — post being replied to:**
+
+#### Parent post — @irsdl — 2018-04-25 19:32 UTC (2018-04-25 20:32 WAT)
+
+- URL: https://x.com/irsdl/status/989225538119057408
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @garethheyes I hope it is not going to be at the same time of yours! can't compete &amp; can't resist your talk :)
+
+
+### Post — @garethheyes — 2018-04-25 19:32 UTC (2018-04-25 20:32 WAT)
+
+- URL: https://x.com/garethheyes/status/989225705627152384
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @irsdl Same here I don’t want to miss yours
+
+
+---
+
+## 2018-04-25 · Reply · @irsdl Cool cya there
+
+
+**Context — post being replied to:**
+
+#### Parent post — @irsdl — 2018-04-25 19:14 UTC (2018-04-25 20:14 WAT)
+
+- URL: https://x.com/irsdl/status/989221094988173312
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 2, retweet 0
+
+> I'm also going to talk at AppSecEU about some WAF bypass techniques - might be very useful especially if you haven't heard it from me before ;) trying to make a burp plugin for some of those now #appseceu #appseceu2018
+
+
+### Post — @garethheyes — 2018-04-25 19:25 UTC (2018-04-25 20:25 WAT)
+
+- URL: https://x.com/garethheyes/status/989223924763385856
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 0
+
+> @irsdl Cool cya there
+
+
+---
+
+## 2018-04-13 · Thread · Basically I think XSS has three phases. 1st phase Reflection. 2nd Phase DOM. 3rd phase is sandbbox. 
 
 
 Tags (automatic): XSS
@@ -4192,6 +4238,14 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 1, retweet 1
 
 > Basically I think XSS has three phases. 1st phase Reflection. 2nd Phase DOM. 3rd phase is sandbbox. XSS dies in the third phase but it will be a golden phase of research.
+
+
+### Thread part 2 — @garethheyes — 2018-04-13 16:52 UTC (2018-04-13 17:52 WAT)
+
+- URL: https://x.com/garethheyes/status/984836716648370176
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> We are currently in the second phase.
 
 
 ---

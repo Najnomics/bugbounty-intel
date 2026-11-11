@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 118
+- Posts in this file: 128
 - Conversations/threads: 89
 - Oldest post captured: 2022-03-23
 - Newest post captured: 2026-11-05
@@ -2132,7 +2132,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-04-18 · Post · 1/ We were engaged by @port_finance to audit their fixed-rate lending program, Sundial. In our audit
+## 2022-04-18 · Thread · 1/ We were engaged by @port_finance to audit their fixed-rate lending program, Sundial. In our audit
 
 
 Tags (automatic): Smart contract / DeFi
@@ -2145,10 +2145,127 @@ Tags (automatic): Smart contract / DeFi
 
 > 1/ We were engaged by @port_finance to audit their fixed-rate lending program, Sundial. In our audit, we found 3 bugs that could lead to loss of funds for Port and its users.
 >
-> Let’s take a deep dive into OS-PRT-ADV-00, a surprisingly subtle rounding bug in the liquidation handler https://t.co/gb5vb3Z8KE
+> Let’s take a deep dive into OS-PRT-ADV-00, a surprisingly subtle rounding bug in the liquidation handler [pic.x.com/gb5vb3Z8KE]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FQozb5yVQAI2ksk.jpg — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
+
+- URL: https://x.com/osec_io/status/1516086372938878979
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 2/ As part of Sundial’s liquidation design, the reward liquidators receive from liquidations is rounded up to the nearest whole unit. This is intended to “round against” the user being liquidated. [pic.x.com/pDFCKTtbqu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQozwTMVcAEJEBY.jpg — no alt text provided by author
+
+
+### Thread part 3 — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
+
+- URL: https://x.com/osec_io/status/1516086375673520131
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 3/ For example, if the account had BTC collateral and USDC obligations, attempting to liquidate 1 USDC token should give back 0.00002 BTC. This would get rounded up to 1 BTC, meaning the liquidator receives around 40,000x more than they should!
+
+
+### Thread part 4 — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
+
+- URL: https://x.com/osec_io/status/1516086378022330371
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 4/ Is this a security issue? At its core, this design allows a liquidator to extract far more collateral per liquidation than they otherwise should. As with many liquidation bugs we’ve reported, the first step is to demonstrate that we can decrease the health of the account.
+
+
+### Thread part 5 — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
+
+- URL: https://x.com/osec_io/status/1516086380199231488
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> 5/ If a liquidation can decrease the health of an account undergoing liquidations, we could repeatedly liquidate until the account eventually becomes undercollateralized! This would result in a loss of funds for the protocol.
+
+
+### Thread part 6 — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
+
+- URL: https://x.com/osec_io/status/1516086387002404867
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 2, retweet 0
+
+> 6/ To execute this proof-of-concept, we needed to first create an account collateralized with a high-value token, while taking out a low-value loan. We then repeatedly self liquidate a small quantity of the low-value token, receiving one of the high-value token back. [pic.x.com/1yAUkXbPmA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQoz9osVIAIinm7.jpg — no alt text provided by author
+
+
+### Thread part 7 — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
+
+- URL: https://x.com/osec_io/status/1516086394082504704
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> 7/ In the end, we managed to drain all of our collateral, leaving behind a massively undercollateralized account. [pic.x.com/68AqoC08t6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQo0D3YVIAMZ88h.jpg — no alt text provided by author
+
+
+### Thread part 8 — @osec_io — 2022-04-18 16:09 UTC (2022-04-18 17:09 WAT)
+
+- URL: https://x.com/osec_io/status/1516086401598574592
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> 8/ To fix this, we worked with Port Finance to ensure that liquidations almost always increase the health of the account. The only edge case to handle is with very small obligations, which might not be possible to liquidate without decreasing account health. [pic.x.com/zR4ynHgsKK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQo0JaMVIAIy81x.jpg — no alt text provided by author
+
+
+### Thread part 9 — @osec_io — 2022-04-18 16:09 UTC (2022-04-18 17:09 WAT)
+
+- URL: https://x.com/osec_io/status/1516086405507678211
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> 9/ We also disclosed two other loss of funds issues in this report, related to interest calculations and improperly handled configuration changes. For more information, see the full audit report: 
+>
+> https://github.com/port-finance/sundial/blob/master/audits/port-finance-sundial-audit-public.pdf
+
+**Links in post:** https://github.com/port-finance/sundial/blob/master/audits/port-finance-sundial-audit-public.pdf
+
+
+### Thread part 10 — @osec_io — 2022-04-18 16:09 UTC (2022-04-18 17:09 WAT)
+
+- URL: https://x.com/osec_io/status/1516086408984760321
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> 10/ You can also find all our POCs at: 
+>
+> https://github.com/otter-sec/port-sundial-pocs
+
+**Links in post:** https://github.com/otter-sec/port-sundial-pocs
+
+
+### Thread part 11 — @osec_io — 2022-04-18 16:09 UTC (2022-04-18 17:09 WAT)
+
+- URL: https://x.com/osec_io/status/1516086411757203457
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> https://x.com/port_finance/status/1514905944630923264?s=20&t=YuYR1IE1XemwY_VygCSKCQ
+
+**Links in post:** https://x.com/port_finance/status/1514905944630923264?s=20&t=YuYR1IE1XemwY_VygCSKCQ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1390300692317761546 — 2022-04-15 09:58 UTC (2022-04-15 10:58 WAT)
+    
+    - URL: https://x.com/1390300692317761546/status/1514905944630923264
+    - Metrics (at fetch): bookmark 3, impression 0, like 44, quote 1, reply 8, retweet 6
+    
+    > Independent security research firm @osec_io  has completed a thorough audit for Port Finance's Sundial Program for fixed-rate borrowing and lending. ⏰
+    >
+    > We are impressed by their attention to detail and sharp eyes and would recommend them to other Solana projects. 🛡️ [pic.x.com/mSgPpJWzqv]
+    
+    **Media:**
+    - media `3_1514905436004433921` (details not returned by the API)
+    
 
 
 ---
