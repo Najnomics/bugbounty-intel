@@ -1,0 +1,18 @@
+# bounty-013
+
+- **Source URL:** https://raw.githubusercontent.com/devNamedKiki/Audits/main/Bounties/013.md
+- **Fetched:** 2026-11-11
+- **Researcher:** Kiki_developer
+- **Method:** curl + trafilatura readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+
+---
+
+# Attacker Can Liquidate all healthy positions
+
+## Summary 
+
+The protocol allowed users to permissionlessly leverage borrow from their vaults as well as liquidate other users. Typically, a user could not liquidate another user who had a healthy position. However, there was access control missing on the function that determined the liquidation threshold, allowing any users to change the liquidation threshold to a value that would make any user's position appear unhealthy and eligible for liquidation. 
+
+## Conclusion 
+
+The Protocol quickly confirmed and fixed the issue.

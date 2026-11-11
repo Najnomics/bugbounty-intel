@@ -22,7 +22,7 @@
 - **Bug class:** Account takeover / sensitive token disclosure in a password-reset API
 - **Root cause:** A forgot-password flow used an AJAX/API call. The response to a reset request for a valid username included the reset token and username in JSON, so a third party could build the change-password URL without reading the victim's email.
 - **How it was found:** Ordinary login/signup and the email-based reset looked normal (and there was a separate OAuth open redirect). He then viewed page source / XHR traffic, replayed the reset API, and noticed the token in the response. Found in about 5–10 minutes once on that page.
-- **PoC:** Disclosed in the writeup; not copied here.
+- **PoC:** Disclosed in the writeup; the full verbatim text is now stored in this repo under `posts/` (see the post file linked from this researcher index).
 - **Takeaways:** Always inspect the **response body** of forgot-password and token-issuance endpoints, not just whether an email is sent. Tokens must not be echoed back to the requester. Adjacent auth pages (affiliates, older SPAs) are worth more than yet another login form.
 - **Sources:** [Medium writeup](https://assassin-marcos.medium.com/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183) (24 Aug 2021). Timeline in the post: found 16 Aug 2021, triaged in 10 minutes, paid $5,000, fixed the next morning.
 
@@ -35,7 +35,7 @@
 - **Bug class:** Password-reset token leak + auth bypass / admin takeover
 - **Root cause:** Subdomain enumeration found an admin host. Directory enumeration on the admin "manage" area found a forgot-password page. Submitting a username caused the reset token to appear in the response. The remaining puzzle was how to *use* the token; reading the application's API documentation surfaced the reset endpoint and the `passwordConfirm` parameter, which accepted the leaked token and set a new admin password.
 - **How it was found:** Collaboration with Rajesh Ranjan (who invited him onto the program). Recon: subdomain enum → admin login → directory fuzzing → forgot-password testing → API docs.
-- **PoC:** Disclosed in the writeup; not copied here.
+- **PoC:** Disclosed in the writeup; the full verbatim text is now stored in this repo under `posts/` (see the post file linked from this researcher index).
 - **Takeaways:** Fuzz directories behind admin logins; forgot-password on admin panels is high-value. When a token leaks, go read official API docs instead of guessing the consumer. Program patched within an hour of submission.
 - **Sources:** Republished at [Bug Bounty Directory](https://www.bugbountydirectory.com/blogs/breaking-the-barrier-admin-panel-takeover-worth-3500) (13 Aug 2024), originally on Medium.
 
@@ -48,7 +48,7 @@
 - **Bug class:** Misconfigured error handling / information disclosure
 - **Root cause:** After trying XSS and Host-header injection on a chat-bot subdomain, removing the Host header produced a 401 error that included a sensitive source-code path, instead of a generic 400.
 - **How it was found:** Subdomain recon, then testing an uninteresting-looking bot-chat host and iterating on errors.
-- **PoC:** Screenshots in the writeup (path redacted); not copied here.
+- **PoC:** Screenshots in the writeup (path redacted); the full verbatim text is now stored in this repo under `posts/` (see the post file linked from this researcher index).
 - **Takeaways:** Weird error behavior is in-scope intel. Unexpected status codes and stack/path leaks on "dummy" subdomains are still reportable.
 - **Sources:** [Medium writeup](https://assassin-marcos.medium.com/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596) (7 Jun 2019). Reported 22 May 2019, rewarded 23 May 2019.
 

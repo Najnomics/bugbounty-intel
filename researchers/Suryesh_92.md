@@ -20,7 +20,7 @@ He is the seed hunter who consistently works a niche most people skip. Several o
 - **Bug class:** Overprivileged third-party API key / broken access control on a search backend
 - **Root cause:** An Algolia key shipped in `main.js`. Keys can carry ACLs such as `listIndexes`, `editSettings`, `addObject`, or `deleteObject`. A key that can list indexes may expose internal documents; `editSettings` can be abused to change how search results are rendered (the writeup describes this as a path to script injection in the search UI). A search-only key is much lower impact.
 - **How it was found:** Reading frontend JS, then checking the key's ACL and indexes against Algolia's API.
-- **PoC:** The writeup includes command-line examples; not copied here.
+- **PoC:** The writeup includes command-line examples; the full verbatim text is now stored in this repo under `posts/` (see the post file linked from this researcher index).
 - **Takeaways:** Treat third-party keys in JS as credentials. Check the actual ACL, not just that "a search key is supposed to be public." Do not demonstrate impact by deleting indexes — he explicitly says programs prohibit destructive PoCs.
 - **Sources:** [Medium](https://hackwithsuryesh.medium.com/algolia-api-key-exploitation-leads-to-1000-bounty-p2-on-private-program-2e147f052ff0) (11 Feb 2025). Report 14 Jun 2024, rewarded 30 Jun 2024, triaged 3 Jul 2024 (dates as in the post).
 
@@ -33,7 +33,7 @@ He is the seed hunter who consistently works a niche most people skip. Several o
 - **Bug class:** Dependency confusion / supply chain, chained to local file read
 - **Root cause:** A private package name appeared in manifest/lock/debug files (`package.json`, `package-lock.json`, `yarn.lock`, npm/yarn logs) but was not reserved on the public npm registry. Installers that resolve the public registry first can be tricked into fetching an attacker-controlled package of the same name (often at a higher version). A `preinstall` script then runs in the build or developer environment. He showed that the same hook can also read local files.
 - **How it was found:** Hunting those manifest and log paths, then checking whether the name is unpublished (`npm info` / the "Confused" tool).
-- **PoC:** The writeup includes a full install-hook script; not copied here.
+- **PoC:** The writeup includes a full install-hook script; the full verbatim text is now stored in this repo under `posts/` (see the post file linked from this researcher index).
 - **Takeaways:** Always inventory internal package names and verify they are claimed on public registries. Confirm impact in a controlled way; many programs want a harmless callback, not a destructive payload.
 - **Sources:** [Medium](https://hackwithsuryesh.medium.com/how-i-chained-rce-via-dependencies-to-lfi-348315aa17e8) (17 Sep 2024).
 
@@ -46,7 +46,7 @@ He is the seed hunter who consistently works a niche most people skip. Several o
 - **Bug class:** Reflected XSS, client-side template injection, WAF bypass
 - **Root cause:** A search field reflected input. Basic XSS probes were blocked by nginx with 403. A more complex polyglot still executed in the page. He then showed that a template-style expression was evaluated (CSTI), not only a script sink.
 - **How it was found:** Start with simple probes, don't leave after 403, try polyglots, then test whether the sink is also a client-side template.
-- **PoC:** Payload is in the writeup; not copied here.
+- **PoC:** Payload is in the writeup; the full verbatim text is now stored in this repo under `posts/` (see the post file linked from this researcher index).
 - **Takeaways:** A WAF 403 is not "not vulnerable." If two reports share a payload, expect a duplicate.
 - **Sources:** [Medium](https://hackwithsuryesh.medium.com/rxss-csti-in-search-field-via-polygot-payload-65ca1a8be8ba) (29 Oct 2024).
 
