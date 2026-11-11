@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 374
-- Conversations/threads: 103
+- Posts in this file: 407
+- Conversations/threads: 114
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
 
@@ -4863,7 +4863,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 
 ---
 
-## 2023-04-05 · Post · Want to learn deep Web3 security knowledge written by the best hackers in the world?
+## 2023-04-05 · Thread · Want to learn deep Web3 security knowledge written by the best hackers in the world?
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-assisted hunting
 
 
 ### Post — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
@@ -4874,6 +4877,556 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
 > Want to learn deep Web3 security knowledge written by the best hackers in the world?
 >
 > Here's a Twitter thread of interesting Twitter threads the Zellic team has written! 👇🧵
+
+
+### Thread part 2 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690383564759040
+- Metrics (at fetch): bookmark 5, impression 6050, like 8, quote 0, reply 1, retweet 1
+
+> Formally verifying a popular DateTime library with solc SMTChecker:
+> https://t.co/u4Z51fuKWl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1510341868021854209
+    - Metrics (at fetch): bookmark 166, impression 0, like 589, quote 15, reply 16, retweet 88
+    
+    > In one of our recent engagements with a customer, we were asked to audit some code which depended on BokkyPooBah's DateTime library. The contract calculates the day of the month from block.timestamp, and it does this to ensure an operation happens only up to once a month. https://t.co/B7yEjrM8jy
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FPXHltYXEAEF3t-.png — no alt text provided by author
+    
+
+
+### Thread part 3 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690386349780992
+- Metrics (at fetch): bookmark 3, impression 4888, like 6, quote 0, reply 1, retweet 0
+
+> Deep dive &amp; full analysis of the $190M Nomad bridge hack
+> https://t.co/OuoNLAdYJq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1554296729050025984
+    - Metrics (at fetch): bookmark 143, impression 0, like 409, quote 40, reply 13, retweet 118
+    
+    > 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this happen? We break down not just the exploit, but also HOW THE VULNERABILITY WAS INTRODUCED IN THE FIRST PLACE.
+    >
+    > Understanding bugs isn't enough. We need to stop merging them.👇 [pic.x.com/fVYIzKJPkY]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FZH4oxiUsAMKARU.png — no alt text provided by author
+    
+
+
+### Thread part 4 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690389071884288
+- Metrics (at fetch): bookmark 2, impression 4216, like 5, quote 0, reply 1, retweet 2
+
+> Can ChatGPT audit smart contracts? (Hint: No)
+>
+> https://t.co/qEYFP26m1y
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1636889264003612674
+    - Metrics (at fetch): bookmark 80, impression 58293, like 176, quote 11, reply 17, retweet 44
+    
+    > Can ChatGPT audit smart contracts?
+    >
+    > Surprise: The answer is "No". Here's why:👇🧵 [pic.x.com/DPaLKaSAOb]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FrdiD-MXoAEj12z.jpg — no alt text provided by author
+    
+
+
+### Thread part 5 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690391785590785
+- Metrics (at fetch): bookmark 3, impression 3724, like 3, quote 0, reply 1, retweet 0
+
+> How thousands of Slope wallets were drained:
+> https://t.co/yvQYJEiPs7
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1554936143220617216
+    - Metrics (at fetch): bookmark 29, impression 0, like 156, quote 12, reply 1, retweet 58
+    
+    > Thread: How thousands of Slope wallets were hacked and how other wallets can avoid this 👇 https://t.co/hYSHFWO7yF
+    
+    **Media:**
+    - media `3_1554936139844165632` (details not returned by the API)
+    
+
+
+### Thread part 6 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690394570612736
+- Metrics (at fetch): bookmark 1, impression 3199, like 1, quote 0, reply 1, retweet 0
+
+> How the Nomad hack could have been spotted ahead of time:
+> https://t.co/sogvgosQbu
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-11-15 23:26 UTC (2022-11-16 00:26 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1592660464986488836
+    - Metrics (at fetch): bookmark 56, impression 0, like 126, quote 3, reply 6, retweet 24
+    
+    > Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning signs that were present *months ahead of time*.
+    > More:👇🧵 [pic.x.com/61w2U3fgo5]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FhpAHTOX0AAd7mu.jpg — no alt text provided by author
+    
+
+
+### Thread part 7 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690397317861376
+- Metrics (at fetch): bookmark 2, impression 2713, like 0, quote 0, reply 1, retweet 0
+
+> Analysis of the $190M Euler Finance exploit
+> https://t.co/w18Mza8AIH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-03-14 07:09 UTC (2023-03-14 08:09 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1635538727530536962
+    - Metrics (at fetch): bookmark 48, impression 38782, like 119, quote 4, reply 2, retweet 34
+    
+    > Earlier today, Euler Finance was exploited for over USD 190M. One transaction in particular yielded USD 110M.
+    >
+    > We've reverse engineered this transaction trace to recreate the attacker's extract exploit.
+    
+
+
+### Thread part 8 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690400056737793
+- Metrics (at fetch): bookmark 2, impression 2497, like 0, quote 0, reply 1, retweet 0
+
+> Euler Finance exploit analysis, part 2
+> https://t.co/7jt4k1R6Xf
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1636765177243906048
+    - Metrics (at fetch): bookmark 6, impression 7642, like 20, quote 2, reply 1, retweet 3
+    
+    > As a follow up to reverse-engineering the Euler attack, we dug into the protocol's economic design that made this vulnerability possible: https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
+    
+    **Links in post:** https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
+    
+
+
+### Thread part 9 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690402745315330
+- Metrics (at fetch): bookmark 1, impression 2374, like 0, quote 0, reply 1, retweet 0
+
+> A novel crypto scam where attackers "leak" a private key:
+> https://t.co/cL4rFIoQvN
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-07-26 21:22 UTC (2022-07-26 22:22 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1552041590260379648
+    - Metrics (at fetch): bookmark 22, impression 0, like 97, quote 7, reply 4, retweet 35
+    
+    > Want 500 $USDT for FREE? 
+    >
+    > Crypto scammers know you do.
+    >
+    > 🚨 SCAM ALERT: If you see someone "leak" a private key, don't act on it too quickly. 
+    >
+    > Here's how it works 👇 https://t.co/92CN7iRejD
+    
+    **Media:**
+    - media `3_1552038691601776642` (details not returned by the API)
+    
+
+
+### Thread part 10 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690405496786945
+- Metrics (at fetch): bookmark 3, impression 2068, like 1, quote 0, reply 1, retweet 0
+
+> Analysis of the $6M Audius hack, due to an interesting bad deployment:
+> https://t.co/CsWIxnYFtv
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1552317415261962246
+    - Metrics (at fetch): bookmark 36, impression 0, like 98, quote 2, reply 2, retweet 18
+    
+    > An attacker drained $6,000,000 from Audius $AUDIO  &lt;72 hours ago.
+    >
+    > Yet again, smart contracts remain rekt.
+    >
+    > How did this happen?
+    >
+    > Let's take a look: https://t.co/oypXYDRMEd
+    
+    **Media:**
+    - media `3_1552316421966888961` (details not returned by the API)
+    
+
+
+### Thread part 11 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690408323731456
+- Metrics (at fetch): bookmark 1, impression 1838, like 0, quote 0, reply 1, retweet 0
+
+> Weird and interesting Ethereum addresses out there on mainnet:
+> https://t.co/LMIgdgbhkA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1554861691388588038
+    - Metrics (at fetch): bookmark 27, impression 0, like 86, quote 4, reply 4, retweet 15
+    
+    > 1/ We forked Geth to compile a list of all 23,897,838 Ethereum contract addresses—a snapshot of every contract EVER deployed on Ethereum.
+    >
+    > We found some pretty interesting addresses out there...and you might have already interacted with some of them!
+    >
+    > Here's what we found 👇 https://t.co/CAYUDkvrsx
+    
+    **Media:**
+    - media `3_1554861687521419264` (details not returned by the API)
+    
+
+
+### Thread part 12 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690411230371840
+- Metrics (at fetch): bookmark 0, impression 1695, like 0, quote 0, reply 1, retweet 0
+
+> Our highly profitable racing strategy for 0xMonaco:
+> https://t.co/ZkaP61WJFi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1620844495226179586
+    - Metrics (at fetch): bookmark 23, impression 32090, like 78, quote 10, reply 4, retweet 14
+    
+    > This weekend, we played 0xmonaco @matchbox_dao, a web3 gaming competition. We developed a highly profitable racing strategy by leveraging clever math and bugs. We got DQ-ed😅
+    >
+    > In this thread, we'll break down:
+    > 🎯 our car's unique strategy
+    > 🎯 the vulnerabilities our car exploited https://t.co/QIhcuLbfGG
+    
+    **Media:**
+    - media `3_1620844487022096384` (details not returned by the API)
+    
+
+
+### Thread part 13 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690414057340928
+- Metrics (at fetch): bookmark 0, impression 1516, like 1, quote 0, reply 1, retweet 0
+
+> A meta-analysis of cross-chain bridge exploits:
+> https://t.co/8A0ge9dY2w
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1552720455844241408
+    - Metrics (at fetch): bookmark 17, impression 0, like 71, quote 7, reply 3, retweet 17
+    
+    > Billions of dollars stolen. Of top DeFi hacks, half of the protocols exploited for nine-figures are *cross-chain bridges*. ⛓️🌉
+    >
+    > But surprisingly, the root cause is usually NOT a coding mistake.
+    >
+    > A META-ANALYSIS THREAD.👇 https://t.co/LexvldQd6y
+    
+    **Media:**
+    - media `3_1552720451398316032` (details not returned by the API)
+    
+
+
+### Thread part 14 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690416804618240
+- Metrics (at fetch): bookmark 1, impression 1452, like 1, quote 0, reply 1, retweet 0
+
+> How we found and fixed an infinite minting bug for the Solana Foundation:
+> https://t.co/beuJzsQv6E
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1600589022362890240
+    - Metrics (at fetch): bookmark 17, impression 0, like 51, quote 2, reply 2, retweet 12
+    
+    > We audited SPL-Token-2022 for the @SolanaFndn. It's an update for the SPL-Token program.
+    >
+    > In our review, we found an inflationary bug that would've allowed infinite minting of tokens for free. The audit was pre-launch. The code was not enabled, so no funds were at risk. 👇🧵 [pic.x.com/v3PDJKdDKI]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FjZvO2iUUAAZ-M-.jpg — no alt text provided by author
+    
+
+
+### Thread part 15 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690419623202816
+- Metrics (at fetch): bookmark 0, impression 1354, like 0, quote 0, reply 1, retweet 0
+
+> Analysis of the $8.9M SafeMoon Liquidity Pool exploit:
+> https://t.co/h37XEONkIn
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-03-29 06:33 UTC (2023-03-29 07:33 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1640965378951254017
+    - Metrics (at fetch): bookmark 5, impression 13039, like 44, quote 1, reply 2, retweet 6
+    
+    > Earlier this morning, @safemoon's Liquidity Pool was compromised and USD 8.9M worth of tokens were withdrawn.
+    >
+    > After looking at the transaction trace and the recent contract changes, we can tell you what happened:
+    
+
+
+### Thread part 16 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690422374662146
+- Metrics (at fetch): bookmark 0, impression 1323, like 0, quote 0, reply 1, retweet 0
+
+> Bringing awareness to a returndata bomb vulnerability
+> https://t.co/yTusM3ewOT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1565052083576791040
+    - Metrics (at fetch): bookmark 8, impression 0, like 21, quote 1, reply 2, retweet 7
+    
+    > Does your protocol rely on a #Solidity try/catch statement preventing a reversion in the caller when making an external call?
+    >
+    > Make sure your team is aware of this little-known returndata bombing vulnerability! 🐛🐛🐛
+    >
+    > 👇 A THREAD. https://t.co/50pJAlV6mm
+    
+    **Media:**
+    - media `16_1565052075725049857` (details not returned by the API)
+    
+
+
+### Thread part 17 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690425256116224
+- Metrics (at fetch): bookmark 0, impression 1227, like 1, quote 0, reply 1, retweet 1
+
+> Tips and tricks for writing secure Ethereum smart contracts:
+> https://t.co/ANSY1Rxo9n
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1561831084462993408
+    - Metrics (at fetch): bookmark 14, impression 0, like 19, quote 1, reply 1, retweet 1
+    
+    > Aces up the sleeves of security-conscious Ethereum developers: 
+    >
+    > A thread 🧵👇
+    
+
+
+### Thread part 18 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690428024377344
+- Metrics (at fetch): bookmark 0, impression 1239, like 0, quote 0, reply 1, retweet 0
+
+> A dive into the Synthereum protocol of Jarvis:
+> https://t.co/C90iChR8pi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1565406324828975104
+    - Metrics (at fetch): bookmark 4, impression 0, like 19, quote 2, reply 1, retweet 2
+    
+    > We partnered with @Jarvis_Network to secure their Synthereum protocol 
+    >
+    > Synthereum provides a way for users to trade synthetic fiat currencies called jFIATs.
+    >
+    > We found 4 issues that Jarvis quickly fixed.
+    >
+    > Here's what we found👇
+    
+
+
+### Thread part 19 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690430742282245
+- Metrics (at fetch): bookmark 0, impression 1253, like 0, quote 0, reply 1, retweet 0
+
+> A look at the bugs we discovered for Ante Finance:
+> https://t.co/tjj3ZB6BkS
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1556754825177550848
+    - Metrics (at fetch): bookmark 5, impression 0, like 22, quote 4, reply 1, retweet 3
+    
+    > We are proud to have helped secure the smart contracts of @AnteFinance! 🎉 
+    >
+    > During our audit of their code, we discovered some interesting bugs—but rest assured that all funds are SAFU!
+    >
+    > Here are our most interesting findings 🐛⛔👇 [pic.x.com/pa1Xsg9Qpa]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FZq0QyHVEAA-Zry.jpg — no alt text provided by author
+    
+
+
+### Thread part 20 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690433539870720
+- Metrics (at fetch): bookmark 0, impression 1208, like 0, quote 0, reply 1, retweet 0
+
+> The $10,000,000 Wormhole bug
+> https://t.co/mguCFrEqpS
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1554226997542260736
+    - Metrics (at fetch): bookmark 5, impression 0, like 15, quote 1, reply 1, retweet 2
+    
+    > $10,000,000 is the highest bug bounty reward ever given.🏆
+    >
+    > Earlier this year, Wormhole awarded it for a critical finding. 
+    >
+    > Let's dive into a $10M vulnerability: 👇🧵 [pic.x.com/alKEGSXYEo]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
+    
+
+
+### Thread part 21 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690436278775808
+- Metrics (at fetch): bookmark 1, impression 1533, like 0, quote 0, reply 1, retweet 0
+
+> An investigation of the Move programming language
+> https://t.co/ajExEA6ILr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-24 18:40 UTC (2022-08-24 19:40 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1562510167656128512
+    - Metrics (at fetch): bookmark 5, impression 0, like 15, quote 1, reply 3, retweet 1
+    
+    > You see it on Twitter. It whispers in your dreams. It watches you in the shower.
+    >
+    > What is it? The MOVE programming language!
+    >
+    > Over 550 million dollars are being invested in this ecosystem, pre-launch, the most in blockchain history.
+    >
+    > But is the hype worth it? Here we investigate https://t.co/89zL6WTE7w
+    
+    **Media:**
+    - media `3_1562510164279758849` (details not returned by the API)
+    
+
+
+### Thread part 22 — @zellic_io — 2023-04-05 19:01 UTC (2023-04-05 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1643690439063764992
+- Metrics (at fetch): bookmark 0, impression 2165, like 1, quote 0, reply 1, retweet 0
+
+> A look at Brahma Finance’s Protected Moonshot Degenvault
+> https://t.co/DQQ8zOUk08
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2022-08-25 16:00 UTC (2022-08-25 17:00 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1562832229738299393
+    - Metrics (at fetch): bookmark 2, impression 0, like 15, quote 2, reply 2, retweet 4
+    
+    > We partnered with @brahmafi to secure their Protected Moonshot DegenVault.
+    >
+    > It aims to safeguard principal earning a yield on blue chip farms while boosting it and profiting from the market’s volatility by purchasing put/call options solely with the accrued yield.
+    >
+    > A thread 🧵👇
+    
+
+
+### Thread part 23 — @zellic_io — 2023-04-10 17:11 UTC (2023-04-10 18:11 WAT)
+
+- URL: https://x.com/zellic_io/status/1645474679639900165
+- Metrics (at fetch): bookmark 3, impression 2129, like 6, quote 0, reply 1, retweet 1
+
+> A breakdown of Tornado Cash:
+> https://t.co/wiidegEvyA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1644408032166825984
+    - Metrics (at fetch): bookmark 156, impression 46116, like 195, quote 8, reply 1, retweet 48
+    
+    > You’ve probably heard of Tornado Cash - an open source coin mixer - because it was blacklisted by the US Department of Treasury last year. For security researchers, though, the mathematical principles behind Tornado Cash are wildly interesting. We dug in: https://t.co/XexBc4l2lV
+    
+    **Media:**
+    - media `3_1644408028366778368` (details not returned by the API)
+    
+
+
+---
+
+## 2023-04-07 · Post · You’ve probably heard of Tornado Cash - an open source coin mixer - because it was blacklisted by th
+
+
+### Post — @zellic_io — 2023-04-07 18:33 UTC (2023-04-07 19:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1644408032166825984
+- Metrics (at fetch): bookmark 156, impression 46116, like 195, quote 8, reply 1, retweet 48
+
+> You’ve probably heard of Tornado Cash - an open source coin mixer - because it was blacklisted by the US Department of Treasury last year. For security researchers, though, the mathematical principles behind Tornado Cash are wildly interesting. We dug in: https://t.co/XexBc4l2lV
+
+**Media:**
+- media `3_1644408028366778368` (details not returned by the API)
 
 
 ---
@@ -4901,6 +5454,21 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-03-29 · Post · Earlier this morning, @safemoon's Liquidity Pool was compromised and USD 8.9M worth of tokens were w
+
+
+### Post — @zellic_io — 2023-03-29 06:33 UTC (2023-03-29 07:33 WAT)
+
+- URL: https://x.com/zellic_io/status/1640965378951254017
+- Metrics (at fetch): bookmark 5, impression 13039, like 44, quote 1, reply 2, retweet 6
+
+> Earlier this morning, @safemoon's Liquidity Pool was compromised and USD 8.9M worth of tokens were withdrawn.
+>
+> After looking at the transaction trace and the recent contract changes, we can tell you what happened:
+
+
+---
+
 ## 2023-03-18 · Post · Can ChatGPT audit smart contracts?
 
 
@@ -4910,7 +5478,7 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 ### Post — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
 
 - URL: https://x.com/zellic_io/status/1636889264003612674
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 80, impression 58293, like 176, quote 11, reply 17, retweet 44
 
 > Can ChatGPT audit smart contracts?
 >
@@ -4928,7 +5496,7 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 ### Post — @zellic_io — 2023-03-17 16:23 UTC (2023-03-17 17:23 WAT)
 
 - URL: https://x.com/zellic_io/status/1636765177243906048
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 7642, like 20, quote 2, reply 1, retweet 3
 
 > As a follow up to reverse-engineering the Euler attack, we dug into the protocol's economic design that made this vulnerability possible: https://github.com/Zellic/poc-hacks/blob/main/EulerFinance/euler.sol
 
@@ -4943,11 +5511,31 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 ### Post — @zellic_io — 2023-03-14 07:09 UTC (2023-03-14 08:09 WAT)
 
 - URL: https://x.com/zellic_io/status/1635538727530536962
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 48, impression 38782, like 119, quote 4, reply 2, retweet 34
 
 > Earlier today, Euler Finance was exploited for over USD 190M. One transaction in particular yielded USD 110M.
 >
 > We've reverse engineered this transaction trace to recreate the attacker's extract exploit.
+
+
+---
+
+## 2023-02-01 · Post · This weekend, we played 0xmonaco @matchbox_dao, a web3 gaming competition. We developed a highly pro
+
+
+### Post — @zellic_io — 2023-02-01 18:00 UTC (2023-02-01 19:00 WAT)
+
+- URL: https://x.com/zellic_io/status/1620844495226179586
+- Metrics (at fetch): bookmark 23, impression 32090, like 78, quote 10, reply 4, retweet 14
+
+> This weekend, we played 0xmonaco @matchbox_dao, a web3 gaming competition. We developed a highly profitable racing strategy by leveraging clever math and bugs. We got DQ-ed😅
+>
+> In this thread, we'll break down:
+> 🎯 our car's unique strategy
+> 🎯 the vulnerabilities our car exploited https://t.co/QIhcuLbfGG
+
+**Media:**
+- media `3_1620844487022096384` (details not returned by the API)
 
 
 ---
@@ -5252,6 +5840,48 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-09-01 · Post · We partnered with @Jarvis_Network to secure their Synthereum protocol 
+
+
+### Post — @zellic_io — 2022-09-01 18:28 UTC (2022-09-01 19:28 WAT)
+
+- URL: https://x.com/zellic_io/status/1565406324828975104
+- Metrics (at fetch): bookmark 4, impression 0, like 19, quote 2, reply 1, retweet 2
+
+> We partnered with @Jarvis_Network to secure their Synthereum protocol 
+>
+> Synthereum provides a way for users to trade synthetic fiat currencies called jFIATs.
+>
+> We found 4 issues that Jarvis quickly fixed.
+>
+> Here's what we found👇
+
+
+---
+
+## 2022-08-31 · Post · Does your protocol rely on a Solidity try/catch statement preventing a reversion in the caller when
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
+
+- URL: https://x.com/zellic_io/status/1565052083576791040
+- Metrics (at fetch): bookmark 8, impression 0, like 21, quote 1, reply 2, retweet 7
+
+> Does your protocol rely on a #Solidity try/catch statement preventing a reversion in the caller when making an external call?
+>
+> Make sure your team is aware of this little-known returndata bombing vulnerability! 🐛🐛🐛
+>
+> 👇 A THREAD. https://t.co/50pJAlV6mm
+
+**Media:**
+- media `16_1565052075725049857` (details not returned by the API)
+
+
+---
+
 ## 2022-08-25 · Thread · We partnered with @brahmafi to secure their Protected Moonshot DegenVault.
 
 
@@ -5389,13 +6019,38 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-08-24 · Post · You see it on Twitter. It whispers in your dreams. It watches you in the shower.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2022-08-24 18:40 UTC (2022-08-24 19:40 WAT)
+
+- URL: https://x.com/zellic_io/status/1562510167656128512
+- Metrics (at fetch): bookmark 5, impression 0, like 15, quote 1, reply 3, retweet 1
+
+> You see it on Twitter. It whispers in your dreams. It watches you in the shower.
+>
+> What is it? The MOVE programming language!
+>
+> Over 550 million dollars are being invested in this ecosystem, pre-launch, the most in blockchain history.
+>
+> But is the hype worth it? Here we investigate https://t.co/89zL6WTE7w
+
+**Media:**
+- media `3_1562510164279758849` (details not returned by the API)
+
+
+---
+
 ## 2022-08-22 · Post · Aces up the sleeves of security-conscious Ethereum developers: 
 
 
 ### Post — @zellic_io — 2022-08-22 21:42 UTC (2022-08-22 22:42 WAT)
 
 - URL: https://x.com/zellic_io/status/1561831084462993408
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 14, impression 0, like 19, quote 1, reply 1, retweet 1
 
 > Aces up the sleeves of security-conscious Ethereum developers: 
 >
@@ -5413,7 +6068,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
 
 - URL: https://x.com/zellic_io/status/1556754825177550848
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 0, like 22, quote 4, reply 1, retweet 3
 
 > We are proud to have helped secure the smart contracts of @AnteFinance! 🎉 
 >
@@ -5427,6 +6082,42 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2022-08-03 · Post · Thread: How thousands of Slope wallets were hacked and how other wallets can avoid this 👇 https://t.
+
+
+### Post — @zellic_io — 2022-08-03 21:04 UTC (2022-08-03 22:04 WAT)
+
+- URL: https://x.com/zellic_io/status/1554936143220617216
+- Metrics (at fetch): bookmark 29, impression 0, like 156, quote 12, reply 1, retweet 58
+
+> Thread: How thousands of Slope wallets were hacked and how other wallets can avoid this 👇 https://t.co/hYSHFWO7yF
+
+**Media:**
+- media `3_1554936139844165632` (details not returned by the API)
+
+
+---
+
+## 2022-08-03 · Post · 1/ We forked Geth to compile a list of all 23,897,838 Ethereum contract addresses—a snapshot of ever
+
+
+### Post — @zellic_io — 2022-08-03 16:08 UTC (2022-08-03 17:08 WAT)
+
+- URL: https://x.com/zellic_io/status/1554861691388588038
+- Metrics (at fetch): bookmark 27, impression 0, like 86, quote 4, reply 4, retweet 15
+
+> 1/ We forked Geth to compile a list of all 23,897,838 Ethereum contract addresses—a snapshot of every contract EVER deployed on Ethereum.
+>
+> We found some pretty interesting addresses out there...and you might have already interacted with some of them!
+>
+> Here's what we found 👇 https://t.co/CAYUDkvrsx
+
+**Media:**
+- media `3_1554861687521419264` (details not returned by the API)
+
+
+---
+
 ## 2022-08-02 · Thread · 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this ha
 
 
@@ -5436,7 +6127,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
 
 - URL: https://x.com/zellic_io/status/1554296729050025984
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 143, impression 0, like 409, quote 40, reply 13, retweet 118
 
 > 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this happen? We break down not just the exploit, but also HOW THE VULNERABILITY WAS INTRODUCED IN THE FIRST PLACE.
 >
@@ -5467,7 +6158,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
 
 - URL: https://x.com/zellic_io/status/1554226997542260736
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 0, like 15, quote 1, reply 1, retweet 2
 
 > $10,000,000 is the highest bug bounty reward ever given.🏆
 >
@@ -5477,6 +6168,76 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
+
+
+---
+
+## 2022-07-28 · Post · Billions of dollars stolen. Of top DeFi hacks, half of the protocols exploited for nine-figures are 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2022-07-28 18:19 UTC (2022-07-28 19:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1552720455844241408
+- Metrics (at fetch): bookmark 17, impression 0, like 71, quote 7, reply 3, retweet 17
+
+> Billions of dollars stolen. Of top DeFi hacks, half of the protocols exploited for nine-figures are *cross-chain bridges*. ⛓️🌉
+>
+> But surprisingly, the root cause is usually NOT a coding mistake.
+>
+> A META-ANALYSIS THREAD.👇 https://t.co/LexvldQd6y
+
+**Media:**
+- media `3_1552720451398316032` (details not returned by the API)
+
+
+---
+
+## 2022-07-27 · Post · An attacker drained $6,000,000 from Audius $AUDIO  &lt;72 hours ago.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2022-07-27 15:38 UTC (2022-07-27 16:38 WAT)
+
+- URL: https://x.com/zellic_io/status/1552317415261962246
+- Metrics (at fetch): bookmark 36, impression 0, like 98, quote 2, reply 2, retweet 18
+
+> An attacker drained $6,000,000 from Audius $AUDIO  &lt;72 hours ago.
+>
+> Yet again, smart contracts remain rekt.
+>
+> How did this happen?
+>
+> Let's take a look: https://t.co/oypXYDRMEd
+
+**Media:**
+- media `3_1552316421966888961` (details not returned by the API)
+
+
+---
+
+## 2022-07-26 · Post · Want 500 $USDT for FREE? 
+
+
+### Post — @zellic_io — 2022-07-26 21:22 UTC (2022-07-26 22:22 WAT)
+
+- URL: https://x.com/zellic_io/status/1552041590260379648
+- Metrics (at fetch): bookmark 22, impression 0, like 97, quote 7, reply 4, retweet 35
+
+> Want 500 $USDT for FREE? 
+>
+> Crypto scammers know you do.
+>
+> 🚨 SCAM ALERT: If you see someone "leak" a private key, don't act on it too quickly. 
+>
+> Here's how it works 👇 https://t.co/92CN7iRejD
+
+**Media:**
+- media `3_1552038691601776642` (details not returned by the API)
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 185
-- Conversations/threads: 176
+- Posts in this file: 187
+- Conversations/threads: 177
 - Oldest post captured: 2021-08-17
 - Newest post captured: 2026-11-04
 
@@ -481,20 +481,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2026-08-04 · Post · Just got 2 P1 duped by 30 seconds 👀
-
-
-### Post — @krishnsec — 2026-08-04 16:54 UTC (2026-08-04 17:54 WAT)
-
-- URL: https://x.com/krishnsec/status/2084684441088405579
-- Metrics (at fetch): bookmark 4, impression 5830, like 86, quote 0, reply 12, retweet 1
-
-> Just got 2 P1 duped by 30 seconds 👀
-
-
----
-
-## 2026-08-04 · Post · Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
+## 2026-08-04 · Thread · Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -509,6 +496,47 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HO4aSFabkAAyez5.jpg — no alt text provided by author
+
+
+### Thread part 2 — @krishnsec — 2026-08-04 20:15 UTC (2026-08-04 21:15 WAT)
+
+- URL: https://x.com/krishnsec/status/2084734915426521531
+- Metrics (at fetch): bookmark 0, impression 226, like 2, quote 0, reply 0, retweet 0
+
+> @mdp_sec @Bugcrowd https://t.co/aTu8HILXvi
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2026-08-04 · Post · Just got 2 P1 duped by 30 seconds 👀
+
+
+### Post — @krishnsec — 2026-08-04 16:54 UTC (2026-08-04 17:54 WAT)
+
+- URL: https://x.com/krishnsec/status/2084684441088405579
+- Metrics (at fetch): bookmark 4, impression 5830, like 86, quote 0, reply 12, retweet 1
+
+> Just got 2 P1 duped by 30 seconds 👀
+
+
+---
+
+## 2026-08-03 · Post · @mdp_sec @Bugcrowd @an1msh_ @d00xing 😂 man you r doing gr8 job too 👏
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2026-08-03 05:35 UTC (2026-08-03 06:35 WAT)
+
+- URL: https://x.com/krishnsec/status/2084151170252312970
+- Metrics (at fetch): bookmark 0, impression 896, like 5, quote 0, reply 1, retweet 0
+
+> @mdp_sec @Bugcrowd @an1msh_ @d00xing 😂 man you r doing gr8 job too 👏
+> keep digging hard
 
 
 ---

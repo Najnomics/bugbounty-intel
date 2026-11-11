@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 136
-- Conversations/threads: 103
+- Posts in this file: 138
+- Conversations/threads: 104
 - Oldest post captured: 2018-11-24
 - Newest post captured: 2026-11-03
 
@@ -657,7 +657,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2026-08-19 · Post · If i want that your day go worse I won’t abuse you or wish bad for you.
+## 2026-08-19 · Thread · If i want that your day go worse I won’t abuse you or wish bad for you.
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -671,6 +671,14 @@ Tags (automatic): Platform: Bugcrowd
 > If i want that your day go worse I won’t abuse you or wish bad for you.
 >
 >  I will wish a triager like lmz_bugcrowd visit your report, everyday on each valid report.🙏🤗😪
+
+
+### Thread part 2 — @Assass1nmarcos — 2026-08-19 16:08 UTC (2026-08-19 17:08 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2090108758823518242
+- Metrics (at fetch): bookmark 0, impression 4151, like 9, quote 0, reply 0, retweet 0
+
+> Valid (according to you and each logic and exploitation, except him)
 
 
 ---
@@ -1744,6 +1752,22 @@ Tags (automatic): XSS
 > XSS"&gt;&lt;input %00 onControl hello oninput=confirm(domain) x&gt;
 >
 > #bugbounty  #xss #bugbountytips
+
+
+---
+
+## 2021-08-17 · Reply · @cyph3r_asr @Hacker0x01 Yes you can say it, As I put username in  an endpoint which I find. It gave 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2021-08-17 13:12 UTC (2021-08-17 14:12 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1427619446936412160
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 3
+
+> @cyph3r_asr @Hacker0x01 Yes you can say it, As I put username in  an endpoint which I find. It gave me password resst token and access token in response and site uses acces token as Authorization Bearer so I can access via it. Or also can Reset User password via password reset token( already know....
 
 
 ---

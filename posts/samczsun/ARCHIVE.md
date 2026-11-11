@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 173
+- Posts in this file: 179
 - Conversations/threads: 87
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
@@ -2339,7 +2339,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/samczsun/status/1506578904764583940
 - Metrics (at fetch): bookmark 1, impression 0, like 89, quote 1, reply 2, retweet 2
 
-> In order to mint new CASH, you need to deposit some collateral. This cross-program invocation (CPI) will transfer tokens from your account to the protocol's account, but only if the two accounts hold the same type of token. Otherwise, the token program will reject the transfer. https://t.co/r198sYAUHs
+> In order to mint new CASH, you need to deposit some collateral. This cross-program invocation (CPI) will transfer tokens from your account to the protocol's account, but only if the two accounts hold the same type of token. Otherwise, the token program will reject the transfer. [pic.x.com/r198sYAUHs]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FOhsw-BVsAElCJc.png — no alt text provided by author
@@ -2404,7 +2404,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > I need to make a correction! Thanks to @madergaser and @siintemal for pointing out that I completely missed the other half of the exploit.
     >
-    > https://t.co/pRTI1mwXO2
+    > https://x.com/samczsun/status/1506578902331768832
+    
+    **Links in post:** https://x.com/samczsun/status/1506578902331768832
     
     **Quoted post (full text):**
     
@@ -2423,7 +2425,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-03-24 · Post · I need to make a correction! Thanks to @madergaser and @siintemal for pointing out that I completely
+## 2022-03-24 · Thread · I need to make a correction! Thanks to @madergaser and @siintemal for pointing out that I completely
 
 
 ### Post — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
@@ -2433,7 +2435,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > I need to make a correction! Thanks to @madergaser and @siintemal for pointing out that I completely missed the other half of the exploit.
 >
-> https://t.co/pRTI1mwXO2
+> https://x.com/samczsun/status/1506578902331768832
+
+**Links in post:** https://x.com/samczsun/status/1506578902331768832
 
 **Quoted post (full text):**
 
@@ -2447,6 +2451,85 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     **Media:**
     - photo: https://pbs.twimg.com/media/FOhsViIVUAEz4tm.jpg — no alt text provided by author
     
+
+
+### Thread part 2 — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+
+- URL: https://x.com/samczsun/status/1507056113023275023
+- Metrics (at fetch): bookmark 3, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> So as I mentioned earlier, the two token accounts must hold the same token. The attacker forged accounts to bypass the validation on common.crate_collateral_tokens, but what about depositor_source?
+>
+> https://x.com/samczsun/status/1506578904764583940
+
+**Links in post:** https://x.com/samczsun/status/1506578904764583940
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
+    
+    - URL: https://x.com/samczsun/status/1506578904764583940
+    - Metrics (at fetch): bookmark 1, impression 0, like 89, quote 1, reply 2, retweet 2
+    
+    > In order to mint new CASH, you need to deposit some collateral. This cross-program invocation (CPI) will transfer tokens from your account to the protocol's account, but only if the two accounts hold the same type of token. Otherwise, the token program will reject the transfer. [pic.x.com/r198sYAUHs]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FOhsw-BVsAElCJc.png — no alt text provided by author
+    
+
+
+### Thread part 3 — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+
+- URL: https://x.com/samczsun/status/1507056115338530816
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> Well, the depositor_source has to use the same token as common.collateral. [pic.x.com/XgItqfcqrH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOocH6WUYAk4xhz.png — no alt text provided by author
+
+
+### Thread part 4 — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+
+- URL: https://x.com/samczsun/status/1507056117305683970
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> But common.collateral contains two fields: collateral and bank, and the attacker can't set the collateral unless they're the owner of the bank. [pic.x.com/57Qd6mbu77]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOoconEUYBcfDC8.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FOoct72UYBszEOu.png — no alt text provided by author
+
+
+### Thread part 5 — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+
+- URL: https://x.com/samczsun/status/1507056119507668995
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> Fortunately, the attacker can just create a new bank, one in which they're the curator. They'll need to use a new crate_mint since the total supply of the token must be zero. [pic.x.com/2NGjK3B7cM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOodIGvUYB4ZSew.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FOoh4PjUYAUINZN.png — no alt text provided by author
+
+
+### Thread part 6 — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+
+- URL: https://x.com/samczsun/status/1507056122196217883
+- Metrics (at fetch): bookmark 4, impression 0, like 21, quote 1, reply 1, retweet 0
+
+> Now that the attacker has essentially created a parallel universe, they can go back and deposit their worthless collateral. Critically, they can instruct the program to mint the original CASH token because there was no check that the bank's token matched the one being minted. [pic.x.com/zI13aRr3aU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOoefh3UYAMyfGv.png — no alt text provided by author
+
+
+### Thread part 7 — @samczsun — 2022-03-24 18:05 UTC (2022-03-24 19:05 WAT)
+
+- URL: https://x.com/samczsun/status/1507056124293382144
+- Metrics (at fetch): bookmark 3, impression 0, like 34, quote 0, reply 3, retweet 1
+
+> So there you go. While anchoring to a root of trust is important, the real lesson learned here is how all the authentication in the world is meaningless if you miss a single load-bearing check. Thanks again to @madergaser and @siintemal for pointing this out.
 
 
 ---

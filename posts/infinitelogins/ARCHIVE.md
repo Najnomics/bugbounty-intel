@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 127
+- Posts in this file: 128
 - Conversations/threads: 122
 - Oldest post captured: 2020-01-17
 - Newest post captured: 2026-11-04
@@ -3016,7 +3016,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2021-04-20 · Post · First video in a while - Part 2 to chaining XSS with CSRF is now up! https://t.co/JsQOuNuKNd
+## 2021-04-20 · Thread · First video in a while - Part 2 to chaining XSS with CSRF is now up! https://t.co/JsQOuNuKNd
 
 
 Tags (automatic): XSS
@@ -3028,6 +3028,14 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 9, quote 1, reply 1, retweet 1
 
 > First video in a while - Part 2 to chaining XSS with CSRF is now up! https://t.co/JsQOuNuKNd
+
+
+### Thread part 2 — @infinitelogins — 2021-04-20 21:54 UTC (2021-04-20 22:54 WAT)
+
+- URL: https://x.com/infinitelogins/status/1384626662013239303
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Issue with the upload. Reupload at https://t.co/VQuzd9vWz8
 
 
 ---

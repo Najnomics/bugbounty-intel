@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 341
+- Posts in this file: 342
 - Conversations/threads: 304
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-04
@@ -4586,7 +4586,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2017-10-06 · Post · When Security Features Collide: http://blog.portswigger.net/2017/10/when-security-features-collide.h
+## 2017-10-06 · Thread · When Security Features Collide: http://blog.portswigger.net/2017/10/when-security-features-collide.h
 
 
 Tags (automatic): XSS
@@ -4600,6 +4600,14 @@ Tags (automatic): XSS
 > When Security Features Collide: http://blog.portswigger.net/2017/10/when-security-features-collide.html featuring Cloudflare, XSS Auditor, Edge, NoScript and @garethheyes
 
 **Links in post:** http://blog.portswigger.net/2017/10/when-security-features-collide.html
+
+
+### Thread part 2 — @albinowax — 2017-10-06 15:38 UTC (2017-10-06 16:38 WAT)
+
+- URL: https://x.com/albinowax/status/916326866935480322
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> @garethheyes cc @timstrazz @kinugawamasato
 
 
 ---

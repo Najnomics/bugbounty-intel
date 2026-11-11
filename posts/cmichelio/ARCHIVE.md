@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 239
+- Posts in this file: 243
 - Conversations/threads: 197
 - Oldest post captured: 2016-07-31
 - Newest post captured: 2026-11-10
@@ -1812,7 +1812,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2021-07-11 · Post · Some preliminary investigation on this:
+## 2021-07-11 · Thread · Some preliminary investigation on this:
 
 
 ### Post — @cmichelio — 2021-07-11 01:35 UTC (2021-07-11 02:35 WAT)
@@ -1829,9 +1829,36 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Quoted post** 1413973753097293825: not readable via the API (deleted, private, or withheld).
 
 
+### Thread part 2 — @cmichelio — 2021-07-11 01:35 UTC (2021-07-11 02:35 WAT)
+
+- URL: https://x.com/cmichelio/status/1414035468971397126
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 2, retweet 0
+
+> Attacker has to pay 0.005 ETH as a fee in _chargeFee. No real auth checks, only 1 signature required, issue could be the _decreaseAuthQuota function that reverts if the signatory's quota is fulfilled for that day. But everyone seems to start with a default quota. https://t.co/9xCM9E9FuV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E5-mDLcX0AIf3Gj.jpg — no alt text provided by author
+
+
+### Thread part 3 — @cmichelio — 2021-07-11 01:35 UTC (2021-07-11 02:35 WAT)
+
+- URL: https://x.com/cmichelio/status/1414035471257178115
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 3, retweet 0
+
+> So attacker just signs signatures with different addresses each time to circumvent this. The `volume` parameter is then transferred to `to` attacker address in the _receive function. https://t.co/fRb68PEGMD
+
+
+### Thread part 4 — @cmichelio — 2021-07-11 01:35 UTC (2021-07-11 02:35 WAT)
+
+- URL: https://x.com/cmichelio/status/1414035627960635396
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> @chain_swap #chainswap
+
+
 ---
 
-## 2021-05-30 · Post · this accounting would work if curve/ellipsis really used the constant sum x+y+z=k invariant, but it 
+## 2021-05-30 · Thread · this accounting would work if curve/ellipsis really used the constant sum x+y+z=k invariant, but it 
 
 
 ### Post — @cmichelio — 2021-05-30 11:16 UTC (2021-05-30 12:16 WAT)
@@ -1847,6 +1874,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Links in post:** https://curve.fi/files/stableswap-paper.pdf, https://twitter.com/Mudit__Gupta/status/1398885049987043329
 
 **Quoted post** 1398885049987043329: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @cmichelio — 2021-05-30 11:26 UTC (2021-05-30 12:26 WAT)
+
+- URL: https://x.com/cmichelio/status/1398964092145213441
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> Interesting side note: contrary to ETH, on BSC the tokens BUSD, USDC, USDT all have 18 decimals so you can really add them like that.
 
 
 ---

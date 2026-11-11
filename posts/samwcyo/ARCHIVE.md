@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 203
+- Posts in this file: 204
 - Conversations/threads: 188
 - Oldest post captured: 2017-02-12
 - Newest post captured: 2026-11-11
@@ -1792,7 +1792,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2020-12-28 · Post · Pretty fun bug: app had a staging/production environment. They both shared the same secrets for mana
+## 2020-12-28 · Thread · Pretty fun bug: app had a staging/production environment. They both shared the same secrets for mana
 
 
 ### Post — @samwcyo — 2020-12-28 18:02 UTC (2020-12-28 19:02 WAT)
@@ -1807,6 +1807,31 @@ Tags (automatic): IDOR / BOLA
 **Media:**
 - photo: https://pbs.twimg.com/media/EqV9tz2XYAIVlnA.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/EqV9uPXXMAA3uNH.png — no alt text provided by author
+
+
+### Thread part 2 — @samwcyo — 2020-12-28 19:03 UTC (2020-12-28 20:03 WAT)
+
+- URL: https://x.com/samwcyo/status/1343633634364895232
+- Metrics (at fetch): bookmark 15, impression 0, like 54, quote 0, reply 1, retweet 8
+
+> Huge thanks to @kapytein for sharing this in 2019:
+> https://t.co/pFYYild7yo
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736615159653924864 — 2019-12-04 15:47 UTC (2019-12-04 16:47 WAT)
+    
+    - URL: https://x.com/736615159653924864/status/1202253010291843072
+    - Metrics (at fetch): bookmark 65, impression 0, like 297, quote 5, reply 3, retweet 105
+    
+    > ⚠️Open staging environments can lead to production account takeover
+    > ✔️If they use a separate DB, but same JWT secret
+    > ✔️If the username or e-mail address is used as identifier
+    > This is an excellent #BugBountyTip, thanks @kapytein! https://t.co/yZkBoDBO1d
+    
+    **Media:**
+    - media `3_1202253008286998528` (details not returned by the API)
+    
 
 
 ---

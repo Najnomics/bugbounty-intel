@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 70
+- Posts in this file: 71
 - Conversations/threads: 62
 - Oldest post captured: 2014-06-13
 - Newest post captured: 2026-05-14
@@ -752,7 +752,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2018-04-13 · Post · This bug in the Lufthansa flight info screen must be really old. https://t.co/CkWd4RrjsY
+## 2018-04-13 · Thread · This bug in the Lufthansa flight info screen must be really old. [pic.x.com/CkWd4RrjsY]
 
 
 ### Post — @lavados — 2018-04-13 05:12 UTC (2018-04-13 06:12 WAT)
@@ -760,11 +760,19 @@ Tags (automatic): Memory corruption / native
 - URL: https://x.com/lavados/status/984660618333642752
 - Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 1
 
-> This bug in the #Lufthansa flight info screen must be really old. https://t.co/CkWd4RrjsY
+> This bug in the #Lufthansa flight info screen must be really old. [pic.x.com/CkWd4RrjsY]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Dao3l2BXcAA0R1A.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/Dao3mv0XcAAybvb.jpg — no alt text provided by author
+
+
+### Thread part 2 — @lavados — 2018-04-13 05:14 UTC (2018-04-13 06:14 WAT)
+
+- URL: https://x.com/lavados/status/984661106319912960
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> I wonder what happened there. Convert something like 2h12m to 2:12 in some weird way? And then, wherever they get the data it's only 2h because it omits 00m?
 
 
 ---

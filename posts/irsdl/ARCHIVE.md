@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 584
-- Conversations/threads: 517
+- Posts in this file: 595
+- Conversations/threads: 518
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
 
@@ -711,7 +711,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-08-19 · Post · ▶️ https://t.co/89ZaEHDPLE now plays video.
+## 2026-08-19 · Thread · ▶️ https://t.co/89ZaEHDPLE now plays video.
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @irsdl — 2026-08-19 18:56 UTC (2026-08-19 19:56 WAT)
@@ -728,6 +731,16 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+### Thread part 2 — @irsdl — 2026-08-19 18:56 UTC (2026-08-19 19:56 WAT)
+
+- URL: https://x.com/irsdl/status/2090150926514356663
+- Metrics (at fetch): bookmark 0, impression 344, like 1, quote 0, reply 0, retweet 0
+
+> In addition to confirmed ones, some items carry a guess link by AI.
+>
+> Please contribute where you can by reporting the valid videos for a topic.
 
 
 ---
@@ -996,7 +1009,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-07-15 · Post · I’ve finally updated Sharpener for BurpSuite.
+## 2026-07-15 · Thread · I’ve finally updated Sharpener for BurpSuite.
 
 
 Tags (automatic): AI-assisted hunting
@@ -1016,6 +1029,16 @@ Tags (automatic): AI-assisted hunting
 **Media:**
 - photo: https://pbs.twimg.com/media/HNTo73AXwAAkpuB.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HNTo73AXMAAqTsW.jpg — no alt text provided by author
+
+
+### Thread part 2 — @irsdl — 2026-07-15 23:50 UTC (2026-07-16 00:50 WAT)
+
+- URL: https://x.com/irsdl/status/2077541450900767135
+- Metrics (at fetch): bookmark 7, impression 477, like 0, quote 0, reply 0, retweet 0
+
+> https://t.co/EG8f3A3EfX
+>
+> It is currently ahead of the BApp Store release, but you can download the JAR built by GitHub Actions.
 
 
 ---
@@ -6416,7 +6439,10 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-08-11 · Post · I hope the positive outcome of this is for CREST to update at least their old questions so we will n
+## 2020-08-11 · Thread · I hope the positive outcome of this is for CREST to update at least their old questions so we will n
+
+
+Tags (automatic): XSS
 
 
 ### Post — @irsdl — 2020-08-11 12:58 UTC (2020-08-11 13:58 WAT)
@@ -6437,6 +6463,16 @@ Tags (automatic): XSS
     >
     > https://t.co/zyAL7vBzpu
     
+
+
+### Thread part 2 — @irsdl — 2020-08-11 13:02 UTC (2020-08-11 14:02 WAT)
+
+- URL: https://x.com/irsdl/status/1293170882265985024
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> I also think what if we create an account with script tag in the name to XSS CREST website when they mention them: https://www.crest-approved.org/2020/08/11/examination-material/index.html &lt;script src=//examp.le/&gt;CRESTApproved&lt;/scirpt&gt;
+
+**Links in post:** https://www.crest-approved.org/2020/08/11/examination-material/index.html
 
 
 ---
@@ -8502,6 +8538,30 @@ Tags (automatic): XSS, RCE
 
 ---
 
+## 2018-05-02 · Thread · Shall I watch the game or report the RCE to MS... life is hard :p
+
+
+Tags (automatic): RCE
+
+
+### Post — @irsdl — 2018-05-02 18:59 UTC (2018-05-02 19:59 WAT)
+
+- URL: https://x.com/irsdl/status/991753952269144064
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 3, retweet 0
+
+> Shall I watch the game or report the RCE to MS... life is hard :p
+
+
+### Thread part 2 — @irsdl — 2018-05-04 11:02 UTC (2018-05-04 12:02 WAT)
+
+- URL: https://x.com/irsdl/status/992358679591686145
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Realised some people might have taken these tweets seriously, I can assure everybody as soon as I had perm to rep this to the right people, I started testing it (found it by reading MS code so was a theory first) and sent it immediately #ResponsibleDisclosure
+
+
+---
+
 ## 2018-05-04 · Thread · I'm impressed w MS security monitoring team! As I was in the middle of confirming an RCE (15 min thr
 
 
@@ -8526,18 +8586,41 @@ Tags (automatic): RCE
 
 ---
 
-## 2018-05-02 · Post · Shall I watch the game or report the RCE to MS... life is hard :p
+## 2018-04-28 · Reply · @garethheyes O’Snap! :( perhaps time to fuzz the rest of things you have?
 
 
-Tags (automatic): RCE
+**Context — conversation root by another account:**
+
+#### Root post — @garethheyes — 2018-04-28 08:11 UTC (2018-04-28 09:11 WAT)
+
+- URL: https://x.com/garethheyes/status/990141463768989696
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 1
+
+> Heh I used __lookupGetter__ with event to bypass Angular on Chrome. I wish I’d have fuzzed it now. https://x.com/alisaesage/status/989933803173900288
+
+**Links in post:** https://x.com/alisaesage/status/989933803173900288
+
+**Quoted post (full text):**
+
+    #### Quoted post — @338501472 — 2018-04-27 18:26 UTC (2018-04-27 19:26 WAT)
+    
+    - URL: https://x.com/338501472/status/989933803173900288
+    - Metrics (at fetch): bookmark 1, impression 0, like 70, quote 1, reply 0, retweet 24
+    
+    > I could compose a dozen of sad puns on the role of type confusions in my life. Let’s just say that browser was wrong... again
+    >
+    > window.__lookupGetter__('event').call(0x42424242 &gt;&gt; 1);    // crashes more nicely on x86
+    >
+    > Microsoft Edge CVE-2018-0893 (March 2018)
+    
 
 
-### Post — @irsdl — 2018-05-02 18:59 UTC (2018-05-02 19:59 WAT)
+### Post — @irsdl — 2018-04-28 12:02 UTC (2018-04-28 13:02 WAT)
 
-- URL: https://x.com/irsdl/status/991753952269144064
-- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 3, retweet 0
+- URL: https://x.com/irsdl/status/990199519408160768
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
 
-> Shall I watch the game or report the RCE to MS... life is hard :p
+> @garethheyes O’Snap! :( perhaps time to fuzz the rest of things you have?
 
 
 ---
@@ -8639,7 +8722,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2017-09-14 · Post · Pro tip for burpsuite users: order of extensions r important especially if u r monitoring or changi
+## 2017-09-14 · Thread · Pro tip for burpsuite users: order of extensions r important especially if u r monitoring or changi
 
 
 ### Post — @irsdl — 2017-09-14 22:48 UTC (2017-09-14 23:48 WAT)
@@ -8650,9 +8733,20 @@ Tags (automatic): RCE
 > Pro tip for #burpsuite users: order of extensions r important especially if u r monitoring or changing on top of another @CoreyD97 #logger++
 
 
+### Thread part 2 — @irsdl — 2017-09-14 22:51 UTC (2017-09-14 23:51 WAT)
+
+- URL: https://x.com/irsdl/status/908463322114248704
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @CoreyD97 Unfortunately there is no way to be the last ext for outgoing and first for incoming requests! #compromise #burpsuite #limit
+
+
 ---
 
-## 2017-09-08 · Post · When ASP .NET Request Validation faces Request Encoding and uncaught errors: https://t.co/9g49Gng3VA
+## 2017-09-08 · Thread · When ASP .NET Request Validation faces Request Encoding and uncaught errors: https://www.nccgroup.tr
+
+
+Tags (automatic): XSS
 
 
 ### Post — @irsdl — 2017-09-08 16:43 UTC (2017-09-08 17:43 WAT)
@@ -8660,7 +8754,55 @@ Tags (automatic): RCE
 - URL: https://x.com/irsdl/status/906196415118024704
 - Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 1, retweet 10
 
-> When ASP .NET Request Validation faces Request Encoding and uncaught errors: https://t.co/9g49Gng3VA #ASPNET #RequestValidation #Bypass
+> When ASP .NET Request Validation faces Request Encoding and uncaught errors: https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/rare-asp.net-request-validation-bypass-using-request-encoding/ #ASPNET #RequestValidation #Bypass
+
+**Links in post:** https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/rare-asp.net-request-validation-bypass-using-request-encoding/
+
+
+### Thread part 2 — @irsdl — 2017-09-08 17:45 UTC (2017-09-08 18:45 WAT)
+
+- URL: https://x.com/irsdl/status/906211902681997312
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> The twist: won't work if your payload is in the URL and HTTP verb is GET + won't work with POST when the payload is in the body! o_0 [pic.x.com/qIihUap0v8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DJOCH8PXkAApabQ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/DJOCMSLWAAAcKyT.jpg — no alt text provided by author
+
+
+### Thread part 3 — @irsdl — 2017-09-09 03:11 UTC (2017-09-09 04:11 WAT)
+
+- URL: https://x.com/irsdl/status/906354340130119686
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @1lastBr3ath Depends; That's why it is not useful for reflected xss. Req encoding itself might not be easily possible for a reflected xss either
+
+
+### Thread part 4 — @irsdl — 2017-09-09 03:13 UTC (2017-09-09 04:13 WAT)
+
+- URL: https://x.com/irsdl/status/906354840594522115
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @1lastBr3ath I said depends, because if you could control the content length using req w pdf etc or browser was repeating 307 redir, then it was possible
+
+
+### Thread part 5 — @irsdl — 2017-09-09 03:16 UTC (2017-09-09 04:16 WAT)
+
+- URL: https://x.com/irsdl/status/906355509720121346
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @1lastBr3ath This kind of behaviour however normally are browsers/plugins issue and might get a patch. The .Net issue won't be patched (feature/bug) ;)
+
+
+### Thread part 6 — @irsdl — 2017-09-09 03:18 UTC (2017-09-09 04:18 WAT)
+
+- URL: https://x.com/irsdl/status/906356073845727232
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @1lastBr3ath e.g. for changing content-type in the browser: https://www.nccgroup.trust/uk/our-research/technical-advisory-cve-2017-8592-xmlhttprequest-in-ie-followed-307-redirections-with-additional-or-customised-headers/ - patched now
+
+**Links in post:** https://www.nccgroup.trust/uk/our-research/technical-advisory-cve-2017-8592-xmlhttprequest-in-ie-followed-307-redirections-with-additional-or-customised-headers/
 
 
 ---

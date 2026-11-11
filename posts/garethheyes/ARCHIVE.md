@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 546
+- Posts in this file: 549
 - Conversations/threads: 495
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-09
@@ -939,7 +939,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2026-06-29 · Post · I think this is the best most elegant XSS vector I've ever found https://t.co/ccQhQlohqg
+## 2026-06-29 · Thread · I think this is the best most elegant XSS vector I've ever found https://t.co/ccQhQlohqg
 
 
 Tags (automatic): XSS
@@ -954,6 +954,15 @@ Tags (automatic): XSS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HMAaJl-W4AAXOTk.jpg — alt text: "onerror=eval,new name"
+
+
+### Thread part 2 — @garethheyes — 2026-06-29 19:59 UTC (2026-06-29 20:59 WAT)
+
+- URL: https://x.com/garethheyes/status/2071685074928406814
+- Metrics (at fetch): bookmark 16, impression 1351, like 18, quote 0, reply 0, retweet 0
+
+> It still works in Safari. Here's the write up:
+> https://t.co/sIFvUCAO6F
 
 
 ---
@@ -4309,7 +4318,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2018-04-28 · Post · Heh I used __lookupGetter__ with event to bypass Angular on Chrome. I wish I’d have fuzzed it now. h
+## 2018-04-28 · Thread · Heh I used __lookupGetter__ with event to bypass Angular on Chrome. I wish I’d have fuzzed it now. h
 
 
 ### Post — @garethheyes — 2018-04-28 08:11 UTC (2018-04-28 09:11 WAT)
@@ -4317,7 +4326,9 @@ Tags (automatic): XSS
 - URL: https://x.com/garethheyes/status/990141463768989696
 - Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 1
 
-> Heh I used __lookupGetter__ with event to bypass Angular on Chrome. I wish I’d have fuzzed it now. https://t.co/QgKqjuNEyf
+> Heh I used __lookupGetter__ with event to bypass Angular on Chrome. I wish I’d have fuzzed it now. https://x.com/alisaesage/status/989933803173900288
+
+**Links in post:** https://x.com/alisaesage/status/989933803173900288
 
 **Quoted post (full text):**
 
@@ -4332,6 +4343,14 @@ Tags (automatic): XSS
     >
     > Microsoft Edge CVE-2018-0893 (March 2018)
     
+
+
+### Thread part 2 — @garethheyes — 2018-04-28 21:46 UTC (2018-04-28 22:46 WAT)
+
+- URL: https://x.com/garethheyes/status/990346597077790721
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> @irsdl Thing is I didn’t think to fuzz sandbox escapes but in future I will 😀
 
 
 ---
@@ -4448,7 +4467,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2017-10-09 · Post · Any sufficiently advanced XSS vector is indistinguishable from magic.
+## 2017-10-09 · Thread · Any sufficiently advanced XSS vector is indistinguishable from magic.
 
 
 Tags (automatic): XSS
@@ -4460,6 +4479,41 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 4
 
 > Any sufficiently advanced XSS vector is indistinguishable from magic.
+
+
+### Thread part 2 — @garethheyes — 2017-10-09 08:27 UTC (2017-10-09 09:27 WAT)
+
+- URL: https://x.com/garethheyes/status/917305466887266304
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> https://x.com/kinugawamasato/status/916393484147290113
+
+**Links in post:** https://x.com/kinugawamasato/status/916393484147290113
+
+**Quoted post (full text):**
+
+    #### Quoted post — @104911452 — 2017-10-06 20:03 UTC (2017-10-06 21:03 WAT)
+    
+    - URL: https://x.com/104911452/status/916393484147290113
+    - Metrics (at fetch): bookmark 4, impression 0, like 53, quote 1, reply 0, retweet 17
+    
+    > Nice post! I also found a bit complex Auditor bypass script gadgets :D It works via replaceChild().
+    > https://waf.party/xss.php?xss=%3Csvg%3E%3Cscript+x%3E%3Csvg+data-cfemail=%2200616C657274283129%22+class=%22__cf_email__%22/%3E%3Cforeignobject%3E%3Ca+href=mailto:a%3E%3C/a%3E%3Cbody%3E%3C/body%3E%3C/foreignobject%3E%3C/script/%3E%3C/svg%3E https://x.com/albinowax/status/916311555582685190
+    
+    **Links in post:** https://waf.party/xss.php?xss=%3Csvg%3E%3Cscript+x%3E%3Csvg+data-cfemail=%2200616C657274283129%22+class=%22__cf_email__%22/%3E%3Cforeignobject%3E%3Ca+href=mailto:a%3E%3C/a%3E%3Cbody%3E%3C/body%3E%3C/foreignobject%3E%3C/script/%3E%3C/svg%3E, https://x.com/albinowax/status/916311555582685190
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @albinowax — 2017-10-06 14:37 UTC (2017-10-06 15:37 WAT)
+        
+        - URL: https://x.com/albinowax/status/916311555582685190
+        - Metrics (at fetch): bookmark 3, impression 0, like 165, quote 7, reply 3, retweet 83
+        
+        > When Security Features Collide: http://blog.portswigger.net/2017/10/when-security-features-collide.html featuring Cloudflare, XSS Auditor, Edge, NoScript and @garethheyes
+        
+        **Links in post:** http://blog.portswigger.net/2017/10/when-security-features-collide.html
+        
+    
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 250
+- Posts in this file: 255
 - Conversations/threads: 187
 - Oldest post captured: 2012-04-03
 - Newest post captured: 2026-11-03
@@ -239,7 +239,7 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
-## 2026-09-15 · Post · .@1Password's FLAWED report says AI models produce a clean security fix only 26% of the time.
+## 2026-09-15 · Thread · .@1Password's FLAWED report says AI models produce a clean security fix only 26% of the time.
 
 
 Tags (automatic): AI-assisted hunting
@@ -252,7 +252,31 @@ Tags (automatic): AI-assisted hunting
 
 > .@1Password's FLAWED report says AI models produce a clean security fix only 26% of the time.
 >
-> Defenders shouldn't take that number seriously.
+> Defenders shouldn't take that number seriously.                                                                                                                                        
+>
+> • The six vulnerabilities were handpicked because their fixes were complex. Clean-fix rates ran from 3% to 60% depending on the bug, and the report averaged them together.
+>
+> • Agents set up to fail were counted in the headline figure. Two of 1Password's prompts instructed the agent to apply the wrong fix. Those trials make up 22% of the data. One evaluation mode prevented the agent from compiling or running any code, and it accounts for 36% of the data.
+>
+> • The report ran two models, GPT-5.5 at medium effort and Opus 4.8 at high. Neither was tested at its highest available setting, so the report says nothing about how more effort or stronger models change the results.
+>
+> • Several instruction and grading errors further undercut the headline, and are elaborated upon in the attached blog.
+>
+> We've spent four months submitting hundreds of AI-authored patches to widely adopted open-source projects as part of Patch the Planet.
+>
+> Our experience didn't match 1Password's report, so we did a full analysis across 186 AI-authored pull requests and 33,500 subsequent commits, benchmarked against 2,265 human-authored patches we graded across years of security engagements. https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/
+
+**Links in post:** https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/
+
+
+### Thread part 2 — @trailofbits — 2026-09-15 11:15 UTC (2026-09-15 12:15 WAT)
+
+- URL: https://x.com/trailofbits/status/2099819318028452343
+- Metrics (at fetch): bookmark 13, impression 5031, like 26, quote 2, reply 3, retweet 2
+
+> @1Password Alongside our analysis, we’re releasing two new skills: post-patch-validation to help agents test fixes, and review-walkthrough to help engineers review them. Both are now available in our skills repo. https://github.com/trailofbits/skills
+
+**Links in post:** https://github.com/trailofbits/skills
 
 
 ---
@@ -430,7 +454,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 ---
 
-## 2026-07-28 · Post · Rust maintainers assumed a team of engineers was behind our bug reports. It was one engineer using C
+## 2026-07-28 · Thread · Rust maintainers assumed a team of engineers was behind our bug reports. It was one engineer using C
 
 
 ### Post — @trailofbits — 2026-07-28 11:15 UTC (2026-07-28 12:15 WAT)
@@ -439,6 +463,14 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 - Metrics (at fetch): bookmark 84, impression 42455, like 389, quote 4, reply 7, retweet 10
 
 > Rust maintainers assumed a team of engineers was behind our bug reports. It was one engineer using Codex's /goal.
+
+
+### Thread part 2 — @trailofbits — 2026-07-28 11:15 UTC (2026-07-28 12:15 WAT)
+
+- URL: https://x.com/trailofbits/status/2082062279420342319
+- Metrics (at fetch): bookmark 122, impression 8384, like 124, quote 4, reply 1, retweet 14
+
+> Over the first few weeks of Patch the Planet, our engineers independently converged on three techniques that get the most out of /goal’s ability to find real bugs. We wrote them down into a field report, with prompts included. https://t.co/YlUZqmZdBF
 
 
 ---
@@ -463,7 +495,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2026-07-08 · Post · Mewt grades your test suite by sabotaging your code. Each change that doesn't get flagged by your te
+## 2026-07-08 · Thread · Mewt grades your test suite by sabotaging your code. Each change that doesn't get flagged by your te
 
 
 ### Post — @trailofbits — 2026-07-08 11:15 UTC (2026-07-08 12:15 WAT)
@@ -474,6 +506,16 @@ Tags (automatic): Memory corruption / native
 > Mewt grades your test suite by sabotaging your code. Each change that doesn't get flagged by your tests is a potential bug. 
 >
 > Today we're expanding it to support DAML, @CantonNetwork's native language, with two new mutant classes for DAML's authorization rules.
+
+
+### Thread part 2 — @trailofbits — 2026-07-08 11:15 UTC (2026-07-08 12:15 WAT)
+
+- URL: https://x.com/trailofbits/status/2074814524297814206
+- Metrics (at fetch): bookmark 2, impression 1243, like 2, quote 0, reply 0, retweet 1
+
+> @CantonNetwork We tried Mewt on OpenZeppelin's canton-stablecoin reference implementation. 
+>
+> All tests were green and coverage was 100%, but four surviving mutants exposed missing test cases. https://t.co/8vSg17n4CF
 
 
 ---
@@ -618,7 +660,7 @@ Tags (automatic): Race condition
 
 ---
 
-## 2026-05-05 · Post · 30 readers took our C/C++ challenge. Some solved the Linux warmup, but nobody cracked the Windows dr
+## 2026-05-05 · Thread · 30 readers took our C/C++ challenge. Some solved the Linux warmup, but nobody cracked the Windows dr
 
 
 ### Post — @trailofbits — 2026-05-05 11:02 UTC (2026-05-05 12:02 WAT)
@@ -631,6 +673,16 @@ Tags (automatic): Race condition
 **Links in post:** https://x.com/trailofbits/status/2042253721581871121
 
 **Quoted post** 2042253721581871121: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @trailofbits — 2026-05-05 11:02 UTC (2026-05-05 12:02 WAT)
+
+- URL: https://x.com/trailofbits/status/2051618417858232660
+- Metrics (at fetch): bookmark 9, impression 1619, like 14, quote 1, reply 0, retweet 4
+
+> Full walkthrough below explaining both challenges, including the Windows escalation that beat every submission.
+>
+> Best 10 submissions are still getting swag. If you won, we'll be in contact. https://t.co/yxF5YpJvIX
 
 
 ---
@@ -3410,7 +3462,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2018-01-17 · Post · Working on an audit for the @RSKsmart blockchain platform was one of the most fun projects we had la
+## 2018-01-17 · Thread · Working on an audit for the @RSKsmart blockchain platform was one of the most fun projects we had la
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -3421,7 +3473,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/953693965164871683
 - Metrics (at fetch): bookmark 0, impression 0, like 20, quote 1, reply 1, retweet 7
 
-> Working on an audit for the @RSKsmart blockchain platform was one of the most fun projects we had last quarter. See the results from that work on their blog! https://t.co/ss7GaEpwoF
+> Working on an audit for the @RSKsmart blockchain platform was one of the most fun projects we had last quarter. See the results from that work on their blog! https://x.com/julianor/status/953648290062618625
+
+**Links in post:** https://x.com/julianor/status/953648290062618625
 
 **Quoted post (full text):**
 
@@ -3434,6 +3488,18 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     **Quoted post** 953645634422231040: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @trailofbits — 2018-01-17 18:24 UTC (2018-01-17 19:24 WAT)
+
+- URL: https://x.com/trailofbits/status/953694521895813120
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> @RSKsmart Here are direct links to RSK's announcement and our results:
+> https://media.rsk.co/rsk-security-audit-results/
+> https://www.trailofbits.com/reports/RSKj.pdf
+
+**Links in post:** https://media.rsk.co/rsk-security-audit-results/, https://www.trailofbits.com/reports/RSKj.pdf
 
 
 ---

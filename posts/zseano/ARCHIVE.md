@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 418
+- Posts in this file: 420
 - Conversations/threads: 371
 - Oldest post captured: 2015-08-11
 - Newest post captured: 2026-11-09
@@ -3690,7 +3690,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2020-11-18 · Post · Found an interesting bug tonight on a program just before bed &amp; now I’m going to lay in bed thin
+## 2020-11-18 · Thread · Found an interesting bug tonight on a program just before bed &amp; now I’m going to lay in bed thin
 
 
 ### Post — @zseano — 2020-11-18 01:15 UTC (2020-11-18 02:15 WAT)
@@ -3699,6 +3699,22 @@ Tags (automatic): IDOR / BOLA
 - Metrics (at fetch): bookmark 2, impression 0, like 129, quote 0, reply 4, retweet 2
 
 > Found an interesting bug tonight on a program just before bed &amp; now I’m going to lay in bed thinking about it &amp; what else there is to find 😩 younger self in me says stay up til 4am.. older self is like sleeep please🙏🏻😂
+
+
+### Thread part 2 — @zseano — 2020-11-18 01:17 UTC (2020-11-18 02:17 WAT)
+
+- URL: https://x.com/zseano/status/1328870004008349696
+- Metrics (at fetch): bookmark 0, impression 0, like 37, quote 0, reply 7, retweet 1
+
+> 10 more mins of poking can’t hurt ... right?👀
+
+
+### Thread part 3 — @zseano — 2020-11-18 10:24 UTC (2020-11-18 11:24 WAT)
+
+- URL: https://x.com/zseano/status/1329007658125430784
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 3, retweet 0
+
+> 10 mins turned into another hour+, eventually hit the sack about 3am 😂
 
 
 ---

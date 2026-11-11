@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 121
+- Posts in this file: 122
 - Conversations/threads: 104
 - Oldest post captured: 2021-10-06
 - Newest post captured: 2026-11-11
@@ -326,7 +326,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2026-08-20 · Post · I earned $750 for my submission on @bugcrowd https://t.co/26PgFeKjpJ{id: "suyash_technorat"} ItTake
+## 2026-08-20 · Thread · I earned $750 for my submission on @bugcrowd https://t.co/26PgFeKjpJ{id: "suyash_technorat"} ItTake
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -339,6 +339,14 @@ Tags (automatic): Platform: Bugcrowd
 
 > I earned $750 for my submission on @bugcrowd https://t.co/26PgFeKjpJ{id: "suyash_technorat"} #ItTakesACrowd
 > Bug Type- Information Disclosure
+
+
+### Thread part 2 — @SuyashS91823422 — 2026-08-21 04:20 UTC (2026-08-21 05:20 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2090655357660283292
+- Metrics (at fetch): bookmark 0, impression 112, like 1, quote 0, reply 0, retweet 0
+
+> @mdp_sec @Bugcrowd Your bug bounty post motivates me🎖️
 
 
 ---

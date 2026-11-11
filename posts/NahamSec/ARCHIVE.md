@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1157
+- Posts in this file: 1163
 - Conversations/threads: 988
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
@@ -10104,7 +10104,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2021-09-02 · Post · I'm hosting live recon village at @Hacker0x01's hacktivitycon2021 where people show their recon too
+## 2021-09-02 · Thread · I'm hosting live recon village at @Hacker0x01's hacktivitycon2021 where people show their recon too
 
 
 Tags (automatic): Platform: HackerOne
@@ -10116,6 +10116,14 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 4, impression 0, like 154, quote 0, reply 11, retweet 17
 
 > I'm hosting live recon village at @Hacker0x01's #hacktivitycon2021 where people show their recon tools/workflow. Who would you like to see?
+
+
+### Thread part 2 — @NahamSec — 2021-09-02 21:19 UTC (2021-09-02 22:19 WAT)
+
+- URL: https://x.com/NahamSec/status/1433540165436272656
+- Metrics (at fetch): bookmark 0, impression 0, like 36, quote 0, reply 5, retweet 6
+
+> @Hacker0x01 Personally I'd love to see some work from @pry0cc, @ITSecurityguard, @0xpatrik, @smiegles, @d0nutptr, @infosec_au, @Rhynorater, @jeff_foley  and @hakluke. But curious to hear what the community would like!
 
 
 ---
@@ -10165,7 +10173,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2021-08-21 · Post · YOOO! I JUST GOT RCE ON THIS K8S THING I WAS HACKING ON.
+## 2021-08-21 · Thread · YOOO! I JUST GOT RCE ON THIS K8S THING I WAS HACKING ON.
 
 
 Tags (automatic): RCE
@@ -10177,6 +10185,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 12, impression 0, like 369, quote 0, reply 23, retweet 5
 
 > YOOO! I JUST GOT RCE ON THIS K8S THING I WAS HACKING ON.
+
+
+### Thread part 2 — @NahamSec — 2021-08-21 07:11 UTC (2021-08-21 08:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1428978021059334147
+- Metrics (at fetch): bookmark 0, impression 0, like 115, quote 0, reply 5, retweet 0
+
+> I have never done anything with k8s and holy fuck this feels good
 
 
 ---
@@ -12724,7 +12740,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2020-07-31 · Post · Most of my recon methodology in one slide :P Slides from  @Jhaddix's talk at hacktivitycon2020 http
+## 2020-07-31 · Thread · Most of my recon methodology in one slide :P Slides from  @Jhaddix's talk at hacktivitycon2020 http
 
 
 ### Post — @NahamSec — 2020-07-31 18:01 UTC (2020-07-31 19:01 WAT)
@@ -12736,6 +12752,16 @@ Tags (automatic): SSRF
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EeRe5JJU0AAcCoX.png — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2020-07-31 18:01 UTC (2020-07-31 19:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1289259905338052609
+- Metrics (at fetch): bookmark 12, impression 0, like 41, quote 0, reply 0, retweet 5
+
+> https://drive.google.com/file/d/1aG_qqRvNW-s5_8vvPk5rJiMSMeNL2uY9/view
+
+**Links in post:** https://drive.google.com/file/d/1aG_qqRvNW-s5_8vvPk5rJiMSMeNL2uY9/view
 
 
 ---
@@ -16171,7 +16197,7 @@ Tags (automatic): RCE, Platform: HackerOne
 
 ---
 
-## 2019-11-23 · Post · Jumping on twitch in a few minutes to automate more recon stuff and work on crtndstry a bit more. ht
+## 2019-11-23 · Thread · Jumping on twitch in a few minutes to automate more recon stuff and work on crtndstry a bit more. ht
 
 
 ### Post — @NahamSec — 2019-11-23 18:35 UTC (2019-11-23 19:35 WAT)
@@ -16184,6 +16210,14 @@ Tags (automatic): RCE, Platform: HackerOne
 > Oh and I may or may not have a swear jar on my desk now.
 
 **Links in post:** http://Twitch.tv/nahamsec
+
+
+### Thread part 2 — @NahamSec — 2019-11-23 19:02 UTC (2019-11-23 20:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1198315806347513856
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 1, reply 0, retweet 0
+
+> I'm almost to a $1000 on twitch. If you want to subscribe and help donate to a good cause, come see me live :)
 
 
 ---
@@ -16294,7 +16328,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2019-11-15 · Post · I did a random QA a week ago and it helped a few hackers get pointed in the right direction. Now I w
+## 2019-11-15 · Thread · I did a random QA a week ago and it helped a few hackers get pointed in the right direction. Now I w
 
 
 ### Post — @NahamSec — 2019-11-15 20:23 UTC (2019-11-15 21:23 WAT)
@@ -16307,6 +16341,16 @@ Tags (automatic): RCE
 > Here's your chance to do both: https://forms.gle/T9ns8oBfvEiWnEd47
 
 **Links in post:** https://forms.gle/T9ns8oBfvEiWnEd47
+
+
+### Thread part 2 — @NahamSec — 2019-11-15 20:23 UTC (2019-11-15 21:23 WAT)
+
+- URL: https://x.com/NahamSec/status/1195437181889703936
+- Metrics (at fetch): bookmark 8, impression 0, like 55, quote 1, reply 0, retweet 9
+
+> Here's the unofficial Twitch QA: https://www.youtube.com/watch?v=72c_JvL3Lbo&t=8s
+
+**Links in post:** https://www.youtube.com/watch?v=72c_JvL3Lbo&t=8s
 
 
 ---
@@ -18184,7 +18228,7 @@ Tags (automatic): SSRF
 
 ---
 
-## 2019-03-19 · Post · Welp, after a 3 year run, I've officially quit hacking on Airbnb's bug bounty program. Where to now?
+## 2019-03-19 · Thread · Welp, after a 3 year run, I've officially quit hacking on Airbnb's bug bounty program. Where to now?
 
 
 ### Post — @NahamSec — 2019-03-19 18:58 UTC (2019-03-19 19:58 WAT)
@@ -18193,6 +18237,14 @@ Tags (automatic): SSRF
 - Metrics (at fetch): bookmark 1, impression 0, like 42, quote 0, reply 15, retweet 0
 
 > Welp, after a 3 year run, I've officially quit hacking on Airbnb's bug bounty program. Where to now? 🤔
+
+
+### Thread part 2 — @NahamSec — 2019-03-20 17:44 UTC (2019-03-20 18:44 WAT)
+
+- URL: https://x.com/NahamSec/status/1108424062076751872
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> @MrTuxracer and they've funded a lot of my hobbies :P . I think I'll always get tempted to hack on them, but just need to switch my focus for a bit and look at something else for a while. I really enjoy deep diving into an app and learning how they do things.
 
 
 ---
@@ -18711,7 +18763,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2018-05-21 · Post · $36k Google App Engine RCE. 😱 https://t.co/PrC3XgIG0x
+## 2018-05-21 · Post · $36k Google App Engine RCE. 😱 https://sites.google.com/site/testsitehacking/-36k-google-app-engine-r
 
 
 Tags (automatic): RCE
@@ -18722,7 +18774,9 @@ Tags (automatic): RCE
 - URL: https://x.com/NahamSec/status/998411993039093761
 - Metrics (at fetch): bookmark 12, impression 0, like 281, quote 4, reply 7, retweet 122
 
-> $36k Google App Engine RCE. 😱 https://t.co/PrC3XgIG0x
+> $36k Google App Engine RCE. 😱 https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce
+
+**Links in post:** https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce
 
 
 ---

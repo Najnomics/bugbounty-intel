@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 124
+- Posts in this file: 125
 - Conversations/threads: 122
 - Oldest post captured: 2016-04-21
 - Newest post captured: 2026-10-29
@@ -2114,7 +2114,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2018-04-19 · Post · WebLogic RCE, JRMP again...XD
+## 2018-04-19 · Thread · WebLogic RCE, JRMP again...XD
 
 
 Tags (automatic): RCE
@@ -2126,7 +2126,20 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 4, impression 0, like 271, quote 0, reply 1, retweet 160
 
 > WebLogic RCE, JRMP again...XD
-> https://t.co/pWvU85ml3R
+> https://github.com/brianwrf/CVE-2018-2628
+
+**Links in post:** https://github.com/brianwrf/CVE-2018-2628
+
+
+### Thread part 2 — @orange_8361 — 2018-04-20 03:49 UTC (2018-04-20 04:49 WAT)
+
+- URL: https://x.com/orange_8361/status/987176328527921152
+- Metrics (at fetch): bookmark 2, impression 0, like 32, quote 0, reply 1, retweet 10
+
+> For exploits :P
+> https://github.com/search?l=Python&q=CVE-2018-2628&type=Repositories
+
+**Links in post:** https://github.com/search?l=Python&q=CVE-2018-2628&type=Repositories
 
 
 ---

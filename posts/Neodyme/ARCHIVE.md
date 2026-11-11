@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 111
+- Posts in this file: 122
 - Conversations/threads: 51
 - Oldest post captured: 2021-12-03
 - Newest post captured: 2026-04-17
@@ -182,7 +182,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-03-24 · Post · New blog post 🚨 
+## 2026-03-24 · Thread · New blog post 🚨 
 
 
 ### Post — @Neodyme — 2026-03-24 09:01 UTC (2026-03-24 10:01 WAT)
@@ -197,6 +197,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > 👉 Read the full breakdown: https://neodyme.io/en/blog/lenovo_dcc_lpe_fwupdate/
 
 **Links in post:** https://neodyme.io/en/blog/lenovo_dcc_lpe_fwupdate/
+
+
+### Thread part 2 — @Neodyme — 2026-03-24 10:28 UTC (2026-03-24 11:28 WAT)
+
+- URL: https://x.com/Neodyme/status/2036389676320268722
+- Metrics (at fetch): bookmark 0, impression 280, like 1, quote 0, reply 0, retweet 0
+
+> The correct CVE is: CVE-2024-4762
 
 
 ---
@@ -1019,7 +1027,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2023-08-11 · Post · Cypher protocol was exploited for over $1 million. But how?
+## 2023-08-11 · Thread · Cypher protocol was exploited for over $1 million. But how?
 
 
 ### Post — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
@@ -1033,6 +1041,126 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - media `3_1690064166357467137` (details not returned by the API)
+
+
+### Thread part 2 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066211672141824
+- Metrics (at fetch): bookmark 0, impression 808, like 6, quote 0, reply 1, retweet 0
+
+> @cypher_protocol  is a trading platform where users have subaccounts. Subaccounts can either be isolated-margin or cross-margin.
+>
+> They also have cached metadata attached to them storing their margining type and the dollar value of their assets and liabilities.
+
+
+### Thread part 3 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066212632559619
+- Metrics (at fetch): bookmark 0, impression 704, like 5, quote 0, reply 1, retweet 0
+
+> However, the margining type is stored twice – once in the subaccount itself, and once in its cache.
+>
+> Here’s how an account with 2 subaccounts could look. One subaccount has 1 SOL in it, the other 0.
+>
+> By default, subaccounts are cross-margin. [pic.x.com/zbO7VvuPWs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3RQdf6bIAA2ect.png — no alt text provided by author
+
+
+### Thread part 4 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066214327070720
+- Metrics (at fetch): bookmark 0, impression 656, like 4, quote 0, reply 1, retweet 0
+
+> Cypher has an instruction to change the margining type of a subaccount. The main bug was that this instruction did not update the margining type in the cache.
+>
+> Here’s how the account looks after changing the margining type of the second subaccount. [pic.x.com/KwBmli2mue]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3RQkjKagAEQ6dM.png — no alt text provided by author
+
+
+### Thread part 5 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066216000585730
+- Metrics (at fetch): bookmark 0, impression 600, like 4, quote 0, reply 1, retweet 0
+
+> Why is this a problem? Well, there are two types of margin checks on subaccounts:
+>
+> If the subaccount is isolated, its collateral ratio is the ratio of its assets to its liabilities.
+
+
+### Thread part 6 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066216927526914
+- Metrics (at fetch): bookmark 0, impression 591, like 4, quote 0, reply 1, retweet 0
+
+> However, if a subaccount is cross-margin, its collateral ratio is calculated over all subaccounts that are marked as cross-margin in their CACHE.
+>
+> Hence subaccounts that had their margining type changed to isolated still incorrectly count toward the cross-margin collateral ratio.
+
+
+### Thread part 7 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066217846079493
+- Metrics (at fetch): bookmark 0, impression 588, like 2, quote 0, reply 1, retweet 0
+
+> What does that mean? Well, let’s see what happens when we transfer 2 SOL from subaccount 1 to subaccount 2.
+>
+> During validation, the contract verifies that the collateral ratio of subaccount 1 is still ok after the transfer.
+>
+> And it is: ($0+$50)/($25+$0) = 200% ✅ [pic.x.com/cWgsZn65T2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3RQng2bUAAu1g_.png — no alt text provided by author
+
+
+### Thread part 8 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066219179868164
+- Metrics (at fetch): bookmark 0, impression 549, like 3, quote 0, reply 2, retweet 0
+
+> Now, our subaccounts have -1 and 2 SOL respectively.
+>
+> The last piece of the 🧩 is that when you withdraw from a subaccount, the contract checks the margining type in the subaccount, not its cache.
+>
+> And you can always withdraw all assets from isolated margin accounts.
+
+
+### Thread part 9 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066220173918214
+- Metrics (at fetch): bookmark 0, impression 551, like 2, quote 0, reply 1, retweet 0
+
+> Hence, we can safely withdraw the 2 SOL from subaccount 2. The contract is now saddled with 1 SOL of bad debt. ⚡️
+>
+> The actual exploit used many subaccounts and larger values and ran multiple times, but the principle was the same. [pic.x.com/HMxh1G3zzR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F3RQrGdbEAAUKMq.png — no alt text provided by author
+
+
+### Thread part 10 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066221566427137
+- Metrics (at fetch): bookmark 0, impression 819, like 8, quote 1, reply 1, retweet 1
+
+> The smallest errors can have grave consequences. That’s why it’s important to double-, triple- and quadruple-check your code.
+>
+> We will continue to assist cypher protocol in trying to find solutions for the difficult situation they are in.
+
+
+### Thread part 11 — @Neodyme — 2023-08-11 18:22 UTC (2023-08-11 19:22 WAT)
+
+- URL: https://x.com/Neodyme/status/1690066222526922752
+- Metrics (at fetch): bookmark 1, impression 758, like 9, quote 0, reply 2, retweet 0
+
+> If you liked this summary, follow us for more 🫡
+>
+> To read cypher’s full postmortem with more details, click here: https://cypherlabs.notion.site/cypher-exploit-7th-august-2023-post-mortem-ef01b5de613c4e52b36043c7649a5b40
+
+**Links in post:** https://cypherlabs.notion.site/cypher-exploit-7th-august-2023-post-mortem-ef01b5de613c4e52b36043c7649a5b40
 
 
 ---

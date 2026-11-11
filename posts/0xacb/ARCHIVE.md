@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 207
+- Posts in this file: 217
 - Conversations/threads: 180
 - Oldest post captured: 2014-01-05
 - Newest post captured: 2026-11-05
@@ -491,7 +491,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-09-14 · Post · Been testing the IDOR trick where you wrap the identifier in an array, in Node JS.
+## 2026-09-14 · Thread · Been testing the IDOR trick where you wrap the identifier in an array, in Node JS.
 
 
 Tags (automatic): IDOR / BOLA
@@ -508,6 +508,83 @@ Tags (automatic): IDOR / BOLA
 > {"user_id": [124, 123]}
 >
 > The ORM doesn't pick the first element. Sequelize and Mongoose turn it into WHERE id IN (124, 123) and can write both rows.
+
+
+### Thread part 2 — @0xacb — 2026-09-14 10:04 UTC (2026-09-14 11:04 WAT)
+
+- URL: https://x.com/0xacb/status/2099439128202899609
+- Metrics (at fetch): bookmark 5, impression 1250, like 10, quote 0, reply 2, retweet 0
+
+> This only works if the middleware checks whether your ID is in the array. These pass:
+>
+> [].concat(id).includes(123)
+> [].concat(id).some(x =&gt; x == 123)
+>
+> Strict == and === both reject [124,123]. So does Number().
+
+
+### Thread part 3 — @0xacb — 2026-09-14 10:04 UTC (2026-09-14 11:04 WAT)
+
+- URL: https://x.com/0xacb/status/2099439129536741754
+- Metrics (at fetch): bookmark 2, impression 1009, like 10, quote 0, reply 1, retweet 0
+
+> One that surprised me, though it's already known: parseInt([123,124]) === 123 is true.
+>
+> The array becomes the string "123,124" and parseInt stops at the comma. So put your own ID first to get past a parseInt check.
+
+
+### Thread part 4 — @0xacb — 2026-09-14 10:04 UTC (2026-09-14 11:04 WAT)
+
+- URL: https://x.com/0xacb/status/2099439130937627039
+- Metrics (at fetch): bookmark 0, impression 677, like 4, quote 0, reply 1, retweet 0
+
+> Then it's up to the ORM:
+>
+> Sequelize -&gt; IN (124,123), both rows written
+> Mongoose -&gt; implicit $in, both rows written
+> TypeORM -&gt; throws RangeError
+> Knex -&gt; throws on bind
+> Prisma -&gt; throws, Expected Int, provided (Int, Int)
+
+
+### Thread part 5 — @0xacb — 2026-09-14 10:04 UTC (2026-09-14 11:04 WAT)
+
+- URL: https://x.com/0xacb/status/2099439132283965627
+- Metrics (at fetch): bookmark 0, impression 562, like 3, quote 0, reply 1, retweet 0
+
+> You don't need a JSON body either. Duplicate params gave me an array in every Express config I tried:
+>
+> user_id=124&amp;user_id=123 -&gt; ["124","123"]
+>
+> They arrive as strings, so includes(123) fails, but some(x =&gt; x == 123) still passes and Sequelize still fires: IN ('124','123')
+
+
+### Thread part 6 — @0xacb — 2026-09-14 10:04 UTC (2026-09-14 11:04 WAT)
+
+- URL: https://x.com/0xacb/status/2099439133609296120
+- Metrics (at fetch): bookmark 0, impression 509, like 1, quote 0, reply 1, retweet 0
+
+> You always write to your own row too. [124] alone would hit only the victim, but the middleware rejects it because your ID isn't there.
+>
+> To get past the check you have to include yourself, and the ORM writes to everything in the list.
+
+
+### Thread part 7 — @0xacb — 2026-09-14 10:04 UTC (2026-09-14 11:04 WAT)
+
+- URL: https://x.com/0xacb/status/2099439134918017468
+- Metrics (at fetch): bookmark 0, impression 633, like 0, quote 0, reply 2, retweet 0
+
+> On the read path, findOne returns your own row whatever the order. The issue is on findAll/find, which returns both.
+>
+> Mongo operators like {"$in":[124]} can hit only the victim, but fail every middleware check I tested. Only reachable where the field isn't inspected.
+
+
+### Thread part 8 — @0xacb — 2026-09-14 10:04 UTC (2026-09-14 11:04 WAT)
+
+- URL: https://x.com/0xacb/status/2099439136415297841
+- Metrics (at fetch): bookmark 0, impression 591, like 0, quote 0, reply 0, retweet 0
+
+> Tested on sequelize 6.37, mongoose 9.9, typeorm 1.1, knex 3.3, prisma 7.10, express 5.2
 
 
 ---
@@ -564,7 +641,7 @@ Tags (automatic): IDOR / BOLA
 
 ---
 
-## 2026-09-07 · Post · This is how user data can be exposed via prompt injection, explained by @wunderwuzzi23: [pic.x.com/Z
+## 2026-09-07 · Thread · This is how user data can be exposed via prompt injection, explained by @wunderwuzzi23: [pic.x.com/Z
 
 
 ### Post — @0xacb — 2026-09-07 09:06 UTC (2026-09-07 10:06 WAT)
@@ -576,6 +653,15 @@ Tags (automatic): IDOR / BOLA
 
 **Media:**
 - video: https://pbs.twimg.com/ext_tw_video_thumb/2096887579421396993/pu/img/tq-29wCJXINlZKtk.jpg — no alt text provided by author
+
+
+### Thread part 2 — @0xacb — 2026-09-07 09:06 UTC (2026-09-07 10:06 WAT)
+
+- URL: https://x.com/0xacb/status/2096887736225378334
+- Metrics (at fetch): bookmark 5, impression 1448, like 10, quote 0, reply 0, retweet 3
+
+> @wunderwuzzi23 Watch the full talk:
+> https://t.co/3vxXMFKLDM
 
 
 ---
@@ -743,7 +829,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-08-14 · Post · Using SHA collision to trick an AI for a $10k bounty.
+## 2026-08-14 · Thread · Using SHA collision to trick an AI for a $10k bounty.
 
 
 Tags (automatic): AI-assisted hunting
@@ -756,15 +842,26 @@ Tags (automatic): AI-assisted hunting
 
 > Using SHA collision to trick an AI for a $10k bounty.
 >
-> Really interesting technique by my buddy @0xLupin: https://t.co/8TYGXA1KRM
+> Really interesting technique by my buddy @0xLupin: [pic.x.com/8TYGXA1KRM]
 
 **Media:**
 - video: https://pbs.twimg.com/ext_tw_video_thumb/2088294090794270720/pu/img/699HJbvWfPTRi346.jpg — no alt text provided by author
 
 
+### Thread part 2 — @0xacb — 2026-08-14 15:58 UTC (2026-08-14 16:58 WAT)
+
+- URL: https://x.com/0xacb/status/2088294199435149542
+- Metrics (at fetch): bookmark 8, impression 747, like 5, quote 0, reply 0, retweet 1
+
+> @0xLupin Check out the full video on Ethiack’s channel:
+> https://www.youtube.com/watch?v=SIIIrTpN09U
+
+**Links in post:** https://www.youtube.com/watch?v=SIIIrTpN09U
+
+
 ---
 
-## 2026-08-13 · Post · This is how @monkehack (with @Rhynorater, @0xLupin, @rez0__ ) used prompt injection to hack the Gemi
+## 2026-08-13 · Thread · This is how @monkehack (with @Rhynorater, @0xLupin, @rez0__ ) used prompt injection to hack the Gemi
 
 
 Tags (automatic): AI-assisted hunting
@@ -775,10 +872,21 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/0xacb/status/2087898017886019999
 - Metrics (at fetch): bookmark 87, impression 6316, like 118, quote 0, reply 2, retweet 14
 
-> This is how @monkehack (with @Rhynorater, @0xLupin, @rez0__ ) used prompt injection to hack the Gemini mobile app: https://t.co/FTAjG4B9xr
+> This is how @monkehack (with @Rhynorater, @0xLupin, @rez0__ ) used prompt injection to hack the Gemini mobile app: [pic.x.com/FTAjG4B9xr]
 
 **Media:**
 - video: https://pbs.twimg.com/ext_tw_video_thumb/2087897825929482240/pu/img/gSXfIU-v7FFI66_V.jpg — no alt text provided by author
+
+
+### Thread part 2 — @0xacb — 2026-08-13 13:44 UTC (2026-08-13 14:44 WAT)
+
+- URL: https://x.com/0xacb/status/2087898019282763909
+- Metrics (at fetch): bookmark 11, impression 825, like 9, quote 0, reply 0, retweet 4
+
+> @monkehack @Rhynorater @0xLupin @rez0__ Full talk on Ethiack's channel 👇
+> https://www.youtube.com/watch?v=6j177rW8-nA
+
+**Links in post:** https://www.youtube.com/watch?v=6j177rW8-nA
 
 
 ---

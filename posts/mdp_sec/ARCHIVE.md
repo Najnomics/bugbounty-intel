@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 590
-- Conversations/threads: 455
+- Posts in this file: 593
+- Conversations/threads: 458
 - Oldest post captured: 2026-07-22
 - Newest post captured: 2026-11-11
 
@@ -11637,6 +11637,33 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-08-20 · Reply · @SuyashS91823422 @Bugcrowd Grats fam
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @SuyashS91823422 — 2026-08-20 16:14 UTC (2026-08-20 17:14 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2090472571242520911
+- Metrics (at fetch): bookmark 5, impression 2869, like 53, quote 0, reply 5, retweet 1
+
+> I earned $750 for my submission on @bugcrowd https://t.co/26PgFeKjpJ{id: "suyash_technorat"} #ItTakesACrowd
+> Bug Type- Information Disclosure
+
+
+### Post — @mdp_sec — 2026-08-20 20:31 UTC (2026-08-20 21:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2090537284437467252
+- Metrics (at fetch): bookmark 0, impression 172, like 0, quote 0, reply 1, retweet 0
+
+> @SuyashS91823422 @Bugcrowd Grats fam
+
+
+---
+
 ## 2026-08-20 · Post · Legit hope this becomes a permanent thing
 
 
@@ -12634,6 +12661,35 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2026-08-04 · Reply · @krishnsec @Bugcrowd Oooftt grats
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @krishnsec — 2026-08-04 13:28 UTC (2026-08-04 14:28 WAT)
+
+- URL: https://x.com/krishnsec/status/2084632582151602681
+- Metrics (at fetch): bookmark 5, impression 6162, like 215, quote 0, reply 13, retweet 3
+
+> Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HO4aSFabkAAyez5.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-08-04 19:57 UTC (2026-08-04 20:57 WAT)
+
+- URL: https://x.com/mdp_sec/status/2084730396479311910
+- Metrics (at fetch): bookmark 0, impression 245, like 2, quote 0, reply 1, retweet 0
+
+> @krishnsec @Bugcrowd Oooftt grats
+
+
+---
+
 ## 2026-08-04 · Post · Testing out my new flow. 
 
 
@@ -12728,6 +12784,33 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HOyszzwaMAAxfIT.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-03 · Reply · @krishnsec @Bugcrowd @an1msh_ @d00xing gotta catch up to you legends
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @krishnsec — 2026-08-03 05:35 UTC (2026-08-03 06:35 WAT)
+
+- URL: https://x.com/krishnsec/status/2084151170252312970
+- Metrics (at fetch): bookmark 0, impression 896, like 5, quote 0, reply 1, retweet 0
+
+> @mdp_sec @Bugcrowd @an1msh_ @d00xing 😂 man you r doing gr8 job too 👏
+> keep digging hard
+
+
+### Post — @mdp_sec — 2026-08-03 05:39 UTC (2026-08-03 06:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2084152096824435080
+- Metrics (at fetch): bookmark 0, impression 561, like 2, quote 0, reply 1, retweet 0
+
+> @krishnsec @Bugcrowd @an1msh_ @d00xing gotta catch up to you legends
 
 
 ---

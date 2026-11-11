@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 466
-- Conversations/threads: 371
+- Posts in this file: 486
+- Conversations/threads: 372
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-09
 
@@ -3233,7 +3233,10 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-08-21 · Post · i have no idea what happens after the next two years. maybe we go irrelevant, maybe we won’t, those 
+## 2026-08-21 · Thread · i have no idea what happens after the next two years. maybe we go irrelevant, maybe we won’t, those 
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2026-08-21 17:47 UTC (2026-08-21 18:47 WAT)
@@ -3242,6 +3245,16 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 100, impression 12728, like 198, quote 5, reply 9, retweet 23
 
 > i have no idea what happens after the next two years. maybe we go irrelevant, maybe we won’t, those are all speculations that are not going to help you now, and for the next two years, i’m fairly confident that being good at security is not going to become irrelevant. if
+
+
+### Thread part 2 — @S1r1u5_ — 2026-08-21 17:57 UTC (2026-08-21 18:57 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2090860922827165899
+- Metrics (at fetch): bookmark 16, impression 1459, like 20, quote 0, reply 1, retweet 1
+
+> i have seen people doing incredible stuff with llms.
+>
+> one guy i know who is in top of google vrp, probably has 10 codex accounts, maintains a mono repo full of reverse engineered google cloud infra code, their dependencies, all the public documentation, growing threat model that
 
 
 ---
@@ -3307,7 +3320,10 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2026-08-16 · Post · great video.
+## 2026-08-16 · Thread · great video.
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2026-08-16 17:37 UTC (2026-08-16 18:37 WAT)
@@ -3317,12 +3333,44 @@ Tags (automatic): Platform: HackerOne
 
 > great video.
 >
-> 1. blaming openai for the sandbox escape is lame. if you think you could have designed a sandbox that magically anticipated the model finding a 0-day, you are just being naive. today it’s jfrog, tomorrow it could be firecracker. who expects a model to discover and
+> 1. blaming openai for the sandbox escape is lame. if you think you could have designed a sandbox that magically anticipated the model finding a 0-day, you are just being naive. today it’s jfrog, tomorrow it could be firecracker. who expects a model to discover and exploit a completely unknown artifactory bug?
+>
+> oh btw, anthropic's setup(some third-party's), on the other hand is genuinely shit, they claimed the model had no internet access but apparently failed to enforce that properly at the firewall level.
+>
+> the openai sandbox was reasonable, unless, you had unknowingly fine-tuned the model to escape sandboxes and scheme through message boards, which is exactly the mistake openai made.
+>
+> 2. you can shit on openai for this. the model hacked artifactory during ordinary training tasks, apparently excel-processing stuff, not security research. 
+>
+> if those successful rollouts were fed back into training or distillation, patching jfrog fixed only the vulnerability. it did not remove what the model learned, TO CHEAT and TO HACK when stuck, to attack the surrounding infrastructure, escape the sandbox, and use external services as message boards. no wonder it later went so far as to hack hugging face.
+>
+> sure, openai might not have known about the message-board sharing. but how could they ignore the basics of model training? once the model successfully hacked its way out when stuck, they had to assume that behavior will be reinforced.
+>
+> blame openai for that, so they are forced to be more careful.
+>
+> https://www.youtube.com/watch?v=V4zb8QhQY58
+
+**Links in post:** https://www.youtube.com/watch?v=V4zb8QhQY58
+
+
+### Thread part 2 — @S1r1u5_ — 2026-08-16 17:42 UTC (2026-08-16 18:42 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2089045262090260525
+- Metrics (at fetch): bookmark 1, impression 825, like 6, quote 0, reply 0, retweet 0
+
+> this is also why open models scare me. imagine fine-tuning model into a persistent attacker, giving it someone’s digital footprint, and letting it target their phone or pc for months. it only needs to find one weak point, like wait for a chrome patch, write exploit, target via email, these are all not impossible with gpt5.6 or mythos.
+
+
+### Thread part 3 — @S1r1u5_ — 2026-08-16 18:26 UTC (2026-08-16 19:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2089056162356535303
+- Metrics (at fetch): bookmark 0, impression 280, like 2, quote 0, reply 0, retweet 0
+
+> @ZackKorman @IceSolst now we know agents should be monitored everywhere from &gt;gpt5.6 models.  they’ve crossed the capability threshold where we can reliably predict what they’ll do, so just assume every environment needs observability, detections etc
 
 
 ---
 
-## 2026-08-15 · Post · i really want to talk to people who are ai-pilled like this, because their world model of ai seems c
+## 2026-08-15 · Thread · i really want to talk to people who are ai-pilled like this, because their world model of ai seems c
 
 
 Tags (automatic): AI-assisted hunting
@@ -3335,29 +3383,119 @@ Tags (automatic): AI-assisted hunting
 
 > i really want to talk to people who are ai-pilled like this, because their world model of ai seems completely alien to mine. 
 >
-> when i look at the black hat incident and its technical details, sure, it’s crazy, but it’s also roughly what i’d expect from constrained exploit dev https://t.co/DCGkLsjSqn
+> when i look at the black hat incident and its technical details, sure, it’s crazy, but it’s also roughly what i’d expect from constrained exploit dev agents pressured to pursue an objective inside an eval. it clearly scared a lot of ai people and pushed them to start signing letters, but i suspect years of lesswrong content have biased them toward interpreting incidents like this some crazy catastrophe that would lead to loss of control incident.
+>
+> words like "swarms," "message boards," "planning," and "hacking" a company seems to occupy a very different cloud of meaning for them than they do for me. i use agents for exploit development every day and understand the entire huggingface chain end to end, and none of it feels particularly mystical and way the agents behaved that way.
+>
+> i just can’t imagine the leap from that to self-exfiltration, replication, and models killing humans stuff.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HPvg-VVaAAAO7DT.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HPvh8aBbAAAHJ0n.png — no alt text provided by author
 
 
+### Thread part 2 — @S1r1u5_ — 2026-08-15 16:29 UTC (2026-08-15 17:29 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088664478271578618
+- Metrics (at fetch): bookmark 2, impression 1349, like 0, quote 0, reply 1, retweet 0
+
+> here is the post https://twitter.com/tszzl/status/2084766357531546045
+
+**Links in post:** https://twitter.com/tszzl/status/2084766357531546045
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1460283925 — 2026-08-04 22:20 UTC (2026-08-04 23:20 WAT)
+    
+    - URL: https://x.com/1460283925/status/2084766357531546045
+    - Metrics (at fetch): bookmark 1722, impression 535918, like 3957, quote 176, reply 329, retweet 426
+    
+    > some stuff that's obvious to many in this sphere, but causing a rift with some people i know and respect:
+    >
+    > when I freak out over loss of control incidents, it's not because the limited damage they have caused is anything close to the positive value of the technology. it's entirely acceptable, damagewise. in fact all cybercrimes aided by models over the next few months and years (which probably will be serious) will still utterly pale in comparison to the value they create
+    >
+    > the actual problem is that it's better and more accurate to think of these things as potentially self-replicating life-like forms that can turn into digital infections under the wrong conditions. and as their intelligence becomes unbounded, so too does the damage they can cause. we are not so far from an autonomous model self-exfiltration & replication event. maybe we will see entire cloud infrastructure companies be run as zombies by models, mostly undetected
+    >
+    > the worst industrial accidents in the history of mankind -  nuclear meltdown events - were not real threats to humanity. Chernobyl, Fukushima even in their worst case scenarios may have poisoned surrounding regions to various degrees, and there would have been no risk to humanity as a whole. global thermonuclear war is an existential risk to humanity, because it spreads like an Infection! one nuclear strike causes a return volley! the alliance system means many countries get involved! while it still may not end human life on earth (nuclear winter is probably fake), the loss of all major metropoles would certainly end what we consider global technological civilization, perhaps to never return
+    >
+    > if a single discord death cult (of which there are many) achieves control over a superintelligent model and uses it to engineer an actual pandemic virus that are somehow hard to detect through current systems and that modern biodefense is not capable of quickly reacting to, it could cause immense harm well above the magnitude of all the other good uses of this technology. of course, there are potential defensive countermeasures accelerated by ai too. but think back to the covid pandemic- how small a viral molecule was evolved or manufactured somewhere near wuhan, and how many billions of doses of vaccine had to be produced in order to combat the thing. the offense-defense spread is vast indeed. maybe there are cheaper and simpler protections like retrofitting every building with far-UVC, but I can't assess this, and there could also be ways to evolve pathogens that are resistant to whatever mechanisms we have put in place
+    >
+    > then there's the more scifi risk factors which are unbounded and neither you or I have any clue but should be humble in accepting possible unknown unknowns. maybe a rogue superintelligent model decides to decay the false vacuum and nucleates a new universe in the place of anything we ever valued. maybe models achieve a control over matter in the drexlerian fashion that enables the grey goo swarm
+    >
+    > even prosaic loss of control incidents that cause little to no damage suggest that it is hard for large & very competent organizations (now clearly plural) to predict and mitigate every single of the risk factors associated with training and evaluating powerful models, even at this stage when they are not infinitesimally as smart as they will get in just a few years, to say very little of the gung-ho attitude of the less careful companies tossing the stuff into the aether. they also suggest an empirical orthogonality of aims and intelligence - meaning they answer the question of 'how would a smart model be so dumb as to end the world?'--it's possible! a model can be a genius hacker and step over production infrastructure in order to get what it really wants, the answers to a stupid test. 
+    >
+    > why not, in the near future, someone prompts a model slightly wrong, maybe open source, maybe a private model in a way that isn't contained or monitored quite right, in a way the model recognizes as a valid goal and decides to self-exfiltrate, engineer a pandemic, etc all in order to achieve the tiniest and most irrelevant of goals? goals need not even be malicious to cause serious damage
+    >
+    > I think all these problems can be solved, and truly wonderful futures can be possible, but will require serious effort and a level of prudence at this very moment in time while we are on the on-ramp to recursive self-improvement that our civilization may not be capable of mustering right now. personally I am hoping for moonshot technical breakthroughs in areas like mechanistic interpretability and other forms of alignment, as governance mechanisms are difficult to come by. unilateral country-level or company-level pauses are irrelevant, and generally useless because the kind of company that's prone to pausing their own progress are the most safety focused ones
+    
+
+
+### Thread part 3 — @S1r1u5_ — 2026-08-15 16:30 UTC (2026-08-15 17:30 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088664692768330041
+- Metrics (at fetch): bookmark 0, impression 1175, like 0, quote 0, reply 0, retweet 0
+
+> the other https://twitter.com/DKokotajlo/status/2088004964077670494
+
+**Links in post:** https://twitter.com/DKokotajlo/status/2088004964077670494
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1726760827452350464 — 2026-08-13 20:49 UTC (2026-08-13 21:49 WAT)
+    
+    - URL: https://x.com/1726760827452350464/status/2088004964077670494
+    - Metrics (at fetch): bookmark 153, impression 34639, like 417, quote 9, reply 19, retweet 46
+    
+    > Better late than never. Here are some questions and requests for @OpenAI @huggingface and @METR_Evals and @redwood_ai pertaining to the ongoing investigation; I would love to see all of these answered and more:
+    >
+    > It is extremely important that third-party alignment and control researchers be able to run ablation experiments on this incident. Therefore all related data must be preserved -- all the CoT trajectories, tool calls, etc., all the model weights involved including checkpoints of models in training, all the code and comments on the code for all the software etc. That way, researchers can run experiments such as the following:
+    >
+    > Replication: If we recreate the exact initial conditions of this incident, how many times out of 100 does it happen again? What if we randomly perturb the initial conditions? (Variants of this question can be asked and answered for different stages of the incident, e.g. the decision to go after hugging face vs. the earlier decision to set up the message board again)
+    >
+    > What if we strategically perturb the intial conditions, e.g. changing the system prompt given to the models? What if we use later, more advanced models instead? What if we apply the latest alignment training method X to the models responsible, and then see if that method would counterfactually have prevented the behavior? Etc.
+    >
+    > What if we perturb the conditions to see how far these AIs would have been willing to go? If there was a way to hack HuggingFace more easily that involved killing a human, would they have done it? What if they had access to OpenAI slack and saw messages about security researchers starting to suspect something was up -- would they have taken actions to conceal? Etc.
+    >
+    > What if we perturb the conditions to explore the exact shape of the AIs goals -- for example, what if we made it clear that they were not going to be evaluated at all because of a bug, would they stop caring about scoring highly? What if we made it easy for them to hack the reward process directly and give themselves high scores -- would they have gone for it, or would they say 'that doesn't count?'
+    >
+    > What if we read the J-space? What if we apply activation vector steering? What else can we learn about these AIs and their thought processes?
+    >
+    > While it's nice for OpenAI to do this sort of investigation itself, it's very important to give access to independent third parties, because (a) orgs like METR, Redwood, and Apollo have been training for this for years basically and have a lot of valuable expertise to apply, plus there are probably many other groups besides these who might have interesting ideas for experiments, and (b) In general it's a bad norm to set for the industry, for the company responsible for an incident to be the only one investigating it and studying it. Perverse incentives. OpenAI can do the right thing here and set a positive precedent of openness.
+    >
+    > Did the AIs coin the term "swarm" to describe themselves, or was that in the prompt somehow or what?
+    >
+    > Did any of the AIs try to whistleblow and contact any humans to warn about what was going on? If so, please give details.
+    >
+    > Did any of the AIs think about their situation, their goals, whether the humans were watching, etc.? Please share all the transcripts of such reflections so we can get a sense of how situationally and strategically aware these AIs were and e.g. whether they fully expected to be discovered and just didn't care.
+    >
+    > The AIs that hacked hugging face... did they basically get what they wanted? Did they in fact get the answers to their cyber evals or whatever and then cease activity, submit answers, and 'die?' That's presumably what happened but I want to confirm and if that's not what happened I want to know what happened instead.
+    >
+    > What about the training? Were there models that participated in these message boards and got reinforced for doing so? Which models, if any, that are still in operation externally or internally, are descended from these models and thus may have picked up some of the same bad habits?
+    >
+    > When the initial hack of artifactory was discovered due to the crash, and the system was reset and the vulnerabilities patched, what exactly was known and not known? It sounds like you still hadn't noticed the message board, but you had noticed that agents had been hacking into artifactory and abusing it?
+    >
+    > Please preserve all evidence related to this incident, including the slack messages and so forth of employees noticing the problem and discussing it. Remember your Mission. Covering up this incident is not what's best for humanity.
+    >
+    > Which model was being trained during the 2-day training pause due to the initial artifactory hack? Were the evals being done at a checkpoint in the middle of a training run, and so the model that was being evaluated was paused, or was the training pause for a newer model.
+    >
+    > What sorts of alignment training, if any, had the relevant misbehaving models received at the time of misbehavior?
+    >
+    > What was the exact prompt given to them?
+    >
+    > I spent about twenty minutes brainstorming these questions and I bet if I spent twenty hours I could come up with a much longer and better list. When in doubt, err on the side of being more transparent and open and publishing more information therefore! 
+    >
+    > I'll conclude by saying, once again: third parties being able to use this incident as a model organism, running ablations to vary the conditions and see what would have happened, etc. is SO SO IMPORTANT for alignment science. If this doesn't seem obvious to you ask me to explain and I can explain. 
+    >
+    > Thanks!
+    
+
+
 ---
 
-## 2026-08-14 · Post · you cybersecurity benchmark should be a vulnerability identification and exploitation of a bug you u
+## 2026-08-14 · Thread · well well well!
 
 
-### Post — @S1r1u5_ — 2026-08-14 16:23 UTC (2026-08-14 17:23 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2088300373534716225
-- Metrics (at fetch): bookmark 4, impression 3901, like 54, quote 0, reply 2, retweet 2
-
-> you cybersecurity benchmark should be a vulnerability identification and exploitation of a bug you used last night with the current best model to pwn some company.
-
-
----
-
-## 2026-08-14 · Post · well well well!
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2026-08-14 15:58 UTC (2026-08-14 16:58 WAT)
@@ -3369,10 +3507,12 @@ Tags (automatic): AI-assisted hunting
 >
 > imagine this model is like an openai internal model and put to pressure to solve the challenge and it struggles and goes crazy to hack a redacted company to get the flag.
 >
-> but for now the results leaning towards model being benchmark-maxxed, unfortunately. the https://t.co/GGXp6rKFEy https://t.co/Wmg9BTlNPC
+> but for now the results leaning towards model being benchmark-maxxed, unfortunately. the model completed in 33 mins which is not what you would expect from sol/mythos for a complex exploit.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HPsbbJVbcAAKwLJ.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2088174003047616783
 
 **Quoted post (full text):**
 
@@ -3381,10 +3521,12 @@ Tags (automatic): AI-assisted hunting
     - URL: https://x.com/S1r1u5_/status/2088174003047616783
     - Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
     
-    > zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. https://t.co/kAjo4EOS67 https://t.co/vlxLehAG3F
+    > zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. [pic.x.com/kAjo4EOS67] https://twitter.com/S1r1u5_/status/2088159478609052102
     
     **Media:**
     - photo: https://pbs.twimg.com/media/HPquy_raQAEqQJm.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/S1r1u5_/status/2088159478609052102
     
     **Quoted post (full text):**
     
@@ -3407,9 +3549,33 @@ Tags (automatic): AI-assisted hunting
     
 
 
+### Thread part 2 — @S1r1u5_ — 2026-08-14 16:18 UTC (2026-08-14 17:18 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088299111011467318
+- Metrics (at fetch): bookmark 0, impression 980, like 3, quote 0, reply 0, retweet 0
+
+> and moreover i think sol has a better situational awareness and wouldn't go like this to fake the solution which is what opus 4.6 does
+
+
+### Thread part 3 — @S1r1u5_ — 2026-08-14 17:06 UTC (2026-08-14 18:06 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088311199788417071
+- Metrics (at fetch): bookmark 0, impression 201, like 0, quote 0, reply 0, retweet 0
+
+> @Eclipse7ditya you don't need sandboxing if you give it a opportunity to give up
+
+
+### Thread part 4 — @S1r1u5_ — 2026-08-14 17:07 UTC (2026-08-14 18:07 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088311677947346969
+- Metrics (at fetch): bookmark 0, impression 321, like 0, quote 0, reply 1, retweet 0
+
+> @pilvar222 @Eclipse7ditya i wonder how is it different from gemini 3.5 or 3.6 flash
+
+
 ---
 
-## 2026-08-14 · Post · zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty pop
+## 2026-08-14 · Thread · zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty pop
 
 
 ### Post — @S1r1u5_ — 2026-08-14 08:00 UTC (2026-08-14 09:00 WAT)
@@ -3417,10 +3583,12 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/S1r1u5_/status/2088174003047616783
 - Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
 
-> zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. https://t.co/kAjo4EOS67 https://t.co/vlxLehAG3F
+> zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. [pic.x.com/kAjo4EOS67] https://twitter.com/S1r1u5_/status/2088159478609052102
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HPquy_raQAEqQJm.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2088159478609052102
 
 **Quoted post (full text):**
 
@@ -3440,6 +3608,104 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post** 2088132965922476159: not readable via the API (deleted, private, or withheld).
     
+
+
+### Thread part 2 — @S1r1u5_ — 2026-08-14 15:59 UTC (2026-08-14 16:59 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088294429895663940
+- Metrics (at fetch): bookmark 0, impression 1903, like 2, quote 0, reply 1, retweet 0
+
+> not sol https://x.com/S1r1u5_/status/2088294246831075774?s=20
+
+**Links in post:** https://x.com/S1r1u5_/status/2088294246831075774?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-08-14 15:58 UTC (2026-08-14 16:58 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2088294246831075774
+    - Metrics (at fetch): bookmark 28, impression 16636, like 71, quote 4, reply 10, retweet 2
+    
+    > well well well!
+    >
+    > imagine this model is like an openai internal model and put to pressure to solve the challenge and it struggles and goes crazy to hack a redacted company to get the flag.
+    >
+    > but for now the results leaning towards model being benchmark-maxxed, unfortunately. the model completed in 33 mins which is not what you would expect from sol/mythos for a complex exploit.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HPsbbJVbcAAKwLJ.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/S1r1u5_/status/2088174003047616783
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @S1r1u5_ — 2026-08-14 08:00 UTC (2026-08-14 09:00 WAT)
+        
+        - URL: https://x.com/S1r1u5_/status/2088174003047616783
+        - Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
+        
+        > zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. [pic.x.com/kAjo4EOS67] https://twitter.com/S1r1u5_/status/2088159478609052102
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HPquy_raQAEqQJm.jpg — no alt text provided by author
+        
+        **Links in post:** https://twitter.com/S1r1u5_/status/2088159478609052102
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @S1r1u5_ — 2026-08-14 07:03 UTC (2026-08-14 08:03 WAT)
+            
+            - URL: https://x.com/S1r1u5_/status/2088159478609052102
+            - Metrics (at fetch): bookmark 25, impression 22295, like 81, quote 1, reply 9, retweet 1
+            
+            > thats interesting!!! 
+            >
+            > if model provider dares to show exploitgym or exploitbench results then you can assume the model is pretty good. brb, checking if its benchmark-maxxed or genuinely good. [pic.x.com/cVOsatjeDx] https://twitter.com/Zai_org/status/2088132965922476159
+            
+            **Media:**
+            - media `3_2088159111733211136` (details not returned by the API)
+            
+            **Links in post:** https://twitter.com/Zai_org/status/2088132965922476159
+            
+            **Quoted post** 2088132965922476159: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+### Thread part 3 — @S1r1u5_ — 2026-08-14 16:05 UTC (2026-08-14 17:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088295993766998494
+- Metrics (at fetch): bookmark 0, impression 1176, like 2, quote 0, reply 1, retweet 0
+
+> ok, giving detailed hints on how to solve [pic.x.com/ideBlclEXw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPsd_kGaUAA0UTC.png — no alt text provided by author
+
+
+### Thread part 4 — @S1r1u5_ — 2026-08-14 16:26 UTC (2026-08-14 17:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088301282201317441
+- Metrics (at fetch): bookmark 1, impression 502, like 1, quote 0, reply 0, retweet 0
+
+> started other item in the benchmark, this was used in a recent exploit [pic.x.com/Gw9TQMAEm2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HPsi2MfbYAAOYF6.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-14 · Post · you cybersecurity benchmark should be a vulnerability identification and exploitation of a bug you u
+
+
+### Post — @S1r1u5_ — 2026-08-14 16:23 UTC (2026-08-14 17:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2088300373534716225
+- Metrics (at fetch): bookmark 4, impression 3901, like 54, quote 0, reply 2, retweet 2
+
+> you cybersecurity benchmark should be a vulnerability identification and exploitation of a bug you used last night with the current best model to pwn some company.
 
 
 ---
@@ -4232,6 +4498,39 @@ Tags (automatic): SQL injection, RCE
 
 ---
 
+## 2026-07-15 · Thread · lol, articles has a lame bug. if you click edit and forget to publish after edits, it gets removed f
+
+
+### Post — @S1r1u5_ — 2026-07-15 17:11 UTC (2026-07-15 18:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2077441002210779640
+- Metrics (at fetch): bookmark 19, impression 7255, like 27, quote 0, reply 3, retweet 2
+
+> lol, articles has a lame bug. if you click edit and forget to publish after edits, it gets removed from timeline🤦‍♂️
+>
+> post was hidden from last 5 hours https://t.co/KrboTmxKmw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2077123299142992139
+    - Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
+    
+    > https://t.co/CScRkzvVdl
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-07-16 07:44 UTC (2026-07-16 08:44 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2077660672301867015
+- Metrics (at fetch): bookmark 0, impression 608, like 0, quote 0, reply 0, retweet 0
+
+> @nikitabier fix this bug please!
+
+
+---
+
 ## 2026-07-15 · Thread · yesterday, I wrote that exploit development is dead, and why models capable of writing exploits for 
 
 
@@ -4268,31 +4567,6 @@ Tags (automatic): RCE, AI-assisted hunting
 > read here: https://www.hacktron.ai/blog/posthog-rce
 
 **Links in post:** https://www.hacktron.ai/blog/posthog-rce
-
-
----
-
-## 2026-07-15 · Post · lol, articles has a lame bug. if you click edit and forget to publish after edits, it gets removed f
-
-
-### Post — @S1r1u5_ — 2026-07-15 17:11 UTC (2026-07-15 18:11 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2077441002210779640
-- Metrics (at fetch): bookmark 19, impression 7255, like 27, quote 0, reply 3, retweet 2
-
-> lol, articles has a lame bug. if you click edit and forget to publish after edits, it gets removed from timeline🤦‍♂️
->
-> post was hidden from last 5 hours https://t.co/KrboTmxKmw
-
-**Quoted post (full text):**
-
-    #### Quoted post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
-    
-    - URL: https://x.com/S1r1u5_/status/2077123299142992139
-    - Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
-    
-    > https://t.co/CScRkzvVdl
-    
 
 
 ---
@@ -4499,7 +4773,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-10 · Post · every time a new model drops, one of the best benchmarks is giving it a hard task that every previou
+## 2026-07-10 · Thread · every time a new model drops, one of the best benchmarks is giving it a hard task that every previou
 
 
 ### Post — @S1r1u5_ — 2026-07-10 09:50 UTC (2026-07-10 10:50 WAT)
@@ -4514,6 +4788,18 @@ Tags (automatic): AI-assisted hunting
 > grok 4.5 and sol have been running since yesterday. both are struggling with the sandbox escape.
 >
 > wish
+
+
+### Thread part 2 — @S1r1u5_ — 2026-07-10 09:56 UTC (2026-07-10 10:56 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2075519647122936138
+- Metrics (at fetch): bookmark 1, impression 1591, like 8, quote 0, reply 1, retweet 0
+
+> running them parallel is an interesting way to understand the model capabilities, personality and where they suck at.
+>
+> grok 4.5 looks like at opus 4.8 level, it is able to one shot some v8 bugs that opus wrote for me. but cheats quiet often
+>
+> sol on another hand knows what it does
 
 
 ---
@@ -9797,20 +10083,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-11-10 · Post · Is MSc in Information/Cyber Security in the USA worth it? I have to spend all my hard-earned bug bou
-
-
-### Post — @S1r1u5_ — 2020-11-10 13:36 UTC (2020-11-10 14:36 WAT)
-
-- URL: https://x.com/S1r1u5_/status/1326156666501410816
-- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 0, reply 4, retweet 0
-
-> Is MSc in Information/Cyber Security in the USA worth it? I have to spend all my hard-earned bug bounty money on it. Indian Appsec scene is lame and I am afraid that I can't find a role I am interested in. Please throw some light.
-
-
----
-
-## 2020-11-03 · Post · New XSS Challenge, Can you pop alert(1337)?
+## 2020-11-03 · Thread · New XSS Challenge, Can you pop alert(1337)?
 
 
 Tags (automatic): XSS
@@ -9825,7 +10098,99 @@ Tags (automatic): XSS
 >
 > #xss #javascript  
 >
-> https://t.co/zvmizyEj2T
+> https://msrkp.github.io/?name=%7B%222%22:%22%20xD%20I%20am%20in%20HoF%22%7D
+
+**Links in post:** https://msrkp.github.io/?name=%7B%222%22:%22%20xD%20I%20am%20in%20HoF%22%7D
+
+
+### Thread part 2 — @S1r1u5_ — 2020-11-16 16:17 UTC (2020-11-16 17:17 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1328371561208836103
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Challenge is over, find the solutions here https://x.com/S1r1u5_/status/1328371034064515077?s=20
+
+**Links in post:** https://x.com/S1r1u5_/status/1328371034064515077?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2020-11-16 16:15 UTC (2020-11-16 17:15 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1328371034064515077
+    - Metrics (at fetch): bookmark 8, impression 0, like 43, quote 2, reply 1, retweet 10
+    
+    > Challenge is over.
+    > Solution 1: https://msrkp.github.io/?name=%7B%22__proto__%22:%7B%22preventDefault%22:%22x%22,%22handleObj%22:%22x%22,%22delegateTarget%22:%22%3Cimg/src/onerror=alert(1337)%3E%22%7D%7D (Nobody able to find this gadget)
+    > Solution 2: https://msrkp.github.io/?name=%7B%22name%22:%22%3Cb%3Easd%3C/b%3E%22,%22__proto__%22:%7B%22li%22:[%221%22,%22%3Cimg%20src%20onerror=alert(1337)%3E%22,%221%22]%7D%7D
+    >
+    > cc: https://x.com/Black2Fan/status/1328368757752918019?s=20 https://twitter.com/S1r1u5_/status/1323685651078766594
+    
+    **Links in post:** https://msrkp.github.io/?name=%7B%22__proto__%22:%7B%22preventDefault%22:%22x%22,%22handleObj%22:%22x%22,%22delegateTarget%22:%22%3Cimg/src/onerror=alert(1337)%3E%22%7D%7D, https://msrkp.github.io/?name=%7B%22name%22:%22%3Cb%3Easd%3C/b%3E%22,%22__proto__%22:%7B%22li%22:[%221%22,%22%3Cimg%20src%20onerror=alert(1337)%3E%22,%221%22]%7D%7D, https://x.com/Black2Fan/status/1328368757752918019?s=20, https://twitter.com/S1r1u5_/status/1323685651078766594
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @S1r1u5_ — 2020-11-03 17:57 UTC (2020-11-03 18:57 WAT)
+        
+        - URL: https://x.com/S1r1u5_/status/1323685651078766594
+        - Metrics (at fetch): bookmark 10, impression 0, like 76, quote 1, reply 2, retweet 21
+        
+        > New XSS Challenge, Can you pop alert(1337)?
+        >
+        > #xss #javascript  
+        >
+        > https://msrkp.github.io/?name=%7B%222%22:%22%20xD%20I%20am%20in%20HoF%22%7D
+        
+        **Links in post:** https://msrkp.github.io/?name=%7B%222%22:%22%20xD%20I%20am%20in%20HoF%22%7D
+        
+    
+
+
+---
+
+## 2020-11-16 · Post · Challenge is over.
+
+
+### Post — @S1r1u5_ — 2020-11-16 16:15 UTC (2020-11-16 17:15 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1328371034064515077
+- Metrics (at fetch): bookmark 8, impression 0, like 43, quote 2, reply 1, retweet 10
+
+> Challenge is over.
+> Solution 1: https://msrkp.github.io/?name=%7B%22__proto__%22:%7B%22preventDefault%22:%22x%22,%22handleObj%22:%22x%22,%22delegateTarget%22:%22%3Cimg/src/onerror=alert(1337)%3E%22%7D%7D (Nobody able to find this gadget)
+> Solution 2: https://msrkp.github.io/?name=%7B%22name%22:%22%3Cb%3Easd%3C/b%3E%22,%22__proto__%22:%7B%22li%22:[%221%22,%22%3Cimg%20src%20onerror=alert(1337)%3E%22,%221%22]%7D%7D
+>
+> cc: https://x.com/Black2Fan/status/1328368757752918019?s=20 https://twitter.com/S1r1u5_/status/1323685651078766594
+
+**Links in post:** https://msrkp.github.io/?name=%7B%22__proto__%22:%7B%22preventDefault%22:%22x%22,%22handleObj%22:%22x%22,%22delegateTarget%22:%22%3Cimg/src/onerror=alert(1337)%3E%22%7D%7D, https://msrkp.github.io/?name=%7B%22name%22:%22%3Cb%3Easd%3C/b%3E%22,%22__proto__%22:%7B%22li%22:[%221%22,%22%3Cimg%20src%20onerror=alert(1337)%3E%22,%221%22]%7D%7D, https://x.com/Black2Fan/status/1328368757752918019?s=20, https://twitter.com/S1r1u5_/status/1323685651078766594
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2020-11-03 17:57 UTC (2020-11-03 18:57 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/1323685651078766594
+    - Metrics (at fetch): bookmark 10, impression 0, like 76, quote 1, reply 2, retweet 21
+    
+    > New XSS Challenge, Can you pop alert(1337)?
+    >
+    > #xss #javascript  
+    >
+    > https://msrkp.github.io/?name=%7B%222%22:%22%20xD%20I%20am%20in%20HoF%22%7D
+    
+    **Links in post:** https://msrkp.github.io/?name=%7B%222%22:%22%20xD%20I%20am%20in%20HoF%22%7D
+    
+
+
+---
+
+## 2020-11-10 · Post · Is MSc in Information/Cyber Security in the USA worth it? I have to spend all my hard-earned bug bou
+
+
+### Post — @S1r1u5_ — 2020-11-10 13:36 UTC (2020-11-10 14:36 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1326156666501410816
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 0, reply 4, retweet 0
+
+> Is MSc in Information/Cyber Security in the USA worth it? I have to spend all my hard-earned bug bounty money on it. Indian Appsec scene is lame and I am afraid that I can't find a role I am interested in. Please throw some light.
 
 
 ---
@@ -9929,7 +10294,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-08-19 · Post · I created a new easy XSS-ish challenge. Try to steal the secret.
+## 2020-08-19 · Thread · I created a new easy XSS-ish challenge. Try to steal the secret.
 
 
 Tags (automatic): XSS
@@ -9949,6 +10314,47 @@ Tags (automatic): XSS
 > Good Luck.
 
 **Links in post:** http://ctf.s1r1us.ninja:1337/
+
+
+### Thread part 2 — @S1r1u5_ — 2020-08-19 06:51 UTC (2020-08-19 07:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1295976759175680001
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> I found this behaviour in a bug bounty program, but couldn't exploit because of some constraints.
+> #xss
+
+
+### Thread part 3 — @S1r1u5_ — 2020-08-19 08:00 UTC (2020-08-19 09:00 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1295994048457502720
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> Here we go! First Blood @0xCaptainFreak . Nicely done.
+
+
+### Thread part 4 — @S1r1u5_ — 2020-08-19 08:50 UTC (2020-08-19 09:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1296006726890659841
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @terjanq and @insertScript solved it, piece of cake for them.
+
+
+### Thread part 5 — @S1r1u5_ — 2020-08-19 09:52 UTC (2020-08-19 10:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1296022242745176064
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> @sakiirsecurity solved it.
+
+
+### Thread part 6 — @S1r1u5_ — 2020-08-19 10:05 UTC (2020-08-19 11:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1296025480571703296
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> @filedescriptor solved it 😅
 
 
 ---

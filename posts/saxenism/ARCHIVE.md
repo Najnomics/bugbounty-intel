@@ -2351,7 +2351,24 @@ Tags (automatic): TEE / enclave
     
     **Links in post:** https://x.com/v12sec/status/2092664320547254388?s=20
     
-    **Quoted post** 2092664320547254388: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @v12sec — 2026-08-26 17:23 UTC (2026-08-26 18:23 WAT)
+        
+        - URL: https://x.com/v12sec/status/2092664320547254388
+        - Metrics (at fetch): bookmark 340, impression 140788, like 729, quote 42, reply 17, retweet 151
+        
+        > Signal's Contact Discovery automatically sends your contact list information to an SGX enclave in the cloud.
+        >
+        > V12 broke into that enclave and leaked the key, allowing the server host to decrypt everything.
+        >
+        > Two separate critical bugs: arbitrary read and RCE.
+        >
+        > Here's how. 🧵 https://t.co/gP1Brf5ZDS
+        
+        **Media:**
+        - media `13_2092646394628886528` (details not returned by the API)
+        
     
 
 
@@ -3104,7 +3121,24 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Links in post:** https://x.com/v12sec/status/2092664320547254388?s=20
 
-**Quoted post** 2092664320547254388: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @v12sec — 2026-08-26 17:23 UTC (2026-08-26 18:23 WAT)
+    
+    - URL: https://x.com/v12sec/status/2092664320547254388
+    - Metrics (at fetch): bookmark 340, impression 140788, like 729, quote 42, reply 17, retweet 151
+    
+    > Signal's Contact Discovery automatically sends your contact list information to an SGX enclave in the cloud.
+    >
+    > V12 broke into that enclave and leaked the key, allowing the server host to decrypt everything.
+    >
+    > Two separate critical bugs: arbitrary read and RCE.
+    >
+    > Here's how. 🧵 https://t.co/gP1Brf5ZDS
+    
+    **Media:**
+    - media `13_2092646394628886528` (details not returned by the API)
+    
 
 
 ---

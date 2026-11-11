@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 127
-- Conversations/threads: 64
+- Posts in this file: 146
+- Conversations/threads: 63
 - Oldest post captured: 2021-11-11
 - Newest post captured: 2024-11-14
 
@@ -1825,22 +1825,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-02-08 · Post · More work is needed in order to make circom-ECDSA ready for production-grade usage. We'll discuss th
-
-
-### Post — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
-
-- URL: https://x.com/0xPARC/status/1490895571032625152
-- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 1, retweet 0
-
-> More work is needed in order to make circom-ECDSA ready for production-grade usage. We'll discuss these in more depth in a future post.
->
-> Here are three directions for further work: (7/n)
-
-
----
-
-## 2022-02-08 · Post · [New post] zkSNARKs for ECDSA (Part 1)
+## 2022-02-08 · Thread · [New post] zkSNARKs for ECDSA (Part 1)
 
 
 Tags (automatic): ZK
@@ -1858,6 +1843,137 @@ Tags (automatic): ZK
 > https://0xparc.org/blog/zk-ecdsa-1
 
 **Links in post:** https://0xparc.org/blog/zk-ecdsa-1
+
+
+### Thread part 2 — @0xPARC — 2022-02-08 03:48 UTC (2022-02-08 04:48 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895283324030980
+- Metrics (at fetch): bookmark 1, impression 0, like 11, quote 0, reply 2, retweet 1
+
+> Our main contribution is the circom-ecdsa repository, which includes a collection of (unaudited) ZK circuits for non-native field arithmetic, secp256k1 curve operations, ECDSA algorithms, and ETH private-key/address operations. (2/n)
+>
+> https://github.com/0xPARC/circom-ecdsa
+
+**Links in post:** https://github.com/0xPARC/circom-ecdsa
+
+
+### Thread part 3 — @0xPARC — 2022-02-08 03:48 UTC (2022-02-08 04:48 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895318556102657
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 1, retweet 3
+
+> zkSNARKs for ECDSA enable users to make claims like:
+>  - I own a @darkforest_eth NFT, but I won't tell you which one.
+>  - I possess enough signed votes to pass a DAO proposal, but I won't reveal the IDs of the voters. 
+>  - I can claim an airdrop, but I won't reveal my address.
+> (3/n)
+
+
+### Thread part 4 — @0xPARC — 2022-02-08 03:48 UTC (2022-02-08 04:48 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895407206916096
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> Ethereum and Bitcoin have bootstrapped large public-key ID registries, putting user-controlled identity in the hands of millions. Anyone can create a keypair, hold digital assets, and participate in decentralized applications using tools for signing and authentication. (4/n)
+
+
+### Thread part 5 — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895442594304000
+- Metrics (at fetch): bookmark 1, impression 0, like 15, quote 1, reply 1, retweet 2
+
+> However, as we've outlined in previous posts, public-key crypto alone is likely unsufficient for building expressive ID systems. We'll need stronger tools like zkSNARKs to enable complex claims on digital identity and permissioning. (5/n)
+>
+> https://0xparc.org/blog/zk-id-1
+
+**Links in post:** https://0xparc.org/blog/zk-id-1
+
+
+### Thread part 6 — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895537973112837
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> Proofs for our PrivToPub circuit can be generated in browser. Our signature verification circuit is substantially larger, but proofs can be generated on a reasonably-sized webserver. 
+>
+> All benchmarks below are for the circom toolstack and the groth16 proving system. (6/n) [pic.x.com/MJ0HOrrVoT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FLC5lVAVUAIi5kJ.jpg — no alt text provided by author
+
+
+### Thread part 7 — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895571032625152
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 1, retweet 0
+
+> More work is needed in order to make circom-ECDSA ready for production-grade usage. We'll discuss these in more depth in a future post.
+>
+> Here are three directions for further work: (7/n)
+
+
+### Thread part 8 — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895596416565249
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Verification: The zkECDSA circuits are very large, and it's important to build confidence in their correctness. We're exploring automated verification tools for constraint soundness, and expect to have results in the next few weeks. (8/n)
+
+
+### Thread part 9 — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895623645642754
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Trusted setup: Applications using these circuits either need better trusted setup infrastructure, or else circuits must be ported to a proving system that admits universal trusted setup, such as PLONK. (9/n)
+
+
+### Thread part 10 — @0xPARC — 2022-02-08 03:49 UTC (2022-02-08 04:49 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895660530671616
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Optimization: The signature verification circuit is very large. We either need better and more accessible prover infrastructure, or further optimizations (i.e. using UltraPLONK), in order to put these tools in the hands of users. (10/n)
+
+
+### Thread part 11 — @0xPARC — 2022-02-08 03:50 UTC (2022-02-08 04:50 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895726079279105
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 1, reply 1, retweet 0
+
+> As a proof-of-concept, we've rebuilt the core circuits used in our ZK Message Board, making the group signature mechanism compatible with ETH addresses. Follow the instructions in the circom-ecdsa repository to try out a CLI demo! (11/n)
+>
+> https://0xparc.org/blog/zk-group-sigs
+
+**Links in post:** https://0xparc.org/blog/zk-group-sigs
+
+
+### Thread part 12 — @0xPARC — 2022-02-08 03:50 UTC (2022-02-08 04:50 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895753987850240
+- Metrics (at fetch): bookmark 1, impression 0, like 13, quote 0, reply 1, retweet 1
+
+> This project was built during 0xPARC's Applied ZK Learning Group #1.
+>
+> We use a circom implementation of keccak from @vocdoni. We also use some circom utilities for Ethereum address manipulation implemented by @lakshmansankar, @jefflau, and Veronica Z. (12/n)
+
+
+### Thread part 13 — @0xPARC — 2022-02-08 03:50 UTC (2022-02-08 04:50 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895781393739776
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> We also use an optimization for big integer multiplication inspired by xjsnark. https://akosba.github.io/papers/xjsnark.pdf (13/n)
+
+**Links in post:** https://akosba.github.io/papers/xjsnark.pdf
+
+
+### Thread part 14 — @0xPARC — 2022-02-08 03:50 UTC (2022-02-08 04:50 WAT)
+
+- URL: https://x.com/0xPARC/status/1490895815808004100
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Stay tuned for Part 2 on the techniques and optimizations involved in our implementation of zk-ECDSA! (14/14)
 
 
 ---
@@ -1882,7 +1998,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2022-01-26 · Post · NEW: Group Signatures with zkSNARKs
+## 2022-01-26 · Thread · NEW: Group Signatures with zkSNARKs
 
 
 Tags (automatic): ZK
@@ -1900,6 +2016,73 @@ Tags (automatic): ZK
 > https://0xparc.org/blog/zk-group-sigs
 
 **Links in post:** https://0xparc.org/blog/zk-group-sigs
+
+
+### Thread part 2 — @0xPARC — 2022-01-26 00:53 UTC (2022-01-26 01:53 WAT)
+
+- URL: https://x.com/0xPARC/status/1486140121200009216
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 3, reply 1, retweet 2
+
+> We also demonstrate a proof-of-concept implementation of an anonymous message board based on this scheme. (2/n)
+>
+> https://zkmessage.xyz/ [pic.x.com/nMu76Q71z8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FJ_UjvRUcAEPIcG.jpg — no alt text provided by author
+
+**Links in post:** https://zkmessage.xyz/
+
+
+### Thread part 3 — @0xPARC — 2022-01-26 00:53 UTC (2022-01-26 01:53 WAT)
+
+- URL: https://x.com/0xPARC/status/1486140216565907456
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> We show a few techniques for implementing easy-to-write group signatures using zkSNARKs. These group signature SNARKs can be plugged in to webapps, integrated with identity providers, and augmented with a variety of optional properties like traceability and deniability. (3/n)
+
+
+### Thread part 4 — @0xPARC — 2022-01-26 00:53 UTC (2022-01-26 01:53 WAT)
+
+- URL: https://x.com/0xPARC/status/1486140299231457281
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> Using zkSNARKs turns configuration of group signatures into a programming task, rather than a math problem. Instead of having to invent a whole new cryptographic mechanism to enable the property of "deniability," you can just add or modify a few lines of ZK circuit code. (4/n)
+
+
+### Thread part 5 — @0xPARC — 2022-01-26 00:54 UTC (2022-01-26 01:54 WAT)
+
+- URL: https://x.com/0xPARC/status/1486140363878240256
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> Our group signature demonstration is just one example of a broader pattern—zkSNARKs enable developers to program new cryptographic primitives, without having to think about elliptic curves, bilinear pairings, polynomial commitments, or other crypto math. (5/n)
+
+
+### Thread part 6 — @0xPARC — 2022-01-26 00:54 UTC (2022-01-26 01:54 WAT)
+
+- URL: https://x.com/0xPARC/status/1486140428353093632
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 1, reply 1, retweet 0
+
+> In short, the programmability of zkSNARK circuits allows them to emulate and extend a wide variety of cryptographic primitives which previously required the construction of new mathematical protocols. (6/n)
+
+
+### Thread part 7 — @0xPARC — 2022-01-26 00:54 UTC (2022-01-26 01:54 WAT)
+
+- URL: https://x.com/0xPARC/status/1486140514965483521
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> In upcoming posts about related projects from the 0xPARC community, we'll demonstrate implementations and applications of zkSNARKs for other cryptographic primitives. (7/7)
+
+
+### Thread part 8 — @0xPARC — 2022-01-26 01:29 UTC (2022-01-26 02:29 WAT)
+
+- URL: https://x.com/0xPARC/status/1486149230742077446
+- Metrics (at fetch): bookmark 2, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> ZK circuits can be found here: https://github.com/0xPARC/zk-group-sigs
+>
+> Application code here: https://github.com/0xPARC/zkmessage.xyz
+
+**Links in post:** https://github.com/0xPARC/zk-group-sigs, https://github.com/0xPARC/zkmessage.xyz
 
 
 ---

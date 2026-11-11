@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 283
+- Posts in this file: 293
 - Conversations/threads: 198
 - Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
@@ -1879,7 +1879,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2023-08-12 · Post · BugBounty Automation Development Diary, day 1. I have spent far too long thinking about Scope, and 
+## 2023-08-12 · Thread · BugBounty Automation Development Diary, day 1. I have spent far too long thinking about Scope, and 
 
 
 ### Post — @ajxchapman — 2023-08-12 14:31 UTC (2023-08-12 15:31 WAT)
@@ -1890,6 +1890,58 @@ Tags (automatic): Platform: HackerOne
 > #BugBounty Automation Development Diary, day 1. I have spent far too long thinking about Scope, and how to quickly determine if a domain is in or out of scope based on platform scope definitions. Happy with where I've got to, but I'm sure I'll revisit again in the future.
 >
 > #BBADD
+
+
+### Thread part 2 — @ajxchapman — 2023-08-12 14:31 UTC (2023-08-12 15:31 WAT)
+
+- URL: https://x.com/ajxchapman/status/1690370405826015234
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 1, retweet 0
+
+> Most scope is easy to grok, e.g. `http://sub.example.com`. Then there are wildcards, `*.example.com`. Things start to get more interesting when you have overlapping inclusive and exclusive wildcard scopes, e.g. `*.example.com` included, but `*.customer.example.com` excluded.
+
+**Links in post:** http://sub.example.com
+
+
+### Thread part 3 — @ajxchapman — 2023-08-12 14:31 UTC (2023-08-12 15:31 WAT)
+
+- URL: https://x.com/ajxchapman/status/1690370407629537280
+- Metrics (at fetch): bookmark 0, impression 505, like 1, quote 0, reply 1, retweet 0
+
+> Then you have the outliers who specify `*.trademark.*` as an inclusive scope, WTH are you supposed to do with that? Then what happens if a program decides to add a RegExp scope??? (I've not seen this happen yet, but it's always fun to overengineer things).
+
+
+### Thread part 4 — @ajxchapman — 2023-08-12 14:31 UTC (2023-08-12 15:31 WAT)
+
+- URL: https://x.com/ajxchapman/status/1690370409366016000
+- Metrics (at fetch): bookmark 1, impression 329, like 1, quote 0, reply 1, retweet 0
+
+> The solution I've settled on is to reverse the domain name parts, so `http://sub.example.com` becomes `com.example.sub`, then traverse a lookup tree (using hashed lookups for speed where possible) to identify a scope definition from the given domain.
+
+**Links in post:** http://sub.example.com
+
+
+### Thread part 5 — @ajxchapman — 2023-08-12 14:31 UTC (2023-08-12 15:31 WAT)
+
+- URL: https://x.com/ajxchapman/status/1690370411052109824
+- Metrics (at fetch): bookmark 0, impression 761, like 1, quote 0, reply 1, retweet 0
+
+> With a large enough number of scopes, this _should_ be more performant than scanning with RegExps and sufficient for 99% of cases. (I'm just going to ignore the remaining 1% of cases for now. I'm sure that definitely won't come back and bite me in the ass in future.)
+
+
+### Thread part 6 — @ajxchapman — 2023-08-13 10:21 UTC (2023-08-13 11:21 WAT)
+
+- URL: https://x.com/ajxchapman/status/1690669861951643648
+- Metrics (at fetch): bookmark 0, impression 1128, like 6, quote 0, reply 2, retweet 0
+
+> @hakluke I do feel this is a problem unnecessarily created by BB platforms. Having strict standardized scope from the start would have made life a lot better for bug hunters.
+
+
+### Thread part 7 — @ajxchapman — 2023-08-13 10:23 UTC (2023-08-13 11:23 WAT)
+
+- URL: https://x.com/ajxchapman/status/1690670402127765504
+- Metrics (at fetch): bookmark 0, impression 532, like 2, quote 0, reply 0, retweet 1
+
+> @hakluke Even more so where programs have other testing requirements like check-ins, HTTP tagging and rate limits. The only platform I've seen handle this sensibly is @intigriti
 
 
 ---
@@ -2967,7 +3019,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2021-04-19 · Post · CTF challenge authors. What is your preferred method to ensure a level is solved with command execut
+## 2021-04-19 · Thread · CTF challenge authors. What is your preferred method to ensure a level is solved with command execut
 
 
 Tags (automatic): SSRF
@@ -2979,6 +3031,14 @@ Tags (automatic): SSRF
 - Metrics (at fetch): bookmark 0, impression 0, like 24, quote 0, reply 5, retweet 1
 
 > CTF challenge authors. What is your preferred method to ensure a level is solved with command execution, rather than just file access (LFI, SSRF, etc)? Executable that reads flag from metadata service? Encrypt flag and have  an executable decrypt it? Something more / less fancy?
+
+
+### Thread part 2 — @ajxchapman — 2021-04-19 18:06 UTC (2021-04-19 19:06 WAT)
+
+- URL: https://x.com/ajxchapman/status/1384206862229205000
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Should probably say I'm focusing on Linux
 
 
 ---
@@ -3711,7 +3771,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2020-09-13 · Post · Fuzzing an application which is crashing a lot, happy face. Having to restart it manually through an
+## 2020-09-13 · Thread · Fuzzing an application which is crashing a lot, happy face. Having to restart it manually through an
 
 
 ### Post — @ajxchapman — 2020-09-13 09:24 UTC (2020-09-13 10:24 WAT)
@@ -3720,6 +3780,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 0, impression 0, like 8, quote 1, reply 3, retweet 0
 
 > Fuzzing an application which is crashing a lot, happy face. Having to restart it manually through an 11 step online process after each crash, sad face.
+
+
+### Thread part 2 — @ajxchapman — 2020-09-13 09:25 UTC (2020-09-13 10:25 WAT)
+
+- URL: https://x.com/ajxchapman/status/1305075170051264512
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> Trying to decide if it's worth dedicating the time to writing an AutoHotKey script to restart the app after each crash to save my sanity...
 
 
 ---
@@ -3954,7 +4022,7 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2020-07-08 · Post · I've never understood why Bug Hunters actively target VPD (non-paying) programs 🤷‍♂️ https://twitter
+## 2020-07-08 · Thread · I've never understood why Bug Hunters actively target VPD (non-paying) programs 🤷‍♂️ https://twitter
 
 
 ### Post — @ajxchapman — 2020-07-08 18:13 UTC (2020-07-08 19:13 WAT)
@@ -3979,6 +4047,25 @@ Tags (automatic): Memory corruption / native
     - media `3_1280834022134943744` (details not returned by the API)
     - media `3_1280834022113972224` (details not returned by the API)
     
+
+
+### Thread part 2 — @ajxchapman — 2020-07-09 09:22 UTC (2020-07-09 10:22 WAT)
+
+- URL: https://x.com/ajxchapman/status/1281156801266962435
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @gwendallecoguic Many (most?) Talented hackers avoid reporting to VDPs, so the bugs they receive as a result of gamified incentives tend to be of a lower quality. 
+> https://x.com/HusseiN98D/status/1280935524778283008?s=19
+
+**Links in post:** https://x.com/HusseiN98D/status/1280935524778283008?s=19
+
+
+### Thread part 3 — @ajxchapman — 2020-07-09 09:23 UTC (2020-07-09 10:23 WAT)
+
+- URL: https://x.com/ajxchapman/status/1281157083975626752
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> @gwendallecoguic To get professional work you need to pay professional prices. Gamification of VDPs is the exact opposite of this!
 
 
 ---

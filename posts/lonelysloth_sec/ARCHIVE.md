@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 178
-- Conversations/threads: 135
+- Posts in this file: 180
+- Conversations/threads: 137
 - Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-10
 
@@ -877,6 +877,42 @@ Tags (automatic): AI-assisted hunting
     
     > BREAKING: OpenAI launches a $50,000 bounty for anyone who can universally jailbreak GPT-5.6’s biosafety protections.
     
+
+
+---
+
+## 2026-07-01 · Post · @emmanuelSR77 To put some numbers to it.
+
+
+### Post — @lonelysloth_sec — 2026-07-01 20:21 UTC (2026-07-01 21:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2072415327225512379
+- Metrics (at fetch): bookmark 0, impression 59, like 1, quote 0, reply 1, retweet 1
+
+> @emmanuelSR77 To put some numbers to it.
+>
+> If you assume the probability of some task being in the blind area is the same for all input, and independent between inputs, say E.
+>
+> If you want to be 95% sure you have E&lt;1% failures you need to run ~ 300 samples with 0 failures.
+>
+> The economics of
+
+
+---
+
+## 2026-07-01 · Reply · @emmanuelSR77 All the error correction is useful — you can get better results.
+
+
+### Post — @lonelysloth_sec — 2026-07-01 19:34 UTC (2026-07-01 20:34 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2072403539436130556
+- Metrics (at fetch): bookmark 0, impression 141, like 1, quote 0, reply 2, retweet 0
+
+> @emmanuelSR77 All the error correction is useful — you can get better results.
+>
+> You just can’t solve the failure mode.
+>
+> In practice when using SOTA models supervision becomes a bottleneck before any of that makes much of a difference. And none of that actually results in lower supervision cost
 
 
 ---
