@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 33
+- Posts in this file: 36
 - Conversations/threads: 24
 - Oldest post captured: 2022-06-24
 - Newest post captured: 2025-06-17
@@ -59,7 +59,7 @@ Tags (automatic): ZK
 
 ---
 
-## 2025-05-28 · Post · 🧮 New post! Sum-Check: The Backbone of ZK Proofs
+## 2025-05-28 · Thread · 🧮 New post! Sum-Check: The Backbone of ZK Proofs
 
 
 Tags (automatic): ZK
@@ -75,6 +75,37 @@ Tags (automatic): ZK
 > I wrote a beginner-friendly walkthrough of this elegant protocol that powers many ZK systems.
 > Check it out 👇
 > https://t.co/qNmIHnvFVl
+
+
+### Thread part 2 — @0xteddav — 2025-05-28 10:23 UTC (2025-05-28 11:23 WAT)
+
+- URL: https://x.com/0xteddav/status/1927672035855003771
+- Metrics (at fetch): bookmark 0, impression 219, like 6, quote 0, reply 1, retweet 0
+
+> In ZK, we often want to prove that a massive computation was done correctly, but the verifier doesn't want to do all the work again.
+> The Sumcheck Protocol lets you check this claim with just a few smart questions🎲
+> - You claim a sum over all {0,1}ⁿ inputs
+> - The verifier checks
+
+
+### Thread part 3 — @0xteddav — 2025-05-28 10:23 UTC (2025-05-28 11:23 WAT)
+
+- URL: https://x.com/0xteddav/status/1927672037406855205
+- Metrics (at fetch): bookmark 0, impression 208, like 5, quote 0, reply 1, retweet 0
+
+> 🛠️ What makes Sumcheck powerful?
+> It avoids heavy cryptographic operations.
+> No FFTs. No pairings.
+> Just basic field arithmetic.
+> That’s why protocols like GKR have super fast provers ⚡
+
+
+### Thread part 4 — @0xteddav — 2025-05-28 10:23 UTC (2025-05-28 11:23 WAT)
+
+- URL: https://x.com/0xteddav/status/1927672039445233677
+- Metrics (at fetch): bookmark 0, impression 162, like 6, quote 0, reply 0, retweet 0
+
+> Once again, thanks to the king @nico_mnbl for his explanations, as well as @ziemannzk
 
 
 ---

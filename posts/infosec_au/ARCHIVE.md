@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 232
+- Posts in this file: 239
 - Conversations/threads: 222
 - Oldest post captured: 2015-07-16
 - Newest post captured: 2026-11-07
@@ -1667,7 +1667,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-07-21 · Post · We've analyzed the patch diffs for CVE-2023-3519 (Citrix Pre-Auth RCE) and have published our findin
+## 2023-07-21 · Thread · We've analyzed the patch diffs for CVE-2023-3519 (Citrix Pre-Auth RCE) and have published our findin
 
 
 Tags (automatic): RCE
@@ -1680,12 +1680,22 @@ Tags (automatic): RCE
 
 > We've analyzed the patch diffs for CVE-2023-3519 (Citrix Pre-Auth RCE) and have published our findings so far on our blog post here:
 >
-> https://t.co/q9VYRkw9gS
+> https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/
 >
-> So far, we haven't found an endpoint where this issue is exploitable without SAML being enabled. Will update blog if we https://t.co/Z3Rr6kFSpc
+> So far, we haven't found an endpoint where this issue is exploitable without SAML being enabled. Will update blog if we do.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F1i8ULeaMAAOr3t.png — no alt text provided by author
+
+**Links in post:** https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/
+
+
+### Thread part 2 — @infosec_au — 2023-07-21 09:48 UTC (2023-07-21 10:48 WAT)
+
+- URL: https://x.com/infosec_au/status/1682326646534311938
+- Metrics (at fetch): bookmark 0, impression 2838, like 9, quote 0, reply 0, retweet 2
+
+> Update: several new endpoints were added, but all require SAML to be enabled on the instance.
 
 
 ---
@@ -1887,10 +1897,10 @@ Tags (automatic): Auth bypass
 
 ---
 
-## 2023-05-01 · Post · Last year, @Jhaddix, @bscarvell, @seanyeoh and I found a pre-auth RCE in Oracle Opera - CVE-2023-219
+## 2023-05-01 · Thread · Last year, @Jhaddix, @bscarvell, @seanyeoh and I found a pre-auth RCE in Oracle Opera - CVE-2023-219
 
 
-Tags (automatic): RCE
+Tags (automatic): SSRF, RCE
 
 
 ### Post — @infosec_au — 2023-05-01 23:47 UTC (2023-05-02 00:47 WAT)
@@ -1898,10 +1908,50 @@ Tags (automatic): RCE
 - URL: https://x.com/infosec_au/status/1653184358185050112
 - Metrics (at fetch): bookmark 137, impression 105834, like 633, quote 9, reply 8, retweet 158
 
-> Last year, @Jhaddix, @bscarvell, @seanyeoh and I found a pre-auth RCE in Oracle Opera - CVE-2023-21932. This product holds the PII of every guest (including credit cards 😱). It's used by almost all of the big hotel/resort chains around the world. https://t.co/Gcb5xxJq7N - 1/4 https://t.co/OEi1qwygaH
+> Last year, @Jhaddix, @bscarvell, @seanyeoh and I found a pre-auth RCE in Oracle Opera - CVE-2023-21932. This product holds the PII of every guest (including credit cards 😱). It's used by almost all of the big hotel/resort chains around the world. https://blog.assetnote.io/2023/04/30/rce-oracle-opera/ - 1/4 [pic.x.com/OEi1qwygaH]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FvFJVjEaYAAK1Dm.jpg — no alt text provided by author
+
+**Links in post:** https://blog.assetnote.io/2023/04/30/rce-oracle-opera/
+
+
+### Thread part 2 — @infosec_au — 2023-05-01 23:47 UTC (2023-05-02 00:47 WAT)
+
+- URL: https://x.com/infosec_au/status/1653184360743600128
+- Metrics (at fetch): bookmark 0, impression 5184, like 26, quote 0, reply 1, retweet 1
+
+> Unfortunately, Oracle took almost a full year to release patches for this issue. They also incorrectly marked the CVSS of this bug as a 7.2, when it should be a 10.0. Our blog explains why their assessment was incorrect. This bug can be exploited without any auth. - 2/4
+
+
+### Thread part 3 — @infosec_au — 2023-05-01 23:47 UTC (2023-05-02 00:47 WAT)
+
+- URL: https://x.com/infosec_au/status/1653184363151114240
+- Metrics (at fetch): bookmark 1, impression 4782, like 22, quote 0, reply 1, retweet 1
+
+> This bug was incredibly fun to discover and exploit. Order of operations bugs are really rare, and this bug is a very clear example of this bug class. We were able to leverage this bug to gain access to one of the biggest resorts in the US, for a live hacking event. - 3/4 [pic.x.com/KvjDRLRsqA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvFJze5aQAA4XAS.jpg — no alt text provided by author
+
+
+### Thread part 4 — @infosec_au — 2023-05-01 23:47 UTC (2023-05-02 00:47 WAT)
+
+- URL: https://x.com/infosec_au/status/1653184365655109633
+- Metrics (at fetch): bookmark 1, impression 7362, like 25, quote 0, reply 1, retweet 0
+
+> In order to successfully exploit the bug, we had to work out the JNDI connection name (obtained via an info leak), and also had to break the custom encryption scheme used by Oracle (hardcoded cryptography keys). All to hit this sink, can you spot the bug? [pic.x.com/r13TkPqDRc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvFKQy-aQAE_hPo.jpg — no alt text provided by author
+
+
+### Thread part 5 — @infosec_au — 2023-05-02 01:08 UTC (2023-05-02 02:08 WAT)
+
+- URL: https://x.com/infosec_au/status/1653204877227757569
+- Metrics (at fetch): bookmark 1, impression 6694, like 28, quote 0, reply 2, retweet 1
+
+> There are still a tonne of vulnerabilities that are not patched. XXE, Arb File Write, Full read SSRF. If you audit this software, you will likely find another critical pre-auth chain. The reason we had to work out this vector was because our target used the D:\ dir, arb write was on C:\
 
 
 ---
@@ -2096,7 +2146,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2023-02-03 · Post · Our security research team @assetnote discovered a critical pre-authentication RCE vulnerability aff
+## 2023-02-03 · Thread · Our security research team @assetnote discovered a critical pre-authentication RCE vulnerability aff
 
 
 Tags (automatic): RCE
@@ -2107,7 +2157,17 @@ Tags (automatic): RCE
 - URL: https://x.com/infosec_au/status/1621340035252637698
 - Metrics (at fetch): bookmark 50, impression 40211, like 262, quote 1, reply 3, retweet 63
 
-> Our security research team @assetnote discovered a critical pre-authentication RCE vulnerability affecting Aspera Faspex. There are still thousands of unpatched instances on the internet. Pretty crazy bug. You can read about the finding here: https://t.co/FT8D7WeF0V
+> Our security research team @assetnote discovered a critical pre-authentication RCE vulnerability affecting Aspera Faspex. There are still thousands of unpatched instances on the internet. Pretty crazy bug. You can read about the finding here: https://blog.assetnote.io/2023/02/02/pre-auth-rce-aspera-faspex/
+
+**Links in post:** https://blog.assetnote.io/2023/02/02/pre-auth-rce-aspera-faspex/
+
+
+### Thread part 2 — @infosec_au — 2023-02-03 02:49 UTC (2023-02-03 03:49 WAT)
+
+- URL: https://x.com/infosec_au/status/1621340037286875136
+- Metrics (at fetch): bookmark 3, impression 3570, like 22, quote 1, reply 1, retweet 2
+
+> We secured a number of our customers from being breached through this research, as well as roughly made ~50k from bug bounty submissions through this finding. The research was done by @TheGrandPew on our team. We continue to innovate by finding zero day vulnerabilities.
 
 
 ---
@@ -2713,7 +2773,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2021-11-01 · Post · Does anyone know how to get a CVE issued for closed source software that's faster than MITREs reques
+## 2021-11-01 · Thread · Does anyone know how to get a CVE issued for closed source software that's faster than MITREs reques
 
 
 ### Post — @infosec_au — 2021-11-01 03:24 UTC (2021-11-01 04:24 WAT)
@@ -2722,6 +2782,14 @@ Tags (automatic): RCE
 - Metrics (at fetch): bookmark 2, impression 0, like 53, quote 1, reply 10, retweet 4
 
 > Does anyone know how to get a CVE issued for closed source software that's faster than MITREs request form? I've been waiting for a month and no response. Struggling to get CVEs issued.
+
+
+### Thread part 2 — @infosec_au — 2021-11-01 08:45 UTC (2021-11-01 09:45 WAT)
+
+- URL: https://x.com/infosec_au/status/1455093719506423811
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 2, retweet 0
+
+> Hi @CVEnew @CVEannounce - can I please get an update on CVE Request 1152561 - the vendor has already published their advisory, and I have provided those details via email. Thanks.
 
 
 ---

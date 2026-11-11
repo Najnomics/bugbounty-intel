@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 49
+- Posts in this file: 61
 - Conversations/threads: 49
 - Oldest post captured: 2021-12-03
 - Newest post captured: 2026-04-17
@@ -49,7 +49,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-04-01 · Post · Drift Protocol on Solana just got drained. It's looking like a multisig member compromise -- and the
+## 2026-04-01 · Thread · Drift Protocol on Solana just got drained. It's looking like a multisig member compromise -- and the
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -64,6 +64,100 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HE2YsZEWsAAyItI.png — no alt text provided by author
+
+
+### Thread part 2 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463437915361591
+- Metrics (at fetch): bookmark 0, impression 1621, like 7, quote 0, reply 1, retweet 0
+
+> 7 days ago, Drift updated its on-chain config admin setup, moving from one 2/5 multisig to another new 2/5 Squads multisig. Four of the five signers were newly generated keys without prior history, and one key (39Jy...) carried over from the old multisig.
+>
+> https://t.co/BMlTxWKqOb
+
+
+### Thread part 3 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463440197251093
+- Metrics (at fetch): bookmark 0, impression 1548, like 2, quote 0, reply 1, retweet 0
+
+> Today at ~16:00 UTC, things moved fast:
+>
+> 15:58:44 - 39Jy.. creates a proposal to withdraw 10k USDC from the Insurance Fund
+> 16:03:20 - 13GX.. approves and executes it
+> 16:05:18 - 39Jy.. creates + approves a proposal to transfer the admin key to an attacker address
+
+
+### Thread part 4 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463442214527314
+- Metrics (at fetch): bookmark 0, impression 1221, like 5, quote 0, reply 1, retweet 0
+
+> Read that again - creation, approval, and execution of the admin key transfer happened within one second. Almost certainly, this means someone directly controls both private keys.
+
+
+### Thread part 5 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463444265484448
+- Metrics (at fetch): bookmark 0, impression 1195, like 1, quote 0, reply 1, retweet 0
+
+> Interestingly, the Insurance Fund withdrawal right before was executed by a different key (13GX..) than the two keys involved in the admin-change proposal. Maybe a test run, or part of some social-engineering scheme?
+
+
+### Thread part 6 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463446685557125
+- Metrics (at fetch): bookmark 3, impression 4889, like 1, quote 1, reply 1, retweet 0
+
+> With admin access secured, the drain begins. At 16:05:39 UTC the attacker:
+>
+> → Spins up a fake spot market with inflated prices
+> → Raises the withdrawGuards designed to protect against on-chain bugs
+> → Deposits worthless CVT tokens, inflating their position to siphon real funds
+
+
+### Thread part 7 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463449793630474
+- Metrics (at fetch): bookmark 0, impression 1268, like 5, quote 0, reply 1, retweet 0
+
+> Perhaps the most interesting part: This seems to have been planned over a long period of time: The CVT token used in the exploit was created *20 days ago* by the same authority that funded the attacker's admin account! This also means the token, listed on raydium, had a valid https://t.co/eGstJlo39W
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HE2Y1VaWMAAu-jD.png — no alt text provided by author
+
+
+### Thread part 8 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463452444336397
+- Metrics (at fetch): bookmark 0, impression 1118, like 2, quote 0, reply 1, retweet 0
+
+> This makes for an interesting timeline, since the token has existed for 20 days, but the multisig member keys were all cycled a week ago:
+>
+> - 12. March: CVT Token created, listed on raydium, oracle feed initialized
+> - 26. March: Admin transferred to new multisig
+> - 1. April 15:58:
+
+
+### Thread part 9 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463454566707278
+- Metrics (at fetch): bookmark 0, impression 1268, like 4, quote 0, reply 1, retweet 0
+
+> There is no evidence of a squads compromise or a bug in the on-chain Drift program. This looks like a well executed attack on the multisig members.
+
+
+### Thread part 10 — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
+
+- URL: https://x.com/Neodyme/status/2039463457045545366
+- Metrics (at fetch): bookmark 2, impression 1388, like 2, quote 1, reply 0, retweet 0
+
+> Relevant transactions:
+> Transfer of Admin to new Multisig: https://t.co/BMlTxWKqOb
+> Insurance Fund withdrawal (created): https://t.co/T7djoLz82O
+> Withdrawal approved: https://t.co/TguJvOcfZI
+> Withdrawal executed: https://t.co/RXFRyDllQj
+> Admin key transfer (created + approved):
 
 
 ---
@@ -184,7 +278,7 @@ Tags (automatic): Path normalization
 
 ---
 
-## 2025-08-20 · Post · We've concluded our audit of P-Token, Solana's new token program build with Pinocchio. It promises i
+## 2025-08-20 · Thread · We've concluded our audit of P-Token, Solana's new token program build with Pinocchio. It promises i
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -197,6 +291,37 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > We've concluded our audit of P-Token, Solana's new token program build with Pinocchio. It promises impressive savings in Compute Unit (CU) usage. 
 > But what exactly does this mean in practice? We've investigated 👇️
+
+
+### Thread part 2 — @Neodyme — 2025-08-20 18:26 UTC (2025-08-20 19:26 WAT)
+
+- URL: https://x.com/Neodyme/status/1958234165129691470
+- Metrics (at fetch): bookmark 5, impression 20495, like 19, quote 2, reply 1, retweet 0
+
+> Using our infrastructure at https://t.co/LGgTiXzsvL, we executed every mainnet transaction from the past few months twice, once with the original Token Program, and again with P-Token. We checked that the output does not differ, and also measured CU savings:
+
+
+### Thread part 3 — @Neodyme — 2025-08-20 18:26 UTC (2025-08-20 19:26 WAT)
+
+- URL: https://x.com/Neodyme/status/1958234167189414240
+- Metrics (at fetch): bookmark 4, impression 36955, like 56, quote 14, reply 2, retweet 4
+
+> From 2025-08-03 up to and including all of 2025-08-11, using P-Token would have saved a total of:
+>
+> - 8.90T CUs with logging enabled,
+> - 9.14T CUs with logging disabled.
+>
+> This constitutes an impressive saving of 12.0% and 12.3% of TOTAL used blockspace respectively.
+
+
+### Thread part 4 — @Neodyme — 2025-08-20 18:26 UTC (2025-08-20 19:26 WAT)
+
+- URL: https://x.com/Neodyme/status/1958234169089134641
+- Metrics (at fetch): bookmark 1, impression 1900, like 22, quote 0, reply 4, retweet 0
+
+> Note that this isn't just savings in P-Token instructions. It's savings relative to the overall throughput of the blockchain, failed and vote transactions included.
+>
+> IBRL!
 
 
 ---

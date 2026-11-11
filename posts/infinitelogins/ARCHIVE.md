@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 124
+- Posts in this file: 125
 - Conversations/threads: 122
 - Oldest post captured: 2020-01-17
 - Newest post captured: 2026-11-04
@@ -1855,7 +1855,7 @@ Tags (automatic): SSRF, Mobile / Android / iOS, AI-assisted hunting
 
 ---
 
-## 2025-08-30 · Post · If an attacker pre-registers victim@gmail.com on an app (no email verification), then the real user 
+## 2025-08-30 · Thread · If an attacker pre-registers victim@gmail.com on an app (no email verification), then the real user 
 
 
 Tags (automatic): OAuth
@@ -1871,6 +1871,14 @@ Tags (automatic): OAuth
 > Attacker keeps password access + victim uses OAuth. 
 >
 > Real vuln? What's the impact?
+
+
+### Thread part 2 — @infinitelogins — 2025-08-30 15:38 UTC (2025-08-30 16:38 WAT)
+
+- URL: https://x.com/infinitelogins/status/1961815848764821721
+- Metrics (at fetch): bookmark 0, impression 2144, like 0, quote 0, reply 2, retweet 0
+
+> How would you rate severity in this case?
 
 
 ---

@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 238
+- Posts in this file: 244
 - Conversations/threads: 198
 - Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
@@ -2355,10 +2355,46 @@ Tags (automatic): Memory corruption / native
 
 > Really interesting opinion here, and as someone who champions #BugBounty I can't say I entirely disagree. I don't believe bug bounty is predatory, but there is definitely a common misconception that bug bounty is a road to quick riches with little to no effort. https://t.co/b3vhtty6iH
 
+**Links in post:** https://t.co/b3vhtty6iH
+
 **Quoted post** 1546259292029743104: not readable via the API (deleted, private, or withheld).
 
 
-### Thread part 2 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
+### Thread part 2 — @ajxchapman — 2022-07-11 19:38 UTC (2022-07-11 20:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546579581485867009
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> Every time I'm asked about my journey into bug bounty I make sure to underline my decade and a half of professional pentest / red team / security research experience. Without this, for me personally, I don't believe BB would be sustainable as a sole source of income.
+
+
+### Thread part 3 — @ajxchapman — 2022-07-11 19:38 UTC (2022-07-11 20:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546579584409387008
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> That being said, there are many young bug hunters *much* more skilled and successful than I am with 1/4 or 1/8 (and even one or two with 1/16) of my experience. I believe like many 'new' income sources (streaming, content creation, etc.) that the top 10% make 90% of the earnings.
+
+
+### Thread part 4 — @ajxchapman — 2022-07-11 19:38 UTC (2022-07-11 20:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546579587957760003
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 3, retweet 0
+
+> This is not to discourage anyone from getting into BB either, with dedication and continued learning it *can* be a great side hustle and even a viable income source, but if you are expecting to get rich overnight you may as well just play the lottery.
+
+
+### Thread part 5 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
+
+- URL: https://x.com/ajxchapman/status/1546617160386183170
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> Unfortunately the original thread has been updated with an opinion I entirely disagree with. Whilst bug bounty definitely falls under the category of gig work, it does not employ the same predatory tactics of other gig economy jobs that @mttaggart implies https://x.com/mttaggart/status/1546602800674549761?t=O9uT4Q5EMoKfS2gIGNg-BQ&s=19
+
+**Links in post:** https://x.com/mttaggart/status/1546602800674549761?t=O9uT4Q5EMoKfS2gIGNg-BQ&s=19
+
+
+### Thread part 6 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
 
 - URL: https://x.com/ajxchapman/status/1546617163699687425
 - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
@@ -2366,7 +2402,7 @@ Tags (automatic): Memory corruption / native
 > No one is locked into debt in order to get started on BB, a cheap laptop, a willingness to learn and an internet connection is all that's required. Additionally, unlike other gig economy jobs, past performance has very little impact on future earnings.
 
 
-### Thread part 3 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
+### Thread part 7 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
 
 - URL: https://x.com/ajxchapman/status/1546617166534942720
 - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 1
@@ -2374,7 +2410,7 @@ Tags (automatic): Memory corruption / native
 > On top of this, BB can be done as a one off, a side hobby, an evening and weekend activit, in between jobs, or full time with absolutely no commitment required from the bug hunter.
 
 
-### Thread part 4 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
+### Thread part 8 — @ajxchapman — 2022-07-11 22:07 UTC (2022-07-11 23:07 WAT)
 
 - URL: https://x.com/ajxchapman/status/1546617168955162626
 - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
@@ -2382,7 +2418,7 @@ Tags (automatic): Memory corruption / native
 > Finally, the skills obtained through BB are directly applicable to other security roles, so much so that many bug hunters have gone on to permanent security roles directly from their bb experience and exposure.
 
 
-### Thread part 5 — @ajxchapman — 2022-07-11 22:43 UTC (2022-07-11 23:43 WAT)
+### Thread part 9 — @ajxchapman — 2022-07-11 22:43 UTC (2022-07-11 23:43 WAT)
 
 - URL: https://x.com/ajxchapman/status/1546626159726759936
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
@@ -2392,7 +2428,10 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2022-07-07 · Post · There is a common fallacy in BugBounty that bug hunters have to work *against* triage teams to get 
+## 2022-07-07 · Thread · There is a common fallacy in BugBounty that bug hunters have to work *against* triage teams to get 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 
 ### Post — @ajxchapman — 2022-07-07 12:48 UTC (2022-07-07 13:48 WAT)
@@ -2401,6 +2440,22 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 6, impression 0, like 114, quote 3, reply 13, retweet 10
 
 > There is a common fallacy in #BugBounty that bug hunters have to work *against* triage teams to get bugs accepted. As soon as you realize you are working *with* the triage team, I assure you, your bugs will get triaged a lot easier with less stress on both sides. #BugBountyTips
+
+
+### Thread part 2 — @ajxchapman — 2022-07-08 10:14 UTC (2022-07-08 11:14 WAT)
+
+- URL: https://x.com/ajxchapman/status/1545350722115588097
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> @rst10124492 ... my tweet had nothing to do with the HackerOne triager incident, in fact it didn't mention H1 at all 🤷‍♂️ Since you bring it up however, I think the H1 team did a fantastic job handling that.
+
+
+### Thread part 3 — @ajxchapman — 2022-07-08 10:15 UTC (2022-07-08 11:15 WAT)
+
+- URL: https://x.com/ajxchapman/status/1545350961673150467
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> @rst10124492 The advice I posted works just as well on @Bugcrowd, and @intigriti as it would on @Hacker0x01
 
 
 ---

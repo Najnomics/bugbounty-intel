@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 231
-- Conversations/threads: 203
+- Conversations/threads: 202
 - Oldest post captured: 2016-07-31
 - Newest post captured: 2026-11-10
 
@@ -217,10 +217,22 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-30 · Reply · @WhiteHatMage I see it as an alternative for people who prefer watching to reading. I also checked t
+## 2026-07-30 · Thread · There's a growing scene around AI-created anime from manga source material. It looks promising: You 
 
 
-### Post — @cmichelio — 2026-07-30 18:37 UTC (2026-07-30 19:37 WAT)
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @cmichelio — 2026-07-30 04:32 UTC (2026-07-30 05:32 WAT)
+
+- URL: https://x.com/cmichelio/status/2082685630291796118
+- Metrics (at fetch): bookmark 8, impression 4595, like 38, quote 0, reply 5, retweet 1
+
+> There's a growing scene around AI-created anime from manga source material. It looks promising: You avoid AI's issue of being bad at creating interesting stories. There's also source image available to guide the video creation.
+> The downside is that video creation is currently
+
+
+### Thread part 2 — @cmichelio — 2026-07-30 18:37 UTC (2026-07-30 19:37 WAT)
 
 - URL: https://x.com/cmichelio/status/2082898379718475780
 - Metrics (at fetch): bookmark 0, impression 361, like 6, quote 0, reply 1, retweet 0
@@ -258,23 +270,6 @@ Tags (automatic): AI-assisted hunting
 > 1. Quality control: AI can do that
 > 2. Cross-episode consisteny in voice and color (most panels are black/white): precolor the chapters with an image edit model given references
 > 3. Background ambient music: AI can detect scenes and the emotion
-
-
----
-
-## 2026-07-30 · Post · There's a growing scene around AI-created anime from manga source material. It looks promising: You 
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @cmichelio — 2026-07-30 04:32 UTC (2026-07-30 05:32 WAT)
-
-- URL: https://x.com/cmichelio/status/2082685630291796118
-- Metrics (at fetch): bookmark 8, impression 4595, like 38, quote 0, reply 5, retweet 1
-
-> There's a growing scene around AI-created anime from manga source material. It looks promising: You avoid AI's issue of being bad at creating interesting stories. There's also source image available to guide the video creation.
-> The downside is that video creation is currently
 
 
 ---

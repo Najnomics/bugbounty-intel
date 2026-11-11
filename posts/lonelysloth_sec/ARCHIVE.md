@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 144
+- Posts in this file: 149
 - Conversations/threads: 134
 - Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-10
@@ -2795,7 +2795,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-04-30 · Post · Been thinking a lot about bounties vs competitions vs private audits.
+## 2025-04-30 · Thread · Been thinking a lot about bounties vs competitions vs private audits.
 
 
 ### Post — @lonelysloth_sec — 2025-04-30 17:32 UTC (2025-04-30 18:32 WAT)
@@ -2810,6 +2810,56 @@ Tags (automatic): Platform: Immunefi
 > In BB you're incentivized to look for unique or long-tail bugs. Missing common bugs isn't such a big deal.
 >
 > If there's a class
+
+
+### Thread part 2 — @lonelysloth_sec — 2025-04-30 17:36 UTC (2025-04-30 18:36 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1917634108089589823
+- Metrics (at fetch): bookmark 2, impression 966, like 16, quote 0, reply 1, retweet 0
+
+> That's not to make the finding sound less important than it is -- it's just that the person who got this bug was likely looking for many other things at the same time, maybe not even particularly interested in the proxy initialization issue that ultimately paid 10M.
+>
+> Or they
+
+
+### Thread part 3 — @lonelysloth_sec — 2025-04-30 17:40 UTC (2025-04-30 18:40 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1917635081969229891
+- Metrics (at fetch): bookmark 1, impression 951, like 25, quote 0, reply 1, retweet 0
+
+> The ideal Bug Bounty hunter isn't someone that can find with 80% success rate the 20% of bug types that are most likely to cause damage.
+>
+> You're better off with 20% hit rate at the 80% of bug types least likely to be found by others.
+
+
+### Thread part 4 — @lonelysloth_sec — 2025-04-30 17:46 UTC (2025-04-30 18:46 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1917636722315387094
+- Metrics (at fetch): bookmark 1, impression 929, like 18, quote 0, reply 1, retweet 0
+
+> For competitions it's different. Finding unique bugs is good, but if you find 100% of bugs even if others found it too, you'll still end up 1st. 
+>
+> If you're very good at finding common bugs, you can do multiple competitions simultaneously, never be 1st, but still make a killing.
+
+
+### Thread part 5 — @lonelysloth_sec — 2025-04-30 17:56 UTC (2025-04-30 18:56 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1917639231612281052
+- Metrics (at fetch): bookmark 1, impression 1560, like 19, quote 0, reply 1, retweet 0
+
+> In private audits incentives are much less clear.
+>
+> I think ideally a project should have auditors with a mix of skills to hope to cover as many potential bugs as possible. But if you can only choose one auditor it would be someone with high hit rate in most common bugs.
+
+
+### Thread part 6 — @lonelysloth_sec — 2025-04-30 18:03 UTC (2025-04-30 19:03 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1917640939297988953
+- Metrics (at fetch): bookmark 2, impression 1315, like 18, quote 0, reply 0, retweet 0
+
+> Of course 100% hit rate at 100% of bugs is the best in any circumstance.
+>
+> So the better you are in any of those activities the more transferable your skills.
 
 
 ---

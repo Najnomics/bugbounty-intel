@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 204
+- Posts in this file: 206
 - Conversations/threads: 180
 - Oldest post captured: 2014-01-05
 - Newest post captured: 2026-11-05
@@ -1860,7 +1860,10 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-02-02 · Post · 💥 One click could completely compromise a @OpenClaw / Moltbot / Clawdbot (CVE-2026-25253)
+## 2026-02-02 · Thread · 💥 One click could completely compromise a @OpenClaw / Moltbot / Clawdbot (CVE-2026-25253)
+
+
+Tags (automatic): RCE
 
 
 ### Post — @0xacb — 2026-02-02 09:07 UTC (2026-02-02 10:07 WAT)
@@ -1874,10 +1877,24 @@ Tags (automatic): RCE
 >
 > - gatewayUrl Parameter: A GET parameter automatically overrides the WebSocket gateway URL used by the Control UI
 >
-> - Token [pic.x.com/DKD06lDlcn]
+> - Token Exfiltration: Visiting a malicious link leaks the victim's auth token to the attacker's server
+>
+> - WebSocket CORS Bypass: No origin validation means attackers can reach localhost through the victim's browser
+>
+> - Instant RCE: Stolen token = full system access via arbitrary commands.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HAJDk2LW4AA3fqo.jpg — no alt text provided by author
+
+
+### Thread part 2 — @0xacb — 2026-02-02 09:07 UTC (2026-02-02 10:07 WAT)
+
+- URL: https://x.com/0xacb/status/2018250016800862535
+- Metrics (at fetch): bookmark 2, impression 1158, like 9, quote 0, reply 0, retweet 2
+
+> @openclaw Full details: https://ethiack.com/news/blog/one-click-rce-moltbot
+
+**Links in post:** https://ethiack.com/news/blog/one-click-rce-moltbot
 
 
 ---
@@ -1964,10 +1981,10 @@ Tags (automatic): Account takeover, RCE, AI-assisted hunting
 
 ---
 
-## 2026-01-27 · Post · Looking for S(security) in MCP? 👀
+## 2026-01-27 · Thread · Looking for S(security) in MCP? 👀
 
 
-Tags (automatic): RCE
+Tags (automatic): XSS, Account takeover, RCE, OAuth
 
 
 ### Post — @0xacb — 2026-01-27 10:24 UTC (2026-01-27 11:24 WAT)
@@ -1979,7 +1996,23 @@ Tags (automatic): RCE
 >
 > You’re probably already familiar with MCP but did you know that it’s not secure out of the box?
 >
-> Possible risks includes command injection vulns that may lead to RCE, tool poisoning and the silent redefinition of previously approved tools. And
+> Possible risks includes command injection vulns that may lead to RCE, tool poisoning and the silent redefinition of previously approved tools. And also, OAuth misconfigs may face pitfalls like lack of rate limiting on registration and loose redirect URI validation, which can lead to XSS or account takeovers.
+>
+> To stay protected, developers must implement strict URI allowlists, sanitize all display strings, and always force user re-consent during authorization flows
+
+
+### Thread part 2 — @0xacb — 2026-01-27 10:24 UTC (2026-01-27 11:24 WAT)
+
+- URL: https://x.com/0xacb/status/2016094934260957366
+- Metrics (at fetch): bookmark 12, impression 1157, like 17, quote 0, reply 0, retweet 2
+
+> Reference blogs 👇
+>
+> - https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b
+>
+> - https://www.novasecurity.co.nz/the-s-in-mcp-stands-for-security-part-2/ by @ngalongc
+
+**Links in post:** https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b, https://www.novasecurity.co.nz/the-s-in-mcp-stands-for-security-part-2/
 
 
 ---

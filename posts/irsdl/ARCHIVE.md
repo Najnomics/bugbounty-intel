@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 526
-- Conversations/threads: 504
+- Posts in this file: 570
+- Conversations/threads: 516
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-10
 
@@ -4484,7 +4484,7 @@ Tags (automatic): Auth bypass, RCE
 
 ---
 
-## 2023-03-14 · Post · In 2022, the `IIS Short Filename Disclosure` bug celebrated its 10th anniversary whilst it's probabl
+## 2023-03-14 · Thread · In 2022, the `IIS Short Filename Disclosure` bug celebrated its 10th anniversary whilst it's probabl
 
 
 ### Post — @irsdl — 2023-03-14 15:29 UTC (2023-03-14 16:29 WAT)
@@ -4495,6 +4495,14 @@ Tags (automatic): Auth bypass, RCE
 > In 2022, the `IIS Short Filename Disclosure` bug celebrated its 10th anniversary whilst it's probably as old as IIS (~20 years?). 
 >
 > It's seen a long ride but by all new .NET Core, it's become less relevant. It deserves a small new present, don't you think? #IIS #FileEnumeration
+
+
+### Thread part 2 — @irsdl — 2023-03-14 15:29 UTC (2023-03-14 16:29 WAT)
+
+- URL: https://x.com/irsdl/status/1635664507996438528
+- Metrics (at fetch): bookmark 0, impression 1003, like 3, quote 0, reply 0, retweet 0
+
+> https://t.co/EyZy4AnRqc - I will probably write a little bit better if I redo it ;)
 
 
 ---
@@ -4582,6 +4590,19 @@ Tags (automatic): Auth bypass, RCE
 
 ---
 
+## 2023-02-12 · Post · @NomanRiffat I didn’t sacrificed anything, not sure why their receipt is so vague! Try the recipe to
+
+
+### Post — @irsdl — 2023-02-12 23:21 UTC (2023-02-13 00:21 WAT)
+
+- URL: https://x.com/irsdl/status/1624911687420706816
+- Metrics (at fetch): bookmark 0, impression 137, like 1, quote 0, reply 1, retweet 0
+
+> @NomanRiffat I didn’t sacrificed anything, not sure why their receipt is so vague! Try the recipe tomorrow 🥹🤣
+
+
+---
+
 ## 2023-02-12 · Post · I finally figured it out 🔥 if you get 2 medium meal McChicken sandwiches and 1 happy meal with a toy
 
 
@@ -4641,7 +4662,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2023-01-13 · Post · Mixing this exploit with `/owa/integrated/test@gmail.com/powershell/` in the URL and `X-OWA-Explicit
+## 2023-01-13 · Thread · Mixing this exploit with `/owa/integrated/test@gmail.com/powershell/` in the URL and `X-OWA-Explicit
 
 
 ### Post — @irsdl — 2023-01-13 00:59 UTC (2023-01-13 01:59 WAT)
@@ -4666,6 +4687,43 @@ Tags (automatic): XSS
     > PoC script (for copy paste purpose): https://t.co/4jLfIxXkC3
     > https://t.co/nHrJvpxqVn
     
+
+
+### Thread part 2 — @irsdl — 2023-01-13 16:42 UTC (2023-01-13 17:42 WAT)
+
+- URL: https://x.com/irsdl/status/1613939589831434241
+- Metrics (at fetch): bookmark 0, impression 725, like 0, quote 0, reply 1, retweet 0
+
+> A note for those who want to test this, you will need to disable AMSI and restart IIS in your lab to figure out the exploit before start bypassing that! Here is how you can do this: https://t.co/lnfR7ky4WS
+
+
+### Thread part 3 — @irsdl — 2023-01-13 16:55 UTC (2023-01-13 17:55 WAT)
+
+- URL: https://x.com/irsdl/status/1613942726822875137
+- Metrics (at fetch): bookmark 0, impression 1017, like 0, quote 0, reply 1, retweet 0
+
+> It is interesting how MS can actually stop exploitation of #Exchange by bots even before a patch. At the moment, it can block requests when they contain a certain header and/or parameters in the URL. The mentioned header + 'owa' + 'powershell' in URL are blocked atm.
+
+
+### Thread part 4 — @irsdl — 2023-01-13 17:34 UTC (2023-01-13 18:34 WAT)
+
+- URL: https://x.com/irsdl/status/1613952517016096783
+- Metrics (at fetch): bookmark 1, impression 1369, like 5, quote 0, reply 2, retweet 2
+
+> Do you want to bypass the ASMI blockage? Just replace POST in the request with something else other than GET/HEAD, so OPTIONS/FOOBAR/ETC will do just fine!
+>
+> This is actually one of the best Exchange exploits so far. https://t.co/xY0voJxJoQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmXo4uUXkAgPe1h.png — no alt text provided by author
+
+
+### Thread part 5 — @irsdl — 2023-01-13 17:40 UTC (2023-01-13 18:40 WAT)
+
+- URL: https://x.com/irsdl/status/1613954083601223702
+- Metrics (at fetch): bookmark 0, impression 649, like 1, quote 0, reply 0, retweet 0
+
+> As I can’t edit my tweet, I meant to say AMSI 🤌
 
 
 ---
@@ -4693,7 +4751,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2022-11-22 · Post · This can also be interesting if we use them in SSRF (or using punycode?)
+## 2022-11-22 · Thread · This can also be interesting if we use them in SSRF (or using punycode?)
 
 
 Tags (automatic): SSRF
@@ -4729,9 +4787,28 @@ Tags (automatic): SSRF
     
 
 
+### Thread part 2 — @irsdl — 2022-11-22 10:00 UTC (2022-11-22 11:00 WAT)
+
+- URL: https://x.com/irsdl/status/1594994292426412033
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 2, retweet 0
+
+> I am always using the raw bytes display in Burp btw and it does not make any difference in this case https://t.co/MZ3CFHFTsi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiKOyiNWYAA9cFL.png — no alt text provided by author
+
+
+### Thread part 3 — @irsdl — 2022-11-22 10:11 UTC (2022-11-22 11:11 WAT)
+
+- URL: https://x.com/irsdl/status/1594997060062912514
+- Metrics (at fetch): bookmark 2, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> https://t.co/32PBY6pJJ2
+
+
 ---
 
-## 2022-11-17 · Post · I've just updated https://t.co/nLVZJFLlUU, it supports infinite bridge gadget party now!
+## 2022-11-17 · Thread · I've just updated https://t.co/nLVZJFLlUU, it supports infinite bridge gadget party now!
 
 
 Tags (automatic): Blockchain / L1-L2 / bridge
@@ -4751,9 +4828,33 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > @MDSecLabs @pwntester
 
 
+### Thread part 2 — @irsdl — 2022-11-17 00:15 UTC (2022-11-17 01:15 WAT)
+
+- URL: https://x.com/irsdl/status/1593035030410194944
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Please report the bugs as usual in GitHub
+
+
+### Thread part 3 — @irsdl — 2022-11-17 11:03 UTC (2022-11-17 12:03 WAT)
+
+- URL: https://x.com/irsdl/status/1593198097165058048
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> https://t.co/PH3BManxXv
+
+
+### Thread part 4 — @irsdl — 2022-11-17 21:09 UTC (2022-11-17 22:09 WAT)
+
+- URL: https://x.com/irsdl/status/1593350563986554880
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> https://t.co/Wz1ejdnJbv
+
+
 ---
 
-## 2022-11-14 · Post · Notes for this challenge:
+## 2022-11-14 · Thread · Notes for this challenge:
 
 
 ### Post — @irsdl — 2022-11-14 21:05 UTC (2022-11-14 22:05 WAT)
@@ -4779,6 +4880,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     **Media:**
     - media `3_1592178860593975299` (details not returned by the API)
     
+
+
+### Thread part 2 — @irsdl — 2022-11-14 22:26 UTC (2022-11-14 23:26 WAT)
+
+- URL: https://x.com/irsdl/status/1592282768243056642
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 1, reply 3, retweet 2
+
+> My second attempt as I just needed 10 more seconds the first time to see my typo! (I had a number just before the payload and off course I am using @hackvertor so was hard to see it when the clock was ticking 😆) - anyway, this makes it 10 minutes and 50 seconds for me I suppose! https://t.co/wYlvy0TZRA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhjsBWpXwAYfv35.png — no alt text provided by author
 
 
 ---
@@ -4828,7 +4940,62 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-10-15 · Post · I have a feeling @mdsec 's https://t.co/17qlcQjM5i about @orange_8361 &amp; @NSAGov bugs might still
+## 2022-10-16 · Post · @wdormann @miketheitguy @GossiTheDog @testanull Added it to the gist: https://t.co/T5xSbf60Zj
+
+
+### Post — @irsdl — 2022-10-16 19:13 UTC (2022-10-16 20:13 WAT)
+
+- URL: https://x.com/irsdl/status/1581725096179167233
+- Metrics (at fetch): bookmark 3, impression 0, like 12, quote 0, reply 1, retweet 4
+
+> @wdormann @miketheitguy @GossiTheDog @testanull Added it to the gist: https://t.co/T5xSbf60Zj
+
+
+---
+
+## 2022-10-16 · Post · @wdormann @miketheitguy @GossiTheDog @testanull Ok I have found a bypass for it using `Transfer-Enco
+
+
+### Post — @irsdl — 2022-10-16 19:11 UTC (2022-10-16 20:11 WAT)
+
+- URL: https://x.com/irsdl/status/1581724597262557184
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 1, retweet 1
+
+> @wdormann @miketheitguy @GossiTheDog @testanull Ok I have found a bypass for it using `Transfer-Encoding: chunked` and `content-type: application/x-www-form-urlencoded, charset=ibm500` https://t.co/NU0alSE7Rw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfNqFc3WQAEAdcm.png — no alt text provided by author
+
+
+---
+
+## 2022-10-16 · Post · @wdormann @miketheitguy @GossiTheDog @testanull As it supports regex in this case we should be able 
+
+
+### Post — @irsdl — 2022-10-16 16:23 UTC (2022-10-16 17:23 WAT)
+
+- URL: https://x.com/irsdl/status/1581682325959901185
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @wdormann @miketheitguy @GossiTheDog @testanull As it supports regex in this case we should be able to say “^\s*up.*” but I wonder how it sees it when it is multiline. We can always have a look to see how we can try to bypass this one as well
+
+
+---
+
+## 2022-10-15 · Post · @GossiTheDog @wdormann @testanull Is the encoding working properly for you? It will need hackvertor 
+
+
+### Post — @irsdl — 2022-10-15 21:05 UTC (2022-10-15 22:05 WAT)
+
+- URL: https://x.com/irsdl/status/1581390806983659520
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @GossiTheDog @wdormann @testanull Is the encoding working properly for you? It will need hackvertor in burp suite… I wonder what I am doing wrong if this works for you
+
+
+---
+
+## 2022-10-15 · Thread · I have a feeling @mdsec 's https://t.co/17qlcQjM5i about @orange_8361 &amp; @NSAGov bugs might still
 
 
 ### Post — @irsdl — 2022-10-15 20:54 UTC (2022-10-15 21:54 WAT)
@@ -4844,9 +5011,18 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 **Quoted post** 1578751627598888962: not readable via the API (deleted, private, or withheld).
 
 
+### Thread part 2 — @irsdl — 2022-10-15 20:54 UTC (2022-10-15 21:54 WAT)
+
+- URL: https://x.com/irsdl/status/1581388039565504512
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> This is just a PoC to show the current IIS URL filter rule can still be bypassed as I haven't tested with the actual exploit.
+> @GossiTheDog, @wdormann or @testanull , as you guys seem to be having the actual exploit, could you please give this a go and check if it works? 😃
+
+
 ---
 
-## 2022-09-22 · Post · For banks: Google Pay(GP) is free &amp; easier to integrate. Apple Pay(AP) needs special implementat
+## 2022-09-22 · Thread · For banks: Google Pay(GP) is free &amp; easier to integrate. Apple Pay(AP) needs special implementat
 
 
 ### Post — @irsdl — 2022-09-22 09:32 UTC (2022-09-22 10:32 WAT)
@@ -4874,6 +5050,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     **Media:**
     - media `3_1572614937532596224` (details not returned by the API)
     
+
+
+### Thread part 2 — @irsdl — 2022-09-22 09:32 UTC (2022-09-22 10:32 WAT)
+
+- URL: https://x.com/irsdl/status/1572881540174196738
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> The actual process is more complicated;
+> GP is more than just a token, it can generate a few things: 
+>  -device token used by NFC
+>  -a virtual card (VC)
+>  -a token linked to the VC
+> AP token formats (DAN) can be virtual cards too.
+> There are sec mechanisms to stop replay attacks.
+
+
+### Thread part 3 — @irsdl — 2022-09-22 09:32 UTC (2022-09-22 10:32 WAT)
+
+- URL: https://x.com/irsdl/status/1572881542091001856
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> If a VC is stolen, it's as good as real card until it's been expired/invalidated. There are however more fraud detections around it &amp; GP is also monitoring the transactions in addition to the banks. VCs are invalidated frequently for various reasons such as even a device change
 
 
 ---
@@ -5014,6 +5212,19 @@ Tags (automatic): RCE
 
 ---
 
+## 2022-04-12 · Post · @secdefect For the baseline payload I think it doesn't and that's where the issue is. So if you have
+
+
+### Post — @irsdl — 2022-04-12 14:09 UTC (2022-04-12 15:09 WAT)
+
+- URL: https://x.com/irsdl/status/1513882114755899398
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @secdefect For the baseline payload I think it doesn't and that's where the issue is. So if you have a CL which is larger than your request body then Scanner does not even start properly
+
+
+---
+
 ## 2022-04-12 · Post · BurpTip if you are sending from Intruder to Scanner, then make sure content-length is correct other
 
 
@@ -5115,10 +5326,77 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-01-12 · Post · I didn't know how hostile the bug bounty platforms have become when triaging the issues until recent
+## 2022-01-12 · Post · The ultimate recommendation for the vulnerable IoT devices: block the IP address of the control serv
+
+
+### Post — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226802106445824
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> The ultimate recommendation for the vulnerable IoT devices: block the IP address of the control server! ☮️☮️☮️
+> You don't need Netflix on your Treadmill!
+
+
+---
+
+## 2022-01-12 · Post · Thanks but no thanks @BugCrowd! Never again reporting there unless I really have to. You have no val
 
 
 Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226800474771457
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Thanks but no thanks @BugCrowd! Never again reporting there unless I really have to. You have no value for hunters' time so why should they care at all ;) I have told Adidas that I am going for public disclosure for all inapplicable/invalid issues so that's now their/your problem
+
+
+---
+
+## 2022-01-12 · Post · 4- The control server has become too slow and it perhaps has blocked BugCrowd IP so they are closing
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226798545444865
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 1, retweet 0
+
+> 4- The control server has become too slow and it perhaps has blocked BugCrowd IP so they are closing the RCEs as false-positives!!! How can it be FP when screenshots contain ping, dir listing &amp; server info results? Their hidden claim: I must be lying and making things up! https://t.co/Kr4jkoJbH5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FI5dytjX0AAWpSD.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FI5eO5JXMAAwUS2.png — no alt text provided by author
+
+
+---
+
+## 2022-01-12 · Post · 3- They are raising these bugs as duplicate despite being different in terms of patching:
+
+
+### Post — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226794221064196
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 3- They are raising these bugs as duplicate despite being different in terms of patching:
+> &gt; Directory Listing Enabled 
+> &gt; Accessible Sensitive Files by Unauth Users
+> &gt; Statistics Data Collection without User Consent 
+> Well I guess if they close the dir listing they can hide the rest
+
+
+---
+
+## 2022-01-12 · Thread · I didn't know how hostile the bug bounty platforms have become when triaging the issues until recent
+
+
+Tags (automatic): RCE, Platform: Bugcrowd
 
 
 ### Post — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
@@ -5127,6 +5405,38 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 6, impression 0, like 56, quote 2, reply 3, retweet 11
 
 > I didn't know how hostile the bug bounty platforms have become when triaging the issues until recently that I was forced to file some bugs for Adidas in BugCrowd. Hunters [aka researchers in bugcrowd term] are being treated very badly there which is sad! Here is a rant🧵
+
+
+### Thread part 2 — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226786449068033
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> I had reported security bugs in a Treadmill product to Adidas more than a month ago. They asked me to report them in their BB program but I never got an invite to their program until last week! I don't think they have started to look at those issues...
+
+
+### Thread part 3 — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226788164546561
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Now that bugs are in BugCrowd, they are being triaged by bugcrowd team and not Adidas! So in addition to chores of writing everything again there, I have to explain things to triagers because they are probably in-experienced and have no idea what's been tested, examples:
+
+
+### Thread part 4 — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226789758373895
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> 1- I don't want to exploit the outdated software until Adidas confirm it is their asset for legal reasons. So the issues that an app is outdated with RCE issues for more than 10 years are being closed as inapplicable without giving me permission to test the asset despite asking!
+
+
+### Thread part 5 — @irsdl — 2022-01-12 11:29 UTC (2022-01-12 12:29 WAT)
+
+- URL: https://x.com/irsdl/status/1481226792522420229
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> 2- They are closing issues like insecure communication with the server as inapplicable because I cannot show the impact of what would happen when Treadmill talks over HTTP to download bash files to run as root... Seriously I need to show MITM attacks so they would fix it?!
 
 
 ---
@@ -5169,7 +5479,10 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2021-11-29 · Post · @adidasUK how can I report a security issue in a product (Reebok brand)? Although I did not try to e
+## 2021-11-29 · Thread · @adidasUK how can I report a security issue in a product (Reebok brand)? Although I did not try to e
+
+
+Tags (automatic): Mobile / Android / iOS
 
 
 ### Post — @irsdl — 2021-11-29 12:11 UTC (2021-11-29 13:11 WAT)
@@ -5190,6 +5503,25 @@ Tags (automatic): Platform: Bugcrowd
     >
     > I'm scared at the same time and thinking to isolate the Reebok device I have completely as it has some bad security issues #IoT
     
+
+
+### Thread part 2 — @irsdl — 2021-11-29 12:11 UTC (2021-11-29 13:11 WAT)
+
+- URL: https://x.com/irsdl/status/1465292329133252613
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> I don't think this device has ever been tested by any security firm as it uses an outdated Android with dev mode on &amp; is easy to breakout/install anything. An insecure server in China is used for updating &amp; logging stats of the device - all files/stats are publicly accessible
+
+
+### Thread part 3 — @irsdl — 2021-11-29 12:15 UTC (2021-11-29 13:15 WAT)
+
+- URL: https://x.com/irsdl/status/1465293214861066242
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> https://t.co/nTsASS1npv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FFXEaTYXEAYT1xe.jpg — no alt text provided by author
 
 
 ---
@@ -6129,7 +6461,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2020-07-26 · Post · On CVE-2020-1147 (https://t.co/QmCs8Z07zs) and the great write up by @steventseeley (https://t.co/rD
+## 2020-07-26 · Thread · On CVE-2020-1147 (https://t.co/QmCs8Z07zs) and the great write up by @steventseeley (https://t.co/rD
 
 
 ### Post — @irsdl — 2020-07-26 21:13 UTC (2020-07-26 22:13 WAT)
@@ -6140,6 +6472,30 @@ Tags (automatic): XSS
 > On CVE-2020-1147 (https://t.co/QmCs8Z07zs) and the great write up by @steventseeley (https://t.co/rDGIvZAayP), you can exploit it w/o creating an ASPX  page by `?mode=Suggestion`: 
 > /_layouts/15/quicklinks.aspx?Mode=Suggestion
 > /_layouts/15/quicklinksdialogform.aspx?Mode=Suggestion
+
+
+### Thread part 2 — @irsdl — 2020-07-26 21:13 UTC (2020-07-26 22:13 WAT)
+
+- URL: https://x.com/irsdl/status/1287496352696610816
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> I have managed to successfully test this on my local instance!
+
+
+### Thread part 3 — @irsdl — 2020-07-26 21:14 UTC (2020-07-26 22:14 WAT)
+
+- URL: https://x.com/irsdl/status/1287496490089422850
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> It will not work without the ?Mode=Suggestion in the URL.
+
+
+### Thread part 4 — @irsdl — 2020-07-26 21:22 UTC (2020-07-26 22:22 WAT)
+
+- URL: https://x.com/irsdl/status/1287498440595984386
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> also if you want to use this in your source code review, https://t.co/ZvxTc2Yirs shows  DataSet sinks that can be exploited if dealing with untrusted data - add those to your search patterns - finders of these bugs should really be followed: @olekmirosh @mwulftange
 
 
 ---
@@ -6896,6 +7252,19 @@ Tags (automatic): RCE
 
 ---
 
+## 2019-07-07 · Reply · @GironSec @m3g9tr0n This is not a reason why dnSpy is great though - it was not in my test case apps
+
+
+### Post — @irsdl — 2019-07-07 17:57 UTC (2019-07-07 18:57 WAT)
+
+- URL: https://x.com/irsdl/status/1147927524183347201
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 2, retweet 0
+
+> @GironSec @m3g9tr0n This is not a reason why dnSpy is great though - it was not in my test case apps at the time ;) but https://t.co/e8MSoXBnmO
+
+
+---
+
 ## 2019-06-05 · Post · http://YSoSerial.Net has a new SharePoint plugin to generate payloads for CVE-2019-0604 and CVE-2018
 
 
@@ -7502,22 +7871,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2018-08-07 · Post · A WON'T FIX SECURITY BUG/BYPASS ~= A NEW SECURITY TECHNIQUE
-
-
-### Post — @irsdl — 2018-08-07 21:57 UTC (2018-08-07 22:57 WAT)
-
-- URL: https://x.com/irsdl/status/1026950422026702855
-- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 1
-
-> A WON'T FIX SECURITY BUG/BYPASS ~= A NEW SECURITY TECHNIQUE
->
-> Don't be sad if your bug is not going to be patched! It may become even more valuable with a blog post! #appsec #infosec
-
-
----
-
-## 2018-08-02 · Post · A new @NCCGroupInfosec blog post: RCE using ASPNET resource files and deserialization + Attacking in
+## 2018-08-02 · Thread · A new @NCCGroupInfosec blog post: RCE using ASPNET resource files and deserialization + Attacking in
 
 
 Tags (automatic): RCE
@@ -7533,6 +7887,64 @@ Tags (automatic): RCE
 
 **Media:**
 - animated_gif:  — no alt text provided by author
+
+
+### Thread part 2 — @irsdl — 2018-08-02 13:57 UTC (2018-08-02 14:57 WAT)
+
+- URL: https://x.com/irsdl/status/1025017639188480000
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 4
+
+> + Code Execution by Unsafe Resource Handling in Multiple Microsoft Products https://t.co/hWXTukNxTd
+
+
+### Thread part 3 — @irsdl — 2018-08-02 13:57 UTC (2018-08-02 14:57 WAT)
+
+- URL: https://x.com/irsdl/status/1025017840053702656
+- Metrics (at fetch): bookmark 3, impression 0, like 47, quote 2, reply 5, retweet 24
+
+> + Code Execution by Viewing Resource Files in .NET Reflector https://t.co/mSKcnrWsdr https://t.co/qh9ijai5jp
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+### Thread part 4 — @irsdl — 2018-08-02 13:58 UTC (2018-08-02 14:58 WAT)
+
+- URL: https://x.com/irsdl/status/1025017987743539200
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> CC the awesome @pwntester
+
+
+### Thread part 5 — @irsdl — 2018-08-12 21:12 UTC (2018-08-12 22:12 WAT)
+
+- URL: https://x.com/irsdl/status/1028751107827400704
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> + JetBrains dotPeek &amp; ReSharper has been patched: https://t.co/AVoG19PJoT
+
+
+### Thread part 6 — @irsdl — 2018-08-12 21:13 UTC (2018-08-12 22:13 WAT)
+
+- URL: https://x.com/irsdl/status/1028751455493210112
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> + @Telerik justDecompile: https://t.co/XoM4H16bXe (no credit to me in their website at the moment though)
+
+
+---
+
+## 2018-08-07 · Post · A WON'T FIX SECURITY BUG/BYPASS ~= A NEW SECURITY TECHNIQUE
+
+
+### Post — @irsdl — 2018-08-07 21:57 UTC (2018-08-07 22:57 WAT)
+
+- URL: https://x.com/irsdl/status/1026950422026702855
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 1
+
+> A WON'T FIX SECURITY BUG/BYPASS ~= A NEW SECURITY TECHNIQUE
+>
+> Don't be sad if your bug is not going to be patched! It may become even more valuable with a blog post! #appsec #infosec
 
 
 ---
@@ -7552,7 +7964,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2018-07-19 · Post · July2018 MS patch (https://t.co/9kY0AVkI4O) is very important for SharePoint.  Not talking about CVE
+## 2018-07-19 · Thread · July2018 MS patch (https://t.co/9kY0AVkI4O) is very important for SharePoint.  Not talking about CVE
 
 
 ### Post — @irsdl — 2018-07-19 11:59 UTC (2018-07-19 12:59 WAT)
@@ -7564,6 +7976,14 @@ Tags (automatic): RCE
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Did2lIGWkAE-o4N.jpg — no alt text provided by author
+
+
+### Thread part 2 — @irsdl — 2018-07-19 12:10 UTC (2018-07-19 13:10 WAT)
+
+- URL: https://x.com/irsdl/status/1019917347233071105
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Perhaps sending automated warning/contactus messages should be a method in the defence mechanism when data exfilteration via subdomain is being detected! It is also easy to create rules for things like @Burp_Suite collaborator
 
 
 ---
@@ -7607,7 +8027,7 @@ Tags (automatic): SQL injection, Request smuggling / desync
 
 ---
 
-## 2018-07-06 · Post · Here are my WAF bypass talk slides at @appseceu 2018: https://t.co/LSWL9wdjSt Next to the slides her
+## 2018-07-06 · Thread · Here are my WAF bypass talk slides at @appseceu 2018: https://t.co/LSWL9wdjSt Next to the slides her
 
 
 Tags (automatic): Request smuggling / desync
@@ -7625,6 +8045,30 @@ Tags (automatic): Request smuggling / desync
 - photo: https://pbs.twimg.com/media/DhbuDiiX4AAHj2R.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/DhbuHxmXkAAmseo.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/DhbuOJ_XkAApFxm.jpg — no alt text provided by author
+
+
+### Thread part 2 — @irsdl — 2018-07-06 15:51 UTC (2018-07-06 16:51 WAT)
+
+- URL: https://x.com/irsdl/status/1015261854396973056
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 2, retweet 0
+
+> Thanks to everyone who attended my talk, and special thanks to my wife and friends who helped me before the conference to put all these materials together :)
+
+
+### Thread part 3 — @irsdl — 2018-07-06 15:52 UTC (2018-07-06 16:52 WAT)
+
+- URL: https://x.com/irsdl/status/1015262151383056385
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> I have been told after the talk that the modsecurity module was old but I think it would probably work on the latest rule pack too :)
+
+
+### Thread part 4 — @irsdl — 2018-07-06 15:53 UTC (2018-07-06 16:53 WAT)
+
+- URL: https://x.com/irsdl/status/1015262419189485568
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> and the solution to the CTF I had launched earlier this week, is actually inside the slides :) going to shutdown the AWS server shortly to prevent people running commands on the test server :)
 
 
 ---
@@ -7651,6 +8095,19 @@ Tags (automatic): XSS
     
     > Shall I release a big hint?
     
+
+
+---
+
+## 2018-07-03 · Reply · @0x09AL I guess we can extract them for the ones we can test (depends on the ciphers on local box) u
+
+
+### Post — @irsdl — 2018-07-03 10:45 UTC (2018-07-03 11:45 WAT)
+
+- URL: https://x.com/irsdl/status/1014097870839009280
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 2, retweet 0
+
+> @0x09AL I guess we can extract them for the ones we can test (depends on the ciphers on local box) using `https://t.co/Zh2t4hbjdT -E` then pass list of valid ciphers to curl with an obvious bad payload. I'm still not sure why a WAF should let it go when handshake fails, will this work?
 
 
 ---

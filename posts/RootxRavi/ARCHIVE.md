@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 97
+- Posts in this file: 98
 - Conversations/threads: 96
 - Oldest post captured: 2022-10-11
 - Newest post captured: 2026-10-31
@@ -435,7 +435,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2026-06-16 · Post · Which MacBook configuration do you think is ideal for full-time bug bounty hunting in 2026? Running 
+## 2026-06-16 · Thread · Which MacBook configuration do you think is ideal for full-time bug bounty hunting in 2026? Running 
 
 
 Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
@@ -449,6 +449,17 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
 > Which MacBook configuration do you think is ideal for full-time bug bounty hunting in 2026? Running Burp Suite, Claude Code, Docker, browsers, and recon tools has my 16GB M2 Pro struggling.
 >
 > #BugBounty #CyberSecurity #Bugcrowd #HackerOne #AppSec #MacBookPro #InfoSec
+
+
+### Thread part 2 — @RootxRavi — 2026-06-17 11:48 UTC (2026-06-17 12:48 WAT)
+
+- URL: https://x.com/RootxRavi/status/2067212892928364789
+- Metrics (at fetch): bookmark 0, impression 497, like 1, quote 0, reply 0, retweet 0
+
+> @krishnsec https://t.co/oz93F1ntHE
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---

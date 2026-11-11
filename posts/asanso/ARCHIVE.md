@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 174
-- Conversations/threads: 171
+- Posts in this file: 179
+- Conversations/threads: 172
 - Oldest post captured: 2011-01-30
 - Newest post captured: 2026-11-06
 
@@ -83,7 +83,20 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-10-15 · Post · 20 SIGNATURES. ONE PROOF.
+## 2026-10-15 · Reply · @epure_liviu Eip-8288 is your friend
+
+
+### Post — @asanso — 2026-10-15 16:10 UTC (2026-10-15 17:10 WAT)
+
+- URL: https://x.com/asanso/status/2110765202866381241
+- Metrics (at fetch): bookmark 0, impression 108, like 0, quote 0, reply 2, retweet 0
+
+> @epure_liviu Eip-8288 is your friend
+
+
+---
+
+## 2026-10-15 · Thread · 20 SIGNATURES. ONE PROOF.
 
 
 ### Post — @asanso — 2026-10-15 13:35 UTC (2026-10-15 14:35 WAT)
@@ -143,6 +156,14 @@ Tags (automatic): AI-assisted hunting
     
 
 
+### Thread part 2 — @asanso — 2026-10-15 13:35 UTC (2026-10-15 14:35 WAT)
+
+- URL: https://x.com/asanso/status/2110726313069727826
+- Metrics (at fetch): bookmark 0, impression 542, like 11, quote 0, reply 0, retweet 0
+
+> https://t.co/txrACoouPv
+
+
 ---
 
 ## 2026-10-08 · Post · Let's assume I was hired by a research lab with the explicit mission of breaking some pre-quantum cr
@@ -164,7 +185,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-28 · Post · AND THEN THERE WERE FRAMES.
+## 2026-09-28 · Thread · AND THEN THERE WERE FRAMES.
 
 
 ### Post — @asanso — 2026-09-28 08:41 UTC (2026-09-28 09:41 WAT)
@@ -204,6 +225,16 @@ Tags (automatic): AI-assisted hunting
     - photo: https://pbs.twimg.com/media/HS6_bR0XsAA-ADP.jpg — no alt text provided by author
     - photo: https://pbs.twimg.com/media/HS6_mJNXAAAE0KF.jpg — no alt text provided by author
     
+
+
+### Thread part 2 — @asanso — 2026-09-28 08:42 UTC (2026-09-28 09:42 WAT)
+
+- URL: https://x.com/asanso/status/2104491815374389249
+- Metrics (at fetch): bookmark 2, impression 419, like 5, quote 1, reply 0, retweet 0
+
+> https://t.co/86tvhwBMCQ 
+>
+> kudos to @GiulioRebuffo @riva_labs
 
 
 ---
@@ -248,7 +279,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-09-23 · Post · HABEMUS TESTNET — DAISUGI v0.1
+## 2026-09-23 · Thread · HABEMUS TESTNET — DAISUGI v0.1
 
 
 ### Post — @asanso — 2026-09-23 18:34 UTC (2026-09-23 19:34 WAT)
@@ -270,6 +301,14 @@ Tags (automatic): AI-assisted hunting
 **Media:**
 - photo: https://pbs.twimg.com/media/HS6_bR0XsAA-ADP.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HS6_mJNXAAAE0KF.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asanso — 2026-09-23 18:35 UTC (2026-09-23 19:35 WAT)
+
+- URL: https://x.com/asanso/status/2102829131134373916
+- Metrics (at fetch): bookmark 2, impression 1162, like 8, quote 0, reply 0, retweet 0
+
+> https://t.co/86tvhwBMCQ
 
 
 ---
@@ -418,7 +457,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-04-01 · Post · Dropping a new testnet for post-quantum signatures.
+## 2026-04-01 · Thread · Dropping a new testnet for post-quantum signatures.
 
 
 ### Post — @asanso — 2026-04-01 17:03 UTC (2026-04-01 18:03 WAT)
@@ -434,6 +473,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HE1cstrbkAAdJ5t.jpg — no alt text provided by author
+
+
+### Thread part 2 — @asanso — 2026-04-01 17:03 UTC (2026-04-01 18:03 WAT)
+
+- URL: https://x.com/asanso/status/2039388279280119982
+- Metrics (at fetch): bookmark 1, impression 354, like 6, quote 0, reply 0, retweet 0
+
+> https://t.co/cp26Xv86jB
 
 
 ---

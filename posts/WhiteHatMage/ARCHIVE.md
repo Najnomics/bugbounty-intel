@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 139
-- Conversations/threads: 119
+- Posts in this file: 142
+- Conversations/threads: 120
 - Oldest post captured: 2025-12-02
 - Newest post captured: 2026-11-10
 
@@ -827,6 +827,34 @@ Tags (automatic): AI-assisted hunting
 > AI doesn't solve it. 
 >
 > If you're using the same models, blackhats will just spend more tokens than you to find an edge case your tool missed.
+
+
+---
+
+## 2026-07-30 · Reply · @cmichelio I took a look at the first Hitoner episode, comparing it to the source material, and it l
+
+
+**Context — post being replied to:**
+
+#### Parent post — @cmichelio — 2026-07-30 04:32 UTC (2026-07-30 05:32 WAT)
+
+- URL: https://x.com/cmichelio/status/2082685630291796118
+- Metrics (at fetch): bookmark 8, impression 4595, like 38, quote 0, reply 5, retweet 1
+
+> There's a growing scene around AI-created anime from manga source material. It looks promising: You avoid AI's issue of being bad at creating interesting stories. There's also source image available to guide the video creation.
+> The downside is that video creation is currently
+
+
+### Post — @WhiteHatMage — 2026-07-30 17:49 UTC (2026-07-30 18:49 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2082886372990611637
+- Metrics (at fetch): bookmark 0, impression 515, like 5, quote 0, reply 1, retweet 0
+
+> @cmichelio I took a look at the first Hitoner episode, comparing it to the source material, and it looks like well-crafted slop with no additional artistic value, tbh.
+>
+> I guess it’s fine as a new form of mass-produced content, like “animated manga.”
+>
+> Although we’ve already got plenty of
 
 
 ---
@@ -2210,7 +2238,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2026-01-05 · Post · The actual tool that the world needs: Defensive AI.
+## 2026-01-05 · Thread · The actual tool that the world needs: Defensive AI.
 
 
 Tags (automatic): AI-assisted hunting
@@ -2226,6 +2254,14 @@ Tags (automatic): AI-assisted hunting
 > Everyone is focused on detecting exploits, not on preventing them. We built and industry that charges large amounts for audits and bounties.
 >
 > If you prevent bugs you don't need to solve the more complex problem of finding them.
+
+
+### Thread part 2 — @WhiteHatMage — 2026-01-05 14:23 UTC (2026-01-05 15:23 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2008182468600565931
+- Metrics (at fetch): bookmark 0, impression 853, like 10, quote 0, reply 0, retweet 0
+
+> I'm not building it. I'm part of the status quo lol
 
 
 ---
@@ -2246,7 +2282,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-12-26 · Post · Officially at the top of @immunefi 2025 Leaderboard 🧙‍♂️
+## 2025-12-26 · Thread · Officially at the top of @immunefi 2025 Leaderboard 🧙‍♂️
 
 
 Tags (automatic): Platform: Immunefi
@@ -2267,6 +2303,14 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - video: https://pbs.twimg.com/amplify_video_thumb/2004600203597262848/img/VUsKf_-YzK4aNQDr.jpg — no alt text provided by author
+
+
+### Thread part 2 — @WhiteHatMage — 2025-12-27 12:00 UTC (2025-12-27 13:00 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2004884997183091034
+- Metrics (at fetch): bookmark 0, impression 394, like 2, quote 0, reply 1, retweet 0
+
+> @akki_pujari @immunefi I hope it is @_blockian
 
 
 ---

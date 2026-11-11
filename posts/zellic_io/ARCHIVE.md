@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 195
-- Conversations/threads: 104
+- Posts in this file: 227
+- Conversations/threads: 103
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
 
@@ -2024,22 +2024,10 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2025-05-21 · Post · Two teams (Aptos and Sui) comprise the majority of the Move ecosystem today.
+## 2025-05-21 · Thread · Every ecosystem has footguns that developers stumble into, leading to security issues.
 
 
-### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
-
-- URL: https://x.com/zellic_io/status/1925281826576421308
-- Metrics (at fetch): bookmark 2, impression 334, like 3, quote 0, reply 1, retweet 0
-
-> Two teams (Aptos and Sui) comprise the majority of the Move ecosystem today.
->
-> Here we explore the security pitfalls of the Aptos Move language: https://t.co/KLv6jJk4Gw
-
-
----
-
-## 2025-05-21 · Post · Every ecosystem has footguns that developers stumble into, leading to security issues.
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
@@ -2054,6 +2042,42 @@ Tags (automatic): Smart contract / DeFi
 > With 10+ guides released, we wanted to put them all in one spot.
 >
 > Check them out:🧵
+
+
+### Thread part 2 — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281822881312906
+- Metrics (at fetch): bookmark 0, impression 427, like 3, quote 0, reply 1, retweet 0
+
+> First, check out “The Auditooor Grindset”, Zellic’s very first blog.
+>
+> This is a crash course on smart contract auditing for vulnerability researchers: https://www.zellic.io/blog/the-auditooor-grindset
+
+**Links in post:** https://www.zellic.io/blog/the-auditooor-grindset
+
+
+### Thread part 3 — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281824861028575
+- Metrics (at fetch): bookmark 1, impression 357, like 2, quote 0, reply 1, retweet 0
+
+> There are many footguns one may encounter while creating Solana programs.
+>
+> Make sure to read up on the vulnerabilities that could manifest when writing Solana smart contracts: https://www.zellic.io/blog/the-vulnerabilities-youll-write-with-anchor
+
+**Links in post:** https://www.zellic.io/blog/the-vulnerabilities-youll-write-with-anchor
+
+
+### Thread part 4 — @zellic_io — 2025-05-21 20:05 UTC (2025-05-21 21:05 WAT)
+
+- URL: https://x.com/zellic_io/status/1925281826576421308
+- Metrics (at fetch): bookmark 2, impression 334, like 3, quote 0, reply 1, retweet 0
+
+> Two teams (Aptos and Sui) comprise the majority of the Move ecosystem today.
+>
+> Here we explore the security pitfalls of the Aptos Move language: https://www.zellic.io/blog/move-fast-and-break-things-pt-1
+
+**Links in post:** https://www.zellic.io/blog/move-fast-and-break-things-pt-1
 
 
 ---
@@ -2095,7 +2119,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 ---
 
-## 2025-05-15 · Post · We retrieved every contract on Ethereum.
+## 2025-05-15 · Thread · We retrieved every contract on Ethereum.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 
 ### Post — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
@@ -2109,10 +2136,242 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 >
 > This is how we did it.🧵
 >
-> (Spoiler: It’s 69,788,231 contracts!) https://t.co/o5bSfY8wJS
+> (Spoiler: It’s 69,788,231 contracts!) [pic.x.com/o5bSfY8wJS]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GrANBfOaAAMDW8-.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073681858887899
+- Metrics (at fetch): bookmark 3, impression 4615, like 28, quote 0, reply 2, retweet 0
+
+> First of all, why did we do this?
+>
+> It’s useful to have a dataset of contract addresses and bytecodes of every single deployed contract on Ethereum.
+>
+> By having this dataset, we can
+>
+> • easily query for all contracts containing specific bytecodes,
+> • perform static analysis on all deployed contracts to uncover vulnerabilities,
+> • discover interesting trends and statistics by graphing contract data over time,
+>
+> and more.
+
+
+### Thread part 3 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073684098466144
+- Metrics (at fetch): bookmark 0, impression 4112, like 24, quote 0, reply 2, retweet 0
+
+> As far as we know, there isn’t an existing public resource or RPC endpoint that enumerates all deployed contracts.
+>
+> This means that we had to tackle this problem ourselves.
+>
+> So we ended up taking a few separate approaches that eventually led us to the final version.
+
+
+### Thread part 4 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073686757945627
+- Metrics (at fetch): bookmark 3, impression 4201, like 21, quote 0, reply 1, retweet 0
+
+> 1. The naive method.
+>
+> The most naive approach is to go through every single transaction looking for deployment transactions.
+>
+> We can do this through `eth_getBlockByNumber` starting from block number 1 and looping through transactions in each block.
+>
+> If a transaction doesn’t have a `to` address, it is a deployment transaction, and we can use another RPC call, `eth_getTransactionReceipt`, to get the deployed contract address.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrANJ-La4AAVRZI.jpg — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073689505136869
+- Metrics (at fetch): bookmark 3, impression 3677, like 22, quote 0, reply 1, retweet 0
+
+> BUT: this won’t work for contracts deployed in internal transactions.
+>
+> This approach doesn’t handle scenarios like the Uniswap V3 Factory contract, which is designed to deploy Uniswap V3 pools.
+>
+> This pattern is very widespread on-chain, which makes getting all deployed contracts much more difficult than it appears.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrANPZNaAAE77QZ.jpg — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073691442966596
+- Metrics (at fetch): bookmark 2, impression 3496, like 22, quote 0, reply 3, retweet 0
+
+> 2. Smart Contract Fiesta.
+>
+> When we approached this problem two years ago, we performed an Ethereum node full sync from the genesis block using a modified Geth instance.
+>
+> A tracer was added to catch every instance of the `CREATE` and `CREATE2` opcodes executing, and contract addresses and block numbers of every contract deployed would be recorded as the full node synced.
+
+
+### Thread part 7 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073692986204223
+- Metrics (at fetch): bookmark 10, impression 3095, like 25, quote 0, reply 2, retweet 0
+
+> This project was dubbed Smart Contract Fiesta, which you can read more about here: https://huggingface.co/datasets/Zellic/smart-contract-fiesta
+
+**Links in post:** https://huggingface.co/datasets/Zellic/smart-contract-fiesta
+
+
+### Thread part 8 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073695192580498
+- Metrics (at fetch): bookmark 1, impression 2706, like 18, quote 0, reply 1, retweet 0
+
+> 3. Deployment Scan.
+>
+> Finally, our latest efforts: While building the EVM trackooor, we wanted to initialize all Ethereum contracts, inspired by the DeltaPrime exploit.
+>
+> First, we needed a list of all contracts.
+>
+> We called this project Deployment Scan.
+
+
+### Thread part 9 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073696983372252
+- Metrics (at fetch): bookmark 0, impression 2614, like 11, quote 0, reply 2, retweet 0
+
+> We tried using RPC calls to an already synced full node — several APIs seemed promising for our purpose.
+>
+> We first tried Debug API as it features `debug_traceTransaction`, which returns info on all internal calls for a given transaction.
+>
+> The return looks something like this: [pic.x.com/WpHr2fasTe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrANcNBaAAIivIs.jpg — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073700204785783
+- Metrics (at fetch): bookmark 0, impression 2539, like 10, quote 0, reply 1, retweet 0
+
+> To get contracts deployed in a given transaction, we would call `debug_traceTransaction` on it and check the `Type` of the call.
+>
+> However, if the `Type` is a `CALL` or `DELEGATECALL`, `Calls` would have information on those calls, so we would have to iterate recursively through those calls as well.
+>
+> Essentially, the recursive function to extract deployed contracts from a trace looked something like this:
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrAgVlvaAAESINf.png — no alt text provided by author
+
+
+### Thread part 11 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073702482280837
+- Metrics (at fetch): bookmark 0, impression 2441, like 12, quote 0, reply 1, retweet 0
+
+> This turned out to be incredibly slow, which makes sense as this method calls `debug_traceTransaction` on every single transaction.
+>
+> Luckily, there are methods of getting traces for entire blocks, not just individual transactions.
+>
+> We decided to go with Trace API’s `trace_block` as the data structure it returns also negates the need for recursive calls.
+
+
+### Thread part 12 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073705179013378
+- Metrics (at fetch): bookmark 2, impression 7858, like 22, quote 1, reply 3, retweet 0
+
+> With an Erigon full node running on the same server as our code and running `trace_block` for every block starting from genesis, we successfully retrieved all deployed contracts and their bytecodes in around five days! [pic.x.com/5ciMenD0Pq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrANi61WAAI3Fy-.jpg — no alt text provided by author
+
+
+### Thread part 13 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073707729166420
+- Metrics (at fetch): bookmark 38, impression 3772, like 51, quote 1, reply 3, retweet 4
+
+> The dataset of all contracts and bytecodes can be found here: https://huggingface.co/datasets/Zellic/all-ethereum-contracts
+>
+> All data is up-to-date as of block 21,850,000 (February 15th, 2025).
+
+**Links in post:** https://huggingface.co/datasets/Zellic/all-ethereum-contracts
+
+
+### Thread part 14 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073710065373244
+- Metrics (at fetch): bookmark 2, impression 2076, like 17, quote 0, reply 1, retweet 1
+
+> With this tool in hand, we were able to find some interesting statistics:
+>
+> • As of block 21,850,000 (February 15th, 2025), there have been 69,788,231 contracts deployed on Ethereum. [pic.x.com/0tC7WL8111]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrAOmHqWgAAA3zz.png — no alt text provided by author
+
+
+### Thread part 15 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073714888827074
+- Metrics (at fetch): bookmark 0, impression 1929, like 13, quote 0, reply 3, retweet 1
+
+> • There are almost 70 million contracts deployed, but only around 2.5 million unique bytecodes. [pic.x.com/FRhUfNrHbq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrAOoa9aAAA1lOk.png — no alt text provided by author
+
+
+### Thread part 16 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073718894350710
+- Metrics (at fetch): bookmark 0, impression 2400, like 11, quote 1, reply 1, retweet 0
+
+> • On October 4th, 2016, 16,000 unique contracts were deployed in one day. [pic.x.com/FIcsVopHXL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrAOzB3WAAQb8Pp.jpg — no alt text provided by author
+
+
+### Thread part 17 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073722069532906
+- Metrics (at fetch): bookmark 0, impression 1845, like 12, quote 0, reply 3, retweet 0
+
+> • Out of the EOAs, address `0xFfff46…` deployed the most contracts — almost 2.9 million! [pic.x.com/a2b9NBY8H0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrAO3eOWAAELQ9n.jpg — no alt text provided by author
+
+
+### Thread part 18 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073724250472667
+- Metrics (at fetch): bookmark 7, impression 2266, like 32, quote 0, reply 1, retweet 0
+
+> This was a project completed by Zellic intern Rainier Wu.
+>
+> For more about the motivation behind this project, the full development process, and how he found a $5,000 uninitialized contract, check out the full blog here: https://www.zellic.io/blog/all-ethereum-contracts
+
+**Links in post:** https://www.zellic.io/blog/all-ethereum-contracts
+
+
+### Thread part 19 — @zellic_io — 2025-05-15 17:51 UTC (2025-05-15 18:51 WAT)
+
+- URL: https://x.com/zellic_io/status/1923073727723454895
+- Metrics (at fetch): bookmark 1, impression 2056, like 15, quote 0, reply 0, retweet 0
+
+> [pic.x.com/pVrvqQLbI6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrAhOv-WYAAMk0Y.png — no alt text provided by author
 
 
 ---
@@ -2160,7 +2419,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2025-04-22 · Post · How to spot misleading audit competition metrics
+## 2025-04-22 · Thread · How to spot misleading audit competition metrics
 
 
 Tags (automatic): Platform: Code4rena / Sherlock / Cantina
@@ -2179,6 +2438,140 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GpKnnp-WsAAoQGo.png — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2025-04-22 20:29 UTC (2025-04-22 21:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1914778530636005756
+- Metrics (at fetch): bookmark 3, impression 5142, like 24, quote 1, reply 1, retweet 0
+
+> 1. Misleading finding counts
+>
+> The screenshot above is a real world example: "Total submissions" includes invalid findings, and "valid findings" likely counts duplicates.
+>
+> 🤔 Is it realistic for a $60k contest (~3k SLoC) to find 248 high severity bugs? That's one every 12 lines!
+
+
+### Thread part 3 — @zellic_io — 2025-04-22 20:29 UTC (2025-04-22 21:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1914778532598964707
+- Metrics (at fetch): bookmark 2, impression 4663, like 17, quote 0, reply 2, retweet 0
+
+> 2. Misleading "Participation" metrics
+>
+> 🤔 Is a "participant" someone who actually participated in the audit and submitted valid bugs? Or was it just anyone that clicked the "Join Audit" button?
+>
+> Example:  This contest had 573 "participants"...
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKn0ZiXcAAcdEZ.png — no alt text provided by author
+
+
+### Thread part 4 — @zellic_io — 2025-04-22 20:29 UTC (2025-04-22 21:29 WAT)
+
+- URL: https://x.com/zellic_io/status/1914778537321775249
+- Metrics (at fetch): bookmark 3, impression 4127, like 15, quote 0, reply 1, retweet 0
+
+> ...when only 56 auditors submitted valid High / Medium findings! [pic.x.com/OJOux9AThj]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKn3hkWIAA7LFH.png — no alt text provided by author
+
+
+### Thread part 5 — @zellic_io — 2025-04-22 20:35 UTC (2025-04-22 21:35 WAT)
+
+- URL: https://x.com/zellic_io/status/1914780074756235604
+- Metrics (at fetch): bookmark 2, impression 12754, like 12, quote 2, reply 2, retweet 0
+
+> Here's another example of this:
+>
+> Here 601 "participants" are claimed, but only ~50 participants scored more than 1 point.
+>
+> 🤔 People scoring 1 point or "- pts" only earned $13...are these people finding and submitting useful bugs? [pic.x.com/9IfCUJSzuO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKqJn6WQAAZz7G.png — no alt text provided by author
+
+
+### Thread part 6 — @zellic_io — 2025-04-22 20:35 UTC (2025-04-22 21:35 WAT)
+
+- URL: https://x.com/zellic_io/status/1914780151147323778
+- Metrics (at fetch): bookmark 1, impression 3724, like 14, quote 0, reply 1, retweet 0
+
+> 3. Claims about "exclusive" auditors, when they may not be guaranteed to actually participate in and work hard on your competition
+>
+> 🤔Are these “exclusive” researchers contractually required to participate in my competition?
+> 🤔Who is managing them & monitoring their performance?
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKqYszXwAAFzO2.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GpKqZiTXEAAT7Cw.png — no alt text provided by author
+
+
+### Thread part 7 — @zellic_io — 2025-04-22 20:35 UTC (2025-04-22 21:35 WAT)
+
+- URL: https://x.com/zellic_io/status/1914780226539696169
+- Metrics (at fetch): bookmark 1, impression 3579, like 10, quote 0, reply 1, retweet 0
+
+> 4. Claims about auditors that work on the consultative audit side of the business
+>
+> This creates confusion by implying these auditors will be involved in the competition, when they might not be!
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKqdmmXwAAaFwi.png — no alt text provided by author
+
+
+### Thread part 8 — @zellic_io — 2025-04-22 20:36 UTC (2025-04-22 21:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1914780276976132296
+- Metrics (at fetch): bookmark 1, impression 3658, like 12, quote 0, reply 1, retweet 0
+
+> 5. Anonymous testimonials
+>
+> Bashing competitors by quoting anonymous sources is sus. You should ask them for contact info so you can do a reference check yourself!
+>
+> (Neither of the brands in this screenshot are ours)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKqgYjWIAAnqDR.png — no alt text provided by author
+
+
+### Thread part 9 — @zellic_io — 2025-04-22 20:36 UTC (2025-04-22 21:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1914780330516734042
+- Metrics (at fetch): bookmark 1, impression 3411, like 10, quote 0, reply 1, retweet 0
+
+> 6. Claims about likes and retweets
+>
+> 🤔 Different projects have different numbers of followers. Is this a realistic comparison?
+> 🤔 The purpose of an audit competition isn't to farm engagement on CT. It's to find and fix bugs in your protocol.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpKqjhtXUAAkWBG.png — no alt text provided by author
+
+
+### Thread part 10 — @zellic_io — 2025-04-22 20:36 UTC (2025-04-22 21:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1914780357909737732
+- Metrics (at fetch): bookmark 1, impression 3374, like 16, quote 0, reply 1, retweet 0
+
+> Instead of these misleading metrics, focus on:
+>
+> 👉 # of High/Medium findings reported
+> 👉 # of researchers who submitted valid findings
+>
+> These directly measure the security impact on your protocol and the number of eyes on the code. These are the key metrics that actually matter!
+
+
+### Thread part 11 — @zellic_io — 2025-04-22 20:36 UTC (2025-04-22 21:36 WAT)
+
+- URL: https://x.com/zellic_io/status/1914780418869547209
+- Metrics (at fetch): bookmark 7, impression 3210, like 25, quote 0, reply 0, retweet 0
+
+> This thread is just an overview of all of the slippery sales tactics we've seen out there. For more tips and important questions to ask when choosing a competition, check out the full blog post:
+> https://www.zellic.io/blog/audit-competition-faq
+
+**Links in post:** https://www.zellic.io/blog/audit-competition-faq
 
 
 ---
@@ -2209,7 +2602,7 @@ Tags (automatic): SSRF, AI-assisted hunting
 
 ---
 
-## 2025-02-12 · Post · We're proud to share that Zellic Security Researcher @fcremo helped discover an issue in the Cairo V
+## 2025-02-12 · Thread · We're proud to share that Zellic Security Researcher @fcremo helped discover an issue in the Cairo V
 
 
 Tags (automatic): ZK
@@ -2228,9 +2621,21 @@ Tags (automatic): ZK
 - photo: https://pbs.twimg.com/media/GjmoxFLXQAAPSIq.png — no alt text provided by author
 
 
+### Thread part 2 — @zellic_io — 2025-02-12 17:24 UTC (2025-02-12 18:24 WAT)
+
+- URL: https://x.com/zellic_io/status/1889727215341805686
+- Metrics (at fetch): bookmark 0, impression 663, like 9, quote 0, reply 0, retweet 1
+
+> We would like to commend the Starknet team for their ongoing commitment to security.
+>
+> Link to the full bug disclosure below: https://community.starknet.io/t/remediating-a-potential-sequencer-prover-inconsistency-in-the-cairo-vm/115313
+
+**Links in post:** https://community.starknet.io/t/remediating-a-potential-sequencer-prover-inconsistency-in-the-cairo-vm/115313
+
+
 ---
 
-## 2025-01-29 · Post · The Zellic cryptography team finished first place in the second and third puzzles in the latest @__z
+## 2025-01-29 · Thread · The Zellic cryptography team finished first place in the second and third puzzles in the latest @__z
 
 
 Tags (automatic): ZK
@@ -2247,6 +2652,16 @@ Tags (automatic): ZK
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GiepajlWAAAzE6w.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zellic_io — 2025-01-29 17:54 UTC (2025-01-29 18:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1884661314041131109
+- Metrics (at fetch): bookmark 5, impression 730, like 3, quote 1, reply 0, retweet 1
+
+> Link to Breaking Down the Puzzles in ZK Hack V: https://www.zellic.io/blog/zellic-wins-two-puzzles-in-zkhack-v
+
+**Links in post:** https://www.zellic.io/blog/zellic-wins-two-puzzles-in-zkhack-v
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
-- Conversations/threads: 59
+- Posts in this file: 64
+- Conversations/threads: 58
 - Oldest post captured: 2021-09-11
 - Newest post captured: 2026-10-28
 
@@ -558,7 +558,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2025-09-03 · Post · DOMLogger++ v1.0.9 is now out and available! 🎉
+## 2025-09-03 · Thread · DOMLogger++ v1.0.9 is now out and available! 🎉
 
 
 ### Post — @kevin_mizu — 2025-09-03 14:32 UTC (2025-09-03 15:32 WAT)
@@ -580,12 +580,58 @@ Tags (automatic): Platform: HackerOne
 - photo: https://pbs.twimg.com/media/Gz7b40oXIAAPJp0.jpg — no alt text provided by author
 
 
+### Thread part 2 — @kevin_mizu — 2025-09-03 14:32 UTC (2025-09-03 15:32 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1963248710873145586
+- Metrics (at fetch): bookmark 2, impression 1057, like 15, quote 0, reply 2, retweet 0
+
+> Small teaser for Caido users :)
+>
+> 2/2 https://t.co/N6OOdW96a6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gz7cAieXEAAmr5F.jpg — no alt text provided by author
+
+
 ---
 
-## 2025-07-24 · Post · Each library page includes:
+## 2025-07-24 · Thread · I'm happy to release a script gadgets wiki inspired by the work of @slekies, @kkotowicz, and @sirdar
+
+
+Tags (automatic): CSP / CSPT
 
 
 ### Post — @kevin_mizu — 2025-07-24 15:31 UTC (2025-07-24 16:31 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1948405598019518967
+- Metrics (at fetch): bookmark 301, impression 43592, like 456, quote 3, reply 12, retweet 172
+
+> I'm happy to release a script gadgets wiki inspired by the work of @slekies, @kkotowicz, and @sirdarckcat in their Black Hat USA 2017 talk! 🔥
+>
+> The goal is to provide quick access to gadgets that help bypass HTML sanitizers and CSPs 👇
+>
+> https://t.co/SgsSyxoEMR
+>
+> 1/4 https://t.co/RafUkR3NVn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gwoey2BXcAEhPwY.jpg — no alt text provided by author
+
+
+### Thread part 2 — @kevin_mizu — 2025-07-24 15:31 UTC (2025-07-24 16:31 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1948405601488228684
+- Metrics (at fetch): bookmark 3, impression 1994, like 7, quote 0, reply 1, retweet 2
+
+> The wiki lets you filter gadgets by browser, tags, attributes, CSP, and timing, making it as easy as possible to find interesting vectors (at least I hope so!) 🔎
+>
+> 2/4 https://t.co/u8yYiwV3qy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GwofA9-W0AALIXY.png — no alt text provided by author
+
+
+### Thread part 3 — @kevin_mizu — 2025-07-24 15:31 UTC (2025-07-24 16:31 WAT)
 
 - URL: https://x.com/kevin_mizu/status/1948405604629811640
 - Metrics (at fetch): bookmark 2, impression 2865, like 11, quote 1, reply 1, retweet 4
@@ -607,26 +653,16 @@ Tags (automatic): Platform: HackerOne
 - photo: https://pbs.twimg.com/media/GwofoGSXkAAoLf0.jpg — no alt text provided by author
 
 
----
+### Thread part 4 — @kevin_mizu — 2025-07-24 15:31 UTC (2025-07-24 16:31 WAT)
 
-## 2025-07-24 · Post · I'm happy to release a script gadgets wiki inspired by the work of @slekies, @kkotowicz, and @sirdar
+- URL: https://x.com/kevin_mizu/status/1948405607012167690
+- Metrics (at fetch): bookmark 2, impression 1902, like 9, quote 0, reply 2, retweet 2
 
-
-### Post — @kevin_mizu — 2025-07-24 15:31 UTC (2025-07-24 16:31 WAT)
-
-- URL: https://x.com/kevin_mizu/status/1948405598019518967
-- Metrics (at fetch): bookmark 301, impression 43592, like 456, quote 3, reply 12, retweet 172
-
-> I'm happy to release a script gadgets wiki inspired by the work of @slekies, @kkotowicz, and @sirdarckcat in their Black Hat USA 2017 talk! 🔥
+> This is still v1, there's lots to improve and many gadgets to add.
 >
-> The goal is to provide quick access to gadgets that help bypass HTML sanitizers and CSPs 👇
+> If you'd like to contribute or have any feedback, please don't hesitate to reach out 😁
 >
-> https://t.co/SgsSyxoEMR
->
-> 1/4 https://t.co/RafUkR3NVn
-
-**Media:**
-- photo: https://pbs.twimg.com/media/Gwoey2BXcAEhPwY.jpg — no alt text provided by author
+> 4/4
 
 
 ---

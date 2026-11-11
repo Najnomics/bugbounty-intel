@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
+- Posts in this file: 79
 - Conversations/threads: 49
 - Oldest post captured: 2018-11-14
 - Newest post captured: 2026-09-16
@@ -747,7 +747,7 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2025-04-19 · Post · Over the past one month, I’ve encountered two duplicate bug reports in @immunefi . While that can be
+## 2025-04-19 · Thread · Over the past one month, I’ve encountered two duplicate bug reports in @immunefi . While that can be
 
 
 Tags (automatic): Platform: Immunefi
@@ -760,6 +760,16 @@ Tags (automatic): Platform: Immunefi
 
 > Over the past one month, I’ve encountered two duplicate bug reports in @immunefi . While that can be a bit frustrating, the encouraging and appreciative responses from the product team have been incredibly motivating and made me want to keep looking 
 > (1/2)
+
+
+### Thread part 2 — @csanuragjain — 2025-04-19 04:09 UTC (2025-04-19 05:09 WAT)
+
+- URL: https://x.com/csanuragjain/status/1913444909769695304
+- Metrics (at fetch): bookmark 0, impression 723, like 13, quote 0, reply 1, retweet 0
+
+> @immunefi Filing and reviewing issues takes time and effort from both researchers and product teams. A little encouragement can go a long way in boosting a researcher’s morale and prompting deeper exploration.
+>
+> Thanks to that support, I was able to discover a confirmed High severity issue
 
 
 ---

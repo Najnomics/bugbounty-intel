@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1102
+- Posts in this file: 1106
 - Conversations/threads: 986
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
@@ -6138,7 +6138,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-07-05 · Post · Thinking about hosting a bug bounty meet up at @defcon with @Jhaddix and @stokfredrik. Who would be 
+## 2023-07-05 · Thread · Thinking about hosting a bug bounty meet up at @defcon with @Jhaddix and @stokfredrik. Who would be 
 
 
 ### Post — @NahamSec — 2023-07-05 05:15 UTC (2023-07-05 06:15 WAT)
@@ -6147,6 +6147,14 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 1, impression 28300, like 137, quote 1, reply 23, retweet 9
 
 > Thinking about hosting a bug bounty meet up at @defcon with @Jhaddix and @stokfredrik. Who would be interested in something like this? Who else would you like to see there?
+
+
+### Thread part 2 — @NahamSec — 2023-07-05 05:17 UTC (2023-07-05 06:17 WAT)
+
+- URL: https://x.com/NahamSec/status/1676460284851150849
+- Metrics (at fetch): bookmark 0, impression 5126, like 15, quote 0, reply 5, retweet 0
+
+> I would personally love to have @samwcyo, @bbuerhaus, @0xteknogeek, @naglinagli, @codecancare, or @Rhynorater there too! 🤔
 
 
 ---
@@ -8106,7 +8114,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2022-07-03 · Post · Today's episode of Live Recon will not have a guest, but me and @Jhaddix will be going live to do so
+## 2022-07-03 · Thread · Today's episode of Live Recon will not have a guest, but me and @Jhaddix will be going live to do so
 
 
 ### Post — @NahamSec — 2022-07-03 15:34 UTC (2022-07-03 16:34 WAT)
@@ -8120,9 +8128,20 @@ Tags (automatic): Platform: Bugcrowd
 - photo: https://pbs.twimg.com/media/FWuQD3GUsAAh4Cb.jpg — no alt text provided by author
 
 
+### Thread part 2 — @NahamSec — 2022-07-03 18:28 UTC (2022-07-03 19:28 WAT)
+
+- URL: https://x.com/NahamSec/status/1543663026011721728
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 0, retweet 0
+
+> @Jhaddix Live now! Come hang :)
+
+
 ---
 
-## 2022-06-30 · Post · Not shit, bro. I was the top hacker on your bug bounty program but I wanna go back to using your sit
+## 2022-06-30 · Thread · Not shit, bro. I was the top hacker on your bug bounty program but I wanna go back to using your sit
+
+
+Tags (automatic): Platform: HackerOne
 
 
 ### Post — @NahamSec — 2022-06-30 18:07 UTC (2022-06-30 19:07 WAT)
@@ -8130,10 +8149,18 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/NahamSec/status/1542570482511142912
 - Metrics (at fetch): bookmark 7, impression 0, like 155, quote 2, reply 8, retweet 2
 
-> Not shit, bro. I was the top hacker on your bug bounty program but I wanna go back to using your site like a normal person and live my life. Please help :( @Airbnb https://t.co/oIVRGU6e40
+> Not shit, bro. I was the top hacker on your bug bounty program but I wanna go back to using your site like a normal person and live my life. Please help :( @Airbnb [pic.x.com/oIVRGU6e40]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FWhPkRHUUAEoiSM.png — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2022-06-30 18:08 UTC (2022-06-30 19:08 WAT)
+
+- URL: https://x.com/NahamSec/status/1542570794282127360
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 1
+
+> @Airbnb Maybe someone from @Hacker0x01 can help me?
 
 
 ---
@@ -8155,7 +8182,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2022-06-26 · Post · I haven't done this in a while, but my bug bounty course is free for the next hour or so. 
+## 2022-06-26 · Thread · I haven't done this in a while, but my bug bounty course is free for the next hour or so. 
 
 
 ### Post — @NahamSec — 2022-06-26 19:21 UTC (2022-06-26 20:21 WAT)
@@ -8165,7 +8192,19 @@ Tags (automatic): Platform: Bugcrowd
 
 > I haven't done this in a while, but my bug bounty course is free for the next hour or so. 
 >
-> Use code "JUNE2022" to get it! https://t.co/X0vKs8gLOO
+> Use code "JUNE2022" to get it! https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=nahamcon2022
+
+**Links in post:** https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=nahamcon2022
+
+
+### Thread part 2 — @NahamSec — 2022-06-26 21:06 UTC (2022-06-26 22:06 WAT)
+
+- URL: https://x.com/NahamSec/status/1541166006269227008
+- Metrics (at fetch): bookmark 5, impression 0, like 64, quote 1, reply 1, retweet 7
+
+> I went to disable this but looks like we hit the limit for the coupon in under two hours. I can't make it FREE anymore but if you want to buy it, it's $9.99 for the next 5 days! https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=JUNE2022-999
+
+**Links in post:** https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=JUNE2022-999
 
 
 ---

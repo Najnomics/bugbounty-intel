@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 399
+- Posts in this file: 411
 - Conversations/threads: 321
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
@@ -3913,7 +3913,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2023-08-04 · Post · Ways to leak oauth code in app:
+## 2023-08-04 · Thread · Ways to leak oauth code in app:
 
 
 Tags (automatic): OAuth
@@ -3928,6 +3928,14 @@ Tags (automatic): OAuth
 > * Bad redir URL host (can redirect to badexample[.]com not just example[.]com)
 > * Bad redir URL host via . regex issue (can redirect to wwwXexample[.]com instead of www[.]example[.]com)
 > * Bad redir URL path (redir to a path the attacker can leak via
+
+
+### Thread part 2 — @Rhynorater — 2023-08-04 15:29 UTC (2023-08-04 16:29 WAT)
+
+- URL: https://x.com/Rhynorater/status/1687485799003029504
+- Metrics (at fetch): bookmark 3, impression 2094, like 5, quote 0, reply 0, retweet 0
+
+> Could potentially do it via a mobile app deep link/applink issue as well. Just thought of that...
 
 
 ---
@@ -4762,7 +4770,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2022-10-27 · Post · Here are a couple things I always check when looking at a web application: 🧵
+## 2022-10-27 · Thread · Here are a couple things I always check when looking at a web application: 🧵
 
 
 ### Post — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
@@ -4771,6 +4779,99 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 717, impression 0, like 1053, quote 19, reply 61, retweet 414
 
 > Here are a couple things I always check when looking at a web application: 🧵
+
+
+### Thread part 2 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640810141605890
+- Metrics (at fetch): bookmark 18, impression 0, like 76, quote 0, reply 2, retweet 3
+
+> 1. How is CSRF protection implemented?
+> Does the application use only application/json content-type? Can you convert {"name":"Justin"} to name=Justin and change the content-type? Is CSRF token tied to account? Session? Are there any "unauthed" CSRF tokens?
+
+
+### Thread part 3 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640812875948035
+- Metrics (at fetch): bookmark 3, impression 0, like 53, quote 0, reply 1, retweet 1
+
+> Can you switch POST -&gt; GET? If not, what are you getting? If 405, then it is parsing the route, but GET is disallowed at this endpoint. Try other endpoints.
+
+
+### Thread part 4 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640817066409986
+- Metrics (at fetch): bookmark 3, impression 0, like 63, quote 0, reply 3, retweet 3
+
+> 2. Is caching implemented? 
+> If so, is it tied to certain paths such as /assets? Can you path traverse - /assets/..;/test - does that cache? Can you find a place where HTML content-type will be cached? Try to %3f.css or %23.css trick to see if you can trick the caching mechanism.
+
+
+### Thread part 5 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640821365174272
+- Metrics (at fetch): bookmark 1, impression 0, like 46, quote 0, reply 1, retweet 2
+
+> Sometimes it's as simple as adding ?.png at the end of a URL. In such cases it is often very possible to get web cache deception.
+
+
+### Thread part 6 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640825291411456
+- Metrics (at fetch): bookmark 1, impression 0, like 34, quote 0, reply 1, retweet 2
+
+> 3. How is information passed between various parts of the system (different domains, etc)?
+> Does the system pass codes via query parameters? URL Fragments? PostMessage? Are there any pages where the X-frame-options header is mysteriously missing?
+
+
+### Thread part 7 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640828503891970
+- Metrics (at fetch): bookmark 1, impression 0, like 34, quote 0, reply 1, retweet 1
+
+> Cross-domain interactions are almost always sketchy. Look deep into how each piece of these systems is implemented and try to wiggle your way in-between the pieces.
+
+
+### Thread part 8 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640831217995781
+- Metrics (at fetch): bookmark 6, impression 0, like 51, quote 0, reply 1, retweet 3
+
+> 4. How do all the pieces of authentication work?
+> Is the application using cookies? Auth tokens in the headers? Both? Where do these values appear? I often use the Burp Plugin RequestMinimizer to help identify which pieces of the request are actually essential.
+
+
+### Thread part 9 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640834741211137
+- Metrics (at fetch): bookmark 2, impression 0, like 31, quote 0, reply 1, retweet 2
+
+> Are there any half-authenticated states? 2-FA not verified states? States before your email/phone is verified? Is authentication ever based solely off of text (such as an email in a JWT token vs an ID)? If so, are there Unicode normalization attacks here?
+
+
+### Thread part 10 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640837383622661
+- Metrics (at fetch): bookmark 3, impression 0, like 29, quote 0, reply 1, retweet 2
+
+> 5. Is there any documentation for this application? 
+> I have legit never regretted reading the documentation for an application. I ALWAYS get something valuable out of it. It takes at MAX 1 hour (most of the time) and you walk away with a much better understanding of the app.
+
+
+### Thread part 11 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640840499560449
+- Metrics (at fetch): bookmark 5, impression 0, like 34, quote 0, reply 1, retweet 2
+
+> So much of web application hacking is about finding funky states you can get the application into. Reading the documentation will help you understand which parts of the application you (and thus other hackers) have not seen yet, and how to get to them. Priceless.
+
+
+### Thread part 12 — @Rhynorater — 2022-10-27 14:33 UTC (2022-10-27 15:33 WAT)
+
+- URL: https://x.com/Rhynorater/status/1585640844346150912
+- Metrics (at fetch): bookmark 4, impression 0, like 39, quote 0, reply 4, retweet 2
+
+> That's it for now! If y'all got any 🔥 things you do each time you look at an app to help you understand how it functions, hmu here. Let's share that knowledge and keep pwning stuff.
 
 
 ---

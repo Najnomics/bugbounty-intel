@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 402
+- Posts in this file: 403
 - Conversations/threads: 356
 - Oldest post captured: 2023-02-23
 - Newest post captured: 2026-11-09
@@ -7462,7 +7462,7 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2023-08-14 · Post · Really cool finding from @CodeHawks Stablecoin contest:
+## 2023-08-14 · Thread · Really cool finding from @CodeHawks Stablecoin contest:
 
 
 Tags (automatic): Smart contract / DeFi
@@ -7481,7 +7481,9 @@ Tags (automatic): Smart contract / DeFi
 >
 > * weaponized the vuln to steal user collateral during liquidation.
 >
-> Fantastic! https://t.co/h8T7BObUzi
+> Fantastic! https://twitter.com/hansfriese/status/1691132694099382291
+
+**Links in post:** https://twitter.com/hansfriese/status/1691132694099382291
 
 **Quoted post (full text):**
 
@@ -7494,6 +7496,22 @@ Tags (automatic): Smart contract / DeFi
     >
     > https://t.co/zyusUGpJH3
     
+
+
+### Thread part 2 — @DevDacian — 2023-08-14 21:38 UTC (2023-08-14 22:38 WAT)
+
+- URL: https://x.com/DevDacian/status/1691202607006859264
+- Metrics (at fetch): bookmark 2, impression 457, like 4, quote 0, reply 0, retweet 0
+
+> @CodeHawks To better understand the theory behind this finding:
+>
+> "Don't Assume Oracle Price Precision" @ https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf#87fc
+>
+> "Mismatched Precision Scaling" @ https://dacian.me/precision-loss-errors#heading-mismatched-precision-scaling
+>
+> "No Precision Scaling" @ https://dacian.me/precision-loss-errors#heading-no-precision-scaling
+
+**Links in post:** https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf#87fc, https://dacian.me/precision-loss-errors#heading-mismatched-precision-scaling, https://dacian.me/precision-loss-errors#heading-no-precision-scaling
 
 
 ---
