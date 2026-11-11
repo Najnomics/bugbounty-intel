@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 19
-- Oldest post captured: 2020-12-04
+- Posts in this file: 31
+- Conversations/threads: 25
+- Oldest post captured: 2020-11-18
 - Newest post captured: 2024-03-12
 
 
@@ -19,7 +19,7 @@ Tags (automatic): TEE / enclave
 ### Post — @jovanbulck — 2024-03-12 17:46 UTC (2024-03-12 18:46 WAT)
 
 - URL: https://x.com/jovanbulck/status/1767608194220581358
-- Metrics (at fetch): bookmark 1, impression 1003, like 8, quote 0, reply 0, repost 2
+- Metrics (at fetch): bookmark 1, impression 1003, like 8, quote 0, reply 0, retweet 2
 
 > Working in the area of trusted execution? Consider submitting your work (in progress), research statements, or cool new open-source enclave tools to #systex24 and join us @IEEEEUROSP  in Vienna! Submission deadline has been extended to March 26 AoE 👉 https://systex24.github.io [pic.x.com/ZUFRjDKTuc]
 
@@ -62,7 +62,7 @@ Tags (automatic): TEE / enclave
 ### Post — @jovanbulck — 2023-11-26 14:06 UTC (2023-11-26 15:06 WAT)
 
 - URL: https://x.com/jovanbulck/status/1728777246226145386
-- Metrics (at fetch): bookmark 0, impression 6060, like 17, quote 0, reply 1, repost 5
+- Metrics (at fetch): bookmark 0, impression 6060, like 17, quote 0, reply 1, retweet 5
 
 > The future of #ConfidentialComputing is open source or is not! 🚀 Embrace the movement and join us at the 5th TEE devroom @fosdem in Brussels on February 4, 2024. Still time to submit your talk proposals by Fri Dec 1 👇 cc @FritzAlder @ffidencio 
 >
@@ -74,7 +74,7 @@ Tags (automatic): TEE / enclave
 ### Thread part 2 — @jovanbulck — 2023-11-26 14:12 UTC (2023-11-26 15:12 WAT)
 
 - URL: https://x.com/jovanbulck/status/1728778875134517602
-- Metrics (at fetch): bookmark 0, impression 255, like 1, quote 0, reply 0, repost 0
+- Metrics (at fetch): bookmark 0, impression 255, like 1, quote 0, reply 0, retweet 0
 
 > Code writers and critics who prophesize with your pen
 > And keep your eyes wide, the chance won't come again! ✨
@@ -246,7 +246,7 @@ Tags (automatic): TEE / enclave
 ### Post — @jovanbulck — 2021-12-06 13:57 UTC (2021-12-06 14:57 WAT)
 
 - URL: https://x.com/jovanbulck/status/1467855660616454145
-- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 0, repost 2
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 0, retweet 2
 
 > A viable free and open-source ecosystem will be instrumental to the success of emerging TEEs. 💪Our (online) 3th ed devroom @fosdem presents a great opportunity to distribute your cool TEE research/development to a wider and welcoming audience! Submit your proposals by Dec 23!🎄 https://twitter.com/FritzAlder/status/1467830678918156288
 
@@ -291,7 +291,7 @@ Tags (automatic): TEE / enclave
 ### Post — @jovanbulck — 2021-11-16 11:09 UTC (2021-11-16 12:09 WAT)
 
 - URL: https://x.com/jovanbulck/status/1460565804789948418
-- Metrics (at fetch): bookmark 1, impression 0, like 42, quote 0, reply 3, repost 5
+- Metrics (at fetch): bookmark 1, impression 0, like 42, quote 0, reply 3, retweet 5
 
 > Very happy to receive the #IBMInnovationaward2021 from @IBMResearch and @FWOVlaanderen for my PhD research, thank you to everyone who was there along the way! 🎉 https://twitter.com/YvesVS/status/1460543162636804096
 
@@ -322,7 +322,7 @@ Tags (automatic): TEE / enclave
 ### Post — @jovanbulck — 2021-02-05 14:55 UTC (2021-02-05 15:55 WAT)
 
 - URL: https://x.com/jovanbulck/status/1357704326475579393
-- Metrics (at fetch): bookmark 0, impression 0, like 26, quote 3, reply 0, repost 10
+- Metrics (at fetch): bookmark 0, impression 0, like 26, quote 3, reply 0, retweet 10
 
 > Join us tomorrow for the 2nd open-source trusted computing devroom at #FOSDEM2021! Impressive lineup with a full day of talks on open-source enclave software, hardware, and attacks:
 > When: Sat Feb 6, 10AM-6PM CET
@@ -445,3 +445,104 @@ Tags (automatic): TEE / enclave
 - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
 
 > @danielmgmi @tomcrypt @berksunar @TheSimha Congrats Daniel with an insightful presentation and impressive results!
+
+
+---
+
+## 2020-12-03 · Post · Happy we'll be organizing the 2nd ed. of a dedicated Hardware-Aided Trusted Computing Devroom for fo
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2020-12-03 16:12 UTC (2020-12-03 17:12 WAT)
+
+- URL: https://x.com/jovanbulck/status/1334531084973985801
+- Metrics (at fetch): bookmark 2, impression 0, like 10, quote 1, reply 0, retweet 5
+
+> Happy we'll be organizing the 2nd ed. of a dedicated Hardware-Aided Trusted Computing Devroom for fostering discussion on the emerging open-source #TEE ecosystem: 6 Feb 2021 @fosdem (online). Submit talk proposals by 23 Dec 2020. Spread the word! https://t.co/x6iCfqxobV
+
+
+---
+
+## 2020-12-01 · Post · aka how to secure your Christmas tree!🎄😄 https://t.co/xOFlbJllvI
+
+
+### Post — @jovanbulck — 2020-12-01 12:26 UTC (2020-12-01 13:26 WAT)
+
+- URL: https://x.com/jovanbulck/status/1333749291500843010
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 1
+
+> aka how to secure your Christmas tree!🎄😄 https://t.co/xOFlbJllvI
+
+**Quoted post** 1333703911979540480: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2020-11-26 · Post · Stop this madness. Swedish-Iranian academic AhmadrezaDjalali affiliated with @VUBrussel
+
+
+### Post — @jovanbulck — 2020-11-26 21:28 UTC (2020-11-26 22:28 WAT)
+
+- URL: https://x.com/jovanbulck/status/1332073781716770820
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 7
+
+> Stop this madness. Swedish-Iranian academic #AhmadrezaDjalali affiliated with @VUBrussel
+>  is facing execution in Iran. #SaveAhmadReza #StopTheExecution  @HassanRouhani, @JZarif, @khamenei_ir https://t.co/Z95lXbm31U
+
+**Quoted post** 1331285470454685697: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2020-11-18 · Post · Finally, we open sourced all of the attacks. Bundled in convenient Docker artifacts with out-of-the-
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2020-11-18 11:32 UTC (2020-11-18 12:32 WAT)
+
+- URL: https://x.com/jovanbulck/status/1329024555696918528
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Finally, we open sourced all of the attacks. Bundled in convenient Docker artifacts with out-of-the-box SGX simulators for the runtimes we studied. All of the tables in the paper are fully reproduced in @travisci for vulnerable and patched runtimes! https://t.co/z6lwz7gE5u 4/ https://t.co/z4ahHlRDzR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EnGka0tXcAEUi_V.jpg — no alt text provided by author
+
+
+---
+
+## 2020-11-18 · Post · Our case-study attacks exploit FPU exceptions as a new controlled channel, forcibly cause machine-le
+
+
+### Post — @jovanbulck — 2020-11-18 11:24 UTC (2020-11-18 12:24 WAT)
+
+- URL: https://x.com/jovanbulck/status/1329022587263922178
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Our case-study attacks exploit FPU exceptions as a new controlled channel, forcibly cause machine-learning mispredictions, and explore accumulated floating-point precision errors for larger applications (here: subtle visual distortions in Blender). 3/ https://t.co/T57i5Vfbof
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EnGiVLvWMAA6Gra.png — no alt text provided by author
+
+
+---
+
+## 2020-11-18 · Post · We uncover subtle ABI sanitation oversights across the IntelSGX ecosystem (SDKs &amp; libOSs) 👉Pois
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @jovanbulck — 2020-11-18 11:17 UTC (2020-11-18 12:17 WAT)
+
+- URL: https://x.com/jovanbulck/status/1329020965515309056
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> We uncover subtle ABI sanitation oversights across the #IntelSGX ecosystem (SDKs &amp; libOSs) 👉Poison precision and rounding of floating-point operations through x87 FPU and SSE. Required 2 rounds of software patches to properly reset the extended CPU state on enclave entry. https://t.co/xRrXV9HI10
+
+**Media:**
+- photo: https://pbs.twimg.com/media/EnGf0trXIAE8fwP.png — no alt text provided by author

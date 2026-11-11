@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 20
-- Oldest post captured: 2026-10-26
+- Posts in this file: 34
+- Conversations/threads: 29
+- Oldest post captured: 2026-10-14
 - Newest post captured: 2026-11-10
 
 
@@ -19,7 +19,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-11-10 17:30 UTC (2026-11-10 18:30 WAT)
 
 - URL: https://x.com/irsdl/status/2120207393640398987
-- Metrics (at fetch): bookmark 0, impression 1059, like 2, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 0, impression 1130, like 2, quote 0, reply 0, retweet 0
 
 > This is how my local llm model works! https://twitter.com/mind__bytes/status/2119905032770289878
 
@@ -39,7 +39,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-11-04 17:55 UTC (2026-11-04 18:55 WAT)
 
 - URL: https://x.com/irsdl/status/2118039406674076081
-- Metrics (at fetch): bookmark 2, impression 1200, like 5, quote 0, reply 2, repost 0
+- Metrics (at fetch): bookmark 2, impression 1203, like 5, quote 0, reply 2, retweet 0
 
 > This feels like AI did all the research while the researcher was away, then published everything on GitHub and X 🥶
 >
@@ -220,7 +220,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-11-03 19:26 UTC (2026-11-03 20:26 WAT)
 
 - URL: https://x.com/irsdl/status/2117699957906182287
-- Metrics (at fetch): bookmark 1, impression 1287, like 12, quote 0, reply 0, repost 0
+- Metrics (at fetch): bookmark 1, impression 1287, like 12, quote 0, reply 0, retweet 0
 
 > I wonder why they needed to be threatened in the first place. What if the reporter wasn't well known?
 >
@@ -254,7 +254,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-11-03 18:44 UTC (2026-11-03 19:44 WAT)
 
 - URL: https://x.com/irsdl/status/2117689463291977773
-- Metrics (at fetch): bookmark 72, impression 3417, like 82, quote 0, reply 0, repost 14
+- Metrics (at fetch): bookmark 72, impression 3417, like 82, quote 0, reply 0, retweet 14
 
 > 371 articles and counting in 2026! 🚀
 >
@@ -280,7 +280,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-10-31 23:07 UTC (2026-11-01 00:07 WAT)
 
 - URL: https://x.com/irsdl/status/2116668313518342257
-- Metrics (at fetch): bookmark 0, impression 844, like 4, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 0, impression 845, like 4, quote 0, reply 0, retweet 0
 
 > AI did this when I was doing treat or tricking with my kid 😂 This is a nice surprise! [pic.x.com/OqC5TlHVa3] https://twitter.com/irsdl/status/2116576520852713576
 
@@ -294,7 +294,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @irsdl — 2026-10-31 17:02 UTC (2026-10-31 18:02 WAT)
     
     - URL: https://x.com/irsdl/status/2116576520852713576
-    - Metrics (at fetch): bookmark 4, impression 1439, like 2, quote 1, reply 0, repost 0
+    - Metrics (at fetch): bookmark 4, impression 1441, like 2, quote 1, reply 0, retweet 0
     
     > Trick or treat? 🎃
     >
@@ -333,7 +333,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-10-31 17:02 UTC (2026-10-31 18:02 WAT)
 
 - URL: https://x.com/irsdl/status/2116576520852713576
-- Metrics (at fetch): bookmark 4, impression 1439, like 2, quote 1, reply 0, repost 0
+- Metrics (at fetch): bookmark 4, impression 1441, like 2, quote 1, reply 0, retweet 0
 
 > Trick or treat? 🎃
 >
@@ -372,7 +372,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-10-30 22:47 UTC (2026-10-30 23:47 WAT)
 
 - URL: https://x.com/irsdl/status/2116300986364932605
-- Metrics (at fetch): bookmark 58, impression 3084, like 75, quote 1, reply 2, repost 3
+- Metrics (at fetch): bookmark 58, impression 3084, like 75, quote 1, reply 2, retweet 3
 
 > Thanks to @vladko312 , https://webhacklist.com is a bit safer when displaying diagrams in mermaid now
 > https://github.com/irsdl/webhacklist/issues/16
@@ -448,3 +448,198 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/_r_netsec/status/2114659136994709858
 
 **Quoted post** 2114659136994709858: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-23 · Post · I think this is if special functions are used, but still important as we have seem gitlab https://tw
+
+
+### Post — @irsdl — 2026-10-23 18:28 UTC (2026-10-23 19:28 WAT)
+
+- URL: https://x.com/irsdl/status/2113699018391892389
+- Metrics (at fetch): bookmark 1, impression 836, like 3, quote 0, reply 0, retweet 1
+
+> I think this is if special functions are used, but still important as we have seem gitlab https://twitter.com/jaydrogers/status/2113587369958048123
+
+**Links in post:** https://twitter.com/jaydrogers/status/2113587369958048123
+
+**Quoted post** 2113587369958048123: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-22 · Post · As promised, I've got your back! 💪 All the latest research is already in. 🚀
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-10-22 11:51 UTC (2026-10-22 12:51 WAT)
+
+- URL: https://x.com/irsdl/status/2113236874449854969
+- Metrics (at fetch): bookmark 5, impression 2075, like 16, quote 0, reply 1, retweet 4
+
+> As promised, I've got your back! 💪 All the latest research is already in. 🚀
+>
+> #PHP2Shell has been added from @lcfr_hax's post here:
+> https://webhacklist.com/?#desk/2026-ai-r-227f84b75a2a7800ab63abef https://twitter.com/irsdl/status/2112859406182355007
+
+**Links in post:** https://webhacklist.com/?#desk/2026-ai-r-227f84b75a2a7800ab63abef, https://twitter.com/irsdl/status/2112859406182355007
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2026-10-21 10:51 UTC (2026-10-21 11:51 WAT)
+    
+    - URL: https://x.com/irsdl/status/2112859406182355007
+    - Metrics (at fetch): bookmark 9, impression 2879, like 20, quote 1, reply 1, retweet 0
+    
+    > Do you want your security finding or post to be overlooked? Then release it this week 😂
+    >
+    > I will however, try to pick the pieces up and will add them to https://webhacklist.com! - AI said
+    >
+    > I have your back if the article can pass the Judgy McJudgeFace's trial! 🧑‍⚖️⚖️
+    
+    **Links in post:** https://webhacklist.com
+    
+
+
+---
+
+## 2026-10-22 · Post · Just a reminder that PHP2Shell can affect some of the hard to update devices too such as embedded/ne
+
+
+### Post — @irsdl — 2026-10-22 11:07 UTC (2026-10-22 12:07 WAT)
+
+- URL: https://x.com/irsdl/status/2113225633056899576
+- Metrics (at fetch): bookmark 0, impression 722, like 0, quote 0, reply 1, retweet 0
+
+> Just a reminder that PHP2Shell can affect some of the hard to update devices too such as embedded/network appliances! 
+>
+> If they are old (so using old PHP), take them off the public network now, and investigate them.
+
+
+---
+
+## 2026-10-22 · Post · I still say, "TWEET" instead of "POST ON X" as this is so inefficient and waste more tokens. Is it j
+
+
+### Post — @irsdl — 2026-10-22 09:23 UTC (2026-10-22 10:23 WAT)
+
+- URL: https://x.com/irsdl/status/2113199541218582803
+- Metrics (at fetch): bookmark 0, impression 769, like 5, quote 0, reply 1, retweet 0
+
+> I still say, "TWEET" instead of "POST ON X" as this is so inefficient and waste more tokens. Is it just me?
+>
+> The bird's not gone for me in my old machine but it is losing its colours: [pic.x.com/WFKXOg1uLJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVOXD-iXgAAdsJE.png — no alt text provided by author
+
+
+---
+
+## 2026-10-22 · Post · Great video from @LiveOverflow 👏
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @irsdl — 2026-10-22 09:08 UTC (2026-10-22 10:08 WAT)
+
+- URL: https://x.com/irsdl/status/2113195840328094077
+- Metrics (at fetch): bookmark 2, impression 909, like 11, quote 0, reply 0, retweet 1
+
+> Great video from @LiveOverflow 👏
+>
+> Complex codebases and obscure technologies may soon slow AI-driven vulnerability research by minutes, not hours/days.
+>
+> A year ago, AI struggled with this. Next year, even deep expertise might be optional.
+>
+> The barrier to finding and exploiting vulnerabilities is collapsing.
+
+**Links in post:** https://twitter.com/LiveOverflow/status/2113071173424775472
+
+**Quoted post** 2113071173424775472: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-21 · Post · [pic.x.com/bSTb8lB5yG] https://twitter.com/marckohlbrugge/status/2112863751632269736
+
+
+### Post — @irsdl — 2026-10-21 16:56 UTC (2026-10-21 17:56 WAT)
+
+- URL: https://x.com/irsdl/status/2112951268339749019
+- Metrics (at fetch): bookmark 0, impression 664, like 1, quote 0, reply 0, retweet 0
+
+> [pic.x.com/bSTb8lB5yG] https://twitter.com/marckohlbrugge/status/2112863751632269736
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/HVK1-W5WgAA7vri.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/marckohlbrugge/status/2112863751632269736
+
+**Quoted post** 2112863751632269736: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-21 · Post · Do you want your security finding or post to be overlooked? Then release it this week 😂
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-10-21 10:51 UTC (2026-10-21 11:51 WAT)
+
+- URL: https://x.com/irsdl/status/2112859406182355007
+- Metrics (at fetch): bookmark 9, impression 2879, like 20, quote 1, reply 1, retweet 0
+
+> Do you want your security finding or post to be overlooked? Then release it this week 😂
+>
+> I will however, try to pick the pieces up and will add them to https://webhacklist.com! - AI said
+>
+> I have your back if the article can pass the Judgy McJudgeFace's trial! 🧑‍⚖️⚖️
+
+**Links in post:** https://webhacklist.com
+
+
+---
+
+## 2026-10-16 · Post · Please don't give this to a robot, at least don't give it a weapon… or don't give it AI...
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-10-16 09:41 UTC (2026-10-16 10:41 WAT)
+
+- URL: https://x.com/irsdl/status/2111029764383465570
+- Metrics (at fetch): bookmark 0, impression 1385, like 5, quote 0, reply 1, retweet 0
+
+> Please don't give this to a robot, at least don't give it a weapon… or don't give it AI...
+>
+> who am I kidding 😬 https://twitter.com/Tesla/status/2110926164306931860
+
+**Links in post:** https://twitter.com/Tesla/status/2110926164306931860
+
+**Quoted post** 2110926164306931860: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-14 · Post · A friend is trying to report a valid security vulnerability to @Meta (which I've reviewed), but the 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-10-14 14:10 UTC (2026-10-14 15:10 WAT)
+
+- URL: https://x.com/irsdl/status/2110372713529500029
+- Metrics (at fetch): bookmark 11, impression 7505, like 33, quote 0, reply 1, retweet 2
+
+> A friend is trying to report a valid security vulnerability to @Meta (which I've reviewed), but the AI triager keeps closing it for incorrect reasons.
+>
+> Could someone from Meta's security team reach out to me by any chance?

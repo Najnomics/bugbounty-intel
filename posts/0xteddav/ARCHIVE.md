@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 19
-- Conversations/threads: 15
-- Oldest post captured: 2024-06-10
+- Posts in this file: 24
+- Conversations/threads: 19
+- Oldest post captured: 2023-10-05
 - Newest post captured: 2025-06-17
 
 
@@ -346,3 +346,79 @@ Tags (automatic): ZK
 
 > You want to build a new ZK app? I made a simple Halo2 (@zcash @PrivacyScaling) template to get you started. Just clone the repo, and follow the readme!
 > https://t.co/mBeVZxYmvp
+
+
+---
+
+## 2024-02-09 · Thread · You want to learn ZK? Come with me and dive into @TornadoCash and Halo2 (@zcash @PrivacyScaling). We
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2024-02-09 09:42 UTC (2024-02-09 10:42 WAT)
+
+- URL: https://x.com/0xteddav/status/1755889946806689959
+- Metrics (at fetch): bookmark 132, impression 16341, like 185, quote 3, reply 8, retweet 28
+
+> You want to learn ZK? Come with me and dive into @TornadoCash and Halo2 (@zcash @PrivacyScaling). We rewrite the Tornado circuits (originally in circom) with halo2 🤯 No need to know how Tornado works, I'll explain it! https://dev.to/teddav/tornado-cash-with-halo2-62b
+
+**Links in post:** https://dev.to/teddav/tornado-cash-with-halo2-62b
+
+
+### Thread part 2 — @0xteddav — 2024-02-09 09:42 UTC (2024-02-09 10:42 WAT)
+
+- URL: https://x.com/0xteddav/status/1755889948509499577
+- Metrics (at fetch): bookmark 0, impression 1182, like 12, quote 0, reply 1, retweet 1
+
+> Thanks @backaes, @Sifnoc and @jtguibas for the help, I stole some of your code 😁. Some halo2 tutorials by @EDGDrummond and @ChihChengLiang helped me a lot! 🔥 And I linked in the article some great explanation of Tornado by @TheBojda and @RareSkills_io
+
+
+---
+
+## 2023-10-26 · Reply · @curta_ctf challenge 11 was great! really interesting to understand babyjubjub curve and play with z
+
+
+### Post — @0xteddav — 2023-10-26 07:51 UTC (2023-10-26 08:51 WAT)
+
+- URL: https://x.com/0xteddav/status/1717448840557543650
+- Metrics (at fetch): bookmark 0, impression 27, like 0, quote 0, reply 0, retweet 0
+
+> @curta_ctf challenge 11 was great! really interesting to understand babyjubjub curve and play with zokrates. thanks @leonardoalt !! here’s a good explanation of the solution by @popular_12345 
+> https://x.com/popular_12345/status/1662174518696366080
+
+**Links in post:** https://x.com/popular_12345/status/1662174518696366080
+
+**Quoted post** 1662174518696366080: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-10-12 · Post · The best resource for me to learn cryptography basics was to solve some crypto challenges on @Crypt
+
+
+### Post — @0xteddav — 2023-10-12 14:54 UTC (2023-10-12 15:54 WAT)
+
+- URL: https://x.com/0xteddav/status/1712481796032725077
+- Metrics (at fetch): bookmark 0, impression 905, like 6, quote 0, reply 0, retweet 1
+
+> The best resource for me to learn #cryptography basics was to solve some crypto challenges on @CryptoHack__ . Great platform! It helped me a lot to understand elliptic curve cryptography. And they have a great community on discord to discuss and answer questions
+
+
+---
+
+## 2023-10-05 · Post · i've been studying zk for the past 2 months and started from ~0 in maths. In the next few days, I'll
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xteddav — 2023-10-05 10:05 UTC (2023-10-05 11:05 WAT)
+
+- URL: https://x.com/0xteddav/status/1709872375162937754
+- Metrics (at fetch): bookmark 3, impression 517, like 9, quote 0, reply 1, retweet 1
+
+> i've been studying zk for the past 2 months and started from ~0 in maths. In the next few days, I'll share some resources that helped me a lot. Here's a great one by @onybose if you want to understand the basics of elliptic curve cryptography
+> https://onyb.gitbook.io/roll-your-own-crypto/
+
+**Links in post:** https://onyb.gitbook.io/roll-your-own-crypto/

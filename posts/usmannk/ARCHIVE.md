@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 47
-- Conversations/threads: 47
+- Posts in this file: 48
+- Conversations/threads: 48
 - Oldest post captured: 2025-10-13
 - Newest post captured: 2026-11-05
 
@@ -670,6 +670,51 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Mythos true efficacy aside, $NET down idiosyncratically here is the opposite of what should happen. if anything more $ will head their way as we have increased need for WAF, DoS protection, etc. https://t.co/SLSynWv4Te
 
 **Quoted post** 2042670420411760819: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-02-13 · Post · @deadrosesxyz @saxenism agree, and will add these posts make it hard to understand what the reporter
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @saxenism — 2026-02-13 14:27 UTC (2026-02-13 15:27 WAT)
+
+- URL: https://x.com/saxenism/status/2022316820410302790
+- Metrics (at fetch): bookmark 7, impression 7331, like 42, quote 3, reply 5, retweet 2
+
+> Several public claims have been made about this disclosure. The factual record differs. Correcting once, with citations.
+>
+> For context: findings were submitted on January 6. A bounty expectation was explicitly stated on Day 1. No discussion of bounty amount occurred until the team https://t.co/Av2V5DC90N https://t.co/fdXJDcANAg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBC0DPGbcAAlJ0Q.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HBC0FHRawAA8qaB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HBC0KEObQAAEEZc.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2026-02-12 13:44 UTC (2026-02-12 14:44 WAT)
+    
+    - URL: https://x.com/saxenism/status/2021943382155899351
+    - Metrics (at fetch): bookmark 34, impression 30233, like 88, quote 9, reply 16, retweet 17
+    
+    > Compromised and revoked TEE machines could pass dstack's attestation verification as perfectly valid, due to missing checks.
+    > What's more?
+    > This gap has existed since the library's first commit. @PhalaNetwork Cloud and every protocol built on it inherited this behaviour from day https://t.co/u7IIWFeiXD
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HA9WEcRbsAUKnVj.jpg — no alt text provided by author
+    
+
+
+### Post — @usmannk — 2026-02-13 16:37 UTC (2026-02-13 17:37 WAT)
+
+- URL: https://x.com/usmannk/status/2022349405328974225
+- Metrics (at fetch): bookmark 0, impression 557, like 1, quote 0, reply 2, retweet 0
+
+> @deadrosesxyz @saxenism agree, and will add these posts make it hard to understand what the reporter is even asking for. i am not sure these posts warranted being written. (myself as someone who has been stiffed of a 500k bounty in a very cut and dry case before)
 
 
 ---

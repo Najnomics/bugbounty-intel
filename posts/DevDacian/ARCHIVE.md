@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 28
-- Conversations/threads: 24
-- Oldest post captured: 2026-10-07
+- Posts in this file: 32
+- Conversations/threads: 28
+- Oldest post captured: 2026-09-27
 - Newest post captured: 2026-11-09
 
 
@@ -58,7 +58,26 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 **Links in post:** https://twitter.com/OpenAI/status/2118390190246879554
 
-**Quoted post** 2118390190246879554: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @OpenAI — 2026-11-05 17:09 UTC (2026-11-05 18:09 WAT)
+    
+    - URL: https://x.com/OpenAI/status/2118390190246879554
+    - Metrics (at fetch): bookmark 4204, impression 4162964, like 21471, quote 1439, reply 1310, retweet 2012
+    
+    > Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.
+    >
+    > The model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work.
+    >
+    > GPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time.
+    >
+    > https://openai.com/index/introducing-gpt-6-cyber/
+    
+    **Media:**
+    - media `13_2118387217588465664` (details not returned by the API)
+    
+    **Links in post:** https://openai.com/index/introducing-gpt-6-cyber/
+    
 
 
 ---
@@ -307,7 +326,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @DevDacian — 2026-10-19 11:41 UTC (2026-10-19 12:41 WAT)
 
 - URL: https://x.com/DevDacian/status/2112147202089107746
-- Metrics (at fetch): bookmark 2, impression 2307, like 72, quote 0, reply 4, repost 0
+- Metrics (at fetch): bookmark 2, impression 2307, like 72, quote 0, reply 4, retweet 0
 
 > This week @cyfrin running 8 private audits in parallel engaging 20 top auditors!
 >
@@ -352,7 +371,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @DevDacian — 2026-10-14 11:36 UTC (2026-10-14 12:36 WAT)
 
 - URL: https://x.com/DevDacian/status/2110334037856579752
-- Metrics (at fetch): bookmark 4, impression 2367, like 62, quote 0, reply 4, repost 0
+- Metrics (at fetch): bookmark 4, impression 2367, like 62, quote 0, reply 4, retweet 0
 
 > All our clients are using AI &amp; various scanning services before coming to us for private audit yet @cyfrin is finding more valuable bugs than ever using our proprietary AI Solace &amp; human auditors.
 >
@@ -478,3 +497,73 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > 🥉 various war/conflict stuff
 >
 > I don't like any of these posts but X keeps showing them, is there really nothing else more interesting ?
+
+
+---
+
+## 2026-10-06 · Post · One thing we are seeing in project repos is docs bloat, tons of outdated markdown giving conflicting
+
+
+### Post — @DevDacian — 2026-10-06 14:29 UTC (2026-10-06 15:29 WAT)
+
+- URL: https://x.com/DevDacian/status/2107478444200387068
+- Metrics (at fetch): bookmark 0, impression 1620, like 45, quote 0, reply 7, retweet 2
+
+> One thing we are seeing in project repos is docs bloat, tons of outdated markdown giving conflicting &amp; stale info to auditors.
+>
+> Do occasional docs cleanup especially before audit, archive the old stuff make it really easy for auditors to find relevant updated docs 🙏
+
+
+---
+
+## 2026-10-02 · Post · Got first Opus-5.5 safety filter rejections; had 15 PoCs to create but it refused to create 5 sensit
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-10-02 02:48 UTC (2026-10-02 03:48 WAT)
+
+- URL: https://x.com/DevDacian/status/2105852356697215229
+- Metrics (at fetch): bookmark 28, impression 5682, like 74, quote 0, reply 10, retweet 1
+
+> Got first Opus-5.5 safety filter rejections; had 15 PoCs to create but it refused to create 5 sensitive ones.
+>
+> Opus-5.5 happily wrote up the bugs without PoC so I gave its write-ups to glm-5.3-flash which created the PoCs.
+>
+> @claudeai cyber safety filters effectively useless 😅
+
+
+---
+
+## 2026-09-30 · Post · Happy to announce I've accepted an executive position @cyfrin, formally joining the leadership team 
+
+
+### Post — @DevDacian — 2026-09-30 13:26 UTC (2026-09-30 14:26 WAT)
+
+- URL: https://x.com/DevDacian/status/2105288125153186278
+- Metrics (at fetch): bookmark 11, impression 7358, like 352, quote 2, reply 79, retweet 9
+
+> Happy to announce I've accepted an executive position @cyfrin, formally joining the leadership team as Head of Security Research.
+>
+> We're working harder than ever to keep our clients safe while scaling our private audit business to handle epic demand.
+>
+> 🙏 Blessed 🙏
+
+
+---
+
+## 2026-09-27 · Post · Capability &amp; techniques for vulnerability discovery have increased exponentially during 2026.
+
+
+### Post — @DevDacian — 2026-09-27 09:39 UTC (2026-09-27 10:39 WAT)
+
+- URL: https://x.com/DevDacian/status/2104143798226071663
+- Metrics (at fetch): bookmark 2, impression 1201, like 22, quote 0, reply 0, retweet 0
+
+> Capability &amp; techniques for vulnerability discovery have increased exponentially during 2026.
+>
+> Protocols running $ millions through smart-contracts audited years ago should seriously consider re-auditing asap using the latest techniques. https://t.co/UOtmUIXRdh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTNrLWTbIAAWl56.png — no alt text provided by author

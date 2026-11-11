@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 34
-- Conversations/threads: 18
-- Oldest post captured: 2026-03-04
+- Posts in this file: 35
+- Conversations/threads: 19
+- Oldest post captured: 2026-03-02
 - Newest post captured: 2026-10-12
 
 
@@ -455,3 +455,20 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 0, impression 73, like 0, quote 0, reply 0, retweet 0
 
 > @viveksh0062 @immunefi Thank you
+
+
+---
+
+## 2026-03-02 · Post · Great writeup @ivan_alexandur https://twitter.com/ivan_alexandur/status/2028255795335528895
+
+
+### Post — @0xvivekd — 2026-03-02 10:04 UTC (2026-03-02 11:04 WAT)
+
+- URL: https://x.com/0xvivekd/status/2028411153085583777
+- Metrics (at fetch): bookmark 10, impression 1317, like 5, quote 0, reply 1, retweet 0
+
+> Great writeup @ivan_alexandur https://twitter.com/ivan_alexandur/status/2028255795335528895
+
+**Links in post:** https://twitter.com/ivan_alexandur/status/2028255795335528895
+
+**Quoted post** 2028255795335528895: not readable via the API (deleted, private, or withheld).

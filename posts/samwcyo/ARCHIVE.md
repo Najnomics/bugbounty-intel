@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 30
-- Conversations/threads: 30
+- Conversations/threads: 29
 - Oldest post captured: 2025-10-14
 - Newest post captured: 2026-11-11
 
@@ -19,7 +19,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samwcyo — 2026-11-11 05:57 UTC (2026-11-11 06:57 WAT)
 
 - URL: https://x.com/samwcyo/status/2120395487237075210
-- Metrics (at fetch): bookmark 8, impression 3312, like 46, quote 0, reply 7, retweet 0
+- Metrics (at fetch): bookmark 8, impression 3301, like 46, quote 0, reply 7, retweet 0
 
 > I've got a feeling that a lot of security consultants who are being told not to use LLMs on pentests are, in fact, using LLMs on pentests https://t.co/U2QB7kTrIr
 
@@ -134,7 +134,7 @@ Tags (automatic): RCE
 ### Post — @samwcyo — 2026-11-02 17:25 UTC (2026-11-02 18:25 WAT)
 
 - URL: https://x.com/samwcyo/status/2117307140713144603
-- Metrics (at fetch): bookmark 14, impression 8720, like 146, quote 0, reply 8, retweet 6
+- Metrics (at fetch): bookmark 14, impression 8722, like 146, quote 0, reply 8, retweet 6
 
 > We are all in debt to James Kettle https://t.co/cUpGoA61aN
 
@@ -143,7 +143,7 @@ Tags (automatic): RCE
     #### Quoted post — @albinowax — 2026-11-02 14:22 UTC (2026-11-02 15:22 WAT)
     
     - URL: https://x.com/albinowax/status/2117261005268869507
-    - Metrics (at fetch): bookmark 38, impression 22434, like 328, quote 4, reply 20, repost 35
+    - Metrics (at fetch): bookmark 38, impression 22451, like 328, quote 4, reply 20, retweet 35
     
     > I've been nominated for the SANS Difference Makers Awards, in the Red Teamer category! I'd love your vote: https://feedback.sans.org/733559
     > If I win*, I'll share something that genuinely surprised me involving a website, a vulnerability, and GLM 5.3 #SANSDMA #DifferenceMakers
@@ -156,10 +156,21 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-10-18 · Post · @amiateapot This is technically gameable by paying the $100 to get attention to a bug that was submi
+## 2026-10-18 · Thread · I’d be willing to pay $100 per report for priority triage with automated dupe checking and faster pa
 
 
-### Post — @samwcyo — 2026-10-18 20:47 UTC (2026-10-18 21:47 WAT)
+Tags (automatic): AI-assisted hunting, Platform: Immunefi
+
+
+### Post — @samwcyo — 2026-10-18 13:05 UTC (2026-10-18 14:05 WAT)
+
+- URL: https://x.com/samwcyo/status/2111805910448529757
+- Metrics (at fetch): bookmark 36, impression 28622, like 181, quote 5, reply 21, retweet 6
+
+> I’d be willing to pay $100 per report for priority triage with automated dupe checking and faster payouts (&lt;48 hours). My experience with this on Immunefi was great, and it’s not a bad way to incentivize researchers to stop abusing teams as the initial assessors of AI reports.
+
+
+### Thread part 2 — @samwcyo — 2026-10-18 20:47 UTC (2026-10-18 21:47 WAT)
 
 - URL: https://x.com/samwcyo/status/2111922077351772436
 - Metrics (at fetch): bookmark 0, impression 707, like 2, quote 0, reply 1, retweet 0
@@ -250,22 +261,6 @@ Tags (automatic): Platform: Immunefi
 
 ---
 
-## 2026-10-18 · Post · I’d be willing to pay $100 per report for priority triage with automated dupe checking and faster pa
-
-
-Tags (automatic): AI-assisted hunting, Platform: Immunefi
-
-
-### Post — @samwcyo — 2026-10-18 13:05 UTC (2026-10-18 14:05 WAT)
-
-- URL: https://x.com/samwcyo/status/2111805910448529757
-- Metrics (at fetch): bookmark 36, impression 28619, like 181, quote 5, reply 21, repost 6
-
-> I’d be willing to pay $100 per report for priority triage with automated dupe checking and faster payouts (&lt;48 hours). My experience with this on Immunefi was great, and it’s not a bad way to incentivize researchers to stop abusing teams as the initial assessors of AI reports.
-
-
----
-
 ## 2026-10-15 · Post · @S1r1u5_ Maybe I'm biased where I don't acknowledge just how much context the prompting requires, an
 
 
@@ -333,7 +328,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samwcyo — 2026-09-07 00:20 UTC (2026-09-07 01:20 WAT)
 
 - URL: https://x.com/samwcyo/status/2096755325390970960
-- Metrics (at fetch): bookmark 108, impression 32523, like 208, quote 0, reply 8, retweet 5
+- Metrics (at fetch): bookmark 108, impression 32524, like 208, quote 0, reply 8, retweet 5
 
 > Cool bug, but I'm really curious why this works? https://t.co/OPGRKEQKe1
 
@@ -351,7 +346,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samwcyo — 2026-08-18 02:16 UTC (2026-08-18 03:16 WAT)
 
 - URL: https://x.com/samwcyo/status/2089536974444982714
-- Metrics (at fetch): bookmark 468, impression 38959, like 487, quote 2, reply 7, repost 54
+- Metrics (at fetch): bookmark 468, impression 38962, like 487, quote 2, reply 7, retweet 54
 
 > For anyone using LLMs to do security research, bug bounty, red teaming, etc, we made a Discord to discuss/collaborate: https://mistakes.io/discord/
 
@@ -392,7 +387,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samwcyo — 2026-08-11 12:38 UTC (2026-08-11 13:38 WAT)
 
 - URL: https://x.com/samwcyo/status/2087156762554126585
-- Metrics (at fetch): bookmark 26, impression 15349, like 240, quote 2, reply 11, retweet 11
+- Metrics (at fetch): bookmark 26, impression 15351, like 240, quote 2, reply 11, retweet 11
 
 > Great challenge coin from @intigriti, so much texture and small details, feels cool to hold https://t.co/fP7W1RdpAb
 
@@ -412,7 +407,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samwcyo — 2026-03-19 05:02 UTC (2026-03-19 06:02 WAT)
 
 - URL: https://x.com/samwcyo/status/2034495676533612643
-- Metrics (at fetch): bookmark 1306, impression 2181556, like 13627, quote 221, reply 376, repost 361
+- Metrics (at fetch): bookmark 1306, impression 2181559, like 13627, quote 221, reply 376, retweet 361
 
 > Asked Claude to root my Xiaomi 17 Pro Max. Did not go well. [pic.x.com/HSCrRo2sqK]
 

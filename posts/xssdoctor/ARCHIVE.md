@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 29
-- Conversations/threads: 27
-- Oldest post captured: 2026-04-05
+- Posts in this file: 31
+- Conversations/threads: 29
+- Oldest post captured: 2026-02-09
 - Newest post captured: 2026-11-05
 
 
@@ -421,3 +421,35 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 118, impression 39114, like 349, quote 2, reply 18, retweet 19
 
 > About a year and a half into my hacking journey, I was pretty bummed out. I had done so much work and learned so much, but I wasn’t finding any bugs. I decided to do something drastic, and I sent a discord message to a hacking legend, @Jhaddix…
+
+
+---
+
+## 2026-02-20 · Post · One of my favorite hackers explaining a sick bug chain exploited by some of my other favorite hacker
+
+
+### Post — @xssdoctor — 2026-02-20 12:01 UTC (2026-02-20 13:01 WAT)
+
+- URL: https://x.com/xssdoctor/status/2024816662143279241
+- Metrics (at fetch): bookmark 13, impression 4934, like 67, quote 0, reply 1, retweet 3
+
+> One of my favorite hackers explaining a sick bug chain exploited by some of my other favorite hackers. So freaking awesome!
+>
+> @7urb01 @busf4ctor @monke
+
+
+---
+
+## 2026-02-09 · Post · Guys… get ready for some of the greatest, most fun, most brilliant web security videos ever. https:/
+
+
+### Post — @xssdoctor — 2026-02-09 22:52 UTC (2026-02-09 23:52 WAT)
+
+- URL: https://x.com/xssdoctor/status/2020994315057565907
+- Metrics (at fetch): bookmark 21, impression 6863, like 64, quote 0, reply 0, retweet 1
+
+> Guys… get ready for some of the greatest, most fun, most brilliant web security videos ever. https://twitter.com/7urb01/status/2020961128940175562
+
+**Links in post:** https://twitter.com/7urb01/status/2020961128940175562
+
+**Quoted post** 2020961128940175562: not readable via the API (deleted, private, or withheld).

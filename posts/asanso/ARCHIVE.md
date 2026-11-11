@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 60
-- Oldest post captured: 2024-04-19
+- Posts in this file: 67
+- Conversations/threads: 65
+- Oldest post captured: 2023-10-26
 - Newest post captured: 2026-11-06
 
 
@@ -1092,3 +1092,110 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 0, impression 158, like 2, quote 0, reply 1, retweet 0
 
 > @kobigurk If is a prime order curve not at all
+
+
+---
+
+## 2024-04-09 · Post · Major update: with coauthor @YoussefElHousn3 we generalized the previous result to more family of cu
+
+
+Tags (automatic): OAuth
+
+
+### Post — @asanso — 2024-04-09 14:42 UTC (2024-04-09 15:42 WAT)
+
+- URL: https://x.com/asanso/status/1777708608761041072
+- Metrics (at fetch): bookmark 6, impression 8823, like 52, quote 1, reply 1, retweet 14
+
+> Major update: with coauthor @YoussefElHousn3 we generalized the previous result to more family of curves like BLS/BN/KSS (finding a general solution to the diophantine equation) and we also showcase 2 new curves http://eprint.iacr.org/2023/1662.pdf [pic.x.com/n22pM32zQE] https://twitter.com/asanso/status/1717543480057094160
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKuuE8KWMAA3--3.png — no alt text provided by author
+
+**Links in post:** http://eprint.iacr.org/2023/1662.pdf, https://twitter.com/asanso/status/1717543480057094160
+
+**Quoted post (full text):**
+
+    #### Quoted post — @asanso — 2023-10-26 14:07 UTC (2023-10-26 15:07 WAT)
+    
+    - URL: https://x.com/asanso/status/1717543480057094160
+    - Metrics (at fetch): bookmark 5, impression 13136, like 36, quote 1, reply 2, retweet 8
+    
+    > Posted on eprint a modest paper (Family of embedded curves for BLS) preview https://github.com/asanso/bls-s/blob/main/paper.pdf basically shows how to build embedded curves (à la JubJub/Bandersnatch) having GLV endomorphism (à la Bandersnatch) providing general formulas derived from the BLS curve’s seed. [pic.x.com/Wvy7rbIVs4]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F9XwQdMXEAAm3U1.png — no alt text provided by author
+    
+    **Links in post:** https://github.com/asanso/bls-s/blob/main/paper.pdf
+    
+
+
+---
+
+## 2024-04-04 · Post · Time to study elliptic curve over Q . Stay tuned [pic.x.com/bUIRlw8KsN]
+
+
+### Post — @asanso — 2024-04-04 08:30 UTC (2024-04-04 09:30 WAT)
+
+- URL: https://x.com/asanso/status/1775803001883463788
+- Metrics (at fetch): bookmark 7, impression 2822, like 41, quote 1, reply 8, retweet 0
+
+> Time to study elliptic curve over Q . Stay tuned [pic.x.com/bUIRlw8KsN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKTrausWkAApAtF.jpg — no alt text provided by author
+
+
+---
+
+## 2023-11-23 · Post · What do u doin your lunch break? Me [pic.x.com/VIsPTK4iaQ]
+
+
+### Post — @asanso — 2023-11-23 13:34 UTC (2023-11-23 14:34 WAT)
+
+- URL: https://x.com/asanso/status/1727682000138486152
+- Metrics (at fetch): bookmark 0, impression 808, like 8, quote 0, reply 1, retweet 0
+
+> What do u doin your lunch break? Me [pic.x.com/VIsPTK4iaQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F_n1npcWMAAsPKz.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F_n1npUWYAEuJfg.jpg — no alt text provided by author
+
+
+---
+
+## 2023-11-17 · Post · Mary Maller just delivered a great talk at https://progcrypto.org : "Randomness beacons and the rece
+
+
+### Post — @asanso — 2023-11-17 09:19 UTC (2023-11-17 10:19 WAT)
+
+- URL: https://x.com/asanso/status/1725443617018319322
+- Metrics (at fetch): bookmark 2, impression 4171, like 14, quote 0, reply 1, retweet 3
+
+> Mary Maller just delivered a great talk at https://progcrypto.org : "Randomness beacons and the recent analysis of the Minroot sequential function" as a follow up of the post. As Mary suggFeel free to ping me if you have any ideas [pic.x.com/rzZVRmWWXD] https://twitter.com/asanso/status/1703805870704836854
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F_IB0snXEAIkNQg.jpg — no alt text provided by author
+
+**Links in post:** https://progcrypto.org, https://twitter.com/asanso/status/1703805870704836854
+
+**Quoted post** 1703805870704836854: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-10-26 · Post · Posted on eprint a modest paper (Family of embedded curves for BLS) preview https://github.com/asans
+
+
+### Post — @asanso — 2023-10-26 14:07 UTC (2023-10-26 15:07 WAT)
+
+- URL: https://x.com/asanso/status/1717543480057094160
+- Metrics (at fetch): bookmark 5, impression 13136, like 36, quote 1, reply 2, retweet 8
+
+> Posted on eprint a modest paper (Family of embedded curves for BLS) preview https://github.com/asanso/bls-s/blob/main/paper.pdf basically shows how to build embedded curves (à la JubJub/Bandersnatch) having GLV endomorphism (à la Bandersnatch) providing general formulas derived from the BLS curve’s seed. [pic.x.com/Wvy7rbIVs4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9XwQdMXEAAm3U1.png — no alt text provided by author
+
+**Links in post:** https://github.com/asanso/bls-s/blob/main/paper.pdf

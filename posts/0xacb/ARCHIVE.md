@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 86
-- Conversations/threads: 73
-- Oldest post captured: 2026-02-25
+- Posts in this file: 109
+- Conversations/threads: 94
+- Oldest post captured: 2026-01-14
 - Newest post captured: 2026-11-05
 
 
@@ -1593,3 +1593,452 @@ Tags (automatic): IDOR / BOLA
 > 2) Change one dimension at a time: user_id, org_id, project_id.
 > 3) Watch for soft failures: 200 with partial data, empty arrays, unexpected responses.
 > 4) Test
+
+
+---
+
+## 2026-02-24 · Post · Vulnerability Spoiler Alert Action by @spaceraccoonsec
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2026-02-24 10:35 UTC (2026-02-24 11:35 WAT)
+
+- URL: https://x.com/0xacb/status/2026244570393055372
+- Metrics (at fetch): bookmark 56, impression 5737, like 60, quote 0, reply 1, retweet 13
+
+> Vulnerability Spoiler Alert Action by @spaceraccoonsec
+>
+> It monitors repositories and uses Claude to detect patching of security vulns. This early warning can give security teams more time to patch before the CVE drops.
+>
+> GitHub repo👇
+> https://github.com/spaceraccoon/vulnerability-spoiler-alert-action
+
+**Links in post:** https://github.com/spaceraccoon/vulnerability-spoiler-alert-action
+
+
+---
+
+## 2026-02-23 · Post · Hackian uncovered interesting business logic flaws in SonarQube and n8n.
+
+
+### Post — @0xacb — 2026-02-23 17:41 UTC (2026-02-23 18:41 WAT)
+
+- URL: https://x.com/0xacb/status/2025989393429692659
+- Metrics (at fetch): bookmark 26, impression 2860, like 37, quote 0, reply 0, retweet 1
+
+> Hackian uncovered interesting business logic flaws in SonarQube and n8n.
+>
+> Blog post by @pcuco92👇
+>
+> https://ethiack.com/news/product/hackian-ghosts-in-business-logic
+
+**Links in post:** https://ethiack.com/news/product/hackian-ghosts-in-business-logic
+
+
+---
+
+## 2026-02-20 · Post · Did you know that you can subscribe to topics using RSS on Medium?
+
+
+Tags (automatic): XSS
+
+
+### Post — @0xacb — 2026-02-20 11:03 UTC (2026-02-20 12:03 WAT)
+
+- URL: https://x.com/0xacb/status/2024802200556335253
+- Metrics (at fetch): bookmark 30, impression 1985, like 21, quote 0, reply 2, retweet 1
+
+> Did you know that you can subscribe to topics using RSS on Medium?
+>
+> For example, if you want to receive updates about cross-site scripting, simply use this link: 
+>
+> https://medium[.]com/feed/tag/cross-site-scripting 
+>
+> Replace "cross-site-scripting" with any other vulnerability
+
+
+---
+
+## 2026-02-19 · Post · ASN/CIDR lookups are massively underrated for recon.
+
+
+### Post — @0xacb — 2026-02-19 16:13 UTC (2026-02-19 17:13 WAT)
+
+- URL: https://x.com/0xacb/status/2024517695140475307
+- Metrics (at fetch): bookmark 94, impression 6065, like 105, quote 0, reply 0, retweet 10
+
+> ASN/CIDR lookups are massively underrated for recon.
+>
+> Start with a company name. Find all their assets. Get instant ASN to CIDR lookups, IP/DNS/ORG resolution, and JSON/CSV output 👇
+>
+> https://github.com/projectdiscovery/asnmap
+
+**Links in post:** https://github.com/projectdiscovery/asnmap
+
+
+---
+
+## 2026-02-18 · Post · @wunderwuzzi23 Blog: https://ethiack.com/news/blog/agentic-problems-and-zombie-ai
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2026-02-18 14:34 UTC (2026-02-18 15:34 WAT)
+
+- URL: https://x.com/0xacb/status/2024130311764705784
+- Metrics (at fetch): bookmark 2, impression 750, like 3, quote 0, reply 0, retweet 1
+
+> @wunderwuzzi23 Blog: https://ethiack.com/news/blog/agentic-problems-and-zombie-ai
+
+**Links in post:** https://ethiack.com/news/blog/agentic-problems-and-zombie-ai
+
+
+---
+
+## 2026-02-14 · Post · GraphQL Introspection Bypass via Field Suggestions
+
+
+### Post — @0xacb — 2026-02-14 12:04 UTC (2026-02-14 13:04 WAT)
+
+- URL: https://x.com/0xacb/status/2022643073855951103
+- Metrics (at fetch): bookmark 177, impression 7779, like 204, quote 0, reply 1, retweet 35
+
+> GraphQL Introspection Bypass via Field Suggestions
+>
+> Even with introspection disabled, GraphQL APIs leak schema information through error messages.
+>
+> When introspection returns errors, exploit the suggestion feature:
+> &gt; Send queries with intentional typos
+> &gt; GraphQL suggests similar
+
+
+---
+
+## 2026-02-12 · Post · Exposing Instagram posts from private users. A writeup by @rub003 
+
+
+### Post — @0xacb — 2026-02-12 11:02 UTC (2026-02-12 12:02 WAT)
+
+- URL: https://x.com/0xacb/status/2021902700682604832
+- Metrics (at fetch): bookmark 65, impression 4707, like 55, quote 0, reply 0, retweet 5
+
+> Exposing Instagram posts from private users. A writeup by @rub003 
+>
+> https://003random.com/posts/meta-bountycon-instagram-writeup/
+
+**Links in post:** https://003random.com/posts/meta-bountycon-instagram-writeup/
+
+
+---
+
+## 2026-02-10 · Post · Openclaw (Clawdbot) is cool and all but it’s also risky.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2026-02-10 11:03 UTC (2026-02-10 12:03 WAT)
+
+- URL: https://x.com/0xacb/status/2021178131399238107
+- Metrics (at fetch): bookmark 9, impression 1676, like 17, quote 0, reply 1, retweet 1
+
+> Openclaw (Clawdbot) is cool and all but it’s also risky.
+>
+> Make sure you get your bot audited with some better security practices 👇 
+>
+> https://auth0.com/blog/five-step-guide-securing-moltbot-ai-agent/
+> https://docs.molt.bot/gateway/security
+
+**Links in post:** https://auth0.com/blog/five-step-guide-securing-moltbot-ai-agent/, https://docs.molt.bot/gateway/security
+
+
+---
+
+## 2026-02-09 · Post · Bug bounty writeups daily by @piyush_supiy
+
+
+### Post — @0xacb — 2026-02-09 14:19 UTC (2026-02-09 15:19 WAT)
+
+- URL: https://x.com/0xacb/status/2020865114786734355
+- Metrics (at fetch): bookmark 98, impression 6151, like 91, quote 0, reply 0, retweet 10
+
+> Bug bounty writeups daily by @piyush_supiy
+>
+> https://securitycipher.com/bounty-writeups/
+
+**Links in post:** https://securitycipher.com/bounty-writeups/
+
+
+---
+
+## 2026-02-04 · Post · 🚨We found RCE in Clawdbot 🚨
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2026-02-04 00:52 UTC (2026-02-04 01:52 WAT)
+
+- URL: https://x.com/0xacb/status/2018850079029760335
+- Metrics (at fetch): bookmark 464, impression 122973, like 663, quote 22, reply 23, retweet 153
+
+> 🚨We found RCE in Clawdbot 🚨
+>
+> If you're using Clawdbot/Moltbot, I can get RCE on your computer just by getting you to click a link. 
+>
+> The coolest part? This vulnerability (CVE-2026-25253) took only 100 minutes to discover, and it was discovered completely autonomously using
+
+
+---
+
+## 2026-02-03 · Post · 404 page to RCE. A report by @spaceraccoonsec
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2026-02-03 10:05 UTC (2026-02-03 11:05 WAT)
+
+- URL: https://x.com/0xacb/status/2018626870082752936
+- Metrics (at fetch): bookmark 492, impression 37366, like 715, quote 1, reply 12, retweet 85
+
+> 404 page to RCE. A report by @spaceraccoonsec
+>
+> He chained two old CVEs to achieve RCE:
+> - Found a 404 page mentioning an obscure CMS, discovered /josso/signin login
+> - Triggered CVE-2007-0450 (directory traversal in mod_proxy) using a %5C../ to bypass the internal proxy
+> - Reached
+
+
+---
+
+## 2026-02-02 · Post · 💥 One click could completely compromise a @OpenClaw / Moltbot / Clawdbot (CVE-2026-25253)
+
+
+### Post — @0xacb — 2026-02-02 09:07 UTC (2026-02-02 10:07 WAT)
+
+- URL: https://x.com/0xacb/status/2018250014783418715
+- Metrics (at fetch): bookmark 11, impression 3680, like 35, quote 0, reply 4, retweet 8
+
+> 💥 One click could completely compromise a @OpenClaw / Moltbot / Clawdbot (CVE-2026-25253)
+>
+> The vulnerability is now fixed, but here's how it worked:
+>
+> - gatewayUrl Parameter: A GET parameter automatically overrides the WebSocket gateway URL used by the Control UI
+>
+> - Token [pic.x.com/DKD06lDlcn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAJDk2LW4AA3fqo.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-01 · Post · Very interesting techniques by @slonser_
+
+
+Tags (automatic): Request smuggling / desync, AI-assisted hunting
+
+
+### Post — @0xacb — 2026-02-01 09:39 UTC (2026-02-01 10:39 WAT)
+
+- URL: https://x.com/0xacb/status/2017895537454838146
+- Metrics (at fetch): bookmark 109, impression 6737, like 127, quote 0, reply 1, retweet 19
+
+> Very interesting techniques by @slonser_
+>
+> The issue comes from the fact that LLMs don't actually parse JSON/CSV data with standard parsers. They just read it as text. When data looks malformed, models will often try to "fix" it, which is exactly how attackers can smuggle
+
+
+---
+
+## 2026-01-29 · Thread · Our pentesting agent found a 1-click ATO to RCE in @openclaw Gateway Control UI in under 2 hours.
+
+
+Tags (automatic): Account takeover, RCE, AI-assisted hunting
+
+
+### Post — @0xacb — 2026-01-29 16:38 UTC (2026-01-29 17:38 WAT)
+
+- URL: https://x.com/0xacb/status/2016913750557651228
+- Metrics (at fetch): bookmark 143, impression 24570, like 227, quote 2, reply 7, retweet 37
+
+> Our pentesting agent found a 1-click ATO to RCE in @openclaw Gateway Control UI in under 2 hours.
+>
+> Local instances can also be exploited with one click.
+>
+> Patched in main, update now.
+>
+> Watch the exploit 👇 [pic.x.com/E8fDD4SDGx]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/2016913600686809088/pu/img/F6tC5r8_sFi46nQN.jpg — no alt text provided by author
+
+
+### Thread part 2 — @0xacb — 2026-01-29 16:38 UTC (2026-01-29 17:38 WAT)
+
+- URL: https://x.com/0xacb/status/2016913752059199855
+- Metrics (at fetch): bookmark 34, impression 3964, like 51, quote 0, reply 1, retweet 9
+
+> @openclaw By @hjsbranq, @s3np41k1r1t0 and team. 
+>
+> Blog post:
+> https://ethiack.com/news/blog/one-click-rce-moltbot?utm_campaign=molbot_rce&utm_source=x&utm_medium=andre
+
+**Links in post:** https://ethiack.com/news/blog/one-click-rce-moltbot?utm_campaign=molbot_rce&utm_source=x&utm_medium=andre
+
+
+### Thread part 3 — @0xacb — 2026-01-29 16:38 UTC (2026-01-29 17:38 WAT)
+
+- URL: https://x.com/0xacb/status/2016913753422373118
+- Metrics (at fetch): bookmark 15, impression 2312, like 14, quote 0, reply 0, retweet 2
+
+> @openclaw @hjsbranq @s3np41k1r1t0 PoC repository:
+> https://github.com/ethiack/moltbot-1click-rce
+
+**Links in post:** https://github.com/ethiack/moltbot-1click-rce
+
+
+---
+
+## 2026-01-28 · Post · It's been a while since I've tried to find bugs in @facebook. Maybe it's time to look into the new s
+
+
+### Post — @0xacb — 2026-01-28 10:27 UTC (2026-01-28 11:27 WAT)
+
+- URL: https://x.com/0xacb/status/2016458076669292812
+- Metrics (at fetch): bookmark 121, impression 8345, like 136, quote 0, reply 3, retweet 21
+
+> It's been a while since I've tried to find bugs in @facebook. Maybe it's time to look into the new stuff.
+>
+> I remember the days when we spent one entire day intercepting mobile app traffic by patching a native library when nobody knew about it and finding an easy location-based
+
+
+---
+
+## 2026-01-27 · Post · Looking for S(security) in MCP? 👀
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2026-01-27 10:24 UTC (2026-01-27 11:24 WAT)
+
+- URL: https://x.com/0xacb/status/2016094932952342989
+- Metrics (at fetch): bookmark 16, impression 2236, like 24, quote 0, reply 1, retweet 0
+
+> Looking for S(security) in MCP? 👀
+>
+> You’re probably already familiar with MCP but did you know that it’s not secure out of the box?
+>
+> Possible risks includes command injection vulns that may lead to RCE, tool poisoning and the silent redefinition of previously approved tools. And
+
+
+---
+
+## 2026-01-26 · Reply · @ryotkak discovered 8 ways to achieve RCE in Claude Code without user approval 🤯
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @0xacb — 2026-01-26 10:09 UTC (2026-01-26 11:09 WAT)
+
+- URL: https://x.com/0xacb/status/2015728767524561066
+- Metrics (at fetch): bookmark 34, impression 3521, like 65, quote 0, reply 0, retweet 13
+
+> @ryotkak discovered 8 ways to achieve RCE in Claude Code without user approval 🤯
+>
+> @claudeai allowlisted "safe" commands like echo, sed, and sort, then used regex blocklists to prevent dangerous arguments. 
+>
+> All fixed in v1.0.93 by switching from blocklists to allowlists.
+>
+> Blog
+
+
+---
+
+## 2026-01-25 · Post · It's crazy how hallucinated AI CVE PoCs keep ending up in @NIST NVD references.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xacb — 2026-01-25 17:13 UTC (2026-01-25 18:13 WAT)
+
+- URL: https://x.com/0xacb/status/2015473216844620280
+- Metrics (at fetch): bookmark 35, impression 25111, like 103, quote 2, reply 4, retweet 27
+
+> It's crazy how hallucinated AI CVE PoCs keep ending up in @NIST NVD references.
+>
+> One recent example is CVE-2026-21962, a 10.0 CVE in Oracle HTTP Server / Apache Proxy Plugin.
+>
+> https://nvd.nist.gov/vuln/detail/CVE-2026-21962 links to a GitHub repository with a fake PoC.
+>
+> This also propagates to @github [pic.x.com/BCL6wUpdhB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_hmF4eWsAAgMPe.jpg — no alt text provided by author
+
+**Links in post:** https://nvd.nist.gov/vuln/detail/CVE-2026-21962
+
+
+---
+
+## 2026-01-19 · Post · Have you ever tried to find JSON Web Token (JWT) bugs?
+
+
+### Post — @0xacb — 2026-01-19 15:11 UTC (2026-01-19 16:11 WAT)
+
+- URL: https://x.com/0xacb/status/2013268081003368472
+- Metrics (at fetch): bookmark 197, impression 8393, like 181, quote 0, reply 2, retweet 25
+
+> Have you ever tried to find JSON Web Token (JWT) bugs?
+>
+> 5 ideas to try 👇
+>
+> &gt; Change alg to "none" and strip the signature but keep the trailing dot
+> &gt; “jwt_tool &lt;JWT&gt; --crack -d &lt;wordlist&gt;”  to crack weak secret keys
+> &gt; Change alg from "RS256" to "HS256", then sign with the server
+
+
+---
+
+## 2026-01-15 · Post · The questions you need to ask to learn about a new vuln class or technique 🐛
+
+
+### Post — @0xacb — 2026-01-15 11:41 UTC (2026-01-15 12:41 WAT)
+
+- URL: https://x.com/0xacb/status/2011765664189383012
+- Metrics (at fetch): bookmark 15, impression 2205, like 33, quote 0, reply 0, retweet 3
+
+> The questions you need to ask to learn about a new vuln class or technique 🐛
+>
+> Why does it occur (root cause) and how to exploit it?
+> Are there labs or challenges to practice on?
+> Any related disclosed reports, blog posts or writeups?
+> What are the best targets to hunt for it?
+> What
+
+
+---
+
+## 2026-01-14 · Post · A critical Supabase JWT bug by @BourAbdelhadi
+
+
+### Post — @0xacb — 2026-01-14 10:34 UTC (2026-01-14 11:34 WAT)
+
+- URL: https://x.com/0xacb/status/2011386406627655998
+- Metrics (at fetch): bookmark 76, impression 5582, like 105, quote 0, reply 1, retweet 10
+
+> A critical Supabase JWT bug by @BourAbdelhadi
+>
+> And he used rep+ for this impactful finding
+>
+> Tool👇
+> https://github.com/repplus/rep/
+
+**Links in post:** https://github.com/repplus/rep/

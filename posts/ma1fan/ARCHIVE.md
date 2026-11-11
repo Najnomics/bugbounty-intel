@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 20
-- Conversations/threads: 19
+- Posts in this file: 22
+- Conversations/threads: 21
 - Oldest post captured: 2026-09-25
 - Newest post captured: 2026-11-10
 
@@ -218,7 +218,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @ma1fan — 2026-10-19 15:25 UTC (2026-10-19 16:25 WAT)
 
 - URL: https://x.com/ma1fan/status/2112203544350880105
-- Metrics (at fetch): bookmark 1, impression 2171, like 21, quote 0, reply 3, repost 0
+- Metrics (at fetch): bookmark 1, impression 2171, like 21, quote 0, reply 3, retweet 0
 
 > Lol. Reported a smart contract compiler bug I assessed as Critical. Waited a month. The team said they found no affected deployed contracts, classified it as Low, and offered a small bounty. what should I do? [pic.x.com/aDntYm6I9R]
 
@@ -232,6 +232,25 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): bookmark 0, impression 177, like 2, quote 0, reply 0, repost 0
 
 > @gosasu1 good idea😅
+
+
+---
+
+## 2026-10-19 · Post · Lol. Reported a smart contract compiler bug I assessed as Critical. Waited a month. The team said th
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ma1fan — 2026-10-19 15:24 UTC (2026-10-19 16:24 WAT)
+
+- URL: https://x.com/ma1fan/status/2112203118188580961
+- Metrics (at fetch): bookmark 0, impression 59, like 0, quote 0, reply 0, retweet 0
+
+> Lol. Reported a smart contract compiler bug I assessed as Critical. Waited a month. The team said they found no affected deployed contracts, classified it as Low, and offered a small bounty. https://t.co/UnFFgWZ9ns
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/HVANiHkaIAA9WK5.jpg — no alt text provided by author
 
 
 ---
@@ -252,6 +271,30 @@ Tags (automatic): AI-assisted hunting
 > 我们的 ExFing 指纹浏览器 内测正式上线了！
 >
 > 💡 我们为什么要自己做一款指纹浏览器？ [pic.x.com/5UOQKtSL6s]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUj55hjaYAAaNuM.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-14 · Post · 【重磅内测】我们做了一款真正安全、超轻量、AI Native 的指纹浏览器 —@exfing_browser
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @ma1fan — 2026-10-14 03:31 UTC (2026-10-14 04:31 WAT)
+
+- URL: https://x.com/ma1fan/status/2110211814663639392
+- Metrics (at fetch): bookmark 0, impression 112, like 1, quote 0, reply 0, retweet 0
+
+> 【重磅内测】我们做了一款真正安全、超轻量、AI Native 的指纹浏览器 —@exfing_browser
+>
+> 大家好！今天正式向大家宣布一个好消息：
+> 我们的 ExFing 指纹浏览器 内测正式上线了！
+>
+> 💡 我们为什么要自己做一款指纹浏览器？ https://t.co/XoW8LZ3npE
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HUj55hjaYAAaNuM.jpg — no alt text provided by author

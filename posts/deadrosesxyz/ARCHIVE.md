@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 29
-- Conversations/threads: 25
-- Oldest post captured: 2026-04-28
+- Posts in this file: 30
+- Conversations/threads: 26
+- Oldest post captured: 2026-02-02
 - Newest post captured: 2026-10-19
 
 
@@ -603,3 +603,20 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 > @Kharek_ @Polymarket @devjoshstevens @shayne_coplan also polymarket simply has too many issues. its not just the high fees. fix a bug and they introduce 10x more. no clear path, going in 10 different directions (launching perps???)
 >
 > there’s just sufficient room for a proper PM, low fees, no UMA manipulations, good UX and good
+
+
+---
+
+## 2026-02-02 · Post · update regarding @YieldoorFi 
+
+
+### Post — @deadrosesxyz — 2026-02-02 14:21 UTC (2026-02-02 15:21 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2018329046359126205
+- Metrics (at fetch): bookmark 12, impression 8890, like 103, quote 1, reply 6, retweet 5
+
+> update regarding @YieldoorFi 
+>
+> in the past few months i hadn't really put a lot of time and effort into it. Yields were dry, protocol fees are low % and it simply didn't make financial sense to pour a lot of time and effort into it.
+>
+> that pause made one thing clear - Yieldoor had

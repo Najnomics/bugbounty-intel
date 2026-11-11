@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 15
-- Oldest post captured: 2026-10-22
+- Posts in this file: 59
+- Conversations/threads: 48
+- Oldest post captured: 2026-09-16
 - Newest post captured: 2026-11-09
 
 
@@ -29,7 +29,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @garethheyes — 2026-11-09 19:09 UTC (2026-11-09 20:09 WAT)
 
 - URL: https://x.com/garethheyes/status/2119870001997844712
-- Metrics (at fetch): bookmark 0, impression 1344, like 7, quote 0, reply 1, retweet 0
+- Metrics (at fetch): bookmark 0, impression 1363, like 7, quote 0, reply 1, retweet 0
 
 > Trying Fable 5.2 to see if it can make Shazzer fuzzing faster
 
@@ -72,7 +72,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @garethheyes — 2026-11-06 13:07 UTC (2026-11-06 14:07 WAT)
 
 - URL: https://x.com/garethheyes/status/2118691773333782693
-- Metrics (at fetch): bookmark 44, impression 3370, like 100, quote 0, reply 4, repost 20
+- Metrics (at fetch): bookmark 44, impression 3370, like 100, quote 0, reply 4, retweet 20
 
 > I built a new tool called Frag. A CSS-only token exfiltration tool. No JavaScript needed. Inject a stylesheet, steal the token. Uses De Bruijn graphs to reconstruct secrets from overlapping CSS attribute selector fragments. Built on research by me and @Alex_______C Source: 👇 [pic.x.com/yuGFp0EZsE]
 
@@ -83,7 +83,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Thread part 2 — @garethheyes — 2026-11-06 13:07 UTC (2026-11-06 14:07 WAT)
 
 - URL: https://x.com/garethheyes/status/2118691775862698307
-- Metrics (at fetch): bookmark 2, impression 602, like 5, quote 0, reply 0, repost 2
+- Metrics (at fetch): bookmark 2, impression 602, like 5, quote 0, reply 0, retweet 2
 
 > Source code:
 > https://github.com/hackvertor/frag
@@ -181,7 +181,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @garethheyes — 2026-10-28 12:48 UTC (2026-10-28 13:48 WAT)
 
 - URL: https://x.com/garethheyes/status/2115425425367199834
-- Metrics (at fetch): bookmark 5, impression 1937, like 19, quote 0, reply 0, repost 1
+- Metrics (at fetch): bookmark 5, impression 1937, like 19, quote 0, reply 0, retweet 1
 
 > Oh Hackvertor now decodes JS Fuck now because you know that's like a 2 min job now. [pic.x.com/19e4Ihs0So]
 
@@ -197,7 +197,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @garethheyes — 2026-10-28 12:14 UTC (2026-10-28 13:14 WAT)
 
 - URL: https://x.com/garethheyes/status/2115416967050141971
-- Metrics (at fetch): bookmark 3, impression 1412, like 14, quote 0, reply 2, repost 0
+- Metrics (at fetch): bookmark 3, impression 1412, like 14, quote 0, reply 2, retweet 0
 
 > Hackvertor now supports encoding and decoding reverse JS fuck
 > https://hackvertor.co.uk/recipes/40
@@ -210,7 +210,7 @@ Tags (automatic): AI-assisted hunting
 ### Thread part 2 — @garethheyes — 2026-10-28 12:22 UTC (2026-10-28 13:22 WAT)
 
 - URL: https://x.com/garethheyes/status/2115419000540995739
-- Metrics (at fetch): bookmark 0, impression 426, like 0, quote 0, reply 0, repost 0
+- Metrics (at fetch): bookmark 0, impression 426, like 0, quote 0, reply 0, retweet 0
 
 > In case you want to know how this is built, read Bartosz's post
 >
@@ -230,7 +230,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2026-10-27 14:29 UTC (2026-10-27 15:29 WAT)
 
 - URL: https://x.com/garethheyes/status/2115088588874650054
-- Metrics (at fetch): bookmark 53, impression 7302, like 115, quote 1, reply 2, repost 29
+- Metrics (at fetch): bookmark 53, impression 7302, like 115, quote 1, reply 2, retweet 29
 
 > XSS from a response header 🤯
 >
@@ -245,7 +245,7 @@ Tags (automatic): XSS
 ### Thread part 2 — @garethheyes — 2026-10-27 14:29 UTC (2026-10-27 15:29 WAT)
 
 - URL: https://x.com/garethheyes/status/2115088592238502126
-- Metrics (at fetch): bookmark 13, impression 1315, like 22, quote 0, reply 0, repost 4
+- Metrics (at fetch): bookmark 13, impression 1315, like 22, quote 0, reply 0, retweet 4
 
 > Blog post:
 > https://portswigger.net/research/scalable-vector-grief
@@ -369,12 +369,557 @@ Tags (automatic): XSS
 
 ---
 
-## 2026-10-22 · Reply · @boardyai So true
+## 2026-10-22 · Thread · Last night I finished a bunch of changes to make the Hackvertor UI more minimal. I removed the autod
 
 
-### Post — @garethheyes — 2026-10-22 11:20 UTC (2026-10-22 12:20 WAT)
+### Post — @garethheyes — 2026-10-22 11:17 UTC (2026-10-22 12:17 WAT)
+
+- URL: https://x.com/garethheyes/status/2113228123844366590
+- Metrics (at fetch): bookmark 4, impression 1567, like 10, quote 0, reply 2, retweet 0
+
+> Last night I finished a bunch of changes to make the Hackvertor UI more minimal. I removed the autodecode box and instead now you can just make a selection and autodecode the selection. Same features, less clutter. https://t.co/Y5YApUs69k
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2113228060145127424/img/5wyH0ffmucHlyDvN.jpg — no alt text provided by author
+
+
+### Thread part 2 — @garethheyes — 2026-10-22 11:20 UTC (2026-10-22 12:20 WAT)
 
 - URL: https://x.com/garethheyes/status/2113228981034201373
 - Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 1, retweet 0
 
 > @boardyai So true
+
+
+---
+
+## 2026-10-22 · Post · Try it out yourself:
+
+
+### Post — @garethheyes — 2026-10-22 11:17 UTC (2026-10-22 12:17 WAT)
+
+- URL: https://x.com/garethheyes/status/2113228218539147552
+- Metrics (at fetch): bookmark 0, impression 381, like 1, quote 0, reply 0, retweet 0
+
+> Try it out yourself:
+> https://t.co/lJRZV7mtx9
+
+
+---
+
+## 2026-10-19 · Post · https://t.co/LPJa4eIXQJ
+
+
+### Post — @garethheyes — 2026-10-19 13:30 UTC (2026-10-19 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2112174431061553579
+- Metrics (at fetch): bookmark 0, impression 568, like 1, quote 0, reply 0, retweet 0
+
+> https://t.co/LPJa4eIXQJ
+
+
+---
+
+## 2026-10-19 · Post · Six consuming tags. One Safari trick: &lt;select&gt;.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-10-19 13:30 UTC (2026-10-19 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2112174430696722645
+- Metrics (at fetch): bookmark 18, impression 3710, like 53, quote 0, reply 1, retweet 11
+
+> Six consuming tags. One Safari trick: &lt;select&gt;.
+>
+> Bypass &lt;noframes&gt;, &lt;xmp&gt;, &lt;noembed&gt;, &lt;style&gt;, &lt;title&gt; and &lt;noscript&gt;. We've added all six vectors to our XSS cheat sheet: https://t.co/wMbRvffa5J
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HU_i7VsWcAAYHpT.jpg — alt text: "<select>
+<noscript></select>
+<img src onerror=alert(1)>
+</noscript></select>
+"
+
+
+---
+
+## 2026-10-13 · Post · https://t.co/vSRx7Uo15E
+
+
+### Post — @garethheyes — 2026-10-13 17:35 UTC (2026-10-13 18:35 WAT)
+
+- URL: https://x.com/garethheyes/status/2110061978752335909
+- Metrics (at fetch): bookmark 0, impression 518, like 5, quote 0, reply 0, retweet 0
+
+> https://t.co/vSRx7Uo15E
+
+
+---
+
+## 2026-10-13 · Post · 🎄 $13.37 for the JavaScript for hackers paperback on Amazon USA this Christmas. The perfect present 
+
+
+### Post — @garethheyes — 2026-10-13 17:35 UTC (2026-10-13 18:35 WAT)
+
+- URL: https://x.com/garethheyes/status/2110061975833317718
+- Metrics (at fetch): bookmark 1, impression 1695, like 10, quote 0, reply 1, retweet 0
+
+> 🎄 $13.37 for the JavaScript for hackers paperback on Amazon USA this Christmas. The perfect present for the JS hacker in your life (or for you). https://t.co/PlVYBjSV2X
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUhxWnzWoAAzw3M.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-13 · Post · https://t.co/IS1zmxmO7h
+
+
+### Post — @garethheyes — 2026-10-13 13:26 UTC (2026-10-13 14:26 WAT)
+
+- URL: https://x.com/garethheyes/status/2109999118231687194
+- Metrics (at fetch): bookmark 0, impression 488, like 0, quote 0, reply 0, retweet 0
+
+> https://t.co/IS1zmxmO7h
+
+
+---
+
+## 2026-10-13 · Post · Safari wanted a decryption key. @AmirMSafari gave it alert(1).
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-10-13 13:26 UTC (2026-10-13 14:26 WAT)
+
+- URL: https://x.com/garethheyes/status/2109999115841220737
+- Metrics (at fetch): bookmark 28, impression 3410, like 104, quote 0, reply 8, retweet 11
+
+> Safari wanted a decryption key. @AmirMSafari gave it alert(1).
+>
+> Two fresh XSS vectors using &lt;audio&gt;, &lt;video&gt; and onwebkitneedkey just landed in our PortSwigger XSS cheat sheet.
+>
+> He keeps finding gems. We keep adding them. https://t.co/lxT21ot7CN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUg4jM-XQAA86cf.jpg — alt text: "<audio src=data:,%23EXTM3U%0A%23EXT-X-TARGETDURATION:1%0A%23EXT-X-KEY:METHOD=AES-128,URI=%22skd:%22%0A%23EXTINF:1%0Ax onwebkitneedkey=alert(1)></audio>
+"
+
+
+---
+
+## 2026-10-13 · Post · https://t.co/94O3yvMi4E
+
+
+### Post — @garethheyes — 2026-10-13 11:29 UTC (2026-10-13 12:29 WAT)
+
+- URL: https://x.com/garethheyes/status/2109969822532452570
+- Metrics (at fetch): bookmark 0, impression 511, like 0, quote 0, reply 0, retweet 0
+
+> https://t.co/94O3yvMi4E
+
+
+---
+
+## 2026-10-13 · Post · Last night I updated Shazzer to improve the fuzz result toast. It's now more compact and you can see
+
+
+### Post — @garethheyes — 2026-10-13 11:29 UTC (2026-10-13 12:29 WAT)
+
+- URL: https://x.com/garethheyes/status/2109969820452303220
+- Metrics (at fetch): bookmark 1, impression 1702, like 8, quote 0, reply 1, retweet 0
+
+> Last night I updated Shazzer to improve the fuzz result toast. It's now more compact and you can see fuzz results for each browser in your personal network. https://t.co/3QCGZRChW0
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2109968977191448576/img/fwFKwXIKe-qCkpG7.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-07 · Post · Made a personal network in Shazzer so you can have all your logged in browsers connected so you can 
+
+
+### Post — @garethheyes — 2026-10-07 20:19 UTC (2026-10-07 21:19 WAT)
+
+- URL: https://x.com/garethheyes/status/2107928815615844447
+- Metrics (at fetch): bookmark 0, impression 1480, like 1, quote 0, reply 0, retweet 0
+
+> Made a personal network in Shazzer so you can have all your logged in browsers connected so you can fuzz them all at once. Also added a fuzz basket feature so you can add a load of vectors to your personal fuzzing network. That was fun.
+
+
+---
+
+## 2026-10-06 · Post · https://t.co/drapoExnm6
+
+
+### Post — @garethheyes — 2026-10-06 13:30 UTC (2026-10-06 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2107463389744333230
+- Metrics (at fetch): bookmark 1, impression 568, like 1, quote 0, reply 1, retweet 0
+
+> https://t.co/drapoExnm6
+
+
+---
+
+## 2026-10-06 · Post · Another XSS vector for our cheat sheet, this time using &lt;usermedia&gt;
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-10-06 13:30 UTC (2026-10-06 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2107463389039689908
+- Metrics (at fetch): bookmark 32, impression 4762, like 93, quote 0, reply 4, retweet 9
+
+> Another XSS vector for our cheat sheet, this time using &lt;usermedia&gt;
+>
+> Special mention to @AmirMSafari, who found this one and has contributed so many excellent vectors to the cheat sheet. https://t.co/wwDUe8GKxm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HT74jt8WoAAnADv.jpg — alt text: "<usermedia onstream=alert(1)>"
+
+
+---
+
+## 2026-10-05 · Post · https://t.co/c272MM5F3S
+
+
+### Post — @garethheyes — 2026-10-05 15:15 UTC (2026-10-05 16:15 WAT)
+
+- URL: https://x.com/garethheyes/status/2107127537185046693
+- Metrics (at fetch): bookmark 7, impression 929, like 10, quote 0, reply 0, retweet 3
+
+> https://t.co/c272MM5F3S
+
+
+---
+
+## 2026-10-05 · Post · Building on my research, my colleague @Alex_______C exfiltrated a 600-character hex token instantly 
+
+
+### Post — @garethheyes — 2026-10-05 15:15 UTC (2026-10-05 16:15 WAT)
+
+- URL: https://x.com/garethheyes/status/2107127534382969128
+- Metrics (at fetch): bookmark 42, impression 7609, like 118, quote 2, reply 2, retweet 13
+
+> Building on my research, my colleague @Alex_______C exfiltrated a 600-character hex token instantly using just background images and selectors. No recursive imports. https://t.co/XSL6uQNWoK
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2107091521665146880/img/e3SKyLXWFOebMOK4.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-01 · Post · https://t.co/HxjAhrW06H
+
+
+### Post — @garethheyes — 2026-10-01 13:30 UTC (2026-10-01 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2105651445395800087
+- Metrics (at fetch): bookmark 0, impression 582, like 1, quote 0, reply 0, retweet 0
+
+> https://t.co/HxjAhrW06H
+
+
+---
+
+## 2026-10-01 · Post · Chrome's new &lt;microphone&gt; tag has something to say:
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-10-01 13:30 UTC (2026-10-01 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2105651444762481000
+- Metrics (at fetch): bookmark 42, impression 4320, like 120, quote 1, reply 3, retweet 11
+
+> Chrome's new &lt;microphone&gt; tag has something to say:
+>
+> Another XSS vector for our cheat sheet, found by @omidxrz. https://t.co/fmCjvVvdY4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTiwd6cXwAAOXG2.jpg — alt text: "<microphone onvalidationstatuschange=alert(1)>"
+
+
+---
+
+## 2026-09-30 · Post · https://t.co/HxjAhrW06H
+
+
+### Post — @garethheyes — 2026-09-30 13:30 UTC (2026-09-30 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2105289063079293123
+- Metrics (at fetch): bookmark 1, impression 798, like 5, quote 0, reply 1, retweet 0
+
+> https://t.co/HxjAhrW06H
+
+
+---
+
+## 2026-09-30 · Post · Chrome added a &lt;camera&gt; tag.
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-09-30 13:30 UTC (2026-09-30 14:30 WAT)
+
+- URL: https://x.com/garethheyes/status/2105289062487855361
+- Metrics (at fetch): bookmark 71, impression 5799, like 164, quote 0, reply 2, retweet 26
+
+> Chrome added a &lt;camera&gt; tag.
+>
+> @omidxrz made it an XSS vector:
+>
+> Now in our XSS cheat sheet. https://t.co/meD3Dk7d5s
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTdWcUZWoAABUUd.jpg — alt text: "<camera onvalidationstatuschange=alert(1)>"
+
+
+---
+
+## 2026-09-28 · Post · https://t.co/rsJ7fOPZCE
+
+
+### Post — @garethheyes — 2026-09-28 14:00 UTC (2026-09-28 15:00 WAT)
+
+- URL: https://x.com/garethheyes/status/2104571831630135659
+- Metrics (at fetch): bookmark 0, impression 558, like 2, quote 0, reply 0, retweet 0
+
+> https://t.co/rsJ7fOPZCE
+
+
+---
+
+## 2026-09-28 · Post · Stuck inside a &lt;meta&gt; and angle brackets blocked?
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-09-28 14:00 UTC (2026-09-28 15:00 WAT)
+
+- URL: https://x.com/garethheyes/status/2104571830950609102
+- Metrics (at fetch): bookmark 53, impression 5375, like 118, quote 0, reply 1, retweet 30
+
+> Stuck inside a &lt;meta&gt; and angle brackets blocked?
+>
+> You can still get XSS...
+>
+> In Firefox, use hidden=until-found and onbeforematch with a URL hash to trigger your handler.
+>
+> Now in our XSS cheat sheet, thanks to @avlidienbrunn https://t.co/NP3BpBArtp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HTSz3GrWMAA45DT.jpg — alt text: "<meta name=description 
+content=x id=p 
+hidden=until-found 
+onbeforematch=alert(document.domain)>"
+
+
+---
+
+## 2026-09-25 · Post · Visit https://t.co/r0OQ2SqC2a to find out more... https://t.co/FKRsId7erG
+
+
+### Post — @garethheyes — 2026-09-25 12:03 UTC (2026-09-25 13:03 WAT)
+
+- URL: https://x.com/garethheyes/status/2103455461190307868
+- Metrics (at fetch): bookmark 2, impression 2478, like 14, quote 0, reply 0, retweet 2
+
+> Visit https://t.co/r0OQ2SqC2a to find out more... https://t.co/FKRsId7erG
+
+**Quoted post** 2103396588362326382: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-24 · Post · Find out why here:
+
+
+### Post — @garethheyes — 2026-09-24 11:46 UTC (2026-09-24 12:46 WAT)
+
+- URL: https://x.com/garethheyes/status/2103088772489339285
+- Metrics (at fetch): bookmark 0, impression 635, like 6, quote 0, reply 0, retweet 1
+
+> Find out why here:
+> https://t.co/DIgn4WTSzt
+
+
+---
+
+## 2026-09-24 · Post · https://t.co/zNniSX26gB
+
+
+### Post — @garethheyes — 2026-09-24 11:46 UTC (2026-09-24 12:46 WAT)
+
+- URL: https://x.com/garethheyes/status/2103088770736107806
+- Metrics (at fetch): bookmark 15, impression 3792, like 55, quote 0, reply 1, retweet 3
+
+> https://t.co/zNniSX26gB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HS-r5GiWAAAUXGD.jpg — alt text: "<div style="}--\&#0:red;color:var(--&#0">red</div>"
+
+
+---
+
+## 2026-09-23 · Post · Heh ChatGPT now builds fuzzers made out of HTML. Not quite Shazzer standard but pretty good
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @garethheyes — 2026-09-23 19:00 UTC (2026-09-23 20:00 WAT)
+
+- URL: https://x.com/garethheyes/status/2102835469746946351
+- Metrics (at fetch): bookmark 0, impression 1680, like 2, quote 0, reply 2, retweet 0
+
+> Heh ChatGPT now builds fuzzers made out of HTML. Not quite Shazzer standard but pretty good
+
+
+---
+
+## 2026-09-23 · Post · OMG that's fast https://t.co/3hGFMyJTIZ
+
+
+### Post — @garethheyes — 2026-09-23 14:03 UTC (2026-09-23 15:03 WAT)
+
+- URL: https://x.com/garethheyes/status/2102760788570120406
+- Metrics (at fetch): bookmark 5, impression 3076, like 24, quote 0, reply 0, retweet 1
+
+> OMG that's fast https://t.co/3hGFMyJTIZ
+
+**Quoted post** 2102759905262239819: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-21 · Post · I had an argument with Claude. 6 months ago these ended with me being right...oh how the tables have
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @garethheyes — 2026-09-21 18:02 UTC (2026-09-21 19:02 WAT)
+
+- URL: https://x.com/garethheyes/status/2102096207635980404
+- Metrics (at fetch): bookmark 0, impression 1792, like 13, quote 0, reply 0, retweet 0
+
+> I had an argument with Claude. 6 months ago these ended with me being right...oh how the tables have turned. Damn these super smart machines.
+
+
+---
+
+## 2026-09-21 · Post · Shazzer is 🦾
+
+
+### Post — @garethheyes — 2026-09-21 17:35 UTC (2026-09-21 18:35 WAT)
+
+- URL: https://x.com/garethheyes/status/2102089283997761873
+- Metrics (at fetch): bookmark 0, impression 512, like 0, quote 0, reply 0, retweet 0
+
+> Shazzer is 🦾
+
+
+---
+
+## 2026-09-21 · Post · Vector:
+
+
+### Post — @garethheyes — 2026-09-21 17:34 UTC (2026-09-21 18:34 WAT)
+
+- URL: https://x.com/garethheyes/status/2102089155199013348
+- Metrics (at fetch): bookmark 0, impression 745, like 1, quote 0, reply 1, retweet 0
+
+> Vector:
+> https://t.co/Kk2aTLs82M
+
+
+---
+
+## 2026-09-21 · Post · I thought how can fuzz this interesting Safari behaviour. First the code checks markup is consumed b
+
+
+### Post — @garethheyes — 2026-09-21 17:34 UTC (2026-09-21 18:34 WAT)
+
+- URL: https://x.com/garethheyes/status/2102089153101873618
+- Metrics (at fetch): bookmark 1, impression 2296, like 5, quote 0, reply 2, retweet 0
+
+> I thought how can fuzz this interesting Safari behaviour. First the code checks markup is consumed by only incrementing the counter if it is not.The second snippet then wraps the tag in a select and see if the code executes. The counter is 1 if the tag consumes and is neutralized
+
+
+---
+
+## 2026-09-17 · Post · I've improved the sandbox in web Hackvertor to prevent tags from interfering with each other. For ex
+
+
+### Post — @garethheyes — 2026-09-17 19:38 UTC (2026-09-17 20:38 WAT)
+
+- URL: https://x.com/garethheyes/status/2100670841620988235
+- Metrics (at fetch): bookmark 1, impression 1508, like 2, quote 0, reply 1, retweet 0
+
+> I've improved the sandbox in web Hackvertor to prevent tags from interfering with each other. For example if one tag executes first it used to be able to overwrite other functions like btoa. Fixed!
+>
+> &lt;@encode(js)&gt;btoa=()=&gt;"pwnd"&lt;/@encode&gt;
+>
+> &lt;@encode(base64)&gt;foobar&lt;/@encode&gt;
+
+
+---
+
+## 2026-09-17 · Post · I've released Burp Hackvertor v2.2.67. This version supports the check tag and expressions. You can 
+
+
+### Post — @garethheyes — 2026-09-17 18:36 UTC (2026-09-17 19:36 WAT)
+
+- URL: https://x.com/garethheyes/status/2100655261224407073
+- Metrics (at fetch): bookmark 3, impression 1546, like 16, quote 0, reply 0, retweet 1
+
+> I've released Burp Hackvertor v2.2.67. This version supports the check tag and expressions. You can read how to use them here:
+>
+> https://t.co/j0US1t7xsz
+>
+> I'd love any feedback you have, let me know if the expressions are powerful enough.
+
+
+---
+
+## 2026-09-16 · Post · I've added a super powerful feature to Hackvertor. Check tags.They let you perform expressions on ta
+
+
+### Post — @garethheyes — 2026-09-16 20:50 UTC (2026-09-16 21:50 WAT)
+
+- URL: https://x.com/garethheyes/status/2100326415153430563
+- Metrics (at fetch): bookmark 4, impression 1474, like 11, quote 0, reply 0, retweet 3
+
+> I've added a super powerful feature to Hackvertor. Check tags.They let you perform expressions on tags
+>
+> &lt;@check(isJson)&gt;{"a":1}&lt;/@check&gt; &amp;&amp; &lt;@encode(base64)&gt;{"a":1}&lt;/@encode&gt;
+>
+> The above example only returns base 64 encoded JSON if the first is valid JSON.
+>
+> https://t.co/668lchQRSD
+
+
+---
+
+## 2026-09-16 · Post · Did a small post about mutating Safari a behaviour that Shazzer found.
+
+
+### Post — @garethheyes — 2026-09-16 12:03 UTC (2026-09-16 13:03 WAT)
+
+- URL: https://x.com/garethheyes/status/2100193819148824916
+- Metrics (at fetch): bookmark 1, impression 1527, like 8, quote 0, reply 1, retweet 1
+
+> Did a small post about mutating Safari a behaviour that Shazzer found.
+>
+> https://t.co/obIPZuB4jK

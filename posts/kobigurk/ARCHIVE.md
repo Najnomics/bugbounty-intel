@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 36
-- Conversations/threads: 35
-- Oldest post captured: 2024-04-17
+- Posts in this file: 45
+- Conversations/threads: 44
+- Oldest post captured: 2023-09-21
 - Newest post captured: 2026-11-07
 
 
@@ -88,7 +88,7 @@ Tags (automatic): ZK
     #### Quoted post — @zksecurityXYZ — 2026-10-16 02:54 UTC (2026-10-16 03:54 WAT)
     
     - URL: https://x.com/zksecurityXYZ/status/2110927385868571017
-    - Metrics (at fetch): bookmark 12, impression 5312, like 67, quote 4, reply 3, repost 8
+    - Metrics (at fetch): bookmark 12, impression 5313, like 67, quote 4, reply 3, retweet 8
     
     > We're proud to announce the release of zkao version 3, the most powerful zkao update we've released so far. If you have a codebase that implements cryptography, now is the time to let zkao find bugs in it. Go to https://www.zkao.io to request access today. [pic.x.com/n2TM3Wd8e3]
     
@@ -675,3 +675,135 @@ Tags (automatic): ZK
 > Even found a devastating bug in my circuit code https://t.co/rvCWhNDgZG
 
 **Quoted post** 1778693293942960613: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-03-10 · Post · Burger King commercial in the middle of attack on titan seems a bit tasteless
+
+
+### Post — @kobigurk — 2024-03-10 16:15 UTC (2024-03-10 17:15 WAT)
+
+- URL: https://x.com/kobigurk/status/1766860484559745430
+- Metrics (at fetch): bookmark 0, impression 1380, like 3, quote 0, reply 0, retweet 0
+
+> Burger King commercial in the middle of attack on titan seems a bit tasteless
+
+
+---
+
+## 2024-03-02 · Post · Frequently, someone getting into more advanced cryptography mistakes that pairing-friendly curves th
+
+
+### Post — @kobigurk — 2024-03-02 13:43 UTC (2024-03-02 14:43 WAT)
+
+- URL: https://x.com/kobigurk/status/1763922973340139663
+- Metrics (at fetch): bookmark 4, impression 2859, like 16, quote 0, reply 2, retweet 0
+
+> Frequently, someone getting into more advanced cryptography mistakes that pairing-friendly curves that are actually used have easy DDH
+
+
+---
+
+## 2024-01-15 · Post · Your challenge is to see where the argument is wrong, and while not obvious to exploit - find the wa
+
+
+### Post — @kobigurk — 2024-01-15 18:46 UTC (2024-01-15 19:46 WAT)
+
+- URL: https://x.com/kobigurk/status/1746967095005593925
+- Metrics (at fetch): bookmark 0, impression 244, like 1, quote 0, reply 1, retweet 0
+
+> Your challenge is to see where the argument is wrong, and while not obvious to exploit - find the way to break them.
+>
+> Each puzzle needs to be solved within a week, and we’ll release three hints in the first three days of the puzzle.
+>
+> 3/6
+
+
+---
+
+## 2023-11-07 · Post · just found an app that only has dark mode
+
+
+### Post — @kobigurk — 2023-11-07 13:59 UTC (2023-11-07 14:59 WAT)
+
+- URL: https://x.com/kobigurk/status/1721890197506535835
+- Metrics (at fetch): bookmark 0, impression 1466, like 7, quote 0, reply 3, retweet 0
+
+> just found an app that only has dark mode
+>
+> bearish
+
+
+---
+
+## 2023-10-23 · Post · “We model our adversary such that it has computational power N, and for any attack against the syste
+
+
+### Post — @kobigurk — 2023-10-23 16:56 UTC (2023-10-23 17:56 WAT)
+
+- URL: https://x.com/kobigurk/status/1716498750623916070
+- Metrics (at fetch): bookmark 1, impression 1126, like 3, quote 0, reply 1, retweet 0
+
+> “We model our adversary such that it has computational power N, and for any attack against the system (with required computational power M), we have N &lt; M”
+
+
+---
+
+## 2023-10-23 · Post · “We model our adversary such that it has computation power N, and for any attack against the system 
+
+
+### Post — @kobigurk — 2023-10-23 16:55 UTC (2023-10-23 17:55 WAT)
+
+- URL: https://x.com/kobigurk/status/1716498634009666001
+- Metrics (at fetch): bookmark 0, impression 39, like 0, quote 0, reply 0, retweet 0
+
+> “We model our adversary such that it has computation power N, and for any attack against the system (with required computational power M), we have N &lt; M”
+
+
+---
+
+## 2023-10-23 · Post · move fast with broken things was never really the advocated philosophy
+
+
+### Post — @kobigurk — 2023-10-23 04:17 UTC (2023-10-23 05:17 WAT)
+
+- URL: https://x.com/kobigurk/status/1716307765650395552
+- Metrics (at fetch): bookmark 0, impression 2976, like 27, quote 0, reply 3, retweet 4
+
+> move fast with broken things was never really the advocated philosophy
+
+
+---
+
+## 2023-09-24 · Post · Enjoyed reading this a lot
+
+
+### Post — @kobigurk — 2023-09-24 08:55 UTC (2023-09-24 09:55 WAT)
+
+- URL: https://x.com/kobigurk/status/1705868444678189541
+- Metrics (at fetch): bookmark 11, impression 8808, like 35, quote 0, reply 2, retweet 6
+
+> Enjoyed reading this a lot
+>
+> Super clear set of tools that show how to reason about probabilities and soundness of protocols, when using randomness and error correcting codes - leading to clear analysis of succinct proof systems in general like FRI https://twitter.com/angeris/status/1704905170474447190
+
+**Links in post:** https://twitter.com/angeris/status/1704905170474447190
+
+**Quoted post** 1704905170474447190: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-09-21 · Post · I found the arena in bonelab [pic.x.com/atsb7gUP7L]
+
+
+### Post — @kobigurk — 2023-09-21 09:46 UTC (2023-09-21 10:46 WAT)
+
+- URL: https://x.com/kobigurk/status/1704794303753597025
+- Metrics (at fetch): bookmark 0, impression 1301, like 6, quote 0, reply 1, retweet 0
+
+> I found the arena in bonelab [pic.x.com/atsb7gUP7L]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6ilYcbXkAAMA-x.jpg — no alt text provided by author

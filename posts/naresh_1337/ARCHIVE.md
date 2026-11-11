@@ -588,7 +588,17 @@ Tags (automatic): AI-assisted hunting
 **Media:**
 - photo: https://pbs.twimg.com/media/HT_FsHqXIAAvtiv.png — no alt text provided by author
 
-**Quoted post** 2107546569654636883: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @AnthropicAI — 2026-10-06 19:00 UTC (2026-10-06 20:00 WAT)
+    
+    - URL: https://x.com/AnthropicAI/status/2107546569654636883
+    - Metrics (at fetch): bookmark 2509, impression 1353126, like 5810, quote 374, reply 503, retweet 619
+    
+    > We’re expanding our Cyber Verification Program to give security professionals broader access to our most capable models.
+    >
+    > Through this program, verified security professionals can access Claude Mythos 5.1, Opus 5.5, and Sonnet 5.5 with safeguards designed for defensive work.
+    
 
 
 ---

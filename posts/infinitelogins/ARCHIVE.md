@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 25
+- Posts in this file: 30
+- Conversations/threads: 30
 - Oldest post captured: 2026-01-13
 - Newest post captured: 2026-11-04
 
@@ -207,6 +207,25 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-10-21 · Post · Simon Koeck (@soeckly) earned $90,000 from Google after finding a DevSite vulnerability that let him
+
+
+### Post — @infinitelogins — 2026-10-21 13:04 UTC (2026-10-21 14:04 WAT)
+
+- URL: https://x.com/infinitelogins/status/2112892669701558302
+- Metrics (at fetch): bookmark 78, impression 4563, like 118, quote 0, reply 2, retweet 11
+
+> Simon Koeck (@soeckly) earned $90,000 from Google after finding a DevSite vulnerability that let him run commands on Google's servers.
+>
+> The attack came down to 3 security mistakes that chained together.
+>
+> 1. A secret exposed in a session cookie
+>
+> Google's DevSite stored a pickled
+
+
+---
+
 ## 2026-10-19 · Post · PwnEscape escapes KVM in Vercel's $1M sandbox, @opencode's big week ends in a breach, @Hacker0x01 ca
 
 
@@ -216,7 +235,7 @@ Tags (automatic): XSS, RCE, AI-assisted hunting, Platform: HackerOne
 ### Post — @infinitelogins — 2026-10-19 13:15 UTC (2026-10-19 14:15 WAT)
 
 - URL: https://x.com/infinitelogins/status/2112170733228966180
-- Metrics (at fetch): bookmark 8, impression 2002, like 32, quote 0, reply 4, repost 3
+- Metrics (at fetch): bookmark 8, impression 2002, like 32, quote 0, reply 4, retweet 3
 
 > PwnEscape escapes KVM in Vercel's $1M sandbox, @opencode's big week ends in a breach, @Hacker0x01 caps trial reports at 3, @GoogleVRP raises Chrome payouts, and more.
 >
@@ -297,6 +316,66 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 
 ---
 
+## 2026-10-17 · Post · I stumbled across a simple IDOR yesterday after ordering something online. Here's how I found it:
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @infinitelogins — 2026-10-17 16:31 UTC (2026-10-17 17:31 WAT)
+
+- URL: https://x.com/infinitelogins/status/2111495426868453543
+- Metrics (at fetch): bookmark 207, impression 9937, like 360, quote 2, reply 4, retweet 34
+
+> I stumbled across a simple IDOR yesterday after ordering something online. Here's how I found it:
+>
+> After placing my order, I noticed the receipt URL contained two parameters:
+>
+> `/order/receipt?orderId=12345&amp;codeId={uuid}`
+>
+> Opening this URL returned the full order details,
+
+
+---
+
+## 2026-10-17 · Post · Stumbled across an interesting IDOR yesterday after ordering something online. Here's how I found it
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @infinitelogins — 2026-10-17 16:31 UTC (2026-10-17 17:31 WAT)
+
+- URL: https://x.com/infinitelogins/status/2111495266524086354
+- Metrics (at fetch): bookmark 0, impression 79, like 0, quote 0, reply 0, retweet 0
+
+> Stumbled across an interesting IDOR yesterday after ordering something online. Here's how I found it:
+>
+> After placing my order, I noticed the receipt URL contained two parameters:
+>
+> `/order/receipt?orderId=12345&amp;codeId={uuid}`
+>
+> Opening this URL returned the full order details,
+
+
+---
+
+## 2026-10-15 · Post · In an impressive GitHub write-up, @v_metnew documents a sandbox escape in Anthropic's Claude Code CL
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @infinitelogins — 2026-10-15 13:03 UTC (2026-10-15 14:03 WAT)
+
+- URL: https://x.com/infinitelogins/status/2110718099221573685
+- Metrics (at fetch): bookmark 46, impression 4655, like 78, quote 2, reply 8, retweet 8
+
+> In an impressive GitHub write-up, @v_metnew documents a sandbox escape in Anthropic's Claude Code CLI (CVE-2026-55607). By using a prompt-injected repo with `.git` worktree gitdir confusion, they managed to overwrite `~/.zshenv` and bypass macOS seatbelt, achieving unsandboxed
+
+
+---
+
 ## 2026-10-14 · Post · I found a critical unauthenticated SQL injection that earned a $4,000 bounty. The WAF blocked most S
 
 
@@ -306,7 +385,7 @@ Tags (automatic): SQL injection
 ### Post — @infinitelogins — 2026-10-14 13:02 UTC (2026-10-14 14:02 WAT)
 
 - URL: https://x.com/infinitelogins/status/2110355630133322159
-- Metrics (at fetch): bookmark 541, impression 19141, like 650, quote 4, reply 24, repost 89
+- Metrics (at fetch): bookmark 541, impression 19143, like 650, quote 4, reply 24, retweet 89
 
 > I found a critical unauthenticated SQL injection that earned a $4,000 bounty. The WAF blocked most SQLi payloads, but I turned HTTP 500 errors into a data extraction channel.
 >
@@ -395,6 +474,26 @@ Tags (automatic): SQL injection
 > When a WAF blocks SQLi, don't just try random payloads. Understand the database dialect, what the WAF filters, and whether verbose errors leak data.
 >
 > Sometimes a `500` isn't just an error. It may be your output channel.
+
+
+---
+
+## 2026-10-13 · Post · Alex Craig (@Alex_______C) at @PortSwigger demonstrated how to steal secret tokens up to 640 charact
+
+
+### Post — @infinitelogins — 2026-10-13 13:02 UTC (2026-10-13 14:02 WAT)
+
+- URL: https://x.com/infinitelogins/status/2109993087984337111
+- Metrics (at fetch): bookmark 59, impression 3418, like 77, quote 1, reply 0, retweet 15
+
+> Alex Craig (@Alex_______C) at @PortSwigger demonstrated how to steal secret tokens up to 640 characters long using only CSS. No JavaScript required.
+>
+> The technique comes down to 3 things:
+>
+> - CSS injection: Attribute selectors can check whether specific character sequences exist https://t.co/24FDbILjMg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUgziBVW4AAJrYg.jpg — no alt text provided by author
 
 
 ---

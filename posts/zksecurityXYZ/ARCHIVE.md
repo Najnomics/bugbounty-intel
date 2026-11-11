@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 100
-- Conversations/threads: 90
-- Oldest post captured: 2026-04-02
+- Posts in this file: 121
+- Conversations/threads: 101
+- Oldest post captured: 2026-01-26
 - Newest post captured: 2026-11-05
 
 
@@ -16,7 +16,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @zksecurityXYZ — 2026-11-05 11:35 UTC (2026-11-05 12:35 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/2118306216283656625
-- Metrics (at fetch): bookmark 3, impression 1261, like 38, quote 0, reply 2, retweet 5
+- Metrics (at fetch): bookmark 3, impression 1262, like 38, quote 0, reply 2, retweet 5
 
 > We're proud to release MinaGuard, a native multi-sig wallet for Mina, together with @MinaFoundation 🪶 https://t.co/If6Sp81sf2
 
@@ -60,7 +60,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 ### Post — @zksecurityXYZ — 2026-11-03 09:32 UTC (2026-11-03 10:32 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/2117550503060185134
-- Metrics (at fetch): bookmark 4, impression 1404, like 18, quote 0, reply 0, repost 2
+- Metrics (at fetch): bookmark 4, impression 1404, like 18, quote 0, reply 0, retweet 2
 
 > evm.asm, our collaboration with EF on an e2e verified EVM implementation for zkVMs, now has its own autoresearch competition: https://evm.fast
 >
@@ -312,7 +312,7 @@ Tags (automatic): ZK
 ### Post — @zksecurityXYZ — 2026-10-16 02:54 UTC (2026-10-16 03:54 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/2110927385868571017
-- Metrics (at fetch): bookmark 12, impression 5312, like 67, quote 4, reply 3, repost 8
+- Metrics (at fetch): bookmark 12, impression 5313, like 67, quote 4, reply 3, retweet 8
 
 > We're proud to announce the release of zkao version 3, the most powerful zkao update we've released so far. If you have a codebase that implements cryptography, now is the time to let zkao find bugs in it. Go to https://www.zkao.io to request access today. [pic.x.com/n2TM3Wd8e3]
 
@@ -400,6 +400,19 @@ Tags (automatic): Dependency confusion / supply chain, ZK
 > it's true! https://t.co/01ob3oV2I7
 
 **Quoted post** 2108283921679184246: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-05 · Post · we're really lucky to be working with the best teams and most interesting projects in the space righ
+
+
+### Post — @zksecurityXYZ — 2026-10-05 22:08 UTC (2026-10-05 23:08 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2107231573686779921
+- Metrics (at fetch): bookmark 0, impression 2256, like 43, quote 1, reply 3, retweet 3
+
+> we're really lucky to be working with the best teams and most interesting projects in the space right now
 
 
 ---
@@ -1743,3 +1756,338 @@ Tags (automatic): ZK
 > Any suggestions for topics for the next session?
 
 **Links in post:** https://blog.zksecurity.xyz/posts/pudding-9-zk-bitcoin/
+
+
+---
+
+## 2026-03-03 · Post · Interested in hosting a bug bounty in ZK? Contact us https://redline.zksecurity.xyz/ [pic.x.com/IRHb
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-03-03 16:05 UTC (2026-03-03 17:05 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2028864345933820062
+- Metrics (at fetch): bookmark 16, impression 2809, like 37, quote 1, reply 0, retweet 4
+
+> Interested in hosting a bug bounty in ZK? Contact us https://redline.zksecurity.xyz/ [pic.x.com/IRHbASIm2T]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HCf5OkEbQAAEx3Y.jpg — no alt text provided by author
+
+**Links in post:** https://redline.zksecurity.xyz/
+
+
+---
+
+## 2026-02-27 · Post · We're proud of sponsoring zk summit this year, see y'all in Rome! 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-02-27 16:20 UTC (2026-02-27 17:20 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2027418620519662010
+- Metrics (at fetch): bookmark 2, impression 1728, like 21, quote 0, reply 1, retweet 2
+
+> We're proud of sponsoring zk summit this year, see y'all in Rome! 
+>
+> PS: the ZK community wouldn't be the same without the ZK Podcast's team, consider sponsoring the event as well! https://twitter.com/zeroknowledgefm/status/2027360790680903922
+
+**Links in post:** https://twitter.com/zeroknowledgefm/status/2027360790680903922
+
+**Quoted post** 2027360790680903922: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-02-27 · Thread · The first two known exploits against live ZK circuits just happened, and they weren't subtle underco
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK, AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2026-02-27 16:15 UTC (2026-02-27 17:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2027417243059896544
+- Metrics (at fetch): bookmark 191, impression 53111, like 373, quote 20, reply 17, retweet 83
+
+> The first two known exploits against live ZK circuits just happened, and they weren't subtle underconstrained bugs. 
+>
+> They were Groth16 verifiers deployed without completing the trusted setup ceremony. One was  white-hat rescued for ~$1.5M, the other drained for 5 ETH.  
+>
+> 🧵
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-02-27 16:15 UTC (2026-02-27 17:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2027417244590817733
+- Metrics (at fetch): bookmark 2, impression 3655, like 32, quote 1, reply 1, retweet 2
+
+> Both protocols used Circom + snarkjs, the most common stack for Groth16 deployments. 
+>
+> The bug? They skipped Phase 2 of the trusted setup: the circuit-specific contribution step.
+>
+> Without it, the verification key's γ and δ parameters are both set to the same value: the G2 gens
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-02-27 16:15 UTC (2026-02-27 17:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2027417252891345323
+- Metrics (at fetch): bookmark 5, impression 2108, like 19, quote 1, reply 1, retweet 2
+
+> The scary part: this wasn't a deep cryptographic flaw or a subtle circuit bug. It was a deployment mistake: missing one CLI command. And it sat in production with real funds at risk.
+
+
+### Thread part 4 — @zksecurityXYZ — 2026-02-27 16:15 UTC (2026-02-27 17:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2027417255127003400
+- Metrics (at fetch): bookmark 2, impression 2134, like 17, quote 0, reply 1, retweet 1
+
+> takeaways:
+> - Always review deployment scripts, not just circuit code
+> - Check your verification keys: if vk_gamma_2 == vk_delta_2, your proofs are forgeable
+> - We worked with @DedaubSecurity to scan EVM chains for other affected contracts, no high-value ones found, but some exist
+
+
+### Thread part 5 — @zksecurityXYZ — 2026-02-27 16:15 UTC (2026-02-27 17:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2027417256762687769
+- Metrics (at fetch): bookmark 9, impression 2016, like 30, quote 0, reply 0, retweet 1
+
+> We've also added detection for this class of vulnerability to zkao, our AI-powered continuous security scanner for ZK circuits. A missing Phase 2 contribution is exactly the kind of deployment-level issue that benefits from automated checks.
+>
+> full post: https://blog.zksecurity.xyz/posts/groth16-setup-exploit/
+
+**Links in post:** https://blog.zksecurity.xyz/posts/groth16-setup-exploit/
+
+
+---
+
+## 2026-02-25 · Post · New version of https://zkao.io/ for early-access users! Improvements across the board, most importan
+
+
+Tags (automatic): ZK, AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2026-02-25 15:34 UTC (2026-02-25 16:34 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2026682176926855214
+- Metrics (at fetch): bookmark 0, impression 1626, like 11, quote 1, reply 0, retweet 0
+
+> New version of https://zkao.io/ for early-access users! Improvements across the board, most importantly for users we now have improved triaging for circom and gnark codebases. We fixed a number of bugs and flows and our agents are now even more efficient at finding bugs! [pic.x.com/DWrRAznAU4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HCA4X8uWMAARkKc.png — no alt text provided by author
+
+**Links in post:** https://zkao.io/
+
+
+---
+
+## 2026-02-16 · Post · New version of zkao 0.2.0 and we're beta testing gnark! Thanks for all the early-access users and al
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-02-16 03:12 UTC (2026-02-16 04:12 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2023233985875476960
+- Metrics (at fetch): bookmark 7, impression 1199, like 22, quote 0, reply 1, retweet 4
+
+> New version of zkao 0.2.0 and we're beta testing gnark! Thanks for all the early-access users and all the good feedback! Let us know if you want to be part of early access or if you want us to support your zk framework. [pic.x.com/fwoZ6XrRhY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBP4cfNXsAAoDWW.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-15 · Post · We're at the frontier of ZK and formal verification, let us know if you have any formal verification
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-02-15 22:14 UTC (2026-02-15 23:14 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2023158973835493382
+- Metrics (at fetch): bookmark 8, impression 1826, like 32, quote 0, reply 0, retweet 1
+
+> We're at the frontier of ZK and formal verification, let us know if you have any formal verification needs :) https://twitter.com/zksecurityXYZ/status/2015821818913763375
+
+**Links in post:** https://twitter.com/zksecurityXYZ/status/2015821818913763375
+
+**Quoted post** 2015821818913763375: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-02-10 · Post · Google recently released a report on using Gemini in academic research. Turns out one of the case st
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2026-02-10 18:29 UTC (2026-02-10 19:29 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2021290478524641525
+- Metrics (at fetch): bookmark 19, impression 6823, like 40, quote 1, reply 3, retweet 9
+
+> Google recently released a report on using Gemini in academic research. Turns out one of the case studies concerns a recent SNARG paper! It found a bug that humans had missed so far!
+>
+> 👇🏼is our summary of what happened and a reflection on using LLMs in paper reviews and audits
+
+
+---
+
+## 2026-02-06 · Thread · AI vulnerability research is non-deterministic.
+
+
+Tags (automatic): ZK, Memory corruption / native, AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2026-02-06 15:48 UTC (2026-02-06 16:48 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2019800264425848842
+- Metrics (at fetch): bookmark 24, impression 6724, like 55, quote 3, reply 3, retweet 14
+
+> AI vulnerability research is non-deterministic.
+>
+> The same model looking at the same code won't take the same reasoning path every time. Some paths find nothing. Some paths find the bug.
+>
+> A single scan is a coin flip. But what if you keep flipping?
+>
+> Introducing zkao. [pic.x.com/9KwUw3gpIn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAfFDhdXMAA3NPQ.jpg — no alt text provided by author
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-02-06 15:48 UTC (2026-02-06 16:48 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2019800266548060204
+- Metrics (at fetch): bookmark 1, impression 565, like 4, quote 0, reply 1, retweet 0
+
+> @seanhn showed this clearly: using o3 on Linux kernel SMB code, the model found the vulnerability in 8 out of 100 runs. In many runs it concluded there was no bug.
+>
+> The punchline: if you keep running it, you stop needing luck.
+>
+> https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
+
+**Links in post:** https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-02-06 15:48 UTC (2026-02-06 16:48 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2019800268313862592
+- Metrics (at fetch): bookmark 0, impression 459, like 3, quote 0, reply 1, retweet 0
+
+> zkao makes AI security research work the way fuzzing works: not as a one-shot event, but as something you run continuously until coverage compounds.
+>
+> We're starting with Circom, where we have deep expertise from 100+ ZK system audits.
+
+
+### Thread part 4 — @zksecurityXYZ — 2026-02-06 15:48 UTC (2026-02-06 16:48 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2019800271233089795
+- Metrics (at fetch): bookmark 0, impression 274, like 2, quote 0, reply 1, retweet 0
+
+> Your coverage improves along three axes:
+>
+> 1. models get better
+> 2. our patterns get richer (learned from real Circom audits)
+> 3. probability compounds with repeated runs
+>
+> Even if your code doesn't change, your security coverage does.
+
+
+### Thread part 5 — @zksecurityXYZ — 2026-02-06 15:48 UTC (2026-02-06 16:48 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2019800274190180540
+- Metrics (at fetch): bookmark 0, impression 449, like 2, quote 0, reply 1, retweet 0
+
+> zkao is now in early access.
+>
+> If you have Circom circuits and want security research that keeps getting smarter over time:
+>
+> https://zkao.io
+>
+> Want early access? Reach out: https://zksecurity.xyz/contact
+>
+> Security shouldn't be a one-time event. It should compound. [pic.x.com/3oJtbwOZjz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAfFn4ZXMAA5F33.jpg — no alt text provided by author
+
+**Links in post:** https://zkao.io, https://zksecurity.xyz/contact
+
+
+---
+
+## 2026-02-03 · Post · Optimistic One-vote-round Finality in BFT Consensus, read more about how people are revisiting much 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zksecurityXYZ — 2026-02-03 01:44 UTC (2026-02-03 02:44 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2018500685935919353
+- Metrics (at fetch): bookmark 2, impression 2293, like 26, quote 1, reply 3, retweet 4
+
+> Optimistic One-vote-round Finality in BFT Consensus, read more about how people are revisiting much simpler consensus schemes, at the cost of... [pic.x.com/dk4rxgtSYe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HAMnkqdX0AAWubK.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-26 · Thread · Trivia: this started out of curiosity in response to Math, Inc's announcement of their FRI proof, fo
+
+
+Tags (automatic): ZK, AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2026-01-26 16:19 UTC (2026-01-26 17:19 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2015821823619772888
+- Metrics (at fetch): bookmark 2, impression 1146, like 10, quote 0, reply 1, retweet 0
+
+> Trivia: this started out of curiosity in response to Math, Inc's announcement of their FRI proof, formalizing Succinct Proofs and Linear Algebra: https://x.com/mathematics_inc/status/1996851238961664060
+>
+> ...which is nice, but quite far from the actual bounds on FRI security we would expect!
+
+**Links in post:** https://x.com/mathematics_inc/status/1996851238961664060
+
+**Quoted post** 1996851238961664060: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @zksecurityXYZ — 2026-01-26 16:19 UTC (2026-01-26 17:19 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2015821825993851160
+- Metrics (at fetch): bookmark 2, impression 568, like 7, quote 0, reply 1, retweet 0
+
+> @nico_mnbl suggested his simplified FRI analysis as an alternative formalization target.
+>
+> Which he described in a blog post here: https://blog.zksecurity.xyz/posts/fri-security/
+
+**Links in post:** https://blog.zksecurity.xyz/posts/fri-security/
+
+
+### Thread part 3 — @zksecurityXYZ — 2026-01-26 16:19 UTC (2026-01-26 17:19 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2015821828107678194
+- Metrics (at fetch): bookmark 1, impression 457, like 10, quote 0, reply 0, retweet 0
+
+> And @pirapira, after some back and forth with his AI agents, managed to produce a working Lean proof!
+>
+> Which means we can now enjoy the formalization of a much tighter FRI security result 🤓
+>
+> Github: https://github.com/zksecurity/simple-rbr-fri
+
+**Links in post:** https://github.com/zksecurity/simple-rbr-fri

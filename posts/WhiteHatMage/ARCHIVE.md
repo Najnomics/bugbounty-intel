@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 114
-- Conversations/threads: 108
-- Oldest post captured: 2026-01-14
+- Posts in this file: 118
+- Conversations/threads: 112
+- Oldest post captured: 2025-12-26
 - Newest post captured: 2026-11-10
 
 
@@ -2125,3 +2125,91 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 34, like 2, quote 0, reply 0, retweet 0
 
 > @TheWavexyz So audit firms that want great auditors should still hire jr/mid, and the ones competing will face the same issues they already have.
+
+
+---
+
+## 2026-01-06 · Post · &gt; Guarantees going forward
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @WhiteHatMage — 2026-01-06 20:53 UTC (2026-01-06 21:53 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2008643187829854394
+- Metrics (at fetch): bookmark 6, impression 2923, like 41, quote 0, reply 2, retweet 0
+
+> &gt; Guarantees going forward
+> &gt; Review the bug-bounty program and increase rewards to align closely with the increased TVL.
+>
+> 👏👏👏
+>
+> Blackhats don't look at bounty rewards, they look at TVL.
+>
+> It will become evident that if you have a complex project, you must incentivize whitehats. https://twitter.com/flow_blockchain/status/2008612691104170327
+
+**Links in post:** https://twitter.com/flow_blockchain/status/2008612691104170327
+
+**Quoted post** 2008612691104170327: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-05 · Post · The actual tool that the world needs: Defensive AI.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @WhiteHatMage — 2026-01-05 14:20 UTC (2026-01-05 15:20 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2008181823382442480
+- Metrics (at fetch): bookmark 5, impression 2167, like 40, quote 0, reply 3, retweet 0
+
+> The actual tool that the world needs: Defensive AI.
+>
+> Everyone is focused on detecting exploits, not on preventing them. We built and industry that charges large amounts for audits and bounties.
+>
+> If you prevent bugs you don't need to solve the more complex problem of finding them.
+
+
+---
+
+## 2025-12-29 · Post · 1 on Immunefi 2026
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @WhiteHatMage — 2025-12-29 14:43 UTC (2025-12-29 15:43 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2005650805324734676
+- Metrics (at fetch): bookmark 2, impression 2844, like 30, quote 0, reply 7, retweet 0
+
+> #1 on Immunefi 2026
+
+
+---
+
+## 2025-12-26 · Post · Officially at the top of @immunefi 2025 Leaderboard 🧙‍♂️
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @WhiteHatMage — 2025-12-26 17:19 UTC (2025-12-26 18:19 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2004602904221811084
+- Metrics (at fetch): bookmark 24, impression 35740, like 408, quote 6, reply 63, retweet 13
+
+> Officially at the top of @immunefi 2025 Leaderboard 🧙‍♂️
+>
+> The biggest web3 bug bounty platform in the world.
+>
+> This will be a very special year for me. Thanks to everyone that followed along this story.
+>
+> It's now the time for a new whitehat to shine. Wish you good luck, hunter. [pic.x.com/SGCys85QZz]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2004600203597262848/img/VUsKf_-YzK4aNQDr.jpg — no alt text provided by author

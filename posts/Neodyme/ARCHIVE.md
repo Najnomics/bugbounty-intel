@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 13
-- Conversations/threads: 13
-- Oldest post captured: 2025-05-02
+- Posts in this file: 16
+- Conversations/threads: 16
+- Oldest post captured: 2025-01-15
 - Newest post captured: 2026-04-17
 
 
@@ -253,3 +253,50 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 > We found an HTML-to-PDF API allowing file reads and SSRF - then chained it into remote code execution via a Chromium 62 WebView exploit.
 >
 > 👉 Read the full write-up here: https://t.co/Qa5Beuuncr
+
+
+---
+
+## 2025-02-12 · Post · 🔎Digging deeper into COM hijacking!
+
+
+### Post — @Neodyme — 2025-02-12 15:08 UTC (2025-02-12 16:08 WAT)
+
+- URL: https://x.com/Neodyme/status/1889693177415684356
+- Metrics (at fetch): bookmark 24, impression 3791, like 59, quote 0, reply 0, retweet 16
+
+> 🔎Digging deeper into COM hijacking!
+> In Part 3, we explore two new vulnerabilities: 
+> 🗑️ Webroot Endpoint Protect (CVE-2023-7241) – SYSTEM via arbitrary file deletion
+> 📥 Checkpoint Harmony (CVE-2024-24912) – SYSTEM via a file download primitive
+>
+> Read more: https://t.co/rDNGUg89Lc
+
+
+---
+
+## 2025-01-29 · Post · 🔎Part 2 of our COM hijacking series is live!
+
+
+### Post — @Neodyme — 2025-01-29 15:16 UTC (2025-01-29 16:16 WAT)
+
+- URL: https://x.com/Neodyme/status/1884621551028318332
+- Metrics (at fetch): bookmark 12, impression 2354, like 44, quote 0, reply 1, retweet 14
+
+> 🔎Part 2 of our COM hijacking series is live!
+> This time, we discuss a vulnerability in AVG Internet Security, where we bypass an allow-list, disable self-protection, and exploit an update mechanism to escalate privileges to SYSTEM 🚀💻
+> https://t.co/rnyx9gLhAb
+
+
+---
+
+## 2025-01-15 · Post · Following our 38c3 talk about exploiting security software for privilege escalation, we're excited 
+
+
+### Post — @Neodyme — 2025-01-15 15:10 UTC (2025-01-15 16:10 WAT)
+
+- URL: https://x.com/Neodyme/status/1879546640983310647
+- Metrics (at fetch): bookmark 28, impression 15712, like 71, quote 3, reply 1, retweet 22
+
+> Following our #38c3 talk about exploiting security software for privilege escalation, we're excited to kick off a new blog series! 🎊 
+> Check out our first blog post on our journey to 💥 exploit five reputable security products to gain privileges via COM hijacking:

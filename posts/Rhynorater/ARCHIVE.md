@@ -166,7 +166,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 #### Parent post — @galnagli — 2026-10-24 13:41 UTC (2026-10-24 14:41 WAT)
 
 - URL: https://x.com/galnagli/status/2113989312337621443
-- Metrics (at fetch): bookmark 39, impression 30540, like 153, quote 1, reply 11, retweet 3
+- Metrics (at fetch): bookmark 39, impression 30541, like 153, quote 1, reply 11, retweet 3
 
 > 792d28e89f6e267b730d6e1632452f6702478f8cfd968e55cd6be9d8882e1d34 https://twitter.com/galnagli/status/2110043918196949309
 
@@ -177,7 +177,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
     #### Quoted post — @galnagli — 2026-10-13 16:24 UTC (2026-10-13 17:24 WAT)
     
     - URL: https://x.com/galnagli/status/2110043918196949309
-    - Metrics (at fetch): bookmark 96, impression 67954, like 215, quote 1, reply 17, retweet 18
+    - Metrics (at fetch): bookmark 96, impression 67957, like 215, quote 1, reply 17, retweet 18
     
     > Gemini 4 Argon has arrived! The era of super intelligence in cyber security has begun, excited to share more on how we use it to secure the world - and we are just getting started 🌎
     >
@@ -281,7 +281,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
     #### Quoted post — @samwcyo — 2026-10-18 13:05 UTC (2026-10-18 14:05 WAT)
     
     - URL: https://x.com/samwcyo/status/2111805910448529757
-    - Metrics (at fetch): bookmark 36, impression 28619, like 181, quote 5, reply 21, repost 6
+    - Metrics (at fetch): bookmark 36, impression 28622, like 181, quote 5, reply 21, retweet 6
     
     > I’d be willing to pay $100 per report for priority triage with automated dupe checking and faster payouts (&lt;48 hours). My experience with this on Immunefi was great, and it’s not a bad way to incentivize researchers to stop abusing teams as the initial assessors of AI reports.
     

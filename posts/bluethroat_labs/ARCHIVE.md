@@ -119,7 +119,29 @@ Tags (automatic): Platform: Immunefi
     
     **Links in post:** https://twitter.com/thedaofund/status/2117319992652001664
     
-    **Quoted post** 2117319992652001664: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1988994064914739210 — 2026-11-02 18:16 UTC (2026-11-02 19:16 WAT)
+        
+        - URL: https://x.com/1988994064914739210/status/2117319992652001664
+        - Metrics (at fetch): bookmark 4, impression 2076, like 26, quote 4, reply 3, retweet 3
+        
+        > Thursday, November 5
+        >
+        > 09:00–10:00 | Networking
+        >
+        > 10:00–10:20 | ART-ECDSA: Threshold Signing Light Enough for a Hardware Wallet
+        > Sung-Hyun Jo, @crossbar_inc 
+        >
+        > 10:30–11:10 | LeakDetectAI
+        > Manu Gupta, @libp2p 
+        >
+        > 11:20–12:00 | How to Defend Your Protocol in the AI Era
+        > @saxenism, https://t.co/YL7KVf6oJ2
+        
+        **Media:**
+        - media `3_2117318286987939840` (details not returned by the API)
+        
     
 
 
@@ -1348,7 +1370,22 @@ Tags (automatic): TEE / enclave
 >
 > Hit us up if you want to contribute to TEE security in web3 :) https://t.co/u7wULv55Eb
 
-**Quoted post** 2090092304103100845: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1738660073910509568 — 2026-08-19 15:03 UTC (2026-08-19 16:03 WAT)
+    
+    - URL: https://x.com/1738660073910509568/status/2090092304103100845
+    - Metrics (at fetch): bookmark 8, impression 2758, like 19, quote 3, reply 4, retweet 0
+    
+    > just built rootward; the first static auditor for web3 TEE protocols thanks to @saxenism for the @bluethroat_labs community.
+    >
+    > fun fact: supports @eigencloud out the box so you can audit your deployments before final release. 
+    >
+    > we ran our first public test on dstack and it was https://t.co/AlRYRCiJE5
+    
+    **Media:**
+    - media `3_2090092295978684416` (details not returned by the API)
+    
 
 
 ---
@@ -1863,7 +1900,41 @@ Tags (automatic): TEE / enclave
     >
     > Glad to play a small part in actually making Ethereum safer. https://t.co/qaZbcel5me
     
-    **Quoted post** 2046971025443713460: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1988994064914739210 — 2026-04-22 15:14 UTC (2026-04-22 16:14 WAT)
+        
+        - URL: https://x.com/1988994064914739210/status/2046971025443713460
+        - Metrics (at fetch): bookmark 3, impression 9230, like 68, quote 6, reply 2, retweet 3
+        
+        > With no further ado, meet the final 100 ETHSecurity Badge holders:
+        >
+        > @404ouch
+        > @mzargham
+        > @neburo
+        > @arik_g
+        > @ret2jazzy
+        > @0xQuit
+        > @simon_jentzsch
+        > @zigtur
+        > @Hudsonjameson
+        > @pashov
+        > @PabloSabbatella
+        > @GalloDaSballo
+        > @tanuki42_
+        > @aviggiano
+        > @claudijd
+        > @parithosh_j
+        > @saxenism
+        > @RMacwha
+        > @socrates1024
+        > @TrustSecAudits
+        > @bbarwik
+        > @schaliasosvons
+        > @lethalspoons
+        > @eladernst
+        > @HalbornSteve
+        
     
 
 
@@ -1920,7 +1991,24 @@ Tags (automatic): TEE / enclave
     >
     > Join me as we have a short discussion around it and the potential solutions. https://t.co/GT842q9Q22
     
-    **Quoted post** 2045059795942826394: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1091285940939571200 — 2026-04-17 08:40 UTC (2026-04-17 09:40 WAT)
+        
+        - URL: https://x.com/1091285940939571200/status/2045059795942826394
+        - Metrics (at fetch): bookmark 2, impression 1445, like 15, quote 1, reply 2, retweet 5
+        
+        > We’re hosting a Space on the Drift hack today.
+        >
+        > $285M lost and honestly… it wasn’t even about the code.
+        >
+        > Going to break down what actually happened and what people are still missing.
+        >
+        > 🗓️ 17th April, 3:30 PM UTC with @saxenism and @Schnilch
+        
+        **Media:**
+        - media `3_2045059626698518528` (details not returned by the API)
+        
     
 
 

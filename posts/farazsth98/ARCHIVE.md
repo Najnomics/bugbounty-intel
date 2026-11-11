@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 35
-- Conversations/threads: 27
+- Posts in this file: 49
+- Conversations/threads: 34
 - Oldest post captured: 2020-11-22
 - Newest post captured: 2026-11-03
 
@@ -84,6 +84,23 @@ Tags (automatic): Memory corruption / native
 
 
 Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @S1r1u5_ — 2026-10-26 17:41 UTC (2026-10-26 18:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2114774529814007865
+- Metrics (at fetch): bookmark 272, impression 57185, like 641, quote 13, reply 43, retweet 65
+
+> php2shell is one of the most impactful bugs in recent times, yet threat actors aren’t mass exploiting it
+>
+> the bug is so complex that even porting the exploit between targets takes serious skill, human or ai
+>
+> so i benchmarked how well open and frontier models can do it. 🧵 https://t.co/MNkIzF8CMe
+
+**Media:**
+- media `3_2114770913791221760` (details not returned by the API)
 
 
 ### Post — @farazsth98 — 2026-10-26 18:25 UTC (2026-10-26 19:25 WAT)
@@ -457,7 +474,7 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 ### Post — @farazsth98 — 2026-01-10 10:18 UTC (2026-01-10 11:18 WAT)
 
 - URL: https://x.com/farazsth98/status/2009932971692962216
-- Metrics (at fetch): bookmark 23, impression 7775, like 59, quote 0, reply 1, repost 8
+- Metrics (at fetch): bookmark 23, impression 7775, like 59, quote 0, reply 1, retweet 8
 
 > Just wanted to share a few things I learned that prevents this exploit from working out-of-the-box on Android:
 >
@@ -472,7 +489,7 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
     #### Quoted post — @farazsth98 — 2026-01-03 17:36 UTC (2026-01-03 18:36 WAT)
     
     - URL: https://x.com/farazsth98/status/2007506291829383514
-    - Metrics (at fetch): bookmark 279, impression 42705, like 437, quote 3, reply 13, repost 97
+    - Metrics (at fetch): bookmark 279, impression 42705, like 437, quote 3, reply 13, retweet 97
     
     > I'm excited to finally share Chronomaly, a kernel exploit for Android and Linux kernels 5.10.x using CVE-2025-38352.
     >
@@ -487,7 +504,19 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
     
 
 
-### Thread part 2 — @farazsth98 — 2026-01-10 10:24 UTC (2026-01-10 11:24 WAT)
+### Thread part 2 — @farazsth98 — 2026-01-10 10:21 UTC (2026-01-10 11:21 WAT)
+
+- URL: https://x.com/farazsth98/status/2009933626331562449
+- Metrics (at fetch): bookmark 0, impression 1120, like 4, quote 0, reply 1, retweet 0
+
+> The first two are easy to fix, but the last one...
+>
+> When I ran into these sync bugs while writing the exploit, it was a real pain to debug and fix them. My `// sync` and `// barrier` comments are there for this exact reason 💀
+>
+> If you run into them, good luck XD
+
+
+### Thread part 3 — @farazsth98 — 2026-01-10 10:24 UTC (2026-01-10 11:24 WAT)
 
 - URL: https://x.com/farazsth98/status/2009934270354338031
 - Metrics (at fetch): bookmark 0, impression 1029, like 3, quote 0, reply 1, retweet 0
@@ -497,28 +526,28 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 > Unfortunately, I don't have a real device nor the time to help with fixing these bugs. However...
 
 
-### Thread part 3 — @farazsth98 — 2026-01-10 10:27 UTC (2026-01-10 11:27 WAT)
+### Thread part 4 — @farazsth98 — 2026-01-10 10:27 UTC (2026-01-10 11:27 WAT)
 
 - URL: https://x.com/farazsth98/status/2009935236101214701
-- Metrics (at fetch): bookmark 0, impression 479, like 1, quote 0, reply 1, repost 0
+- Metrics (at fetch): bookmark 0, impression 479, like 1, quote 0, reply 1, retweet 0
 
 > Since the exploit already works for kernel v5.10.157 on x86_64, I'd compile that kernel into ARM64, run it via QEMU, and port the exploit there first. Once you have that working, it'll be easier to debug any issues.
 >
 > I can't really help more than that, sorry!
 
 
-### Thread part 4 — @farazsth98 — 2026-01-10 10:30 UTC (2026-01-10 11:30 WAT)
+### Thread part 5 — @farazsth98 — 2026-01-10 10:30 UTC (2026-01-10 11:30 WAT)
 
 - URL: https://x.com/farazsth98/status/2009935816039305547
-- Metrics (at fetch): bookmark 0, impression 1133, like 3, quote 0, reply 1, repost 0
+- Metrics (at fetch): bookmark 0, impression 1133, like 3, quote 0, reply 1, retweet 0
 
 > In case you missed it, I did add a section to the README that explains how to set two of the parameters that is specific to the device the exploit runs in. I'd suggest giving that a read, as well as my blog posts. You can also un-comment the printf() on line 1204 for debugging.
 
 
-### Thread part 5 — @farazsth98 — 2026-01-10 10:31 UTC (2026-01-10 11:31 WAT)
+### Thread part 6 — @farazsth98 — 2026-01-10 10:31 UTC (2026-01-10 11:31 WAT)
 
 - URL: https://x.com/farazsth98/status/2009936099679047882
-- Metrics (at fetch): bookmark 5, impression 3327, like 24, quote 0, reply 2, repost 1
+- Metrics (at fetch): bookmark 5, impression 3327, like 24, quote 0, reply 2, retweet 1
 
 > Ultimately, this exploit is just extremely complicated. It's difficult to read through due to the multi-process + multi-threaded nature of it, so it will take a while to debug any of these issues.
 >
@@ -527,7 +556,7 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 
 ---
 
-## 2026-01-03 · Post · I'm excited to finally share Chronomaly, a kernel exploit for Android and Linux kernels 5.10.x using
+## 2026-01-03 · Thread · I'm excited to finally share Chronomaly, a kernel exploit for Android and Linux kernels 5.10.x using
 
 
 Tags (automatic): Mobile / Android / iOS, Memory corruption / native
@@ -536,7 +565,7 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 ### Post — @farazsth98 — 2026-01-03 17:36 UTC (2026-01-03 18:36 WAT)
 
 - URL: https://x.com/farazsth98/status/2007506291829383514
-- Metrics (at fetch): bookmark 279, impression 42705, like 437, quote 3, reply 13, repost 97
+- Metrics (at fetch): bookmark 279, impression 42705, like 437, quote 3, reply 13, retweet 97
 
 > I'm excited to finally share Chronomaly, a kernel exploit for Android and Linux kernels 5.10.x using CVE-2025-38352.
 >
@@ -548,6 +577,237 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G9wWMLIbIAA89uD.png — no alt text provided by author
+
+
+### Thread part 2 — @farazsth98 — 2026-01-03 17:36 UTC (2026-01-03 18:36 WAT)
+
+- URL: https://x.com/farazsth98/status/2007506294463443104
+- Metrics (at fetch): bookmark 21, impression 5594, like 53, quote 0, reply 1, retweet 12
+
+> First, the Github repository containing the exploit code and setup instructions.
+>
+> https://github.com/farazsth98/chronomaly
+
+**Links in post:** https://github.com/farazsth98/chronomaly
+
+
+### Thread part 3 — @farazsth98 — 2026-01-03 17:36 UTC (2026-01-03 18:36 WAT)
+
+- URL: https://x.com/farazsth98/status/2007506297894338770
+- Metrics (at fetch): bookmark 34, impression 7801, like 99, quote 0, reply 3, retweet 19
+
+> And finally, part 3 of my blog post series on CVE-2025-38352 – Uncovering Chronomaly
+>
+> https://faith2dxy.xyz/2026-01-03/cve_2025_38352_analysis_part_3/ [pic.x.com/jS6oVqGnH1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9wYRr8asAI9mOL.jpg — no alt text provided by author
+
+**Links in post:** https://faith2dxy.xyz/2026-01-03/cve_2025_38352_analysis_part_3/
+
+
+---
+
+## 2026-01-02 · Post · CVE-2025-38352 exploit is finished!🎉 Definitely my most complex exploit to date! 😩
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2026-01-02 21:04 UTC (2026-01-02 22:04 WAT)
+
+- URL: https://x.com/farazsth98/status/2007196281274544326
+- Metrics (at fetch): bookmark 126, impression 35143, like 378, quote 2, reply 10, retweet 39
+
+> CVE-2025-38352 exploit is finished!🎉 Definitely my most complex exploit to date! 😩
+>
+> I'll release the exploit with part 3 of the blog post very soon! It targets vulnerable kernels 5.10.xx, no specific devices.
+>
+> Finally, demo time! Don't fall asleep while watching it! 🤣 [pic.x.com/pac04qG6Za]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/G9r9UEObMAAjlxx.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-01 · Post · CVE-2025-38352 - Cross-cache has been achieved!🎉
+
+
+Tags (automatic): Race condition
+
+
+### Post — @farazsth98 — 2026-01-01 18:50 UTC (2026-01-01 19:50 WAT)
+
+- URL: https://x.com/farazsth98/status/2006800226183688617
+- Metrics (at fetch): bookmark 51, impression 20631, like 205, quote 0, reply 4, retweet 12
+
+> CVE-2025-38352 - Cross-cache has been achieved!🎉
+>
+> Figured out a way to never hit the BUG_ON() in send_sigqueue(). Just takes some time to hit the race window😩
+>
+> The bug basically provides an arbitrary free primitive, so it's pretty good 😄
+>
+> Exploit soon ™️ [pic.x.com/v0ZFd3AAMd] https://twitter.com/farazsth98/status/2005722530318017029
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9mWGteaMAAn8O8.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/farazsth98/status/2005722530318017029
+
+**Quoted post** 2005722530318017029: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-31 · Thread · I've only ever dreamed of finding a bug like this... https://twitter.com/BugsAggregator/status/20064
+
+
+Tags (automatic): RCE
+
+
+### Post — @farazsth98 — 2025-12-31 21:01 UTC (2025-12-31 22:01 WAT)
+
+- URL: https://x.com/farazsth98/status/2006470799084105811
+- Metrics (at fetch): bookmark 28, impression 10403, like 75, quote 0, reply 4, retweet 1
+
+> I've only ever dreamed of finding a bug like this... https://twitter.com/BugsAggregator/status/2006402364417376482
+
+**Links in post:** https://twitter.com/BugsAggregator/status/2006402364417376482
+
+**Quoted post** 2006402364417376482: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @farazsth98 — 2025-12-31 22:04 UTC (2025-12-31 23:04 WAT)
+
+- URL: https://x.com/farazsth98/status/2006486537752703484
+- Metrics (at fetch): bookmark 12, impression 2857, like 37, quote 0, reply 2, retweet 0
+
+> Wait, it wasn't even one bug wtf? He submitted 5 RCE exploits for 5 separate WASM spec issues that leads to type confusion and got $55k for each?
+>
+> Is he just the GOAT? 💀
+
+
+---
+
+## 2025-12-29 · Post · Related - I switched to v5.10.157 for all testing so it replicates the actual in-the-wild exploit.
+
+
+### Post — @farazsth98 — 2025-12-29 23:17 UTC (2025-12-30 00:17 WAT)
+
+- URL: https://x.com/farazsth98/status/2005780126735474856
+- Metrics (at fetch): bookmark 0, impression 1296, like 10, quote 0, reply 0, retweet 0
+
+> Related - I switched to v5.10.157 for all testing so it replicates the actual in-the-wild exploit.
+>
+> Funnily enough, that's a big issue, because the WARNs in 6.12 became BUGs in 5.10. With WARNs, I could make the UAF insert very reliable, but with the BUG_ON, it's another story 🥲
+
+
+---
+
+## 2025-12-26 · Post · This talk is going to be very interesting, and not even because it makes scaling fuzzers easier. 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-12-26 17:08 UTC (2025-12-26 18:08 WAT)
+
+- URL: https://x.com/farazsth98/status/2004600210216157344
+- Metrics (at fetch): bookmark 109, impression 9195, like 161, quote 0, reply 3, retweet 19
+
+> This talk is going to be very interesting, and not even because it makes scaling fuzzers easier. 
+>
+> I'm more interested to see how hard it is to emulate device specific kernel drivers in general in QEMU, as it prevents needing a real device for testing 👀
+>
+> https://events.ccc.de/congress/2025/hub/en/event/detail/build-a-fake-phone-find-real-bugs-qualcomm-gpu-emulation-and-fuzzing-with-libafl-qemu
+
+**Links in post:** https://events.ccc.de/congress/2025/hub/en/event/detail/build-a-fake-phone-find-real-bugs-qualcomm-gpu-emulation-and-fuzzing-with-libafl-qemu
+
+
+---
+
+## 2025-12-24 · Thread · In my previous post about CVE-2025-38352, I used a kernel patch to extend the race window to help tr
+
+
+Tags (automatic): Race condition, Memory corruption / native
+
+
+### Post — @farazsth98 — 2025-12-24 17:35 UTC (2025-12-24 18:35 WAT)
+
+- URL: https://x.com/farazsth98/status/2003882193803006262
+- Metrics (at fetch): bookmark 47, impression 15222, like 91, quote 1, reply 3, retweet 23
+
+> In my previous post about CVE-2025-38352, I used a kernel patch to extend the race window to help trigger the vulnerability.
+>
+> I've since improved it to work without the kernel patch. @hackyzh 👀
+>
+> I also wrote a "Part 2" of the blog post. It's linked at the end of this thread! [pic.x.com/PDd8X2GZCs] https://twitter.com/farazsth98/status/2002901583961731219
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G881oWSb0AA2lF5.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/farazsth98/status/2002901583961731219
+
+**Quoted post** 2002901583961731219: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @farazsth98 — 2025-12-24 17:35 UTC (2025-12-24 18:35 WAT)
+
+- URL: https://x.com/farazsth98/status/2003882198144110688
+- Metrics (at fetch): bookmark 0, impression 377, like 2, quote 0, reply 1, retweet 0
+
+> I extended the race window using two primitives:
+>
+> 1. Use more timers.
+> 2. Create 10000 threads that all ignore the signals fired by the timers.
+>
+> My PoC is still not "perfect" (the race window can be extended even more!), but the race window now stands between ~4-5 milliseconds! [pic.x.com/u9QQWU0EkO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G882X9HaAAANOyq.jpg — no alt text provided by author
+
+
+### Thread part 3 — @farazsth98 — 2025-12-24 17:35 UTC (2025-12-24 18:35 WAT)
+
+- URL: https://x.com/farazsth98/status/2003882200807494053
+- Metrics (at fetch): bookmark 2, impression 1351, like 15, quote 0, reply 1, retweet 0
+
+> I updated the Github repo with this PoC, as well as a kernel profiling patch I used to test and figure out how different iterations of my PoC affected the race window. 
+>
+> Note - my PoC triggers the vulnerability just fine without any patches!
+>
+> https://github.com/farazsth98/poc-CVE-2025-38352
+
+**Links in post:** https://github.com/farazsth98/poc-CVE-2025-38352
+
+
+### Thread part 4 — @farazsth98 — 2025-12-24 17:35 UTC (2025-12-24 18:35 WAT)
+
+- URL: https://x.com/farazsth98/status/2003882203168887152
+- Metrics (at fetch): bookmark 13, impression 1568, like 32, quote 0, reply 1, retweet 6
+
+> Finally, here is the blog post containing all the details about how I wrote this PoC: https://faith2dxy.xyz/2025-12-24/cve_2025_38352_analysis_part_2/
+>
+> The ~4-5 millisecond race window was more than enough to trigger the vulnerability, but is it enough for a full exploit? Or do I need to extend it? We'll see 😉
+
+**Links in post:** https://faith2dxy.xyz/2025-12-24/cve_2025_38352_analysis_part_2/
+
+
+---
+
+## 2025-12-22 · Post · @streypaws PoC on Github:
+
+
+### Post — @farazsth98 — 2025-12-22 00:42 UTC (2025-12-22 01:42 WAT)
+
+- URL: https://x.com/farazsth98/status/2002902538509787175
+- Metrics (at fetch): bookmark 14, impression 4324, like 29, quote 0, reply 0, retweet 7
+
+> @streypaws PoC on Github:
+> https://github.com/farazsth98/poc-CVE-2025-38352
+
+**Links in post:** https://github.com/farazsth98/poc-CVE-2025-38352
 
 
 ---

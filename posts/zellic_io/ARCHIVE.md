@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 22
-- Conversations/threads: 22
+- Posts in this file: 24
+- Conversations/threads: 24
 - Oldest post captured: 2023-12-05
 - Newest post captured: 2026-10-20
 
@@ -511,6 +511,48 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Head to https://t.co/u0IgCttwSj and use code zellicio to stake with our validator. https://t.co/35r73Zm5jM
 
 **Quoted post** 1917589409706434678: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-12 · Post · We're proud to share that Zellic Security Researcher @fcremo helped discover an issue in the Cairo V
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2025-02-12 17:24 UTC (2025-02-12 18:24 WAT)
+
+- URL: https://x.com/zellic_io/status/1889727211940258233
+- Metrics (at fetch): bookmark 12, impression 5466, like 93, quote 1, reply 5, retweet 10
+
+> We're proud to share that Zellic Security Researcher @fcremo helped discover an issue in the Cairo VM during a recent audit of @Starknet OS.
+>
+> This bug has been fixed as an immediate patch to Starknet's current version 0.13.3. https://t.co/mAIC6HAfo5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GjmoxFLXQAAPSIq.png — no alt text provided by author
+
+
+---
+
+## 2025-01-29 · Post · The Zellic cryptography team finished first place in the second and third puzzles in the latest @__z
+
+
+Tags (automatic): ZK
+
+
+### Post — @zellic_io — 2025-01-29 17:54 UTC (2025-01-29 18:54 WAT)
+
+- URL: https://x.com/zellic_io/status/1884661312438837441
+- Metrics (at fetch): bookmark 14, impression 19729, like 55, quote 3, reply 1, retweet 4
+
+> The Zellic cryptography team finished first place in the second and third puzzles in the latest @__zkhack__   competition, ZK Hack V, while just missing a top-three placement on the first puzzle.
+>
+> For a look into the three puzzles and their solutions, check out our blog below. https://t.co/YwdTzzVj1G
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GiepajlWAAAzE6w.jpg — no alt text provided by author
 
 
 ---

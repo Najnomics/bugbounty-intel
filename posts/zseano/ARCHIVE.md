@@ -322,7 +322,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @zseano — 2026-10-28 22:51 UTC (2026-10-28 23:51 WAT)
 
 - URL: https://x.com/zseano/status/2115577340273066390
-- Metrics (at fetch): bookmark 102, impression 11525, like 266, quote 0, reply 9, repost 5
+- Metrics (at fetch): bookmark 102, impression 11526, like 266, quote 0, reply 9, retweet 5
 
 > Expedia Group Program has gone from $21k bounties paid to $250k in just 2 months. Seems people are making good $$$ here: https://hackerone.com/expediagroup_bbp
 >
@@ -450,7 +450,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zseano — 2026-10-14 20:11 UTC (2026-10-14 21:11 WAT)
 
 - URL: https://x.com/zseano/status/2110463536472133976
-- Metrics (at fetch): bookmark 29, impression 13522, like 159, quote 1, reply 11, repost 5
+- Metrics (at fetch): bookmark 29, impression 13522, like 159, quote 1, reply 11, retweet 5
 
 > 1 month to triage which then burns one of your trial reports. imagine you report 3 valid bugs, but no one touches 'em for 1month++. and then you find more bugs.... but you can't submit them. what then?
 >
@@ -486,7 +486,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zseano — 2026-10-08 19:13 UTC (2026-10-08 20:13 WAT)
 
 - URL: https://x.com/zseano/status/2108274552480444661
-- Metrics (at fetch): bookmark 81, impression 16691, like 523, quote 5, reply 20, repost 33
+- Metrics (at fetch): bookmark 81, impression 16691, like 523, quote 5, reply 20, retweet 33
 
 > Did a bit of hacking past few days and I still prefer manual hacking over relying on AI. Even for writing reports. Manual hacking is just so fun (time consuming tho..) and gets my brain working. And when I find a bug I feel like *i* have achieved it. Not AI.. “found a bug!”🙄
 
@@ -494,7 +494,7 @@ Tags (automatic): AI-assisted hunting
 ### Thread part 2 — @zseano — 2026-10-08 19:15 UTC (2026-10-08 20:15 WAT)
 
 - URL: https://x.com/zseano/status/2108274997529821310
-- Metrics (at fetch): bookmark 2, impression 2295, like 48, quote 0, reply 2, repost 0
+- Metrics (at fetch): bookmark 2, impression 2295, like 48, quote 0, reply 2, retweet 0
 
 > Plus when it comes to writing reports I like to do a “mental dump” on what I found, impact, and how to reproduce it yourself. No waffle, no bs.. just straight up facts for the team to read and understand. 
 >
@@ -512,7 +512,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @zseano — 2026-10-04 11:42 UTC (2026-10-04 12:42 WAT)
 
 - URL: https://x.com/zseano/status/2106711601223180342
-- Metrics (at fetch): bookmark 112, impression 28754, like 488, quote 3, reply 16, repost 23
+- Metrics (at fetch): bookmark 112, impression 28754, like 488, quote 3, reply 16, retweet 23
 
 > Damn how does h1 have bugs like this 🫠 
 >
@@ -535,7 +535,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @zseano — 2026-10-01 21:05 UTC (2026-10-01 22:05 WAT)
 
 - URL: https://x.com/zseano/status/2105766060398162315
-- Metrics (at fetch): bookmark 235, impression 16109, like 490, quote 0, reply 12, repost 16
+- Metrics (at fetch): bookmark 235, impression 16109, like 490, quote 0, reply 12, retweet 16
 
 > some data if you're curious on active *PUBLIC* programs on hackerone :) some insight into where people are hunting and making nice $$$
 >
@@ -548,7 +548,7 @@ Tags (automatic): Platform: HackerOne
 ### Thread part 2 — @zseano — 2026-10-01 21:11 UTC (2026-10-01 22:11 WAT)
 
 - URL: https://x.com/zseano/status/2105767500101386743
-- Metrics (at fetch): bookmark 7, impression 2405, like 34, quote 0, reply 1, repost 0
+- Metrics (at fetch): bookmark 7, impression 2405, like 34, quote 0, reply 1, retweet 0
 
 > What's interesting is you can find who's paying frequently too :D [pic.x.com/Mmfv2ORggq]
 

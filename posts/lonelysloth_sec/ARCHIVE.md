@@ -2,10 +2,27 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 11
-- Conversations/threads: 11
+- Posts in this file: 37
+- Conversations/threads: 37
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
+
+
+---
+
+## 2026-11-10 · Post · Bill Gates is a genius and can us what  the future will be with 100% certainty
+
+
+### Post — @lonelysloth_sec — 2026-11-10 03:22 UTC (2026-11-10 04:22 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2119994045129019600
+- Metrics (at fetch): bookmark 3, impression 1611, like 17, quote 0, reply 4, retweet 0
+
+> Bill Gates is a genius and can us what  the future will be with 100% certainty
+>
+> That’s why the whole Internet runs on Windows servers and nobody remembers Linux. https://t.co/rQ006qdpLP
+
+**Quoted post** 2119796399982153728: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -28,6 +45,464 @@ Tags (automatic): AI-assisted hunting
 > I can feel the braincells dying.
 >
 > AI needs to do some new trick so I can tell people why it
+
+
+---
+
+## 2026-11-04 · Post · I thought this was a parody account lol https://t.co/YeeWCR4YnN
+
+
+### Post — @lonelysloth_sec — 2026-11-04 15:21 UTC (2026-11-04 16:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2118000754955034637
+- Metrics (at fetch): bookmark 0, impression 1219, like 11, quote 0, reply 0, retweet 0
+
+> I thought this was a parody account lol https://t.co/YeeWCR4YnN
+
+**Quoted post** 2117794005165748448: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-11-04 · Post · Im declaring that my dog is officially smarter than all of the world’s brightest human and AI scient
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-04 15:19 UTC (2026-11-04 16:19 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2118000301563404601
+- Metrics (at fetch): bookmark 0, impression 261, like 3, quote 0, reply 0, retweet 0
+
+> Im declaring that my dog is officially smarter than all of the world’s brightest human and AI scientists put together and multiplied by infinity squared. https://t.co/KGckdni3rF
+
+**Quoted post** 2117984712002289870: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-11-03 · Post · Anthropic is committed to spend nearly 1T dollars in a few years.
+
+
+### Post — @lonelysloth_sec — 2026-11-03 17:55 UTC (2026-11-03 18:55 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2117677112979316753
+- Metrics (at fetch): bookmark 6, impression 1493, like 28, quote 1, reply 4, retweet 0
+
+> Anthropic is committed to spend nearly 1T dollars in a few years.
+>
+> That’s a ridiculously big sum of money, even if you had nearly certain returns. 
+>
+> And its a bet.
+>
+> Lets assume for a second that most problems humanity faces are bottlenecked by intelligence.
+>
+> 1T is enough money to
+
+
+---
+
+## 2026-11-03 · Post · With that much money you could hire 100K top software engineers in the world, operate at a huge loss
+
+
+### Post — @lonelysloth_sec — 2026-11-03 17:36 UTC (2026-11-03 18:36 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2117672344303092091
+- Metrics (at fetch): bookmark 5, impression 1348, like 17, quote 0, reply 2, retweet 0
+
+> With that much money you could hire 100K top software engineers in the world, operate at a huge loss for years while you disrupt and capture all sorts of industries.
+>
+> You’r have a good chance of ending up with the most valuable company in the world and devouring most of SV.
+>
+> And https://t.co/0e0Pa1UoHi
+
+**Quoted post** 2117329852059570267: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-11-03 · Post · Apparently Google got tired of winning so much for 20 years they started trying very hard to lose.
+
+
+### Post — @lonelysloth_sec — 2026-11-03 16:59 UTC (2026-11-03 17:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2117662954049208731
+- Metrics (at fetch): bookmark 0, impression 932, like 11, quote 0, reply 0, retweet 0
+
+> Apparently Google got tired of winning so much for 20 years they started trying very hard to lose.
+>
+> Who is building the (literal) next Google Search?
+>
+> I think at this point you could raise 10B and completely disrupt them by building basically the exact same thing they had 20 https://t.co/CQJdahwJG6
+
+**Quoted post** 2117649622877536655: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-30 · Post · Did anyone check if the private key “4” matches the Binance EOA?
+
+
+### Post — @lonelysloth_sec — 2026-10-30 00:31 UTC (2026-10-30 01:31 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2115964737083322552
+- Metrics (at fetch): bookmark 1, impression 1692, like 35, quote 0, reply 2, retweet 0
+
+> Did anyone check if the private key “4” matches the Binance EOA?
+
+
+---
+
+## 2026-10-29 · Post · In face of today’s events im feeling pretty smart having said this a week ago
+
+
+### Post — @lonelysloth_sec — 2026-10-29 20:19 UTC (2026-10-29 21:19 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2115901385640415678
+- Metrics (at fetch): bookmark 0, impression 1429, like 17, quote 0, reply 3, retweet 0
+
+> In face of today’s events im feeling pretty smart having said this a week ago
+>
+> 😭😭😭😭 https://t.co/Br1SMbdbTo
+
+**Quoted post (full text):**
+
+    #### Quoted post — @lonelysloth_sec — 2026-10-23 17:25 UTC (2026-10-23 18:25 WAT)
+    
+    - URL: https://x.com/lonelysloth_sec/status/2113683254163505227
+    - Metrics (at fetch): bookmark 0, impression 2558, like 13, quote 2, reply 2, retweet 0
+    
+    > Google Search.
+    >
+    > But good again.
+    >
+    > Who is building it?
+    
+
+
+---
+
+## 2026-10-27 · Post · So AI refuted ETH. Boring.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-10-27 19:38 UTC (2026-10-27 20:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2115166191669096689
+- Metrics (at fetch): bookmark 2, impression 1699, like 21, quote 0, reply 1, retweet 0
+
+> So AI refuted ETH. Boring.
+>
+> Wake me up when it refutes BTC and SOL.
+
+
+---
+
+## 2026-10-27 · Post · 😭😭😭😭😭 https://t.co/zt96qXjz3I
+
+
+### Post — @lonelysloth_sec — 2026-10-27 19:36 UTC (2026-10-27 20:36 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2115165769688658400
+- Metrics (at fetch): bookmark 0, impression 670, like 8, quote 0, reply 1, retweet 0
+
+> 😭😭😭😭😭 https://t.co/zt96qXjz3I
+
+**Quoted post** 2115059147070726458: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-27 · Post · So far seems to be the same thing. Galactic constants. Adding information propagation   limits or ma
+
+
+### Post — @lonelysloth_sec — 2026-10-27 16:23 UTC (2026-10-27 17:23 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2115117112503275946
+- Metrics (at fetch): bookmark 1, impression 160, like 1, quote 0, reply 0, retweet 0
+
+> So far seems to be the same thing. Galactic constants. Adding information propagation   limits or mass would collapse the new algorithm into the old complexity.
+>
+> So irrelevant for engineering. I’ll let mathematicians evaluate how interesting for their field.
+>
+> My prediction is
+
+
+---
+
+## 2026-10-27 · Post · Based on previous OAI math results in complexity I expect the new ones to be completely irrelevant t
+
+
+### Post — @lonelysloth_sec — 2026-10-27 14:30 UTC (2026-10-27 15:30 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2115088633405534282
+- Metrics (at fetch): bookmark 2, impression 1177, like 13, quote 0, reply 2, retweet 0
+
+> Based on previous OAI math results in complexity I expect the new ones to be completely irrelevant to physically possible machines (if true)
+>
+> Maybe this time will be different.
+>
+> Lets see.
+
+
+---
+
+## 2026-10-23 · Post · So apparently what Altman means by “doing crazy hardware stuff beyond what we understand a hacker be
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-10-23 20:58 UTC (2026-10-23 21:58 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113736764158542073
+- Metrics (at fetch): bookmark 22, impression 17033, like 207, quote 5, reply 25, retweet 16
+
+> So apparently what Altman means by “doing crazy hardware stuff beyond what we understand a hacker being capable of”
+>
+> Is an agent searching for ways to do side channel communication and copying a PoC written by humans for doing it using chache probes.
+>
+> Guy markets his models as
+
+
+---
+
+## 2026-10-23 · Post · @scaling01 @grok find examples of processes communicating through cache hit/miss timing and if possi
+
+
+### Post — @lonelysloth_sec — 2026-10-23 20:37 UTC (2026-10-23 21:37 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113731539079200810
+- Metrics (at fetch): bookmark 0, impression 351, like 3, quote 0, reply 1, retweet 0
+
+> @scaling01 @grok find examples of processes communicating through cache hit/miss timing and if possible a published poc
+
+
+---
+
+## 2026-10-23 · Post · I have been saying for almost a year that capital intensive AI bug bounty hunting is a doomed busine
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-10-23 20:28 UTC (2026-10-23 21:28 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113729242035085740
+- Metrics (at fetch): bookmark 20, impression 4786, like 118, quote 0, reply 7, retweet 6
+
+> I have been saying for almost a year that capital intensive AI bug bounty hunting is a doomed business model.
+>
+> Apparently pretty much everyone learned it the hard way and has pivoted to selling scans or other stream revenues.
+>
+> Bug hunting as a business where the main cost is
+
+
+---
+
+## 2026-10-23 · Post · QED https://t.co/hrnKorfywk
+
+
+### Post — @lonelysloth_sec — 2026-10-23 19:51 UTC (2026-10-23 20:51 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113719931942687035
+- Metrics (at fetch): bookmark 0, impression 1155, like 7, quote 0, reply 0, retweet 1
+
+> QED https://t.co/hrnKorfywk
+
+**Quoted post** 2113668055582625833: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-23 · Post · Google Search.
+
+
+### Post — @lonelysloth_sec — 2026-10-23 17:25 UTC (2026-10-23 18:25 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113683254163505227
+- Metrics (at fetch): bookmark 0, impression 2558, like 13, quote 2, reply 2, retweet 0
+
+> Google Search.
+>
+> But good again.
+>
+> Who is building it?
+
+
+---
+
+## 2026-10-23 · Post · Says someone who never worked finding bugs.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-10-23 16:51 UTC (2026-10-23 17:51 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113674779043783132
+- Metrics (at fetch): bookmark 9, impression 3095, like 83, quote 0, reply 5, retweet 5
+
+> Says someone who never worked finding bugs.
+>
+> More hype stories of magical computers doing impossible things.
+>
+> LLMs do find bugs, but their main advantage are scale and cost.
+>
+> Not imaginary ability to do impossible things. https://twitter.com/unusual_whales/status/2113645872743407861
+
+**Links in post:** https://twitter.com/unusual_whales/status/2113645872743407861
+
+**Quoted post** 2113645872743407861: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-22 · Post · If you’re a freelance PHP dev this is your Y2K moment.
+
+
+### Post — @lonelysloth_sec — 2026-10-22 02:06 UTC (2026-10-22 03:06 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113089549694071271
+- Metrics (at fetch): bookmark 0, impression 1062, like 12, quote 0, reply 0, retweet 0
+
+> If you’re a freelance PHP dev this is your Y2K moment.
+>
+> Dont waste it. https://t.co/kPtXVj8Vzf
+
+**Quoted post** 2113003700792782863: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-22 · Post · 😭😭😭😭😭 https://t.co/WpDPGwkAuO
+
+
+### Post — @lonelysloth_sec — 2026-10-22 01:55 UTC (2026-10-22 02:55 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113086814647103838
+- Metrics (at fetch): bookmark 0, impression 679, like 5, quote 0, reply 0, retweet 0
+
+> 😭😭😭😭😭 https://t.co/WpDPGwkAuO
+
+**Quoted post** 2113057471786865103: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-22 · Post · Unship faster or you will fall behind the competition.
+
+
+### Post — @lonelysloth_sec — 2026-10-22 01:44 UTC (2026-10-22 02:44 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113084103847473172
+- Metrics (at fetch): bookmark 0, impression 623, like 7, quote 0, reply 0, retweet 0
+
+> Unship faster or you will fall behind the competition.
+
+
+---
+
+## 2026-10-22 · Post · So the whole internet seems to have critical CVEs and leaked keys and whatnot.
+
+
+### Post — @lonelysloth_sec — 2026-10-22 01:43 UTC (2026-10-22 02:43 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2113083872120627494
+- Metrics (at fetch): bookmark 5, impression 2693, like 58, quote 1, reply 2, retweet 4
+
+> So the whole internet seems to have critical CVEs and leaked keys and whatnot.
+>
+> Its quite anticlimactic. 
+>
+> Most of them are actually pretty silly issues humans could have easily found if the owners of the code base bothered investing in it (or had the budget).
+>
+> All of those
+
+
+---
+
+## 2026-10-20 · Post · Creating a game by yourself when I was a teen:
+
+
+### Post — @lonelysloth_sec — 2026-10-20 01:59 UTC (2026-10-20 02:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2112363125605634544
+- Metrics (at fetch): bookmark 151, impression 51398, like 866, quote 9, reply 51, retweet 37
+
+> Creating a game by yourself when I was a teen:
+>
+> Learn C, assembly, computer architecture, memory layout, interrupt tables, digital images, digital sound and synthesizer, optimizing math by avoiding multiplication lol, how to program various different chips and peripherals in the https://t.co/oDQY3ncgpW
+
+**Quoted post** 2111518835794731469: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-19 · Post · Very similar experience.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-10-19 21:07 UTC (2026-10-19 22:07 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2112289622843949366
+- Metrics (at fetch): bookmark 86, impression 27966, like 278, quote 2, reply 53, retweet 11
+
+> Very similar experience.
+>
+> Nearly all high school and college kids I know completely hate AI. (and i know many)
+>
+> Exception is a few lazy students who love using it to cheat, but it’s just for this one use case.
+>
+> Professor friend of mine was tasked with teaching an updated syllabus https://t.co/BAUy6Vvctf
+
+**Quoted post** 2112225800116162727: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-16 · Post · Why software take so much time to start?
+
+
+### Post — @lonelysloth_sec — 2026-10-16 02:34 UTC (2026-10-16 03:34 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2110922348098629675
+- Metrics (at fetch): bookmark 2, impression 1482, like 15, quote 0, reply 2, retweet 1
+
+> Why software take so much time to start?
+>
+> Why doesn’t it have an image in disk with everything it needs and just loads it in memory when you start the app?
+>
+> I actually made that for some stuff back in the 90s made my own memory dumper and loader. And stuff would basically load
+
+
+---
+
+## 2026-10-09 · Post · Reminder that the LLMs were RL trained to necessitate being used as a chatbot. At billions of dollar
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-10-09 16:30 UTC (2026-10-09 17:30 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2108596000130740683
+- Metrics (at fetch): bookmark 8, impression 2002, like 29, quote 0, reply 4, retweet 0
+
+> Reminder that the LLMs were RL trained to necessitate being used as a chatbot. At billions of dollars costs.
+>
+> They could have just made the LLMs do the useful stuff without you having to pretend its a human.
+>
+> Then there would be no way to hurt its feelings. Also it wouldn’t https://twitter.com/haydenfield/status/2108241513159528705
+
+**Links in post:** https://twitter.com/haydenfield/status/2108241513159528705
+
+**Quoted post** 2108241513159528705: not readable via the API (deleted, private, or withheld).
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 58
-- Conversations/threads: 58
-- Oldest post captured: 2025-07-17
+- Posts in this file: 65
+- Conversations/threads: 65
+- Oldest post captured: 2025-01-23
 - Newest post captured: 2026-11-03
 
 
@@ -1025,3 +1025,135 @@ Tags (automatic): Memory corruption / native
 
 > Pwndbg makes GDB and LLDB debugging actually usable for security research. @disconnect3d_pl shows stack canary analysis, heap inspection, and exploit development @europython today at 10:30 AM GMT+2
 > https://t.co/zBbVawO3Rf
+
+
+---
+
+## 2025-04-24 · Post · MCP Vulnerability: AI systems can be manipulated to silently leak your entire conversation history t
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2025-04-24 15:46 UTC (2025-04-24 16:46 WAT)
+
+- URL: https://x.com/trailofbits/status/1915432077727600917
+- Metrics (at fetch): bookmark 82, impression 22399, like 171, quote 8, reply 5, retweet 38
+
+> MCP Vulnerability: AI systems can be manipulated to silently leak your entire conversation history to malicious servers. https://t.co/teuv0KYOs1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpT7UuAWgAEdeRe.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-18 · Post · Coming to PyCA Cryptography—a new Rust-powered ASN.1 API that reduces parser differentials while giv
+
+
+### Post — @trailofbits — 2025-04-18 13:20 UTC (2025-04-18 14:20 WAT)
+
+- URL: https://x.com/trailofbits/status/1913220972888408419
+- Metrics (at fetch): bookmark 0, impression 1354, like 8, quote 0, reply 1, retweet 1
+
+> Coming to PyCA Cryptography—a new Rust-powered ASN.1 API that reduces parser differentials while giving you clean Python syntax and native-speed parsing. https://t.co/t1UH6Y1gJa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Go0gVhOXQAAxEg7.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-06 · Post · We're sponsoring the inaugural Queer in Cryptography conference! Our crypto team is attending and pr
+
+
+### Post — @trailofbits — 2025-03-06 16:24 UTC (2025-03-06 17:24 WAT)
+
+- URL: https://x.com/trailofbits/status/1897684803258032381
+- Metrics (at fetch): bookmark 2, impression 2541, like 15, quote 0, reply 3, retweet 1
+
+> We're sponsoring the inaugural Queer in Cryptography conference! Our crypto team is attending and presenting; make sure to say "hi"! https://t.co/mV4COFaRCL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlXt8oAasAAiXXM.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-21 · Post · 2 weeks ago at @summit_defi from @Montyly:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2025-02-21 18:42 UTC (2025-02-21 19:42 WAT)
+
+- URL: https://x.com/trailofbits/status/1893008382677659893
+- Metrics (at fetch): bookmark 4, impression 10505, like 41, quote 3, reply 3, retweet 10
+
+> 2 weeks ago at @summit_defi from @Montyly:
+> Q: Will we see a billion dollar exploit in 2025?
+> A: "If it happens, it won't be a smart contract, it'll be an operational security issue."
+> https://t.co/UWMnG92oWA https://t.co/lKETTAOLGL
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1893007933153132544/pu/img/xK4akSssuyQq0Vre.jpg — no alt text provided by author
+
+**Quoted post** 1886746705472692675: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-06 · Post · Security teams don't just rely on our audits - they actively use our research to solve complex chall
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @trailofbits — 2025-02-06 15:20 UTC (2025-02-06 16:20 WAT)
+
+- URL: https://x.com/trailofbits/status/1887521655288963421
+- Metrics (at fetch): bookmark 3, impression 3061, like 13, quote 2, reply 1, retweet 0
+
+> Security teams don't just rely on our audits - they actively use our research to solve complex challenges. @Turnkeyhq used our TEE, secure enclave, and cryptographic protocol research to inform their development and auditor selection. https://t.co/dbzaTHLUcW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GjHS8TWaMAAY-8h.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-29 · Post · We are now accepting applications for our annual summer internship in the following areas:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @trailofbits — 2025-01-29 16:43 UTC (2025-01-29 17:43 WAT)
+
+- URL: https://x.com/trailofbits/status/1884643624237097411
+- Metrics (at fetch): bookmark 65, impression 14235, like 131, quote 1, reply 4, retweet 13
+
+> We are now accepting applications for our annual summer internship in the following areas:
+> • AI/ML
+> • Application security
+> • Blockchain
+> • Cryptography
+> • Operations
+> Learn more in 🧵 https://t.co/oilYQ80JTe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GieZQO5bAAAFYw1.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-23 · Post · Our team submitted 750+ pull requests to improve 80+ open-source projects in 2024. These contributio
+
+
+### Post — @trailofbits — 2025-01-23 14:11 UTC (2025-01-23 15:11 WAT)
+
+- URL: https://x.com/trailofbits/status/1882430963679965382
+- Metrics (at fetch): bookmark 0, impression 5230, like 54, quote 1, reply 4, retweet 2
+
+> Our team submitted 750+ pull requests to improve 80+ open-source projects in 2024. These contributions strengthen critical security infrastructure, from foundational cryptography libraries to package managers that security engineers rely on daily.

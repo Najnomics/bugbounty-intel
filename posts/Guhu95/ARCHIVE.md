@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 26
-- Conversations/threads: 23
-- Oldest post captured: 2025-05-29
+- Posts in this file: 30
+- Conversations/threads: 27
+- Oldest post captured: 2025-05-01
 - Newest post captured: 2026-03-12
 
 
@@ -791,3 +791,78 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 **Links in post:** https://twitter.com/lonelysloth_sec/status/1927778954565255181
 
 **Quoted post** 1927778954565255181: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-09 · Post · [1] - https://t.co/InAgWRIUVz
+
+
+### Post — @Guhu95 — 2025-05-09 07:15 UTC (2025-05-09 08:15 WAT)
+
+- URL: https://x.com/Guhu95/status/1920739502244397134
+- Metrics (at fetch): bookmark 1, impression 377, like 1, quote 0, reply 0, retweet 0
+
+> [1] - https://t.co/InAgWRIUVz
+
+
+---
+
+## 2025-05-09 · Post · "Stack too deep" makes you write better code. "Code is read more than it's written", especially Soli
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @Guhu95 — 2025-05-09 07:14 UTC (2025-05-09 08:14 WAT)
+
+- URL: https://x.com/Guhu95/status/1920739091215511905
+- Metrics (at fetch): bookmark 2, impression 2572, like 34, quote 0, reply 5, retweet 1
+
+> "Stack too deep" makes you write better code. "Code is read more than it's written", especially Solidity. 
+>
+> Yes it's annoying, but you know what's more annoying? Error-prone ugly spaghetti code with too many variables used in the same scope.
+>
+> Humans barely handle 4 items in https://t.co/0yrF9cVPE2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GqfV4O2WgAAEct9.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-01 · Post · To clarify: this is not me complaining, venting, or being negative.
+
+
+### Post — @Guhu95 — 2025-05-01 08:51 UTC (2025-05-01 09:51 WAT)
+
+- URL: https://x.com/Guhu95/status/1917864472418615520
+- Metrics (at fetch): bookmark 0, impression 622, like 10, quote 0, reply 0, retweet 0
+
+> To clarify: this is not me complaining, venting, or being negative.
+>
+> I'm suggesting a mental model I find more helpful, and pointing out similarities. 
+>
+> Contests are great, here to stay, people are doing their best, and as a whole provide a lot of value for literally everyone. I
+
+
+---
+
+## 2025-05-01 · Post · Audit contests are just a spectator sport. That's the only sane way to treat them. Proof:
+
+
+### Post — @Guhu95 — 2025-05-01 06:05 UTC (2025-05-01 07:05 WAT)
+
+- URL: https://x.com/Guhu95/status/1917822712984265045
+- Metrics (at fetch): bookmark 7, impression 3474, like 61, quote 0, reply 6, retweet 0
+
+> Audit contests are just a spectator sport. That's the only sane way to treat them. Proof:
+>
+> - Endless drama all the time.
+> - Top 0.1% are worshiped as demigods.
+> - Top 1% make more money from selling other stuff (audit days).
+> - Bottom 99% are there because of top 0.1%'s winnings.
+> - https://t.co/7LjPpRdsqh
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/Gp15l6lawAA4EJF.jpg — no alt text provided by author

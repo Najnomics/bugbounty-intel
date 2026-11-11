@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 29
-- Conversations/threads: 28
-- Oldest post captured: 2025-04-28
+- Posts in this file: 32
+- Conversations/threads: 30
+- Oldest post captured: 2025-02-28
 - Newest post captured: 2026-10-28
 
 
@@ -64,7 +64,7 @@ Tags (automatic): XSS, CSP / CSPT
 
 ---
 
-## 2026-10-16 · Post · I've been beta testing it, and I have to say it's a fun little idle game :D https://t.co/M5JYiIXEca
+## 2026-10-16 · Post · I've been beta testing it, and I have to say it's a fun little idle game :D https://twitter.com/hiip
 
 
 ### Post — @kevin_mizu — 2026-10-16 15:04 UTC (2026-10-16 16:04 WAT)
@@ -72,7 +72,9 @@ Tags (automatic): XSS, CSP / CSPT
 - URL: https://x.com/kevin_mizu/status/2111111102394511707
 - Metrics (at fetch): bookmark 9, impression 2688, like 32, quote 0, reply 2, retweet 2
 
-> I've been beta testing it, and I have to say it's a fun little idle game :D https://t.co/M5JYiIXEca
+> I've been beta testing it, and I have to say it's a fun little idle game :D https://twitter.com/hiippiiie/status/2111099846169936308
+
+**Links in post:** https://twitter.com/hiippiiie/status/2111099846169936308
 
 **Quoted post** 2111099846169936308: not readable via the API (deleted, private, or withheld).
 
@@ -189,22 +191,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2026-07-21 · Post · It's not in the stable release yet, but I've already reported it to the Chromium team, and they clos
-
-
-### Post — @kevin_mizu — 2026-07-21 13:06 UTC (2026-07-21 14:06 WAT)
-
-- URL: https://x.com/kevin_mizu/status/2079553637773148314
-- Metrics (at fetch): bookmark 0, impression 771, like 8, quote 0, reply 0, retweet 0
-
-> It's not in the stable release yet, but I've already reported it to the Chromium team, and they closed it as "Won't Fix (Infeasible)".
->
-> If this ships, it could enable a fun gadget, even with HTML strings sanitized by DOMPurify :D
-
-
----
-
-## 2026-07-21 · Post · Chrome keeps adding fun features!
+## 2026-07-21 · Thread · Chrome keeps adding fun features!
 
 
 Tags (automatic): XSS
@@ -217,17 +204,29 @@ Tags (automatic): XSS
 
 > Chrome keeps adding fun features!
 >
-> After declarative partial updates, the CSS version is behind an experimental flag: https://t.co/TMonPuOO4m
+> After declarative partial updates, the CSS version is behind an experimental flag: https://issues.chromium.org/issues/448174611
 >
-> The new specifier attribute lets you poison import maps, even via DOMParser. Not XSS (text/css), but it can still block module loading :D https://t.co/al9OJxE0iV
+> The new specifier attribute lets you poison import maps, even via DOMParser. Not XSS (text/css), but it can still block module loading :D [pic.x.com/al9OJxE0iV]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HNwOEsfWAAEQrRW.jpg — no alt text provided by author
 
+**Links in post:** https://issues.chromium.org/issues/448174611
+
+
+### Thread part 2 — @kevin_mizu — 2026-07-21 13:06 UTC (2026-07-21 14:06 WAT)
+
+- URL: https://x.com/kevin_mizu/status/2079553637773148314
+- Metrics (at fetch): bookmark 0, impression 771, like 8, quote 0, reply 0, retweet 0
+
+> It's not in the stable release yet, but I've already reported it to the Chromium team, and they closed it as "Won't Fix (Infeasible)".
+>
+> If this ships, it could enable a fun gadget, even with HTML strings sanitized by DOMPurify :D
+
 
 ---
 
-## 2026-07-17 · Post · 🔥🔥 https://t.co/KSy3Z43V2h
+## 2026-07-17 · Post · 🔥🔥 https://twitter.com/hash_kitten/status/2078253959018648050
 
 
 ### Post — @kevin_mizu — 2026-07-17 23:05 UTC (2026-07-18 00:05 WAT)
@@ -235,7 +234,9 @@ Tags (automatic): XSS
 - URL: https://x.com/kevin_mizu/status/2078254854087020589
 - Metrics (at fetch): bookmark 9, impression 5974, like 37, quote 0, reply 0, retweet 1
 
-> 🔥🔥 https://t.co/KSy3Z43V2h
+> 🔥🔥 https://twitter.com/hash_kitten/status/2078253959018648050
+
+**Links in post:** https://twitter.com/hash_kitten/status/2078253959018648050
 
 **Quoted post** 2078253959018648050: not readable via the API (deleted, private, or withheld).
 
@@ -251,7 +252,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @kevin_mizu — 2026-07-09 15:05 UTC (2026-07-09 16:05 WAT)
 
 - URL: https://x.com/kevin_mizu/status/2075234997246496822
-- Metrics (at fetch): bookmark 10, impression 8483, like 102, quote 0, reply 7, repost 7
+- Metrics (at fetch): bookmark 10, impression 8483, like 102, quote 0, reply 7, retweet 7
 
 > It was a really fun event! Thanks to @Hacker0x01 and Salesforce for the invitation!
 >
@@ -315,7 +316,9 @@ Tags (automatic): CSP / CSPT
 
 > This makes cloudflare /cdn-cgi/image a valid CSPT → innerHTML gadget btw :D
 >
-> https://t.co/dDfblnPHR5 https://t.co/dLwFFYavP9
+> https://gmsgadget.com/preview/?html=%3Cscript%3E%0Afetch%28%22%2Fcdn-cgi%2Fimage%2Fformat%3D%3Cselect%3E%3Cselectedcontent%3E%3C%25252fselectedcontent%3E%3Coption%3E%3Csvg%3E%3Cscript%3Ealert%60%60%3C%25252fscript%3E%2Fx%22%29.then%28d%20%3D%3E%20d.text%28%29%29.then%28%28d%29%20%3D%3E%20%7B%20document.body.innerHTML%20%3D%20d%20%7D%29%3B%0A%3C%2Fscript%3E https://twitter.com/kinugawamasato/status/2074446473220214979
+
+**Links in post:** https://gmsgadget.com/preview/?html=%3Cscript%3E%0Afetch%28%22%2Fcdn-cgi%2Fimage%2Fformat%3D%3Cselect%3E%3Cselectedcontent%3E%3C%25252fselectedcontent%3E%3Coption%3E%3Csvg%3E%3Cscript%3Ealert%60%60%3C%25252fscript%3E%2Fx%22%29.then%28d%20%3D%3E%20d.text%28%29%29.then%28%28d%29%20%3D%3E%20%7B%20document.body.innerHTML%20%3D%20d%20%7D%29%3B%0A%3C%2Fscript%3E, https://twitter.com/kinugawamasato/status/2074446473220214979
 
 **Quoted post** 2074446473220214979: not readable via the API (deleted, private, or withheld).
 
@@ -335,7 +338,7 @@ Tags (automatic): CSP / CSPT
 
 ---
 
-## 2026-05-19 · Post · It's a really nice challenge! If you have some time, give it a try 🚩 https://t.co/jLSeWBNOzx
+## 2026-05-19 · Post · It's a really nice challenge! If you have some time, give it a try 🚩 https://twitter.com/hash_kitten
 
 
 ### Post — @kevin_mizu — 2026-05-19 07:19 UTC (2026-05-19 08:19 WAT)
@@ -343,7 +346,9 @@ Tags (automatic): CSP / CSPT
 - URL: https://x.com/kevin_mizu/status/2056635918648254507
 - Metrics (at fetch): bookmark 4, impression 3515, like 30, quote 0, reply 1, retweet 0
 
-> It's a really nice challenge! If you have some time, give it a try 🚩 https://t.co/jLSeWBNOzx
+> It's a really nice challenge! If you have some time, give it a try 🚩 https://twitter.com/hash_kitten/status/2056635004688769237
+
+**Links in post:** https://twitter.com/hash_kitten/status/2056635004688769237
 
 **Quoted post** 2056635004688769237: not readable via the API (deleted, private, or withheld).
 
@@ -360,14 +365,16 @@ Tags (automatic): CSP / CSPT
 
 > The #FCSC2026 ended today, and my write-ups are now available here:
 >
-> https://t.co/6e2WWjxKpD 🚩
+> https://mizu.re/post/fcsc-2026-writeups 🚩
 >
 > I'm really happy with the challenges I managed to create this year! It would be too long to list everything, so here's a little teaser 👇
 >
-> 1/2 https://t.co/NZc7H1VtRG https://t.co/FKow8aKOuN
+> 1/2 [pic.x.com/NZc7H1VtRG] https://twitter.com/kevin_mizu/status/2040130397179126227
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HFtsI_1a4AACON1.jpg — no alt text provided by author
+
+**Links in post:** https://mizu.re/post/fcsc-2026-writeups, https://twitter.com/kevin_mizu/status/2040130397179126227
 
 **Quoted post (full text):**
 
@@ -438,13 +445,15 @@ Tags (automatic): AI-assisted hunting
 > • Stack trace reconstitution
 > • ...
 >
-> 👉 https://t.co/tj72KXjAN9 https://t.co/tRdiFP6M0T
+> 👉 https://github.com/kevin-mizu/domloggerpp-caido [pic.x.com/tRdiFP6M0T]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HFZE16XbQAAkn9V.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HFZE4nGXsAAskJN.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HFZE7CiXwAEQ10u.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HFZE_EjWQAAdLl-.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/kevin-mizu/domloggerpp-caido
 
 
 ---
@@ -675,3 +684,96 @@ Tags (automatic): Platform: HackerOne
 > Thanks again to @ECSC_TeamFrance for the opportunity! 💙
 >
 > 2/2
+
+
+---
+
+## 2025-04-18 · Post · This year again, with @BitK_, we've made the Web challenges 🚩
+
+
+### Post — @kevin_mizu — 2025-04-18 16:32 UTC (2025-04-18 17:32 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1913269540156309910
+- Metrics (at fetch): bookmark 19, impression 8879, like 93, quote 1, reply 1, retweet 7
+
+> This year again, with @BitK_, we've made the Web challenges 🚩
+>
+> The CTF is solo and lasts 10 days, if you have some time, please give it a look 😁
+>
+> Btw, even if you're not doing Web challenges, there are 100+ challenges in various categories, you should find something you like! [pic.x.com/FSFLlVvkiH] https://twitter.com/ANSSI_FR/status/1913201106890477808
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Go1MaLeXgBArbpC.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/ANSSI_FR/status/1913201106890477808
+
+**Quoted post** 1913201106890477808: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-03-02 · Post · For this challenge, it was necessary to abuse a discrepancy between the DOM and the rendered page in
+
+
+### Post — @kevin_mizu — 2025-03-02 17:14 UTC (2025-03-02 18:14 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1896247733721370815
+- Metrics (at fetch): bookmark 58, impression 8303, like 106, quote 0, reply 1, retweet 22
+
+> For this challenge, it was necessary to abuse a discrepancy between the DOM and the rendered page in Firefox's cache handling 💽
+>
+> 👉 https://bugzilla.mozilla.org/show_bug.cgi?id=356558
+>
+> This allows to shift iframe rendering from one to another leading to a sandbox bypass 🔥
+>
+> 👉 https://mizu.re/post/an-18-years-old-bug [pic.x.com/djNmmKrj0M] https://twitter.com/kevin_mizu/status/1895551723844083815
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1896246689377177600/pu/img/xthJ9ygUkRhWWUrt.jpg — no alt text provided by author
+
+**Links in post:** https://bugzilla.mozilla.org/show_bug.cgi?id=356558, https://mizu.re/post/an-18-years-old-bug, https://twitter.com/kevin_mizu/status/1895551723844083815
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kevin_mizu — 2025-02-28 19:08 UTC (2025-02-28 20:08 WAT)
+    
+    - URL: https://x.com/kevin_mizu/status/1895551723844083815
+    - Metrics (at fetch): bookmark 21, impression 12889, like 70, quote 1, reply 0, retweet 8
+    
+    > With @Geluchat, we created a challenge for the @pwnmectf inspired by a bug he found in bug bounty a year ago! 🚀
+    >
+    > If you have some time this weekend, give it a try! 👀
+    >
+    > 👉 https://pwnme.phreaks.fr/ [pic.x.com/Zc19b4oGUx] https://twitter.com/pwnmectf/status/1895551313737617463
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Gk5aPkVXgAA8Bm-.png — no alt text provided by author
+    
+    **Links in post:** https://pwnme.phreaks.fr/, https://twitter.com/pwnmectf/status/1895551313737617463
+    
+    **Quoted post** 1895551313737617463: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-02-28 · Post · With @Geluchat, we created a challenge for the @pwnmectf inspired by a bug he found in bug bounty a 
+
+
+### Post — @kevin_mizu — 2025-02-28 19:08 UTC (2025-02-28 20:08 WAT)
+
+- URL: https://x.com/kevin_mizu/status/1895551723844083815
+- Metrics (at fetch): bookmark 21, impression 12889, like 70, quote 1, reply 0, retweet 8
+
+> With @Geluchat, we created a challenge for the @pwnmectf inspired by a bug he found in bug bounty a year ago! 🚀
+>
+> If you have some time this weekend, give it a try! 👀
+>
+> 👉 https://pwnme.phreaks.fr/ [pic.x.com/Zc19b4oGUx] https://twitter.com/pwnmectf/status/1895551313737617463
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gk5aPkVXgAA8Bm-.png — no alt text provided by author
+
+**Links in post:** https://pwnme.phreaks.fr/, https://twitter.com/pwnmectf/status/1895551313737617463
+
+**Quoted post** 1895551313737617463: not readable via the API (deleted, private, or withheld).

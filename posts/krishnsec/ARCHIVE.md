@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 24
-- Conversations/threads: 24
+- Posts in this file: 25
+- Conversations/threads: 25
 - Oldest post captured: 2026-08-05
 - Newest post captured: 2026-11-04
 
@@ -23,6 +23,19 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
+## 2026-11-04 · Post · Can any security researcher from India please explain what exactly @IndianCERT does for the country’
+
+
+### Post — @krishnsec — 2026-11-04 05:07 UTC (2026-11-04 06:07 WAT)
+
+- URL: https://x.com/krishnsec/status/2117846180743004387
+- Metrics (at fetch): bookmark 25, impression 10286, like 111, quote 1, reply 15, retweet 6
+
+> Can any security researcher from India please explain what exactly @IndianCERT does for the country’s cybersecurity? I’d genuinely like to understand its role and contributions.
+
+
+---
+
 ## 2026-11-02 · Post · A box full of @Bugcrowd swag✌️ https://t.co/lyQtkdCAzI
 
 
@@ -32,9 +45,12 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-11-02 11:52 UTC (2026-11-02 12:52 WAT)
 
 - URL: https://x.com/krishnsec/status/2117223322031374344
-- Metrics (at fetch): bookmark 14, impression 5177, like 240, quote 0, reply 12, retweet 0
+- Metrics (at fetch): bookmark 14, impression 5178, like 240, quote 0, reply 12, retweet 0
 
 > A box full of @Bugcrowd swag✌️ https://t.co/lyQtkdCAzI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWHjYrBakAAVPi3.jpg — no alt text provided by author
 
 
 ---
@@ -48,7 +64,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @krishnsec — 2026-11-01 18:46 UTC (2026-11-01 19:46 WAT)
 
 - URL: https://x.com/krishnsec/status/2116965015777628269
-- Metrics (at fetch): bookmark 23, impression 5373, like 67, quote 0, reply 1, repost 0
+- Metrics (at fetch): bookmark 23, impression 5373, like 67, quote 0, reply 1, retweet 0
 
 > P1 - AI Application Security &gt; Model Extraction &gt; API Query-Based Model Reconstruction
 
@@ -94,7 +110,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-10-25 08:18 UTC (2026-10-25 09:18 WAT)
 
 - URL: https://x.com/krishnsec/status/2114270259687661611
-- Metrics (at fetch): bookmark 59, impression 17328, like 206, quote 2, reply 14, repost 0
+- Metrics (at fetch): bookmark 59, impression 17328, like 206, quote 2, reply 14, retweet 0
 
 > 4.6 can still find P1 criticals - it’s all about the harness.
 
@@ -107,7 +123,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-10-13 05:59 UTC (2026-10-13 06:59 WAT)
 
 - URL: https://x.com/krishnsec/status/2109886780657029303
-- Metrics (at fetch): bookmark 5, impression 4159, like 59, quote 0, reply 3, repost 0
+- Metrics (at fetch): bookmark 5, impression 4159, like 59, quote 0, reply 3, retweet 0
 
 > my accuracy over the last 90 days is 69%, so even though I can report as many bugs as I want, I’m still choosing to report only a few.
 
@@ -123,7 +139,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-10-07 10:47 UTC (2026-10-07 11:47 WAT)
 
 - URL: https://x.com/krishnsec/status/2107784924162093528
-- Metrics (at fetch): bookmark 16, impression 5276, like 209, quote 0, reply 20, repost 2
+- Metrics (at fetch): bookmark 16, impression 5276, like 209, quote 0, reply 20, retweet 2
 
 > Finally hit 20,000 reputation on @Bugcrowd A long journey and definitely not an easy milestone✌️
 > https://bugcrowd.com/h/krishnsec [pic.x.com/24ctrhsfAj]
@@ -174,7 +190,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2026-10-05 05:46 UTC (2026-10-05 06:46 WAT)
 
 - URL: https://x.com/krishnsec/status/2106984299560124675
-- Metrics (at fetch): bookmark 9, impression 10812, like 229, quote 2, reply 15, repost 2
+- Metrics (at fetch): bookmark 9, impression 10812, like 229, quote 2, reply 15, retweet 2
 
 > September wrapped up with another #1 on the @Bugcrowd leaderboard &gt;&gt; [pic.x.com/XiO1x2rdJu]
 

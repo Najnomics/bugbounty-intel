@@ -16,7 +16,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @0xriptide — 2026-11-10 09:02 UTC (2026-11-10 10:02 WAT)
 
 - URL: https://x.com/0xriptide/status/2120079518723371488
-- Metrics (at fetch): bookmark 5, impression 2362, like 39, quote 1, reply 0, repost 2
+- Metrics (at fetch): bookmark 5, impression 2384, like 39, quote 1, reply 0, retweet 2
 
 > We are not here to waste your time or give your team additional work
 >
@@ -355,7 +355,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 ### Post — @0xriptide — 2026-10-08 00:05 UTC (2026-10-08 01:05 WAT)
 
 - URL: https://x.com/0xriptide/status/2107985669410947229
-- Metrics (at fetch): bookmark 13, impression 3539, like 117, quote 2, reply 10, repost 15
+- Metrics (at fetch): bookmark 13, impression 3539, like 117, quote 2, reply 10, retweet 15
 
 > A note to those building on chain in 2026:
 >

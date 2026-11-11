@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 122
-- Conversations/threads: 95
+- Posts in this file: 131
+- Conversations/threads: 104
 - Oldest post captured: 2024-08-06
 - Newest post captured: 2026-10-30
 
@@ -2023,6 +2023,181 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > We’ve led incident response, uncovered critical vulnerabilities, and maintained open-source tools like Solana Exporter.
 >
 > Security and stability are built into how we work.
+
+
+---
+
+## 2025-05-13 · Post · What you get:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1922334889031905570
+- Metrics (at fetch): bookmark 0, impression 190, like 1, quote 0, reply 1, retweet 0
+
+> What you get:
+>
+> – High-availability config (24/7 ops, patching, full logging)
+> – Infra tailored to your strategy (Firedancer/Agave, governance prefs)
+> – Rewards paid in native, USDC, or USD
+> – World-class validator ops &amp; support
+
+
+---
+
+## 2025-05-13 · Post · AR operates some of the most reliable and performant validators in web3:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1922334886490472676
+- Metrics (at fetch): bookmark 0, impression 231, like 2, quote 0, reply 1, retweet 0
+
+> AR operates some of the most reliable and performant validators in web3:
+>
+> - #1 Solana validator by fees collected: At times, we’ve led the network, reflecting both uptime and network optimization
+> - Active across ecosystems like @Aptos, @Berachain, @Stacks and more https://t.co/jnH7x6d6P1
+
+**Quoted post** 1899573561058337266: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-13 · Post · We’ve heard from several teams that they want resilient, high-performing validators without running 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2025-05-13 16:55 UTC (2025-05-13 17:55 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1922334883340333496
+- Metrics (at fetch): bookmark 3, impression 4596, like 29, quote 2, reply 2, retweet 4
+
+> We’ve heard from several teams that they want resilient, high-performing validators without running their own infrastructure.
+>
+> Until now, this was something we only did for existing partners, but we've decided to open this up as a white-label service ↓ https://t.co/2QXIwiHUbp
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/1922332942740946945/img/ufckNVfXelnmujNv.jpg — no alt text provided by author
+
+
+---
+
+## 2025-05-08 · Post · Respect to the Loopscale team for acting quickly and communicating clearly. 
+
+
+### Post — @asymmetric_re — 2025-05-08 20:56 UTC (2025-05-08 21:56 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1920583674124177563
+- Metrics (at fetch): bookmark 3, impression 1612, like 24, quote 0, reply 0, retweet 1
+
+> Respect to the Loopscale team for acting quickly and communicating clearly. 
+>
+> We were glad to assist behind the scenes, and this kind of response helps raise the bar for the entire ecosystem. https://t.co/sdRA6Tzz5j
+
+**Quoted post** 1920479216845336709: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-05-07 · Post · Attending Scale or Die at @SolanaConf? Join us in the Dev Cave, a dedicated space for anyone needing
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2025-05-07 17:02 UTC (2025-05-07 18:02 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1920162234313150919
+- Metrics (at fetch): bookmark 4, impression 3174, like 28, quote 2, reply 1, retweet 8
+
+> Attending Scale or Die at @SolanaConf? Join us in the Dev Cave, a dedicated space for anyone needing a break from the noise.
+>
+> Work, hang out, chat with fellow devs, test your skills with a secret challenge, and grab some exclusive AR swag ↓
+> https://t.co/DLtvePVOWj
+
+
+---
+
+## 2025-05-06 · Post · We're happy to be part of a collective effort to strengthen security and address MEV-related risks o
+
+
+### Post — @asymmetric_re — 2025-05-06 14:19 UTC (2025-05-06 15:19 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1919758994421244250
+- Metrics (at fetch): bookmark 3, impression 2260, like 30, quote 0, reply 1, retweet 3
+
+> We're happy to be part of a collective effort to strengthen security and address MEV-related risks on @monad_xyz. https://t.co/UM9BBMw22O
+
+**Quoted post** 1918021362825789877: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-04-24 · Post · We're proud to support @commonwarexyz as their primary security and validator infrastructure partner
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2025-04-24 14:13 UTC (2025-04-24 15:13 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1915408654750421076
+- Metrics (at fetch): bookmark 6, impression 3551, like 26, quote 0, reply 0, retweet 5
+
+> We're proud to support @commonwarexyz as their primary security and validator infrastructure partner—helping design and review the foundational components of their modular primitives, and ensuring the Commonware Library is (and stays) production-ready. https://t.co/8cl6umZzwm
+
+**Quoted post** 1915407345414492497: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-04-23 · Post · New blog post: Navigating Vulnerabilities in Solana CPIs, by @dooflin5. It breaks down how unchecked
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2025-04-23 17:00 UTC (2025-04-23 18:00 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1915088417081491818
+- Metrics (at fetch): bookmark 46, impression 6408, like 72, quote 1, reply 2, retweet 23
+
+> New blog post: Navigating Vulnerabilities in Solana CPIs, by @dooflin5. It breaks down how unchecked programs, signer privileges, and account handling pitfalls can lead to exploits—and how developers can design defensively.
+>
+> https://t.co/1RV6OglX58
+
+
+---
+
+## 2025-04-22 · Post · We'll be playing a big role at @SolanaConf this year:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2025-04-22 17:01 UTC (2025-04-22 18:01 WAT)
+
+- URL: https://x.com/asymmetric_re/status/1914726320392818973
+- Metrics (at fetch): bookmark 8, impression 35375, like 118, quote 2, reply 13, retweet 26
+
+> We'll be playing a big role at @SolanaConf this year:
+>
+> - Speaking on designing holistic security programs for high-stakes projects
+> - Hosting a dedicated space for security-focused builders
+> - Awarding a few travel grants
+>
+> Details to come. Accelerate. https://t.co/bPR05TEsmP
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/1914726149277814784/img/MJlwqaTIUgpfC_YR.jpg — no alt text provided by author
 
 
 ---

@@ -19,7 +19,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-11-10 16:25 UTC (2026-11-10 17:25 WAT)
 
 - URL: https://x.com/galnagli/status/2120191027525067042
-- Metrics (at fetch): bookmark 50, impression 9165, like 107, quote 1, reply 13, retweet 6
+- Metrics (at fetch): bookmark 50, impression 9166, like 107, quote 1, reply 13, retweet 6
 
 > Gemini 4 Carbon is now publicly available - It's the world SOTA model on ExploitGym and pentesting. We used the model to find and help fix critical cross-tenant 0-day vulnerabilities, every new iteration directly contribute to defending critical systems.
 >
@@ -35,7 +35,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @galnagli — 2026-10-31 10:35 UTC (2026-10-31 11:35 WAT)
     
     - URL: https://x.com/galnagli/status/2116479102442234094
-    - Metrics (at fetch): bookmark 58, impression 30173, like 314, quote 1, reply 20, retweet 2
+    - Metrics (at fetch): bookmark 58, impression 30174, like 314, quote 1, reply 20, retweet 2
     
     > I'm really enjoying Gemini 4 Carbon, I always find myself asking it how it figures out its way to complex chains - never had so many novel discoveries while bug hunting 
     >
@@ -57,7 +57,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-31 10:35 UTC (2026-10-31 11:35 WAT)
 
 - URL: https://x.com/galnagli/status/2116479102442234094
-- Metrics (at fetch): bookmark 58, impression 30173, like 314, quote 1, reply 20, retweet 2
+- Metrics (at fetch): bookmark 58, impression 30174, like 314, quote 1, reply 20, retweet 2
 
 > I'm really enjoying Gemini 4 Carbon, I always find myself asking it how it figures out its way to complex chains - never had so many novel discoveries while bug hunting 
 >
@@ -134,7 +134,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-29 18:10 UTC (2026-10-29 19:10 WAT)
 
 - URL: https://x.com/galnagli/status/2115868846838227213
-- Metrics (at fetch): bookmark 32, impression 9223, like 129, quote 0, reply 4, retweet 0
+- Metrics (at fetch): bookmark 32, impression 9224, like 129, quote 0, reply 4, retweet 0
 
 > Gemini Cyber 🤝 NASA [pic.x.com/kjUjpqGKQi] https://twitter.com/galnagli/status/2112572671682617413
 
@@ -148,7 +148,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @galnagli — 2026-10-20 15:52 UTC (2026-10-20 16:52 WAT)
     
     - URL: https://x.com/galnagli/status/2112572671682617413
-    - Metrics (at fetch): bookmark 56, impression 16832, like 146, quote 1, reply 3, retweet 5
+    - Metrics (at fetch): bookmark 56, impression 16834, like 146, quote 1, reply 3, retweet 5
     
     > NASA had a flaw that could have allowed threat actors unauthorized access to their Mission AI Hub - a portal that holds plain-text chat history of engineering development, alongside a proxy to specialized government models without restrictions.
     >
@@ -195,7 +195,7 @@ Tags (automatic): AI-assisted hunting
 ### Thread part 2 — @galnagli — 2026-10-28 18:28 UTC (2026-10-28 19:28 WAT)
 
 - URL: https://x.com/galnagli/status/2115510932231037043
-- Metrics (at fetch): bookmark 0, impression 775, like 3, quote 0, reply 1, retweet 0
+- Metrics (at fetch): bookmark 0, impression 776, like 3, quote 0, reply 1, retweet 0
 
 > Great to see how these rapid model iterations directly translate into real-world impact - more to come in our mission to secure the internet 🔄
 >
@@ -243,7 +243,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-27 14:59 UTC (2026-10-27 15:59 WAT)
 
 - URL: https://x.com/galnagli/status/2115095994811732269
-- Metrics (at fetch): bookmark 182, impression 77408, like 423, quote 4, reply 23, repost 13
+- Metrics (at fetch): bookmark 182, impression 77410, like 423, quote 4, reply 23, retweet 13
 
 > woke up to this page on my lovely php honeypot :( 
 >
@@ -265,7 +265,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-24 13:41 UTC (2026-10-24 14:41 WAT)
 
 - URL: https://x.com/galnagli/status/2113989312337621443
-- Metrics (at fetch): bookmark 39, impression 30540, like 153, quote 1, reply 11, retweet 3
+- Metrics (at fetch): bookmark 39, impression 30541, like 153, quote 1, reply 11, retweet 3
 
 > 792d28e89f6e267b730d6e1632452f6702478f8cfd968e55cd6be9d8882e1d34 https://twitter.com/galnagli/status/2110043918196949309
 
@@ -276,7 +276,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @galnagli — 2026-10-13 16:24 UTC (2026-10-13 17:24 WAT)
     
     - URL: https://x.com/galnagli/status/2110043918196949309
-    - Metrics (at fetch): bookmark 96, impression 67954, like 215, quote 1, reply 17, retweet 18
+    - Metrics (at fetch): bookmark 96, impression 67957, like 215, quote 1, reply 17, retweet 18
     
     > Gemini 4 Argon has arrived! The era of super intelligence in cyber security has begun, excited to share more on how we use it to secure the world - and we are just getting started 🌎
     >
@@ -313,7 +313,7 @@ Tags (automatic): SSRF, RCE, AI-assisted hunting
 ### Post — @galnagli — 2026-10-22 19:45 UTC (2026-10-22 20:45 WAT)
 
 - URL: https://x.com/galnagli/status/2113356015983030710
-- Metrics (at fetch): bookmark 39, impression 7700, like 104, quote 0, reply 4, retweet 8
+- Metrics (at fetch): bookmark 39, impression 7701, like 104, quote 0, reply 4, retweet 8
 
 > CVEs are nice, but organization are way more vulnerable to misconfigurations - chasing CVEs is a losing battle against AI-Powered attackers, it has never been easier to materially and autonomously turn entry points into complete post-exploitation intrustion [pic.x.com/6DdqxKC0eG]
 
@@ -414,7 +414,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-21 14:56 UTC (2026-10-21 15:56 WAT)
 
 - URL: https://x.com/galnagli/status/2112921034009530377
-- Metrics (at fetch): bookmark 11, impression 9896, like 78, quote 0, reply 5, retweet 4
+- Metrics (at fetch): bookmark 11, impression 9899, like 78, quote 0, reply 5, retweet 4
 
 > The Gemini 4 Era 👾 https://twitter.com/Google/status/2112914740058181739
 
@@ -446,7 +446,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-21 13:44 UTC (2026-10-21 14:44 WAT)
 
 - URL: https://x.com/galnagli/status/2112902804691943548
-- Metrics (at fetch): bookmark 23, impression 5554, like 91, quote 0, reply 4, retweet 13
+- Metrics (at fetch): bookmark 23, impression 5555, like 91, quote 0, reply 4, retweet 13
 
 > https://php2shell.com
 
@@ -464,7 +464,7 @@ Tags (automatic): RCE
 ### Post — @galnagli — 2026-10-21 13:41 UTC (2026-10-21 14:41 WAT)
 
 - URL: https://x.com/galnagli/status/2112902206152167640
-- Metrics (at fetch): bookmark 177, impression 54946, like 324, quote 7, reply 10, repost 55
+- Metrics (at fetch): bookmark 177, impression 54946, like 324, quote 7, reply 10, retweet 55
 
 > As the embargo is now lifted, find all the information needed on https://php2shell.com/ - the critical RCE vulnerability our research team identified affecting PHP core https://www.wiz.io/blog/php2shell-php-rce [pic.x.com/Yearyd04s4] https://twitter.com/takaichi_sanae/status/2112890642590564386
 
@@ -572,7 +572,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-20 15:52 UTC (2026-10-20 16:52 WAT)
 
 - URL: https://x.com/galnagli/status/2112572671682617413
-- Metrics (at fetch): bookmark 56, impression 16832, like 146, quote 1, reply 3, retweet 5
+- Metrics (at fetch): bookmark 56, impression 16834, like 146, quote 1, reply 3, retweet 5
 
 > NASA had a flaw that could have allowed threat actors unauthorized access to their Mission AI Hub - a portal that holds plain-text chat history of engineering development, alongside a proxy to specialized government models without restrictions.
 >
@@ -621,7 +621,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-13 19:47 UTC (2026-10-13 20:47 WAT)
 
 - URL: https://x.com/galnagli/status/2110095027091210693
-- Metrics (at fetch): bookmark 5, impression 2638, like 10, quote 0, reply 1, retweet 0
+- Metrics (at fetch): bookmark 5, impression 2639, like 10, quote 0, reply 1, retweet 0
 
 > Apply to the Fairwind program and learn more on Gemini 4 Argon without cyber guardrails 
 >
@@ -639,7 +639,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @galnagli — 2026-10-13 16:24 UTC (2026-10-13 17:24 WAT)
 
 - URL: https://x.com/galnagli/status/2110043918196949309
-- Metrics (at fetch): bookmark 96, impression 67954, like 215, quote 1, reply 17, retweet 18
+- Metrics (at fetch): bookmark 96, impression 67957, like 215, quote 1, reply 17, retweet 18
 
 > Gemini 4 Argon has arrived! The era of super intelligence in cyber security has begun, excited to share more on how we use it to secure the world - and we are just getting started 🌎
 >

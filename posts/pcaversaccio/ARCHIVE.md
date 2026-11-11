@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 26
-- Conversations/threads: 26
-- Oldest post captured: 2025-05-27
+- Posts in this file: 37
+- Conversations/threads: 37
+- Oldest post captured: 2024-12-24
 - Newest post captured: 2026-09-03
 
 
@@ -454,3 +454,194 @@ Tags (automatic): Smart contract / DeFi
 - Metrics (at fetch): bookmark 17, impression 24416, like 210, quote 7, reply 25, retweet 21
 
 > There is nothing I want more than for Ethereum to lead on privacy (scalability has always been a second priority for me tbh; not implying it's not important to be clear). Not conditional privacy. Unconditional. Long-term, I shouldn't need to interact with a smart contract just to
+
+
+---
+
+## 2025-03-18 · Post · Alright folks, a new nice update was just shipped to the safe-tx-hashes-util script. Some security c
+
+
+### Post — @pcaversaccio — 2025-03-18 12:12 UTC (2025-03-18 13:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1901969958998770106
+- Metrics (at fetch): bookmark 13, impression 10275, like 86, quote 0, reply 5, retweet 16
+
+> Alright folks, a new nice update was just shipped to the safe-tx-hashes-util script. Some security councils use so-called nested Safes as signers (i.e. use a Safe as a signatory to another Safe). When a nested Safe needs to approve a transaction on the primary Safe, it must call https://t.co/vqCP3EAoZG https://t.co/9mSrwc9y17
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmUj5rMXsAAxxdQ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GmUj7quasAA8cLn.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GmUj97ubQAADzMD.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GmUj_i-aYAAn1kc.jpg — no alt text provided by author
+
+**Quoted post** 1899443578666954783: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-03-15 · Post · Look, if there's a consensus to ship the current version of EOF (and you all know where I stand on t
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2025-03-15 13:33 UTC (2025-03-15 14:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1900903213382979673
+- Metrics (at fetch): bookmark 9, impression 34258, like 96, quote 2, reply 10, retweet 3
+
+> Look, if there's a consensus to ship the current version of EOF (and you all know where I stand on this), let's debut it on L2s first. If they find value, they'll embrace it. If not, it'll send a loud, clear signal. https://t.co/xIMmaRM4F5
+
+**Quoted post** 1900200732000759892: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-03-09 · Post · Look guys, the Pectra fork upgrade issues on Holesky and Sepolia are a stark reminder that even seem
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2025-03-09 10:46 UTC (2025-03-09 11:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1898686880343810054
+- Metrics (at fetch): bookmark 27, impression 29977, like 303, quote 7, reply 13, retweet 21
+
+> Look guys, the Pectra fork upgrade issues on Holesky and Sepolia are a stark reminder that even seemingly 'trivial' changes can unravel into major disruptions (check how many days Holesky was down). Complexity isn't always obvious—it lurks beneath the surface, waiting to break
+
+
+---
+
+## 2025-03-05 · Post · Bybit effectively signed an _untrusted_ delegatecall transaction and unfortunately the rest is histo
+
+
+### Post — @pcaversaccio — 2025-03-05 18:50 UTC (2025-03-05 19:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1897358972614590764
+- Metrics (at fetch): bookmark 94, impression 58238, like 286, quote 2, reply 13, retweet 46
+
+> Bybit effectively signed an _untrusted_ delegatecall transaction and unfortunately the rest is history. To prevent these kinds of mistakes and discourage anyone from signing such transactions, I've just added warnings for _untrusted_ delegatecalls in my Safe tx hashes script. You https://t.co/FXpSFiYXRL https://t.co/BmY9S8QdTA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlTBEQSXsAA3CNx.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GlTDRHtWgAAqcyQ.jpg — no alt text provided by author
+
+**Quoted post** 1892976342649466916: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-22 · Post · Look, it's actually pretty simple: UIs, infra, dependencies etc. can and will be corrupted. When you
+
+
+### Post — @pcaversaccio — 2025-02-22 19:14 UTC (2025-02-22 20:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1893378769378848932
+- Metrics (at fetch): bookmark 21, impression 15463, like 122, quote 6, reply 10, retweet 24
+
+> Look, it's actually pretty simple: UIs, infra, dependencies etc. can and will be corrupted. When you hit the buttons on the hardware device, that's when you need to be 100% sure what you sign. The MOST important part is the screen on your hardware device and what it displays and
+
+
+---
+
+## 2025-02-19 · Post · The Odos protocol exploit was a very interesting hack as the ERC reference implementation was inheri
+
+
+### Post — @pcaversaccio — 2025-02-19 20:37 UTC (2025-02-19 21:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1892312533878317174
+- Metrics (at fetch): bookmark 26, impression 7425, like 50, quote 2, reply 1, retweet 11
+
+> The Odos protocol exploit was a very interesting hack as the ERC reference implementation was inherited which you should absolutely _not_ do here. ERC-6492 is a final ERC which can't be amended usually, but there is a real-world case now justifying an amendment of the reference https://t.co/WQEdnPFpB4 https://t.co/z2y20iAJI2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkLW9gUX0AEHmST.jpg — no alt text provided by author
+
+**Quoted post** 1892307129815486555: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-19 · Post · Ethereum is this fucking phenomenal economic playground—the biggest we'll witness in our lifetime. I
+
+
+### Post — @pcaversaccio — 2025-02-19 13:37 UTC (2025-02-19 14:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1892206996671377917
+- Metrics (at fetch): bookmark 6, impression 6531, like 81, quote 2, reply 7, retweet 9
+
+> Ethereum is this fucking phenomenal economic playground—the biggest we'll witness in our lifetime. It's a wild frontier, open to boundless experimentation, but that also means it's a hunting ground for criminals. The real issue isn't just scams or crime (and yeah, I'm not
+
+
+---
+
+## 2025-02-15 · Post · Before anyone panics, if wallets strictly follow RFC 6979 (nonces are derived deterministically from
+
+
+### Post — @pcaversaccio — 2025-02-15 14:55 UTC (2025-02-15 15:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1890776888601178516
+- Metrics (at fetch): bookmark 21, impression 14171, like 50, quote 1, reply 0, retweet 8
+
+> Before anyone panics, if wallets strictly follow RFC 6979 (nonces are derived deterministically from the hashed message), their input-to-bytes conversion is not erroneous, and doesn't allow custom nonce injection, everything should be safe. 
+>
+> https://t.co/juPSxN79aC
+>
+> I'm all for https://t.co/tBLiK4Liwh https://t.co/JCIaGjsUZV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gj1jj2TXcAAu-a6.jpg — no alt text provided by author
+
+**Quoted post** 1890773644386730464: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-31 · Post · 1/ Guys, what a fucking insane year at SEAL 911. It's been a hell of a ride—showing just how fucking
+
+
+### Post — @pcaversaccio — 2024-12-31 10:19 UTC (2024-12-31 11:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1874037752431358442
+- Metrics (at fetch): bookmark 67, impression 56924, like 435, quote 5, reply 22, retweet 78
+
+> 1/ Guys, what a fucking insane year at SEAL 911. It's been a hell of a ride—showing just how fucking far behind we are in securing our industry, but also proving why SEAL 911 matters so damn much. Alright, I know, I know you want some stats for 2024, and here we go:
+> - Handled https://t.co/Zl3XADaGGG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GgHqeKaXMAAHdn-.png — no alt text provided by author
+
+
+---
+
+## 2024-12-25 · Post · Looks like there was a pretty ugly deanonymisation vulnerability present in Wasabi wallets until rec
+
+
+### Post — @pcaversaccio — 2024-12-25 07:59 UTC (2024-12-25 08:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1871828171558998248
+- Metrics (at fetch): bookmark 6, impression 3519, like 32, quote 0, reply 2, retweet 6
+
+> Looks like there was a pretty ugly deanonymisation vulnerability present in Wasabi wallets until recently (specifically related to CoinJoins). Such disclosures always remind me how hard it is to implement true privacy into your applications. But it's definitely worth the battle. https://t.co/wI16kHb6nn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GfoQR6TXwAA8-YH.png — no alt text provided by author
+
+
+---
+
+## 2024-12-24 · Post · Oh, gather 'round, distinguished guests, for I present to you HL's absolutely ground-breaking bug bo
+
+
+### Post — @pcaversaccio — 2024-12-24 10:26 UTC (2024-12-24 11:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1871502594629378306
+- Metrics (at fetch): bookmark 34, impression 234319, like 439, quote 21, reply 31, retweet 18
+
+> Oh, gather 'round, distinguished guests, for I present to you HL's absolutely ground-breaking bug bounty program https://t.co/GPNpU2D24w
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GfjpIfrXgAAfzCq.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GfjpJkmXoAAy702.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GfjpLWdWUAA26n0.jpg — no alt text provided by author

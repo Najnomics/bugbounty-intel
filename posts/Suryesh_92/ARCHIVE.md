@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 34
-- Conversations/threads: 29
-- Oldest post captured: 2025-04-28
+- Posts in this file: 52
+- Conversations/threads: 46
+- Oldest post captured: 2025-02-12
 - Newest post captured: 2026-11-04
 
 
@@ -652,3 +652,315 @@ Tags (automatic): XSS, Platform: HackerOne, Platform: Bugcrowd
 > #bugbounty #bounty #intigriti https://t.co/n13HtFa2ac
 
 **Quoted post** 1916852868847484945: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-04-28 · Post · First Bounty From @intigriti Platform
+
+
+### Post — @Suryesh_92 — 2025-04-28 13:36 UTC (2025-04-28 14:36 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1916848889862168770
+- Metrics (at fetch): bookmark 2, impression 1078, like 31, quote 0, reply 3, retweet 1
+
+> First Bounty From @intigriti Platform
+>
+> Just scored a reward @intigriti, check my profile: https://app.intigriti.com/profile/hacker_anonymous 
+>
+> #HackWithIntigriti #bounty #bugbountytip #intigriti
+
+**Links in post:** https://app.intigriti.com/profile/hacker_anonymous
+
+
+---
+
+## 2025-04-21 · Thread · Bounty
+
+
+### Post — @Suryesh_92 — 2025-04-21 12:40 UTC (2025-04-21 13:40 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1914298270886850712
+- Metrics (at fetch): bookmark 16, impression 2981, like 60, quote 0, reply 6, retweet 0
+
+> Bounty
+>
+> #bugbounty #BugBounty #bounty #standoff #standoff365 [pic.x.com/MrXZK8EVJP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpDyokPbAAAaXIC.png — no alt text provided by author
+
+
+### Thread part 2 — @Suryesh_92 — 2025-04-21 12:40 UTC (2025-04-21 13:40 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1914298274447757389
+- Metrics (at fetch): bookmark 13, impression 462, like 7, quote 0, reply 0, retweet 1
+
+> Exploit
+>
+> https://github.com/Suryesh/Firebase_Checker
+
+**Links in post:** https://github.com/Suryesh/Firebase_Checker
+
+
+---
+
+## 2025-04-04 · Post · @arshadkazmi42 @Hacker0x01 It findings 99% false positives. I can't say it's not finding secrets but
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Suryesh_92 — 2025-04-04 01:41 UTC (2025-04-04 02:41 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1907971640211972205
+- Metrics (at fetch): bookmark 0, impression 278, like 7, quote 0, reply 2, retweet 0
+
+> @arshadkazmi42 @Hacker0x01 It findings 99% false positives. I can't say it's not finding secrets but not verifying the credentials or secrets very well. Even though I can explain it more on google meet or zoom. So if you explain it very well like why ur tool marking false company then I'll purchase it 😁.
+
+
+---
+
+## 2025-04-01 · Post · Go ahead and check it out ✅.
+
+
+### Post — @Suryesh_92 — 2025-04-01 14:49 UTC (2025-04-01 15:49 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1907082934005440588
+- Metrics (at fetch): bookmark 1, impression 617, like 11, quote 0, reply 0, retweet 0
+
+> Go ahead and check it out ✅.
+>
+> #BugBounty #bugbountytip #Bounty #Bugs https://twitter.com/Mr_mars_hacker/status/1907080541582545218
+
+**Links in post:** https://twitter.com/Mr_mars_hacker/status/1907080541582545218
+
+**Quoted post** 1907080541582545218: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-03-27 · Post · LoL, 😂😂 
+
+
+### Post — @Suryesh_92 — 2025-03-27 13:28 UTC (2025-03-27 14:28 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1905250646577549312
+- Metrics (at fetch): bookmark 6, impression 2083, like 22, quote 0, reply 5, retweet 0
+
+> LoL, 😂😂 
+>
+> BTW Thanks for swag 😏😏😊☺️.
+>
+> #BugBounty #bounty [pic.x.com/NJMzBTQ9nk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnDPXA8WgAAa1ph.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GnDPXBlXsAAXUQj.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-24 · Post · Not hunting on any program since 1 week due to my father condition but still some good program rewar
+
+
+### Post — @Suryesh_92 — 2025-03-24 11:39 UTC (2025-03-24 12:39 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1904135889850396838
+- Metrics (at fetch): bookmark 19, impression 2874, like 55, quote 1, reply 1, retweet 2
+
+> Not hunting on any program since 1 week due to my father condition but still some good program rewarded small bounty.  
+>
+> whoever sent DM on Discord, X, etc. very soon i'll reply to all of you. #BugBounty #bounty #bug #standoff #infosec #tools [pic.x.com/naMvS8sgwT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmzZBUsaoAAW7ys.png — no alt text provided by author
+
+
+---
+
+## 2025-03-13 · Post · This is just beginning, Thank you @HackenProof 
+
+
+Tags (automatic): Platform: HackenProof
+
+
+### Post — @Suryesh_92 — 2025-03-13 12:02 UTC (2025-03-13 13:02 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1900155440878805033
+- Metrics (at fetch): bookmark 6, impression 5570, like 46, quote 1, reply 9, retweet 0
+
+> This is just beginning, Thank you @HackenProof 
+>
+> #BugBounty #bug #bugs #hackenproof [pic.x.com/eFyTZVtux0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gl61BFTbUAAlrRQ.png — no alt text provided by author
+
+
+---
+
+## 2025-03-11 · Post · Yay, rewarded Bounty 🥳🥳🥳
+
+
+### Post — @Suryesh_92 — 2025-03-11 11:48 UTC (2025-03-11 12:48 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1899427198085607920
+- Metrics (at fetch): bookmark 9, impression 2691, like 71, quote 0, reply 4, retweet 1
+
+> Yay, rewarded Bounty 🥳🥳🥳
+>
+> #BugBounty #bugbounty #Bugs #bug #infosec #standoff #standoff365 #bounty [pic.x.com/lp7CgSc3R6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlweedabYAA50H7.png — no alt text provided by author
+
+
+---
+
+## 2025-03-07 · Post · Hi @spectrocoin 👋, on 22 February, I reported security vulnerabilities. I'm not getting any response
+
+
+### Post — @Suryesh_92 — 2025-03-07 17:49 UTC (2025-03-07 18:49 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1898068412787818853
+- Metrics (at fetch): bookmark 2, impression 1914, like 10, quote 1, reply 5, retweet 0
+
+> Hi @spectrocoin 👋, on 22 February, I reported security vulnerabilities. I'm not getting any response Even though I contacted 2-3 times to your support but still I didn't get any response till now. I'm also attaching a screenshot of the conversation between me &amp; the support team. [pic.x.com/LvJSmamZxl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GldLKXmbwAIQ1vV.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-05 · Post · Rewarded Bounty 
+
+
+### Post — @Suryesh_92 — 2025-03-05 14:46 UTC (2025-03-05 15:46 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1897297591991460185
+- Metrics (at fetch): bookmark 11, impression 3590, like 89, quote 0, reply 5, retweet 1
+
+> Rewarded Bounty 
+>
+> #bugbounty #BugBounty #bounty #bugbountytips #standoff #standoff365 #infosec #hacker #hacking [pic.x.com/fPty9ICGZu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlSNmQ9WUAATIu-.png — no alt text provided by author
+
+
+---
+
+## 2025-03-05 · Post · Wtf 😂😂🤣🤣🤣 going on @Bugcrowd . Report disclosed without resolved 😅😅.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Suryesh_92 — 2025-03-05 05:50 UTC (2025-03-05 06:50 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1897162841368719466
+- Metrics (at fetch): bookmark 28, impression 7241, like 120, quote 0, reply 3, retweet 7
+
+> Wtf 😂😂🤣🤣🤣 going on @Bugcrowd . Report disclosed without resolved 😅😅.
+>
+> #BugBounty #bugcrowd [pic.x.com/4raC89gn78]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlQThWfXsAA622F.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-28 · Post · Hi Guys, I completed one of the most interesting tool , going to release during live session. very s
+
+
+### Post — @Suryesh_92 — 2025-02-28 15:50 UTC (2025-02-28 16:50 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1895501901791482005
+- Metrics (at fetch): bookmark 41, impression 7181, like 73, quote 3, reply 2, retweet 4
+
+> Hi Guys, I completed one of the most interesting tool , going to release during live session. very soon I and our team (@Mr_mars_hacker , @OreoBiscui74046 and some other ) will do live session on bug bounty. i hope you will learn something new.
+> Stay tuned ✅
+> #BugBounty #bug [pic.x.com/YxGKeAeukb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gk4sOyhXQAA4bV-.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-26 · Post · Critical Duplicate 🥲🥲😐😐
+
+
+### Post — @Suryesh_92 — 2025-02-26 15:46 UTC (2025-02-26 16:46 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1894776025558532402
+- Metrics (at fetch): bookmark 5, impression 3024, like 62, quote 0, reply 4, retweet 1
+
+> Critical Duplicate 🥲🥲😐😐
+>
+> #bugbounty #BugBounty #yeswehack [pic.x.com/ZO8Y2lLop8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkuYdE9WwAEUK1s.png — no alt text provided by author
+
+
+---
+
+## 2025-02-19 · Post · Again rewarded bounty on @StandoffBB 
+
+
+### Post — @Suryesh_92 — 2025-02-19 14:11 UTC (2025-02-19 15:11 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1892215340932698441
+- Metrics (at fetch): bookmark 10, impression 2817, like 52, quote 0, reply 5, retweet 1
+
+> Again rewarded bounty on @StandoffBB 
+>
+> #BugBounty #bug #Security #hacking [pic.x.com/TLerttRm9b]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkJ_0w-WIAAkJlK.png — no alt text provided by author
+
+
+---
+
+## 2025-02-19 · Post · But today God was in the mood to help in financial crises for my brother 🥹🥹🥲.
+
+
+### Post — @Suryesh_92 — 2025-02-19 13:53 UTC (2025-02-19 14:53 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1892210793606680931
+- Metrics (at fetch): bookmark 0, impression 512, like 4, quote 0, reply 2, retweet 0
+
+> But today God was in the mood to help in financial crises for my brother 🥹🥹🥲.
+>
+> #BugBounty #bug
+
+
+---
+
+## 2025-02-17 · Post · @i_am_mayor_ So if you guy's will help then we will share the bounty
+
+
+### Post — @Suryesh_92 — 2025-02-17 14:46 UTC (2025-02-17 15:46 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1891499433960804621
+- Metrics (at fetch): bookmark 0, impression 46, like 1, quote 0, reply 0, retweet 0
+
+> @i_am_mayor_ So if you guy's will help then we will share the bounty
+
+
+---
+
+## 2025-02-12 · Post · @aryan351985 Tab pata Chala bounty to 3 July 2024 ko hi mil chuka hai or abhi tak ye jhut bol rahi h
+
+
+### Post — @Suryesh_92 — 2025-02-12 07:03 UTC (2025-02-12 08:03 WAT)
+
+- URL: https://x.com/Suryesh_92/status/1889571099685298305
+- Metrics (at fetch): bookmark 0, impression 38, like 0, quote 0, reply 1, retweet 0
+
+> @aryan351985 Tab pata Chala bounty to 3 July 2024 ko hi mil chuka hai or abhi tak ye jhut bol rahi h

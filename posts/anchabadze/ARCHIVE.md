@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 26
-- Conversations/threads: 26
-- Oldest post captured: 2026-10-20
+- Posts in this file: 33
+- Conversations/threads: 33
+- Oldest post captured: 2026-10-05
 - Newest post captured: 2026-11-11
 
 
@@ -359,7 +359,45 @@ Tags (automatic): AI-assisted hunting
                                                                             
                                                                             **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                                             
-                                                                            **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                                                - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                                                
+                                                                                > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 7 hours
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                                > - Public audit
+                                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                                                
+                                                                                **Quoted post (full text):**
+                                                                                
+                                                                                    #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                                                    
+                                                                                    - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                                                    - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                                                    
+                                                                                    > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                                                    >
+                                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                                    > 🔎 Focus: Auditing
+                                                                                    > 🛠️ Practical work:
+                                                                                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                                    > - Public audit
+                                                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                                                    
+                                                                                    **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                                                    
+                                                                                    **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                                                    
+                                                                                
                                                                             
                                                                         
                                                                     
@@ -712,7 +750,45 @@ Tags (automatic): AI-assisted hunting
                                                                         
                                                                         **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                                         
-                                                                        **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                                            - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                                            
+                                                                            > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 7 hours
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                            > - Public audit
+                                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                                            
+                                                                            **Quoted post (full text):**
+                                                                            
+                                                                                #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                                                
+                                                                                - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                                                - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                                                
+                                                                                > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                                                >
+                                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                                > 🔎 Focus: Auditing
+                                                                                > 🛠️ Practical work:
+                                                                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                                > - Public audit
+                                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                                                
+                                                                                **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                                                
+                                                                                **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                                                
+                                                                            
                                                                         
                                                                     
                                                                 
@@ -1051,7 +1127,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                                                                     
                                                                     **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                                     
-                                                                    **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                                        - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 7 hours
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                        > - Public audit
+                                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                                        
+                                                                        **Quoted post (full text):**
+                                                                        
+                                                                            #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                                            
+                                                                            - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                                            - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                                            
+                                                                            > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                                            >
+                                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                                            > 🔎 Focus: Auditing
+                                                                            > 🛠️ Practical work:
+                                                                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                            > - Public audit
+                                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                                            
+                                                                            **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                                            
+                                                                            **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                                            
+                                                                        
                                                                     
                                                                 
                                                             
@@ -1372,7 +1486,45 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
                                                                 
                                                                 **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                                 
-                                                                **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                                    - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 7 hours
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                    > - Public audit
+                                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                                    
+                                                                    **Quoted post (full text):**
+                                                                    
+                                                                        #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                                        
+                                                                        - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                                        - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                                        
+                                                                        > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                                        >
+                                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                                        > 🔎 Focus: Auditing
+                                                                        > 🛠️ Practical work:
+                                                                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                        > - Public audit
+                                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                                        
+                                                                        **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                                        
+                                                                        **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                                        
+                                                                    
                                                                 
                                                             
                                                         
@@ -1674,7 +1826,45 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
                                                             
                                                             **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                             
-                                                            **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                                - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 7 hours
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                > - Public audit
+                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                                
+                                                                **Quoted post (full text):**
+                                                                
+                                                                    #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                                    
+                                                                    - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                                    - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                                    
+                                                                    > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                                    >
+                                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                                    > 🔎 Focus: Auditing
+                                                                    > 🛠️ Practical work:
+                                                                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                    > - Public audit
+                                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                                    
+                                                                    **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                                    
+                                                                    **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                                    
+                                                                
                                                             
                                                         
                                                     
@@ -1954,7 +2144,45 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
                                                         
                                                         **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                         
-                                                        **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                            - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 7 hours
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                            > - Public audit
+                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                            
+                                                            **Quoted post (full text):**
+                                                            
+                                                                #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                                
+                                                                - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                                - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                                
+                                                                > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                                >
+                                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                                > 🔎 Focus: Auditing
+                                                                > 🛠️ Practical work:
+                                                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                                > - Public audit
+                                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                                
+                                                                **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                                
+                                                                **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                                
+                                                            
                                                         
                                                     
                                                 
@@ -2249,7 +2477,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                                                     
                                                     **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                     
-                                                    **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                        - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 7 hours
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                        > - Public audit
+                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                        
+                                                        **Quoted post (full text):**
+                                                        
+                                                            #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                            
+                                                            - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                            - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                            
+                                                            > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                            >
+                                                            > 🕰️ Hours worked: 6 hours 30 min
+                                                            > 🔎 Focus: Auditing
+                                                            > 🛠️ Practical work:
+                                                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                            > - Public audit
+                                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                            
+                                                            **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                            
+                                                            **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                            
+                                                        
                                                     
                                                 
                                             
@@ -2494,7 +2760,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                                                 
                                                 **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                                 
-                                                **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                    - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 7 hours
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                    > - Public audit
+                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                    
+                                                    **Quoted post (full text):**
+                                                    
+                                                        #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                        
+                                                        - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                        - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                        
+                                                        > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                        >
+                                                        > 🕰️ Hours worked: 6 hours 30 min
+                                                        > 🔎 Focus: Auditing
+                                                        > 🛠️ Practical work:
+                                                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                        > - Public audit
+                                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                        
+                                                        **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                        
+                                                        **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                        
+                                                    
                                                 
                                             
                                         
@@ -2720,7 +3024,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                                             
                                             **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                             
-                                            **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2112667863157026876
+                                                - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 7 hours
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                > - Public audit
+                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                                
+                                                **Quoted post (full text):**
+                                                
+                                                    #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                    
+                                                    - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                    - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                    
+                                                    > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                    >
+                                                    > 🕰️ Hours worked: 6 hours 30 min
+                                                    > 🔎 Focus: Auditing
+                                                    > 🛠️ Practical work:
+                                                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                    > - Public audit
+                                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                    
+                                                    **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                    
+                                                    **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                    
+                                                
                                             
                                         
                                     
@@ -2925,7 +3267,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                                         
                                         **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                         
-                                        **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2112667863157026876
+                                            - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 7 hours
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                            > - Public audit
+                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                            
+                                            **Quoted post (full text):**
+                                            
+                                                #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                                
+                                                - URL: https://x.com/anchabadze/status/2112310353728299397
+                                                - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                                
+                                                > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                                >
+                                                > 🕰️ Hours worked: 6 hours 30 min
+                                                > 🔎 Focus: Auditing
+                                                > 🛠️ Practical work:
+                                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                                > - Public audit
+                                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                                
+                                                **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                                
+                                                **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                                
+                                            
                                         
                                     
                                 
@@ -3113,7 +3493,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                                     
                                     **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                     
-                                    **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2112667863157026876
+                                        - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 7 hours
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                        > - Public audit
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/2112310353728299397
+                                            - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 6 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                            > - Public audit
+                                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                            
+                                            **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                            
+                                            **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                            
+                                        
                                     
                                 
                             
@@ -3347,7 +3765,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                                 
                                 **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                                 
-                                **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2112667863157026876
+                                    - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 7 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                    > - Public audit
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/2112310353728299397
+                                        - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 6 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                        > - Public audit
+                                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                        
+                                        **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                        
+                                        **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                        
+                                    
                                 
                             
                         
@@ -3550,7 +4006,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                             
                             **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                             
-                            **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2112667863157026876
+                                - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 7 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                > - Public audit
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/2112310353728299397
+                                    - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 6 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                    > - Public audit
+                                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                    
+                                    **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                    
+                                    **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                    
+                                
                             
                         
                     
@@ -3685,7 +4179,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                         
                         **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                         
-                        **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2112667863157026876
+                            - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 7 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                            > - Public audit
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/2112310353728299397
+                                - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 6 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                                > - Public audit
+                                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                                
+                                **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                                
+                                **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                                
+                            
                         
                     
                 
@@ -3801,7 +4333,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                     
                     **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                     
-                    **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2112667863157026876
+                        - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 7 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                        > - Public audit
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/2112310353728299397
+                            - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 6 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                            > - Public audit
+                            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                            
+                            **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                            
+                            **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                            
+                        
                     
                 
             
@@ -3896,7 +4466,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
                 
                 **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
                 
-                **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2112667863157026876
+                    - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 7 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                    > - Public audit
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/2112310353728299397
+                        - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 6 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                        > - Public audit
+                        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                        
+                        **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                        
+                        **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                        
+                    
                 
             
         
@@ -3973,7 +4581,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
             
             **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
             
-            **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2112667863157026876
+                - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 7 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                > - Public audit
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/2112310353728299397
+                    - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 6 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                    > - Public audit
+                    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                    
+                    **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                    
+                    **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                    
+                
             
         
     
@@ -4033,7 +4679,45 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
         
         **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
         
-        **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2112667863157026876
+            - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 7 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+            > - Public audit
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2112310353728299397
+                - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+                > - Public audit
+                > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+                
+                **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+                
+            
         
     
 
@@ -4078,7 +4762,45 @@ Tags (automatic): Smart contract / DeFi
     
     **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
     
-    **Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2112667863157026876
+        - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+        > - Public audit
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2112310353728299397
+            - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+            > - Public audit
+            > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+            
+            **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+            
+        
     
 
 
@@ -4141,7 +4863,45 @@ Tags (automatic): AI-assisted hunting
 
 **Links in post:** https://twitter.com/anchabadze/status/2112667863157026876
 
-**Quoted post** 2112667863157026876: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2112667863157026876
+    - Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+    > - Public audit
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2112310353728299397
+        - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+        > - Public audit
+        > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+        
+        **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+        
+    
 
 
 ---
@@ -4159,3 +4919,259 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://twitter.com/ret2basic/status/2112533279341773110
 
 **Quoted post** 2112533279341773110: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-20 · Post · 🎯 Day 542 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-20 22:10 UTC (2026-10-20 23:10 WAT)
+
+- URL: https://x.com/anchabadze/status/2112667863157026876
+- Metrics (at fetch): bookmark 0, impression 460, like 9, quote 1, reply 0, retweet 0
+
+> 🎯 Day 542 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+> - Public audit
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112310353728299397
+
+**Links in post:** https://twitter.com/anchabadze/status/2112310353728299397
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2112310353728299397
+    - Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+    > - Public audit
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+    
+    **Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-10-20 · Post · Watched @0xFlint_'s video on his auditing methodology and use of AI as part of @yAuditDAO's AI + Blo
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-20 17:32 UTC (2026-10-20 18:32 WAT)
+
+- URL: https://x.com/anchabadze/status/2112597744510447909
+- Metrics (at fetch): bookmark 12, impression 605, like 16, quote 0, reply 2, retweet 3
+
+> Watched @0xFlint_'s video on his auditing methodology and use of AI as part of @yAuditDAO's AI + Blockchain Security Fellowship.
+>
+> He highlighted the importance of diagrams for understanding protocols. That's exactly why I built Solidity Flowboard and use it every day in my [pic.x.com/Y3XUDjK2av] https://twitter.com/anchabadze/status/2059302777252176278
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVF0cojWsAI9kuE.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/anchabadze/status/2059302777252176278
+
+**Quoted post** 2059302777252176278: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-19 · Post · 🎯 Day 541 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-19 22:30 UTC (2026-10-19 23:30 WAT)
+
+- URL: https://x.com/anchabadze/status/2112310353728299397
+- Metrics (at fetch): bookmark 0, impression 494, like 5, quote 1, reply 0, retweet 0
+
+> 🎯 Day 541 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Studied materials from @yAuditDAO's AI + Blockchain Security Fellowship
+> - Public audit
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2112089498226143288
+
+**Links in post:** https://twitter.com/anchabadze/status/2112089498226143288
+
+**Quoted post** 2112089498226143288: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-09 · Post · 🎯 Day 530 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-09 21:07 UTC (2026-10-09 22:07 WAT)
+
+- URL: https://x.com/anchabadze/status/2108665633034342774
+- Metrics (at fetch): bookmark 0, impression 390, like 7, quote 1, reply 0, retweet 0
+
+> 🎯 Day 530 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Public audit
+> - Building AI Agent for smart contract audits
+> - Read several web3 sec articles
+> - Watched web3 security video https://twitter.com/anchabadze/status/2108352441196617909
+
+**Links in post:** https://twitter.com/anchabadze/status/2108352441196617909
+
+**Quoted post** 2108352441196617909: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-10-06 · Post · 🎯 Day 528 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-06 22:07 UTC (2026-10-06 23:07 WAT)
+
+- URL: https://x.com/anchabadze/status/2107593592588190096
+- Metrics (at fetch): bookmark 0, impression 338, like 2, quote 1, reply 0, retweet 0
+
+> 🎯 Day 528 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits
+> - Read several AI web3 sec articles https://twitter.com/anchabadze/status/2107255879699411231
+
+**Links in post:** https://twitter.com/anchabadze/status/2107255879699411231
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-10-05 23:45 UTC (2026-10-06 00:45 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2107255879699411231
+    - Metrics (at fetch): bookmark 0, impression 390, like 7, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 527 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Bug Bounty hunting
+    > - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2107038918780604887
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2107038918780604887
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-10-05 09:23 UTC (2026-10-05 10:23 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2107038918780604887
+        - Metrics (at fetch): bookmark 0, impression 363, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 526 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read several web3 sec articles
+        > - Read and studied several bug bounty writeups https://twitter.com/anchabadze/status/2106508762617889145
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2106508762617889145
+        
+        **Quoted post** 2106508762617889145: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2026-10-05 · Post · 🎯 Day 527 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-10-05 23:45 UTC (2026-10-06 00:45 WAT)
+
+- URL: https://x.com/anchabadze/status/2107255879699411231
+- Metrics (at fetch): bookmark 0, impression 390, like 7, quote 1, reply 1, retweet 0
+
+> 🎯 Day 527 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Bug Bounty hunting
+> - Building AI Agent for smart contract audits https://twitter.com/anchabadze/status/2107038918780604887
+
+**Links in post:** https://twitter.com/anchabadze/status/2107038918780604887
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-10-05 09:23 UTC (2026-10-05 10:23 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2107038918780604887
+    - Metrics (at fetch): bookmark 0, impression 363, like 5, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 526 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read several web3 sec articles
+    > - Read and studied several bug bounty writeups https://twitter.com/anchabadze/status/2106508762617889145
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2106508762617889145
+    
+    **Quoted post** 2106508762617889145: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-10-05 · Post · 🎯 Day 526 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-10-05 09:23 UTC (2026-10-05 10:23 WAT)
+
+- URL: https://x.com/anchabadze/status/2107038918780604887
+- Metrics (at fetch): bookmark 0, impression 363, like 5, quote 1, reply 0, retweet 0
+
+> 🎯 Day 526 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read several web3 sec articles
+> - Read and studied several bug bounty writeups https://twitter.com/anchabadze/status/2106508762617889145
+
+**Links in post:** https://twitter.com/anchabadze/status/2106508762617889145
+
+**Quoted post** 2106508762617889145: not readable via the API (deleted, private, or withheld).

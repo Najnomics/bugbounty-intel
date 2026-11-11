@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 26
-- Conversations/threads: 23
-- Oldest post captured: 2026-03-23
+- Posts in this file: 28
+- Conversations/threads: 25
+- Oldest post captured: 2026-01-26
 - Newest post captured: 2026-07-30
 
 
@@ -426,3 +426,41 @@ Tags (automatic): RCE
 **Links in post:** https://twitter.com/flatt_sec_en/status/2036087956898021411
 
 **Quoted post** 2036087956898021411: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-01-26 · Post · Another vulnerability in React Server Components (CVE-2026-23864) that I reported was disclosed toda
+
+
+### Post — @ryotkak — 2026-01-26 23:25 UTC (2026-01-27 00:25 WAT)
+
+- URL: https://x.com/ryotkak/status/2015929125631099284
+- Metrics (at fetch): bookmark 512, impression 346365, like 1783, quote 125, reply 75, retweet 229
+
+> Another vulnerability in React Server Components (CVE-2026-23864) that I reported was disclosed today.
+>
+> This is separate from the one disclosed in December, so you'll need to update again.
+>
+> https://vercel.com/changelog/summary-of-cve-2026-23864
+
+**Links in post:** https://vercel.com/changelog/summary-of-cve-2026-23864
+
+
+---
+
+## 2026-01-26 · Post · React Server Componentsに報告していた別の脆弱性 (CVE-2026-23864) が修正されました。
+
+
+### Post — @ryotkak — 2026-01-26 23:24 UTC (2026-01-27 00:24 WAT)
+
+- URL: https://x.com/ryotkak/status/2015928771644395699
+- Metrics (at fetch): bookmark 99, impression 48221, like 380, quote 2, reply 1, retweet 96
+
+> React Server Componentsに報告していた別の脆弱性 (CVE-2026-23864) が修正されました。
+>
+> 昨年12月に修正された脆弱性とは別の脆弱性であるため、再度アップデートを実施してください。
+>
+> https://vercel.com/changelog/summary-of-cve-2026-23864
+
+**Links in post:** https://vercel.com/changelog/summary-of-cve-2026-23864

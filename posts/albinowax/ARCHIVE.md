@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 24
-- Conversations/threads: 18
-- Oldest post captured: 2026-09-25
+- Posts in this file: 59
+- Conversations/threads: 53
+- Oldest post captured: 2026-04-28
 - Newest post captured: 2026-11-04
 
 
@@ -16,7 +16,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @albinowax — 2026-11-04 11:01 UTC (2026-11-04 12:01 WAT)
 
 - URL: https://x.com/albinowax/status/2117935178278371560
-- Metrics (at fetch): bookmark 111, impression 17666, like 267, quote 0, reply 4, repost 5
+- Metrics (at fetch): bookmark 111, impression 17668, like 267, quote 0, reply 4, retweet 5
 
 > $300k for a trusted internal header! I wonder if Param Miner found it... congrats to the discoverer either way! https://twitter.com/dps/status/2117451520837095699
 
@@ -43,7 +43,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @albinowax — 2026-11-02 14:22 UTC (2026-11-02 15:22 WAT)
 
 - URL: https://x.com/albinowax/status/2117261005268869507
-- Metrics (at fetch): bookmark 38, impression 22434, like 328, quote 4, reply 20, repost 35
+- Metrics (at fetch): bookmark 38, impression 22451, like 328, quote 4, reply 20, retweet 35
 
 > I've been nominated for the SANS Difference Makers Awards, in the Red Teamer category! I'd love your vote: https://feedback.sans.org/733559
 > If I win*, I'll share something that genuinely surprised me involving a website, a vulnerability, and GLM 5.3 #SANSDMA #DifferenceMakers
@@ -98,7 +98,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @albinowax — 2026-10-23 13:33 UTC (2026-10-23 14:33 WAT)
 
 - URL: https://x.com/albinowax/status/2113624732952338477
-- Metrics (at fetch): bookmark 15, impression 8504, like 82, quote 0, reply 5, repost 1
+- Metrics (at fetch): bookmark 15, impression 8504, like 82, quote 0, reply 5, retweet 1
 
 > daybreak-blue cares so much about authorisation, I asked it to patch a bug in "scope add" and it removed the feature to make scope read-only 🤣 [pic.x.com/UWJ4Xh7o9C] https://twitter.com/albinowax/status/2107520386678321269
 
@@ -161,7 +161,7 @@ Tags (automatic): Request smuggling / desync
 ### Post — @albinowax — 2026-10-13 13:47 UTC (2026-10-13 14:47 WAT)
 
 - URL: https://x.com/albinowax/status/2110004455244505511
-- Metrics (at fetch): bookmark 33, impression 11733, like 319, quote 0, reply 11, repost 3
+- Metrics (at fetch): bookmark 33, impression 11733, like 319, quote 0, reply 11, retweet 3
 
 > I've started a new research project for Black Hat USA 2027 and I'm pleased to announce it has nothing to do with HTTP Desync Attacks! In spite of my best efforts, HTTP/1.1 isn't going to die anytime soon, but it's time for me to explore something else :)
 >
@@ -274,7 +274,7 @@ Tags (automatic): Request smuggling / desync
 ### Thread part 2 — @albinowax — 2026-10-06 17:16 UTC (2026-10-06 18:16 WAT)
 
 - URL: https://x.com/albinowax/status/2107520456219898238
-- Metrics (at fetch): bookmark 66, impression 4988, like 71, quote 0, reply 0, retweet 11
+- Metrics (at fetch): bookmark 66, impression 4989, like 71, quote 0, reply 0, retweet 11
 
 > Read the full details here: https://portswigger.net/research/the-model-isnt-cooperating
 
@@ -313,7 +313,7 @@ Tags (automatic): Request smuggling / desync
 ### Post — @albinowax — 2026-10-01 11:06 UTC (2026-10-01 12:06 WAT)
 
 - URL: https://x.com/albinowax/status/2105615340088762638
-- Metrics (at fetch): bookmark 191, impression 27464, like 347, quote 0, reply 1, repost 29
+- Metrics (at fetch): bookmark 191, impression 27464, like 347, quote 0, reply 1, retweet 29
 
 > SMTP smuggling is back! Dot-stuffing is a great find, awesome work! https://twitter.com/timolongin/status/2105594181641027959
 
@@ -388,3 +388,578 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 1593, like 10, quote 0, reply 1, retweet 0
 
 > @SamB130775 It often means the report was not valid from their perspective, but not so bad they felt the need to use N/A
+
+
+---
+
+## 2026-09-24 · Post · High-impact findings used to be a core pillar of a good BHUSA/DEFCON presentation, alongside novel i
+
+
+### Post — @albinowax — 2026-09-24 14:04 UTC (2026-09-24 15:04 WAT)
+
+- URL: https://x.com/albinowax/status/2103123395286028349
+- Metrics (at fetch): bookmark 32, impression 10956, like 100, quote 0, reply 9, retweet 0
+
+> High-impact findings used to be a core pillar of a good BHUSA/DEFCON presentation, alongside novel ideas &amp; storytelling. Now they're table stakes... beyond pwning half the planet like @_splitline_, what makes a presentation really land for you?
+
+
+---
+
+## 2026-09-23 · Post · One million requests in 10 seconds, over WiFi. Turbo Intruder 2 has landed! https://t.co/jgwzA6hAVO
+
+
+### Post — @albinowax — 2026-09-23 14:17 UTC (2026-09-23 15:17 WAT)
+
+- URL: https://x.com/albinowax/status/2102764318400102594
+- Metrics (at fetch): bookmark 74, impression 14791, like 159, quote 0, reply 4, retweet 10
+
+> One million requests in 10 seconds, over WiFi. Turbo Intruder 2 has landed! https://t.co/jgwzA6hAVO
+
+**Quoted post** 2102759905262239819: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-09-22 · Post · @SEC_T_org If you missed it first time around, you can find the whitepaper here: https://t.co/pGQnvs
+
+
+### Post — @albinowax — 2026-09-22 15:10 UTC (2026-09-22 16:10 WAT)
+
+- URL: https://x.com/albinowax/status/2102415134409003392
+- Metrics (at fetch): bookmark 1, impression 1210, like 7, quote 0, reply 0, retweet 0
+
+> @SEC_T_org If you missed it first time around, you can find the whitepaper here: https://t.co/pGQnvs4sJ0
+
+
+---
+
+## 2026-09-22 · Post · My latest presentation has landed on YouTube, courtesy of @SEC_T_org! Can AI do novel security resea
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-09-22 15:07 UTC (2026-09-22 16:07 WAT)
+
+- URL: https://x.com/albinowax/status/2102414569163416047
+- Metrics (at fetch): bookmark 59, impression 8028, like 94, quote 1, reply 3, retweet 19
+
+> My latest presentation has landed on YouTube, courtesy of @SEC_T_org! Can AI do novel security research? You know it.
+> https://t.co/ybTJLZVk1N
+
+
+---
+
+## 2026-09-15 · Post · The HTTP Terminator will be back! I'll be presenting at @OffensiveAIcon with a streamlined AI-focuse
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-09-15 13:39 UTC (2026-09-15 14:39 WAT)
+
+- URL: https://x.com/albinowax/status/2099855663740412095
+- Metrics (at fetch): bookmark 9, impression 4812, like 66, quote 0, reply 7, retweet 3
+
+> The HTTP Terminator will be back! I'll be presenting at @OffensiveAIcon with a streamlined AI-focused version of the original presentation, plus fresh research focused on achieving an autonomous discovery cascade. https://t.co/rVEmpkjwq7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HSQttH_XcAAQkgh.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-11 · Post · Thanks to everyone who said hi at SEC-T, it was great to meet you all! Who knew Swedish cities have 
+
+
+### Post — @albinowax — 2026-09-11 16:17 UTC (2026-09-11 17:17 WAT)
+
+- URL: https://x.com/albinowax/status/2098445832567607745
+- Metrics (at fetch): bookmark 0, impression 3547, like 22, quote 0, reply 1, retweet 0
+
+> Thanks to everyone who said hi at SEC-T, it was great to meet you all! Who knew Swedish cities have such intense rivalry :) 
+>
+> It was a great presenter experience too! Sad I couldn’t make the after party… till next time!
+
+
+---
+
+## 2026-09-10 · Post · Two hours till my HTTP Terminator talk kicks off at SEC-T! You can catch the livestream at 9:15 UTC:
+
+
+### Post — @albinowax — 2026-09-10 06:54 UTC (2026-09-10 07:54 WAT)
+
+- URL: https://x.com/albinowax/status/2097941738904080800
+- Metrics (at fetch): bookmark 15, impression 5999, like 51, quote 1, reply 1, retweet 6
+
+> Two hours till my HTTP Terminator talk kicks off at SEC-T! You can catch the livestream at 9:15 UTC:
+> https://t.co/pZfwk4xXcS
+
+
+---
+
+## 2026-09-09 · Post · Just about to land in Stockholm for @SEC_T_org! Can't wait to meet you all - you can catch the final
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-09-09 10:27 UTC (2026-09-09 11:27 WAT)
+
+- URL: https://x.com/albinowax/status/2097632959855522199
+- Metrics (at fetch): bookmark 3, impression 4445, like 39, quote 0, reply 1, retweet 10
+
+> Just about to land in Stockholm for @SEC_T_org! Can't wait to meet you all - you can catch the final public delivery of "Can AI Do Novel Security Research? Meet the HTTP Terminator" at 11:15 tomorrow! Do say hi - I'm very happy to chat research, AI, Burp, lifting... also I have https://t.co/RGb4u2JLRw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HRxJ45UXYAA97Ve.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-02 · Post · This looks genuinely cool! I've never done heavy research into recon (except accidentally via timing
+
+
+### Post — @albinowax — 2026-09-02 12:33 UTC (2026-09-02 13:33 WAT)
+
+- URL: https://x.com/albinowax/status/2095127888425099644
+- Metrics (at fetch): bookmark 59, impression 16174, like 106, quote 0, reply 1, retweet 7
+
+> This looks genuinely cool! I've never done heavy research into recon (except accidentally via timing attacks), since it wasn't a viable standalone research target. This project may change that! https://t.co/2RBiS2cUt1
+
+**Quoted post** 2094713628851065308: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-24 · Post · Next month I'll present my latest research live at @SEC_T_org in Stockholm, Sweden! This will be the
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-08-24 10:15 UTC (2026-08-24 11:15 WAT)
+
+- URL: https://x.com/albinowax/status/2091831632592605359
+- Metrics (at fetch): bookmark 15, impression 7793, like 113, quote 0, reply 4, retweet 10
+
+> Next month I'll present my latest research live at @SEC_T_org in Stockholm, Sweden! This will be the final live edition of "Can AI Do Novel Security Research? Meet the HTTP Terminator". It's also my first time attending SEC-T, can't wait to meet you all! https://t.co/97DcEcV5np
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HQeJIQlXMAEmmpk.jpg — no alt text provided by author
+
+
+---
+
+## 2026-08-10 · Post · Flying home now, just want to say thanks to everyone who said hi! Meeting other hackers and hearing 
+
+
+### Post — @albinowax — 2026-08-10 02:01 UTC (2026-08-10 03:01 WAT)
+
+- URL: https://x.com/albinowax/status/2086634048269545673
+- Metrics (at fetch): bookmark 0, impression 6371, like 58, quote 0, reply 2, retweet 2
+
+> Flying home now, just want to say thanks to everyone who said hi! Meeting other hackers and hearing your stories is always inspiring. Till next time!
+
+
+---
+
+## 2026-08-09 · Post · I'm in the chillout lounge at DEFCON for a bit if anyone wants to chat. Look for the subtle orange 
+
+
+### Post — @albinowax — 2026-08-09 19:03 UTC (2026-08-09 20:03 WAT)
+
+- URL: https://x.com/albinowax/status/2086528922095669267
+- Metrics (at fetch): bookmark 2, impression 6757, like 32, quote 0, reply 3, retweet 0
+
+> I'm in the chillout lounge at #DEFCON for a bit if anyone wants to chat. Look for the subtle orange laptop.
+
+
+---
+
+## 2026-08-08 · Post · If you like novel techniques and HTTP Request Smuggling carnage, you’ll love this talk. https://t.co
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2026-08-08 16:16 UTC (2026-08-08 17:16 WAT)
+
+- URL: https://x.com/albinowax/status/2086124328983412792
+- Metrics (at fetch): bookmark 63, impression 13900, like 144, quote 0, reply 2, retweet 10
+
+> If you like novel techniques and HTTP Request Smuggling carnage, you’ll love this talk. https://t.co/lHWvRDfF7u
+
+**Quoted post** 2086121858458398935: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-08-07 · Post · Hope you enjoyed the show! I'll be hanging out in the chillout longue if anyone wants to meet up. Lo
+
+
+### Post — @albinowax — 2026-08-07 20:16 UTC (2026-08-07 21:16 WAT)
+
+- URL: https://x.com/albinowax/status/2085822311777669138
+- Metrics (at fetch): bookmark 1, impression 1823, like 8, quote 0, reply 0, retweet 0
+
+> Hope you enjoyed the show! I'll be hanging out in the chillout longue if anyone wants to meet up. Look for the orange laptop.
+
+
+---
+
+## 2026-08-07 · Post · 90 minutes till "Can AI do novel security research? Meet the HTTP Terminator" kicks off at DEFCON m
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-08-07 17:31 UTC (2026-08-07 18:31 WAT)
+
+- URL: https://x.com/albinowax/status/2085780973090668604
+- Metrics (at fetch): bookmark 101, impression 21136, like 207, quote 4, reply 5, retweet 30
+
+> 90 minutes till "Can AI do novel security research? Meet the HTTP Terminator" kicks off at #DEFCON main stage 3!  
+>
+> Watch the live-stream here at 1200 PDT
+> https://t.co/R5XqPjIiz7
+
+
+---
+
+## 2026-08-05 · Post · The whitepaper is live! Read "Can AI Do Novel Security Research? Meet the HTTP Terminator" here -&gt
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-08-05 19:34 UTC (2026-08-05 20:34 WAT)
+
+- URL: https://x.com/albinowax/status/2085086940185960770
+- Metrics (at fetch): bookmark 333, impression 26719, like 490, quote 5, reply 5, retweet 145
+
+> The whitepaper is live! Read "Can AI Do Novel Security Research? Meet the HTTP Terminator" here -&gt;
+> https://t.co/4BP8cXSr4e
+
+
+---
+
+## 2026-08-05 · Post · 90 minutes till go time! See you there. If you're not able to make it in person, the whitepaper will
+
+
+### Post — @albinowax — 2026-08-05 17:30 UTC (2026-08-05 18:30 WAT)
+
+- URL: https://x.com/albinowax/status/2085055941016518933
+- Metrics (at fetch): bookmark 17, impression 13690, like 118, quote 1, reply 11, retweet 4
+
+> 90 minutes till go time! See you there. If you're not able to make it in person, the whitepaper will land on our website around 60 minutes later - stay tuned! https://t.co/CuQIZ2XZvY
+
+**Quoted post** 2085053796829614100: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-07-31 · Post · Want to meet the @PortSwiggerRes  team at Black Hat? We'll be hosting a little meetup at the Centra 
+
+
+### Post — @albinowax — 2026-07-31 15:16 UTC (2026-07-31 16:16 WAT)
+
+- URL: https://x.com/albinowax/status/2083210237192921597
+- Metrics (at fetch): bookmark 1, impression 6223, like 44, quote 1, reply 2, retweet 4
+
+> Want to meet the @PortSwiggerRes  team at Black Hat? We'll be hosting a little meetup at the Centra Bar in Luxor - and you may catch us at @PortSwigger's booth #5342 in the vendor hall too. https://t.co/EGmmnUtDlp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOkMm-uXoAEJmWZ.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-30 · Post · In "Can AI Do Novel Security Research?" I'll share:
+
+
+Tags (automatic): Request smuggling / desync, AI-assisted hunting
+
+
+### Post — @albinowax — 2026-07-30 14:48 UTC (2026-07-30 15:48 WAT)
+
+- URL: https://x.com/albinowax/status/2082840835675025805
+- Metrics (at fetch): bookmark 42, impression 7881, like 110, quote 0, reply 5, retweet 16
+
+> In "Can AI Do Novel Security Research?" I'll share:
+> - A research-machine blueprint for AI enthusiasts
+> - Clearly defined AI fail-points for AI dodgers
+> - Extensive insight into what makes security research work
+> - Many many novel desync goodies
+>
+> I'll also publish major updates to https://t.co/9mcXILElcS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOe8jmLW8AAAr0S.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-28 · Post · Next week I'll present "Can AI Do Novel Security Research? Meet the HTTP Terminator" at defcon &amp
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-07-28 14:45 UTC (2026-07-28 15:45 WAT)
+
+- URL: https://x.com/albinowax/status/2082115108436574214
+- Metrics (at fetch): bookmark 41, impression 8711, like 169, quote 3, reply 1, retweet 12
+
+> Next week I'll present "Can AI Do Novel Security Research? Meet the HTTP Terminator" at #defcon &amp; @BlackHatEvents! I'm really excited to share this one - got some spectacular outcomes from a wild research journey. See you there! https://t.co/LwPwzLtFsJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOT7XvnWEAA8ktz.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-27 · Post · Cache Key Poisoning is a really underrated vulnerability class, this talk from @Brumens2 at @BugBoun
+
+
+### Post — @albinowax — 2026-07-27 14:38 UTC (2026-07-27 15:38 WAT)
+
+- URL: https://x.com/albinowax/status/2081750958506447047
+- Metrics (at fetch): bookmark 119, impression 20459, like 258, quote 5, reply 3, retweet 30
+
+> Cache Key Poisoning is a really underrated vulnerability class, this talk from @Brumens2 at @BugBountyDEFCON sounds really interesting! https://t.co/N56Ra1DUFA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOOmuCcW0AADyaH.jpg — no alt text provided by author
+
+
+---
+
+## 2026-07-08 · Post · The field of desync flaws arising from deep implementation bugs is absolutely wild. This finding fro
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2026-07-08 14:35 UTC (2026-07-08 15:35 WAT)
+
+- URL: https://x.com/albinowax/status/2074864867249442926
+- Metrics (at fetch): bookmark 46, impression 12971, like 78, quote 0, reply 3, retweet 12
+
+> The field of desync flaws arising from deep implementation bugs is absolutely wild. This finding from @calif_io using a fake pseudo-header than gets weaponized by a dodgy length calculation is a great example https://t.co/skG9g2LV55
+
+**Quoted post** 2072329095757893822: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-07-07 · Post · Tom Stacey has joined @PortSwiggerRes! Don't miss his @BlackHatEvents &amp; @defcon presentation "CR
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2026-07-07 14:32 UTC (2026-07-07 15:32 WAT)
+
+- URL: https://x.com/albinowax/status/2074501936636653929
+- Metrics (at fetch): bookmark 13, impression 8896, like 41, quote 1, reply 1, retweet 1
+
+> Tom Stacey has joined @PortSwiggerRes! Don't miss his @BlackHatEvents &amp; @defcon presentation "CRLF-Powered Desync Attacks: Beheading HTTP Streams" next month! https://t.co/0Lva5z2tUg
+
+**Quoted post** 2074457327957082623: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-07-03 · Post · This is a great analysis. Narrowing the Response Queue Poisoning race-window is a worthwhile mitigat
+
+
+Tags (automatic): Race condition, Request smuggling / desync
+
+
+### Post — @albinowax — 2026-07-03 14:20 UTC (2026-07-03 15:20 WAT)
+
+- URL: https://x.com/albinowax/status/2073049120114368721
+- Metrics (at fetch): bookmark 30, impression 14929, like 74, quote 0, reply 4, retweet 8
+
+> This is a great analysis. Narrowing the Response Queue Poisoning race-window is a worthwhile mitigation to make desync exploitation harder, but it's not patching a specific vulnerability. Also a great illustration of the blast-radius you get when trying to harden HTTP/1.1... https://t.co/xZGOQJMm6C
+
+**Quoted post** 2072712929179324658: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-06-25 · Post · Posts on fundamentals written by genuine experts are absolute gold-dust. https://t.co/xqNY3coERQ
+
+
+### Post — @albinowax — 2026-06-25 11:59 UTC (2026-06-25 12:59 WAT)
+
+- URL: https://x.com/albinowax/status/2070114751061848238
+- Metrics (at fetch): bookmark 177, impression 25297, like 281, quote 0, reply 1, retweet 30
+
+> Posts on fundamentals written by genuine experts are absolute gold-dust. https://t.co/xqNY3coERQ
+
+**Quoted post** 2069814819599888823: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-06-09 · Post · @defcon The abstract isn't live on the site yet but I put it here: https://t.co/P1f1nWDxFr
+
+
+### Post — @albinowax — 2026-06-09 14:46 UTC (2026-06-09 15:46 WAT)
+
+- URL: https://x.com/albinowax/status/2064358500411584722
+- Metrics (at fetch): bookmark 4, impression 2748, like 10, quote 0, reply 0, retweet 0
+
+> @defcon The abstract isn't live on the site yet but I put it here: https://t.co/P1f1nWDxFr
+
+
+---
+
+## 2026-06-09 · Post · Woo, I can confirm "Can AI Do Novel Security Research? Meet the HTTP Terminator" is coming to @defco
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-06-09 14:43 UTC (2026-06-09 15:43 WAT)
+
+- URL: https://x.com/albinowax/status/2064357763510161664
+- Metrics (at fetch): bookmark 51, impression 14450, like 223, quote 0, reply 4, retweet 35
+
+> Woo, I can confirm "Can AI Do Novel Security Research? Meet the HTTP Terminator" is coming to @defcon! This research was a huge gamble and the result was glorious, can't wait to share! https://t.co/ctQMPMv2pr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKYR0NdXsAEQ8YK.png — no alt text provided by author
+
+
+---
+
+## 2026-06-09 · Post · Wow Black Hat just ditched dark mode! If DEF CON did that there would be riots. https://t.co/LUfFB1j
+
+
+### Post — @albinowax — 2026-06-09 10:25 UTC (2026-06-09 11:25 WAT)
+
+- URL: https://x.com/albinowax/status/2064292837131243873
+- Metrics (at fetch): bookmark 4, impression 4349, like 38, quote 0, reply 3, retweet 1
+
+> Wow Black Hat just ditched dark mode! If DEF CON did that there would be riots. https://t.co/LUfFB1jDVe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKW_AzTXAAABr2P.jpg — no alt text provided by author
+
+
+---
+
+## 2026-05-27 · Post · While researching "Can AI do novel research? Meet the HTTP Terminator" I logged the discovery journe
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-05-27 15:15 UTC (2026-05-27 16:15 WAT)
+
+- URL: https://x.com/albinowax/status/2059654722097697125
+- Metrics (at fetch): bookmark 52, impression 10503, like 148, quote 0, reply 2, retweet 11
+
+> While researching "Can AI do novel research? Meet the HTTP Terminator" I logged the discovery journey behind every breakthrough. My intention was just to flag fully autonomous vs HITL discoveries, but it revealed new facets of how/why my research methodology actually works! https://t.co/VGrwXbNDCB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HJVc8ZyWsAkZ_Bz.png — no alt text provided by author
+
+
+---
+
+## 2026-05-20 · Post · It's really cool to see people exploring taking the single-packet attack even further with HTTP/3! E
+
+
+### Post — @albinowax — 2026-05-20 15:00 UTC (2026-05-20 16:00 WAT)
+
+- URL: https://x.com/albinowax/status/2057114270790242362
+- Metrics (at fetch): bookmark 68, impression 22718, like 136, quote 0, reply 2, retweet 15
+
+> It's really cool to see people exploring taking the single-packet attack even further with HTTP/3! Excited to integrate these techniques directly into @Burp_Suite in future. https://t.co/CRXPi0G8cq
+
+**Quoted post** 2048859735009444031: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-19 · Post · In “CSS: the bomb inside your inbox” @garethheyes will show how to use CSS to compromise accounts on
+
+
+### Post — @albinowax — 2026-05-19 18:16 UTC (2026-05-19 19:16 WAT)
+
+- URL: https://x.com/albinowax/status/2056801111399444742
+- Metrics (at fetch): bookmark 86, impression 21850, like 212, quote 0, reply 4, retweet 17
+
+> In “CSS: the bomb inside your inbox” @garethheyes will show how to use CSS to compromise accounts on multiple major email providers, bypassing all defences! I have personally seen this research and it’s insane. https://t.co/1gbwHvJZjX
+
+**Quoted post** 2056728589085573393: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-14 · Post · AI-pentest companies get significant marketing value from publishing findings attributed to their pr
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-05-14 17:40 UTC (2026-05-14 18:40 WAT)
+
+- URL: https://x.com/albinowax/status/2054980130762531104
+- Metrics (at fetch): bookmark 109, impression 26256, like 307, quote 1, reply 3, retweet 19
+
+> AI-pentest companies get significant marketing value from publishing findings attributed to their products. In The HTTP Terminator, I’ll include the other side - the techniques and breakthroughs that AI consistently fumbles. https://t.co/pZphBcPXsk
+
+**Quoted post** 2054963656006533517: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-14 · Post · Always good to hear about people having fun triggering race conditions with the single-packet attack
+
+
+Tags (automatic): Race condition
+
+
+### Post — @albinowax — 2026-05-14 13:27 UTC (2026-05-14 14:27 WAT)
+
+- URL: https://x.com/albinowax/status/2054916468416864650
+- Metrics (at fetch): bookmark 47, impression 14141, like 114, quote 0, reply 1, retweet 4
+
+> Always good to hear about people having fun triggering race conditions with the single-packet attack! https://t.co/Is6VBf6bsy
+
+**Quoted post** 2054897666732228692: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2026-05-12 · Post · After working with the HTTP Terminator for months, letting it run unsupervised while I manually put 
+
+
+### Post — @albinowax — 2026-05-12 15:05 UTC (2026-05-12 16:05 WAT)
+
+- URL: https://x.com/albinowax/status/2054216330262217013
+- Metrics (at fetch): bookmark 9, impression 6278, like 82, quote 0, reply 2, retweet 0
+
+> After working with the HTTP Terminator for months, letting it run unsupervised while I manually put a slide deck together for #BHUSA feels like meditation in comparison.
+
+
+---
+
+## 2026-04-28 · Post · I just did an interview with @SecWeekly, with teasers for my upcoming BHUSA presentation "Can AI Do
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @albinowax — 2026-04-28 14:42 UTC (2026-04-28 15:42 WAT)
+
+- URL: https://x.com/albinowax/status/2049137259559936504
+- Metrics (at fetch): bookmark 20, impression 6071, like 51, quote 0, reply 4, retweet 4
+
+> I just did an interview with @SecWeekly, with teasers for my upcoming #BHUSA presentation "Can AI Do Novel Vulnerability Research: Meet the HTTP Terminator", plus reflections on the Top Ten Web Hacking Techniques of 2025 &amp; 2026. Watch it here:
+> https://t.co/BSUuoyW0MF

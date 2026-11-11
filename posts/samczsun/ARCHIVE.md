@@ -3,58 +3,50 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 50
-- Conversations/threads: 48
+- Conversations/threads: 43
 - Oldest post captured: 2025-08-10
 - Newest post captured: 2026-11-04
 
 
 ---
 
-## 2026-11-04 · Post · which one of you did this https://t.co/psi1KcncdN
+## 2026-11-04 · Post · which one of you did this https://twitter.com/bhargreaves/status/2118016856426758506
 
 
 ### Post — @samczsun — 2026-11-04 20:02 UTC (2026-11-04 21:02 WAT)
 
 - URL: https://x.com/samczsun/status/2118071390746321221
-- Metrics (at fetch): bookmark 8, impression 15044, like 95, quote 1, reply 6, retweet 3
+- Metrics (at fetch): bookmark 8, impression 15050, like 95, quote 1, reply 6, retweet 3
 
-> which one of you did this https://t.co/psi1KcncdN
+> which one of you did this https://twitter.com/bhargreaves/status/2118016856426758506
+
+**Links in post:** https://twitter.com/bhargreaves/status/2118016856426758506
 
 **Quoted post** 2118016856426758506: not readable via the API (deleted, private, or withheld).
 
 
 ---
 
-## 2026-10-16 · Post · As for me, the past few years have felt like a non-stop sprint through the ups and downs, and while 
+## 2026-10-16 · Thread · It's been an incredible journey, but I've made the difficult decision to step back from day-to-day o
 
 
 ### Post — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
 
-- URL: https://x.com/samczsun/status/2111149394884178295
-- Metrics (at fetch): bookmark 2, impression 3538, like 100, quote 1, reply 8, retweet 0
+- URL: https://x.com/samczsun/status/2111149389716861349
+- Metrics (at fetch): bookmark 15, impression 33775, like 492, quote 5, reply 49, retweet 16
 
-> As for me, the past few years have felt like a non-stop sprint through the ups and downs, and while I've loved every second of it, it's time for me to take some time and catch my breath. Things are only going to get crazier from here 🫡
-
-
----
-
-## 2026-10-16 · Post · I'm deeply grateful to our team, donors, partners, and the community we serve, who have trusted us a
+> It's been an incredible journey, but I've made the difficult decision to step back from day-to-day operations at @_SEAL_Org. I'll be transitioning onto the Board while @sbatt55 transitions from COO to Interim CEO
 
 
-### Post — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
+### Thread part 2 — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
 
-- URL: https://x.com/samczsun/status/2111149393617580429
-- Metrics (at fetch): bookmark 0, impression 2146, like 48, quote 0, reply 1, retweet 0
+- URL: https://x.com/samczsun/status/2111149391017132372
+- Metrics (at fetch): bookmark 1, impression 4537, like 70, quote 1, reply 4, retweet 0
 
-> I'm deeply grateful to our team, donors, partners, and the community we serve, who have trusted us along the way. What we've built together is a testament to the strength of the ecosystem, and I’m excited to see what comes next in our mission to secure the future of crypto.
-
-
----
-
-## 2026-10-16 · Post · Shane has been running SEAL's operations with steadiness and sound judgement for over a year now, an
+> Taking things from 0 to 1 requires a very different skill set than scaling from 1 to 100. After discussing with the team, I decided that SEAL needs a leader whose strengths match where it is heading, and making room for them is the best thing I can do for the team right now
 
 
-### Post — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
+### Thread part 3 — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
 
 - URL: https://x.com/samczsun/status/2111149392283701336
 - Metrics (at fetch): bookmark 1, impression 2934, like 49, quote 0, reply 1, retweet 0
@@ -62,30 +54,20 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 > Shane has been running SEAL's operations with steadiness and sound judgement for over a year now, and I have full confidence in his ability to lead the org while the Board searches for a permanent successor. I'll continue providing the strategic advice that I'm most suited for
 
 
----
+### Thread part 4 — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
 
-## 2026-10-16 · Post · Taking things from 0 to 1 requires a very different skill set than scaling from 1 to 100. After disc
+- URL: https://x.com/samczsun/status/2111149393617580429
+- Metrics (at fetch): bookmark 0, impression 2146, like 48, quote 0, reply 1, retweet 0
 
-
-### Post — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
-
-- URL: https://x.com/samczsun/status/2111149391017132372
-- Metrics (at fetch): bookmark 1, impression 4532, like 70, quote 1, reply 4, retweet 0
-
-> Taking things from 0 to 1 requires a very different skill set than scaling from 1 to 100. After discussing with the team, I decided that SEAL needs a leader whose strengths match where it is heading, and making room for them is the best thing I can do for the team right now
+> I'm deeply grateful to our team, donors, partners, and the community we serve, who have trusted us along the way. What we've built together is a testament to the strength of the ecosystem, and I’m excited to see what comes next in our mission to secure the future of crypto.
 
 
----
+### Thread part 5 — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
 
-## 2026-10-16 · Post · It's been an incredible journey, but I've made the difficult decision to step back from day-to-day o
+- URL: https://x.com/samczsun/status/2111149394884178295
+- Metrics (at fetch): bookmark 2, impression 3538, like 100, quote 1, reply 8, retweet 0
 
-
-### Post — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
-
-- URL: https://x.com/samczsun/status/2111149389716861349
-- Metrics (at fetch): bookmark 15, impression 33768, like 492, quote 5, reply 49, retweet 16
-
-> It's been an incredible journey, but I've made the difficult decision to step back from day-to-day operations at @_SEAL_Org. I'll be transitioning onto the Board while @sbatt55 transitions from COO to Interim CEO
+> As for me, the past few years have felt like a non-stop sprint through the ups and downs, and while I've loved every second of it, it's time for me to take some time and catch my breath. Things are only going to get crazier from here 🫡
 
 
 ---
@@ -96,9 +78,11 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-07-30 18:36 UTC (2026-07-30 19:36 WAT)
 
 - URL: https://x.com/samczsun/status/2082898149119754695
-- Metrics (at fetch): bookmark 24, impression 24590, like 169, quote 1, reply 15, retweet 8
+- Metrics (at fetch): bookmark 24, impression 24595, like 169, quote 1, reply 15, retweet 8
 
-> congrats to my friends at zellic for another successful raise on their latest venture, excited to see where things go from here https://t.co/3AM91KFnZA
+> congrats to my friends at zellic for another successful raise on their latest venture, excited to see where things go from here https://twitter.com/v12sec/status/2082890648374424012
+
+**Links in post:** https://twitter.com/v12sec/status/2082890648374424012
 
 **Quoted post (full text):**
 
@@ -132,18 +116,20 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-05-15 · Post · https://t.co/CufRGwYK8G https://t.co/ha7wNw4Ges
+## 2026-05-15 · Post · [pic.x.com/CufRGwYK8G] https://twitter.com/THORChain/status/2055300162331742233
 
 
 ### Post — @samczsun — 2026-05-15 16:22 UTC (2026-05-15 17:22 WAT)
 
 - URL: https://x.com/samczsun/status/2055323055887650936
-- Metrics (at fetch): bookmark 17, impression 34588, like 403, quote 1, reply 44, retweet 34
+- Metrics (at fetch): bookmark 17, impression 34590, like 403, quote 1, reply 44, retweet 34
 
-> https://t.co/CufRGwYK8G https://t.co/ha7wNw4Ges
+> [pic.x.com/CufRGwYK8G] https://twitter.com/THORChain/status/2055300162331742233
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HIX5bGxaYAAn5Zk.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/THORChain/status/2055300162331742233
 
 **Quoted post** 2055300162331742233: not readable via the API (deleted, private, or withheld).
 
@@ -182,15 +168,17 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-04-29 18:05 UTC (2026-04-29 19:05 WAT)
 
 - URL: https://x.com/samczsun/status/2049550622827942309
-- Metrics (at fetch): bookmark 10, impression 15325, like 92, quote 1, reply 11, retweet 17
+- Metrics (at fetch): bookmark 10, impression 15327, like 92, quote 1, reply 11, retweet 17
 
 > if you have 5 minutes and 5 dollars, you can directly help fund @_SEAL_Org through @thedaofund's qf round and help avoid a tragedy of the commons
 >
-> https://t.co/jHzg4lkNEU
-> https://t.co/3wiDYSDGUz
-> https://t.co/5ksBHdSf1G
-> https://t.co/tHKpSZJ0bb
-> https://t.co/cGgVcdiAVE https://t.co/nt331M3y29
+> https://qf.giveth.io/project/seal-safe-harbor
+> https://qf.giveth.io/project/seal-intel
+> https://qf.giveth.io/project/seal-frameworks
+> https://qf.giveth.io/project/seal-certifications
+> https://qf.giveth.io/project/seal-911 https://twitter.com/LayerZero_Core/status/2049198683443618246
+
+**Links in post:** https://qf.giveth.io/project/seal-safe-harbor, https://qf.giveth.io/project/seal-intel, https://qf.giveth.io/project/seal-frameworks, https://qf.giveth.io/project/seal-certifications, https://qf.giveth.io/project/seal-911, https://twitter.com/LayerZero_Core/status/2049198683443618246
 
 **Quoted post** 2049198683443618246: not readable via the API (deleted, private, or withheld).
 
@@ -227,15 +215,15 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-04-21 · Post · someone tell the captains of these ships about seal 911 https://t.co/Mw3R2IOYvY
+## 2026-04-21 · Post · someone tell the captains of these ships about seal 911 [pic.x.com/Mw3R2IOYvY]
 
 
 ### Post — @samczsun — 2026-04-21 17:02 UTC (2026-04-21 18:02 WAT)
 
 - URL: https://x.com/samczsun/status/2046635763433922885
-- Metrics (at fetch): bookmark 0, impression 6525, like 47, quote 0, reply 5, retweet 4
+- Metrics (at fetch): bookmark 0, impression 6527, like 47, quote 0, reply 5, retweet 4
 
-> someone tell the captains of these ships about seal 911 https://t.co/Mw3R2IOYvY
+> someone tell the captains of these ships about seal 911 [pic.x.com/Mw3R2IOYvY]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HGccX17WUAE78aK.jpg — no alt text provided by author
@@ -249,7 +237,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-04-21 05:08 UTC (2026-04-21 06:08 WAT)
 
 - URL: https://x.com/samczsun/status/2046455983082267096
-- Metrics (at fetch): bookmark 11, impression 34299, like 500, quote 3, reply 31, retweet 53
+- Metrics (at fetch): bookmark 11, impression 34301, like 500, quote 3, reply 31, retweet 53
 
 > huge day for victims of the kelp dao hack, i hope that we can look back on today as the day our industry realized that we can simultaneously build useful products while also protecting users rather than be a consequence-free infinite money glitch for hackers
 
@@ -310,37 +298,54 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @samczsun — 2026-03-14 19:57 UTC (2026-03-14 20:57 WAT)
 
 - URL: https://x.com/samczsun/status/2032908915222974598
-- Metrics (at fetch): bookmark 14, impression 28223, like 317, quote 4, reply 38, retweet 21
+- Metrics (at fetch): bookmark 14, impression 28225, like 317, quote 4, reply 38, retweet 21
 
 > crypto will have truly matured when we can stop using telegram
 
 
 ---
 
-## 2026-03-13 · Post · if youre going to ethcc study fight club https://t.co/NTeffx7Mqe
+## 2026-03-13 · Post · if youre going to ethcc study fight club https://twitter.com/spacexbt/status/2032268674887774491
 
 
 ### Post — @samczsun — 2026-03-13 02:25 UTC (2026-03-13 03:25 WAT)
 
 - URL: https://x.com/samczsun/status/2032281886496797129
-- Metrics (at fetch): bookmark 5, impression 25445, like 70, quote 0, reply 4, retweet 8
+- Metrics (at fetch): bookmark 5, impression 25447, like 70, quote 0, reply 4, retweet 8
 
-> if youre going to ethcc study fight club https://t.co/NTeffx7Mqe
+> if youre going to ethcc study fight club https://twitter.com/spacexbt/status/2032268674887774491
+
+**Links in post:** https://twitter.com/spacexbt/status/2032268674887774491
 
 **Quoted post** 2032268674887774491: not readable via the API (deleted, private, or withheld).
 
 
 ---
 
-## 2026-03-12 · Post · beyond parody https://t.co/3vOpE8Hnci
+## 2026-03-12 · Thread · guh [pic.x.com/7xro8XWwIn] https://twitter.com/bbbb/status/2032164489437585805
 
 
-### Post — @samczsun — 2026-03-12 19:36 UTC (2026-03-12 20:36 WAT)
+### Post — @samczsun — 2026-03-12 18:52 UTC (2026-03-12 19:52 WAT)
+
+- URL: https://x.com/samczsun/status/2032167869174214703
+- Metrics (at fetch): bookmark 19, impression 83260, like 219, quote 25, reply 34, retweet 6
+
+> guh [pic.x.com/7xro8XWwIn] https://twitter.com/bbbb/status/2032164489437585805
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HDO154aWQAAfIGQ.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/bbbb/status/2032164489437585805
+
+**Quoted post** 2032164489437585805: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 2 — @samczsun — 2026-03-12 19:36 UTC (2026-03-12 20:36 WAT)
 
 - URL: https://x.com/samczsun/status/2032178918745088057
-- Metrics (at fetch): bookmark 2, impression 9433, like 79, quote 2, reply 4, retweet 4
+- Metrics (at fetch): bookmark 2, impression 9434, like 79, quote 2, reply 4, retweet 4
 
-> beyond parody https://t.co/3vOpE8Hnci
+> beyond parody [pic.x.com/3vOpE8Hnci]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HDO_8-uX0AE5rEq.jpg — no alt text provided by author
@@ -374,24 +379,6 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
-## 2026-03-12 · Post · guh https://t.co/7xro8XWwIn https://t.co/qqgVejwiT0
-
-
-### Post — @samczsun — 2026-03-12 18:52 UTC (2026-03-12 19:52 WAT)
-
-- URL: https://x.com/samczsun/status/2032167869174214703
-- Metrics (at fetch): bookmark 19, impression 83258, like 219, quote 25, reply 34, retweet 6
-
-> guh https://t.co/7xro8XWwIn https://t.co/qqgVejwiT0
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HDO154aWQAAfIGQ.jpg — no alt text provided by author
-
-**Quoted post** 2032164489437585805: not readable via the API (deleted, private, or withheld).
-
-
----
-
 ## 2026-02-05 · Post · on one hand the crypto dream feels dead but on the other hand weve finally figured out how to spin a
 
 
@@ -401,7 +388,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2026-02-05 23:17 UTC (2026-02-06 00:17 WAT)
 
 - URL: https://x.com/samczsun/status/2019551027457097765
-- Metrics (at fetch): bookmark 5, impression 9413, like 86, quote 1, reply 11, retweet 7
+- Metrics (at fetch): bookmark 5, impression 9414, like 86, quote 1, reply 11, retweet 7
 
 > on one hand the crypto dream feels dead but on the other hand weve finally figured out how to spin ai agents into the shitcoin grift cycle so really who can say
 
@@ -433,7 +420,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2026-01-10 21:39 UTC (2026-01-10 22:39 WAT)
 
 - URL: https://x.com/samczsun/status/2010104272982282591
-- Metrics (at fetch): bookmark 1, impression 7739, like 33, quote 0, reply 5, retweet 3
+- Metrics (at fetch): bookmark 1, impression 7741, like 33, quote 0, reply 5, retweet 3
 
 > crazy github bug makes browsing on mobile impossible: scrolling up at all causes the page to jump to top. can devs do something pls
 
@@ -506,7 +493,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @samczsun — 2025-12-10 18:06 UTC (2025-12-10 19:06 WAT)
     
     - URL: https://x.com/samczsun/status/1998816590901756081
-    - Metrics (at fetch): bookmark 101, impression 43183, like 232, quote 9, reply 22, repost 39
+    - Metrics (at fetch): bookmark 101, impression 43183, like 232, quote 9, reply 22, retweet 39
     
     > i wrote some thoughts on bug bounties payouts and how we should think about crypto security going forward
     >
@@ -524,7 +511,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-12-10 18:06 UTC (2025-12-10 19:06 WAT)
 
 - URL: https://x.com/samczsun/status/1998816590901756081
-- Metrics (at fetch): bookmark 101, impression 43183, like 232, quote 9, reply 22, repost 39
+- Metrics (at fetch): bookmark 101, impression 43183, like 232, quote 9, reply 22, retweet 39
 
 > i wrote some thoughts on bug bounties payouts and how we should think about crypto security going forward
 >

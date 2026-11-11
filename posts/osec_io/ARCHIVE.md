@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 20
-- Conversations/threads: 20
-- Oldest post captured: 2025-05-02
+- Posts in this file: 22
+- Conversations/threads: 22
+- Oldest post captured: 2025-02-06
 - Newest post captured: 2026-11-05
 
 
@@ -422,3 +422,44 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gp9ng4tbUAAOhYz.png — no alt text provided by author
+
+
+---
+
+## 2025-03-26 · Post · Secure signing systems are a difficult problem. We’re sponsoring a bounty with @multisig to improve 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2025-03-26 05:57 UTC (2025-03-26 06:57 WAT)
+
+- URL: https://x.com/osec_io/status/1904774583976370263
+- Metrics (at fetch): bookmark 1, impression 7687, like 29, quote 1, reply 1, retweet 10
+
+> Secure signing systems are a difficult problem. We’re sponsoring a bounty with @multisig to improve the state of multi-sig security on Solana.
+>
+> https://t.co/9EXsjP0vdn https://t.co/D375e4SxBz https://t.co/KwoEdCc7SS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm8eUSkbYAIGfcR.png — no alt text provided by author
+
+**Quoted post** 1904287657225859365: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-06 · Post · We’re excited to work with the Atlas team on securing the cutting edge of Solana L2s. Keep an eye ou
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2025-02-06 19:03 UTC (2025-02-06 20:03 WAT)
+
+- URL: https://x.com/osec_io/status/1887577893603320115
+- Metrics (at fetch): bookmark 0, impression 1778, like 6, quote 0, reply 1, retweet 0
+
+> We’re excited to work with the Atlas team on securing the cutting edge of Solana L2s. Keep an eye out for upcoming blog posts diving into our research! https://t.co/PV3NRL4oYI
+
+**Quoted post** 1886880228510982647: not readable via the API (deleted, private, or withheld).

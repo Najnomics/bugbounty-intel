@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 58
-- Conversations/threads: 45
-- Oldest post captured: 2025-06-25
+- Posts in this file: 62
+- Conversations/threads: 49
+- Oldest post captured: 2025-02-22
 - Newest post captured: 2026-11-11
 
 
@@ -946,3 +946,75 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 - Metrics (at fetch): bookmark 2, impression 4926, like 53, quote 0, reply 7, retweet 0
 
 > My next month (July) will be fully dedicated to @Hacker0x01 , i tried my best hunting on bugcrowd but struggling to get valid private invites, seems like @Bugcrowd only focuses on top hunters in their leaderboard, they give very less chance to new/intermediate bug hunters😶‍🌫️
+
+
+---
+
+## 2025-04-18 · Post · I earned $450 x2 for my submission on @bugcrowd https://bugcrowd.com/suyash_technorat ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2025-04-18 08:48 UTC (2025-04-18 09:48 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1913152535776424313
+- Metrics (at fetch): bookmark 37, impression 7400, like 240, quote 0, reply 6, retweet 9
+
+> I earned $450 x2 for my submission on @bugcrowd https://bugcrowd.com/suyash_technorat #ItTakesACrowd [pic.x.com/rSOsAABWps]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GoziFnXWMAA2Xnv.jpg — no alt text provided by author
+
+**Links in post:** https://bugcrowd.com/suyash_technorat
+
+
+---
+
+## 2025-03-10 · Post · When you hack small  company for fun and time pass, but they turn around and say "nice work" here's 
+
+
+### Post — @SuyashS91823422 — 2025-03-10 09:01 UTC (2025-03-10 10:01 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1899022883768451135
+- Metrics (at fetch): bookmark 13, impression 3360, like 69, quote 0, reply 2, retweet 1
+
+> When you hack small  company for fun and time pass, but they turn around and say "nice work" here's some cash😂💸
+> Tip- Fuzz more 
+> #BugBounty #bugbountytips [pic.x.com/HZbZOXhy9S]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlqvP7ObEAAruti.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-22 · Post · 2 add templates/processed/config.ini to your wordlist you can end up getting a CRITICAL😎 bugbounty
+
+
+### Post — @SuyashS91823422 — 2025-02-22 17:54 UTC (2025-02-22 18:54 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1893358667124109492
+- Metrics (at fetch): bookmark 156, impression 13734, like 203, quote 1, reply 4, retweet 34
+
+> #2 add templates/processed/config.ini to your wordlist you can end up getting a CRITICAL😎 #bugbountytips #bugbounty [pic.x.com/OqNZIqpGV5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkaPjOYWkAAL6js.png — no alt text provided by author
+
+
+---
+
+## 2025-02-22 · Post · add templates/processed/syslog-tcp-forward.conf to your wordlist you can end up getting a CRITICAL 😎
+
+
+### Post — @SuyashS91823422 — 2025-02-22 17:31 UTC (2025-02-22 18:31 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/1893352911645639075
+- Metrics (at fetch): bookmark 165, impression 13627, like 220, quote 0, reply 7, retweet 33
+
+> add templates/processed/syslog-tcp-forward.conf to your wordlist you can end up getting a CRITICAL 😎
+> #bugbountytips #bugbounty [pic.x.com/JstzDGpu6j]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkaJengXgAAgrCa.png — no alt text provided by author

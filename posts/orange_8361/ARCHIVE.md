@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 23
-- Conversations/threads: 23
+- Posts in this file: 27
+- Conversations/threads: 27
 - Oldest post captured: 2024-08-30
 - Newest post captured: 2026-10-29
 
@@ -16,7 +16,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @orange_8361 — 2026-10-29 03:59 UTC (2026-10-29 04:59 WAT)
 
 - URL: https://x.com/orange_8361/status/2115654643141489057
-- Metrics (at fetch): bookmark 169, impression 73044, like 1003, quote 11, reply 11, retweet 157
+- Metrics (at fetch): bookmark 169, impression 73052, like 1003, quote 11, reply 11, retweet 157
 
 > Bonus: I've also flipped the chain and popped MS Edge from calc.exe 😆
 >
@@ -31,7 +31,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @orange_8361 — 2026-10-29 03:58 UTC (2026-10-29 04:58 WAT)
 
 - URL: https://x.com/orange_8361/status/2115654457694490902
-- Metrics (at fetch): bookmark 527, impression 83464, like 1463, quote 39, reply 29, retweet 419
+- Metrics (at fetch): bookmark 527, impression 83466, like 1463, quote 39, reply 29, retweet 419
 
 > Just dropped a new blog post! 🔥
 >
@@ -51,7 +51,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @orange_8361 — 2026-09-19 00:08 UTC (2026-09-19 01:08 WAT)
 
 - URL: https://x.com/orange_8361/status/2101101039885910124
-- Metrics (at fetch): bookmark 23, impression 27223, like 714, quote 1, reply 9, retweet 5
+- Metrics (at fetch): bookmark 23, impression 27225, like 714, quote 1, reply 9, retweet 5
 
 > It’s gonna overflow! https://t.co/paGJWKwf4K
 
@@ -80,7 +80,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @orange_8361 — 2026-08-15 16:17 UTC (2026-08-15 17:17 WAT)
 
 - URL: https://x.com/orange_8361/status/2088661243427266887
-- Metrics (at fetch): bookmark 31, impression 31815, like 621, quote 0, reply 9, retweet 40
+- Metrics (at fetch): bookmark 31, impression 31818, like 622, quote 0, reply 9, retweet 40
 
 > My third @PwnieAwards trophy! Thanks all, and to my friends who grabbed it on stage for me! 🦄🏆 https://t.co/aHBmGe0oGH
 
@@ -98,7 +98,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @orange_8361 — 2026-08-08 06:02 UTC (2026-08-08 07:02 WAT)
 
 - URL: https://x.com/orange_8361/status/2085969982429843509
-- Metrics (at fetch): bookmark 46, impression 35396, like 207, quote 0, reply 13, retweet 8
+- Metrics (at fetch): bookmark 46, impression 35397, like 207, quote 0, reply 13, retweet 8
 
 > Angelgod! https://t.co/NQ60gkmQZq
 
@@ -182,7 +182,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @orange_8361 — 2026-05-14 12:45 UTC (2026-05-14 13:45 WAT)
 
 - URL: https://x.com/orange_8361/status/2054906050143240399
-- Metrics (at fetch): bookmark 366, impression 225056, like 2576, quote 41, reply 108, repost 361
+- Metrics (at fetch): bookmark 366, impression 225057, like 2577, quote 41, reply 108, retweet 361
 
 > That's my chain — a full chain w/ logic bugs only! No memory corruption, no AI, and of course no collisions at all 😉 https://twitter.com/thezdi/status/2054868495888777266
 
@@ -210,7 +210,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @orange_8361 — 2025-10-08 15:20 UTC (2025-10-08 16:20 WAT)
 
 - URL: https://x.com/orange_8361/status/1975944472786833749
-- Metrics (at fetch): bookmark 25, impression 27441, like 129, quote 0, reply 0, retweet 10
+- Metrics (at fetch): bookmark 25, impression 27442, like 129, quote 0, reply 0, retweet 10
 
 > Say hi to them — check out our latest research! https://t.co/VutkKaabId
 
@@ -258,7 +258,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @orange_8361 — 2025-08-20 07:27 UTC (2025-08-20 08:27 WAT)
 
 - URL: https://x.com/orange_8361/status/1958068417753411638
-- Metrics (at fetch): bookmark 290, impression 67923, like 901, quote 6, reply 20, repost 219
+- Metrics (at fetch): bookmark 290, impression 67923, like 901, quote 6, reply 20, retweet 219
 
 > Turns out my #PHRACK article is live! 🔥
 >
@@ -373,7 +373,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @orange_8361 — 2025-06-02 13:46 UTC (2025-06-02 14:46 WAT)
 
 - URL: https://x.com/orange_8361/status/1929535084316811626
-- Metrics (at fetch): bookmark 210, impression 107533, like 1629, quote 4, reply 52, repost 60
+- Metrics (at fetch): bookmark 210, impression 107534, like 1629, quote 4, reply 52, retweet 60
 
 > I don't have OSCP—instead, I have OSEE! 🎉 [pic.x.com/f8acm1Jz4C] https://twitter.com/orange_8361/status/1829491975986589764
 
@@ -422,6 +422,75 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 0, impression 983, like 10, quote 0, reply 1, retweet 0
 
 > @SinSinology @PortSwiggerRes Yay, thank you, and congratulations to your Pwn2Own champion, too! 🎉
+
+
+---
+
+## 2025-02-05 · Post · This is absolutely the greatest recognition for a researcher. Thank you all! https://t.co/bTbUepgKtc
+
+
+### Post — @orange_8361 — 2025-02-05 15:24 UTC (2025-02-05 16:24 WAT)
+
+- URL: https://x.com/orange_8361/status/1887160290179178591
+- Metrics (at fetch): bookmark 43, impression 29208, like 451, quote 1, reply 10, retweet 22
+
+> This is absolutely the greatest recognition for a researcher. Thank you all! https://t.co/bTbUepgKtc
+
+**Quoted post** 1886792856204959824: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-01-15 · Post · Voting for the Top 10 Web Hacking Techniques of 2024 is live! Two of my research are nominated — Giv
+
+
+### Post — @orange_8361 — 2025-01-15 17:21 UTC (2025-01-15 18:21 WAT)
+
+- URL: https://x.com/orange_8361/status/1879579779953013146
+- Metrics (at fetch): bookmark 39, impression 19331, like 209, quote 0, reply 1, retweet 20
+
+> Voting for the Top 10 Web Hacking Techniques of 2024 is live! Two of my research are nominated — Give them a vote! 🔥
+>
+> &gt; Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server! 
+> &gt; WorstFit: Unveiling Hidden Transformers in Windows ANSI! https://t.co/mLRO6FPArq
+
+**Quoted post** 1879550220876599493: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-01-09 · Post · The detailed version of our WorstFit attack is available now! 🔥
+
+
+### Post — @orange_8361 — 2025-01-09 15:39 UTC (2025-01-09 16:39 WAT)
+
+- URL: https://x.com/orange_8361/status/1877379740379558169
+- Metrics (at fetch): bookmark 182, impression 76428, like 527, quote 10, reply 4, retweet 204
+
+> The detailed version of our #WorstFit attack is available now! 🔥
+> Check it out! 👉 https://t.co/EWlBSgXhpx
+>
+> cc: @_splitline_ https://t.co/JnAg3egnyG
+
+**Quoted post** 1866868458883088487: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-12-13 · Post · Squirrels in London are really cute! https://t.co/tbapEEwivu
+
+
+### Post — @orange_8361 — 2024-12-13 14:26 UTC (2024-12-13 15:26 WAT)
+
+- URL: https://x.com/orange_8361/status/1867576931413045523
+- Metrics (at fetch): bookmark 4, impression 12868, like 139, quote 0, reply 6, retweet 0
+
+> Squirrels in London are really cute! https://t.co/tbapEEwivu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ger3UboXQAAxXji.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ger3UbhXkAEOIBj.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ger3UbpXsAAVmzN.jpg — no alt text provided by author
 
 
 ---

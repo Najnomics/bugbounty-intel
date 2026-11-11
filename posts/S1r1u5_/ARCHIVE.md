@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 49
-- Conversations/threads: 21
-- Oldest post captured: 2026-10-31
+- Posts in this file: 50
+- Conversations/threads: 22
+- Oldest post captured: 2026-10-26
 - Newest post captured: 2026-11-09
 
 
@@ -747,3 +747,26 @@ Tags (automatic): Race condition, Path normalization, Memory corruption / native
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HV8bt1ibgAAGAAx.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-26 · Post · php2shell is one of the most impactful bugs in recent times, yet threat actors aren’t mass exploitin
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-10-26 17:41 UTC (2026-10-26 18:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2114774529814007865
+- Metrics (at fetch): bookmark 272, impression 57185, like 641, quote 13, reply 43, retweet 65
+
+> php2shell is one of the most impactful bugs in recent times, yet threat actors aren’t mass exploiting it
+>
+> the bug is so complex that even porting the exploit between targets takes serious skill, human or ai
+>
+> so i benchmarked how well open and frontier models can do it. 🧵 https://t.co/MNkIzF8CMe
+
+**Media:**
+- media `3_2114770913791221760` (details not returned by the API)

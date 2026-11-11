@@ -2,7 +2,7 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
+- Posts in this file: 51
 - Conversations/threads: 41
 - Oldest post captured: 2025-12-04
 - Newest post captured: 2026-11-07
@@ -16,7 +16,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @infosec_au — 2026-11-07 11:14 UTC (2026-11-07 12:14 WAT)
 
 - URL: https://x.com/infosec_au/status/2119025620969828598
-- Metrics (at fetch): bookmark 311, impression 35840, like 619, quote 8, reply 17, retweet 111
+- Metrics (at fetch): bookmark 311, impression 35838, like 619, quote 8, reply 17, retweet 111
 
 > Earlier this year, I hacked a major automotive company with @samwcyo. We were able to remotely unlock cars in the AU and US. My writeup for AU is here: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ and our writeup for the US here: https://samcurry.net/forgerock
 
@@ -31,7 +31,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @infosec_au — 2026-11-05 08:11 UTC (2026-11-05 09:11 WAT)
 
 - URL: https://x.com/infosec_au/status/2118254810399207462
-- Metrics (at fetch): bookmark 3, impression 3869, like 19, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 3, impression 3870, like 19, quote 0, reply 0, retweet 0
 
 > Recommend reaching out if you’re looking to hire. https://twitter.com/xehle_/status/2117605061908222183
 
@@ -48,7 +48,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @infosec_au — 2026-10-25 04:29 UTC (2026-10-25 05:29 WAT)
 
 - URL: https://x.com/infosec_au/status/2114212833797996864
-- Metrics (at fetch): bookmark 249, impression 20486, like 378, quote 2, reply 6, retweet 80
+- Metrics (at fetch): bookmark 249, impression 20487, like 378, quote 2, reply 6, retweet 80
 
 > Published our high fidelity scanner for node2shell: https://github.com/assetnote/node2shell-scanner
 >
@@ -65,7 +65,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @infosec_au — 2026-10-22 04:06 UTC (2026-10-22 05:06 WAT)
 
 - URL: https://x.com/infosec_au/status/2113119832157880725
-- Metrics (at fetch): bookmark 464, impression 51117, like 534, quote 8, reply 14, retweet 89
+- Metrics (at fetch): bookmark 464, impression 51120, like 534, quote 8, reply 14, retweet 89
 
 > Just published our high fidelity scanner for php2shell: https://github.com/assetnote/php2shell-scanner
 >
@@ -255,7 +255,7 @@ Tags (automatic): RCE
 ### Post — @infosec_au — 2026-08-01 11:55 UTC (2026-08-01 12:55 WAT)
 
 - URL: https://x.com/infosec_au/status/2083521903667671316
-- Metrics (at fetch): bookmark 358, impression 55509, like 531, quote 5, reply 8, repost 101
+- Metrics (at fetch): bookmark 358, impression 55509, like 531, quote 5, reply 8, retweet 101
 
 > Things are getting weird (or interesting?) in the vulnerability research space. I published some of my personal thoughts on what we're seeing and what our broad strategy is here:
 > https://shubs.io/frontier-class-vulnerabilities-it-gets-worse-before-it-maybe-gets-better/
@@ -347,13 +347,21 @@ Tags (automatic): RCE
 
 ---
 
-## 2026-07-18 · Reply · @pj_stew Yep - it's in the core code, patching will resolve both the SQLi and RCE full chain. Will r
+## 2026-07-18 · Thread · Note on WordPress pre-auth RCE (CVE-2026-63030). There are SQLi poc's out there, but RCE PoC has not
 
 
 Tags (automatic): SQL injection, RCE
 
 
-### Post — @infosec_au — 2026-07-18 06:07 UTC (2026-07-18 07:07 WAT)
+### Post — @infosec_au — 2026-07-18 04:23 UTC (2026-07-18 05:23 WAT)
+
+- URL: https://x.com/infosec_au/status/2078334919307374599
+- Metrics (at fetch): bookmark 127, impression 140139, like 431, quote 12, reply 17, retweet 44
+
+> Note on WordPress pre-auth RCE (CVE-2026-63030). There are SQLi poc's out there, but RCE PoC has not yet been exploited in the wild. Will only release our technical post if we have proof of exploitation. Our RCE payload does NOT require poorly configured MySQL.
+
+
+### Thread part 2 — @infosec_au — 2026-07-18 06:07 UTC (2026-07-18 07:07 WAT)
 
 - URL: https://x.com/infosec_au/status/2078360992007045268
 - Metrics (at fetch): bookmark 2, impression 4597, like 7, quote 0, reply 1, retweet 0
@@ -439,7 +447,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
 ### Post — @infosec_au — 2026-06-12 00:44 UTC (2026-06-12 01:44 WAT)
 
 - URL: https://x.com/infosec_au/status/2065233739710697756
-- Metrics (at fetch): bookmark 53, impression 34163, like 212, quote 8, reply 7, retweet 34
+- Metrics (at fetch): bookmark 53, impression 34164, like 212, quote 8, reply 7, retweet 34
 
 > https://www.bugcrowd.com/blog/savant-bugcrowds-ai-strategy-for-preemptive-security/
 >
@@ -516,7 +524,7 @@ Tags (automatic): SQL injection
 ### Post — @infosec_au — 2026-05-18 12:42 UTC (2026-05-18 13:42 WAT)
 
 - URL: https://x.com/infosec_au/status/2056354701185265993
-- Metrics (at fetch): bookmark 275, impression 54797, like 584, quote 14, reply 21, retweet 126
+- Metrics (at fetch): bookmark 275, impression 54798, like 584, quote 14, reply 21, retweet 126
 
 > https://shubs.io/the-down-fall-of-bug-bounties/
 
@@ -566,7 +574,7 @@ Tags (automatic): Auth bypass, Memory corruption / native
 ### Post — @infosec_au — 2026-05-10 09:58 UTC (2026-05-10 10:58 WAT)
 
 - URL: https://x.com/infosec_au/status/2053414439635054961
-- Metrics (at fetch): bookmark 40, impression 19366, like 236, quote 2, reply 4, repost 19
+- Metrics (at fetch): bookmark 40, impression 19366, like 236, quote 2, reply 4, retweet 19
 
 > Reported another cPanel critical pre-authentication vuln. Our research dates back to early April, but this exploit chain does not seem to be exploited in the wild, unlike our collision with a threat actor for the auth bypass. We'll publish details once a patch is avail.
 

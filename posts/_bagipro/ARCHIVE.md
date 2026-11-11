@@ -3,7 +3,7 @@
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 84
-- Conversations/threads: 70
+- Conversations/threads: 66
 - Oldest post captured: 2020-08-16
 - Newest post captured: 2026-11-03
 
@@ -188,53 +188,7 @@ Tags (automatic): Mobile / Android / iOS
 
 ---
 
-## 2026-04-22 · Post · [3/3] We tried local models, but they didn't work for the general case. So we ended up going with th
-
-
-### Post — @_bagipro — 2026-04-22 11:19 UTC (2026-04-22 12:19 WAT)
-
-- URL: https://x.com/_bagipro/status/2046911828144665063
-- Metrics (at fetch): bookmark 0, impression 1115, like 6, quote 0, reply 0, retweet 0
-
-> [3/3] We tried local models, but they didn't work for the general case. So we ended up going with the cloud models https://t.co/45zq5YDHpk
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HGgXTsxbEAAI_yw.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HGgXWIxasAAI-ro.png — no alt text provided by author
-
-
----
-
-## 2026-04-22 · Post · [2/3] The hard part: every app is different, so prompt engineering took a while
-
-
-### Post — @_bagipro — 2026-04-22 11:19 UTC (2026-04-22 12:19 WAT)
-
-- URL: https://x.com/_bagipro/status/2046911824688497097
-- Metrics (at fetch): bookmark 0, impression 1258, like 3, quote 0, reply 1, retweet 0
-
-> [2/3] The hard part: every app is different, so prompt engineering took a while
-
-
----
-
-## 2026-04-22 · Post · [1/3] DAST runs on emulators, LLM gives commands, we parse them into actions inside the scanner. The
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @_bagipro — 2026-04-22 11:19 UTC (2026-04-22 12:19 WAT)
-
-- URL: https://x.com/_bagipro/status/2046911822650073142
-- Metrics (at fetch): bookmark 0, impression 726, like 3, quote 0, reply 1, retweet 0
-
-> [1/3] DAST runs on emulators, LLM gives commands, we parse them into actions inside the scanner. The emulator executes them
-
-
----
-
-## 2026-04-22 · Post · We launched Android DAST. And the first problem we hit is that login flows block everything.
+## 2026-04-22 · Thread · We launched Android DAST. And the first problem we hit is that login flows block everything.
 
 
 Tags (automatic): Mobile / Android / iOS, AI-assisted hunting
@@ -250,17 +204,32 @@ Tags (automatic): Mobile / Android / iOS, AI-assisted hunting
 > So we used LLM to log in automatically. This is what debugging looks like
 
 
----
+### Thread part 2 — @_bagipro — 2026-04-22 11:19 UTC (2026-04-22 12:19 WAT)
 
-## 2026-02-25 · Post · [4/4] If the implementation of ContentProvider.getType(), query(), openFile() does anything other th
+- URL: https://x.com/_bagipro/status/2046911822650073142
+- Metrics (at fetch): bookmark 0, impression 726, like 3, quote 0, reply 1, retweet 0
+
+> [1/3] DAST runs on emulators, LLM gives commands, we parse them into actions inside the scanner. The emulator executes them
 
 
-### Post — @_bagipro — 2026-02-25 23:17 UTC (2026-02-26 00:17 WAT)
+### Thread part 3 — @_bagipro — 2026-04-22 11:19 UTC (2026-04-22 12:19 WAT)
 
-- URL: https://x.com/_bagipro/status/2026798831690559516
-- Metrics (at fetch): bookmark 4, impression 1886, like 12, quote 0, reply 0, retweet 0
+- URL: https://x.com/_bagipro/status/2046911824688497097
+- Metrics (at fetch): bookmark 0, impression 1258, like 3, quote 0, reply 1, retweet 0
 
-> [4/4] If the implementation of ContentProvider.getType(), query(), openFile() does anything other than simply returning a ParcelFileDescriptor or data from a database (making directories, debug mode, dumping logs), an attacker can trigger it this way and gain privilege escalation
+> [2/3] The hard part: every app is different, so prompt engineering took a while
+
+
+### Thread part 4 — @_bagipro — 2026-04-22 11:19 UTC (2026-04-22 12:19 WAT)
+
+- URL: https://x.com/_bagipro/status/2046911828144665063
+- Metrics (at fetch): bookmark 0, impression 1115, like 6, quote 0, reply 0, retweet 0
+
+> [3/3] We tried local models, but they didn't work for the general case. So we ended up going with the cloud models [pic.x.com/45zq5YDHpk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HGgXTsxbEAAI_yw.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HGgXWIxasAAI-ro.png — no alt text provided by author
 
 
 ---
@@ -288,6 +257,14 @@ Tags (automatic): Mobile / Android / iOS
 
 > [2/4] But system apps ("android.uid.system" and maybe systemui) automatically bypass these restrictions and can access arbitrary components
 > [3/4] It's trivial to force a system app to call ContentResolver.query() or openInputStream() for an arbitrary Uri
+
+
+### Thread part 3 — @_bagipro — 2026-02-25 23:17 UTC (2026-02-26 00:17 WAT)
+
+- URL: https://x.com/_bagipro/status/2026798831690559516
+- Metrics (at fetch): bookmark 4, impression 1886, like 12, quote 0, reply 0, retweet 0
+
+> [4/4] If the implementation of ContentProvider.getType(), query(), openFile() does anything other than simply returning a ParcelFileDescriptor or data from a database (making directories, debug mode, dumping logs), an attacker can trigger it this way and gain privilege escalation
 
 
 ---

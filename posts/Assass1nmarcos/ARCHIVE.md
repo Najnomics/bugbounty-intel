@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 34
-- Conversations/threads: 15
+- Posts in this file: 36
+- Conversations/threads: 17
 - Oldest post captured: 2026-03-30
 - Newest post captured: 2026-11-03
 
@@ -27,7 +27,27 @@ Tags (automatic): AI-assisted hunting
 >
 > cc: @ThisIsDK999 @0xaudron https://t.co/ko54EAieta
 
-**Quoted post** 2111392502314131951: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @Assass1nmarcos — 2026-10-17 09:42 UTC (2026-10-17 10:42 WAT)
+    
+    - URL: https://x.com/Assass1nmarcos/status/2111392502314131951
+    - Metrics (at fetch): bookmark 648, impression 66067, like 845, quote 4, reply 46, retweet 31
+    
+    > Here it is, just from 2 platforms, external bounties and other platforms are additional. All from deepseek 4.1 Flash.
+    >
+    > Monthly billing around $3000 for Deepseek API
+    >
+    > BTW thanks to @Bugcrowd &amp; @Hacker0x01 
+    >  And Special thanks to @ThisIsDK999 https://t.co/wULQIsDVqw https://t.co/SyEfrxDwTp
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HU0sRNDbEAAQlm1.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HU0sRNEbwAAC5aQ.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HU0sRN-bsAAt_yZ.jpg — no alt text provided by author
+    
+    **Quoted post** 2111068971676176653: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---
@@ -62,7 +82,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @Assass1nmarcos — 2026-10-20 14:25 UTC (2026-10-20 15:25 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2112550747087024581
-- Metrics (at fetch): bookmark 58, impression 9464, like 334, quote 0, reply 14, repost 6
+- Metrics (at fetch): bookmark 58, impression 9465, like 334, quote 0, reply 14, retweet 6
 
 > Yay, I was awarded a $6,421 bounty on @Hacker0x01!
 >
@@ -109,7 +129,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @Assass1nmarcos — 2026-10-17 19:06 UTC (2026-10-17 20:06 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2111534424198451434
-- Metrics (at fetch): bookmark 15, impression 11260, like 199, quote 0, reply 22, repost 5
+- Metrics (at fetch): bookmark 15, impression 11261, like 199, quote 0, reply 22, retweet 5
 
 > The biggest comeback is 
 >  "Some top hunter of leaderboard should think your bounty screenshots are Fake."🥳
@@ -226,6 +246,34 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2026-10-17 · Post · Here it is, just from 2 platforms, external bounties and other platforms are additional. All from de
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-10-17 09:42 UTC (2026-10-17 10:42 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2111392502314131951
+- Metrics (at fetch): bookmark 648, impression 66067, like 845, quote 4, reply 46, retweet 31
+
+> Here it is, just from 2 platforms, external bounties and other platforms are additional. All from deepseek 4.1 Flash.
+>
+> Monthly billing around $3000 for Deepseek API
+>
+> BTW thanks to @Bugcrowd &amp; @Hacker0x01 
+>  And Special thanks to @ThisIsDK999 https://t.co/wULQIsDVqw https://t.co/SyEfrxDwTp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HU0sRNDbEAAQlm1.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HU0sRNEbwAAC5aQ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HU0sRN-bsAAt_yZ.jpg — no alt text provided by author
+
+**Quoted post** 2111068971676176653: not readable via the API (deleted, private, or withheld).
+
+
+---
+
 ## 2026-10-15 · Thread · Yay, I was awarded a $12,500 bounty on @Hacker0x01!
 
 
@@ -235,7 +283,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 ### Post — @Assass1nmarcos — 2026-10-15 15:47 UTC (2026-10-15 16:47 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2110759502081675582
-- Metrics (at fetch): bookmark 111, impression 15677, like 487, quote 0, reply 19, repost 12
+- Metrics (at fetch): bookmark 111, impression 15677, like 487, quote 0, reply 19, retweet 12
 
 > Yay, I was awarded a $12,500 bounty on @Hacker0x01!
 >
@@ -278,6 +326,26 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 
 ---
 
+## 2026-10-14 · Post · I earned $2,500 for my submission on @bugcrowd ItTakesACrowd https://t.co/VhPxkJ9IIW
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-10-14 18:24 UTC (2026-10-14 19:24 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2110436653605245375
+- Metrics (at fetch): bookmark 44, impression 7359, like 237, quote 0, reply 8, retweet 4
+
+> I earned $2,500 for my submission on @bugcrowd #ItTakesACrowd https://t.co/VhPxkJ9IIW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUnG6z-bwAAQu9Z.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HUnG7vba4AAaxIt.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-10-12 · Thread · Yay, I was awarded a $7,200 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos TogetherWe
 
 
@@ -287,7 +355,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @Assass1nmarcos — 2026-10-12 19:23 UTC (2026-10-12 20:23 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2109726553705959685
-- Metrics (at fetch): bookmark 25, impression 7206, like 221, quote 0, reply 7, repost 5
+- Metrics (at fetch): bookmark 25, impression 7206, like 221, quote 0, reply 7, retweet 5
 
 > Yay, I was awarded a $7,200 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder
 
@@ -327,7 +395,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @Assass1nmarcos — 2026-10-12 19:30 UTC (2026-10-12 20:30 WAT)
 
 - URL: https://x.com/Assass1nmarcos/status/2109728544893120639
-- Metrics (at fetch): bookmark 61, impression 13729, like 294, quote 0, reply 9, repost 9
+- Metrics (at fetch): bookmark 61, impression 13729, like 294, quote 0, reply 9, retweet 9
 
 > Yay, I was awarded a $6,000 bounty on @Hacker0x01! https://hackerone.com/assassin_marcos #TogetherWeHitHarder [pic.x.com/xmg1lNycvM]
 
