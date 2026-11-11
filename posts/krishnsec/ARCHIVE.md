@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 123
-- Conversations/threads: 123
-- Oldest post captured: 2023-04-27
+- Posts in this file: 138
+- Conversations/threads: 138
+- Oldest post captured: 2023-01-17
 - Newest post captured: 2026-11-04
 
 
@@ -2481,3 +2481,298 @@ Tags (automatic): Platform: Bugcrowd
 > Typically, companies start with VDPs, and once they receive multiple reports and ensure that their systems are pretty much secure
 > they announce bounty program with low bounties range ( $0- $1000 )
 > #poorBBprograms
+
+
+---
+
+## 2023-04-24 · Post · Follow me for easy bounty tips 🤐 [pic.x.com/EMxNytlRY0]
+
+
+### Post — @krishnsec — 2023-04-24 11:54 UTC (2023-04-24 12:54 WAT)
+
+- URL: https://x.com/krishnsec/status/1650468331185647618
+- Metrics (at fetch): not returned
+
+> Follow me for easy bounty tips 🤐 [pic.x.com/EMxNytlRY0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FuekMpsaIAEL48t.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-18 · Post · If subdomains are different  
+
+
+Tags (automatic): XSS
+
+
+### Post — @krishnsec — 2023-04-18 05:42 UTC (2023-04-18 06:42 WAT)
+
+- URL: https://x.com/krishnsec/status/1648200314154020866
+- Metrics (at fetch): not returned
+
+> If subdomains are different  
+> Source code are different 
+> Get request is also diff for XSS
+> but param is same 
+> What do you thing it's Duplicate or not ??
+
+
+---
+
+## 2023-04-04 · Post · In my case :
+
+
+### Post — @krishnsec — 2023-04-04 05:38 UTC (2023-04-04 06:38 WAT)
+
+- URL: https://x.com/krishnsec/status/1643125943307997184
+- Metrics (at fetch): not returned
+
+> In my case :
+> No bounty plus they forget to say even 
+> ‘Thank you’
+> bug worth - $100k 
+>
+> reported &gt; patched with in 30 min of reporting &gt; report closed 
+>
+> Mistake I did - used reporting form instead of private BB program https://twitter.com/robertmcforster/status/1642938509534330886
+
+**Links in post:** https://twitter.com/robertmcforster/status/1642938509534330886
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1217630824272547840 — 2023-04-03 17:13 UTC (2023-04-03 18:13 WAT)
+    
+    - URL: https://x.com/1217630824272547840/status/1642938509534330886
+    - Metrics (at fetch): not returned
+    
+    > Was just offered a bounty of $5,000 for reporting a $2,000,000,000 vulnerability lol
+    
+
+
+---
+
+## 2023-04-01 · Post · Top 10 March leaderboard @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-04-01 05:08 UTC (2023-04-01 06:08 WAT)
+
+- URL: https://x.com/krishnsec/status/1642031174397882369
+- Metrics (at fetch): not returned
+
+> Top 10 March leaderboard @Bugcrowd 
+> #bugcrowd [pic.x.com/ouatjVt8pK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fsmqpc1aIAAWydW.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-29 · Post · Top 25 P1 Warriors ✅globally 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-03-29 05:32 UTC (2023-03-29 06:32 WAT)
+
+- URL: https://x.com/krishnsec/status/1640950060652584961
+- Metrics (at fetch): not returned
+
+> Top 25 P1 Warriors ✅globally 
+> 💯 P1 ✅ @Bugcrowd [pic.x.com/U8B0ZeoXeq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsXS-VYaAAENIXk.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-29 · Post · Top 25 P1 Warriors ✅ 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-03-29 05:30 UTC (2023-03-29 06:30 WAT)
+
+- URL: https://x.com/krishnsec/status/1640949632913252352
+- Metrics (at fetch): not returned
+
+> Top 25 P1 Warriors ✅ 
+> 💯 P1 ✅ @Bugcrowd [pic.x.com/R90c2IYrXl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsXS-VYaAAENIXk.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-13 · Post · Crossed 5K reputation on @bugcrowd ✅
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-03-13 06:34 UTC (2023-03-13 07:34 WAT)
+
+- URL: https://x.com/krishnsec/status/1635167394623811584
+- Metrics (at fetch): not returned
+
+> Crossed 5K reputation on @bugcrowd ✅
+
+
+---
+
+## 2023-03-01 · Post · 171 bugs in 2 months on @Bugcrowd ✅
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-03-01 09:11 UTC (2023-03-01 10:11 WAT)
+
+- URL: https://x.com/krishnsec/status/1630858255894462464
+- Metrics (at fetch): not returned
+
+> 171 bugs in 2 months on @Bugcrowd ✅
+
+
+---
+
+## 2023-02-24 · Post · I never thought magic was real until I stepped into bug bounty .
+
+
+### Post — @krishnsec — 2023-02-24 08:15 UTC (2023-02-24 09:15 WAT)
+
+- URL: https://x.com/krishnsec/status/1629032179169890305
+- Metrics (at fetch): not returned
+
+> I never thought magic was real until I stepped into bug bounty .
+
+
+---
+
+## 2023-02-19 · Post · Report only one XSS on different subs with the same vuln parameter, wait for it to be resolved, 
+
+
+Tags (automatic): XSS
+
+
+### Post — @krishnsec — 2023-02-19 14:37 UTC (2023-02-19 15:37 WAT)
+
+- URL: https://x.com/krishnsec/status/1627316509285703681
+- Metrics (at fetch): not returned
+
+> Report only one XSS on different subs with the same vuln parameter, wait for it to be resolved, 
+> then report the bug on the other sub as bypassed later; if you report both, they will accept one and dupe the other. 
+> I lost $500 recently.
+> #xss
+
+
+---
+
+## 2023-02-19 · Post · Do not report XSS on different subs with same vuln parameter together &gt; report only one &gt; now 
+
+
+Tags (automatic): XSS
+
+
+### Post — @krishnsec — 2023-02-19 14:34 UTC (2023-02-19 15:34 WAT)
+
+- URL: https://x.com/krishnsec/status/1627315671490236420
+- Metrics (at fetch): not returned
+
+> Do not report XSS on different subs with same vuln parameter together &gt; report only one &gt; now wait for resolve &gt; then report bug on other sub as bypass later
+>
+> If you will report both  &gt; they will accept one &amp; other will be duped
+> I lost 500$ recently 
+> #xss
+
+
+---
+
+## 2023-02-10 · Post · MVP Q4 @Bugcrowd [pic.x.com/uLccZ69AXx]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @krishnsec — 2023-02-10 06:26 UTC (2023-02-10 07:26 WAT)
+
+- URL: https://x.com/krishnsec/status/1623931375106805760
+- Metrics (at fetch): not returned
+
+> MVP Q4 @Bugcrowd [pic.x.com/uLccZ69AXx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FolclAwaYAAq2oW.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-04 · Post · New year Resolution 
+
+
+Tags (automatic): ZK
+
+
+### Post — @krishnsec — 2023-02-04 10:28 UTC (2023-02-04 11:28 WAT)
+
+- URL: https://x.com/krishnsec/status/1621818044027895808
+- Metrics (at fetch): not returned
+
+> #New #year #Resolution 
+> This year I decided to help at least 10 BB Hunters( I will choose my own ) to get their 1st bounty on any platform 
+> Learners who r trying hard from 1 or 2years
+> 2 already done - @starkcharry &amp; @TheLittleH4ck3r 
+> 💪⚡️ [pic.x.com/o9xt67JWwS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoHX01racAIPjDq.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FoHX1zlakAAxkBh.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FoHaveQaUAAW1uk.png — no alt text provided by author
+
+
+---
+
+## 2023-01-31 · Post · Recon 🫰
+
+
+Tags (automatic): XSS, SQL injection
+
+
+### Post — @krishnsec — 2023-01-31 23:15 UTC (2023-02-01 00:15 WAT)
+
+- URL: https://x.com/krishnsec/status/1620561557657894912
+- Metrics (at fetch): not returned
+
+> #Recon 🫰
+> 4 SQLi  , 2 Blind XSS , 3 Ref XSS on old fav program
+> plus  1 admin last week ( by full port scan )
+>
+> I hunt on this program 2 times /month and find bugs every time 
+>
+> Read blog &gt; got new idea &gt; write down in notes &gt; do recon again &gt; hunt with notes
+> + #TakeCareOFYourHealth
+
+
+---
+
+## 2023-01-17 · Post · .@GodfatherOrwa  is back  Follow him guys 
+
+
+### Post — @krishnsec — 2023-01-17 09:11 UTC (2023-01-17 10:11 WAT)
+
+- URL: https://x.com/krishnsec/status/1615275729654263808
+- Metrics (at fetch): not returned
+
+> .@GodfatherOrwa  is back  Follow him guys 
+>
+> === Especially those people who ask me for Poc in dm
+> This your time bros , this time Orwa decided to share tips with video poc plus his platform credentials even with 2FA code ,so that u guys can login in his bounty account🙏 ===

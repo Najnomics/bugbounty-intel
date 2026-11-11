@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 180
-- Conversations/threads: 179
-- Oldest post captured: 2017-02-23
+- Posts in this file: 186
+- Conversations/threads: 185
+- Oldest post captured: 2017-02-12
 - Newest post captured: 2026-11-11
 
 
@@ -936,6 +936,19 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
     
     **Links in post:** https://httptoolkit.com/blog/apple-private-access-tokens-attestation/
     
+
+
+---
+
+## 2023-03-21 · Post · @IAmMandatory Sometimes security@ will auto submit to a bounty platform and then, even after comment
+
+
+### Post — @samwcyo — 2023-03-21 11:38 UTC (2023-03-21 12:38 WAT)
+
+- URL: https://x.com/samwcyo/status/1638143070259617792
+- Metrics (at fetch): not returned
+
+> @IAmMandatory Sometimes security@ will auto submit to a bounty platform and then, even after commenting explaining everything and how I do not agree to the terms, the program and platform act as if I’ve explicitly agreed to the TOS. They won’t close my report and let me submit via other means.
 
 
 ---
@@ -3281,3 +3294,83 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
 
 > Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-02-12 · Post · @martenmickos Hey Marten! I got a notification that HackerOne would be sending me some swag. Just cu
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-02-12 19:07 UTC (2017-02-12 20:07 WAT)
+
+- URL: https://x.com/samwcyo/status/830855907257024513
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @martenmickos Hey Marten! I got a notification that HackerOne would be sending me some swag. Just curious on how long it takes to arrive?
+
+
+---
+
+## 2017-02-12 · Post · Yay, I was awarded a $250.00 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-02-12 18:47 UTC (2017-02-12 19:47 WAT)
+
+- URL: https://x.com/samwcyo/status/830850833092923392
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Yay, I was awarded a $250.00 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-02-12 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-02-12 18:47 UTC (2017-02-12 19:47 WAT)
+
+- URL: https://x.com/samwcyo/status/830850722598178816
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-02-12 · Post · Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-02-12 18:46 UTC (2017-02-12 19:46 WAT)
+
+- URL: https://x.com/samwcyo/status/830850694768889857
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder
+
+
+---
+
+## 2017-02-12 · Post · Yay, I was awarded a $850 bounty on @Hacker0x01! https://t.co/jVIHI75I0U TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @samwcyo — 2017-02-12 18:46 UTC (2017-02-12 19:46 WAT)
+
+- URL: https://x.com/samwcyo/status/830850654457446402
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Yay, I was awarded a $850 bounty on @Hacker0x01! https://t.co/jVIHI75I0U #TogetherWeHitHarder

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 157
-- Conversations/threads: 153
+- Posts in this file: 178
+- Conversations/threads: 174
 - Oldest post captured: 2023-10-09
 - Newest post captured: 2026-11-09
 
@@ -3382,6 +3382,444 @@ Tags (automatic): AI-assisted hunting
 > 3⃣ Explain why the false positives it found are invalid
 >
 > 4⃣ Ask it to explain what different functions / bits of code do, then ask it lots of
+
+
+---
+
+## 2025-07-16 · Post · Shout out @giovannidisiena @0xStalin for brilliant work on very tough audit of @vii_finance coded by
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-07-16 10:30 UTC (2025-07-16 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1945430710224888210
+- Metrics (at fetch): bookmark 14, impression 12102, like 60, quote 4, reply 1, retweet 2
+
+> Shout out @giovannidisiena @0xStalin for brilliant work on very tough audit of @vii_finance coded by elite bug bounty hunter @kankodu, finding:
+>
+> * 1 Critical - liquidation DoS
+> * 2 High - theft of fees &amp; value extraction
+> * 2 Med, 3 Low &amp; 2 Info
+>
+> @vii_finance is a very interesting https://t.co/0FqphTFqYc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv9teW9XcAAB8vh.png — no alt text provided by author
+
+
+---
+
+## 2025-07-16 · Post · This was the @strata_money audit by @giovannidisiena &amp; myself💪
+
+
+### Post — @DevDacian — 2025-07-16 07:44 UTC (2025-07-16 08:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1945389045875650631
+- Metrics (at fetch): bookmark 0, impression 1727, like 17, quote 0, reply 1, retweet 2
+
+> This was the @strata_money audit by @giovannidisiena &amp; myself💪
+>
+> Thank you to @0xrubes for the amazing feedback! https://t.co/8GvtaHPDvL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2841342292 — 2025-07-15 12:42 UTC (2025-07-15 13:42 WAT)
+    
+    - URL: https://x.com/2841342292/status/1945101768804753887
+    - Metrics (at fetch): bookmark 4, impression 13118, like 72, quote 4, reply 7, retweet 5
+    
+    > In light of recent vibes here in crypto security twitter, I’d like to try something different: Recently, I was part of a followup audit on a small codebase that just passed an audit with @cyfrin -- and damn, they killed it! (1/3)
+    
+
+
+---
+
+## 2025-07-15 · Post · First 2 days confirmed output from current private audit, beast mode engaged💪 https://t.co/ycXLmUG10
+
+
+### Post — @DevDacian — 2025-07-15 13:29 UTC (2025-07-15 14:29 WAT)
+
+- URL: https://x.com/DevDacian/status/1945113535656419794
+- Metrics (at fetch): bookmark 1, impression 2591, like 63, quote 0, reply 3, retweet 0
+
+> First 2 days confirmed output from current private audit, beast mode engaged💪 https://t.co/ycXLmUG10K
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv5ubRVa4AAkdWR.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-15 · Post · 💡Audit Heuristic - Loop Bypass💡
+
+
+### Post — @DevDacian — 2025-07-15 09:10 UTC (2025-07-15 10:10 WAT)
+
+- URL: https://x.com/DevDacian/status/1945048361263849855
+- Metrics (at fetch): bookmark 46, impression 5540, like 103, quote 1, reply 6, retweet 9
+
+> 💡Audit Heuristic - Loop Bypass💡
+>
+> When seeing a loop with reverts inside, what happens if list is empty so the loop never executes?
+>
+> Especially if attacker controls list inputs being looped over!
+>
+> Does code assume success even though no checks were executed due to empty list? https://t.co/pQmV9Iu6vj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gv4yjNkagAA3aeA.png — no alt text provided by author
+
+
+---
+
+## 2025-07-14 · Post · Shout out @0xluk3 &amp; myself for finalizing this very tough audit for a major TradFi protocol feat
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2025-07-14 10:30 UTC (2025-07-14 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1944705936804712881
+- Metrics (at fetch): bookmark 3, impression 3126, like 41, quote 1, reply 3, retweet 0
+
+> Shout out @0xluk3 &amp; myself for finalizing this very tough audit for a major TradFi protocol featuring both on-chain &amp; off-chain components!
+>
+> @0xluk3 contributed some great web2-style findings related to the off-chain components which is why I chose him for this audit &amp; he https://t.co/vmsTGpOEo9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gvy__KpWwAAF7AI.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-10 · Post · Symmetry can exist where it shouldn't especially as "additional safety measures".
+
+
+### Post — @DevDacian — 2025-07-10 10:30 UTC (2025-07-10 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1943256384335671451
+- Metrics (at fetch): bookmark 13, impression 1695, like 31, quote 0, reply 2, retweet 0
+
+> Symmetry can exist where it shouldn't especially as "additional safety measures".
+>
+> In this audit users prepare boxes then redeem them. What happens once all boxes have been prepared?
+>
+> Impossible to redeem anymore boxes - critical DoS due to the "additional safety measure"💥 https://t.co/2FHpbFGPBl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvfAY0mWYAALvc8.png — no alt text provided by author
+
+
+---
+
+## 2025-07-09 · Post · Insufficient Function Access Controls (4 DeFi Attack Vector 2025) isn't just about checking whether
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-07-09 10:30 UTC (2025-07-09 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1942893999087661252
+- Metrics (at fetch): bookmark 59, impression 5293, like 91, quote 0, reply 7, retweet 6
+
+> Insufficient Function Access Controls (#4 DeFi Attack Vector 2025) isn't just about checking whether a modifier is there; instead consider the principles behind this attack vector:
+>
+> 1) actors shouldn't have more privileges than required to do their job
+>
+> 2) defense in depth; limit https://t.co/rFGNqaU7ih
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvZMPOVaYAIuPip.png — no alt text provided by author
+
+
+---
+
+## 2025-07-08 · Post · Shout out @0xStalin &amp; myself for amazing result on the finalized security audit of @RemoraUS fin
+
+
+### Post — @DevDacian — 2025-07-08 10:30 UTC (2025-07-08 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1942531607643971587
+- Metrics (at fetch): bookmark 10, impression 6891, like 72, quote 3, reply 6, retweet 8
+
+> Shout out @0xStalin &amp; myself for amazing result on the finalized security audit of @RemoraUS finding:
+>
+> * 3 Critical
+> * 3 High
+> * 17 Medium
+> * 13 Low
+> * 9 Info, 12 Gas
+>
+> @RemoraUS is an innovative RWA protocol enabling real-estate developers to tokenize and sell fractional shares of https://t.co/GiOzMFm3mo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvT_FjnbwAA4KzP.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GvT_FkWXEAAmaZS.png — no alt text provided by author
+
+
+---
+
+## 2025-07-07 · Post · Shout out @0kage_eth @Ubermensh3dot0 @1337web3 @PeterSRWeb3 for amazing work on the finalized securi
+
+
+### Post — @DevDacian — 2025-07-07 10:30 UTC (2025-07-07 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1942169222031012253
+- Metrics (at fetch): bookmark 13, impression 6804, like 84, quote 2, reply 11, retweet 9
+
+> Shout out @0kage_eth @Ubermensh3dot0 @1337web3 @PeterSRWeb3 for amazing work on the finalized security audit of @SuzakuNetwork finding:
+>
+> * 2 Critical
+> * 10 High
+> * 19 Medium
+> * 13 Low
+> * 1 Info, 6 Gas
+>
+> @SuzakuNetwork is a large &amp; ambitious "Decentralization Hub for L1s" protocol who https://t.co/lmdz8P4qmz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvPnqk5aAAAcpG6.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GvPnqlAa8AAwn6n.png — no alt text provided by author
+
+
+---
+
+## 2025-07-02 · Post · Signing really great win-win audit deals this week, very exciting!
+
+
+### Post — @DevDacian — 2025-07-02 10:30 UTC (2025-07-02 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1940357279930605739
+- Metrics (at fetch): bookmark 1, impression 2123, like 37, quote 0, reply 0, retweet 4
+
+> Signing really great win-win audit deals this week, very exciting!
+>
+> Mix of established "Tier 1" protocols doing upgrades &amp; new innovative protocols from cracked devs that could be the Tier 1s of the future!
+>
+> Feels like everyone wants to work with @cyfrin 🚀🚀🚀
+
+
+---
+
+## 2025-07-01 · Post · Shout out @Stalin_eth &amp; myself for amazing result on 6-day audit of interesting RWA protocol aim
+
+
+### Post — @DevDacian — 2025-07-01 10:30 UTC (2025-07-01 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1939994895466328299
+- Metrics (at fetch): bookmark 3, impression 4828, like 55, quote 1, reply 4, retweet 0
+
+> Shout out @Stalin_eth &amp; myself for amazing result on 6-day audit of interesting RWA protocol aiming to tokenize physical real-estate! Together we found:
+>
+> * 3 Crit
+> * 3 High
+> * 13 Med
+> * 12 Low
+>
+> Plus we wrote a targeted fuzz testing suite which the client merged to their repo! https://t.co/X6ub1DUvoc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GuwVHDhXUAAz1HJ.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-30 · Post · Niche but very useful Solidity vulnerability pattern!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2025-06-30 10:30 UTC (2025-06-30 11:30 WAT)
+
+- URL: https://x.com/DevDacian/status/1939632507374436742
+- Metrics (at fetch): bookmark 101, impression 9289, like 188, quote 0, reply 14, retweet 15
+
+> Niche but very useful Solidity vulnerability pattern!
+>
+> Function takes user-supplied address(es) as input but doesn't validate they are legit protocol contracts!
+>
+> Attacker can deploy their own hack contracts to get control, execute arbitrary code &amp; return arbitrary values! https://t.co/iC5TeLmaKk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Guc4lgxaIAAkwfg.png — no alt text provided by author
+
+
+---
+
+## 2025-06-28 · Post · Modifier was close, but not close enough!
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-06-28 08:03 UTC (2025-06-28 09:03 WAT)
+
+- URL: https://x.com/DevDacian/status/1938870755410030876
+- Metrics (at fetch): bookmark 19, impression 2358, like 32, quote 0, reply 2, retweet 2
+
+> Modifier was close, but not close enough!
+>
+> Really basic stuff but according to @blockthreat insufficient access control is #4 attack vector this year stealing $14M!
+>
+> AI getting very good at finding these silly vulns reducing the cost of finding them to near zero. https://t.co/8Eow04lw2v
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gug_lJDaEAAQ5ab.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-26 · Post · The primary aim of @cyfrin is to be a blessing to everyone who interacts with us.
+
+
+### Post — @DevDacian — 2025-06-26 21:44 UTC (2025-06-26 22:44 WAT)
+
+- URL: https://x.com/DevDacian/status/1938352707024392410
+- Metrics (at fetch): bookmark 0, impression 2403, like 73, quote 0, reply 4, retweet 1
+
+> The primary aim of @cyfrin is to be a blessing to everyone who interacts with us.
+>
+> Developers, researchers, protocols and even other audit firms; to help build up entire web3 community, to be a blessing to everyone!
+>
+> Our #1 goal is for all of us to win in life together💪
+
+
+---
+
+## 2025-06-26 · Post · Very exciting time to be a @cyfrin shareholder:
+
+
+### Post — @DevDacian — 2025-06-26 09:56 UTC (2025-06-26 10:56 WAT)
+
+- URL: https://x.com/DevDacian/status/1938174503848448136
+- Metrics (at fetch): bookmark 4, impression 2844, like 65, quote 0, reply 8, retweet 2
+
+> Very exciting time to be a @cyfrin shareholder:
+>
+> ⭐️@CyfrinUpdraft growth metrics "to the moon"
+>
+> ⭐️many huge features &amp; courses dropping throughout rest of the year
+>
+> ⭐️everyone wants to partner with us
+>
+> ⭐️putting together amazing win-win private audit deals
+>
+> 2025 🚀🚀🚀
+
+
+---
+
+## 2025-06-25 · Post · Cute niche Solidity knowledge shown using Chisel that occasionally converts into nice Critical DoS f
+
+
+Tags (automatic): Smart contract / DeFi, Memory corruption / native
+
+
+### Post — @DevDacian — 2025-06-25 10:46 UTC (2025-06-25 11:46 WAT)
+
+- URL: https://x.com/DevDacian/status/1937824783280058425
+- Metrics (at fetch): bookmark 82, impression 8382, like 157, quote 2, reply 5, retweet 5
+
+> Cute niche Solidity knowledge shown using Chisel that occasionally converts into nice Critical DoS findings.
+>
+> Multiplying two smaller types &amp; putting the result into a larger type will overflow revert, unless casting one of the smaller types prior to multiplication. https://t.co/BlMQyNH4sL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GuSIuw_bwAAz4Po.png — no alt text provided by author
+
+
+---
+
+## 2025-06-24 · Post · Being Audit Team Manager @cyfrin is really a dream job for me. Why?
+
+
+### Post — @DevDacian — 2025-06-24 21:24 UTC (2025-06-24 22:24 WAT)
+
+- URL: https://x.com/DevDacian/status/1937622786530509155
+- Metrics (at fetch): bookmark 9, impression 6520, like 133, quote 0, reply 8, retweet 4
+
+> Being Audit Team Manager @cyfrin is really a dream job for me. Why?
+>
+> Because I get to organize &amp; run private audits the way they should be run. For every Cyfrin private audit I assemble an elite team from our proven &amp; skilled internal and external Eagle auditors, matching
+
+
+---
+
+## 2025-06-24 · Post · First day of new private audit, beast mode engaged 💪 https://t.co/ZcSNHbBQ7I
+
+
+### Post — @DevDacian — 2025-06-24 11:00 UTC (2025-06-24 12:00 WAT)
+
+- URL: https://x.com/DevDacian/status/1937465732117238035
+- Metrics (at fetch): bookmark 11, impression 7587, like 131, quote 0, reply 11, retweet 3
+
+> First day of new private audit, beast mode engaged 💪 https://t.co/ZcSNHbBQ7I
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GuLdWZIbsAEdyBh.jpg — no alt text provided by author
+
+
+---
+
+## 2025-06-17 · Post · Weird experience with ClaudePro, can anyone explain?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-06-17 22:14 UTC (2025-06-17 23:14 WAT)
+
+- URL: https://x.com/DevDacian/status/1935098827792589281
+- Metrics (at fetch): bookmark 7, impression 3627, like 19, quote 0, reply 5, retweet 0
+
+> Weird experience with ClaudePro, can anyone explain?
+>
+> If I ask Claude to analyze contract A, then afterwards to analyze contract B (completely unrelated to A), it instantly finds a critical CCIP integration vuln in B.
+>
+> But if I ask Claude to analyze contract B first, it misses
+
+
+---
+
+## 2025-06-17 · Post · Weird experience with ClaudePro, can anyone explain?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2025-06-17 22:14 UTC (2025-06-17 23:14 WAT)
+
+- URL: https://x.com/DevDacian/status/1935098635923964365
+- Metrics (at fetch): bookmark 0, impression 50, like 0, quote 0, reply 0, retweet 0
+
+> Weird experience with ClaudePro, can anyone explain?
+>
+> If I ask Claude to analyze contract A, then afterwards to analyze contract B (completely unrelated to A), it instantly finds a critical CCIP integration vuln in B.
+>
+> But if I ask Claude to analyze contract B it misses the
+
+
+---
+
+## 2025-06-17 · Post · Over 15 publicly available Vault / ERC4626 audits, @cyfrin produced an average of 2.53 Crit/High fin
+
+
+### Post — @DevDacian — 2025-06-17 13:37 UTC (2025-06-17 14:37 WAT)
+
+- URL: https://x.com/DevDacian/status/1934968548037939615
+- Metrics (at fetch): bookmark 21, impression 3350, like 44, quote 0, reply 1, retweet 4
+
+> Over 15 publicly available Vault / ERC4626 audits, @cyfrin produced an average of 2.53 Crit/High findings per audit while auditing a range of challenging &amp; interesting protocols!
+>
+> Want both great brand value &amp; security output? Cyfrin provides both! https://t.co/4bz2vbLL4m
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GtpiG3SaQAAiYs6.jpg — no alt text provided by author
 
 
 ---

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 427
-- Conversations/threads: 226
+- Posts in this file: 453
+- Conversations/threads: 232
 - Oldest post captured: 2023-11-02
 - Newest post captured: 2025-04-21
 
@@ -10007,20 +10007,604 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2024-02-14 · Post · Today, we invite our community to join the movement in shedding light on the shadows of Web3 hacks.
+## 2024-02-14 · Thread · Introducing Lumos, the platform that enables you to track all web3 hacks with just one click.
 
 
-### Post — @ChainLight_io — 2024-02-14 18:08 UTC (2024-02-14 19:08 WAT)
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-02-14 18:07 UTC (2024-02-14 19:07 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757828968055738437
+- Metrics (at fetch): not returned
+
+> Introducing Lumos, the platform that enables you to track all web3 hacks with just one click.
+>
+> https://lumos.chainlight.io/
+>
+> Our goal is simple: to illuminate the shadows of web3 hacks. [pic.x.com/FKd9omj2nb]
+
+**Media:**
+- video:  — no alt text provided by author
+
+**Links in post:** https://lumos.chainlight.io/
+
+
+### Thread part 2 — @ChainLight_io — 2024-02-14 18:07 UTC (2024-02-14 19:07 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757829052550033438
+- Metrics (at fetch): not returned
+
+> Now, anyone, regardless of engineering background, can access the following information:
+>
+> → Hacked amount, date, and attack vector
+> → Pre-incident audit
+> → Post-mortem release
+> → Community compensation
+> → Post-incident audit
+> → Stolen fund destination
+> → Audit history, and scope [pic.x.com/DfVfEHeVPp]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 3 — @ChainLight_io — 2024-02-14 18:08 UTC (2024-02-14 19:08 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757829090466541670
+- Metrics (at fetch): not returned
+
+> The database contains Web3 hacks from 2023, and the data was sourced from our internal database. We have been utilizing this database for months to conduct internal case studies and research.
+>
+> And now, we're making it available to the public. [pic.x.com/8zzNLiUkAC]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 4 — @ChainLight_io — 2024-02-14 18:08 UTC (2024-02-14 19:08 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757829094086259175
+- Metrics (at fetch): not returned
+
+> The purpose of releasing this internal database to the public is to create a safer and more mature web3 space. In 2023 alone, $1.8B was lost in hacks. Countless projects, builders, and communities have suffered.
+>
+> Fuel has been added to the "why blockchain is a scam" narrative.
+
+
+### Thread part 5 — @ChainLight_io — 2024-02-14 18:08 UTC (2024-02-14 19:08 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757829097471029259
+- Metrics (at fetch): not returned
+
+> To achieve a safer and more mature Web3 ecosystem, it is crucial to closely examine the prevalent security incidents within the past and current ecosystem and identify areas where we, as a Web3 space, may be falling short in order to make necessary improvements.
+
+
+### Thread part 6 — @ChainLight_io — 2024-02-14 18:08 UTC (2024-02-14 19:08 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757829100725809270
+- Metrics (at fetch): not returned
+
+> Above all, it is crucial for us to provide transparent information to the public and alert them to the existing risks stemming from both the smart contract and the project's team.
+
+
+### Thread part 7 — @ChainLight_io — 2024-02-14 18:08 UTC (2024-02-14 19:08 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1757829154660364313
 - Metrics (at fetch): bookmark 0, impression 569, like 8, quote 0, reply 1, retweet 0
 
 > Today, we invite our community to join the movement in shedding light on the shadows of Web3 hacks.
 >
-> You can contribute by providing intel on existing or new hacks through Lumos. Your contribution and name will be recorded and reflected in the platform after the verification. https://t.co/bSnANH2qCj
+> You can contribute by providing intel on existing or new hacks through Lumos. Your contribution and name will be recorded and reflected in the platform after the verification. [pic.x.com/bSnANH2qCj]
 
 **Media:**
-- media `7_1757829108527140864` (details not returned by the API)
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-02-13 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757452600419791211
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/7) [pic.x.com/58NHxT3kEm]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757452604211442172
+- Metrics (at fetch): not returned
+
+> Table of Contents:
+>
+> 1️⃣ PlayDapp Token Contract Takes a Hit
+> 2️⃣ Solana Shuts Down for 5 Hours
+> 3️⃣ Binance Offers a $5M Bounty For Security
+> 4️⃣ AI-generated ID Passes CEX KYC Process
+>
+> (2/7)
+
+
+### Thread part 3 — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757452607604634070
+- Metrics (at fetch): not returned
+
+> 1️⃣ @playdapp_io Token Contract Under Attack
+>
+> • The attacker has gained complete control of the token contract, and the original deployer has lost all authority.
+> • As a result of the exploit, an additional 1.79 billion $PLA tokens have been minted in total.
+>
+> (3/7) https://twitter.com/1166548668083658752/status/1756060784692736038
+
+**Links in post:** https://twitter.com/1166548668083658752/status/1756060784692736038
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1166548668083658752 — 2024-02-09 21:01 UTC (2024-02-09 22:01 WAT)
+    
+    - URL: https://x.com/1166548668083658752/status/1756060784692736038
+    - Metrics (at fetch): not returned
+    
+    > We are writing to inform you of a critical security incident involving the PLA token contract. The PLA token contract has been hacked and additional PLA tokens have been issued. We understand the gravity of this situation and assure you that we are taking immediate action.
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757452611173986699
+- Metrics (at fetch): not returned
+
+> 2️⃣ Solana Shuts Down for 5 Hours
+>
+> • Solana validators JIT compile the programs before executing a referenced transaction.
+> • Due to a bug in the legacy loader, an infinite loop of recompilation was triggered.
+> • The @solana team published a detailed post-mortem.
+>
+> (4/7) https://twitter.com/1291496013551661056/status/1754813351945789491
+
+**Links in post:** https://twitter.com/1291496013551661056/status/1754813351945789491
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1291496013551661056 — 2024-02-06 10:24 UTC (2024-02-06 11:24 WAT)
+    
+    - URL: https://x.com/1291496013551661056/status/1754813351945789491
+    - Metrics (at fetch): not returned
+    
+    > Engineers from across the ecosystem are investigating an outage on mainnet-beta. This thread will be updated as more information becomes available  https://status.solana.com/
+    
+    **Links in post:** https://status.solana.com/
+    
+
+
+### Thread part 5 — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757452615171158038
+- Metrics (at fetch): not returned
+
+> 3️⃣ Binance Offers a $5M Bounty for Security
+>
+> • Last week, @binance was suspected of a data breach, including customer KYC info and law enforcement system access.
+> • Binance co-founder Yi He offered a security bounty of up to $5M for reporting internal corruption.
+>
+> (5/7) https://twitter.com/1003840309166366721/status/1754579225967726810
+
+**Links in post:** https://twitter.com/1003840309166366721/status/1754579225967726810
+
+**Quoted post (full text):**
+
+    #### Quoted post — @heyibinance — 2024-02-05 18:54 UTC (2024-02-05 19:54 WAT)
+    
+    - URL: https://x.com/heyibinance/status/1754579225967726810
+    - Metrics (at fetch): not returned
+    
+    > 5）高额悬赏。欢迎所有知道任何涉及上币及其他贪腐行为的举报，如核实币安团队人员贪腐，我们将在保密你的身份同时，为您提供奖励1万美金～5百万美金，的安全漏洞奖金；比老鼠仓好赚多了，举报邮箱：audit@binance.com
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757452618895700420
+- Metrics (at fetch): not returned
+
+> 4️⃣ AI-generated ID Passes CEX KYC Process
+>
+> • @404mediaco reported the site named OnlyFake that generates high-quality IDs leveraging AI.
+> • The authors demonstrated that they could pass the KYC measures of OKX using the generated ID cards.
+>
+> (6/7) https://twitter.com/274991683/status/1754901892524568804
+
+**Links in post:** https://twitter.com/274991683/status/1754901892524568804
+
+**Quoted post (full text):**
+
+    #### Quoted post — @274991683 — 2024-02-06 16:16 UTC (2024-02-06 17:16 WAT)
+    
+    - URL: https://x.com/274991683/status/1754901892524568804
+    - Metrics (at fetch): not returned
+    
+    > New impact from 404 Media: OnlyFake, the underground website we showed allowed anyone to make highly convincing photos of fake IDs in minutes, has gone dark. Comes after our investigation showing it could be used to bypass ID verification
+    >
+    > "Website down?" 
+    > https://www.404media.co/onlyfake-neural-network-fake-id-site-goes-dark-after-404-media-investigation/ [pic.x.com/ojIBgs6DbZ]
+    
+    **Media:**
+    - media `3_1754901834102087681` (details not returned by the API)
+    
+    **Links in post:** https://www.404media.co/onlyfake-neural-network-fake-id-site-goes-dark-after-404-media-investigation/
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1757452622599262217
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> If you found this thread helpful, please give it a like and a repost.
+>
+> To stay up-to-date with the latest reports, research, and insights from our award-winning security researchers, subscribe to our newsletter👇
+>
+> https://mailchi.mp/chainlight/newsletter
+>
+> (7/7) https://twitter.com/1567176804712222721/status/1757452600419791211
+
+**Links in post:** https://mailchi.mp/chainlight/newsletter, https://twitter.com/1567176804712222721/status/1757452600419791211
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-02-13 17:12 UTC (2024-02-13 18:12 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1757452600419791211
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly summary to stay in the loop 🧵👇
+    >
+    > (1/7) [pic.x.com/58NHxT3kEm]
+    
+    **Media:**
+    - video:  — no alt text provided by author
+    
+
+
+---
+
+## 2024-02-11 · Thread · Introducing EVM DAY by @curta_ctf, @ChainLight_io, and @gasliteGG
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-02-11 12:33 UTC (2024-02-11 13:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1756657594708733998
+- Metrics (at fetch): not returned
+
+> Introducing EVM DAY by @curta_ctf, @ChainLight_io, and @gasliteGG
+>
+> A day-long event of networking, CTF puzzles, and gas optimization challenges dedicated to devs and security experts.
+>
+> And, of course, catering served by a 3 Michelin-Star trained private Head Chef.
+>
+> RSVP below👇 [pic.x.com/EgXdrGBjii]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGDmxVya8AAon-J.jpg — no alt text provided by author
+
+
+### Thread part 2 — @ChainLight_io — 2024-02-11 12:33 UTC (2024-02-11 13:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1756657605710320070
+- Metrics (at fetch): not returned
+
+> EVM Day is open to everyone. Limited capacity is available, prioritizing those who are participating in the competitions.
+>
+> RSVP here: http://lu.ma/evm
+>
+> If you don't get approved (or want to sponsor), please DM @0xRosc. [pic.x.com/UYpViUXOk5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGDmx9JaUAAeX-f.jpg — no alt text provided by author
+
+**Links in post:** http://lu.ma/evm
+
+
+### Thread part 3 — @ChainLight_io — 2024-02-11 12:33 UTC (2024-02-11 13:33 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1756657621686423935
+- Metrics (at fetch): not returned
+
+> See you in Denver. [pic.x.com/wMmQAVkQBQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GGDmykXb0AA5zVb.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-10 · Post · We are excited to announce our partnership with Dunamu, the parent company of @Official_Upbit, South
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ChainLight_io — 2024-02-10 08:32 UTC (2024-02-10 09:32 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1756234627466019150
+- Metrics (at fetch): not returned
+
+> We are excited to announce our partnership with Dunamu, the parent company of @Official_Upbit, South Korea's largest crypto exchange.
+>
+> This partnership aims to tackle the shortage of security professionals and the lack of educational infrastructure needed to nurture them in the rapidly growing Web3 ecosystem.
+>
+> Through this partnership, ChainLight will lead the development of Web3 security talent by creating robust curricula that cover blockchain trends, offering training based on real-world case studies, and conducting mentoring sessions.
+>
+> In 2023, Web3 lost $1.8 billion to hackers and scammers. Hacks in 2024 will be more bloody than those in 2023. This is the era to gear up for digital warfare.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GF9mFS3boAAbXvD.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-08 · Post · Why do projects keep getting hacked? How is ZK tech's security different?
+
+
+Tags (automatic): ZK
+
+
+### Post — @ChainLight_io — 2024-02-08 20:02 UTC (2024-02-08 21:02 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1755683543777439872
+- Metrics (at fetch): not returned
+
+> Why do projects keep getting hacked? How is ZK tech's security different?
+>
+> Join ChainLight's CTO, @andrewwesie, as he shares our insights, approach, and focus with @Ashton_Addison_ on the @CryptoCoinShow.
+>
+> https://youtu.be/9eLSoYc9OZE?feature=shared
+
+**Links in post:** https://youtu.be/9eLSoYc9OZE?feature=shared
+
+
+---
+
+## 2024-02-06 · Post · 100+ white hat hackers under one roof.
+
+
+### Post — @ChainLight_io — 2024-02-06 15:44 UTC (2024-02-06 16:44 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754893933346447683
+- Metrics (at fetch): not returned
+
+> 100+ white hat hackers under one roof.
+>
+> We recently concluded a workshop to reflect on the year 2023 and set our objectives for 2024. This year, ChainLight's main focus will be:
+>
+> - Promoting the public good
+> - Standardizing due diligence
+>
+> In 2023, Web3 lost $1.8 billion to hackers and scammers. 2024 is the year for projects and audit firms to prioritize due diligence.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFqiVlPbgAAaJxT.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-05 · Thread · Which rug pulls, exploits, and security breaches happened this week?
+
+
+### Post — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535618175238601
+- Metrics (at fetch): not returned
+
+> Which rug pulls, exploits, and security breaches happened this week?
+>
+> Read this 2-minute weekly summary to stay in the loop 🧵👇
+>
+> (1/8) [pic.x.com/DOSYbET29G]
+
+**Media:**
+- media `7_1754535598126489600` (details not returned by the API)
+
+
+### Thread part 2 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535625662115875
+- Metrics (at fetch): not returned
+
+> 1️⃣ Abracadabra Finance Loses $6.4M
+>
+> • Abracadabra Finance, well-known for its token @MIM_Spell, lost $6.4M due to a contract vulnerability.
+> • A rounding bug existed in the repayment function, allowing price manipulation of the pool's share.
+>
+> (3/8) https://twitter.com/MIM_Spell/status/1752286636740579440
+
+**Links in post:** https://twitter.com/MIM_Spell/status/1752286636740579440
+
+**Quoted post** 1752286636740579440: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 3 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535629281710479
+- Metrics (at fetch): not returned
+
+> 2️⃣ $113M Exploited From Ripple Co-founder's Wallet
+>
+> • $113M of XRP in a "personal" wallet of @Ripple co-founder, @chrislarsensf, was stolen.
+> • The exploited assets were moved to various CEXs.
+> • Binance has managed to freeze $4.2M of the stolen funds.
+>
+> (4/8) https://twitter.com/zachxbt/status/1752694489905528943
+
+**Links in post:** https://twitter.com/zachxbt/status/1752694489905528943
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3012852462 — 2024-01-31 14:05 UTC (2024-01-31 15:05 WAT)
+    
+    - URL: https://x.com/3012852462/status/1752694489905528943
+    - Metrics (at fetch): not returned
+    
+    > It appears @Ripple was hacked for ~213M XRP ($112.5M)
+    >
+    > Source address
+    > rJNLz3A1qPKfWCtJLPhmMZAfBkutC2Qojm
+    >
+    > So far the stolen funds have been laundered through MEXC, Gate, Binance, Kraken, OKX, HTX, HitBTC, etc [pic.x.com/HKGYsLQeMv]
+    
+    **Media:**
+    - media `3_1752694480367710208` (details not returned by the API)
+    
+
+
+### Thread part 4 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535633325044098
+- Metrics (at fetch): not returned
+
+> 3️⃣ LFG Exchange Uploads Fake Audit Reports
+>
+> • @lfgexchange published fake audit reports of @trailofbits and @osec_io on their website.
+> • After both audit firms denied the cooperation, the project deleted the audit reports.
+>
+> (5/8) https://twitter.com/127289989/status/1752109824282910869
+
+**Links in post:** https://twitter.com/127289989/status/1752109824282910869
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1752109824282910869
+    - Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
+    
+    > Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews [pic.x.com/c2sT5xM1T1]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GFC92kUbsAAvuiO.png — no alt text provided by author
+    
+    **Links in post:** https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews
+    
+
+
+### Thread part 5 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535637179580919
+- Metrics (at fetch): not returned
+
+> 4️⃣ Security Concerns Around Binance
+>
+> • @404mediaco's recent report revealed the existence of a GitHub cache exposing sensitive internal information.
+> • Initially, Binance asked for the report to be deleted, but later claimed the information to be obsolete.
+>
+> (6/8) https://twitter.com/274991683/status/1752699912293056839
+
+**Links in post:** https://twitter.com/274991683/status/1752699912293056839
+
+**Quoted post (full text):**
+
+    #### Quoted post — @274991683 — 2024-01-31 14:26 UTC (2024-01-31 15:26 WAT)
+    
+    - URL: https://x.com/274991683/status/1752699912293056839
+    - Metrics (at fetch): not returned
+    
+    > New from 404 Media: Binance code &amp; internal passwords exposed on GitHub for months. Includes code for how Binance implements 2FA, much more  
+    > Legal demand says GitHub user is “hosting [..] leaks of internal code which poses significant risk to BINANCE.”
+    >
+    > https://www.404media.co/binance-internal-code-and-passwords-exposed-on-github-for-months/ [pic.x.com/hB1L2o25Zo]
+    
+    **Media:**
+    - media `3_1752699901132382208` (details not returned by the API)
+    
+    **Links in post:** https://www.404media.co/binance-internal-code-and-passwords-exposed-on-github-for-months/
+    
+
+
+### Thread part 6 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535641063551082
+- Metrics (at fetch): not returned
+
+> 5️⃣ Security Concerns Surrounding Binance
+>
+> • Shortly after the GitHub incident, users discovered Binance users' KYC data being sold on the dark web.
+> • Despite @BinanceHelpDesk's claim of no data leakage, the community remains concerned about the data breach.
+>
+> (7/8) https://twitter.com/otteroooo/status/1754172101450432983
+
+**Links in post:** https://twitter.com/otteroooo/status/1754172101450432983
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1499023927766626309 — 2024-02-04 15:56 UTC (2024-02-04 16:56 WAT)
+    
+    - URL: https://x.com/1499023927766626309/status/1754172101450432983
+    - Metrics (at fetch): not returned
+    
+    > Binance users KYC data seems to be on sale on the dark web now
+    >
+    > alleged github hack leak [pic.x.com/SPjGQPsIlS]
+    
+    **Media:**
+    - media `3_1754172093678366720` (details not returned by the API)
+    
+
+
+### Thread part 7 — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+
+- URL: https://x.com/ChainLight_io/status/1754535644737790202
+- Metrics (at fetch): not returned
+
+> Thank you for reading.
+>
+> If you found this thread helpful, please give it a like and a repost.
+>
+> To stay up-to-date with the latest reports, research, and insights from our award-winning security researchers, subscribe to our newsletter👇
+>
+> https://mailchi.mp/chainlight/newsletter
+>
+> (8/8) https://twitter.com/ChainLight_io/status/1754535618175238601
+
+**Links in post:** https://mailchi.mp/chainlight/newsletter, https://twitter.com/ChainLight_io/status/1754535618175238601
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ChainLight_io — 2024-02-05 16:01 UTC (2024-02-05 17:01 WAT)
+    
+    - URL: https://x.com/ChainLight_io/status/1754535618175238601
+    - Metrics (at fetch): not returned
+    
+    > Which rug pulls, exploits, and security breaches happened this week?
+    >
+    > Read this 2-minute weekly summary to stay in the loop 🧵👇
+    >
+    > (1/8) [pic.x.com/DOSYbET29G]
+    
+    **Media:**
+    - media `7_1754535598126489600` (details not returned by the API)
+    
 
 
 ---

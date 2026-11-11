@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 58
-- Conversations/threads: 54
-- Oldest post captured: 2026-03-14
+- Posts in this file: 59
+- Conversations/threads: 55
+- Oldest post captured: 2025-11-06
 - Newest post captured: 2026-11-09
 
 
@@ -1238,3 +1238,44 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - video:  — no alt text provided by author
 
 **Links in post:** https://monad-scope-piki-nodes.com/
+
+
+---
+
+## 2025-11-06 · Post · My first ever @code4rena audit — and I placed 2nd in the Hybra Finance competition! 🥈
+
+
+Tags (automatic): Smart contract / DeFi, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @Piki_eth — 2025-11-06 06:19 UTC (2025-11-06 07:19 WAT)
+
+- URL: https://x.com/Piki_eth/status/1986317511495983606
+- Metrics (at fetch): bookmark 0, impression 519, like 14, quote 0, reply 6, retweet 2
+
+> My first ever @code4rena audit — and I placed 2nd in the Hybra Finance competition! 🥈
+> Super hyped to see my Solidity &amp; dev skills paying off 💪
+> Big thanks to @code4rena &amp; the Hybra team for the awesome experience. @HybraFinance 
+> https://t.co/GX5vIb07Dl https://t.co/5QcqOOlohb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5DQ6hmaEAAomm0.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1358831196747235328 — 2025-11-06 01:44 UTC (2025-11-06 02:44 WAT)
+    
+    - URL: https://x.com/1358831196747235328/status/1986248191537537077
+    - Metrics (at fetch): bookmark 2, impression 4779, like 44, quote 3, reply 4, retweet 2
+    
+    > The results of the $33,000 Hybra Finance Competitive Audit are in!
+    >
+    > Big congrats to everyone who submitted valid findings, especially to the OpaBatyo team for securing first place!
+    >
+    > Shoutout to @HybraFinance for their commitment to security!
+    >
+    > Full list of winners in thread👇 https://t.co/AuwXkxkbW3
+    
+    **Media:**
+    - media `3_1986246794595164160` (details not returned by the API)
+    

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 87
-- Conversations/threads: 87
-- Oldest post captured: 2023-05-30
+- Posts in this file: 92
+- Conversations/threads: 92
+- Oldest post captured: 2023-01-30
 - Newest post captured: 2026-10-31
 
 
@@ -1677,3 +1677,100 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FxZbUmgXwAA0frA.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-18 · Post · Thank you @Bugcrowd [pic.x.com/LRSxbMHg3d]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-04-18 06:20 UTC (2023-04-18 07:20 WAT)
+
+- URL: https://x.com/RootxRavi/status/1648209778626412544
+- Metrics (at fetch): not returned
+
+> Thank you @Bugcrowd [pic.x.com/LRSxbMHg3d]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ft-eDWWaUAAGNde.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-05 · Post · I earned $500 for my submission on @bugcrowd https://bugcrowd.com/ravindralakhara ItTakesACrowd
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-04-05 15:32 UTC (2023-04-05 16:32 WAT)
+
+- URL: https://x.com/RootxRavi/status/1643637819716272128
+- Metrics (at fetch): not returned
+
+> I earned $500 for my submission on @bugcrowd https://bugcrowd.com/ravindralakhara #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/ravindralakhara
+
+
+---
+
+## 2023-03-28 · Post · 25 P1✔️ @Bugcrowd 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @RootxRavi — 2023-03-28 05:06 UTC (2023-03-28 06:06 WAT)
+
+- URL: https://x.com/RootxRavi/status/1640581177567477761
+- Metrics (at fetch): not returned
+
+> 25 P1✔️ @Bugcrowd 
+>
+> #BugBounty #bugcrowd [pic.x.com/VUQFCsMYKp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsSDVp5aEAAteQ9.png — no alt text provided by author
+
+
+---
+
+## 2023-02-04 · Post · Firefox Extension for bug bounty 
+
+
+### Post — @RootxRavi — 2023-02-04 14:34 UTC (2023-02-04 15:34 WAT)
+
+- URL: https://x.com/RootxRavi/status/1621879966962180097
+- Metrics (at fetch): not returned
+
+> Firefox Extension for bug bounty 
+>
+> #BugBounty #bugbountytips [pic.x.com/zDSXTvaBLl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoITOb0aYAEVnyt.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-30 · Post · Just scored a 4 Digit Bounty on @YogoshaOfficial 
+
+
+### Post — @RootxRavi — 2023-01-30 10:14 UTC (2023-01-30 11:14 WAT)
+
+- URL: https://x.com/RootxRavi/status/1620002455223431169
+- Metrics (at fetch): not returned
+
+> Just scored a 4 Digit Bounty on @YogoshaOfficial 
+>
+> 1 : Get all the URL from wayback / Gau 
+> 2 : Filter out the js file using httpx 
+> 3 : Check Mnauly all the js file or you can use nuclei template or used @trufflesec chrome extension
+> #BugBounty #bugbountytips [pic.x.com/KZQnaOzpKR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FntluOCaUAEcL3G.png — no alt text provided by author

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 92
-- Conversations/threads: 91
-- Oldest post captured: 2024-12-03
+- Posts in this file: 104
+- Conversations/threads: 103
+- Oldest post captured: 2024-08-14
 - Newest post captured: 2026-11-10
 
 
@@ -2162,3 +2162,222 @@ Tags (automatic): Platform: Immunefi
 - Metrics (at fetch): bookmark 9, impression 9989, like 105, quote 2, reply 11, retweet 3
 
 > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/cHVPYscCmv
+
+
+---
+
+## 2024-11-04 · Post · The compiler bug in
+
+
+### Post — @ma1fan — 2024-11-04 02:20 UTC (2024-11-04 03:20 WAT)
+
+- URL: https://x.com/ma1fan/status/1853260912645558647
+- Metrics (at fetch): bookmark 5, impression 1550, like 11, quote 0, reply 0, retweet 0
+
+> The compiler bug in
+> @SwayLang @fuel_network 
+> which lead to the
+> @swaylend
+> users can't withdraw their funds,  below is  what you should to know about the bug: https://t.co/lTg1csO5sp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1703447900607664128 — 2024-11-04 02:02 UTC (2024-11-04 03:02 WAT)
+    
+    - URL: https://x.com/1703447900607664128/status/1853256355974389996
+    - Metrics (at fetch): bookmark 26, impression 19471, like 45, quote 6, reply 1, retweet 3
+    
+    > Why did the @swaylend  protocol failed to allow users to withdraw funds 3 days ago?  
+    >
+    > This came from incorrect memory allocation for dynamic types in Sway compiler version 0.66.3 and below. 
+    >
+    > Large data inputs caused `abi_encode` to lose data when generating calldata. https://t.co/k77HO9ubBF
+    
+    **Media:**
+    - media `3_1853164677649567744` (details not returned by the API)
+    
+
+
+---
+
+## 2024-10-29 · Post · Huge respect to the Vyper team for prioritizing security! Their dedication with 12 audits, continuou
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2024-10-29 04:50 UTC (2024-10-29 05:50 WAT)
+
+- URL: https://x.com/ma1fan/status/1851124316316069896
+- Metrics (at fetch): bookmark 2, impression 641, like 2, quote 0, reply 0, retweet 0
+
+> Huge respect to the Vyper team for prioritizing security! Their dedication with 12 audits, continuous monitoring, and comprehensive bug bounty programs sets a high standard in the blockchain space. Kudos for making safety a top priority! 
+> https://t.co/k32y0PfMu4
+
+
+---
+
+## 2024-10-29 · Post · Huge respect to the Vyper team for prioritizing security! Their dedication with 12 audits, continuou
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @ma1fan — 2024-10-29 04:49 UTC (2024-10-29 05:49 WAT)
+
+- URL: https://x.com/ma1fan/status/1851124185881592011
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, retweet 0
+
+> Huge respect to the Vyper team for prioritizing security! Their dedication with 12 audits, continuous monitoring, and comprehensive bug bounty programs sets a high standard in the blockchain space. Kudos for making safety a top priority! #BlockchainSecurity #Vyper
+
+
+---
+
+## 2024-10-17 · Post · Recently try to bypass MaxGas, this function let me cost much of my time 😅 https://t.co/SryXVqNYvQ
+
+
+### Post — @ma1fan — 2024-10-17 11:22 UTC (2024-10-17 12:22 WAT)
+
+- URL: https://x.com/ma1fan/status/1846874441361612881
+- Metrics (at fetch): bookmark 1, impression 1898, like 11, quote 0, reply 0, retweet 0
+
+> Recently try to bypass MaxGas, this function let me cost much of my time 😅 https://t.co/SryXVqNYvQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GaFqX5ub0AMOHPw.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-10 · Post · I found a critcal bug in a wallet which have 100k+ users,which the attacker can stolen user's privat
+
+
+### Post — @ma1fan — 2024-10-10 12:27 UTC (2024-10-10 13:27 WAT)
+
+- URL: https://x.com/ma1fan/status/1844354008493982044
+- Metrics (at fetch): bookmark 29, impression 24521, like 137, quote 5, reply 28, retweet 6
+
+> I found a critcal bug in a wallet which have 100k+ users,which the attacker can stolen user's privatekey,
+> I reported to the team,The team obtained the bug details, then deleted the chat(in TG). They claimed it wasn't a security vulnerability and fixed it quietly, no any https://t.co/HjoB52tCah
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZh1fCbaAAQe4Wx.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-10 · Post · I found a critcal bug in a wallet which have 100k+ users,wchich the attacker can stolen user's priva
+
+
+### Post — @ma1fan — 2024-10-10 12:25 UTC (2024-10-10 13:25 WAT)
+
+- URL: https://x.com/ma1fan/status/1844353479999201451
+- Metrics (at fetch): bookmark 0, impression 81, like 2, quote 0, reply 0, retweet 0
+
+> I found a critcal bug in a wallet which have 100k+ users,wchich the attacker can stolen user's privatekey,
+> I reported to the team,The team obtained the bug details, then deleted the chat(in TG). They claimed it wasn't a security vulnerability and fixed it quietly, no any https://t.co/CUVreZqUFW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZh1fCbaAAQe4Wx.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-24 · Post · . @CharismaBTC  a memecoins staking protocol on stacks ecosystem,in Sep 21th attacker exploit the sm
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ma1fan — 2024-09-24 05:05 UTC (2024-09-24 06:05 WAT)
+
+- URL: https://x.com/ma1fan/status/1838444664556523899
+- Metrics (at fetch): bookmark 8, impression 2255, like 11, quote 0, reply 2, retweet 2
+
+> . @CharismaBTC  a memecoins staking protocol on stacks ecosystem,in Sep 21th attacker exploit the smart contract vulnerability drained all liquidity, lead to lost 183,548 STX, this is my  deep  technical analyze on how the hack incident happened:
+> https://t.co/R5Cr1zyyLS
+
+
+---
+
+## 2024-09-24 · Post · . @CharismaBTC  a memecoins staking protocol on stacks ecosystem,in Sep 21th attacker exploit the sm
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @ma1fan — 2024-09-24 05:05 UTC (2024-09-24 06:05 WAT)
+
+- URL: https://x.com/ma1fan/status/1838444549338992864
+- Metrics (at fetch): bookmark 0, impression 7, like 0, quote 0, reply 0, retweet 0
+
+> . @CharismaBTC  a memecoins staking protocol on stacks ecosystem,in Sep 21th attacker exploit the smart contract vulnerability drained all liquidity, lost 183,548 STX, this is my  deep  technical analyze on how the hack incident happened:
+> https://t.co/R5Cr1zyyLS
+
+
+---
+
+## 2024-09-11 · Post · Could you write a  exploit based on this PR? 🤓 This is a crtical one
+
+
+### Post — @ma1fan — 2024-09-11 02:34 UTC (2024-09-11 03:34 WAT)
+
+- URL: https://x.com/ma1fan/status/1833695686795334044
+- Metrics (at fetch): bookmark 10, impression 1417, like 12, quote 0, reply 0, retweet 0
+
+> Could you write a  exploit based on this PR? 🤓 This is a crtical one
+> https://t.co/QVaQlyYXWp
+
+
+---
+
+## 2024-08-22 · Post · Yes, I did it again, big thanks @immunefi , with their mediation, The team send the bounty to me in 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-08-22 10:49 UTC (2024-08-22 11:49 WAT)
+
+- URL: https://x.com/ma1fan/status/1826572383270174931
+- Metrics (at fetch): bookmark 11, impression 10128, like 138, quote 0, reply 15, retweet 6
+
+> Yes, I did it again, big thanks @immunefi , with their mediation, The team send the bounty to me in the end https://t.co/2Y58LiDHDF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVlJlNIa8AAwlXj.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-22 · Post · Yes, I did it again, big thanks @immunefi , with their medication, The team send the bounty to me in
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-08-22 10:48 UTC (2024-08-22 11:48 WAT)
+
+- URL: https://x.com/ma1fan/status/1826572038443860305
+- Metrics (at fetch): bookmark 0, impression 26, like 0, quote 0, reply 0, retweet 0
+
+> Yes, I did it again, big thanks @immunefi , with their medication, The team send the bounty to me in the end https://t.co/dwBC730ED0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVlJlNIa8AAwlXj.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-14 · Post · I just found a bug and got paid on @immunefi immunefitribe https://t.co/11fvJmqyQs
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2024-08-14 05:25 UTC (2024-08-14 06:25 WAT)
+
+- URL: https://x.com/ma1fan/status/1823591661580042513
+- Metrics (at fetch): bookmark 18, impression 6261, like 68, quote 1, reply 6, retweet 3
+
+> I just found a bug and got paid on @immunefi #immunefitribe https://t.co/11fvJmqyQs

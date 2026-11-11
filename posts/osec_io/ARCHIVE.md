@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 79
-- Conversations/threads: 79
-- Oldest post captured: 2022-04-26
+- Posts in this file: 85
+- Conversations/threads: 85
+- Oldest post captured: 2022-03-23
 - Newest post captured: 2026-11-05
 
 
@@ -1868,3 +1868,136 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FRRzB_pUYAImOF4.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-23 · Post · For clarification, these critical vulnerabilities have not been previously disclosed. https://t.co/A
+
+
+### Post — @osec_io — 2022-04-23 01:18 UTC (2022-04-23 02:18 WAT)
+
+- URL: https://x.com/osec_io/status/1517674209324896256
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 1, reply 2, retweet 4
+
+> For clarification, these critical vulnerabilities have not been previously disclosed. https://t.co/AGPFedvXo0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2022-04-22 16:26 UTC (2022-04-22 17:26 WAT)
+    
+    - URL: https://x.com/osec_io/status/1517540461509943297
+    - Metrics (at fetch): bookmark 7, impression 0, like 108, quote 4, reply 6, retweet 10
+    
+    > Over the next few days, we will be publishing our analysis of two critical vulnerabilities in spl-lending and spl-token-swap.
+    >
+    > Turn notifications on to get them first
+    
+
+
+---
+
+## 2022-04-22 · Post · Over the next few days, we will be publishing our analysis of two critical vulnerabilities in spl-le
+
+
+### Post — @osec_io — 2022-04-22 16:26 UTC (2022-04-22 17:26 WAT)
+
+- URL: https://x.com/osec_io/status/1517540461509943297
+- Metrics (at fetch): bookmark 7, impression 0, like 108, quote 4, reply 6, retweet 10
+
+> Over the next few days, we will be publishing our analysis of two critical vulnerabilities in spl-lending and spl-token-swap.
+>
+> Turn notifications on to get them first
+
+
+---
+
+## 2022-04-18 · Post · 1/ We were engaged by @port_finance to audit their fixed-rate lending program, Sundial. In our audit
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
+
+- URL: https://x.com/osec_io/status/1516086365393350657
+- Metrics (at fetch): bookmark 7, impression 0, like 33, quote 2, reply 2, retweet 2
+
+> 1/ We were engaged by @port_finance to audit their fixed-rate lending program, Sundial. In our audit, we found 3 bugs that could lead to loss of funds for Port and its users.
+>
+> Let’s take a deep dive into OS-PRT-ADV-00, a surprisingly subtle rounding bug in the liquidation handler https://t.co/gb5vb3Z8KE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQozb5yVQAI2ksk.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-16 · Post · 1/ In our recent audit report on @JetProtocol’s governance program, we listed 13 findings and 4 vuln
+
+
+### Post — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)
+
+- URL: https://x.com/osec_io/status/1515372872939675650
+- Metrics (at fetch): bookmark 49, impression 0, like 155, quote 7, reply 3, retweet 26
+
+> 1/ In our recent audit report on @JetProtocol’s governance program, we listed 13 findings and 4 vulnerabilities. One of these vulnerabilities stand out from the others: OS-JET-ADV-01
+>
+> Let’s take a deep dive into this rounding error, the implications, as well as its exploitability https://t.co/MYI6MARLVE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQesi8bVsAQWaiB.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-14 · Post · As @JetProtocol's governance module goes live, we’re excited to open-source our audit report! 
+
+
+### Post — @osec_io — 2022-04-14 15:53 UTC (2022-04-14 16:53 WAT)
+
+- URL: https://x.com/osec_io/status/1514632929451778049
+- Metrics (at fetch): bookmark 2, impression 0, like 34, quote 2, reply 3, retweet 7
+
+> As @JetProtocol's governance module goes live, we’re excited to open-source our audit report! 
+>
+> From 13 findings, we’re breaking down the two most interesting ones: conversion rate abuse and improper rounding, both allowing malicious users to drain funds from the program. 1/ https://t.co/8cn5DKCHrT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1384245094295822336 — 2022-04-13 22:47 UTC (2022-04-13 23:47 WAT)
+    
+    - URL: https://x.com/1384245094295822336/status/1514374653967421441
+    - Metrics (at fetch): bookmark 3, impression 0, like 74, quote 9, reply 12, retweet 17
+    
+    > Jetters, we landed. 🛬
+    >
+    > Jet is extremely excited to announce that the Governance module is now LIVE on mainnet!
+    >
+    > Introducing the JetGovern App: A New Horizon for Decentralized Collaboration
+    >
+    > Users can:
+    >
+    > 🛩️ Claim Airdrop 
+    > 🛩️ Stake/Unstake
+    > 🛩️ Vote (soon!)
+    >
+    > https://t.co/pApeHRvfz9
+    
+
+
+---
+
+## 2022-03-23 · Post · Want to learn how to hack smart contracts? We're excited to release our introduction to Solana (from
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-03-23 22:20 UTC (2022-03-23 23:20 WAT)
+
+- URL: https://x.com/osec_io/status/1506757818329751560
+- Metrics (at fetch): bookmark 96, impression 0, like 223, quote 2, reply 3, retweet 61
+
+> Want to learn how to hack smart contracts? We're excited to release our introduction to Solana (from an auditor's perspective)!
+> https://t.co/wZYGuGMbCU

@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 95
-- Conversations/threads: 95
+- Posts in this file: 99
+- Conversations/threads: 99
 - Oldest post captured: 2025-02-25
 - Newest post captured: 2026-11-10
 
@@ -2322,6 +2322,57 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2025-12-12 · Post · The best ROI in security will always be not introducing the bug in the first place.
+
+
+### Post — @lonelysloth_sec — 2025-12-12 17:08 UTC (2025-12-12 18:08 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1999526896422224119
+- Metrics (at fetch): bookmark 2, impression 2121, like 42, quote 0, reply 6, retweet 4
+
+> The best ROI in security will always be not introducing the bug in the first place.
+
+
+---
+
+## 2025-12-08 · Post · Some real world data on how SRs are treated when they submit the most serious bugs -- multi-year rev
+
+
+### Post — @lonelysloth_sec — 2025-12-08 22:27 UTC (2025-12-08 23:27 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1998157542753698159
+- Metrics (at fetch): bookmark 13, impression 4583, like 66, quote 1, reply 7, retweet 6
+
+> Some real world data on how SRs are treated when they submit the most serious bugs -- multi-year review.
+>
+> Did some analysis of my own bug reports for "super criticals" between 2021-2025.
+>
+> Out of 7: 2 I'd say had very bad outcomes. 5 had good outcomes.
+>
+> First, what I consider
+
+
+---
+
+## 2025-12-08 · Post · In 2025 I reported two serious loss of funds bugs.
+
+
+### Post — @lonelysloth_sec — 2025-12-08 04:05 UTC (2025-12-08 05:05 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1997880303939920049
+- Metrics (at fetch): bookmark 4, impression 2656, like 64, quote 0, reply 1, retweet 1
+
+> In 2025 I reported two serious loss of funds bugs.
+>
+> One resulted in a huge bounty, that I think was fair, with zero arguments.
+>
+> The other resulted in what I see as an unfairly small bounty after weeks of discussions. 
+>
+> All things considered 50% hit rate isn’t too bad.
+
+
+---
+
 ## 2025-12-07 · Post · Bug bounty income variance is sometimes hard to grasp.
 
 
@@ -2331,7 +2382,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @lonelysloth_sec — 2025-12-07 16:48 UTC (2025-12-07 17:48 WAT)
 
 - URL: https://x.com/lonelysloth_sec/status/1997709908834439182
-- Metrics (at fetch): bookmark 7, impression 2635, like 64, quote 1, reply 5, repost 2
+- Metrics (at fetch): bookmark 7, impression 2635, like 64, quote 1, reply 5, retweet 2
 
 > Bug bounty income variance is sometimes hard to grasp.
 >
@@ -2360,6 +2411,23 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 72, like 2, quote 0, reply 1, retweet 0
 
 > @xKeywordx @deadrosesxyz @xuwinniexu @MacroWang007 Imagine instead of finding an accidental bug in a code base criminals submit a PR with a vulnerability and some prompt injection. Bc people think AI will protect them the PR isn’t audited by humans. The vulnerability gets merged then the attacker exploits
+
+
+---
+
+## 2025-12-02 · Post · The economics of audits and bug bounties only work because:
+
+
+### Post — @lonelysloth_sec — 2025-12-02 18:21 UTC (2025-12-02 19:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/1995921315883331900
+- Metrics (at fetch): bookmark 7, impression 1810, like 39, quote 0, reply 1, retweet 1
+
+> The economics of audits and bug bounties only work because:
+>
+> 1. The most important resource constraint for both black and white hats is time of highly skilled hackers/SRs.
+>
+> 2. Most highly skilled hackers/SRs are willing to accept a considerable discount to work within the law.
 
 
 ---

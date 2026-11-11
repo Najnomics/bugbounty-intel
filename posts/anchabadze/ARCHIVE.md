@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 278
-- Conversations/threads: 278
-- Oldest post captured: 2025-12-15
+- Posts in this file: 308
+- Conversations/threads: 308
+- Oldest post captured: 2025-10-31
 - Newest post captured: 2026-11-11
 
 
@@ -58688,7 +58688,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
                         #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
                         
                         - URL: https://x.com/anchabadze/status/2000363949284327584
-                        - Metrics (at fetch): not returned
+                        - Metrics (at fetch): bookmark 1, impression 611, like 5, quote 1, reply 0, retweet 0
                         
                         > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
                         >
@@ -58701,7 +58701,92 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
                         
                         **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
                         
-                        **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/1999954150726258835
+                            - Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 5 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Finished auditing @InverseFinance on @sherlockdefi
+                            > - Studied different vulnerabilities using Anki cards
+                            > @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/1999590870387949966
+                                - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 7 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Continued auditing @InverseFinance on @sherlockdefi
+                                > - Read and studied several reports from past audit contests
+                                > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/1999247784583774533
+                                    - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 3 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Continued auditing @InverseFinance on @sherlockdefi
+                                    > - Studied different vulnerabilities using Anki cards
+                                    > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/1998875224717078605
+                                        - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 8 hours
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Continued auditing @InverseFinance on @sherlockdefi
+                                        > - Read and studied several reports from past audit contests
+                                        > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+                                        
+                                        **Quoted post (full text):**
+                                        
+                                            #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                                            
+                                            - URL: https://x.com/anchabadze/status/1998514521951084938
+                                            - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                                            
+                                            > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                                            >
+                                            > 🕰️ Hours worked: 3 hours 30 min
+                                            > 🔎 Focus: Auditing
+                                            > 🛠️ Practical work:
+                                            > - Continued auditing @InverseFinance on @sherlockdefi
+                                            > - Studied different vulnerabilities using Anki cards
+                                            > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                                            
+                                            **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                                            
+                                        
+                                    
+                                
+                            
                         
                     
                 
@@ -58809,7 +58894,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
                     #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
                     
                     - URL: https://x.com/anchabadze/status/2000363949284327584
-                    - Metrics (at fetch): not returned
+                    - Metrics (at fetch): bookmark 1, impression 611, like 5, quote 1, reply 0, retweet 0
                     
                     > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
                     >
@@ -58822,7 +58907,92 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
                     
                     **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
                     
-                    **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/1999954150726258835
+                        - Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 5 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Finished auditing @InverseFinance on @sherlockdefi
+                        > - Studied different vulnerabilities using Anki cards
+                        > @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/1999590870387949966
+                            - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 7 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Continued auditing @InverseFinance on @sherlockdefi
+                            > - Read and studied several reports from past audit contests
+                            > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/1999247784583774533
+                                - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 3 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Continued auditing @InverseFinance on @sherlockdefi
+                                > - Studied different vulnerabilities using Anki cards
+                                > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/1998875224717078605
+                                    - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 8 hours
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Continued auditing @InverseFinance on @sherlockdefi
+                                    > - Read and studied several reports from past audit contests
+                                    > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+                                    
+                                    **Quoted post (full text):**
+                                    
+                                        #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                                        
+                                        - URL: https://x.com/anchabadze/status/1998514521951084938
+                                        - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                                        
+                                        > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                                        >
+                                        > 🕰️ Hours worked: 3 hours 30 min
+                                        > 🔎 Focus: Auditing
+                                        > 🛠️ Practical work:
+                                        > - Continued auditing @InverseFinance on @sherlockdefi
+                                        > - Studied different vulnerabilities using Anki cards
+                                        > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                                        
+                                        **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                                        
+                                    
+                                
+                            
+                        
                     
                 
             
@@ -58910,7 +59080,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
                 #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
                 
                 - URL: https://x.com/anchabadze/status/2000363949284327584
-                - Metrics (at fetch): not returned
+                - Metrics (at fetch): bookmark 1, impression 611, like 5, quote 1, reply 0, retweet 0
                 
                 > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
                 >
@@ -58923,7 +59093,92 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
                 
                 **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
                 
-                **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/1999954150726258835
+                    - Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 5 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Finished auditing @InverseFinance on @sherlockdefi
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/1999590870387949966
+                        - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 7 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Continued auditing @InverseFinance on @sherlockdefi
+                        > - Read and studied several reports from past audit contests
+                        > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/1999247784583774533
+                            - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 3 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Continued auditing @InverseFinance on @sherlockdefi
+                            > - Studied different vulnerabilities using Anki cards
+                            > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/1998875224717078605
+                                - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 8 hours
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Continued auditing @InverseFinance on @sherlockdefi
+                                > - Read and studied several reports from past audit contests
+                                > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+                                
+                                **Quoted post (full text):**
+                                
+                                    #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                                    
+                                    - URL: https://x.com/anchabadze/status/1998514521951084938
+                                    - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                                    
+                                    > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                                    >
+                                    > 🕰️ Hours worked: 3 hours 30 min
+                                    > 🔎 Focus: Auditing
+                                    > 🛠️ Practical work:
+                                    > - Continued auditing @InverseFinance on @sherlockdefi
+                                    > - Studied different vulnerabilities using Anki cards
+                                    > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                                    
+                                    **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                                    
+                                
+                            
+                        
+                    
                 
             
         
@@ -58992,7 +59247,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
             #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
             
             - URL: https://x.com/anchabadze/status/2000363949284327584
-            - Metrics (at fetch): not returned
+            - Metrics (at fetch): bookmark 1, impression 611, like 5, quote 1, reply 0, retweet 0
             
             > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
             >
@@ -59005,7 +59260,92 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
             
             **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
             
-            **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1999954150726258835
+                - Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Finished auditing @InverseFinance on @sherlockdefi
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/1999590870387949966
+                    - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 7 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Continued auditing @InverseFinance on @sherlockdefi
+                    > - Read and studied several reports from past audit contests
+                    > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/1999247784583774533
+                        - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Continued auditing @InverseFinance on @sherlockdefi
+                        > - Studied different vulnerabilities using Anki cards
+                        > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/1998875224717078605
+                            - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 8 hours
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Continued auditing @InverseFinance on @sherlockdefi
+                            > - Read and studied several reports from past audit contests
+                            > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                                
+                                - URL: https://x.com/anchabadze/status/1998514521951084938
+                                - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                                
+                                > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                                >
+                                > 🕰️ Hours worked: 3 hours 30 min
+                                > 🔎 Focus: Auditing
+                                > 🛠️ Practical work:
+                                > - Continued auditing @InverseFinance on @sherlockdefi
+                                > - Studied different vulnerabilities using Anki cards
+                                > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                                
+                                **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                                
+                            
+                        
+                    
+                
             
         
     
@@ -59055,7 +59395,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
         #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
         
         - URL: https://x.com/anchabadze/status/2000363949284327584
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 1, impression 611, like 5, quote 1, reply 0, retweet 0
         
         > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
         >
@@ -59068,7 +59408,92 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
         
         **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
         
-        **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1999954150726258835
+            - Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Finished auditing @InverseFinance on @sherlockdefi
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1999590870387949966
+                - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 7 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @InverseFinance on @sherlockdefi
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/1999247784583774533
+                    - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Continued auditing @InverseFinance on @sherlockdefi
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/1998875224717078605
+                        - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 8 hours
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Continued auditing @InverseFinance on @sherlockdefi
+                        > - Read and studied several reports from past audit contests
+                        > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                            
+                            - URL: https://x.com/anchabadze/status/1998514521951084938
+                            - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                            
+                            > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                            >
+                            > 🕰️ Hours worked: 3 hours 30 min
+                            > 🔎 Focus: Auditing
+                            > 🛠️ Practical work:
+                            > - Continued auditing @InverseFinance on @sherlockdefi
+                            > - Studied different vulnerabilities using Anki cards
+                            > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                            
+                            **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                            
+                        
+                    
+                
+            
         
     
 
@@ -59099,7 +59524,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
     #### Quoted post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
     
     - URL: https://x.com/anchabadze/status/2000363949284327584
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1, impression 611, like 5, quote 1, reply 0, retweet 0
     
     > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
     >
@@ -59112,7 +59537,92 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
     
     **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
     
-    **Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1999954150726258835
+        - Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Finished auditing @InverseFinance on @sherlockdefi
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1999590870387949966
+            - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 7 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @InverseFinance on @sherlockdefi
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1999247784583774533
+                - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @InverseFinance on @sherlockdefi
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/1998875224717078605
+                    - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 8 hours
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Continued auditing @InverseFinance on @sherlockdefi
+                    > - Read and studied several reports from past audit contests
+                    > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                        
+                        - URL: https://x.com/anchabadze/status/1998514521951084938
+                        - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                        
+                        > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                        >
+                        > 🕰️ Hours worked: 3 hours 30 min
+                        > 🔎 Focus: Auditing
+                        > 🛠️ Practical work:
+                        > - Continued auditing @InverseFinance on @sherlockdefi
+                        > - Studied different vulnerabilities using Anki cards
+                        > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                        
+                        **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                        
+                    
+                
+            
+        
     
 
 
@@ -59124,7 +59634,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
 ### Post — @anchabadze — 2025-12-15 00:35 UTC (2025-12-15 01:35 WAT)
 
 - URL: https://x.com/anchabadze/status/2000363949284327584
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 611, like 5, quote 1, reply 0, retweet 0
 
 > 🎯 Day 233 of my #RoadToWeb3SecurityJobChallenge
 >
@@ -59137,4 +59647,1716 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Code4rena / Sherlock / 
 
 **Links in post:** https://twitter.com/anchabadze/status/1999954150726258835
 
-**Quoted post** 1999954150726258835: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1999954150726258835
+    - Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Finished auditing @InverseFinance on @sherlockdefi
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1999590870387949966
+        - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @InverseFinance on @sherlockdefi
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1999247784583774533
+            - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @InverseFinance on @sherlockdefi
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1998875224717078605
+                - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 8 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @InverseFinance on @sherlockdefi
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/1998514521951084938
+                    - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 3 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Continued auditing @InverseFinance on @sherlockdefi
+                    > - Studied different vulnerabilities using Anki cards
+                    > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                    
+                    **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2025-12-13 · Post · 🎯 Day 232 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-13 21:26 UTC (2025-12-13 22:26 WAT)
+
+- URL: https://x.com/anchabadze/status/1999954150726258835
+- Metrics (at fetch): bookmark 0, impression 663, like 7, quote 1, reply 0, retweet 0
+
+> 🎯 Day 232 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Finished auditing @InverseFinance on @sherlockdefi
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (13/90) https://t.co/6jkdCsc8Fd
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1999590870387949966
+    - Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @InverseFinance on @sherlockdefi
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1999247784583774533
+        - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @InverseFinance on @sherlockdefi
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1998875224717078605
+            - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 8 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @InverseFinance on @sherlockdefi
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1998514521951084938
+                - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 3 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @InverseFinance on @sherlockdefi
+                > - Studied different vulnerabilities using Anki cards
+                > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+                
+                **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2025-12-12 · Post · 🎯 Day 231 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-12 21:23 UTC (2025-12-12 22:23 WAT)
+
+- URL: https://x.com/anchabadze/status/1999590870387949966
+- Metrics (at fetch): bookmark 0, impression 811, like 8, quote 1, reply 0, retweet 0
+
+> 🎯 Day 231 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @InverseFinance on @sherlockdefi
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/bXuv8TYHOl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1999247784583774533
+    - Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @InverseFinance on @sherlockdefi
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1998875224717078605
+        - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 8 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @InverseFinance on @sherlockdefi
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1998514521951084938
+            - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 3 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @InverseFinance on @sherlockdefi
+            > - Studied different vulnerabilities using Anki cards
+            > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+            
+            **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2025-12-11 · Post · 🎯 Day 230 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-11 22:39 UTC (2025-12-11 23:39 WAT)
+
+- URL: https://x.com/anchabadze/status/1999247784583774533
+- Metrics (at fetch): bookmark 0, impression 738, like 7, quote 1, reply 0, retweet 0
+
+> 🎯 Day 230 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @InverseFinance on @sherlockdefi
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (11/90) https://t.co/giA20G0kcb
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1998875224717078605
+    - Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 8 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @InverseFinance on @sherlockdefi
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1998514521951084938
+        - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @InverseFinance on @sherlockdefi
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+        
+        **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-12-10 · Post · 🎯 Day 229 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-10 21:59 UTC (2025-12-10 22:59 WAT)
+
+- URL: https://x.com/anchabadze/status/1998875224717078605
+- Metrics (at fetch): bookmark 0, impression 959, like 12, quote 1, reply 0, retweet 0
+
+> 🎯 Day 229 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 8 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @InverseFinance on @sherlockdefi
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/TWQ4ss72FD
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1998514521951084938
+    - Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @InverseFinance on @sherlockdefi
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+    
+    **Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-12-09 · Post · 🎯 Day 228 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-09 22:06 UTC (2025-12-09 23:06 WAT)
+
+- URL: https://x.com/anchabadze/status/1998514521951084938
+- Metrics (at fetch): bookmark 0, impression 1049, like 7, quote 1, reply 0, retweet 0
+
+> 🎯 Day 228 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @InverseFinance on @sherlockdefi
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (9/90) https://t.co/xPqgoe3yms
+
+**Quoted post** 1998151106514370713: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-05 · Post · 🎯 Day 224 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-12-05 22:21 UTC (2025-12-05 23:21 WAT)
+
+- URL: https://x.com/anchabadze/status/1997068845488787486
+- Metrics (at fetch): bookmark 0, impression 746, like 7, quote 1, reply 1, retweet 0
+
+> 🎯 Day 224 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Analyzed several post-mortems / bug bounty writeups
+> - Studied different vulnerabilities using Anki https://t.co/T2jMqz9SSi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-04 21:07 UTC (2025-12-04 22:07 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1996687842504757288
+    - Metrics (at fetch): bookmark 0, impression 976, like 8, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 223 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Finished auditing @sukukfi on @code4rena
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/YvumWpPcam
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-12-03 23:33 UTC (2025-12-04 00:33 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1996362151150354792
+        - Metrics (at fetch): bookmark 0, impression 903, like 6, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 222 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @sukukfi on @code4rena
+        > - Studied different vulnerabilities using Anki cards
+        > @0xSimao Contest Academy (3/90) https://t.co/Fwsmky7ZQb
+        
+        **Quoted post** 1995959253165601195: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-12-04 · Post · 🎯 Day 223 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-04 21:07 UTC (2025-12-04 22:07 WAT)
+
+- URL: https://x.com/anchabadze/status/1996687842504757288
+- Metrics (at fetch): bookmark 0, impression 976, like 8, quote 1, reply 0, retweet 0
+
+> 🎯 Day 223 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Finished auditing @sukukfi on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/YvumWpPcam
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-03 23:33 UTC (2025-12-04 00:33 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1996362151150354792
+    - Metrics (at fetch): bookmark 0, impression 903, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 222 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @sukukfi on @code4rena
+    > - Studied different vulnerabilities using Anki cards
+    > @0xSimao Contest Academy (3/90) https://t.co/Fwsmky7ZQb
+    
+    **Quoted post** 1995959253165601195: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-12-03 · Post · 🎯 Day 222 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-03 23:33 UTC (2025-12-04 00:33 WAT)
+
+- URL: https://x.com/anchabadze/status/1996362151150354792
+- Metrics (at fetch): bookmark 0, impression 903, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 222 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @sukukfi on @code4rena
+> - Studied different vulnerabilities using Anki cards
+> @0xSimao Contest Academy (3/90) https://t.co/Fwsmky7ZQb
+
+**Quoted post** 1995959253165601195: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-12-02 · Post · 🎯 Day 220 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-02 00:49 UTC (2025-12-02 01:49 WAT)
+
+- URL: https://x.com/anchabadze/status/1995656470688301464
+- Metrics (at fetch): bookmark 1, impression 2034, like 13, quote 1, reply 2, retweet 0
+
+> 🎯 Day 220 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @sukukfi on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/gL9HJ4YtcK
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-12-01 00:30 UTC (2025-12-01 01:30 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1995289474281198054
+    - Metrics (at fetch): bookmark 0, impression 1661, like 6, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 219 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Started auditing @sukukfi on @code4rena
+    > - Analyzed several post-mortems
+    > - Studied different vulnerabilities using Anki cards https://t.co/VXcX3yNe0G
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-30 12:07 UTC (2025-11-30 13:07 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1995102472180805903
+        - Metrics (at fetch): bookmark 0, impression 912, like 8, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 218 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 2 hours
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Analyzed several post-mortems
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards https://t.co/jrT3WRWQta
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-11-28 22:20 UTC (2025-11-28 23:20 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1994531938497974433
+            - Metrics (at fetch): bookmark 0, impression 730, like 3, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 217 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 8 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Finished auditing @merkl_xyz on @code4rena
+            > - Analyzed several post-mortems
+            > - Read and studied several reports from past audit contests
+            > - Studied different https://t.co/5mMczmDK1p
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-11-27 19:05 UTC (2025-11-27 20:05 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1994120355309592579
+                - Metrics (at fetch): bookmark 0, impression 584, like 7, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 216 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @merkl_xyz on @code4rena
+                > - Studied different vulnerabilities using Anki cards https://t.co/m3qZgxiym4
+                
+                **Quoted post** 1993834939863781488: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2025-12-01 · Post · 🎯 Day 219 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-12-01 00:30 UTC (2025-12-01 01:30 WAT)
+
+- URL: https://x.com/anchabadze/status/1995289474281198054
+- Metrics (at fetch): bookmark 0, impression 1661, like 6, quote 1, reply 1, retweet 0
+
+> 🎯 Day 219 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Started auditing @sukukfi on @code4rena
+> - Analyzed several post-mortems
+> - Studied different vulnerabilities using Anki cards https://t.co/VXcX3yNe0G
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-30 12:07 UTC (2025-11-30 13:07 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1995102472180805903
+    - Metrics (at fetch): bookmark 0, impression 912, like 8, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 218 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Analyzed several post-mortems
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/jrT3WRWQta
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-28 22:20 UTC (2025-11-28 23:20 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1994531938497974433
+        - Metrics (at fetch): bookmark 0, impression 730, like 3, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 217 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 8 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Finished auditing @merkl_xyz on @code4rena
+        > - Analyzed several post-mortems
+        > - Read and studied several reports from past audit contests
+        > - Studied different https://t.co/5mMczmDK1p
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-11-27 19:05 UTC (2025-11-27 20:05 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1994120355309592579
+            - Metrics (at fetch): bookmark 0, impression 584, like 7, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 216 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @merkl_xyz on @code4rena
+            > - Studied different vulnerabilities using Anki cards https://t.co/m3qZgxiym4
+            
+            **Quoted post** 1993834939863781488: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2025-11-30 · Post · 🎯 Day 218 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-30 12:07 UTC (2025-11-30 13:07 WAT)
+
+- URL: https://x.com/anchabadze/status/1995102472180805903
+- Metrics (at fetch): bookmark 0, impression 912, like 8, quote 1, reply 0, retweet 0
+
+> 🎯 Day 218 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Analyzed several post-mortems
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/jrT3WRWQta
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-28 22:20 UTC (2025-11-28 23:20 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1994531938497974433
+    - Metrics (at fetch): bookmark 0, impression 730, like 3, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 217 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 8 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Finished auditing @merkl_xyz on @code4rena
+    > - Analyzed several post-mortems
+    > - Read and studied several reports from past audit contests
+    > - Studied different https://t.co/5mMczmDK1p
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-27 19:05 UTC (2025-11-27 20:05 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1994120355309592579
+        - Metrics (at fetch): bookmark 0, impression 584, like 7, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 216 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @merkl_xyz on @code4rena
+        > - Studied different vulnerabilities using Anki cards https://t.co/m3qZgxiym4
+        
+        **Quoted post** 1993834939863781488: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-11-28 · Post · 🎯 Day 217 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-11-28 22:20 UTC (2025-11-28 23:20 WAT)
+
+- URL: https://x.com/anchabadze/status/1994531938497974433
+- Metrics (at fetch): bookmark 0, impression 730, like 3, quote 1, reply 0, retweet 0
+
+> 🎯 Day 217 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 8 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Finished auditing @merkl_xyz on @code4rena
+> - Analyzed several post-mortems
+> - Read and studied several reports from past audit contests
+> - Studied different https://t.co/5mMczmDK1p
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-27 19:05 UTC (2025-11-27 20:05 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1994120355309592579
+    - Metrics (at fetch): bookmark 0, impression 584, like 7, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 216 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @merkl_xyz on @code4rena
+    > - Studied different vulnerabilities using Anki cards https://t.co/m3qZgxiym4
+    
+    **Quoted post** 1993834939863781488: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-11-27 · Post · 🎯 Day 216 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-11-27 19:05 UTC (2025-11-27 20:05 WAT)
+
+- URL: https://x.com/anchabadze/status/1994120355309592579
+- Metrics (at fetch): bookmark 0, impression 584, like 7, quote 1, reply 0, retweet 0
+
+> 🎯 Day 216 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @merkl_xyz on @code4rena
+> - Studied different vulnerabilities using Anki cards https://t.co/m3qZgxiym4
+
+**Quoted post** 1993834939863781488: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-26 · Post · 🎯 Day 214 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-11-26 01:34 UTC (2025-11-26 02:34 WAT)
+
+- URL: https://x.com/anchabadze/status/1993493423744336073
+- Metrics (at fetch): bookmark 0, impression 1125, like 10, quote 1, reply 0, retweet 0
+
+> 🎯 Day 214 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Started auditing @merkl_xyz on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/bfZ9zvLDZ9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-24 22:02 UTC (2025-11-24 23:02 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1993077747980419417
+    - Metrics (at fetch): bookmark 0, impression 772, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 213 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 2 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/1NJSaHwpiY
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-23 23:25 UTC (2025-11-24 00:25 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1992736401939648724
+        - Metrics (at fetch): bookmark 0, impression 614, like 3, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 212 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - @OpenZeppelin's Ethernaut
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards https://t.co/tCrBl99LaM
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-11-23 01:36 UTC (2025-11-23 02:36 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1992406924537782475
+            - Metrics (at fetch): bookmark 1, impression 1015, like 11, quote 1, reply 1, retweet 0
+            
+            > 🎯 Day 211 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 4 hours 30 min
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - @OpenZeppelin's Ethernaut
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards https://t.co/FACmQmQzBR
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-11-21 23:01 UTC (2025-11-22 00:01 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1992005470660518333
+                - Metrics (at fetch): bookmark 1, impression 1334, like 11, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 210 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 7 hours 30 min
+                > 🔎 Focus: Learning
+                > 🛠️ Practical work:
+                > - @EFDevcon / @summit_defi day
+                > - The Ethernaut by @OpenZeppelin
+                > - Studied different vulnerabilities using Anki cards https://t.co/kJsBOnmK6p
+                
+                **Quoted post** 1991675378394648638: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2025-11-24 · Post · 🎯 Day 213 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-24 22:02 UTC (2025-11-24 23:02 WAT)
+
+- URL: https://x.com/anchabadze/status/1993077747980419417
+- Metrics (at fetch): bookmark 0, impression 772, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 213 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/1NJSaHwpiY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-23 23:25 UTC (2025-11-24 00:25 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1992736401939648724
+    - Metrics (at fetch): bookmark 0, impression 614, like 3, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 212 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 3 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - @OpenZeppelin's Ethernaut
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/tCrBl99LaM
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-23 01:36 UTC (2025-11-23 02:36 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1992406924537782475
+        - Metrics (at fetch): bookmark 1, impression 1015, like 11, quote 1, reply 1, retweet 0
+        
+        > 🎯 Day 211 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - @OpenZeppelin's Ethernaut
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards https://t.co/FACmQmQzBR
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-11-21 23:01 UTC (2025-11-22 00:01 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1992005470660518333
+            - Metrics (at fetch): bookmark 1, impression 1334, like 11, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 210 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 7 hours 30 min
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - @EFDevcon / @summit_defi day
+            > - The Ethernaut by @OpenZeppelin
+            > - Studied different vulnerabilities using Anki cards https://t.co/kJsBOnmK6p
+            
+            **Quoted post** 1991675378394648638: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2025-11-23 · Post · 🎯 Day 212 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-23 23:25 UTC (2025-11-24 00:25 WAT)
+
+- URL: https://x.com/anchabadze/status/1992736401939648724
+- Metrics (at fetch): bookmark 0, impression 614, like 3, quote 1, reply 1, retweet 0
+
+> 🎯 Day 212 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - @OpenZeppelin's Ethernaut
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/tCrBl99LaM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-23 01:36 UTC (2025-11-23 02:36 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1992406924537782475
+    - Metrics (at fetch): bookmark 1, impression 1015, like 11, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 211 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - @OpenZeppelin's Ethernaut
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/FACmQmQzBR
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-21 23:01 UTC (2025-11-22 00:01 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1992005470660518333
+        - Metrics (at fetch): bookmark 1, impression 1334, like 11, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 210 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - @EFDevcon / @summit_defi day
+        > - The Ethernaut by @OpenZeppelin
+        > - Studied different vulnerabilities using Anki cards https://t.co/kJsBOnmK6p
+        
+        **Quoted post** 1991675378394648638: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-11-23 · Post · 🎯 Day 211 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-23 01:36 UTC (2025-11-23 02:36 WAT)
+
+- URL: https://x.com/anchabadze/status/1992406924537782475
+- Metrics (at fetch): bookmark 1, impression 1015, like 11, quote 1, reply 1, retweet 0
+
+> 🎯 Day 211 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - @OpenZeppelin's Ethernaut
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/FACmQmQzBR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-21 23:01 UTC (2025-11-22 00:01 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1992005470660518333
+    - Metrics (at fetch): bookmark 1, impression 1334, like 11, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 210 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - @EFDevcon / @summit_defi day
+    > - The Ethernaut by @OpenZeppelin
+    > - Studied different vulnerabilities using Anki cards https://t.co/kJsBOnmK6p
+    
+    **Quoted post** 1991675378394648638: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-11-21 · Post · 🎯 Day 210 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-21 23:01 UTC (2025-11-22 00:01 WAT)
+
+- URL: https://x.com/anchabadze/status/1992005470660518333
+- Metrics (at fetch): bookmark 1, impression 1334, like 11, quote 1, reply 0, retweet 0
+
+> 🎯 Day 210 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - @EFDevcon / @summit_defi day
+> - The Ethernaut by @OpenZeppelin
+> - Studied different vulnerabilities using Anki cards https://t.co/kJsBOnmK6p
+
+**Quoted post** 1991675378394648638: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-20 · Post · 🎯 Day 208 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-20 01:33 UTC (2025-11-20 02:33 WAT)
+
+- URL: https://x.com/anchabadze/status/1991318915197116893
+- Metrics (at fetch): bookmark 1, impression 547, like 4, quote 1, reply 0, retweet 0
+
+> 🎯 Day 208 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 8 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - @EFDevcon day
+> - Finished studying the Uniswap V2 Book by @RareSkills_io
+> - Read and studied several reports from past audit contests
+> - Studied different https://t.co/bv41aHhyiR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-18 21:31 UTC (2025-11-18 22:31 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1990895734661451804
+    - Metrics (at fetch): bookmark 0, impression 594, like 3, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 207 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - @EFDevcon day
+    > - Continued studying the Uniswap V2 Book by @RareSkills_io
+    > - Analyzed one post-mortem
+    > - Studied different vulnerabilities using Anki cards https://t.co/4rISIqlsSD
+    
+    **Quoted post** 1990544321146499146: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-11-18 · Post · 🎯 Day 207 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-18 21:31 UTC (2025-11-18 22:31 WAT)
+
+- URL: https://x.com/anchabadze/status/1990895734661451804
+- Metrics (at fetch): bookmark 0, impression 594, like 3, quote 1, reply 1, retweet 0
+
+> 🎯 Day 207 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - @EFDevcon day
+> - Continued studying the Uniswap V2 Book by @RareSkills_io
+> - Analyzed one post-mortem
+> - Studied different vulnerabilities using Anki cards https://t.co/4rISIqlsSD
+
+**Quoted post** 1990544321146499146: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-17 · Post · 🎯 Day 205 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-17 00:45 UTC (2025-11-17 01:45 WAT)
+
+- URL: https://x.com/anchabadze/status/1990219806553817270
+- Metrics (at fetch): bookmark 0, impression 649, like 1, quote 1, reply 0, retweet 0
+
+> 🎯 Day 205 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 2 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/dPwGkUQlGL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-15 19:30 UTC (2025-11-15 20:30 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1989778157268828295
+    - Metrics (at fetch): bookmark 1, impression 1435, like 15, quote 1, reply 1, retweet 0
+    
+    > 🎯 Day 204 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Continued studying the Uniswap V2 Book by @RareSkills_io
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki https://t.co/3vxyCgzbjF
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-15 00:39 UTC (2025-11-15 01:39 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1989493403470451135
+        - Metrics (at fetch): bookmark 0, impression 1510, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 203 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Started studying the Uniswap V2 Book by @RareSkills_io
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki https://t.co/a2pWML3a5g
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-11-13 18:37 UTC (2025-11-13 19:37 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1989039985874305517
+            - Metrics (at fetch): bookmark 0, impression 575, like 4, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 202 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Finished auditing @megapot on @code4rena
+            > - Studied different vulnerabilities using Anki cards https://t.co/N5enh5akAM
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-11-12 22:24 UTC (2025-11-12 23:24 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1988734632649720084
+                - Metrics (at fetch): bookmark 0, impression 539, like 6, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 201 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 6 hours
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @megapot on @code4rena
+                > - Read and studied several reports from past audit contests
+                > - Studied different vulnerabilities using Anki cards https://t.co/6NJ3qdAm32
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @anchabadze — 2025-11-11 21:04 UTC (2025-11-11 22:04 WAT)
+                    
+                    - URL: https://x.com/anchabadze/status/1988352156055806045
+                    - Metrics (at fetch): bookmark 0, impression 599, like 6, quote 1, reply 0, retweet 0
+                    
+                    > 🎯 Day 200 of my #RoadToWeb3SecurityJobChallenge
+                    >
+                    > 🕰️ Hours worked: 7 hours 30 min
+                    > 🔎 Focus: Auditing
+                    > 🛠️ Practical work:
+                    > - Continued auditing @megapot on @code4rena
+                    > - Studied different vulnerabilities using Anki cards https://t.co/f0D6HiNFrt
+                    
+                    **Quoted post** 1988058745059111182: not readable via the API (deleted, private, or withheld).
+                    
+                
+            
+        
+    
+
+
+---
+
+## 2025-11-15 · Post · 🎯 Day 204 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-15 19:30 UTC (2025-11-15 20:30 WAT)
+
+- URL: https://x.com/anchabadze/status/1989778157268828295
+- Metrics (at fetch): bookmark 1, impression 1435, like 15, quote 1, reply 1, retweet 0
+
+> 🎯 Day 204 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 4 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Continued studying the Uniswap V2 Book by @RareSkills_io
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki https://t.co/3vxyCgzbjF
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-15 00:39 UTC (2025-11-15 01:39 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1989493403470451135
+    - Metrics (at fetch): bookmark 0, impression 1510, like 5, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 203 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Started studying the Uniswap V2 Book by @RareSkills_io
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki https://t.co/a2pWML3a5g
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-13 18:37 UTC (2025-11-13 19:37 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1989039985874305517
+        - Metrics (at fetch): bookmark 0, impression 575, like 4, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 202 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Finished auditing @megapot on @code4rena
+        > - Studied different vulnerabilities using Anki cards https://t.co/N5enh5akAM
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-11-12 22:24 UTC (2025-11-12 23:24 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1988734632649720084
+            - Metrics (at fetch): bookmark 0, impression 539, like 6, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 201 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @megapot on @code4rena
+            > - Read and studied several reports from past audit contests
+            > - Studied different vulnerabilities using Anki cards https://t.co/6NJ3qdAm32
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2025-11-11 21:04 UTC (2025-11-11 22:04 WAT)
+                
+                - URL: https://x.com/anchabadze/status/1988352156055806045
+                - Metrics (at fetch): bookmark 0, impression 599, like 6, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 200 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 7 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Continued auditing @megapot on @code4rena
+                > - Studied different vulnerabilities using Anki cards https://t.co/f0D6HiNFrt
+                
+                **Quoted post** 1988058745059111182: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2025-11-15 · Post · 🎯 Day 203 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-15 00:39 UTC (2025-11-15 01:39 WAT)
+
+- URL: https://x.com/anchabadze/status/1989493403470451135
+- Metrics (at fetch): bookmark 0, impression 1510, like 5, quote 1, reply 0, retweet 0
+
+> 🎯 Day 203 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Started studying the Uniswap V2 Book by @RareSkills_io
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki https://t.co/a2pWML3a5g
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-13 18:37 UTC (2025-11-13 19:37 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1989039985874305517
+    - Metrics (at fetch): bookmark 0, impression 575, like 4, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 202 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Finished auditing @megapot on @code4rena
+    > - Studied different vulnerabilities using Anki cards https://t.co/N5enh5akAM
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-12 22:24 UTC (2025-11-12 23:24 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1988734632649720084
+        - Metrics (at fetch): bookmark 0, impression 539, like 6, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 201 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @megapot on @code4rena
+        > - Read and studied several reports from past audit contests
+        > - Studied different vulnerabilities using Anki cards https://t.co/6NJ3qdAm32
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-11-11 21:04 UTC (2025-11-11 22:04 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1988352156055806045
+            - Metrics (at fetch): bookmark 0, impression 599, like 6, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 200 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 7 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Continued auditing @megapot on @code4rena
+            > - Studied different vulnerabilities using Anki cards https://t.co/f0D6HiNFrt
+            
+            **Quoted post** 1988058745059111182: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2025-11-13 · Post · 🎯 Day 202 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-11-13 18:37 UTC (2025-11-13 19:37 WAT)
+
+- URL: https://x.com/anchabadze/status/1989039985874305517
+- Metrics (at fetch): bookmark 0, impression 575, like 4, quote 1, reply 0, retweet 0
+
+> 🎯 Day 202 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Finished auditing @megapot on @code4rena
+> - Studied different vulnerabilities using Anki cards https://t.co/N5enh5akAM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-12 22:24 UTC (2025-11-12 23:24 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1988734632649720084
+    - Metrics (at fetch): bookmark 0, impression 539, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 201 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @megapot on @code4rena
+    > - Read and studied several reports from past audit contests
+    > - Studied different vulnerabilities using Anki cards https://t.co/6NJ3qdAm32
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-11 21:04 UTC (2025-11-11 22:04 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1988352156055806045
+        - Metrics (at fetch): bookmark 0, impression 599, like 6, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 200 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 7 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Continued auditing @megapot on @code4rena
+        > - Studied different vulnerabilities using Anki cards https://t.co/f0D6HiNFrt
+        
+        **Quoted post** 1988058745059111182: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-11-12 · Post · 🎯 Day 201 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-11-12 22:24 UTC (2025-11-12 23:24 WAT)
+
+- URL: https://x.com/anchabadze/status/1988734632649720084
+- Metrics (at fetch): bookmark 0, impression 539, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 201 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @megapot on @code4rena
+> - Read and studied several reports from past audit contests
+> - Studied different vulnerabilities using Anki cards https://t.co/6NJ3qdAm32
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-11 21:04 UTC (2025-11-11 22:04 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1988352156055806045
+    - Metrics (at fetch): bookmark 0, impression 599, like 6, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 200 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 7 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Continued auditing @megapot on @code4rena
+    > - Studied different vulnerabilities using Anki cards https://t.co/f0D6HiNFrt
+    
+    **Quoted post** 1988058745059111182: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-11-11 · Post · 🎯 Day 200 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @anchabadze — 2025-11-11 21:04 UTC (2025-11-11 22:04 WAT)
+
+- URL: https://x.com/anchabadze/status/1988352156055806045
+- Metrics (at fetch): bookmark 0, impression 599, like 6, quote 1, reply 0, retweet 0
+
+> 🎯 Day 200 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 7 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Continued auditing @megapot on @code4rena
+> - Studied different vulnerabilities using Anki cards https://t.co/f0D6HiNFrt
+
+**Quoted post** 1988058745059111182: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-11-03 · Post · 🎯 Day 191 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-03 01:59 UTC (2025-11-03 02:59 WAT)
+
+- URL: https://x.com/anchabadze/status/1985164980258509245
+- Metrics (at fetch): bookmark 1, impression 1009, like 9, quote 1, reply 0, retweet 0
+
+> 🎯 Day 191 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 3 hour 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied @TheSecureum RACEs
+> - Studied different vulnerabilities using Anki cards https://t.co/4nxKyi16QM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-02 00:25 UTC (2025-11-02 01:25 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1984778978188804591
+    - Metrics (at fetch): bookmark 1, impression 991, like 7, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 190 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 1 hour 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Studied @TheSecureum RACEs
+    > - Studied different vulnerabilities using Anki cards https://t.co/6slfAp3nHR
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-11-01 00:45 UTC (2025-11-01 01:45 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1984421385050210683
+        - Metrics (at fetch): bookmark 1, impression 1206, like 10, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 189 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 5 hours
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied @TheSecureum RACEs
+        > - Studied different vulnerabilities using Anki cards https://t.co/jqp2z4u7YE
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2025-10-31 00:46 UTC (2025-10-31 01:46 WAT)
+            
+            - URL: https://x.com/anchabadze/status/1984059482855583782
+            - Metrics (at fetch): bookmark 2, impression 1326, like 10, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 188 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 30 min
+            > 🔎 Focus: Learning
+            > 🛠️ Practical work:
+            > - Read and studied several reports from past audit contests
+            > - Studied @TheSecureum RACEs
+            > - Studied different vulnerabilities using Anki cards https://t.co/PUB3oBzzQ6
+            
+            **Quoted post** 1983661752152944796: not readable via the API (deleted, private, or withheld).
+            
+        
+    
+
+
+---
+
+## 2025-11-02 · Post · 🎯 Day 190 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-02 00:25 UTC (2025-11-02 01:25 WAT)
+
+- URL: https://x.com/anchabadze/status/1984778978188804591
+- Metrics (at fetch): bookmark 1, impression 991, like 7, quote 1, reply 0, retweet 0
+
+> 🎯 Day 190 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 1 hour 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Studied @TheSecureum RACEs
+> - Studied different vulnerabilities using Anki cards https://t.co/6slfAp3nHR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-11-01 00:45 UTC (2025-11-01 01:45 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1984421385050210683
+    - Metrics (at fetch): bookmark 1, impression 1206, like 10, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 189 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied @TheSecureum RACEs
+    > - Studied different vulnerabilities using Anki cards https://t.co/jqp2z4u7YE
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2025-10-31 00:46 UTC (2025-10-31 01:46 WAT)
+        
+        - URL: https://x.com/anchabadze/status/1984059482855583782
+        - Metrics (at fetch): bookmark 2, impression 1326, like 10, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 188 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Learning
+        > 🛠️ Practical work:
+        > - Read and studied several reports from past audit contests
+        > - Studied @TheSecureum RACEs
+        > - Studied different vulnerabilities using Anki cards https://t.co/PUB3oBzzQ6
+        
+        **Quoted post** 1983661752152944796: not readable via the API (deleted, private, or withheld).
+        
+    
+
+
+---
+
+## 2025-11-01 · Post · 🎯 Day 189 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-11-01 00:45 UTC (2025-11-01 01:45 WAT)
+
+- URL: https://x.com/anchabadze/status/1984421385050210683
+- Metrics (at fetch): bookmark 1, impression 1206, like 10, quote 1, reply 0, retweet 0
+
+> 🎯 Day 189 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied @TheSecureum RACEs
+> - Studied different vulnerabilities using Anki cards https://t.co/jqp2z4u7YE
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2025-10-31 00:46 UTC (2025-10-31 01:46 WAT)
+    
+    - URL: https://x.com/anchabadze/status/1984059482855583782
+    - Metrics (at fetch): bookmark 2, impression 1326, like 10, quote 1, reply 0, retweet 0
+    
+    > 🎯 Day 188 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Learning
+    > 🛠️ Practical work:
+    > - Read and studied several reports from past audit contests
+    > - Studied @TheSecureum RACEs
+    > - Studied different vulnerabilities using Anki cards https://t.co/PUB3oBzzQ6
+    
+    **Quoted post** 1983661752152944796: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-10-31 · Post · 🎯 Day 188 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2025-10-31 00:46 UTC (2025-10-31 01:46 WAT)
+
+- URL: https://x.com/anchabadze/status/1984059482855583782
+- Metrics (at fetch): bookmark 2, impression 1326, like 10, quote 1, reply 0, retweet 0
+
+> 🎯 Day 188 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 6 hours 30 min
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read and studied several reports from past audit contests
+> - Studied @TheSecureum RACEs
+> - Studied different vulnerabilities using Anki cards https://t.co/PUB3oBzzQ6
+
+**Quoted post** 1983661752152944796: not readable via the API (deleted, private, or withheld).

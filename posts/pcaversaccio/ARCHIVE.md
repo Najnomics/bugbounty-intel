@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 183
-- Conversations/threads: 183
-- Oldest post captured: 2022-08-03
+- Posts in this file: 202
+- Conversations/threads: 202
+- Oldest post captured: 2022-06-18
 - Newest post captured: 2026-09-03
 
 
@@ -3800,3 +3800,381 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): not returned
 
 > Welcome to the new supercycle ...*thinking*... of hacks. Ffs I just want to code and not analyse a new attack every morning I get up 🙃
+
+
+---
+
+## 2022-08-02 · Post · ooops that looks ugly @Reaper_Farm. I think that's the first exploit of an  ERC-4626 vault (please c
+
+
+### Post — @pcaversaccio — 2022-08-02 13:01 UTC (2022-08-02 14:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554452409426087937
+- Metrics (at fetch): bookmark 13, impression 0, like 37, quote 2, reply 3, retweet 11
+
+> ooops that looks ugly @Reaper_Farm. I think that's the first exploit of an  ERC-4626 vault (please correct me if am wrong here).
+>
+> Attacker: https://t.co/1BA3FBjiWl
+>
+> You can find the post-mortem here: https://t.co/VlKDtRZKTP https://t.co/VPuPokswsy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZKFBhhX0AMmlJw.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-02 · Post · If you use upgradable contracts, a low risk issue can turn into a devastating attack! I honestly thi
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-08-02 10:16 UTC (2022-08-02 11:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554410849766350848
+- Metrics (at fetch): bookmark 11, impression 0, like 65, quote 0, reply 6, retweet 11
+
+> If you use upgradable contracts, a low risk issue can turn into a devastating attack! I honestly think upgradable contracts (along reentrancies) have done more harm than good so far. https://t.co/L0iYiBhSvr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZJgbfDWQAAf9Zw.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-02 · Post · In such situations, it is easy to say that a team is incompetent. For now, please let's give words o
+
+
+### Post — @pcaversaccio — 2022-08-02 07:45 UTC (2022-08-02 08:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554372896801406977
+- Metrics (at fetch): bookmark 1, impression 0, like 15, quote 0, reply 0, retweet 1
+
+> In such situations, it is easy to say that a team is incompetent. For now, please let's give words of support to @nomadxyz_ and the detailed critical analysis for later. I just want to emphasise again what I have been saying for a long time: upgradability is a bug, not a feature!
+
+
+---
+
+## 2022-08-02 · Post · Since too many DMs asking me about the technicalities of the Nomad attack. Here I tried to summarise
+
+
+### Post — @pcaversaccio — 2022-08-02 07:23 UTC (2022-08-02 08:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554367224097415168
+- Metrics (at fetch): bookmark 1, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Since too many DMs asking me about the technicalities of the Nomad attack. Here I tried to summarise why the attack was possible in one tweet. https://t.co/Gbu8wl9SzU
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-08-02 07:18 UTC (2022-08-02 08:18 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1554365964862586881
+    - Metrics (at fetch): bookmark 1, impression 0, like 6, quote 1, reply 2, retweet 1
+    
+    > @z0r0zzz Because of how the initialize function works. Here you see the transaction. The default value of bytes32 is 0x0. This means `confirmAt[0]` is set to `1` when called `initialize`. The rest is story: https://t.co/0yk5zgCxcx. https://t.co/DmLxTfDyTZ
+    
+    **Media:**
+    - media `3_1554365125112520704` (details not returned by the API)
+    - media `3_1554365249662377984` (details not returned by the API)
+    
+
+
+---
+
+## 2022-08-02 · Reply · @z0r0zzz Because of how the initialize function works. Here you see the transaction. The default val
+
+
+### Post — @pcaversaccio — 2022-08-02 07:18 UTC (2022-08-02 08:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554365964862586881
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 1, reply 2, retweet 1
+
+> @z0r0zzz Because of how the initialize function works. Here you see the transaction. The default value of bytes32 is 0x0. This means `confirmAt[0]` is set to `1` when called `initialize`. The rest is story: https://t.co/0yk5zgCxcx. https://t.co/DmLxTfDyTZ
+
+**Media:**
+- media `3_1554365125112520704` (details not returned by the API)
+- media `3_1554365249662377984` (details not returned by the API)
+
+
+---
+
+## 2022-08-02 · Post · Since there are plenty of detailed threads on the Nomad attack, I don't delve into the details but r
+
+
+### Post — @pcaversaccio — 2022-08-02 06:48 UTC (2022-08-02 07:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1554358545964998656
+- Metrics (at fetch): bookmark 8, impression 0, like 26, quote 1, reply 2, retweet 0
+
+> Since there are plenty of detailed threads on the Nomad attack, I don't delve into the details but rather share with you the underlying problem:
+>
+> That's the TL;DR in two pictures https://t.co/Ha6f7DdQ3C
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZIvMXDWAAAAFWR.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FZIw08YWIAEvJlX.jpg — no alt text provided by author
+
+
+---
+
+## 2022-07-26 · Post · Upgradability is a bug not a feature.
+
+
+### Post — @pcaversaccio — 2022-07-26 11:58 UTC (2022-07-26 12:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1551899788475498496
+- Metrics (at fetch): bookmark 2, impression 0, like 64, quote 1, reply 5, retweet 7
+
+> Upgradability is a bug not a feature.
+
+
+---
+
+## 2022-07-25 · Post · I think I found the first (10 Jun 2016) reentrancy attack contract available on GitHub: https://t.co
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-07-25 17:48 UTC (2022-07-25 18:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1551625389990100993
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 1
+
+> I think I found the first (10 Jun 2016) reentrancy attack contract available on GitHub: https://t.co/TFGVzplIYQ
+>
+> This contract was built by Peter Vessenes who was raising the issue to the Solidity/DAO team.
+>
+> Soon I will become an Ethereum historian lol https://t.co/aWXPPbAdNW https://t.co/1eXVdBpGJg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYh6UVKXkAAK-xz.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-07-25 17:10 UTC (2022-07-25 18:10 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1551615950545371138
+    - Metrics (at fetch): bookmark 10, impression 0, like 37, quote 1, reply 1, retweet 8
+    
+    > For anyone interested in the history behind the first reentrancy attack I really recommend checking out the issue in my reentrancy-attacks list repo. I try my best to find internet archive links to all relevant URLs in order to preserve history! 
+    > https://t.co/jmYzMoMkoe https://t.co/eB6GZgWMEp
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FYhx0AMWQAAtoBq.png — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/FYhx09vX0AA6ecU.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/FYhx11IXwAEVqxJ.png — no alt text provided by author
+    
+
+
+---
+
+## 2022-07-25 · Post · For anyone interested in the history behind the first reentrancy attack I really recommend checking 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-07-25 17:10 UTC (2022-07-25 18:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1551615950545371138
+- Metrics (at fetch): bookmark 10, impression 0, like 37, quote 1, reply 1, retweet 8
+
+> For anyone interested in the history behind the first reentrancy attack I really recommend checking out the issue in my reentrancy-attacks list repo. I try my best to find internet archive links to all relevant URLs in order to preserve history! 
+> https://t.co/jmYzMoMkoe https://t.co/eB6GZgWMEp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYhx0AMWQAAtoBq.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FYhx09vX0AA6ecU.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FYhx11IXwAEVqxJ.png — no alt text provided by author
+
+
+---
+
+## 2022-07-20 · Post · Is it just me or does today every zk project announce the first zkEVM?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @pcaversaccio — 2022-07-20 15:52 UTC (2022-07-20 16:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549784264283136000
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 1, retweet 1
+
+> Is it just me or does today every zk project announce the first zkEVM?
+
+
+---
+
+## 2022-07-19 · Post · I've been made aware of the fact, that apparently "The DAO" hack was not the first reentrancy attack
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-07-19 07:24 UTC (2022-07-19 08:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549294149534466048
+- Metrics (at fetch): bookmark 2, impression 0, like 33, quote 2, reply 1, retweet 6
+
+> I've been made aware of the fact, that apparently "The DAO" hack was not the first reentrancy attack, but actually the original WETH contract. After some time-consuming digging, I listed historical backup links for everyone to read about it. Enjoy! https://t.co/w2a4FeEIL1 https://t.co/BkS4qcTfHJ https://t.co/zDJIRVdrg0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYAyDtGXoAA78lq.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-07-18 13:13 UTC (2022-07-18 14:13 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1549019584824590336
+    - Metrics (at fetch): bookmark 375, impression 0, like 810, quote 10, reply 32, retweet 176
+    
+    > As part of my effort to prevent reentrancy attacks at the (Solidity) language level, I compiled a list of known reentrancy attacks. I'm pretty sure this list is incomplete - so anyone who is aware of another reentrancy attack, please comment on the issue:
+    > https://t.co/qChwQg918F https://t.co/WlfMaBAYom
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FX84YyKXwAAWD-2.png — no alt text provided by author
+    
+
+
+---
+
+## 2022-07-18 · Post · As part of my effort to prevent reentrancy attacks at the (Solidity) language level, I compiled a li
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-07-18 13:13 UTC (2022-07-18 14:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1549019584824590336
+- Metrics (at fetch): bookmark 375, impression 0, like 810, quote 10, reply 32, retweet 176
+
+> As part of my effort to prevent reentrancy attacks at the (Solidity) language level, I compiled a list of known reentrancy attacks. I'm pretty sure this list is incomplete - so anyone who is aware of another reentrancy attack, please comment on the issue:
+> https://t.co/qChwQg918F https://t.co/WlfMaBAYom
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FX84YyKXwAAWD-2.png — no alt text provided by author
+
+
+---
+
+## 2022-06-24 · Post · You can remain assured that they are aware of this attack vector - @el33th4xor check the Avalanche k
+
+
+### Post — @pcaversaccio — 2022-06-24 11:29 UTC (2022-06-24 12:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1540296007996547072
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> You can remain assured that they are aware of this attack vector - @el33th4xor check the Avalanche keys! https://t.co/zrP2Xq1YKB https://t.co/qiaKP7Zk40
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-06-24 11:24 UTC (2022-06-24 12:24 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1540294736485191680
+    - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 0
+    
+    > Lazarus Group is happy - this week one victim, next week another "new" target https://t.co/YKhEwTbh63
+    
+    **Media:**
+    - media `3_1540294491189411840` (details not returned by the API)
+    - media `3_1540294507152949248` (details not returned by the API)
+    
+
+
+---
+
+## 2022-06-24 · Post · Lazarus Group is happy - this week one victim, next week another "new" target https://t.co/YKhEwTbh6
+
+
+### Post — @pcaversaccio — 2022-06-24 11:24 UTC (2022-06-24 12:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1540294736485191680
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 0
+
+> Lazarus Group is happy - this week one victim, next week another "new" target https://t.co/YKhEwTbh63
+
+**Media:**
+- media `3_1540294491189411840` (details not returned by the API)
+- media `3_1540294507152949248` (details not returned by the API)
+
+
+---
+
+## 2022-06-22 · Post · Despite the existence of multiple great resources on zk-SNARK construction, the subject remains a bl
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2022-06-22 08:00 UTC (2022-06-22 09:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1539518680622563328
+- Metrics (at fetch): bookmark 1, impression 0, like 11, quote 0, reply 1, retweet 3
+
+> Despite the existence of multiple great resources on zk-SNARK construction, the subject remains a black box for many. The following paper makes you understand zk-SNARK w/o any prerequisite knowledge of the subject (i.e. math, crypto). Strongly recommended: https://t.co/BYrdRRMW1t
+
+
+---
+
+## 2022-06-22 · Post · Serious question - how do you explain to the non-crypto world what you actually do. I mean saying: '
+
+
+### Post — @pcaversaccio — 2022-06-22 06:11 UTC (2022-06-22 07:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1539491161336864768
+- Metrics (at fetch): bookmark 1, impression 0, like 36, quote 1, reply 11, retweet 1
+
+> Serious question - how do you explain to the non-crypto world what you actually do. I mean saying: 'I use inline assembly to optimise gas consumption and usually fuzz contracts in order to break them' is not a good answer lmfaoooo.
+
+
+---
+
+## 2022-06-20 · Post · Ok some serious tweet: Hertzbleed is a new family of side-channel attacks which may allow attackers 
+
+
+### Post — @pcaversaccio — 2022-06-20 15:39 UTC (2022-06-20 16:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1538909377578651649
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 1, reply 1, retweet 0
+
+> Ok some serious tweet: Hertzbleed is a new family of side-channel attacks which may allow attackers to extract cryptographic keys from remote servers. Hertzbleed is tracked under CVE-2022-23823 &amp; CVE-2022-24436 in the CVE system. Intel &amp; AMD are affected. https://t.co/0NWkUAazQq
+
+
+---
+
+## 2022-06-19 · Post · It seems the Tor network is currently under DDoS attack - wondering how this affects eg CoinJoin wal
+
+
+### Post — @pcaversaccio — 2022-06-19 08:59 UTC (2022-06-19 09:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1538446361179443202
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 1, retweet 1
+
+> It seems the Tor network is currently under DDoS attack - wondering how this affects eg CoinJoin wallets. Maybe @giacomozucco any insights?
+>
+> https://t.co/sTTpZsPwqO https://t.co/EDnf5wTnRj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FVmoi9lWQAIfzlH.jpg — no alt text provided by author
+
+
+---
+
+## 2022-06-18 · Post · The recently fixed Solidity compiler bug (https://t.co/WCme4aLsEB) illustrates the importance of the
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-06-18 07:16 UTC (2022-06-18 08:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1538058073876713472
+- Metrics (at fetch): bookmark 2, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> The recently fixed Solidity compiler bug (https://t.co/WCme4aLsEB) illustrates the importance of the following: verifying what you actually run without trusting the compiler!

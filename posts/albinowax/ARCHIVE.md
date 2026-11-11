@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 74
-- Conversations/threads: 68
+- Posts in this file: 76
+- Conversations/threads: 70
 - Oldest post captured: 2021-06-01
 - Newest post captured: 2026-11-04
 
@@ -1325,6 +1325,50 @@ Tags (automatic): Request smuggling / desync
 - Metrics (at fetch): bookmark 37, impression 20530, like 244, quote 2, reply 17, retweet 12
 
 > You know those non-vulnerabilities that companies get forced to fix for compliance reasons? I've found a full bypass for a common patch strategy. I'm half-tempted to keep it secret for the greater good 😂
+
+
+---
+
+## 2025-07-03 · Post · When HTTP/1.1 Must Die lands at DEFCON we’ll publish a @WebSecAcademy lab with a new class of desync
+
+
+Tags (automatic): Request smuggling / desync
+
+
+### Post — @albinowax — 2025-07-03 18:46 UTC (2025-07-03 19:46 WAT)
+
+- URL: https://x.com/albinowax/status/1940844688225062924
+- Metrics (at fetch): bookmark 115, impression 34244, like 301, quote 1, reply 7, retweet 64
+
+> When HTTP/1.1 Must Die lands at DEFCON we’ll publish a @WebSecAcademy lab with a new class of desync attack. One week later, I’ll livestream the solution on air with @offby1security! You’re invited :)
+> https://t.co/BPt0h0YiN2
+
+
+---
+
+## 2025-06-21 · Post · Super interesting research by @trailofbits on some subtle parser attack surface! Would you find thes
+
+
+### Post — @albinowax — 2025-06-21 13:02 UTC (2025-06-21 14:02 WAT)
+
+- URL: https://x.com/albinowax/status/1936409497217487148
+- Metrics (at fetch): bookmark 48, impression 8377, like 94, quote 0, reply 1, retweet 3
+
+> Super interesting research by @trailofbits on some subtle parser attack surface! Would you find these bugs in an app you tested? https://t.co/QL0SuU3mUc
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2025-06-18 11:23 UTC (2025-06-18 12:23 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1935297340497187230
+    - Metrics (at fetch): bookmark 94, impression 21266, like 133, quote 2, reply 2, retweet 35
+    
+    > Three unexpected attack scenarios:
+    > 1. Marshaling private data with misconfigured tags
+    > 2. Parser differentials in a microservices architecture
+    > 3. Cross-format confusion attacks (JSON→XML)
+    > https://t.co/2IpN8pvVI0
+    
 
 
 ---

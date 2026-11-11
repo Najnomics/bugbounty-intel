@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 105
-- Conversations/threads: 104
-- Oldest post captured: 2019-02-01
+- Posts in this file: 106
+- Conversations/threads: 105
+- Oldest post captured: 2018-06-28
 - Newest post captured: 2026-11-07
 
 
@@ -2297,3 +2297,19 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 2, impression 0, like 52, quote 0, reply 2, retweet 10
 
 > I just published "Sapling audit". It was great being a part of this achievement for Zcash and practical Zero-Knowledge Proofs! https://t.co/VQwzCkpUbD
+
+
+---
+
+## 2018-06-28 · Post · From @feministPLT's circuit optimization workshop: "If you don’t have imposter syndrome about design
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2018-06-28 07:02 UTC (2018-06-28 08:02 WAT)
+
+- URL: https://x.com/kobigurk/status/1012229747903000577
+- Metrics (at fetch): not returned
+
+> From @feministPLT's circuit optimization workshop: "If you don’t have imposter syndrome about designing zk circuits in 2018, you’re probably doing something wrong."

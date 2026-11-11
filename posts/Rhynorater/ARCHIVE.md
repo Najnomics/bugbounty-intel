@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 388
-- Conversations/threads: 347
+- Posts in this file: 389
+- Conversations/threads: 348
 - Oldest post captured: 2017-06-13
 - Newest post captured: 2026-11-10
 
@@ -4565,6 +4565,19 @@ Tags (automatic): Platform: HackerOne
     
     **Links in post:** https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#assignable-protocol-with-location
     
+
+
+---
+
+## 2023-03-09 · Post · Not everyone listens to podcasts. Joel and I want @ctbbpodcast to be the reason people start listeni
+
+
+### Post — @Rhynorater — 2023-03-09 18:00 UTC (2023-03-09 19:00 WAT)
+
+- URL: https://x.com/Rhynorater/status/1633890517195866116
+- Metrics (at fetch): not returned
+
+> Not everyone listens to podcasts. Joel and I want @ctbbpodcast to be the reason people start listening to podcasts. What would it take to get you non-listeners to give it a shot?
 
 
 ---

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 125
-- Conversations/threads: 125
-- Oldest post captured: 2022-09-01
+- Posts in this file: 134
+- Conversations/threads: 134
+- Oldest post captured: 2022-01-27
 - Newest post captured: 2026-11-03
 
 
@@ -1025,6 +1025,23 @@ Tags (automatic): Memory corruption / native
 
 > Pwndbg makes GDB and LLDB debugging actually usable for security research. @disconnect3d_pl shows stack canary analysis, heap inspection, and exploit development @europython today at 10:30 AM GMT+2
 > https://t.co/zBbVawO3Rf
+
+
+---
+
+## 2025-06-18 · Post · Three unexpected attack scenarios:
+
+
+### Post — @trailofbits — 2025-06-18 11:23 UTC (2025-06-18 12:23 WAT)
+
+- URL: https://x.com/trailofbits/status/1935297340497187230
+- Metrics (at fetch): bookmark 94, impression 21266, like 133, quote 2, reply 2, retweet 35
+
+> Three unexpected attack scenarios:
+> 1. Marshaling private data with misconfigured tags
+> 2. Parser differentials in a microservices architecture
+> 3. Cross-format confusion attacks (JSON→XML)
+> https://t.co/2IpN8pvVI0
 
 
 ---
@@ -2173,3 +2190,125 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     **Links in post:** https://pypi.org/p/pip-audit, https://github.com/pypa/gh-action-pip-audit
     
+
+
+---
+
+## 2022-07-26 · Post · We have been using Echidna - our smart contract fuzzer - for years in our audits and it has found ma
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2022-07-26 17:05 UTC (2022-07-26 18:05 WAT)
+
+- URL: https://x.com/trailofbits/status/1551976969411117057
+- Metrics (at fetch): bookmark 11, impression 0, like 35, quote 0, reply 1, retweet 12
+
+> We have been using Echidna - our smart contract fuzzer - for years in our audits and it has found many critical issues. Watch our recent presentation at @EthCC to learn how you can leverage Echidna to write safer contracts: 
+>
+> https://t.co/QTsXf3pIrT
+
+
+---
+
+## 2022-06-09 · Post · Last month we attended PyCon US 2022. Here are some of the cool things we saw, including our work on
+
+
+### Post — @trailofbits — 2022-06-09 11:00 UTC (2022-06-09 12:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1534852915755683842
+- Metrics (at fetch): bookmark 4, impression 0, like 24, quote 0, reply 0, retweet 8
+
+> Last month we attended PyCon US 2022. Here are some of the cool things we saw, including our work on pip-audit and sigstore-python! https://t.co/wbwTc2HR7l
+
+
+---
+
+## 2022-04-26 · Post · Intern Christian Presa Schnell describes the improvements he proposed for go-fuzz, including a fix f
+
+
+### Post — @trailofbits — 2022-04-26 11:00 UTC (2022-04-26 12:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1518907837312901120
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 1, reply 0, retweet 3
+
+> Intern Christian Presa Schnell describes the improvements he proposed for go-fuzz, including a fix for type alias issues, integration of dictionary support, and new mutation strategies. https://t.co/IR0ptadbud
+
+
+---
+
+## 2022-04-20 · Post · We're emptying the Node.js bug queue! Thanks to @openjsf and @openssf, the @trailofbits Engineering 
+
+
+### Post — @trailofbits — 2022-04-20 15:17 UTC (2022-04-20 16:17 WAT)
+
+- URL: https://x.com/trailofbits/status/1516798301928054791
+- Metrics (at fetch): bookmark 1, impression 0, like 30, quote 2, reply 1, retweet 1
+
+> We're emptying the Node.js bug queue! Thanks to @openjsf and @openssf, the @trailofbits Engineering team is addressing externally reported language-level bugs in Node. https://t.co/sXizSvQgX1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14538601 — 2022-04-18 16:14 UTC (2022-04-18 17:14 WAT)
+    
+    - URL: https://x.com/14538601/status/1516087900340846594
+    - Metrics (at fetch): bookmark 1, impression 0, like 19, quote 1, reply 0, retweet 2
+    
+    > Node.js is critical to many. The OpenSSF investment brings in engineering resources from NearForm and Trail of Bits to support Node.js maintainers who strive for a stable and secure codebase. Read the announcement on our blog: https://t.co/T2y8AGxffT 2/2
+    
+
+
+---
+
+## 2022-04-15 · Post · In part 3 of our series, we explore how to exploit a Frozen Heart vulnerability in the Bulletproofs 
+
+
+### Post — @trailofbits — 2022-04-15 11:00 UTC (2022-04-15 12:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1514921716836970504
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 0, reply 0, retweet 8
+
+> In part 3 of our series, we explore how to exploit a Frozen Heart vulnerability in the Bulletproofs system https://t.co/QTvHHP6ovy
+
+
+---
+
+## 2022-04-14 · Post · In part 2 of our series on the Frozen Heart vulnerability, we explore how to exploit one such vulner
+
+
+### Post — @trailofbits — 2022-04-14 11:00 UTC (2022-04-14 12:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1514559240278528002
+- Metrics (at fetch): bookmark 2, impression 0, like 21, quote 3, reply 0, retweet 4
+
+> In part 2 of our series on the Frozen Heart vulnerability, we explore how to exploit one such vulnerability in Girault’s proof of knowledge https://t.co/ncJLzQVX7B
+
+
+---
+
+## 2022-03-25 · Post · There's a dark side to compiler optimizations that can inadvertently cause information leaks or remo
+
+
+### Post — @trailofbits — 2022-03-25 12:58 UTC (2022-03-25 13:58 WAT)
+
+- URL: https://x.com/trailofbits/status/1507341268040531973
+- Metrics (at fetch): bookmark 31, impression 0, like 146, quote 1, reply 3, retweet 47
+
+> There's a dark side to compiler optimizations that can inadvertently cause information leaks or remove code critical to security. Read about the research being done to mitigate this risk and reduce the exposure to code-reuse attacks in software. https://t.co/a92xm8ubNW
+
+
+---
+
+## 2022-01-27 · Post · With the race to start using Cairo, we have the cryptographic and smart contract expertise to help. 
+
+
+Tags (automatic): Race condition, Smart contract / DeFi
+
+
+### Post — @trailofbits — 2022-01-27 17:32 UTC (2022-01-27 18:32 WAT)
+
+- URL: https://x.com/trailofbits/status/1486753907925782529
+- Metrics (at fetch): bookmark 7, impression 0, like 46, quote 3, reply 0, retweet 6
+
+> With the race to start using Cairo, we have the cryptographic and smart contract expertise to help. A quick review of one popular NFT library yielded a critical bug! https://t.co/WJ09e6womL

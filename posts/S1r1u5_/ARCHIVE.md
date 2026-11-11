@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 240
-- Conversations/threads: 212
+- Posts in this file: 248
+- Conversations/threads: 220
 - Oldest post captured: 2024-11-16
 - Newest post captured: 2026-11-09
 
@@ -6013,6 +6013,221 @@ Tags (automatic): AI-assisted hunting
     
     > @S1r1u5_ Now it’s extremely hard cuz everyone doing with bots.
     
+
+
+---
+
+## 2025-10-03 · Post · we are auditing this clearly vibe-coded app ([AGENT].md files all over) and oh boy the amount of vul
+
+
+Tags (automatic): SQL injection, SSRF, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-10-03 09:09 UTC (2025-10-03 10:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1974039099355906064
+- Metrics (at fetch): not returned
+
+> we are auditing this clearly vibe-coded app ([AGENT].md files all over) and oh boy the amount of vulnerabilities found are insane.
+>
+> it's awful that every critical vulnerability like SQLi, SSRF, and command injection shows up in the application.
+>
+> there are few reasons that model produce insecure code by default.
+>
+> 1. models are pre-trained on huge amounts of code on github and most of this code produced by humans is incentivised towards functionality not security.
+>
+> 2. post-training RL reward policy for the agent is to successfully build the feature, or pass all unit-tests. nowhere in the trajectory models are incentivised towards producing secure code.
+>
+> 3. as the complexity and the layers of the application increases models tend to produce more insecure code. for instance, security assumptions in one layer of the application where model doesn't have context will produce features without these security assumptions
+>
+> using AI code generation without vetting is not ideal, one weak link in the source code leads to the next ransomware attack.
+
+
+---
+
+## 2025-09-27 · Post · wait is this what sutton saying?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-09-27 18:49 UTC (2025-09-27 19:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1972010648096653697
+- Metrics (at fetch): not returned
+
+> wait is this what sutton saying?
+>
+> LLMs are script kiddies, you have a exploit recipe which they imitate the exact steps A->B->C->D-> hack from hacker’s github repo
+>
+> on the other hand, a hacker starts from A, to achieve goal “hack” infers casual and action space which is not exactly imitating.
+
+**Links in post:** https://twitter.com/richardssutton/status/1971718688840864167
+
+**Quoted post (full text):**
+
+    #### Quoted post — @206026629 — 2025-09-26 23:29 UTC (2025-09-27 00:29 WAT)
+    
+    - URL: https://x.com/206026629/status/1971718688840864167
+    - Metrics (at fetch): not returned
+    
+    > @eigenrobot Even in birdsong learning in zebra finches the motor actions are not learned by imitation. The auditory result is reproduced, not the actions; in this crucial way it differs from LLM training.
+    
+
+
+---
+
+## 2025-09-19 · Post · there's a real information asymmetry between agent developers and attackers, if I can read the syste
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-09-19 19:12 UTC (2025-09-19 20:12 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1969117373413408864
+- Metrics (at fetch): not returned
+
+> there's a real information asymmetry between agent developers and attackers, if I can read the system prompt I can map out almost every attack vector. 
+>
+> maybe should write a blog post about that threat model, and building a small open source tool to automatically generate likely attack vectors, basically a threat-model generator that spits out scenarios given the system prompt.
+>
+> it's not hard to secure, the assumptions are simple:
+>
+> 1. assume the model can be jailbroken,
+> 2. also assume malicious input(source) is reachable to the model (even if you think they won't appsec bugs can slip input through, like my windsurf rce https://www.youtube.com/watch?v=23Mz7qcRz50&t=1s, i have found numerous vulns in our audits). 
+>
+> so we have source → llm → sink.
+>
+> sources: treat every inbound path to LLM is recheable.
+> sinks: search tools, rendering model output in html, execution tools
+>
+> search tools → make urls deterministic, probably use an allowlist. Don't ever let your tool construct URL from model.
+> rendering → don’t render img/script/active tags, probably audit the frontend.
+> command tools → easiest is ask user permission or sandbox/lock network outbound.
+> audit every other tool -> make sure there is no way of outbound.
+>
+> and more importantly just get an audit from top security firm if your agent is used by ton of users.
+
+**Links in post:** https://twitter.com/simonw/status/1969111931152634010, https://www.youtube.com/watch?v=23Mz7qcRz50&t=1s
+
+**Quoted post (full text):**
+
+    #### Quoted post — @12497 — 2025-09-19 18:50 UTC (2025-09-19 19:50 WAT)
+    
+    - URL: https://x.com/12497/status/1969111931152634010
+    - Metrics (at fetch): not returned
+    
+    > Classic prompt injection attack here against Notion: hidden text (white on white) in a PDF which, when processed by Notion, causes their agent to gather confidential data from other pages and append it into a query string that gets passed to their functions_search() tool https://twitter.com/AbiCodeIntegrit/status/1969109737204826151
+    
+    **Links in post:** https://twitter.com/AbiCodeIntegrit/status/1969109737204826151
+    
+    **Quoted post** 1969109737204826151: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-09-01 · Post · steal this security research idea:
+
+
+Tags (automatic): XSS, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-09-01 11:16 UTC (2025-09-01 12:16 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1962474567344992525
+- Metrics (at fetch): not returned
+
+> steal this security research idea:
+>
+> Think of blind XSS, but for LLMs. You could work on blind prompt injection: spray malicious prompts everywhere, forums, comments, emails, PDFs with a canary. 
+>
+> wait for an AI agent to parse and execute the shell.
+
+
+---
+
+## 2025-09-01 · Post · i am still searching for that “secure” AI agentic app where I can’t pull off an RCE or something equ
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-09-01 11:09 UTC (2025-09-01 12:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1962473000139104595
+- Metrics (at fetch): not returned
+
+> i am still searching for that “secure” AI agentic app where I can’t pull off an RCE or something equally nasty.
+>
+> this space is incredibly insecure
+
+
+---
+
+## 2025-08-21 · Post · got a cool bug in line for next video, gave up bounty for the disclosure.
+
+
+### Post — @S1r1u5_ — 2025-08-21 04:25 UTC (2025-08-21 05:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1958385043212292111
+- Metrics (at fetch): not returned
+
+> got a cool bug in line for next video, gave up bounty for the disclosure.
+
+
+---
+
+## 2025-08-21 · Post · this is a good thing if it’s true
+
+
+Tags (automatic): XSS
+
+
+### Post — @S1r1u5_ — 2025-08-21 04:16 UTC (2025-08-21 05:16 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1958382744603591080
+- Metrics (at fetch): not returned
+
+> this is a good thing if it’s true
+>
+> but its not the case, the apps are getting complex which leads to spinning up more weird machines to find, for us it’s usually rare to find apps without high and critical severity issues.
+>
+> its not even the complex bugs, for instance frontend frameworks are supposed to reduce client side bugs but XSS is still the most common bug we find in every pentest.
+
+**Links in post:** https://twitter.com/payloadartist/status/1958174688049266783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1030113891299221509 — 2025-08-20 14:30 UTC (2025-08-20 15:30 WAT)
+    
+    - URL: https://x.com/1030113891299221509/status/1958174688049266783
+    - Metrics (at fetch): not returned
+    
+    > My pentester friends out there, do you feel the same? [pic.x.com/VVdIXLGMTL]
+    
+    **Media:**
+    - media `3_1943533249612935169` (details not returned by the API)
+    
+
+
+---
+
+## 2025-08-17 · Post · why would i report free bugs to bugcrowd vdp just for vendors to say “never disclose”? that disclosu
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @S1r1u5_ — 2025-08-17 08:43 UTC (2025-08-17 09:43 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1957000388927778988
+- Metrics (at fetch): not returned
+
+> why would i report free bugs to bugcrowd vdp just for vendors to say “never disclose”? that disclosure policy is not it.
+>
+> better to go security@ with project zero deadlines, 90 days, then i share it with the community.
 
 
 ---

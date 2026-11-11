@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 96
-- Conversations/threads: 92
-- Oldest post captured: 2025-07-29
+- Posts in this file: 98
+- Conversations/threads: 94
+- Oldest post captured: 2025-07-06
 - Newest post captured: 2026-11-10
 
 
@@ -2192,3 +2192,34 @@ Tags (automatic): Smart contract / DeFi
     **Media:**
     - media `3_1949770201811275776` (details not returned by the API)
     
+
+
+---
+
+## 2025-07-17 · Post · I just found a confirmed bug on @immunefi immunefitribe https://t.co/iR8SHWx7js
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @0xriptide — 2025-07-17 07:53 UTC (2025-07-17 08:53 WAT)
+
+- URL: https://x.com/0xriptide/status/1945753809445105928
+- Metrics (at fetch): bookmark 3, impression 9519, like 184, quote 2, reply 16, retweet 2
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/iR8SHWx7js
+
+
+---
+
+## 2025-07-06 · Post · this is the last bug report I submit that isn't objectively a funds loss/protocol nuke critical
+
+
+### Post — @0xriptide — 2025-07-06 16:36 UTC (2025-07-06 17:36 WAT)
+
+- URL: https://x.com/0xriptide/status/1941899147482653116
+- Metrics (at fetch): bookmark 8, impression 5721, like 104, quote 0, reply 4, retweet 3
+
+> this is the last bug report I submit that isn't objectively a funds loss/protocol nuke critical
+>
+> once you get into theoreticals it's a waste of time

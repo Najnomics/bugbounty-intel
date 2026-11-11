@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 47
-- Conversations/threads: 47
-- Oldest post captured: 2022-06-21
+- Posts in this file: 49
+- Conversations/threads: 49
+- Oldest post captured: 2021-12-03
 - Newest post captured: 2026-04-17
 
 
@@ -1022,3 +1022,36 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 > 1/4 🧵 
 > There's been a lot of fuss around the recent #Solend DAO vote, with lots of discussion about what a protocol should be able to change about its #Solana smart contract.
+
+
+---
+
+## 2022-04-04 · Post · We believe every software project should clearly communicate its bug bounty policies and how to get 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2022-04-04 11:23 UTC (2022-04-04 12:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1510941148549894157
+- Metrics (at fetch): bookmark 13, impression 0, like 103, quote 6, reply 3, retweet 19
+
+> We believe every software project should clearly communicate its bug bounty policies and how to get in touch regarding security issues. In order to facilitate this, we brought security.txt to Solana:
+> https://t.co/1aBxqEY0Yo
+
+
+---
+
+## 2021-12-03 · Post · We recently discovered a critical bug in the token-lending contract of the solana-program-library (S
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2021-12-03 21:41 UTC (2021-12-03 22:41 WAT)
+
+- URL: https://x.com/Neodyme/status/1466885443019063301
+- Metrics (at fetch): bookmark 99, impression 0, like 683, quote 58, reply 35, retweet 140
+
+> We recently discovered a critical bug in the token-lending contract of the solana-program-library (SPL). This blog post details our journey from discovery, through exploitation and coordinated disclosure, and finally the fix.

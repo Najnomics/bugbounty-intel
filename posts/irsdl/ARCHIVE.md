@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 54
-- Oldest post captured: 2025-12-02
+- Posts in this file: 65
+- Conversations/threads: 60
+- Oldest post captured: 2025-08-16
 - Newest post captured: 2026-11-10
 
 
@@ -1280,3 +1280,160 @@ Tags (automatic): AI-assisted hunting
 > Something we even knew from the past: https://www.zerodayinitiative.com/blog/2021/6/1/cve-2021-31181-microsoft-sharepoint-webpart-interpretation-conflict-remote-code-execution-vulnerability😶‍🌫️
 
 **Links in post:** http://ysonet.net, https://www.zerodayinitiative.com/blog/2021/6/1/cve-2021-31181-microsoft-sharepoint-webpart-interpretation-conflict-remote-code-execution-vulnerability
+
+
+---
+
+## 2025-10-02 · Post · A genuine question about OWASP Nettacker. I have seen it advertised by OWASP but does anyone in the 
+
+
+### Post — @irsdl — 2025-10-02 12:30 UTC (2025-10-02 13:30 WAT)
+
+- URL: https://x.com/irsdl/status/1973727303525130626
+- Metrics (at fetch): not returned
+
+> A genuine question about OWASP Nettacker. I have seen it advertised by OWASP but does anyone in the security community or bug bounty use it often for day-to-day tasks?
+> If yes, what's the usage or benefits over other tools? 🙏
+> https://owasp.org/www-project-nettacker/
+
+**Links in post:** https://owasp.org/www-project-nettacker/
+
+
+---
+
+## 2025-09-30 · Post · Self-talk advertising alert🚨
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2025-09-30 21:27 UTC (2025-09-30 22:27 WAT)
+
+- URL: https://x.com/irsdl/status/1973137560726806807
+- Metrics (at fetch): not returned
+
+> Self-talk advertising alert🚨
+>
+> "ToolShell, Patch Bypass, and the AI That Might Have Seen It Coming"
+>
+> @NDC_Conferences {Manchester}, December (surely not a rainy Wednesday… right?) with @pi3ch of @secdim
+>
+> https://ndcmanchester.com/agenda/toolshell-patch-bypass-and-the-ai-that-might-have-seen-it-coming-06e5/0lrlefaactp
+>
+> #NDCManchester #AppSec
+
+**Links in post:** https://ndcmanchester.com/agenda/toolshell-patch-bypass-and-the-ai-that-might-have-seen-it-coming-06e5/0lrlefaactp
+
+
+---
+
+## 2025-09-23 · Post · Bounty Plz https://twitter.com/USEmbassySyria/status/864144602584035328
+
+
+### Post — @irsdl — 2025-09-23 21:36 UTC (2025-09-23 22:36 WAT)
+
+- URL: https://x.com/irsdl/status/1970603316246913305
+- Metrics (at fetch): not returned
+
+> Bounty Plz https://twitter.com/USEmbassySyria/status/864144602584035328
+
+**Links in post:** https://twitter.com/USEmbassySyria/status/864144602584035328
+
+**Quoted post** 864144602584035328: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-09-18 · Post · 💡 BurpSuite tip (learned it the hard way😅):
+
+
+### Post — @irsdl — 2025-09-18 08:24 UTC (2025-09-18 09:24 WAT)
+
+- URL: https://x.com/irsdl/status/1968591878812557486
+- Metrics (at fetch): not returned
+
+> 💡 #BurpSuite tip (learned it the hard way😅):
+>
+> > I assumed I could set different audit rules per target (e.g. chasing specific bugs). ❌ Wrong.
+>
+> - Unless configs are combined into one rule, Burp only uses the last config. In my screenshot, only the BCheck rule runs!
+> All documented here if I had read it: https://web.archive.org/web/20250905143557/https://portswigger.net/burp/documentation/desktop/running-scans/custom-configs
+> Missed some bugs → thought it was a Burp bug → asked → turns out it was me 😇
+>
+> 👉 Upgrade to the latest EA version if you rely on audit to make it less confusing.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G1HVlNgX0AAqnQ1.png — alt text: "The old behaviour of Burp Suite only using the last Audit custom config."
+
+**Links in post:** https://web.archive.org/web/20250905143557/https://portswigger.net/burp/documentation/desktop/running-scans/custom-configs
+
+
+---
+
+## 2025-09-03 · Post · Visiting NCC Group’s blogs right now feels like a CTF challenge: decipher the mangled text while dod
+
+
+Tags (automatic): XSS, RCE
+
+
+### Post — @irsdl — 2025-09-03 12:08 UTC (2025-09-03 13:08 WAT)
+
+- URL: https://x.com/irsdl/status/1963212503778803886
+- Metrics (at fetch): not returned
+
+> Visiting NCC Group’s blogs right now feels like a CTF challenge: decipher the mangled text while dodging XSS pop-ups. Better to use web archive to see the original content but they have even changed the URLs!
+> Example: 
+> https://www.nccgroup.com/research-blog/bit51-better-security-wp-security-plugin-unauthenticated-stored-xss-to-rce/
+> The http://fox-it.com etc are also the same.
+> My blog posts there are all ruined for sure which is a shame. I have to repost them all in my own blog.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gz67KAoXMAAR_OZ.png — no alt text provided by author
+
+**Links in post:** https://www.nccgroup.com/research-blog/bit51-better-security-wp-security-plugin-unauthenticated-stored-xss-to-rce/, http://fox-it.com
+
+
+---
+
+## 2025-08-16 · Post · If I hire all great bug bounty folks to work using 1 account, my score would have been more than dou
+
+
+Tags (automatic): AI-assisted hunting, Platform: HackerOne
+
+
+### Post — @irsdl — 2025-08-16 11:46 UTC (2025-08-16 12:46 WAT)
+
+- URL: https://x.com/irsdl/status/1956683920247857264
+- Metrics (at fetch): not returned
+
+> If I hire all great bug bounty folks to work using 1 account, my score would have been more than double!
+>
+> If I then convince @galnagli to use automation on all h1 programs while working for me then my score would be through the roof! 
+>
+> Yeah, take that AI, only if I had that much investment to hire these guys at once...🥹
+
+**Links in post:** https://twitter.com/galnagli/status/1956648814833463523
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2025-08-16 09:26 UTC (2025-08-16 10:26 WAT)
+    
+    - URL: https://x.com/galnagli/status/1956648814833463523
+    - Metrics (at fetch): bookmark 68, impression 63535, like 256, quote 4, reply 17, retweet 7
+    
+    > If I used my automation on all HackerOne programs, my score would have been double that of the AI Hackbots… https://twitter.com/oegerikus/status/1956418555039117524
+    
+    **Links in post:** https://twitter.com/oegerikus/status/1956418555039117524
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @921913627237478401 — 2025-08-15 18:11 UTC (2025-08-15 19:11 WAT)
+        
+        - URL: https://x.com/921913627237478401/status/1956418555039117524
+        - Metrics (at fetch): bookmark 23, impression 96854, like 85, quote 6, reply 9, retweet 7
+        
+        > If @Xbow had used GPT-5 on HackerOne, its score would have been double that of the humans... https://t.co/52gN9LhWey
+        
+        **Quoted post** 1956416634173964695: not readable via the API (deleted, private, or withheld).
+        
+    

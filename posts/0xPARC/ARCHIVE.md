@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 42
-- Conversations/threads: 21
-- Oldest post captured: 2022-04-28
+- Posts in this file: 54
+- Conversations/threads: 33
+- Oldest post captured: 2021-12-02
 - Newest post captured: 2024-11-14
 
 
@@ -691,3 +691,273 @@ Tags (automatic): ZK
 > https://0xparc.org/blog/zk-id-2
 
 **Links in post:** https://0xparc.org/blog/zk-id-2
+
+
+---
+
+## 2022-04-20 · Post · The agenda for this weekend's Applied ZK Workshop at @EFDevconnect is now available online. Featurin
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-04-20 16:55 UTC (2022-04-20 17:55 WAT)
+
+- URL: https://x.com/0xPARC/status/1516822771669610502
+- Metrics (at fetch): bookmark 19, impression 0, like 40, quote 6, reply 2, retweet 8
+
+> The agenda for this weekend's Applied ZK Workshop at @EFDevconnect is now available online. Featuring demos, presentations, and workshops on circuit primitives, proof-of-concept applications, tooling and infra, circuit verification, and more. (1/2)
+>
+> https://t.co/UAoVGFRs9j
+
+
+---
+
+## 2022-04-04 · Post · We've sent responses to everyone who applied to attend the Applied ZK Showcase at @EFDevconnect. If 
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-04-04 18:05 UTC (2022-04-04 19:05 WAT)
+
+- URL: https://x.com/0xPARC/status/1511042208090124292
+- Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 3, retweet 1
+
+> We've sent responses to everyone who applied to attend the Applied ZK Showcase at @EFDevconnect. If you haven't received a response from us or someone from EF @PrivacyScaling, please check your spam folder!
+
+
+---
+
+## 2022-03-21 · Post · We are co-hosting an Applied ZK Workshop at @EFDevconnect with the EF @PrivacyScaling team, bringing
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-03-21 01:28 UTC (2022-03-21 02:28 WAT)
+
+- URL: https://x.com/0xPARC/status/1505718063840198661
+- Metrics (at fetch): bookmark 5, impression 0, like 50, quote 4, reply 4, retweet 24
+
+> We are co-hosting an Applied ZK Workshop at @EFDevconnect with the EF @PrivacyScaling team, bringing teams together to learn about the latest developments in the ZK application landscape.
+>
+> This event has limited capacity. Apply below by 3/25! (1/n)
+>
+> https://t.co/d9T66fCJ33
+
+
+---
+
+## 2022-03-18 · Post · Five days left to donate to @gitcoin GR13, and to have your donations matched up to 200x - yes, TWO 
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-03-18 21:09 UTC (2022-03-18 22:09 WAT)
+
+- URL: https://x.com/0xPARC/status/1504927929935052807
+- Metrics (at fetch): bookmark 3, impression 0, like 24, quote 1, reply 1, retweet 7
+
+> Five days left to donate to @gitcoin GR13, and to have your donations matched up to 200x - yes, TWO HUNDRED TIMES - by our ZK matching pool! Here's a thread with a few projects we're excited about: (1/n)
+>
+> https://t.co/VDCsiEO2Kn
+
+
+---
+
+## 2022-03-12 · Post · Check out @gubsheep's Applied ZK Gems @gitcoin collection! We'll be highlighting a handful of ZK pro
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-03-12 00:04 UTC (2022-03-12 01:04 WAT)
+
+- URL: https://x.com/0xPARC/status/1502435356838346761
+- Metrics (at fetch): bookmark 2, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Check out @gubsheep's Applied ZK Gems @gitcoin collection! We'll be highlighting a handful of ZK projects as well in the coming week. https://t.co/7cuWJXPBdp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1060338957869858816 — 2022-03-12 00:02 UTC (2022-03-12 01:02 WAT)
+    
+    - URL: https://x.com/1060338957869858816/status/1502434858638921732
+    - Metrics (at fetch): bookmark 14, impression 0, like 67, quote 1, reply 2, retweet 23
+    
+    > just made some @gitcoin contributions to a handful of ZK projects I'm very excited about, which are participating in the ZKTech matching pool. Full collection linked below.
+    >
+    > Here are some highlights! (1/n)
+    >
+    > https://t.co/fYqC79xp0O
+    
+
+
+---
+
+## 2022-03-09 · Post · We've just sent decisions for applicants to Applied ZK Learning Group 2. If you didn't receive an e
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-03-09 03:10 UTC (2022-03-09 04:10 WAT)
+
+- URL: https://x.com/0xPARC/status/1501394847802048528
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 2, reply 2, retweet 0
+
+> We've just sent decisions for applicants to Applied ZK Learning Group #2. If you didn't receive an email, check your spam folder! https://t.co/beZayK4H1o
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xPARC — 2022-02-27 02:05 UTC (2022-02-27 03:05 WAT)
+    
+    - URL: https://x.com/0xPARC/status/1497754628716482561
+    - Metrics (at fetch): bookmark 30, impression 0, like 159, quote 6, reply 78, retweet 88
+    
+    > [APPLY BY FRIDAY 3/4] 0xPARC Applied ZK Learning Group #2 
+    >
+    > We'll be running our second Applied ZK Learning Group from 3/14 - 4/8. See the post below (and this thread) for details on the program, including how to apply. (1/n)
+    >
+    > https://t.co/8YJuZuDP2G
+    
+
+
+---
+
+## 2022-03-02 · Post · We will be co-running the GR13 ZKTech round with @ZKValidator, to showcase and support a number of e
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @0xPARC — 2022-03-02 23:59 UTC (2022-03-03 00:59 WAT)
+
+- URL: https://x.com/0xPARC/status/1499172504111390724
+- Metrics (at fetch): bookmark 2, impression 0, like 17, quote 0, reply 0, retweet 4
+
+> We will be co-running the GR13 ZKTech round with @ZKValidator, to showcase and support a number of exciting new ZK crypto projects. Excited to help bring more public goods funding to ZK! https://t.co/aWZHfqzKmC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @856446453157376003 — 2022-02-18 20:36 UTC (2022-02-18 21:36 WAT)
+    
+    - URL: https://x.com/856446453157376003/status/1494772845280305152
+    - Metrics (at fetch): bookmark 10, impression 0, like 112, quote 11, reply 8, retweet 39
+    
+    > Now that you’ve been #Greenpilled... we’re gonna fill you in on a not-so-secret secret… Grants Round 13 starts on March 9!🟡
+    >
+    > 🟡We're only 2.5 weeks away 🟡
+    >
+    > A record-breaking 10 rounds are queued up this quarter, with over $1m in matching funds committed so far...
+    > /1 https://t.co/1inJgqlsEp
+    
+    **Media:**
+    - media `3_1494728043675402240` (details not returned by the API)
+    
+
+
+---
+
+## 2022-02-27 · Post · [APPLY BY FRIDAY 3/4] 0xPARC Applied ZK Learning Group 2 
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-27 02:05 UTC (2022-02-27 03:05 WAT)
+
+- URL: https://x.com/0xPARC/status/1497754628716482561
+- Metrics (at fetch): bookmark 30, impression 0, like 159, quote 6, reply 78, retweet 88
+
+> [APPLY BY FRIDAY 3/4] 0xPARC Applied ZK Learning Group #2 
+>
+> We'll be running our second Applied ZK Learning Group from 3/14 - 4/8. See the post below (and this thread) for details on the program, including how to apply. (1/n)
+>
+> https://t.co/8YJuZuDP2G
+
+
+---
+
+## 2022-02-15 · Post · Earlier today, @0xB07DAD pointed out a flaw in the current StealthDrop system that allows users to d
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-15 21:51 UTC (2022-02-15 22:51 WAT)
+
+- URL: https://x.com/0xPARC/status/1493704577002049537
+- Metrics (at fetch): bookmark 43, impression 0, like 102, quote 5, reply 2, retweet 20
+
+> Earlier today, @0xB07DAD pointed out a flaw in the current StealthDrop system that allows users to double-claim. The vulnerability (and the fix strategy) are instructive for anyone interested in building ZK systems; the StealthDrop team asked us to share a summary! (1/n)
+
+
+---
+
+## 2022-02-14 · Post · [New post] StealthDrop: Anonymous Airdrops Using ZK Proofs
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-14 23:18 UTC (2022-02-15 00:18 WAT)
+
+- URL: https://x.com/0xPARC/status/1493363943036923912
+- Metrics (at fetch): bookmark 97, impression 0, like 315, quote 41, reply 12, retweet 76
+
+> [New post] StealthDrop: Anonymous Airdrops Using ZK Proofs
+>
+> @nibnalin, @yush_g, and Adhyyan S. present StealthDrop, an anonymous airdrop utility using circom-ecdsa, enabling anonymous governance. (1/n)
+>
+> (post in README of github repo)
+>
+> https://t.co/RtbrMAGMF8
+
+
+---
+
+## 2022-02-02 · Post · [New post] ZK Identity: Why and How (Part 1)
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2022-02-02 22:20 UTC (2022-02-02 23:20 WAT)
+
+- URL: https://x.com/0xPARC/status/1489000817407377410
+- Metrics (at fetch): bookmark 21, impression 0, like 76, quote 5, reply 1, retweet 15
+
+> [New post] ZK Identity: Why and How (Part 1)
+>
+> (1/n)
+>
+> https://t.co/xen8dOhHM9
+
+
+---
+
+## 2021-12-02 · Post · Dark Forest is hiring a frontend developer to contribute to its highly modular and extensible ZK gam
+
+
+Tags (automatic): ZK
+
+
+### Post — @0xPARC — 2021-12-02 05:27 UTC (2021-12-02 06:27 WAT)
+
+- URL: https://x.com/0xPARC/status/1466277751254446087
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> Dark Forest is hiring a frontend developer to contribute to its highly modular and extensible ZK game interface - details below. https://t.co/aHLKjgNmBe
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1287606089849151494 — 2021-11-30 21:30 UTC (2021-11-30 22:30 WAT)
+    
+    - URL: https://x.com/1287606089849151494/status/1465795417354899459
+    - Metrics (at fetch): bookmark 11, impression 0, like 85, quote 7, reply 4, retweet 21
+    
+    > Love making nifty UIs? Think you could improve our game's look and feel? We're hiring! https://t.co/XXYoffnvhO
+    

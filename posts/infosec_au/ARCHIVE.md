@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 61
+- Posts in this file: 74
+- Conversations/threads: 64
 - Oldest post captured: 2021-01-14
 - Newest post captured: 2026-11-07
 
@@ -1142,6 +1142,52 @@ Tags (automatic): RCE
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GdL3pGQbIAAt1JT.jpg — no alt text provided by author
+
+
+---
+
+## 2024-11-22 · Post · Earlier this year, @assetnote's Security Research team discovered a vulnerability in Sitecore XP (CV
+
+
+Tags (automatic): RCE
+
+
+### Post — @infosec_au — 2024-11-22 04:31 UTC (2024-11-22 05:31 WAT)
+
+- URL: https://x.com/infosec_au/status/1859816952044323020
+- Metrics (at fetch): bookmark 106, impression 23576, like 256, quote 1, reply 4, retweet 64
+
+> Earlier this year, @assetnote's Security Research team discovered a vulnerability in Sitecore XP (CVE-2024-46938) that can lead to pre-authentication RCE.
+> Order of operations bugs are one of my favorite types of bugs :) Write up and exploit script here: https://t.co/1N2m42ILDH https://t.co/WbT2vjfsn2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gc9lP6baMAAopuB.png — no alt text provided by author
+
+
+---
+
+## 2024-09-30 · Post · Will be giving a presentation this Friday at UTS Sydney on the basics of recon in the context of Bug
+
+
+### Post — @infosec_au — 2024-09-30 09:53 UTC (2024-09-30 10:53 WAT)
+
+- URL: https://x.com/infosec_au/status/1840691362439606742
+- Metrics (at fetch): bookmark 26, impression 6723, like 97, quote 0, reply 2, retweet 10
+
+> Will be giving a presentation this Friday at UTS Sydney on the basics of recon in the context of Bug Bounties. If you're in Sydney and would like to attend, please RSVP here: https://t.co/J50MYF2q4t
+
+
+---
+
+## 2024-08-19 · Post · For the Sydney bug bounty community: we're holding our second bug bounty meetup at UTS on Sept 6th (
+
+
+### Post — @infosec_au — 2024-08-19 10:00 UTC (2024-08-19 11:00 WAT)
+
+- URL: https://x.com/infosec_au/status/1825472789211648140
+- Metrics (at fetch): bookmark 8, impression 4487, like 57, quote 0, reply 0, retweet 5
+
+> For the Sydney bug bounty community: we're holding our second bug bounty meetup at UTS on Sept 6th (Friday) from 7PM to 8PM. RSVP here: https://t.co/TmXnAi21vD
 
 
 ---

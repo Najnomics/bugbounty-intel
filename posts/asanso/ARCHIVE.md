@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 115
-- Conversations/threads: 113
-- Oldest post captured: 2018-04-09
+- Posts in this file: 129
+- Conversations/threads: 127
+- Oldest post captured: 2017-08-08
 - Newest post captured: 2026-11-06
 
 
@@ -2238,6 +2238,77 @@ Tags (automatic): ZK
 
 ---
 
+## 2018-06-19 · Post · it is interesting to see how an 'exploit' is formally defined in 2 different papers coming from 2 di
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @asanso — 2018-06-19 06:52 UTC (2018-06-19 07:52 WAT)
+
+- URL: https://x.com/asanso/status/1008965809010626560
+- Metrics (at fetch): not returned
+
+> it is interesting to see how an 'exploit' is formally defined in 2 different papers coming from 2 different perspective: 1) the @halvarflake 's "weird state" https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8226852&tag=1 vs @AriJuels exploit in smart contracts https://thehydra.io/paper.pdf
+
+**Links in post:** https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8226852&tag=1, https://thehydra.io/paper.pdf
+
+
+---
+
+## 2018-06-19 · Post · "Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @asanso — 2018-06-19 06:46 UTC (2018-06-19 07:46 WAT)
+
+- URL: https://x.com/asanso/status/1008964211471519744
+- Metrics (at fetch): not returned
+
+> "Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant
+> Smart Contracts" by @AriJuels et al. https://thehydra.io/paper.pdf
+
+**Links in post:** https://thehydra.io/paper.pdf
+
+
+---
+
+## 2018-06-15 · Post · Little WebAuthn rant I applaude @Dropbox  and @scarybeasts  to be one of the first to adopot  WebA
+
+
+### Post — @asanso — 2018-06-15 08:27 UTC (2018-06-15 09:27 WAT)
+
+- URL: https://x.com/asanso/status/1007540088945938432
+- Metrics (at fetch): not returned
+
+> Little #WebAuthn rant I applaude @Dropbox  and @scarybeasts  to be one of the first to adopot  #WebAuthn but "Send SMS instead" sounds so much as "downgrade attack" [pic.x.com/yjAp6Xn9is]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DfuAPbDWAAAnkPm.jpg — no alt text provided by author
+
+
+---
+
+## 2018-04-24 · Post · Current status: sketching another bug bounty rant post :S as  https://blog.intothesymmetry.com/2018/
+
+
+### Post — @asanso — 2018-04-24 08:42 UTC (2018-04-24 09:42 WAT)
+
+- URL: https://x.com/asanso/status/988699731873488896
+- Metrics (at fetch): not returned
+
+> Current status: sketching another bug bounty rant post :S as  https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html … p.s. why always me ? [pic.x.com/Fhhx8dXbgl]
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+**Links in post:** https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html
+
+
+---
+
 ## 2018-04-09 · Post · Project Wycheproof (https://github.com/google/wycheproof) is the AFL (http://lcamtuf.coredump.cx/afl
 
 
@@ -2249,3 +2320,178 @@ Tags (automatic): ZK
 > Project Wycheproof (https://github.com/google/wycheproof) is the AFL (http://lcamtuf.coredump.cx/afl/) of #crypto. Thanks a lot @XorNinja  and team (notably including Bleichenbacher)  for providing such a powerful tool
 
 **Links in post:** https://github.com/google/wycheproof, http://lcamtuf.coredump.cx/afl/
+
+
+---
+
+## 2018-02-06 · Post · Bug bounty left over  (and rant) Part III (Google and Twitter)  -
+
+
+### Post — @asanso — 2018-02-06 15:34 UTC (2018-02-06 16:34 WAT)
+
+- URL: https://x.com/asanso/status/960899592547020801
+- Metrics (at fetch): not returned
+
+> Bug bounty left over  (and rant) Part III (Google and Twitter)  -
+> http://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html [pic.x.com/PQIs7cpoch]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DVXNFAhXUAAcY-5.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/DVXNFAAW4AAsSIg.jpg — no alt text provided by author
+
+**Links in post:** http://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html
+
+
+---
+
+## 2018-02-06 · Post · Bug bounty left over  (and rant) Part III (Google and Twitter) - http://blog.intothesymmetry.com/201
+
+
+### Post — @asanso — 2018-02-06 15:34 UTC (2018-02-06 16:34 WAT)
+
+- URL: https://x.com/asanso/status/960899392944443392
+- Metrics (at fetch): not returned
+
+> Bug bounty left over  (and rant) Part III (Google and Twitter) - http://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html [pic.x.com/98sXCC8500]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DVXM2UtX0AAkblx.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/DVXM39bX0AAqZQo.jpg — no alt text provided by author
+
+**Links in post:** http://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html
+
+
+---
+
+## 2018-01-12 · Post · Thanks a lot @str4d for the literally on-the-fly zk-snark leason w/ @FiloSottile @gtank__  @isislove
+
+
+Tags (automatic): ZK
+
+
+### Post — @asanso — 2018-01-12 08:30 UTC (2018-01-12 09:30 WAT)
+
+- URL: https://x.com/asanso/status/951733068167024640
+- Metrics (at fetch): not returned
+
+> Thanks a lot @str4d for the literally on-the-fly zk-snark leason w/ @FiloSottile @gtank__  @isislovecruft @hdevalence et al. It was great!
+
+
+---
+
+## 2017-12-21 · Post · time for new year resolution : Understanding zk-SNARKs 
+
+
+Tags (automatic): ZK
+
+
+### Post — @asanso — 2017-12-21 11:01 UTC (2017-12-21 12:01 WAT)
+
+- URL: https://x.com/asanso/status/943798503377121280
+- Metrics (at fetch): not returned
+
+> time for new year resolution : Understanding zk-SNARKs 
+> https://www.youtube.com/watch?v=yNS_ttTj1KE
+
+**Links in post:** https://www.youtube.com/watch?v=yNS_ttTj1KE
+
+
+---
+
+## 2017-10-30 · Post · Return of the Coppersmith Attack (ROCA) PDF availablehttps://dl.acm.org/citation.cfm?id=3133969
+
+
+### Post — @asanso — 2017-10-30 15:18 UTC (2017-10-30 16:18 WAT)
+
+- URL: https://x.com/asanso/status/925019004825161728
+- Metrics (at fetch): not returned
+
+> Return of the Coppersmith Attack (ROCA) PDF availablehttps://dl.acm.org/citation.cfm?id=3133969
+
+
+---
+
+## 2017-10-30 · Post · Yay, I was awarded a $5,040 bounty on @Hacker0x01! https://hackerone.com/asanso TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @asanso — 2017-10-30 08:08 UTC (2017-10-30 09:08 WAT)
+
+- URL: https://x.com/asanso/status/924910883364573184
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $5,040 bounty on @Hacker0x01! https://hackerone.com/asanso #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/asanso
+
+
+---
+
+## 2017-08-28 · Post · Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://hackerone.com/asanso TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @asanso — 2017-08-28 06:54 UTC (2017-08-28 07:54 WAT)
+
+- URL: https://x.com/asanso/status/902061854696099840
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://hackerone.com/asanso #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/asanso
+
+
+---
+
+## 2017-08-28 · Post · Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/asanso TogetherWeHitHarder
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @asanso — 2017-08-28 06:54 UTC (2017-08-28 07:54 WAT)
+
+- URL: https://x.com/asanso/status/902061785137729536
+- Metrics (at fetch): not returned
+
+> Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/asanso #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/asanso
+
+
+---
+
+## 2017-08-09 · Post · CVE-2017-7781/CVE-2017-10176:Issue with elliptic curve addition in mixed Jacobian-affine coordinates
+
+
+### Post — @asanso — 2017-08-09 12:02 UTC (2017-08-09 13:02 WAT)
+
+- URL: https://x.com/asanso/status/895253880572960768
+- Metrics (at fetch): not returned
+
+> CVE-2017-7781/CVE-2017-10176:Issue with elliptic curve addition in mixed Jacobian-affine coordinates in Firefox/Java http://blog.intothesymmetry.com/2017/08/cve-2017-7781cve-2017-10176-issue-with.html [pic.x.com/54Xh5y3mmo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DGyUjABWAAA2oQV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/DGyUjABXgAErL7A.jpg — no alt text provided by author
+
+**Links in post:** http://blog.intothesymmetry.com/2017/08/cve-2017-7781cve-2017-10176-issue-with.html
+
+
+---
+
+## 2017-08-08 · Post · Firefox55 my CVE-2017-7781: Elliptic curve point addition error when using mixed Jacobian-affine coo
+
+
+### Post — @asanso — 2017-08-08 19:29 UTC (2017-08-08 20:29 WAT)
+
+- URL: https://x.com/asanso/status/895004129642377216
+- Metrics (at fetch): not returned
+
+> Firefox55 my CVE-2017-7781: Elliptic curve point addition error when using mixed Jacobian-affine coordinates is out https://www.mozilla.org/en-US/security/advisories/mfsa2017-18/#CVE-2017-7781
+
+**Links in post:** https://www.mozilla.org/en-US/security/advisories/mfsa2017-18/#CVE-2017-7781

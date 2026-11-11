@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
-- Conversations/threads: 66
-- Oldest post captured: 2025-10-23
+- Posts in this file: 88
+- Conversations/threads: 76
+- Oldest post captured: 2025-08-26
 - Newest post captured: 2026-11-09
 
 
@@ -1264,3 +1264,207 @@ Tags (automatic): XSS
 - Metrics (at fetch): not returned
 
 > Currently updating the XSS cheat sheet.
+
+
+---
+
+## 2025-10-17 · Post · I thought when I used AI to help me code it would introduce loads of bugs but actually the only bug 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @garethheyes — 2025-10-17 09:13 UTC (2025-10-17 10:13 WAT)
+
+- URL: https://x.com/garethheyes/status/1979113622912573765
+- Metrics (at fetch): not returned
+
+> I thought when I used AI to help me code it would introduce loads of bugs but actually the only bug was from a human mistake. 
+>
+> https://github.com/hackvertor/hackvertor/commit/6227369ce8a13db2bfdb58f331a73294169fd524
+>
+> Doh!
+
+**Links in post:** https://github.com/hackvertor/hackvertor/commit/6227369ce8a13db2bfdb58f331a73294169fd524
+
+
+---
+
+## 2025-10-16 · Post · Got another epic XSS vector I found on my lunch and refined when I got home. Will tweet it soon
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-10-16 17:29 UTC (2025-10-16 18:29 WAT)
+
+- URL: https://x.com/garethheyes/status/1978875889283715360
+- Metrics (at fetch): not returned
+
+> Got another epic XSS vector I found on my lunch and refined when I got home. Will tweet it soon
+
+
+---
+
+## 2025-10-14 · Post · Want to learn how to craft payloads like these?
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-10-14 11:16 UTC (2025-10-14 12:16 WAT)
+
+- URL: https://x.com/garethheyes/status/1978057319230406840
+- Metrics (at fetch): not returned
+
+> Want to learn how to craft payloads like these?
+>
+> Read JavaScript for Hackers to master creative XSS techniques and understand exactly why they work.
+>
+> 🧠 Learn to think like a hacker
+> ⚡ Master the art of payload design
+> Grab your copy 👉 https://www.amazon.com/JavaScript-hackers-Learn-think-hacker/dp/B0BRD9B3GS/ [pic.x.com/p5IauxqGRn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3N3V_LXEAAfdHS.jpg — no alt text provided by author
+
+**Links in post:** https://www.amazon.com/JavaScript-hackers-Learn-think-hacker/dp/B0BRD9B3GS/
+
+
+---
+
+## 2025-10-13 · Post · Last chance to catch "Splitting the Email Atom: Exploiting Parsers to Bypass Access Controls" at @ND
+
+
+### Post — @garethheyes — 2025-10-13 09:00 UTC (2025-10-13 10:00 WAT)
+
+- URL: https://x.com/garethheyes/status/1977660605059526709
+- Metrics (at fetch): not returned
+
+> Last chance to catch "Splitting the Email Atom: Exploiting Parsers to Bypass Access Controls" at @NDC_Conferences Manchester. Join me and see just how wild the email RFCs really are.
+>
+> https://portswigger.net/research/talks?talkId=34 [pic.x.com/inVVyRQGgI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3IJtbCXQAAPLdJ.jpg — alt text: "Splitting the email atom
+Gareth Heyes
+Researcher, PortSwigger
+
+Thurs, Dec 4, 2025 | 9:00am"
+
+**Links in post:** https://portswigger.net/research/talks?talkId=34
+
+
+---
+
+## 2025-09-25 · Post · Hackvertor v2.1.24 has a major bug where it doesn't update the content-length. Sorry about that. I'v
+
+
+### Post — @garethheyes — 2025-09-25 07:56 UTC (2025-09-25 08:56 WAT)
+
+- URL: https://x.com/garethheyes/status/1971121568664441275
+- Metrics (at fetch): not returned
+
+> Hackvertor v2.1.24 has a major bug where it doesn't update the content-length. Sorry about that. I've fixed it in v2.1.25. I'll try and get it updated on the BApp store ASAP. Gutted I missed this, sorry I'll try to do better in future.
+
+
+---
+
+## 2025-09-01 · Post · WAFs still blocking your payloads? Try our newest pointer capture tricks. Our XSS cheat sheet just g
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-09-01 13:12 UTC (2025-09-01 14:12 WAT)
+
+- URL: https://x.com/garethheyes/status/1962503744710492354
+- Metrics (at fetch): not returned
+
+> WAFs still blocking your payloads? Try our newest pointer capture tricks. Our XSS cheat sheet just got an upgrade thanks to @hunter0x8.
+>
+> https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#ongotpointercapture [pic.x.com/PGPz5JMq4p]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gzw1_lkXEAE2gVD.jpg — alt text: "<input type=range ongotpointercapture=alert(1)>
+<input type=range onlostpointercapture=alert(1)>"
+
+**Links in post:** https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#ongotpointercapture
+
+
+---
+
+## 2025-08-28 · Post · So Mozilla is patching the no parentheses XSS vector. Damn you. So I've come up with another one:
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-08-28 14:49 UTC (2025-08-28 15:49 WAT)
+
+- URL: https://x.com/garethheyes/status/1961078705293246513
+- Metrics (at fetch): not returned
+
+> So Mozilla is patching the no parentheses XSS vector. Damn you. So I've come up with another one:
+>
+> https://github.com/PortSwigger/xss-cheatsheet-data/issues/103 [pic.x.com/vHR3T0XdHn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gzcmo7EW4AAPODf.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/PortSwigger/xss-cheatsheet-data/issues/103
+
+
+---
+
+## 2025-08-28 · Post · I'm so proud of the XSS cheat sheet. It's become a real community effort with quality submissions fr
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-08-28 13:27 UTC (2025-08-28 14:27 WAT)
+
+- URL: https://x.com/garethheyes/status/1961057952392974523
+- Metrics (at fetch): not returned
+
+> I'm so proud of the XSS cheat sheet. It's become a real community effort with quality submissions from many different people. Thank you all for submissions and helping secure the web.
+
+
+---
+
+## 2025-08-28 · Post · Imagine you have a XSS vulnerability but you have a undefined variable before your injection. Is all
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-08-28 13:17 UTC (2025-08-28 14:17 WAT)
+
+- URL: https://x.com/garethheyes/status/1961055422770467143
+- Metrics (at fetch): not returned
+
+> Imagine you have a XSS vulnerability but you have a undefined variable before your injection. Is all hope lost? Not at all you can use a technique called XSS Hoisting to declare the variable and continue your exploit. Big thanks to @ycam_asafety for the XSS cheat sheet submission [pic.x.com/aSHjU1rvD6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GzcQtJeXcAAdx_H.jpg — alt text: "<script>eval(myUndefVar);var inject="INJECTION_STARTS_HERE";var myUndefVar;alert(1);//";</script>"
+
+
+---
+
+## 2025-08-26 · Post · I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This m
+
+
+### Post — @garethheyes — 2025-08-26 12:54 UTC (2025-08-26 13:54 WAT)
+
+- URL: https://x.com/garethheyes/status/1960324970501853324
+- Metrics (at fetch): not returned
+
+> I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below:
+>
+> http://portswigger.net/research/inline-style-exfiltration [pic.x.com/CEZuoZyVSW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GzRwrQ9XIAAJmqn.jpg — alt text: "<div style='--val: attr(data-uid); --steal: if(style(--val:"1"): url(/1); else: if(style(--val:"2"): url(/2); else: if(style(--val:"3"): url(/3); else: if(style(--val:"4"): url(/4); else: url(/5))))); background: image-set(var(--steal));' data-userid="3">"
+
+**Links in post:** http://portswigger.net/research/inline-style-exfiltration

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 27
-- Conversations/threads: 27
-- Oldest post captured: 2018-07-13
+- Posts in this file: 30
+- Conversations/threads: 30
+- Oldest post captured: 2017-12-29
 - Newest post captured: 2022-11-29
 
 
@@ -599,3 +599,64 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 0
 
 > *slaps the roof of zk-SNARKs* This bad boy can fit so many constraints in it
+
+
+---
+
+## 2018-03-13 · Post · Little late in the day to be flying 😂 but looking forward to seeing everyone at the tor-dev hack day
+
+
+### Post — @str4d — 2018-03-13 20:45 UTC (2018-03-13 21:45 WAT)
+
+- URL: https://x.com/str4d/status/973661444477718529
+- Metrics (at fetch): not returned
+
+> Little late in the day to be flying 😂 but looking forward to seeing everyone at the tor-dev hack day on Thursday!
+>
+> LGW✈️FCO
+
+
+---
+
+## 2018-01-04 · Post · Yeahhhhhh... Most of the circuit is hash function calls 😂 https://x.com/socrates1024/status/94898448
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2018-01-04 19:22 UTC (2018-01-04 20:22 WAT)
+
+- URL: https://x.com/str4d/status/948997962230894592
+- Metrics (at fetch): not returned
+
+> Yeahhhhhh... Most of the circuit is hash function calls 😂 https://x.com/socrates1024/status/948984484644483074
+
+**Links in post:** https://x.com/socrates1024/status/948984484644483074
+
+**Quoted post (full text):**
+
+    #### Quoted post — @22847791 — 2018-01-04 18:28 UTC (2018-01-04 19:28 WAT)
+    
+    - URL: https://x.com/22847791/status/948984484644483074
+    - Metrics (at fetch): not returned
+    
+    > Experimenting with visualizing/translating SNARK circuits. Here's a treemap of the variables in Zcash Sprout  https://imgur.com/a/hJT8w
+    
+    **Links in post:** https://imgur.com/a/hJT8w
+    
+
+
+---
+
+## 2017-12-29 · Post · Just finished an hour and a half of Zcash Sapling circuit specification with @feministPLT. 34c3 cry
+
+
+Tags (automatic): ZK
+
+
+### Post — @str4d — 2017-12-29 01:50 UTC (2017-12-29 02:50 WAT)
+
+- URL: https://x.com/str4d/status/946559113785462785
+- Metrics (at fetch): not returned
+
+> Just finished an hour and a half of Zcash Sapling circuit specification with @feministPLT. #34c3 crypto tea house still going strong 😊

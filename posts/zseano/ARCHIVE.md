@@ -2,8 +2,8 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
-- Conversations/threads: 55
+- Posts in this file: 62
+- Conversations/threads: 56
 - Oldest post captured: 2021-03-04
 - Newest post captured: 2026-11-09
 
@@ -1047,6 +1047,24 @@ Tags (automatic): XSS
 > @fransrosen: pwned
 >
 > this guy is unstoppable...... fuck
+
+
+---
+
+## 2025-09-07 · Post · wow... great finds. good writeup, worth a read! :) and if you've ever been to burgerking drivethru, 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @zseano — 2025-09-07 08:13 UTC (2025-09-07 09:13 WAT)
+
+- URL: https://x.com/zseano/status/1964602800832454933
+- Metrics (at fetch): not returned
+
+> wow... great finds. good writeup, worth a read! :) and if you've ever been to burgerking drivethru,  AI is analyzing your convos ;D https://web.archive.org/web/20250906150322/https://bobdahacker.com/blog/rbi-hacked-drive-thrus/
+
+**Links in post:** https://web.archive.org/web/20250906150322/https://bobdahacker.com/blog/rbi-hacked-drive-thrus/
 
 
 ---

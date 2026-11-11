@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 432
-- Conversations/threads: 421
-- Oldest post captured: 2020-02-15
+- Posts in this file: 462
+- Conversations/threads: 446
+- Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-10
 
 
@@ -7472,6 +7472,477 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2022-11-18 · Post · Hacking an API with using @snyksec.. and getting an RCE! You can also read the rest of the Fetch the
+
+
+Tags (automatic): RCE
+
+
+### Post — @NahamSec — 2022-11-18 16:05 UTC (2022-11-18 17:05 WAT)
+
+- URL: https://x.com/NahamSec/status/1593636398531215362
+- Metrics (at fetch): not returned
+
+> Hacking an API with using @snyksec.. and getting an RCE! You can also read the rest of the Fetch the Flag solutions here: https://snyk.co/nahamsecctf
+>
+> 🎥👉🏼 https://youtu.be/QLFrgNgVG2o 👈🏻 
+>
+> Should I make CTF walkthroughs a regular or weekly series? Let me know!👇 [pic.x.com/vTgOSpZw2Z]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fh0tNwSUAAEVnLI.png — no alt text provided by author
+
+**Links in post:** https://snyk.co/nahamsecctf, https://youtu.be/QLFrgNgVG2o
+
+
+---
+
+## 2022-11-09 · Post · I’m officially a verified beg bounty hunter
+
+
+### Post — @NahamSec — 2022-11-09 22:14 UTC (2022-11-09 23:14 WAT)
+
+- URL: https://x.com/NahamSec/status/1590467890402463745
+- Metrics (at fetch): not returned
+
+> I’m officially a verified beg bounty hunter
+
+
+---
+
+## 2022-10-31 · Post · Check my interview with @PhillipWylie from Live Recon where we talked about his book "The Pentester 
+
+
+### Post — @NahamSec — 2022-10-31 10:43 UTC (2022-10-31 11:43 WAT)
+
+- URL: https://x.com/NahamSec/status/1587032382393163778
+- Metrics (at fetch): not returned
+
+> Check my interview with @PhillipWylie from Live Recon where we talked about his book "The Pentester BluePrint", switching from sysadmin to pentesting, and more! 
+>
+> Thank you to @Jhaddix and @Farah_Hawaa for hosting this episode with me!
+>
+> https://youtu.be/qUMBST-SZ0U
+
+**Links in post:** https://youtu.be/qUMBST-SZ0U
+
+
+---
+
+## 2022-10-18 · Post · When you hear “bug bounty hacker” who comes to mind?
+
+
+### Post — @NahamSec — 2022-10-18 18:00 UTC (2022-10-18 19:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1582431366242652161
+- Metrics (at fetch): not returned
+
+> When you hear “bug bounty hacker” who comes to mind?
+
+
+---
+
+## 2022-10-17 · Post · when a brand new bug bounty program launches https://twitter.com/malwrhunterteam/status/158121441226
+
+
+### Post — @NahamSec — 2022-10-17 09:14 UTC (2022-10-17 10:14 WAT)
+
+- URL: https://x.com/NahamSec/status/1581936739655962630
+- Metrics (at fetch): not returned
+
+> when a brand new bug bounty program launches https://twitter.com/malwrhunterteam/status/1581214412261982209
+
+**Links in post:** https://twitter.com/malwrhunterteam/status/1581214412261982209
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2847021941 — 2022-10-15 09:24 UTC (2022-10-15 10:24 WAT)
+    
+    - URL: https://x.com/2847021941/status/1581214412261982209
+    - Metrics (at fetch): not returned
+    
+    > 😂
+    > Caption this. [pic.x.com/R3nlHIaEpX]
+    
+    **Media:**
+    - media `7_1581214233420828673` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-10 · Post · 🚨🚨 I went to HackerSummerCamp for @bugcrowd's bug bash, Black Hat and defcon30 and recorded my exp
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2022-10-10 13:07 UTC (2022-10-10 14:07 WAT)
+
+- URL: https://x.com/NahamSec/status/1579458551541420034
+- Metrics (at fetch): not returned
+
+> 🚨🚨 I went to #HackerSummerCamp for @bugcrowd's bug bash, Black Hat and #defcon30 and recorded my experience! Big thank you to @defcon for allowing me to cover some of the villages like @RedTeamVillage_, @IoTvillage and @ReconVillage! 
+>
+> 🎥👉🏼 https://youtu.be/XyO-0APMu30 [pic.x.com/yWyQREyWn9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FetcyaVXwAECiN3.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/XyO-0APMu30
+
+
+---
+
+## 2022-10-03 · Post · Had a blast talking about bug bounty and hacking at @GOTOcon! If you’re in the area lmk! Would love 
+
+
+### Post — @NahamSec — 2022-10-03 14:03 UTC (2022-10-03 15:03 WAT)
+
+- URL: https://x.com/NahamSec/status/1576936030439366656
+- Metrics (at fetch): not returned
+
+> Had a blast talking about bug bounty and hacking at @GOTOcon! If you’re in the area lmk! Would love to meet up for some coffee! [pic.x.com/FUp6PGRcMR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeJm9LAXEAEsIFZ.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-03 · Post · I realized I have a few Live Recon interviews that I haven't published yet, including @Hacker0x01's 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2022-10-03 10:41 UTC (2022-10-03 11:41 WAT)
+
+- URL: https://x.com/NahamSec/status/1576885018735132674
+- Metrics (at fetch): not returned
+
+> I realized I have a few Live Recon interviews that I haven't published yet, including @Hacker0x01's recent live hacking MVP, @Rhynorater! 🎉 
+>
+> A big thank you to @Farah_Hawaa for cohosting this episode! Enjoy!
+>
+> https://youtu.be/hdp-WDZ9dgw
+
+**Links in post:** https://youtu.be/hdp-WDZ9dgw
+
+
+---
+
+## 2022-10-01 · Post · There's 3 months left.. It doesn't matter what your reasons were for the last 9 months. There's stil
+
+
+### Post — @NahamSec — 2022-10-01 08:44 UTC (2022-10-01 09:44 WAT)
+
+- URL: https://x.com/NahamSec/status/1576130798897582082
+- Metrics (at fetch): not returned
+
+> There's 3 months left.. It doesn't matter what your reasons were for the last 9 months. There's still time to cross off some of your 2022 goals. Kick off that one project. Start studying for that security certificate. Hack on that bug bounty program. IT IS NOT TOO LATE!
+
+
+---
+
+## 2022-09-29 · Post · My 60 something year old mother figured out a way to bypass the Iranian governments internet restric
+
+
+### Post — @NahamSec — 2022-09-29 16:25 UTC (2022-09-29 17:25 WAT)
+
+- URL: https://x.com/NahamSec/status/1575522057470693388
+- Metrics (at fetch): not returned
+
+> My 60 something year old mother figured out a way to bypass the Iranian governments internet restrictions. Getf*cked 😂😂😂
+
+
+---
+
+## 2022-09-27 · Post · I’ve been hacking for 10+ years and making content. 5 tips on how to post the best hacking threads 🧵
+
+
+### Post — @NahamSec — 2022-09-27 21:55 UTC (2022-09-27 22:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1574880535943385088
+- Metrics (at fetch): not returned
+
+> I’ve been hacking for 10+ years and making content. 5 tips on how to post the best hacking threads 🧵👇🏽
+
+
+---
+
+## 2022-09-23 · Thread · For the longest time I was making YouTube videos, I was making content I thought others wanted to se
+
+
+### Post — @NahamSec — 2022-09-23 03:22 UTC (2022-09-23 04:22 WAT)
+
+- URL: https://x.com/NahamSec/status/1573150817267646465
+- Metrics (at fetch): not returned
+
+> For the longest time I was making YouTube videos, I was making content I thought others wanted to see. Recently started making content I enjoy making and I've noticed they do way better as far as views/engagement. I think I may not always make hacking content either.
+
+
+### Thread part 2 — @NahamSec — 2022-09-23 03:24 UTC (2022-09-23 04:24 WAT)
+
+- URL: https://x.com/NahamSec/status/1573151181303848960
+- Metrics (at fetch): not returned
+
+> I wanna talk to people in tech with a focus in cyber security, but I don't think I enjoy making bug bounty, recon, web app videos or even stream interviews full time. I may start dabbling in other content that could be help with soft skills or personal development.
+
+
+---
+
+## 2022-09-19 · Post · This is how a hacker (nojob) was able to find a vulnerability in @port_finance and collect a bounty 
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @NahamSec — 2022-09-19 15:11 UTC (2022-09-19 16:11 WAT)
+
+- URL: https://x.com/NahamSec/status/1571879545686593537
+- Metrics (at fetch): not returned
+
+> This is how a hacker (nojob) was able to find a vulnerability in @port_finance and collect a bounty worth over $600,000 through @immunefi's bug bounty platform! 
+>
+> Thank you @HalbornSecurity for sharing their technical insight on this vulnerability! 
+>
+> http://youtu.be/7BTPf55CHiw
+
+**Links in post:** http://youtu.be/7BTPf55CHiw
+
+
+---
+
+## 2022-09-16 · Thread · Uber is going to have rough weekend 😐 [pic.x.com/k3uo3Xqxgm]
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2022-09-16 01:14 UTC (2022-09-16 02:14 WAT)
+
+- URL: https://x.com/NahamSec/status/1570581906160496640
+- Metrics (at fetch): not returned
+
+> Uber is going to have rough weekend 😐 [pic.x.com/k3uo3Xqxgm]
+
+**Media:**
+- media `3_1570581806797422593` (details not returned by the API)
+
+
+### Thread part 2 — @NahamSec — 2022-09-16 01:15 UTC (2022-09-16 02:15 WAT)
+
+- URL: https://x.com/NahamSec/status/1570582225959419904
+- Metrics (at fetch): not returned
+
+> Why post on HackerOne if you have "domain admin, aws admin" and not on their site directly?
+
+
+---
+
+## 2022-09-12 · Post · In this episode of the Smart Contract series with @HalbornSecurity, we took a look at auditing smart
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2022-09-12 15:34 UTC (2022-09-12 16:34 WAT)
+
+- URL: https://x.com/NahamSec/status/1569348609652424704
+- Metrics (at fetch): not returned
+
+> In this episode of the Smart Contract series with @HalbornSecurity, we took a look at auditing smart contracts, what that looks like, and example bug found in an audit! TL;DR: RTFM 🤷‍♂️
+>
+> 🎥👉🏼  https://youtu.be/o9DP-kZIJIw [pic.x.com/Z3US2PMQdF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcbipTbaAAAKT0r.png — no alt text provided by author
+
+**Links in post:** https://youtu.be/o9DP-kZIJIw
+
+
+---
+
+## 2022-09-07 · Thread · I’m curious to hear what are some challenges you face when trying to get into web application hackin
+
+
+### Post — @NahamSec — 2022-09-07 04:59 UTC (2022-09-07 05:59 WAT)
+
+- URL: https://x.com/NahamSec/status/1567376992273854465
+- Metrics (at fetch): not returned
+
+> I’m curious to hear what are some challenges you face when trying to get into web application hacking, bug bounty, or even ethical hacking in general? I know it can’t be lack of resources, but besides time commitment, what are some challenges you’re facing?
+
+
+### Thread part 2 — @NahamSec — 2022-09-07 05:00 UTC (2022-09-07 06:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1567377230246072320
+- Metrics (at fetch): not returned
+
+> For bug hunters: I wanna learn more about issues outside of submissions (dupe or n/a), mediation, picking a program or scope issues.
+
+
+---
+
+## 2022-09-01 · Post · 6 years ago today @smiegles and I started @bugbountyforum with ~50 members (mostly hackers and bug b
+
+
+### Post — @NahamSec — 2022-09-01 17:39 UTC (2022-09-01 18:39 WAT)
+
+- URL: https://x.com/NahamSec/status/1565393866944962560
+- Metrics (at fetch): not returned
+
+> 6 years ago today @smiegles and I started @bugbountyforum with ~50 members (mostly hackers and bug bounty platforms) in attempt to connect the bug bounty community. 🎉🎉 
+>
+> Today we have ~1,000  members including hackers, bug bounty platforms and bug bounty program managers! https://twitter.com/NahamSec/status/771432160188260352
+
+**Links in post:** https://twitter.com/NahamSec/status/771432160188260352
+
+**Quoted post (full text):**
+
+    #### Quoted post — @NahamSec — 2016-09-01 19:38 UTC (2016-09-01 20:38 WAT)
+    
+    - URL: https://x.com/NahamSec/status/771432160188260352
+    - Metrics (at fetch): not returned
+    
+    > RIP Skype channel! http://www.bugbountyforum.com is open for registration (waitlist for now). Signup now! [pic.x.com/1XtKgKNArY]
+    
+    **Media:**
+    - media `3_771432035063779328` (details not returned by the API)
+    
+    **Links in post:** http://www.bugbountyforum.com
+    
+
+
+---
+
+## 2022-08-29 · Post · Bug bounty community getting a little spicy today. 🌶🍿
+
+
+### Post — @NahamSec — 2022-08-29 20:00 UTC (2022-08-29 21:00 WAT)
+
+- URL: https://x.com/NahamSec/status/1564342213575790594
+- Metrics (at fetch): not returned
+
+> Bug bounty community getting a little spicy today. 🌶🍿
+
+
+---
+
+## 2022-08-29 · Post · Live Recon x Smart Contract hackers/auditors? Who should I interview? 🤔
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2022-08-29 03:51 UTC (2022-08-29 04:51 WAT)
+
+- URL: https://x.com/NahamSec/status/1564098480674463744
+- Metrics (at fetch): not returned
+
+> Live Recon x Smart Contract hackers/auditors? Who should I interview? 🤔
+
+
+---
+
+## 2022-08-25 · Thread · @jackson0x01 @InsiderPhD @intigriti @stokfredrik @hackerone @Bugcrowd It's a number of things: 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @NahamSec — 2022-08-25 19:32 UTC (2022-08-25 20:32 WAT)
+
+- URL: https://x.com/NahamSec/status/1562885722528329728
+- Metrics (at fetch): not returned
+
+> @jackson0x01 @InsiderPhD @intigriti @stokfredrik @hackerone @Bugcrowd It's a number of things: 
+> - The customer may ask for a particular hacker. 
+> - It could be based on the region 
+> - It could be because they have worked with similar organizations/industries 
+> - Someone invited them as a +1
+
+
+### Thread part 2 — @NahamSec — 2022-08-25 19:34 UTC (2022-08-25 20:34 WAT)
+
+- URL: https://x.com/NahamSec/status/1562886030268645376
+- Metrics (at fetch): not returned
+
+> @jackson0x01 @InsiderPhD @intigriti @stokfredrik @hackerone @Bugcrowd It's not always about skills/quantity/leaderboards, it's also their quality of past or present work, personal brands, or connections. The companies  these event spend a lot of money, as much as I'd push for the invites to be fair, it's their event and they get to pick and chose.
+
+
+---
+
+## 2022-08-24 · Post · I have 3 mini series on YouTube as we speak: ASM, Bug Bounty, and Smart Contracts (launching next we
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @NahamSec — 2022-08-24 18:30 UTC (2022-08-24 19:30 WAT)
+
+- URL: https://x.com/NahamSec/status/1562507773421580288
+- Metrics (at fetch): not returned
+
+> I have 3 mini series on YouTube as we speak: ASM, Bug Bounty, and Smart Contracts (launching next week) but I REALLY wanna make something on mental health. If I put myself out there and talk about some of my mental health struggles in the last 3 years, would you support/watch it?
+
+
+---
+
+## 2022-08-23 · Post · I've been enjoying using @shodanhq for a lot of my different bug bounty work. So I figured it would 
+
+
+### Post — @NahamSec — 2022-08-23 14:01 UTC (2022-08-23 15:01 WAT)
+
+- URL: https://x.com/NahamSec/status/1562077448895750145
+- Metrics (at fetch): not returned
+
+> I've been enjoying using @shodanhq for a lot of my different bug bounty work. So I figured it would be fair to dedicate a video to it in my ASM series. 
+>
+> You can also win some free Shodan subscriptions. Watch the video for more info. 👇
+>
+> https://youtu.be/D_wuxfwjZB0
+
+**Links in post:** https://youtu.be/D_wuxfwjZB0
+
+
+---
+
+## 2022-08-19 · Post · The unhealthy habit of refreshing your email every few minutes to see if a bounty has been paid 😂😂IF
+
+
+### Post — @NahamSec — 2022-08-19 20:02 UTC (2022-08-19 21:02 WAT)
+
+- URL: https://x.com/NahamSec/status/1560718918833975296
+- Metrics (at fetch): not returned
+
+> The unhealthy habit of refreshing your email every few minutes to see if a bounty has been paid 😂😂IFYKYK
+
+
+---
+
+## 2022-08-18 · Thread · Just riding that "high" and motivation to look for more bugs has helped me find a few more high seve
+
+
+### Post — @NahamSec — 2022-08-18 19:54 UTC (2022-08-18 20:54 WAT)
+
+- URL: https://x.com/NahamSec/status/1560354354451734530
+- Metrics (at fetch): not returned
+
+> Just riding that "high" and motivation to look for more bugs has helped me find a few more high severity vulnerabilities. So if you are doing bug bounties and you hit a good month, don't be afraid to take a few days off and go back at it full time &amp;continue to build that momentum
+
+
+### Thread part 2 — @NahamSec — 2022-08-18 19:55 UTC (2022-08-18 20:55 WAT)
+
+- URL: https://x.com/NahamSec/status/1560354748888363009
+- Metrics (at fetch): not returned
+
+> Just because this works for me, it doesn't mean that it'll also work for you. Just sharing what's helped me get out of a shitty rut of no decent bounty months for the last year or so.
+
+
+---
+
 ## 2020-08-01 · Post · Check out @Rhynorater's blog post on CVE-2020-13379: Unauthenticated SSRF in Grafana!  
 
 
@@ -7513,3 +7984,21 @@ Tags (automatic): SSRF
 
 **Media:**
 - media `3_1228748363937353729` (details not returned by the API)
+
+
+---
+
+## 2016-09-01 · Post · RIP Skype channel! http://www.bugbountyforum.com is open for registration (waitlist for now). Signup
+
+
+### Post — @NahamSec — 2016-09-01 19:38 UTC (2016-09-01 20:38 WAT)
+
+- URL: https://x.com/NahamSec/status/771432160188260352
+- Metrics (at fetch): not returned
+
+> RIP Skype channel! http://www.bugbountyforum.com is open for registration (waitlist for now). Signup now! [pic.x.com/1XtKgKNArY]
+
+**Media:**
+- media `3_771432035063779328` (details not returned by the API)
+
+**Links in post:** http://www.bugbountyforum.com

@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 91
-- Conversations/threads: 91
-- Oldest post captured: 2022-08-01
+- Posts in this file: 95
+- Conversations/threads: 95
+- Oldest post captured: 2022-01-27
 - Newest post captured: 2026-10-20
 
 
@@ -2106,3 +2106,71 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-02 · Post · In one of our recent engagements with a customer, we were asked to audit some code which depended on
+
+
+### Post — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
+
+- URL: https://x.com/zellic_io/status/1510341868021854209
+- Metrics (at fetch): bookmark 166, impression 0, like 589, quote 15, reply 16, retweet 88
+
+> In one of our recent engagements with a customer, we were asked to audit some code which depended on BokkyPooBah's DateTime library. The contract calculates the day of the month from block.timestamp, and it does this to ensure an operation happens only up to once a month. https://t.co/B7yEjrM8jy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPXHltYXEAEF3t-.png — no alt text provided by author
+
+
+---
+
+## 2022-03-24 · Post · when the customer asks you to audit 100 lines of code (with 100% code coverage) https://t.co/o0djCFI
+
+
+### Post — @zellic_io — 2022-03-24 18:50 UTC (2022-03-24 19:50 WAT)
+
+- URL: https://x.com/zellic_io/status/1507067449140727819
+- Metrics (at fetch): bookmark 1, impression 0, like 15, quote 0, reply 0, retweet 1
+
+> when the customer asks you to audit 100 lines of code (with 100% code coverage) https://t.co/o0djCFI4Sv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FOotz_eX0AcilBl.png — no alt text provided by author
+
+
+---
+
+## 2022-03-18 · Post · Our first batch of audit reports is live! Proud to share our assessment results for @driftprotocol, 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @zellic_io — 2022-03-18 17:41 UTC (2022-03-18 18:41 WAT)
+
+- URL: https://x.com/zellic_io/status/1504875697554313217
+- Metrics (at fetch): bookmark 8, impression 0, like 72, quote 1, reply 4, retweet 15
+
+> Our first batch of audit reports is live! Proud to share our assessment results for @driftprotocol, @LayerZero_Labs' @StargateFinance, and @1inch! We're ready to take on your Solana and Ethereum needs. Let's secure DeFi together🎉
+> https://t.co/aaTIxmPWFV
+
+
+---
+
+## 2022-01-27 · Post · DeFi hack bingo :^) https://t.co/2WsqjuqZc2
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @zellic_io — 2022-01-27 20:25 UTC (2022-01-27 21:25 WAT)
+
+- URL: https://x.com/zellic_io/status/1486797606567223301
+- Metrics (at fetch): bookmark 16, impression 0, like 111, quote 1, reply 4, retweet 28
+
+> DeFi hack bingo :^) https://t.co/2WsqjuqZc2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FKIqJi1WQA0fPd5.png — no alt text provided by author

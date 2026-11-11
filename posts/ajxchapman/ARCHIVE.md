@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 83
-- Conversations/threads: 70
-- Oldest post captured: 2023-06-02
+- Posts in this file: 88
+- Conversations/threads: 75
+- Oldest post captured: 2023-02-11
 - Newest post captured: 2024-11-27
 
 
@@ -1856,3 +1856,141 @@ Tags (automatic): Platform: HackerOne
     **Media:**
     - media `3_1664573189933105152` (details not returned by the API)
     
+
+
+---
+
+## 2023-04-04 · Post · I _do_ like the look of that SSRF blanket in the @intigriti swag store👀 ... I might have to try and 
+
+
+Tags (automatic): SSRF
+
+
+### Post — @ajxchapman — 2023-04-04 13:58 UTC (2023-04-04 14:58 WAT)
+
+- URL: https://x.com/ajxchapman/status/1643251622854684680
+- Metrics (at fetch): not returned
+
+> I _do_ like the look of that SSRF blanket in the @intigriti swag store👀 ... I might have to try and find the time to look at this one.
+>
+> (I also love that they actually have a swag store, something the other platforms could learn from!) https://twitter.com/intigriti/status/1643187667914440710
+
+**Links in post:** https://twitter.com/intigriti/status/1643187667914440710
+
+**Quoted post (full text):**
+
+    #### Quoted post — @736615159653924864 — 2023-04-04 09:44 UTC (2023-04-04 10:44 WAT)
+    
+    - URL: https://x.com/736615159653924864/status/1643187667914440710
+    - Metrics (at fetch): not returned
+    
+    > ⏰ It's CHALLENGE O'CLOCK!
+    > 👉 Find the FLAG before Tuesday April the 11th!
+    > 👉 Win €300 in SWAG prizes!
+    > 👉 We'll release a tip for every 100 likes on this tweet!
+    > Thanks @0xGodson_ and @BrunoModificato for the challenge! 👇
+    >
+    > https://challenge-0323.intigriti.io/
+    
+    **Links in post:** https://challenge-0323.intigriti.io/
+    
+
+
+---
+
+## 2023-03-21 · Post · This whole thread is the reason I'm a huge advocate for Bug Bounty + VDP. If you run a BugBounty pr
+
+
+### Post — @ajxchapman — 2023-03-21 17:10 UTC (2023-03-21 18:10 WAT)
+
+- URL: https://x.com/ajxchapman/status/1638226478167891987
+- Metrics (at fetch): not returned
+
+> This whole thread is the reason I'm a huge advocate for Bug Bounty + VDP. If you run a #BugBounty program you should also run a public, no strings attached, no scope restriction, VDP to catch all the issues from people who don't want to / can't report whilst agreeing to ToS. https://twitter.com/samwcyo/status/1638143070259617792
+
+**Links in post:** https://twitter.com/samwcyo/status/1638143070259617792
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samwcyo — 2023-03-21 11:38 UTC (2023-03-21 12:38 WAT)
+    
+    - URL: https://x.com/samwcyo/status/1638143070259617792
+    - Metrics (at fetch): not returned
+    
+    > @IAmMandatory Sometimes security@ will auto submit to a bounty platform and then, even after commenting explaining everything and how I do not agree to the terms, the program and platform act as if I’ve explicitly agreed to the TOS. They won’t close my report and let me submit via other means.
+    
+
+
+---
+
+## 2023-03-20 · Post · Remember kids, when you report a bug via a Bug Bounty program you are entering into a contract betwe
+
+
+### Post — @ajxchapman — 2023-03-20 20:58 UTC (2023-03-20 21:58 WAT)
+
+- URL: https://x.com/ajxchapman/status/1637921462605545473
+- Metrics (at fetch): not returned
+
+> Remember kids, when you report a bug via a Bug Bounty program you are entering into a contract between yourself, the platform and the program. All the details are in that Terms of Service you didn't read 🤦‍♂️ https://twitter.com/TalBeerySec/status/1637872940568944653
+
+**Links in post:** https://twitter.com/TalBeerySec/status/1637872940568944653
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2470499646 — 2023-03-20 17:45 UTC (2023-03-20 18:45 WAT)
+    
+    - URL: https://x.com/2470499646/status/1637872940568944653
+    - Metrics (at fetch): not returned
+    
+    > Yikes!
+    > Tomorrow @ZenGo will publish about a vulnerability we had found in @CoinbaseWallet and others.
+    > We had responsibly disclosed to CB many weeks ago, they fixed and awarded us multiple bug bounties.
+    > Today we informed them we are going to publish.
+    > This is the reaction we got: [pic.x.com/umJaaKtr3T]
+    
+    **Media:**
+    - media `3_1637870663598764032` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-09 · Post · I'm not a huge podcast person but I've been really enjoying @ctbbpodcast... and not just due to the 
+
+
+### Post — @ajxchapman — 2023-03-09 19:25 UTC (2023-03-09 20:25 WAT)
+
+- URL: https://x.com/ajxchapman/status/1633911922440413184
+- Metrics (at fetch): not returned
+
+> I'm not a huge podcast person but I've been really enjoying @ctbbpodcast... and not just due to the shout out on the last episode ☺️ If you are in the Bug Bounty game and haven't already given it a listen, you are definitely missing out!
+>
+> #bugbountytips https://twitter.com/Rhynorater/status/1633890517195866116
+
+**Links in post:** https://twitter.com/Rhynorater/status/1633890517195866116
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Rhynorater — 2023-03-09 18:00 UTC (2023-03-09 19:00 WAT)
+    
+    - URL: https://x.com/Rhynorater/status/1633890517195866116
+    - Metrics (at fetch): not returned
+    
+    > Not everyone listens to podcasts. Joel and I want @ctbbpodcast to be the reason people start listening to podcasts. What would it take to get you non-listeners to give it a shot?
+    
+
+
+---
+
+## 2023-02-11 · Post · BugBounty achievement unlocked, duped a malicious hacker actively exploiting a Remote Code Executio
+
+
+Tags (automatic): RCE
+
+
+### Post — @ajxchapman — 2023-02-11 18:51 UTC (2023-02-11 19:51 WAT)
+
+- URL: https://x.com/ajxchapman/status/1624481301733441540
+- Metrics (at fetch): not returned
+
+> #BugBounty achievement unlocked, duped a malicious hacker actively exploiting a Remote Code Execution bug 😬

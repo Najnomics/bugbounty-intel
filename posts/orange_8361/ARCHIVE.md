@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 110
-- Conversations/threads: 110
-- Oldest post captured: 2018-03-09
+- Posts in this file: 120
+- Conversations/threads: 120
+- Oldest post captured: 2016-04-21
 - Newest post captured: 2026-10-29
 
 
@@ -2089,3 +2089,228 @@ Tags (automatic): SSRF, RCE, Memory corruption / native
 - Metrics (at fetch): bookmark 10, impression 0, like 484, quote 4, reply 10, retweet 187
 
 > I am doing a research for #BHUSA CFP. In order to convince my research works, I just finished a beautiful exploit chain that chained 5 bugs to RCE on a big vendor. I can promise this is more awesome than the chain in my GitHub SSRF to RCE case(https://t.co/kGSN0qoBLd) Hint: Java
+
+
+---
+
+## 2018-03-07 · Post · Oh my god. BHUSA block my Call for Paper submission because there is a `/etc/passwd` in my presenta
+
+
+### Post — @orange_8361 — 2018-03-07 08:07 UTC (2018-03-07 09:07 WAT)
+
+- URL: https://x.com/orange_8361/status/971296287017619456
+- Metrics (at fetch): not returned
+
+> Oh my god. #BHUSA block my Call for Paper submission because there is a `/etc/passwd` in my presentation outlines... Or this is the first challenge: Bypass the WAF? [pic.x.com/hxEoX5NK90]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DXq8WLCWsAE4Wwp.jpg — no alt text provided by author
+
+
+---
+
+## 2018-03-06 · Post · Woot, RCE again! This seems more easy to exploit than previous one. https://x.com/mehqq_/status/9710
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2018-03-06 16:33 UTC (2018-03-06 17:33 WAT)
+
+- URL: https://x.com/orange_8361/status/971061196504817665
+- Metrics (at fetch): not returned
+
+> Woot, RCE again! This seems more easy to exploit than previous one. https://x.com/mehqq_/status/971049724705882114
+
+**Links in post:** https://x.com/mehqq_/status/971049724705882114
+
+**Quoted post (full text):**
+
+    #### Quoted post — @785690779809222660 — 2018-03-06 15:47 UTC (2018-03-06 16:47 WAT)
+    
+    - URL: https://x.com/785690779809222660/status/971049724705882114
+    - Metrics (at fetch): not returned
+    
+    > Found another off-by-one remote code execution vulnerability (CVE-2018-6789) in Exim mail server! It was challenging but interesting and we finally achieve RCE and bypass mitigations (ASLR, NX …) successfully. Details here:
+    > https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/
+    
+    **Links in post:** https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/
+    
+
+
+---
+
+## 2018-01-24 · Post · Cool, thanks for the acknowledgement (and bounty, I am very surprised for that!)  :P https://x.com/z
+
+
+### Post — @orange_8361 — 2018-01-24 21:11 UTC (2018-01-24 22:11 WAT)
+
+- URL: https://x.com/orange_8361/status/956273176886919169
+- Metrics (at fetch): not returned
+
+> Cool, thanks for the acknowledgement (and bounty, I am very surprised for that!)  :P https://x.com/zeithq/status/956263333954547714
+
+**Links in post:** https://x.com/zeithq/status/956263333954547714
+
+
+---
+
+## 2017-12-11 · Post · "Road to Exim RCE - Abusing Unsafe Memory Allocator in the Most Popular MTA"
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2017-12-11 15:28 UTC (2017-12-11 16:28 WAT)
+
+- URL: https://x.com/orange_8361/status/940241796206026752
+- Metrics (at fetch): not returned
+
+> "Road to Exim RCE - Abusing Unsafe Memory Allocator in the Most Popular MTA"
+> Finally, released technical details of the most critical server side bug in last month, by @mehqq_ 
+> #Exim #RCE https://x.com/mehqq_/status/940239020017123334
+
+**Links in post:** https://x.com/mehqq_/status/940239020017123334
+
+**Quoted post (full text):**
+
+    #### Quoted post — @785690779809222660 — 2017-12-11 15:17 UTC (2017-12-11 16:17 WAT)
+    
+    - URL: https://x.com/785690779809222660/status/940239020017123334
+    - Metrics (at fetch): not returned
+    
+    > We found RCE and DoS vulnerabilities (CVE-2017-16943, CVE-2017-16944) in the most popular mail server Exim last month. The advisory and technical details are now released!
+    >
+    > https://devco.re/blog/2017/12/11/Exim-RCE-advisory-CVE-2017-16943-en/
+    
+    **Links in post:** https://devco.re/blog/2017/12/11/Exim-RCE-advisory-CVE-2017-16943-en/
+    
+
+
+---
+
+## 2017-12-08 · Post · HITCON Capture the Food is running now. There are 14 teams on-sited from all over the world!
+
+
+### Post — @orange_8361 — 2017-12-08 17:03 UTC (2017-12-08 18:03 WAT)
+
+- URL: https://x.com/orange_8361/status/939178617380077568
+- Metrics (at fetch): not returned
+
+> HITCON Capture the Food is running now. There are 14 teams on-sited from all over the world!
+>
+> P.s. This is an attack-defence style CTF. You can only get food when you pwned other teams' service 😋 [pic.x.com/xBBTHWHg15]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DQih89UVoAEwsEZ.jpg — no alt text provided by author
+
+
+---
+
+## 2017-08-14 · Post · Cool stuff. SQL Injection to RCE? :P https://x.com/nodesecurity/status/897118763723575300
+
+
+Tags (automatic): SQL injection, RCE
+
+
+### Post — @orange_8361 — 2017-08-14 16:00 UTC (2017-08-14 17:00 WAT)
+
+- URL: https://x.com/orange_8361/status/897125874704588800
+- Metrics (at fetch): not returned
+
+> Cool stuff. SQL Injection to RCE? :P https://x.com/nodesecurity/status/897118763723575300
+
+**Links in post:** https://x.com/nodesecurity/status/897118763723575300
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1164839209 — 2017-08-14 15:32 UTC (2017-08-14 16:32 WAT)
+    
+    - URL: https://x.com/1164839209/status/897118763723575300
+    - Metrics (at fetch): not returned
+    
+    > Using pg? Time to upgrade. A code execution vuln was found (attacker must control the returned column name) https://node-postgres.com/announcements#2017-08-12-code-execution-vulnerability
+    
+    **Links in post:** https://node-postgres.com/announcements#2017-08-12-code-execution-vulnerability
+    
+
+
+---
+
+## 2017-08-09 · Post · Happy to see another one successfully exploits the CR-LF Injection on Host in SSRF and reach RCE in 
+
+
+Tags (automatic): SSRF, RCE
+
+
+### Post — @orange_8361 — 2017-08-09 07:14 UTC (2017-08-09 08:14 WAT)
+
+- URL: https://x.com/orange_8361/status/895181533207777281
+- Metrics (at fetch): not returned
+
+> Happy to see another one successfully exploits the CR-LF Injection on Host in SSRF and reach RCE in real world! &gt;&lt;
+> https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+
+**Links in post:** https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+
+
+---
+
+## 2017-07-28 · Post · My Black Hat Case Study
+
+
+Tags (automatic): SSRF, RCE
+
+
+### Post — @orange_8361 — 2017-07-28 20:10 UTC (2017-07-28 21:10 WAT)
+
+- URL: https://x.com/orange_8361/status/891028095120982016
+- Metrics (at fetch): not returned
+
+> My Black Hat Case Study
+> How I Chained 4 Vulns on GitHub Enterprise, From SSRF Execution Chain to RCE! http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html
+> #BHUSA #DEFCON
+
+**Links in post:** http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html
+
+
+---
+
+## 2016-07-23 · Post · My talk at HITCON. How to find RCE on Facebook, Apple, Uber, Yahoo :P
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2016-07-23 02:52 UTC (2016-07-23 03:52 WAT)
+
+- URL: https://x.com/orange_8361/status/756683391995523072
+- Metrics (at fetch): not returned
+
+> My talk at HITCON. How to find RCE on Facebook, Apple, Uber, Yahoo :P
+> http://blog.orange.tw/2016/07/hitcon-2016-slides-bug-bounty-hunter.html
+> #BugBounty
+
+**Links in post:** http://blog.orange.tw/2016/07/hitcon-2016-slides-bug-bounty-hunter.html
+
+
+---
+
+## 2016-04-21 · Post · 千呼萬喚始出來XD
+
+
+Tags (automatic): RCE
+
+
+### Post — @orange_8361 — 2016-04-21 07:32 UTC (2016-04-21 08:32 WAT)
+
+- URL: https://x.com/orange_8361/status/723051664635138048
+- Metrics (at fetch): not returned
+
+> 千呼萬喚始出來XD
+> How I Hacked Facebook, and Found Someone's Backdoor Script
+>
+> 再找個 Google 的 RCE 就可以把各大公司的 RCE 系列給蒐集全了XD
+> http://blog.orange.tw/2016/04/bug-bounty-how-i-hacked-facebook-and-found-someones-backdoor-script.html
+
+**Links in post:** http://blog.orange.tw/2016/04/bug-bounty-how-i-hacked-facebook-and-found-someones-backdoor-script.html

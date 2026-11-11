@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 70
-- Conversations/threads: 51
-- Oldest post captured: 2025-01-19
+- Posts in this file: 73
+- Conversations/threads: 54
+- Oldest post captured: 2024-08-13
 - Newest post captured: 2026-11-03
 
 
@@ -1237,3 +1237,63 @@ Tags (automatic): Platform: HackerOne
 >  I  have some broad scope programs, If anybody up for collaboration. Let me know.
 >
 >  #togetherwehitharder #hackerone #BugBounty
+
+
+---
+
+## 2024-10-28 · Post · Yay, I was awarded a $1,500 bounty on
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2024-10-28 13:58 UTC (2024-10-28 14:58 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1850900001171374139
+- Metrics (at fetch): bookmark 14, impression 5590, like 139, quote 0, reply 8, retweet 2
+
+> Yay, I was awarded a $1,500 bounty on
+> @Hacker0x01! https://t.co/VEoNFDOTYU #TogetherWeHitHarder https://t.co/q7v3z1wVbK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ga-3vhvWoAA52M1.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-14 · Post · Sometime tips, sometime memes🌚
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2024-10-14 16:12 UTC (2024-10-14 17:12 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1845860178291560590
+- Metrics (at fetch): bookmark 2, impression 2001, like 19, quote 0, reply 2, retweet 0
+
+> Sometime tips, sometime memes🌚
+>
+> @ThisIsDK999 @ADITYASHENDE17  
+>
+> #bugbountymemes #Memes #hacking #hackerone #BugBounty https://t.co/CJY9YEuBYX
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2024-08-13 · Post · "Unveiled a critical admin panel vulnerability, securing a $3,500 bounty! 🛡️ Explore the full breakd
+
+
+### Post — @Assass1nmarcos — 2024-08-13 17:54 UTC (2024-08-13 18:54 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/1823417863451107618
+- Metrics (at fetch): bookmark 187, impression 34382, like 296, quote 4, reply 11, retweet 46
+
+> "Unveiled a critical admin panel vulnerability, securing a $3,500 bounty! 🛡️ Explore the full breakdown in my latest blog : 
+> https://t.co/7ToAknxKBr
+>
+> CC: @_rajesh_ranjan_
+>  #CyberSecurity #BugBounty #EthicalHacking #WebSecurity #Infosec #VulnerabilityResearch

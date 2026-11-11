@@ -2,9 +2,9 @@
 
 _Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 98
-- Conversations/threads: 87
-- Oldest post captured: 2024-12-06
+- Posts in this file: 105
+- Conversations/threads: 94
+- Oldest post captured: 2024-08-22
 - Newest post captured: 2026-11-10
 
 
@@ -1628,7 +1628,9 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 - URL: https://x.com/galnagli/status/1956648814833463523
 - Metrics (at fetch): bookmark 68, impression 63535, like 256, quote 4, reply 17, retweet 7
 
-> If I used my automation on all HackerOne programs, my score would have been double that of the AI Hackbots… https://t.co/2OBqwtDVao
+> If I used my automation on all HackerOne programs, my score would have been double that of the AI Hackbots… https://twitter.com/oegerikus/status/1956418555039117524
+
+**Links in post:** https://twitter.com/oegerikus/status/1956418555039117524
 
 **Quoted post (full text):**
 
@@ -1996,3 +1998,156 @@ Tags (automatic): Account takeover
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GeI0Q-eWQAMDCzU.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-24 · Post · Bug Bounty is fun - I buy @Apple's Vision Pro and iPhone 16 - they award me $5,000 for a vulnerabili
+
+
+### Post — @galnagli — 2024-10-24 06:11 UTC (2024-10-24 07:11 WAT)
+
+- URL: https://x.com/galnagli/status/1849332770528719031
+- Metrics (at fetch): bookmark 17, impression 16345, like 206, quote 1, reply 5, retweet 3
+
+> Bug Bounty is fun - I buy @Apple's Vision Pro and iPhone 16 - they award me $5,000 for a vulnerability report, now we're even for 2024! 🤝 https://t.co/xBGyhcyCbW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GaojXUabQAEjOW8.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GaomSgoboAAwE0r.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GaomSgragAAJwtk.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-24 · Post · Bug Bounty automation still feels surreal to me even after doing it for almost 4 years
+
+
+### Post — @galnagli — 2024-10-24 01:49 UTC (2024-10-24 02:49 WAT)
+
+- URL: https://x.com/galnagli/status/1849266960653296081
+- Metrics (at fetch): bookmark 112, impression 43061, like 350, quote 2, reply 14, retweet 16
+
+> Bug Bounty automation still feels surreal to me even after doing it for almost 4 years
+>
+> 17:29PM Alert -&gt; 17:50PM Report - &gt; 18:40PM Triage - &gt; 21:30PM Fixed - &gt; 03:59AM $5,000 Bounty https://t.co/dDJvjVk7MX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GanpgF8aQAAyIPr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GanpjfLbEAAg6qi.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Ganpzeda0AAWsyQ.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-20 · Post · Great time in Singapore 🇸🇬 presenting some Bug Bounty war stories and catching up with the OG @space
+
+
+### Post — @galnagli — 2024-10-20 04:40 UTC (2024-10-20 05:40 WAT)
+
+- URL: https://x.com/galnagli/status/1847860331403710817
+- Metrics (at fetch): bookmark 5, impression 10670, like 117, quote 0, reply 2, retweet 0
+
+> Great time in Singapore 🇸🇬 presenting some Bug Bounty war stories and catching up with the OG @spaceraccoonsec 🤝 https://t.co/qb7NlPhRpW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GaTrJ0gaQAA6Dk5.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GaTrJ0gbwAAPeoG.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-11 · Post · Yay, I was awarded a $20,000 bounty on @Hacker0x01! 
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @galnagli — 2024-09-11 16:29 UTC (2024-09-11 17:29 WAT)
+
+- URL: https://x.com/galnagli/status/1833905656191144349
+- Metrics (at fetch): bookmark 49, impression 27589, like 451, quote 0, reply 20, retweet 12
+
+> Yay, I was awarded a $20,000 bounty on @Hacker0x01! 
+>
+> Honestly, It's been a while since I had a good experience with #BugBounty program and twitter is usually full of rants.
+>
+> I want to thank @Zoom BBP Team for their co-operation on the report 💎 https://t.co/rDdDfdLOC3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXNWHgGWoAIRTIs.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-06 · Post · What a shame by @detectify when they force out the equity of one of their co-founders who pretty muc
+
+
+### Post — @galnagli — 2024-09-06 15:52 UTC (2024-09-06 16:52 WAT)
+
+- URL: https://x.com/galnagli/status/1832084549985280271
+- Metrics (at fetch): bookmark 4, impression 8501, like 64, quote 0, reply 1, retweet 1
+
+> What a shame by @detectify when they force out the equity of one of their co-founders who pretty much invented the concept of recon 10 years ago.
+>
+> I don’t worry for Frans as he still destroy any high-paying Bug Bounty program and one of the best ever to collab with 🤝 https://t.co/0a5bAKB8KB
+
+**Quoted post (full text):**
+
+    #### Quoted post — @fransrosen — 2024-09-06 15:09 UTC (2024-09-06 16:09 WAT)
+    
+    - URL: https://x.com/fransrosen/status/1832073628709437623
+    - Metrics (at fetch): bookmark 14, impression 40898, like 201, quote 2, reply 33, retweet 2
+    
+    > FYI: Just informed that my minority equity in Detectify was given up due to decisions by the current management. I have no affiliation with them anymore, I wish them best of luck. ✌️
+    
+
+
+---
+
+## 2024-09-05 · Post · Had the opportunity to share a bit about myself and my Bug Bounty journey during an interview at @Lo
+
+
+### Post — @galnagli — 2024-09-05 09:49 UTC (2024-09-05 10:49 WAT)
+
+- URL: https://x.com/galnagli/status/1831630670076031307
+- Metrics (at fetch): bookmark 13, impression 7356, like 59, quote 0, reply 1, retweet 2
+
+> Had the opportunity to share a bit about myself and my Bug Bounty journey during an interview at @LouisVuitton  Vuitton's Live Hacking Event, hosted at their main HQ in Paris - big shout-out to @yeswehack for hosting a great experience 💎 https://t.co/zLCiBtpJia
+
+**Quoted post (full text):**
+
+    #### Quoted post — @yeswehack — 2024-09-05 08:48 UTC (2024-09-05 09:48 WAT)
+    
+    - URL: https://x.com/yeswehack/status/1831615485059715419
+    - Metrics (at fetch): bookmark 14, impression 13670, like 38, quote 2, reply 3, retweet 5
+    
+    > Are ethical hackers modern-day superheroes? 🦸‍♂️🦸‍♀️
+    >
+    > They certainly possess extraordinary skills! And few more so than the subject of our latest interview, @galnagli, who says hacking feels like using superpowers.
+    >
+    > Don't miss out on these insights 👇
+    >
+    > #YesWeRHackers #EthicalHacking https://t.co/rDtZayaT9b
+    
+    **Media:**
+    - media `7_1831610605872037889` (details not returned by the API)
+    
+
+
+---
+
+## 2024-08-22 · Post · Excited to share some big personal news today, I have joined @wiz_io to enhance their Risk &amp; Thr
+
+
+### Post — @galnagli — 2024-08-22 12:56 UTC (2024-08-22 13:56 WAT)
+
+- URL: https://x.com/galnagli/status/1826604405069590923
+- Metrics (at fetch): bookmark 5, impression 9343, like 153, quote 0, reply 13, retweet 3
+
+> Excited to share some big personal news today, I have joined @wiz_io to enhance their Risk &amp; Threat Exposure Management and build a new disruptive Risk MDR offering.
+>
+> It's been quite a ride working on @shockwave_sec  for the past couple of years as a solopreneur and as a https://t.co/dtTe8fd8e2
+
+**Media:**
+- animated_gif:  — no alt text provided by author
