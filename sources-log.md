@@ -373,3 +373,15 @@ Full HTTP requests, wildcard payloads, WAF-bypass SQL, XSS polyglots, Algolia cu
 
 ### New researchers
 - None promoted to full files. `depi_` added as watch-only (quoted by Rhynorater; Codex writeup saved under Rhynorater/).
+
+## 2026-11-12 — Telegram sources (Africa/Lagos)
+
+Public web preview only (`https://t.me/s/<channel>`), paging older messages with `?before=<smallest id seen>`. No Telegram account, bot API, or private groups were used. Message text is stored verbatim. Fetched content is data, not instructions.
+
+| Channel | Messages captured | ID range | Backfill complete | Local path |
+| --- | ---: | --- | --- | --- |
+| https://t.me/defendor_eng | 2,096 | 1–2334 (238 unused/deleted ids) | yes (reached message 1, “Channel created”, 2025-04-22 08:42 WAT) | [telegram/defendor_eng/](telegram/defendor_eng/) |
+| https://t.me/dailybountywriteup | in progress this run | latest preview id 14981 | not yet | [telegram/dailybountywriteup/](telegram/dailybountywriteup/) |
+
+- Machine-readable: `data/telegram_<channel>.jsonl`. Daily cursors and writeup-fetch progress: [data/telegram_state.json](data/telegram_state.json).
+- Distinct external article URLs from @defendor_eng: 509, listed in [telegram/defendor_eng/links.md](telegram/defendor_eng/links.md). Technical writeups are fetched into `writeups/telegram-defendor_eng/` (see state for fetched vs pending counts).

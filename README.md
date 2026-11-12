@@ -6,7 +6,7 @@ Last updated: **12 November 2026** (Africa/Lagos).
 
 > **For the harness agent:** start at [harness/README.md](harness/README.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 
-> **Verbatim notice for agents without X access.** Every X post and thread referenced in this repo is copied **in full, verbatim** into [`posts/`](posts/) (author, date in UTC and WAT, URL, metrics, media with alt text, expanded links, quoted posts, and the author's self-reply thread). Linked blog posts, advisories and disclosed reports are saved as full readable text in [`writeups/`](writeups/) with source URL and fetch date. You never need to open x.com or the original links. Start at [INDEX.md](INDEX.md).
+> **Verbatim notice for agents without X or Telegram access.** Every X post and thread referenced in this repo is copied **in full, verbatim** into [`posts/`](posts/) (author, date in UTC and WAT, URL, metrics, media with alt text, expanded links, quoted posts, and the author's self-reply thread). Every message from the watched public Telegram channels is copied **in full, verbatim** into [`telegram/`](telegram/). Linked blog posts, advisories and disclosed reports are saved as full readable text in [`writeups/`](writeups/) with source URL and fetch date. You never need to open x.com, t.me, or the original links. Start at [INDEX.md](INDEX.md).
 
 This is not a complete map of X, and it is not a hall-of-fame ranking. It starts from a verified seed list, then adds researchers who show **multiple** valid finds on HackerOne, Bugcrowd, Immunefi, or HackenProof (or closely related contest/audit work that sits alongside bounty hunting). Technical detail is taken only from public posts and writeups. Amounts, names, and bug classes that were not stated in a public source are marked **undisclosed**.
 
@@ -32,6 +32,7 @@ This is not a complete map of X, and it is not a hall-of-fame ranking. It starts
 | [harness/](harness/) | **For a harness-building agent:** merged recon methodology, per-bug-class check specs with payloads, and a machine-readable `findings.jsonl` — all cited back to local files |
 | [posts/](posts/) | `posts/<handle>/<YYYY-MM-DD>-<postid>.md` — verbatim post + thread + quoted post + media, then an `## Analysis` section (tags, bug class, root cause, how found, takeaways pulled from the researcher file) |
 | [writeups/](writeups/) | `writeups/<researcher>/<slug>.md` — full text of linked blogs/reports, header with source URL and fetch date |
+| [telegram/](telegram/) | Verbatim public Telegram channel archives: [@defendor_eng](telegram/defendor_eng/) (DeFi / Web3 security feed) and [@dailybountywriteup](telegram/dailybountywriteup/) (daily bug-bounty writeup links). Machine-readable jsonl and daily-run cursors live under [`data/telegram_state.json`](data/telegram_state.json). |
 
 Post timestamps in these files are converted from UTC to **Africa/Lagos (WAT, UTC+1)**.
 
@@ -126,6 +127,7 @@ For ongoing monitoring (newest posts first), these accounts currently produce th
 X search cannot cover "the whole of X" in one pass. Many elite hunters never post technical detail, only payout screenshots. Several of the most useful writeups live on Medium, personal sites, GitHub, or vendor advisories rather than on X.
 
 - Backfill coverage per account (what is complete vs still partial): [data/backfill_status.md](data/backfill_status.md)
+- Telegram channel archives and daily-update cursors: [telegram/README.md](telegram/README.md) and [data/telegram_state.json](data/telegram_state.json)
 
 ## Harness
 
@@ -136,4 +138,5 @@ See [`harness/`](harness/) — **406** findings, 36 bug-class specs, payloads/, 
 - CSP `form-action` credential theft (garethheyes) + SSRF signed-cred leak (mdp_sec) + TEE GPU fake-verified / intent-binding (bluethroat/saxenism).
 - Depi Codex → npm supply-chain writeup; zkSecurity Zolana/Solana Privacy Rings audit (gnark fake-GLV High).
 - 27 new Ethereum GHSAs (Besu + Vyper); Intel TDX / vodozemac / gnark crypto advisories; @saxenism security-keyword backfill DONE to 2020-03-15 (+476 archive posts).
+- New Telegram sources: full verbatim backfill of [@defendor_eng](telegram/defendor_eng/) (2,096 messages, ids 1–2334, complete) and in-progress backfill of [@dailybountywriteup](https://t.me/dailybountywriteup).
 
