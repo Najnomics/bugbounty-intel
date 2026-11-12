@@ -19,3 +19,14 @@ Register a malicious iOS app for the custom URL scheme accepted as OAuth redirec
 ```
 Use public OAuth client_id as a free user against production billing catalog endpoints
 ```
+
+## 3. Account takeover due to insufficient URL validation on RelayState parameter
+- Source: `telegram writeups (verbatim excerpts)`
+
+```
+GET /2.0/repositories/%7B766210f9-9bec-4010-9f4d-917b06661c0c%7D HTTP/2
+Host: api.bitbucket.org
+User-Agent: curl/7.79.1
+Accept: */*
+Authorization: Bearer Txpo3AXXQZHlp....
+```

@@ -10,7 +10,7 @@ This folder turns the knowledge base into material an agent can act on to improv
 | [bug-classes/](bug-classes/) | One file per bug class: detection signals, recon steps, exact payloads/requests seen in the sources, tools, and an automation (check-spec) block. Each item cites the local post/writeup/advisory it came from. **36 class files.** |
 | [payloads/](payloads/) | Deduped payload / request lists per class, extracted verbatim from findings. |
 | [tools.md](tools.md) | Every tool mentioned across findings and posts, with how researchers used it (cited). |
-| [findings.jsonl](findings.jsonl) | Machine-readable, **406** JSON objects (one per documented finding): `researcher`, `platform`, `bug_class`, `target_type`, `root_cause`, `discovery_method`, `payload`, `bounty`, `source_files`, `post_url`, `profile`. |
+| [findings.jsonl](findings.jsonl) | Machine-readable, **1047** JSON objects (one per documented finding): `researcher`, `platform`, `bug_class`, `target_type`, `root_cause`, `discovery_method`, `payload`, `bounty`, `source_files`, `post_url`, `profile`. |
 
 ## Bug-class files
 
@@ -37,4 +37,4 @@ This folder turns the knowledge base into material an agent can act on to improv
 - Payloads are only filled where a source states them; otherwise the field is `null`.
 - Run only against authorised, in-scope targets, with bounded non-destructive proofs (the sources stress this repeatedly).
 
-_Last harness mine note: findings.jsonl grew to 406 records; payloads/ and tools.md generated from the same mine. Corpus posts remain the source of truth._
+_Last harness mine note: findings.jsonl grew to 1047 records (including Telegram-sourced findings tagged telegram:<channel>); payloads/ and tools.md generated from the same mine. Corpus posts remain the source of truth._

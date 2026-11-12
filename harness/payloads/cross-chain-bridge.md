@@ -11,3 +11,19 @@ _Verbatim payload / request patterns extracted from findings in this repo. Nothi
 ```
 Submit a non-free (gas>0) claim tx that reverts: it falls into the else branch, is pooled and marks its deposit count used, blocking the legitimate L1->L2 claim and DoSing the sequencer
 ```
+
+## 2. 🔬 HOT Bridge / NEAR Intents $3.86M Exploit Analysis
+- Source: `telegram writeups (verbatim excerpts)`
+
+```
+let requested_refund = requested_refund.unwrap_or(*deposited);
+let balance_left = receiver.token_balances.amount_for(&token_id);
+let refund_amount = balance_left.min(requested_refund);
+```
+
+## 3. 🔬 HOT Bridge / NEAR Intents $3.86M Exploit Analysis
+- Source: `telegram writeups (verbatim excerpts)`
+
+```
+let refund_amount = requested_refund.min(*deposited).min(balance_left);
+```
