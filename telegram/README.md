@@ -11,7 +11,7 @@ Captured from the public web preview `https://t.me/s/<channel>`, paging older me
 
 Machine-readable copies: [`data/telegram_defendor_eng.jsonl`](../data/telegram_defendor_eng.jsonl) and [`data/telegram_dailybountywriteup.jsonl`](../data/telegram_dailybountywriteup.jsonl). Cursor / increment state for the daily routine: [`data/telegram_state.json`](../data/telegram_state.json).
 
-@dailybountywriteup is mostly writeup links (12,879 distinct URLs in [dailybountywriteup/links.md](dailybountywriteup/links.md)). Fetched full-text copies live under [`writeups/telegram-dailybountywriteup/`](../writeups/telegram-dailybountywriteup/); progress (fetched / failed / pending) is in `data/telegram_state.json` under `writeups` and the sibling `data/telegram_*_writeups_{fetched,failed,pending}.jsonl` files. The daily run should continue from the pending file and must not invent content.
+@dailybountywriteup is mostly writeup links (12,879 distinct URLs in [dailybountywriteup/links.md](dailybountywriteup/links.md)). This run fetched **278** of the highest-priority technical writeups (mainly public HackerOne reports) into [`writeups/telegram-dailybountywriteup/`](../writeups/telegram-dailybountywriteup/); **354** failed and **12,247** remain pending (Medium and similar hosts currently return HTTP 403). @defendor_eng: **68** fetched, **56** failed, **385** pending, under [`writeups/telegram-defendor_eng/`](../writeups/telegram-defendor_eng/). Progress lives in [`data/telegram_state.json`](../data/telegram_state.json) and the sibling `data/telegram_*_writeups_{fetched,failed,pending}.jsonl` files. The daily run should continue from the pending file and must not invent content.
 
 ## Daily update procedure
 

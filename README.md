@@ -131,7 +131,7 @@ X search cannot cover "the whole of X" in one pass. Many elite hunters never pos
 
 ## Harness
 
-See [`harness/`](harness/) — **406** findings, 36 bug-class specs, payloads/, tools.md.
+See [`harness/`](harness/) — **1,047** findings, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
 
 ### 12 Nov 2026 daily highlights
 

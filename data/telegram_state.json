@@ -16,7 +16,21 @@
     },
     "distinct_writeup_urls": 509,
     "writeup_queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
-    "updated": "2026-11-12T14:49:19+01:00"
+    "updated": "2026-11-12T14:49:19+01:00",
+    "writeups": {
+      "fetched": 68,
+      "failed": 56,
+      "pending": 385,
+      "fetched_file": "data/telegram_defendor_eng_writeups_fetched.jsonl",
+      "failed_file": "data/telegram_defendor_eng_writeups_failed.jsonl",
+      "pending_file": "data/telegram_defendor_eng_writeups_pending.jsonl",
+      "queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
+      "updated": "2026-11-12T15:20:13+01:00",
+      "note": "68 writeups stored under writeups/telegram-defendor_eng/; 56 fetch failures recorded; 385 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files. Medium.com and infosecwriteups.com currently return HTTP 403 to this crawler; those URLs stay pending or failed so a later run can retry. HackerOne public reports are fetched via the public /reports/<id>.json document."
+    },
+    "writeups_fetched": 68,
+    "writeups_failed": 56,
+    "writeups_pending": 385
   },
   "dailybountywriteup": {
     "newest_id": 14981,
@@ -38,6 +52,20 @@
     },
     "distinct_writeup_urls": 12879,
     "writeup_queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
-    "updated": "2026-11-12T15:00:30+01:00"
+    "updated": "2026-11-12T15:00:30+01:00",
+    "writeups": {
+      "fetched": 278,
+      "failed": 354,
+      "pending": 12247,
+      "fetched_file": "data/telegram_dailybountywriteup_writeups_fetched.jsonl",
+      "failed_file": "data/telegram_dailybountywriteup_writeups_failed.jsonl",
+      "pending_file": "data/telegram_dailybountywriteup_writeups_pending.jsonl",
+      "queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
+      "updated": "2026-11-12T15:20:21+01:00",
+      "note": "278 writeups stored under writeups/telegram-dailybountywriteup/; 354 fetch failures recorded; 12247 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files. Medium.com and infosecwriteups.com currently return HTTP 403 to this crawler; those URLs stay pending or failed so a later run can retry. HackerOne public reports are fetched via the public /reports/<id>.json document."
+    },
+    "writeups_fetched": 278,
+    "writeups_failed": 354,
+    "writeups_pending": 12247
   }
 }

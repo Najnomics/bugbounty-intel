@@ -386,3 +386,9 @@ Public web preview only (`https://t.me/s/<channel>`), paging older messages with
 - Machine-readable: `data/telegram_<channel>.jsonl`. Daily cursors and writeup-fetch progress: [data/telegram_state.json](data/telegram_state.json).
 - Distinct external article URLs from @defendor_eng: 509, listed in [telegram/defendor_eng/links.md](telegram/defendor_eng/links.md). Technical writeups are fetched into `writeups/telegram-defendor_eng/` (see state for fetched vs pending counts).
 - Distinct external article URLs from @dailybountywriteup: 12,879, listed in [telegram/dailybountywriteup/links.md](telegram/dailybountywriteup/links.md). Technical writeups are fetched into `writeups/telegram-dailybountywriteup/` (see `data/telegram_state.json` for fetched vs pending; the daily run continues the queue).
+
+### Telegram writeup fetches (same day)
+
+- @defendor_eng: 68 full writeups stored under `writeups/telegram-defendor_eng/`; 56 failures (www.defendor.xyz TLS errors, 403/404); 385 pending. Queue: `data/telegram_defendor_eng_writeup_queue.jsonl`.
+- @dailybountywriteup: 278 full writeups under `writeups/telegram-dailybountywriteup/`, mostly public HackerOne reports via `https://hackerone.com/reports/<id>.json` (the HTML page is a JS shell). 354 failures; 12,247 pending. Medium.com, infosecwriteups.com and several Medium publications returned HTTP 403 to this crawler and remain for a later retry. Never invent content.
+- Attachment filenames from HackerOne are recorded; expiring signed CDN URLs are not stored.

@@ -975,7 +975,7 @@ _Original 19 researchers: see the Platforms column in [researchers.md](researche
 
 Machine-readable + check-spec material lives under [`harness/`](harness/):
 
-- [`harness/findings.jsonl`](harness/findings.jsonl) — **399** documented findings (web BB, smart-contract, ZK, TEE, Zcash/Ethereum/Solana advisories, RustSec crypto, Solidity compiler bugs).
+- [`harness/findings.jsonl`](harness/findings.jsonl) — **1,047** documented findings (web BB, smart-contract, ZK, TEE, Zcash/Ethereum/Solana advisories, RustSec crypto, Solidity compiler bugs, plus 641 verbatim Telegram-sourced records).
 - [`harness/bug-classes/`](harness/bug-classes/) — 36 class check-specs.
 - [`harness/payloads/`](harness/payloads/) — verbatim payloads per class (16 files).
 - [`harness/tools.md`](harness/tools.md) — tools researchers actually mention and how they used them.
