@@ -138,5 +138,5 @@ See [`harness/`](harness/) — **406** findings, 36 bug-class specs, payloads/, 
 - CSP `form-action` credential theft (garethheyes) + SSRF signed-cred leak (mdp_sec) + TEE GPU fake-verified / intent-binding (bluethroat/saxenism).
 - Depi Codex → npm supply-chain writeup; zkSecurity Zolana/Solana Privacy Rings audit (gnark fake-GLV High).
 - 27 new Ethereum GHSAs (Besu + Vyper); Intel TDX / vodozemac / gnark crypto advisories; @saxenism security-keyword backfill DONE to 2020-03-15 (+476 archive posts).
-- New Telegram sources: full verbatim backfill of [@defendor_eng](telegram/defendor_eng/) (2,096 messages, ids 1–2334, complete) and in-progress backfill of [@dailybountywriteup](https://t.me/dailybountywriteup).
+- New Telegram sources: full verbatim backfill of [@defendor_eng](telegram/defendor_eng/) (2,096 messages, ids 1–2334, complete) and [@dailybountywriteup](telegram/dailybountywriteup/) (14,969 messages, ids 1–14981, complete; 12,879 writeup URLs).
 

@@ -381,7 +381,8 @@ Public web preview only (`https://t.me/s/<channel>`), paging older messages with
 | Channel | Messages captured | ID range | Backfill complete | Local path |
 | --- | ---: | --- | --- | --- |
 | https://t.me/defendor_eng | 2,096 | 1–2334 (238 unused/deleted ids) | yes (reached message 1, “Channel created”, 2025-04-22 08:42 WAT) | [telegram/defendor_eng/](telegram/defendor_eng/) |
-| https://t.me/dailybountywriteup | in progress this run | latest preview id 14981 | not yet | [telegram/dailybountywriteup/](telegram/dailybountywriteup/) |
+| https://t.me/dailybountywriteup | 14,969 | 1–14981 (12 unused/deleted ids) | yes (reached message 1, “Channel created”, 2022-08-22 20:46 WAT) | [telegram/dailybountywriteup/](telegram/dailybountywriteup/) |
 
 - Machine-readable: `data/telegram_<channel>.jsonl`. Daily cursors and writeup-fetch progress: [data/telegram_state.json](data/telegram_state.json).
 - Distinct external article URLs from @defendor_eng: 509, listed in [telegram/defendor_eng/links.md](telegram/defendor_eng/links.md). Technical writeups are fetched into `writeups/telegram-defendor_eng/` (see state for fetched vs pending counts).
+- Distinct external article URLs from @dailybountywriteup: 12,879, listed in [telegram/dailybountywriteup/links.md](telegram/dailybountywriteup/links.md). Technical writeups are fetched into `writeups/telegram-dailybountywriteup/` (see `data/telegram_state.json` for fetched vs pending; the daily run continues the queue).

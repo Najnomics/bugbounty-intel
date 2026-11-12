@@ -15,7 +15,7 @@ New / refreshed technical material today (verbatim under `posts/` and `writeups/
 | Codex → npm supply chain (Depi) | [writeups/Rhynorater/depi-backdooring-codex.md](writeups/Rhynorater/depi-backdooring-codex.md) |
 | Solana Privacy Rings / gnark fake-GLV | [writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md](writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md) |
 | Besu + Vyper GHSAs; TDX / gnark crypto | [projects/ethereum/advisories-index.md](projects/ethereum/advisories-index.md), [projects/crypto/advisories-index.md](projects/crypto/advisories-index.md) |
-| Telegram intel sources (verbatim) | [telegram/defendor_eng/](telegram/defendor_eng/) (2,096 messages, backfill complete), [telegram/dailybountywriteup/](telegram/dailybountywriteup/) (backfill running) |
+| Telegram intel sources (verbatim) | [telegram/defendor_eng/](telegram/defendor_eng/) (2,096 msgs, complete), [telegram/dailybountywriteup/](telegram/dailybountywriteup/) (14,969 msgs, complete) |
 
 ## Telegram sources
 
@@ -24,7 +24,7 @@ Public channels archived from `https://t.me/s/<channel>`. Full message text, lin
 | Channel | Archive | Messages | IDs | Dates (WAT) | Writeups |
 | --- | --- | ---: | --- | --- | --- |
 | [@defendor_eng](https://t.me/defendor_eng) | [telegram/defendor_eng/](telegram/defendor_eng/) | 2,096 | 1–2334 (complete) | 2025-04-22 → 2026-11-12 | [links.md](telegram/defendor_eng/links.md); fetched copies under [writeups/telegram-defendor_eng/](writeups/telegram-defendor_eng/) |
-| [@dailybountywriteup](https://t.me/dailybountywriteup) | [telegram/dailybountywriteup/](telegram/dailybountywriteup/) | _backfill in progress_ | latest ~14981 | | writeups fetched after the message backfill |
+| [@dailybountywriteup](https://t.me/dailybountywriteup) | [telegram/dailybountywriteup/](telegram/dailybountywriteup/) | 14,969 | 1–14981 (complete) | 2022-08-22 → 2026-11-12 | [links.md](telegram/dailybountywriteup/links.md) (12,879 URLs); fetched copies under [writeups/telegram-dailybountywriteup/](writeups/telegram-dailybountywriteup/) |
 
 ## By researcher
 

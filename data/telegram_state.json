@@ -17,5 +17,27 @@
     "distinct_writeup_urls": 509,
     "writeup_queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
     "updated": "2026-11-12T14:49:19+01:00"
+  },
+  "dailybountywriteup": {
+    "newest_id": 14981,
+    "oldest_id": 1,
+    "backfill_complete": true,
+    "cursor_before": 1,
+    "count": 14969,
+    "url": "https://t.me/dailybountywriteup",
+    "preview_url": "https://t.me/s/dailybountywriteup",
+    "title": "Daily Bounty Writeups",
+    "first_date_wat": "2022-08-22T20:46:34+01:00",
+    "last_date_wat": "2026-11-12T09:43:22+01:00",
+    "years": {
+      "2022": 1225,
+      "2023": 3627,
+      "2024": 3476,
+      "2025": 4011,
+      "2026": 2630
+    },
+    "distinct_writeup_urls": 12879,
+    "writeup_queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
+    "updated": "2026-11-12T15:00:30+01:00"
   }
 }
