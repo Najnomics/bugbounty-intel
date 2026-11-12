@@ -1,0 +1,502 @@
+# Top 500 disclosed HackerOne reports by bounty
+
+- [1087489](reports/2021/1087489.md) Github access token exposure — shopify — critical — $50,000 — 
+- [591813](reports/2021/591813.md) [Pre-Submission][H1-4420-2019] API access to Phabricator on code.uberinternal.com from leaked certificate in git repo — uber — critical — $39,999.99 — Insecure Storage of Sensitive Information
+- [2293343](reports/2025/2293343.md) Account Takeover via Password Reset without user interactions — gitlab — critical — $35,000 — Improper Access Control - Generic
+- [1609965](reports/2022/1609965.md) RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag) — gitlab — critical — $33,510 — Command Injection - Generic
+- [1679624](reports/2022/1679624.md) Remote Command Execution via Github import — gitlab — critical — $33,510 — Command Injection - Generic
+- [925585](reports/2021/925585.md) RCE via npm misconfig -- installing internal libraries from the public registry — paypal — critical — $30,000 — Code Injection
+- [1439593](reports/2022/1439593.md) Arbitrary file read  via the bulk imports UploadsPipeline — gitlab — critical — $29,000 — Path Traversal
+- [383127](reports/2018/383127.md) SQL Injection in report_xml.php through countryFilter[] parameter — valve — critical — $25,000 — SQL Injection
+- [455645](reports/2021/455645.md) Exposed Kubernetes API - RCE/Exposed Creds — snapchat — critical — $25,000 — OS Command Injection
+- [2262382](reports/2023/2262382.md) Server Side Request Forgery (SSRF) via Analytics Reports — security — critical — $25,000 — Server-Side Request Forgery (SSRF)
+- [1618347](reports/2025/1618347.md) Disclosing  PolicyPageAssetGroup in Private Programs via /graphql `gid://hackerone/PolicyPageAssetGroupsIndex::PolicyPageAssetGroup/{id}` — security — critical — $25,000 — 
+- [1685822](reports/2022/1685822.md) RepositoryPipeline allows importing of local git repos — gitlab — medium — $22,300 — Improper Access Control - Generic
+- [591295](reports/2019/591295.md) Potential pre-auth RCE on Twitter VPN — x — critical — $20,160 — OS Command Injection
+- [391217](reports/2018/391217.md) Getting all the CD keys of any game — valve — critical — $20,000 — Improper Access Control - Generic
+- [510152](reports/2019/510152.md) Bypass for #488147 enables stored XSS on https://paypal.com/signin again — paypal — high — $20,000 — HTTP Request Smuggling
+- [745324](reports/2019/745324.md) Account takeover via leaked session cookie — security — high — $20,000 — Insufficiently Protected Credentials
+- [827052](reports/2020/827052.md) Arbitrary file read via the UploadsRewriter when moving and issue — gitlab — critical — $20,000 — Path Traversal
+- [1125425](reports/2021/1125425.md) RCE via unsafe inline Kramdown options when rendering certain Wiki pages — gitlab — critical — $20,000 — Code Injection
+- [1154542](reports/2021/1154542.md) RCE when removing metadata with ExifTool — gitlab — critical — $20,000 — Code Injection
+- [767770](reports/2022/767770.md) Private objects exposed through project import — gitlab — critical — $20,000 — Insecure Direct Object Reference (IDOR)
+- [743953](reports/2022/743953.md) Steal private objects of other projects via project import — gitlab — critical — $20,000 — Insecure Direct Object Reference (IDOR)
+- [1379975](reports/2022/1379975.md) bd-j exploit chain — playstation — high — $20,000 — Privilege Escalation
+- [488147](reports/2019/488147.md) Stored XSS on https://paypal.com/signin via cache poisoning — paypal — high — $18,900 — HTTP Request Smuggling
+- [181879](reports/2016/181879.md) Struct type confusion RCE — shopify-scripts — critical — $18,000 — Code Injection
+- [1132378](reports/2021/1132378.md) Arbitrary file read during project import — gitlab — critical — $16,000 — Path Traversal
+- [1212067](reports/2021/1212067.md) Stored XSS in markdown via the DesignReferenceFilter  — gitlab — critical — $16,000 — Cross-site Scripting (XSS) - Stored
+- [739737](reports/2020/739737.md) Token leak in security challenge flow allows retrieving victim's PayPal email and plain text password — paypal — high — $15,300 — Missing Authentication for Critical Function
+- [300305](reports/2018/300305.md) Ability to bypass partner email confirmation to take over any store given an employee email — shopify — critical — $15,250 — Time-of-check Time-of-use (TOCTOU) Race Condition
+- [231460](reports/2017/231460.md) Open prod Jenkins instance — snapchat — high — $15,000 — Information Disclosure
+- [873614](reports/2020/873614.md) Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application — playstation — critical — $15,000 — Code Injection
+- [911606](reports/2021/911606.md) Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io — snapchat — high — $15,000 — Information Disclosure
+- [1328546](reports/2022/1328546.md) Incorrect authorization to the intelbot service leading to ticket information — tiktok — critical — $15,000 — Improper Authentication - Generic
+- [1819832](reports/2023/1819832.md) Delete anyone's content spotlight remotely. — snapchat — high — $15,000 — Insecure Direct Object Reference (IDOR)
+- [3018307](reports/2025/3018307.md) Groups module can halt chain when handling a proposal with malicious group weights  — cosmos — high — $15,000 — 
+- [3862641](reports/2026/3862641.md) IDOR allows user to access report details via reference.json endpoint — security — critical — $15,000 — Insecure Direct Object Reference (IDOR)
+- [1578400](reports/2022/1578400.md) New /add_contacts /remove_contacts quick commands susseptible to XSS from Customer Contact firstname/lastname fields — gitlab — high — $13,950 — Cross-site Scripting (XSS) - Stored
+- [1731349](reports/2023/1731349.md) Stored XSS via Kroki diagram — gitlab — high — $13,950 — Cross-site Scripting (XSS) - Stored
+- [186230](reports/2016/186230.md) Internal attachments can be exported via "Export as .zip" feature — security — high — $12,500 — Information Disclosure
+- [838635](reports/2020/838635.md) Spring Actuator endpoints publicly available and broken authentication — line — critical — $12,500 — Misconfiguration
+- [2032716](reports/2023/2032716.md) An attacker can can view any hacker email via  /SaveCollaboratorsMutation operation name  — security — high — $12,500 — Information Disclosure
+- [2177925](reports/2024/2177925.md) Remote vulnerabilities in spp — playstation — high — $12,500 — Classic Buffer Overflow
+- [3113398](reports/2025/3113398.md) Internal Access to Hackerone confluence Docs — security — high — $12,500 — Misconfiguration
+- [509924](reports/2019/509924.md) JSON serialization of any Project model results in all Runner tokens being exposed through Quick Actions — gitlab — critical — $12,000 — Information Disclosure
+- [587854](reports/2019/587854.md) Local files could be overwritten in GitLab, leading to remote command execution — gitlab — critical — $12,000 — Command Injection - Generic
+- [689314](reports/2019/689314.md) Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests — gitlab — critical — $12,000 — Privilege Escalation
+- [658013](reports/2019/658013.md) Git flag injection - local file overwrite to remote code execution — gitlab — critical — $12,000 — Command Injection - Generic
+- [894569](reports/2020/894569.md) An attacker can run pipeline jobs as arbitrary user — gitlab — critical — $12,000 — Business Logic Errors
+- [822262](reports/2022/822262.md) Path traversal in Nuget Package Registry — gitlab — high — $12,000 — Path Traversal
+- [733072](reports/2022/733072.md) Path traversal, to RCE — gitlab — high — $12,000 — Command Injection - Generic
+- [2443228](reports/2024/2443228.md) Account Takeover via Authentication Bypass in TikTok Account Recovery — tiktok — critical — $12,000 — Authentication Bypass Using an Alternate Path or Channel
+- [3782701](reports/2026/3782701.md) Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) — mozilla — critical — $12,000 — Code Injection
+- [1043385](reports/2021/1043385.md) Arbitrary Code Execution via npm misconfiguration – installing internal libraries from the public registry — line — critical — $11,500 — Code Injection
+- [446585](reports/2019/446585.md) Exfiltrate and mutate repository and project data through injected templated service — gitlab — critical — $11,000 — Improper Access Control - Generic
+- [415081](reports/2019/415081.md) IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users — paypal — high — $10,500 — Insecure Direct Object Reference (IDOR)
+- [976603](reports/2021/976603.md) Ability to DOS any organization's SSO and open up the door to account takeovers — superhuman — high — $10,500 — Improper Authentication - Generic
+- [125980](reports/2016/125980.md) uber.com may RCE by Flask Jinja2 Template Injection — uber — - — $10,000 — Code Injection
+- [136169](reports/2016/136169.md) OneLogin authentication bypass on WordPress sites — uber — - — $10,000 — Improper Authentication - Generic
+- [182358](reports/2016/182358.md) Partial disclosure of report activity through new "Export as .zip" feature — security — high — $10,000 — Information Disclosure
+- [185775](reports/2016/185775.md) Crash: Initialize Decimal with itself triggers an assertion — shopify-scripts — high — $10,000 — 
+- [183356](reports/2016/183356.md) Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [181828](reports/2016/181828.md) Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [181910](reports/2016/181910.md) Range constructor type confusion DoS — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [181685](reports/2016/181685.md) Range#initialize_copy null pointer dereference — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [187536](reports/2016/187536.md) Null pointer derefence due to bug in codegen with negation without using value — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [188326](reports/2016/188326.md) Buffer overflow in mrb_time_asctime — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [182484](reports/2016/182484.md) Broken handling of maximum number of method call arguments leads to segfault — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [188719](reports/2017/188719.md) Information Disclosure in /skills call — security — medium — $10,000 — Information Disclosure
+- [187305](reports/2017/187305.md) Invalid handling of zero-length heredoc identifiers leads to infinite loop in the sandbox — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [186723](reports/2017/186723.md) Crash: Overwriting NoMethodError with a builtin class crashes/corrupts memory — shopify-scripts — high — $10,000 — Memory Corruption - Generic
+- [189633](reports/2017/189633.md) Certain inputs cause tight C-level recursion leading to process stack overflow — shopify-scripts — high — $10,000 — Memory Corruption - Generic
+- [173551](reports/2017/173551.md) password reset token leaking allowed for ATO of an Uber account — uber — critical — $10,000 — Improper Authentication - Generic
+- [307239](reports/2018/307239.md) Double Payout via PayPal — coinbase — critical — $10,000 — Business Logic Errors
+- [418767](reports/2018/418767.md) Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form — security — medium — $10,000 — Improper Authorization
+- [542180](reports/2020/542180.md) Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe — valve — critical — $10,000 — Classic Buffer Overflow
+- [826361](reports/2020/826361.md) SSRF on project import via the remote_attachment_url on a Note — gitlab — high — $10,000 — Server-Side Request Forgery (SSRF)
+- [850447](reports/2020/850447.md) gitlab-workhorse bypass in Gitlab::Middleware::Multipart allowing files in `allowed_paths` to be read — gitlab — critical — $10,000 — Information Disclosure
+- [826026](reports/2020/826026.md) Use-After-Free In IPV6_2292PKTOPTIONS leading To Arbitrary Kernel R/W Primitives — playstation — high — $10,000 — Use After Free
+- [852613](reports/2020/852613.md) Remote Code Execution on Cloud via latest Kibana 7.6.2 — elastic — critical — $10,000 — Privilege Escalation
+- [663628](reports/2020/663628.md) Access to multiple production Grafana dashboards — snapchat — high — $10,000 — Information Disclosure
+- [943231](reports/2021/943231.md) SOCK_RAW sockets reachable from Webkit process allows triggering double free in IP6_EXTHDR_CHECK — playstation — high — $10,000 — Double Free
+- [1168765](reports/2021/1168765.md) RCE hazard in reporting (via Chromium) — elastic — critical — $10,000 — Privilege Escalation
+- [1497169](reports/2022/1497169.md) CSRF protection bypass in GitHub Enterprise management console — github — high — $10,000 — Cross-Site Request Forgery (CSRF)
+- [1040786](reports/2022/1040786.md) Exposure of a valid Gitlab-Workhorse JWT leading to various bad things — gitlab — high — $10,000 — Improper Authentication - Generic
+- [1441103](reports/2022/1441103.md) Use-after-free in setsockopt IPV6_2292PKTOPTIONS (CVE-2020-7457) — playstation — high — $10,000 — Use After Free
+- [1340942](reports/2022/1340942.md) size_t-to-int vulnerability in exFAT leads to memory corruption via malformed USB flash drives — playstation — high — $10,000 — Incorrect Calculation of Buffer Size
+- [1901040](reports/2023/1901040.md) Authentication bypass on gist.github.com through SSH Certificates — github — high — $10,000 — Improper Access Control - Generic
+- [2900606](reports/2025/2900606.md) sys_fsc2h_ctrl kernel stack free — playstation — high — $10,000 — Use After Free
+- [3124517](reports/2025/3124517.md) Arbitrary Read of Another Users private repository without Authorization — github — high — $10,000 — Insecure Direct Object Reference (IDOR)
+- [3320669](reports/2026/3320669.md) Double fdrop on a socket through sys_netcontrol — playstation — high — $10,000 — Double Free
+- [622122](reports/2019/622122.md) DoS on PayPal via web cache poisoning — paypal — medium — $9,700 — Uncontrolled Resource Consumption
+- [1444682](reports/2023/1444682.md) XSS at jamfpro.shopifycloud.com — shopify — medium — $9,400 — Cross-site Scripting (XSS) - Generic
+- [3962925](reports/2026/3962925.md) Launchpad file read leaks production keys — basecamp — critical — $9,337 — Path Traversal
+- [1007014](reports/2021/1007014.md) RCE via npm misconfig -- installing internal libraries from the public registry — uber — critical — $9,000 — Code Injection
+- [584603](reports/2021/584603.md) RCE on CS:GO client using unsanitized entity ID in EntityMsg message — valve — critical — $9,000 — Out-of-bounds Read
+- [2107680](reports/2023/2107680.md) AWS keys and user cookie leakage via uninitialized memory leak in outdated librsvg version in Basecamp — basecamp — high — $8,868 — Information Disclosure
+- [223014](reports/2017/223014.md) SAML Authentication Bypass on uchat.uberinternal.com — uber — high — $8,500 — Improper Authentication - Generic
+- [136885](reports/2016/136885.md) [CRITICAL] -- Complete Account Takeover — uber — - — $8,000 — Improper Authentication - Generic
+- [184857](reports/2016/184857.md) Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash — shopify-scripts — high — $8,000 — Memory Corruption - Generic
+- [184661](reports/2016/184661.md) mruby-time: Crash host with uninitialized Time obj — shopify-scripts — high — $8,000 — Memory Corruption - Generic
+- [185794](reports/2016/185794.md) Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum — shopify-scripts — high — $8,000 — Memory Corruption - Generic
+- [183405](reports/2016/183405.md) Null target_class DoS — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
+- [181695](reports/2016/181695.md) Undefined method_missing null pointer dereference — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
+- [184712](reports/2016/184712.md) Denial of service due to invalid memory access in mrb_ary_concat — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
+- [188313](reports/2016/188313.md) Segmentation fault due to bad memory access in kh_get_mt — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
+- [181232](reports/2016/181232.md) Denial of Service in mruby due to null pointer dereference — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
+- [180695](reports/2017/180695.md) ruby DoS https://www.mruby.science — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
+- [183425](reports/2017/183425.md) Segmentation fault when a Ruby method is invoked by a C method via Object#send — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
+- [394329](reports/2018/394329.md) Account Takeover via billing — chaturbate — critical — $8,000 — Improper Authorization
+- [2255750](reports/2024/2255750.md) Remote code execution and exfiltration of secret tokens by poisoning the mozilla/fxa CI build cache — mozilla — critical — $8,000 — Code Injection
+- [1707287](reports/2025/1707287.md) CVE-2022-40604: Apache Airflow: Format String Vulnerability — ibb — critical — $8,000 — Use of Externally-Controlled Format String
+- [1543718](reports/2022/1543718.md) DOS via issue preview — gitlab — high — $7,640 — Uncontrolled Resource Consumption
+- [12497](reports/2014/12497.md) Adobe Flash Player FileReference Use-after-Free Vulnerability — ibb — - — $7,500 — Memory Corruption - Generic
+- [131450](reports/2016/131450.md) Stored XSS in developer.uber.com — uber — - — $7,500 — Cross-site Scripting (XSS) - Generic
+- [409850](reports/2019/409850.md) XSS in steam react chat client — valve — critical — $7,500 — Cross-site Scripting (XSS) - Stored
+- [807448](reports/2020/807448.md) Customer private program can disclose email any users through invited via username — security — high — $7,500 — Information Disclosure
+- [807772](reports/2021/807772.md) OOB reads in network message handlers leads to RCE — valve — critical — $7,500 — Out-of-bounds Read
+- [463286](reports/2021/463286.md) Specially Crafted Closed Captions File can lead to Remote Code Execution in CS:GO and other Source Games — valve — critical — $7,500 — Classic Buffer Overflow
+- [1070835](reports/2021/1070835.md) CS:GO Server -> Client RCE through OOB access in CSVCMsg_SplitScreen + Info leak in HTTP download — valve — critical — $7,500 — Out-of-bounds Read
+- [876719](reports/2021/876719.md) Signedness issue in ClassInfo message handler leads to RCE on CS:GO client — valve — critical — $7,500 — Array Index Underflow
+- [265943](reports/2021/265943.md) Stealing SSO Login Tokens (snappublisher.snapchat.com) — snapchat — high — $7,500 — Authentication Bypass
+- [1295844](reports/2021/1295844.md) Modify in-flight data to payment provider Smart2Pay — valve — critical — $7,500 — Business Logic Errors
+- [1211724](reports/2021/1211724.md) HTTP Request Smuggling via HTTP/2 — basecamp — critical — $7,500 — HTTP Request Smuggling
+- [1180252](reports/2021/1180252.md) Buffer overrun in Steam SILK voice decoder — valve — critical — $7,500 — Classic Buffer Overflow
+- [1785260](reports/2023/1785260.md) Using special IPv4-mapped IPv6 addresses to bypass local IP ban — cloudflare — critical — $7,500 — 
+- [2967634](reports/2025/2967634.md) Exposed proxy allows to access internal reddit domains — reddit — high — $7,500 — Improper Access Control - Generic
+- [138869](reports/2016/138869.md) OneLogin authentication bypass on WordPress sites via XMLRPC — uber — - — $7,000 — Code Injection
+- [682442](reports/2019/682442.md) Git flag injection - Search API with scope 'blobs'  — gitlab — high — $7,000 — Command Injection - Generic
+- [130133](reports/2020/130133.md) Access to some Slack workspace metadata and settings available to unauthorized parties — slack — - — $7,000 — Improper Authentication - Generic
+- [3694007](reports/2026/3694007.md) Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hackerone.com/graphql — security — high — $7,000 — Code Injection
+- [617543](reports/2021/617543.md) Arbitrary File Reading on Uber SSL VPN — uber — high — $6,500 — Plaintext Storage of a Password
+- [1372667](reports/2022/1372667.md) Able to steal bearer token from deep link — basecamp — high — $6,337 — Improper Authentication - Generic
+- [1258871](reports/2022/1258871.md) Exposed Cortex API at https://cortex-ingest.shopifycloud.com/ — shopify — medium — $6,300 — Misconfiguration
+- [256152](reports/2018/256152.md) Possibility to inject a malicious JavaScript code in any file on tags.tiqcdn.com results in a stored XSS on any page in most Uber domains — uber — high — $6,000 — Cross-site Scripting (XSS) - Stored
+- [217739](reports/2018/217739.md) Stored XSS on any page in most Uber domains — uber — high — $6,000 — Cross-site Scripting (XSS) - Stored
+- [1478633](reports/2022/1478633.md) HTTP Request Smuggling in Transform Rules using hexadecimal escape sequences in the concat() function — cloudflare — critical — $6,000 — HTTP Request Smuggling
+- [1419341](reports/2022/1419341.md) Hijack all emails sent to any domain that uses Cloudflare Email Forwarding — cloudflare — critical — $6,000 — Improper Authorization
+- [1418891](reports/2022/1418891.md) Apache Flink RCE via GET jar/plan API Endpoint — aiven_ltd — critical — $6,000 — Command Injection - Generic
+- [1960765](reports/2023/1960765.md) Blind SSRF to internal services in matrix preview_link API — reddit — high — $6,000 — Server-Side Request Forgery (SSRF)
+- [2995025](reports/2025/2995025.md) Mozilla VPN Clients: RCE via file write and path traversal — mozilla — high — $6,000 — Path Traversal
+- [1145428](reports/2021/1145428.md) Chain of vulnerabilities in Uber for Business Vouchers program allows for attacker to perform arbitrary charges to victim's U4B payment account — uber — high — $5,750 — Insecure Direct Object Reference (IDOR)
+- [1098793](reports/2021/1098793.md) Kroki Arbitrary File Read/Write  — gitlab — high — $5,600 — Improper Access Control - Generic
+- [1148364](reports/2025/1148364.md) Mint Oauth2 access token for targeted user — gitlab — high — $5,580 — Improper Authentication - Generic
+- [2520679](reports/2024/2520679.md) Possible DoS Vulnerability with Range Header in Rack — ibb — high — $5,420 — 
+- [1147433](reports/2022/1147433.md) Stored XSS in /admin/product and /admin/collections — shopify — medium — $5,300 — Cross-site Scripting (XSS) - Stored
+- [1276742](reports/2023/1276742.md) Stored XSS in SVG file as data: url — shopify — medium — $5,300 — Cross-site Scripting (XSS) - Stored
+- [1439026](reports/2022/1439026.md) Discoverability by phone number/email restriction bypass — x — high — $5,040 — Improper Access Control - Generic
+- [46072](reports/2015/46072.md) Vulnerability with the way \ escaped characters in <http://danlec.com> style links are rendered — security — high — $5,000 — Cross-site Scripting (XSS) - Generic
+- [31408](reports/2015/31408.md) Adobe Flash Player Out-of-Bound Read/Write Vulnerability — ibb — - — $5,000 — Memory Corruption - Generic
+- [49652](reports/2015/49652.md) Improperly validated fields allows injection of arbitrary HTML via spoofed React objects — security — high — $5,000 — Cross-site Scripting (XSS) - Generic
+- [46916](reports/2015/46916.md) Markdown parsing issue enables insertion of malicious tags and event handlers — security — high — $5,000 — Cross-site Scripting (XSS) - Generic
+- [125505](reports/2016/125505.md) Possibility to brute force invite codes in riders.uber.com — uber — - — $5,000 — Violation of Secure Design Principles
+- [127948](reports/2016/127948.md) Stored XSS on newsroom.uber.com admin panel / Stream WordPress plugin — uber — - — $5,000 — Cross-site Scripting (XSS) - Generic
+- [152067](reports/2016/152067.md) Stored XSS on developer.uber.com via admin account compromise — uber — - — $5,000 — Cross-site Scripting (XSS) - Generic
+- [232174](reports/2017/232174.md) XSS on $shop$.myshopify.com/admin/ and partners.shopify.com via whitelist bypass in SVG icon for sales channel applications — shopify — high — $5,000 — Cross-site Scripting (XSS) - Stored
+- [266766](reports/2017/266766.md) Access Grab_Road BigData Database via Open Presto coordinator — grab — critical — $5,000 — Information Disclosure
+- [299728](reports/2018/299728.md) Markdown parsing issue enables insertion of malicious tags and event handlers — security — high — $5,000 — Cross-site Scripting (XSS) - Stored
+- [331040](reports/2018/331040.md) Определение id по номеру телефона — vkcom — medium — $5,000 — Information Disclosure
+- [300779](reports/2018/300779.md) Hack The World 2017 Top 2 Bonus — uber — - — $5,000 — 
+- [496937](reports/2019/496937.md) Employee's GitHub Token Found In Travis CI Build Logs — superhuman — high — $5,000 — Information Disclosure
+- [56385](reports/2019/56385.md) Double free vulnerability in Flash Player Settings Manager (CVE-2015-0346) — ibb — - — $5,000 — Memory Corruption - Generic
+- [139879](reports/2019/139879.md) Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability — ibb — - — $5,000 — Memory Corruption - Generic
+- [151043](reports/2019/151043.md) Adobe Flash Player PSDK Class Use After Free Vulnerability — ibb — - — $5,000 — Memory Corruption - Generic
+- [151039](reports/2019/151039.md) Adobe Flash Player TimedEvent.parent Memory Corruption Vulnerability — ibb — - — $5,000 — Memory Corruption - Generic
+- [119652](reports/2019/119652.md) Adobe Flash Player ASnative(101,10) Memory Corruption Vulnerability — ibb — - — $5,000 — Memory Corruption - Generic
+- [862589](reports/2020/862589.md) Spring Actuator endpoints publicly available, leading to account takeover — line — critical — $5,000 — Misconfiguration
+- [836649](reports/2020/836649.md) Stored XSS in markdown when redacting references — gitlab — high — $5,000 — Cross-site Scripting (XSS) - Stored
+- [982291](reports/2020/982291.md) HEY.com email stored XSS — basecamp — critical — $5,000 — Cross-site Scripting (XSS) - Stored
+- [776017](reports/2020/776017.md) Half-Blind SSRF found in kube/cloud-controller-manager can be upgraded to complete SSRF (fully crafted HTTP requests) in vendor managed k8s service. — kubernetes — high — $5,000 — Server-Side Request Forgery (SSRF)
+- [960244](reports/2020/960244.md) Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ... — gitlab — high — $5,000 — Type Confusion
+- [365271](reports/2020/365271.md) Remote code execution on Basecamp.com — basecamp — critical — $5,000 — Command Injection - Generic
+- [861744](reports/2021/861744.md) Remote Code Execution in coming Kibana 7.7.0 — elastic — critical — $5,000 — Privilege Escalation
+- [733267](reports/2021/733267.md) [Portal 2] Remote Code Execution via voice packets — valve — critical — $5,000 — Classic Buffer Overflow
+- [1104874](reports/2021/1104874.md) Insecure Bundler configuration fetching internal Gems (okra) from Rubygems.org — basecamp — high — $5,000 — Command Injection - Generic
+- [1213237](reports/2021/1213237.md) Deleting all DMs on RedditGifts.com — reddit — high — $5,000 — Insecure Direct Object Reference (IDOR)
+- [1409727](reports/2022/1409727.md) Full read SSRF via Lark Docs `import as docs` feature  — lark_technologies — critical — $5,000 — Server-Side Request Forgery (SSRF)
+- [1551176](reports/2022/1551176.md) Able to bypass email verification and change email to any other user email  — reddit — high — $5,000 — Improper Access Control - Generic
+- [1549206](reports/2022/1549206.md) Reflected xss in https://sh.reddit.com — reddit — high — $5,000 — Cross-site Scripting (XSS) - Reflected
+- [1543159](reports/2022/1543159.md) Able to approve admin approval and change effective status without adding payment details .  — reddit — high — $5,000 — Business Logic Errors
+- [1438052](reports/2022/1438052.md) Race condition in faucet when using starport — cosmos — critical — $5,000 — 
+- [1658418](reports/2022/1658418.md) Getting access of mod logs from any public or restricted subreddit with IDOR vulnerability — reddit — high — $5,000 — Insecure Direct Object Reference (IDOR)
+- [1547877](reports/2022/1547877.md) [Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia — aiven_ltd — critical — $5,000 — Unrestricted Upload of File with Dangerous Type
+- [1200647](reports/2022/1200647.md) Grafana RCE via SMTP server parameter injection — aiven_ltd — critical — $5,000 — CRLF Injection
+- [1529790](reports/2022/1529790.md) Kafka Connect RCE via connector SASL  JAAS JndiLoginModule configuration — aiven_ltd — critical — $5,000 — Deserialization of Untrusted Data
+- [1849626](reports/2023/1849626.md) Fee discounts can be redeemed many times, resulting in unlimited fee-free transactions — stripe — medium — $5,000 — Business Logic Errors
+- [1930763](reports/2023/1930763.md) RichText parser vulnerability in scheduled posts allows XSS — reddit — high — $5,000 — Cross-site Scripting (XSS) - Stored
+- [1962645](reports/2023/1962645.md) [accounts.reddit.com] Redirect parameter allows for XSS — reddit — high — $5,000 — Cross-site Scripting (XSS) - Generic
+- [2231019](reports/2023/2231019.md) CVE-2023-5528: Insufficient input sanitization in in-tree storage plugin leads to privilege escalation on Windows nodes — kubernetes — high — $5,000 — Code Injection
+- [2207248](reports/2024/2207248.md) IDOR on GraphQL queries BillingDocumentDownload and BillDetails — shopify — medium — $5,000 — Insecure Direct Object Reference (IDOR)
+- [2352968](reports/2024/2352968.md) Reflected XSS on Pangle Endpoint  — tiktok — high — $5,000 — Cross-site Scripting (XSS) - Reflected
+- [2105808](reports/2025/2105808.md) DOS of RSKJ server — rootstocklabs — high — $5,000 — Uncontrolled Resource Consumption
+- [3104356](reports/2025/3104356.md) Blu-ray Disc Java Sandbox Escape via two vulnerabilities  — playstation — medium — $5,000 — Execution with Unnecessary Privileges
+- [3712279](reports/2026/3712279.md) Burp Suite Professional: browser-powered crawl can write attacker-controlled files through file input handling — portswigger — high — $5,000 — Path Traversal
+- [2586226](reports/2024/2586226.md) CVE-2024-34750 Apache Tomcat DoS vulnerability in HTTP/2 connector — ibb — high — $4,920 — Uncontrolled Resource Consumption
+- [2585375](reports/2024/2585375.md) important: Apache HTTP Server: Crash resulting in Denial of Service in mod_proxy via a malicious request (CVE-2024-38477) — ibb — high — $4,920 — NULL Pointer Dereference
+- [2585376](reports/2024/2585376.md) important: Apache HTTP Server may use exploitable/malicious backend application output to run local handlers via internal redirect (CVE-2024-38476) — ibb — high — $4,920 — Inclusion of Functionality from Untrusted Control Sphere
+- [2585378](reports/2024/2585378.md) important: Apache HTTP Server weakness in mod_rewrite when first segment of substitution matches filesystem path. (CVE-2024-38475) — ibb — high — $4,920 — Improper Input Validation
+- [2585385](reports/2024/2585385.md) important: Apache HTTP Server on WIndows UNC SSRF (CVE-2024-38472) — ibb — high — $4,920 — Server-Side Request Forgery (SSRF)
+- [2585381](reports/2024/2585381.md) important: Apache HTTP Server weakness with encoded question marks in backreferences (CVE-2024-38474) — ibb — high — $4,920 — Improper Input Validation
+- [881557](reports/2022/881557.md) Stored XSS through PDF viewer — slack — high — $4,875 — Cross-site Scripting (XSS) - Stored
+- [2429894](reports/2024/2429894.md) Libuv: Improper Domain Lookup that potentially leads to SSRF attacks — ibb — high — $4,860 — Server-Side Request Forgery (SSRF)
+- [2438265](reports/2024/2438265.md) CVE-2024-27281: RCE vulnerability with .rdoc_options in RDoc — ibb — high — $4,860 — 
+- [2334401](reports/2024/2334401.md) Denial of Service caused by HTTP/2 CONTINUATION Flood — ibb — high — $4,860 — Uncontrolled Resource Consumption
+- [2094785](reports/2023/2094785.md)  Cargo not respecting umask when extracting crate archives — ibb — high — $4,660 — 
+- [2071554](reports/2023/2071554.md) [CVE-2023-27531] Possible Deserialization of Untrusted Data vulnerability in Kredis JSON — ibb — high — $4,660 — Deserialization of Untrusted Data
+- [2280391](reports/2023/2280391.md) Possibility of Request smuggling attack — ibb — high — $4,660 — HTTP Request Smuggling
+- [2326194](reports/2024/2326194.md) Argo CD CSRF leads to Kubernetes cluster compromise — ibb — high — $4,660 — Cross-Site Request Forgery (CSRF)
+- [2327341](reports/2024/2327341.md) CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (CWE: 444) — ibb — high — $4,660 — HTTP Request Smuggling
+- [2299692](reports/2024/2299692.md) Request Smuggling in Apache Tomcat (Important, CVE-2023-45648) — ibb — high — $4,660 — HTTP Request Smuggling
+- [1625652](reports/2022/1625652.md) Delimiter injection in GitHub Actions core.exportVariable — github — medium — $4,617 — Misconfiguration
+- [273946](reports/2017/273946.md) www.drivegrab.com SQL injection — grab — high — $4,500 — SQL Injection
+- [403616](reports/2018/403616.md) [www.zomato.com] SQLi - /php/██████████ - item_id — eternal — critical — $4,500 — SQL Injection
+- [508184](reports/2019/508184.md) Persistent XSS in Note objects — gitlab — high — $4,500 — Cross-site Scripting (XSS) - Stored
+- [746024](reports/2020/746024.md) SSRF on music.line.me through getXML.php — line — high — $4,500 — Server-Side Request Forgery (SSRF)
+- [530441](reports/2021/530441.md) Unauthorized access to █████████.com allows access to Uber Brazil tax documents and system. — uber — low — $4,500 — Improper Access Control - Generic
+- [3031518](reports/2025/3031518.md) CVE-2025-24813: Remote Code Execution and/or Information disclosure and/or malicious content added to uploaded files via write enabled Default Servlet — ibb — high — $4,323 — Deserialization of Untrusted Data
+- [3082917](reports/2025/3082917.md) Possible Sensitive Session Information Leak in Active Storage — ibb — high — $4,323 — Information Disclosure
+- [2646493](reports/2024/2646493.md) CVE-2024-42005: Potential SQL injection in QuerySet.values() and values_list() — ibb — high — $4,263 — 
+- [2612028](reports/2024/2612028.md) important: Apache HTTP Server: SSRF with mod_rewrite in server/vhost context on Windows (CVE-2024-40898) — ibb — high — $4,263 — 
+- [1714979](reports/2023/1714979.md) DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices) — ibb — high — $4,200 — Improper Access Control - Generic
+- [2051931](reports/2023/2051931.md) Blind SQL injection on id.indrive.com — indrive — critical — $4,134 — Blind SQL Injection
+- [150156](reports/2016/150156.md) SQL Injection on sctrack.email.uber.com.cn — uber — - — $4,000 — SQL Injection
+- [294911](reports/2017/294911.md) Admin Panel Accessed (OAuth Bypassed )  — mapbox — critical — $4,000 — Command Injection - Generic
+- [398799](reports/2019/398799.md) Unauthenticated blind SSRF in OAuth Jira authorization controller — gitlab — high — $4,000 — Server-Side Request Forgery (SSRF)
+- [363636](reports/2019/363636.md) DoS through PeerExplorer — rootstocklabs — high — $4,000 — Uncontrolled Resource Consumption
+- [340431](reports/2020/340431.md) Reflected XSS and sensitive data exposure, including payment details, on lioncityrentals.com.sg — uber — high — $4,000 — Cleartext Transmission of Sensitive Information
+- [858671](reports/2020/858671.md) Insufficient Type Check on GraphQL leading to Maintainer delete repository — gitlab — high — $4,000 — Improper Access Control - Generic
+- [946728](reports/2020/946728.md) SafeParamsHelper::safe_params is not so safe — gitlab — high — $4,000 — Cross-site Scripting (XSS) - Reflected
+- [1170024](reports/2021/1170024.md) Attacker can obtain write access to any federated share/public link — nextcloud — high — $4,000 — Improper Authentication - Generic
+- [1394916](reports/2021/1394916.md) Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49 — ibb — critical — $4,000 — Path Traversal
+- [1518036](reports/2022/1518036.md) Regexes with large repetitions on empty sub-expressions take a very long time to parse — ibb — high — $4,000 — Uncontrolled Resource Consumption
+- [1520931](reports/2022/1520931.md) Time-of-check to time-of-use vulnerability in the std::fs::remove_dir_all() function of the Rust standard library — ibb — high — $4,000 — Time-of-check Time-of-use (TOCTOU) Race Condition
+- [1549636](reports/2022/1549636.md) CVE-2022-28738: Double free in Regexp compilation — ibb — high — $4,000 — Double Free
+- [671935](reports/2022/671935.md) SSRF via Office file thumbnails — slack — critical — $4,000 — Information Disclosure
+- [1667974](reports/2022/1667974.md) Pause-based desync in Apache HTTPD — ibb — high — $4,000 — HTTP Request Smuggling
+- [1628209](reports/2022/1628209.md) SSRF in Functional Administrative Support Tool pdf generator (████) [HtUS] — deptofdefense — critical — $4,000 — Server-Side Request Forgery (SSRF)
+- [1637621](reports/2022/1637621.md) Command injection in GitHub Actions ContainerStepHost — github — none — $4,000 — Resource Injection
+- [1619604](reports/2022/1619604.md) DoS via markdown API from unauthenticated user — github — medium — $4,000 — Uncontrolled Resource Consumption
+- [1804128](reports/2022/1804128.md) ReDoS (Rails::Html::PermitScrubber.scrub_attribute) — ibb — high — $4,000 — 
+- [1776476](reports/2023/1776476.md) CVE-2022-40127: RCE in Apache Airflow <2.4.0 bash example — ibb — high — $4,000 — Code Injection
+- [1888803](reports/2023/1888803.md) Use of Cryptographically Weak Pseudo-Random Number Generator in WebCrypto keygen — ibb — high — $4,000 — 
+- [1929567](reports/2023/1929567.md) ReDoS( Ruby, Time) — ibb — high — $4,000 — Uncontrolled Resource Consumption
+- [2505761](reports/2024/2505761.md) Information Leakage via Clicked Link in GitHub Repository (Fingerprinting) — github — medium — $4,000 — Information Disclosure
+- [4000084](reports/2026/4000084.md) A disabled account's API key still works on BMO's Mojolicious /rest/ routes, including for security-group bugs filed after the disable — mozilla — high — $4,000 — Improper Authentication - Generic
+- [1695604](reports/2025/1695604.md) DoS Vulnerability via Cache Poisoning on cdn.shopify.com and shopify-assets.shopifycdn.com — shopify — medium — $3,800 — Cache Poisoning
+- [815085](reports/2024/815085.md) Account creation with invalid email addresses / email is accepting % and %0d%0a line termination chars — security — low — $3,750 — Violation of Secure Design Principles
+- [630462](reports/2019/630462.md) Heap overflow happen when receiving short length key from ssh server using ssh protocol 1 — putty_h1c — high — $3,645.90 — Heap Overflow
+- [2453328](reports/2024/2453328.md) Assertion failed in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash — ibb — high — $3,645 — Uncontrolled Resource Consumption
+- [374737](reports/2018/374737.md) Blind SSRF on errors.hackerone.net due to Sentry misconfiguration — security — low — $3,500 — Server-Side Request Forgery (SSRF)
+- [450796](reports/2019/450796.md) XSSI on refer.xoom.com allows stealing email addresses and posting to Twitter on behalf of victim — paypal — medium — $3,500 — Cross-Site Request Forgery (CSRF)
+- [460545](reports/2019/460545.md) information disclosure of secret_key_base via encoding charcters — gitlab — high — $3,500 — Information Exposure Through an Error Message
+- [662287](reports/2019/662287.md) Cross-site Scripting (XSS) - Stored in RDoc wiki pages — gitlab — high — $3,500 — UI Redressing (Clickjacking)
+- [653125](reports/2019/653125.md) Git flag injection leading to file overwrite and potential remote code execution — gitlab — critical — $3,500 — Command Injection - Generic
+- [333419](reports/2020/333419.md) TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services — slack — critical — $3,500 — Server-Side Request Forgery (SSRF)
+- [1363672](reports/2021/1363672.md) Bypass a fix for report #708013 — shopify — medium — $3,500 — Improper Restriction of Authentication Attempts
+- [1410459](reports/2022/1410459.md) Reflected XSS online-store-git.shopifycloud.com — shopify — medium — $3,500 — Cross-site Scripting (XSS) - Reflected
+- [1378889](reports/2022/1378889.md) [Android] Directory traversal leading to disclosure of auth tokens — slack — high — $3,500 — Path Traversal
+- [723307](reports/2023/723307.md) Stored XSS in merge request pages — gitlab — high — $3,500 — Cross-site Scripting (XSS) - Stored
+- [2280279](reports/2025/2280279.md) total Failure of password protection while extracting seed phrase! increases attack surface area for scammers — metamask — medium — $3,500 — Authentication Bypass Using an Alternate Path or Channel
+- [2078581](reports/2023/2078581.md) CVE-2023-30587 Process-based permissions can be bypassed with the "inspector" module. — ibb — high — $3,495 — Improper Access Control - Generic
+- [2256167](reports/2024/2256167.md) Path traversal through path stored in Uint8Array in Node.js 20 — ibb — high — $3,495 — Path Traversal
+- [2375446](reports/2024/2375446.md) http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks — ibb — high — $3,495 — Uncontrolled Resource Consumption
+- [1122408](reports/2021/1122408.md) CSRF on /api/graphql allows executing mutations through GET requests — gitlab — high — $3,370 — Cross-Site Request Forgery (CSRF)
+- [1952124](reports/2023/1952124.md) Cloudflare CASB Confused Deputy Problem — cloudflare — critical — $3,300 — 
+- [1534636](reports/2022/1534636.md) Stored XSS in photos_user_map.gne — flickr — high — $3,263 — Cross-site Scripting (XSS) - Stored
+- [1330529](reports/2022/1330529.md) Claiming the listing of a non-delivery restaurant through OTP manipulation — eternal — critical — $3,250 — Improper Authorization
+- [1086108](reports/2021/1086108.md) [h1-2102] FQDN takeover on all Shopify wholesale customer domains by trailing dot (RFC 1034) — shopify — medium — $3,100 — Incorrect Permission Assignment for Critical Resource
+- [1575912](reports/2022/1575912.md) HTTP request smuggling with Origin Rules using newlines in the host_header action parameter — cloudflare — critical — $3,100 — HTTP Request Smuggling
+- [3954327](reports/2026/3954327.md) Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadata — shopify — medium — $3,100 — Missing Authentication for Critical Function
+- [26962](reports/2015/26962.md) open redirect in rfc6749 — ibb — - — $3,000 — Open Redirect
+- [125027](reports/2016/125027.md) Reflected XSS on developer.uber.com via Angular template injection — uber — - — $3,000 — Cross-site Scripting (XSS) - Generic
+- [125112](reports/2016/125112.md) XSS in getrush.uber.com  — uber — - — $3,000 — Cross-site Scripting (XSS) - Generic
+- [125791](reports/2016/125791.md) Reflected XSS via Unvalidated / Open Redirect in uber.com — uber — - — $3,000 — 
+- [126906](reports/2016/126906.md) Stored XSS in archive.uber.com Due to Injection of Javascript:alert(0) — uber — - — $3,000 — Cross-site Scripting (XSS) - Generic
+- [125932](reports/2016/125932.md) SQL injection in Wordpress Plugin Huge IT Video Gallery at https://drive.uber.com/frmarketplace/ — uber — - — $3,000 — SQL Injection
+- [125200](reports/2016/125200.md) Lack of rate limiting on get.uber.com leads to enumeration of promotion codes and estimation of a lower bound on the number of Uber drivers — uber — - — $3,000 — Information Disclosure
+- [154425](reports/2016/154425.md) Subdomain takeover on http://fastly.sc-cdn.net/ — snapchat — - — $3,000 — Violation of Secure Design Principles
+- [151465](reports/2016/151465.md) Get organization info base on uuid — uber — - — $3,000 — Improper Authentication - Generic
+- [231053](reports/2017/231053.md) XSS on any Shopify shop via abuse of the HTML5 structured clone algorithm in postMessage listener on "/:id/digital_wallets/dialog" — shopify — - — $3,000 — Cross-site Scripting (XSS) - DOM
+- [253429](reports/2017/253429.md) Linux TBB SFTP URI allows local IP disclosure — torproject — critical — $3,000 — Information Disclosure
+- [307050](reports/2018/307050.md) Leak ██████████ information in real time through API request — grab — high — $3,000 — Improper Authentication - Generic
+- [125707](reports/2018/125707.md) Possibility to enumerate and bruteforce promotion codes in Uber iOS App — uber — medium — $3,000 — Improper Restriction of Authentication Attempts
+- [299424](reports/2018/299424.md) Bypass Filter and get Stored Xss  — shopify — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [129582](reports/2019/129582.md) Reflected XSS POST method at partners.uber.com — uber — medium — $3,000 — Cross-site Scripting (XSS) - Reflected
+- [410015](reports/2019/410015.md) Discrepancy in hacker profile report count may reveal existence of a private program by publishing a report — security — medium — $3,000 — Information Disclosure
+- [470067](reports/2019/470067.md) DoS on the Issue page by exploiting Mermaid. — gitlab — medium — $3,000 — Uncontrolled Resource Consumption
+- [421859](reports/2019/421859.md) H1514 [*.(my)shopify.com] - Viewing Password Protected Content — shopify — critical — $3,000 — Improper Authentication - Generic
+- [513154](reports/2019/513154.md) Unchecked weapon id in WeaponList message parser on client leads to RCE — valve — critical — $3,000 — Array Index Underflow
+- [136454](reports/2019/136454.md) User credentials leak and arbitrary local file read/leak due to same-origin-policy violation — ibb — - — $3,000 — Information Disclosure
+- [78158](reports/2019/78158.md) Wrong Handling of Content-Type allows Flash injection and Rosseta flash patch bypass — ibb — - — $3,000 — Cross-site Scripting (XSS) - Generic
+- [948929](reports/2020/948929.md) Blind Stored XSS Via Staff Name — shopify — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [819821](reports/2020/819821.md) Initial mirror user can be assigned by other user even if the mirror was removed — gitlab — medium — $3,000 — Improper Access Control - Generic
+- [855276](reports/2020/855276.md) Injection of `http.<url>.*` git config settings leading to SSRF — gitlab — high — $3,000 — Server-Side Request Forgery (SSRF)
+- [856836](reports/2020/856836.md) Stored XSS on PyPi simple API endpoint — gitlab — medium — $3,000 — Cross-site Scripting (XSS) - Stored
+- [922456](reports/2020/922456.md) Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties — gitlab — high — $3,000 — Authentication Bypass Using an Alternate Path or Channel
+- [856554](reports/2021/856554.md) Stored XSS on the job page — gitlab — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [892049](reports/2021/892049.md) Stored XSS & SSRF in Lark Docs — lark_technologies — critical — $3,000 — Server-Side Request Forgery (SSRF)
+- [397497](reports/2021/397497.md) Stored XSS on auth.uber.com/oauth/v2/authorize via redirect_uri parameter leads to Account Takeover — uber — medium — $3,000 — Cross-site Scripting (XSS) - Stored
+- [392106](reports/2021/392106.md) [First 30] Stored XSS on login.uber.com/oauth/v2/authorize via redirect_uri parameter — uber — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [1103582](reports/2021/1103582.md) HackerOne Jira integration plugin Leaked JWT to unauthorized jira users — security — medium — $3,000 — Improper Authentication - Generic
+- [402658](reports/2021/402658.md) XSS in request approvals — gitlab — medium — $3,000 — Cross-site Scripting (XSS) - Stored
+- [484745](reports/2021/484745.md) GoldSrc: Buffer Overflow in DELTA_ParseDelta function leads to RCE — valve — critical — $3,000 — Stack Overflow
+- [1103258](reports/2021/1103258.md) Stored DOM XSS via Mermaid chart — gitlab — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [1106238](reports/2021/1106238.md) Stored XSS via Mermaid Prototype Pollution vulnerability — gitlab — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [1198517](reports/2021/1198517.md) Stored XSS in custom emoji — gitlab — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [1280002](reports/2021/1280002.md) Stored XSS via Mermaid Prototype Pollution vulnerability — gitlab — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [927338](reports/2021/927338.md) LINE Profile ID leaks in OpenChat — line — high — $3,000 — 
+- [1283938](reports/2021/1283938.md) Missing authentication in buddy group API of LINE TIMELINE — line — medium — $3,000 — Improper Authentication - Generic
+- [1250037](reports/2022/1250037.md) Email change or personal data change on the account. — stripe — critical — $3,000 — Insecure Direct Object Reference (IDOR)
+- [1343528](reports/2022/1343528.md) Уязвимость в приложении для Android — vkcom — high — $3,000 — Improper Authentication - Generic
+- [1401444](reports/2022/1401444.md) RCE via WikiCloth markdown rendering if the `rubyluabridge` gem is installed — gitlab — - — $3,000 — OS Command Injection
+- [1378413](reports/2022/1378413.md) Reflected XSS on TikTok Website — tiktok — medium — $3,000 — Cross-site Scripting (XSS) - Reflected
+- [1398305](reports/2022/1398305.md) Stored XSS on issue comments and other pages which contain notes — gitlab — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [1864188](reports/2023/1864188.md) SSRF in graphQL query (pwapi.ex2b.com) — exness — medium — $3,000 — Server-Side Request Forgery (SSRF)
+- [1274695](reports/2023/1274695.md) RCE of Burp  Scanner / Crawler via Clickjacking  — portswigger — high — $3,000 — Command Injection - Generic
+- [2110030](reports/2024/2110030.md) Race Condition Enables Bypassing Verification Check — toolsforhumanity — high — $3,000 — Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+- [3183520](reports/2026/3183520.md) Non-premium user can disable Ads in japanese version of dic.pixiv.net — pixiv — high — $3,000 — Business Logic Errors
+- [3861550](reports/2026/3861550.md) connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint→Newtonsoft serializer coercion (TypeNameHandling) — 8x8-bounty — critical — $3,000 — Deserialization of Untrusted Data
+- [3988961](reports/2026/3988961.md) Stored XSS on the public Pontoon dashboards: the latest-activity tooltip re-parses a contributor's account address as HTML — mozilla — high — $3,000 — Cross-site Scripting (XSS) - Stored
+- [434763](reports/2018/434763.md) Incorrect details on OAuth permissions screen allows DMs to be read without permission — x — medium — $2,940 — Privacy Violation
+- [472013](reports/2019/472013.md) Changing email address on Twitter for Android unsets "Protect your Tweets" — x — low — $2,940 — Privacy Violation
+- [805073](reports/2020/805073.md) Periscope iOS app CSRF in follow action due to deeplink — x — low — $2,940 — Cross-Site Request Forgery (CSRF)
+- [1021906](reports/2020/1021906.md) [Information Disclosure] Amazon S3 Bucket of Shopify Ping (iOS) have public access of other users image — shopify — medium — $2,900 — Information Disclosure
+- [1096609](reports/2021/1096609.md) https://themes.shopify.com::: Host header web cache poisoning lead to DoS — shopify — medium — $2,900 — Uncontrolled Resource Consumption
+- [1044285](reports/2021/1044285.md) Removing parts of URL from jQuery request exposes links for download of Paid Digital Assets of the most recent Order placed by anyone on the store! — shopify — medium — $2,900 — 
+- [1472471](reports/2022/1472471.md) Xss triggered in Your-store.myshopify.com/admin/apps/shopify-email/editor/**** — shopify — medium — $2,900 — Cross-site Scripting (XSS) - Stored
+- [1417288](reports/2022/1417288.md) Admin panel Exposure without credential at https://plus-website.shopifycloud.com/admin.php — shopify — medium — $2,900 — Improper Access Control - Generic
+- [489102](reports/2020/489102.md) VLC 4.0.0 - Stack Buffer Overflow (SEH) — vlc_h1c — high — $2,817.28 — Stack Overflow
+- [1062888](reports/2021/1062888.md) External SSRF and Local File Read via video upload due to vulnerable FFmpeg HLS processing — tiktok — high — $2,727 — Server-Side Request Forgery (SSRF)
+- [2584376](reports/2024/2584376.md) ReDoS Vulnerability in HTTP Accept Headers Parsing — ibb — medium — $2,642 — 
+- [2542806](reports/2024/2542806.md) [CVE-2024-32464] ActionText ContentAttachment’s can Contain Unsanitized HTML — ibb — medium — $2,600 — Cross-site Scripting (XSS) - Stored
+- [2526041](reports/2024/2526041.md) CVE-2024-35200 in nginx — ibb — medium — $2,600 — NULL Pointer Dereference
+- [2526051](reports/2024/2526051.md) CVE-2024-31079 in nginx — ibb — medium — $2,600 — Stack Overflow
+- [2526046](reports/2024/2526046.md) CVE-2024-32760 in nginx — ibb — medium — $2,600 — 
+- [2599391](reports/2024/2599391.md) CVE-2024-3416: MTU of 4096 or greater without fragmentation may cause NGINX worker processes to leak previously freed memory — ibb — medium — $2,600 — Information Disclosure
+- [2585384](reports/2024/2585384.md) moderate: Apache HTTP Server proxy encoding problem (CVE-2024-38473) — ibb — medium — $2,600 — Improper Input Validation
+- [2585373](reports/2024/2585373.md) moderate: Apache HTTP Server: HTTP response splitting (CVE-2023-38709) — ibb — medium — $2,600 — HTTP Response Splitting
+- [2585374](reports/2024/2585374.md) moderate: Apache HTTP Server: mod_rewrite proxy handler substitution (CVE-2024-39573) CWE-20 Improper Input Validation — ibb — medium — $2,600 — Improper Input Validation
+- [2435482](reports/2024/2435482.md) CVE-2024-2466: TLS certificate check bypass with mbedTLS (reward request) — ibb — medium — $2,580 — Improper Certificate Validation
+- [2453322](reports/2024/2453322.md) Apache HTTP Server: HTTP/2 DoS by memory exhaustion on endless continuation frames — ibb — medium — $2,580 — Uncontrolled Resource Consumption
+- [2123113](reports/2023/2123113.md) SSRF Vulnerability through Connection test feature — ibb — medium — $2,550 — Server-Side Request Forgery (SSRF)
+- [2138080](reports/2023/2138080.md) Context isolation bypass via nested unserializable return value — ibb — medium — $2,550 — Privilege Escalation
+- [2071556](reports/2023/2071556.md) [CVE-2023-27539] Possible Denial of Service Vulnerability in Rack’s header parsing — ibb — medium — $2,540 — 
+- [2071561](reports/2023/2071561.md) CVE-2023-36617: ReDoS vulnerability in URI (Ruby) — ibb — medium — $2,540 — 
+- [2123094](reports/2023/2123094.md) Argocd's web terminal session doesn't expire — ibb — medium — $2,540 — Insufficient Session Expiration
+- [2146691](reports/2023/2146691.md) [curl] CVE-2023-38039: HTTP header allocation DOS — ibb — medium — $2,540 — Allocation of Resources Without Limits or Throttling
+- [2091137](reports/2023/2091137.md) OpenSSL engines can be used to bypass and/or disable the Node.js permission model — ibb — medium — $2,540 — Privilege Escalation
+- [2258758](reports/2023/2258758.md) CVE-2023-46695: Potential denial of service vulnerability in UsernameField on Windows — ibb — medium — $2,540 — Uncontrolled Resource Consumption
+- [2270225](reports/2023/2270225.md) OpenSSL vulnerable to the Marvin Attack (CVE-2022-4304) — ibb — medium — $2,540 — Information Exposure Through Timing Discrepancy
+- [2274981](reports/2023/2274981.md) curl cookie mixed case PSL bypass — ibb — medium — $2,540 — Information Exposure Through Sent Data
+- [2271095](reports/2024/2271095.md) ASAR Integrity bypass via filetype confusion — ibb — medium — $2,540 — 
+- [35102](reports/2014/35102.md) Locale::parseLocale Double Free — ibb — - — $2,500 — 
+- [92453](reports/2015/92453.md) unauthorized access to all customers first and last name  — shopify — - — $2,500 — Improper Authentication - Generic
+- [93921](reports/2015/93921.md) Unauthorized access to all collections, products, pages from other stores — shopify — - — $2,500 — Improper Authentication - Generic
+- [103787](reports/2015/103787.md) CSRF possible when SOP Bypass/UXSS is available  — security — - — $2,500 — Cross-Site Request Forgery (CSRF)
+- [113288](reports/2016/113288.md) OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701)  — ibb — - — $2,500 — Cryptographic Issues - Generic
+- [136986](reports/2016/136986.md) Padding oracle in AES-NI CBC MAC check (CVE-2016-2107) — ibb — - — $2,500 — Cryptographic Issues - Generic
+- [206872](reports/2017/206872.md) SQL injection in 3rd party software Anomali — uber — high — $2,500 — SQL Injection
+- [197279](reports/2018/197279.md) [m.airbnb.com] CRLF Injection — airbnb — low — $2,500 — HTTP Response Splitting
+- [334205](reports/2018/334205.md) Harvesting all private invites using leave program fast-tracked invitation and security@ email forwarding feature — security — medium — $2,500 — Business Logic Errors
+- [343464](reports/2018/343464.md) Team object in GraphQL discloses team group names and permissions — security — medium — $2,500 — Information Disclosure
+- [347693](reports/2018/347693.md) Program metrics disclosed response_efficiency_percentage via /program_name json response despite the team decided not to show on their profile — security — medium — $2,500 — Information Disclosure
+- [342978](reports/2018/342978.md) Team object in GraphQL disclosed total number of whitelisted hackers — security — medium — $2,500 — Information Disclosure
+- [386997](reports/2018/386997.md) Private program policy page still accessible after user left the program — security — medium — $2,500 — Information Disclosure
+- [427502](reports/2018/427502.md) Proper verification is not done before sending invitations to researchers for certain private programs with rules e.g. "Participants must be US-based" — security — medium — $2,500 — Improper Access Control - Generic
+- [449351](reports/2018/449351.md) IE only: stored Cross-Site Scripting (XSS) vulnerability through Program Asset identifier — security — medium — $2,500 — Cross-site Scripting (XSS) - Stored
+- [452959](reports/2018/452959.md) A user can bypass approval step in Hacker Publishing feature, allowing them to publish reports immediately — security — medium — $2,500 — Incorrect Authorization
+- [409370](reports/2018/409370.md) Denial of service via cache poisoning — security — medium — $2,500 — Uncontrolled Resource Consumption
+- [407971](reports/2019/407971.md) [help.steampowered.com] Account takeover bruteforcing SteamGuard — valve — high — $2,500 — Business Logic Errors
+- [603764](reports/2019/603764.md) DOM Based XSS via postMessage at https://inventory.upserve.com/login/ — upserve — high — $2,500 — Cross-site Scripting (XSS) - DOM
+- [665722](reports/2019/665722.md) “email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired — superhuman — medium — $2,500 — Improper Authentication - Generic
+- [715192](reports/2019/715192.md) Private program disclosure via `vpn_suspended` GraphQL query — security — none — $2,500 — Information Disclosure
+- [770209](reports/2020/770209.md) Unauthorized user can obtain `report_sources` attribute through Team GraphQL object — security — medium — $2,500 — Information Disclosure
+- [887321](reports/2020/887321.md) Uploading large payload on domain instructions causes server-side DoS — security — medium — $2,500 — Uncontrolled Resource Consumption
+- [880187](reports/2020/880187.md) Near to Infinite loop when changing Group's name that has API token as Team Member — security — medium — $2,500 — 
+- [877642](reports/2020/877642.md) GraphQL field on Team node can be used to determine if External Program runs invite-only program — security — medium — $2,500 — Information Disclosure
+- [647130](reports/2020/647130.md) Stored XSS in "Create Groups" — gitlab — high — $2,500 — Cross-site Scripting (XSS) - Stored
+- [978143](reports/2020/978143.md) Team object in GraphQL disclosed private_comment — security — medium — $2,500 — Information Disclosure
+- [476150](reports/2021/476150.md) SQLI on desafio5estrelas.com  — uber — medium — $2,500 — SQL Injection
+- [544096](reports/2021/544096.md) [Source Engine] Material path truncation leads to Remote Code Execution — valve — high — $2,500 — Improper Input Validation
+- [550625](reports/2021/550625.md) [CS:GO] Unchecked texture file name with TEXTUREFLAGS_DEPTHRENDERTARGET can lead to Remote Code Execution — valve — high — $2,500 — Stack Overflow
+- [170552](reports/2021/170552.md) Slack integration setup lacks CSRF protection — security — high — $2,500 — Cross-Site Request Forgery (CSRF)
+- [493176](reports/2021/493176.md) Partial report contents leakage - via HTTP/2 concurrent stream handling — security — medium — $2,500 — Information Disclosure
+- [1276992](reports/2021/1276992.md) Disclosure handle private program with external link — security — medium — $2,500 — 
+- [1392630](reports/2021/1392630.md) IDOR the ability to view support tickets of any user on seller platform — tiktok — medium — $2,500 — Insecure Direct Object Reference (IDOR)
+- [968165](reports/2022/968165.md) Disclose customer orders details by shopify chat application. — shopify — medium — $2,500 — Information Disclosure
+- [1493437](reports/2022/1493437.md) CSRF token validation system is disabled on Stripe Dashboard — stripe — medium — $2,500 — Cross-Site Request Forgery (CSRF)
+- [1546935](reports/2022/1546935.md) Stack Buffer Overflow via `gmp_sprintf`in `BLSSignature` and `BLSSigShare` — skale_network — medium — $2,500 — Classic Buffer Overflow
+- [1549451](reports/2022/1549451.md) DOM XSS on ads.tiktok.com — tiktok — medium — $2,500 — Cross-site Scripting (XSS) - DOM
+- [1382919](reports/2022/1382919.md) Ingress-nginx path allows retrieval of ingress-nginx serviceaccount token — kubernetes — high — $2,500 — Privilege Escalation
+- [1580493](reports/2023/1580493.md) Bypass validation parts in AWS IAM Authenticator for Kubernetes — kubernetes — high — $2,500 — Improper Authentication - Generic
+- [1543234](reports/2023/1543234.md) CSRF protection bypass on TikTok Webcast Endpoints — tiktok — medium — $2,500 — Cross-Site Request Forgery (CSRF)
+- [1842829](reports/2023/1842829.md) Privilege Escalation in kOps using GCE/GCP Provider — kubernetes — high — $2,500 — Privilege Escalation
+- [2061367](reports/2023/2061367.md) Triager/Team members can edit  hacker's report and hacker is not even notified — security — medium — $2,500 — 
+- [2039464](reports/2023/2039464.md) Code inject via nginx.ingress.kubernetes.io/permanent-redirect annotation — kubernetes — high — $2,500 — Code Injection
+- [1620702](reports/2023/1620702.md) RCE  on ingress-nginx-controller via Ingress spec.rules.http.paths.path field — kubernetes — high — $2,500 — Code Injection
+- [1728174](reports/2023/1728174.md) Ingress nginx annotation injection causes arbitrary command execution — kubernetes — high — $2,500 — Code Injection
+- [2301565](reports/2024/2301565.md) Server Side Request Forgery (SSRF) in webhook functionality — security — medium — $2,500 — Server-Side Request Forgery (SSRF)
+- [2483666](reports/2024/2483666.md) [IDOR] Improper Access Control on Embedded Submission Form — security — low — $2,500 — Insecure Direct Object Reference (IDOR)
+- [2552205](reports/2024/2552205.md) Private draft report exposure in a program a user is added as a viewer to — security — medium — $2,500 — Information Disclosure
+- [2798380](reports/2024/2798380.md) Hackerone supports accounts organitation takeover — security — medium — $2,500 — 
+- [3452696](reports/2026/3452696.md) PS4 BD-J privilege escalation using nested JAR — playstation — medium — $2,500 — Privilege Escalation
+- [3489490](reports/2026/3489490.md) Authentication Bypass in ID4me handling via Missing JWT Signature Verification in User OIDC — nextcloud — high — $2,500 — Improper Authentication - Generic
+- [2078571](reports/2023/2078571.md) [curl] CVE-2023-32001: fopen race condition — ibb — medium — $2,480 — Time-of-check Time-of-use (TOCTOU) Race Condition
+- [2065306](reports/2023/2065306.md) odbc apache airflow provider code execution vulnerability — ibb — medium — $2,480 — Privilege Escalation
+- [1923672](reports/2023/1923672.md) Account takeover due to insufficient URL validation on RelayState parameter — gitlab — medium — $2,450 — Cross-Site Request Forgery (CSRF)
+- [2434811](reports/2024/2434811.md) Path traversal by monkey-patching Buffer internals — ibb — high — $2,430 — Path Traversal
+- [1551586](reports/2022/1551586.md) CVE-2022-27774: Credential leak on redirect — ibb — medium — $2,400 — Insufficiently Protected Credentials
+- [1565624](reports/2022/1565624.md) CVE-2022-27782: TLS and SSH connection too eager reuse — ibb — medium — $2,400 — Business Logic Errors
+- [1565623](reports/2022/1565623.md) CVE-2022-27778: curl removes wrong file on error — ibb — medium — $2,400 — Business Logic Errors
+- [1599573](reports/2022/1599573.md) Rails::Html::SafeListSanitizer vulnerable to xss attack in an environment that allows the style tag — ibb — medium — $2,400 — Cross-site Scripting (XSS) - Generic
+- [1614331](reports/2022/1614331.md) CVE-2022-32207: Unpreserved file permissions — ibb — medium — $2,400 — Business Logic Errors
+- [1614330](reports/2022/1614330.md) CVE-2022-32206: HTTP compression denial of service — ibb — medium — $2,400 — Allocation of Resources Without Limits or Throttling
+- [1594627](reports/2022/1594627.md) Apache HTTP Server: mod_proxy_ajp: Possible request smuggling — ibb — medium — $2,400 — 
+- [1627159](reports/2022/1627159.md) Rack CVE-2022-30122: Denial of Service Vulnerability in Rack Multipart Parsing — ibb — medium — $2,400 — 
+- [1690093](reports/2022/1690093.md) Airflow Daemon Mode Insecure Umask Privilege Escalation — ibb — medium — $2,400 — Incorrect Permission Assignment for Critical Resource
+- [1746098](reports/2022/1746098.md) potential denial of service attack via the locale parameter — ibb — medium — $2,400 — Uncontrolled Resource Consumption
+- [1752146](reports/2022/1752146.md) POST following PUT confusion — ibb — medium — $2,400 — Information Disclosure
+- [1805899](reports/2023/1805899.md) CVE-2022-23519: Rails::Html::SafeListSanitizer vulnerable to XSS when certain tags are allowed (math+style || svg+style) — ibb — medium — $2,400 — Cross-site Scripting (XSS) - Generic
+- [1805893](reports/2023/1805893.md)  CVE-2022-23520: Incomplete fix for CVE-2022-32209 (XSS in Rails::Html::Sanitizer under certain configurations) — ibb — medium — $2,400 — Cross-site Scripting (XSS) - Generic
+- [1805873](reports/2023/1805873.md) Rails ActionView sanitize helper bypass leading to XSS using SVG tag. — ibb — medium — $2,400 — Cross-site Scripting (XSS) - Generic
+- [1891795](reports/2023/1891795.md) RCE vulnerability in apache-airflow-providers-apache-sqoop 3.1.0 — ibb — medium — $2,400 — Code Injection
+- [1904097](reports/2023/1904097.md) Potential DoS vulnerability in Django in multipart parser — ibb — medium — $2,400 — Uncontrolled Resource Consumption
+- [1912778](reports/2023/1912778.md) CVE-2023-27535: FTP too eager connection reuse — ibb — medium — $2,400 — Business Logic Errors
+- [1865991](reports/2023/1865991.md) Open Redirect Vulnerability in Action Pack — ibb — medium — $2,400 — Open Redirect
+- [1888758](reports/2023/1888758.md) Inadequate Encryption Strength in nodejs-current reads openssl.cnf from /home/iojs/build/... upon startup on MacOS — ibb — medium — $2,400 — Cryptographic Issues - Generic
+- [1895277](reports/2023/1895277.md) Apache Airflow Google Cloud Sql Provider Remote Command Execution — ibb — medium — $2,400 — Improper Input Validation
+- [1872682](reports/2023/1872682.md) Privilege Esacalation at Apache Airflow 2.5.1  — ibb — medium — $2,400 — 
+- [1916583](reports/2023/1916583.md) Authenticated but unauthorized users may enumerate Application names via the API — ibb — medium — $2,400 — Information Exposure Through an Error Message
+- [1966083](reports/2023/1966083.md) CVE-2023-28710 Apache Airflow Spark Provider Arbitrary File Read via JDBC — ibb — medium — $2,400 — Improper Input Validation
+- [2225660](reports/2023/2225660.md) Permission model improperly protects against path traversal in Node.js 20 — ibb — high — $2,330 — Path Traversal
+- [1543584](reports/2022/1543584.md) DOS via move_issue — gitlab — medium — $2,300 — Uncontrolled Resource Consumption
+- [2499070](reports/2024/2499070.md) DOS: taking down a 1k users Gitlab EE instance or multiple Sidekiq instances by importing a malicious repo from a Github EE self-hosted server — gitlab — medium — $2,300 — Uncontrolled Resource Consumption
+- [2795558](reports/2024/2795558.md) CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize() — ibb — medium — $2,162 — Allocation of Resources Without Limits or Throttling
+- [2881639](reports/2025/2881639.md) CVE-2024-45230 - Potential denial-of-service in django.utils.html.urlize() (Another pattern) — ibb — medium — $2,162 — Allocation of Resources Without Limits or Throttling
+- [2921724](reports/2025/2921724.md) Deadlock in x86 HVM standard VGA handling — ibb — medium — $2,162 — Improper Input Validation
+- [2939104](reports/2025/2939104.md) CVE-2024-56374:  Denial-of-service vulnerability in IPv6 validation — ibb — medium — $2,162 — 
+- [2978267](reports/2025/2978267.md) TLS client authentication can be bypassed due to ticket resumption — ibb — medium — $2,162 — Improper Authentication - Generic
+- [2591681](reports/2024/2591681.md) CVE-2024-38875: Denial-Of-Service through uncontrolled resource consumption caused by poor time complexity of strip_punctuation . — ibb — medium — $2,142 — Uncontrolled Resource Consumption
+- [2645836](reports/2024/2645836.md) [CVE-2024-35176] DoS vulnerability in REXML — ibb — medium — $2,142 — Allocation of Resources Without Limits or Throttling
+- [2658447](reports/2024/2658447.md) CVE-2024-7347: Buffer overread in the ngx_http_mp4_module — ibb — medium — $2,142 — Buffer Over-read
+- [2644244](reports/2024/2644244.md) CVE-2024-41989: Denial-Of-Service vulnerability in the floatformat template filter when input string contains a big exponent in scientific notation — ibb — medium — $2,142 — Uncontrolled Resource Consumption
+- [168538](reports/2016/168538.md) Twitter iOS fails to validate server certificate and sends oauth token — x — high — $2,100 — Cryptographic Issues - Generic
+- [615672](reports/2022/615672.md) Cross-site scripting on algorithm collaborator  — quantopian — high — $2,100 — Cross-site Scripting (XSS) - Stored
+- [2107](reports/2014/2107.md) Handling of jar: URIs bypasses AllowScriptAccess=never — ibb — - — $2,000 — 
+- [6380](reports/2014/6380.md) Same Origin Security Bypass Vulnerability — ibb — - — $2,000 — 
+- [7803](reports/2014/7803.md) Security bypass could lead to information disclosure — ibb — - — $2,000 — 
+- [47472](reports/2015/47472.md) CSP Bypass: Click handler for links with data-method="post" can cause authenticity_token to be sent off domain — security — - — $2,000 — Cross-Site Request Forgery (CSRF)
+- [36279](reports/2015/36279.md) Adobe Flash Player MP4 Use-After-Free Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [30567](reports/2015/30567.md) Adobe Flash Player MP4 Use-After-Free Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [47012](reports/2015/47012.md) Adobe Flash Player Out-of-Bound Access Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [93004](reports/2015/93004.md) unauthorized access to all collections name — shopify — - — $2,000 — Privilege Escalation
+- [93691](reports/2015/93691.md) Arbitrary write on s3://shopify-delivery-app-storage/files — shopify — - — $2,000 — Improper Authentication - Generic
+- [134061](reports/2016/134061.md) Reflected XSS via Livefyre Media Wall in newsroom.uber.com — uber — - — $2,000 — Cross-site Scripting (XSS) - Generic
+- [126099](reports/2016/126099.md) Stored XSS in drive.uber.com WordPress admin panel — uber — - — $2,000 — Cross-site Scripting (XSS) - Generic
+- [125218](reports/2016/125218.md) Bypassing Uber Partner's 3 Cancel Limit  — uber — - — $2,000 — Command Injection - Generic
+- [151470](reports/2016/151470.md) [IODR] Get business trip via organization id — uber — - — $2,000 — Improper Authentication - Generic
+- [129918](reports/2016/129918.md) Authentication bypass leads to sensitive data exposure (token+secret) — slack — - — $2,000 — Improper Authentication - Generic
+- [201897](reports/2017/201897.md) Recursion causing uninitialized memory reads leading to a segfault — shopify-scripts — low — $2,000 — Memory Corruption - Generic
+- [215625](reports/2017/215625.md) A HackerOne employee's GitHub personal access token exposed in Travis CI build logs — security — medium — $2,000 — Information Exposure Through an Error Message
+- [262230](reports/2017/262230.md) Tinymce 2.4.0 — shopify — medium — $2,000 — Cross-site Scripting (XSS) - DOM
+- [311289](reports/2018/311289.md) CI for [example.gov] can be logged in and accessible — gsa_bbp — critical — $2,000 — Improper Access Control - Generic
+- [310946](reports/2018/310946.md) The request tells the number of private programs, the new system of authorization /invite/token — security — medium — $2,000 — Information Disclosure
+- [298176](reports/2018/298176.md) SQL injection in MilestoneFinder order method — gitlab — critical — $2,000 — SQL Injection
+- [298873](reports/2018/298873.md) Command injection by overwriting authorized_keys file through GitLab import — gitlab — critical — $2,000 — Command Injection - Generic
+- [301432](reports/2018/301432.md) GitLab CI runner can read and poison cache of all other projects — gitlab — critical — $2,000 — Path Traversal
+- [391390](reports/2018/391390.md) Stored XSS on activity — shopify — high — $2,000 — Cross-site Scripting (XSS) - Stored
+- [390181](reports/2018/390181.md) Reflected XSS on Partners Subdomain — uber — high — $2,000 — 
+- [326449](reports/2018/326449.md) Reflected XSS on multiple uberinternal.com domains — uber — medium — $2,000 — Cross-site Scripting (XSS) - Reflected
+- [193799](reports/2018/193799.md) XSS in ubermovement.com via editable Google Sheets — uber — medium — $2,000 — Cross-site Scripting (XSS) - Stored
+- [446593](reports/2019/446593.md) GitLab's GitHub integration is vulnerable to SSRF vulnerability — gitlab — medium — $2,000 — Server-Side Request Forgery (SSRF)
+- [709336](reports/2019/709336.md) Reflective Cross-site Scripting via Newsletter Form — shopify — high — $2,000 — Cross-site Scripting (XSS) - Reflected
+- [694181](reports/2019/694181.md) Worker container escape lead to arbitrary file reading in host machine — semmle — critical — $2,000 — Privilege Escalation
+- [63324](reports/2019/63324.md) Flash Player information disclosure (etc.) CVE-2015-3044, PSIRT-3298 — ibb — - — $2,000 — Information Disclosure
+- [73276](reports/2019/73276.md) Internet-based attacker can run Flash apps in local sandboxes by using  special URL schemes (PSIRT-3299, CVE-2015-3079) — ibb — - — $2,000 — Information Disclosure
+- [697055](reports/2019/697055.md) Worker container escape lead to arbitrary file reading in host machine [again] — semmle — critical — $2,000 — Privilege Escalation
+- [151040](reports/2019/151040.md) Adobe Flash Player ShimAdPolicySelector(adPolicySelectorType=0) class Memory Corruption — ibb — - — $2,000 — Memory Corruption - Generic
+- [145272](reports/2019/145272.md) Adobe Flash Player ShimContentResolver(resolverType=1) class Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [145271](reports/2019/145271.md) Adobe Flash Player ShimContentResolver(resolverType=0) class Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [145269](reports/2019/145269.md) Adobe Flash Player ShimOpportunityGenerator class Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [145267](reports/2019/145267.md) Adobe Flash Player ShimContentResolver.configure Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [145266](reports/2019/145266.md) Adobe Flash Player ShimContentFactory.retrieveResolvers Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [145265](reports/2019/145265.md) Adobe Flash Player ShimContentFactory class Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [138517](reports/2019/138517.md) Adobe Flash Player Metadata class Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [138518](reports/2019/138518.md) Adobe Flash Player OpportunityGenerator class Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [138516](reports/2019/138516.md) Adobe Flash Player ContentFactory class Memory Corruption Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [119655](reports/2019/119655.md) Adobe Flash Player ASnative(900,1).call(TextField) Use-After-Free Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [119653](reports/2019/119653.md) Adobe Flash Player ASnative(900,1).call(MovieClip) Use-After-Free Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [119657](reports/2019/119657.md) Adobe Flash Player Race Condition Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [122254](reports/2019/122254.md) Adobe Flash Player TextField Use-After-Free Vulnerability — ibb — - — $2,000 — Memory Corruption - Generic
+- [531032](reports/2020/531032.md) Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack — slack — high — $2,000 — Use of Hard-coded Cryptographic Key
+- [846905](reports/2020/846905.md) Stored XSS in Elastic App Search — elastic — high — $2,000 — Cross-site Scripting (XSS) - Stored
+- [938021](reports/2020/938021.md) Availing Zomato gold by using a random third-party `wallet_id` — eternal — critical — $2,000 — Business Logic Errors
+- [952501](reports/2020/952501.md) Solr Injection in `user_id` parameter at :/v2/leaderboard_v2.json — eternal — critical — $2,000 — SQL Injection
+- [838855](reports/2020/838855.md) [www.zomato.com] Blind SQL Injection in /php/geto2banner — eternal — critical — $2,000 — SQL Injection
+- [836079](reports/2020/836079.md) [www.zomato.com] Blind SQL Injection in /php/widgets_handler.php — eternal — critical — $2,000 — SQL Injection
+- [927567](reports/2020/927567.md) Ability to publish a paid theme without purchasing it. — shopify — low — $2,000 — Improper Access Control - Generic
+- [953083](reports/2020/953083.md) Ability to publish a paid theme without purchasing it. — shopify — low — $2,000 — Improper Access Control - Generic
+- [981472](reports/2020/981472.md) Undocumented `fileCopy` GraphQL API — shopify — medium — $2,000 — Improper Access Control - Generic
+- [859333](reports/2020/859333.md) Stored XSS in group issue list — gitlab — medium — $2,000 — Cross-site Scripting (XSS) - Stored
+- [1044716](reports/2021/1044716.md) SQL Injection in www.hyperpure.com — eternal — critical — $2,000 — Code Injection
