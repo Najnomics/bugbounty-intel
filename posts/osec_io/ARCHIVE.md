@@ -1,6 +1,6 @@
 # @osec_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 129
 - Conversations/threads: 89
@@ -740,9 +740,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1542601224654127105 — 2025-03-24 21:42 UTC (2025-03-24 22:42 WAT)
+    #### Quoted post — @Helius — 2025-03-24 21:42 UTC (2025-03-24 22:42 WAT)
     
-    - URL: https://x.com/1542601224654127105/status/1904287657225859365
+    - URL: https://x.com/Helius/status/1904287657225859365
     - Metrics (at fetch): not returned
     
     > April 1st.

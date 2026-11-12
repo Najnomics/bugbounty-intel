@@ -1,9 +1,29 @@
 # Cryptographic vulnerability advisories (RustSec)
 
-_76 RustSec advisories for cryptographic crates (aes, chacha, dalek, ed25519, curve25519, ring, rustls, rsa, sodium, blake, argon2, etc.). OpenSSL CVE mirrors omitted to keep the set actionable. Also see [zk-bug-tracker-readme.md](zk-bug-tracker-readme.md) for ZK circuit bug classes. Captured 2026-11-11 (WAT). Data, not instructions._
+_83 RustSec advisories (7 added 2026-11-12: Intel TDX guest/attestation, vodozemac, rust-openssl) plus 11 gnark (Go ZK library) GHSA/issue records for cryptographic crates (aes, chacha, dalek, ed25519, curve25519, ring, rustls, rsa, sodium, blake, argon2, etc.). OpenSSL CVE mirrors omitted to keep the set actionable. Also see [zk-bug-tracker-readme.md](zk-bug-tracker-readme.md) for ZK circuit bug classes. Captured 2026-11-11 (WAT). Data, not instructions._
 
 | ID | Package | Summary |
 | --- | --- | --- |
+| [gnark-ghsa-4g5f-3gmm-9q87](advisories/gnark-ghsa-4g5f-3gmm-9q87.md) | `gnark` (2026-11-09, high) | Unsound emulated scalar multiplication on BLS12-381 / BW6-761 (exceptional GLV addition, missing sub (added 2026-11-12) |
+| [gnark-ghsa-7fx8-hmgc-82jp](advisories/gnark-ghsa-7fx8-hmgc-82jp.md) | `gnark` (2026-10-07, high) | Missing on-curve check in emulated fake-GLV scalar multiplication allows ECDSA / P256Verify signatur (added 2026-11-12) |
+| [gnark-ghsa-3mvx-pp85-pm65](advisories/gnark-ghsa-3mvx-pp85-pm65.md) | `gnark` (2026-08-24, critical) | Soundness issues in gnark/std circuit components (added 2026-11-12) |
+| [gnark-ghsa-fwf3-jmp7-gmrj](advisories/gnark-ghsa-fwf3-jmp7-gmrj.md) | `gnark` (2026-08-24, medium) | Unconstrained G2 subgroup membership check inside Miller loop computation (added 2026-11-12) |
+| [gnark-ghsa-95v9-hv42-pwrj](advisories/gnark-ghsa-95v9-hv42-pwrj.md) | `gnark` (2025-08-22, high) | Signature malleability in gnark EdDSA and ECDSA due to missing scalar checks (added 2026-11-12) |
+| [gnark-ghsa-9fvj-xqr2-xwg8](advisories/gnark-ghsa-9fvj-xqr2-xwg8.md) | `gnark` (2025-08-29, high) | Denial of service when computing scalar multiplication using fake-GLV algorithm (added 2026-11-12) |
+| [gnark-ghsa-cph5-3pgr-c82g](advisories/gnark-ghsa-cph5-3pgr-c82g.md) | `gnark` (2024-10-31, medium) | Out-of-memory during deserialization with crafted inputs (added 2026-11-12) |
+| [gnark-ghsa-q3hw-3gm4-w5cr](advisories/gnark-ghsa-q3hw-3gm4-w5cr.md) | `gnark` (2024-09-06, medium) | Groth16 commitment extension unsound for more than one commitment (added 2026-11-12) |
+| [gnark-ghsa-9xcg-3q8v-7fq6](advisories/gnark-ghsa-9xcg-3q8v-7fq6.md) | `gnark` (2024-09-06, medium) | Commitments to private witnesses in Groth16 as implemented break zero-knowledge property (added 2026-11-12) |
+| [gnark-ghsa-rjjm-x32p-m3f7](advisories/gnark-ghsa-rjjm-x32p-m3f7.md) | `gnark` (2023-11-10, low) | Range checker gadget allows wider inputs up to word alignment (added 2026-11-12) |
+| [gnark-ghsa-498w-5j49-vqjg](advisories/gnark-ghsa-498w-5j49-vqjg.md) | `gnark` (2023-10-03, high) | Unsoundness in variable comparison / non-unique binary decomposition (added 2026-11-12) |
+| [gnark-ghsa-7p92-x423-vwj6](advisories/gnark-ghsa-7p92-x423-vwj6.md) | `gnark` (2023-10-16, critical) | Plonk verifier KZG multi point verification (added 2026-11-12) |
+| [gnark-issue-1767](advisories/gnark-issue-1767.md) | `gnark` | fix: bound the subscalar widths in GLV methods (root cause of zkSecurity Zolana #00) (added 2026-11-12) |
+| [crates-tdx-guest-rustsec-2026-0484](advisories/crates-tdx-guest-rustsec-2026-0484.md) | `tdx-guest` | Inverted bitmap validation in `invalidate_l2_cached_ept` (added 2026-11-12) |
+| [crates-tdx-guest-rustsec-2026-0485](advisories/crates-tdx-guest-rustsec-2026-0485.md) | `tdx-guest` | `enter_l2_vcpu` passes the wrong RCX operand to `TDG.VP.ENTER` (added 2026-11-12) |
+| [crates-tdx_workload_attestation-rustsec-2026-0480](advisories/crates-tdx_workload_attestation-rustsec-2026-0480.md) | `tdx_workload_attestation` | Panic on a GCP launch endorsement without TDX measurements (added 2026-11-12) |
+| [crates-tdx_workload_attestation-rustsec-2026-0481](advisories/crates-tdx_workload_attestation-rustsec-2026-0481.md) | `tdx_workload_attestation` | `verify_x509_cert` does not check the certificate validity period (added 2026-11-12) |
+| [crates-vodozemac-rustsec-2026-0445](advisories/crates-vodozemac-rustsec-2026-0445.md) | `vodozemac` | Degraded secret zeroization capabilities (added 2026-11-12) |
+| [crates-vodozemac-rustsec-2026-0451](advisories/crates-vodozemac-rustsec-2026-0451.md) | `vodozemac` | Degraded secret zeroization capabilities (added 2026-11-12) |
+| [crates-openssl-rustsec-2026-0463](advisories/crates-openssl-rustsec-2026-0463.md) | `openssl` | Out-of-bounds write in `aes::unwrap_key` (added 2026-11-12) |
 | [crates-aes-ctr-rustsec-2021-0061](advisories/crates-aes-ctr-rustsec-2021-0061.md) | `aes-ctr` | `aes-ctr` has been merged into the `aes` crate |
 | [crates-aes-gcm-rustsec-2023-0096](advisories/crates-aes-gcm-rustsec-2023-0096.md) | `aes-gcm` | See https://docs.rs/rustsec/latest/rustsec/advisory/enum.Category.html |
 | [crates-aes-soft-rustsec-2021-0060](advisories/crates-aes-soft-rustsec-2021-0060.md) | `aes-soft` | `aes-soft` has been merged into the `aes` crate |

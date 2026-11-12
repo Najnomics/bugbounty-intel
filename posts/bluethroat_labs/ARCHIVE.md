@@ -1,11 +1,100 @@
 # @bluethroat_labs — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 146
-- Conversations/threads: 58
+- Posts in this file: 147
+- Conversations/threads: 59
 - Oldest post captured: 2025-12-02
-- Newest post captured: 2026-11-07
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Post · "We use TEEs" is not a security guarantee.
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @bluethroat_labs — 2026-11-11 14:47 UTC (2026-11-11 15:47 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2120528783673299290
+- Metrics (at fetch): bookmark 6, impression 644, like 14, quote 0, reply 0, repost 3
+
+> "We use TEEs" is not a security guarantee.
+>
+> Two teams can both run TEEs and offer wildly different protection. The details are where it breaks.
+>
+> 4 things we check every time:
+>
+> 1. Physical access changes everything
+> If your adversary can touch the machine, we treat the TEE as compromised. Published attacks like http://TEE.fail are why. Whoever hosts your hardware is in your threat model.
+>
+> 2. Attestation doesn't mean your code is safe
+> A TEE will faithfully run vulnerable code. Bug in the inference engine or a dependency? Data can leak without anyone breaking the hardware isolation.
+> The code inside the boundary needs review too.
+>
+> 3. Attestation is evidence. Your verifier makes the call.
+> Authenticate the report. Validate the collateral. Check identity and measurements. Enforce a real policy on platform security status. Then bind that decision to the endpoint actually receiving your data.
+> Importing an attestation library does none of this for you.
+>
+> 4. Is the audited code the code that's running?
+> Open source is a start. You still need a verifiable link from source → build → attested measurement. Reproducible builds get you there. Without that, "audited" and "attested" can be describing two different things.
+>
+> Real example from our Phala/dstack research:
+> CPU evidence was cryptographically verified. GPU evidence was fetched, parsed as JSON, and shown under "TEE Hardware Verified" with no GPU crypto checks.
+> The GPU claim had no cryptographic backing. That path has since been fixed.
+> https://bluethroatlabs.com/reveries/phala-cloud-gpu-attestation-fake-verified-no-cryptography
+>
+> Inference providers are under attack. Securing the hardware boundary is one layer of securing the service.
+>
+> More real failures and practical checks in our TEE Security Handbook:
+> https://tee-security-handbook.bluethroatlabs.com/
+>
+> https://x.com/ilblackdragon/status/2120092118349729863
+
+**Links in post:** https://x.com/ilblackdragon/status/2120092118349729863, http://TEE.fail, https://bluethroatlabs.com/reveries/phala-cloud-gpu-attestation-fake-verified-no-cryptography, https://tee-security-handbook.bluethroatlabs.com/
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ilblackdragon — 2026-11-10 09:52 UTC (2026-11-10 10:52 WAT)
+    
+    - URL: https://x.com/ilblackdragon/status/2120092118349729863
+    - Metrics (at fetch): bookmark 84, impression 48260, like 587, quote 18, reply 87, repost 82
+    
+    > Inference providers are under attack. 
+    >
+    > AI inference is now playing a critical role and is a honey pot of data and ability to inject actions back into users devices via agents for malicious actors.
+    >
+    > NEAR AI thwarted a series of attacks on its systems and is back to normal. NEAR Protocol, Intents and other infra wasn’t affected.
+    >
+    > TEE architecture is part of the answer to making sure that from outside even inference provider doesn’t have an access. User should verify exactly what happens with their data and prompts.
+    >
+    > NEAR AI code is open and inspected by many partners when deciding to leverage the stack to validate exactly what runs inside TEE and ensuring privacy.
+    >
+    > In this case there was also a vulnerability within SGLang, open source inference engine that runs inside an enclave. Even though this had a minimum disruption it still was a very 
+    >
+    > Going forward we are going increase security rigor of dependencies and also improve a “turnstile” to detect when anything out of normal runs inside TEE.
+    >
+    > Proactive security against external attackers has became a must. We have been using Abliterated models and red teaming harness to continuously monitor and detect issues. We are also expanding scope and compute invested into this.
+    
+    **Links in post:** https://twitter.com/near_ai/status/2120043366444601458
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @near_ai — 2026-11-10 06:38 UTC (2026-11-10 07:38 WAT)
+        
+        - URL: https://x.com/near_ai/status/2120043366444601458
+        - Metrics (at fetch): bookmark 40, impression 53944, like 168, quote 28, reply 35, repost 28
+        
+        > Update: On November 8, an attacker used a vulnerability in SGLang, the inference engine we run, to access part of our infrastructure. We’ve closed the access and fixed it.
+        >
+        > Affected users have been contacted. If you haven’t heard from us, no action is needed.
+        > https://near.ai/blog/security-incident-report-sglang-vulnerability
+        
+        **Links in post:** https://near.ai/blog/security-incident-report-sglang-vulnerability
+        
+    
 
 
 ---

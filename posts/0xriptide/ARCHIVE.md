@@ -1,11 +1,37 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 212
-- Conversations/threads: 206
+- Posts in this file: 213
+- Conversations/threads: 207
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-10
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Reply · @DevDacian @pashov beard arc
+
+
+**Context — post being replied to:**
+
+#### Parent post — @DevDacian — 2026-11-11 10:17 UTC (2026-11-11 11:17 WAT)
+
+- URL: https://x.com/DevDacian/status/2120460819087700065
+- Metrics (at fetch): bookmark 4, impression 2128, like 69, quote 0, reply 8, repost 2
+
+> Auditor life after receiving $40M post-hack "whitehat" safe-harbor deal for returning 90% [pic.x.com/I0EkphoaFM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW1hRnlaoAAqaWf.jpg — no alt text provided by author
+
+
+### Post — @0xriptide — 2026-11-11 11:10 UTC (2026-11-11 12:10 WAT)
+
+- URL: https://x.com/0xriptide/status/2120474303603052599
+- Metrics (at fetch): bookmark 0, impression 322, like 8, quote 0, reply 1, retweet 0
+
+> @DevDacian @pashov beard arc
 
 
 ---
@@ -305,6 +331,102 @@ Tags (automatic): Mobile / Android / iOS, Blockchain / L1-L2 / bridge, AI-assist
     - Metrics (at fetch): bookmark 16, impression 191678, like 36, quote 2, reply 0, repost 6
     
     > https://x.com/i/article/2112612029265793024
+    >
+    > [X Article — We Found Apple's Hidden Ghost Servers — full text follows]
+    >
+    > Over this past summer, we partitioned some time outside our regularly scheduled web3 bug bounty work to take a gander at Apple's Private Cloud Compute (PCC) bug bounty program.
+    > After running GregoAI on Apple's PCC we found a simple yet elegant bug: Any server Apple had officially stopped trusting could re-enter the whitelisted group that handles sensitive Apple Intelligence requests.
+    > Grab some candy corn, pull up a chair, and join us as we unmask this hooded server like it's Scooby-Doo.
+    >  
+    > The Ghost Server Bug
+    > TL;DR
+    > We found a bug that let servers Apple had stopped trusting keep reading people's private Apple Intelligence requests. Any user request too heavy for native devices get sent to these PCC servers.
+    > More technically, PCC servers are grouped into ensembles. Before any node is granted access, peers check its certificate before handing over the keys that protect user request data.
+    > Part of the check is supposed to ask, "Has Apple revoked this certificate?" But that question never gets asked.
+    > X509Policy.init throws away the revocation setting it's handed and stores nil. Where nil means "skip the revocation check".
+    > All that's left is asking the question "is this a real Apple certificate that hasn't expired?", and a revoked certificate is still both.
+    > Revoking a node doesn't unplug it, either. It's supposed to get caught the next time it reconnects and gets re-checked, which happens all the time.
+    > So a node Apple had revoked (compromised, tampered with, pulled from service) sailed through every re-check, got let right back in, and kept getting the keys to everyone's in-flight inference data.
+    > We confirmed the nil in a compiled CloudAttestation binary that shipped with macOS 15.7.3. Apple fixed it in the 26.4 releases and credited GregoAI.
+    > Background
+    > When your iPhone decides an Apple Intelligence request is too heavy to run locally, it sends it to Private Cloud Compute, Apple's cloud that's built so nobody (Apple included) can see your data.
+    > Each PCC node is an Apple silicon server, and its Secure Enclave holds the node's identity key, the DCIK (Data Center Identity Key). Big models get split across an ensemble of nodes that pass activations and KV-cache back and forth. That's your request data in flight, encrypted with mesh keys that every node derives from one shared secret, the CIO seed.
+    > To join, a node connects to its peers over Attested TLS, and they run EnsembleValidator on it: certificate chain, Secure Enclave signature, software measurements, and a membership list. The idea is simple: prove who you are, prove what you're running, get the keys.
+    >  
+    > Revocation is the part of that gate meant to catch a node Apple no longer trusts. Every production DCIK cert points to Apple's public OCSP responder and CRL (http://crl.apple.com/dcarcag2.crl). At the time of reporting, that CRL listed 48 DCIK certificates revoked on April 16, 2026.
+    > Revoked isn't expired, either. The DCIK cert we looked at is valid from 2024 to 2031, so revocation means Apple stepping in years early: a key leaked, the hardware got tampered with or walked out of a data center, or for whatever reason the machine just shouldn't be touching user data anymore.
+    > The key line
+    > The whole bug lives in the initializer of X509Policy, the part of CloudAttestation that checks a node's certificate (X509Policy.swift):
+    >  
+    > Every other argument gets stored. revocation gets ignored and the field is set to nil. The caller hands it a revocation policy, and the initializer says "thanks, but no thanks". That's the only place self.revocation is ever written, so every X509Policy built from this code has revocation == nil, no matter what the caller asked for.
+    > Here's what that field was supposed to switch on, in evaluateCertificateChain:
+    >  
+    > That if let is the only place a revocation SecPolicy ever gets created, and the only place network fetching gets turned on (which trustd needs to actually go ask the CRL or OCSP server).
+    > With revocation stuck at nil, the check looks at the chain and the dates but never asks about revocation. A revoked cert and a healthy one look identical.
+    > So... who actually asks for revocation? Exactly one caller: EnsembleValidator, the code PCC nodes run on each other. On every production node it switches the check on and asks for [.any]:
+    >  
+    > So the strictest, most production-y config in the codebase asks for revocation and silently gets none. The other validators (NodeValidator, MuxValidator) never ask at all, so this was the one place revocation was supposed to matter.
+    >  
+    > Shipping Binary Inspection
+    > Source is nice, but it's not what actually runs. So we looked at a real compiled binary.
+    > CloudAttestation ships as a private framework on macOS, living inside the dyld shared cache. On an Apple silicon Mac running macOS 15.7.3 (24G419), one command dumps it:
+    >  
+    > Note that the framework file on disk is just a stub, so otool and nm show nothing. dyld_info pulls it out of the shared cache.
+    > That build is from before the 26.4 fix. The ensemble code only runs on PCC nodes, but macOS ships the same framework, so it's a nice way to see what the compiler actually did with the source.
+    > Here's X509Policy.init(required:roots:clock:revocation:), trimmed to the interesting bits:
+    >  
+    > Swift first sets the optional fields to their default nil, then runs the body in order: required, roots, clock, body, then revocation. That last write is a zero plus tag 1, aka nil. The real revocation argument comes in on x3/w4, and the function never even looks at those registers before its first call. A fixed build would store x3/w4 there. This one hardcodes nil. Line 78, compiled.
+    > The other half lives in evaluateCertificateChain, which got inlined:
+    >  
+    > Our favorite line is eor w1, w19, #0x1. The compiler folded networkFetchAllowed right into the Optional's tag byte, so it's literally computing "fetch allowed = revocation isn't nil". Init always writes tag 1, so SecTrustSetNetworkFetchAllowed always gets 0 and SecPolicyCreateRevocation never runs.
+    > So... the binary does exactly what the source says. It asks for revocation, stores nil, and then never checks.
+    > From handshake to mesh keys
+    > So we know that a revoked cert gets through X509Policy. Does anything after that catch it? Nope. Here's what happens when a revoked node (call it N) joins or rejoins an ensemble:
+    > Handshake. N connects to a peer over mutual TLS 1.3 and shows a fresh certificate with its attestation tucked inside. The peer hands that to EnsembleValidator.
+    > X509Policy. N's DCIK cert chains to Apple's root and hasn't expired. Revocation should've stopped it here, but thanks to the nil, it passes.
+    > SEP attestation. N still has its real key in its real Secure Enclave, so the signature checks out.
+    > Membership. The only membership check is "is N's UDID in the ensemble config?" It is. Revoking a cert doesn't change a UDID, and nothing edits that config at runtime.
+    > Everything else. AP ticket, SEP image, cryptexes, secure config, software release, hardware, device mode, darwin-init. N is real hardware running the real release, so it's all green.
+    > Key binding. The attested key matches the TLS key and hasn't expired. N is in.
+    > Once N is in, the leader sends it the ensemble's shared secret, and N derives the mesh keys from it (EnsemblerTLS.swift, setCryptoKey):
+    >  
+    > It's one seed for the whole ensemble, and the mesh key comes from it. So N doesn't just get its own slice of the work. It has the same keys as every other node, which covers all the activations and KV-cache flying between them.
+    > Here's the punchline: revocation was the only check asking "does Apple still trust this node?" Everything else asks "is this real Apple hardware running the right software?", and a revoked node is exactly that.
+    >  
+    > The End Result
+    > This snippet pasted from our triaging scratchpad explains it well:
+    > revoked node → untrustworthy → never kicked out → keeps reading sensitive user request data
+    > Simply put, a revoked node is one Apple decided can't be trusted with user data anymore. With this bug it just keeps doing its normal job: sitting in the ensemble, holding the mesh keys, and handling the activations and KV-cache of every request that ensemble serves.
+    > And if the DCIK key itself leaked (the first reason we mentioned), it's worse. Whoever has that key can sign attestations claiming whatever software they want, and revocation was the one check left that could've stopped them.
+    > Notably, in ensembles revocation only gets checked at the entrance. Nothing watches the CRL, and nothing kicks a node out of a running ensemble when it gets revoked. Revocation only gets a say during a new handshake, and those happen a lot:
+    > Every key rotation. Attestations last 8 hours (TLSChannel.swift), and when the shared key rotates, nodes reconnect with a fresh one.
+    > Every reconnect. Dropped connections retry and handshake again.
+    > Every reboot or re-formation. New ensemble, new handshakes.
+    > Each one re-checks the same DCIK cert, since a refresh only makes a new TLS key, not a new identity cert. Each one was a chance to shut the door, and each one let the revoked node right back in. And since DCIK certs last for years, "revoked but not expired" isn't a short window. It can be the rest of the machine's life.
+    > The Fix
+    > The fix we proposed is the most satisfying kind: one line.
+    >  
+    > That makes the if let revocation branch reachable, so [.any] turns into a real revocation check and trustd actually asks Apple's CRL and OCSP servers about the node. A revoked serial comes back revoked, the handshake fails, and N never sees the keys.
+    > Plus a few extras we suggested:
+    > A regression test that builds X509Policy(..., revocation: [.any]) and checks that a revoked cert actually gets rejected. The public source has no revocation test at all, which is how a one-liner like this survives multiple releases.
+    > Fail closed in prod. Ask for [.any, .requirePositiveResponse], so a node whose status can't be confirmed gets rejected instead of let through.
+    > Tie membership to revocation. When Apple revokes a node, pull its UDID from the ensemble config and re-form, so it's out right away instead of at the next handshake.
+    > The nil was there in the very first public source release, and it's still in the public source today. Apple fixed it in shipping software with the 26.4 releases in March 2026.
+    > Acknowledgements
+    > Apple confirmed our report and credited GregoAI under Additional recognition (CloudAttestation) on August 20, 2026, in four advisories:
+    > iOS 26.4 and iPadOS 26.4
+    > macOS Tahoe 26.4
+    > watchOS 26.4
+    > visionOS 26.4
+    >  
+    > Thanks to @apple Product Security for a pleasant back-and-forth, and to the PCC team for publishing the source so bugs like this can be found!
+    > References
+    > apple/security-pcc at the 2026-05-15 release
+    > Apple Private Cloud Compute security guide
+    > Apple Security Research: PCC security research
+    > Apple Security Bounty categories
+    >
+    > [Links in article: http://crl.apple.com/dcarcag2.crl, https://github.com/apple/security-pcc/blob/e3b4584d3caeb0b4244728a01fca50405101b42c/CloudAttestation/CloudAttestation/Ensemble/EnsembleValidator.swift#L163-L178, https://support.apple.com/en-us/126799, https://github.com/apple/security-pcc/blob/e3b4584d3caeb0b4244728a01fca50405101b42c/AppleComputeEnsembler/EnsembleConfiguration/EnsemblerTLS.swift#L1559-L1585, https://support.apple.com/en-us/126798, https://security.apple.com/documentation/private-cloud-compute/, https://github.com/apple/security-pcc/blob/e3b4584d3caeb0b4244728a01fca50405101b42c/CloudAttestation/CloudAttestation/Policy/X509/X509Policy.swift#L129-L175, https://support.apple.com/en-us/126794, https://github.com/apple/security-pcc/tree/e3b4584d3caeb0b4244728a01fca50405101b42c, https://github.com/apple/security-pcc/blob/e3b4584d3caeb0b4244728a01fca50405101b42c/AppleComputeEnsembler/EnsembleConfiguration/EnsemblerTLS.swift#L1114-L1126, https://security.apple.com/blog/pcc-security-research/, https://support.apple.com/en-us/126792, https://github.com/apple/security-pcc/blob/e3b4584d3caeb0b4244728a01fca50405101b42c/AppleComputeEnsembler/EnsembleConfiguration/TLSChannel/TLSChannel.swift#L33-L38, https://github.com/apple/security-pcc/blob/e3b4584d3caeb0b4244728a01fca50405101b42c/CloudAttestation/CloudAttestation/Ensemble/EnsembleValidator.swift#L125-L127, https://github.com/apple/security-pcc/blob/e3b4584d3caeb0b4244728a01fca50405101b42c/CloudAttestation/CloudAttestation/Policy/X509/X509Policy.swift#L73-L79, https://security.apple.com/bounty/categories/]
     
     **Links in post:** https://x.com/i/article/2112612029265793024
     
@@ -1262,12 +1384,60 @@ Tags (automatic): AI-assisted hunting
 ## 2026-05-12 · Post · http://x.com/i/article/2054199223919206401
 
 
+Tags (automatic): AI-assisted hunting, Platform: HackenProof
+
+
 ### Post — @0xriptide — 2026-05-12 14:07 UTC (2026-05-12 15:07 WAT)
 
 - URL: https://x.com/0xriptide/status/2054201804536025152
 - Metrics (at fetch): not returned
 
 > http://x.com/i/article/2054199223919206401
+>
+> [X Article — How our AI saved $27.7M in user funds and earned a max critical $250,000 bounty — full text follows]
+>
+> The AI system we’ve been building for the past two years just prevented a $27.7 million exploit. The project awarded us a $250,000 bounty, making it the largest ever paid for a vulnerability found entirely by AI.
+>
+> No human guided the search. The system found it on its own. We validated it with our team of world-class security researchers, and reported it.
+>
+> AI has been solving olympiad math, discovering new proteins, and beating doctors at diagnosing diseases. It just added one more to the list.
+> The thesis that started everything
+> We started building this on a specific thesis. There's a cognitive limit to how deep any human auditor can trace through interacting systems. The best researchers in the world hit a ceiling at about 4 to 5 levels of system interactions. And most of the critical bugs that survive audits live below that ceiling.
+>
+> So we wanted to find out if AI could get past it.
+>
+> What we built was not another scanner. Not another ChatGPT wrapper that floods you with false positives. We built a reasoning architecture on top of existing AI models that pushes them far beyond what they were designed to do. A system that traces logic across 7+ layers of interacting systems simultaneously, finding vulnerabilities that no human even knows to look for.
+>
+> The frontier models from the leading AI labs all have a fundamental reasoning limitation. They can't hold and trace complex logic across many layers of interacting systems. No lab solved this. We did. For the same models, our system gets a completely different level of output. It's like the model was running at 30% and nobody noticed.
+> How I got involved
+> I've been hunting bugs for years. I've seen every generation of "AI security tool" come through. High-level scanners flagging obvious issues, ChatGPT wrappers giving you hundreds of false positives. All a waste of time.
+> When @0xitsgreg showed me what he'd built, I expected the usual demo. What I saw instead was a system that performed extreme deep dives on each codebase to dig up the most obscure and unfindable bugs.
+>
+> I joined as co-founder and CEO.
+> The hardest proving ground we could find
+> We chose crypto because when a vulnerability gets exploited on a live protocol, real money gets drained in minutes. There's no "we'll patch it next quarter." And the biggest protocols have already been audited 3, 4, 5 times by the best firms in the world.
+>
+> If our system could find what they all missed, that's the strongest proof imaginable.
+>
+> Over the past months, it has found confirmed live vulnerabilities in Ethereum, Lido, Chainlink, Aave, Uniswap, Polygon, and others. All of these protocols are securing billions of dollars. All previously audited multiple times by top firms. Every finding was missed by every human reviewer.
+> The $250,000 finding
+> The system analyzed a major, heavily audited protocol using what we call Deep Invariant Analysis. It ingested the codebase, mapped every module, every dependency, every interaction between systems. It traced execution paths looking for invariants, things that should never break but might under specific conditions.
+>  
+> When it found a promising thread, it spun up connected sub-agents to explore different angles in parallel, launched a sandbox, wrote proof-of-concept exploits, iterated, and refined the attack path until it had something fully reproducible.
+>
+> Then it pinged us.
+>
+> We opened the finding expecting another medium-severity edge case. What we were looking at was a critical logic flaw in the interaction of multiple systems. $27.7M of user funds at direct risk of being drained in a single attack.
+>
+> We validated it and reported it through @HackenProof. The protocol confirmed, patched immediately, and awarded us a $250,000 max-severity bounty.
+>  
+> What this means
+> Crypto has witnessed a lot of exploits recently, and for the most part protocols deflect the blame. Meanwhile attackers are getting more sophisticated, increasingly AI-assisted, and the depth of security review hasn't kept up.
+> The ceiling on what human-only security can reach has held for years. This bounty is evidence that AI can now break through it. And we've already been approached by one of the major AI labs to explore what we've built.
+>
+> Today we're coming out of stealth. We call ourselves @therealgregoai. We're just getting started.
+>
+> If you want to discover what vulnerabilities your protocol might have missed, DM me.
 
 **Links in post:** http://x.com/i/article/2054199223919206401
 

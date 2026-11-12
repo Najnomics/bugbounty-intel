@@ -1,11 +1,36 @@
 # @nullity00 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 7
-- Conversations/threads: 7
+- Posts in this file: 8
+- Conversations/threads: 8
 - Oldest post captured: 2023-05-23
-- Newest post captured: 2023-11-23
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · @ratankaliani @AnthropicAI Congrats
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @807322483242180608 — 2026-11-11 22:23 UTC (2026-11-11 23:23 WAT)
+
+- URL: https://x.com/807322483242180608/status/2120643680973574153
+- Metrics (at fetch): bookmark 30, impression 14961, like 354, quote 0, reply 68, retweet 3
+
+> I joined @AnthropicAI last week.
+>
+> Powerful AI is the most important technology of my lifetime, and the next few years will be critical. I want to spend them helping it go well, alongside people who care deeply about getting it right.
+
+
+### Post — @nullity00 — 2026-11-12 00:09 UTC (2026-11-12 01:09 WAT)
+
+- URL: https://x.com/nullity00/status/2120670241256767583
+- Metrics (at fetch): bookmark 0, impression 45, like 0, quote 0, reply 0, retweet 0
+
+> @ratankaliani @AnthropicAI Congrats
 
 
 ---

@@ -1,11 +1,49 @@
 # @deadrosesxyz — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 79
-- Conversations/threads: 68
+- Posts in this file: 80
+- Conversations/threads: 69
 - Oldest post captured: 2023-03-14
-- Newest post captured: 2026-10-19
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Reply · @AzFlin - crypto is giving you an amazing buying opportunity
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @3208751003 — 2026-11-11 02:38 UTC (2026-11-11 03:38 WAT)
+
+- URL: https://x.com/3208751003/status/2120345492249026846
+- Metrics (at fetch): bookmark 246, impression 67570, like 818, quote 12, reply 165, retweet 21
+
+> i dont wanna be a doomer but are we topped for making money online?
+>
+> - crypto cooked
+> - content creation giga competitive, everyone wants to be an influencer
+> - AI replacing fiverr-style gig work and indie SaaS
+>
+> guess onlyfans still printing?
+>
+> whats left?
+
+
+### Post — @deadrosesxyz — 2026-11-11 08:01 UTC (2026-11-11 09:01 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2120426797816770582
+- Metrics (at fetch): bookmark 4, impression 692, like 21, quote 0, reply 1, retweet 0
+
+> @AzFlin - crypto is giving you an amazing buying opportunity
+> - content creation is easy and pays more than ever. 99% of your competition is retarded
+> - you can use AI for any fiverr gig you wouldve otherwise paid for
+>
+> just don’t be a doomer brother
 
 
 ---
@@ -170,6 +208,145 @@ Tags (automatic): AI-assisted hunting
     > Some were right.
     >
     > Here’s where I landed. http://x.com/i/article/2087611764280086528
+    >
+    > [X Article — security researchers are doomed. — full text follows]
+    >
+    > Let me paint you the picture. Last weekend, Garance and I were walking back from dinner to the @defcon convention center, the biggest hacker conference on earth, to go see Hacker Jeopardy. That's where she turned to me and told me about a meeting she had with a Senior Security Researcher working at a FAANG company. That guy told her something that surprised me: that her job is basically useless because of AI, and that security researchers are doomed. She asked me what my take on that was.
+    > For context, Garance is one of the security researchers we hired at Depi. I'm Roni and I'm the founder of Depi, where the research team conducts offensive security research in the supply chain field. I've been doing security research myself for the past few years.
+    > So I needed to answer her question. Honestly, my gut feeling was that this is utterly bullshit. But here I was, trying to tell her that yeah … no … her job is safe.
+    > Why was this my first reaction ? And more importantly, how could I argue any of it ?
+    > So there I was, standing in front of her, and the only thing I could think about was to dive into the history of humanity and make the best parallel I could about the technological revolutions mankind had to go through: how they changed the lives of day to day people, and what people were saying about them at the time.
+    > My goal here is to give you a more structured version of the argument I gave Garance. The difference is that this time I went digging. Books, parliamentary records, mailing list archives, quotes from people who lived through the shifts. What I found interested me more than I expected.
+    > I'll tell you where I landed before I start, because I don't want you to think this is a comfort piece.
+    > The honest version of the argument isn't "everyone survived." It's that the field survives and grows, but survival is conditional on moving to where the new value is. The people who refuse to move are the ones the transition eats.
+    > What history says
+    > There is a lazy way to use history in conversations about AI.
+    > You pick some old technology, point out that people were scared of it, laugh at them because everything turned out fine, and conclude that everyone worrying today is just the latest generation of idiots yelling at a machine.
+    > That is not the argument I want to make.
+    > Because sometimes the scared people were right. Some jobs disappeared. Some very skilled people spent their entire lives mastering something that suddenly had almost no economic value. The industrial revolution was not a fun reskilling workshop for everyone involved.
+    > But there is another pattern that kept showing up while I was researching this, and this one felt painfully familiar. Every time a machine becomes capable of doing something we previously associated with human skill, somebody makes the same jump:
+    > The machine can do the task, therefore the human who does the task is doomed.
+    > And we've been making that jump for a very, very long time.
+    > The printing press
+    > Let's start with the printing press, because the reaction to it sounds much more modern than I expected.
+    > In 1492, Johannes Trithemius, a German abbot, wrote In Praise of Scribes. Printing was spreading through Europe, and Trithemius was worried about what it meant for the monks whose job had been copying books by hand.
+    > His arguments were actually pretty reasonable. Printed books used paper instead of parchment, which he considered less durable. More importantly, he thought the act of copying itself had value. A monk copying scripture was not simply producing another copy of a book. He was reading, memorising, learning and participating in a craft. If you replaced that process with a machine, you lost something.
+    > My favourite detail: he had the thing printed. Two years later, on a press, in Mainz.
+    > Tell me this doesn't sound familiar.
+    > "Yes, the model can produce the output, but it doesn't understand it."
+    > "Yes, it is faster, but the quality isn't the same."
+    > "Yes, you can automate the task, but you're removing the process through which people actually become good at the craft."
+    > I have heard versions of all three arguments about AI. I have probably made all three arguments myself. And to be clear, Trithemius wasn't stupid. That is precisely why I like this example. He could look at the technology, correctly identify things it did worse than a human, and still completely miss what happened next.
+    > Because the winning question was never: is a printed book better than the best manuscript produced by an expert scribe ?
+    > The question was: what happens when making another copy of a book stops requiring months of human labour ?
+    > Once you ask that question, you are talking about an entirely different world. That is the mistake I think a lot of security researchers make when we evaluate AI today. We run Claude or Codex against something we are very good at, watch it make five stupid mistakes, and conclude from those five mistakes that our job is safe.
+    > Maybe.
+    > Or maybe we're Trithemius pointing at the paper quality.
+    > The industrial revolution
+    > Now, the industrial revolution is where this gets less comforting. The Luddites are usually presented as cartoon technophobes. People afraid of progress, smashing machines because they didn't understand them. That's not really what happened.
+    > Many of them were highly skilled textile workers. Their issue was not some mystical fear of machinery. They could see employers using machines to replace expensive skilled labour, push down wages and sometimes produce work they considered worse. British archival sources describe unemployment and the destruction of skilled livelihoods as central motivations for the protests.
+    > So when they fought the machines, they weren't necessarily wrong about what was happening to them. That's important because I don't want to write one of those essays saying: look at the Luddites, what idiots, technology always creates more jobs.
+    > Some of those guys were f***ed.
+    > A skill they had spent years acquiring genuinely lost a huge amount of its value. A machine did not have to become a better craftsman than the craftsman. It only had to become good enough, fast enough and cheap enough that the economics stopped caring. The shearing frame is the cleanest version of this: two unskilled workers with a machine could do in a day what took a skilled cropper a week. Nobody had to be out-crafted. That distinction should make every security researcher slightly uncomfortable.
+    > The model does not need to become Roni or Garance. It doesn't need to beat the best researcher in the world at a week-long source-code audit.
+    > If a company currently needs ten people to do a certain class of work and AI lets three people do it, seven people still have a problem.
+    > Even David Ricardo, one of the major economists of the time, changed his position on machinery. In the 1821 edition of his Principles he explicitly wrote that workers' belief that machinery could hurt their interests was not simply prejudice or ignorance. Sometimes it genuinely could. To be fair to him, he hedged in the same chapter, still argued machinery should be encouraged, and economists have been fighting ever since about which half of that chapter he actually meant. But he wrote the sentence, and he wrote it after looking at what was happening.
+    > And the workers understood this perfectly well. In testimony before the Sadler Committee in 1832, a factory worker named Joshua Drake described a world where one man was thrown out of work while another was being pushed to run machinery day and night. He wasn't writing a macroeconomic model. He was just describing what he could see happening around him. That is probably the closest historical equivalent to someone at a security conference today saying:
+    > "Yeah, yeah, productivity is going up. But our team used to hire six juniors and now we're hiring two."
+    > Both things can be true.
+    > Technology can massively expand what an industry produces and absolutely destroy the economics of a particular layer of work inside that industry. That's the uncomfortable part of history I don't think we should hide from.
+    > Photography
+    > Photography is maybe my favourite parallel, because the arguments are almost word-for-word the arguments people are making about generative AI today. In 1859, Charles Baudelaire went after photography hard. He saw a flood of people embracing this new machine that could produce realistic images without years of training as a painter. He mocked photography as a refuge for failed painters and worried that, by entering the territory of art, it would damage art itself.
+    > Basically:
+    > "These people aren't real artists."
+    > "The machine is just reproducing reality."
+    > "There is no imagination involved."
+    > "People are confusing technical output with actual art."
+    > If Twitter existed in 1859 this guy would have been having the worst week of his life.
+    > And again, there was something real underneath his fear. Photography did automate part of what painters were being paid to do. If what you needed was an accurate visual record of a person or a place, suddenly there was another way to get one.
+    > But painting didn't disappear.
+    > Instead, the existence of photography changed where painters could create value. Once perfect reproduction of reality was no longer the unique advantage of the painter, painters had even more reason to explore the things a camera did not naturally give you. Museums and art historians still study the complicated relationship that developed between the two media rather than describing photography as simply having replaced painting.
+    > This is the distinction I keep coming back to with security research. Finding a bug and being a security researcher are not the same thing. Producing a realistic image and being an artist are not the same thing either. When a machine captures one visible output of a profession, we have this weird tendency to assume it captured the profession itself.
+    > It usually didn't.
+    > Electricity
+    > Electricity gives us another version of the same mistake: extremely competent people being extremely confident because they could explain exactly why the new technology sucked.
+    > When Edison was developing practical incandescent lighting, Henry Morton, president of the Stevens Institute of Technology, publicly described Edison's lamp as a "conspicuous failure." His criticism wasn't random. He had technical reasons for believing that trying to distribute electricity across many small lamps would be hopelessly inefficient.
+    > William Preece, one of Britain's leading electrical engineers, was another prominent skeptic around the practical economics and engineering of electric lighting. He went as far as producing an analysis whose entire purpose was to show that lighting a house with several incandescent bulbs at once was practically impossible. The debates around the "subdivision of the electric light" were serious engineering debates, not random people shouting that electricity was scary. This is the kind of skepticism I find interesting, because these people understood the technology.
+    > They could show you the limitations. They could calculate the losses. They could point at a prototype and tell you exactly where it was failing. And then the technology changed. This is why I am very suspicious whenever someone gives me a static argument against a technology that is improving extremely fast.
+    > "The context window is too small."
+    > "It hallucinates."
+    > "It can't reason across a huge codebase."
+    > "It misses business logic."
+    > Sure. All of those can be true today.
+    > But "this is a real limitation" and "this limitation protects my profession" are two completely different claims. The first one is engineering. The second one is a bet on the future.
+    > Computers and the internet
+    > Then computers arrived and humanity apparently learned absolutely nothing.
+    > One of the funniest things about reading early predictions about computers and the internet is how often very intelligent people looked at the primitive version in front of them and assumed they were looking at something close to the finished product.
+    > Paul Krugman famously predicted in 1998 that the economic impact of the internet would prove no greater than that of the fax machine. And my favourite one is Robert Metcalfe. Metcalfe helped invent Ethernet. This wasn't some old guy who had never touched a computer. He was about as insider as you could possibly get. And in a December 1995 column he predicted that the internet would catastrophically collapse the following year.
+    > It didn't.
+    > He eventually ate the column in front of a live audience, and he tried to get away with eating a cake iced to look like it before the crowd booed him into blending the real thing. I love that story because it destroys another comforting idea we have: that the people closest to a technology must be the best people to predict what it will eventually become. They're often the best people to tell you how it works now. That is not the same skill.
+    > And computers give us the other side of the story too, because some professions genuinely were hit.
+    > Newspaper typographers are a perfect example. For decades, typesetting was skilled, highly paid work. Then computerized composition arrived and newspapers realised that a huge amount of that production process could simply disappear.
+    > Bertram Powers, who led New York's powerful Typographical Union No. 6, eventually understood that he wasn't going to win by pretending the technology could be stopped. So he negotiated.
+    > The deal was basically brutal in its clarity: the newspapers could automate, and existing union members received extraordinary job protections, including lifetime employment guarantees. Nearly two thousand printers were covered, and they ratified it almost unanimously. The current workers were protected while the trade itself was gradually allowed to disappear. NYU's archive of Powers' papers describes the deal in almost exactly those terms.
+    > I think Powers might be the smartest person in this entire section. Not because he loved the machine. Not because he decided automation was morally good. And definitely not because everything worked out for his profession. It didn't.
+    > He was smart because at some point he stopped arguing with the existence of the machine and started asking what position humans could still defend once the machine existed.
+    > That's a much more useful question.
+    > And then we literally did it with AI
+    > There is one last example that is almost too obvious: chess.
+    > For a very long time, chess was treated as evidence of human intelligence. Not physical skill. Not dexterity. Thinking. Then, in 1997, IBM's Deep Blue beat Garry Kasparov, the reigning world champion, in a match. If there was ever a moment where you could reasonably say "well, that's it, why would humans keep doing this ?", that was probably it. The machine could perform the central task better than the best human alive.
+    > And yet humans did not stop playing chess. What actually happened is much more interesting. Computers became part of chess. Players started preparing with engines. Analysis became vastly deeper. Entire lines that humans had believed for decades were reevaluated because a machine could see things we couldn't.
+    > And Kasparov himself eventually became one of the most interesting advocates for human-machine collaboration. In 1998 he organised the first "advanced chess" match, each player sitting with an engine, and played Veselin Topalov. It ended 3-3. The interesting part is why: a month earlier Kasparov had beaten the same guy 4-0 in normal chess. Handing both players a machine flattened his tactical edge to nothing.
+    > Then came the freestyle tournaments, and this is the result everyone actually means when they talk about centaurs: in 2005, a pair of amateurs running ordinary chess programs beat grandmasters with supercomputers. For a few years, human-machine teams outplayed engines running alone. That advantage has since eroded as engines got stronger, which is the point rather than the exception. The value moved, then moved again. Kasparov turned the whole experience into an argument for combining machine calculation with human judgment rather than pretending one had to eliminate the other.
+    > This one feels particularly important for AI. Because Deep Blue did replace humans at something. There is no human alive who should be hired today because they're better than a computer at raw chess calculation. That part is gone. But it did not follow that chess became pointless, or that chess players became pointless.
+    > The value moved.
+    > And I think that's the actual pattern hiding underneath all these stories.
+    > Not:
+    > "Technology never replaces humans."
+    > Obviously false.
+    > Not:
+    > "People have always been afraid of technology and they were always wrong."
+    > Also false.
+    > The pattern is that we are absolutely terrible at separating a task from the larger reason we valued the human doing the task in the first place. The scribe thought copying was the job. The Luddite saw craftsmanship being turned into machine operation. Baudelaire thought mechanical reproduction threatened art. Morton and Preece could see exactly why the current electrical system wouldn't scale. The typographer thought setting type was inseparable from producing a newspaper. And after Deep Blue, we discovered that beating another human at chess was apparently not the only reason humans cared about chess.
+    > Every time the technology moved, the easy conclusion was:
+    > "Well, that's the human part gone."
+    > And almost every time, what actually happened was more annoying.
+    > We had to figure out what the human part was after the machine took the obvious part away.
+    > That, to me, is a much more interesting way to think about security research and AI.
+    > History in the hacking community
+    > Here is the part I should have led with at dinner, because it's in-domain and it's recent enough that people in the room lived through it.
+    > Vulnerability research has already been declared dead four times.
+    > Fuzzing, 1990. Barton Miller's work at Wisconsin crashed a quarter to a third of standard UNIX utilities with literal random input. As fuzzing actually spread through the following decade, the reaction was predictable: bug hunting is now a button press, the craft is over. What actually happened is that fuzzing became table stakes, the trivial bugs got mined out, and researchers moved up the stack into grammar-aware fuzzing, coverage guidance, sanitizers and reachability analysis. The tool did not remove the researcher. It removed the easiest tier of the researcher's work and created three harder tiers above it.
+    > Metasploit, 2003 to 2007. Now anyone can exploit, so exploit development is dead. Instead exploit development moved into mitigation bypass: ASLR, DEP, stack cookies, CFI. The bar went up. The population of people capable of clearing it went up too, because the tooling made the entry ramp survivable.
+    > The DARPA Cyber Grand Challenge, 2016. This one is almost too on the nose. Seven machines played autonomous capture the flag on an air-gapped network with no human intervention, each system finding and patching flaws on its own, the day before DEF CON 24 opened and in the same building. The press ran headlines about hackers not needing to be human anymore. DARPA's own program manager called it the beginning of a revolution in software security, and he was right, but the revolution was tooling, not replacement. The winning system, Mayhem, then went into the human DEF CON CTF that same week and finished last. The same program manager had publicly predicted exactly that.
+    > The recon and tooling era, roughly 2015 to now. Subdomain enumeration, automated scanning, nuclei templates, mass ASN sweeps. The same argument ran again: recon is commoditised, the bounty hunter is finished. What happened is that raw recon became worthless precisely because it was automated, and the value moved to target selection, understanding trust boundaries nobody documented, and knowing which of ten thousand findings actually matters in a real deployment.
+    > Ten years after the Cyber Grand Challenge, this conference is bigger, and vulnerability research is a larger and better paid field than it was in 2016.
+    > Notice the pattern. Every single time, the automation ate the bottom of the stack and the humans moved up.
+    > Every single time, the people who defined their identity as "I am the person who does the thing that just got automated" had a very bad few years, and the people who defined it as "I am the person who finds what nobody else sees" were fine.
+    > Are security researchers doomed ?
+    > No. But I'm not going to give you the comfortable version.
+    > The argument is not "everyone survived." The croppers did not survive. The handloom weavers did not survive. The typographers did not survive as a trade. If your entire professional value is "I can find a memory safety bug in a parser faster than average," I think you should be worried, and I think you should be worried on a timescale measured in a couple of years rather than a couple of decades.
+    > The field survives, and it grows, and the goalpost moves. That's the actual claim, and history supports it hard. What gets automated is the execution of a known technique against a known target class. What does not get automated, so far, is deciding what to look at, understanding a trust boundary that nobody wrote down, and inventing a vulnerability class that did not exist yesterday.
+    > I'll use my own work as the example, not to flex but because it's the cleanest illustration I have. At DEF CON 33 I named the npx used-confusion vulnerability class (to be fair, I didn't invent a new vulnerability pattern, I applied a known one to another technology). Since then a third-party tool, npxconfuse, has appeared that automates detection of exactly what I described. My reaction to that is not "I have been replaced." The class was the contribution. Automating its detection is the proof the contribution was real, and it means the next contribution has to be a class nobody has named yet.
+    > That's the whole game. You get automated behind, not ahead. The tools eat your published work, which is exactly what publishing is for, and you go find the next thing.
+    > One thing I want to say directly to the people telling researchers it's over.
+    > Notice something about the historical record. The people who said "the machine won't work" were wrong every single time. Morton on the light bulb. Preece on subdivision. Krugman on the internet. Three for three. And then there's Metcalfe, who understood the machine better than any of them, and was still wrong, about a machine that was already working.
+    > The people who said "this will cost us something real, and somebody should govern the transition" were right every single time. Ricardo. Drake. The Luddite letter writers. Powers at Big Six.
+    > When you tell a security researcher that her job is useless because of AI, you are not making the second argument. You are making the first one, inverted. You are making a confident capability prediction about a fast-moving technology, on no evidence, in a domain you don't work in, to someone who does. Morton did that. Preece did that. They had better credentials than you and they were still wrong.
+    > And there's a second possibility I want to name, because I think it's the more common one at conferences like this: some of the people saying it's over are not scared. They just can't see where the new value went. That's a harder failure to admit than fear, because fear at least means you're paying attention.
+    > So here's my actual advice, which is the same thing I told Garance walking down that road.
+    > Your job is not safe. Nobody's job has ever been safe, and anyone who promises you otherwise is selling something. What is safe, on a two-hundred-year record where I couldn't find a real counterexample, is the position: the person who finds what the current tooling cannot see yet.
+    > That position keeps existing. It just keeps moving.
+    > The tools don't move you. You move. Powers put on a disguise, walked into a printing trade show, and looked at the machine that was coming for his members with his own eyes. It's the single smartest thing anyone in this whole story did.
+    > Go look at the machine.
+    > And that's what security research means to me.
+    > Not just researching, but craving to find where the new value is.
+    > Our job as humans is to keep finding the frontier, wherever it moves.
+    >  
+    > PS: Quick message to all the people that are trying to discourage young researchers starting in this field:
+    > go fuck yourself and your narrow view of the world.
+    > Just let them try and let yourself be surprised by the outcome. You'll be astonished to see how great they are going to become, because ultimately:
+    > Hackers Gonna Hack.
     
     **Links in post:** http://x.com/i/article/2087611764280086528
     
@@ -298,9 +475,65 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @v12sec — 2026-07-30 18:06 UTC (2026-07-30 19:06 WAT)
     
     - URL: https://x.com/v12sec/status/2082890648374424012
-    - Metrics (at fetch): bookmark 998, impression 552096, like 1036, quote 100, reply 84, repost 148
+    - Metrics (at fetch): bookmark 1007, impression 555875, like 1042, quote 101, reply 84, repost 149
     
     > http://x.com/i/article/2082889205793914880
+    >
+    > [X Article — How to raise a $10M Seed Round — full text follows]
+    >
+    > Earlier this month, we won a $2.5M bug bounty–the largest bounty ever received by an AI agent. This was a bug in a major blockchain, and it put >$100M of funds at risk. We found the bug fully autonomously using V12, our AI security agent, and worked collaboratively with the team to remediate the issue.
+    > V12 isn’t a generic agentic security tool. It regularly finds critical bugs like this, among countless 0days (including Linux LPEs, QEMU escape, Firefox UXSS, Postgres and Redis bidirectional RCE). That’s because, while we are building a product, our main mission is to research and build dangerously powerful offensive security tools. To make this possible, we've raised a $10 million seed round led by Electric Capital, with participation from ZachXBT, samczsun, Walden Yan, and more.
+    > We encourage you to try V12 yourself. It’s self-serve, and you’ll get $200 of free usage upon signup for the next seven days.
+    >  
+    > Part 1: What We’re Doing
+    > Our goal is to build a cyber nuke. That means building something that can find all of the bugs in a system. This is particularly interesting because such a capability would allow you to exploit software that’s previously considered secure. This hasn’t been possible until now, but frontier AI changes this.
+    > We are not doing pentesting. Black-box pentesting that simulates an outside attacker isn’t interesting to us. It’s a saturated market, and we don’t want to make another product that throws XSS payloads. An agentic pentest is great for finding some bugs, but what we want is something that finds all of the bugs. That isn’t possible without reading and understanding code. We need to focus on white box code auditing, which looks more like vulnerability research.
+    >  
+    > More concretely, that looks like a system that can reason about code and all of the underlying abstractions, even creating new ones (e.g. weird machines). We want a system that doesn’t just find bugs, but can invent entirely new bug classes. That being said, this has also been the area of security that has most resisted automation. A lot of vulnerability research looks like carefully reasoning about code and proving to yourself “no, this can’t be buggy” or alternatively, wondering “wait, what if…?” All of this requires human-level intelligence, which hasn’t been possible to scale until now.
+    > So in short, what we want is an AI system that takes in an arbitrarily large and complex codebase, reasons about how it actually works, and then uses that understanding to invent–not just discover–bugs and exploits.
+    > Of course, a system that can truly find all bugs is not really possible; that’s the halting problem in disguise. It's equivalent to proving that something has no bugs, where exploits are counterexamples. You can make programs that are arbitrarily hard to exploit. For example, a program that's vulnerable if the Collatz conjecture is false. But we intend to push the limits and build the closest approximation that's practically possible.
+    > And none to guide us
+    > Let’s say we actually build the cyber nuke. Now what?
+    > Given an explosion of offensive capabilities, the world will drastically change. However, it’s unrealistic to expect developers–especially enterprises–to suddenly adapt on their own. Mature organizations lack the vision or expertise to properly make the shift. They also need solutions–functioning, well-designed products–not just "bags of tools".
+    > Regarding organizations’ ability to adapt: it's easy to point at new, state-of-the-art models and claim that cyber is solved. It's another thing for developers to meaningfully leverage models to secure their code. The average developer is still asking Claude or Codex to "review my PR for bugs" followed by "OK fix these". This is nowhere close to sufficient! Attackers already employ complex, aggressive bug-finding harnesses and pipelines. There’s asymmetry here. Defenders neither have the resources to create these pipelines, nor can they amortize the cost across many bug-hunting targets. They need someone to leverage, harness, and deploy these models to unlock their full capability.
+    >  
+    > Meanwhile, people are busy. They are overwhelmed trying to meet deadlines and ship features on the roadmap. They don't have time to think about security; they want someone–or something– to come in and fix it for them. It should embed directly into their organization (i.e. in their Slack), understand their workflow (do you use Github? how do bugs get assigned? what do you use for issue tracking? what agents do you use?), and feel tailored to their context.
+    > For the same reason, defenders lose unless they have a product that’s useful out of the box. It needs to be either fully self-serve or come with white glove implementation. It should have the correct form factor (a CLI? an MCP? a Slack agent? a Github bot? all of the above?); it should feel good (not laggy, works on mobile, buttons are where you expect, …); it should make sense (inoffensive billing model, access control works appropriately, logical audit scope selection, …). There are a million things here to get right for such a product to actually be adoptable.
+    > So in short: build something that takes in arbitrarily complex programs, fully reasons about them, and finds novel bugs. Then package that capability into a useful product, and handhold developers so they can actually use and benefit from it.
+    >  
+    > Part 2: Things We Believe In
+    > OK, so how do we actually make this happen? Any concrete game plan is useless (this is a seed stage company). It makes more sense to lay out our guiding principles and how we predict the world will evolve.
+    > Against "Safetyism"
+    > First, we believe the most efficient way to secure the world's software is to give everyone bug-finding capabilities. We don't believe in "contact us" or "apply for access". The logical end state is a world where all bugs are found and patched. Gatekeeping access just slows down this process. For maintainers, adapting to a new threat landscape is uncomfortable but unavoidable, and we think the best approach is to just find all the bugs now. In practice, that means arming defenders with offensive capabilities so they can harden their own code.
+    >  
+    > To be clear, we want software to be safe and trusted. It's irresponsible to unleash offensive capabilities that the world is unprepared for. But a lot of the “controlled access” or “cyber verification” we see lately is posturing and marketing. People use safety concerns as a pretext for not actually giving anyone access–and in the process, not protecting people at scale. This year alone, V12 has protected users with over 6,000 security reviews. We're not against safety, we're against safety LARP.
+    > Open Disclosure
+    > We believe in open disclosure. Responsible disclosure will be seen as an outdated way of reporting and fixing bugs. Embargoes and coordinated disclosure don't make sense in a world where anyone with the right tools can find and weaponize a vulnerability with minimal human intervention or expertise. We saw this when we found and reported Fragnesia, Pintheft, and DirtyDecrypt–Linux LPE 0days that ended up being leaked before patches landed in mainline kernels. Anyone can monitor public commits and trivially recreate a weaponized exploit. The only real solution is eliminating the patch gap entirely. In practice, this looks like more frequent (and automatic) updates and vendors shipping patches the same day (hour!) a bug is found. Particularly, that means defenders need extraordinary PoC and fix generation capabilities.
+    > Bug bounties are dead
+    > Bug bounties in their current form will be dead, beside vulnerability acquisition programs for exceptionally valuable bugs. All other bugs will be mined out by offensive cyber tools like V12 before the code is shipped i.e. before attackers get a chance to start looking.
+    >  
+    > Maintainers are buckling under the weight of AI bug bounty submissions. Many have announced they are ending bug bounties entirely. Now that bugs have become cheaper than ever, the only solutions are to either (1) stop caring about most bugs or (2) stop shipping them. In the past, both were untenable because while virtually all code is flawed, reasoning through all the possible bugs was time and cost prohibitive. But now, we believe it's not only possible but inevitable.
+    > Crypto security is interesting
+    > Crypto projects are interesting targets and an important wedge for our company. We are obsessed with finding all the bugs, and crypto is currently the place where this matters most. More than $500M has been stolen in hacks just this year. If V12 can succeed in crypto–if we can win on “hard mode”–then we can win anywhere.
+    > With limited exceptions (iOS full chain?), there are no bugs outside of crypto that claim seven or eight figure bounties. Outside of crypto, $50k is still considered a huge bounty. In crypto, a critical fund loss vulnerability is worth hundreds of millions of dollars if exploited. In general, no one wants to take security seriously, but crypto companies are forced to. That means when choosing security products, they select for bug-finding ability over dashboards–what V12 is optimized for. Meanwhile, outside crypto, security still revolves around a culture of compliance, not substance.
+    > All software is vulnerable, but the world operates as if this weren’t the case. This only worked so far because attackers were rare–technical skill was the bottleneck. AI removes that constraint. Now, if software isn’t secure, it WILL get exploited.
+    > The impact is magnified by the fact the world is increasingly online, and most of the world meaningfully exists “in a computer” now. Everything will have to become much more secure very quickly, and that looks like many more teams treating security as seriously as crypto companies do.
+    >  
+    > By the way, to dispel a common misconception: crypto codebases are non-trivial in size, complexity, and diversity. Firedancer is 722k LoC of highly optimized C, Geth + Prysm is 1.1M LoC of Go, Zcash is 304k LoC of C++ and Python (Orchard alone is 44k LoC of circuits and cryptography in Rust). These all contain virtual machines, low-level systems code, and distributed databases. For context, Postgres and CPython both hover around ~1M LoC.
+    > Time for real security
+    > The world’s software has always been vulnerable, but now it’s impossible to ignore. The modern web depends on secure cryptography and browsers, frontier models rely on TEEs to protect weights, and innovations in robotics and biology will only make security more important. Basically, all code eventually becomes high assurance code.
+    > Don’t forget about the growing complexity of software supply chains. A lot of code we don't think about will be (or already is) high assurance. OpenSSH certainly comes to mind, but what about all of the packages we forgot about? The internet depends on software that nobody is looking at.
+    > The way security is currently done will not work. It is an afterthought and performed on a best-efforts basis. Teams focus on developing features and make security someone else’s responsibility. Most security products look like band-aids that manage the symptoms of bugs, not real solutions. But in a world with powerful AI, if there is even a single bug, someone is going to find and exploit it.
+    > Instead, security needs to be continuous and comprehensive–every merged PR needs to be vulnerability-free. The road to get there will not be easy, and we don't have everything figured out. No one does. But the fundamental problem this boils down to–finding bugs–is what we’ve been obsessed with for the last 10 years. Before V12, we founded Zellic, one of the world’s leading security firms, with 1500+ security reviews for 500+ highly attacked clients (e.g. crypto exchanges, bridges, L1s, wallets, open-source operating systems). And before that, we founded perfect blue, the world’s #1 CTF team for 3 years.
+    >  
+    > Every person on the V12 team hails from either CTFs or vulnerability research. Look at what we've reported so far: multiple Linux LPEs, a QEMU escape, wormable RCEs in Redis and Postgresql (bidirectional!), MariaDB, and Anydesk. And what’s even more promising is that whatever new software we throw V12 at, bugs keep pouring out: Dolphin emulator, an employee’s NAS, Signal messenger.
+    > Closing Thoughts
+    > A good seed round gives you the best thing in the world: the chance to build something you love with your friends.
+    > We've dreamed about this problem–automatically finding all bugs–since we were teenagers. Now AI is finally powerful enough for us to take a real stab at it. We’re excited. If we’re right, what we’re building will be dangerously capable, and the world will adapt around it.
+    > We want to be the ones who make it happen. If V12 sounds like something you’d want to be part of: join us, we’re hiring!
+    > View this post on the V12 blog
+    >
+    > [Links in article: https://en.wikipedia.org/wiki/XZ_Utils_backdoor, https://www.dullien.net/thomas/weird-machines-exploitability.pdf, https://ctftime.org/team/53802, https://xkcd.com/2347/, https://github.com/curl/curl/pull/20312, https://www.youtube.com/watch?v=QhNmb42nF-I, https://v12.sh/, https://tally.so/r/xXEYxv, https://zellic.io/, https://v12.sh/blog/how-to-raise-a-10m-seed-round]
     
     **Links in post:** http://x.com/i/article/2082889205793914880
     
@@ -554,6 +787,25 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 26, impression 3699, like 43, quote 1, reply 5, retweet 3
 
 > http://x.com/i/article/2061469860140314624
+>
+> [X Article — why nobody has solved correlated prediction market parlays yet? — full text follows]
+>
+> everyone who bets on prediction markets is excited about placing parlays - they allow you to stack multiple bets and if you’re right - get higher payout. imagine you have a thesis - you believe the Iran conflict is not going to end soon and Oil prices will hit ATH. it would be very convenient if you could stack those two beliefs in a single bet. the problem is, it might be harder than you think.
+>
+> Problem 1: Order books don't really work anymore
+>  
+> because there are so many possible combinations, it is impossible for market makers to provide liquidity on all of them. that’s why parlays need to use RFQ (Request For Quote) - it allows market makers to give quotes only on combinations that users actually want to bet on. but this brings us to the other, arguably bigger problem - how to price those events?
+>
+> Problem 2: How to price correlated events?
+>
+>  
+> good news is that sportsbooks have dealt with this problem for many years. the bad news though - its much harder than you think. when it comes to sports, there’s data in each sport going 100+ years ago. they have all this data and yet - they still find it difficult to actually price correlation between two events. and the bigger problem? the more legs you add, the more confusing it gets. that’s why when you place SGPs (Single Game Parlay) on sportsbooks, they have the highest house edge there - they simply cover the fact that they’re unsure in their odds pricing.
+>  
+> and this is after they have endless data! now compare that to prediction markets - where a lot of the events have never really occurred in the past. there is barely any data which can help you calculate the actual true odds of “Strait of Hormuz traffic going back to normal by July 15” + “Oil price hit ATH by July 30”. So the problem here becomes - even if RFQ is used, market makers can never really dynamically price all possible combinations when they’re correlated.
+>
+> Is there a solution?
+>
+> right now, fully automated pricing of correlated events isn’t possible. the only possible solution is a hybrid - an algorithm can set a baseline range and a human refines it. far from perfect, but the best we can do today.
 
 **Links in post:** http://x.com/i/article/2061469860140314624
 
@@ -1181,7 +1433,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-11-27 13:46 UTC (2023-11-27 14:46 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1729134515920965967
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 37, impression 25882, like 233, quote 2, reply 24, retweet 7
 
 > I’ve recently decided that it’s time I give back more to the community.
 >

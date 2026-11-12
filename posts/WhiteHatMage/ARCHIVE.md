@@ -1,11 +1,404 @@
 # @WhiteHatMage — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 158
-- Conversations/threads: 122
+- Posts in this file: 166
+- Conversations/threads: 130
 - Oldest post captured: 2025-11-29
-- Newest post captured: 2026-11-10
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Reply · @Ehsan1579 @p_tsanev I was told that you also have some undisclosed reports to share with the commun
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1110224263901073408 — 2026-11-11 20:16 UTC (2026-11-11 21:16 WAT)
+
+- URL: https://x.com/1110224263901073408/status/2120611632984531045
+- Metrics (at fetch): bookmark 0, impression 89, like 3, quote 0, reply 1, retweet 0
+
+> @WhiteHatMage @p_tsanev Haha bro’s training its own model
+
+
+### Post — @WhiteHatMage — 2026-11-11 20:41 UTC (2026-11-11 21:41 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120617948557816215
+- Metrics (at fetch): bookmark 0, impression 30, like 3, quote 0, reply 0, retweet 0
+
+> @Ehsan1579 @p_tsanev I was told that you also have some undisclosed reports to share with the community. https://t.co/raOVmftFZ0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW3yanNaEAA4QYu.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-11 · Reply · @x509dot My bad for naming all projects lmao
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2044468682303107072 — 2026-11-11 19:12 UTC (2026-11-11 20:12 WAT)
+
+- URL: https://x.com/2044468682303107072/status/2120595509484134646
+- Metrics (at fetch): bookmark 0, impression 132, like 1, quote 0, reply 1, retweet 0
+
+> @WhiteHatMage wtf is with the bot flood lmao.
+
+
+### Post — @WhiteHatMage — 2026-11-11 19:35 UTC (2026-11-11 20:35 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120601346349109639
+- Metrics (at fetch): bookmark 0, impression 113, like 1, quote 0, reply 0, retweet 0
+
+> @x509dot My bad for naming all projects lmao
+
+
+---
+
+## 2026-11-11 · Reply · @storming0x Well secured is not the same as exploit-less though!
+
+
+**Context — post being replied to:**
+
+#### Parent post — @881012267675820034 — 2026-11-11 18:09 UTC (2026-11-11 19:09 WAT)
+
+- URL: https://x.com/881012267675820034/status/2120579608525631942
+- Metrics (at fetch): bookmark 0, impression 234, like 2, quote 0, reply 1, retweet 0
+
+> @WhiteHatMage "..well secured..." i hope so sir 🤞
+
+
+### Post — @WhiteHatMage — 2026-11-11 18:10 UTC (2026-11-11 19:10 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120580046939386243
+- Metrics (at fetch): bookmark 0, impression 194, like 2, quote 0, reply 0, retweet 0
+
+> @storming0x Well secured is not the same as exploit-less though!
+
+
+---
+
+## 2026-11-11 · Reply · @xKeywordx @p_tsanev 4 = Holy (ホーリー, Hōrī) is a powerful spell that deals holy-elemental damage. 
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1439912268603473923 — 2026-11-11 17:14 UTC (2026-11-11 18:14 WAT)
+
+- URL: https://x.com/1439912268603473923/status/2120565813123878930
+- Metrics (at fetch): bookmark 0, impression 92, like 3, quote 0, reply 1, retweet 0
+
+> @p_tsanev @WhiteHatMage 1 = Fireball
+> 2 = Iceblast
+> 3 = Arcane missles
+>
+> The mage hit your codebase
+
+
+### Post — @WhiteHatMage — 2026-11-11 17:21 UTC (2026-11-11 18:21 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120567649025339557
+- Metrics (at fetch): bookmark 0, impression 35, like 2, quote 0, reply 0, retweet 0
+
+> @xKeywordx @p_tsanev 4 = Holy (ホーリー, Hōrī) is a powerful spell that deals holy-elemental damage. 
+>
+> It's a level 8 White Magic spell that inflicts heavy damage against all enemies. The total damage depends on the caster's Intellect.
+>
+> The spell can be bought in Gaia and be learned by the White
+
+
+---
+
+## 2026-11-11 · Post · There are around 50 programs with a $1M bounty. That would require a way to cause at least $10M in l
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @WhiteHatMage — 2026-11-11 17:12 UTC (2026-11-11 18:12 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120565378522698044
+- Metrics (at fetch): bookmark 68, impression 3851, like 83, quote 1, reply 10, repost 0
+
+> There are around 50 programs with a $1M bounty. That would require a way to cause at least $10M in losses.
+>
+> Direct theft by a trustless actor should be the main attack vector. In-transit attacks are unlikely to lead to such a large amount today. Other impacts aren’t relevant either.
+>
+> That narrows the possible paths -- there shouldn’t be that many ways to expose that many assets.
+>
+> I should prioritize unconditional paths. But other realistic paths should be explored too.
+>
+> Many programs have outdated or incomplete scopes. It’s risky to hunt in assets that aren’t listed, but reputable projects should still pay.
+>
+> Honestly, staying focused is the toughest part so far. It’s easy to get carried away with other stuff.
+>
+> There’s a lot of exploring and sleuthing. Many projects follow the lazy strategy of just pointing to a GitHub repository, instead of listing on-chain assets.
+>
+> Most are DeFi projects, blockchains, or bridges.
+>
+> Vulnerability candidates are the usual ones: draining vaults and pools, approvals, or infinite minting. Chains might have some more special bugs.
+>
+> Most of the projects on the list are well-secured. It’s possible that right now none of them expose a life-ending bug. So it would be looking for a needle in a needle-less haystack.
+>
+> That’s not what a good hunter should even think about tho!
+>
+> ---
+>
+> $1M Bounty Programs:
+>
+> 0x, Aave, Aave v4, Arbitrum, Beanstalk, Cap, CapyFi, Cetus, Chainlink, Coinbase, Compound, CoW Protocol, dYdX, Ethena, Ethereum, Euler, Flying Tulip, GMX, Gnosis Chain, Hyperlane, Immutable, Kamino, Kiln v1, Kinetiq, LayerZero, Lido, LiFi, Lista DAO, Monad, Morpho, NEAR, OKX, Olympus, Ondo Finance, Ondo Perps, Optimism, Origin Protocol, PancakeSwap, PancakeSwap Infinity, Paxos, Pendle Finance, Polymarket, Reserve Protocol, Rhino, Robinhood, Safe, Sky, Solana, Spark, Stader for ETH, Stargate, Uniswap, USDT0, Usual Labs, Usual Labs - Fira, Veda, Wormhole.
+
+**Links in post:** https://twitter.com/WhiteHatMage/status/2118335586931216783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @WhiteHatMage — 2026-11-05 13:32 UTC (2026-11-05 14:32 WAT)
+    
+    - URL: https://x.com/WhiteHatMage/status/2118335586931216783
+    - Metrics (at fetch): bookmark 23, impression 4808, like 78, quote 1, reply 5, repost 2
+    
+    > I'm easily distracted by paths with potentially lower rewards, just because they're shiny and promising.
+    >
+    > The toughest part of hunting a big reward is staying focused.
+    >
+    > I've already found some broken assumptions. I'm sure the devs aren't aware of them. Will they lead to clear exploit paths? I don't know. I'm finding ways to bypass checks, but it takes time.
+    >
+    > The problem is that none of those paths put $10M in assets at risk in a trustless way, so I shouldn't be wasting my time on them.
+    >
+    > I'm discouraged from spending my time investigating paths that aren't guaranteed to lead to a clear, good payout, although they're fun to analyze.
+    >
+    > I need to focus
+    
+    **Links in post:** https://twitter.com/WhiteHatMage/status/2115791219225940257
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @WhiteHatMage — 2026-10-29 13:01 UTC (2026-10-29 14:01 WAT)
+        
+        - URL: https://x.com/WhiteHatMage/status/2115791219225940257
+        - Metrics (at fetch): bookmark 16, impression 6007, like 134, quote 1, reply 13, repost 2
+        
+        > Let's get back to active hunting for a while. Like the old cavemen did, by reading the code.
+        >
+        > /goal: one report worth $1M
+        >
+        > Is it a good strategy? Probably not lmao
+        
+    
+
+
+---
+
+## 2026-11-11 · Reply · @p_tsanev Got some writeups to share with your homies, bro?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1662452097944625152 — 2026-11-11 15:42 UTC (2026-11-11 16:42 WAT)
+
+- URL: https://x.com/1662452097944625152/status/2120542743680385360
+- Metrics (at fetch): bookmark 5, impression 1206, like 14, quote 0, reply 2, retweet 0
+
+> Bro is definitely training a model asking for every write-up out there 😳
+> @WhiteHatMage come out with the banger https://t.co/s3U0vc2xo4
+
+**Quoted post (full text):**
+
+    #### Quoted post — @WhiteHatMage — 2026-11-11 15:37 UTC (2026-11-11 16:37 WAT)
+    
+    - URL: https://x.com/WhiteHatMage/status/2120541555283087448
+    - Metrics (at fetch): bookmark 24, impression 3068, like 50, quote 1, reply 1, repost 2
+    
+    > Where can we find the writeup or any details about this $2.5M bounty? https://twitter.com/v12sec/status/2082890648374424012
+    
+    **Links in post:** https://twitter.com/v12sec/status/2082890648374424012
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @v12sec — 2026-07-30 18:06 UTC (2026-07-30 19:06 WAT)
+        
+        - URL: https://x.com/v12sec/status/2082890648374424012
+        - Metrics (at fetch): bookmark 1007, impression 555875, like 1042, quote 101, reply 84, repost 149
+        
+        > http://x.com/i/article/2082889205793914880
+        >
+        > [X Article — How to raise a $10M Seed Round — full text follows]
+        >
+        > Earlier this month, we won a $2.5M bug bounty–the largest bounty ever received by an AI agent. This was a bug in a major blockchain, and it put >$100M of funds at risk. We found the bug fully autonomously using V12, our AI security agent, and worked collaboratively with the team to remediate the issue.
+        > V12 isn’t a generic agentic security tool. It regularly finds critical bugs like this, among countless 0days (including Linux LPEs, QEMU escape, Firefox UXSS, Postgres and Redis bidirectional RCE). That’s because, while we are building a product, our main mission is to research and build dangerously powerful offensive security tools. To make this possible, we've raised a $10 million seed round led by Electric Capital, with participation from ZachXBT, samczsun, Walden Yan, and more.
+        > We encourage you to try V12 yourself. It’s self-serve, and you’ll get $200 of free usage upon signup for the next seven days.
+        >  
+        > Part 1: What We’re Doing
+        > Our goal is to build a cyber nuke. That means building something that can find all of the bugs in a system. This is particularly interesting because such a capability would allow you to exploit software that’s previously considered secure. This hasn’t been possible until now, but frontier AI changes this.
+        > We are not doing pentesting. Black-box pentesting that simulates an outside attacker isn’t interesting to us. It’s a saturated market, and we don’t want to make another product that throws XSS payloads. An agentic pentest is great for finding some bugs, but what we want is something that finds all of the bugs. That isn’t possible without reading and understanding code. We need to focus on white box code auditing, which looks more like vulnerability research.
+        >  
+        > More concretely, that looks like a system that can reason about code and all of the underlying abstractions, even creating new ones (e.g. weird machines). We want a system that doesn’t just find bugs, but can invent entirely new bug classes. That being said, this has also been the area of security that has most resisted automation. A lot of vulnerability research looks like carefully reasoning about code and proving to yourself “no, this can’t be buggy” or alternatively, wondering “wait, what if…?” All of this requires human-level intelligence, which hasn’t been possible to scale until now.
+        > So in short, what we want is an AI system that takes in an arbitrarily large and complex codebase, reasons about how it actually works, and then uses that understanding to invent–not just discover–bugs and exploits.
+        > Of course, a system that can truly find all bugs is not really possible; that’s the halting problem in disguise. It's equivalent to proving that something has no bugs, where exploits are counterexamples. You can make programs that are arbitrarily hard to exploit. For example, a program that's vulnerable if the Collatz conjecture is false. But we intend to push the limits and build the closest approximation that's practically possible.
+        > And none to guide us
+        > Let’s say we actually build the cyber nuke. Now what?
+        > Given an explosion of offensive capabilities, the world will drastically change. However, it’s unrealistic to expect developers–especially enterprises–to suddenly adapt on their own. Mature organizations lack the vision or expertise to properly make the shift. They also need solutions–functioning, well-designed products–not just "bags of tools".
+        > Regarding organizations’ ability to adapt: it's easy to point at new, state-of-the-art models and claim that cyber is solved. It's another thing for developers to meaningfully leverage models to secure their code. The average developer is still asking Claude or Codex to "review my PR for bugs" followed by "OK fix these". This is nowhere close to sufficient! Attackers already employ complex, aggressive bug-finding harnesses and pipelines. There’s asymmetry here. Defenders neither have the resources to create these pipelines, nor can they amortize the cost across many bug-hunting targets. They need someone to leverage, harness, and deploy these models to unlock their full capability.
+        >  
+        > Meanwhile, people are busy. They are overwhelmed trying to meet deadlines and ship features on the roadmap. They don't have time to think about security; they want someone–or something– to come in and fix it for them. It should embed directly into their organization (i.e. in their Slack), understand their workflow (do you use Github? how do bugs get assigned? what do you use for issue tracking? what agents do you use?), and feel tailored to their context.
+        > For the same reason, defenders lose unless they have a product that’s useful out of the box. It needs to be either fully self-serve or come with white glove implementation. It should have the correct form factor (a CLI? an MCP? a Slack agent? a Github bot? all of the above?); it should feel good (not laggy, works on mobile, buttons are where you expect, …); it should make sense (inoffensive billing model, access control works appropriately, logical audit scope selection, …). There are a million things here to get right for such a product to actually be adoptable.
+        > So in short: build something that takes in arbitrarily complex programs, fully reasons about them, and finds novel bugs. Then package that capability into a useful product, and handhold developers so they can actually use and benefit from it.
+        >  
+        > Part 2: Things We Believe In
+        > OK, so how do we actually make this happen? Any concrete game plan is useless (this is a seed stage company). It makes more sense to lay out our guiding principles and how we predict the world will evolve.
+        > Against "Safetyism"
+        > First, we believe the most efficient way to secure the world's software is to give everyone bug-finding capabilities. We don't believe in "contact us" or "apply for access". The logical end state is a world where all bugs are found and patched. Gatekeeping access just slows down this process. For maintainers, adapting to a new threat landscape is uncomfortable but unavoidable, and we think the best approach is to just find all the bugs now. In practice, that means arming defenders with offensive capabilities so they can harden their own code.
+        >  
+        > To be clear, we want software to be safe and trusted. It's irresponsible to unleash offensive capabilities that the world is unprepared for. But a lot of the “controlled access” or “cyber verification” we see lately is posturing and marketing. People use safety concerns as a pretext for not actually giving anyone access–and in the process, not protecting people at scale. This year alone, V12 has protected users with over 6,000 security reviews. We're not against safety, we're against safety LARP.
+        > Open Disclosure
+        > We believe in open disclosure. Responsible disclosure will be seen as an outdated way of reporting and fixing bugs. Embargoes and coordinated disclosure don't make sense in a world where anyone with the right tools can find and weaponize a vulnerability with minimal human intervention or expertise. We saw this when we found and reported Fragnesia, Pintheft, and DirtyDecrypt–Linux LPE 0days that ended up being leaked before patches landed in mainline kernels. Anyone can monitor public commits and trivially recreate a weaponized exploit. The only real solution is eliminating the patch gap entirely. In practice, this looks like more frequent (and automatic) updates and vendors shipping patches the same day (hour!) a bug is found. Particularly, that means defenders need extraordinary PoC and fix generation capabilities.
+        > Bug bounties are dead
+        > Bug bounties in their current form will be dead, beside vulnerability acquisition programs for exceptionally valuable bugs. All other bugs will be mined out by offensive cyber tools like V12 before the code is shipped i.e. before attackers get a chance to start looking.
+        >  
+        > Maintainers are buckling under the weight of AI bug bounty submissions. Many have announced they are ending bug bounties entirely. Now that bugs have become cheaper than ever, the only solutions are to either (1) stop caring about most bugs or (2) stop shipping them. In the past, both were untenable because while virtually all code is flawed, reasoning through all the possible bugs was time and cost prohibitive. But now, we believe it's not only possible but inevitable.
+        > Crypto security is interesting
+        > Crypto projects are interesting targets and an important wedge for our company. We are obsessed with finding all the bugs, and crypto is currently the place where this matters most. More than $500M has been stolen in hacks just this year. If V12 can succeed in crypto–if we can win on “hard mode”–then we can win anywhere.
+        > With limited exceptions (iOS full chain?), there are no bugs outside of crypto that claim seven or eight figure bounties. Outside of crypto, $50k is still considered a huge bounty. In crypto, a critical fund loss vulnerability is worth hundreds of millions of dollars if exploited. In general, no one wants to take security seriously, but crypto companies are forced to. That means when choosing security products, they select for bug-finding ability over dashboards–what V12 is optimized for. Meanwhile, outside crypto, security still revolves around a culture of compliance, not substance.
+        > All software is vulnerable, but the world operates as if this weren’t the case. This only worked so far because attackers were rare–technical skill was the bottleneck. AI removes that constraint. Now, if software isn’t secure, it WILL get exploited.
+        > The impact is magnified by the fact the world is increasingly online, and most of the world meaningfully exists “in a computer” now. Everything will have to become much more secure very quickly, and that looks like many more teams treating security as seriously as crypto companies do.
+        >  
+        > By the way, to dispel a common misconception: crypto codebases are non-trivial in size, complexity, and diversity. Firedancer is 722k LoC of highly optimized C, Geth + Prysm is 1.1M LoC of Go, Zcash is 304k LoC of C++ and Python (Orchard alone is 44k LoC of circuits and cryptography in Rust). These all contain virtual machines, low-level systems code, and distributed databases. For context, Postgres and CPython both hover around ~1M LoC.
+        > Time for real security
+        > The world’s software has always been vulnerable, but now it’s impossible to ignore. The modern web depends on secure cryptography and browsers, frontier models rely on TEEs to protect weights, and innovations in robotics and biology will only make security more important. Basically, all code eventually becomes high assurance code.
+        > Don’t forget about the growing complexity of software supply chains. A lot of code we don't think about will be (or already is) high assurance. OpenSSH certainly comes to mind, but what about all of the packages we forgot about? The internet depends on software that nobody is looking at.
+        > The way security is currently done will not work. It is an afterthought and performed on a best-efforts basis. Teams focus on developing features and make security someone else’s responsibility. Most security products look like band-aids that manage the symptoms of bugs, not real solutions. But in a world with powerful AI, if there is even a single bug, someone is going to find and exploit it.
+        > Instead, security needs to be continuous and comprehensive–every merged PR needs to be vulnerability-free. The road to get there will not be easy, and we don't have everything figured out. No one does. But the fundamental problem this boils down to–finding bugs–is what we’ve been obsessed with for the last 10 years. Before V12, we founded Zellic, one of the world’s leading security firms, with 1500+ security reviews for 500+ highly attacked clients (e.g. crypto exchanges, bridges, L1s, wallets, open-source operating systems). And before that, we founded perfect blue, the world’s #1 CTF team for 3 years.
+        >  
+        > Every person on the V12 team hails from either CTFs or vulnerability research. Look at what we've reported so far: multiple Linux LPEs, a QEMU escape, wormable RCEs in Redis and Postgresql (bidirectional!), MariaDB, and Anydesk. And what’s even more promising is that whatever new software we throw V12 at, bugs keep pouring out: Dolphin emulator, an employee’s NAS, Signal messenger.
+        > Closing Thoughts
+        > A good seed round gives you the best thing in the world: the chance to build something you love with your friends.
+        > We've dreamed about this problem–automatically finding all bugs–since we were teenagers. Now AI is finally powerful enough for us to take a real stab at it. We’re excited. If we’re right, what we’re building will be dangerously capable, and the world will adapt around it.
+        > We want to be the ones who make it happen. If V12 sounds like something you’d want to be part of: join us, we’re hiring!
+        > View this post on the V12 blog
+        >
+        > [Links in article: https://en.wikipedia.org/wiki/XZ_Utils_backdoor, https://www.dullien.net/thomas/weird-machines-exploitability.pdf, https://ctftime.org/team/53802, https://xkcd.com/2347/, https://github.com/curl/curl/pull/20312, https://www.youtube.com/watch?v=QhNmb42nF-I, https://v12.sh/, https://tally.so/r/xXEYxv, https://zellic.io/, https://v12.sh/blog/how-to-raise-a-10m-seed-round]
+        
+        **Links in post:** http://x.com/i/article/2082889205793914880
+        
+    
+
+
+### Post — @WhiteHatMage — 2026-11-11 15:51 UTC (2026-11-11 16:51 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120544949070364820
+- Metrics (at fetch): bookmark 0, impression 371, like 11, quote 0, reply 3, retweet 0
+
+> @p_tsanev Got some writeups to share with your homies, bro?
+
+
+---
+
+## 2026-11-11 · Post · Where can we find the writeup or any details about this $2.5M bounty? https://twitter.com/v12sec/sta
+
+
+### Post — @WhiteHatMage — 2026-11-11 15:37 UTC (2026-11-11 16:37 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120541555283087448
+- Metrics (at fetch): bookmark 24, impression 3068, like 50, quote 1, reply 1, repost 2
+
+> Where can we find the writeup or any details about this $2.5M bounty? https://twitter.com/v12sec/status/2082890648374424012
+
+**Links in post:** https://twitter.com/v12sec/status/2082890648374424012
+
+**Quoted post (full text):**
+
+    #### Quoted post — @v12sec — 2026-07-30 18:06 UTC (2026-07-30 19:06 WAT)
+    
+    - URL: https://x.com/v12sec/status/2082890648374424012
+    - Metrics (at fetch): bookmark 1007, impression 555875, like 1042, quote 101, reply 84, repost 149
+    
+    > http://x.com/i/article/2082889205793914880
+    >
+    > [X Article — How to raise a $10M Seed Round — full text follows]
+    >
+    > Earlier this month, we won a $2.5M bug bounty–the largest bounty ever received by an AI agent. This was a bug in a major blockchain, and it put >$100M of funds at risk. We found the bug fully autonomously using V12, our AI security agent, and worked collaboratively with the team to remediate the issue.
+    > V12 isn’t a generic agentic security tool. It regularly finds critical bugs like this, among countless 0days (including Linux LPEs, QEMU escape, Firefox UXSS, Postgres and Redis bidirectional RCE). That’s because, while we are building a product, our main mission is to research and build dangerously powerful offensive security tools. To make this possible, we've raised a $10 million seed round led by Electric Capital, with participation from ZachXBT, samczsun, Walden Yan, and more.
+    > We encourage you to try V12 yourself. It’s self-serve, and you’ll get $200 of free usage upon signup for the next seven days.
+    >  
+    > Part 1: What We’re Doing
+    > Our goal is to build a cyber nuke. That means building something that can find all of the bugs in a system. This is particularly interesting because such a capability would allow you to exploit software that’s previously considered secure. This hasn’t been possible until now, but frontier AI changes this.
+    > We are not doing pentesting. Black-box pentesting that simulates an outside attacker isn’t interesting to us. It’s a saturated market, and we don’t want to make another product that throws XSS payloads. An agentic pentest is great for finding some bugs, but what we want is something that finds all of the bugs. That isn’t possible without reading and understanding code. We need to focus on white box code auditing, which looks more like vulnerability research.
+    >  
+    > More concretely, that looks like a system that can reason about code and all of the underlying abstractions, even creating new ones (e.g. weird machines). We want a system that doesn’t just find bugs, but can invent entirely new bug classes. That being said, this has also been the area of security that has most resisted automation. A lot of vulnerability research looks like carefully reasoning about code and proving to yourself “no, this can’t be buggy” or alternatively, wondering “wait, what if…?” All of this requires human-level intelligence, which hasn’t been possible to scale until now.
+    > So in short, what we want is an AI system that takes in an arbitrarily large and complex codebase, reasons about how it actually works, and then uses that understanding to invent–not just discover–bugs and exploits.
+    > Of course, a system that can truly find all bugs is not really possible; that’s the halting problem in disguise. It's equivalent to proving that something has no bugs, where exploits are counterexamples. You can make programs that are arbitrarily hard to exploit. For example, a program that's vulnerable if the Collatz conjecture is false. But we intend to push the limits and build the closest approximation that's practically possible.
+    > And none to guide us
+    > Let’s say we actually build the cyber nuke. Now what?
+    > Given an explosion of offensive capabilities, the world will drastically change. However, it’s unrealistic to expect developers–especially enterprises–to suddenly adapt on their own. Mature organizations lack the vision or expertise to properly make the shift. They also need solutions–functioning, well-designed products–not just "bags of tools".
+    > Regarding organizations’ ability to adapt: it's easy to point at new, state-of-the-art models and claim that cyber is solved. It's another thing for developers to meaningfully leverage models to secure their code. The average developer is still asking Claude or Codex to "review my PR for bugs" followed by "OK fix these". This is nowhere close to sufficient! Attackers already employ complex, aggressive bug-finding harnesses and pipelines. There’s asymmetry here. Defenders neither have the resources to create these pipelines, nor can they amortize the cost across many bug-hunting targets. They need someone to leverage, harness, and deploy these models to unlock their full capability.
+    >  
+    > Meanwhile, people are busy. They are overwhelmed trying to meet deadlines and ship features on the roadmap. They don't have time to think about security; they want someone–or something– to come in and fix it for them. It should embed directly into their organization (i.e. in their Slack), understand their workflow (do you use Github? how do bugs get assigned? what do you use for issue tracking? what agents do you use?), and feel tailored to their context.
+    > For the same reason, defenders lose unless they have a product that’s useful out of the box. It needs to be either fully self-serve or come with white glove implementation. It should have the correct form factor (a CLI? an MCP? a Slack agent? a Github bot? all of the above?); it should feel good (not laggy, works on mobile, buttons are where you expect, …); it should make sense (inoffensive billing model, access control works appropriately, logical audit scope selection, …). There are a million things here to get right for such a product to actually be adoptable.
+    > So in short: build something that takes in arbitrarily complex programs, fully reasons about them, and finds novel bugs. Then package that capability into a useful product, and handhold developers so they can actually use and benefit from it.
+    >  
+    > Part 2: Things We Believe In
+    > OK, so how do we actually make this happen? Any concrete game plan is useless (this is a seed stage company). It makes more sense to lay out our guiding principles and how we predict the world will evolve.
+    > Against "Safetyism"
+    > First, we believe the most efficient way to secure the world's software is to give everyone bug-finding capabilities. We don't believe in "contact us" or "apply for access". The logical end state is a world where all bugs are found and patched. Gatekeeping access just slows down this process. For maintainers, adapting to a new threat landscape is uncomfortable but unavoidable, and we think the best approach is to just find all the bugs now. In practice, that means arming defenders with offensive capabilities so they can harden their own code.
+    >  
+    > To be clear, we want software to be safe and trusted. It's irresponsible to unleash offensive capabilities that the world is unprepared for. But a lot of the “controlled access” or “cyber verification” we see lately is posturing and marketing. People use safety concerns as a pretext for not actually giving anyone access–and in the process, not protecting people at scale. This year alone, V12 has protected users with over 6,000 security reviews. We're not against safety, we're against safety LARP.
+    > Open Disclosure
+    > We believe in open disclosure. Responsible disclosure will be seen as an outdated way of reporting and fixing bugs. Embargoes and coordinated disclosure don't make sense in a world where anyone with the right tools can find and weaponize a vulnerability with minimal human intervention or expertise. We saw this when we found and reported Fragnesia, Pintheft, and DirtyDecrypt–Linux LPE 0days that ended up being leaked before patches landed in mainline kernels. Anyone can monitor public commits and trivially recreate a weaponized exploit. The only real solution is eliminating the patch gap entirely. In practice, this looks like more frequent (and automatic) updates and vendors shipping patches the same day (hour!) a bug is found. Particularly, that means defenders need extraordinary PoC and fix generation capabilities.
+    > Bug bounties are dead
+    > Bug bounties in their current form will be dead, beside vulnerability acquisition programs for exceptionally valuable bugs. All other bugs will be mined out by offensive cyber tools like V12 before the code is shipped i.e. before attackers get a chance to start looking.
+    >  
+    > Maintainers are buckling under the weight of AI bug bounty submissions. Many have announced they are ending bug bounties entirely. Now that bugs have become cheaper than ever, the only solutions are to either (1) stop caring about most bugs or (2) stop shipping them. In the past, both were untenable because while virtually all code is flawed, reasoning through all the possible bugs was time and cost prohibitive. But now, we believe it's not only possible but inevitable.
+    > Crypto security is interesting
+    > Crypto projects are interesting targets and an important wedge for our company. We are obsessed with finding all the bugs, and crypto is currently the place where this matters most. More than $500M has been stolen in hacks just this year. If V12 can succeed in crypto–if we can win on “hard mode”–then we can win anywhere.
+    > With limited exceptions (iOS full chain?), there are no bugs outside of crypto that claim seven or eight figure bounties. Outside of crypto, $50k is still considered a huge bounty. In crypto, a critical fund loss vulnerability is worth hundreds of millions of dollars if exploited. In general, no one wants to take security seriously, but crypto companies are forced to. That means when choosing security products, they select for bug-finding ability over dashboards–what V12 is optimized for. Meanwhile, outside crypto, security still revolves around a culture of compliance, not substance.
+    > All software is vulnerable, but the world operates as if this weren’t the case. This only worked so far because attackers were rare–technical skill was the bottleneck. AI removes that constraint. Now, if software isn’t secure, it WILL get exploited.
+    > The impact is magnified by the fact the world is increasingly online, and most of the world meaningfully exists “in a computer” now. Everything will have to become much more secure very quickly, and that looks like many more teams treating security as seriously as crypto companies do.
+    >  
+    > By the way, to dispel a common misconception: crypto codebases are non-trivial in size, complexity, and diversity. Firedancer is 722k LoC of highly optimized C, Geth + Prysm is 1.1M LoC of Go, Zcash is 304k LoC of C++ and Python (Orchard alone is 44k LoC of circuits and cryptography in Rust). These all contain virtual machines, low-level systems code, and distributed databases. For context, Postgres and CPython both hover around ~1M LoC.
+    > Time for real security
+    > The world’s software has always been vulnerable, but now it’s impossible to ignore. The modern web depends on secure cryptography and browsers, frontier models rely on TEEs to protect weights, and innovations in robotics and biology will only make security more important. Basically, all code eventually becomes high assurance code.
+    > Don’t forget about the growing complexity of software supply chains. A lot of code we don't think about will be (or already is) high assurance. OpenSSH certainly comes to mind, but what about all of the packages we forgot about? The internet depends on software that nobody is looking at.
+    > The way security is currently done will not work. It is an afterthought and performed on a best-efforts basis. Teams focus on developing features and make security someone else’s responsibility. Most security products look like band-aids that manage the symptoms of bugs, not real solutions. But in a world with powerful AI, if there is even a single bug, someone is going to find and exploit it.
+    > Instead, security needs to be continuous and comprehensive–every merged PR needs to be vulnerability-free. The road to get there will not be easy, and we don't have everything figured out. No one does. But the fundamental problem this boils down to–finding bugs–is what we’ve been obsessed with for the last 10 years. Before V12, we founded Zellic, one of the world’s leading security firms, with 1500+ security reviews for 500+ highly attacked clients (e.g. crypto exchanges, bridges, L1s, wallets, open-source operating systems). And before that, we founded perfect blue, the world’s #1 CTF team for 3 years.
+    >  
+    > Every person on the V12 team hails from either CTFs or vulnerability research. Look at what we've reported so far: multiple Linux LPEs, a QEMU escape, wormable RCEs in Redis and Postgresql (bidirectional!), MariaDB, and Anydesk. And what’s even more promising is that whatever new software we throw V12 at, bugs keep pouring out: Dolphin emulator, an employee’s NAS, Signal messenger.
+    > Closing Thoughts
+    > A good seed round gives you the best thing in the world: the chance to build something you love with your friends.
+    > We've dreamed about this problem–automatically finding all bugs–since we were teenagers. Now AI is finally powerful enough for us to take a real stab at it. We’re excited. If we’re right, what we’re building will be dangerously capable, and the world will adapt around it.
+    > We want to be the ones who make it happen. If V12 sounds like something you’d want to be part of: join us, we’re hiring!
+    > View this post on the V12 blog
+    >
+    > [Links in article: https://en.wikipedia.org/wiki/XZ_Utils_backdoor, https://www.dullien.net/thomas/weird-machines-exploitability.pdf, https://ctftime.org/team/53802, https://xkcd.com/2347/, https://github.com/curl/curl/pull/20312, https://www.youtube.com/watch?v=QhNmb42nF-I, https://v12.sh/, https://tally.so/r/xXEYxv, https://zellic.io/, https://v12.sh/blog/how-to-raise-a-10m-seed-round]
+    
+    **Links in post:** http://x.com/i/article/2082889205793914880
+    
+
+
+---
+
+## 2026-11-11 · Reply · @alexfilippov314 @b612security Gotcha. Thanks for sharing your thoughts
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1589548360599478273 — 2026-11-11 11:04 UTC (2026-11-11 12:04 WAT)
+
+- URL: https://x.com/1589548360599478273/status/2120472605224214540
+- Metrics (at fetch): bookmark 0, impression 200, like 6, quote 0, reply 1, retweet 0
+
+> @WhiteHatMage @b612security Yeah, they were mostly trivial RPC crashes or block delays caused by underpriced or unaccounted-for operations. And they were mostly found by AI alone, without much insight from my side. They were good debugging targets for the PoC generation and reporting flows in my tool, so I
+
+
+### Post — @WhiteHatMage — 2026-11-11 11:42 UTC (2026-11-11 12:42 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120482240350257161
+- Metrics (at fetch): bookmark 0, impression 63, like 2, quote 0, reply 0, retweet 0
+
+> @alexfilippov314 @b612security Gotcha. Thanks for sharing your thoughts
 
 
 ---
@@ -95,13 +488,19 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
 ### Post — @WhiteHatMage — 2026-11-05 13:32 UTC (2026-11-05 14:32 WAT)
 
 - URL: https://x.com/WhiteHatMage/status/2118335586931216783
-- Metrics (at fetch): bookmark 22, impression 2246, like 70, quote 0, reply 5, retweet 2
+- Metrics (at fetch): bookmark 23, impression 4808, like 78, quote 1, reply 5, repost 2
 
 > I'm easily distracted by paths with potentially lower rewards, just because they're shiny and promising.
 >
 > The toughest part of hunting a big reward is staying focused.
 >
-> I've already found some broken assumptions. I'm sure the devs aren't aware of them. Will they lead to clear https://twitter.com/WhiteHatMage/status/2115791219225940257
+> I've already found some broken assumptions. I'm sure the devs aren't aware of them. Will they lead to clear exploit paths? I don't know. I'm finding ways to bypass checks, but it takes time.
+>
+> The problem is that none of those paths put $10M in assets at risk in a trustless way, so I shouldn't be wasting my time on them.
+>
+> I'm discouraged from spending my time investigating paths that aren't guaranteed to lead to a clear, good payout, although they're fun to analyze.
+>
+> I need to focus
 
 **Links in post:** https://twitter.com/WhiteHatMage/status/2115791219225940257
 
@@ -110,7 +509,7 @@ _Generated 2026-11-11 from the X API (full-archive search + timeline). Every pos
     #### Quoted post — @WhiteHatMage — 2026-10-29 13:01 UTC (2026-10-29 14:01 WAT)
     
     - URL: https://x.com/WhiteHatMage/status/2115791219225940257
-    - Metrics (at fetch): bookmark 16, impression 5861, like 133, quote 1, reply 13, retweet 2
+    - Metrics (at fetch): bookmark 16, impression 6007, like 134, quote 1, reply 13, repost 2
     
     > Let's get back to active hunting for a while. Like the old cavemen did, by reading the code.
     >
@@ -193,7 +592,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @WhiteHatMage — 2026-10-29 13:01 UTC (2026-10-29 14:01 WAT)
 
 - URL: https://x.com/WhiteHatMage/status/2115791219225940257
-- Metrics (at fetch): bookmark 16, impression 5861, like 133, quote 1, reply 13, retweet 2
+- Metrics (at fetch): bookmark 16, impression 6007, like 134, quote 1, reply 13, repost 2
 
 > Let's get back to active hunting for a while. Like the old cavemen did, by reading the code.
 >

@@ -1,6 +1,6 @@
 # @trust__90 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 10
 - Conversations/threads: 9
@@ -284,6 +284,46 @@ Tags (automatic): Dependency confusion / supply chain, Smart contract / DeFi, Bl
     - Metrics (at fetch): bookmark 811, impression 1989473, like 1986, quote 529, reply 364, repost 459
     
     > http://x.com/i/article/2046074635264180224
+    >
+    > [X Article — KelpDAO Incident Statement  — full text follows]
+    >
+    > On April 18, 2026, KelpDAO was exploited for approximately $290M. Preliminary indicators suggest attribution to a highly-sophisticated state actor, likely DPRK’s Lazarus Group, more specifically TraderTraitor. This incident was isolated to KelpDAO’s rsETH configuration as a direct consequence of their single-DVN setup. There is zero contagion to any other cross-chain assets or applications.
+    > The subject of this highly-sophisticated attack was the poisoning of the downstream RPC infrastructure used by the LayerZero Labs DVN. All affected RPC nodes have been deprecated and replaced, and the LayerZero Labs DVN is now live. 
+    >
+    > We share these details to help the community better understand and guard against this emerging type of state-sponsored attack vector.
+    > Background: LayerZero's Modular Security Architecture
+    > The LayerZero protocol is built on a foundation of modular, application-configurable security. Decentralized Verifier Networks (DVNs) are independent entities responsible for verifying the integrity of cross-chain messages. Critically, the protocol does not prescribe a single security configuration. Instead, it empowers each application and asset issuer to define their own security posture, including which DVNs they rely upon, in what combination, and with what redundancy thresholds.
+    > Industry best practice — and LayerZero's express recommendation to all integrators — is to configure a multi-DVN setup with diversity and redundancy. This means no single DVN should represent a unilateral point of trust or failure.
+    > Scope and Contagion: Limited to rsETH
+    > We have conducted a comprehensive review of active integrations on the LayerZero protocol. We can confirm with confidence that there is zero contagion to any other asset or application. This incident was isolated entirely to KelpDAO's rsETH configuration as a direct consequence of their single-DVN setup.
+    > The affected application was rsETH, issued by KelpDAO. Their OApp configuration at the time of this incident relied on a 1-of-1 DVN setup, with LayerZero Labs as the sole verifier — a configuration that directly contradicts the multi-DVN redundancy model that LayerZero has consistently recommended to all integration partners. Operating a single-point-of-failure configuration meant there was no independent verifier to catch and reject a forged message. LayerZero and other external parties previously communicated best practices around DVN diversification to KelpDAO. Despite these recommendations, KelpDAO chose to utilize a 1/1 DVN configuration.
+    >
+    > A properly hardened configuration would have required consensus across multiple independent DVNs, rendering this attack ineffective even in the event of any single DVN being compromised.
+    > Our stance on DVN configuration is outlined explicitly in our integrations checklist (screenshot below).
+    >  
+    > What Happened
+    > On April 18, 2026, LayerZero Labs’ DVN became the target of a highly sophisticated attack, likely attributable to the Lazarus Group, more specifically TraderTraitor. The attack was specifically engineered to manipulate or poison downstream RPC infrastructure by compromising a quorum of the RPCs the LayerZero Labs DVN relied upon to verify transactions. It was not done through an exploit to the protocol, DVN, key management or other means.
+    > Rather, the attacker was able to gain access to the list of RPCs our DVN uses, compromise two of them – which were independent nodes running on separate clusters without direct connection to each other – and swap out binaries running the op-geth nodes. Because of our least-privilege principles, they were unable to compromise the actual DVN instances. However, they used this pivot point to execute an RPC-spoofing attack. Their malicious node used a custom payload designed explicitly to forge a message to the DVN with minimal warnings.  The message was only shown to the DVN while the node explicitly told the truth to any other IP addresses that made RPC requests, including our Scan service that would index all the information about the attack to all our internal observability infrastructure. This was carefully designed to prevent any security monitoring from noticing anomalies from what external RPCs were reporting. It was designed to self-destruct once the attack could no longer be performed, disabling the RPCs, deleting the malicious binary and corresponding local logs and configs.
+    > However, even this was insufficient to forge a message. Our DVN setup is trust-minimized and uses both internal and external RPCs for redundancy. In order to complete the attack they performed DDoS attacks on the uncompromised RPCs. The DDoS triggered the failover to the poisoned RPCs. Below are images of the external RPC traffic during the time of the attack.
+    >  
+    >  
+    > As a result of this manipulation, the LayerZero Labs-operated DVN instance confirmed transactions that never in fact took place.
+    > RPC-verification is a fundamental limitation of all offchain services, including bridges, exchanges, etc. We share these learnings to help the industry learn and adapt to these novel attack vectors.
+    > LayerZero Labs' Security Posture
+    > We want to be clear about the environment this attack had to penetrate.
+    > Internally, we run complete Endpoint Detection and Response (EDR) on every single device; access controls per application; completely isolated environments; full system logging; have a dedicated full time security team internally, as well as external security vendors; and are currently in the final stages of SOC2 audit/verification.
+    > Our DVN infrastructure runs across both self-operated and external RPC nodes in combination, ensuring no single provider represents a systemic dependency. All devices accessing production systems are subject to strict device management and endpoint security controls. Access policies operate on least-privilege principles with layered authentication requirements and regular access reviews.
+    > Path Forward
+    > The LayerZero Labs DVN is operational. All applications with a multi-DVN setup should feel confident resuming operations.
+    > We are reaching out to all applications with 1/1 DVN configurations to migrate to multi-DVN setups with redundancy.
+    > The LayerZero Labs DVN will not sign or attest messages from any applications that utilize a 1/1 configuration.
+    > LayerZero Labs is in direct contact with multiple law enforcement agencies around the globe and is cooperating with their investigations.
+    > We are actively supporting industry partners and Seal911 to track funds.
+    > We want to be unambiguous on this point: the LayerZero protocol itself functioned exactly as intended throughout this event. No vulnerability was identified in the protocol.
+    > If that had been a singular system or a system of shared security, then the contagion could have been expansive, affecting all applications. The single defining feature of LayerZero’s architecture is modular security, and in this case it did exactly what it was meant to, which is that the entire attack was isolated to a single application – zero contagion risk throughout the system, zero other OFTs or OApps impacted.
+    > We remain committed to the security and integrity of the LayerZero ecosystem and will provide further updates as the investigation progresses.
+    >
+    > [Links in article: https://docs.layerzero.network/v2/tools/integration-checklist]
     
     **Links in post:** http://x.com/i/article/2046074635264180224
     

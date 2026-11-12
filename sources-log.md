@@ -339,3 +339,37 @@ Full HTTP requests, wildcard payloads, WAF-bypass SQL, XSS polyglots, Algolia cu
 - Full-archive keyword searches (security terms; unfiltered for small accounts) across all watched researchers plus 13 crypto/protocol accounts. Results regenerated into `posts/<handle>/ARCHIVE.md` (verbatim, threads grouped, quoted posts inlined) and `data/x_posts.jsonl`.
 - Per-account before/after counts and which search cursors remain open: [data/backfill_status.md](data/backfill_status.md).
 - Archive total after this pass: 5,407 verbatim posts.
+
+## 2026-11-12 — Daily update (Africa/Lagos)
+
+### X (public reads only; nothing posted/liked/followed)
+- Recent-window full-archive search since 2026-11-11T08:00:00Z across all watched handles (3 OR-batches + mdp_sec original-post filter + pagination).
+- Ingested ~40 new posts; security-relevant ones written under `posts/<handle>/` with Analysis.
+- Backfill: `mdp5` DONE (timeline floor 2026-07-22); `sax5`→`sax5k` security-keyword backfill DONE to 2020-03-15 (373 keyword hits + 50 unfiltered bridge pages). Archive total 5581→15661.
+- X quota at end of run: ~968/1000 remaining today.
+
+### Writeups fetched (full readable markdown)
+| File | Source |
+| --- | --- |
+| `writeups/garethheyes/blind-trust-stealing-credentials-through-csp.md` | https://portswigger.net/research/blind-trust-stealing-credentials-through-csp |
+| `writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md` | https://bluethroatlabs.com/reveries/phala-cloud-gpu-attestation-fake-verified-no-cryptography |
+| `writeups/bluethroat_labs/tee-fail.md` | https://tee.fail |
+| `writeups/saxenism/near-ai-sglang-security-incident-report.md` | https://near.ai/blog/security-incident-report-sglang-vulnerability |
+| `writeups/Rhynorater/depi-backdooring-codex.md` | https://depi.security/blog/20261111-backdooring-codex/ |
+| `writeups/zellic_io/x86-formal-verification-intro.md` | https://www.zellic.io/blog/x86-formal-verification-intro/ |
+| `writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md` | https://github.com/helius-labs/zolana/raw/main/audits/zk_security_solana_privacy_rings_v1_audit.pdf |
+| `writeups/mdp_sec/huntdeck-stats.md` | https://huntdeck.io/stats |
+| `writeups/mdp_sec/blackboxarena-home.md` | https://blackboxarena.ai |
+
+### Advisories
+- Hyperledger Besu: 21 new GHSAs (Oct–Nov 2026) under `projects/ethereum/advisories/` (incl. GHSA-4h4f-925g-8h9p secp256k1 order, GHSA-g5j7-4r2x-rx9j QBFT halt).
+- Vyper: 6 new GHSAs (Oct 2026).
+- RustSec: tdx-guest 0484/0485, tdx_workload_attestation 0480/0481, vodozemac 0445/0451, openssl 0463.
+- Consensys/gnark: 11 GHSA + issue #1767 under `projects/crypto/advisories/gnark-*`.
+
+### Failed fetches
+- http://tee.fail initially HTTP 500; succeeded via https://tee.fail.
+- mdpsec.com unchanged (still 582/148 marketing only; no new report pages).
+
+### New researchers
+- None promoted to full files. `depi_` added as watch-only (quoted by Rhynorater; Codex writeup saved under Rhynorater/).

@@ -1,11 +1,163 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 654
-- Conversations/threads: 478
-- Oldest post captured: 2024-10-01
-- Newest post captured: 2026-11-10
+- Posts in this file: 1130
+- Conversations/threads: 868
+- Oldest post captured: 2020-03-15
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Post · The eeire part of "inference providers are under attack" isn't the data, it's the actions.
+
+
+Tags (automatic): TEE / enclave, AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ilblackdragon — 2026-11-10 09:52 UTC (2026-11-10 10:52 WAT)
+
+- URL: https://x.com/ilblackdragon/status/2120092118349729863
+- Metrics (at fetch): bookmark 84, impression 48260, like 587, quote 18, reply 87, repost 82
+
+> Inference providers are under attack. 
+>
+> AI inference is now playing a critical role and is a honey pot of data and ability to inject actions back into users devices via agents for malicious actors.
+>
+> NEAR AI thwarted a series of attacks on its systems and is back to normal. NEAR Protocol, Intents and other infra wasn’t affected.
+>
+> TEE architecture is part of the answer to making sure that from outside even inference provider doesn’t have an access. User should verify exactly what happens with their data and prompts.
+>
+> NEAR AI code is open and inspected by many partners when deciding to leverage the stack to validate exactly what runs inside TEE and ensuring privacy.
+>
+> In this case there was also a vulnerability within SGLang, open source inference engine that runs inside an enclave. Even though this had a minimum disruption it still was a very 
+>
+> Going forward we are going increase security rigor of dependencies and also improve a “turnstile” to detect when anything out of normal runs inside TEE.
+>
+> Proactive security against external attackers has became a must. We have been using Abliterated models and red teaming harness to continuously monitor and detect issues. We are also expanding scope and compute invested into this.
+
+**Links in post:** https://twitter.com/near_ai/status/2120043366444601458
+
+**Quoted post (full text):**
+
+    #### Quoted post — @near_ai — 2026-11-10 06:38 UTC (2026-11-10 07:38 WAT)
+    
+    - URL: https://x.com/near_ai/status/2120043366444601458
+    - Metrics (at fetch): bookmark 40, impression 53944, like 168, quote 28, reply 35, repost 28
+    
+    > Update: On November 8, an attacker used a vulnerability in SGLang, the inference engine we run, to access part of our infrastructure. We’ve closed the access and fixed it.
+    >
+    > Affected users have been contacted. If you haven’t heard from us, no action is needed.
+    > https://near.ai/blog/security-incident-report-sglang-vulnerability
+    
+    **Links in post:** https://near.ai/blog/security-incident-report-sglang-vulnerability
+    
+
+
+### Post — @saxenism — 2026-11-11 15:24 UTC (2026-11-11 16:24 WAT)
+
+- URL: https://x.com/saxenism/status/2120538169259209027
+- Metrics (at fetch): bookmark 0, impression 105, like 0, quote 0, reply 0, repost 0
+
+> The eeire part of "inference providers are under attack" isn't the data, it's the actions.
+>
+> Once agents act for users, the question stops being "is this request signed?" and becomes "is it signed for this?"
+>
+> We hit exactly this in an SGX enclave earlier this year. A legit signed "execute" message got accepted as permission to "migrate" a contract. The attacker's code then ran inside the enclave with the victim contract's decrypted state. The attestation and signatures were all fine.
+>
+> The TEE did its job. The authorization logic inside it didn't.
+>
+> Wrote up a few more lessons like this here: 
+>
+> https://x.com/bluethroat_labs/status/2120528783673299290
+
+**Links in post:** https://x.com/bluethroat_labs/status/2120528783673299290
+
+**Quoted post (full text):**
+
+    #### Quoted post — @bluethroat_labs — 2026-11-11 14:47 UTC (2026-11-11 15:47 WAT)
+    
+    - URL: https://x.com/bluethroat_labs/status/2120528783673299290
+    - Metrics (at fetch): bookmark 6, impression 644, like 14, quote 0, reply 0, repost 3
+    
+    > "We use TEEs" is not a security guarantee.
+    >
+    > Two teams can both run TEEs and offer wildly different protection. The details are where it breaks.
+    >
+    > 4 things we check every time:
+    >
+    > 1. Physical access changes everything
+    > If your adversary can touch the machine, we treat the TEE as compromised. Published attacks like http://TEE.fail are why. Whoever hosts your hardware is in your threat model.
+    >
+    > 2. Attestation doesn't mean your code is safe
+    > A TEE will faithfully run vulnerable code. Bug in the inference engine or a dependency? Data can leak without anyone breaking the hardware isolation.
+    > The code inside the boundary needs review too.
+    >
+    > 3. Attestation is evidence. Your verifier makes the call.
+    > Authenticate the report. Validate the collateral. Check identity and measurements. Enforce a real policy on platform security status. Then bind that decision to the endpoint actually receiving your data.
+    > Importing an attestation library does none of this for you.
+    >
+    > 4. Is the audited code the code that's running?
+    > Open source is a start. You still need a verifiable link from source → build → attested measurement. Reproducible builds get you there. Without that, "audited" and "attested" can be describing two different things.
+    >
+    > Real example from our Phala/dstack research:
+    > CPU evidence was cryptographically verified. GPU evidence was fetched, parsed as JSON, and shown under "TEE Hardware Verified" with no GPU crypto checks.
+    > The GPU claim had no cryptographic backing. That path has since been fixed.
+    > https://bluethroatlabs.com/reveries/phala-cloud-gpu-attestation-fake-verified-no-cryptography
+    >
+    > Inference providers are under attack. Securing the hardware boundary is one layer of securing the service.
+    >
+    > More real failures and practical checks in our TEE Security Handbook:
+    > https://tee-security-handbook.bluethroatlabs.com/
+    >
+    > https://x.com/ilblackdragon/status/2120092118349729863
+    
+    **Links in post:** https://x.com/ilblackdragon/status/2120092118349729863, http://TEE.fail, https://bluethroatlabs.com/reveries/phala-cloud-gpu-attestation-fake-verified-no-cryptography, https://tee-security-handbook.bluethroatlabs.com/
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @ilblackdragon — 2026-11-10 09:52 UTC (2026-11-10 10:52 WAT)
+        
+        - URL: https://x.com/ilblackdragon/status/2120092118349729863
+        - Metrics (at fetch): bookmark 84, impression 48260, like 587, quote 18, reply 87, repost 82
+        
+        > Inference providers are under attack. 
+        >
+        > AI inference is now playing a critical role and is a honey pot of data and ability to inject actions back into users devices via agents for malicious actors.
+        >
+        > NEAR AI thwarted a series of attacks on its systems and is back to normal. NEAR Protocol, Intents and other infra wasn’t affected.
+        >
+        > TEE architecture is part of the answer to making sure that from outside even inference provider doesn’t have an access. User should verify exactly what happens with their data and prompts.
+        >
+        > NEAR AI code is open and inspected by many partners when deciding to leverage the stack to validate exactly what runs inside TEE and ensuring privacy.
+        >
+        > In this case there was also a vulnerability within SGLang, open source inference engine that runs inside an enclave. Even though this had a minimum disruption it still was a very 
+        >
+        > Going forward we are going increase security rigor of dependencies and also improve a “turnstile” to detect when anything out of normal runs inside TEE.
+        >
+        > Proactive security against external attackers has became a must. We have been using Abliterated models and red teaming harness to continuously monitor and detect issues. We are also expanding scope and compute invested into this.
+        
+        **Links in post:** https://twitter.com/near_ai/status/2120043366444601458
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @near_ai — 2026-11-10 06:38 UTC (2026-11-10 07:38 WAT)
+            
+            - URL: https://x.com/near_ai/status/2120043366444601458
+            - Metrics (at fetch): bookmark 40, impression 53944, like 168, quote 28, reply 35, repost 28
+            
+            > Update: On November 8, an attacker used a vulnerability in SGLang, the inference engine we run, to access part of our infrastructure. We’ve closed the access and fixed it.
+            >
+            > Affected users have been contacted. If you haven’t heard from us, no action is needed.
+            > https://near.ai/blog/security-incident-report-sglang-vulnerability
+            
+            **Links in post:** https://near.ai/blog/security-incident-report-sglang-vulnerability
+            
+        
+    
 
 
 ---
@@ -16336,3 +16488,9701 @@ Tags (automatic): ZK
 > Either my lineage will grow up spoilt and filthy rich or they wouldn't exist at all.
 >
 > No pressure.
+
+
+---
+
+## 2024-09-27 · Post · Join me at EthKL where I would discuss real-life practical strategies to bolster your circuit securi
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-09-27 13:10 UTC (2024-09-27 14:10 WAT)
+
+- URL: https://x.com/saxenism/status/1839653728183546244
+- Metrics (at fetch): bookmark 4, impression 2010, like 28, quote 0, reply 3, retweet 0
+
+> Join me at EthKL where I would discuss real-life practical strategies to bolster your circuit security.
+>
+> Also we'll dive into why testing your circuits isn't enough.
+>
+> And no. Fuzz tests are also not enough, and that's by design.
+>
+> See you in Malaysia, anon ;) https://t.co/O7Xym81SFA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1002302431126929408 — 2024-09-27 03:45 UTC (2024-09-27 04:45 WAT)
+    
+    - URL: https://x.com/1002302431126929408/status/1839511636828409875
+    - Metrics (at fetch): bookmark 0, impression 2890, like 10, quote 1, reply 0, retweet 0
+    
+    > Introducing @saxenism of @zksync into our already STACKED speakers lineup 🔥
+    >
+    > Grab your 🎫 while its hot: https://t.co/U9BIk3IuR7
+    >
+    > #ETHKL24 #KLCC https://t.co/GGYEIfmGJg
+    
+    **Media:**
+    - media `3_1839511627407990784` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-24 · Post · LEAKED: Conversation between a circuit dev and a whitehat. https://t.co/SIWZN7EqPR
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-09-24 11:04 UTC (2024-09-24 12:04 WAT)
+
+- URL: https://x.com/saxenism/status/1838534948447490562
+- Metrics (at fetch): bookmark 2, impression 885, like 9, quote 0, reply 1, retweet 0
+
+> LEAKED: Conversation between a circuit dev and a whitehat. https://t.co/SIWZN7EqPR
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1838534756818173953/pu/img/svSH3_dA-IhXTEov.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-23 · Post · The essence of computer science is to break down complex problems into small, known &amp; manageable
+
+
+### Post — @saxenism — 2024-09-23 15:38 UTC (2024-09-23 16:38 WAT)
+
+- URL: https://x.com/saxenism/status/1838241612264263923
+- Metrics (at fetch): bookmark 2, impression 668, like 7, quote 0, reply 0, retweet 0
+
+> The essence of computer science is to break down complex problems into small, known &amp; manageable tasks.
+>
+> Like the majority of the non-seasoned gym enjoyers I was/am scared of deadlifts.
+>
+> So, used the above philosophy &amp; incorporated rack-pulls &amp; good-mornings in my routine --
+
+
+---
+
+## 2024-09-17 · Post · I've started to enjoy black coffee and dark chocolates.
+
+
+### Post — @saxenism — 2024-09-17 16:45 UTC (2024-09-17 17:45 WAT)
+
+- URL: https://x.com/saxenism/status/1836084002501034366
+- Metrics (at fetch): bookmark 0, impression 663, like 2, quote 0, reply 1, retweet 0
+
+> I've started to enjoy black coffee and dark chocolates.
+>
+> The fuck's wrong with me? https://t.co/AICboxhD8C
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GXsUqe4agAADVv3.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-16 · Post · As a first, are there somethings that you have very little to low clarity on regarding ZkSync? 
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-09-16 11:01 UTC (2024-09-16 12:01 WAT)
+
+- URL: https://x.com/saxenism/status/1835635014706557380
+- Metrics (at fetch): bookmark 0, impression 1220, like 6, quote 0, reply 2, retweet 0
+
+> As a first, are there somethings that you have very little to low clarity on regarding ZkSync? 
+>
+> Ask here. 
+>
+> I'll try and kick off the repo with questions from here as well. https://t.co/GLGIQ06UJ4
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-09-16 10:01 UTC (2024-09-16 11:01 WAT)
+    
+    - URL: https://x.com/saxenism/status/1835620115280548237
+    - Metrics (at fetch): bookmark 2, impression 3901, like 29, quote 1, reply 3, retweet 0
+    
+    > Yesterday a web3 fren was in town, so ofc we hit the gym, cafes and the like.
+    >
+    > One thing that became quite clear in our conversation was that ZkSync feels like a black box to quite a few folks. 
+    >
+    > When I sat down the said fren and walked him through what exactly zksync does and
+    
+
+
+---
+
+## 2024-09-16 · Post · Yesterday a web3 fren was in town, so ofc we hit the gym, cafes and the like.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-09-16 10:01 UTC (2024-09-16 11:01 WAT)
+
+- URL: https://x.com/saxenism/status/1835620115280548237
+- Metrics (at fetch): bookmark 2, impression 3901, like 29, quote 1, reply 3, retweet 0
+
+> Yesterday a web3 fren was in town, so ofc we hit the gym, cafes and the like.
+>
+> One thing that became quite clear in our conversation was that ZkSync feels like a black box to quite a few folks. 
+>
+> When I sat down the said fren and walked him through what exactly zksync does and
+
+
+---
+
+## 2024-09-16 · Post · It's mind boggling just how many uber Chads in the field of maths, cryptography and security are not
+
+
+### Post — @saxenism — 2024-09-16 05:04 UTC (2024-09-16 06:04 WAT)
+
+- URL: https://x.com/saxenism/status/1835545184244990422
+- Metrics (at fetch): bookmark 1, impression 1433, like 18, quote 0, reply 3, retweet 0
+
+> It's mind boggling just how many uber Chads in the field of maths, cryptography and security are not on this app at all (or post next to nothing) and are absolutely killing it from the shadows.
+
+
+---
+
+## 2024-09-15 · Post · Creators that keep on promoting Hypefury.... Do you really sign up with Twitter and consent to THESE
+
+
+### Post — @saxenism — 2024-09-15 05:33 UTC (2024-09-15 06:33 WAT)
+
+- URL: https://x.com/saxenism/status/1835190305811054853
+- Metrics (at fetch): bookmark 0, impression 741, like 3, quote 0, reply 2, retweet 0
+
+> Creators that keep on promoting Hypefury.... Do you really sign up with Twitter and consent to THESE conditions?
+>
+> Diabolical. https://t.co/iVeHgqKetS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GXfnZGRbwAIj4on.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-13 · Post · And I am good man, you can trust me when I tell you to copy and paste random things in your CLI :P
+
+
+### Post — @saxenism — 2024-09-13 09:14 UTC (2024-09-13 10:14 WAT)
+
+- URL: https://x.com/saxenism/status/1834521063922807205
+- Metrics (at fetch): bookmark 0, impression 313, like 4, quote 0, reply 1, retweet 0
+
+> And I am good man, you can trust me when I tell you to copy and paste random things in your CLI :P
+
+
+---
+
+## 2024-09-13 · Post · THIS IS A BIG DEVELOPMENT, towards a more robust cyberpunk future.
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @saxenism — 2024-09-13 09:13 UTC (2024-09-13 10:13 WAT)
+
+- URL: https://x.com/saxenism/status/1834520777447579658
+- Metrics (at fetch): bookmark 3, impression 2235, like 16, quote 0, reply 1, retweet 0
+
+> THIS IS A BIG DEVELOPMENT, towards a more robust cyberpunk future.
+>
+> For the uber-lazy, copy-paste this:
+>
+> curl -X POST -H "Content-Type: application/json" --data '{"jsonrpc": "2.0", "id": 1, "method": "unstable_getTeeProofs", "params": [492016, "Sgx"]}' https://t.co/fuRE9UVEiu https://t.co/bLa0Gd9qs8
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2811767916 — 2024-09-13 07:27 UTC (2024-09-13 08:27 WAT)
+    
+    - URL: https://x.com/2811767916/status/1834494086981558768
+    - Metrics (at fetch): bookmark 39, impression 45512, like 259, quote 14, reply 25, retweet 33
+    
+    > Quick update on @zksync's multiprover:
+    > ⚡️ TEEs are now proving all mainnet transactions! ⚡️ https://t.co/44g3Gn2zH2
+    
+    **Media:**
+    - media `7_1834493377569849346` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-10 · Post · I vote for **same same but different** in a Thai accent https://t.co/WwWjtMFNrT
+
+
+### Post — @saxenism — 2024-09-10 03:27 UTC (2024-09-10 04:27 WAT)
+
+- URL: https://x.com/saxenism/status/1833346481052336462
+- Metrics (at fetch): bookmark 0, impression 568, like 4, quote 0, reply 1, retweet 0
+
+> I vote for **same same but different** in a Thai accent https://t.co/WwWjtMFNrT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3638017396 — 2024-09-09 23:21 UTC (2024-09-10 00:21 WAT)
+    
+    - URL: https://x.com/3638017396/status/1833284680252330108
+    - Metrics (at fetch): bookmark 0, impression 1417, like 3, quote 2, reply 0, retweet 0
+    
+    > starting to think we gotta rebrand FHE, homomorphic is just too complex of a word. its not catchy idk. its like ppl give up after the homo part and just fill in the last bit w whatever rolls off the tongue. https://t.co/UI3GyDMRJ9
+    
+    **Media:**
+    - media `3_1833284668474724353` (details not returned by the API)
+    
+
+
+---
+
+## 2024-09-06 · Post · What a beautiful price. https://t.co/EYgr5WiTbR
+
+
+### Post — @saxenism — 2024-09-06 06:14 UTC (2024-09-06 07:14 WAT)
+
+- URL: https://x.com/saxenism/status/1831938974086234318
+- Metrics (at fetch): bookmark 0, impression 941, like 17, quote 0, reply 2, retweet 0
+
+> What a beautiful price. https://t.co/EYgr5WiTbR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWxapJYWUAA5HkU.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Post · Really happy to see the likes to bookmark ratio on this one :)
+
+
+### Post — @saxenism — 2024-09-05 22:27 UTC (2024-09-05 23:27 WAT)
+
+- URL: https://x.com/saxenism/status/1831821370659098986
+- Metrics (at fetch): bookmark 0, impression 1471, like 13, quote 0, reply 2, retweet 0
+
+> Really happy to see the likes to bookmark ratio on this one :)
+>
+> Feels good to (hopefully) impact dev lives in a positive and meaningful manner 🦦
+>
+> Do you think adding a video of squatting 100 kilos will enhance the engagement 😭😭 https://t.co/lsNamk48HM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+    
+    - URL: https://x.com/saxenism/status/1831580655467295087
+    - Metrics (at fetch): bookmark 130, impression 16413, like 135, quote 5, reply 5, retweet 16
+    
+    > Welcome to my turbo-autist guide to instantly write cleaner, safer &amp; bug-free Rust code. 
+    >
+    > I'll only list tips that are simple, straightforward &amp; easy to follow.
+    >
+    > These are things I've picked up working on a pretty cool security project here at ZkSync, I hope it helps.
+    
+
+
+---
+
+## 2024-09-05 · Post · There are a few more points here and there that can help you write safer code, but I am just too laz
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580702439305540
+- Metrics (at fetch): bookmark 0, impression 404, like 5, quote 0, reply 0, retweet 0
+
+> There are a few more points here and there that can help you write safer code, but I am just too lazy to write them right now.
+>
+> Probably sometime in the future, I'll do it.
+>
+> Hope some part of this thread will prove useful to you, anon-kun. https://t.co/zTqRbJ6eyk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsUyVja8AAfyNc.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Post · A useful extension would be to flag all unused variables even if they start with an underscore and c
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580699595530281
+- Metrics (at fetch): bookmark 0, impression 440, like 4, quote 0, reply 1, retweet 0
+
+> A useful extension would be to flag all unused variables even if they start with an underscore and clearly document in the codebase itself via an inline comment as to why that was done.
+>
+> Quite often it turns out that it can either be optimized or it was a mistake altogether. https://t.co/OT5R0gQXeU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsUGVIbwAAIo-d.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Post · It is also a good idea to develop some tooling that detects all instances where the return value fro
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580697380983052
+- Metrics (at fetch): bookmark 0, impression 245, like 4, quote 0, reply 1, retweet 0
+
+> It is also a good idea to develop some tooling that detects all instances where the return value from a function call is ignored and clearly document why that is the case with an inline comment in the codebase itself.
+
+
+---
+
+## 2024-09-05 · Post · For uncovering OOM issues, fuzz the shit out of areas of code where the size of memory is being expa
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580695090893101
+- Metrics (at fetch): bookmark 0, impression 243, like 4, quote 0, reply 1, retweet 0
+
+> For uncovering OOM issues, fuzz the shit out of areas of code where the size of memory is being expanded based on some kind of user input. Try to push the user inputs to the limit where OOM error pops up. Another DoS vector.
+
+
+---
+
+## 2024-09-05 · Post · ... if you come across a section of code implementing recursion try to see if you could force the fu
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580692511387947
+- Metrics (at fetch): bookmark 1, impression 253, like 5, quote 0, reply 1, retweet 0
+
+> ... if you come across a section of code implementing recursion try to see if you could force the function to run with a large enough value to cause Stack overflow. This is a proper DoS vector.
+
+
+---
+
+## 2024-09-05 · Post · Stack overflow bugs usually occur in recursive implementations inside the code.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580688908481000
+- Metrics (at fetch): bookmark 0, impression 312, like 4, quote 0, reply 1, retweet 0
+
+> Stack overflow bugs usually occur in recursive implementations inside the code.
+>
+> It is the condition where the program consumes more memory than the call stack has available, which leads to a program clash.
+>
+> When auditing a Rust codebase... https://t.co/xCFbn68IIF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsSgFyXwAAySXm.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Post · Types have default values &amp; devs use unwrap_or_default to do away with compiler warnings.
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580685980856533
+- Metrics (at fetch): bookmark 0, impression 322, like 4, quote 0, reply 1, retweet 0
+
+> Types have default values &amp; devs use unwrap_or_default to do away with compiler warnings.
+>
+> Mistakes are likely to happen when dealing with custom types where it is not clear what the default values are. Never use unwrap_or_default to silence warnings or avoid error handling. https://t.co/XQNPHpvu53
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsR8jIWAAE0sI-.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Post · The ONLY time, you should be using Rust's unsafe feature is when there is NO other way around it.
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580682801573986
+- Metrics (at fetch): bookmark 1, impression 641, like 5, quote 0, reply 1, retweet 0
+
+> The ONLY time, you should be using Rust's unsafe feature is when there is NO other way around it.
+>
+> Often I've noticed that people use `unsafe` just bc it is convenient and they can't be bothered to do things the Rust way.
+>
+> Do not betray the compiler's trust by abusing unsafe https://t.co/D02zdICdwu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsRSlRbYAACm8F.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Post · Now onto floating point errors. Eg:
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580680612200642
+- Metrics (at fetch): bookmark 1, impression 642, like 5, quote 1, reply 1, retweet 0
+
+> Now onto floating point errors. Eg:
+>
+> 1) (a / b ) * c * d =&gt; 2999.999999995 ❌
+> 2) (a * c * d) / b =&gt; 3000.0 ✅
+>
+> If you try to convert the above numbers to non-floating numbers, you’ll get 2999 for 1) and 3000 for 2)
+>
+> The error tolerance of your project is a big factor here.
+
+
+---
+
+## 2024-09-05 · Post · Dividing before multiplication can lead to precision loss or even incorrect value being returned
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580678363971725
+- Metrics (at fetch): bookmark 1, impression 406, like 6, quote 0, reply 1, retweet 0
+
+> Dividing before multiplication can lead to precision loss or even incorrect value being returned
+>
+> Eg. When we operate with non-floating point numbers, upon division, the value is floored, ie,
+> (a / b ) * c * d =&gt; ❌
+> (a * c * d ) / b =&gt; ✅
+
+
+---
+
+## 2024-09-05 · Post · Not specifying rounding decisions can land projects, specifically DeFi protocols into a lot of troub
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580675490926707
+- Metrics (at fetch): bookmark 1, impression 488, like 6, quote 0, reply 1, retweet 0
+
+> Not specifying rounding decisions can land projects, specifically DeFi protocols into a lot of trouble.
+>
+> Be very specific in the direction you want your values to be rounded. Select carefully between round(), ceil(), floor(). https://t.co/YqaXuET9rS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsMpcVWYAAVACB.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Post · DO NOT USE `unwrap` FOR THE LOVE OF GOD.
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580672974336350
+- Metrics (at fetch): bookmark 1, impression 513, like 5, quote 0, reply 2, retweet 0
+
+> DO NOT USE `unwrap` FOR THE LOVE OF GOD.
+>
+> Have some standards and at least use `expect` with custom strings so you at least know where shit went down.
+>
+> Once unwrap gets into a codebase, it becomes extremely difficult to remove it. Please use error handling as soon as possible. https://t.co/mX06od69F5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsKcIpa8AEyklg.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-05 · Thread · Welcome to my turbo-autist guide to instantly write cleaner, safer &amp; bug-free Rust code. 
+
+
+Tags (automatic): ZK, Memory corruption / native
+
+
+### Post — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580655467295087
+- Metrics (at fetch): bookmark 130, impression 16413, like 135, quote 5, reply 5, retweet 16
+
+> Welcome to my turbo-autist guide to instantly write cleaner, safer &amp; bug-free Rust code. 
+>
+> I'll only list tips that are simple, straightforward &amp; easy to follow.
+>
+> These are things I've picked up working on a pretty cool security project here at ZkSync, I hope it helps.
+
+
+### Thread part 2 — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580657652527191
+- Metrics (at fetch): bookmark 4, impression 983, like 7, quote 0, reply 1, retweet 0
+
+> Use cargo-audit.
+>
+> Scans your project's dependencies for known vulnerabilities and protects you against supply-chain attacks.
+>
+> Does so via comparisons with the RustSec Advisory Database.
+>
+> The Rust community is strong af. Leverage that. [pic.x.com/DJJVqvZIeN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWr7Brva8AMM5TM.png — no alt text provided by author
+
+
+### Thread part 3 — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580660626338170
+- Metrics (at fetch): bookmark 2, impression 786, like 9, quote 0, reply 1, retweet 0
+
+> Arithmetic over and underflows in Rust has the potential to massively fuck you over.
+>
+> Because in the release mode, these overflows happen silently without any panic.
+>
+>  If you want to avoid this behaviour, use checked arithmetic. [pic.x.com/NaycCqX5EV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWr-nbia8AA46ec.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GWr_X12WMAAhPpU.jpg — no alt text provided by author
+
+
+### Thread part 4 — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580663470084301
+- Metrics (at fetch): bookmark 1, impression 712, like 4, quote 0, reply 1, retweet 0
+
+> Any conversions you do between different types can also yield unexpected results, although they are valid operations.
+>
+> You need to be very careful. Ensure that these behaviours are expected.
+>
+> To protect yourself use methods like `try_into` which return a `Result` instead of `as` [pic.x.com/BQNkyyG2Ga]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsBn4KaEAAmxmk.jpg — no alt text provided by author
+
+
+### Thread part 5 — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580666477330667
+- Metrics (at fetch): bookmark 1, impression 596, like 5, quote 0, reply 1, retweet 0
+
+> Always stay wary of platform-dependent types such as `usize` bc the implications would change from a 64-bit system to a 32-bit system.
+>
+> Many commonly used functions return such vars, eg. Vec::len(), String::len(), [T]::len(), Vec::capacity(), Iterator::count(), etc [pic.x.com/xWu7CMcIxu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsH0A1a8AAzTdB.jpg — no alt text provided by author
+
+
+### Thread part 6 — @saxenism — 2024-09-05 06:30 UTC (2024-09-05 07:30 WAT)
+
+- URL: https://x.com/saxenism/status/1831580669408883056
+- Metrics (at fetch): bookmark 1, impression 581, like 7, quote 0, reply 1, retweet 0
+
+> Type aliasing is another form in which the same concept creates massive problems.
+>
+> Bc the code presented here would unfortunately compile and in mission-critical software these unsafe conversions are fatal.
+>
+> The solution is to fully leverage structs and do things the Rust way. [pic.x.com/c4wuPE9Kdl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWsI6UAbAAA8sGy.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GWsJUHAX0AA4X9k.jpg — no alt text provided by author
+
+
+---
+
+## 2024-09-02 · Post · You know a man has COOKED, when he blurts out, *I know, but just humor me for a second here*
+
+
+### Post — @saxenism — 2024-09-02 02:29 UTC (2024-09-02 03:29 WAT)
+
+- URL: https://x.com/saxenism/status/1830432809732980906
+- Metrics (at fetch): bookmark 0, impression 526, like 3, quote 0, reply 0, retweet 0
+
+> You know a man has COOKED, when he blurts out, *I know, but just humor me for a second here*
+
+
+---
+
+## 2024-08-27 · Post · Had it been common knowledge all along that fucking Blackrock has a YIELD BEARING USD stablecoin?
+
+
+### Post — @saxenism — 2024-08-27 15:31 UTC (2024-08-27 16:31 WAT)
+
+- URL: https://x.com/saxenism/status/1828455235209306590
+- Metrics (at fetch): bookmark 2, impression 707, like 7, quote 0, reply 0, retweet 0
+
+> Had it been common knowledge all along that fucking Blackrock has a YIELD BEARING USD stablecoin?
+>
+> Like seriously? 
+>
+> How come I never knew about this? I only discovered this when I started scrolling through DefiLlama after reading this news.
+>
+> https://defillama.com/stablecoin/blackrock-usd https://twitter.com/functi0nZer0/status/1828432650152935605
+
+**Links in post:** https://defillama.com/stablecoin/blackrock-usd, https://twitter.com/functi0nZer0/status/1828432650152935605
+
+**Quoted post (full text):**
+
+    #### Quoted post — @22758405 — 2024-08-27 14:01 UTC (2024-08-27 15:01 WAT)
+    
+    - URL: https://x.com/22758405/status/1828432650152935605
+    - Metrics (at fetch): bookmark 67, impression 242930, like 1019, quote 70, reply 85, retweet 87
+    
+    > New DAI has a freeze function
+    >
+    > Olympus has fallen
+    
+
+
+---
+
+## 2024-08-27 · Post · If I were ever to start a serious web3 company, I would hire a bunch of experienced QAs &amp; SDETs.
+
+
+### Post — @saxenism — 2024-08-27 14:24 UTC (2024-08-27 15:24 WAT)
+
+- URL: https://x.com/saxenism/status/1828438484572569911
+- Metrics (at fetch): bookmark 0, impression 995, like 15, quote 0, reply 1, retweet 0
+
+> If I were ever to start a serious web3 company, I would hire a bunch of experienced QAs &amp; SDETs.
+>
+> Their job would be to (try and) fuck shit up before we send our code for audits.
+>
+> It's quite weird to think that there are no QAs in web3.
+
+
+---
+
+## 2024-08-27 · Post · Yesterday my brother ratioed me for failing miserably to onboard *the next billion users*. Usual sus
+
+
+### Post — @saxenism — 2024-08-27 04:41 UTC (2024-08-27 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1828291799506690364
+- Metrics (at fetch): bookmark 0, impression 755, like 14, quote 0, reply 0, retweet 0
+
+> Yesterday my brother ratioed me for failing miserably to onboard *the next billion users*. Usual suspects like rug pulls, no real use cases, etc.
+>
+> What I realised was that I didn't care.
+>
+> My job is not onboarding people. It's to make sure shit does not blow up (if and) when the next billion people start using it.
+>
+> Web3 is a giant experiment after all & I am happy with the role I've taken up.
+
+
+---
+
+## 2024-08-27 · Post · I hit legs. On a Monday. With a squat PR. [pic.x.com/qr7bUFbOtI]
+
+
+### Post — @saxenism — 2024-08-27 04:32 UTC (2024-08-27 05:32 WAT)
+
+- URL: https://x.com/saxenism/status/1828289447080927678
+- Metrics (at fetch): bookmark 0, impression 567, like 10, quote 0, reply 2, retweet 0
+
+> I hit legs. On a Monday. With a squat PR. [pic.x.com/qr7bUFbOtI]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GV9jjVkboAA4Wlj.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-24 · Post · Ok, Solana might just have one upped the Ethereum ecosystem.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-08-24 16:15 UTC (2024-08-24 17:15 WAT)
+
+- URL: https://x.com/saxenism/status/1827379325441822888
+- Metrics (at fetch): bookmark 0, impression 1226, like 14, quote 0, reply 1, retweet 0
+
+> Ok, Solana might just have one upped the Ethereum ecosystem.
+>
+> Look at those fucking guns ffs https://twitter.com/rajgokal/status/1827184453132906746
+
+**Links in post:** https://twitter.com/rajgokal/status/1827184453132906746
+
+**Quoted post (full text):**
+
+    #### Quoted post — @101833150 — 2024-08-24 03:21 UTC (2024-08-24 04:21 WAT)
+    
+    - URL: https://x.com/101833150/status/1827184453132906746
+    - Metrics (at fetch): bookmark 41, impression 205232, like 1551, quote 89, reply 173, retweet 81
+    
+    > funds are safu [pic.x.com/39IOmqxJaT]
+    
+    **Media:**
+    - media `3_1827184449173516291` (details not returned by the API)
+    
+
+
+---
+
+## 2024-08-24 · Post · 18k likes and I'll also share a (kinda funny) racist incident that happened with me and my Polygon (
+
+
+### Post — @saxenism — 2024-08-24 13:31 UTC (2024-08-24 14:31 WAT)
+
+- URL: https://x.com/saxenism/status/1827338057823187324
+- Metrics (at fetch): bookmark 0, impression 1086, like 4, quote 0, reply 1, retweet 0
+
+> 18k likes and I'll also share a (kinda funny) racist incident that happened with me and my Polygon (Indian) frens in Taiwan, while we were there for EthTaipei.
+>
+> Why funny? because we had a white Spanish man with us with enough NW to buy that entire cafe 69 times over :p https://twitter.com/Ishansharma7390/status/1826914798438637687
+
+**Links in post:** https://twitter.com/Ishansharma7390/status/1826914798438637687
+
+**Quoted post (full text):**
+
+    #### Quoted post — @828894693463359489 — 2024-08-23 09:30 UTC (2024-08-23 10:30 WAT)
+    
+    - URL: https://x.com/828894693463359489/status/1826914798438637687
+    - Metrics (at fetch): bookmark 1278, impression 2504660, like 19213, quote 500, reply 1871, retweet 2153
+    
+    > The result of sharing my opinion and asking a question:
+    >
+    > Hundreds of Americans and Indian Americans DMing me the most hateful messages.
+    >
+    > Racism.
+    >
+    > I thought it only existed in their movies and TV shows.
+    >
+    > Until today...
+    >
+    > All for asking a question?
+    >
+    > Unbelievable! [pic.x.com/UinHBZuU0h]
+    
+    **Media:**
+    - media `3_1826914795133579264` (details not returned by the API)
+    - media `3_1826914795137761280` (details not returned by the API)
+    
+
+
+---
+
+## 2024-08-24 · Thread · I love this AI-assisted coding boom.  
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @saxenism — 2024-08-24 13:21 UTC (2024-08-24 14:21 WAT)
+
+- URL: https://x.com/saxenism/status/1827335431249363038
+- Metrics (at fetch): bookmark 1, impression 2197, like 45, quote 0, reply 4, retweet 0
+
+> I love this AI-assisted coding boom.  
+>
+> Untrained devs + critical software - CS fundamentals = non-trivial critical errors galore.  
+>
+> Result? 
+>
+> My value as a security engineer skyrockets effortlessly.  
+> All I have to do is sit back, level up, and watch the chaos unfold. 😎💼🚀 https://twitter.com/karpathy/status/1827143768459637073
+
+**Links in post:** https://twitter.com/karpathy/status/1827143768459637073
+
+**Quoted post (full text):**
+
+    #### Quoted post — @33836629 — 2024-08-24 00:39 UTC (2024-08-24 01:39 WAT)
+    
+    - URL: https://x.com/33836629/status/1827143768459637073
+    - Metrics (at fetch): bookmark 11119, impression 2832532, like 17986, quote 634, reply 509, retweet 1984
+    
+    > Programming is changing so fast... I'm trying VS Code Cursor + Sonnet 3.5 instead of GitHub Copilot again and I think it's now a net win. Just empirically, over the last few days most of my "programming" is now writing English (prompting and then reviewing and editing the generated diffs), and doing a bit of "half-coding" where you write the first chunk of the code you'd like, maybe comment it a bit so the LLM knows what the plan is, and then tab tab tab through completions. Sometimes you get a 100-line diff to your code that nails it, which could have taken 10+ minutes before.
+    >
+    > I still don't think I got sufficiently used to all the features. It's a bit like learning to code all over again but I basically can't imagine going back to "unassisted" coding at this point, which was the only possibility just ~3 years ago.
+    
+
+
+### Thread part 2 — @saxenism — 2024-08-24 13:23 UTC (2024-08-24 14:23 WAT)
+
+- URL: https://x.com/saxenism/status/1827336003243155591
+- Metrics (at fetch): bookmark 0, impression 286, like 1, quote 0, reply 0, retweet 0
+
+> Some clarifications:
+>
+> 1. By *untrained*, I mean formally untrained developers who did not internalise the requisite CS fundamentals through assiduous efforts.
+>
+> 2. This theory does not hold 100% for programmers who are already senior engineers and treat AI like a junior dev.
+
+
+---
+
+## 2024-08-23 · Post · Gyms are probably the last standing anti-capitalistim institutes.
+
+
+### Post — @saxenism — 2024-08-23 15:17 UTC (2024-08-23 16:17 WAT)
+
+- URL: https://x.com/saxenism/status/1827002238600167816
+- Metrics (at fetch): bookmark 0, impression 1231, like 11, quote 0, reply 5, retweet 0
+
+> Gyms are probably the last standing anti-capitalistim institutes.
+>
+> Why?
+>
+> Because $500 headphones or $50, doesn't matter. 
+>
+> Got outlifted? You're still a bitch.
+>
+> Capitalism can't save you there. Only gains can.
+
+
+---
+
+## 2024-08-23 · Post · [pic.x.com/2jvVCEUqa6] https://twitter.com/portport255/status/1826985607073038507
+
+
+### Post — @saxenism — 2024-08-23 15:10 UTC (2024-08-23 16:10 WAT)
+
+- URL: https://x.com/saxenism/status/1827000350920098210
+- Metrics (at fetch): bookmark 0, impression 612, like 2, quote 0, reply 0, retweet 0
+
+> [pic.x.com/2jvVCEUqa6] https://twitter.com/portport255/status/1826985607073038507
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVrPIl6bkAAtqAn.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/portport255/status/1826985607073038507
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2811767916 — 2024-08-23 14:11 UTC (2024-08-23 15:11 WAT)
+    
+    - URL: https://x.com/2811767916/status/1826985607073038507
+    - Metrics (at fetch): bookmark 0, impression 3413, like 12, quote 1, reply 4, retweet 0
+    
+    > @0xethermatt @zksync Agree it's not in a great spot right now, but many people are aware of the problem. It's a priority for me to get more attention back on ZKsync
+    
+
+
+---
+
+## 2024-08-23 · Post · I'm gonna make it really tough for you guys to find security issues in ZkSync's next audit competiti
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-23 00:36 UTC (2024-08-23 01:36 WAT)
+
+- URL: https://x.com/saxenism/status/1826780457201209714
+- Metrics (at fetch): bookmark 0, impression 495, like 5, quote 0, reply 0, retweet 0
+
+> I'm gonna make it really tough for you guys to find security issues in ZkSync's next audit competition.
+>
+> Dattebayo. https://twitter.com/saxenism/status/1826778993925702104
+
+**Links in post:** https://twitter.com/saxenism/status/1826778993925702104
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-08-23 00:30 UTC (2024-08-23 01:30 WAT)
+    
+    - URL: https://x.com/saxenism/status/1826778993925702104
+    - Metrics (at fetch): bookmark 1, impression 1696, like 21, quote 1, reply 3, retweet 0
+    
+    > Just coded through the night and I am still raring to go.
+    >
+    > Feeling like a college kid again :p
+    
+
+
+---
+
+## 2024-08-23 · Post · Just coded through the night and I am still raring to go.
+
+
+### Post — @saxenism — 2024-08-23 00:30 UTC (2024-08-23 01:30 WAT)
+
+- URL: https://x.com/saxenism/status/1826778993925702104
+- Metrics (at fetch): bookmark 1, impression 1696, like 21, quote 1, reply 3, retweet 0
+
+> Just coded through the night and I am still raring to go.
+>
+> Feeling like a college kid again :p
+
+
+---
+
+## 2024-08-23 · Post · What's the best place to learn about the history and evolution of finance?
+
+
+### Post — @saxenism — 2024-08-23 00:06 UTC (2024-08-23 01:06 WAT)
+
+- URL: https://x.com/saxenism/status/1826773006942961691
+- Metrics (at fetch): bookmark 1, impression 631, like 1, quote 0, reply 6, retweet 0
+
+> What's the best place to learn about the history and evolution of finance?
+>
+> Open to all books, documentaries, and series for any geography over any period of time.
+
+
+---
+
+## 2024-08-22 · Post · https://www.youtube.com/watch?v=gPMJEBLS7QA
+
+
+### Post — @saxenism — 2024-08-22 17:39 UTC (2024-08-22 18:39 WAT)
+
+- URL: https://x.com/saxenism/status/1826675578134822948
+- Metrics (at fetch): bookmark 3, impression 742, like 17, quote 0, reply 1, retweet 0
+
+> https://www.youtube.com/watch?v=gPMJEBLS7QA
+>
+> Free subscription to my OF account if you comment "very demure, very mindful" on this video (hopefully after listening 🥹)
+
+**Links in post:** https://www.youtube.com/watch?v=gPMJEBLS7QA
+
+
+---
+
+## 2024-08-22 · Post · When designing a security tool always be willing to sacrifice speed for thoroughness. 
+
+
+### Post — @saxenism — 2024-08-22 17:30 UTC (2024-08-22 18:30 WAT)
+
+- URL: https://x.com/saxenism/status/1826673211553308755
+- Metrics (at fetch): bookmark 0, impression 381, like 7, quote 0, reply 0, retweet 0
+
+> When designing a security tool always be willing to sacrifice speed for thoroughness. 
+> Never assume "basic" practices are followed.
+>
+> What's glaringly obvious to you after years in the trenches isn't even on the radar for most devs.
+>
+> Protect against ignorance, not just malice.
+
+
+---
+
+## 2024-08-21 · Reply · @bl4ckb1rd71 has done a brilliant job of aggregating L2 sequencer-related downtimes which paints a p
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-08-21 20:46 UTC (2024-08-21 21:46 WAT)
+
+- URL: https://x.com/saxenism/status/1826360364755214679
+- Metrics (at fetch): bookmark 0, impression 49, like 2, quote 0, reply 0, retweet 0
+
+> @bl4ckb1rd71 has done a brilliant job of aggregating L2 sequencer-related downtimes which paints a picture and makes real, the *theoretical risks* of using L2s.
+>
+> As an ecosystem that hopes to be the future of money, we need to be better, and this article shows how to be. https://twitter.com/yAcademyDAO/status/1825567196011184531
+
+**Links in post:** https://twitter.com/yAcademyDAO/status/1825567196011184531
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1327281549977464832 — 2024-08-19 16:15 UTC (2024-08-19 17:15 WAT)
+    
+    - URL: https://x.com/1327281549977464832/status/1825567196011184531
+    - Metrics (at fetch): bookmark 67, impression 9045, like 74, quote 5, reply 1, retweet 16
+    
+    > Our latest research is live: L2 downtime events, root causes, and more
+    > https://blog.yacademy.dev/2024-08-19-when-L2s-fall/
+    
+    **Links in post:** https://blog.yacademy.dev/2024-08-19-when-L2s-fall/
+    
+
+
+---
+
+## 2024-08-21 · Post · The gods have finally answered my prayers. Years of yearning come to an end.
+
+
+### Post — @saxenism — 2024-08-21 19:21 UTC (2024-08-21 20:21 WAT)
+
+- URL: https://x.com/saxenism/status/1826338763104288962
+- Metrics (at fetch): bookmark 0, impression 1168, like 12, quote 0, reply 4, retweet 1
+
+> The gods have finally answered my prayers. Years of yearning come to an end.
+>
+> About fucking time 🥳🥳🥳🥳
+>
+> https://youtu.be/XgHwc6sBcS0?si=VPb37zJmEKg2RirJ
+
+**Links in post:** https://youtu.be/XgHwc6sBcS0?si=VPb37zJmEKg2RirJ
+
+
+---
+
+## 2024-08-21 · Post · In case any of you guys work with Rust, this would most probably be worth your time.
+
+
+### Post — @saxenism — 2024-08-21 17:53 UTC (2024-08-21 18:53 WAT)
+
+- URL: https://x.com/saxenism/status/1826316681574318390
+- Metrics (at fetch): bookmark 5, impression 1226, like 24, quote 0, reply 2, retweet 1
+
+> In case any of you guys work with Rust, this would most probably be worth your time.
+>
+> These are simple, easy-to-implement, quick fixes to instantly write safe Rust code
+>
+> Open to all feedbacks. https://twitter.com/rust_summit/status/1826289340575563782
+
+**Links in post:** https://twitter.com/rust_summit/status/1826289340575563782
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1737909301610504192 — 2024-08-21 16:04 UTC (2024-08-21 17:04 WAT)
+    
+    - URL: https://x.com/1737909301610504192/status/1826289340575563782
+    - Metrics (at fetch): bookmark 14, impression 2660, like 28, quote 2, reply 0, retweet 12
+    
+    > Great talk by @saxenism from @zksync on Rust Security— watch it, and you'll write better code in just half an hour!
+    >
+    > A must-watch, in our opinion 😊
+    >
+    > https://youtu.be/gPMJEBLS7QA?si=HQXVLQHyAON2JYPR via @YouTube
+    
+    **Links in post:** https://youtu.be/gPMJEBLS7QA?si=HQXVLQHyAON2JYPR
+    
+
+
+---
+
+## 2024-08-21 · Post · How is it that a ZK blogpost recommended by multiple people and which is also over ~1.5 years old ha
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-21 14:36 UTC (2024-08-21 15:36 WAT)
+
+- URL: https://x.com/saxenism/status/1826267014622769459
+- Metrics (at fetch): bookmark 4, impression 805, like 5, quote 0, reply 2, retweet 0
+
+> How is it that a ZK blogpost recommended by multiple people and which is also over ~1.5 years old has a glaring mistake in it?
+>
+> Do people recommend you to read stuff without reading it themselves first or like, they see the mistake but decide to fly with it?
+
+
+---
+
+## 2024-08-21 · Post · The read-time for this ZK breakdown article was written as 30 minutes.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-21 13:55 UTC (2024-08-21 14:55 WAT)
+
+- URL: https://x.com/saxenism/status/1826256833763590614
+- Metrics (at fetch): bookmark 0, impression 321, like 4, quote 0, reply 0, retweet 0
+
+> The read-time for this ZK breakdown article was written as 30 minutes.
+>
+> I'm already on hour five.
+>
+> 🥲
+
+
+---
+
+## 2024-08-19 · Post · If this gives someone some hope and strength to power through their ZK journey, I'd be glad.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-19 05:43 UTC (2024-08-19 06:43 WAT)
+
+- URL: https://x.com/saxenism/status/1825408275971805412
+- Metrics (at fetch): bookmark 0, impression 312, like 5, quote 0, reply 2, retweet 0
+
+> If this gives someone some hope and strength to power through their ZK journey, I'd be glad.
+>
+> Keep at it :)
+
+
+---
+
+## 2024-08-19 · Post · 2. You can pretty much do whatever you want to do in any language (or proving system). 
+
+
+### Post — @saxenism — 2024-08-19 05:43 UTC (2024-08-19 06:43 WAT)
+
+- URL: https://x.com/saxenism/status/1825408274004590801
+- Metrics (at fetch): bookmark 0, impression 333, like 2, quote 0, reply 1, retweet 0
+
+> 2. You can pretty much do whatever you want to do in any language (or proving system). 
+>
+> And you have to dig in pretty deep and take a proving stack to its limits to understand the limitations of each and make the best decisions regarding which *proving stack* you choose.
+
+
+---
+
+## 2024-08-19 · Post · The earlier 2 parts apply here as well:
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-19 05:43 UTC (2024-08-19 06:43 WAT)
+
+- URL: https://x.com/saxenism/status/1825408271907496326
+- Metrics (at fetch): bookmark 0, impression 202, like 1, quote 0, reply 1, retweet 0
+
+> The earlier 2 parts apply here as well:
+>
+> 1. It's not about the language. Almost all of these languages are based on the same cryptography principles. The essence of writing circuits always remains the same. Eg. the geometry of the circuit never changes with the input, etc.
+
+
+---
+
+## 2024-08-19 · Post · This thinking translates pretty well into the world of ZK.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-19 05:43 UTC (2024-08-19 06:43 WAT)
+
+- URL: https://x.com/saxenism/status/1825408269654900840
+- Metrics (at fetch): bookmark 0, impression 197, like 2, quote 0, reply 1, retweet 0
+
+> This thinking translates pretty well into the world of ZK.
+> If you get overwhelmed by the fact that every day someone launches a new proving system, a new DSL or a new language to write circuits... you're probably too young (in zk terms) to understand what's going on.
+
+
+---
+
+## 2024-08-19 · Post · 2. You have to use a language to its absolute limits to understand why different languages emerged. 
+
+
+### Post — @saxenism — 2024-08-19 05:43 UTC (2024-08-19 06:43 WAT)
+
+- URL: https://x.com/saxenism/status/1825408267306356877
+- Metrics (at fetch): bookmark 0, impression 208, like 2, quote 0, reply 1, retweet 0
+
+> 2. You have to use a language to its absolute limits to understand why different languages emerged. 
+> Sure, you could do TaskA in LangA, but if you did that in LangB, it drastically reduces the chances of making mistakes or makes TaskA much more computationally efficient etc
+
+
+---
+
+## 2024-08-16 · Post · ZK Circuit Programmers: A Tale of Two Tribes
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-16 13:54 UTC (2024-08-16 14:54 WAT)
+
+- URL: https://x.com/saxenism/status/1824444548711584116
+- Metrics (at fetch): bookmark 4, impression 957, like 25, quote 0, reply 1, retweet 0
+
+> ZK Circuit Programmers: A Tale of Two Tribes
+>
+> Engineers: "I guess the crypto works like this..."  
+> Cryptographers: "I guess the code works like that..."
+>
+> Me, a security engineer: "Time to tango in this gap"🕺
+
+
+---
+
+## 2024-08-16 · Post · ZK Circuit Programmers: A Tale of Two Tribes
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-16 13:51 UTC (2024-08-16 14:51 WAT)
+
+- URL: https://x.com/saxenism/status/1824443754721447988
+- Metrics (at fetch): bookmark 0, impression 84, like 1, quote 0, reply 0, retweet 0
+
+> ZK Circuit Programmers: A Tale of Two Tribes
+>
+> Engineers: "I guess the crypto works like this..."  Cryptographers: "I guess the code works like that..."
+>
+> Me, a security engineer: "Time to tango in this gap"🕺
+
+
+---
+
+## 2024-08-13 · Post · An unexpected internal transfer at my workplace significantly impacted my responsibilities. My work 
+
+
+### Post — @saxenism — 2024-08-13 02:13 UTC (2024-08-13 03:13 WAT)
+
+- URL: https://x.com/saxenism/status/1823181073003712566
+- Metrics (at fetch): bookmark 0, impression 514, like 9, quote 0, reply 1, retweet 0
+
+> An unexpected internal transfer at my workplace significantly impacted my responsibilities. My work commitments for my full-time job have increased substantially, making it challenging to quarterback the security wing effort as planned.
+
+
+---
+
+## 2024-08-13 · Post · It's time to address why I've been silent since announcing the security wing of @zkbankai. The truth
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-08-13 02:13 UTC (2024-08-13 03:13 WAT)
+
+- URL: https://x.com/saxenism/status/1823181070252265924
+- Metrics (at fetch): bookmark 4, impression 6326, like 43, quote 1, reply 14, retweet 0
+
+> It's time to address why I've been silent since announcing the security wing of @zkbankai. The truth is, I didn't plan things well, and I take full responsibility for the disappointing experience. I guess I owe you an explanation and an apology.
+
+
+---
+
+## 2024-07-22 · Post · The interest form for the hottest ZK Security GC is out now:
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-07-22 18:35 UTC (2024-07-22 19:35 WAT)
+
+- URL: https://x.com/saxenism/status/1815455551528350099
+- Metrics (at fetch): bookmark 8, impression 2919, like 18, quote 2, reply 0, retweet 5
+
+> The interest form for the hottest ZK Security GC is out now:
+>
+> https://t.co/vve0j8EtaW https://t.co/qLRT6RB2RL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-07-19 08:02 UTC (2024-07-19 09:02 WAT)
+    
+    - URL: https://x.com/saxenism/status/1814209240833372458
+    - Metrics (at fetch): bookmark 22, impression 13733, like 84, quote 3, reply 19, retweet 8
+    
+    > 🚨 ALFA ALERT 🚨
+    >
+    > Many of the security researchers I see, are in fact security practitioners. 
+    >
+    > While that is not really a bad thing, but they WILL be automated out, for sure.
+    >
+    > Very soon, I'll be establishing the security wing of @zkbankai and I'm looking for genuine security
+    
+
+
+---
+
+## 2024-07-22 · Post · The preparations sure took some time, but expect the form for this ZK Security Group later tonight :
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-07-22 03:04 UTC (2024-07-22 04:04 WAT)
+
+- URL: https://x.com/saxenism/status/1815221377693364319
+- Metrics (at fetch): bookmark 3, impression 1161, like 11, quote 0, reply 1, retweet 0
+
+> The preparations sure took some time, but expect the form for this ZK Security Group later tonight :P
+>
+> Looking forward to your answers everyone :) https://t.co/qLRT6RB2RL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-07-19 08:02 UTC (2024-07-19 09:02 WAT)
+    
+    - URL: https://x.com/saxenism/status/1814209240833372458
+    - Metrics (at fetch): bookmark 22, impression 13733, like 84, quote 3, reply 19, retweet 8
+    
+    > 🚨 ALFA ALERT 🚨
+    >
+    > Many of the security researchers I see, are in fact security practitioners. 
+    >
+    > While that is not really a bad thing, but they WILL be automated out, for sure.
+    >
+    > Very soon, I'll be establishing the security wing of @zkbankai and I'm looking for genuine security
+    
+
+
+---
+
+## 2024-07-19 · Post · Well, yeah.. it is not very pleasant. But for the web3 security ecosystem to progress as a whole we 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2024-07-19 09:12 UTC (2024-07-19 10:12 WAT)
+
+- URL: https://x.com/saxenism/status/1814226854842384846
+- Metrics (at fetch): bookmark 0, impression 1011, like 4, quote 0, reply 0, retweet 0
+
+> Well, yeah.. it is not very pleasant. But for the web3 security ecosystem to progress as a whole we need raise the ceiling AS WELL AS THE BASE of our security.  
+>
+> And I am happy to say that the base actually HAS risen. Pick a Solidity security focused article from 2018 and https://t.co/DSnfdytZfR
+
+**Quoted post** 1814219407574339870: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-07-19 · Post · 🚨 ALFA ALERT 🚨
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-07-19 08:02 UTC (2024-07-19 09:02 WAT)
+
+- URL: https://x.com/saxenism/status/1814209240833372458
+- Metrics (at fetch): bookmark 22, impression 13733, like 84, quote 3, reply 19, retweet 8
+
+> 🚨 ALFA ALERT 🚨
+>
+> Many of the security researchers I see, are in fact security practitioners. 
+>
+> While that is not really a bad thing, but they WILL be automated out, for sure.
+>
+> Very soon, I'll be establishing the security wing of @zkbankai and I'm looking for genuine security
+
+
+---
+
+## 2024-07-09 · Post · Came across a brilliant presentation on weak Fiat Shamir implementation and just how straight-forwar
+
+
+### Post — @saxenism — 2024-07-09 11:52 UTC (2024-07-09 12:52 WAT)
+
+- URL: https://x.com/saxenism/status/1810643079533404350
+- Metrics (at fetch): bookmark 17, impression 3302, like 23, quote 0, reply 1, retweet 3
+
+> Came across a brilliant presentation on weak Fiat Shamir implementation and just how straight-forward is it to exploit this issue.
+>
+> The crazy part?
+>
+> Well known papers like the PLONK and Bulletproof got the FS implementation wrong for year(s).
+>
+> Presentation:
+
+
+---
+
+## 2024-07-09 · Post · If I were a ZK developer, I'd orient my brain to find the 20% things that could drive 80% of the sec
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-07-09 10:50 UTC (2024-07-09 11:50 WAT)
+
+- URL: https://x.com/saxenism/status/1810627627042173084
+- Metrics (at fetch): bookmark 7, impression 1035, like 17, quote 0, reply 0, retweet 0
+
+> If I were a ZK developer, I'd orient my brain to find the 20% things that could drive 80% of the security of my protocol.
+>
+> One of them would be to understand that I DO NOT work with ZK Proofs, I work with ZK arguments.
+>
+> Soundness implies that an incorrect claim is ALWAYS rejected
+
+
+---
+
+## 2024-07-09 · Post · Thanks for responding in the affirmative for this ZK learning newsletter proposition.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-07-09 05:38 UTC (2024-07-09 06:38 WAT)
+
+- URL: https://x.com/saxenism/status/1810549036245725655
+- Metrics (at fetch): bookmark 1, impression 603, like 5, quote 0, reply 0, retweet 0
+
+> Thanks for responding in the affirmative for this ZK learning newsletter proposition.
+>
+> Here's a poll for the medium we choose.
+>
+> https://t.co/XqnLOgPhdk https://t.co/E8FzfgThzV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-07-04 17:04 UTC (2024-07-04 18:04 WAT)
+    
+    - URL: https://x.com/saxenism/status/1808909838057156811
+    - Metrics (at fetch): bookmark 2, impression 5275, like 68, quote 1, reply 19, retweet 0
+    
+    > If I started a newsletter, where I simply emailed you once a week or once every 2 weeks about what I read, studied, what caught my eye and what I did over that duration... would you be interested in that kinda thing?
+    
+
+
+---
+
+## 2024-07-09 · Post · Welp, didn't expect ~20 people to want to know what I read &amp; learn in ZK
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-07-09 05:35 UTC (2024-07-09 06:35 WAT)
+
+- URL: https://x.com/saxenism/status/1810548399487553833
+- Metrics (at fetch): bookmark 2, impression 717, like 8, quote 0, reply 0, retweet 1
+
+> Welp, didn't expect ~20 people to want to know what I read &amp; learn in ZK
+>
+> The writing on the wall is clear.
+>
+> This has to be done.
+>
+> Now, the question is @shrirajpawar04 gave an excellent suggestion regarding the medium &amp; since I don't know any better... Let's put that to vote:
+
+
+---
+
+## 2024-07-04 · Post · If I started a newsletter, where I simply emailed you once a week or once every 2 weeks about what I
+
+
+### Post — @saxenism — 2024-07-04 17:04 UTC (2024-07-04 18:04 WAT)
+
+- URL: https://x.com/saxenism/status/1808909838057156811
+- Metrics (at fetch): bookmark 2, impression 5275, like 68, quote 1, reply 19, retweet 0
+
+> If I started a newsletter, where I simply emailed you once a week or once every 2 weeks about what I read, studied, what caught my eye and what I did over that duration... would you be interested in that kinda thing?
+
+
+---
+
+## 2024-07-03 · Post · Diving deep into the ZK bug rabbit-hole.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-07-03 12:21 UTC (2024-07-03 13:21 WAT)
+
+- URL: https://x.com/saxenism/status/1808476043193553159
+- Metrics (at fetch): bookmark 15, impression 1315, like 20, quote 0, reply 0, retweet 0
+
+> Diving deep into the ZK bug rabbit-hole.
+>
+> All I can say from reading the bugs up until now is that the cryptography protocols that you are expected to implement have mathematically guarantees of security (soundness + completeness + ZK). 
+>
+> ANY optimisation that you make warrants
+
+
+---
+
+## 2024-07-02 · Post · God bless the gigabrains that spend years working on a hard problem and then present their work in a
+
+
+### Post — @saxenism — 2024-07-02 01:05 UTC (2024-07-02 02:05 WAT)
+
+- URL: https://x.com/saxenism/status/1807943686640263435
+- Metrics (at fetch): bookmark 13, impression 1424, like 16, quote 0, reply 1, retweet 2
+
+> God bless the gigabrains that spend years working on a hard problem and then present their work in a (relatively) simple format for the masses.
+>
+> If you'd ever wanted to move beyond understanding WHAT is Fiat Shamir and know how and why it is secure... please watch this
+
+
+---
+
+## 2024-07-02 · Post · God bless the gigabrains that spend years working on a hard problem and then present their work in a
+
+
+### Post — @saxenism — 2024-07-02 01:05 UTC (2024-07-02 02:05 WAT)
+
+- URL: https://x.com/saxenism/status/1807943617002233966
+- Metrics (at fetch): bookmark 0, impression 5, like 0, quote 0, reply 0, retweet 0
+
+> God bless the gigabrains that spend years working on a hard problem and then present their work in a (relatively) simple format for the masses.
+>
+> If you'd ever wanted to move beyond understanding WHAT IS Fiat Shamir and know how and why it is secure... please watch this
+
+
+---
+
+## 2024-07-02 · Post · God bless the gigabrains that spend years working on a hard problem and then present their work in a
+
+
+### Post — @saxenism — 2024-07-02 01:01 UTC (2024-07-02 02:01 WAT)
+
+- URL: https://x.com/saxenism/status/1807942746893963728
+- Metrics (at fetch): bookmark 0, impression 42, like 2, quote 0, reply 0, retweet 0
+
+> God bless the gigabrains that spend years working on a hard problem and then present their work in a (relatively simple format for the masses.
+>
+> If you'd ever wanted to move beyond understanding WHAT IS Fiat Shamir and know how and why it is secure... please watch this
+
+
+---
+
+## 2024-06-06 · Post · I've been to so many Ethereum/ZK events and conferences now that people just think of me as a techni
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-06-06 12:37 UTC (2024-06-06 13:37 WAT)
+
+- URL: https://x.com/saxenism/status/1798695734197522544
+- Metrics (at fetch): bookmark 5, impression 3366, like 43, quote 0, reply 2, retweet 1
+
+> I've been to so many Ethereum/ZK events and conferences now that people just think of me as a technical devrel.
+>
+> Add to that, my passionate advocacy of ZkSync's tech, people are convinced that I am a dev advocate.
+>
+> Maybe I should ask my boss for a devrel salary as well now. https://t.co/ljAIp2KTq9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1737909301610504192 — 2024-06-06 09:16 UTC (2024-06-06 10:16 WAT)
+    
+    - URL: https://x.com/1737909301610504192/status/1798645235171627475
+    - Metrics (at fetch): bookmark 1, impression 5409, like 38, quote 1, reply 2, retweet 3
+    
+    > Our second talk today is about Rust Security by @saxenism, security engineer at @zksync 🫡
+    >
+    > Thanks Rahul for keeping us safe! #RustSummit https://t.co/LizUfX5pSM
+    
+    **Media:**
+    - media `3_1798644874889269248` (details not returned by the API)
+    
+
+
+---
+
+## 2024-06-02 · Post · Here in Belgrade, for the Zk Day, EthBelgrade, Rust and Web3 security summit.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-06-02 04:54 UTC (2024-06-02 05:54 WAT)
+
+- URL: https://x.com/saxenism/status/1797129686281322539
+- Metrics (at fetch): bookmark 2, impression 3095, like 28, quote 0, reply 3, retweet 0
+
+> Here in Belgrade, for the Zk Day, EthBelgrade, Rust and Web3 security summit.
+>
+> But I think my Macbook's display got fried just now.
+>
+> Can someone help me fix that asap, otherwise I just might not have enough time to get my presentations ready 🙏🏻🥹
+
+
+---
+
+## 2024-05-29 · Post · Hack for the next time you're flying @airindia.
+
+
+### Post — @saxenism — 2024-05-29 02:16 UTC (2024-05-29 03:16 WAT)
+
+- URL: https://x.com/saxenism/status/1795640309717819871
+- Metrics (at fetch): bookmark 2, impression 3295, like 11, quote 0, reply 10, retweet 0
+
+> Hack for the next time you're flying @airindia.
+>
+> So, today I had just over 2.5 kilos of luggage weight past the limit, so I charged for 3 kilos of extra luggage b/c their *system* rounds the weight.
+>
+> That also potentially means, if I had 2.49 kgs, I'd be charged for 2 kgs 🙏🏻
+
+
+---
+
+## 2024-05-26 · Post · Curios to know... all these static analysis bots that compete in c4 bot races... Do they depend on R
+
+
+### Post — @saxenism — 2024-05-26 13:29 UTC (2024-05-26 14:29 WAT)
+
+- URL: https://x.com/saxenism/status/1794722498157871442
+- Metrics (at fetch): bookmark 1, impression 1751, like 10, quote 0, reply 2, retweet 0
+
+> Curios to know... all these static analysis bots that compete in c4 bot races... Do they depend on REGEX patters to identify issues or do they compile the code, and use the bug-finding logic on the generated AST?
+>
+> Or... is it a combination of both?
+
+
+---
+
+## 2024-05-24 · Post · Hey, wannabe auditors &amp; security researchers! Twitter ain't your saving grace if you suck at fin
+
+
+### Post — @saxenism — 2024-05-24 04:34 UTC (2024-05-24 05:34 WAT)
+
+- URL: https://x.com/saxenism/status/1793863108613808380
+- Metrics (at fetch): bookmark 4, impression 2403, like 43, quote 0, reply 4, retweet 0
+
+> Hey, wannabe auditors &amp; security researchers! Twitter ain't your saving grace if you suck at finding bugs. 
+>
+> Focus on being damn good at your job first. Your skills trump your tweets any day.
+>
+> Even if your SM presence gets you a gig, you'll be outed as a fraud if you flounder.
+
+
+---
+
+## 2024-05-24 · Post · This was supposed to be a ZK session but the audience wanted to start off from something way more ba
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2024-05-24 04:09 UTC (2024-05-24 05:09 WAT)
+
+- URL: https://x.com/saxenism/status/1793856702271680649
+- Metrics (at fetch): bookmark 20, impression 2150, like 37, quote 0, reply 2, retweet 1
+
+> This was supposed to be a ZK session but the audience wanted to start off from something way more basic and hence my presentation on everything blockchain.
+>
+> https://t.co/44Z73SYykA
+
+
+---
+
+## 2024-05-23 · Post · A note to anyone who wanted to get into web3 because they couldn't be bothered to reverse a linked l
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-23 10:54 UTC (2024-05-23 11:54 WAT)
+
+- URL: https://x.com/saxenism/status/1793596353614151757
+- Metrics (at fetch): bookmark 29, impression 9146, like 101, quote 3, reply 11, retweet 11
+
+> A note to anyone who wanted to get into web3 because they couldn't be bothered to reverse a linked list or solve the knapsack problem.
+>
+> I reduced the constraints to one of my circuits by 1/4th the original size using dynamic programming (memoisation).
+>
+> Since ZK is nothing but
+
+
+---
+
+## 2024-05-21 · Post · Are you a researcher or an engineer?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2024-05-21 15:51 UTC (2024-05-21 16:51 WAT)
+
+- URL: https://x.com/saxenism/status/1792946221851840933
+- Metrics (at fetch): bookmark 3, impression 1811, like 17, quote 0, reply 3, retweet 0
+
+> Are you a researcher or an engineer?
+>
+> Crypto is trying to solve a lot of problems &amp; problems are *solved* by researchers, not engineers.
+>
+> Eg. 3 years back making a probable EVM was a research problem. As soon as the first zkEVM testnet launched, the problem was solved.
+>
+> Now what
+
+
+---
+
+## 2024-05-21 · Post · Are you a researcher or an engineer?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2024-05-21 15:40 UTC (2024-05-21 16:40 WAT)
+
+- URL: https://x.com/saxenism/status/1792943551330025786
+- Metrics (at fetch): bookmark 1, impression 162, like 3, quote 0, reply 0, retweet 0
+
+> Are you a researcher or an engineer?
+>
+> Crypto is trying to solve a lot of problems &amp; problems are *solved* by researchers, not engineers.
+>
+> Eg. 3 years back making a probable EVM was a research problem. As soon as the first zkEVM testnet launched, the problem was solved.
+>
+> Not what
+
+
+---
+
+## 2024-05-20 · Post · Debugging circuits for hash functions that play with bits and are not zk-friendly AT ALL is a soul-c
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-20 20:25 UTC (2024-05-20 21:25 WAT)
+
+- URL: https://x.com/saxenism/status/1792652807356690712
+- Metrics (at fetch): bookmark 2, impression 1063, like 13, quote 0, reply 2, retweet 0
+
+> Debugging circuits for hash functions that play with bits and are not zk-friendly AT ALL is a soul-crushing experience.
+>
+> 10/10 recommend if you like pain 🙂
+
+
+---
+
+## 2024-05-17 · Post · This challenge is a brilliant segue into an important mental model for writing Circom (or any) circu
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-17 09:19 UTC (2024-05-17 10:19 WAT)
+
+- URL: https://x.com/saxenism/status/1791398017083547679
+- Metrics (at fetch): bookmark 4, impression 1103, like 10, quote 0, reply 0, retweet 0
+
+> This challenge is a brilliant segue into an important mental model for writing Circom (or any) circuits.
+>
+> If you use a thin arrow (&lt;-- ) or an `assert` or anything that does not generate a constraint in your circuit, remember that someone can take your circuit code, remove those https://t.co/cM1eLDHNSD
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-05-17 09:06 UTC (2024-05-17 10:06 WAT)
+    
+    - URL: https://x.com/saxenism/status/1791394906671587669
+    - Metrics (at fetch): bookmark 0, impression 1588, like 2, quote 1, reply 0, retweet 0
+    
+    > Quite some time went by and this didn't get enough traction... so here I am with the solution.
+    >
+    > @Rahul__Ghangas was on point.
+    >
+    > The assumption in the vulnerable code was that equality_pointer would be the same as equality_index, which is wrong.
+    >
+    > The only constraint is that https://t.co/ovICaNwMvq https://t.co/kFtVwNdzXG
+    
+    **Media:**
+    - media `3_1791393592373923840` (details not returned by the API)
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @saxenism — 2024-05-16 14:49 UTC (2024-05-16 15:49 WAT)
+        
+        - URL: https://x.com/saxenism/status/1791118878120231289
+        - Metrics (at fetch): bookmark 3, impression 1812, like 16, quote 1, reply 4, retweet 0
+        
+        > I'm back for another round of Hack The Circom Circuit.
+        >
+        > This time, instead of a circuit, I give you a code snippet.
+        >
+        > Do you see any issues in the code below? Specifically any flawed assumption from the dev?
+        >
+        > If yes, what is it and how will you fix it? https://t.co/OThxhVips6
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/GNtU_fwa0AAGdiS.jpg — no alt text provided by author
+        
+    
+
+
+---
+
+## 2024-05-17 · Post · Quite some time went by and this didn't get enough traction... so here I am with the solution.
+
+
+### Post — @saxenism — 2024-05-17 09:06 UTC (2024-05-17 10:06 WAT)
+
+- URL: https://x.com/saxenism/status/1791394906671587669
+- Metrics (at fetch): bookmark 0, impression 1588, like 2, quote 1, reply 0, retweet 0
+
+> Quite some time went by and this didn't get enough traction... so here I am with the solution.
+>
+> @Rahul__Ghangas was on point.
+>
+> The assumption in the vulnerable code was that equality_pointer would be the same as equality_index, which is wrong.
+>
+> The only constraint is that https://t.co/ovICaNwMvq https://t.co/kFtVwNdzXG
+
+**Media:**
+- media `3_1791393592373923840` (details not returned by the API)
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-05-16 14:49 UTC (2024-05-16 15:49 WAT)
+    
+    - URL: https://x.com/saxenism/status/1791118878120231289
+    - Metrics (at fetch): bookmark 3, impression 1812, like 16, quote 1, reply 4, retweet 0
+    
+    > I'm back for another round of Hack The Circom Circuit.
+    >
+    > This time, instead of a circuit, I give you a code snippet.
+    >
+    > Do you see any issues in the code below? Specifically any flawed assumption from the dev?
+    >
+    > If yes, what is it and how will you fix it? https://t.co/OThxhVips6
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GNtU_fwa0AAGdiS.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2024-05-17 · Post · Is spamming log statements to find the bug a valid way or you need that debugger know-how to be cons
+
+
+### Post — @saxenism — 2024-05-17 08:43 UTC (2024-05-17 09:43 WAT)
+
+- URL: https://x.com/saxenism/status/1791389080321970366
+- Metrics (at fetch): bookmark 1, impression 1104, like 5, quote 0, reply 4, retweet 0
+
+> Is spamming log statements to find the bug a valid way or you need that debugger know-how to be considered a dev?
+
+
+---
+
+## 2024-05-16 · Post · I'm back for another round of Hack The Circom Circuit.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-16 14:49 UTC (2024-05-16 15:49 WAT)
+
+- URL: https://x.com/saxenism/status/1791118878120231289
+- Metrics (at fetch): bookmark 3, impression 1812, like 16, quote 1, reply 4, retweet 0
+
+> I'm back for another round of Hack The Circom Circuit.
+>
+> This time, instead of a circuit, I give you a code snippet.
+>
+> Do you see any issues in the code below? Specifically any flawed assumption from the dev?
+>
+> If yes, what is it and how will you fix it? https://t.co/OThxhVips6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNtU_fwa0AAGdiS.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-13 · Post · TIME FOR ROUND 3.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-13 06:52 UTC (2024-05-13 07:52 WAT)
+
+- URL: https://x.com/saxenism/status/1789911703372615936
+- Metrics (at fetch): bookmark 7, impression 2390, like 10, quote 0, reply 0, retweet 0
+
+> TIME FOR ROUND 3.
+>
+> Instead of a bug this time, let's reduce the number of constraints.
+>
+> This circuit returns 1 if the input array is sorted and 0 otherwise.
+>
+> Currently, this simple circuit has 1268 non-linear constraints.
+>
+> Can you reduce it? At least below 1000?
+>
+> GIST: https://t.co/jKVLCXMEsz https://t.co/Ebw45pUddm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNcI5v4XcAI-8BF.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GNcJCvKWcAAWOEE.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-05-01 06:55 UTC (2024-05-01 07:55 WAT)
+    
+    - URL: https://x.com/saxenism/status/1785563759945363926
+    - Metrics (at fetch): bookmark 14, impression 6444, like 23, quote 2, reply 9, retweet 2
+    
+    > Time for round 2.
+    >
+    > This circuit calculates the average of the values from the input signal array. Something is wrong here, maybe a constraint is missing?
+    >
+    > This is taken from a widely used source. This bug has been out in the wild for ~9 months. Can you figure out what's wrong? https://t.co/UDNUds3Obm
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GMeYwMraoAAPneX.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2024-05-13 · Post · TIME FOR ROUND 3.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-13 06:44 UTC (2024-05-13 07:44 WAT)
+
+- URL: https://x.com/saxenism/status/1789909546862817468
+- Metrics (at fetch): bookmark 1, impression 238, like 0, quote 0, reply 1, retweet 0
+
+> TIME FOR ROUND 3.
+>
+> Instead of a bug this time, let's reduce the number of constraints.
+>
+> This circuit returns 1 if the input array is sorted and 0 otherwise.
+>
+> Currently, this simple circuit has 1268 non-linear constraints.
+>
+> Can you reduce it? At least below 1000? https://t.co/pg152ciCZR https://t.co/Ebw45pUddm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNcI5v4XcAI-8BF.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GNcJCvKWcAAWOEE.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-05-01 06:55 UTC (2024-05-01 07:55 WAT)
+    
+    - URL: https://x.com/saxenism/status/1785563759945363926
+    - Metrics (at fetch): bookmark 14, impression 6444, like 23, quote 2, reply 9, retweet 2
+    
+    > Time for round 2.
+    >
+    > This circuit calculates the average of the values from the input signal array. Something is wrong here, maybe a constraint is missing?
+    >
+    > This is taken from a widely used source. This bug has been out in the wild for ~9 months. Can you figure out what's wrong? https://t.co/UDNUds3Obm
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GMeYwMraoAAPneX.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2024-05-12 · Post · I am Circom/ZK noob, but I try.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-12 08:37 UTC (2024-05-12 09:37 WAT)
+
+- URL: https://x.com/saxenism/status/1789575529454055617
+- Metrics (at fetch): bookmark 5, impression 3183, like 26, quote 0, reply 2, retweet 0
+
+> I am Circom/ZK noob, but I try.
+>
+> I have implemented a stack_verification Circom program.
+>
+> These circuits detect that given some instructions, are the associated stack states valid?
+>
+> It'd be great if you could decrease the constraints or point out some missing edge-cases
+>
+> Thanks https://t.co/pziyYZE75L
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-05-11 00:42 UTC (2024-05-11 01:42 WAT)
+    
+    - URL: https://x.com/saxenism/status/1789093783826489500
+    - Metrics (at fetch): bookmark 4, impression 5967, like 33, quote 1, reply 2, retweet 0
+    
+    > Have been coding in Circom for the last 8 hours through the night.
+    >
+    > Talk about a wild Friday night 😭😭
+    
+
+
+---
+
+## 2024-05-11 · Post · Have been coding in Circom for the last 8 hours through the night.
+
+
+### Post — @saxenism — 2024-05-11 00:42 UTC (2024-05-11 01:42 WAT)
+
+- URL: https://x.com/saxenism/status/1789093783826489500
+- Metrics (at fetch): bookmark 4, impression 5967, like 33, quote 1, reply 2, retweet 0
+
+> Have been coding in Circom for the last 8 hours through the night.
+>
+> Talk about a wild Friday night 😭😭
+
+
+---
+
+## 2024-05-01 · Post · You must have heard all about the circuit vulnerabilities revolving around them being under-constrai
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-01 12:53 UTC (2024-05-01 13:53 WAT)
+
+- URL: https://x.com/saxenism/status/1785653797865550206
+- Metrics (at fetch): bookmark 7, impression 1386, like 12, quote 0, reply 0, retweet 0
+
+> You must have heard all about the circuit vulnerabilities revolving around them being under-constrained, right?
+>
+> Well as a counter-measure you might just go out and put as many constraints that you can think of, right? Just to be extra sure, right?
+>
+> Well, you can't. At least if https://t.co/PpvdS7a4tq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMfqJXsbwAAeHhd.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-01 · Post · Time for Round 2 of HACK THE CIRCUIT
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-01 06:59 UTC (2024-05-01 07:59 WAT)
+
+- URL: https://x.com/saxenism/status/1785564807388954957
+- Metrics (at fetch): bookmark 0, impression 593, like 1, quote 0, reply 0, retweet 0
+
+> Time for Round 2 of HACK THE CIRCUIT
+>
+> https://t.co/u8KKGG7eSx https://t.co/zNPsRkTrdY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-04-28 09:19 UTC (2024-04-28 10:19 WAT)
+    
+    - URL: https://x.com/saxenism/status/1784512672945369400
+    - Metrics (at fetch): bookmark 23, impression 8312, like 46, quote 1, reply 10, retweet 2
+    
+    > Let's start off with the very very very very basics.
+    >
+    > I'll (try and) share what I learn in a palatable format.
+    >
+    > This circuit tries to determine if the input signal `in` is zero or not.
+    >
+    > How can you break this? https://t.co/MicvcEr2hF
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GMPcgTNWoAABJBY.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2024-05-01 · Post · Time for round 2.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-01 06:55 UTC (2024-05-01 07:55 WAT)
+
+- URL: https://x.com/saxenism/status/1785563759945363926
+- Metrics (at fetch): bookmark 14, impression 6444, like 23, quote 2, reply 9, retweet 2
+
+> Time for round 2.
+>
+> This circuit calculates the average of the values from the input signal array. Something is wrong here, maybe a constraint is missing?
+>
+> This is taken from a widely used source. This bug has been out in the wild for ~9 months. Can you figure out what's wrong? https://t.co/UDNUds3Obm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMeYwMraoAAPneX.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-01 · Post · Having been in the weeds with Circom for a little while, I am not entirely sure if higher-level lang
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-05-01 04:52 UTC (2024-05-01 05:52 WAT)
+
+- URL: https://x.com/saxenism/status/1785532771265618361
+- Metrics (at fetch): bookmark 6, impression 1995, like 20, quote 0, reply 1, retweet 0
+
+> Having been in the weeds with Circom for a little while, I am not entirely sure if higher-level languages or DSLs for writing circuits would actually be a good thing for the space.
+>
+> Why? Because it makes it easier for people who do not have the requisite math background to
+
+
+---
+
+## 2024-04-28 · Post · We have our winners 
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-28 11:34 UTC (2024-04-28 12:34 WAT)
+
+- URL: https://x.com/saxenism/status/1784546740999188833
+- Metrics (at fetch): bookmark 1, impression 1280, like 1, quote 0, reply 1, retweet 0
+
+> We have our winners 
+>
+> 1. Good hint for anyone trying to break it, and also yes this can break the circuit: https://t.co/jFF8az3VUG
+>
+> 2. This is the much simpler way to break the circuit. Pass the p value that circom uses and voila, the circuit returns 1: https://t.co/TL9w0UCVqC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1390888000729456643 — 2024-04-28 11:31 UTC (2024-04-28 12:31 WAT)
+    
+    - URL: https://x.com/1390888000729456643/status/1784545980517658671
+    - Metrics (at fetch): bookmark 1, impression 1491, like 4, quote 1, reply 1, retweet 0
+    
+    > @saxenism If your input is the circom's scalar field order, it wraps to zero and this circuit passes.
+    
+
+
+---
+
+## 2024-04-28 · Post · Let's start off with the very very very very basics.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-28 09:19 UTC (2024-04-28 10:19 WAT)
+
+- URL: https://x.com/saxenism/status/1784512672945369400
+- Metrics (at fetch): bookmark 23, impression 8312, like 46, quote 1, reply 10, retweet 2
+
+> Let's start off with the very very very very basics.
+>
+> I'll (try and) share what I learn in a palatable format.
+>
+> This circuit tries to determine if the input signal `in` is zero or not.
+>
+> How can you break this? https://t.co/MicvcEr2hF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMPcgTNWoAABJBY.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-28 · Post · Isn't there a good testing environment for circom circuits? 
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-28 07:41 UTC (2024-04-28 08:41 WAT)
+
+- URL: https://x.com/saxenism/status/1784488015659729268
+- Metrics (at fetch): bookmark 10, impression 5442, like 27, quote 0, reply 14, retweet 0
+
+> Isn't there a good testing environment for circom circuits? 
+>
+> Like, wtf, if I want to test different input (signals) to my circuit, are you really asking me to create (and then change) the input.json file and type 4 different terminal commands everytime!?!?!
+>
+> Let's not even talk
+
+
+---
+
+## 2024-04-20 · Post · A Soldity dev is always on edge doubting whether the code actually does what is intended.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-20 01:50 UTC (2024-04-20 02:50 WAT)
+
+- URL: https://x.com/saxenism/status/1781500572878938490
+- Metrics (at fetch): bookmark 2, impression 2880, like 58, quote 0, reply 1, retweet 3
+
+> A Soldity dev is always on edge doubting whether the code actually does what is intended.
+>
+> The tests pass, but the elite devs still doubt whether their code was solid or the test cases weren't challenging.
+>
+> 100x these doubts and you have a circuit developer.
+
+
+---
+
+## 2024-04-18 · Post · This just means a booming business if you are a security researcher :P https://t.co/WpYE1wLZ4q
+
+
+### Post — @saxenism — 2024-04-18 21:38 UTC (2024-04-18 22:38 WAT)
+
+- URL: https://x.com/saxenism/status/1781074792252150043
+- Metrics (at fetch): bookmark 1, impression 943, like 4, quote 0, reply 0, retweet 0
+
+> This just means a booming business if you are a security researcher :P https://t.co/WpYE1wLZ4q
+
+**Quoted post (full text):**
+
+    #### Quoted post — @706491515527364610 — 2024-01-12 16:53 UTC (2024-01-12 17:53 WAT)
+    
+    - URL: https://x.com/706491515527364610/status/1745851585412886858
+    - Metrics (at fetch): bookmark 2, impression 3080, like 24, quote 2, reply 6, retweet 2
+    
+    > first it was monolithic blockchains
+    > then decoupled execution layer and consensus layer
+    > then data availability layer
+    > now settlement layer
+    > tomorrow each opcode is a layer
+    > the 1s and 0s go into different layers
+    > and the layers layer on layers layer
+    > and lasers layer
+    > layers everywhere
+    
+
+
+---
+
+## 2024-04-18 · Post · Recently started out learning Circom. Do not come after me if I say something stupid.
+
+
+### Post — @saxenism — 2024-04-18 21:22 UTC (2024-04-18 22:22 WAT)
+
+- URL: https://x.com/saxenism/status/1781070920292901059
+- Metrics (at fetch): bookmark 3, impression 2366, like 15, quote 0, reply 5, retweet 0
+
+> Recently started out learning Circom. Do not come after me if I say something stupid.
+>
+> So, today I learnt about the thin arrow operator, ie, (&lt;--), h/t @Jeyffre for coining the term.
+>
+> So, the main limitation with using the === or &lt;== is that the expression being assigned can
+
+
+---
+
+## 2024-04-11 · Post · The irony is that the wardens suggest going for a lot of very dangerous tricks to shave off some gas
+
+
+### Post — @saxenism — 2024-04-11 15:39 UTC (2024-04-11 16:39 WAT)
+
+- URL: https://x.com/saxenism/status/1778447714348597336
+- Metrics (at fetch): bookmark 0, impression 454, like 7, quote 0, reply 1, retweet 0
+
+> The irony is that the wardens suggest going for a lot of very dangerous tricks to shave off some gas here and there.
+>
+> And, the same wardens would flag these dangerous tricks as security issues if we were to implement them, kek
+
+
+---
+
+## 2024-04-11 · Post · The submission quality of gas reports on c4 contests has become really really impressive.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-04-11 14:31 UTC (2024-04-11 15:31 WAT)
+
+- URL: https://x.com/saxenism/status/1778430738943135936
+- Metrics (at fetch): bookmark 2, impression 1245, like 10, quote 0, reply 3, retweet 0
+
+> The submission quality of gas reports on c4 contests has become really really impressive.
+>
+> Many times, I am forced to stop and research the hack that the warden has mentioned.
+>
+> Arguably reading gas reports teaches you more about the EVM compared to security reports.
+
+
+---
+
+## 2024-04-11 · Post · Lawyers, Doctors, Portfolio Managers, CAs, Fitness coaches, etc. love to use jargon.
+
+
+### Post — @saxenism — 2024-04-11 04:35 UTC (2024-04-11 05:35 WAT)
+
+- URL: https://x.com/saxenism/status/1778280699319210330
+- Metrics (at fetch): bookmark 7, impression 2584, like 28, quote 1, reply 3, retweet 0
+
+> Lawyers, Doctors, Portfolio Managers, CAs, Fitness coaches, etc. love to use jargon.
+>
+> They have a financial incentive to use obfuscated language and gatekeep their trade secrets from the rest of the world. 
+>
+> Therefore, just because of the language even simple concepts from these
+
+
+---
+
+## 2024-04-11 · Post · If you've been meaning to get into ZK engineering for a while but haven't been able to, I have 2 thi
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-11 04:07 UTC (2024-04-11 05:07 WAT)
+
+- URL: https://x.com/saxenism/status/1778273603148280318
+- Metrics (at fetch): bookmark 16, impression 5147, like 89, quote 1, reply 8, retweet 5
+
+> If you've been meaning to get into ZK engineering for a while but haven't been able to, I have 2 things to tell you:
+>
+> 1. You are smarter than you think
+> 2. The math is easier than you think
+>
+> Stop living in your head.
+
+
+---
+
+## 2024-04-10 · Post · This is something that one of my bosses at ZkSync told me: 
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-10 16:56 UTC (2024-04-10 17:56 WAT)
+
+- URL: https://x.com/saxenism/status/1778104663906328973
+- Metrics (at fetch): bookmark 0, impression 1125, like 10, quote 0, reply 0, retweet 0
+
+> This is something that one of my bosses at ZkSync told me: 
+>
+> The developer team is supposed to be in somewhat of a constant struggle with the security team, by design.
+>
+> The point being, do not take anything personally while always pushing what you think is right, kek https://t.co/9HCizFcBo5
+
+**Quoted post (full text):**
+
+    #### Quoted post — @167801813 — 2024-04-10 10:21 UTC (2024-04-10 11:21 WAT)
+    
+    - URL: https://x.com/167801813/status/1778005302970872235
+    - Metrics (at fetch): bookmark 41, impression 87233, like 495, quote 5, reply 157, retweet 50
+    
+    > This is how @the_matter_labs operates. So proud of our amazing team! https://t.co/B5WushMUgT
+    
+    **Quoted post** 1777905553303371780: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2024-04-09 · Post · Let me be extremely clear here.
+
+
+### Post — @saxenism — 2024-04-09 18:51 UTC (2024-04-09 19:51 WAT)
+
+- URL: https://x.com/saxenism/status/1777771340214526116
+- Metrics (at fetch): bookmark 9, impression 3086, like 25, quote 2, reply 8, retweet 5
+
+> Let me be extremely clear here.
+>
+> You CANNOT win by shitting on Ethereum.
+>
+> The reason Ethereum is still a thing is because it has faced multiple, relentless, near fatal attacks right from the Badger DAO Hack to the Parity Hack to the Shanghai attacks. Any of the attacks were https://t.co/Rf63AOV6qC
+
+**Quoted post** 1777719575540642261: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2024-04-08 · Post · Here's the first thread in the series propelled by this declaration.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-08 16:40 UTC (2024-04-08 17:40 WAT)
+
+- URL: https://x.com/saxenism/status/1777376079545856140
+- Metrics (at fetch): bookmark 5, impression 1091, like 2, quote 0, reply 0, retweet 0
+
+> Here's the first thread in the series propelled by this declaration.
+>
+> Here you get an awesome AF intuition on learning to think about what are circuits and the associated ZK proofs.
+>
+> https://t.co/1JcmaGpAzD https://t.co/W8B0uvryMm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-04-03 18:50 UTC (2024-04-03 19:50 WAT)
+    
+    - URL: https://x.com/saxenism/status/1775596867159732326
+    - Metrics (at fetch): bookmark 75, impression 10277, like 156, quote 1, reply 17, retweet 4
+    
+    > I'm a cryptography and ZK noob and (probably) so are you.
+    >
+    > The Zk world is a big, vast, dense, dark and dangerous forest. It's easy to get lost wandering here for days on end without getting to the intended place.
+    >
+    > Let me start out a mega-thread of my understanding of ZK and how
+    
+
+
+---
+
+## 2024-04-08 · Post · Lmk, if this above thread made sense to you or not.
+
+
+### Post — @saxenism — 2024-04-08 16:36 UTC (2024-04-08 17:36 WAT)
+
+- URL: https://x.com/saxenism/status/1777374963571593275
+- Metrics (at fetch): bookmark 0, impression 321, like 6, quote 0, reply 1, retweet 0
+
+> Lmk, if this above thread made sense to you or not.
+>
+> In any case, drop @Jeyffre a follow right fucking now.
+>
+> Curious to know your thoughts and extrapolations from this example.
+
+
+---
+
+## 2024-04-08 · Post · And efficient verification simply means the ability to verify in polynomial time (and not exponentia
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-08 16:36 UTC (2024-04-08 17:36 WAT)
+
+- URL: https://x.com/saxenism/status/1777374961252094237
+- Metrics (at fetch): bookmark 0, impression 261, like 2, quote 0, reply 1, retweet 0
+
+> And efficient verification simply means the ability to verify in polynomial time (and not exponential time).
+>
+> Ofc, some technicalities were overlooked, but this imo is a pretty solid intuition for understanding circuits and ZK proofs.
+
+
+---
+
+## 2024-04-08 · Post · sharing the sorted array with the verifier.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-08 16:36 UTC (2024-04-08 17:36 WAT)
+
+- URL: https://x.com/saxenism/status/1777374958827811026
+- Metrics (at fetch): bookmark 0, impression 192, like 2, quote 0, reply 1, retweet 0
+
+> sharing the sorted array with the verifier.
+>
+> In ZKLand, we refer to Boolean formulas as Boolean circuits.
+>
+> That's it. These are what you call a circuit.
+>
+> The ability to efficiently verify a solution to a problem is a must for creating a ZK proof that you have a solution. https://t.co/W0wERGG5bT
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKqBAefbsAAJmpw.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-08 · Post · array, need not be the sorted array itself, but it can be a boolean expression of the above form.
+
+
+### Post — @saxenism — 2024-04-08 16:36 UTC (2024-04-08 17:36 WAT)
+
+- URL: https://x.com/saxenism/status/1777374956843897262
+- Metrics (at fetch): bookmark 0, impression 145, like 2, quote 0, reply 1, retweet 0
+
+> array, need not be the sorted array itself, but it can be a boolean expression of the above form.
+>
+> And, if someone can provide the correct boolean values that satisfy the above comparison boolean equation, that would mean they could prove that they have sorted the array, without,
+
+
+---
+
+## 2024-04-08 · Post · But if we are serving the sorted array itself as the witness to prove that we did the sorting correc
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-08 16:36 UTC (2024-04-08 17:36 WAT)
+
+- URL: https://x.com/saxenism/status/1777374935947911496
+- Metrics (at fetch): bookmark 0, impression 207, like 3, quote 0, reply 1, retweet 0
+
+> But if we are serving the sorted array itself as the witness to prove that we did the sorting correctly, that's not too interesting, at least with the ZK angle.
+>
+> The good news here is, the witness could also be a solution for an alternate representation of the same problem.
+
+
+---
+
+## 2024-04-08 · Post · The cohort hasn't even started and @Jeyffre gave me early access to a couple of ZK-related @RareSkil
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-08 16:36 UTC (2024-04-08 17:36 WAT)
+
+- URL: https://x.com/saxenism/status/1777374925634076748
+- Metrics (at fetch): bookmark 0, impression 306, like 8, quote 0, reply 1, retweet 0
+
+> The cohort hasn't even started and @Jeyffre gave me early access to a couple of ZK-related @RareSkills_io articles to proof read.
+>
+> The articles were focused on getting an intuition on what are ZK proofs, so I wasn't expecting to gain much out of it....
+>
+> But
+>
+> BOY WAS I WRONG!!
+
+
+---
+
+## 2024-04-08 · Post · Let this be my biggest flex on you all.
+
+
+### Post — @saxenism — 2024-04-08 16:36 UTC (2024-04-08 17:36 WAT)
+
+- URL: https://x.com/saxenism/status/1777374923201331436
+- Metrics (at fetch): bookmark 18, impression 4831, like 34, quote 1, reply 5, retweet 2
+
+> Let this be my biggest flex on you all.
+>
+> @Jeyffre came up with the idea of creating a new experimental cohort for teaching some Cairo to them.
+>
+> Knowing Jeff and the effort he puts into any educational material that he puts out, I jumped at the opportunity...
+>
+> AND
+>
+> I GOT IN. https://t.co/SUzMkzU55r
+
+**Media:**
+- media `3_1777374094822125568` (details not returned by the API)
+
+
+---
+
+## 2024-04-05 · Post · Is there some hack to do function calls with named parameters in Yul?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2024-04-05 11:08 UTC (2024-04-05 12:08 WAT)
+
+- URL: https://x.com/saxenism/status/1776205190338957602
+- Metrics (at fetch): bookmark 1, impression 856, like 3, quote 0, reply 0, retweet 0
+
+> Is there some hack to do function calls with named parameters in Yul?
+>
+> I know we can do that in Solidity (https://t.co/CTSUIangLO) but I'm interested in doing that in Yul.
+
+
+---
+
+## 2024-04-04 · Post · Listen up mfers and !mfers...
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-04 15:59 UTC (2024-04-04 16:59 WAT)
+
+- URL: https://x.com/saxenism/status/1775916028775764474
+- Metrics (at fetch): bookmark 2, impression 2186, like 12, quote 0, reply 3, retweet 2
+
+> Listen up mfers and !mfers...
+>
+> You better drop whatever you are doing and come join me in listening to the absolute masterclass that @portport255 is about to bring in for ZK at @dOrg_tech Discord server in a couple of minutes.
+>
+> https://t.co/0Bd8zH79NS https://t.co/okW6tSO3hk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GKVR1StbkAAeNxK.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1108349684727242752 — 2024-04-04 10:30 UTC (2024-04-04 11:30 WAT)
+    
+    - URL: https://x.com/1108349684727242752/status/1775833189497594115
+    - Metrics (at fetch): bookmark 1, impression 3322, like 14, quote 2, reply 0, retweet 2
+    
+    > 📢Join us TODAY for an insightful ZK 101 Workshop with @portport255 and @saxenism  from @zksync!
+    >
+    > ⏰Hop on our Discord server at 6 PM CET / 12 PM EST: https://t.co/AKxVbugHpr https://t.co/Zre3TUlGeg
+    
+    **Media:**
+    - media `3_1775660769343934465` (details not returned by the API)
+    
+
+
+---
+
+## 2024-04-04 · Post · Carried out a few Solidity engineering interview for a friend's company.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2024-04-04 12:29 UTC (2024-04-04 13:29 WAT)
+
+- URL: https://x.com/saxenism/status/1775863155387985935
+- Metrics (at fetch): bookmark 16, impression 7840, like 69, quote 0, reply 12, retweet 1
+
+> Carried out a few Solidity engineering interview for a friend's company.
+>
+> And , all I can say is, now, for me, Years of Experience means jackshit.
+>
+> All this YoE BS tells you is that someone did the bare minimum amount of work at a place for X years so as to not get fired.
+>
+> Any
+
+
+---
+
+## 2024-04-03 · Post · I'm a cryptography and ZK noob and (probably) so are you.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-04-03 18:50 UTC (2024-04-03 19:50 WAT)
+
+- URL: https://x.com/saxenism/status/1775596867159732326
+- Metrics (at fetch): bookmark 75, impression 10277, like 156, quote 1, reply 17, retweet 4
+
+> I'm a cryptography and ZK noob and (probably) so are you.
+>
+> The Zk world is a big, vast, dense, dark and dangerous forest. It's easy to get lost wandering here for days on end without getting to the intended place.
+>
+> Let me start out a mega-thread of my understanding of ZK and how
+
+
+---
+
+## 2024-04-03 · Post · Spitballing here.
+
+
+### Post — @saxenism — 2024-04-03 09:12 UTC (2024-04-03 10:12 WAT)
+
+- URL: https://x.com/saxenism/status/1775451215788470282
+- Metrics (at fetch): bookmark 15, impression 3123, like 23, quote 0, reply 5, retweet 0
+
+> Spitballing here.
+>
+> If I were an independent security researcher, who was above average in their job, and I had the option to choose one protocol from all the different audit competitions going around... which one would I pick?
+>
+> Initially, I thought the answer would be the one
+
+
+---
+
+## 2024-03-31 · Post · Lmao, reviewing bug submissions is fun. My man's putting God to good work. https://t.co/OCpGzTFSCw
+
+
+### Post — @saxenism — 2024-03-31 06:06 UTC (2024-03-31 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/1774317393390743987
+- Metrics (at fetch): bookmark 0, impression 1400, like 19, quote 0, reply 1, retweet 0
+
+> Lmao, reviewing bug submissions is fun. My man's putting God to good work. https://t.co/OCpGzTFSCw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJ-j8C0a8AAuMTn.png — no alt text provided by author
+
+
+---
+
+## 2024-03-27 · Post · If his scenario plays out, the cost of posting data on Ethereum will go down so much that the techni
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075964454678729
+- Metrics (at fetch): bookmark 0, impression 182, like 3, quote 0, reply 1, retweet 0
+
+> If his scenario plays out, the cost of posting data on Ethereum will go down so much that the techniques of posting data become irrelevant and also the currently hot business of DA providers becomes quite niche, as external DA providers can be an additional attack vector.
+
+
+---
+
+## 2024-03-27 · Post · @jbaylina as usual had 2 fascinating points of view here.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075959635423322
+- Metrics (at fetch): bookmark 0, impression 190, like 2, quote 0, reply 1, retweet 0
+
+> @jbaylina as usual had 2 fascinating points of view here.
+>
+> 1. He believes that with the introduction of blobs for storing data, Ethereum has opened the floodgates for introducing base-layer level changes that enable cheaper and cheaper data posting costs on Ethereum over time.
+
+
+---
+
+## 2024-03-27 · Post · By now, I had a more rounded understanding of why someone would forsake room for experimentation for
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075956187705462
+- Metrics (at fetch): bookmark 0, impression 185, like 3, quote 0, reply 1, retweet 0
+
+> By now, I had a more rounded understanding of why someone would forsake room for experimentation for stricter EVM alignment.
+>
+> Anyways, moving on.
+>
+> We also talked about state diffs, which, in my mind is the most logical thing to do if the cost of posting data on L1 is a concern.
+
+
+---
+
+## 2024-03-27 · Post · To him, any kind of innovation that is not strictly aligned with Ethereum &amp; by extension the EVM
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075950022078832
+- Metrics (at fetch): bookmark 0, impression 394, like 5, quote 0, reply 1, retweet 0
+
+> To him, any kind of innovation that is not strictly aligned with Ethereum &amp; by extension the EVM poses a threat to the security &amp; maturity of Ethereum which it had earned over the years, is *not* the way ahead.
+>
+> This is the inspiration behind his constant push for Type 1.
+
+
+---
+
+## 2024-03-27 · Post · Having been (almost) at the epicentre of the DAO hack &amp; then the Parity hack &amp; then somewhat
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075945446093156
+- Metrics (at fetch): bookmark 0, impression 322, like 3, quote 0, reply 1, retweet 0
+
+> Having been (almost) at the epicentre of the DAO hack &amp; then the Parity hack &amp; then somewhat in the Shanghai Attacks, Jordi has seen some ruthless action from close quarters.
+>
+> Ethereum has gone from an idea to the mature ecosystem that we know today right in front of his eyes.
+
+
+---
+
+## 2024-03-27 · Post · But Ser Jordi presented a philosophical POV that I had never thought about.
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075941851562384
+- Metrics (at fetch): bookmark 0, impression 310, like 2, quote 0, reply 1, retweet 0
+
+> But Ser Jordi presented a philosophical POV that I had never thought about.
+>
+> As an engineer, I was thinking purely from the perspective of what makes the most engineering sense.
+>
+> Jordi however offered insights into a different school of thought with his early whitehat stories
+
+
+---
+
+## 2024-03-27 · Post · If you want to onboard the best cryptographers into web3 &amp; have them build you the most secure &
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075938278027423
+- Metrics (at fetch): bookmark 0, impression 344, like 3, quote 0, reply 1, retweet 0
+
+> If you want to onboard the best cryptographers into web3 &amp; have them build you the most secure &amp; scalable blockchain you would want them to focus on cryptography and not be overtly bothered by the restrictions of the EVM and so, for me, type 4 was clearly the way to go, till now.
+
+
+---
+
+## 2024-03-27 · Post · Before meeting Jordi, I used to think that people who wanted to onboard users onto their L2 with the
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075933517492523
+- Metrics (at fetch): bookmark 0, impression 315, like 4, quote 0, reply 1, retweet 0
+
+> Before meeting Jordi, I used to think that people who wanted to onboard users onto their L2 with the least friction go for Type 1 zkEVMs and the people who want the most freedom and room for experimentation to build out their L2s go for Type 4 zkEVMs.
+
+
+---
+
+## 2024-03-27 · Post · Recently, I got the chance to sneak into the backpacks of @adidshaft &amp; @0xAbix at @EthTaipei and
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-03-27 19:53 UTC (2024-03-27 20:53 WAT)
+
+- URL: https://x.com/saxenism/status/1773075925527306306
+- Metrics (at fetch): bookmark 8, impression 5374, like 73, quote 1, reply 4, retweet 1
+
+> Recently, I got the chance to sneak into the backpacks of @adidshaft &amp; @0xAbix at @EthTaipei and follow around @jbaylina listening to all of his thoughts right from Ethereum, ZK, and security to barber shops in Barcelona.
+>
+> Here are a few cool pearls of wisdom I'd love to share https://t.co/FqvEckbEkm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJs7KAOasAEL8Jw.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-23 · Post · Stop publishing stupid ZK research papers with sensational titles. Please.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-03-23 07:43 UTC (2024-03-23 08:43 WAT)
+
+- URL: https://x.com/saxenism/status/1771442613389815913
+- Metrics (at fetch): bookmark 1, impression 1334, like 13, quote 0, reply 1, retweet 0
+
+> Stop publishing stupid ZK research papers with sensational titles. Please.
+>
+> When I say stupid, I mean impractical or infeasible.
+
+
+---
+
+## 2024-03-20 · Post · Let's brainstorm together.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-03-20 05:08 UTC (2024-03-20 06:08 WAT)
+
+- URL: https://x.com/saxenism/status/1770316553017294964
+- Metrics (at fetch): bookmark 2, impression 1478, like 7, quote 0, reply 4, retweet 0
+
+> Let's brainstorm together.
+>
+> What are the best ways of introducing chaos engineering into web3 or specifically the EVM ecosystem?
+>
+> I think the discussions around rogue ERC20/ERC 777 implementations and upgradability have matured a lot, but perhaps, we need to step it up a little.
+
+
+---
+
+## 2024-03-18 · Post · Auditability is a good critique. Agreed.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2024-03-18 06:10 UTC (2024-03-18 07:10 WAT)
+
+- URL: https://x.com/saxenism/status/1769607209757954545
+- Metrics (at fetch): bookmark 1, impression 1221, like 1, quote 0, reply 1, retweet 0
+
+> Auditability is a good critique. Agreed.
+>
+> However, here are a few reasons why I'd put my money in a zk rollup (if not on ETH L1 itself)
+>
+> The first question to ask is... does your optimistic rollup even have fraud proofs in place?
+>
+> Second, even if it does have it, is it https://t.co/oLCGf6K3Cp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @979462167559892993 — 2024-03-14 22:21 UTC (2024-03-14 23:21 WAT)
+    
+    - URL: https://x.com/979462167559892993/status/1768402132611256571
+    - Metrics (at fetch): bookmark 12, impression 29127, like 52, quote 6, reply 22, retweet 2
+    
+    > If I **had** to deposit $1B with a gun to my head, I would probably use an optimistic rollup. 
+    >
+    > ZK is cool, but it's too much of a black box with about 5 people understanding why it works
+    >
+    > I think that people underestimate this value prop of optimistic rollups
+    
+
+
+---
+
+## 2024-03-18 · Post · This might be an industry-wide opinion that isn't really broadcasted out loud...
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-03-18 05:46 UTC (2024-03-18 06:46 WAT)
+
+- URL: https://x.com/saxenism/status/1769601250109046873
+- Metrics (at fetch): bookmark 6, impression 1284, like 16, quote 0, reply 2, retweet 0
+
+> This might be an industry-wide opinion that isn't really broadcasted out loud...
+>
+> But, I seriously don't think optimistic solutions can compete with Zk solutions in their current form. I am talking in large parts about scaling via Zk vs scaling via optimistic approaches.
+>
+> The https://t.co/0kJ6Pcf63D
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GI7i8QiWAAAjYjH.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-17 · Post · SRs HEED.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-03-17 04:20 UTC (2024-03-17 05:20 WAT)
+
+- URL: https://x.com/saxenism/status/1769217094451634679
+- Metrics (at fetch): bookmark 5, impression 737, like 4, quote 0, reply 0, retweet 0
+
+> SRs HEED.
+>
+> Let's create a thread of your single best piece of advice as a security researcher to EVM devs.
+>
+> I'll start with my personal favourite:
+>
+> &gt; Always be minimising that motherfucking blast radius.
+
+
+---
+
+## 2024-02-24 · Post · Here are my shower thots on this topic.
+
+
+### Post — @saxenism — 2024-02-24 05:34 UTC (2024-02-24 06:34 WAT)
+
+- URL: https://x.com/saxenism/status/1761263221405606143
+- Metrics (at fetch): bookmark 1, impression 2456, like 9, quote 0, reply 4, retweet 0
+
+> Here are my shower thots on this topic.
+>
+> The reason that infra projects dominate consumer apps in web3 right now is that... engineering issues are pretty straightforward to identify and work towards.
+>
+> One can highlight the engineering deficiencies in a complex engineering system https://t.co/aEQ2s5aWcU
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1296128098656587781 — 2024-02-24 00:47 UTC (2024-02-24 01:47 WAT)
+    
+    - URL: https://x.com/1296128098656587781/status/1761191155327529014
+    - Metrics (at fetch): bookmark 1, impression 3306, like 11, quote 1, reply 0, retweet 0
+    
+    > The imbalance between the number of consumer apps and the infra being built in crypto might not have anything to do with VC funding. 
+    >
+    > I would simply attribute it to how infra-level tech in crypto nerd snipes the friendly ambitious nerds hehe
+    
+
+
+---
+
+## 2024-02-20 · Post · incharge of looking after the ZK circuits and you cannot tell whether a particular verification algo
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-02-20 03:37 UTC (2024-02-20 04:37 WAT)
+
+- URL: https://x.com/saxenism/status/1759784227577409830
+- Metrics (at fetch): bookmark 0, impression 227, like 0, quote 0, reply 1, retweet 0
+
+> incharge of looking after the ZK circuits and you cannot tell whether a particular verification algorithm covers all edge cases, while being as efficient (space and time wise) as possible, you are pretty much winging it.
+>
+> Of course you can learn stuff as you go, but having a good
+
+
+---
+
+## 2024-02-20 · Post · you better have an idea of all the malarkey that the dev throws at you with their code. 
+
+
+### Post — @saxenism — 2024-02-20 03:36 UTC (2024-02-20 04:36 WAT)
+
+- URL: https://x.com/saxenism/status/1759784066465820961
+- Metrics (at fetch): bookmark 0, impression 51, like 0, quote 0, reply 1, retweet 0
+
+> you better have an idea of all the malarkey that the dev throws at you with their code. 
+> 3. If the dev has used a well know algorithm to solve trivial tasks such as sorting an algo, the security researcher is not expected to treat it as a black box and move ahead.
+
+
+---
+
+## 2024-02-20 · Post · Here are my thoughts:
+
+
+### Post — @saxenism — 2024-02-20 03:36 UTC (2024-02-20 04:36 WAT)
+
+- URL: https://x.com/saxenism/status/1759784064330891346
+- Metrics (at fetch): bookmark 0, impression 63, like 0, quote 0, reply 2, retweet 0
+
+> Here are my thoughts:
+> 1. I expect more depth of understanding from (web3) developers and more width of understanding from security researchers.
+> 2. Why? Because, to build shit, you better know the ins and outs of what you're trying to build. However, when you are breaking shit ..
+
+
+---
+
+## 2024-02-20 · Post · ~300 people voted, far beyond what I expected.
+
+
+### Post — @saxenism — 2024-02-20 03:36 UTC (2024-02-20 04:36 WAT)
+
+- URL: https://x.com/saxenism/status/1759784061290037423
+- Metrics (at fetch): bookmark 0, impression 1052, like 1, quote 0, reply 1, retweet 0
+
+> ~300 people voted, far beyond what I expected.
+>
+> The main narrative that came out of the polls were that people were unhappy with DSA being introduced in security interviews and although they'd understand why it was asked in the first place, they'd still leave mid-interview. https://t.co/ojTbJY8a9A
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2024-02-17 15:22 UTC (2024-02-17 16:22 WAT)
+    
+    - URL: https://x.com/saxenism/status/1758874623356088327
+    - Metrics (at fetch): bookmark 13, impression 8099, like 19, quote 1, reply 13, retweet 2
+    
+    > If you are being interviewed as a security researcher at a ZK Rollup L2, do you think it is fair to be asked questions about commonly used algorithms like BFS, DFS, searching, sorting, etc ? 
+    >
+    > Also try and give your reasons in the comments. Would share my insights post polls.
+    
+
+
+---
+
+## 2024-02-20 · Post · People who write code, work on integrating that code, write front-end, even the BD that demonstrates
+
+
+### Post — @saxenism — 2024-02-20 03:14 UTC (2024-02-20 04:14 WAT)
+
+- URL: https://x.com/saxenism/status/1759778470958071857
+- Metrics (at fetch): bookmark 1, impression 5678, like 34, quote 2, reply 18, retweet 0
+
+> People who write code, work on integrating that code, write front-end, even the BD that demonstrates that code and/or build communities... refer to themselves as **builders**.
+>
+> Their bio seems so cool.
+>
+> builder/buidler @someCoolProtocol
+>
+> But what about us security folks?
+>
+> I
+
+
+---
+
+## 2024-02-17 · Post · If you are being interviewed as a security researcher at a ZK Rollup L2, do you think it is fair to 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2024-02-17 15:22 UTC (2024-02-17 16:22 WAT)
+
+- URL: https://x.com/saxenism/status/1758874623356088327
+- Metrics (at fetch): bookmark 13, impression 8099, like 19, quote 1, reply 13, retweet 2
+
+> If you are being interviewed as a security researcher at a ZK Rollup L2, do you think it is fair to be asked questions about commonly used algorithms like BFS, DFS, searching, sorting, etc ? 
+>
+> Also try and give your reasons in the comments. Would share my insights post polls.
+
+
+---
+
+## 2024-02-17 · Post · I see that a large sub-section of people were *blown away* or *genuinely scared* about the future wi
+
+
+### Post — @saxenism — 2024-02-17 03:33 UTC (2024-02-17 04:33 WAT)
+
+- URL: https://x.com/saxenism/status/1758696182837080204
+- Metrics (at fetch): bookmark 0, impression 1822, like 14, quote 0, reply 4, retweet 0
+
+> I see that a large sub-section of people were *blown away* or *genuinely scared* about the future with Altman demonstrating Sora's capability of text-to-video gen.
+>
+> What stumps me is that, for me, this was a certainty that was bound to happen as soon as Dall-E came out.
+>
+> The day
+
+
+---
+
+## 2024-02-15 · Post · Good god!! Please someone help me answer the train of questions going on in my head.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2024-02-15 03:31 UTC (2024-02-15 04:31 WAT)
+
+- URL: https://x.com/saxenism/status/1757970901595750658
+- Metrics (at fetch): bookmark 31, impression 9198, like 38, quote 1, reply 6, retweet 3
+
+> Good god!! Please someone help me answer the train of questions going on in my head.
+>
+> So, if any Rust program can be proven now, any EVM client written in Rust can also be proven, right?
+>
+> Now, if a client's execution can be proven... does that mean there is no need for the rest https://t.co/ajwxoD6sDG
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1565117390010036224 — 2024-02-14 18:20 UTC (2024-02-14 19:20 WAT)
+    
+    - URL: https://x.com/1565117390010036224/status/1757832224958001596
+    - Metrics (at fetch): bookmark 228, impression 293888, like 740, quote 74, reply 47, retweet 160
+    
+    > 1/ We are excited to announce Succinct Processor 1 (SP1), our first generation, 100% open-source zkVM that proves arbitrary Rust programs.
+    >
+    > SP1 targets an order of magnitude performance improvement vs. existing zkVMs, and is already up to 28x faster for certain programs. https://t.co/MhOX7UPPUt
+    
+    **Media:**
+    - media `3_1757832217601191939` (details not returned by the API)
+    
+
+
+---
+
+## 2024-02-10 · Post · Damn!! ZK space moves at a lightning pace.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-02-10 02:43 UTC (2024-02-10 03:43 WAT)
+
+- URL: https://x.com/saxenism/status/1756146807082475567
+- Metrics (at fetch): bookmark 1, impression 1754, like 31, quote 0, reply 0, retweet 0
+
+> Damn!! ZK space moves at a lightning pace.
+>
+> Now we'll have the holy wars on what type of SNARKs are being proven with this, but that's a much better problem to have imo.
+>
+> Gg. https://t.co/jJYg2IUnUE
+
+**Quoted post (full text):**
+
+    #### Quoted post — @258480276 — 2024-02-09 12:20 UTC (2024-02-09 13:20 WAT)
+    
+    - URL: https://x.com/258480276/status/1755929540700807211
+    - Metrics (at fetch): bookmark 195, impression 338105, like 1954, quote 93, reply 82, retweet 347
+    
+    > The first ever SNARK proving ASIC 👀
+    >
+    > Real-time proving, real-time settlement, universal synchronous composability—coming sooner than most think :)
+    >
+    > We can fix Ethereum fragmentation! https://t.co/jBQSz1PkX3
+    
+    **Media:**
+    - media `3_1755927894822395904` (details not returned by the API)
+    
+
+
+---
+
+## 2024-02-07 · Post · Learn to write.
+
+
+### Post — @saxenism — 2024-02-07 06:22 UTC (2024-02-07 07:22 WAT)
+
+- URL: https://x.com/saxenism/status/1755114793499754878
+- Metrics (at fetch): bookmark 3, impression 1657, like 34, quote 0, reply 1, retweet 1
+
+> Learn to write.
+>
+> Effective written communication that answers all possible question with brevity is critical.
+>
+> Understanding the vulnerable aspects of a complex system is one thing.
+>
+> Communicating it to the entire organisation w/ varied backgrounds is a completely different beast
+
+
+---
+
+## 2024-02-04 · Post · Brilliant breakdown of the MIM hack.
+
+
+### Post — @saxenism — 2024-02-04 19:23 UTC (2024-02-04 20:23 WAT)
+
+- URL: https://x.com/saxenism/status/1754224220090007813
+- Metrics (at fetch): bookmark 6, impression 1954, like 7, quote 0, reply 1, retweet 0
+
+> Brilliant breakdown of the MIM hack.
+>
+> Sadly the root cause was a Rounding Error, AGAIN.
+>
+> Seems that it is really hard to get it right.
+>
+> How do we then protect ourselves?
+>
+> IDK, but my best bet would be FREI-PI Pattern by @nascentxyz (especially in the context of the quoted tweet) https://t.co/G3ACzq9rBa
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kankodu — 2024-01-31 06:37 UTC (2024-01-31 07:37 WAT)
+    
+    - URL: https://x.com/kankodu/status/1752581825837625617
+    - Metrics (at fetch): bookmark 19, impression 7057, like 51, quote 2, reply 1, retweet 1
+    
+    > And the health check passes.
+    >
+    > Fix: For lending protocols that use shares calculation to calculate owed interest, make sure there is no way to reduce totalBorrowShares less than totalBorrowAssets.
+    
+
+
+---
+
+## 2024-02-01 · Post · Regarding the *fundamentally safest chain*, I'll write more when I get more clarity on what I can pu
+
+
+### Post — @saxenism — 2024-02-01 18:35 UTC (2024-02-01 19:35 WAT)
+
+- URL: https://x.com/saxenism/status/1753124875575923012
+- Metrics (at fetch): bookmark 0, impression 299, like 2, quote 0, reply 1, retweet 0
+
+> Regarding the *fundamentally safest chain*, I'll write more when I get more clarity on what I can publicly talk out.
+>
+> This humble peasant doesn't have top security clearance yet, so he spends his day just staring at screens all day long.
+
+
+---
+
+## 2024-02-01 · Post · Sometimes you get off a 1-on-1 with your Head of Security and the realisation hits you like a fuckin
+
+
+### Post — @saxenism — 2024-02-01 08:46 UTC (2024-02-01 09:46 WAT)
+
+- URL: https://x.com/saxenism/status/1752976714442084578
+- Metrics (at fetch): bookmark 0, impression 645, like 5, quote 0, reply 0, retweet 0
+
+> Sometimes you get off a 1-on-1 with your Head of Security and the realisation hits you like a fucking truck that: https://t.co/W1LqbwOUKL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GFPS6JlbgAAPN2p.png — no alt text provided by author
+
+
+---
+
+## 2024-01-29 · Post · TL;DR: ZkSync is hiring security chads. Apply now.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-01-29 09:09 UTC (2024-01-29 10:09 WAT)
+
+- URL: https://x.com/saxenism/status/1751895333700075572
+- Metrics (at fetch): bookmark 12, impression 8119, like 60, quote 0, reply 1, retweet 1
+
+> TL;DR: ZkSync is hiring security chads. Apply now.
+>
+> Personal Story:
+> I had been doing a bunch of private security audits for clients and it was fun. The money was good. Ego boost was unmatched.
+>
+> What really hurt me was that I dedicated so much time and effort into looking for bugs https://t.co/SlUwany1zT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1369966902714499075 — 2024-01-29 05:34 UTC (2024-01-29 06:34 WAT)
+    
+    - URL: https://x.com/1369966902714499075/status/1751841140624761155
+    - Metrics (at fetch): bookmark 29, impression 21613, like 89, quote 2, reply 4, retweet 10
+    
+    > The rise of security researchers (SRs) has led many to find bugs for a living. This is a great opportunity for smart people, and the industry definitely needs it. But what if you could achieve even more by joining a product company? 1/5
+    
+
+
+---
+
+## 2024-01-29 · Post · TL;DR: ZkSync is hiring security chads. Apply now.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-01-29 09:01 UTC (2024-01-29 10:01 WAT)
+
+- URL: https://x.com/saxenism/status/1751893347055333770
+- Metrics (at fetch): bookmark 0, impression 251, like 7, quote 0, reply 0, retweet 0
+
+> TL;DR: ZkSync is hiring security chads. Apply now.
+>
+> Personal Story:
+> I had been doing a bunch of private security audits for clients and it was fun. The money was good. Ego boost was unmatched.
+>
+> What really hurt me was the I dedicated so much time and effort into looking for bugs https://t.co/SlUwany1zT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1369966902714499075 — 2024-01-29 05:34 UTC (2024-01-29 06:34 WAT)
+    
+    - URL: https://x.com/1369966902714499075/status/1751841140624761155
+    - Metrics (at fetch): bookmark 29, impression 21613, like 89, quote 2, reply 4, retweet 10
+    
+    > The rise of security researchers (SRs) has led many to find bugs for a living. This is a great opportunity for smart people, and the industry definitely needs it. But what if you could achieve even more by joining a product company? 1/5
+    
+
+
+---
+
+## 2024-01-26 · Post · What the fuck even is a "Rust Audit"?
+
+
+### Post — @saxenism — 2024-01-26 18:53 UTC (2024-01-26 19:53 WAT)
+
+- URL: https://x.com/saxenism/status/1750955190679928984
+- Metrics (at fetch): bookmark 11, impression 6426, like 63, quote 0, reply 7, retweet 0
+
+> What the fuck even is a "Rust Audit"?
+>
+> Have you ever stopped to think how idiotic that sounds?
+>
+> Like, you know how to read C++....
+>
+> Does that make you eligible to find bugs in C++ games, compilers &amp; embedded systems?
+>
+> No. 
+>
+> Contextual knowledge is king. There are NO shortcuts.
+
+
+---
+
+## 2024-01-22 · Post · Been experimenting with different formal verification or FV-like tools &amp; I've realised that FV i
+
+
+### Post — @saxenism — 2024-01-22 06:20 UTC (2024-01-22 07:20 WAT)
+
+- URL: https://x.com/saxenism/status/1749316150440456298
+- Metrics (at fetch): bookmark 0, impression 1165, like 14, quote 0, reply 3, retweet 0
+
+> Been experimenting with different formal verification or FV-like tools &amp; I've realised that FV is *NOT* a silver bullet for all our security challenges.
+>
+> FV is only as good as the properties that we define.
+>
+> And defining water-tight properties is not trivial, atleast for me.
+
+
+---
+
+## 2024-01-18 · Post · Until now, we have been comparing L2s on txn cost, throughput, level of decentralization &amp; livel
+
+
+### Post — @saxenism — 2024-01-18 05:38 UTC (2024-01-18 06:38 WAT)
+
+- URL: https://x.com/saxenism/status/1747856042405552372
+- Metrics (at fetch): bookmark 1, impression 3932, like 36, quote 0, reply 0, retweet 2
+
+> Until now, we have been comparing L2s on txn cost, throughput, level of decentralization &amp; liveliness to some extent.
+>
+> However, it's time to start comparing L2s w/ regards to the impetus placed on security. 
+>
+> If you do, you'll see a clear winner &amp; we are just getting started. https://t.co/MwBzrHo3JJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1358831196747235328 — 2024-01-17 22:29 UTC (2024-01-17 23:29 WAT)
+    
+    - URL: https://x.com/1358831196747235328/status/1747748054822682874
+    - Metrics (at fetch): bookmark 64, impression 226174, like 378, quote 58, reply 22, retweet 34
+    
+    > Awards have been announced for the $1.1m USDC @zksync Era audit 🎉 🎉
+    >
+    > Top 5:
+    > 🥇 xuwinnie - $502,041.99 USDC
+    > 🥈 ChainLight - $157,696.85 USDC
+    > 🥉 Audittens - $140,480.81 USDC
+    > 🏅 minhtrng - $38,573.19 USDC
+    > 🏅 erebus - $25,342.88 USDC
+    >
+    > Read more at: https://t.co/RSskboNWpk
+    
+
+
+---
+
+## 2024-01-13 · Post · The autistic juvenile urge to spam an important company security doc with anime MC posters :P
+
+
+### Post — @saxenism — 2024-01-13 08:29 UTC (2024-01-13 09:29 WAT)
+
+- URL: https://x.com/saxenism/status/1746086979509658007
+- Metrics (at fetch): bookmark 0, impression 997, like 8, quote 0, reply 0, retweet 0
+
+> The autistic juvenile urge to spam an important company security doc with anime MC posters :P
+
+
+---
+
+## 2024-01-12 · Post · This was very unfortunate, but it had to be done.
+
+
+### Post — @saxenism — 2024-01-12 19:57 UTC (2024-01-12 20:57 WAT)
+
+- URL: https://x.com/saxenism/status/1745897872800035304
+- Metrics (at fetch): bookmark 0, impression 3292, like 19, quote 0, reply 1, retweet 0
+
+> This was very unfortunate, but it had to be done.
+>
+> I don't know enough to understand what pushed them to take this step and blindside our security team.  
+>
+> However, what I can say is that we took the decision with the best interest of all the security researchers in mind. https://t.co/GcdKWNsGUG
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463851728403640326 — 2024-01-12 19:04 UTC (2024-01-12 20:04 WAT)
+    
+    - URL: https://x.com/1463851728403640326/status/1745884595503960130
+    - Metrics (at fetch): bookmark 34, impression 94607, like 373, quote 36, reply 38, retweet 31
+    
+    > To the participants of the recent $1.1M @code4rena zkSync competitive audit and the zkSync community 👇
+    >
+    > As the competition came to a close, as is customary for our team, we conducted an initial review of the results and findings. Integrity, transparency and fairness are core to
+    
+
+
+---
+
+## 2024-01-12 · Post · This was very unfortunate, but it had to be done.
+
+
+### Post — @saxenism — 2024-01-12 19:54 UTC (2024-01-12 20:54 WAT)
+
+- URL: https://x.com/saxenism/status/1745897146875080814
+- Metrics (at fetch): bookmark 0, impression 119, like 1, quote 0, reply 0, retweet 0
+
+> This was very unfortunate, but it had to be done.
+>
+> I don't know enough to understand what pushed them to take this step and blindsiding our security team.  
+>
+> However, what I can say is that we took the decision with the best interest of all the security researchers in mind. https://t.co/GcdKWNsGUG
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1463851728403640326 — 2024-01-12 19:04 UTC (2024-01-12 20:04 WAT)
+    
+    - URL: https://x.com/1463851728403640326/status/1745884595503960130
+    - Metrics (at fetch): bookmark 34, impression 94607, like 373, quote 36, reply 38, retweet 31
+    
+    > To the participants of the recent $1.1M @code4rena zkSync competitive audit and the zkSync community 👇
+    >
+    > As the competition came to a close, as is customary for our team, we conducted an initial review of the results and findings. Integrity, transparency and fairness are core to
+    
+
+
+---
+
+## 2024-01-12 · Post · My plans of marrying Sam didn't come to fruition but I think I'll live.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2024-01-12 04:45 UTC (2024-01-12 05:45 WAT)
+
+- URL: https://x.com/saxenism/status/1745668177818972186
+- Metrics (at fetch): bookmark 1, impression 1768, like 15, quote 0, reply 2, retweet 0
+
+> My plans of marrying Sam didn't come to fruition but I think I'll live.
+>
+> Also, sorry to be vague, but ZkSync is cooking some serious next-level shit that will place it echelons beyond other solutions in terms of security and proof-of-robustness of ZkEVM circuits.
+
+
+---
+
+## 2024-01-11 · Post · Why zkSync gmi?
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-01-11 11:57 UTC (2024-01-11 12:57 WAT)
+
+- URL: https://x.com/saxenism/status/1745414512239595739
+- Metrics (at fetch): bookmark 4, impression 3308, like 43, quote 0, reply 2, retweet 0
+
+> Why zkSync gmi?
+>
+> &gt; The security team is respected here. So no marketing-driven (rushed) decisions (read deployments)
+>
+> &gt; We have (among) the best builders out there, yet we are the ones who are most paranoid about our own codebases and thus have plenty of failsafe mechanisms
+
+
+---
+
+## 2024-01-11 · Post · Now that I’m on the other side of the table, I can say one thing very clearly…..
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2024-01-11 05:54 UTC (2024-01-11 06:54 WAT)
+
+- URL: https://x.com/saxenism/status/1745323190619144444
+- Metrics (at fetch): bookmark 21, impression 11693, like 114, quote 0, reply 10, retweet 0
+
+> Now that I’m on the other side of the table, I can say one thing very clearly…..
+>
+> GET THE FUCK INTO FUCKING ZK SECURITY AND MOTHERFUCKING CRYPTOGRAPHY!!
+
+
+---
+
+## 2024-01-10 · Thread · Are you into security and have watched BlueLock?
+
+
+### Post — @saxenism — 2024-01-10 07:46 UTC (2024-01-10 08:46 WAT)
+
+- URL: https://x.com/saxenism/status/1744989079576674757
+- Metrics (at fetch): bookmark 35, impression 10113, like 67, quote 2, reply 8, retweet 3
+
+> Are you into security and have watched BlueLock?
+>
+> Yes? Awesome, read ahead.
+>
+> It's very sad for me to see so many junior security researchers, spending their precious time devouring a lot of **Auditing Methodology** videos from top auditors in the space.
+>
+> Why? Bc it's worthless. [pic.x.com/sFY3xrgJBg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDdyULraUAAkdkr.jpg — no alt text provided by author
+
+
+### Thread part 2 — @saxenism — 2024-01-10 07:46 UTC (2024-01-10 08:46 WAT)
+
+- URL: https://x.com/saxenism/status/1744989092381958447
+- Metrics (at fetch): bookmark 1, impression 650, like 10, quote 0, reply 1, retweet 0
+
+> Just like everyone in Blue Lock had the singular aim to be the best striker in the world, by scoring the maximum number of goals.
+>
+> All security auditors (at least in the beginning) should strive to be the best auditor by unearthing the maximum number of security issues. [pic.x.com/gta6J9ihIZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDdyVAJbcAA9Xtb.jpg — no alt text provided by author
+
+
+### Thread part 3 — @saxenism — 2024-01-10 07:46 UTC (2024-01-10 08:46 WAT)
+
+- URL: https://x.com/saxenism/status/1744989100300697809
+- Metrics (at fetch): bookmark 1, impression 585, like 6, quote 0, reply 1, retweet 0
+
+> How do you do that?
+>
+> Well, just like every player in the Blue Lock facility had their own *gifts*, you have to find and recognise your own *gift* as well.
+>
+> Ego forced all players to create a formula of scoring goals, unique to them by leveraging their gifts.
+>
+> Follow their lead. [pic.x.com/D6vxYuGNLE]
+
+**Media:**
+- media `3_1744989097297694720` (details not returned by the API)
+
+
+### Thread part 4 — @saxenism — 2024-01-10 07:46 UTC (2024-01-10 08:46 WAT)
+
+- URL: https://x.com/saxenism/status/1744989110077624515
+- Metrics (at fetch): bookmark 0, impression 576, like 8, quote 0, reply 1, retweet 0
+
+> Identify the fields where you have an unfair advantage over others &amp; which one of your cognitive abilities is more developed naturally.
+>
+> Figure it out.
+>
+> Once you have that figured out, create your formula for finding as many high-severity bugs as possible.
+>
+> THIS IS THE 1st LEVEL. [pic.x.com/G1cKCX0QHs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDdyWHUaAAA5vBT.png — no alt text provided by author
+
+
+---
+
+## 2024-01-08 · Post · Learn to write and communicate ideas effectively.
+
+
+### Post — @saxenism — 2024-01-08 09:11 UTC (2024-01-08 10:11 WAT)
+
+- URL: https://x.com/saxenism/status/1744285770570162298
+- Metrics (at fetch): bookmark 2, impression 1871, like 25, quote 0, reply 2, retweet 0
+
+> Learn to write and communicate ideas effectively.
+>
+> Autist-proof documentation is a prerequisite for good security research.
+
+
+---
+
+## 2024-01-03 · Post · The biggest career hack for accelerated learning is to start working with chads.
+
+
+### Post — @saxenism — 2024-01-03 05:22 UTC (2024-01-03 06:22 WAT)
+
+- URL: https://x.com/saxenism/status/1742416234963222875
+- Metrics (at fetch): bookmark 5, impression 4990, like 70, quote 0, reply 9, retweet 1
+
+> The biggest career hack for accelerated learning is to start working with chads.
+>
+> If you are in a team with chads, becoming a chad yourself, is simply an eventuality.
+
+
+---
+
+## 2024-01-01 · Thread · This new year, let me present some thoughts on auditors, their big monies tweets, cringe stuff and t
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, Memory corruption / native
+
+
+### Post — @saxenism — 2024-01-01 08:34 UTC (2024-01-01 09:34 WAT)
+
+- URL: https://x.com/saxenism/status/1741739749793296631
+- Metrics (at fetch): bookmark 3, impression 2304, like 23, quote 0, reply 2, retweet 1
+
+> This new year, let me present some thoughts on auditors, their big monies tweets, cringe stuff and the attention whores in the web3 security space.
+>
+> I have had these thoughts for some time, but I've let them marinate so that I can transfer the most ideas per unit word. [pic.x.com/WbLZTIExKH]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GCvnENpawAADzKA.jpg — no alt text provided by author
+
+
+### Thread part 2 — @saxenism — 2024-01-01 08:34 UTC (2024-01-01 09:34 WAT)
+
+- URL: https://x.com/saxenism/status/1741739764569755814
+- Metrics (at fetch): bookmark 0, impression 248, like 4, quote 0, reply 1, retweet 0
+
+> At this current point in time, we need an extremely large quantity of security researchers in the space and the current security researchers should increasingly set the bar for being a *good researcher* by specialising in a particular domain such as ZK, AMM, etc. [pic.x.com/3aD1UQe3mR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GCvlpusaoAAGPfS.png — no alt text provided by author
+
+
+### Thread part 3 — @saxenism — 2024-01-01 08:34 UTC (2024-01-01 09:34 WAT)
+
+- URL: https://x.com/saxenism/status/1741739776938803573
+- Metrics (at fetch): bookmark 0, impression 247, like 4, quote 0, reply 1, retweet 0
+
+> Why do we need a drastic increase in the quantity and quality of the current security researchers?
+>
+> The open nature of blockchain implies anyone can deploy their protocol without any restrictions.
+>
+> More number of auditors would drive down the price for a basic security check. [pic.x.com/Xgip9cwx0H]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GCvnFwuaQAAuZdx.jpg — no alt text provided by author
+
+
+### Thread part 4 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739791916618023
+- Metrics (at fetch): bookmark 0, impression 155, like 4, quote 0, reply 1, retweet 0
+
+> So, just to recap:
+>
+> Quantity of auditors -&gt; To decrease the price of basic security audits of the many new protocols that will be launched
+>
+> Quality of auditors -&gt; To counter the threat of increasingly sophisticated actors entering the space with malicious intents.
+
+
+### Thread part 5 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739815748698281
+- Metrics (at fetch): bookmark 0, impression 159, like 6, quote 0, reply 1, retweet 0
+
+> Is this a net negative to the web3 security space?
+>
+> No. Why?
+>
+> Because when someone posts that they made 25k USD in a single month, it attracts a lot of new people into the web3 security space.
+>
+> This solves the problem of attracting a large number of talent. [pic.x.com/TDjqkx5CcK]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GCvnIDJbgAAUTtQ.jpg — no alt text provided by author
+
+
+### Thread part 6 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739818705653812
+- Metrics (at fetch): bookmark 0, impression 232, like 5, quote 0, reply 1, retweet 1
+
+> And when people read about @1_00_proof's million-dollar bounty, they understand the depth of understanding required to make that kind of money.
+>
+> This pushes the existing researchers to pick a niche and specialise so that they can see things others cannot and win big. [pic.x.com/XWhNuAEtH8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GCvmMf7b0AAlW3t.jpg — no alt text provided by author
+
+
+### Thread part 7 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739831431196893
+- Metrics (at fetch): bookmark 0, impression 159, like 6, quote 0, reply 1, retweet 0
+
+> This solves the problem of the quality of security researchers in the space.
+>
+> To get the existing researchers up to speed, we have excellent open-source knowledge bases such as @SoloditOfficial and excellent educational resources from @PatrickAlphaC, @SolidityFridays etc. [pic.x.com/0hVaIytsjX]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GCvnI8rbgAAoC2J.jpg — no alt text provided by author
+
+
+### Thread part 8 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739834190991661
+- Metrics (at fetch): bookmark 0, impression 150, like 5, quote 0, reply 1, retweet 0
+
+> People make sarcastic remarks that there are more security researchers in the space than there are builders.
+>
+> But, why is that bad?
+>
+> A cheap Upwork Solidity dev can create your DeFi protocol from scratch in a month.
+
+
+### Thread part 9 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739836766368082
+- Metrics (at fetch): bookmark 0, impression 131, like 4, quote 0, reply 1, retweet 0
+
+> But it takes the collective experience of many security researchers to ensure that the protocol is sound and people's hard-earned money actually remains safe.
+>
+> So, having multiple auditors for a single dev is pretty a good (and logical) state to be in.
+
+
+### Thread part 10 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739848694956434
+- Metrics (at fetch): bookmark 0, impression 149, like 4, quote 0, reply 2, retweet 0
+
+> All this also means that the current security researchers have to step up their game.
+>
+> You could have reported a few gas optimizations, and a basic re-entrancy possibility in 2021 and easily netted $5k in a C4 contest. Now, you'll get some cents for it.
+>
+> Why is this good? [pic.x.com/qtPXsi9uuO]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GCvnJ9qaUAAGIoh.jpg — no alt text provided by author
+
+
+### Thread part 11 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739851702231472
+- Metrics (at fetch): bookmark 0, impression 109, like 4, quote 0, reply 1, retweet 0
+
+> This is good because it is a direct testament to the collective rise in the knowledge of the security considerations for a protocol among the developers and the security researchers alike.
+>
+> If as a security researcher you truly want to make the space secure, then...
+
+
+### Thread part 12 — @saxenism — 2024-01-01 08:35 UTC (2024-01-01 09:35 WAT)
+
+- URL: https://x.com/saxenism/status/1741739874921881676
+- Metrics (at fetch): bookmark 1, impression 148, like 4, quote 0, reply 1, retweet 0
+
+> Find those super complex bug types, properly document the bug publicly and openly share your insights on how to spot them, so that the entire ecosystem can avoid that bug even if you were not directly engaged in their audits.
+>
+> It's a tough ask, I know. [pic.x.com/heCgcpNhnt]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GCvnK2Mb0AAwhUo.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-27 · Post · I'm on vacation currently.
+
+
+### Post — @saxenism — 2023-12-27 07:54 UTC (2023-12-27 08:54 WAT)
+
+- URL: https://x.com/saxenism/status/1739917590347100161
+- Metrics (at fetch): bookmark 13, impression 19849, like 100, quote 3, reply 26, retweet 0
+
+> I'm on vacation currently.
+>
+> I might sound deranged but I don't think vacations are for me.
+>
+> The point of going on vacation is to enjoy, right? Well, I can get equivalent (or more) enjoyment sitting infront of my laptop screen.
+>
+> The only people I saw genuinely enjoying at my resort were old people (mid 60s plus), people in dead-end jobs(legacy jobs) or people who work in extremely high stress environment (BCG, Bain etc).
+>
+> I'm relatively young, work in an industry that moves like a Netflix comedy-thriller, and so far, I like what I do.
+>
+> So, me no vacation, me go hack.
+>
+> More like prevent hack, but ok.
+
+
+---
+
+## 2023-12-22 · Post · I've been part of conversations where a team with a Solidity codebase wanted to deploy on multiple L
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2023-12-22 07:31 UTC (2023-12-22 08:31 WAT)
+
+- URL: https://x.com/saxenism/status/1738100050151325822
+- Metrics (at fetch): bookmark 20, impression 8301, like 50, quote 1, reply 5, retweet 4
+
+> I've been part of conversations where a team with a Solidity codebase wanted to deploy on multiple L2s and SEVERELY underestimated what that actually entails.
+>
+> For the love of God, DO NOT just assume that every L2 behaves exactly like Ethereum.
+>
+> It doesn't.
+>
+> For example, ZkSync's ZkEVM does not allow usage of selfdestruct, COINBASE and PREVRANDAO always returns a constant value, memory can act very differently because of Era's compiler's optimisations and so on.
+>
+> Read more here: https://era.zksync.io/docs/reference/architecture/differences-with-ethereum.html
+
+**Links in post:** https://era.zksync.io/docs/reference/architecture/differences-with-ethereum.html
+
+
+---
+
+## 2023-12-21 · Post · What are some common supply chain attack vectors I need to be careful about when buying a hardware w
+
+
+Tags (automatic): Dependency confusion / supply chain
+
+
+### Post — @saxenism — 2023-12-21 09:32 UTC (2023-12-21 10:32 WAT)
+
+- URL: https://x.com/saxenism/status/1737767994447810870
+- Metrics (at fetch): bookmark 1, impression 1541, like 9, quote 0, reply 4, retweet 0
+
+> What are some common supply chain attack vectors I need to be careful about when buying a hardware wallet online?
+>
+> Should I even be buying these hardware wallets online or do I go to some physical stores?
+
+
+---
+
+## 2023-12-20 · Post · Borrowed beliefs are dangerous.
+
+
+### Post — @saxenism — 2023-12-20 13:02 UTC (2023-12-20 14:02 WAT)
+
+- URL: https://x.com/saxenism/status/1737458491848368239
+- Metrics (at fetch): bookmark 2, impression 2851, like 38, quote 2, reply 5, retweet 1
+
+> Borrowed beliefs are dangerous.
+>
+> Audit them.
+>
+> Your actions shouldn't ideally be guided by beliefs that did not pass your own filter and exist without rigor.
+
+
+---
+
+## 2023-12-19 · Post · For anyone that asks me on how to get started with ZK.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-12-19 19:20 UTC (2023-12-19 20:20 WAT)
+
+- URL: https://x.com/saxenism/status/1737191274938314893
+- Metrics (at fetch): bookmark 54, impression 6243, like 87, quote 0, reply 6, retweet 5
+
+> For anyone that asks me on how to get started with ZK.
+>
+> This is my answer every single time.
+>
+> @RareSkills_io's ZK Book. Hands Down.
+>
+> PS: Uske Baad -&gt; Post that [pic.x.com/yjihSWYZMu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBu-QTNakAAcrMO.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-17 · Post · 100 *interconnected Zk Stack Hyperchains.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-12-17 04:25 UTC (2023-12-17 05:25 WAT)
+
+- URL: https://x.com/saxenism/status/1736241156080685185
+- Metrics (at fetch): bookmark 2, impression 1589, like 13, quote 0, reply 1, retweet 0
+
+> 100 *interconnected Zk Stack Hyperchains.
+>
+> No more fragmented user base or fragmented liquidity. https://twitter.com/Ozhar/status/1736161454779216345
+
+**Links in post:** https://twitter.com/Ozhar/status/1736161454779216345
+
+**Quoted post (full text):**
+
+    #### Quoted post — @312419894 — 2023-12-16 23:08 UTC (2023-12-17 00:08 WAT)
+    
+    - URL: https://x.com/312419894/status/1736161454779216345
+    - Metrics (at fetch): bookmark 4, impression 58670, like 178, quote 12, reply 8, retweet 21
+    
+    > Imagine 100 ZK Stack hyperchains, each of them can run the same specs as @zksync Era. Now imagine them all with the upgrades we have planned for the next few months. Million TPS Ethereum coming in 2024 https://twitter.com/anthonykrose/status/1736156247953748377
+    
+    **Links in post:** https://twitter.com/anthonykrose/status/1736156247953748377
+    
+    **Quoted post** 1736156247953748377: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-12-13 · Thread · Throwback Time.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave
+
+
+### Post — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795654160158843
+- Metrics (at fetch): bookmark 50, impression 8773, like 83, quote 2, reply 3, retweet 7
+
+> Throwback Time.
+>
+> The Polygon CISO @Mudit__Gupta turned up at the @zkbankai hacker house and gave us a breakdown of how they think about the security of their zkEVM over at Polygon.
+>
+> Here are a few interesting points from that session and the ensuing QnA. [pic.x.com/ygCtL3KUzU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBM7c7haUAAsBH0.jpg — no alt text provided by author
+
+
+### Thread part 2 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795658887057728
+- Metrics (at fetch): bookmark 0, impression 380, like 5, quote 0, reply 1, retweet 0
+
+> &gt; There are two types of multi-sigs:
+> 1. Engineering Multisig
+> 2. Emergency Multisig
+>
+> What's interesting here is the choice of these signers. These signers are not your usual suspects at the highest positions in Polygon but people who have a lesser probability of being targeted.
+
+
+### Thread part 3 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795662221533630
+- Metrics (at fetch): bookmark 0, impression 379, like 5, quote 0, reply 2, retweet 0
+
+> Why 2 multisigs?
+>
+> The Engineering Multisig is responsible for upgrading the L1 contracts when required and the changes come after a timelock.
+>
+> However, if a upgrade is quickly required to patch a live bug, the emergency multisig can disable the timelock and upgrade immediately.
+
+
+### Thread part 4 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795665371541973
+- Metrics (at fetch): bookmark 0, impression 288, like 6, quote 0, reply 1, retweet 0
+
+> While this is the industry standard of how the *problem* of the **security council** is tackled, we at @zksync are cooking something that goes above and beyond this.
+
+
+### Thread part 5 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795668617920563
+- Metrics (at fetch): bookmark 0, impression 286, like 5, quote 0, reply 1, retweet 0
+
+> &gt; The absolute worst-case scenario in a zkEVM would be getting the maths of the circuits wrong. Because there is no concept of circuit upgradability, once your circuits turn out to be mathematically unsound, you'll have to re-write the circuit and then deploy a new verifier
+
+
+### Thread part 6 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795671889383746
+- Metrics (at fetch): bookmark 0, impression 269, like 5, quote 0, reply 1, retweet 0
+
+> To prevent this, Polygon has done the obvious stuff of getting everything audited, partnering with the top universities, testing, and the likes to ensure the soundness of the circuit logic.
+>
+> However, the interesting thing that they are doing here is also something @zkSync is upto
+
+
+### Thread part 7 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795675139989621
+- Metrics (at fetch): bookmark 0, impression 261, like 4, quote 0, reply 1, retweet 0
+
+> &gt; Both zkSync and Polygon are going for a 2 Factor Authentication approach where they simulate everything that the circuit is doing on a separate machine and they match the end-result of the execution from both the system.
+>
+> If the final state matches, then it's alright else no.
+
+
+### Thread part 8 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795678449361068
+- Metrics (at fetch): bookmark 0, impression 254, like 4, quote 0, reply 1, retweet 0
+
+> What's fascinating here is that @zksync believes that this execution needs to happen in a TEE which means that the machine has to be physically tamper-proof as well.
+>
+> However, according to @Mudit__Gupta a TEE is unnecessary here and sufficient security can be achieved without it.
+
+
+### Thread part 9 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795682773602693
+- Metrics (at fetch): bookmark 0, impression 248, like 4, quote 0, reply 1, retweet 0
+
+> The stance that ZkSync maintains, however, is that they want to be able to run the execution on a TEE, so that a proof of execution is generated and then open-source the entire stack, so that if someone distrusts zksync's execution, they can verify the execution for themselves.
+
+
+### Thread part 10 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795689434227156
+- Metrics (at fetch): bookmark 0, impression 244, like 3, quote 0, reply 1, retweet 0
+
+> The aggregator layer is the only one authorised to send proofs to the verification contracts on Ethereum L1, where proofs are eventually verified &amp; settled.
+>
+> The RPC layer can be used to block people at the RPC level itself if they are being naughty.
+>
+> All cool? Hold on tight now.
+
+
+### Thread part 11 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795692718330325
+- Metrics (at fetch): bookmark 0, impression 238, like 3, quote 0, reply 1, retweet 0
+
+> &gt; Things are about to get beguiling.
+>
+> Hint: DoS attack vector
+>
+> So, the Polygon team is also about to roll out the feature of *Forced Transactions* to counter the possibility of censorship from their centralised sequencer.
+
+
+### Thread part 12 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795702512103606
+- Metrics (at fetch): bookmark 0, impression 222, like 2, quote 0, reply 1, retweet 0
+
+> Once accepted, the verifier contract on L1 would expect the tx to be present in the next block proof that is sent to it.
+>
+> If the verifier contract does not find the tx in the next batch proof after accepting a tx in the ForcedTx contract, it will refuse to verify any more proofs.
+
+
+### Thread part 13 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795705720709326
+- Metrics (at fetch): bookmark 0, impression 224, like 2, quote 0, reply 1, retweet 0
+
+> So, that means if the sequencer still does not include Alice's transactions in the batch, the entire chain will come to a halt.
+>
+> Now let's talk about the DoS attack edge case I came up with (and was easily countered by Mudit 🥹)
+
+
+### Thread part 14 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795729812832765
+- Metrics (at fetch): bookmark 0, impression 242, like 3, quote 0, reply 1, retweet 0
+
+> In that case, do people simply start living with the fact that they'll never be able to transact again on the chain and they can't take out any value that is locked into the blockchain?
+>
+> No.
+>
+> In case of 0 block productions for 5 days, the sequencer can be taken over by anyone.
+
+
+### Thread part 15 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795733113671862
+- Metrics (at fetch): bookmark 0, impression 244, like 4, quote 0, reply 1, retweet 0
+
+> &gt; Next onto formal verification.
+>
+> Someone asked, why can't we just do the formal verification of the circuits.
+>
+> Mudit believes that the current set of tools that we have for formal verification are simply not good enough to carry out the FV of complex circuit systems.
+
+
+### Thread part 16 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795736313909267
+- Metrics (at fetch): bookmark 0, impression 453, like 3, quote 0, reply 1, retweet 0
+
+> Also, he talked about FV not being a silver bullet, because you can check the soundness of your system's properties, but cannot verifiably say that all properties along with their edge cases are covered.
+>
+> So, while FV is a great tool, it still has an error-prone human component.
+
+
+### Thread part 17 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795739572879716
+- Metrics (at fetch): bookmark 0, impression 178, like 3, quote 0, reply 1, retweet 0
+
+> Rest of the things we discussed were abstract and focused on the broad security topics, and not specifically the zkEVM, so I don't think I'll cover them here.
+>
+> Overall it was a fun experience which helped me gain a boatload of insights into how to approach the security of zkEVMs.
+
+
+### Thread part 18 — @saxenism — 2023-12-13 04:41 UTC (2023-12-13 05:41 WAT)
+
+- URL: https://x.com/saxenism/status/1734795754085159394
+- Metrics (at fetch): bookmark 0, impression 373, like 6, quote 0, reply 1, retweet 0
+
+> I hope no one considers this post as me shilling the security and robustness of Polygon zkEVM.
+>
+> I participated in the @zkbankai HackerHouse in Banglore and Mudit happened to be there and shared what he could about the security of Polygon's zkEVM for EDUCATING US. [pic.x.com/KUEbD8fbrq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GBM7ikgawAA_KK5.jpg — no alt text provided by author
+
+
+---
+
+## 2023-12-12 · Post · Intelligence is a subjective term.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-12-12 18:40 UTC (2023-12-12 19:40 WAT)
+
+- URL: https://x.com/saxenism/status/1734644480492679677
+- Metrics (at fetch): bookmark 3, impression 1490, like 21, quote 0, reply 2, retweet 0
+
+> Intelligence is a subjective term.
+>
+> But if I were to define intelligence as the ability to think from 1st principles and re-define a problem in a way that the current (accepted) solutions to that problem start seeming inadequate....
+>
+> Then....
+>
+> I can confidently say that the security team over at @zksync is intelligent AF!!
+>
+> Can't wait to learn from all these chads around me, and share that (whenever I can).
+
+
+---
+
+## 2023-12-02 · Post · Incredibly grateful for all the people that stayed back to learn the math behind Elliptic curves and
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-12-02 23:50 UTC (2023-12-03 00:50 WAT)
+
+- URL: https://x.com/saxenism/status/1731098597150896425
+- Metrics (at fetch): bookmark 2, impression 2618, like 35, quote 0, reply 2, retweet 4
+
+> Incredibly grateful for all the people that stayed back to learn the math behind Elliptic curves and ZK well into the night.
+>
+> Chads all around me ⚡️⚡️
+>
+> The @zkbankai HackerHouse is a extremely builder focused, no-nonsesne zone. Thankful that I actually decided to attend this :P https://twitter.com/0xanmol/status/1730970469569093888
+
+**Links in post:** https://twitter.com/0xanmol/status/1730970469569093888
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1410669056206655489 — 2023-12-02 15:21 UTC (2023-12-02 16:21 WAT)
+    
+    - URL: https://x.com/1410669056206655489/status/1730970469569093888
+    - Metrics (at fetch): bookmark 0, impression 4128, like 26, quote 2, reply 3, retweet 4
+    
+    > @bajpaiharsh244 @KakarotZkEvm - Bro pulled up🥷🏼
+    > - explained ECDSA 0-&gt;1, groups, cyclic groups, elliptic curves and a whole bunch of stuff in the easiest manner possible⚡️
+    > - dipped🏄🏼‍♂️ [pic.x.com/fhfXrE93Wc]
+    
+    **Media:**
+    - media `3_1730970459062366208` (details not returned by the API)
+    
+
+
+---
+
+## 2023-12-02 · Post · Catch me at the @zkbankai HH at the Bored Ape room and let's discuss anything and everything ZK.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-12-02 18:50 UTC (2023-12-02 19:50 WAT)
+
+- URL: https://x.com/saxenism/status/1731023013116862960
+- Metrics (at fetch): bookmark 0, impression 1643, like 24, quote 0, reply 2, retweet 1
+
+> Catch me at the @zkbankai HH at the Bored Ape room and let's discuss anything and everything ZK.
+>
+> Talks about exes are also fine. https://twitter.com/aviral10x/status/1730974956182446131
+
+**Links in post:** https://twitter.com/aviral10x/status/1730974956182446131
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2273007428 — 2023-12-02 15:39 UTC (2023-12-02 16:39 WAT)
+    
+    - URL: https://x.com/2273007428/status/1730974956182446131
+    - Metrics (at fetch): bookmark 0, impression 4056, like 38, quote 1, reply 3, retweet 2
+    
+    > Amazing session by @saxenism on zk Elliptic Curved Based security 🫡
+    >
+    > This was the most focused I was since she left me🙂 [pic.x.com/iXCOYJqJqU]
+    
+    **Media:**
+    - media `3_1730974939346534400` (details not returned by the API)
+    
+
+
+---
+
+## 2023-12-02 · Post · What @KakarotZkEvm is pulling off in their approach to building a zkEVM has made me question the mea
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2023-12-02 08:33 UTC (2023-12-02 09:33 WAT)
+
+- URL: https://x.com/saxenism/status/1730867865203667373
+- Metrics (at fetch): bookmark 0, impression 2317, like 14, quote 1, reply 0, retweet 0
+
+> What @KakarotZkEvm is pulling off in their approach to building a zkEVM has made me question the meaning of life itself.
+>
+> Would put a couple of tweets/thread on why their approach to building a zkEVM is so unique and allows for fast development.
+>
+> Hint: EVM inside a ZK VM 🤓 https://twitter.com/0xAbix/status/1730855413506253136
+
+**Links in post:** https://twitter.com/0xAbix/status/1730855413506253136
+
+**Quoted post (full text):**
+
+    #### Quoted post — @0xAbix — 2023-12-02 07:44 UTC (2023-12-02 08:44 WAT)
+    
+    - URL: https://x.com/0xAbix/status/1730855413506253136
+    - Metrics (at fetch): bookmark 0, impression 2976, like 34, quote 1, reply 2, retweet 8
+    
+    > Dec 2nd Getting started with white boarding of @KakarotZkEvm with @danilowhk2 at @zkbankai 
+    >
+    > #zkBankai [pic.x.com/kyvZ22VY27]
+    
+    **Media:**
+    - media `3_1730855403981037568` (details not returned by the API)
+    - media `3_1730855403976863744` (details not returned by the API)
+    - media `3_1730855403951685632` (details not returned by the API)
+    
+
+
+---
+
+## 2023-11-30 · Post · Y'all, shill me your most recommended cable organiser pouch/bag etc. 
+
+
+### Post — @saxenism — 2023-11-30 08:52 UTC (2023-11-30 09:52 WAT)
+
+- URL: https://x.com/saxenism/status/1730147674140168260
+- Metrics (at fetch): bookmark 0, impression 963, like 2, quote 0, reply 3, retweet 0
+
+> Y'all, shill me your most recommended cable organiser pouch/bag etc. 
+>
+> I'm tired of the airport security checks and the ensuing chaos.
+
+
+---
+
+## 2023-11-27 · Thread · @portport255 @robik @Ingo_zk @zksync Simply can't wait!!
+
+
+Tags (automatic): ZK, TEE / enclave
+
+
+### Post — @saxenism — 2023-11-27 19:21 UTC (2023-11-27 20:21 WAT)
+
+- URL: https://x.com/saxenism/status/1729218938217853351
+- Metrics (at fetch): bookmark 0, impression 221, like 3, quote 0, reply 1, retweet 0
+
+> @portport255 @robik @Ingo_zk @zksync Simply can't wait!!
+>
+> Also, would be really interested to know more about the 2FA w/ TEE as a security measure. If it can be done efficiently, it looks like it has the potential to act as a very very good last-resort kinda circuit breaker.
+>
+> Can't wait to get this party started :D
+
+
+### Thread part 2 — @saxenism — 2023-11-27 19:30 UTC (2023-11-27 20:30 WAT)
+
+- URL: https://x.com/saxenism/status/1729221254996181488
+- Metrics (at fetch): bookmark 0, impression 185, like 2, quote 0, reply 0, retweet 0
+
+> @portport255 @robik @Ingo_zk @zksync Also, just for clarity, I mean Circuit breakers in the conventional sense. Something like this: https://consensys.github.io/smart-contract-best-practices/development-recommendations/precautions/circuit-breakers/
+>
+> Not circuits as in ZK Boojum circuits directly.
+
+**Links in post:** https://consensys.github.io/smart-contract-best-practices/development-recommendations/precautions/circuit-breakers/
+
+
+---
+
+## 2023-11-27 · Post · King Shit.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-11-27 15:49 UTC (2023-11-27 16:49 WAT)
+
+- URL: https://x.com/saxenism/status/1729165448120529048
+- Metrics (at fetch): bookmark 0, impression 2450, like 9, quote 0, reply 1, retweet 0
+
+> King Shit.
+>
+> This is exactly how we foster a culture of security in web3 and raise the collective conscience of the entire web3 development community.
+>
+> When a researcher decides to pay it forward and make their hard-earned knowledge freely accessible to everyone in digestible format, the collective understanding of web3 security grows and the bar for blackhats to be able to rob people goes one notch higher.
+>
+> While it is true that the smart contract exploits are still happening and a lot of money is still being lost to hacks, what you will realize is that the complexity of these hacks is also going up exponentially.
+>
+> Eg. Kyber exploit, Raft exploit, Tornado cash exploit.
+>
+> To be able to hack protocols that take security seriously will get increasingly difficult and this is, in part, how we mature as an industry.
+>
+> Happy to see people moving ahead and doing what is right :)
+
+**Links in post:** https://twitter.com/deadrosesxyz/status/1729134515920965967
+
+**Quoted post (full text):**
+
+    #### Quoted post — @deadrosesxyz — 2023-11-27 13:46 UTC (2023-11-27 14:46 WAT)
+    
+    - URL: https://x.com/deadrosesxyz/status/1729134515920965967
+    - Metrics (at fetch): bookmark 37, impression 25882, like 233, quote 2, reply 24, retweet 7
+    
+    > I’ve recently decided that it’s time I give back more to the community.
+    >
+    > I'd be nowhere near where I am today if it wasn't for the help I received from @GeorgeHNTR. He has helped me tremendously since day one. He has never asked for anything in return. Did it purely out of goodwill. I will be forever grateful for anything and everything he has helped me with. 
+    >
+    > With that being said, it’s my duty to do the same and share the knowledge I’ve accumulated. As of today, I will:
+    >
+    >  - post more educational stuff
+    >  - start doing bug bounty writeups
+    >  - start working privately with a few selected security researchers
+    >
+    > anons, let’s make sure web3 protocols are secure 🫡
+    
+
+
+---
+
+## 2023-11-26 · Post · I have had conversations and read comments from a lot of (sufficiently smart) folks who find the cur
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK, AI-assisted hunting
+
+
+### Post — @saxenism — 2023-11-26 20:32 UTC (2023-11-26 21:32 WAT)
+
+- URL: https://x.com/saxenism/status/1728874286482645341
+- Metrics (at fetch): bookmark 17, impression 10101, like 65, quote 0, reply 8, retweet 5
+
+> I have had conversations and read comments from a lot of (sufficiently smart) folks who find the current shilling of ZK a bit overwhelming and even cringe.
+>
+> I've also seen comparisons drawn between the current peaking interest in ZK with the NFT mania of the last bull run.
+>
+> I disagree. Some thoughts.
+>
+> Let's talk about NFTs first.
+>
+> NFTs, when they came onto the scene, captured everyone's imagination as the technology itself was very sound, and that ability to cryptographically prove ownership of a unique asset was ground-breaking.
+>
+> A natural extrapolation was to imagine a world where art pieces, real estate, loans, watches, etc would be traded on-chain as NFTs solving a lot of headaches.
+>
+> However, no such use case came about. Not because, this was technically infeasible but because of legalities and compliances. 
+>
+> So, how were people that were still sold on the use cases of NFTs, supposed to invest into the technology itself?
+>
+> They started buying photos of rocks and monkeys on-chain as an investment into the tech and since a lot of smart and rich folks did it, this became a ripe market for the greater fool theory to play out.
+>
+> However, when the dust settled, and people realized just how difficult it would be to realize the technical potential of NFTs in the real world, they gave up on it and moved ahead.
+>
+> Now, does this compare to what is happening with ZK now? 
+>
+> Absofunkinlutely not.
+>
+> The ZK field is not new. In fact the first paper in this field was published in the 80s. So, why the fuzz now?
+>
+> Because the succinctness is new.
+>
+> The succinctness in ZKPs today allows the theory of ZK to be applicable on chain and this was kickstarted by Groth-16 in 2016, which is not that far back in time.
+>
+> Even after this break-through, ZK did not gain enough importance in the blockchain circles and life continued as normal. It is only in the last couple of years that people have **really** started to grasp the importance of ZK and the new world of possibilities that it opens up.
+>
+> Shilling this new tech might seem cringe, but IMO, generating buzz around a technology is one of the most effective ways to attract the required talent and capital towards it.
+>
+> If anything, I think the wonders and promises of ZK must be drummed up even more so that more talent is attracted toward it and this space accelerates at a faster pace.
+>
+> Why do we need that acceleration? 
+>
+> Well, because with the exponential progress in AI, we can assume that all other research areas will get an exponential boost. With that in mind, it would not be unreasonable to assume that research in Quantum computing would also be fast-tracked aggressively. 
+>
+> That would mean, that not only do the ZK algorithms need to be succinct now, but they also need to be quantum-resistant.
+>
+> Now, you could ask me what happens when the ZK tech faces the same roadblock as NFTs, ie, legalities and compliance.
+>
+> Well, I think as an industry, we need to be ready for regulations because we are becoming too big for the governments to ignore, so the regulations definitely are coming. And, I argue that if it is a given, why not be prepared for it?
+>
+> How do we prepare?
+>
+> By preparing the answers that the government regulators would pose to us.
+>
+> One of them is that anti-social elements or militants can also get access to privacy with ZK. How can solve it? 
+>
+> The answer invariably is: By researching the ZK tech even more. 
+>
+> Case in point: https://x.com/chainway_xyz/status/1687106739198636038?s=20
+>
+> So, is ZK a fad? 
+>
+> Maybe, but not according to my thesis.
+>
+> And in a world where AGI is fast approaching and one where we live more than half of our waking hours online, ZK may be one of the very few defenses in our repertoire that can prevent AGI from completely taking over and communicate our proof of humanity to the other stakeholders of the internet in the future.
+>
+> Would love to know your thoughts.
+>
+> PS: I'll post a waifu to boost engagement. Don't mind that.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F_4r8HuboAAv4WA.png — no alt text provided by author
+
+**Links in post:** https://x.com/chainway_xyz/status/1687106739198636038?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1564224623037878273 — 2023-08-03 14:22 UTC (2023-08-03 15:22 WAT)
+    
+    - URL: https://x.com/1564224623037878273/status/1687106739198636038
+    - Metrics (at fetch): bookmark 16, impression 79259, like 238, quote 14, reply 20, retweet 28
+    
+    > "Proof of innocence approach that Chainway, this lovely company from Turkey, created and @ameensol has been a fan of and lots of other companies ..."
+    >
+    > Thank you for the kind words @VitalikButerin  😊
+    >
+    > See a short explanation of Proof of Innocence by Vitalik 👇 [pic.x.com/iN4nlaBDWY]
+    
+    **Media:**
+    - media `7_1687104560144457729` (details not returned by the API)
+    
+
+
+---
+
+## 2023-11-22 · Post · This warms my heart.
+
+
+### Post — @saxenism — 2023-11-22 15:56 UTC (2023-11-22 16:56 WAT)
+
+- URL: https://x.com/saxenism/status/1727355376125849656
+- Metrics (at fetch): bookmark 1, impression 3111, like 18, quote 0, reply 2, retweet 3
+
+> This warms my heart.
+>
+> @BrahmaFi with its words, commitments &amp; actions has exemplified a strong focus on security as well as caring for the customers.
+>
+> In my opinion, other protocols that can face similar situations should build out SOPs to carry out such rescue (or prevent it). https://twitter.com/BrahmaFi/status/1727351203586244780
+
+**Links in post:** https://twitter.com/BrahmaFi/status/1727351203586244780
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1420735697556754436 — 2023-11-22 15:39 UTC (2023-11-22 16:39 WAT)
+    
+    - URL: https://x.com/1420735697556754436/status/1727351203586244780
+    - Metrics (at fetch): bookmark 3, impression 6996, like 37, quote 3, reply 3, retweet 4
+    
+    > 1/ Yesterday, a user accidentally bridged 29K $USDT to the wrong Safe address, sparking concerns and a call for support.
+    >
+    > https://ethereum.stackexchange.com/questions/156669/create-same-address-under-eth-as-like-available-in-polygon-gnosis-safe [pic.x.com/S5XnncpDfm]
+    
+    **Media:**
+    - media `3_1727351199043874816` (details not returned by the API)
+    
+    **Links in post:** https://ethereum.stackexchange.com/questions/156669/create-same-address-under-eth-as-like-available-in-polygon-gnosis-safe
+    
+
+
+---
+
+## 2023-11-22 · Post · I had been awfully quiet for some time on X.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2023-11-22 07:26 UTC (2023-11-22 08:26 WAT)
+
+- URL: https://x.com/saxenism/status/1727227053265862819
+- Metrics (at fetch): bookmark 173, impression 40483, like 382, quote 1, reply 89, retweet 11
+
+> I had been awfully quiet for some time on X.
+>
+> Reason: I was kept busy by (one of) the best web3 projects out there that are working on the cutting edge of ZK.
+>
+> I am thrilled to announce that I have signed a contract with @zksync and will be joining their protocol security team. As an engineer, I am beyond excited thinking about the challenges that await me at ZkSync.
+>
+> This is a bitter-sweet moment for me as joining @zksync would also mean I could no longer continue to work as an engineer at @inverternetwork where I had spent more than a year bringing the protocol from its infancy to its current state.
+>
+> Over the course of the last year, I have formed very strong bonds with @degentellect and @alpergintr, the brains behind @inverternetwork. This bond goes way beyond just a professional working relationship. While I will not be able to continue to build out their vision directly now, I hope to be able to continue to help the project in some way, shape, or form.
+>
+> I would like to thank @vladbochok1 for referring me to this role and @Jeyffre for telling me about it.
+>
+> The (free and) exhaustive security-related content @RareSkills_io has pumped out helped me brush up my skills and I want to thank them from the bottom of my heart and everyone in the web3 community members who share what they learn freely with everyone. 
+>
+> Here are a few resources I consulted that might help out my fellow security frens:
+> 1. https://github.com/nascentxyz/simple-security-toolkit
+> 2. https://github.com/Decurity/audit-checklists/tree/master
+> 3. @juancito's: https://github.com/0xJuancito/multichain-auditor
+> 4. https://www.rareskills.io/post/smart-contract-security
+> 5. https://github.com/0xcacti/awesome-oracle-manipulation
+> 6. @officer_secret's blogs: https://officercia.mirror.xyz/
+> 7. https://github.com/minaminao/ctf-blockchain
+> 8. https://github.com/dragonfly-xyz/useful-solidity-patterns
+> 9. https://proxies.yacademy.dev/
+> 10. @zaryab_eth's blogs
+> 11. @SoloditOfficial 
+> 12. @bytes032 *Find the bug* series
+> 13. https://www.rareskills.io/post/solidity-mutation-testing
+> 14. @Composable_Sec's SCSVS: https://github.com/ComposableSecurity/SCSVS
+> 15. The FREI-PI blog and the DeFi is broken blog from @nascentxyz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F_hXySgagAArPNm.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/nascentxyz/simple-security-toolkit, https://github.com/Decurity/audit-checklists/tree/master, https://github.com/0xJuancito/multichain-auditor, https://www.rareskills.io/post/smart-contract-security, https://github.com/0xcacti/awesome-oracle-manipulation, https://officercia.mirror.xyz/, https://github.com/minaminao/ctf-blockchain, https://github.com/dragonfly-xyz/useful-solidity-patterns, https://proxies.yacademy.dev/, https://www.rareskills.io/post/solidity-mutation-testing, https://github.com/ComposableSecurity/SCSVS
+
+
+---
+
+## 2023-11-22 · Post · I had known Jeff for the longest of times (according to crypto standards) and I always somewhat knew
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-11-22 06:15 UTC (2023-11-22 07:15 WAT)
+
+- URL: https://x.com/saxenism/status/1727209059248677095
+- Metrics (at fetch): bookmark 2, impression 5600, like 20, quote 0, reply 4, retweet 3
+
+> I had known Jeff for the longest of times (according to crypto standards) and I always somewhat knew that he was a straight-up gangster.
+>
+> However, when I got to be a part of the invite-only cohort 0 of the ZK Bootcamp from @RareSkills_io, I saw from close quarters just how industrious Jeff was.
+>
+> Right from being able to manage 69 things at the same time, to breaking down the most complex topics into digestible bits, to creating a stellar team of budding chads, to creating one of the very few sustainable and ethical companies in the web3 space, he has done a lot of things people can only imagine doing.
+>
+> Come join me as I talk with @Jeyffre on topics he has unique expertise on:
+> + ZK Proofs
+> + What makes a tutorial great
+> + His learnings as a teacher
+> + Talent vs Hardwork
+> + How to be a better learner
+>
+> I feel incredibly blessed to have this opportunity to get to interview Jeff for this podcast. If I were you, anon, I wouldn't have missed this for the world.
+>
+> See you on the 23rd at 3pm GMT.
+
+**Links in post:** https://twitter.com/0xPolygonDevs/status/1727106152083960115
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1450088354180046853 — 2023-11-21 23:26 UTC (2023-11-22 00:26 WAT)
+    
+    - URL: https://x.com/1450088354180046853/status/1727106152083960115
+    - Metrics (at fetch): bookmark 8, impression 12446, like 51, quote 3, reply 1, retweet 9
+    
+    > DevTalks #5 | "Breaking into web3 &amp; ZK" with @Jeyffre, Founder of Rareskills, and @saxenism, DeFi Security Researcher &amp; Polygon Advocate 💜
+    >
+    > ​​🗓️ Thursday, November 23rd
+    > 🕣 3:00PM GMT | 8:30PM IST
+    > ​​📌 Polygon Dev Discord
+    >
+    > Register: https://lu.ma/mh4nklxw
+    
+    **Links in post:** https://lu.ma/mh4nklxw
+    
+
+
+---
+
+## 2023-11-19 · Post · Someone I know very closely is about to become a father in a matter of days and at this critical poi
+
+
+### Post — @saxenism — 2023-11-19 05:50 UTC (2023-11-19 06:50 WAT)
+
+- URL: https://x.com/saxenism/status/1726115704515285081
+- Metrics (at fetch): bookmark 2, impression 13782, like 65, quote 1, reply 2, retweet 24
+
+> Someone I know very closely is about to become a father in a matter of days and at this critical point in time, he has been let go by Deloitte.
+>
+> The usual economy slowdown drama as justification.
+>
+> This man's extremely smart, a work horse and a pleasure to work with.
+>
+> If you need any help with product marketing, management, growth strategy, financial DD hit me up and I'll share his profile.
+>
+> He has a MBA from one of the top US uni (his uni likes bulls) and has a stellar record working at Deloitte.
+>
+> It would mean a lot to me if you could send this to someone who might be able to help or you could also simply like/RT this. 
+>
+> Thank you :)
+
+
+---
+
+## 2023-11-14 · Post · How do I kindly put this in front of someone that their protocol is not ready at all for a code revi
+
+
+### Post — @saxenism — 2023-11-14 09:56 UTC (2023-11-14 10:56 WAT)
+
+- URL: https://x.com/saxenism/status/1724365740424519860
+- Metrics (at fetch): bookmark 0, impression 1349, like 10, quote 0, reply 4, retweet 0
+
+> How do I kindly put this in front of someone that their protocol is not ready at all for a code review/audit.
+>
+> They instead need to work (a lot) more on designing the actual business logic of their protocol. The economics of the protocol rn makes sure that they go bankrupt 0_0
+
+
+---
+
+## 2023-11-14 · Post · THIS!!
+
+
+### Post — @saxenism — 2023-11-14 06:45 UTC (2023-11-14 07:45 WAT)
+
+- URL: https://x.com/saxenism/status/1724317537847095479
+- Metrics (at fetch): bookmark 0, impression 1428, like 5, quote 0, reply 1, retweet 0
+
+> THIS!!
+>
+> I have always been a huge proponent of pushing out the best possible (ie most secured and most tested) codebase to external auditors for a security review.
+>
+> The thing is, audits usually happen in a limited time frame and in that time every second that the auditor spends https://t.co/2kzCh9Nvpx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @881012267675820034 — 2023-11-14 01:36 UTC (2023-11-14 02:36 WAT)
+    
+    - URL: https://x.com/881012267675820034/status/1724239788998332453
+    - Metrics (at fetch): bookmark 1, impression 3880, like 10, quote 2, reply 1, retweet 2
+    
+    > Not every team can check all these boxes , but be crystal clear the more you check of these the more value you will get from an external code review (audit, solo, contest, etc)
+    >
+    > External reviews and audits are not cheap, why send a code without tests and documentation?
+    >
+    > 5/
+    
+
+
+---
+
+## 2023-11-14 · Post · Had been heads down busy with some professional commitments/restructuring.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-11-14 06:04 UTC (2023-11-14 07:04 WAT)
+
+- URL: https://x.com/saxenism/status/1724307309772620134
+- Metrics (at fetch): bookmark 0, impression 580, like 5, quote 0, reply 1, retweet 0
+
+> Had been heads down busy with some professional commitments/restructuring.
+>
+> But now that I think I am done with the better part of it..... Get ready to be spammed by everything ZK from this account.
+>
+> We (Me and ZK) are sooooo back now!!
+
+
+---
+
+## 2023-11-13 · Post · With the recent Raft exploit, people are shocked &amp; looking for answers on how to *really* do sec
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @saxenism — 2023-11-13 06:22 UTC (2023-11-13 07:22 WAT)
+
+- URL: https://x.com/saxenism/status/1723949345345577213
+- Metrics (at fetch): bookmark 0, impression 2213, like 18, quote 1, reply 2, retweet 0
+
+> With the recent Raft exploit, people are shocked &amp; looking for answers on how to *really* do security right.
+>
+> I don't think anyone has solid answers yet, apart from comprehensive testing
+>
+> But let's just start with *not* taking cheap potshots at other security researchers, please
+
+
+---
+
+## 2023-11-07 · Post · Also yes, a security concern bigger than centralisation itself is the new security issues that will 
+
+
+### Post — @saxenism — 2023-11-07 06:47 UTC (2023-11-07 07:47 WAT)
+
+- URL: https://x.com/saxenism/status/1721781418781811177
+- Metrics (at fetch): bookmark 1, impression 390, like 0, quote 0, reply 1, retweet 0
+
+> Also yes, a security concern bigger than centralisation itself is the new security issues that will pop up.
+>
+> Why?
+>
+> All the web3 hacks uptil now are extremely well documented and people atleast know (and increasingly getting educated) about how to account for common hacks.
+
+
+---
+
+## 2023-11-07 · Post · However, depending on the case centralization on the L3 level may not really be too big of an issue.
+
+
+### Post — @saxenism — 2023-11-07 03:54 UTC (2023-11-07 04:54 WAT)
+
+- URL: https://x.com/saxenism/status/1721737846091112566
+- Metrics (at fetch): bookmark 0, impression 437, like 2, quote 0, reply 1, retweet 0
+
+> However, depending on the case centralization on the L3 level may not really be too big of an issue.
+>
+> Let me know what you guys think.
+>
+> And also, I am going to give a talk regarding these possibilities in HK Web3 Month. So if you're around, come say hi!! :P
+
+
+---
+
+## 2023-11-07 · Post · Feel free to ratio me if what I said does not make sense.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-11-07 03:54 UTC (2023-11-07 04:54 WAT)
+
+- URL: https://x.com/saxenism/status/1721737843935228274
+- Metrics (at fetch): bookmark 0, impression 110, like 2, quote 0, reply 1, retweet 0
+
+> Feel free to ratio me if what I said does not make sense.
+>
+> But if L3s, appchains, micro-rollups, etc gain traction new security paradigms would rise and a lot of current security issues may become redundant.
+>
+> The major downside I see here is increasing centralisation here.
+
+
+---
+
+## 2023-11-07 · Post · Chain-level allow-listing of transactions and smart contracts gives you the ultimate control over wh
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-11-07 03:54 UTC (2023-11-07 04:54 WAT)
+
+- URL: https://x.com/saxenism/status/1721737841603125676
+- Metrics (at fetch): bookmark 0, impression 58, like 2, quote 0, reply 1, retweet 0
+
+> Chain-level allow-listing of transactions and smart contracts gives you the ultimate control over who can deploy on your chain and what kind of transactions people can do.
+>
+> This has the potential to *solve* front-running attacks by identifying duplicate txns with very high fees.
+
+
+---
+
+## 2023-11-07 · Post · Many people are very averse to flash loans and a lot of protocols are exploited (routinely) using fl
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-11-07 03:54 UTC (2023-11-07 04:54 WAT)
+
+- URL: https://x.com/saxenism/status/1721737837887070523
+- Metrics (at fetch): bookmark 0, impression 76, like 3, quote 0, reply 1, retweet 0
+
+> Many people are very averse to flash loans and a lot of protocols are exploited (routinely) using flash loans as an attack vector.
+>
+> As an appchain rollup, you can literally integrate your policies regarding flash loans right into your chain.
+
+
+---
+
+## 2023-11-07 · Post · I could very well be speaking out of my ass here. But hear me out.
+
+
+### Post — @saxenism — 2023-11-07 03:54 UTC (2023-11-07 04:54 WAT)
+
+- URL: https://x.com/saxenism/status/1721737836033097994
+- Metrics (at fetch): bookmark 1, impression 1352, like 13, quote 0, reply 1, retweet 0
+
+> I could very well be speaking out of my ass here. But hear me out.
+>
+> I have been reading up on customizable app-chains that can be built using things like @0xPolygonLabs CDK, @0xStackr, etc, and what I am really excited about is the new security implications that it can have.
+
+
+---
+
+## 2023-11-03 · Post · Btw do I have some fellow web3 degens or bug connoisseur that are based in Hong Kong and want to cat
+
+
+### Post — @saxenism — 2023-11-03 05:41 UTC (2023-11-03 06:41 WAT)
+
+- URL: https://x.com/saxenism/status/1720315118788247801
+- Metrics (at fetch): bookmark 0, impression 606, like 0, quote 0, reply 1, retweet 0
+
+> Btw do I have some fellow web3 degens or bug connoisseur that are based in Hong Kong and want to catch up? 
+>
+> Will be there for some time.
+
+
+---
+
+## 2023-11-02 · Post · Just a reminder I get in a deep security conversation with @0xmonsoon in roughly 90 minutes.
+
+
+### Post — @saxenism — 2023-11-02 13:24 UTC (2023-11-02 14:24 WAT)
+
+- URL: https://x.com/saxenism/status/1720069253133701618
+- Metrics (at fetch): bookmark 1, impression 2907, like 17, quote 1, reply 1, retweet 5
+
+> Just a reminder I get in a deep security conversation with @0xmonsoon in roughly 90 minutes.
+>
+> Do not miss that good ser 😤
+>
+> @KenilShahh handles all the logistics btw.
+
+
+---
+
+## 2023-11-02 · Post · Us mere mortals: Wow, a crowded supermarket.
+
+
+### Post — @saxenism — 2023-11-02 06:54 UTC (2023-11-02 07:54 WAT)
+
+- URL: https://x.com/saxenism/status/1719971251555614829
+- Metrics (at fetch): bookmark 0, impression 1924, like 12, quote 0, reply 3, retweet 1
+
+> Us mere mortals: Wow, a crowded supermarket.
+>
+> @RealJohnnyTime: Wow, a DDoS attack on a supermarket. https://t.co/1nCJy3PpFp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F96QhuybYAA2ovV.jpg — no alt text provided by author
+
+
+---
+
+## 2023-11-02 · Post · I used to be quite confused about why would a random OF girl account like my tweet (which is usually
+
+
+### Post — @saxenism — 2023-11-02 06:14 UTC (2023-11-02 07:14 WAT)
+
+- URL: https://x.com/saxenism/status/1719961241249276128
+- Metrics (at fetch): bookmark 0, impression 1468, like 5, quote 0, reply 3, retweet 0
+
+> I used to be quite confused about why would a random OF girl account like my tweet (which is usually about web3 security and development)
+>
+> And then it struck me.
+>
+> It's quite brilliant on their part tbh.
+>
+> In my space, people front-run hackers and make lots of money, do not come in
+
+
+---
+
+## 2023-11-01 · Post · To all the people who reached out in my DMs with messages along these lines
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-11-01 05:32 UTC (2023-11-01 06:32 WAT)
+
+- URL: https://x.com/saxenism/status/1719588282311544846
+- Metrics (at fetch): bookmark 0, impression 1091, like 5, quote 0, reply 1, retweet 0
+
+> To all the people who reached out in my DMs with messages along these lines
+> 1. How do I learn about the EVM and security?
+> 2. What are the best resources to learn that?
+> 3. Can you be my mentor? (Lol, me noob :P)
+> 4. How can I get exposure as a dev?
+>
+> THIS IS YOUR ANSWER!!!!
+>
+> APPLY! https://t.co/HO0bL5mhdq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @192462804 — 2023-10-31 13:23 UTC (2023-10-31 14:23 WAT)
+    
+    - URL: https://x.com/192462804/status/1719344401380790541
+    - Metrics (at fetch): bookmark 91, impression 48219, like 149, quote 9, reply 17, retweet 23
+    
+    > If you are early in your audit/dev career and:
+    >
+    > 1) Want to learn in public while earning some money
+    > 2) Love technical writing
+    > 3) Can handle brutal feedback until your writing is worthy to be posted on RareSkills
+    > 4) Have 30 hours+ a week available
+    >
+    > Please fill out this form.
+    >
+    > Full
+    
+
+
+---
+
+## 2023-10-30 · Post · I don't have six pack abs.
+
+
+### Post — @saxenism — 2023-10-30 16:50 UTC (2023-10-30 17:50 WAT)
+
+- URL: https://x.com/saxenism/status/1719034156985045415
+- Metrics (at fetch): bookmark 1, impression 3957, like 15, quote 0, reply 2, retweet 0
+
+> I don't have six pack abs.
+>
+> But I can give you the exact advice which will be scientifically backed to guarantee you 6 pack abs.
+>
+> Now, would you want me as your personal trainer?
+>
+> Didn't think so, either.
+>
+> So in a time, where everyone is an auditor, join me in interviewing https://t.co/pQqXBo4g7t
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1450088354180046853 — 2023-10-30 15:17 UTC (2023-10-30 16:17 WAT)
+    
+    - URL: https://x.com/1450088354180046853/status/1719010719062978955
+    - Metrics (at fetch): bookmark 1, impression 10322, like 41, quote 5, reply 5, retweet 11
+    
+    > We're back. 
+    >
+    > DevTalks #4 | Deep dive into "DeFi Security" with @0xmonsoon, DeFi Security researcher at @OpenZeppelin 🔐
+    >
+    > 🗓 Thursday, November 2nd, 2023 
+    > ⏲️ 3:00PM GMT
+    > 📍 Polygon Developer Discord
+    >
+    > https://t.co/x0AIZAPiLZ https://t.co/chEn0b8Yqc
+    
+    **Media:**
+    - media `3_1719010558656012289` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-30 · Post · Big sucker for sock-swags!!
+
+
+### Post — @saxenism — 2023-10-30 07:36 UTC (2023-10-30 08:36 WAT)
+
+- URL: https://x.com/saxenism/status/1718894651179258270
+- Metrics (at fetch): bookmark 0, impression 1351, like 8, quote 0, reply 2, retweet 0
+
+> Big sucker for sock-swags!!
+>
+> Mail me a sock swag of your protocol for a free security review 🥹 https://t.co/gpnovoj2mt
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1895815094 — 2023-10-29 14:05 UTC (2023-10-29 15:05 WAT)
+    
+    - URL: https://x.com/1895815094/status/1718630049169944743
+    - Metrics (at fetch): bookmark 69, impression 120403, like 2283, quote 37, reply 125, retweet 72
+    
+    > My socks are better than your entire outfit https://t.co/8KqbW0uCWa
+    
+    **Media:**
+    - media `3_1718630043599994880` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-30 · Post · Here's my concern, in a nutshell. Again I'm not too deep in the L2 infra space, so this may just be 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-10-30 07:27 UTC (2023-10-30 08:27 WAT)
+
+- URL: https://x.com/saxenism/status/1718892399660056678
+- Metrics (at fetch): bookmark 0, impression 1042, like 2, quote 0, reply 2, retweet 0
+
+> Here's my concern, in a nutshell. Again I'm not too deep in the L2 infra space, so this may just be some nasty diarrhea.
+>
+> Right now people just trust the Arbitrum developers to have written the correct implementation of things like ArbOS and the AVM architecture and I think https://t.co/BUDhuux4lX
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2023-10-30 07:11 UTC (2023-10-30 08:11 WAT)
+    
+    - URL: https://x.com/saxenism/status/1718888443730919691
+    - Metrics (at fetch): bookmark 0, impression 3730, like 9, quote 1, reply 1, retweet 0
+    
+    > There have been discussions around the importance of Ethereum client diversity and I completely get the point.
+    >
+    > But, are people talking enough about L2 client diversity?
+    >
+    > And like in the future if L3s decide to decentralize and have validators, would they also need client
+    
+
+
+---
+
+## 2023-10-30 · Post · There have been discussions around the importance of Ethereum client diversity and I completely get 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-10-30 07:11 UTC (2023-10-30 08:11 WAT)
+
+- URL: https://x.com/saxenism/status/1718888443730919691
+- Metrics (at fetch): bookmark 0, impression 3730, like 9, quote 1, reply 1, retweet 0
+
+> There have been discussions around the importance of Ethereum client diversity and I completely get the point.
+>
+> But, are people talking enough about L2 client diversity?
+>
+> And like in the future if L3s decide to decentralize and have validators, would they also need client
+
+
+---
+
+## 2023-10-28 · Post · Yeah, I'm aware that the checklist could look like a way too overwhelming and somethings might not b
+
+
+### Post — @saxenism — 2023-10-28 12:07 UTC (2023-10-28 13:07 WAT)
+
+- URL: https://x.com/saxenism/status/1718238168615665677
+- Metrics (at fetch): bookmark 0, impression 881, like 1, quote 0, reply 0, retweet 0
+
+> Yeah, I'm aware that the checklist could look like a way too overwhelming and somethings might not be worth the efforts, but this list is still a necessity.
+>
+> More often than not whenever I have talked to web3 protocol founders their definition of security was restricted to their https://t.co/iSoRdeZsFj
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1351215373497085957 — 2023-10-28 11:46 UTC (2023-10-28 12:46 WAT)
+    
+    - URL: https://x.com/1351215373497085957/status/1718232708856365058
+    - Metrics (at fetch): bookmark 0, impression 1742, like 6, quote 1, reply 1, retweet 0
+    
+    > @saxenism Make sure to make sure to make sure to make sure to make sure to make sure to make sure to make sure to make sure to make sure to make sure to make sure to make sure to use "make sure" before any other verb that would have done the job on its own.
+    >
+    > In any case, good checklist!
+    
+
+
+---
+
+## 2023-10-28 · Post · If you are a protocol developer, founder, or security researcher consulting for a protocol, don't ig
+
+
+### Post — @saxenism — 2023-10-28 10:21 UTC (2023-10-28 11:21 WAT)
+
+- URL: https://x.com/saxenism/status/1718211272288932280
+- Metrics (at fetch): bookmark 111, impression 13567, like 80, quote 0, reply 4, retweet 9
+
+> If you are a protocol developer, founder, or security researcher consulting for a protocol, don't ignore this, especially if you have yet to release your protocol. 
+>
+> I know this won't be popular in the web3 security Twitter space, but this is THE BEST and (sufficiently)
+
+
+---
+
+## 2023-10-24 · Post · So, tell me anon wdyt is the limit for the number of arguments in a (non-anonymous) event in Solidit
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-10-24 05:26 UTC (2023-10-24 06:26 WAT)
+
+- URL: https://x.com/saxenism/status/1716687561001979971
+- Metrics (at fetch): bookmark 6, impression 3634, like 13, quote 1, reply 0, retweet 0
+
+> So, tell me anon wdyt is the limit for the number of arguments in a (non-anonymous) event in Solidity?
+>
+> If you think that there is NO limit, and the only restriction arises from contract size and gas-block limits, I'd like to draw your attention to this: https://t.co/taX5pkVZm0 https://t.co/KOILtWrf6h
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9LmDcybwAEiSJH.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-21 · Post · I've recently been engaged in designing the over-arching security policy of a protocol.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-10-21 05:10 UTC (2023-10-21 06:10 WAT)
+
+- URL: https://x.com/saxenism/status/1715596330851348491
+- Metrics (at fetch): bookmark 48, impression 5307, like 38, quote 1, reply 4, retweet 6
+
+> I've recently been engaged in designing the over-arching security policy of a protocol.
+>
+> This encompasses how core developers should open an unknown PDF on their systems to smart contract bugs and everything in between. You know... good ol' holistic security shenanigans.
+>
+> Anyway, https://t.co/ikaCft7gPI
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2023-05-11 12:09 UTC (2023-05-11 13:09 WAT)
+    
+    - URL: https://x.com/saxenism/status/1656632735291588609
+    - Metrics (at fetch): bookmark 123, impression 18097, like 96, quote 5, reply 6, retweet 15
+    
+    > Gm devs!! 
+    >
+    > Read this thread and bid goodbye to all your price feed contract bugs.
+    >
+    > This thread will be focused on the Chainlink oracles and how to deal with them, since they are one of the most popular choices.
+    >
+    > Grab some popcorn, this is gonna be fun.
+    >
+    > Time for my top 10 tips: [pic.x.com/X0LT0nMGZD]
+    
+    **Media:**
+    - animated_gif: https://pbs.twimg.com/tweet_video_thumb/Fv2Kr6LWAAA4G2J.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-10-19 · Post · When someone asks you whether you have a security background in Rust... what do they mean?
+
+
+### Post — @saxenism — 2023-10-19 09:05 UTC (2023-10-19 10:05 WAT)
+
+- URL: https://x.com/saxenism/status/1714930726834249783
+- Metrics (at fetch): bookmark 0, impression 1328, like 3, quote 0, reply 1, retweet 0
+
+> When someone asks you whether you have a security background in Rust... what do they mean?
+>
+> Do they mean to ask if can I exploit a system written in Rust?
+
+
+---
+
+## 2023-10-18 · Post · What are some of the best security firms out there focused on ZK security? 
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-10-18 08:39 UTC (2023-10-18 09:39 WAT)
+
+- URL: https://x.com/saxenism/status/1714561931426849178
+- Metrics (at fetch): bookmark 0, impression 1405, like 10, quote 0, reply 2, retweet 1
+
+> What are some of the best security firms out there focused on ZK security? 
+>
+> Especially those who have worked/created public material on elliptic curve cryptography.
+
+
+---
+
+## 2023-10-17 · Post · Is there a way to test *front-running* using Forge? 
+
+
+Tags (automatic): Race condition
+
+
+### Post — @saxenism — 2023-10-17 05:13 UTC (2023-10-17 06:13 WAT)
+
+- URL: https://x.com/saxenism/status/1714147557751067042
+- Metrics (at fetch): bookmark 1, impression 2068, like 6, quote 0, reply 3, retweet 0
+
+> Is there a way to test *front-running* using Forge? 
+>
+> Use Case: I want to test my theory about a race-condition bug in a contract that I am going through right now.
+
+
+---
+
+## 2023-10-16 · Post · TIL, even after the EIP-1559 upgrade you can still send the type 0 legacy transactions on the blockc
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-10-16 05:48 UTC (2023-10-16 06:48 WAT)
+
+- URL: https://x.com/saxenism/status/1713794062908784932
+- Metrics (at fetch): bookmark 1, impression 1133, like 3, quote 0, reply 1, retweet 0
+
+> TIL, even after the EIP-1559 upgrade you can still send the type 0 legacy transactions on the blockchain.
+>
+> Also, a lot of people when starting their EVM journey read ch. 12 of Mastering Ethereum and that's cool, but the gas part needs to be supplemented with newer standards.
+
+
+---
+
+## 2023-10-12 · Post · Lmao didn't think this would interest people. Anyway, I'll post a simplified code snippet here.  Ass
+
+
+### Post — @saxenism — 2023-10-12 06:04 UTC (2023-10-12 07:04 WAT)
+
+- URL: https://x.com/saxenism/status/1712348397527826758
+- Metrics (at fetch): bookmark 9, impression 6515, like 38, quote 1, reply 6, retweet 1
+
+> Lmao didn't think this would interest people. Anyway, I'll post a simplified code snippet here.  Assume that the commented-out part works as intended.
+>
+> This simple contract will not compile. You have to tell me:
+> 1. Where is the problem
+> 2. What exactly is the problem
+> 3. Is the https://t.co/HJmnwKjwu2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F8N7vUkbAAAz9dS.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-11 · Post · Learned another Solidity-specific quirk today while correcting some issues.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-10-11 07:13 UTC (2023-10-11 08:13 WAT)
+
+- URL: https://x.com/saxenism/status/1712003506713108695
+- Metrics (at fetch): bookmark 1, impression 3245, like 23, quote 0, reply 2, retweet 0
+
+> Learned another Solidity-specific quirk today while correcting some issues.
+>
+> Should I put out the code snippet for that? Could be interesting to know how many people already knew about this...
+
+
+---
+
+## 2023-10-09 · Post · All the OG Solidity devs and security folks, who (really) thought about the security of their protoc
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-10-09 12:48 UTC (2023-10-09 13:48 WAT)
+
+- URL: https://x.com/saxenism/status/1711363067593085031
+- Metrics (at fetch): bookmark 112, impression 18142, like 95, quote 0, reply 5, retweet 15
+
+> All the OG Solidity devs and security folks, who (really) thought about the security of their protocols from first principles arrived at more or less the same conclusions (or within striking distance of each other)
+>
+> Concepts like: 
+> 1. FREI-PI (from @nascentxyz) 
+> 2. Invariant testing(from @maplefinance & @eth_call)
+> 3. State-Transition Auditing (from @trust__90)
+> 4. Branching Tree Technique (from @PaulRBerg)
+> 5. TDD (a forgotten concept, but I back this fully)
+>
+> All look like different concepts on the surface, but if you dig deep enough and think about incorporating some (or all) of them, you'd realize all these methodologies and theories are coming from the same mental model of "security from first principles", and that, my dear friends, is beautiful.
+
+
+---
+
+## 2023-09-24 · Post · I know this question's been beaten to death.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-09-24 07:17 UTC (2023-09-24 08:17 WAT)
+
+- URL: https://x.com/saxenism/status/1705843935476851061
+- Metrics (at fetch): bookmark 2, impression 1886, like 7, quote 0, reply 7, retweet 1
+
+> I know this question's been beaten to death.
+>
+> But, shill me your favorite EVM resources....
+>
+> Have some time to kill and would love to read a few cool things and revisit old concepts.
+
+
+---
+
+## 2023-09-17 · Post · You know how a function can be converted into a circuit, then into R1CS, then a QAP, and then if sol
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-09-17 06:54 UTC (2023-09-17 07:54 WAT)
+
+- URL: https://x.com/saxenism/status/1703301354687762915
+- Metrics (at fetch): bookmark 3, impression 1754, like 16, quote 0, reply 1, retweet 1
+
+> You know how a function can be converted into a circuit, then into R1CS, then a QAP, and then if solved correctly, we get a single polynomial equality.
+>
+> This is a succinct ZK proof (Schwartz-Zippel Lemma)
+>
+> Wrote some Python about this encrypted QAP eval.
+> https://github.com/saxenism/ZK-Land/blob/master/QAP-Evaluation-curveOrder.ipynb
+
+**Links in post:** https://github.com/saxenism/ZK-Land/blob/master/QAP-Evaluation-curveOrder.ipynb
+
+
+---
+
+## 2023-09-16 · Post · I am giving a presentation on web3 (security) today.
+
+
+### Post — @saxenism — 2023-09-16 04:49 UTC (2023-09-16 05:49 WAT)
+
+- URL: https://x.com/saxenism/status/1702907589871497471
+- Metrics (at fetch): bookmark 3, impression 8656, like 20, quote 1, reply 11, retweet 0
+
+> I am giving a presentation on web3 (security) today.
+>
+> Audience is not too familiar with the engineering side of web3.
+>
+> Does this look like a good enuff intro?
+>
+> Open to all suggestions.
+>
+> Thanks. [pic.x.com/sYRkBbb3sk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6HxJKpbQAAbPtH.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-14 · Post · I used to think understanding ZK was tough, but then I tried implementing those algorithms.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-09-14 13:22 UTC (2023-09-14 14:22 WAT)
+
+- URL: https://x.com/saxenism/status/1702311833242402991
+- Metrics (at fetch): bookmark 1, impression 1653, like 13, quote 0, reply 2, retweet 0
+
+> I used to think understanding ZK was tough, but then I tried implementing those algorithms.
+>
+> Computer languages straight up refuse to fuck with values that large 🥹 [pic.x.com/LVMvuHGpGS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5_Tg5nbUAEzZSD.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-14 · Post · The only acceptable way to code up your zk-proof evaluation algorithm 🗿 [pic.x.com/ZWnxjFwXm4]
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-09-14 04:24 UTC (2023-09-14 05:24 WAT)
+
+- URL: https://x.com/saxenism/status/1702176520087937376
+- Metrics (at fetch): bookmark 0, impression 1052, like 16, quote 0, reply 3, retweet 0
+
+> The only acceptable way to code up your zk-proof evaluation algorithm 🗿 [pic.x.com/ZWnxjFwXm4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F59YP1PbQAABJQN.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-06 · Thread · @adidshaft @PopPunkOnChain Read my bio 😭😭😭
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-09-06 08:42 UTC (2023-09-06 09:42 WAT)
+
+- URL: https://x.com/saxenism/status/1699342257806360644
+- Metrics (at fetch): bookmark 0, impression 136, like 0, quote 0, reply 1, retweet 0
+
+> @adidshaft @PopPunkOnChain Read my bio 😭😭😭
+
+
+### Thread part 2 — @saxenism — 2023-09-06 08:44 UTC (2023-09-06 09:44 WAT)
+
+- URL: https://x.com/saxenism/status/1699342918308577756
+- Metrics (at fetch): bookmark 1, impression 52, like 0, quote 0, reply 0, retweet 0
+
+> @adidshaft @PopPunkOnChain Also, it makes sense to have way more people into security than development because protocol security is harder (and subjective) problem to solve compared to protocol development.
+>
+> 1 Dev can build a protocol, but you may need 4 different auditors to uncover 10 different bugs.
+
+
+---
+
+## 2023-08-31 · Post · Perhaps THE most misleading thing written in any ZK tutorial is that this article is an *x* minute r
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-08-31 11:46 UTC (2023-08-31 12:46 WAT)
+
+- URL: https://x.com/saxenism/status/1697214289558597700
+- Metrics (at fetch): bookmark 2, impression 708, like 10, quote 0, reply 1, retweet 0
+
+> Perhaps THE most misleading thing written in any ZK tutorial is that this article is an *x* minute read 🥹 [pic.x.com/Obl2o1u8Uw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F423KiFaAAAP5Xc.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-29 · Post · Rust project ideas needed 🙏🏻
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-08-29 03:42 UTC (2023-08-29 04:42 WAT)
+
+- URL: https://x.com/saxenism/status/1696367774942314822
+- Metrics (at fetch): bookmark 6, impression 3558, like 19, quote 0, reply 9, retweet 0
+
+> Rust project ideas needed 🙏🏻
+>
+> I have a C++ background and have an okayish idea of Rust basics.
+>
+> I've been in the web3 space for a while, what would you suggest for me to build out as a smol project to cement my understanding of Rust.
+>
+> Ohh and btw, I've been into ZK privacy lately
+
+
+---
+
+## 2023-08-20 · Reply · @Jeyffre helping me step up my meme game. 
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-08-20 07:36 UTC (2023-08-20 08:36 WAT)
+
+- URL: https://x.com/saxenism/status/1693165129444348078
+- Metrics (at fetch): bookmark 0, impression 336, like 4, quote 0, reply 2, retweet 0
+
+> @Jeyffre helping me step up my meme game. 
+>
+> PS: He also teaches ZK on the side :P
+>
+> PPS: I know this may not be entirely accurate, but facts must never interfere with a good meme 😤 [pic.x.com/FBGESv2mrm]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F39T_kUasAE4ohK.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-09 · Post · Just clocked that you can do Python style slicing operations on Solidity arrays.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-08-09 07:00 UTC (2023-08-09 08:00 WAT)
+
+- URL: https://x.com/saxenism/status/1689169868137091072
+- Metrics (at fetch): bookmark 4, impression 2481, like 18, quote 0, reply 2, retweet 0
+
+> Just clocked that you can do Python style slicing operations on Solidity arrays.
+>
+> Why didn't anyone tell me this before!? It's been a feature since 0.6 or something 😭
+>
+> https://soliditylang.org/blog/2020/05/26/array-slices/
+
+**Links in post:** https://soliditylang.org/blog/2020/05/26/array-slices/
+
+
+---
+
+## 2023-08-09 · Post · Just clocked that you can do Python style slicing operations on Solidity arrays.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-08-09 06:59 UTC (2023-08-09 07:59 WAT)
+
+- URL: https://x.com/saxenism/status/1689169515698151424
+- Metrics (at fetch): bookmark 0, impression 35, like 0, quote 0, reply 0, retweet 0
+
+> Just clocked that you can do Python style slicing operations on Solidity arrays.
+>
+> Why didn't anyone tell me this before!? It's been a feature since 0.6 or something 😭
+
+
+---
+
+## 2023-08-04 · Post · Ok. 
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-08-04 13:34 UTC (2023-08-04 14:34 WAT)
+
+- URL: https://x.com/saxenism/status/1687456953382141952
+- Metrics (at fetch): bookmark 7, impression 7348, like 68, quote 0, reply 11, retweet 0
+
+> Ok. 
+>
+> ZK Maths is definitely not easy or intuitive.
+>
+> I have to work with a few black boxes.
+>
+> I have to work with known behaviours & trust the language of group theory.
+>
+> And it is slightly uncomfortable.
+>
+> But I have the right guidance and I won't quit.
+>
+> There is no reason for me to lose here & fall wayward. 
+>
+> This is gonna be fun💪🏼⚡️💪🏼
+
+
+---
+
+## 2023-08-03 · Post · You know how the anime nerds will get you invested in anime using Death Note, right?
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-08-03 03:56 UTC (2023-08-03 04:56 WAT)
+
+- URL: https://x.com/saxenism/status/1686949232341868544
+- Metrics (at fetch): bookmark 7, impression 3768, like 23, quote 1, reply 7, retweet 2
+
+> You know how the anime nerds will get you invested in anime using Death Note, right?
+>
+> Similarly, ZK nerds will throw the discrete logarithmic problem at you & then help you create your first ZK proof; where you prove, you know the solution to a system of equations without revealing the solution.
+>
+> Aaaaaand there's no going back now.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2k979qawAAwbeU.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-03 · Post · You know how the anime nerds will get you invested in anime using Death Note, right?
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-08-03 03:50 UTC (2023-08-03 04:50 WAT)
+
+- URL: https://x.com/saxenism/status/1686947721582948352
+- Metrics (at fetch): bookmark 0, impression 67, like 2, quote 0, reply 1, retweet 0
+
+> You know how the anime nerds will get you invested in anime using Death Note, right?
+>
+> Similarly, ZK nerds will throw the discrete logarithmic problem at you & then help you create your first ZK proof; where you prove, you know the solution to a system of equations without revealing the solution.
+>
+> And that's golden.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F2k979qawAAwbeU.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-31 · Post · To all the people that followed me for some solid security content, I'm sorry to have become so infr
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-07-31 03:38 UTC (2023-07-31 04:38 WAT)
+
+- URL: https://x.com/saxenism/status/1685857505606619136
+- Metrics (at fetch): bookmark 5, impression 7480, like 69, quote 0, reply 7, retweet 1
+
+> To all the people that followed me for some solid security content, I'm sorry to have become so infrequent.
+>
+> The reason for that is, I've been taken hostage by the ZK juggernaut.
+>
+> It's addicitive and I never had a strong mathematics background so I have to spend a disproportionate amount of time learning stuff.
+>
+> But if you stick with me for this period of time, my down time, I promise to bring you the sickest possible, most bleeding-edge ZK security content very soon ✊🏻✊🏻
+
+
+---
+
+## 2023-07-31 · Post · What are some ZK focussed podcasts or newsletters or blogs that focus more on what's possible with Z
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-07-31 03:34 UTC (2023-07-31 04:34 WAT)
+
+- URL: https://x.com/saxenism/status/1685856481642680320
+- Metrics (at fetch): bookmark 5, impression 1020, like 6, quote 0, reply 2, retweet 0
+
+> What are some ZK focussed podcasts or newsletters or blogs that focus more on what's possible with ZK and where the field in heading rather than focusing on the exact math behind things.
+>
+> Thanks in advance anon.
+
+
+---
+
+## 2023-07-19 · Post · SOLIDITY TRIVIA TIME:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-07-19 05:23 UTC (2023-07-19 06:23 WAT)
+
+- URL: https://x.com/saxenism/status/1681535159840157696
+- Metrics (at fetch): bookmark 9, impression 4126, like 27, quote 0, reply 2, retweet 0
+
+> SOLIDITY TRIVIA TIME:
+>
+> try-catch blocks in solidity can only be used for external function calls or contract creation calls, and NOT for public function calls.
+>
+> Can someone tell me why?
+
+
+---
+
+## 2023-07-18 · Post · Who should I follow if I am interested to know and explore the ZK space?
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-07-18 03:22 UTC (2023-07-18 04:22 WAT)
+
+- URL: https://x.com/saxenism/status/1681142344110989312
+- Metrics (at fetch): bookmark 3, impression 1464, like 13, quote 0, reply 1, retweet 0
+
+> Who should I follow if I am interested to know and explore the ZK space?
+>
+> The popularity of your recommended accounts doesn't matter as long as they tweet about relevant stuff on a semi-consistent basis.
+>
+> Biased towards anything that is not scaling related :P
+
+
+---
+
+## 2023-07-17 · Post · Had an absolute blast auditing this innovative lending protocol on Berachain.
+
+
+### Post — @saxenism — 2023-07-17 23:57 UTC (2023-07-18 00:57 WAT)
+
+- URL: https://x.com/saxenism/status/1681090753676849152
+- Metrics (at fetch): bookmark 0, impression 725, like 7, quote 0, reply 0, retweet 0
+
+> Had an absolute blast auditing this innovative lending protocol on Berachain.
+>
+> Read the audit report if you're interested. The protocol is a fork of Impermax Finance and helps leverage your LP tokens in a novel way.
+>
+> As always, hit me up if you're looking to get your protocol audited.
+
+**Links in post:** https://twitter.com/hyacinthaudits/status/1681022674888462341
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1619814353120952320 — 2023-07-17 19:26 UTC (2023-07-17 20:26 WAT)
+    
+    - URL: https://x.com/1619814353120952320/status/1681022674888462341
+    - Metrics (at fetch): bookmark 1, impression 4587, like 34, quote 7, reply 2, retweet 8
+    
+    > Our latest audit report is out! 
+    >
+    > Thanks to @StackingSalmon for trusting us with your smart contract audit and to @saxenism for doing a fantastic job.
+    >
+    > We're pleased to announce that their contract had no major issues/vulnerabilities!
+    >
+    > Read more: https://medium.com/@hyacinthcrypto/stacking-salmon-audit-report-5fe9acb0388a
+    
+    **Links in post:** https://medium.com/@hyacinthcrypto/stacking-salmon-audit-report-5fe9acb0388a
+    
+
+
+---
+
+## 2023-07-14 · Post · The motivation to study changes the levels of understanding dramatically.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-07-14 12:31 UTC (2023-07-14 13:31 WAT)
+
+- URL: https://x.com/saxenism/status/1679831063445790721
+- Metrics (at fetch): bookmark 2, impression 545, like 7, quote 0, reply 0, retweet 0
+
+> The motivation to study changes the levels of understanding dramatically.
+>
+> Was going through @3blue1brown's LinAl series and a fuck ton of things *I already knew* just started clicking.
+>
+> Studied it earlier to pass an exam, studying it now to understand ZK. 
+>
+> Major difference.
+
+
+---
+
+## 2023-07-14 · Thread · Back from Vietnam.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-07-14 06:10 UTC (2023-07-14 07:10 WAT)
+
+- URL: https://x.com/saxenism/status/1679735080389087233
+- Metrics (at fetch): bookmark 0, impression 1278, like 13, quote 1, reply 3, retweet 1
+
+> Back from Vietnam.
+>
+> Having met all the incredible people that I did, you'll perhaps see a change in my tweets.
+>
+> Ofc, there will be some auditing alfa drop tweets, but there is gonna be a lot of ZK spam too :p
+>
+> Brace yourself 🤡
+>
+> PS: @0xAbix pushed me to the dark side :p
+
+
+### Thread part 2 — @saxenism — 2023-07-14 06:17 UTC (2023-07-14 07:17 WAT)
+
+- URL: https://x.com/saxenism/status/1679736802192818176
+- Metrics (at fetch): bookmark 0, impression 230, like 4, quote 0, reply 0, retweet 0
+
+> @0xAbix Eg, Turns out, famous examples used to introduce you to ZK such as *I can prove I’m over 21 without showing you my ID card* are not entirely accurate.
+>
+> The verifier cannot verify the correct *knowledge*, however they can verify the correct computation without needing the inputs
+
+
+---
+
+## 2023-07-06 · Post · On my @0xPolyAdvocates duties!!
+
+
+### Post — @saxenism — 2023-07-06 06:42 UTC (2023-07-06 07:42 WAT)
+
+- URL: https://x.com/saxenism/status/1676844168289845250
+- Metrics (at fetch): bookmark 1, impression 2386, like 39, quote 0, reply 3, retweet 1
+
+> On my @0xPolyAdvocates duties!!
+>
+> Gave a short security session for the winners of the @0xPolygon devconnect hackathons winners in Saigon.
+>
+> Met some amazing people, had a blast!!
+>
+> #polygonconnect [pic.x.com/aw0MIJGBlx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0VY34WaMAAdWQX.jpg — no alt text provided by author
+
+
+---
+
+## 2023-06-28 · Thread · Wrapping up my hardest audit to date.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-06-28 13:03 UTC (2023-06-28 14:03 WAT)
+
+- URL: https://x.com/saxenism/status/1674040776052084736
+- Metrics (at fetch): bookmark 1, impression 1966, like 20, quote 0, reply 3, retweet 0
+
+> Wrapping up my hardest audit to date.
+>
+> The protocol was a fork of a decently popular, prior audited &amp; hack-free DeFi protocol, so the financial aspect of this audit was not flattering.
+>
+> However, this single audit has undoubtedly forced me to grow at an incredible pace.
+>
+> Thankful.
+
+
+### Thread part 2 — @saxenism — 2023-06-29 05:19 UTC (2023-06-29 06:19 WAT)
+
+- URL: https://x.com/saxenism/status/1674286475209498624
+- Metrics (at fetch): bookmark 0, impression 139, like 2, quote 0, reply 2, retweet 0
+
+> @dannygfromnyc Yes that should ideally have been my approach, but this particular protocol was heavily inspired by Compoundv2 and Uniswapv2 and I have to wrap my head around them first before going into the diffs and auditing it.
+
+
+### Thread part 3 — @saxenism — 2023-06-29 05:20 UTC (2023-06-29 06:20 WAT)
+
+- URL: https://x.com/saxenism/status/1674286776721235968
+- Metrics (at fetch): bookmark 0, impression 65, like 1, quote 0, reply 0, retweet 0
+
+> @dannygfromnyc One more thing that I found helpful was going through the several iterations of audit reports of the forked protocols. It helped in the sense that whenever an issue is raised, it's mitigation involves making some choices. It was really cool to try and exploit the choices made :P
+
+
+---
+
+## 2023-06-29 · Post · These results are from a 1-hour long bot-race &amp; not a full-fledged audit.
+
+
+Tags (automatic): Race condition, AI-assisted hunting
+
+
+### Post — @saxenism — 2023-06-29 05:18 UTC (2023-06-29 06:18 WAT)
+
+- URL: https://x.com/saxenism/status/1674286135839952896
+- Metrics (at fetch): bookmark 16, impression 4622, like 44, quote 0, reply 6, retweet 4
+
+> These results are from a 1-hour long bot-race &amp; not a full-fledged audit.
+>
+> Wake up to the reality anon, ChatGPT &amp; bots will soon eradicate the lower rungs of bugs from any codebase.
+>
+> Only the auditors that dare to dive deep will survive this battlefield.
+>
+> https://gist.github.com/liveactionllama/27513952718ec3cbcf9de0fda7fef49c
+
+**Links in post:** https://gist.github.com/liveactionllama/27513952718ec3cbcf9de0fda7fef49c
+
+
+---
+
+## 2023-06-23 · Post · To all my auditors frens, what would you include in your lightning talk?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-06-23 12:46 UTC (2023-06-23 13:46 WAT)
+
+- URL: https://x.com/saxenism/status/1672224512224677888
+- Metrics (at fetch): bookmark 0, impression 1170, like 7, quote 0, reply 3, retweet 1
+
+> To all my auditors frens, what would you include in your lightning talk?
+>
+> Audience: developers who just won a big hackathon and are going to build out their products.
+>
+> Topic: Applying 80/20 principle in smart contract security. Few processes to maximize your protocol security.
+
+
+---
+
+## 2023-06-16 · Post · How do I politely tell someone who's asking me for an audit that their protocol is *nowhere near bei
+
+
+### Post — @saxenism — 2023-06-16 12:09 UTC (2023-06-16 13:09 WAT)
+
+- URL: https://x.com/saxenism/status/1669678488717246464
+- Metrics (at fetch): bookmark 0, impression 2233, like 18, quote 0, reply 6, retweet 0
+
+> How do I politely tell someone who's asking me for an audit that their protocol is *nowhere near being even remotely ready for an audit, let alone deployment on the mainnet* ? 🥹🫠
+
+
+---
+
+## 2023-06-15 · Post · If you were auditing a protocol with *pragma solidity 0.5.17* what would be the things that you woul
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-06-15 13:19 UTC (2023-06-15 14:19 WAT)
+
+- URL: https://x.com/saxenism/status/1669333751867019266
+- Metrics (at fetch): bookmark 1, impression 711, like 6, quote 1, reply 1, retweet 0
+
+> If you were auditing a protocol with *pragma solidity 0.5.17* what would be the things that you would be looking out for, apart from the over/under flow issues ?
+
+
+---
+
+## 2023-06-13 · Post · As a security researcher there is absolutely zero downside of diving deep into the functionings of a
+
+
+### Post — @saxenism — 2023-06-13 12:21 UTC (2023-06-13 13:21 WAT)
+
+- URL: https://x.com/saxenism/status/1668594337142423555
+- Metrics (at fetch): bookmark 0, impression 1733, like 43, quote 0, reply 5, retweet 2
+
+> As a security researcher there is absolutely zero downside of diving deep into the functionings of a protocol.
+>
+> You either find a security issue and you get paid or you learn something and solidify your fundamentals that help you get paid during later audits.
+>
+> Absolute W.
+
+
+---
+
+## 2023-06-08 · Post · People say you can get done with audits of forks fairly quickly, but it's the opposite for me.
+
+
+### Post — @saxenism — 2023-06-08 08:30 UTC (2023-06-08 09:30 WAT)
+
+- URL: https://x.com/saxenism/status/1666724463340306439
+- Metrics (at fetch): bookmark 0, impression 690, like 13, quote 0, reply 0, retweet 0
+
+> People say you can get done with audits of forks fairly quickly, but it's the opposite for me.
+>
+> I just can't trust a single line of code even if taken from another *already audited* protocol.
+>
+> I essentially audit multiple protocols for the price of 1.
+>
+> Good for the protocol, ig🥹
+
+
+---
+
+## 2023-05-24 · Post · The team has acknowledged the bug.
+
+
+### Post — @saxenism — 2023-05-24 10:04 UTC (2023-05-24 11:04 WAT)
+
+- URL: https://x.com/saxenism/status/1661312169684893696
+- Metrics (at fetch): bookmark 2, impression 4197, like 22, quote 1, reply 6, retweet 1
+
+> The team has acknowledged the bug.
+>
+> They will probably report their planned response (and payout) by EOD today.
+>
+> 99% sure team is not malicious and this bug was an honest mistake.
+>
+> Will share the protocol name and writeup as soon as I get the clearance to do so.
+>
+> Thanks everyone. https://twitter.com/saxenism/status/1659893714162970627
+
+**Links in post:** https://twitter.com/saxenism/status/1659893714162970627
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2023-05-20 12:07 UTC (2023-05-20 13:07 WAT)
+    
+    - URL: https://x.com/saxenism/status/1659893714162970627
+    - Metrics (at fetch): bookmark 13, impression 18870, like 58, quote 1, reply 9, retweet 2
+    
+    > I've just reported a vulnerability in a staking project which is live with multiple millions of dollars of assets locked
+    >
+    > The bug basically allows the owner to bolt with (a part of) the funds
+    >
+    > If they do not immediately confirm it's a bug from their end, I'll announce it publicly
+    
+
+
+---
+
+## 2023-05-21 · Post · Looks like I'll be doing a live audit session with @mis4nthr0pic for @opensensepw pretty soon.
+
+
+### Post — @saxenism — 2023-05-21 07:14 UTC (2023-05-21 08:14 WAT)
+
+- URL: https://x.com/saxenism/status/1660182160026869762
+- Metrics (at fetch): bookmark 1, impression 2288, like 25, quote 0, reply 4, retweet 4
+
+> Looks like I'll be doing a live audit session with @mis4nthr0pic for @opensensepw pretty soon.
+>
+> Not sure how much alpha I can provide, but apparently 27 deranged folks are already waiting for it :P
+>
+> Will be waiting for you, anon.
+>
+> https://discord.gg/jHT7JbqR?event=1098702817994211389
+
+**Links in post:** https://discord.gg/jHT7JbqR?event=1098702817994211389
+
+
+---
+
+## 2023-05-20 · Thread · I've just reported a vulnerability in a staking project which is live with multiple millions of doll
+
+
+### Post — @saxenism — 2023-05-20 12:07 UTC (2023-05-20 13:07 WAT)
+
+- URL: https://x.com/saxenism/status/1659893714162970627
+- Metrics (at fetch): bookmark 13, impression 18870, like 58, quote 1, reply 9, retweet 2
+
+> I've just reported a vulnerability in a staking project which is live with multiple millions of dollars of assets locked
+>
+> The bug basically allows the owner to bolt with (a part of) the funds
+>
+> If they do not immediately confirm it's a bug from their end, I'll announce it publicly
+
+
+### Thread part 2 — @saxenism — 2023-05-20 12:25 UTC (2023-05-20 13:25 WAT)
+
+- URL: https://x.com/saxenism/status/1659898256237940737
+- Metrics (at fetch): bookmark 0, impression 537, like 1, quote 0, reply 1, retweet 0
+
+> @adidshaft I too see it, but there's a non-zero probability that the protocol will revert back saying it's not a valid bug/issue.
+>
+> Have to always be ready for that.
+
+
+### Thread part 3 — @saxenism — 2023-05-20 12:27 UTC (2023-05-20 13:27 WAT)
+
+- URL: https://x.com/saxenism/status/1659898754709999616
+- Metrics (at fetch): bookmark 0, impression 112, like 1, quote 0, reply 1, retweet 0
+
+> @adidshaft Tbh, the probability of that happening is quite high because even I would have been pissed if I was forced to look at and resolve a bug report on a weekend ☠️
+
+
+### Thread part 4 — @saxenism — 2023-05-20 14:14 UTC (2023-05-20 15:14 WAT)
+
+- URL: https://x.com/saxenism/status/1659925531465502720
+- Metrics (at fetch): bookmark 1, impression 842, like 2, quote 0, reply 1, retweet 0
+
+> @nftchance I can't help throwing fits, after all I'm 68 years old.
+>
+> In other news: https://twitter.com/0xCharlesWang/status/1659329621316255745
+
+**Links in post:** https://twitter.com/0xCharlesWang/status/1659329621316255745
+
+**Quoted post** 1659329621316255745: not readable via the API (deleted, private, or withheld).
+
+
+### Thread part 5 — @saxenism — 2023-05-20 14:18 UTC (2023-05-20 15:18 WAT)
+
+- URL: https://x.com/saxenism/status/1659926623561613315
+- Metrics (at fetch): bookmark 0, impression 94, like 1, quote 0, reply 1, retweet 0
+
+> @nftchance However, I do get your point.
+>
+> If the **bug**, that I've submitted is actually valid, then the owner can break the rewards accounting of the entire contract irreversibly.
+>
+> So, it's not just creating fuss over nothing, there definitely is **some** meat there.
+
+
+---
+
+## 2023-05-20 · Post · Immediately implies &lt;= 12 hrs  
+
+
+### Post — @saxenism — 2023-05-20 12:11 UTC (2023-05-20 13:11 WAT)
+
+- URL: https://x.com/saxenism/status/1659894508052414464
+- Metrics (at fetch): bookmark 0, impression 2663, like 8, quote 1, reply 2, retweet 0
+
+> Immediately implies &lt;= 12 hrs  
+>
+> And why do dis?  
+> &gt; It's not a publicity stunt. I think it's part of my responsibility as a security researcher to let people know that they can be rugged (even if it's a soft rug), especially if the project has some decent traction.  
+>
+> That's all https://twitter.com/saxenism/status/1659893714162970627
+
+**Links in post:** https://twitter.com/saxenism/status/1659893714162970627
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2023-05-20 12:07 UTC (2023-05-20 13:07 WAT)
+    
+    - URL: https://x.com/saxenism/status/1659893714162970627
+    - Metrics (at fetch): bookmark 13, impression 18870, like 58, quote 1, reply 9, retweet 2
+    
+    > I've just reported a vulnerability in a staking project which is live with multiple millions of dollars of assets locked
+    >
+    > The bug basically allows the owner to bolt with (a part of) the funds
+    >
+    > If they do not immediately confirm it's a bug from their end, I'll announce it publicly
+    
+
+
+---
+
+## 2023-05-20 · Thread · @gogotheauditor Yeah, that's true.
+
+
+### Post — @saxenism — 2023-05-20 02:35 UTC (2023-05-20 03:35 WAT)
+
+- URL: https://x.com/saxenism/status/1659749671844327424
+- Metrics (at fetch): bookmark 0, impression 97, like 1, quote 0, reply 1, retweet 0
+
+> @gogotheauditor Yeah, that's true.
+>
+> But I genuinely believe that if I did have enough time to go through the protocol, I might as well put out all my thoughts (in a refined fashion) to the protocol devs.
+>
+> It's quite possible that something you consider low priority will be significant for devs.
+
+
+### Thread part 2 — @saxenism — 2023-05-20 02:36 UTC (2023-05-20 03:36 WAT)
+
+- URL: https://x.com/saxenism/status/1659749874152398849
+- Metrics (at fetch): bookmark 0, impression 67, like 1, quote 0, reply 0, retweet 0
+
+> @gogotheauditor However, you're right in the sense that if I had limited time with a protocol, I too would be focusing on finding the high severity bugs.
+
+
+---
+
+## 2023-05-19 · Thread · I recently audited the console contracts from @BrahmaFi and I can finally publish the audit report. 
+
+
+### Post — @saxenism — 2023-05-19 19:54 UTC (2023-05-19 20:54 WAT)
+
+- URL: https://x.com/saxenism/status/1659648846245273620
+- Metrics (at fetch): bookmark 21, impression 5012, like 41, quote 1, reply 5, retweet 4
+
+> I recently audited the console contracts from @BrahmaFi and I can finally publish the audit report.  
+>
+> Dig in!! I am pretty sure you won't be dissappointed.
+>
+> Solid team, extra solid codebase. Always a pleasure auditing such codebases.
+>
+> https://hackmd.io/@95mVoV38TzWVdIV1iEYrag/brahma-console-audit
+
+**Links in post:** https://hackmd.io/@95mVoV38TzWVdIV1iEYrag/brahma-console-audit
+
+
+### Thread part 2 — @saxenism — 2023-05-19 19:57 UTC (2023-05-19 20:57 WAT)
+
+- URL: https://x.com/saxenism/status/1659649478427590662
+- Metrics (at fetch): bookmark 0, impression 373, like 4, quote 0, reply 0, retweet 0
+
+> @BrahmaFi Did this audit with @__parthpatel__. We took an interesting approach this time, where we independently audited the codebase and merged our findings for the final report.
+>
+> I think this was pretty effective in the sense that we both got our space &amp; also each other's opinions.
+
+
+---
+
+## 2023-05-19 · Post · It's damn brilliant because I've seen this critical yet extremely easy-to-miss bug so many times in 
+
+
+### Post — @saxenism — 2023-05-19 15:50 UTC (2023-05-19 16:50 WAT)
+
+- URL: https://x.com/saxenism/status/1659587228530556929
+- Metrics (at fetch): bookmark 5, impression 1560, like 10, quote 0, reply 2, retweet 1
+
+> It's damn brilliant because I've seen this critical yet extremely easy-to-miss bug so many times in the wild that it's crazy.
+>
+> This function is external with no access control, so pass an empty array and you've successfully set `initialized` to true without changing anything else https://twitter.com/RealJohnnyTime/status/1659512005319860225
+
+**Links in post:** https://twitter.com/RealJohnnyTime/status/1659512005319860225
+
+**Quoted post (full text):**
+
+    #### Quoted post — @502921484 — 2023-05-19 10:51 UTC (2023-05-19 11:51 WAT)
+    
+    - URL: https://x.com/502921484/status/1659512005319860225
+    - Metrics (at fetch): bookmark 21, impression 26856, like 121, quote 2, reply 29, retweet 5
+    
+    > Ready for a weekend challenge? 🏃
+    > How would you hack this smart contract? 😎 [pic.x.com/tyDEvgOg4W]
+    
+    **Media:**
+    - media `3_1659512002241282050` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-17 · Post · It's kinda hard to judge from the truncated addresses but I think I got a valid unique medium findin
+
+
+### Post — @saxenism — 2023-05-17 18:33 UTC (2023-05-17 19:33 WAT)
+
+- URL: https://x.com/saxenism/status/1658903486061494272
+- Metrics (at fetch): bookmark 0, impression 661, like 3, quote 0, reply 1, retweet 0
+
+> It's kinda hard to judge from the truncated addresses but I think I got a valid unique medium finding.
+>
+> It was the first audit competition where I could dedicate 3-4 days and I guess I'm fine with the results.
+>
+> Congratulations to the other hackers. Gg 🚀🚀 https://twitter.com/hatsfinance/status/1658887827466375168
+
+**Links in post:** https://twitter.com/hatsfinance/status/1658887827466375168
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1361688872485289991 — 2023-05-17 17:30 UTC (2023-05-17 18:30 WAT)
+    
+    - URL: https://x.com/1361688872485289991/status/1658887827466375168
+    - Metrics (at fetch): bookmark 0, impression 1032, like 4, quote 1, reply 1, retweet 0
+    
+    > 2/7
+    >
+    > 3 medium severities
+    > 11 low severities
+    > 2 gas-saving
+    >
+    > 🥇 Congratulations to our winners!
+    >
+    > Medium Severity:
+    > 0x6...625
+    > 0x3...3BC
+    > 0xa...e95
+    >
+    > Low Severity:
+    > 0x8...246
+    > 0x7...B2E
+    > 0xb...4ad
+    > 0x9...1AE
+    > 0x6...625
+    > 0xe...B4b
+    > 0x6...e5e
+    > 0xF...d15
+    > 0xF...D15
+    > 0xF...D15
+    
+
+
+---
+
+## 2023-05-17 · Post · I recently audited @BrahmaFi and while they are busy with the audit-fixes, I thought why not share a
+
+
+### Post — @saxenism — 2023-05-17 15:10 UTC (2023-05-17 16:10 WAT)
+
+- URL: https://x.com/saxenism/status/1658852620105129990
+- Metrics (at fetch): bookmark 4, impression 728, like 8, quote 0, reply 0, retweet 1
+
+> I recently audited @BrahmaFi and while they are busy with the audit-fixes, I thought why not share a few thoughts on the testing approach implemented by them.
+>
+> However, I think this particular point about incident response should be a part of every team's arsenal.
+>
+> Wdyt, anon? [pic.x.com/MvdsvM1W4w]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwVsew2WYAAjNFk.png — no alt text provided by author
+
+
+---
+
+## 2023-05-15 · Post · Just got done writing a 24 page audit report and BOYYYY am I completely drained 😶‍🌫️😶‍🌫️
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-05-15 03:58 UTC (2023-05-15 04:58 WAT)
+
+- URL: https://x.com/saxenism/status/1657958634213584896
+- Metrics (at fetch): bookmark 4, impression 1682, like 11, quote 0, reply 3, retweet 2
+
+> Just got done writing a 24 page audit report and BOYYYY am I completely drained 😶‍🌫️😶‍🌫️
+>
+> But it's important to note that, although I am drained, I am very happy to have completed this 2 week long process and provide some value to a protocol and the DeFi ecosystem in general 🍻 [pic.x.com/EZpNmcFK1P]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwJAkeJWwAA-z_I.png — no alt text provided by author
+
+
+---
+
+## 2023-05-15 · Post · It takes extreme willpower on my end to not end up reporting all the typos I came across in the fina
+
+
+### Post — @saxenism — 2023-05-15 01:49 UTC (2023-05-15 02:49 WAT)
+
+- URL: https://x.com/saxenism/status/1657926030030512128
+- Metrics (at fetch): bookmark 0, impression 369, like 1, quote 0, reply 0, retweet 0
+
+> It takes extreme willpower on my end to not end up reporting all the typos I came across in the final audit report.
+>
+> Need to get my head checked by someone 🥹
+
+
+---
+
+## 2023-05-13 · Post · If jobs were put on a spectrum and "dead-end" jobs were on one end, the other end would definitely b
+
+
+### Post — @saxenism — 2023-05-13 06:42 UTC (2023-05-13 07:42 WAT)
+
+- URL: https://x.com/saxenism/status/1657275063563956224
+- Metrics (at fetch): bookmark 0, impression 698, like 10, quote 0, reply 1, retweet 0
+
+> If jobs were put on a spectrum and "dead-end" jobs were on one end, the other end would definitely be security research.
+>
+> Something to look forward to every day, learn, and grow from is always there.
+>
+> And I LOVE this job.
+>
+> Wouldn't trade it for anything.
+
+
+---
+
+## 2023-05-11 · Thread · Gm devs!! 
+
+
+### Post — @saxenism — 2023-05-11 12:09 UTC (2023-05-11 13:09 WAT)
+
+- URL: https://x.com/saxenism/status/1656632735291588609
+- Metrics (at fetch): bookmark 123, impression 18097, like 96, quote 5, reply 6, retweet 15
+
+> Gm devs!! 
+>
+> Read this thread and bid goodbye to all your price feed contract bugs.
+>
+> This thread will be focused on the Chainlink oracles and how to deal with them, since they are one of the most popular choices.
+>
+> Grab some popcorn, this is gonna be fun.
+>
+> Time for my top 10 tips: [pic.x.com/X0LT0nMGZD]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/Fv2Kr6LWAAA4G2J.jpg — no alt text provided by author
+
+
+### Thread part 2 — @saxenism — 2023-05-11 12:10 UTC (2023-05-11 13:10 WAT)
+
+- URL: https://x.com/saxenism/status/1656632806485655554
+- Metrics (at fetch): bookmark 0, impression 549, like 4, quote 0, reply 1, retweet 0
+
+> 9. Just like your 3 AM motivation hits you &amp; you start pumping out pushups, point 8, might have motivated you to set up a backup oracle
+>
+> You might be tempted to use a backup TWAP oracle for low-liqudity tokens, right?
+>
+> Good, however, be aware of the risks: https://chainsecurity.com/oracle-manipulation-after-merge/
+
+**Links in post:** https://chainsecurity.com/oracle-manipulation-after-merge/
+
+
+### Thread part 3 — @saxenism — 2023-05-11 12:10 UTC (2023-05-11 13:10 WAT)
+
+- URL: https://x.com/saxenism/status/1656632809027428354
+- Metrics (at fetch): bookmark 1, impression 658, like 2, quote 0, reply 1, retweet 0
+
+> 10. Get out of your God-Complex sometimes and question your assumptions a bit. 
+>
+> I've lost count of how many times I've seen a bug being reported where the developer just assumed that whatever token they are dealing with can have a maximum of 18 tokens.
+>
+> The world is bigger, ser [pic.x.com/lYNFtv150P]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fv2IKVYX0AIblYu.jpg — no alt text provided by author
+
+
+### Thread part 4 — @saxenism — 2023-05-11 12:10 UTC (2023-05-11 13:10 WAT)
+
+- URL: https://x.com/saxenism/status/1656632824018116613
+- Metrics (at fetch): bookmark 0, impression 634, like 5, quote 0, reply 3, retweet 0
+
+> 11. I can think of a few more tips, like, 
+> &gt; Don't be lazy &amp; end up using BTC/USD feed for WBTC
+> &gt; Take care of precision when finding price of one asset in terms of another
+> &gt; &amp; so on
+>
+> But I'm tired now, gonna go sleep.
+>
+> Thank you for having stayed this far. Appreciate it. Bye [pic.x.com/QEZR6Kks6x]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/Fv2KxD7XwAEYNAt.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-11 · Post · To be very honest, I do not really like typing out:
+
+
+### Post — @saxenism — 2023-05-11 04:35 UTC (2023-05-11 05:35 WAT)
+
+- URL: https://x.com/saxenism/status/1656518280733917185
+- Metrics (at fetch): bookmark 0, impression 1000, like 7, quote 0, reply 2, retweet 0
+
+> To be very honest, I do not really like typing out:
+>
+> // @audit-ok 
+>
+> 😑
+
+
+---
+
+## 2023-05-08 · Thread · Basically, I want to judge whether hardcoding 1 WETh = 1 ETH could be an issue or not.
+
+
+### Post — @saxenism — 2023-05-08 13:27 UTC (2023-05-08 14:27 WAT)
+
+- URL: https://x.com/saxenism/status/1655565106124554242
+- Metrics (at fetch): bookmark 0, impression 4037, like 4, quote 1, reply 3, retweet 0
+
+> Basically, I want to judge whether hardcoding 1 WETh = 1 ETH could be an issue or not.
+>
+> Happy to hear your opinions and also open to see any precedents for this kind of *bug* being identified and acknowledged/fixed. https://t.co/q1DX8tQy95
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2023-05-08 13:23 UTC (2023-05-08 14:23 WAT)
+    
+    - URL: https://x.com/saxenism/status/1655563966880382977
+    - Metrics (at fetch): bookmark 0, impression 3827, like 3, quote 1, reply 1, retweet 0
+    
+    > Can someone tell me why was 1 WETH selling for 3.614ETH on 13th September 2018?
+    >
+    > What caused this wild fluctuation? [pic.x.com/GaxqOve9S7]
+    
+    **Media:**
+    - media `3_1655563956704927748` (details not returned by the API)
+    
+
+
+### Thread part 2 — @saxenism — 2023-05-09 00:38 UTC (2023-05-09 01:38 WAT)
+
+- URL: https://x.com/saxenism/status/1655733964835782659
+- Metrics (at fetch): bookmark 0, impression 181, like 0, quote 0, reply 2, retweet 0
+
+> @PaladinCharles Yes true, let me provide some more context.
+>
+> Is it really alright to assume 1 ETH = 1 WETH in `getTokenXPriceInY(uint256 amount, address tokenX, address tokenY)` ? 
+>
+> Bc for large amounts there will be non-negligible difference b/w how much ETH you'll get for 1 WETh
+
+
+### Thread part 3 — @saxenism — 2023-05-09 00:39 UTC (2023-05-09 01:39 WAT)
+
+- URL: https://x.com/saxenism/status/1655734291920220160
+- Metrics (at fetch): bookmark 0, impression 85, like 0, quote 0, reply 1, retweet 0
+
+> @PaladinCharles And on top of that, I wanted to know have there been any FUD in the market historically which made the prices of WETH even more incoherent for some reason.
+>
+> If that turns out to be true, this issue gets escalated from a Low to at least a Medium severity finding.
+
+
+---
+
+## 2023-05-08 · Post · Can someone tell me why was 1 WETH selling for 3.614ETH on 13th September 2018?
+
+
+### Post — @saxenism — 2023-05-08 13:23 UTC (2023-05-08 14:23 WAT)
+
+- URL: https://x.com/saxenism/status/1655563966880382977
+- Metrics (at fetch): bookmark 0, impression 3827, like 3, quote 1, reply 1, retweet 0
+
+> Can someone tell me why was 1 WETH selling for 3.614ETH on 13th September 2018?
+>
+> What caused this wild fluctuation? [pic.x.com/GaxqOve9S7]
+
+**Media:**
+- media `3_1655563956704927748` (details not returned by the API)
+
+
+---
+
+## 2023-05-07 · Post · Has there even been a protocol that went for an audit and did not have any bug identified or get any
+
+
+### Post — @saxenism — 2023-05-07 17:41 UTC (2023-05-07 18:41 WAT)
+
+- URL: https://x.com/saxenism/status/1655266682259255296
+- Metrics (at fetch): bookmark 2, impression 1376, like 9, quote 0, reply 3, retweet 1
+
+> Has there even been a protocol that went for an audit and did not have any bug identified or get any general safety enhancement comment on their price feed contract!?
+>
+> It's crazy, the number of things a Dev has to keep in mind to build a secure and robust price fetching mechanism
+
+
+---
+
+## 2023-05-05 · Post · While I consider it an absolute privilige to be contacted for and trusted with private audits, it st
+
+
+### Post — @saxenism — 2023-05-05 14:12 UTC (2023-05-05 15:12 WAT)
+
+- URL: https://x.com/saxenism/status/1654489261826080778
+- Metrics (at fetch): bookmark 1, impression 1031, like 10, quote 0, reply 2, retweet 0
+
+> While I consider it an absolute privilige to be contacted for and trusted with private audits, it still pains a little to not be to feel the rush of public audit contests because of it.
+>
+> I think moving forward, I'll reserve about a week for contests, just for the kicks...
+
+
+---
+
+## 2023-05-05 · Post · It's a pleasure talking to founders that genuinely care about the safety and well-being of their use
+
+
+### Post — @saxenism — 2023-05-05 04:17 UTC (2023-05-05 05:17 WAT)
+
+- URL: https://x.com/saxenism/status/1654339452029001730
+- Metrics (at fetch): bookmark 0, impression 758, like 5, quote 0, reply 0, retweet 0
+
+> It's a pleasure talking to founders that genuinely care about the safety and well-being of their users and protocol.
+>
+> I was a bit skeptical about their intention when I saw that they wanted *FakeTIK* to audit their contracts, but I am happy to have pulled them from the dark side
+
+
+---
+
+## 2023-05-04 · Post · Ohh and btw, this is the audit 🫡 [pic.x.com/kXf4T7L3Hu] https://twitter.com/saxenism/status/16541514
+
+
+### Post — @saxenism — 2023-05-04 15:51 UTC (2023-05-04 16:51 WAT)
+
+- URL: https://x.com/saxenism/status/1654151820711796737
+- Metrics (at fetch): bookmark 0, impression 6109, like 14, quote 1, reply 4, retweet 1
+
+> Ohh and btw, this is the audit 🫡 [pic.x.com/kXf4T7L3Hu] https://twitter.com/saxenism/status/1654151465185824768
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvS6RguakAAewwP.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/saxenism/status/1654151465185824768
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2023-05-04 15:50 UTC (2023-05-04 16:50 WAT)
+    
+    - URL: https://x.com/saxenism/status/1654151465185824768
+    - Metrics (at fetch): bookmark 1, impression 7177, like 7, quote 1, reply 2, retweet 0
+    
+    > This is a MASSIVE problem and it makes me sick to my stomach every time I see such a protocol. [pic.x.com/lZz6yOAPTt]
+    
+    **Media:**
+    - media `3_1654151143218642949` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-04 · Post · This is a MASSIVE problem and it makes me sick to my stomach every time I see such a protocol. [pic.
+
+
+### Post — @saxenism — 2023-05-04 15:50 UTC (2023-05-04 16:50 WAT)
+
+- URL: https://x.com/saxenism/status/1654151465185824768
+- Metrics (at fetch): bookmark 1, impression 7177, like 7, quote 1, reply 2, retweet 0
+
+> This is a MASSIVE problem and it makes me sick to my stomach every time I see such a protocol. [pic.x.com/lZz6yOAPTt]
+
+**Media:**
+- media `3_1654151143218642949` (details not returned by the API)
+
+
+---
+
+## 2023-05-04 · Post · Quick Solidity Trivia:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-05-04 05:11 UTC (2023-05-04 06:11 WAT)
+
+- URL: https://x.com/saxenism/status/1653990640911523843
+- Metrics (at fetch): bookmark 2, impression 5340, like 27, quote 0, reply 6, retweet 1
+
+> Quick Solidity Trivia:
+>
+> What boolean values would you get when you pass 1,2,3 and 4 to this function?
+>
+> And why? [pic.x.com/Cq1dBx5X8E]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvQneIQakAAUJJ8.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-02 · Post · Fren is looking for someone who can speak on zk or account abstraction.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2023-05-02 12:08 UTC (2023-05-02 13:08 WAT)
+
+- URL: https://x.com/saxenism/status/1653370807836618752
+- Metrics (at fetch): bookmark 0, impression 529, like 5, quote 0, reply 0, retweet 1
+
+> Fren is looking for someone who can speak on zk or account abstraction.
+>
+> Any leads are appreciated. https://twitter.com/aviral10x/status/1653350122653376512
+
+**Links in post:** https://twitter.com/aviral10x/status/1653350122653376512
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2273007428 — 2023-05-02 10:46 UTC (2023-05-02 11:46 WAT)
+    
+    - URL: https://x.com/2273007428/status/1653350122653376512
+    - Metrics (at fetch): bookmark 0, impression 2804, like 39, quote 3, reply 21, retweet 2
+    
+    > Planning to host a Twitter space on the latest updates around zk, account abstraction and smart contract wallets.
+    >
+    > Would you be interested in attending that and sharing your thoughts as well?
+    >
+    > Comment YES if you wanna be a part of it and I'll DM you the details🫡
+    
+
+
+---
+
+## 2023-05-02 · Post · There has been a huge raging debate about paid courses in web3 security and development in general r
+
+
+### Post — @saxenism — 2023-05-02 07:32 UTC (2023-05-02 08:32 WAT)
+
+- URL: https://x.com/saxenism/status/1653301444286758912
+- Metrics (at fetch): bookmark 3, impression 5499, like 17, quote 0, reply 8, retweet 1
+
+> There has been a huge raging debate about paid courses in web3 security and development in general right now.
+>
+> And surprisingly many people think that paid courses SHOULD NOT exist. This honestly blew my mind because it does not make sense to me.
+
+
+---
+
+## 2023-04-30 · Thread · Finally performed the auditoor voodoo magic.
+
+
+### Post — @saxenism — 2023-04-30 08:05 UTC (2023-04-30 09:05 WAT)
+
+- URL: https://x.com/saxenism/status/1652584885087793155
+- Metrics (at fetch): bookmark 0, impression 1934, like 24, quote 0, reply 2, retweet 0
+
+> Finally performed the auditoor voodoo magic.
+>
+> Strung together 2 lows, into a critical.
+>
+> Funds will remain stuck in the protocol :D
+>
+> Auditing codebases where it's evident that a lot of thought, care and precision has been put in, is always special.
+
+
+### Thread part 2 — @saxenism — 2023-04-30 08:09 UTC (2023-04-30 09:09 WAT)
+
+- URL: https://x.com/saxenism/status/1652586060189257730
+- Metrics (at fetch): bookmark 0, impression 253, like 1, quote 0, reply 0, retweet 0
+
+> I mean, I hope it's a critical vulnerability, because I haven't received confirmation about the severity from the protocol yet..
+
+
+---
+
+## 2023-04-05 · Thread · @real_philogy I realised this particular thing some time back.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-04-05 04:31 UTC (2023-04-05 05:31 WAT)
+
+- URL: https://x.com/saxenism/status/1643471333261713408
+- Metrics (at fetch): bookmark 0, impression 195, like 2, quote 0, reply 1, retweet 0
+
+> @real_philogy I realised this particular thing some time back.
+>
+> There are 2 aspects to it. 
+>
+> If your application uses web3 tech such as blockchains/IPFS etc you can call your app a web3 app. 
+>
+> This however doesn't mean that this web3 is a dapp, bc it can be centralised while using blockchains.
+
+
+### Thread part 2 — @saxenism — 2023-04-05 04:33 UTC (2023-04-05 05:33 WAT)
+
+- URL: https://x.com/saxenism/status/1643471861324582915
+- Metrics (at fetch): bookmark 0, impression 114, like 1, quote 0, reply 1, retweet 0
+
+> @real_philogy Maple finance is a good example.
+>
+> While it uses Solidity and industry leading smart contract testing standard, that protocol is in no way a decentralised protocol.
+>
+> You not only bear the smart contract risks in maple, but also the financial risks undertaken by your fund manager.
+
+
+---
+
+## 2023-04-04 · Post · I love forge scripts.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-04-04 06:06 UTC (2023-04-04 07:06 WAT)
+
+- URL: https://x.com/saxenism/status/1643132899414413312
+- Metrics (at fetch): bookmark 0, impression 473, like 7, quote 0, reply 0, retweet 0
+
+> I love forge scripts.
+>
+> It's so good, almost feels illegal to be able to do shit like that in good ol' Solidity.
+
+
+---
+
+## 2023-04-01 · Post · Any suggestions for the free week? Recommend any CTF, bounty, reading/writing some blog, C4/Sherlock
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK, Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @saxenism — 2023-04-01 15:10 UTC (2023-04-01 16:10 WAT)
+
+- URL: https://x.com/saxenism/status/1642182552101490688
+- Metrics (at fetch): bookmark 0, impression 1224, like 3, quote 0, reply 2, retweet 0
+
+> Any suggestions for the free week? Recommend any CTF, bounty, reading/writing some blog, C4/Sherlock, trying the new zkEVMs, or something else.
+>
+> I've got some free time on my hands now. https://twitter.com/saxenism/status/1642181857981915138
+
+**Links in post:** https://twitter.com/saxenism/status/1642181857981915138
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2023-04-01 15:07 UTC (2023-04-01 16:07 WAT)
+    
+    - URL: https://x.com/saxenism/status/1642181857981915138
+    - Metrics (at fetch): bookmark 0, impression 2315, like 13, quote 1, reply 2, retweet 0
+    
+    > Well, a few slots opened up unexpectedly in my calendar. If you're looking for an audit right now, DMs open.
+    >
+    > Now I understand why people take some sort of "advanced payment" from their clients.
+    >
+    > It's opportunity cost.
+    >
+    > You have to say no to someone to accomodate someone else.
+    
+
+
+---
+
+## 2023-04-01 · Post · Well, a few slots opened up unexpectedly in my calendar. If you're looking for an audit right now, D
+
+
+### Post — @saxenism — 2023-04-01 15:07 UTC (2023-04-01 16:07 WAT)
+
+- URL: https://x.com/saxenism/status/1642181857981915138
+- Metrics (at fetch): bookmark 0, impression 2315, like 13, quote 1, reply 2, retweet 0
+
+> Well, a few slots opened up unexpectedly in my calendar. If you're looking for an audit right now, DMs open.
+>
+> Now I understand why people take some sort of "advanced payment" from their clients.
+>
+> It's opportunity cost.
+>
+> You have to say no to someone to accomodate someone else.
+
+
+---
+
+## 2023-03-31 · Thread · @joranhonig GOLD
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @saxenism — 2023-03-31 13:19 UTC (2023-03-31 14:19 WAT)
+
+- URL: https://x.com/saxenism/status/1641792356235063302
+- Metrics (at fetch): bookmark 0, impression 275, like 2, quote 0, reply 1, retweet 0
+
+> @joranhonig GOLD
+
+
+### Thread part 2 — @saxenism — 2023-03-31 13:22 UTC (2023-03-31 14:22 WAT)
+
+- URL: https://x.com/saxenism/status/1641793019622899713
+- Metrics (at fetch): bookmark 0, impression 129, like 1, quote 0, reply 1, retweet 0
+
+> @joranhonig Personally for me, writing the reports is the part I dread the most!!
+>
+> Sometimes I feel like hiring someone just convert all my audit and audit-issue tags into a report.
+>
+> Now, I'll just use ChatGPT. Yayyyy :D
+
+
+---
+
+## 2023-03-29 · Thread · An important and quite dangerous heuristic that I just thought of, since I observed this in myself j
+
+
+### Post — @saxenism — 2023-03-29 11:19 UTC (2023-03-29 12:19 WAT)
+
+- URL: https://x.com/saxenism/status/1641037380055445504
+- Metrics (at fetch): bookmark 1, impression 974, like 15, quote 0, reply 1, retweet 0
+
+> An important and quite dangerous heuristic that I just thought of, since I observed this in myself just recently.
+>
+> The more bugs that I find in the protocol, the more complacent I keep on becoming while scanning the rest of the protocol.
+>
+> Probably, subconsciously I know that
+
+
+### Thread part 2 — @saxenism — 2023-03-29 11:19 UTC (2023-03-29 12:19 WAT)
+
+- URL: https://x.com/saxenism/status/1641037384157470721
+- Metrics (at fetch): bookmark 0, impression 108, like 2, quote 0, reply 2, retweet 0
+
+> having 4-5 high severity vulnerabilities in the audit report == a job well done.
+>
+> However it is an extremely slippery slope because the initial big bugs can make you blind to the more obvious bugs that you could have found later down in the protocol.
+
+
+---
+
+## 2023-03-29 · Post · I hope you are a better man than me and write better, more sensical audit notes in the codebase 🙏 [p
+
+
+### Post — @saxenism — 2023-03-29 06:35 UTC (2023-03-29 07:35 WAT)
+
+- URL: https://x.com/saxenism/status/1640965791179735041
+- Metrics (at fetch): bookmark 0, impression 1354, like 12, quote 0, reply 2, retweet 0
+
+> I hope you are a better man than me and write better, more sensical audit notes in the codebase 🙏 [pic.x.com/VAWQGpPwVC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsXhqFTXsAM6zVz.png — no alt text provided by author
+
+
+---
+
+## 2023-03-28 · Thread · Can any of my more knowledgeable and experimental friends explain to me, how is coding in Solidity o
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2023-03-28 20:25 UTC (2023-03-28 21:25 WAT)
+
+- URL: https://x.com/saxenism/status/1640812480091013120
+- Metrics (at fetch): bookmark 1, impression 3609, like 7, quote 1, reply 4, retweet 0
+
+> Can any of my more knowledgeable and experimental friends explain to me, how is coding in Solidity over @0xPolygonLabs ZkEVM different from coding in Noir or circom ?
+>
+> Feel free to ratio me if the question doesn't make sense. I'll come up with a refined question then.
+
+
+### Thread part 2 — @saxenism — 2023-03-29 05:36 UTC (2023-03-29 06:36 WAT)
+
+- URL: https://x.com/saxenism/status/1640951016773263360
+- Metrics (at fetch): bookmark 0, impression 110, like 1, quote 0, reply 2, retweet 0
+
+> @naruto11eth @high_byte @0xPolygonLabs Phuckk!!
+>
+> Now it makes sense.
+>
+> ZK proofs and ZKEVM are two different things.
+>
+> ZKEVMs using ZK proof for scaling/privacy and construction of zero knowledge proofs is something else itself, probably done in Noir/Circom.
+>
+> So, ZK proof construction happens off chain in zkEVM and ....
+
+
+### Thread part 3 — @saxenism — 2023-03-29 05:37 UTC (2023-03-29 06:37 WAT)
+
+- URL: https://x.com/saxenism/status/1640951283963117576
+- Metrics (at fetch): bookmark 0, impression 43, like 1, quote 0, reply 1, retweet 0
+
+> @naruto11eth @high_byte @0xPolygonLabs And on chain in languages like Noir/Circom.
+>
+> Whereas ZK proof verification happens off chain for both noir and zkEVMs?
+
+
+---
+
+## 2023-03-24 · Thread · @OpenZeppelin Ahh, and it also allows you to transfer 0 amount of tokens!!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-03-24 21:50 UTC (2023-03-24 22:50 WAT)
+
+- URL: https://x.com/saxenism/status/1639384219070656517
+- Metrics (at fetch): bookmark 0, impression 1197, like 9, quote 1, reply 3, retweet 0
+
+> @OpenZeppelin Ahh, and it also allows you to transfer 0 amount of tokens!!
+>
+> I think I get it now, it's the principle of putting in the least restrictions so that you can customize your ERC20 token as much as you want.
+>
+> Plus, ofc, gas saved.
+
+
+### Thread part 2 — @saxenism — 2023-03-24 23:38 UTC (2023-03-25 00:38 WAT)
+
+- URL: https://x.com/saxenism/status/1639411363725426691
+- Metrics (at fetch): bookmark 0, impression 689, like 2, quote 0, reply 1, retweet 0
+
+> In case I got your ERC20 juices going, also try and go through this concise yet impactful thread by @akshaysrivastv 
+>
+> https://x.com/akshaysrivastv/status/1639131600867950592?s=20
+
+**Links in post:** https://x.com/akshaysrivastv/status/1639131600867950592?s=20
+
+
+---
+
+## 2023-03-20 · Post · Stringing together a bunch of lows to create a critical vulnerability is an extremely underrated ski
+
+
+### Post — @saxenism — 2023-03-20 04:18 UTC (2023-03-20 05:18 WAT)
+
+- URL: https://x.com/saxenism/status/1637669817573310464
+- Metrics (at fetch): bookmark 0, impression 367, like 7, quote 0, reply 0, retweet 0
+
+> Stringing together a bunch of lows to create a critical vulnerability is an extremely underrated skill, fr fr
+
+
+---
+
+## 2023-03-11 · Post · 6 highs and 2 mediums.
+
+
+### Post — @saxenism — 2023-03-11 18:08 UTC (2023-03-11 19:08 WAT)
+
+- URL: https://x.com/saxenism/status/1634617322299092997
+- Metrics (at fetch): bookmark 7, impression 1161, like 12, quote 0, reply 2, retweet 0
+
+> 6 highs and 2 mediums.
+>
+> This one was a fun ride. Auditing with @__parthpatel__ was fun, as always.
+>
+> So glad that I get to make the web3 ecosystem secure as my job.
+>
+> Kudos to @Youdonate1 for being a responsible protocol and coming in for an audit.
+>
+> https://hackmd.io/blS51VwfQjqwUND3LXKxvQ
+
+**Links in post:** https://hackmd.io/blS51VwfQjqwUND3LXKxvQ
+
+
+---
+
+## 2023-03-05 · Post · Would you flag a **vulnerability** in your audit report where funds inside a contract can be drained
+
+
+### Post — @saxenism — 2023-03-05 17:56 UTC (2023-03-05 18:56 WAT)
+
+- URL: https://x.com/saxenism/status/1632439865706184705
+- Metrics (at fetch): bookmark 2, impression 3282, like 23, quote 0, reply 12, retweet 1
+
+> Would you flag a **vulnerability** in your audit report where funds inside a contract can be drained by re-entrancy but the function has an *onlyOwner* modifier?
+>
+> I mean, if the owner keys are compromised this could happen, but so could a lot of other things, right?
+>
+> Wdyt?
+
+
+---
+
+## 2023-03-05 · Post · This is a piece of genuine advice for all protocol owners out there.
+
+
+### Post — @saxenism — 2023-03-05 12:58 UTC (2023-03-05 13:58 WAT)
+
+- URL: https://x.com/saxenism/status/1632364850415562754
+- Metrics (at fetch): bookmark 1, impression 1401, like 20, quote 0, reply 2, retweet 0
+
+> This is a piece of genuine advice for all protocol owners out there.
+>
+> If you want to avoid getting embarrassing bugs in your audit report, please write some basic tests before turning your protocol in for an audit.
+>
+> Thank you :)
+
+
+---
+
+## 2023-02-18 · Post · Let's continue this forward.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-02-18 12:56 UTC (2023-02-18 13:56 WAT)
+
+- URL: https://x.com/saxenism/status/1626928733650296832
+- Metrics (at fetch): bookmark 0, impression 2810, like 25, quote 1, reply 3, retweet 1
+
+> Let's continue this forward.
+>
+> I am constantly blown away by the dedication of @devtooligan 
+>
+> Ser has an in depth knowledge of almost all facets of the (EVM) web3 domain &amp; is always enthusiastic about all new things coming out.
+>
+> Will be glad if I could be half as productive as him https://twitter.com/0xmonsoon/status/1626691584455761920
+
+**Links in post:** https://twitter.com/0xmonsoon/status/1626691584455761920
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1573656924994048001 — 2023-02-17 21:14 UTC (2023-02-17 22:14 WAT)
+    
+    - URL: https://x.com/1573656924994048001/status/1626691584455761920
+    - Metrics (at fetch): bookmark 0, impression 10295, like 23, quote 2, reply 3, retweet 1
+    
+    > just an appreciation tweet
+    >
+    > @pcaversaccio is a 🐐
+    >
+    > glad that i am able to learn things from him.
+    
+
+
+---
+
+## 2023-02-18 · Thread · @devtooligan That's tricky and highly contextual.
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @saxenism — 2023-02-18 07:02 UTC (2023-02-18 08:02 WAT)
+
+- URL: https://x.com/saxenism/status/1626839618439225344
+- Metrics (at fetch): bookmark 0, impression 155, like 1, quote 0, reply 1, retweet 0
+
+> @devtooligan That's tricky and highly contextual.
+>
+> Best case scenario would be that the CSuite agrees to delay the launch.
+>
+> And if not, I get my refund, and with that same money (or slightly more) I reach out to smaller audit firms plus as many (genuine) indie auditors to look at my code
+
+
+### Thread part 2 — @saxenism — 2023-02-18 07:07 UTC (2023-02-18 08:07 WAT)
+
+- URL: https://x.com/saxenism/status/1626840854790017024
+- Metrics (at fetch): bookmark 0, impression 218, like 1, quote 0, reply 1, retweet 0
+
+> @devtooligan And incentivise this team of auditors to prioritise my project by extra money, token allocation, a shout out or referrals.
+>
+> Should take 1 month ideally.
+>
+> Next, launch a bug bouty program for my protocol on @immunefi and launch protocol after it's been live for 1 month.
+
+
+### Thread part 3 — @saxenism — 2023-02-18 07:09 UTC (2023-02-18 08:09 WAT)
+
+- URL: https://x.com/saxenism/status/1626841368432877570
+- Metrics (at fetch): bookmark 0, impression 222, like 1, quote 0, reply 1, retweet 0
+
+> @devtooligan @immunefi Again I highly stress on the fact that even with all this, everyone would still be anxious if you do not have a really comprehensive testing suite that covers your protocol.
+>
+> Thorough testing is probably THE most critical yet under appreciated cornerstone of safe protocols.
+
+
+---
+
+## 2023-02-17 · Post · Is there a limit to the number of transactions that could be included in a transaction block on Ethe
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-02-17 09:36 UTC (2023-02-17 10:36 WAT)
+
+- URL: https://x.com/saxenism/status/1626515798046183424
+- Metrics (at fetch): bookmark 0, impression 1047, like 2, quote 0, reply 4, retweet 0
+
+> Is there a limit to the number of transactions that could be included in a transaction block on Ethereum or any EVM L2 for that matter?
+
+
+---
+
+## 2023-02-16 · Post · Was a pleasure strengthing the web3 ecosystem security with these chads 🙏🏻🚀 https://twitter.com/comp
+
+
+### Post — @saxenism — 2023-02-16 18:46 UTC (2023-02-16 19:46 WAT)
+
+- URL: https://x.com/saxenism/status/1626292049019551746
+- Metrics (at fetch): bookmark 0, impression 440, like 4, quote 0, reply 0, retweet 0
+
+> Was a pleasure strengthing the web3 ecosystem security with these chads 🙏🏻🚀 https://twitter.com/composable_sec/status/1626206914630586369
+
+**Links in post:** https://twitter.com/composable_sec/status/1626206914630586369
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1576607243990192132 — 2023-02-16 13:08 UTC (2023-02-16 14:08 WAT)
+    
+    - URL: https://x.com/1576607243990192132/status/1626206914630586369
+    - Metrics (at fetch): bookmark 2, impression 1070, like 5, quote 1, reply 0, retweet 0
+    
+    > We would like to thank everyone who contributed to building this standard, especially @deliriusz_eth, @LewellenMichael and @saxenism. 🙌
+    
+
+
+---
+
+## 2023-02-06 · Post · All of a sudden, I see a lot of discussions around EIP1967... Is it because of the recently conclude
+
+
+### Post — @saxenism — 2023-02-06 03:56 UTC (2023-02-06 04:56 WAT)
+
+- URL: https://x.com/saxenism/status/1622444052200460290
+- Metrics (at fetch): bookmark 0, impression 813, like 7, quote 0, reply 0, retweet 0
+
+> All of a sudden, I see a lot of discussions around EIP1967... Is it because of the recently concluded C4 audit of radicle drips?
+
+
+---
+
+## 2023-02-04 · Post · Idea for a chatGPT bot:
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @saxenism — 2023-02-04 13:51 UTC (2023-02-04 14:51 WAT)
+
+- URL: https://x.com/saxenism/status/1621869162976137217
+- Metrics (at fetch): bookmark 1, impression 532, like 4, quote 0, reply 0, retweet 0
+
+> Idea for a chatGPT bot:
+>
+> Hello bot, I want to do *xyz* stuff in my Solidity smart contract. Is this already covered in any EIP?
+
+
+---
+
+## 2023-01-08 · Post · Any Rust based (or any language) parser for Solidity smart contracts out there that I can build on t
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-01-08 09:06 UTC (2023-01-08 10:06 WAT)
+
+- URL: https://x.com/saxenism/status/1612012853657219072
+- Metrics (at fetch): bookmark 1, impression 968, like 4, quote 0, reply 2, retweet 0
+
+> Any Rust based (or any language) parser for Solidity smart contracts out there that I can build on top of?
+
+
+---
+
+## 2023-01-05 · Post · The kind of bugs you find via extensive testing are different than the one you find via audits.
+
+
+### Post — @saxenism — 2023-01-05 16:41 UTC (2023-01-05 17:41 WAT)
+
+- URL: https://x.com/saxenism/status/1611040150972432392
+- Metrics (at fetch): bookmark 0, impression 434, like 2, quote 0, reply 1, retweet 0
+
+> The kind of bugs you find via extensive testing are different than the one you find via audits.
+>
+> The audit-y bugs are ofc more important, but testing bugs should also be squashed.
+>
+> Do both, anon.
+
+
+---
+
+## 2023-01-04 · Post · What do you do when you want to generate a random number between a and b?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-01-04 14:13 UTC (2023-01-04 15:13 WAT)
+
+- URL: https://x.com/saxenism/status/1610640600763879424
+- Metrics (at fetch): bookmark 3, impression 903, like 5, quote 0, reply 4, retweet 0
+
+> What do you do when you want to generate a random number between a and b?
+>
+> Using Forge and Solidity, and taking advantage of the fuzz testing parameter property so far.
+
+
+---
+
+## 2023-01-02 · Thread · I'm starting to see why people like Rust.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2023-01-02 11:29 UTC (2023-01-02 12:29 WAT)
+
+- URL: https://x.com/saxenism/status/1609874564649193478
+- Metrics (at fetch): bookmark 3, impression 7864, like 56, quote 1, reply 5, retweet 3
+
+> I'm starting to see why people like Rust.
+>
+> I used to think Rust is just C++ with no real difference, and I don't know how to explain this but when you start writing code in Rust, you have this strange confidence in your code that it can face whatever the fuck you throw at it.
+
+
+### Thread part 2 — @saxenism — 2023-01-02 13:45 UTC (2023-01-02 14:45 WAT)
+
+- URL: https://x.com/saxenism/status/1609908770150449160
+- Metrics (at fetch): bookmark 0, impression 819, like 4, quote 0, reply 4, retweet 0
+
+> But, like, why does Rust support a ternary operator, and also why no postfix-increment operator?
+>
+> Is that some kinda security risk?
+
+
+### Thread part 3 — @saxenism — 2023-01-03 10:58 UTC (2023-01-03 11:58 WAT)
+
+- URL: https://x.com/saxenism/status/1610229064874463232
+- Metrics (at fetch): bookmark 0, impression 119, like 4, quote 0, reply 1, retweet 0
+
+> @Cryptonicle1 (minor) Things that also influenced my decision to learn Rust such as:
+> You can make sense of Solana contracts,
+> You can pick up the Sway lang much more easily,
+> You can pick up the Noir language much more easily,
+> Cairo too, starting from v1 seems to be heavily influenced by Rust
+
+
+### Thread part 4 — @saxenism — 2023-01-03 10:59 UTC (2023-01-03 11:59 WAT)
+
+- URL: https://x.com/saxenism/status/1610229471185096705
+- Metrics (at fetch): bookmark 0, impression 141, like 5, quote 0, reply 1, retweet 0
+
+> @Cryptonicle1 And not to mention, finally having the skillset to do a meaningful contribution to Foundry and/or the entire budding Rust &lt;&gt; EVM tooling ecosystem, including heimdall-rs.
+>
+> Also, I hear people like to make MEV bots in Rust. So yeah, there's that
+
+
+---
+
+## 2022-12-29 · Thread · Recently @joranhonig dropped some heavy smart contract auditing alpha on a podcast with @yAcademyDAO
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-12-29 17:13 UTC (2022-12-29 18:13 WAT)
+
+- URL: https://x.com/saxenism/status/1608511475580272644
+- Metrics (at fetch): bookmark 59, impression 10428, like 77, quote 2, reply 4, retweet 13
+
+> Recently @joranhonig dropped some heavy smart contract auditing alpha on a podcast with @yAcademyDAO. 
+>
+> Since I take notes anyway, thought I could share my takeaways from the session.
+>
+> A 🧵
+
+
+### Thread part 2 — @saxenism — 2022-12-29 17:13 UTC (2022-12-29 18:13 WAT)
+
+- URL: https://x.com/saxenism/status/1608511477874589698
+- Metrics (at fetch): bookmark 0, impression 603, like 5, quote 0, reply 1, retweet 0
+
+> 1. Topic of discussion: Where do I start with security (auditing and/or bug bounty)?
+>
+> 2. Pre-Audit process:
+>     + Scoping (Estimate time required for a full audit)
+>     + Making sure they have enough time
+
+
+### Thread part 3 — @saxenism — 2022-12-29 17:13 UTC (2022-12-29 18:13 WAT)
+
+- URL: https://x.com/saxenism/status/1608511485109768193
+- Metrics (at fetch): bookmark 0, impression 417, like 4, quote 0, reply 1, retweet 1
+
+> 5. The auditors do not go through line-by-line for all contracts, rather they:
+>     + See all contracts that exist
+>     + See which contracts handle &amp; hold value
+>     + How does the entire system fit together
+> Objective as stated earlier is to build a high-level model of the protocol
+
+
+### Thread part 4 — @saxenism — 2022-12-29 17:13 UTC (2022-12-29 18:13 WAT)
+
+- URL: https://x.com/saxenism/status/1608511487555014659
+- Metrics (at fetch): bookmark 1, impression 432, like 7, quote 0, reply 1, retweet 1
+
+> 6. Second one -&gt; Tools and Diagrams First. These auditors use tools like:
+>     + VSCode Visual Developer
+>     + Slither
+>     + Surya
+>     + Solidity-metrics
+
+
+### Thread part 5 — @saxenism — 2022-12-29 17:13 UTC (2022-12-29 18:13 WAT)
+
+- URL: https://x.com/saxenism/status/1608511504785235968
+- Metrics (at fetch): bookmark 0, impression 302, like 1, quote 0, reply 1, retweet 0
+
+> 16. The method to use the Natspecs is to understand in English, the intention behind a function and then see the reality of the function by going through the code.
+
+
+### Thread part 6 — @saxenism — 2022-12-29 17:13 UTC (2022-12-29 18:13 WAT)
+
+- URL: https://x.com/saxenism/status/1608511508753047554
+- Metrics (at fetch): bookmark 0, impression 301, like 1, quote 0, reply 1, retweet 0
+
+> 17. If the comparison of intention and reality reveals some divergence, you just found a bug :)
+
+
+### Thread part 7 — @saxenism — 2022-12-29 17:13 UTC (2022-12-29 18:13 WAT)
+
+- URL: https://x.com/saxenism/status/1608511511047327744
+- Metrics (at fetch): bookmark 0, impression 301, like 3, quote 0, reply 1, retweet 0
+
+> 18. Foundation for a good audit:
+>     + Build a good high-level mental model
+>     + Learning about the protocol from that model
+>     + Get to problem-solving
+
+
+### Thread part 8 — @saxenism — 2022-12-29 17:16 UTC (2022-12-29 18:16 WAT)
+
+- URL: https://x.com/saxenism/status/1608512183905976322
+- Metrics (at fetch): bookmark 0, impression 229, like 1, quote 0, reply 1, retweet 0
+
+> 30. This principle states that auditing does not stop at the end of the day and some degree of passive thinking is always involved. Think about a vulnerability becoming obvious to you during lunch, while taking a shower, or while taking a walk.
+
+
+### Thread part 9 — @saxenism — 2022-12-29 17:16 UTC (2022-12-29 18:16 WAT)
+
+- URL: https://x.com/saxenism/status/1608512186233782272
+- Metrics (at fetch): bookmark 0, impression 235, like 1, quote 0, reply 1, retweet 0
+
+> 31. Two critical conditions need to be met for this principle to be effective
+
+
+### Thread part 10 — @saxenism — 2022-12-29 17:16 UTC (2022-12-29 18:16 WAT)
+
+- URL: https://x.com/saxenism/status/1608512193313804289
+- Metrics (at fetch): bookmark 0, impression 119, like 1, quote 0, reply 1, retweet 0
+
+> 34. This is also a strong case *AGAINST* auditing multiple codebases at the same time because you are wasting your *top of mind* time if you do multiple audits.
+
+
+### Thread part 11 — @saxenism — 2022-12-29 17:16 UTC (2022-12-29 18:16 WAT)
+
+- URL: https://x.com/saxenism/status/1608512195545157632
+- Metrics (at fetch): bookmark 0, impression 129, like 1, quote 0, reply 1, retweet 0
+
+> 35. Now onto bounty hunting.
+
+
+### Thread part 12 — @saxenism — 2022-12-29 17:16 UTC (2022-12-29 18:16 WAT)
+
+- URL: https://x.com/saxenism/status/1608512197671673858
+- Metrics (at fetch): bookmark 0, impression 126, like 1, quote 0, reply 1, retweet 0
+
+> 36. Different objectives compared to auditing a codebase. Here, your objective is to optimize your time-to-revenue ratio and get as much bounty as you can within as less time as you can.
+
+
+### Thread part 13 — @saxenism — 2022-12-29 17:16 UTC (2022-12-29 18:16 WAT)
+
+- URL: https://x.com/saxenism/status/1608512199894659073
+- Metrics (at fetch): bookmark 0, impression 129, like 1, quote 0, reply 1, retweet 0
+
+> 37. Two main strategies for bounty hunting are: quick and high level or slow and deep level.
+
+
+---
+
+## 2022-12-19 · Post · Audited a friend's project.
+
+
+### Post — @saxenism — 2022-12-19 22:40 UTC (2022-12-19 23:40 WAT)
+
+- URL: https://x.com/saxenism/status/1604970045699809280
+- Metrics (at fetch): bookmark 1, impression 3934, like 21, quote 1, reply 2, retweet 0
+
+> Audited a friend's project.
+>
+> Found 1 high, 1 mid and 1 low level security vulnerability.
+>
+> Dunno if I should be happy with that or nahh
+
+
+---
+
+## 2022-12-15 · Post · Curious to know if a homoglyph attack is possible if I'm using a string literal as a key for a mappi
+
+
+### Post — @saxenism — 2022-12-15 21:54 UTC (2022-12-15 22:54 WAT)
+
+- URL: https://x.com/saxenism/status/1603508763499298816
+- Metrics (at fetch): bookmark 1, impression 488, like 3, quote 0, reply 1, retweet 0
+
+> Curious to know if a homoglyph attack is possible if I'm using a string literal as a key for a mapping.
+>
+> I don't think it would be possible, what about you?
+
+
+---
+
+## 2022-12-08 · Post · What do you think is the most mature ZK ecosystem to develop in right now? 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @saxenism — 2022-12-08 00:27 UTC (2022-12-08 01:27 WAT)
+
+- URL: https://x.com/saxenism/status/1600648326881460224
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 4, retweet 0
+
+> What do you think is the most mature ZK ecosystem to develop in right now? 
+>
+> Starknet? Aztec? Aleo? some zkEVM solution(s) or something else altogether?
+
+
+---
+
+## 2022-12-08 · Post · The world would be a better place if projects decided to write their contracts with the TDD methodol
+
+
+### Post — @saxenism — 2022-12-08 00:06 UTC (2022-12-08 01:06 WAT)
+
+- URL: https://x.com/saxenism/status/1600642921363300352
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 2, retweet 0
+
+> The world would be a better place if projects decided to write their contracts with the TDD methodology.
+>
+> A protocol that was built using TDD, even if unaudited, would be much safer than most protocols out there.
+>
+> This is basically a continuous protocol security solution :P
+
+
+---
+
+## 2022-12-06 · Post · An A-Z audit is exhausting. Seriously. Gonna go gorge some Biryani now.
+
+
+### Post — @saxenism — 2022-12-06 22:55 UTC (2022-12-06 23:55 WAT)
+
+- URL: https://x.com/saxenism/status/1600262723622694912
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> An A-Z audit is exhausting. Seriously. Gonna go gorge some Biryani now.
+>
+> Indian Restaurants, where you at?
+
+
+---
+
+## 2022-11-28 · Post · Why do you think function types are not as commonly used as other Solidity programming paradigms?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-11-28 16:10 UTC (2022-11-28 17:10 WAT)
+
+- URL: https://x.com/saxenism/status/1597261754894991361
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Why do you think function types are not as commonly used as other Solidity programming paradigms?
+>
+> Is it harder to understand? Counter intuitive? a potential footgun or just unnecessary overhead? or something else entirely?
+>
+> Curious to know your take...
+>
+> https://docs.soliditylang.org/en/latest/types.html#function-types
+
+**Links in post:** https://docs.soliditylang.org/en/latest/types.html#function-types
+
+
+---
+
+## 2022-11-28 · Post · As a solidity dev/auditor a large part is going through the code base and taking notes of your infer
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-11-28 15:46 UTC (2022-11-28 16:46 WAT)
+
+- URL: https://x.com/saxenism/status/1597255541117833216
+- Metrics (at fetch): bookmark 5, impression 0, like 23, quote 0, reply 4, retweet 0
+
+> As a solidity dev/auditor a large part is going through the code base and taking notes of your inferences and understanding.
+>
+> I use @hackmdio for this and love it.
+>
+> Curious to know what do you guys use!? 
+>
+> Also, isn't there any way for spell checking in hackmd?
+
+
+---
+
+## 2022-11-21 · Thread · Was going through the awesome @bankless newsletter where I came across a protocol, I really liked.
+
+
+### Post — @saxenism — 2022-11-21 03:33 UTC (2022-11-21 04:33 WAT)
+
+- URL: https://x.com/saxenism/status/1594534476888932352
+- Metrics (at fetch): bookmark 3, impression 0, like 13, quote 0, reply 3, retweet 0
+
+> Was going through the awesome @bankless newsletter where I came across a protocol, I really liked.
+>
+> So I started going through its codebase, noting stuff that can be optimised or can become a problem going forward.
+
+
+### Thread part 2 — @saxenism — 2022-11-21 03:33 UTC (2022-11-21 04:33 WAT)
+
+- URL: https://x.com/saxenism/status/1594534480458313728
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 2, retweet 0
+
+> Then after doing a free audit for them (cries internally 😭😭), I realised that the code wasn't terrible, it was better than most codebases out there..
+>
+> But why TF are there no tests!?!?
+>
+> We are in the beta bro... There's no time constraints whatsoever... Write some tests ffs!!
+
+
+---
+
+## 2022-11-15 · Post · Found my first CRITICAL VULNERABILITY!!!
+
+
+### Post — @saxenism — 2022-11-15 09:01 UTC (2022-11-15 10:01 WAT)
+
+- URL: https://x.com/saxenism/status/1592442533875159040
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 4, retweet 0
+
+> Found my first CRITICAL VULNERABILITY!!!
+>
+> ME SO HEPPYYYY [pic.x.com/SqWTmYir2f]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/Fhl-Cf6agAAxxpx.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-11 · Post · Quick question for you anon.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-11-11 03:54 UTC (2022-11-11 04:54 WAT)
+
+- URL: https://x.com/saxenism/status/1590915796976668672
+- Metrics (at fetch): bookmark 2, impression 0, like 12, quote 1, reply 2, retweet 2
+
+> Quick question for you anon.
+>
+> What is the difference between:
+> 1. pragma solidity ^0.8.12;
+> &amp;
+> 2. pragma solidity &gt;=0.8.12;
+>
+> First one to answer correctly wins 1 testnet ETH 🫡
+
+
+---
+
+## 2022-11-07 · Post · Me is back!! 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-11-07 12:46 UTC (2022-11-07 13:46 WAT)
+
+- URL: https://x.com/saxenism/status/1589600250305871872
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 5, retweet 0
+
+> Me is back!! 
+>
+> Really missed all my fellow EVM chads...
+>
+> Lessss gooooo 🚀🚀
+
+
+---
+
+## 2022-10-25 · Post · For me, a hack to *not* hate Javascript is saying no to syntactic sugar and writing the logic in a m
+
+
+### Post — @saxenism — 2022-10-25 11:01 UTC (2022-10-25 12:01 WAT)
+
+- URL: https://x.com/saxenism/status/1584862807631499266
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> For me, a hack to *not* hate Javascript is saying no to syntactic sugar and writing the logic in a much less javascript-y fashion
+
+
+---
+
+## 2022-10-20 · Post · I have a friend looking to hire a Solidity developer.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-10-20 13:09 UTC (2022-10-20 14:09 WAT)
+
+- URL: https://x.com/saxenism/status/1583082941155901440
+- Metrics (at fetch): bookmark 7, impression 0, like 111, quote 2, reply 18, retweet 48
+
+> I have a friend looking to hire a Solidity developer.
+>
+> If you're looking for a role, DMs open.
+>
+> RT for karma.
+
+
+---
+
+## 2022-10-19 · Post · The EVM does not discriminate between the *default value* 0 and a *user-defined* 0 value.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-10-19 05:41 UTC (2022-10-19 06:41 WAT)
+
+- URL: https://x.com/saxenism/status/1582607728232390656
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 3, retweet 0
+
+> The EVM does not discriminate between the *default value* 0 and a *user-defined* 0 value.
+>
+> What are the scenarios (if any) where this could become a problem?
+
+
+---
+
+## 2022-10-16 · Post · Another *hack^ that could have been prevented by implementing a proper testing suite for the protoco
+
+
+### Post — @saxenism — 2022-10-16 22:05 UTC (2022-10-16 23:05 WAT)
+
+- URL: https://x.com/saxenism/status/1581768214966464512
+- Metrics (at fetch): bookmark 2, impression 0, like 12, quote 0, reply 1, retweet 0
+
+> Another *hack^ that could have been prevented by implementing a proper testing suite for the protocol before launching it to mainnet.
+>
+> Becoming almost embarrassing at this moment. https://twitter.com/0xQuit/status/1581004494283816960
+
+**Links in post:** https://twitter.com/0xQuit/status/1581004494283816960
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2573380344 — 2022-10-14 19:30 UTC (2022-10-14 20:30 WAT)
+    
+    - URL: https://x.com/2573380344/status/1581004494283816960
+    - Metrics (at fetch): bookmark 258, impression 0, like 1101, quote 72, reply 93, retweet 341
+    
+    > An hour ago, a member of my discord pinged me asking for help - an item they minted was just sold, and not by them! A bit of digging shows that this wasn't a hack.
+    >
+    > Yacchi minted Mortiverse #1497, but 0x26F listed it for sale. It was never transferred in between. How?
+    >
+    > 1/🧵 [pic.x.com/ttzsd8093H]
+    
+    **Media:**
+    - media `3_1581004491540660224` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-13 · Post · Thanks to this thread, I found a couple of more gems that I had been missing out on 🔥🔥 https://twitt
+
+
+### Post — @saxenism — 2022-10-13 07:51 UTC (2022-10-13 08:51 WAT)
+
+- URL: https://x.com/saxenism/status/1580466195274211334
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> Thanks to this thread, I found a couple of more gems that I had been missing out on 🔥🔥 https://twitter.com/ltsCuzzo/status/1580451772568829954
+
+**Links in post:** https://twitter.com/ltsCuzzo/status/1580451772568829954
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1434328694210772999 — 2022-10-13 06:54 UTC (2022-10-13 07:54 WAT)
+    
+    - URL: https://x.com/1434328694210772999/status/1580451772568829954
+    - Metrics (at fetch): bookmark 84, impression 0, like 115, quote 3, reply 5, retweet 15
+    
+    > 🧵 Finally making this thread.
+    >
+    > Getting into Web3 development can be hard, you might not even know where to begin.
+    >
+    > Here are 10 devs/extremely talented individuals within the space that will inspire you to learn more...
+    >
+    > (in no particular order)
+    
+
+
+---
+
+## 2022-10-12 · Post · This is just nitpicking.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-10-12 21:22 UTC (2022-10-12 22:22 WAT)
+
+- URL: https://x.com/saxenism/status/1580307950966407168
+- Metrics (at fetch): bookmark 2, impression 0, like 14, quote 0, reply 2, retweet 0
+
+> This is just nitpicking.
+>
+> But Foundry (Forge) assumes that whatever EVM compatible chain I'm deploying to, has the native token as ETH, which is not always the case.
+>
+> So, a simple feature request is to check which network i'm deploying to and use their token in calculations? [pic.x.com/xb64niO8QF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fe5hsGZUYAA0kCh.png — no alt text provided by author
+
+
+---
+
+## 2022-10-12 · Post · Just wrote a few non-trivial deployment scripts in Solidity and I'd take this opportunity to re-decl
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-10-12 18:37 UTC (2022-10-12 19:37 WAT)
+
+- URL: https://x.com/saxenism/status/1580266533770518528
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 4, retweet 1
+
+> Just wrote a few non-trivial deployment scripts in Solidity and I'd take this opportunity to re-declare that I'm a Foundry simp 😍😍
+
+
+---
+
+## 2022-10-05 · Post · @g0xbt contributions.
+
+
+Tags (automatic): Mobile / Android / iOS, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-10-05 18:01 UTC (2022-10-05 19:01 WAT)
+
+- URL: https://x.com/saxenism/status/1577720677552906243
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> @g0xbt contributions.
+>
+> Then ofc go and follow the absolute unhinged EVM maximalists of the space.
+>
+> That's your best bet
+>
+> And also throw your iPhone in a river and buy an Android, you'll have more happiness in your life.
+>
+> DM me with specific questions anytime after this
+>
+> All the best
+
+
+---
+
+## 2022-10-05 · Post · @g0xbt And especially division takes place.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-10-05 17:59 UTC (2022-10-05 18:59 WAT)
+
+- URL: https://x.com/saxenism/status/1577720084696481793
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> @g0xbt And especially division takes place.
+>
+> Learn to implement for/while loops with only recursions
+>
+> Basically fall in love with low level programming
+>
+> Then you'll see endless possibilities with a quasi turning complete wonder that is the EVM
+>
+> It's a beautiful world and it is open to
+
+
+---
+
+## 2022-10-05 · Reply · @g0xbt If you are in college take the compiler design class also the analog electronics class.
+
+
+### Post — @saxenism — 2022-10-05 17:57 UTC (2022-10-05 18:57 WAT)
+
+- URL: https://x.com/saxenism/status/1577719682877882368
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 2, retweet 1
+
+> @g0xbt If you are in college take the compiler design class also the analog electronics class.
+>
+> They'll teach you some Intel 8085/6 bullshit which even your granny will call ancient,but study that.
+>
+> However if you are out of college, learn how dafaq addition, subtraction, multiplication
+
+
+---
+
+## 2022-10-05 · Post · Two that I have in mind is reading about principal protected yield protocols and the other is relate
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2022-10-05 17:53 UTC (2022-10-05 18:53 WAT)
+
+- URL: https://x.com/saxenism/status/1577718694746017792
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Two that I have in mind is reading about principal protected yield protocols and the other is related to Cairo (or ZK if push comes to shove)
+
+
+---
+
+## 2022-10-05 · Post · Gib suggestions
+
+
+### Post — @saxenism — 2022-10-05 17:52 UTC (2022-10-05 18:52 WAT)
+
+- URL: https://x.com/saxenism/status/1577718375958007808
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Gib suggestions
+
+
+---
+
+## 2022-09-29 · Post · Hey anon, are you a Solidity developer and want to become a developoor ?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-09-29 19:46 UTC (2022-09-29 20:46 WAT)
+
+- URL: https://x.com/saxenism/status/1575572840312541184
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 0
+
+> Hey anon, are you a Solidity developer and want to become a developoor ?
+>
+> Then stop being a lil' bitch and start chaining your function calls like the chad you were always meant to be.
+>
+> Rooting for you king 👑
+
+
+---
+
+## 2022-09-29 · Post · Either I'm really stupid or working with strings in Solidity is a complete disaster, especially on o
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-09-29 19:22 UTC (2022-09-29 20:22 WAT)
+
+- URL: https://x.com/saxenism/status/1575566785293668352
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Either I'm really stupid or working with strings in Solidity is a complete disaster, especially on older compiler versions &amp; where you need to deal with the individual characters of the string.
+>
+> God save me 🙇‍♂️
+
+
+---
+
+## 2022-09-29 · Post · What's the best implementation for finding logarithms (base2) on-chain right now?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-09-29 06:13 UTC (2022-09-29 07:13 WAT)
+
+- URL: https://x.com/saxenism/status/1575368268423962624
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> What's the best implementation for finding logarithms (base2) on-chain right now?
+
+
+---
+
+## 2022-09-27 · Post · Hello fellow Solidity dev,
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-09-27 10:12 UTC (2022-09-27 11:12 WAT)
+
+- URL: https://x.com/saxenism/status/1574703441124859904
+- Metrics (at fetch): bookmark 6, impression 0, like 43, quote 0, reply 3, retweet 3
+
+> Hello fellow Solidity dev,
+>
+> This is your weekly reminder that you can pass functions themselves as parameters to other functions.
+>
+> This will save you from all the boolean and subsequent if-else shenanigans.
+>
+> Thank you :)
+
+
+---
+
+## 2022-09-23 · Post · Dives down the ZK rabbit hole, become a Cairo enjoyooor, see that the @stark_con coming to Delhi, be
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2022-09-23 09:21 UTC (2022-09-23 10:21 WAT)
+
+- URL: https://x.com/saxenism/status/1573241151599312896
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> Dives down the ZK rabbit hole, become a Cairo enjoyooor, see that the @stark_con coming to Delhi, become excited, go to registration page, realise it's an invite-only event for IIT-Delhi kids only, become sad, jump off a cliff.
+>
+> Maximum Pain 🥲
+
+
+---
+
+## 2022-09-12 · Post · This was fun.
+
+
+Tags (automatic): ZK, TEE / enclave
+
+
+### Post — @saxenism — 2022-09-12 17:54 UTC (2022-09-12 18:54 WAT)
+
+- URL: https://x.com/saxenism/status/1569384010572517376
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> This was fun.
+>
+> Thanks for the exercise, @HenriLieutaud 
+>
+> Also, now I want a @StarkWareLabs tee 😤 https://t.co/Qqfx8bfXQ5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FceRyzzaIAEV4rp.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-06 · Post · Who would you add to this list of EVM chads?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-09-06 17:39 UTC (2022-09-06 18:39 WAT)
+
+- URL: https://x.com/saxenism/status/1567205811600097281
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Who would you add to this list of EVM chads?
+>
+> Ignore the last line :P https://t.co/gs5fOcDNuG
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2022-09-06 17:38 UTC (2022-09-06 18:38 WAT)
+    
+    - URL: https://x.com/saxenism/status/1567205635569364993
+    - Metrics (at fetch): bookmark 5, impression 0, like 20, quote 1, reply 6, retweet 0
+    
+    > @BeckerrJon @transmissions11 
+    > @0xSolitude 
+    > @alexberegszaszi 
+    > @chfast 
+    > @Cryptonicle1 
+    > @fiveoutofnine 
+    > @jtriley_eth 
+    > @ltsCuzzo 
+    > @pcaversaccio 
+    > @Maddiaa0 
+    > @the_nvn 
+    > @obatirou 
+    > @DistStateAndMe 
+    > @0xasp_ 
+    > @optimizoor 
+    > @alpeh_v 
+    > @9dd4134 
+    > @exp_table 
+    > @d1ll0nk 
+    >
+    > You can also include me. Tee he :P
+    
+
+
+---
+
+## 2022-09-06 · Reply · @BeckerrJon @transmissions11 
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @saxenism — 2022-09-06 17:38 UTC (2022-09-06 18:38 WAT)
+
+- URL: https://x.com/saxenism/status/1567205635569364993
+- Metrics (at fetch): bookmark 5, impression 0, like 20, quote 1, reply 6, retweet 0
+
+> @BeckerrJon @transmissions11 
+> @0xSolitude 
+> @alexberegszaszi 
+> @chfast 
+> @Cryptonicle1 
+> @fiveoutofnine 
+> @jtriley_eth 
+> @ltsCuzzo 
+> @pcaversaccio 
+> @Maddiaa0 
+> @the_nvn 
+> @obatirou 
+> @DistStateAndMe 
+> @0xasp_ 
+> @optimizoor 
+> @alpeh_v 
+> @9dd4134 
+> @exp_table 
+> @d1ll0nk 
+>
+> You can also include me. Tee he :P
+
+
+---
+
+## 2022-09-06 · Post · Seeing factual errors in blogs about slightly advanced Solidity concepts, by pretty famous authors.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-09-06 17:14 UTC (2022-09-06 18:14 WAT)
+
+- URL: https://x.com/saxenism/status/1567199569901125632
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Seeing factual errors in blogs about slightly advanced Solidity concepts, by pretty famous authors.
+>
+> DO NOT trust everything you read, anon.
+>
+> Verify everything.
+>
+> @EthereumRemix is your friend.
+
+
+---
+
+## 2022-09-06 · Post · I was deadass thinking a lot of my EVM frenz were legit PotterHeads...
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-09-06 02:48 UTC (2022-09-06 03:48 WAT)
+
+- URL: https://x.com/saxenism/status/1566981631591981056
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> I was deadass thinking a lot of my EVM frenz were legit PotterHeads...
+>
+> But turns out Bellatrix is the name of the next EVM client upgrade ☠️
+
+
+---
+
+## 2022-09-05 · Post · What is the convention you follow regarding the underscore `_` character in your Solidity code?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-09-05 13:37 UTC (2022-09-05 14:37 WAT)
+
+- URL: https://x.com/saxenism/status/1566782587020128257
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 3, retweet 0
+
+> What is the convention you follow regarding the underscore `_` character in your Solidity code?
+
+
+---
+
+## 2022-09-03 · Post · What's the equivalent of @SolriseFinance on Ethereum or basically any EVM chain?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-09-03 03:42 UTC (2022-09-03 04:42 WAT)
+
+- URL: https://x.com/saxenism/status/1565908150544658432
+- Metrics (at fetch): bookmark 2, impression 0, like 3, quote 0, reply 2, retweet 0
+
+> What's the equivalent of @SolriseFinance on Ethereum or basically any EVM chain?
+>
+> Absolutely love this protocol.. want to see what others have done with this!!
+
+
+---
+
+## 2022-09-02 · Post · Me like modern Solidity. Modern Solidity good. https://t.co/25va6EBZGv
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-09-02 06:25 UTC (2022-09-02 07:25 WAT)
+
+- URL: https://x.com/saxenism/status/1565586609625792513
+- Metrics (at fetch): bookmark 2, impression 0, like 9, quote 0, reply 7, retweet 1
+
+> Me like modern Solidity. Modern Solidity good. https://t.co/25va6EBZGv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FboUongagAA6QA5.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-02 · Post · EVM Trivia: Part 2
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-09-02 04:14 UTC (2022-09-02 05:14 WAT)
+
+- URL: https://x.com/saxenism/status/1565553805550571520
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> EVM Trivia: Part 2
+>
+> Is the EVM expression stack (one where we push and pop all kinds of opcode) the only stack that is used for the complete functioning of the EVM or is/are there some more stack(s)?
+>
+> Let me know what you think ;)
+
+
+---
+
+## 2022-09-01 · Post · What are the main arguments against a register based vm?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-09-01 09:00 UTC (2022-09-01 10:00 WAT)
+
+- URL: https://x.com/saxenism/status/1565263385448816641
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> What are the main arguments against a register based vm?
+>
+> I think life would have been much simpler if we went with registers instead of a stack based vm as choice of design for the EVM....
+>
+> Have some articles/resources to help me understand why I'm wrong?
+
+
+---
+
+## 2022-08-29 · Post · Yo @JeanCavallera, was going through one of your awesome articles: https://t.co/U68KHz9qfM
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-08-29 17:40 UTC (2022-08-29 18:40 WAT)
+
+- URL: https://x.com/saxenism/status/1564306992977813504
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 2, retweet 0
+
+> Yo @JeanCavallera, was going through one of your awesome articles: https://t.co/U68KHz9qfM
+>
+> And I think, that the abi encoded bytes of "Solidity" is not right here. I mean the second word should have had 8, but instead it's written 4.
+>
+> Looks like a typo, but lmk if i'm wrong. https://t.co/aujMk89HsF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FbWIv2sakAEg8wY.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-29 · Post · If I ever became a founder, I'll be handing out my team these exact laptops, so that they too love i
+
+
+### Post — @saxenism — 2022-08-29 06:24 UTC (2022-08-29 07:24 WAT)
+
+- URL: https://x.com/saxenism/status/1564136906992283649
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 0
+
+> If I ever became a founder, I'll be handing out my team these exact laptops, so that they too love it and work extra hours, just cause they wanted to use this particular laptop more and more....
+>
+> Legit capitalism hack🫡
+
+
+---
+
+## 2022-08-29 · Post · Just bought the M1 MacBook Pro.
+
+
+### Post — @saxenism — 2022-08-29 06:22 UTC (2022-08-29 07:22 WAT)
+
+- URL: https://x.com/saxenism/status/1564136457702637568
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 2, retweet 0
+
+> Just bought the M1 MacBook Pro.
+>
+> First impressions, well, technically, after 48 hours impression:
+>
+> Using this laptop is orgasmic.
+>
+> There are a few weird things here and there.
+>
+> But I'm in love with the sound quality and it's 16" screen.
+>
+> Worth every single penny bhai 😭😭😭😭😭
+
+
+---
+
+## 2022-08-27 · Post · If everyone who has a little more than a nascent understanding of the inner workings of the EVM, agr
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-08-27 07:02 UTC (2022-08-27 08:02 WAT)
+
+- URL: https://x.com/saxenism/status/1563421659398569984
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> If everyone who has a little more than a nascent understanding of the inner workings of the EVM, agrees on the fact that the EVM has some questionable design/implementation choices, then why don't we talk a bit more about the FuelVM from @fuellabs_
+
+
+---
+
+## 2022-08-26 · Post · the possibility, the PoC of a better world, one where things are more just and power is never too ce
+
+
+### Post — @saxenism — 2022-08-26 15:01 UTC (2022-08-26 16:01 WAT)
+
+- URL: https://x.com/saxenism/status/1563179881781166081
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> the possibility, the PoC of a better world, one where things are more just and power is never too centralised.
+>
+> Even if our experiment fails, I'll be happy because I met everyone in the space talking about a better decentralised future.
+>
+> So let's aim to leave a legacy behind
+>
+> 2/4
+
+
+---
+
+## 2022-08-26 · Post · Let's be real.
+
+
+### Post — @saxenism — 2022-08-26 15:01 UTC (2022-08-26 16:01 WAT)
+
+- URL: https://x.com/saxenism/status/1563179878698332160
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 1, retweet 1
+
+> Let's be real.
+>
+> Web3 is a giant experiment.
+>
+> And as history has told us over time, nothing is too big to fail, there is a decent chance that our experiment might fail.
+>
+> But I'll always be proud of the work I did here &amp; the work that my frenz did to propagate the idea, 
+>
+> 1/4
+
+
+---
+
+## 2022-08-26 · Post · It's difficult to survive at the highest levels if you do not understand things like 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-08-26 07:25 UTC (2022-08-26 08:25 WAT)
+
+- URL: https://x.com/saxenism/status/1563064986699976707
+- Metrics (at fetch): bookmark 1, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> It's difficult to survive at the highest levels if you do not understand things like 
+> Kernighan's
+> Toggling
+> Swapping
+> Masking
+> All Subsets
+> Gray code
+>
+> Did all this stuff back in the day, when i was trying my hand at codeforces.
+>
+> Solidity Chads forcing me to pick this up again, fr fr
+
+
+---
+
+## 2022-08-23 · Post · The day I tweet this, the very next day i come across a thread explaining the exact mechanism ELI5
+
+
+### Post — @saxenism — 2022-08-23 14:26 UTC (2022-08-23 15:26 WAT)
+
+- URL: https://x.com/saxenism/status/1562083843242598401
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> The day I tweet this, the very next day i come across a thread explaining the exact mechanism ELI5
+>
+> The Twitter Gods are bountiful. Fr fr
+>
+> https://t.co/nJASJNGgvW https://t.co/iwEFjmjqjZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2022-08-22 18:51 UTC (2022-08-22 19:51 WAT)
+    
+    - URL: https://x.com/saxenism/status/1561788209105104896
+    - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 0, retweet 0
+    
+    > Each and everything related to bytes is messy...
+    >
+    > Atleast on the surface it is messy, need to dig in a bit more deep to make sense of things..
+    >
+    > And also Strings.. hmm, strings and variable sized byte array are identical, right?
+    >
+    > Point me to a good resource explaining bytes n all
+    
+
+
+---
+
+## 2022-08-22 · Post · Each and everything related to bytes is messy...
+
+
+### Post — @saxenism — 2022-08-22 18:51 UTC (2022-08-22 19:51 WAT)
+
+- URL: https://x.com/saxenism/status/1561788209105104896
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 0, retweet 0
+
+> Each and everything related to bytes is messy...
+>
+> Atleast on the surface it is messy, need to dig in a bit more deep to make sense of things..
+>
+> And also Strings.. hmm, strings and variable sized byte array are identical, right?
+>
+> Point me to a good resource explaining bytes n all
+
+
+---
+
+## 2022-08-22 · Post · I've a very talented junior looking for a part-time/full-time role as a full stack Solidity dev.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-08-22 16:50 UTC (2022-08-22 17:50 WAT)
+
+- URL: https://x.com/saxenism/status/1561757742343208960
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 2
+
+> I've a very talented junior looking for a part-time/full-time role as a full stack Solidity dev.
+>
+> I've personally mentored him and can vouch for his skills.
+>
+> Hmu if you're looking for one.
+>
+> RT for karma and all.. theek hai?
+
+
+---
+
+## 2022-08-22 · Post · The biggest problem with pitching security/testing tools is convincing them that they need it in the
+
+
+### Post — @saxenism — 2022-08-22 14:25 UTC (2022-08-22 15:25 WAT)
+
+- URL: https://x.com/saxenism/status/1561721112865562624
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 2, retweet 0
+
+> The biggest problem with pitching security/testing tools is convincing them that they need it in the first place.
+>
+> It's like insurance. Premium money is wasted money until it is not.
+>
+> What's your best tip around this problem?
+
+
+---
+
+## 2022-08-22 · Post · Oh.. so you're a Solidity dev!?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-08-22 12:15 UTC (2022-08-22 13:15 WAT)
+
+- URL: https://x.com/saxenism/status/1561688570469171201
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 2, retweet 0
+
+> Oh.. so you're a Solidity dev!?
+>
+> Congratulations, your life is now limited to a room of dimensions 1024 x 256
+>
+> Jump all you want but, within this room 🫡
+
+
+---
+
+## 2022-08-22 · Post · Did I tell you that the Ethereum Engineering Group YT is THE most underrated EVM gem out there!?!?!?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-08-22 08:09 UTC (2022-08-22 09:09 WAT)
+
+- URL: https://x.com/saxenism/status/1561626562935795712
+- Metrics (at fetch): bookmark 3, impression 0, like 13, quote 0, reply 3, retweet 0
+
+> Did I tell you that the Ethereum Engineering Group YT is THE most underrated EVM gem out there!?!?!?
+
+
+---
+
+## 2022-08-22 · Post · If you understand how the EVM uses simple economics to solve the Halting problem... 🤌
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-08-22 06:22 UTC (2022-08-22 07:22 WAT)
+
+- URL: https://x.com/saxenism/status/1561599785597280257
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> If you understand how the EVM uses simple economics to solve the Halting problem... 🤌
+
+
+---
+
+## 2022-08-18 · Post · Why are all my Solidity frenzz liking fitness threads all of a sudden?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-08-18 09:24 UTC (2022-08-18 10:24 WAT)
+
+- URL: https://x.com/saxenism/status/1560196022952792064
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 2, retweet 0
+
+> Why are all my Solidity frenzz liking fitness threads all of a sudden?
+>
+> Is it a message from the Twitter Gods to go harder in the gym!?
+
+
+---
+
+## 2022-08-04 · Post · Maybe my internal operating system is a bit broken. But I can't really pick one thing and focus on i
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-08-04 12:49 UTC (2022-08-04 13:49 WAT)
+
+- URL: https://x.com/saxenism/status/1555174128411238400
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Maybe my internal operating system is a bit broken. But I can't really pick one thing and focus on it and do good work.
+>
+> I need at least two major things going on (in somewhat allied domains) and I produce my best work.
+>
+> Time to pick up some low level EVM stuff again
+
+
+---
+
+## 2022-08-04 · Post · Better way to learn about the EVM?!?!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-08-04 12:35 UTC (2022-08-04 13:35 WAT)
+
+- URL: https://x.com/saxenism/status/1555170448404492288
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Better way to learn about the EVM?!?!
+
+
+---
+
+## 2022-07-23 · Post · Ok. I know what is Yul, Huff, Solidity, Vyper, Cairo...
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-07-23 13:49 UTC (2022-07-23 14:49 WAT)
+
+- URL: https://x.com/saxenism/status/1550840477595082752
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Ok. I know what is Yul, Huff, Solidity, Vyper, Cairo...
+>
+> But what the fuck is a Move developer!?
+
+
+---
+
+## 2022-06-02 · Post · @manav24_ @avalancheavax @0xPolygon Cross chain hacks would be tricky.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-06-02 08:32 UTC (2022-06-02 09:32 WAT)
+
+- URL: https://x.com/saxenism/status/1532279030506229760
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @manav24_ @avalancheavax @0xPolygon Cross chain hacks would be tricky.
+> Take for example the wormhole exploit involving @solana x @ethereum 
+>
+> I can't really think of a way of insuring such an incident...
+>
+> Prolly we can start with disallowing bridges?
+>
+> Any inputs @MBLADIN ?
+
+
+---
+
+## 2022-05-28 · Post · Thought of creating something slightly more aesthetically pleasing than a darned Readme...
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-05-28 14:38 UTC (2022-05-28 15:38 WAT)
+
+- URL: https://x.com/saxenism/status/1530559114031427585
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 1, reply 0, retweet 0
+
+> Thought of creating something slightly more aesthetically pleasing than a darned Readme...
+>
+> So, here you go
+> https://saxenism.github.io/EVM-Varta/
+>
+> Oh, in case you didn't know, I'm a bit into EVM these days and this is where I'm organising what I learn.
+>
+> Namaste.
+
+**Links in post:** https://saxenism.github.io/EVM-Varta/
+
+
+---
+
+## 2022-05-22 · Thread · Hmm, let's create a thread of doubts, finding, peculiarities, interesting things that I come across 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2022-05-22 08:58 UTC (2022-05-22 09:58 WAT)
+
+- URL: https://x.com/saxenism/status/1528299362195222528
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> Hmm, let's create a thread of doubts, finding, peculiarities, interesting things that I come across while studying Solidity/EVM stuff.
+>
+> Prolly some gigabrain will come and shed some light of them someday.
+>
+> Meanwhile, collecting stuff here:
+> https://github.com/saxenism/YulYoga
+
+**Links in post:** https://github.com/saxenism/YulYoga
+
+
+### Thread part 2 — @saxenism — 2022-05-26 05:10 UTC (2022-05-26 06:10 WAT)
+
+- URL: https://x.com/saxenism/status/1529691385875808257
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> EVM recognises functions based on function selectors (first 4 bytes of the keccak of function name and params) and it is calculated in the EVM is as follows
+>
+> PS: There can be collisions in the function selectors of different functions (Inversebrah) :P
+>
+> https://x.com/saxenism/status/1529688462185893888?s=20&t=F48rdVPIFmMGP9O0YxCs5Q
+
+**Links in post:** https://x.com/saxenism/status/1529688462185893888?s=20&t=F48rdVPIFmMGP9O0YxCs5Q
+
+
+---
+
+## 2022-05-22 · Post · Bliss is finding something to focus on and dropping everything else.
+
+
+### Post — @saxenism — 2022-05-22 06:58 UTC (2022-05-22 07:58 WAT)
+
+- URL: https://x.com/saxenism/status/1528269023984893952
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> Bliss is finding something to focus on and dropping everything else.
+>
+> Makes you happy on a spiritual level ig
+
+
+---
+
+## 2022-05-21 · Post · My @code4rena warden frenzz... Hold.The.Line. https://twitter.com/JetJadeja/status/15277555816326184
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+### Post — @saxenism — 2022-05-21 09:07 UTC (2022-05-21 10:07 WAT)
+
+- URL: https://x.com/saxenism/status/1527939113944772608
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> My @code4rena warden frenzz... Hold.The.Line. https://twitter.com/JetJadeja/status/1527755581632618496
+
+**Links in post:** https://twitter.com/JetJadeja/status/1527755581632618496
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1332865426846466049 — 2022-05-20 20:58 UTC (2022-05-20 21:58 WAT)
+    
+    - URL: https://x.com/1332865426846466049/status/1527755581632618496
+    - Metrics (at fetch): bookmark 13, impression 0, like 85, quote 2, reply 0, retweet 5
+    
+    > Holy cow, this is one of, if not the greatest, Solidity repository I've ever seen
+    >
+    > good stuff @d1ll0nk @z0age @transmissions11 👏 https://twitter.com/opensea/status/1527705996549685248
+    
+    **Links in post:** https://twitter.com/opensea/status/1527705996549685248
+    
+    **Quoted post** 1527705996549685248: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-05-14 · Post · Heyo fam!!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-05-14 10:41 UTC (2022-05-14 11:41 WAT)
+
+- URL: https://x.com/saxenism/status/1525425969091477505
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Heyo fam!!
+>
+> Ok, so tell me what's the best resource you came across for learning Yul or Yul+!?
+>
+> Pretty comfy with Solidity now, want to step up my game a little!!
+>
+> @developer_dao 
+> @dabit3
+
+
+---
+
+## 2022-05-05 · Post · Hmm, just wondering if there's a non-recursive iterative implementation of Merkle Trees in Solidity?
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-05-05 15:20 UTC (2022-05-05 16:20 WAT)
+
+- URL: https://x.com/saxenism/status/1522234876967067648
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Hmm, just wondering if there's a non-recursive iterative implementation of Merkle Trees in Solidity? 
+>
+> Prolly might save some gas too.
+>
+> @qedk_ any clue?
+
+
+---
+
+## 2022-05-05 · Post · Ok, I just discovered two banger youtube channels:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-05-05 14:20 UTC (2022-05-05 15:20 WAT)
+
+- URL: https://x.com/saxenism/status/1522219630236176384
+- Metrics (at fetch): bookmark 4, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> Ok, I just discovered two banger youtube channels:
+> 1. Ethereum Engineering Group h/t @ConsenSys 
+> 2. Solidity Fridays h/t @LinumLabs 
+>
+> 100/10 recommended!!
+>
+> Ultimate Solidity dev alpha.
+
+
+---
+
+## 2022-05-03 · Post · Spent upwards of an hour trying to figure out a bug in my Solidity code which was throwing up a cryp
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-05-03 03:14 UTC (2022-05-03 04:14 WAT)
+
+- URL: https://x.com/saxenism/status/1521327345864687616
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Spent upwards of an hour trying to figure out a bug in my Solidity code which was throwing up a cryptic error message.
+>
+> Turns out I had put a space in between parameter types while calculating the function selector for making delegate calls.
+>
+> Going to jump off a cliff 🙂
+
+
+---
+
+## 2022-04-15 · Post · Yo @The3D_ , @eboadom , @andy_koz how can solidity devs get involved with @bgdlabs ??
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-04-15 03:24 UTC (2022-04-15 04:24 WAT)
+
+- URL: https://x.com/saxenism/status/1514806718240522240
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> Yo @The3D_ , @eboadom , @andy_koz how can solidity devs get involved with @bgdlabs ??
+
+
+---
+
+## 2022-04-14 · Post · Don't mean to shit on Hardhat at all...
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2022-04-14 18:43 UTC (2022-04-14 19:43 WAT)
+
+- URL: https://x.com/saxenism/status/1514675671980982272
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Don't mean to shit on Hardhat at all...
+>
+> But switching to a Solidity based testing framework, @dapptools and now Forge, has been an instant 10x in productivity
+
+
+---
+
+## 2022-04-13 · Post · Having been a part of several code audits, it has become clear to me that all audit firms are not eq
+
+
+### Post — @saxenism — 2022-04-13 01:55 UTC (2022-04-13 02:55 WAT)
+
+- URL: https://x.com/saxenism/status/1514059759468834818
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Having been a part of several code audits, it has become clear to me that all audit firms are not equal.
+>
+> Won't take names, but there is an extreme difference between the diligence of audits by different firms.
+>
+> Just like colleges, there are tiers of audit firms.
+>
+> Be careful.
+
+
+---
+
+## 2022-04-08 · Post · Even as a crypto native, i used to think that you had to be brain dead to buy *real estate* in a fuc
+
+
+### Post — @saxenism — 2022-04-08 08:20 UTC (2022-04-08 09:20 WAT)
+
+- URL: https://x.com/saxenism/status/1512344594696261633
+- Metrics (at fetch): bookmark 1, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Even as a crypto native, i used to think that you had to be brain dead to buy *real estate* in a fucking metaverse.
+>
+> But over the last few weeks, thinking rationally and with a little far sightedness, my views have changed dramatically.
+>
+> Prolly will boil it down in a thread soon.
+
+
+---
+
+## 2022-02-02 · Post · Brilliant write up. As always. 
+
+
+### Post — @saxenism — 2022-02-02 21:20 UTC (2022-02-02 22:20 WAT)
+
+- URL: https://x.com/saxenism/status/1488985777946066944
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Brilliant write up. As always. 
+>
+> In light of the massive wormhole hack, this puts things in perspective.
+>
+> I hope it'll be fine at the end. We are an industry that learns from their mistakes and moves ahead towards a more secure future, always. https://twitter.com/VitalikButerin/status/1479501366192132099
+
+**Links in post:** https://twitter.com/VitalikButerin/status/1479501366192132099
+
+**Quoted post (full text):**
+
+    #### Quoted post — @295218901 — 2022-01-07 17:13 UTC (2022-01-07 18:13 WAT)
+    
+    - URL: https://x.com/295218901/status/1479501366192132099
+    - Metrics (at fetch): bookmark 2445, impression 0, like 15329, quote 1510, reply 1546, retweet 3548
+    
+    > My argument for why the future will be *multi-chain*, but it will not be *cross-chain*: there are fundamental limits to the security of bridges that hop across multiple "zones of sovereignty". From https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/: [pic.x.com/tEYz8vb59b]
+    
+    **Media:**
+    - media `3_1479500980827926534` (details not returned by the API)
+    - media `3_1479500997210820614` (details not returned by the API)
+    
+    **Links in post:** https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/
+    
+
+
+---
+
+## 2021-11-21 · Thread · That transaction was worth 1 SOL 🤯🤯
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
+
+
+### Post — @saxenism — 2021-11-21 21:35 UTC (2021-11-21 22:35 WAT)
+
+- URL: https://x.com/saxenism/status/1462535217701277704
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> That transaction was worth 1 SOL 🤯🤯
+>
+> Am I gonna make it? [pic.x.com/tlsSn3CNnC]
+
+**Media:**
+- media `3_1462535214933032964` (details not returned by the API)
+
+
+### Thread part 2 — @saxenism — 2021-11-21 21:38 UTC (2021-11-21 22:38 WAT)
+
+- URL: https://x.com/saxenism/status/1462535882427142149
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Anyway, it's all thanks to @PaulRBerg 
+>
+> I used to bug him quite a bit on how to get started with Blockchain development, and one of the things he told me was to get my stackoverflow game up and always put out the knowledge for the benefit of the community.
+>
+> Thank you ser 🙇
+
+
+---
+
+## 2021-11-14 · Post · Any non-OG Solana program that's not written on Anchor is a bug bounty hunter's paradise 💰💰☠️
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-11-14 07:01 UTC (2021-11-14 08:01 WAT)
+
+- URL: https://x.com/saxenism/status/1459778453834592257
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Any non-OG Solana program that's not written on Anchor is a bug bounty hunter's paradise 💰💰☠️
+
+
+---
+
+## 2021-11-11 · Post · Yo!!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-11-11 16:50 UTC (2021-11-11 17:50 WAT)
+
+- URL: https://x.com/saxenism/status/1458839524318978061
+- Metrics (at fetch): bookmark 1, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> Yo!!
+> SOL Big brains, could you all point me towards resources detailing security issues (and secure coding practices) for Rust+Solana and on Anchor.
+>
+> @armaniferrante can you help me out here?
+
+
+---
+
+## 2021-11-10 · Post · OhkK!!!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-11-10 01:11 UTC (2021-11-10 02:11 WAT)
+
+- URL: https://x.com/saxenism/status/1458240947070726144
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> OhkK!!!
+> Not gonna lie, Anchor/Rust/Solana is difficult... But. now that I get a decent grasp of it, I just cannot get enough of Solana development.
+> Completely different from EVM based development!
+>
+> Next Solana hackathon, where you at!?
+
+
+---
+
+## 2021-09-18 · Post · Been doing some heavy reading on @solana fundamentals, cause writing programs is cool but knowing wh
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-09-18 03:30 UTC (2021-09-18 04:30 WAT)
+
+- URL: https://x.com/saxenism/status/1439069332596682756
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Been doing some heavy reading on @solana fundamentals, cause writing programs is cool but knowing what's under the hood is cooler. Will present my understandings in a Twitter thread. 
+>
+> But what I'd repeat again as a dev is, please don't bet against #Solana 
+>
+> God I love this space
+
+
+---
+
+## 2021-09-07 · Post · I'm open to discussions regarding the tokenomics and design decisions taken in this dApp.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-09-07 03:39 UTC (2021-09-07 04:39 WAT)
+
+- URL: https://x.com/saxenism/status/1435085374880055300
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> I'm open to discussions regarding the tokenomics and design decisions taken in this dApp.
+> Just tag me or hop in on my DMs 🤜🤛
+>
+> Or maybe, I think I'll write a twt thread explaining the tokenomics of Solana Roads and link our whitepaper with it 🤔 https://twitter.com/solana_india/status/1434866435210108934
+
+**Links in post:** https://twitter.com/solana_india/status/1434866435210108934
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1408067247755587592 — 2021-09-06 13:09 UTC (2021-09-06 14:09 WAT)
+    
+    - URL: https://x.com/1408067247755587592/status/1434866435210108934
+    - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 0, retweet 0
+    
+    > A decentralised creator bazaar.
+    >
+    > Creator economy represent! https://twitter.com/saxenism/status/1434865938570956806
+    
+    **Links in post:** https://twitter.com/saxenism/status/1434865938570956806
+    
+    **Quoted post** 1434865938570956806: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-08-15 · Post · Any NGO in Kanpur that can help with finding/acquiring teaching staff for an understaffed government
+
+
+### Post — @saxenism — 2021-08-15 06:04 UTC (2021-08-15 07:04 WAT)
+
+- URL: https://x.com/saxenism/status/1426786804263387136
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Any NGO in Kanpur that can help with finding/acquiring teaching staff for an understaffed government intercollege?
+>
+> Any leads are appreciated.
+>
+> Can @UPGovt,@PMOIndia, @myogiadityanath, @BJP4UP, @INCUttarPradesh help in securing teachers for the intercollege in Panki, Kanpur?
+
+
+---
+
+## 2021-07-29 · Post · Fork the project. Do a white hat demonstration of the hack on it and tell the Hodlers of the project
+
+
+### Post — @saxenism — 2021-07-29 12:12 UTC (2021-07-29 13:12 WAT)
+
+- URL: https://x.com/saxenism/status/1420718951277858816
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Fork the project. Do a white hat demonstration of the hack on it and tell the Hodlers of the project to run with their money.
+>
+> Also, a write up of the exploit won't hurt!!
+> Definitely would want to read that 🤜🏻🤛🏻 https://twitter.com/peckshield/status/1420634035294916609
+
+**Links in post:** https://twitter.com/peckshield/status/1420634035294916609
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2021-07-29 06:35 UTC (2021-07-29 07:35 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1420634035294916609
+    - Metrics (at fetch): bookmark 11, impression 0, like 498, quote 32, reply 295, retweet 55
+    
+    > We just reported a potential security issue and got the following response. Any community advice on the next step? 
+    >
+    > A.  Continue the private disclosure to the team
+    > B.  Raise necessary alerts to the affected community
+    > C.  Do a white-hat demonstration [pic.x.com/ASvukG672k]
+    
+    **Media:**
+    - media `3_1420633563511222272` (details not returned by the API)
+    
+
+
+---
+
+## 2021-07-23 · Post · Uniswap v1 was perhaps the easiest PoC for an AMM ever to exist.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2021-07-23 13:44 UTC (2021-07-23 14:44 WAT)
+
+- URL: https://x.com/saxenism/status/1418567726851715086
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> Uniswap v1 was perhaps the easiest PoC for an AMM ever to exist.
+> And just to replicate that, I've had to learn and re-learn a lot of things!!
+>
+> Loved every second of it. Most probably would complete v1 implementation today... Would try out v2's implementation next 🚀🚀
+> #ETH #DeFi
+
+
+---
+
+## 2021-06-21 · Post · Had to say no to a lot of opportunities. Sucks big time!!
+
+
+### Post — @saxenism — 2021-06-21 08:18 UTC (2021-06-21 09:18 WAT)
+
+- URL: https://x.com/saxenism/status/1406889160552505344
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 0, retweet 0
+
+> Had to say no to a lot of opportunities. Sucks big time!!
+>
+> But I've gotten serious about fleshing out a utilitarian dApp on the Ethereum chain in this on-going ETHGlobal's Hack Money.
+>
+> Would be something pretty unexplored in the ecosystem.
+>
+> Will keep y'all posted!!
+
+
+---
+
+## 2021-06-15 · Thread · I get a considerable number of DMs asking me for resources to get started with Solidity development.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-06-15 06:31 UTC (2021-06-15 07:31 WAT)
+
+- URL: https://x.com/saxenism/status/1404688104263274496
+- Metrics (at fetch): bookmark 13, impression 0, like 28, quote 2, reply 1, retweet 5
+
+> I get a considerable number of DMs asking me for resources to get started with Solidity development.
+>
+> Here's what I tell everyone. A🧵 
+> 1. Before getting down to the programming stuff, learn, read and study the blockchain ecosystem in general.
+> Gives you the much-needed motivation
+
+
+### Thread part 2 — @saxenism — 2021-06-15 06:31 UTC (2021-06-15 07:31 WAT)
+
+- URL: https://x.com/saxenism/status/1404688106939322369
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 2, retweet 0
+
+> 2. I could be wrong here, but starting your programming journey with Solidity itself can be a pretty bad move. Start to learn to code using conventional languages such as Java/Python or even Scratch. But please don't pick up Javascript in the beginning 😭😭
+
+
+### Thread part 3 — @saxenism — 2021-06-15 06:31 UTC (2021-06-15 07:31 WAT)
+
+- URL: https://x.com/saxenism/status/1404688109967527937
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> 3. Once you're comfortable with basic looping, functions, conditionals and stuff, you can theoretically move onto learning Solidity.
+> But ideally, you should learn a bit more about algorithmic optimizations and common software design patterns.
+
+
+### Thread part 4 — @saxenism — 2021-06-15 06:31 UTC (2021-06-15 07:31 WAT)
+
+- URL: https://x.com/saxenism/status/1404688114287661059
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 0
+
+> 4. The first resource I'd suggest to get started with Solidity would be the cryptozombies course (https://cryptozombies.io/) by @loomnetwork. If I nitpick, a little Solidity code explained there, is now outdated. But, nevertheless, it is THE best place to start.
+
+**Links in post:** https://cryptozombies.io/
+
+
+### Thread part 5 — @saxenism — 2021-06-15 06:32 UTC (2021-06-15 07:32 WAT)
+
+- URL: https://x.com/saxenism/status/1404688134659481600
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 11. Trust me, cohort-based learning and learning to build a very specific product in mind (hackathons) turbocharge your learning rate. Try to get on this roller coaster ride and learn from everyone you meet.
+
+
+### Thread part 6 — @saxenism — 2021-06-15 06:32 UTC (2021-06-15 07:32 WAT)
+
+- URL: https://x.com/saxenism/status/1404688137184374784
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 12. I regularly post the smart contracts I write on r/Ethdev and the people there are brutal. Make me feel like, I don't know anything whatsoever about Solidity or coding in general. But these people are one of the finest critiques of your code that exist. 
+> Decide if it's for you
+
+
+### Thread part 7 — @saxenism — 2021-06-15 06:32 UTC (2021-06-15 07:32 WAT)
+
+- URL: https://x.com/saxenism/status/1404688140686692354
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> 13. Medium articles, http://ethereum.stackexchange.com and twitter solidity devs are your friends. Learn from their comments, read, reflect, internalize and ask profound questions.
+
+**Links in post:** http://ethereum.stackexchange.com
+
+
+---
+
+## 2021-06-13 · Post · No disrespect to the authors of any of these or to you for bringing out these newsletters for us.
+
+
+Tags (automatic): ZK
+
+
+### Post — @saxenism — 2021-06-13 11:09 UTC (2021-06-13 12:09 WAT)
+
+- URL: https://x.com/saxenism/status/1404033053500928003
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> No disrespect to the authors of any of these or to you for bringing out these newsletters for us.
+> But if I started reading 13 newsletters daily, my brain will certainly blow a fuse &amp; short circuit.
+>
+> I think, best is to either stick with 2-3 or cycle through them. https://twitter.com/shlokafc/status/1403978914284806144
+
+**Links in post:** https://twitter.com/shlokafc/status/1403978914284806144
+
+**Quoted post (full text):**
+
+    #### Quoted post — @717330132743155712 — 2021-06-13 07:33 UTC (2021-06-13 08:33 WAT)
+    
+    - URL: https://x.com/717330132743155712/status/1403978914284806144
+    - Metrics (at fetch): bookmark 433, impression 0, like 408, quote 7, reply 30, retweet 52
+    
+    > Newsletters that'll make you better &amp; smarter
+    >
+    > Chartr
+    > Gradually
+    > Technically
+    > Connectom
+    > Wait but why
+    > Conceptually
+    > Simplanations
+    > The Generalist
+    > Age of Invention
+    > Sunday Brain Food
+    > The 3-2-1 Thursday
+    > Two truths and a take
+    > David Perell's Friday Finds
+    >
+    > Reply with newsletters you love!
+    
+
+
+---
+
+## 2021-06-13 · Post · Coding in solidity gives exorbitant mental stimulus, man!!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2021-06-13 09:15 UTC (2021-06-13 10:15 WAT)
+
+- URL: https://x.com/saxenism/status/1404004445617201159
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 1
+
+> Coding in #solidity gives exorbitant mental stimulus, man!!
+> Sooo many things differ from what you typically learn in CS 101.
+> For example, look at something I was writing. This is redundant af in any other language, but for Solidity, it is efficient (saves gas) 😭🙇‍♂️🙇‍♂️😭
+> #Ethereum [pic.x.com/GlgUZGmsky]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E3wGdGGUYAAeYOz.png — no alt text provided by author
+
+
+---
+
+## 2021-06-07 · Post · Man o man!!!
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-06-07 16:46 UTC (2021-06-07 17:46 WAT)
+
+- URL: https://x.com/saxenism/status/1401943751853895682
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> Man o man!!!
+> Reading about the previous hacks on supposedly secure smart contracts is so rewarding. Helps you develop a red-team mindset.
+>
+> Sometimes, it wasn't even the fault of the dev, it was just the nascency of #solidity.
+>
+> Good lord, I love this ecosystem. 
+>
+> #Blockchain #web3
+
+
+---
+
+## 2021-06-04 · Post · 🥳🥳Your boy just got hired as a Solidity Developer 🥳🥳
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-06-04 11:10 UTC (2021-06-04 12:10 WAT)
+
+- URL: https://x.com/saxenism/status/1400771917150244864
+- Metrics (at fetch): bookmark 1, impression 0, like 62, quote 1, reply 11, retweet 2
+
+> 🥳🥳Your boy just got hired as a Solidity Developer 🥳🥳
+>
+> I'm wayyy beyond happy.🍻😭😭😭🍻
+>
+> Thinking of creating a website for putting together the best resources and my personal notes on #Blockchain/#Solidity development!!🙏🏻
+>
+> Love you #Ethereum ❤️❤️
+
+
+---
+
+## 2021-06-02 · Post · So, just today I wrote a smart contract with a re-entrancy guard for the &lt;addr&gt;.call() functio
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2021-06-02 16:58 UTC (2021-06-02 17:58 WAT)
+
+- URL: https://x.com/saxenism/status/1400134668880543746
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> So, just today I wrote a smart contract with a re-entrancy guard for the &lt;addr&gt;.call() function. You know, #solidity stuff...
+>
+> Guess what this guard essentially was?
+>
+> A mutex. An essential concept of Operating Systems. https://twitter.com/hinduBale/status/1399505864147431426
+
+**Links in post:** https://twitter.com/hinduBale/status/1399505864147431426
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2021-05-31 23:19 UTC (2021-06-01 00:19 WAT)
+    
+    - URL: https://x.com/saxenism/status/1399505864147431426
+    - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 0, retweet 0
+    
+    > To assure you know computer science. These are basics every software developer should have at the tips of their end.
+    > Your specialization comes later. https://twitter.com/AvniGupta_/status/1399309462154874882
+    
+    **Links in post:** https://twitter.com/AvniGupta_/status/1399309462154874882
+    
+    **Quoted post** 1399309462154874882: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-05-31 · Post · To assure you know computer science. These are basics every software developer should have at the ti
+
+
+### Post — @saxenism — 2021-05-31 23:19 UTC (2021-06-01 00:19 WAT)
+
+- URL: https://x.com/saxenism/status/1399505864147431426
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 0, retweet 0
+
+> To assure you know computer science. These are basics every software developer should have at the tips of their end.
+> Your specialization comes later. https://twitter.com/AvniGupta_/status/1399309462154874882
+
+**Links in post:** https://twitter.com/AvniGupta_/status/1399309462154874882
+
+**Quoted post** 1399309462154874882: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2021-05-29 · Post · Can any solidity Dev tell me why tf do we have *fixed* and *ufixed* when we can't do anything with i
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-05-29 06:19 UTC (2021-05-29 07:19 WAT)
+
+- URL: https://x.com/saxenism/status/1398524426795175940
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Can any solidity Dev tell me why tf do we have *fixed* and *ufixed* when we can't do anything with it??
+>
+> Like, what are the use cases?
+>
+> #SOLIDITY #Blockchain #Ethereum
+
+
+---
+
+## 2021-05-01 · Post · Thanks for the extra push I needed to race through this course. Ever since the Ethereum India Fello
+
+
+Tags (automatic): Race condition, Smart contract / DeFi
+
+
+### Post — @saxenism — 2021-05-01 23:49 UTC (2021-05-02 00:49 WAT)
+
+- URL: https://x.com/saxenism/status/1388641800986894339
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 1, reply 0, retweet 0
+
+> Thanks for the extra push I needed to race through this course. Ever since the #Ethereum India Fellowship 2.0, had been itching for a deeper dive at #solidity.
+>
+> Check out the notes, I compiled while going through the course: https://github.com/hinduBale/cryptoZombiesNFT#lesson-wise-notes-from-the-cryptozombies-course
+>
+> Now onto the advanced section. https://twitter.com/oneseventwonine/status/1387262510936453121
+
+**Links in post:** https://github.com/hinduBale/cryptoZombiesNFT#lesson-wise-notes-from-the-cryptozombies-course, https://twitter.com/oneseventwonine/status/1387262510936453121
+
+**Quoted post (full text):**
+
+    #### Quoted post — @6135982 — 2021-04-28 04:28 UTC (2021-04-28 05:28 WAT)
+    
+    - URL: https://x.com/6135982/status/1387262510936453121
+    - Metrics (at fetch): bookmark 1055, impression 0, like 1846, quote 55, reply 30, retweet 343
+    
+    > Solidity may be the single most valuable skill in the world today. You can obtain it without years of formal education. And we'll even pay you to learn it.
+    >
+    > Details here: https://1729.com/learn-solidity-with-cryptozombies/
+    
+    **Links in post:** https://1729.com/learn-solidity-with-cryptozombies/
+    
+
+
+---
+
+## 2021-04-29 · Post · Thanks to @Devfolioco for organizing an amazing mentorship session with an industry veteran @calchul
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2021-04-29 22:37 UTC (2021-04-29 23:37 WAT)
+
+- URL: https://x.com/saxenism/status/1387898969712336898
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> Thanks to @Devfolioco for organizing an amazing mentorship session with an industry veteran @calchulus.
+>
+> Gained great insights from the session. Had been learning #Solidity lately and will follow Calvin's advise on reading well-written contracts.
+>
+> Guess I'll publish few articles
+
+
+---
+
+## 2021-04-29 · Post · Take a bow @loomnetwork!! 🙇🙇 The cryptozombies course is a extremely well structured and a beautiful
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-04-29 22:13 UTC (2021-04-29 23:13 WAT)
+
+- URL: https://x.com/saxenism/status/1387892716688732160
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Take a bow @loomnetwork!! 🙇🙇 The cryptozombies course is a extremely well structured and a beautiful course on #SOLIDITY!! A mustDo for thorough understanding.
+> Just completed the third lesson and I'm super pumped, this is way too good.
+> Also love the animations 😂😂
+> #Blockchain [pic.x.com/XeNuBzsTc1]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1387892695717220354/pu/img/8WbR_IqJQ9mXs2zF.jpg — no alt text provided by author
+
+
+---
+
+## 2021-03-02 · Post · Ok, so here's a rundown of weeks 3 and 4 of @Devfolioco's Ethereum India Fellowship 2.0. These past
+
+
+### Post — @saxenism — 2021-03-02 10:52 UTC (2021-03-02 11:52 WAT)
+
+- URL: https://x.com/saxenism/status/1366702982520213506
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 2, retweet 0
+
+> Ok, so here's a rundown of weeks 3 and 4 of @Devfolioco's #Ethereum India Fellowship 2.0. These past weeks feel almost surreal and the quanta of learning and #BUIDLing that took place in this time have left me feeling ecstatic.
+> Time for a thread 👇
+
+
+---
+
+## 2021-02-19 · Post · I'm a little late, but here I am with the summary of week 2 of Ethereum India Fellowship 2.0 :P
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @saxenism — 2021-02-19 12:33 UTC (2021-02-19 13:33 WAT)
+
+- URL: https://x.com/saxenism/status/1362742149154922499
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> I'm a little late, but here I am with the summary of week 2 of #Ethereum India Fellowship 2.0 :P
+> It seems @Devfolioco is a master at keeping people hooked to #Blockchain .
+> Among a storm of things we, EIF fellows did this week, we created our own #cryptocurrency  :D
+> A Thread 👇
+
+
+---
+
+## 2021-02-11 · Post · As someone who spent almost half his college life giving information security awareness lectures to 
+
+
+### Post — @saxenism — 2021-02-11 10:36 UTC (2021-02-11 11:36 WAT)
+
+- URL: https://x.com/saxenism/status/1359813539502804993
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> As someone who spent almost half his college life giving information security awareness lectures to the general public, I can attest to each and every tweet of the thread. Give it a read, and if possible, without any biases. Thank you and have a nice day. https://twitter.com/sunnynehrabro/status/1261605688524111872
+
+**Links in post:** https://twitter.com/sunnynehrabro/status/1261605688524111872
+
+**Quoted post (full text):**
+
+    #### Quoted post — @781194806890344448 — 2020-05-16 10:33 UTC (2020-05-16 11:33 WAT)
+    
+    - URL: https://x.com/781194806890344448/status/1261605688524111872
+    - Metrics (at fetch): bookmark 15, impression 0, like 215, quote 9, reply 6, retweet 73
+    
+    > 1/ Go through this tweets thread👇(especially don’t miss 11/ in this thread) to understand how persons like @fs0c131y are running #propaganda against our govt apps.
+    > It will explain how for famous govt apps claims of #hacking or security issues are made while hiding the #reality
+    
+
+
+---
+
+## 2021-01-17 · Post · Moved on to:
+
+
+### Post — @saxenism — 2021-01-17 23:34 UTC (2021-01-18 00:34 WAT)
+
+- URL: https://x.com/saxenism/status/1350949743783010304
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Moved on to:
+> 1 Set Matrix zeroes
+> 2 Pascal Triangle
+> 3 next_permutation (revised finding all permutations)
+> 4 Count number of inversions (modded merge sort)
+> 5 Stock buy/sell (easy variant)
+> 6 Rotate matrix (messy stuff, I hate matrices)
+>
+> #leetcode #100DaysOfCode #CodeNewbies #cpp https://twitter.com/hinduBale/status/1349425698805489664
+
+**Links in post:** https://twitter.com/hinduBale/status/1349425698805489664
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2021-01-13 18:38 UTC (2021-01-13 19:38 WAT)
+    
+    - URL: https://x.com/saxenism/status/1349425698805489664
+    - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 1, retweet 1
+    
+    > Something I used to hate is now something I turn to, *kill my time productively* 😂
+    > Solved:
+    > 1. Merge SubIntervals
+    > 2. Kadane
+    > 3. Merge two sorted array (O(n*logm) time and O(1) space)
+    > 4. Find repeating and missing num
+    > 5. Find duplicates
+    > 6. 0's 1's and 2's array sort
+    > #100DaysOfCode
+    
+
+
+---
+
+## 2021-01-13 · Post · Something I used to hate is now something I turn to, *kill my time productively* 😂
+
+
+### Post — @saxenism — 2021-01-13 18:38 UTC (2021-01-13 19:38 WAT)
+
+- URL: https://x.com/saxenism/status/1349425698805489664
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 1, retweet 1
+
+> Something I used to hate is now something I turn to, *kill my time productively* 😂
+> Solved:
+> 1. Merge SubIntervals
+> 2. Kadane
+> 3. Merge two sorted array (O(n*logm) time and O(1) space)
+> 4. Find repeating and missing num
+> 5. Find duplicates
+> 6. 0's 1's and 2's array sort
+> #100DaysOfCode
+
+
+---
+
+## 2020-11-19 · Post · I'm not crazy😅. I'm absolutely in my senses😬. Using jinja and template inheritance for conditional 
+
+
+### Post — @saxenism — 2020-11-19 21:06 UTC (2020-11-19 22:06 WAT)
+
+- URL: https://x.com/saxenism/status/1329531622987730949
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> I'm not crazy😅. I'm absolutely in my senses😬. Using #jinja and template inheritance for conditional rendering is much for comfortable, intuitive and logical than #React 😤😤. Sorry, if you had a mild heart attack reading that😂😂. Have a good day. 😌❤️❤️
+>
+> #javascript #python
+
+
+---
+
+## 2020-07-14 · Post · I would have, but I don't want to be banned from @Twitter for an alleged Dos attack 🙇‍♂️ https://twi
+
+
+### Post — @saxenism — 2020-07-14 12:56 UTC (2020-07-14 13:56 WAT)
+
+- URL: https://x.com/saxenism/status/1283022454533656576
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 1
+
+> I would have, but I don't want to be banned from @Twitter for an alleged Dos attack 🙇‍♂️ https://twitter.com/marcelcruz/status/1282668873729245185
+
+**Links in post:** https://twitter.com/marcelcruz/status/1282668873729245185
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2959072858 — 2020-07-13 13:31 UTC (2020-07-13 14:31 WAT)
+    
+    - URL: https://x.com/2959072858/status/1282668873729245185
+    - Metrics (at fetch): bookmark 4, impression 0, like 145, quote 21, reply 56, retweet 19
+    
+    > Explain recursion in a tweet.
+    >
+    > #100DaysOfCode #CodeNewbie #programming
+    
+
+
+---
+
+## 2020-07-08 · Post · A thread on everything I've learnt making side-projects in my undergraduate days (applicable at any 
+
+
+### Post — @saxenism — 2020-07-08 18:54 UTC (2020-07-08 19:54 WAT)
+
+- URL: https://x.com/saxenism/status/1280938204799987712
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 1, retweet 4
+
+> A thread on everything I've learnt making side-projects in my undergraduate days (applicable at any stage though)
+>
+> #100DaysOfCode #100DaysOfMLCode #CodeNewbies #developers #DeveloperJobs #programming #programmingisfun #Coding #projects
+
+
+---
+
+## 2020-07-01 · Post · Just wrote an article related to a hack that worked for me while trying to link different sub-sectio
+
+
+### Post — @saxenism — 2020-07-01 18:42 UTC (2020-07-01 19:42 WAT)
+
+- URL: https://x.com/saxenism/status/1278398497180409856
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Just wrote an article related to a hack that worked for me while trying to link different sub-sections earlier. Give it a read, might come in handy:
+> https://medium.com/@rahulsaxena.hindubale/one-hack-to-give-your-medium-articles-an-elegant-feel-e641deaa2ae4?sk=f98bce190ee49e498bce660af007acc1
+> #100DaysOfCode #CodeNewbie #Tech4All #Tech4Good #blogging #medium #writing #WritingCommunity #WriterHack
+
+**Links in post:** https://medium.com/@rahulsaxena.hindubale/one-hack-to-give-your-medium-articles-an-elegant-feel-e641deaa2ae4?sk=f98bce190ee49e498bce660af007acc1
+
+
+---
+
+## 2020-06-20 · Post · Yo techtwitter, was just working on a side project over the weekend in RStats and wanted to safely
+
+
+### Post — @saxenism — 2020-06-20 16:34 UTC (2020-06-20 17:34 WAT)
+
+- URL: https://x.com/saxenism/status/1274380105926598658
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
+
+> Yo #techtwitter, was just working on a side project over the weekend in #RStats and wanted to safely store my API keys. Here's the hack that I came up with: https://medium.com/@rahulsaxena.hindubale/api-keys-and-secrets-secure-handling-in-r-language-7fe3734af415?source=friends_link&sk=8ef8d9a6d017c7740bc3429d9d0e74e0
+> Do let me know if there are better ways.
+> #100DaysOfCode #code #programming #tech #Tech4All #github
+
+**Links in post:** https://medium.com/@rahulsaxena.hindubale/api-keys-and-secrets-secure-handling-in-r-language-7fe3734af415?source=friends_link&sk=8ef8d9a6d017c7740bc3429d9d0e74e0
+
+
+---
+
+## 2020-06-17 · Post · It's okay to be confident in your code, but if you claim there's bug in the base package of the lang
+
+
+### Post — @saxenism — 2020-06-17 09:44 UTC (2020-06-17 10:44 WAT)
+
+- URL: https://x.com/saxenism/status/1273189736199286785
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 2
+
+> It's okay to be confident in your code, but if you claim there's bug in the base package of the language you're working in, you're most probably wrong.
+>
+> Lesson learnt after banging my head on the computer for 2+ hour.
+>
+> 😭😭😭😭😭
+>
+> #100DaysOfCode #CodeNewbie #programminglife
+
+
+---
+
+## 2020-03-15 · Post · Hmmm, ever since doing the @DataCamp course by @csgillespie, I'm constantly benchmarking all my code
+
+
+### Post — @saxenism — 2020-03-15 19:04 UTC (2020-03-15 20:04 WAT)
+
+- URL: https://x.com/saxenism/status/1239266311294701568
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> Hmmm, ever since doing the @DataCamp course by @csgillespie, I'm constantly benchmarking all my codes.... Just now realised that subset() is slower than subsetting through [ ].... Why this surprises me!?? Follow the thread!! #rstats [pic.x.com/EQUrv1CYqb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/ETLCFaQUcAU2VPg.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/ETLCHNjUUAERH4k.jpg — no alt text provided by author

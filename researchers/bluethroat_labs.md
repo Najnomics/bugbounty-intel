@@ -81,3 +81,12 @@ _Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim post
 - **phala-dstack-attestation-hardening** (`tee-attestation`)
   - post: https://phala.com/posts/dstack-security-update-attestation-pipeline-hardening
   - local: `writeups/bluethroat_labs/phala-dstack-attestation-hardening.md`
+
+### 2. "We use TEEs" is not a security guarantee — 11 Nov 2026 (plus GPU attestation deep dive)
+
+- Post: https://x.com/bluethroat_labs/status/2120528783673299290 — verbatim: [`posts/bluethroat_labs/2026-11-11-2120528783673299290.md`](../posts/bluethroat_labs/2026-11-11-2120528783673299290.md)
+- Writeups: [`writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md`](../writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md), [`writeups/bluethroat_labs/tee-fail.md`](../writeups/bluethroat_labs/tee-fail.md)
+- **Bug class:** TEE attestation failures (GPU path displayed as verified with zero cryptography)
+- **Root cause:** Phala trust-center `parseAttestationBundle()` deserialized Redpill JSON; no NRAS, device cert chain, RIM, or OCSP. UI claimed "TEE Hardware Verified" / "uses NVIDIA's Remote Attestation Service".
+- **Four checks they run every time:** (1) physical access → treat TEE compromised; (2) attestation ≠ safe code; (3) verifier must authenticate report + enforce policy + bind to endpoint; (4) auditable source → reproducible build → attested measurement.
+- **Takeaways:** Diff CPU vs GPU verification paths; assert cryptographic calls exist for every "Verified" badge.

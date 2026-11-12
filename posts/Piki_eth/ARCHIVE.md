@@ -1,11 +1,29 @@
 # @Piki_eth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 92
-- Conversations/threads: 66
+- Posts in this file: 93
+- Conversations/threads: 67
 - Oldest post captured: 2024-09-21
-- Newest post captured: 2026-11-09
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Post · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=medium&
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @Piki_eth — 2026-11-11 13:36 UTC (2026-11-11 14:36 WAT)
+
+- URL: https://x.com/Piki_eth/status/2120511090132197846
+- Metrics (at fetch): bookmark 0, impression 471, like 31, quote 0, reply 3, repost 0
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=medium&status=confirmed&gifId=2&programType=audit-competition
+
+**Links in post:** https://immunefi.com/s/ss/?severity=medium&status=confirmed&gifId=2&programType=audit-competition
 
 
 ---

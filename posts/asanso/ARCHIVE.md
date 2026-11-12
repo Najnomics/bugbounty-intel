@@ -1,11 +1,24 @@
 # @asanso — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 185
-- Conversations/threads: 173
+- Posts in this file: 186
+- Conversations/threads: 174
 - Oldest post captured: 2011-01-30
-- Newest post captured: 2026-11-06
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Post · @snapsnocaps feel free to go ahead with the OEIS
+
+
+### Post — @asanso — 2026-11-11 08:14 UTC (2026-11-11 09:14 WAT)
+
+- URL: https://x.com/asanso/status/2120429998213312739
+- Metrics (at fetch): bookmark 0, impression 6, like 1, quote 0, reply 1, retweet 0
+
+> @snapsnocaps feel free to go ahead with the OEIS
 
 
 ---
@@ -451,6 +464,15 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 4, impression 2325, like 26, quote 0, reply 0, retweet 8
 
 > http://x.com/i/article/2046477884768792576
+>
+> [X Article — Post-Quantum Transaction Signature (PQTS) #5 and #6 Call Recaps — full text follows]
+>
+> On April 1 and April 15, 2026, the fifth and sixth occurrences of the Post-Quantum Transaction Signatures (PQTS) breakout room took place, and this recap brings both discussions together in a single summary.
+> The first of the two sessions took place on April 1 in Cannes during EthCC and focused on hardware support as a key component of Ethereum’s path toward post-quantum transaction security. It took place on the same day as my talk on the Ethereum post-quantum execution layer. The first main topic was Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions, presented by @conordeegan. It focused on how maintaining the familiar seed-based key derivation model of HD wallets becomes much more challenging in the lattice setting, showing that the move to post-quantum cryptography affects wallet design as much as signature schemes themselves. The second topic, Post-quantum Signatures and Hardware Signers, was presented by the cryptography team at Ledger and focused on what post-quantum cryptography means in practice for hardware signers, especially when implementing post-quantum signatures inside Secure Elements under real embedded constraints and threat models. The practical conclusion was quite clear: in hardware, Dilithium is the only viable solution, since Falcon signing does not even run on Ledger devices and hash-based alternatives are still too slow.
+> The second session, held on April 15, focused on the testnet and was presented by @GiulioRebuffo . It showed how the signature schemes discussed so far have been implemented in practice, including Falcon and Dilithium via precompile, both with and without NTT, as well as the ephemeral ECDSA solution. Giulio also walked through some swaps and demonstrated the setup live in the explorer, making the discussion much more concrete from an implementation perspective.
+> Compared to the previous session, this one was less about presenting a fixed direction and more about testing implementations, comparing approaches, and identifying the UX questions that still need to be solved. The next call will take place on April 29 and will focus on PQ key rotation, with three presentations scheduled. See you next week.
+>
+> [Links in article: https://github.com/ethereum/pm/issues/2011, https://daisugi.fyi/, https://ethcc.io/, https://github.com/ethereum/pm/issues/1981, https://www.youtube.com/watch?v=w4FWnYhohKA, https://eprint.iacr.org/2026/380.pdf]
 
 **Links in post:** http://x.com/i/article/2046477884768792576
 
@@ -488,12 +510,26 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2026-03-23 · Post · http://x.com/i/article/2034884875447136256
 
 
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
 ### Post — @asanso — 2026-03-23 11:12 UTC (2026-03-23 12:12 WAT)
 
 - URL: https://x.com/asanso/status/2036038435631235118
 - Metrics (at fetch): bookmark 4, impression 1719, like 25, quote 1, reply 1, retweet 2
 
 > http://x.com/i/article/2034884875447136256
+>
+> [X Article — Post Quantum transaction signature (PQTS) #4 call recap — full text follows]
+>
+> On March 18, 2026, the fourth occurrence of the Post-Quantum Transaction Signatures (PQTS) breakout room focused on a more immediate deployment question: Account Abstraction as the main bridge toward post-quantum transaction security. The discussion was less about choosing a final post-quantum signature scheme and more about understanding how Ethereum could use Account Abstraction as a practical bridge toward post-quantum transaction security.
+> The first main topic was The Quantum Stopgap: Ephemeral Keys and Account Abstraction as Ethereum’s Bridge to Post-Quantum Security, presented by @matteVicari and @alebaiocchi23 . This helped ground the conversation in transition strategy: how to reduce quantum risk in practice without requiring an immediate protocol-wide move to fully standardized PQ transaction signatures. Demo here.
+> The second topic, EIP-8141: Frame Transaction, was brought in by @lightclients  and turned the discussion toward transaction structure itself. It reinforced the idea that post-quantum readiness is not only about verification primitives, but also about whether Ethereum’s transaction model can support more flexible authorization and migration patterns.
+> That concludes the recap for call #4. Compared to the previous session, this one was much more focused on Account Abstraction as transition architecture: not yet the final answer to PQ transaction signatures, but increasingly the most practical bridge between today’s Ethereum and a post-quantum future. 
+> The next call will focus on hardware support and will take place from @EthCC  in Cannes, so if you see me around during the week, come say hi and let’s grab a coffee and talk about Ethereum PQ or whatever else.
+> Two more things: we now have a Telegram group, https://t.me/+ozVdiAeQleBhZDg0, and, as usual, the recording of the call is available on the Ethereum YouTube channel.
+>
+> [Links in article: https://t.me/+ozVdiAeQleBhZDg0, https://www.youtube.com/watch?v=0PJUhBAiUXo, https://nicetry.xyz/, https://ethresear.ch/t/achieving-quantum-safety-through-ephemeral-key-pairs-and-account-abstraction/24273, https://eips.ethereum.org/EIPS/eip-8141]
 
 **Links in post:** http://x.com/i/article/2034884875447136256
 
@@ -503,12 +539,31 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2026-03-05 · Post · http://x.com/i/article/2029633522693009408
 
 
+Tags (automatic): ZK
+
+
 ### Post — @asanso — 2026-03-05 19:25 UTC (2026-03-05 20:25 WAT)
 
 - URL: https://x.com/asanso/status/2029639516265533700
 - Metrics (at fetch): bookmark 6, impression 2955, like 21, quote 3, reply 4, retweet 5
 
 > http://x.com/i/article/2029633522693009408
+>
+> [X Article — Post-Quantum Transaction Signatures (PQTS) #3 call recap — full text follows]
+>
+> On March 4, 2026, the third Post-Quantum Transaction Signatures (PQTS) breakout room took a slightly different shape. This occurrence was less talk and more discussions, with the agenda serving primarily as a scaffold for converging on a clearer set of architectural directions.
+> I opened by referencing strawmap and focusing attention on the aspect most relevant to the group’s near term work: the case for an NTT precompile as a potentially important execution layer primitive for post quantum signature verification. With the NTT precompile I also tried to propose the Daisugi meme. I also announced the topics for the next two sessions: Account Abstraction and hardware support, since both are increasingly inseparable from any realistic deployment path for PQ transaction signatures.
+> The main presentation was delivered by @RenaudDUBOIS10 , who walked through the NTT precompile proposal that he coproposed last year. The presentation functioned effectively as a structured starting point for forward-looking discussion rather than a “final design” pitch. In particular, it helped frame what kinds of verification patterns might become practical if Ethereum had access to a fast, standardized NTT building block. Renaud also briefly hinted at work in the direction of an NVmpy precompile, connecting it to a recent tweet by @VitalikButerin , and positioning it as another line of exploration that could meaningfully alter the design space once better specified.
+> A key outcome of the discussion was a clearer articulation of where the ecosystem may be heading for Ethereum transaction signatures. The space appears to be converging toward a trichotomy:
+> A standard verification precompile
+> A “single interface” path consistent with what was emphasized in the first two sessions whether lattice based or hash based that optimizes for clarity wallet UX and implementation straightforwardness but requires earlier convergence on specific schemes.
+> An NTT + Shake precompile approach
+> A more modular path in which users compose (“lego”) lower level precompiles into PQ signature verification flows flexible but closer to a Frankenstein model than a single standardized verifier. Renaud’s analysis suggested that in this approach it is difficult to push costs below roughly 200k gas.
+> A third, still nascent direction: NVmpy precompile
+> Not yet a fully formed proposal, but increasingly present as a potential alternative primitive that could support distinct verification strategies once concretely developed.
+> That concludes the recap for call #3. Compared to earlier sessions, this one was more oriented toward alignment and prioritization: clarifying which primitives are likely to matter, what tradeoffs are emerging, and what the next discussions (AA and hardware support) need to resolve.
+>
+> [Links in article: https://github.com/ethereum/pm/issues/1949, https://strawmap.org/, https://github.com/ZKNoxHQ/NTT/blob/main/EIP/EIPNTT.md, https://x.com/VitalikButerin/status/2027075026378543132?s=20]
 
 **Links in post:** http://x.com/i/article/2029633522693009408
 
@@ -518,12 +573,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2026-02-19 · Post · http://x.com/i/article/2024532157054484480
 
 
+Tags (automatic): OAuth, Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
 ### Post — @asanso — 2026-02-19 17:41 UTC (2026-02-19 18:41 WAT)
 
 - URL: https://x.com/asanso/status/2024539855703728250
 - Metrics (at fetch): bookmark 10, impression 2856, like 38, quote 0, reply 1, retweet 9
 
 > http://x.com/i/article/2024532157054484480
+>
+> [X Article — Post-Quantum Transaction Signatures (PQTS) Breakout #2 call recap — full text follows]
+>
+> On Feb 18, 2026, the second Post-Quantum Transaction Signatures (PQTS) breakout room shifted the spotlight to one very specific family: hash-based signature schemes, in different sauces. Unlike the first session, which laid out why Ethereum needs a migration path beyond elliptic curves (including lattices), this one stress-tested one of the most conservative PQ options on the table. 
+> The call opened with a recap of the pros and cons across the major post quantum signature families, delivered by yours truly and grounded in the comparison table shared in the session, which framed the discussion not just around signature and public key sizes and gas, but also around aggregation potential, hardware implementation maturity, threshold friendliness, and whether public key recovery is on the table.
+>  
+> First, @kudinov_mikhail  presented his new paper, coauthored with @n1ckler  , on hash based signature schemes as a post quantum alternative for Bitcoin, with clear relevance for Ethereum as well. The talk gave a full overview of the landscape, starting from basic primitives and building up through SPHINCS+ and its variants. A key focus was on parameter selection tailored to blockchain requirements rather than blindly adopting standardized settings. By applying recent optimizations such as SPHINCS+C, TL WOTS TW, and PORS+FP, and by restricting the number of signatures allowed per public key, the paper achieves significant size improvements compared to standardized SPHINCS+ (SLH DSA). The work also highlighted practical limitations, including challenges around key derivation, multisignatures, and threshold signatures.
+> Next,  @ncsgy presented a Solidity implementation of several of the hash based variants discussed earlier, deploying them on Sepolia and showing that some achieve surprisingly low gas costs while getting close to 128 bit security.
+> Finally, Yashvanth Kondi and Naman Kumar discussed why threshold signing for standard hash based schemes is expensive. The conclusion was that while hash based schemes are extremely conservative and attractive from a security assumption perspective, they do not naturally support efficient threshold constructions, making them much harder to deploy for institutional custody, multisig wallets, and other settings where threshold signing is critical.
+> And that’s all, folks. We covered a lot of ground across the first two PQTS calls, and with the big picture now mapped out, the next sessions are expected to get much more hands on and implementation focused. See you in two weeks!
+>
+>
+> [Links in article: https://github.com/ethereum/pm/issues/1916, https://eprint.iacr.org/2025/2203]
 
 **Links in post:** http://x.com/i/article/2024532157054484480
 
@@ -533,12 +604,27 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ## 2026-02-05 · Post · http://x.com/i/article/2019310561335373824
 
 
+Tags (automatic): Smart contract / DeFi, ZK, Memory corruption / native
+
+
 ### Post — @asanso — 2026-02-05 07:57 UTC (2026-02-05 08:57 WAT)
 
 - URL: https://x.com/asanso/status/2019319427859095675
 - Metrics (at fetch): bookmark 14, impression 9696, like 73, quote 8, reply 4, retweet 15
 
 > http://x.com/i/article/2019310561335373824
+>
+> [X Article — Post-Quantum Transaction Signatures (PQTS): Kickoff Call Recap — full text follows]
+>
+> On Feb 4, 2026, the first Post-Quantum Transaction Signatures (PQTS) breakout room kickoff set the stage for why Ethereum’s current elliptic-curve crypto (ECDSA for transactions, plus other curve-based primitives across the stack) needs a migration path in the face of Shor’s algorithm and accelerating quantum progress. The call emphasized that standards and deployment timelines are long (NIST began in 2016; major selections in 2022), so planning and “time-buying” mitigations matter.
+> @RenaudDUBOIS10  and @SimonMasson2   presented execution layer progress already in motion. Two draft EIPs propose post quantum signature verification precompiles: EIP 8051 for MLDSA Dilithium and EIP 8052 for Falcon FNDSA. They also showed a working demo with non native account abstraction (ERC 4337), demonstrating that it is already possible to do a post quantum transaction signature today for just a few dollars!!!They compared tradeoffs as well. Falcon is smaller and cheaper than Dilithium for Solidity verification, but it is harder to implement, especially on hardware, and the standardization maturity differs. 
+> @ncsgy  highlighted native account abstraction as a key enabling layer. A recent proposal, EIP 8141 “frame transactions,” was discussed as a flexible transaction format that separates payload framing, validation, and execution, and supports broader signature flexibility, which is seen as important groundwork for PQTS adoption and future migration paths.
+> A second mitigation track was presented by @StefanoGogioso , with @fabgenovese  helping answer the numerous questions in the chat. It covered a ZK based proof of seed / proof of state approach intended as a graceful emergency fallback, requiring minimal user action and designed to be deployable without hard forks. The idea leverages hashing based “lift” proofs from HD wallet derivations such as BIP32 and BIP39, with practical constraints around secure element memory and proof generation.
+> Finally, @shemnon  framed cryptographic agility as a design requirement. In the same spirit as EIP 8141 “frame transactions,” he noted he will likely bring these ideas into EIP 8141. Ethereum likely needs to support multiple signature schemes concurrently, reflecting different user needs and risk profiles, with the ability to add or remove algorithms over time without rewriting transaction formats.
+> The group noted follow ups for future calls, including multisig and threshold compatibility, signature aggregation, and potential synergies around BIP 39 seed derivation, as a few groups are currently working on related approaches in parallel.
+> And that’s all, folks. See you in two weeks!
+>
+> [Links in article: https://github.com/ethereum/pm/issues/1889, https://visionary-nougat-217eaa.netlify.app/, https://blog.neverlocal.com/graceful-emergency-fallback/]
 
 **Links in post:** http://x.com/i/article/2019310561335373824
 
@@ -554,6 +640,18 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 25, impression 10037, like 69, quote 3, reply 4, retweet 13
 
 > http://x.com/i/article/2016135869388775424
+>
+> [X Article — Falcon as a Post Quantum Ethereum Transaction Signature Revisited Lessons From the Last 365 Days  — full text follows]
+>
+> tl;dr This  post summarizes what we learned over the last 365 days about post  quantum transaction signatures for Ethereum what got clearer what  changed and what looks shippable It also announces the new Post Quantum Transaction Signature (PQTS) Breakout Room
+> The  last year has been surprisingly productive for post-quantum Ethereum  discussions. What started as a mostly theoretical question has steadily  turned into concrete engineering work, clearer requirements, and a much  sharper view of what a realistic migration could look like.
+> If you want the full arc see the earlier posts Part 1, which maps the problem space, what quantum touches, what Ethereum can change, and why choosing a scheme is only the start, Part 2, which puts Falcon under Ethereum constraints, the good, the bad, and the gnarly, and Part 3, which focuses on shipping via Account Abstraction (AA) in an ERC 4337 style flow.
+> This is a one year check in, and the headline is encouraging. If one thing feels truly solid, it is Account Abstraction (AA),  the cleanest way to introduce post quantum signing semantics to users  without waiting on protocol level changes, right now via non native AA  such as EIP 7702, and also as the long term end state via native AA with EIP 7701. It remains the best environment to experiment, measure, and iterate.
+> Meanwhile, the signature landscape matured in a useful way. Falcon remains extremely compelling for Ethereum because compact signatures  matter, but it is in an awkward standardization middle state as FN-DSA, with the final published specification still pending as FIPS 206, which is why we also captured the Ethereum facing requirements and integration points in EIP-8052.  Hardware support looks tractable but slow, and hardware signing in  particular on secure elements and other constrained devices is hard  because Falcon signing needs floating point style machinery that is  awkward to implement safely and efficiently in that environment.
+> Dilithium is more interesting than it was a year ago. It is standardized as ML-DSA with a clear published specification FIPS 204, and newer work suggests lattice signatures can be made significantly more compact than many expected, narrowing the practical gap with Falcon. On the Ethereum side, the corresponding precompile proposal exists as EIP-8051.
+> We can keep momentum without forcing a single early bet. Account Abstraction (AA) gives us a practical mechanism to support multiple post quantum transaction signature families, including Falcon and Dilithium, and even standardized hash based signatures like XMSS and SPHINCS. If you want to help shape the selection criteria, the integration path, and the concrete next steps, join the upcoming Post Quantum Transaction Signature (PQTS) Breakout Room on Feb 04, 2026 at 15:00 UTC.
+>
+> [Links in article: https://eips.ethereum.org/EIPS/eip-8052, https://link.springer.com/chapter/10.1007/978-3-032-01855-7_17, https://eips.ethereum.org/EIPS/eip-8051, https://ethresear.ch/t/so-you-wanna-post-quantum-ethereum-transaction-signature/21291, https://github.com/ethereum/pm/issues/1889, https://ethresear.ch/t/falcon-as-an-ethereum-transaction-signature-the-good-the-bad-and-the-gnarly/21512, https://ethresear.ch/t/the-road-to-post-quantum-ethereum-transaction-is-paved-with-account-abstraction-aa/21783]
 
 **Links in post:** http://x.com/i/article/2016135869388775424
 

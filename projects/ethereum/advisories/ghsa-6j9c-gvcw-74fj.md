@@ -1,0 +1,49 @@
+# GHSA-6j9c-gvcw-74fj: Optimizer replaces `msg.value | K` and `len(msg.data) | K`with `1` in ternary branches
+
+| Field | Value |
+| --- | --- |
+| Repo | vyperlang/vyper |
+| GHSA | GHSA-6j9c-gvcw-74fj |
+| CVE | none assigned |
+| Severity | medium |
+| CWE | n/a |
+| Published | 2026-10-02T17:27:11Z |
+| Updated | 2026-10-02T17:27:11Z |
+| Affected | vyper >= 0.3.8 |
+| Credits | DELENE-TCHIO-ROMUALD |
+| Advisory URL | https://github.com/vyperlang/vyper/security/advisories/GHSA-6j9c-gvcw-74fj |
+| Captured | 2026-11-12 (WAT), daily update |
+
+## Description (verbatim)
+
+## Summary
+
+With optimization on (`-O gas`, the default, or `-O codesize`), `(msg.value | K)` used as a branch of a ternary expression compiles to the constant `1`, whatever amount was sent. `K` is any nonzero integer literal. `len(msg.data) | K` is affected the same way. There is no warning or revert. `-O none` produces the correct value.
+
+## Details
+
+The optimizer rewrites `(or x K)` to `1` (`vyper/ir/optimizer.py:396-398`). This is only valid where the result is used for its truthiness, i.e. as a condition. Whether a node is in such a position is decided from its parent's opcode alone (`optimizer.py:242`). As a result, both value branches of an `if` are treated as if they were the condition.
+
+For most operands, `finalize` rolls the rewrite back. It does not for `callvalue` and `calldatasize`: both are in `do_not_cache` (`codegen/ir_node.py:392`), so `is_complex_ir` does not treat them as complex.
+
+## PoC
+
+```vyper
+@external
+@payable
+def f(c: bool) -> uint256:
+    return (msg.value | 2) if c else 5
+```
+
+`f(True)` with `msg.value = 5` returns `1` at the default level and `7` at `-O none`.
+
+The IR at the default level:
+
+```
+[if, [iszero, [mload, 64 <c>]], 5 <5>, 1 <msg.value | 2 (msg.value|2)>]
+```
+
+## Impact
+
+The wrong value goes wherever the expression is used: storage writes, arithmetic, array indexes, return values and event fields. For example, `self.deposits[msg.sender] = (msg.value | 1) if flag else msg.value` records every deposit made with `flag` set as `1`, so the funds stay in the contract and nobody can withdraw them.
+

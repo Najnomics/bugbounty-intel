@@ -1,11 +1,48 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 172
-- Conversations/threads: 97
+- Posts in this file: 173
+- Conversations/threads: 98
 - Oldest post captured: 2023-07-02
-- Newest post captured: 2026-11-05
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · We had a blast reviewing Solana's new design for encrypted money! https://twitter.com/Helius/status/
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zksecurityXYZ — 2026-11-12 04:27 UTC (2026-11-12 05:27 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2120735261399433504
+- Metrics (at fetch): bookmark 2, impression 360, like 8, quote 1, reply 1, repost 0
+
+> We had a blast reviewing Solana's new design for encrypted money! https://twitter.com/Helius/status/2120161793834406166
+
+**Links in post:** https://twitter.com/Helius/status/2120161793834406166
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Helius — 2026-11-10 14:28 UTC (2026-11-10 15:28 WAT)
+    
+    - URL: https://x.com/Helius/status/2120161793834406166
+    - Metrics (at fetch): bookmark 571, impression 396948, like 2423, quote 241, reply 336, repost 410
+    
+    > Today, Solana changes forever
+    >
+    > Introducing Solana Privacy Rings - encryption at the speed of Solana
+    >
+    > Rings are programmable, onchain environments for encrypting money, markets, and finance - without ever leaving Solana
+    >
+    > Now live on mainnet. [pic.x.com/ezCIUCjcbI]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2120161751950077952/img/0g0Jjee0ub67yfm8.jpg — no alt text provided by author
+    
 
 
 ---

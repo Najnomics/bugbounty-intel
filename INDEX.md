@@ -2,6 +2,21 @@
 
 Generated 11 Nov 2026 (WAT). Every link points to a file inside this repo that holds **full verbatim text** — no X access needed.
 
+## Daily update — 12 November 2026 (Africa/Lagos)
+
+New / refreshed technical material today (verbatim under `posts/` and `writeups/`):
+
+| Topic | Local files |
+| --- | --- |
+| CSP form-action credential theft (no JS) | [posts/garethheyes/2026-11-11-2120523482220167240.md](posts/garethheyes/2026-11-11-2120523482220167240.md), [writeups/garethheyes/blind-trust-stealing-credentials-through-csp.md](writeups/garethheyes/blind-trust-stealing-credentials-through-csp.md) |
+| SSRF signed cloud creds (no metadata IP) | [posts/mdp_sec/2026-11-11-2120519414491566209.md](posts/mdp_sec/2026-11-11-2120519414491566209.md) |
+| TEE GPU fake-verified + 4-check checklist | [posts/bluethroat_labs/2026-11-11-2120528783673299290.md](posts/bluethroat_labs/2026-11-11-2120528783673299290.md), [writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md](writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md) |
+| TEE intent binding / SGLang incident | [posts/saxenism/2026-11-11-2120538169259209027.md](posts/saxenism/2026-11-11-2120538169259209027.md), [writeups/saxenism/near-ai-sglang-security-incident-report.md](writeups/saxenism/near-ai-sglang-security-incident-report.md) |
+| Codex → npm supply chain (Depi) | [writeups/Rhynorater/depi-backdooring-codex.md](writeups/Rhynorater/depi-backdooring-codex.md) |
+| Solana Privacy Rings / gnark fake-GLV | [writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md](writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md) |
+| Besu + Vyper GHSAs; TDX / gnark crypto | [projects/ethereum/advisories-index.md](projects/ethereum/advisories-index.md), [projects/crypto/advisories-index.md](projects/crypto/advisories-index.md) |
+
+
 ## By researcher
 
 | Researcher | Profile | Posts (files) | Writeups | Specialty | Platforms |
@@ -246,7 +261,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@mdp_sec — 2026-11-09 — BB Arena v2 is live. 100 new private black-box labs, and it's a lot harder](posts/mdp_sec/2026-11-09-2119670856075166075.md)
 - [@mdp_sec — 2026-11-09 — claude fable 5.1 refused all 100 of my black-box hacking labs](posts/mdp_sec/2026-11-09-2119885234887876972.md)
 - [@mdp_sec — 2026-11-09 — So... who is gotta sleep with for red access..](posts/mdp_sec/2026-11-09-2119895827091206184.md)
-- [@mdp_sec — 2026-11-11 — gemini 4 carbon dropped this morning and i can't bench it](posts/mdp_sec/2026-11-11-2120308020798488654.md)
+- [@mdp_sec — 2026-11-12 — gemini 4 carbon dropped this morning and i can't bench it](posts/mdp_sec/2026-11-12-2120308020798488654.md)
 - [@naresh_1337 — 2026-10-21 — Another finding, another milestone. The hunt continues......](posts/naresh_1337/2026-10-21-2112901217278214612.md)
 - [@orange_8361 — 2026-05-14 — That's my chain — a full chain w/ logic bugs only! No memory corruption, no AI, and of cou](posts/orange_8361/2026-05-14-2054906050143240399.md)
 - [@orange_8361 — 2026-05-15 — And this one is human insight w/ LLM-assisted research. Took about one week to finish ever](posts/orange_8361/2026-05-15-2055330289652539850.md)
@@ -255,7 +270,7 @@ Tags are automatic keyword matches on the post text (false positives possible); 
 - [@samwcyo — 2026-03-19 — Asked Claude to root my Xiaomi 17 Pro Max. Did not go well. [pic.x.com/HSCrRo2sqK]](posts/samwcyo/2026-03-19-2034495676533612643.md)
 - [@samwcyo — 2026-08-18 — For anyone using LLMs to do security research, bug bounty, red teaming, etc, we made a Dis](posts/samwcyo/2026-08-18-2089536974444982714.md)
 - [@samwcyo — 2026-10-18 — I’d be willing to pay $100 per report for priority triage with automated dupe checking and](posts/samwcyo/2026-10-18-2111805910448529757.md)
-- [@samwcyo — 2026-11-11 — I've got a feeling that a lot of security consultants who are being told not to use LLMs on pent](posts/samwcyo/2026-11-11-2120395487237075210.md)
+- [@samwcyo — 2026-11-12 — I've got a feeling that a lot of security consultants who are being told not to use LLMs on pent](posts/samwcyo/2026-11-11-2120395487237075210.md)
 - [@saxenism — 2024-11-29 — I bribed the AI](posts/saxenism/2024-11-29-1862497236980310323.md)
 - [@saxenism — 2024-12-12 — Yap early, yap only, yap often.](posts/saxenism/2024-12-12-1867083327746023648.md)
 - [@saxenism — 2024-12-21 — The currently existing AI models, at least the publicly available ones, have a serious limitati](posts/saxenism/2024-12-21-1870299724504326271.md)

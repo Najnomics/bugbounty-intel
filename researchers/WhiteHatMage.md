@@ -27,3 +27,8 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+### $1M bounty program focus filter — 11 Nov 2026
+
+- Post: https://x.com/WhiteHatMage/status/2120565378522698044 — [`posts/WhiteHatMage/2026-11-11-2120565378522698044.md`](../posts/WhiteHatMage/2026-11-11-2120565378522698044.md)
+- Prioritize unconditional trustless theft ≥$10M; ~50 programs listed verbatim in the post.

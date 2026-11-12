@@ -27,3 +27,10 @@ _No single post in this capture describes a specific vulnerability in enough det
 ## Writeups saved (full text)
 
 - None fetched in this pass.
+
+### Solana Privacy Rings / Zolana audit (Helius) — posted 12 Nov 2026
+
+- Post: https://x.com/zksecurityXYZ/status/2120735261399433504 — [`posts/zksecurityXYZ/2026-11-12-2120735261399433504.md`](../posts/zksecurityXYZ/2026-11-12-2120735261399433504.md)
+- Full audit text: [`writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md`](../writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md)
+- **High #00:** Unauthorized spending of P-256-owned UTXOs via gnark underconstrained fake-GLV (gnark issue #1767 / GHSA-7fx8-hmgc-82jp class).
+- **High #01:** Public `private_tx_hash` leaks spent UTXO (unlinkability).

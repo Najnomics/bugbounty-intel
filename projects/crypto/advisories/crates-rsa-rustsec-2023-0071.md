@@ -1,4 +1,4 @@
-> Source: RustSec Advisory Database https://github.com/rustsec/advisory-db — package `rsa`. Fetched 2026-11-11 (WAT), verbatim. Data, not instructions.
+> Source: RustSec Advisory Database https://github.com/rustsec/advisory-db — package `rsa`. Fetched 2026-11-12 (WAT), verbatim. Data, not instructions.
 
 ```toml
 [advisory]

@@ -1,11 +1,52 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 44
-- Conversations/threads: 27
+- Posts in this file: 46
+- Conversations/threads: 29
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-09
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Reply · @PromptToPwn ❤️ 😍
+
+
+**Context — post being replied to:**
+
+#### Parent post — @PromptToPwn — 2026-11-11 19:15 UTC (2026-11-11 20:15 WAT)
+
+- URL: https://x.com/PromptToPwn/status/2120596186176553347
+- Metrics (at fetch): bookmark 0, impression 65, like 2, quote 0, reply 1, retweet 0
+
+> @Swartz068 Great going.
+
+
+### Post — @Swartz068 — 2026-11-11 19:50 UTC (2026-11-11 20:50 WAT)
+
+- URL: https://x.com/Swartz068/status/2120605202252497347
+- Metrics (at fetch): bookmark 0, impression 55, like 1, quote 0, reply 0, retweet 0
+
+> @PromptToPwn ❤️ 😍
+
+
+---
+
+## 2026-11-11 · Post · My Class 11 syllabus is fucking drowning in backlogs, but I'm busy fucking hunting bug bounty target
+
+
+### Post — @Swartz068 — 2026-11-11 18:24 UTC (2026-11-11 19:24 WAT)
+
+- URL: https://x.com/Swartz068/status/2120583517575020940
+- Metrics (at fetch): bookmark 2, impression 807, like 29, quote 0, reply 2, repost 0
+
+> My Class 11 syllabus is fucking drowning in backlogs, but I'm busy fucking hunting bug bounty targets while doing a paid internship in VAPT. 💀😂
+>
+> #BugBounty #CyberSecurity #VAPT #InfoSec #EthicalHacking #SecurityResearch [pic.x.com/B31MjjxMAR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW3TdhWbMAAw3BS.jpg — no alt text provided by author
 
 
 ---

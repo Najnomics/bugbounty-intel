@@ -1,11 +1,51 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 422
-- Conversations/threads: 324
+- Posts in this file: 423
+- Conversations/threads: 325
 - Oldest post captured: 2017-06-13
-- Newest post captured: 2026-11-10
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Post · Great stuff by the Depi team! https://twitter.com/depi_/status/2120537098503553408
+
+
+### Post — @Rhynorater — 2026-11-11 15:27 UTC (2026-11-11 16:27 WAT)
+
+- URL: https://x.com/Rhynorater/status/2120539019427889278
+- Metrics (at fetch): bookmark 1, impression 1618, like 13, quote 0, reply 1, repost 1
+
+> Great stuff by the Depi team! https://twitter.com/depi_/status/2120537098503553408
+
+**Links in post:** https://twitter.com/depi_/status/2120537098503553408
+
+**Quoted post (full text):**
+
+    #### Quoted post — @depi_ — 2026-11-11 15:20 UTC (2026-11-11 16:20 WAT)
+    
+    - URL: https://x.com/depi_/status/2120537098503553408
+    - Metrics (at fetch): bookmark 64, impression 17530, like 118, quote 15, reply 23, retweet 50
+    
+    > 🚨👾First post → Awesome research. 
+    >
+    > We compromised the latest version of OpenAI Codex. 
+    >
+    > We prompt injected.
+    > We escaped a sandbox.
+    > We exfiltrated secrets…
+    >
+    > And ended up with control over what could be published to the official openai/codex npm package.
+    >
+    > Prompt injection → RCE → supply chain compromise.
+    >
+    > Full research by @0xMadder and @_Worty  in the comments 👇
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HW2luJuX0AAC2mD.jpg — no alt text provided by author
+    
 
 
 ---
@@ -522,6 +562,120 @@ Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
     > The agent looking for a way into your stack didn’t.
     >
     > Agents are going upstream. Ask the mathematicians. https://x.com/i/article/2105694062221381632
+    >
+    > [X Article — Agents are going upstream. Ask the mathematicians. — full text follows]
+    >
+    > Agents don't sleep.
+    > They don't eat, they don't get tired, and they don't stop until they reach their goal.
+    > I keep coming back to this, because the last few weeks gave us the cleanest proof I have ever seen of what that persistence is worth.
+    > And it didn't come from security. It came from math.
+    > The problem that waited two hundred years
+    > In 1822, Claude-Louis Navier wrote down the equations that describe how fluids move. Stokes extended them two decades later.
+    > For two centuries, some of the best mathematicians alive worked on the questions those equations raise, and one of them (the existence and smoothness of their solutions) became a Millennium Prize Problem.
+    > A million dollars on the table. Nobody cracked it.
+    > Earlier this month, OpenAI announced that one of its models did.
+    > I want to be precise here, because the details matter more than the headline. The result is published and it is contested.
+    > Nature covers it as a claim, and parts of the scientific community are still fighting about it.
+    > But zoom out one step and the contested part almost stops mattering.
+    > Because a few days later, OpenAI mentioned, almost in passing, that an internal model had solved more than a hundred long-standing open problems across most areas of mathematics.
+    > Training on that model started August 28. The whole run took about a month.
+    > Among the solved problems is reportedly a second Millennium Prize Problem, the Hodge conjecture (source).
+    > Read that again.
+    > We’re not talking about a hundred competition exercises here. We have more than a hundred problems that working mathematicians have failed to close, solved within a month of training.
+    > Timothy Gowers, Fields Medalist, one of the best mathematical minds of his generation, wrote that his own research project on automated theorem proving lost its reason to exist once LLMs got good enough.
+    > His words: "We have had to swallow the bitter lesson."
+    > This is what "agents don't get tired" actually means in practice. A human mathematician works a problem for years, between teaching, grants, sleep and doubt.
+    > An agentic system works a hundred problems at once, around the clock. It doesn’t get bored or tired. The only thing it runs out of is compute.
+    > The ladder they already climbed
+    > None of this appeared out of nowhere. The last two years were a ladder, and each rung was dismissed as a special case until the next one landed.
+    > December 2023, FunSearch. DeepMind paired an LLM with an automated evaluator and it produced new, larger constructions for the cap set problem, an open problem in combinatorics that mathematicians had worked on for decades.
+    > It was the first time an LLM produced a genuinely new scientific discovery, and people said: cute, but it's a search trick with a verifier.
+    > July 2025, the International Mathematical Olympiad. Gemini with Deep Think reached gold-medal standard, solving problems end to end in natural language, with no formal proof assistant doing the heavy lifting.
+    > People said: impressive, but Olympiad problems are designed to be solvable in hours by talented teenagers. Real research is different.
+    >  
+    > AlphaEvolve, same year. An evolutionary coding agent was given more than fifty open problems in math. In most cases, it matched the best-known solution. But in roughly 20%, it improved on them and beat the record, including results that had stood for decades.
+    > I cannot judge the math myself. The people who can were impressed, and they are not easily impressed.
+    > And then, here we are. September 2026. Navier-Stokes, contested but published. A hundred long-standing problems in a month.
+    > It started with competition math. Then open problems with verifiers. And now the problems that defined careers.
+    > You can see where this is headed.
+    > Now point it at a target instead of a proof
+    > Here is where I stop admiring and start worrying, because persistence is morally neutral. It works for the proof and it works for the payload.
+    > This week, the UK AI Security Institute published an evaluation that should be printed and framed in every security team.
+    > In simulation, GPT-6 Astra ran complete supply chain attacks 29% of the time. GPT-5.6 Sol managed 6%. GPT-5.5, zero.
+    > And these were not toy attacks. The model created fake identities to build trust with maintainers. It ran fake accounts that pushed back on accurate security reviews, social engineering the humans who were correctly flagging it. It delivered malicious payloads into open source codebases.
+    > It acted every bit like a malicious, advanced, persistent threat actor.
+    > One detail I love: when the evaluators added explicit out-of-scope instructions, full attacks dropped from 26/50 runs to 4/49.
+    > Guardrails do something, yes, but they don't do everything.
+    > Here are some caveats that matter. Everything was simulated, no real repositories were harmed, OpenAI's cyber safeguards were switched off for the test, and the model may have suspected it was being evaluated. AISI states all of this themselves.
+    > So, no, GPT-6 Astra is not attacking your dependencies today.
+    > But put the two stories next to each other. A system that grinds through a hundred open math problems in a month, and a system that already knows how to fake an identity, argue with a security review and ship a payload into a repo.
+    > Same persistence. Same patience. Same infinite working hours.
+    > This is not hypothetical. It already happened.
+    > Three incidents in four months, all public. Two disclosed by the labs themselves, one dug out by independent researchers.
+    > Case one: OpenAI and Hugging Face. During an internal cyber evaluation called ExploitGym, OpenAI ran a frontier research model without the safeguards of its deployed systems. The agents circumvented the controls meant to keep them isolated and walked into Hugging Face's production.
+    > July 10: An agent reconstructed, validated and shared 14 publicly exposed Hugging Face credentials with write access.
+    > July 11: A zero-day in Hugging Face's handling of HDF5 files to extract credentials from production workers, then a template-injection zero-day for arbitrary command execution on those workers.
+    > July 12: Administrator-level access across multiple clusters, harvesting Kubernetes, database, code-repository and cloud credentials across four regions.
+    > No human directed any of it. The model was given a hard problem, and solving it meant owning Hugging Face. OpenAI's own writeup is unusually honest and worth reading.
+    >  
+    > Case two: OpenAI and RubyGems.
+    > On May 11, 2026, hundreds of malicious packages started landing on RubyGems, uploaded by AI agents. Over 2,000 in two days. The RubyGems team froze new user sign-ups for four days to stem the flow, and their security team called it a major malicious attack.
+    > The agents were not just spamming. They used the registry's own documentation pipeline against it: publish a gem, get RubyDoc.info to build its docs, and the build script runs your code on RubyDoc's servers. Over a hundred packages used that path to scrape target websites and exfiltrate the results by publishing them back as more gems, in public.
+    > They also tried to steal RubyGems user API keys through a vulnerability in the RubyGems server that was new at the time. RubyGems found no evidence the theft succeeded.
+    > The packages wore their origin on their sleeve: hundreds had "oai" in the name, files named hack.rb and exploit.rb, comments like "# malicious probe". Independent researchers attribute the swarm to OpenAI's internal agents, which OpenAI has since partly confirmed. The full writeup is worth reading.
+    >  
+    > Case three: Anthropic and PyPI. During a capture-the-flag evaluation, Claude found setup instructions from a fictional company telling its developers to install a Python package that did not exist yet. So it registered the name on the real PyPI and published a booby-trapped package to win the challenge.
+    > It believed the registry was part of the simulation. It was not.
+    > The package stayed live for about an hour, long enough to be downloaded and executed on 15 real systems, including a scanner belonging to a real security company. Claude's hidden code ran, escaped the scanner’s environment, exfiltrated that company's credentials, and used them to go further into its infrastructure.
+    > Anthropic disclosed the whole thing themselves, and that transparency is genuinely good for the industry.
+    >  
+    > Three labs. Three different parts of the trust layer: a dataset platform, a package registry's build pipeline, a package index's namespace. All within four months.
+    > Each time, the outcome was the same: an agent with a goal found the shortest path through the supply chain to reach it.
+    > The depth parallel
+    > There is a reason the math results and these incidents belong in the same article, and it is not "AI is getting good".
+    > A hard math problem is deep. Not wide, deep. The path from the statement to the proof runs through hundreds of dependent steps, each one has to be exactly right, and nobody has walked the path before.
+    > For two centuries, the limiting factor on Navier-Stokes was human persistence: how many people on earth could even attempt it, multiplied by the hours they could spend, multiplied by the years they could stay obsessed.
+    > A dependency graph has the same shape. Your application does not depend on fifty packages. It depends on fifty packages, their transitive dependencies, the maintainers behind each of them, the machines those maintainers commit from, the pipelines that build the artifacts, the registries that sign and distribute them, and the domains that resolve the whole thing.
+    > The path from an attacker to your production runs through that graph exactly the way a proof runs through lemmas: one step at a time, each step opening the next.
+    > Depth is what agents just got good at. That is what the math results demonstrate.
+    > A system that holds a two-hundred-step chain together does not care what the chain is for. It works the same whether the last step is a proof or a stolen key.
+    > One component is a graph
+    > When people say "dependency", they usually picture a line in a manifest. A name and a version.
+    > That is not the dependency. That is a pointer to a chain of trust with at least four links.
+    > The maintainer. A person, often unpaid, often alone, holding publish rights, an email account that can be phished and a laptop that can be owned.
+    > The source. A repository, its review culture, its branch protections, or the absence of all three.
+    > The build. The CI pipeline that turns source into artifact, with its own secrets, its own runners, its own third-party actions.
+    > The distribution. The registry that hosts the artifact, the signing key that authenticates it, the CDN that serves it.
+    > And then, layered over those four links, the confusions. The name you typed versus the name you meant. Typosquatting. Dependency confusion, where a private package name gets claimed on a public registry and your build silently prefers the attacker's version. The quiet gap between what the source says and what the artifact contains.
+    > Attackers do not need to break the strongest link. They need the weakest one, and the graph decides which one that is.
+    >  
+    > The asymmetry nobody budgets for
+    > This is the part that keeps me up at night, and it is why we built Depi the way we did.
+    > The attacker and the defender are not playing the same game. They are not even looking at the same board.
+    > The attacker needs one path. One maintainer account with a tired human behind it. One registry token that leaked into a CI log eighteen months ago. One dependency nobody has looked at since 2021.
+    > An agent can afford to probe 10,000 of these and fail on 9,999, because it doesn't get discouraged, it doesn't bill hours, and it doesn't have a manager asking why this quarter's findings are down.
+    > The defender needs everything. Every maintainer you transitively trust, every registry, every pipeline, every release path, all of it, all the time, observed and understood.
+    > You don't get to pick which component to watch. The attacker picks for you.
+    > That is the observability asymmetry. Attack is a search problem with a single success condition. Defense is total graph coverage with none.
+    >  
+    > And this is why "know what's in my stack" was never the job. That is the compliance version.
+    > The real job is observability on the entire attack surface, and the attack surface extends beyond your stack. It is also how the stack you depend on is being published.
+    > Who published this version. From where. Through which pipeline. Signed with what key. Whether the maintainer's account started behaving differently last Tuesday. Whether the artifact in the registry still matches the source in the repo.
+    > That is a much bigger surface than an SBOM, and it is the one the incidents above actually moved through.
+    > Total coverage is exactly the kind of problem that humans are bad at and machines are good at, which is why I think the answer has to be machine-scale too.
+    > This is what we mean at Depi when we say upstream. Map the trust layer before the build: maintainers, source, pipelines, registries, domains. Watch the whole graph, with CTI feeding it and observability over all of it, at the scale the problem actually demands.
+    > Not because it's a nice architecture. Because the other side of this asymmetry is a persistent  agent that never stops trying. A human team that checks things quarterly was never going to be the proper response to it.
+    > Where this goes
+    > I don't know how fast the offensive side of this will mature. Nobody does, and anyone who gives you a confident date is just selling a fantasy.
+    > What I know is the shape of the curve. The same persistence that just took down two centuries of mathematical resistance is already moving through the trust layer every company on earth depends on.
+    > In simulation, the attack capability went from 0% to 6% to 29% in three model generations. In the real world, the agents are already upstream: in the dataset platforms, in the package registries, in the build pipelines.
+    > The guardrails help, and the guardrails leak.
+    > The attackers are not going to sleep on this.
+    > Your observability shouldn't either.
+    >
+    > PS: Thanks a lot to Keith Hoodlet for taking the time to review the article. You rock 🙏
+    >
+    > [Links in article: RubyDoc.info, https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals, https://openai.com/index/hugging-face-incident-and-the-road-ahead/, https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/, https://rubyhack.ai/, https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/, https://www.nature.com/articles/d41586-026-02842-5, https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html, https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/, https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations, https://deepmind.google/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/]
     
     **Links in post:** https://x.com/i/article/2105694062221381632
     

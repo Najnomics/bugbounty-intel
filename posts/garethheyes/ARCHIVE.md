@@ -1,11 +1,61 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 550
-- Conversations/threads: 495
+- Posts in this file: 554
+- Conversations/threads: 496
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-09
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Thread · Help your 'self' to some credentials.
+
+
+Tags (automatic): CSP / CSPT
+
+
+### Post — @garethheyes — 2026-11-11 14:26 UTC (2026-11-11 15:26 WAT)
+
+- URL: https://x.com/garethheyes/status/2120523482220167240
+- Metrics (at fetch): bookmark 28, impression 4815, like 44, quote 1, reply 6, repost 18
+
+> Help your 'self' to some credentials.
+>
+> Content-Security-Policy: default-src 'none'; form-action 'self';
+>
+> Learn how to bypass this CSP and exfiltrate credentials using a Burp AT skill. Link to blog post 👇 [pic.x.com/hNrrgrnKQF]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2120515302832181248/img/mN0ExjBC-N5Wit1r.jpg — no alt text provided by author
+
+
+### Thread part 2 — @garethheyes — 2026-11-11 14:26 UTC (2026-11-11 15:26 WAT)
+
+- URL: https://x.com/garethheyes/status/2120523485558755423
+- Metrics (at fetch): bookmark 3, impression 355, like 4, quote 0, reply 0, repost 0
+
+> Blog post:
+> https://portswigger.net/research/blind-trust-stealing-credentials-through-csp
+
+**Links in post:** https://portswigger.net/research/blind-trust-stealing-credentials-through-csp
+
+
+### Thread part 3 — @garethheyes — 2026-11-11 14:38 UTC (2026-11-11 15:38 WAT)
+
+- URL: https://x.com/garethheyes/status/2120526579453284746
+- Metrics (at fetch): bookmark 1, impression 86, like 0, quote 0, reply 1, repost 0
+
+> @jenistranger It uses a meta refresh with the injection to redirect to the Collaborator and the request to the Collaborator contains the credentials in the referrer.
+
+
+### Thread part 4 — @garethheyes — 2026-11-11 21:14 UTC (2026-11-11 22:14 WAT)
+
+- URL: https://x.com/garethheyes/status/2120626355507454212
+- Metrics (at fetch): bookmark 0, impression 18, like 0, quote 0, reply 0, repost 0
+
+> @jenistranger The injection also contains another meta that carries an unsafe-url referrer directive
 
 
 ---

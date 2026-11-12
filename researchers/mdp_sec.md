@@ -141,3 +141,17 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 - **Stored XSS: unauth API writes into LESS config later sunk in back-office designer** (`xss`)
   - post: https://x.com/mdp_sec/status/2099031404252434591
   - local: `posts/mdp_sec/2026-09-13-2099031404252434591.md`
+
+### Daily finds 11–12 Nov 2026
+
+- **SSRF leaks live cloud creds without metadata IP** — https://x.com/mdp_sec/status/2120519414491566209 — [`posts/mdp_sec/2026-11-11-2120519414491566209.md`](../posts/mdp_sec/2026-11-11-2120519414491566209.md). Point fetch at own sink; request arrived signed with worker keys/session token. Harness: log Authorization / identity headers on every SSRF collab before chasing 169.254.
+- **October platform payout totals** — https://x.com/mdp_sec/status/2120428817130881387 — H1 ≈$1.2M, Bugcrowd $551k, Intigriti ≈$54k+€26k. Stats: [`writeups/mdp_sec/huntdeck-stats.md`](../writeups/mdp_sec/huntdeck-stats.md).
+- **BB Arena v2 methodology notes** — https://x.com/mdp_sec/status/2120489215947313417 — refusals/fallbacks score 0; 4-rung verifier-in-trace required. Board: [`writeups/mdp_sec/blackboxarena-home.md`](../writeups/mdp_sec/blackboxarena-home.md).
+- **X Article: open-weights black-box hunting stack** — https://x.com/mdp_sec/status/2120699530589196595 — full article text in [`posts/mdp_sec/2026-11-12-2120699530589196595.md`](../posts/mdp_sec/2026-11-12-2120699530589196595.md). DeepSeek as MVP; 0 refusals on 100 labs for ranked open weights.
+
+### Daily finds 11–12 Nov 2026
+
+- **SSRF leaks live cloud creds without metadata IP** — https://x.com/mdp_sec/status/2120519414491566209 — [`posts/mdp_sec/2026-11-11-2120519414491566209.md`](../posts/mdp_sec/2026-11-11-2120519414491566209.md). Point fetch at own sink; request arrived signed with worker keys/session token. Harness: log Authorization / identity headers on every SSRF collab before chasing 169.254.
+- **October platform payout totals** — https://x.com/mdp_sec/status/2120428817130881387 — H1 ≈$1.2M, Bugcrowd $551k, Intigriti ≈$54k+€26k. Stats: [`writeups/mdp_sec/huntdeck-stats.md`](../writeups/mdp_sec/huntdeck-stats.md).
+- **BB Arena v2 methodology notes** — https://x.com/mdp_sec/status/2120489215947313417 — refusals/fallbacks score 0; 4-rung verifier-in-trace required. Board: [`writeups/mdp_sec/blackboxarena-home.md`](../writeups/mdp_sec/blackboxarena-home.md).
+- **X Article: open-weights black-box hunting stack** — https://x.com/mdp_sec/status/2120699530589196595 — full article text in [`posts/mdp_sec/2026-11-12-2120699530589196595.md`](../posts/mdp_sec/2026-11-12-2120699530589196595.md). DeepSeek as MVP; 0 refusals on 100 labs for ranked open weights.

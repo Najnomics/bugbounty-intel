@@ -1,11 +1,37 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 69
+- Posts in this file: 70
 - Conversations/threads: 39
 - Oldest post captured: 2026-05-22
 - Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-09 · Thread · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=medium&
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-09 15:30 UTC (2026-11-09 16:30 WAT)
+
+- URL: https://x.com/naresh_1337/status/2119814854890414186
+- Metrics (at fetch): bookmark 0, impression 458, like 19, quote 0, reply 2, retweet 0
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=medium&status=confirmed&gifId=0&programType=audit-competition
+
+**Links in post:** https://immunefi.com/s/ss/?severity=medium&status=confirmed&gifId=0&programType=audit-competition
+
+
+### Thread part 2 — @naresh_1337 — 2026-11-11 17:46 UTC (2026-11-11 18:46 WAT)
+
+- URL: https://x.com/naresh_1337/status/2120573891739586958
+- Metrics (at fetch): bookmark 0, impression 21, like 0, quote 0, reply 0, retweet 0
+
+> @xdeltabear @immunefi 👾
 
 
 ---
@@ -48,24 +74,6 @@ Tags (automatic): Platform: Immunefi
 
 **Media:**
 - animated_gif: https://pbs.twimg.com/tweet_video_thumb/HWsiMIyWMAA7tN9.jpg — no alt text provided by author
-
-
----
-
-## 2026-11-09 · Post · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=medium&
-
-
-Tags (automatic): Platform: Immunefi
-
-
-### Post — @naresh_1337 — 2026-11-09 15:30 UTC (2026-11-09 16:30 WAT)
-
-- URL: https://x.com/naresh_1337/status/2119814854890414186
-- Metrics (at fetch): bookmark 0, impression 458, like 19, quote 0, reply 2, retweet 0
-
-> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=medium&status=confirmed&gifId=0&programType=audit-competition
-
-**Links in post:** https://immunefi.com/s/ss/?severity=medium&status=confirmed&gifId=0&programType=audit-competition
 
 
 ---

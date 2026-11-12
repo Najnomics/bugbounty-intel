@@ -2,7 +2,7 @@
 
 A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty findings** by consistent security researchers, compiled for Dorothy's hunting workflow.
 
-Last updated: **11 November 2026** (Africa/Lagos).
+Last updated: **12 November 2026** (Africa/Lagos).
 
 > **For the harness agent:** start at [harness/README.md](harness/README.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 
@@ -129,4 +129,11 @@ X search cannot cover "the whole of X" in one pass. Many elite hunters never pos
 
 ## Harness
 
-See [`harness/`](harness/) — **399** findings, 36 bug-class specs, payloads/, tools.md.
+See [`harness/`](harness/) — **406** findings, 36 bug-class specs, payloads/, tools.md.
+
+### 12 Nov 2026 daily highlights
+
+- CSP `form-action` credential theft (garethheyes) + SSRF signed-cred leak (mdp_sec) + TEE GPU fake-verified / intent-binding (bluethroat/saxenism).
+- Depi Codex → npm supply-chain writeup; zkSecurity Zolana/Solana Privacy Rings audit (gnark fake-GLV High).
+- 27 new Ethereum GHSAs (Besu + Vyper); Intel TDX / vodozemac / gnark crypto advisories; @saxenism security-keyword backfill DONE to 2020-03-15 (+476 archive posts).
+

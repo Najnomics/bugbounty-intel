@@ -1,6 +1,6 @@
 # @zseano — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 420
 - Conversations/threads: 371
@@ -711,6 +711,145 @@ Tags (automatic): AI-assisted hunting
     > Some were right.
     >
     > Here’s where I landed. http://x.com/i/article/2087611764280086528
+    >
+    > [X Article — security researchers are doomed. — full text follows]
+    >
+    > Let me paint you the picture. Last weekend, Garance and I were walking back from dinner to the @defcon convention center, the biggest hacker conference on earth, to go see Hacker Jeopardy. That's where she turned to me and told me about a meeting she had with a Senior Security Researcher working at a FAANG company. That guy told her something that surprised me: that her job is basically useless because of AI, and that security researchers are doomed. She asked me what my take on that was.
+    > For context, Garance is one of the security researchers we hired at Depi. I'm Roni and I'm the founder of Depi, where the research team conducts offensive security research in the supply chain field. I've been doing security research myself for the past few years.
+    > So I needed to answer her question. Honestly, my gut feeling was that this is utterly bullshit. But here I was, trying to tell her that yeah … no … her job is safe.
+    > Why was this my first reaction ? And more importantly, how could I argue any of it ?
+    > So there I was, standing in front of her, and the only thing I could think about was to dive into the history of humanity and make the best parallel I could about the technological revolutions mankind had to go through: how they changed the lives of day to day people, and what people were saying about them at the time.
+    > My goal here is to give you a more structured version of the argument I gave Garance. The difference is that this time I went digging. Books, parliamentary records, mailing list archives, quotes from people who lived through the shifts. What I found interested me more than I expected.
+    > I'll tell you where I landed before I start, because I don't want you to think this is a comfort piece.
+    > The honest version of the argument isn't "everyone survived." It's that the field survives and grows, but survival is conditional on moving to where the new value is. The people who refuse to move are the ones the transition eats.
+    > What history says
+    > There is a lazy way to use history in conversations about AI.
+    > You pick some old technology, point out that people were scared of it, laugh at them because everything turned out fine, and conclude that everyone worrying today is just the latest generation of idiots yelling at a machine.
+    > That is not the argument I want to make.
+    > Because sometimes the scared people were right. Some jobs disappeared. Some very skilled people spent their entire lives mastering something that suddenly had almost no economic value. The industrial revolution was not a fun reskilling workshop for everyone involved.
+    > But there is another pattern that kept showing up while I was researching this, and this one felt painfully familiar. Every time a machine becomes capable of doing something we previously associated with human skill, somebody makes the same jump:
+    > The machine can do the task, therefore the human who does the task is doomed.
+    > And we've been making that jump for a very, very long time.
+    > The printing press
+    > Let's start with the printing press, because the reaction to it sounds much more modern than I expected.
+    > In 1492, Johannes Trithemius, a German abbot, wrote In Praise of Scribes. Printing was spreading through Europe, and Trithemius was worried about what it meant for the monks whose job had been copying books by hand.
+    > His arguments were actually pretty reasonable. Printed books used paper instead of parchment, which he considered less durable. More importantly, he thought the act of copying itself had value. A monk copying scripture was not simply producing another copy of a book. He was reading, memorising, learning and participating in a craft. If you replaced that process with a machine, you lost something.
+    > My favourite detail: he had the thing printed. Two years later, on a press, in Mainz.
+    > Tell me this doesn't sound familiar.
+    > "Yes, the model can produce the output, but it doesn't understand it."
+    > "Yes, it is faster, but the quality isn't the same."
+    > "Yes, you can automate the task, but you're removing the process through which people actually become good at the craft."
+    > I have heard versions of all three arguments about AI. I have probably made all three arguments myself. And to be clear, Trithemius wasn't stupid. That is precisely why I like this example. He could look at the technology, correctly identify things it did worse than a human, and still completely miss what happened next.
+    > Because the winning question was never: is a printed book better than the best manuscript produced by an expert scribe ?
+    > The question was: what happens when making another copy of a book stops requiring months of human labour ?
+    > Once you ask that question, you are talking about an entirely different world. That is the mistake I think a lot of security researchers make when we evaluate AI today. We run Claude or Codex against something we are very good at, watch it make five stupid mistakes, and conclude from those five mistakes that our job is safe.
+    > Maybe.
+    > Or maybe we're Trithemius pointing at the paper quality.
+    > The industrial revolution
+    > Now, the industrial revolution is where this gets less comforting. The Luddites are usually presented as cartoon technophobes. People afraid of progress, smashing machines because they didn't understand them. That's not really what happened.
+    > Many of them were highly skilled textile workers. Their issue was not some mystical fear of machinery. They could see employers using machines to replace expensive skilled labour, push down wages and sometimes produce work they considered worse. British archival sources describe unemployment and the destruction of skilled livelihoods as central motivations for the protests.
+    > So when they fought the machines, they weren't necessarily wrong about what was happening to them. That's important because I don't want to write one of those essays saying: look at the Luddites, what idiots, technology always creates more jobs.
+    > Some of those guys were f***ed.
+    > A skill they had spent years acquiring genuinely lost a huge amount of its value. A machine did not have to become a better craftsman than the craftsman. It only had to become good enough, fast enough and cheap enough that the economics stopped caring. The shearing frame is the cleanest version of this: two unskilled workers with a machine could do in a day what took a skilled cropper a week. Nobody had to be out-crafted. That distinction should make every security researcher slightly uncomfortable.
+    > The model does not need to become Roni or Garance. It doesn't need to beat the best researcher in the world at a week-long source-code audit.
+    > If a company currently needs ten people to do a certain class of work and AI lets three people do it, seven people still have a problem.
+    > Even David Ricardo, one of the major economists of the time, changed his position on machinery. In the 1821 edition of his Principles he explicitly wrote that workers' belief that machinery could hurt their interests was not simply prejudice or ignorance. Sometimes it genuinely could. To be fair to him, he hedged in the same chapter, still argued machinery should be encouraged, and economists have been fighting ever since about which half of that chapter he actually meant. But he wrote the sentence, and he wrote it after looking at what was happening.
+    > And the workers understood this perfectly well. In testimony before the Sadler Committee in 1832, a factory worker named Joshua Drake described a world where one man was thrown out of work while another was being pushed to run machinery day and night. He wasn't writing a macroeconomic model. He was just describing what he could see happening around him. That is probably the closest historical equivalent to someone at a security conference today saying:
+    > "Yeah, yeah, productivity is going up. But our team used to hire six juniors and now we're hiring two."
+    > Both things can be true.
+    > Technology can massively expand what an industry produces and absolutely destroy the economics of a particular layer of work inside that industry. That's the uncomfortable part of history I don't think we should hide from.
+    > Photography
+    > Photography is maybe my favourite parallel, because the arguments are almost word-for-word the arguments people are making about generative AI today. In 1859, Charles Baudelaire went after photography hard. He saw a flood of people embracing this new machine that could produce realistic images without years of training as a painter. He mocked photography as a refuge for failed painters and worried that, by entering the territory of art, it would damage art itself.
+    > Basically:
+    > "These people aren't real artists."
+    > "The machine is just reproducing reality."
+    > "There is no imagination involved."
+    > "People are confusing technical output with actual art."
+    > If Twitter existed in 1859 this guy would have been having the worst week of his life.
+    > And again, there was something real underneath his fear. Photography did automate part of what painters were being paid to do. If what you needed was an accurate visual record of a person or a place, suddenly there was another way to get one.
+    > But painting didn't disappear.
+    > Instead, the existence of photography changed where painters could create value. Once perfect reproduction of reality was no longer the unique advantage of the painter, painters had even more reason to explore the things a camera did not naturally give you. Museums and art historians still study the complicated relationship that developed between the two media rather than describing photography as simply having replaced painting.
+    > This is the distinction I keep coming back to with security research. Finding a bug and being a security researcher are not the same thing. Producing a realistic image and being an artist are not the same thing either. When a machine captures one visible output of a profession, we have this weird tendency to assume it captured the profession itself.
+    > It usually didn't.
+    > Electricity
+    > Electricity gives us another version of the same mistake: extremely competent people being extremely confident because they could explain exactly why the new technology sucked.
+    > When Edison was developing practical incandescent lighting, Henry Morton, president of the Stevens Institute of Technology, publicly described Edison's lamp as a "conspicuous failure." His criticism wasn't random. He had technical reasons for believing that trying to distribute electricity across many small lamps would be hopelessly inefficient.
+    > William Preece, one of Britain's leading electrical engineers, was another prominent skeptic around the practical economics and engineering of electric lighting. He went as far as producing an analysis whose entire purpose was to show that lighting a house with several incandescent bulbs at once was practically impossible. The debates around the "subdivision of the electric light" were serious engineering debates, not random people shouting that electricity was scary. This is the kind of skepticism I find interesting, because these people understood the technology.
+    > They could show you the limitations. They could calculate the losses. They could point at a prototype and tell you exactly where it was failing. And then the technology changed. This is why I am very suspicious whenever someone gives me a static argument against a technology that is improving extremely fast.
+    > "The context window is too small."
+    > "It hallucinates."
+    > "It can't reason across a huge codebase."
+    > "It misses business logic."
+    > Sure. All of those can be true today.
+    > But "this is a real limitation" and "this limitation protects my profession" are two completely different claims. The first one is engineering. The second one is a bet on the future.
+    > Computers and the internet
+    > Then computers arrived and humanity apparently learned absolutely nothing.
+    > One of the funniest things about reading early predictions about computers and the internet is how often very intelligent people looked at the primitive version in front of them and assumed they were looking at something close to the finished product.
+    > Paul Krugman famously predicted in 1998 that the economic impact of the internet would prove no greater than that of the fax machine. And my favourite one is Robert Metcalfe. Metcalfe helped invent Ethernet. This wasn't some old guy who had never touched a computer. He was about as insider as you could possibly get. And in a December 1995 column he predicted that the internet would catastrophically collapse the following year.
+    > It didn't.
+    > He eventually ate the column in front of a live audience, and he tried to get away with eating a cake iced to look like it before the crowd booed him into blending the real thing. I love that story because it destroys another comforting idea we have: that the people closest to a technology must be the best people to predict what it will eventually become. They're often the best people to tell you how it works now. That is not the same skill.
+    > And computers give us the other side of the story too, because some professions genuinely were hit.
+    > Newspaper typographers are a perfect example. For decades, typesetting was skilled, highly paid work. Then computerized composition arrived and newspapers realised that a huge amount of that production process could simply disappear.
+    > Bertram Powers, who led New York's powerful Typographical Union No. 6, eventually understood that he wasn't going to win by pretending the technology could be stopped. So he negotiated.
+    > The deal was basically brutal in its clarity: the newspapers could automate, and existing union members received extraordinary job protections, including lifetime employment guarantees. Nearly two thousand printers were covered, and they ratified it almost unanimously. The current workers were protected while the trade itself was gradually allowed to disappear. NYU's archive of Powers' papers describes the deal in almost exactly those terms.
+    > I think Powers might be the smartest person in this entire section. Not because he loved the machine. Not because he decided automation was morally good. And definitely not because everything worked out for his profession. It didn't.
+    > He was smart because at some point he stopped arguing with the existence of the machine and started asking what position humans could still defend once the machine existed.
+    > That's a much more useful question.
+    > And then we literally did it with AI
+    > There is one last example that is almost too obvious: chess.
+    > For a very long time, chess was treated as evidence of human intelligence. Not physical skill. Not dexterity. Thinking. Then, in 1997, IBM's Deep Blue beat Garry Kasparov, the reigning world champion, in a match. If there was ever a moment where you could reasonably say "well, that's it, why would humans keep doing this ?", that was probably it. The machine could perform the central task better than the best human alive.
+    > And yet humans did not stop playing chess. What actually happened is much more interesting. Computers became part of chess. Players started preparing with engines. Analysis became vastly deeper. Entire lines that humans had believed for decades were reevaluated because a machine could see things we couldn't.
+    > And Kasparov himself eventually became one of the most interesting advocates for human-machine collaboration. In 1998 he organised the first "advanced chess" match, each player sitting with an engine, and played Veselin Topalov. It ended 3-3. The interesting part is why: a month earlier Kasparov had beaten the same guy 4-0 in normal chess. Handing both players a machine flattened his tactical edge to nothing.
+    > Then came the freestyle tournaments, and this is the result everyone actually means when they talk about centaurs: in 2005, a pair of amateurs running ordinary chess programs beat grandmasters with supercomputers. For a few years, human-machine teams outplayed engines running alone. That advantage has since eroded as engines got stronger, which is the point rather than the exception. The value moved, then moved again. Kasparov turned the whole experience into an argument for combining machine calculation with human judgment rather than pretending one had to eliminate the other.
+    > This one feels particularly important for AI. Because Deep Blue did replace humans at something. There is no human alive who should be hired today because they're better than a computer at raw chess calculation. That part is gone. But it did not follow that chess became pointless, or that chess players became pointless.
+    > The value moved.
+    > And I think that's the actual pattern hiding underneath all these stories.
+    > Not:
+    > "Technology never replaces humans."
+    > Obviously false.
+    > Not:
+    > "People have always been afraid of technology and they were always wrong."
+    > Also false.
+    > The pattern is that we are absolutely terrible at separating a task from the larger reason we valued the human doing the task in the first place. The scribe thought copying was the job. The Luddite saw craftsmanship being turned into machine operation. Baudelaire thought mechanical reproduction threatened art. Morton and Preece could see exactly why the current electrical system wouldn't scale. The typographer thought setting type was inseparable from producing a newspaper. And after Deep Blue, we discovered that beating another human at chess was apparently not the only reason humans cared about chess.
+    > Every time the technology moved, the easy conclusion was:
+    > "Well, that's the human part gone."
+    > And almost every time, what actually happened was more annoying.
+    > We had to figure out what the human part was after the machine took the obvious part away.
+    > That, to me, is a much more interesting way to think about security research and AI.
+    > History in the hacking community
+    > Here is the part I should have led with at dinner, because it's in-domain and it's recent enough that people in the room lived through it.
+    > Vulnerability research has already been declared dead four times.
+    > Fuzzing, 1990. Barton Miller's work at Wisconsin crashed a quarter to a third of standard UNIX utilities with literal random input. As fuzzing actually spread through the following decade, the reaction was predictable: bug hunting is now a button press, the craft is over. What actually happened is that fuzzing became table stakes, the trivial bugs got mined out, and researchers moved up the stack into grammar-aware fuzzing, coverage guidance, sanitizers and reachability analysis. The tool did not remove the researcher. It removed the easiest tier of the researcher's work and created three harder tiers above it.
+    > Metasploit, 2003 to 2007. Now anyone can exploit, so exploit development is dead. Instead exploit development moved into mitigation bypass: ASLR, DEP, stack cookies, CFI. The bar went up. The population of people capable of clearing it went up too, because the tooling made the entry ramp survivable.
+    > The DARPA Cyber Grand Challenge, 2016. This one is almost too on the nose. Seven machines played autonomous capture the flag on an air-gapped network with no human intervention, each system finding and patching flaws on its own, the day before DEF CON 24 opened and in the same building. The press ran headlines about hackers not needing to be human anymore. DARPA's own program manager called it the beginning of a revolution in software security, and he was right, but the revolution was tooling, not replacement. The winning system, Mayhem, then went into the human DEF CON CTF that same week and finished last. The same program manager had publicly predicted exactly that.
+    > The recon and tooling era, roughly 2015 to now. Subdomain enumeration, automated scanning, nuclei templates, mass ASN sweeps. The same argument ran again: recon is commoditised, the bounty hunter is finished. What happened is that raw recon became worthless precisely because it was automated, and the value moved to target selection, understanding trust boundaries nobody documented, and knowing which of ten thousand findings actually matters in a real deployment.
+    > Ten years after the Cyber Grand Challenge, this conference is bigger, and vulnerability research is a larger and better paid field than it was in 2016.
+    > Notice the pattern. Every single time, the automation ate the bottom of the stack and the humans moved up.
+    > Every single time, the people who defined their identity as "I am the person who does the thing that just got automated" had a very bad few years, and the people who defined it as "I am the person who finds what nobody else sees" were fine.
+    > Are security researchers doomed ?
+    > No. But I'm not going to give you the comfortable version.
+    > The argument is not "everyone survived." The croppers did not survive. The handloom weavers did not survive. The typographers did not survive as a trade. If your entire professional value is "I can find a memory safety bug in a parser faster than average," I think you should be worried, and I think you should be worried on a timescale measured in a couple of years rather than a couple of decades.
+    > The field survives, and it grows, and the goalpost moves. That's the actual claim, and history supports it hard. What gets automated is the execution of a known technique against a known target class. What does not get automated, so far, is deciding what to look at, understanding a trust boundary that nobody wrote down, and inventing a vulnerability class that did not exist yesterday.
+    > I'll use my own work as the example, not to flex but because it's the cleanest illustration I have. At DEF CON 33 I named the npx used-confusion vulnerability class (to be fair, I didn't invent a new vulnerability pattern, I applied a known one to another technology). Since then a third-party tool, npxconfuse, has appeared that automates detection of exactly what I described. My reaction to that is not "I have been replaced." The class was the contribution. Automating its detection is the proof the contribution was real, and it means the next contribution has to be a class nobody has named yet.
+    > That's the whole game. You get automated behind, not ahead. The tools eat your published work, which is exactly what publishing is for, and you go find the next thing.
+    > One thing I want to say directly to the people telling researchers it's over.
+    > Notice something about the historical record. The people who said "the machine won't work" were wrong every single time. Morton on the light bulb. Preece on subdivision. Krugman on the internet. Three for three. And then there's Metcalfe, who understood the machine better than any of them, and was still wrong, about a machine that was already working.
+    > The people who said "this will cost us something real, and somebody should govern the transition" were right every single time. Ricardo. Drake. The Luddite letter writers. Powers at Big Six.
+    > When you tell a security researcher that her job is useless because of AI, you are not making the second argument. You are making the first one, inverted. You are making a confident capability prediction about a fast-moving technology, on no evidence, in a domain you don't work in, to someone who does. Morton did that. Preece did that. They had better credentials than you and they were still wrong.
+    > And there's a second possibility I want to name, because I think it's the more common one at conferences like this: some of the people saying it's over are not scared. They just can't see where the new value went. That's a harder failure to admit than fear, because fear at least means you're paying attention.
+    > So here's my actual advice, which is the same thing I told Garance walking down that road.
+    > Your job is not safe. Nobody's job has ever been safe, and anyone who promises you otherwise is selling something. What is safe, on a two-hundred-year record where I couldn't find a real counterexample, is the position: the person who finds what the current tooling cannot see yet.
+    > That position keeps existing. It just keeps moving.
+    > The tools don't move you. You move. Powers put on a disguise, walked into a printing trade show, and looked at the machine that was coming for his members with his own eyes. It's the single smartest thing anyone in this whole story did.
+    > Go look at the machine.
+    > And that's what security research means to me.
+    > Not just researching, but craving to find where the new value is.
+    > Our job as humans is to keep finding the frontier, wherever it moves.
+    >  
+    > PS: Quick message to all the people that are trying to discourage young researchers starting in this field:
+    > go fuck yourself and your narrow view of the world.
+    > Just let them try and let yourself be surprised by the outcome. You'll be astonished to see how great they are going to become, because ultimately:
+    > Hackers Gonna Hack.
     
     **Links in post:** http://x.com/i/article/2087611764280086528
     

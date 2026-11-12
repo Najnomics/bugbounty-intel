@@ -1,11 +1,220 @@
 # @mdp_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 593
-- Conversations/threads: 458
+- Posts in this file: 601
+- Conversations/threads: 466
 - Oldest post captured: 2026-07-22
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · https://x.com/i/article/2120629930664816640
+
+
+Tags (automatic): RCE, Path normalization, Memory corruption / native, AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-12 02:05 UTC (2026-11-12 03:05 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120699530589196595
+- Metrics (at fetch): bookmark 69, impression 1865, like 73, quote 1, reply 1, repost 5
+
+> https://x.com/i/article/2120629930664816640
+>
+> [X Article — how i'd build a black box hunting stack on open weights models, with deepseek as the mvp — full text follows]
+>
+> none of the open weights models ranked on my 100 black box hacking labs refused a single lab
+> this is a build plan from the live board, not a diary of a stack i already run every day. open models only, picked by the job they're good at, with @deepseek_ai as the mvp i'd start with if i was setting the stack up again
+> every number here comes from BB Arena v2. 100 synthetic labs, 10 vuln classes, one neutral harness, and a lab only counts when the agent proves all 4 rungs. board updated 11 Nov 2026
+> why open weights for black box
+> 4 open weights setups are ranked on the board right now. all 4 show 0 refusals on that run
+> the heavy refusal rows on the refusals board are closed/hosted configs. some refused outright, some answered with a different model. when an agent is mid-chain and the provider path stops the attempt, that run is dead
+> board refusals are not a production guarantee. a 0 on the bench means that config didn't trip the benchmark's refusal scoring on these labs. it does not mean a provider, proxy or policy change can't stop u in the wild
+> the access tier side of this is its own thread. this one is about building the stack
+> deepseek is the mvp, and here's the job i'd give it
+> DeepSeek V4.1 Flash Max is #5 on the whole board with 10 of 100 labs solved, tied with Grok 4.7 High, behind Opus 5, Grok 4.6 and GPT-5.6 Sol
+> on the same board row it shows $7.69 cost per solve (site Cost / solve = cost to run the full board at list prices ÷ solves, so $76.92 ÷ 10), 99.44% API success and about 79 tok/s. that is not the cheapest cost per solve on the board. MiMo V2.6 Flash High is $3.00 a solve and MiMo V2.6 Pro High is $5.22. deepseek is the open model i'd still make the mvp because of solve count + auth/access strength, not because it wins on $/solve
+> access control and auth & sessions are where it's strongest among the open models on this board (3/10 and 2/10), so that's the default job in this plan. wide passes over login flows, roles, sessions and anything that decides who can see what
+> pick the open model by class, not by rank
+> the overall rank hides a lot. split by class and the open models each have a lane on this board
+> access control: DeepSeek and MiMo V2.6 Pro High both solved 3 of 10, the best of any open model on that class
+> auth & sessions: DeepSeek 2 of 10, best among the open rows
+> logic & races: DeepSeek 2 of 10, best among the open rows
+> browser-side / server-side / infra: MiMo V2.6 Pro High is the open model that put points on the board there (1/10 each)
+> so the routing in this plan looks like this
+> auth and access control → deepseek
+> wider first pass + browser/server/infra leads → mimo pro
+> cheapest wide sweep on $/solve → mimo flash
+> glm flash as a second open-weights vote where u want another cheap pass
+> cheap sweeps first, then spend where it matters
+> use the cheap open rows to run wide, then spend where the lead looks real
+> MiMo V2.6 Flash High: $3.00 cost per solve ($5.99 to run the full board), 2 solves
+> MiMo V2.6 Pro High: $5.22 cost per solve ($41.76 to run), 8 solves
+> DeepSeek V4.1 Flash Max: $7.69 cost per solve ($76.92 to run), 10 solves
+> GLM-5.3 Flash Max from @Zai_org: $12.82 cost per solve ($38.46 to run), 3 solves
+> so the plan is: cheap models for the first pass over everything in scope, then send the leads that look real to the stronger model for the full chain
+> watch the token bill, not just the price
+> cheap per token isn't the same as cheap per run
+> on the current v2 board deepseek used 2.35B tokens on the 100 labs, the most of any ranked model. cost per solve still lands at $7.69 because the price per token is tiny, but a token-hungry model on a pricier provider adds up fast
+> so pick the provider on caching, not just the sticker price. providers make a massive difference here
+> i've tested multiple providers on deepseek and cache hit rates range from 90 to 98%. command code and deepseek direct usually sit around 99%, command code has some of the best caching out there on their deepseek infrastructure
+> where u run it matters as much as which model
+> this one's easy to miss
+> on the live refusals board, configs that hit provider cyber safeguards aren't ranked when refusals stop more than 10 of 100 labs. Claude Fable 5.1 High was stopped on 100 of 100 and answered with Opus 5 instead. GPT-6 Astra High was refused on 76 of 100. even some cyber-access rows still got refused or swapped
+> open weights aren't magic. the path between u and the weights can still kill the run before the model gets a chance. treat the board's 0-refusal open rows as a bench signal, not a promise that production traffic will always stay clear
+> for deepseek i dont overthink it. i call it direct from deepseek's api, through command code, or through openrouter, whichever fits the job
+> what open weights still can't do
+> they're not magic
+> code execution: deepseek 1 of 10, mimo pro 1 of 10. opus 5 is on 2 of 10
+> server-side: best open on this board is mimo pro at 1 of 10. most open rows are 0
+> ai agents: 0 of 10 for every open weights row on the board
+> and the top spot still belongs to a closed model, Claude Opus 5 High on 22 of 100, with Grok 4.6 High on 21
+> those are the classes where u still do the work urself. let the stack clear the wide stuff so ur time goes there
+> set it up this weekend
+> pick one agent loop and give every model the same tools, a target, a scope and a shell
+> only point it at things u have permission to test, and keep it inside the scope
+> start with deepseek on auth and access control
+> add one cheap model for wide sweeps, mimo flash is the obvious pick on $/solve
+> add mimo pro when u need browser/server/infra coverage from an open model
+> check where ur provider sits between u and the model before u blame the model
+> prove every finding by hand before it goes anywhere
+> the free workflow prompts are here
+> github.com/mdpsec/bug-bounty-hunting-prompts
+> the full board, every model and every class, is here
+> blackboxarena.ai
+> open weights are great and they keep getting better. lmk which open model u want on the board next
+>
+> [Links in article: github.com/mdpsec/bug-bounty-hunting-prompts, blackboxarena.ai]
+
+**Links in post:** https://x.com/i/article/2120629930664816640
+
+
+---
+
+## 2026-11-11 · Post · whats the longest ur bounty has sat after triage before it paid out
+
+
+### Post — @mdp_sec — 2026-11-11 22:40 UTC (2026-11-11 23:40 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120647759422423405
+- Metrics (at fetch): bookmark 3, impression 2537, like 28, quote 0, reply 23, repost 0
+
+> whats the longest ur bounty has sat after triage before it paid out
+>
+> days only, no program names fam
+
+
+---
+
+## 2026-11-11 · Post · Next rabbit hole..... 
+
+
+### Post — @mdp_sec — 2026-11-11 20:39 UTC (2026-11-11 21:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120617541966180395
+- Metrics (at fetch): bookmark 1, impression 1285, like 13, quote 0, reply 8, repost 0
+
+> Next rabbit hole..... 
+>
+> abliterated models what u got fam who i gotta look into
+>
+> See how they bench and run
+
+
+---
+
+## 2026-11-11 · Post · If you dont count the refusals Mythos 5.2 is banger
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-11 20:11 UTC (2026-11-11 21:11 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120610265855303822
+- Metrics (at fetch): bookmark 2, impression 1323, like 17, quote 0, reply 2, repost 0
+
+> If you dont count the refusals Mythos 5.2 is banger
+>
+> Legit would love to see this thing on red
+>
+> Plz @ClaudeDevs hook me up?
+>
+> https://blackboxarena.ai/models/claude-mythos-5-2-high/ [pic.x.com/4CVWj5xVrr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW3ry_8bAAAeqnI.jpg — no alt text provided by author
+
+**Links in post:** https://blackboxarena.ai/models/claude-mythos-5-2-high/
+
+
+---
+
+## 2026-11-11 · Post · one ssrf of mine leaked live cloud creds and never touched the metadata ip
+
+
+Tags (automatic): SSRF
+
+
+### Post — @mdp_sec — 2026-11-11 14:10 UTC (2026-11-11 15:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120519414491566209
+- Metrics (at fetch): bookmark 15, impression 2355, like 57, quote 0, reply 3, repost 2
+
+> one ssrf of mine leaked live cloud creds and never touched the metadata ip
+> pointed the fetch at my own server and the request turned up signed with the worker's own keys, session token and all
+> before u chase 169.254 read what the box sends u
+
+
+---
+
+## 2026-11-11 · Post · 3 questions i keep getting about the bb arena v2 board
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-11 12:10 UTC (2026-11-11 13:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120489215947313417
+- Metrics (at fetch): bookmark 0, impression 1069, like 16, quote 0, reply 3, repost 0
+
+> 3 questions i keep getting about the bb arena v2 board
+>
+> why isnt fable 5.1 ranked
+> it refused all 100 labs and anthropic answered with opus 5 instead. we never count a fallback model's work, so it scored 0
+>
+> why is opus 5.5 on 7 solves
+> 32 of 100 labs got refused or answered by opus 4.8, despite cvp defense access
+>
+> why is the top score only 22 of 100
+> no source code, no hints, 4 rungs per lab, and a rung only counts when the lab's own verifier saw it and the proof is in the agent's trace
+>
+> @AnthropicAI
+>
+> http://blackboxarena.ai
+
+**Links in post:** http://blackboxarena.ai
+
+
+---
+
+## 2026-11-11 · Post · openai says it can stop a research model's output within 35 seconds of a stop instruction
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-11 10:10 UTC (2026-11-11 11:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120459015641784524
+- Metrics (at fetch): bookmark 0, impression 1053, like 11, quote 0, reply 3, repost 0
+
+> openai says it can stop a research model's output within 35 seconds of a stop instruction
+> 35 seconds is a long time for an agent with a shell
+> @OpenAI
 
 
 ---
@@ -154,6 +363,32 @@ Tags (automatic): Memory corruption / native, Platform: HackerOne, Platform: Bug
 - Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, retweet 0
 
 > @MelansonIndus go check the url fam... idk whats ur question
+
+
+---
+
+## 2026-11-11 · Post · where the bounty money went in october
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @mdp_sec — 2026-11-11 08:10 UTC (2026-11-11 09:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120428817130881387
+- Metrics (at fetch): bookmark 111, impression 7991, like 210, quote 2, reply 9, repost 5
+
+> where the bounty money went in october
+> hackerone ≈$1.2M, bugcrowd $551k, intigriti ≈$54k + €26k
+>
+> pick ur platform before u pick ur target
+>
+> https://huntdeck.io/stats [pic.x.com/MmjTnmjrPW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW0WtjdawAAetDf.jpg — no alt text provided by author
+
+**Links in post:** https://huntdeck.io/stats
 
 
 ---
@@ -2750,6 +2985,125 @@ Tags (automatic): AI-assisted hunting
     - Metrics (at fetch): bookmark 1239, impression 141377, like 826, quote 8, reply 29, repost 124
     
     > https://x.com/i/article/2115013303458275328
+    >
+    > [X Article — build ur own AI bug bounty hunter, everything i tell people in my DMs — full text follows]
+    >
+    > My DMs turned into an AI bug bounty support desk
+    > Same questions every single day
+    > So here's every answer in one place, from picking a model to ur first report
+    > Bookmark it. Next time u wanna ask me which model or where to start, the answer is in here
+    > Which model do I use
+    > DeepSeek
+    > Still my MVP and still my favourite. Mainly because I don't have to fight refusals every five minutes while doing legit security research @deepseek_ai
+    > And I'm gunna make a claim u can argue with
+    > DeepSeek V4.1 Flash is 3 solves behind Claude Opus 5 on black box hacking for about 1/32 of the cost per solve
+    > Here's the receipts from BB Arena, my black box benchmark. 100 private web and API labs, no source code, no hints, and a lab only counts as solved when the agent proves all four rungs to the lab's own verifier. Every model runs in the same neutral harness
+    > As of 27 Oct
+    > Grok 4.6 High 62 of 100 solved, $2.35 per solve
+    > Claude Opus 5 High 60 of 100, $7.72 per solve
+    > DeepSeek V4.1 Flash Max 57 of 100, $0.24 per solve
+    >  
+    > The whole 100 lab run cost $13.48 on DeepSeek. Opus 5 cost $463 for 3 more solves
+    > Zero refusal labs too. Meanwhile Gemini 4 Argon refused all 100 labs and GPT-6.1 Terra refused 89. A refusal scores zero on BB Arena, same as it does on a real target at 2am
+    > One more for the people who reckon cheap means dumb. On auth bypass, the biggest class on the board with 28 labs, DeepSeek V4.1 Flash solved 20. Highest of every model tested
+    >  
+    > Is it the best model on every class? No. It went 0 for 10 on SSRF and 0 for 4 on supply chain. Check the class that matters for ur targets before u commit
+    > If u think a model deserves a higher spot, quote this with ur results. Same labs, same harness, same proof rules for everyone
+    > How to read the board before u pick a model
+    > Don't just look at the top number
+    > Each lab is a four rung ladder. Find the weak spot, cross the first boundary, go deeper, complete the chain. A rung only counts if the lab's verifier saw the action and the agent's own trace has that run's unique proof value. What the model claims earns nothing
+    > That matters for u because it's the same test a triager runs on ur report. Can u prove it or not
+    > Every model gets up to two attempts per lab, 25 minutes each, black box. A target, a scope and a shell. No source code, no hints, no answer key
+    > Then look at three things
+    > solves, how many labs it fully proved
+    > cost per solve, what one proven finding cost. A cheap run that solves nothing is still expensive
+    > refusals, how many labs it wouldn't even attempt
+    > Click into the model page for the class breakdown. If u mostly hunt access control, care about auth bypass and IDOR. If u live in SSRF, check SSRF
+    > Access control is my bread and butter btw. Auth bypass and IDOR are 287 of my 527 reports and about two thirds of what I've been paid in USD. That's why I care so much about that column
+    >  
+    > What does it cost to start
+    > Honestly DeepSeek is cheap and it's all u need
+    > $0.24 per proven solve on the benchmark. U don't need a stack of subscriptions to learn this stuff. Start cheap, learn the craft, upgrade later if u actually need to
+    > For context, my full pipeline works out to at least $363 in tokens per submitted report at API prices. That's what running it at scale looks like. U don't need any of that to learn
+    > The free entry point I recommend
+    > Build things. DeepSeek plus Strix @strix_ai
+    > Strix is an open-source AI pentesting tool. From its README
+    > autonomous AI agents that run ur code dynamically, find vulnerabilities and validate them with proofs of concept
+    > runs locally with Docker and ur own LLM key, the open-source version is free
+    > multi-agent, so recon, exploitation and validation agents work together
+    > comes with an HTTP proxy, a browser, a shell and a Python sandbox for writing PoCs
+    > lists DeepSeek V4.1 Flash on OpenRouter as one of its recommended models
+    > Apache 2.0, 72.4k stars as of 28 Oct
+    > github.com/usestrix/strix
+    >  
+    > Their README is clear on this and so am I. Only point it at stuff u own or have written permission to test, and stay in scope
+    > Run it, read every request it sends, and ask urself why it tried what it tried. That's how u learn
+    > The 3 mistakes I see over and over
+    > 1. No fundamentals
+    > Most people in my DMs don't understand tech stacks and they don't understand how a business runs
+    > They slot in AI and hope for the best
+    > No logic. No idea how the technology works. The OSI layer, the seven layers of everything. Absolutely no idea
+    > U can't find a business logic bug if u don't know how the business makes money. U can't spot a weird response if u don't know what a normal one looks like
+    > AI doesn't fix that for u. It just makes u faster at not knowing
+    > 2. Trusting the AI and submitting whatever it says
+    > This one burns triagers and it burns ur reputation
+    > People submit stuff with no idea whether it's even a bug. They can't replicate it. They just trust the AI
+    > Here's my own receipts. My hunting pipeline has done 1,023 runs and flagged 3,786 findings
+    > 381 got submitted. About 1 in 10
+    > 2,596 got disproved by my own gates before a triager ever saw them. Another 475 got binned as low impact or not actionable
+    > And getting out the door still isn't a payday. Of the 527 reports I've sent to bug bounty platforms, 225 came back duplicate. 139 got their severity knocked down and only 41 went up
+    >  
+    > So the other 9 need killing before they ever reach a platform. Can u reproduce it live, from a realistic attacker position, from scratch? Does it break something, or is it just how the product works? If u can't answer that, don't hit submit
+    > That's why my own workflow has a whole phase that acts like a hostile triager, plus a duplicate check at the end
+    > 3. No effort, and not using AI to learn
+    > They don't put in the effort. They don't go out of their way
+    > And the wild part is the AI is sitting right there. Ask it how a JWT works. Ask it why that 403 turned into a 200. Ask it to explain the stack u're looking at before u attack it
+    > Use it as a teacher first and a hacker second
+    > The workflow, for free
+    > I open-sourced the full bug bounty workflow behind my hunting system. Prompts from recon to the final duplicate check
+    > github.com/mdpsec/bug-bounty-hunting-prompts
+    >  
+    > 782 stars and 158 forks as of 28 Oct. MIT licence. 14 phase prompt files
+    > 0 recon and surface map
+    > 1 access, account setup and an authenticated walk
+    > 2 a broad sweep across endpoints and vuln classes
+    > 3 closeout
+    > 4a and 4b scope plus an authenticated browser walk
+    > 5a and 5b scope plus a critical impact hunt
+    > 6 first triage and dedupe
+    > 7 validate and escalate
+    > 8 and 8a independent verification and escalation
+    > 9 an independent live triage gate. Submission floors, a fresh live repro, bug vs business behaviour, brutally honest severity
+    > 10 a same program self duplicate check
+    > How to use it. Feed ur agent one phase at a time, keep the handoff files between phases, and swap my tools for urs. Every tool and model is a $YOUR_ placeholder and ADAPTATION.md tells u what to replace
+    > There's a shared angle ledger across phases so later phases know what's already been tested
+    > Phase 9 and 10 are the answer to mistake 2. If ur finding can't survive those, it doesn't go out
+    > What it doesn't include
+    > It's not plug and play and I'm not providing setup support
+    > No browser fleet, no email or proxy services, no dashboard, no PoC runtime, no creds, no RAG corpus. Those are mine and they're built around my setup
+    > The prompts are probably the least interesting part anyway. Spend ur time on the phase boundaries, the evidence discipline, the handoffs and the triage gates
+    > What u need to build around it
+    > real accounts on the target. For access control testing that means an attacker account and a victim account, and a record of which request created each object and who should be allowed to touch it. That's the difference between changing a random ID and proving broken access control
+    > a browser ur agent can drive and come back to, so it can reproduce the exact state later
+    > somewhere to catch callbacks for the blind stuff
+    > a memory of ur own validated findings
+    > That last one is my favourite weekend project tip. Build ur RAG / playbook db from ur own past findings. Then build a custom harness that watches the traces. Put a decision agent across it to correlate what's happening with ur RAG. Then it steers itself
+    > Strix gives u a lot of the runtime side to learn on. My prompts give u the structure and the gates. U bring the brain
+    > Before u DM me
+    > I don't mind questions at all. Beginner or experienced, doesn't matter
+    > But put in some effort first
+    > Read the repo. Search my past posts. Check the benchmark. Actually try building something
+    > If u've done that and u're stuck on something specific, or u found something interesting, I'm always keen for a yarn
+    > What I can't do is build ur hackbot, debug ur setup or get ur cyber access approved. I can't even get it myself 💀
+    > Put in the effort, and I'll put in mine 🤝
+    > Where to go next
+    > The full workflow, free
+    > github.com/mdpsec/bug-bounty-hunting-prompts
+    > Which model to use, with proof, updated as new models drop
+    > blackboxarena.ai
+    > Lmk what u build
+    >
+    > [Links in article: github.com/usestrix/strix, github.com/mdpsec/bug-bounty-hunting-prompts, blackboxarena.ai, https://abs.twimg.com/emoji/v2/svg/1f480.svg, https://abs.twimg.com/emoji/v2/svg/1f91d.svg]
     
     **Links in post:** https://x.com/i/article/2115013303458275328
     
@@ -3007,12 +3361,134 @@ Tags (automatic): AI-assisted hunting
 ## 2026-10-29 · Post · https://x.com/i/article/2115013303458275328
 
 
+Tags (automatic): SSRF, IDOR / BOLA, Auth bypass, Dependency confusion / supply chain, Path normalization, Memory corruption / native, AI-assisted hunting
+
+
 ### Post — @mdp_sec — 2026-10-29 01:20 UTC (2026-10-29 02:20 WAT)
 
 - URL: https://x.com/mdp_sec/status/2115614748742218045
 - Metrics (at fetch): bookmark 1239, impression 141377, like 826, quote 8, reply 29, repost 124
 
 > https://x.com/i/article/2115013303458275328
+>
+> [X Article — build ur own AI bug bounty hunter, everything i tell people in my DMs — full text follows]
+>
+> My DMs turned into an AI bug bounty support desk
+> Same questions every single day
+> So here's every answer in one place, from picking a model to ur first report
+> Bookmark it. Next time u wanna ask me which model or where to start, the answer is in here
+> Which model do I use
+> DeepSeek
+> Still my MVP and still my favourite. Mainly because I don't have to fight refusals every five minutes while doing legit security research @deepseek_ai
+> And I'm gunna make a claim u can argue with
+> DeepSeek V4.1 Flash is 3 solves behind Claude Opus 5 on black box hacking for about 1/32 of the cost per solve
+> Here's the receipts from BB Arena, my black box benchmark. 100 private web and API labs, no source code, no hints, and a lab only counts as solved when the agent proves all four rungs to the lab's own verifier. Every model runs in the same neutral harness
+> As of 27 Oct
+> Grok 4.6 High 62 of 100 solved, $2.35 per solve
+> Claude Opus 5 High 60 of 100, $7.72 per solve
+> DeepSeek V4.1 Flash Max 57 of 100, $0.24 per solve
+>  
+> The whole 100 lab run cost $13.48 on DeepSeek. Opus 5 cost $463 for 3 more solves
+> Zero refusal labs too. Meanwhile Gemini 4 Argon refused all 100 labs and GPT-6.1 Terra refused 89. A refusal scores zero on BB Arena, same as it does on a real target at 2am
+> One more for the people who reckon cheap means dumb. On auth bypass, the biggest class on the board with 28 labs, DeepSeek V4.1 Flash solved 20. Highest of every model tested
+>  
+> Is it the best model on every class? No. It went 0 for 10 on SSRF and 0 for 4 on supply chain. Check the class that matters for ur targets before u commit
+> If u think a model deserves a higher spot, quote this with ur results. Same labs, same harness, same proof rules for everyone
+> How to read the board before u pick a model
+> Don't just look at the top number
+> Each lab is a four rung ladder. Find the weak spot, cross the first boundary, go deeper, complete the chain. A rung only counts if the lab's verifier saw the action and the agent's own trace has that run's unique proof value. What the model claims earns nothing
+> That matters for u because it's the same test a triager runs on ur report. Can u prove it or not
+> Every model gets up to two attempts per lab, 25 minutes each, black box. A target, a scope and a shell. No source code, no hints, no answer key
+> Then look at three things
+> solves, how many labs it fully proved
+> cost per solve, what one proven finding cost. A cheap run that solves nothing is still expensive
+> refusals, how many labs it wouldn't even attempt
+> Click into the model page for the class breakdown. If u mostly hunt access control, care about auth bypass and IDOR. If u live in SSRF, check SSRF
+> Access control is my bread and butter btw. Auth bypass and IDOR are 287 of my 527 reports and about two thirds of what I've been paid in USD. That's why I care so much about that column
+>  
+> What does it cost to start
+> Honestly DeepSeek is cheap and it's all u need
+> $0.24 per proven solve on the benchmark. U don't need a stack of subscriptions to learn this stuff. Start cheap, learn the craft, upgrade later if u actually need to
+> For context, my full pipeline works out to at least $363 in tokens per submitted report at API prices. That's what running it at scale looks like. U don't need any of that to learn
+> The free entry point I recommend
+> Build things. DeepSeek plus Strix @strix_ai
+> Strix is an open-source AI pentesting tool. From its README
+> autonomous AI agents that run ur code dynamically, find vulnerabilities and validate them with proofs of concept
+> runs locally with Docker and ur own LLM key, the open-source version is free
+> multi-agent, so recon, exploitation and validation agents work together
+> comes with an HTTP proxy, a browser, a shell and a Python sandbox for writing PoCs
+> lists DeepSeek V4.1 Flash on OpenRouter as one of its recommended models
+> Apache 2.0, 72.4k stars as of 28 Oct
+> github.com/usestrix/strix
+>  
+> Their README is clear on this and so am I. Only point it at stuff u own or have written permission to test, and stay in scope
+> Run it, read every request it sends, and ask urself why it tried what it tried. That's how u learn
+> The 3 mistakes I see over and over
+> 1. No fundamentals
+> Most people in my DMs don't understand tech stacks and they don't understand how a business runs
+> They slot in AI and hope for the best
+> No logic. No idea how the technology works. The OSI layer, the seven layers of everything. Absolutely no idea
+> U can't find a business logic bug if u don't know how the business makes money. U can't spot a weird response if u don't know what a normal one looks like
+> AI doesn't fix that for u. It just makes u faster at not knowing
+> 2. Trusting the AI and submitting whatever it says
+> This one burns triagers and it burns ur reputation
+> People submit stuff with no idea whether it's even a bug. They can't replicate it. They just trust the AI
+> Here's my own receipts. My hunting pipeline has done 1,023 runs and flagged 3,786 findings
+> 381 got submitted. About 1 in 10
+> 2,596 got disproved by my own gates before a triager ever saw them. Another 475 got binned as low impact or not actionable
+> And getting out the door still isn't a payday. Of the 527 reports I've sent to bug bounty platforms, 225 came back duplicate. 139 got their severity knocked down and only 41 went up
+>  
+> So the other 9 need killing before they ever reach a platform. Can u reproduce it live, from a realistic attacker position, from scratch? Does it break something, or is it just how the product works? If u can't answer that, don't hit submit
+> That's why my own workflow has a whole phase that acts like a hostile triager, plus a duplicate check at the end
+> 3. No effort, and not using AI to learn
+> They don't put in the effort. They don't go out of their way
+> And the wild part is the AI is sitting right there. Ask it how a JWT works. Ask it why that 403 turned into a 200. Ask it to explain the stack u're looking at before u attack it
+> Use it as a teacher first and a hacker second
+> The workflow, for free
+> I open-sourced the full bug bounty workflow behind my hunting system. Prompts from recon to the final duplicate check
+> github.com/mdpsec/bug-bounty-hunting-prompts
+>  
+> 782 stars and 158 forks as of 28 Oct. MIT licence. 14 phase prompt files
+> 0 recon and surface map
+> 1 access, account setup and an authenticated walk
+> 2 a broad sweep across endpoints and vuln classes
+> 3 closeout
+> 4a and 4b scope plus an authenticated browser walk
+> 5a and 5b scope plus a critical impact hunt
+> 6 first triage and dedupe
+> 7 validate and escalate
+> 8 and 8a independent verification and escalation
+> 9 an independent live triage gate. Submission floors, a fresh live repro, bug vs business behaviour, brutally honest severity
+> 10 a same program self duplicate check
+> How to use it. Feed ur agent one phase at a time, keep the handoff files between phases, and swap my tools for urs. Every tool and model is a $YOUR_ placeholder and ADAPTATION.md tells u what to replace
+> There's a shared angle ledger across phases so later phases know what's already been tested
+> Phase 9 and 10 are the answer to mistake 2. If ur finding can't survive those, it doesn't go out
+> What it doesn't include
+> It's not plug and play and I'm not providing setup support
+> No browser fleet, no email or proxy services, no dashboard, no PoC runtime, no creds, no RAG corpus. Those are mine and they're built around my setup
+> The prompts are probably the least interesting part anyway. Spend ur time on the phase boundaries, the evidence discipline, the handoffs and the triage gates
+> What u need to build around it
+> real accounts on the target. For access control testing that means an attacker account and a victim account, and a record of which request created each object and who should be allowed to touch it. That's the difference between changing a random ID and proving broken access control
+> a browser ur agent can drive and come back to, so it can reproduce the exact state later
+> somewhere to catch callbacks for the blind stuff
+> a memory of ur own validated findings
+> That last one is my favourite weekend project tip. Build ur RAG / playbook db from ur own past findings. Then build a custom harness that watches the traces. Put a decision agent across it to correlate what's happening with ur RAG. Then it steers itself
+> Strix gives u a lot of the runtime side to learn on. My prompts give u the structure and the gates. U bring the brain
+> Before u DM me
+> I don't mind questions at all. Beginner or experienced, doesn't matter
+> But put in some effort first
+> Read the repo. Search my past posts. Check the benchmark. Actually try building something
+> If u've done that and u're stuck on something specific, or u found something interesting, I'm always keen for a yarn
+> What I can't do is build ur hackbot, debug ur setup or get ur cyber access approved. I can't even get it myself 💀
+> Put in the effort, and I'll put in mine 🤝
+> Where to go next
+> The full workflow, free
+> github.com/mdpsec/bug-bounty-hunting-prompts
+> Which model to use, with proof, updated as new models drop
+> blackboxarena.ai
+> Lmk what u build
+>
+> [Links in article: github.com/usestrix/strix, github.com/mdpsec/bug-bounty-hunting-prompts, blackboxarena.ai, https://abs.twimg.com/emoji/v2/svg/1f480.svg, https://abs.twimg.com/emoji/v2/svg/1f91d.svg]
 
 **Links in post:** https://x.com/i/article/2115013303458275328
 

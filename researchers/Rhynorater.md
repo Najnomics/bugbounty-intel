@@ -35,3 +35,9 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **8 high-impact IDORs + SSRF after bypassing SSL pinning, APK hash verify, root detection** (`mobile`)
   - post: https://x.com/Rhynorater/status/1068037889186037770
   - local: `posts/Rhynorater/ARCHIVE.md`, `data/x_posts.jsonl`
+
+### Depi OpenAI Codex prompt-injection → npm supply chain (quoted) — 11 Nov 2026
+
+- Quote post: https://x.com/Rhynorater/status/2120539019427889278 — [`posts/Rhynorater/2026-11-11-2120539019427889278.md`](../posts/Rhynorater/2026-11-11-2120539019427889278.md)
+- Full writeup: [`writeups/Rhynorater/depi-backdooring-codex.md`](../writeups/Rhynorater/depi-backdooring-codex.md)
+- **Bug class:** Prompt injection → Codex sandbox escape (CoreCLR debug pipes) → Actions secret theft → cache poison → `@openai/codex` npm control. Initial Bugcrowd bounty $1,000 (under further review).

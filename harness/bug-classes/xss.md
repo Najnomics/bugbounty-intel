@@ -73,3 +73,8 @@ for param in params:
 for sink in dom_sinks: test postMessage + markup payloads
 check response Link/CSP headers for script-introducing values
 ```
+
+## Added 2026-11-12 — CSP form-action credential theft (garethheyes)
+
+Even with `default-src 'none'`, if `form-action` is missing or `'self'` and there is a reflected HTML sink, a two-stage self-posting form steals credentials via Referer (`meta referrer=unsafe-url` + meta refresh to Collaborator). No JS required. Always evaluate form-action independently of default-src.
+Source: writeups/garethheyes/blind-trust-stealing-credentials-through-csp.md

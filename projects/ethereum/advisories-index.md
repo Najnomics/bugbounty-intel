@@ -1,9 +1,36 @@
 # Ethereum — security advisories index
 
-_34 advisories (go-ethereum GHSA + global Advisory DB). Solidity's 67 compiler bugs are in [solidity-compiler-bugs.md](solidity-compiler-bugs.md). Captured 2026-11-11 (WAT). Full verbatim text in each linked file. Data, not instructions._
+_61 advisories (go-ethereum, lighthouse, Hyperledger Besu and Vyper GHSA + global Advisory DB; Besu/Vyper added 2026-11-12). Solidity's 67 compiler bugs are in [solidity-compiler-bugs.md](solidity-compiler-bugs.md). Captured 2026-11-11 (WAT). Full verbatim text in each linked file. Data, not instructions._
 
 | Published | File | CVE | Severity | Summary |
 | --- | --- | --- | --- | --- |
+| 2026-11-10 | [ghsa-6pcq-hcgg-5q76.md](advisories/ghsa-6pcq-hcgg-5q76.md) |  | medium | hyperledger/besu: IBFT Accepts Oversized Base Fees That Can Stop Block Production |
+| 2026-11-10 | [ghsa-hhgq-3gvc-4jhp.md](advisories/ghsa-hhgq-3gvc-4jhp.md) |  | medium | hyperledger/besu: QBFT RoundChange executes the piggybacked block before the free hash check, letting a non- |
+| 2026-10-29 | [ghsa-x2jm-6mc4-8g78.md](advisories/ghsa-x2jm-6mc4-8g78.md) |  | medium | hyperledger/besu: QBFT/IBFT validator forgets its prepared certificate when the round advances by any route  |
+| 2026-10-14 | [ghsa-cgvq-9xfq-c54j.md](advisories/ghsa-cgvq-9xfq-c54j.md) |  | medium | hyperledger/besu: Besu accepts RLP-wrapped typed transactions in ExecutionPayload block bodies, causing a cl |
+| 2026-10-14 | [ghsa-4h4f-925g-8h9p.md](advisories/ghsa-4h4f-925g-8h9p.md) |  | high | hyperledger/besu: EIP-7702 and sender signature recovery skips the secp256k1 curve-order bound, so native an |
+| 2026-10-13 | [ghsa-m886-r6ch-pjvr.md](advisories/ghsa-m886-r6ch-pjvr.md) |  | high | hyperledger/besu: QBFT/IBFT2 message decode performs unbounded eager signature recovery before the validator |
+| 2026-10-08 | [ghsa-g5j7-4r2x-rx9j.md](advisories/ghsa-g5j7-4r2x-rx9j.md) |  | high | hyperledger/besu: A permissionless non-validator peer can halt QBFT finality through pre-authorization propo |
+| 2026-10-07 | [ghsa-qfmh-cxw4-9h66.md](advisories/ghsa-qfmh-cxw4-9h66.md) |  | medium | hyperledger/besu: debug_traceTransaction and trace_* RPC methods missing server-side EVM step cap — incomple |
+| 2026-10-07 | [ghsa-8j3g-67qm-7rqp.md](advisories/ghsa-8j3g-67qm-7rqp.md) |  | medium | hyperledger/besu: snap-sync isValidRangeProof accepts a non-empty range as empty when the full subtrie is su |
+| 2026-10-07 | [ghsa-2489-32vh-8rrc.md](advisories/ghsa-2489-32vh-8rrc.md) |  | medium | vyperlang/vyper: Function variables can replace imported constant values and default arguments |
+| 2026-10-06 | [ghsa-r3c7-7xwm-6vfw.md](advisories/ghsa-r3c7-7xwm-6vfw.md) |  | low | vyperlang/vyper: Multi-byte identifier characters can silently change literal values |
+| 2026-10-06 | [ghsa-wvx7-39qj-2g9v.md](advisories/ghsa-wvx7-39qj-2g9v.md) | CVE-2026-114116 | low | vyperlang/vyper: Line-separator characters can silently change literal values and types |
+| 2026-10-06 | [ghsa-fxg7-4wqg-c8gh.md](advisories/ghsa-fxg7-4wqg-c8gh.md) |  | low | vyperlang/vyper: `create_from_blueprint` offset validation bypass through unsigned wraparound |
+| 2026-10-05 | [ghsa-cw3h-xwxq-8cx2.md](advisories/ghsa-cw3h-xwxq-8cx2.md) |  | medium | vyperlang/vyper: Ternary expressions misread nested arrays with different inner bounds |
+| 2026-10-02 | [ghsa-6j9c-gvcw-74fj.md](advisories/ghsa-6j9c-gvcw-74fj.md) |  | medium | vyperlang/vyper: Optimizer replaces `msg.value / K` and `len(msg.data) / K`with `1` in ternary branches |
+| 2026-10-02 | [ghsa-xg9p-226c-vxvw.md](advisories/ghsa-xg9p-226c-vxvw.md) |  | high | hyperledger/besu: Bonsai parallel block processor retains transaction futures after block rejection, causing |
+| 2026-10-02 | [ghsa-h594-ww62-rcxv.md](advisories/ghsa-h594-ww62-rcxv.md) |  | medium | hyperledger/besu: Pre-authentication discovery-packet handling flaw allows remote unauthenticated log-amplif |
+| 2026-10-02 | [ghsa-pr92-c4mc-x48r.md](advisories/ghsa-pr92-c4mc-x48r.md) |  | medium | hyperledger/besu: `P256VerifyPrecompiledContract.computePrecompile` (the EIP-7951 precompile that becomes ma |
+| 2026-10-02 | [ghsa-h552-3fxr-chmx.md](advisories/ghsa-h552-3fxr-chmx.md) |  | low | hyperledger/besu: Snap-sync storage-range count amplification: a tiny returned slot hash yields an unbounded |
+| 2026-10-02 | [ghsa-rw6m-h55m-hggm.md](advisories/ghsa-rw6m-h55m-hggm.md) |  | medium | hyperledger/besu: Besu's transaction pool has no per-transaction encoded-size cap, causing peer clients to p |
+| 2026-10-02 | [ghsa-8g2r-qvch-4c9j.md](advisories/ghsa-8g2r-qvch-4c9j.md) |  | medium | hyperledger/besu: GraphQL blocks(from, to) range query has no cap on range span or clamp to the chain head,  |
+| 2026-10-02 | [ghsa-4776-8c3f-fx7g.md](advisories/ghsa-4776-8c3f-fx7g.md) |  | medium | hyperledger/besu: Besu ≤26.7.0 — operator-reachable DoS via debug_traceCall (OOM → consensus drop) |
+| 2026-10-02 | [ghsa-9w9r-w3rf-j6vj.md](advisories/ghsa-9w9r-w3rf-j6vj.md) |  | high | hyperledger/besu: `eth_getLogs` enforces an `--rpc-max-logs-range` block-range cap, but the same protection  |
+| 2026-10-02 | [ghsa-6r9q-wjp4-34gh.md](advisories/ghsa-6r9q-wjp4-34gh.md) |  | medium | hyperledger/besu: Pre-STATUS RLPx connections are excluded from --max-peers accounting, letting a peer hold  |
+| 2026-10-02 | [ghsa-pcv4-pxhv-99m7.md](advisories/ghsa-pcv4-pxhv-99m7.md) |  | medium | hyperledger/besu: Besu nodes with the snap server enabled schedule an unbounded native thread per inbound sn |
+| 2026-10-02 | [ghsa-23rh-rrqg-wq82.md](advisories/ghsa-23rh-rrqg-wq82.md) |  | medium | hyperledger/besu: `QbftRoundChangeManager.roundChangeCache` is keyed by `ConsensusRoundIdentifier` (sequence |
+| 2026-10-02 | [ghsa-xw6x-9526-6w9r.md](advisories/ghsa-xw6x-9526-6w9r.md) |  | high | hyperledger/besu: Besu's DiscV4 UDP discovery remote DoS |
 | 2026-10-26 | [ghsa-v572-mgjq-2m7h.md](advisories/ghsa-v572-mgjq-2m7h.md) |  | low | GHSA-v572-mgjq-2m7h: `/eth/v1/builder/blinded_blocks` endpoint accepts Fulu blob data with |
 | 2026-10-26 | [ghsa-rvxr-393q-q925.md](advisories/ghsa-rvxr-393q-q925.md) |  | high | GHSA-rvxr-393q-q925: Memory exhaustion when serving data column requests |
 | 2026-10-26 | [ghsa-8rp4-6f4x-5j4p.md](advisories/ghsa-8rp4-6f4x-5j4p.md) |  | medium | GHSA-8rp4-6f4x-5j4p: Memory leak when peer disconnects after sending RPC requests |

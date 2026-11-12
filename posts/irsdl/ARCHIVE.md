@@ -1,11 +1,64 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 596
-- Conversations/threads: 519
+- Posts in this file: 598
+- Conversations/threads: 521
 - Oldest post captured: 2010-05-25
-- Newest post captured: 2026-11-10
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Reply · @markpash @MatinSenPai یه برنامه بود طرف سالهای ۲۰۰۵ به درد همین کار میخورد، خیلی هم خوب بود. فقط تا
+
+
+**Context — post being replied to:**
+
+#### Parent post — @839487450 — 2026-11-11 06:17 UTC (2026-11-11 07:17 WAT)
+
+- URL: https://x.com/839487450/status/2120400498322788634
+- Metrics (at fetch): bookmark 2, impression 1329, like 14, quote 0, reply 3, retweet 1
+
+> @MatinSenPai اتفاقاً خیلی وقته یه پلن دارم برای ساختن یه کیبورد فینگلیش به فارسی (شبیه اون چیزی که توی gboard هست). برای اینکه پیاده‌اش کنم، باید یه دیتا ست خوبی از فینگلیش پیدا کنم و یه مدل سبک ترین کنم. نمی‌دونم اون دیتا ست رو از کجا بگیرم ولی. ایده‌ای داری؟
+
+
+### Post — @irsdl — 2026-11-11 18:30 UTC (2026-11-11 19:30 WAT)
+
+- URL: https://x.com/irsdl/status/2120584955701125402
+- Metrics (at fetch): bookmark 0, impression 31, like 0, quote 0, reply 0, retweet 0
+
+> @markpash @MatinSenPai یه برنامه بود طرف سالهای ۲۰۰۵ به درد همین کار میخورد، خیلی هم خوب بود. فقط تایپ فارسی یادت میرفت!
+
+
+---
+
+## 2026-11-11 · Reply · @51naa خیلی چیزها بوده که به خاطر کمبود وقت و نیرو نمی‌شده پیاده‌سازیشون کرد. حالا به جای اینکه سرمو
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @204245986 — 2026-11-10 18:15 UTC (2026-11-10 19:15 WAT)
+
+- URL: https://x.com/204245986/status/2120218842462830708
+- Metrics (at fetch): bookmark 46, impression 13164, like 185, quote 0, reply 5, retweet 2
+
+> دیگه اگر کسی کله‌ش را کرد زیر برف، بهش کاری نداشته باشید. از کمبود دانسته نیست. روانش کششِ پذیرش حقیقت را نداره. https://t.co/3BcO5ufGuX
+
+**Quoted post** 2119899459761131615: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @irsdl — 2026-11-11 10:25 UTC (2026-11-11 11:25 WAT)
+
+- URL: https://x.com/irsdl/status/2120462906156294594
+- Metrics (at fetch): bookmark 0, impression 411, like 7, quote 0, reply 0, retweet 0
+
+> @51naa خیلی چیزها بوده که به خاطر کمبود وقت و نیرو نمی‌شده پیاده‌سازیشون کرد. حالا به جای اینکه سرمون خلوت بشه، چند برابر شلوغ‌تر شده و انتظارات هم بالا رفته، چون هنوز کلی کار هست که باید انجام بدیم!
+>
+> از اون طرف، هزینه‌های AI و تغییر مدل کسب‌وکار برای بعضی شرکت‌ها به معنی تعدیل نیرو
 
 
 ---

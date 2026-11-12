@@ -55,3 +55,8 @@ for signal in circuit_signals:
   if not fully_constrained(signal): FLAG under-constrained
 enumerate verifier branches for free/reverted/replayed proof handling
 ```
+
+## Added 2026-11-12 — gnark fake-GLV / emulated scalar mul (zkSecurity Zolana #00)
+
+Range-check hinted subscalars to the bit-width the elliptic-curve relation actually consumes. Checking the scalar-field relation on full 256-bit values while only using the low 128 bits in the EC relation lets a malicious prover forge ECDSA acceptance (P-256-owned UTXO spend in Solana Privacy Rings CustomRingP256Circuit). Also review gnark GHSA-7fx8-hmgc-82jp / GHSA-4g5f-3gmm-9q87.
+Sources: writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md, projects/crypto/advisories/gnark-*.md

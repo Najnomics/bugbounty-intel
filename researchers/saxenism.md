@@ -53,3 +53,19 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 - **turnkey-whitepaper-foundations** (`tee-attestation`)
   - post: https://whitepaper.turnkey.com/foundations
   - local: `writeups/saxenism/turnkey-whitepaper-foundations.md`
+
+### SGX authorization confused deputy + NEAR AI SGLang incident — 11 Nov 2026
+
+- Post: https://x.com/saxenism/status/2120538169259209027 — verbatim: [`posts/saxenism/2026-11-11-2120538169259209027.md`](../posts/saxenism/2026-11-11-2120538169259209027.md)
+- Incident report: [`writeups/saxenism/near-ai-sglang-security-incident-report.md`](../writeups/saxenism/near-ai-sglang-security-incident-report.md)
+- **Bug class:** TEE authorization logic / confused deputy; also software RCE inside TEE (SGLang)
+- **Root cause (SGX lesson):** Signed "execute" accepted as "migrate"; attestation/signatures fine, intent binding missing. NEAR AI: SGLang RCE on inference server let attacker see confidential requests — TEE does not protect against bugs in software *inside* the enclave.
+- **Takeaways:** Bind signed message type to privileged op; treat inference-engine deps with same rigor as the enclave itself.
+
+### SGX authorization confused deputy + NEAR AI SGLang incident — 11 Nov 2026
+
+- Post: https://x.com/saxenism/status/2120538169259209027 — verbatim: [`posts/saxenism/2026-11-11-2120538169259209027.md`](../posts/saxenism/2026-11-11-2120538169259209027.md)
+- Incident report: [`writeups/saxenism/near-ai-sglang-security-incident-report.md`](../writeups/saxenism/near-ai-sglang-security-incident-report.md)
+- **Bug class:** TEE authorization logic / confused deputy; also software RCE inside TEE (SGLang)
+- **Root cause (SGX lesson):** Signed "execute" accepted as "migrate"; attestation/signatures fine, intent binding missing. NEAR AI: SGLang RCE on inference server let attacker see confidential requests — TEE does not protect against bugs in software *inside* the enclave.
+- **Takeaways:** Bind signed message type to privileged op; treat inference-engine deps with same rigor as the enclave itself.

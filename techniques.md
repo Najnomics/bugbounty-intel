@@ -2,7 +2,7 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 11 November 2026 (Africa/Lagos).
+Last updated: 12 November 2026 (Africa/Lagos).
 
 ---
 
@@ -184,3 +184,16 @@ Drawn from the verbatim advisories under `projects/`.
 - **Solidity compiler version → known bugs**: map pragma to the 67-entry canonical list. Source: [`projects/ethereum/solidity-compiler-bugs.md`](projects/ethereum/solidity-compiler-bugs.md).
 - **Crypto crate advisories**: check deps against RustSec (aes-gcm nonce, dalek malleability, etc.). Source: [`projects/crypto/advisories-index.md`](projects/crypto/advisories-index.md).
 - **TEE attestation pipeline questions** (enforced TCB? TLS on collateral? stale replay? SSRF on verifier URL?): Bluethroat / saxenism. Sources: [`writeups/saxenism/dumb-ways-to-get-rekt-with-tees.md`](writeups/saxenism/dumb-ways-to-get-rekt-with-tees.md), [`harness/bug-classes/tee-attestation.md`](harness/bug-classes/tee-attestation.md).
+
+---
+
+## Daily update 12 Nov 2026 (Africa/Lagos)
+
+- **CSP `form-action 'self'` credential theft (no JS).** `form-action` does not inherit from `default-src`. Two-stage self-posting form + `meta referrer=unsafe-url` + meta refresh → credentials in Collaborator Referer. Source: [@garethheyes](https://x.com/garethheyes/status/2120523482220167240), [`writeups/garethheyes/blind-trust-stealing-credentials-through-csp.md`](writeups/garethheyes/blind-trust-stealing-credentials-through-csp.md).
+- **SSRF: log what the box signs before chasing 169.254.** Point fetch at own sink; worker's own cloud keys/session token arrived. Source: [@mdp_sec](https://x.com/mdp_sec/status/2120519414491566209).
+- **TEE checklist (every time):** physical-access → compromised; attestation ≠ safe code; verifier must authenticate+enforce+bind; reproducible build → attested measurement. GPU path that only parses JSON is a "Verified" lie. Source: [@bluethroat_labs](https://x.com/bluethroat_labs/status/2120528783673299290), [`writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md`](writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md).
+- **TEE confused deputy:** bind signed message type to the privileged op ("execute" ≠ "migrate"). Source: [@saxenism](https://x.com/saxenism/status/2120538169259209027).
+- **AI-agent GitHub Actions:** untrusted issue body into Codex + `/tmp` CoreCLR debug pipes (`MT_ReadMemory`) + cache poison → npm supply chain. Source: Depi via [@Rhynorater](https://x.com/Rhynorater/status/2120539019427889278), [`writeups/Rhynorater/depi-backdooring-codex.md`](writeups/Rhynorater/depi-backdooring-codex.md).
+- **ZK emulated scalar mul:** range-check hinted subscalars to the bit-width the EC relation actually consumes (gnark fake-GLV / Zolana High #00). Source: [`writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md`](writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md), [`projects/crypto/advisories/gnark-ghsa-7fx8-hmgc-82jp.md`](projects/crypto/advisories/gnark-ghsa-7fx8-hmgc-82jp.md).
+- **Besu consensus/crypto:** EIP-7702 / sender recovery must enforce secp256k1 curve-order on r,s (backend divergence → chain split). Source: [`projects/ethereum/advisories/ghsa-4h4f-925g-8h9p.md`](projects/ethereum/advisories/ghsa-4h4f-925g-8h9p.md).
+- **Intel TDX attestation:** `verify_x509_cert` must check cert validity period (RUSTSEC-2026-0481). Source: [`projects/crypto/advisories/crates-tdx_workload_attestation-rustsec-2026-0481.md`](projects/crypto/advisories/crates-tdx_workload_attestation-rustsec-2026-0481.md).

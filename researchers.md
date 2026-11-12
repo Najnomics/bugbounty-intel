@@ -1,6 +1,6 @@
 # Researcher index
 
-Compiled 11 November 2026 (Africa/Lagos). Handles link to X. "Evidence of consistency" is only what was found in public posts or official profiles during this pass. Follower counts and ranks change; treat them as a snapshot.
+Compiled 12 November 2026 (Africa/Lagos). Daily update applied. Handles link to X. "Evidence of consistency" is only what was found in public posts or official profiles during this pass. Follower counts and ranks change; treat them as a snapshot.
 
 | Handle | Name (from profile) | Platforms | Focus | Evidence of consistency | Writeups / blogs |
 | --- | --- | --- | --- | --- | --- |
@@ -82,4 +82,5 @@ These appeared in Disclosed or Immunefi shoutouts during this pass. They may be 
 - [@brutecat](https://x.com/brutecat) — Google GFile, $100k, cited in Disclosed
 - [@SLCyberSec](https://x.com/SLCyberSec) — AEM Cloud pre-auth RCE chain, cited in Disclosed
 - [@spaceraccoon](https://x.com/spaceraccoon) — patch-diff monitoring project, cited by infinitelogins
+- [@depi_](https://x.com/depi_) — OpenAI Codex prompt-injection → npm supply chain (writeup saved under writeups/Rhynorater/depi-backdooring-codex.md; quoted by Rhynorater 11 Nov 2026)
 - Immunefi shoutouts with thinner public X trails: `ily2` ($3M single payout, 3/3 paid reports), `@ipwning` ($150k first paid report), `@_blockian`, `@chatterjisubham`, `@mikio815`, `dgzlluny` ($100k critical)

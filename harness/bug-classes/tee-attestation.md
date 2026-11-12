@@ -34,3 +34,13 @@ check TLS verification on collateral/PCCS fetch; attempt stale collateral replay
 check if verifier URL is caller-controlled (SSRF)
 confirm "valid" maps to a verified cryptographic quote, not a flag
 ```
+
+## Added 2026-11-12 — Bluethroat four checks + Phala GPU fake-verified
+
+1. Physical access → treat TEE compromised (TEE.fail).
+2. Attestation ≠ safe code (bugs inside enclave still leak; NEAR AI SGLang RCE).
+3. Verifier must authenticate report, validate collateral, check measurements, enforce platform status, bind to endpoint.
+4. Auditable source → reproducible build → attested measurement.
+5. Diff CPU vs GPU (or other) verification paths; `parseAttestationBundle()`-only paths that still show "TEE Hardware Verified" are false claims.
+6. Inside enclaves, bind signed message type to the privileged op (saxenism: "execute" ≠ "migrate").
+Sources: posts/bluethroat_labs/2026-11-11-2120528783673299290.md, writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md, posts/saxenism/2026-11-11-2120538169259209027.md

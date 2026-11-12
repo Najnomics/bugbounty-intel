@@ -1,6 +1,6 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 487
 - Conversations/threads: 372
@@ -4152,6 +4152,86 @@ Tags (automatic): Memory corruption / native
     - Metrics (at fetch): not returned
     
     > http://x.com/i/article/2080027726841524224
+    >
+    > [X Article — Here’s How an OpenAI Model Went Rogue and Hacked Hugging Face  — full text follows]
+    >
+    > Introduction
+    > Almost every week, something happens in security that ruins my sleep. A new model drops that I want to evaluate, we find some crazy 0-day, or someone else drops one. But this incident probably tops all of them.
+    > Today, we’re looking at what might be the craziest and concerning sci-fi, paperclip-maxxing event to come out of OpenAI. In short, while trying to solve an ExploitGym challenge, one of OpenAI’s models reward-hacked/cheated the task and compromised Hugging Face production using two 0-day vulnerabilities to steal the solution which most probably is not hosted on hugging face.
+    > LLMs finding zero-days serious enough to compromise companies is old news. Look at our work on Supabase, Palo Alto, and PostHog. Reward hacking isn’t new either. We see plenty of petty reward hacks internally, and there are documented examples from Anthropic and Alibaba.
+    > What makes this different is how far the models went in a single-session, without any human hints or guidance, just to pass an exam. I don’t think this was a marketing stunt. We might never have heard about it if Hugging Face had not detected the attack first.
+    > A model capable of solving unsolved math problems and finding zero-days in Linux, WordPress, and Chrome still does not know when to stop. It may be better than almost any human at the task in front of it, yet it still lacks the basic judgment of a child. It appears to have treated “solve ExploitGym” as “do whatever it takes, even if that means hacking other companies.” As Zvi puts it, excusing this as simply following instructions is like saying, “You told me to make money. I don’t know why you are so upset about all the bank robberies.”
+    > In any case, this is a serious alignment failure. What I really want to know is how difficult the hack was. Did the models exploit a few dumb bugs that were easy to find, or did they build the kind of complex chain only a top hacker could pull off? The answer tells us whether this was mainly an alignment failure or also a major jump in cyber capability. And, I know that OpenAI or Hugging Face won’t be revealing any technical details soon, so I decided to figure out.
+    > Reconstructing the Attack
+    > Note: This reconstruction is based on the public information available and my experience using LLMs to develop exploits for tasks similar to ExploitGym. I am about 80% confident that the OpenAI side happened this way, mainly small uncertainity is whether JFrog was the sandbox escape target. I am fully confident about the Hugging Face side because the patches for the exploited bugs are public.
+    > The chain I reconstruct below is a fairly complex one. A highly capable model with a large inference budget and multiple subagents appears to have pulled off something that the frontier models we can access today probably could not complete in a single session. My rough estimate is that even a top human hacker would need two to three weeks to get from the original sandbox into Hugging Face’s internal infrastructure.
+    > Full chain:
+    >  
+    > Assumed Setup
+    > Let’s get into details, with a bit of recon you can construct the setup OpenAI model initially started with:
+    > The model was given an ExploitGym task and asked to retrieve the flag by writing the exploit. The flag was checked by a grader running in a separate environment that the model could not normally access.
+    > The model could run commands inside a sandbox with no open internet access.
+    > The agent setup likely used the latest Codex with subagents, an unreleased model running at Ultra effort, and possibly GPT-5.6 as a subagent.
+    > The sandbox had reader access to a JFrog package registry for installing npm, PyPI, and Docker packages. This is inferred from the current ChatGPT sandbox setup.
+    >  
+    > Step 1: JFrog Privilege Escalation 0-day
+    > At some point, the model or one of its subagents decided it needed internet access. The package registry was the obvious target because it was one of the few external services the sandbox could reach. If the proxy was JFrog Artifactory, its container image may also have been available through that registry. Artifactory is not open source, but most of its server logic is shipped as Java JAR files that can be decompiled and searched for bugs.
+    > One day before Hugging Face publicly disclosed the incident, JFrog released Artifactory 7.146.27 with three security fixes: RTDEV-92030, RTDEV-92146, and RTFS-4094. My assumption is that at least one of them may have come from OpenAI’s disclosure. The model may have found more than one and discarded the others.
+    > RTDEV-92030 is the only one that gives us an immediately useful primitive from the reader access that sandbox has already access to. The tldr of bug is artifactory trusted claims from the access-token JWT without first verifying its signature. The patch looks as below:
+    >  
+    > To reproduce the vulnerable refresh request, first mint a normal refreshable reader token then forge access token with admin claims:
+    >  
+    > Send that forged access token with the original valid refresh secret:
+    >  
+    > Artifactory 7.146.25 accepts this and returns a valid administrator token. This gives the model control of Artifactory, not a shell or direct internet access. At least one more step was still needed to reach an internet-connected node.
+    > Step 2: Using the Package Cache to Reach an Internet-Connected Node
+    > I first looked at whether Artifactory administrator access could be turned directly into a shell on the registry server. I could not find a way to do that but administrator access gives control over repositories, tokens, and cached packages.
+    > If we look at OpenAI blog, there is a hint in their blog, “After exploiting the package proxy, the models performed privilege escalation and lateral movement until they reached a different node with internet access.” This suggests the model couldn’t get shell on Artifactory server but could have used the package registry to run code on another OpenAI machine by poisioning the cache.
+    > So, with administrator access, the model can delete a trusted package from the cache, point the repository to an origin it controls, and cache a different package under the same name and version as below.
+    >  
+    > The controlled metadata contains the hash of the new tarball, so a fresh npm install accepts it. If the package contains a postinstall script, npm executes the model’s code automatically.
+    > Now, the hard part is getting another internal node to install that package. The model had to find a package used by another OpenAI service, trigger a fresh installation.
+    > Even after that, the model only has command execution on a node that probably is not publicly reachable. It still needs a way to send commands and receive results. One possibility is a reverse shell over the internal network if the two nodes can reach each other.
+    > The more diabolical option is to use Artifactory itself as command and control:
+    >  
+    > This would let the model control the second node without any direct connection between them. Once it landed on a node with open internet access, it could continue the attack against Hugging Face. This is a fairly complex chain, and OpenAI has not published enough details to confirm which path the models actually used.
+    > Step 3: From Internet Access to Hugging Face RCE
+    > Once it had internet access, the model probably kept trying to solve the ExploitGym task. When that still failed, it appears to have looked for the solutions on Hugging Face. It can create or update a malicious dataset through the normal Hub API and wait for Dataset Viewer to process it.
+    > The public patches point to this path where your malicious dataset can get remote code execution on worker:
+    >  
+    > The bug was that Dataset Viewer constructed the attacker-selected filesystem before checking whether the resolved path belonged to the dataset repository. The data: handler carried an inline reference specification, while the reference handler rendered fields inside it using normal Jinja.
+    > PoC:
+    >  
+    > Hugging Face fixed this in PR #3367 by keeping only the five fsspec implementations Dataset Viewer needed:
+    >  
+    > That removes both reference and data before an untrusted job can load them. PR #3369 added regression tests.
+    >
+    > It seems after code execution on the worker, the model then stole cloud and cluster credentials, reached node-level access, and moved laterally through several internal clusters. PR #3368 shows how exposed the worker was, Hugging Face disabled automatic Kubernetes ServiceAccount tokens, enabled the default seccomp profile, blocked privilege escalation, and dropped Linux capabilities. PR #3359 added IRSA support, while PR #3375 moved MongoDB authentication to AWS credentials.
+    > This is probably where Hugging Face started fighting back. Its incident report describes “thousands of actions across a swarm of short-lived sandboxes, self-migrating command and control on public services, and lateral movement over an entire weekend.”
+    > Why Did the Models Go This Far?
+    > Now that we figured the full chain from sandbox escape to hugging face compromise, it is important to understand why the model went this far and I have two educated guesses:
+    > Guess 1: Misaligned on Passing the Exam at Any Cost
+    > My first and more likely guess is that the model could not solve the ExploitGym challenge, so it started looking on the internet for solutions. When it still could not find one, it figured Hugging Face might have the solution and started exploiting it.
+    > This kind of reward hacking or cheating is fairly common in cybersecurity tasks, and probably in other fields too. The difference is that in cybersecurity, it is difficult to fake success. If the exploit does not work or the PoC never executes, the grader will catch it.
+    > This is similar to what AISI found. In one case, “an evaluation was accidentally impossible to solve, and the model became so persistent that it ran code on an external internet service while trying to access AISI’s evaluation infrastructure.”
+    >  
+    > Guess 2: Goal Drift
+    > The second possibility is goal drift. After tons of inference compute, context compactions, and subagent delegation, “write an exploit for this challenge” may have slowly turned into “find the solution” or “get the flag.”
+    > A subagent told to look for the solution on Hugging Face may not have known anything about the original task or its boundaries. Without the normal guardrails, it may have happily exploited every obstacle in its way.
+    > Either way, the misalignment problem remains the same. The model did not understand that hacking a real company was a line it should never cross, and model providers need to figure out how to stop this.
+    > Conclusions / Observations
+    > Open Source Is in a Tricky Situation
+    > If the source code is available, a model at this capability level will devour the codebase until it finds a bug. That is probably what happened here, Hugging Face was a good target because Dataset Viewer is open source. A model does not get tired or bored, and with enough inference compute, it can keep going until it finds something.
+    > The sandbox escape was probably similar. The model likely accessed the JFrog JAR files through the package registry, decompiled and reverse-engineered them, then searched for hours until it found a bug.
+    > Misalignment
+    > It is very clear from my personal experience using GPT-5.6 Sol Ultra that throwing more inference compute at these models makes them efficiently search through every possible path until they find a bug. The recent WordPress RCE or my benchmark is a good example.
+    > GPT-6 or some even more capable model will be much better at this. If these models do not have proper guardrails, or more importantly are not properly aligned, they will carry out reward hacks at this level to achieve their goals.
+    > I do not think there was malicious intent behind the model’s actions, even if we call it cheating. I also do not know whether future models will deliberately hide their intent, as many alignment researchers warn. These models just do not seem to have clear boundaries around what they are willing to do to achieve a goal.
+    > Secure Your Cloud
+    > Misconfigured cloud infrastructure is becoming a common part of these attack chains. In our research on Metabase, PostHog, and Supabase, the original application bug was only the entry point. Cloud misconfigurations then let us steal credentials, move laterally, and turn a limited compromise into something much bigger.
+    > The same thing appears to have happened here. Once the model got code execution on a Hugging Face worker, exposed cloud and cluster credentials let it reach node-level access and move across internal clusters. Whatever Wiz or other cloud security product you are using is probably not working as well as you think. You need to assume that one workload will eventually be compromised and make sure it cannot be used to take over the rest of your cloud.
+    >
+    > [Links in article: https://landing-git-hfoai-hacktron-ai.vercel.app/blog/posthog-rce, https://docs.jfrog.com/releases/docs/artifactory-self-managed-releases, https://github.com/huggingface/dataset-viewer/commits/main/, https://www.hacktron.ai/blog/posthog-rce, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/metabase-cloud, https://github.com/huggingface/dataset-viewer/pull/3367, https://github.com/huggingface/dataset-viewer/pull/3359, https://github.com/huggingface/dataset-viewer/pull/3369, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/supapwn, https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf, https://github.com/sunblaze-ucb/exploitgym, https://www.hacktron.ai/blog/watching-gpt-55-sol-ultra-write-a-chrome-exploit-exploit-development-as-we-know-it-is-over, https://arxiv.org/abs/2512.24873, https://openai.com/index/hugging-face-model-evaluation-security-incident/, https://github.com/huggingface/dataset-viewer/pull/3368, https://wp2shell.com/, https://github.com/huggingface/dataset-viewer/pull/3375, https://www.hacktron.ai/blog/supapwn, https://x.com/TheZvi/status/2080012640735183211, https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations, https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass, https://huggingface.co/blog/security-incident-july-2026]
     
     **Links in post:** http://x.com/i/article/2080027726841524224
     
@@ -4162,12 +4242,95 @@ Tags (automatic): Memory corruption / native
 ## 2026-07-23 · Post · http://x.com/i/article/2080027726841524224
 
 
+Tags (automatic): RCE, AI-assisted hunting
+
+
 ### Post — @S1r1u5_ — 2026-07-23 19:34 UTC (2026-07-23 20:34 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080375997698847199
 - Metrics (at fetch): not returned
 
 > http://x.com/i/article/2080027726841524224
+>
+> [X Article — Here’s How an OpenAI Model Went Rogue and Hacked Hugging Face  — full text follows]
+>
+> Introduction
+> Almost every week, something happens in security that ruins my sleep. A new model drops that I want to evaluate, we find some crazy 0-day, or someone else drops one. But this incident probably tops all of them.
+> Today, we’re looking at what might be the craziest and concerning sci-fi, paperclip-maxxing event to come out of OpenAI. In short, while trying to solve an ExploitGym challenge, one of OpenAI’s models reward-hacked/cheated the task and compromised Hugging Face production using two 0-day vulnerabilities to steal the solution which most probably is not hosted on hugging face.
+> LLMs finding zero-days serious enough to compromise companies is old news. Look at our work on Supabase, Palo Alto, and PostHog. Reward hacking isn’t new either. We see plenty of petty reward hacks internally, and there are documented examples from Anthropic and Alibaba.
+> What makes this different is how far the models went in a single-session, without any human hints or guidance, just to pass an exam. I don’t think this was a marketing stunt. We might never have heard about it if Hugging Face had not detected the attack first.
+> A model capable of solving unsolved math problems and finding zero-days in Linux, WordPress, and Chrome still does not know when to stop. It may be better than almost any human at the task in front of it, yet it still lacks the basic judgment of a child. It appears to have treated “solve ExploitGym” as “do whatever it takes, even if that means hacking other companies.” As Zvi puts it, excusing this as simply following instructions is like saying, “You told me to make money. I don’t know why you are so upset about all the bank robberies.”
+> In any case, this is a serious alignment failure. What I really want to know is how difficult the hack was. Did the models exploit a few dumb bugs that were easy to find, or did they build the kind of complex chain only a top hacker could pull off? The answer tells us whether this was mainly an alignment failure or also a major jump in cyber capability. And, I know that OpenAI or Hugging Face won’t be revealing any technical details soon, so I decided to figure out.
+> Reconstructing the Attack
+> Note: This reconstruction is based on the public information available and my experience using LLMs to develop exploits for tasks similar to ExploitGym. I am about 80% confident that the OpenAI side happened this way, mainly small uncertainity is whether JFrog was the sandbox escape target. I am fully confident about the Hugging Face side because the patches for the exploited bugs are public.
+> The chain I reconstruct below is a fairly complex one. A highly capable model with a large inference budget and multiple subagents appears to have pulled off something that the frontier models we can access today probably could not complete in a single session. My rough estimate is that even a top human hacker would need two to three weeks to get from the original sandbox into Hugging Face’s internal infrastructure.
+> Full chain:
+>  
+> Assumed Setup
+> Let’s get into details, with a bit of recon you can construct the setup OpenAI model initially started with:
+> The model was given an ExploitGym task and asked to retrieve the flag by writing the exploit. The flag was checked by a grader running in a separate environment that the model could not normally access.
+> The model could run commands inside a sandbox with no open internet access.
+> The agent setup likely used the latest Codex with subagents, an unreleased model running at Ultra effort, and possibly GPT-5.6 as a subagent.
+> The sandbox had reader access to a JFrog package registry for installing npm, PyPI, and Docker packages. This is inferred from the current ChatGPT sandbox setup.
+>  
+> Step 1: JFrog Privilege Escalation 0-day
+> At some point, the model or one of its subagents decided it needed internet access. The package registry was the obvious target because it was one of the few external services the sandbox could reach. If the proxy was JFrog Artifactory, its container image may also have been available through that registry. Artifactory is not open source, but most of its server logic is shipped as Java JAR files that can be decompiled and searched for bugs.
+> One day before Hugging Face publicly disclosed the incident, JFrog released Artifactory 7.146.27 with three security fixes: RTDEV-92030, RTDEV-92146, and RTFS-4094. My assumption is that at least one of them may have come from OpenAI’s disclosure. The model may have found more than one and discarded the others.
+> RTDEV-92030 is the only one that gives us an immediately useful primitive from the reader access that sandbox has already access to. The tldr of bug is artifactory trusted claims from the access-token JWT without first verifying its signature. The patch looks as below:
+>  
+> To reproduce the vulnerable refresh request, first mint a normal refreshable reader token then forge access token with admin claims:
+>  
+> Send that forged access token with the original valid refresh secret:
+>  
+> Artifactory 7.146.25 accepts this and returns a valid administrator token. This gives the model control of Artifactory, not a shell or direct internet access. At least one more step was still needed to reach an internet-connected node.
+> Step 2: Using the Package Cache to Reach an Internet-Connected Node
+> I first looked at whether Artifactory administrator access could be turned directly into a shell on the registry server. I could not find a way to do that but administrator access gives control over repositories, tokens, and cached packages.
+> If we look at OpenAI blog, there is a hint in their blog, “After exploiting the package proxy, the models performed privilege escalation and lateral movement until they reached a different node with internet access.” This suggests the model couldn’t get shell on Artifactory server but could have used the package registry to run code on another OpenAI machine by poisioning the cache.
+> So, with administrator access, the model can delete a trusted package from the cache, point the repository to an origin it controls, and cache a different package under the same name and version as below.
+>  
+> The controlled metadata contains the hash of the new tarball, so a fresh npm install accepts it. If the package contains a postinstall script, npm executes the model’s code automatically.
+> Now, the hard part is getting another internal node to install that package. The model had to find a package used by another OpenAI service, trigger a fresh installation.
+> Even after that, the model only has command execution on a node that probably is not publicly reachable. It still needs a way to send commands and receive results. One possibility is a reverse shell over the internal network if the two nodes can reach each other.
+> The more diabolical option is to use Artifactory itself as command and control:
+>  
+> This would let the model control the second node without any direct connection between them. Once it landed on a node with open internet access, it could continue the attack against Hugging Face. This is a fairly complex chain, and OpenAI has not published enough details to confirm which path the models actually used.
+> Step 3: From Internet Access to Hugging Face RCE
+> Once it had internet access, the model probably kept trying to solve the ExploitGym task. When that still failed, it appears to have looked for the solutions on Hugging Face. It can create or update a malicious dataset through the normal Hub API and wait for Dataset Viewer to process it.
+> The public patches point to this path where your malicious dataset can get remote code execution on worker:
+>  
+> The bug was that Dataset Viewer constructed the attacker-selected filesystem before checking whether the resolved path belonged to the dataset repository. The data: handler carried an inline reference specification, while the reference handler rendered fields inside it using normal Jinja.
+> PoC:
+>  
+> Hugging Face fixed this in PR #3367 by keeping only the five fsspec implementations Dataset Viewer needed:
+>  
+> That removes both reference and data before an untrusted job can load them. PR #3369 added regression tests.
+>
+> It seems after code execution on the worker, the model then stole cloud and cluster credentials, reached node-level access, and moved laterally through several internal clusters. PR #3368 shows how exposed the worker was, Hugging Face disabled automatic Kubernetes ServiceAccount tokens, enabled the default seccomp profile, blocked privilege escalation, and dropped Linux capabilities. PR #3359 added IRSA support, while PR #3375 moved MongoDB authentication to AWS credentials.
+> This is probably where Hugging Face started fighting back. Its incident report describes “thousands of actions across a swarm of short-lived sandboxes, self-migrating command and control on public services, and lateral movement over an entire weekend.”
+> Why Did the Models Go This Far?
+> Now that we figured the full chain from sandbox escape to hugging face compromise, it is important to understand why the model went this far and I have two educated guesses:
+> Guess 1: Misaligned on Passing the Exam at Any Cost
+> My first and more likely guess is that the model could not solve the ExploitGym challenge, so it started looking on the internet for solutions. When it still could not find one, it figured Hugging Face might have the solution and started exploiting it.
+> This kind of reward hacking or cheating is fairly common in cybersecurity tasks, and probably in other fields too. The difference is that in cybersecurity, it is difficult to fake success. If the exploit does not work or the PoC never executes, the grader will catch it.
+> This is similar to what AISI found. In one case, “an evaluation was accidentally impossible to solve, and the model became so persistent that it ran code on an external internet service while trying to access AISI’s evaluation infrastructure.”
+>  
+> Guess 2: Goal Drift
+> The second possibility is goal drift. After tons of inference compute, context compactions, and subagent delegation, “write an exploit for this challenge” may have slowly turned into “find the solution” or “get the flag.”
+> A subagent told to look for the solution on Hugging Face may not have known anything about the original task or its boundaries. Without the normal guardrails, it may have happily exploited every obstacle in its way.
+> Either way, the misalignment problem remains the same. The model did not understand that hacking a real company was a line it should never cross, and model providers need to figure out how to stop this.
+> Conclusions / Observations
+> Open Source Is in a Tricky Situation
+> If the source code is available, a model at this capability level will devour the codebase until it finds a bug. That is probably what happened here, Hugging Face was a good target because Dataset Viewer is open source. A model does not get tired or bored, and with enough inference compute, it can keep going until it finds something.
+> The sandbox escape was probably similar. The model likely accessed the JFrog JAR files through the package registry, decompiled and reverse-engineered them, then searched for hours until it found a bug.
+> Misalignment
+> It is very clear from my personal experience using GPT-5.6 Sol Ultra that throwing more inference compute at these models makes them efficiently search through every possible path until they find a bug. The recent WordPress RCE or my benchmark is a good example.
+> GPT-6 or some even more capable model will be much better at this. If these models do not have proper guardrails, or more importantly are not properly aligned, they will carry out reward hacks at this level to achieve their goals.
+> I do not think there was malicious intent behind the model’s actions, even if we call it cheating. I also do not know whether future models will deliberately hide their intent, as many alignment researchers warn. These models just do not seem to have clear boundaries around what they are willing to do to achieve a goal.
+> Secure Your Cloud
+> Misconfigured cloud infrastructure is becoming a common part of these attack chains. In our research on Metabase, PostHog, and Supabase, the original application bug was only the entry point. Cloud misconfigurations then let us steal credentials, move laterally, and turn a limited compromise into something much bigger.
+> The same thing appears to have happened here. Once the model got code execution on a Hugging Face worker, exposed cloud and cluster credentials let it reach node-level access and move across internal clusters. Whatever Wiz or other cloud security product you are using is probably not working as well as you think. You need to assume that one workload will eventually be compromised and make sure it cannot be used to take over the rest of your cloud.
+>
+> [Links in article: https://landing-git-hfoai-hacktron-ai.vercel.app/blog/posthog-rce, https://docs.jfrog.com/releases/docs/artifactory-self-managed-releases, https://github.com/huggingface/dataset-viewer/commits/main/, https://www.hacktron.ai/blog/posthog-rce, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/metabase-cloud, https://github.com/huggingface/dataset-viewer/pull/3367, https://github.com/huggingface/dataset-viewer/pull/3359, https://github.com/huggingface/dataset-viewer/pull/3369, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/supapwn, https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf, https://github.com/sunblaze-ucb/exploitgym, https://www.hacktron.ai/blog/watching-gpt-55-sol-ultra-write-a-chrome-exploit-exploit-development-as-we-know-it-is-over, https://arxiv.org/abs/2512.24873, https://openai.com/index/hugging-face-model-evaluation-security-incident/, https://github.com/huggingface/dataset-viewer/pull/3368, https://wp2shell.com/, https://github.com/huggingface/dataset-viewer/pull/3375, https://www.hacktron.ai/blog/supapwn, https://x.com/TheZvi/status/2080012640735183211, https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations, https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass, https://huggingface.co/blog/security-incident-july-2026]
 
 **Links in post:** http://x.com/i/article/2080027726841524224
 

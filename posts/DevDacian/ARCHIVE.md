@@ -1,11 +1,50 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 404
-- Conversations/threads: 356
+- Posts in this file: 406
+- Conversations/threads: 358
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-09
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Reply · @nisedo not only that, but when a new model comes out that is far ahead of what was before (eg opus-
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1423566780224753664 — 2026-11-12 02:53 UTC (2026-11-12 03:53 WAT)
+
+- URL: https://x.com/1423566780224753664/status/2120711598709104844
+- Metrics (at fetch): bookmark 0, impression 352, like 6, quote 0, reply 1, retweet 0
+
+> Keep in mind that when it comes to working with agents, best practices have a shelf life and you should never get attached to your workflows.
+
+
+### Post — @DevDacian — 2026-11-12 03:00 UTC (2026-11-12 04:00 WAT)
+
+- URL: https://x.com/DevDacian/status/2120713304154976739
+- Metrics (at fetch): bookmark 0, impression 122, like 2, quote 0, reply 1, retweet 0
+
+> @nisedo not only that, but when a new model comes out that is far ahead of what was before (eg opus-5.5) you should consider re-writing your existing workflows using the new model to make them lean, more lightweight and perform even better
+
+
+---
+
+## 2026-11-11 · Post · Auditor life after receiving $40M post-hack "whitehat" safe-harbor deal for returning 90% [pic.x.com
+
+
+### Post — @DevDacian — 2026-11-11 10:17 UTC (2026-11-11 11:17 WAT)
+
+- URL: https://x.com/DevDacian/status/2120460819087700065
+- Metrics (at fetch): bookmark 4, impression 2128, like 69, quote 0, reply 8, repost 2
+
+> Auditor life after receiving $40M post-hack "whitehat" safe-harbor deal for returning 90% [pic.x.com/I0EkphoaFM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW1hRnlaoAAqaWf.jpg — no alt text provided by author
 
 
 ---

@@ -59,3 +59,8 @@ for field in url_fields+webhooks:
 for up in upload_endpoints:
   submit(crafted_image_triggering_processor); watch oob + response
 ```
+
+## Added 2026-11-12 — SSRF that leaks signed cloud creds without metadata IP (mdp_sec)
+
+Before chasing 169.254.169.254, point the fetch at an attacker-controlled sink and log Authorization / X-Amz-Security-Token / cloud identity headers. The worker may already sign the outbound request with its own keys.
+Source: posts/mdp_sec/2026-11-11-2120519414491566209.md

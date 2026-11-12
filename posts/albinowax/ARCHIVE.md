@@ -1,11 +1,34 @@
 # @albinowax — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-11 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 342
-- Conversations/threads: 304
+- Posts in this file: 343
+- Conversations/threads: 305
 - Oldest post captured: 2011-03-08
-- Newest post captured: 2026-11-04
+- Newest post captured: 2026-11-11
+
+
+---
+
+## 2026-11-11 · Reply · @secureideas That's not good, I'll escalate it internally
+
+
+**Context — post being replied to:**
+
+#### Parent post — @14131731 — 2026-11-11 15:06 UTC (2026-11-11 16:06 WAT)
+
+- URL: https://x.com/14131731/status/2120533568392987119
+- Metrics (at fetch): bookmark 20, impression 15927, like 156, quote 0, reply 11, retweet 3
+
+> Wow, just got a DMCA takedown by @PortSwigger for a webinar we did 13 years ago teaching people about Burp Suite.  I am going to assume this was an automated system and not malice.  I would love to hear that I am right.  (And yes I did an appeal)
+
+
+### Post — @albinowax — 2026-11-11 21:51 UTC (2026-11-11 22:51 WAT)
+
+- URL: https://x.com/albinowax/status/2120635628845142234
+- Metrics (at fetch): bookmark 0, impression 1287, like 23, quote 0, reply 3, retweet 0
+
+> @secureideas That's not good, I'll escalate it internally
 
 
 ---
