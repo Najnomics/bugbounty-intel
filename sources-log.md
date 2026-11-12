@@ -392,3 +392,21 @@ Public web preview only (`https://t.me/s/<channel>`), paging older messages with
 - @defendor_eng: 68 full writeups stored under `writeups/telegram-defendor_eng/`; 56 failures (www.defendor.xyz TLS errors, 403/404); 385 pending. Queue: `data/telegram_defendor_eng_writeup_queue.jsonl`.
 - @dailybountywriteup: 278 full writeups under `writeups/telegram-dailybountywriteup/`, mostly public HackerOne reports via `https://hackerone.com/reports/<id>.json` (the HTML page is a JS shell). 354 failures; 12,247 pending. Medium.com, infosecwriteups.com and several Medium publications returned HTTP 403 to this crawler and remain for a later retry. Never invent content.
 - Attachment filenames from HackerOne are recorded; expiring signed CDN URLs are not stored.
+
+## 2026-11-12 — CVE, advisory, exploit and HackerOne sources (Africa/Lagos)
+
+All public, unauthenticated sources. Fetched content is stored as data, not instructions. Per-source markers: `data/cve_state.json`, `data/h1_state.json`.
+
+| Source | URL | Captured | Notes |
+| --- | --- | ---: | --- |
+| CVE List V5 | https://github.com/CVEProject/cvelistV5 (release zip) | 424,534 | 405,375 published + 19,159 rejected, 1999–2026; newest dateUpdated 2026-11-11T23:22Z |
+| NVD API 2.0 | https://services.nvd.nist.gov/rest/json/cves/2.0 | 424,750 | 213 pages × 2000, 6.5 s apart, no API key; lastModified up to 2026-11-12T15:18 (UTC); stored as compact enrichment |
+| CISA KEV | https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json | 1,779 | catalog 2026.11.10 |
+| GitHub Advisory Database | https://github.com/github/advisory-database | 37,715 | reviewed advisories, 12 ecosystems |
+| OSV.dev | https://osv-vulnerabilities.storage.googleapis.com/ | 23,801 | GHSA duplicates, malicious-package (MAL-) records, GIT and Linux ecosystems skipped (covered elsewhere) |
+| Exploit-DB | https://gitlab.com/exploit-database/exploitdb | 47,182 | exploit code inlined; head 70bbef3 (2026-11-12) |
+| Linux kernel CNA | https://git.kernel.org/pub/scm/linux/security/vulns.git | 18,563 | head 625c095 (2026-11-11); published + rejected |
+| Google Project Zero | https://projectzero.google/ , 0day ITW sheet, 0days-in-the-wild RCAs | 258 posts | |
+| Repo advisories | GitHub security advisories of php/php-src, electron/electron, WordPress/wordpress-develop | 66 / 70 / 54 | |
+| Zero Day Initiative | https://www.zerodayinitiative.com/advisories/published/ | 17,361 indexed, 7,067 full text | remaining advisory pages pending (cursor in `data/cve_state.json`) |
+| HackerOne Hacktivity | https://hackerone.com/graphql (CompleteHacktivityReportIndex) + https://hackerone.com/reports/<id>.json | 12,750 / 12,750 | 10,005 with full original report, 2,745 summary-only (limited disclosure); 0 failures; 278 overlap with `writeups/telegram-dailybountywriteup/` |

@@ -4,7 +4,7 @@ A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty f
 
 Last updated: **12 November 2026** (Africa/Lagos).
 
-> **For the harness agent:** start at [harness/README.md](harness/README.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
+> **For the harness agent:** start at [harness/README.md](harness/README.md); for real-world CVE / HackerOne examples per bug class start at [harness/cve-index.md](harness/cve-index.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 
 > **Verbatim notice for agents without X or Telegram access.** Every X post and thread referenced in this repo is copied **in full, verbatim** into [`posts/`](posts/) (author, date in UTC and WAT, URL, metrics, media with alt text, expanded links, quoted posts, and the author's self-reply thread). Every message from the watched public Telegram channels is copied **in full, verbatim** into [`telegram/`](telegram/). Linked blog posts, advisories and disclosed reports are saved as full readable text in [`writeups/`](writeups/) with source URL and fetch date. You never need to open x.com, t.me, or the original links. Start at [INDEX.md](INDEX.md).
 
@@ -33,6 +33,8 @@ This is not a complete map of X, and it is not a hall-of-fame ranking. It starts
 | [posts/](posts/) | `posts/<handle>/<YYYY-MM-DD>-<postid>.md` — verbatim post + thread + quoted post + media, then an `## Analysis` section (tags, bug class, root cause, how found, takeaways pulled from the researcher file) |
 | [writeups/](writeups/) | `writeups/<researcher>/<slug>.md` — full text of linked blogs/reports, header with source URL and fetch date |
 | [telegram/](telegram/) | Verbatim public Telegram channel archives: [@defendor_eng](telegram/defendor_eng/) (DeFi / Web3 security feed) and [@dailybountywriteup](telegram/dailybountywriteup/) (daily bug-bounty writeup links). Machine-readable jsonl and daily-run cursors live under [`data/telegram_state.json`](data/telegram_state.json). |
+| [cves/](cves/) + `data/cve`, `data/nvd`, `data/ghsa`, `data/osv`, `data/exploitdb`, `data/zdi` | **CVE / advisory / exploit layer** (see [cves/README.md](cves/README.md)): every CVE 1999–2026 from cvelistV5 (424,534), NVD enrichment (424,750), CISA KEV (1,779), GHSA (37,715), OSV non-GHSA (23,801), Exploit-DB with PoC code (47,182), Linux kernel CNA (18,563), 37 vendor layers (Google/Chrome/Android, Linux, PHP, Apple, Microsoft, Mozilla, OpenSSL, Node.js, Apache, GitLab, …), Google Project Zero (258 posts + 0day ITW sheet + RCAs), ZDI (17,361 indexed), php-src/electron/WordPress repo advisories |
+| [hackerone/](hackerone/) + `data/h1` | **All 12,750 publicly disclosed HackerOne reports** in full (original report text + summaries + weakness/severity/bounty/CVE), indexed by weakness, program and bounty (see [hackerone/README.md](hackerone/README.md)) |
 
 Post timestamps in these files are converted from UTC to **Africa/Lagos (WAT, UTC+1)**.
 
@@ -131,7 +133,7 @@ X search cannot cover "the whole of X" in one pass. Many elite hunters never pos
 
 ## Harness
 
-See [`harness/`](harness/) — **1,047** findings, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
+See [`harness/`](harness/) — **2,374** findings (incl. 600 top HackerOne reports and 727 CISA-KEV CVEs 2023–2026, `source` field), [cve-index.md](harness/cve-index.md) (bug class → strongest CVE/H1/Exploit-DB/P0 examples), 29 `payloads/h1-*.md` files with 1,909 verbatim PoC snippets, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
 
 ### 12 Nov 2026 daily highlights
 

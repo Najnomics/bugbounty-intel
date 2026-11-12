@@ -17,6 +17,25 @@ New / refreshed technical material today (verbatim under `posts/` and `writeups/
 | Besu + Vyper GHSAs; TDX / gnark crypto | [projects/ethereum/advisories-index.md](projects/ethereum/advisories-index.md), [projects/crypto/advisories-index.md](projects/crypto/advisories-index.md) |
 | Telegram intel sources (verbatim) | [telegram/defendor_eng/](telegram/defendor_eng/) (2,096 msgs, complete), [telegram/dailybountywriteup/](telegram/dailybountywriteup/) (14,969 msgs, complete) |
 
+## CVE, advisory, exploit and HackerOne layers (added 12 Nov 2026, Africa/Lagos)
+
+| Source | Local files | Captured / available |
+| --- | --- | --- |
+| CVE List V5 (all CVEs 1999–2026) | [data/cve/all/](data/cve/all/), per vendor [cves/vendors/](cves/vendors/) | 424,534 / 424,534 |
+| NVD enrichment | [data/nvd/](data/nvd/) | 424,750 / 424,750 |
+| CISA KEV | [cves/kev/](cves/kev/) | 1,779 / 1,779 |
+| GitHub Advisory Database (reviewed) | [data/ghsa/](data/ghsa/), [cves/ghsa/](cves/ghsa/) | 37,715 / 37,715 |
+| OSV.dev (non-GHSA: Android, Go, PYSEC, RustSec, OSS-Fuzz, FriendsOfPHP, Hex) | [data/osv/](data/osv/), [cves/osv/](cves/osv/) | 23,801 |
+| Exploit-DB (with exploit code) | [data/exploitdb/](data/exploitdb/) | 47,182 / 47,182 |
+| Linux kernel CNA (vulns.git) | [data/cve/linux-kernel-cna/](data/cve/linux-kernel-cna/), [cves/vendors/linux-kernel/](cves/vendors/linux-kernel/) | 18,563 / 18,563 |
+| PHP (CVE layer + php-src advisories) | [cves/vendors/php/](cves/vendors/php/), [cves/repo-advisories/php__php-src.md](cves/repo-advisories/php__php-src.md) | 1,390 CVEs + 66 GHSA |
+| Google (Chrome, Android, Google, Project Zero) | [cves/vendors/google-chrome/](cves/vendors/google-chrome/), [cves/vendors/android/](cves/vendors/android/), [cves/vendors/google/](cves/vendors/google/), [cves/google-project-zero/](cves/google-project-zero/) | P0: 258 posts, ITW sheet, RCAs |
+| Zero Day Initiative | [data/zdi/](data/zdi/), [cves/zdi/](cves/zdi/) | 17,361 indexed; full text pending (see `data/cve_state.json`) |
+| HackerOne Hacktivity (all disclosed) | [hackerone/](hackerone/) ([by weakness](hackerone/BY_WEAKNESS.md), [by program](hackerone/BY_PROGRAM.md), [top bounties](hackerone/TOP_BOUNTIES.md)), [data/h1/](data/h1/) | 12,750 / 12,750 |
+| Bug class → best examples | [harness/cve-index.md](harness/cve-index.md) | |
+
+How to search and the daily incremental procedure: [cves/README.md](cves/README.md), [hackerone/README.md](hackerone/README.md). State: [data/cve_state.json](data/cve_state.json), [data/h1_state.json](data/h1_state.json).
+
 ## Telegram sources
 
 Public channels archived from `https://t.me/s/<channel>`. Full message text, links, media type and forwarded-from are stored locally. State for incremental daily updates: [`data/telegram_state.json`](data/telegram_state.json).
