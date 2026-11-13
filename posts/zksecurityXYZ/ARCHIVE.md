@@ -1,11 +1,40 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 173
-- Conversations/threads: 98
+- Posts in this file: 174
+- Conversations/threads: 99
 - Oldest post captured: 2023-07-02
 - Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · Check out our formal verification work with Monero! https://twitter.com/MagicGrants/status/212090943
+
+
+### Post — @zksecurityXYZ — 2026-11-12 19:22 UTC (2026-11-12 20:22 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2120960376791847035
+- Metrics (at fetch): bookmark 1, impression 580, like 11, quote 0, reply 0, retweet 2
+
+> Check out our formal verification work with Monero! https://twitter.com/MagicGrants/status/2120909432913895565
+
+**Links in post:** https://twitter.com/MagicGrants/status/2120909432913895565
+
+**Quoted post (full text):**
+
+    #### Quoted post — @991010410521284608 — 2026-11-12 15:59 UTC (2026-11-12 16:59 WAT)
+    
+    - URL: https://x.com/991010410521284608/status/2120909432913895565
+    - Metrics (at fetch): bookmark 0, impression 615, like 4, quote 1, reply 1, retweet 1
+    
+    > zkSecurity Reviews Generalized Bulletproofs and Publishes a Lean Proof of Its Security (@zksecurityXYZ) 
+    >
+    > https://magicgrants.org/2026/11/12/Generalized-Bulletproofs-zkSecurity
+    
+    **Links in post:** https://magicgrants.org/2026/11/12/Generalized-Bulletproofs-zkSecurity
+    
 
 
 ---

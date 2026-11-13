@@ -2,7 +2,7 @@
 
 A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty findings** by consistent security researchers, compiled for Dorothy's hunting workflow.
 
-Last updated: **12 November 2026** (Africa/Lagos).
+Last updated: **13 November 2026** (Africa/Lagos).
 
 > **For the harness agent:** start at [harness/README.md](harness/README.md); for real-world CVE / HackerOne examples per bug class start at [harness/cve-index.md](harness/cve-index.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 
@@ -34,7 +34,7 @@ This is not a complete map of X, and it is not a hall-of-fame ranking. It starts
 | [writeups/](writeups/) | `writeups/<researcher>/<slug>.md` — full text of linked blogs/reports, header with source URL and fetch date |
 | [telegram/](telegram/) | Verbatim public Telegram channel archives: [@defendor_eng](telegram/defendor_eng/) (DeFi / Web3 security feed) and [@dailybountywriteup](telegram/dailybountywriteup/) (daily bug-bounty writeup links). Machine-readable jsonl and daily-run cursors live under [`data/telegram_state.json`](data/telegram_state.json). |
 | [cves/](cves/) + `data/cve`, `data/nvd`, `data/ghsa`, `data/osv`, `data/exploitdb`, `data/zdi` | **CVE / advisory / exploit layer** (see [cves/README.md](cves/README.md)): every CVE 1999–2026 from cvelistV5 (424,534), NVD enrichment (424,750), CISA KEV (1,779), GHSA (37,715), OSV non-GHSA (23,801), Exploit-DB with PoC code (47,182), Linux kernel CNA (18,563), 37 vendor layers (Google/Chrome/Android, Linux, PHP, Apple, Microsoft, Mozilla, OpenSSL, Node.js, Apache, GitLab, …), Google Project Zero (258 posts + 0day ITW sheet + RCAs), ZDI (17,361 indexed), php-src/electron/WordPress repo advisories |
-| [hackerone/](hackerone/) + `data/h1` | **All 12,750 publicly disclosed HackerOne reports** in full (original report text + summaries + weakness/severity/bounty/CVE), indexed by weakness, program and bounty (see [hackerone/README.md](hackerone/README.md)) |
+| [hackerone/](hackerone/) + `data/h1` | **All 12,752 publicly disclosed HackerOne reports** in full (original report text + summaries + weakness/severity/bounty/CVE), indexed by weakness, program and bounty (see [hackerone/README.md](hackerone/README.md)) |
 
 Post timestamps in these files are converted from UTC to **Africa/Lagos (WAT, UTC+1)**.
 
@@ -134,6 +134,13 @@ X search cannot cover "the whole of X" in one pass. Many elite hunters never pos
 ## Harness
 
 See [`harness/`](harness/) — **2,374** findings (incl. 600 top HackerOne reports and 727 CISA-KEV CVEs 2023–2026, `source` field), [cve-index.md](harness/cve-index.md) (bug class → strongest CVE/H1/Exploit-DB/P0 examples), 29 `payloads/h1-*.md` files with 1,909 verbatim PoC snippets, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
+
+### 13 Nov 2026 daily highlights
+
+- X: saxenism accepted Zcash finding #8 (High) from reviewing a *remediation* — patch closed the PoC path but the impact stayed reachable via another path (remediation-bypass hunting). zkSecurity published a machine-checked **Lean** proof of Generalized Bulletproofs for Monero FCMP++ (scope: interactive protocol/abstract group only — not Fiat-Shamir, Rust impl, curves, or FCMP++ circuits). Trail of Bits "Patch the Planet": 506 merged fixes / 100 CVEs across 75 OSS projects (full CVE list + recurring patterns saved). S1r1u5_/VulnCheck on Project Glasswing: 37,966 AI findings, only 2 exploited ITW.
+- CVEs: cvelistV5 delta merged — **423 new** CVEs + 1,970 updated (incl. Microsoft Patch-Tuesday batch ~1,098, Android 86, Chrome 84, Fortinet 52, WordPress 48). GHSA reviewed DB +52 (now 37,767). KEV, Exploit-DB, Linux-kernel CNA unchanged since 12 Nov.
+- HackerOne: +2 newly disclosed — Node.js HTTP/2 stream-teardown Use-After-Free leaking freed response memory (CVE-2026-123866, High) and Shopify UCP/MCP unauthenticated catalog access on password-protected dev store (access-control, informative).
+- Telegram: @defendor_eng +2 messages (Mercado Bitcoin $48.6M multi-chain hack rekt.news writeup; GuardianAudits wallet-pentest checklist). +170 HackerOne writeups fetched from the @dailybountywriteup backlog (448 total).
 
 ### 12 Nov 2026 daily highlights
 

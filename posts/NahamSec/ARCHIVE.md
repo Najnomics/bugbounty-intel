@@ -1,11 +1,58 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1166
-- Conversations/threads: 990
+- Posts in this file: 1168
+- Conversations/threads: 992
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · One week until the Prompt2Pwn CTF. 🚩
+
+
+### Post — @NahamSec — 2026-11-12 21:00 UTC (2026-11-12 22:00 WAT)
+
+- URL: https://x.com/NahamSec/status/2120984985784185329
+- Metrics (at fetch): bookmark 6, impression 2802, like 12, quote 0, reply 2, retweet 2
+
+> One week until the #Prompt2Pwn CTF. 🚩
+>
+> It starts Nov 19 at noon PT and runs for 48 hours: 30+ challenges and $5,000+ in prizes.
+>
+> Get your team ready: https://p2p.nahamcon.com/ [pic.x.com/sA3Td8Q7b2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWzbNcSaUAAIxtU.jpg — no alt text provided by author
+
+**Links in post:** https://p2p.nahamcon.com/
+
+
+---
+
+## 2026-11-12 · Post · Matt Brown (@nmatt0) is bringing device hacking to the NahamCon2026 stage.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-12 16:00 UTC (2026-11-12 17:00 WAT)
+
+- URL: https://x.com/NahamSec/status/2120909492330086540
+- Metrics (at fetch): bookmark 3, impression 2938, like 8, quote 0, reply 3, retweet 1
+
+> Matt Brown (@nmatt0) is bringing device hacking to the #NahamCon2026 stage.
+>
+> His talk, “Clankers vs Clankers: Using LLMs to Automate Device Hacking,” takes on a question I want to see tested: how far can LLMs take device hacking?
+>
+> Watch live 👉🏼 https://youtube.com/NahamSec. [pic.x.com/8aprGEp5wv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWzbAkDa0AAzicm.jpg — no alt text provided by author
+
+**Links in post:** https://youtube.com/NahamSec
 
 
 ---

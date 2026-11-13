@@ -1,11 +1,713 @@
 # @mdp_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 601
-- Conversations/threads: 466
+- Posts in this file: 626
+- Conversations/threads: 490
 - Oldest post captured: 2026-07-22
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @3MM3RTAREK @intigriti giddy up
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @3MM3RTAREK — 2026-11-12 06:18 UTC (2026-11-12 07:18 WAT)
+
+- URL: https://x.com/3MM3RTAREK/status/2120763222437601584
+- Metrics (at fetch): bookmark 2, impression 641, like 28, quote 0, reply 1, retweet 0
+
+> Another valid finding accepted on @intigriti! 
+> Every report is a lesson. On to the next one.
+>
+> #BugBounty #Intigriti #Cybersecurity [pic.x.com/0o3KiXDw4m]
+
+**Media:**
+- media `3_2120762599310569472` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:47 UTC (2026-11-13 06:47 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121117686692479126
+- Metrics (at fetch): bookmark 0, impression 2, like 0, quote 0, reply 0, retweet 0
+
+> @3MM3RTAREK @intigriti giddy up
+
+
+---
+
+## 2026-11-13 · Reply · @xlsize0bruh @Hacker0x01 too easy
+
+
+Tags (automatic): Platform: HackerOne
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @xlsize0bruh — 2026-11-12 18:00 UTC (2026-11-12 19:00 WAT)
+
+- URL: https://x.com/xlsize0bruh/status/2120939930742644888
+- Metrics (at fetch): bookmark 12, impression 1536, like 94, quote 0, reply 4, retweet 1
+
+> Yay! I was awarded $500 on @Hacker0x01 #hackerone #TogetherWeHitHarder [pic.x.com/McMabWg5JJ]
+
+**Media:**
+- media `3_2120939304029687808` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:45 UTC (2026-11-13 06:45 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121117206008508911
+- Metrics (at fetch): bookmark 0, impression 1, like 0, quote 0, reply 0, retweet 0
+
+> @xlsize0bruh @Hacker0x01 too easy
+
+
+---
+
+## 2026-11-13 · Reply · @Tanishqshah2 @Bugcrowd send it
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Tanishqshah2 — 2026-11-12 18:17 UTC (2026-11-12 19:17 WAT)
+
+- URL: https://x.com/Tanishqshah2/status/2120943970880782452
+- Metrics (at fetch): bookmark 4, impression 990, like 47, quote 0, reply 4, retweet 0
+
+> Crossed 3K on @Bugcrowd, now ranked among the Top 50 all-time in India. Just getting started!! [pic.x.com/C2X0HlH8au]
+
+**Media:**
+- media `3_2120942162418511872` (details not returned by the API)
+- media `3_2120943265679876096` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:43 UTC (2026-11-13 06:43 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121116813593616699
+- Metrics (at fetch): bookmark 0, impression 1, like 0, quote 0, reply 0, retweet 0
+
+> @Tanishqshah2 @Bugcrowd send it
+
+
+---
+
+## 2026-11-13 · Reply · @Gabbsec1337 heck yes
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Gabbsec1337 — 2026-11-12 22:25 UTC (2026-11-12 23:25 WAT)
+
+- URL: https://x.com/Gabbsec1337/status/2121006391884190178
+- Metrics (at fetch): bookmark 0, impression 224, like 16, quote 0, reply 1, retweet 0
+
+> Another one for November! 
+>
+> #BugBounty #Bugcrowd [pic.x.com/7uA6LTRXdl]
+
+**Media:**
+- media `3_2121006387173941248` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:40 UTC (2026-11-13 06:40 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121115890041376824
+- Metrics (at fetch): bookmark 0, impression 1, like 0, quote 0, reply 0, retweet 0
+
+> @Gabbsec1337 heck yes
+
+
+---
+
+## 2026-11-13 · Reply · @cshwshd99 unicorn behaviour that
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @cshwshd99 — 2026-11-12 14:44 UTC (2026-11-12 15:44 WAT)
+
+- URL: https://x.com/cshwshd99/status/2120890377192497514
+- Metrics (at fetch): bookmark 6, impression 990, like 75, quote 0, reply 5, retweet 0
+
+> Sorry, I was a little too quick to declare my love yesterday. My heart belongs to YesWeHack now.
+>
+> They triaged my report in just two days, initially rating it Medium. I didn’t say a word, and two hours later, they bumped it up to High.
+>
+> What can I say except thank you? ❤️ [pic.x.com/UBzY3Q68x0]
+
+**Media:**
+- media `3_2120888902047367168` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:36 UTC (2026-11-13 06:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121114939524006110
+- Metrics (at fetch): bookmark 0, impression 1, like 0, quote 0, reply 0, retweet 0
+
+> @cshwshd99 unicorn behaviour that
+
+
+---
+
+## 2026-11-13 · Reply · @sanaullahk789 @Bugcrowd dub
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @sanaullahk789 — 2026-11-12 16:03 UTC (2026-11-12 17:03 WAT)
+
+- URL: https://x.com/sanaullahk789/status/2120910282105200661
+- Metrics (at fetch): bookmark 0, impression 24, like 0, quote 0, reply 1, retweet 0
+
+> @Bugcrowd 
+>
+> After maybe waiting of more than 3 months finally got paid on right time. Time to order the GTA 6 [pic.x.com/lQ4PgOuF89]
+
+**Media:**
+- media `3_2120910105571205120` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:34 UTC (2026-11-13 06:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121114370994516161
+- Metrics (at fetch): bookmark 0, impression 1, like 0, quote 0, reply 0, retweet 0
+
+> @sanaullahk789 @Bugcrowd dub
+
+
+---
+
+## 2026-11-13 · Reply · @ArkhLifeJiggy hell yeah
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ArkhLifeJiggy — 2026-11-12 20:31 UTC (2026-11-12 21:31 WAT)
+
+- URL: https://x.com/ArkhLifeJiggy/status/2120977720255664202
+- Metrics (at fetch): bookmark 0, impression 16, like 1, quote 0, reply 1, retweet 0
+
+> From countless attempts to two confirmed bounty rewards. 🥹🔥 
+>
+> 2026 brought my first USD bounty and my second reward in EUR  (3-4 digit)
+>
+> 2023 was the beginning. 2026 is proof that persistence matters.  
+>
+> MAM🤝Rootkit Forever. https://twitter.com/ArkhLifeJiggy/status/2082874201996759046
+
+**Links in post:** https://twitter.com/ArkhLifeJiggy/status/2082874201996759046
+
+**Quoted post** 2082874201996759046: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-13 05:32 UTC (2026-11-13 06:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121113886439153931
+- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, retweet 0
+
+> @ArkhLifeJiggy hell yeah
+
+
+---
+
+## 2026-11-13 · Reply · @anand___73 @Rohit_443 nicely done
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @anand___73 — 2026-11-12 07:12 UTC (2026-11-12 08:12 WAT)
+
+- URL: https://x.com/anand___73/status/2120776784253993369
+- Metrics (at fetch): bookmark 7, impression 925, like 63, quote 0, reply 7, retweet 0
+
+> After long time  🎉 Received a $280 bounty for reporting an IDOR vulnerability! 🔐
+>
+> #BugBounty #IDOR #CyberSecurity #InfoSec [pic.x.com/C41Zy0Y6Gp]
+
+**Media:**
+- media `3_2120776774040879104` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:29 UTC (2026-11-13 06:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121113074853920998
+- Metrics (at fetch): bookmark 0, impression 5, like 0, quote 0, reply 0, retweet 0
+
+> @anand___73 @Rohit_443 nicely done
+
+
+---
+
+## 2026-11-13 · Reply · @RajAnsa82605700 printer goes brrr
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @RajAnsa82605700 — 2026-11-12 07:36 UTC (2026-11-12 08:36 WAT)
+
+- URL: https://x.com/RajAnsa82605700/status/2120782742040502412
+- Metrics (at fetch): bookmark 4, impression 1385, like 124, quote 0, reply 7, retweet 0
+
+> Another $600 bounty secured! 💰🏆
+>
+> #BugBounty #CyberSecurity #InfoSec #EthicalHacking #bugcrowd [pic.x.com/ZeyVoagtw2]
+
+**Media:**
+- media `3_2120782733282824192` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 05:26 UTC (2026-11-13 06:26 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121112529585995847
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @RajAnsa82605700 printer goes brrr
+
+
+---
+
+## 2026-11-13 · Reply · @V3locidad_ @yeswehack bravo
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @V3locidad_ — 2026-11-12 12:18 UTC (2026-11-12 13:18 WAT)
+
+- URL: https://x.com/V3locidad_/status/2120853772180316347
+- Metrics (at fetch): bookmark 0, impression 299, like 12, quote 0, reply 1, retweet 0
+
+> Just got a reward for a vulnerability submitted on @yeswehack -- Server-Side Request Forgery (SSRF) (CWE-918). https://yeswehack.com/hunters/v3locidad-1 #YesWeRHackers
+
+**Links in post:** https://yeswehack.com/hunters/v3locidad-1
+
+
+### Post — @mdp_sec — 2026-11-13 05:21 UTC (2026-11-13 06:21 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121111193901527377
+- Metrics (at fetch): bookmark 0, impression 5, like 0, quote 0, reply 0, retweet 0
+
+> @V3locidad_ @yeswehack bravo
+
+
+---
+
+## 2026-11-13 · Reply · @_Xiety @yeswehack machine
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @_Xiety — 2026-11-12 15:35 UTC (2026-11-12 16:35 WAT)
+
+- URL: https://x.com/_Xiety/status/2120903285322179058
+- Metrics (at fetch): bookmark 0, impression 305, like 25, quote 0, reply 2, retweet 0
+
+> Just got a reward for a high vulnerability submitted on @yeswehack -- Improper Access Control - Generic (CWE-284). https://yeswehack.com/hunters/xiety #YesWeRHackers [pic.x.com/m3yoYc3Her]
+
+**Media:**
+- media `3_2120903254712201217` (details not returned by the API)
+
+**Links in post:** https://yeswehack.com/hunters/xiety
+
+
+### Post — @mdp_sec — 2026-11-13 05:16 UTC (2026-11-13 06:16 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121109962185494847
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @_Xiety @yeswehack machine
+
+
+---
+
+## 2026-11-13 · Reply · @ravikp7 happy days
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ravikp7 — 2026-11-12 17:01 UTC (2026-11-12 18:01 WAT)
+
+- URL: https://x.com/ravikp7/status/2120924958071345381
+- Metrics (at fetch): bookmark 0, impression 212, like 3, quote 0, reply 2, retweet 0
+
+> Good news: The vulnerability is patched. I’ve been rewarded with a bounty.
+>
+> But they don’t want to make it public on social media, so I can’t name the startup.
+>
+> I think it’s actually a great time to get into security research. https://twitter.com/ravikp7/status/2112789716450120167
+
+**Links in post:** https://twitter.com/ravikp7/status/2112789716450120167
+
+**Quoted post** 2112789716450120167: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-13 05:10 UTC (2026-11-13 06:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121108425228931230
+- Metrics (at fetch): bookmark 0, impression 30, like 0, quote 0, reply 1, retweet 0
+
+> @ravikp7 happy days
+
+
+---
+
+## 2026-11-13 · Reply · @0xshawkroot @0Xmannaf dope
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xshawkroot — 2026-11-12 19:01 UTC (2026-11-12 20:01 WAT)
+
+- URL: https://x.com/0xshawkroot/status/2120955094376272121
+- Metrics (at fetch): bookmark 11, impression 1223, like 54, quote 0, reply 5, retweet 1
+
+> MY FIRST XSS ON HACKERONE! 😭🔥
+>
+> CSRF → XSS on https://Booking.com Company.
+> Officially Triaged – Medium (6.1)!
+>
+> Big love to my brother @0xmannaf ❤️
+> Not just collaborators, brothers. We keep cooking! 😂🤝
+>
+> One down, many more to go. 🚀
+>
+> #BugBounty #HackerOne #XSS #xss [pic.x.com/FfYsYeSM1y]
+
+**Media:**
+- media `3_2120955081163939840` (details not returned by the API)
+
+**Links in post:** https://Booking.com
+
+
+### Post — @mdp_sec — 2026-11-13 05:07 UTC (2026-11-13 06:07 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121107554466247018
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> @0xshawkroot @0Xmannaf dope
+
+
+---
+
+## 2026-11-13 · Reply · @yamarajislitaf @yeswehack noice
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @yamarajislitaf — 2026-11-12 19:05 UTC (2026-11-12 20:05 WAT)
+
+- URL: https://x.com/yamarajislitaf/status/2120956116050014496
+- Metrics (at fetch): bookmark 0, impression 37, like 2, quote 0, reply 1, retweet 0
+
+> Just got a reward for a high vulnerability submitted on @yeswehack -- Improper Access Control - Generic (CWE-284). https://yeswehack.com/hunters/ya3raj #YesWeRHackers
+
+**Links in post:** https://yeswehack.com/hunters/ya3raj
+
+
+### Post — @mdp_sec — 2026-11-13 05:05 UTC (2026-11-13 06:05 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121107157164925420
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 1, retweet 0
+
+> @yamarajislitaf @yeswehack noice
+
+
+---
+
+## 2026-11-13 · Reply · @TekonBurns cheers fam, more coming
+
+
+**Context — post being replied to:**
+
+#### Parent post — @TekonBurns — 2026-11-13 03:22 UTC (2026-11-13 04:22 WAT)
+
+- URL: https://x.com/TekonBurns/status/2121081311549161978
+- Metrics (at fetch): bookmark 0, impression 25, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec 50+ updates since launch is serious shipping
+
+
+### Post — @mdp_sec — 2026-11-13 04:32 UTC (2026-11-13 05:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121098879856992729
+- Metrics (at fetch): bookmark 0, impression 18, like 0, quote 0, reply 0, retweet 0
+
+> @TekonBurns cheers fam, more coming
+
+
+---
+
+## 2026-11-13 · Post · read the filing. it was their cloud vendor https://twitter.com/AndrewCurran_/status/2121053887398601
+
+
+### Post — @mdp_sec — 2026-11-13 04:10 UTC (2026-11-13 05:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121093194368614908
+- Metrics (at fetch): bookmark 0, impression 303, like 1, quote 0, reply 0, retweet 0
+
+> read the filing. it was their cloud vendor https://twitter.com/AndrewCurran_/status/2121053887398601075
+
+**Links in post:** https://twitter.com/AndrewCurran_/status/2121053887398601075
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1538525334781370368 — 2026-11-13 01:33 UTC (2026-11-13 02:33 WAT)
+    
+    - URL: https://x.com/1538525334781370368/status/2121053887398601075
+    - Metrics (at fetch): bookmark 787, impression 599252, like 3034, quote 144, reply 139, retweet 544
+    
+    > TSMC has been hacked. [pic.x.com/x2cZIouBAi]
+    
+    **Media:**
+    - media `3_2121053884550610944` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-13 · Reply · @dps @Muse keen, id point my system at that
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @dps — 2026-11-13 01:56 UTC (2026-11-13 02:56 WAT)
+
+- URL: https://x.com/dps/status/2121059690629242887
+- Metrics (at fetch): bookmark 8, impression 3448, like 55, quote 0, reply 4, retweet 0
+
+> We’ve been talking with security researchers about making @muse even easier to test. Looking forward to giving select bug bounty researchers dedicated test VMs and tools to probe our isolation boundaries.
+> https://bugbounty.meta.com/blog/securing-muse/
+
+**Links in post:** https://bugbounty.meta.com/blog/securing-muse/
+
+
+### Post — @mdp_sec — 2026-11-13 02:39 UTC (2026-11-13 03:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121070387345973332
+- Metrics (at fetch): bookmark 0, impression 105, like 0, quote 0, reply 0, retweet 0
+
+> @dps @Muse keen, id point my system at that
+
+
+---
+
+## 2026-11-13 · Reply · @troyhunt brutal on a friday
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @troyhunt — 2026-11-13 01:30 UTC (2026-11-13 02:30 WAT)
+
+- URL: https://x.com/troyhunt/status/2121053107463618816
+- Metrics (at fetch): bookmark 47, impression 51311, like 1402, quote 18, reply 58, retweet 108
+
+> Having this outage with M365 reminds you how critical email still is. It's not just about not knowing who has emailed me or whether my sent emails have been received, I'm now locked out of a bunch of services that use email for login. It's a massive business disruption.
+
+
+### Post — @mdp_sec — 2026-11-13 02:37 UTC (2026-11-13 03:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121069865897476215
+- Metrics (at fetch): bookmark 0, impression 246, like 0, quote 0, reply 0, retweet 0
+
+> @troyhunt brutal on a friday
+
+
+---
+
+## 2026-11-11 · Thread · whats the longest ur bounty has sat after triage before it paid out
+
+
+### Post — @mdp_sec — 2026-11-11 22:40 UTC (2026-11-11 23:40 WAT)
+
+- URL: https://x.com/mdp_sec/status/2120647759422423405
+- Metrics (at fetch): bookmark 3, impression 2537, like 28, quote 0, reply 23, repost 0
+
+> whats the longest ur bounty has sat after triage before it paid out
+>
+> days only, no program names fam
+
+
+### Thread part 2 — @mdp_sec — 2026-11-13 02:35 UTC (2026-11-13 03:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121069449675682034
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 1, retweet 0
+
+> @dirtycoder0124 hope it lands before the anniversary
+
+
+---
+
+## 2026-11-13 · Reply · @Blackfrost_AI @QwenDevs @Alibaba_Qwen Rofl
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Blackfrost_AI — 2026-11-13 00:34 UTC (2026-11-13 01:34 WAT)
+
+- URL: https://x.com/Blackfrost_AI/status/2121039080821850567
+- Metrics (at fetch): bookmark 2, impression 1346, like 19, quote 1, reply 3, retweet 1
+
+> @QwenDevs @Alibaba_Qwen please fix your Qwen4 preview API. it keeps injecting URL discipline instructions with each call forcing my model to speak in chinese, burning my tokens, and killing my sessions context.  please help [pic.x.com/KIyeEiBbBR]
+
+**Media:**
+- media `3_2121038452850638848` (details not returned by the API)
+- media `3_2121039066611519488` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-13 00:47 UTC (2026-11-13 01:47 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121042330627277034
+- Metrics (at fetch): bookmark 0, impression 70, like 1, quote 0, reply 0, retweet 0
+
+> @Blackfrost_AI @QwenDevs @Alibaba_Qwen Rofl
+
+
+---
+
+## 2026-11-13 · Reply · @kuzushi @Bugcrowd nice one fam
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @kuzushi — 2026-11-13 00:01 UTC (2026-11-13 01:01 WAT)
+
+- URL: https://x.com/kuzushi/status/2121030754922876976
+- Metrics (at fetch): bookmark 0, impression 344, like 11, quote 0, reply 1, retweet 1
+
+> Just got finished talking at the @bugcrowd hive event in Boston-- what a great time, thanks everyone for coming out.
+
+
+### Post — @mdp_sec — 2026-11-13 00:33 UTC (2026-11-13 01:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121038797899227314
+- Metrics (at fetch): bookmark 0, impression 16, like 0, quote 0, reply 0, retweet 0
+
+> @kuzushi @Bugcrowd nice one fam
+
+
+---
+
+## 2026-11-13 · Reply · @petergyang send it in my place and im sold
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @petergyang — 2026-11-13 00:13 UTC (2026-11-13 01:13 WAT)
+
+- URL: https://x.com/petergyang/status/2121033663668539405
+- Metrics (at fetch): bookmark 27, impression 12549, like 153, quote 1, reply 34, retweet 0
+
+> I feel like this is a big deal.
+>
+> Countless meetings are just aligning on something and then doing the real work later.
+>
+> What if the agent just gets the work done during the meeting + helps the team align. https://twitter.com/claudeai/status/2120973994191094179
+
+**Links in post:** https://twitter.com/claudeai/status/2120973994191094179
+
+**Quoted post** 2120973994191094179: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-13 00:32 UTC (2026-11-13 01:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121038383581626751
+- Metrics (at fetch): bookmark 0, impression 102, like 0, quote 0, reply 0, retweet 0
+
+> @petergyang send it in my place and im sold
+
+
+---
+
+## 2026-11-13 · Reply · @zonduu1 @Bugcrowd ooft. id be pushing back hard on that
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @zonduu1 — 2026-11-12 23:31 UTC (2026-11-13 00:31 WAT)
+
+- URL: https://x.com/zonduu1/status/2121023111504048399
+- Metrics (at fetch): bookmark 14, impression 4633, like 66, quote 0, reply 15, retweet 2
+
+> To bugcrowd, executing and extracting the output of "whoami" and "id" is not enough for an RCE. Not sure what does the team expect? Full explotation? to upload a shell? This is crazy, I just can't believe it @Bugcrowd [pic.x.com/A2l2dcCcV7] https://twitter.com/zonduu1/status/2116196296768069816
+
+**Media:**
+- media `3_2121022232067555328` (details not returned by the API)
+
+**Links in post:** https://twitter.com/zonduu1/status/2116196296768069816
+
+**Quoted post** 2116196296768069816: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-13 00:30 UTC (2026-11-13 01:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121038001426030722
+- Metrics (at fetch): bookmark 0, impression 532, like 4, quote 0, reply 0, retweet 0
+
+> @zonduu1 @Bugcrowd ooft. id be pushing back hard on that
+
+
+---
+
+## 2026-11-13 · Reply · @jake_cole1 @mercor keen, u know where to find me
+
+
+**Context — post being replied to:**
+
+#### Parent post — @jake_cole1 — 2026-11-12 23:54 UTC (2026-11-13 00:54 WAT)
+
+- URL: https://x.com/jake_cole1/status/2121028865586032790
+- Metrics (at fetch): bookmark 0, impression 34, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec @mercor Good idea
+
+
+### Post — @mdp_sec — 2026-11-13 00:28 UTC (2026-11-13 01:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121037561988854114
+- Metrics (at fetch): bookmark 0, impression 30, like 0, quote 0, reply 0, retweet 0
+
+> @jake_cole1 @mercor keen, u know where to find me
+
+
+---
+
+## 2026-11-13 · Reply · @niffy_hunt enjoy fam :)
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @niffy_hunt — 2026-11-13 00:12 UTC (2026-11-13 01:12 WAT)
+
+- URL: https://x.com/niffy_hunt/status/2121033544512213323
+- Metrics (at fetch): bookmark 0, impression 74, like 2, quote 0, reply 1, retweet 1
+
+> one board for H1/Bugcrowd/Intigriti/YesWeHack,fresh scope, scope diffs, HuntScore and Burp/ZAP/Caido exports. Worth a look if you hunt across platforms.
+> https://huntdeck.io
+
+**Links in post:** https://huntdeck.io
+
+
+### Post — @mdp_sec — 2026-11-13 00:28 UTC (2026-11-13 01:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121037557157048565
+- Metrics (at fetch): bookmark 0, impression 15, like 0, quote 0, reply 0, retweet 0
+
+> @niffy_hunt enjoy fam :)
 
 
 ---
@@ -89,21 +791,6 @@ Tags (automatic): RCE, Path normalization, Memory corruption / native, AI-assist
 > [Links in article: github.com/mdpsec/bug-bounty-hunting-prompts, blackboxarena.ai]
 
 **Links in post:** https://x.com/i/article/2120629930664816640
-
-
----
-
-## 2026-11-11 · Post · whats the longest ur bounty has sat after triage before it paid out
-
-
-### Post — @mdp_sec — 2026-11-11 22:40 UTC (2026-11-11 23:40 WAT)
-
-- URL: https://x.com/mdp_sec/status/2120647759422423405
-- Metrics (at fetch): bookmark 3, impression 2537, like 28, quote 0, reply 23, repost 0
-
-> whats the longest ur bounty has sat after triage before it paid out
->
-> days only, no program names fam
 
 
 ---
@@ -1862,9 +2549,9 @@ Tags (automatic): AI-assisted hunting, Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1904903285620039680 — 2026-11-02 14:38 UTC (2026-11-02 15:38 WAT)
+    #### Quoted post — @xlsize0bruh — 2026-11-02 14:38 UTC (2026-11-02 15:38 WAT)
     
-    - URL: https://x.com/1904903285620039680/status/2117264995314815037
+    - URL: https://x.com/xlsize0bruh/status/2117264995314815037
     - Metrics (at fetch): bookmark 6, impression 2886, like 77, quote 1, reply 3, repost 1
     
     > Such an honest program! Argued with them about severity after they paid out as `low`, and here we go! 💞 @Hacker0x01  #hackerone #TogetherWeHitHarder [pic.x.com/56hDFtYM87] https://twitter.com/xlsize0bruh/status/2116791629445255637

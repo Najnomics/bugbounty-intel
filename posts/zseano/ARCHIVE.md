@@ -1,6 +1,6 @@
 # @zseano — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 420
 - Conversations/threads: 371
@@ -697,9 +697,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1214634513340481543 — 2026-08-12 19:02 UTC (2026-08-12 20:02 WAT)
+    #### Quoted post — @0xLupin — 2026-08-12 19:02 UTC (2026-08-12 20:02 WAT)
     
-    - URL: https://x.com/1214634513340481543/status/2087615702710538421
+    - URL: https://x.com/0xLupin/status/2087615702710538421
     - Metrics (at fetch): bookmark 1435, impression 249902, like 1318, quote 54, reply 89, repost 276
     
     > “Security researchers are doomed because of AI.”

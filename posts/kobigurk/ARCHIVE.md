@@ -1,11 +1,73 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 124
-- Conversations/threads: 106
+- Posts in this file: 127
+- Conversations/threads: 109
 - Oldest post captured: 2014-01-16
-- Newest post captured: 2026-11-07
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Reply · @kirancodes https://x.com/kobigurk/status/2108540709141705176 https://twitter.com/kobigurk/status/21
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @kirancodes — 2026-11-11 19:02 UTC (2026-11-11 20:02 WAT)
+
+- URL: https://x.com/kirancodes/status/2120593016243232935
+- Metrics (at fetch): bookmark 1, impression 630, like 13, quote 0, reply 2, retweet 0
+
+> What is a great researcher other than a large claude code subscription
+
+
+### Post — @kobigurk — 2026-11-12 11:31 UTC (2026-11-12 12:31 WAT)
+
+- URL: https://x.com/kobigurk/status/2120842005391786090
+- Metrics (at fetch): bookmark 0, impression 169, like 2, quote 0, reply 0, retweet 0
+
+> @kirancodes https://x.com/kobigurk/status/2108540709141705176 https://twitter.com/kobigurk/status/2108540709141705176
+
+**Links in post:** https://x.com/kobigurk/status/2108540709141705176, https://twitter.com/kobigurk/status/2108540709141705176
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kobigurk — 2026-10-09 12:50 UTC (2026-10-09 13:50 WAT)
+    
+    - URL: https://x.com/kobigurk/status/2108540709141705176
+    - Metrics (at fetch): bookmark 0, impression 1128, like 23, quote 1, reply 2, retweet 0
+    
+    > give me a model strong enough and a harness on which to run it, and I shall prove math
+    
+
+
+---
+
+## 2026-11-12 · Reply · @cryptodavidw I heard the author is a cool guy
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @cryptodavidw — 2026-11-11 21:01 UTC (2026-11-11 22:01 WAT)
+
+- URL: https://x.com/cryptodavidw/status/2120623015821984217
+- Metrics (at fetch): bookmark 15, impression 3177, like 41, quote 0, reply 2, retweet 7
+
+> if you guys want to learn about the signal protocol, read chapter 10 of Real-World Cryptography! https://twitter.com/sundarpichai/status/2120207062655549933
+
+**Links in post:** https://twitter.com/sundarpichai/status/2120207062655549933
+
+**Quoted post** 2120207062655549933: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @kobigurk — 2026-11-12 11:10 UTC (2026-11-12 12:10 WAT)
+
+- URL: https://x.com/kobigurk/status/2120836614725173311
+- Metrics (at fetch): bookmark 0, impression 146, like 4, quote 0, reply 1, retweet 0
+
+> @cryptodavidw I heard the author is a cool guy
 
 
 ---
@@ -185,6 +247,19 @@ Tags (automatic): ZK
     
     **Links in post:** https://www.zkao.io
     
+
+
+---
+
+## 2026-10-09 · Post · give me a model strong enough and a harness on which to run it, and I shall prove math
+
+
+### Post — @kobigurk — 2026-10-09 12:50 UTC (2026-10-09 13:50 WAT)
+
+- URL: https://x.com/kobigurk/status/2108540709141705176
+- Metrics (at fetch): bookmark 0, impression 1128, like 23, quote 1, reply 2, retweet 0
+
+> give me a model strong enough and a harness on which to run it, and I shall prove math
 
 
 ---

@@ -1,11 +1,120 @@
 # @trailofbits — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 255
-- Conversations/threads: 187
+- Posts in this file: 257
+- Conversations/threads: 189
 - Oldest post captured: 2012-04-03
-- Newest post captured: 2026-11-03
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · Patching is the hardest step for agents to get right. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2026-11-12 22:37 UTC (2026-11-12 23:37 WAT)
+
+- URL: https://x.com/trailofbits/status/2121009628855357931
+- Metrics (at fetch): bookmark 46, impression 3700, like 76, quote 1, reply 13, retweet 7
+
+> Patching is the hardest step for agents to get right. 
+>
+> We took what we learned from hundreds of Patch the Planet patches, thousands of internal Codex sessions, and a decade of fix reviews, and built it into two open-source agent plugins.                                           
+>
+> A good fix looks different in every codebase, and building one takes judgment and expertise. Our plugins encode best practices that work for our engineers so you can patch along at home.
+>
+> •patching-bugs makes an agent prove each fix: the original code fails, the patched code passes, and a full revert fails again.
+> •regression-hunt checks what else the change broke, with a live proof of concept for every regression it reports.
+>
+> Both work best with a THREAT_MODEL.md and patching guidelines, so agents know what your project considers a bug, a regression, and an acceptable fix. 
+>
+> They fit naturally in loops like @OpenAI's new Daybreak Defense Factory, where agents draft patches for people to review.
+> https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/
+
+**Links in post:** https://twitter.com/gdb/status/2121004237413142656, https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/
+
+**Quoted post (full text):**
+
+    #### Quoted post — @162124540 — 2026-11-12 22:16 UTC (2026-11-12 23:16 WAT)
+    
+    - URL: https://x.com/162124540/status/2121004237413142656
+    - Metrics (at fetch): bookmark 226, impression 65113, like 670, quote 28, reply 126, retweet 62
+    
+    > Announcing two new cyber products:
+    >
+    > - Daybreak Defense Factory (https://openai.com/daybreak/defense-factory/)
+    > - Daybreak Red Team (https://openai.com/daybreak/red-team/)
+    >
+    > Both make it much easier to put frontier cyber capabilities to work, helping defend companies in new ways. https://twitter.com/OpenAI/status/2120202353907486826
+    
+    **Links in post:** https://openai.com/daybreak/defense-factory/, https://openai.com/daybreak/red-team/, https://twitter.com/OpenAI/status/2120202353907486826
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @OpenAI — 2026-11-10 17:10 UTC (2026-11-10 18:10 WAT)
+        
+        - URL: https://x.com/OpenAI/status/2120202353907486826
+        - Metrics (at fetch): bookmark 313, impression 491874, like 2237, quote 123, reply 477, retweet 153
+        
+        > We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements.
+        >
+        > Working with our frontier models, we've identified and resolved important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we're building to help other security teams strengthen their defenses.
+        >
+        > @gdb shares what we've learned and why security teams should keep putting the latest models to work as capabilities improve.
+        >
+        > Tune in on November 12 at 10 a.m. PT: https://openai.com/cyber-at-the-frontier/
+        
+        **Media:**
+        - media `13_2120202060255928320` (details not returned by the API)
+        
+        **Links in post:** https://openai.com/cyber-at-the-frontier/
+        
+    
+
+
+---
+
+## 2026-11-12 · Post · Patch the Planet update: We’ve now merged 500+ fixes across 75 open-source projects, with 100 CVEs d
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @trailofbits — 2026-11-12 18:14 UTC (2026-11-12 19:14 WAT)
+
+- URL: https://x.com/trailofbits/status/2120943246587392210
+- Metrics (at fetch): bookmark 6, impression 2391, like 28, quote 1, reply 6, retweet 3
+
+> Patch the Planet update: We’ve now merged 500+ fixes across 75 open-source projects, with 100 CVEs disclosed in the Linux kernel, curl, OpenSSL, nginx, vLLM, and more.
+>
+> https://trailofbits.com/patch-the-planet/dashboard/ https://twitter.com/OpenAI/status/2120202353907486826
+
+**Links in post:** https://trailofbits.com/patch-the-planet/dashboard/, https://twitter.com/OpenAI/status/2120202353907486826
+
+**Quoted post (full text):**
+
+    #### Quoted post — @OpenAI — 2026-11-10 17:10 UTC (2026-11-10 18:10 WAT)
+    
+    - URL: https://x.com/OpenAI/status/2120202353907486826
+    - Metrics (at fetch): bookmark 313, impression 491874, like 2237, quote 123, reply 477, retweet 153
+    
+    > We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements.
+    >
+    > Working with our frontier models, we've identified and resolved important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we're building to help other security teams strengthen their defenses.
+    >
+    > @gdb shares what we've learned and why security teams should keep putting the latest models to work as capabilities improve.
+    >
+    > Tune in on November 12 at 10 a.m. PT: https://openai.com/cyber-at-the-frontier/
+    
+    **Media:**
+    - media `13_2120202060255928320` (details not returned by the API)
+    
+    **Links in post:** https://openai.com/cyber-at-the-frontier/
+    
 
 
 ---

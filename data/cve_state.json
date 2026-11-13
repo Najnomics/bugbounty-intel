@@ -1,21 +1,23 @@
 {
- "generated": "2026-11-12 (Africa/Lagos)",
+ "generated": "2026-11-13 (Africa/Lagos)",
  "note": "Markers for the daily incremental CVE run. See cves/README.md \"Daily incremental procedure\".",
  "sources": {
   "cvelistV5": {
    "status": "complete",
-   "records": 424534,
+   "records": 424957,
    "years": "1999-2026",
-   "max_dateUpdated": "2026-11-11T23:22:46.596Z",
+   "max_dateUpdated": "2026-11-13T05:01:51.221Z",
    "source": "https://github.com/CVEProject/cvelistV5 (release zip)",
-   "incremental": "download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py"
+   "incremental": "download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py",
+   "last_delta_applied": "2026-11-12 end_of_day + 2026-11-13 up to 0500Z (423 new, 1970 updated)"
   },
   "nvd": {
    "status": "complete",
    "records": 424750,
    "max_lastModified": "2026-11-12T15:18:06.640",
    "api_timestamp": "2026-11-12T15:29:41.262",
-   "incremental": "GET https://services.nvd.nist.gov/rest/json/cves/2.0?lastModStartDate=<max_lastModified>&lastModEndDate=<now> (max 120-day window, 2000/page, sleep 6s), then tools/intel-pipeline/nvd_build.py"
+   "incremental": "GET https://services.nvd.nist.gov/rest/json/cves/2.0?lastModStartDate=<max_lastModified>&lastModEndDate=<now> (max 120-day window, 2000/page, sleep 6s), then tools/intel-pipeline/nvd_build.py",
+   "note": "enrichment not refreshed on 2026-11-13 run; new cvelist records lack NVD analysis until NVD processes them"
   },
   "cisa_kev": {
    "status": "complete",
@@ -26,8 +28,8 @@
   },
   "ghsa": {
    "status": "complete",
-   "records": 37715,
-   "max_modified": "2026-11-12T06:30:19Z",
+   "records": 37767,
+   "max_modified": "2026-11-13T01:09:54Z",
    "source": "https://github.com/github/advisory-database (reviewed)",
    "incremental": "GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified"
   },
@@ -36,7 +38,8 @@
    "records": 23801,
    "max_modified": "2026-11-12T14:00:04.072693821Z",
    "source": "https://osv-vulnerabilities.storage.googleapis.com/<eco>/all.zip; skipped: GHSA dups, MAL- malicious-package records, GIT and Linux ecosystems (covered by cvelist/kernel CNA)",
-   "incremental": "per ecosystem modified_id.csv at https://osv-vulnerabilities.storage.googleapis.com/<eco>/modified_id.csv, entries newer than max_modified"
+   "incremental": "per ecosystem modified_id.csv at https://osv-vulnerabilities.storage.googleapis.com/<eco>/modified_id.csv, entries newer than max_modified",
+   "note": "not refreshed on 2026-11-13 (no per-ecosystem delta pulled this run)"
   },
   "exploitdb": {
    "status": "complete",

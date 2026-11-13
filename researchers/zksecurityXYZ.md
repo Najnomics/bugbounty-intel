@@ -34,3 +34,10 @@ _No single post in this capture describes a specific vulnerability in enough det
 - Full audit text: [`writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md`](../writeups/zksecurityXYZ/solana-privacy-rings-zolana-audit-2026-08.md)
 - **High #00:** Unauthorized spending of P-256-owned UTXOs via gnark underconstrained fake-GLV (gnark issue #1767 / GHSA-7fx8-hmgc-82jp class).
 - **High #01:** Public `private_tx_hash` leaks spent UTXO (unlinkability).
+
+### Generalized Bulletproofs for Monero FCMP++ — Lean machine-checked proof — 12 Nov 2026
+
+- Post: https://x.com/zksecurityXYZ/status/2120960376791847035 — verbatim: [`posts/zksecurityXYZ/2026-11-12-2120960376791847035.md`](../posts/zksecurityXYZ/2026-11-12-2120960376791847035.md)
+- Writeup: [`writeups/zksecurityXYZ/monero-generalized-bulletproofs-lean-proof-2026-11.md`](../writeups/zksecurityXYZ/monero-generalized-bulletproofs-lean-proof-2026-11.md)
+- **Summary:** reviewed `generalized-bulletproofs` in `monero-oxide` (4 low, 3 info, no high/med), then published an independent Lean proof of completeness/ZK/soundness for the interactive protocol.
+- **Takeaway:** verification scope excludes Fiat-Shamir, the Rust impl, the concrete curves, and FCMP++ circuits — the real audit surface.

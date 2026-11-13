@@ -1,29 +1,16 @@
 # @depi_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 2
+- Posts in this file: 5
 - Conversations/threads: 2
 - Oldest post captured: 2026-11-11
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-12
 
 
 ---
 
-## 2026-11-11 · Post · https://t.co/H5EWFNlDOh
-
-
-### Post — @depi_ — 2026-11-11 15:20 UTC (2026-11-11 16:20 WAT)
-
-- URL: https://x.com/depi_/status/2120537123191185460
-- Metrics (at fetch): bookmark 18, impression 1141, like 28, quote 0, reply 0, retweet 8
-
-> https://t.co/H5EWFNlDOh
-
-
----
-
-## 2026-11-11 · Post · 🚨👾First post → Awesome research. 
+## 2026-11-11 · Thread · 🚨👾First post → Awesome research. 
 
 
 Tags (automatic): RCE, Dependency confusion / supply chain
@@ -50,3 +37,40 @@ Tags (automatic): RCE, Dependency confusion / supply chain
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HW2luJuX0AAC2mD.jpg — no alt text provided by author
+
+
+### Thread part 2 — @depi_ — 2026-11-12 21:11 UTC (2026-11-12 22:11 WAT)
+
+- URL: https://x.com/depi_/status/2120987805740413295
+- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 0, retweet 0
+
+> @ppenelonjs Thank you 🤭 We do our best (most of the time)
+
+
+### Thread part 3 — @depi_ — 2026-11-12 21:12 UTC (2026-11-12 22:12 WAT)
+
+- URL: https://x.com/depi_/status/2120988033751388387
+- Metrics (at fetch): bookmark 0, impression 12, like 0, quote 0, reply 0, retweet 0
+
+> @STRC_live Yes 😬 although it's technically still under review
+
+
+### Thread part 4 — @depi_ — 2026-11-12 21:13 UTC (2026-11-12 22:13 WAT)
+
+- URL: https://x.com/depi_/status/2120988396567122240
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 1, retweet 0
+
+> @aapakari I mean there are twists and turns in the middle 🥴
+
+
+---
+
+## 2026-11-11 · Post · https://t.co/H5EWFNlDOh
+
+
+### Post — @depi_ — 2026-11-11 15:20 UTC (2026-11-11 16:20 WAT)
+
+- URL: https://x.com/depi_/status/2120537123191185460
+- Metrics (at fetch): bookmark 18, impression 1141, like 28, quote 0, reply 0, retweet 8
+
+> https://t.co/H5EWFNlDOh

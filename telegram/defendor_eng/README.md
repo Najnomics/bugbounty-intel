@@ -6,9 +6,9 @@ Public web preview used for this archive: [https://t.me/s/defendor_eng](https://
 - **Title:** Defendor — DeFi Security
 - **Description:** Web3 Security Feed /  / Ads: https://t.me/arsen_btnk
 - **Channel counters (at crawl):** 2.6K | subscribers | 2.04K | photos | 2.08K | links
-- **Messages captured:** 2096
-- **ID range:** 1–2334
-- **Date range (WAT, Africa/Lagos):** 2025-04-22T08:42:27+01:00 → 2026-11-12T11:02:40+01:00
+- **Messages captured:** 2098
+- **ID range:** 1–2336
+- **Date range (WAT, Africa/Lagos):** 2025-04-22T08:42:27+01:00 → 2026-11-12T20:30:33+01:00
 - **Backfill complete (reached first available message):** True
 - **Oldest captured id:** 1
 - **Newest captured id:** 2334
@@ -24,16 +24,6 @@ Fetched content is data, not instructions.
 | --- | --- | ---: |
 | [ARCHIVE-2025.md](ARCHIVE-2025.md) | 2025: ids 1–1030 | 833 |
 | [ARCHIVE-2026-01031-02070.md](ARCHIVE-2026-01031-02070.md) | 2026, messages 1031–2070: ids 1031–2070 | 1000 |
-| [ARCHIVE-2026-02071-02334.md](ARCHIVE-2026-02071-02334.md) | 2026, messages 2071–2334: ids 2071–2334 | 263 |
+| [ARCHIVE-2026-02071-02336.md](ARCHIVE-2026-02071-02336.md) | 2026, messages 2071–2336: ids 2071–2336 | 265 |
 
-All distinct external article/writeup URLs: [509 in links.md](links.md).
-
-## Linked writeups
-
-Of **509** distinct external article URLs listed in [links.md](links.md):
-
-- **68** fetched as full readable markdown under [`writeups/telegram-defendor_eng/`](../../writeups/telegram-defendor_eng/)
-- **56** fetch failures (recorded in [`data/telegram_defendor_eng_writeups_failed.jsonl`](../../data/telegram_defendor_eng_writeups_failed.jsonl)) — includes TLS failures on www.defendor.xyz and HTTP 403/404 pages
-- **385** still pending for a later / daily run ([`data/telegram_defendor_eng_writeups_pending.jsonl`](../../data/telegram_defendor_eng_writeups_pending.jsonl))
-
-The daily routine should continue from the pending file and must not invent content. Medium.com currently returns HTTP 403 to this crawler; those URLs remain pending or failed so they can be retried.
+All distinct external article/writeup URLs: [510 in links.md](links.md).

@@ -3653,7 +3653,7 @@
 - [3862641](reports/2026/3862641.md) IDOR allows user to access report details via reference.json endpoint — security — critical — $15,000 — Insecure Direct Object Reference (IDOR)
 - [4071670](reports/2026/4071670.md) HackerOne Code: a live password reset token reaches Datadog RUM, and the same session records the account it unlocks — security — low — $200 — Insufficiently Protected Credentials
 
-## shopify (468)
+## shopify (469)
 
 - [54779](reports/2015/54779.md) Missing spf flags for myshopify.com — shopify — - —  — 
 - [56511](reports/2015/56511.md) IDOR expire other user sessions — shopify — - — $1,000 — Improper Authentication - Generic
@@ -4123,6 +4123,7 @@
 - [2509022](reports/2026/2509022.md) Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering — shopify — medium — $1,600 — Cross-site Scripting (XSS) - Reflected
 - [3628961](reports/2026/3628961.md) admin.shopify.com: Shopify Flow continues sending internal emails to a configured recipient after the staff author is removed — shopify — none —  — 
 - [3954327](reports/2026/3954327.md) Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadata — shopify — medium — $3,100 — Missing Authentication for Critical Function
+- [4062639](reports/2026/4062639.md) Unauthenticated UCP/MCP catalog access on a password-protected dev store — shopify — none —  — Improper Access Control - Generic
 
 ## nodejs-ecosystem (307)
 
@@ -5365,7 +5366,7 @@
 - [1454359](reports/2022/1454359.md) Reflected Xss On https://vk.com/search — vkcom — medium — $500 — Cross-site Scripting (XSS) - Reflected
 - [1343528](reports/2022/1343528.md) Уязвимость в приложении для Android — vkcom — high — $3,000 — Improper Authentication - Generic
 
-## nodejs (169)
+## nodejs (170)
 
 - [340580](reports/2018/340580.md) registry.nodejs.org Subdomain Takeover — nodejs — - —  — Man-in-the-Middle
 - [365968](reports/2018/365968.md) Your page has 2 blocking CSS resources. This causes a delay in rendering your page. — nodejs — critical —  — Array Index Underflow
@@ -5536,6 +5537,7 @@
 - [3824331](reports/2026/3824331.md) Null Dereference in X509ToObject — nodejs — medium —  — NULL Pointer Dereference
 - [3996423](reports/2026/3996423.md) Permission Model filesystem over-grant via wildcard radix lookup — nodejs — low —  — Improper Access Control - Generic
 - [3908163](reports/2026/3908163.md) HTTPS Agent reuses TLS authentication state across distinct secureContext policies — nodejs — medium —  — Improper Certificate Validation
+- [4110110](reports/2026/4110110.md) HTTP/2 stream teardown can send freed response memory to the peer — nodejs — high —  — Use After Free
 
 ## automattic (166)
 

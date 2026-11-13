@@ -1,11 +1,34 @@
 # @pcaversaccio — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 282
-- Conversations/threads: 213
+- Posts in this file: 283
+- Conversations/threads: 214
 - Oldest post captured: 2022-06-18
-- Newest post captured: 2026-09-03
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Reply · @z0r0zzz @tacitfi did you guys use createXcrunch for it?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @z0r0zzz — 2026-11-12 04:30 UTC (2026-11-12 05:30 WAT)
+
+- URL: https://x.com/z0r0zzz/status/2120736062867948020
+- Metrics (at fetch): bookmark 0, impression 838, like 12, quote 0, reply 1, retweet 0
+
+> @tacitfi @pcaversaccio this is a create3 salt for createX _ thought you might like that
+
+
+### Post — @pcaversaccio — 2026-11-12 07:17 UTC (2026-11-12 08:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2120778079450648850
+- Metrics (at fetch): bookmark 0, impression 228, like 1, quote 0, reply 0, retweet 0
+
+> @z0r0zzz @tacitfi did you guys use createXcrunch for it?
 
 
 ---

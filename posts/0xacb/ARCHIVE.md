@@ -1,11 +1,28 @@
 # @0xacb — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 217
-- Conversations/threads: 180
+- Posts in this file: 218
+- Conversations/threads: 181
 - Oldest post captured: 2014-01-05
-- Newest post captured: 2026-11-05
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Post · Worst possible day for Nvidia to be on Outlook [pic.x.com/6qfrBJQSDf]
+
+
+### Post — @0xacb — 2026-11-13 02:41 UTC (2026-11-13 03:41 WAT)
+
+- URL: https://x.com/0xacb/status/2121070916549390523
+- Metrics (at fetch): bookmark 5, impression 1128, like 13, quote 0, reply 3, retweet 0
+
+> Worst possible day for Nvidia to be on Outlook [pic.x.com/6qfrBJQSDf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW-N-YzWwAAM-D9.jpg — alt text: "$ dig +short MX nvidia.com
+10 nvidia-com.mail.protection.outlook.com."
 
 
 ---

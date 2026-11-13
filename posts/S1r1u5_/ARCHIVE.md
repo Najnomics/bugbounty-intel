@@ -1,11 +1,106 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 487
-- Conversations/threads: 372
+- Posts in this file: 491
+- Conversations/threads: 374
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-09
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Thread · curious, how many 0days discovered by security researchers and later patched end up being exploited 
+
+
+### Post — @S1r1u5_ — 2026-11-12 06:11 UTC (2026-11-12 07:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2120761362075079124
+- Metrics (at fetch): bookmark 43, impression 15800, like 175, quote 1, reply 20, retweet 6
+
+> curious, how many 0days discovered by security researchers and later patched end up being exploited in the wild? for instance, how many chrome and firefox bugs demonstrated at pwn2own were later observed being exploited in the wild? i would assume very few.
+>
+> the whole point of proactive vulnerability research is to find and eliminate latent bugs before threat actors discover and exploit them. so im not sure why anthropic or openai vr impact is being measured by how many of its findings were exploited in the wild. isnt that the point of finding and patching them early?
+
+**Links in post:** https://twitter.com/jeremiahg/status/2120542706447622614
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14181505 — 2026-11-11 15:42 UTC (2026-11-11 16:42 WAT)
+    
+    - URL: https://x.com/14181505/status/2120542706447622614
+    - Metrics (at fetch): bookmark 154, impression 94414, like 321, quote 29, reply 18, retweet 73
+    
+    > Project Glasswing:
+    > * 37,966 findings. 
+    > * 2 exploited in the wild.
+    >
+    > https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+    
+    **Links in post:** https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-12 06:19 UTC (2026-11-12 07:19 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2120763394420830218
+- Metrics (at fetch): bookmark 0, impression 424, like 0, quote 0, reply 1, retweet 0
+
+> @msuiche yeah weird.
+
+
+### Thread part 3 — @S1r1u5_ — 2026-11-12 06:54 UTC (2026-11-12 07:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2120772117788860528
+- Metrics (at fetch): bookmark 1, impression 729, like 6, quote 0, reply 1, retweet 0
+
+> yeah, agree on ndays being accessible to bigger set of actors. seems thousands of glasswing findings are just noise, but there are also plenty of high quality bugs. for instance with automatic updates in browsers, many of these i assume get largely patched before they can be exploited. 
+>
+> in general, despite all the noise, it seems like the glasswing and openai efforts are net positive in terms of reducing the potential list of latent vulnerabilities that threat actors could discover and exploit in the future.
+
+**Links in post:** https://twitter.com/aegiryy/status/2119870493574725942
+
+**Quoted post (full text):**
+
+    #### Quoted post — @81718899 — 2026-11-09 19:11 UTC (2026-11-09 20:11 WAT)
+    
+    - URL: https://x.com/81718899/status/2119870493574725942
+    - Metrics (at fetch): bookmark 31, impression 10769, like 139, quote 2, reply 9, retweet 10
+    
+    > 100+ chrome cves by a single researcher would've been unimaginable in the pre-llm era. what a year for ai-driven vulnerability research (and we still have two months left in 2026)! [pic.x.com/fTWthpmVHC]
+    
+    **Media:**
+    - media `3_2119869595179978752` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-12 · Reply · @0xLupin crazy stuff
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xLupin — 2026-11-11 17:32 UTC (2026-11-11 18:32 WAT)
+
+- URL: https://x.com/0xLupin/status/2120570349775622242
+- Metrics (at fetch): bookmark 706, impression 88954, like 828, quote 18, reply 33, retweet 141
+
+> We managed to find a way to backdoor the next release of OpenAI Codex 🔥
+>
+> This is the best exploit chain I’ve ever witnessed
+>
+> https://depi.security/blog/20261111-backdooring-codex/
+
+**Links in post:** https://depi.security/blog/20261111-backdooring-codex/
+
+
+### Post — @S1r1u5_ — 2026-11-12 06:13 UTC (2026-11-12 07:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2120761987072410040
+- Metrics (at fetch): bookmark 0, impression 867, like 5, quote 0, reply 1, retweet 0
+
+> @0xLupin crazy stuff
 
 
 ---

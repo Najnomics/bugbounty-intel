@@ -1,11 +1,40 @@
 # @0xvivekd — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 37
-- Conversations/threads: 21
+- Posts in this file: 38
+- Conversations/threads: 22
 - Oldest post captured: 2025-11-11
-- Newest post captured: 2026-10-12
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · It was a pleasure working on this private bug bounty.
+
+
+### Post — @0xvivekd — 2026-11-12 14:56 UTC (2026-11-12 15:56 WAT)
+
+- URL: https://x.com/0xvivekd/status/2120893385519313126
+- Metrics (at fetch): bookmark 20, impression 1604, like 67, quote 0, reply 4, retweet 1
+
+> It was a pleasure working on this private bug bounty.
+>
+> The direct communication line to the team and the fast triage made for a very positive experience https://twitter.com/b612security/status/2120884473936085043
+
+**Links in post:** https://twitter.com/b612security/status/2120884473936085043
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1899768709943607297 — 2026-11-12 14:20 UTC (2026-11-12 15:20 WAT)
+    
+    - URL: https://x.com/1899768709943607297/status/2120884473936085043
+    - Metrics (at fetch): bookmark 16, impression 3967, like 36, quote 4, reply 2, retweet 11
+    
+    > https://x.com/i/article/2120884466843635712
+    
+    **Links in post:** https://x.com/i/article/2120884466843635712
+    
 
 
 ---

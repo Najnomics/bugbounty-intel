@@ -1,11 +1,47 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 406
-- Conversations/threads: 358
+- Posts in this file: 407
+- Conversations/threads: 359
 - Oldest post captured: 2023-02-23
 - Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Post · very cool! https://twitter.com/LotusFi_/status/2120882002929037793
+
+
+### Post — @DevDacian — 2026-11-12 14:27 UTC (2026-11-12 15:27 WAT)
+
+- URL: https://x.com/DevDacian/status/2120886234000286000
+- Metrics (at fetch): bookmark 0, impression 681, like 10, quote 0, reply 0, retweet 3
+
+> very cool! https://twitter.com/LotusFi_/status/2120882002929037793
+
+**Links in post:** https://twitter.com/LotusFi_/status/2120882002929037793
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1954821395558367233 — 2026-11-12 14:10 UTC (2026-11-12 15:10 WAT)
+    
+    - URL: https://x.com/1954821395558367233/status/2120882002929037793
+    - Metrics (at fetch): bookmark 6, impression 3018, like 35, quote 5, reply 6, retweet 13
+    
+    > At Lotus, security is our number one priority.
+    >
+    > Our pillars: economic design, smart contracts and op-sec.
+    >
+    > We’re publishing an Economic Risk Report from @Cyfrin on how Lotus Protocol allocates capital, interest and losses across our connected markets.
+    >
+    > https://lotuslabs.net/research/cyfrin-economic-risk-report [pic.x.com/0732Zu7WFl]
+    
+    **Media:**
+    - media `13_2120880954784755712` (details not returned by the API)
+    
+    **Links in post:** https://lotuslabs.net/research/cyfrin-economic-risk-report
+    
 
 
 ---
@@ -15,9 +51,9 @@ _Generated 2026-11-12 from the X API (full-archive search + timeline). Every pos
 
 **Context — post being replied to:**
 
-#### Parent post — @1423566780224753664 — 2026-11-12 02:53 UTC (2026-11-12 03:53 WAT)
+#### Parent post — @nisedo — 2026-11-12 02:53 UTC (2026-11-12 03:53 WAT)
 
-- URL: https://x.com/1423566780224753664/status/2120711598709104844
+- URL: https://x.com/nisedo/status/2120711598709104844
 - Metrics (at fetch): bookmark 0, impression 352, like 6, quote 0, reply 1, retweet 0
 
 > Keep in mind that when it comes to working with agents, best practices have a shelf life and you should never get attached to your workflows.
@@ -7801,9 +7837,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @878722023970787329 — 2023-06-18 04:05 UTC (2023-06-18 05:05 WAT)
+    #### Quoted post — @aviggiano — 2023-06-18 04:05 UTC (2023-06-18 05:05 WAT)
     
-    - URL: https://x.com/878722023970787329/status/1670281593972203522
+    - URL: https://x.com/aviggiano/status/1670281593972203522
     - Metrics (at fetch): bookmark 3, impression 7516, like 36, quote 1, reply 4, retweet 2
     
     > Unpopular opinion: private audits are neither a reliable career path nor the best choice for protocols. 

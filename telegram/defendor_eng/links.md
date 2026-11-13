@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **509**
+Total distinct URLs: **510**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -515,3 +515,4 @@ Total distinct URLs: **509**
 | [2319](https://t.me/defendor_eng/2319) | 2026-11-08 16:24:47 | 🛡 Trail of Bits: After Binance, Check What Your Signing Systems Can Approve | https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve |
 | [2327](https://t.me/defendor_eng/2327) | 2026-11-10 16:24:19 | 🚨 Supply Chain Attack Targets Zcash, Vizor and Keplr Developers | https://opensourcemalware.com/blog/cryptocurrency-being-targeted-in-multi-faceted-attack |
 | [2331](https://t.me/defendor_eng/2331) | 2026-11-11 12:29:56 | 🚨 Arcus Exchange Loses $2.23M to a Subaccount Transfer Bug | https://arcus.xyz/blog/arcus-incident-report-november-9-2026 |
+| [2335](https://t.me/defendor_eng/2335) | 2026-11-12 15:51:57 | 🔓 Mercado Bitcoin lost $48.6M in multi-chain hack | https://rekt.news/mercado-rekt |

@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12750 reports)
+# HackerOne disclosed reports by weakness (12752 reports)
 
 
 ## Unspecified (1279)
@@ -3944,7 +3944,7 @@
 - [3665151](reports/2026/3665151.md) Brave Shields Domain Reordering Leads to Origin Confusion — brave — low —  — Violation of Secure Design Principles
 - [3829030](reports/2026/3829030.md) Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption — yelp — low —  — Violation of Secure Design Principles
 
-## Improper Access Control - Generic (705)
+## Improper Access Control - Generic (706)
 
 - [2293343](reports/2025/2293343.md) Account Takeover via Password Reset without user interactions — gitlab — critical — $35,000 — Improper Access Control - Generic
 - [1685822](reports/2022/1685822.md) RepositoryPipeline allows importing of local git repos — gitlab — medium — $22,300 — Improper Access Control - Generic
@@ -4651,6 +4651,7 @@
 - [4029867](reports/2026/4029867.md) WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre/v1/.../rsvp-responses — wordpress — medium —  — Improper Access Control - Generic
 - [4177724](reports/2026/4177724.md) curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear — curl — high —  — Improper Access Control - Generic
 - [3417759](reports/2026/3417759.md) Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Sensitive Data Exposure — trellix — medium —  — Improper Access Control - Generic
+- [4062639](reports/2026/4062639.md) Unauthenticated UCP/MCP catalog access on a password-protected dev store — shopify — none —  — Improper Access Control - Generic
 
 ## Improper Authentication - Generic (672)
 
@@ -10596,7 +10597,7 @@
 - [3463619](reports/2025/3463619.md) testing hackerone functions — curl — none —  — Improper Restriction of Authentication Attempts
 - [3174778](reports/2026/3174778.md)  No Rate Limiting on Password Attempts After Insecure Registration Flow cause ATO — mars — medium —  — Improper Restriction of Authentication Attempts
 
-## Use After Free (87)
+## Use After Free (88)
 
 - [826026](reports/2020/826026.md) Use-After-Free In IPV6_2292PKTOPTIONS leading To Arbitrary Kernel R/W Primitives — playstation — high — $10,000 — Use After Free
 - [1441103](reports/2022/1441103.md) Use-after-free in setsockopt IPV6_2292PKTOPTIONS (CVE-2020-7457) — playstation — high — $10,000 — Use After Free
@@ -10685,6 +10686,7 @@
 - [4123190](reports/2026/4123190.md) CVE-2026-111954: upload reader failed redirect UAF — curl — low —  — Use After Free
 - [4118643](reports/2026/4118643.md) OpenSSL provider OSSL_LIB_CTX used after free via the connection shutdown list (CVE-2026-80229 fix incomplete) — curl — low —  — Use After Free
 - [4166602](reports/2026/4166602.md) Re-entrant curl_easy_pause UAF in cw-pause — curl — low —  — Use After Free
+- [4110110](reports/2026/4110110.md) HTTP/2 stream teardown can send freed response memory to the peer — nodejs — high —  — Use After Free
 
 ## Misconfiguration (82)
 

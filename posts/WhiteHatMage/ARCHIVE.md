@@ -1,11 +1,109 @@
 # @WhiteHatMage — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 166
-- Conversations/threads: 130
+- Posts in this file: 170
+- Conversations/threads: 131
 - Oldest post captured: 2025-11-29
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Thread · Why do most "sponsors" only pledge for themselves?
+
+
+### Post — @WhiteHatMage — 2026-11-12 13:24 UTC (2026-11-12 14:24 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120870309238538338
+- Metrics (at fetch): bookmark 2, impression 1267, like 33, quote 0, reply 2, retweet 2
+
+> Why do most "sponsors" only pledge for themselves?
+>
+> I'd like to see projects sponsoring other initiatives, like Yearn is doing with Vyper.
+>
+> There are also almost no reviews by the 200 Security Badge Holders. Come on guys. https://twitter.com/thedaofund/status/2120807580230471726
+
+**Links in post:** https://twitter.com/thedaofund/status/2120807580230471726
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1988994064914739210 — 2026-11-12 09:15 UTC (2026-11-12 10:15 WAT)
+    
+    - URL: https://x.com/1988994064914739210/status/2120807580230471726
+    - Metrics (at fetch): bookmark 1, impression 2187, like 43, quote 2, reply 1, retweet 10
+    
+    > We're getting closer to $1 MILLION for Ethereum security!
+    >
+    > Huge thanks to everyone who's stepped up to support the ETHSecurity Initiatives Round so far.
+    >
+    > But there's still important work waiting to be funded.
+    >
+    > Every pledge helps initiatives reach the 25% threshold needed to qualify for TheDAO's vote.
+    >
+    > Calling on more protocols, security teams, and ecosystem partners to join us. Find the initiatives you believe in, coordinate funding with us, and let's push this past $1M!
+    >
+    > https://initiatives.thedao.fund/
+    
+    **Media:**
+    - media `3_2120807383463030784` (details not returned by the API)
+    
+    **Links in post:** https://initiatives.thedao.fund/
+    
+
+
+### Thread part 2 — @WhiteHatMage — 2026-11-12 13:29 UTC (2026-11-12 14:29 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120871705350414476
+- Metrics (at fetch): bookmark 2, impression 213, like 10, quote 0, reply 0, retweet 1
+
+> To my fellow Security Badge Holders: Be mindful when voting and fund initiatives that can make Ethereum great again.
+
+
+### Thread part 3 — @WhiteHatMage — 2026-11-12 14:09 UTC (2026-11-12 15:09 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120881643506565142
+- Metrics (at fetch): bookmark 0, impression 162, like 1, quote 0, reply 1, retweet 0
+
+> @aviggiano As far as I understand it, by "pledging" they aren't donating to other projects if their proposal doesn't win.
+>
+> I get that it's a way of signaling that they would commit to spending their own money on it. But it doesn't look great.
+
+
+### Thread part 4 — @WhiteHatMage — 2026-11-12 14:21 UTC (2026-11-12 15:21 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2120884593268314566
+- Metrics (at fetch): bookmark 0, impression 86, like 4, quote 0, reply 0, retweet 0
+
+> @aviggiano Echidna might not receive any funding because it doesn’t qualify for 25% of its goal.
+>
+> And I guess it’s a project that fellow SRs would vote for.
+>
+> So the recipient should pledge $12k for his own project to qualify.
+>
+> Yeah. It's a broken mechanic.
+>
+> https://x.com/Montyly/status/2120865212039368790
+
+**Links in post:** https://x.com/Montyly/status/2120865212039368790
+
+**Quoted post (full text):**
+
+    #### Quoted post — @101341490 — 2026-11-12 13:04 UTC (2026-11-12 14:04 WAT)
+    
+    - URL: https://x.com/101341490/status/2120865212039368790
+    - Metrics (at fetch): bookmark 1, impression 1768, like 23, quote 2, reply 0, retweet 3
+    
+    > We just need 12 companies or individuals to give $1k each to ensure Echidna's development through 2027
+    >
+    > Who is in?
+    >
+    > https://initiatives.thedao.fund/initiative/fund-echidna-development-through-2027-2 https://twitter.com/Montyly/status/2118304897833619588
+    
+    **Links in post:** https://initiatives.thedao.fund/initiative/fund-echidna-development-through-2027-2, https://twitter.com/Montyly/status/2118304897833619588
+    
+    **Quoted post** 2118304897833619588: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---

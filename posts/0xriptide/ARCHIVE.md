@@ -1,11 +1,101 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 213
-- Conversations/threads: 207
+- Posts in this file: 216
+- Conversations/threads: 210
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Reply · @richhomiecon great form
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @richhomiecon — 2026-11-12 01:54 UTC (2026-11-12 02:54 WAT)
+
+- URL: https://x.com/richhomiecon/status/2120696636326445355
+- Metrics (at fetch): bookmark 1, impression 1084, like 12, quote 0, reply 2, retweet 0
+
+> How many can you do? [pic.x.com/XU6XOKU09x]
+
+**Media:**
+- media `13_2120696551659937794` (details not returned by the API)
+
+
+### Post — @0xriptide — 2026-11-12 07:28 UTC (2026-11-12 08:28 WAT)
+
+- URL: https://x.com/0xriptide/status/2120780877450125552
+- Metrics (at fetch): bookmark 0, impression 165, like 2, quote 0, reply 1, retweet 0
+
+> @richhomiecon great form
+>
+> can beat you by +1
+
+
+---
+
+## 2026-11-12 · Reply · @CaseyBHead we got to go full GI Joe and lived the dream
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @CaseyBHead — 2026-11-11 19:33 UTC (2026-11-11 20:33 WAT)
+
+- URL: https://x.com/CaseyBHead/status/2120600804080189533
+- Metrics (at fetch): bookmark 64, impression 41583, like 3249, quote 35, reply 379, retweet 425
+
+> Every Veterans Day I look at this picture and think about how nothing we did over there mattered because they pissed it all away. [pic.x.com/eytF7tnKjB]
+
+**Media:**
+- media `3_2120599111321747456` (details not returned by the API)
+
+
+### Post — @0xriptide — 2026-11-12 07:24 UTC (2026-11-12 08:24 WAT)
+
+- URL: https://x.com/0xriptide/status/2120779823710896574
+- Metrics (at fetch): bookmark 0, impression 306, like 0, quote 0, reply 0, retweet 0
+
+> @CaseyBHead we got to go full GI Joe and lived the dream
+>
+> look at it as personal enrichment
+
+
+---
+
+## 2026-11-12 · Reply · @J4X_Security @solana fixed it [pic.x.com/H2dVyuMSPW]
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @J4X_Security — 2026-11-12 03:49 UTC (2026-11-12 04:49 WAT)
+
+- URL: https://x.com/J4X_Security/status/2120725625359290416
+- Metrics (at fetch): bookmark 2, impression 1273, like 43, quote 0, reply 11, retweet 2
+
+> Just finished packing for @solana Breakpoint
+>
+> Did I miss anything boys? [pic.x.com/H7hrPCIGvj]
+
+**Media:**
+- media `3_2120725608854614016` (details not returned by the API)
+
+
+### Post — @0xriptide — 2026-11-12 07:18 UTC (2026-11-12 08:18 WAT)
+
+- URL: https://x.com/0xriptide/status/2120778162028085623
+- Metrics (at fetch): bookmark 0, impression 200, like 5, quote 0, reply 1, retweet 0
+
+> @J4X_Security @solana fixed it [pic.x.com/H2dVyuMSPW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW6EeKUWcAAmtDv.jpg — no alt text provided by author
 
 
 ---

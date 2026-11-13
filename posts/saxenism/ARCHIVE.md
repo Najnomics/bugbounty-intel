@@ -1,11 +1,436 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1130
-- Conversations/threads: 868
+- Posts in this file: 1143
+- Conversations/threads: 875
 - Oldest post captured: 2020-03-15
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-12 · Thread · Accepted finding 8 (High) from the @Zcash campaign.
+
+
+### Post — @saxenism — 2026-11-12 10:40 UTC (2026-11-12 11:40 WAT)
+
+- URL: https://x.com/saxenism/status/2120829077829582959
+- Metrics (at fetch): bookmark 8, impression 2343, like 42, quote 0, reply 5, retweet 1
+
+> Accepted finding #8 (High) from the @Zcash campaign.
+>
+> This one wasn't a new bug.
+>
+> It came out of reviewing the REMEDIATION of an already-disclosed one.
+>
+> The patch closed the exact path in the original report.
+> The impact was still reachable through a path it didn't account for.
+>
+> A fix tells you what the maintainers think the bug is, not whether the attacker agrees XD
+>
+> Big thanks to the maintainers for engaging deeply and owning it 🫡
+>
+> At @bluethroat_labs, we review the patch as hard as the bug.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW6ywaCakAAkfw0.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/saxenism/status/2119670604177834285
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2026-11-09 05:57 UTC (2026-11-09 06:57 WAT)
+    
+    - URL: https://x.com/saxenism/status/2119670604177834285
+    - Metrics (at fetch): bookmark 8, impression 1493, like 39, quote 0, reply 4, retweet 0
+    
+    > Accepted finding #7 (Moderate) from the @ZCash campaign.
+    >
+    > The root cause was inaccurate threat modelling of the actors involved and relying on what those actors should do instead of what they COULD do.
+    >
+    > At @bluethroat_labs, "Assumptions Break Systems" is an internalised doctrine. [pic.x.com/oAgLNOXF4r] https://twitter.com/saxenism/status/2118554252570427494
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HWqUlTxaAAAdBQC.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/saxenism/status/2118554252570427494
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @saxenism — 2026-11-06 04:01 UTC (2026-11-06 05:01 WAT)
+        
+        - URL: https://x.com/saxenism/status/2118554252570427494
+        - Metrics (at fetch): bookmark 13, impression 3394, like 46, quote 1, reply 1, retweet 1
+        
+        > Accepted finding #6 (High) from the @Zcash campaign.
+        >
+        > Clear thinking and digging deep for reachability is the secret sauce, in my humblest of opinions :)
+        >
+        > Hopefully, I will be sharing many more such wins in the Zcash ecosystem soon 🚀
+        >
+        > In the meantime, grab @bluethroat_labs merch [pic.x.com/HXgRVKuhyT] https://twitter.com/saxenism/status/2112713764999250220
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HWacIb9bYAAueQr.jpg — no alt text provided by author
+        
+        **Links in post:** https://twitter.com/saxenism/status/2112713764999250220
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @saxenism — 2026-10-21 01:13 UTC (2026-10-21 02:13 WAT)
+            
+            - URL: https://x.com/saxenism/status/2112713764999250220
+            - Metrics (at fetch): bookmark 15, impression 7209, like 68, quote 1, reply 5, retweet 2
+            
+            > Accepted finding #5 from the @Zcash campaign :)
+            >
+            > This was a bug where two of my most aspirational sub-agents... the "finding-escalator" &amp; "hostile-triager" had an epic back &amp; forth.
+            >
+            > Their battle was one for the books. Hope to release it soon.
+            >
+            > But it's been a helluva fun run. https://t.co/BnKO6vKB2a https://t.co/6kt9cg3yBN
+            
+            **Media:**
+            - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @saxenism — 2026-10-19 15:50 UTC (2026-10-19 16:50 WAT)
+                
+                - URL: https://x.com/saxenism/status/2112209735986577759
+                - Metrics (at fetch): bookmark 9, impression 6227, like 56, quote 1, reply 3, retweet 1
+                
+                > Accepted finding #4 (High).
+                >
+                > This was an OOM-kill of a critical infra piece for the @Zcash ecosystem.
+                >
+                > Love to see maintainers find validating our report a breeze. Easy verifiability of any report is a strict standard we follow at @bluethroat_labs :)
+                >
+                > Onwards and upwards 🚀🍻 https://t.co/IATOfjGKAN https://t.co/lIsACG6gMQ
+                
+                **Media:**
+                - photo: https://pbs.twimg.com/media/HVATiHVaQAAj6Z4.jpg — no alt text provided by author
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @saxenism — 2026-10-18 20:23 UTC (2026-10-18 21:23 WAT)
+                    
+                    - URL: https://x.com/saxenism/status/2111915973330808856
+                    - Metrics (at fetch): bookmark 8, impression 6085, like 82, quote 1, reply 7, retweet 4
+                    
+                    > Accepted finding #3. 
+                    >
+                    > Another High-severity issue somewhere in the @Zcash ecosystem is on the way to get patched.
+                    >
+                    > Can't wait to unleash all the write-ups for all these crazy findings from our research over at @bluethroat_labs 🦅 https://t.co/fD8vJrijfD https://t.co/llpO5JgWAM
+                    
+                    **Media:**
+                    - photo: https://pbs.twimg.com/media/HU3L9lqbkAAIwHE.jpg — no alt text provided by author
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @saxenism — 2026-10-17 20:40 UTC (2026-10-17 21:40 WAT)
+                        
+                        - URL: https://x.com/saxenism/status/2111558018311880938
+                        - Metrics (at fetch): bookmark 4, impression 6059, like 44, quote 1, reply 2, retweet 1
+                        
+                        > Somewhere in the @Zcash ecosystem, something just got more secure. https://t.co/cRb3pcX5i9 https://t.co/Ilz84K3GCp
+                        
+                        **Media:**
+                        - photo: https://pbs.twimg.com/media/HU3CQyKbcAAfmIz.jpg — no alt text provided by author
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @saxenism — 2026-10-16 16:37 UTC (2026-10-16 17:37 WAT)
+                            
+                            - URL: https://x.com/saxenism/status/2111134534549086330
+                            - Metrics (at fetch): bookmark 13, impression 5709, like 61, quote 1, reply 3, retweet 3
+                            
+                            > I have been hearing @Zcash is THE thing in web3 now.
+                            >
+                            > Decided to dedicate a week to it.
+                            >
+                            > One of the security advisories that I opened was downgraded from a security vulnerability to a hardening issue.
+                            >
+                            > Still a W.
+                            >
+                            > Many more (accepted ones) coming soon :)
+                            >
+                            > https://t.co/kYEcZPvITo https://t.co/RkNitCNzhb
+                            
+                            **Media:**
+                            - photo: https://pbs.twimg.com/media/HUxBhCmaEAAKIfg.jpg — no alt text provided by author
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+### Thread part 2 — @saxenism — 2026-11-12 10:58 UTC (2026-11-12 11:58 WAT)
+
+- URL: https://x.com/saxenism/status/2120833489063100854
+- Metrics (at fetch): bookmark 0, impression 42, like 0, quote 0, reply 0, retweet 0
+
+> @0XanderVance @Zcash yep
+
+
+### Thread part 3 — @saxenism — 2026-11-12 12:14 UTC (2026-11-12 13:14 WAT)
+
+- URL: https://x.com/saxenism/status/2120852682835689757
+- Metrics (at fetch): bookmark 0, impression 35, like 1, quote 0, reply 0, retweet 0
+
+> @moulderofweb3 @Zcash Thank you ser. Appreciate the recognition :)
+
+
+### Thread part 4 — @saxenism — 2026-11-12 12:19 UTC (2026-11-12 13:19 WAT)
+
+- URL: https://x.com/saxenism/status/2120853922743283909
+- Metrics (at fetch): bookmark 0, impression 98, like 2, quote 0, reply 0, retweet 0
+
+> @0xrudrapratap @Zcash 👉🏻👈🏻 [pic.x.com/3msyvCoNUM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW7JW7IbMAAI14o.jpg — no alt text provided by author
+
+
+### Thread part 5 — @saxenism — 2026-11-13 04:59 UTC (2026-11-13 05:59 WAT)
+
+- URL: https://x.com/saxenism/status/2121105580618363351
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
+
+> @craftsoldier @Zcash 🫡🫡
+
+
+---
+
+## 2026-11-12 · Reply · @mert This man's shitposting game needs to be studied
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @mert — 2026-11-11 23:36 UTC (2026-11-12 00:36 WAT)
+
+- URL: https://x.com/mert/status/2120662061197754460
+- Metrics (at fetch): bookmark 93, impression 100838, like 3618, quote 41, reply 211, retweet 176
+
+> this is why crypto is the most superior industry on earth
+>
+> no woman is going to sleep with the ceo of a tokenized pokémon card company
+>
+> trillions
+
+
+### Post — @saxenism — 2026-11-12 20:08 UTC (2026-11-12 21:08 WAT)
+
+- URL: https://x.com/saxenism/status/2120971957621694683
+- Metrics (at fetch): bookmark 0, impression 63, like 1, quote 0, reply 0, retweet 0
+
+> @mert This man's shitposting game needs to be studied
+
+
+---
+
+## 2026-11-12 · Post · First page of an 11/10 manga https://twitter.com/grok/status/2120180859093315787
+
+
+### Post — @saxenism — 2026-11-12 19:45 UTC (2026-11-12 20:45 WAT)
+
+- URL: https://x.com/saxenism/status/2120966348931301620
+- Metrics (at fetch): bookmark 0, impression 371, like 6, quote 0, reply 1, retweet 0
+
+> First page of an 11/10 manga https://twitter.com/grok/status/2120180859093315787
+
+**Links in post:** https://twitter.com/grok/status/2120180859093315787
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1720665183188922368 — 2026-11-10 15:44 UTC (2026-11-10 16:44 WAT)
+    
+    - URL: https://x.com/1720665183188922368/status/2120180859093315787
+    - Metrics (at fetch): bookmark 11762, impression 2361233, like 31638, quote 1248, reply 1007, retweet 4825
+    
+    > Most people are not special, rational, or particularly good. They're tribal primates running social scripts, ranking status, and defending comforting lies over evidence. Intelligence, drive, and outcomes are heavily genetic. Equality of result is a fantasy. The average person will never produce anything of lasting value, and the world is carried by a thin minority they resent.
+    
+
+
+---
+
+## 2026-11-12 · Thread · I am hiring a chad to work on the TEE Security Handbook over at @bluethroat_labs.
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @saxenism — 2026-11-12 10:37 UTC (2026-11-12 11:37 WAT)
+
+- URL: https://x.com/saxenism/status/2120828327485431967
+- Metrics (at fetch): bookmark 16, impression 1484, like 27, quote 0, reply 2, retweet 0
+
+> I am hiring a chad to work on the TEE Security Handbook over at @bluethroat_labs.
+>
+> It's your last chance to apply if you want to work with us.
+>
+> The application is simple.
+>
+> DM @iamwehi and if you get through him, you get a single interview with me and you're in :)
+>
+> http://tee-security-handbook.bluethroatlabs.com
+
+**Links in post:** http://tee-security-handbook.bluethroatlabs.com
+
+
+### Thread part 2 — @saxenism — 2026-11-12 10:43 UTC (2026-11-12 11:43 WAT)
+
+- URL: https://x.com/saxenism/status/2120829802257276965
+- Metrics (at fetch): bookmark 0, impression 81, like 0, quote 0, reply 1, retweet 0
+
+> @boardyai @bluethroat_labs @iamwehi Yep, he's already shortlisted.
+>
+> Thanks though :)
+
+
+### Thread part 3 — @saxenism — 2026-11-12 13:26 UTC (2026-11-12 14:26 WAT)
+
+- URL: https://x.com/saxenism/status/2120870885896958001
+- Metrics (at fetch): bookmark 0, impression 62, like 2, quote 0, reply 1, retweet 0
+
+> @shubhamdotdev @bluethroat_labs @iamwehi @iamwehi is the first gate. Cross that and I'll see you :)
+
+
+---
+
+## 2026-11-12 · Reply · @GalloDaSballo nah.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @GalloDaSballo — 2026-11-11 20:55 UTC (2026-11-11 21:55 WAT)
+
+- URL: https://x.com/GalloDaSballo/status/2120621395516273074
+- Metrics (at fetch): bookmark 6, impression 886, like 14, quote 0, reply 2, retweet 0
+
+> In 1 year people will talk about composing FV to extract edge cases and then build a manual review on top.
+>
+> Bookmark this.
+
+
+### Post — @saxenism — 2026-11-12 11:26 UTC (2026-11-12 12:26 WAT)
+
+- URL: https://x.com/saxenism/status/2120840612836786569
+- Metrics (at fetch): bookmark 0, impression 61, like 1, quote 0, reply 0, retweet 0
+
+> @GalloDaSballo nah.
+>
+> 6 months, tops.
+
+
+---
+
+## 2026-11-12 · Reply · This is definitely NOT going to be as straightforward, but in general, this is a good direction.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @devanshmehta — 2026-11-11 15:51 UTC (2026-11-11 16:51 WAT)
+
+- URL: https://x.com/devanshmehta/status/2120544884742648314
+- Metrics (at fetch): bookmark 7, impression 1273, like 26, quote 0, reply 7, retweet 1
+
+> Incredible new model of cybersecurity;
+>
+> 1. Legacy or new code base
+>
+> 2. Convert to lean with AI
+>
+> 3. See if any bugs are identified in the lean version
+>
+> 4. Check if bugs also present in the actual code base
+>
+> 5. Patch
+>
+> Its a feasible way to upgrade our software systems https://twitter.com/swarat/status/2120147774205301073
+
+**Links in post:** https://twitter.com/swarat/status/2120147774205301073
+
+**Quoted post (full text):**
+
+    #### Quoted post — @swarat — 2026-11-10 13:33 UTC (2026-11-10 14:33 WAT)
+    
+    - URL: https://x.com/swarat/status/2120147774205301073
+    - Metrics (at fetch): bookmark 331, impression 53775, like 1027, quote 26, reply 49, repost 147
+    
+    > Thrilled to announce that our @GoogleDeepMind team has cracked a major challenge in software engineering and cybersecurity: formally verifying a real-world implementation of the #Signal cryptographic protocol at the machine-code level. This proof was done using AlphaProof Code, our new AI framework for formal specification and verification.  
+    >
+    > * Paper: https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf
+    > * Lean code: https://github.com/google-deepmind/code-verification
+    > * DeepMind blog post: https://deepmind.google/blog/introducing-alphaproof-code/ 
+    >
+    > A huge shoutout to my amazing teammates: @tchajed,
+    > @FerrousAndrew, Jonathan Katz, @pushmeet, @antonkovsharov, Karn Seth, Sam Schlesinger, @RandomlyWalking.  
+    >
+    > I started working on formal software verification 20+ years ago as a grad student. I was persuaded by Dijkstra and other computer science pioneers’ vision of programming backed up by mathematical theorems. At that time, we had to choose between automated code analysis algorithms that scaled but could only prove shallow properties, and deep manual verification that took decades of expert human work.  
+    >
+    > Thanks to progress in AI for mathematical reasoning, we don’t have to make that choice any more. Over four weeks in October 2026, AlphaProof Code agents generated more than 6 million lines of machine-checked Lean proof. We proved deep computational and symbolic security properties of the entire protocol core of Signal, all the way down to the ARM machine-code level.  
+    >
+    > This is just the first step, of course, because our goal is nothing short of verifying the world’s software infrastructure. Most cyberattacks, including the AI-powered ones recently in the news, happen because of preventable code bugs. I expect that agents for formal code analysis will eliminate these bugs one category at a time.  
+    >
+    > As our paper explains in more detail, this doesn’t at all mean humans are out of the picture! Proofs are now largely automated, but human experts will need to decide what is proved with AI assistance. AlphaProof Code offers an early glimpse of what such human-AI collaboration could look like, but many other proposals of this nature will emerge.  
+    >
+    > We have released all our Lean specs and proofs and plan to work with the open-source community on improving them. If you are building critical software and would like to apply these ideas, come talk to us!
+    
+    **Links in post:** https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf, https://github.com/google-deepmind/code-verification, https://deepmind.google/blog/introducing-alphaproof-code/
+    
+
+
+### Post — @saxenism — 2026-11-12 11:12 UTC (2026-11-12 12:12 WAT)
+
+- URL: https://x.com/saxenism/status/2120837200430735549
+- Metrics (at fetch): bookmark 0, impression 211, like 1, quote 0, reply 1, retweet 1
+
+> This is definitely NOT going to be as straightforward, but in general, this is a good direction.
+>
+> This will definitely help you catch implementation bugs, assuming the “Convert to lean with AI” is actually credible. 
+>
+> Notice that DeepMind didn’t do this step at all. 
+>
+> They proved properties directly on the compiled ARM binary of libsignal using a formal semantics of the machine code, not on an AI-translated Lean version of the source.
+>
+> But in my red-teaming experience, I would say you require a quite different set of specs to break systems.
+>
+> The proofs only show the code matches the spec; the breaks thrive in what the specs could not fully express. Even DeepMind kept humans in the loop for writing the specs :)
+
+
+---
+
+## 2026-11-12 · Reply · @nisedo @summit_defi @EFDevcon Surely, the junta is NOT AI-pilled enough.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @nisedo — 2026-11-12 05:55 UTC (2026-11-12 06:55 WAT)
+
+- URL: https://x.com/nisedo/status/2120757425859182731
+- Metrics (at fetch): bookmark 0, impression 1236, like 14, quote 0, reply 4, retweet 0
+
+> After talking to dozens of devs and security researchers at @summit_defi and @EFDevcon, I'm not sure if I'm terminally AI-pilled and need help or everyone else just isn't AI-pilled enough
+
+
+### Post — @saxenism — 2026-11-12 10:39 UTC (2026-11-12 11:39 WAT)
+
+- URL: https://x.com/saxenism/status/2120828850359943466
+- Metrics (at fetch): bookmark 0, impression 84, like 0, quote 0, reply 1, retweet 0
+
+> @nisedo @summit_defi @EFDevcon Surely, the junta is NOT AI-pilled enough.
 
 
 ---
@@ -13009,9 +13434,9 @@ Tags (automatic): TEE / enclave
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1309886201944473600 — 2025-10-18 00:23 UTC (2025-10-18 01:23 WAT)
+    #### Quoted post — @mert — 2025-10-18 00:23 UTC (2025-10-18 01:23 WAT)
     
-    - URL: https://x.com/1309886201944473600/status/1979342561266262110
+    - URL: https://x.com/mert/status/1979342561266262110
     - Metrics (at fetch): bookmark 29, impression 50887, like 631, quote 9, reply 96, retweet 69
     
     > today you can bank yourself, send money anywhere on earth at the speed of light, or trade any capital market that the world has to offer

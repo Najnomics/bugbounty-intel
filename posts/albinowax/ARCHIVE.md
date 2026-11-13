@@ -1,6 +1,6 @@
 # @albinowax — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 343
 - Conversations/threads: 305
@@ -47,9 +47,9 @@ _Generated 2026-11-12 from the X API (full-archive search + timeline). Every pos
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1387901 — 2026-11-03 02:59 UTC (2026-11-03 03:59 WAT)
+    #### Quoted post — @dps — 2026-11-03 02:59 UTC (2026-11-03 03:59 WAT)
     
-    - URL: https://x.com/1387901/status/2117451520837095699
+    - URL: https://x.com/dps/status/2117451520837095699
     - Metrics (at fetch): bookmark 81, impression 23620, like 111, quote 1, reply 2, repost 8
     
     > The $300k bug was the most serious: during internal testing, four months before launch, an auth check trusted a header added by a local proxy as proof a request was safe. A migration added a second proxy layer, so outside requests could carry that header too. It exposed internal testers’ tokens and conversations in pre-release VMs.

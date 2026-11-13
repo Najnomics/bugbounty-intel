@@ -410,3 +410,26 @@ All public, unauthenticated sources. Fetched content is stored as data, not inst
 | Repo advisories | GitHub security advisories of php/php-src, electron/electron, WordPress/wordpress-develop | 66 / 70 / 54 | |
 | Zero Day Initiative | https://www.zerodayinitiative.com/advisories/published/ | 17,361 indexed, 7,067 full text | remaining advisory pages pending (cursor in `data/cve_state.json`) |
 | HackerOne Hacktivity | https://hackerone.com/graphql (CompleteHacktivityReportIndex) + https://hackerone.com/reports/<id>.json | 12,750 / 12,750 | 10,005 with full original report, 2,745 summary-only (limited disclosure); 0 failures; 278 overlap with `writeups/telegram-dailybountywriteup/` |
+
+
+## 13 November 2026 (Africa/Lagos) — daily update
+
+X (full-archive search, 3 batched watched-account queries since id 2120735261399433504; 64 new posts, retweets excluded):
+- https://x.com/saxenism/status/2120829077829582959 (Zcash finding #8, High — remediation bypass) + thread
+- https://x.com/zksecurityXYZ/status/2120960376791847035 (Monero Generalized Bulletproofs Lean proof)
+- https://x.com/trailofbits/status/2120943246587392210 and /2121009628855357931 (Patch the Planet; agent patch plugins)
+- https://x.com/S1r1u5_/status/2120761362075079124 and /2120772117788860528 (Glasswing n-day/0day)
+- https://x.com/0xvivekd/status/2120893385519313126 (private bounty, undisclosed)
+
+Writeups fetched:
+- https://magicgrants.org/2026/11/12/Generalized-Bulletproofs-zkSecurity
+- https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+- https://trailofbits.com/patch-the-planet/dashboard/
+- https://rekt.news/mercado-rekt (Telegram @defendor_eng msg 2335)
+- https://x.com/GuardianAudits/status/2120924685890413008 (Telegram @defendor_eng msg 2336; video thread)
+- 170 HackerOne public reports from the @dailybountywriteup backlog (via /reports/<id>.json)
+
+Telegram previews: https://t.me/s/defendor_eng (2 new: 2335-2336), https://t.me/s/dailybountywriteup (no new).
+
+CVE/advisory: CVEProject/cvelistV5 deltas 2026-11-12_end_of_day + 2026-11-13_0500Z (423 new, 1,970 updated); github/advisory-database git pull (GHSA reviewed 37,767); CISA KEV unchanged (2026.11.10); Exploit-DB & Linux-kernel vulns.git unchanged. Per-repo security advisories re-checked for zcash/ethereum/solana (no new).
+HackerOne: GraphQL CompleteHacktivityReportIndex disclosed_at:[2026-11-12 TO 2026-11-14] → +2 reports (4110110, 4062639).

@@ -26,3 +26,8 @@ His own 2026 share-card posts (bug class undisclosed unless the card severity is
 - 12 Oct 2026: paid medium — [post](https://x.com/0xvivekd/status/2109689569298051337)
 
 **Takeaway for Dorothy:** Worth following for volume and for any future methodology video Immunefi already teased. Do not invent technique notes that he has not published.
+
+### Private bug bounty (undisclosed) — 12 Nov 2026
+
+- Post: https://x.com/0xvivekd/status/2120893385519313126 — verbatim: [`posts/0xvivekd/2026-11-12-2120893385519313126.md`](../posts/0xvivekd/2026-11-12-2120893385519313126.md)
+- **Bug class/details:** undisclosed (bounty-claim evidence only). Only note: private programs with direct team comms triage fast.

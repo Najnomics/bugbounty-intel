@@ -1,6 +1,6 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 423
 - Conversations/threads: 325
@@ -552,9 +552,9 @@ Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1214634513340481543 — 2026-10-01 16:28 UTC (2026-10-01 17:28 WAT)
+    #### Quoted post — @0xLupin — 2026-10-01 16:28 UTC (2026-10-01 17:28 WAT)
     
-    - URL: https://x.com/1214634513340481543/status/2105696244580376737
+    - URL: https://x.com/0xLupin/status/2105696244580376737
     - Metrics (at fetch): bookmark 99, impression 33194, like 110, quote 4, reply 15, repost 21
     
     > Your security team went home.

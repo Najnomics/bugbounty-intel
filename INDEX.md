@@ -2,6 +2,12 @@
 
 Generated 11 Nov 2026 (WAT), Telegram sources added 12 Nov 2026 (Africa/Lagos). Every link points to a file inside this repo that holds **full verbatim text** — no X or Telegram access needed.
 
+## Daily update — 13 November 2026 (Africa/Lagos)
+
+- New X posts (security-relevant, with analysis): [saxenism Zcash finding #8](posts/saxenism/2026-11-12-2120829077829582959.md), [zkSecurity Monero Lean proof](posts/zksecurityXYZ/2026-11-12-2120960376791847035.md), [Trail of Bits Patch the Planet](posts/trailofbits/2026-11-12-2120943246587392210.md) + [agent patch plugins](posts/trailofbits/2026-11-12-2121009628855357931.md), [S1r1u5_ n-day/0day](posts/S1r1u5_/2026-11-12-2120761362075079124.md), [0xvivekd private bounty](posts/0xvivekd/2026-11-12-2120893385519313126.md). 64 new watched-account posts captured verbatim into `posts/*/ARCHIVE*` and `data/x_posts.jsonl`.
+- New writeups: [writeups/zksecurityXYZ/monero-generalized-bulletproofs-lean-proof-2026-11.md](writeups/zksecurityXYZ/monero-generalized-bulletproofs-lean-proof-2026-11.md), [writeups/trailofbits/patch-the-planet-dashboard-2026-11.md](writeups/trailofbits/patch-the-planet-dashboard-2026-11.md), [writeups/S1r1u5_/glasswing-nday-0day-exploited-in-wild-2026-11.md](writeups/S1r1u5_/glasswing-nday-0day-exploited-in-wild-2026-11.md), [Mercado Bitcoin rekt](writeups/telegram-defendor_eng/mercado-rekt-c0939a8c.md), [wallet pentest checklist](writeups/telegram-defendor_eng/guardianaudits-crypto-wallet-pentest-2120924685890413008.md), +170 HackerOne reports under `writeups/telegram-dailybountywriteup/`.
+- CVEs: 423 new + 1,970 updated (cvelistV5 delta); GHSA reviewed 37,767. HackerOne 12,752 (+2).
+
 ## Daily update — 12 November 2026 (Africa/Lagos)
 
 New / refreshed technical material today (verbatim under `posts/` and `writeups/`):

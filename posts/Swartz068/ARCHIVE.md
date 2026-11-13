@@ -1,11 +1,37 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-12 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 46
-- Conversations/threads: 29
+- Posts in this file: 47
+- Conversations/threads: 30
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-12
+
+
+---
+
+## 2026-11-12 · Reply · @tayyu_x 3
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @tayyu_x — 2026-11-11 13:31 UTC (2026-11-11 14:31 WAT)
+
+- URL: https://x.com/tayyu_x/status/2120509746012983473
+- Metrics (at fetch): bookmark 11, impression 16940, like 78, quote 4, reply 112, retweet 12
+
+> Test Your Mathematical IQ! [pic.x.com/vqTV7SYhii]
+
+**Media:**
+- media `3_2120509737733332993` (details not returned by the API)
+
+
+### Post — @Swartz068 — 2026-11-12 08:37 UTC (2026-11-12 09:37 WAT)
+
+- URL: https://x.com/Swartz068/status/2120798230355251328
+- Metrics (at fetch): bookmark 0, impression 52, like 0, quote 0, reply 0, retweet 0
+
+> @tayyu_x 3
 
 
 ---

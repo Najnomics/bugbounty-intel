@@ -69,3 +69,10 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 - **Bug class:** TEE authorization logic / confused deputy; also software RCE inside TEE (SGLang)
 - **Root cause (SGX lesson):** Signed "execute" accepted as "migrate"; attestation/signatures fine, intent binding missing. NEAR AI: SGLang RCE on inference server let attacker see confidential requests — TEE does not protect against bugs in software *inside* the enclave.
 - **Takeaways:** Bind signed message type to privileged op; treat inference-engine deps with same rigor as the enclave itself.
+
+### Zcash campaign accepted finding #8 (High) — remediation bypass — 12 Nov 2026
+
+- Post: https://x.com/saxenism/status/2120829077829582959 — verbatim: [`posts/saxenism/2026-11-12-2120829077829582959.md`](../posts/saxenism/2026-11-12-2120829077829582959.md)
+- **Bug class:** incomplete-patch / remediation bypass (same impact via an unaccounted path), @bluethroat_labs Zcash campaign.
+- **Root cause:** came out of reviewing the *remediation* of an already-disclosed bug; the patch closed the exact path in the original report, but the impact stayed reachable through a path the fix did not account for. (Quoted finding #7: threat-modelling on what actors *should* do vs *could* do.)
+- **Takeaways:** review patches, not just code — enumerate every path to the fixed impact; model by capability. Add a harness "remediation review" mode seeded from CVE/GHSA fix commits.
