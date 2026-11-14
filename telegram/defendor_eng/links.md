@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **510**
+Total distinct URLs: **512**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -516,3 +516,5 @@ Total distinct URLs: **510**
 | [2327](https://t.me/defendor_eng/2327) | 2026-11-10 16:24:19 | 🚨 Supply Chain Attack Targets Zcash, Vizor and Keplr Developers | https://opensourcemalware.com/blog/cryptocurrency-being-targeted-in-multi-faceted-attack |
 | [2331](https://t.me/defendor_eng/2331) | 2026-11-11 12:29:56 | 🚨 Arcus Exchange Loses $2.23M to a Subaccount Transfer Bug | https://arcus.xyz/blog/arcus-incident-report-november-9-2026 |
 | [2335](https://t.me/defendor_eng/2335) | 2026-11-12 15:51:57 | 🔓 Mercado Bitcoin lost $48.6M in multi-chain hack | https://rekt.news/mercado-rekt |
+| [2338](https://t.me/defendor_eng/2338) | 2026-11-13 12:10:40 | 🔬 CertiK: Arcus Records Show Integer Overflow Signature | https://www.certik.com/blog/arcus-incident-analysis |
+| [2340](https://t.me/defendor_eng/2340) | 2026-11-13 20:30:16 | 📋 Certora Guide: What to Check Before a Sui Audit | https://www.certora.com/blog/auditing-smart-contracts-sui |

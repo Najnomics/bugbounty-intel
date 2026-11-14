@@ -1,11 +1,39 @@
 # @asymmetric_re — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 137
-- Conversations/threads: 66
+- Posts in this file: 139
+- Conversations/threads: 67
 - Oldest post captured: 2024-01-29
-- Newest post captured: 2026-10-30
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Thread · When technical defenses are strong, attackers go after the people.
+
+
+### Post — @asymmetric_re — 2026-11-13 13:16 UTC (2026-11-13 14:16 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2121230747734556997
+- Metrics (at fetch): bookmark 3, impression 1424, like 17, quote 2, reply 2, retweet 0
+
+> When technical defenses are strong, attackers go after the people.
+>
+> In London for Breakpoint? Our protective services team put together some conference opsec basics. [pic.x.com/w0U4wOyQTc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXAa2LrWkAAB3SA.png — no alt text provided by author
+
+
+### Thread part 2 — @asymmetric_re — 2026-11-13 13:16 UTC (2026-11-13 14:16 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2121230751987298482
+- Metrics (at fetch): bookmark 1, impression 285, like 2, quote 0, reply 0, repost 0
+
+> https://asymmetric.com/blog/conference-week-opsec-a-guide/
+
+**Links in post:** https://asymmetric.com/blog/conference-week-opsec-a-guide/
 
 
 ---

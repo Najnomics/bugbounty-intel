@@ -1,11 +1,37 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 127
-- Conversations/threads: 109
+- Posts in this file: 128
+- Conversations/threads: 110
 - Oldest post captured: 2014-01-16
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @mitschabaude Yes, multi year efforts that if you push through completing hours
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1359512713886638088 — 2026-11-13 10:40 UTC (2026-11-13 11:40 WAT)
+
+- URL: https://x.com/1359512713886638088/status/2121191435420520562
+- Metrics (at fetch): bookmark 4, impression 865, like 8, quote 0, reply 3, retweet 0
+
+> True but one nuance is that being fully AI psychotic tends to make your work *less* ambitious, as agents will always try to descope / estimate work in weeks that takes hours / argue for a half-assed "realistic" roadmap.
+> Not trusting LLMs with judgement calls in those cases almost https://t.co/rpk6z5GY30
+
+**Quoted post** 2121098135477043638: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @kobigurk — 2026-11-13 11:54 UTC (2026-11-13 12:54 WAT)
+
+- URL: https://x.com/kobigurk/status/2121210162631307545
+- Metrics (at fetch): bookmark 0, impression 320, like 1, quote 0, reply 0, retweet 0
+
+> @mitschabaude Yes, multi year efforts that if you push through completing hours
 
 
 ---

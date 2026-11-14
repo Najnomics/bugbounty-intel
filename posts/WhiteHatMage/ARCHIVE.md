@@ -1,11 +1,39 @@
 # @WhiteHatMage — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 170
-- Conversations/threads: 131
+- Posts in this file: 171
+- Conversations/threads: 132
 - Oldest post captured: 2025-11-29
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @saxenism Add a password. That used to skip the checks
+
+
+**Context — post being replied to:**
+
+#### Parent post — @saxenism — 2026-11-13 13:49 UTC (2026-11-13 14:49 WAT)
+
+- URL: https://x.com/saxenism/status/2121239127467434217
+- Metrics (at fetch): bookmark 6, impression 4441, like 25, quote 0, reply 4, repost 0
+
+> For protocols running their bug bounty programs over email, please see that this can happen with your whitehats as well :(
+>
+> PS: It was a .zip file with the exact code files required to run the PoC end-to-end. [pic.x.com/y1owwCUfO1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXAndSia4AAVuO2.jpg — no alt text provided by author
+
+
+### Post — @WhiteHatMage — 2026-11-13 13:55 UTC (2026-11-13 14:55 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2121240625375052064
+- Metrics (at fetch): bookmark 0, impression 514, like 10, quote 0, reply 1, retweet 0
+
+> @saxenism Add a password. That used to skip the checks
 
 
 ---

@@ -1,11 +1,59 @@
 # @zseano — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 420
-- Conversations/threads: 371
+- Posts in this file: 421
+- Conversations/threads: 372
 - Oldest post captured: 2015-08-11
-- Newest post captured: 2026-11-09
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @zonduu1 @Bugcrowd @Atlassian Are you aware Bugcrowd (the platform you use for bug bounties) is aski
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @zonduu1 — 2026-11-12 23:31 UTC (2026-11-13 00:31 WAT)
+
+- URL: https://x.com/zonduu1/status/2121023111504048399
+- Metrics (at fetch): bookmark 44, impression 29769, like 256, quote 5, reply 34, repost 11
+
+> To bugcrowd, executing and extracting the output of "whoami" and "id" is not enough for an RCE. Not sure what does the team expect? Full explotation? to upload a shell? This is crazy, I just can't believe it @Bugcrowd [pic.x.com/A2l2dcCcV7] https://twitter.com/zonduu1/status/2116196296768069816
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW9ie38XwAA0ty7.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/zonduu1/status/2116196296768069816
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zonduu1 — 2026-10-30 15:51 UTC (2026-10-30 16:51 WAT)
+    
+    - URL: https://x.com/zonduu1/status/2116196296768069816
+    - Metrics (at fetch): bookmark 14, impression 28085, like 155, quote 5, reply 25, repost 2
+    
+    > Current state of @Bugcrowd. RCE in new state for 3 months.
+    >
+    > Btw I extracted id and whoami as rce proof. [pic.x.com/ZvYVFA8uJ1]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HV48797XIAA3LjP.jpg — no alt text provided by author
+    
+
+
+### Post — @zseano — 2026-11-13 14:33 UTC (2026-11-13 15:33 WAT)
+
+- URL: https://x.com/zseano/status/2121250185812602968
+- Metrics (at fetch): bookmark 4, impression 1267, like 46, quote 0, reply 0, retweet 1
+
+> @zonduu1 @Bugcrowd @Atlassian Are you aware Bugcrowd (the platform you use for bug bounties) is asking researchers to retrieve sensitive info from your systems to prove impact from their bugs? Isn't this against your policy? 
+>
+> A little concerning they are asking people to do this.
 
 
 ---

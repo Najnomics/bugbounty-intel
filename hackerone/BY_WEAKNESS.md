@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12752 reports)
+# HackerOne disclosed reports by weakness (12754 reports)
 
 
 ## Unspecified (1279)
@@ -6365,7 +6365,7 @@
 - [3890352](reports/2026/3890352.md) Connector/C++ aborts client process on server session-tracking packet via std::stoi — mariadb — medium —  — Uncontrolled Resource Consumption
 - [4088592](reports/2026/4088592.md) CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching — weblate — medium —  — Uncontrolled Resource Consumption
 
-## Cross-site Scripting (XSS) - Stored (474)
+## Cross-site Scripting (XSS) - Stored (475)
 
 - [1212067](reports/2021/1212067.md) Stored XSS in markdown via the DesignReferenceFilter  — gitlab — critical — $16,000 — Cross-site Scripting (XSS) - Stored
 - [1578400](reports/2022/1578400.md) New /add_contacts /remove_contacts quick commands susseptible to XSS from Customer Contact firstname/lastname fields — gitlab — high — $13,950 — Cross-site Scripting (XSS) - Stored
@@ -6841,6 +6841,7 @@
 - [4116433](reports/2026/4116433.md) Stored XSS in report date selection — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
 - [3826207](reports/2026/3826207.md) Stored XSS via unescaped tracker name in append-code check — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
 - [4100259](reports/2026/4100259.md) Stored XSS in the Classic block element path — wordpress — none —  — Cross-site Scripting (XSS) - Stored
+- [4175245](reports/2026/4175245.md) Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover — basecamp — high —  — Cross-site Scripting (XSS) - Stored
 
 ## Cross-Site Request Forgery (CSRF) (422)
 
@@ -9659,7 +9660,7 @@
 - [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
 - [3896779](reports/2026/3896779.md) Blind SQL injection due to request precedence issue in global input registration — revive_adserver — high —  — SQL Injection
 
-## Path Traversal (231)
+## Path Traversal (232)
 
 - [1439593](reports/2022/1439593.md) Arbitrary file read  via the bulk imports UploadsPipeline — gitlab — critical — $29,000 — Path Traversal
 - [827052](reports/2020/827052.md) Arbitrary file read via the UploadsRewriter when moving and issue — gitlab — critical — $20,000 — Path Traversal
@@ -9682,6 +9683,7 @@
 - [519220](reports/2020/519220.md) File writing by Directory traversal at actionpack-page_caching and RCE by it — rails — high — $1,000 — Path Traversal
 - [1400238](reports/2021/1400238.md) Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013) — ibb — critical — $1,000 — Path Traversal
 - [1415820](reports/2021/1415820.md) Zero day path traversal vulnerability in Grafana 8.x allows unauthenticated arbitrary local file read — aiven_ltd — high — $1,000 — Path Traversal
+- [4000535](reports/2026/4000535.md) Burp Community OpenAPI site-map action reads a local schema example through $id rebasing — portswigger — medium — $1,000 — Path Traversal
 - [1050231](reports/2021/1050231.md) Path Traversal в iOS приложении — vkcom — high — $700 — Path Traversal
 - [2070212](reports/2023/2070212.md) Apache Airflow path traversal by authenticated user — ibb — low — $540 — Path Traversal
 - [411519](reports/2018/411519.md) DNS SRV lookup of file:// sources enables local hijacking of gems — rubygems — high — $500 — Path Traversal

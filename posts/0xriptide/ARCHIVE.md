@@ -1,6 +1,6 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 216
 - Conversations/threads: 210
@@ -1628,9 +1628,9 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1277161565993615363 — 2026-03-14 13:22 UTC (2026-03-14 14:22 WAT)
+    #### Quoted post — @hrkrshnn — 2026-03-14 13:22 UTC (2026-03-14 14:22 WAT)
     
-    - URL: https://x.com/1277161565993615363/status/2032809487657238996
+    - URL: https://x.com/hrkrshnn/status/2032809487657238996
     - Metrics (at fetch): not returned
     
     > Ross benchmarked 28 (up from 21) different AI security tools.

@@ -433,3 +433,25 @@ Telegram previews: https://t.me/s/defendor_eng (2 new: 2335-2336), https://t.me/
 
 CVE/advisory: CVEProject/cvelistV5 deltas 2026-11-12_end_of_day + 2026-11-13_0500Z (423 new, 1,970 updated); github/advisory-database git pull (GHSA reviewed 37,767); CISA KEV unchanged (2026.11.10); Exploit-DB & Linux-kernel vulns.git unchanged. Per-repo security advisories re-checked for zcash/ethereum/solana (no new).
 HackerOne: GraphQL CompleteHacktivityReportIndex disclosed_at:[2026-11-12 TO 2026-11-14] → +2 reports (4110110, 4062639).
+
+
+## 14 November 2026 (Africa/Lagos) — daily update
+
+X (full-archive search, 2 batched watched-account queries since id 2121117686692479126 + mdp_sec own-thread + reply pulls; 121 new posts, retweets excluded). Security-relevant captures:
+- https://x.com/mdp_sec/status/2121244189593940355 ($2,000 Bugcrowd cross-tenant IDOR → live auth header)
+- https://x.com/mdp_sec/status/2121358210577883544 and /2121274388435922971 (100-lab hacking-harness model benchmarks: Grok 4.6 vs 4.7 vs Opus 5; provider-routing/quantization effect)
+- https://x.com/mdp_sec/status/2121213990546088318 (582 reports / 148 crits triage telemetry)
+- https://x.com/S1r1u5_/status/2121447753410904131 (Cursor/Fireworks AI-infra supply-chain breach) and /2121423646539604228 (Project Zero "Full X" disclosure policy)
+- https://x.com/saxenism/status/2121239127467434217 (email .zip PoC blocked by Workspace) and /2121167157329584138 (L1 secure-release / patch-gap)
+- https://x.com/garethheyes/status/2121236435273675134 (PHP XOR-string WAF/filter bypass; quoting @pad1ryoshi)
+- https://x.com/albinowax/status/2121234124476183016 (RCE proof-of-impact / pivot trend; with @zseano) · https://x.com/NahamSec/status/2121246957616390355 (NahamCon "Weird Ways to Hack Gemini")
+
+Writeups fetched:
+- https://cursor.com/blog/security-incident-update ; https://fireworks.ai/security/bulletins/october-2026-security-incident (+ -update) ; https://projectzero.google/2026/11/disclosure-policy.html ; https://asymmetric.com/blog/conference-week-opsec-a-guide/
+- Telegram @defendor_eng new msgs: https://www.certik.com/blog/arcus-incident-analysis ; https://www.certora.com/blog/auditing-smart-contracts-sui (+SlowMist Pennysia and b612security are x.com, link-only) ; +40 from the DeFi backlog (rekt.news, QuillAudits, Cantina, ToB, OpenZeppelin, etc.)
+- Telegram @dailybountywriteup: https://securitycipher.com/2026/11/12/github-actions-secret-stealer-wfx/ ; +150 HackerOne public reports from the backlog (via /reports/<id>.json). Medium/infosecwriteups/osintteam remain HTTP 403 and stay pending.
+
+Telegram previews: https://t.me/s/defendor_eng (+4: 2337-2340), https://t.me/s/dailybountywriteup (+2: 14982-14983).
+
+CVE/advisory: CVEProject/cvelistV5 deltas 2026-11-13_end_of_day + 2026-11-14_0500Z (736 new, 1,855 updated; Microsoft ~1,095, Android 116, WordPress 109, Google 103, Fortinet 32, Intel 27, PHP 16). github/advisory-database git pull (GHSA reviewed 37,810). CISA KEV refetched → catalog 2026.11.13, 1,781 (joined CVE-2026-114713 UnrealIRCd, CVE-2026-123039 Check Point). Linux-kernel vulns.git pulled (head 84a53c8, 2026-11-13). Exploit-DB unchanged. ZDI full-text backfill completed (all 17,361 advisories now have text). Repo advisories: erigon GHSA-4c6q-hpx8-75wm (Ethereum); russh GHSA-9264-jvgf-6w2f, GHSA-736f-c93q-9fwx (crypto/RustSec).
+HackerOne: GraphQL CompleteHacktivityReportIndex disclosed_at:[2026-11-12 TO 2026-11-15] → +2 reports (4175245 Basecamp stored XSS→admin takeover, 4000535 PortSwigger Burp OpenAPI $id local-file read).

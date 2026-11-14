@@ -1,11 +1,286 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1143
-- Conversations/threads: 875
+- Posts in this file: 1154
+- Conversations/threads: 886
 - Oldest post captured: 2020-03-15
 - Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @abdoulrauf_jn @0xTimofey Lol, I was just kidding. 
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1360583736778227714 — 2026-11-13 16:10 UTC (2026-11-13 17:10 WAT)
+
+- URL: https://x.com/1360583736778227714/status/2121274575015035156
+- Metrics (at fetch): bookmark 0, impression 100, like 1, quote 0, reply 1, retweet 0
+
+> @saxenism @0xTimofey Sorry for the inconvenience, maybe he didn't get you right
+
+
+### Post — @saxenism — 2026-11-13 17:22 UTC (2026-11-13 18:22 WAT)
+
+- URL: https://x.com/saxenism/status/2121292604222644274
+- Metrics (at fetch): bookmark 0, impression 45, like 2, quote 0, reply 1, retweet 0
+
+> @abdoulrauf_jn @0xTimofey Lol, I was just kidding. 
+>
+> I met @0xTimofey and we had a blast together.
+
+
+---
+
+## 2026-11-13 · Reply · @0xTimofey @abdoulrauf_jn Prove it. Onboard me rn!!
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1628039684189200385 — 2026-11-13 14:27 UTC (2026-11-13 15:27 WAT)
+
+- URL: https://x.com/1628039684189200385/status/2121248467536265580
+- Metrics (at fetch): bookmark 0, impression 106, like 1, quote 0, reply 1, retweet 0
+
+> @saxenism @abdoulrauf_jn I couldn't have said that, it wasn't me 👀
+
+
+### Post — @saxenism — 2026-11-13 14:29 UTC (2026-11-13 15:29 WAT)
+
+- URL: https://x.com/saxenism/status/2121249060086817152
+- Metrics (at fetch): bookmark 0, impression 59, like 1, quote 0, reply 0, retweet 0
+
+> @0xTimofey @abdoulrauf_jn Prove it. Onboard me rn!!
+
+
+---
+
+## 2026-11-13 · Reply · @WhiteHatMage Whitehatmage coming in clutch, as always
+
+
+**Context — post being replied to:**
+
+#### Parent post — @WhiteHatMage — 2026-11-13 13:55 UTC (2026-11-13 14:55 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2121240625375052064
+- Metrics (at fetch): bookmark 0, impression 514, like 10, quote 0, reply 1, retweet 0
+
+> @saxenism Add a password. That used to skip the checks
+
+
+### Post — @saxenism — 2026-11-13 13:57 UTC (2026-11-13 14:57 WAT)
+
+- URL: https://x.com/saxenism/status/2121241086744211783
+- Metrics (at fetch): bookmark 0, impression 363, like 2, quote 0, reply 0, retweet 0
+
+> @WhiteHatMage Whitehatmage coming in clutch, as always
+
+
+---
+
+## 2026-11-13 · Post · For protocols running their bug bounty programs over email, please see that this can happen with you
+
+
+### Post — @saxenism — 2026-11-13 13:49 UTC (2026-11-13 14:49 WAT)
+
+- URL: https://x.com/saxenism/status/2121239127467434217
+- Metrics (at fetch): bookmark 6, impression 4441, like 25, quote 0, reply 4, repost 0
+
+> For protocols running their bug bounty programs over email, please see that this can happen with your whitehats as well :(
+>
+> PS: It was a .zip file with the exact code files required to run the PoC end-to-end. [pic.x.com/y1owwCUfO1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXAndSia4AAVuO2.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-13 · Reply · @abdoulrauf_jn @0xTimofey vowed to never let me in on the Certik platform.
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1360583736778227714 — 2026-11-12 14:20 UTC (2026-11-12 15:20 WAT)
+
+- URL: https://x.com/1360583736778227714/status/2120884363135000782
+- Metrics (at fetch): bookmark 57, impression 1618, like 52, quote 0, reply 6, retweet 2
+
+> how to make your first $100k in web3 security:
+>
+> go to Certik 
+> pick a live contest
+> read the docs before the code
+> hunt the simple bugs first 
+> submit, then study every judged finding
+>
+> bookmark this.
+
+
+### Post — @saxenism — 2026-11-13 13:45 UTC (2026-11-13 14:45 WAT)
+
+- URL: https://x.com/saxenism/status/2121238032611447015
+- Metrics (at fetch): bookmark 0, impression 377, like 3, quote 0, reply 2, retweet 0
+
+> @abdoulrauf_jn @0xTimofey vowed to never let me in on the Certik platform.
+>
+> I'm devastated. 
+>
+> Can you help me onboard?
+
+
+---
+
+## 2026-11-13 · Reply · @lightyagah @Zcash Just keep me out of your notebook and we're cool XD
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1813699082872881153 — 2026-11-13 11:32 UTC (2026-11-13 12:32 WAT)
+
+- URL: https://x.com/1813699082872881153/status/2121204475725525203
+- Metrics (at fetch): bookmark 0, impression 25, like 1, quote 0, reply 1, retweet 0
+
+> @saxenism @Zcash Alright,love your work BTW I'm a huge fan
+
+
+### Post — @saxenism — 2026-11-13 13:18 UTC (2026-11-13 14:18 WAT)
+
+- URL: https://x.com/saxenism/status/2121231293073805617
+- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 1, retweet 0
+
+> @lightyagah @Zcash Just keep me out of your notebook and we're cool XD
+
+
+---
+
+## 2026-11-13 · Post · someone asked us for our portfolio and i am having a hard time remembering all the shit we have pull
+
+
+### Post — @saxenism — 2026-11-13 12:21 UTC (2026-11-13 13:21 WAT)
+
+- URL: https://x.com/saxenism/status/2121216984230834388
+- Metrics (at fetch): bookmark 0, impression 476, like 11, quote 0, reply 0, retweet 0
+
+> someone asked us for our portfolio and i am having a hard time remembering all the shit we have pulled off in the last few months over at @bluethroat_labs.
+>
+> kinda cool, but i do need some memory exercises ig
+
+
+---
+
+## 2026-11-13 · Reply · @lightyagah @Zcash Well, thank you.
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1813699082872881153 — 2026-11-13 10:00 UTC (2026-11-13 11:00 WAT)
+
+- URL: https://x.com/1813699082872881153/status/2121181296789447027
+- Metrics (at fetch): bookmark 0, impression 41, like 1, quote 0, reply 1, retweet 0
+
+> @saxenism @Zcash Seems you've picked zcash clean
+
+
+### Post — @saxenism — 2026-11-13 10:26 UTC (2026-11-13 11:26 WAT)
+
+- URL: https://x.com/saxenism/status/2121187866239959109
+- Metrics (at fetch): bookmark 0, impression 36, like 0, quote 0, reply 1, retweet 0
+
+> @lightyagah @Zcash Well, thank you.
+>
+> But this is a pilot. If this works for ZCash, then we will extend this as a standard to all L1s (or basically all distributed systems).
+>
+> Also, the best part is that ZCash is a PoW chain, and if we can make it work here, PoS chains are going to be even easier.
+
+
+---
+
+## 2026-11-13 · Post · The TEE Security Handbook is a public good.
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @saxenism — 2026-11-13 10:12 UTC (2026-11-13 11:12 WAT)
+
+- URL: https://x.com/saxenism/status/2121184419285479680
+- Metrics (at fetch): bookmark 2, impression 833, like 18, quote 0, reply 1, retweet 2
+
+> The TEE Security Handbook is a public good.
+>
+> So I shouldn't be the only one to pick who works on it.
+>
+> Candidates are screened &amp; interviews start next week.
+>
+> If you have built, broken, audited or deeply understand TEE systems, be a guest interviewer with me.
+>
+> DMs open :) https://t.co/2ScPprKY3j
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2026-11-12 10:37 UTC (2026-11-12 11:37 WAT)
+    
+    - URL: https://x.com/saxenism/status/2120828327485431967
+    - Metrics (at fetch): bookmark 16, impression 1484, like 27, quote 0, reply 2, retweet 0
+    
+    > I am hiring a chad to work on the TEE Security Handbook over at @bluethroat_labs.
+    >
+    > It's your last chance to apply if you want to work with us.
+    >
+    > The application is simple.
+    >
+    > DM @iamwehi and if you get through him, you get a single interview with me and you're in :)
+    >
+    > http://tee-security-handbook.bluethroatlabs.com
+    
+    **Links in post:** http://tee-security-handbook.bluethroatlabs.com
+    
+
+
+---
+
+## 2026-11-13 · Reply · @Zcash node operators, mining pools, and maintainers: I’d love to talk about how urgent node securit
+
+
+### Post — @saxenism — 2026-11-13 09:03 UTC (2026-11-13 10:03 WAT)
+
+- URL: https://x.com/saxenism/status/2121167157329584138
+- Metrics (at fetch): bookmark 0, impression 576, like 19, quote 0, reply 1, repost 1
+
+> @Zcash node operators, mining pools, and maintainers: I’d love to talk about how urgent node security updates actually reach your fleet. 
+>
+> I’m building a secure and simpler way to stage releases before disclosure and shorten the patch gap. 
+>
+> Still pressure-testing the idea, not pitching a finished tool. 
+>
+> DMs open.
+
+
+---
+
+## 2026-11-13 · Reply · @La_Ven0m @Zcash 🫡🫡
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1847552319694557184 — 2026-11-13 09:01 UTC (2026-11-13 10:01 WAT)
+
+- URL: https://x.com/1847552319694557184/status/2121166435246276865
+- Metrics (at fetch): bookmark 0, impression 12, like 1, quote 0, reply 1, retweet 0
+
+> @saxenism @Zcash Congratulations
+
+
+### Post — @saxenism — 2026-11-13 09:03 UTC (2026-11-13 10:03 WAT)
+
+- URL: https://x.com/saxenism/status/2121166937950666827
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, retweet 0
+
+> @La_Ven0m @Zcash 🫡🫡
 
 
 ---
@@ -7735,9 +8010,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1277161565993615363 — 2026-02-17 03:31 UTC (2026-02-17 04:31 WAT)
+    #### Quoted post — @hrkrshnn — 2026-02-17 03:31 UTC (2026-02-17 04:31 WAT)
     
-    - URL: https://x.com/1277161565993615363/status/2023601114818768957
+    - URL: https://x.com/hrkrshnn/status/2023601114818768957
     - Metrics (at fetch): bookmark 44, impression 73818, like 155, quote 14, reply 28, retweet 9
     
     > I've written a lot of open-source code in my life, and I don't say this lightly: close source your code this year. You are just not ready for the level of security threats this year.

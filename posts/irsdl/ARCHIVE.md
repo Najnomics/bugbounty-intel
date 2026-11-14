@@ -1,11 +1,133 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 598
-- Conversations/threads: 521
+- Posts in this file: 603
+- Conversations/threads: 526
 - Oldest post captured: 2010-05-25
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Post · Мįςřòѕθƒτ Ďēƒęηδэŗ Ðęτєčťίσŉ åηð Ѓęśрǿήşέ Śëŗνĩčє
+
+
+### Post — @irsdl — 2026-11-13 10:55 UTC (2026-11-13 11:55 WAT)
+
+- URL: https://x.com/irsdl/status/2121195295560122373
+- Metrics (at fetch): bookmark 1, impression 1053, like 11, quote 0, reply 0, retweet 0
+
+> Мįςřòѕθƒτ Ďēƒęηδэŗ Ðęτєčťίσŉ åηð Ѓęśрǿήşέ Śëŗνĩčє
+>
+> Has your back today! Friday the 13th is here 😈👻👽 https://t.co/rZnM6SFLub
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW__iE_XAAAN7QP.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HW__oHcXAAAUL15.png — no alt text provided by author
+
+
+---
+
+## 2026-11-13 · Post · Meanwhile, at Microsoft HQ:
+
+
+### Post — @irsdl — 2026-11-13 09:48 UTC (2026-11-13 10:48 WAT)
+
+- URL: https://x.com/irsdl/status/2121178358646009884
+- Metrics (at fetch): bookmark 2, impression 1853, like 16, quote 0, reply 2, retweet 5
+
+> Meanwhile, at Microsoft HQ:
+>
+> 👨‍💻 Engineers: “Hey Copilot, fix the outage. Make absolutely no mistakes.”
+>
+> 🤖 Copilot: “Sorry, Microsoft 365 is currently unavailable. Please try again later.”
+>
+> 👨‍💻 Engineers: “We’re going to need engineers.” 💀 https://t.co/2OpPev5Mx9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2026-11-13 09:15 UTC (2026-11-13 10:15 WAT)
+    
+    - URL: https://x.com/irsdl/status/2121170167803887720
+    - Metrics (at fetch): bookmark 0, impression 2921, like 15, quote 1, reply 0, retweet 2
+    
+    > To anyone worried Microsoft 365 has become Microsoft 364, don't panic!
+    >
+    > 2028 is a leap year, so you'll get your missing day back. Assuming they fix the outage by then. 😂
+    >
+    > 🪟#microsoft365down #MicrosoftOutage
+    
+
+
+---
+
+## 2026-11-13 · Reply · @rootsecdev I did not even need to enable the sound to hear it 😂
+
+
+**Context — post being replied to:**
+
+#### Parent post — @35508508 — 2026-11-12 16:08 UTC (2026-11-12 17:08 WAT)
+
+- URL: https://x.com/35508508/status/2120911604384752050
+- Metrics (at fetch): bookmark 0, impression 2397, like 7, quote 0, reply 1, retweet 3
+
+> Omg 👀 https://t.co/X65ZvHSkVl
+
+**Quoted post** 2120785304764444728: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @irsdl — 2026-11-13 09:19 UTC (2026-11-13 10:19 WAT)
+
+- URL: https://x.com/irsdl/status/2121171102067995019
+- Metrics (at fetch): bookmark 0, impression 136, like 0, quote 0, reply 0, retweet 0
+
+> @rootsecdev I did not even need to enable the sound to hear it 😂
+
+
+---
+
+## 2026-11-13 · Post · 🔥 https://t.co/0l60DH0Zit
+
+
+### Post — @irsdl — 2026-11-13 09:18 UTC (2026-11-13 10:18 WAT)
+
+- URL: https://x.com/irsdl/status/2121170711372829033
+- Metrics (at fetch): bookmark 0, impression 541, like 1, quote 0, reply 0, retweet 0
+
+> 🔥 https://t.co/0l60DH0Zit
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2835553985 — 2026-11-13 08:43 UTC (2026-11-13 09:43 WAT)
+    
+    - URL: https://x.com/2835553985/status/2121161963304833127
+    - Metrics (at fetch): bookmark 0, impression 442, like 4, quote 1, reply 1, retweet 0
+    
+    > Black Friday: subscribe to SecDim Professional between 20 Nov and 5 Dec and get 35% off, forever.
+    >
+    > Secure coding courses, hands-on challenges and learning paths across AppSec, cloud and AI security. Get the code from the link in the reply. https://t.co/N2KPOrKE0C
+    
+    **Media:**
+    - media `3_2121161956556255232` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-13 · Post · To anyone worried Microsoft 365 has become Microsoft 364, don't panic!
+
+
+### Post — @irsdl — 2026-11-13 09:15 UTC (2026-11-13 10:15 WAT)
+
+- URL: https://x.com/irsdl/status/2121170167803887720
+- Metrics (at fetch): bookmark 0, impression 2921, like 15, quote 1, reply 0, retweet 2
+
+> To anyone worried Microsoft 365 has become Microsoft 364, don't panic!
+>
+> 2028 is a leap year, so you'll get your missing day back. Assuming they fix the outage by then. 😂
+>
+> 🪟#microsoft365down #MicrosoftOutage
 
 
 ---

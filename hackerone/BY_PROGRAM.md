@@ -9705,7 +9705,7 @@
 - [3896617](reports/2026/3896617.md) Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure — mariadb — - —  — Improper Certificate Validation
 - [3849007](reports/2026/3849007.md) MariaDB CLI Utility Issues — mariadb — - —  — SQL Injection
 
-## basecamp (58)
+## basecamp (59)
 
 - [982291](reports/2020/982291.md) HEY.com email stored XSS — basecamp — critical — $5,000 — Cross-site Scripting (XSS) - Stored
 - [1010132](reports/2020/1010132.md) Possible DOM XSS on app.hey.com — basecamp — high —  — Cross-site Scripting (XSS) - DOM
@@ -9765,6 +9765,7 @@
 - [3979217](reports/2026/3979217.md)  Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach another account's webhook — basecamp — high —  — Improper Authentication - Generic
 - [3955956](reports/2026/3955956.md) launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker redirect → full CIA triad on Basecamp API  — basecamp — high —  — Improper Authentication - Generic
 - [4151790](reports/2026/4151790.md) Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in visitor's response is cached at the edge and returned to ev — basecamp — low —  — Information Disclosure
+- [4175245](reports/2026/4175245.md) Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover — basecamp — high —  — Cross-site Scripting (XSS) - Stored
 
 ## semrush (56)
 
@@ -10534,7 +10535,7 @@
 - [1265225](reports/2021/1265225.md) Multiple server ssh usernames leaked in your github repository — iandunn-projects — medium —  — Information Disclosure
 - [1785378](reports/2022/1785378.md) Double evaluation in .bash_prompt of dotfiles allows a malicious repository to execute arbitrary commands — iandunn-projects — high —  — 
 
-## portswigger (40)
+## portswigger (41)
 
 - [182160](reports/2016/182160.md) XSS in IE11 on portswigger.net via Flash — portswigger — - —  — Cross-site Scripting (XSS) - Generic
 - [186862](reports/2016/186862.md) Order-phishing via Payment ID URL — portswigger — low —  — Cross-Site Request Forgery (CSRF)
@@ -10576,6 +10577,7 @@
 - [3712279](reports/2026/3712279.md) Burp Suite Professional: browser-powered crawl can write attacker-controlled files through file input handling — portswigger — high — $5,000 — Path Traversal
 - [3717354](reports/2026/3717354.md) UI Consent Bypass via Comma Injection in `addAutoApproveTarget` — User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen — portswigger — none —  — LLM09:2025 Misinformation
 - [3972558](reports/2026/3972558.md) Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication — portswigger — medium — $1,000 — 
+- [4000535](reports/2026/4000535.md) Burp Community OpenAPI site-map action reads a local schema example through $id rebasing — portswigger — medium — $1,000 — Path Traversal
 
 ## snapchat (38)
 

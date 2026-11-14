@@ -1,8 +1,8 @@
 # HackerOne Hacktivity — all publicly disclosed reports
 
-Captured 2026-11-12 (Africa/Lagos): **12,752 of 12,752** reports that HackerOne's public Hacktivity index lists as disclosed (2013-12 → 2026-11-12), 0 fetch failures. State and cursor: [`data/h1_state.json`](../data/h1_state.json).
+Captured 2026-11-12 (Africa/Lagos): **12,754 of 12,754** reports that HackerOne's public Hacktivity index lists as disclosed (2013-12 → 2026-11-13), 0 fetch failures. State and cursor: [`data/h1_state.json`](../data/h1_state.json).
 
-- 10,006 have the reporter's **full original report** (`vulnerability_information`) public.
+- 10,008 have the reporter's **full original report** (`vulnerability_information`) public.
 - 2,746 are "limited disclosure": only the team/researcher summaries are public; those summaries are stored in full. Nothing beyond what HackerOne publishes is available.
 - 278 also exist as fetched writeups in `writeups/telegram-dailybountywriteup/` (marked in each report header).
 

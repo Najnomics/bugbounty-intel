@@ -1,11 +1,95 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 491
-- Conversations/threads: 374
+- Posts in this file: 493
+- Conversations/threads: 376
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Post · we talk a lot about vulnerabilities and 0-days, but far less about how fast threat actors are moving
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-11-14 03:38 UTC (2026-11-14 04:38 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2121447753410904131
+- Metrics (at fetch): bookmark 7, impression 1855, like 27, quote 0, reply 3, retweet 0
+
+> we talk a lot about vulnerabilities and 0-days, but far less about how fast threat actors are moving after an initial foothold, whether through exploitation, social engineering, or other means. 
+>
+> the speed of later movements with llms is scary, and i dont think with complexity of how things are setup most organizations are not prepared to defend against it. assume compromise,  isolate and monitor.
+
+**Links in post:** https://twitter.com/hrkrshnn/status/2121428647152095333
+
+**Quoted post (full text):**
+
+    #### Quoted post — @hrkrshnn — 2026-11-14 02:22 UTC (2026-11-14 03:22 WAT)
+    
+    - URL: https://x.com/hrkrshnn/status/2121428647152095333
+    - Metrics (at fetch): bookmark 99, impression 22616, like 203, quote 4, reply 17, repost 13
+    
+    > This is a crazy report.
+    >
+    > 1) Fireworks breach
+    > 2) Traces from Cursor users exposed
+    > 3) Traces had customer credentials 
+    > 4) Cursor credentials were also exposed
+    > 5) Attacker replaced Claude Code inside Cursor marketplace with the cursor credentials.
+    >
+    > The attackers are really after AI infrastructure. Ruthless.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXDUHKuXIAAJMea.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/cursor_ai/status/2121411147714970092
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @cursor_ai — 2026-11-14 01:13 UTC (2026-11-14 02:13 WAT)
+        
+        - URL: https://x.com/cursor_ai/status/2121411147714970092
+        - Metrics (at fetch): bookmark 312, impression 125225, like 1021, quote 57, reply 96, repost 77
+        
+        > We’ve published an update on our recent security incident. See a detailed overview of what happened and our remediation steps here: https://cursor.com/blog/security-incident-update
+        
+        **Links in post:** https://cursor.com/blog/security-incident-update
+        
+    
+
+
+---
+
+## 2026-11-14 · Post · incredible, this is the way https://twitter.com/natashenka/status/2121288574272450920
+
+
+### Post — @S1r1u5_ — 2026-11-14 02:03 UTC (2026-11-14 03:03 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2121423646539604228
+- Metrics (at fetch): bookmark 1, impression 1290, like 5, quote 0, reply 1, retweet 0
+
+> incredible, this is the way https://twitter.com/natashenka/status/2121288574272450920
+
+**Links in post:** https://twitter.com/natashenka/status/2121288574272450920
+
+**Quoted post (full text):**
+
+    #### Quoted post — @natashenka — 2026-11-13 17:06 UTC (2026-11-13 18:06 WAT)
+    
+    - URL: https://x.com/natashenka/status/2121288574272450920
+    - Metrics (at fetch): bookmark 84, impression 36036, like 277, quote 15, reply 11, repost 85
+    
+    > In the age of AI, 90 days isn’t fast enough. Today, Project Zero updated our disclosure policy to reflect the changes needed to protect users in this new world.
+    >
+    > https://projectzero.google/2026/11/disclosure-policy.html
+    
+    **Links in post:** https://projectzero.google/2026/11/disclosure-policy.html
+    
 
 
 ---

@@ -1,11 +1,38 @@
 # @keterka — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 51
+- Posts in this file: 60
+- Conversations/threads: 52
 - Oldest post captured: 2025-10-25
-- Newest post captured: 2026-11-07
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @ShieldifySec 🫡🫡🫡
+
+
+**Context — post being replied to:**
+
+#### Parent post — @ShieldifySec — 2026-11-12 21:55 UTC (2026-11-12 22:55 WAT)
+
+- URL: https://x.com/ShieldifySec/status/2120998923691237404
+- Metrics (at fetch): bookmark 5, impression 957, like 23, quote 0, reply 3, retweet 3
+
+> 🫡 To every new auditor putting in the hours while things are quiet:
+>
+> Fewer contests &amp; fewer bounties doesn't mean less to learn. Read past reports, break down every new exploit, rebuild the attacks yourself, write your own tools.
+>
+> When the next bull run hits, every protocol will
+
+
+### Post — @keterka — 2026-11-13 11:30 UTC (2026-11-13 12:30 WAT)
+
+- URL: https://x.com/keterka/status/2121204114705248427
+- Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 0, retweet 0
+
+> @ShieldifySec 🫡🫡🫡
 
 
 ---

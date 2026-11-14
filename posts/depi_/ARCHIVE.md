@@ -1,11 +1,34 @@
 # @depi_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 5
-- Conversations/threads: 2
+- Posts in this file: 6
+- Conversations/threads: 3
 - Oldest post captured: 2026-11-11
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Reply · @G360Technology The best vulnerabilities are the ones that don't require vulnerabilities 😜
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2112113238834024449 — 2026-11-13 07:46 UTC (2026-11-13 08:46 WAT)
+
+- URL: https://x.com/2112113238834024449/status/2121147724628480000
+- Metrics (at fetch): bookmark 0, impression 47, like 1, quote 0, reply 1, retweet 0
+
+> @depi_ what gets me is nothing here was really “broken.” every step was a feature doing what it’s supposed to. pretty sure a lot of teams have this exact setup running right now
+
+
+### Post — @depi_ — 2026-11-13 10:02 UTC (2026-11-13 11:02 WAT)
+
+- URL: https://x.com/depi_/status/2121181999410942244
+- Metrics (at fetch): bookmark 0, impression 23, like 0, quote 0, reply 0, retweet 0
+
+> @G360Technology The best vulnerabilities are the ones that don't require vulnerabilities 😜
 
 
 ---

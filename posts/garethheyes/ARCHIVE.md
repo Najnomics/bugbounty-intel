@@ -1,11 +1,93 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 554
-- Conversations/threads: 496
+- Posts in this file: 557
+- Conversations/threads: 499
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Post · PHP is disgusting lol. 
+
+
+### Post — @garethheyes — 2026-11-13 13:39 UTC (2026-11-13 14:39 WAT)
+
+- URL: https://x.com/garethheyes/status/2121236435273675134
+- Metrics (at fetch): bookmark 16, impression 2709, like 35, quote 0, reply 2, retweet 1
+
+> PHP is disgusting lol. 
+> You used to be able to increment strings too many years ago
+>
+> https://t.co/fP8FZefyvU https://t.co/yk1EhAwqos
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2215109990 — 2026-11-12 23:02 UTC (2026-11-13 00:02 WAT)
+    
+    - URL: https://x.com/2215109990/status/2121015735850029405
+    - Metrics (at fetch): bookmark 22, impression 6624, like 52, quote 1, reply 4, retweet 5
+    
+    > amazing and gross. 
+    >
+    > ty php https://t.co/qtDLKljd3X
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @pad1ryoshi — 2026-11-10 22:42 UTC (2026-11-10 23:42 WAT)
+        
+        - URL: https://x.com/pad1ryoshi/status/2120285959610679445
+        - Metrics (at fetch): bookmark 286, impression 31650, like 550, quote 6, reply 2, repost 45
+        
+        > PHP allows bitwise XOR operation of strings so we can "create" words like system, id, curl...
+        >
+        > really useful for bypassing some challs that might be blocking strings [pic.x.com/HmpY7QEfrJ]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HWzEDjkWsAAvaIT.png — no alt text provided by author
+        
+    
+
+
+---
+
+## 2026-11-13 · Reply · @abhiunix It uses :has on the form or html element. Targeted mode still uses + sibling because the c
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2944169808 — 2026-11-13 11:00 UTC (2026-11-13 12:00 WAT)
+
+- URL: https://x.com/2944169808/status/2121196614526419349
+- Metrics (at fetch): bookmark 0, impression 8, like 0, quote 0, reply 1, retweet 0
+
+> @garethheyes how does blind mode deal with type=hidden inputs? still the sibling selector trick or something new?
+
+
+### Post — @garethheyes — 2026-11-13 12:21 UTC (2026-11-13 13:21 WAT)
+
+- URL: https://x.com/garethheyes/status/2121216857419964720
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 1, retweet 0
+
+> @abhiunix It uses :has on the form or html element. Targeted mode still uses + sibling because the code was smaller, I might add an option to switch to has if I get reports it's not working because of an adjacent hidden element.
+
+
+---
+
+## 2026-11-13 · Post · Thinking filtering out tweets that contain RCE 😂
+
+
+Tags (automatic): RCE
+
+
+### Post — @garethheyes — 2026-11-13 09:32 UTC (2026-11-13 10:32 WAT)
+
+- URL: https://x.com/garethheyes/status/2121174254079398375
+- Metrics (at fetch): bookmark 0, impression 1777, like 19, quote 0, reply 0, retweet 1
+
+> Thinking filtering out tweets that contain RCE 😂
 
 
 ---

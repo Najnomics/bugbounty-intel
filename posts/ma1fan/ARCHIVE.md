@@ -1,11 +1,38 @@
 # @ma1fan — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 163
-- Conversations/threads: 149
+- Posts in this file: 164
+- Conversations/threads: 150
 - Oldest post captured: 2018-07-19
-- Newest post captured: 2026-11-10
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Post · 写一篇说的很深刻，值得一看 https://t.co/qstzL13ujC
+
+
+### Post — @ma1fan — 2026-11-13 09:09 UTC (2026-11-13 10:09 WAT)
+
+- URL: https://x.com/ma1fan/status/2121168622983024887
+- Metrics (at fetch): bookmark 1, impression 454, like 1, quote 0, reply 0, retweet 0
+
+> 写一篇说的很深刻，值得一看 https://t.co/qstzL13ujC
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1743380394869710849 — 2026-11-10 01:35 UTC (2026-11-10 02:35 WAT)
+    
+    - URL: https://x.com/1743380394869710849/status/2119967188337688625
+    - Metrics (at fetch): bookmark 2648, impression 1358207, like 5231, quote 196, reply 265, retweet 1176
+    
+    > Jensen Huang’s affair is just a trigger. What we are witnessing is a pre-planned power grab over Nvidia’s trillion-dollar computing empire, coordinated by Wall Street and Washington.
+    >
+    > Some sharp Chinese-American commentators call it America’s new Red Scare targeting elite Asian https://t.co/G5J49afWW8
+    
+    **Quoted post** 2119628475888017773: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---

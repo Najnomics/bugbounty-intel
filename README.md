@@ -2,7 +2,7 @@
 
 A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty findings** by consistent security researchers, compiled for Dorothy's hunting workflow.
 
-Last updated: **13 November 2026** (Africa/Lagos).
+Last updated: **14 November 2026** (Africa/Lagos).
 
 > **For the harness agent:** start at [harness/README.md](harness/README.md); for real-world CVE / HackerOne examples per bug class start at [harness/cve-index.md](harness/cve-index.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 
@@ -33,8 +33,8 @@ This is not a complete map of X, and it is not a hall-of-fame ranking. It starts
 | [posts/](posts/) | `posts/<handle>/<YYYY-MM-DD>-<postid>.md` — verbatim post + thread + quoted post + media, then an `## Analysis` section (tags, bug class, root cause, how found, takeaways pulled from the researcher file) |
 | [writeups/](writeups/) | `writeups/<researcher>/<slug>.md` — full text of linked blogs/reports, header with source URL and fetch date |
 | [telegram/](telegram/) | Verbatim public Telegram channel archives: [@defendor_eng](telegram/defendor_eng/) (DeFi / Web3 security feed) and [@dailybountywriteup](telegram/dailybountywriteup/) (daily bug-bounty writeup links). Machine-readable jsonl and daily-run cursors live under [`data/telegram_state.json`](data/telegram_state.json). |
-| [cves/](cves/) + `data/cve`, `data/nvd`, `data/ghsa`, `data/osv`, `data/exploitdb`, `data/zdi` | **CVE / advisory / exploit layer** (see [cves/README.md](cves/README.md)): every CVE 1999–2026 from cvelistV5 (424,534), NVD enrichment (424,750), CISA KEV (1,779), GHSA (37,715), OSV non-GHSA (23,801), Exploit-DB with PoC code (47,182), Linux kernel CNA (18,563), 37 vendor layers (Google/Chrome/Android, Linux, PHP, Apple, Microsoft, Mozilla, OpenSSL, Node.js, Apache, GitLab, …), Google Project Zero (258 posts + 0day ITW sheet + RCAs), ZDI (17,361 indexed), php-src/electron/WordPress repo advisories |
-| [hackerone/](hackerone/) + `data/h1` | **All 12,752 publicly disclosed HackerOne reports** in full (original report text + summaries + weakness/severity/bounty/CVE), indexed by weakness, program and bounty (see [hackerone/README.md](hackerone/README.md)) |
+| [cves/](cves/) + `data/cve`, `data/nvd`, `data/ghsa`, `data/osv`, `data/exploitdb`, `data/zdi` | **CVE / advisory / exploit layer** (see [cves/README.md](cves/README.md)): every CVE 1999–2026 from cvelistV5 (425,693), NVD enrichment (424,750), CISA KEV (1,781), GHSA (37,810), OSV non-GHSA (23,801), Exploit-DB with PoC code (47,182), Linux kernel CNA (18,563), 37 vendor layers (Google/Chrome/Android, Linux, PHP, Apple, Microsoft, Mozilla, OpenSSL, Node.js, Apache, GitLab, …), Google Project Zero (258 posts + 0day ITW sheet + RCAs), ZDI (17,361 advisories, all with full text), php-src/electron/WordPress repo advisories |
+| [hackerone/](hackerone/) + `data/h1` | **All 12,754 publicly disclosed HackerOne reports** in full (original report text + summaries + weakness/severity/bounty/CVE), indexed by weakness, program and bounty (see [hackerone/README.md](hackerone/README.md)) |
 
 Post timestamps in these files are converted from UTC to **Africa/Lagos (WAT, UTC+1)**.
 
@@ -134,6 +134,13 @@ X search cannot cover "the whole of X" in one pass. Many elite hunters never pos
 ## Harness
 
 See [`harness/`](harness/) — **2,374** findings (incl. 600 top HackerOne reports and 727 CISA-KEV CVEs 2023–2026, `source` field), [cve-index.md](harness/cve-index.md) (bug class → strongest CVE/H1/Exploit-DB/P0 examples), 29 `payloads/h1-*.md` files with 1,909 verbatim PoC snippets, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
+
+### 14 Nov 2026 daily highlights
+
+- X: 121 new watched-account posts captured. mdp_sec (Marius du Preez) disclosed a **$2,000 Bugcrowd IDOR** — an integration-linking flow returned another tenant's live auth header when he passed a foreign `link id`, walkable across tenants (cross-tenant credential takeover). He also published harness benchmark data: on 100 black-box hacking labs **Grok 4.6 (21 solves, $19/solve) beat Grok 4.7 (10, $75/solve)** and matched Opus 5; same model served via OpenRouter vs a first-party API roughly halved solve rate (quantized builds) — pin the provider. S1r1u5_ dissected the **Cursor/Fireworks** AI-infra supply-chain breach (un-redacted creds in agent traces → SaaS pivot → poisoned Claude Code extension on the marketplace CDN) and Project Zero's new **"Full X"** disclosure policy (no grace period; Full 90 → Full 60 in Feb 2027 → Full 30 in Jan 2028). saxenism: Gmail/Workspace silently blocks `.zip` PoC attachments to email-only bounty intake; PHP XOR-string WAF/filter bypass (reshared via garethheyes).
+- Telegram: @defendor_eng +4 (CertiK Arcus integer-overflow accounting, SlowMist Pennysia arbitrary-external-call approval drain, Certora Sui audit guide, Alex Filippov non-dup methodology); @dailybountywriteup +2 link digests. **+190 writeups fetched** today (150 HackerOne reports for @dailybountywriteup → 598 total; 40 for @defendor_eng → 110 total).
+- CVEs: cvelistV5 delta merged — **736 new** + 1,855 updated (Microsoft Patch-Tuesday batch ~1,095, Android 116, WordPress 109, Google 103, Fortinet 32, Intel 27, PHP 16). GHSA reviewed +43 (now 37,810). CISA KEV → 2026.11.13 (1,781; +UnrealIRCd CVE-2026-114713 and Check Point CVE-2026-123039). **ZDI backfill finished**: all 17,361 advisories now carry full text (was 7,067). Linux-kernel vulns.git pulled (head 84a53c8).
+- HackerOne: +2 newly disclosed — Basecamp cross-account **stored XSS → persistent admin takeover** (CVSS 8.7 High; Lexxy HTML normalization + Turbo nonce reuse) and PortSwigger Burp Community **OpenAPI `$id` rebasing local-file read** ($1,000). Projects: Ethereum +1 (erigon data race), crypto +2 (russh RustSec).
 
 ### 13 Nov 2026 daily highlights
 

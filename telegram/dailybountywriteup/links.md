@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12879**
+Total distinct URLs: **12890**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12885,3 +12885,14 @@ Total distinct URLs: **12879**
 | [14980](https://t.me/dailybountywriteup/14980) | 2026-11-12 09:43:14 | Unauthenticated Access to Dinas Pendidikan Provinsi Jawa Barat Exposes 7,481 Visitor Records | https://medium.com/@augustkevinsanjaya/unauthenticated-access-to-dinas-pendidikan-provinsi-jawa-barat-exposes-7-481-visitor-records-66ebfcca53bb |
 | [14980](https://t.me/dailybountywriteup/14980) | 2026-11-12 09:43:14 | How I Chained a Stale CNAME Record with OAuth 2.0 Wildcards for a $6,000 Account Takeover (ATO) | https://medium.com/@t4nv1/how-i-chained-a-stale-cname-record-with-oauth-2-0-wildcards-for-a-6-000-account-takeover-ato-ae22541d86dc |
 | [14981](https://t.me/dailybountywriteup/14981) | 2026-11-12 09:43:22 | AI Voice Cloning Attacks: How to Build a Deepfake Vishing Lab and Defend Against It - SecurityCipher | https://securitycipher.com/2026/11/12/ai-voice-cloning-attacks-deepfake-vishing-lab |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | Broken Access Control Missing Server-Side Authorization Allows Member to Access Billing Data and… | https://medium.com/@silent_hunter_/broken-access-control-missing-server-side-authorization-allows-member-to-access-billing-data-and-b75a1569013f |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | Race Conditions | https://osintteam.blog/race-conditions-how-a-0-3-second-window-gave-hackers-full-account-takeover-6e98ea55ca32 |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | The Unsigned Form Field That Ran Code on PayPal | https://masimshahzad.medium.com/the-unsigned-form-field-that-ran-code-on-paypal-d95d6bba567d |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | One Missing Anchor, One Flickr XSS | https://masimshahzad.medium.com/one-missing-anchor-one-flickr-xss-5c633acf1011 |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | The Phone Number That Unlocked Any Tinder Account | https://masimshahzad.medium.com/the-phone-number-that-unlocked-any-tinder-account-cf489246d335 |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | A 438KB Request Killed the Vulnerable PHP Build. The Patched One Parsed It in 56MB. | https://medium.com/codetodeploy/a-438kb-request-killed-the-vulnerable-php-build-the-patched-one-parsed-it-in-56mb-0a1c70f5d43b |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | The Requests You Didn’t Send | https://medium.com/@vigneshkumaroffsec/the-requests-you-didnt-send-finding-ssrf-and-csrf-by-hand-c2f208f114ab |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | I Almost Didn’t Report This XSS. The Maintainer Fixed More Than I Asked. | https://medium.com/@jegannithi778/i-almost-didnt-report-this-xss-the-maintainer-fixed-more-than-i-asked-61733ed1869f |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | White Pixels, Big Problems | https://medium.com/@prabaswaradaffa2/white-pixels-big-problems-an-image-decompression-bomb-case-study-b832b442f2de |
+| [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | The Bouncer Who Waved Everyone In When the Scanner Broke | https://medium.com/@t4nv1/the-bouncer-who-waved-everyone-in-when-the-scanner-broke-a-3-500-gitlab-ssrf-ceea809cb849 |
+| [14983](https://t.me/dailybountywriteup/14983) | 2026-11-13 09:35:37 | GitHub Actions Secret Stealer (wfx): Hunt, Rotate, Harden - SecurityCipher | https://securitycipher.com/2026/11/12/github-actions-secret-stealer-wfx |

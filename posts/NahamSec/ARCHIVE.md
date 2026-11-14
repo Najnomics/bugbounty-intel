@@ -1,11 +1,34 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1168
-- Conversations/threads: 992
+- Posts in this file: 1169
+- Conversations/threads: 993
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Post · .@monkehack  is coming to NahamCon with “Weird Ways to Hack Gemini.”
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-13 14:21 UTC (2026-11-13 15:21 WAT)
+
+- URL: https://x.com/NahamSec/status/2121246957616390355
+- Metrics (at fetch): bookmark 3, impression 3536, like 27, quote 0, reply 2, retweet 5
+
+> .@monkehack  is coming to NahamCon with “Weird Ways to Hack Gemini.”
+>
+> Ciarán is a bug bounty hunter, and I’m curious to see what made these hacks get labed as "weird". 👀
+>
+> He takes the stage November 21 in Oakland. Watch the talk live from anywhere at https://t.co/u6oGdum6xB. https://t.co/ArgMRjy6fj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWzbbHOaQAA0PBw.jpg — no alt text provided by author
 
 
 ---

@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-13 (Africa/Lagos)",
+ "generated": "2026-11-14 (Africa/Lagos)",
  "note": "Markers for the daily incremental CVE run. See cves/README.md \"Daily incremental procedure\".",
  "sources": {
   "cvelistV5": {
    "status": "complete",
-   "records": 424957,
+   "records": 425693,
    "years": "1999-2026",
-   "max_dateUpdated": "2026-11-13T05:01:51.221Z",
+   "max_dateUpdated": "2026-11-14T04:58:22.783Z",
    "source": "https://github.com/CVEProject/cvelistV5 (release zip)",
    "incremental": "download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py",
-   "last_delta_applied": "2026-11-12 end_of_day + 2026-11-13 up to 0500Z (423 new, 1970 updated)"
+   "last_delta_applied": "2026-11-13 end_of_day + 2026-11-14 up to 0500Z (736 new, 1855 updated)"
   },
   "nvd": {
    "status": "complete",
@@ -21,15 +21,15 @@
   },
   "cisa_kev": {
    "status": "complete",
-   "catalogVersion": "2026.11.10",
-   "dateReleased": "2026-11-10T19:03:29.8375Z",
-   "count": 1779,
+   "catalogVersion": "2026.11.13",
+   "dateReleased": "2026-11-13T20:24:18.3008Z",
+   "count": 1781,
    "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
   },
   "ghsa": {
    "status": "complete",
-   "records": 37767,
-   "max_modified": "2026-11-13T01:09:54Z",
+   "records": 37810,
+   "max_modified": "2026-11-14T00:37:03Z",
    "source": "https://github.com/github/advisory-database (reviewed)",
    "incremental": "GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified"
   },
@@ -52,8 +52,8 @@
   "linux_kernel_cna": {
    "status": "complete",
    "records": 18563,
-   "vulns_git_head": "625c095b0b852f8b19d8d8eb68c8eac032e6706a",
-   "vulns_git_date": "2026-11-11T08:15:47-05:00",
+   "vulns_git_head": "84a53c896276bc79eb2c0b9864fc2a53afe270b8",
+   "vulns_git_date": "2026-11-13T09:17:21-05:00",
    "source": "https://git.kernel.org/pub/scm/linux/security/vulns.git",
    "incremental": "git -C /workspace/raw/kvulns pull; re-run tools/intel-pipeline/kernel_cna_build.py"
   },
@@ -64,18 +64,19 @@
    "source": "https://projectzero.google/ blog + 0day ITW sheet + 0days-in-the-wild RCAs"
   },
   "zdi": {
-   "status": "pending",
+   "status": "complete",
    "advisories_indexed": 17361,
-   "full_text_pages": 7067,
-   "cursor": "fetch https://www.zerodayinitiative.com/advisories/<ZDI-ID>/ for every id in data/zdi/*.jsonl whose \"text\" is null (status \"page not yet fetched\"); raw pages cached in /workspace/raw/zdi/pages; then re-run tools/intel-pipeline/zdi_build.py",
-   "incremental": "https://www.zerodayinitiative.com/advisories/published/<year>/ table"
+   "full_text_pages": 17361,
+   "incremental": "https://www.zerodayinitiative.com/advisories/published/<year>/ table",
+   "note": "all 17,361 indexed advisories now have full text (completed 2026-11-14); incremental = current-year published table only"
   },
   "repo_advisories": {
    "status": "complete",
    "php_src": 66,
    "electron": 70,
    "wordpress_develop": 54,
-   "incremental": "GitHub REST GET /repos/<owner>/<repo>/security-advisories?state=published"
+   "incremental": "GitHub REST GET /repos/<owner>/<repo>/security-advisories?state=published",
+   "note": "ethereum +1 (erigon GHSA-4c6q-hpx8-75wm data race, 2026-11-13); crypto +2 russh RustSec advisories"
   }
  }
 }

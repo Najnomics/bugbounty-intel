@@ -1,11 +1,32 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-13 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 47
-- Conversations/threads: 30
+- Posts in this file: 48
+- Conversations/threads: 31
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-13
+
+
+---
+
+## 2026-11-13 · Post · A man can destroy his life with just three things:
+
+
+### Post — @Swartz068 — 2026-11-13 16:06 UTC (2026-11-13 17:06 WAT)
+
+- URL: https://x.com/Swartz068/status/2121273589966201000
+- Metrics (at fetch): bookmark 0, impression 41, like 0, quote 0, reply 0, retweet 0
+
+> A man can destroy his life with just three things:
+>
+> 1. Liquor 🍺
+> 2. Ladies ❤️
+> 3. Leverage in Trading 📉
+>
+> Control your addictions before they control you. 💀
+>
+> #Liquor #Ladies #Trading #Leverage #RiskManagement #Discipline #Mindset
 
 
 ---
