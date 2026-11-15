@@ -4,6 +4,14 @@ Everything consulted while building this knowledge base. **Consulted** dates are
 
 X data came from the public-read `x` MCP tools (`get_users_by_usernames`, `get_posts_by_ids`, `get_users_posts`, `search_posts_all`). Web pages were fetched or summarized via WebSearch / WebFetch. No posts were liked, reposted, or replied to.
 
+## Daily update — 15 November 2026 (Africa/Lagos)
+
+- **X:** Full-archive search of 89 watched handles since 2026-11-14T05:46:20Z. ~93 new posts ingested into `store.json` / `data/x_posts.jsonl`; 27 security-relevant verbatim files written under `posts/` (heavy @mdp_sec day: guest-upload RCE, widget-config XSS, sequential-IDOR SSN, mobile hardcoded key; plus AI-harness methodology). ARCHIVEs regenerated. Backfill: pass-5 cursors remain DONE; `iguardz` has 0 tweets; `GuidoVranken` full-archive search returned 0 (account has tweets but none indexed to search).
+- **Telegram:** @defendor_eng +4 (ids 2342–2345; Pool Party $215K position-edit drain, Centrifuge V3.3 cross-pool manager, Cantina attack-cost note); @dailybountywriteup +1 (id 14984). Writeup backlog: +60 defendor fetches this run; substantial dailybounty H1 `.json` batch (reconcile after hung fetch killed).
+- **HackerOne:** +1 disclosed — [#4081135](hackerone/reports/2026/4081135.md) Weblate critical privilege escalation via unfiltered role restoration in project backup import (reporter zukosdead).
+- **CVE:** cvelistV5 delta 2026-11-14 0600Z→2026-11-15 0500Z — **75 new / 24 updated** (records 425768; max_dateUpdated 2026-11-15T03:15:17Z). KEV catalogVersion unchanged 2026.11.13. GHSA reviewed: 0 modified since 2026-11-14T00:37:03Z. NVD enrichment shards updated for touched years.
+- **Projects:** No new Zcash/Ethereum/Solana advisories beyond CVE/GHSA stream. zkSecurity newsletter saved under `writeups/zksecurityXYZ/newsletter-2026-11-14.md`. mdpsec.com still has no public report listing.
+
 ## X user lookups
 
 | Handle | User id | Account created (UTC as returned) | Notes |

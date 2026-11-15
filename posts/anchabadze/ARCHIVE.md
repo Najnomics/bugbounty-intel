@@ -1,11 +1,67 @@
 # @anchabadze — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 463
-- Conversations/threads: 457
+- Posts in this file: 464
+- Conversations/threads: 458
 - Oldest post captured: 2025-02-05
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Post · 🎯 Day 566 of my RoadToWeb3SecurityJobChallenge
+
+
+### Post — @anchabadze — 2026-11-14 23:58 UTC (2026-11-15 00:58 WAT)
+
+- URL: https://x.com/anchabadze/status/2121754721409241306
+- Metrics (at fetch): bookmark 0, impression 39, like 2, quote 0, reply 0, retweet 0
+
+> 🎯 Day 566 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 1 hours 30 min
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Public audit https://t.co/KCTZc1R0Xv
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-11-13 23:57 UTC (2026-11-14 00:57 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2121392123123741141
+    - Metrics (at fetch): bookmark 0, impression 84, like 2, quote 0, reply 0, retweet 0
+    
+    > 🎯 Day 565 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 6 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Public audit
+    > - Building AI Agent for smart contract audits
+    > - Read and studied several post-mortems https://twitter.com/anchabadze/status/2121019401801773484
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2121019401801773484
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-11-12 23:16 UTC (2026-11-13 00:16 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2121019401801773484
+        - Metrics (at fetch): bookmark 0, impression 212, like 5, quote 1, reply 0, retweet 0
+        
+        > 🎯 Day 564 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 3 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Public audit https://twitter.com/anchabadze/status/2120853022746272151
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2120853022746272151
+        
+        **Quoted post** 2120853022746272151: not readable via the API (deleted, private, or withheld).
+        
+    
 
 
 ---

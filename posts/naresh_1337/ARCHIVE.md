@@ -1,11 +1,40 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 40
+- Posts in this file: 72
+- Conversations/threads: 41
 - Oldest post captured: 2026-05-22
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Reply · @Valistheaeth Dam bro !
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1473075684 — 2026-11-14 07:23 UTC (2026-11-14 08:23 WAT)
+
+- URL: https://x.com/1473075684/status/2121504286853226522
+- Metrics (at fetch): bookmark 2, impression 1036, like 25, quote 0, reply 4, retweet 0
+
+> Update !! https://t.co/0yX7DXDeiF https://t.co/1xs08s36Xk
+
+**Media:**
+- media `3_2121504214786379776` (details not returned by the API)
+
+**Quoted post** 2120854547606409697: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @naresh_1337 — 2026-11-14 07:33 UTC (2026-11-14 08:33 WAT)
+
+- URL: https://x.com/naresh_1337/status/2121506855784775752
+- Metrics (at fetch): bookmark 0, impression 90, like 1, quote 0, reply 0, retweet 0
+
+> @Valistheaeth Dam bro !
+>  You took this too serious! I like the energy keep going 👾🚀🚀
 
 
 ---

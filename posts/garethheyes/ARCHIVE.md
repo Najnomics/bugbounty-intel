@@ -1,11 +1,34 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 557
-- Conversations/threads: 499
+- Posts in this file: 558
+- Conversations/threads: 500
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Reply · @abhiunix Please do thanks
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2944169808 — 2026-11-13 17:02 UTC (2026-11-13 18:02 WAT)
+
+- URL: https://x.com/2944169808/status/2121287484038680830
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 1, retweet 0
+
+> @garethheyes makes sense 👌 gonna try targeted mode on a few login forms with stacked hidden inputs, will ping you if the + sibling trips
+
+
+### Post — @garethheyes — 2026-11-14 08:13 UTC (2026-11-14 09:13 WAT)
+
+- URL: https://x.com/garethheyes/status/2121516945023635787
+- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 0, retweet 0
+
+> @abhiunix Please do thanks
 
 
 ---

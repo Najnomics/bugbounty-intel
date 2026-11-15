@@ -1,37 +1,39 @@
 {
- "generated": "2026-11-14 (Africa/Lagos)",
+ "generated": "2026-11-15 (Africa/Lagos)",
  "note": "Markers for the daily incremental CVE run. See cves/README.md \"Daily incremental procedure\".",
  "sources": {
   "cvelistV5": {
    "status": "complete",
-   "records": 425693,
+   "records": 425768,
    "years": "1999-2026",
-   "max_dateUpdated": "2026-11-14T04:58:22.783Z",
+   "max_dateUpdated": "2026-11-15T03:15:17.488Z",
    "source": "https://github.com/CVEProject/cvelistV5 (release zip)",
    "incremental": "download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py",
-   "last_delta_applied": "2026-11-13 end_of_day + 2026-11-14 up to 0500Z (736 new, 1855 updated)"
+   "last_delta_applied": "2026-11-14 0600Z..2026-11-15 0500Z hourly deltas + 2026-11-14 end_of_day (75 new, 24 updated)"
   },
   "nvd": {
    "status": "complete",
-   "records": 424750,
-   "max_lastModified": "2026-11-12T15:18:06.640",
-   "api_timestamp": "2026-11-12T15:29:41.262",
+   "records": 425770,
+   "max_lastModified": "2026-11-15T04:16:45.263",
+   "api_timestamp": "2026-11-15T05:46:33.165",
    "incremental": "GET https://services.nvd.nist.gov/rest/json/cves/2.0?lastModStartDate=<max_lastModified>&lastModEndDate=<now> (max 120-day window, 2000/page, sleep 6s), then tools/intel-pipeline/nvd_build.py",
-   "note": "enrichment not refreshed on 2026-11-13 run; new cvelist records lack NVD analysis until NVD processes them"
+   "note": "refreshed 2026-11-15 (lastMod since 2026-11-12T15:18Z: 1020 new, 2703 updated)"
   },
   "cisa_kev": {
    "status": "complete",
    "catalogVersion": "2026.11.13",
    "dateReleased": "2026-11-13T20:24:18.3008Z",
    "count": 1781,
-   "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+   "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+   "note": "2026-11-15: refetched, catalogVersion unchanged (2026.11.13)"
   },
   "ghsa": {
    "status": "complete",
    "records": 37810,
    "max_modified": "2026-11-14T00:37:03Z",
    "source": "https://github.com/github/advisory-database (reviewed)",
-   "incremental": "GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified"
+   "incremental": "GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified",
+   "note": "2026-11-15: advisory-database pulled to 2026-11-15T03:35Z; 0 reviewed advisories modified since max_modified"
   },
   "osv_non_ghsa": {
    "status": "complete",

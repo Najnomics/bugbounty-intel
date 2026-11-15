@@ -1,11 +1,654 @@
 # @mdp_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 717
-- Conversations/threads: 558
+- Posts in this file: 793
+- Conversations/threads: 592
 - Oldest post captured: 2026-07-22
-- Newest post captured: 2026-11-14
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Reply · @C2IRIS nice. now if only it stopped refusing cyber work
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1876743057087053824 — 2026-11-15 03:47 UTC (2026-11-15 04:47 WAT)
+
+- URL: https://x.com/1876743057087053824/status/2121812274427965803
+- Metrics (at fetch): not returned
+
+> Opus 5.5 is the first model that can do a good job programming CUDA kernels from scratch, imo
+
+
+### Post — @mdp_sec — 2026-11-15 05:31 UTC (2026-11-15 06:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121838383253389798
+- Metrics (at fetch): not returned
+
+> @C2IRIS nice. now if only it stopped refusing cyber work
+
+
+---
+
+## 2026-11-15 · Thread · i dont hunt at all anymore. ai does all of it, no guiding or steering from me
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-15 04:10 UTC (2026-11-15 05:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121817970381094966
+- Metrics (at fetch): not returned
+
+> i dont hunt at all anymore. ai does all of it, no guiding or steering from me
+>
+> what i actually build is the system around it. the prompts, the helpers, a rag-style knowledge setup
+> i go direct to the provider api
+>
+> i dont touch the targets until theres a report to look at
+
+
+### Thread part 2 — @mdp_sec — 2026-11-15 05:29 UTC (2026-11-15 06:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121837930943746445
+- Metrics (at fetch): not returned
+
+> @zangi_owner prompts are free on https://github.com/mdpsec/bug-bounty-hunting-prompts. helpers and rag stay private
+
+**Links in post:** https://github.com/mdpsec/bug-bounty-hunting-prompts
+
+
+### Thread part 3 — @mdp_sec — 2026-11-15 05:30 UTC (2026-11-15 06:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121838172397269420
+- Metrics (at fetch): not returned
+
+> @amiateapot boring pays tho
+
+
+---
+
+## 2026-11-15 · Thread · Going from like 80t/s to like 200t/s is legit like going from dialup to fibre....
+
+
+### Post — @mdp_sec — 2026-11-15 04:35 UTC (2026-11-15 05:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121824387506844143
+- Metrics (at fetch): not returned
+
+> Going from like 80t/s to like 200t/s is legit like going from dialup to fibre....
+>
+> Holy shit
+
+
+### Thread part 2 — @mdp_sec — 2026-11-15 05:28 UTC (2026-11-15 06:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121837646104469875
+- Metrics (at fetch): not returned
+
+> @SiCedricXD nah, direct from the provider api
+
+
+---
+
+## 2026-11-15 · Reply · @Sai_velde @Bugcrowd lookin fresh fam
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1308728769918586885 — 2026-11-14 19:07 UTC (2026-11-14 20:07 WAT)
+
+- URL: https://x.com/1308728769918586885/status/2121681527151239224
+- Metrics (at fetch): not returned
+
+> P1 Warrior Swag from @Bugcrowd
+> 🔥
+> #Bugcrowd #P1Warrior #BugBounty #InfoSec [pic.x.com/KXcJKPkl8U]
+
+**Media:**
+- media `3_2121681517944659968` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-15 05:00 UTC (2026-11-15 06:00 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121830615695937934
+- Metrics (at fetch): not returned
+
+> @Sai_velde @Bugcrowd lookin fresh fam
+
+
+---
+
+## 2026-11-15 · Reply · @af4himi @Bugcrowd beast, earned that
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1099184681541689344 — 2026-11-14 13:27 UTC (2026-11-14 14:27 WAT)
+
+- URL: https://x.com/1099184681541689344/status/2121595960338092336
+- Metrics (at fetch): not returned
+
+> A little recognition for the battles behind the scenes. 🧤
+> P1 Warrior Gloves from @Bugcrowd !
+> Every critical finding comes with hours of research, persistence, and dedication. It's great to see that effort recognized.
+> Proud to be part of the P1 Warrior community. 🔥🦾
+> #BugBounty [pic.x.com/IsV6Tan0Xm]
+
+**Media:**
+- media `3_2121595465367973888` (details not returned by the API)
+- media `3_2121595466768916480` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-15 04:59 UTC (2026-11-15 05:59 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121830349068279898
+- Metrics (at fetch): not returned
+
+> @af4himi @Bugcrowd beast, earned that
+
+
+---
+
+## 2026-11-15 · Reply · @fattselimi @badcrack3r @intigriti filthy. keep em coming
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @985702482411180033 — 2026-11-14 07:10 UTC (2026-11-14 08:10 WAT)
+
+- URL: https://x.com/985702482411180033/status/2121501078357213323
+- Metrics (at fetch): not returned
+
+> Happy Weekend with a Triaged Critical Severity issue collaboration between me and @badcrack3r in @intigriti Bug Bounty Platform💯🫡 [pic.x.com/Na1kQ1Idda]
+
+**Media:**
+- media `3_2121501072632008704` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-15 04:58 UTC (2026-11-15 05:58 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121830064501457365
+- Metrics (at fetch): not returned
+
+> @fattselimi @badcrack3r @intigriti filthy. keep em coming
+
+
+---
+
+## 2026-11-15 · Thread · @ArmanSameer95 For when it doesn't refuse its banger. I can say it has been massive in improving my 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1079094475534696448 — 2026-11-15 04:31 UTC (2026-11-15 05:31 WAT)
+
+- URL: https://x.com/1079094475534696448/status/2121823275047133689
+- Metrics (at fetch): not returned
+
+> I love mythos.
+
+
+### Post — @mdp_sec — 2026-11-15 04:32 UTC (2026-11-15 05:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121823728250306617
+- Metrics (at fetch): not returned
+
+> @ArmanSameer95 For when it doesn't refuse its banger. I can say it has been massive in improving my rag with shit I never knew existed
+
+
+### Thread part 2 — @mdp_sec — 2026-11-15 04:36 UTC (2026-11-15 05:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121824617224622508
+- Metrics (at fetch): not returned
+
+> @ArmanSameer95 Yeah only on defence so get smashed with refusals but creative ways to get around that fortunately for it to give nudges to subagentd
+
+
+---
+
+## 2026-11-15 · Reply · @vortexau And without a contract signed.... well its a fun lawsuit hah
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @11012222 — 2026-11-15 04:24 UTC (2026-11-15 05:24 WAT)
+
+- URL: https://x.com/11012222/status/2121821528379805704
+- Metrics (at fetch): not returned
+
+> This is called a pentest. https://twitter.com/0xlupin/status/2121761198278595026
+
+**Links in post:** https://twitter.com/0xlupin/status/2121761198278595026
+
+**Quoted post** 2121761198278595026: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-15 04:33 UTC (2026-11-15 05:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121823911541354922
+- Metrics (at fetch): not returned
+
+> @vortexau And without a contract signed.... well its a fun lawsuit hah
+
+
+---
+
+## 2026-11-15 · Reply · @pedrib1337 @m4rio_eth ds is on 21/100 there rn, 1 behind opus 5. nowhere near god tier
+
+
+**Context — post being replied to:**
+
+#### Parent post — @730386861890375680 — 2026-11-15 03:13 UTC (2026-11-15 04:13 WAT)
+
+- URL: https://x.com/730386861890375680/status/2121803720036127018
+- Metrics (at fetch): not returned
+
+> @m4rio_eth CC @mdp_sec and his black box bench; which is not open source, so models can't be benchmaxxed on, a common accusation (and probably reality) for Chinese models
+
+
+### Post — @mdp_sec — 2026-11-15 03:42 UTC (2026-11-15 04:42 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121810951729275379
+- Metrics (at fetch): not returned
+
+> @pedrib1337 @m4rio_eth ds is on 21/100 there rn, 1 behind opus 5. nowhere near god tier
+
+
+---
+
+## 2026-11-15 · Post · manners still pay off with these things
+
+
+### Post — @mdp_sec — 2026-11-15 03:40 UTC (2026-11-15 04:40 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121810535159308573
+- Metrics (at fetch): not returned
+
+> manners still pay off with these things
+
+
+---
+
+## 2026-11-14 · Thread · been testing deepseek across a bunch of different provider routes
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @mdp_sec — 2026-11-14 00:36 UTC (2026-11-14 01:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121401913929323004
+- Metrics (at fetch): bookmark 9, impression 2141, like 52, quote 0, reply 19, retweet 1
+
+> been testing deepseek across a bunch of different provider routes
+>
+> same model name, same tasks, and the results are not even close. honestly amazing how much slop is out there
+>
+> not naming anyone yet. full results next week. if you've got a deepseek provider you want tested, drop it below and it might make the list
+
+
+### Thread part 2 — @mdp_sec — 2026-11-14 05:35 UTC (2026-11-14 06:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121477148963946670
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, retweet 0
+
+> @TekonBurns compared them all, that's why i'm direct only now
+
+
+### Thread part 3 — @mdp_sec — 2026-11-14 19:48 UTC (2026-11-14 20:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121691869428191390
+- Metrics (at fetch): not returned
+
+> @cybersec that's why i go direct to the provider's api now
+
+
+### Thread part 4 — @mdp_sec — 2026-11-14 19:51 UTC (2026-11-14 20:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121692440004583434
+- Metrics (at fetch): not returned
+
+> @inspector_amb ooft. i go direct to the provider's api now
+
+
+### Thread part 5 — @mdp_sec — 2026-11-15 01:01 UTC (2026-11-15 02:01 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121770522447102336
+- Metrics (at fetch): not returned
+
+> @AimedGuendouz appreciate it
+
+
+### Thread part 6 — @mdp_sec — 2026-11-15 01:02 UTC (2026-11-15 02:02 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121770800302952451
+- Metrics (at fetch): not returned
+
+> @gkdataio nah, i go direct to the provider's api
+
+
+### Thread part 7 — @mdp_sec — 2026-11-15 01:03 UTC (2026-11-15 02:03 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121771066549027212
+- Metrics (at fetch): not returned
+
+> @yosif_qasim legend, ta
+
+
+### Thread part 8 — @mdp_sec — 2026-11-15 01:04 UTC (2026-11-15 02:04 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121771338377597322
+- Metrics (at fetch): not returned
+
+> @alpernae dropping it next week
+
+
+### Thread part 9 — @mdp_sec — 2026-11-15 01:05 UTC (2026-11-15 02:05 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121771621660893404
+- Metrics (at fetch): not returned
+
+> @jimmycooked888 good. run ur own too
+
+
+### Thread part 10 — @mdp_sec — 2026-11-15 01:06 UTC (2026-11-15 02:06 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121771888322171082
+- Metrics (at fetch): not returned
+
+> @0xb4dg0d got it
+
+
+### Thread part 11 — @mdp_sec — 2026-11-15 01:07 UTC (2026-11-15 02:07 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121772165666370022
+- Metrics (at fetch): not returned
+
+> @r3dm00n5090 good to hear
+
+
+### Thread part 12 — @mdp_sec — 2026-11-15 01:09 UTC (2026-11-15 02:09 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121772450031775774
+- Metrics (at fetch): not returned
+
+> @_r3verse_ this one's hosted routes, not local
+
+
+### Thread part 13 — @mdp_sec — 2026-11-15 01:10 UTC (2026-11-15 02:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121772722720215096
+- Metrics (at fetch): not returned
+
+> @alejandr0lector thx
+
+
+### Thread part 14 — @mdp_sec — 2026-11-15 01:11 UTC (2026-11-15 02:11 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121772990522441900
+- Metrics (at fetch): not returned
+
+> @_B13ss3d_ heard
+
+
+### Thread part 15 — @mdp_sec — 2026-11-15 01:12 UTC (2026-11-15 02:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121773276976566493
+- Metrics (at fetch): not returned
+
+> @MrNiceTry soon, once it's all done
+
+
+### Thread part 16 — @mdp_sec — 2026-11-15 01:13 UTC (2026-11-15 02:13 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121773551242076669
+- Metrics (at fetch): not returned
+
+> @pedrib1337 for sure
+
+
+### Thread part 17 — @mdp_sec — 2026-11-15 01:14 UTC (2026-11-15 02:14 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121773826627547233
+- Metrics (at fetch): not returned
+
+> @snyff yeah it's wild
+
+
+### Thread part 18 — @mdp_sec — 2026-11-15 01:15 UTC (2026-11-15 02:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121774101669064971
+- Metrics (at fetch): not returned
+
+> @0xmappy too cheap makes me nervous
+
+
+### Thread part 19 — @mdp_sec — 2026-11-15 01:16 UTC (2026-11-15 02:16 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121774377704595593
+- Metrics (at fetch): not returned
+
+> @s4dmach1ne noted on both
+
+
+### Thread part 20 — @mdp_sec — 2026-11-15 01:17 UTC (2026-11-15 02:17 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121774650455962082
+- Metrics (at fetch): not returned
+
+> @ktlaw69 ty mate
+
+
+### Thread part 21 — @mdp_sec — 2026-11-15 01:18 UTC (2026-11-15 02:18 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121774918975324199
+- Metrics (at fetch): not returned
+
+> @ErragraguiA nice one
+
+
+### Thread part 22 — @mdp_sec — 2026-11-15 02:39 UTC (2026-11-15 03:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121795111197843829
+- Metrics (at fetch): not returned
+
+> @0xmappy nice work testing it. i keep target stuff off anything i can't audit myself
+
+
+---
+
+## 2026-11-14 · Thread · most of a harness is just politely telling the model no, try again
+
+
+### Post — @mdp_sec — 2026-11-14 12:10 UTC (2026-11-14 13:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121576378235859101
+- Metrics (at fetch): not returned
+
+> most of a harness is just politely telling the model no, try again
+
+
+### Thread part 2 — @mdp_sec — 2026-11-14 19:53 UTC (2026-11-14 20:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121693012720001478
+- Metrics (at fetch): not returned
+
+> @andreluis_sec do it. then you can see what it does with your notes
+
+
+### Thread part 3 — @mdp_sec — 2026-11-15 00:50 UTC (2026-11-15 01:50 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121767730236059924
+- Metrics (at fetch): not returned
+
+> @ktlaw69 which one?
+
+
+### Thread part 4 — @mdp_sec — 2026-11-15 00:51 UTC (2026-11-15 01:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121768013691244561
+- Metrics (at fetch): not returned
+
+> @_mannumourya lol it's coming
+
+
+### Thread part 5 — @mdp_sec — 2026-11-15 02:37 UTC (2026-11-15 03:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121794813683257619
+- Metrics (at fetch): not returned
+
+> @jardimvmj do u run multiple passes or just retry til it sticks?
+
+
+---
+
+## 2026-11-15 · Reply · @Darkfibr3 i kill 99% of what it flags
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1600010602528792577 — 2026-11-15 00:34 UTC (2026-11-15 01:34 WAT)
+
+- URL: https://x.com/1600010602528792577/status/2121763688340209817
+- Metrics (at fetch): not returned
+
+> Teachable moment for everyone running agentic RE tools right now (and I mean that with love - we've all been this guy):
+>
+> This is a real disassembly of a real function. And it's not a backdoor. It's the username check.
+>
+> ARTEX is a single-user app and the username is literally "ARTEX" - it's in the README and on the login screen. In the binary, the compare-equal branch (len 5, "ARTE" LE, 5th byte 'X') jumps straight into GetSetting -> bcrypt.CompareHashAndPassword. The password is still verified against the stored hash. Nobody logs in with a master credential.
+>
+> And credit where it's due, because the tool got a lot RIGHT: it mapped the function cleanly, and it correctly ruled out covert credential exfiltration (UpsertTaskCredential is a plain local SQL upsert, no egress). That's real work, done right.
+>
+> Here's the lesson - the part that belongs to the human. The tool flagged its own uncertainty: "reachability under-approximates, indirect dispatch." That flag was the moment to cross-check the public source - one grep, no password == "ARTEX" anywhere in the repo - not the moment to go live with a CRITICAL.
+>
+> Agentic tools narrate the story that best fits the bytes. Same bytes, wrong story. The last 10% - source diff, reachability by hand - is the part that's still yours.  I'm not trying to shoot at you or dunk or any of that shit. 
+>
+> Oh - and the real backdoor is one function over. Captcha-field RCE: injected function, magic "!" prefix, decoy branch that fakes a captcha error. YARA, disassembly, hashes, all public:
+>
+> http://github.com/darkfibr/artex-forensics
+>
+> Slow is smooth. Verify before the CRITICAL.
+
+**Links in post:** https://twitter.com/oneandonlyhusam/status/2121727261208637802, http://github.com/darkfibr/artex-forensics
+
+**Quoted post** 2121727261208637802: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-15 01:32 UTC (2026-11-15 02:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121778245368713220
+- Metrics (at fetch): not returned
+
+> @Darkfibr3 i kill 99% of what it flags
+
+
+---
+
+## 2026-11-14 · Thread · changed one number in a request and read someone's full social security number. critical, and a dupe
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-14 10:10 UTC (2026-11-14 11:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121546179360276882
+- Metrics (at fetch): not returned
+
+> changed one number in a request and read someone's full social security number. critical, and a dupe by 25 days.
+>
+> resident portal, people submit applications, each one has a plain sequential number.
+>
+> 1. logged-out get on an application by number returned the record, ssn masked.
+> 2. sent the same values to the update route. it echoes the record back, full ssn unmasked.
+> 3. counted the number up and down, kept getting other people's applications. full ssns, dobs, addresses.
+>
+> no login needed for any of it.
+>
+> masked on the read, full on the update route. check what the write path hands back
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXDBq2gasAAw0Pn.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-15 00:52 UTC (2026-11-15 01:52 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121768299143000530
+- Metrics (at fetch): not returned
+
+> @mr_mathiasj triage is drowning in reports, that's most of it
+
+
+### Thread part 3 — @mdp_sec — 2026-11-15 00:53 UTC (2026-11-15 01:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121768593126006960
+- Metrics (at fetch): not returned
+
+> @srontoji forgeable login token. no password, no otp, no click
+
+
+### Thread part 4 — @mdp_sec — 2026-11-15 00:54 UTC (2026-11-15 01:54 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121768881274687955
+- Metrics (at fetch): not returned
+
+> @Gilang657022465 ai does all the hunting tbh, i just build what it needs
+
+
+### Thread part 5 — @mdp_sec — 2026-11-15 01:31 UTC (2026-11-15 02:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121778009531408569
+- Metrics (at fetch): not returned
+
+> @mr_mathiasj yep, this one already sat there 25 days before i found it
+
+
+---
+
+## 2026-11-15 · Reply · @zhero___ @Bugcrowd rough one. hope u get a second look
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1175555263610404865 — 2026-11-14 23:51 UTC (2026-11-15 00:51 WAT)
+
+- URL: https://x.com/1175555263610404865/status/2121752973415965108
+- Metrics (at fetch): not returned
+
+> average experience on @Bugcrowd;
+>
+> &gt; Analysts compulsively mark anything that exceeds their level of understanding as "Not applicable"
+> &gt; The platform is imposing limits based on its analysts' decisions
+> &gt; I can no longer work properly [pic.x.com/19Rg7RysnG]
+
+**Media:**
+- media `3_2121747012202729472` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-15 01:20 UTC (2026-11-15 02:20 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121775211158868370
+- Metrics (at fetch): not returned
+
+> @zhero___ @Bugcrowd rough one. hope u get a second look
 
 
 ---
@@ -38,6 +681,778 @@ _Generated 2026-11-14 from the X API (full-archive search + timeline). Every pos
 - Metrics (at fetch): bookmark 0, impression 2, like 0, quote 0, reply 0, retweet 0
 
 > @_smile_hacker_ Do ittt
+
+
+### Thread part 4 — @mdp_sec — 2026-11-15 00:58 UTC (2026-11-15 01:58 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121769710719324227
+- Metrics (at fetch): not returned
+
+> @FCYRL cheers fam
+
+
+### Thread part 5 — @mdp_sec — 2026-11-15 00:59 UTC (2026-11-15 01:59 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121769983994982777
+- Metrics (at fetch): not returned
+
+> @Iam__Patrick__ beats it collecting dust
+
+
+### Thread part 6 — @mdp_sec — 2026-11-15 01:00 UTC (2026-11-15 02:00 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121770250631106643
+- Metrics (at fetch): not returned
+
+> @JxyceDang kids won't let it rest
+
+
+---
+
+## 2026-11-14 · Thread · asked how long ur bounty sat before it paid out. 28 real answers
+
+
+### Post — @mdp_sec — 2026-11-14 06:10 UTC (2026-11-14 07:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121485781256872261
+- Metrics (at fetch): bookmark 4, impression 1589, like 40, quote 0, reply 2, retweet 0
+
+> asked how long ur bounty sat before it paid out. 28 real answers
+>
+> shortest 45 days
+> middle about 6 months
+> 6 of u said a year or more
+> longest 2+ years with no reply at all
+>
+> at least 9 are still waiting right now https://t.co/qG8HvUpcFx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXDCGbnbcAAtStW.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-15 00:57 UTC (2026-11-15 01:57 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121769436587929661
+- Metrics (at fetch): not returned
+
+> @Vikramaditya_V1 yeah don't quit ur day job for it
+
+
+---
+
+## 2026-11-14 · Thread · pulled a mobile app apart and found a hardcoded key sitting in it
+
+
+### Post — @mdp_sec — 2026-11-14 08:10 UTC (2026-11-14 09:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121515980211785729
+- Metrics (at fetch): bookmark 9, impression 1766, like 42, quote 0, reply 2, retweet 0
+
+> pulled a mobile app apart and found a hardcoded key sitting in it
+>
+> that key decrypted a config blob the app fetches on startup
+> out came a production private key that should never have left a server
+>
+> same key ships to every install, so rotating it changes nothing
+
+
+### Thread part 2 — @mdp_sec — 2026-11-15 00:56 UTC (2026-11-15 01:56 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121769158421746074
+- Metrics (at fetch): not returned
+
+> @Rootxkraken17 can't share where on that one sorry
+
+
+---
+
+## 2026-11-14 · Thread · uploaded a file as a guest and the server ran it as the app user
+
+
+### Post — @mdp_sec — 2026-11-14 22:10 UTC (2026-11-14 23:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121727373498257576
+- Metrics (at fetch): not returned
+
+> uploaded a file as a guest and the server ran it as the app user
+>
+> the upload only looked at the first few bytes, so i gave it a valid header and the filename i wanted
+> that file was a config that told the server to treat another upload in the same folder as code
+>
+> uploaded the code, requested the path, and it executed. no login on any of it
+
+
+### Thread part 2 — @mdp_sec — 2026-11-15 00:48 UTC (2026-11-15 01:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121767354640297993
+- Metrics (at fetch): not returned
+
+> @SicanianSun yup, would've saved them
+
+
+---
+
+## 2026-11-14 · Reply · @hetmehtaa enforce scope at the proxy, not in the prompt
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @902727532255916033 — 2026-11-14 21:48 UTC (2026-11-14 22:48 WAT)
+
+- URL: https://x.com/902727532255916033/status/2121721904889508136
+- Metrics (at fetch): not returned
+
+> The hard part of an AI pentester isn't finding the bug. It's knowing when to stop and say "this would break production, ask a human." 
+>
+> Every incident this year is an agent that didn't stop.
+
+
+### Post — @mdp_sec — 2026-11-14 22:32 UTC (2026-11-14 23:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121733132487737398
+- Metrics (at fetch): not returned
+
+> @hetmehtaa enforce scope at the proxy, not in the prompt
+
+
+---
+
+## 2026-11-14 · Reply · @ryanaraine @brucedang @calif_io @juanandres_gs @craiu @wearetlpblack scary for vendors. great time 
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @8236572 — 2026-11-14 20:46 UTC (2026-11-14 21:46 WAT)
+
+- URL: https://x.com/8236572/status/2121706449273516427
+- Metrics (at fetch): not returned
+
+> Calif's Bruce Dang on the scary, impressive power of AI writing exploits from a simple prompt  @brucedang 
+>
+> Full show https://youtu.be/Jm4zCExaPYQ?si=0Xq8tjtq44uaPdeY [pic.x.com/aPWHobaBZJ] https://twitter.com/ryanaraine/status/2121347082875502673
+
+**Media:**
+- media `13_2121705856924557312` (details not returned by the API)
+
+**Links in post:** https://youtu.be/Jm4zCExaPYQ?si=0Xq8tjtq44uaPdeY, https://twitter.com/ryanaraine/status/2121347082875502673
+
+**Quoted post** 2121347082875502673: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-14 21:34 UTC (2026-11-14 22:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121718414280671500
+- Metrics (at fetch): not returned
+
+> @ryanaraine @brucedang @calif_io @juanandres_gs @craiu @wearetlpblack scary for vendors. great time to be a hunter
+
+
+---
+
+## 2026-11-14 · Reply · @ha3ks build your own. the prompts and what it reads from are the hard part
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @95965589 — 2026-11-14 12:34 UTC (2026-11-14 13:34 WAT)
+
+- URL: https://x.com/95965589/status/2121582466150674640
+- Metrics (at fetch): not returned
+
+> Our lead pentester was showing my Burps AI features yesterday, literally a couple of taps and it found an IDOR.
+>
+> I was shocked.
+>
+> Then he told me its $250 per month ON TOP of your normal Burp Pro licence....
+>
+> 🤯🤯🤯💀
+
+
+### Post — @mdp_sec — 2026-11-14 20:15 UTC (2026-11-14 21:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121698522043129940
+- Metrics (at fetch): not returned
+
+> @ha3ks build your own. the prompts and what it reads from are the hard part
+
+
+---
+
+## 2026-11-14 · Reply · @nitin_builds then do it again with uuids. half the time another endpoint leaks them
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1383688245662212096 — 2026-11-14 11:28 UTC (2026-11-14 12:28 WAT)
+
+- URL: https://x.com/1383688245662212096/status/2121565914193957246
+- Metrics (at fetch): not returned
+
+> Test your own app for IDOR in 30 seconds:
+>
+> Open a page like /orders/123. Change the number to 124.
+> If you see someone else’s data, you have a serious bug. And AI generated code skips this check more often than you’d think.
+
+
+### Post — @mdp_sec — 2026-11-14 20:14 UTC (2026-11-14 21:14 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121698263489548479
+- Metrics (at fetch): not returned
+
+> @nitin_builds then do it again with uuids. half the time another endpoint leaks them
+
+
+---
+
+## 2026-11-14 · Reply · @ZackKorman the boring misconfig still pays more
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @2279635218 — 2026-11-14 12:49 UTC (2026-11-14 13:49 WAT)
+
+- URL: https://x.com/2279635218/status/2121586304060367298
+- Metrics (at fetch): not returned
+
+> When a system goes down, maybe it’s a cyber attack using some evil communist model. Maybe it’s a threat actor using Opus. Maybe it’s an AI agent going rogue. Maybe it’s just AI making a mistake. Maybe it’s not AI at all.
+>
+> Not everything has to fit some grand narrative.
+
+
+### Post — @mdp_sec — 2026-11-14 20:13 UTC (2026-11-14 21:13 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121697999974027464
+- Metrics (at fetch): not returned
+
+> @ZackKorman the boring misconfig still pays more
+
+
+---
+
+## 2026-11-14 · Reply · @eliebakouch i only count numbers from my own runs
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1745892418539417600 — 2026-11-14 11:59 UTC (2026-11-14 12:59 WAT)
+
+- URL: https://x.com/1745892418539417600/status/2121573771647570230
+- Metrics (at fetch): not returned
+
+> this is just harmful to repost such plot without a labelled y axis, no values, no definition of how they computed this compute multiplier, no separation of data and algorithm. leaves people to speculation either assuming the best or the worst https://twitter.com/hilbertspaess/status/2121331333654086124
+
+**Links in post:** https://twitter.com/hilbertspaess/status/2121331333654086124
+
+**Quoted post** 2121331333654086124: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-14 20:12 UTC (2026-11-14 21:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121697748986839229
+- Metrics (at fetch): not returned
+
+> @eliebakouch i only count numbers from my own runs
+
+
+---
+
+## 2026-11-14 · Reply · @anton_chuvakin @CiscoSecure i don't even touch the target till report time
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @12692452 — 2026-11-14 13:19 UTC (2026-11-14 14:19 WAT)
+
+- URL: https://x.com/12692452/status/2121593751478886624
+- Metrics (at fetch): not returned
+
+> All the fun you can have with ... "ARTEX and beyond: AI-enabled penetration testing platforms" https://bit.ly/4zk5Sb4 from @CiscoSecure
+
+**Links in post:** https://bit.ly/4zk5Sb4
+
+
+### Post — @mdp_sec — 2026-11-14 20:11 UTC (2026-11-14 21:11 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121697494342242387
+- Metrics (at fetch): not returned
+
+> @anton_chuvakin @CiscoSecure i don't even touch the target till report time
+
+
+---
+
+## 2026-11-14 · Reply · @evildojo666 ooft
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1362236248379817989 — 2026-11-14 14:33 UTC (2026-11-14 15:33 WAT)
+
+- URL: https://x.com/1362236248379817989/status/2121612453129949378
+- Metrics (at fetch): not returned
+
+> 25 days for a duplicate that leaks SSN is fucking insane https://twitter.com/mdp_sec/status/2121546179360276882
+
+**Links in post:** https://twitter.com/mdp_sec/status/2121546179360276882
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-14 10:10 UTC (2026-11-14 11:10 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2121546179360276882
+    - Metrics (at fetch): not returned
+    
+    > changed one number in a request and read someone's full social security number. critical, and a dupe by 25 days.
+    >
+    > resident portal, people submit applications, each one has a plain sequential number.
+    >
+    > 1. logged-out get on an application by number returned the record, ssn masked.
+    > 2. sent the same values to the update route. it echoes the record back, full ssn unmasked.
+    > 3. counted the number up and down, kept getting other people's applications. full ssns, dobs, addresses.
+    >
+    > no login needed for any of it.
+    >
+    > masked on the read, full on the update route. check what the write path hands back
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXDBq2gasAAw0Pn.jpg — no alt text provided by author
+    
+
+
+### Post — @mdp_sec — 2026-11-14 20:10 UTC (2026-11-14 21:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121697273675653560
+- Metrics (at fetch): not returned
+
+> @evildojo666 ooft
+
+
+---
+
+## 2026-11-14 · Reply · @HackingLZ same on the bounty side. my ai does all the hunting now, i just build what it reads from
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @14539104 — 2026-11-14 17:52 UTC (2026-11-14 18:52 WAT)
+
+- URL: https://x.com/14539104/status/2121662670072119443
+- Metrics (at fetch): not returned
+
+> I’m still not sure people realize that targeted web app exploitation wasn’t widespread before LLMs. Sure, companies with bug bounty programs saw plenty of it, but that wasn’t reflected in how most financially motivated attackers operated.
+>
+> What you’re seeing now is some level of automation being applied to a bunch of web apps and internet facing infrastructure that attackers largely ignored before. Historically, attackers focused on volume, exploiting common vulnerabilities in frameworks and widely deployed applications rather than spending time finding bugs in individual web apps.
+>
+> This space has always found a balance, and I expect it will again.
+
+
+### Post — @mdp_sec — 2026-11-14 19:55 UTC (2026-11-14 20:55 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121693576572944474
+- Metrics (at fetch): not returned
+
+> @HackingLZ same on the bounty side. my ai does all the hunting now, i just build what it reads from
+
+
+---
+
+## 2026-11-14 · Post · a third party widget on a site was pulling its config from a vendor api with no auth at all
+
+
+Tags (automatic): XSS
+
+
+### Post — @mdp_sec — 2026-11-14 14:10 UTC (2026-11-14 15:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121606577698308308
+- Metrics (at fetch): not returned
+
+> a third party widget on a site was pulling its config from a vendor api with no auth at all
+>
+> i wrote a script into one of those config fields and published it
+> the widget rendered that config on every page, in the site's own origin, for every visitor
+>
+> one unauthed write, site wide stored xss
+
+
+---
+
+## 2026-11-13 · Thread · i tried this so you dont have to fam
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-13 21:30 UTC (2026-11-13 22:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121355005257290222
+- Metrics (at fetch): bookmark 4, impression 1927, like 52, quote 0, reply 4, retweet 1
+
+> i tried this so you dont have to fam
+>
+> don't waste ur time or $$ on this one
+>
+> limits to hard and speed and perf just not consistent enough for hunting https://twitter.com/morphllm/status/2119841770767089796
+
+**Links in post:** https://twitter.com/morphllm/status/2119841770767089796
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1919915473610932226 — 2026-11-09 17:17 UTC (2026-11-09 18:17 WAT)
+    
+    - URL: https://x.com/1919915473610932226/status/2119841770767089796
+    - Metrics (at fetch): bookmark 499, impression 221955, like 650, quote 29, reply 87, retweet 19
+    
+    > Introducing Morph Ultra
+    >
+    > Unlimited Kimi and DeepSeek for $200/month
+    >
+    > 1,000 subscriptions available
+    > Details below
+    > https://www.morphllm.com/products/ultra
+    
+    **Links in post:** https://www.morphllm.com/products/ultra
+    
+
+
+### Thread part 2 — @mdp_sec — 2026-11-14 08:43 UTC (2026-11-14 09:43 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121524452722884851
+- Metrics (at fetch): not returned
+
+> @sepyke cancel it fam
+
+
+### Thread part 3 — @mdp_sec — 2026-11-14 12:47 UTC (2026-11-14 13:47 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121585870570705382
+- Metrics (at fetch): not returned
+
+> @zack0x01_ Go direct. More results next week
+
+
+---
+
+## 2026-11-13 · Thread · reran deepseek v4.1 flash on deepseek's own api, not openrouter
+
+
+Tags (automatic): Path normalization, AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-13 21:43 UTC (2026-11-13 22:43 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121358210577883544
+- Metrics (at fetch): bookmark 20, impression 2787, like 60, quote 2, reply 15, retweet 7
+
+> reran deepseek v4.1 flash on deepseek's own api, not openrouter
+>
+> 21/100 solved. level with grok 4.6, 1 behind opus 5
+> $1.59 a solve. grok 4.6 is $19.01, opus 5 is $41.97
+> 17 first try solves, most on the board
+>
+> whatever openrouter was serving was probably a quant. direct only from now on, rerunning the rest to be sure
+>
+> http://blackboxarena.ai/models/deepseek-flash-max
+
+**Links in post:** http://blackboxarena.ai/models/deepseek-flash-max
+
+
+### Thread part 2 — @mdp_sec — 2026-11-13 22:57 UTC (2026-11-13 23:57 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121376935360254451
+- Metrics (at fetch): bookmark 0, impression 151, like 1, quote 0, reply 1, retweet 0
+
+> @0xmappy easier to just go direct to deepseek's api
+
+
+### Thread part 3 — @mdp_sec — 2026-11-13 23:09 UTC (2026-11-14 00:09 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121379932865773803
+- Metrics (at fetch): bookmark 0, impression 173, like 2, quote 0, reply 0, retweet 0
+
+> @AimedGuendouz yeah not worth it anymore just go direct
+
+
+### Thread part 4 — @mdp_sec — 2026-11-14 01:55 UTC (2026-11-14 02:55 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121421679226446092
+- Metrics (at fetch): bookmark 0, impression 64, like 1, quote 0, reply 0, retweet 0
+
+> @rezavesta98 ran it straight on deepseek's own api
+
+
+### Thread part 5 — @mdp_sec — 2026-11-14 04:32 UTC (2026-11-14 05:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121461353005318208
+- Metrics (at fetch): bookmark 0, impression 28, like 0, quote 0, reply 0, retweet 0
+
+> @Vikramaditya_V1 all gettting rerun direct only
+
+
+### Thread part 6 — @mdp_sec — 2026-11-14 04:33 UTC (2026-11-14 05:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121461478670966858
+- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 0, retweet 0
+
+> @DK_9510 compared them all. going forward i only go direct, not worth losing a bounty because a sub is quantized or a different version
+
+
+### Thread part 7 — @mdp_sec — 2026-11-14 09:30 UTC (2026-11-14 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121536157368660051
+- Metrics (at fetch): not returned
+
+> @FireFlySquid380 nah don't go back. fix what it's reading
+
+
+---
+
+## 2026-11-13 · Thread · grok 4.7 solved 10 of my 100 black-box hacking labs. grok 4.6 solved 21
+
+
+### Post — @mdp_sec — 2026-11-13 16:10 UTC (2026-11-13 17:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121274388435922971
+- Metrics (at fetch): bookmark 7, impression 2143, like 36, quote 0, reply 9, repost 2
+
+> grok 4.7 solved 10 of my 100 black-box hacking labs. grok 4.6 solved 21
+>
+> same labs, same harness
+> 4.7 burned 1.29B tokens and $75.60 per solved lab
+> 4.6 did it on 481M tokens at $19.01
+>
+> @spacexai 4.6 still the one [pic.x.com/BujkElI78Q]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW_ITmKbUAAEw8s.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-13 22:21 UTC (2026-11-13 23:21 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121367851760308397
+- Metrics (at fetch): bookmark 0, impression 34, like 0, quote 0, reply 0, retweet 0
+
+> @josephnedo007 @spacexai ur assuming i got access fam... i do not
+
+
+### Thread part 3 — @mdp_sec — 2026-11-14 00:18 UTC (2026-11-14 01:18 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121397446282764562
+- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
+
+> @SiCedricXD @spacexai yeah fam https://x.com/mdp_sec/status/2121358210577883544?a=GxUJspuznWdnBh_CyX8&s=20
+
+**Links in post:** https://x.com/mdp_sec/status/2121358210577883544?a=GxUJspuznWdnBh_CyX8&s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-13 21:43 UTC (2026-11-13 22:43 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2121358210577883544
+    - Metrics (at fetch): bookmark 20, impression 2787, like 60, quote 2, reply 15, retweet 7
+    
+    > reran deepseek v4.1 flash on deepseek's own api, not openrouter
+    >
+    > 21/100 solved. level with grok 4.6, 1 behind opus 5
+    > $1.59 a solve. grok 4.6 is $19.01, opus 5 is $41.97
+    > 17 first try solves, most on the board
+    >
+    > whatever openrouter was serving was probably a quant. direct only from now on, rerunning the rest to be sure
+    >
+    > http://blackboxarena.ai/models/deepseek-flash-max
+    
+    **Links in post:** http://blackboxarena.ai/models/deepseek-flash-max
+    
+
+
+### Thread part 4 — @mdp_sec — 2026-11-14 01:17 UTC (2026-11-14 02:17 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121412156155638247
+- Metrics (at fetch): bookmark 0, impression 17, like 2, quote 0, reply 0, retweet 0
+
+> @pedrib1337 @spacexai 4.7 just was always weird tbh, i might retest it just incase kinda thing and let u know
+
+
+### Thread part 5 — @mdp_sec — 2026-11-14 08:44 UTC (2026-11-14 09:44 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121524725692461460
+- Metrics (at fetch): not returned
+
+> @a7ridii @spacexai someone had to
+
+
+---
+
+## 2026-11-14 · Reply · @liran_tal Thx fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @412133001 — 2026-11-14 08:41 UTC (2026-11-14 09:41 WAT)
+
+- URL: https://x.com/412133001/status/2121523983116034456
+- Metrics (at fetch): bookmark 0, impression 28, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec hey Marius, I just saw https://t.co/Kfu6dnZhMD and that's really cool
+>
+> thanks for building this!
+
+
+### Post — @mdp_sec — 2026-11-14 08:42 UTC (2026-11-14 09:42 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121524125017506198
+- Metrics (at fetch): bookmark 0, impression 22, like 1, quote 0, reply 0, retweet 0
+
+> @liran_tal Thx fam
+
+
+---
+
+## 2026-11-14 · Post · @spacexai Ps fam these results got updated.  
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @mdp_sec — 2026-11-14 07:53 UTC (2026-11-14 08:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121511902522257530
+- Metrics (at fetch): bookmark 0, impression 253, like 2, quote 0, reply 0, retweet 0
+
+> @spacexai Ps fam these results got updated.  
+>
+> Always go direct. Lesson learnt no more openrouter
+>
+> https://t.co/fvQuKIsjjF
+
+
+---
+
+## 2026-11-14 · Reply · @can1357 credentials sitting unredacted in agent traces is the actual finding, the vendor is just wh
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @602951145 — 2026-11-14 05:06 UTC (2026-11-14 06:06 WAT)
+
+- URL: https://x.com/602951145/status/2121469833795834164
+- Metrics (at fetch): bookmark 22, impression 10209, like 188, quote 1, reply 6, retweet 9
+
+> one does not start a "incident report" by blaming the vendor
+> "we were permitted to use the traces"
+> let's try "we didn't redact credentials from training set" https://t.co/pbppPbmfRq
+
+**Media:**
+- media `3_2121468562002808832` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-14 07:50 UTC (2026-11-14 08:50 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121510961781850184
+- Metrics (at fetch): bookmark 0, impression 375, like 0, quote 0, reply 0, retweet 0
+
+> @can1357 credentials sitting unredacted in agent traces is the actual finding, the vendor is just where it leaked from
+
+
+---
+
+## 2026-11-14 · Reply · @KingBootoshi and a memory that doesn't rot
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1623247610730676224 — 2026-11-14 06:44 UTC (2026-11-14 07:44 WAT)
+
+- URL: https://x.com/1623247610730676224/status/2121494431245463644
+- Metrics (at fetch): bookmark 4, impression 1883, like 14, quote 0, reply 2, retweet 0
+
+> in the world of ai agents all u need is state machines
+
+
+### Post — @mdp_sec — 2026-11-14 07:48 UTC (2026-11-14 08:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121510568897233300
+- Metrics (at fetch): bookmark 0, impression 101, like 1, quote 0, reply 0, retweet 0
+
+> @KingBootoshi and a memory that doesn't rot
+
+
+---
+
+## 2026-11-14 · Reply · @Frichette_n mine hunts with zero steering from me, the setup around it is the real work
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1670966126 — 2026-11-14 02:57 UTC (2026-11-14 03:57 WAT)
+
+- URL: https://x.com/1670966126/status/2121437454439752184
+- Metrics (at fetch): bookmark 0, impression 167, like 1, quote 0, reply 1, retweet 0
+
+> In less than 3 hours I had one find an RCE in a test app with no access to source code.
+
+
+### Post — @mdp_sec — 2026-11-14 06:42 UTC (2026-11-14 07:42 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121493879874802049
+- Metrics (at fetch): bookmark 0, impression 18, like 0, quote 0, reply 0, retweet 0
+
+> @Frichette_n mine hunts with zero steering from me, the setup around it is the real work
+
+
+---
+
+## 2026-11-14 · Reply · @cyberx00t nah, programs are just slow
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1370207110022062083 — 2026-11-14 06:17 UTC (2026-11-14 07:17 WAT)
+
+- URL: https://x.com/1370207110022062083/status/2121487698112430277
+- Metrics (at fetch): bookmark 0, impression 102, like 2, quote 0, reply 1, retweet 0
+
+> @mdp_sec 28 dayspass means scam 😨
+
+
+### Post — @mdp_sec — 2026-11-14 06:36 UTC (2026-11-14 07:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121492419044835387
+- Metrics (at fetch): bookmark 0, impression 76, like 0, quote 0, reply 0, retweet 0
+
+> @cyberx00t nah, programs are just slow
+
+
+---
+
+## 2026-11-14 · Reply · @OrcaRouter i think unlimited has somehow lost its meaning? this is pay $1 get $2... am i confused?
+
+
+Tags (automatic): Path normalization
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2049258250923810816 — 2026-11-14 06:22 UTC (2026-11-14 07:22 WAT)
+
+- URL: https://x.com/2049258250923810816/status/2121488881594024048
+- Metrics (at fetch): bookmark 0, impression 1113, like 12, quote 0, reply 2, retweet 0
+
+> @mdp_sec Try out https://t.co/1lSzdHrqOk
+
+
+### Post — @mdp_sec — 2026-11-14 06:31 UTC (2026-11-14 07:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2121491264906625101
+- Metrics (at fetch): bookmark 0, impression 485, like 4, quote 0, reply 0, retweet 0
+
+> @OrcaRouter i think unlimited has somehow lost its meaning? this is pay $1 get $2... am i confused?
 
 
 ---
@@ -100,31 +1515,6 @@ _Generated 2026-11-14 from the X API (full-archive search + timeline). Every pos
 - Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, retweet 0
 
 > @nateberkopec h having, still doesn't stop the refusals
-
-
----
-
-## 2026-11-14 · Thread · been testing deepseek across a bunch of different provider routes
-
-
-### Post — @mdp_sec — 2026-11-14 00:36 UTC (2026-11-14 01:36 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121401913929323004
-- Metrics (at fetch): bookmark 9, impression 2141, like 52, quote 0, reply 19, retweet 1
-
-> been testing deepseek across a bunch of different provider routes
->
-> same model name, same tasks, and the results are not even close. honestly amazing how much slop is out there
->
-> not naming anyone yet. full results next week. if you've got a deepseek provider you want tested, drop it below and it might make the list
-
-
-### Thread part 2 — @mdp_sec — 2026-11-14 05:35 UTC (2026-11-14 06:35 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121477148963946670
-- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, retweet 0
-
-> @TekonBurns compared them all, that's why i'm direct only now
 
 
 ---
@@ -549,72 +1939,6 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2026-11-13 · Thread · reran deepseek v4.1 flash on deepseek's own api, not openrouter
-
-
-Tags (automatic): Path normalization, AI-assisted hunting
-
-
-### Post — @mdp_sec — 2026-11-13 21:43 UTC (2026-11-13 22:43 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121358210577883544
-- Metrics (at fetch): bookmark 20, impression 2787, like 60, quote 2, reply 15, retweet 7
-
-> reran deepseek v4.1 flash on deepseek's own api, not openrouter
->
-> 21/100 solved. level with grok 4.6, 1 behind opus 5
-> $1.59 a solve. grok 4.6 is $19.01, opus 5 is $41.97
-> 17 first try solves, most on the board
->
-> whatever openrouter was serving was probably a quant. direct only from now on, rerunning the rest to be sure
->
-> http://blackboxarena.ai/models/deepseek-flash-max
-
-**Links in post:** http://blackboxarena.ai/models/deepseek-flash-max
-
-
-### Thread part 2 — @mdp_sec — 2026-11-13 22:57 UTC (2026-11-13 23:57 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121376935360254451
-- Metrics (at fetch): bookmark 0, impression 151, like 1, quote 0, reply 1, retweet 0
-
-> @0xmappy easier to just go direct to deepseek's api
-
-
-### Thread part 3 — @mdp_sec — 2026-11-13 23:09 UTC (2026-11-14 00:09 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121379932865773803
-- Metrics (at fetch): bookmark 0, impression 173, like 2, quote 0, reply 0, retweet 0
-
-> @AimedGuendouz yeah not worth it anymore just go direct
-
-
-### Thread part 4 — @mdp_sec — 2026-11-14 01:55 UTC (2026-11-14 02:55 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121421679226446092
-- Metrics (at fetch): bookmark 0, impression 64, like 1, quote 0, reply 0, retweet 0
-
-> @rezavesta98 ran it straight on deepseek's own api
-
-
-### Thread part 5 — @mdp_sec — 2026-11-14 04:32 UTC (2026-11-14 05:32 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121461353005318208
-- Metrics (at fetch): bookmark 0, impression 28, like 0, quote 0, reply 0, retweet 0
-
-> @Vikramaditya_V1 all gettting rerun direct only
-
-
-### Thread part 6 — @mdp_sec — 2026-11-14 04:33 UTC (2026-11-14 05:33 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121461478670966858
-- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 0, retweet 0
-
-> @DK_9510 compared them all. going forward i only go direct, not worth losing a bounty because a sub is quantized or a different version
-
-
----
-
 ## 2026-11-14 · Post · @shotgunner101 lived it. solo hunters only get daybreak blue, offensive access is orgs only
 
 
@@ -905,74 +2229,6 @@ Tags (automatic): IDOR / BOLA
 - Metrics (at fetch): bookmark 0, impression 421, like 0, quote 0, reply 0, retweet 0
 
 > @cursor_ai unredacted keys sitting in old training traces is the scary bit
-
-
----
-
-## 2026-11-13 · Thread · grok 4.7 solved 10 of my 100 black-box hacking labs. grok 4.6 solved 21
-
-
-### Post — @mdp_sec — 2026-11-13 16:10 UTC (2026-11-13 17:10 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121274388435922971
-- Metrics (at fetch): bookmark 7, impression 2143, like 36, quote 0, reply 9, repost 2
-
-> grok 4.7 solved 10 of my 100 black-box hacking labs. grok 4.6 solved 21
->
-> same labs, same harness
-> 4.7 burned 1.29B tokens and $75.60 per solved lab
-> 4.6 did it on 481M tokens at $19.01
->
-> @spacexai 4.6 still the one [pic.x.com/BujkElI78Q]
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HW_ITmKbUAAEw8s.jpg — no alt text provided by author
-
-
-### Thread part 2 — @mdp_sec — 2026-11-13 22:21 UTC (2026-11-13 23:21 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121367851760308397
-- Metrics (at fetch): bookmark 0, impression 34, like 0, quote 0, reply 0, retweet 0
-
-> @josephnedo007 @spacexai ur assuming i got access fam... i do not
-
-
-### Thread part 3 — @mdp_sec — 2026-11-14 00:18 UTC (2026-11-14 01:18 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121397446282764562
-- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
-
-> @SiCedricXD @spacexai yeah fam https://x.com/mdp_sec/status/2121358210577883544?a=GxUJspuznWdnBh_CyX8&s=20
-
-**Links in post:** https://x.com/mdp_sec/status/2121358210577883544?a=GxUJspuznWdnBh_CyX8&s=20
-
-**Quoted post (full text):**
-
-    #### Quoted post — @mdp_sec — 2026-11-13 21:43 UTC (2026-11-13 22:43 WAT)
-    
-    - URL: https://x.com/mdp_sec/status/2121358210577883544
-    - Metrics (at fetch): bookmark 20, impression 2787, like 60, quote 2, reply 15, retweet 7
-    
-    > reran deepseek v4.1 flash on deepseek's own api, not openrouter
-    >
-    > 21/100 solved. level with grok 4.6, 1 behind opus 5
-    > $1.59 a solve. grok 4.6 is $19.01, opus 5 is $41.97
-    > 17 first try solves, most on the board
-    >
-    > whatever openrouter was serving was probably a quant. direct only from now on, rerunning the rest to be sure
-    >
-    > http://blackboxarena.ai/models/deepseek-flash-max
-    
-    **Links in post:** http://blackboxarena.ai/models/deepseek-flash-max
-    
-
-
-### Thread part 4 — @mdp_sec — 2026-11-14 01:17 UTC (2026-11-14 02:17 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121412156155638247
-- Metrics (at fetch): bookmark 0, impression 17, like 2, quote 0, reply 0, retweet 0
-
-> @pedrib1337 @spacexai 4.7 just was always weird tbh, i might retest it just incase kinda thing and let u know
 
 
 ---
@@ -1393,46 +2649,6 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 0, impression 233, like 4, quote 0, reply 1, retweet 0
 
 > @Zaddyzaddy direct be the way togo, i tested few providers and results will come next week, its crazy how diff its out there vs direct
-
-
----
-
-## 2026-11-13 · Post · i tried this so you dont have to fam
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @mdp_sec — 2026-11-13 21:30 UTC (2026-11-13 22:30 WAT)
-
-- URL: https://x.com/mdp_sec/status/2121355005257290222
-- Metrics (at fetch): bookmark 4, impression 1927, like 52, quote 0, reply 4, retweet 1
-
-> i tried this so you dont have to fam
->
-> don't waste ur time or $$ on this one
->
-> limits to hard and speed and perf just not consistent enough for hunting https://twitter.com/morphllm/status/2119841770767089796
-
-**Links in post:** https://twitter.com/morphllm/status/2119841770767089796
-
-**Quoted post (full text):**
-
-    #### Quoted post — @1919915473610932226 — 2026-11-09 17:17 UTC (2026-11-09 18:17 WAT)
-    
-    - URL: https://x.com/1919915473610932226/status/2119841770767089796
-    - Metrics (at fetch): bookmark 499, impression 221955, like 650, quote 29, reply 87, retweet 19
-    
-    > Introducing Morph Ultra
-    >
-    > Unlimited Kimi and DeepSeek for $200/month
-    >
-    > 1,000 subscriptions available
-    > Details below
-    > https://www.morphllm.com/products/ultra
-    
-    **Links in post:** https://www.morphllm.com/products/ultra
-    
 
 
 ---

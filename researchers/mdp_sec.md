@@ -1,6 +1,6 @@
 # @mdp_sec — Marius du Preez (requested by Dorothy)
 
-Compiled 11 Nov 2026 (WAT). This is the most fully-documented researcher in the repo. Full verbatim post text: [`posts/mdp_sec/`](../posts/mdp_sec/) (422 files). Writeups, site pages, platform report metadata and his full prompt pack: [`writeups/mdp_sec/`](../writeups/mdp_sec/). Harness material derived from his workflow: [`harness/`](../harness/).
+Compiled 11 Nov 2026 (WAT). This is the most fully-documented researcher in the repo. Full verbatim post text: [`posts/mdp_sec/`](../posts/mdp_sec/) (430+ files). Writeups, site pages, platform report metadata and his full prompt pack: [`writeups/mdp_sec/`](../writeups/mdp_sec/). Harness material derived from his workflow: [`harness/`](../harness/).
 
 | Field | Value |
 | --- | --- |
@@ -29,9 +29,50 @@ His own earliest retrievable post (2026-07-22) states: "$83,088 from bug bountie
 
 ## X capture
 
-His full retrievable original-post timeline was captured verbatim: **422 post files** spanning **2026-07-22 → 2026-11-11**. The X timeline API returns no posts older than 2026-07-22 (its reach limit), so his 2026-03-24 → 2026-07-21 posts are not retrievable ("as far as search allows"). Each file includes the full long-form/note text, media, quoted posts and his own self-reply thread.
+His full retrievable original-post timeline was captured verbatim: **430+ post files** spanning **2026-07-22 → 2026-11-11**. The X timeline API returns no posts older than 2026-07-22 (its reach limit), so his 2026-03-24 → 2026-07-21 posts are not retrievable ("as far as search allows"). Each file includes the full long-form/note text, media, quoted posts and his own self-reply thread.
 
 ## Key findings and analysis
+
+### Guest upload magic-byte bypass → unauthenticated RCE (2026-11-14)
+
+- Post: https://x.com/mdp_sec/status/2121727373498257576 — verbatim: [`posts/mdp_sec/2026-11-14-2121727373498257576.md`](../posts/mdp_sec/2026-11-14-2121727373498257576.md)
+- **Bug class:** Unauthenticated guest file-upload → RCE (magic-byte / content-type confusion + config-as-code)
+- **Root cause:** Upload validator only inspected the first few bytes. He uploaded a config (valid header + chosen filename) telling the server to treat another upload in the same folder as code, then uploaded the payload and requested the path. No login; ran as the app user.
+- **How it was found:** Probing guest upload surfaces for magic-byte-only checks and config files next to upload dirs.
+- **Takeaways / harness:** Polyglot corpus + path-guessing after every guest upload; treat config-reload-from-upload-dir as an RCE primitive.
+
+### Unauthenticated third-party widget config → site-wide stored XSS (2026-11-14)
+
+- Post: https://x.com/mdp_sec/status/2121606577698308308 — verbatim: [`posts/mdp_sec/2026-11-14-2121606577698308308.md`](../posts/mdp_sec/2026-11-14-2121606577698308308.md)
+- **Bug class:** Stored XSS via unauthenticated vendor widget config API (supply-chain XSS)
+- **Root cause:** Third-party widget pulled config from a vendor API with no auth; he wrote a script into a config field; widget rendered it in the site's own origin for every visitor.
+- **How it was found:** Inventorying embed/widget bootstrap XHRs and testing unauthenticated writes on their config hosts.
+- **Takeaways / harness:** For every third-party embed, resolve config host → fuzz unauthenticated CRUD → DOM-XSS sink check on first-party pages.
+
+### Sequential-ID IDOR: masked GET, unmasked UPDATE echo → full SSN (Critical, Duplicate) (2026-11-14)
+
+- Post: https://x.com/mdp_sec/status/2121546179360276882 — verbatim: [`posts/mdp_sec/2026-11-14-2121546179360276882.md`](../posts/mdp_sec/2026-11-14-2121546179360276882.md)
+- **Bug class:** Unauthenticated sequential IDOR / BOLA → PII (SSN, DOB, address); Critical; closed Duplicate of an Aug 10 report
+- **Root cause:** Resident-portal applications used plain sequential numbers. Logged-out GET returned masked SSN; the update route echoed the full unmasked record. Walking ±id exposed other applicants.
+- **How it was found:** Diffing GET vs update response bodies; incrementing application numbers without auth.
+- **Takeaways / harness:** Automate "masking asymmetry" — fields masked on read must stay masked/absent on every other method.
+
+### Hardcoded mobile key decrypts production private key from remote config (2026-11-14)
+
+- Post: https://x.com/mdp_sec/status/2121515980211785729 — verbatim: [`posts/mdp_sec/2026-11-14-2121515980211785729.md`](../posts/mdp_sec/2026-11-14-2121515980211785729.md)
+- **Bug class:** Hardcoded client crypto key → decryption of remote config containing a production private key
+- **Root cause:** Same key ships in every install; decrypts a startup config blob that should never have held a server private key. Rotating the client key alone does nothing while the blob stays under that key.
+- **How it was found:** Unpacking the mobile app, extracting the key, decrypting the startup config download.
+- **Takeaways / harness:** Mobile-secret scanner → match against decrypted network blobs; never put prod private keys in client-decryptable config.
+
+### AI hunting system: zero-steering agent + RAG + direct provider API (2026-11-15)
+
+- Post: https://x.com/mdp_sec/status/2121817970381094966 — verbatim: [`posts/mdp_sec/2026-11-15-2121817970381094966.md`](../posts/mdp_sec/2026-11-15-2121817970381094966.md)
+- **Bug class:** Methodology (AI harness)
+- **Root cause:** N/A
+- **How it was found:** N/A — he states AI does all hunting with no guiding; he builds prompts, helpers, RAG; goes direct to the provider API; only reviews reports. Same-day tip: enforce scope at the proxy, not the prompt.
+- **Takeaways / harness:** Separate knowledge/RAG, scoped egress proxy, and human-only report review.
+
 
 ### Unauthenticated SQL injection in a public quote flow ($4,000)
 

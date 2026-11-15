@@ -1,11 +1,31 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 174
-- Conversations/threads: 99
+- Posts in this file: 175
+- Conversations/threads: 100
 - Oldest post captured: 2023-07-02
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Post · Keep up with cryptography, formal verification and bug hunting. zkSecurity has a newsletter now!
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-11-14 11:24 UTC (2026-11-14 12:24 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2121564859724648754
+- Metrics (at fetch): not returned
+
+> Keep up with cryptography, formal verification and bug hunting. zkSecurity has a newsletter now!
+>
+> https://zksecurity.xyz/newsletter/
+
+**Links in post:** https://zksecurity.xyz/newsletter/
 
 
 ---

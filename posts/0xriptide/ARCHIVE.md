@@ -1,11 +1,43 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 216
-- Conversations/threads: 210
+- Posts in this file: 217
+- Conversations/threads: 211
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Post · Shout out to @sayan_011 as one of the most cracked guys i've met in this space
+
+
+### Post — @0xriptide — 2026-11-14 11:04 UTC (2026-11-14 12:04 WAT)
+
+- URL: https://x.com/0xriptide/status/2121559979547082849
+- Metrics (at fetch): bookmark 7, impression 3425, like 57, quote 1, reply 8, retweet 0
+
+> Shout out to @sayan_011 as one of the most cracked guys i've met in this space
+>
+> simply a machine
+>
+> i think we can take #1 https://t.co/yxiqWHM3KF
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1967838686797807616 — 2026-11-13 15:03 UTC (2026-11-13 16:03 WAT)
+    
+    - URL: https://x.com/1967838686797807616/status/2121257695273505002
+    - Metrics (at fetch): bookmark 11, impression 5710, like 65, quote 3, reply 7, retweet 6
+    
+    > We made it into the Top 10 of the @ethereum Consensus Layer Bug Bounty leaderboard, currently at #8.
+    >
+    > Shout out to our very own @sayan_011. He did the Ethereum protocol fellowship and used to work on consensus layer at @sigp_io before joining us. Keeping Ethereum safe is personal https://t.co/ROtHdTFuYR
+    
+    **Media:**
+    - media `3_2121239446070657024` (details not returned by the API)
+    
 
 
 ---

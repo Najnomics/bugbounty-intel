@@ -1,73 +1,71 @@
 {
   "defendor_eng": {
-    "newest_id": 2340,
+    "newest_id": 2345,
     "oldest_id": 1,
     "backfill_complete": true,
     "cursor_before": 1,
-    "count": 2102,
+    "count": 2106,
     "url": "https://t.me/defendor_eng",
     "preview_url": "https://t.me/s/defendor_eng",
-    "title": "Defendor — DeFi Security",
+    "title": "Defendor \u2014 DeFi Security",
     "first_date_wat": "2025-04-22T08:42:27+01:00",
-    "last_date_wat": "2026-11-13T20:30:16+01:00",
+    "last_date_wat": "2026-11-14T20:36:49+01:00",
     "years": {
       "2025": 833,
-      "2026": 1269
+      "2026": 1273
     },
     "distinct_writeup_urls": 512,
     "writeup_queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
-    "updated": "2026-11-14T07:01:39+01:00",
-    "writeups_fetched": 110,
-    "writeups_failed": 59,
-    "writeups_pending": 341,
+    "updated": "2026-11-15T07:00:00+01:00",
+    "writeups_fetched": 172,
+    "writeups_failed": 78,
+    "writeups_pending": 263,
     "writeups": {
-      "fetched": 110,
-      "failed": 59,
-      "pending": 341,
-      "target_this_run": 40,
+      "fetched": 172,
+      "failed": 78,
+      "pending": 263,
       "fetched_file": "data/telegram_defendor_eng_writeups_fetched.jsonl",
       "failed_file": "data/telegram_defendor_eng_writeups_failed.jsonl",
       "pending_file": "data/telegram_defendor_eng_writeups_pending.jsonl",
       "queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
-      "updated": "2026-11-14T07:23:22+01:00",
-      "note": "110 writeups stored under writeups/telegram-defendor_eng/; 59 fetch failures recorded; 341 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
+      "updated": "2026-11-15T07:00:00+01:00",
+      "note": "172 writeups stored under writeups/telegram-defendor_eng/; 78 fetch failures recorded; 263 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files. Medium.com and infosecwriteups.com currently return HTTP 403 to this crawler; those URLs stay pending or failed so a later run can retry. HackerOne public reports are fetched via the public /reports/<id>.json document."
     }
   },
   "dailybountywriteup": {
-    "newest_id": 14983,
+    "newest_id": 14984,
     "oldest_id": 1,
     "backfill_complete": true,
     "cursor_before": 1,
-    "count": 14971,
+    "count": 14972,
     "url": "https://t.me/dailybountywriteup",
     "preview_url": "https://t.me/s/dailybountywriteup",
     "title": "Daily Bounty Writeups",
     "first_date_wat": "2022-08-22T20:46:34+01:00",
-    "last_date_wat": "2026-11-13T09:35:37+01:00",
+    "last_date_wat": "2026-11-14T08:54:05+01:00",
     "years": {
       "2022": 1225,
       "2023": 3627,
       "2024": 3476,
       "2025": 4011,
-      "2026": 2632
+      "2026": 2633
     },
-    "distinct_writeup_urls": 12890,
+    "distinct_writeup_urls": 12899,
     "writeup_queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
-    "updated": "2026-11-14T07:01:39+01:00",
-    "writeups_fetched": 598,
-    "writeups_failed": 419,
-    "writeups_pending": 11414,
+    "updated": "2026-11-15T07:00:00+01:00",
+    "writeups_fetched": 765,
+    "writeups_failed": 895,
+    "writeups_pending": 11239,
     "writeups": {
-      "fetched": 598,
-      "failed": 419,
-      "pending": 11414,
-      "target_this_run": 150,
+      "fetched": 765,
+      "failed": 895,
+      "pending": 11239,
       "fetched_file": "data/telegram_dailybountywriteup_writeups_fetched.jsonl",
       "failed_file": "data/telegram_dailybountywriteup_writeups_failed.jsonl",
       "pending_file": "data/telegram_dailybountywriteup_writeups_pending.jsonl",
       "queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
-      "updated": "2026-11-14T07:22:27+01:00",
-      "note": "598 writeups stored under writeups/telegram-dailybountywriteup/; 419 fetch failures recorded; 11414 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
+      "updated": "2026-11-15T07:00:00+01:00",
+      "note": "765 writeups stored under writeups/telegram-dailybountywriteup/; 895 fetch failures recorded; 11239 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files. Medium.com and infosecwriteups.com currently return HTTP 403 to this crawler; those URLs stay pending or failed so a later run can retry. HackerOne public reports are fetched via the public /reports/<id>.json document."
     }
   }
 }

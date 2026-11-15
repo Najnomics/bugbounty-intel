@@ -1,11 +1,37 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 493
-- Conversations/threads: 376
+- Posts in this file: 494
+- Conversations/threads: 377
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Reply · @LiveOverflow @k_firsov
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — post being replied to:**
+
+#### Parent post — @3094698976 — 2026-11-13 22:58 UTC (2026-11-13 23:58 WAT)
+
+- URL: https://x.com/3094698976/status/2121377209105412374
+- Metrics (at fetch): bookmark 0, impression 2996, like 29, quote 0, reply 1, retweet 3
+
+> If you are a bug hunter and participated in the Cloudflare WAF, I would love to exchange our reports and methods. Maybe we can dig into them together and see how similar or different our methods actually were.
+
+
+### Post — @S1r1u5_ — 2026-11-14 07:19 UTC (2026-11-14 08:19 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2121503261601755611
+- Metrics (at fetch): bookmark 0, impression 278, like 1, quote 0, reply 0, retweet 0
+
+> @LiveOverflow @k_firsov
 
 
 ---

@@ -166,3 +166,7 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 1. For each OPEN pass-5 cursor above, call X full-archive search with the exact `query` and `until_id`, `max_results` 25, and ALWAYS include `post.fields` created_at,author_id,conversation_id,attachments,entities,note_post plus `expansions` author_id,attachments.media_keys,referenced_posts (omitting created_at/author_id drops them from the response).
 2. Ingest with `/workspace/raw/auto.py <cursor labels…>` (maps each result file to its cursor by author, advances until_id), then `/workspace/raw/push.sh "<msg>"` (regenerates ARCHIVE.md files + this status, commits, pushes).
 3. A cursor is DONE when a call returns zero results. cmi3 (cmichelio) was closed manually at 2016-07 (pre-security-era posts); xss3, ryo3, rhy3, g5b, g6b, t2b, g7b, g8b, g9b returned zero / reached account start.
+
+
+## 2026-11-15 note
+Pass-5 keyword backfill cursors remain DONE. Fresh full-archive probe for `(from:iguardz OR from:GuidoVranken) -is:retweet -is:reply` returned **0** results; `(from:iguardz OR from:GuidoVranken OR from:depi_)` security-keyword query returned only the already-archived @depi_ Codex post. No open pass-5 cursors to advance today; daily quota reserved for new-post sweep + Telegram/CVE.

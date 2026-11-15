@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12890**
+Total distinct URLs: **12899**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12896,3 +12896,12 @@ Total distinct URLs: **12890**
 | [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | White Pixels, Big Problems | https://medium.com/@prabaswaradaffa2/white-pixels-big-problems-an-image-decompression-bomb-case-study-b832b442f2de |
 | [14982](https://t.me/dailybountywriteup/14982) | 2026-11-13 09:35:29 | The Bouncer Who Waved Everyone In When the Scanner Broke | https://medium.com/@t4nv1/the-bouncer-who-waved-everyone-in-when-the-scanner-broke-a-3-500-gitlab-ssrf-ceea809cb849 |
 | [14983](https://t.me/dailybountywriteup/14983) | 2026-11-13 09:35:37 | GitHub Actions Secret Stealer (wfx): Hunt, Rotate, Harden - SecurityCipher | https://securitycipher.com/2026/11/12/github-actions-secret-stealer-wfx |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | From VDP to Bounty | https://levelup.gitconnected.com/from-vdp-to-bounty-how-i-earned-250-by-finding-an-open-redirect-5ce5c996460d |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | Content Discovery \| Try Hack Me Room \| CTF Writeup/Walkthrough \| Th3BlackHol3 | https://th3blackhol3.medium.com/content-discovery-try-hack-me-room-ctf-writeup-walkthrough-th3blackhol3-93926d80326d |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | HTB API Hacking | https://medium.com/@protagonist-offsec/htb-api-hacking-skill-assessment-walkthrough-646ba4b79d5b |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | The 2026 Bug Bounty Starter Kit | https://osintteam.blog/the-2026-bug-bounty-starter-kit-the-free-path-from-your-first-command-to-your-first-valid-bug-11640b716481 |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | Account Takeover via Password Reset Poisoning (X-Forwarded-Host) | https://medium.com/@m.elsaidy35/account-takeover-via-password-reset-poisoning-x-forwarded-host-3456af71dbc9 |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | The Bug Bounty Agent That Never Sleeps — and Always Asks Before It Attacks | https://medium.com/@vigneshkumaroffsec/the-bug-bounty-agent-that-never-sleeps-and-always-asks-before-it-attacks-af3e84aae814 |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | From P4 to P1 | https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-16-race-condition-vulnerabilities-finding-and-exploiting-time-based-logic-545999610673 |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | One Asterisk Means No Password. It Also Means the Hash Failed. SSH Compared the Two. | https://medium.com/codetodeploy/one-asterisk-means-no-password-it-also-means-the-hash-failed-ssh-compared-the-two-b227cee28f5c |
+| [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | CVE-2026–126641 | https://medium.com/@aleens09/cve-2026-126641-when-trust-on-first-use-trusts-the-second-key-too-a244cfb8e109 |

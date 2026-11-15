@@ -2,9 +2,31 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 14 November 2026 (Africa/Lagos).
+Last updated: 15 November 2026 (Africa/Lagos).
 
 ---
+
+
+## 2026-11-15 additions (from daily X sweep)
+
+**Guest upload magic-byte filters are not content parsers.** If an upload only checks the first few bytes, ship a valid header + attacker filename that makes the server treat a sibling upload as code, then request the path. Automate with a polyglot corpus and path-guessing against the returned URL. Source: [@mdp_sec 14 Nov 2026](posts/mdp_sec/2026-11-14-2121727373498257576.md).
+
+**Third-party widget config APIs are often unauthenticated write → first-party stored XSS.** Inventory embed bootstrap XHRs, fuzz vendor config CRUD without auth, and confirm sinks render in the site origin (not a sandboxed opaque iframe). Source: [@mdp_sec 14 Nov 2026](posts/mdp_sec/2026-11-14-2121606577698308308.md).
+
+**Masking asymmetry = IDOR.** Diff GET vs PUT/PATCH/POST for the same sequential id: fields masked on read may come back full on the update echo. Walk ±id without auth. Source: [@mdp_sec 14 Nov 2026](posts/mdp_sec/2026-11-14-2121546179360276882.md).
+
+**Mobile hardcoded keys decrypting remote "config" often yield server secrets.** Unpack APK/IPA, extract keys, decrypt startup blobs; assert no production private keys. Rotation of the client key alone is useless while the blob stays under it. Source: [@mdp_sec 14 Nov 2026](posts/mdp_sec/2026-11-14-2121515980211785729.md).
+
+**AI hunting harness layout (mdp_sec):** zero-steering agent; human builds prompts + helpers + RAG; call provider API directly; enforce scope at the egress proxy (not the prompt); human only reviews reports. Source: [@mdp_sec 15 Nov 2026](posts/mdp_sec/2026-11-15-2121817970381094966.md), [scope-at-proxy reply](posts/mdp_sec/2026-11-14-2121733132487737398.md).
+
+**Harnesses are not pure functions.** kobigurk: "Treating harnesses as functions is a form of skeuomorphism." Keep the recon→hypothesis→probe→evidence→report loop stateful. Source: [@kobigurk 15 Nov 2026](posts/kobigurk/2026-11-15-2121784321799598543.md).
+
+**Pool Party ($215K): recorded LP/position editable → drain across 15 pools (Arbitrum/Base).** Attacker edited their recorded position and drained ~$215K; fixed on all four chains; funds converted to XMR. Harness: any pool/position accounting that trusts a mutable on-chain or off-chain "recorded position" without re-deriving from deposits/shares is a drain primitive — fuzz position-update entrypoints and assert share↔asset invariants. Source: [@defendor_eng #2342](telegram/defendor_eng/), 14 Nov 2026.
+
+**Centrifuge V3.3 private bounty (B612): malicious pool manager withdrawing other pools' assets.** 17 researchers, 21 reports, 2 accepted; critical fixed in 24h. Harness: for multi-pool managers, test cross-pool withdraw/transfer with a manager role scoped to pool A against pool B assets. Source: [@defendor_eng #2344](telegram/defendor_eng/), 14 Nov 2026.
+
+
+
 
 ## Recon and process
 

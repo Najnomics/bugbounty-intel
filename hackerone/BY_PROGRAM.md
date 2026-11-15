@@ -5872,7 +5872,7 @@
 - [535827](reports/2019/535827.md) Buffer overflow in yywarning_s — shopify-scripts — - — $1,000 — Classic Buffer Overflow
 - [621308](reports/2019/621308.md) NULL pointer dereference in `mrb_check_frozen` — shopify-scripts — - — $1,000 — NULL Pointer Dereference
 
-## weblate (160)
+## weblate (161)
 
 - [223350](reports/2017/223350.md) Web server is vulnerable to Beast Attack — weblate — low —  — Cryptographic Issues - Generic
 - [225100](reports/2017/225100.md) CSRF to Connect third party Account — weblate — medium —  — Cross-Site Request Forgery (CSRF)
@@ -6034,6 +6034,7 @@
 - [4037976](reports/2026/4037976.md) Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries. — weblate — medium —  — Path Traversal
 - [4088592](reports/2026/4088592.md) CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching — weblate — medium —  — Uncontrolled Resource Consumption
 - [4094236](reports/2026/4094236.md)  Billion laughs entity expansion in Qt .ts discovery: a crafted ~950 KB file forces ~55 MB of XML expansion per parse, cost scales with crafted file c — weblate — medium —  — XML Entity Expansion
+- [4081135](reports/2026/4081135.md) Privilege escalation via unfiltered role restoration in project backup import — weblate — critical —  — Privilege Escalation
 
 ## legalrobot (155)
 

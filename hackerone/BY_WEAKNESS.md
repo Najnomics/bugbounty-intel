@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12754 reports)
+# HackerOne disclosed reports by weakness (12755 reports)
 
 
 ## Unspecified (1279)
@@ -7268,7 +7268,7 @@
 - [3781691](reports/2026/3781691.md) CSRF in zone‑include.php allows unauthorized banner and campaign linking — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
 - [3981932](reports/2026/3981932.md) CSRF in tracker invocation page — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
 
-## Privilege Escalation (374)
+## Privilege Escalation (375)
 
 - [1379975](reports/2022/1379975.md) bd-j exploit chain — playstation — high — $20,000 — Privilege Escalation
 - [689314](reports/2019/689314.md) Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests — gitlab — critical — $12,000 — Privilege Escalation
@@ -7644,6 +7644,7 @@
 - [3025797](reports/2026/3025797.md) [Privilege Escalation] User can Pin|Unpin Any Comment on Any Project or Locale — mozilla — low —  — Privilege Escalation
 - [3020021](reports/2026/3020021.md) [Vertical Privilege Escalation] User can Unapproved any Approved Translation at [/translations/unapprove/] — mozilla — medium —  — Privilege Escalation
 - [3353000](reports/2026/3353000.md) Privilege Escalation – Access to the Alert Subscribers page for users with low privileges — singlestore — low —  — Privilege Escalation
+- [4081135](reports/2026/4081135.md) Privilege escalation via unfiltered role restoration in project backup import — weblate — critical —  — Privilege Escalation
 
 ## Business Logic Errors (356)
 

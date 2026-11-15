@@ -1,11 +1,75 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 48
-- Conversations/threads: 31
+- Posts in this file: 50
+- Conversations/threads: 33
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Reply · @wannabechamp @thetraderoom_
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @343492719 — 2026-11-14 07:30 UTC (2026-11-14 08:30 WAT)
+
+- URL: https://x.com/343492719/status/2121506148499284019
+- Metrics (at fetch): not returned
+
+> Name a profitable trader on X
+
+
+### Post — @Swartz068 — 2026-11-14 22:24 UTC (2026-11-14 23:24 WAT)
+
+- URL: https://x.com/Swartz068/status/2121730965156606277
+- Metrics (at fetch): not returned
+
+> @wannabechamp @thetraderoom_
+
+
+---
+
+## 2026-11-14 · Reply · @thetraderoom_ Wow bro ❤️ 😍
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1740459527508553728 — 2026-11-14 15:09 UTC (2026-11-14 16:09 WAT)
+
+- URL: https://x.com/1740459527508553728/status/2121621427216699785
+- Metrics (at fetch): not returned
+
+> ❤️ [pic.x.com/9mbwwvSWsm]
+
+**Media:**
+- media `3_2121621395214139392` (details not returned by the API)
+- media `3_2121621395251859456` (details not returned by the API)
+- media `3_2121621395251884032` (details not returned by the API)
+- media `3_2121621395226636288` (details not returned by the API)
+- media `3_2121621395218280448` (details not returned by the API)
+- media `3_2121621395226632192` (details not returned by the API)
+- media `3_2121621395235119104` (details not returned by the API)
+- media `3_2121621395222536192` (details not returned by the API)
+- media `3_2121621395268608000` (details not returned by the API)
+- media `3_2121621395235028992` (details not returned by the API)
+- media `3_2121621395264430080` (details not returned by the API)
+- media `3_2121621395251838976` (details not returned by the API)
+- media `3_2121621395218251776` (details not returned by the API)
+- media `3_2121621395235012609` (details not returned by the API)
+- media `3_2121621395222474752` (details not returned by the API)
+- media `3_2121621395264376832` (details not returned by the API)
+
+
+### Post — @Swartz068 — 2026-11-14 16:25 UTC (2026-11-14 17:25 WAT)
+
+- URL: https://x.com/Swartz068/status/2121640629470126125
+- Metrics (at fetch): not returned
+
+> @thetraderoom_ Wow bro ❤️ 😍
 
 
 ---

@@ -1,11 +1,83 @@
 # @WhiteHatMage — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 171
-- Conversations/threads: 132
+- Posts in this file: 176
+- Conversations/threads: 134
 - Oldest post captured: 2025-11-29
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Thread · @HackenProof Audits by top firms
+
+
+Tags (automatic): Platform: HackenProof
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @HackenProof — 2026-11-14 16:01 UTC (2026-11-14 17:01 WAT)
+
+- URL: https://x.com/HackenProof/status/2121634511612252533
+- Metrics (at fetch): not returned
+
+> What’s one security measure you’ve bypassed more easily than you expected?
+
+
+### Post — @WhiteHatMage — 2026-11-14 16:01 UTC (2026-11-14 17:01 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2121634678629417463
+- Metrics (at fetch): not returned
+
+> @HackenProof Audits by top firms
+
+
+### Thread part 2 — @WhiteHatMage — 2026-11-14 19:36 UTC (2026-11-14 20:36 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2121688773817954505
+- Metrics (at fetch): not returned
+
+> @ZeroK_____ @HackenProof I don't recall
+
+
+---
+
+## 2026-11-14 · Thread · Celebrating one year since my last report 🎂.
+
+
+### Post — @WhiteHatMage — 2026-11-14 13:39 UTC (2026-11-14 14:39 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2121598883625054529
+- Metrics (at fetch): not returned
+
+> Celebrating one year since my last report 🎂.
+>
+> It took three months to triage, just to get a duplicate label.
+>
+> I stopped hunting later.
+>
+> Fun fact: The bug was very old. I was the first to report it to other projects. Someone probably saw the fix and submitted it to this program. [pic.x.com/1Y0CslWSVr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXFsognWIAAJ9tN.png — no alt text provided by author
+
+
+### Thread part 2 — @WhiteHatMage — 2026-11-14 14:10 UTC (2026-11-14 15:10 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2121606809316098200
+- Metrics (at fetch): not returned
+
+> @Tm8gRnV0dXJl I've been chill, focused on other stuff. Though I still love crypto security, so I still check some code from time to time. But I wouldn't call that hunting tbh
+
+
+### Thread part 3 — @WhiteHatMage — 2026-11-14 17:40 UTC (2026-11-14 18:40 WAT)
+
+- URL: https://x.com/WhiteHatMage/status/2121659631562784947
+- Metrics (at fetch): not returned
+
+> @x509dot @Tm8gRnV0dXJl wdym? creating a bounty platform?
 
 
 ---

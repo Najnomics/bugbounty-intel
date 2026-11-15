@@ -1,11 +1,24 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 128
-- Conversations/threads: 110
+- Posts in this file: 129
+- Conversations/threads: 111
 - Oldest post captured: 2014-01-16
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Post · Treating harnesses as functions is a form of skeuomorphism
+
+
+### Post — @kobigurk — 2026-11-15 01:56 UTC (2026-11-15 02:56 WAT)
+
+- URL: https://x.com/kobigurk/status/2121784321799598543
+- Metrics (at fetch): bookmark 0, impression 410, like 2, quote 0, reply 1, retweet 1
+
+> Treating harnesses as functions is a form of skeuomorphism
 
 
 ---

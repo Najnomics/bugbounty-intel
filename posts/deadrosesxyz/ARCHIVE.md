@@ -1,11 +1,34 @@
 # @deadrosesxyz — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-14 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 80
-- Conversations/threads: 69
+- Posts in this file: 81
+- Conversations/threads: 70
 - Oldest post captured: 2023-03-14
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-14
+
+
+---
+
+## 2026-11-14 · Reply · @gainzy222 in that case you're just going to lose even more money.
+
+
+**Context — post being replied to:**
+
+#### Parent post — @4107711 — 2026-11-14 16:25 UTC (2026-11-14 17:25 WAT)
+
+- URL: https://x.com/4107711/status/2121640800815608124
+- Metrics (at fetch): bookmark 3, impression 17468, like 304, quote 1, reply 33, retweet 5
+
+> down immeasurable sums, all i have to look forward to is hokit sparking gane
+
+
+### Post — @deadrosesxyz — 2026-11-14 17:22 UTC (2026-11-14 18:22 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2121655040465064409
+- Metrics (at fetch): bookmark 0, impression 374, like 4, quote 0, reply 0, retweet 0
+
+> @gainzy222 in that case you're just going to lose even more money.
 
 
 ---

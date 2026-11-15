@@ -2,6 +2,13 @@
 
 Generated 11 Nov 2026 (WAT), Telegram sources added 12 Nov 2026 (Africa/Lagos). Every link points to a file inside this repo that holds **full verbatim text** — no X or Telegram access needed.
 
+## Daily update — 15 November 2026 (Africa/Lagos)
+
+- New X posts (security-relevant, with analysis): [mdp_sec guest-upload RCE](posts/mdp_sec/2026-11-14-2121727373498257576.md), [mdp_sec widget-config stored XSS](posts/mdp_sec/2026-11-14-2121606577698308308.md), [mdp_sec sequential-IDOR SSN (Critical dupe)](posts/mdp_sec/2026-11-14-2121546179360276882.md), [mdp_sec mobile hardcoded key → prod private key](posts/mdp_sec/2026-11-14-2121515980211785729.md), [mdp_sec AI harness zero-steering](posts/mdp_sec/2026-11-15-2121817970381094966.md), [kobigurk harness skeuomorphism](posts/kobigurk/2026-11-15-2121784321799598543.md), [zkSecurity newsletter](posts/zksecurityXYZ/2026-11-14-2121564859724648754.md) + [writeup](writeups/zksecurityXYZ/newsletter-2026-11-14.md). 93 new watched-account posts captured into `data/x_posts.jsonl` / ARCHIVEs.
+- Telegram: @defendor_eng +4 (Pool Party $215K, Centrifuge V3.3, …); @dailybountywriteup +1. Writeups fetched this run: defendor +62 (total 172), dailybounty +167 (total 765); pending 263 / 11,239.
+- HackerOne +1: [Weblate #4081135 critical backup-import priv-esc](hackerone/reports/2026/4081135.md).
+- CVE cvelistV5 +75 new / 24 updated; KEV unchanged; GHSA reviewed +0.
+
 ## Daily update — 14 November 2026 (Africa/Lagos)
 
 - New X posts (security-relevant, with analysis): [mdp_sec $2k cross-tenant IDOR credential leak](posts/mdp_sec/2026-11-13-2121244189593940355.md), [mdp_sec harness model benchmarks](posts/mdp_sec/2026-11-13-2121358210577883544.md) + [Grok 4.7 vs 4.6](posts/mdp_sec/2026-11-13-2121274388435922971.md), [mdp_sec triage telemetry](posts/mdp_sec/2026-11-13-2121213990546088318.md), [S1r1u5_ Cursor/Fireworks AI-infra breach](posts/S1r1u5_/2026-11-14-2121447753410904131.md), [S1r1u5_ Project Zero Full-X disclosure](posts/S1r1u5_/2026-11-14-2121423646539604228.md), [saxenism email .zip PoC blocked](posts/saxenism/2026-11-13-2121239127467434217.md), [saxenism L1 secure release](posts/saxenism/2026-11-13-2121167157329584138.md), [garethheyes PHP XOR-string filter bypass](posts/garethheyes/2026-11-13-2121236435273675134.md), [albinowax/zseano RCE proof-of-impact trend](posts/albinowax/2026-11-13-2121234124476183016.md), [NahamSec "Weird Ways to Hack Gemini"](posts/NahamSec/2026-11-13-2121246957616390355.md). 121 new watched-account posts captured verbatim into `posts/*/ARCHIVE*` and `data/x_posts.jsonl`.
